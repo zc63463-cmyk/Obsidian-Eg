@@ -1,0 +1,160 @@
+---
+title: "sociology"
+tags:
+  - 学习/英语/词汇
+  - 语义场/学术职业
+  - 掌握/L0
+aliases: []
+date: 2026-04-21
+mastery: L0
+word_freq: 中频
+semantic_field: 学术职业
+prototype: 研究社会的学问
+extension_dim: 社会路径
+last_review: 2026-04-21
+review_count: 0
+---
+
+# sociology
+
+> [!info] 基础信息
+> **音标** /ˌsəʊsiˈɒlədʒi/ | **词频** 考研中频 | **语义场** [[学术职业]]
+
+## 核心释义
+
+**n.** ①==**社会学**（研究社会结构、社会关系和社会行为的学科）；
+
+> [!tip] 原型义
+> **原型义**：关于社会（soci）的学问（-logy）
+> **延伸维度**：社会路径
+> **隐喻类型**：无隐喻（本义即学科名称）
+
+## 词根词缀
+
+soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
+**叙事**：研究同伴如何结成社会集体的一门学问 → 社会学
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**研究社会的学问**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **研究社会的学问**（学科层面）
+>    - → **社会学**：系统研究社会结构、社会制度、社会关系和社会行为的学科
+>      - 激活条件：讨论学科分类、学术研究时
+
+### 统筹（选择适用的模式）
+
+- **一句话统筹**：sociology 就是"关于社会的学问"，用科学方法研究人类社会是如何运作的。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：sociology 直接指向社会学，含义明确单一
+> - [x] **可统筹**：核心含义围绕"社会研究"展开
+> - [x] **有支撑**：soci（同伴）+ -logy（学问）构成完整的构词逻辑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 社会学 | 基本词性（-logy 学科后缀） |
+> | adj. | 社会学的 | sociology + -ical → sociological |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> soci（同伴/社会）+ logy（学问）= 研究社会的学问 → 社会学
+>
+> **词拆分记忆**（辅助）：
+> sociology = soci（社会）+ ology（学问）= 社会学（类似 biology 生物学、psychology 心理学）
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[anthropology]] | 人类学 | 研究人类文化、体质、进化 | 人类整体 | 中性 |
+> | [[psychology]] | 心理学 | 研究个体心理与行为 | 个体心理 | 中性 |
+> | [[political science]] | 政治学 | 研究政治制度与权力 | 政治领域 | 中性 |
+> | **sociology** | 社会学 | 研究社会结构与社会关系 | 社会整体 | 中性 |
+>
+> **"增"标记**：sociology **(增-社会聚焦)** vs psychology（sociology 关注群体和社会层面，psychology 关注个体心理层面）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - （作为学科，sociology 没有严格意义上的反义词，但可与个体层面的学科形成互补关系）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[sociological]] | sociology + -ical（形容词） | 社会学的 | 词义填充 |
+> | [[sociologist]] | sociology + -ist（人） | 社会学家 | 词义补充 |
+> | [[social]] | soci + -al（形容词后缀） | 社会的，社交的 | 词义补充 |
+> | [[society]] | soci + -ety（名词后缀） | 社会 | 词义补充 |
+> | [[socialism]] | social + -ism（主义） | 社会主义 | 词义补充 |
+> | [[sociable]] | soci + -able（可被） | 好交际的 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **sociology department**：社会学系
+  - She is a professor in the sociology department at the university.（她是大学社会学系的教授。）
+> - **sociological research**：社会学研究
+  - Sociological research has shed light on the causes of inequality.（社会学研究揭示了不平等的成因。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Sociology provides valuable insights into the structure and dynamics of modern society."（社会学为理解现代社会的结构和动态提供了宝贵的洞见。）——考研高频表达
+> - "The study of sociology helps us understand how individuals are shaped by their social environment."（社会学研究帮助我们理解个人是如何被其社会环境所塑造的。）——考研高频表达
+
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<待补充>
+> **翻译实践**：<待补充>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：soci（同伴、结交）
+> - [ ] 同义辨析：anthropology, psychology, political science
+> - [ ] 反义词群：（无严格反义词）
+> - [ ] 形近词群：sociable, social, socialism, society, sociology（soci- 词根族）

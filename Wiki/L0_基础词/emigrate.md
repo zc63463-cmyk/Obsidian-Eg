@@ -1,0 +1,159 @@
+---
+title: "emigrate"
+tags:
+  - 学习/英语/词汇
+  - 语义场/移动行为
+  - 掌握/L0
+aliases: []
+date: 2026-04-22
+mastery: L0
+word_freq: 中频
+semantic_field: 移动行为
+prototype: 迁移出去（离开祖国移居他国）
+extension_dim: 地理-身份-文化
+last_review: 2026-04-22
+review_count: 0
+---
+
+# emigrate
+
+> [!info] 基础信息
+> **音标** /ˈemɪɡreɪt/ | **词频** 考研中频 | **语义场** [[移动行为]]
+
+## 核心释义
+
+**v.** ①==**移居国外，移民**==（从本国移出）
+
+> [!tip] 原型义
+> **原型义**：迁移出去（离开祖国移居他国）
+> **延伸维度**：地理→身份→文化
+> **隐喻类型**：方向隐喻（"出去"→离开——em-表示向外→从本国移出）
+
+## 词根词缀
+
+[[e]]-(=ex-, 出/外) + migr(迁移，拉丁语 *migrare*，迁移) + -ate(动词后缀)
+**叙事**：e（出）+ migr（迁移）+ ate（动词）→ 迁移出去 → 移居国外。emigrate 的核心是"出去"——从自己的国家移出去。注意和 immigrate（移入）的区别：emigrate 是"出去"（em- = ex- = out），immigrate 是"进来"（im- = in- = in）。[[e]]/[[ex-]] 表示"出"，migr 表示"迁移"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**迁移出去**"为统筹中心，沿地理-身份-文化向外扩展：
+>
+> 1. **迁移出去**（地理层面）
+>    - → **移居国外，移民**：从本国移出到他国
+>      - 激活条件：emigrate from A to B, emigrate to America
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：emigrate 就是"迁出去"——从本国移出到外国
+- **延伸中心**：从"地理迁移"延伸到"身份转变"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"移居国外"能反向推导到"迁移出去"——移居国外就是迁出去
+> - [x] **可统筹**：一句话——"emigrate 就是迁移出去，从自己的国家搬到外国"
+> - [x] **有支撑**：emigrate from, emigrate to 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | v. | 移居国外 | 核心词性，"迁移出去"的动作 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> emigrate 来自拉丁语 *emigrare*：e（出）+ migrare（迁移）→ 迁移出去。关键区分：emigrate（移出）vs immigrate（移入）vs migrate（迁移，不指定方向）。记忆口诀：**e**migrate = **e**xit（出去），**im**migrate = **im**port（进来）。He emigrated from China to Canada（他从中国移居加拿大）——站在中国的角度看是 emigrate（出去），站在加拿大的角度看是 immigrate（进来）。
+>
+> **词拆分记忆**（辅助）：
+> e（出）+ migr（迁移）+ ate → 迁移出去 → 移居国外
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[immigrate]] | 移入（某国） | 强调进入目标国 | 目标国视角 | 中性/进入 |
+> | [[migrate]] | 迁移，迁徙 | 强调移动本身（不指定方向） | 动物、人口 | 中性/通用 |
+> | **emigrate** | 移居国外 | 强调离开祖国（最精确方向） | 祖国视角 | 中性/出去 |
+
+> **"增"标记**：emigrate **(增-明确的"出去"方向)** vs migrate（基准词：迁移）；emigrate **(增-祖国视角)** vs immigrate（基准词：移入）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[immigrate]]：移入（emigrate 的精确反义：移出↔移入）
+> - [[repatriate]]：遣返，回国（emigrate 的反义：移出↔回国）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[emigrant]] | emigrate + -ant(人) | 移出者，侨民 | 派生名词 |
+> | [[emigration]] | emigrate + -ion | 移居国外 | 派生名词 |
+> | [[immigrate]] | im-(进入) + migr(迁移) + -ate | 移入（某国） | 反义同根 |
+> | [[migrate]] | migr(迁移) + -ate | 迁移，迁徙 | 同根词 |
+> | [[embark]] | em-(进入) + bark(船) | 上船；开始 | 前缀共享（em-） |
+> | [[embarrass]] | em-(进入) + bar(障碍) | 使尴尬 | 前缀共享（em-） |
+> | [[emit]] | e-(出) + mit(发送) | 发出，排放 | 前缀共享（e-/em-） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **emigrate from A to B**：从A国移居B国
+> - **emigrate to America/Canada**：移居美国/加拿大
+> - **emigrate for economic reasons**：因经济原因移居国外
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Millions of Europeans emigrated to America in the late 19th and early 20th centuries."（19世纪末20世纪初，数百万欧洲人移居美国——常见历史英语语料）
+> - "She emigrated from China to Australia in search of better educational opportunities for her children."（她为了给孩子寻求更好的教育机会，从中国移居澳大利亚——常见英语学习语料）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] em词族：embark/embarrass/emigrate/emit
+> - [ ] 同义辨析：emigrate/immigrate/migrate
+> - [ ] 反义词群：immigrate/repatriate
+> - [ ] 搭配网络：emigrate from / emigrate to

@@ -1,0 +1,166 @@
+---
+title: "congress"
+tags:
+  - 学习/英语/词汇
+  - 语义场/政治法律
+  - 掌握/L0
+aliases: []
+date: 2026-04-22
+mastery: L0
+word_freq: 中频
+semantic_field: 政治法律
+prototype: 共同走来、走到一起
+extension_dim: 社会路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# congress
+
+> [!info] 基础信息
+> **音标** /ˈkɒŋɡres/ | **词频** 考研中频 | **语义场** [[政治法律]]
+
+## 核心释义
+
+**n.** ①==**国会，议会**== ; ②代表大会，专业会议；③（大写）美国国会；
+
+> [!tip] 原型义
+> **原型义**：共同走来、走到一起（源自拉丁语 congressus = con- "一起" + gradi "走"）
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（物理上的走到一起→社会性的聚集→政治会议/国会）
+
+## 词根词缀
+
+建议创建词根笔记 [[gress]]（走、步）
+con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到一起→集会→国会
+**叙事**：来自各地的代表"共同走来"聚集在一个大厅里开会——这就是 congress（国会/代表大会）。congress = 共同走来→国会。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**共同走来、走到一起**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **共同走来、走到一起**（物理层面）
+>    - → **代表大会、专业会议**：人们走到一起开会
+>      - 激活条件：描述学术会议、专业集会时
+>    - → ==**国会、议会**==：代表们走到一起商议国事→最高立法机构
+>      - 激活条件：描述国家立法机构时（常大写 Congress）
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**："聚"——聚在一起开会→国会。
+- **一句话统筹**：congress 的核心是"聚"——人们走到一起开会就是大会，代表走到一起议政就是国会。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：国会→大会→走到一起，从政治到物理，链条完整
+> - [x] **可统筹**：以"聚"为核心，不同规模对应不同义项
+> - [x] **有支撑**：Congress（美国国会）→ an international congress of scientists（国际科学家大会）
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 国会、代表大会 | 基础词性 |
+> | adj. (congressional) | 国会的 | congress + -ional 形容词化 |
+> | n. (congressman/congresswoman) | 国会议员 | congress + man/woman |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> con-(共同) + gress(走) → 各地代表"共同走来"聚集开会→国会。想象全国各地的代表从四面八方走来，汇聚到国会大厦。
+>
+> **词拆分记忆**（辅助）：
+> [[congress]] 包含 [[gress]](走)。con(共同) + gress(走) → 共同走来→集会→国会。同根词：[[progress]](向前走→进步)、[[aggressive]](向...走→侵略的)、[[digress]](偏离走→离题)。
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[parliament]] | 议会 | 侧重英式议会制度 | Britain, Europe | 正式/中性 |
+> | [[assembly]] | 集会、大会 | 侧重聚集的行为/场所 | UN General Assembly | 正式/中性 |
+> | [[conference]] | 会议 | 侧重讨论、交流性质 | academic, press | 中性 |
+> | **congress** | 国会、代表大会 | 侧重代表聚集议政 | US Congress, scientific | 正式/中性 |
+>
+> **"增"标记**：congress **(增-立法权属性)** vs conference（congress 更强调正式的立法/议政功能；conference 更强调交流讨论）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[separation]]：分离（聚集→分离，政治语境中指权力分离）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[congressional]] | congress + -ional | 国会的 | 词义填充：母词填充派生词 |
+> | [[congressman]] | congress + man | 国会议员 | 词义填充：母词填充派生词 |
+> | [[progress]] | pro-(向前) + gress(走) | 进步、前进 | 词义补充：同根词 |
+> | [[aggressive]] | ag-(向) + gress(走) + -ive | 侵略的、有进取心的 | 词义补充：同根词 |
+> | [[digress]] | di-(偏离) + gress(走) | 离题 | 词义补充：同根词 |
+> | [[confuse]] | con + fuse(倾倒) | 使困惑 | 同族（con-前缀） |
+> | [[confusion]] | confuse + -ion | 困惑、混乱 | 同族（con-前缀） |
+> | [[conform]] | con + form(形状) | 遵守、顺从 | 同族（con-前缀） |
+> | [[confront]] | con + front(前面) | 面对、对抗 | 同族（con-前缀） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **Congress**：美国国会（大写专指）
+  - The Congress approved the new budget proposal by a narrow margin.（国会以微弱多数通过了新的预算提案。）
+- **congressional election**：国会选举
+  - The congressional elections will determine the balance of power in the legislature.（国会选举将决定立法机构的权力格局。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The Congress approved the new education bill after months of heated debate."（经过数月的激烈辩论，国会批准了新的教育法案。）——考研高频表达
+> - "The international congress on climate change brought together scientists from over 100 countries."（国际气候变化大会汇集了来自100多个国家的科学家。）——考研高频表达
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：
+> **翻译实践**：
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：gress（走、步）
+> - [ ] 同义辨析：congress, parliament, assembly, conference
+> - [ ] 反义词群：separation, dissolution
+> - [ ] 形近词群：congress, progress, aggressive, digress

@@ -1,0 +1,169 @@
+---
+title: "praise"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会习俗
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 社会习俗
+prototype: 称赞，赞扬
+extension_dim: 肯定评价
+last_review: 2026-04-23
+review_count: 0
+---
+
+# praise
+
+> [!info] 基础信息
+> **音标** /preɪz/ | **词频** 考研高频 | **语义场** [[社会习俗]]
+
+## 核心释义
+
+**vt.** ①==**赞扬，表扬，称赞**==；②==**赞美（上帝）**==；
+**n.** ①==**赞扬，表扬**==；②==**赞美，赞颂**==；③==**赞美的话**==；
+
+> [!tip] 原型义
+> **原型义**：称赞，赞扬（古法语 *prisier*，"to prize, value"，珍视→赞扬）
+> **延伸维度**：肯定评价
+> **隐喻类型**：价值隐喻（"珍视"→ "赞扬"——因为珍视所以赞扬）
+
+## 词根词缀
+
+praise(称赞/赞扬，古法语 *prisier*)
+**叙事**：praise 源自古法语 *prisier*（珍视、估价），与 [[price]]（价格）同源——都来自拉丁语 *pretium*（价格、价值）。核心逻辑是"珍视"→ "赞扬"——因为认为有价值所以给予赞扬。praise someone for something = 因某事赞扬某人。high praise = 高度赞扬。win praise = 赢得赞扬。praise 还可以表示"赞美（上帝）"——praise the Lord = 赞美主。praise highly = 高度赞扬。praise 强调的是积极的、正面的评价，与 [[blame]]（指责）正好相反。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**珍视→赞扬**"为统筹中心，沿肯定评价向外扩展：
+>
+> 1. **珍视**（价值判断）
+>    - → **赞扬，表扬**：因为珍视而给予正面评价
+>      - 激活条件：praise someone for, praise highly
+>    - → **赞美（上帝）**：宗教上的赞颂
+>      - 激活条件：praise the Lord, songs of praise
+>    - → **赞扬的话**：赞扬的内容
+>      - 激活条件：win praise, high praise
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：praise 就是"珍视→赞扬"——从珍视价值到给予正面评价
+- **延伸中心**：从"价值判断"延伸到"积极评价"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"赞扬"能反向推导到"珍视"——赞扬就是因为认为有价值
+> - [x] **可统筹**：一句话——"praise = 珍视→赞扬→赞美"
+> - [x] **有支撑**：praise for, win praise, songs of praise 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | vt. | 赞扬；赞美 | 核心词性 |
+> | n. | 赞扬；赞美的话 | vt.→n：动作名词化 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> praise 来自"珍视"（prisier）。你 praise（赞扬）一个人，就是因为你珍视他的品质或成就。praise 和 [[price]]（价格）同源——都来自拉丁语 *pretium*（价值）。有价值的东西才值得 praise。praise someone for their bravery = 因勇敢而赞扬某人。win high praise = 赢得高度赞扬。praise 也可以指宗教上的"赞美"——praise God = 赞美上帝。praise 和 [[blame]]（指责）是一对反义词：praise = 说好话，blame = 说坏话。
+>
+> **词拆分记忆**（辅助）：
+> pr（pray，祈祷）+ aise（aise→ease，舒适）→ 祈祷让人感到舒适 → 赞美 → praise
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[commend]] | 称赞，推荐 | 强调正式的赞扬 | 品行、作品 | 正面/正式 |
+> | [[compliment]] | 赞美，恭维 | 强调社交性的赞美 | 外貌、能力 | 正面/社交 |
+> | [[flatter]] | 奉承，谄媚 | 强调不真诚的恭维 | 人、权力 | 负面/虚伪 |
+> | **praise** | 赞扬，表扬 | 最通用的赞扬表达 | 成就、品行、作品 | 正面/通用 |
+
+> **"增"标记**：praise **(增-最通用的赞扬表达，适用范围最广)** vs commend（基准词：称赞）；praise **(增-真诚的正面评价)** vs flatter（基准词：奉承）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[blame]]：责备（praise 的精确反义：赞扬↔责备）
+> - [[criticize]]：批评（praise 的反义：赞扬↔批评）
+> - [[condemn]]：谴责（praise 的反义：赞扬↔谴责）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[praise]] | 古法语 *prisier* | 赞扬；赞美 | 核心词 |
+> | [[praiseworthy]] | praise + worthy(值得的) | 值得赞扬的 | 派生词 |
+> | [[praiseful]] | praise + -ful(充满的) | 充满赞美的 | 派生词 |
+> | [[price]] | 同源（拉丁语 *pretium*） | 价格；价值 | 同源词 |
+> | [[prize]] | 同源（拉丁语 *pretium*） | 奖品；珍视 | 同源词 |
+> | [[appreciate]] | 同源（拉丁语 *appretiare*） | 欣赏；感激 | 同源词 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **praise someone for something**：因某事赞扬某人
+> - **high praise**：高度赞扬
+> - **win/earn praise**：赢得赞扬
+> - **sing someone's praises**：极力赞扬某人
+> - **praise highly**：高度赞扬
+> - **songs of praise**：赞美诗
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The novel won high praise from literary critics for its profound exploration of human nature."（这部小说因对人性深刻的探索而赢得了文学评论家的高度赞扬。——考研英语阅读文学类话题）
+> - "The government was widely praised for its swift response to the natural disaster."（政府因对自然灾害的迅速反应而受到广泛赞扬。——考研英语阅读社会类话题）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：praise/commend/compliment/flatter
+> - [ ] 反义词群：blame/criticize/condemn
+> - [ ] 同源词群：praise/price/prize/appreciate
+> - [ ] 搭配网络：praise for/high praise/win praise

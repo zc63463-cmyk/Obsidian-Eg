@@ -1,0 +1,160 @@
+---
+title: "stagnate"
+tags:
+  - 学习/英语/词汇
+  - 语义场/自然物理
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 自然物理
+prototype: 停止流动（水不再流动，变得死寂）
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# stagnate
+
+> [!info] 基础信息
+> **音标** /stæɡˈneɪt/ | **词频** 考研中频 | **语义场** [[自然物理]]
+
+## 核心释义
+
+**v.** ①==**停滞，不发展**==；②==**不流动**==（水）；③==**变萧条**==；
+
+> [!tip] 原型义
+> **原型义**：停止流动（水不再流动，变得死寂）
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"水停止流动"→"经济/社会停滞"——从物理停滞到抽象停滞）
+
+## 词根词缀
+
+源自拉丁语 *stagnatum* / *stagnatus*（停滞的），是 *stagnare*（停滞）的过去分词。*stagnare* 源自 *stagnatum*（静止的水、池塘），可能来自原始印欧语词根 *\*stag-*（渗漏、滴落）。与 [[stagnant]]（停滞的）同源。
+**叙事**：stagnate 的核心画面是"一条河流不再流动，变成了死水"。拉丁语 *stagnare* = 停滞 = 不流动。河水不再流动——这就是 stagnate。The economy stagnated（经济停滞了）= 像死水一样不动。Trade has stagnated（贸易停滞了）= 像水一样不流动。Progress stagnated（进步停滞了）= 发展像水一样"停住"了。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**停止流动**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **水停止流动**（物理层面）
+>    - → **不流动**：水停滞不动
+>      - 激活条件：stagnant water, the river stagnated
+>    - → **停滞，不发展**：像死水一样不动
+>      - 激活条件：the economy stagnated, progress stagnated
+>    - → **变萧条**：没有活力
+>      - 激活条件：sales stagnated, industry stagnated
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：stagnate 就是"停滞"——像死水一样不流动不发展
+- **延伸中心**：从"水不流动"延伸到"经济停滞"和"社会不发展"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"经济停滞"能反向推导到"水不流动"——停滞就像死水一样
+> - [x] **可统筹**：一句话——"stagnate 就是从水不流动到经济停滞到萧条"
+> - [x] **有支撑**：the river stagnated, economy stagnated, sales stagnated 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | v. | 停滞；不流动；变萧条 | 核心词性，不及物动词 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> stagnate 的核心画面是"一条河流不再流动，变成了死水"。拉丁语 *stagnare* = 停滞 = 不流动。The economy has stagnated for three years（经济已经停滞三年了）= 像死水一样不动。Sales stagnated during the recession（经济衰退期间销售额停滞不前）。Wages stagnated while prices rose（物价上涨时工资却停滞不前）。同源词：stagnant（停滞的）、stagnation（停滞状态）。
+>
+> **词拆分记忆**（辅助）：
+> stagnate → stag（停留）+ nate → 停留不动 → 停滞
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[decline]] | 下降 | 强调变差 | 经济、质量 | 负面/下降 |
+> | [[deteriorate]] | 恶化 | 强调变坏 | 状况、关系 | 负面/恶化 |
+> | [[plateau]] | 达到平台期 | 强调不再增长 | 进步、发展 | 中性/平稳 |
+> | **stagnate** | 停滞 | 强调"死水不流" | 经济、贸易、工资 | 负面/停滞 |
+
+> **"增"标记**：stagnate **(增-死水隐喻的生动感和"不进不退"的精确含义)** vs decline（基准词：一般下降）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[flourish]]：繁荣（stagnate 的精确反义：停滞↔繁荣）
+> - [[grow]]：增长（stagnate 的反义：停滞↔增长）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[stagnant]] | stagnate + -ant | 停滞的 | 词义补充 |
+> | [[stagnation]] | stagnate + -ion | 停滞状态 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **the economy stagnated**：经济停滞
+> - **sales/profits stagnated**：销售额/利润停滞
+> - **wages stagnated**：工资停滞不前
+> - **stagnate at**：停滞在（某个水平）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Despite government efforts to stimulate growth, the economy has stagnated for three consecutive years, leaving millions of workers unemployed."（尽管政府努力刺激增长，但经济已连续三年停滞，导致数百万人失业——考研阅读经济话题相关表达）
+> - "As wages stagnated while the cost of living continued to rise, many middle-class families found themselves struggling to maintain their standard of living."（随着工资停滞不前而生活成本持续上涨，许多中产家庭发现自己难以维持生活水平——考研阅读社会话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：拉丁语 stagnare（停滞，不流动的水）
+> - [ ] 同义辨析：stagnate/decline/deteriorate/plateau
+> - [ ] 反义词群：flourish/grow
+> - [ ] 形近词群：stagnate/stagnant/stagnation/stagger

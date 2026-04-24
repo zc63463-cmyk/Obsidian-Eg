@@ -1,0 +1,169 @@
+---
+title: "leak"
+tags:
+  - 学习/英语/词汇
+  - 语义场/自然物理
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 自然物理
+prototype: 泄漏（液体/气体从缝隙中渗出）
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# leak
+
+> [!info] 基础信息
+> **音标** /liːk/ | **词频** 考研中频 | **语义场** [[自然物理]]
+
+## 核心释义
+
+**n.** ①==**漏洞，裂缝**==；②==**泄漏，泄密**==；
+**v.** ①==**漏，渗**==；②==**泄露（信息等）**==；
+
+> [!tip] 原型义
+> **原型义**：泄漏（液体/气体从缝隙中渗出）
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"液体渗漏"→"信息泄露"——信息像水一样从缝隙中流出）
+
+## 词根词缀
+
+本词为日耳曼语族原生词，源自中古英语 *leken*（泄漏），与 [[leaf]] 词族同源（原始日耳曼语 *laik-*/*laikaz*，"渗出/泄漏"）。无前缀后缀拆分。
+**叙事**：leak（泄漏）就像水从裂缝中渗出来。水管 leak 了就是漏水，信息 leak 了就是泄密。和 [[leaf]] 同源——树叶（leaf）的汁液会从叶脉中渗出（leak），两者都围绕"液体流动"的意象。
+
+建议创建词根笔记 [[laub-]]（叶子/渗出，原始日耳曼语）
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**泄漏**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **泄漏**（物理层面）
+>    - → **漏水/漏气**：液体或气体从缝隙中渗出
+>      - 激活条件：Water was leaking from the pipe. Oil leaked out of the car.
+>    - → **漏洞**：导致泄漏的缝隙或缺陷
+>      - 激活条件：a leak in the roof, fix the leak
+>    - → **泄密**：信息像水一样从缝隙中流出
+>      - 激活条件：information leak, leak confidential data
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：leak 就是"漏"——水管漏了叫漏水，屋顶漏了叫漏洞，信息漏了叫泄密
+- **延伸中心**：从"液体渗漏"延伸到"信息泄露"的隐喻
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"泄密"能反向推导到"泄漏"——信息泄露就像水从缝隙中流出
+> - [x] **可统筹**：一句话——"leak 就是液体/信息从缝隙中渗出"
+> - [x] **有支撑**：data leakage, information leak, water leaking 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 漏洞；泄密 | 核心词性 |
+> | v. | 漏；泄露 | n→v：将"泄漏"变为动作——漏水/泄密 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> leak（泄漏）——想象一个水管上有裂缝，水从裂缝中 leak 出来。信息也是一样——公司数据从安全漏洞中 leak 出来就是"泄密"。记住：leak = 漏，不管是水漏还是信息漏。
+>
+> **词拆分记忆**（辅助）：
+> leak 联想"立刻"——水管破裂，水"立刻"leak（漏）出来
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[drip]] | 滴漏 | 强调一滴一滴地漏 | 水龙头、管道 | 中性/轻微 |
+> | [[spill]] | 溢出，洒 | 强调容器满后溢出 | 液体、化学品 | 中性/意外 |
+> | [[disclose]] | 透露，公开 | 强调有意地公开信息 | 信息、计划 | 中性/正式 |
+> | **leak** | 泄漏，泄密 | 强调从缝隙中无意或有意地渗出（兼具物理和信息义） | 水、气体、信息 | 负面/隐患 |
+>
+> **"增"标记**：leak **(增-物理泄漏+信息泄露的双重性)** vs disclose（基准词：有意透露）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[seal]]：密封（leak 的反义：泄漏↔密封）
+> - [[conceal]]：隐藏，隐瞒（leak 的信息义反义：泄露↔隐瞒）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[leaf]] | 同源词（原始日耳曼语 *laubaz*） | 叶子；书页 | 同源互链 |
+> | [[leaflet]] | leaf + -let（小） | 传单 | 同源互链 |
+> | [[league]] | 同源词（原始日耳曼语 *laubaz*） | 联盟 | 同源互链 |
+> | [[lean]] | 同源词（原始日耳曼语 *hleinan-*） | 倾斜；倚靠 | 同源互链 |
+> | [[leap]] | 同源词（原始日耳曼语 *hlaupan-*） | 跳跃 | 同源互链 |
+> | [[lease]] | 同源词（原始日耳曼语 *lēas*） | 租约 | 同源互链 |
+> | [[leather]] | 同源词（原始日耳曼语 *leþer-*） | 皮革 | 同源互链 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **information/data leak**：信息/数据泄露
+> - **leak out**：泄露出去
+> - **fix a leak**：修补漏洞
+> - **leak confidential information**：泄露机密信息
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Several massive leakages of customer and employee data this year — from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley — have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities."（今年发生了多起消费者和员工信息的重大泄密事件——涉及时代华纳、美国国防部承包商科学应用国际公司以及加州大学伯克利分校等不同机构——这使得管理人员急忙检查其复杂的IT系统和业务流程，以寻找潜在的安全漏洞。——2007年考研英语一Text 4）
+> - "Meanwhile, the theft of information about some 40 million credit-card accounts in America, disclosed on June 17th, overshadowed a hugely important decision a day earlier by America's Federal Trade Commission."（与此同时，美国约4000万信用卡账户信息被盗事件于6月17日被披露，使美国联邦贸易委员会前一天做出的一项极其重要的决定黯然失色。——2007年考研英语一Text 4）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[laub-]]（叶子/渗出，原始日耳曼语）
+> - [ ] 同义辨析：leak/drip/spill/disclose
+> - [ ] 反义词群：seal/conceal
+> - [ ] 形近词群：leak/leaf/leaflet/league/lean/leap/lease/leather

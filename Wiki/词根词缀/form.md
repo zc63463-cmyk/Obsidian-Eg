@@ -1,0 +1,97 @@
+---
+title: "form-（形状/形式/塑造）"
+tags:
+  - 学习/英语/词汇/词根词缀
+type: 词根
+aliases: [form, forma, formare]
+date: 2026-04-22
+---
+
+# form-（形状/形式/塑造）
+
+> [!info] 核心信息
+> - **词根/词缀**：form-
+> - **含义**：形状、形式、塑造
+> - **来源**：拉丁语 *forma*（形状、形式、模具），源自希腊语 *morphē*（形状），更早可追溯至 PIE *\*mer-*（摩擦、打磨成形）
+> - **类型**：词根
+
+## 叙事记忆
+
+> [!tip] 词源故事
+> 想象一位雕塑家的工作室——他拿起一块粗糙的石头，开始**塑造**（form）它的**形状**（form）。他不是随意雕琢，而是按照严格的**格式**（format）和**公式**（formula）来操作。完成后，这件作品**符合**（conform）了他心中的理想形态。他把过程**告知**（inform）了学徒，学徒们**表演**（perform）出了同样精湛的技艺。有人建议对作品进行**改革**（reform），雕塑家**转变**（transform）了风格，创造出了全新的**形态**（formation）。从一块石头到一件艺术品，一切始于"形"——form 就是万物成形的那一刻。
+>
+> **叙事五要素**：
+> - **具象**：雕塑家在工作室中从粗糙石块雕琢出精美作品
+> - **情感**：创造成形时的成就感、从无到有的惊喜感
+> - **简洁**：形状 → 格式 → 塑造 → 符合 → 告知 → 表演 → 改革 → 转变
+> - **关联**：form → formal → format → formation → formula → conform → reform → transform → inform → perform
+> - **独特**：一个"形状"的概念，从静态的"外形"延伸到动态的"塑造"，再延伸到社会层面的"改革"和认知层面的"告知"
+
+## 含义延伸链路
+
+> [!note] 含义延伸
+> **形状（物理外形）** → 形式/格式（抽象的结构框架） → 塑造/形成（从无到有地创造形状） → 符合（按照既定形状行事） → 告知（把信息"塑形"放入脑海） → 表演（在公众面前"成形"展示） → 改革（重新塑造） → 转变（跨越形态变化）
+
+---
+
+## 派生词族
+
+| 单词 | 构词分析 | 释义 |
+|------|---------|------|
+| [[form]] | form-(形状) | 形状；形式；表格；形成 |
+| [[formal]] | form(形式) + -al(...的) | 正式的，形式的——"有固定形式的" |
+| [[format]] | form(形式) + -at(名词后缀) | 格式，版式——"形式的具体化" |
+| [[formation]] | form(形状) + -ation(名词后缀) | 形成，构成——"塑造的过程或结果" |
+| [[formula]] | form(形式) + -ula(小) | 公式，配方——"固定的小形式" |
+| [[formulate]] | formula(公式) + -ate(使动) | 构想，系统阐述——"使之公式化" |
+| [[former]] | form(形状) + -er(比较级/指代) | 前者；以前的——"先成形的那个" |
+| [[formidable]] | form(形状) + id(恐惧) + -able(可被) | 可怕的，令人敬畏的——"能形成威慑的" |
+| [[conform]] | con-(共同) + form(形状) | 符合，遵从——"使形状与之一致" |
+| [[reform]] | re-(再) + form(形状) | 改革——"重新塑造" |
+| [[inform]] | in-(进入) + form(形状) | 通知，告知——"把信息塑形放入脑海" |
+| [[perform]] | per-(完全) + form(形状) | 表演，执行——"完全成形地展示" |
+| [[performance]] | perform + -ance(名词后缀) | 表演；表现；性能 |
+| [[transform]] | trans-(跨越) + form(形状) | 转变，改造——"跨形态变化" |
+| [[compose]] | com-(共同) + pos(=pon, 放置) | 组成，构成——"共同放置成形" |
+| [[structure]] | struct(=st-, 建造站立) + -ure | 结构——"建造出的形状" |
+| [[questionnaire]] | question+naire=form变体 | 问卷 |
+| [[configuration]] | configur+ation=form变体 | 配置 |
+| [[character]] | char+act+er=form变体 | 性格 |
+| [[substance]] | sub+st+ance=form变体 | 物质 |
+| [[dissolve]] | dis+solve=form变体 | 溶解 |
+
+---
+
+## 相关词根
+
+- [[st-sta-stat]]：站立——"站立之物"自然具有"形状"，structure（结构）同时关联 st- 和 form-
+- [[fac]]：做、制造——"塑造"（form）与"制造"（fac）在创造层面语义互补
+- [[mod]]：方式、模式——form（形式）与 mode（方式）在"做事的框架"上语义相近
+- [[par]]：准备、显现——appearance（外貌显现）与 form（形状）在"外在表现"上语义关联
+- [[mark]]：标记——formula（公式）与 mark（标记）在"固定形式"上语义相近
+
+## 基础词
+
+> [!note]- L0_基础词关联
+> 以下基础词笔记引用了本词根，可通过词根线索辅助记忆：
+>
+> [[algorithm]]：源自人名 al-Khwarizmi（花拉子密） → **算法**。al-Khwarizmi（花拉子密）→ 他的计算方法 → 算法 → 泛指一切按步骤解决问题的方法。计算机科学中的 algorithm（算法）就是一组明确的步骤序列，用于完成特定任务。
+>
+> [[daunting]]：daunt（恐吓）+ -ing → **令人畏惧的**。daunt（恐吓）+ ing（令人……的）→ 令人害怕的 → 令人畏惧的。一个daunting task（艰巨的任务）让你感到害怕，一个daunting challenge（令人畏惧的挑战）让你想退缩。
+>
+> [[layout]]：lay（平放）+ out（向外） → **布局**。layout = lay（放）+ out（出来/向外）→ 把东西放出来、安排好 → 布局。杂志的版面设计是 page layout，城市规划是 city layout，工厂的布局是 factory layout。layout 就是"把东西安排好的方式"。
+>
+> [[nickname]]：nick（额外的）+ name（名字） → **绰号**。nickname = an eke name（额外的名字）→ a nickname。古人给朋友起一个"额外的名字"就是绰号。eke = 额外的，name = 名字，an eke name → a nickname。记住：nickname = 额外的名字 = 绰号。
+>
+> [[nominal]]：nomin-（名字）+ -al → **名义上的**。nominal = nomin（名字）+ al = 和名字有关的 → 名义上的。nominal leader = 名义上的领袖（名字好听但不管事）。nominal fee = 象征性的费用（名义上收了费，实际微不足道）。记住：nominal = 名义上的，有名字没实质。
+>
+> [[official]]：office（职责/办公室）+ -ial → **官方的**。office（职责/办公室）+ ial（与……相关的）→ 与职责相关的 → 官方的。official document（官方文件）、official language（官方语言）、official statement（官方声明）。它的名词含义是"官员"——在 office 里执行职责的人。
+>
+> | 基础词 | 构词分析 | 核心释义 | 语义场 |
+> |--------|---------|---------|--------|
+> | [[algorithm]] | 源自人名 al-Khwarizmi（花拉子密） | 算法，计算方法 | [[科技学术]] |
+> | [[daunting]] | daunt（恐吓）+ -ing（形容词后缀） | 令人畏惧的，使人怯步的 | [[人本世界]] |
+> | [[layout]] | lay（平放）+ out（向外） | 布局，排版 | [[空间设计]] |
+> | [[nickname]] | nick（额外的）+ name（名字） | 绰号，昵称 | [[社会习俗]] |
+> | [[nominal]] | nomin-（名字）+ -al（形容词后缀） | 名义上的，有名无实的 | [[抽象关系]] |
+> | [[official]] | office（职责/办公室）+ -ial（形容词后缀） | 官方的，正式的 | [[政治社会]] |

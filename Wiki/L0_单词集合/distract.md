@@ -1,0 +1,170 @@
+---
+title: "distract"
+tags:
+  - 学习/英语/词汇
+  - 语义场/人本世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-22
+mastery: L0
+word_freq: 高频
+semantic_field: 人本世界
+prototype: 向外拉扯、拉开注意力
+extension_dim: 抽象路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# distract
+
+> [!info] 基础信息
+> **音标** /dɪˈstrækt/ | **词频** 考研高频 | **语义场** [[人本世界]]
+
+## 核心释义
+
+**v.** ①==**使分心，转移（注意力）**== ; ②使困惑，使扰乱；
+
+> [!tip] 原型义
+> **原型义**：向外拉扯、拉开注意力（源自拉丁语 distrahere = dis- "分开" + trahere "拉"）
+> **延伸维度**：抽象路径
+> **隐喻类型**：结构隐喻（物理拉扯→注意力被拉开→分心）
+
+## 词根词缀
+
+[[dis-di]](=apart, 分开) + [[tract]](=draw/drag, 拉/拖) → 向外拉扯→拉开注意力→分心
+**叙事**：[[dis-di]](分开) + [[tract]](拉) → 把注意力从原来的地方"向外拉扯"→distract = 分心。想象你正在学习，手机突然震动，把你的注意力"拉"了过去。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**向外拉扯、拉开注意力**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **向外拉扯、拉开注意力**（物理层面）
+>    - → ==**使分心、转移注意力**==：注意力被拉离原来的焦点
+      - 激活条件：描述注意力被转移时（distract sb. from sth.）
+    - → **使困惑、使扰乱**：思绪被拉向不同方向→混乱
+      - 激活条件：描述思绪被打乱时
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**："拉"——拉走注意力则分心，拉乱思绪则困惑。
+- **一句话统筹**：distract 的核心是"拉"——把注意力从原来的焦点拉开就是分心，把思绪拉向不同方向就是困惑。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：困惑→分心→拉开注意力→向外拉扯，从抽象到物理，链条完整
+> - [x] **可统筹**：以"拉"为核心，不同对象对应不同义项
+> - [x] **有支撑**：distract students from study（使学生从学习中分心）→ distracted by noise（被噪音干扰）
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | v. | 使分心、转移 | 基础词性 |
+> | n. (distraction) | 分心、干扰 | distract + -ion 动作结果 |
+> | adj. (distracted) | 心不在焉的 | distract + -ed 持有状态 |
+> | adj. (distracting) | 令人分心的 | distract + -ing 主动倾向 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> dis-(分开) + tract(拉) → 把注意力"拉开"→分心。想象你在专心看书，突然有人从旁边"拉"了一下你的袖子→注意力被拉走了→distract = 分心。
+>
+> **词拆分记忆**（辅助）：
+> [[distract]] 包含已有词根 [[tract]](拉/拖)。dis(分开) + tract(拉) → 向外拉→分心。同根词：[[attract]](向...拉→吸引)、[[extract]](向外拉→提取)、[[contract]](向内拉→收缩)。
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[divert]] | 转移 | 侧重使转向不同方向 | attention, resource | 正式 |
+> | [[disturb]] | 打扰 | 侧重打破安静/平静 | peace, mind | 中性偏消极 |
+> | [[interfere]] | 干扰 | 侧重阻碍/妨碍 | process, plan | 消极 |
+> | **distract** | 使分心 | 侧重把注意力拉开 | attention, mind | 中性偏消极 |
+>
+> **"增"标记**：distract **(增-注意力拉扯感)** vs divert（distract 更强调注意力被"拉开"；divert 更强调方向/资源的"转向"）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[concentrate]]：集中（分心→集中）
+> - [[focus]]：聚焦（分心→聚焦）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[distraction]] | distract + -ion | 分心、干扰 | 词义补充：名词化表达 |
+> | [[distracted]] | distract + -ed | 心不在焉的 | 词义填充：母词填充派生词 |
+> | [[distracting]] | distract + -ing | 令人分心的 | 词义填充：母词填充派生词 |
+> | [[attract]] | at-(向) + tract(拉) | 吸引 | 词义补充：同根反义（向内拉 vs 向外拉） |
+> | [[extract]] | ex-(向外) + tract(拉) | 提取 | 词义补充：同根词 |
+> | [[contract]] | con-(共同) + tract(拉) | 收缩 | 词义补充：同根词 |
+> | [[disorder]] | dis + ord(秩序) | 混乱、失调 | 同族（dis-前缀） |
+> | [[disperse]] | dis + spers(散开) | 散开、驱散 | 同族（dis-前缀） |
+> | [[displace]] | dis + pos(放置) | 取代、使离开 | 同族（dis-前缀） |
+> | [[display]] | dis + play(展开) | 展示、陈列 | 同族（dis-前缀） |
+> | [[distribute]] | dis + tribut(给予) | 分配、分发 | 同族（dis-前缀） |
+> | [[distort]] | dis + tort(扭曲) | 扭曲、歪曲 | 同族（dis-前缀） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **distract sb. from sth.**：使某人从……分心
+  - Smartphones can easily distract students from their studies and reduce their academic performance.（智能手机很容易使学生在学习中分心，降低他们的学业表现。）
+- **be distracted by**：被……分心
+  - Many drivers are distracted by their phones, which significantly increases the risk of accidents.（许多司机被手机分心，这显著增加了事故风险。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The constant notifications from smartphones distract students from their studies and reduce academic performance."（智能手机不断发出的通知使学生从学习中分心，降低了学业表现。）——考研高频表达
+> - "In today's fast-paced world, it is increasingly difficult to avoid being distracted by various forms of media."（在当今快节奏的世界中，越来越难以避免被各种媒体形式所分心。）——考研高频表达
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：
+> **翻译实践**：
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：tract（拉、拖）
+> - [ ] 同义辨析：distract, divert, disturb, interfere
+> - [ ] 反义词群：concentrate, focus, engage
+> - [ ] 形近词群：distract, distract, distort, distinct

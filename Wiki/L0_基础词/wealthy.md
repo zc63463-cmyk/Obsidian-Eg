@@ -1,0 +1,163 @@
+---
+title: "wealthy"
+tags:
+  - 学习/英语/词汇
+  - 语义场/资本经济
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 资本经济
+prototype: 富有的（拥有大量财富的）
+extension_dim: 社会路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# wealthy
+
+> [!info] 基础信息
+> **音标** /ˈwelθi/ | **词频** 考研中频 | **语义场** [[资本经济]]
+
+## 核心释义
+
+**adj.** ①==**富有的，有钱的**==；②丰富的（in resources）；
+**n.** ①the wealthy ==**富人**==（the + adj. 表示一类人）；
+
+> [!tip] 原型义
+> **原型义**：富有的（拥有大量财富的状态）
+> **延伸维度**：社会路径
+> **隐喻类型**：无隐喻（直接从 wealth 派生）
+
+## 词根词缀
+
+[[wealth]]（财富）+ -y（形容词后缀，充满……的）→ 充满财富的 → 富有的
+**叙事**：wealth（财富）+ y（充满）= wealthy（充满财富的→富有的）。the wealthy 就是"充满财富的人"→富人。一个自然资源丰富的国家——a country wealthy in natural resources。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**富有的（充满财富）**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **富有的**（经济层面）
+>    - → **富人**（the + adj.）：富有的人这一群体
+>      - 激活条件：the wealthy, gap between rich and wealthy
+>    - → **丰富的**：在资源等方面丰富
+>      - 激活条件：wealthy in natural resources
+
+### 统筹（选择适用的模式）
+
+- **延伸中心**：wealthy 的核心是"充满财富"——充满金钱→富有，充满资源→丰富
+- **一句话统筹**：wealthy 就是"充满财富的"——人或国家
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"富人"能反向推导到"富有的"——the wealthy 就是 wealthy people
+> - [x] **可统筹**：一句话——"wealthy 就是充满财富的状态"
+> - [x] **有支撑**：the wealthy, wealthy in 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 富有的；丰富的 | 核心词性，wealth + -y |
+> | n. | 富人（the wealthy） | adj.→n.：the + adj. 表示一类人 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> wealthy = wealth（财富）+ y（充满……的）= 充满财富的→富有的。the wealthy 就是"充满财富的那群人"→富人。一个国家自然资源丰富——wealthy in natural resources。wealthy 就是"财富满满"。
+>
+> **词拆分记忆**（辅助）：
+> wealth（财富）+ y（形容词后缀）→ 富有的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[rich]] | 富有的 | 强调拥有大量金钱（最通用） | 人、国家 | 正面/通用 |
+> | [[affluent]] | 富裕的 | 强调生活充裕、消费能力强 | 社会、家庭 | 正面/正式 |
+> | [[prosperous]] | 繁荣的 | 强调经济兴旺 | 时代、城市 | 正面/宏大 |
+> | **wealthy** | 富有的；丰富的 | 强调拥有财富的状态 | 人、国家、资源 | 正面/通用 |
+>
+> **"增"标记**：wealthy **(增-可修饰抽象资源)** vs rich（基准词：通用"富有"）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[poor]]：贫穷的（wealthy 的精确反义：富有↔贫穷）
+> - [[destitute]]：赤贫的（wealthy 的反义：极度富有↔极度贫穷）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[wealth]] | weal(福祉) + -th(状态) | 财富；大量 | 词义补充（wealthy 的名词形式） |
+> | [[wealthy]] | wealth + -y(充满) | 富有的 | 核心词 |
+> | [[weapon]] | 与 wealth 形近 | 武器 | 形近关联 |
+> | [[weave]] | 与 wealth 形近 | 编织 | 形近关联 |
+> | [[web]] | 与 wealth 形近 | 网络；网 | 形近关联 |
+> | [[wedge]] | 与 wealth 形近 | 楔子；楔入 | 形近关联 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **the wealthy**：富人
+> - **wealthy in**：在……方面丰富
+> - **a wealthy nation/family**：富有的国家/家庭
+> - **wealthy donor**：富有的捐赠者
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Despite her wealth and status, like nearly everyone else in the room, she is shown alone with her sad thoughts."（尽管她富有且有地位，但和房间里几乎所有人一样，她被描绘成独自沉浸在悲伤的思绪中——纽约书评例句）
+> - "With their natural resources they are potentially a very wealthy country."（他们那儿自然资源丰富，将来可能会成为一个非常富有的国家——剑桥词典例句）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：wealthy/rich/affluent/prosperous
+> - [ ] 反义词群：poor/destitute
+> - [ ] 形近词群：wealth/wealthy/weapon/weave/web/wedge

@@ -1,0 +1,168 @@
+---
+title: "portfolio"
+tags:
+  - 学习/英语/词汇
+  - 语义场/物品工具
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 物品工具
+prototype: 携带纸张的夹子（公文包/投资组合）
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# portfolio
+
+> [!info] 基础信息
+> **音标** /pɔːtˈfəʊliəʊ/ | **词频** 考研中频 | **语义场** [[物品工具]]
+
+## 核心释义
+
+**n.** ①==**公文包**==；②==**投资组合**==（证券组合）；③==**作品集**==（设计师/艺术家的）；④==**部长职务**==（英式英语，如 Minister without portfolio）；
+
+> [!tip] 原型义
+> **原型义**：携带纸张的夹子（公文包）
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"携带纸张的工具"→"投资组合"→"作品集"）
+
+## 词根词缀
+
+源自意大利语 *portafoglio*，由 *portare*（搬运、携带，与 [[port]] 同根）+ *foglio*（纸张、叶片，来自拉丁语 *folium*）构成。字面意思是"携带纸张的东西"→"公文包"。后来引申为"投资组合"（因为公文包里装的是各种证券文件），以及"作品集"（装的是作品样本）。与 [[portable]]（便携的）、[[porter]]（搬运工）、[[transport]]（运输）同根。
+
+**叙事**：portfolio 的核心画面是"携带纸张的夹子"。意大利语 *portafoglio* = 携带（portare）+ 纸张（foglio）= 携带纸张的东西 = 公文包。想象一个商务人士拿着公文包走进办公室——公文包里装着各种文件。后来 portfolio 引申为"投资组合"（各种证券的组合，就像公文包里装的各种文件），以及"作品集"（设计师展示作品的文件夹）。portfolio 的本质就是"一个装着重要东西的夹子"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**携带纸张的夹子**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **携带纸张**（物理层面）
+>    - → **公文包**：装文件的夹子
+>      - 激活条件：carry a portfolio, leather portfolio
+>    - → **投资组合**：装证券的"夹子"
+>      - 激活条件：investment portfolio, stock portfolio
+>    - → **作品集**：装作品的"夹子"
+>      - 激活条件：design portfolio, art portfolio
+>    - → **部长职务**：公文包象征的职务
+>      - 激活条件：portfolio of responsibilities
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：portfolio 就是"公文包"——从装文件的夹子到投资组合到作品集
+- **延伸中心**：从"携带纸张的工具"延伸到"投资组合"再到"作品集"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"投资组合"能反向推导到"公文包"——投资组合就像公文包里装的各种证券
+> - [x] **可统筹**：一句话——"portfolio 就是从携带纸张的夹子到公文包到投资组合到作品集"
+> - [x] **有支撑**：investment portfolio, design portfolio 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 公文包；投资组合；作品集 | 核心词性，仅名词用法 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> portfolio 的核心画面是"携带纸张的夹子"。意大利语 *portafoglio* = portare（搬运）+ foglio（纸张）= 携带纸张的东西 = 公文包。想象一个商务人士拿着公文包——里面装着各种文件。investment portfolio（投资组合）= 像公文包一样装着各种证券。design portfolio（作品集）= 装着设计作品的文件夹。portfolio 的本质就是"一个装着重要东西的夹子"——无论是文件、证券还是作品。
+>
+> **词拆分记忆**（辅助）：
+> portfolio → port（搬运，同 transport）+ folio（纸张/叶）→ 携带纸张的东西 → 公文包
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[portfolio]] | 公文包/投资组合 | 强调多功能性 | 文件、证券、作品 | 中性/正式 |
+> | [[briefcase]] | 公文包 | 强调商务用途 | 文件 | 中性/通用 |
+> | [[collection]] | 收藏集 | 强调收藏性质 | 作品、藏品 | 中性/通用 |
+> | [[investment]] | 投资 | 强调金融属性 | 证券、资产 | 中性/金融 |
+>
+> **"增"标记**：portfolio **(增-兼具"公文包""投资组合""作品集"三重含义，词源"携带纸张"非常形象)** vs briefcase（基准词：仅指公文包）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - （portfolio 作为具体名词，无明显反义词）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[port]] | 核心词根 | 搬运；港口 | 核心词根 |
+> | [[portable]] | port + -able | 便携的 | 词根派生 |
+> | [[porter]] | port + -er | 搬运工 | 词根派生 |
+> | [[transport]] | trans- + port | 运输 | 前缀派生 |
+> | [[export]] | ex- + port | 出口 | 前缀派生 |
+> | [[import]] | im- + port | 进口 | 前缀派生 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **investment portfolio**：投资组合
+> - **stock portfolio**：股票组合
+> - **design portfolio**：设计作品集
+> - **art portfolio**：艺术作品集
+> - **diversified portfolio**：多元化投资组合
+> - **portfolio management**：投资组合管理
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "A well-diversified investment portfolio can help reduce risk and maximize returns over the long term."（一个多元化的投资组合可以帮助降低风险并在长期内最大化回报——考研阅读金融话题相关表达）
+> - "Applicants for the design position are required to submit a portfolio showcasing their best creative work."（设计职位的申请者需要提交作品集，展示他们最好的创意作品——考研阅读求职话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：port-（搬运，拉丁语 portare）
+> - [ ] 同义辨析：portfolio/briefcase/collection/investment
+> - [ ] 派生词族：port/portable/porter/transport/export/import
+> - [ ] 搭配网络：investment portfolio/design portfolio/diversified portfolio

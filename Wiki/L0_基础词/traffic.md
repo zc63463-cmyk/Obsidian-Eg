@@ -1,0 +1,163 @@
+---
+title: "traffic"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会习俗
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 社会习俗
+prototype: 在路上通行的货物和人群
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# traffic
+
+> [!info] 基础信息
+> **音标** /ˈtræfɪk/ | **词频** 考研高频 | **语义场** [[社会习俗]]
+
+## 核心释义
+
+**n.** ①==**交通，交通量**==；②==**来往车辆**==；③==**非法交易**==（毒品、武器等）；
+**v.** ①==**做非法交易**==；②==**在……通行**==；
+
+> [!tip] 原型义
+> **原型义**：在路上通行的货物和人群
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"路上通行"→"交通流量"→"非法交易"——从物理通行到抽象流通）
+
+## 词根词缀
+
+源自意大利语 *traffico*（贸易、交通），来自 *traficare*（交易、做买卖），可能与 [[tract]]（拉、拖、路径）有远源关联——traffic 最初就是"在路上拉货物"。词根拆分：与 trade（贸易）同源，traffic 最初指的就是"商品流通"——货物在路上被拉来拉去。后来词义从"商品流通"缩小到"道路交通"，又从"流通"引申出"非法交易"（drug traffic 毒品交易）。
+**叙事**：traffic 的核心画面是"路上来来往往的货物和车辆"。想象一条繁忙的古代商路，商人赶着满载货物的马车来来往往——这就是 traffic 的原始画面。后来马车变成了汽车，商路变成了公路，traffic 就变成了"交通"（heavy traffic 交通拥堵）。而"流通"的本质也引申出"非法交易"——traffic in drugs（毒品交易），因为非法物品也在"流通"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**在路上通行的货物和人群**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **货物在路上通行**（物理层面）
+>    - → **交通，交通量**：车辆和行人在路上通行
+>      - 激活条件：heavy traffic, traffic jam, traffic accident
+>    - → **非法交易**：违禁品的流通
+>      - 激活条件：drug traffic, traffic in illegal goods
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：traffic 就是"通行"——在路上通行，也在暗处流通
+- **延伸中心**：从"货物在路上通行"延伸到"交通"再到"非法交易"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"非法交易"能反向推导到"路上通行"——交易就是物品的流通通行
+> - [x] **可统筹**：一句话——"traffic 就是从货物通行到道路交通再到非法交易"
+> - [x] **有支撑**：heavy traffic, traffic jam, drug traffic 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 交通，交通量；非法交易 | 核心名词，描述通行状态和交易行为 |
+> | v. | 做非法交易；在……通行 | 名词动用，执行交易或通行行为 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> traffic 的核心画面是"路上来来往往的货物"。古代商路上，商人赶着马车运货——这就是 traffic。后来马车变成汽车，traffic 就成了"交通"（traffic jam 堵车）。而"流通"的本质也引申出"非法交易"——traffic in drugs 就是毒品在暗处"流通"。traffic 始终是"东西在路上移动"——不管是合法的车辆还是非法的货物。
+>
+> **词拆分记忆**（辅助）：
+> traffic → tr（travel旅行）+ affic（做）→ 在路上旅行做事 → 交通、通行
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[transit]] | 运输 | 侧重运输系统 | 公共交通、货物 | 正式/中性 |
+> | [[transport]] | 交通工具 | 侧重运输方式 | 公共汽车、火车 | 通用/中性 |
+> | [[commute]] | 通勤 | 侧重日常往返 | 上班、上学 | 中性/日常 |
+> | **traffic** | 交通/交易 | 侧重通行量和流通 | 车辆、违禁品 | 中性/贬义 |
+>
+> **"增"标记**：traffic **(增-兼具"交通量"和"非法交易"双重含义)** vs transit（基准词：一般运输）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[isolation]]：隔绝（traffic 的反义：流通↔隔绝）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[trafficker]] | traffic + -er（人） | 贩子，非法交易者 | 词性派生 |
+> | [[traffic jam]] | traffic + jam（拥堵） | 交通堵塞 | 固定搭配 |
+> | [[trafficking]] | traffic + -ing | 非法交易（名词） | 词性派生 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **heavy traffic**：交通拥挤
+> - **traffic jam/congestion**：交通堵塞
+> - **traffic accident**：交通事故
+> - **traffic lights**：红绿灯
+> - **drug traffic/trafficking**：毒品交易/贩毒
+> - **traffic in**：非法买卖（某物）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Urban planners are trying to reduce traffic congestion by encouraging the use of public transportation and building more bicycle lanes."（城市规划者正试图通过鼓励使用公共交通和修建更多自行车道来减少交通拥堵——考研阅读城市话题相关表达）
+> - "International efforts to combat drug trafficking have intensified, with law enforcement agencies cooperating across borders to dismantle trafficking networks."（打击毒品贩运的国际努力不断加强，执法机构跨越国界合作瓦解贩运网络——考研阅读法律话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：与 trade（贸易）、tract-（路径）有远源关联
+> - [ ] 同义辨析：traffic/transit/transport/commute
+> - [ ] 反义词群：traffic/isolation
+> - [ ] 派生词群：traffic/trafficker/trafficking
+> - [ ] 搭配网络：heavy traffic/traffic jam/traffic accident/drug trafficking

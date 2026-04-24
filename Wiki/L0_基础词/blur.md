@@ -1,0 +1,166 @@
+---
+title: "blur"
+tags:
+  - 学习/英语/词汇
+  - 语义场/自然物理
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 自然物理
+prototype: 模糊，使模糊
+extension_dim: 界限混淆
+last_review: 2026-04-23
+review_count: 0
+---
+
+# blur
+
+> [!info] 基础信息
+> **音标** /blɜː/ | **词频** 考研中频 | **语义场** [[自然物理]]
+
+## 核心释义
+
+**n.** ①==**模糊不清的事物**==；②==**污迹，模糊的记忆**==；
+**v.** ①==**（使）变模糊**==；②==**使模糊不清，使界限模糊**==；
+
+> [!tip] 原型义
+> **原型义**：模糊，使模糊（中古英语 *blurren*，可能来自古英语 *blær*，"swelling, pimple"）
+> **延伸维度**：界限混淆
+> **隐喻类型**：视觉隐喻（"视觉模糊"→ "记忆模糊"→ "界限模糊"——从视觉不清到抽象混淆）
+
+## 词根词缀
+
+blur(模糊/使模糊，中古英语 *blurren*)
+**叙事**：blur 的确切词源有争议，可能来自古英语 *blær*（肿胀、疙瘩），核心意象是"不清晰"。从"视觉模糊"出发：blur the image = 使图像模糊。blur the lines between = 使……之间的界限模糊。blur the distinction = 使区别变得模糊。a blur of activity = 一连串模糊的活动（忙得看不清）。blur 还可以作名词表示"模糊不清的事物"或"污迹"。与 [[blurry]]（模糊的）是同一个词的不同形式。blur 强调的是从清晰到不清晰的变化过程。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**模糊/使模糊**"为统筹中心，沿界限混淆向外扩展：
+>
+> 1. **模糊**（视觉层面）
+>    - → **（使）变模糊**：视觉上的不清晰
+>      - 激活条件：blur the image, tears blurred her vision
+>    - → **使界限模糊**：抽象概念的混淆
+>      - 激活条件：blur the line between, blur the distinction
+>    - → **模糊的记忆/印象**：记忆上的不清晰
+>      - 激活条件：my memories of childhood are a blur
+>    - → **污迹**：物理上的模糊痕迹
+>      - 激活条件：a blur of ink
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：blur 就是"模糊"——从视觉模糊到界限混淆到记忆模糊
+- **延伸中心**：从"视觉不清"延伸到"抽象概念的混淆"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"界限模糊"能反向推导到"视觉模糊"——界限模糊就像视觉上的看不清
+> - [x] **可统筹**：一句话——"blur = 视觉模糊→界限模糊→记忆模糊"
+> - [x] **有支撑**：blur the lines between, tears blurred her vision, a blur 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | v. | 使模糊；使界限模糊 | 核心词性 |
+> | n. | 模糊不清的事物；污迹 | v.→n：动作名词化 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> blur 的核心就是"模糊"。想象你摘下眼镜看世界——一切都是 blur（模糊的）。tears blurred her vision = 泪水模糊了她的视线。blur the lines between work and life = 使工作和生活之间的界限变得模糊。blur the distinction between right and wrong = 使对错的区别变得模糊。everything became a blur = 一切都变得模糊不清（忙得什么都记不清）。blur 强调的是从清晰到模糊的"变化过程"，而 [[blurry]] 强调的是模糊的"状态"。
+>
+> **词拆分记忆**（辅助）：
+> bl（blind，盲）+ ur（your，你的）→ 你的眼睛像盲了一样看不清 → 模糊 → blur
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[obscure]] | 使模糊；使晦涩 | 强调遮盖、隐藏 | 视线、意义 | 中性/正式 |
+> | [[dim]] | 暗淡；模糊 | 强调光线不足 | 光线、记忆 | 中性 |
+> | [[smear]] | 涂抹；弄模糊 | 强调涂抹的动作 | 颜料、污迹 | 负面 |
+> | **blur** | 使模糊；使界限模糊 | 最通用的模糊表达 | 视觉、界限、记忆 | 中性/通用 |
+
+> **"增"标记**：blur **(增-强调从清晰到模糊的变化过程)** vs dim（基准词：暗淡模糊）；blur **(增-常用于抽象界限的混淆)** vs obscure（基准词：使模糊）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[clarify]]：澄清（blur 的精确反义：模糊↔澄清）
+> - [[sharpen]]：使清晰（blur 的反义：使模糊↔使清晰）
+> - [[focus]]：聚焦（blur 的反义：模糊↔聚焦）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[blur]] | 中古英语 *blurren* | 使模糊；模糊不清 | 核心词 |
+> | [[blurry]] | blur + -ry(形容词后缀) | 模糊的 | 派生词 |
+> | [[blurred]] | blur + -ed(形容词后缀) | 模糊的（状态） | 派生词 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **blur the line(s) between A and B**：使A和B之间的界限模糊
+> - **blur the distinction**：使区别变得模糊
+> - **a blur of**：一连串模糊的……
+> - **become a blur**：变得模糊不清
+> - **tears blur one's vision**：泪水模糊了视线
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The rapid development of technology has blurred the lines between work and personal life."（技术的快速发展使得工作与个人生活之间的界限变得模糊。——考研英语阅读科技类话题，blur the lines 高频考点）
+> - "The distinction between public and private interests has become increasingly blurred in modern governance."（在现代治理中，公共利益与私人利益之间的区别变得越来越模糊。——考研英语阅读政治类话题）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：blur/obscure/dim/smear
+> - [ ] 反义词群：clarify/sharpen/focus
+> - [ ] 搭配网络：blur the lines between/blur the distinction

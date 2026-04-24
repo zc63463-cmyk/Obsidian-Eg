@@ -1,0 +1,169 @@
+---
+title: "confuse"
+tags:
+  - 学习/英语/词汇
+  - 语义场/人本世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-22
+mastery: L0
+word_freq: 高频
+semantic_field: 人本世界
+prototype: 共同倾倒、混合在一起
+extension_dim: 抽象路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# confuse
+
+> [!info] 基础信息
+> **音标** /kənˈfjuːz/ | **词频** 考研高频 | **语义场** [[人本世界]]
+
+## 核心释义
+
+**v.** ①==**使困惑，使糊涂**== ; ②混淆，混同（with）；③使混乱，使难以理解；
+
+> [!tip] 原型义
+> **原型义**：共同倾倒、混合在一起（源自拉丁语 confundere = con- "一起" + fundere "倾倒"）
+> **延伸维度**：抽象路径
+> **隐喻类型**：结构隐喻（物理上的混合→心理上的混乱→困惑）
+
+## 词根词缀
+
+建议创建词根笔记 [[fuse]]（倾倒、熔化）
+con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→混合→混淆→困惑
+**叙事**：把不同颜色的颜料"共同倾倒"到一个桶里，颜色混成一团分不清——大脑里的信息混在一起就是"困惑"。confuse = 共同倾倒→混淆→困惑。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**共同倾倒、混合在一起**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **共同倾倒、混合在一起**（物理层面）
+>    - → **混淆、混同**：不同事物被混合在一起，难以区分
+>      - 激活条件：描述将A与B混为一谈时（confuse A with B）
+>    - → ==**使困惑、使糊涂**==：信息/想法在脑海中"混合"→无法理清
+>      - 激活条件：描述使人感到困惑、迷惑时
+>    - → **使混乱**：秩序被"混合"打乱→混乱
+>      - 激活条件：描述使局面/情况变得混乱时
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**："混"——混在一起→混淆→困惑。
+- **一句话统筹**：confuse 的核心是"混"——物质混在一起是混淆，信息混在脑子里是困惑，秩序混在一起是混乱。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：困惑→混乱→混淆→混合，从心理到物理，链条完整
+> - [x] **可统筹**：以"混"为核心，不同层面（物质/信息/秩序）对应不同义项
+> - [x] **有支撑**：confuse A with B（混淆）→ confuse the audience（使困惑）→ confuse the issue（使混乱）
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | v. | 使困惑、混淆 | 基础词性 |
+> | n. (confusion) | 困惑、混乱 | confuse + -ion 动作结果 |
+> | adj. (confused) | 困惑的、混乱的 | confuse + -ed 持有状态 |
+> | adj. (confusing) | 令人困惑的 | confuse + -ing 主动倾向 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> con-(共同) + fuse(倾倒) → 把不同东西"共同倾倒"到一起→混成一团→混淆/困惑。想象把盐和糖倒进同一个罐子里，再也分不清了。
+>
+> **词拆分记忆**（辅助）：
+> [[confuse]] 包含常见词 [[fuse]](保险丝/融合)。con(共同) + fuse(倾倒/融合) → 全部融合在一起→混淆→困惑。
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[puzzle]] | 使迷惑 | 侧重引起思考但难以解答 | person, mind | 中性 |
+> | [[bewilder]] | 使迷惑 | 侧重使完全不知所措 | person | 较强/消极 |
+> | [[perplex]] | 使困惑 | 侧重引起复杂、深层的困惑 | person, problem | 正式/中性 |
+> | **confuse** | 使困惑、混淆 | 侧重使事物混杂、界限模糊 | person, concept, issue | 中性偏消极 |
+>
+> **"增"标记**：confuse **(增-混合性)** vs puzzle（confuse 强调事物"混在一起"导致困惑；puzzle 更强调如谜题般引起思考）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[clarify]]：澄清（困惑→清晰）
+> - [[distinguish]]：区分（混淆→区分）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[confusion]] | confuse + -ion | 困惑、混乱 | 词义补充：名词化表达 |
+> | [[confused]] | confuse + -ed | 困惑的、混乱的 | 词义填充：母词填充派生词 |
+> | [[confusing]] | confuse + -ing | 令人困惑的 | 词义填充：母词填充派生词 |
+> | [[confuse]] | con + fuse(倾倒) | 使困惑 | 基础词 |
+> | [[confusion]] | confuse + -ion | 困惑、混乱 | 同族（con-前缀） |
+> | [[conform]] | con + form(形状) | 遵守、顺从 | 同族（con-前缀） |
+> | [[confront]] | con + front(前面) | 面对、对抗 | 同族（con-前缀） |
+> | [[congress]] | con + gress(走) | 国会、大会 | 同族（con-前缀） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **confuse A with B**：把A与B混淆
+  - Don't confuse the concept of inflation with that of economic growth.（不要把通货膨胀的概念与经济增长混淆。）
+- **be confused about**：对……感到困惑
+  - Many students are confused about the difference between these two theories.（许多学生对这两个理论之间的区别感到困惑。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The complex instructions only served to confuse the students rather than help them understand the experiment."（复杂的说明不仅没有帮助学生理解实验，反而使他们更加困惑。）——考研高频表达
+> - "It is easy to confuse correlation with causation when interpreting statistical data."（在解释统计数据时，很容易将相关性混淆为因果关系。）——考研高频表达
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：
+> **翻译实践**：
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：fuse（倾倒、熔化）
+> - [ ] 同义辨析：confuse, puzzle, bewilder, perplex
+> - [ ] 反义词群：clarify, distinguish, enlighten
+> - [ ] 形近词群：confuse, confound, diffuse, refuse

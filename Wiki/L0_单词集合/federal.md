@@ -1,0 +1,160 @@
+---
+title: "federal"
+tags:
+  - 学习/英语/词汇
+  - 语义场/政治法律
+  - 掌握/L0
+aliases: []
+date: 2026-04-21
+mastery: L0
+word_freq: 高频
+semantic_field: 政治法律
+prototype: 基于契约的，结盟的
+extension_dim: 社会路径
+last_review: 2026-04-21
+review_count: 0
+---
+
+# federal
+
+> [!info] 基础信息
+> **音标** /ˈfedərəl/ | **词频** 考研高频 | **语义场** [[政治法律]]
+
+## 核心释义
+
+**adj.** ①==**联邦的，联邦政府的**==；②联邦制的；
+
+> [!tip] 原型义
+> **原型义**：基于契约的，结盟的
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（将政治联盟视为基于"信任/契约"的关系）
+
+## 词根词缀
+
+[[feder]](信任，联盟，源自拉丁语 *foedus* 契约/条约) + al(形容词后缀，表示"……的") → 基于契约的 → 联邦的
+**叙事**：各方基于"契约/信任"结成联盟——这就是"联邦"的核心理念。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**基于契约的，结盟的**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **基于契约的，结盟的**（社会关系层面）
+>    - → **联邦的，联邦政府的**：从契约联盟到政治体制
+>      - 激活条件：政治语境中描述联邦制国家或联邦政府时
+
+### 统筹（选择适用的模式）
+
+- **一句话统筹**：基于"契约"结成"联盟"——federal 就是联邦制的，各方在契约下联合为一体。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"联邦政府"可追溯到"契约→联盟"的核心
+> - [x] **可统筹**：所有义项都围绕"契约→联盟→联邦"这一链路
+> - [x] **有支撑**：feder(契约/联盟) + -al 的构词逻辑清晰支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 联邦的，联邦制的 | 基本词性 |
+> | n. (federation) | 联邦，联盟 | federal + -tion → 名词化 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> feder(契约/信任=confide 信任) + -al(……的) → 基于契约的 → federal"联邦的"。
+>
+> **词拆分记忆**（辅助）：
+> feder(联盟=federation) + -al(形容词后缀) → 联邦的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[national]] | 国家的，全国的 | 统一性 | 国家、政府 | 中性 |
+> | [[state]] | 州的，邦的 | 地方性 | 州政府 | 中性 |
+> | **federal** | 联邦的，联邦政府的 | 联盟性 | 联邦政府、联邦制 | 中性 |
+>
+> **"增"标记**：federal **(增-联盟制的结构性)** vs national（national 强调国家整体统一，federal 强调联邦制的分权联盟结构）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[state]]：州的（federal 是联邦层面的，state 是州层面的）
+- [[confederal]]：邦联的（federal 是联邦制的，confederal 是邦联制的，联邦权力更大）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[federation]] | feder + ation | 联邦，联盟 | 词义补充（名词形式） |
+> | [[federalism]] | federal + ism | 联邦制 | 词义填充 |
+> | [[federalist]] | federal + ist | 联邦主义者 | 词义填充 |
+| [[confederate]] | con(共同) + feder(联盟) | 同盟的，邦联成员 | 词义补充（同源） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **federal government**：联邦政府
+  - The **federal** government announced new economic policies.
+- **federal law**：联邦法律
+  - This practice violates **federal** law.
+- **federal court**：联邦法院
+  - The case was heard in a **federal** court.
+- **Federal Reserve**：联邦储备系统（美联储）
+  - The **Federal** Reserve raised interest rates again.
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - The **federal** government has allocated additional funds for infrastructure development.（联邦政府已拨出额外资金用于基础设施建设。）
+> - Under the **federal** system, powers are divided between the central and state governments.（在联邦制下，权力在中央政府和州政府之间分配。）
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<待填写>
+> **翻译实践**：<待填写>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：federal / national / state
+> - [ ] 反义词群：federal / state / confederal
+> - [ ] 派生词族：federal / federation / federalism / federalist / confederate

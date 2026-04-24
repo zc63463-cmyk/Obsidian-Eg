@@ -1,0 +1,161 @@
+---
+title: "socialism"
+tags:
+  - 学习/英语/词汇
+  - 语义场/法律政治
+  - 掌握/L0
+aliases: []
+date: 2026-04-21
+mastery: L0
+word_freq: 中频
+semantic_field: 法律政治
+prototype: 社会主义（制度/意识形态）
+extension_dim: 社会路径
+last_review: 2026-04-21
+review_count: 0
+---
+
+# socialism
+
+> [!info] 基础信息
+> **音标** /ˈsəʊʃəlɪzəm/ | **词频** 考研中频 | **语义场** [[法律政治]]
+
+## 核心释义
+
+**n.** ①==**社会主义**（一种社会与经济制度，主张生产资料公有制和社会财富公平分配）；
+
+> [!tip] 原型义
+> **原型义**：以社会整体利益为核心的经济与政治制度
+> **延伸维度**：社会路径
+> **隐喻类型**：无隐喻（本义即政治经济术语）
+
+## 词根词缀
+
+[[social]]（社会的）+ -ism（……主义）
+**叙事**：以社会整体利益为宗旨的主义 → 社会主义
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**以社会整体利益为核心的制度**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **以社会整体利益为核心的制度**（政治经济制度层面）
+>    - → **社会主义**：主张生产资料公有制、消除阶级差异、实现社会公平
+>      - 激活条件：讨论政治制度、经济体制、意识形态时
+
+### 统筹（选择适用的模式）
+
+- **一句话统筹**：socialism 是一种主张"社会利益优先于个人利益"的政治经济制度。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：socialism 直接指向社会主义制度，含义明确单一
+> - [x] **可统筹**：核心含义围绕"社会整体利益"展开
+> - [x] **有支撑**：social（社会的）+ -ism（主义）构成完整的构词逻辑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 社会主义 | 基本词性（-ism 后缀直接表主义） |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> social（社会的）+ ism（主义）= 以社会为核心的主义 → 社会主义
+>
+> **词拆分记忆**（辅助）：
+> socialism = social（社会）+ ism（主义）= 社会主义
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[communism]] | 共产主义 | 主张彻底消灭私有制 | 政治制度 | 因语境而异 |
+> | [[capitalism]] | 资本主义 | 主张自由市场与私有制 | 经济制度 | 因语境而异 |
+> | [[marxism]] | 马克思主义 | 以马克思理论为基础 | 理论体系 | 因语境而异 |
+> | **socialism** | 社会主义 | 主张社会公平与公有制 | 政治经济制度 | 因语境而异 |
+>
+> **"增"标记**：socialism **(增-温和程度)** vs communism（socialism 允许一定程度的私有制和市场经济，communism 追求彻底的公有制）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[capitalism]]：资本主义（主张生产资料私有制和自由市场经济，与 socialism 的公有制主张相对）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[socialist]] | socialism + -ist（人） | 社会主义者 | 词义补充 |
+> | [[socialistic]] | socialism + -tic（形容词） | 社会主义的 | 词义填充 |
+> | [[social]] | soci + -al（形容词后缀） | 社会的 | 词义补充 |
+> | [[society]] | soci + -ety（名词后缀） | 社会 | 词义补充 |
+> | [[sociology]] | soci + -o- + -logy（学问） | 社会学 | 词义补充 |
+> | [[sociable]] | soci + -able（可被） | 好交际的 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **democratic socialism**：民主社会主义
+  - Many European countries have adopted democratic socialism to some degree.（许多欧洲国家在某种程度上采用了民主社会主义。）
+> - **under socialism**：在社会主义制度下
+  - Under socialism, the government plays a major role in the economy.（在社会主义制度下，政府在 经济中发挥重要作用。）
+> - **transition to socialism**：向社会主义过渡
+  - The country underwent a gradual transition to socialism.（该国经历了向社会主义的渐进过渡。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The debate between capitalism and socialism has shaped political discourse for centuries."（资本主义与社会主义之间的辩论已经塑造了几个世纪的政治话语。）——考研高频表达
+> - "Many European countries adopted elements of socialism in their welfare systems after World War II."（许多欧洲国家在二战后的福利制度中采纳了社会主义元素。）——考研高频表达
+
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<待补充>
+> **翻译实践**：<待补充>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：soci（同伴、结交）
+> - [ ] 同义辨析：communism, capitalism, marxism
+> - [ ] 反义词群：capitalism
+> - [ ] 形近词群：sociable, social, socialism, society, sociology（soci- 词根族）

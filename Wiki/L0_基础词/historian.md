@@ -1,0 +1,160 @@
+---
+title: "historian"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 社会专业
+prototype: 知道过去的人（通过探究了解过去事件的学者）
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# historian
+
+> [!info] 基础信息
+> **音标** /hɪˈstɔːriən/ | **词频** 考研中频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**n.** ①==**历史学家，史学工作者**==（研究历史并撰写历史著作的学者）；
+
+> [!tip] 原型义
+> **原型义**：知道过去的人（通过探究了解过去事件的学者）
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"知道过去的人"→"历史研究者"——从知识到职业）
+
+## 词根词缀
+
+源自希腊语 *histōr*（知道的人、见证者、智者），来自原始印欧语词根 *\*wid-*（知道、看见），与 [[vis-vid]]（看）同源。*histōr* → *historia*（探究、知识、历史）→ *historian*（研究历史的人）。后缀 *-an* 表示"从事...的人"。
+**叙事**：historian 的核心画面是"一个学者在档案馆里翻阅古老的卷轴"。希腊语 *histōr* = 知道的人 = 见证者 = 智者。研究过去的人 = historian = 历史学家。历史学家的工作就是"探究过去"——*historia* = 探究。与 [[historical]]（与历史有关的）同源。记住 histōr = 知道的人：history（历史 = 知道的过去）、story（故事 = 讲述知道的事）。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**知道过去的人**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **知道的人**（认知层面）
+>    - → **见证者**：亲眼看到事件的人
+>      - 激活条件：eyewitness historian
+>    - → **历史学家**：通过探究了解过去事件的学者
+>      - 激活条件：a renowned historian, historian's perspective
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：historian 就是"历史学家"——通过探究了解过去事件的学者
+- **延伸中心**：从"知道的人"延伸到"历史研究者"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"历史学家"能反向推导到"知道的人"——历史学家就是"知道过去的人"
+> - [x] **可统筹**：一句话——"historian 就是从知道的人到历史研究者"
+> - [x] **有支撑**：a renowned historian, historian's perspective 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 历史学家 | 核心词性，仅名词用法 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> historian 来自希腊语 *histōr*（知道的人、见证者）。*histōr* → *historia*（探究、历史）→ historian（研究历史的人）。与 [[vis-vid]]（看）同源——知道就是"看见过"。记住 -an = 从事...的人：historian（历史学家）、musician（音乐家）、politician（政治家）。historian 的核心就是"知道过去的人"。
+>
+> **词拆分记忆**（辅助）：
+> historian → history（历史）+ ian（人）→ 研究历史的人 → 历史学家
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[scholar]] | 学者 | 最通用，任何学术领域 | 任何学科 | 正面/通用 |
+> | [[researcher]] | 研究者 | 强调研究过程 | 任何领域 | 中性/通用 |
+> | [[archaeologist]] | 考古学家 | 强调通过实物研究 | 遗迹、文物 | 正面/专业 |
+> | **historian** | 历史学家 | 专指研究历史 | 历史、过去 | 正面/专业 |
+
+> **"增"标记**：historian **(增-历史领域的专业性和对过去的深度探究)** vs scholar（基准词：一般学者）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - （historian 为职业名词，无直接反义词）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[history]] | 核心词 | 历史 | 词源关联 |
+> | [[historical]] | history + -ical | 历史的 | 词义补充 |
+> | [[historic]] | history + -ic | 有历史意义的 | 辨析关联 |
+> | [[story]] | 同源（historia） | 故事 | 词源关联 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **a renowned historian**：著名的历史学家
+> - **a distinguished historian**：杰出的历史学家
+> - **historian's perspective**：历史学家的视角
+> - **ancient historian**：古代史学家
+> - **military historian**：军事史学家
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Historians have long debated the true causes of the empire's decline, with some attributing it to economic factors while others point to internal political corruption."（历史学家长期以来一直在争论帝国衰落的真正原因，一些人将其归因于经济因素，而另一些人则指出是内部政治腐败——考研阅读历史话题相关表达）
+> - "According to prominent historians, the invention of the printing press was one of the most transformative events in human history, revolutionizing the way knowledge was disseminated."（据著名历史学家称，印刷术的发明是人类历史上最具变革性的事件之一，彻底改变了知识传播的方式——考研翻译科技话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：PIE *wid-（知道、看见）→ histōr（见证者，希腊语）
+> - [ ] 同义辨析：historian/scholar/researcher/archaeologist
+> - [ ] 反义词群：（无直接反义词）
+> - [ ] 形近词群：historian/historical/historic/history

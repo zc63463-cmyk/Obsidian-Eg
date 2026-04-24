@@ -1,0 +1,167 @@
+---
+title: "editorial"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 社会专业
+prototype: 编辑的——代表编辑部立场的社论
+extension_dim: 社会路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# editorial
+
+> [!info] 基础信息
+> **音标** /ˌedɪˈtɔːriəl/ | **词频** 考研中频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**n.** ①==**社论**==（报纸或杂志上代表编辑部意见的文章）；
+**adj.** ①==**编辑的**==（与编辑有关的）；②==**社论的**==（代表编辑部的立场）；
+
+> [!tip] 原型义
+> **原型义**：编辑的——代表编辑部立场的社论
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（"编辑的"→"代表编辑部集体意见的文章"——从形容词到名词化）
+
+## 词根词缀
+
+editor（编辑）+ -ial（形容词后缀，表示"……的"）。editor 源自拉丁语 *editor*（出版者），来自 *edere*（e-向外 + dere放置/给予，"向外呈现"）。-ial 是常见的形容词后缀，如 [[essential]]（本质的）、[[artificial]]（人工的）。editorial 最初是形容词"编辑的"，后来名词化为"社论"——代表整个编辑部集体立场的文章，而不是某个记者的个人观点。
+
+**叙事**：editorial 的故事是"从形容词到名词"的转变。editorial 最初只是形容词"编辑的"——editorial work（编辑工作），editorial board（编委会）。但在报纸的世界里，有一个特殊的位置：代表整个编辑部集体意见的文章。这篇文章不是某个记者写的，而是编辑部的"集体声音"——它就叫 editorial（社论）。社论之所以重要，是因为它代表的是"编辑部的立场"，而不是个人观点。The newspaper published an editorial criticizing the government's policy（报纸发表了一篇批评政府政策的社论）。editorial 的灵魂是"集体立场"。
+
+相关词：[[edit]]（编辑）、[[edition]]（版本）、[[editor]]（编辑者）
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**编辑的——代表编辑部立场的社论**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **编辑的**（属性层面）
+>    - → **编辑的**：与编辑有关的
+>      - 激活条件：editorial work, editorial board
+>    - → **社论的**：代表编辑部立场的
+>      - 激活条件：editorial opinion, editorial policy
+>    - → **社论**：代表编辑部意见的文章（名词化）
+>      - 激活条件：publish an editorial, an editorial in the Times
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：editorial 就是"社论"——代表编辑部集体立场的文章
+- **延伸中心**：从"编辑的"到"代表编辑部立场"再到"社论文章"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"社论"能反向推导到"编辑的"——社论就是编辑部的文章
+> - [x] **可统筹**：一句话——"editorial 就是从编辑的属性到代表编辑部集体立场的文章"
+> - [x] **有支撑**：editorial board, publish an editorial 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 编辑的；社论的 | 核心词性，editor + -ial |
+> | n. | 社论 | 形容词名词化，"编辑部的文章" |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> editorial = editor（编辑）+ -ial（……的）。最初是形容词"编辑的"——editorial board（编委会），editorial policy（编辑方针）。后来名词化为"社论"——代表整个编辑部集体立场的文章。社论不是记者的个人观点，而是编辑部的"集体声音"。The paper ran an editorial on climate change（报纸发表了一篇关于气候变化的社论）。editorial 的灵魂是"集体立场"。
+>
+> **词拆分记忆**（辅助）：
+> editor（编辑）+ ial（形容词后缀）→ 编辑的 → 编辑部写的文章 → 社论
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[article]] | 文章 | 最通用，任何报刊文章 | 报纸、杂志 | 中性/通用 |
+> | [[column]] | 专栏 | 强调定期发表的个人栏目 | 报纸、杂志 | 中性/个人 |
+> | [[commentary]] | 评论 | 强调对事件的分析和评论 | 新闻、政治 | 中性/分析 |
+> | **editorial** | 社论 | 强调代表编辑部集体立场 | 报纸、杂志 | 正式/权威 |
+
+> **"增"标记**：editorial **(增-集体立场和权威性)** vs article（基准词：一般文章）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[report]]：新闻报道（editorial 的反义：社论代表观点↔报道陈述事实）
+> - [[news]]：新闻（editorial 的反义：观点文章↔新闻报道）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[edit]] | 源自拉丁语 edere | 编辑，剪辑 | 核心词 |
+> | [[edition]] | edit + -ion | 版本，版次 | 核心派生 |
+> | [[editor]] | edit + -or | 编辑，编者 | 核心派生 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **publish / run an editorial**：发表社论
+> - **editorial board / page**：编委会/社论版
+> - **editorial policy / opinion**：编辑方针/社论观点
+> - **editorial independence**：编辑独立性
+> - **an editorial on / about**：关于……的社论
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The newspaper published an editorial calling for greater government accountability and transparency in public spending."（报纸发表了一篇社论，呼吁政府在公共支出方面更加负责和透明。——考研阅读媒体政治话题相关表达）
+> - "In a strongly worded editorial, the magazine criticized the tech giant for its failure to protect users' privacy."（在一篇措辞强烈的社论中，该杂志批评这家科技巨头未能保护用户隐私。——考研阅读科技伦理话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：edere（向外呈现，拉丁语 e- + dere）
+> - [ ] 同义辨析：editorial/article/column/commentary
+> - [ ] 反义词群：report/news
+> - [ ] 派生词族：edit/edition/editor/editorial

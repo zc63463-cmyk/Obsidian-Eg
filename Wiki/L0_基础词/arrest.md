@@ -1,0 +1,166 @@
+---
+title: "arrest"
+tags:
+  - 学习/英语/词汇
+  - 语义场/政治法律
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 政治法律
+prototype: 让人停下来站住不动
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# arrest
+
+> [!info] 基础信息
+> **音标** /əˈrest/ | **词频** 考研高频 | **语义场** [[政治法律]]
+
+## 核心释义
+
+**v.** ①==**逮捕，拘捕**==；②==**阻止，抑制**==（arrest the spread of disease）；③==**吸引（注意力）**==；
+**n.** ①==**逮捕，拘捕**==；②==**停止，阻止**==；
+
+> [!tip] 原型义
+> **原型义**：让人停下来站住不动
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"物理停止"→"法律逮捕"→"抑制蔓延"——从让人停住到阻止事物发展）
+
+## 词根词缀
+
+源自古法语 *arester*（停止、阻止），来自拉丁语 *ad-*（朝向）+ *restare*（站住、停留），*restare* 源自 *re-*（回）+ [[st-sta-stat]]（站立）。字面意思是"让人回到站立状态"→ "让人停住"→ "逮捕"。与 [[rest]]（休息——停止活动）同源。
+**叙事**：arrest 的核心画面是"警察抓住嫌疑人的手臂让他站住"。拉丁语 ad + restare = 朝向 + 站住 = 让人停下来。从"让人停住"出发，arrest 引申为"逮捕"（put someone under arrest），再延伸到"阻止"（arrest the decline 阻止衰退）和"吸引注意力"（arrest one's attention 让注意力停下来）。arrest 的本质始终是"让运动停止"——不管是人的运动还是事物的进程。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**让人停下来站住不动**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **让人停住**（物理层面）
+>    - → **逮捕，拘捕**：强制让人停住
+>      - 激活条件：arrest a suspect, under arrest
+>    - → **阻止，抑制**：让进程停住
+>      - 激活条件：arrest the spread, arrest the decline
+>    - → **吸引注意力**：让目光停住
+>      - 激活条件：arrest one's attention, arrest the eye
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：arrest 就是"让停住"——让人停住就是逮捕，让进程停住就是阻止
+- **延伸中心**：从"让人停住"延伸到"逮捕"再到"阻止/吸引"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"阻止衰退"能反向推导到"让人停住"——阻止就是让进程"停住"
+> - [x] **可统筹**：一句话——"arrest 就是从让人停住到逮捕再到阻止进程"
+> - [x] **有支撑**：arrest a suspect, arrest the spread, arrest attention 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | v. | 逮捕；阻止；吸引注意力 | 核心动词，执行停止行为 |
+> | n. | 逮捕；停止 | 动词名词化，描述停止行为本身 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> arrest = ad（朝向）+ rest（站住，与 [[st-sta-stat]] 同源）。想象警察大喊"站住！"，嫌疑人不得不停下来——这就是 arrest。ad（朝向）+ rest（站住）= 让人停住 = 逮捕。后来 arrest 从"让人停住"延伸到"阻止事物"——arrest the spread of disease（阻止疾病蔓延）= 让疾病"停住"。arrest one's attention = 让注意力"停住"在你身上。
+>
+> **词拆分记忆**（辅助）：
+> arrest → ar（朝向）+ rest（休息/停止）→ 让人停下来 → 逮捕
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[capture]] | 俘获 | 侧重武力抓捕 | 敌人、动物 | 中性/军事 |
+> | [[detain]] | 扣留 | 侧重暂时扣留 | 嫌疑人、旅客 | 正式/法律 |
+> | [[seize]] | 夺取 | 侧重强制夺取 | 财产、证据 | 贬义/强制 |
+> | **arrest** | 逮捕 | 侧重法律程序逮捕 | 嫌疑人、罪犯 | 正式/法律 |
+>
+> **"增"标记**：arrest **(增-正式法律程序含义，兼具"阻止"引申义)** vs capture（基准词：一般抓捕）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[release]]：释放（arrest 的反义：逮捕↔释放）
+> - [[promote]]：促进（arrest 的反义：阻止↔促进）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[arresting]] | arrest + -ing（形容词化） | 引人注目的 | 词性派生 |
+> | [[rest]] | 同源词 | 休息，停止 | 词源关联 |
+> | [[restless]] | rest + -less（没有） | 不安的，焦躁的 | 词源关联 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **under arrest**：被逮捕
+> - **arrest a suspect/criminal**：逮捕嫌疑人/罪犯
+> - **arrest the spread/decline**：阻止蔓延/衰退
+> - **arrest one's attention**：吸引某人的注意力
+> - **house arrest**：软禁
+> - **mass arrest**：大规模逮捕
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The police arrested several suspects in connection with the series of cyberattacks that targeted major financial institutions last month."（警方逮捕了几名与上个月针对主要金融机构的一系列网络攻击有关的嫌疑人——考研阅读法律话题相关表达）
+> - "Public health officials implemented emergency measures to arrest the spread of the infectious disease before it could reach epidemic proportions."（公共卫生官员实施了紧急措施，以在该传染病达到流行规模之前阻止其蔓延——考研阅读健康话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：ad-（朝向）+ [[st-sta-stat]]（站立）→ 让人站住
+> - [ ] 同义辨析：arrest/capture/detain/seize
+> - [ ] 反义词群：arrest/release, arrest/promote
+> - [ ] 派生词群：arrest/arresting/rest/restless
+> - [ ] 搭配网络：under arrest/arrest the spread/arrest one's attention/house arrest

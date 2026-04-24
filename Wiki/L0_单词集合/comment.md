@@ -1,0 +1,168 @@
+---
+title: "comment"
+tags:
+  - 学习/英语/词汇
+  - 语义场/文化日常
+  - 掌握/L0
+aliases: []
+date: 2026-04-21
+mastery: L0
+word_freq: 高频
+semantic_field: 文化日常
+prototype: 评论、意见
+extension_dim: 社会路径
+last_review: 2026-04-21
+review_count: 0
+---
+
+# comment
+
+> [!info] 基础信息
+> **音标** /ˈkɒment/ | **词频** 考研高频 | **语义场** [[文化日常]]
+
+## 核心释义
+
+**n.** ①==**评论，意见**==；②批评，指责；
+**v.** ①==**评论，发表意见**==；
+
+> [!tip] 原型义
+> **原型义**：对某事表达看法——用语言对事物进行解读和评价
+> **延伸维度**：社会路径——从一般评论延伸到批评指责
+> **隐喻类型**：无隐喻（直接的语言行为词）
+
+## 词根词缀
+
+com-(完全，加强) + ment(思考、心智，[[medi]]相关)
+**叙事**：对某件事"完全地思考"后说出你的看法——这就是评论。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**评论、意见**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **评论、意见**（表达层面——对事物的看法和解读）
+>    - → **批评、指责**：消极化——负面的评论
+>      - 激活条件：搭配 make a comment about / no comment
+
+### 统筹（选择适用的模式）
+
+- **一句话统筹**：comment 的核心是"对事物表达看法"——可以是中性的评论，也可以是负面的批评。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：comment → 评论 → 表达看法 → 对事物的思考
+> - [x] **可统筹**：所有义项共享"表达看法"这一核心
+> - [x] **有支撑**：评论（中性）→批评（消极），路径清晰
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 评论、意见、批评 | 原型义（名词形式） |
+> | v. | 评论、发表意见 | 原型义（动词形式） |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> 拉丁语 commentum，源自 comminisci（发明、构思），com-（加强）+ mens（心智）。想象你看完一部电影后，脑海中反复思考，然后说出你的看法——这就是 comment。
+>
+> **词拆分记忆**（辅助）：
+> com（共同/完全）+ ment（心智/思考）→ 完全思考后说出 → 评论
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[remark]] | 评论、话语 | 强调口头表达 | 言论、观察 | 中性 |
+> | [[opinion]] | 意见、看法 | 强调个人立场 | 任何话题 | 中性 |
+> | [[criticism]] | 批评 | 强调负面评价 | 作品、行为 | 消极 |
+> | **comment** | 评论、意见 | 最通用，可中性可消极 | 任何话题 | 中性 |
+
+**"增"标记**：comment **(增-通用性)** vs remark（comment 适用范围更广，可作动词也可作名词）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[silence]]：沉默（评论的反义——不发表意见）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | commentary | comment + -ary | 评论、解说 | 词义补充 |
+> | commentator | comment + -ator | 评论员 | 词义填充 |
+> | [[command]] | com- 前缀族 | 命令、指挥 | 前缀关联 |
+> | [[commend]] | com- 前缀族 | 表扬、推荐 | 前缀关联 |
+> | [[commerce]] | com- 前缀族 | 商业 | 前缀关联 |
+> | [[commercial]] | com- 前缀族 | 商业的 | 前缀关联 |
+> | [[commission]] | com- 前缀族 | 委员会、佣金 | 前缀关联 |
+> | [[commit]] | com- 前缀族 | 犯（罪）、承诺 | 前缀关联 |
+> | [[committee]] | com- 前缀族 | 委员会 | 前缀关联 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **make a comment on/about**：对……发表评论
+  - The minister refused to make any comment on the scandal.（部长拒绝对该丑闻发表任何评论。）
+- **no comment**：不予置评
+  - "What do you think of the new policy?" "No comment."（"你对新政策怎么看？""不予置评。"）
+- **comment on**：评论……
+  - The author commented on the significance of the discovery.（作者评论了这一发现的重要意义。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> > - "The minister refused to comment on the rumors about her resignation."（部长拒绝就有关她辞职的传闻发表评论。）——考研阅读真题
+> - "Her comments on the education reform sparked a heated debate."（她对教育改革的评论引发了激烈的辩论。）——考研高频表达
+
+%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：remark, opinion, criticism
+> - [ ] 反义词群：silence
+> - [ ] 形近词群：command, commend, comment, commerce, commission, commit, committee（com- 前缀族）
+> - [ ] 前缀族群：command, commend, comment, commerce, commercial, commission, commit, committee（com- 前缀族）
+> - [ ] 派生词群：commentary, commentator

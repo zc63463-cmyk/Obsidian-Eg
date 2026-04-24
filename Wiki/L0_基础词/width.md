@@ -1,0 +1,164 @@
+---
+title: "width"
+tags:
+  - 学习/英语/词汇
+  - 语义场/自然物理
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 自然物理
+prototype: 从一边到另一边的距离，宽度
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# width
+
+> [!info] 基础信息
+> **音标** /wɪdθ/ | **词频** 考研中频 | **语义场** [[自然物理]]
+
+## 核心释义
+
+**n.** ①==**宽度，广度**==；②==**宽广**==；③==**（某范围的）广度**==（width of knowledge）；
+
+> [!tip] 原型义
+> **原型义**：从一边到另一边的距离，宽度
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"物理宽度"→"知识/兴趣的广度"——从空间宽度到抽象广度）
+
+## 词根词缀
+
+源自古英语 *wīd*（宽的）+ *-th*（名词后缀，表示状态或性质）。*wīd* 来自原始日耳曼语 *\*wīdaz*，原始印欧语 *\*wi-h₁-*（分开、远离）。与 [[wide]]（宽的）、[[widen]]（加宽）、[[widespread]]（广泛的）同源。width 的核心概念是"从一边到另一边的距离"——与 length（长度，从一端到另一端）和 height（高度，从底到顶）构成三维度量体系。width 的 -th 后缀与 length 中的 -th、depth 中的 -th 相同，都是"状态/性质"的名词后缀。
+**叙事**：width 的核心画面是"用尺子量一条河的宽度——从这岸到对岸的距离"。古英语 *wīd* = 宽的。width = 宽度 = 从一边到另一边的距离。the width of the river（河的宽度）= 从这岸到对岸的距离。the width of knowledge（知识的广度）= 知识覆盖的"宽度"。width 与 length（长）、height（高）、depth（深）构成完整的三维度量词族——它们都共享 -th 后缀。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**从一边到另一边的距离**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **物理宽度**（空间层面）
+>    - → **宽度，广度**：水平方向的距离
+>      - 激活条件：the width of the road, the width of the screen
+>    - → **宽广**：宽的状态
+>      - 激活条件：a road of great width
+>    - → **（抽象）广度**：知识/兴趣的覆盖面
+>      - 激活条件：the width of his knowledge, breadth and width
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：width 就是"宽度"——从一边到另一边的距离
+- **延伸中心**：从"物理宽度"延伸到"知识/兴趣的广度"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"知识广度"能反向推导到"物理宽度"——广度就是知识覆盖的"宽度"
+> - [x] **可统筹**：一句话——"width 就是从物理宽度到抽象广度"
+> - [x] **有支撑**：the width of the road, width of knowledge 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 宽度；广度 | 核心词性，仅名词用法 |
+> | adj. | 宽的（wide） | n→adj：反推 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> width 的核心画面是"用尺子量一条河的宽度——从这岸到对岸的距离"。width = wide（宽的）+ -th（名词后缀）= 宽度。width 与 length（长）、height（高）、depth（深）构成三维度量词族——它们都共享 -th 后缀。the width of the screen（屏幕的宽度）= 屏幕从左到右的距离。the width of his reading（他阅读的广度）= 他阅读覆盖的"宽度"。
+>
+> **词拆分记忆**（辅助）：
+> width → wide（宽的）+ th（名词后缀）→ 宽度
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[breadth]] | 广度 | 强调覆盖范围 | 知识、经验 | 中性/正式 |
+> | [[length]] | 长度 | 强调纵向距离 | 任何事物 | 中性 |
+> | [[span]] | 跨度 | 强调两端之间的距离 | 桥、时间 | 中性 |
+> | **width** | 宽度 | 强调横向距离 | 物体、知识 | 中性/通用 |
+
+> **"增"标记**：width **(增-与length/height/depth构成完整度量词族)** vs breadth（基准词：一般广度）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[length]]：长度（width 的反义：宽度↔长度，构成横向与纵向对比）
+> - [[narrowness]]：狭窄（width 的反义：宽度↔狭窄）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[wide]] | 核心形容词 | 宽的 | 核心词 |
+> | [[widen]] | wide + -en | 加宽 | 词义补充 |
+> | [[widespread]] | wide + spread | 广泛的 | 词义补充 |
+> | [[worldwide]] | world + wide | 全世界的 | 复合词 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **the width of**：……的宽度
+> - **in width**：在宽度上
+> - **the width of knowledge**：知识的广度
+> - **shoulder width**：肩宽
+> - **full width**：全宽
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The bridge, measuring 2 kilometers in length and 30 meters in width, is one of the most impressive engineering achievements of the 21st century."（这座桥长2公里、宽30米，是21世纪最令人印象深刻的工程成就之一——考研翻译工程话题相关表达）
+> - "A good education should provide students with both depth and width of knowledge, enabling them to think critically about complex problems from multiple perspectives."（良好的教育应该为学生提供既有深度又有广度的知识，使他们能够从多个角度批判性地思考复杂问题——考研阅读教育话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：古英语 wīd + -th（宽的 + 名词后缀）
+> - [ ] 同义辨析：width/breadth/length/span
+> - [ ] 反义词群：length/narrowness
+> - [ ] 度量词族：width/length/height/depth

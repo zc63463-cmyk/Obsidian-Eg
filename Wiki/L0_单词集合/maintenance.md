@@ -1,0 +1,173 @@
+---
+title: "maintenance"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-20
+mastery: L0
+word_freq: 中频
+semantic_field: 抽象关系
+prototype: 维持的行为
+extension_dim: 具身路径
+last_review: 2026-04-20
+review_count: 0
+---
+
+# maintenance
+
+> [!info] 基础信息
+> **音标** /ˈmeɪntənəns/ | **词频** 考研中频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**n.** ①==**维持，保养**==（设备、建筑等的维护）；②==**抚养费，赡养费**==（法律用语）；
+
+> [!tip] 原型义
+> **原型义**：维持的行为（[[maintain]] + -ance（名词后缀，表示行为/状态）→ 维持的行为→保养）
+> **延伸维度**：行为路径
+> **隐喻类型**：行为隐喻（"维持"的行为→ 设备保养→ 经济赡养）
+
+## 词根词缀
+
+**词根拆分**：[[maintain]]（维持）+ -ance（名词后缀，表示行为/状态）→ 维持的行为→保养
+
+**后缀 -ance/-ence**（名词后缀）：表示行为、状态或性质，将动词转化为名词
+
+**叙事**：[[maintain]] 是"维持、保持"，加上 -ance 变成名词——"维持的行为"，这就是 maintenance。你定期给汽车做 **maintenance**（保养），让车保持正常运转；离婚后一方支付 **maintenance**（抚养费），维持另一方的生活。记住 maintenance = maintain 的名词形式 = 维持的行为 = 保养/抚养费。
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**维持的行为**"为统筹中心，沿行为路径向外扩展：
+>
+> 1. **维持的行为**（物理操作层面）
+>    - → **保养，维护**：维持设备/建筑正常运转的行为
+>      - 激活条件：描述设备、建筑、系统的维护（car maintenance / building maintenance / routine maintenance）
+> 2. **维持的行为**（法律/经济层面）
+>    - → **抚养费，赡养费**：维持家人生活的经济行为
+>      - 激活条件：法律语境（child maintenance / pay maintenance）
+
+### 统筹（选择适用的模式）
+
+- **行为隐喻统筹**：maintenance 的核心意象是"维持的行为"，所有引申义共享这个行为结构——保养是维持设备运转的行为，抚养费是维持家人生活的行为
+- **一句话统筹**：maintenance 就是"维持的行为"——保养设备、支付抚养费
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"抚养费"能反向推导到"维持的行为"——抚养费就是维持家人生活的行为
+> - [x] **可统筹**：一句话统筹——"maintenance 就是维持的行为"
+> - [x] **有支撑**：car maintenance, routine maintenance, child maintenance 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 维持；保养；抚养费 | 核心词性（仅名词） |
+> | vt. | [[maintain]]（维持；维修；坚持主张） | 核心动词形式 |
+> | adj. | maintainable（可维持的） | maintain + -able |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> maintenance = maintain（维持）+ -ance（名词后缀）→ 维持的行为。想象你把车送到修理厂，技师说"你需要定期做 **maintenance**"——这就是保养。同样，离婚协议中写明每月支付 **maintenance**——这就是抚养费。记住 maintenance = maintain 的名词形式 = 维持的行为。
+>
+> **词拆分记忆**（辅助）：
+> main（主要的）+ ten（=10）+ ance（名词后缀）→ 主要的 10 件事要保持 → 保养
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[maintenance]] | 保养；抚养费 | 强调"维持正常运转的行为"，最通用 | 设备、建筑、系统 | 中性/正式 |
+> | [[upkeep]] | 保养，维护 | 强调"日常照料"，偏口语 | 房屋、花园、设备 | 中性/口语 |
+> | [[repair]] | 修理 | 强调"修复损坏的部分"，非预防性 | 任何损坏物 | 中性 |
+> | [[alimony]] | 赡养费 | 专指"配偶赡养费"，法律术语 | 离婚配偶 | 中性/法律 |
+> | [[support]] | 赡养，抚养 | 最通用的"经济供养" | 家人、子女 | 中性 |
+
+> **"增"标记**：maintenance **(增-预防性+通用性)** vs repair（基准词：修理）；upkeep **(增-日常感+口语性)** vs maintenance（基准词：保养）；alimony **(增-法律精确性+配偶专指)** vs maintenance（基准词：抚养费）；support **(增-通用性+情感温度)** vs maintenance（基准词：经济供养）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[neglect]]：忽视，疏忽（保养↔忽视）
+> - [[abandonment]]：遗弃（维持↔遗弃）
+> - [[deterioration]]：恶化（保养↔恶化）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[maintain]] | main（手）+ tain（保持） | 维持；维修；坚持主张 | 核心动词形式 |
+> | [[contain]] | con-（共同）+ tain | 包含 | 同词根（共同持有） |
+> | [[obtain]] | ob-（加强）+ tain | 获得 | 同词根（使持有） |
+> | [[retain]] | re-（回）+ tain | 保留 | 同词根（拿回保持） |
+> | [[sustain]] | sus-（下面）+ tain | 支撑 | 同词根（从下保持） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **routine / regular maintenance**：定期保养
+> - **car / building / road maintenance**：汽车/建筑/道路保养
+> - **maintenance cost / fee**：保养费用
+> - **child / spousal maintenance**：子女/配偶抚养费
+> - **pay maintenance**：支付抚养费
+> - **under maintenance**：正在维修中
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Regular maintenance can extend the life of your car."（定期保养可以延长汽车的使用寿命）——生活/说明语境
+> - "The building is currently under maintenance."（这栋建筑目前正在维修中）——常见表达
+> - "He was ordered to pay child maintenance of $500 a month."（他被判每月支付 500 美元子女抚养费）——法律语境
+> - "The cost of maintenance has risen significantly over the past decade."（过去十年间保养成本大幅上升）——经济/社会语境
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：tain/ten/tin（持有、保持，拉丁语 tenere，衍生 maintain/maintenance/contain/obtain/retain/sustain 等）
+> - [ ] 同义辨析：maintenance/upkeep/repair/alimony/support
+> - [ ] 反义词群：neglect/abandonment/deterioration
+> - [ ] 搭配网络：routine maintenance / under maintenance / child maintenance

@@ -1,0 +1,160 @@
+---
+title: "composition"
+tags:
+  - 学习/英语/词汇
+  - 语义场/理性世界
+  - 掌握/L0
+aliases: [compositions]
+date: 2026-04-22
+mastery: L0
+word_freq: 高频
+semantic_field: 理性世界
+prototype: 构成，组成
+extension_dim: 抽象路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# composition
+
+> [!info] 基础信息
+> **音标** /ˌkɒmpəˈzɪʃn/ | **词频** 考研高频 | **语义场** [[理性世界]]
+
+## 核心释义
+
+**n.** ①构成，组成 ; ==**②作文，作品**== ; ③成分，构成方式 ;
+
+> [!tip] 原型义
+> **原型义**：构成，组成（各部分组合在一起的方式或结果）
+> **延伸维度**：抽象路径
+> **隐喻类型**：结构隐喻（物理组合→艺术创作→化学成分）
+
+## 词根词缀
+
+com-(共同，一起) + [[pon/pos]](放置) + -ition(名词后缀，表示动作或结果) → "放在一起的结果"
+
+建议创建词根笔记 [[pon/pos]]（放置），关联已有词根 [[com-]]
+
+**叙事**：把文字一起（com-）放（pon）好，就成了一篇composition（作文）——把元素放好就成了物质的composition（成分）。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**构成，组成**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **构成，组成**（抽象层面：各部分的组合方式）
+>    - → **作文，作品**：文字组合的产物
+>      - 激活条件：描述文学、音乐创作成果时
+>    - → **成分，构成方式**：物质或系统的组成要素
+>      - 激活条件：描述化学成分、社会构成时
+
+### 统筹
+
+- **一字一词概括**：构——从组合方式到创作成果
+- **延伸中心**：各元素组合在一起的方式和结果
+- **一句话统筹**：物质的成分是composition，文字的作品是composition，社会的构成也是composition。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：作文→文字组合的产物→构成
+> - [x] **可统筹**：所有义项围绕"组合方式/结果"展开
+> - [x] **有支撑**：chemical composition, write a composition 等搭配
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 构成/作文/成分 | v→n：[[compose]] 的动作结果/产物 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**：
+> 作文就是把文字一起（com-）放（pon）好的结果（-ition）——composition既是"作文"也是"构成"，因为它们都是"把东西放在一起"。
+>
+> **词族记忆**：
+> [[component]]（组件）→ [[compose]]（组成）→ [[composition]]（作文/构成）→ [[comprehend]]（理解）→ [[comprehension]]（理解力）→ [[comprehensive]]（全面的）
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[essay]] | 散文/短文 | 强调议论性、分析性的文章 | 学术、考试 | 中性 |
+> | [[article]] | 文章 | 强调发表在报刊上的文章 | 报刊、杂志 | 中性 |
+> | **composition** | 作文/构成 | 强调文字的组合创作或物质的构成 | 考试、化学 | 中性 |
+>
+> **"增"标记**：composition **(增-双重语义)** vs essay（composition既指"作文"也指"构成"，essay仅指文章）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[decomposition]]：composition是构成，decomposition是分解
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[compose]] | composition 的动词形式 | 组成/创作 | 词义补充 |
+> | [[component]] | com- + pon + -ent | 组成部分 | 词义填充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **chemical composition**：化学成分（The chemical composition of the soil affects plant growth.）
+> - **write a composition**：写作文（Students were asked to write a composition on environmental protection.）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The composition of the committee reflects the diversity of the student body."（委员会的组成反映了学生群体的多样性。）——考研高频表达
+> - "Scientists analyzed the chemical composition of the water sample."（科学家分析了水样的化学成分。）——考研高频表达
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：
+> **翻译实践**：
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：pon/pos（放置）/ com-（共同）
+> - [ ] 同义辨析：composition / essay / article / thesis
+> - [ ] 反义词群：decomposition
+> - [ ] 形近词群：compose, component, comprehension, provision

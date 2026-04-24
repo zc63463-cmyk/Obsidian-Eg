@@ -1,0 +1,163 @@
+---
+title: "standpoint"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: [standpoints]
+date: 2026-04-22
+mastery: L0
+word_freq: 中频
+semantic_field: 抽象关系
+prototype: 站立的位置
+extension_dim: 空间路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# standpoint
+
+> [!info] 基础信息
+> **音标** /ˈstændpɔɪnt/ | **词频** 考研中频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**n.** ①==**立场，观点**== ; ②立足点 ;
+
+> [!tip] 原型义
+> **原型义**：站立的位置
+> **延伸维度**：空间路径
+> **隐喻类型**：方位隐喻（从"物理站立位置"到"认知立场/观点"）
+
+## 词根词缀
+
+[[stand]]（站立）+ [[point]]（点/位置）
+**叙事**：你**站**（stand）在一个**点**（point）上看世界——站在山脚和山顶看到的风景完全不同，你站的位置决定了你的"立场"和"观点"。
+
+建议创建词根笔记 [[st/sta]]（站立/使...站立/使...坚定）
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**站立的位置**"为统筹中心，沿空间路径向外扩展：
+>
+> 1. **站立的位置**（空间层面）
+>    - → **立足点**：物理上的站立位置
+>      - 激活条件：from a strategic standpoint
+> 2. **站立的位置**（认知层面）
+>    - → **立场，观点**：认知上的"站立位置"
+>      - 激活条件：from my standpoint, from a legal standpoint, economic standpoint
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**："位"——你站的位置决定你的看法
+- **一句话统筹**：standpoint 就是"你站在哪里看"——物理上叫立足点，认知上叫立场/观点
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"观点"能推导回"站立位置"——观点就是你认知上的站位
+> - [x] **可统筹**：一句话——"你站在哪里，就看到什么"
+> - [x] **有支撑**：from an economic standpoint, from the standpoint of the consumer 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 立场；立足点 | 复合名词，stand + point 的名词化 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> 想象你站在十字路口的一个点上——往东看是商业街，往西看是居民区。你**站**（stand）在哪个**点**（point），就决定了你看到什么。这就是 standpoint——你的立场取决于你的站位。
+>
+> **词拆分记忆**：
+> [[stand]]（站立）+ [[point]]（点）→ 站立的点 → **立场**
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[perspective]] | 视角，透视 | 强调观察角度 | 问题、事件 | 中性/分析性 |
+> | [[viewpoint]] | 观点，看法 | 强调个人看法 | 话题、问题 | 中性 |
+> | [[position]] | 立场，态度 | 强调明确表态 | 政治、争议 | 正式/坚定 |
+> | **standpoint** | 立足点，立场 | 强调"站位"决定看法 | 分析、论证 | 正式/客观 |
+>
+> **"增"标记**：standpoint **(增-空间方位感)** vs viewpoint（standpoint 更强调"站在哪里看"的空间隐喻，viewpoint 更强调"看到什么"的结果）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - standpoint 本身为方位概念，无直接反义词。与不同 standpoint 对立时，可视为 opposite standpoint（对立立场）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[stand]] | 基词 | 站立 | 词义填充：stand 提供"站立"的底层意象 |
+> | [[standard]] | stand + -ard | 标准 | 词义补充：stand 的"站定"→标杆 |
+> | [[stance]] | sta + -nce | 立场 | 词义补充：standpoint 的近义词，更强调姿态 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **from a/the standpoint of**：从...的立场/角度
+  - From an economic standpoint, the policy makes perfect sense.
+- **from my standpoint**：从我的立场来看
+  - From my standpoint, this is the best solution available.
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "From an economic standpoint, the policy makes perfect sense."（从经济角度来看，这项政策完全合理。）——考研高频表达
+> - "From a practical standpoint, the plan is not feasible."（从实际角度来看，这个计划是不可行的。）——考研高频表达
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<待填写>
+> **翻译实践**：<待填写>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：st/sta（站立/使...站立/使...坚定）
+> - [ ] 同义辨析：perspective, viewpoint, position, angle
+> - [ ] 反义词群：opposite standpoint
+> - [ ] 形近词群：[[stand]], [[standard]], [[stance]], [[stay]], [[steady]], [[stern]], [[start]], [[state]], [[statue]], [[status]], [[statute]], [[step]], [[stem]], [[steer]], [[starve]], [[startle]], [[statesman]], [[statistics]], [[statement]]

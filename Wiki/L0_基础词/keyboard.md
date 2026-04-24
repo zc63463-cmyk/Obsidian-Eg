@@ -1,0 +1,162 @@
+---
+title: "keyboard"
+tags:
+  - 学习/英语/词汇
+  - 语义场/物品工具
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 物品工具
+prototype: 键盘（按键的板子）
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# keyboard
+
+> [!info] 基础信息
+> **音标** /ˈkiːbɔːd/ | **词频** 考研中频 | **语义场** [[物品工具]]
+
+## 核心释义
+
+**n.** ①==**键盘**==（计算机、钢琴等乐器的键盘）；
+**v.** ②==**用键盘输入**==（keyboard sth into sth）；
+
+> [!tip] 原型义
+> **原型义**：键盘（按键的板子）
+> **延伸维度**：具身路径
+> **隐喻类型**：无隐喻（直接描述工具名称）
+
+## 词根词缀
+
+[[key]]（键、按键）+ [[board]]（板子）= keyboard（键盘）。复合词，由两个基础日耳曼词汇组合而成。key 源自古英语 *cǣg*（键、销），原始日耳曼语 *\*kiŋgaz*。board 源自古英语 *bord*（板子、桌子）。keyboard 是典型的"功能+载体"型复合词——按键（key）放在板子（board）上。
+
+**叙事**：keyboard 的核心画面是"按键排列在板子上"。key = 键、按键，board = 板子。把按键排列在一块板子上——这就是 keyboard（键盘）的原始画面。keyboard 最初指钢琴等乐器的键盘，后来随着计算机的发展，成为计算机输入设备的代名词。keyboard shortcut = 键盘快捷键。keyboard warrior = 键盘侠（只在网络上逞威风的人）。keyboard 的动词用法：keyboard the data into the computer = 用键盘把数据输入计算机。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**按键的板子**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **按键排列在板子上**（物理层面）
+>    - → **键盘**：乐器或计算机的输入设备
+>      - 激活条件：computer keyboard, piano keyboard
+>    - → **用键盘输入**：工具→动作
+>      - 激活条件：keyboard the data
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：keyboard 就是"键盘"——按键的板子
+- **延伸中心**：从"物理键盘"延伸到"输入动作"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"键盘"能直接对应"按键的板子"——概念一致
+> - [x] **可统筹**：一句话——"keyboard 就是按键排列在板子上"
+> - [x] **有支撑**：computer keyboard, keyboard the data 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 键盘 | 核心词性 |
+> | v. | 用键盘输入 | n→v：工具→动作 |
+
+> [!abstract]- 词尾定性速查
+> `-tion` 动作结果 / `-ive` 倾向 / `-ous` 充满 / `-able` 可被 / `-ful` 充满 / `-less` 没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> keyboard = key（键）+ board（板子）= 键盘。按键排列在一块板子上——这就是 keyboard 的原始画面。最初指钢琴等乐器的键盘，后来成为计算机输入设备的代名词。keyboard shortcut = 键盘快捷键。keyboard warrior = 键盘侠。复合词结构清晰：key（按键）+ board（板子），"功能+载体"型复合词。
+>
+> **词拆分记忆**（辅助）：
+> keyboard = key（钥匙/键）+ board（板子）→ 有很多键的板子 → 键盘
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[keypad]] | 小键盘 | 强调小型、便携 | 手机、计算器 | 中性 |
+> | [[typewriter]] | 打字机 | 强调机械打字设备 | 传统办公 | 中性/复古 |
+> | **keyboard** | 键盘 | 强调通用输入设备 | 计算机、乐器 | 中性/通用 |
+>
+> **"增"标记**：keyboard **(增-使用范围最广，涵盖乐器和计算机)** vs keypad（基准词：一般小键盘）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[mouse]]：鼠标（keyboard 的互补工具：键盘↔鼠标）
+> - [[touchscreen]]：触摸屏（keyboard 的替代工具：键盘输入↔触摸输入）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[key]] | 基础词 | 键；钥匙 | 词根关联 |
+> | [[board]] | 基础词 | 板子；董事会 | 词根关联 |
+> | [[keyboarder]] | keyboard + -er | 键盘操作员 | 派生词 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **computer keyboard**：计算机键盘
+> - **keyboard shortcut**：键盘快捷键
+> - **keyboard warrior**：键盘侠
+> - **keyboard input**：键盘输入
+> - **keyboard the data into**：用键盘将数据输入……
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The invention of the computer keyboard revolutionized the way humans interact with machines, transforming communication and data processing."（计算机键盘的发明彻底改变了人类与机器交互的方式，革新了通信和数据处理——考研阅读科技话题相关表达）
+> - "Many young people today spend more time typing on a keyboard than writing by hand, which has raised concerns about the decline of handwriting skills."（如今许多年轻人花在键盘打字上的时间比手写更多，这引发了人们对书写能力下降的担忧——考研翻译教育话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：key（键）+ board（板子），复合词
+> - [ ] 同义辨析：keyboard/keypad/typewriter
+> - [ ] 反义词群：mouse/touchscreen
+> - [ ] 复合词网络：keyboard/keyboard shortcut/keyboard warrior

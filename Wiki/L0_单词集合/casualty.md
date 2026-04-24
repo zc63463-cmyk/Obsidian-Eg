@@ -1,0 +1,166 @@
+---
+title: "casualty"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-20
+mastery: L0
+word_freq: 中频
+semantic_field: 社会专业
+prototype: 偶然事件→伤亡
+extension_dim: 抽象路径
+last_review: 2026-04-20
+review_count: 0
+---
+
+# casualty
+
+> [!info] 基础信息
+> **音标** /ˈkæʒuəlti/ | **词频** 考研中频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**n.** ①==**伤亡人员**==（事故、战争中的死伤者）；②==**受害者**==（某种情况的牺牲品）；
+
+> [!tip] 原型义
+> **原型义**：偶然事件→伤亡
+> **延伸维度**：抽象路径
+> **隐喻类型**：结果隐喻（从"偶然事件"→"事件造成的后果"→"伤亡/受害者"）
+
+## 词根词缀
+
+**词根拆分**：[[casual]]（偶然的）+ -ty（名词后缀，表示状态或结果）→ 偶然事件的结果 → 伤亡
+
+**词根 cas/cad**（落下、发生）：核心词根，衍生词汇——[[casual]]（随意的）、[[accident]]（意外）、[[occasion]]（场合）
+
+**叙事**：casualty = casual（偶然的）+ ty（名词后缀）。想象一场战争中，士兵们遭遇了"偶然事件"（炸弹、子弹），这些偶然事件造成了"伤亡"——这就是 casualty。从"偶然事件的结果"到"伤亡人员"的语义演变非常自然：战争或事故中的伤亡，本质上就是偶然事件造成的受害者。记住 casual = 偶然的，casualty = 偶然事件的结果 = 伤亡。
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**偶然事件→伤亡**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **偶然事件的结果**（战争/事故中）
+>    - → **伤亡人员**：战争、事故中的死伤者
+>      - 激活条件：战争/灾难/事故语境（civilian casualties / heavy casualties）
+>    - → **受害者**：某种情况的牺牲品
+>      - 激活条件：社会/经济语境（casualties of the economic crisis / a casualty of the pandemic）
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：casualty = "伤亡"——偶然事件造成的死伤
+- **一句话统筹**：casualty 就是"偶然事件的受害者"——伤亡人员、牺牲品
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"伤亡"能反向推导到"偶然事件"——伤亡就是偶然事件（战争/事故）的结果
+> - [x] **可统筹**：一句话统筹——"casualty 就是偶然事件的受害者"
+> - [x] **有支撑**：civilian casualties, heavy casualties, casualty of war 均为高频搭配
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 伤亡人员、受害者 | 核心词性 |
+> | adj. | [[casual]]（偶然的、随意的） | 去掉 -ty |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> casualty = casual（偶然的）+ ty（名词后缀）→ 偶然事件的结果 → 伤亡。想象一场突如其来的战争，无数士兵和平民成为"偶然事件"的受害者——他们就是 casualties（伤亡人员）。经济危机中失业的人也可以叫 casualties of the recession（经济衰退的受害者）。记住 casual = 偶然的，casualty = 偶然事件的受害者 = 伤亡。
+>
+> **词拆分记忆**（辅助）：
+> casual（随意的）+ ty（踢）→ 随意一踢就造成了伤亡 → 伤亡人员
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[casualty]] | 伤亡人员、受害者 | 强调"事件造成的后果" | 战争、事故、危机 | 悲伤/严肃 |
+> | [[victim]] | 受害者 | 强调"被伤害的人"（最通用） | 犯罪、灾难、疾病 | 悲伤/同情 |
+> | [[fatality]] | 死亡者 | 强调"致死结果"（仅指死亡） | 事故、疾病、灾难 | 严肃/沉重 |
+> | [[survivor]] | 幸存者 | 强调"从灾难中活下来" | 灾难、战争、疾病 | 积极/坚强 |
+>
+> **"增"标记**：casualty **(增-事件后果感+集体性)** vs victim（基准词：受害者）；victim **(增-通用性+个体性)** vs casualty（基准词：事件伤亡）；fatality **(增-致死确定性)** vs casualty（基准词：伤亡含受伤）；survivor **(增-存活积极面)** vs casualty（基准词：伤亡后果）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[survivor]]：幸存者（伤亡↔幸存）
+> - [[beneficiary]]：受益者（受害者↔受益者）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[casual]] | 去掉 -ty | 偶然的、随意的 | 词性转换 |
+> | [[casually]] | casual + -ly | 随意地 | 词性转换 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **civilian casualties**：平民伤亡
+> - **heavy casualties**：惨重伤亡
+> - **casualty figures**：伤亡数字
+> - **casualties of war**：战争的受害者
+> - **a casualty of the economic crisis**：经济危机的牺牲品
+> - **suffer casualties**：遭受伤亡
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The army suffered heavy casualties during the battle."（军队在战斗中遭受了惨重伤亡）——军事话题
+> - "Civilian casualties continue to rise in the conflict zone."（冲突地区的平民伤亡持续增加）——新闻话题
+> - "Small businesses are often the first casualties of an economic recession."（小企业往往是经济衰退的首批受害者）——经济话题
+> - "The hospital reported no casualties from the earthquake."（医院报告地震没有造成伤亡）——灾难话题
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：cas/cad（落下、发生，拉丁语 cadere/casus，衍生 casual/casualty/accident/occasion 等）
+> - [ ] 同义辨析：casualty/victim/fatality/survivor
+> - [ ] 反义词群：survivor/beneficiary
+> - [ ] 派生词群：casual/casually

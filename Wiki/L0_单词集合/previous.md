@@ -1,0 +1,170 @@
+---
+title: "previous"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-21
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 走在前面
+extension_dim: 时间路径
+last_review: 2026-04-21
+review_count: 0
+---
+
+# previous
+
+> [!info] 基础信息
+> **音标** /ˈpriːviəs/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+%% HERMES-L0: previous 形容词，语义场归为抽象关系（时间/顺序上的"先前的"） %%
+
+## 核心释义
+
+**adj.** ①==**先前的，以前的**== ; ②在……之前的 ;
+
+> [!tip] 原型义
+> **原型义**：走在前面的（going before in time or order）
+> **延伸维度**：时间路径
+> **隐喻类型**：方位隐喻（前方=更早的/在先的）
+
+%% HERMES-L0: 原型义为"走在前面的"，方位隐喻延伸至时间上的"先前的" %%
+
+## 词根词缀
+
+pre-(在……之前) + vi(路) + -ous(形容词后缀)
+**叙事**：走在同一条路上、位于你前面的人或事，就是"先前的、以前的"。
+
+%% HERMES-L0: pre-前缀 + vi词根(路/走) + ous形容词后缀，与[[ced-cess]]词根相关 %%
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**走在前面的**"为统筹中心，沿时间路径向外扩展：
+>
+> 1. **走在前面的**（空间/时间方位）
+>    - → **先前的，以前的**：时间上走在前面
+>      - 激活条件：搭配经历、工作、版本等
+>    - → **在……之前的**：在某个事件之前
+>      - 激活条件：搭配 to（previous to sth.）
+
+### 统筹（选择适用的模式）
+
+- **延伸中心**：空间上的"在前"→时间上的"在先"
+- **一句话统筹**：走在时间前面的一切，都是previous。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"先前的"可回推到"走在前面的"空间概念
+> - [x] **可统筹**："走在前面的"统摄所有义项
+> - [x] **有支撑**：词源学记载previous源自拉丁语praevius"走在前面的"
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 先前的；以前的 | 基础词性 |
+> | adv. (previously) | 以前，先前 | adj→adv：时间上的先前性 |
+> | n. (preview) | 预览 | pre+view(看) |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> pre（前面）+ vi（路/走，同via）+ ous（充满的）→ 走在你前面那条路上的人，就是"先前的"。你前任老板是your previous boss，你之前的经历是your previous experience。
+>
+> **词拆分记忆**（标准词根无法解释时使用）：
+> pre（前）+ view（看）→ 以前看过的 → 先前的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[former]] | 前者/以前的 | 强调对比关系 | 两者中的前者 | 中性 |
+> | [[prior]] | 在先的 | 强调时间/顺序优先 | 安排、承诺 | 正式 |
+> | **previous** | 先前的 | 强调时间上在前 | 经历、版本、工作 | 中性 |
+
+> **"增"标记**：previous **(增-时间连续性)** vs prior（prior强调优先级，previous强调时间上的连续先后）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[subsequent]]：subsequent表示"随后的、后来的"，与previous的"先前的"形成时间上的反向对比
+> - [[following]]：following表示"接下来的"，与previous的"先前的"形成时间对立
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[previously]] | previous + -ly(副词后缀) | 以前，先前 | 词义填充 |
+> | [[presently]] | pre+sens(存在)+-ly | 目前；不久 | 同族词 |
+> | [[preserve]] | pre+serv(守卫)+e | 保护；保存 | 同族词 |
+> | [[preside]] | pre+sid(坐)+e | 主持；主管 | 同族词 |
+
+%% HERMES-L2: presently/preserve/preside/previous 同属 pre-族，互相链接 %%
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **previous experience**：以往经验
+  > Previous experience in teaching is required for this position.（这个职位需要有教学经验。）
+> - **previous to**：在……之前
+  > Previous to his retirement, he had worked here for thirty years.（退休之前，他在这里工作了三十年。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "I've met him before on two previous occasions."（我以前见过他两次。）——考研高频表达
+> - "Previous studies have shown that regular exercise can significantly reduce the risk of heart disease."（先前的研究表明，定期锻炼可以显著降低患心脏病的风险。）——考研高频表达
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：
+> **翻译实践**：
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：ced-cess（走）——已有词根笔记 [[ced-cess]]
+> - [ ] 同义辨析：previous / prior / former / preceding
+> - [ ] 反义词群：previous / subsequent / following / later
+> - [ ] 形近词群：previous / precious / preview / prejudice

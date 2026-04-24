@@ -1,0 +1,163 @@
+---
+title: "headquarters"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 社会专业
+prototype: 首脑驻地
+extension_dim: 空间路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# headquarters
+
+> [!info] 基础信息
+> **音标** /ˈhedˌkwɔːtəz/ | **词频** 考研高频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**n.** ①==**总部，总公司**==；②司令部，指挥部；
+
+> [!tip] 原型义
+> **原型义**：首脑驻地（组织最高领导所在的地点）
+> **延伸维度**：空间路径
+> **隐喻类型**：结构隐喻（"首脑驻地"= 组织的核心——物理空间→组织权力中心）
+
+## 词根词缀
+
+[[head]](头/首脑) + quarters(驻地/营房) → 首脑的驻地 → 总部
+**叙事**：head（头/首脑）+ quarters（驻地）→ 首脑住的地方就是 headquarters（总部）。The company's headquarters is based in London——这家公司的总部设在伦敦。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**首脑驻地**"为统筹中心，沿空间路径向外扩展：
+>
+> 1. **首脑驻地**（空间层面）
+>    - → **总部，总公司**：企业最高管理机构所在地
+>      - 激活条件：corporate headquarters, company headquarters
+>    - → **司令部，指挥部**：军事最高指挥所在地
+>      - 激活条件：military headquarters, report to headquarters
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：headquarters 就是"头儿待的地方"——公司的头儿待的地方叫"总部"，军队的头儿待的地方叫"司令部"
+- **延伸中心**：从"企业总部"延伸到"军事指挥部"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"司令部"能反向推导到"首脑驻地"——司令部就是军事首脑的驻地
+> - [x] **可统筹**：一句话——"headquarters 就是一个组织头号人物所在的地方"
+> - [x] **有支撑**：corporate headquarters, military headquarters 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 总部；司令部 | 核心词性，单复数同形 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> head（头）+ quarters（驻地）→ 首脑的驻地。The company's headquarters is in London——公司的总部在伦敦。All major strategic decisions are made at the corporate headquarters——所有重大战略决策都在公司总部做出。注意：headquarters 单复数同形，但动词可用单数或复数。
+>
+> **词拆分记忆**（辅助）：
+> head（头）+ quarters（四分之一→驻地）→ 头头待的地方 → 总部
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[office]] | 办公室 | 最通用的办公场所 | 公司、政府 | 中性/通用 |
+> | [[branch]] | 分部，分支机构 | 强调从总部派出的分支 | 银行、公司 | 中性 |
+> | [[main office]] | 总办公处 | 强调主要办公地点 | 企业、机构 | 中性 |
+> | **headquarters** | 总部；司令部 | 强调最高领导核心所在地 | 企业、军队、组织 | 正式/核心 |
+
+>
+> **"增"标记**：headquarters **(增-权力核心的象征意义)** vs office（基准词：通用办公场所）；headquarters **(增-军事用法)** vs main office（基准词：总办公处）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[branch]]：分部，分支机构（总部的反义：总部↔分部）
+> - [[outpost]]：前哨（司令部的反义：核心↔边缘）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[headquarters]] | head(头) + quarters(驻地) | 总部；司令部 | 核心词 |
+> | [[head]] | 核心词根 | 头；首领 | 词义补充（母词根） |
+> | [[headquarter]] | headquarters 的动词形式 | 设总部于 | 词义补充 |
+> | [[headline]] | head(头) + line(行) | 标题；头条 | 词族互链（head系列） |
+> | [[hearing]] | hear(听) + -ing(名词) | 听力；听证会 | 词族互链（head系列） |
+> | [[heart]] | 核心词根 | 心；核心 | 词族互链（head系列） |
+> | [[heat]] | 核心词根 | 热；热度 | 词族互链（head系列） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **corporate/company headquarters**：公司总部
+> - **military headquarters**：军事司令部
+> - **be headquartered in**：总部设在……
+> - **report to headquarters**：向总部报告
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Taxes are low, so many businesses have their headquarters here."（税收低，所以许多企业将总部设在这里——2016年12月四级听力Section C）
+> - "In a 2011 study, she investigated the effects of implementing a Results Only Work Environment on the productivity and well-being of employees at Best Buy's corporate headquarters."（在2011年的一项研究中，她调查了在百思买公司总部实施"仅看结果"工作环境对员工生产力和幸福感的影响——2016年12月考研阅读）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：headquarters/office/branch/main office
+> - [ ] 反义词群：branch/outpost
+> - [ ] 形近词群：headquarters/head/headline/quarter

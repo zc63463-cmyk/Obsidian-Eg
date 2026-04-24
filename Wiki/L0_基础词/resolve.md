@@ -1,0 +1,171 @@
+---
+title: "resolve"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 解决，决心
+extension_dim: 决断行动
+last_review: 2026-04-23
+review_count: 0
+---
+
+# resolve
+
+> [!info] 基础信息
+> **音标** /rɪˈzɒlv/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**v.** ①==**解决（问题、困难）**==；②==**决心，决定**==；③==**分解，解析**==；④==**（使）分解，溶解**==；
+**n.** ①==**决心，决意**==；
+
+> [!tip] 原型义
+> **原型义**：松开，解决（re- + solv(e)，"再次松开"→ 解决问题）
+> **延伸维度**：决断行动
+> **隐喻类型**：解开隐喻（"松开结"→ "解决问题"→ "下定决心"→ "分解"——从解开到决定到分解）
+
+## 词根词缀
+
+re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
+**叙事**：resolve 来自拉丁语 *resolvere*，re- = 再/回，solv = 松开/解开。核心逻辑是"重新松开"→ "解开问题"→ "解决"。从"解决"出发：resolve a conflict = 解决冲突。引申为"下定决心"：resolve to do something = 下决心做某事（在心里"解决"了犹豫）。resolve 还可以表示"分解"：resolve into = 分解为。resolve 作名词时表示"决心"——a firm resolve = 坚定的决心。与 [[resolution]]（决心/决议，名词）、[[resolute]]（坚决的，形容词）同词族。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**解决/松开**"为统筹中心，沿决断行动向外扩展：
+>
+> 1. **松开/解决**（认知层面）
+>    - → **解决（问题）**：解开问题
+>      - 激活条件：resolve a conflict, resolve a problem
+>    - → **决心，决定**：在心里解决犹豫
+>      - 激活条件：resolve to do, resolve on
+>    - → **分解，解析**：把整体松开为部分
+>      - 激活条件：resolve into, resolve a dispute
+>    - → **溶解**：物质上的松开
+>      - 激活条件：resolve in water
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：resolve 就是"松开/解决"——从解决问题到下定决心到分解
+- **延伸中心**：从"认知上的解决"延伸到"意志上的决心"和"物理上的分解"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"决心"能反向推导到"解决"——决心就是在心里"解决"了犹豫
+> - [x] **可统筹**：一句话——"resolve = 松开→解决→决心→分解"
+> - [x] **有支撑**：resolve a conflict, resolve to do, resolve into 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | v. | 解决；决心；分解；溶解 | 核心词性 |
+> | n. | 决心，决意 | v.→n：动作名词化 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> resolve = re-（再）+ solve（解决）= "重新解决"→ 解决。resolve a problem = 解决问题。resolve to do something = 下决心做某事（在心里"解决"了犹豫）。resolve a conflict = 解决冲突。resolve into parts = 分解为部分。resolve 作名词时 = 决心：a firm resolve = 坚定的决心。resolve 的过去式是 resolved，过去分词也是 resolved——be resolved to do = 下定决心做。resolve 和 [[resolution]]（名词：决心/决议）、[[resolute]]（形容词：坚决的）是同一词族的三种形式。
+>
+> **词拆分记忆**（辅助）：
+> re（再）+ solve（解决）→ 再次解决 → 解决问题/下定决心 → resolve
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[settle]] | 解决，定居 | 强调达成最终结果 | 争端、问题 | 中性 |
+> | [[determine]] | 决定，决心 | 强调经过思考后决定 | 目标、方向 | 正面 |
+> | [[decide]] | 决定 | 最通用的决定表达 | 任何事 | 中性/通用 |
+> | **resolve** | 解决；决心；分解 | 强调坚定不可动摇 | 问题、目标 | 正面/正式 |
+
+> **"增"标记**：resolve **(增-兼具"解决"和"决心"双重含义)** vs settle（基准词：解决）；resolve **(增-强调坚定性和不可动摇)** vs decide（基准词：决定）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[complicate]]：使复杂化（resolve 解决的反义：解决↔复杂化）
+> - [[hesitate]]：犹豫（resolve 决心的反义：决心↔犹豫）
+> - [[waver]]：动摇（resolve 决意的反义：决意↔动摇）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[resolve]] | re- + solv(e) | 解决；决心；分解 | 核心词 |
+> | [[resolution]] | resolve + -ution | 决心；决议；解决；分辨率 | 派生名词 |
+> | [[resolute]] | re- + solute | 坚决的；果断的 | 派生形容词 |
+> | [[resolved]] | resolve + -ed | 下定决心的；已解决的 | 派生形容词 |
+> | [[absolve]] | ab- + solv(e) | 免除；赦免 | 同源词 |
+> | [[dissolve]] | dis- + solv(e) | 溶解；解散 | 同源词 |
+> | [[solve]] | solv(e) | 解决；解答 | 同源词 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **resolve to do sth.**：下决心做某事
+> - **resolve a conflict/problem/crisis**：解决冲突/问题/危机
+> - **resolve into**：分解为
+> - **be resolved to do sth.**：下定决心做某事
+> - **a firm resolve**：坚定的决心
+> - **resolve a dispute**：解决争端
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The government resolved to take immediate action to address the growing public concern over environmental pollution."（政府下决心立即采取行动，解决公众对环境污染日益增长的担忧。——考研英语阅读环保类话题，resolve to do 高频考点）
+> - "Mediation efforts failed to resolve the longstanding dispute between the two neighboring countries."（调解努力未能解决两个邻国之间长期的争端。——考研英语阅读国际关系类话题）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：resolve/settle/determine/decide
+> - [ ] 反义词群：complicate/hesitate/waver
+> - [ ] 同源词群：resolve/resolution/resolute/absolve/dissolve/solve

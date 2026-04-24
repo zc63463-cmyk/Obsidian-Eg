@@ -1,0 +1,162 @@
+---
+title: "consensus"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会习俗
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 社会习俗
+prototype: 大家一起感觉到的共同意见
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# consensus
+
+> [!info] 基础信息
+> **音标** /kənˈsensəs/ | **词频** 考研中频 | **语义场** [[社会习俗]]
+
+## 核心释义
+
+**n.** ①==**共识，一致意见**==；②==**普遍意见**==；
+
+> [!tip] 原型义
+> **原型义**：大家一起感觉到的共同意见
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"共同感知"→"共同意见"→"共识"——从内在感知到外在一致）
+
+## 词根词缀
+
+[[con]]-（共同）+ [[sens-sent]]（感觉、感知）+ -us（拉丁名词后缀）。字面意思是"共同感知"→ "大家共同的感觉"→ "共识/一致意见"。拉丁语 *consensus*（同意、共识），是 *consentire*（共同感觉）的过去分词名词形式。与 [[sens-sent]] 词根笔记关联：sent（感觉）→ 共同的感觉 → 共识。与 [[consent]]（同意）同族——consent 是"共同感觉可以"，consensus 是"共同感觉形成的意见"。
+**叙事**：consensus 的核心画面是"一群人在会议室里讨论了很久，最终每个人都点头表示同意"。con = 共同，sens = 感觉（与 [[sens-sent]] 同源），us = 名词后缀。consensus = 大家共同感觉到的 = 共识。想象一个陪审团经过数小时讨论后，12个人终于达成了一致意见——这就是 consensus。consensus 不是投票表决的"多数决"，而是大家经过讨论后"共同感觉到的"一致意见。reach a consensus = 达成共识。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**大家一起感觉到的共同意见**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **共同感知**（认知层面）
+>    - → **共识，一致意见**：群体共同形成的意见
+>      - 激活条件：reach a consensus, build consensus
+>    - → **普遍意见**：社会大众的共同看法
+>      - 激活条件：there is a consensus that..., scientific consensus
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：consensus 就是"共识"——大家共同感觉到的意见
+- **延伸中心**：从"共同感知"延伸到"群体共识"再到"普遍意见"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"普遍意见"能反向推导到"共同感知"——普遍意见就是大家"共同感觉到的"
+> - [x] **可统筹**：一句话——"consensus 就是从共同感知到群体共识再到普遍意见"
+> - [x] **有支撑**：reach a consensus, scientific consensus, there is a consensus 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 共识；普遍意见 | 核心名词，描述群体一致意见 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> consensus = con（共同）+ sens（感觉，与 [[sens-sent]] 同源）+ us（名词后缀）= 共同感觉到的 = 共识。想象一群人讨论一个问题，每个人都把自己的感觉说出来，最后发现大家的"感觉"竟然一致——这就是 consensus（共识）。scientific consensus（科学共识）= 科学家们共同感觉到的结论。注意：consensus 强调的是"经过讨论后的一致"，不是简单的投票多数。
+>
+> **词拆分记忆**（辅助）：
+> consensus → con（共同）+ sensus（感觉）→ 共同的感觉 → 共识
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[agreement]] | 同意 | 侧重达成一致 | 意见、协议 | 通用/中性 |
+> | [[unanimity]] | 一致同意 | 侧重所有人一致 | 投票、决定 | 正式/绝对 |
+> | [[accord]] | 一致 | 侧重自愿达成 | 意见、政策 | 正式/积极 |
+> | **consensus** | 共识 | 侧重群体共同感觉 | 意见、看法 | 正式/中性 |
+>
+> **"增"标记**：consensus **(增-强调"共同感知"的词源内涵，侧重讨论后形成的群体意见)** vs agreement（基准词：一般同意）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[disagreement]]：分歧（consensus 的反义：共识↔分歧）
+> - [[controversy]]：争议（consensus 的反义：一致意见↔争议）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[consent]] | con + sent（感觉） | 同意，许可 | 词源关联 |
+> | [[consent]] | consent + -aneous | 同时发生的 | 词源关联 |
+> | [[sense]] | 基础词 | 感觉，意义 | 词根拆分 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **reach a consensus**：达成共识
+> - **build consensus**：建立共识
+> - **scientific consensus**：科学共识
+> - **broad/general consensus**：广泛/普遍共识
+> - **by consensus**：通过共识
+> - **there is a consensus that...**：人们普遍认为……
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "There is a growing consensus among scientists that climate change is primarily driven by human activities, particularly the burning of fossil fuels."（科学家之间日益达成共识，认为气候变化主要由人类活动驱动，尤其是化石燃料的燃烧——考研阅读环境话题相关表达）
+> - "After weeks of negotiation, the committee was finally able to reach a consensus on the proposed reforms to the education system."（经过数周的谈判，委员会终于在 proposed 教育体系改革方案上达成了共识——考研阅读教育话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[con]]-（共同）+ [[sens-sent]]（感觉）+ -us
+> - [ ] 同义辨析：consensus/agreement/unanimity/accord
+> - [ ] 反义词群：consensus/disagreement, consensus/controversy
+> - [ ] 派生词群：consensus/consent/sense/sensible
+> - [ ] 搭配网络：reach a consensus/scientific consensus/broad consensus/by consensus

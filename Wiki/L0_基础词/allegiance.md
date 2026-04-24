@@ -1,0 +1,165 @@
+---
+title: "allegiance"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会习俗
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 社会习俗
+prototype: 绑在一起（对某人/组织的忠诚绑定）
+extension_dim: 社会路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# allegiance
+
+> [!info] 基础信息
+> **音标** /əˈliːdʒəns/ | **词频** 考研中频 | **语义场** [[社会习俗]]
+
+## 核心释义
+
+**n.** ①==**忠诚，效忠**==；②（对政党、宗教、君主等的）忠贞；
+
+> [!tip] 原型义
+> **原型义**：绑在一起（将自己与某人/组织绑定在一起）
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（"物理绑定"→"社会关系的忠诚绑定"）
+
+## 词根词缀
+
+al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名词后缀）
+**叙事**：al（向）+ lig（绑）+ ance（名词）→ 向某人绑在一起 → 忠诚、效忠。你对国家的 allegiance，就是把自己和国家的命运"绑"在一起。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**绑在一起**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **绑在一起**（物理层面）
+>    - → **忠诚，效忠**：社会关系上的"绑定"
+>      - 激活条件：pledge allegiance to, swear allegiance to
+>    - → **忠贞**：对组织/信仰的持久绑定
+>      - 激活条件：allegiance to a party
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：allegiance 就是"绑"——绑在一起就是忠诚
+- **延伸中心**：从"物理绑定"延伸到"社会关系的忠诚"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"忠诚"能反向推导到"绑在一起"——忠诚就是把心绑在某人身上
+> - [x] **可统筹**：一句话——"allegiance 就是把自己'绑'在某人/组织身上"
+> - [x] **有支撑**：pledge allegiance to, increase allegiance to 均有真题语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 忠诚，效忠；忠贞 | 核心词性，allege 的同源名词 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> al（向）+ lig（绑，[[liber]]）+ ance（名词后缀）→ 向某人绑在一起 → 忠诚。allegiance 和 [[alliance]]（联盟）同源——alliance 是国家之间"绑"在一起，allegiance 是个人对组织"绑"在一起。
+>
+> **词拆分记忆**（辅助）：
+> all（全部）+ e + giance → 把全部的自己交给某人 → 忠诚
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[loyalty]] | 忠诚，忠心 | 强调情感上的忠实 | 人、组织、品牌 | 正面/情感 |
+> | [[devotion]] | 奉献，忠诚 | 强调投入和奉献 | 事业、信仰 | 强烈/正面 |
+> | [[fidelity]] | 忠诚，忠实 | 强调严格遵守承诺 | 婚姻、职责 | 正式/庄重 |
+> | **allegiance** | 忠诚，效忠 | 强调正式的绑定关系 | 国家、政党、组织 | 正式/制度性 |
+
+> **"增"标记**：allegiance **(增-正式性和制度性)** vs loyalty（基准词：情感忠诚）；allegiance **(增-政治色彩)** vs devotion（基准词：奉献）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[betrayal]]：背叛（allegiance 的精确反义）
+> - [[treason]]：叛国（allegiance 的极端反义）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[all]] | 词族母词 | 全部 | 词族互链 |
+> | [[allege]] | al- + leg(说) | 宣称，断言 | 词族互链 |
+> | [[alliance]] | all + -iance | 联盟，同盟 | 词族互链 |
+> | [[ally]] | al- + ly(=lig, 绑) | 同盟者 | 词族互链 |
+> | [[alloy]] | al- + loy(=lig, 绑) | 合金 | 词族互链 |
+> | [[alleviate]] | al- + lev(轻) + -iate | 减轻，缓解 | 词族互链 |
+> | [[allowance]] | allow + -ance | 津贴 | 词族互链 |
+> | [[alone]] | all + one | 独自的 | 词族互链 |
+> | [[along]] | all + -ong(长) | 沿着 | 词族互链 |
+> | [[alongside]] | along + side | 在……旁边 | 词族互链 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **pledge/swear allegiance to**：宣誓效忠于……
+> - **allegiance to**：对……的忠诚
+> - **shift/transfer allegiance**：改变效忠对象
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "These terms are also intended to infuse work with meaning—and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm."（这些术语也旨在赋予工作以意义——正如另一位教授拉凯什·库拉纳指出的那样，增加对公司的忠诚度——2015年英语二阅读理解）
+> - "Soldiers have to swear allegiance to the Crown/the King."（士兵必须宣誓效忠国王——考研高频搭配表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[liber]]（自由/绑，拉丁语 *liber*/*ligare*）
+> - [ ] 词族网络：all/allege/allegiance/alleviate/alliance/allowance/alloy/ally/alone/along/alongside
+> - [ ] 同义辨析：allegiance/loyalty/devotion/fidelity
+> - [ ] 反义词群：betrayal/treason

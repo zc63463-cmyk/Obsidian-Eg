@@ -1,0 +1,164 @@
+---
+title: "ambitious"
+tags:
+  - 学习/英语/词汇
+  - 语义场/人本世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-22
+mastery: L0
+word_freq: 高频
+semantic_field: 人本世界
+prototype: 有抱负的、有野心的
+extension_dim: 社会路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# ambitious
+
+> [!info] 基础信息
+> **音标** /æmˈbɪʃəs/ | **词频** 考研高频 | **语义场** [[人本世界]]
+
+## 核心释义
+
+**adj.** ①==**有抱负的，有雄心壮志的**== ; ②有野心的，野心勃勃的 ; ③费力的，艰巨的（计划等）
+
+> [!tip] 原型义
+> **原型义**：充满追求目标的欲望的
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻——从"充满追求"投射到"计划宏大"
+
+## 词根词缀
+
+ambi-(四处) + -ition(走) + -ous(形容词后缀，表示"充满……的") → 四处奔走追求的 → 有抱负的
+**叙事**：一个**充满**（-ous）[[ambition|ambition]]（追求）的人，就是 **ambitious**——他有**抱负**（ambitious young man），也可能有**野心**（ambitious politician），他的计划往往很**宏大**（ambitious plan）。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**充满追求目标的欲望**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **充满追求目标的欲望**（心理层面）
+>    - → **有抱负的**：<追求成就的积极态度>
+>      - 激活条件：搭配 person, student, young，褒义语境
+>    - → **有野心的**：<对权力的过度追求>
+>      - 激活条件：搭配 politician, leader，贬义语境
+>    - → **宏大的，艰巨的**：<计划本身"充满追求">
+>      - 激活条件：搭配 plan, project, program，中性
+
+### 统筹（选择适用的模式）
+
+- **延伸中心**："追求"→ 追求成就（有抱负）→ 追求权力（有野心）→ 追求宏大（计划艰巨）
+- **一句话统筹**：ambitious 描述一切"充满追求"的人或事物
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"宏大的计划"可反向推导——充满追求的计划 → 充满追求的
+> - [x] **可统筹**：所有义项都围绕"充满追求/欲望"这一核心
+> - [x] **有支撑**：ambitious plan / ambitious young man 为考研高频搭配
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 有抱负的；有野心的；宏大的 | n→adj：ambition + -ous，充满抱负的 |
+> | n. (ambition) | 抱负；野心；目标 | adj→n：形容词对应的名词形式 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**：
+> 想象一个年轻人说"我要改变世界"——他**充满**（-ous）**追求**（ambition），是有**抱负的**（ambitious）。但如果一个政客为了权力不择手段，他就是有**野心的**（ambitious）。一个要登月的计划，本身就是**宏大的**（ambitious plan）。
+>
+> **词拆分记忆**：
+> ambitious = [[ambition|ambition]](抱负) + -ous(充满……的) → 充满抱负的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[determined]] | 坚定的，坚决的 | 强调意志力 | 人、态度 | 积极 |
+> | [[aggressive]] | 有进取心的；侵略性的 | 强调攻击性 | 商业、竞争 | 积极/消极 |
+> | [[enterprising]] | 有进取心的，有魄力的 | 强调创新精神 | 人、项目 | 积极 |
+> | **ambitious** | 有抱负的；有野心的 | 强调追求目标 | 人、计划 | 积极/消极 |
+>
+> **"增"标记**：ambitious **(增-目标导向)** vs determined——ambitious 强调追求的目标宏大，determined 强调意志坚定
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[unambitious]]：ambitious（有抱负的）vs unambitious（没有抱负的）
+> - [[lazy]]：ambitious（有进取心的）vs lazy（懒惰的）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[ambition]] | ambi-(四处) + -ition(走) | 抱负；野心 | 词义补充（母词） |
+> | [[ambiguous]] | ambi-(两边) + ig(走) | 模棱两可的 | 词义补充 |
+> | ambitiously | ambitious + -ly | 雄心勃勃地 | 词义填充 |
+> | unambitious | un- + ambitious | 没有抱负的 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **ambitious plan/project**：宏大的计划/项目（The government launched an ambitious plan to reform the healthcare system. 政府启动了一项宏大的医疗改革计划。）
+> - **ambitious young man**：有抱负的年轻人（He is an ambitious young man who dreams of starting his own company. 他是一个梦想创办自己公司的有抱负的年轻人。）
+> - **be ambitious for**：对……有抱负（She is ambitious for her children's future. 她对孩子们的未来充满抱负。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "For such people and many more perhaps not so exceptional, the proper formulation is, 'Succeed at all costs but avoid appearing ambitious.'"（对于这些人以及许多或许不那么出众的人来说，恰当的表述是：'不惜一切代价成功，但要避免显得有野心。'）——考研真题
+> - "His latest book, however, is more ambitious and serious than his earlier works."（然而，他的最新著作比他早期的作品更具野心和严肃性。）——考研真题
+> - "The government has set ambitious targets for reducing carbon emissions by 2030."（政府已设定了到2030年减少碳排放的宏大目标。）——考研高频表达
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<待填写>
+> **翻译实践**：<待填写>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：ambitious / determined / aggressive / enterprising
+> - [ ] 反义词群：ambitious ↔ unambitious / lazy
+> - [ ] 形近词群：ambitious / ambition / ambiguous / ambient

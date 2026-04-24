@@ -1,0 +1,170 @@
+---
+title: "specific"
+tags:
+  - 学习/英语/词汇
+  - 语义场/理性世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-21
+mastery: L0
+word_freq: 高频
+semantic_field: 理性世界
+prototype: 属于特定种类的
+extension_dim: 空间路径
+last_review: 2026-04-21
+review_count: 0
+---
+
+# specific
+
+> [!info] 基础信息
+> **音标** /spəˈsɪfɪk/ | **词频** 考研高频 | **语义场** [[理性世界]]
+
+## 核心释义
+
+**adj.** ①==**具体的，明确的**==；②==**特定的，特有的**==（~ to）；③==**特有的，专属的**==；
+**n.** ①==**详情，细节**==（通常用复数 specifics）；②==**特效药**==；
+
+> [!tip] 原型义
+> **原型义**：属于特定种类的（源自拉丁语 *specificus*，"属于某种特定种类/性质的"，由 *species* "种类" + *-fic* "制造"构成）
+> **延伸维度**：空间路径
+> **隐喻类型**：结构隐喻（从"属于特定种类"→"具体的/明确的"——不是泛泛的，而是特定种类的→具体的）
+
+## 词根词缀
+
+spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于……的）
+**叙事**：specific = spec（种类）+ ific（制造/做）= 做出特定种类的 = **具体的/明确的**。和 general（一般的）相对：general 是泛泛的，specific 是**具体的**。specific 强调"不是模糊的，而是明确的"：specific instructions（明确的指示）、specific reason（具体原因）。spec- 家族：species（物种）、special（特别的）、specify（明确指定）、speculate（推测）。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**属于特定种类的**"为统筹中心，沿空间路径向外扩展：
+>
+> 1. **属于特定种类的**（信息层面）
+>    - → **具体的/明确的**：不是模糊的，是特定种类的
+>      - 激活条件：描述信息时（specific details, specific reason）
+> 2. **属于特定种类的**（归属层面）
+>    - → **特定的/特有的**：属于某个特定种类的
+>      - 激活条件：描述归属时（specific to a region, specific to certain groups）
+> 3. **属于特定种类的**（细节层面）
+>    - → **详情/细节**（specifics）：具体的细节信息
+>      - 激活条件：讨论细节时（get down to specifics）
+
+### 统筹（选择适用的模式）
+
+- **结构隐喻统筹**：specific 的核心是"属于特定种类"，从"具体的/明确的"到"特有的"再到"详情"，都围绕"特定"展开
+- **一句话统筹**：specific 就是不模糊——属于特定种类，不是泛泛之谈
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"详情"能反向推导到"属于特定种类"——详情就是特定种类的具体信息
+> - [x] **可统筹**：一句话统筹——"specific 就是不模糊"
+> - [x] **有支撑**：specific details, specific to, get down to specifics 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 具体的；特定的 | 核心词性 |
+> | n. | 详情；特效药 | adj.→n：具体信息的具体化 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> specific 来自拉丁语 species（种类）+ -fic（制造/做）= 做出特定种类的 = **具体的/明确的**。和 general（一般的）相对：general 是泛泛的，specific 是**具体的**。老师布置作业说"Write a specific plan"——不是泛泛而谈，而是**具体的**计划。specific 的核心是"不模糊"。spec- 家族：species（物种）、special（特别的）、specify（明确指定）、speculate（推测）。
+>
+> **词拆分记忆**（辅助）：
+> spec（种类，如 species 物种）+ ific（制造，如 -fic 后缀）→ 做出特定种类 → 具体的/明确的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[particular]] | 特定的 | 强调从众多中选出的特定性 | 事物、人、场合 | 中性 |
+> | [[concrete]] | 具体的 | 强调可感知的实在性 | 例子、证据、计划 | 中性 |
+> | **specific** | 具体的，明确的 | 强调明确而非模糊 | 细节、要求、目标 | 中性/正式 |
+> | [[exact]] | 精确的 | 强调丝毫不差 | 数字、时间、描述 | 中性/精确 |
+>
+> **"增"标记**：specific **(增-明确性)** vs concrete（基准词：具体的）；specific **(增-种类归属感)** vs particular（基准词：特定的）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[general]]：一般的，笼统的（specific "具体的/明确的"的精确反义）
+> - [[vague]]：模糊的（specific "明确的"的反义）
+> - [[broad]]：广泛的（specific "特定的"的反义）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[specifically]] | specific + -ally（副词后缀） | 特别地；具体地 | 词义填充 |
+> | [[specify]] | spec（种类）+ -ify（使动） | 明确指定；详细说明 | 词义补充（同源词） |
+> | [[specification]] | specify + -cation（名词后缀） | 规格；说明书；明确说明 | 词义填充 |
+> | [[special]] | spec（种类）+ -ial | 特别的；专门的 | 词义补充（同源词） |
+> | [[species]] | spec（种类）+ -ies | 物种；种类 | 词义补充（同源核心） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **specific to**：……特有的/……特有的
+> - **specific details/instructions**：具体细节/明确指示
+> - **specific reason/purpose**：具体原因/明确目的
+> - **get down to specifics**：开始讨论具体细节
+> - **be specific about**：对……明确/具体
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Could you be more specific about what you mean?"（你能更具体地说明你的意思吗？）——日常对话/学术讨论
+> - "The disease is specific to tropical regions."（这种疾病是热带地区特有的）——医学/地理类阅读
+> - "The report failed to provide specific details about the company's financial situation."（报告未能提供关于公司财务状况的具体细节）——商业/金融类话题
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：spec（种类/外观，拉丁语 *species*/*specere*）
+> - [ ] 同义辨析：specific/particular/concrete/exact
+> - [ ] 反义词群：general/vague/broad
+> - [ ] 形近词群：species/special/specific/specify/speculate

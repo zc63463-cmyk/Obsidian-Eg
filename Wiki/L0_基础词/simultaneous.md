@@ -1,0 +1,166 @@
+---
+title: "simultaneous"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 抽象关系
+prototype: 同时发生的（simul-同一 + -taneous时间后缀）
+extension_dim: 时间路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# simultaneous
+
+> [!info] 基础信息
+> **音标** /ˌsɪmlˈteɪniəs/ | **词频** 考研中频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**同时的，同时发生的**==；②==**同步的**==；
+
+> [!tip] 原型义
+> **原型义**：在同一时间发生的（simul-同一 + -taneous时间后缀）
+> **延伸维度**：时间路径
+> **隐喻类型**：无隐喻（直接指称时间上的同一性）
+
+## 词根词缀
+
+simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，形容词后缀)
+**叙事**：simul（同一）+ -taneous（时间的）→ 在同一时间发生的 → 同时。The explosion was timed to be simultaneous with the plane's take-off（爆炸的时间定在飞机起飞的时刻）。simultaneous translation（同声传译）——同时翻译。
+
+建议创建词根笔记 [[simul-sem]]（相似/同一，拉丁语 *simul*/*similis*）
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**同一时间发生**"为统筹中心，沿时间路径向外扩展：
+>
+> 1. **同一时间发生**（时间层面）
+>    - → **同时的，同时发生的**：多件事在同一时间发生
+>      - 激活条件：simultaneous attacks, simultaneous events
+>    - → **同步的**：实时同步进行的
+>      - 激活条件：simultaneous translation, simultaneous interpretation
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：simultaneous 就是"同时的"——同时发生、同步进行
+- **延伸中心**：从"同时发生"延伸到"同步进行"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"同步翻译"能反向推导到"同一时间"——同步就是同一时间进行
+> - [x] **可统筹**：一句话——"simultaneous 就是在同一时间发生/进行"
+> - [x] **有支撑**：simultaneous attacks, simultaneous translation 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 同时发生的；同步的 | 核心词性 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> simul（同一，和 similar 同根）+ -taneous（时间的）→ 在同一时间 → 同时。同声传译就是 simultaneous translation——翻译和说话"同时"进行。simultaneous attacks 就是"同时发动"的攻击。
+>
+> **词拆分记忆**（辅助）：
+> simul（同一）+ taneous（时间）→ 同一时间 → 同时
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[concurrent]] | 同时发生的 | 强调时间重叠 | 事件、过程 | 中性/正式 |
+> | [[coincident]] | 巧合的；同时发生的 | 强调偶然性 | 事件 | 中性 |
+> | **simultaneous** | 同时的；同步的 | 强调精确的同一时间 | 事件、翻译、攻击 | 中性/通用 |
+>
+> **"增"标记**：simultaneous **(增-精确的同一时间义，常用于同步翻译等场景)** vs concurrent（基准词：时间重叠）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[sequential]]：顺序的，相继的（simultaneous 的精确反义：同时的↔顺序的）
+> - [[successive]]：连续的（simultaneous 的反义：同时的↔连续的）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[simultaneously]] | simultaneous + -ly(副词后缀) | 同时地 | 词义补充 |
+> | [[simulate]] | simul-(相似) + -ate | 模拟；假装 | Batch D 词族互链 |
+> | [[sin]] | — | 罪孽 | Batch D 词族互链 |
+> | [[sincere]] | — | 真诚的 | Batch D 词族互链 |
+> | [[single]] | — | 单一的 | Batch D 词族互链 |
+> | [[singular]] | — | 单数的；非凡的 | Batch D 词族互链 |
+> | [[sink]] | — | 下沉 | Batch D 词族互链 |
+> | [[sip]] | — | 抿，小口喝 | Batch D 词族互链 |
+> | [[siren]] | — | 警报器；海妖 | Batch D 词族链接 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **simultaneous translation/interpretation**：同声传译
+> - **simultaneous attacks**：同时发动的攻击
+> - **simultaneous events**：同时发生的事件
+> - **simultaneous with**：与……同时
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Some hypotheses fail to account for simultaneous extinctions on land and in the seas."（有些假说不能解释同时发生在陆地和海洋的灭绝——考研英语阅读）
+> - "With simultaneous interpreting, you start translating almost as soon as the other person starts speaking."（在做同声传译时，你几乎是在对方开始说话的同时就开始翻译——考研英语翻译）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[simul-sem]]（相似/同一，拉丁语 *simul*/*similis*）
+> - [ ] 同义辨析：simultaneous/concurrent/coincident
+> - [ ] 反义词群：sequential/successive
+> - [ ] 形近词群：simultaneous/simultaneously/simulate/simulation

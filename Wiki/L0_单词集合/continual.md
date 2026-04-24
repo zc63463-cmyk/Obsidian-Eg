@@ -1,0 +1,164 @@
+---
+title: "continual"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-22
+mastery: L0
+word_freq: 中频
+semantic_field: 抽象关系
+prototype: 一直保持、不断发生
+extension_dim: 时间路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# continual
+
+> [!info] 基础信息
+> **音标** /kənˈtɪnjuəl/ | **词频** 考研中频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**不间断的，频繁的**==（有间歇但不断发生）；②频繁的，一再发生的；
+
+> [!tip] 原型义
+> **原型义**：一直保持、不断发生（源自拉丁语 continuus = con- "一起" + tenere "保持" + -al 形容词后缀）
+> **延伸维度**：时间路径
+> **隐喻类型**：无隐喻（直接描述时间上的持续状态）
+
+## 词根词缀
+
+建议创建词根笔记 [[tin]]（保持、持有）
+con-(=together, 一直) + [[tin]](=hold/keep, 保持) + -ual(形容词后缀) → 一直保持→不断发生→频繁的
+**叙事**：雨"一直保持"下着，虽然中间有时停一下，但总在反复下——这就是 continual（频繁的、不间断的）。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**一直保持、不断发生**"为统筹中心，沿时间路径向外扩展：
+>
+> 1. **一直保持、不断发生**（时间层面）
+>    - → ==**不间断的、频繁的**==：事件反复发生，可能有短暂间歇
+      - 激活条件：描述反复发生但有间歇的事件时（如 continual rain）
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**："频"——频繁发生，间而不断。
+- **一句话统筹**：continual 的核心是"频"——事情反复发生，中间可能有短暂间歇，但总体上不断。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：频繁→不断发生→一直保持，链条完整
+> - [x] **可统筹**：以"频"为核心，强调反复性
+> - [x] **有支撑**：continual interruptions（频繁的打断）→ continual noise（不断传来的噪音）
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 频繁的、不间断的 | 基础词性 |
+> | adv. (continually) | 不断地、频繁地 | continual + -ly 副词化 |
+> | v. (continue) | 继续 | 去掉后缀回到动词词根 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> con-(一直) + tin(保持) + -ual(形容词) → 一直保持的状态→不断发生的。想象一场"不断"的争吵——吵了停、停了又吵，但始终没有真正结束。
+>
+> **词拆分记忆**（辅助）：
+> [[continual]] 与 [[continuous]]（连续的）是考研高频辨析对。continual = 频繁但有间歇（如 continual rain 阵雨）；continuous = 完全无间歇（如 continuous rain 倾盆大雨不停）。
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[continuous]] | 连续的 | 侧重完全没有间歇 | rain, line, process | 中性 |
+> | [[constant]] | 持续的、恒定的 | 侧重稳定不变 | speed, pressure, pain | 中性 |
+> | [[perpetual]] | 永久的 | 侧重无休止、近乎永恒 | motion, conflict | 正式/消极 |
+> | **continual** | 频繁的、不断发生的 | 侧重反复发生但有间歇 | noise, change, effort | 中性偏消极 |
+>
+> **"增"标记**：continual **(增-间歇性)** vs continuous（continual 强调"有间歇但不断"；continuous 强调"完全没有间歇"——这是考研经典辨析点）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[occasional]]：偶尔的（频繁→偶尔）
+> - [[intermittent]]：间歇的（不断→间歇）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[continually]] | continual + -ly | 不断地、频繁地 | 词义填充：母词填充派生词 |
+> | [[continue]] | con + tin(保持) | 继续 | 词义补充：母词动词形式 |
+> | [[continuous]] | con + tin(保持) + -uous | 连续的 | 词义补充：同根辨析词 |
+> | [[continuity]] | continue + -ity | 连续性 | 词义补充：名词化 |
+> | [[conscious]] | con + sci(知道) + -ous | 有意识的 | 同族（con-前缀） |
+> | [[confuse]] | con + fuse(倾倒) | 使困惑 | 同族（con-前缀） |
+> | [[confusion]] | confuse + -ion | 困惑、混乱 | 同族（con-前缀） |
+> | [[congress]] | con + gress(走) | 国会、大会 | 同族（con-前缀） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **continual change**：不断的变化
+  - In today's fast-paced world, continual change has become the norm rather than the exception.（在当今快节奏的世界中，不断的变化已成为常态而非例外。）
+- **continual effort**：持续的努力
+  - Success requires continual effort and unwavering determination.（成功需要持续的努力和坚定不移的决心。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The continual noise from the construction site made it impossible for residents to sleep."（建筑工地持续不断的噪音使居民无法入睡。）——考研高频表达
+> - "In today's society, workers face continual pressure to update their skills and adapt to new technologies."（在当今社会，工作者面临持续的压力，需要不断更新技能以适应新技术。）——考研高频表达
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：
+> **翻译实践**：
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：tin（保持、持有）
+> - [ ] 同义辨析：continual, continuous, constant, perpetual
+> - [ ] 反义词群：occasional, intermittent, temporary
+> - [ ] 形近词群：continual, continuous, continue, continuity

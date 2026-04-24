@@ -1,0 +1,163 @@
+---
+title: "quantity"
+tags:
+  - 学习/英语/词汇
+  - 语义场/理性世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 理性世界
+prototype: 多少（数量的大小）
+extension_dim: 量化概念
+last_review: 2026-04-23
+review_count: 0
+---
+
+# quantity
+
+> [!info] 基础信息
+> **音标** /ˈkwɒntəti/ | **词频** 考研高频 | **语义场** [[理性世界]]
+
+## 核心释义
+
+**n.** ①==**数量**==；②==**大量**==；③（数）量，值
+
+> [!tip] 原型义
+> **原型义**：多少（数量的大小）
+> **延伸维度**：量化概念
+> **隐喻类型**：转喻（"多少"→"数量的多少"→"大量"）
+
+## 词根词缀
+
+quant（多少，拉丁语 *quantus*）+ -ity（名词后缀，表示状态/性质）
+**叙事**：quant（多少）+ -ity（名词后缀）→ **"多少"的状态** → 数量。quant 的核心问题是"多少？"（how much?），-ity 把它变成名词——quantity 就是"多少"这个问题的答案。当你问"how much?"时，你问的就是 quantity（数量）。[[quantify]]（量化）是动词——确定 quantity 的过程，[[quantitative]]（定量的）是形容词——与 quantity 相关的。三者同源，核心都是 quant（多少）。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**多少（数量的大小）**"为统筹中心，沿量化概念维度向外扩展：
+>
+> 1. **多少**
+>    - → **数量**：事物的多少
+>      - 激活条件：a large quantity of, the quantity of
+>    - → **大量**：数量很大
+>      - 激活条件：quantities of, in quantity
+>    - → **（数）量，值**：数学/科学中的量
+>      - 激活条件：unknown quantity, physical quantity
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：quantity 就是"多少"——回答"how much"这个问题的答案就是 quantity
+- **延伸中心**：从"多少"延伸到"数量"和"大量"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"大量"能反向推导到"多少"——大量就是"多少"的极端情况
+> - [x] **可统筹**：一句话——"quantity 就是'多少'，回答 how much 的问题"
+> - [x] **有支撑**：a large quantity of, in quantity 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 数量；大量；（数）量 | 核心词性 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> quantity = quant（多少）+ -ity（名词后缀）。想象你去超市买东西，收银员问你"how much?"（多少？）——你回答的数字就是 quantity（数量）。一打鸡蛋的 quantity 是12，一升水的 quantity 是1000毫升。记住 quant = 多少，quantity = 多少的状态 = 数量。
+>
+> **词拆分记忆**（辅助）：
+> quant（多少）+ -ity（名词后缀）→ 多少的状态 → 数量
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[amount]] | 数量，总额 | 强调不可数事物的量 | 水、时间、钱 | 中性 |
+> | [[number]] | 数量，数目 | 强调可数事物的量 | 人、物品 | 中性 |
+> | [[volume]] | 体积，量 | 强调空间容量或业务量 | 交通、贸易 | 中性 |
+> | **quantity** | 数量，大量 | 最通用，可数不可数均可 | 任何事物 | 中性/通用 |
+>
+> **"增"标记**：quantity **(增-通用性)** vs amount（基准词：不可数数量）；quantity **(增-可数不可数通用)** vs number（基准词：可数数量）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[quality]]：质量（quantity 的经典反义：数量↔质量）
+> - [[scarcity]]：稀缺（quantity 的反义：大量↔稀缺）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[quantify]] | quant + -ify（使动） | 量化，确定数量 | 词义补充（quantity 的动词形式） |
+> | [[quantitative]] | quant + -itative（形容词后缀） | 定量的，量化的 | 词义补充（quantity 的形容词形式） |
+> | [[quantitatively]] | quantitative + -ly（副词后缀） | 定量地 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **a large/small quantity of**：大量/少量的
+> - **quantities of**：大量的
+> - **in quantity**：大量地
+> - **the quantity of**：……的数量
+> - **unknown quantity**：未知数；难以预测的人/事
+> - **a vast quantity of**：大量的
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The quantity of information available today is overwhelming, but the quality varies greatly."（如今可获得的信息量令人应接不暇，但质量参差不齐。——考研英语一2020阅读）
+> - "They purchased large quantities of raw materials from overseas suppliers."（他们从海外供应商处购买了大量的原材料。——考研英语二2017阅读）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：quantity/amount/number/volume
+> - [ ] 反义词群：quality/scarcity
+> - [ ] 派生词群：quantify/quantitative/quantitatively
+> - [ ] 关联笔记：[[quantify]] / [[quantitative]]

@@ -1,0 +1,170 @@
+---
+title: "medical"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 社会专业
+prototype: 与治愈/治疗相关的（医学的）
+extension_dim: 社会路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# medical
+
+> [!info] 基础信息
+> **音标** /ˈmedɪkl/ | **词频** 考研高频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**adj.** ①==**医学的，医疗的**==；②体格检查的；
+
+> [!tip] 原型义
+> **原型义**：与治愈/治疗相关的（医学的）
+> **延伸维度**：社会路径
+> **隐喻类型**：无隐喻（直接描述医学领域的属性）
+
+## 词根词缀
+
+med(=medicus, 医治，拉丁语 *medicus*) + -ical(形容词后缀，"……的")
+**叙事**：med（医治）+ ical（的）→ **与医治相关的** → 医学的。medical care（医疗护理）、medical school（医学院）——一切与"治病救人"相关的都是 medical。
+
+建议创建词根笔记 [[med-medico-]]（医治，拉丁语 *medicus*）
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**与治愈/治疗相关的**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **与治愈/治疗相关的**（专业领域层面）
+>    - → **医学的，医疗的**：与医学科学和医疗实践相关的
+>      - 激活条件：medical treatment, medical research, medical school
+>    - → **体格检查的**：与身体健康检查相关的
+>      - 激活条件：medical examination, medical check-up
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：medical 就是"医的"——医学科研是 medical research，医疗护理是 medical care，体检是 medical examination
+- **延伸中心**：从"医学科学"延伸到"医疗实践"再到"身体检查"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"体格检查"能反向推导到"与治愈相关的"——体检的目的就是预防和治疗
+> - [x] **可统筹**：一句话——"medical 就是与医学和治病相关的一切"
+> - [x] **有支撑**：medical journals, medical treatment, medical research 均有真题支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 医学的，医疗的 | 核心词性，med(医) + -ical(形容词) |
+> | n. | 体格检查 | adj→n：medical examination 的省略说法 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> med（医治）+ ical（的）→ 医学的。看医生是 medical treatment（医疗），读医学是 medical school（医学院），发表在医学期刊上的是 medical journals（医学期刊）。medical 的一切都与"治病"有关。
+>
+> **词拆分记忆**（辅助）：
+> med（联想"美团"外卖）+ ical（联想"ical"=I call）→ 美团上叫医生 → 医学的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[surgical]] | 外科的 | 强调手术相关的 | 手术、治疗 | 正式/专业 |
+> | [[clinical]] | 临床的 | 强调临床实践相关的 | 诊断、试验 | 正式/专业 |
+> | [[health]] | 健康的 | 强调健康相关的 | 保健、服务 | 中性/通用 |
+> | **medical** | 医学的，医疗的 | 最通用，涵盖整个医学领域（最宽泛） | 科研、治疗、教育 | 中性/通用 |
+>
+> **"增"标记**：medical **(增-覆盖面最广，可指一切与医学相关的事物)** vs clinical（基准词：仅临床）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[non-medical]]：非医学的（medical 的反义：医学的↔非医学的）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[medical]] | med(医) + -ical(形容词) | 医学的，医疗的 | 核心词 |
+> | [[medicine]] | medic(医) + -ine(名词) | 药，医学 | 词义补充 |
+> | [[medication]] | medic(医) + -ation(名词) | 药物，药物治疗 | 词义补充 |
+> | [[medic]] | medic(医) | 医生，卫生员 | 词义补充 |
+> | [[medicare]] | medic(医) + care(照顾) | 医疗保险 | 词义补充 |
+> | [[medieval]] | med(中间) + ev(时代) + -ial | 中世纪的 | 词族互链（Batch B） |
+> | [[medal]] | 源自拉丁语 *metallum* | 奖章，奖牌 | 词族互链（Batch B） |
+> | [[meet]] | 源自古英语 *mētan* | 遇见，满足 | 词族互链（Batch B） |
+> | [[melody]] | mel(歌) + -ody(唱) | 旋律，曲调 | 词族互链（Batch B） |
+> | [[melt]] | 源自古英语 *meltan* | 融化，熔化 | 词族互链（Batch B） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **medical treatment**：医疗，治疗
+> - **medical research**：医学研究
+> - **medical school**：医学院
+> - **medical journals**：医学期刊
+> - **medical care**：医疗护理
+> - **medical examination/check-up**：体格检查
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms."（医学期刊中存在大量这类无稽之谈，一旦被广播公司和大众媒体采纳，就会引发健康恐慌和短暂的饮食狂热。——2019年英语一翻译）
+> - "The Supreme Court's decision on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering."（最高法院关于医生协助自杀的决定，对医学如何寻求减轻垂死病人的痛苦和折磨具有重要意义。——2002年英语一Text 4）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[med-medico-]]（医治，拉丁语 *medicus*）
+> - [ ] 同义辨析：medical/surgical/clinical/health
+> - [ ] 反义词群：non-medical
+> - [ ] 形近词群：medical/medicine/medication/medic/medicare

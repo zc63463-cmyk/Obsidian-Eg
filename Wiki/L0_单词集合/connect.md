@@ -1,0 +1,165 @@
+---
+title: "connect"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-22
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 共同绑在一起
+extension_dim: 空间路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# connect
+
+> [!info] 基础信息
+> **音标** /kəˈnekt/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**v.** ①==**连接，相连**== ; ②联系，关联（with）；③接通（电话/电源）；④给……接通电话；
+
+> [!tip] 原型义
+> **原型义**：共同绑在一起（源自拉丁语 connectere = con- "一起" + nectere "绑"）
+> **延伸维度**：空间路径
+> **隐喻类型**：结构隐喻（物理绑在一起→抽象关联→信息接通）
+
+## 词根词缀
+
+建议创建词根笔记 [[nect]]（绑、连接）
+con-(=together, 共同) + [[nect]](=bind, 绑) → 共同绑在一起→连接
+**叙事**：两根绳子"共同绑"在一起→连成一根→connect = 连接。从物理连接到逻辑关联，从修桥铺路到建立人际关系。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**共同绑在一起**"为统筹中心，沿空间路径向外扩展：
+>
+> 1. **共同绑在一起**（物理层面）
+>    - → ==**连接、相连**==：物理上的连接（桥、路、线）
+>      - 激活条件：描述物理连接时
+>    - → **联系、关联**：抽象上的"绑"→建立关系
+>      - 激活条件：描述人与人的联系、事物之间的关联时（connect with）
+>    - → **接通**：线路"绑"上→接通电话/电源
+>      - 激活条件：描述接通电话/网络/电源时
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**："连"——连物则相连，连人则联系，连线则接通。
+- **一句话统筹**：connect 的核心是"连"——物理上绑在一起是连接，抽象上绑在一起是联系，电路上绑在一起是接通。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：接通→联系→连接→绑在一起，从抽象到物理，链条完整
+> - [x] **可统筹**：以"连"为核心，不同对象对应不同义项
+> - [x] **有支撑**：connect A with B（联系）→ connect to the Internet（连接）→ connect me to the manager（接通电话）
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | v. | 连接、联系 | 基础词性 |
+> | n. (connection) | 连接、联系 | connect + -ion 动作结果 |
+> | adj. (connected) | 连接的、有关系的 | connect + -ed 持有状态 |
+> | adj. (connective) | 连接的 | connect + -ive 倾向 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> con-(共同) + nect(绑) → 两根绳子"共同绑"在一起→连接。想象用一根绳子把两根断开的电线绑在一起→接通。
+>
+> **词拆分记忆**（辅助）：
+> [[connect]] 包含 [[text]](文本/编织) 的同源词根 [[nect]](绑)。con(共同) + nect(绑) → 共同绑在一起→连接。同根词：[[text]](编织→文本)。
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[link]] | 链接 | 侧重环环相扣的连接 | website, data | 中性 |
+> | [[join]] | 加入、连接 | 侧重合为一体 | organization, part | 中性 |
+> | [[associate]] | 联系 | 侧重心理上的联想 | idea, person | 中性 |
+> | **connect** | 连接、联系 | 侧重建立连接的动作/关系 | people, idea, device | 中性 |
+>
+> **"增"标记**：connect **(增-双向性)** vs join（connect 更强调两者之间的双向连接；join 更强调加入、合为一体）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[disconnect]]：断开连接（连接→断开）
+> - [[separate]]：分离（连接→分离）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[connection]] | connect + -ion | 连接、联系 | 词义补充：名词化表达 |
+> | [[connected]] | connect + -ed | 连接的、有关系的 | 词义填充：母词填充派生词 |
+> | [[connective]] | connect + -ive | 连接的 | 词义填充：母词填充派生词 |
+> | [[disconnect]] | dis-(分开) + connect | 断开连接 | 词义补充：反义派生 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **connect A with B**：把A与B联系起来
+  - Researchers have connected the rise in temperature with increased carbon emissions.（研究人员将气温上升与碳排放增加联系起来。）
+- **connect to**：连接到
+  - More and more people can connect to the Internet through mobile devices.（越来越多的人可以通过移动设备连接到互联网。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The new highway is designed to connect the remote village with the major cities in the region."（这条新建高速公路旨在将偏远村庄与该地区的主要城市连接起来。）——考研高频表达
+> - "Researchers are trying to connect the findings of various studies to form a more complete picture of the phenomenon."（研究人员正试图将各项研究的结果联系起来，以形成对这一现象更完整的认识。）——考研高频表达
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：
+> **翻译实践**：
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：nect（绑、连接）
+> - [ ] 同义辨析：connect, link, join, associate
+> - [ ] 反义词群：disconnect, separate, detach
+> - [ ] 形近词群：connect, collect, correct, conduct

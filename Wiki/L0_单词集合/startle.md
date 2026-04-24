@@ -1,0 +1,165 @@
+---
+title: "startle"
+tags:
+  - 学习/英语/词汇
+  - 语义场/人体动作
+  - 掌握/L0
+aliases: [startled, startling, startles]
+date: 2026-04-22
+mastery: L0
+word_freq: 中频
+semantic_field: 人体动作
+prototype: 使人猛然惊跳
+extension_dim: 具身路径
+last_review: 2026-04-22
+review_count: 0
+---
+
+# startle
+
+> [!info] 基础信息
+> **音标** /ˈstɑːrtl/ | **词频** 考研中频 | **语义场** [[人体动作]]
+
+## 核心释义
+
+**vt.** ①==**使惊吓，使吓一跳**== ;
+**vi.** ①惊跳，吃惊 ;
+
+> [!tip] 原型义
+> **原型义**：使人猛然惊跳
+> **延伸维度**：具身路径
+> **隐喻类型**：无隐喻（直接描述身体反应）
+
+## 词根词缀
+
+[[start]]（猛然跃起/惊跳）+ -le（动词反复/强化后缀）
+**叙事**：[[start]] 本义是"猛然跃起"，加了 -le 反复后缀后变成 startle——让人**反复惊跳**，也就是"吓了一跳"。一声巨响让你从座位上猛然跳起来，这就是被 startled。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**使人猛然惊跳**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **使人猛然惊跳**（身体层面）
+>    - → **使惊吓，使吓一跳**：触发身体的惊跳反应
+>      - 激活条件：be startled by, startle sb.
+>    - → **惊跳，吃惊**：自身的惊跳反应
+>      - 激活条件：startle at the noise
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**："惊"——猛然一跳就是惊
+- **一句话统筹**：startle 就是"让人猛然跳起来"——突如其来的刺激触发了身体的惊跳反射
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"惊吓"能推导回"猛然惊跳"——惊吓就是身体的惊跳反射
+> - [x] **可统筹**：一句话——"startle 就是让人猛然跳起来"
+> - [x] **有支撑**：be startled by the news, startle at the sound 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | vt. | 使惊吓 | 核心词性，使动用法 |
+> | vi. | 惊跳 | vt. 的不及物用法（自身惊跳） |
+> | adj. (startling) | 令人吃惊的 | v.→adj：使人惊跳的→惊人的 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> 你正安静地看书，突然背后一声巨响——你从椅子上**猛然跳起来**（[[start]]），心脏砰砰跳。这就是被 startled（吓了一跳）。start + le（反复）= 让你一惊一跳的。
+>
+> **词拆分记忆**：
+> [[start]]（惊跳）+ -le（反复）→ 让人反复惊跳 → **吓一跳**
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[frighten]] | 使害怕 | 强调恐惧感 | 人、动物 | 负面/强烈 |
+> | [[scare]] | 吓唬 | 口语化，程度可大可小 | 人 | 口语/负面 |
+> | [[alarm]] | 使惊恐 | 强调警觉和不安 | 人、公众 | 正式/紧迫 |
+> | [[shock]] | 使震惊 | 强调意外和冲击 | 人 | 强烈/意外 |
+> | **startle** | 使吓一跳 | 强调身体惊跳反射 | 人 | 短促/突发 |
+>
+> **"增"标记**：startle **(增-身体反射性)** vs frighten（startle 强调身体的本能惊跳，frighten 强调心理上的恐惧感）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[calm]]：startle（使惊跳）↔ calm（使平静）——身体反应的对立
+> - [[soothe]]：startle（使惊吓）↔ soothe（使安慰）——情绪的对立
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[start]] | 基词 | 开始；惊跳 | 词义填充：start 提供"惊跳"的底层意象 |
+> | startled | startle + -ed | 受惊的 | 词义补充：startle 的被动状态 |
+> | startling | startle + -ing | 令人吃惊的 | 词义补充：startle 的主动分词 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **be startled by**：被...吓了一跳
+  - She was startled by the sudden appearance of a stranger.
+- **startling discovery/revelation**：惊人的发现/揭露
+  - The report made some startling revelations about the industry.
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The sudden noise startled the baby and made her cry."（突然的噪音惊吓到了婴儿，使她哭了起来。）——考研高频表达
+> - "I was startled by the sudden appearance of a stranger at my door."（一个陌生人突然出现在我家门口，把我吓了一跳。）——考研高频表达
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<待填写>
+> **翻译实践**：<待填写>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：st/sta（站立/使...站立/使...坚定）
+> - [ ] 同义辨析：frighten, scare, alarm, shock, surprise
+> - [ ] 反义词群：calm, soothe, reassure
+> - [ ] 形近词群：[[stand]], [[standard]], [[standpoint]], [[stance]], [[start]], [[stay]], [[steady]], [[stern]], [[state]], [[statue]], [[status]], [[statute]], [[step]], [[stem]], [[steer]], [[starve]], [[statesman]], [[statistics]], [[statement]]

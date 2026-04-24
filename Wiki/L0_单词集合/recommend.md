@@ -1,0 +1,157 @@
+---
+title: "recommend"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-21
+mastery: L0
+word_freq: 高频
+semantic_field: 社会专业
+prototype: 代为托付
+extension_dim: 社会路径
+last_review: 2026-04-21
+review_count: 0
+---
+
+# recommend
+
+> [!info] 基础信息
+> **音标** /ˌrekəˈmend/ | **词频** 考研高频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**vt.** ①==**推荐；介绍**==；②==**建议；劝告**==；③使可取；
+
+> [!tip] 原型义
+> **原型义**：再次（re-）托付/委托（commend）——把某人托付给另一个人，为其担保
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（人际托付→推荐→建议）
+
+## 词根词缀
+
+re-（加强/再）+ commend（托付/称赞，与 [[mark]] 标记有关——标记为值得信赖的）
+**叙事**：在别人面前再次为某人"标记"好名声——推荐。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**代为托付**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **代为托付**（人际层面：把某人托付给另一个人）
+>    - → **推荐；介绍**（社会层面：为某人/某物背书）
+>      - 激活条件：搭配 recommend sb. for sth., recommend a book 时
+>    - → **建议；劝告**（行为层面：基于经验给出建议）
+>      - 激活条件：搭配 recommend doing sth., recommend that... 时
+
+### 统筹（选择适用的模式）
+
+- **一句话统筹**：为某人/某事背书——推荐/建议
+
+> [!check]- 链路验证
+> - [x] **可逆性**：建议 = 基于信任的推荐，可逆推回"代为托付"
+> - [x] **可统筹**："代为托付/背书"串联推荐和建议
+> - [x] **有支撑**：recommend a candidate（推荐候选人）/ recommend that you see a doctor（建议你看医生）
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | vt. | 推荐；建议 | 基本词性 |
+> | n. (recommendation) | 推荐（信）；建议 | v→n（加-ation） |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> 老教授在信中为得意门生写下推荐语——"我再次（re）把这个人托付（commend）给你"，这就是 recommend。
+>
+> **词拆分记忆**（辅助）：
+> re（再）+ commend（称赞/托付）→ 再次称赞并托付 → 推荐
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[advise]] | 建议 | 基于专业知识 | 行为/决策 | 中性 |
+> | [[suggest]] | 建议 | 提出想法供参考 | 方案/想法 | 中性 |
+> | **recommend** | 推荐/建议 | 基于信任背书 | 人/书/方案 | 积极 |
+>
+> **"增"标记**：recommend **(增-个人背书与信任感)** vs suggest
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[discourage]]：劝阻——不推荐
+> - [[oppose]]：反对——不赞成
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[recognize]] | 同源词（re- + cogn + -ize） | 认出；承认 | 同源关系 |
+> | recommendation | recommend + -ation | 推荐（信）；建议 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **recommend sb. for sth.**：The professor recommended her for the research position.（教授推荐她担任研究职位。）
+> - **recommend doing sth.**：I recommend reading this book before the exam.（我建议考试前读这本书。）
+> - **highly recommend**：I highly recommend this restaurant to anyone visiting the city.（我强烈推荐来这座城市的人去这家餐厅。）
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Doctors recommend that adults engage in at least 30 minutes of moderate exercise daily."（医生建议成年人每天至少进行30分钟的中等强度运动。）——考研高频表达
+> - "The committee recommended that the government invest more in renewable energy sources."（委员会建议政府在可再生能源方面加大投资。）——考研高频表达
+
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<待填写>
+> **翻译实践**：<待填写>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：mark（标记）
+> - [ ] 同义辨析：advise, suggest, endorse
+> - [ ] 反义词群：discourage, oppose
+> - [ ] 形近词群：recognize, recover, command, comment

@@ -1,0 +1,166 @@
+---
+title: "plausible"
+tags:
+  - 学习/英语/词汇
+  - 语义场/科学逻辑
+  - 掌握/L0
+aliases: []
+date: 2026-04-21
+mastery: L0
+word_freq: 中频
+semantic_field: 科学逻辑
+prototype: 值得鼓掌的，似乎合理的
+extension_dim: 抽象路径
+last_review: 2026-04-21
+review_count: 0
+---
+
+# plausible
+
+> [!info] 基础信息
+> **音标** /ˈplɔːzəbl/ | **词频** 考研中频 | **语义场** [[科学逻辑]]
+
+## 核心释义
+
+**adj.** ①==**似乎合理的；貌似可信的**==；②花言巧语的；嘴巧的；
+
+> [!tip] 原型义
+> **原型义**：值得鼓掌的，表面上说得通的
+> **延伸维度**：抽象路径——从"值得鼓掌（说得好）"到"似乎合理"，再到"花言巧语（说得好听但不一定真实）"
+> **隐喻类型**：结构隐喻——将"合理"比作"值得鼓掌"
+
+## 词根词缀
+
+plaus(鼓掌/赞同，同源 applause 鼓掌) + -ible(可以...的) → 值得鼓掌的 → 似乎合理的
+**叙事**：说得值得让人鼓掌——似乎合理、貌似可信。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**值得鼓掌的，表面上说得通**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **值得鼓掌的，表面上说得通**（评价层面）
+>    - → **似乎合理的；貌似可信的**：表面上说得通，但未必真实
+      - 激活条件：评价论点、解释、借口时
+    - → **花言巧语的；嘴巧的**：说得好听但可能不可靠
+      - 激活条件：描述人的言辞时
+
+### 统筹（选择适用的模式）
+
+- **一句话统筹**：plausible 就是"说得值得鼓掌"，表面上说得通、似乎合理，但未必是真的。
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"花言巧语"回溯到"值得鼓掌的"，语义连贯（说得好听但未必真实）
+> - [x] **可统筹**：所有义项都围绕"表面可信+未必真实"这一核心
+> - [x] **有支撑**：plaus(鼓掌) + -ible(可以...的) 构成"值得鼓掌的"
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 似乎合理的 | 本词 |
+> | adv. | plausibly | -ly 副词化，"似乎合理地" |
+> | n. | plausibility | -ility 名词化，"合理性；可信度" |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> plaus(鼓掌，同源 applause) + -ible(可以...的)，值得鼓掌的——似乎合理的。
+>
+> **词拆分记忆**（辅助）：
+> plaus(please取悦) + ible(可以) → 可以取悦人的 → 说得通但未必真实 → 似乎合理
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[credible]] | 可信的 | 强调值得相信 | 证据、来源 | 积极 |
+> | [[reasonable]] | 合理的 | 强调合乎理性 | 论点、要求 | 积极 |
+> | [[probable]] | 很可能的 | 强调可能性大 | 事件、结果 | 中性 |
+> | **plausible** | 似乎合理的 | 强调表面可信但未必真实 | 解释、借口、论点 | 中性/谨慎 |
+>
+> **"增"标记**：plausible **(增-表面性/未确认性)** vs credible
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[implausible]]：难以置信的（plausible 是似乎合理的，implausible 是难以置信的）
+> - [[improbable**：不大可能的（plausible 是似乎合理的，improbable 是不大可能的）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | plausibility | plausible + -ility | 合理性；可信度 | 词义填充 |
+> | plausibly | plausible + -ly | 似乎合理地 | 词义延伸 |
+> | implausible | im-(不) + plausible | 难以置信的 | 反义派生 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **a plausible explanation**：似乎合理的解释
+  > The detective came up with a plausible explanation for the mysterious disappearance.
+  > 侦探对这起神秘失踪案提出了一个似乎合理的解释。
+> - **a plausible excuse**：说得过去的借口
+  > He was late again, but he had a plausible excuse this time.
+  > 他又迟到了，但这次他有一个说得过去的借口。
+> - **plausible deniability**：合理的推诿（政治术语）
+  > The concept of plausible deniability allows leaders to deny knowledge of controversial actions.
+  > "合理的推诿"这一概念允许领导人否认对争议性行动的了解。
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> > - "The scientist proposed a plausible explanation for the unusual phenomenon."（这位科学家对这一异常现象提出了一个合理的解释。）——考研阅读真题
+> - "His excuse for being late was plausible but ultimately unconvincing."（他迟到的借口听起来有道理，但最终无法令人信服。）——考研高频表达
+
+%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<待填写>
+> **翻译实践**：<待填写>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：credible, reasonable, probable
+> - [ ] 反义词群：implausible, improbable
+> - [ ] 形近词群：possible, flexible, visible, sensible, responsible

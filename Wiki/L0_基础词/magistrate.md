@@ -1,0 +1,159 @@
+---
+title: "magistrate"
+tags:
+  - 学习/英语/词汇
+  - 语义场/政治法律
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 低频
+semantic_field: 政治法律
+prototype: 地方法官（行使司法权的官员）
+extension_dim: 社会路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# magistrate
+
+> [!info] 基础信息
+> **音标** /ˈmædʒɪstreɪt/ | **词频** 考研低频 | **语义场** [[政治法律]]
+
+## 核心释义
+
+**n.** ①==**地方法官**==（行使司法权的基层官员，负责审理轻微案件）；
+
+> [!tip] 原型义
+> **原型义**：地方法官（行使司法权的官员）
+> **延伸维度**：社会路径
+> **隐喻类型**：无隐喻（直接指称法律职位）
+
+## 词根词缀
+
+源自拉丁语 *magistratus*（地方官、长官），来自 *magister*（主人、长官、教师），*magis*（更大的、更多的）+ *-ter*（比较级后缀）。*magis* 与 [[mag]] 词根（大、伟大）相关。*magister* 的字面意思是"更大的那个人"→"主人"→"长官"。与 [[master]]（主人）、[[magisterial]]（长官的、威严的）、[[magic]]（魔法，同源 *magos* 巫师→占卜者→法官）共享词源。magistrate 的词源演变路径：*magos*（巫师/占卜者）→ *magister*（长官/法官）——从"占卜者"到"法官"，因为古代的法官和占卜者都负责"解读"事物。
+
+**叙事**：magistrate 的核心画面是"一位威严的法官坐在法庭上审判案件"。拉丁语 *magistratus* = 地方官、长官。*magister* = 主人、长官，字面意思是"更大的那个人"——在人群中地位更高的人。这就是 magistrate 的原始画面。magistrate 指地方法官，负责审理轻微刑事案件和民事纠纷。在英国法律体系中，magistrate（治安法官）是基层司法体系的重要组成部分。the case was brought before a magistrate = 案件被提交给地方法官审理。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**地方法官**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **长官/法官**（社会层面）
+>    - → **地方法官**：行使司法权的基层官员
+>      - 激活条件：appear before a magistrate, magistrate's court
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：magistrate 就是"地方法官"——基层司法官员
+- **延伸中心**：核心含义单一，无复杂延伸
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"地方法官"能直接对应"长官/法官"——概念一致
+> - [x] **可统筹**：一句话——"magistrate 就是从'更大的那个人'到地方法官"
+> - [x] **有支撑**：appear before a magistrate, magistrate's court 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 地方法官 | 核心词性 |
+
+> [!abstract]- 词尾定性速查
+> `-ate` 人/动词 / `-tion` 动作结果 / `-ive` 倾向 / `-ous` 充满 / `-able` 可被 / `-ful` 充满 / `-less` 没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> magistrate = 拉丁语 *magistratus* = 地方官。*magister* = 主人、长官，字面意思是"更大的那个人"（*magis* 更大 + *-ter* 比较级后缀）。与 [[mag]] 词根（大、伟大）相关。词源演变：*magos*（巫师/占卜者）→ *magister*（长官/法官）——古代法官和占卜者都负责"解读"。与 [[master]]（主人）同源。magistrate's court = 地方法院。appear before a magistrate = 出庭受审。
+>
+> **词拆分记忆**（辅助）：
+> magistrate → magi（魔法师）+ strate（strate 看作"state 国家"）→ 国家的魔法师 → 法官（古代法官就是"解读"的人）
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[judge]] | 法官 | 强调审判权 | 法庭 | 中性/正式 |
+> | [[justice]] | 大法官 | 强调高级别 | 最高法院 | 正式/尊称 |
+> | [[arbitrator]] | 仲裁人 | 强调调解纠纷 | 仲裁 | 中性 |
+> | **magistrate** | 地方法官 | 强调基层司法 | 轻微案件 | 中性/正式 |
+>
+> **"增"标记**：magistrate **(增-词源深度，从占卜者到法官的演变，英国法律体系特色)** vs judge（基准词：一般法官）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[defendant]]：被告（magistrate 的审判对象：法官↔被告）
+> - [[plaintiff]]：原告（magistrate 的审判对象：法官↔原告）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[magisterial]] | magistrate + -ial | 长官的；威严的 | 词义补充 |
+> | [[master]] | 同源（magister→master）| 主人；大师 | 词源关联 |
+> | [[magic]] | 同源（magos→magician）| 魔法 | 词源关联 |
+> | [[magistrate's court]] | 固定搭配 | 地方法院 | 搭配关联 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **magistrate's court**：地方法院
+> - **appear before a magistrate**：出庭受审
+> - **lay magistrate**：非专业治安法官（英国）
+> - **stipendiary magistrate**：领薪治安法官
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The defendant was ordered to appear before a magistrate to face charges of theft and vandalism committed during the overnight disturbance."（被告被命令出庭接受地方法官的审判，面临在夜间骚乱中犯下的盗窃和故意破坏指控——考研翻译法律话题相关表达）
+> - "In many common law jurisdictions, lay magistrates play a vital role in the criminal justice system, handling the vast majority of minor criminal cases."（在许多普通法管辖区，非专业治安法官在刑事司法体系中发挥着至关重要的作用，处理绝大多数轻微刑事案件——考研阅读法律体系话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[mag]] 词根（大/伟大）→ *magister*（长官）→ magistrate
+> - [ ] 同义辨析：magistrate/judge/justice/arbitrator
+> - [ ] 反义词群：defendant/plaintiff
+> - [ ] 词源家族：magistrate/magisterial/master/magic/magnet

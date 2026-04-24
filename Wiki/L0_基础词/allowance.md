@@ -1,0 +1,169 @@
+---
+title: "allowance"
+tags:
+  - 学习/英语/词汇
+  - 语义场/资本经济
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 资本经济
+prototype: 允许给的东西（被允许领取的金额）
+extension_dim: 社会路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# allowance
+
+> [!info] 基础信息
+> **音标** /əˈlaʊəns/ | **词频** 考研中频 | **语义场** [[资本经济]]
+
+## 核心释义
+
+**n.** ①==**津贴，补贴**==；②==**零用钱**==；③==**限额**==；④考虑到，允许（make allowance for）；
+
+> [!tip] 原型义
+> **原型义**：被允许给的东西（官方允许领取的金额）
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（"允许给予"→"津贴/补贴"）
+
+## 词根词缀
+
+allow（允许）+ -ance（名词后缀，表示状态/行为）
+**叙事**：allow（允许）+ ance（名词）→ 被允许给的东西 → 津贴。政府 allow（允许）你领取的钱就是 allowance（津贴）。make allowance for 就是"允许考虑到的余地"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**被允许给的东西**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **被允许给的东西**（经济层面）
+>    - → **津贴，补贴**：被允许领取的定期金额
+>      - 激活条件：jobseeker's allowance, travel allowance
+>    - → **限额**：被允许的范围
+>      - 激活条件：a weight allowance
+>    - → **考虑到**：允许考虑的余地
+>      - 激活条件：make allowance for
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：allowance 就是"允许给"——允许给钱→津贴，允许考虑→体谅
+- **延伸中心**：从"允许给予的金额"延伸到"允许考虑的余地"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"考虑到"能反向推导到"允许给"——允许考虑余地就是 give allowance
+> - [x] **可统筹**：一句话——"allowance 就是'被允许给的东西'，给钱是津贴，给余地是体谅"
+> - [x] **有支撑**：jobseeker's allowance, make allowance for 均有真题语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 津贴，补贴；零用钱；限额；考虑到 | v→n：allow 的名词形式（允许给的东西） |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> allow（允许）+ ance（名词后缀）→ 被允许给的东西。在英国，失业者可以领取 jobseeker's allowance（求职者津贴）——政府"允许"给你的钱。make allowance for someone 就是"允许体谅某人"——给他留余地。
+>
+> **词拆分记忆**（辅助）：
+> allow（允许）+ ance → 允许给的东西 → 津贴
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[subsidy]] | 补贴，津贴 | 强调政府或机构的财政支持 | 农业、企业 | 正式/政策性 |
+> | [[grant]] | 拨款，补助金 | 强调一次性给予 | 研究、项目 | 正式 |
+> | [[stipend]] | 薪俸，津贴 | 强调定期支付的报酬 | 研究员、神职人员 | 正式 |
+> | **allowance** | 津贴，补贴 | 最通用，强调"被允许领取" | 求职者、旅行、生活 | 中性/通用 |
+
+> **"增"标记**：allowance **(增-通用性和日常性)** vs subsidy（基准词：政策性补贴）；allowance **(增-考虑到义)** vs grant（基准词：一次性拨款）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[deduction]]：扣除（allowance 的经济反义：给予↔扣除）
+> - [[penalty]]：罚款，处罚
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[allow]] | 核心动词 | 允许 | 词义补充（allowance 的动词形式） |
+> | [[all]] | 词族母词 | 全部 | 词族互链 |
+> | [[allege]] | al- + leg(说) | 宣称 | 词族互链 |
+> | [[allegiance]] | al- + lig(绑) + -ance | 忠诚 | 词族互链 |
+> | [[alleviate]] | al- + lev(轻) + -iate | 减轻 | 词族互链 |
+> | [[alliance]] | all + -iance | 联盟 | 词族互链 |
+> | [[alloy]] | al- + loy(=lig, 绑) | 合金 | 词族互链 |
+> | [[ally]] | al- + ly(=lig, 绑) | 同盟者 | 词族互链 |
+> | [[alone]] | all + one | 独自的 | 词族互链 |
+> | [[along]] | all + -ong(长) | 沿着 | 词族互链 |
+> | [[alongside]] | along + side | 在……旁边 | 词族互链 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **jobseeker's allowance**：求职者津贴
+> - **make allowance(s) for**：考虑到，体谅
+> - **travel/living allowance**：出差/生活津贴
+> - **at no allowance**：不受限制
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Even the very phrase 'jobseeker's allowance' is about redefining the unemployed as a 'jobseeker' who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（即使是"求职者津贴"这个词，也是在将失业者重新定义为"求职者"——一个对其通过缴纳国民保险所获得的福利没有基本权利的人——2014年英语一Text 1）
+> - "There will now be a seven-day wait for the jobseeker's allowance."（现在，申请求职者津贴需要经过一个七天的等待期——2014年英语一Text 1）
+> - "Instead, the claimant receives a time-limited 'allowance,' conditional on actively seeking a job; no entitlement and no insurance, at 71.70 a week, one of the least generous in the EU."（相反，申请人获得的是有时间限制的"津贴"，条件是积极寻找工作——2014年英语一Text 1）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词族网络：all/allege/allegiance/alleviate/alliance/allowance/alloy/ally/alone/along/alongside
+> - [ ] 同义辨析：allowance/subsidy/grant/stipend
+> - [ ] 反义词群：deduction/penalty

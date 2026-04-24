@@ -1,0 +1,162 @@
+---
+title: "thereafter"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 低频
+semantic_field: 抽象关系
+prototype: 在那之后
+extension_dim: 时间路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# thereafter
+
+> [!info] 基础信息
+> **音标** /ˌðeərˈɑːftə(r)/ | **词频** 考研低频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adv.** ①==**其后，此后**==；
+
+> [!tip] 原型义
+> **原型义**：在那之后
+> **延伸维度**：时间路径
+> **隐喻类型**：无隐喻（直接时间指示）
+
+## 词根词缀
+
+there(那里，那个) + after(之后)
+**叙事**：there（那里/那个）+ after（之后）→ **在那个之后** → 其后。thereafter 是 then 的正式书面版本——"从那以后"。thereafter 比 after that 更正式，常见于法律文书和学术写作。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**在那之后**"为统筹中心，沿时间路径向外扩展：
+>
+> 1. **在那之后**（时间指示层面）
+>    - → **其后，此后**：从某个时间点之后一直延续
+>      - 激活条件：shortly thereafter, years thereafter
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：thereafter 就是"此后"——从那个时间点之后
+- **延伸中心**：从"在那之后"延伸到"此后一直"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"此后"能直接推导到"在那之后"
+> - [x] **可统筹**：一句话——"thereafter 就是从那以后"
+> - [x] **有支撑**：shortly thereafter, years thereafter 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adv. | 其后，此后 | 核心词性，there + after 的复合副词 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> there（那里）+ after（之后）→ thereafter。想象你在读一本小说，翻到第100页时发生了一个重大转折——"thereafter"（从那以后），故事完全不同了。thereafter 就是"从那个点之后"。
+>
+> **词拆分记忆**（辅助）：
+> there（那里）+ after（之后）→ 在那之后 → thereafter
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[afterwards]] | 后来，之后 | 强调事件之后的后续 | 事件 | 中性/通用 |
+> | [[subsequently]] | 随后，后来 | 强调正式的顺序承接 | 事件、决定 | 正式 |
+> | [[henceforth]] | 从此以后 | 强调从现在开始的未来 | 规则、政策 | 正式/书面 |
+> | **thereafter** | 其后，此后 | 强调从某个时间点之后（正式书面） | 事件、时期 | 正式/书面 |
+>
+> **"增"标记**：thereafter **(增-正式书面语体)** vs afterwards（基准词：后来）；thereafter **(增-持续性暗示)** vs subsequently（基准词：随后）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[therebefore]]：在那之前（thereafter 的精确反义，但极少使用）
+> - [[previously]]：之前（thereafter 的反义：此后↔之前）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[then]] | 基础词 | 当时，然后 | 词义补充（thereafter 的简化形式） |
+> | [[thereby]] | there + by | 从而，因此 | 词义填充（there-系列互链） |
+> | [[therefore]] | there + fore | 因此，所以 | 词义填充（there-系列互链） |
+> | [[temple]] | tem-(切割) + -ple | 庙宇；太阳穴 | 词义填充（tem-系列互链） |
+> | [[tempo]] | tem-(时间) + -o | 节奏，速度 | 词义填充（tem-系列互链） |
+> | [[tenant]] | ten-(持有) + -ant(人) | 租户，佃户 | 词义填充（tem-系列互链） |
+> | [[tender]] | tend-(伸展) + -er | 温柔的；投标 | 词义填充（tem-系列互链） |
+> | [[tense]] | tens-(伸展) | 紧张的；时态 | 词义填充（tem-系列互链） |
+> | [[tension]] | tens-(伸展) + -ion | 紧张；张力 | 词义填充（tem-系列互链） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **shortly thereafter**：此后不久
+> - **years thereafter**：此后多年
+> - **thereafter referred to as**：此后简称为
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Thereafter she wrote articles for papers and magazines in Paris."（从那以后，她为巴黎的报纸和杂志撰稿。——剑桥词典例句）
+> - "The final section provides that any work produced for the company is thereafter owned by the company."（最后一节规定，此后为公司创作的任何作品均归公司所有。——法律文书例句）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：无（复合副词）
+> - [ ] 同义辨析：thereafter/afterwards/subsequently/henceforth
+> - [ ] 反义词群：previously
+> - [ ] 形近词群：thereafter/thereby/therefore/thereof/therein

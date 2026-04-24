@@ -1,0 +1,169 @@
+---
+title: "ordinary"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 按通常秩序排列的事物（普通的、常规的）
+extension_dim: 空间路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# ordinary
+
+> [!info] 基础信息
+> **音标** /ˈɔːdnri/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**普通的，平常的**==；②==**平庸的，平淡的**==；
+**n.** ①==**普通人**==（the ordinary）；②==**（法官等）常任的**==（ordinary of the court）；
+
+> [!tip] 原型义
+> **原型义**：按通常秩序排列的事物（普通的、常规的）
+> **延伸维度**：空间路径
+> **隐喻类型**：结构隐喻（"按秩序排列"→"符合常规的"→"普通的"）
+
+## 词根词缀
+
+源自拉丁语 *ordinarius*（习惯的、规律的、普通的），由 *ordo*（属格 *ordinis*，秩序、行列）+ *-arius*（形容词后缀，表示"与……有关的"）构成。字面意思是"符合秩序的、按常规排列的"→"普通的、平常的"。与 [[order]]（秩序）、[[orderly]]（有秩序的）同根。注意 -ary 后缀表示"与……有关的"。
+
+**叙事**：ordinary 的核心画面是"按通常秩序排列的事物"。拉丁语 *ordinarius* = 符合秩序的 = 按常规的。想象一排排按标准排列的商品——不是特别的，就是普通的。ordinary 就是"按照正常秩序来的"，所以是"普通的、平常的"。out of the ordinary 就是不按常理出牌的 = 不寻常的。注意 ordinary 的名词用法：the ordinary = 普通人。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**按通常秩序排列的事物**"为统筹中心，沿空间路径向外扩展：
+>
+> 1. **按秩序排列**（物理层面）
+>    - → **普通的，平常的**：符合常规的
+>      - 激活条件：an ordinary day, ordinary people
+>    - → **平庸的**：缺乏特色的
+>      - 激活条件：an ordinary performance, ordinary abilities
+>    - → **普通人**：按常规生活的人
+>      - 激活条件：the ordinary, ordinary citizens
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：ordinary 就是"按常规的"——从秩序中的常态到普通
+- **延伸中心**：从"符合秩序"延伸到"普通的、平常的"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"普通的"能反向推导到"符合秩序的"——普通就是符合常规秩序
+> - [x] **可统筹**：一句话——"ordinary 就是从符合秩序到普通平常"
+> - [x] **有支撑**：ordinary people, out of the ordinary 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 普通的；平庸的 | 核心词性，由 ordin- + -ary 构成 |
+> | n. | 普通人；常任法官 | 形容词→名词：普通的人→普通人 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> ordinary 的核心画面是"按通常秩序排列的事物"。拉丁语 *ordinarius* = 符合秩序的 = 按常规的 = 普通的。想象超市货架上的商品，按标准排列、每天都能看到的——不是特别的，就是 ordinary。out of the ordinary = 不按常规 = 不寻常的。The ordinary = 普通人。注意 ordinary 和 common 的区别：ordinary 强调"按常规的"，common 强调"常见的"。
+>
+> **词拆分记忆**（辅助）：
+> ordinary → ordin-（秩序，同 order）+ -ary（与……有关的）→ 按秩序来的 → 普通的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[ordinary]] | 按常规的 | 强调符合一般标准 | 人、事物、日子 | 中性/通用 |
+> | [[common]] | 常见的 | 强调出现频率高 | 现象、事物 | 中性/通用 |
+> | [[normal]] | 正常的 | 强调符合标准 | 状态、情况 | 中性/通用 |
+> | [[average]] | 平均的 | 强调处于中间水平 | 人、成绩 | 中性/客观 |
+>
+> **"增"标记**：ordinary **(增-强调"按常规秩序"而非"数量多"，与 order 同根)** vs common（基准词：仅指常见）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[extraordinary]]：非凡的，特别的（ordinary 的反义：普通↔非凡）
+> - [[remarkable]]：显著的，非凡的（ordinary 的反义：平庸↔显著）
+> - [[unusual]]：不寻常的（ordinary 的反义：平常↔不寻常）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[order]] | 核心词 | 秩序；命令 | 核心词 |
+> | [[orderly]] | order + -ly | 有秩序的 | 词性派生 |
+> | [[extraordinary]] | extra- + ordinary | 非凡的 | 前缀派生 |
+> | [[ordinarily]] | ordinary + -ly | 通常地 | 副词派生 |
+> | [[ordinal]] | ordin- + -al | 序数的 | 词根派生 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **ordinary people**：普通人
+> - **an ordinary day**：平常的一天
+> - **out of the ordinary**：不寻常的
+> - **ordinary citizens**：普通公民
+> - **nothing out of the ordinary**：没什么特别的
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "What sets extraordinary people apart from ordinary ones is not talent, but perseverance and determination."（将非凡之人与普通人区分开的不是天赋，而是毅力和决心——考研阅读励志话题相关表达）
+> - "The invention of the smartphone was nothing out of the ordinary at the time, yet it revolutionized the way we communicate."（智能手机的发明在当时看来没什么特别，但它彻底改变了我们的通讯方式——考研阅读科技话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：ord-（排列，意大利语族词根）
+> - [ ] 同义辨析：ordinary/common/normal/average
+> - [ ] 反义词群：extraordinary/remarkable/unusual
+> - [ ] 派生词族：order/orderly/extraordinary/ordinarily
+> - [ ] 搭配网络：ordinary people/out of the ordinary/ordinary citizens

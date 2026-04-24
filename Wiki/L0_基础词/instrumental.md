@@ -1,0 +1,166 @@
+---
+title: "instrumental"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 抽象关系
+prototype: 有帮助的（作为工具起作用的）
+extension_dim: 功能路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# instrumental
+
+> [!info] 基础信息
+> **音标** /ˌɪnstrəˈmentl/ | **词频** 考研中频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**有帮助的，起作用的**==；②==**器乐的**==；③==**用乐器演奏的**==；
+**n.** ①==**器乐曲**==；
+
+> [!tip] 原型义
+> **原型义**：有帮助的（14世纪末，源自古法语 *instrumental*，源自中世纪拉丁语 *\*instrumentalis*，源自拉丁语 *instrumentum* "工具"。字面意思是"具有工具性质的"→"作为手段起作用的"）
+> **延伸维度**：功能路径
+> **隐喻类型**：结构隐喻（"工具"→"有帮助的"——像工具一样帮助完成目标）
+
+## 词根词缀
+
+instrumental（14世纪末，源自古法语 *instrumental*，源自拉丁语 *instrumentum* "工具" + *-al* "具有……性质的"。与 [[instrument]]、[[instruct]] 同源。*in-* "在……上" + *struere* "建造" + *-ment* "工具" + *-al* "形容词后缀"）
+**叙事**：instrumental 的核心是"作为工具起作用的"。be instrumental in（在……中起关键作用）——像工具一样帮助完成某事。instrumental music（器乐）——用乐器演奏的音乐（不用人声）。instrumental 最初的意思是"具有工具性质的"，后来引申为"有帮助的、起作用的"。记住：instrumental = 像工具一样 = 有帮助的。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**有帮助的（作为工具起作用的）**"为统筹中心，沿功能路径向外扩展：
+>
+> 1. **工具性质**（功能层面）
+>    - → **有帮助的，起作用的**：像工具一样帮助完成目标
+>      - 激活条件：be instrumental in, instrumental to
+> 2. **工具性质**（音乐层面）
+>    - → **器乐的**：用乐器演奏的（不用人声）
+>      - 激活条件：instrumental music, instrumental piece
+> 3. **工具性质**（实体层面）
+>    - → **器乐曲**：纯乐器演奏的乐曲
+>      - 激活条件：an instrumental
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：instrumental 就是"起工具作用的"——在成功中起关键作用叫 instrumental，纯乐器演奏也叫 instrumental
+- **一句话统筹**：instrumental 是"具有工具性质的"，从帮助成功到器乐演奏
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"器乐"能反向推导到"工具"——instrumental music = 用乐器（工具）演奏的音乐
+> - [x] **可统筹**：一句话——"instrumental 是工具性质的，从帮助成功到器乐"
+> - [x] **有支撑**：be instrumental in, instrumental music 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 有帮助的；器乐的 | 核心词性 |
+> | n. | 器乐曲 | adj. → n.：器乐曲的简称 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> instrumental = instrument（工具）+ -al（具有……性质的）= 具有工具性质的 = 有帮助的。be instrumental in success = 在成功中起关键作用 = 像工具一样帮助成功。instrumental music = 器乐 = 用乐器（工具）演奏的音乐。记住：instrumental = 像工具一样 = 有帮助的/器乐的。
+>
+> **词拆分记忆**（辅助）：
+> instrument（工具）+ -al（形容词后缀）→ 像工具一样的 → 有帮助的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[helpful]] | 有帮助的 | 最通用 | 一切 | 正面 |
+> | [[crucial]] | 关键的 | 强调不可或缺 | 决策、成功 | 正面/重要 |
+> | [[vital]] | 至关重要的 | 强调生死攸关 | 健康、成功 | 正面/强烈 |
+> | **instrumental** | 有帮助的；器乐的 | 强调"工具性"帮助 | 成功、音乐 | 正面/正式 |
+
+> **"增"标记**：instrumental **(增-强调"作为工具/手段"的功能性帮助 + "器乐"的专业含义)** vs helpful（基准词：有帮助的）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[useless]]：无用的（instrumental 的反义：有帮助的↔无用的）
+> - [[vocal]]：声乐的（instrumental 的反义：器乐的↔声乐的）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[instrumental]] | instrument + -al | 有帮助的；器乐的 | 核心词 |
+> | [[instrument]] | in + struct + -ment | 仪器；工具 | 词根名词 |
+> | [[instrumentality]] | instrumental + -ity | 手段；工具性 | 派生名词 |
+> | [[instrumentally]] | instrumental + -ly | 在器乐方面；作为手段 | 派生副词 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **be instrumental in (doing) something**：在某事中起关键作用
+> - **be instrumental to**：对……有帮助
+> - **instrumental music**：器乐
+> - **an instrumental piece**：一首器乐曲
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "She was instrumental in negotiating the peace agreement between the two nations."（她在两国之间的和平协议谈判中发挥了关键作用。——考研英语阅读相关语料）
+> - "Technology has been instrumental in transforming the way we communicate and access information."（技术在改变我们交流和信息获取方式方面发挥了关键作用。——考研相关语料）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：struct 词根（PIE *\*stere-* "展开、铺展"）
+> - [ ] 同义辨析：instrumental/helpful/crucial/vital
+> - [ ] 反义词群：useless/vocal
+> - [ ] 形近词群：instrumental/instrument/instruct/instruction/insulate

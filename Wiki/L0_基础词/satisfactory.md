@@ -1,0 +1,158 @@
+---
+title: "satisfactory"
+tags:
+  - 学习/英语/词汇
+  - 语义场/人本世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 人本世界
+prototype: 足够好的，能够满足要求的（达到基本标准的）
+extension_dim: 抽象路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# satisfactory
+
+> [!info] 基础信息
+> **音标** /ˌsætɪsˈfæktəri/ | **词频** 考研中频 | **语义场** [[人本世界]]
+
+## 核心释义
+
+**adj.** ①==**令人满意的，符合要求的**==（达到基本标准但未必出色）；
+
+> [!tip] 原型义
+> **原型义**：足够好的，能够满足要求的（达到基本标准的）
+> **延伸维度**：抽象路径
+> **隐喻类型**：无隐喻（直接描述"满足要求"的状态）
+
+## 词根词缀
+
+[[satis]]（足够的、充分的，拉丁语）+ [[fac]]-（做、制作，拉丁语）+ -tory（形容词后缀，表示"具有……性质的"）。字面意思是"做得足够好的"→ "令人满意的"。与 [[satisfy]]（使满意）、[[satisfaction]]（满意）同源。
+**叙事**：satisfactory 的核心画面是"考试及格了——不算优秀，但达到了要求"。satis（足够）+ fac（做）+ -tory = 做得足够好 = 令人满意的。注意 satisfactory 的微妙含义：它表示"达到基本标准"，但暗示"不是特别好"。a satisfactory result = 一个令人满意的结果（及格了，但不是满分）。satisfactory vs satisfied：satisfactory 描述的是事物"令人满意"，satisfied 描述的是人"感到满意"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**足够好的，达到要求的**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **做得足够好**（评价层面）
+>    - → **令人满意的，符合要求的**：达到基本标准
+>      - 激活条件：a satisfactory result, a satisfactory performance
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：satisfactory 就是"达标"——足够好，但不是最好
+- **延伸中心**：从"做得足够好"到"令人满意的结果"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"令人满意的结果"能反向推导到"做得足够好"——令人满意就是做得足够好
+> - [x] **可统筹**：一句话——"satisfactory 就是做得足够好，达到基本标准"
+> - [x] **有支撑**：a satisfactory result, satisfactory performance 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 令人满意的 | 核心词性 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> satisfactory = satis（足够）+ fac（做）+ -tory（形容词后缀）= 做得足够好 = 令人满意的。核心画面是"老师批改试卷，写上' satisfactory'——及格了，达标了"。注意 satisfactory 的微妙之处：它暗示"达标但不出色"。a satisfactory answer = 一个令人满意的回答（够了，但不是完美答案）。对比：satisfactory（事物令人满意）vs [[satisfied]]（人感到满意）。
+>
+> **词拆分记忆**（辅助）：
+> satisfactory → satis（足够）+ factory（工厂）→ 工厂生产足够的产品 → 令人满意的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[satisfied]] | 感到满意的 | 描述人的感受 | 人 | 正面/主观 |
+> | [[satisfying]] | 令人满足的 | 强调带来满足感 | 体验、食物 | 正面/强烈 |
+> | [[excellent]] | 优秀的 | 超出标准 | 成绩、表现 | 正面/强烈 |
+> | **satisfactory** | 令人满意的 | 达到基本标准 | 结果、表现 | 正面/中性 |
+
+> **"增"标记**：satisfactory **(增-达标但暗示不出色的微妙含义)** vs satisfied（基准词：一般满意）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[unsatisfactory]]：不令人满意的（satisfactory 的精确反义）
+> - [[inadequate]]：不充分的（satisfactory 的反义：达标↔不达标）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[satisfy]] | satis + fac + -y | 使满意 | 词义补充 |
+> | [[satisfaction]] | satisfy + -tion | 满意；赔偿 | 词义补充 |
+> | [[satisfied]] | satisfy + -ed | 感到满意的 | 词义补充 |
+> | [[unsatisfactory]] | un- + satisfactory | 不令人满意的 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **a satisfactory result / outcome**：令人满意的结果
+> - **a satisfactory explanation**：令人满意的解释
+> - **far from satisfactory**：远不能令人满意
+> - **satisfactory progress**：令人满意的进展
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The company's financial performance this year has been satisfactory, though it still falls short of the board's expectations."（公司今年的财务表现令人满意，尽管仍未达到董事会的期望——考研阅读商业话题相关表达）
+> - "The researchers acknowledged that the current evidence is far from satisfactory and called for more rigorous studies to confirm the findings."（研究人员承认目前的证据远不能令人满意，并呼吁进行更严格的研究来确认这些发现——考研阅读学术话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：satis（足够的）+ fac（做），拉丁语
+> - [ ] 同义辨析：satisfactory/satisfied/satisfying/excellent
+> - [ ] 反义词群：unsatisfactory/inadequate
+> - [ ] 形近词群：satisfactory/satisfaction/satisfy/saturate

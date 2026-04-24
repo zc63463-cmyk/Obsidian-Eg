@@ -1,0 +1,172 @@
+---
+title: "favorable"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-20
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 好感的→有利的
+extension_dim: 抽象路径
+last_review: 2026-04-20
+review_count: 0
+---
+
+# favorable
+
+> [!info] 基础信息
+> **音标** /ˈfeɪvərəbl/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**有利的**==；②==**赞成的**==；③==**讨人喜欢的**==
+
+> [!tip] 原型义
+> **原型义**：好感的→有利的（从"有好感"出发，引申为"对……有利的"或"赞成的"）
+> **延伸维度**：抽象路径
+> **隐喻类型**：情感隐喻（从"好感"→ "有利的"→ "赞成的"→ "讨人喜欢的"）
+
+## 词根词缀
+
+**词根拆分**：[[favor]]（好感/善意）+ -able（具有……特征的）→ 具有好感特征的→有利的
+
+**后缀 -able**：表示"具有……特征的"，衍生大量形容词——[[comfortable]]（舒适的）、[[reasonable]]（合理的）、[[acceptable]]（可接受的）
+
+**叙事**：favorable = favor（好感）+ able（具有……特征的）→ 具有好感特征的→有利的。当条件对你"有好感"时，就是"有利的"条件；当评论对一部电影"有好感"时，就是"赞成的"评价；当一个人给人"好感"时，就是"讨人喜欢的"。记住 favor = 好感，-able = 具有……特征的，favorable = 具有好感特征的 = 有利的。
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**好感的→有利的**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **有好感的**（基础语义）
+>    - → **有利的**：条件/环境对某事有帮助
+>      - 激活条件：条件/环境语境（favorable conditions / favorable weather）
+>    - → **赞成的**：对某事持支持态度
+>      - 激活条件：态度/评价语境（a favorable impression / favorable response）
+>    - → **讨人喜欢的**：给人好印象的
+>      - 激活条件：人际/评价语境（a favorable personality）
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：favorable = "有利的"——具有好感的、有利的
+- **一句话统筹**：favorable 就是"有好感的"——有利的条件、赞成的态度
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"有利的"能反向推导到"有好感的"——有利就是条件对你有好感
+> - [x] **可统筹**：一句话统筹——"favorable 就是有好感的"
+> - [x] **有支撑**：favorable conditions, favorable impression, favorable review 均为高频搭配
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 有利的；赞成的；讨人喜欢的 | 核心词性 |
+> | n. | [[favor]]（好感；偏爱；恩惠） | 去掉 -able |
+> | adv. | [[favorably]]（有利地；赞成地） | favorable + -ly |
+> | adj. | [[unfavorable]]（不利的） | un- + favorable |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> favorable = favor（好感）+ able（具有……特征的）→ 具有好感特征的→有利的。想象你要创业，投资人对你"有好感"，给你提供了"有利的"条件（favorable terms）。面试官对你的表现印象"有利的"（favorable impression），所以你通过了。记住 favor = 好感，favorable = 有好感的 = 有利的。
+>
+> **词拆分记忆**（辅助）：
+> favor（好感）+ able（能……的）→ 能产生好感的 → 有利的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[favorable]] | 有利的 | 强调"条件/态度对某事有利" | 条件、印象、评价 | 积极 |
+> | [[positive]] | 积极的 | 强调"正面肯定的"（最通用） | 态度、结果、反馈 | 积极 |
+> | [[beneficial]] | 有益的 | 强调"带来实际好处" | 健康、经济、效果 | 积极 |
+> | [[advantageous]] | 有优势的 | 强调"具有竞争优势" | 地位、条件、时机 | 积极/正式 |
+>
+> **"增"标记**：favorable **(增-好感情感基础)** vs positive（基准词：积极的）；positive **(增-正面肯定通用性)** vs favorable（基准词：有利的）；beneficial **(增-实际获益感)** vs favorable（基准词：条件有利）；advantageous **(增-竞争优势感)** vs favorable（基准词：条件有利）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[unfavorable]]：不利的，不赞成的（有利↔不利）
+- [[negative]]：消极的（积极↔消极）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[favor]] | 基础词 | 好感；偏爱；恩惠 | 词根词 |
+> | [[favorably]] | favorable + -ly（副词） | 有利地，赞成地 | 词义填充 |
+> | [[unfavorable]] | un- + favorable | 不利的，不赞成的 | 反义派生 |
+> | [[favorite]] | favor + -ite | 最喜欢的 | 同源派生 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **favorable conditions**：有利的条件
+> - **favorable weather**：有利的天气
+> - **favorable impression**：好印象
+> - **favorable review**：好评
+> - **favorable terms**：有利的条款
+> - **favorable balance of trade**：贸易顺差
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The economic conditions are favorable for investment."（经济条件有利于投资）——经济话题
+> - "The new policy received a favorable response from the public."（新政策获得了公众的积极回应）——政治话题
+> - "The company reported favorable results for the quarter."（公司报告了本季度的良好业绩）——商业话题
+> - "She made a favorable impression at the job interview."（她在求职面试中给人留下了好印象）——职场话题
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：favor 词族（拉丁语 favor，衍生 favorable/favorite/favoritism 等）
+> - [ ] 同义辨析：favorable/positive/beneficial/advantageous
+> - [ ] 反义词群：unfavorable/negative
+> - [ ] 派生词群：favor/favorably/unfavorable/favorite

@@ -1,0 +1,170 @@
+---
+title: "ideology"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-20
+mastery: L0
+word_freq: 中频
+semantic_field: 社会专业
+prototype: 关于思想的学问
+extension_dim: 抽象路径
+last_review: 2026-04-20
+review_count: 0
+---
+
+# ideology
+
+> [!info] 基础信息
+> **音标** /ˌaɪdiˈɒlədʒi/ | **词频** 考研中频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**n.** ①==**意识形态**==；②==**思想体系**==；
+
+> [!tip] 原型义
+> **原型义**：关于思想的学问（系统研究思想观念的学科）
+> **延伸维度**：抽象路径
+> **隐喻类型**：结构隐喻（"研究思想的学科"结构 → 一套系统的思想观念体系）
+
+## 词根词缀
+
+**ideo**（思想、观念，源自希腊语 *idea*）+ **-logy**（学科、学问，源自希腊语 *-logia*）
+
+**叙事**："思想"加上"学科"后缀，字面意思就是"研究思想的学问"。但在实际使用中，ideology 指的是一套系统的、往往带有政治色彩的思想观念体系——即某个群体或个人所持有的完整世界观。从"关于思想的学问"到"意识形态"，是从学术概念到社会实践的延伸。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**关于思想的学问**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **关于思想的学问**（学术层面）
+>    - → **思想体系**：一套系统的思想观念
+>      - 激活条件：描述某个群体的系统性思想框架时（the ideology of the movement）
+> 2. **关于思想的学问**（社会层面）
+>    - → **意识形态**：政治或社会层面的系统性思想观念
+>      - 激活条件：讨论政治、社会思潮时（political ideology, dominant ideology）
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：ideology 的所有义项都可以用"思想体系"来概括——意识形态是政治层面的思想体系
+- **一句话统筹**："ideology 就是一套系统的思想观念体系——在政治语境中特指意识形态"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"意识形态"能反向推导到"思想体系"——意识形态就是政治层面的思想体系
+> - [x] **可统筹**：一句话统筹——"ideology 就是一套系统的思想观念体系"
+> - [x] **有支撑**：political ideology, dominant ideology, clash of ideologies 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 意识形态；思想体系 | 核心词性，ideo- + -logy |
+> | adj. | ideological 意识形态的 | n + -ical：与意识形态相关的 |
+> | adv. | ideologically 在意识形态上 | adj. + -ly |
+> | n. | ideologist 思想家 | n + -ist：研究意识形态的人 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> ideo-（思想）+ -logy（学科）= ideology（关于思想的学问→意识形态）。想象一所大学开设了一门新学科，专门研究人们的思想体系——这门学科就叫意识形态。
+>
+> **词拆分记忆**（辅助）：
+> -logy 家族——biology（生物学）、psychology（心理学）、sociology（社会学）都是"研究…的学科"。
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[philosophy]] | 哲学体系 | 强调思辨性，学术性强 | 人生、知识、存在 | 中性/正面 |
+> | [[belief]] | 个人信念 | 不一定系统，个人层面 | 价值观、信仰 | 中性 |
+> | [[doctrine]] | 教义信条 | 权威机构制定，强制性 | 宗教、政治 | 中性/负面 |
+> | [[creed]] | 信条教义 | 宗教信仰的正式表述 | 宗教信仰 | 中性 |
+> | [[ideology]] | 系统思想体系 | 系统性强，往往带政治色彩 | 政治、社会思潮 | 中性/负面 |
+>
+> **"增"标记**：ideology **(增-政治性与系统性)** vs belief（基准词：个人信念）；ideology **(增-系统完整性)** vs philosophy（基准词：哲学思辨）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[pragmatism]]：实用主义（ideology 是思想体系，pragmatism 是注重实际效果）
+> - [[practice]]：实践（ideology 是理论体系，practice 是实际行动）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[idea]] | ideo- 的词源 | 想法；主意；观念 | 词义补充（"思想"本身） |
+> | [[ideal]] | ideo- 的同源变体 | 理想；理想的 | 词义补充 |
+> | [[ideological]] | ideology + -ical | 意识形态的 | 词义填充 |
+> | [[idealist]] | ideal + -ist | 理想主义者 | 词义填充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **political ideology**：政治意识形态 — What is your political ideology?
+> - **dominant ideology**：主流意识形态 — The dominant ideology of the era was conservatism.
+> - **ideology of...**：……的思想体系 — The ideology of the party has evolved over time.
+> - **clash of ideologies**：意识形态冲突 — The Cold War was largely a clash of ideologies.
+> - **ideological differences**：意识形态差异 — Ideological differences led to the split.
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The author examines how ideology shapes public opinion and policy decisions."（考研英语——作者探讨意识形态如何塑造公众舆论和政策决策）
+> - "The two parties hold fundamentally different ideologies on economic policy."（CET-6——两个政党在经济政策上持有根本不同的意识形态）
+> - "The book critiques the ideology behind neoliberal economic policies."（GRE——这本书批判了新自由主义经济政策背后的思想体系）
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：ideo-（思想、观念，希腊语 *idea*）
+> - [ ] 同义辨析：ideology/philosophy/belief/doctrine/creed
+> - [ ] 反义词群：pragmatism/practice
+> - [ ] 形近词群：ideology/idea/ideal/ideological（ideo- 词根家族）

@@ -1,0 +1,166 @@
+---
+title: "senate"
+tags:
+  - 学习/英语/词汇
+  - 语义场/政治法律
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 政治法律
+prototype: 长老院（由年长智者组成的议事机构）
+extension_dim: 社会路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# senate
+
+> [!info] 基础信息
+> **音标** /ˈsenət/ | **词频** 考研中频 | **语义场** [[政治法律]]
+
+## 核心释义
+
+**n.** ①==**参议院**==；②（某些国家的）上院；③大学评议会；
+
+> [!tip] 原型义
+> **原型义**：长老院（由年长智者组成的议事机构）
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（"年长者"→"智慧与权威"→"立法机构"——年龄象征经验和智慧，因此由长者组成的机构拥有最高决策权）
+
+## 词根词缀
+
+[[sen]](老，拉丁语 *senex*) + -ate(名词后缀，表示机构/群体)
+**叙事**：sen（老）+ ate（机构）→ 由老人组成的机构 → 参议院。古罗马的元老院（Senate）就是由最有经验的长者组成的最高决策机构。美国的 Senate 也继承了这一传统。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**长老院**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **长老院**（古罗马层面）
+>    - → **参议院；上院**：现代两院制立法机构中的上院
+>      - 激活条件：the Senate, Senate committee
+>    - → **大学评议会**：大学中的最高学术管理机构
+>      - 激活条件：university senate
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：senate 就是"长者之院"——由最有经验的人组成的决策机构
+- **延伸中心**：从"古罗马元老院"延伸到"现代参议院"再到"大学评议会"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"参议院"能反向推导到"长老院"——参议员的本质就是"国家的长者"
+> - [x] **可统筹**：一句话——"senate 就是由最有经验的人组成的最高议事机构"
+> - [x] **有支撑**：the Senate, Senate committee 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 参议院；上院；大学评议会 | 核心词性，仅名词用法 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> senate 来自拉丁语 *senatus*，词根 *senex* 意为"老人、长者"。古罗马的元老院就是由最有经验的贵族长者组成的最高决策机构。美国的参议院（Senate）继承了这一传统——参议员（senator）通常年龄较大、经验丰富。大学里的评议会也叫 senate，由资深教授组成。
+>
+> **词拆分记忆**（辅助）：
+> sen（老）+ ate（机构）→ 老人组成的机构 → 参议院
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[congress]] | 国会 | 强调美国整个立法机构（两院总和） | 美国立法 | 中性/正式 |
+> | [[parliament]] | 议会 | 强调英国及英联邦国家的立法机构 | 英国立法 | 中性/正式 |
+> | [[house]] | 议院 | 强调两院制中的某一院 | 众议院/上院 | 中性 |
+> | **senate** | 参议院；上院 | 强调两院制中的上院（更具经验和权威） | 美国、法国 | 中性/权威 |
+
+> **"增"标记**：senate **(增-权威性和经验感)** vs house（基准词：议院）；senate **(增-长者的智慧隐喻)** vs congress（基准词：国会整体）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[assembly]]：下议院（某些体系中 senate 上院 ↔ assembly 下议院）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[senator]] | senate + -or(人) | 参议员 | 词义补充（senate 的成员） |
+> | [[senior]] | [[sen]](老) + -ior(比较级后缀) | 年长的；高级的 | 词义补充（同源词根） |
+> | [[semester]] | semi-(半) + mester(月) | 学期 | 形近关联 |
+> | [[semiconductor]] | semi-(半) + conductor | 半导体 | 形近关联 |
+> | [[seminar]] | [[semin]](种子) + -ar | 研讨会 | 形近关联 |
+> | [[sentence]] | [[sent]](感觉) + -ence | 句子；判决 | 形近关联 |
+> | [[sentiment]] | [[sent]](感觉) + -iment | 情感；情绪 | 形近关联 |
+> | [[session]] | [[sess]](坐) + -ion | 会议；一段时间 | 形近关联 |
+> | [[sew]] | 形近词 | 缝；缝纫 | 形近关联 |
+> | [[shine]] | 形近词 | 照耀；发光 | 形近关联 |
+> | [[shipment]] | ship + -ment | 装运；货物 | 形近关联 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **the Senate**：参议院
+> - **Senate committee**：参议院委员会
+> - **the Senate Finance Committee**：参议院财政委员会
+> - **a member of the Senate**：参议员
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The good news is that a bill just approved by the House and a bill approved by the Senate Finance Committee would implement or test many reforms that should help slow the rise in medical costs over the long term."（好消息是，众议院刚通过的一项议案和参议院财政委员会通过的一项议案将实施或测试许多改革，这些改革应该有助于长期减缓医疗费用的上涨——2016年6月阅读）
+> - "The Senate bill would create an independent commission to monitor the pilot programs and recommend changes in Medicare's payment policies."（参议院的议案将建立一个独立委员会来监督试点项目，并建议修改医疗保险的支付政策——2016年6月阅读）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[sen]]（老，拉丁语 *senex*）
+> - [ ] 同义辨析：senate/congress/parliament/house
+> - [ ] 反义词群：assembly
+> - [ ] 形近词群：senate/senator/senior/semester/semiconductor/seminar/sentence/sentiment/session/sew/shine/shipment

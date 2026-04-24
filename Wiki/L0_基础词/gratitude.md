@@ -1,0 +1,166 @@
+---
+title: "gratitude"
+tags:
+  - 学习/英语/词汇
+  - 语义场/行为态度
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 行为态度
+prototype: 因收到恩惠而产生的感谢之情
+extension_dim: 社会路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# gratitude
+
+> [!info] 基础信息
+> **音标** /ˈɡrætɪtjuːd/ | **词频** 考研中频 | **语义场** [[行为态度]]
+
+## 核心释义
+
+**n.** ①==**感激之情，感谢**==；
+
+> [!tip] 原型义
+> **原型义**：因收到恩惠而产生的感谢之情
+> **延伸维度**：社会路径
+> **隐喻类型**：无隐喻（直接表达社会交往中的感恩情感）
+
+## 词根词缀
+
+grat(感谢，令人愉悦，源自拉丁语 *gratus*) + -itude(名词后缀，表示状态/品质)
+**叙事**：grat（感谢）+ itude（状态/品质）→ 感谢的状态 → 感激之情。gratitude 是 grateful 的名词形式。I owe you a debt of gratitude（我对你感激不尽）。建议创建词根笔记 [[grat]]
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**因收到恩惠而产生的感谢之情**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **因收到恩惠而产生的感谢之情**（情感层面）
+>    - → **感激之情，感谢**：对他人帮助的感谢心理
+>      - 激活条件：express one's gratitude, a deep sense of gratitude
+>    - → **感谢的表示**：以行动表达感谢
+>      - 激活条件：in gratitude for, show one's gratitude
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：gratitude 就是"感恩"——心中的感激之情，也可以通过行动表达
+- **延伸中心**：从"内心感激"延伸到"外在表达"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"感谢的表示"能反向推导到"感激之情"——表示是情感的外化
+> - [x] **可统筹**：一句话——"gratitude 就是因恩惠而产生的感激之情及其表达"
+> - [x] **有支撑**：express gratitude, in gratitude for, a deep sense of gratitude 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 感激之情 | 核心词性，grateful 的名词形式 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> gratitude = grat（感谢）+ itude（状态）。grateful 是"感激的"，gratitude 是"感激之情"。I would like to express my gratitude to everyone for their hard work（我想对每个人的辛勤工作表达感激之情）。a deep sense of gratitude（深深的谢意）。
+>
+> **词拆分记忆**（辅助）：
+> grat（感谢）+ itude（状态）→ 感谢的状态 → 感激之情
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[appreciation]] | 欣赏，感激 | 强调理解并欣赏价值 | 帮助、艺术 | 正面/正式 |
+> | [[thankfulness]] | 感谢 | 较口语化 | 好运、帮助 | 正面/口语 |
+> | [[recognition]] | 认可，感谢 | 强调公开承认贡献 | 贡献、成就 | 正面/正式 |
+> | **gratitude** | 感激之情 | 最精确，强调因恩惠而生的感谢 | 帮助、服务、机会 | 正面/正式 |
+>
+> **"增"标记**：gratitude **(增-因恩惠而生的精确语义)** vs appreciation（基准词：欣赏感激）；gratitude **(增-正式程度和深度)** vs thankfulness（基准词：口语感谢）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[ingratitude]]：忘恩负义（gratitude 的精确反义：感激↔忘恩）
+> - [[resentment]]：怨恨（gratitude 感激的反义：感激↔怨恨）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[grateful]] | grat + -ful | 感激的 | 词义补充（形容词形式） |
+> | [[gratefully]] | grateful + -ly | 感激地 | 词义填充 |
+> | [[ingratitude]] | in-(不) + gratitude | 忘恩负义 | 词义补充（反义） |
+> | [[congratulate]] | con-(共同) + grat(愉悦) + -ulate | 祝贺 | 词根扩展 |
+> | [[graph]] | 形近词 | 图表 | 形近关联 |
+> | [[graphic]] | 形近词 | 图形的；生动的 | 形近关联 |
+> | [[grave]] | 形近/词源关联 | 坟墓；严重的 | 形近关联（grav- 词根） |
+> | [[gravity]] | 形近/词源关联 | 重力；严重性 | 形近关联（grav- 词根） |
+> | [[graze]] | 形近词 | 放牧；擦伤 | 形近关联 |
+> | [[grease]] | 形近词 | 油脂；涂油 | 形近关联 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **express/show one's gratitude**：表达/展示感激之情
+> - **a deep sense of gratitude**：深深的感激之情
+> - **in gratitude for**：因……而感激
+> - **owe a debt of gratitude to**：对……感激不尽
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "I would like to express my gratitude to everyone for their hard work."（我想对每个人的辛勤工作表达感激之情——剑桥词典例句）
+> - "The family turned to social media expressing their gratitude, saying, 'From the bottom of our hearts, we would like to deeply thank each and every person that stopped by!'"（这家人通过社交媒体表达感激之情说："我们衷心感谢每一位前来的人！"——2017年12月四级真题听力）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[grat]]（感谢，令人愉悦，拉丁语 *gratus*）
+> - [ ] 同义辨析：gratitude/appreciation/thankfulness/recognition
+> - [ ] 反义词群：ingratitude/resentment
+> - [ ] 形近词群：graph/graphic/grateful/grave/gravity/graze/grease

@@ -1,0 +1,169 @@
+---
+title: "identical"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-20
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 完全同一的
+extension_dim: 抽象路径
+last_review: 2026-04-20
+review_count: 0
+---
+
+# identical
+
+> [!info] 基础信息
+> **音标** /aɪˈdentɪkl/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**完全相同的，一模一样的**==；②（to/with）==**相同的，同样的**==；
+
+> [!tip] 原型义
+> **原型义**：完全同一的（在每一个方面都完全相同，没有任何可区分的差异）
+> **延伸维度**：抽象路径
+> **隐喻类型**：无隐喻（直接从"同一性"抽象而来）
+
+## 词根词缀
+
+**ident**（相同、同一，源自拉丁语 *idem*）+ **-ic**（形容词后缀）+ **-al**（形容词后缀，双重后缀加强语气）
+
+**叙事**：ident 词根本身就表示"相同"，加上双重形容词后缀 -ic 和 -al，强调"在每一个方面都完全相同"——不是相似，不是差不多，而是完全一样。想象一对同卵双胞胎，他们的同一性太强了，看起来完全相同，连父母都分不清。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**完全同一的**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **完全同一的**（抽象层面）
+>    - → **完全相同的**：两个或多个事物在各方面都完全一样，无可区分
+>      - 激活条件：描述事物之间的完全一致性（identical twins, identical copy）
+>    - → **相同的，同样的**（identical to/with）：与某物完全一致
+>      - 激活条件：比较两个事物时，强调完全等同（identical to the original）
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：identical 的所有义项都可以用"同一"来概括——完全相同就是"同一"的外在表现
+- **一句话统筹**："identical 就是没有任何差异的完全一致"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"完全相同"能反向推导到"同一性"——完全相同就是同一
+> - [x] **可统筹**：一句话统筹——"identical 就是没有任何差异的完全一致"
+> - [x] **有支撑**：identical twins, identical to the original, virtually identical 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 完全相同的 | 核心词性，ident + -ic + -al 的直接产物 |
+> | adv. | identically 完全相同地 | adj. + -ly：以完全相同的方式 |
+> | n. | identity 身份；同一性 | 同源名词：ident + -ity（同一的状态） |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> ident（相同）+ -ic + -al = identical（完全相同的）。想象一对同卵双胞胎，他们的同一性（ident）太强了，看起来完全相同（identical），连父母都分不清。
+>
+> **词拆分记忆**（辅助）：
+> ident（同一）+ -ical（双重后缀加强）→ 完全同一的 → 完全相同的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[same]] | 泛指相同 | 最通用，不强调程度 | 任何事物 | 中性 |
+> | [[similar]] | 部分相似 | 有相似之处但不完全一样 | 外观、性质 | 中性 |
+> | [[equivalent]] | 功能等价 | 功能或效果相同，外观可不同 | 价值、功能 | 中性 |
+> | [[equal]] | 数量/价值相等 | 大小、数量、价值上相等 | 数量、权利 | 中性 |
+> | [[identical]] | 完全相同、无可区分 | 程度最强，100%一致 | 外观、本质 | 中性 |
+>
+> **"增"标记**：identical **(增-无可区分的完全一致性)** vs same（基准词：泛指相同）；identical **(增-程度最强)** vs similar（基准词：部分相似）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[different]]：不同的（identical 是完全相同，different 是有差异）
+> - [[distinct]]：不同的，有区别的（identical 是无法区分，distinct 是可以区分）
+> - [[diverse]]：多样的，不同的（identical 是单一的相同，diverse 是多样的不同）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[identity]] | ident + -ity（状态） | 身份；同一性 | 词义补充（同一的状态→身份） |
+> | [[identify]] | ident + -ify（使） | 辨认；识别 | 词义补充（使确认同一→辨认） |
+> | [[identification]] | identify + -ation | 辨认；身份证明 | 词义补充（辨认的过程/结果） |
+> | [[identically]] | identical + -ly | 完全相同地 | 词义填充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **identical to**：与……完全相同 — This copy is identical to the original.
+> - **identical twins**：同卵双胞胎 — The identical twins were separated at birth.
+> - **identical in**：在……方面完全相同 — The two proposals are identical in every respect.
+> - **virtually identical**：几乎完全相同 — The two versions are virtually identical.
+> - **exactly identical**：完全相同 — The results were exactly identical.
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The symptoms of the two diseases are nearly identical, making diagnosis difficult."（考研英语——两种疾病的症状几乎完全相同）
+> - "Identical twins raised apart still show remarkable similarities in personality."（CET-6——分开抚养的同卵双胞胎仍显示惊人的相似性）
+> - "The two documents are identical in content."（CET-4——两份文件内容完全相同）
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：ident（相同、同一，拉丁语 *idem*）
+> - [ ] 同义辨析：identical/same/similar/equivalent/equal
+> - [ ] 反义词群：different/distinct/diverse
+> - [ ] 形近词群：identical/identity/identify/identification（ident 词根家族）

@@ -1,0 +1,168 @@
+---
+title: "mission"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 高频
+semantic_field: 社会专业
+prototype: 被派出去执行的任务（送出去完成的目标）
+extension_dim: 具身路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# mission
+
+> [!info] 基础信息
+> **音标** /ˈmɪʃn/ | **词频** 考研高频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**n.** ①==**使命，任务**==；②==**代表团，使团**==（被派出去的团体）；③==**（军事）任务**==；
+**adj.** ①==**有使命感的**==（如 mission statement）；
+
+> [!tip] 原型义
+> **原型义**：被派出去执行的任务（送出去完成的目标）
+> **延伸维度**：具身路径
+> **隐喻类型**：结构隐喻（"被送出去"→"使命/任务"——从物理派遣到抽象使命）
+
+## 词根词缀
+
+源自拉丁语 *missio*（派遣、放出），是 *mittere*（送、派、投掷）的名词形式，过去分词为 *missus*。与 [[missile]]（投射物 = 被投掷的东西）、[[admit]]（准许进入）、[[emit]]（发射）、[[transmit]]（传输）、[[submit]]（提交）、[[dismiss]]（解散 = 送走）同源。词根 [[mit]]（送、派）。
+**叙事**：mission 的核心画面是"被派出去执行任务"。拉丁语 *missio* = 被送出去 = 派遣。古代国王派使者出使外国——这就是 mission。A diplomatic mission（外交使团）= 被派出去的外交团体。A space mission（太空任务）= 被派往太空执行的任务。Her mission in life（她的人生使命）= 她被"命运"派来完成的任务。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**被派出去执行的任务**"为统筹中心，沿具身路径向外扩展：
+>
+> 1. **被派遣**（物理层面）
+>    - → **使命，任务**：被派去完成的目标
+>      - 激活条件：a diplomatic mission, a space mission
+>    - → **代表团，使团**：被派出去的团体
+>      - 激活条件：a trade mission, a peace mission
+>    - → **人生使命**：抽象层面的"被派遣"
+>      - 激活条件：one's mission in life, mission statement
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：mission 就是"被派出去完成的任务"——从外交使团到人生使命
+- **延伸中心**：从"物理派遣"延伸到"抽象使命"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"人生使命"能反向推导到"被派遣"——使命就是被命运"派来"完成的
+> - [x] **可统筹**：一句话——"mission 就是从被派遣到使命到使团"
+> - [x] **有支撑**：diplomatic mission, space mission, mission in life 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 使命；使团；任务 | 核心词性 |
+> | adj. | 有使命感的 | 名词作定语 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> mission = miss（被送出去）+ -ion（名词后缀）= 被派出去 = 使命/任务。拉丁语 *mittere* = 送、派。古代国王派使者出使外国——这就是 mission。A diplomatic mission（外交使团）= 被派出去的外交团体。A rescue mission（救援任务）= 被派去救援。Her mission in life is to help the poor（她的人生使命是帮助穷人）= 她被"命运"派来完成这个任务。同源词：missile（导弹 = 被投掷的东西）、admit（准许进入）、transmit（传输）、submit（提交）。
+>
+> **词拆分记忆**（辅助）：
+> mission → miss（发送）+ ion（名词）→ 被发送出去的人或事 → 使命/使团
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[task]] | 任务 | 最通用，强调具体工作 | 任何工作 | 中性/通用 |
+> | [[assignment]] | 分配的任务 | 强调被分配 | 工作、作业 | 中性/正式 |
+> | [[duty]] | 职责 | 强调义务和责任 | 工作、道德 | 正面/责任 |
+> | **mission** | 使命；使团 | 强调"被派遣"的使命感 | 外交、军事、人生 | 正面/崇高 |
+
+> **"增"标记**：mission **(增-使命感和崇高感)** vs task（基准词：一般任务）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[aimlessness]]：无目的（mission 的反义：有使命↔无目的）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[missionary]] | mission + -ary | 传教士 | 词义补充 |
+> | [[missile]] | miss-(投掷) + -ile | 导弹 | 词根同源 |
+> | [[admit]] | ad- + mit | 准许进入 | 词根同源 |
+> | [[emit]] | e- + mit | 发射 | 词根同源 |
+> | [[transmit]] | trans- + mit | 传输 | 词根同源 |
+> | [[submit]] | sub- + mit | 提交 | 词根同源 |
+> | [[dismiss]] | dis- + miss | 解散 | 词根同源 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **a diplomatic mission**：外交使团
+> - **a space mission**：太空任务
+> - **mission in life**：人生使命
+> - **mission statement**：使命宣言
+> - **a rescue/peace mission**：救援/和平使命
+> - **on a mission**：执行任务中
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "If you and I parachuted back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion."（如果回顾1990年的世界五百强企业，我们会发现像"旅程""使命""激情"这类词汇的使用频率远没有现在高——2015年考研阅读Text 3）
+> - "Her mission in life was to work with the homeless, and she devoted decades to this cause."（她的人生使命是帮助无家可归者，她为此事业奉献了几十年——考研阅读人物传记话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：mit/miss-(送、派)（拉丁语 mittere）
+> - [ ] 同义辨析：mission/task/assignment/duty
+> - [ ] 反义词群：aimlessness
+> - [ ] 形近词群：mission/missionary/missile/miss/missing

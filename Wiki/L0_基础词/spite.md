@@ -1,0 +1,165 @@
+---
+title: "spite"
+tags:
+  - 学习/英语/词汇
+  - 语义场/人本世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-23
+mastery: L0
+word_freq: 中频
+semantic_field: 人本世界
+prototype: 恶意对待，出于怨恨的行为
+extension_dim: 情感路径
+last_review: 2026-04-23
+review_count: 0
+---
+
+# spite
+
+> [!info] 基础信息
+> **音标** /spaɪt/ | **词频** 考研中频 | **语义场** [[人本世界]]
+
+## 核心释义
+
+**n.** ①==**恶意，怨恨**==；②==**（出于恶意的）行为**==；
+**conj.** ①==**尽管，虽然**==（in spite of）；
+
+> [!tip] 原型义
+> **原型义**：恶意对待，出于怨恨的行为
+> **延伸维度**：情感路径
+> **隐喻类型**：结构隐喻（"恶意伤害"→"不顾/尽管"——从负面情感到让步关系）
+
+## 词根词缀
+
+源自古法语 *despit*（蔑视、恶意），来自拉丁语 *despectus*（蔑视、俯视），是 *despicere*（向下看、蔑视）的过去分词。其中 [[de]]-（向下）+ *specere*（看，参见 [[spec-spect]]）。spite 在中古英语中失去了 de- 前缀，保留了核心含义"蔑视→恶意"。in spite of（尽管）的演变路径是："出于蔑视/不顾"→"尽管"——"我不在乎困难，尽管如此我还是要做"。
+**叙事**：spite 的核心画面是"一个人居高临下地蔑视别人，带着恶意"。拉丁语 *despicere* = 向下看 = 蔑视。中古英语中 spite 失去了 de- 前缀，保留了"恶意"的含义。in spite of 的原始含义是"出于蔑视"——我不在乎这些困难（蔑视它们），尽管如此我还是要做。She did it out of spite（她出于恶意做了这件事）= 她因为怨恨而做。cut off one's nose to spite one's face（因小失大）= 为了泄愤而伤害自己。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**恶意，出于怨恨的行为**"为统筹中心，沿情感路径向外扩展：
+>
+> 1. **蔑视/恶意**（情感层面）
+>    - → **恶意，怨恨**：对别人的恶意
+>      - 激活条件：out of spite, personal spite
+>    - → **（出于恶意的）行为**：恶意行为
+>      - 激活条件：an act of spite
+>    - → **尽管，虽然**（in spite of）："不顾/蔑视"困难
+>      - 激活条件：in spite of difficulties, in spite of the rain
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：spite 就是"恶意"——从蔑视到怨恨到"尽管"
+- **延伸中心**：从"恶意情感"延伸到让步关系"尽管"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"in spite of"能反向推导到"恶意/蔑视"——"尽管"就是"蔑视困难"
+> - [x] **可统筹**：一句话——"spite 就是从蔑视/恶意到'尽管'"
+> - [x] **有支撑**：out of spite, in spite of 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 恶意；恶意行为 | 核心词性 |
+> | conj. | 尽管（in spite of） | n→conj：固定搭配 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> spite 的核心画面是"一个人居高临下地蔑视别人"。拉丁语 *despicere* = 向下看 = 蔑视。spite 失去了 de- 前缀，保留了"恶意"的含义。in spite of = 尽管 = "我不在乎（蔑视）这些困难"。She did it out of spite（她出于恶意做了这件事）。cut off one's nose to spite one's face（割掉鼻子来泄愤——因小失大）。
+>
+> **词拆分记忆**（辅助）：
+> spite → s（死）+ pit（坑）→ 死也要拉人进坑 → 恶意/怨恨
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[malice]] | 恶意 | 强调故意伤害 | 行为、意图 | 强烈负面 |
+> | [[grudge]] | 怨恨 | 强调长期不满 | 人、事 | 负面 |
+> | [[despite]] | 尽管；蔑视 | 强调让步关系 | 困难、障碍 | 中性 |
+> | **spite** | 恶意；尽管 | 强调个人怨恨 | 行为、态度 | 负面/灵活 |
+
+> **"增"标记**：spite **(增-与in spite of的让步用法)** vs malice（基准词：一般恶意）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[goodwill]]：善意（spite 的精确反义：恶意↔善意）
+> - [[kindness]]：善意，善良（spite 的反义：恶意↔善良）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[despite]] | de- + spite（同源） | 尽管；蔑视 | 词源关联 |
+> | [[spiteful]] | spite + -ful | 怀有恶意的 | 词义补充 |
+> | [[spitefully]] | spite + -ful + -ly | 恶意地 | 词义补充 |
+> | [[despicable]] | [[de]]- + [[spec-spect]] + -able | 可鄙的 | 词源关联 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **in spite of**：尽管，虽然
+> - **out of spite**：出于恶意/怨恨
+> - **an act of spite**：恶意行为
+> - **cut off one's nose to spite one's face**：因小失大
+> - **spite oneself**：害了自己
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "In spite of the numerous challenges posed by globalization, many developing nations have managed to achieve remarkable economic growth through strategic policy reforms."（尽管全球化带来了诸多挑战，许多发展中国家通过战略性政策改革仍实现了显著的经济增长——考研阅读经济话题相关表达）
+> - "She refused to help him out of spite, even though she was fully capable of doing so, demonstrating how personal resentment can override rational judgment."（她出于恶意拒绝帮助他，尽管她完全有能力这样做，这表明个人怨恨如何能压倒理性判断——考研阅读心理话题相关表达）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：拉丁语 de- + specere（向下看→蔑视→恶意）
+> - [ ] 同义辨析：spite/malice/grudge/despite
+> - [ ] 反义词群：goodwill/kindness
+> - [ ] 形近词群：spite/despite/spiteful/spit

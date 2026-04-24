@@ -1,0 +1,172 @@
+---
+title: "underlying"
+tags:
+  - 学习/英语/词汇
+  - 语义场/基础与根源
+  - 掌握/L0
+aliases: []
+date: 2026-04-20
+mastery: L0
+word_freq: 高频
+semantic_field: 基础与根源
+prototype: 在表面之下支撑的
+extension_dim: 空间路径
+last_review: 2026-04-20
+review_count: 0
+---
+
+# underlying
+
+> [!info] 基础信息
+> **音标** /ˌʌndəˈlaɪɪŋ/ | **词频** 考研高频 | **语义场** [[基础与根源]]
+
+## 核心释义
+
+**adj.** ①==**根本的，基础的**==；②==**潜在的，隐含的**==；③==**表面下的，下层的**==；④==**实际的**==（指数量或水平）；
+
+> [!tip] 原型义
+> **原型义**：在表面之下支撑的（位于表面之下、构成基础的东西）
+> **延伸维度**：空间路径
+> **隐喻类型**：空间→抽象隐喻（物理上的"在表面之下"→抽象的"根本的/隐含的"）
+
+## 词根词缀
+
+**词源关联**：underlying 是 **underlie**（构成……的基础）的现在分词形式，由 **under-**（在下面）+ **lying**（lie 的现在分词，位于）组成。lie 源自古英语 *licgan*（躺、位于），来自 PIE *\*legh-*（躺下）。
+
+**叙事**：冰山露出海面的只是十分之一，**在表面之下**（underlying）隐藏着巨大的冰体——这就是 underlying 的核心画面。考研中 underlying 极其高频，常考"根本的"和"潜在的"两个意思：underlying principle（根本原则）、underlying problem（潜在问题）、underlying cause（根本原因）。记住：underlying 永远指向"表面之下更深层的东西"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**在表面之下支撑的**"为统筹中心，沿空间路径向外扩展：
+>
+> 1. **在表面之下支撑的**（物理空间层面）
+>    - → **表面下的/下层的**：物理上位于表面之下
+>      - 激活条件：描述地质、结构（underlying rock）
+> 2. **在表面之下支撑的**（空间→抽象层面）
+>    - → **根本的/基础的**：构成事物基础的核心要素
+>      - 激活条件：描述原则、原因、逻辑（underlying principle/cause/logic）
+>    - → **潜在的/隐含的**：不明显但存在的深层因素
+>      - 激活条件：分析问题、趋势（underlying problem/trend/assumption）
+>    - → **实际的**（数量/水平）：去除表面因素后的真实值
+>      - 激活条件：经济、金融语境（underlying inflation rate）
+
+### 统筹（选择适用的模式）
+
+- **空间→抽象统筹**：underlying 的核心意象是"在表面之下"，所有引申义都指向"更深层的真实"——无论是物理的下层、根本的原则、隐含的问题还是实际的数据，都是"表面之下更深层的东西"
+- **延伸中心**：从空间的"表面之下"出发，沿空间→抽象路径延伸到"根本/潜在"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"潜在问题"能反向推导到"表面之下"——潜在问题就是隐藏在表面之下的
+> - [x] **可统筹**：一句话统筹——"underlying 就是表面之下的，更深层的真实"
+> - [x] **有支撑**：underlying cause, underlying principle, underlying problem 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 根本的；潜在的；表面下的 | 核心词性（underlie 的现在分词作形容词） |
+> | v. | 位于……下面（underlie 的现在分词） | adj.←v：从动词分词演变为形容词 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> underlying 是 underlie（构成基础）的形容词形式——under（在下面）+ lying（躺着的）。想象冰山：你看到的只是冰山一角，**在表面之下**（underlying）才是真正巨大的部分。考研中 underlying 是高频词，记住三个核心搭配：underlying cause（根本原因）、underlying principle（根本原则）、underlying problem（潜在问题）。
+>
+> **词拆分记忆**（辅助）：
+> under（在下面）+ ly（躺）+ ing（正在）→ 正在下面躺着的 → 表面下的 → 根本的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[underlying]] | 表面之下的深层 | 强调"隐藏在表面之下的根本性" | 原因、原则、问题 | 中性/学术 |
+> | [[fundamental]] | 最基本的 | 强调"最重要、最基础的" | 原则、差异、权利 | 正式/积极 |
+> | [[basic]] | 基础的 | 强调"最简单、最初步的" | 知识、技能、需求 | 中性 |
+> | [[implicit]] | 隐含的 | 强调"未明说但暗含的" | 假设、意思、批评 | 中性 |
+>
+> **"增"标记**：underlying **(增-深层的隐藏感)** vs fundamental（基准词：最基本的）；underlying **(增-支撑表面的结构感)** vs implicit（基准词：隐含的）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[superficial]]：表面的（深层↔表面，精确反义）
+> - [[apparent]]：表面上的， apparent 的反义是 underlying）
+> - [[explicit]]：明确的（隐含↔明确）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[underlie]] | underlying 的动词原形 | 构成……的基础 | 词义补充 |
+> | [[underlay]] | underlie 的过去式 | 位于……之下 | 变形形式 |
+> | [[underlain]] | underlie 的过去分词 | 被构成基础的 | 变形形式 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **underlying cause/reason**：根本原因
+> - **underlying principle**：根本原则
+> - **underlying problem**：潜在问题
+> - **underlying assumption**：隐含假设
+> - **underlying trend**：潜在趋势
+> - **underlying logic**：内在逻辑
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The underlying cause of the problem is poverty."（这个问题的根本原因是贫困。）——考研阅读高频句式
+> - "We need to examine the underlying assumptions of this theory."（我们需要检验这一理论的隐含假设。）——学术类阅读
+> - "The underlying trend suggests that the economy is recovering."（潜在趋势表明经济正在复苏。）——经济类阅读
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：under-（在下面，空间方位前缀）
+> - [ ] 同义辨析：underlying/fundamental/basic/implicit
+> - [ ] 反义词群：superficial/apparent/explicit
+> - [ ] 形近词群：underline/underlie/understand
