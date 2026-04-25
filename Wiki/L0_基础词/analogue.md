@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ana-(=according to, 按照/类似) + [[log-lect-leg|log]](=ratio/proportion, 比例/逻辑) → 按比例对应 → 类似物
+[[ana|ana]]-(=according to, 按照/类似) + [[log-lect-leg|log]](=ratio/proportion, 比例/逻辑) → 按比例对应 → 类似物
 **叙事**：ana（按照）+ log（比例）→ 按照比例对应的东西 → 类似物。心脏像水泵，水泵就是心脏的 analogue。模拟信号（analogue signal）是连续变化的，与数字信号相对。analogue 就是"类似物"——按比例对应的另一事物。
 
 ---

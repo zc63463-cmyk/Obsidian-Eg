@@ -2,13 +2,13 @@
 title: "store"
 tags:
   - 学习/英语/词汇
-  - 语义场/储存
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 储存
+semantic_field: 抽象关系
 prototype: 储存（动作）
 extension_dim: 空间路径
 last_review: 2026-04-22
@@ -129,7 +129,7 @@ review_count: 0
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -137,7 +137,7 @@ review_count: 0
 > - [[spend]]：花费（把储存的东西用掉）
 > - [[waste]]：浪费（无意义地消耗储存）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

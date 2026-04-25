@@ -31,10 +31,9 @@ review_count: 0
 
 ## 词根词缀
 
-med-(=medius, 中间的，拉丁语 *medius*) + ev(=aevum, 时代/年龄，拉丁语 *aevum*) + -ial(形容词后缀)
+[[medi|med]]-(=medius, 中间的，拉丁语 *medius*) + ev(=aevum, 时代/年龄，拉丁语 *aevum*) + -ial(形容词后缀)
 **叙事**：med（中间）+ ev（时代）+ ial（的）→ **中间时代的** → 中世纪的。medieval 指的是欧洲历史上介于古典时代（古希腊罗马）和现代之间的那段"中间"时期。
 
-建议创建词根笔记 [[med-medius-]]（中间，拉丁语 *medius*）
 
 ---
 

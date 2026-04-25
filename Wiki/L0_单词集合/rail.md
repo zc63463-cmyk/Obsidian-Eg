@@ -2,13 +2,13 @@
 title: "rail"
 tags:
   - 学习/英语/词汇
-  - 语义场/交通建筑
+  - 语义场/物品工具
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 交通建筑
+semantic_field: 物品工具
 prototype: 横杆/栏杆
 extension_dim: 空间路径
 last_review: 2026-04-20

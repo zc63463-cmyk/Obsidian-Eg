@@ -114,7 +114,7 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 > - [[partly]]：部分地（大部分→部分）
 > - [[rarely]]：很少地（通常→很少）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

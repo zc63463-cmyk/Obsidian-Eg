@@ -2,13 +2,13 @@
 title: "chronic"
 tags:
   - 学习/英语/词汇
-  - 语义场/时间性质
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 时间性质
+semantic_field: 抽象关系
 prototype: 持续很长时间的（源自希腊语"时间"）
 extension_dim: 时间-程度扩展
 last_review: 2026-04-22

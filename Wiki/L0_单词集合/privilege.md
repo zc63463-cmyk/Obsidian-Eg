@@ -120,7 +120,7 @@ priv(个人) + [[leg]](法律) + -e(后缀) = privilege（关于个人的法律�
 > - [[right]]：权利（特权→普遍权利）
 > - [[disadvantage]]：不利条件（优待→不利）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

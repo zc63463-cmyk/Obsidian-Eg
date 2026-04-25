@@ -2,13 +2,13 @@
 title: "impatient"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-23
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 不在忍耐中的（无法继续等待的状态）
 extension_dim: 时间路径
 last_review: 2026-04-23
@@ -18,7 +18,7 @@ review_count: 0
 # impatient
 
 > [!info] 基础信息
-> **音标** /ɪmˈpeɪʃnt/ | **词频** 考研中频 | **语义场** [[行为态度]]
+> **音标** /ɪmˈpeɪʃnt/ | **词频** 考研中频 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -34,7 +34,6 @@ review_count: 0
 im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*) + -ent(形容词后缀，表示"处于……状态的")
 **叙事**：im（不）+ pat（忍受）+ ent（处于……状态的）→ 不处于忍耐状态的 → 不耐烦的。你等了太久，终于"不忍受了"——你 impatient 了。
 
-建议创建词根笔记 [[pati-patience]]（忍受/承受，拉丁语 *pati*）
 
 ---
 

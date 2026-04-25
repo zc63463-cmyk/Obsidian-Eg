@@ -35,7 +35,6 @@ review_count: 0
 juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……的）→ 属于年轻人的 → 青少年的
 **叙事**：juven（年轻）+ ile（属于……的）= juvenile（属于年轻人的→青少年的）。青少年犯罪——juvenile delinquency。形容一个成年人行为幼稚——in a juvenile manner。juvenile 从"青少年的"延伸到"幼稚的"——因为青少年就是"不成熟"的代名词。
 
-建议创建词根笔记 [[juven]]
 
 ---
 

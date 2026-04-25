@@ -34,7 +34,6 @@ review_count: 0
 radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 **叙事**：radio（辐射）+ active（活跃的）→ 持续活跃地辐射 → 放射性的。核电站里的物质就是 radioactive 的——它们一刻不停地向外辐射能量。
 
-建议创建词根笔记 [[radi]]
 
 ---
 

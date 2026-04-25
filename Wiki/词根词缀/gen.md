@@ -52,26 +52,3 @@ date: 2026-04-21
 | [[ethic]] | eth+ic=gen变体 | 伦理 |
 | [[individual]] | individ+ual=gen变体 | 个人 |
 | [[ethnic]] | ethn+ic=gen变体 | 种族的 |
-
-## 基础词
-
-> [!note]- L0_基础词关联
-> 以下基础词笔记引用了本词根，可通过词根线索辅助记忆：
-
-> [[degenerate]]：de（向下/偏离）+ gen（产生/品质）+ erate → 偏离原有的好品质 → degenerate。一场和平的示威退化成暴力 → The demonstration degenerated into violence。教育水平逐年下降 → Educational standards are degenerating year by year。一个原本文明的辩论退化成争吵 → The debate degenerated into a shouting match。
->
-> [[defeat]]：de（向下）+ fac（做）→ 把对手打倒 → defeat。在战场上把敌人打倒就是 defeat the enemy。在选举中把对手打倒就是 defeat a candidate。一个计划被打倒就是 defeat a plan（使计划失败）。The decision was an 8-0 defeat for the administration's effort（这一决定是对政府努力的8比0完败）。
->
-> [[defect]]：de（不够）+ fac（做）→ 做得不够好 → defect（缺陷）。产品做得不够好就是 a defect in the product（产品缺陷）。性格做得不够好就是 a character defect（性格缺陷）。对国家做得不够忠诚就是 defect to the enemy（叛逃到敌方）。All the company's aircraft have been grounded, after a defect in the engine cooling system was discovered（发动机冷却系统发现缺陷后，公司所有飞机已停飞）。
->
-> [[deficit]]：de（不够）+ fic（做）+ it → 做得不够 → deficit。国家的收入做得不够就是 budget deficit（预算赤字）。进出口做得不够平衡就是 trade deficit（贸易逆差）。比赛中得分做得不够就是 come back from a 2-0 deficit（从0:2落后扳回）。The trade balance has been in deficit for the past five years（过去五年来贸易状况一直是逆差）。
->
-> [[deficiency]]：de（不够）+ fic（做）+ iency（状态）→ 做得不够的状态 → deficiency。营养做得不够就是 vitamin deficiency（维生素缺乏）。能力做得不够就是 a deficiency in ability（能力不足）。There are thirteen or more vitamins, and if any is missing a deficiency disease becomes apparent（有十三种或更多种维生素，如果缺少任何一种，缺乏症就会变得明显——1996年考研完形填空）。
->
-> | 基础词 | 构词分析 | 核心释义 | 语义场 |
-> |--------|---------|---------|--------|
-> | [[degenerate]] | de（向下）+ gen（产生）+ -erate | 退化，恶化 | [[抽象关系]] |
-> | [[defeat]] | de（向下）+ fac（做，fac 与 gen 同义） | 击败，战胜 | [[社会习俗]] |
-> | [[defect]] | de（不足）+ fac（做，fac 与 gen 同义） | 缺陷，瑕疵 | [[抽象关系]] |
-> | [[deficit]] | de（不足）+ fic（做，fac 与 gen 同义）+ -it | 赤字，逆差 | [[资本经济]] |
-> | [[deficiency]] | de（不足）+ fic（做，fac 与 gen 同义）+ -iency | 缺乏，不足 | [[抽象关系]] |

@@ -2,13 +2,13 @@
 title: "culminate"
 tags:
   - 学习/英语/词汇
-  - 语义场/过程与变化
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 低频
-semantic_field: 过程与变化
+semantic_field: 人体动作
 prototype: 达到顶点，以...告终
 extension_dim: 时间路径
 last_review: 2026-04-22

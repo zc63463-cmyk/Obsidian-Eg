@@ -2,13 +2,13 @@
 title: "illustrate"
 tags:
   - 学习/英语/词汇
-  - 语义场/说明与展示
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 说明与展示
+semantic_field: 抽象关系
 prototype: 照亮，使明亮
 extension_dim: 抽象路径
 last_review: 2026-04-20

@@ -2,13 +2,13 @@
 title: "additional"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 附加的、额外的
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**附加的，额外的**；②补充的；
+**adj.** ①==**附加的，额外的**==；②补充的；
 
 > [!tip] 原型义
 > **原型义**：附加的、额外的（在已有基础上添加的）

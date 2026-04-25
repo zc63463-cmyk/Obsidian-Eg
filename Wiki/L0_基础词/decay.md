@@ -32,10 +32,9 @@ review_count: 0
 
 ## 词根词缀
 
-de-(向下，away) + cay/cad(掉落，拉丁语 *cadere*)
+[[de|de]]-(向下，away) + cay/cad(掉落，拉丁语 *cadere*)
 **叙事**：de（向下）+ cay（掉落）→ 向下掉落 → 腐烂、衰败。牙齿会 decay（龋齿），帝国会 decay（衰落），都是"向下掉落"的过程。
 
-建议创建词根笔记 [[cad-/cas-/cid-]]（掉落，拉丁语 *cadere*）
 
 ---
 

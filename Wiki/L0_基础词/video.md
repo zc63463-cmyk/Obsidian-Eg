@@ -2,13 +2,13 @@
 title: "video"
 tags:
   - 学习/英语/词汇
-  - 语义场/媒体技术
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 媒体技术
+semantic_field: 抽象关系
 prototype: 我看见的（通过电子技术捕捉和播放的动态影像）
 extension_dim: 技术→媒体
 last_review: 2026-04-22

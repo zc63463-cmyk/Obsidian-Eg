@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ob-(=against, 对着/反对) + [[st-sta-stat|st-/sta-]](stand, 站立) + -acle(名词后缀，表示物)
+[[ob|ob]]-(=against, 对着/反对) + [[st-sta-stat|st-/sta-]](stand, 站立) + -acle(名词后缀，表示物)
 **叙事**：ob（对着）+ st（站）+ acle（物）→ **一个站在你面前、挡住你去路的物体** → 障碍。想象一个人站在你面前，双手张开不让你过去——这就是 obstacle。
 
 ---

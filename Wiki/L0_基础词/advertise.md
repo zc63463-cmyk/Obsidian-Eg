@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ad-(=to, 朝向，见 [[ad]]) + vert(=转，拉丁语 *vertere*，见 [[ver-vert]]) + -ise(动词后缀，使……)
+ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，见 [[ver-vert]]) + -ise(动词后缀，使……)
 **叙事**：ad（朝向）+ vert（转）+ ise（使……）→ 使（注意力）转向 → 做广告、宣传。[[adverse]] 是"转向对面"→ 不利的，[[advertise]] 是"转向大众"→ 做广告。[[divert]] 是"转向一旁"→ 转移，[[convert]] 是"一起转"→ 转变。
 
 ---

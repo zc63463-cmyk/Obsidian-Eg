@@ -34,7 +34,6 @@ review_count: 0
 imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表示"属于……的")
 **叙事**：imper（命令/帝国）+ ial（属于……的）→ 属于帝国的 → 帝国的、皇帝的。拥有 imper（命令权）的人就是 emperor（皇帝），他的领地就是 empire（帝国），属于他的就是 imperial（帝国的）。imperial 体系延伸到度量衡就是"英制的"——imperial gallon（英制加仑）。
 
-建议创建词根笔记 [[imper]]（命令/帝国，拉丁语 *imperare*）
 
 ---
 

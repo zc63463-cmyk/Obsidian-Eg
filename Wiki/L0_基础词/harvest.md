@@ -33,7 +33,6 @@ review_count: 0
 ## 词根词缀
 
 harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名词后缀）。与 [[autumn]]（秋天）概念相关。
-建议创建词根笔记 [[harv-harvest]]（收割，古英语 *hærfest*）
 **叙事**：harvest 原本就是"秋天"的意思——秋天是收割的季节。农民 harvest the crops（收割庄稼），获得 harvest（收成）。后来引申为"收获成果"——reap the harvest of one's efforts（收获努力的成果）。
 
 ---

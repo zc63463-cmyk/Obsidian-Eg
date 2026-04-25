@@ -32,7 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-dia-(穿过/通过) + [[graph-gram|gram]](写/画/标记，希腊语 *gramma*)
+[[dia|dia]]-(穿过/通过) + [[graph-gram|gram]](写/画/标记，希腊语 *gramma*)
 **叙事**：dia（穿过）+ gram（写/画）→ 用线条穿过事物来标记 → 图解、示意图。就像你用线条穿过一个机器的各个部分，标出每个零件的位置——这就是 diagram。
 
 ---

@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-flu(流动，拉丁语 *fluere*)——influ(进入) + enza(名词后缀) → influenza → 缩写为 flu
+[[flu-flux|flu]](流动，拉丁语 *fluere*)——influ(进入) + enza(名词后缀) → influenza → 缩写为 flu
 **叙事**：flu 是 influenza（流行性感冒）的缩写。influenza 来自意大利语，原意是"星象影响下的体液流动"——古人认为疾病是星象导致体液失衡。flu 就是"流"出来的病。
 
 ---

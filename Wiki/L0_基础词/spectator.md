@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-spect-(看/观察，[[spec-spect]]) + -ator(名词后缀：表示做某事的人)
+[[spec-spect|spect]]-(看/观察，[[spec-spect]]) + -ator(名词后缀：表示做某事的人)
 **叙事**：spectator 来自拉丁语 *spectator*（观看者、旁观者），spect- = 看/观察（[[spec-spect]]），-ator = 表示人的后缀。核心逻辑是"看的人"→ "观众/旁观者"。spectators at a football match = 足球赛的观众。a spectator sport = 观赏性运动（适合观看的运动）。spectator 和 [[spectacle]]（奇观）同源——spectacle 是"被看的东西"，spectator 是"看的人"。与 [[audience]]（听众/观众）近义，但 spectator 更强调"看"而非"听"，多用于体育比赛等场合。
 
 ---

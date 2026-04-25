@@ -2,13 +2,13 @@
 title: "massive"
 tags:
   - 学习/英语/词汇
-  - 语义场/数量与规模
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 数量与规模
+semantic_field: 抽象关系
 prototype: 像面团一样巨大的团块
 extension_dim: 具身路径
 last_review: 2026-04-20

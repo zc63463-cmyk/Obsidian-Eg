@@ -2,13 +2,13 @@
 title: "socialism"
 tags:
   - 学习/英语/词汇
-  - 语义场/法律政治
+  - 语义场/政治法律
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 法律政治
+semantic_field: 政治法律
 prototype: 社会主义（制度/意识形态）
 extension_dim: 社会路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**社会主义**（一种社会与经济制度，主张生产资料公有制和社会财富公平分配）；
+**n.** ①==**社会主义**==（一种社会与经济制度，主张生产资料公有制和社会财富公平分配）；
 
 > [!tip] 原型义
 > **原型义**：以社会整体利益为核心的经济与政治制度

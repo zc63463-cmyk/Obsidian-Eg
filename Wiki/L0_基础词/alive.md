@@ -2,13 +2,13 @@
 title: "alive"
 tags:
   - 学习/英语/词汇
-  - 语义场/生命状态
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 生命状态
+semantic_field: 抽象关系
 prototype: 有生命的（活着的状态）
 extension_dim: 状态-隐喻扩展
 last_review: 2026-04-22

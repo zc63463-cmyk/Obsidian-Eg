@@ -32,7 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-sect(切，拉丁语 *secare*，"切割"，与 [[segment]]/[[sector]]/[[seam]] 同源) + -ion(名词后缀，表动作结果)
+[[sec-sect|sect]](切，拉丁语 *secare*，"切割"，与 [[segment]]/[[sector]]/[[seam]] 同源) + -ion(名词后缀，表动作结果)
 **叙事**：sect（切）+ -ion（结果）→ 切割后的结果 → 部分。一篇文章被"切"成几个 section（章节），一个组织被"切"成几个 section（部门），一根木头被"切"开后的面就是 cross-section（截面）。
 
 ---

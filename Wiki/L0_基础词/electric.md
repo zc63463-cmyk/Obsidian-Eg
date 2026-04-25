@@ -2,13 +2,13 @@
 title: "electric"
 tags:
   - 学习/英语/词汇
-  - 语义场/物理现象
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 物理现象
+semantic_field: 自然物理
 prototype: 琥珀（摩擦起电的神奇物质）
 extension_dim: 物质-能量-氛围
 last_review: 2026-04-22

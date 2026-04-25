@@ -2,13 +2,13 @@
 title: "update"
 tags:
   - 学习/英语/词汇
-  - 语义场/信息传递
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 信息传递
+semantic_field: 理性世界
 prototype: 使日期更新至最新
 extension_dim: 时间路径
 last_review: 2026-04-20

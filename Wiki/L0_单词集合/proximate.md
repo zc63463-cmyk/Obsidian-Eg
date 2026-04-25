@@ -2,13 +2,13 @@
 title: "proximate"
 tags:
   - 学习/英语/词汇
-  - 语义场/空间关系
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 考研中频
-semantic_field: 空间关系
+semantic_field: 自然物理
 prototype: 最接近的（在时间或空间上最近的）
 extension_dim: 空间路径
 last_review: 2026-04-22

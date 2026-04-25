@@ -2,13 +2,13 @@
 title: "interpret"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知思维
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 认知思维
+semantic_field: 理性世界
 prototype: 在两者之间传递（意义）
 extension_dim: 抽象路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # interpret
 
 > [!info] 基础信息
-> **音标** /ɪnˈtɜːprɪt/ | **词频** 考研高频 | **语义场** [[认知思维]]
+> **音标** /ɪnˈtɜːprɪt/ | **词频** 考研高频 | **语义场** [[理性世界]]
 
 %% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
 %% HERMES-L0: 语义场判定规则见 SKILL.md Step 3 %%
@@ -41,7 +41,7 @@ review_count: 0
 
 ## 词根词缀
 
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加[[链接]] %%
+%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
 %% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[price]] 同源)
@@ -130,7 +130,7 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -138,7 +138,7 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 > - [[misinterpret]]：误解，曲解（interpret 的反义：正确解释↔错误理解）
 > - [[distort]]：歪曲，扭曲（interpret 的反义：客观诠释↔主观歪曲）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

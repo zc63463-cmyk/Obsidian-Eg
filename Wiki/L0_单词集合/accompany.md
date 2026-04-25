@@ -8,7 +8,7 @@ aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 身体/动作→人体动作
+semantic_field: 人体动作
 prototype: 陪伴，伴随
 extension_dim: 社会路径
 last_review: 2026-04-21

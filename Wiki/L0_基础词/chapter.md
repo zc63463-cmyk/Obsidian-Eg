@@ -32,7 +32,6 @@ review_count: 0
 
 ## 词根词缀
 
-chapter 源自古法语 *chapitre*，源自拉丁语 *capitulum*（小头），是 *caput*（头）的指小词。[[cap]]（头/首）是同源词根。建议创建词根笔记 [[cap]]（头/首）。
 **叙事**：caput（头）→ capitulum（小头）→ chapter。一本书被分成很多"小头"→ 每个部分就是一个 chapter（章节）。人生也被分成不同的"小头"→ a new chapter of life（人生新篇章）。组织的分支机构也叫 chapter。
 
 ---

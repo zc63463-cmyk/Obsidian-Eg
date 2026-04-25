@@ -2,13 +2,13 @@
 title: "manner"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为与方式
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 行为与方式
+semantic_field: 人体动作
 prototype: 用手做事的方式
 extension_dim: 社会路径
 last_review: 2026-04-20

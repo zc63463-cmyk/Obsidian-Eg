@@ -2,13 +2,13 @@
 title: "thousand"
 tags:
   - 学习/英语/词汇
-  - 语义场/数词数量
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 数词数量
+semantic_field: 抽象关系
 prototype: 十个百（10×100 的大数单位）
 extension_dim: 数量规模
 last_review: 2026-04-22

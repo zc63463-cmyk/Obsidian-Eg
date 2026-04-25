@@ -2,13 +2,13 @@
 title: "mind"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 认知
+semantic_field: 理性世界
 prototype: 思考的能力（心智/头脑）
 extension_dim: 具身路径
 last_review: 2026-04-22

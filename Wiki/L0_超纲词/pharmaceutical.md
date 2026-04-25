@@ -1,0 +1,158 @@
+---
+title: "pharmaceutical"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-25
+mastery: L0
+word_freq: 中频
+semantic_field: 社会专业
+prototype: 与药物相关的
+extension_dim: 抽象路径
+last_review: 2026-04-25
+review_count: 0
+---
+
+# pharmaceutical
+
+> [!info] 基础信息
+> **音标** /ˌfɑːrməˈsuːtɪkl/ | **词频** 考研中频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**adj.** ①==**制药的，药学的**==；
+**n.** ①==**药物，药品**==；②制药公司；
+
+> [!tip] 原型义
+> **原型义**：与药物相关的
+> **延伸维度**：抽象路径
+> **隐喻类型**：无隐喻（字面义即核心义）
+
+## 词根词缀
+
+[[pharm]](药物) + [[ceut]](照料) + -ical(形容词后缀，与……有关的)
+**叙事**：pharmakon（希腊语"药物"）→ pharmaceutical（与药物相关的）。pharmaceutical industry 就是制药行业，pharmaceutical company 就是制药公司。pharmaceutical 的核心就是"药"——从研发到生产到销售的一切与药相关的事。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**与药物相关的**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **药物领域**（专业层面）
+>    - → **制药的，药学的**：与药物研发、生产相关的
+>      - 激活条件：pharmaceutical industry, pharmaceutical company
+>    - → **药物，药品**：作为名词指药品
+>      - 激活条件：pharmaceuticals, pharmaceutical products
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：pharmaceutical 就是"药"——制药的、药品、制药行业
+- **延伸中心**：从"制药行业"延伸到"药品本身"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"药品"能反向推导到"与药物相关的"——药品就是药物领域的产物
+> - [x] **可统筹**：一句话——"pharmaceutical 就是与药物相关的一切"
+> - [x] **有支撑**：pharmaceutical industry, pharmaceuticals 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 制药的，药学的 | 核心词性 |
+> | n. | 药物；制药公司 | adj→n：制药领域的产物→药物 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> 希腊语 pharmakon（药物）→ pharmaceutical。你去药店买的药就是 pharmaceutical product，生产这些药的公司就是 pharmaceutical company。整个制药行业就是 pharmaceutical industry。pharmaceutical 就是"药"的高级说法。
+>
+> **词拆分记忆**（辅助）：
+> pharmacy（药房）→ pharmaceutical（制药的）。pharmacy 是卖药的地方，pharmaceutical 是造药的。
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[medical]] | 医学的 | 强调整个医学领域 | 治疗、研究 | 中性/宏观 |
+> | [[drug]] | 药物 | 强调具体药品（最通用） | 药品、毒品 | 中性/通用 |
+> | **pharmaceutical** | 制药的；药品 | 强调制药行业和专业药品 | 行业、产品 | 中性/专业 |
+>
+> **"增"标记**：pharmaceutical **(增-行业专业性和正式感)** vs drug（基准词：一般药物）；pharmaceutical **(增-产业维度)** vs medical（基准词：医学领域）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - （无明显反义词，pharmaceutical 是特定领域术语）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[pharmacy]] | pharm(药物) + -acy(场所) | 药房，药学 | 词义补充（pharmaceutical 的词源基础） |
+> | [[pharmacist]] | pharmacy + -ist(人) | 药剂师 | 词义补充 |
+| | [[pharmacology]] | pharmaco(药物) + logy(学问) | 药理学 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **pharmaceutical industry**：制药行业
+> - **pharmaceutical company**：制药公司
+> - **pharmaceutical products**：药品
+> - **pharmaceutical research**：药物研究
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - The pharmaceutical industry invests billions in research and development each year.（制药行业每年在研发上投资数十亿）
+> - Many pharmaceuticals have side effects that patients should be aware of.（许多药品有患者应注意的副作用）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[pharm]]（药物）
+> - [ ] 同义辨析：pharmaceutical/medical/drug
+> - [ ] 形近词群：pharmaceutical/pharmacy/pharmacist/pharmacology

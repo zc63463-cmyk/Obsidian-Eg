@@ -117,7 +117,7 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 > - [[publicity]]：公开，公众关注（隐私→公开）
 > - [[exposure]]：暴露，曝光（私密→暴露）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

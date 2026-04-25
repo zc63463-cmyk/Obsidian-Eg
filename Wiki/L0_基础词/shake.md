@@ -2,13 +2,13 @@
 title: "shake"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 身体动作
+semantic_field: 人体动作
 prototype: 摇动（快速来回移动）
 extension_dim: 身体→物体→情感→信念
 last_review: 2026-04-22

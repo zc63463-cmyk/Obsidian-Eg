@@ -2,13 +2,13 @@
 title: "independence"
 tags:
   - 学习/英语/词汇
-  - 语义场/法律政治
+  - 语义场/政治法律
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 法律政治
+semantic_field: 政治法律
 prototype: 不依赖他人，自己决定自己的事
 extension_dim: 社会路径
 last_review: 2026-04-21

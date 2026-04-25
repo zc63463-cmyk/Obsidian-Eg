@@ -2,13 +2,13 @@
 title: "regulate"
 tags:
   - 学习/英语/词汇
-  - 语义场/秩序规则
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 秩序规则
+semantic_field: 抽象关系
 prototype: 按规则管理
 extension_dim: 抽象路径
 last_review: 2026-04-22

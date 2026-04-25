@@ -32,7 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-ad-(=to, 朝向，见 [[ad]]) + vent(=来，拉丁语 *venire*，见 [[ver-vert]]) + -ure(名词后缀，表示行为/结果)
+ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，见 [[ver-vert]]) + -ure(名词后缀，表示行为/结果)
 **叙事**：ad（朝向）+ vent（来）+ ure（行为/结果）→ 朝未知方向走来 → 冒险。[[advent]] 是"重要事物向我们走来"，[[adventure]] 是"我们向未知走去"。
 
 ---

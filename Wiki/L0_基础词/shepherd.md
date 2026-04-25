@@ -2,13 +2,13 @@
 title: "shepherd"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 羊群的保护者（看护和引导羊群的人）
 extension_dim: 角色路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # shepherd
 
 > [!info] 基础信息
-> **音标** /ˈʃepərd/ | **词频** 中频 | **语义场** [[行为态度]]
+> **音标** /ˈʃepərd/ | **词频** 中频 | **语义场** [[人本世界]]
 
 ## 核心释义
 

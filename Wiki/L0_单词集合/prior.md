@@ -119,7 +119,7 @@ review_count: 0
 > - [[subsequent]]：随后的，后来的（先前的→随后的）
 > - [[posterior]]：后面的，以后的（在前的→在后的）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

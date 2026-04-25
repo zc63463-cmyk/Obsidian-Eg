@@ -2,13 +2,13 @@
 title: "thirst"
 tags:
   - 学习/英语/词汇
-  - 语义场/生理感觉
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 生理感觉
+semantic_field: 抽象关系
 prototype: 因干燥而产生的口渴感
 extension_dim: 具身路径
 last_review: 2026-04-20

@@ -2,13 +2,13 @@
 title: "plain"
 tags:
   - 学习/英语/词汇
-  - 语义场/外观特征
+  - 语义场/物品工具
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 外观特征
+semantic_field: 物品工具
 prototype: 平坦的（没有起伏的表面）
 extension_dim: 感知路径
 last_review: 2026-04-22

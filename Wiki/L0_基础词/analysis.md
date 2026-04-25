@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ana-(=up, throughout, 彻底地) + [[lyt-lys|lys]](=loosen, 解开) + -is(名词后缀) → 彻底解开的结果 → 分析
+[[ana|ana]]-(=up, throughout, 彻底地) + [[lyt-lys|lys]](=loosen, 解开) + -is(名词后缀) → 彻底解开的结果 → 分析
 **叙事**：ana（彻底）+ lys（解开）+ is（名词）→ 彻底解开的结果 → analysis。[[analyse]] 是分析的动作，[[analysis]] 是分析的结果/报告。data analysis（数据分析），in the final analysis（归根结底）。复数形式为 analyses。analysis 就是"分析的结果"。
 
 建议创建词根笔记 [[lyt-lys]]

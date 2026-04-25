@@ -2,13 +2,13 @@
 title: "temporal"
 tags:
   - 学习/英语/词汇
-  - 语义场/时间概念
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 时间概念
+semantic_field: 抽象关系
 prototype: 与时间有关的
 extension_dim: 时间路径
 last_review: 2026-04-20

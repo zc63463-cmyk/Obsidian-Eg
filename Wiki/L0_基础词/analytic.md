@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ana-(=up, throughout, 彻底地) + [[lyt-lys|lyt]](=loosen, 解开) + -ic(形容词后缀，……的) → 彻底解开的 → 分析的
+[[ana|ana]]-(=up, throughout, 彻底地) + [[lyt-lys|lyt]](=loosen, 解开) + -ic(形容词后缀，……的) → 彻底解开的 → 分析的
 **叙事**：ana（彻底）+ lyt（解开）+ ic（的）→ 彻底解开的 → analytic。analytic thinking（分析性思维），analytic approach（分析方法），analytic philosophy（分析哲学）。analytic 就是"分析的"——用分解的方式来理解事物。
 
 建议创建词根笔记 [[lyt-lys]]

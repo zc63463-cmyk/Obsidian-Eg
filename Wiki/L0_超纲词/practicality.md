@@ -1,0 +1,158 @@
+---
+title: "practicality"
+tags:
+  - 学习/英语/词汇
+  - 语义场/理性世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-25
+mastery: L0
+word_freq: 低频
+semantic_field: 理性世界
+prototype: 实际性（与实际相关的特性）
+extension_dim: 抽象路径
+last_review: 2026-04-25
+review_count: 0
+---
+
+# practicality
+
+> [!info] 基础信息
+> **音标** /ˌpræktɪˈkæləti/ | **词频** 考研低频 | **语义场** [[理性世界]]
+
+## 核心释义
+
+**n.** ①==**实用性，实际性**==；②==**实际情况，实际事例**==；③实用的事物；
+
+> [!tip] 原型义
+> **原型义**：实际性（与实际相关的特性）
+> **延伸维度**：抽象路径
+> **隐喻类型**：无隐喻（抽象名词）
+
+## 词根词缀
+
+[[pract-prag]]（做/实践，希腊语 *prattein*）+ -ic（形容词后缀）+ -al（形容词后缀）+ -ity（名词后缀）= 与实践相关的特性→实用性
+**叙事**：pract（做/实践）→ practical（实际的）→ practicality（实用性/实际性）。理论再好也要考虑 practicality——能不能落地。in practice 和 in practicality 都强调"实际上"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**与实践相关的特性**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **实践性**（抽象层面）
+>    - → **实用性**：理论能否在实践中应用
+>      - 激活条件：the practicality of the plan
+>    - → **实际情况**：实际中的考量
+>      - 激活条件：for all practical purposes
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：practicality 就是"实际"——能不能用，实不实际
+- **延伸中心**：从"实践的特性"延伸到"实际考量"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：practicality = practical(实际的) + -ity(名词)，含义直接
+> - [x] **可统筹**：一句话——"practicality 就是考虑实际能不能用"
+> - [x] **有支撑**：the practicality of 为常见搭配
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 实用性；实际情况 | practical + -ity |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> practical（实际的）+ -ity（名词后缀）= practicality。一个方案再完美，也要考虑 practicality——能不能真正落地执行。就像买衣服，好看是理论，穿着舒服才是 practicality。
+>
+> **词拆分记忆**（辅助）：
+> practic(e)（实践）+ al + ity → 实践的性质→实用性
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[feasibility]] | 可行性 | 强调能否实现 | 计划、项目 | 中性/正式 |
+> | [[utility]] | 实用，效用 | 强调有用性 | 工具、方法 | 中性/经济 |
+> | **practicality** | 实用性 | 强调实际操作中的可用性 | 计划、理论 | 中性/通用 |
+
+>
+> **"增"标记**：practicality **(增-实际操作层面的考量)** vs feasibility（基准词：可行性）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[impracticality]]：不切实际（practicality 的精确反义）
+> - [[theory]]：理论（practicality 的反义：实际↔理论）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[practice]] | 基础词 | 实践；练习 | 词义补充 |
+> | [[practical]] | practic(e) + -al | 实际的，实用的 | 词义补充 |
+> | [[practically]] | practical + -ly | 实际上；几乎 | 词义补充 |
+> | [[impractical]] | im-(不) + practical | 不切实际的 | 词义补充（反义） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **the practicality of sth.**：……的实用性
+> - **for all practical purposes**：实际上
+> - **consider the practicality**：考虑实用性
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The practicality of the proposal must be carefully evaluated before implementation."（在实施之前，必须仔细评估该提案的实用性。）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[pract-prag]]（做/实践）
+> - [ ] 同义辨析：practicality/feasibility/utility
+> - [ ] 反义词群：impracticality/theory
+> - [ ] 形近词群：practicality/practical/practically/practice

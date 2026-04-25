@@ -2,13 +2,13 @@
 title: "give"
 tags:
   - 学习/英语/词汇
-  - 语义场/给予
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 给予
+semantic_field: 抽象关系
 prototype: 给予、交给
 extension_dim: 社会路径
 last_review: 2026-04-20

@@ -117,7 +117,7 @@ prud(= provident，有远见的/预见) + -ent(形容词后缀，……的) = pr
 > - [[reckless]]：鲁莽的，不顾后果的（谨慎→鲁莽）
 > - [[imprudent]]：不谨慎的，轻率的
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

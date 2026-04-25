@@ -2,13 +2,13 @@
 title: "neat"
 tags:
   - 学习/英语/词汇
-  - 语义场/外观描述
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 外观描述
+semantic_field: 抽象关系
 prototype: 整洁的（安排有序、干净利落的状态）
 extension_dim: 状态路径
 last_review: 2026-04-22

@@ -1,0 +1,159 @@
+---
+title: "destination"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-24
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 被确定要到达的地方
+extension_dim: 空间路径
+last_review: 2026-04-24
+review_count: 0
+---
+
+# destination
+
+> [!info] 基础信息
+> **音标** /ˌdestɪˈneɪʃn/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**n.** ①==**目的地，终点**==；②目标，目的；
+
+> [!tip] 原型义
+> **原型义**：被确定要到达的地方（拉丁语 *destinātiō*，[[de]]- "完全" + *stinare* "使固定"，与 [[st-sta-stat|stāre]] "站立" 同源）
+> **延伸维度**：空间路径
+> **隐喻类型**：结构隐喻（"被固定要到达的地方"→"人生/事业的目标"——空间终点→抽象目标）
+
+## 词根词缀
+
+[[de]]-（完全，彻底）+ stin（使固定，源自拉丁语 *stinare*，与 [[st-sta-stat|stāre]] "站立" 同源）+ -ation（名词后缀）
+**叙事**：de（完全）+ stin（固定）+ ation → **被完全固定下来的地方** → 目的地。你 de（完全）stin（固定）了你的旅行目的地，就是 destination。你 de（完全）stin（固定）了人生目标，destination 就是你的"人生目的地"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**被确定要到达的地方**"为统筹中心，沿空间路径向外扩展：
+>
+> 1. **被固定要到达的地方**（空间层面）
+>    - → **目的地，终点**：旅行/运输的终点
+>      - 激活条件：reach the destination, final destination
+>    - → **目标，目的**：抽象的终点
+>      - 激活条件：the ultimate destination of one's career
+
+### 统筹
+
+- **一字一词概括**：destination 就是"终点"——旅行的终点，人生的终点
+- **一句话统筹**：destination = de（完全）+ stin（固定）= 被完全确定要到达的地方
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"目标"能反向推导到"被固定要到达的地方"——目标就是抽象的"目的地"
+> - [x] **可统筹**：一句话——"destination 就是被固定要到达的地方（空间或抽象）"
+> - [x] **有支撑**：reach the destination / tourist destination 均为高频用法
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 目的地；目标 | 核心词性 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> destination = de（完全）+ stin（固定）+ ation。你把旅行计划 de（完全）stin（固定）下来，那个地方就是 destination（目的地）。destiny（命运）和 destination 同源——命运就是人生的"目的地"，被完全固定好的终点。
+>
+> **词拆分记忆**（辅助）：
+> desti（destiny 命运）+ nation（国家）→ 命运注定的国家 → 目的地
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[goal]] | 目标 | 强调努力的方向 | 人生、事业 | 正面 |
+> | [[target]] | 目标 | 强调具体的瞄准对象 | 销售、任务 | 中性 |
+> | **destination** | 目的地；目标 | 强调被确定要到达的终点 | 旅行、人生 | 中性/通用 |
+>
+> **"增"标记**：destination **(增-空间终点的具身感和"被固定"的确定性)** vs goal（基准词：目标）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[departure]]：出发地（destination 的反义：目的地↔出发地）
+> - [[origin]]：起点（destination 的反义：终点↔起点）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[destine]] | de- + stin + -e | 注定，预定 | 词义补充（destination 的动词形式） |
+> | [[destiny]] | de- + stin + -y | 命运 | 词义补充（同源词） |
+> | [[destined]] | destine + -ed | 注定的 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **reach/arrive at the destination**：到达目的地
+> - **final destination**：最终目的地
+> - **tourist destination**：旅游目的地
+> - **popular destination**：热门目的地
+> - **ultimate destination**：最终目标
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Paris remains one of the most popular tourist destinations in the world."（巴黎仍然是世界上最受欢迎的旅游目的地之一）
+> - "Education should not be seen as the destination but as the journey itself."（教育不应被视为终点，而应被视为旅程本身）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[st-sta-stat|stāre]]（站立，拉丁语，已有笔记）
+> - [ ] 同义辨析：destination/goal/target
+> - [ ] 反义词群：departure/origin
+> - [ ] 形近词群：destination/destine/destiny/destined

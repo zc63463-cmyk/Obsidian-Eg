@@ -2,13 +2,13 @@
 title: "forge"
 tags:
   - 学习/英语/词汇
-  - 语义场/器物工具
+  - 语义场/物品工具
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 器物工具
+semantic_field: 物品工具
 prototype: 在高温下锤打金属成形
 extension_dim: 具身路径
 last_review: 2026-04-21
@@ -23,7 +23,7 @@ review_count: 0
 ## 核心释义
 
 **v.** ①==**锻造，打制**（金属）；②伪造（文件、签名等）；③（经过努力）建立，形成（关系、联盟等）；
-**n.** ①铁匠铺，锻造车间；②锻造炉；
+**n.** ①==**铁匠铺，锻造车间**==；②锻造炉；
 
 > [!tip] 原型义
 > **原型义**：在高温下锤打金属成形

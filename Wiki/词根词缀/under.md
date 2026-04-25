@@ -38,14 +38,3 @@ date: 2026-04-21
 | [[ground]] | ground(与 under- 语义关联，地面/基础) | 地面，基础 |
 | [[statement]] | state(陈述) + -ment，与 under- 语义关联(understatement 轻描淡写) | 声明，陈述 |
 | [[estimate]] | estimate(与 under- 构成 underestimate) | 估计，估算 |
-
-## 基础词
-
-> [!note]- L0_基础词关联
-> 以下基础词笔记引用了本词根，可通过词根线索辅助记忆：
->
-> [[beneath]]：be-(加强) + neath(下面) → **在……下方**。be（加强）+ neath（下面）→ 在正下方。地面之下（beneath the ground），地位之下（marry beneath her），有失身份（beneath him）。beneath 就是"在下面"——空间下面→地位下面→不值得。
->
-> | 基础词 | 构词分析 | 核心释义 | 语义场 |
-> |--------|---------|---------|--------|
-> | [[beneath]] | be-(加强) + neath(下面，与under语义关联) | 在……下方，在……底下 | [[自然物理]] |

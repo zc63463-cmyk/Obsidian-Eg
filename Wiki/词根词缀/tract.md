@@ -50,20 +50,3 @@ date: 2026-04-21
 | [[trail]] | trail=tract变体 | 轨迹 |
 | [[content]] | con+tent=tract变体 | 内容 |
 | [[control]] | control=tract变体 | 控制 |
-
-## 基础词
-
-> [!note]- L0_基础词关联
-> 以下基础词笔记引用了本词根，可通过词根线索辅助记忆：
->
-> [[gallery]]：gallery 本身是整体词，来自意大利语"走廊"→ 画廊。想象一条长长的走廊，两侧挂满了名画——这就是 gallery。无常见词根拆分。
->
-> [[penetrate]]：per（穿透）+ 进入 → 完全穿透进去 → penetrate。刀穿透胸膛（penetrate his chest），寒风穿透夹克（penetrate his jacket），洞察问题的本质（penetrate the mystery）。
->
-> [[trench]]：trench 就是"切割"地面形成的沟。农民挖 trench 引水灌溉。士兵在 trench 里躲避炮火——trench warfare（战壕战）。海底也有 trench——ocean trench（海沟）。与 tract 有远源关联。
->
-> | 基础词 | 构词分析 | 核心释义 | 语义场 |
-> |--------|---------|---------|--------|
-> | [[gallery]] | 源自意大利语 *galleria*(走廊)，无常见词根拆分 | 画廊，美术馆 | [[物品工具]] |
-> | [[penetrate]] | [[per]](穿过) + [[tract]](拉/牵引) | 穿透，渗入 | [[人体动作]] |
-> | [[trench]] | 源自拉丁语 *truncare*(切断)，与 [[tract]] 有远源关联 | 沟渠，战壕 | [[自然物理]] |

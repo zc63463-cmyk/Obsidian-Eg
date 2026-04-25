@@ -34,7 +34,6 @@ review_count: 0
 源自拉丁语 fabulosus（充满故事的、寓言的），是 fabula（故事、寓言）的形容词形式。fabula 来自 fari（说、讲述），来自 PIE 词根 \*bha-（说、讲述）。fabulosus 的字面义是"像寓言一样的"。
 **叙事**：fab（说）→ fabula（寓言）→ fabulosus（寓言般的）→ fabulous。最初指"寓言中的、传说中的"，比如 fabulous heroes（传说中的英雄）。后来因为寓言里的东西往往非常神奇、极好，fabulous 就引申为"极好的、绝妙的"——好到像寓言里才有的。口语中常说 "That's fabulous!"（太棒了！）。与 [[fable]] 同源。
 
-建议创建词根笔记 [[fab-fari]]（说/讲述，PIE \*bha-）
 
 ---
 

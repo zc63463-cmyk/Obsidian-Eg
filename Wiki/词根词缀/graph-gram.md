@@ -29,23 +29,3 @@ date: 2026-04-21
 | [[demographic]] | graph-/gram- | 人口统计的 |
 | [[glamour]] | graph-/gram- | 魅力，诱惑力 |
 | [[plot]] | graph-/gram- | 情节，阴谋 |
-
-## 基础词
-
-> [!note]- L0_基础词关联
-> 以下基础词笔记引用了本词根，可通过词根线索辅助记忆：
-
-> [[geography]]：geo（地球）+ graph（写）+ y（名词后缀）→ 写地球 → 描述地球表面的学科 → 地理学。geo- 出现在 geology（地质学）、geometry（几何学）中。
->
-> [[graphic]]：graph（写、画）+ ic（与……有关的）→ 与画画有关的 → 图形的。graphic description 就是像画一样生动的描述。graphic violence 就是画面感太强的暴力——生动到让人不适。
->
-> [[graph]]：graph 就是"写、画"的意思。用线条画出数据就是 graph（图表），用线条画出关系就是 graph（关系图）。graph 本身就是"画出来的东西"。
->
-> [[telegraph]]：tele（远处的城市）+ graph（写下信息）→ **从远处写** → 电报。19世纪人们想快速传递信息，于是发明了 telegraph——不用信使跑腿，用电信号在远处"写下"文字。
->
-> | 基础词 | 构词分析 | 核心释义 | 语义场 |
-> |--------|---------|---------|--------|
-> | [[geography]] | geo-(地球) + [[graph-gram\|graph]](写/记录) + -y | 地理学 | [[理性世界]] |
-> | [[graphic]] | [[graph-gram]](写，画) + -ic(形容词后缀) | 图表的，图形的 | [[理性世界]] |
-> | [[graph]] | [[graph-gram]](写，画，源自希腊语 *graphein*) | 图表，曲线图 | [[理性世界]] |
-> | [[telegraph]] | tele-(远) + [[graph-gram\|graph]](写) | 电报 | [[物品工具]] |

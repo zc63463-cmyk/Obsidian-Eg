@@ -2,13 +2,13 @@
 title: "credit"
 tags:
   - 学习/英语/词汇
-  - 语义场/社会制度
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 社会制度
+semantic_field: 社会习俗
 prototype: 信任给予（将信任给予某人/某机构）
 extension_dim: 社会路径
 last_review: 2026-04-22
@@ -42,7 +42,7 @@ review_count: 0
 
 ## 词根词缀
 
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加[[链接]] %%
+%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
 %% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
@@ -133,7 +133,7 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -141,7 +141,7 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 > - [[discredit]]：使不信，败坏名声（credit 的精确反义：信任↔不信）
 > - [[debit]]：借方（credit 的会计反义：贷方↔借方）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

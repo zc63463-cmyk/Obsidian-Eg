@@ -2,13 +2,13 @@
 title: "chief"
 tags:
   - 学习/英语/词汇
-  - 语义场/社会角色
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 社会角色
+semantic_field: 社会习俗
 prototype: 头部/顶端（最高的位置）
 extension_dim: 地位-范围扩展
 last_review: 2026-04-22

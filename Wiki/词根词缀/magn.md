@@ -36,14 +36,3 @@ date: 2026-04-21
 | [[master]] | magis(更大，magn-比较级) + -ter(比较级后缀) | 大师，主人 |
 | [[masterpiece]] | master(大师) + piece(作品) | 杰作，代表作 |
 | [[maximum]] | max-(magn-最高级) + -imum(最高级后缀) | 最大值，最大的 |
-
-## 基础词
-
-> [!note]- L0_基础词关联
-> 以下基础词笔记引用了本词根，可通过词根线索辅助记忆：
->
-> [[majesty]]：maj（大，magn- 的变体）+ esty（名词后缀）→ 伟大的状态 → **威严/陛下**。Your Majesty = 陛下。the majesty of the mountains = 群山的壮丽。magn-（大）→ maj-（大）→ majesty（伟大/威严）。
->
-> | 基础词 | 构词分析 | 核心释义 | 语义场 |
-> |--------|---------|---------|--------|
-> | [[majesty]] | magn(=maj-, 大/伟大) + -est(最高级) + -y | 威严，庄严 | [[社会习俗]] |

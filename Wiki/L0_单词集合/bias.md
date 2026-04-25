@@ -8,7 +8,7 @@ aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 科学/逻辑→理性世界
+semantic_field: 理性世界
 prototype: 偏见，偏差
 extension_dim: 抽象路径
 last_review: 2026-04-21

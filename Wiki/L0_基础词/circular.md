@@ -32,8 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-circ-(圆，环) + -ular(形容词后缀，表示"……形状的")
-**叙事**：circ（圆）+ ular（……形状的）→ 圆形的。圆形的东西是 circular 的，循环的逻辑是 circular reasoning（循环论证），传阅一圈的文件是 circular（传单）。建议创建词根笔记 [[circ]]。
+[[circ|circ]]-(圆，环) + -ular(形容词后缀，表示"……形状的")
 
 ---
 

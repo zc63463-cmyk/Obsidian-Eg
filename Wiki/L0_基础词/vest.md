@@ -35,7 +35,6 @@ review_count: 0
 vest（拉丁语 *vestis* 衣服，*vestire* 穿衣）
 **叙事**：vest 原义就是"衣服"。穿在身上的贴身衣物就是 vest（背心/内衣）。后来，法律上把"权利"也像衣服一样"穿"在人身上——权力 vested in somebody（权力归属于某人）。vest 就是"穿上"——穿上衣服叫 vest，穿上权利叫"授予"。
 
-建议创建词根笔记 [[vest]]
 
 ---
 

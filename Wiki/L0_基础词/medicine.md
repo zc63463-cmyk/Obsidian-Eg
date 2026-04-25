@@ -34,7 +34,6 @@ review_count: 0
 medic(=medicus, 医治，拉丁语 *medicus*) + -ine(名词后缀)
 **叙事**：medic（医治）+ ine（名词）→ **治病的手段** → 药物、医学。medicine 既是治病的"药"，也是研究治病的"医学"。
 
-建议创建词根笔记 [[med-medico-]]（医治，拉丁语 *medicus*）
 
 ---
 

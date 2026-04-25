@@ -2,13 +2,13 @@
 title: "folk"
 tags:
   - 学习/英语/词汇
-  - 语义场/文化日常
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 文化日常
+semantic_field: 社会习俗
 prototype: 属于某一共同群体的普通民众
 extension_dim: 社会路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**人们，人们（泛指）**；②（复数 folks）家属，亲戚；③ folk 民间音乐，民谣；**adj.** ①民间的，传统民俗的；
+**n.** ①==**人们，人们（泛指）**==；②（复数 folks）家属，亲戚；③ folk 民间音乐，民谣；**adj.** ①民间的，传统民俗的；
 
 > [!tip] 原型义
 > **原型义**：属于同一族群或社区的普通人

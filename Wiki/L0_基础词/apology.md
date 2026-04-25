@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-apo-(离开/远离) + log(说话，词根 [[lect-leg|leg-/log-]]) + -y(名词后缀)
+apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) + -y(名词后缀)
 **叙事**：apo（远离）+ log（说话）+ y（名词）→ **说出话来远离指责** → 道歉。[[apologize]] 是动词"道歉"，[[apology]] 是名词"道歉"。你做错了事，需要说一些话来让自己远离责怪——这就是 apology。
 
 ---

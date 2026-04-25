@@ -34,7 +34,6 @@ review_count: 0
 tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的，形容词后缀）。与 [[tax]]（评估/征税，原义"触摸/估价"）、[[tactic]]（战术，来自"排列/触摸"）、[[contact]]（接触）同源于原始印欧语 *\*tag-*（触摸、处理）。
 **叙事**：拉丁语 *tangere* 就是"触摸"——你能用手触摸到的东西就是 tangible（有形的）。一本书是 tangible 的，但一个想法是 intangible（无形的）。后来 tangible 从"可触摸的"延伸到"确凿真实的"——tangible evidence（确凿的证据）就是你能"触摸到"的、实实在在的证据。tangible results（切实的成果）就是你能感受到的实际效果。tangible 的核心就是"实实在在的"。
 
-建议创建词根笔记 [[tang-tag]]（触摸/处理）
 
 ---
 

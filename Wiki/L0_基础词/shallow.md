@@ -2,13 +2,13 @@
 title: "shallow"
 tags:
   - 学习/英语/词汇
-  - 语义场/空间特征
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 空间特征
+semantic_field: 自然物理
 prototype: 浅（深度不够）
 extension_dim: 物理→思维→情感
 last_review: 2026-04-22

@@ -2,13 +2,13 @@
 title: "shampoo"
 tags:
   - 学习/英语/词汇
-  - 语义场/日常生活
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 日常生活
+semantic_field: 社会习俗
 prototype: 按摩（用手揉搓按压）
 extension_dim: 动作→产品
 last_review: 2026-04-22

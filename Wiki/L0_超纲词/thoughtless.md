@@ -1,0 +1,160 @@
+---
+title: "thoughtless"
+tags:
+  - 学习/英语/词汇
+  - 语义场/人本世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-25
+mastery: L0
+word_freq: 中频
+semantic_field: 人本世界
+prototype: 不考虑别人的（缺乏思考的）
+extension_dim: 社会路径
+last_review: 2026-04-25
+review_count: 0
+---
+
+# thoughtless
+
+> [!info] 基础信息
+> **音标** /ˈθɔːtləs/ | **词频** 考研中频 | **语义场** [[人本世界]]
+
+## 核心释义
+
+**adj.** ①==**不顾及他人的，自私的**==；②欠考虑的，轻率的；③无思想的；
+
+> [!tip] 原型义
+> **原型义**：不考虑别人的（缺乏思考的）
+> **延伸维度**：社会路径
+> **隐喻类型**：无隐喻（本义即为描述人的行为特征）
+
+## 词根词缀
+
+thought（思考）+ -less（没有…的，否定后缀）。
+**叙事**：thought（思考）+ -less（没有）→ 没有经过思考的 → 不顾及他人的。一个 thoughtless 的人说话做事不考虑别人的感受——a thoughtless remark（一句不顾及他人的话）。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**不考虑别人的**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **不考虑别人的**（社交层面）
+>    - → **欠考虑的，轻率的**：从不顾及他人到做事不经过思考
+>      - 激活条件：a thoughtless decision, a thoughtless act
+>    - → **无思想的**：完全缺乏思考
+>      - 激活条件：a thoughtless existence
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：thoughtless 就是"没脑子"——没考虑别人、没经过思考、没有思想
+- **延伸中心**：从"不顾及他人"延伸到"欠考虑"再到"无思想"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"欠考虑的决定"能反向推导到"没有思考"——没经过思考就是 thoughtless
+> - [x] **可统筹**：一句话——"thoughtless 就是缺乏思考，无论是对他人还是对事情"
+> - [x] **有支撑**：thoughtless remark, thoughtless decision 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 不顾及他人的；欠考虑的 | thought + -less，"没有思考的" |
+> | n. | (thought) 思想；思考 | 核心名词，thoughtless 的词根 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> thought（思考）+ -less（没有）= thoughtless（没有思考的）。你在别人面前说了一句 thoughtless remark（欠考虑的话），伤了别人的心——因为你"没有思考"别人的感受。
+>
+> **词拆分记忆**（辅助）：
+> thought（思考）+ less（没有）→ 没有经过思考 → 欠考虑的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[inconsiderate]] | 不顾及他人的 | 强调不考虑他人感受 | 行为、言语 | 贬义 |
+> | [[careless]] | 粗心的，不小心的 | 强调缺乏注意 | 工作、行为 | 贬义/轻度 |
+> | [[reckless]] | 鲁莽的，不顾后果的 | 强调不顾危险后果 | 行为、决定 | 强烈贬义 |
+> | **thoughtless** | 不顾及他人的；欠考虑的 | 强调缺乏思考（最通用） | 言语、行为、决定 | 贬义/通用 |
+
+> **"增"标记**：thoughtless **(增-社交伤害的微妙性)** vs reckless（基准词：不顾后果）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[thoughtful]]：体贴的，深思熟虑的（thoughtless 的精确反义：不考虑↔体贴）
+> - [[considerate]]：顾及他人的（thoughtless 的反义：不顾及↔顾及）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[thought]] | 原词 | 思想；思考 | 词义补充（thoughtless 的词根） |
+> | [[thoughtful]] | thought + -ful(充满) | 体贴的；深思的 | 词义补充（精确反义） |
+> | [[thoughtfully]] | thoughtful + -ly | 体贴地；深思地 | 词义补充 |
+> | [[thoughtlessness]] | thoughtless + -ness | 不体贴；欠考虑 | 词义补充（名词形式） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **a thoughtless remark**：一句欠考虑的话
+> - **a thoughtless decision**：一个轻率的决定
+> - **thoughtless behavior**：不顾及他人的行为
+> - **thoughtless of someone to do**：某人做某事真是不体贴
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "It was thoughtless of him to forget her birthday."（他忘了她的生日，真是太不体贴了）
+> - "A thoughtless comment can cause lasting damage to a relationship."（一句欠考虑的话可能对关系造成持久的伤害）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 同义辨析：thoughtless/inconsiderate/careless/reckless
+> - [ ] 反义词群：thoughtful/considerate
+> - [ ] 形近词群：thoughtless/thoughtful/thought/thought

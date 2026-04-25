@@ -2,13 +2,13 @@
 title: "persevere"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-23
 mastery: L0
 word_freq: 低频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 始终严格站立
 extension_dim: 时间路径
 last_review: 2026-04-23
@@ -18,7 +18,7 @@ review_count: 0
 # persevere
 
 > [!info] 基础信息
-> **音标** /ˌpɜːsɪˈvɪə(r)/ | **词频** 考研低频 | **语义场** [[行为态度]]
+> **音标** /ˌpɜːsɪˈvɪə(r)/ | **词频** 考研低频 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-per-(贯穿/始终) + [[sper|sever]](严格，拉丁语 *severus*) → 始终严格 → 坚持不懈
+[[per|per]]-(贯穿/始终) + [[sper|sever]](严格，拉丁语 *severus*) → 始终严格 → 坚持不懈
 **叙事**：per（始终）+ severe（严格）→ 始终严格要求自己 → 坚持不懈。Despite a number of setbacks, they persevered in their attempts to fly around the world in a balloon——虽屡遭挫折，他们仍不断尝试乘气球环游世界。
 
 ---

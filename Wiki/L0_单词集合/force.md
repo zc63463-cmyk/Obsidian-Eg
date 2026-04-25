@@ -2,13 +2,13 @@
 title: "force"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 身体动作
+semantic_field: 人体动作
 prototype: 使用体力推动或对抗
 extension_dim: 具身路径
 last_review: 2026-04-21
@@ -23,7 +23,7 @@ review_count: 0
 ## 核心释义
 
 **n.** ①==**力，力量**；②武力，暴力；③影响力，说服力；④军队，部队；（the forces）武装力量；
-**v.** ①强迫，迫使；②强行（打开、推动等）；
+**v.** ①==**强迫，迫使**==；②强行（打开、推动等）；
 
 > [!tip] 原型义
 > **原型义**：使用体力推动或对抗

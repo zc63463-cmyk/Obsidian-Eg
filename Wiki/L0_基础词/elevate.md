@@ -2,13 +2,13 @@
 title: "elevate"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 身体动作
+semantic_field: 人体动作
 prototype: 向上举起（把东西抬到更高的位置）
 extension_dim: 物理-地位-品质
 last_review: 2026-04-22

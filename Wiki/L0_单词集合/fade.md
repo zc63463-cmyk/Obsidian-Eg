@@ -2,13 +2,13 @@
 title: "fade"
 tags:
   - 学习/英语/词汇
-  - 语义场/变化与消逝
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 变化与消逝
+semantic_field: 人体动作
 prototype: 颜色逐渐变淡、失去光泽
 extension_dim: 时间路径
 last_review: 2026-04-20

@@ -35,7 +35,6 @@ review_count: 0
 源自拉丁语 *juvenior*（较年轻的），是 *iuvenis*（年轻的）的比较级形式。juven-（年轻）+ -ior（拉丁语比较级后缀）→ 较年轻的 → junior
 **叙事**：juven（年轻）+ ior（比较级后缀）= junior（较年轻的）。年纪较小的人——junior member。资历较浅的员工——junior staff。美国大学三年级学生——junior（因为大四是 senior，大三就是"较年轻"的）。junior 就是"较年轻的、资历较浅的"。
 
-建议创建词根笔记 [[juven]]
 
 ---
 

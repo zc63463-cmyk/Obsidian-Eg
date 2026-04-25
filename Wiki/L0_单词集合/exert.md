@@ -117,7 +117,7 @@ ex-(向外) + [[sert]](放置、结合) = exert（向外放置→施加力量）
 > - [[relax]]：放松、缓和（exert oneself 的反义——不再用力）
 > - [[yield]]：屈服、让步（exert pressure 的反义——不再施压）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

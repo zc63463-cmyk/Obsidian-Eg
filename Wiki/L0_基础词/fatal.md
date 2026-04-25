@@ -34,7 +34,6 @@ review_count: 0
 fat-/fate(命运，拉丁语 *fatum*) + -al(形容词后缀，...的)
 **叙事**：fat（命运）+ -al（...的）→ 命运决定的 → 致命的。命运决定的事不可更改，尤其是死亡——所以 fatal 的核心含义是"致命的"。a fatal accident = 致命的事故，a fatal flaw = 致命的缺陷（像命运一样不可挽回的缺陷）。
 
-建议创建词根笔记 [[fat-/fam-/fan-/fess-]]（说/预言，拉丁语 *fari*）
 
 ---
 

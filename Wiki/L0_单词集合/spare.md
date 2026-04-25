@@ -2,13 +2,13 @@
 title: "spare"
 tags:
   - 学习/英语/词汇
-  - 语义场/节约与多余
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 节约与多余
+semantic_field: 抽象关系
 prototype: 节省、克制使用
 extension_dim: 社会路径
 last_review: 2026-04-20

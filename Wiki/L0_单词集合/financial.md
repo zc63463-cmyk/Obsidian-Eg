@@ -2,13 +2,13 @@
 title: "financial"
 tags:
   - 学习/英语/词汇
-  - 语义场/经济金融
+  - 语义场/资本经济
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 经济金融
+semantic_field: 资本经济
 prototype: 与资金的终结（结算）相关的
 extension_dim: 抽象路径
 last_review: 2026-04-20

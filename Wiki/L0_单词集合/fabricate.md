@@ -2,13 +2,13 @@
 title: "fabricate"
 tags:
   - 学习/英语/词汇
-  - 语义场/制造与创造
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 制造与创造
+semantic_field: 抽象关系
 prototype: 在作坊中手工制作
 extension_dim: 具身路径
 last_review: 2026-04-20

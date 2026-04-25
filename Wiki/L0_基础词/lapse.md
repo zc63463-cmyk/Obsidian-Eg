@@ -35,7 +35,6 @@ review_count: 0
 源自拉丁语 *lapsus*（滑落，*labi* 的过去分词）
 **叙事**：lapse 的核心是"滑落"——注意力滑落了就是"失误"（a lapse of concentration），时间滑走了就是"流逝"（the lapse of time），合同滑出了有效期就是"失效"（the contract lapsed）。一切 lapse 都是从正常状态"滑落"出去。
 
-建议创建词根笔记 [[lab-laps]]（滑落，拉丁语 *labi*）
 
 ---
 

@@ -2,13 +2,13 @@
 title: "pint"
 tags:
   - 学习/英语/词汇
-  - 语义场/度量单位
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 度量单位
+semantic_field: 抽象关系
 prototype: 少量液体（手指能捏住的量）
 extension_dim: 容量-饮品-微量
 last_review: 2026-04-22

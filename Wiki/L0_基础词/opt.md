@@ -33,7 +33,6 @@ review_count: 0
 
 源自拉丁语 *optare*（选择），与 [[optical]]（视觉的/光学的）、[[optimal]]（最优的）同源。原始印欧语 *\*op-*（选择/看见）。
 **叙事**：opt 原义是"选择"→ **选择/决定**。opt 的核心用法是 opt for（选择……）和 opt out（选择退出）。考研常考 opt out of（选择不参与）。与 [[optical]]（视觉的）同源——选择（opt）需要先"看见"（optical）选项。
-建议创建词根笔记 [[opt]]
 
 ---
 

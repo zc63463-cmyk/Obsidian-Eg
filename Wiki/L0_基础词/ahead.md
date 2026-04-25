@@ -2,13 +2,13 @@
 title: "ahead"
 tags:
   - 学习/英语/词汇
-  - 语义场/空间方向
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 空间方向
+semantic_field: 自然物理
 prototype: 在前面（空间上的前方位置）
 extension_dim: 空间→时间→优势
 last_review: 2026-04-22

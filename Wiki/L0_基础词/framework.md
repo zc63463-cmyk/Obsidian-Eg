@@ -1,0 +1,165 @@
+---
+title: "framework"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-24
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 支撑整体的基本结构框架
+extension_dim: 抽象路径
+last_review: 2026-04-24
+review_count: 0
+---
+
+# framework
+
+> [!info] 基础信息
+> **音标** /ˈfreɪmwɜːk/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**n.** ①==**框架，体系**==；②（社会的）基本结构；③参照系，准则；
+
+> [!tip] 原型义
+> **原型义**：支撑整体的基本结构框架
+> **延伸维度**：抽象路径
+> **隐喻类型**：结构隐喻（将"建筑框架"比作"理论框架"、"法律框架"、"社会框架"）
+
+## 词根词缀
+
+[[frame]]（框架）+ work（工作/结构）→ 框架的工作结构 → 体系/框架。frame 源自古英语 *framian*（建造），work 源自古英语 *weorc*（工作/建造）。
+**叙事**：frame（框架）+ work（工作/结构）→ 建造一个理论需要先搭 framework（理论框架）。一个社会有它的 legal framework（法律框架）和 social framework（社会框架）。framework 就是"支撑整体的基本结构"——像建筑的骨架一样，支撑着上面的一切。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**支撑整体的基本结构框架**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **支撑整体的基本结构框架**（结构层面）
+>    - → **框架，体系**：支撑理论/计划的基本结构
+>      - 激活条件：theoretical framework, conceptual framework
+>    - → **（社会的）基本结构**：支撑社会运行的框架
+>      - 激活条件：legal framework, institutional framework
+>    - → **参照系，准则**：评判事物的框架
+>      - 激活条件：a framework for understanding, within the framework of
+
+### 统筹（选择适用的模式）
+
+- **延伸中心**：从"物理框架"延伸到"理论框架"、"法律框架"和"参照系"
+- **一字一词概括**：framework 就是"框架体系"——支撑一切的基本结构
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"参照系"能反向推导到"基本结构框架"——参照系就是评判事物的框架
+> - [x] **可统筹**：一句话——"framework 就是支撑整体的基本结构，无论是理论、法律还是评判标准"
+> - [x] **有支撑**：theoretical framework, legal framework, within the framework of 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 框架；基本结构；参照系 | 唯一词性，[[frame]] + work 的复合名词 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> framework = frame（框架）+ work（工作/结构）→ 框架的工作结构。建房子需要 framework（建筑框架），建理论需要 theoretical framework（理论框架），管理社会需要 legal framework（法律框架）。记住：framework = 框架体系 = 支撑一切的基本结构。
+>
+> **词拆分记忆**（辅助）：
+> frame（框架）+ work（工作）→ 框架的工作体系 → 体系/框架
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[structure]] | 结构 | 强调整体的构造方式 | 社会、组织、语言 | 中性/正式 |
+> | [[system]] | 体系，系统 | 强调各部分之间的关联和运作 | 教育、法律、经济 | 中性 |
+> | [[frame]] | 框架 | 强调"围绕和支撑"，可做动词 | 建筑、画、计划 | 中性/通用 |
+> | **framework** | 框架，体系 | 强调"支撑整体的基本结构"，最抽象 | 理论、法律、政策、社会 | 正式/中性 |
+>
+> **"增"标记**：framework **(增-抽象性和体系感)** vs frame（基准词：框架）；framework **(增-强调支撑功能而非具体构造)** vs structure（基准词：结构）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[content]]：内容（framework 的精确反义：框架↔内容）
+> - [[detail]]：细节（framework 的反义：框架↔细节）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[frame]] | 核心词 | 框架；制定；陷害 | 词义补充（framework 的核心成分） |
+> | [[framing]] | frame + -ing | 框架构建 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **theoretical/conceptual framework**：理论/概念框架
+> - **legal/regulatory framework**：法律/监管框架
+> - **within the framework of**：在……的框架内
+> - **a framework for**：……的框架（a framework for cooperation）
+> - **institutional framework**：制度框架
+> - **establish a framework**：建立框架
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The research was conducted within the framework of modern linguistic theory."（这项研究是在现代语言学理论的框架内进行的。）
+> - "A robust legal framework is essential for protecting intellectual property rights."（健全的法律框架对于保护知识产权至关重要。）
+> - framework 是考研学术、法律、政策类阅读的高频词
+
+---
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[form]]（形状/形式/塑造，与 frame 远源同根）
+> - [ ] 同义辨析：framework/structure/system/frame
+> - [ ] 反义词群：content/detail
+> - [ ] 形近词群：framework/frame/frank/franchise

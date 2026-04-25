@@ -2,13 +2,13 @@
 title: "pattern"
 tags:
   - 学习/英语/词汇
-  - 语义场/模式与规律
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 模式与规律
+semantic_field: 理性世界
 prototype: 供人模仿的模型/范本
 extension_dim: 抽象路径
 last_review: 2026-04-20

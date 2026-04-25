@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-tens-(=tend-, 伸展，拉丁语 *tendere*) + -ion(名词后缀，表状态/结果)
+[[tend-tens|tens]]-(=tend-, 伸展，拉丁语 *tendere*) + -ion(名词后缀，表状态/结果)
 **叙事**：tens（伸展到极限）+ -ion（状态）→ **绷紧的状态** → tension。绳子绷紧的状态叫 tension（张力）；人际关系绷紧的状态叫 tension（紧张）；国家之间绷紧的状态叫 tension（紧张局势）。一根绷紧的弦——物理上产生 tension，心理上也产生 tension。
 
 已有词根笔记：[[tend-tens]]

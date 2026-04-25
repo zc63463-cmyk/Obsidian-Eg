@@ -2,13 +2,13 @@
 title: "comparison"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 比较、对比
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**比较，对比**；②比拟，比喻；③相比，类比关系；
+**n.** ①==**比较，对比**==；②比拟，比喻；③相比，类比关系；
 
 > [!tip] 原型义
 > **原型义**：比较（放在一起看的行为或结果）

@@ -2,13 +2,13 @@
 title: "guard"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 身体动作
+semantic_field: 人体动作
 prototype: 看守，保护使其不受伤害
 extension_dim: 社会路径
 last_review: 2026-04-21
@@ -24,7 +24,7 @@ review_count: 0
 
 **v.** ①==**守卫，保卫**；②看守，监视；③防范，警惕；
 **n.** ①==**守卫，警卫**；②卫兵，保安；③防护装置；④（篮球等）后卫；
-**adj.** ①警卫的，护卫的；
+**adj.** ①==**警卫的，护卫的**==；
 
 > [!tip] 原型义
 > **原型义**：看守，保护使其不受伤害

@@ -2,13 +2,13 @@
 title: "watch"
 tags:
   - 学习/英语/词汇
-  - 语义场/感知动作
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 感知动作
+semantic_field: 人本世界
 prototype: 注视（持续关注地看）
 extension_dim: 视觉→时间→守卫
 last_review: 2026-04-22

@@ -2,13 +2,13 @@
 title: "detach"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 身体动作
+semantic_field: 人体动作
 prototype: 从主体分离下来
 extension_dim: 空间路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拆卸，拆开**（使分开）；②使分离，使脱离；③派遣（分遣队等）；④**adj.** 分离的，超然的（detached）；
+**v.** ①==**拆卸，拆开**==（使分开）；②使分离，使脱离；③派遣（分遣队等）；④**adj.** 分离的，超然的（detached）；
 
 > [!tip] 原型义
 > **原型义**：从主体上取下、分开

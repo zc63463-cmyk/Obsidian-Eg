@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ad-(=to, 朝向，见 [[ad]]) + vent(=来，拉丁语 *venire*，见 [[ver-vert]])
+ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，见 [[ver-vert]])
 **叙事**：ad（朝向）+ vent（来）→ 朝我们走来 → 到来、出现。[[adventure]] 是"向未知走来"→ 冒险，[[advent]] 是"重要事物向我们走来"→ 到来。[[convene]] 是"一起走来"→ 集会，[[intervene]] 是"走在中间"→ 干预。
 
 ---

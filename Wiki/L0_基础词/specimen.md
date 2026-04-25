@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-spec-(看/观察，[[spec-spect]]) + -imen(名词后缀：表示结果或产物)
+[[spec-spect|spec]]-(看/观察，[[spec-spect]]) + -imen(名词后缀：表示结果或产物)
 **叙事**：specimen 来自拉丁语 *specimen*（标记、样本、榜样），spec- = 看/观察（[[spec-spect]]），-imen = 表示结果或产物的后缀。核心逻辑是"供观察的东西"→ "样本/标本"。a blood specimen = 血样。a geological specimen = 地质标本。specimen 也可以指"典型"——a fine specimen of a gentleman = 一位绅士的典型。specimen 和 [[inspect]]（检查）、[[spectator]]（观众）、[[spectacle]]（奇观）同源——都来自词根 [[spec-spect]]（看）。
 
 ---

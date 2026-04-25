@@ -2,13 +2,13 @@
 title: "shed"
 tags:
   - 学习/英语/词汇
-  - 语义场/自然变化
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 自然变化
+semantic_field: 自然物理
 prototype: 脱落（自然地分离脱落）
 extension_dim: 自然→情感→物理
 last_review: 2026-04-22

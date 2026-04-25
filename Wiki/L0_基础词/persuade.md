@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-per-(完全，彻底) + suad-/suas-(劝告，建议，拉丁语 *suadere*)
+[[per|per]]-(完全，彻底) + suad-/suas-(劝告，建议，拉丁语 *suadere*)
 **叙事**：per（完全地）+ suad（劝告）→ 完全劝服对方 → 说服。不是强迫，而是通过充分的理由让对方心甘情愿地被"劝到位"。
 
 建议创建词根笔记 [[suad-suas]]

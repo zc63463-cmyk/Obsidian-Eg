@@ -34,7 +34,6 @@ review_count: 0
 源自拉丁语 *passus*（步/步伐），与 [[pass]]（经过）同源
 **叙事**：path 就是被脚步踩出来的小路。你走多了，自然就形成了path。从物理的小路延伸到抽象的"道路"——career path（职业道路），the path to success（成功之路）。
 
-建议创建词根笔记 [[pass-pat]]（经过/步/承受，拉丁语 *passus*/*pati*）
 
 ---
 

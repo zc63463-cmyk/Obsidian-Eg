@@ -2,13 +2,13 @@
 title: "grasp"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 身体动作
+semantic_field: 人体动作
 prototype: 用手紧紧抓住
 extension_dim: 具身路径
 last_review: 2026-04-21
@@ -23,7 +23,7 @@ review_count: 0
 ## 核心释义
 
 **v.** ①==**抓住，紧握**；②理解，领会（抽象概念）；
-**n.** ①紧握，抓；②理解力，领会力；③控制，权力；
+**n.** ①==**紧握，抓**==；②理解力，领会力；③控制，权力；
 
 > [!tip] 原型义
 > **原型义**：用手紧紧抓住

@@ -34,7 +34,6 @@ review_count: 0
 [[per]](贯穿/彻底) + [[secut|sequ-]](跟随，拉丁语 *sequi*) → 彻底跟随 → 纠缠→迫害
 **叙事**：per（彻底）+ secute（跟随）→ 一直跟着某人不让其安宁 → 迫害。They came to America after being persecuted for their religious beliefs——他们因宗教信仰受到迫害后来到美国。
 
-建议创建词根笔记 [[secut-sequ]]
 
 ---
 

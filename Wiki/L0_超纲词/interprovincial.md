@@ -1,0 +1,154 @@
+---
+title: "interprovincial"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会专业
+  - 掌握/L0
+aliases: []
+date: 2026-04-24
+mastery: L0
+word_freq: 低频
+semantic_field: 社会专业
+prototype: 在省份之间的（跨越不同省份的）
+extension_dim: 空间路径
+last_review: 2026-04-24
+review_count: 0
+---
+
+# interprovincial
+
+> [!info] 基础信息
+> **音标** /ˌɪntərprəˈvɪnʃl/ | **词频** 考研低频 | **语义场** [[社会专业]]
+
+## 核心释义
+
+**adj.** ①==**省际的，省与省之间的**==；
+
+> [!tip] 原型义
+> **原型义**：在省份之间的（跨越不同省份的）
+> **延伸维度**：空间路径
+> **隐喻类型**：无隐喻（字面空间关系）
+
+## 词根词缀
+
+[[inter]](在……之间) + provinc(省，来自拉丁语 *provincia*) + -ial(形容词后缀)
+**叙事**：inter（在……之间）+ provinc（省）+ -ial（的）→ **在省与省之间的** → 省际的。想象一辆货车从广东省出发，穿过湖南省，到达湖北省——这就是 interprovincial transportation（省际运输）。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**在省份之间的**"为统筹中心，沿空间路径向外扩展：
+>
+> 1. **在省份之间的**（空间层面）
+>    - → **省际的，省与省之间的**：跨越省份边界的
+>      - 激活条件：interprovincial trade, interprovincial highway
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：interprovincial 就是"跨省"——跨省贸易、跨省公路、跨省合作
+- **延伸中心**：从"省之间"延伸到各种跨省活动
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"省际的"能反向推导到"在省份之间的"
+> - [x] **可统筹**：一句话——"interprovincial 就是省与省之间的"
+> - [x] **有支撑**：interprovincial trade/highway 等有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 省际的，省与省之间的 | 核心词性，由 inter- + province 派生 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> inter（在……之间）+ provincial（省的）→ 在省与省之间的 → 省际的。中国的春运就是一场大规模的 interprovincial migration（省际人口流动），人们跨越省份回家过年。
+>
+> **词拆分记忆**（辅助）：
+> inter（在……之间）+ province（省）+ -ial（的）→ 省际的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[interstate]] | 州际的（美式） | 强调美国州与州之间 | 公路、商业 | 中性 |
+> | [[international]] | 国际的 | 强调国家与国家之间 | 贸易、关系 | 中性 |
+> | **interprovincial** | 省际的 | 强调省与省之间（多用于中国/加拿大等） | 贸易、交通、合作 | 中性 |
+>
+> **"增"标记**：interprovincial **(增-省级行政区划的特定性)** vs interstate（基准词：州际）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[intraprovincial]]：省内的（省际↔省内）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[province]] | provinc + -e | 省，省份 | 词义补充（interprovincial 的基础词） |
+> | [[provincial]] | province + -ial | 省的；地方性的 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **interprovincial trade**：省际贸易
+> - **interprovincial highway**：省际公路
+> - **interprovincial migration**：省际人口流动
+> - **interprovincial cooperation**：省际合作
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "Interprovincial trade barriers have been reduced significantly."（省际贸易壁垒已大幅降低）
+> - "The interprovincial highway system connects major cities across the country."（省际公路系统连接了全国各大城市）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[inter]]（在……之间，相互）
+> - [ ] 同义辨析：interprovincial/interstate/international
+> - [ ] 反义词群：intraprovincial
+> - [ ] 形近词群：interprovincial/province/provincial

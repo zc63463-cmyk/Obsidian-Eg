@@ -31,17 +31,3 @@ date: 2026-04-21
 | [[reject]] | re-(回) + ject(投掷) | 拒绝，驳回 |
 | [[subject]] | sub-(在下面) + ject(投掷) | 主题；使服从——投到下面 |
 | [[subjective]] | subject(主题) + -ive(…的) | 主观的——属于个人内在感受的 |
-
-## 基础词
-
-> [!note]- L0_基础词关联
-> 以下基础词笔记引用了本词根，可通过词根线索辅助记忆：
->
-> [[eject]]：e（向外）+ ject（投掷）→ 向外投掷 → **弹出/驱逐**。按 eject 按钮弹出光盘（eject a disk），从酒吧里被 eject（驱逐出去）。e- = out，ject = throw，合起来就是"扔出去"。
->
-> [[inject]]：in（向内）+ ject（投掷）→ 向内投掷 → **注射/注入**。医生用针头把药物"投"入你的身体——inject medicine。inject money into the economy = 向经济注入资金。in = into，ject = throw。
->
-> | 基础词 | 构词分析 | 核心释义 | 语义场 |
-> |--------|---------|---------|--------|
-> | [[eject]] | e-(=ex-, 向外) + ject(投掷) | 喷射，排出 | [[人体动作]] |
-> | [[inject]] | in-(向内) + ject(投掷) | 注射，注入 | [[人体动作]] |

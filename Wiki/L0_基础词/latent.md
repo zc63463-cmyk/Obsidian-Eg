@@ -34,7 +34,6 @@ review_count: 0
 lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀，表示"处于……状态的"）
 **叙事**：lat（隐藏）+ ent（处于……状态）→ latent = 处于隐藏状态的→ 潜在的。latent talent = 潜在的才华（才华藏在暗处还没展现）。latent danger = 潜在的危险。
 
-建议创建词根笔记 [[lat-（隐藏）]]
 
 ---
 

@@ -2,13 +2,13 @@
 title: "shabby"
 tags:
   - 学习/英语/词汇
-  - 语义场/外观状态
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 外观状态
+semantic_field: 抽象关系
 prototype: 破旧不堪（因磨损而失去体面）
 extension_dim: 外观→行为→道德
 last_review: 2026-04-22

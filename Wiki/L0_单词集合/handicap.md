@@ -2,13 +2,13 @@
 title: "handicap"
 tags:
   - 学习/英语/词汇
-  - 语义场/阻碍动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 阻碍动作
+semantic_field: 人体动作
 prototype: 赛马中为公平给优势方增加的负重
 extension_dim: 社会路径
 last_review: 2026-04-20

@@ -31,8 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ob-(=against, 对着/反对) + [[struct|struct-]](build, 建造) + -ion(名词后缀，表示行为或结果)
-**叙事**：ob（对着）+ struct（建造）+ ion（行为/结果）→ **对着建造阻挡物的行为或结果** → 阻碍、阻塞物。建议创建词根笔记 [[struct]]。
+[[ob|ob]]-(=against, 对着/反对) + [[struct|struct-]](build, 建造) + -ion(名词后缀，表示行为或结果)
 
 ---
 

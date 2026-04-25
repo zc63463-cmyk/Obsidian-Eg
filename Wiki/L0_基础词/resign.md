@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-re-(前缀：再/回) + sign(签名，[[sign]])
+re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 **叙事**：resign 来自拉丁语 *resignare*，re- = 再/回，sign = 签名（[[sign]]）。核心逻辑是"再次签名"→ "签字放弃"→ "辞职"。resign from one's position = 辞去职位。resign oneself to = 听任，顺从于。resign 的过去式是 resigned，过去分词也是 resigned。注意 resign 的发音是 /rɪˈzaɪn/，而 [[resignation]]（辞职）的发音是 /ˌrezɪɡˈneɪʃn/（g 发音）。与 [[sign]]（签名）、[[assign]]（分配）、[[design]]（设计）同源。
 
 ---

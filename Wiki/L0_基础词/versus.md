@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-vers(=turn toward，转向，拉丁语 *vertere*，与 [[ver-vert]]/[[versatile]] 同源) + -us(拉丁语介词后缀)
+[[ver-vert|vers]](=turn toward，转向，拉丁语 *vertere*，与 [[ver-vert]]/[[versatile]] 同源) + -us(拉丁语介词后缀)
 **叙事**：vers（转向）+ -us → 转向对立面 → 与……相对。versus 的本义就是"转向"——两个队伍在比赛中"转向"彼此，形成对立。France versus Brazil 就是法国队"转向"巴西队（法国对巴西）。在法律中，Brown versus Board of Education 就是布朗"转向"教育委员会（布朗诉教育委员会案）。
 
 已有词根笔记 [[ver-vert]]

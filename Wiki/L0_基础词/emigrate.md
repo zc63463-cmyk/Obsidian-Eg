@@ -2,13 +2,13 @@
 title: "emigrate"
 tags:
   - 学习/英语/词汇
-  - 语义场/移动行为
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 移动行为
+semantic_field: 人体动作
 prototype: 迁移出去（离开祖国移居他国）
 extension_dim: 地理-身份-文化
 last_review: 2026-04-22

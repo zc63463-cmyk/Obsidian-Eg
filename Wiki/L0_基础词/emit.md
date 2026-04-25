@@ -2,13 +2,13 @@
 title: "emit"
 tags:
   - 学习/英语/词汇
-  - 语义场/物理现象
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 物理现象
+semantic_field: 自然物理
 prototype: 向外发送（把东西从内部释放出去）
 extension_dim: 物理-环境-抽象
 last_review: 2026-04-22
@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-[[e]]-(=ex-, 出/外) + mit(发送，拉丁语 *mittere*，发送/放出)
+[[e]]-(=ex-, 出/外) + [[miss-mit|mit]](发送，拉丁语 *mittere*，发送/放出)
 **叙事**：e（出）+ mit（发送）→ 向外发送 → 发出、排放。emit 的核心是"从内部向外发送"：工厂 emit 废气（排放），太阳 emit 光（发出），人 emit 声音（发出）。mit 是"发送"的词根，还出现在：[[transmit]]（传输，trans+mit = 跨越发送），[[submit]]（提交，sub+mit = 从下面送上去）。[[e]]/[[ex-]] 表示"出"。
 
 ---

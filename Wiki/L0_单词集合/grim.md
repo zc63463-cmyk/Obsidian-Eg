@@ -2,13 +2,13 @@
 title: "grim"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感品质
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 情感品质
+semantic_field: 人本世界
 prototype: 严肃的、令人不快的
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**严酷的，令人担忧的**；②严肃的，不苟言笑的；③阴森的，可怕的；
+**adj.** ①==**严酷的，令人担忧的**==；②严肃的，不苟言笑的；③阴森的，可怕的；
 
 > [!tip] 原型义
 > **原型义**：严肃的、令人不快的

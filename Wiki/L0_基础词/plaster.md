@@ -34,7 +34,6 @@ review_count: 0
 
 源自希腊语 *emplastron*（膏药），与 [[plastic]]（可塑的）、[[plate]]（平板）同源。原始印欧语 *\*plat-*（平坦/展开）。
 **叙事**：plaster 原指"涂在平坦表面上的覆盖物"→ **灰泥/石膏**。涂在墙上叫 plaster（灰泥），涂在伤口上叫 plaster（膏药），涂在骨折处叫 plaster cast（石膏绷带）。动词引申为"涂抹/覆盖"——plaster a wall（给墙上灰泥），plaster posters（大量张贴海报）。
-建议创建词根笔记 [[plat]]
 
 ---
 

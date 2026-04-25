@@ -2,13 +2,13 @@
 title: "doom"
 tags:
   - 学习/英语/词汇
-  - 语义场/命运与毁灭
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 命运与毁灭
+semantic_field: 抽象关系
 prototype: 厄运、毁灭的命运
 extension_dim: 抽象路径
 last_review: 2026-04-22

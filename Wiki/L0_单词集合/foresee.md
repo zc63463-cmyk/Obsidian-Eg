@@ -2,13 +2,13 @@
 title: "foresee"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 提前看到将要发生的事
 extension_dim: 时间路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**预见，预知**；②预料到；
+**v.** ①==**预见，预知**==；②预料到；
 
 > [!tip] 原型义
 > **原型义**：提前看到将要发生的事

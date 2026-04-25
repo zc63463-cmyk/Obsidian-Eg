@@ -35,7 +35,6 @@ review_count: 0
 medal 直接来自意大利语 *medaglia*，最终源自拉丁语 *metallum*（金属，矿），与 [[metal]] 同源。
 **叙事**：medal 本义就是"金属"→ 用金属铸造的荣誉牌 → 奖章。运动员在赛场上拼搏，就是为了那块 metal（金属）→ medal（奖牌）。
 
-建议创建词根笔记 [[med-metall-]]（金属，拉丁语 *metallum*）
 
 ---
 

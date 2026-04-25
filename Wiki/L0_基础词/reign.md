@@ -35,7 +35,6 @@ review_count: 0
 reign 源自古法语 *reign*，拉丁语 *regnum*（王国，统治），词根 reg-(统治)
 **叙事**：reign 就是"统治"。Queen Victoria's reign lasted 63 years（维多利亚女王的统治持续了63年）。Peace reigned over the country（和平主宰了这个国家）——reign 也可以指某种状态"占主导地位"。
 
-建议创建词根笔记 [[reg-rect]]（统治/引导，拉丁语 *regere*）
 
 ---
 

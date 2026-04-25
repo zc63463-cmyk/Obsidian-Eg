@@ -34,7 +34,6 @@ review_count: 0
 fast(牢固的) + -en(使动后缀，使...变得...)
 **叙事**：fast（牢固的）+ -en（使...变得）→ 使变得牢固 → 扎牢、系紧。系安全带就是 fasten your seatbelt，把门关紧就是 fasten the door。fasten one's eyes on something = 把目光"系"在某物上 = 盯着看。
 
-建议创建词根笔记 [[fast-]]（牢固的/快的，古英语 *fæst*）
 
 ---
 

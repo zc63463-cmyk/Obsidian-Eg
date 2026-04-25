@@ -2,13 +2,13 @@
 title: "delicious"
 tags:
   - 学习/英语/词汇
-  - 语义场/感官体验
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 感官体验
+semantic_field: 人本世界
 prototype: 极度吸引人的（令人愉悦到想反复体验的）
 extension_dim: 味觉-嗅觉-抽象
 last_review: 2026-04-22

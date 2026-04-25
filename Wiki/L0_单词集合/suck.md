@@ -2,13 +2,13 @@
 title: "suck"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 用嘴吸（吸入液体/气体）
 extension_dim: 具身路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # suck
 
 > [!info] 基础信息
-> **音标** /sʌk/ | **词频** 考研中频 | **语义场** [[行为态度]]
+> **音标** /sʌk/ | **词频** 考研中频 | **语义场** [[人本世界]]
 
 ## 核心释义
 

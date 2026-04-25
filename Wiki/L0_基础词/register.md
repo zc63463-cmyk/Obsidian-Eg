@@ -35,7 +35,6 @@ review_count: 0
 re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/动词后缀)
 **叙事**：re（回）+ gest（带）+ er（工具）→ 把信息带回来记录 → 登记/注册。你去学校 register（注册），就是把你的信息"带回来记录"在学校的登记簿上。register 也有"显露"的意思——Her face registered surprise（她脸上流露出惊讶）。
 
-建议创建词根笔记 [[gest-ger]]（带来/携带，拉丁语 *gerere*）
 
 ---
 

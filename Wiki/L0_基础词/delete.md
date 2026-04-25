@@ -2,13 +2,13 @@
 title: "delete"
 tags:
   - 学习/英语/词汇
-  - 语义场/操作行为
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 操作行为
+semantic_field: 人体动作
 prototype: 从文字中排除（把选中的内容划掉/移除）
 extension_dim: 文字-数据-抽象
 last_review: 2026-04-22

@@ -8,7 +8,7 @@ aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 学术/职业→社会专业
+semantic_field: 社会专业
 prototype: 会计（人员）
 extension_dim: 社会路径
 last_review: 2026-04-21

@@ -2,13 +2,13 @@
 title: "writer"
 tags:
   - 学习/英语/词汇
-  - 语义场/书写表达
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 书写表达
+semantic_field: 抽象关系
 prototype: 以写作为业或专长的人
 extension_dim: 社会路径
 last_review: 2026-04-20

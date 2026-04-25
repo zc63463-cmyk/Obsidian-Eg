@@ -2,13 +2,13 @@
 title: "thermometer"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 测量热的工具（测量温度的仪器）
 extension_dim: 工具路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # thermometer
 
 > [!info] 基础信息
-> **音标** /θərˈmɒmɪtər/ | **词频** 中频 | **语义场** [[行为态度]]
+> **音标** /θərˈmɒmɪtər/ | **词频** 中频 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-thermo-(=heat，热，希腊语 *therme*) + meter(=measure，测量，希腊语 *metron*)
+thermo-(=heat，热，希腊语 *therme*) + [[meter-metr|meter]](=measure，测量，希腊语 *metron*)
 **叙事**：thermo（热）+ meter（测量）→ **测量热的工具** → 温度计。thermo- 是"热"的词根（[[thermal]] 热的），meter 是"测量"的词根（[[diameter]] 直径的测量）。温度计就是"测量热的工具"，非常直白的构词。
 
 ---

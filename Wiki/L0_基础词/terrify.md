@@ -2,13 +2,13 @@
 title: "terrify"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感动作
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 情感动作
+semantic_field: 人本世界
 prototype: 使恐惧（让某人感到极度害怕）
 extension_dim: 恐惧→心理→行为
 last_review: 2026-04-22

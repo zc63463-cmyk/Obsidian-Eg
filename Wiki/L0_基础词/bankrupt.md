@@ -36,7 +36,6 @@ review_count: 0
 源自意大利语 *banca rotta*（断裂的长凳），由 banca（长凳，指商人/银行家的柜台）+ rotta（断裂的，词根 *rumpere*）构成。古代意大利的放贷人坐在长凳（banca）上做生意，当放贷人破产时，他的长凳会被砸碎（rotta）。
 **叙事**：bank（长凳/银行）+ rupt（断裂，词根 *rumpere*）→ **长凳断裂** → 破产。古代放贷人破产时，他的柜台（长凳）被砸碎——这就是 bankrupt 的由来。rupt 也是 interrupt（打断）、erupt（爆发）的词根。
 
-建议创建词根笔记 [[rupt]]
 
 ---
 

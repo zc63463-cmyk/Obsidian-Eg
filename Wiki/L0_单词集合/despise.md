@@ -2,13 +2,13 @@
 title: "despise"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感/品质
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 情感/品质
+semantic_field: 人本世界
 prototype: 鄙视；看不起
 extension_dim: 社会路径
 last_review: 2026-04-21

@@ -2,13 +2,13 @@
 title: "invest"
 tags:
   - 学习/英语/词汇
-  - 语义场/经济活动
+  - 语义场/资本经济
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 经济活动
+semantic_field: 资本经济
 prototype: 把资源投入其中
 extension_dim: 抽象路径
 last_review: 2026-04-22

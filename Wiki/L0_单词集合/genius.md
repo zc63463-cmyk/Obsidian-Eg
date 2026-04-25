@@ -2,13 +2,14 @@
 title: "genius"
 tags:
   - 学习/英语/词汇
-  - 语义场/才能
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 才能原型: 天赋、天才
+semantic_field: 抽象关系
+prototype: 天生的才能（与生俱来的超凡智力或创造力）
 extension_dim: 抽象路径
 last_review: 2026-04-20
 review_count: 0

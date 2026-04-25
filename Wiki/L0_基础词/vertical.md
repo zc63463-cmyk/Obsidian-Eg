@@ -32,7 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-vert(=turn，转，拉丁语 *vertere*，与 [[ver-vert]] 同源) + -ical(形容词后缀)
+[[ver-vert|vert]](=turn，转，拉丁语 *vertere*，与 [[ver-vert]] 同源) + -ical(形容词后缀)
 **叙事**：vert（转）→ vertical 原本指"转向天空的方向"——从水平面"转"90度朝上的方向就是 vertical（垂直的）。[[vertical]] 和 [[versus]]（对，转向对立）同源——versus 是两个方向"转"向对立，vertical 是方向"转"向天空。
 
 已有词根笔记 [[ver-vert]]

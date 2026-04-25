@@ -35,17 +35,3 @@ date: 2026-04-21
 | [[servant]] | serv(服务) + -ant(人) | 仆人，公仆 |
 | [[deserve]] | de-(充分) + serv(服务) + -e | 应受，值得 |
 | [[assist]] | as-(=ad-, 朝向) + sist（=serv变体，站在旁边） | 帮助；协助 |
-
-## 基础词
-
-> [!note]- L0_基础词关联
-> 以下基础词笔记引用了本词根，可通过词根线索辅助记忆：
->
-> [[obstacle]]：ob（对着）+ st（站）+ acle（物）→ **一个站在你面前、挡住你去路的物体** → 障碍。想象一个人站在你面前，双手张开不让你过去——这就是 obstacle。
->
-> [[persist]]：per（始终）+ sist（站）→ 始终站着不倒 → persist。If the pain persists, consult a doctor——如果疼痛持续，请看医生。If he persists in asking awkward questions, then send him to the boss——如果他执意问令人尴尬的问题，就把他送到老板那里。
->
-> | 基础词 | 构词分析 | 核心释义 | 语义场 |
-> |--------|---------|---------|--------|
-> | [[obstacle]] | ob-(对着) + [[st-sta-stat\|st-/sta-]](站) + -acle(名词后缀) | 障碍（物），阻碍 | [[抽象关系]] |
-> | [[persist]] | [[per]](贯穿) + [[sist\|st-sta-stat]](站立) → 始终站着 | 坚持，持续 | [[行为态度]] |

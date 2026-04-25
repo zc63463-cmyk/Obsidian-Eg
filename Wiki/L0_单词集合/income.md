@@ -2,13 +2,13 @@
 title: "income"
 tags:
   - 学习/英语/词汇
-  - 语义场/商业金融
+  - 语义场/资本经济
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 商业金融
+semantic_field: 资本经济
 prototype: 定期收到的金钱
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**收入，收益**；②所得，进款；
+**n.** ①==**收入，收益**==；②所得，进款；
 
 > [!tip] 原型义
 > **原型义**：定期收到的金钱

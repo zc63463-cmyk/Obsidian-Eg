@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-per-(完全) + suas-(劝告，拉丁语 *suadere* 的过去分词 *suasus*) + -ion(名词后缀，表动作或结果)
+[[per|per]]-(完全) + suas-(劝告，拉丁语 *suadere* 的过去分词 *suasus*) + -ion(名词后缀，表动作或结果)
 **叙事**：per（完全）+ suas（劝）+ -ion（名词）→ 完全劝服的过程/结果 → 说服。[[persuade]] 是动作，[[persuasion]] 是这个动作产生的力量和结果。
 
 建议创建词根笔记 [[suad-suas]]

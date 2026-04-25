@@ -2,13 +2,13 @@
 title: "lever"
 tags:
   - 学习/英语/词汇
-  - 语义场/工具与力量
+  - 语义场/物品工具
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 工具与力量
+semantic_field: 物品工具
 prototype: 用来撬起重物的杆
 extension_dim: 具身路径
 last_review: 2026-04-20

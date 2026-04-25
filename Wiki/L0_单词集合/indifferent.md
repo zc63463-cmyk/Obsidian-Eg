@@ -2,13 +2,13 @@
 title: "indifferent"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 情感
+semantic_field: 人本世界
 prototype: 不在两者之间偏向任何一方（漠不关心）
 extension_dim: 抽象路径
 last_review: 2026-04-22

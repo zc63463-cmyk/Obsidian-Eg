@@ -2,13 +2,13 @@
 title: "tough"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感品质
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 情感品质
+semantic_field: 人本世界
 prototype: 坚韧的、不易折断的
 extension_dim: 具身路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**坚韧的，坚硬的**；②困难的，棘手的；③坚强的，不屈不挠的；④严格的，强硬的；
+**adj.** ①==**坚韧的，坚硬的**==；②困难的，棘手的；③坚强的，不屈不挠的；④严格的，强硬的；
 
 > [!tip] 原型义
 > **原型义**：坚韧的、不易折断的（物理材质的坚硬特性）

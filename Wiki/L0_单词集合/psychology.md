@@ -2,13 +2,13 @@
 title: "psychology"
 tags:
   - 学习/英语/词汇
-  - 语义场/科技教育
+  - 语义场/社会专业
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 科技教育
+semantic_field: 社会专业
 prototype: 心灵的研究
 extension_dim: 抽象路径
 last_review: 2026-04-22

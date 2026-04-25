@@ -111,7 +111,7 @@ more(更多) + over(在……之上) = moreover（在更多之上→此外，而
 > - [[however]]：然而（递进→转折）
 > - [[nevertheless]]：尽管如此（递进→让步转折）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

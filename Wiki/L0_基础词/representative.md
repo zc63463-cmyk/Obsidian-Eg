@@ -32,7 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-re-(再次) + pre-(在前面) + sent(存在) + -ative(执行……的人/物)
+re-(再次) + [[prec-pre|pre]]-(在前面) + [[sens-sent|sent]](存在) + -ative(执行……的人/物)
 **叙事**：[[represent]]（再次呈现）+ ative（执行……的人/物）→ 执行"再次呈现"的人 → **代表**。一个 representative（代表）就是把你/你的群体的立场再次呈现给他人的人。一个 representative sample（有代表性的样本）就是把整体特征再次呈现出来的样本。
 
 ---

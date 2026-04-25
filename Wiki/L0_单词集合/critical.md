@@ -2,13 +2,13 @@
 title: "critical"
 tags:
   - 学习/英语/词汇
-  - 语义场/评价与判断
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 评价与判断
+semantic_field: 理性世界
 prototype: 批评的，关键的
 extension_dim: 抽象路径
 last_review: 2026-04-22

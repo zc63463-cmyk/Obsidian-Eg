@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ad-(=to, 朝向，见 [[ad]]) + vers(=转，拉丁语 *vertere*，见 [[ver-vert]]) + -e
+ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vers]](=转，拉丁语 *vertere*，见 [[ver-vert]]) + -e
 **叙事**：ad（朝向）+ vers（转）→ 转向对面 → 不利的、有害的。[[advertise]] 是"转向大众"→ 做广告，[[adverse]] 是"转向对面"→ 不利的。[[reverse]] 是"向后转"，[[diverse]] 是"转向不同方向"。
 
 ---

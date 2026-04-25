@@ -2,13 +2,13 @@
 title: "weigh"
 tags:
   - 学习/英语/词汇
-  - 语义场/测量与判断
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 测量与判断
+semantic_field: 理性世界
 prototype: 搬运、称量
 extension_dim: 具身路径
 last_review: 2026-04-20

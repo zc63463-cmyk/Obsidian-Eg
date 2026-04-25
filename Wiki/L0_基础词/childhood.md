@@ -2,13 +2,13 @@
 title: "childhood"
 tags:
   - 学习/英语/词汇
-  - 语义场/生命阶段
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 生命阶段
+semantic_field: 抽象关系
 prototype: 儿童的状态/时期
 extension_dim: 时间-情感扩展
 last_review: 2026-04-22

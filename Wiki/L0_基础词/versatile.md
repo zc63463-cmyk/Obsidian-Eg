@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-vers(=turn，转，拉丁语 *vertere*，与 [[ver-vert]]/[[versus]] 同源) + -at-(连接) + -ile(形容词后缀，表"能够……的")
+[[ver-vert|vers]](=turn，转，拉丁语 *vertere*，与 [[ver-vert]]/[[versus]] 同源) + -at-(连接) + -ile(形容词后缀，表"能够……的")
 **叙事**：vers（转）+ -atile（能够……的）→ 能够转向多个方向的 → 多才多艺的。一个 versatile 的人就像一个万向节，可以"转"向任何方向——既能演戏又能唱歌还能跳舞。一个 versatile 的工具就是"多功能"的——一把瑞士军刀就是 versatile tool。
 
 已有词根笔记 [[ver-vert]]

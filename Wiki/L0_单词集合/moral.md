@@ -119,7 +119,7 @@ review_count: 0
 > - [[immoral]]：不道德的（moral + im-否定前缀）
 > - [[amoral]]：非道德的，与道德无关的（a- + moral，不涉及道德判断）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

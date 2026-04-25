@@ -2,13 +2,13 @@
 title: "humble"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 接近地面的（低矮的，卑微的）
 extension_dim: 空间路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # humble
 
 > [!info] 基础信息
-> **音标** /ˈhʌmbl/ | **词频** 考研中频 | **语义场** [[行为态度]]
+> **音标** /ˈhʌmbl/ | **词频** 考研中频 | **语义场** [[人本世界]]
 
 %% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
 %% HERMES-L0: 语义场判定规则见 SKILL.md Step 3 %%
@@ -42,7 +42,7 @@ review_count: 0
 
 ## 词根词缀
 
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加[[链接]] %%
+%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
 %% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 hum-(=ground/earth, 地面/泥土，拉丁语 *humus*) + -ble(形容词后缀，能够…的)
@@ -128,7 +128,7 @@ hum-(=ground/earth, 地面/泥土，拉丁语 *humus*) + -ble(形容词后缀，
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -137,7 +137,7 @@ hum-(=ground/earth, 地面/泥土，拉丁语 *humus*) + -ble(形容词后缀，
 > - [[arrogant]]：傲慢的（humble 的反义：谦卑 vs 傲慢）
 > - [[noble]]：高贵的（humble 的反义：卑微的 vs 高贵的）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

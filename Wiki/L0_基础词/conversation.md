@@ -1,0 +1,160 @@
+---
+title: "conversation"
+tags:
+  - 学习/英语/词汇
+  - 语义场/理性世界
+  - 掌握/L0
+aliases: []
+date: 2026-04-24
+mastery: L0
+word_freq: 高频
+semantic_field: 理性世界
+prototype: 共同转向（转向彼此交流）
+extension_dim: 社会路径
+last_review: 2026-04-24
+review_count: 0
+---
+
+# conversation
+
+> [!info] 基础信息
+> **音标** /ˌkɒnvəˈseɪʃn/ | **词频** 考研高频 | **语义场** [[信息交流]]
+
+## 核心释义
+
+**n.** ①==**会话，交谈**==；②非正式会谈；
+
+> [!tip] 原型义
+> **原型义**：共同转向（彼此）——两个人转向对方进行交流
+> **延伸维度**：社会路径
+> **隐喻类型**：方位隐喻（"转向彼此"→"面对面交流"——身体转向对方→语言上的交流）
+
+## 词根词缀
+
+con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ation(名词后缀)
+**叙事**：con（共同）+ vers（转）+ ation（名词后缀）→ 共同转向彼此 → 交谈。两个人"转向"彼此，面对面说话——这就是 conversation。[[ver-vert]]（转）是核心词根——conversation 的本质是"转向彼此"。你和朋友 conversation（交谈），你们"转向"对方，分享想法。国际间的 conversation（会谈），两个国家"转向"彼此进行对话。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**共同转向彼此**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **共同转向彼此**（物理层面）
+>    - → **会话，交谈**：转向彼此进行语言交流
+>      - 激活条件：have a conversation, conversation with
+>    - → **非正式会谈**：团体之间的对话交流
+>      - 激活条件：diplomatic conversation
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：conversation 就是"转向彼此"——转向彼此说话是交谈，转向彼此对话是会谈
+- **延伸中心**：从"物理上的转向"延伸到"语言上的交流"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"交谈"能反向推导到"转向彼此"——交谈就是两个人转向彼此说话
+> - [x] **可统筹**：一句话——"conversation 就是两个人转向彼此进行交流"
+> - [x] **有支撑**：have a conversation, conversation about 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | n. | 会话；交谈；会谈 | 核心词性，"共同转向"的名词形式 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> con（共同）+ vers（转，[[ver-vert]]）+ ation → 共同转向彼此 → 交谈。两个人在走廊里相遇，"转向"彼此开始聊天——这就是 conversation。conversation 的精髓是"双向"——两个人都"转向"对方，你来我往。和 [[lecture]]（一个人对所有人"转"）不同，conversation 是双向的"转"。
+>
+> **词拆分记忆**（辅助）：
+> con（共同）+ vers（转，[[ver-vert]]）+ ation → 共同转向 → 交谈
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[dialogue]] | 对话 | 强调双方平等交流 | 剧本、外交、文学 | 正面/正式 |
+> | [[chat]] | 聊天 | 强调轻松随意的交流 | 朋友、网络 | 正面/轻松 |
+> | [[discussion]] | 讨论 | 强调围绕话题的深入交流 | 问题、方案、话题 | 中性/深入 |
+> | **conversation** | 会话，交谈 | 强调"转向彼此"的双向交流 | 日常、社交、外交 | 中性/通用 |
+
+>
+> **"增"标记**：conversation **(增-双向互动的完整感)** vs discussion（基准词：围绕话题的讨论）；conversation **(增-社交互动的自然感)** vs dialogue（基准词：正式对话）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[silence]]：沉默（conversation 的反义：交谈↔沉默）
+> - [[monologue]]：独白（conversation 的反义：双向交流↔单向独白）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[converse]] | con- + vers(转) + -e | 交谈（动词） | 词义补充（conversation 的动词形式） |
+> | [[conversational]] | conversation + -al(...的) | 会话的，健谈的 | 词义补充 |
+> | [[conversely]] | converse + -ly(副词后缀) | 相反地 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **have a conversation with**：与……交谈
+> - **conversation about**：关于……的交谈
+> - **make conversation**：闲聊，攀谈
+> - **in conversation with**：在与……交谈中
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The art of conversation is becoming increasingly rare in the age of social media."（在社交媒体时代，交谈的艺术正变得越来越罕见）
+> - "They had a lengthy conversation about the future of the company."（他们就公司的未来进行了长时间的交谈）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[ver-vert]]（转/转向/改变）
+> - [ ] 同义辨析：conversation/dialogue/chat/discussion
+> - [ ] 反义词群：silence/monologue
+> - [ ] 形近词群：conversation/converse/conversational/conversely

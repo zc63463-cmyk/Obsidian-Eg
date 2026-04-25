@@ -34,7 +34,6 @@ review_count: 0
 nomin-（名字，拉丁语 *nomen*）+ -ate（动词后缀，"使……/做……"）→ nominate（使某人的名字被提出→提名）。与 [[nominal]] 同源。
 **叙事**：nominate = nomin（名字）+ ate（动词）= 提出某人的名字 → 提名。We nominated her for player of the year.（我们提名她为年度最佳球员。）The President nominated her for Attorney General.（总统任命她为司法部长。）记住：nominate = 提名/任命，把某人的名字"放上去"。
 
-建议创建词根笔记 [[nomin-/nomen-]]（名字，拉丁语 *nomen*）
 
 ---
 

@@ -2,13 +2,13 @@
 title: "inclusive"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感品质
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 情感品质
+semantic_field: 人本世界
 prototype: 包容的，将所有部分都包含在内的
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**包容的，包括一切的**；②包容性的，不排斥任何群体的；③（计算中）包含首尾的（如 from 1 to 10 inclusive）；
+**adj.** ①==**包容的，包括一切的**==；②包容性的，不排斥任何群体的；③（计算中）包含首尾的（如 from 1 to 10 inclusive）；
 
 > [!tip] 原型义
 > **原型义**：包容的，将所有部分都包含在内的

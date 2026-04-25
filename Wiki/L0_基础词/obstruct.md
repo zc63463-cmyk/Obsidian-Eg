@@ -31,8 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ob-(=against, 对着/反对) + [[struct|struct-]](build, 建造)
-**叙事**：ob（对着）+ struct（建造）→ **对着你建造一堵墙** → 阻塞、妨碍。想象有人在路中间砌了一堵墙，你过不去——这就是 obstruct。建议创建词根笔记 [[struct]]。
+[[ob|ob]]-(=against, 对着/反对) + [[struct|struct-]](build, 建造)
 
 ---
 

@@ -2,13 +2,13 @@
 title: "sue"
 tags:
   - 学习/英语/词汇
-  - 语义场/法律与权利
+  - 语义场/政治法律
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 法律与权利
+semantic_field: 政治法律
 prototype: 追求/请求
 extension_dim: 社会路径
 last_review: 2026-04-22

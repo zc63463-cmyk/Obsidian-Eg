@@ -2,13 +2,13 @@
 title: "gigantic"
 tags:
   - 学习/英语/词汇
-  - 语义场/尺度
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 尺度
+semantic_field: 抽象关系
 prototype: 巨大的、庞大的
 extension_dim: 空间路径
 last_review: 2026-04-20

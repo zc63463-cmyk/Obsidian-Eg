@@ -2,13 +2,13 @@
 title: "vague"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知状态
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 认知状态
+semantic_field: 理性世界
 prototype: 模糊不清的，漫游不定的
 extension_dim: 空间路径
 last_review: 2026-04-20

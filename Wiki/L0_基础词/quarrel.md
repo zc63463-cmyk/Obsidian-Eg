@@ -32,7 +32,6 @@ review_count: 0
 
 ## 词根词缀
 
-来自中古英语 *quarrel*，源自古法语 *querele*（抱怨、争端），来自拉丁语 *querela*（抱怨），词根为 [[quer-quest|quer-/quest-]]（寻求/抱怨）。建议创建词根笔记 [[quer-quest]]
 **叙事**：quer（抱怨）→ 对某事不满而抱怨 → 双方互相抱怨 → 争吵、口角。
 
 ---

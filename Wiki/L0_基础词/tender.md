@@ -33,7 +33,7 @@ review_count: 0
 
 ## 词根词缀
 
-tend-(=tens-/tent-, 伸展，拉丁语 *tendere*) + -er(比较级/名词后缀)
+[[tend-tens|tend]]-(=tens-/tent-, 伸展，拉丁语 *tendere*) + -er(比较级/名词后缀)
 **叙事**：tend（伸展）+ -er → **伸出去**。当你温柔地"伸出"手去触碰婴儿——这就是 tender（温柔的）。当你向对方"伸出"一份报价——这就是 tender（投标）。tender 的核心是"伸出去"这个动作。
 
 已有词根笔记：[[tend-tens]]

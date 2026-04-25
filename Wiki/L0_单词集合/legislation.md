@@ -2,13 +2,13 @@
 title: "legislation"
 tags:
   - 学习/英语/词汇
-  - 语义场/法律制度
+  - 语义场/政治法律
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 法律制度
+semantic_field: 政治法律
 prototype: 制定法律的行为或结果
 extension_dim: 社会路径
 last_review: 2026-04-20

@@ -2,13 +2,13 @@
 title: "detain"
 tags:
   - 学习/英语/词汇
-  - 语义场/法律政治
+  - 语义场/政治法律
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 法律政治
+semantic_field: 政治法律
 prototype: 把人留住不让走
 extension_dim: 时间路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拘留，扣留**（法律/官方）；②耽搁，留住（非正式）；
+**v.** ①==**拘留，扣留**==（法律/官方）；②耽搁，留住（非正式）；
 
 > [!tip] 原型义
 > **原型义**：把人留住、不让离开

@@ -1,0 +1,160 @@
+---
+title: "unprecedented"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-25
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 前所未有的（没有先例的）
+extension_dim: 时间路径
+last_review: 2026-04-25
+review_count: 0
+---
+
+# unprecedented
+
+> [!info] 基础信息
+> **音标** /ʌnˈpresɪdentɪd/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**前所未有的，空前的**==；②史无前例的；③没有先例的；
+
+> [!tip] 原型义
+> **原型义**：前所未有的（没有先例的）
+> **延伸维度**：时间路径
+> **隐喻类型**：结构隐喻（"走在前面"→"先例"，precedent 的字面义"先行"→"先例"）
+
+## 词根词缀
+
+un-(不，否定前缀) + [[prec-pre|preced]](先行/在前面) + -ent(名词/形容词后缀) + -ed(形容词后缀，持有状态)
+**叙事**：un（不）+ preced（先行）+ -ent + -ed → 没有先行的 → **前所未有的**。precedent 就是"先例"（先行的事），unprecedented 就是"没有先例的"→前所未有的。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**前所未有的**"为统筹中心，沿时间路径向外扩展：
+>
+> 1. **前所未有的**（时间层面）
+>    - → **空前的**：历史上从未发生过
+      - 激活条件：unprecedented growth（空前的增长）
+    - → **史无前例的**：没有历史先例
+      - 激活条件：on an unprecedented scale（以史无前例的规模）
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：unprecedented 就是"没先例"——以前从没发生过
+- **一句话统筹**：unprecedented 就是 preced（先行）被 un-（否定）了——没有先行的事
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"史无前例的规模"能反向推导到"前所未有的"——史无前例就是没有先例
+> - [x] **可统筹**：一句话——"unprecedented 就是没有先例"
+> - [x] **有支撑**：unprecedented growth, unprecedented scale 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 前所未有的；史无前例的 | un- + precedent + -ed（没有先例的） |
+> | n. (precedent) | 先例 | 核心名词 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> precedent（先例）+ un-（不）+ -ed → 没有先例的。precedent = pre（前面）+ ced（走）→ 走在前面的→先例。unprecedented 就是"没有走在前面的"→前所未有的。The pandemic caused unprecedented disruption to global supply chains.（疫情对全球供应链造成了前所未有的破坏。）
+>
+> **词拆分记忆**（辅助）：
+> un（不）+ pre（前面）+ ced（走）+ -ent + -ed → 没有走在前面的 → 前所未有的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[unparalleled]] | 无与伦比的 | 强调没有可比较的 | 成就、规模 | 正面 |
+> | [[unmatched]] | 无可匹敌的 | 强调没有对手 | 能力、质量 | 正面 |
+> | **unprecedented** | 前所未有的 | 强调没有先例（偏正式） | 事件、增长、规模 | 中性/正式 |
+>
+> **"增"标记**：unprecedented **(增-时间上的"从未发生过"感)** vs unparalleled（基准词：无与伦比）；unprecedented **(增-先例/法律语境)** vs unmatched（基准词：无可匹敌）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[precedented]]：有先例的
+> - [[common]]：常见的
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[precede]] | pre-(前面) + ced(走) | 先于，在……之前 | 词义补充（词根） |
+> | [[precedent]] | precede + -ent | 先例 | 词义补充（母词） |
+> | [[unprecedented]] | un- + precedent + -ed | 前所未有的 | 核心词 |
+> | [[unprecedentedly]] | unprecedented + -ly | 前所未有地 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **unprecedented scale/level**：史无前例的规模/水平
+> - **unprecedented growth**：空前的增长
+> - **unprecedented challenge**：前所未有的挑战
+> - **in unprecedented numbers**：以空前的数量
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The country is facing an unprecedented economic crisis."（该国正面临一场前所未有的经济危机。）
+> - "Climate change is occurring at an unprecedented rate."（气候变化正以空前的速度发生。）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[prec-pre|ced]]（走，拉丁语 *cedere*）
+> - [ ] 同义辨析：unprecedented/unparalleled/unmatched
+> - [ ] 反义词群：precedented/common
+> - [ ] 形近词群：precede/precedent/unprecedented/unprecedentedly

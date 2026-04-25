@@ -34,7 +34,6 @@ review_count: 0
 kidney 源自古英语 *cwiðe*，与 kid（小山羊）形似但词源不同。中古英语受 kid 的影响演变为 kidney。无标准词根词缀可拆分。
 **叙事**：kidney 的形状像一颗大豆子（kidney bean 菜豆因此得名），是人体重要的过滤器官。虽然形似 kid + ney，但词源上与小山羊无关。
 
-建议创建词根笔记 [[kidney-（肾脏）]]
 
 ---
 

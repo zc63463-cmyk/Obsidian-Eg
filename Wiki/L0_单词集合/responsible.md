@@ -2,13 +2,13 @@
 title: "responsible"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 可以被回过头追究承诺的
 extension_dim: 社会路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # responsible
 
 > [!info] 基础信息
-> **音标** /rɪˈspɒnsəbl/ | **词频** 考研高频 | **语义场** [[行为态度]]
+> **音标** /rɪˈspɒnsəbl/ | **词频** 考研高频 | **语义场** [[人本世界]]
 
 ## 核心释义
 

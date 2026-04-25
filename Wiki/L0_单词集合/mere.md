@@ -2,13 +2,13 @@
 title: "mere"
 tags:
   - 学习/英语/词汇
-  - 语义场/文化日常
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 文化日常
+semantic_field: 社会习俗
 prototype: 纯粹的，只不过
 extension_dim: 抽象路径
 last_review: 2026-04-21

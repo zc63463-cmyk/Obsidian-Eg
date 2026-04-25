@@ -2,13 +2,13 @@
 title: "fiction"
 tags:
   - 学习/英语/词汇
-  - 语义场/语言表达
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 语言表达
+semantic_field: 抽象关系
 prototype: 用手塑造、捏造出来的东西
 extension_dim: 抽象路径
 last_review: 2026-04-20

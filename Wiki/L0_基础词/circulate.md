@@ -31,8 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-circ-(圆，环) + -ate(动词后缀，使动)
-**叙事**：circ（圆）+ ate（使动）→ 使之绕圈流动 → 循环、流通。血液在体内 circulate（循环），货币在经济中 circulate（流通），谣言在人群中 circulate（传播）。建议创建词根笔记 [[circ]]。
+[[circ|circ]]-(圆，环) + -ate(动词后缀，使动)
 
 ---
 

@@ -8,7 +8,7 @@ aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 情感/品质→人本世界
+semantic_field: 人本世界
 prototype: 魅力，迷人的
 extension_dim: 抽象路径
 last_review: 2026-04-21

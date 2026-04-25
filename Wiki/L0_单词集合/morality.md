@@ -116,7 +116,7 @@ review_count: 0
 > - [[immorality]]：不道德，道德败坏
 > - [[depravity]]：堕落，腐败（道德的极端反面）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

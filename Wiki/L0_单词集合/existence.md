@@ -118,7 +118,7 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 > - [[nonexistence]]：不存在（existence 的直接反义）
 > - [[extinction]]：灭绝、消亡（物种/事物的存在终结）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

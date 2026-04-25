@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ana-(=according to, 按照/类似) + [[log-lect-leg|log]](=ratio/proportion, 比例/逻辑) + -y(名词后缀) → 按比例对应 → 类比
+[[ana|ana]]-(=according to, 按照/类似) + [[log-lect-leg|log]](=ratio/proportion, 比例/逻辑) + -y(名词后缀) → 按比例对应 → 类比
 **叙事**：ana（按照）+ log（比例）+ y → 按照比例对应的关系 → 类比。大脑像一台巨大的计算机，这就是一个 analogy（类比）。by analogy with（根据……类推），draw an analogy between（在……之间做类比）。analogy 就是"类比"——找到两事物之间的比例对应关系。
 
 ---

@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-dia-(穿过/通过) + [[meter-metr|meter]](测量，希腊语 *metron*)
+[[dia|dia]]-(穿过/通过) + [[meter-metr|meter]](测量，希腊语 *metron*)
 **叙事**：dia（穿过）+ meter（测量）→ 穿过圆心去测量 → 直径。想象你拿一把尺子穿过一个圆的中心，从一端量到另一端——这条线就是 diameter（直径）。
 
 ---

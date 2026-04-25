@@ -2,13 +2,13 @@
 title: "reluctant"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-23
 mastery: L0
 word_freq: 高频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 不情愿的（内心挣扎着不愿做某事的状态）
 extension_dim: 具身路径
 last_review: 2026-04-23
@@ -18,7 +18,7 @@ review_count: 0
 # reluctant
 
 > [!info] 基础信息
-> **音标** /rɪˈlʌktənt/ | **词频** 考研高频 | **语义场** [[行为态度]]
+> **音标** /rɪˈlʌktənt/ | **词频** 考研高频 | **语义场** [[人本世界]]
 
 ## 核心释义
 

@@ -2,13 +2,13 @@
 title: "experience"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 认知
+semantic_field: 理性世界
 prototype: 亲自尝试、从实践中获得
 extension_dim: 时间路径
 last_review: 2026-04-22

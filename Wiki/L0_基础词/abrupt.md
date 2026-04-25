@@ -34,7 +34,6 @@ review_count: 0
 [[ab]]-（离开、脱离）+ *rumpere*（打破、断裂），来自拉丁语 *abruptus*（断裂的、被打断的），动词形式为 *abrumpere*（打断、断裂）。*rumpere* 与 [[rupt]]（断裂）同源，常见于 bankrupt（破产 = bank + rupt）、disrupt（破坏）、erupt（爆发）、corrupt（腐败）等词。
 **叙事**：abrupt 的核心画面是"断裂"。拉丁语 *abrumpere* = ab（离开）+ rumpere（打破）= 打断、断裂。一根绳子突然断裂——这就是 abrupt 的原始画面。悬崖像被"打断"一样陡峭——an abrupt cliff。一个人的行为突然改变，像被"打断"了一样——an abrupt change。说话没有铺垫，像"打断"了正常对话——an abrupt manner。
 
-建议创建词根笔记 [[rupt-rumpere]]
 
 ---
 

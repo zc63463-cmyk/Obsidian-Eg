@@ -2,13 +2,13 @@
 title: "institute"
 tags:
   - 学习/英语/词汇
-  - 语义场/社会结构
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 社会结构
+semantic_field: 社会习俗
 prototype: 建立、设立；建立的机构
 extension_dim: 社会路径
 last_review: 2026-04-22

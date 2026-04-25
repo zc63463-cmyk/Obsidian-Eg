@@ -2,13 +2,13 @@
 title: "suffice"
 tags:
   - 学习/英语/词汇
-  - 语义场/数量与程度
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 低频
-semantic_field: 数量与程度
+semantic_field: 抽象关系
 prototype: 在下面做好（足够了）
 extension_dim: 抽象路径
 last_review: 2026-04-22

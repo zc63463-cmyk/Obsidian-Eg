@@ -2,13 +2,13 @@
 title: "official"
 tags:
   - 学习/英语/词汇
-  - 语义场/政治社会
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 政治社会
+semantic_field: 社会习俗
 prototype: 与职责相关的→官方的→官员
 extension_dim: 权威属性
 last_review: 2026-04-22

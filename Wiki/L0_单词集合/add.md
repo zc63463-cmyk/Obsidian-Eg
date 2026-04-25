@@ -2,13 +2,13 @@
 title: "add"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 放上去、附加
 extension_dim: 空间路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**添加，增加**；②补充说，进一步说；③加，做加法；
+**v.** ①==**添加，增加**==；②补充说，进一步说；③加，做加法；
 
 > [!tip] 原型义
 > **原型义**：放上去、附加（将一物放到另一物之上）

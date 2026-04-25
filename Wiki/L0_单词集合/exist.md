@@ -116,7 +116,7 @@ ex-(向外) + [[ist]](站立) = exist（向外站立→存在）
 > - [[perish]]：消亡、毁灭（存在→消亡）
 > - [[cease]]：停止、不复存在（cease to exist = 不复存在）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

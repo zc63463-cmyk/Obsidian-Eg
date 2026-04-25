@@ -2,13 +2,13 @@
 title: "compile"
 tags:
   - 学习/英语/词汇
-  - 语义场/学术职业
+  - 语义场/社会专业
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 学术职业
+semantic_field: 社会专业
 prototype: 堆叠在一起
 extension_dim: 空间路径
 last_review: 2026-04-21

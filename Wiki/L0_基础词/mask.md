@@ -2,13 +2,13 @@
 title: "mask"
 tags:
   - 学习/英语/词汇
-  - 语义场/遮蔽伪装
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 遮蔽伪装
+semantic_field: 抽象关系
 prototype: 遮盖面部（用物品遮挡面部以隐藏身份或表情）
 extension_dim: 功能路径
 last_review: 2026-04-22

@@ -34,7 +34,6 @@ review_count: 0
 
 源自希腊语 *platys*（平坦的/宽的），与 [[plaster]]（石膏）、[[plastic]]（可塑的）、[[play]]（展开）同源。原始印欧语 *\*plat-*（平坦/展开）。
 **叙事**：plate 原指"平坦的板"→ 盛食物的平板 → **盘子**。从"平板"引申出"金属板"（iron plate 铁板）、"牌照"（license plate 车牌）、"板块"（tectonic plate 地质板块）。动词引申为"镀金属"——在表面覆盖一层金属板。
-建议创建词根笔记 [[plat]]
 
 ---
 

@@ -2,13 +2,13 @@
 title: "soluble"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 低频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 可以被溶解/解决的
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可溶的，可溶解的**（化学）；②可解决的，可解答的（问题）；
+**adj.** ①==**可溶的，可溶解的**==（化学）；②可解决的，可解答的（问题）；
 
 > [!tip] 原型义
 > **原型义**：可以被松开/释放的 → 可溶解的

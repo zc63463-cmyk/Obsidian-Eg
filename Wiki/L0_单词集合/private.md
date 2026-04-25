@@ -123,7 +123,7 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 > - [[public]]：公共的，公众的（私人的→公共的）
 > - [[official]]：官方的，公职的（私人的→官方的）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

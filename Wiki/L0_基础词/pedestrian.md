@@ -32,10 +32,9 @@ review_count: 0
 
 ## 词根词缀
 
-ped-(脚，拉丁语 *pes*, *pedis*) + estr(人，源自拉丁语 *-ester*) + -ian(表示人的后缀)
+[[ped-pod|ped]]-(脚，拉丁语 *pes*, *pedis*) + estr(人，源自拉丁语 *-ester*) + -ian(表示人的后缀)
 **叙事**：ped（脚）+ estr（人）+ ian（……的人）→ **用脚走路的人** → 步行者。步行者一步一步走，不快也不慢，没有飞跃——所以 pedestrian 引申为"平淡无奇的"。一个 pedestrian 的演讲就是"一步一步走"的演讲——没有高潮，没有惊喜。
 
-建议创建词根笔记 [[ped-pod]]（脚，拉丁语 *pes*, *pedis*）
 
 ---
 

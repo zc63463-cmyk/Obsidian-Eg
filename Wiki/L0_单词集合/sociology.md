@@ -2,13 +2,13 @@
 title: "sociology"
 tags:
   - 学习/英语/词汇
-  - 语义场/学术职业
+  - 语义场/社会专业
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 学术职业
+semantic_field: 社会专业
 prototype: 研究社会的学问
 extension_dim: 社会路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**社会学**（研究社会结构、社会关系和社会行为的学科）；
+**n.** ①==**社会学**==（研究社会结构、社会关系和社会行为的学科）；
 
 > [!tip] 原型义
 > **原型义**：关于社会（soci）的学问（-logy）

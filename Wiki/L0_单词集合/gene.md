@@ -2,13 +2,13 @@
 title: "gene"
 tags:
   - 学习/英语/词汇
-  - 语义场/生命科学
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 生命科学
+semantic_field: 理性世界
 prototype: 生命传承的基本单位
 extension_dim: 抽象路径
 last_review: 2026-04-20

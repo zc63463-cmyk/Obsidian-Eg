@@ -32,8 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-circ-(圆，环，来自拉丁语 *circus*) + -le(名词后缀，表示"小")
-**叙事**：circ（圆）+ le（小）→ 小圆 → 圆环。人们围坐成一个 circle（圆圈），形成社交 circle（圈子），信息在 circle 中 circulate（循环流通）。建议创建词根笔记 [[circ]]。
+[[circ|circ]]-(圆，环，来自拉丁语 *circus*) + -le(名词后缀，表示"小")
 
 ---
 

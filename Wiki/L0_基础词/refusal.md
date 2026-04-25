@@ -2,13 +2,13 @@
 title: "refusal"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-23
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 水流回去
 extension_dim: 抽象路径
 last_review: 2026-04-23
@@ -18,7 +18,7 @@ review_count: 0
 # refusal
 
 > [!info] 基础信息
-> **音标** /rɪˈfjuːzl/ | **词频** 考研中频 | **语义场** [[行为态度]]
+> **音标** /rɪˈfjuːzl/ | **词频** 考研中频 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -31,8 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-re-(回，向后) + fus(流，来自拉丁语 *fundere/fusus*) + -al(名词后缀，表示行为或结果)
-**叙事**：re（回）+ fus（流）+ al（名词）→ 让水流回去 → 拒绝。别人向你倒水（提议），你 refuse（让水流回去）= 拒绝。refusal 就是拒绝的行为。建议创建词根笔记 [[fus]]。
+re-(回，向后) + [[fus-fund-fuse|fus]](流，来自拉丁语 *fundere/fusus*) + -al(名词后缀，表示行为或结果)
 
 ---
 

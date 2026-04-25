@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-re-(前缀：再/回) + serv(保存/保持，[[serv]]) + -oir(名词后缀：表示场所/容器)
+re-(前缀：再/回) + [[serv|serv]](保存/保持，[[serv]]) + -oir(名词后缀：表示场所/容器)
 **叙事**：reservoir 来自法语 *reservoir*，re- = 再，serv = 保存（来自词根 [[serv]]，保留、保持），-oir = 场所/容器。核心逻辑是"再次保存的地方"→ "蓄水池"→ "水库"。从"蓄水池"出发：a water reservoir = 水库。引申为任何"储备"——a reservoir of knowledge = 知识的宝库。a reservoir of talent = 人才储备。reservoir 强调的是大量储存、以备后用。与 [[reserve]]（储备）同源——reserve 是"保存"的动作，reservoir 是"保存"的场所。
 
 ---

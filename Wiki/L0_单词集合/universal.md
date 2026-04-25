@@ -2,13 +2,13 @@
 title: "universal"
 tags:
   - 学习/英语/词汇
-  - 语义场/属性描述
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 属性描述
+semantic_field: 抽象关系
 prototype: 普遍适用于所有人的
 extension_dim: 抽象路径
 last_review: 2026-04-20

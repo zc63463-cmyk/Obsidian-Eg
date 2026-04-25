@@ -2,13 +2,13 @@
 title: "queer"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感评价
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 情感评价
+semantic_field: 人本世界
 prototype: 奇怪的（与正常不同的、令人不适的）
 extension_dim: 情感路径
 last_review: 2026-04-22

@@ -2,13 +2,13 @@
 title: "textile"
 tags:
   - 学习/英语/词汇
-  - 语义场/材料物品
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 材料物品
+semantic_field: 自然物理
 prototype: 编织物（通过编织制成的布料）
 extension_dim: 物品→行业→人
 last_review: 2026-04-22

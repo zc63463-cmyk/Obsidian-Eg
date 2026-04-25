@@ -2,13 +2,13 @@
 title: "office"
 tags:
   - 学习/英语/词汇
-  - 语义场/政治社会
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 政治社会
+semantic_field: 社会习俗
 prototype: 尽责→职务→办公场所
 extension_dim: 职能空间
 last_review: 2026-04-22

@@ -2,13 +2,13 @@
 title: "happen"
 tags:
   - 学习/英语/词汇
-  - 语义场/事件
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 事件
+semantic_field: 社会习俗
 prototype: 发生、偶然出现
 extension_dim: 时间路径
 last_review: 2026-04-20

@@ -2,13 +2,13 @@
 title: "perceive"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知与感知
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 认知与感知
+semantic_field: 人本世界
 prototype: 完全抓住（通过感官获取信息）
 extension_dim: 具身路径
 last_review: 2026-04-20

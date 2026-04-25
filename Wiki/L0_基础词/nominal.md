@@ -34,7 +34,6 @@ review_count: 0
 nomin-（名字，拉丁语 *nomen*）+ -al（形容词后缀，"与……有关的"）→ nominal（与名字有关的→名义上的）。与 [[nominate]] 同源。
 **叙事**：nominal = nomin（名字）+ al = 和名字有关的 → 名义上的。nominal leader = 名义上的领袖（名字好听但不管事）。nominal fee = 象征性的费用（名义上收了费，实际微不足道）。记住：nominal = 名义上的，有名字没实质。
 
-建议创建词根笔记 [[nomin-/nomen-]]（名字，拉丁语 *nomen*）
 
 ---
 

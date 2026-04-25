@@ -2,13 +2,13 @@
 title: "confess"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 情感态度
+semantic_field: 人本世界
 prototype: 全部说出来，坦白
 extension_dim: 社会路径
 last_review: 2026-04-22

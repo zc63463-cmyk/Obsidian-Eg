@@ -34,10 +34,9 @@ review_count: 0
 
 ## 词根词缀
 
-sec-(=sequi-/secut-，跟随，拉丁语 *sequi*，与 [[section]]/[[segment]] 同源，"切割后跟随"）+ -ond
+[[sec-sect|sec]]-(=sequi-/secut-，跟随，拉丁语 *sequi*，与 [[section]]/[[segment]] 同源，"切割后跟随"）+ -ond
 **叙事**：second 原本表示"跟随在第一个后面的"——the second person 就是跟随在第一人后面的人。时间上的 second（秒）是小时的第二次细分（第一次是分）。second 作动词"附议"就是"跟随别人的提议"。
 
-建议创建词根笔记 [[sec-sequ-secut]]
 
 ---
 

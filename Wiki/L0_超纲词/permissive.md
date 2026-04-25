@@ -1,0 +1,159 @@
+---
+title: "permissive"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会习俗
+  - 掌握/L0
+aliases: []
+date: 2026-04-25
+mastery: L0
+word_freq: 中频
+semantic_field: 社会习俗
+prototype: 允许自由的，宽容的
+extension_dim: 社会路径
+last_review: 2026-04-25
+review_count: 0
+---
+
+# permissive
+
+> [!info] 基础信息
+> **音标** /pərˈmɪsɪv/ | **词频** 考研中频 | **语义场** [[社会习俗]]
+
+## 核心释义
+
+**adj.** ①==**宽容的，放任的**==（允许很大自由）；②许可的，准许的；
+
+> [!tip] 原型义
+> **原型义**：允许自由的，宽容的
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（"放任"= 给予过多许可——法律许可→社会态度）
+
+## 词根词缀
+
+[[per]](完全/彻底) + [[miss]](送/放) + -ive(形容词后缀，有……倾向的)
+**叙事**：per（完全）+ miss（放手）+ -ive（倾向）→ 完全放手的 → 宽容的、放任的。permissive parent 就是对孩子放任不管的父母，permissive society 就是允许各种行为的社会。permissive 的核心就是"允许很多自由"。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**允许自由的，宽容的**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **允许自由**（社会层面）
+>    - → **宽容的，放任的**：对行为给予很大自由
+>      - 激活条件：permissive parent, permissive society
+>    - → **许可的，准许的**：法律或规则上允许的
+>      - 激活条件：permissive use, permissive zoning
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：permissive 就是"放"——放手、放任、允许
+- **延伸中心**：从"社会态度上的宽容"延伸到"法律上的许可"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"许可的"能反向推导到"允许自由的"——许可就是允许
+> - [x] **可统筹**：一句话——"permissive 就是允许很大自由，无论是社会态度还是法律规则"
+> - [x] **有支撑**：permissive parent, permissive society 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 宽容的；许可的 | 核心词性，permit 的形容词形式 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> permit（允许）→ permissive（允许的/宽容的）。permissive parent 是那种孩子想干什么就干什么的父母，permissive society 是对各种行为都持开放态度的社会。permissive 的核心是"放手"——但放手太多就成了"放任"。
+>
+> **词拆分记忆**（辅助）：
+> per（完全）+ miss（放手）+ -ive（倾向）→ 完全放手的 → 宽容的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[lenient]] | 宽大的，仁慈的 | 强调处罚或要求上的宽松 | 惩罚、标准 | 中性偏正 |
+> | [[tolerant]] | 宽容的，容忍的 | 强调对不同意见的包容 | 态度、信仰 | 正面/开放 |
+> | **permissive** | 宽容的，放任的 | 强调给予过多自由，常含批评 | 父母、社会、法律 | 中性偏贬 |
+>
+> **"增"标记**：permissive **(增-过度自由的批评暗示)** vs lenient（基准词：宽大处理）；permissive **(增-行为规范层面)** vs tolerant（基准词：思想包容）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[strict]]：严格的（permissive 的精确反义：放任↔严格）
+> - [[restrictive]]：限制性的（permissive 的反义：允许↔限制）
+> - [[authoritarian]]：专制的（permissive 的反义：自由↔专制）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[permit]] | per(完全) + mit(送/放) | 允许，许可 | 词义补充（permissive 的词源基础） |
+> | [[permission]] | permit + -sion(名词后缀) | 许可，允许 | 词义补充 |
+> | [[permissiveness]] | permissive + -ness(名词后缀) | 放任，宽容 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **permissive parent/parenting**：放任的父母/教养
+> - **permissive society**：宽容的社会
+> - **permissive attitude**：放任的态度
+> - **permissive environment**：宽松的环境
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - Critics argue that permissive parenting leads to undisciplined children.（批评者认为放任式教养会导致孩子缺乏纪律）
+> - The 1960s saw the rise of a more permissive society in Western countries.（20世纪60年代见证了西方国家一个更加宽容社会的兴起）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[per]]（完全/彻底）, [[miss]]（送/放）
+> - [ ] 同义辨析：permissive/lenient/tolerant
+> - [ ] 反义词群：strict/restrictive/authoritarian
+> - [ ] 形近词群：permissive/permit/permission/permissiveness

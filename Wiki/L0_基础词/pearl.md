@@ -35,7 +35,6 @@ review_count: 0
 pearl（古英语 *pearl*，源自拉丁语 *perna*，意为"腿骨"，后演变为指珍珠，因珍珠形状似腿骨）
 **叙事**：pearl 是蚌在沙粒的刺激下，用层层珍珠质包裹而成的珍贵宝石。因为稀有和美丽，pearl 被用来比喻一切珍贵之物——a pearl of wisdom（智慧的珍珠），the pearl of the family（家中的珍宝）。
 
-建议创建词根笔记 [[pern-pearl]]（珍珠，拉丁语 *perna*）
 
 ---
 

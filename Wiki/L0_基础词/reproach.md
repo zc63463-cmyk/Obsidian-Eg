@@ -32,7 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-re-(回/靠近) + proach(接近，[[proach-prox]])
+re-(回/靠近) + [[proach-prox|proach]](接近，[[proach-prox]])
 **叙事**：re（靠近）+ proach（接近）→ 走近某人批评他 → **指责**。想象一个老师走到学生面前，当面批评他的错误——这就是 reproach。和 [[approach]]（接近）同源：approach 是"走过去"，reproach 是"走过去批评"。
 
 ---

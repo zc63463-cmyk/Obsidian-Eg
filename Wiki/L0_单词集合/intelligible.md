@@ -2,13 +2,13 @@
 title: "intelligible"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知思维
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 低频
-semantic_field: 认知思维
+semantic_field: 理性世界
 prototype: 可以被选择理解的，可被理解的
 extension_dim: 抽象路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # intelligible
 
 > [!info] 基础信息
-> **音标** /ɪnˈtelɪdʒəbl/ | **词频** 考研低频 | **语义场** [[认知思维]]
+> **音标** /ɪnˈtelɪdʒəbl/ | **词频** 考研低频 | **语义场** [[理性世界]]
 
 ## 核心释义
 

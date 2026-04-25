@@ -35,7 +35,6 @@ review_count: 0
 imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(形容词后缀，表示"具有……性质的")
 **叙事**：imper（命令）+ ative（具有……性质的）→ 具有命令性质的 → 必须执行的、紧急的。将军下达的命令（imperative）是不可违抗的，所以 imperative 引申为"绝对必要的"。It is imperative that...（……是绝对必要的）是考研写作高分句型。
 
-建议创建词根笔记 [[imper]]（命令/准备，拉丁语 *imperare*）
 
 ---
 

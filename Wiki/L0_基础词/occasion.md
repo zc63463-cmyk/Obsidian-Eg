@@ -32,8 +32,7 @@ review_count: 0
 
 ## 词根词缀
 
-oc-(=ob-, 朝向/在……前) + cas(=fall, 落下) + -ion(名词后缀)
-**叙事**：oc（朝向）+ cas（落下）→ **某个事件"降临"到你面前的时刻** → 场合、时机。就像婚礼这一天"降临"了——这就是一个 special occasion。建议创建词根笔记 [[cas]]（或 [[cad-cas-cid|cad-/cas-/cid-]]）。
+oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名词后缀)
 
 ---
 

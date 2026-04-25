@@ -2,13 +2,13 @@
 title: "plagiarism"
 tags:
   - 学习/英语/词汇
-  - 语义场/学术行为
+  - 语义场/社会专业
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 学术行为
+semantic_field: 社会专业
 prototype: 绑架他人作品（把别人的文字当作自己的）
 extension_dim: 行为路径
 last_review: 2026-04-22

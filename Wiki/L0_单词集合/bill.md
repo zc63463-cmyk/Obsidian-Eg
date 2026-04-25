@@ -8,7 +8,7 @@ aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 商业/金融→资本经济
+semantic_field: 资本经济
 prototype: 账单，法案
 extension_dim: 社会路径
 last_review: 2026-04-21

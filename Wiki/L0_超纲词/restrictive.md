@@ -1,0 +1,160 @@
+---
+title: "restrictive"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-25
+mastery: L0
+word_freq: 低频
+semantic_field: 抽象关系
+prototype: 往回拉紧（限制）
+extension_dim: 社会路径
+last_review: 2026-04-25
+review_count: 0
+---
+
+# restrictive
+
+> [!info] 基础信息
+> **音标** /rɪˈstrɪktɪv/ | **词频** 考研低频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**限制性的，约束的**==；②（语法）限制性的（如限制性定语从句）；
+
+> [!tip] 原型义
+> **原型义**：往回拉紧（拉紧绳子→限制行动）
+> **延伸维度**：社会路径
+> **隐喻类型**：本体隐喻（"拉紧绳子束缚行动"= 限制——物理束缚→社会/法律约束）
+
+## 词根词缀
+
+re-(回，向后) + [[strict|stringere]](拉紧，束缚，拉丁语 *stringere*) + -ive(形容词后缀，表倾向/性质)
+**叙事**：re（回）+ strict（拉紧）→ 往回拉紧 → ==**限制性的**==。想象一根绳子把你往回拉，你的行动范围就变小了——这就是 restrictive 的本质：限制、约束。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**往回拉紧（限制）**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **往回拉紧**（物理层面）
+>    - → **限制性的，约束的**：法律、规则等"拉紧"人的行动范围
+>      - 激活条件：restrictive laws, restrictive regulations, restrictive policy
+>    - → **限制性的（语法）**：定语从句"拉紧"修饰范围，限定特定对象
+>      - 激活条件：restrictive clause, restrictive relative clause
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：restrictive 就是"往回拉紧"——法律拉紧你的行动叫"限制性的"，语法拉紧修饰范围叫"限制性从句"
+- **延伸中心**：从"往回拉紧"延伸到"法律限制"和"语法限定"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"限制性法律"能反向推导到"往回拉紧"——限制性法律就是把人的行动往回拉紧
+> - [x] **可统筹**：一句话——"restrictive 就是往回拉紧，缩小行动或修饰的范围"
+> - [x] **有支撑**：restrictive laws, restrictive clause 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 限制性的；约束的 | 核心词性，restrict 的形容词形式（限制→限制性的） |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> re（回）+ strict（拉紧）→ 往回拉紧。想象你在跑步，有人从后面拉紧绳子把你拽回来——你的行动被"限制"了。restrictive laws 就是"往回拉紧"的法律，restrictive clause 就是"往回拉紧"修饰范围的定语从句。
+>
+> **词拆分记忆**（辅助）：
+> restrict（限制）+ -ive（形容词后缀，表倾向）→ 有限制倾向的 → 限制性的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[limited]] | 有限的 | 强调数量/范围有限 | 数量、空间 | 中性/描述 |
+> | [[confining]] | 限制的，禁锢的 | 强调空间/自由受限 | 空间、环境 | 负面/压迫 |
+> | [[stringent]] | 严格的，严厉的 | 强调标准高、要求严 | 规则、条件 | 负面/正式 |
+> | **restrictive** | 限制性的，约束的 | 强调往回拉紧、缩小范围 | 法律、规则、语法 | 负面/正式 |
+>
+> **"增"标记**：restrictive **(增-往回拉的动作感和缩小范围的精确性)** vs limited（基准词：数量有限）；restrictive **(增-语法领域的专业用法)** vs confining（基准词：空间禁锢）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[permissive]]：宽容的，放任的（restrictive 的反义：限制↔放任）
+> - [[liberal]]：自由的，开明的（restrictive 的反义：约束↔自由）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[restrict]] | re-(回) + strict(拉紧) | 限制，约束 | 词义补充（restrictive 的动词形式） |
+> | [[restriction]] | restrict + -ion | 限制，约束 | 词义补充 |
+> | [[restrictively]] | restrictive + -ly | 限制性地 | 词义补充 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **restrictive laws/regulations**：限制性法律/法规
+> - **restrictive policy**：限制性政策
+> - **restrictive clause**：限制性从句
+> - **highly restrictive**：高度限制性的
+> - **restrictive practices**：限制性做法
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "The government imposed restrictive measures to control the spread of the virus."（政府实施了限制性措施以控制病毒传播。）
+> - "Restrictive covenants in the contract limited the company's ability to expand."（合同中的限制性条款限制了公司的扩张能力。）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[strict|stringere]]（拉紧，束缚）
+> - [ ] 同义辨析：restrictive/limited/confining/stringent
+> - [ ] 反义词群：permissive/liberal
+> - [ ] 形近词群：restrictive/restrict/restriction/strict

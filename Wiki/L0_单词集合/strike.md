@@ -2,13 +2,13 @@
 title: "strike"
 tags:
   - 学习/英语/词汇
-  - 语义场/动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 动作
+semantic_field: 人体动作
 prototype: 击打
 extension_dim: 具身路径
 last_review: 2026-04-22
@@ -131,7 +131,7 @@ review_count: 0
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -139,7 +139,7 @@ review_count: 0
 > - [[miss]]：错过（没有击中）
 > - [[caress]]：爱抚（轻柔触摸，与击打相反）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

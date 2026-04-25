@@ -2,13 +2,13 @@
 title: "grateful"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-23
 mastery: L0
 word_freq: 高频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 因收到恩惠而感到愉快
 extension_dim: 社会路径
 last_review: 2026-04-23
@@ -18,7 +18,7 @@ review_count: 0
 # grateful
 
 > [!info] 基础信息
-> **音标** /ˈɡreɪtfəl/ | **词频** 考研高频 | **语义场** [[行为态度]]
+> **音标** /ˈɡreɪtfəl/ | **词频** 考研高频 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -31,8 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-grat(感谢，令人愉悦，源自拉丁语 *gratus*，"令人愉快的、感激的") + -ful(充满……的)
-**叙事**：grat（感谢/愉悦）+ ful（充满）→ 充满感谢的 → 感激的。你收到别人的帮助，心中充满 grat（感谢），就是 grateful。grat 这个词根还出现在 gratitude（感激）、congratulate（祝贺=共同感到愉悦）中。建议创建词根笔记 [[grat]]
+[[grat|grat]](感谢，令人愉悦，源自拉丁语 *gratus*，"令人愉快的、感激的") + -ful(充满……的)
 
 ---
 

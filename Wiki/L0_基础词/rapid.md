@@ -32,7 +32,6 @@ review_count: 0
 
 ## 词根词缀
 
-源自拉丁语 *rapidus*（快速的），词根 [[rap-rapere|rapere]]（抢夺、抓取）+ -id(形容词后缀)。与 [[rape]]（抢夺）、[[rapture]]（狂喜）同源。建议创建词根笔记 [[rap-rapere]]（抢夺/抓取，拉丁语 *rapere*）
 **叙事**：rapid 的拉丁语词根 *rapere* 意思是"抢夺"——抢夺必须快！所以 rapid 就是"快速的"。河流中水流特别快的地方就叫 rapids（急流）。rapid economic growth（快速经济增长），rapid change（急剧变化）。
 
 ---

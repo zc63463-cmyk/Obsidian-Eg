@@ -32,7 +32,6 @@ review_count: 0
 ## 词根词缀
 
 [[de]](向下) + [[scend-scens|scend/scens]](攀登) → descent（descend 的名词形式）
-**叙事**：de（向下）+ scend（攀爬）→ 向下走的过程 → 下降。注意：descent 的发音是 /dɪˈsent/（名词），而 desert（沙漠）的发音是 /ˈdezət/，descend（动词）的发音是 /dɪˈsend/，三者形近音异，需注意区分。建议创建词根笔记 [[scend-scens]]
 
 ---
 

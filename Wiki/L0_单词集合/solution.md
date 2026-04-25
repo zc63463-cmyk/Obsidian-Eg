@@ -2,13 +2,13 @@
 title: "solution"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 松开/释放的结果
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**解决方案，解决办法**；②溶液（化学）；③解答，答案（数学等）；
+**n.** ①==**解决方案，解决办法**==；②溶液（化学）；③解答，答案（数学等）；
 
 > [!tip] 原型义
 > **原型义**：松开/释放后的结果 → 溶解后的液体 → 解决问题的方法

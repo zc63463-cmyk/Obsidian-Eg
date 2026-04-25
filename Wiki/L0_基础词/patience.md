@@ -31,10 +31,9 @@ review_count: 0
 
 ## 词根词缀
 
-pati(承受，拉丁语 *pati*) + -ence(名词后缀，表状态或能力)
+[[pass-pati|pati]](承受，拉丁语 *pati*) + -ence(名词后缀，表状态或能力)
 **叙事**：pati（承受）+ ence（能力/状态）→ **能够承受的能力** → 耐心。面对困难你能承受，这就是patience。你lose patience（失去耐心），就是承受不住了。
 
-建议创建词根笔记 [[pass-pat]]（经过/承受，拉丁语 *passus*/*pati*）
 
 ---
 

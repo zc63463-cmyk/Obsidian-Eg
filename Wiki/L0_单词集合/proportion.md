@@ -2,13 +2,13 @@
 title: "proportion"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知思维
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 认知思维
+semantic_field: 理性世界
 prototype: 各自拥有的部分→比例
 extension_dim: 归属路径→数量路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # proportion
 
 > [!info] 基础信息
-> **音标** /prəˈpɔːʃn/ | **词频** 考研高频 | **语义场** [[认知思维]]
+> **音标** /prəˈpɔːʃn/ | **词频** 考研高频 | **语义场** [[理性世界]]
 
 ## 核心释义
 

@@ -2,13 +2,13 @@
 title: "electrical"
 tags:
   - 学习/英语/词汇
-  - 语义场/物理现象
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 物理现象
+semantic_field: 自然物理
 prototype: 与电有关的（广义的关联性）
 extension_dim: 关联-工程-抽象
 last_review: 2026-04-22

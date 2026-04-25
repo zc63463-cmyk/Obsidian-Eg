@@ -2,13 +2,13 @@
 title: "shear"
 tags:
   - 学习/英语/词汇
-  - 语义场/物理动作
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 低频
-semantic_field: 物理动作
+semantic_field: 自然物理
 prototype: 剪（用大剪刀剪断）
 extension_dim: 动作→结果→物理量
 last_review: 2026-04-22

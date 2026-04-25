@@ -35,7 +35,6 @@ review_count: 0
 verge（源自拉丁语 *virga*，"杆，枝条"，原指用杆标记的边界线，与 [[vertical]]/[[versus]] 同源于印欧语系 *weg-*/*wer-* "转动/弯曲"，边界就是"转弯"的地方）
 **叙事**：verge 的本义是"边缘"——站在悬崖的 verge 上，再走一步就会掉下去。后来从"物理边缘"引申为"状态的边缘"——on the verge of tears（快要哭了），on the verge of bankruptcy（濒临破产）。verge 作动词就是"濒临"——verge on collapse（濒临崩溃）。
 
-建议创建词根笔记 [[verg]]
 
 ---
 

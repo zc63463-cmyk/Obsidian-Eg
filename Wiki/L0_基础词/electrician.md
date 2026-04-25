@@ -2,13 +2,13 @@
 title: "electrician"
 tags:
   - 学习/英语/词汇
-  - 语义场/职业
+  - 语义场/社会专业
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 职业
+semantic_field: 社会专业
 prototype: 处理电的人（安装和维护电气设备的人）
 extension_dim: 人员-技能-专业
 last_review: 2026-04-22

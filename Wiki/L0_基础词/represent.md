@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-re-(再次，[[re]]变体) + pre-(在前面，[[prec-pre]]) + sent(存在，[[sens-sent]]) → present(呈现) + re-(再次)
+re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sens-sent|sent]](存在，[[sens-sent]]) → present(呈现) + re-(再次)
 **叙事**：re（再次）+ present（呈现）→ 再次把某物带到你面前 → **代表**。律师 represent（代表）你出庭，就是把你的立场再次呈现给法官。国旗 represent（代表）一个国家，就是把国家的形象呈现给世界。
 
 ---

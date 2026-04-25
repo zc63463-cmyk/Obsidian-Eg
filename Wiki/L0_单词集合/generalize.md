@@ -2,13 +2,13 @@
 title: "generalize"
 tags:
   - 学习/英语/词汇
-  - 语义场/思维认知
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 思维认知
+semantic_field: 理性世界
 prototype: 从个别事物中提取共性
 extension_dim: 抽象路径
 last_review: 2026-04-20

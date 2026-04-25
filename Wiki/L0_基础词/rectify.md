@@ -2,13 +2,13 @@
 title: "rectify"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 考研高频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 使变直（把弯的变直）
 extension_dim: 空间路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # rectify
 
 > [!info] 基础信息
-> **音标** /ˈrektɪfaɪ/ | **词频** 考研高频 | **语义场** [[行为态度]]
+> **音标** /ˈrektɪfaɪ/ | **词频** 考研高频 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-rect-(=straight，直，拉丁语 *rectus*) + -ify(=make，使动后缀)
+[[rect|rect]]-(=straight，直，拉丁语 *rectus*) + -ify(=make，使动后缀)
 **叙事**：rect（直）+ ify（使）→ **使变直** → 纠正错误。一条弯曲的线被拉直了——一个错误的决策被纠正了。[[rectify]] 就是"把歪的变直"，把错误的变正确。[[rect]]（矩形）也是"直的"衍生——四个直角。
 
 ---

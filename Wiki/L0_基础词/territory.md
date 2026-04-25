@@ -2,13 +2,13 @@
 title: "territory"
 tags:
   - 学习/英语/词汇
-  - 语义场/地理政治
+  - 语义场/政治法律
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 地理政治
+semantic_field: 政治法律
 prototype: 土地（属于某人的区域）
 extension_dim: 地理→政治→知识
 last_review: 2026-04-22

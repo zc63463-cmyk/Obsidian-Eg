@@ -2,13 +2,13 @@
 title: "pitch"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 行为动作
+semantic_field: 人体动作
 prototype: 投掷（用力把东西抛出去）
 extension_dim: 动作路径
 last_review: 2026-04-22

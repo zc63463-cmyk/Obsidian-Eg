@@ -35,7 +35,6 @@ review_count: 0
 bite(咬/叮，古英语 *bītan*)
 **叙事**：bite 是一个古老的日耳曼词，原始日耳曼语 *\*beitaną*，来自 PIE *\*bheid-*（劈开、咬）。bite 的过去式是 bit，过去分词是 bitten。bite 的核心就是"用牙齿咬"——狗咬人（a dog bite）、蚊虫叮咬（mosquito bites）。bite 作名词表示"一口的量"（take a bite = 咬一口）。bite 还有一个考研需要掌握的抽象用法——"刺骨感"（the bitter bite of winter wind = 冬风的刺骨寒冷），因为寒冷"咬"人就像牙齿咬人一样。在钓鱼语境中，bite 表示"上钩"（the fish aren't biting = 鱼不上钩）。与 [[bit]]（一小块，bite 的名词形式）和 [[bitter]]（苦的）同源。
 
-建议创建词根笔记 [[bheid-]]（劈开/咬，PIE *\*bheid-*）
 
 ---
 

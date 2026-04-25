@@ -121,7 +121,7 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 > - [[replenish]]：补充、重新装满（耗尽→重新填满）
 > - [[refresh]]：使恢复精力（精疲力竭→恢复活力）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

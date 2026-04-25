@@ -2,13 +2,13 @@
 title: "adapt"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 使朝向适合的状态
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（使）适应**；②改编，改写；
+**v.** ①==**（使）适应**==；②改编，改写；
 
 > [!tip] 原型义
 > **原型义**：使朝向适合的状态（ad- 向 + apt- 适合 → 使适合）

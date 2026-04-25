@@ -2,13 +2,13 @@
 title: "resent"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 情感态度
+semantic_field: 人本世界
 prototype: 反复感到（痛苦/愤怒）
 extension_dim: 抽象路径
 last_review: 2026-04-22

@@ -33,7 +33,6 @@ review_count: 0
 
 源自希腊语 *optikos*（视觉的），与 [[opt]]（选择）、[[opaque]]（不透明的）同源。原始印欧语 *\*okw-*（看见）。
 **叙事**：opt（看见）+ -ical（形容词后缀）→ 与看见有关的 → **视觉的/光学的**。眼睛看见需要光，所以 optical 既指"视觉的"也指"光学的"。optical fibre（光纤）用光传输信息，optical instruments（光学仪器）帮助人看得更清楚。与 [[opaque]]（不透明的）同源反义——opaque 是看不见的，optical 是与看见有关的。
-建议创建词根笔记 [[opt]]
 
 ---
 

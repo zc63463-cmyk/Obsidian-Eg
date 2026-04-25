@@ -2,13 +2,13 @@
 title: "nearly"
 tags:
   - 学习/英语/词汇
-  - 语义场/程度数量
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 程度数量
+semantic_field: 抽象关系
 prototype: 几乎（接近某个状态但尚未完全达到）
 extension_dim: 程度路径
 last_review: 2026-04-22

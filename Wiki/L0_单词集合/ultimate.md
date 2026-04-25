@@ -2,13 +2,13 @@
 title: "ultimate"
 tags:
   - 学习/英语/词汇
-  - 语义场/程度与极限
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 程度与极限
+semantic_field: 抽象关系
 prototype: 最远处的尽头
 extension_dim: 空间路径
 last_review: 2026-04-20

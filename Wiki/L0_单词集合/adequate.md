@@ -2,13 +2,13 @@
 title: "adequate"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 达到某个标准的
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**足够的，充分的**；②胜任的，适当的；
+**adj.** ①==**足够的，充分的**==；②胜任的，适当的；
 
 > [!tip] 原型义
 > **原型义**：达到某个标准的（与所需标准"持平"）

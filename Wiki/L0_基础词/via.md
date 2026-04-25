@@ -2,13 +2,13 @@
 title: "via"
 tags:
   - 学习/英语/词汇
-  - 语义场/空间路径
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 空间路径
+semantic_field: 自然物理
 prototype: 道路（经过某条路到达目的地）
 extension_dim: 空间→方式
 last_review: 2026-04-22

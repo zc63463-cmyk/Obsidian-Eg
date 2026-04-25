@@ -2,13 +2,13 @@
 title: "coincide"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 同时发生、巧合
 extension_dim: 时间路径
 last_review: 2026-04-21

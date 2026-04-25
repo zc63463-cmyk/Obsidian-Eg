@@ -2,13 +2,13 @@
 title: "attention"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 伸展过去的状态（注意力伸展到某处的状态）
 extension_dim: 空间路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # attention
 
 > [!info] 基础信息
-> **音标** /əˈtenʃn/ | **词频** 考研高频 | **语义场** [[行为态度]]
+> **音标** /əˈtenʃn/ | **词频** 考研高频 | **语义场** [[人本世界]]
 
 %% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
 %% HERMES-L0: 语义场判定规则见 SKILL.md Step 3 %%
@@ -41,7 +41,7 @@ review_count: 0
 
 ## 词根词缀
 
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加[[链接]] %%
+%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
 %% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 at-(=ad-, 向) + [[tend-tens|tent]](伸展) + -ion(名词后缀，表状态/结果)
@@ -127,7 +127,7 @@ at-(=ad-, 向) + [[tend-tens|tent]](伸展) + -ion(名词后缀，表状态/结�
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -135,7 +135,7 @@ at-(=ad-, 向) + [[tend-tens|tent]](伸展) + -ion(名词后缀，表状态/结�
 > - [[neglect]]：忽视（attention 的精确反义：关注↔忽视）
 > - [[inattention]]：不注意（attention 的派生反义）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

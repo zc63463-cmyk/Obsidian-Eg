@@ -2,13 +2,13 @@
 title: "addition"
 tags:
   - 学习/英语/词汇
-  - 语义场/科学逻辑
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 科学逻辑
+semantic_field: 理性世界
 prototype: 添加的行为或结果
 extension_dim: 抽象路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**添加，增加**；②加法；③附加物，增建部分；
+**n.** ①==**添加，增加**==；②加法；③附加物，增建部分；
 
 > [!tip] 原型义
 > **原型义**：添加的行为或结果（将一物放到另一物之上的动作或产物）

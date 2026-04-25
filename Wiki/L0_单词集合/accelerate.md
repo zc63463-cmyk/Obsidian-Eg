@@ -2,13 +2,13 @@
 title: "accelerate"
 tags:
   - 学习/英语/词汇
-  - 语义场/运动变化
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 运动变化
+semantic_field: 人体动作
 prototype: 使变快、加速
 extension_dim: 时间路径
 last_review: 2026-04-20

@@ -2,13 +2,13 @@
 title: "terminate"
 tags:
   - 学习/英语/词汇
-  - 语义场/边界终点
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 边界终点
+semantic_field: 抽象关系
 prototype: 标记边界/设定终点
 extension_dim: 空间路径
 last_review: 2026-04-20

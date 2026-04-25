@@ -2,13 +2,13 @@
 title: "drug"
 tags:
   - 学习/英语/词汇
-  - 语义场/物质世界
+  - 语义场/物品工具
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 物质世界
+semantic_field: 物品工具
 prototype: 干燥的草药（晒干的药用植物）
 extension_dim: 具身路径
 last_review: 2026-04-22
@@ -42,7 +42,7 @@ review_count: 0
 
 ## 词根词缀
 
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加[[链接]] %%
+%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
 %% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *durawā*，意为"干燥的"）
@@ -131,14 +131,14 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - 无精确反义词，drug 作为物质概念无直接反义
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

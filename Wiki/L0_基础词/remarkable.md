@@ -1,0 +1,163 @@
+---
+title: "remarkable"
+tags:
+  - 学习/英语/词汇
+  - 语义场/抽象关系
+  - 掌握/L0
+aliases: []
+date: 2026-04-24
+mastery: L0
+word_freq: 高频
+semantic_field: 抽象关系
+prototype: 值得被反复标记的（值得注意的）
+extension_dim: 抽象路径
+last_review: 2026-04-24
+review_count: 0
+---
+
+# remarkable
+
+> [!info] 基础信息
+> **音标** /rɪˈmɑːkəbl/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+
+## 核心释义
+
+**adj.** ①==**非凡的，卓越的**==；②值得注意的，引人注目的；③异常的，不寻常的；
+
+> [!tip] 原型义
+> **原型义**：值得被反复标记的（值得注意的）
+> **延伸维度**：抽象路径
+> **隐喻类型**：无隐喻（字面义即核心义：remark + able）
+
+## 词根词缀
+
+re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
+**叙事**：re（再）+ mark（标记）+ able（可以被）→ 可以被反复标记的 → 值得注意的 → 非凡的。一个 remarkable 的人就是值得你反复标记的人——太出色了。a remarkable achievement 是值得被反复标记的成就——非凡的成就。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**值得被反复标记的**"为统筹中心，沿抽象路径向外扩展：
+>
+> 1. **值得被反复标记的**（注意层面）
+>    - → **非凡的，卓越的**：出色到值得反复注意
+>      - 激活条件：a remarkable achievement, a remarkable person
+>    - → **值得注意的，引人注目的**：值得被标记
+>      - 激活条件：a remarkable fact, remarkable progress
+>    - → **异常的，不寻常的**：与平常不同到值得标记
+>      - 激活条件：a remarkable coincidence
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：remarkable 就是"值得标记的"——成就值得标记叫"非凡的"，事实值得标记叫"值得注意的"，巧合值得标记叫"不寻常的"
+- **延伸中心**：从"值得注意"延伸到"非凡卓越"
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"非凡的"能反向推导到"值得被反复标记的"——非凡就是值得反复注意
+> - [x] **可统筹**：一句话——"remarkable 就是值得被反复标记的，因为太出色或不寻常"
+> - [x] **有支撑**：a remarkable achievement, remarkable progress 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 非凡的；值得注意的 | 核心词性，remark 的形容词形式 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> re（再）+ mark（标记）+ able（可以被）→ 可以被反复标记的 → 非凡的。remark 是"评论"，remarkable 是"值得被评论的"。一个 remarkable 的学生让老师反复 remark——太出色了。a remarkable change 是值得反复标记的变化——显著的变化。
+>
+> **词拆分记忆**（辅助）：
+> re（再）+ mark（标记）+ able（可以）→ 可以被反复标记 → 非凡的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[extraordinary]] | 非凡的 | 强调超出寻常的程度 | 成就、才能 | 正面/强烈 |
+> | [[outstanding]] | 杰出的 | 强调在同类中突出 | 表现、人才 | 正面/正式 |
+> | [[notable]] | 值得注意的 | 强调值得被关注 | 事件、人物 | 中性/正式 |
+> | **remarkable** | 非凡的；值得注意的 | 强调值得被反复标记（最通用） | 成就、变化、人 | 正面/通用 |
+>
+> **"增"标记**：remarkable **(增-词源上的"反复标记"语义深度)** vs notable（基准词：值得注意）；remarkable **(增-通用性和使用频率)** vs extraordinary（基准词：非凡的）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[unremarkable]]：普通的，不引人注目的（remarkable 的精确反义：非凡↔普通）
+> - [[ordinary]]：普通的（remarkable 的反义：非凡↔普通）
+> - [[common]]：常见的（remarkable 的反义：不寻常↔常见）
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[remark]] | re- + mark | 评论；话语 | 词义补充（remarkable 的动词/名词形式） |
+> | [[remarkably]] | remarkable + -ly | 非常，显著地 | 词义补充（remarkable 的副词形式） |
+> | [[unremarkable]] | un-(不) + remarkable | 普通的 | 词义补充（反义派生） |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **a remarkable achievement**：非凡的成就
+> - **a remarkable person**：非凡的人
+> - **remarkable progress**：显著的进步
+> - **remarkable for**：因……而引人注目
+> - **a remarkable coincidence**：不寻常的巧合
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "She has made remarkable progress in her studies this semester."（这学期她在学业上取得了显著进步）
+> - "It is remarkable how quickly technology has transformed our daily lives."（技术如此迅速地改变了我们的日常生活，这真是非同寻常）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[mark|mark-]]（标记，注意）
+> - [ ] 同义辨析：remarkable/extraordinary/outstanding/notable
+> - [ ] 反义词群：unremarkable/ordinary/common
+> - [ ] 形近词群：remark/remarkable/remarkably/unremarkable

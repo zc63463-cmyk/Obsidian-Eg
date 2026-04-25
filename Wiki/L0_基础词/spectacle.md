@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-spec-(看/观察，[[spec-spect]]) + -acle(名词后缀：表示事物/场所)
+[[spec-spect|spec]]-(看/观察，[[spec-spect]]) + -acle(名词后缀：表示事物/场所)
 **叙事**：spectacle 来自拉丁语 *spectaculum*（公共表演、展览），spec- = 看/观察（[[spec-spect]]），-acle = 表示事物/场所的后缀。核心逻辑是"供观看的东西"→ "奇观/壮观的景象"。a magnificent spectacle = 壮观的景象。make a spectacle of oneself = 出洋相（让自己成为"被观看的对象"）。spectacles = 眼镜（帮助"看"的工具）。spectacle 强调的是引人注目的、值得观看的场面。与 [[spectator]]（观众）、[[spectrum]]（光谱）同源——都来自词根 [[spec-spect]]（看）。
 
 ---

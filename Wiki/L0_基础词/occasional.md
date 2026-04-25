@@ -31,8 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-oc-(=ob-, 朝向) + cas(=fall, 落下) + -ion(名词后缀) + -al(形容词后缀，"……的")
-**叙事**：oc（朝向）+ cas（落下）+ ion + al → **只在偶尔"降临"的时刻出现的** → 偶尔的。就像流星——不是每天都能看到，只是偶尔划过天际——这就是 occasional。建议创建词根笔记 [[cad-cas-cid|cad-/cas-/cid-]]。
+oc-(=ob-, 朝向) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名词后缀) + -al(形容词后缀，"……的")
 
 ---
 

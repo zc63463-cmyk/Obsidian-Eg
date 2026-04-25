@@ -34,7 +34,6 @@ review_count: 0
 veloc(=swift/fast，快速，拉丁语 *velox*/*velocis*，与 [[veil]]/[[vehicle]] 同源于印欧语系 *weg-* "移动/转动") + -ity(名词后缀，表性质/状态)
 **叙事**：veloc（快速）+ -ity（名词后缀）→ 快速的状态 → 速度。velocity 和 [[vehicle]]（车辆）同源——vehicle 就是"快速移动的工具"，velocity 就是"快速的程度"。在物理学中，velocity 特指"有方向的速度"（矢量），而 speed 只表示"速率"（标量）。
 
-建议创建词根笔记 [[veloc]]
 
 ---
 

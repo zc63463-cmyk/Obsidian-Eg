@@ -2,13 +2,13 @@
 title: "offspring"
 tags:
   - 学习/英语/词汇
-  - 语义场/生命与繁衍
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 低频
-semantic_field: 生命与繁衍
+semantic_field: 抽象关系
 prototype: 从某人身上跳跃生长出来的后代
 extension_dim: 具身路径
 last_review: 2026-04-20

@@ -2,13 +2,13 @@
 title: "chorus"
 tags:
   - 学习/英语/词汇
-  - 语义场/艺术文化
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 艺术文化
+semantic_field: 社会习俗
 prototype: 共同歌唱（多人一起唱歌/说话）
 extension_dim: 声音-场景扩展
 last_review: 2026-04-22

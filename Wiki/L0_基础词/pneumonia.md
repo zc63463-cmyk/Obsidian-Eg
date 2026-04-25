@@ -34,7 +34,6 @@ review_count: 0
 pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 **叙事**：pneumon（肺）+ -ia（疾病状态）→ 肺部的疾病 → 肺炎。想象肺部（pneumon）被炎症（-ia）侵袭，呼吸变得困难——这就是 pneumonia。
 
-建议创建词根笔记 [[pneumon]]
 
 ---
 

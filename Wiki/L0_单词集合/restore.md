@@ -2,13 +2,13 @@
 title: "restore"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 考研高频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 重新建立（回到原来的状态）
 extension_dim: 时间路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # restore
 
 > [!info] 基础信息
-> **音标** /rɪˈstɔːr/ | **词频** 考研高频 | **语义场** [[行为态度]]
+> **音标** /rɪˈstɔːr/ | **词频** 考研高频 | **语义场** [[人本世界]]
 
 ## 核心释义
 

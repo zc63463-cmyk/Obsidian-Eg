@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**平装书， paperback edition**；
+**n.** ①==**平装书， paperback edition**==；
 **adj.** ①平装的；
 
 > [!tip] 原型义

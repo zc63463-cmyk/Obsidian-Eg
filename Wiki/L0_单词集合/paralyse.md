@@ -2,13 +2,13 @@
 title: "paralyse"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体状态
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 身体状态
+semantic_field: 人体动作
 prototype: 使身体一侧松弛无力
 extension_dim: 具身路径
 last_review: 2026-04-20

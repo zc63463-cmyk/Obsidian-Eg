@@ -2,13 +2,13 @@
 title: "marine"
 tags:
   - 学习/英语/词汇
-  - 语义场/自然地理
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 自然地理
+semantic_field: 自然物理
 prototype: 海的（与海洋有关的）
 extension_dim: 空间路径
 last_review: 2026-04-22

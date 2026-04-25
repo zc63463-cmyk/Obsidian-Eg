@@ -2,13 +2,13 @@
 title: "image"
 tags:
   - 学习/英语/词汇
-  - 语义场/形象与表象
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 形象与表象
+semantic_field: 抽象关系
 prototype: 模仿的复制品
 extension_dim: 抽象路径
 last_review: 2026-04-20

@@ -2,13 +2,13 @@
 title: "note"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知活动
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 认知活动
+semantic_field: 理性世界
 prototype: 留下标记以备记忆
 extension_dim: 抽象路径
 last_review: 2026-04-22

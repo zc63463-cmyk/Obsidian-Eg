@@ -2,13 +2,13 @@
 title: "report"
 tags:
   - 学习/英语/词汇
-  - 语义场/言语交流
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 言语交流
+semantic_field: 抽象关系
 prototype: 把信息带回来
 extension_dim: 社会路径
 last_review: 2026-04-22

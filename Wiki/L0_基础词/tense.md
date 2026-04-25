@@ -33,7 +33,7 @@ review_count: 0
 
 ## 词根词缀
 
-tens-(=tend-, 伸展，拉丁语 *tendere* 的过去分词 *tensus*)
+[[tend-tens|tens]]-(=tend-, 伸展，拉丁语 *tendere* 的过去分词 *tensus*)
 **叙事**：tens（伸展到极限）→ 绳子被"伸展"到极限就是**拉紧的**；人的神经被"伸展"到极限就是**紧张的**；语言中时间的"伸展"方式就是**时态**。一根绷紧的弦——物理上叫 tense，心理上叫 tense，语法上也叫 tense。
 
 已有词根笔记：[[tend-tens]]

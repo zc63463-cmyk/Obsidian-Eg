@@ -32,7 +32,6 @@ review_count: 0
 ## 词根词缀
 
 [[de]](向下) + [[scend-scens|scend/scens]](攀登) + -ant(人/物)
-**叙事**：de（向下）+ scend（攀爬）+ ant（人）→ 在家族树上向下走的人 → 后代。你是你祖先的 descendant。建议创建词根笔记 [[scend-scens]]
 
 ---
 

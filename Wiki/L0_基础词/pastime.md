@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-pass(经过/度过) + time(时间)
+[[pass-pati|pass]](经过/度过) + time(时间)
 **叙事**：pass（度过）+ time（时间）→ **度过时间的方式** → 消遣。你用阅读来pass time，阅读就是你的pastime。pastime 就是帮你"打发时间"的东西。
 
 ---

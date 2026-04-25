@@ -2,13 +2,13 @@
 title: "chew"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体动作
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 身体动作
+semantic_field: 人体动作
 prototype: 用牙齿咬碎食物
 extension_dim: 动作-隐喻扩展
 last_review: 2026-04-22

@@ -2,13 +2,13 @@
 title: "compel"
 tags:
   - 学习/英语/词汇
-  - 语义场/情感品质
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 中频
-semantic_field: 情感品质
+semantic_field: 人本世界
 prototype: 强迫、迫使
 extension_dim: 社会路径
 last_review: 2026-04-21
@@ -22,7 +22,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**强迫，迫使**；②使不得不，使必须；③引起，激发；
+**v.** ①==**强迫，迫使**==；②使不得不，使必须；③引起，激发；
 
 > [!tip] 原型义
 > **原型义**：强迫、驱使（一起驱赶）

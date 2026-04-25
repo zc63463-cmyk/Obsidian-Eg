@@ -32,7 +32,6 @@ review_count: 0
 
 ## 词根词缀
 
-源自拉丁语 *rapere*（抢夺、抓取），与 [[rapid]]（快速的=快速抓取）、[[rapture]]（狂喜=被"抓走"灵魂）同源。建议创建词根笔记 [[rap-rapere]]（抢夺/抓取，拉丁语 *rapere*）
 **叙事**：rape 的拉丁语词根 *rapere* 意思是"抢夺"。最严重的"抢夺"就是对人的身体侵犯——强奸（rape）。引申为对自然和文化的暴力掠夺——the rape of the countryside（对乡村的掠夺式开发）。
 
 ---

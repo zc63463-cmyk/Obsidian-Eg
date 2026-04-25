@@ -2,13 +2,13 @@
 title: "adore"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-23
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 向……说话表达敬意（对着某人说话以示崇敬）
 extension_dim: 社会路径
 last_review: 2026-04-23
@@ -18,7 +18,7 @@ review_count: 0
 # adore
 
 > [!info] 基础信息
-> **音标** /əˈdɔː(r)/ | **词频** 考研中频 | **语义场** [[行为态度]]
+> **音标** /əˈdɔː(r)/ | **词频** 考研中频 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -32,7 +32,6 @@ review_count: 0
 ## 词根词缀
 
 ad-(=to, 朝向，见 [[ad]]) + or(=说话，拉丁语 *os/oris* 嘴→*orare* 祈祷/说话) + -e
-**叙事**：ad（朝向）+ or（说话/祈祷）→ 朝某人说话祈祷 → 崇拜、敬慕。词根笔记暂不存在，建议创建词根笔记 [[or]]（说话/祈祷，拉丁语 *orare*）
 
 ---
 

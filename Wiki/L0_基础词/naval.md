@@ -2,13 +2,13 @@
 title: "naval"
 tags:
   - 学习/英语/词汇
-  - 语义场/军事交通
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 军事交通
+semantic_field: 抽象关系
 prototype: 海军的（与海上军事力量相关的）
 extension_dim: 领域路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # naval
 
 > [!info] 基础信息
-> **音标** /ˈneɪvl/ | **词频** 考研中频 | **语义场** [[军事交通]]
+> **音标** /ˈneɪvl/ | **词频** 考研中频 | **语义场** [[抽象关系]]
 
 ## 核心释义
 

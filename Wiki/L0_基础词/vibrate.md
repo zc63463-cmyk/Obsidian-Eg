@@ -2,13 +2,13 @@
 title: "vibrate"
 tags:
   - 学习/英语/词汇
-  - 语义场/物理运动
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 物理运动
+semantic_field: 自然物理
 prototype: 快速来回摇动（物体在平衡位置附近做周期性运动）
 extension_dim: 物理→情感
 last_review: 2026-04-22

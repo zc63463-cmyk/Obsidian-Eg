@@ -2,13 +2,13 @@
 title: "expression"
 tags:
   - 学习/英语/词汇
-  - 语义场/言语表达
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 言语表达
+semantic_field: 抽象关系
 prototype: 挤压出来的结果（表达的过程或产物）
 extension_dim: 抽象路径
 last_review: 2026-04-22
@@ -41,7 +41,7 @@ review_count: 0
 
 ## 词根词缀
 
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加[[链接]] %%
+%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
 %% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 ex-(=out, 向外) + press(=压，挤压) + -ion(名词后缀，表示动作或结果)
@@ -126,7 +126,7 @@ ex-(=out, 向外) + press(=压，挤压) + -ion(名词后缀，表示动作或�
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -134,7 +134,7 @@ ex-(=out, 向外) + press(=压，挤压) + -ion(名词后缀，表示动作或�
 > - [[suppression]]：压制，抑制（expression 的反义：压回去 vs 压出来）
 > - [[concealment]]：隐藏，隐瞒（expression 的反义：隐藏起来 vs 表达出来）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

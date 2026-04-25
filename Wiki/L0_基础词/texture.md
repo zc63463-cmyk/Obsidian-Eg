@@ -2,13 +2,13 @@
 title: "texture"
 tags:
   - 学习/英语/词汇
-  - 语义场/物理特征
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 物理特征
+semantic_field: 自然物理
 prototype: 编织状态（编织后的质感）
 extension_dim: 触感→视觉→抽象
 last_review: 2026-04-22

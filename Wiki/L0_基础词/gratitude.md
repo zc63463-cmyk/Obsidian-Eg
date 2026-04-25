@@ -2,13 +2,13 @@
 title: "gratitude"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-23
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 因收到恩惠而产生的感谢之情
 extension_dim: 社会路径
 last_review: 2026-04-23
@@ -18,7 +18,7 @@ review_count: 0
 # gratitude
 
 > [!info] 基础信息
-> **音标** /ˈɡrætɪtjuːd/ | **词频** 考研中频 | **语义场** [[行为态度]]
+> **音标** /ˈɡrætɪtjuːd/ | **词频** 考研中频 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -31,8 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-grat(感谢，令人愉悦，源自拉丁语 *gratus*) + -itude(名词后缀，表示状态/品质)
-**叙事**：grat（感谢）+ itude（状态/品质）→ 感谢的状态 → 感激之情。gratitude 是 grateful 的名词形式。I owe you a debt of gratitude（我对你感激不尽）。建议创建词根笔记 [[grat]]
+[[grat|grat]](感谢，令人愉悦，源自拉丁语 *gratus*) + -itude(名词后缀，表示状态/品质)
 
 ---
 

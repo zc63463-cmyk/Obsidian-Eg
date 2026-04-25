@@ -8,7 +8,7 @@ aliases: []
 date: 2026-04-21
 mastery: L0
 word_freq: 高频
-semantic_field: 自然/地理→自然物理
+semantic_field: 自然物理
 prototype: 出生，诞生
 extension_dim: 时间路径
 last_review: 2026-04-21

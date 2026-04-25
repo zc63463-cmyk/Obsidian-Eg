@@ -41,7 +41,7 @@ review_count: 0
 
 ## 词根词缀
 
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加[[链接]] %%
+%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
 %% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 ver（真实，true）+ dict（说，speak）= 真实地说出
@@ -133,7 +133,7 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -141,7 +141,7 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 > - [[appeal]]：上诉（verdict 是最终裁决，appeal 是对裁决的不服而上诉）
 > - [[acquittal]]：无罪判决（verdict 包含有罪/无罪两种可能，acquittal 是特定的无罪结果）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

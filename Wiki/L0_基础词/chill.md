@@ -2,13 +2,13 @@
 title: "chill"
 tags:
   - 学习/英语/词汇
-  - 语义场/感官体验
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 感官体验
+semantic_field: 人本世界
 prototype: 寒冷（使温度降低）
 extension_dim: 感官-情感扩展
 last_review: 2026-04-22

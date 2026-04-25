@@ -2,13 +2,13 @@
 title: "aircraft"
 tags:
   - 学习/英语/词汇
-  - 语义场/交通出行
+  - 语义场/物品工具
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 交通出行
+semantic_field: 物品工具
 prototype: 空中飞行的器物
 extension_dim: 功能扩展
 last_review: 2026-04-22

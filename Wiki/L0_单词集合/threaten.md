@@ -2,13 +2,13 @@
 title: "threaten"
 tags:
   - 学习/英语/词汇
-  - 语义场/冲突对抗
+  - 语义场/政治法律
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 冲突对抗
+semantic_field: 政治法律
 prototype: 压迫、恐吓
 extension_dim: 社会路径
 last_review: 2026-04-20

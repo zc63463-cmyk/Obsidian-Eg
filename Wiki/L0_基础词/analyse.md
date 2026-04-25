@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-ana-(=up, throughout, 彻底地/向上) + [[lyt-lys|lyt]](=loosen, 解开) + -ise(= -ize, 使动后缀) → 彻底解开 → 分析
+[[ana|ana]]-(=up, throughout, 彻底地/向上) + [[lyt-lys|lyt]](=loosen, 解开) + -ise(= -ize, 使动后缀) → 彻底解开 → 分析
 **叙事**：ana（彻底）+ lyse（解开）→ 彻底解开一个复杂问题 → 分析。分析数据（analyse data），分析问题（analyse the problem），精神分析（psychoanalyse）。analyse 就是"分析"——把复杂事物彻底解开来看。美式拼写为 analyze。
 
 建议创建词根笔记 [[lyt-lys]]

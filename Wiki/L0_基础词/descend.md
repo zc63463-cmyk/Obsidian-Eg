@@ -32,7 +32,6 @@ review_count: 0
 ## 词根词缀
 
 [[de]](向下) + [[scend-scens|scend/scens]](攀登，拉丁语 *scandere*，"攀爬")
-**叙事**：de（向下）+ scend（攀爬）→ 向下攀爬 → 下降。ascend 是向上攀爬（上升），descend 是反方向——向下攀爬（下降）。建议创建词根笔记 [[scend-scens]]
 
 ---
 

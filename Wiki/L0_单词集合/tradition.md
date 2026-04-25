@@ -2,13 +2,13 @@
 title: "tradition"
 tags:
   - 学习/英语/词汇
-  - 语义场/社会文化
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 社会文化
+semantic_field: 社会习俗
 prototype: 一代代传递下去
 extension_dim: 社会路径
 last_review: 2026-04-20

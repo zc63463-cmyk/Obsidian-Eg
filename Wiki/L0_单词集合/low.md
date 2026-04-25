@@ -2,13 +2,13 @@
 title: "low"
 tags:
   - 学习/英语/词汇
-  - 语义场/空间方位
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 空间方位
+semantic_field: 自然物理
 prototype: 位置低，靠近地面
 extension_dim: 空间路径
 last_review: 2026-04-22
@@ -43,7 +43,7 @@ review_count: 0
 
 ## 词根词缀
 
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加[[链接]] %%
+%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
 %% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 古英语 *lhaw*（低的，平的），与 [[lie]]（躺）同源。无标准词根词缀拆分。
@@ -134,7 +134,7 @@ review_count: 0
 
 %% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
 %% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则[[链接]] %%
+%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
 
 ## 反义词
 
@@ -142,7 +142,7 @@ review_count: 0
 > - [[high]]：高的（low 的精确反义：低↔高）
 > - [[tall]]：高的（low 的反义：矮↔高）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

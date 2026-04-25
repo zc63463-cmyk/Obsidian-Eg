@@ -2,13 +2,13 @@
 title: "dominant"
 tags:
   - 学习/英语/词汇
-  - 语义场/权力与控制
+  - 语义场/政治法律
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 权力与控制
+semantic_field: 政治法律
 prototype: 统治的、支配的
 extension_dim: 社会路径
 last_review: 2026-04-22

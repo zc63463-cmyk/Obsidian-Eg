@@ -2,13 +2,13 @@
 title: "utilize"
 tags:
   - 学习/英语/词汇
-  - 语义场/工具使用
+  - 语义场/物品工具
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 工具使用
+semantic_field: 物品工具
 prototype: 使某物变得有用，加以利用
 extension_dim: 抽象路径
 last_review: 2026-04-20

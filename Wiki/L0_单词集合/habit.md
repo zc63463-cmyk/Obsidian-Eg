@@ -2,13 +2,13 @@
 title: "habit"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为模式
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 行为模式
+semantic_field: 理性世界
 prototype: 长期反复而形成的固有行为状态
 extension_dim: 具身路径
 last_review: 2026-04-20

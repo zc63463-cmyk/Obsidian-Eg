@@ -2,13 +2,13 @@
 title: "algorithm"
 tags:
   - 学习/英语/词汇
-  - 语义场/科技学术
+  - 语义场/社会专业
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 科技学术
+semantic_field: 社会专业
 prototype: 阿拉伯数学家的计算方法
 extension_dim: 领域扩展
 last_review: 2026-04-22

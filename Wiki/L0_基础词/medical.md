@@ -31,10 +31,9 @@ review_count: 0
 
 ## 词根词缀
 
-med(=medicus, 医治，拉丁语 *medicus*) + -ical(形容词后缀，"……的")
+[[medi|med]](=medicus, 医治，拉丁语 *medicus*) + -ical(形容词后缀，"……的")
 **叙事**：med（医治）+ ical（的）→ **与医治相关的** → 医学的。medical care（医疗护理）、medical school（医学院）——一切与"治病救人"相关的都是 medical。
 
-建议创建词根笔记 [[med-medico-]]（医治，拉丁语 *medicus*）
 
 ---
 

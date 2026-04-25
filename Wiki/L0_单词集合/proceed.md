@@ -2,13 +2,13 @@
 title: "proceed"
 tags:
   - 学习/英语/词汇
-  - 语义场/运动与方向
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 运动与方向
+semantic_field: 人体动作
 prototype: 继续前进、进行
 extension_dim: 空间路径
 last_review: 2026-04-22

@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-re-(再次，[[re]]) + pro-(向前) + duc(引导，[[duct]]) → produce(生产) + re-(再次)
+re-(再次，[[re]]) + pro-(向前) + [[duct|duc]](引导，[[duct]]) → produce(生产) + re-(再次)
 **叙事**：re（再次）+ produce（生产）→ 再次生产 → **复制/繁殖**。复印机 reproduce（复制）文件，就是再次生产一份相同的文件。动物 reproduce（繁殖），就是再次生产后代。
 
 ---

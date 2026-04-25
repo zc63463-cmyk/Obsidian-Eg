@@ -33,7 +33,6 @@ review_count: 0
 ## 词根词缀
 
 [[grace|grace]](恩惠/恩典) + -ious(形容词后缀，"具有……特质的")
-**叙事**：grace（恩惠）+ ious（具有……特质的）→ 具有恩典特质的 → 和蔼的、宽厚的。gracious 侧重**内在的和蔼友善**，如 a gracious host（和蔼的主人），a gracious smile（亲切的微笑）。与 [[graceful]] 不同，gracious 侧重内在的友善态度，graceful 侧重外在的优美动作。建议创建词根笔记 [[grat/grac]]。
 
 ---
 

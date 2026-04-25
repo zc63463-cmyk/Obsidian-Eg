@@ -119,7 +119,7 @@ review_count: 0
 > - [[inferiority]]：低等，次要（优先→次要）
 > - [[subordination]]：从属地位（优先→从属）
 
-%% HERMES-L2: 添加[[wikilink]]，说明反义关系 %%
+%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 

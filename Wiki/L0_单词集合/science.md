@@ -2,13 +2,13 @@
 title: "science"
 tags:
   - 学习/英语/词汇
-  - 语义场/知识与学术
+  - 语义场/社会专业
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 高频
-semantic_field: 知识与学术
+semantic_field: 社会专业
 prototype: 知识、辨别的能力
 extension_dim: 抽象路径
 last_review: 2026-04-20

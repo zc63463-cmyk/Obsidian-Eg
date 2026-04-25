@@ -32,7 +32,6 @@ review_count: 0
 ## 词根词缀
 
 [[grace|grace]](优雅/恩惠) + -ful(形容词后缀，"充满……的")
-**叙事**：grace（优雅）+ ful（充满……的）→ 充满优雅的 → 优美的。graceful 主要用来描述**动作和姿态**的优美流畅，如 a graceful dancer（优雅的舞者），a graceful movement（优美的动作）。与 [[gracious]] 不同，graceful 侧重外在的优雅，gracious 侧重内在的和蔼。建议创建词根笔记 [[grat/grac]]。
 
 ---
 

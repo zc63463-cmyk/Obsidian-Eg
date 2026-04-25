@@ -33,7 +33,6 @@ review_count: 0
 ## 词根词缀
 
 bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*bulstraz*。与 [[bold]]（大胆的）形似但不同源。
-**叙事**：bolster 最初就是"长枕头/垫子"——用来支撑身体的东西。后来引申为"支撑、加固"——bolster the economy（支撑经济），bolster confidence（增强信心），bolster the argument（加固论点）。建议创建词根笔记 [[bolster]]（垫子/支撑，古英语 *bolster*）
 
 ---
 

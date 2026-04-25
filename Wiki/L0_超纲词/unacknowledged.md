@@ -1,0 +1,159 @@
+---
+title: "unacknowledged"
+tags:
+  - 学习/英语/词汇
+  - 语义场/社会习俗
+  - 掌握/L0
+aliases: []
+date: 2026-04-25
+mastery: L0
+word_freq: 低频
+semantic_field: 社会习俗
+prototype: 未被承认的（没有被给予知识/认可）
+extension_dim: 社会路径
+last_review: 2026-04-25
+review_count: 0
+---
+
+# unacknowledged
+
+> [!info] 基础信息
+> **音标** /ˌʌnəkˈnɒlɪdʒd/ | **词频** 考研低频 | **语义场** [[社会习俗]]
+
+## 核心释义
+
+**adj.** ①==**未被承认的，未获认可的**==；②未被注意到的，被忽视的；
+
+> [!tip] 原型义
+> **原型义**：未被承认的（没有被给予知识/认可）
+> **延伸维度**：社会路径
+> **隐喻类型**：结构隐喻（"给予知识"→"承认/认可"，acknowledge 的字面义"认知"→社会义"承认"）
+
+## 词根词缀
+
+un-(不，否定前缀) + ac-(=ad-, 向/加强) + [[know]](知道) + -ledg(名词后缀) + -ed(形容词后缀，持有状态)
+**叙事**：un（不）+ ac + know（知道）+ -ledge + -ed → 不被知道 → **未被承认的**。acknowledge 就是"我知道你了"→承认你的存在/贡献。unacknowledged 就是"没人知道你"→被忽视、被埋没。建议创建词根笔记 [[know]]。
+
+---
+
+## 词义链路
+
+> [!tip]- 词义链路法 · L1
+> 以"**未被承认的**"为统筹中心，沿社会路径向外扩展：
+>
+> 1. **未被承认的**（社会认知层面）
+>    - → **未获认可的**：贡献、成就未得到承认
+>      - 激活条件：an unacknowledged genius（未被承认的天才）
+>    - → **被忽视的，未被注意到的**：存在未被察觉
+>      - 激活条件：the unacknowledged problems（被忽视的问题）
+
+### 统筹（选择适用的模式）
+
+- **一字一词概括**：unacknowledged 就是"没人认"——没人认你的贡献、没人注意到你的存在
+- **一句话统筹**：unacknowledged 就是"我知道你"这件事没有发生
+
+> [!check]- 链路验证
+> - [x] **可逆性**：从"被忽视的"能反向推导到"未被承认的"——忽视就是不去承认
+> - [x] **可统筹**：一句话——"unacknowledged 就是没人知道、没人认"
+> - [x] **有支撑**：unacknowledged genius, unacknowledged hero 均有语料支撑
+
+## 词性转换
+
+> [!note]- 词性-词义链接 · L1
+>
+> | 词性 | 释义 | 转换路径 |
+> |------|------|---------|
+> | adj. | 未被承认的；被忽视的 | acknowledge + un- + -ed（持有"未被承认"的状态） |
+> | v. (acknowledge) | 承认；致谢 | 核心动词 |
+
+> [!abstract]- 词尾定性速查
+> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+>
+> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+
+## 记忆锚点
+
+> [!quote]- 记忆方式 · L1
+>
+> **叙事化词源**（优先）：
+> acknowledge（承认）= ac（向）+ knowledge（知识）→ 给你知识→承认你。unacknowledged 就是反过来——没人给你"知识"（认可）。Many artists died unacknowledged.（许多艺术家在未被承认中死去。）the unacknowledged heroes of history（历史上被忽视的英雄）。
+>
+> **词拆分记忆**（辅助）：
+> un（不）+ acknowledge（承认）+ -d → 不被承认的
+
+---
+
+## 同义词辨析
+
+> [!note]- 同义词网络 · L2
+>
+> | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
+> |------|------------|---------|---------|---------|
+> | [[unrecognized]] | 未被认出的 | 强调没有被识别出来 | 人才、贡献 | 中性 |
+> | [[unappreciated]] | 未被赏识的 | 强调价值未被欣赏 | 努力、才华 | 负面/遗憾 |
+> | **unacknowledged** | 未被承认的 | 强调社会层面没有给予正式认可 | 贡献、成就、问题 | 负面/遗憾 |
+>
+> **"增"标记**：unacknowledged **(增-正式性和社会层面)** vs unrecognized（基准词：未被认出）；unacknowledged **(增-隐含的忽视/冷漠)** vs unappreciated（基准词：未被赏识）
+
+## 反义词
+
+> [!note]- 反义词 · L2
+> - [[acknowledged]]：被承认的，公认的
+> - [[recognized]]：被认出的，被承认的
+
+## 派生词链接
+
+> [!note]- 派生词族 · L2
+>
+> | 派生词 | 构词分析 | 释义 | 链接关系 |
+> |--------|---------|------|---------|
+> | [[acknowledge]] | ac- + knowledge | 承认；致谢 | 词义补充（母动词） |
+> | [[acknowledgement]] | acknowledge + -ment | 承认；致谢（名词） | 词义补充 |
+> | [[unacknowledged]] | un- + acknowledged | 未被承认的 | 核心词 |
+
+---
+
+## 搭配与短语
+
+> [!example]- 搭配 · L3
+> - **unacknowledged genius/talent**：未被承认的天才/才华
+> - **unacknowledged hero**：被忽视的英雄
+> - **remain unacknowledged**：仍然未被承认
+> - **largely unacknowledged**：在很大程度上被忽视
+
+## 真题/语料关联
+
+> [!example]- 语料 · L3
+> - "She was the unacknowledged leader of the group."（她是这个群体中未被承认的领袖。）
+> - "The role of women in history has often gone unacknowledged."（女性在历史中的作用常常被忽视。）
+
+## 复习记录
+
+> [!note]- 复习追踪
+> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
+>
+> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
+> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
+> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
+> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
+
+---
+
+## 主动产出
+
+> [!success]- 内化标记 · L4
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>
+
+---
+
+## 网络激活
+
+> [!todo]- 🌐 网络激活选项
+> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
+> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
+>
+> - [ ] 词根笔记：[[know]]（知道，古英语 *cnawan*）
+> - [ ] 同义辨析：unacknowledged/unrecognized/unappreciated
+> - [ ] 反义词群：acknowledged/recognized
+> - [ ] 形近词群：knowledge/acknowledge/acknowledgement/unacknowledged

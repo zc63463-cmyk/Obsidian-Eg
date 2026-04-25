@@ -2,13 +2,13 @@
 title: "weary"
 tags:
   - 学习/英语/词汇
-  - 语义场/身心状态
+  - 语义场/抽象关系
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 身心状态
+semantic_field: 抽象关系
 prototype: 疲倦的、精疲力竭的
 extension_dim: 具身路径
 last_review: 2026-04-20

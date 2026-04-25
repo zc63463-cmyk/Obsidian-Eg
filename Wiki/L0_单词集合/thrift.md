@@ -2,13 +2,13 @@
 title: "thrift"
 tags:
   - 学习/英语/词汇
-  - 语义场/经济与生活
+  - 语义场/社会习俗
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 低频
-semantic_field: 经济与生活
+semantic_field: 社会习俗
 prototype: 繁荣兴旺的状态
 extension_dim: 社会路径
 last_review: 2026-04-20

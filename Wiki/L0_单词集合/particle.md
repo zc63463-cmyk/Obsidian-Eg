@@ -2,13 +2,13 @@
 title: "particle"
 tags:
   - 学习/英语/词汇
-  - 语义场/物质构成
+  - 语义场/物品工具
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 物质构成
+semantic_field: 物品工具
 prototype: 极小的一部分
 extension_dim: 空间路径
 last_review: 2026-04-20

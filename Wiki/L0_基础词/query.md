@@ -2,13 +2,13 @@
 title: "query"
 tags:
   - 学习/英语/词汇
-  - 语义场/信息交流
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 信息交流
+semantic_field: 理性世界
 prototype: 疑问（对某事提出问题以获取信息）
 extension_dim: 信息路径
 last_review: 2026-04-22

@@ -2,13 +2,13 @@
 title: "thigh"
 tags:
   - 学习/英语/词汇
-  - 语义场/身体部位
+  - 语义场/人体动作
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 中频
-semantic_field: 身体部位
+semantic_field: 人体动作
 prototype: 腿部最粗壮的部分（支撑身体的核心区域）
 extension_dim: 身体结构
 last_review: 2026-04-22

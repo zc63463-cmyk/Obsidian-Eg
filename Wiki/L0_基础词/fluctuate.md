@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-flu(流动，拉丁语 *fluere*) +ctu(摇摆，拉丁语 *-ct-* 表动态) + -ate(动词后缀，使动)
+[[flu-flux|flu]](流动，拉丁语 *fluere*) +ctu(摇摆，拉丁语 *-ct-* 表动态) + -ate(动词后缀，使动)
 **叙事**：flu（流动）+ ctu（摇摆）+ ate（使动）→ 使像水一样来回摇摆 → 波动。股价 fluctuate 就像河水一样忽高忽低。
 
 ---

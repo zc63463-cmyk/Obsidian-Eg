@@ -2,13 +2,13 @@
 title: "alike"
 tags:
   - 学习/英语/词汇
-  - 语义场/比较描述
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 比较描述
+semantic_field: 理性世界
 prototype: 相像（看起来或性质上相同）
 extension_dim: 程度扩展
 last_review: 2026-04-22

@@ -2,13 +2,13 @@
 title: "bold"
 tags:
   - 学习/英语/词汇
-  - 语义场/行为态度
+  - 语义场/人本世界
   - 掌握/L0
 aliases: []
 date: 2026-04-23
 mastery: L0
 word_freq: 中频
-semantic_field: 行为态度
+semantic_field: 人本世界
 prototype: 大胆的、勇敢的（敢于面对危险的）
 extension_dim: 社会路径
 last_review: 2026-04-23
@@ -18,7 +18,7 @@ review_count: 0
 # bold
 
 > [!info] 基础信息
-> **音标** /bəʊld/ | **词频** 考研中频 | **语义场** [[行为态度]]
+> **音标** /bəʊld/ | **词频** 考研中频 | **语义场** [[人本世界]]
 
 ## 核心释义
 

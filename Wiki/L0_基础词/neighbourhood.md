@@ -2,13 +2,13 @@
 title: "neighbourhood"
 tags:
   - 学习/英语/词汇
-  - 语义场/空间位置
+  - 语义场/自然物理
   - 掌握/L0
 aliases: []
 date: 2026-04-22
 mastery: L0
 word_freq: 高频
-semantic_field: 空间位置
+semantic_field: 自然物理
 prototype: 邻里（居住在附近区域的人群及其生活环境）
 extension_dim: 空间路径
 last_review: 2026-04-22
@@ -18,7 +18,7 @@ review_count: 0
 # neighbourhood
 
 > [!info] 基础信息
-> **音标** /ˈneɪbəhʊd/ | **词频** 考研高频 | **语义场** [[空间位置]]
+> **音标** /ˈneɪbəhʊd/ | **词频** 考研高频 | **语义场** [[自然物理]]
 
 ## 核心释义
 

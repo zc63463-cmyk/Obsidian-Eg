@@ -32,7 +32,6 @@ review_count: 0
 
 ## 词根词缀
 
-grace 源自拉丁语 *gratia*（恩惠、感谢），与 [[grateful]]、[[congratulate]] 同源。建议创建词根笔记 [[grat/grac]]。
 **叙事**：grace 最初是"神的恩赐"（grace of God）。后来引申为"优雅"——因为优雅被视为上天赐予的天赋。grace 也可以表示"宽限"——给你一个恩惠（grace period = 宽限期）。
 
 ---

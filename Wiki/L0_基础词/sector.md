@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-sect(切，拉丁语 *secare*，"切割"，与 [[section]]/[[segment]] 同源) + -or(名词后缀，表"做……的人/物")
+[[sec-sect|sect]](切，拉丁语 *secare*，"切割"，与 [[section]]/[[segment]] 同源) + -or(名词后缀，表"做……的人/物")
 **叙事**：sect（切）+ -or（被切的东西）→ 被切出来的区域 → 扇形。一个圆被两条半径切出来就是 sector（扇形）。经济被"切"成几块就是 economic sectors（经济部门），军事上被"切"出来的区域就是 the southern sector（南部区域）。
 
 ---

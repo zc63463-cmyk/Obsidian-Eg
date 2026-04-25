@@ -31,10 +31,9 @@ review_count: 0
 
 ## 词根词缀
 
-de-(向下，away) + ceit(拿/抓，拉丁语 *capere* 的变体)
+[[de|de]]-(向下，away) + [[cap-ceiv-capt|ceit]](拿/抓，拉丁语 *capere* 的变体)
 **叙事**：de（向下）+ ceit（拿/抓）→ 把人往阴沟里拉，用不正当手段获取 → 欺骗。deceit 是 deceive 的名词形式，ceit 和 ceive 是同一个词根的不同变体。
 
-建议创建词根笔记 [[cap-/cept-/ceiv-/ceit-]]（拿/抓/取，拉丁语 *capere*）
 
 ---
 

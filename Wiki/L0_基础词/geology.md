@@ -31,7 +31,7 @@ review_count: 0
 
 ## 词根词缀
 
-geo-(=ge, 地球/土地) + -logy(=log, 学科/研究)
+geo-(=ge, 地球/土地) + -[[log-logy|logy]](=log, 学科/研究)
 **叙事**：geo（地球）+ logy（学科）→ 研究地球的学科 → 地质学。geo- 是"地球"，-logy 是"学科"。与 [[geography]]（地理学=写地球）、[[geometry]]（几何学=测土地）共享 geo- 前缀。
 
 ---

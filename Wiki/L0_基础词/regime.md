@@ -34,7 +34,6 @@ review_count: 0
 reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 **叙事**：reg（统治）+ -ime（方式）→ 统治的方式 → 政权/政体。一个国家的 regime 就是它的统治方式。regime 也可以指其他领域的"管理制度"——training regime（训练制度），diet regime（饮食制度）。
 
-建议创建词根笔记 [[reg-rect]]（统治/引导，拉丁语 *regere*）
 
 ---
 

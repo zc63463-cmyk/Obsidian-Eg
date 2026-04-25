@@ -2,13 +2,13 @@
 title: "deem"
 tags:
   - 学习/英语/词汇
-  - 语义场/认知判断
+  - 语义场/理性世界
   - 掌握/L0
 aliases: []
 date: 2026-04-20
 mastery: L0
 word_freq: 中频
-semantic_field: 认知判断
+semantic_field: 理性世界
 prototype: 经过判断后形成的看法
 extension_dim: 抽象路径
 last_review: 2026-04-20

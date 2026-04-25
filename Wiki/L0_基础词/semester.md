@@ -34,7 +34,6 @@ review_count: 0
 semi-(半，拉丁语 *semi-*) + [[mest|mester]](月，拉丁语 *mensis*) → 六个月
 **叙事**：semi（半）+ mester（月）→ 六个月 → 一学年的一半 → 学期。美国大学一学年分两个 semester，每个大约六个月（实际约15-18周）。
 
-建议创建词根笔记 [[mest]]
 
 ---
 

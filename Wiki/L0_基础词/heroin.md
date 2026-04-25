@@ -9,7 +9,7 @@ date: 2026-04-23
 mastery: L0
 word_freq: 低频
 semantic_field: 物品工具
-prototype: "英雄般感觉"的毒品（因使用后产生英雄般幻觉而得名）
+prototype: '"英雄般感觉"的毒品（因使用后产生英雄般幻觉而得名）'
 extension_dim: 抽象路径
 last_review: 2026-04-23
 review_count: 0
