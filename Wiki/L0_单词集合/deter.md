@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 政治法律
 prototype: 使人因恐惧而远离
 extension_dim: 社会路径
+phonetic: "/dɪˈtɜː(r)/"
+pos: v.
+metaphor_type: 无隐喻
+word_root: ter
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # deter
 
 > [!info] 基础信息
-> **音标** /dɪˈtɜː(r)/ | **词频** 考研中频 | **语义场** [[法律政治]]
+> **音标** /dɪˈtɜː(r)/ | **词级** 必备词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**使人因恐惧而远离**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使人因恐惧而远离**（心理层面）
@@ -66,8 +71,7 @@ review_count: 0
 > | n. | deterrence | -ence 名词化，"威慑；遏制" |
 > | n. | deterrent | -ent 人/物，"威慑物；遏制因素" |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -134,19 +138,12 @@ review_count: 0
 > > - "The severe punishment was intended to deter others from committing similar crimes."（严厉的惩罚旨在阻止其他人犯类似的罪行。）——考研阅读真题
 > - "High taxes on tobacco are designed to deter people from smoking."（对烟草征收高额税收旨在阻止人们吸烟。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -155,16 +152,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：de（远离/向下）
-> - [ ] 同义辨析：prevent, discourage, hinder
-> - [ ] 反义词群：encourage, attract
-> - [ ] 形近词群：detect, determine, deteriorate

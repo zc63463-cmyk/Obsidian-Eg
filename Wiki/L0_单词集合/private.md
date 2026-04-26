@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 政治法律
 prototype: 个人的，属于个人的
 extension_dim: 社会路径
+phonetic: "/ˈpraɪvət/"
+pos: adj.
+metaphor_type: 结构隐喻
+word_root: priv
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # private
 
 > [!info] 基础信息
-> **音标** /ˈpraɪvət/ | **词频** 考研高频 | **语义场** [[政治法律]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
+> **音标** /ˈpraɪvət/ | **词级** 必备词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -32,8 +35,6 @@ review_count: 0
 > **延伸维度**：社会路径
 > **隐喻类型**：结构隐喻（私人=从公共领域中划出的"个人领地"）
 
-%% HERMES-L0: 判定原型义(物理动作优先>最具体义项优先>最早学到优先>词源义参考) %%
-
 ## 词根词缀
 
 priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（属于个人的→私人的）
@@ -42,13 +43,11 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 
 **叙事**：在古罗马，从国家中**分离出来**（priv）归个人所有的财产就是**私人的**（-ate）——公与私的界限由此诞生。
 
-%% HERMES-L0: 叙事记忆创作参考哲学文档2.7.4节 %%
-
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**个人的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **个人的**（社会层面：从公共领域中分离）
@@ -71,8 +70,6 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 > - [x] **可统筹**：所有义项围绕"非公共/个人"展开
 > - [x] **有支撑**：private sector / private life / private property 为考研高频用法
 
-%% HERMES-L1: 应用词义链路法操作规程(哲学文档2.2节) %%
-
 ## 词性转换
 
 > [!note]- 词性-词义链接 · L1
@@ -84,10 +81,7 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 > | n. (privacy) | 隐私 | adj→n：私人的状态→隐私 |
 > | adv. (privately) | 私下地 | adj→adv：以私人的方式 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -98,8 +92,6 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 >
 > **词拆分记忆**（标准词根无法解释时使用）：
 > priv（= individual，个人）+ ate（形容词后缀）→ 个人的 → **私人的**
-
-%% HERMES-L1: 优先使用叙事化词源(哲学文档2.7.4) %%
 
 ---
 
@@ -115,15 +107,11 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 >
 > **"增"标记**：private **(增-非公共性)** vs personal（personal 强调"与个人有关"，private 强调"非公共的"）
 
-%% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
-
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - [[public]]：公共的，公众的（私人的→公共的）
 > - [[official]]：官方的，公职的（私人的→官方的）
-
-%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 
@@ -138,8 +126,6 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 > | [[privilege]] | priv(个人) + leg(法律) | 特权 | pri-族同源 |
 > | [[prudent]] | prud(有远见的) + -ent(形容词后缀) | 谨慎的 | pri-族形义关联 |
 
-%% HERMES-L2: 派生词链接(哲学文档2.5节) %%
-
 ---
 
 ## 搭配与短语
@@ -152,8 +138,6 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 > - **private life**：私生活
 >   Celebrities often complain that the media intrude into their private lives.（名人经常抱怨媒体侵入他们的私生活。）
 
-%% HERMES-L3: 仅列考研真题高频搭配 %%
-
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
@@ -165,11 +149,6 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 %% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
 
@@ -180,20 +159,3 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：pri（在前面/第一）
-> - [ ] 同义辨析：private / personal / confidential
-> - [ ] 反义词群：public / official
-> - [ ] 形近词群：private / privilege / deprive / depravity
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox %%

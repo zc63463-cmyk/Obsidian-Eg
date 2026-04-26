@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 中频
+word_freq: 基础词
 semantic_field: 人本世界
 prototype: 拿回来的人（接受某物的人）
 extension_dim: 接收者路径
+phonetic: "/rɪˈsɪpiənt/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: receive
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # recipient
 
 > [!info] 基础信息
-> **音标** /rɪˈsɪpiənt/ | **词频** 考研中频 | **语义场** [[人本世界]]
+> **音标** /rɪˈsɪpiənt/ | **词级** 基础词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -i-（连接元�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**拿回来的人（接受某物的人）**"为统筹中心，沿接收者路径向外扩展：
 >
 > 1. **接受东西的人**（角色层面）
@@ -71,10 +76,7 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -i-（连接元�
 > | v. [[receive]] | 收到，接收 | 基础动词 |
 > | n. [[reception]] | 接待 | 同源名词 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -146,11 +148,6 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -i-（连接元�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -159,16 +156,3 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -i-（连接元�
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：recipient/receiver/beneficiary/heir
-> - [ ] 反义词群：donor/sender/giver
-> - [ ] cap词根族：recipient/receive/receipt/reception/recipe
-> - [ ] 搭配网络：the recipient of / organ recipient / intended recipient

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 资本经济
 prototype: 劳动、辛苦工作（耗费体力的劳作）
 extension_dim: 具身路径
+phonetic: "/ˈleɪbə(r)/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: elaborate
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # labour
 
 > [!info] 基础信息
-> **音标** /ˈleɪbə(r)/ | **词频** 考研高频 | **语义场** [[资本经济]]
+> **音标** /ˈleɪbə(r)/ | **词级** 基础词 | **语义场** [[资本经济]]
 
 ## 核心释义
 
@@ -40,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**劳动、辛苦工作**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **体力劳作**（物理层面）
@@ -71,10 +76,7 @@ review_count: 0
 > | v. | 辛勤工作，苦干 | n→v：名词动词化 |
 > | adj. | labour（作定语）| 劳动的 | n→adj：名词定语化 |
 
-> [!abstract]- 词尾定性速查
-> `-our` 名词后缀（英式）/ `-tion` 动作结果 / `-ive` 倾向 / `-ous` 充满 / `-able` 可被 / `-ful` 充满 / `-less` 没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -145,11 +147,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -158,16 +155,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：拉丁语 *labor*（劳动）→ labour/elaborate/laboratory/collaborate
-> - [ ] 同义辨析：labour/work/toil/effort
-> - [ ] 反义词群：rest/leisure/capital
-> - [ ] 词源家族：labour/labor/elaborate/laboratory/collaborate

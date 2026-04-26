@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 政治法律
 prototype: 政策；方针
 extension_dim: 社会路径
+phonetic: "/ˈpɒləsi/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: policy
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # policy
 
 > [!info] 基础信息
-> **音标** /ˈpɒləsi/ | **词频** 考研高频 | **语义场** [[法律政治]]
+> **音标** /ˈpɒləsi/ | **词级** 必备词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**治理方案/行动纲领**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **政策/方针**（国家/组织层面——治理的方案）
@@ -63,8 +68,7 @@ review_count: 0
 > | n. | 政策；保险单 | 名词原形 |
 > | adj. (politic) | 精明的；策略性的 | policy 的形容词形式（古义，现代少用） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -129,19 +133,12 @@ review_count: 0
 > > - "The government's new economic policy aims to stimulate growth and create jobs."（政府的新经济政策旨在刺激增长和创造就业。）——考研阅读真题
 > - "Environmental policy must balance economic development with ecological protection."（环境政策必须在经济发展与生态保护之间取得平衡。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -150,16 +147,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：strategy, principle, regulation, policy
-> - [ ] 反义词群：anarchy
-> - [ ] 形近词群：policy, polite, politics, political, politician, poll, ponder（pol- 词根族）
-> - [ ] pol- 词根族：polite, politics, political, politician, poll, ponder

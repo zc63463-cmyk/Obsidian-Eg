@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 人体动作
 prototype: 需要大量体力的、令人筋疲力尽的
 extension_dim: 具身路径
+phonetic: "/ˈstrenjuəs/"
+pos: adj.
+metaphor_type: 本体隐喻
+word_root: stren
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # strenuous
 
 > [!info] 基础信息
-> **音标** /ˈstrenjuəs/ | **词频** 考研中频 | **语义场** [[人体动作]]
+> **音标** /ˈstrenjuəs/ | **词级** 必备词 | **语义场** [[人体动作]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**需要大量体力的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **需要大量体力的**（身体层面）
@@ -67,10 +72,7 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 > | adj. | 费力的；奋力的 | 核心词性，"充满力量消耗的" |
 > | adv. (strenuously) | 费力地；奋力地 | adj→adv：以充满力量消耗的方式 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -134,11 +136,6 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -147,16 +144,3 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：[[tend-tens]]（拉伸/紧绷，原始印欧语 *\*strenk-*）
-> - [ ] 同义辨析：strenuous/arduous/rigorous/exhausting
-> - [ ] 反义词群：easy/effortless
-> - [ ] 形近词群：strength/strengthen/stress

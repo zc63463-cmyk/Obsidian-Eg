@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 低频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在上方流动（溢出的，多余的）
 extension_dim: 空间路径
+phonetic: "/suːˈpɜːfluəs/"
+pos: adj.
+metaphor_type: 方位隐喻
+word_root: flu
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # superfluous
 
 > [!info] 基础信息
-> **音标** /suːˈpɜːfluəs/ | **词频** 考研低频 | **语义场** [[数量与程度]]
+> **音标** /suːˈpɜːfluəs/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**在上方流动（溢出）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在上方流动（溢出）**（物理层面：水溢出容器）
@@ -64,10 +69,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 > | adj. | 多余的；过剩的 | 原型义 |
 > | n. | superfluity：多余；过剩 | adj. → n.：+ -ity |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -128,11 +130,6 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -141,16 +138,3 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 > [!success]- 内化标记 · L4
 > **写作用例**：待填写
 > **翻译实践**：待填写
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：super（在上方）——建议创建词根笔记 [[super]]
-> - [ ] 同义辨析：superfluous / extra / redundant / excessive
-> - [ ] 反义词群：necessary / essential
-> - [ ] 形近词群：superfluous / superficial / superb / superior

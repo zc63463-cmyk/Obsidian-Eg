@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 向前跳出的东西→结果
 extension_dim: 抽象路径
+phonetic: "/rɪˈzʌlt/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: result
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # result
 
 > [!info] 基础信息
-> **音标** /rɪˈzʌlt/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+> **音标** /rɪˈzʌlt/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**结果**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **结果**（因果链条终端）
@@ -69,10 +74,7 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 > | n. | 结果；后果 | 基础词性 |
 > | v. | 导致；由...引起 | n→v：因果关系的动作化 |
 
-> [!abstract]- 词尾定性速查
-> 无典型词尾变化，result 本身可兼名动
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -134,11 +136,6 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -147,16 +144,3 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：salt/sali/sult（跳）
-> - [ ] 同义辨析：result / outcome / consequence / effect
-> - [ ] 反义词群：cause
-> - [ ] 形近词群：resultant / resume

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 社会专业
 prototype: 使工业化
 extension_dim: 社会路径
+phonetic: "/ɪnˈdʌstriəlaɪz/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: industr
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,13 +23,9 @@ review_count: 0
 # industrialize
 
 > [!info] 基础信息
-> **音标** /ɪnˈdʌstriəlaɪz/ | **词频** 考研中频 | **语义场** [[社会专业]]
-
-%% HERMES-L0: 音标(IPA)、词频(考研中频)、语义场(社会专业) %%
+> **音标** /ɪnˈdʌstriəlaɪz/ | **词级** 必备词 | **语义场** [[社会专业]]
 
 ## 核心释义
-
-%% HERMES-L0: 按词性分类，考研常考义项不超过4个 %%
 
 **v.** ①==**使工业化**== ; ②实现工业化 ;
 
@@ -33,22 +34,16 @@ review_count: 0
 > **延伸维度**：社会路径
 > **隐喻类型**：结构隐喻（工业化=社会进步的结构性转变）
 
-%% HERMES-L0: 原型义为"使工业化"，社会路径延伸 %%
-
 ## 词根词缀
-
-%% HERMES-L0: 拆分前缀+词根+后缀 %%
 
 industr(y)(工业) + -ial(形容词后缀) + -ize(动词后缀，"使…化")
 **叙事**：一个国家从田间地头走向工厂烟囱，**industrialize**（使工业化）的过程就是让机器替代双手。
-
-%% HERMES-L0: 建议创建词根笔记 [[industr]] %%
 
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**使工业化**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使工业化**（经济结构转变）
@@ -74,10 +69,7 @@ industr(y)(工业) + -ial(形容词后缀) + -ize(动词后缀，"使…化")
 > | adj. | 工业的 | v.→adj. 去掉 -ize，保留 industrial 形容词 |
 > | n. | 工业化 | v.→n. industrialization，动作的结果 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -118,8 +110,6 @@ industr(y)(工业) + -ial(形容词后缀) + -ize(动词后缀，"使…化")
 > | [[industry]] | industr + -y | 工业，产业 | 词义补充：名词形式反哺动词 |
 > | industrialization | industrial + -ize + -ation | 工业化（名词） | 词义补充：动作结果 |
 
-%% HERMES-L2: industrial ↔ industrialize ↔ industry 同族互链 %%
-
 ---
 
 ## 搭配与短语
@@ -140,11 +130,6 @@ industr(y)(工业) + -ial(形容词后缀) + -ize(动词后缀，"使…化")
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -153,18 +138,3 @@ industr(y)(工业) + -ial(形容词后缀) + -ize(动词后缀，"使…化")
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：industr（工业/勤勉）
-> - [ ] 同义辨析：industrialize / modernize / develop
-> - [ ] 反义词群：deindustrialize
-> - [ ] 形近词群：industrial / industrialization
-
-%% HERMES-ACTIVATION: 建议创建词根笔记 [[industr]] %%

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 显现出来的事物，可被观察到的现象
 extension_dim: 抽象路径
+phonetic: "/fəˈnɒmɪnən/"
+pos: n.
+metaphor_type: 本体隐喻
+word_root: phen
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # phenomenon
 
 > [!info] 基础信息
-> **音标** /fəˈnɒmɪnən/ | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /fəˈnɒmɪnən/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -41,7 +46,7 @@ phen(显现) + -omen(名词后缀，表示"…的事物") + -on(希腊语中性�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**显现出来的事物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **显现出来的事物**（感知层面：可被观察到的自然或社会事件）
@@ -69,10 +74,7 @@ phen(显现) + -omen(名词后缀，表示"…的事物") + -on(希腊语中性�
 > | n. | 现象；杰出人物 | 核心名词 |
 > | n.(pl. phenomena) | 现象（复数） | 希腊语源保留不规则复数 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -129,19 +131,12 @@ phen(显现) + -omen(名词后缀，表示"…的事物") + -on(希腊语中性�
 > > - "Globalization is a complex phenomenon that affects every aspect of modern life."（全球化是一个影响现代生活方方面面的复杂现象。）——考研阅读真题
 > - "The phenomenon of urbanization has accelerated in developing countries."（城市化现象在发展中国家加速了。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -150,16 +145,3 @@ phen(显现) + -omen(名词后缀，表示"…的事物") + -on(希腊语中性�
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：phen/phas（显现/外观）
-> - [ ] 同义辨析：phenomenon / event / occurrence
-> - [ ] 反义词群：无直接反义词
-> - [ ] 形近词群：phenomenon / philosopher / philosophy

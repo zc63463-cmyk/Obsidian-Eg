@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 以单一的方式
 extension_dim: 抽象路径
+phonetic: "/ˈsɪmpli/"
+pos: adv.
+metaphor_type: 结构隐喻
+word_root: simpl
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # simply
 
 > [!info] 基础信息
-> **音标** /ˈsɪmpli/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+> **音标** /ˈsɪmpli/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**以单一的方式**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **以单一的方式**（方式层面：没有多余修饰地）
@@ -70,8 +75,7 @@ review_count: 0
 > | adj. | simple 简单的 | simply 的形容词形式 |
 > | n. | simplicity 简单 | simple + -icity |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -141,11 +145,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -154,16 +153,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：sim-（单一，拉丁语 *sem-*）
-> - [ ] 同义辨析：just, merely, only, purely
-> - [ ] 反义词群：complicatedly
-> - [ ] 形近词群：simple, similar, simplicity, simplify（sim- 词根族）

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 理性世界
 prototype: 在脑海中显现的画面（想象中的事物）
 extension_dim: 想象力路径
+phonetic: "/ˈfæntəsi/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: fantastic
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # fantasy
 
 > [!info] 基础信息
-> **音标** /ˈfæntəsi/ | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /ˈfæntəsi/ | **词级** 基础词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -42,7 +47,7 @@ fantasy 源自中世纪英语 fantasie，来自古法语 fantasie，来自拉丁
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**在脑海中显现的画面**"为统筹中心，沿想象力路径向外扩展：
 >
 > 1. **在脑海中显现的画面**（认知层面）
@@ -72,10 +77,7 @@ fantasy 源自中世纪英语 fantasie，来自古法语 fantasie，来自拉丁
 > | n. | 幻想；幻想作品；白日梦 | 核心词性 |
 > | v. | 幻想，想象 | 名词动用：进行幻想 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -144,11 +146,6 @@ fantasy 源自中世纪英语 fantasie，来自古法语 fantasie，来自拉丁
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -157,17 +154,3 @@ fantasy 源自中世纪英语 fantasie，来自古法语 fantasie，来自拉丁
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：phan-/phant-（显现、可见，希腊语）
-> - [ ] 同源词族：fantasy/fantastic/fantasize/fancy/phantom/phenomenon
-> - [ ] 同义辨析：fantasy/imagination/illusion/delusion
-> - [ ] 反义词群：reality/fact/practicality
-> - [ ] 搭配网络：live in a fantasy, mere fantasy, fantasy novel

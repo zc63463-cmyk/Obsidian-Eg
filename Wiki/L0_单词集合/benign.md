@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-20
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 人本世界
 prototype: 出身良好/好心好意
 extension_dim: 社会路径
+phonetic: "/bɪˈnaɪn/"
+pos: adj.
+metaphor_type: 本体隐喻
+word_root: generate
+network_activation: []
 last_review: 2026-04-20
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # benign
 
 > [!info] 基础信息
-> **音标** /bɪˈnaɪn/ | **词频** 考研中频 | **语义场** [[品质与态度]]
+> **音标** /bɪˈnaɪn/ | **词级** 必备词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**好心好意/无害**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **好心好意**（人的品质层面）
@@ -71,10 +76,7 @@ review_count: 0
 > | adj. | 善良的；良性的；温和的 | 核心词性，描述"无害"的品质 |
 > | n. (benignancy) | 温和，善良 | adj→n：benign 的名词形式（较少用） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -142,11 +144,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -155,16 +152,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：bene-（好）+ gen-/gign-（产生，to beget）
-> - [ ] 同义辨析：gentle/mild/benign/kind
-> - [ ] 反义词群：malignant/hostile/harsh
-> - [ ] 形近词群：benign/benevolent/beneficial/begin

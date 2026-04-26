@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 中频
+word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 极度的饥饿（大规模的食物匮乏）
 extension_dim: 生存危机路径
+phonetic: "/ˈfæmɪn/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: fame
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # famine
 
 > [!info] 基础信息
-> **音标** /ˈfæmɪn/ | **词频** 考研中频 | **语义场** [[社会习俗]]
+> **音标** /ˈfæmɪn/ | **词级** 基础词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ famine 源自古法语 famine（饥饿、饥荒），来自通俗拉丁语 *\*fa
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**极度的饥饿**"为统筹中心，沿生存危机路径向外扩展：
 >
 > 1. **极度的饥饿**（生理层面）
@@ -66,10 +71,7 @@ famine 源自古法语 famine（饥饿、饥荒），来自通俗拉丁语 *\*fa
 > |------|------|---------|
 > | n. | 饥荒；极度缺乏 | 核心词性，仅名词用法 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -136,11 +138,6 @@ famine 源自古法语 famine（饥饿、饥荒），来自通俗拉丁语 *\*fa
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -149,17 +146,3 @@ famine 源自古法语 famine（饥饿、饥荒），来自通俗拉丁语 *\*fa
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同源词族：famine/famished/famish/fame/familiar/family
-> - [ ] 同义辨析：famine/hunger/starvation/scarcity
-> - [ ] 反义词群：abundance/plenty/feast
-> - [ ] 搭配网络：widespread famine, drought and famine, famine relief
-> - [ ] 形近区分：fame vs famine

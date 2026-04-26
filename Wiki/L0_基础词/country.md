@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-24
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 政治法律
 prototype: 对面的土地
 extension_dim: 空间路径
+phonetic: "/ˈkʌntri/"
+pos: n.
+metaphor_type: 方位隐喻
+word_root: 
+network_activation: []
 last_review: 2026-04-24
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # country
 
 > [!info] 基础信息
-> **音标** /ˈkʌntri/ | **词频** 考研高频 | **语义场** [[政治法律]]
+> **音标** /ˈkʌntri/ | **词级** 基础词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ country 源自古法语 *contrée*（地区、领地），来自拉丁语 *contr
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**对面的土地**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **对面的土地**（空间层面）
@@ -67,10 +72,7 @@ country 源自古法语 *contrée*（地区、领地），来自拉丁语 *contr
 > |------|------|---------|
 > | n. | 国家；乡村；国民 | 核心词性，"土地"的多重引申 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -133,11 +135,6 @@ country 源自古法语 *contrée*（地区、领地），来自拉丁语 *contr
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -146,16 +143,3 @@ country 源自古法语 *contrée*（地区、领地），来自拉丁语 *contr
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：[[contra-counter|contra-/counter-]]（对面、反对）
-> - [ ] 同义辨析：country/nation/state/land
-> - [ ] 反义词群：city/town
-> - [ ] 形近词群：country/countryside/countryman/countrywide/county

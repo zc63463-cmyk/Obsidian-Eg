@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 向外站立的状态
 extension_dim: 空间路径
+phonetic: "/ɪɡˈzɪstəns/"
+pos: n.
+metaphor_type: 方位隐喻
+word_root: existence
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # existence
 
 > [!info] 基础信息
-> **音标** /ɪɡˈzɪstəns/ | **词频** 考研高频 | **语义场** [[抽象关系]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
+> **音标** /ɪɡˈzɪstəns/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -31,8 +34,6 @@ review_count: 0
 > **延伸维度**：空间路径
 > **隐喻类型**：方位隐喻（存在=从虚无中"站出来"，占据空间位置）
 
-%% HERMES-L0: 判定原型义(物理动作优先>最具体义项优先>最早学到优先>词源义参考) %%
-
 ## 词根词缀
 
 ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（向外站立的状态→存在）
@@ -41,13 +42,11 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 **叙事**：一棵树从大地中**向外**（ex-）**站立**（ist），它的**存在**（-ence）让整片森林充满生机。
 
-%% HERMES-L0: 叙事记忆创作参考哲学文档2.7.4节 %%
-
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**向外站立的状态**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向外站立的状态**（物理层面）
@@ -68,8 +67,6 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 > - [x] **可统筹**：所有义项围绕"存在/显现的状态"展开
 > - [x] **有支撑**：the existence of / come into existence 为考研高频用法
 
-%% HERMES-L1: 应用词义链路法操作规程(哲学文档2.2节) %%
-
 ## 词性转换
 
 > [!note]- 词性-词义链接 · L1
@@ -79,10 +76,7 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 > | n. | 存在；生存；存在物 | 基础词性 |
 > | vi. (exist) | 存在；生存 | n→v：存在的状态→存在的动作 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -93,8 +87,6 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 >
 > **词拆分记忆**（标准词根无法解释时使用）：
 > ex（出）+ ist（站）+ ence（名词后缀）→ 站出来的状态 → **存在**
-
-%% HERMES-L1: 优先使用叙事化词源(哲学文档2.7.4) %%
 
 ---
 
@@ -110,15 +102,11 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 >
 > **"增"标记**：existence **(增-客观事实性)** vs presence（presence 强调"在场感"，existence 强调"存在的客观事实"）
 
-%% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
-
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - [[nonexistence]]：不存在（existence 的直接反义）
 > - [[extinction]]：灭绝、消亡（物种/事物的存在终结）
-
-%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 
@@ -133,8 +121,6 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 > | [[exhaust]] | ex-(向外) + haust(抽) | 耗尽 | ex-族同源 |
 > | [[exotic]] | exot(外部) + -ic(形容词后缀) | 异国情调的 | ex-族同源 |
 
-%% HERMES-L2: 派生词链接(哲学文档2.5节) %%
-
 ---
 
 ## 搭配与短语
@@ -146,8 +132,6 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 >   The universe came into existence billions of years ago.（宇宙形成于数十亿年前。）
 > - **lead a miserable existence**：过着悲惨的生活
 >   Many people in war-torn regions lead a miserable existence.（许多战乱地区的人们过着悲惨的生活。）
-
-%% HERMES-L3: 仅列考研真题高频搭配 %%
 
 ## 真题/语料关联
 
@@ -161,11 +145,6 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 %% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
 
@@ -176,20 +155,3 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：ist（站立）
-> - [ ] 同义辨析：existence / being / presence
-> - [ ] 反义词群：nonexistence / extinction
-> - [ ] 形近词群：existence / insistence / persistence
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox %%

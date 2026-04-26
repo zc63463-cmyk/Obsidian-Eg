@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 拿回来的行为（接纳、接收某人或某物）
 extension_dim: 接纳路径
+phonetic: "/rɪˈsepʃn/"
+pos: n.
+metaphor_type: 本体隐喻
+word_root: receive
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # reception
 
 > [!info] 基础信息
-> **音标** /rɪˈsepʃn/ | **词频** 考研高频 | **语义场** [[社会习俗]]
+> **音标** /rɪˈsepʃn/ | **词级** 基础词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ re-（回，向后）+ cept（拿，=capere 的过去分词 *captus* 变体）+ 
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**拿回来的行为（接纳、接收某人或某物）**"为统筹中心，沿接纳路径向外扩展：
 >
 > 1. **接纳进来**（行为层面）
@@ -72,10 +77,7 @@ re-（回，向后）+ cept（拿，=capere 的过去分词 *captus* 变体）+ 
 > | n. [[receipt]] | 收据 | 同源名词 |
 > | adj. receptive | 善于接受的，接纳的 | 派生形容词 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -148,11 +150,6 @@ re-（回，向后）+ cept（拿，=capere 的过去分词 *captus* 变体）+ 
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -161,16 +158,3 @@ re-（回，向后）+ cept（拿，=capere 的过去分词 *captus* 变体）+ 
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：reception/greeting/welcome/party
-> - [ ] 反义词群：rejection/departure/dismissal
-> - [ ] cap词根族：reception/receive/receipt/recipe/recipient
-> - [ ] 搭配网络：reception desk / wedding reception / poor reception

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 中频
+word_freq: 基础词
 semantic_field: 自然物理
 prototype: 天空中突然的巨大闪光（大气放电现象）
 extension_dim: 速度维度
+phonetic: "/ˈlaɪtnɪŋ/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: light
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # lightning
 
 > [!info] 基础信息
-> **音标** /ˈlaɪtnɪŋ/ | **词频** 考研中频 | **语义场** [[自然物理]]
+> **音标** /ˈlaɪtnɪŋ/ | **词级** 基础词 | **语义场** [[自然物理]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ lightning = [[light]](光) + -ning(名词后缀，表示动作或状态)
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**天空中突然的巨大闪光**"为统筹中心，沿速度维度向外扩展：
 >
 > 1. **突然的巨大闪光**（自然层面）
@@ -68,10 +73,7 @@ lightning = [[light]](光) + -ning(名词后缀，表示动作或状态)
 > | n. | 闪电 | 核心词性，天空中突然的巨大闪光 |
 > | adj. | 闪电般的，极快的 | 名词→形容词，"像闪电一样的" |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -134,11 +136,6 @@ lightning = [[light]](光) + -ning(名词后缀，表示动作或状态)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -147,16 +144,3 @@ lightning = [[light]](光) + -ning(名词后缀，表示动作或状态)
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：lightning/flash/bolt/thunder
-> - [ ] 反义词群：darkness/slowness
-> - [ ] 词源关联：[[light]]（lightning 的词源基础）
-> - [ ] 搭配网络：lightning speed / thunder and lightning / struck by lightning

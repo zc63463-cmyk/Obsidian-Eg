@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-24
 mastery: L0
-word_freq: 低频
+word_freq: 基础词
 semantic_field: 人本世界
 prototype: 散发香味的（气味强烈而好闻的）
 extension_dim: 具身路径
+phonetic: "/ˈfreɪɡrənt/"
+pos: adj.
+metaphor_type: 本体隐喻
+word_root: fragr
+network_activation: []
 last_review: 2026-04-24
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # fragrant
 
 > [!info] 基础信息
-> **音标** /ˈfreɪɡrənt/ | **词频** 考研低频 | **语义场** [[感官体验]]
+> **音标** /ˈfreɪɡrənt/ | **词级** 基础词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ fragr(=fragrare, 散发气味，拉丁语 fragrare 散发气味) + -ant(形容�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**散发香味的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **散发香味的**（感官层面）
@@ -65,10 +70,7 @@ fragr(=fragrare, 散发气味，拉丁语 fragrare 散发气味) + -ant(形容�
 > |------|------|---------|
 > | adj. | 芳香的；令人愉快的 | 核心词性，无词性转换 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -132,11 +134,6 @@ fragr(=fragrare, 散发气味，拉丁语 fragrare 散发气味) + -ant(形容�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -145,16 +142,3 @@ fragr(=fragrare, 散发气味，拉丁语 fragrare 散发气味) + -ant(形容�
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：fragr-（散发气味，拉丁语 fragrare，PIE *bhrag-）— 建议创建词根笔记 [[fragr]]
-> - [ ] 同义辨析：fragrant/aromatic/scented/perfumed
-> - [ ] 反义词群：foul/stinky/malodorous
-> - [ ] 形近词群：fragrant/fragile/fragment/fracture（注意：fragrant 与 fragile/fragment 词源不同）

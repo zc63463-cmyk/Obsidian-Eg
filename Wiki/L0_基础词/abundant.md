@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 中频
+word_freq: 基础词
 semantic_field: 自然物理
 prototype: 像波浪一样涌出的（数量多得溢出来）
 extension_dim: 具身路径
+phonetic: "/əˈbʌndənt/"
+pos: adj.
+metaphor_type: 结构隐喻
+word_root: abound
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # abundant
 
 > [!info] 基础信息
-> **音标** /əˈbʌndənt/ | **词频** 考研中频 | **语义场** [[自然物理]]
+> **音标** /əˈbʌndənt/ | **词级** 基础词 | **语义场** [[自然物理]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**像波浪一样涌出的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **波浪涌出**（物理层面）
@@ -65,10 +70,7 @@ review_count: 0
 > |------|------|---------|
 > | adj. | 丰富的；充裕的；大量的 | 核心词性 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -136,11 +138,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -149,16 +146,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：ab- + und-(波浪) + -ant（溢出 + 波浪 + 形容词后缀，拉丁语）
-> - [ ] 同义辨析：abundant/plentiful/ample/rich
-> - [ ] 反义词群：scarce/insufficient/lacking
-> - [ ] 形近词群：abundant/abound/abundance/abrupt/absurd

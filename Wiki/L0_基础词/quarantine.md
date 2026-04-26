@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 中频
+word_freq: 基础词
 semantic_field: 社会专业
 prototype: 四十天隔离期（为防止疾病传播的隔离措施）
 extension_dim: 社会路径
+phonetic: "/ˈkwɒrəntiːn/"
+pos: n.
+metaphor_type: 无隐喻
+word_root: quart
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # quarantine
 
 > [!info] 基础信息
-> **音标** /ˈkwɒrəntiːn/ | **词频** 考研中频 | **语义场** [[社会专业]]
+> **音标** /ˈkwɒrəntiːn/ | **词级** 基础词 | **语义场** [[社会专业]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**四十天隔离期**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **四十天隔离期**（历史措施层面）
@@ -70,10 +75,7 @@ review_count: 0
 > | n. | 隔离检疫期；隔离措施 | 核心词性，隔离这一行为/状态 |
 > | v. | 对……进行隔离检疫 | n→v：执行隔离的动作 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -139,11 +141,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -152,16 +149,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：[[quart]]（四/四十，拉丁语 *quaraginta*）
-> - [ ] 同义辨析：quarantine/isolation/segregation/separation
-> - [ ] 反义词群：contact/freedom
-> - [ ] 形近词群：quarantine/quarter/quart/quarrel

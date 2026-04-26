@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 社会专业
 prototype: 将军的艺术
 extension_dim: 社会路径
+phonetic: "/ˈstrætədʒi/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: strategia
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # strategy
 
 > [!info] 基础信息
-> **音标** /ˈstrætədʒi/ | **词频** 考研高频 | **语义场** [[社会专业]]
-
-%% HERMES-L0: strategy 名词，语义场归为社会专业（策略/战略） %%
+> **音标** /ˈstrætədʒi/ | **词级** 必备词 | **语义场** [[社会专业]]
 
 ## 核心释义
 
@@ -31,20 +34,16 @@ review_count: 0
 > **延伸维度**：社会路径
 > **隐喻类型**：结构隐喻（军事指挥→商业/政治/学术中的策略规划）
 
-%% HERMES-L0: 原型义为"将军的艺术"，社会路径从军事延伸到商业、政治等领域 %%
-
 ## 词根词缀
 
 源自希腊语 strategia（将军的职责），stratos(军队) + agos(领导)
 **叙事**：将军指挥军队的艺术——排兵布阵、运筹帷幄。后来从战场走向商场，变成了商业策略；走向政坛，变成了政治战略。
 
-%% HERMES-L0: 源自希腊语，与strain/straight远源相关，建议创建词根笔记 [[stra]] %%
-
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**将军的艺术**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **将军的艺术**（军事指挥）
@@ -74,10 +73,7 @@ review_count: 0
 > | adv. (strategically) | 战略上地 | strategic + -ally(副词后缀) |
 > | n. (strategist) | 战略家 | strategy + -ist(人) |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -120,8 +116,6 @@ review_count: 0
 > | [[strain]] | strain(远源同根) | 拉紧；紧张 | 同源词 |
 > | [[straight]] | straight(远源同根) | 直的；直接的 | 同源词 |
 
-%% HERMES-L2: strain/strategy 远源同根，与tend-tens词根相关 %%
-
 ---
 
 ## 搭配与短语
@@ -143,11 +137,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -156,16 +145,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：stra/stre（拉伸/展开）——建议创建词根笔记 [[stra]]
-> - [ ] 同义辨析：strategy / tactic / plan / approach
-> - [ ] 反义词群：strategy / tactics（层级对比）
-> - [ ] 形近词群：strategy / straight / strain / tragedy

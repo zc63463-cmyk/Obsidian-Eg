@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-24
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 人体动作
 prototype: 爬上，登上（从低处到高处的动作）
 extension_dim: 空间路径
+phonetic: "/maʊnt/"
+pos: v.
+metaphor_type: 方位隐喻
+word_root: st-sta-stat
+network_activation: []
 last_review: 2026-04-24
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # mount
 
 > [!info] 基础信息
-> **音标** /maʊnt/ | **词频** 考研高频 | **语义场** [[人体动作]]
+> **音标** /maʊnt/ | **词级** 基础词 | **语义场** [[人体动作]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ mount 源自拉丁语 *mons/mont-*（山），与 [[st-sta-stat]]（站立）词
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**爬上，登上**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **爬上**（物理层面）
@@ -73,10 +78,7 @@ mount 源自拉丁语 *mons/mont-*（山），与 [[st-sta-stat]]（站立）词
 > | v. | 登上；增加；发起；安装 | 核心词性（向上移动的动作） |
 > | n. | 山，山峰；底座 | v→n：被登上的东西→山；被安装的基础→底座 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -142,11 +144,6 @@ mount 源自拉丁语 *mons/mont-*（山），与 [[st-sta-stat]]（站立）词
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -155,16 +152,3 @@ mount 源自拉丁语 *mons/mont-*（山），与 [[st-sta-stat]]（站立）词
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：拉丁语 *mons/mont-*（山），与 [[st-sta-stat]] 远缘关联
-> - [ ] 同义辨析：mount/climb/ascend
-> - [ ] 反义词群：dismount/descend
-> - [ ] 形近词群：mount/mountain/amount/surmount/paramount/dismount

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 政治法律
 prototype: 反向思考、反驳
 extension_dim: 社会路径
+phonetic: "/dɪˈspjuːt/"
+pos: n.
+metaphor_type: 无隐喻
+word_root: dis-di
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # dispute
 
 > [!info] 基础信息
-> **音标** /dɪˈspjuːt/ | **词频** 考研高频 | **语义场** [[政治法律]]
+> **音标** /dɪˈspjuːt/ | **词级** 必备词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -40,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**不同方向的思考**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不同方向的思考**（认知层面）
@@ -71,10 +76,7 @@ review_count: 0
 > | n. | 争论，争端 | 基本词性 |
 > | v. | 争论，质疑 | n→v：从争论的行为到执行争论 |
 
-> [!abstract]- 词尾定性速查
-> dispute 无典型词尾，本身为完整词
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -142,27 +144,9 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
 ## 主动产出
 
 > [!success]- 内化标记 · L4
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：put/put（思考，计算）
-> - [ ] 同义辨析：argue / debate / controversy / dispute
-> - [ ] 反义词群：agree / settle / consensus
-> - [ ] 形近词群：dissolve / dismiss / dispose / displace

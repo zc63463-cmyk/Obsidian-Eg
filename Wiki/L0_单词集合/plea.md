@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 政治法律
 prototype: 恳求；申辩
 extension_dim: 社会路径
+phonetic: "/pliː/"
+pos: n.
+metaphor_type: 无隐喻
+word_root: plea
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # plea
 
 > [!info] 基础信息
-> **音标** /pliː/ | **词频** 考研高频 | **语义场** [[法律政治]]
+> **音标** /pliː/ | **词级** 必备词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**恳求/请求**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **恳求/请求**（日常层面——向他人提出请求）
@@ -62,8 +67,7 @@ review_count: 0
 > |------|------|---------|
 > | n. | 恳求；答辩 | 名词化：[[plead]]（动词）→ plea（名词化，表示恳求的行为或内容） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -121,19 +125,12 @@ review_count: 0
 > > - "The defendant made an emotional plea for mercy."（被告含泪恳求宽恕。）——考研阅读真题
 > - "Her plea for help went unanswered."（她的求助没有得到回应。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -142,16 +139,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：appeal, request, petition, plea
-> - [ ] 反义词群：demand, command, order
-> - [ ] 形近词群：plea, plead, plot, please, place, plan（pl- 开头词群）
-> - [ ] 派生词族：plead

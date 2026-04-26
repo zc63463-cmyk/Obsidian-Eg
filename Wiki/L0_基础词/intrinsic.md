@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-24
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 在内部的
 extension_dim: 空间路径
+phonetic: "/ɪnˈtrɪnzɪk/"
+pos: adj.
+metaphor_type: 方位隐喻
+word_root: sec-sect
+network_activation: []
 last_review: 2026-04-24
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # intrinsic
 
 > [!info] 基础信息
-> **音标** /ɪnˈtrɪnzɪk/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+> **音标** /ɪnˈtrɪnzɪk/ | **词级** 基础词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ intrin-(=intra-, 在内部，拉丁语 *intra* "在内") + -[[sec-sect|sec]](=se
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**在内部的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在内部的**（空间层面）
@@ -67,10 +72,7 @@ intrin-(=intra-, 在内部，拉丁语 *intra* "在内") + -[[sec-sect|sec]](=se
 > | adj. | 固有的，内在的 | 核心词性 |
 > | adv. (intrinsically) | 本质地，固有地 | adj→adv |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -130,11 +132,6 @@ intrin-(=intra-, 在内部，拉丁语 *intra* "在内") + -[[sec-sect|sec]](=se
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -143,15 +140,3 @@ intrin-(=intra-, 在内部，拉丁语 *intra* "在内") + -[[sec-sect|sec]](=se
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：intrinsic/inherent/essential
-> - [ ] 反义词群：extrinsic/external
-> - [ ] 形近词群：intrinsic/extrinsic/intrinsically

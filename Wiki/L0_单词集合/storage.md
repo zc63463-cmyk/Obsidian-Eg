@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 储存（名词）
 extension_dim: 空间路径
+phonetic: "/ˈstɔːrɪdʒ/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: stor
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,10 +23,7 @@ review_count: 0
 # storage
 
 > [!info] 基础信息
-> **音标** /ˈstɔːrɪdʒ/ | **词频** 考研中频 | **语义场** [[储存]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
-%% HERMES-L0: 语义场判定规则见 SKILL.md Step 3 %%
+> **音标** /ˈstɔːrɪdʒ/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -32,17 +34,10 @@ review_count: 0
 > **延伸维度**：空间路径
 > **隐喻类型**：结构隐喻
 
-%% HERMES-L0: 判定原型义(物理动作优先>最具体义项优先>最早学到优先>词源义参考) %%
-%% HERMES-L0: 判定主延伸维度(使用频率最高的延伸路径) %%
-%% HERMES-L0: 判定隐喻类型(哲学文档2.1节): 方位/结构/本体 %%
-
 ## 词根词缀
 
 [[stor]](储存) + -age（名词后缀，表示状态/结果）
 **叙事**：储存的动作或结果——储存状态/储存空间。
-
-%% HERMES-L0: 叙事记忆创作参考哲学文档2.7.4节 %%
-%% HERMES-L0: 如果词根笔记不存在，在输出中提示"建议创建词根笔记 [[<词根>]]" %%
 
 **建议创建词根笔记**：[[stor]]（储存）
 
@@ -52,7 +47,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**储存**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **储存行为/状态**（抽象层面）
@@ -72,10 +67,6 @@ review_count: 0
 > - [x] **可统筹**：能否用一句话将所有义项串联？
 > - [x] **有支撑**：是否有真题例句或语料支撑该链路？
 
-%% HERMES-L1: 应用词义链路法操作规程(哲学文档2.2节) %%
-%% HERMES-L1: Step1判定原型义 → Step2确定延伸维度+隐喻类型 → Step3描述路径+激活条件 → Step4选择统筹模式 %%
-%% HERMES-L1: 验证标准: 可逆性+可统筹+有支撑 %%
-
 ## 词性转换
 
 > [!note]- 词性-词义链接 · L1
@@ -84,14 +75,7 @@ review_count: 0
 > |------|------|---------|
 > | n. | 储存/仓库/存储量 | store + -age 名词化 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
-
-%% HERMES-L1: 分析词性转换路径(哲学文档2.4节) %%
-%% HERMES-L1: v→n: 该动作的结果是(什么) / n→n: 子集链路/特性抽象 %%
-%% HERMES-L1: a→v: 使动用法 / v→a: +ed表示"持有-动作"的状态 %%
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -104,9 +88,6 @@ review_count: 0
 > sto（存）+ ra（拿）+ ge（搁）→ 存放东西的地方 → 储存
 >
 > **其他**：音译法 / 形意关联 / 词义串句 / 中英混合法
-
-%% HERMES-L1: 优先使用叙事化词源(哲学文档2.7.4)，其次词拆分记忆(2.6节)，再次双编码策略(3.2节) %%
-%% HERMES-L1: 词拆分允许创造性拆分(如 contemplate = con + template + plate) %%
 
 ---
 
@@ -122,17 +103,11 @@ review_count: 0
 >
 > **"增"标记**：storage **(增-抽象状态)** vs store
 
-%% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
-%% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
-
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - [[retrieval]]：取回（与储存相反）
 > - [[release]]：释放（把储存的东西放出来）
-
-%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 
@@ -141,9 +116,6 @@ review_count: 0
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
 > | [[warehouse]] | ware + house | 仓库 | 相关词汇 |
-
-%% HERMES-L2: 派生词链接(哲学文档2.5节) %%
-%% HERMES-L2: 词义补充: 派生词反哺母词 / 词义填充: 母词填充派生词 %%
 
 ---
 
@@ -154,16 +126,11 @@ review_count: 0
 > - **cold storage**：冷藏（The food should be kept in cold storage.）
 > - **data storage**：数据存储（Cloud computing has revolutionized data storage.）
 
-%% HERMES-L3: 仅列考研真题高频搭配，不编造 %%
-%% HERMES-L3: 每个搭配附带1个真题例句 %%
-
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
 > - "New designs allow for expansion or movement of desks, storage, and equipment within the workstation."（新设计允许在工作站内扩展或移动办公桌、存储空间和设备。）——考研高频表达
 > - "The assumptions become less crucial as computer speed and storage capacity increase."（随着计算机速度和存储容量的增加，这些假设变得不那么关键了。）——考研高频表达
-
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
 
 ---
 
@@ -171,11 +138,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 %% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
 
@@ -186,20 +148,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：stor（储存）
-> - [ ] 同义辨析：storage, store, reserve
-> - [ ] 反义词群：retrieval, release
-> - [ ] 形近词群：[[stock]], [[store]]
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox，/回顾时读取勾选状态决定是否纳入对应网络 %%

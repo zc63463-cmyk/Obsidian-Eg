@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 悬挂在下面的，依赖的
 extension_dim: 抽象路径
+phonetic: "/dɪˈpendənt/"
+pos: adj.
+metaphor_type: 方位隐喻
+word_root: pend
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # dependent
 
 > [!info] 基础信息
-> **音标** /dɪˈpendənt/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+> **音标** /dɪˈpendənt/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**悬挂下面，依赖的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **悬挂下面，依赖的**（物理层面）
@@ -67,8 +72,7 @@ review_count: 0
 > | adj. | 依赖的，取决于……的 | 基本词性，depend + -ent |
 > | n. | 受抚养者 | -ent 后缀兼表"人"，从"依赖的人"转为名词 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -134,11 +138,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -147,17 +146,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：de（向下）
-> - [ ] 词根笔记：pend/pens（悬挂/称量）
-> - [ ] 同义辨析：dependent / reliant
-> - [ ] 反义词群：dependent / independent
-> - [ ] 派生词族：depend / dependent / dependence / independent / independence

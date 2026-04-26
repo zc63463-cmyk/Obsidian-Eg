@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 带入内部的行为或结果
 extension_dim: 社会路径
+phonetic: "/ˌɪntrəˈdʌkʃn/"
+pos: n.
+metaphor_type: 方位隐喻
+word_root: tract
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # introduction
 
 > [!info] 基础信息
-> **音标** /ˌɪntrəˈdʌkʃn/ | **词频** 考研高频 | **语义场** [[社会交往]]
+> **音标** /ˌɪntrəˈdʌkʃn/ | **词级** 必备词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**带入内部的行为或结果**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **带入内部的行为或结果**（社交层面）
@@ -74,10 +79,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 > | vt. (introduce) | 介绍；引进；提出 | n→v：带入的动作本身 |
 > | adj. (introductory) | 引导的，入门的 | n→adj：用于带入的 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -139,11 +141,6 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -152,16 +149,3 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：tract（引导，来自拉丁语 *ducere*/*tractus*）
-> - [ ] 同义辨析：introduction/preface/foreword
-> - [ ] 反义词群：conclusion
-> - [ ] 形近词群：introduction/introduce/produce/reduction

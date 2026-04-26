@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-25
 mastery: L0
-word_freq: 中频
+word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 周期性地，定期地
 extension_dim: 时间路径
+phonetic: "/ˌpɪəriˈɒdɪkli/"
+pos: adv.
+metaphor_type: 无隐喻
+word_root: peri
+network_activation: []
 last_review: 2026-04-25
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # periodically
 
 > [!info] 基础信息
-> **音标** /ˌpɪəriˈɒdɪkli/ | **词频** 考研中频 | **语义场** [[抽象关系]]
+> **音标** /ˌpɪəriˈɒdɪkli/ | **词级** 超纲词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**周期性地，定期地**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **周期重复**（时间层面）
@@ -66,10 +71,7 @@ review_count: 0
 > | adv. | 周期性地；偶尔 | 核心词性，periodical 的副词形式 |
 > | adj. | 周期的 | periodical 的形容词用法 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -132,11 +134,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -145,15 +142,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：periodically/regularly/frequently/occasionally
-> - [ ] 反义词群：continuously/constantly
-> - [ ] 形近词群：periodically/periodical/periodic/period

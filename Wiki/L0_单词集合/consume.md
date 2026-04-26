@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 完全吃掉、消耗殆尽
 extension_dim: 具身路径
+phonetic: "/kənˈsjuːm/"
+pos: v.
+metaphor_type: 本体隐喻
+word_root: sumpt
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # consume
 
 > [!info] 基础信息
-> **音标** /kənˈsjuːm/ | **词频** 考研高频 | **语义场** [[社会习俗]]
+> **音标** /kənˈsjuːm/ | **词级** 必备词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ con-(完全，彻底) + sume/sumpt(拿，取)
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**完全拿走/消耗**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **完全拿走**（物理层面）
@@ -71,10 +76,7 @@ con-(完全，彻底) + sume/sumpt(拿，取)
 > | n. | consumption：消费，消耗量 | v→n：消耗的行为或结果 |
 > | n. | consumer：消费者 | v→n：执行消耗动作的人 |
 
-> [!abstract]- 词尾定性速查
-> consume 无典型词尾，本身为完整动词
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -143,27 +145,9 @@ con-(完全，彻底) + sume/sumpt(拿，取)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
 ## 主动产出
 
 > [!success]- 内化标记 · L4
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：sume/sumpt（拿，取）
-> - [ ] 同义辨析：expend / spend / use up / consume
-> - [ ] 反义词群：produce / conserve / save
-> - [ ] 形近词群：consumption / consumer / assume / presume

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 政治法律
 prototype: 把人留住不让走
 extension_dim: 时间路径
+phonetic: "/dɪˈteɪn/"
+pos: v.
+metaphor_type: 无隐喻
+word_root: tain
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # detain
 
 > [!info] 基础信息
-> **音标** /dɪˈteɪn/ | **词频** 考研中频 | **语义场** [[法律政治]]
+> **音标** /dɪˈteɪn/ | **词级** 必备词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**把人留住不让走**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **把人留住不让走**（物理层面）
@@ -65,8 +70,7 @@ review_count: 0
 > | v. | 拘留，耽搁 | 基本词性 |
 > | n. | 拘留 | detain + -ment → detention |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -137,11 +141,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -150,16 +149,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：de（向下、使）；tain（保持、持有）
-> - [ ] 同义辨析：arrest, hold, delay
-> - [ ] 反义词群：release, dismiss
-> - [ ] 形近词群：detach, detail, detain（de- + t- 词族）

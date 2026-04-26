@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 建立、设立；建立的机构
 extension_dim: 社会路径
+phonetic: "/ˈɪnstɪtjuːt/"
+pos: vt.
+metaphor_type: 结构隐喻
+word_root: st-sta-stat
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # institute
 
 > [!info] 基础信息
-> **音标** /ˈɪnstɪtjuːt/ | **词频** 考研高频 | **语义场** [[社会结构]]
+> **音标** /ˈɪnstɪtjuːt/ | **词级** 必备词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**建立、设立**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **建立、设立**（行为层面）
@@ -68,10 +73,7 @@ review_count: 0
 > | vt. | 建立；制定 | 核心词性 |
 > | n. | 研究所；机构 | v→n：建立的结果（被建立的实体） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -132,11 +134,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -145,16 +142,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<尚未产出>
 > **翻译实践**：<尚未产出>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：st-sta-stat（站立/建立）
-> - [ ] 同义辨析：institute vs establish vs found
-> - [ ] 反义词群：abolish, dismantle
-> - [ ] 形近词群：institute, institution, instinct, constitute, substitute

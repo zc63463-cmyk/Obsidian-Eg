@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-24
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 主人（接待客人的人）
 extension_dim: 社会路径
+phonetic: "/hoʊst/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: hospitality
+network_activation: []
 last_review: 2026-04-24
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # host
 
 > [!info] 基础信息
-> **音标** /hoʊst/ | **词频** 考研高频 | **语义场** [[社会习俗]]
+> **音标** /hoʊst/ | **词级** 基础词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**主人（接待者）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **主人（接待者）**（社会层面）
@@ -71,10 +76,7 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 > | n. | 主人；主持人；大量；宿主 | 核心词性，"接待者" |
 > | v. | 主办，主持 | n→v：执行"接待"的动作 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -138,11 +140,6 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -151,16 +148,3 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：hospit/hospes（客人/主人，拉丁语 *hospes*）
-> - [ ] 同义辨析：host/master/owner
-> - [ ] 反义词群：guest/parasite
-> - [ ] 形近词群：host/hostess/hostile/hostage/hospitality/hostel

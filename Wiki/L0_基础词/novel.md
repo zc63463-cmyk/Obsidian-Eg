@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 理性世界
 prototype: 新的，新颖的
 extension_dim: 从时间到评价
+phonetic: "/ˈnɒvəl/"
+pos: adj.
+metaphor_type: 结构隐喻
+word_root: approach
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # novel
 
 > [!info] 基础信息
-> **音标** /ˈnɒvəl/ | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /ˈnɒvəl/ | **词级** 基础词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**新的，前所未见的**"为统筹中心，沿从时间到评价向外扩展：
 >
 > 1. **新的**（时间层面）
@@ -67,10 +72,7 @@ review_count: 0
 > | adj. | 新颖的，新奇的 | 核心词性，考研重点 |
 > | n. | （长篇）小说 | adj.→n：从"新颖的文学形式"到专有名词 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -136,11 +138,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -149,16 +146,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同源词族：novel/novelty/novelist/novice/innovate/renovate
-> - [ ] 同义辨析：novel/new/original/fresh/innovative
-> - [ ] 反义词群：conventional/ordinary
-> - [ ] 搭配网络：novel approach/novel idea/novel experience

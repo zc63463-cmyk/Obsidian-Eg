@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在前的/前面的
 extension_dim: 时间路径
+phonetic: "/prɪˈsiːdɪŋ/"
+pos: adj.
+metaphor_type: 方位隐喻
+word_root: ced-cess
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # preceding
 
 > [!info] 基础信息
-> **音标** /prɪˈsiːdɪŋ/ | **词频** 考研中频 | **语义场** [[抽象关系]]
+> **音标** /prɪˈsiːdɪŋ/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**在前的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **在前的**（时间/顺序层面：先于当前事物的）
@@ -121,11 +126,6 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -134,16 +134,3 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：ced-cess（走）
-> - [ ] 同义辨析：preceding / previous / former
-> - [ ] 反义词群：following / succeeding
-> - [ ] 形近词群：preceding / precede / precedent / proceeding

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-24
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 自然物理
 prototype: 向前（朝前方的方向）
 extension_dim: 空间路径
+phonetic: "/ˈfɔːrwərd/"
+pos: adv.
+metaphor_type: 方位隐喻
+word_root: 
+network_activation: []
 last_review: 2026-04-24
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # forward
 
 > [!info] 基础信息
-> **音标** /ˈfɔːrwərd/ | **词频** 考研高频 | **语义场** [[空间方位]]
+> **音标** /ˈfɔːrwərd/ | **词级** 基础词 | **语义场** [[自然物理]]
 
 ## 核心释义
 
@@ -40,7 +45,7 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**向前（朝前方的方向）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向前**（空间层面）
@@ -75,10 +80,7 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 > | adj. | 向前的；进步的 | adv.→adj.：描述具有"向前"特征的事物 |
 > | v. | 转交；促进 | adv.→v.：使某物"向前"传递/推进 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -145,11 +147,6 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -158,16 +155,3 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：fore-/for-（前面，日耳曼语系）— 建议创建词根笔记 [[fore-for]]
-> - [ ] 同义辨析：forward/onward/ahead/forth
-> - [ ] 反义词群：backward/backward-looking
-> - [ ] 形近词群：forward/foremost/forthcoming/foreword/forewarn

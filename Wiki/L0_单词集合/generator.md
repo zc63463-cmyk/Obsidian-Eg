@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-20
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 产生者、发电机
 extension_dim: 抽象路径
+phonetic: "/ˈdʒenəreɪtə(r)/"
+pos: n.
+metaphor_type: 本体隐喻
+word_root: actor
+network_activation: []
 last_review: 2026-04-20
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # generator
 
 > [!info] 基础信息
-> **音标** /ˈdʒenəreɪtə(r)/ | **词频** 考研中频 | **语义场** [[创造]]
+> **音标** /ˈdʒenəreɪtə(r)/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**产生者**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **产生者**（人层面）
@@ -69,10 +74,7 @@ review_count: 0
 > | vt. (generate) | 产生；引起 | n→v：去掉 -or，generate 是动词形式 |
 > | n. (generation) | 产生；一代人 | n→n：generate + -ion（动作的结果/过程） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -141,11 +143,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -154,16 +151,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：gen-/gener-（出生、产生，原始印欧语 *gene-）
-> - [ ] 同义辨析：generator/producer/creator/originator
-> - [ ] 反义词群：consumer/destroyer/receiver
-> - [ ] 形近词群：generator / moderator / accelerator

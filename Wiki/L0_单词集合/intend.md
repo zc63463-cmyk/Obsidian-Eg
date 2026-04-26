@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 人本世界
 prototype: 向内伸展（把心思伸展向某个目标）
 extension_dim: 抽象路径
+phonetic: "/ɪnˈtend/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: tend-tens
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,15 +23,9 @@ review_count: 0
 # intend
 
 > [!info] 基础信息
-> **音标** /ɪnˈtend/ | **词频** 考研高频 | **语义场** [[人本世界]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
-%% HERMES-L0: 语义场判定规则见 SKILL.md Step 3 %%
+> **音标** /ɪnˈtend/ | **词级** 必备词 | **语义场** [[人本世界]]
 
 ## 核心释义
-
-%% HERMES-L0: 按词性分类，仅列考研常考义项(不超过4个)，使用紧凑格式 %%
-%% HERMES-L0: 格式: **词性.** ①释义1 ; ②释义2 ; 考研重点义项用 ==**加粗+高亮**== 标记 %%
 
 **v.** ①==**打算，计划**==；②==**为…而准备，专供…使用**==；③意指，意思是；
 
@@ -35,26 +34,16 @@ review_count: 0
 > **延伸维度**：抽象路径
 > **隐喻类型**：结构隐喻（把内心比作一个可以"伸展"向目标的空间——心思伸展到哪里，意图就在哪里）
 
-%% HERMES-L0: 判定原型义(物理动作优先>最具体义项优先>最早学到优先>词源义参考) %%
-%% HERMES-L0: 判定主延伸维度(使用频率最高的延伸路径) %%
-%% HERMES-L0: 判定隐喻类型(哲学文档2.1节): 方位/结构/本体 %%
-
 ## 词根词缀
-
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
-%% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 **叙事**：in（向内）+ tend（伸展）→ **向内伸展** → 心思伸展向某个目标 → 打算。你的心思向某个方向"伸展"过去，就是你 intend（打算）要做的事。与 [[extend]]（向外伸展）方向相反——extend 是向外扩展，intend 是向内聚焦。
-
-%% HERMES-L0: 叙事记忆创作参考哲学文档2.7.4节 %%
-%% HERMES-L0: 如果词根笔记不存在，在输出中提示"建议创建词根笔记 [[<词根>]]" %%
 
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**向内伸展（心思指向某处）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **向内伸展**（心理层面）
@@ -66,9 +55,6 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 >      - 激活条件：What do you intend by that remark?
 
 ### 统筹（选择适用的模式）
-
-%% HERMES-L1: 根据该词的一词多义特征，选择最合适的统筹模式 %%
-%% HERMES-L1: 统筹模式参考哲学文档2.3节，以下6种模式选1-2种即可 %%
 
 - **一字一词概括**：intend 就是"心思指向"——指向某个行动是"打算"，指向某个对象是"专为…设计"，指向某个含义是"意指"
 - **一句话统筹**：一切 intend 都是"心思向某个方向的伸展和聚焦"
@@ -86,14 +72,7 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 > |------|------|---------|
 > | v. | 打算；专为…设计；意指 | 核心词性，"向内伸展"的动作 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
-
-%% HERMES-L1: 分析词性转换路径(哲学文档2.4节) %%
-%% HERMES-L1: v→n: 该动作的结果是(什么) / n→n: 子集链路/特性抽象 %%
-%% HERMES-L1: a→v: 使动用法 / v→a: +ed表示"持有-动作"的状态 %%
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -104,9 +83,6 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 >
 > **词拆分记忆**（辅助）：
 > in（向内）+ tend（伸展）→ 向内伸展心思 → 打算/意图
-
-%% HERMES-L1: 优先使用叙事化词源(哲学文档2.7.4)，其次词拆分记忆(2.6节)，再次双编码策略(3.2节) %%
-%% HERMES-L1: 词拆分允许创造性拆分(如 contemplate = con + template + plate) %%
 
 ---
 
@@ -123,17 +99,11 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 >
 > **"增"标记**：intend **(增-心思聚焦的内在感)** vs plan（基准词：有方案的计划）；intend **(增-专为…设计的用途义)** vs mean（基准词：意欲）
 
-%% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
-%% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
-
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - [[accidental]]：意外的（intend 的反义：有意的 vs 意外的）
 > - [[unintentional]]：无意的（intend 的反义：故意的 vs 无意的）
-
-%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 
@@ -146,9 +116,6 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 > | [[intentionally]] | intentional + -ly(副词后缀) | 故意地 | 词义补充 |
 > | [[unintentional]] | un-(不) + intentional | 无意的 | 词义补充 |
 
-%% HERMES-L2: 派生词链接(哲学文档2.5节) %%
-%% HERMES-L2: 词义补充: 派生词反哺母词 / 词义填充: 母词填充派生词 %%
-
 ---
 
 ## 搭配与短语
@@ -160,16 +127,11 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 > - **fully intend to**：完全打算
 > - **intend no harm**：没有恶意
 
-%% HERMES-L3: 仅列考研真题高频搭配，不编造 %%
-%% HERMES-L3: 每个搭配附带1个真题例句 %%
-
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
 > - "The course is intended for intermediate-level students."（这门课程是为中级水平的学生设计的。——剑桥词典例句）
 > - "It wasn't my intention to exclude her from the list — I just forgot her."（我并不是故意把她排除在名单之外——我只是忘了她。——剑桥词典例句）
-
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
 
 ---
 
@@ -177,11 +139,6 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 %% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
 
@@ -192,20 +149,3 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：[[tend-tens|tend-/tens-/tent-]]（伸展、倾向，拉丁语 *tendere*）
-> - [ ] 同义辨析：intend/plan/mean/aim
-> - [ ] 反义词群：accidental/unintentional
-> - [ ] 形近词群：intend/intention/intentional/extend/extent
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox，/回顾时读取勾选状态决定是否纳入对应网络 %%

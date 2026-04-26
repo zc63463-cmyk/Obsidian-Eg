@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 库存（储存的货物）
 extension_dim: 空间路径
+phonetic: "/stɒk/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: stoc
+network_activation: [词根笔记, 同义辨析, 反义词群, 形近词群]
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,10 +23,7 @@ review_count: 0
 # stock
 
 > [!info] 基础信息
-> **音标** /stɒk/ | **词频** 考研高频 | **语义场** [[储存]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
-%% HERMES-L0: 语义场判定规则见 SKILL.md Step 3 %%
+> **音标** /stɒk/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -36,17 +38,10 @@ review_count: 0
 > **延伸维度**：空间路径
 > **隐喻类型**：结构隐喻
 
-%% HERMES-L0: 判定原型义(物理动作优先>最具体义项优先>最早学到优先>词源义参考) %%
-%% HERMES-L0: 判定主延伸维度(使用频率最高的延伸路径) %%
-%% HERMES-L0: 判定隐喻类型(哲学文档2.1节): 方位/结构/本体 %%
-
 ## 词根词缀
 
 [[stoc]](储存、树桩)
 **叙事**：把货物堆放在树桩（stock原指木桩）旁边——储存货物形成库存。
-
-%% HERMES-L0: 叙事记忆创作参考哲学文档2.7.4节 %%
-%% HERMES-L0: 如果词根笔记不存在，在输出中提示"建议创建词根笔记 [[<词根>]]" %%
 
 **建议创建词根笔记**：[[stoc]]（储存）
 
@@ -56,7 +51,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**库存**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **库存货物**（商业层面）
@@ -80,10 +75,6 @@ review_count: 0
 > - [x] **可统筹**：能否用一句话将所有义项串联？
 > - [x] **有支撑**：是否有真题例句或语料支撑该链路？
 
-%% HERMES-L1: 应用词义链路法操作规程(哲学文档2.2节) %%
-%% HERMES-L1: Step1判定原型义 → Step2确定延伸维度+隐喻类型 → Step3描述路径+激活条件 → Step4选择统筹模式 %%
-%% HERMES-L1: 验证标准: 可逆性+可统筹+有支撑 %%
-
 ## 词性转换
 
 > [!note]- 词性-词义链接 · L1
@@ -94,14 +85,7 @@ review_count: 0
 > | v. | 储备/贮存 | 动作化 |
 > | adj. | 库存的/常备的 | 形容词化 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
-
-%% HERMES-L1: 分析词性转换路径(哲学文档2.4节) %%
-%% HERMES-L1: v→n: 该动作的结果是(什么) / n→n: 子集链路/特性抽象 %%
-%% HERMES-L1: a→v: 使动用法 / v→a: +ed表示"持有-动作"的状态 %%
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -114,9 +98,6 @@ review_count: 0
 > s（死）+ to（去）+ ck → 死去的货物放进仓库 → 库存
 >
 > **其他**：音译法 / 形意关联 / 词义串句 / 中英混合法
-
-%% HERMES-L1: 优先使用叙事化词源(哲学文档2.7.4)，其次词拆分记忆(2.6节)，再次双编码策略(3.2节) %%
-%% HERMES-L1: 词拆分允许创造性拆分(如 contemplate = con + template + plate) %%
 
 ---
 
@@ -132,17 +113,11 @@ review_count: 0
 >
 > **"增"标记**：stock **(增-可周转性)** vs store
 
-%% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
-%% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
-
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - [[shortage]]：短缺（库存不足）
 > - [[deficit]]：赤字（资金储备不足）
-
-%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 
@@ -154,9 +129,6 @@ review_count: 0
 > | [[stockpile]] | stock + pile | 大量储备 | 词义补充 |
 > | [[stockholder]] | stock + holder | 股东 | 词义填充 |
 
-%% HERMES-L2: 派生词链接(哲学文档2.5节) %%
-%% HERMES-L2: 词义补充: 派生词反哺母词 / 词义填充: 母词填充派生词 %%
-
 ---
 
 ## 搭配与短语
@@ -167,16 +139,11 @@ review_count: 0
 > - **out of stock**：缺货（The popular book is out of stock in most bookstores.）
 > - **livestock**：家畜（The farmer keeps a variety of livestock on his land.）
 
-%% HERMES-L3: 仅列考研真题高频搭配，不编造 %%
-%% HERMES-L3: 每个搭配附带1个真题例句 %%
-
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
 > - "The savings and loan scandal, the stock market and junk bond swindles have undermined the faith of many Americans in the integrity of political and economic leaders."（储蓄贷款丑闻、股市和垃圾债券诈骗已经动摇了许多美国人对政治和经济领导人正直性的信心。）——考研高频表达
 > - "Stock market prices began to climb as investors regained confidence."（随着投资者恢复信心，股市价格开始攀升。）——考研高频表达
-
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
 
 ---
 
@@ -184,11 +151,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 %% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
 
@@ -199,20 +161,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [x] 词根笔记：stoc（储存）
-> - [x] 同义辨析：stock, store, inventory
-> - [x] 反义词群：shortage, deficit
-> - [x] 形近词群：[[store]], [[storage]], stocking
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox，/回顾时读取勾选状态决定是否纳入对应网络 %%

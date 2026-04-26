@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 走在前面
 extension_dim: 时间路径
+phonetic: "/ˈpriːviəs/"
+pos: adj.
+metaphor_type: 方位隐喻
+word_root: 
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # previous
 
 > [!info] 基础信息
-> **音标** /ˈpriːviəs/ | **词频** 考研高频 | **语义场** [[抽象关系]]
-
-%% HERMES-L0: previous 形容词，语义场归为抽象关系（时间/顺序上的"先前的"） %%
+> **音标** /ˈpriːviəs/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -31,20 +34,16 @@ review_count: 0
 > **延伸维度**：时间路径
 > **隐喻类型**：方位隐喻（前方=更早的/在先的）
 
-%% HERMES-L0: 原型义为"走在前面的"，方位隐喻延伸至时间上的"先前的" %%
-
 ## 词根词缀
 
 pre-(在……之前) + vi(路) + -ous(形容词后缀)
 **叙事**：走在同一条路上、位于你前面的人或事，就是"先前的、以前的"。
 
-%% HERMES-L0: pre-前缀 + vi词根(路/走) + ous形容词后缀，与[[ced-cess]]词根相关 %%
-
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**走在前面的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **走在前面的**（空间/时间方位）
@@ -73,10 +72,7 @@ pre-(在……之前) + vi(路) + -ous(形容词后缀)
 > | adv. (previously) | 以前，先前 | adj→adv：时间上的先前性 |
 > | n. (preview) | 预览 | pre+view(看) |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -119,8 +115,6 @@ pre-(在……之前) + vi(路) + -ous(形容词后缀)
 > | [[preserve]] | pre+serv(守卫)+e | 保护；保存 | 同族词 |
 > | [[preside]] | pre+sid(坐)+e | 主持；主管 | 同族词 |
 
-%% HERMES-L2: presently/preserve/preside/previous 同属 pre-族，互相链接 %%
-
 ---
 
 ## 搭配与短语
@@ -142,11 +136,6 @@ pre-(在……之前) + vi(路) + -ous(形容词后缀)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -155,16 +144,3 @@ pre-(在……之前) + vi(路) + -ous(形容词后缀)
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：ced-cess（走）——已有词根笔记 [[ced-cess]]
-> - [ ] 同义辨析：previous / prior / former / preceding
-> - [ ] 反义词群：previous / subsequent / following / later
-> - [ ] 形近词群：previous / precious / preview / prejudice

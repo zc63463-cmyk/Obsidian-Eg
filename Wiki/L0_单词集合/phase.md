@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 月相，月亮的周期性外观变化
 extension_dim: 时间路径
+phonetic: "/feɪz/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: phas
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # phase
 
 > [!info] 基础信息
-> **音标** /feɪz/ | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /feɪz/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -42,7 +47,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**月相（周期性外观变化）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **月相**（天文学层面：月亮周期性变化的外观）
@@ -70,10 +75,7 @@ review_count: 0
 > | n. | 阶段；月相 | 核心名词，指周期中的某一状态 |
 > | vt. | 分阶段进行 | n.→v. 零派生，使某过程呈现不同"阶段" |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -129,19 +131,12 @@ review_count: 0
 > > - "The project is currently in the initial phase of development."（该项目目前处于开发的初始阶段。）——考研阅读真题
 > - "Most teenagers go through a rebellious phase."（大多数青少年都会经历一个叛逆期。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -150,16 +145,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：phas/phen（显现/外观）
-> - [ ] 同义辨析：phase / stage / period
-> - [ ] 反义词群：无直接反义词
-> - [ ] 形近词群：phase / phrase / phenomenon

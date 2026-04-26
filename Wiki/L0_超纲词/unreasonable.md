@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-25
 mastery: L0
-word_freq: 中频
+word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 没有道理的（不合理的）
 extension_dim: 抽象路径
+phonetic: "/ʌnˈriːznəbl/"
+pos: adj.
+metaphor_type: 无隐喻
+word_root: reason
+network_activation: []
 last_review: 2026-04-25
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # unreasonable
 
 > [!info] 基础信息
-> **音标** /ʌnˈriːznəbl/ | **词频** 考研中频 | **语义场** [[理性世界]]
+> **音标** /ʌnˈriːznəbl/ | **词级** 超纲词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ un-(不，否定) + [[under]](在下面→古法语 *raison* 源自拉丁语 *ra
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**没有道理的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **没有道理的**（逻辑层面）
@@ -67,10 +72,7 @@ un-(不，否定) + [[under]](在下面→古法语 *raison* 源自拉丁语 *ra
 > |------|------|---------|
 > | adj. | 不合理的；过度的；不理智的 | 核心词性，reason + un- + -able |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -135,11 +137,6 @@ un-(不，否定) + [[under]](在下面→古法语 *raison* 源自拉丁语 *ra
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -148,16 +145,3 @@ un-(不，否定) + [[under]](在下面→古法语 *raison* 源自拉丁语 *ra
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：reason 源自拉丁语 *ratio*（计算/推理）
-> - [ ] 同义辨析：unreasonable/irrational/illogical/excessive
-> - [ ] 反义词群：reasonable/rational
-> - [ ] 形近词群：reason/reasonable/unreasonable/reasonably/unreasonably

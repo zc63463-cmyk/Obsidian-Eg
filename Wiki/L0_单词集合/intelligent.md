@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 能够在信息之间进行选择理解的
 extension_dim: 抽象路径
+phonetic: "/ɪnˈtelɪdʒənt/"
+pos: a.
+metaphor_type: 本体隐喻
+word_root: gen
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # intelligent
 
 > [!info] 基础信息
-> **音标** /ɪnˈtelɪdʒənt/ | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /ɪnˈtelɪdʒənt/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ent(形容词后缀，�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**能选择理解的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **能选择理解的**（人：聪明的、有才智的）
@@ -65,10 +70,7 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ent(形容词后缀，�
 > | n. (intelligence) | 智力；情报 | a→n：聪明的来源 → 智力 |
 > | adv. (intelligently) | 聪明地 | a→adv |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -130,11 +132,6 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ent(形容词后缀，�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -143,16 +140,3 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ent(形容词后缀，�
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：gen（产生）
-> - [ ] 同义辨析：intelligent / clever / bright / intellectual
-> - [ ] 反义词群：stupid / foolish
-> - [ ] 形近词群：intellectual / intelligence / intelligent / intelligible

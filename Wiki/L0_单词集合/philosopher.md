@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 爱智慧的人
 extension_dim: 社会路径
+phonetic: "/fəˈlɒsəfə(r)/"
+pos: n.
+metaphor_type: 无隐喻
+word_root: phil
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # philosopher
 
 > [!info] 基础信息
-> **音标** /fəˈlɒsəfə(r)/ | **词频** 考研中频 | **语义场** [[理性世界]]
+> **音标** /fəˈlɒsəfə(r)/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -42,7 +47,7 @@ phil(爱) + soph(智慧) + -er(做…的人)
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**爱智慧的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **爱智慧的人**（字面义：热爱并追求智慧的人）
@@ -69,10 +74,7 @@ phil(爱) + soph(智慧) + -er(做…的人)
 > |------|------|---------|
 > | n. | 哲学家；善于思考的人 | 核心名词，-er 表示"做…的人" |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -128,19 +130,12 @@ phil(爱) + soph(智慧) + -er(做…的人)
 > > - "Ancient Greek philosophers laid the foundation for Western thought."（古希腊哲学家为西方思想奠定了基础。）——考研阅读真题
 > - "The philosopher argued that happiness is the ultimate goal of human life."（这位哲学家认为幸福是人生的终极目标。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -149,16 +144,3 @@ phil(爱) + soph(智慧) + -er(做…的人)
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：phil（爱）+ soph（智慧）
-> - [ ] 同义辨析：philosopher / thinker / scholar
-> - [ ] 反义词群：ignoramus
-> - [ ] 形近词群：philosopher / philosophy / phenomenon

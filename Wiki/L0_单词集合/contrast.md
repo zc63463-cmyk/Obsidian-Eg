@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 对立而立，对照比较
 extension_dim: 抽象路径
+phonetic: "/kənˈtrɑːst/"
+pos: vt.
+metaphor_type: 方位隐喻
+word_root: contrast
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # contrast
 
 > [!info] 基础信息
-> **音标** /kənˈtrɑːst/ v.; /ˈkɒntrɑːst/ n. | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /kənˈtrɑːst/ v.; /ˈkɒntrɑːst/ n. | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -42,7 +47,7 @@ contra-(反，对立) + st(站立) = contrast（对立而立）
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**对立而立，对照比较**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **对立而立，对照比较**（行为层面）
@@ -76,10 +81,7 @@ contra-(反，对立) + st(站立) = contrast（对立而立）
 > | vi. | 形成对比 | 不及物用法，侧重自然显现差异 |
 > | n. | 对比；差异；反差 | v→n：对立比较的过程或结果 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -147,11 +149,6 @@ contra-(反，对立) + st(站立) = contrast（对立而立）
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -160,16 +157,3 @@ contra-(反，对立) + st(站立) = contrast（对立而立）
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：contra（反，对立）
-> - [ ] 同义辨析：contrast/compare/distinguish
-> - [ ] 反义词群：resemble/parallel/match
-> - [ ] 形近词群：contrast/contract/contradict/contrary

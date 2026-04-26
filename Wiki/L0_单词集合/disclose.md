@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 社会专业
 prototype: 打开覆盖物、揭露
 extension_dim: 空间路径
+phonetic: "/dɪsˈkləʊz/"
+pos: vt.
+metaphor_type: 结构隐喻
+word_root: 
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # disclose
 
 > [!info] 基础信息
-> **音标** /dɪsˈkləʊz/ | **词频** 考研中频 | **语义场** [[社会专业]]
+> **音标** /dɪsˈkləʊz/ | **词级** 必备词 | **语义场** [[社会专业]]
 
 ## 核心释义
 
@@ -40,7 +45,7 @@ dis-(打开/移除) + [[close/clus|close]](关闭/覆盖) → 移除覆盖
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**移除覆盖**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **移除覆盖**（物理层面：打开遮挡物）
@@ -66,10 +71,7 @@ dis-(打开/移除) + [[close/clus|close]](关闭/覆盖) → 移除覆盖
 > | vt. | 揭露；公开 | 原型动词 |
 > | n. | 揭露 | disclose + -ure → 动作结果（disclosure） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -133,11 +135,6 @@ dis-(打开/移除) + [[close/clus|close]](关闭/覆盖) → 移除覆盖
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -146,16 +143,3 @@ dis-(打开/移除) + [[close/clus|close]](关闭/覆盖) → 移除覆盖
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：close/clus（关闭）
-> - [ ] 同义辨析：disclose / reveal / expose / uncover
-> - [ ] 反义词群：conceal / hide / cover up
-> - [ ] 形近词群：disclose / close / enclosure / disclose

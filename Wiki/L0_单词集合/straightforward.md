@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 人本世界
 prototype: 直直向前
 extension_dim: 空间路径
+phonetic: "/ˌstreɪtˈfɔːwəd/"
+pos: adj.
+metaphor_type: 方位隐喻
+word_root: straight
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # straightforward
 
 > [!info] 基础信息
-> **音标** /ˌstreɪtˈfɔːwəd/ | **词频** 考研中频 | **语义场** [[人本世界]]
-
-%% HERMES-L0: straightforward 形容词/副词，语义场归为人本世界（坦率的/简单的） %%
+> **音标** /ˌstreɪtˈfɔːwəd/ | **词级** 必备词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -32,20 +35,16 @@ review_count: 0
 > **延伸维度**：空间路径
 > **隐喻类型**：方位隐喻（空间上的直向前→行为上的坦率→事情上的简单）
 
-%% HERMES-L0: 原型义为"直直向前"，空间路径延伸至"坦率的、简单的" %%
-
 ## 词根词缀
 
 [[straight|straight]](直的) + forward(向前)
 **叙事**：直直地向前走——不拐弯、不绕路，所以是"坦率的"；不设障碍、不复杂，所以是"简单的"。
 
-%% HERMES-L0: straight + forward 复合词，与[[tend-tens]]词根远源相关 %%
-
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**直直向前**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **直直向前**（空间方向）
@@ -73,10 +72,7 @@ review_count: 0
 > | adj. | 坦率的；简单的 | 基础词性 |
 > | adv. | 直截了当地 | adj→adv：直接修饰行为 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -118,8 +114,6 @@ review_count: 0
 > | [[straightforwardly]] | straightforward + -ly(副词后缀) | 直截了当地 | 词义填充 |
 > | [[straightforwardness]] | straightforward + -ness(名词后缀) | 坦率；简单 | 词义填充 |
 
-%% HERMES-L2: straight/straightforward 同族词，互相链接 %%
-
 ---
 
 ## 搭配与短语
@@ -141,11 +135,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -154,16 +143,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：tend-tens（拉伸）——已有词根笔记 [[tend-tens]]
-> - [ ] 同义辨析：straightforward / simple / frank / direct
-> - [ ] 反义词群：straightforward / complicated / deceptive / complex
-> - [ ] 形近词群：straightforward / straightforwardly / standstill

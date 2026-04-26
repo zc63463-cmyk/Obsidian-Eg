@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 编织在一起的
 extension_dim: 空间路径
+phonetic: "/ˈkɒmpleks/"
+pos: adj.
+metaphor_type: 结构隐喻
+word_root: plex
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # complex
 
 > [!info] 基础信息
-> **音标** /ˈkɒmpleks/ | **词频** 考研高频 | **语义场** [[科学逻辑]]
+> **音标** /ˈkɒmpleks/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ com-(共同/一起) + plex(编织、折叠) → 编织在一起
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**编织在一起的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **编织在一起**（空间层面——多要素交织）
@@ -72,8 +77,7 @@ com-(共同/一起) + plex(编织、折叠) → 编织在一起
 > | n. (complexity) | 复杂性 | + -ity |
 > | adv. (complexly) | 复杂地 | + -ly |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -140,11 +144,6 @@ com-(共同/一起) + plex(编织、折叠) → 编织在一起
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -153,16 +152,3 @@ com-(共同/一起) + plex(编织、折叠) → 编织在一起
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：plex（编织、折叠）
-> - [ ] 同义辨析：complicated, intricate, sophisticated
-> - [ ] 反义词群：simple, straightforward
-> - [ ] 形近词群：complicate, complete, complement, compliment

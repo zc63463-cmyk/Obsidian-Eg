@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 人体动作
 prototype: 拉紧
 extension_dim: 具身路径
+phonetic: "/streɪn/"
+pos: v.
+metaphor_type: 本体隐喻
+word_root: tend-tens
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # strain
 
 > [!info] 基础信息
-> **音标** /streɪn/ | **词频** 考研高频 | **语义场** [[人体动作]]
-
-%% HERMES-L0: strain 名词/动词，语义场归为人体动作（拉紧/紧张/劳损） %%
+> **音标** /streɪn/ | **词级** 必备词 | **语义场** [[人体动作]]
 
 ## 核心释义
 
@@ -32,20 +35,16 @@ review_count: 0
 > **延伸维度**：具身路径
 > **隐喻类型**：本体隐喻（物理拉紧→心理紧张→身体劳损→关系压力）
 
-%% HERMES-L0: 原型义为"拉紧"，具身路径从物理延伸到心理和身体 %%
-
 ## 词根词缀
 
 源自拉丁语 stringere（拉紧），与 [[tend-tens|tens]](拉伸) 同源
 **叙事**：把绳子拉到极限——这就是strain。肌肉拉到极限就是"拉伤"，神经拉到极限就是"紧张"，关系拉到极限就是"压力"。
 
-%% HERMES-L0: 与tend-tens词根同源，已有词根笔记 [[tend-tens]] %%
-
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**拉紧**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **拉紧**（物理动作）
@@ -80,10 +79,7 @@ review_count: 0
 > | v. | 拉紧；使紧张；扭伤 | 基础词性 |
 > | n. | 压力；拉伤；品种 | v→n：拉紧的状态/结果 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -127,8 +123,6 @@ review_count: 0
 > | [[restrain]] | re-(回)+strain | 抑制；遏制 | 词义补充 |
 > | [[distress]] | di-(分开)+stress | 悲痛；贫困 | 同根词 |
 
-%% HERMES-L2: strain/strategy 同源，与tend-tens词根相关 %%
-
 ---
 
 ## 搭配与短语
@@ -152,11 +146,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -165,16 +154,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：tend-tens（拉伸）——已有词根笔记 [[tend-tens]]
-> - [ ] 同义辨析：strain / stress / tension / pressure
-> - [ ] 反义词群：strain / relax / relief / ease
-> - [ ] 形近词群：strain / straight / strategy / strange

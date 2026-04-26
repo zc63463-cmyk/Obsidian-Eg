@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 低频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 使成为必需，需要
 extension_dim: 抽象路径
+phonetic: "/nəˈsesɪteɪt/"
+pos: v.
+metaphor_type: 无隐喻
+word_root: cess
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,13 +23,9 @@ review_count: 0
 # necessitate
 
 > [!info] 基础信息
-> **音标** /nəˈsesɪteɪt/ | **词频** 考研低频 | **语义场** [[抽象关系]]
-
-%% HERMES-L0: 音标(IPA)、词频(考研低频)、语义场(抽象关系) %%
+> **音标** /nəˈsesɪteɪt/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
-
-%% HERMES-L0: 按词性分类，考研常考义项不超过4个 %%
 
 **v.** ①==**使成为必需，需要**== ; ②迫使 ;
 
@@ -33,22 +34,16 @@ review_count: 0
 > **延伸维度**：抽象路径
 > **隐喻类型**：无隐喻（直接抽象概念）
 
-%% HERMES-L0: 原型义为"使成为必需"，抽象路径延伸 %%
-
 ## 词根词缀
-
-%% HERMES-L0: 拆分前缀+词根+后缀 %%
 
 ne-(否定前缀，"不") + cess(走/退让) + -itate(动词后缀，"使…")
 **叙事**：ne(不) + cess(退让) + itate(使)——"使某事变得不可退让"，即 **necessitate**（使成为必需）。
-
-%% HERMES-L0: 建议创建词根笔记 [[nec/ness]] %%
 
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**使成为必需**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使成为必需**（使某事变得不可缺少）
@@ -75,10 +70,7 @@ ne-(否定前缀，"不") + cess(走/退让) + -itate(动词后缀，"使…")
 > | adj. | 必要的 | v.→adj. [[necessary]]，去掉 -ate |
 > | n. | 必要性 | v.→n. [[necessity]]，动作的抽象名词 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -119,8 +111,6 @@ ne-(否定前缀，"不") + cess(走/退让) + -itate(动词后缀，"使…")
 > | [[necessary]] | ne- + cess + -ary | 必要的 | 词义填充：母词填充派生词 |
 > | [[necessity]] | ne- + cess + -ity | 必要性，必需品 | 词义补充：名词形式 |
 
-%% HERMES-L2: necessary ↔ necessitate ↔ necessity 同族互链 %%
-
 ---
 
 ## 搭配与短语
@@ -141,11 +131,6 @@ ne-(否定前缀，"不") + cess(走/退让) + -itate(动词后缀，"使…")
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -154,18 +139,3 @@ ne-(否定前缀，"不") + cess(走/退让) + -itate(动词后缀，"使…")
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：nec/ness（不+退让→必要）
-> - [ ] 同义辨析：necessitate / require / force
-> - [ ] 反义词群：eliminate / dispense with
-> - [ ] 形近词群：necessary / necessity / necessarily
-
-%% HERMES-ACTIVATION: 建议创建词根笔记 [[nec/ness]] %%

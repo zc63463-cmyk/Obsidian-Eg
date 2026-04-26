@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 计算和思考的能力
 extension_dim: 抽象路径
+phonetic: "/ˈriːzn/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: ratio
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # reason
 
 > [!info] 基础信息
-> **音标** /ˈriːzn/ | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /ˈriːzn/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -43,7 +48,7 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**计算和思考的能力**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **计算和思考的能力**（本义：理性思维的能力）
@@ -76,10 +81,7 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 > | vt. | 推理；说服 | n.→v. 零派生，"运用理性"→"推理/说服" |
 > | vi. | 推理，思考 | vt.→vi. 去掉宾语，强调思考过程 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -139,19 +141,12 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 > - "It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself."（这也是为什么当我们试图用语言来描述音乐时，我们所能做的只是表达对它的反应，而不能把握音乐本身。）——2014年考研翻译
 > - "This book stands for reason itself."（这本书代表了理性本身。）——1996年考研阅读
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -160,16 +155,3 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：reason/ratio（计算/思考）
-> - [ ] 同义辨析：reason / cause / motive / excuse
-> - [ ] 反义词群：emotion / instinct / prejudice
-> - [ ] 形近词群：reason / season / treason

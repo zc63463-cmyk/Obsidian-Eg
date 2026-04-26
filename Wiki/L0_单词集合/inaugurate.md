@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-20
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 通过占卜仪式正式开始
 extension_dim: 社会路径
+phonetic: "/ɪˈnɔːɡjəreɪt/"
+pos: vt.
+metaphor_type: 结构隐喻
+word_root: inaugurare
+network_activation: []
 last_review: 2026-04-20
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # inaugurate
 
 > [!info] 基础信息
-> **音标** /ɪˈnɔːɡjəreɪt/ | **词频** 考研中频 | **语义场** [[社会活动]]
+> **音标** /ɪˈnɔːɡjəreɪt/ | **词级** 必备词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**通过占卜仪式正式开始**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **通过占卜仪式正式开始**（仪式层面）
@@ -72,10 +77,7 @@ review_count: 0
 > | vt. | 就职典礼；开幕；开创 | 核心词性，及物动词 |
 > | n. | （无独立名词用法） | 名词形式为 inauguration |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -143,11 +145,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -156,16 +153,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：augur（占卜师/预兆，拉丁语 augurare）
-> - [ ] 同义辨析：launch/initiate/inaugurate/commence
-> - [ ] 反义词群：conclude/terminate/abolish
-> - [ ] 形近词群：augment（增加）/ augment（增大）

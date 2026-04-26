@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 重新拿回→恢复
 extension_dim: 时间路径
+phonetic: "/rɪˈzjuːm/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: sume
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # resume
 
 > [!info] 基础信息
-> **音标** /rɪˈzjuːm/（v.）/ˈrezjumeɪ/（n. 简历） | **词频** 考研高频 | **语义场** [[抽象关系]]
+> **音标** /rɪˈzjuːm/（v.）/ˈrezjumeɪ/（n. 简历） | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ re-(再次/重新) + sume(拿取，源自 [[sumere|sum/sump]]) → 重新拿取 
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**重新拿取**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **重新拿取**（物理动作层面）
@@ -67,10 +72,7 @@ re-(再次/重新) + sume(拿取，源自 [[sumere|sum/sump]]) → 重新拿取 
 > | v. | 恢复；继续 | 基础词性 |
 > | n. | 简历；摘要 | v→n：重新拿取→把经历重新概述（名词化路径不同，来自法语 résumé） |
 
-> [!abstract]- 词尾定性速查
-> 无典型词尾变化，resume 兼具动名两性，且名词读音不同
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -136,11 +138,6 @@ re-(再次/重新) + sume(拿取，源自 [[sumere|sum/sump]]) → 重新拿取 
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -149,16 +146,3 @@ re-(再次/重新) + sume(拿取，源自 [[sumere|sum/sump]]) → 重新拿取 
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：sum/sump（拿取）
-> - [ ] 同义辨析：resume / restore / recover / renew
-> - [ ] 反义词群：pause / suspend / cease
-> - [ ] 形近词群：result / resultant / assume / consume

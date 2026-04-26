@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 人本世界
 prototype: 在了解事实之前就做出判断
 extension_dim: 社会路径
+phonetic: "/ˈpredʒudɪs/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: dict
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # prejudice
 
 > [!info] 基础信息
-> **音标** /ˈpredʒudɪs/ | **词频** 考研高频 | **语义场** [[人本世界]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
+> **音标** /ˈpredʒudɪs/ | **词级** 必备词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -44,7 +47,7 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**在了解事实之前就做出判断**"为统筹中心，沿**社会路径**向外扩展：
 >
 > 1. **在了解事实之前就做出判断**（认知层面：未审先判）
@@ -76,10 +79,7 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 > | adj. (prejudiced) | 有偏见的 | v→a：+ed表示"持有偏见"的状态 |
 > | adj. (prejudicial) | 引起偏见的；有害的 | adj：特性抽象 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -136,8 +136,6 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 > - **without prejudice**：不带偏见地
 >   The judge promised to consider the case without prejudice.
 
-%% HERMES-L3: 仅列考研真题高频搭配，不编造 %%
-
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
@@ -149,11 +147,6 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -162,20 +155,3 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：dict（说/判断）/ pre（在前面）
-> - [ ] 同义辨析：prejudice / bias / discrimination
-> - [ ] 反义词群：impartiality / fairness / objectivity
-> - [ ] 形近词群：predict / preface / preferable / preference / preliminary
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox，/回顾时读取勾选状态决定是否纳入对应网络 %%

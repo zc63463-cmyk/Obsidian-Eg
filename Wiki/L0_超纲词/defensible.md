@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-24
 mastery: L0
-word_freq: 低频
+word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 可以被保护的（能够经得起攻击/质疑的）
 extension_dim: 抽象路径
+phonetic: "/dɪˈfensəbl/"
+pos: adj.
+metaphor_type: 本体隐喻
+word_root: fens
+network_activation: []
 last_review: 2026-04-24
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # defensible
 
 > [!info] 基础信息
-> **音标** /dɪˈfensəbl/ | **词频** 考研低频 | **语义场** [[政治法律]]
+> **音标** /dɪˈfensəbl/ | **词级** 超纲词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以“**可以被保护的（能够经得起攻击/质疑的）**”为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可防御的**（物理层面）
@@ -63,10 +68,7 @@ review_count: 0
 > |------|------|---------|
 > | adj. | 可防御的；站得住脚的 | defend + -ible（动词→形容词：可以被...的） |
 >
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -125,11 +127,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -138,15 +135,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：defensible/justifiable/viable/reasonable
-> - [ ] 反义词群：indefensible/untenable/unjustifiable
-> - [ ] 形近词群：defend/defense/defensible/defensive

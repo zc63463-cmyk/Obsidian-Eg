@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 人本世界
 prototype: 给予过去（将某物给予某人/归到某人头上）
 extension_dim: 社会路径
+phonetic: "/əˈtrɪbjuːt/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: tribute
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,15 +23,9 @@ review_count: 0
 # attribute
 
 > [!info] 基础信息
-> **音标** /əˈtrɪbjuːt/ v.; /ˈætrɪbjuːt/ n. | **词频** 考研高频 | **语义场** [[人本世界]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
-%% HERMES-L0: 语义场判定规则见 SKILL.md Step 3 %%
+> **音标** /əˈtrɪbjuːt/ v.; /ˈætrɪbjuːt/ n. | **词级** 必备词 | **语义场** [[人本世界]]
 
 ## 核心释义
-
-%% HERMES-L0: 按词性分类，仅列考研常考义项(不超过4个)，使用紧凑格式 %%
-%% HERMES-L0: 格式: **词性.** ①释义1 ; ②释义2 ; 考研重点义项用 ==**加粗+高亮**== 标记 %%
 
 **v.** ①==**把……归因于，认为……是……所为**==；
 **n.** ①属性，特质；
@@ -36,26 +35,16 @@ review_count: 0
 > **延伸维度**：社会路径
 > **隐喻类型**：结构隐喻（"给予"→"归因"——把功劳/原因"给予"某人=归因于某人）
 
-%% HERMES-L0: 判定原型义(物理动作优先>最具体义项优先>最早学到优先>词源义参考) %%
-%% HERMES-L0: 判定主延伸维度(使用频率最高的延伸路径) %%
-%% HERMES-L0: 判定隐喻类型(哲学文档2.1节): 方位/结构/本体 %%
-
 ## 词根词缀
-
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
-%% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 **叙事**：at（向）+ tribute（给予）→ 把某物给予某人 → **归因于**。你 attribute success to hard work，就是把成功的"功劳"给予努力。tribute 本身就是"给予"的意思（contribute = 共同给予），attribute 就是"朝某人给予"→ 归因于。建议创建词根笔记 [[tribute]]（给予，拉丁语 *tribuere*）。
-
-%% HERMES-L0: 叙事记忆创作参考哲学文档2.7.4节 %%
-%% HERMES-L0: 如果词根笔记不存在，在输出中提示"建议创建词根笔记 [[<词根>]]" %%
 
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**给予过去**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **给予过去**（社会/认知层面）
@@ -66,9 +55,6 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 
 ### 统筹（选择适用的模式）
 
-%% HERMES-L1: 根据该词的一词多义特征，选择最合适的统筹模式 %%
-%% HERMES-L1: 统筹模式参考哲学文档2.3节，以下6种模式选1-2种即可 %%
-
 - **一字一词概括**：attribute 就是"给予"——把原因给予某人=归因，把特征给予某物=属性
 - **一句话统筹**：attribute 就是"朝某人/某物给予"——给予原因=归因，给予特征=属性
 
@@ -76,10 +62,6 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 > - [x] **可逆性**：从"属性"能反向推导到"被给予的固有特征"
 > - [x] **可统筹**：一句话——"attribute 就是把某物给予某人/某物"
 > - [x] **有支撑**：attribute...to..., personal attributes 均有语料支撑
-
-%% HERMES-L1: 应用词义链路法操作规程(哲学文档2.2节) %%
-%% HERMES-L1: Step1判定原型义 → Step2确定延伸维度+隐喻类型 → Step3描述路径+激活条件 → Step4选择统筹模式 %%
-%% HERMES-L1: 验证标准: 可逆性+可统筹+有支撑 %%
 
 ## 词性转换
 
@@ -90,14 +72,7 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 > | v. | 归因于 | 核心词性，"给予"的动作 |
 > | n. | 属性，特质 | v→n：被给予的固有特征（"给予"的结果就是"属性"） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
-
-%% HERMES-L1: 分析词性转换路径(哲学文档2.4节) %%
-%% HERMES-L1: v→n: 该动作的结果是(什么) / n→n: 子集链路/特性抽象 %%
-%% HERMES-L1: a→v: 使动用法 / v→a: +ed表示"持有-动作"的状态 %%
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -108,9 +83,6 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 >
 > **词拆分记忆**（辅助）：
 > at（向）+ tri（三）+ bute（but的变体）→ 向三个人说"但是功劳是他的" → 归因于
-
-%% HERMES-L1: 优先使用叙事化词源(哲学文档2.7.4)，其次词拆分记忆(2.6节)，再次双编码策略(3.2节) %%
-%% HERMES-L1: 词拆分允许创造性拆分(如 contemplate = con + template + plate) %%
 
 ---
 
@@ -127,16 +99,10 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 >
 > **"增"标记**：attribute **(增-中性归因)** vs credit（基准词：正面归功）；attribute **(增-可指负面原因)** vs owe（基准词：正面归功）
 
-%% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
-%% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
-
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - [[discredit]]：使不信，贬低（attribute/credit 的反义：归功↔贬低）
-
-%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 
@@ -151,9 +117,6 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 > | [[contribute]] | con-(共同) + tribute(给予) | 贡献 | 词义补充（同词根） |
 > | [[distribute]] | dis-(分开) + tribute(给予) | 分配 | 词义补充（同词根） |
 
-%% HERMES-L2: 派生词链接(哲学文档2.5节) %%
-%% HERMES-L2: 词义补充: 派生词反哺母词 / 词义填充: 母词填充派生词 %%
-
 ---
 
 ## 搭配与短语
@@ -163,16 +126,11 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 > - **be attributed to**：被归因于……
 > - **personal attributes**：个人特质
 
-%% HERMES-L3: 仅列考研真题高频搭配，不编造 %%
-%% HERMES-L3: 每个搭配附带1个真题例句 %%
-
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
 > - "Few Americans attribute this solely to such obvious causes as a devalued dollar or the turning of the business cycle."（几乎没有美国人将此仅仅归因于美元贬值或商业周期转折这样明显的原因。——1998年考研英语阅读，attribute...to... 经典真题）
 > - "The fall in the number of deaths from heart disease is generally attributed to improvements in diet."（心脏病死亡人数的下降通常归因于饮食的改善。——考研英语高频例句）
-
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
 
 ---
 
@@ -180,11 +138,6 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 %% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
 
@@ -195,20 +148,3 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：tribute（给予，拉丁语 *tribuere*）
-> - [ ] 同义辨析：attribute/owe/ascribe/credit
-> - [ ] 反义词群：discredit
-> - [ ] 形近词群：attribute/attitude/attend/attention/attempt/contribute/distribute
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox，/回顾时读取勾选状态决定是否纳入对应网络 %%

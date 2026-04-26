@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 社会专业
 prototype: 从业者/实践者
 extension_dim: 社会路径
+phonetic: "/prækˈtɪʃənər/"
+pos: n.
+metaphor_type: 无隐喻
+word_root: practic
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # practitioner
 
 > [!info] 基础信息
-> **音标** /prækˈtɪʃənər/ | **词频** 考研中频 | **语义场** [[社会专业]]
+> **音标** /prækˈtɪʃənər/ | **词级** 必备词 | **语义场** [[社会专业]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ practic（[[practice|实践]]）+ -er（名词后缀，"做...的人"）
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**从业者**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **从业者**（职业层面：以某种实践为职业的人）
@@ -124,11 +129,6 @@ practic（[[practice|实践]]）+ -er（名词后缀，"做...的人"）
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -137,16 +137,3 @@ practic（[[practice|实践]]）+ -er（名词后缀，"做...的人"）
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：pract/prag（实践/做）
-> - [ ] 同义辨析：practitioner / professional / expert
-> - [ ] 反义词群：theorist
-> - [ ] 形近词群：practitioner / practical / practice / practise

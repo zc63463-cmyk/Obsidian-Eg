@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 追踪痕迹寻找真相
 extension_dim: 抽象路径
+phonetic: "/ɪnˈvestɪɡeɪt/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: vestig
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # investigate
 
 > [!info] 基础信息
-> **音标** /ɪnˈvestɪɡeɪt/ | **词频** 考研高频 | **语义场** [[认知活动]]
+> **音标** /ɪnˈvestɪɡeɪt/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**追踪痕迹寻找真相**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **追踪痕迹寻找真相**（犯罪层面）
@@ -72,10 +77,7 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 > | n. (investigator) | 调查者，研究者 | v→n：执行追踪的人 |
 > | adj. (investigative) | 调查的，研究的 | v→adj：用于追踪的 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -140,11 +142,6 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -153,16 +150,3 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：vestig（足迹，来自拉丁语 *vestigium*）
-> - [ ] 同义辨析：investigate/examine/explore
-> - [ ] 反义词群：ignore/overlook
-> - [ ] 形近词群：investigate/invest/investment

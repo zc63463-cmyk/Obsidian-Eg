@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 物品工具
 prototype: 柱子、专栏
 extension_dim: 空间路径
+phonetic: "/ˈkɒləm/"
+pos: n.
+metaphor_type: 方位隐喻
+word_root: umn
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # column
 
 > [!info] 基础信息
-> **音标** /ˈkɒləm/ | **词频** 考研中频 | **语义场** [[器物工具]]
+> **音标** /ˈkɒləm/ | **词级** 必备词 | **语义场** [[物品工具]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ col-(共同，一起，[[com]]变体) + umn(源自拉丁语 columna，柱子)
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**柱子、圆柱**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **柱子、圆柱**（物理层面——建筑中的垂直支撑结构）
@@ -66,8 +71,7 @@ col-(共同，一起，[[com]]变体) + umn(源自拉丁语 columna，柱子)
 > |------|------|---------|
 > | n. | 柱子、专栏、列 | 原型义，名词本体 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -127,19 +131,12 @@ col-(共同，一起，[[com]]变体) + umn(源自拉丁语 columna，柱子)
 > > - "She writes a weekly column for a major national newspaper."（她为一家全国性大报撰写每周专栏。）——考研阅读真题
 > - "The temple is supported by a row of massive stone columns."（这座寺庙由一排巨大的石柱支撑。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -148,16 +145,3 @@ col-(共同，一起，[[com]]变体) + umn(源自拉丁语 columna，柱子)
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：pillar, pole, row
-> - [ ] 反义词群：row
-> - [ ] 前缀族群：column, combine, combat（com-/col- 前缀族）
-> - [ ] 派生词群：columnist

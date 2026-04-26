@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 人本世界
 prototype: 仔细观察星星（星象占卜）→ 深思熟虑
 extension_dim: 抽象路径
+phonetic: "/kənˈsɪdə/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: sider
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # consider
 
 > [!info] 基础信息
-> **音标** /kənˈsɪdə/ | **词频** 考研高频 | **语义场** [[人本世界]]
+> **音标** /kənˈsɪdə/ | **词级** 必备词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**仔细观察思考**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **仔细观察星星**（物理动作层面）
@@ -70,10 +75,7 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 > | v. | 考虑，认为，体谅 | 基本词性 |
 > | n. | consideration：考虑，体谅 | v→n：思考的行为或结果 |
 
-> [!abstract]- 词尾定性速查
-> `-er` 动词后缀（此处非"人"义），表示反复动作
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -142,27 +144,9 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
 ## 主动产出
 
 > [!success]- 内化标记 · L4
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：sid/sider（星星/坐）
-> - [ ] 同义辨析：think / ponder / contemplate / consider
-> - [ ] 反义词群：ignore / neglect
-> - [ ] 形近词群：considerable / considerate / conservation / conservative / consist

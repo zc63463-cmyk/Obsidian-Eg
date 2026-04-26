@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 资本经济
 prototype: 委员会、佣金、委托
 extension_dim: 社会路径
+phonetic: "/kəˈmɪʃn/"
+pos: n.
+metaphor_type: 无隐喻
+word_root: miss
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # commission
 
 > [!info] 基础信息
-> **音标** /kəˈmɪʃn/ | **词频** 考研高频 | **语义场** [[商业金融]]
+> **音标** /kəˈmɪʃn/ | **词级** 必备词 | **语义场** [[资本经济]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ com-(共同，一起) + miss(发送，[[mit]]变体) + -ion(名词后缀，表�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**委员会、佣金**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **委员会**（组织层面——被委托执行特定任务的群体）
@@ -68,8 +73,7 @@ com-(共同，一起) + miss(发送，[[mit]]变体) + -ion(名词后缀，表�
 > | n. | 委员会、佣金、委托 | 原型义（名词形式） |
 > | v. | 委托、委任 | 原型义（动词形式） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -134,19 +138,12 @@ com-(共同，一起) + miss(发送，[[mit]]变体) + -ion(名词后缀，表�
 > > - "The European Commission has proposed new regulations on data protection."（欧盟委员会提出了新的数据保护法规。）——考研阅读真题
 > - "He was commissioned to paint a portrait of the queen."（他受委托为女王画一幅肖像。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -155,16 +152,3 @@ com-(共同，一起) + miss(发送，[[mit]]变体) + -ion(名词后缀，表�
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：committee, fee, board
-> - [ ] 形近词群：command, commend, comment, commerce, commission, commit, committee（com- 前缀族）
-> - [ ] 前缀族群：command, commend, comment, commerce, commercial, commission, commit, committee（com- 前缀族）
-> - [ ] 派生词群：commissioner

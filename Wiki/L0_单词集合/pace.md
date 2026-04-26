@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-20
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 人体动作
 prototype: 一步、步伐
 extension_dim: 具身路径
+phonetic: "/peɪs/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: pace
+network_activation: [词根笔记, 同义辨析]
 last_review: 2026-04-20
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # pace
 
 > [!info] 基础信息
-> **音标** /peɪs/ | **词频** 考研高频 | **语义场** [[人体动作]]
+> **音标** /peɪs/ | **词级** 必备词 | **语义场** [[人体动作]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**一步、步伐**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **一步、步伐**（物理动作层面）
@@ -73,10 +78,7 @@ review_count: 0
 > | n. | 步伐；节奏；步调 | 核心词性 |
 > | v. | 踱步；定速度；并驾齐驱 | n→v：步伐这个行为 → 走步/控制步速 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -146,11 +148,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -159,16 +156,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [x] 词根笔记：pass/pand（伸展、经过，拉丁语 passus/pandere，衍生 pass/passenger/compass/passion 等）
-> - [x] 同义辨析：pace/speed/rate/tempo
-> - [ ] 反义词群：standstill/slowness
-> - [ ] 形近词群：pace/pack/page/pain（形近易混）

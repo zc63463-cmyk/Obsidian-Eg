@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 指向目标位置的指示物
 extension_dim: 抽象路径
+phonetic: "/ˈɪndeks/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: dex
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # index
 
 > [!info] 基础信息
-> **音标** /ˈɪndeks/ | **词频** 考研高频 | **语义场** [[科学逻辑]]
+> **音标** /ˈɪndeks/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ in-(向内/指向) + dex(手指/指示，同源 digit 手指) → 用手指指�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**指向目标位置的指示物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **指向目标位置的指示物**（物理层面）
@@ -71,8 +76,7 @@ in-(向内/指向) + dex(手指/指示，同源 digit 手指) → 用手指指�
 > | v. | 为...编索引 | 名词动用 |
 > | pl. | indexes / indices | 两种复数形式（indices 更常用于学术） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -132,19 +136,12 @@ in-(向内/指向) + dex(手指/指示，同源 digit 手指) → 用手指指�
 > > - "The stock index rose by 2% following the announcement of the new policy."（新政策公布后，股票指数上涨了2%。）——考研阅读真题
 > - "Researchers used the consumer price index to measure inflation."（研究人员使用消费者价格指数来衡量通货膨胀。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -153,15 +150,3 @@ in-(向内/指向) + dex(手指/指示，同源 digit 手指) → 用手指指�
 > [!success]- 内化标记 · L4
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：indicator, catalog, standard
-> - [ ] 反义词群：无直接反义词
-> - [ ] 形近词群：independent, incident, indicate

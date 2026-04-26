@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 低频
+word_freq: 基础词
 semantic_field: 人本世界
 prototype: 品味、享受（像品尝美味一样充分体验快乐）
 extension_dim: 具身路径
+phonetic: "/ˈrelɪʃ/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: lish
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # relish
 
 > [!info] 基础信息
-> **音标** /ˈrelɪʃ/ | **词频** 考研低频 | **语义场** [[人本世界]]
+> **音标** /ˈrelɪʃ/ | **词级** 基础词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**品味、享受**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **品味、享受**（味觉层面）
@@ -68,10 +73,7 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 > | v. | 享受；期盼 | 核心词性 |
 > | n. | 享受；调味品 | v→n：享受的感觉/增加味道的东西 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -137,11 +139,6 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -150,16 +147,3 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：[[lic]]（味道/令人愉悦，拉丁语 *licere*）
-> - [ ] 同义辨析：relish/enjoy/savor/appreciate
-> - [ ] 反义词群：dread/loathe
-> - [ ] 形近词群：relish/relax/relay/release/relief/relieve/reluctant

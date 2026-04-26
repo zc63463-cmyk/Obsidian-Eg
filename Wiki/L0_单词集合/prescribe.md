@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 社会专业
 prototype: 开处方、规定
 extension_dim: 社会路径
+phonetic: "/prɪˈskraɪb/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: scrib-script
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # prescribe
 
 > [!info] 基础信息
-> **音标** /prɪˈskraɪb/ | **词频** 考研中频 | **语义场** [[社会专业]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
+> **音标** /prɪˈskraɪb/ | **词级** 必备词 | **语义场** [[社会专业]]
 
 ## 核心释义
 
@@ -30,8 +33,6 @@ review_count: 0
 > **原型义**：事先写好（规定/指示）
 > **延伸维度**：社会路径
 > **隐喻类型**：结构隐喻（将"写下来的规则"映射为"权威性的指令"）
-
-%% HERMES-L0: 原型义为"事先写好"，最具体义项优先 %%
 
 ## 词根词缀
 
@@ -45,7 +46,7 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**事先写好（规定/指示）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **事先写好（规定/指示）**（权威层面——写好规则让别人遵守）
@@ -74,10 +75,7 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 > |------|------|---------|
 > | v. | 开处方、规定 | 基础词性（pre- + scrib） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -140,11 +138,6 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -153,16 +146,3 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：scrib-script（写）
-> - [ ] 同义辨析：prescribe / dictate / stipulate / recommend
-> - [ ] 反义词群：proscribe / forbid
-> - [ ] 形近词群：prescribe / proscribe / describe / inscribe

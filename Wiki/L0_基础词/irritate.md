@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-24
 mastery: L0
-word_freq: 中频
+word_freq: 基础词
 semantic_field: 人本世界
 prototype: 使发痒/发炎（刺激身体引起不适反应）
 extension_dim: 具身路径
+phonetic: "/ˈɪrɪteɪt/"
+pos: v.
+metaphor_type: 结构隐喻
+word_root: rit-rag
+network_activation: []
 last_review: 2026-04-24
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # irritate
 
 > [!info] 基础信息
-> **音标** /ˈɪrɪteɪt/ | **词频** 考研中频 | **语义场** [[人本世界]]
+> **音标** /ˈɪrɪteɪt/ | **词级** 基础词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ ir-(=in-, 进入/加强) + rit(=rag-, 兴奋/刺激，拉丁语 *iritare*) + -at
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**使发痒/发炎（刺激引起不适）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **刺激引起不适**（身体层面）
@@ -68,10 +73,7 @@ ir-(=in-, 进入/加强) + rit(=rag-, 兴奋/刺激，拉丁语 *iritare*) + -at
 > | adj. | （通过 [[irritating]]）恼人的 | v→adj：令人恼火的 |
 > | n. | （通过 [[irritation]]）恼怒；刺激 | v→n：irritate 的结果 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -135,11 +137,6 @@ ir-(=in-, 进入/加强) + rit(=rag-, 兴奋/刺激，拉丁语 *iritare*) + -at
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -148,16 +145,3 @@ ir-(=in-, 进入/加强) + rit(=rag-, 兴奋/刺激，拉丁语 *iritare*) + -at
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：rit-/rag-（刺激/兴奋，拉丁语 *iritare*）
-> - [ ] 同义辨析：irritate/annoy/anger/provoke
-> - [ ] 反义词群：soothe/calm
-> - [ ] 形近词群：irritate/irritated/irritating/irritation/irritable

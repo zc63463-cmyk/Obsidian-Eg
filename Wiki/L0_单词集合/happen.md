@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-20
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 发生、偶然出现
 extension_dim: 时间路径
+phonetic: "/ˈhæpən/"
+pos: vi.
+metaphor_type: 方位隐喻
+word_root: happy
+network_activation: []
 last_review: 2026-04-20
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # happen
 
 > [!info] 基础信息
-> **音标** /ˈhæpən/ | **词频** 考研高频 | **语义场** [[事件]]
+> **音标** /ˈhæpən/ | **词级** 必备词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**偶然发生**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **偶然发生**（事件-时间层面）
@@ -71,10 +76,7 @@ review_count: 0
 > | n. (hap) | 运气，偶然事件 | v→n：去掉 -en，hap 是名词形式 |
 > | adj. (happy) | 快乐的 | 词根扩展：hap + -y（有…的） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -146,11 +148,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -159,16 +156,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：hap（运气，古诺斯语 *happ*）
-> - [ ] 同义辨析：happen/occur/take place/arise
-> - [ ] 反义词群：cease/stop/prevent
-> - [ ] 形近词群：happen / open / sharpen / happen

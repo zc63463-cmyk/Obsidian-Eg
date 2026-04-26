@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 自然物理
 prototype: 向外伸展（从中心向外拉长）
 extension_dim: 空间路径
+phonetic: "/ɪkˈstend/"
+pos: v.
+metaphor_type: 方位隐喻
+word_root: tend-tens
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,15 +23,9 @@ review_count: 0
 # extend
 
 > [!info] 基础信息
-> **音标** /ɪkˈstend/ | **词频** 考研高频 | **语义场** [[空间关系]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
-%% HERMES-L0: 语义场判定规则见 SKILL.md Step 3 %%
+> **音标** /ɪkˈstend/ | **词级** 必备词 | **语义场** [[自然物理]]
 
 ## 核心释义
-
-%% HERMES-L0: 按词性分类，仅列考研常考义项(不超过4个)，使用紧凑格式 %%
-%% HERMES-L0: 格式: **词性.** ①释义1 ; ②释义2 ; 考研重点义项用 ==**加粗+高亮**== 标记 %%
 
 **v.** ①==**延伸，延长**==；②==**扩大，扩展**==；③给予，提供（帮助、欢迎等）；④伸展（身体）；
 
@@ -35,26 +34,16 @@ review_count: 0
 > **延伸维度**：空间路径
 > **隐喻类型**：方位隐喻（空间上的向外伸展→时间上的延长、范围上的扩大）
 
-%% HERMES-L0: 判定原型义(物理动作优先>最具体义项优先>最早学到优先>词源义参考) %%
-%% HERMES-L0: 判定主延伸维度(使用频率最高的延伸路径) %%
-%% HERMES-L0: 判定隐喻类型(哲学文档2.1节): 方位/结构/本体 %%
-
 ## 词根词缀
-
-%% HERMES-L0: 拆分前缀+词根+后缀，检查已有词根笔记并添加链接 %%
-%% HERMES-L0: 检查路径: VocabVault/Wiki/词根词缀/ %%
 
 ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 **叙事**：ex（向外）+ tend（伸展）→ **向外伸展**。一条路从城市中心向外伸展（extend the road），一个项目的截止日期向外伸展（extend the deadline），你的知识面从专业向外伸展到跨学科（extend one's knowledge）。
-
-%% HERMES-L0: 叙事记忆创作参考哲学文档2.7.4节 %%
-%% HERMES-L0: 如果词根笔记不存在，在输出中提示"建议创建词根笔记 [[<词根>]]" %%
 
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**向外伸展**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向外伸展**（空间层面）
@@ -66,9 +55,6 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 >      - 激活条件：extend a warm welcome, extend an invitation
 
 ### 统筹（选择适用的模式）
-
-%% HERMES-L1: 根据该词的一词多义特征，选择最合适的统筹模式 %%
-%% HERMES-L1: 统筹模式参考哲学文档2.3节，以下6种模式选1-2种即可 %%
 
 - **一字一词概括**：extend 就是"向外伸"——伸长是时间/空间上的延伸，伸手是给予/提供
 - **一句话统筹**：一切 extend 都是从中心向外的"伸展"
@@ -86,14 +72,7 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 > |------|------|---------|
 > | v. | 延伸；扩大；给予 | 核心词性，"向外伸展"的动作 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
-
-%% HERMES-L1: 分析词性转换路径(哲学文档2.4节) %%
-%% HERMES-L1: v→n: 该动作的结果是(什么) / n→n: 子集链路/特性抽象 %%
-%% HERMES-L1: a→v: 使动用法 / v→a: +ed表示"持有-动作"的状态 %%
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -104,9 +83,6 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 >
 > **词拆分记忆**（辅助）：
 > ex（向外）+ tend（伸展）→ 向外伸展 → 延伸/扩大
-
-%% HERMES-L1: 优先使用叙事化词源(哲学文档2.7.4)，其次词拆分记忆(2.6节)，再次双编码策略(3.2节) %%
-%% HERMES-L1: 词拆分允许创造性拆分(如 contemplate = con + template + plate) %%
 
 ---
 
@@ -123,18 +99,12 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 >
 > **"增"标记**：extend **(增-空间伸展感+给予义)** vs expand（基准词：膨胀扩大）；extend **(增-通用性，可指时间/空间/范围)** vs prolong（基准词：时间延长）
 
-%% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
-%% HERMES-L2: "增"标记法(哲学文档2.7.1): 标记相对基准词的语义/情感增量 %%
-%% HERMES-L2: 检查 Wiki/同义辨析/ 是否已有对应辨析笔记，有则链接 %%
-
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - [[shorten]]：缩短（extend 的反义：向外伸展 vs 向内缩短）
 > - [[shrink]]：收缩，缩小（extend 的反义：向外扩展 vs 向内收缩）
 > - [[reduce]]：减少，缩小（extend 的反义：扩大 vs 减少）
-
-%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 
@@ -147,9 +117,6 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 > | [[extent]] | ex-(向外) + tent(=tend-, 伸展) | 程度；范围 | 词义补充（同源词） |
 > | [[extended]] | extend + -ed(形容词后缀) | 延长的，持续的 | 词义补充 |
 
-%% HERMES-L2: 派生词链接(哲学文档2.5节) %%
-%% HERMES-L2: 词义补充: 派生词反哺母词 / 词义填充: 母词填充派生词 %%
-
 ---
 
 ## 搭配与短语
@@ -161,16 +128,11 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 > - **extend from A to B**：从A延伸到B
 > - **extend over**：延续（一段时间）
 
-%% HERMES-L3: 仅列考研真题高频搭配，不编造 %%
-%% HERMES-L3: 每个搭配附带1个真题例句 %%
-
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
 > - "How we read a given text also depends to some extent on our particular interest in reading it."（我们如何阅读一个既定的文本，在某种程度上也取决于我们阅读它的特定兴趣。——2015年考研英语一新题型）
 > - "Even employment protection laws, if they do not put the jobs of ordinary workers at risk, limit firms' productivity to the extent that they restrict the owners' ability to fire underperforming managers."（即使就业保护法不会使普通员工的岗位处于危险之中，但只要其在某种程度上限制企业所有者解雇表现不佳的经理，这些法律就限制了企业的生产率。——考研英语真题）
-
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
 
 ---
 
@@ -178,11 +140,6 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 %% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
 
@@ -193,20 +150,3 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：[[tend-tens|tend-/tens-/tent-]]（伸展、倾向，拉丁语 *tendere*）
-> - [ ] 同义辨析：extend/expand/stretch/prolong
-> - [ ] 反义词群：shorten/shrink/reduce
-> - [ ] 形近词群：extend/extension/extensive/extent/intend/intend
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox，/回顾时读取勾选状态决定是否纳入对应网络 %%

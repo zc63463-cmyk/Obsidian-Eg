@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 政治法律
 prototype: 放在上面、施加
 extension_dim: 空间路径
+phonetic: "/ɪmˈpəʊz/"
+pos: vt.
+metaphor_type: 方位隐喻
+word_root: pos
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # impose
 
 > [!info] 基础信息
-> **音标** /ɪmˈpəʊz/ | **词频** 考研高频 | **语义场** [[政治法律]]
+> **音标** /ɪmˈpəʊz/ | **词级** 必备词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ im-(=in/on，在……上) + pos(=put/place，放置) + -e（建议创建词根�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**放在上面、施加**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **放在上面、施加**（物理层面）
@@ -65,10 +70,7 @@ im-(=in/on，在……上) + pos(=put/place，放置) + -e（建议创建词根�
 > |------|------|---------|
 > | vt. | 强加，推行 | 核心词性 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -126,19 +128,12 @@ im-(=in/on，在……上) + pos(=put/place，放置) + -e（建议创建词根�
 > - "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks."（英国的金融监管机构对大银行的管理层强加了一条非同寻常的规则。）——2019年考研英语一阅读Text1
 > - "Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals that provide digital services to consumers or users in France."（上周四，法国参议院通过了一项数字服务税，该税将对向法国消费者或用户提供数字服务的大型跨国公司征收一项全新的税。）——考研阅读真题
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -147,16 +142,3 @@ im-(=in/on，在……上) + pos(=put/place，放置) + -e（建议创建词根�
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：pos/pon（放置）
-> - [ ] 同义辨析：impose / force / enforce
-> - [ ] 反义词群：remove / lift
-> - [ ] 形近词群：impose / impress / import / imply

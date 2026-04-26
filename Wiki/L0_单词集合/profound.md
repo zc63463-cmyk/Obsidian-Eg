@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 向下深入到底
 extension_dim: 空间路径
+phonetic: "/prəˈfaʊnd/"
+pos: adj.
+metaphor_type: 方位隐喻
+word_root: found
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # profound
 
 > [!info] 基础信息
-> **音标** /prəˈfaʊnd/ | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /prəˈfaʊnd/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ pro-(向前/向下) + [[de|de→向下]](向下) + found(底部，fundus的变�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**向下深入到底**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向下深入到底**（物理深度）
@@ -70,10 +75,7 @@ pro-(向前/向下) + [[de|de→向下]](向下) + found(底部，fundus的变�
 > | adv. (profoundly) | 深刻地；极度地 | adj→adv：以深刻的方式 |
 > | n. (profundity) | 深刻；深奥 | adj→n：深刻的程度/性质 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -139,11 +141,6 @@ pro-(向前/向下) + [[de|de→向下]](向下) + found(底部，fundus的变�
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -152,16 +149,3 @@ pro-(向前/向下) + [[de|de→向下]](向下) + found(底部，fundus的变�
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：de（向下）
-> - [ ] 同义辨析：profound / deep / acute / insightful
-> - [ ] 反义词群：profound / superficial / shallow
-> - [ ] 形近词群：profound / found / fund / foundation

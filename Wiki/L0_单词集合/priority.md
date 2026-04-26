@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在前面的状态/性质
 extension_dim: 时间路径
+phonetic: "/praɪˈɒrəti/"
+pos: n.
+metaphor_type: 方位隐喻
+word_root: pri
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # priority
 
 > [!info] 基础信息
-> **音标** /praɪˈɒrəti/ | **词频** 考研高频 | **语义场** [[抽象关系]]
-
-%% HERMES-L0: 填写音标(IPA)、词频(考研高/中/低频)、判定语义场 %%
+> **音标** /praɪˈɒrəti/ | **词级** 必备词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -31,8 +34,6 @@ review_count: 0
 > **延伸维度**：时间路径
 > **隐喻类型**：方位隐喻（前面=更早处理/更重要，空间上的前方→处理顺序上的优先）
 
-%% HERMES-L0: 判定原型义(物理动作优先>最具体义项优先>最早学到优先>词源义参考) %%
-
 ## 词根词缀
 
 [[pri]](在前面/第一) + -or(比较级后缀) + -ity(名词后缀，表性质/状态) = priority（更在前面的状态→优先权）
@@ -41,13 +42,11 @@ review_count: 0
 
 **叙事**：在紧急事件中，**排在更前面**（pri + -or）处理的任务获得了**优先权**（-ity）。
 
-%% HERMES-L0: 叙事记忆创作参考哲学文档2.7.4节 %%
-
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**在前面的状态**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **在前面的状态**（空间层面：排在前面）
@@ -68,8 +67,6 @@ review_count: 0
 > - [x] **可统筹**：所有义项围绕"排在前面/优先处理"展开
 > - [x] **有支撑**：top priority / give priority to 为考研高频用法
 
-%% HERMES-L1: 应用词义链路法操作规程(哲学文档2.2节) %%
-
 ## 词性转换
 
 > [!note]- 词性-词义链接 · L1
@@ -80,10 +77,7 @@ review_count: 0
 > | adj. (prior) | 先前的；优先的 | n→adj：优先的属性 |
 > | v. (prioritize) | 优先考虑，按优先顺序排列 | n→v：赋予优先权 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -94,8 +88,6 @@ review_count: 0
 >
 > **词拆分记忆**（标准词根无法解释时使用）：
 > prior（在先的）+ ity（名词后缀）→ 在先的性质 → **优先权**
-
-%% HERMES-L1: 优先使用叙事化词源(哲学文档2.7.4) %%
 
 ---
 
@@ -111,15 +103,11 @@ review_count: 0
 >
 > **"增"标记**：priority **(增-重要性/紧急性)** vs preference（preference 基于喜好，priority 基于重要性/紧急性）
 
-%% HERMES-L2: 四维辨析法(哲学文档3.4节) %%
-
 ## 反义词
 
 > [!note]- 反义词 · L2
 > - [[inferiority]]：低等，次要（优先→次要）
 > - [[subordination]]：从属地位（优先→从属）
-
-%% HERMES-L2: 添加wikilink，说明反义关系 %%
 
 ## 派生词链接
 
@@ -134,8 +122,6 @@ review_count: 0
 > | [[privilege]] | priv(个人) + leg(法律) | 特权 | pri-族同源 |
 > | [[prudent]] | prud(有远见的) + -ent(形容词后缀) | 谨慎的 | pri-族形义关联 |
 
-%% HERMES-L2: 派生词链接(哲学文档2.5节) %%
-
 ---
 
 ## 搭配与短语
@@ -148,8 +134,6 @@ review_count: 0
 > - **take priority over**：优先于
 >   Public safety should take priority over economic growth.（公共安全应优先于经济增长。）
 
-%% HERMES-L3: 仅列考研真题高频搭配 %%
-
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
@@ -161,11 +145,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 %% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
 
@@ -176,20 +155,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
-%% HERMES-L4: 仅在用户实际产出后填写 %%
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：pri（在前面/第一）
-> - [ ] 同义辨析：priority / preference / precedence
-> - [ ] 反义词群：inferiority / subordination
-> - [ ] 形近词群：priority / privacy / private / privilege
-
-%% HERMES-ACTIVATION: AI 根据用户回复勾选对应 checkbox %%

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 政治法律
 prototype: 打破缺口或违反约定
 extension_dim: 抽象路径
+phonetic: "/briːtʃ/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: 
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # breach
 
 > [!info] 基础信息
-> **音标** /briːtʃ/ | **词频** 考研中频 | **语义场** [[政治法律]]
+> **音标** /briːtʃ/ | **词级** 必备词 | **语义场** [[政治法律]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**打破缺口或违反约定**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **缺口；裂口**（物理层面——连续物上的开口）
@@ -68,8 +73,7 @@ review_count: 0
 > | n. | 违反；缺口；破裂 | 原型义+引申 |
 > | v. | 违反；打破；突破 | 名词→动词：制造缺口/违反 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -129,19 +133,12 @@ review_count: 0
 > > - "The company was sued for breach of contract."（这家公司因违约被起诉。）——考研阅读真题
 > - "The hacker's breach of the security system exposed millions of user accounts."（黑客对安全系统的入侵暴露了数百万用户账户。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -150,15 +147,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 形近词群：break / breach / breakdown / beach（形近+同源辨析）
-> - [ ] 同义辨析：breach vs violate vs break vs infringe
-> - [ ] 反义词群：breach vs observe vs comply vs keep

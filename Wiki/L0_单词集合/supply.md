@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-22
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 资本经济
 prototype: 从下方提供→供应
 extension_dim: 空间路径
+phonetic: "/səˈplaɪ/"
+pos: v.
+metaphor_type: 方位隐喻
+word_root: ply
+network_activation: []
 last_review: 2026-04-22
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # supply
 
 > [!info] 基础信息
-> **音标** /səˈplaɪ/ | **词频** 考研高频 | **语义场** [[资本经济]]
+> **音标** /səˈplaɪ/ | **词级** 必备词 | **语义场** [[资本经济]]
 
 ## 核心释义
 
@@ -39,7 +44,7 @@ sup-(=sub-，从下方) + ply(=ple/plet，填充，参见 [[lect-leg|ple/plet]])
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**从下方填充**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从下方填充**（物理层面——填补空缺）
@@ -69,10 +74,7 @@ sup-(=sub-，从下方) + ply(=ple/plet，填充，参见 [[lect-leg|ple/plet]])
 > | v. | 供应；供给 | 基础词性 |
 > | n. | 供应量；日用品 | v→n：供应行为的对象/产物 |
 
-> [!abstract]- 词尾定性速查
-> 无典型词尾变化，supply 兼具动名两性
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -138,11 +140,6 @@ sup-(=sub-，从下方) + ply(=ple/plet，填充，参见 [[lect-leg|ple/plet]])
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -151,16 +148,3 @@ sup-(=sub-，从下方) + ply(=ple/plet，填充，参见 [[lect-leg|ple/plet]])
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：ple/plet（填充）
-> - [ ] 同义辨析：supply / provide / furnish
-> - [ ] 反义词群：demand / consume
-> - [ ] 形近词群：support / suppose / suppress / supplement / supreme

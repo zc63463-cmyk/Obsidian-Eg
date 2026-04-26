@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-23
 mastery: L0
-word_freq: 高频
+word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 两个以上事物结合在一起（合二为一）
 extension_dim: 结构路径
+phonetic: "/ˌkɒmbɪˈneɪʃn/"
+pos: n.
+metaphor_type: 结构隐喻
+word_root: bin
+network_activation: []
 last_review: 2026-04-23
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # combination
 
 > [!info] 基础信息
-> **音标** /ˌkɒmbɪˈneɪʃn/ | **词频** 考研高频 | **语义场** [[抽象关系]]
+> **音标** /ˌkɒmbɪˈneɪʃn/ | **词级** 基础词 | **语义场** [[抽象关系]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**两个以上事物结合**"为统筹中心，沿结构路径向外扩展：
 >
 > 1. **结合**（动作层面）
@@ -69,10 +74,7 @@ review_count: 0
 > | v. | combine（结合，联合） | n→v（词根词） |
 > | adj. | combined（结合的，联合的） | v→adj |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -136,11 +138,6 @@ review_count: 0
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -149,16 +146,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：com-（一起）+ bini（二/对）+ -ation → combination
-> - [ ] 同义辨析：combination/mixture/blend/fusion
-> - [ ] 反义词群：separation/division
-> - [ ] 派生词群：combine/combination/combined

@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 使某事成为必然的附属结果
 extension_dim: 抽象路径
+phonetic: "/ɪnˈteɪl/"
+pos: v.
+metaphor_type: 无隐喻
+word_root: tail
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # entail
 
 > [!info] 基础信息
-> **音标** /ɪnˈteɪl/ | **词频** 考研中频 | **语义场** [[文化日常]]
+> **音标** /ɪnˈteɪl/ | **词级** 必备词 | **语义场** [[社会习俗]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**使成为必然附属**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使成为必然附属**（逻辑层面）
@@ -67,8 +72,7 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 > | v. | 使...成为必需 | 本词 |
 > | n. | entailment | -ment 名词化，"蕴含；必然结果" |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -127,19 +131,12 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 > > - "The new regulations will entail significant costs for small businesses."（新规定将给小企业带来巨大的成本。）——考研阅读真题
 > - "The job entails a great deal of travel and irregular working hours."（这份工作需要大量的出差和不规律的工作时间。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -148,15 +145,3 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 > [!success]- 内化标记 · L4
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：require, involve, necessitate
-> - [ ] 反义词群：exempt
-> - [ ] 形近词群：ensure, indeed, detail, retail

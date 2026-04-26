@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 中频
+word_freq: 必备词
 semantic_field: 社会专业
 prototype: 沉思；考虑
 extension_dim: 抽象路径
+phonetic: "/ˈpɒndə(r)/"
+pos: v.
+metaphor_type: 本体隐喻
+word_root: ponder
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # ponder
 
 > [!info] 基础信息
-> **音标** /ˈpɒndə(r)/ | **词频** 考研中频 | **语义场** [[学术职业]]
+> **音标** /ˈpɒndə(r)/ | **词级** 必备词 | **语义场** [[社会专业]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**称量→反复思考**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **沉思/深思**（思维层面——反复思考某个问题）
@@ -63,8 +68,7 @@ review_count: 0
 > | v. | 沉思；考虑 | 动词原形 |
 > | n. (pondering) | 沉思 | ponder + -ing（动名词化） |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -130,19 +134,12 @@ review_count: 0
 > > - "Scientists have long pondered the mysteries of the universe."（科学家们长期以来一直在思索宇宙的奥秘。）——考研阅读真题
 > - "He sat alone, pondering the meaning of life."（他独自坐着，思考人生的意义。）——考研高频表达
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -151,16 +148,3 @@ review_count: 0
 > [!success]- 内化标记 · L4
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 同义辨析：consider, contemplate, deliberate, reflect, ponder
-> - [ ] 反义词群：ignore, act impulsively
-> - [ ] 形近词群：policy, polite, politics, political, politician, poll, ponder（pol- 词根族）
-> - [ ] pol- 词根族：policy, polite, politics, political, politician, poll

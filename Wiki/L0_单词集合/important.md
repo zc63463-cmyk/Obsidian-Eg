@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 理性世界
 prototype: 带来价值的、有重大意义的
 extension_dim: 抽象路径
+phonetic: "/ɪmˈpɔːtnt/"
+pos: adj.
+metaphor_type: 本体隐喻
+word_root: port
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,7 +23,7 @@ review_count: 0
 # important
 
 > [!info] 基础信息
-> **音标** /ɪmˈpɔːtnt/ | **词频** 考研高频 | **语义场** [[理性世界]]
+> **音标** /ɪmˈpɔːtnt/ | **词级** 必备词 | **语义场** [[理性世界]]
 
 ## 核心释义
 
@@ -38,7 +43,7 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**带来价值的、有重大意义的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **带来价值的、有重大意义的**（抽象层面）
@@ -65,10 +70,7 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 > |------|------|---------|
 > | adj. | 重要的 | 核心词性 |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -127,19 +129,12 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 > > - "It does not include important factors such as environmental quality or education outcomes — all things that contribute to a person's sense of well-being."（它不包括环境质量或教育成果等重要因素——所有这些都有助于一个人的幸福感。）——考研阅读真题
 > - "However, even though it's common, it's important to keep in mind that in a single moment of fatigue, you can say something to your child that you may regret for a long time."（然而，尽管这种情况很常见，但重要的是要记住，在疲惫的一瞬间，你可能会对孩子说出让你后悔很久的话。）——2020年考研英语二完形填空
 
-%% HERMES-L3: 链接到阅读/翻译笔记中的具体段落 %%
-
 ---
 
 ## 复习记录
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -148,16 +143,3 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：port（运送）
-> - [ ] 同义辨析：important / significant / crucial / vital
-> - [ ] 反义词群：unimportant / trivial
-> - [ ] 形近词群：important / importance / import

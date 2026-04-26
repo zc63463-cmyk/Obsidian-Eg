@@ -7,10 +7,15 @@ tags:
 aliases: []
 date: 2026-04-21
 mastery: L0
-word_freq: 高频
+word_freq: 必备词
 semantic_field: 人本世界
 prototype: 可以绑回来的
 extension_dim: 社会路径
+phonetic: "/rɪˈlaɪəbl/"
+pos: adj.
+metaphor_type: 本体隐喻
+word_root: 
+network_activation: []
 last_review: 2026-04-21
 review_count: 0
 ---
@@ -18,9 +23,7 @@ review_count: 0
 # reliable
 
 > [!info] 基础信息
-> **音标** /rɪˈlaɪəbl/ | **词频** 考研高频 | **语义场** [[人本世界]]
-
-%% HERMES-L0: reliable 形容词，语义场归为人本世界（可靠的品质） %%
+> **音标** /rɪˈlaɪəbl/ | **词级** 必备词 | **语义场** [[人本世界]]
 
 ## 核心释义
 
@@ -31,20 +34,16 @@ review_count: 0
 > **延伸维度**：社会路径
 > **隐喻类型**：本体隐喻（绑定→信赖→可靠）
 
-%% HERMES-L0: 原型义为"可以绑回来的"，社会路径延伸至"可以信赖的" %%
-
 ## 词根词缀
 
 re-(反复/回) + li(绑) + -able(可以……的)
 **叙事**：反复被绑在一起的人或事物，就像绳子牢牢系住的货物——怎么都不会跑掉，这就是"可靠的"。
 
-%% HERMES-L0: re-前缀 + li词根(绑)，建议创建词根笔记 [[li]] %%
-
 ---
 
 ## 词义链路
 
-> [!tip]- 词义链路法 · L1
+> [!abstract]- 词义链路法 · L1
 > 以"**可以绑回来的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **可以绑回来的**（物理绑定）
@@ -74,10 +73,7 @@ re-(反复/回) + li(绑) + -able(可以……的)
 > | n. (reliability) | 可靠性 | reliable + -ity(名词后缀) |
 > | n. (reliance) | 依赖；信赖 | rely + -ance(名词后缀) |
 
-> [!abstract]- 词尾定性速查
-> `-ent`人 / `-ate`使动 / `+ed`持有状态 / `-tion`动作结果 / `-ive`倾向 / `-ous`充满 / `-able`可被 / `-ful`充满 / `-less`没有
->
-> 完整规则见 [[词汇学习哲学#完整词尾分析规则]]
+> 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
 ## 记忆锚点
 
@@ -120,8 +116,6 @@ re-(反复/回) + li(绑) + -able(可以……的)
 > | [[reliability]] | reliable + -ity(名词后缀) | 可靠性 | 词义填充 |
 > | [[alliance]] | al-(向)+li(绑)+-ance | 联盟 | 同根词 |
 
-%% HERMES-L2: reliable/reliance/rely 同族词，互相链接 %%
-
 ---
 
 ## 搭配与短语
@@ -143,11 +137,6 @@ re-(反复/回) + li(绑) + -able(可以……的)
 
 > [!note]- 复习追踪
 > **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
->
-> - [ ] L0→L1：当天 + 1天后（主动回忆原型义）
-> - [ ] L1→L2：3天后 + 1周后（主动回忆词义链路+词根）
-> - [ ] L2→L3：2周后 + 1个月后（主动回忆辨析+语料）
-> - [ ] L3→L4：2个月后（写作/翻译中主动产出）
 
 ---
 
@@ -156,16 +145,3 @@ re-(反复/回) + li(绑) + -able(可以……的)
 > [!success]- 内化标记 · L4
 > **写作用例**：
 > **翻译实践**：
-
----
-
-## 网络激活
-
-> [!todo]- 🌐 网络激活选项
-> 回复编号（如 `12` 或 `全选` 或 `跳过`），AI 将勾选对应项并写回。
-> `/回顾` 时仅纳入已勾选的网络进行 Layer 2 构建。
->
-> - [ ] 词根笔记：li/lig（绑）——建议创建词根笔记 [[li]]
-> - [ ] 同义辨析：reliable / trustworthy / dependable / credible
-> - [ ] 反义词群：reliable / unreliable / undependable
-> - [ ] 形近词群：reliable / liable / available / viable
