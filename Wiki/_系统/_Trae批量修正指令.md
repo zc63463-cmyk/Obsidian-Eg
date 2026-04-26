@@ -1,4 +1,4 @@
-# Trae 批量修正指令
+﻿# Trae 批量修正指令
 
 ## 使用方法
 
@@ -25,14 +25,17 @@
 
 ### 关键规则
 1. **修正 1（Frontmatter 新增字段）**：从正文提取数据写入 frontmatter，字段插在 extension_dim 之后、last_review 之前
-2. **修正 2（语义场双链）**：以 frontmatter 的 semantic_field 值为准，修正正文双链
-3. **修正 3（HERMES 注释）**：删除所有 %% HERMES-xxx %% 行，包括行尾换行
-4. **修正 4（词尾定性速查）**：整个 callout 替换为一行引用
-5. **修正 5（复习记录）**：删除 4 行 checkbox，保留元数据行
-6. **修正 6（网络激活移除）**：先提取已勾选项写入 frontmatter（network_activation 字段），再删除整个 section + 清理多余分割线
-7. **修正 7（词根去重）**：不确定是否重复时保留原文，不要误删
-8. **修正 8（Callout 类型）**：仅改词义链路的 [!tip] → [!abstract]，不改原型义的 [!tip]
-9. **修正 9（分割线清理）**：删除连续两个 --- 中的一个
+2. **修正 1b（word_freq 值更新）**：
+   - 将 `word_freq` 的值按目录更新：`L0_单词集合/`→`必备词`，`L0_基础词/`→`基础词`，`L0_超纲词/`→`超纲词`
+   - 同时修改正文中 `**词频** 考研X频` → `**词级** X级词`
+3. **修正 2（语义场双链）**：以 frontmatter 的 semantic_field 值为准，修正正文双链
+4. **修正 3（HERMES 注释）**：删除所有 %% HERMES-xxx %% 行，包括行尾换行
+5. **修正 4（词尾定性速查）**：整个 callout 替换为一行引用
+6. **修正 5（复习记录）**：删除 4 行 checkbox，保留元数据行
+7. **修正 6（网络激活移除）**：先提取已勾选项写入 frontmatter（network_activation 字段），再删除整个 section + 清理多余分割线
+8. **修正 7（词根去重）**：不确定是否重复时保留原文，不要误删
+9. **修正 8（Callout 类型）**：仅改词义链路的 [!tip] → [!abstract]，不改原型义的 [!tip]
+10. **修正 9（分割线清理）**：删除连续两个 --- 中的一个
 
 ### 输出格式
 每批完成后输出：
@@ -64,8 +67,9 @@
 
 ```
 随机抽查 10 个文件（从三个目录各取 3-4 个），验证以下要点：
-1. frontmatter 包含 phonetic、pos、metaphor_type、word_root、network_activation 5 个新字段
-2. 无 HERMES 注释残留
+1. frontmatter 包含 phonetic、pos、metaphor_type、word_root、word_freq、network_activation 字段
+2. word_freq 值与所在目录匹配（必备词/基础词/超纲词）
+3. 无 HERMES 注释残留
 3. 无网络激活 section 残留
 4. 词义链路 callout 为 [!abstract] 而非 [!tip]
 5. 语义场双链与 semantic_field 字段一致
