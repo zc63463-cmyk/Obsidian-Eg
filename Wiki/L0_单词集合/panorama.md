@@ -15,7 +15,7 @@ phonetic: "/ˌpænəˈrɑːmə/"
 pos: n.
 metaphor_type: 结构隐喻
 word_root: panorama
-network_activation: []
+network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-20
 review_count: 0
 ---

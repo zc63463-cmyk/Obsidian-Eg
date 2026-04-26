@@ -15,7 +15,7 @@ phonetic: "/trəˈdʒektəri/"
 pos: n.
 metaphor_type: 结构隐喻
 word_root: ject
-network_activation: []
+network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-25
 review_count: 0
 ---

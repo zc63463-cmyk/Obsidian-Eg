@@ -15,7 +15,7 @@ phonetic: "/riːk/"
 pos: v.
 metaphor_type: 本体隐喻
 word_root: wreck
-network_activation: []
+network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-25
 review_count: 0
 ---

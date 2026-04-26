@@ -15,7 +15,7 @@ phonetic: "/riˈæktə(r)/"
 pos: n.
 metaphor_type: 无隐喻
 word_root: act
-network_activation: []
+network_activation: [词根, 派生词族]
 last_review: 2026-04-25
 review_count: 0
 ---

@@ -15,7 +15,7 @@ phonetic: "/ˈkɪdni/"
 pos: n.
 metaphor_type: 无隐喻
 word_root: kid
-network_activation: []
+network_activation: [词根, 派生词族]
 last_review: 2026-04-23
 review_count: 0
 ---

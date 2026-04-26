@@ -15,7 +15,7 @@ phonetic: "/pɑːm/"
 pos: n.
 metaphor_type: 本体隐喻
 word_root: oil
-network_activation: []
+network_activation: [词根, 派生词族]
 last_review: 2026-04-23
 review_count: 0
 ---

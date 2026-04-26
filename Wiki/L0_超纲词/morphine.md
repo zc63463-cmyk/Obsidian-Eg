@@ -15,7 +15,7 @@ phonetic: "/ˈmɔːfiːn/"
 pos: n.
 metaphor_type: 无隐喻
 word_root: Morpheus
-network_activation: []
+network_activation: [词根, 派生词族]
 last_review: 2026-04-24
 review_count: 0
 ---

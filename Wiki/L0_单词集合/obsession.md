@@ -15,7 +15,7 @@ phonetic: "/əbˈseʃn/"
 pos: n.
 metaphor_type: 结构隐喻
 word_root: 
-network_activation: []
+network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
 review_count: 0
 ---

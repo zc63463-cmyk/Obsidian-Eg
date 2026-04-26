@@ -15,7 +15,7 @@ phonetic: "/mæt/"
 pos: n.
 metaphor_type: 本体隐喻
 word_root: text
-network_activation: []
+network_activation: [词根, 同义辨析]
 last_review: 2026-04-23
 review_count: 0
 ---

@@ -15,7 +15,7 @@ phonetic: "/ˈkuːpɒn/"
 pos: n.
 metaphor_type: 无隐喻
 word_root: coupe
-network_activation: []
+network_activation: [词根, 同义辨析]
 last_review: 2026-04-24
 review_count: 0
 ---

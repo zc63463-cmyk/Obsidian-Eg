@@ -15,7 +15,7 @@ phonetic: "/suːˈpriːm/"
 pos: adj.
 metaphor_type: 方位隐喻
 word_root: supr
-network_activation: []
+network_activation: [词根, 派生词族]
 last_review: 2026-04-22
 review_count: 0
 ---

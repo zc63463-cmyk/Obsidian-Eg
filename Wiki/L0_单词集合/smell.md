@@ -15,7 +15,7 @@ phonetic: "/smel/"
 pos: vt.
 metaphor_type: 结构隐喻
 word_root: text
-network_activation: []
+network_activation: [词根, 同义辨析]
 last_review: 2026-04-21
 review_count: 0
 ---

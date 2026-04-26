@@ -15,7 +15,7 @@ phonetic: "/ˈepɪsəʊd/"
 pos: n.
 metaphor_type: 结构隐喻
 word_root: spec-spect
-network_activation: []
+network_activation: [词根, 同义辨析]
 last_review: 2026-04-22
 review_count: 0
 ---

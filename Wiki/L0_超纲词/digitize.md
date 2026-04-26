@@ -15,7 +15,7 @@ phonetic: "/ˈdɪdʒɪtaɪz/"
 pos: v.
 metaphor_type: 无隐喻
 word_root: digit
-network_activation: []
+network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-24
 review_count: 0
 ---

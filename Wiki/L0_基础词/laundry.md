@@ -15,7 +15,7 @@ phonetic: "/ˈlɔːndri/"
 pos: n.
 metaphor_type: 转喻
 word_root: laund
-network_activation: []
+network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
 review_count: 0
 ---

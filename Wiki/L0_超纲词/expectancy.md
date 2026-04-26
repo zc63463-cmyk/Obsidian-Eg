@@ -15,7 +15,7 @@ phonetic: "/ɪkˈspektənsi/"
 pos: n.
 metaphor_type: 无隐喻
 word_root: spect
-network_activation: []
+network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
 review_count: 0
 ---

@@ -15,7 +15,7 @@ phonetic: "/rɪˈtɔːt/"
 pos: v.
 metaphor_type: 结构隐喻
 word_root: tort
-network_activation: []
+network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
 review_count: 0
 ---

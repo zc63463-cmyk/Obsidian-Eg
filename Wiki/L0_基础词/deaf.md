@@ -15,7 +15,7 @@ phonetic: "/def/"
 pos: adj.
 metaphor_type: 结构隐喻
 word_root: dumb
-network_activation: []
+network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
 review_count: 0
 ---

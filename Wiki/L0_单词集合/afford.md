@@ -15,7 +15,7 @@ phonetic: "/əˈfɔːd/"
 pos: v.
 metaphor_type: 结构隐喻
 word_root: ford
-network_activation: []
+network_activation: [词根, 反义词群, 派生词族]
 last_review: 2026-04-21
 review_count: 0
 ---
