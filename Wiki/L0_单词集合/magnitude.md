@@ -15,7 +15,7 @@ phonetic: "/ˈmæɡnɪtjuːd/"
 pos: n.
 metaphor_type: 无隐喻
 word_root: magn
-network_activation: [词根笔记, 同义辨析]
+network_activation: [词根, 词根笔记, 同义辨析]
 last_review: 2026-04-20
 review_count: 0
 ---

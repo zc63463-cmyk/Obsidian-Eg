@@ -14,7 +14,7 @@ extension_dim: 空间路径
 phonetic: "/pəˈspektɪv/"
 pos: n.
 metaphor_type: 方位隐喻
-word_root: spect
+word_root: spec-spect
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
 review_count: 0

@@ -12,6 +12,10 @@
 - 数据流：GitHub Archive → JSZip → parseMarkdown → Supabase upsert → ISR 缓存
 - 默认内容源：`zc63463-cmyk/Obsidian-Eg` 仓库的 `Wiki/L0_单词集合/` 目录
 - 当前状态：5249 词条已批量修正模板格式（2026-04-26 commit 213b5ec8），网站可访问
+- B0 回填已执行但质量不佳：word_root 仅 15% 精确匹配词根目录，12% 空值与 na 矛盾，56% 为合法词根形素但无映射
+- B0 核心问题：提取逻辑取了正文 wikilink 中的同源词/关联词，而非词根本身
+- 修正方案：Phase 1 机械修正(623+637+206 文件) + Phase 2 LLM 重新提取(~2965 文件)
+- 词根规范化映射表：221 条映射，覆盖 100 个规范词根名（从文件名拆分+aliases+title提取）
 - Wiki 层（词根/语义场/形近字）质量极不均，需重建
 - 重建指令文件在 `Wiki/_系统/_Trae-B{0-4}*.md` 和 `_Trae-Wiki层重建主指令.md`
 - 首页 AnimatedCounter 显示 0 是 SSR 快照的客户端组件初始化值，非实际 bug

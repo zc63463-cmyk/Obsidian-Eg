@@ -14,7 +14,7 @@ extension_dim: 社会路径
 phonetic: "/ˈtendə(r)/"
 pos: adj.
 metaphor_type: 结构隐喻
-word_root: tend
+word_root: tend-tens
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
 review_count: 0

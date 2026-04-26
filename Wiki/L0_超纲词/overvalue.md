@@ -14,8 +14,8 @@ extension_dim: 抽象路径
 phonetic: "/ˌoʊvərˈvæljuː/"
 pos: v.
 metaphor_type: 无隐喻
-word_root: undervalue
-network_activation: [词根, 同义辨析, 反义词群, 派生词族]
+word_root: 
+network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-25
 review_count: 0
 ---

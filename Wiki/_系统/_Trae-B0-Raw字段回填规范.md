@@ -216,3 +216,102 @@ review_count: 0
 - **不改变字段顺序**：保持现有的 frontmatter 字段顺序不变
 - **word_root 的 ⚠️ 标记是临时标记**：后续创建对应词根页面后需移除
 - **已有值不覆盖**：如果 `word_root` 或 `network_activation` 已有正确值，不要覆盖
+
+---
+
+## 六、B0 回填校验结果与修正方案（2026-04-26）
+
+### 6.1 校验发现的问题
+
+B0 首轮回填后全库扫描发现三类问题，详见 [[B0回填全库校验报告-2026-04-26]]：
+
+| 问题 | 影响文件数 | 根因 |
+|------|-----------|------|
+| **A. word_root 为空但 na 含"词根"** | 623 | na 的"词根"判定与 word_root 回填逻辑互相独立 |
+| **B. word_root 值不匹配词根目录** | 3808 | 提取逻辑取了正文 wikilink 中的同源词/关联词，而非词根本身 |
+| **C. network_activation 过度标记** | ~4400 | 几乎所有文件都被标了"词根"，包括无词根的功能词/复合词 |
+
+### 6.2 word_root 错误提取的四种模式
+
+| 模式 | 示例 | 正确值 |
+|------|------|--------|
+| 同源词当词根 | receipt → `receive`, imagine → `imitate` | receipt → `cap`/`cap-ceiv-capt` |
+| 形近词当词根 | though → `thought` | → 空（功能词无词根） |
+| 前缀的派生词当词根 | category → `catastrophe` | → 空 |
+| 复合词成分当词根 | workforce → `work` | → 空（复合词非词根派生） |
+
+### 6.3 修正方案：两阶段修正
+
+#### Phase 1：机械修正（可立即执行）
+
+**1a. 修正 Problem A**：623 个文件
+```
+规则：word_root 为空 → 从 network_activation 移除"词根"
+```
+
+**1b. 清空明显错误的 word_root**：约 637 个文件
+```
+规则：word_root 值满足以下任一条件 → 清空 word_root 并移除 na 中的"词根"：
+  - 长度 > 8 且不含连字符（如 "catastrophe", "Akademeia", "bilateral"）
+  - 是常见英语完整词且不在词根映射表中（如 "receive", "imitate", "thought"）
+例外：复合词根名如 "scrib-script", "pel-puls", "cre-cresc-cret" 应保留
+```
+
+**1c. 规范化可映射的 word_root**：206 个文件
+```
+规则：word_root 值在词根映射表中 → 替换为规范名
+映射表来源：
+  - 词根目录文件名的连字符拆分（"miss-mit" → mit 映射到 miss-mit）
+  - 词根文件 frontmatter 的 aliases 字段
+  - 词根文件 title 中的变体名
+
+示例：
+  mit → miss-mit
+  spec → spec-spect  
+  cess → ced-cess
+  plic → plic-plex
+  vers → ver-vert
+  vid → vis-vid
+```
+
+#### Phase 2：LLM 重新提取（需 Trae 执行）
+
+对剩余约 2965 个"短词根但无映射"的文件，需 LLM 重新从正文中提取：
+
+```
+提取逻辑（改进版）：
+
+1. 读取 ## 词根词缀 section
+2. 查找所有 [[target]] wikilink
+3. 对每个 wikilink target：
+   a. 若 target 在 Wiki/词根词缀/ 目录中存在同名 .md → 这就是词根，使用规范名
+   b. 若 target 在 Wiki/词根词缀/ 目录中不存在 → 它可能是：
+      - 同源词（如 [[receive]]）→ 忽略，继续找
+      - 真正的词根（如 [[mit]]）→ 检查映射表
+      - 其他类型页面 → 忽略
+4. 若步骤 3 未找到任何词根：
+   a. 从构词分析中提取（如 "ad-(=向) + mit(=送)" 中的 mit）
+   b. 将提取的形素与映射表对照
+5. 若仍无法确定 → word_root 留空
+
+关键改进：
+- 优先检查 wikilink target 是否为词根页面，而非盲目取第一个 wikilink
+- 区分"同源词链接"和"词根链接"
+- 复合词（work+force）、功能词（and, though）、日耳曼本族词（oath）→ 一律留空
+```
+
+### 6.4 词根规范化映射表
+
+从词根目录提取的 221 条映射（100 个规范词根名）：
+
+```
+# 格式：提取值 → 规范名
+# 复合名拆分
+mit → miss-mit | miss → miss-mit
+spec → spec-spect | spect → spec-spect | spic → spec-spect | spit → spec-spect
+cess → ced-cess | ced → ced-cess
+plic → plic-plex | plex → plic-plex
+dict → (无映射，需新建 dict.md)
+...
+# 完整映射见 _校验信息/B0回填全库校验报告-2026-04-26.md
+```

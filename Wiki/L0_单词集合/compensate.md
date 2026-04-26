@@ -14,7 +14,7 @@ extension_dim: 社会路径
 phonetic: "/ˈkɑːmpenseɪt/"
 pos: v.
 metaphor_type: 本体隐喻
-word_root: pens
+word_root: pend-pens
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
 review_count: 0

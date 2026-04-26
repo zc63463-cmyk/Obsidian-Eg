@@ -14,8 +14,8 @@ extension_dim: 社会路径
 phonetic: "/ˈsʌbstɪtjuːt/"
 pos: n.
 metaphor_type: 方位隐喻
-word_root: substitute
-network_activation: [词根, 同义辨析, 反义词群, 派生词族]
+word_root: 
+network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
 review_count: 0
 ---

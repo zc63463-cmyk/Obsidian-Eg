@@ -14,7 +14,7 @@ extension_dim: 社会路径
 phonetic: "/ˈtæɡlaɪn/"
 pos: n.
 metaphor_type: 无隐喻
-word_root: tag
+word_root: tact-tag
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-25
 review_count: 0

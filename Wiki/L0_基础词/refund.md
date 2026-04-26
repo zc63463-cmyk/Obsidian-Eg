@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/ˈriːfʌnd/"
 pos: n.
 metaphor_type: 无隐喻
-word_root: fund
+word_root: fus-fund-fuse
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
 review_count: 0

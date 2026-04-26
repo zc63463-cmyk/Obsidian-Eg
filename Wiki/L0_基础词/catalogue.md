@@ -14,8 +14,8 @@ extension_dim: 列出→目录→编目→产品目录
 phonetic: "/ˈkætəlɒɡ/"
 pos: n.
 metaphor_type: 结构隐喻
-word_root: catastrophe
-network_activation: [词根, 同义辨析, 派生词族]
+word_root: 
+network_activation: [同义辨析, 派生词族]
 last_review: 2026-04-23
 review_count: 0
 ---

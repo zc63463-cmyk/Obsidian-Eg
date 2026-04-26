@@ -14,7 +14,7 @@ extension_dim: 社会保障
 phonetic: "/ˈpenʃn/"
 pos: n.
 metaphor_type: 转喻
-word_root: pend
+word_root: pend-pens
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
 review_count: 0

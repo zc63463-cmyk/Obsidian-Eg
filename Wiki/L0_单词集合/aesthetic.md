@@ -14,8 +14,8 @@ extension_dim: 抽象路径
 phonetic: "/iːsˈθetɪk/"
 pos: adj.
 metaphor_type: 无隐喻
-word_root: aisthanesthai
-network_activation: [词根, 反义词群]
+word_root: 
+network_activation: [反义词群]
 last_review: 2026-04-21
 review_count: 0
 ---

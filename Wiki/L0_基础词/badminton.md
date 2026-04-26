@@ -14,8 +14,8 @@ extension_dim: 专有名词路径
 phonetic: "/ˈbædmɪntən/"
 pos: n.
 metaphor_type: 无隐喻
-word_root: Badminton
-network_activation: [词根, 同义辨析, 派生词族]
+word_root: 
+network_activation: [同义辨析, 派生词族]
 last_review: 2026-04-23
 review_count: 0
 ---

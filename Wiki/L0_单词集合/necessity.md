@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/nəˈsesəti/"
 pos: n.
 metaphor_type: 无隐喻
-word_root: cess
+word_root: ced-cess
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
 review_count: 0

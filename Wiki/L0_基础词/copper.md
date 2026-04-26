@@ -15,7 +15,7 @@ phonetic: "/ˈkɒpə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
 word_root: 
-network_activation: [词根, 同义辨析]
+network_activation: [同义辨析]
 last_review: 2026-04-24
 review_count: 0
 ---

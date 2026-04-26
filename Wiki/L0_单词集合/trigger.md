@@ -15,7 +15,7 @@ phonetic: "/ˈtrɪɡə/"
 pos: v.
 metaphor_type: 结构隐喻
 word_root: 
-network_activation: [词根, 同义辨析, 反义词群]
+network_activation: [同义辨析, 反义词群]
 last_review: 2026-04-22
 review_count: 0
 ---

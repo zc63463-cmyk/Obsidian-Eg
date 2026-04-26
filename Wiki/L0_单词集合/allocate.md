@@ -14,7 +14,7 @@ extension_dim: 社会路径
 phonetic: "/ˈæləkeɪt/"
 pos: v.
 metaphor_type: 无隐喻
-word_root: loc
+word_root: loc-locat
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
 review_count: 0

@@ -14,7 +14,7 @@ extension_dim: 具身路径
 phonetic: "/ˈtenʃn/"
 pos: n.
 metaphor_type: 结构隐喻
-word_root: tens
+word_root: tend-tens
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
 review_count: 0

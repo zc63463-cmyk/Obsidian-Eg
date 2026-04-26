@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/dɪˈpendənt/"
 pos: adj.
 metaphor_type: 方位隐喻
-word_root: pend
+word_root: pend-pens
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
 review_count: 0

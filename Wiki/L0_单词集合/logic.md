@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/ˈlɒdʒɪk/"
 pos: n.
 metaphor_type: 结构隐喻
-word_root: log
+word_root: log-logy
 network_activation: [词根, 派生词族]
 last_review: 2026-04-22
 review_count: 0

@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/ˈdemənstreɪt/"
 pos: v.
 metaphor_type: 结构隐喻
-word_root: monstr
+word_root: mon-monstr
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
 review_count: 0

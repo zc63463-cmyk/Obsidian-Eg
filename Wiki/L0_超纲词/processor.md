@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/ˈprəʊsesə/"
 pos: n.
 metaphor_type: 无隐喻
-word_root: cess
+word_root: ced-cess
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-25
 review_count: 0

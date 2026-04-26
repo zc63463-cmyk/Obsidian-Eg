@@ -14,8 +14,8 @@ extension_dim: 教育路径
 phonetic: "/ɪnˈstrʌkʃn/"
 pos: n.
 metaphor_type: 结构隐喻
-word_root: instruction
-network_activation: [词根, 同义辨析, 反义词群, 派生词族]
+word_root: 
+network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
 review_count: 0
 ---

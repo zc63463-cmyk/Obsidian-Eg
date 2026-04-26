@@ -15,7 +15,7 @@ phonetic: "/suːˈpɜːb/"
 pos: adj.
 metaphor_type: 方位隐喻
 word_root: 
-network_activation: [词根, 同义辨析, 反义词群, 派生词族]
+network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
 review_count: 0
 ---

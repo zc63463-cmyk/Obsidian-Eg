@@ -15,7 +15,7 @@ phonetic: "/briːtʃ/"
 pos: n.
 metaphor_type: 结构隐喻
 word_root: 
-network_activation: [词根, 反义词群]
+network_activation: [反义词群]
 last_review: 2026-04-21
 review_count: 0
 ---

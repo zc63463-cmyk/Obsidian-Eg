@@ -14,7 +14,7 @@ extension_dim: 空间路径
 phonetic: "/trəˈvɜːs/"
 pos: v.
 metaphor_type: 无隐喻
-word_root: vers
+word_root: ver-vert
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-25
 review_count: 0

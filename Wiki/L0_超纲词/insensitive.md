@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/ɪnˈsensətɪv/"
 pos: adj.
 metaphor_type: 无隐喻
-word_root: sens
+word_root: sens-sent
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
 review_count: 0

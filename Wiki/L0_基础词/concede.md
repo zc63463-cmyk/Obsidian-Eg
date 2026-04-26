@@ -14,7 +14,7 @@ extension_dim: 社会路径
 phonetic: "/kənˈsiːd/"
 pos: v.
 metaphor_type: 结构隐喻
-word_root: ced
+word_root: ced-cess
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
 review_count: 0

@@ -14,7 +14,7 @@ extension_dim: 社会路径
 phonetic: "/kəˈmɪt/"
 pos: v.
 metaphor_type: 无隐喻
-word_root: mit
+word_root: miss-mit
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
 review_count: 0

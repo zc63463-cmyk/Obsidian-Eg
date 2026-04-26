@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/əˈprɒksɪmət/"
 pos: adj.
 metaphor_type: 方位隐喻
-word_root: prox
+word_root: proach-prox
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
 review_count: 0

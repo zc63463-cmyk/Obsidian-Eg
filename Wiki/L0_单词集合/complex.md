@@ -14,7 +14,7 @@ extension_dim: 空间路径
 phonetic: "/ˈkɒmpleks/"
 pos: adj.
 metaphor_type: 结构隐喻
-word_root: plex
+word_root: plic-plex
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
 review_count: 0

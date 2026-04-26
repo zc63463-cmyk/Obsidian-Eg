@@ -14,8 +14,8 @@ extension_dim: 活力→植物生长→植被→草木丛生
 phonetic: "/ˌvedʒəˈteɪʃn/"
 pos: n.
 metaphor_type: 本体隐喻
-word_root: vegetable
-network_activation: [词根, 同义辨析, 反义词群, 派生词族]
+word_root: 
+network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
 review_count: 0
 ---

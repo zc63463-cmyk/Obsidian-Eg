@@ -14,7 +14,7 @@ extension_dim: 抽象路径
 phonetic: "/ˈsɪstəm/"
 pos: n.
 metaphor_type: 结构隐喻
-word_root: syn
+word_root: syn-sym-syl-sys
 network_activation: [词根, 派生词族]
 last_review: 2026-04-22
 review_count: 0

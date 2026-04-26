@@ -14,8 +14,8 @@ extension_dim: 具身路径
 phonetic: "/prəˈvaɪd/"
 pos: vt.
 metaphor_type: 无隐喻
-word_root: provision
-network_activation: [词根, 同义辨析, 派生词族]
+word_root: 
+network_activation: [同义辨析, 派生词族]
 last_review: 2026-04-20
 review_count: 0
 ---

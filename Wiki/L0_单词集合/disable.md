@@ -15,7 +15,7 @@ phonetic: "/dɪsˈeɪbl/"
 pos: vt.
 metaphor_type: 结构隐喻
 word_root: fac
-network_activation: [词根笔记, 同义辨析, 反义词群, 形近词群]
+network_activation: [词根, 词根笔记, 同义辨析, 反义词群, 形近词群]
 last_review: 2026-04-22
 review_count: 0
 ---
