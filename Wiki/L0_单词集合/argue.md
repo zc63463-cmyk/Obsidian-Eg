@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account. [考研-2006-阅读Text3]
-> - They argued that only a negligible rise in atmosphere radioactivity resulted from the test. [考研-阅读]
+> - Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account. `[考研-2006-阅读Text3]`
+> - They argued that only a negligible rise in atmosphere radioactivity resulted from the test. `[考研-阅读]`
 > - Critics argue that the new policy will disproportionately affect low-income families. `[COCA-ACAD]`
 > - She argued him into changing his mind about quitting the project. `[例]`
 ---

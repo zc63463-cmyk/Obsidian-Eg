@@ -127,8 +127,8 @@ a-（向上，加强语气，ad- 在 r 前的同化形式）+ rise（升起，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Problems arose when the company tried to expand into new markets. [考研-阅读]
-> - Accidents arise from carelessness. [考研-阅读]
+> - Problems arose when the company tried to expand into new markets. `[考研-阅读]`
+> - Accidents arise from carelessness. `[考研-阅读]`
 > - New opportunities will arise as the technology continues to evolve. `[COCA-ACAD]`
 > - A serious dispute arose between the two countries over trade policy. `[例]`
 ---
