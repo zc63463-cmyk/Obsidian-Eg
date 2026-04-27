@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**能迅速恢复的，有弹性的**==；②能迅速恢复精神的，适应力强的；
+**adj.** ①==**能迅速恢复的，有弹性的**== `be resilient to sth.` `a resilient economy/person`；②==**能迅速恢复精神的，适应力强的**== `remain resilient`；
 
 > [!tip] 原型义
 > **原型义**：弹回原状（受压后恢复原来的形状/状态）
@@ -126,8 +126,9 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite numerous setbacks, she remained resilient and continued to pursue her dreams."（尽管遭遇多次挫折，她依然坚韧不拔，继续追求她的梦想——考研高频表达）
-> - "The city demonstrated remarkable resilience in the aftermath of the earthquake, quickly rebuilding and recovering."（这座城市在地震后展现了惊人的韧性，迅速重建并恢复——考研高频表达）
+> - "The US economy remains amazingly resilient." `[COCA-ACAD]`
+> - "The exercise had helped make the company resilient to bad luck." `[COCA-ACAD]`
+> - "It is not necessarily that the resilient person does not experience stress, but rather how they deal with it." `[COCA-ACAD]`
 
 
 ---

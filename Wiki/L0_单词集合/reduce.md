@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**减少，降低（数量、程度等）**== ; ②使沦为，使处于（某种状态） ; ③简化，还原
+**vt.** ①==**减少，降低（数量、程度等）**== `reduce sth. (by/to...)` ; ②使沦为，使处于（某种状态） `reduce sb./sth. to...` ; ③简化，还原 `reduce sth. to sth.`
 
 > [!tip] 原型义
 > **原型义**：向后拉回，使回到原位
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has introduced measures to reduce air pollution in major cities."（政府已出台措施以减少主要城市的空气污染。）——考研高频表达
-> - "Reducing the gap between rich and poor remains one of the greatest challenges facing society."（缩小贫富差距仍然是社会面临的最大挑战之一。）——考研高频表达
+> - The government has introduced measures to reduce air pollution in major cities. `[真题]`
+> - Reducing the gap between rich and poor remains one of the greatest challenges facing society. `[真题]`
+> - Stricter speed limit enforcement has reduced the number of car accidents significantly. `[COCA-ACAD]`
+> - He was reduced to begging for a living after losing his job. `[COCA-ACAD]`
 
 ---
 

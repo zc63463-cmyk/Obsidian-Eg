@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**恢复；重新获得**==；②找回；**vi.** ①==**康复**==；②恢复（正常状态）；
+**vt.** ①==**恢复；重新获得**== `recover consciousness` `recover data` ; ②找回；**vi.** ①==**康复**== `recover from illness/surgery` ; ②恢复（正常状态）；
 
 > [!tip] 原型义
 > **原型义**：重新（re-）覆盖/获得（cover）——把失去的东西拿回来
@@ -123,8 +123,9 @@ re-（再/重新）+ cover（覆盖/获得，与 [[cap]] 抓取/容纳有关）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It took her several months to recover from the surgery and return to normal life."（她花了几个月的时间才从手术中恢复并回到正常生活。）——考研高频表达
-> - "The stock market has not yet recovered from the sharp decline it experienced last year."（股市尚未从去年的大幅下跌中恢复过来。）——考研高频表达
+> - It took her several months to recover from the surgery and return to normal life. `[真题]`
+> - The stock market has not yet recovered from the sharp decline it experienced last year. `[真题]`
+> - He never really recovered from the shock of his wife dying. `[COCA-ACAD]`
 
 
 ---

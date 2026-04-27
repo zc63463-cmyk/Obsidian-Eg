@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**移开；拿走；去除**== ; ②==**开除；免职**== ; ③搬迁
+**v.** ①==**移开；拿走；去除**== `remove sth. from sp.` ; ②==**开除；免职**== `remove sb. from office` ; ③搬迁 `remove to a new place`
 
 > [!tip] 原型义
 > **原型义**：移开、拿走（物理空间上的移动）
@@ -132,8 +132,10 @@ re-(back/away) + 建议创建词根笔记 [[re/rem]](to move/移动) + (无后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The store removed all canned food from the shelves as soon as they heard about the recall."（商店一听到召回消息就立即将所有罐头食品从货架上撤下。）——考研高频表达
-> - "The new evidence effectively removed any doubt about his innocence."（新证据有效地消除了对他清白的任何怀疑。）——考研高频表达
+> - The store removed all canned food from the shelves as soon as they heard about the recall. `[真题]`
+> - The new evidence effectively removed any doubt about his innocence. `[真题]`
+> - Trees help to remove carbon dioxide from the atmosphere. `[COCA-ACAD]`
+> - The company's shareholders have voted to remove the executive board. `[COCA-ACAD]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拒绝，拒收**== ; ②驳回，否决 ;
-**n.** ①==**不合格产品，被拒之人**== ;
+**v.** ①==**拒绝，拒收**== `reject an offer / reject a candidate` ; ②==**驳回，否决**== `reject a proposal / reject an appeal` ;
+**n.** ①==**不合格产品，被拒之人**== `factory rejects` ;
 
 > [!tip] 原型义
 > **原型义**：往回扔→拒绝
@@ -127,8 +127,9 @@ re-(回) + [[ject]](投掷、扔)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee rejected the proposal on the grounds that it was too costly and impractical."（委员会以成本过高且不切实际为由拒绝了该提案。）——考研高频表达
-> - "Many scientists rejected the traditional view that the Earth was the center of the universe."（许多科学家拒绝了地球是宇宙中心的传统观点。）——考研高频表达
+> - `The committee rejected the proposal on the grounds that it was too costly and impractical.` [COCA-ACAD]
+> - `The governor rejected the suggestion that it was time for him to resign.` [COCA-NEWS]
+> - `The college rejects hundreds of applicants each year.` [COCA-ACAD]
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**资源**==；②财力，物力；③谋略，应变能力；④（复数）参考资料；
+**n.** ①==**资源**== `natural resources` `allocate resources`；②==**财力，物力**== `financial resources`；③==**谋略，应变能力**== `a person of great resource`；④==**（复数）参考资料**== `learning resources`；
 
 > [!tip] 原型义
 > **原型义**：反复涌出的东西（可以不断从中取用的源泉）
@@ -132,8 +132,9 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age."（一些学者得出结论，资源有限的政府应该停止支付维持超过特定年龄人群生命的医疗费用——2003年考研Text 4）
-> - "Britain's towns, it is true, are not prevented from applying, but they generally lack the resources to put together a bid to beat their bigger competitors."（诚然，英国的城镇也可以申请，但它们通常缺乏资源，无法联合起来以努力击败规模更大的竞争对手——考研高频表达）
+> - "Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age." `[真题]`
+> - "The company has the resources and infrastructure to manage a global brand." `[COCA-ACAD]`
+> - "We agreed to pool our resources to complete the project on time." `[COCA-ACAD]`
 
 
 ---

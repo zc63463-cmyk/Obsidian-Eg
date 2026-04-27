@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**辐射的，发光的**==；②==**容光焕发的**==；
+**adj.** ①==**辐射的，发光的**== `radiant energy/heat` `the radiant sun`；②==**容光焕发的**== `radiant with joy` `look radiant`；
 
 > [!tip] 原型义
 > **原型义**：发光的、辐射的（像太阳一样发出光芒）
@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She looked absolutely radiant on her wedding day."（她在婚礼那天看起来容光焕发）——经典人物描写
-> - "The radiant heat from the fire warmed the room."（炉火散发的辐射热温暖了房间）——科普/环境话题
-> - "His face was radiant with joy."（他脸上洋溢着喜悦的光芒）——文学描写
-> - "The radiant sun rose over the horizon."（光芒四射的太阳从地平线升起）——自然描写
+> - "Plants absorb radiant energy from sunlight." `[COCA-ACAD]`
+> - "The earth would be a frozen ball if it were not for the radiant heat of the sun." `[COCA-ACAD]`
+> - "She looked absolutely radiant on her wedding day." `[COCA-FIC]`
+> - "Their faces are radiant with adoration." `[COCA-NEWS]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**克制，抑制（自己的情感/行为）**==；②制止，阻止（他人做某事）；③约束，管制；
+**vt.** ①==**克制，抑制（自己的情感/行为）**== `restrain oneself` `restrain oneself from doing sth.`；②==**制止，阻止（他人做某事）**== `restrain sb. from doing sth.` `restrain sb.`；③==**约束，管制**== `restrain spending/costs` `restrain growth`；
 
 > [!tip] 原型义
 > **原型义**：拉回来（把即将冲出去的拉回来）
@@ -131,8 +131,10 @@ re-(回) + strain/string(拉紧，拉丁语 *stringere*) → 往回拉紧
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In time it should help restrain costs by eliminating redundant tests, preventing drug interactions, and helping doctors find the best treatments."（最终它应该有助于通过消除冗余检测、防止药物相互作用以及帮助医生找到最佳治疗方案来控制成本——考研阅读真题）
-> - "In musical expression, he did not feel restrained by the weight of convention."（在音乐表达上，他不觉得受到传统的束缚——考研/六级真题）
+> - "In time it should help restrain costs by eliminating redundant tests, preventing drug interactions, and helping doctors find the best treatments." `[真题]`
+> - "In musical expression, he did not feel restrained by the weight of convention." `[真题]`
+> - "The two men chased him down and restrained him until police arrived." `[COCA]`
+> - "The manufacturer took measures to restrain costs." `[COCA-ACAD]`
 
 
 ---

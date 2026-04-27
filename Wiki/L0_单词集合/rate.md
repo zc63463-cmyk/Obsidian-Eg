@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**比率，率**== ; ②速度，进度 ; ③费用，价格
-**v.** ①==**评估，评级**== ; ②认为，把…列为
+**n.** ①==**比率，率**== ``birth/death rate`` ``unemployment rate`` ; ②==**速度，进度**== ``at this rate`` ``heart rate`` ; ③==**费用，价格**== ``hotel rates`` ``tax rate``
+**v.** ①==**评估，评级**== ``rate A as B`` ``highly rated`` ; ②==**认为，把…列为**== ``rate...among`` ``rate first``
 
 > [!tip] 原型义
 > **原型义**：估价、认为（对事物进行价值判断）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The unemployment rate has been rising steadily over the past few months."（过去几个月里，失业率一直在稳步上升。）——考研高频表达
-> - "The birth rate in developed countries has been declining for decades."（发达国家的出生率几十年来一直在下降。）——考研高频表达
+> - Crime rates have declined in recent years. `[COCA]`
+> - The country has the world's sixth highest unemployment rate. `[COCA]`
+> - At any rate, we should finish the work by Friday. `[COCA]`
+> - After the age of 35, we start losing muscle at the rate of half a pound a year. `[COCA]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抵抗，反抗**== ; ②抵制，抗拒 ; ③忍住，顶住 ;
+**v.** ①==**抵抗，反抗**== `resist the temptation/urge` `fiercely resist`；②==**抵制，抗拒**== `resist change`；③==**忍住，顶住**== `can't resist doing sth.`；
 
 > [!tip] 原型义
 > **原型义**：向后站立/坚守不动（to stand back / to stand firm against）
@@ -133,8 +133,9 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "American universities are resistant to change."（美国大学对变革持抵制态度——考研高频表达）
-> - "They should also learn how to solve problems and resolve conflicts."（他们还应学会如何解决问题和化解冲突——考研高频表达）
+> - "The party leader resisted demands for his resignation." `[COCA-ACAD]`
+> - "She couldn't resist telling us what she'd heard." `[COCA-ACAD]`
+> - "The drug will help your body resist infection." `[COCA-ACAD]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**相关的，切题的**== ; ②有意义的，有实际价值的 ;
+**adj.** ①==**相关的，切题的**== `relevant to sth.`（与……相关） ; ②有意义的，有实际价值的 `relevant experience/information`（相关经验/信息） ;
 
 > [!tip] 原型义
 > **原型义**：能被带回来连接的→相关的
@@ -126,8 +126,9 @@ re-(回) + lev/lat(举起、携带) + -ant(形容词后缀，表"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education should be relevant to the needs of students and the demands of the job market."（教育应与学生的需求和就业市场的需求相关联。）——考研高频表达
-> - "The researcher failed to include any relevant data to support his controversial conclusion."（研究者未能提供任何相关数据来支持他有争议的结论。）——考研高频表达
+> - Education should be relevant to the needs of students and the demands of the job market. `[COCA-ACAD]`
+> - The researcher failed to include any relevant data to support his controversial conclusion. `[COCA-ACAD]`
+> - We turned over relevant documents to the investigating team. `[COCA-ACAD]`
 ---
 
 

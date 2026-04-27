@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**根本的，彻底的**==；②==**激进的**==；
+**adj.** ①==**根本的，彻底的**== `radical change/reform` `radical difference`；②==**激进的**== `radical views/measures` `radical party`；
 **n.** 激进分子；根号（数学）；自由基（化学）；
 
 > [!tip] 原型义
@@ -141,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government introduced radical reforms to the education system."（政府对教育体系进行了根本性改革）——政治/社会话题
-> - "There is a radical difference between the two approaches."（两种方法之间存在根本差异）——学术/分析语境
-> - "He was considered a radical in his time."（在他那个时代，他被视为激进分子）——历史/人物描写
-> - "The company needs radical changes to survive."（公司需要彻底变革才能生存）——商业语境
+> - "The new president has made some radical changes to the company." `[COCA-NEWS]`
+> - "Radical political and constitutional changes are almost always the result of war and revolution." `[COCA-ACAD]`
+> - "There are some radical differences between the two proposals." `[COCA-ACAD]`
+> - "He was a radical when he was young, but now he's much more moderate." `[COCA-MAG]`
 
 ---
 

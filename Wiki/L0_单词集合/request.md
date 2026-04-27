@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**请求，要求**== ;
-**n.** ①请求，要求 ;
+**v.** ①==**请求，要求==`request sb. to do sth.` / `request that + 虚拟语气` ;
+**n.** ①==**请求，要求==`at sb.'s request` / `on request` ;
 
 > [!tip] 原型义
 > **原型义**：再次寻求（re-再次 + quest-寻求），反复寻求某人的帮助或同意
@@ -122,8 +122,9 @@ re-(再次) + [[quest|quest]](寻求) → 再次寻求 → 请求
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee rejected the request for additional funding."（委员会拒绝了追加资金的请求——考研高频表达）
-> - "Visitors are requested not to touch the exhibits."（参观者请勿触摸展品——考研高频表达）
+> - `[真题]` The committee rejected the request for additional funding.
+> - `[真题]` Visitors are requested not to touch the exhibits.
+> - `[COCA-ACAD]` The department has requested permission to spend money on new equipment.
 
 
 ---

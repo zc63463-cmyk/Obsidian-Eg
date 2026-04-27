@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**补救办法；纠正措施**== ; ②药品；疗法
-**v.** ①==**补救；纠正**== ; ②治疗
+**n.** ①==**补救办法；纠正措施**== `remedy for sth.` ; ②药品；疗法 `herbal/a natural remedy`
+**v.** ①==**补救；纠正**== `remedy a problem/situation` ; ②治疗 `remedy an illness`
 
 > [!tip] 原型义
 > **原型义**：治疗方法、补救措施（恢复到正常状态的手段）
@@ -132,8 +132,10 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The best remedy for grief is hard work."（排解忧伤的最好办法就是努力工作。）——考研高频表达
-> - "The government introduced new laws as a remedy for the social problems."（政府出台了新法律作为解决社会问题的补救措施。）——考研高频表达
+> - The best remedy for grief is hard work. `[真题]`
+> - Government advisers have requested the drug's removal from the market for safety reasons, as there is no effective remedy for the side effects. `[COCA-ACAD]`
+> - Women helping women is a key remedy to this problem. `[COCA-ACAD]`
+> - Something must be done to remedy the problem before it escalates further. `[COCA-ACAD]`
 
 ---
 

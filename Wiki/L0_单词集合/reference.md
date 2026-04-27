@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**参考，查阅**== ; ②提到，提及 ; ③推荐信，证明人 ; ④参考文献
-**vt.** ①提到，涉及
+**n.** ①==**参考，查阅**== `for reference` ; ②提到，提及 `make reference to sth.` ; ③推荐信，证明人 ; ④参考文献
+**vt.** ①提到，涉及 `reference sth.`
 
 > [!tip] 原型义
 > **原型义**：带回信息的动作或来源
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared."（批评家还指出，商业化基因检测的效果好坏取决于用于样本比对的参照基因库。）——2009考研英语阅读Text2
-> - "The author makes frequent reference to historical events to support his argument."（作者频繁引用历史事件来支持自己的论点。）——考研高频表达
+> - Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared. `[真题]`
+> - The author makes frequent reference to historical events to support his argument. `[真题]`
+> - There is no direct reference to her own childhood in the novel. `[COCA-ACAD]`
+> - She listed her former teacher as a reference when she applied for the job. `[COCA-ACAD]`
 
 ---
 

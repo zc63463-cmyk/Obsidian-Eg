@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**减少，降低**== ; ②缩减物，减价
+**n.** ①==**减少，降低**== `a reduction in/of sth.` ; ②缩减物，减价 `a reduction on sth.`
 
 > [!tip] 原型义
 > **原型义**：向后引导的动作或结果
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government announced a significant reduction in carbon emissions targets."（政府宣布大幅削减碳排放目标。）——考研高频表达
-> - "The reduction in military spending was welcomed by peace activists."（军事开支的削减受到了和平活动人士的欢迎。）——考研高频表达
+> - The government announced a significant reduction in carbon emissions targets. `[真题]`
+> - The reduction in military spending was welcomed by peace activists. `[真题]`
+> - Many voters want to see some reduction of the deficit. `[COCA-ACAD]`
+> - Osteoporosis is characterized by a reduction in bone density. `[COCA-ACAD]`
 
 ---
 

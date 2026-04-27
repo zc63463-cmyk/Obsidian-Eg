@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**限制，约束**==；②限定（数量、范围）；③封锁（消息）；
+**vt.** ①==**限制，约束**== `restrict freedom/access` `restrict information`；②==**限定（数量、范围）**== `restrict...to...` `restrict the number of`；③==**封锁（消息）**== `restrict information`；
 
 > [!tip] 原型义
 > **原型义**：绑回来（用绳子把活动范围绑住）
@@ -133,8 +133,10 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Since our analysis is restricted to independent or private research institutions, we take a narrow view in defining such organisations."（由于我们的分析仅限于独立或私人研究机构，我们在定义此类组织时采取了狭义视角——剑桥学术语料）
-> - "Fog severely restricted visibility."（浓雾严重限制了能见度——四级/考研高频表达）
+> - "Since our analysis is restricted to independent or private research institutions, we take a narrow view in defining such organisations." `[COCA-ACAD]`
+> - "Fog severely restricted visibility." `[真题]`
+> - "The government has so sharply restricted his fishing that he can barely pay his crew." `[COCA]`
+> - "The state legislature voted to restrict development in the area." `[COCA-ACAD]`
 
 
 ---

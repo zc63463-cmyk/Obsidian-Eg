@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**范围，幅度，区域**==；②==**一系列，一连串**==；③==**（山）脉**==；④==**射程，距离**==；⑤==**牧场，放牧区**==；
-**vi.** ①==**（在某范围内）变化，变动**==（range from...to...）；②==**漫游，徘徊**==；③==**排列成行**==；
+**n.** ①==**范围，幅度，区域**== `a wide range of` `within the range of`；②==**一系列，一连串**== `a range of` `a full range of`；③==**（山）脉**== `mountain range`；④==**射程，距离**== `out of range`；⑤==**牧场，放牧区**==；
+**vi.** ①==**（在某范围内）变化，变动**== `range from...to...`；②==**漫游，徘徊**== `range over`；③==**排列成行**==；
 **vt.** ①==**排列，把……排成行**==；②==**使……在一定范围内变化**==；
 
 > [!tip] 原型义
@@ -147,10 +147,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a wide range of topics"（广泛的话题范围）——考研阅读极高频搭配
-> - "prices ranging from $10 to $100"（价格从10美元到100美元不等）——经济/商业类阅读
-> - "mountain ranges"（山脉）——地理/自然类阅读
-> - "beyond the range of human knowledge"（超出人类知识的范围）——科学/哲学类文章
+> - "The two men discussed a wide range of issues." `[COCA-NEWS]`
+> - "Tickets range from $12 to $35." `[COCA-ACAD]`
+> - "The average age range is between 35 and 55." `[COCA-ACAD]`
+> - "The range includes chests of drawers, tables and wardrobes." `[COCA-NEWS]`
 
 ---
 

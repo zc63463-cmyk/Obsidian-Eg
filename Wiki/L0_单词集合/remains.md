@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**遗迹；遗骸**== ; ②==**残余物**== ; ③剩余的饭菜
+**n.** ①==**遗迹；遗骸**== `ancient/human remains`（古代遗迹/人类遗骸） ; ②==**残余物**== `the remains of sth.`（……的残余） ; ③剩余的饭菜
 
 > [!tip] 原型义
 > **原型义**：留下来的东西（时间流逝后残留的部分）
@@ -130,8 +130,9 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -s(复数名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Much remains to be done before we can claim success."（在宣称成功之前，还有很多工作要做。）——考研高频表达
-> - "The question remains whether this approach is effective."（问题仍然是这种方法是否有效。）——考研高频表达
+> - Archaeologists discovered ancient remains dating back to 2000 BC. `[COCA-ACAD]`
+> - Human remains were found at the construction site. `[COCA-ACAD]`
+> - The remains of the castle still stand on the hill. `[COCA-ACAD]`
 
 ---
 

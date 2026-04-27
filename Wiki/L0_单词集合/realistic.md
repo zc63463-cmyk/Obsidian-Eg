@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**现实的，务实的**== ; ②逼真的，栩栩如生的 ; ③现实主义的
+**adj.** ①==**现实的，务实的**== ``realistic goal`` ``realistic expectation`` ; ②==**逼真的，栩栩如生的**== ``realistic painting`` ``realistic portrayal`` ; ③==**现实主义的**== ``realistic approach`` ``realistic novel``
 
 > [!tip] 原型义
 > **原型义**：现实的、逼真的（符合实际情况的）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to set realistic goals that can be achieved within a reasonable timeframe."（我们需要设定在合理时间范围内可以实现的现实目标。）——考研高频表达
-> - "It is not realistic to expect everyone to agree on this issue."（期望每个人在这个问题上达成一致是不现实的。）——考研高频表达
+> - You need to be realistic about the amount you can do in a day. `[COCA]`
+> - We felt we had a realistic chance of beating England. `[COCA]`
+> - Her expectations for the project were realistic, considering the time and resources available. `[COCA]`
+> - I don't think they have a realistic chance of winning. `[COCA]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**需要，要求**== ; ②规定 ;
+**vt.** ①==**需要，要求==`require sth.` / `require sb. to do sth.` ; ②==**规定==`be required to do sth.` ;
 
 > [!tip] 原型义
 > **原型义**：反复追问需求（re-反复 + quire-寻求），强烈地需要某物
@@ -122,8 +122,9 @@ re-(反复) + [[quire|quire]](寻求，同源 quest) → 反复寻求 → 需要
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Helping forests flourish as valuable carbon sinks long into the future may require reducing their capacity to absorb carbon now."（帮助森林在遥远的未来继续作为有价值的碳汇蓬勃发展，可能需要减少它们目前吸收碳的能力——考研高频表达）
-> - "All tests require a potential candidate with whom to compare DNA."（所有的测试都需要一个潜在的候选人来比较DNA——考研高频表达）
+> - `[真题]` Helping forests flourish as valuable carbon sinks long into the future may require reducing their capacity to absorb carbon now.
+> - `[真题]` All tests require a potential candidate with whom to compare DNA.
+> - `[COCA-ACAD]` The wearing of seat belts is required by law in most countries.
 
 
 ---

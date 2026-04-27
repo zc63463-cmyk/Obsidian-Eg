@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保留意见，异议**== ; ②预订，预约 ; ③保留地，居留地 ;
+**n.** ①==**保留意见，异议==`have reservations about` / `without reservation` ; ②==**预订，预约==`make a reservation` ; ③==**保留地，居留地==`Indian reservation` ;
 
 > [!tip] 原型义
 > **原型义**：向后保留（the act of keeping back / reserving）
@@ -130,8 +130,9 @@ re-(向后/再次) + [[serv|serv→保持]](保持/守卫) + -ation(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reservations and formal protests against this article are the most numerous from countries, from every region of the world."（对该条款的保留意见和正式抗议最多的是来自世界各地的国家——考研高频表达）
-> - "Seventeen thousand Indians live in Arizona on a reservation."（一万七千名印第安人居住在亚利桑那州的保留地——考研高频表达）
+> - `[真题]` Reservations and formal protests against this article are the most numerous from countries, from every region of the world.
+> - `[真题]` Seventeen thousand Indians live in Arizona on a reservation.
+> - `[COCA-ACAD]` Workers and employees shared deep reservations about the wisdom of the government's plans for the industry.
 
 
 ---

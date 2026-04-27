@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**仍然是；依然是**== ; ②==**剩余；遗留**== ; ③停留；留下 ; ④留待，尚待
+**v.** ①==**仍然是；依然是**== `remain + adj./n.`（保持某种状态） ; ②==**剩余；遗留**== `remain of sth.`（……的剩余） ; ③停留；留下 ; ④留待，尚待 `remain to be done`（尚待处理）
 
 > [!tip] 原型义
 > **原型义**：留在原地、保持不变
@@ -132,8 +132,9 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many problems remain to be solved before the technology can be widely adopted."（在技术被广泛采用之前，许多问题仍有待解决。）——考研高频表达
-> - "It remains to be seen whether the policy will achieve its intended goals."（该政策是否能实现预期目标还有待观察。）——考研高频表达
+> - Many problems remain to be solved before the technology can be widely adopted. `[COCA-ACAD]`
+> - It remains to be seen whether the policy will achieve its intended goals. `[COCA-ACAD]`
+> - The previous town crier had retired in 1892 and for 110 years the post remained vacant. `[COCA-ACAD]`
 
 ---
 

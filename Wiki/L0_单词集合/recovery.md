@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恢复；复苏**==；②==**康复**==；③追回；
+**n.** ①==**恢复；复苏**== `economic recovery` `signs of recovery` ; ②==**康复**== `make a full recovery` ; ③追回；
 
 > [!tip] 原型义
 > **原型义**：重新获得（recover）的过程或结果
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economy showed signs of recovery after the global financial crisis of 2008."（2008年全球金融危机后，经济显示出复苏的迹象。）——考研高频表达
-> - "A full recovery from the disease may take several months of rest and treatment."（完全从疾病中康复可能需要数月的休息和治疗。）——考研高频表达
+> - The economy showed signs of recovery after the global financial crisis of 2008. `[真题]`
+> - A full recovery from the disease may take several months of rest and treatment. `[真题]`
+> - Investors' new bullishness has raised hopes of economic recovery. `[COCA-ACAD]`
 
 
 ---

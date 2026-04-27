@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**赎回，赎出**== ; ②==**挽回，弥补**== ; ③==**救赎，拯救**==（灵魂） ; ④兑换（优惠券/积分） ;
+**v.** ①==**赎回，赎出**== `redeem sb./sth. (from...)` ; ②==**挽回，弥补**== `redeem oneself` ; ③==**救赎，拯救**==（灵魂） ; ④兑换（优惠券/积分） `redeem a voucher/coupon` ;
 
 > [!tip] 原型义
 > **原型义**：重新（re-）买回（[[em|emere]]）——把失去的东西买回来
@@ -127,8 +127,10 @@ re-(重新/回) + [[em|emere]](买/获取，拉丁语) → 重新买回
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He worked tirelessly to redeem his reputation after the scandal."（丑闻之后，他不知疲倦地工作以挽回自己的声誉。）——考研高频表达
-> - "The only way to redeem yourself is to admit your mistake and make amends."（挽回自己的唯一办法就是承认错误并做出弥补。）——考研高频表达
+> - He worked tirelessly to redeem his reputation after the scandal. `[真题]`
+> - The amount required to redeem the mortgage was far greater than they had anticipated. `[COCA-ACAD]`
+> - This voucher can be redeemed for a free meal at several local restaurants. `[COCA-ACAD]`
+> - Jesus is said to have redeemed mankind by taking our sins upon himself. `[COCA-ACAD]`
 
 ---
 

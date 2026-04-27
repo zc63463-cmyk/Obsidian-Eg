@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**现实，实际情况**== ; ②真实，真实性
+**n.** ①==**现实，实际情况**== ``in reality`` ``face reality`` ; ②==**真实，真实性**== ``the reality of`` ``become a reality``
 
 > [!tip] 原型义
 > **原型义**：现实、真实（实际存在的事物/状态）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite his dreams of becoming a famous actor, he had to face the harsh reality of unemployment."（尽管他梦想成为一名著名演员，但他不得不面对失业的严酷现实。）——考研高频表达
-> - "The reality is that most small businesses fail within the first five years."（现实情况是大多数小企业在头五年内就会倒闭。）——考研高频表达
+> - In reality, things are not as simple as they seem. `[COCA]`
+> - The reality is that most small businesses fail within the first five years. `[COCA]`
+> - He needs to accept the reality that his time in this job is over. `[COCA]`
+> - I don't think you understand the reality of the situation. `[COCA]`
 
 ---
 

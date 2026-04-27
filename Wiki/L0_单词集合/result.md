@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**结果；后果**== ; ②（比赛等）成绩；比分
-**v.** ①==**导致；造成**==（result in） ; ②由...引起（result from）
+**n.** ①==**结果；后果**== `as a result` `the result of sth.` ; ②==**（比赛等）成绩；比分**==
+**v.** ①==**导致；造成**== `result in` `result in sth./sb. doing sth.` ; ②==**由...引起**== `result from`
 
 > [!tip] 原型义
 > **原型义**：向前跳出的东西 → 结果（something that results）
@@ -125,8 +125,10 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The result reflects a modest rightward shift in public opinion."（结果显示公众舆论出现了适度的右倾。）——考研高频表达
-> - "Many motor accidents are the result of unthinkingly mixing speed and alcohol."（许多机动车事故都是不计后果地酒后开快车造成的。）——考研高频表达
+> - "The result reflects a modest rightward shift in public opinion." `[真题]`
+> - "Many motor accidents are the result of unthinkingly mixing speed and alcohol." `[真题]`
+> - "This move will inevitably result in the loss of a lot of jobs." `[COCA-ACAD]`
+> - "About 87 percent of lung cancers are thought to result from smoking." `[COCA-ACAD]`
 
 ---
 

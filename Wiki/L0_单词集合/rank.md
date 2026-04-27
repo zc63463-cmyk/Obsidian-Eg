@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**军衔，职衔**==；②==**社会阶层，等级**==；③==**排，横列**==；④==**（团体或组织的）成员**==；
-**vt.** ①==**把……分等级，排列**==；②==**把……列为**==；
-**vi.** ①==**位列，排名**==；
-**adj.** ①==**繁茂的，长势旺盛的**==；②==**恶臭的，令人讨厌的**==；
+**n.** ①==**军衔，职衔**== ``rise to the rank of`` ``hold the rank of``；②==**社会阶层，等级**== ``people of all ranks`` ``the upper ranks``；③==**排，横列**== ``the front rank`` ``rank and file``；④==**（团体或组织的）成员**== ``the ranks of``；
+**vt.** ①==**把……分等级，排列**== ``rank A as B`` ``rank A among``；②==**把……列为**== ``rank first/second``；
+**vi.** ①==**位列，排名**== ``rank among the best`` ``rank high``；
+**adj.** ①==**繁茂的，长势旺盛的**== ``rank grass``；②==**恶臭的，令人讨厌的**== ``rank smell``；
 
 > [!tip] 原型义
 > **原型义**：排、横列（人或物排成一条直线）
@@ -141,10 +141,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "rank among the world's leading economies"（位列世界领先经济体）——经济/政治类阅读
-> - "the rank and file of the party"（党的普通成员）——政治类阅读
-> - "ranked first in terms of GDP"（GDP排名第一）——数据/比较类文章
-> - "people of all ranks of society"（社会各阶层的人）——社会类阅读
+> - He rose to the rank of partner in the law firm. `[COCA]`
+> - She's not concerned about rank or wealth. `[COCA]`
+> - A magazine recently ranked the school as one of the best in the country. `[COCA]`
+> - Students who rank in the top third of their class have a better chance of being accepted to the college of their choice. `[COCA]`
+> - Mexico's soccer team is ranked 11th in the world. `[COCA]`
 
 ---
 

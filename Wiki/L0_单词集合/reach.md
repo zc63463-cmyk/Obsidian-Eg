@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**到达，抵达**== ; ②伸手，够到 ; ③达到（某水平/数量） ; ④达成（协议）
-**n.** ①==**能达到的范围**== ; ②影响的范围
+**v.** ①==**到达，抵达**== ``reach a place`` ``reach the top`` ; ②==**伸手，够到**== ``reach for`` ``reach out`` ; ③==**达到（某水平/数量）**== ``reach a level`` ``reach a conclusion`` ; ④==**达成（协议）**== ``reach an agreement`` ``reach a consensus``
+**n.** ①==**能达到的范围**== ``within reach`` ``out of reach`` ; ②==**影响的范围**== ``global reach`` ``beyond the reach of``
 
 > [!tip] 原型义
 > **原型义**：伸展、到达（身体或视线向某个方向延伸至目标）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conclusion reached by the researchers was based on extensive data analysis."（研究人员得出的结论是基于广泛的数据分析。）——考研高频表达
-> - "It is difficult to reach a consensus on such a controversial issue."（在这样一个有争议的问题上很难达成共识。）——考研高频表达
+> - Politicians again failed to reach an agreement. `[COCA]`
+> - The jury took four days to reach a verdict. `[COCA]`
+> - It may take months for investigators to reach a conclusion about what happened. `[COCA]`
+> - She reached inside her bag for a pen. `[COCA]`
 
 ---
 

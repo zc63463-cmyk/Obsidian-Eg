@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**规则，规章**== ; ②管理，控制 ; ③调节，调整 ;
+**n.** ①==**规则，规章**== `government regulations / safety regulations` ; ②==**管理，控制**== `strict regulation / under regulation` ; ③==**调节，调整**== ;
 
 > [!tip] 原型义
 > **原型义**：按规则进行管理的行为或由此产生的规则
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "While warnings are often appropriate and necessary, and many are required by state or federal regulations, it isn't clear that they actually protect the manufacturers and sellers from liability."（虽然警告往往是适当和必要的，许多也是州或联邦法规所要求的，但并不清楚它们是否确实保护了制造商和销售商免于承担责任。）——考研真题阅读
-> - "There is pressure for change from within the profession, but opponents of change among the regulators still have the upper hand."（行业内部也有要求变革的压力，但监管者中的反对派仍然占据上风。）——2014考研英语一阅读
+> - `While warnings are often appropriate and necessary, and many are required by state or federal regulations, it isn't clear that they actually protect the manufacturers and sellers from liability.` [真题]
+> - `There is pressure for change from within the profession, but opponents of change among the regulators still have the upper hand.` [真题]
+> - `The trade in these animals is highly regulated by international regulations.` [COCA-ACAD]
 
 ---
 

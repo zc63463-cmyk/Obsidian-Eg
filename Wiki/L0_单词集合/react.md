@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**反应，回应**== ; ②起化学反应 ; ③反对，反抗
+**v.** ①==**反应，回应**== ``react to`` ``react by doing`` ; ②==**起化学反应**== ``react with`` ``A reacts with B`` ; ③==**反对，反抗**== ``react against`` ``react to...angrily``
 
 > [!tip] 原型义
 > **原型义**：回应、反作用（受到刺激后做出回应）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People react differently to stress depending on their personality."（人们根据自身性格的不同，对压力的反应也不同。）——考研高频表达
-> - "The government reacted swiftly to the economic crisis."（政府对经济危机做出了迅速反应。）——考研高频表达
+> - Local residents have reacted angrily to the news. `[COCA]`
+> - The market reacted positively to last week's news of the new bid. `[COCA]`
+> - The government reacted by increasing taxation. `[COCA]`
+> - The firefighters reacted quickly when they heard the alarm. `[COCA]`
 
 ---
 

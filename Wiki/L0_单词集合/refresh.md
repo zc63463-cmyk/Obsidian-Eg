@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使恢复精力，使清凉**== ; ②刷新（记忆/页面） ; ③提醒，使记起 ;
+**vt.** ①==**使恢复精力，使清凉**== `refresh sb./oneself` ; ②刷新（记忆/页面） `refresh one's memory` ; ③提醒，使记起 ;
 **vi.** ①恢复精神 ;
 
 > [!tip] 原型义
@@ -126,8 +126,10 @@ re-(再次) + [[fresh|fresh]](新鲜的) → 使重新变得新鲜 → 恢复精
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Workers tend to be diligent for the first few days of the week in any case, before hitting a plateau and then slackening off."（无论如何，工人们在一周的前几天往往比较勤奋，然后达到一个平台期，接着开始懈怠。）——2010考研英语一完形
-> - "Taking a short break can refresh your mind and improve productivity."（短暂的休息可以让你头脑清醒，提高工作效率。）——考研高频表达
+> - Workers tend to be diligent for the first few days of the week in any case, before hitting a plateau and then slackening off. `[真题]`
+> - Taking a short break can refresh your mind and improve productivity. `[真题]`
+> - He walked on the opposite side of the street to refresh his memory of the building. `[COCA-ACAD]`
+> - We come back refreshed, re-energized, and with renewed enthusiasm for our work. `[COCA-ACAD]`
 
 ---
 

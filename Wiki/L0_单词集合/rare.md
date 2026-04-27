@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**稀有的，罕见的**== ; ②（空气等）稀薄的 ; ③（肉）半熟的
+**adj.** ①==**稀有的，罕见的**== ``a rare species`` ``rare occasion`` ; ②（空气等）==**稀薄的**== ``the rare air of the mountains`` ; ③（肉）==**半熟的**== ``rare steak``
 
 > [!tip] 原型义
 > **原型义**：稀薄的、稀少的（密度低于正常水平）
@@ -119,8 +119,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is rare to find such a combination of talent and hard work."（同时具备天赋和勤奋的人实属罕见。）——考研高频表达
-> - "This rare species of bird is on the verge of extinction."（这种珍稀鸟类正濒临灭绝。）——考研高频表达
+> - It's very rare to find someone who combines such qualities. `[COCA]`
+> - The museum is full of rare and precious treasures. `[COCA]`
+> - Talent like hers is rare in someone so young. `[COCA]`
+> - They mainly deal in rare books and manuscripts. `[COCA]`
 
 ---
 

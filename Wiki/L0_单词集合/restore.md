@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**恢复，使回复**==；②修复，重建；③归还，交还；
+**vt.** ①==**恢复，使回复**== `restore public order/confidence` `restore to`；②==**修复，重建**== `restore a building/painting` `restore one's health/sight`；③==**归还，交还**== `restore sth. to sb.`；
 
 > [!tip] 原型义
 > **原型义**：重新建立（回到原来的状态）
@@ -133,8 +133,10 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government took steps to quell the unrest and restore public order."（政府采取措施平息动乱，恢复公共秩序——2021年考研英语一阅读Text 4）
-> - "Failing hips can be replaced, clinical depression controlled, cataracts removed in a 30-minute surgical procedure."（股骨出了毛病可以换掉，临床性情绪低落可以控制，白内障只需30分钟的手术即可切除——2003年考研阅读，restore 同义语境：医学领域的"恢复/修复"）
+> - "The government took steps to quell the unrest and restore public order." `[真题]`
+> - "Failing hips can be replaced, clinical depression controlled, cataracts removed in a 30-minute surgical procedure." `[真题]`
+> - "The government needs to restore confidence in the economy." `[COCA-ACAD]`
+> - "Power company crews were working yesterday to restore electrical service to homes in the area." `[COCA]`
 
 
 ---

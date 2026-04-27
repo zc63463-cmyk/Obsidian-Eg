@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**遥远的；偏僻的**== ; ②==**远程的**== ; ③关系疏远的 ; ④微乎其微的
+**adj.** ①==**遥远的；偏僻的**== `a remote area/village` ; ②==**远程的**== `remote control/sensing` ; ③关系疏远的 `remote relative` ; ④微乎其微的 `a remote chance/possibility`
 
 > [!tip] 原型义
 > **原型义**：远处的、遥远的（空间上的远离）
@@ -135,8 +135,10 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](to flow/流动) + -ote(形
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The remote village had no access to electricity or running water."（这个偏远的村庄没有电也没有自来水。）——考研高频表达
-> - "The chances of success seem remote at this stage."（在这个阶段，成功的可能性似乎很渺茫。）——考研高频表达
+> - The remote village had no access to electricity or running water. `[真题]`
+> - The chances of success seem remote at this stage. `[真题]`
+> - They live in a remote corner of Scotland, miles from the nearest store. `[COCA-ACAD]`
+> - Teenagers are forced to study subjects that seem remote from their daily lives. `[COCA-ACAD]`
 
 ---
 

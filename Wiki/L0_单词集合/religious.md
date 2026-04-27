@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**宗教的**== ; ②==**虔诚的，笃信的**== ; ③认真的，一丝不苟的 ;
+**adj.** ①==**宗教的**== `religious belief/practice`（宗教信仰/仪式） ; ②==**虔诚的，笃信的**== `a religious person`（虔诚的人） ; ③认真的，一丝不苟的 `religious devotion to work`（对工作的认真投入） ;
 
 > [!tip] 原型义
 > **原型义**：与反复绑定有关的（pertaining to binding back）
@@ -128,8 +128,9 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On the issue of freedom of religion and the position of the Church, there was less agreement among the leadership."（在宗教自由和教会地位问题上，领导层之间的共识较少。）——2007年完形填空
-> - "Most leaders sought to maintain Catholicism as the official religion of the new states."（大多数领导人试图将天主教维持为新国家的官方宗教。）——2007年完形填空
+> - On the issue of freedom of religion and the position of the Church, there was less agreement among the leadership. `[真题]`
+> - Most leaders sought to maintain Catholicism as the official religion of the new states. `[真题]`
+> - A law guaranteeing the people freedom of conscience and religious practice was passed by the legislature. `[COCA-ACAD]`
 ---
 
 

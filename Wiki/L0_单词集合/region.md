@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地区，区域**== ; ②范围，领域 ;
+**n.** ①==**地区，区域**== `a region of / in the region of` ; ②==**范围，领域**== `in the region of` ;
 
 > [!tip] 原型义
 > **原型义**：被治理、被管辖的一片区域
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Emerging from the 1980 census is the picture of a nation developing more and more regional competition, as population growth in the Northeast and Midwest reaches a near standstill."（1980年人口普查呈现出一幅国家区域竞争日益加剧的画面，因为东北部和中西部的人口增长已接近停滞。）——1998考研英语一阅读
-> - "This development has enthroned the South as America's most densely populated region for the first time in the history of the nation's head counting."（这一发展使南方首次成为美国人口普查史上人口最密集的地区。）——考研真题阅读
+> - `Emerging from the 1980 census is the picture of a nation developing more and more regional competition, as population growth in the Northeast and Midwest reaches a near standstill.` [真题]
+> - `This development has enthroned the South as America's most densely populated region for the first time in the history of the nation's head counting.` [真题]
+> - `The factory supplies doses for domestic demand as well as for export across the region.` [COCA-NEWS]
 
 ---
 

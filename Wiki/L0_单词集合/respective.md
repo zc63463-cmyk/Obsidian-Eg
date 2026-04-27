@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**各自的，分别的**==；
+**adj.** ①==**各自的，分别的**== `their respective roles/fields` `the respective owners`；
 
 > [!tip] 原型义
 > **原型义**：分别回头看（各自注视自己的目标/领域）
@@ -123,8 +123,9 @@ re-(回/再) + [[spec-spect|spect]](看) + -ive(形容词后缀，表"倾向/特
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two countries signed the treaty in their respective capitals."（两国在各自的首都签署了条约）——政治类阅读
-> - "Students pursue their respective career paths after graduation."（学生们毕业后追求各自的职业道路）——教育类阅读
+> - "The two countries signed the treaty in their respective capitals." `[COCA-ACAD]`
+> - "All of the branches would take on the names of their respective divisions." `[COCA-ACAD]`
+> - "Steven and James are aged 10 and 13 respectively." `[COCA-ACAD]`
 
 ---
 

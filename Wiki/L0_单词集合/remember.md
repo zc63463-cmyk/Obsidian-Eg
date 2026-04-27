@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**记得；回忆起**== ; ②==**记住；牢记**== ; ③代……问候
+**v.** ①==**记得；回忆起**== `remember doing/to do/that` ; ②==**记住；牢记**== `remember to do sth.` ; ③代……问候 `remember sb. to sb.`
 
 > [!tip] 原型义
 > **原型义**：把记忆带回脑海中（从记忆库中取回信息）
@@ -130,8 +130,10 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](to mind/记忆) + -ber(后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I remember the day when I first arrived at the university."（我记得第一次到大学的那天。）——考研高频表达
-> - "It is important to remember that not all changes are progress."（重要的是要记住，并非所有的变化都是进步。）——考研高频表达
+> - I remember the day when I first arrived at the university. `[真题]`
+> - It is important to remember that not all changes are progress. `[真题]`
+> - I don't remember signing a contract. `[COCA-ACAD]`
+> - Please remember me to your family. `[COCA-ACAD]`
 
 ---
 

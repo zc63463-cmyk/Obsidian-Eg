@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**记者，新闻报道者**== ;
+**n.** ①==**记者，新闻报道者==`a news reporter` / `reporter for + 媒体名` ;
 
 > [!tip] 原型义
 > **原型义**：把信息带回来的人（re-回 + port-携带 + -er-人）
@@ -116,8 +116,9 @@ re-(回) + [[port|port]](携带) + -er(人) → 把信息带回来的人 → 记
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The reporter asked the politician several tough questions during the press conference."（记者在新闻发布会上向那位政治家提出了几个尖锐的问题——考研高频表达）
-> - "The idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media."（新闻记者一定比普通公民更加深刻地了解法律的这种看法，是基于对新闻媒体既定规范和特殊责任的理解——2007年考研翻译）
+> - `[真题]` The reporter asked the politician several tough questions during the press conference.
+> - `[真题]` The idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.
+> - `[COCA-ACAD]` The reporters' personal interpretations hold no place in the exposition of facts.
 
 
 ---

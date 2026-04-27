@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**管理，控制**== ; ②调节，调整 ; ③校准（仪器） ;
+**vt.** ①==**管理，控制**== `regulate the market / regulate an industry` ; ②==**调节，调整**== `regulate the speed / regulate temperature` ; ③==**校准（仪器）**== `regulate a clock` ;
 
 > [!tip] 原型义
 > **原型义**：按规则进行管理和控制
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "That would be the people who buy advertising from them — and Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies."（那将是那些从他们那里购买广告的人——而Facebook和谷歌这两个虚拟巨头主宰着数字广告，对所有其他媒体和娱乐公司不利。）——2018考研英语二阅读
-> - "The government should regulate the market to ensure fair competition."（政府应该管理市场以确保公平竞争。）——考研高频表达
+> - `The government has introduced new laws to regulate the sale of firearms.` [COCA-ACAD]
+> - `The switch is used to regulate the speed at which the machine operates.` [COCA-ACAD]
+> - `Congress has the power to regulate interstate commerce.` [COCA-ACAD]
 
 ---
 

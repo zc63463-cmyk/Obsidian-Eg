@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**抵抗的，有抵抗力的**==；②抗……的，耐……的；
+**adj.** ①==**抵抗的，有抵抗力的**== `be resistant to sth.`；②==**抗……的，耐……的**== `drug-resistant` `water-resistant`；
 
 > [!tip] 原型义
 > **原型义**：站在原地抵抗（不屈服、不让步）
@@ -130,8 +130,9 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If people in the network just two degrees removed from the initial influential prove resistant, the cascade of change won't propagate very far or affect many people."（如果网络中与最初有影响力的人仅相差两度的人被证明有抵抗力，那么变化的连锁反应就不会传播太远，也不会影响很多人——2010年考研阅读）
-> - "Many pests are resistant to the insecticide."（许多害虫对这种杀虫剂有抵抗力——考研高频表达）
+> - "If people in the network just two degrees removed from the initial influential prove resistant, the cascade of change won't propagate very far or affect many people." `[真题]`
+> - "UK consumers have proved highly resistant to genetically modified foods of all kinds." `[COCA-ACAD]`
+> - "Researchers are worried that some strains may be becoming resistant to conventional medicines." `[COCA-ACAD]`
 
 
 ---

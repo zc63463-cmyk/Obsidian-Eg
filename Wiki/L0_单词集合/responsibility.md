@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**责任，职责**==；②责任心，责任感；③义务；
+**n.** ①==**责任，职责**== `take responsibility for sth.` `sense of responsibility`；②==**责任心，责任感**== `a sense of responsibility` `show responsibility`；③==**义务**== `legal/social responsibility` `corporate social responsibility`；
 
 > [!tip] 原型义
 > **原型义**：回过头承诺的事（你答应了就必须承担的事）
@@ -129,8 +129,10 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's a self-examination that has, at various times, involved issues of responsibility, creative freedom and the corporate bottom line."（这种自我审视在不同时期涉及了责任、创作自由和公司底线等问题——1997年考研阅读4）
-> - "The responsibility for the latest wave of strikes rests on the unions."（最近这一波罢工的责任在于工会——2021年考研英语一阅读）
+> - "It's a self-examination that has, at various times, involved issues of responsibility, creative freedom and the corporate bottom line." `[真题]`
+> - "The responsibility for the latest wave of strikes rests on the unions." `[真题]`
+> - "We need to take responsibility for looking after our own health." `[COCA]`
+> - "The government's responsibility is to serve the public." `[COCA-ACAD]`
 
 
 ---

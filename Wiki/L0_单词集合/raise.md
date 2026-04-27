@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**举起，抬起，举起**==；②==**提高，增加（数量、水平等）**==；③==**抚养，养育（子女）**==；④==**筹集（资金）**==；⑤==**提出（问题、异议等）**==；⑥==**引起，引发**==；⑦==**饲养（动物）**==；⑧==**种植（作物）**==；
-**n.** ①==**加薪**==（美式英语）；②==**高地**==；
+**vt.** ①==**举起，抬起，举起**== `raise one's hand` `raise a glass`；②==**提高，增加（数量、水平等）**== `raise the price/standard` `raise awareness`；③==**抚养，养育（子女）**== `raise a child/family`；④==**筹集（资金）**== `raise funds/money`；⑤==**提出（问题、异议等）**== `raise a question/issue` `raise an objection`；⑥==**引起，引发**== `raise concerns/hopes`；⑦==**饲养（动物）**==；⑧==**种植（作物）**==；
+**n.** ①==**加薪**== `get a pay raise`；②==**高地**==；
 
 > [!tip] 原型义
 > **原型义**：举起、抬起（将某物从低处移到高处）
@@ -143,10 +143,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "raise public awareness of environmental issues"（提高公众的环保意识）——社会/环保类阅读高频搭配
-> - "raise funds for research"（为研究筹集资金）——学术/科技类阅读语境
-> - "raise questions about the validity of the study"（对该研究的有效性提出质疑）——学术评论类文章
-> - "raise children in a single-parent household"（在单亲家庭中抚养孩子）——社会类阅读
+> - "The government needs to raise public awareness of environmental issues." `[COCA-ACAD]`
+> - "She raised the question of funding for the project." `[COCA-ACAD]`
+> - "The lawyer raised an objection in the court." `[COCA-NEWS]`
+> - "They raised the flag at dawn." `[COCA-NEWS]`
 
 ---
 
