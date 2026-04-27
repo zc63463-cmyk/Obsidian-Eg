@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**冲突，矛盾**== ; ②==**分歧，争执**==
-**vi.** ①==**冲突，抵触**==（with）
+**n.** ①==**冲突，矛盾**== `N between/with N` `in N with N` ; ②==**分歧，争执**== `N of N`
+**vi.** ①==**冲突，抵触**==（with） `V with N`
 
 > [!tip] 原型义
 > **原型义**：互相碰撞、互相打击（两股力量撞击在一起）
@@ -130,8 +130,9 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They should also learn how to solve problems and resolve conflicts."（他们也应该学会如何解决问题和化解冲突。）——2007年新题型
-> - "There was a lot of conflict between him and his father."（他和父亲之间存在许多分歧。）——考研高频表达
+> - They should also learn how to solve problems and resolve conflicts. `[真题]`
+> - The new policy is in conflict with existing laws. `[COCA-ACAD]`
+> - The judge resigned due to a conflict of interest. `[例]`
 ---
 
 

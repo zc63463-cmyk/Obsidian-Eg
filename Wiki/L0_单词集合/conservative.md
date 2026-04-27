@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**保守的，守旧的**== ; ②==**谨慎的，稳健的**== ;
+**adj.** ①==**保守的，守旧的**== `a N estimate/approach` ; ②==**谨慎的，稳健的**== `a N estimate` ;
 **n.** ①==**保守主义者**== ; ②==**保守派**== ;
 
 > [!tip] 原型义
@@ -132,8 +132,9 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ative(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Generally there was a belief that the new nations should be sovereign and independent states."（人们普遍认为，新兴国家应该是拥有主权和独立的州。）——2007年完形填空
-> - "Hague initiated a series of reforms of the Conservative Republican Party."（海格发起了一系列保守共和党的改革。）——考研高频表达
+> - "Generally there was a belief that the new nations should be sovereign and independent states." `[真题]`
+> - "Hague initiated a series of reforms of the Conservative Republican Party." `[真题]`
+> - "A conservative estimate suggests that the project will cost at least ten million dollars." `[COCA-ACAD]`
 ---
 
 

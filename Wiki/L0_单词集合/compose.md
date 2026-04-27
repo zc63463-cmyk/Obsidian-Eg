@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①组成，构成 ; ==**②创作（音乐、文学等）**== ; ③使镇定 ;
+**v.** ①组成，构成 `be V-ed of N` / `V N` ; ==**②创作（音乐、文学等）**== `V N` ; ③使镇定 `V oneself` ;
 
 > [!tip] 原型义
 > **原型义**：组成，构成（将各部分放在一起形成整体）
@@ -127,8 +127,9 @@ com-(共同，一起) + [[pon/pos]](放置) + -e → "放在一起"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Water is composed of hydrogen and oxygen."（水由氢和氧组成。）——考研高频表达
-> - "She composed a letter of complaint to the management."（她写了一封投诉信给管理层。）——考研高频表达
+> - Water is composed of hydrogen and oxygen. `[COCA-ACAD]`
+> - She composed a letter of complaint to the management. `[例]`
+> - He took a deep breath to compose himself before delivering the speech. `[COCA-FIC]`
 
 ---
 

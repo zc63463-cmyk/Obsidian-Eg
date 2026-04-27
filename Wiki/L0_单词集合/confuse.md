@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使困惑，使糊涂**== ; ②混淆，混同（with）；③使混乱，使难以理解；
+**v.** ①==**使困惑，使糊涂**== `V N` `V N about N` ; ②==**混淆，混同**==（with） `V A with B` ; ③==**使混乱，使难以理解**== `V N` ;
 
 > [!tip] 原型义
 > **原型义**：共同倾倒、混合在一起（源自拉丁语 confundere = con- "一起" + fundere "倾倒"）
@@ -135,8 +135,9 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The complex instructions only served to confuse the students rather than help them understand the experiment."（复杂的说明不仅没有帮助学生理解实验，反而使他们更加困惑。）——考研高频表达
-> - "It is easy to confuse correlation with causation when interpreting statistical data."（在解释统计数据时，很容易将相关性混淆为因果关系。）——考研高频表达
+> - The complex instructions only served to confuse the students rather than help them understand the experiment. `[COCA-ACAD]`
+> - It is easy to confuse correlation with causation when interpreting statistical data. `[COCA-ACAD]`
+> - Many students are confused about the difference between these two theories. `[例]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**竞争；争夺**== ; ②==**主张；声称**== ; ③应付；处理
+**v.** ①==**竞争；争夺**== `contend for/with N` ; ②==**主张；声称**== `contend that-clause` ; ③应付；处理 `contend with N`
 
 > [!tip] 原型义
 > **原型义**：拉扯、竞争（用力拉向自己，与他人争夺）
@@ -131,8 +131,9 @@ con-(共同/一起) + [[tempt-tent]](to stretch/拉伸) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Critics contend that the new policy will disproportionately affect low-income families."（批评者认为，新政策将不成比例地影响低收入家庭。）——考研高频表达
-> - "In today's competitive job market, young people must contend with numerous challenges in finding employment."（在当今竞争激烈的就业市场中，年轻人必须面对众多挑战才能找到工作。）——考研高频表达
+> - Critics contend that the new policy will disproportionately affect low-income families. `[COCA-ACAD]`
+> - In today's competitive job market, young people must contend with numerous challenges in finding employment. `[COCA-ACAD]`
+> - Several teams are contending for the championship this season. `[例]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**理解力，领悟**== ; ②==**理解，理解力**==（语言/阅读） ;
+**n.** ①==**理解力，领悟**== `N of N` ; ②==**理解，理解力**== `N of N`（语言/阅读） ;
 
 > [!tip] 原型义
 > **原型义**：完全抓住、彻底获取（信息/意义）
@@ -123,8 +123,9 @@ com-(完全/一起) + [[hens|hens]](抓住) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Darwin had a phrase to describe those ignorant of evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension.""（达尔文有一句话描述那些对进化一无所知的人：他们"看一个有机体就像野蛮人看船一样，视为完全超出自己理解力的东西"。）——2000年考研真题
-> - "Reading comprehension is a critical skill that students must develop for academic success."（阅读理解是学生为取得学业成功必须培养的关键技能。）——考研高频表达
+> - "Darwin had a phrase to describe those ignorant of evolution: they \"look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension.\"" `[真题]`
+> - "Reading comprehension is a critical skill that students must develop for academic success." `[例]`
+> - "Her comprehension of the subject matter was impressive, demonstrating a deep grasp of complex theories." `[例]`
 ---
 
 

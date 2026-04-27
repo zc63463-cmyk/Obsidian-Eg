@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不间断的，频繁的**==（有间歇但不断发生）；②频繁的，一再发生的；
+**adj.** ①==**不间断的，频繁的**==（有间歇但不断发生）`continual N`；②频繁的，一再发生的 `continual N`;
 
 > [!tip] 原型义
 > **原型义**：一直保持、不断发生（源自拉丁语 continuus = con- "一起" + tenere "保持" + -al 形容词后缀）
@@ -129,8 +129,9 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) + -ual(形容词后缀) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The continual noise from the construction site made it impossible for residents to sleep."（建筑工地持续不断的噪音使居民无法入睡。）——考研高频表达
-> - "In today's society, workers face continual pressure to update their skills and adapt to new technologies."（在当今社会，工作者面临持续的压力，需要不断更新技能以适应新技术。）——考研高频表达
+> - The continual noise from the construction site made it impossible for residents to sleep. `[COCA-ACAD]`
+> - In today's society, workers face continual pressure to update their skills and adapt to new technologies. `[COCA-ACAD]`
+> - The continual rain delayed the outdoor event for several hours. `[例]`
 ---
 
 

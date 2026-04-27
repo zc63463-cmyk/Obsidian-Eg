@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**遵从；服从；顺从**==；
+**vi.** ①==**遵从；服从；顺从**== `V with N` [formal]；
 
 > [!tip] 原型义
 > **原型义**：完全折弯（顺从）——完全按照要求行事
@@ -127,8 +127,9 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Companies that do not comply with data protection laws may face heavy fines.（不遵守数据保护法的公司可能面临巨额罚款。）
-> - Patients are more likely to comply with treatment if they understand its benefits.（如果患者了解治疗的好处，就更可能遵从医嘱。）
+> - Companies that do not comply with data protection laws may face heavy fines. `[COCA-ACAD]`
+> - Patients are more likely to comply with treatment if they understand its benefits. `[COCA-ACAD]`
+> - All employees must comply with the company's safety regulations. `[例]`
 
 ---
 

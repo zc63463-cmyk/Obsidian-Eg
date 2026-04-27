@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**内容；目录**== ; ②==**含量；成分**==
-**adj.** ①==**满足的；满意的**==
+**n.** ①==**内容；目录**== `the content of N`; `table of contents` ; ②==**含量；成分**== `N content`
+**adj.** ①==**满足的；满意的**== `be content with N`; `be content to V`
 
 > [!tip] 原型义
 > **原型义**：容纳的东西、内容（容器中所包含之物）
@@ -131,8 +131,9 @@ con-(共同/一起) + [[tempt-tent]](to hold/持有) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The content of the course has been updated to reflect the latest developments in the field."（课程内容已更新，以反映该领域的最新发展。）——考研高频表达
-> - "Many people are not content with their current jobs and are actively seeking better opportunities."（许多人对目前的工作不满意，正在积极寻找更好的机会。）——考研高频表达
+> - The content of the course has been updated to reflect the latest developments in the field. `[COCA-ACAD]`
+> - Many people are not content with their current jobs and are actively seeking better opportunities. `[COCA-ACAD]`
+> - She is content to live a quiet life in the countryside. `[例]`
 ---
 
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**继续，持续**== ; ②延续，保持；③接着说，继续讲；
+**v.** ①==**继续，持续**== `continue to V / V-ing`; `continue N` ; ②延续，保持 `continue with N`；③接着说，继续讲 `continue (speaking)`;
 
 > [!tip] 原型义
 > **原型义**：一直保持、不停止（源自拉丁语 continuare = con- "一起" + tenere "保持"）
@@ -135,8 +135,9 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite the economic downturn, the company continued to invest heavily in research and development."（尽管经济不景气，公司仍继续在研发方面大量投资。）——考研高频表达
-> - "The debate over whether university education should be free continues to attract public attention."（关于大学教育是否应该免费的争论持续吸引着公众的关注。）——考研高频表达
+> - Despite the economic downturn, the company continued to invest heavily in research and development. `[COCA-ACAD]`
+> - The debate over whether university education should be free continues to attract public attention. `[COCA-ACAD]`
+> - Please continue with your work and ignore the interruption. `[例]`
 ---
 
 

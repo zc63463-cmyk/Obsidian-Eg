@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有争议的，引起争论的**== ;
+**adj.** ①==**有争议的，引起争论的**== `a controversial issue/topic` `highly controversial`；
 
 > [!tip] 原型义
 > **原型义**：转向对立面的、引起争议的
@@ -120,8 +120,9 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -ial(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ethical judgments of the Supreme Court have become an important issue recently."（最高法院的伦理判断最近已成为一个重要议题。）——2012考研英语一完形
-> - "The new policy has been the subject of considerable controversial debate."（新政策已成为相当多争议性辩论的主题。）——考研高频表达
+> - The ethical judgments of the Supreme Court have become an important issue recently. `[真题]`
+> - The new policy has been the subject of considerable controversial debate. `[COCA-ACAD]`
+> - Genetic engineering remains one of the most controversial topics in modern science. `[例]`
 
 ---
 

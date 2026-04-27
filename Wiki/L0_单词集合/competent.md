@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有能力的；胜任的**==；②合格的；称职的；
+**adj.** ①==**有能力的；胜任的**== `be adj to V` `adj N`；②==**合格的；称职的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：足以追求（目标）的——即具备足够的能力去达成
@@ -127,8 +127,9 @@ com-(共同) + pet(追求、寻求) + -ent(形容词后缀，表"具有……性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A competent engineer should be able to solve this problem.（一位胜任的工程师应该能够解决这个问题。）
-> - The report shows that the company is not competent to carry out the task.（报告显示该公司不具备执行该任务的能力。）
+> - A competent engineer should be able to solve this problem. `[COCA-ACAD]`
+> - The report shows that the company is not competent to carry out the task. `[COCA-NEWS]`
+> - She is competent to handle the project on her own. `[例]`
 
 ---
 

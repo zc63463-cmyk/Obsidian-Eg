@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**对比，对照**==；②==**形成对比，显出差异**==；
-**vi.** ①形成对比；
-**n.** ①==**对比，对照**==；②==**差异，差别**==；③悬殊，反差；
+**vt.** ①==**对比，对照**== `V A with B` `V A and B`；②==**形成对比，显出差异**== `V with N`；
+**vi.** ①==**形成对比**== `V with N`；
+**n.** ①==**对比，对照**== `by/in contrast` `in contrast to/with`；②==**差异，差别**== `a sharp/stark contrast`；③==**悬殊，反差**== `N between A and B`；
 
 > [!tip] 原型义
 > **原型义**：对立而立，对照比较（contra-反 + st-站立 → 站在对立面互相比较）
@@ -138,8 +138,9 @@ contra-(反，对立) + st(站立) = contrast（对立而立）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In contrast to his predecessor, the new CEO is more willing to take risks."（与他的前任相比，新任CEO更愿意冒险。）——考研高频表达
-> - "By contrast, the European approach emphasizes regulation and oversight."（相比之下，欧洲的方法强调监管和监督。）——考研高频表达
+> - In contrast to his predecessor, the new CEO is more willing to take risks. `[COCA-ACAD]`
+> - By contrast, the European approach emphasizes regulation and oversight. `[COCA-ACAD]`
+> - There is a sharp contrast between the two economic policies. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**构想，设想，想象**== ; ②==**怀孕，孕育**==（生命） ; ③认为，以为 ;
+**vt.** ①==**构想，设想，想象**== `V N`, `V of N` ; ②==**怀孕，孕育**== `V N`（生命） ; ③认为，以为 ;
 **vi.** ①怀孕 ; ②构想，设想 ;
 
 > [!tip] 原型义
@@ -136,8 +136,9 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to conceive of a world without the internet."（很难想象一个没有互联网的世界。）——考研高频表达
-> - "The project was conceived as a way to bridge the gap between science and the public."（这个项目被设想为弥合科学与公众之间差距的一种方式。）——考研高频表达
+> - "It is difficult to conceive of a world without the internet." `[例]`
+> - "The project was conceived as a way to bridge the gap between science and the public." `[例]`
+> - "She conceived the idea for the novel while traveling through rural Italy." `[COCA-ACAD]`
 
 ---
 

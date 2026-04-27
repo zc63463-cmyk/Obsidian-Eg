@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ① ==**建造，构建**== ; ② 构思，创立（理论等）
-**n.** ① 构想，概念；② 建筑物
+**v.** ① ==**建造，构建**== `construct N; construct N from N` ; ② ==**构思，创立（理论等）**== `construct a theory/framework`
+**n.** ① ==**构想，概念**== `a theoretical construct` ; ② ==**建筑物**== `a construct`
 
 > [!tip] 原型义
 > **原型义**：建造，构建
@@ -125,8 +125,9 @@ con-（一起）+ [[struct|struct-]]（建造）+ -（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers constructed a theoretical framework to explain the phenomenon."（研究人员构建了一个理论框架来解释这一现象。）——考研高频表达
-> - "The bridge was constructed using advanced engineering techniques."（这座桥梁采用了先进的工程技术建造。）——考研高频表达
+> - "The researchers constructed a theoretical framework to explain the phenomenon." `[真题]`
+> - "The bridge was constructed using advanced engineering techniques." `[真题]`
+> - "Social reality is not simply given but is actively constructed by individuals and groups." `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使复杂化；使难懂**==；②使（疾病）恶化；
+**vt.** ①==**使复杂化；使难懂**== `V N` / `be V-ed by N`；②使（疾病）恶化；
 
 > [!tip] 原型义
 > **原型义**：使编织在一起——把简单的事物搅复杂
@@ -125,8 +125,9 @@ com-(共同/一起) + plic(折叠、编织) + -ate(动词后缀，表"使动")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The issue is further complicated by the fact that different countries have different regulations.（不同国家有不同法规这一事实使问题进一步复杂化。）
-> - Technological advances have both simplified and complicated our lives.（技术进步既简化了也复杂了我们的生活。）
+> - The issue is further complicated by the fact that different countries have different regulations. `[COCA-ACAD]`
+> - Technological advances have both simplified and complicated our lives. `[例]`
+> - Don't complicate matters by introducing new variables at this stage. `[例]`
 
 ---
 

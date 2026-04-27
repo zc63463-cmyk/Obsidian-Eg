@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ① ==**恒定的，不变的**== ; ② 持续的，不断的
-**n.** ① 常数，恒量
+**adj.** ① ==**恒定的，不变的**== `constant N; be constant in N` ; ② ==**持续的，不断的**== `constant N`
+**n.** ① ==**常数，恒量**== `a constant`
 
 > [!tip] 原型义
 > **原型义**：恒定的，不变的
@@ -124,8 +124,9 @@ con-（一起）+ [[sta|sta-]]（站立）+ -nt（形容词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The world is in a state of constant change, and it is necessary to keep up with the latest developments."（世界处于不断变化之中，必须跟上最新的发展。）——考研高频表达
-> - "He lived in constant fear of being discovered."（他一直生活在被发现恐惧之中。）——考研高频表达
+> - "The world is in a state of constant change, and it is necessary to keep up with the latest developments." `[真题]`
+> - "He lived in constant fear of being discovered." `[真题]`
+> - "The speed of light is a constant in physics." `[COCA-ACAD]`
 
 ---
 

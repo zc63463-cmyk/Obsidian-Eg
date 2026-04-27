@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ① ==**限制，约束**== ; ② 强迫，迫使
+**v.** ① ==**限制，约束**== `V N; be constrained by N` ; ② ==**强迫，迫使**== `constrain sb. to V`
 
 > [!tip] 原型义
 > **原型义**：限制，约束
@@ -121,8 +121,9 @@ con-（一起）+ [[strain|strain-]]（拉紧，束缚）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Financial constraints have forced the university to cut several research programs."（财政限制迫使大学削减了几个研究项目。）——考研高频表达
-> - "The evidence is constrained by the limited availability of reliable data."（由于可靠数据的有限可用性，证据受到了限制。）——考研高频表达
+> - "Financial constraints have forced the university to cut several research programs." `[真题]`
+> - "The evidence is constrained by the limited availability of reliable data." `[真题]`
+> - "Growth is constrained by a lack of investment in infrastructure." `[COCA-ACAD]`
 
 ---
 

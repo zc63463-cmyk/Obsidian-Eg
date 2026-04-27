@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**公司，企业**== ; ②==**法人团体**== ;
+**n.** ①==**公司，企业**== `N (for N)` ; ②==**法人团体**== `N` ;
 
 > [!tip] 原型义
 > **原型义**：被视为一个"身体"（corpus）的法人团体
@@ -127,8 +127,9 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Many multinational corporations have established branches in China."（许多跨国公司在中国设立了分支机构。）——考研高频表达
-> - "International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment."（在那些对外开放并欢迎外资的国家中，国际分公司在生产中所占的份额正在快速增长。）——2001年考研阅读Text4
+> > - Many multinational corporations have established branches in China. `` `[真题]` ``
+> - International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. `` `[真题]` ``
+> - The corporation was founded in 1920 and has since grown into a global enterprise. `` `[例]` ``
 
 ---
 

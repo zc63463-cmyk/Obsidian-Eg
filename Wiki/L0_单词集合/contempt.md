@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**轻视；蔑视**== ; ②==**藐视（法庭）罪**==
+**n.** ①==**轻视；蔑视**== `show/hold N in contempt`; `contempt for N` ; ②==**藐视（法庭）罪**== `contempt of court`
 
 > [!tip] 原型义
 > **原型义**：轻视、蔑视（认为某人/某事不值得尊重）
@@ -127,8 +127,9 @@ con-(共同/完全) + 建议创建词根笔记 [[tempt/tempt]](to despise/轻视
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "So few authors have brains enough or literary gift enough to keep their own end up in journalism, that I am tempted to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are'."（很少有作者有足够的头脑或文学天赋在新闻业中立足，以至于我忍不住将'新闻业'定义为'一个蔑称，由无人问津的作家用来形容有人阅读的作家'。）——2010年考研英语一阅读Text1
-> - "Politicians seem to be generally held in contempt by ordinary people."（普通百姓似乎普遍看不起政客。）——考研高频表达
+> - So few authors have brains enough or literary gift enough to keep their own end up in journalism, that I am tempted to define "journalism" as "a term of contempt applied by writers who are not read to writers who are." `[真题]`
+> - Politicians seem to be generally held in contempt by ordinary people. `[COCA-ACAD]`
+> - He showed contempt for the rules of the institution and was reprimanded accordingly. `[例]`
 
 ---
 

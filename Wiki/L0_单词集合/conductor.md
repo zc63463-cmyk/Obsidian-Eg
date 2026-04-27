@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**指挥家（乐队）**== ; ②==**导体**==（导电/导热物质） ; ③==**售票员，列车长**== ;
+**n.** ①==**指挥家（乐队）**== `N` ; ②==**导体**== `N` ; ③==**售票员，列车长**== `N` ;
 
 > [!tip] 原型义
 > **原型义**：引导者、带领者
@@ -121,8 +121,9 @@ con-(共同/一起) + [[duct|duct/duc]](引导) + -or(名词后缀，做...的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conductor raised his baton and the orchestra began to play."（指挥举起指挥棒，管弦乐队开始演奏。）——考研高频表达
-> - "Copper is an excellent conductor of heat and electricity."（铜是优良的热和电的导体。）——考研高频表达
+> - The conductor raised his baton and the orchestra began to play. `[真题]`
+> - Copper is an excellent conductor of heat and electricity. `[COCA-ACAD]`
+> - The bus conductor checked everyone's tickets before the bus departed. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**浓缩，压缩**==（液体/文章） ; ②==**凝结，冷凝**==（气体变液体） ;
+**v.** ①==**浓缩，压缩**== `V N into N` ; ②==**凝结，冷凝**== `V into N` ;
 
 > [!tip] 原型义
 > **原型义**：使变密集、使密度增大
@@ -124,8 +124,9 @@ con-(加强) + [[dens|dens/dens]](密集/浓厚) + -e(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author condensed a 500-page book into a 50-page summary."（作者将一本500页的书浓缩成了50页的摘要。）——考研高频表达
-> - "Steam condenses into water when it cools down."（蒸汽冷却时凝结成水。）——考研高频表达
+> - The author condensed a 500-page book into a 50-page summary. `[真题]`
+> - Steam condenses into water when it cools down. `[COCA-ACAD]`
+> - The essay was condensed from ten pages to three. `[例]`
 
 ---
 

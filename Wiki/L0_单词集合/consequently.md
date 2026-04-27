@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**因此，所以**== ; ②==**必然地，当然地**== ;
+**adv.** ①==**因此，所以**== `; N, clause` `N, clause` ; ②==**必然地，当然地**== ;
 
 > [!tip] 原型义
 > **原型义**：跟随而来的（作为结果地）
@@ -127,8 +127,9 @@ con-(共同，一起) + sequ/secut(跟随) + -ent(形容词后缀) + -ly(副词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some of these causes are completely reasonable results of social needs. Others are reasonable consequences of particular advances in science being to some extent self-accelerating."（其中一些原因完全是社会需求的合理结果。另一些原因则是科学某些特定进步在某种程度上自我加速的合理后果。）——1996年翻译
-> - "She didn't study hard; consequently, she failed the exam."（她没有努力学习，结果考试不及格。）——考研高频表达
+> - "Some of these causes are completely reasonable results of social needs. Others are reasonable consequences of particular advances in science being to some extent self-accelerating." `[真题]`
+> - "She didn't study hard; consequently, she failed the exam." `[真题]`
+> - "The company failed to adapt to changing market conditions; consequently, it lost a significant share of its customer base." `[COCA-ACAD]`
 ---
 
 

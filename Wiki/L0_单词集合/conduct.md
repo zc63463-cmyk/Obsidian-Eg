@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**组织，实施，进行**== ; ②==**指挥（乐队）**== ; ③==**引导，带领**== ; ④==**传导（热/电）**== ;
-**n.** ①==**行为，举止**== ; ②==**管理方式，实施方法**== ;
+**vt.** ①==**组织，实施，进行**== `V N` ; ②==**指挥（乐队）**== `V N` ; ③==**引导，带领**== `V N` ; ④==**传导（热/电）**== `V N` ;
+**n.** ①==**行为，举止**== `N` ; ②==**管理方式，实施方法**== `N` ;
 
 > [!tip] 原型义
 > **原型义**：引导、带领前行
@@ -126,8 +126,9 @@ con-(共同/一起) + [[duct|duct/duc]](引导) → 引导大家一起做
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university decided to conduct an investigation into the allegations."（大学决定对这些指控进行调查。）——考研高频表达
-> - "The way a company conducts its business reflects its values and ethics."（公司经营业务的方式反映了其价值观和道德标准。）——考研高频表达
+> - The university decided to conduct an investigation into the allegations. `[真题]`
+> - The way a company conducts its business reflects its values and ethics. `[COCA-ACAD]`
+> - Copper conducts electricity more efficiently than most other metals. `[COCA-ACAD]`
 
 ---
 

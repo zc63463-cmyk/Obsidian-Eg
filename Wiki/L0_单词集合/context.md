@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**上下文；语境**== ; ②==**环境；背景**== ; ③==** circumstances**（处境）
+**n.** ①==**上下文；语境**== `in/out of context` ; ②==**环境；背景**== `in the context of N`; `social/historical context` ; ③==** circumstances**（处境）== `in this context`
 
 > [!tip] 原型义
 > **原型义**：编织在一起的环境、上下文（文字或事件交织的背景）
@@ -132,8 +132,9 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The meaning of a word can vary significantly depending on the context in which it is used."（一个词的含义可能因使用语境的不同而有很大差异。）——考研高频表达
-> - "To fully understand the historical event, we must place it in its broader social and political context."（要充分理解这一历史事件，我们必须将其置于更广泛的社会和政治背景中。）——考研高频表达
+> - The meaning of a word can vary significantly depending on the context in which it is used. `[COCA-ACAD]`
+> - To fully understand the historical event, we must place it in its broader social and political context. `[COCA-ACAD]`
+> - His words were taken out of context and caused unnecessary controversy. `[例]`
 ---
 
 

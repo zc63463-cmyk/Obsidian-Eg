@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**条件，前提**== ; ②==**状况，状态**== ; ③==**疾病，健康状况**== ;
-**vt.** ①==**决定，制约**== ; ②==**使适应，使习惯**== ;
+**n.** ①==**条件，前提**== `on condition that-clause` ; ②==**状况，状态**== `in good/poor condition` ; ③==**疾病，健康状况**== `N` ;
+**vt.** ①==**决定，制约**== `be conditioned by N` ; ②==**使适应，使习惯**== `condition sb. to V` ;
 
 > [!tip] 原型义
 > **原型义**：共同商定的状态、约定好的前提
@@ -129,8 +129,9 @@ con-(共同/一起) + [[dict|dict/dic]](说) + -ion(名词后缀) → 共同说�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The condition of the roads has deteriorated significantly over the years."（多年来，道路的状况已经显著恶化。）——考研高频表达
-> - "The prisoners were held in inhumane conditions."（囚犯被关押在不人道的条件下。）——考研高频表达
+> - The condition of the roads has deteriorated significantly over the years. `[真题]`
+> - The prisoners were held in inhumane conditions. `[真题]`
+> - You may borrow the book on condition that you return it by Friday. `[COCA-ACAD]`
 
 ---
 

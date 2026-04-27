@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**召集，召开（会议）**== ; ②==**集合，聚集**==
+**v.** ①==**召集，召开（会议）**== `V a meeting/conference`；②==**集合，聚集**== `V at/in N`；
 
 > [!tip] 原型义
 > **原型义**：共同来到一起
@@ -122,9 +122,9 @@ con-(共同、一起) + vene-(=venire，来) → 共同来到一起
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee will convene next week to discuss the proposed changes."（委员会将于下周召开会议讨论拟议的变更——考研高频表达）
-> - "A special session was convened to address the emergency."（召开了一次特别会议来应对紧急情况——考研高频表达）
-
+> - The committee will convene next week to discuss the proposed changes. `[COCA-ACAD]`
+> - A special session was convened to address the emergency. `[COCA-ACAD]`
+> - The United Nations General Assembly convenes annually in September. `[例]`
 
 ---
 

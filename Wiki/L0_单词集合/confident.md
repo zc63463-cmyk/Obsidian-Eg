@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**自信的，有信心的**== ; ②==**确信的，肯定的**==（of/that）
+**adj.** ①==**自信的，有信心的**== `be confident about/of N` ; ②==**确信的，肯定的**== `be confident that-clause`
 
 > [!tip] 原型义
 > **原型义**：完全信任的（内心深处充满信任感）
@@ -126,8 +126,9 @@ con-(=completely，完全地) + fid(=trust，信任) + -ent(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Team-building skills are in short supply: only 21% of executives feel confident in their ability to build cross-functional teams."（团队建设技能供不应求：只有21%的高管对自己建立跨职能团队的能力有信心。）——考研阅读真题
-> - "The researchers are confident that the new drug will prove effective in clinical trials."（研究人员相信新药在临床试验中将被证明是有效的。）——考研高频表达
+> - Team-building skills are in short supply: only 21% of executives feel confident in their ability to build cross-functional teams. `[真题]`
+> - The researchers are confident that the new drug will prove effective in clinical trials. `[真题]`
+> - She is confident of winning the championship this season. `[COCA-ACAD]`
 
 ---
 

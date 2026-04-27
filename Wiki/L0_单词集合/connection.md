@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**联系，关联**== ; ②连接，连接点；③人际关系，人脉；④（交通）联运，转接；
+**n.** ①==**联系，关联**== `N between A and B` `in connection with N` ; ②==**连接，连接点**== `N to N` ; ③==**人际关系，人脉**== `social Ns` ; ④==**（交通）联运，转接**== ;
 
 > [!tip] 原型义
 > **原型义**：共同绑在一起的状态/结果（源自拉丁语 connexio = con- "一起" + nectere "绑" + -io 名词后缀）
@@ -131,8 +131,9 @@ con-(=together, 共同) + [[nect]](=bind, 绑) + -ion(名词后缀) → 共同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a close connection between a child's early reading experiences and their later academic achievement."（儿童早期阅读经历与其后来的学业成就之间存在密切联系。）——考研高频表达
-> - "Scientists have discovered a connection between lack of sleep and an increased risk of heart disease."（科学家发现了睡眠不足与心脏病风险增加之间的联系。）——考研高频表达
+> - "There is a close connection between a child's early reading experiences and their later academic achievement." `[真题]`
+> - "Scientists have discovered a connection between lack of sleep and an increased risk of heart disease." `[真题]`
+> - "The police are investigating the fraud in connection with the collapsed company." `[COCA-ACAD]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**国会，议会**== ; ②代表大会，专业会议；③（大写）美国国会；
+**n.** ①==**国会，议会**== `N` `adj N` ; ②==**代表大会，专业会议**== `adj N` ; ③==**（大写）美国国会**== `Congress` ;
 
 > [!tip] 原型义
 > **原型义**：共同走来、走到一起（源自拉丁语 congressus = con- "一起" + gradi "走"）
@@ -132,8 +132,9 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Congress approved the new education bill after months of heated debate."（经过数月的激烈辩论，国会批准了新的教育法案。）——考研高频表达
-> - "The international congress on climate change brought together scientists from over 100 countries."（国际气候变化大会汇集了来自100多个国家的科学家。）——考研高频表达
+> - The Congress approved the new education bill after months of heated debate. `[COCA-ACAD]`
+> - The international congress on climate change brought together scientists from over 100 countries. `[COCA-ACAD]`
+> - The congressional elections will determine the balance of power in the legislature. `[例]`
 ---
 
 

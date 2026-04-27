@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**压缩，压紧**==（施加外力使体积缩小） ; ②==**精简，浓缩**==（语言/信息） ;
+**vt.** ①==**压缩，压紧**== `V N`（施加外力使体积缩小） ; ②==**精简，浓缩**== `V N into N`（语言/信息） ;
 **vi.** 压缩，收缩；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ com-(加强/一起) + [[press]](按压) = compress（用力压到一起）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The course compresses two years of material into a single intensive semester."（这门课程将两年的内容压缩到一个强化学期中。）——考研高频表达
-> - "The ability to compress complex information into a brief summary is a valuable skill."（将复杂信息压缩为简明摘要的能力是一项宝贵的技能。）——考研高频表达
+> - "The course compresses two years of material into a single intensive semester." `[例]`
+> - "The ability to compress complex information into a brief summary is a valuable skill." `[例]`
+> - "The software can compress large video files without significant loss of quality." `[COCA-ACAD]`
 
 ---
 

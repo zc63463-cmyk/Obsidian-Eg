@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**补充；补足**==；②补充物；③编制名额；④补语；
-**vt.** ①补充；使完善；
+**n.** ①==**补充；补足**== `N`；②==**补充物**== `N`；③==**编制名额**== `N`；④==**补语**== `N`；
+**vt.** ①==**补充；使完善**== `V N` `V N with N`；
 
 > [!tip] 原型义
 > **原型义**：共同填充使之完整——补齐缺失的部分
@@ -130,8 +130,9 @@ com-(共同/完全) + [[ple]](填充、满) + -ment(名词后缀，表行为/结
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research and teaching are not mutually exclusive; rather, they complement each other.（研究和教学并非互斥，而是互补的。）
-> - The new building will complement the existing architecture of the campus.（新建筑将与校园现有建筑风格互补。）
+> - Research and teaching are not mutually exclusive; rather, they complement each other. `[COCA-ACAD]`
+> - The new building will complement the existing architecture of the campus. `[COCA-NEWS]`
+> - Wine is a perfect complement to a good meal. `[COCA-MAG]`
 
 ---
 

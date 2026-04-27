@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**公司的，法人的**== ; ②==**共同的，全体的**== ;
+**adj.** ①==**公司的，法人的**== `adj N` ; ②==**共同的，全体的**== `adj N` ;
 
 > [!tip] 原型义
 > **原型义**：组成一个团体的，形成一个"身体"的
@@ -126,8 +126,9 @@ corpor(体/团体) + -ate(形容词后缀，"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Corporate executives are under increasing pressure to improve their companies' environmental performance."（企业高管面临着越来越大的压力，需要改善公司的环境表现。）——考研阅读真题
-> - "Corporate culture plays a vital role in determining employee satisfaction."（企业文化在决定员工满意度方面发挥着至关重要的作用。）——考研高频表达
+> > - Corporate executives are under increasing pressure to improve their companies' environmental performance. `` `[真题]` ``
+> - Corporate culture plays a vital role in determining employee satisfaction. `` `[COCA-ACAD]` ``
+> - The company decided to take corporate responsibility for the environmental damage. `` `[例]` ``
 
 ---
 

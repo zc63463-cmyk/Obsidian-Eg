@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**相当大的，相当多的**== ; ②==**值得考虑的，重要的**== ;
+**adj.** ①==**相当大的，相当多的**== `a N amount of N` `N effort/time/influence` ; ②==**值得考虑的，重要的**== ;
 
 > [!tip] 原型义
 > **原型义**：值得考虑的（因为数量或程度大到不容忽视）
@@ -130,8 +130,9 @@ con-(共同，一起) + sid/sider(星星/坐) + -er(动词后缀) + -able(可被
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The project wasted a considerable amount of time and money."（那项工程耗费了相当多的时间和资金。）——考研高频表达
-> - "The recent slowdown in the US economy is likely to have a considerable impact on the rest of the world."（近期美国经济的放缓可能会对世界其他地区产生相当大的影响。）——考研高频表达
+> - "The project wasted a considerable amount of time and money." `[真题]`
+> - "The recent slowdown in the US economy is likely to have a considerable impact on the rest of the world." `[真题]`
+> - "She has considerable experience in managing large-scale international projects." `[COCA-ACAD]`
 ---
 
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**坦白，承认**==（错误、罪行等） ; ②==**供认，忏悔**== ;
-**vi.** ①坦白，承认 ; ②忏悔 ;
+**vt.** ①==**坦白，承认**== `V that-clause` ; ②==**供认，忏悔**== `V N to sb.` ;
+**vi.** ①==**坦白，承认**== `confess to V-ing` ; ②==**忏悔**== `confess to sb.` ;
 
 > [!tip] 原型义
 > **原型义**：全部说出来，把隐藏的事完全公开
@@ -134,9 +134,9 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He confessed to stealing the money from the company's account."（他承认从公司账户偷了钱。）——考研高频表达
-> - "I must confess that I was surprised by the result of the experiment."（我必须承认，实验结果让我感到意外。）——考研高频表达
-> - "The suspect confessed his guilt to the police after hours of interrogation."（经过数小时的审讯，嫌疑人对警方认了罪。）——考研高频表达
+> - He confessed to stealing the money from the company's account. `[真题]`
+> - I must confess that I was surprised by the result of the experiment. `[真题]`
+> - The suspect confessed his guilt to the police after hours of interrogation. `[COCA-ACAD]`
 
 ---
 

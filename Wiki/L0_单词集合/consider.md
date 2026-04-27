@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**考虑，细想**== ; ②==**认为，把...看作**== ; ③==**体谅，顾及**== ;
+**v.** ①==**考虑，细想**== `V doing sth` `V wh-clause` ; ②==**认为，把...看作**== `V N (as/to be) N/adj` `be V-ed N` ; ③==**体谅，顾及**== `V N's feelings` ;
 
 > [!tip] 原型义
 > **原型义**：仔细观察星星（源自拉丁语 considerare "观察星星"，古罗马人通过观察星象来做出决定）
@@ -134,8 +134,9 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is essential to consider factors beyond GDP."（有必要考虑GDP之外的因素。）——2017年阅读Text3
-> - "Curiosity is often considered a good instinct."（好奇心通常被认为是一种良好的本能。）——2018年英语二完形填空
+> - "It is essential to consider factors beyond GDP." `[真题]`
+> - "Curiosity is often considered a good instinct." `[真题]`
+> - "We are considering moving to a new city next year to be closer to our families." `[COCA-ACAD]`
 ---
 
 

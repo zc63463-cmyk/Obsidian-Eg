@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**复杂的；难懂的**==；②棘手的；
+**adj.** ①==**复杂的；难懂的**== `a adj N` / `be adj`；②棘手的；
 
 > [!tip] 原型义
 > **原型义**：被编织纠缠的——因交织而难以理清
@@ -127,8 +127,9 @@ com-(共同/一起) + plic(折叠、编织) + -at(e)(动词后缀) + -ed(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The relationship between poverty and education is more complicated than it appears.（贫困与教育之间的关系比表面看起来更复杂。）
-> - Modern technology has made our lives both easier and more complicated.（现代技术使我们的生活既更便利又更复杂。）
+> - The relationship between poverty and education is more complicated than it appears. `[COCA-ACAD]`
+> - Modern technology has made our lives both easier and more complicated. `[例]`
+> - The legal procedure for obtaining a visa can be highly complicated. `[例]`
 
 ---
 

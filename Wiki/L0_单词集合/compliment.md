@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**赞美；称赞**==；②问候；致意；
-**vt.** ①赞美；称赞；
+**n.** ①==**赞美；称赞**== `pay sb. a N` / `N on N`；②问候；致意；
+**vt.** ①赞美；称赞 `V sb. on sth.`；
 
 > [!tip] 原型义
 > **原型义**：完全符合心意——表达对他人优点的认可
@@ -134,8 +134,9 @@ com-(完全) + plim(填满、满足) → 完全满足心意 → 赞美
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The manager complimented the team on their outstanding performance.（经理称赞团队表现卓越。）
-> - She accepted the compliment with grace.（她优雅地接受了赞美。）
+> - The manager complimented the team on their outstanding performance. `[例]`
+> - She accepted the compliment with grace. `[例]`
+> - He paid her a sincere compliment on her presentation skills. `[COCA-MAG]`
 
 ---
 

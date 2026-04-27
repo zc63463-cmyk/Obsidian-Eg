@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**意识到的，自觉的**== ; ②有意识的，神志清醒的；③关注的，注重的（of）；④故意的，蓄意的；
+**adj.** ①==**意识到的，自觉的**== `be conscious of N` `be conscious that-clause` ; ②==**有意识的，神志清醒的**== `remain conscious` ; ③==**关注的，注重的**== `be conscious of N` ; ④==**故意的，蓄意的**== `a conscious effort/decision` ;
 
 > [!tip] 原型义
 > **原型义**：共同知晓、内心清楚（源自拉丁语 conscius = con- "一起" + scire "知道"）
@@ -137,8 +137,9 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consumers are becoming increasingly conscious of the environmental impact of their purchasing decisions."（消费者越来越意识到自己的购买决策对环境的影响。）——考研高频表达
-> - "She made a conscious effort to improve her communication skills before the job interview."（她在面试前有意识地努力提高自己的沟通技巧。）——考研高频表达
+> - "Consumers are becoming increasingly conscious of the environmental impact of their purchasing decisions." `[真题]`
+> - "She made a conscious effort to improve her communication skills before the job interview." `[真题]`
+> - "He was barely conscious after the accident and could not remember what had happened." `[COCA-ACAD]`
 ---
 
 

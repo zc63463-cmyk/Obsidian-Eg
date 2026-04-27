@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**困惑，迷惑**== ; ②混淆，混乱；③尴尬，窘迫（in confusion）；
+**n.** ①==**困惑，迷惑**== `in N` `cause/create N` ; ②==**混淆，混乱**== `N about N` ; ③==**尴尬，窘迫**==（in confusion） `in N` ;
 
 > [!tip] 原型义
 > **原型义**：混合在一起的状态（源自拉丁语 confusio = con- "一起" + fundere "倾倒" + -io 名词后缀）
@@ -136,8 +136,9 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy has caused considerable confusion among employees about their responsibilities."（新政策在员工中造成了相当大的困惑，使他们不清楚自己的职责。）——考研高频表达
-> - "There is widespread confusion about the difference between "affect" and "effect" even among native English speakers."（即使在英语母语者中，对于"affect"和"effect"的区别也存在普遍的困惑。）——考研高频表达
+> - The new policy has caused considerable confusion among employees about their responsibilities. `[COCA-ACAD]`
+> - There is widespread confusion about the difference between "affect" and "effect" even among native English speakers. `[COCA]`
+> - She looked at the complex instructions in confusion, unable to figure out the first step. `[例]`
 ---
 
 

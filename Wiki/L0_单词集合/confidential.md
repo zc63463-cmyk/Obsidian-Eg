@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**机密的，保密的**== ; ②==**信任的，亲密的**==
+**adj.** ①==**机密的，保密的**== `adj. N` ; ②==**信任的，亲密的**== `adj. N`
 
 > [!tip] 原型义
 > **原型义**：值得信任的、被信任的（因为信任所以保密）
@@ -127,8 +127,9 @@ con-(=completely，完全地) + fid(=trust，信任) + -ent(形容词后缀) + -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All patient information must be kept strictly confidential."（所有患者信息必须严格保密。）——考研高频表达
-> - "The confidential report was leaked to the press, causing a political scandal."（机密报告被泄露给新闻界，引发了政治丑闻。）——考研高频表达
+> - All patient information must be kept strictly confidential. `[真题]`
+> - The confidential report was leaked to the press, causing a political scandal. `[真题]`
+> - Please ensure that this document remains confidential at all times. `[COCA-ACAD]`
 
 ---
 

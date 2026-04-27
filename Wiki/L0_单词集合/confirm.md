@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**证实，确认**== ; ②==**批准，认可**== ; ③==**使坚定，加强**==
+**vt.** ①==**证实，确认**== `V that-clause` `V N` ; ②==**批准，认可**== `V N` ; ③==**使坚定，加强**== `V N`
 
 > [!tip] 原型义
 > **原型义**：使更坚定、使更强（强化已有的信念或状态）
@@ -131,8 +131,9 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The spokesman confirmed that the area was now in rebel hands."（发言人证实该地区现已落入叛乱分子手中。）——考研高频表达
-> - "The sobering aspect of Allen's book is that we have no one else to blame for our present condition except ourselves."（艾伦这本书令人清醒的一面是：对于目前的处境，除了我们自己，我们不能责怪任何人。）——2011年翻译
+> - The spokesman confirmed that the area was now in rebel hands. `[真题]`
+> - Please call to confirm your reservation at least 24 hours in advance. `[COCA]`
+> - The report confirmed that the economy is recovering steadily. `[例]`
 ---
 
 

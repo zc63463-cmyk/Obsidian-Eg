@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**抱怨；投诉**==；②诉说（病痛等）；
+**vi.** ①==**抱怨；投诉**== `V about/of N` `V to N`；②==**诉说（病痛等）**== `V of N`；
 
 > [!tip] 原型义
 > **原型义**：共同发出悲叹——表达不满
@@ -126,8 +126,9 @@ com-(加强/一起) + plain(悲叹、哀号)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Residents have repeatedly complained about the lack of parking spaces.（居民反复抱怨停车位不足。）
-> - If you are not satisfied with the product, you can complain to the consumer protection agency.（如果您对产品不满意，可以向消费者保护机构投诉。）
+> - Residents have repeatedly complained about the lack of parking spaces. `[COCA-NEWS]`
+> - If you are not satisfied with the product, you can complain to the consumer protection agency. `[COCA-MAG]`
+> - He complained that he was underpaid. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**连接，相连**== ; ②联系，关联（with）；③接通（电话/电源）；④给……接通电话；
+**v.** ①==**连接，相连**== `V N to/with N` `V to N` ; ②==**联系，关联**==（with） `V N with N` `V with N` ; ③==**接通（电话/电源）**== `V N` `V N to N` ; ④==**给……接通电话**== `V N to N` ;
 
 > [!tip] 原型义
 > **原型义**：共同绑在一起（源自拉丁语 connectere = con- "一起" + nectere "绑"）
@@ -131,8 +131,9 @@ con-(=together, 共同) + [[nect]](=bind, 绑) → 共同绑在一起→连接
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new highway is designed to connect the remote village with the major cities in the region."（这条新建高速公路旨在将偏远村庄与该地区的主要城市连接起来。）——考研高频表达
-> - "Researchers are trying to connect the findings of various studies to form a more complete picture of the phenomenon."（研究人员正试图将各项研究的结果联系起来，以形成对这一现象更完整的认识。）——考研高频表达
+> - The new highway is designed to connect the remote village with the major cities in the region. `[COCA-ACAD]`
+> - Researchers are trying to connect the findings of various studies to form a more complete picture of the phenomenon. `[COCA-ACAD]`
+> - More and more people can connect to the Internet through mobile devices. `[例]`
 ---
 
 

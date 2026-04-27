@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①组成部分，成分 ; ==**②组件，元件**== ;
-**adj.** ①组成的，构成的 ;
+**n.** ①组成部分，成分 `a adj N` / `N of N` ; ==**②组件，元件**== `a adj N` ;
+**adj.** ①组成的，构成的 `a adj N` ;
 
 > [!tip] 原型义
 > **原型义**：组成部分，成分（构成整体的各个部分）
@@ -126,8 +126,9 @@ com-(共同，一起) + [[pon/pos]](放置) + -ent(名词/形容词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Each component of the system must be tested individually before assembly."（系统的每个组件在组装前都必须单独测试。）——考研高频表达
-> - "Hard work and determination are essential components of success."（努力和决心是成功的重要组成部分。）——考研高频表达
+> - Each component of the system must be tested individually before assembly. `[COCA-ACAD]`
+> - Hard work and determination are essential components of success. `[COCA-MAG]`
+> - Trust is a key component of any successful relationship. `[例]`
 
 ---
 

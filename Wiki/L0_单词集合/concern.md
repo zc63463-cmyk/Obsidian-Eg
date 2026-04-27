@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**涉及，关系到**== ; ②==**使担心，使关心**== ;
-**n.** ①==**关心，担忧**== ; ②==**关心的事，关切的事**== ; ③==**企业，公司**== ;
+**vt.** ①==**涉及，关系到**== `V N` ; ②==**使担心，使关心**== `V N` ;
+**n.** ①==**关心，担忧**== `N about N` ; ②==**关心的事，关切的事**== `a N` ; ③==**企业，公司**== `a N` ;
 **vi.** 关心，担心 ;
 
 > [!tip] 原型义
@@ -142,9 +142,9 @@ con-(一起) + cern(筛选、区分) = concern（把心筛选到一起 → 关�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is growing concern about the impact of climate change on biodiversity."（人们对气候变化对生物多样性的影响日益关注。）——考研高频表达
-> - "The issue of environmental pollution is a matter of public concern."（环境污染问题是公众关切的问题。）——考研高频表达
-> - "As far as I am concerned, the new policy will benefit everyone in the long run."（就我而言，新政策从长远来看将使每个人受益。）——考研高频表达
+> - "There is growing concern about the impact of climate change on biodiversity." `[COCA-ACAD]`
+> - "The issue of environmental pollution is a matter of public concern." `[例]`
+> - "As far as I am concerned, the new policy will benefit everyone in the long run." `[例]`
 
 ---
 

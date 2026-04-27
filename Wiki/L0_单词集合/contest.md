@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**竞赛；比赛**== ; ②==**争夺；竞争**==
-**v.** ①==**争夺；竞争**== ; ②==**质疑；辩驳**==
+**n.** ①==**竞赛；比赛**== `N contest` ; ②==**争夺；竞争**== `contest for N`
+**v.** ①==**争夺；竞争**== `contest N` ; ②==**质疑；辩驳**== `contest a decision/N`
 
 > [!tip] 原型义
 > **原型义**：互相拉扯、竞争（在法庭或赛场上互相拉扯）
@@ -132,8 +132,9 @@ con-(共同/一起) + [[tract]](to pull/拉扯) + -est(后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The election contest between the two candidates was one of the closest in the nation's history."（两位候选人之间的选举竞争是该国历史上最激烈的之一。）——考研高频表达
-> - "Several groups have contested the government's decision to build the highway through the forest."（几个团体对政府决定在森林中修建高速公路的做法提出了质疑。）——考研高频表达
+> - The election contest between the two candidates was one of the closest in the nation's history. `[COCA-ACAD]`
+> - Several groups have contested the government's decision to build the highway through the forest. `[COCA-ACAD]`
+> - She won first prize in the national speech contest. `[例]`
 ---
 
 

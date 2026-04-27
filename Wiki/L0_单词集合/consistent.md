@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ① ==**一致的，始终如一的**== ; ② 坚持的，连贯的
+**adj.** ① ==**一致的，始终如一的**== `be consistent with N; consistent in N` ; ② ==**坚持的，连贯的**== `be consistent in V-ing`
 
 > [!tip] 原型义
 > **原型义**：一致的，始终如一的
@@ -122,8 +122,9 @@ con-（一起）+ [[sist|sist-]]（站立）+ -ent（形容词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The results are consistent with previous findings in the field."（这些结果与该领域先前的研究发现一致。）——考研高频表达
-> - "He has been consistent in his opposition to the new policy."（他一直坚持反对新政策。）——考研高频表达
+> - "The results are consistent with previous findings in the field." `[真题]`
+> - "He has been consistent in his opposition to the new policy." `[真题]`
+> - "Consistent exercise is essential for maintaining good health." `[COCA-ACAD]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ① ==**组成的，构成的**== ; ② 有宪法制定权的
-**n.** ① 成分，要素；② 选民
+**adj.** ① ==**组成的，构成的**== `constituent N` ; ② ==**有宪法制定权的**== `constituent assembly`
+**n.** ① ==**成分，要素**== `a constituent of N` ; ② ==**选民**== `constituents`
 
 > [!tip] 原型义
 > **原型义**：组成的，构成的
@@ -123,8 +123,9 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -u-（连接元音）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The basic compact underlying representative government assumes that public officials will hear from their constituents and act on their concerns."（代议制政府的基本契约假设，公职人员会听取选民的意见并根据他们的关切采取行动。）——2017考研英语一Text4
-> - "Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity."（下载和消费文化需要高超的技能，但如果不能超越下载，就等于剥夺了人类的一个决定性要素。）——2012考研英语一Text3
+> - "The basic compact underlying representative government assumes that public officials will hear from their constituents and act on their concerns." `[真题]`
+> - "Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity." `[真题]`
+> - "Hydrogen and oxygen are the constituent elements of water." `[COCA-ACAD]`
 
 ---
 

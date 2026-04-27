@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**复杂的；难懂的**==；②复合的；
-**n.** ①综合体；复合体；②情结；③建筑群；
+**adj.** ①==**复杂的；难懂的**== `a adj N` / `be adj`；②复合的；
+**n.** ①综合体；复合体 `a adj N`；②情结；③建筑群；
 
 > [!tip] 原型义
 > **原型义**：编织在一起的——多个部分交织纠缠
@@ -133,8 +133,9 @@ com-(共同/一起) + plex(编织、折叠) → 编织在一起
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The relationship between economic growth and environmental protection is highly complex.（经济增长与环境保护之间的关系非常复杂。）
-> - The apartment complex includes a swimming pool and a fitness center.（这个公寓综合体包括游泳池和健身中心。）
+> - The relationship between economic growth and environmental protection is highly complex. `[例]`
+> - The apartment complex includes a swimming pool and a fitness center. `[例]`
+> - Climate change is a complex issue requiring global cooperation. `[COCA-ACAD]`
 
 ---
 

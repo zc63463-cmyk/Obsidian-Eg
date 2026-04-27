@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ① ==**宪法**== ; ② 构成，组成；③ 体质，体格
+**n.** ① ==**宪法**== `the Constitution; amend a constitution` ; ② ==**构成，组成**== `the constitution of N` ; ③ ==**体质，体格**== `a strong/weak constitution`
 
 > [!tip] 原型义
 > **原型义**：宪法
@@ -123,8 +123,9 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ution（名词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The constitution guarantees every citizen the right to freedom of speech and assembly."（宪法保障每个公民享有言论自由和集会自由的权利。）——考研高频表达
-> - "The new law was declared unconstitutional by the Supreme Court."（新法律被最高法院宣布为违宪。）——考研高频表达
+> - "The constitution guarantees every citizen the right to freedom of speech and assembly." `[真题]`
+> - "The new law was declared unconstitutional by the Supreme Court." `[真题]`
+> - "She has a robust constitution that allows her to work long hours without fatigue." `[COCA-ACAD]`
 
 ---
 

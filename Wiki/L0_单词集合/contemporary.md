@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**当代的；现代的**== ; ②==**同时代的**==
-**n.** ①==**同龄人；同代人**==
+**adj.** ①==**当代的；现代的**== `adj. N` ; ②==**同时代的**== `be contemporary with N`
+**n.** ①==**同龄人；同代人**== `one's contemporaries`
 
 > [!tip] 原型义
 > **原型义**：同时代的（在同一时间存在的人或事物）
@@ -129,8 +129,9 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Sales of contemporary art fell by two-thirds, and in the most overheated sector — for Chinese contemporary art — they were down by nearly 90% in the year to November."（当代艺术品的销售额下降了三分之二，而在最过热的领域——中国当代艺术——截至11月的一年内下降了近90%。）——2010年考研英语二Text1
-> - "A visitor from Rome would have recognized its owner as a participant in the contemporary culture of the empire."（来自罗马的游客会认为其主人是帝国当代文化的参与者。）——考研高频表达
+> - Sales of contemporary art fell by two-thirds, and in the most overheated sector — for Chinese contemporary art — they were down by nearly 90% in the year to November. `[真题]`
+> - A visitor from Rome would have recognized its owner as a participant in the contemporary culture of the empire. `[COCA-ACAD]`
+> - She is interested in contemporary dance and often attends performances at the local theater. `[例]`
 
 ---
 

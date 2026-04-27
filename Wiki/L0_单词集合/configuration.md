@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**配置，布局**== ; ②==**构型，结构**== ; ③==**外形，形状**==
+**n.** ①==**配置，布局**== `N of N` `adj N` ; ②==**构型，结构**== `N of N` ; ③==**外形，形状**== `N of N`
 
 > [!tip] 原型义
 > **原型义**：塑造成某种形状（把各部分安排成特定形态）
@@ -129,8 +129,9 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The configuration of the computer system has been optimized for faster data processing."（计算机系统的配置已针对更快的数据处理进行了优化。）——考研高频表达
-> - "The political configuration of Europe changed dramatically after World War II."（二战后欧洲的政治格局发生了巨大变化。）——考研高频表达
+> - The configuration of the computer system has been optimized for faster data processing. `[COCA-ACAD]`
+> - The political configuration of Europe changed dramatically after World War II. `[COCA-ACAD]`
+> - The software requires a specific system configuration to run properly. `[例]`
 
 ---
 

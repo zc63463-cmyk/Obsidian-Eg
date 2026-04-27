@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**简明的，简洁的，言简意赅的**== ;
+**adj.** ①==**简明的，简洁的，言简意赅的**== `adj N` ;
 
 > [!tip] 原型义
 > **原型义**：切到一起，把多余的部分切掉，只留精华
@@ -127,8 +127,9 @@ con-(加强/一起) + -cise(切割) = concise（切到一起 → 切掉多余 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please provide a concise summary of the main points discussed in the meeting."（请提供一份会议讨论要点的简明摘要。）——考研高频表达
-> - "His writing style is remarkably concise, conveying complex ideas in just a few words."（他的写作风格非常简洁，用寥寥数语就能传达复杂的思想。）——考研高频表达
+> - "Please provide a concise summary of the main points discussed in the meeting." `[例]`
+> - "His writing style is remarkably concise, conveying complex ideas in just a few words." `[例]`
+> - "The report should be concise and to the point, avoiding unnecessary details." `[COCA-ACAD]`
 
 ---
 

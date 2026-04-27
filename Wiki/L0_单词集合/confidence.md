@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**信心，自信**== ; ②==**信任，信赖**== ; ③==**秘密，机密**==（in confidence）
+**n.** ①==**信心，自信**== `have confidence in N` ; ②==**信任，信赖**== `place confidence in N` ; ③==**秘密，机密**== `in confidence`
 
 > [!tip] 原型义
 > **原型义**：深深地信任（对某人或某事完全信赖）
@@ -127,9 +127,9 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Readers must have confidence in the conclusions published in our journal," writes McNutt in an editorial.（"读者们一定要相信我们杂志发布的结论，"McNutt在一篇社评中写道。）——2015年阅读Part A
-> - "Individuals and organizations can complete online transactions with confidence, trusting the identities of each other."（个人和组织可以满怀信心地完成在线交易，信任彼此的身份。）——2011年完形填空
-> - "Since fewer than half of Americans say they cook at an intermediate level and only 20% describe their cooking skills as advanced, the crisis is one of confidence."（由于不到一半的美国人说自己具备中等烹饪水平，只有20%的人自认为厨艺精湛，这场危机归根结底是信心危机。）——考研高频表达
+> - "Readers must have confidence in the conclusions published in our journal," writes McNutt in an editorial. `[真题]`
+> - Individuals and organizations can complete online transactions with confidence, trusting the identities of each other. `[真题]`
+> - Since fewer than half of Americans say they cook at an intermediate level and only 20% describe their cooking skills as advanced, the crisis is one of confidence. `[真题]`
 ---
 
 
