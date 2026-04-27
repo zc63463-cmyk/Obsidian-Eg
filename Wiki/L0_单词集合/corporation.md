@@ -127,9 +127,9 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - Many multinational corporations have established branches in China. `` `[真题]` ``
-> - International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. `` `[真题]` ``
-> - The corporation was founded in 1920 and has since grown into a global enterprise. `` `[例]` ``
+> - Many multinational corporations have established branches in China. `[真题]`
+> - International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. `[真题]`
+> - The corporation was founded in 1920 and has since grown into a global enterprise. `[例]`
 
 ---
 
