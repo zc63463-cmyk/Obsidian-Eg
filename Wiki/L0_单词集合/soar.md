@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**猛增；急剧上升**==；②==**高飞；翱翔**==；③升腾；
+**vi.** ①==**猛增；急剧上升**== `soaring prices / soar to 10%`；②==**高飞；翱翔**== `eagles soaring above / soar like an eagle`；③升腾；
 
 > [!tip] 原型义
 > **原型义**：像鸟一样向高处飞翔
@@ -119,8 +119,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The price of housing has soared in recent years, making it difficult for young people to afford a home."（近年来房价飙升，使得年轻人难以负担住房。）——考研高频表达
-> - "The number of internet users has soared since the widespread adoption of smartphones."（随着智能手机的普及，互联网用户数量激增。）——考研高频表达
+> - There are already acute shortages of imported goods and soaring inflation for basic foodstuffs. `[COCA-NEWS]`
+> - But infections have soared in recent weeks. `[COCA-NEWS]`
+> - The price of housing has soared in recent years, making it difficult for young people to afford a home. `[真题]`
+> - The number of internet users has soared since the widespread adoption of smartphones. `[真题]`
 
 
 ---

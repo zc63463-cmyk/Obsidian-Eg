@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使分离，分开**== ; ②区分，辨别
-**adj.** ①==**分开的，单独的**== ; ②各自的，独立的
+**v.** ①==**使分离，分开**== `separate A from B` ; ②区分，辨别 `separate...into...`
+**adj.** ①==**分开的，单独的**== `separate rooms/entrances` ; ②各自的，独立的
 
 > [!tip] 原型义
 > **原型义**：分开、分离（将整体拆分为部分）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One reason is that liberal-arts education and professional education should be kept separate, taught in different schools."（一个原因是文科教育和专业教育应该分开，在不同的学院教授。）——2011考研阅读Text1
-> - "The two issues should be treated as separate problems."（这两个问题应该作为独立的问题来处理。）——考研高频表达
+> 1. One reason is that liberal-arts education and professional education should be kept separate, taught in different schools. `[真题]`
+> 2. The two issues should be treated as separate problems. `[真题]`
+> 3. The authorities say six civilians have been killed in two separate attacks. `[COCA-NEWS]`
+> 4. The main group separated into several smaller groups to cover more ground. `[COCA-ACAD]`
 
 ---
 

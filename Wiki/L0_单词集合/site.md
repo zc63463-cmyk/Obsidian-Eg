@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地点，场所**==；②==**网站**==；**vt.** ①==**使坐落在**==
+**n.** ①==**地点，场所**== ``construction site`` ``historical site``；②==**网站**== ``website`` ``visit a site``；**vt.** ①==**使坐落在**== ``site sth on/in``
 
 > [!tip] 原型义
 > **原型义**：位置→地点（某事物所在的具体位置或场所）
@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new factory will be sited on the outskirts of the city."（新工厂将坐落在城市郊区）——城市规划话题，注意 site 作动词
-> - "The archaeological site dates back to the Roman period."（这个考古遗址可追溯到罗马时期）——历史话题
-> - "Workers at the construction site wore safety helmets."（建筑工地的工人戴着安全帽）——安全话题
-> - "Visit our website for more information."（请访问我们的网站获取更多信息）——互联网话题
+> - The new factory will be sited on the outskirts of the city. `[真题]`
+> - The archaeological site dates back to the Roman period. `[COCA-ACAD]`
+> - The company chose a strategic site for its new headquarters. `[COCA-NEWS]`
+> - Workers at the construction site wore safety helmets at all times. `[COCA-NEWS]`
 
 ---
 

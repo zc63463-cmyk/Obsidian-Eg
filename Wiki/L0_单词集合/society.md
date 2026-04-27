@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**社会**==（人类共同生活的集体）；②协会，社团；③上流社会，社交界；
+**n.** ①==**社会**== `modern society / society at large`（人类共同生活的集体）；②协会，社团 `the Red Cross Society / a learned society`；③上流社会，社交界 `high society / polite society`；
 
 > [!tip] 原型义
 > **原型义**：由同伴（soci）结成的人类集体
@@ -126,8 +126,10 @@ soci（同伴、结交）+ -ety（名词后缀，表状态或组织）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In a rapidly changing society, traditional values are constantly being challenged."（在一个快速变化的社会中，传统价值观不断受到挑战。）——考研高频表达
-> - "The role of education in shaping modern society cannot be overstated."（教育在塑造现代社会中的作用怎么强调都不为过。）——考研高频表达
+> - These fraudsters are preying on the poorest and the most vulnerable people in society. `[COCA-NEWS]`
+> - The prime growth engine of capitalist societies is innovation. `[COCA-ACAD]`
+> - In a rapidly changing society, traditional values are constantly being challenged. `[真题]`
+> - The role of education in shaping modern society cannot be overstated. `[真题]`
 
 
 ---

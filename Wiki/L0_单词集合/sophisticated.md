@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**复杂的、精密的**== ; ②老练的、见过世面的 ; ③高雅的、有品位的
+**adj.** ①==**复杂的、精密的**== `sophisticated technology / sophisticated equipment` ; ②老练的、见过世面的 `a sophisticated consumer / a sophisticated young man` ; ③高雅的、有品位的 `sophisticated taste`
 
 > [!tip] 原型义
 > **原型义**：复杂的、精密的（技术或系统经过精心设计、层次丰富）
@@ -128,8 +128,10 @@ soph（建议创建词根笔记 [[soph]]，含义：智慧、聪明）+ -ist（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Today's sophisticated consumers demand higher quality products."（当今成熟的消费者要求更高质量的产品。）——考研阅读真题
-> - "The company has developed sophisticated technology for data analysis."（该公司已经开发了精密的数据分析技术。）——考研高频表达
+> - I think a more sophisticated approach is needed to solve this problem. `[COCA-ACAD]`
+> - These are among the most sophisticated weapons in the world. `[COCA-NEWS]`
+> - Today's sophisticated consumers demand higher quality products. `[真题]`
+> - The company has developed sophisticated technology for data analysis. `[真题]`
 
 ---
 

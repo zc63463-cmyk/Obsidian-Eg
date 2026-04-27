@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**重要的，意义重大的**==；②==**显著的，明显的**==；③==**有意义的，意味深长的**==；（统计学）显著的；
+**adj.** ①==**重要的，意义重大的**== `a significant contribution / play a significant role`；②==**显著的，明显的**== `a significant difference / a significant change`；③==**有意义的，意味深长的**== `a significant look / a significant silence`；（统计学）显著的；
 
 > [!tip] 原型义
 > **原型义**：值得标记的（值得用 sign 标记出来的）
@@ -136,9 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Internet has brought about significant changes in the way people communicate."（考研英语——互联网给人们的交流方式带来了显著变化。）
-> - "A significant number of students chose to study abroad after graduation."（考研英语——相当数量的学生选择毕业后出国留学。）
-> - "The research findings were statistically significant."（CET-6——研究结果具有统计显著性。）
+> - A significant number of customers complained about the service. `[COCA-ACAD]`
+> - The study found a statistically significant decrease in symptoms in patients who had taken the drug. `[COCA-ACAD]`
+> - Fish is a significant part of their diet. `[COCA-ACAD]`
+> - It is significant that she never mentioned him. `[COCA-ACAD]`
 
 ---
 

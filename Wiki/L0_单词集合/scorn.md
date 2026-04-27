@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**轻蔑，鄙视**==；②==**嘲笑，嘲弄**==；③==**被鄙视的对象**==；
-**vt.** ①==**轻蔑，鄙视**==；②==**拒绝，不屑于**==；
+**n.** ①==**轻蔑，鄙视**== `heap scorn on / pour scorn on`；②==**嘲笑，嘲弄**== `laugh sb. to scorn`；③==**被鄙视的对象**== `the scorn of society`；
+**vt.** ①==**轻蔑，鄙视**== `scorn sb./sth.`；②==**拒绝，不屑于**== `scorn to do sth.`；
 
 > [!tip] 原型义
 > **原型义**：嘲弄嘲笑以示鄙弃（通过言语或态度表达强烈的蔑视）
@@ -137,9 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "pour scorn on the idea"（对这个想法嗤之以鼻）——考研阅读常见搭配，描述对观点的否定态度
-> - "hold in scorn"（鄙视）——学术/社会类文本中描述社会态度
-> - "scorn to do sth."（不屑于做某事）——文学/政论类文本中描述拒绝态度
+> - For this was a disease that scorned all human frontiers. `[COCA-ACAD]`
+> - They are not a phenomenon to be understood, but objects of ridicule and scorn. `[COCA-ACAD]`
+> - The Disney press office has rightly poured scorn on these complaints. `[COCA-ACAD]`
+> - Hawker and his wife visited the sick each week and scorned their personal risk. `[COCA-ACAD]`
 
 ---
 

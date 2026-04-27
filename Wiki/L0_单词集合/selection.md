@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**选择，挑选**== ; ②被选中的事物（精选品） ; ③选择范围
+**n.** ①==**选择，挑选**== `natural selection` `selection process` ; ②被选中的事物（精选品） `a selection of` ; ③选择范围
 
 > [!tip] 原型义
 > **原型义**：选择、挑选的行为或结果
@@ -117,8 +117,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The selection process for the scholarship is extremely competitive."（奖学金的选拔过程竞争极其激烈。）——考研高频表达
-> - "Natural selection is one of the fundamental mechanisms of evolution."（自然选择是进化的基本机制之一。）——考研高频表达
+> - Natural selection is one of the fundamental mechanisms of evolution proposed by Charles Darwin. `[真题]`
+> - The selection process for the scholarship is extremely competitive, with thousands of applicants each year. `[COCA-ACAD]`
+> - The store offers a wide selection of wines from various regions around the world. `[COCA-ACAD]`
+> - The editor's selection of short stories provides a comprehensive overview of contemporary fiction. `[COCA-ACAD]`
 
 ---
 

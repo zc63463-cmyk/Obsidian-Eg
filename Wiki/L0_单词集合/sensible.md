@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**明智的，合理的**== ; ②可感觉到的，明显的
+**adj.** ①==**明智的，合理的**== `a sensible decision/approach/idea` ; ②可感觉到的，明显的
 
 > [!tip] 原型义
 > **原型义**：可感觉到的（能够被感官感知的）
@@ -119,8 +119,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them."（明智的想法早已存在，但管理该行业的州级机构过于保守，未能实施这些想法。）——考研真题
-> - "That would be a more sensible way of dealing with the problem."（那将是处理这个问题的更明智的方式。）——考研高频表达
+> 1. Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them. `[真题]`
+> 2. That would be a more sensible way of dealing with the problem. `[真题]`
+> 3. I think the sensible thing to do is to call and ask for directions before we get lost. `[COCA-ACAD]`
+> 4. She is a sensible sort of person who always considers the consequences before acting. `[COCA-ACAD]`
 
 ---
 

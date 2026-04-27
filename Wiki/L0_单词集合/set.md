@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**放，置，设置**== ; ②==**设定，确立**== ; ③==**使开始，使着手**== ; ④==**（日、月）落山**== ;
-**vi.** ①==**（日、月）落山**== ; ②==**凝固，凝结**== ;
-**n.** ①==**一套，一组**== ; ②==**集合**== ; ③==**布景**== ;
-**adj.** ①==**固定的，不变的**== ;
+**vt.** ①==**放，置，设置**== `set a table/goal`; ②==**设定，确立**== `set a standard/limit`; ③==**使开始，使着手**== `set out to do sth`; ④==**（日、月）落山**== `the sun sets`;
+**vi.** ①==**（日、月）落山**== `set below the horizon`; ②==**凝固，凝结**== `the cement sets`;
+**n.** ①==**一套，一组**== `a set of rules/tools`; ②==**集合**== `a data set`; ③==**布景**== `stage set`;
+**adj.** ①==**固定的，不变的**== `a set routine/menu`;
 
 > [!tip] 原型义
 > **原型义**：使某物处于特定位置或状态
@@ -140,8 +140,9 @@ set ← 古英语 settan（使坐、放置）← 原始日耳曼语 *satjan（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has set strict limits on carbon emissions."（政府对碳排放设定了严格的限制。）——考研高频表达
-> - "A clear set of rules and regulations is essential for any organization."（一套明确的规章制度对任何组织来说都是必不可少的。）——考研高频表达
+> - `The government has set strict limits on carbon emissions.` `[真题]`
+> - `A clear set of rules and regulations is essential for any organization.` `[COCA-ACAD]`
+> - `The code prohibits child labor and sets out standards for time off and safe working conditions.` `[COCA-ACAD]`
 
 ---
 

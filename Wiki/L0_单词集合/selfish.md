@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**自私的，利己的**==；
+**adj.** ①==**自私的，利己的**== `selfish behavior` `selfish motives`；
 
 > [!tip] 原型义
 > **原型义**：只关注自己的（过度关注自身利益，忽视他人需求）
@@ -124,9 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Selfish behavior can undermine social cohesion and trust among community members."（考研英语——自私行为会削弱社会凝聚力和社区成员间的信任）
-> - "The author argues that human beings are not inherently selfish, but are shaped by their environment."（考研英语——作者认为人类并非天生自私，而是受环境塑造）
-> - "Putting selfish interests above the common good is a threat to democratic society."（考研英语——将私利置于公共利益之上是对民主社会的威胁）
+> - Selfish behavior can undermine social cohesion and trust among community members. `[真题]`
+> - The author argues that human beings are not inherently selfish, but are shaped by their environment. `[COCA-ACAD]`
+> - It is a major disservice and betrayal of trust when public officials place their own selfish interests over the communities they serve. `[COCA-ACAD]`
+> - Littering, whether dropped on the ground or thrown from vehicles, is caused by a few selfish people. `[COCA-ACAD]`
 
 ---
 

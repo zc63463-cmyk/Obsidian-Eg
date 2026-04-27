@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**顺序，次序**== ; ②==**连续，一系列**== ; ③（数学）数列
+**n.** ①==**顺序，次序**== `in sequence` ; ②==**连续，一系列**== `a sequence of events` ; ③（数学）数列
 
 > [!tip] 原型义
 > **原型义**：顺序、次序（事物按照一定规律排列的先后关系）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The exact sequence of events remains uncertain."（事件的确切顺序仍不确定。）——考研真题
-> - "Experts suggest that speech stages are reached in a fixed sequence."（专家认为语言发展阶段是按固定顺序达到的。）——考研真题
+> 1. The exact sequence of events remains uncertain. `[真题]`
+> 2. Experts suggest that speech stages are reached in a fixed sequence. `[真题]`
+> 3. A sequence of events since last spring made a showdown over these issues almost inevitable. `[COCA-ACAD]`
+> 4. The project is nothing less than mapping every gene sequence in the human body. `[COCA-ACAD]`
 
 ---
 

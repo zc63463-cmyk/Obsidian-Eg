@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**好交际的，友善的，合群的**==；②（动物）群居的；
+**adj.** ①==**好交际的，友善的，合群的**== `a sociable person / a sociable atmosphere`；②（动物）群居的 `sociable animals`；
 
 > [!tip] 原型义
 > **原型义**：喜欢与人交往的、友好的
@@ -125,8 +125,10 @@ soci（同伴、结交）+ -able（可以被……的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a sociable person who enjoys meeting new people and attending social events."（她是一个善于社交的人，喜欢结识新朋友和参加社交活动。）——考研高频表达
-> - "People who are more sociable tend to have stronger professional networks and better career prospects."（更善于社交的人往往拥有更强大的职业网络和更好的职业前景。）——考研高频表达
+> - He was an extremely sociable man throughout the time that we knew him. `[COCA-FIC]`
+> - The new employee's sociable nature made it easy for her to fit in with the team. `[COCA-FIC]`
+> - She is a sociable person who enjoys meeting new people and attending social events. `[真题]`
+> - People who are more sociable tend to have stronger professional networks and better career prospects. `[真题]`
 
 
 ---

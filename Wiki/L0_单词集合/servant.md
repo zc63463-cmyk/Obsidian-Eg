@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**仆人，佣人**== ; ②==**公务员，公仆**== ; ③==**（…的）工具**== ;
+**n.** ①==**仆人，佣人**== `a household servant`; ②==**公务员，公仆**== `civil servant`; ③==**（…的）工具**== `a servant of sth`;
 
 > [!tip] 原型义
 > **原型义**：为他人服务的人，在他人家中工作的人
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Civil servants are expected to serve the public interest above all else."（公务员被期望将公共利益置于一切之上。）——考研高频表达
-> - "Technology should be a servant of humanity, not its master."（技术应该为人类服务，而不是控制人类。）——考研高频表达
+> - `Like all public servants they are subject to a pay freeze.` `[COCA-NEWS]`
+> - `A high-ranking civil servant was imprisoned for leaking a document to the press.` `[COCA-NEWS]`
+> - `The police are there as public servants.` `[COCA-NEWS]`
 
 ---
 

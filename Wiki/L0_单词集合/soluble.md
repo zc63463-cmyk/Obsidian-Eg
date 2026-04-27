@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可溶的，可溶解的**==（化学）；②可解决的，可解答的（问题）；
+**adj.** ①==**可溶的，可溶解的**== `soluble in water / soluble fiber`（化学）；②可解决的，可解答的 `a soluble problem`（问题）；
 
 > [!tip] 原型义
 > **原型义**：可以被松开/释放的 → 可溶解的
@@ -122,8 +122,10 @@ solu（松开、释放）+ -ble（可以被……的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The substance is soluble in water but not in alcohol."（该物质溶于水但不溶于酒精。）——考研高频表达
-> - "Many environmental problems are soluble if we take collective action."（如果我们采取集体行动，许多环境问题是可以解决的。）——考研高频表达
+> - Oats contain a healthy soluble fibre which helps to lower harmful cholesterol in the blood. `[COCA-ACAD]`
+> - Sodium cyanide is also highly soluble in water and it can react vigorously to produce the gas hydrogen cyanide. `[COCA-ACAD]`
+> - The substance is soluble in water but not in alcohol. `[真题]`
+> - Many environmental problems are soluble if we take collective action. `[真题]`
 
 
 ---

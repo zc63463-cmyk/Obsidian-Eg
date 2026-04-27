@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**卖；出售**==；②==**推销**==；③出卖；**vi.** ①销售；②受欢迎；
+**vt.** ①==**卖；出售**== `sell sth. to sb.` `sell products`；②==**推销**== `sell an idea` `sell oneself`；③出卖；**vi.** ①销售；②受欢迎；
 
 > [!tip] 原型义
 > **原型义**：给予（物品）以换取金钱
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Companies that fail to adapt to changing consumer preferences may struggle to sell their products."（无法适应消费者偏好变化的公司可能难以销售其产品。）——考研高频表达
-> - "The idea of selling personal data to third parties has raised serious privacy concerns."（将个人数据出售给第三方的想法引发了严重的隐私担忧。）——考研高频表达
+> - Companies that fail to adapt to changing consumer preferences may struggle to sell their products. `[真题]`
+> - The idea of selling personal data to third parties has raised serious privacy concerns. `[COCA-ACAD]`
+> - The concert tickets sold out within minutes of going on sale online. `[COCA-ACAD]`
+> - She had to sell herself during the job interview, highlighting her unique skills and experience. `[COCA-ACAD]`
 
 
 ---

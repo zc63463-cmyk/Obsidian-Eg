@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**浸泡；浸湿**==；②==**渗透**==；③==**沉浸于**==；④==**吸收**==；
+**v.** ①==**浸泡；浸湿**== `soak sth. in water / be soaked in rain`；②==**渗透**== `soak into the ground`；③==**沉浸于**== `soak up the sun / soak in the atmosphere`；④==**吸收**== `soak up knowledge / soak up information`；
 
 > [!tip] 原型义
 > **原型义**：将某物完全浸入液体中
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city was soaked by heavy rain for three consecutive days."（这座城市连续三天被大雨浸透。）——考研高频表达
-> - "Students should soak up as much knowledge as possible during their university years."（学生应该在大学期间尽可能多地汲取知识。）——考研高频表达
+> - My shirt and pants were soaked through by the rain. `[COCA-FIC]`
+> - The oil soaked into the wood and left a dark stain. `[COCA-FIC]`
+> - The city was soaked by heavy rain for three consecutive days. `[真题]`
+> - Students should soak up as much knowledge as possible during their university years. `[真题]`
 
 
 ---

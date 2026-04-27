@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**严重的，重大的**== ; ②==**严肃的，认真的**== ; ③（疾病等）危重的
+**adj.** ①==**严重的，重大的**== `a serious problem/threat`; ②==**严肃的，认真的**== `take sth seriously`; ③（疾病等）危重的 `a serious illness/condition`;
 
 > [!tip] 原型义
 > **原型义**：严肃的、认真的（态度庄重、不轻浮）
@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change poses a serious threat to the future of the planet."（气候变化对地球的未来构成了严重威胁。）——考研高频表达
-> - "The government should take this problem seriously."（政府应该认真对待这个问题。）——考研高频表达
-> - "There is a serious risk of contamination from radioactive waste."（放射性废弃物有严重污染的危险。）——考研阅读高频表达
+> - `Crime is an increasingly serious problem in modern society.` `[COCA-ACAD]`
+> - `The story raises serious questions about our system of justice.` `[COCA-ACAD]`
+> - `He's been taken to the hospital where his condition is described as serious but stable.` `[COCA-NEWS]`
 
 ---
 

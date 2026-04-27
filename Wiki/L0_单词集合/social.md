@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**社会的，与社会相关的**==；②社交的，交际的；③群居的（动物）；④**n.** 联欢会，社交聚会；
+**adj.** ①==**社会的，与社会相关的**== `social problems / social change / social structure`；②社交的，交际的 `social skills / social media / social life`；③群居的（动物）`social animals / social insects`；④**n.** 联欢会，社交聚会 `a church social`；
 
 > [!tip] 原型义
 > **原型义**：与人类社会（同伴集体）相关的
@@ -133,8 +133,10 @@ soci（同伴、结交）+ -al（与……有关的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Social media has fundamentally changed the way people communicate and share information."（社交媒体从根本上改变了人们交流和分享信息的方式。）——考研高频表达
-> - "The government should take measures to address the growing gap between different social classes."（政府应采取措施解决不同社会阶层之间日益扩大的差距。）——考研高频表达
+> - Alcoholism is a major social problem in many countries. `[COCA-ACAD]`
+> - Social media has fundamentally changed the way people communicate and share information. `[真题]`
+> - The government should take measures to address the growing gap between different social classes. `[真题]`
+> - Good social skills are essential in the workplace. `[COCA-FIC]`
 
 
 ---

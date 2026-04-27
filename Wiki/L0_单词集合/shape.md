@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**形状、外形**== ; ②状况、状态
-**v.** ①塑造、决定……的形成 ; ②==**影响……的发展**==
+**n.** ①==**形状、外形**== `the shape of sth` ; ②状况、状态 `in good/bad shape`
+**v.** ①塑造、决定……的形成 `shape sth into` ; ②==**影响……的发展**== `shape one's future / shape policy`
 
 > [!tip] 原型义
 > **原型义**：形状、外形（物体在空间中的轮廓）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Technology is shaping the way we communicate and interact with each other."（科技正在塑造我们交流和互动的方式。）——考研阅读真题
-> - "The economic downturn has shaped public opinion on government spending."（经济衰退已经塑造了公众对政府支出的看法。）——考研高频表达
+> - Technology is shaping the way we communicate and interact with each other. `[真题]`
+> - The economic downturn has shaped public opinion on government spending. `[真题]`
+> - The reconstruction work is beginning clearly to take shape. `[COCA-ACAD]`
+> - Education plays a crucial role in shaping a child's future. `[COCA-ACAD]`
 
 ---
 

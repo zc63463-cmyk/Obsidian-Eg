@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**重要性，重大意义**==；②==**含义，意义**==；③显著性；
+**n.** ①==**重要性，重大意义**== `of great significance / attach significance to`；②==**含义，意义**== `the full significance of / practical significance`；③显著性；
 
 > [!tip] 原型义
 > **原型义**：值得标记的意义（值得用 sign 标记出来的重要性）
@@ -132,9 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The significance of this research lies in its potential to cure rare diseases."（考研英语——这项研究的重大意义在于它治愈罕见疾病的潜力。）
-> - "The full significance of the policy change may not be apparent for years."（CET-6——这项政策变化的全部意义可能要过几年才会显现。）
-> - "Scientists attach great significance to the discovery of the new particle."（考研英语——科学家们对这一新粒子的发现给予了高度重视。）
+> - This is a fact of considerable significance. `[COCA-ACAD]`
+> - The historical significance of the Declaration of Independence is widely recognized. `[COCA-ACAD]`
+> - They failed to appreciate the true significance of these discoveries. `[COCA-ACAD]`
+> - The results of the study have a wider significance for all the profession. `[COCA-ACAD]`
 
 ---
 

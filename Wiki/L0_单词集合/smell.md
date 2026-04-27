@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**闻到；嗅出**==；②==**察觉**==；**vi.** ①有（某种）气味；②散发气味；**n.** ①==**气味**==；②嗅觉；
+**vt.** ①==**闻到；嗅出**== `smell sth. / smell of sth.`；②==**察觉**== `smell trouble / smell a rat`；**vi.** ①有（某种）气味；②散发气味；**n.** ①==**气味**== `a bad smell / the smell of gas`；②嗅觉；
 
 > [!tip] 原型义
 > **原型义**：用鼻子感知气味
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Something smells fishy about this deal — the terms seem too good to be true."（这笔交易有些可疑——条件好得令人难以置信。）——考研高频表达
-> - "The smell of pollution from nearby factories has become a serious health concern for local residents."（附近工厂散发的污染气味已成为当地居民严重的健康隐患。）——考研高频表达
+> - I can smell trouble brewing in this situation. `[COCA-FIC]`
+> - When he offered the deal with no contract, I began to smell a rat. `[COCA-SPOKEN]`
+> - Something smells fishy about this deal — the terms seem too good to be true. `[真题]`
+> - The smell of pollution from nearby factories has become a serious health concern for local residents. `[真题]`
 
 
 ---

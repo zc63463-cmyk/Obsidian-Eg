@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**得分，分数**==；②==**二十**==；③==**乐谱，总谱**==；④==**刻痕，划痕**==；
-**vt.** ①==**得分，进球**==；②==**评分，记分**==；③==**刻痕于，划线于**==；④==**改编（乐曲）**==；
+**n.** ①==**得分，分数**== `a high score on the test / test scores`；②==**二十**== `four score and seven years ago`；③==**乐谱，总谱**== `a musical score`；④==**刻痕，划痕**==；
+**vt.** ①==**得分，进球**== `score a goal / score a point`；②==**评分，记分**== `score the test`；③==**刻痕于，划线于**==；④==**改编（乐曲）**== `score a film`；
 **vi.** ①得分；②记分；
 
 > [!tip] 原型义
@@ -143,9 +143,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Innovation is like soccer; even the best players miss the goal and have their shots blocked much more frequently than they score."（创新就像足球，即使是最出色的球员也会痛失进球机会，其射门被挡出的机会大大多于进球）——1994年考研阅读5
-> - "four score and seven years ago"（八十七年前）——林肯葛底斯堡演说，score = 20 的经典用法
-> - "test scores"（考试成绩）——考研阅读高频搭配，讨论教育评估体系
+> - Innovation is like soccer; even the best players miss the goal and have their shots blocked much more frequently than they score. `[真题]`
+> - Four score and seven years ago our fathers brought forth on this continent a new nation. `[真题]`
+> - She was thrilled with her high score on the test. `[COCA-ACAD]`
+> - The team worked hard to improve their score throughout the season. `[COCA-ACAD]`
 
 ---
 

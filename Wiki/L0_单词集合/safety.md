@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**安全**==（免受危险或伤害的状态）；②==**安全设施，安全装置**==（保障安全的设备）；③==**安全地带**==（安全的地方）；
-**adj.** ①==**安全的**==（不危险的）；
+**n.** ①==**安全**==（免受危险或伤害的状态）`public safety` / `safety first`；②==**安全设施，安全装置**==（保障安全的设备）`safety belt` / `safety measures`；③==**安全地带**==（安全的地方）`reach safety` / `a place of safety`；
+**adj.** ①==**安全的**==（不危险的）`safety standards` / `safety concerns`；
 
 > [!tip] 原型义
 > **原型义**：安全的状态（safe = 安全的，-ty = 状态 → 安全的状态）
@@ -140,11 +140,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Safety is our top priority."（安全是我们的首要任务）——常见表达
-> - "public safety concerns"（公共安全问题）——社会话题
-> - "safety regulations in the workplace"（工作场所的安全规定）——法律/社会话题
-> - "children's safety on the internet"（儿童上网安全）——科技/教育话题
-> - "there is safety in numbers"（人多势众/人多安全）——谚语
+> - The car has been redesigned for improved safety. `[COCA-NEWS]`
+> - The injured hiker was finally able to reach safety. `[COCA-NEWS]`
+> - There is concern about the safety of the new treatment as it has not yet been proven. `[COCA-ACAD]`
+> - Army aviators must adhere to strict safety standards, professionalism, and established flight regulations. `[COCA-NEWS]`
 
 ---
 

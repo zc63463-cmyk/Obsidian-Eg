@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**松弛的，不紧的**==；②==**懈怠的，懒散的**==；③==**萧条的，清淡的**==（商业）；
-**n.** ①==**松弛部分，松懈**==；②==**宽松部分（绳子等）**==；③==**淡季，萧条期**==；
-**v.** ①==**懈怠，放松**==；②==**放松（绳子等）**==；
+**adj.** ①==**松弛的，不紧的**== `a slack rope / slack muscles`；②==**懈怠的，懒散的**== `slack off / slack on the job`；③==**萧条的，清淡的**== `slack season / slack demand`（商业）；
+**n.** ①==**松弛部分，松懈**== `take up the slack`；②==**宽松部分（绳子等）**== `the slack of a rope`；③==**淡季，萧条期**== `the slack in the economy`；
+**v.** ①==**懈怠，放松**== `slack off / slacken one's pace`；②==**放松（绳子等）**== `slack the sheets`；
 
 > [!tip] 原型义
 > **原型义**：松弛的，不紧的（绳子没有拉紧的状态）
@@ -138,8 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The manager warned the employees not to slack off during the final weeks of the project."（经理警告员工在项目最后几周不要懈怠。）——考研高频表达
-> - "Demand for housing tends to slack off during the winter months."（冬季对住房的需求往往会放缓。）——考研高频表达
+> - Everyone slacks off at the end of the week. `[COCA-SPOKEN]`
+> - The manager warned the employees not to slack off during the final weeks of the project. `[真题]`
+> - When he didn't get the pay raise he was expecting, he had to take another job to pick up the slack. `[COCA-FIC]`
+> - Demand for housing tends to slack off during the winter months. `[真题]`
 
 
 ---

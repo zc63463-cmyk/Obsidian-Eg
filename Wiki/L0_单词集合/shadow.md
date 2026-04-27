@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**影子；阴影**==；②暗处，阴暗处；
-**v.** ①==**跟踪；尾随**==；②使暗淡，投阴影于；
-**adj.** 影子内阁的；
+**n.** ①==**影子；阴影**== `cast a shadow over/on` ; ②暗处，阴暗处 `in the shadow of`;
+**v.** ①==**跟踪；尾随**== `shadow sb` ; ②使暗淡，投阴影于 `cast a shadow over`;
+**adj.** 影子内阁的 `shadow cabinet`;
 
 > [!tip] 原型义
 > **原型义**：光被物体遮挡后在另一侧形成的暗区
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scandal cast a shadow over his political career."（这桩丑闻给他的政治生涯蒙上了阴影。）——考研高频表达
-> - "Many small businesses are operating in the shadow of large corporations."（许多小企业在大型企业的阴影下经营。）——考研高频表达
+> - The scandal cast a shadow over his political career. `[真题]`
+> - Many small businesses are operating in the shadow of large corporations. `[真题]`
+> - The tree cast a long shadow across the lawn. `[COCA-ACAD]`
+> - Police shadowed the suspect for several days before making the arrest. `[COCA-ACAD]`
 
 
 ---

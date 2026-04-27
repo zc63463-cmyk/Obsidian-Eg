@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**科学**==；②==**自然科学**==；③==**学科**==；④==**知识，学问**==（古义）；
+**n.** ①==**科学**== `modern science / science and technology`；②==**自然科学**== `natural science / a Bachelor of Science`；③==**学科**== `social sciences / computer science`；④==**知识，学问**==（古义）；
 
 > [!tip] 原型义
 > **原型义**：知识、辨别的能力（源自拉丁语 scientia，"知识、了解；专业技能"）
@@ -138,9 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "science and technology"（科学技术）——考研阅读极高频搭配，科技发展类话题
-> - "social sciences"（社会科学）——考研阅读中学术分类类话题
-> - "the advance of science"（科学的进步）——考研翻译/写作中常见表达
+> - The regulations ensure a peer-review scientific process so that the science is as good as any system can guarantee. `[COCA-ACAD]`
+> - Physics is the best example of a science which has developed strong, abstract theories. `[COCA-ACAD]`
+> - Their participation is based purely on their commitment to the development of science in the subregion. `[COCA-ACAD]`
+> - For the purposes of nutritional science, however, the calorie is too small a unit to be useful. `[COCA-ACAD]`
 
 ---
 

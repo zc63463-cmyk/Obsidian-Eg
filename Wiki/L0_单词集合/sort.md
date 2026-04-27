@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**种类；类别**==；②某一种人；
-**v.** ①==**分类；整理**==；②妥善处理；
+**n.** ①==**种类；类别**== `all sorts of / what sort of`；②某一种人 `he's not a bad sort`；
+**v.** ①==**分类；整理**== `sort out / sort by category`；②妥善处理 `sort out the problem`；
 
 > [!tip] 原型义
 > **原型义**：按类别将事物区分开来
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a new sort of technology emerging that could transform the way we work."（一种新型技术正在兴起，可能改变我们的工作方式。）——考研高频表达
-> - "The government needs to sort out the housing crisis before it gets worse."（政府需要在住房危机恶化之前加以解决。）——考研高频表达
+> - The movie appeals to all sorts of people. `[COCA-FIC]`
+> - They've been having all sorts of problems. `[COCA-SPOKEN]`
+> - There is a new sort of technology emerging that could transform the way we work. `[真题]`
+> - The government needs to sort out the housing crisis before it gets worse. `[真题]`
 
 
 ---

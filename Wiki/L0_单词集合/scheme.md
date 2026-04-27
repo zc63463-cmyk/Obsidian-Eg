@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**计划，方案**==；②==**体系，体制**==；③==**阴谋，诡计**==；
-**vi.** ①==**密谋，策划**==；②==**图谋**==；
+**n.** ①==**计划，方案**== `a pension scheme / a training scheme`；②==**体系，体制**== `a color scheme / a voting scheme`；③==**阴谋，诡计**== `a scheme to defraud`；
+**vi.** ①==**密谋，策划**== `scheme against someone`；②==**图谋**== `scheme for sth`；
 
 > [!tip] 原型义
 > **原型义**：形式、形状、外观（源自希腊语 skhēma，"事物的形式、图案"）
@@ -137,9 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a pension scheme"（养老金计划）——考研阅读中社会福利类话题高频搭配
-> - "a scheme to reduce carbon emissions"（减少碳排放的计划）——考研阅读中环保类话题
-> - "scheme against rivals"（密谋对付竞争对手）——考研阅读中商业/政治类话题
+> - The money will be used for teacher training schemes. `[COCA-ACAD]`
+> - The project is based on a successful pilot scheme in Glasgow. `[COCA-ACAD]`
+> - The government set up a new scheme to boost exports. `[COCA-ACAD]`
+> - There is a low-interest loan scheme for employees who have been with the company for over two years. `[COCA-ACAD]`
 
 ---
 

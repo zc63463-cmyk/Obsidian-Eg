@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**情况，形势**==；②==**位置**==；③==**处境**==
+**n.** ①==**情况，形势**== ``the current situation`` ``cope with the situation``；②==**位置**== ``the situation of the house``；③==**处境**== ``in a difficult situation`` ``find oneself in a situation``
 
 > [!tip] 原型义
 > **原型义**：所在的位置→情况（从"物理位置"引申为"所处的状态/形势"）
@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The current economic situation is improving gradually."（当前的经济形势正在逐步改善）——经济话题
-> - "She found herself in a difficult situation after losing her job."（失业后她发现自己陷入了困境）——个人处境
-> - "The situation in the Middle East remains tense."（中东局势依然紧张）——国际政治话题
-> - "We need to assess the situation before making a decision."（我们需要在做出决定之前评估形势）——决策语境
+> - The current economic situation is improving gradually. `[真题]`
+> - She found herself in a difficult situation after losing her job. `[COCA-FICT]`
+> - The objective economic situation did not provide many possibilities for public policy. `[COCA-ACAD]`
+> - We need to assess the situation before making a decision. `[COCA-NEWS]`
 
 ---
 

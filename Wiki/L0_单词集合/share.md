@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**分享、分担**== ; ②分配、分摊
-**n.** ①份、份额 ; ②==**股份**==
+**v.** ①==**分享、分担**== `share sth with sb` ; ②分配、分摊 `share the cost/burden`
+**n.** ①份、份额 `market share` ; ②==**股份**== `shareholder / buy shares`
 
 > [!tip] 原型义
 > **原型义**：分享、分担（将一份东西分给他人使用）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "If all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings."（如果所有人类拥有共同的起源，那么认为文化多样性也可以追溯到更有限的起点似乎是合理的。）——2012年考研翻译
-> - "Companies should share the responsibility for environmental protection."（公司应该共同承担环境保护的责任。）——考研高频表达
+> - If all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings. `[真题]`
+> - Companies should share the responsibility for environmental protection. `[真题]`
+> - The company has increased its market share significantly over the past decade. `[COCA-ACAD]`
+> - She shared her experience with the audience in a compelling presentation. `[COCA-ACAD]`
 
 ---
 

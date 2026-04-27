@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**相似的，类似的**==；②==**同样的，同类的**==；
+**adj.** ①==**相似的，类似的**== `be similar to / in a similar way`；②==**同样的，同类的**== `a similar situation / similar experiences`；
 
 > [!tip] 原型义
 > **原型义**：像一样的（具有相同或相近的特征）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Studies have shown that children raised in similar environments tend to develop similar personality traits."（研究表明，在相似环境中长大的孩子往往发展出相似的性格特征。）——考研高频表达
-> - "The challenges facing developing countries today are similar to those encountered by industrialized nations during their early stages of development."（发展中国家今天面临的挑战与工业化国家在早期发展阶段遇到的挑战相似。）——考研高频表达
+> - The results are similar to those reported in earlier studies. `[COCA-ACAD]`
+> - They had similar experiences growing up, even though they came from vastly different backgrounds. `[COCA-ACAD]`
+> - The disease attacks the immune system in a similar way to AIDS. `[COCA-ACAD]`
+> - Data from the rest of the country show a similar pattern. `[COCA-ACAD]`
 
 
 ---

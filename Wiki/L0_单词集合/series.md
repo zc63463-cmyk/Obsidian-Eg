@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**系列，连续**== ; ②（广播/电视）系列节目 ; ③（数学）级数
+**n.** ①==**系列，连续**== `a series of...` ; ②（广播/电视）系列节目 `TV series` ; ③（数学）级数
 
 > [!tip] 原型义
 > **原型义**：系列、连续（按顺序排列的一组相关事物）
@@ -120,8 +120,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The theory is based on a series of wrong assumptions."（这一理论是以一系列错误的假设为依据的。）——考研高频表达
-> - "After a series of unsuccessful attempts, he finally passed the exam."（经过连续几次的失败，他最终通过了考试。）——考研高频表达
+> 1. The theory is based on a series of wrong assumptions. `[真题]`
+> 2. After a series of unsuccessful attempts, he finally passed the exam. `[真题]`
+> 3. The company released a new series of smartphones with advanced features. `[COCA-NEWS]`
+> 4. We build on this argument by means of a trivariate time-series model for forecasting. `[COCA-ACAD]`
 
 ---
 

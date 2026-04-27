@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**收入；收益**== ; ②==**财政收入；税收**== ; ③（复数 revenues）总收入
+**n.** ①==**收入；收益**== `generate revenue` / `revenue growth` ; ②==**财政收入；税收**== `tax revenue` / `government revenue` ; ③（复数 revenues）总收入 `annual revenues`
 
 > [!tip] 原型义
 > **原型义**：回来的东西 → 收入（that which returns / comes back）
@@ -124,8 +124,10 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Newspapers are becoming more balanced businesses, with a healthier mix of revenues from readers and advertisers."（报纸行业正变得更加平衡，来自读者和广告商的收入组合更加健康。）——2011考研英语二阅读
-> - "Expenses have exceeded revenue, putting the company in a difficult financial position."（支出超过了收入，使公司陷入财务困境。）——2018考研英语一阅读
+> - Newspapers are becoming more balanced businesses, with a healthier mix of revenues from readers and advertisers. `[真题]`
+> - These measures will increase the club's ability to generate revenue. `[COCA-ACAD]`
+> - Tax revenue relieves the pressure on the budget. `[COCA-ACAD]`
+> - Expenses have exceeded revenue, putting the company in a difficult financial position. `[真题]`
 
 ---
 

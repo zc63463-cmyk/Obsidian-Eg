@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**为…服务，为…工作**== ; ②==**提供，供应**== ; ③==**服役，任职**== ; ④==**端上（饭菜等）**== ;
-**vi.** ①==**服务，服役**== ; ②==**有用，起作用**== ; ③==**发球**== ;
+**vt.** ①==**为…服务，为…工作**== `serve the people/community`; ②==**提供，供应**== `serve meals/food`; ③==**服役，任职**== `serve in the army`; ④==**端上（饭菜等）**== `serve breakfast/dinner`;
+**vi.** ①==**服务，服役**== `serve as sth`; ②==**有用，起作用**== `serve to do sth`; ③==**发球**== `serve well`;
 
 > [!tip] 原型义
 > **原型义**：作为仆人为某人工作，履行职责
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The evidence serves to illustrate the point that education is essential for social mobility."（这一证据说明了教育对社会流动至关重要。）——考研高频表达
-> - "The new regulation serves as a reminder that environmental protection is everyone's responsibility."（新法规提醒人们，保护环境是每个人的责任。）——考研高频表达
+> - `The old hospital in London Road now serves as a hostel for the homeless.` `[COCA-NEWS]`
+> - `The evidence serves to illustrate the point that education is essential for social mobility.` `[真题]`
+> - `His father served with distinction in the First World War.` `[COCA-ACAD]`
 
 ---
 

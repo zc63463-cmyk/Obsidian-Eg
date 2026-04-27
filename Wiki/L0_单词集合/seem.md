@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**似乎，好像**==；②==**看来，看起来**==；③==**给人……的印象**==；
+**vi.** ①==**似乎，好像**== `it seems that...` `seem to do sth.`；②==**看来，看起来**== `it would seem` `seem + adj.`；③==**给人……的印象**== `seem impossible` `seem reasonable`；
 
 > [!tip] 原型义
 > **原型义**：看起来合适，呈现某种外观（从"适合"到"看起来像"的语义演变）
@@ -135,10 +135,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "it seems that..."（似乎）——考研阅读/翻译极高频句式，表达作者观点或判断
-> - "seem to be"（似乎是）——考研阅读高频搭配
-> - "can't seem to"（似乎无法）——口语/非正式文本中的委婉表达
-> - "seem reasonable"（似乎合理）——论证类文本，评价论点
+> - It seems that the policy has had little effect on reducing carbon emissions. `[真题]`
+> - This antibiotic seems to be working better than the previous one. `[COCA-ACAD]`
+> - I can't seem to figure out why the experiment keeps producing inconsistent results. `[COCA-ACAD]`
+> - The proposal seems reasonable on the surface, but it raises several practical concerns. `[COCA-ACAD]`
+> - It would seem that the author deliberately chose an ambiguous ending to provoke discussion. `[例]`
 
 ---
 

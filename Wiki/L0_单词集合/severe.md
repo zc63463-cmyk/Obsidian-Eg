@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**严厉的、严格的**== ; ②严重的、剧烈的 ; ③严峻的、艰难的
+**adj.** ①==**严厉的、严格的**== `a severe punishment / be severe with sb` ; ②==**严重的、剧烈的**== `severe pain / a severe shortage` ; ③==**严峻的、艰难的**== `a severe test / severe competition`
 
 > [!tip] 原型义
 > **原型义**：严厉的、严格的（对待人的态度不宽容）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The country is experiencing a severe economic crisis."（这个国家正在经历一场严重的经济危机。）——考研阅读真题
-> - "They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances."（在严重、紧急的情况下，他们仍然可以使第四修正案的保护失效。）——考研阅读真题
+> - The country is experiencing a severe economic crisis. `[真题]`
+> - They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances. `[真题]`
+> - The fire has caused severe damage to the building. `[COCA-ACAD]`
+> - He faces severe penalties for his actions. `[COCA-ACAD]`
 
 ---
 

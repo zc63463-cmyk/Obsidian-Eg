@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**报复；复仇**==
-**v.** ①==**为...报仇；报复**==
+**n.** ①==**报复；复仇**== `take revenge on sb.` / `in revenge for...`
+**v.** ①==**为...报仇；报复**== `revenge oneself on sb.` / `revenge a murder`
 
 > [!tip] 原型义
 > **原型义**：重新惩罚 → 报复（to punish in return）
@@ -123,8 +123,10 @@ re-(回/重新) + venge(惩罚，源自拉丁语 vindicare) → 回报惩罚 →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They know that some of the informants may be forgetful, mistaken, dishonest, or motivated by a desire for publicity or even revenge."（他们知道有些线人可能健忘、犯错、不诚实，或者出于对曝光甚至报复的渴望而行动。）——考研高频表达
-> - "He took revenge on his former employer by leaking confidential information to the press."（他通过向媒体泄露机密信息来报复前雇主。）——考研高频表达
+> - The bombing was in revenge for the assassination of their leader. `[COCA-NEWS]`
+> - He is believed to have been shot by a rival gang in revenge for the shootings last week. `[COCA-NEWS]`
+> - They know that some of the informants may be forgetful, mistaken, dishonest, or motivated by a desire for publicity or even revenge. `[真题]`
+> - She sought revenge on her ex-husband by taking him to court for custody of their children. `[COCA-NEWS]`
 
 ---
 

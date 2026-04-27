@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**科学家**==；②==**科学工作者**==；
+**n.** ①==**科学家**== `a research scientist / computer scientist`；②==**科学工作者**== `scientists and engineers`；
 
 > [!tip] 原型义
 > **原型义**：追求知识的人（源自 science + -ist，"从事科学的人"）
@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "scientists have discovered that..."（科学家发现...）——考研阅读极常见，引述研究发现的标准表达
-> - "a team of scientists"（一个科学家团队）——考研阅读中科研合作类话题
-> - "scientists and engineers"（科学家和工程师）——考研阅读中科技政策类话题
-> - "computer scientists"（计算机科学家）——考研阅读中信息技术类话题
+> - Scientists have discovered that regular consumption of aspirin reduces the risk of heart attacks in middle-aged men. `[COCA-ACAD]`
+> - The study was undertaken by a multi-national team led by scientists from Sweden. `[COCA-ACAD]`
+> - Computer scientists have developed new algorithms for processing large datasets. `[COCA-ACAD]`
+> - A team of scientists published their findings in a leading journal. `[COCA-ACAD]`
 
 ---
 

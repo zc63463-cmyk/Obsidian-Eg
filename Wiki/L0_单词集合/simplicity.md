@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**简单，简明**==；②==**朴素，简朴**==；③==**单纯，直率**==；
+**n.** ①==**简单，简明**== ``the simplicity of sth`` ``for simplicity``；②==**朴素，简朴**== ``a life of simplicity``；③==**单纯，直率**== ``childlike simplicity``；
 
 > [!tip] 原型义
 > **原型义**：单一的状态（没有多重折叠叠加的状态）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The beauty of this design lies in its simplicity and elegance."（这个设计的美在于其简洁和优雅。）——考研高频表达
-> - "Simplicity is the ultimate sophistication, as the famous saying goes."（正如那句名言所说，简约是终极的精致。）——考研高频表达
+> - The apparent simplicity of his plot is deceptive. `[COCA-FICT]`
+> - The plan has the virtue of simplicity. `[COCA-ACAD]`
+> - For simplicity, we assume that all variables are independent. `[COCA-ACAD]`
+> - The document impressed me with its elegant simplicity. `[COCA-MAG]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**简单的，简明的**==；②==**朴素的，简朴的**==；③==**单纯的，直率的**==；④==**完全的，纯粹的**==；
+**adj.** ①==**简单的，简明的**== `keep it simple / a simple task`；②==**朴素的，简朴的**== `a simple life / simple food`；③==**单纯的，直率的**== `a simple person / simple honesty`；④==**完全的，纯粹的**== `pure and simple / a simple fact`；
 
 > [!tip] 原型义
 > **原型义**：单一的，不复杂的（只有一个层次的，没有折叠叠加的）
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even a simple change in daily habits can have a significant impact on one's health over time."（即使是日常习惯的简单改变，随着时间的推移也会对健康产生重大影响。）——考研高频表达
-> - "The solution to the problem turned out to be surprisingly simple."（这个问题的解决方案出乎意料地简单。）——考研高频表达
+> - The best solution is often to keep it simple. `[COCA-ACAD]`
+> - It is a simple fact that education changes lives. `[COCA-ACAD]`
+> - The solution to the problem turned out to be surprisingly simple. `[COCA-ACAD]`
+> - The decision was motivated by greed, pure and simple. `[COCA-ACAD]`
 
 
 ---

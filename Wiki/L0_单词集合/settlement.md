@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**解决，和解**== ; ②==**定居点，居民点**== ; ③==**（债务的）清偿**== ; ④==**殖民，移民**== ;
+**n.** ①==**解决，和解**== `reach a settlement`; ②==**定居点，居民点**== `a human settlement`; ③==**（债务的）清偿**== `debt settlement`; ④==**殖民，移民**== `colonial settlement`;
 
 > [!tip] 原型义
 > **原型义**：安定下来的结果或行为
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two sides finally reached a settlement after months of negotiation."（经过数月的谈判，双方最终达成了和解。）——考研高频表达
-> - "The earliest human settlements were usually located near rivers."（最早的人类定居点通常位于河流附近。）——考研高频表达
+> - `The first permanent British settlement in the New World was established in Virginia in 1607.` `[COCA-ACAD]`
+> - `After years of fighting, the two countries seem to be on the brink of a historic peace settlement.` `[COCA-NEWS]`
+> - `The earliest human settlements were usually located near rivers.` `[COCA-ACAD]`
 
 ---
 

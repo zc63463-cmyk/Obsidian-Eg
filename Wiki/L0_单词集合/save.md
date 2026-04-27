@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**拯救，挽救**==（使脱离危险）；②==**节省，节约**==（减少消耗）；③==**保存，储蓄**==（留待后用）；④==**救（球）**==（体育语境）；
-**prep.** ①==**除……之外**==（except 的口语用法）；
+**vt.** ①==**拯救，挽救**==（使脱离危险）`save one's life` / `save sb. from sth.`；②==**节省，节约**==（减少消耗）`save money/time/energy`；③==**保存，储蓄**==（留待后用）`save a file` / `save for a rainy day`；④==**救（球）**==（体育语境）`make a save`；
+**prep.** ①==**除……之外**==（except 的口语用法）`save for...`；
 
 > [!tip] 原型义
 > **原型义**：使安全→拯救/节省（来自拉丁语 *salvare*，"使安全、拯救"）
@@ -144,11 +144,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology has saved us countless hours of work."（科技为我们节省了无数工作时间）——科技话题
-> - "The doctor saved the patient's life."（医生挽救了病人的生命）——医疗话题
-> - "save money for retirement"（为退休存钱）——经济话题
-> - "save the document before closing"（关闭前保存文档）——日常表达
-> - "It was the goalkeeper's brilliant save that won the match."（正是守门员精彩的扑救赢得了比赛）——体育话题
+> - The doctors made one last desperate attempt to save the boy's life. `[COCA-NEWS]`
+> - She saves part of her pay every week. `[COCA-ACAD]`
+> - The performance may have saved him from being eliminated. `[COCA-NEWS]`
+> - It saves time in the kitchen to have things you use a lot within reach. `[COCA-ACAD]`
 
 ---
 

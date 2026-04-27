@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**怀疑的**==；②==**持怀疑态度的**==
+**adj.** ①==**怀疑的**== ``be skeptical about/of sth`` ``remain skeptical``；②==**持怀疑态度的**== ``skeptical attitude`` ``highly skeptical``
 
 > [!tip] 原型义
 > **原型义**：思考后怀疑→怀疑的（来自希腊语 *skeptikos*，"仔细思考的、审察的"）
@@ -136,10 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists are skeptical about the new research findings."（科学家们对新的研究结果持怀疑态度）——学术话题
-> - "I remain skeptical of his claims about the product's effectiveness."（我对他关于产品功效的说法仍持怀疑态度）——消费话题
-> - "The public has grown increasingly skeptical of government promises."（公众对政府的承诺越来越怀疑）——社会话题
-> - "A skeptical attitude is essential in scientific inquiry."（怀疑态度在科学探究中至关重要）——科学哲学话题
+> - Scientists are skeptical about the new research findings. `[真题]`
+> - Economists, like almost everyone else, say they are skeptical about such calculations. `[COCA-ACAD]`
+> - Many medical experts remain deeply skeptical about acupuncture. `[COCA-NEWS]`
+> - A skeptical attitude is essential in scientific inquiry. `[COCA-ACAD]`
 
 ---
 

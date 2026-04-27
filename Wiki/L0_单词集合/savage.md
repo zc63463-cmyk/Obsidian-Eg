@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**野蛮的，残暴的**==（凶猛而暴力的）；②==**荒凉的，未开化的**==（原始的、未被驯服的）；
+**adj.** ①==**野蛮的，残暴的**==（凶猛而暴力的）`a savage attack` / `savage criticism`；②==**荒凉的，未开化的**==（原始的、未被驯服的）`savage wilderness` / `savage lands`；
 **n.** ①==**野蛮人**==（未开化的人）；②==**残暴的人**==（凶狠的人）；
-**vt.** ①==**猛烈抨击**==（用语言暴力攻击）；②==**（动物）猛烈撕咬**==；
+**vt.** ①==**猛烈抨击**==（用语言暴力攻击）`savage sb. in the press` / `be savaged by reviewers`；②==**（动物）猛烈撕咬**==；
 
 > [!tip] 原型义
 > **原型义**：森林里的→野蛮的（来自拉丁语 *silvaticus*，"森林的"，住在森林里的人→野蛮人）
@@ -137,11 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a savage attack on the government's policy"（对政府政策的猛烈抨击）——政治/新闻话题
-> - "the savage beauty of the wilderness"（荒野的原始之美）——文学/自然话题
-> - "savage criticism from the press"（来自新闻界的猛烈批评）——媒体话题
-> - "a savage beast"（一头猛兽）——文学/日常表达
-> - "the book was savaged by reviewers"（这本书被评论家猛烈抨击）——文学评论语境
+> - The Prime Minister faced savage criticism for failing to attend the debate. `[COCA-NEWS]`
+> - Japan has been dealt a savage blow by the earthquake and tsunami. `[COCA-NEWS]`
+> - The performance was savaged by the media. `[COCA-NEWS]`
+> - A hurricane savaged the city, leaving thousands homeless. `[COCA-NEWS]`
 
 ---
 

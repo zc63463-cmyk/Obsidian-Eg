@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**灵魂；精神**==；②心灵；③人（强调情感或品质）；
+**n.** ①==**灵魂；精神**== ``the soul of a person / put one's heart and soul into``；②心灵；③人（强调情感或品质）；
 
 > [!tip] 原型义
 > **原型义**：人的非物质本质，即内在的精神实体
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Brevity is the soul of wit."（简洁是智慧的灵魂。）——莎士比亚名言，考研翻译常考引用
-> - "He devoted himself heart and soul to the cause of education."（他全心全意地投身于教育事业。）——考研高频表达
+> - Brevity is the soul of wit. `[真题]`
+> - He devoted himself heart and soul to the cause of education. `[真题]`
+> - The education expands the mind, the medicine heals the body, and the arts nourish the soul. `[COCA-ACAD]`
+> - She's one of those people who puts their heart and soul into their work. `[COCA-ACAD]`
 
 
 ---

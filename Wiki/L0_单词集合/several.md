@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**几个，数个（通常指三到七个）**== ; ②==**各自的，分别的**== ;
-**pron.** ①==**几个，数个**== ;
+**adj.** ①==**几个，数个（通常指三到七个）**== `several times/years`; ②==**各自的，分别的**== `their several ways`;
+**pron.** ①==**几个，数个**== `several of them`;
 
 > [!tip] 原型义
 > **原型义**：分开的，各自独立的（来自拉丁语 separare"分开"）
@@ -127,8 +127,9 @@ several ← 古法语 *seperalis* ← 拉丁语 *separare*（分开）← se-(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Several studies have shown that regular exercise can reduce the risk of heart disease."（多项研究表明，规律运动可以降低患心脏病的风险。）——考研高频表达
-> - "She has lived in several different countries over the course of her career."（在她的职业生涯中，她曾在几个不同的国家生活过。）——考研高频表达
+> - `Several studies have shown that regular exercise can reduce the risk of heart disease.` `[COCA-ACAD]`
+> - `In several ways, the changes taking place in the funding of hospitals during the inter-war years were fundamental.` `[COCA-ACAD]`
+> - `The report came up with several reasons why Sweden has seen the steepest decline in student performance.` `[COCA-ACAD]`
 
 ---
 
