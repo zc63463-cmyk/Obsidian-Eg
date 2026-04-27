@@ -119,9 +119,9 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "By comparison, the earlier building orders, regulations and codes did not go beyond some basic controls and general precautions against the danger of fire." `` `[真题]` ``
-> - "Unless precautions are taken, humans could act as vectors for a range of dangerous pathogens." `` `[COCA-ACAD]` ``
-> - "Save your work often as a precaution against computer failure." `` `[COCA]` ``
+> - "By comparison, the earlier building orders, regulations and codes did not go beyond some basic controls and general precautions against the danger of fire." `[真题]`
+> - "Unless precautions are taken, humans could act as vectors for a range of dangerous pathogens." `[COCA-ACAD]`
+> - "Save your work often as a precaution against computer failure." `[COCA]`
 
 ---
 

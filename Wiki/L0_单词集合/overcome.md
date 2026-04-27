@@ -125,9 +125,9 @@ over-（在……上方/越过）+ come（来，到达）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She overcame numerous obstacles to achieve her goal of becoming a doctor." `` `[COCA-ACAD]` ``
-> - "Two school friends have died after being overcome by leaking gas fumes in holiday accommodation." `` `[COCA-NEWS]` ``
-> - "There are many technical challenges to overcome, but the team believes it will succeed." `` `[COCA-ACAD]` ``
+> - "She overcame numerous obstacles to achieve her goal of becoming a doctor." `[COCA-ACAD]`
+> - "Two school friends have died after being overcome by leaking gas fumes in holiday accommodation." `[COCA-NEWS]`
+> - "There are many technical challenges to overcome, but the team believes it will succeed." `[COCA-ACAD]`
 
 ---
 
