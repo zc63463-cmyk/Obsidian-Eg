@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**高效的，效率高的**==（以最少浪费达成目标）；②==**有能力的，能干的**==（指人办事效率高）；
+**adj.** ①==**高效的，效率高的**==（以最少浪费达成目标）`` `efficient method/system` `` `` `energy-efficient` ``；②==**有能力的，能干的**==（指人办事效率高）`` `an efficient manager/secretary` `` `` `efficient use of resources` ``；
 
 > [!tip] 原型义
 > **原型义**：做得利落、不浪费的（ef- "出来" + fic "做" + -ient "具有...性质的" → 做得出来、做得利落的）
@@ -129,9 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "More efficient energy use is essential for sustainable development."（更高效的能源利用对可持续发展至关重要）——环保类阅读
-> - "an efficient public transportation system"（高效的公共交通系统）——城市治理类话题
-> - "The company needs to become more efficient to remain competitive."（公司需要提高效率以保持竞争力）——商业类阅读
+> - The United States has developed the most efficient methods of food production and distribution. `[COCA-ACAD]`
+> - Is this really an efficient use of resources? `[COCA-ACAD]`
+> - More efficient energy use is essential for sustainable development. `[COCA-ACAD]`
+> - The company needs to become more efficient to remain competitive. `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**优雅的，精美的**==（举止、风格、外观优美高雅）；②==**简洁的，精炼的**==（方案、证明等简洁而巧妙）；
+**adj.** ①==**优雅的，精美的**==（举止、风格、外观优美高雅）`` `elegant style/design` `` `` `elegantly dressed` ``；②==**简洁的，精炼的**==（方案、证明等简洁而巧妙）`` `elegant solution` `` `` `elegant proof` ``；
 
 > [!tip] 原型义
 > **原型义**：精心挑选的→优雅的（从众多选项中精心挑选出最好的，因此品质出众）
@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is an elegant woman with impeccable taste."（她是一位品味无瑕的优雅女性）——生活/人物描写
-> - "The mathematician found an elegant solution to the problem."（数学家找到了一个简洁优美的解决方案）——学术话题
-> - "The hotel lobby was elegant and tastefully decorated."（酒店大堂优雅且装饰有品味）——生活话题
-> - "His writing style is elegant yet accessible."（他的写作风格优雅而平易近人）——文学话题
+> - An elegant idea, plan, or solution is clever but simple, and therefore attractive. `[COCA-ACAD]`
+> - She wore an elegant dove-grey jacket. `[COCA-ACAD]`
+> - She has got the most elegant writing style. `[COCA-ACAD]`
+> - The elegant solution to the problem saved the company time and money. `[COCA-ACAD]`
 
 ---
 

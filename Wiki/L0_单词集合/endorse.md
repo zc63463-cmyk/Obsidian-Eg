@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**赞同，支持，认可**==；②==**在（支票等）背面签字**==；③==**（在广告中）宣传，代言**==；
+**vt.** ①==**赞同，支持，认可**== `endorse a policy/proposal` `endorse a candidate`；②==**在（支票等）背面签字**== `endorse a check/cheque`；③==**（在广告中）宣传，代言**== `endorse a product/brand`；
 
 > [!tip] 原型义
 > **原型义**：在背面写上名字（en- "在……上" + dors "背面" → 在文件背面签名 = 背书/支持）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee endorsed the new environmental policy."（委员会赞同了新的环境政策）——政治/社会类阅读
-> - "Many celebrities have been paid to endorse products on social media."（许多名人被付费在社交媒体上代言产品）——商业/媒体类话题
-> - "The government has endorsed the recommendations of the report."（政府已认可该报告的建议）——政策类文本
+> - The 15 members of the council at the time unanimously endorsed the agreement. `[COCA-ACAD]`
+> - The twins endorsed a line of household cleaning products. `[COCA-ACAD]`
+> - Both parties are required to endorse the back of the bank draft before it is honored by the bank. `[COCA-ACAD]`
+> - King was not a partisan and never endorsed any political candidate. `[例]`
 
 ---
 

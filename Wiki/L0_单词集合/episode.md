@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（一段）经历，插曲，片段**== ; ②（电视/广播的）一集，一期 ;
+**n.** ①==**（一段）经历，插曲，片段**== `an episode in/of sth.` `a painful episode` ; ②（电视/广播的）一集，一期 ;
 ③（文学作品中的）一段情节 ;
 
 > [!tip] 原型义
@@ -120,8 +120,9 @@ epi-(在…之上/进入) + [[spec-spect|od]](看/道路，来自希腊语 eisod
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The latest episode of the financial crisis has raised fears of a global recession."（最近一轮金融危机引发了人们对全球经济衰退的担忧。）——考研高频表达
-> - "This episode in history serves as a reminder of the dangers of unchecked power."（历史上的这一事件提醒人们警惕不受制约的权力的危险。）——考研高频表达
+> - The latest episode of the financial crisis has raised fears of a global recession. `[真题]`
+> - He tried to forget the whole embarrassing episode. `[COCA-ACAD]`
+> - I had an episode of severe chest pain and was rushed to the hospital. `[COCA-ACAD]`
 
 ---
 

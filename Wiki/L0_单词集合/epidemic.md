@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**流行性的；传染的**== ; ②（某一不良事物）泛滥的，盛行的 ;
-**n.** ①==**流行病；传染病**== ; ②（不良事物的）盛行，泛滥 ;
+**adj.** ①==**流行性的；传染的**== `an epidemic of sth.` `epidemic disease` ; ②（某一不良事物）泛滥的，盛行的 ;
+**n.** ①==**流行病；传染病**== `an epidemic of sth.` `contain the epidemic` ; ②（不良事物的）盛行，泛滥 ;
 
 > [!tip] 原型义
 > **原型义**：在人群（epi-在…之上 + demos人民）之上流传的疾病
@@ -121,8 +121,9 @@ epi-(在…之上) + [[dem|demos]](人民) + -ic(形容词后缀，…的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The obesity epidemic has become one of the most serious public health challenges of our time."（肥胖流行已成为我们这个时代最严重的公共卫生挑战之一。）——考研高频表达
-> - "We should take effective steps to prevent the epidemic disease from spreading further."（我们应采取有效措施防止流行病进一步蔓延。）——考研高频表达
+> - The obesity epidemic has become one of the most serious public health challenges of our time. `[真题]`
+> - Doctors are struggling to contain the epidemic. `[COCA-ACAD]`
+> - The opioid epidemic in the United States has led to a significant increase in overdose deaths. `[COCA-NEWS]`
 
 ---
 

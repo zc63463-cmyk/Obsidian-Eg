@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**扩大，扩展，增大**== ; ②放大（照片等）
+**v.** ①==**扩大，扩展，增大**== `enlarge sth.` / `enlarge the scope/scale of sth.` ; ②放大（照片等） `enlarge a photo/image`
 
 > [!tip] 原型义
 > **原型义**：使某物在尺寸或范围上变得更大
@@ -135,8 +135,10 @@ en-(使动前缀，"使…进入…状态") + large(大的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience."（可以说，衡量任何社会机构价值的标准，在于它在扩大和改善人类经验方面所起的作用。）——考研翻译真题
-> - "A good way to enlarge your vocabulary is to read a daily newspaper."（扩大词汇量的一个好方法是每天阅读报纸。）——考研高频表达
+> - "It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience." `[真题]`
+> - "Military spending further enlarged the permanent fiscal deficit." `[COCA-ACAD]`
+> - "The former enlarged their herds according to the availability of empty land or means to finance short-run troubles." `[COCA-ACAD]`
+> - "We had the photograph enlarged." `[COCA]`
 ---
 
 

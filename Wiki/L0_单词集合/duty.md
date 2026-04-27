@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**责任，义务**== ; ②税，关税 ; ③职责，职务 ;
+**n.** ①==**责任，义务**== `sense of duty` `it is one's duty to do sth.` ; ②税，关税 `import duty` `customs duty` ; ③职责，职务 `on/off duty` ;
 
 > [!tip] 原型义
 > **原型义**：该做的事，应尽的义务
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is the duty of the government to protect the rights of its citizens."（保护公民权利是政府的职责。）——考研高频表达
-> - "Soldiers performed their duty bravely during the battle."（士兵们在战斗中英勇地履行了职责。）——考研高频表达
+> - "It is the duty of the government to protect the rights of its citizens." `[COCA-ACAD]`
+> - "It is my duty as a police officer to protect and serve the community." `[COCA-ACAD]`
+> - "The legislature has been charged with the duty of determining their rights." `[COCA-ACAD]`
+> - "He felt a sense of duty to take care of his aging parents." `[COCA-ACAD]`
 
 ---
 

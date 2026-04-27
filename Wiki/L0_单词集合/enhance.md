@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**提高，增强，改善**== ; ②增进（感情等）
+**v.** ①==**提高，增强，改善**== `enhance sth.` / `enhance the quality/efficiency of sth.` ; ②增进（感情等） `enhance one's chances/reputation`
 
 > [!tip] 原型义
 > **原型义**：使某物在价值或品质上变得更高
@@ -136,8 +136,10 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world, and scarcity enhances the pleasure of most things for most people."（从世界各地的富人和穷人中都可以看到"幸福感"和"把钱花在别人身上"之间的联系，而且稀缺性增强了大多数人对大多数事物的愉悦感。）——2014年英语二Text1
-> - "Good secretarial skills should enhance your chances of getting a job."（良好的秘书技能应该能增加你找到工作的机会。）——考研高频表达
+> - "Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world, and scarcity enhances the pleasure of most things for most people." `[真题]`
+> - "But medical advance not only enhances clinical capability, it carries with it profound ethical, legal, social and economic implications." `[COCA-ACAD]`
+> - "The company is looking to enhance its earnings potential." `[COCA-ACAD]`
+> - "Low lighting and soft music enhanced the atmosphere in the room." `[COCA-ACAD]`
 ---
 
 

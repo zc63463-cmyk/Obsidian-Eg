@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ① ==**区别，差别**== ; ② 荣誉，殊荣；③ 卓越，杰出
+**n.** ① ==**区别，差别**== `N between A and B`; ② 荣誉，殊荣 `N`; ③ 卓越，杰出 `N`
 
 > [!tip] 原型义
 > **原型义**：区别，差别
@@ -123,9 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This distinction is so much so that where the latter is lacking, the former becomes all the more urgent."（这种区别如此之大，以至于在后者缺失的地方，前者变得更加紧迫。）——2013考研英语翻译
-> - "The author draws a clear distinction between two types of reasoning: inductive and deductive."（作者清楚地区分了两种推理类型：归纳推理和演绎推理。）——考研高频表达
-
+> - This distinction is so much so that where the latter is lacking, the former becomes all the more urgent. `[真题]`
+> - The author draws a clear distinction between two types of reasoning: inductive and deductive. `[真题]`
+> - Philosophers did not use to make a distinction between arts and science. `[COCA-ACAD]`
+> - The law draws a distinction between temporary and permanent employees. `[COCA-ACAD]`
 ---
 
 

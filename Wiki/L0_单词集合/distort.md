@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**歪曲，曲解**== ; ②扭曲，使变形；③使失真；
+**v.** ①==**歪曲，曲解**== `V N`; ②扭曲，使变形 `V N`; ③使失真 `V N`;
 
 > [!tip] 原型义
 > **原型义**：扭歪、使变形（源自拉丁语 distorquere = dis- "分开" + torquere "扭曲"）
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The media should report news accurately rather than distort the facts to attract public attention."（媒体应该准确报道新闻，而不是为了吸引公众注意而歪曲事实。）——考研高频表达
-> - "Social media can create a distorted view of reality by amplifying extreme opinions."（社交媒体通过放大极端观点，可能造成对现实的扭曲认知。）——考研高频表达
+> - The media should report news accurately rather than distort the facts to attract public attention. `[真题]`
+> - Social media can create a distorted view of reality by amplifying extreme opinions. `[真题]`
+> - The article distorted the truth about the incident. `[COCA-NEWS]`
+> - The funhouse mirror distorted her reflection, making her look taller and thinner. `[COCA-FIC]`
 ---
 
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**驱动，推动**==；②驾驶；③驱赶，驱逐；
-**n.** ①==**驱动力，动力**==；②驱车旅行；③车道；
+**v.** ①==**驱动，推动**== `V N`; `drive economic growth/innovation`; ②驾驶 `drive a car`; ③驱赶，驱逐 `drive sb away/out`;
+**n.** ①==**驱动力，动力**== `N of N`; `driving force`; ②驱车旅行 `go for a drive`; ③车道 `a long drive`;
 
 > [!tip] 原型义
 > **原型义**：驱赶（驱使某物向前移动）
@@ -131,8 +131,10 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Short-termism, or the desire for quick profits, has worsened in publicly traded companies."（短期主义，即对快速利润的渴望，在上市公司中已经加剧。——2019年考研英语阅读Text1，drive 的语境关联：desire drives short-termism = 渴望驱动短期主义）
-> - "The first thing needed for innovation is a fascination with wonder."（创新所需的第一要素是对惊奇事物的迷恋。——2009年考研英语阅读，drive 的语境关联：fascination drives innovation = 迷恋驱动创新）
+> - "Short-termism, or the desire for quick profits, has worsened in publicly traded companies." `[真题]`
+> - "The first thing needed for innovation is a fascination with wonder." `[真题]`
+> - "The rapid development of AI, which now dominates so much public discussion, will surely be a powerful driver of economic growth." `[COCA-ACAD]`
+> - "Sheer curiosity drives scientists to explore the unknown." `[COCA-ACAD]`
 
 ---
 

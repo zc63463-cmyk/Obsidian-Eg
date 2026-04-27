@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**教育**==（传授知识、技能的过程或事业）；②==**教养，培养**==（个人所受的全面训练）；③==**教育学**==（研究教育理论和实践的学科）；
+**n.** ①==**教育**==（传授知识、技能的过程或事业）`` `receive/have an education` `` `` `higher education` ``；②==**教养，培养**==（个人所受的全面训练）`` `a man of good education` ``；③==**教育学**==（研究教育理论和实践的学科）`` `a degree in education` ``；
 
 > [!tip] 原型义
 > **原型义**：将人的潜能引导出来的过程（e- "向外" + duc "引导" + -ation 名词后缀）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Higher education has become increasingly accessible in recent decades."（近几十年来高等教育变得越来越普及）——教育类阅读高频话题
-> - "the quality of education"（教育质量）——教育政策类文本
-> - "Education is not the filling of a pail, but the lighting of a fire."（教育不是灌满一桶水，而是点燃一把火）——名言引用，呼应 educate 的词源"引导"
+> - Higher education levels were clearly associated with increased use of modern contraceptive methods. `[COCA-ACAD]`
+> - As a child he received most of his education at home. `[COCA-ACAD]`
+> - It is a country that places great importance on education. `[COCA-ACAD]`
+> - She lectures in education at the teacher training college. `[COCA-ACAD]`
 
 ---
 

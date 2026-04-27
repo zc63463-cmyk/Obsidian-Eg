@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**元素**==（化学元素，构成物质的基本成分）；②==**要素**==（构成事物的关键部分）；③==**基础**==（基本原理，入门知识）；
+**n.** ①==**元素**==（化学元素，构成物质的基本成分）`` `chemical element` `` `` `the elements` ``；②==**要素**==（构成事物的关键部分）`` `key/essential element` `` `` `element of surprise` ``；③==**基础**==（基本原理，入门知识）`` `the elements of` `` `` `in one's element` ``；
 
 > [!tip] 原型义
 > **原型义**：最基本的组成部分（不可再分的最小单元）
@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hydrogen and oxygen are the elements that make up water."（氢和氧是组成水的元素）——科学话题
-> - "Trust is a key element of any successful relationship."（信任是任何成功关系的关键要素）——社会话题
-> - "She was in her element when discussing literature."（她在讨论文学时如鱼得水）——常见表达
-> - "The elements of style have been studied for centuries."（文体要素已经被研究了几个世纪）——学术话题
+> - Honesty is a vital element of her success. `[COCA-ACAD]`
+> - Trust is a key element in any successful relationship. `[COCA-ACAD]`
+> - Nurses are an essential element of our health care system. `[COCA-ACAD]`
+> - Carbon is an essential element in organic chemistry, forming the backbone of life on Earth. `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**戏剧，剧本**== ; ②戏剧性事件，激动人心的事 ;
+**n.** ①==**戏剧，剧本**== `N of N`; `study drama`; ②戏剧性事件，激动人心的事 `full of drama`; `watch the drama unfold`;
 
 > [!tip] 原型义
 > **原型义**：在舞台上表演的行动/戏剧（来自希腊语 dran"做、行动"）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama."（莎士比亚的一生与戏剧领域一个非凡活跃和成就卓著的时期恰好重合——2018年考研翻译）
-> - "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy."（莎士比亚出生之时，宗教戏剧在欧洲正在消亡，而在古典悲剧和喜剧的推动下，新的戏剧形式正在被创造出来——2018年考研翻译）
+> - "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama." `[真题]`
+> - "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy." `[真题]`
+> - "His interest in drama began at a very young age." `[COCA-ACAD]`
+> - "She studied drama in college." `[COCA-ACAD]`
 
 
 ---

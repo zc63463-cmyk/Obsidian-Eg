@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**雇员，受雇者**==；②==**员工**==；
+**n.** ①==**雇员，受雇者**== `` `full-time/part-time employee` `` `` `hire/fire an employee` ``；②==**员工**== `` `employee benefits/training` ``；
 
 > [!tip] 原型义
 > **原型义**：被卷入使用的人（employ 雇用 + -ee 被……的人）
@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "employee benefits/rights"（员工福利/权利）——考研阅读中劳动经济类文章高频话题
-> - "employee turnover/productivity"（员工流失率/生产力）——考研阅读中管理学话题常见搭配
-> - "employee training/development"（员工培训/发展）——考研阅读中人力资源话题
+> - The company has more than 2,000 **employees** worldwide. `` `[COCA-NEWS]` ``
+> - The number of **employees** in the company has trebled over the past decade. `` `[COCA-ACAD]` ``
+> - If any **employee** needs to take time off, they should contact the Personnel Department. `` `[COCA-ACAD]` ``
 
 ---
 

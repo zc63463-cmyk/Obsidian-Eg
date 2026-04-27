@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**史诗，叙事诗**== ; ②==**史诗般的电影/事件**== ;
-**adj.** ①==**史诗般的，壮丽的**== ; ②==**宏大的，伟大的**== ; ③==**漫长而艰难的**== ;
+**n.** ①==**史诗，叙事诗**== `Homer's epics` ; ②==**史诗般的电影/事件**== `a Hollywood epic` ;
+**adj.** ①==**史诗般的，壮丽的**== `an epic journey/battle` ; ②==**宏大的，伟大的**== `an epic achievement` ; ③==**漫长而艰难的**== `an epic struggle` ;
 
 > [!tip] 原型义
 > **原型义**：词语、叙事，讲述英雄事迹的长篇叙事
@@ -134,8 +134,10 @@ ep-(在…之上) + ic(形容词后缀) = epic（超越一般的叙事 → 史�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Odyssey is one of the greatest epics in Western literature."（《奥德赛》是西方文学中最伟大的史诗之一。）——考研高频表达
-> - "They embarked on an epic journey across the continent."（他们踏上了横跨大陆的史诗般旅程。）——考研高频表达
+> - "The Odyssey is one of the greatest epics in Western literature." `[真题]`
+> - "The company is engaged in an epic struggle for survival." `[COCA-ACAD]`
+> - "The scope and scale of the season just looks more grand and epic." `[COCA]`
+> - "An accomplishment of epic proportions." `[COCA]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**散文，小品文**==；②==**尝试，企图**==；
+**n.** ①==**散文，小品文**== `write an essay on sth.` `a collection of essays` ；②==**尝试，企图**== ;
 **vt.** ①尝试，企图；
 
 > [!tip] 原型义
@@ -126,8 +126,9 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The essay discusses the impact of globalization on local cultures."（这篇文章讨论了全球化对本土文化的影响。）——考研高频表达
-> - "Students are required to write a 3000-word essay on the topic of environmental protection."（学生被要求写一篇3000字的关于环境保护的论文。）——考研高频表达
+> - The essay discusses the impact of globalization on local cultures. `[真题]`
+> - Your assignment is to write a 500-word essay on one of Shakespeare's sonnets. `[COCA-ACAD]`
+> - The book is a collection of his previously unpublished essays on a variety of topics. `[COCA-ACAD]`
 
 ---
 

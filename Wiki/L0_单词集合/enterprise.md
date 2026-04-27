@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**企业、公司**== ; ②==**事业、计划**== ; ③创业精神、进取心 ;
+**n.** ①==**企业、公司**== `a private/commercial enterprise` ; ②==**事业、计划**== `a novel/risky enterprise` ; ③创业精神、进取心 `spirit of enterprise` ;
 
 > [!tip] 原型义
 > **原型义**：有冒险精神的事业
@@ -128,8 +128,10 @@ enter-(在内) + prise(抓住)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The American economic system is organized around a basically private-enterprise, market-oriented economy in which consumers largely determine what shall be produced."（美国经济体系基本上是围绕以私营企业为主体、以市场为导向的经济组织起来的，在这种经济中，消费者在很大程度上决定了将要生产什么。）——1994考研英语Text1
-> - "The success of private enterprise depends heavily on market demand and consumer choice."（民营企业的成功在很大程度上取决于市场需求和消费者的选择。）——考研高频表达
+> - "The American economic system is organized around a basically private-enterprise, market-oriented economy in which consumers largely determine what shall be produced." `[真题]`
+> - "When he purchased the company it was a thriving commercial enterprise." `[COCA-ACAD]`
+> - "Few relationships are as critical to the business enterprise itself as the relationship to government." `[COCA-ACAD]`
+> - "Moving the drilling rig offshore was a costly enterprise." `[COCA]`
 
 ---
 

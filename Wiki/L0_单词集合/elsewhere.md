@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**在别处，到别处**==；
-**n.** ①别处，其他地方；
+**adv.** ①==**在别处，到别处**== `look/seek elsewhere` `found elsewhere`；
+**n.** ①别处，其他地方 `or elsewhere` `from elsewhere`；
 
 > [!tip] 原型义
 > **原型义**：在其他某个地方（非当前提及或已知地点的其他位置）
@@ -123,9 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "jobs that can be done elsewhere"（可以在别处完成的工作）——考研阅读常见搭配，描述全球化、远程工作等话题
-> - "elsewhere in the world"（在世界其他地方）——比较类论述中常见
-> - "look elsewhere for solutions"（到别处寻找解决方案）——问题解决类语境
+> - "They couldn't find what they wanted and decided to look elsewhere." `[COCA-ACAD]`
+> - "Its population has dropped by 400,000 as youngsters seek jobs and university places elsewhere." `[COCA-NEWS]`
+> - "Across the country, Trump's call for protest was met with small crowds in New York City and elsewhere." `[COCA-NEWS]`
+> - "If we don't give good service, people will take their custom elsewhere." `[COCA-ACAD]`
 
 ---
 

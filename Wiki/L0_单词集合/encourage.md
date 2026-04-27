@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**鼓励，激励**==；②==**促进，助长**==；③支持，赞助；
+**vt.** ①==**鼓励，激励**== `encourage sb. to do sth.` `be encouraged by`；②==**促进，助长**== `encourage innovation/creativity`；③支持，赞助；
 
 > [!tip] 原型义
 > **原型义**：注入勇气（古法语 encoragier = en-使 + corage 勇气，字面意思是"使有勇气"）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "encourage sb. to do sth."（鼓励某人做某事）——考研阅读/写作极高频句式
-> - "encourage innovation/competition"（促进创新/竞争）——考研阅读中经济政策类文章常见搭配
-> - "be encouraged by the results"（对结果感到鼓舞）——考研阅读中描述研究发现的常见表达
+> - The new teaching methods encourage children to think for themselves. `[COCA-ACAD]`
+> - He was encouraged by his family to learn music at a young age. `[COCA-ACAD]`
+> - Participation is encouraged at all levels. `[COCA-ACAD]`
+> - The new policy was designed to encourage diversity and innovation. `[例]`
 
 ---
 

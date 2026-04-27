@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**双重的，二元的**== ; ②双的，两部分的 ;
+**adj.** ①==**双重的，二元的**== `adj. N`; `dual role/system`; ②双的，两部分的 `dual citizenship/nationality`;
 
 > [!tip] 原型义
 > **原型义**：两个的，双重的
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country has a dual education system that combines academic study with vocational training."（该国实行双轨教育制度，将学术学习与职业培训相结合。）——考研高频表达
-> - "She plays a dual role as both manager and mentor in the company."（她在公司中同时扮演管理者和导师的双重角色。）——考研高频表达
+> - "The country has a dual education system that combines academic study with vocational training." `[真题]`
+> - "She plays a dual role as both manager and mentor in the company." `[真题]`
+> - "In June, he bowed to shareholder pressure and split his dual role as chief executive and chairman." `[COCA-ACAD]`
+> - "All cars manufactured after 1998 are required to have dual airbags." `[COCA-ACAD]`
 
 ---
 

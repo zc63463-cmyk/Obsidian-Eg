@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**努力，尽力**==（尤指为达成困难目标而付出的认真努力）；②==**事业，活动**==（尤指重大的、困难的）；
-**vi.** ①==**努力，尽力**==（~ to do sth.）；
+**n.** ①==**努力，尽力**==（尤指为达成困难目标而付出的认真努力）`make every endeavour`；②==**事业，活动**==（尤指重大的、困难的）`scientific endeavour` `human endeavour`；
+**vi.** ①==**努力，尽力**==（~ to do sth.）`endeavour to do sth.`；
 
 > [!tip] 原型义
 > **原型义**：尽全部责任去做（en- "使" + devoir "责任/义务" → 使自己承担起责任 = 尽全力去做）
@@ -129,9 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We will endeavour to meet the deadline."（我们将尽力在截止日期前完成）——正式承诺类表达
-> - "The scientific endeavour has led to remarkable breakthroughs."（科学探索已带来了非凡的突破）——科技类阅读
-> - "In the endeavour to reduce poverty, the government has implemented a series of policies."（在减贫的努力中，政府实施了一系列政策）——社会政策类话题
+> - Crossing the North Pole on foot was an amazing feat of human endeavour. `[COCA-ACAD]`
+> - I will endeavour to do my best for my country. `[COCA-ACAD]`
+> - In spite of our best endeavours, it has proven impossible to contact her. `[COCA-ACAD]`
+> - Any form of scientific endeavour must attempt to transcend its time and place. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**引出，探出**==；②==**引起，诱发（反应、回答等）**==；
+**vt.** ①==**引出，探出**== `elicit information/truth from sb` `elicit sth through questioning`；②==**引起，诱发（反应、回答等）**== `elicit a response/reaction` `elicit sympathy/support`；
 
 > [!tip] 原型义
 > **原型义**：引诱出隐藏的事物（通过技巧或手段将潜藏的信息、反应等引出来）
@@ -129,9 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "elicit a strong response from the public"（引起公众的强烈反应）——考研阅读常见搭配，描述社会现象引发的反应
-> - "elicit information through careful questioning"（通过仔细提问探出信息）——学术研究、调查类语境
-> - "elicit sympathy from readers"（引起读者的同情）——文学评论类文本
+> - "The questionnaire was intended to elicit information on eating habits." `[COCA-ACAD]`
+> - "She's been trying to elicit the support of other committee members." `[COCA-ACAD]`
+> - "My question elicited no response." `[COCA-ACAD]`
+> - "The discussion elicited strong reactions from the audience." `[COCA-ACAD]`
 
 ---
 

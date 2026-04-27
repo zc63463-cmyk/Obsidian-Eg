@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**确保；保证**==；
+**v.** ①==**确保；保证**== `ensure that...` / `ensure sth.` ;
 
 > [!tip] 原型义
 > **原型义**：使某事变得确定、有保障
@@ -126,8 +126,10 @@ en-(使动/进入) + sure(确定的/安全的) → 使变得确定 → 确保
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The government has taken steps to ensure that all children receive a quality education."（政府已采取措施确保所有儿童都能接受优质教育。）——考研阅读真题
-> - "They could take reasonable measures to ensure that phone data are not erased or altered while a warrant is pending."（他们可以采取合理措施确保在等待搜查令期间手机数据不被删除或篡改。）——考研阅读真题
+> > - "They could take reasonable measures to ensure that phone data are not erased or altered while a warrant is pending." `[真题]`
+> > - "They are assumed to save during working periods to ensure they have sufficient income when not working." `[COCA-ACAD]`
+> > - "The airline is taking steps to ensure safety on its aircraft." `[COCA-ACAD]`
+> > - "Coherence can be partially ensured if different semantic identities are based on similar structural characteristics." `[COCA-ACAD]`
 
 ---
 

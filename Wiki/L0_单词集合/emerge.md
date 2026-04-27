@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**浮现，出现**==；②（事实、意见等）显露，暴露；③兴起，崛起；
+**vi.** ①==**浮现，出现**== `emerge from sth` `emerge as sth`；②（事实、意见等）显露，暴露 `the truth emerged`；③兴起，崛起 `emerge as a leader/power`；
 
 > [!tip] 原型义
 > **原型义**：从水中浮出，从隐藏处显现
@@ -127,8 +127,10 @@ e-/em-(出，向外) + merg(沉没，源自拉丁语 *mergere*) → 从沉没中
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A new pattern of consumer behavior has **emerged** in recent years.（近年来出现了一种新的消费者行为模式。）
-> - It later **emerged** that the company had been aware of the defect for months.（后来有消息透露，该公司几个月前就知道这一缺陷。）
+> - "A new pattern of consumer behavior has emerged in recent years." `[COCA-ACAD]`
+> - "It later emerged that the company had been aware of the defect for months." `[COCA-NEWS]`
+> - "She has emerged as a leading contender in the field." `[COCA-NEWS]`
+> - "A pattern is beginning to emerge from our analysis of the accident data." `[COCA-ACAD]`
 
 ---
 

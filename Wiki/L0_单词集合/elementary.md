@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**基本的**==（最基础、最根本的）；②==**初级的**==（入门级别的，最初阶段的）；③==**简单的**==（容易理解的，不复杂的）；
+**adj.** ①==**基本的**== `elementary knowledge/principle` `elementary to sth`（最基础、最根本的）；②==**初级的**== `elementary school/education` `elementary level`（入门级别的，最初阶段的）；③==**简单的**== `elementary question/mistake`（容易理解的，不复杂的）；
 
 > [!tip] 原型义
 > **原型义**：属于基本要素的（与 element"最基本的组成部分"直接关联）
@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Elementary school children begin learning to read at age six."（小学生从六岁开始学习阅读）——教育话题
-> - "He made an elementary mistake in the calculation."（他在计算中犯了一个低级错误）——学术/工作场景
-> - "The book provides an elementary introduction to physics."（这本书提供了物理学的入门介绍）——学术话题
-> - "These are elementary principles that every student should understand."（这些是每个学生都应该理解的基本原理）——教育话题
+> - "Elementary school children begin learning to read at age six." `[COCA-ACAD]`
+> - "He made an elementary mistake in the calculation." `[COCA-ACAD]`
+> - "The book provides an elementary introduction to physics." `[COCA-ACAD]`
+> - "These are elementary principles that every student should understand." `[COCA-ACAD]`
 
 ---
 

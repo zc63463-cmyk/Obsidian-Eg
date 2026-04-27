@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**估计，估算**==；②==**评价，判断**==；
-**n.** ①==**估计，估算**==；②判断，看法；
+**vt.** ①==**估计，估算**== `estimate the cost/number` `estimate that...` ；②==**评价，判断**== ;
+**n.** ①==**估计，估算**== `a rough estimate` `by estimate` ；②判断，看法；
 
 > [!tip] 原型义
 > **原型义**：大致确定某物的价值（对事物的价值或数量进行近似的评估）
@@ -131,8 +131,9 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[stim]]（=aestimare，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We estimate that either eliminating a substantial labour-rights concern or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment."（我们估计，要么消除重大劳动权利问题，要么将企业捐赠增加约20%，其罚款通常比贿赂外国官员的典型惩罚低40%。）——考研阅读真题
-> - "It is difficult to estimate the total cost of the project at this stage."（在这个阶段很难估计项目的总成本。）——考研高频表达
+> - We estimate that either eliminating a substantial labour-rights concern or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment. `[真题]`
+> - He estimates that current oil reserves are 20 percent lower than they were a year ago. `[COCA-NEWS]`
+> - The cost of the project has been estimated at about ten million dollars. `[COCA-ACAD]`
 
 ---
 

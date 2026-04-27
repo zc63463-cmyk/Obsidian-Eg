@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**转移，转向**==；②==**消遣，娱乐**==；③==**绕行路，分流**==；④分散注意力的事物；
+**n.** ①==**转移，转向**== `the diversion of N`; ②==**消遣，娱乐**== `a welcome diversion`; `create a diversion`; ③==**绕行路，分流**== `road/traffic diversion`; ④分散注意力的事物；
 
 > [!tip] 原型义
 > **原型义**：转向别处，转移注意力（di-分开 + vers-转 + -ion 名词后缀 → 转到别的方向）
@@ -134,8 +134,10 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The creation of a new leisure centre served as a welcome diversion for the local community."（新休闲中心的建成为当地社区提供了一个受欢迎的消遣方式。）——考研高频表达
-> - "The government tried to create a diversion to draw attention away from the scandal."（政府试图制造转移注意力的手段，以分散人们对丑闻的关注。）——考研高频表达
+> - "Sports provide him with a welcome diversion from the pressures of his job." `[COCA-ACAD]`
+> - "The diversion of water from the river into the reservoir has caused environmental concerns." `[COCA-ACAD]`
+> - "A smoke bomb created a diversion while the robbery took place." `[COCA-ACAD]`
+> - "Small diversions of river water for irrigation have been practiced for centuries." `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**股息，红利**==；②==**回报，效益**==；③被除数（数学）；
+**n.** ①==**股息，红利**== `pay a dividend`; `dividend yield`; ②==**回报，效益**== `pay dividends`; `reap dividends`; ③被除数（数学）；
 
 > [!tip] 原型义
 > **原型义**：分配后得到的份额（divid-分 + -end 名词后缀 → 分配的结果）
@@ -134,8 +134,10 @@ divid(分) + -end(名词后缀，表示结果) = dividend（分配后得到的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company paid an annual dividend of $2 per share."（公司每股支付2美元的年度股息。）——考研高频表达
-> - "His years of hard work finally paid dividends."（他多年的努力终于得到了回报。）——考研高频表达
+> - "The company announced a dividend of $0.23 per share." `[COCA-ACAD]`
+> - "His years of hard work finally paid dividends." `[COCA-ACAD]`
+> - "Profits are distributed to shareholders as dividends." `[COCA-ACAD]`
+> - "The peace dividend has not materialised despite military spending going down in most countries." `[COCA-ACAD]`
 
 ---
 

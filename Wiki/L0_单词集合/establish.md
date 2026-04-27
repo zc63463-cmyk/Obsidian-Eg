@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**建立，设立**==；②==**确立，证实**==；③使立足，使稳固；
+**vt.** ①==**建立，设立**== `establish a company/system` `establish a link between A and B` ；②==**确立，证实**== `establish the fact/truth` `establish oneself as` ；③使立足，使稳固；
 
 > [!tip] 原型义
 > **原型义**：使某物站稳脚跟（使某事物获得稳固的位置或地位）
@@ -133,8 +133,9 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study established a link between diet and health."（这项研究证实了饮食与健康之间的联系。）——2018年考研英语二Text3
-> - "It takes time to establish trust between people from different cultural backgrounds."（在不同文化背景的人之间建立信任需要时间。）——考研高频表达
+> - The study established a link between diet and health. `[真题]`
+> - Medical tests established that she was not their own child. `[COCA-NEWS]`
+> - He has established himself as a pivotal figure in U.S. politics. `[COCA-NEWS]`
 
 ---
 

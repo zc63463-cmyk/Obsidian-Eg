@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有效的，产生预期效果的**==；②==**实际的，事实上的**==（强调实际运作而非名义上）；③==**（法律、规则等）生效的**==；
+**adj.** ①==**有效的，产生预期效果的**== `` `effective measures/solutions` `` `` `highly effective` ``；②==**实际的，事实上的**==（强调实际运作而非名义上）`` `the effective leader` `` `` `effective control` ``；③==**（法律、规则等）生效的**== `` `effective date` `` `` `become effective` ``；
 
 > [!tip] 原型义
 > **原型义**：能做出预期结果的（ef- "出来" + fect "做" + -ive "有...倾向的" → 能做出结果的）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government took effective measures to combat air pollution."（政府采取了有效措施来对抗空气污染）——政策环保类阅读
-> - "effective communication skills are essential in the workplace"（有效的沟通技巧在工作场所至关重要）——职场类话题
-> - "the effective use of technology in education"（技术在教育中的有效使用）——教育科技类阅读
+> - The government took effective measures to combat air pollution. `[COCA-ACAD]`
+> - Effective communication skills are essential in the workplace. `[COCA-ACAD]`
+> - The new software proved highly effective in reducing errors. `[COCA-ACAD]`
+> - The teacher's use of multimedia presentations was an effective way to engage students. `[COCA-ACAD]`
 
 ---
 

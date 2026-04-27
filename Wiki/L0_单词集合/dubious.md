@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可疑的，值得怀疑的**== ; ②不确定的，犹豫的 ;
+**adj.** ①==**可疑的，值得怀疑的**== `be dubious about sth.` `of dubious value` ; ②不确定的，犹豫的 `it is dubious whether...` ;
 
 > [!tip] 原型义
 > **原型义**：摇摆不定的，两头犹豫的
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me."（人们为什么愿意为了住在乡下这一令人怀疑的特权而每天忍受四个小时的通勤，我实在无法理解。）——考研真题阅读
-> - "The research is of dubious value and its conclusions should be treated with caution."（这项研究的价值令人怀疑，其结论应谨慎对待。）——考研高频表达
+> - "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me." `[真题]`
+> - "They indulged in some highly dubious business practices to obtain their current position in the market." `[COCA-ACAD]`
+> - "The problems involved in assessing functional importance render the concept highly dubious sociologically." `[COCA-ACAD]`
+> - "It is dubious whether she will be able to finish the project on time." `[COCA-ACAD]`
 
 ---
 

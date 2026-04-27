@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**文件，公文**==；②==**文献，文档**==；③证件，证书；
-**vt.** ①==**记录，记载**==；②==**用文件证明**==；
+**n.** ①==**文件，公文**== `legal/official document`; ②==**文献，文档**== `historical documents`; ③证件，证书；
+**vt.** ①==**记录，记载**== `document the process/changes`; ②==**用文件证明**== `well-documented`;
 
 > [!tip] 原型义
 > **原型义**：书写的证据，记录下来的东西（doc-教导 + [[text]]-编织/文字 → 编织出来的教导文字 → 正式记录）
@@ -136,8 +136,10 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researcher carefully documented every stage of the experiment to ensure the results could be replicated."（研究者仔细记录了实验的每个阶段，以确保结果可以被复现。）——考研高频表达
-> - "Historical documents reveal that the practice dates back several centuries."（历史文献表明，这种做法可以追溯到几个世纪前。）——考研高频表达
+> - "The researcher carefully documented every stage of the experiment to ensure the results could be replicated." `[COCA-ACAD]`
+> - "Historical documents reveal that the practice dates back several centuries." `[COCA-ACAD]`
+> - "Mobile phones have been used as a tool to document the violation of human rights." `[COCA-ACAD]`
+> - "It is well documented that men die younger than women." `[COCA-ACAD]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**情感，情绪**==；②强烈的感情，激情；
+**n.** ①==**情感，情绪**== `` `show/express emotion` `` `` `mixed emotions` ``；②==**强烈的感情，激情**== `` `overcome with emotion` ``；
 
 > [!tip] 原型义
 > **原型义**：向外移动，激动（内心被搅动而外露）
@@ -127,8 +127,9 @@ e-/em-(出，向外) + mot(移动，源自拉丁语 *movere*) + ion(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research has shown that **emotions** play a critical role in decision-making.（研究表明，情感在决策中起着关键作用。）
-> - She struggled to control her **emotions** during the farewell ceremony.（在告别仪式上，她努力控制着自己的情绪。）
+> - Research has shown that **emotions** play a critical role in decision-making. `` `[COCA-ACAD]` ``
+> - Fear can be a powerful **emotion** and there will be a bit of that over the next six weeks. `` `[COCA-NEWS]` ``
+> - The second goal of the study was to explore the possibility that maltreated foster children were more sensitive to the **emotion** of anger. `` `[COCA-ACAD]` ``
 
 ---
 

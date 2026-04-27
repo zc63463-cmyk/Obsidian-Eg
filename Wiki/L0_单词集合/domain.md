@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**领域，范围**== ; ②==**领土，领地**== ; ③（互联网）域名
+**n.** ①==**领域，范围**== `the domain of N`; `public/private domain` ; ②==**领土，领地**== ; ③（互联网）域名 `domain name`
 
 > [!tip] 原型义
 > **原型义**：房屋、领地
@@ -124,8 +124,10 @@ dom-(=domus，房屋、家) + -ain(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It should not be surprising if he makes errors in this domain; on the contrary, it would be astonishing if he did not."（如果他在这个领域犯错，不应该感到惊讶；相反，如果他不犯错，那才令人惊讶——权威语料）
-> - "The research has important implications for the domain of artificial intelligence."（这项研究对人工智能领域具有重要意义——考研高频表达）
+> - "Childcare is no longer solely a female domain." `[COCA-ACAD]`
+> - "These documents are in the public domain." `[COCA-ACAD]`
+> - "The research has important implications for the domain of artificial intelligence." `[COCA-ACAD]`
+> - "Literature is my domain, but electronics is my sister's." `[COCA-ACAD]`
 
 
 ---

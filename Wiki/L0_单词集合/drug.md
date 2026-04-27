@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**药物，药**==；②==**毒品**==；③麻醉药；
-**v.** ①使服麻醉药；在（食物或饮料）中下药；
+**n.** ①==**药物，药**== `prescription drug`; `drug store`; ②==**毒品**== `illegal drugs`; `drug abuse/addict`; ③麻醉药 `under the drug`;
+**v.** ①使服麻醉药 `drug sb`; 在（食物或饮料）中下药 `drug sb's drink`;
 
 > [!tip] 原型义
 > **原型义**：干燥的草药（晒干的药用植物）
@@ -127,8 +127,10 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people mistakenly believe the term drug refers only to some sort of medicine or an illegal chemical taken by drug addicts."（许多人错误地认为 drug 这个词仅仅指某种药物或吸毒者服用的非法化学品。——1997年考研英语阅读Text1，drug 的经典真题）
-> - "Technically, any substance other than food that alters our bodily or mental functioning is a drug."（严格来说，除食品外，任何能改变我们生理或心理功能的物质都是药物。——考研英语阅读，drug 的定义性例句）
+> - "Many people mistakenly believe the term drug refers only to some sort of medicine or an illegal chemical taken by drug addicts." `[真题]`
+> - "Technically, any substance other than food that alters our bodily or mental functioning is a drug." `[真题]`
+> - "Commonly abused prescription opioids include morphine, codeine, Vicodin, and Demerol." `[COCA-ACAD]`
+> - "The government has launched a nationwide campaign against illegal drugs." `[COCA-ACAD]`
 
 ---
 

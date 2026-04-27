@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-adj. ①==**精力充沛的；积极的**==；②有力的；
+adj. ①==**精力充沛的；积极的**== `an energetic person` `energetic efforts`；②有力的；
 
 > [!tip] 原型义
 > **原型义**：充满能量和活力的
@@ -119,8 +119,10 @@ en-(=in, 在…中) + erg(=ergon, work/能量) + -etic(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-- He is an energetic young man with a passion for sports.（他是一个热爱运动的精力充沛的年轻人。）
-- The market showed energetic growth in the first quarter.（市场在第一季度表现出有力的增长。）
+> - The dancers gave an energetic, thrilling, and polished performance which delighted everyone in the audience. `[COCA-ACAD]`
+> - Captain Nagumo was a capable, intelligent, and energetic officer. `[COCA-ACAD]`
+> - The outdoor centre organizes lots of energetic activities for the kids, like cycling and canoeing. `[COCA-ACAD]`
+> - He seemed a dynamic and energetic leader. `[例]`
 
 ---
 

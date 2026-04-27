@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**展示，陈列**== ; ②显示，表现（情感/品质）；③（计算机）显示；
-**n.** ①展示，陈列；②显示器；③表现，展示（of）；
+**v.** ①==**展示，陈列**== `V N`; ②显示，表现（情感/品质）`V N`; ③（计算机）显示 `V N`;
+**n.** ①展示，陈列 `on display`; ②显示器 `N`; ③表现，展示（of）`N of N`;
 
 > [!tip] 原型义
 > **原型义**：展开、铺展开来（源自拉丁语 displacere 的变体，与 dis- "展开" + plicare "折叠" 相关，后演变为 display）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A collection of ancient Chinese porcelain is currently on display at the national museum."（一批中国古代瓷器目前正在国家博物馆展出。）——考研高频表达
-> - "The athlete displayed remarkable endurance throughout the marathon race."（这位运动员在整个马拉松比赛中展现了非凡的耐力。）——考研高频表达
+> - A collection of ancient Chinese porcelain is currently on display at the national museum. `[COCA-ACAD]`
+> - The athlete displayed remarkable endurance throughout the marathon race. `[COCA-ACAD]`
+> - It was unlike my brother to display his feelings. `[COCA-FIC]`
+> - The museum carefully displayed ancient artifacts in glass cases for visitors to admire. `[COCA-ACAD]`
 ---
 
 

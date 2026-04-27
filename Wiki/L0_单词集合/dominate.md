@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**支配，统治，控制**== ; ②==**在…中占首要地位**== ; ③俯视，耸立于 ;
+**v.** ①==**支配，统治，控制**== `V N`; `V the market/field`; ②==**在…中占首要地位**== `V N`; `dominate the conversation/debate`; ③俯视，耸立于 `dominate the landscape/cityscape`;
 
 > [!tip] 原型义
 > **原型义**：统治、控制——行使权力支配他人或他物
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies."（Facebook和谷歌这两个虚拟巨头主宰着数字广告，对所有其他媒体和娱乐公司不利。）——2018考研英语二阅读
-> - "Kodak's decision to file for bankruptcy protection is a sad turning point for a leading American corporation that dominated the film market for decades."（柯达申请破产保护的决定对于一家主导胶片市场数十年的美国领先企业来说是一个可悲的转折点。）——考研真题阅读
+> - "Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies." `[真题]`
+> - "Kodak's decision to file for bankruptcy protection is a sad turning point for a leading American corporation that dominated the film market for decades." `[真题]`
+> - "The cathedral dominates the landscape for miles around." `[COCA-ACAD]`
+> - "The dispute is likely to dominate the news." `[COCA-ACAD]`
 
 ---
 

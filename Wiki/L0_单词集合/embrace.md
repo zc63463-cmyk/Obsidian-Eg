@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**拥抱，抱**==；②==**欣然接受，采纳（新思想、新方法等）**==；③包含，包括；
+**vt.** ①==**拥抱，抱**== `embrace sb warmly` `embrace and kiss`；②==**欣然接受，采纳（新思想、新方法等）**== `embrace change/opportunity` `embrace new technology/ideas`；③包含，包括 `embrace all aspects`；
 **vi.** 拥抱；
-**n.** ①拥抱；②接受，采纳；
+**n.** ①拥抱 `in the embrace of`；②接受，采纳；
 
 > [!tip] 原型义
 > **原型义**：用双臂环抱（将某人或某物纳入双臂之间）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "embrace the challenge"（欣然接受挑战）——考研阅读/翻译高频搭配，描述积极面对困难的态度
-> - "embrace new technology"（接受新技术）——科技类阅读常见搭配
-> - "in the warm embrace of his family"（在家人温暖的怀抱中）——文学类文本
+> - "He has wholeheartedly embraced life in south Louisiana." `[COCA-NEWS]`
+> - "The word 'culture' embraces both artistic and sociological aspects of a society." `[COCA-ACAD]`
+> - "While he has broadly embraced change, one area remains untouched." `[COCA-NEWS]`
+> - "Phoebe ran to embrace her mother." `[COCA-FIC]`
 
 ---
 

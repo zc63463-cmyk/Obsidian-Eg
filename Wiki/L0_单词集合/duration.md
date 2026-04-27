@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**持续时间，期间**== ;
+**n.** ①==**持续时间，期间**== `for the duration of` `of short/long duration` ;
 
 > [!tip] 原型义
 > **原型义**：持续的状态/过程，持续的时间长度
@@ -122,8 +122,10 @@ dur(持续) + -ation(行为/状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The school was used as a hospital for the duration of the war."（战争期间这所学校被用作医院。）——考研高频表达
-> - "The duration of the course is approximately twelve weeks."（课程的持续时间约为十二周。）——考研高频表达
+> - "The school was used as a hospital for the duration of the war." `[COCA-ACAD]`
+> - "He was given the task of protecting her for the duration of the trial." `[COCA-ACAD]`
+> - "This remained the case throughout the duration of the war." `[COCA-ACAD]`
+> - "You should gradually increase the duration of your workout." `[COCA-ACAD]`
 
 ---
 

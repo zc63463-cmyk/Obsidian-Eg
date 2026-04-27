@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**雇主，老板**==；②==**雇用者**==；
+**n.** ①==**雇主，老板**== `` `current/former employer` `` `` `employer-sponsored` ``；②==**雇用者**== `` `employer-employee relations` ``；
 
 > [!tip] 原型义
 > **原型义**：卷入别人来使用的人（employ 雇用 + -er 做……的人）
@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "employer-employee relations"（劳资关系）——考研阅读中社会经济类文章常见话题
-> - "employer-sponsored programs"（雇主赞助的项目）——考研阅读中福利制度话题
-> - "rights and responsibilities of employers"（雇主的权利和责任）——考研阅读中法律经济类文章
+> - According to reports, the U.S. military is the largest **employer** in the country. `` `[COCA-NEWS]` ``
+> - He had been sent to Rome by his **employer**. `` `[COCA-FICT]` ``
+> - It is a privilege to work for such an excellent **employer**. `` `[COCA-ACAD]` ``
 
 ---
 

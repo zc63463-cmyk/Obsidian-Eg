@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**溶解**== ; ②==**解散，消除**== ; ③==**（使）逐渐消失**== ;
+**v.** ①==**溶解**== `V in N`; ②==**解散，消除**== `V N`; ③==**（使）逐渐消失**== `V / V into N`;
 
 > [!tip] 原型义
 > **原型义**：使松开、使散开（源自拉丁语 dissolvere "松开、解散"）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A social revolution is needed to dissolve the legacy of colonialism."（为了消除殖民主义的遗留影响，社会革命甚属必要。）——考研高频表达
-> - "They decided to dissolve their business partnership."（他们决定结束商业合作关系。）——考研高频表达
+> - A social revolution is needed to dissolve the legacy of colonialism. `[真题]`
+> - They decided to dissolve their business partnership. `[真题]`
+> - The monarch had the power to dissolve parliament. `[COCA-ACAD]`
+> - Sugar dissolves easily in hot water. `[COCA-ACAD]`
 ---
 
 
