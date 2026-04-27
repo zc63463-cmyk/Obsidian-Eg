@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**表明，显示**==（~ that...）；②==**指出，指示**==（方向、位置等）；③==**象征，暗示**==；④==**需要，建议**==（~ sth. for sth.，如 indicate the need for）；
+**vt.** ①==**表明，显示**== `indicate that...`；②==**指出，指示**== `indicate the direction/way`；③==**象征，暗示**== `indicate a trend/problem`；④==**需要，建议**== `indicate the need for`；
 
 > [!tip] 原型义
 > **原型义**：指向某个方向（in- "向" + dic- "说/指出" → 指出来 = 指示/表明）
@@ -133,9 +133,9 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Research indicates that sleep deprivation can impair cognitive function."（研究表明，睡眠不足会损害认知功能）——科普/健康类阅读
-> - "The survey results indicate a growing dissatisfaction with the current system."（调查结果表明，人们对现行体制的不满日益增长）——社会调查类话题
-> - "Studies have indicated that early intervention is crucial for children with learning difficulties."（研究已表明，早期干预对有学习困难的儿童至关重要）——教育类话题
+> - Research indicates that sleep deprivation can impair cognitive function. `[COCA-ACAD]`
+> - The survey results indicate a growing dissatisfaction with the current system. `[COCA-ACAD]`
+> - Both of these subscales are scored so that high scores indicate greater psychological well-being and vitality. `[COCA-ACAD]`
 
 ---
 

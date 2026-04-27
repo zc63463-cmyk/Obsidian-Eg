@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**暗示，意味**== ; ②==**必然包含，意味着**==
+**vt.** ①==**暗示，意味**== `imply that...` `imply sth.` ; ②==**必然包含，意味着**== `A implies B`
 
 > [!tip] 原型义
 > **原型义**：折叠进去、包含在内（物理层面的折叠包裹）
@@ -123,8 +123,10 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "What does the author imply about the future of the industry?"（作者对这个行业的未来有什么暗示？）——考研阅读高频设问
-> - "The report implies that the government knew about the problem before it became public."（这份报告暗示政府在问题公开之前就已经知道了。）——考研高频表达
+> > - `The report implies that the government knew about the problem before it became public.` `[真题]`
+> > - `Her remarks implied a threat.` `[COCA-ACAD]`
+> > - `I did not mean to imply that there was any truth to these accusations.` `[COCA-ACAD]`
+> > - `Socialism implies equality.` `[COCA-ACAD]`
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**包容的，包括一切的**==；②包容性的，不排斥任何群体的；③（计算中）包含首尾的（如 from 1 to 10 inclusive）；
+**adj.** ①==**包容的，包括一切的**== `an all-inclusive package; inclusive price`；②包容性的，不排斥任何群体的`inclusive education; inclusive growth`；③（计算中）包含首尾的（如 from 1 to 10 inclusive）`from X to Y inclusive`；
 
 > [!tip] 原型义
 > **原型义**：包容的，将所有部分都包含在内的
@@ -123,8 +123,9 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"）+ -ive（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has promoted inclusive education to ensure equal access for all students.（政府推行包容性教育，确保所有学生享有平等的教育机会。）
-> - Inclusive economic growth is essential for reducing inequality.（包容性经济增长对于减少不平等至关重要。）
+> - Supporters of inclusive education say that letting students with and without disabilities learn side-by-side helps to undo the stigma associated with special education. `[COCA-NEWS]`
+> - Sustained, inclusive and sustainable economic growth is required to achieve sustainable development. `[COCA-ACAD]`
+> - The resort offers an all-inclusive package with meals, drinks, and activities. `[COCA-NEWS]`
 
 ---
 

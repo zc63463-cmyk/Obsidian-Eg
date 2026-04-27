@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**包括，包含**==；②把……列入，计入；
+**v.** ①==**包括，包含**== `include sth. in; including`；②把……列入，计入`be included in the calculation`；
 
 > [!tip] 原型义
 > **原型义**：将某物作为整体的一部分包含在内
@@ -121,8 +121,9 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"——来自
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The research project includes several phases of data collection and analysis.（该项目包括数据收集和分析的几个阶段。）
-> - Tuition fees do not include accommodation and living expenses.（学费不包括住宿和生活费。）
+> - Your responsibilities will include making appointments on my behalf. `[COCA-ACAD]`
+> - Symptoms of the illness include a high temperature and a persistent dry cough. `[COCA-ACAD]`
+> - The price of the car included all taxes and fees. `[COCA-NEWS]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**推论，推断**==；②推理过程；③推断的结果、结论；
+**n.** ①==**推论，推断**== `draw an inference` / `by inference` ；②推理过程；③推断的结果、结论 `an inference that...` ;
 
 > [!tip] 原型义
 > **原型义**：推断的结果（infer 的名词形式，源自拉丁语 inferentia）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You begin to infer a context for the text, for instance, by making decisions about what kind of speech event is involved."（你开始推断文本的语境，例如，通过判断涉及的是哪种言语事件。）——2015年考研真题
-> - "The researcher drew the inference that there is a causal relationship between the two variables."（研究者推断这两个变量之间存在因果关系。）——考研高频表达
+> - "You begin to infer a context for the text, for instance, by making decisions about what kind of speech event is involved." `[真题]`
+> - "The value of data depends on our skill in drawing inferences from it." `[COCA-ACAD]`
+> - "If he is guilty then, by inference, so is his partner." `[COCA-ACAD]`
+> - "There are certain inferences we can draw about the origins of language." `[COCA-ACAD]`
 ---
 
 

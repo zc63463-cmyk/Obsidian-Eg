@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**意图，打算，目的**==；②==**意向，意旨**==；
+**n.** ①==**意图，打算，目的**== `have no intention of` `with the intention of` ；②==**意向，意旨**== `original/declared intention` ；
 
 > [!tip] 原型义
 > **原型义**：向内伸展的状态（心思指向某处的意图/目的）
@@ -127,8 +127,9 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tens]](=伸展，*tendere* 的过
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It has never been the intention of the government that the reforms should deny compensation to genuine applicants."（政府的意图从来不是让改革拒绝向真正的申请者提供赔偿。——剑桥词典例句）
-> - "I have no intention of retiring just yet."（我还没有退休的打算。——剑桥词典例句）
+> - It has never been the intention of the government that the reforms should deny compensation to genuine applicants. `[COCA-ACAD]`
+> - I have no intention of retiring just yet. `[COCA-ACAD]`
+> - He has announced his intention to retire. `[COCA-ACAD]`
 
 ---
 

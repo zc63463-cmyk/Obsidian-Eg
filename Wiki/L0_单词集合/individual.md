@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**个人，个体**== ;
-**adj.** ①==**个人的，个体的**== ; ②个别的，单独的 ; ③独特的，与众不同的 ;
+**n.** ①==**个人，个体**== `` `each individual / the individual` `` ;
+**adj.** ①==**个人的，个体的**== `` `individual rights / individual differences` `` ; ②个别的，单独的 `` `on an individual basis` `` ; ③独特的，与众不同的 `` `individual style` `` ;
 
 > [!tip] 原型义
 > **原型义**：不（in-）能再分（[[gen|divid]]）的——最小的、不可再分的单位
@@ -128,9 +128,10 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It tells the fashion industry that it must take responsibility for the signal it sends women about the social tape-measure they must use to determine their individual worth."（这一措施还向时尚行业表明，时尚行业应对其向女性所发出的信号负责，这些信号是关于上述人群用于决定自身价值的社会衡量标准。）——2016考研英语阅读
-> - "The rights of the individual must be balanced against the interests of the community."（个人权利必须与社区利益相平衡。）——考研高频表达
-> - "Each individual has a unique set of skills and experiences to contribute."（每个人都有独特的技能和经验可以贡献。）——考研高频表达
+> - The rights of the individual must be balanced against the interests of the community. `` `[真题]` ``
+> - It tells the fashion industry that it must take responsibility for the signal it sends women about the social tape-measure they must use to determine their individual worth. `` `[真题]` ``
+> - Each individual has a unique set of skills and experiences to contribute. `` `[COCA-ACAD]` ``
+> - Teachers should take individual differences into account when designing curricula. `` `[COCA-ACAD]` ``
 
 ---
 

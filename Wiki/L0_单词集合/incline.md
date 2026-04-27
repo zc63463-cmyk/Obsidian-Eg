@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使倾向于，使想要**==；②使倾斜；
-**vi.** ①倾向，偏向；②倾斜，弯腰；
-**n.** ①斜坡，斜面；
+**vt.** ①==**使倾向于，使想要**== `incline sb. to do sth.; incline sb. toward sth.`；②使倾斜`incline one's head`；
+**vi.** ①倾向，偏向`be inclined to do sth.; incline toward/to sth.`；②倾斜，弯腰`the road inclines at an angle`；
+**n.** ①斜坡，斜面`a steep incline`；
 
 > [!tip] 原型义
 > **原型义**：使身体倾斜、弯腰（物理上的倾斜动作）
@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I am inclined to agree with this view."（我倾向于同意这个观点。）——考研阅读、翻译中常见表达
-> - "Factors that incline people toward certain behaviors."（使人们倾向于某些行为的因素。）——社会心理学类阅读
-> - "incline one's head in acknowledgment"（点头致意）——文学类文本
+> - I am inclined to agree with this view. `[COCA-ACAD]`
+> - If the media is inclined to be skeptical, the public will follow. `[COCA-NEWS]`
+> - The road inclines at an angle of about 12 degrees. `[COCA-ACAD]`
 
 ---
 

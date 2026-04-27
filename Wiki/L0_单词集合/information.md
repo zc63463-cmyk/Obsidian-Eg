@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**信息，情报**==；②资料，数据；③通知，告知；
+**n.** ①==**信息，情报**== `gather/collect information` / `information about` ；②资料，数据 `information technology` ；③通知，告知 `for further information` ;
 
 > [!tip] 原型义
 > **原型义**：塑造认知的内容（inform 的名词形式，源自拉丁语 informatio = "赋予形状"→被塑造的内容→信息）
@@ -135,8 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has made it easier than ever to access information, but it has also raised concerns about the reliability of online sources."（互联网使获取信息变得前所未有的容易，但也引发了对在线信息可靠性的担忧。）——考研高频表达
-> - "The protection of personal information has become a major concern in the digital age."（在数字时代，个人信息的保护已成为一个重大关切。）——考研高频表达
+> - "The internet has made it easier than ever to access information, but it has also raised concerns about the reliability of online sources." `[COCA-ACAD]`
+> - "The protection of personal information has become a major concern in the digital age." `[COCA-ACAD]`
+> - "We have reliable information that a strike is planned next month." `[COCA-ACAD]`
+> - "Information about the job market can be a lifeline for those who are out of work." `[COCA-ACAD]`
 ---
 
 

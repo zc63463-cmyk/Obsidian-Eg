@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**印象，感觉**== ; ②==**假象，错觉**==（常作复数 impressions） ; ③印记，压痕
+**n.** ①==**印象，感觉**== `first impression` `leave/make an impression on sb.` ; ②==**假象，错觉**== `under the impression that` ; ③印记，压痕
 
 > [!tip] 原型义
 > **原型义**：压印的痕迹、印记（物理层面印章留下的痕迹）
@@ -125,8 +125,10 @@ im-(=in，进入) + press(=press，按压) + -ion(名词后缀，表动作/结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The first impression is often the most lasting one."（第一印象往往是最持久的。）——考研高频表达
-> - "She gave the impression of being confident and capable."（她给人一种自信且能干的印象。）——考研高频表达
+> > - `The first impression is often the most lasting one.` `[真题]`
+> > - `She gave the impression of being confident and capable.` `[真题]`
+> > - `I was under the impression that the work had already been completed.` `[COCA-ACAD]`
+> > - `The soldiers scattered, under the impression that it was an enemy attack.` `[COCA-ACAD]`
 
 ---
 

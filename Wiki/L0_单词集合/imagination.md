@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**想象力，想象**==；②==**想象出来的事物**==；③==**创造力，独创力**==；
+**n.** ①==**想象力，想象**== `vivid imagination; capture one's imagination`；②==**想象出来的事物**== `products of imagination; figment of imagination`；③==**创造力，独创力**== `lack of imagination; stretch one's imagination`；
 
 > [!tip] 原型义
 > **原型义**：在脑海中形成图像的能力（心智构建画面、创造新事物的认知能力）
@@ -137,9 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Imagination is more important than knowledge."（想象力比知识更重要）——爱因斯坦名言，考研写作高频引用
-> - "The story captured the imagination of millions."（这个故事激发了数百万人的想象力）——阅读/翻译常见搭配
-> - "A child with a vivid imagination can transform a cardboard box into a spaceship."（想象力丰富的孩子能把纸箱变成宇宙飞船）——教育类阅读语境
+> - Imagination is more important than knowledge. `[真题]`
+> - For some reason, the story captured the imagination of the public. `[COCA-ACAD]`
+> - Antonia is a woman with a vivid imagination. `[COCA-ACAD]`
+> - The Government approach displays a lack of imagination. `[COCA-ACAD]`
 
 ---
 

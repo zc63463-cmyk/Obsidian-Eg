@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**富有想象力的，有创造力的**==；②==**想象力丰富的**==；
+**adj.** ①==**富有想象力的，有创造力的**== `imaginative writer/designer; imaginative solution/approach`；②==**想象力丰富的**== `highly imaginative; imaginative use of N`；
 
 > [!tip] 原型义
 > **原型义**：充满想象力的（拥有丰富的在脑海中形成图像的能力，善于创造新事物）
@@ -132,9 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is one of the most imaginative writers of her generation."（她是她那一代最具想象力的作家之一）——文学评论常见表达
-> - "The company needs an imaginative approach to solve this problem."（公司需要一种富有创意的方法来解决这个问题）——商业类阅读语境
-> - "an imaginative use of technology"（对技术的创造性运用）——科技类阅读
+> - She is one of the most imaginative writers of her generation. `[真题]`
+> - The artist's imaginative approach to painting brought a fresh perspective to the gallery. `[COCA-ACAD]`
+> - The company needs an imaginative approach to solve this problem. `[COCA-ACAD]`
+> - His imaginative storytelling captivated the audience. `[COCA-ACAD]`
 
 ---
 

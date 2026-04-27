@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**确实；的确**==；②真正地（强调）；③甚至（表示递进）；
+**adv.** ①==**确实；的确**== `it is indeed...`；②==**真正地（强调）**== `very much indeed`；③==**甚至（表示递进）**== `adj., indeed adj.`；
 
 > [!tip] 原型义
 > **原型义**：在事实/行为层面确实如此
@@ -125,8 +125,9 @@ in-(加强语气) + deed(行为/事实) → 在事实层面确实如此 → 确�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The task is difficult indeed, but not impossible."（这项任务确实很困难，但并非不可能。）——考研阅读真题
-> - "It is indeed a pleasure to work with such a talented team."（与这样一支才华横溢的团队合作确实是一种荣幸。）——考研高频表达
+> - It was impossible to find work and, indeed, it became increasingly hard to keep looking for a job. `[COCA-ACAD]`
+> - The task is difficult indeed, but not impossible. `[真题]`
+> - We live in strange times indeed. `[COCA-ACAD]`
 
 ---
 

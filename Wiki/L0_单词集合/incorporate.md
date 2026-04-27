@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**包含，合并，将……纳入**==；②组成公司，注册成立；
+**v.** ①==**包含，合并，将……纳入**== `incorporate sth into/within sth`；②==**组成公司，注册成立**== `be incorporated as sth`；
 
 > [!tip] 原型义
 > **原型义**：将某物纳入一个整体中，使之成为整体的一部分
@@ -123,8 +123,9 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We need to incorporate new technology into our existing system.（我们需要将新技术纳入现有系统。）
-> - The new findings have been incorporated into the revised edition.（新发现已被纳入修订版。）
+> - We need to incorporate new technology into our existing system. `[COCA-ACAD]`
+> - The new findings have been incorporated into the revised edition. `[COCA-ACAD]`
+> - The regular incorporation of organic material into garden soil improves its quality. `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**插图，图解**==；②==**说明，例证**==；③==**实例，范例**==；
+**n.** ①==**插图，图解**== `book/magazine illustration; N with illustration(s)`；②==**说明，例证**== `by way of illustration; a perfect illustration of N`；③==**实例，范例**== `provide an illustration; a case in illustration`；
 
 > [!tip] 原型义
 > **原型义**：照亮的结果（源自拉丁语 illustratio，illustrare"照亮、阐明"的名词形式，字面义"一种照亮"）
@@ -135,9 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "by way of illustration"（作为例证）——考研阅读/翻译高频搭配
-> - "a perfect illustration of this trend"（这一趋势的完美例证）——考研写作常用表达
-> - "books with beautiful illustrations"（配有精美插图的书）——考研阅读常见搭配
+> - A couple of examples are included, by way of illustration. `[COCA-ACAD]`
+> - The president's budget is a vivid illustration of how much the political landscape has changed. `[COCA-ACAD]`
+> - The book contains 25 colour illustrations. `[COCA-ACAD]`
+> - This case is a perfect illustration of the principle in action. `[真题]`
 
 ---
 

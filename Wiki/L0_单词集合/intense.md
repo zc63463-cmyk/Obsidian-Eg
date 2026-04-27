@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**强烈的，剧烈的，极度的**==；②紧张的；③热情的，认真的；④（感情）强烈的；
+**adj.** ①==**强烈的，剧烈的，极度的**== `intense competition/pressure/heat` ；②紧张的 `intense debate/scrutiny` ；③热情的，认真的 `intense interest` ；④（感情）强烈的 `intense emotion` ；
 
 > [!tip] 原型义
 > **原型义**：拉到极限（将绳子拉伸到极致的状态——绷紧、不可再拉）
@@ -131,8 +131,9 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet moments like this one are just the kind of intense absorption and pleasure adults spend the rest of their lives seeking."（然而，像这样的时刻正是成年人余生都在追寻的那种强烈的专注与愉悦。——考研英语阅读）
-> - "A child's ability to become deeply absorbed in something, and derive intense pleasure from that absorption, is something adults spend the rest of their lives trying to return to."（孩子深深沉浸于某事并从中获得强烈愉悦的能力，正是成年人余生都试图回归的东西。——考研英语阅读）
+> - Yet moments like this one are just the kind of intense absorption and pleasure adults spend the rest of their lives seeking. `[真题]`
+> - There is intense competition for the top jobs. `[COCA-ACAD]`
+> - His business affairs have been under intense scrutiny. `[COCA-ACAD]`
 
 ---
 

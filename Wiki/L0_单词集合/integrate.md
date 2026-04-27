@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**整合；融合；使一体化**== ;
-**vi.** ①融入；合并 ;
+**v.** ①==**整合；融合；使一体化**== `integrate A into/with B` ;
+**vi.** ①融入；合并 `integrate into...` ;
 
 > [!tip] 原型义
 > **原型义**：使成为整体、使完整
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And in Europe, some are up in arms over a proposal to drop a specific funding category for social-science research and to integrate it within cross-cutting topics of sustainable development."（在欧洲，一些人正极力反对一项提案，该提案提议削减专门用于社会科学研究的资金，转而将其整合到可持续发展的跨领域主题中——2013年考研一 新题型）
-> - "As many took on the duty of trying to integrate reasoning and scientific philosophies into the world."（许多人承担起将推理和科学哲学融入世界的责任——2020年考研英语一阅读）
+> - And in Europe, some are up in arms over a proposal to drop a specific funding category for social-science research and to integrate it within cross-cutting topics of sustainable development. `[真题]`
+> - As many took on the duty of trying to integrate reasoning and scientific philosophies into the world. `[真题]`
+> - The idea with young children is to integrate learning with play. `[COCA-ACAD]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**工业的，产业的**== ; ②从事工业的；工业发达的 ;
+**adj.** ①==**工业的，产业的**== `` `industrial revolution / industrial policy / industrial production` `` ; ②从事工业的；工业发达的 `` `industrial nation / industrial area` `` ;
 
 > [!tip] 原型义
 > **原型义**：工业的，产业的——与工业生产活动相关的
@@ -120,8 +120,10 @@ industr(y)(工业) + -ial(形容词后缀，"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Industrial production fell by 12.8% in the year to March, the worst slide since the Second World War."（截至三月份的一年内，工业生产下降了12.8%，是二战以来最严重的下滑。）——考研高频表达
-> - "For some industrial scientists, however, the attractions of academia outweigh any financial considerations."（然而，对于一些工业界科学家来说，学术界的吸引力超过了任何经济方面的考量。）——考研高频表达
+> - Industrial production fell by 12.8% in the year to March, the worst slide since the Second World War. `` `[真题]` ``
+> - For some industrial scientists, however, the attractions of academia outweigh any financial considerations. `` `[真题]` ``
+> - The Industrial Revolution transformed Britain from an agricultural society into an industrial powerhouse. `` `[COCA-ACAD]` ``
+> - The government's new industrial policy aims to boost high-tech manufacturing. `` `[COCA-ACAD]` ``
 ---
 
 

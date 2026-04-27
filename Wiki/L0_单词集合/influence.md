@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**影响，影响力**==；②势力，权势；③有影响的人/事物；
-**v.** ①影响，对……起作用；②支配，左右；
+**n.** ①==**影响，影响力**== `exert an influence on` / `have influence over` ；②势力，权势 `under the influence of` ；③有影响的人/事物;
+**v.** ①影响，对……起作用 `influence the course of` ; ②支配，左右;
 
 > [!tip] 原型义
 > **原型义**：流入、渗透（源自拉丁语 influere = in- + fluere，"流入"→像水一样渗透进来→产生影响）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These designers came to exert enormous influence on the course of American architecture."（这些设计师开始对美国建筑的发展方向产生巨大影响。）——2011年考研真题
-> - "Parents exert a profound influence on their children's values, attitudes, and behaviors."（父母对孩子的价值观、态度和行为施加深远的影响。）——考研高频表达
+> - "These designers came to exert enormous influence on the course of American architecture." `[真题]`
+> - "Her ideas have gradually gained influence in the company." `[COCA-ACAD]`
+> - "The chairman wields considerable influence over the board's decisions." `[COCA-ACAD]`
+> - "Now science could exert influence on the general public and change the structure of society through technology." `[COCA-ACAD]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**免疫的，有免疫力的**==；②==**不受影响的**==（to）；③==**免除的，豁免的**==（from）；
+**adj.** ①==**免疫的，有免疫力的**== `immune system / be immune to the virus`；②==**不受影响的**== `be immune to criticism/flattery`（to）；③==**免除的，豁免的**== `be immune from prosecution/taxation`（from）；
 
 > [!tip] 原型义
 > **原型义**：免于服务的（最初指免除公共义务和税收，不必服役或缴税）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No one is immune to the effects of climate change."（考研英语——没有人能不受气候变化的影响）
-> - "The immune system plays a crucial role in fighting against infections."（考研英语——免疫系统在对抗感染中起着关键作用）
-> - "Diplomats are usually immune from prosecution in the host country."（考研英语——外交官通常在驻在国享有刑事豁免权）
+> - No one is immune to the effects of climate change. `[真题]`
+> - The press had criticized her so often that in the end she had become immune to it. `[COCA-NEWS]`
+> - No one should be immune from prosecution. `[COCA-ACAD]`
 
 ---
 

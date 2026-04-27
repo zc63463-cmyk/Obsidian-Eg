@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**强加，推行（税、罚款、限制等）**== ; ②==**把……强加于**==（impose sth. on sb.）
+**vt.** ①==**强加，推行（税、罚款、限制等）**== `impose a tax/ban/sanction on` ; ②==**把……强加于**== `impose sth. on/upon sb.`
 
 > [!tip] 原型义
 > **原型义**：放在上面、施加（物理层面的空间放置）
@@ -122,9 +122,10 @@ im-(=in/on，在……上) + pos(=put/place，放置) + -e（建议创建词根�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "It can be concluded that girls' attraction to pink seems to be mainly imposed by profit-driven businessmen."（可以得出这样的结论：女孩对粉红色的喜爱似乎主要受到追逐利润的商人的强加。）——2012年考研阅读
-> - "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks."（英国的金融监管机构对大银行的管理层强加了一条非同寻常的规则。）——2019年考研英语一阅读Text1
-> - "Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals that provide digital services to consumers or users in France."（上周四，法国参议院通过了一项数字服务税，该税将对向法国消费者或用户提供数字服务的大型跨国公司征收一项全新的税。）——考研阅读真题
+> > - `It can be concluded that girls' attraction to pink seems to be mainly imposed by profit-driven businessmen.` `[真题]`
+> > - `Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks.` `[真题]`
+> > - `Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals.` `[真题]`
+> > - `Both the national and state governments exercise the right to impose stamp and consumption taxes.` `[COCA-ACAD]`
 
 ---
 

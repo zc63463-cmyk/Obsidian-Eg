@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①无辜的，无罪的 ; ②天真的，单纯的 ; ==**③无害的**== ; ④无辜受害的 ;
+**adj.** ①==**无辜的，无罪的**== `adj.` ; ②==**天真的，单纯的**== `adj.` ; ==**③无害的**== `adj.` ; ④无辜受害的 ;
 
-**n.** ①无辜者，天真的人 ;
+**n.** ①无辜者，天真的人 `n.` ;
 
 > [!tip] 原型义
 > **原型义**：无害的（源自拉丁语in- "不" + nocere "伤害"）
@@ -131,8 +131,10 @@ in-(不) + noc(伤害) + -ent(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We fear rejection, or that our innocent social advances will be misinterpreted as 'weird'."（我们害怕被拒绝，或者害怕我们单纯的社交示好会被误解为"怪异"。）——考研高频表达
-> - "Several innocent bystanders were injured when his car slid off the road."（当他的车滑出道路时，几名无辜的旁观者受了伤。）——考研高频表达
+> - "We fear rejection, or that our innocent social advances will be misinterpreted as 'weird'." `[真题]`
+> - "Several innocent bystanders were injured when his car slid off the road." `[真题]`
+> - "He was sure that the man was innocent of any crime." `[COCA-ACAD]`
+> - "They seemed so young and innocent." `[COCA-ACAD]`
 
 ---
 

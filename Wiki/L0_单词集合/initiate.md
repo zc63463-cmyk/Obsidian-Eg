@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**开始，发起**== ; ②==**使入门，接纳**（新成员） ; ③传授基础知识给
-**n.** ①==**新加入者**==（被接纳的人）
+**v.** ①==**开始，发起**== `v. + n.` ; ②==**使入门，接纳**（新成员） `v. + sb. + into + n.` ; ③传授基础知识给
+**n.** ①==**新加入者**==（被接纳的人） `n.`
 
 > [!tip] 原型义
 > **原型义**：开始、发起
@@ -127,8 +127,10 @@ in-(进入) + [[it]](走/行走) + -i- + -ate(动词后缀，使……)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Who initiated the violence?"（谁先使用了暴力？）——考研高频表达
-> - "Hague initiated a series of reforms of the Conservative Republican Party."（海格发起了一系列保守共和党的改革。）——考研高频表达
+> - "Hague initiated a series of reforms of the Conservative Republican Party." `[真题]`
+> - "The company initiated judicial proceedings against them." `[COCA-ACAD]`
+> - "Doctors have initiated a series of tests to determine the cause of the problem." `[COCA-ACAD]`
+> - "The council initiates its own studies and carries out research at the request of private organizations." `[COCA-ACAD]`
 ---
 
 

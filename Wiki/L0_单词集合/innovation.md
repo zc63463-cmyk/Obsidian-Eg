@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ==**①创新，革新**== ; ②新方法，新事物 ; ③新观念 ;
+**n.** ==**①创新，革新**== `n.` ; ②新方法，新事物 ; ③新观念 ;
 
 > [!tip] 原型义
 > **原型义**：使新的事物出现（源自拉丁语innovare"更新"，in- "进入" + novus "新"）
@@ -128,8 +128,10 @@ in-(进入) + nov(新) + -ation(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This keeps fees high and innovation slow."（这导致了律师费用居高不下、服务创新缓慢。）——2014考研英语一Text2
-> - "Inventions and innovations almost always come out of laborious trial and error."（发明和创新几乎总是来自艰苦的反复试验。）——1994考研英语Text5
+> - "This keeps fees high and innovation slow." `[真题]`
+> - "Inventions and innovations almost always come out of laborious trial and error." `[真题]`
+> - "Through technology and innovation, they found ways to get better results with less work." `[COCA-ACAD]`
+> - "No major innovations in social assistance took place during the 1950s and 1960s." `[COCA-ACAD]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**刺激，激励**==；②==**动机，诱因**==；③奖励，补贴；
-**adj.** ①刺激的，激励的；
+**n.** ①==**刺激，激励**== `provide an incentive for; create an incentive`；②==**动机，诱因**== `incentive to do sth.; have little incentive to do sth.`；③奖励，补贴`tax incentive; financial incentive`；
+**adj.** ①刺激的，激励的`incentive scheme/program`；
 
 > [!tip] 原型义
 > **原型义**：奏起旋律、点燃热情（原义为"定调、奏起"，引申为激发行动的力量）
@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Tax incentives are offered to encourage investment in renewable energy."（提供税收优惠以鼓励可再生能源投资。）——经济政策类阅读
-> - "There is little incentive for people to save money."（人们几乎没有存钱的动力。）——社会经济类阅读
-> - "financial incentives for employees"（对员工的物质激励）——管理类阅读
+> - Tax incentives are sometimes effective in encouraging people to save money. `[COCA-ACAD]`
+> - These kids have no incentive to learn. `[COCA-ACAD]`
+> - Executives had a strong incentive to destroy papers they knew would incriminate them in court. `[COCA-NEWS]`
 
 ---
 

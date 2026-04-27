@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**a.** ①==**聪明的，有才智的**== ; ②智能的（机器、系统等） ;
+**a.** ①==**聪明的，有才智的**== `a highly intelligent person` ; ②智能的（机器、系统等） `intelligent systems` ;
 
 > [!tip] 原型义
 > **原型义**：能够在信息之间进行选择理解的（拥有认知能力）
@@ -123,8 +123,9 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ent(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In his article How Intelligent Is Intelligence Testing? Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge."（在其文章《智力测试到底有多聪明？》中，斯滕伯格指出，传统测试最能评估分析能力和语言能力，但无法衡量创造力和实践知识——2007年考研Text 2）
-> - "We have yet to invent a firewall that is secure against ordinary humans, let alone super intelligent machines."（我们还没有发明出一种能防范普通人类的防火墙，更不用说超级智能机器了——考研高频表达）
+> - In his article How Intelligent Is Intelligence Testing? Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge. `[真题]`
+> - The top universities aim to select the most intelligent students. `[COCA-ACAD]`
+> - Dolphins are considered highly intelligent animals. `[COCA-ACAD]`
 
 
 ---

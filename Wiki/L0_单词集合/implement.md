@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**实施，执行（政策、计划等）**== ; ②使生效，落实
-**n.** ①工具，器具 ; ②==**手段，手段**==
+**vt.** ①==**实施，执行（政策、计划等）**== `implement a policy/plan/strategy` `implement measures/reforms` ; ②使生效，落实 `fully implement`
+**n.** ①工具，器具 `agricultural/writing implements` ; ②==**手段，手段**==
 
 > [!tip] 原型义
 > **原型义**：填充、使完整（物理层面的补充完善）
@@ -125,8 +125,10 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The government has promised to implement new measures to reduce pollution."（政府承诺实施新的措施来减少污染。）——考研阅读真题
-> - "The implementation of the new policy has been delayed by bureaucratic obstacles."（新政策的实施因官僚主义障碍而被推迟。）——考研高频表达
+> - The government has promised to implement new measures to reduce pollution. `[真题]`
+> - The determination of policy is not your business — your job is to implement it. `[COCA-ACAD]`
+> - Local councils will be given some leeway as to how they implement the legislation. `[COCA-ACAD]`
+> - Very few parties in government ever want to implement major political reform. `[COCA-ACAD]`
 
 ---
 

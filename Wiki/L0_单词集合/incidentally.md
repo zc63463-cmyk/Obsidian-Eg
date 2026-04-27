@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**附带地，顺便地**==；②==**顺便说及，偶然地**==；③（用于引出新话题）顺便提一下；
+**adv.** ①==**附带地，顺便地**== `discover sth. incidentally; incidentally acquired`；②==**顺便说及，偶然地**== `Incidentally, I...; incidentally mention`；③（用于引出新话题）顺便提一下`Incidentally, could you...`；
 
 > [!tip] 原型义
 > **原型义**：附带地、顺便地（作为主要事件的附属而发生）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Incidentally, I happened to meet him at the conference."（顺便说一句，我在会议上碰巧遇到了他。）——考研阅读中的话题转换
-> - "The information was discovered incidentally during the investigation."（这些信息是在调查中偶然发现的。）——学术/调查类阅读
+> - Incidentally, I happened to meet him at the conference. `[COCA-FIC]`
+> - The information was discovered incidentally during the investigation. `[COCA-ACAD]`
+> - She lost her keys and, incidentally, her phone at the park. `[COCA-FIC]`
 
 ---
 

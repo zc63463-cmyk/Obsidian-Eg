@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**打算，计划**==；②==**为…而准备，专供…使用**==；③意指，意思是；
+**v.** ①==**打算，计划**== `intend to do sth.` `intend doing sth.` ；②==**为…而准备，专供…使用**== `be intended for` ；③意指，意思是 `intend sth. as sth.` ；
 
 > [!tip] 原型义
 > **原型义**：向内伸展（把心思伸展向某个目标，内心指向某处）
@@ -128,8 +128,9 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The course is intended for intermediate-level students."（这门课程是为中级水平的学生设计的。——剑桥词典例句）
-> - "It wasn't my intention to exclude her from the list — I just forgot her."（我并不是故意把她排除在名单之外——我只是忘了她。——剑桥词典例句）
+> - The course is intended for intermediate-level students. `[COCA-ACAD]`
+> - They intend to invest directly in shares. `[COCA-ACAD]`
+> - I had intended to go for a run, but now I just can't face it. `[COCA-ACAD]`
 
 ---
 

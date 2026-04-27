@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**发生率，发病频率**==；②发生，影响范围；
+**n.** ①==**发生率，发病频率**== `incidence of disease/cancer; high/low incidence`；②发生，影响范围`incidence of crime/poverty`；
 
 > [!tip] 原型义
 > **原型义**：落到上面、发生（某事"降临"到某处）
@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a high incidence of heart disease in this region."（该地区心脏病发病率很高。）——医学/健康类阅读
-> - "the incidence of violent crime"（暴力犯罪发生率）——社会问题类阅读
-> - "angle of incidence"（入射角）——科普类阅读
+> - The country had the lowest incidence of Covid cases proportional to its population. `[COCA-NEWS]`
+> - Climate change is likely to lead to degradation of air quality and higher incidences of respiratory illnesses. `[COCA-ACAD]`
+> - The lack of vitamins may explain the higher incidence of heart disease. `[COCA-ACAD]`
 
 ---
 

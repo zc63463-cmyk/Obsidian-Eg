@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**密集的，加强的，集约的**==；②深入细致的，精耕细作的；
+**adj.** ①==**密集的，加强的，集约的**== `intensive training/care/farming` ；②深入细致的，精耕细作的 `labor-intensive` ；
 
 > [!tip] 原型义
 > **原型义**：集中拉紧的（在短时间内将精力/资源拉紧到极限——集中用力）
@@ -129,8 +129,9 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "However, the main forest burning started around 700 years ago, after what current archaeological evidence indicates was the most intensive stage of moa hunting."（然而，主要的森林大火开始于700年前，根据当前考古学证据，那正是捕猎恐鸟最为密集的阶段。——考研英语阅读相关语料）
-> - "energy-intensive"（能源密集型的——2002年考研英语阅读第三篇，描述某些行业对能源的高消耗特征）
+> - However, the main forest burning started around 700 years ago, after what current archaeological evidence indicates was the most intensive stage of moa hunting. `[真题]`
+> - It concluded intensive treatment makes patients 45 per cent less likely to die, surviving a median of eight years longer. `[COCA-ACAD]`
+> - The course compresses two year's training into six intensive months. `[COCA-ACAD]`
 
 ---
 

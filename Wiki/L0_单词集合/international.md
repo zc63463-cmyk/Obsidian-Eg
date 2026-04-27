@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**国际的，国家间的**==；②跨国的；③超越国界的；
-**n.** ①==**国际比赛**==；②国际组织成员；
+**adj.** ①==**国际的，国家间的**== `international trade/relations/law` ；②跨国的 `international market/company` ；③超越国界的；
+**n.** ①==**国际比赛**== `play in an international` ；②国际组织成员；
 
 > [!tip] 原型义
 > **原型义**：在国家之间（between nations）
@@ -133,8 +133,9 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "European ministers instantly demanded that the International Accounting Standards Board (IASB) do likewise."（欧洲各国的部长们立即要求国际会计准则委员会也这样做。——2010年考研英语一阅读）
-> - "The IASB says it does not want to act without overall planning, but the pressure to fold when it completes its reconstruction of rules later this year is strong."（国际会计准则委员会表示它不想在没有整体规划的情况下行动，但当它今年晚些时候完成规则重建时所面临的妥协压力是巨大的。——2010年考研英语一阅读）
+> - European ministers instantly demanded that the International Accounting Standards Board (IASB) do likewise. `[真题]`
+> - The IASB says it does not want to act without overall planning, but the pressure to fold when it completes its reconstruction of rules later this year is strong. `[真题]`
+> - In crucial areas of international relations the nation state still dominates. `[COCA-ACAD]`
 
 ---
 

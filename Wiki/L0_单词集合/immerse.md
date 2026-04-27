@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使浸没；使沉浸于**==；②使专心致志于；
+**v.** ①==**使浸没；使沉浸于**== `immerse sth in liquid / immerse oneself in`；②==**使专心致志于**== `be immersed in work/study`；
 
 > [!tip] 原型义
 > **原型义**：没入水中（完全浸入液体中）
@@ -128,7 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Language learners who immerse themselves in the target language environment tend to acquire proficiency more quickly.（沉浸在目标语言环境中的语言学习者往往能更快地获得语言能力。）
+> - She immersed herself wholly in her work. `[COCA-ACAD]`
+> - Immerse the fabric completely in the dye. `[COCA-ACAD]`
+> - Most small business owners completely immerse themselves in their business. `[COCA-NEWS]`
 
 ---
 

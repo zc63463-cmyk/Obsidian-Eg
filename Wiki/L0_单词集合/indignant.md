@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**愤慨的，愤怒的**==（尤指对不公正之事） ;
+**adj.** ①==**愤慨的，愤怒的**== `` `be indignant at/about / be indignant with / be indignant that` `` ;
 
 > [!tip] 原型义
 > **原型义**：不（in-）觉得（[[dign|dign]]）对——觉得某事不公正、不配 → 愤怒
@@ -119,8 +119,10 @@ in-(不) + [[dign|dign]]( worthy，值得/尊严) + -ant(形容词后缀，…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was indignant at being falsely accused of misconduct."（她因被不公正地指控行为不当而感到愤慨。）——考研高频表达
-> - "Many citizens were indignant about the government's failure to address the environmental crisis."（许多公民对政府未能解决环境危机感到愤怒。）——考研高频表达
+> - She was indignant at being falsely accused of misconduct. `` `[COCA]` ``
+> - They were indignant that they hadn't been invited to the meeting. `` `[COCA]` ``
+> - He became very indignant when it was suggested he had made a mistake. `` `[COCA]` ``
+> - Letters of indignant complaint poured into the court. `` `[COCA]` ``
 
 ---
 

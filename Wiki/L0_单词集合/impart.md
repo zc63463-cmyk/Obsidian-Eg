@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**传授，赋予（知识、信息等）**== ; ②告知，透露
+**vt.** ①==**传授，赋予（知识、信息等）**== `impart knowledge/wisdom to sb` `impart practical skills` ; ②告知，透露 `impart information/news`
 
 > [!tip] 原型义
 > **原型义**：给予一部分、分给（物理层面的分配）
@@ -121,8 +121,10 @@ im-(=in，进入，加强) + part(部分，分享)（建议创建词根笔记 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Teachers not only impart knowledge but also inspire students to think critically."（教师不仅传授知识，还激发学生进行批判性思考。）——考研高频表达
-> - "The training program aims to impart practical skills to participants."（该培训项目旨在向参与者传授实用技能。）——考研高频表达
+> - Teachers not only impart knowledge but also inspire students to think critically. `[真题]`
+> - The training program aims to impart practical skills to participants. `[真题]`
+> - Traditionally, schools select a notable person to impart wisdom on their graduating class. `[COCA-NEWS]`
+> - The determination of policy is not your business — your job is to implement it. `[COCA-ACAD]`
 
 ---
 

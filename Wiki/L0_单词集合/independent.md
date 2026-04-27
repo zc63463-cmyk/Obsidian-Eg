@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**独立的；自主的**==；②公正的；中立的；③无党派的；
+**adj.** ①==**独立的；自主的**== `be independent of`；②==**公正的；中立的**== `an independent inquiry/panel`；③==**无党派的**== `an independent candidate`；
 
 > [!tip] 原型义
 > **原型义**：不依赖他人的，悬挂在自己力量上的
@@ -133,8 +133,9 @@ in-(不) + de-(向下) + pend(悬挂) + -ent(形容词后缀，表示状态) →
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The report confirmed that the investigation was conducted by an independent panel."（报告确认调查是由一个独立小组进行的。）——考研阅读真题
-> - "Children should be encouraged to become independent thinkers."（应该鼓励孩子成为独立的思考者。）——考研高频表达
+> - The report confirmed that the investigation was conducted by an independent panel. `[真题]`
+> - Another laboratory has provided independent confirmation of the test results. `[COCA-ACAD]`
+> - The government ordered an independent inquiry into the affair. `[COCA-ACAD]`
 
 ---
 

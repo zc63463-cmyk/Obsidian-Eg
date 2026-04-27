@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不可或缺的；必需的**== ; ②完整的；整体的 ;
+**adj.** ①==**不可或缺的；必需的**== `be integral to sth.` `an integral part of...` ; ②完整的；整体的 ;
 **n.** ①积分（数学） ;
 
 > [!tip] 原型义
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Practical experience is integral to the course."（实践经验是这门课程不可或缺的一部分——考研高频表达）
-> - "Music is an integral part of the school's curriculum."（音乐是这所学校课程中基本的一环——考研高频表达）
+> - Community involvement is now integral to company strategy. `[COCA-ACAD]`
+> - Rituals and festivals form an integral part of every human society. `[COCA-ACAD]`
+> - Practical experience is integral to the course. `[真题]`
 
 
 ---

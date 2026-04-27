@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**投保；给……保险**== ; ②确保；保证 ;
-**vi.** ①买保险 ;
+**vt.** ①==**投保；给……保险**== `vt. + n.` ; ②确保；保证 ;
+**vi.** ①买保险 `vi.` ;
 
 > [!tip] 原型义
 > **原型义**：使安全、使确定
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens."（英国福利的原则不再是，如果灾难发生，你可以为自己投保失业风险并获得无条件付款——考研高频表达）
-> - "Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety."（几乎所有的内部细节都是铸铁或灰泥；为了确保消防安全，尽量减少使用木材——考研高频表达）
+> - "The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens." `[真题]`
+> - "Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety." `[真题]`
+> - "We insured our house against fire and flood damage." `[COCA-ACAD]`
+> - "One goal of federal policy is to insure young adults against deprivation." `[COCA-ACAD]`
 
 
 ---

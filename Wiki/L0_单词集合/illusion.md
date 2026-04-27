@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**幻觉，错觉**==；②==**幻想，虚假的观念**==；③==**错觉手法，假象**==；
+**n.** ①==**幻觉，错觉**== `optical illusion; an illusion of N`；②==**幻想，虚假的观念**== `under the illusion that-clause; have no illusions about N`；③==**错觉手法，假象**== `create/give an illusion of N; shatter an illusion`；
 
 > [!tip] 原型义
 > **原型义**：在上面玩耍欺骗（源自拉丁语 illudere，in-（在……上）+ ludere（玩耍），字面义"在……上玩弄"→ "嘲弄、欺骗"）
@@ -135,9 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "have no illusions about the difficulty"（对困难不抱幻想）——考研阅读/写作高频句式
-> - "create the illusion of prosperity"（制造繁荣的假象）——考研阅读经济类话题
-> - "under the illusion that..."（错误地认为……）——考研阅读常见搭配
+> - She had no illusions about how much work the project would require. `[真题]`
+> - They used paint to create the illusion of metal. `[COCA-ACAD]`
+> - He was under the illusion that he was a good player. `[COCA-ACAD]`
+> - The video game is designed to give the illusion that you are in control of an airplane. `[COCA-ACAD]`
 
 ---
 

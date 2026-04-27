@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工业，产业**== ; ②==**勤勉，勤奋**== ; ③行业，企业界 ;
+**n.** ①==**工业，产业**== `` `heavy industry / service industry / the IT industry` `` ; ②==**勤勉，勤奋**== `` `his industry / with great industry` `` ; ③行业，企业界 `` `the car industry / industry standard` `` ;
 
 > [!tip] 原型义
 > **原型义**：工业，产业——通过劳动和机器进行大规模生产活动的领域
@@ -124,8 +124,10 @@ industr(工业/勤勉) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rapid development of the technology industry has transformed the way we live and work."（科技行业的快速发展改变了我们的生活和工作方式。）——考研高频表达
-> - "The car industry has been hit hard by the global economic downturn."（汽车行业受到全球经济衰退的严重冲击。）——考研高频表达
+> - The rapid development of the technology industry has transformed the way we live and work. `` `[COCA-ACAD]` ``
+> - The car industry has been hit hard by the global economic downturn. `` `[COCA]` ``
+> - The service industry has become the largest employer in many developed countries. `` `[COCA-ACAD]` ``
+> - She succeeded through sheer industry and determination. `` `[COCA]` ``
 
 ---
 

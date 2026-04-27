@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**为……举行就职典礼**==；②==**为……举行开幕/落成仪式**==；③开创，开创（新时代）；
+**vt.** ①==**为……举行就职典礼**== `inaugurate a president; be inaugurated in`；②==**为……举行开幕/落成仪式**== `inaugurate a bridge/library; inaugurate with fanfare`；③开创，开创（新时代）`inaugurate a new era/epoch`；
 
 > [!tip] 原型义
 > **原型义**：通过占卜仪式正式开始（古罗马在重要行动前通过观察飞鸟征兆来获得神的批准）
@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the internet inaugurated a new era in communication."（互联网的发明开创了通信的新纪元。）——科技类阅读
-> - "The president was inaugurated in January."（总统于一月就职。）——政治类阅读
-> - "inaugural address"（就职演说）——政治、历史类阅读高频搭配
+> - The invention of the internet inaugurated a new era in communication. `[COCA-ACAD]`
+> - Putin will surely be inaugurated for a fifth term in the spring. `[COCA-NEWS]`
+> - The museum was inaugurated with fanfare, including speeches and performances. `[COCA-NEWS]`
 
 ---
 

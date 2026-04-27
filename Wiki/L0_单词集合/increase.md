@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**增加，增长，增大**==；②增强，提高；
-**n.** ①==**增加，增长**==；②增加量；
+**v.** ①==**增加，增长，增大**== `increase by/to/from A to B`；②==**增强，提高**== `increase investment/efficiency`；
+**n.** ①==**增加，增长**== `a significant increase in sth`；②==**增加量**== `on the increase`；
 
 > [!tip] 原型义
 > **原型义**：向内生长，使事物在量或程度上变大
@@ -127,8 +127,9 @@ in-(向内，加强) + cre(生长，grow) + -ase(名词/动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There has been a significant increase in the number of students applying for graduate programs.（申请研究生项目的学生数量显著增加。）
-> - The government needs to increase investment in education.（政府需要增加对教育的投资。）
+> - An exponential increase in hospital admission for fractures was observed between 60 and 90 years. `[COCA-ACAD]`
+> - The population has increased from 1.2 million to 1.8 million. `[COCA-ACAD]`
+> - An increase in demand leads to an increase in price. `[COCA-ACAD]`
 
 ---
 

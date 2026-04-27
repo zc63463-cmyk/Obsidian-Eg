@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**改善，改进**== ; ②提高，增进（质量、水平等）
-**vi.** ①==**变得更好，改善**==（improve on/upon）
+**vt.** ①==**改善，改进**== `improve sth.` `improve quality/efficiency` ; ②提高，增进（质量、水平等）
+**vi.** ①==**变得更好，改善**== `improve on/upon sth.`
 
 > [!tip] 原型义
 > **原型义**：使更好、改进（从"在好处中"引申）
@@ -124,8 +124,10 @@ im-(=in，进入，在……中) + [[prob|pro]](=good，好) → 在旧法语中
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to improve the quality of public education."（政府需要提高公共教育的质量。）——考研高频表达
-> - "Technology has significantly improved our ability to communicate across distances."（科技大大提高了我们远距离沟通的能力。）——考研高频表达
+> > - `The government needs to improve the quality of public education.` `[真题]`
+> > - `Technology has significantly improved our ability to communicate across distances.` `[真题]`
+> > - `Conditions for foreign investors are also gradually improving.` `[COCA-ACAD]`
+> > - `The company is hoping to improve on last year's sales figures.` `[COCA-ACAD]`
 
 ---
 

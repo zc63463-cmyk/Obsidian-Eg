@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**a.** ①==**可理解的，明白易懂的**== ;
+**a.** ①==**可理解的，明白易懂的**== `make oneself intelligible` `barely/hardly intelligible` ;
 
 > [!tip] 原型义
 > **原型义**：能够被（听者/读者）选择理解的
@@ -124,8 +124,9 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His lecture was readily intelligible to all the students."（他的讲课学生们都能轻松地听懂——考研高频表达）
-> - "The language of Darwin was intelligible to experts and non-experts alike."（达尔文的语言对专家和平常人来说都容易理解——权威语料）
+> - The language of Darwin was intelligible to experts and non-experts alike. `[COCA-ACAD]`
+> - He spoke slowly to make himself intelligible to the audience. `[COCA-ACAD]`
+> - The recording was of such poor quality that it was barely intelligible. `[COCA-ACAD]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**愤慨，义愤**==（对不公正之事的愤怒） ;
+**n.** ①==**愤慨，义愤**== `` `arouse/rouse public indignation / with indignation / indignation at/about` `` ;
 
 > [!tip] 原型义
 > **原型义**：不（in-）觉得（dign）对 → 义愤
@@ -120,8 +120,10 @@ in-(不) + dign( worthy，值得/尊严) + -ation(名词后缀，表示动作或
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The public expressed their indignation at the government's decision to cut healthcare funding."（公众对政府削减医疗资金的决定表示愤慨。）——考研高频表达
-> - "She was filled with indignation when she learned about the injustice."（当她得知这一不公正事件时，心中充满了愤慨。）——考研高频表达
+> - The decision to close the factory has aroused the indignation of the townspeople. `` `[COCA]` ``
+> - The public expressed their indignation at the government's decision to cut healthcare funding. `` `[COCA-ACAD]` ``
+> - She was filled with indignation when she learned about the injustice. `` `[COCA]` ``
+> - The government expressed its indignation over the way the incident had been handled. `` `[COCA-ACAD]` ``
 
 ---
 

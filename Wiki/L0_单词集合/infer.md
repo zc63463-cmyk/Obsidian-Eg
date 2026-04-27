@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**推断，推论**==；②暗示，意指；
+**v.** ①==**推断，推论**== `infer sth. from sth.` / `infer that...` ；②暗示，意指 `be inferred from` ;
 
 > [!tip] 原型义
 > **原型义**：带入、搬运进来（源自拉丁语 inferre = in- + ferre，"带入"→从证据中"带入"结论）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You infer information you feel the writer has invited you to grasp by presenting you with specific evidence and clues."（你推断出你认为作者通过提供具体证据和线索邀请你掌握的信息。）——2015年考研真题
-> - "From the data presented in the table, we can infer that the trend is likely to continue in the future."（从表格中展示的数据，我们可以推断这一趋势在未来可能会持续。）——考研高频表达
+> - "You infer information you feel the writer has invited you to grasp by presenting you with specific evidence and clues." `[真题]`
+> - "I inferred from her expression that she wanted to leave." `[COCA-ACAD]`
+> - "It seems reasonable to infer that the cause was not sabotage but a simple accident." `[COCA-ACAD]`
+> - "From archaeological evidence we can reasonably infer that these people used stone cutting tools." `[COCA-ACAD]`
 ---
 
 
