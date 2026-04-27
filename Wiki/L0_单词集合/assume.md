@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**假定，假设**== ; ②==**承担（责任等）**== ; ③呈现（外观、姿态） ; ④夺取，篡夺
+**v.** ①==**假定，假设**== `V that-clause` `V N` ; ②==**承担（责任等）**== `V N` ; ③呈现（外观、姿态） `V N` ; ④夺取，篡夺 `V N` [formal]
 
 > [!tip] 原型义
 > **原型义**：拿取、承担
@@ -127,8 +127,10 @@ as-(=ad-，朝向) + sume-(=sumere，拿取)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We can't assume he is guilty without solid evidence."（没有确凿的证据，我们不能假定他有罪。）——2019考研英语二阅读
-> - "Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature."（艾伦的贡献在于拿出一个我们都认同的假设——因为我们不是机器人，所以我们能控制自己的思想——并揭示其错误的本质。）——2011考研英语一翻译
+> - We can't assume he is guilty without solid evidence. `[真题]`
+> - Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature. `[真题]`
+> - The manager assumed full responsibility for the failure and resigned from his position. `[COCA-NEWS]`
+> - It is reasonable to assume that the situation will improve in the coming months. `[例]`
 
 ---
 

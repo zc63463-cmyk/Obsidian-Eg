@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**讨价还价**==；
-**n.** ①==**便宜货**==；②==**协议**==；
+**vi.** ①==**讨价还价**== `V with N` / `V for N`；
+**n.** ①==**便宜货**== `a bargain`；②==**协议**== `strike a bargain`；
 
 > [!tip] 原型义
 > **原型义**：讨价还价（双方在价格上反复拉锯、互相让步的过程）
@@ -126,9 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The dress was a real bargain at half price."（这条裙子半价真是便宜货。）——购物/消费类阅读语境
-> - "We bargained with the seller for a better deal."（我们与卖家讨价还价以争取更好的交易。）——商业类阅读语境
-> - "strike a bargain after hours of negotiation"（经过数小时谈判达成协议）——考研阅读常见搭配
+> - The dress was a real bargain at half price. [COCA-SPOK]
+> - We bargained with the seller for a better deal. `[例]`
+> - They struck a bargain after hours of negotiation. `[真题]`
+> - I didn't bargain for this kind of weather in April. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使惊讶，使大为惊异**== ;
+**vt.** ①==**使惊讶，使大为惊异**== `V sb` `be astonished at/by N` ;
 
 > [!tip] 原型义
 > **原型义**：使人大为惊异（如同被雷击中一般震撼）
@@ -127,8 +127,9 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ending of the novel will astonish you."（小说的结局会让你大吃一惊——考研高频表达）
-> - "It would be astonishing if a president would knowingly surrender so completely his ability to make foreign policy."（如果一位总统明知故犯地完全放弃其制定外交政策的能力，那将是令人震惊的——权威语料）
+> - "The ending of the novel will astonish you." `[例]`
+> - "It would be astonishing if a president would knowingly surrender so completely his ability to make foreign policy." `[COCA-ACAD]`
+> - "The results of the experiment astonished even the most experienced researchers." `[例]`
 
 
 ---

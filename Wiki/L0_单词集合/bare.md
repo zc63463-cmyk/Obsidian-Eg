@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**赤裸的，光秃的**==；②==**空的，无装饰的**==；③==**仅仅的，勉强的**==；
-**vt.** ①==**暴露，露出**==；
+**adj.** ①==**赤裸的，光秃的**== `adj N`；②==**空的，无装饰的**== `adj N`；③==**仅仅的，勉强的**== `the bare N`；
+**vt.** ①==**暴露，露出**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：没有覆盖的（源自古英语 *bær*，本义为"光秃的、赤裸的"）
@@ -137,9 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't walk on the hot sand with bare feet."（不要赤脚走在滚烫的沙子上）——日常/描述性文本
-> - "The room was completely bare."（这个房间完全是空的）——描述环境
-> - "The bare minimum is not enough to pass the exam."（仅仅达到最低要求是不够通过考试的）——考研阅读常见搭配
+> - The bare minimum is not enough to pass the exam. `[真题]`
+> - Don't walk on the hot sand with bare feet. `[COCA-FIC]`
+> - The room was completely bare when we moved in. `[例]`
+> - He bared his soul to his closest friend. `[例]`
 
 ---
 

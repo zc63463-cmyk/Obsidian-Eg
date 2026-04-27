@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**适用的，可应用的**==；②==**生效的**==；
+**adj.** ①==**适用的，可应用的**== `be adj to N` `adj N` ；②==**生效的**== `adj N` ；
 
 > [!tip] 原型义
 > **原型义**：可以被折叠上去的（可以被施加/应用到某事物上的）
@@ -129,8 +129,9 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The wise teachings of ancient Greek thinkers are timeless, and are applicable to contemporary life."（古希腊思想家的智慧教诲是永恒的，并且适用于当代生活。）——考研高频表达
-> - "What is learned is rarely applicable in life."（所学知识很少能在生活中派上用场。）——考研高频表达
+> - The wise teachings of ancient Greek thinkers are timeless, and are applicable to contemporary life. `[例]`
+> - What is learned is rarely applicable in life. `[例]`
+> - This regulation is applicable to all employees within the organization. `[例]`
 ---
 
 

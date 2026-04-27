@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有益的，有利的**==；②==**有帮助的**==；③（法律）受益的；
+**adj.** ①==**有益的，有利的**== `be adj to N`；②==**有帮助的**== `be adj to N`；③（法律）受益的 `adj N`；
 
 > [!tip] 原型义
 > **原型义**：做得好（做对人有好处的事）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "beneficial to health"（对健康有益）——考研阅读/翻译高频搭配
-> - "mutually beneficial"（互利的）——商业/外交类阅读常见搭配
-> - "beneficial to the economy/society"（对经济/社会有益）——社会经济类阅读常见搭配
+> - Regular physical exercise has been shown to be beneficial to both physical and mental health. `[COCA-ACAD]`
+> - The two nations reached a mutually beneficial agreement on trade and environmental cooperation. `[COCA-ACAD]`
+> - A balanced diet is highly beneficial for maintaining a healthy immune system. `[例]`
+> - The beneficial effects of early childhood education programs extend well into adulthood. `[例]`
 
 ---
 

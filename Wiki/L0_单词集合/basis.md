@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**基础，根据，依据**==；②==**基本原则，准则**==；③（数学）基底，基；
+**n.** ①==**基础，根据，依据**== `on the basis of N` `form the basis of N`；②==**基本原则，准则**== `on a regular/daily basis`；③==**基底，基**== `N basis`；
 
 > [!tip] 原型义
 > **原型义**：脚下站立的地方、支撑物（建筑物的底部基座）
@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "on the basis of the data"（基于数据）——考研阅读/翻译高频表达，引出论证依据
-> - "form the basis of our discussion"（构成我们讨论的基础）——学术写作常见句式
-> - "on a regular basis"（定期地）——考研阅读中描述规律性活动
+> - The conclusion was drawn on the basis of extensive research data. `[例]`
+> - These findings form the basis of our discussion today. `[例]`
+> - She exercises on a regular basis to maintain her health. `[例]`
 
 ---
 

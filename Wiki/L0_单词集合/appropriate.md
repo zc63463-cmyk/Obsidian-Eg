@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**适当的，恰当的**==；②专用的，专属的；
-**v.** ①拨出（款项），挪用，盗用；
+**adj.** ①==**适当的，恰当的**== `adj` / `be adj for N` ；②专用的，专属的 `adj`；
+**v.** ①拨出（款项），挪用，盗用 `V N` ；
 
 > [!tip] 原型义
 > **原型义**：适合的、恰当的（源自拉丁语 appropriatus = ad- + proprius "自己的、特有的"→使成为自己的→适合的）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is appropriate that the government take measures to reduce carbon emissions."（政府采取措施减少碳排放是适当的。）——考研高频表达
-> - "The appropriateness of using animals in scientific research remains a subject of intense ethical debate."（在科学研究中使用动物的适当性仍然是一个激烈的伦理辩论话题。）——考研高频表达
+> - It is appropriate that the government take measures to reduce carbon emissions. `[例]`
+> - The appropriateness of using animals in scientific research remains a subject of intense ethical debate. `[例]`
+> - The board appropriated $5 million for the research project. `[例]`
 ---
 
 

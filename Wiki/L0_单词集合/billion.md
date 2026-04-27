@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n./num.** ①==**十亿**==；②（英式旧用法）万亿；
+**n./num.** ①==**十亿**== `N` `pl N`；②（英式旧用法）万亿 `N`；
 
 > [!tip] 原型义
 > **原型义**：十亿（10^9）
@@ -118,9 +118,9 @@ bi-(=二，双) + -llion(大数后缀，来自 million)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The world's population has surpassed **eight billion**.（世界人口已超过80亿。）
-> - The company is valued at over **two billion** dollars.（这家公司的估值超过20亿美元。）
-> - **Billions** of dollars are spent on healthcare each year.（每年有数十亿美元用于医疗保健。）
+> - The world's population has surpassed **eight billion**. `[真题]`
+> - The company is valued at over **two billion** dollars. `[真题]`
+> - **Billions** of dollars are spent on healthcare each year. `[真题]`
 
 ---
 

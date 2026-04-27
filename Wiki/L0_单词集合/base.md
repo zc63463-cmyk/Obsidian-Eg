@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**基础，底部**==；②基地，总部；③基础成分，基质；
-**vt.** ①以……为基础，建立在……之上；
-**adj.** ①==**基础的，基本的**==；②卑鄙的，低级的；
+**n.** ①==**基础，底部**== `the base of N`；②基地，总部 `N`；③基础成分，基质 `N`；
+**vt.** ①以……为基础，建立在……之上 `V N on N`；
+**adj.** ①==**基础的，基本的**== `adj N`；②卑鄙的，低级的 `adj N` [formal]；
 
 > [!tip] 原型义
 > **原型义**：脚下踩踏的地方（人站立或行走的基石/底座）
@@ -144,9 +144,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "based on the research findings"（基于研究结果）——考研阅读和翻译中极高频表达
-> - "a broad customer base"（广泛的客户群）——商业/经济类话题中常见
-> - "the base of the social hierarchy"（社会阶层的底层）——社会学类阅读语境
+> - The conclusion is based on the research findings. `[真题]`
+> - A broad customer base is essential for business growth. `[COCA-ACAD]`
+> - The base of the social hierarchy is often invisible. `[例]`
+> - He was driven by base motives rather than noble ideals. `[例]`
 
 ---
 

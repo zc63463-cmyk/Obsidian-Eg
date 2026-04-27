@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使做好准备，防备**==；②支撑，加固；③绷紧，使挺直；
+**v.** ①==**使做好准备，防备**== `V oneself for N` `V for N`；②支撑，加固 `V N`；③绷紧，使挺直 `V oneself`；
 
-**n.** ①==**支架，托架**==；②（牙齿）矫正器；③大括号；
+**n.** ①==**支架，托架**== `N`；②（牙齿）矫正器 `N`；③大括号 `N`；
 
 > [!tip] 原型义
 > **原型义**：用双臂支撑（源自拉丁语 bracchium，手臂）
@@ -125,8 +125,9 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government must brace itself for a potential economic downturn."（政府必须为潜在的经济衰退做好准备。）——考研高频表达
-> - "Residents were told to brace for impact as the hurricane approached the coastline."（随着飓风逼近海岸线，居民被告知做好防冲击准备。）——考研高频表达
+> - The government must brace itself for a potential economic downturn. `[真题]`
+> - Residents were told to brace for impact as the hurricane approached the coastline. `[真题]`
+> - The company braced itself for a drop in profits. `[例]`
 
 
 ---

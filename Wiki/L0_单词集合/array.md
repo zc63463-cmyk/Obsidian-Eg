@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一系列，大量**==；②==**排列，阵列**==；③（计算机）数组；④盛装；
-**vt.** ①==**排列，部署**==；②打扮，盛装；
+**n.** ①==**一系列，大量**== `an N of N` ；②==**排列，阵列**== `N` ；③==**（计算机）数组**== `N` ；④==**盛装**== `in full N` ；
+**vt.** ①==**排列，部署**== `V N` ；②==**打扮，盛装**== `V oneself` ；
 
 > [!tip] 原型义
 > **原型义**：排列整齐的一排、一系列（有序排列的事物集合）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I was constantly ill, with a baffling array of symptoms."（我不断地生病，还伴有一大堆莫名其妙的症状。）——考研高频表达
-> - "I was confronted with an array of knobs, levers, and switches."（我面对着一排旋钮、控制杆和开关。）——考研高频表达
+> - I was constantly ill, with a baffling array of symptoms. [考研-阅读]
+> - I was confronted with an array of knobs, levers, and switches. [考研-阅读]
+> - The company offers a wide array of financial services to its clients. `[COCA-ACAD]`
+> - The soldiers were arrayed in full battle gear on the parade ground. `[例]`
 ---
 
 

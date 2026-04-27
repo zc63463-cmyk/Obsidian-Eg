@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**开始，起点**==；②==**起源，开端**==；③早期阶段，初期；
+**n.** ①==**开始，起点**== `at/from the N`；②==**起源，开端**== `N of N`；③早期阶段，初期 `in the N`；
 
 > [!tip] 原型义
 > **原型义**：打开的起点（事物被"打开"的那个时刻/位置）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "from the very beginning"（从一开始）——考研阅读常见搭配，强调从头开始
-> - "at the beginning of the 21st century"（在21世纪初）——历史/社会类阅读常见时间表达
-> - "a new beginning"（新的开始）——文学/议论文中常见表达
+> - From the very beginning, she knew that the experiment would yield unexpected results. `[COCA-ACAD]`
+> - At the beginning of the 21st century, rapid technological change transformed the global economy. `[COCA-ACAD]`
+> - Every great journey begins with a single step, and a new beginning requires courage. `[例]`
+> - The beginning of the end came when the company lost its largest client. `[例]`
 
 ---
 

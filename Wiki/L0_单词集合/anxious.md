@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①焦虑的，担忧的 ; ==**②渴望的，急切的**== ;
+**adj.** ①焦虑的，担忧的 `be adj about N` `be adj prep N` ；②==**渴望的，急切的**== `be adj to V` `be adj for N` ;
 
 > [!tip] 原型义
 > **原型义**：焦虑的，不安的（心理上持续紧张的状态）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many students feel anxious before taking important examinations."（许多学生在参加重要考试前感到焦虑。）——考研高频表达
-> - "Parents are naturally anxious about their children's safety at school."（父母自然会对孩子在学校的安全感到焦虑。）——考研高频表达
+> - Many students feel anxious before taking important examinations. `[例]`
+> - Parents are naturally anxious about their children's safety at school. `[例]`
+> - She was anxious to hear the results of the interview. `[例]`
 
 ---
 

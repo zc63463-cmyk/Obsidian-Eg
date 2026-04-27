@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**善良的，温和的**==；②==**（肿瘤等）良性的**==；③（环境）温和的，有利的；
+**adj.** ①==**善良的，温和的**== `adj N`；②==**（肿瘤等）良性的**== `adj N`；③（环境）温和的，有利的 `adj N`；
 
 > [!tip] 原型义
 > **原型义**：出身良好/好心好意（拉丁语 benignus = bene + gignere）
@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a benign tumor"（良性肿瘤）——医学/科普类阅读高频搭配
-> - "benign neglect"（善意的忽视）——社科/政策类阅读中的重要概念
-> - "benign climate"（温和的气候）——环境/地理类阅读常见搭配
+> - The doctor assured us that the tumor was benign and did not require immediate surgery. `[例]`
+> - The policy of benign neglect allowed the industry to develop naturally without government interference. `[COCA-ACAD]`
+> - The region enjoys a benign climate that supports a wide variety of crops. `[例]`
 
 ---
 

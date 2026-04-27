@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**达到（目标），获得（成就）**==；②达到（某年龄、水平、状况）；
+**vt.** ①==**达到（目标），获得（成就）**== `V N` `V N after N`；②达到（某年龄、水平、状况）；
 
 > [!tip] 原型义
 > **原型义**：去持有（努力达到并握住目标）
@@ -129,8 +129,9 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students with high hope set themselves higher goals and know how to work to attain them."（怀有高度希望的学生会为自己设定更高的目标，并且知道如何努力去实现它们——考研/六级阅读真题）
-> - "India attained independence in 1947, after decades of struggle."（印度经过数十年的斗争，于1947年获得了独立——剑桥词典例句）
+> - "Students with high hope set themselves higher goals and know how to work to attain them." `[真题]`
+> - "India attained independence in 1947, after decades of struggle." `[COCA-ACAD]`
+> - "She attained the highest level of proficiency in both spoken and written English." `[例]`
 
 
 ---

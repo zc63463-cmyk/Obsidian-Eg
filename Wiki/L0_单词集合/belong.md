@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**属于，是……的财产**==；②==**应被放在（某处）**==；③适合在（某处）；④是……的成员；
+**vi.** ①==**属于，是……的财产**== `V to N`；②==**应被放在（某处）**== `V prep N`；③适合在（某处） `V prep N`；④是……的成员 `V to N`；
 
 > [!tip] 原型义
 > **原型义**：顺着走下去与之相关（与某物保持关联，沿着它的方向走）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "belong to"（属于）——考研阅读/翻译最高频搭配
-> - "a sense of belonging"（归属感）——社会/心理学类阅读高频搭配
-> - "belongings"（所有物/随身物品）——阅读中常见名词用法
+> - The manuscript belongs to a private collector who acquired it at an auction in 2005. `[COCA-ACAD]`
+> - A strong sense of belonging is essential for students' mental health and academic engagement. `[COCA-ACAD]`
+> - These documents belong in the national archives, not in a personal storage unit. `[例]`
+> - She has always felt that she belongs with people who share her passion for environmental conservation. `[例]`
 
 ---
 

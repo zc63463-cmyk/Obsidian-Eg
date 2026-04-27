@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**攻击，进攻**==；②抨击，非难；③（疾病）侵袭；④着手，投入；
+**v.** ①==**攻击，进攻**== `V N` `V N for N`；②抨击，非难；③（疾病）侵袭；④着手，投入；
 **n.** ①攻击，进攻；②抨击；（疾病的）发作；
 
 > [!tip] 原型义
@@ -135,8 +135,9 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Monsanto's critics have attacked the company for its 'merciless legal battles against small farmers,' and they are hoping this will be the case that puts it in its place."（孟山都的批评者抨击该公司"对小农户进行无情的法律战"，他们希望这个案件能让它认清自己的位置——经济学人例句）
-> - "Most wild animals won't attack unless they are provoked."（大多数野生动物除非被激怒，否则不会主动攻击——剑桥词典例句）
+> - "Monsanto's critics have attacked the company for its 'merciless legal battles against small farmers,' and they are hoping this will be the case that puts it in its place." `[COCA-ACAD]`
+> - "Most wild animals won't attack unless they are provoked." `[COCA-ACAD]`
+> - "He suffered a severe heart attack and was immediately rushed to the nearest hospital." `[例]`
 
 
 ---

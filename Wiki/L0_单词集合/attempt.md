@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**尝试，试图，企图**==；
+**v.** ①==**尝试，试图，企图**== `V to V` `V N`；
 **n.** ①尝试，企图；②未遂行为；
 
 > [!tip] 原型义
@@ -130,8 +130,9 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What they found, in attempting to model thought, is that the human brain's roughly one hundred billion nerve cells are much more talented—and human perception far more complicated—than previously imagined."（他们在试图模拟思维时发现，人类大脑大约一千亿个神经细胞远比之前想象的更有天赋——人类的感知也远比之前想象的更复杂——2002年考研英语阅读Text2）
-> - "Despite attempts by the Church to strong-arm this new generation of logicians and rationalists, more explanations for how the universe functioned were being made and at a rate that the people could no longer ignore."（尽管教会试图威逼这一代新的逻辑学家和理性主义者，但关于宇宙如何运作的解释正以人们再也无法忽视的速度不断涌现——考研英语长难句分析）
+> - "What they found, in attempting to model thought, is that the human brain's roughly one hundred billion nerve cells are much more talented—and human perception far more complicated—than previously imagined." `[真题]`
+> - "Despite attempts by the Church to strong-arm this new generation of logicians and rationalists, more explanations for how the universe functioned were being made and at a rate that the people could no longer ignore." `[真题]`
+> - "The prisoner attempted to escape from the facility but was quickly apprehended by guards." `[例]`
 
 ---
 

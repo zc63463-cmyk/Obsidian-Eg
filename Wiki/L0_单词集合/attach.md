@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**系上，贴上，附上**==；②使依附，使隶属；③附加，附带（条件）；④赋予，认为有（重要性）；⑤==**使依恋**==；
+**vt.** ①==**系上，贴上，附上**== `V N to N`；②使依附，使隶属；③附加，附带（条件）；④赋予，认为有（重要性）；⑤==**使依恋**== `be/get attached to N`；
 
 > [!tip] 原型义
 > **原型义**：去接触（使两个东西连在一起）
@@ -137,8 +137,9 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A survey of news stories in 1996 reveals that the anti-science tag has been attached to many other groups as well, from authorities who advocated the elimination of the last remaining stocks of smallpox virus to Republicans who advocated decreased funding for basic research."（1996年对新闻报道的调查显示，反科学的标签也被贴到了许多其他群体身上，从主张消灭最后一批天花病毒的权威人士，到主张削减基础研究经费的共和党人——1998年考研阅读Text 3）
-> - "They just want Ottawa to fork over additional billions with few, if any, strings attached."（他们只希望渥太华能拨出额外的数十亿资金，而且几乎不附带任何条件——2005年考研新题型）
+> - "A survey of news stories in 1996 reveals that the anti-science tag has been attached to many other groups as well, from authorities who advocated the elimination of the last remaining stocks of smallpox virus to Republicans who advocated decreased funding for basic research." `[真题]`
+> - "They just want Ottawa to fork over additional billions with few, if any, strings attached." `[真题]`
+> - "She has become deeply attached to the small village where she grew up." `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**梁，横梁**== ; ②(光线的)束，柱 ;
-**v.** ①==**微笑，眉开眼笑**== ; ②发光，播送 ;
+**n.** ①==**梁，横梁**== `N beam` ; ②==**光线的束，柱**== `a beam of N` ;
+**v.** ①==**微笑，眉开眼笑**== `V with N` ; ②==**发光，播送**== `V N` ;
 
 > [!tip] 原型义
 > **原型义**：树木的横梁，建筑结构中的水平支撑木
@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "A beam of sunlight pierced through the clouds."（一束阳光穿透了云层。）——考研高频表达
-> - "The bridge was supported by massive steel beams."（这座桥由巨大的钢梁支撑。）——考研高频表达
+> - A beam of sunlight pierced through the clouds. `[例]`
+> - The old bridge was supported by massive steel beams. `[例]`
+> - She beamed with joy when she received the acceptance letter. `[例]`
 
 ---
 

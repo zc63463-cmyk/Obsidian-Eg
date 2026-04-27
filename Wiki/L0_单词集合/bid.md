@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**出价，投标**==；②命令，吩咐；③说（问候语等）；④努力争取；
-**n.** ①==**出价，投标**==；②努力，企图；
+**v.** ①==**出价，投标**== `V N` `V for N`；②命令，吩咐 `V N to V`；③说（问候语等） `V N`；④努力争取 `V for N`；
+**n.** ①==**出价，投标**== `N` `make a bid for N`；②努力，企图 `N`；
 
 > [!tip] 原型义
 > **原型义**：提出价格（购买/竞标）
@@ -128,9 +128,9 @@ bid(古英语 *biddan*，请求，命令，出价)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company made a **bid** for the contract worth $50 million.（公司投标争取价值5000万美元的合同。）
-> - She **bid** $500 for the painting at the auction.（她在拍卖会上出价500美元竞拍这幅画。）
-> - In a **bid** to reduce costs, the company announced layoffs.（为了降低成本，公司宣布了裁员计划。）
+> - The company made a **bid** for the contract worth $50 million. `[真题]`
+> - She **bid** $500 for the painting at the auction. `[例]`
+> - In a **bid** to reduce costs, the company announced layoffs. `[真题]`
 
 ---
 

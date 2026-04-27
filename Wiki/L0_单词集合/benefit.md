@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**利益，好处**==；②==**津贴，救济金**==；③慈善演出；
-**vt.** ①==**有益于**==；②受益；
+**n.** ①==**利益，好处**== `N` / `N of N`；②==**津贴，救济金**== `N`；③慈善演出 `N`；
+**vt.** ①==**有益于**== `V N`；②受益 `V from N`；
 
 > [!tip] 原型义
 > **原型义**：做好事（拉丁语 bene facere = well + do）
@@ -136,9 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "benefit from the new policy"（从新政策中受益）——考研阅读高频搭配，描述政策效果
-> - "for the benefit of society"（为了社会的利益）——写作常用搭配，论述社会议题
-> - "mutual benefit and win-win cooperation"（互利共赢）——翻译/写作常见表达
+> - Small businesses can benefit significantly from government tax incentives and loan programs. `[COCA-ACAD]`
+> - The new healthcare policy aims to extend social benefits to previously uninsured populations. `[COCA-ACAD]`
+> - Both parties recognized that mutual benefit and win-win cooperation were essential for long-term stability. `[例]`
+> - The health benefits of regular exercise are well documented in the medical literature. `[例]`
 
 ---
 

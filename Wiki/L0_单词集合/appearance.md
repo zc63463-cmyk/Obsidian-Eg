@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**出现，露面**==；②==**外表，外观**==；③外貌，容貌；
+**n.** ①==**出现，露面**== `make an N` `N prep N` ；②==**外表，外观**== `N` `prep N` ；③外貌，容貌 `N` ；
 
 > [!tip] 原型义
 > **原型义**：出现到视野中（某物或某人进入观察者的视线范围）
@@ -129,8 +129,9 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The industry has changed greatly with the appearance of new technologies."（新技术问世后，这一行业出现了天翻地覆的变化。）——考研高频表达
-> - "It was his first public appearance since the election."（这是选举后他首次公开露面。）——考研高频表达
+> - The industry has changed greatly with the appearance of new technologies. `[例]`
+> - It was his first public appearance since the election. `[例]`
+> - We should not judge people by their appearance. `[例]`
 ---
 
 

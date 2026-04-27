@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**变成，成为**== ; ②适合，与……相称 ;
+**v.** ①==**变成，成为**== `V N` `V adj` ; ②==**适合，与……相称**== `V N` ;
 
 > [!tip] 原型义
 > **原型义**：来到（某个状态），发生
@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The internet has become an indispensable tool for modern education."（互联网已经成为现代教育不可或缺的工具。）——考研阅读真题
-> - "Environmental issues have become a matter of global concern."（环境问题已经成为全球关注的问题。）——考研高频表达
+> - The internet has become an indispensable tool for modern education. `[真题]`
+> - Environmental issues have become a matter of global concern. `[例]`
+> - That color really becomes you. `[例]`
 
 ---
 

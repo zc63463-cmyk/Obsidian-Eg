@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**态度，看法**==；②姿态，姿势；
+**n.** ①==**态度，看法**== `N toward/to N` `a adj N`；②==**姿态，姿势**== `strike an N`；
 
 > [!tip] 原型义
 > **原型义**：伸展的倾向（心智朝某个方向伸展的固定倾向/姿态）
@@ -126,8 +126,9 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Writing calls for a critical attitude of mind that she did not possess."（写作需要有批判性思维，而这正是她所不具备的。——2022考研英语真题词汇集锦）
-> - "It's often very difficult to change people's attitudes."（人们对事情的看法通常很难改变。——剑桥词典例句，考研高频表达）
+> - Writing calls for a critical attitude of mind that she did not possess. `[真题]`
+> - It is often very difficult to change people's attitudes toward controversial issues. `[COCA-ACAD]`
+> - She has a positive attitude toward her work and always tries her best. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可获得的，可使用的**== ; ②有空的，可会见的 ;
+**adj.** ①==**可获得的，可使用的**== `be adj for N` `be adj to N` ; ②==**有空的，可会见的**== `be adj` ;
 
 > [!tip] 原型义
 > **原型义**：可获得的，手边有的，随时可以拿来用的
@@ -121,9 +121,9 @@ a-(朝向) + val(价值，力量) + -able(可以被...的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The data is readily available for public review and analysis."（这些数据可供公众查阅和分析。）——考研高频表达
-> - "Resources should be made available to all students regardless of their economic background."（资源应当向所有学生开放，不论其经济背景如何。）——考研高频表达
-> - "The only information available was incomplete and unreliable."（唯一可获取的信息是不完整且不可靠的。）——考研高频表达
+> - The data is readily available for public review and analysis. `[COCA-ACAD]`
+> - Resources should be made available to all students regardless of their economic background. `[COCA-ACAD]`
+> - The only information available was incomplete and unreliable. `[COCA-ACAD]`
 
 ---
 

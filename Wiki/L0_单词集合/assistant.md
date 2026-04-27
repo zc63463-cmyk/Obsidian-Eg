@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**助手，助理**== ; ②助教
-**adj.** ①==**助理的，副的**==
+**n.** ①==**助手，助理**== `N to N` ; ②助教 `N`
+**adj.** ①==**助理的，副的**== `adj N`
 
 > [!tip] 原型义
 > **原型义**：站在旁边帮助的人
@@ -125,8 +125,10 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ant(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Ross called his assistant, Hashim, to take over while he went out."（罗斯叫助理哈希姆在自己外出时代理其职。）——考研高频表达
-> - "The research assistant was responsible for collecting and analyzing the data."（研究助理负责收集和分析数据。）——考研高频表达
+> - The research assistant was responsible for collecting and analyzing the data. `[真题]`
+> - Ross called his assistant, Hashim, to take over while he went out. `[COCA-FIC]`
+> - She works as a teaching assistant in the physics department. `[COCA-ACAD]`
+> - He was hired as a research assistant for the project and contributed significantly to the findings. `[例]`
 
 ---
 

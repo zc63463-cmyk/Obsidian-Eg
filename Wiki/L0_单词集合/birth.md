@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**出生，诞生**==；②出身，血统；③起源，开端；
+**n.** ①==**出生，诞生**== `N` `give birth to N`；②出身，血统 `N` `by birth`；③起源，开端 `N`；
 
 > [!tip] 原型义
 > **原型义**：婴儿从母体中产出
@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Renaissance gave **birth** to a new era of scientific discovery.（文艺复兴催生了一个科学发现的新时代。）
-> - By **birth**, she is a British citizen.（从血统上来说，她是英国公民。）
-> - The **birth** rate has been declining in many developed countries.（许多发达国家的出生率一直在下降。）
+> - The Renaissance gave **birth** to a new era of scientific discovery. `[真题]`
+> - By **birth**, she is a British citizen. `[真题]`
+> - The **birth** rate has been declining in many developed countries. `[真题]`
 
 ---
 

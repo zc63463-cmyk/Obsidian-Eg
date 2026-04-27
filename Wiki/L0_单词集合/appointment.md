@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**约会，约定**==；②==**任命，委任**==；③职位；
+**n.** ①==**约会，约定**== `N` / `prep N` ；②==**任命，委任**== `N` / `N of N as N` ；③职位 `N`；
 
 > [!tip] 原型义
 > **原型义**：安排好的一个点（在时间或组织架构上确定的位置）
@@ -132,8 +132,9 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The doctor's appointment has been rescheduled to next Thursday."（医生的预约已经改到下周四。）——考研高频表达
-> - "She was disappointed about missing her appointment with the career counselor."（她因错过了与职业顾问的预约而感到失望。）——考研高频表达
+> - The doctor's appointment has been rescheduled to next Thursday. `[例]`
+> - She was disappointed about missing her appointment with the career counselor. `[例]`
+> - The appointment of John as CEO was announced at the board meeting. `[例]`
 
 ---
 

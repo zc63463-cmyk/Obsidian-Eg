@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**任命，委任**==；②==**约定，指定（时间、地点）**==；
+**vt.** ①==**任命，委任**== `V N as N` / `V N to N` ；②==**约定，指定（时间、地点）**== `V N` / `V N to V` ；
 
 > [!tip] 原型义
 > **原型义**：为某事安排一个点（在时间或空间上确定一个位置）
@@ -127,8 +127,9 @@ ap-（=ad-，向，朝向）+ point（点，来自拉丁语 *punctum*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president appointed a new committee to investigate the scandal."（总统任命了一个新委员会来调查这桩丑闻。）——考研高频表达
-> - "She was appointed as the head of the research department last month."（她上个月被任命为研究部门负责人。）——考研高频表达
+> - The president appointed a new committee to investigate the scandal. `[例]`
+> - She was appointed as the head of the research department last month. `[例]`
+> - They appointed Friday as the deadline for submitting the report. `[例]`
 
 ---
 

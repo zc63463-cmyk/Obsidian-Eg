@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**背景**==（事件/人的历史背景）；②出身背景，学历；③（画等的）背景，底色；
-**adj.** ①背景的；
+**n.** ①==**背景**== `N of N` `against the N of N`（事件/人的历史背景）；②==**出身背景，学历**== `adj N` `from a adj N`；③==**（画等的）背景，底色**== `in the N`；
+**adj.** ①==**背景的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：身后的地面（在观察者背后的大地/地面）
@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "against the background of economic globalization"（在经济全球化的背景下）——考研翻译和阅读中极高频表达
-> - "students from diverse cultural backgrounds"（来自不同文化背景的学生）——教育/社会类话题中常见
-> - "background information is essential for understanding"（背景信息对理解至关重要）——学术类阅读语境
+> - Economic growth must be analyzed against the background of globalization. `[COCA-ACAD]`
+> - Students from diverse cultural backgrounds bring different perspectives to the classroom. `[COCA-ACAD]`
+> - Background information is essential for understanding the context of any historical event. `[例]`
 
 ---
 

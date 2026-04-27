@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**基本的，基础的**==；②必需的，根本的；
-**n.** ①基本原理，基础；②（pl.）基本需要，基本需求；
+**adj.** ①==**基本的，基础的**== `adj N`；②==**必需的，根本的**== `adj N`；
+**n.** ①==**基本原理，基础**== `the basics of N`；②==**基本需要，基本需求**== `pl. basic N`；
 
 > [!tip] 原型义
 > **原型义**：属于底座的（与 base/底座相关的，最根本的）
@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "basic human rights"（基本人权）——考研阅读中极高频搭配，法律/社会类话题
-> - "the basic needs of survival"（生存的基本需求）——社会/经济类话题中常见
-> - "basically, the problem lies in..."（基本上，问题在于……）——论证类阅读/写作中常见
-> - "back to basics"（回归基础）——教育/政策类话题中常见
+> - Everyone is entitled to basic human rights regardless of race or gender. `[例]`
+> - Food, water, and shelter are the basic needs of survival. `[例]`
+> - Basically, the problem lies in our lack of communication. `[例]`
+> - The government decided to go back to basics in education policy. `[例]`
 
 ---
 

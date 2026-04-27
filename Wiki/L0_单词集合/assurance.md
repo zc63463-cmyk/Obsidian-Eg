@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保证，担保**== ; ②信心，把握 ;
+**n.** ①==**保证，担保**== `N that-clause` `N of N` ; ②信心，把握 ;
 
 > [!tip] 原型义
 > **原型义**：使确信的行为/状态（来自 assure 的名词化）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But take a longer view and there is a surprising amount that we can say with considerable assurance."（但是，把目光放长远一点，我们可以对非常多的事情做出相当准确的预测——2013年考研）
-> - "She gave me her assurance that the work would be completed on time."（她向我保证工作会按时完成——考研高频表达）
+> - "But take a longer view and there is a surprising amount that we can say with considerable assurance." `[真题]`
+> - "She gave me her assurance that the work would be completed on time." `[例]`
+> - "The company provides a written assurance that all products meet safety standards." `[例]`
 
 
 ---

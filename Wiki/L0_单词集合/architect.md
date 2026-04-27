@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**建筑师**==；②==**缔造者，设计师**==；③创造者；
-**vt.** ①设计，规划；②策划；
+**n.** ①==**建筑师**== `N`；②==**缔造者，设计师**== `N of N`；③创造者 `N of N`；
+**vt.** ①设计，规划 `V N`；②策划 `V N`；
 
 > [!tip] 原型义
 > **原型义**：首席建造者、总设计师（负责建筑整体蓝图和结构的人）
@@ -130,8 +130,9 @@ archi-（首席的，主要的）+ [[fac]]（tect，建造者，与 fac "制造"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The American-born architect Robert Venturi concluded that if simplicity is done badly, the result is soulless design."（美国出生的建筑师罗伯特·文图里得出结论：如果简约做得不好，结果就是没有灵魂的设计。）——考研高频表达
-> - "Wang Shu, a 49-year-old Chinese architect, won the 2012 Pritzker Architecture Prize."（49岁的中国建筑师王澍获得了2012年普利兹克建筑奖。）——考研高频表达
+> - The American-born architect Robert Venturi concluded that if simplicity is done badly, the result is soulless design. `[考研-阅读]`
+> - Wang Shu, a 49-year-old Chinese architect, won the 2012 Pritzker Architecture Prize. `[例]`
+> - She is widely regarded as the architect of the country's economic reform. `[例]`
 ---
 
 

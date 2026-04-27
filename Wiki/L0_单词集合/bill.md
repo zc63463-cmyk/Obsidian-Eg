@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**账单，票据**==；②法案，议案；③钞票，纸币；④海报，广告；
-**v.** ①==**给……开账单**==；②（用海报）宣传；
+**n.** ①==**账单，票据**== `N` `pay the bill`；②法案，议案 `N` `pass a bill`；③钞票，纸币 `N`；④海报，广告 `N`；
+**v.** ①==**给……开账单**== `V N` `V N for N`；②（用海报）宣传 `V N as N`；
 
 > [!tip] 原型义
 > **原型义**：书面文件/单据（记录应付金额）
@@ -129,9 +129,9 @@ bill(中古英语 *bille*，书面文件，来自拉丁语 *bulla*，圆形印�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Could I have the **bill**, please?（请把账单给我好吗？）
-> - The Senate passed the **bill** by a narrow margin.（参议院以微弱优势通过了该法案。）
-> - The restaurant **billed** us for the wrong amount.（餐厅给我们开了错误的账单。）
+> - Could I have the **bill**, please? `[例]`
+> - The Senate passed the **bill** by a narrow margin. `[真题]`
+> - The restaurant **billed** us for the wrong amount. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**恰当的，适当的**==；②易于……的，有……倾向的；③聪明的，敏捷的；
+**adj.** ①==**恰当的，适当的**== `adj` / `be adj for N` ；②易于……的，有……倾向的 `be adj to V` ；③聪明的，敏捷的 `adj` ；
 
 > [!tip] 原型义
 > **原型义**：适合的、恰当的（源自拉丁语 aptus = "适合的、恰当的"，与 appropriate 同源）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is apt to lose her temper when things don't go as planned."（当事情不按计划进行时，她很容易发脾气。）——考研高频表达
-> - "The phrase "survival of the fittest" is an apt description of the competitive nature of the market."（"适者生存"这个短语是对市场竞争本质的恰当描述。）——考研高频表达
+> - She is apt to lose her temper when things don't go as planned. `[例]`
+> - The phrase "survival of the fittest" is an apt description of the competitive nature of the market. `[例]`
+> - He is an apt student who quickly grasps new concepts. `[例]`
 ---
 
 

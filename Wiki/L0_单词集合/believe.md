@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**相信，信任**==；②==**认为，以为**==；③笃信（宗教）；
+**v.** ①==**相信，信任**== `V N` / `V that-clause`；②==**认为，以为**== `V N to be N` / `it V that-clause`；③笃信（宗教） `V in N`；
 
 > [!tip] 原型义
 > **原型义**：把某物视为亲爱的而信赖（因为珍视而相信）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "it is believed that..."（据信/人们认为）——考研翻译/阅读高频被动句式
-> - "believe in education"（相信教育的价值）——教育类阅读常见搭配
-> - "believe it or not"（信不信由你）——口语化表达，阅读中偶尔出现
+> - It is widely believed that early childhood experiences have a lasting impact on adult personality. `[COCA-ACAD]`
+> - She believes strongly in the power of education to transform communities. `[COCA-ACAD]`
+> - Believe it or not, the simplest solution often turns out to be the most effective. `[例]`
+> - Many scientists believe climate change to be the most pressing challenge of our time. `[例]`
 
 ---
 

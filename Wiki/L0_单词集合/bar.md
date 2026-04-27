@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**条，棒，横杆**==；②==**障碍，阻碍**==；③==**酒吧**==；④==**律师界**==；
-**vt.** ①==**阻挡，拦住**==；②==**禁止**==；
+**n.** ①==**条，棒，横杆**== `a bar of N`；②==**障碍，阻碍**== `a bar to N`；③==**酒吧**== `N`；④==**律师界**== `the Bar` [formal]；
+**vt.** ①==**阻挡，拦住**== `V N` / `V N from V-ing`；②==**禁止**== `V N from V-ing` [formal]；
 
 > [!tip] 原型义
 > **原型义**：横杆（源自古法语 *barre*，本义为"横杆、栅栏"）
@@ -139,9 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was barred from entering the building."（他被禁止进入这栋大楼）——法律/正式语境
-> - "Let's meet for a drink at the bar."（我们在酒吧见面喝一杯吧）——日常对话
-> - "Lack of money is a major bar to higher education."（缺钱是接受高等教育的重大障碍）——考研阅读常见搭配
+> - He was barred from entering the building. `[真题]`
+> - Lack of money is a major bar to higher education. `[真题]`
+> - Let's meet for a drink at the bar after work. [COCA-SPOK]
+> - She always keeps a bar of chocolate in her bag. `[例]`
 
 ---
 

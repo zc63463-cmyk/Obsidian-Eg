@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**有用，有益**== ; ②利用，使用 ;
-**n.** ①==**效用，利益**== ;
+**v.** ①==**有用，有益**== `V` `to no V` ; ②==**利用，使用**== `V oneself of N` ;
+**n.** ①==**效用，利益**== `of no N` `to no N` ;
 
 > [!tip] 原型义
 > **原型义**：有价值的，有用的（古法语 avaler "使有价值"）
@@ -127,8 +127,9 @@ a-(加强语气) + val-(价值) → avail(使有价值→有用)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All his efforts were to no avail."（他的一切努力都无济于事。）——考研高频表达
-> - "Students should avail themselves of the library resources to enhance their learning."（学生应该利用图书馆资源来促进学习。）——考研高频表达
+> - All his efforts were to no avail. `[COCA-ACAD]`
+> - Students should avail themselves of the library resources to enhance their learning. `[例]`
+> - The medicine proved of no avail in treating the disease. `[例]`
 
 ---
 

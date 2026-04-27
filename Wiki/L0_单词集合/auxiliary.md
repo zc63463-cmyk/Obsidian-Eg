@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**辅助的，补充的**== ; ②备用的 ;
-**n.** ①==**辅助者，辅助设备**== ; ②（语法）助动词 ;
+**adj.** ①==**辅助的，补充的**== `adj N` ; ②==**备用的**== `adj N` ;
+**n.** ①==**辅助者，辅助设备**== `N` ; ②==**（语法）助动词**== `N` ;
 
 > [!tip] 原型义
 > **原型义**：帮助的，辅助的（拉丁语 auxilium "帮助、援助"）
@@ -126,8 +126,9 @@ aux-/aug-(增加、增长) + -ili(连接成分) + -ary(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory is equipped with auxiliary power generators in case of emergency."（工厂配备了备用发电机以防紧急情况。）——考研高频表达
-> - "'Be', 'do', and 'have' are auxiliary verbs in English grammar."（在英语语法中，'be'、'do'和'have'是助动词。）——考研高频表达
+> - The factory is equipped with auxiliary power generators in case of emergency. `[例]`
+> - "Be", "do", and "have" are auxiliary verbs in English grammar. `[COCA-ACAD]`
+> - The hospital has a 200-bed auxiliary unit for overflow patients. `[例]`
 
 ---
 

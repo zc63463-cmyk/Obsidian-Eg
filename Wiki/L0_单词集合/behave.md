@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**表现，举止**==；②==**行为得体，守规矩**==；③（机器等）运转，起作用；
-**vt.** ①使（自己）表现良好；
+**vi.** ①==**表现，举止**== `V` / `V prep N`；②==**行为得体，守规矩**== `V oneself`；③（机器等）运转，起作用 `V`；
+**vt.** ①使（自己）表现良好 `V oneself`；
 
 > [!tip] 原型义
 > **原型义**：使自己持有某种状态（掌控自己的行为方式）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "behave oneself"（规矩点）——考研阅读/翻译中常见搭配
-> - "how children behave"（儿童的行为方式）——教育学/心理学类阅读常见语境
-> - "the material behaves differently under pressure"（材料在压力下表现不同）——科普类阅读常见用法
+> - Children who behave well in the classroom tend to achieve better academic outcomes. `[COCA-ACAD]`
+> - The material behaves differently under extreme pressure, which challenges conventional engineering assumptions. `[COCA-ACAD]`
+> - Please behave yourselves during the museum visit. `[例]`
+> - How individuals behave towards strangers reveals a great deal about their cultural background. `[例]`
 
 ---
 

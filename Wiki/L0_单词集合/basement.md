@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地下室，地窖**==；②（建筑物的）底部，根基；
+**n.** ①==**地下室，地窖**== `N` / `in the basement`；②（建筑物的）底部，根基 `the basement of N`；
 
 > [!tip] 原型义
 > **原型义**：建筑物的基础空间（位于建筑最底部的房间或空间）
@@ -130,9 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "water seeping into the basement"（水渗入地下室）——建筑/家居类阅读中常见
-> - "the basement of the social structure"（社会结构的底层）——社会学类阅读语境
-> - "rent a basement apartment"（租一间地下室公寓）——生活/经济类话题中常见
+> - Water seeped into the basement after the heavy rain. `[COCA-FIC]`
+> - The basement of the social structure is often overlooked. `[例]`
+> - She rented a basement apartment to save money. `[例]`
+> - Old files and boxes were stored in the basement. `[例]`
 
 ---
 

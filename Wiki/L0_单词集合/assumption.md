@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**假定，假设**== ; ②==**承担，就任**== ; ③傲慢，自大
+**n.** ①==**假定，假设**== `N that-clause` `on the N that-clause` ; ②==**承担，就任**== `N of N` ; ③傲慢，自大
 
 > [!tip] 原型义
 > **原型义**：拿来当作前提的东西
@@ -126,8 +126,9 @@ as-(=ad-，朝向) + sumpt-(=sumere，拿取，sume-的完成时态词干) + -io
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such behavior is regarded as 'all too human', with the underlying assumption that animals cannot feel what humans do."（这种行为被认为是'人之常情'，其潜在假设是动物无法感受到人类所感受到的。）——2005考研英语一阅读
-> - "The argument is based on the assumption that economic growth will continue at the current rate."（这一论点建立在经济增长将继续保持当前速度的假设之上。）——考研高频表达
+> - "Such behavior is regarded as 'all too human', with the underlying assumption that animals cannot feel what humans do." `[真题]`
+> - "The argument is based on the assumption that economic growth will continue at the current rate." `[例]`
+> - "We made the assumption that everyone would attend the meeting, but several people were absent." `[例]`
 
 ---
 

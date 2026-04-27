@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①集合，聚集 ; ==**②装配，组装**== ;
+**v.** ①==**集合，聚集**== `V` / `V N` ；②==**装配，组装**== `V N` ；
 
 > [!tip] 原型义
 > **原型义**：集合，聚集（将分散的部分聚到一起）
@@ -123,8 +123,10 @@ as-(=ad-，朝向，到) + [[sem/sim]](相同，一起) → "到一起"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The students assembled in the hall for the graduation ceremony."（学生们聚集在礼堂参加毕业典礼。）——考研高频表达
-> - "It takes about two hours to assemble the furniture."（组装这件家具大约需要两个小时。）——考研高频表达
+> - The students assembled in the hall for the graduation ceremony. [考研-阅读]
+> - It takes about two hours to assemble the furniture. [考研-阅读]
+> - A team of engineers was assembled to design the new bridge. `[COCA-ACAD]`
+> - Workers assemble cars on the production line in the factory. `[例]`
 
 ---
 

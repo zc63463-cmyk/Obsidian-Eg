@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**帮助，援助**== ; ②辅助设备/人员
+**n.** ①==**帮助，援助**== `N` `N with N` ; ②辅助设备/人员 `N`
 
 > [!tip] 原型义
 > **原型义**：站在旁边帮助（名词形式）
@@ -123,8 +123,10 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ance(名词后缀，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If you need further assistance, please call 85555555 or send emails to library@abc.edu.cn."（如果同学们需要更多的帮助，请致电85555555或发送电子邮件至library@abc.edu.cn。）——考研真题阅读
-> - "Three men are assisting the police with their enquiries."（有三个人正配合警方的调查。）——考研高频表达
+> - If you need further assistance, please call 85555555 or send emails to library@abc.edu.cn. `[真题]`
+> - The government provides financial assistance to low-income families. `[COCA-NEWS]`
+> - The project was completed with the assistance of experts from various fields. `[COCA-ACAD]`
+> - The company offered technical assistance to the developing country to improve its infrastructure. `[例]`
 
 ---
 

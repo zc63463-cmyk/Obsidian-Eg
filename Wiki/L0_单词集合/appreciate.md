@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**感激，感谢**==；②==**欣赏，赏识**==；③==**理解，领会**==；④增值；
-**vi.** ①增值；
+**vt.** ①==**感激，感谢**== `V N` / `V V-ing` ；②==**欣赏，赏识**== `V N` ；③==**理解，领会**== `V N` / `V that-clause` ；④增值 `V`；
+**vi.** ①增值 `V`；
 
 > [!tip] 原型义
 > **原型义**：评估出某物的价值（判断出某物值多少钱/有多大意义）
@@ -138,8 +138,9 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But current studies are beginning to place greater emphasis on the conditions under which we forget, as its importance begins to be more appreciated."（但当前的研究开始更加重视我们遗忘的条件，因为其重要性开始被更多地认识到。）——考研阅读真题
-> - "Most of all, these new adults must feel that they are respected and supported by a family that appreciates them."（最重要的是，必须要让这些年轻人感到他们受到一个欣赏他们的家庭的尊重和支持。）——考研阅读真题
+> - But current studies are beginning to place greater emphasis on the conditions under which we forget, as its importance begins to be more appreciated. `[真题]`
+> - Most of all, these new adults must feel that they are respected and supported by a family that appreciates them. `[真题]`
+> - I would appreciate it if you could reply at your earliest convenience. `[例]`
 
 ---
 

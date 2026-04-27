@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**吸收，消化（知识等）**== ; ②使同化，融入（文化等） ; ③吸收（营养）
+**v.** ①==**吸收，消化（知识等）**== `V N` ; ②使同化，融入（文化等） `V into N` ; ③吸收（营养） `V N`
 
 > [!tip] 原型义
 > **原型义**：使相似、吸收同化
@@ -124,8 +124,10 @@ as-(=ad-，朝向、加强) + simul-(相似) + -ate(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People who are or become assimilated in a society become similar to others by learning and adopting the culture and customs of that society."（在社会中被同化的人通过学习和采纳该社会的文化和习俗，变得与其他人相似。）——考研高频表达
-> - "Immigrants often struggle to assimilate into a new culture while preserving their own identity."（移民在保持自身身份的同时，往往难以融入新文化。）——考研高频表达
+> - People who are or become assimilated in a society become similar to others by learning and adopting the culture and customs of that society. `[真题]`
+> - Immigrants often struggle to assimilate into a new culture while preserving their own identity. `[COCA-ACAD]`
+> - It takes time for students to assimilate new information and apply it effectively. `[COCA-ACAD]`
+> - The body assimilates nutrients from food through the digestive system. `[例]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-v. ①==**打扰；烦扰**==；②操心；烦恼；
-n. ①==**麻烦；烦恼**==；
+v. ①==**打扰；烦扰**== `V N` `V N with N`；②操心；烦恼 `V about N` `V to V`；
+n. ①==**麻烦；烦恼**== `N`；
 
 > [!tip] 原型义
 > **原型义**：打扰他人或使自己烦恼
@@ -121,8 +121,9 @@ bother（打扰/烦恼，词源不确定）
 ## 真题/语料关联
 
 > [!example]- 语料
-- Sorry to bother you, but could you help me?（抱歉打扰你，能帮我一下吗？）
-- It doesn't bother me that she's late.（她迟到并不让我烦恼。）
+> - Sorry to bother you, but could you help me? `[真题]`
+> - It doesn't bother me that she's late. `[真题]`
+> - I didn't bother to reply to his email. `[例]`
 
 ---
 

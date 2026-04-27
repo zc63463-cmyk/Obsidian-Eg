@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**行为，举止**==；②==**（机器等）运转状态，性能**==；③态度，反应方式；
+**n.** ①==**行为，举止**== `N`；②==**（机器等）运转状态，性能**== `N of N`；③态度，反应方式 `N`；
 
 > [!tip] 原型义
 > **原型义**：使自身持有的方式（一个人或物使自己处于某种状态的方式）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "consumer behavior"（消费者行为）——考研阅读/翻译高频搭配，商业/社会类话题
-> - "human behavior"（人类行为）——心理学/社会学类阅读常见搭配
-> - "the behavior of the economy"（经济运行状况）——经济类阅读常见搭配
+> - Consumer behavior is influenced by a complex interplay of psychological, social, and economic factors. `[COCA-ACAD]`
+> - The behavior of the economy during the recession defied most economists' predictions. `[COCA-ACAD]`
+> - Human behavior cannot be fully understood without considering the cultural context in which it occurs. `[例]`
+> - Criminal behavior among adolescents has been linked to a range of environmental risk factors. `[例]`
 
 ---
 

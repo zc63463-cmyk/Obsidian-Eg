@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**协会，联盟**== ; ②==**联想，联系**== ; ③联合，交往
+**n.** ①==**协会，联盟**== `N` ; ②==**联想，联系**== `N between/with N` ; ③联合，交往 `N`
 
 > [!tip] 原型义
 > **原型义**：结为同伴的状态/行为（同伴关系的集合）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The American Medical Association has issued new guidelines for the treatment of diabetes."（美国医学协会发布了糖尿病治疗的新指南。）——考研高频表达
-> - "There is a strong association between regular physical exercise and a reduced risk of chronic diseases."（规律的体育锻炼与慢性病风险降低之间存在很强的关联性。）——考研高频表达
+> - The American Medical Association has issued new guidelines for the treatment of diabetes. `[真题]`
+> - There is a strong association between regular physical exercise and a reduced risk of chronic diseases. `[COCA-ACAD]`
+> - The research was conducted in association with a leading university. `[COCA-ACAD]`
+> - The disease has a strong association with long-term exposure to air pollution. `[例]`
 ---
 
 

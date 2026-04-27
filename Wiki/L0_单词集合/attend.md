@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**出席，参加**==；②照料，护理；③专心，留意；
+**v.** ①==**出席，参加**== `V N`；②照料，护理；③专心，留意；
 
 > [!tip] 原型义
 > **原型义**：伸展过去（将注意力或身体伸展到某处/某人处）
@@ -128,8 +128,9 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I have more pressing things to attend to."（我有更紧迫的事情要处理。——考研英语高频短语）
-> - "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training."（正如Erik Brynjolfsson和Andrew McAfee在《第二次机器时代》中所主张的，第一步应该是重新思考教育和职业培训。——2018年考研英语阅读，attend 的语境关联：attend school → education）
+> - "I have more pressing things to attend to." `[真题]`
+> - "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training." `[真题]`
+> - "All students are expected to attend the commencement ceremony on Friday." `[例]`
 
 ---
 
