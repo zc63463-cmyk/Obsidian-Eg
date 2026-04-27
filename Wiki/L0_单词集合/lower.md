@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**较低的**==；②下级的，下方的；
-**v.** ①==**降低，减少**==；②降下，放下；
+**adj.** ①==**较低的**== `the lower half / level`；②下级的，下方的；
+**v.** ①==**降低，减少**== `lower the price / temperature`；②降下，放下；
 
 > [!tip] 原型义
 > **原型义**：更低的（[[low]] 的比较级），使某物处于更低的位置/水平
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet."（对于那些至今尚未意识到这种不利的人来说，它指的是对姓氏字母位于字母表下半部分的人的歧视。——2004年考研英语一阅读Text 2）
-> - "Examinations also lower the standards of teaching."（考试也降低了教学水平。——考研英语阅读）
+> - `This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.` `[真题]`
+> - `Examinations also lower the standards of teaching.` `[真题]`
+> - `Mild exercise three times a week significantly lowers your risk of cancer.` `[COCA-ACAD]`
+> - `Interest rates have been lowered again.` `[COCA-NEWS]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**失去，丢失**==；②==**迷失，使迷路**==；③输掉（比赛）；④浪费（时间）；
+**v.** ①==**失去，丢失**== `lose one's job / lose weight`；②==**迷失，使迷路**== `lose one's way / lose oneself in`；③==**输掉（比赛）**== `lose the game / lose to sb.`；④==**浪费（时间）**== `lose no time in doing / lose sight of`；
 
 > [!tip] 原型义
 > **原型义**：失去，不再拥有（古英语 *losian*，与 *loose* 松开同源）
@@ -131,8 +131,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The things that bring the greatest joy carry the greatest potential for loss and disappointment."（带来最大快乐的事物也暗含着最大的损失和失望的可能。——考研英语阅读）
-> - "We will lose a vital part of what has made humanity as a whole so successful as a species."（我们将失去使人类作为一个物种如此成功的关键部分。——考研英语阅读）
+> - The things that bring the greatest joy carry the greatest potential for loss and disappointment. `[真题]`
+> - We will lose a vital part of what has made humanity as a whole so successful as a species. `[真题]`
+> - She lost her job when the company moved its operations to another state. `[COCA-NEWS]`
+> - The government had lost all credibility after the series of policy failures. `[COCA-NEWS]`
+> - He lost his temper during the meeting and stormed out of the room. `[COCA-FIC]`
 
 ---
 

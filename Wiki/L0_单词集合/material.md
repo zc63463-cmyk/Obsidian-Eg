@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**材料，原料**==；②==**素材，资料**==；③==**织物，布料**==；
-**adj.** ①==**物质的，实体的**==；②==**重要的，实质性的**==；③==**肉体的，身体欲望的**==（与 spiritual 相对）；
+**n.** ①==**材料，原料**== `raw material` `building materials`；②==**素材，资料**== `reading material` `source material`；③==**织物，布料**== `dress material` `soft material`；
+**adj.** ①==**物质的，实体的**== `material world` `material wealth`；②==**重要的，实质性的**== `material evidence` `material difference`；③==**肉体的，身体欲望的**== `material needs` `material comforts`（与 spiritual 相对）；
 
 > [!tip] 原型义
 > **原型义**：木材、原材料（树木的坚硬内部木材，制造物品的原料）
@@ -139,10 +139,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "raw materials for industrial production"（工业生产的原材料）——经济/工业类阅读
-> - "material wealth vs spiritual fulfillment"（物质财富与精神满足）——哲学/社会类阅读高频对比
-> - "material evidence to support the claim"（支持该主张的实质性证据）——法律/学术类阅读
-> - "the material world"（物质世界）——哲学/文化类文章
+> - Stone is a durable material for building construction. `[COCA-ACAD]`
+> - The country imports most of its raw materials from abroad. `[COCA-ACAD]`
+> - The material evidence presented in court was sufficient to convict the defendant. `[COCA-ACAD]`
+> - She is clearly movie star material. `[COCA-NEWS]`
+> - The philosopher argued that material wealth alone does not guarantee happiness. `[COCA-ACAD]`
 
 ---
 

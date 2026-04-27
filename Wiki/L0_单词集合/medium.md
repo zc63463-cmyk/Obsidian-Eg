@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**媒介，媒体**==（传递信息的渠道）；②==**中间**==（居中的位置/状态）；③==**手段，方法**==（做某事的途径）；
+**n.** ①==**媒介，媒体**== `` `mass medium / medium of communication` ``（传递信息的渠道）；②==**中间**==（居中的位置/状态）；③==**手段，方法**== `` `medium of exchange / a medium for sth.` ``（做某事的途径）；
 **adj.** 中等的，适中的（不大不小的）；
 
 > [!tip] 原型义
@@ -141,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Television is a powerful medium for spreading information."（电视是传播信息的强大媒介）——媒体/传播话题
-> - "Money serves as a medium of exchange in modern economies."（货币在现代经济中充当交换媒介）——经济学话题
-> - "We need to find a happy medium between speed and accuracy."（我们需要在速度和准确度之间找到折中方案）——常见表达
-> - "She prefers medium-sized cities to large metropolises."（她更喜欢中等规模的城市而非大都市）——生活话题
+> - Television remains a powerful medium for spreading information to a mass audience. `` `[COCA-ACAD]` ``
+> - Money serves as a medium of exchange in modern economies. `` `[真题]` ``
+> - We need to find a happy medium between speed and accuracy. `` `[COCA-ACAD]` ``
+> - She prefers medium-sized cities to large metropolises. `` `[COCA-ACAD]` ``
 
 ---
 

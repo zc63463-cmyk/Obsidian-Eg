@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**纪念碑，纪念物**==；②纪念仪式；
-**adj.** ①==**纪念的，悼念的**==；
+**n.** ①==**纪念碑，纪念物**== `` `war memorial / a memorial to sb.` ``；②纪念仪式 `` `memorial service` ``；
+**adj.** ①==**纪念的，悼念的**== `` `memorial fund / in memory of` ``；
 
 > [!tip] 原型义
 > **原型义**：帮助人们记住某人或某事的物品
@@ -130,8 +130,10 @@ memor(记忆，memory) + -ial(与……有关的，形容词/名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Lincoln Memorial in Washington, D.C. is one of the most visited landmarks in the United States.（华盛顿特区的林肯纪念堂是美国参观人数最多的地标之一。）
-> - A memorial fund has been established in her name to support young artists.（以她的名义设立了一个纪念基金，用于资助年轻艺术家。）
+> - The Lincoln Memorial in Washington, D.C. is one of the most visited landmarks in the United States. `` `[真题]` ``
+> - A memorial service was held for the victims of the disaster. `` `[COCA-ACAD]` ``
+> - A memorial fund has been established in her name to support young artists. `` `[COCA-ACAD]` ``
+> - The war memorial was erected to honor the soldiers who died in battle. `` `[COCA-ACAD]` ``
 
 ---
 

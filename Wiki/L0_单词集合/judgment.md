@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**审判，判决**==；②==**判断力，见解**==；③==**评价**==；
+**n.** ①==**审判，判决**== `pass judgment on N` `a court judgment`；②==**判断力，见解**== `good/sound judgment` `use one's judgment`；③==**评价**== `make a judgment about N` `reserve judgment`；
 
 > [!tip] 原型义
 > **原型义**：判断的结果（judge + -ment = 判断的行为/结果）
@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The court passed judgment on the case yesterday."（法院昨天对该案做出了判决）——法律话题
-> - "She showed good judgment in handling the crisis."（她在处理危机时表现出了良好的判断力）——能力话题
-> - "Don't be too quick to pass judgment on others."（不要急于评判他人）——道德话题
-> - "It's a matter of personal judgment."（这是个人判断的问题）——日常表达
+> - "The court granted a judgment in favor of the plaintiffs." `[COCA-ACAD]`
+> - "It's not something I can give you rules for—you'll have to use your judgment." `[COCA-ACAD]`
+> - "The accident was caused by an error of judgment on the part of the pilot." `[COCA-ACAD]`
+> - "It is very hard, but it's worth it, in my judgment." `[COCA-ACAD]`
 
 ---
 

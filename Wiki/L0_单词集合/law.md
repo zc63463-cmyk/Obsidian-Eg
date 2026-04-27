@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**法律，法规**==；②==**法学**==；③==**规律，定律**==；
+**n.** ①==**法律，法规**== `pass a law` / `break the law`；②==**法学**== `study law` / `law school`；③==**规律，定律**== `the law of nature/gravity`；
 
 > [!tip] 原型义
 > **原型义**：法律（古诺尔斯语 *lag* "法律、规则"，原义"所 laying down 的东西"）
@@ -139,11 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No one is above the law."（法律面前人人平等）——法律名言
-> - "The law of supply and demand determines market prices."（供求定律决定市场价格）——经济学语境
-> - "She decided to study law at university."（她决定在大学学习法学）——教育语境
-> - "The government passed a new law to protect the environment."（政府通过了一项保护环境的新法律）——政治/环保语境
-> - "According to the law, all citizens have the right to vote."（根据法律，所有公民都有投票权）——法律/权利语境
+> - "No one is above the law." `[COCA]`
+> - "The bill will become law at the beginning of the year." `[COCA-ACAD]`
+> - "Schools are required by law to provide a safe learning environment." `[COCA-ACAD]`
+> - "She has proposed a new law to protect people from being evicted unfairly." `[COCA]`
 
 ---
 

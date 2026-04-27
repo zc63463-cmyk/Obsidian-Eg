@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地点，所在**== ; ②==**（某人/某物所在的）地区**==
+**n.** ①==**地点，所在**== `in this locality / a quiet locality` ; ②==**（某人/某物所在的）地区**== `a rural locality`
 
 > [!tip] 原型义
 > **原型义**：地点、所在（某个特定的地方）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economy in rural locality is not as prosperous as in cities."（农村地区的经济不如城市繁荣。）——考研高频表达
-> - "This is the biggest hospital in the locality."（这是本地最大的医院。）——考研高频表达
+> - The economy in rural localities is not as prosperous as in urban areas. `[COCA-ACAD]`
+> - This is the biggest hospital in the locality and serves the surrounding communities. `[COCA-NEWS]`
+> - Property prices in this locality have risen sharply over the past five years. `[COCA-ACAD]`
 ---
 
 

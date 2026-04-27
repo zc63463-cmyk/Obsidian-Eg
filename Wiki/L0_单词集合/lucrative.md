@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**赚钱的，获利丰厚的**==；②有利可图的；
+**adj.** ①==**赚钱的，获利丰厚的**== `a lucrative career / contract`；②有利可图的；
 
 > [!tip] 原型义
 > **原型义**：产生利润的（与金钱收益相关）
@@ -122,8 +122,10 @@ lucr-(利润，拉丁语 *lucrum*，获利) + -ative(形容词后缀，"有…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There's always a constant fear of falling behind everyone else on the socially perpetuated 'race to the finish line,' whether that be toward graduate school, medical school or a lucrative career."（人们总是有一种持续的恐惧，害怕在社会长期存在的"冲向终点线"的竞赛中落在别人后面，不管是进入研究生院、医学院还是获得一份赚钱的职业。——2017年考研英语二阅读）
-> - "As a News Feature article in Nature discusses, a string of lucrative awards for researchers have joined the Nobel Prizes in recent years."（正如《自然》杂志的一篇新闻特写文章所讨论的，近年来一系列丰厚的科研奖项已经加入了诺贝尔奖的行列。——2014年考研英语一阅读）
+> - `There's always a constant fear of falling behind everyone else on the socially perpetuated "race to the finish line," whether that be toward graduate school, medical school or a lucrative career.` `[真题]`
+> - `As a News Feature article in Nature discusses, a string of lucrative awards for researchers have joined the Nobel Prizes in recent years.` `[真题]`
+> - `Keen to preserve his artistic integrity, he refused several lucrative Hollywood offers.` `[COCA-ACAD]`
+> - `Catering is a very lucrative business if you succeed in it.` `[COCA-ACAD]`
 
 ---
 

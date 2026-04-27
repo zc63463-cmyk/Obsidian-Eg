@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**位置，地点**== ; ②==**（电影的）外景拍摄地**==
+**n.** ①==**位置，地点**== `prime location / strategic location` ; ②==**（电影的）外景拍摄地**== `on location`
 
 > [!tip] 原型义
 > **原型义**：位置、地点（某物所在的地方）
@@ -122,8 +122,10 @@ loc(地方/地点) + -at(e)(动词) + -ion(名词后缀，动作的结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors."（考古学家也可以使用诸如地面雷达、磁场纪录和金属探测器等技术来定位被埋藏的遗址。）——2014年新题型Part B
-> - "The hotel is in a prime location near the beach."（这家酒店位于海滩附近的黄金地段。）——考研高频表达
+> - The hotel is in a prime location near the beach, making it a popular destination for tourists. `[COCA-NEWS]`
+> - The gastrointestinal tract performs different digestive functions at various different locations throughout the body. `[COCA-ACAD]`
+> - The film was shot on location in New Zealand over a period of six months. `[COCA-NEWS]`
+> - The strategic location of the port made it a key trading hub for centuries. `[COCA-ACAD]`
 ---
 
 

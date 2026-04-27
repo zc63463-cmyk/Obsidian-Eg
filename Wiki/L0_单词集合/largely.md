@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**大部分，主要地**==；②==**很大程度上**==；
+**adv.** ①==**大部分，主要地**== `be largely composed of...` / `largely due to...`；②==**很大程度上**== `depend largely on...` / `be largely responsible for...`；
 
 > [!tip] 原型义
 > **原型义**：大部分→主要地（large 大 + -ly 副词后缀 → 大部分地）
@@ -132,10 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The project's success was largely due to her leadership."（该项目的成功很大程度上归功于她的领导）——考研高频句型
-> - "His argument is largely based on anecdotal evidence."（他的论点很大程度上基于轶事证据）——学术语境
-> - "The population is largely concentrated in urban areas."（人口主要集中在城市地区）——社会话题
-> - "The problem was largely ignored by the government."（这个问题在很大程度上被政府忽视了）——政治/社会语境
+> - "The west of the city was largely unaffected by the bombing." `[COCA-ACAD]`
+> - "The success of almost any project depends largely on its manager." `[COCA-ACAD]`
+> - "Their victory was largely a result of their brilliantly orchestrated election campaign." `[COCA]`
+> - "My advice was largely ignored." `[COCA]`
 
 ---
 

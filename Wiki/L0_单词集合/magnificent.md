@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**壮丽的，宏伟的**==；②==**极好的，出色的**==；
+**adj.** ①==**壮丽的，宏伟的**== `a magnificent cathedral / view`；②==**极好的，出色的**== `a magnificent performance / achievement`；
 
 > [!tip] 原型义
 > **原型义**：大而美的（[[magn]] 大 + -ific（做）+ -ent（形容词后缀）→ 做得大的 → 大而美的）
@@ -136,10 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cathedral is a magnificent example of Gothic architecture."（这座大教堂是哥特式建筑的壮丽典范）——建筑/文化语境
-> - "She gave a magnificent performance in the final."（她在决赛中表现极为出色）——评价语境
-> - "The view from the mountaintop was magnificent."（从山顶望去景色壮丽）——自然/描写语境
-> - "It was a magnificent achievement for such a young scientist."（对于如此年轻的科学家来说，这是一项了不起的成就）——学术/评价语境
+> - `The Parthenon is a magnificent structure.` `[COCA-ACAD]`
+> - `The coronation was a magnificent sight.` `[COCA-ACAD]`
+> - `Chows are magnificent dogs of ancient Chinese descent known for their black tongues and lion-like mane.` `[COCA-MAG]`
+> - `The landscape was magnificent in its grandeur.` `[例]`
 
 ---
 

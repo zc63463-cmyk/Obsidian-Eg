@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**制造，做**==；②==**使……成为**==；③==**赚得**==（钱）；④==**做出（决定等）**==；⑤==**总计，等于**==；
-**n.** ①==**品牌，型号**==（产品）；②==**制造方式**==；
+**vt.** ①==**制造，做**== `make sth. from/of` `be made in...`；②==**使……成为**== `make sb. adj.` `make it possible to do`；③==**赚得**== `make money` `make a living`；④==**做出（决定等）**== `make a decision/choice` `make an effort`；⑤==**总计，等于**== `A and B make C`；
+**n.** ①==**品牌，型号**== `a make of car` `different makes`；②==**制造方式**== `of German make`；
 
 > [!tip] 原型义
 > **原型义**：做，制造（古英语 *macian*，源自原始日耳曼语 *makon*，与"用手塑造"有关）
@@ -148,11 +148,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She made a decision to pursue a career in medicine."（她决定从事医学事业）——常见表达
-> - "Technology has made it possible to work from anywhere."（技术使得在任何地方工作成为可能）——科技话题
-> - "He makes a living by selling handmade crafts."（他靠卖手工制品谋生）——生活/经济语境
-> - "The discovery made a significant contribution to our understanding of the universe."（这一发现对我们理解宇宙做出了重大贡献）——学术语境
-> - "Does this proposal make sense to you?"（这个提案对你来说合理吗？）——日常/讨论语境
+> - She made a decision to pursue a career in medicine. `[COCA-ACAD]`
+> - Technology has made it possible to work from anywhere. `[COCA-ACAD]`
+> - He makes a living by selling handmade crafts. `[COCA-MAG]`
+> - The discovery made a significant contribution to our understanding of the universe. `[COCA-ACAD]`
+> - Volunteering can make a difference in people's lives. `[COCA-ACAD]`
 
 ---
 

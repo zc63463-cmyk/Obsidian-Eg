@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**新闻记者，记者**==；
+**n.** ①==**新闻记者，记者**== `a journalist for N` `an investigative journalist`；
 
 > [!tip] 原型义
 > **原型义**：写日报的人（journal = 日报，-ist = 从事…的人）
@@ -125,9 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The journalist uncovered widespread corruption in the government."（记者揭露了政府中普遍存在的腐败）——新闻/社会话题
-> - "She worked as a freelance journalist for ten years."（她做了十年自由记者）——职业话题
-> - "Journalists play a vital role in a democratic society."（记者在民主社会中扮演着至关重要的角色）——社会/政治话题
+> - "The journalist asked the minister how he viewed recent events." `[COCA-NEWS]`
+> - "The journalist took notes throughout the interview." `[COCA-NEWS]`
+> - "The government has refused to allow foreign journalists into the area for several weeks." `[COCA-NEWS]`
+> - "As a journalist of three decades, Sheila Hamilton often finds herself on the hunt for a good story." `[COCA-NEWS]`
 
 ---
 

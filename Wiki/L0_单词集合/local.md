@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**地方的，当地的**== ; ②==**局部的**== ; ③（火车/巴士）慢车的，每站停的
-**n.** ①==**当地人**==（the locals） ; ②当地酒馆
+**adj.** ①==**地方的，当地的**== `local government / local community` ; ②==**局部的**== `local anesthesia / local effect` ; ③（火车/巴士）慢车的，每站停的
+**n.** ①==**当地人**== `the locals` ; ②当地酒馆
 
 > [!tip] 原型义
 > **原型义**：地方的、当地的（属于某个特定地点的）
@@ -128,8 +128,10 @@ loc(地方/地点) + -al(形容词后缀，与……有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The townsfolk don't see it this way and local councils won't directly give the Royal Shakespeare Company a subsidy."（但是市民们不这样认为，当地的理事会也不会直接给皇家莎士比亚公司提供补贴。）——2006年阅读
-> - "Amateurs, on the other hand, have continued to pursue local studies in the old way."（另一方面，业余人员继续以旧的方式从事局部的研究。）——2001年阅读1
+> - The townsfolk don't see it this way and local councils won't directly give the Royal Shakespeare Company a subsidy. `[真题]`
+> - Amateurs, on the other hand, have continued to pursue local studies in the old way. `[真题]`
+> - The local economy has been severely affected by the decline in tourism over the past decade. `[COCA-ACAD]`
+> - Residents have raised concerns about the impact of the new development on the local environment. `[COCA-NEWS]`
 ---
 
 

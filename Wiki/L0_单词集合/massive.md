@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**巨大的，大而重的，大规模的**==；②==**大量的，大规模的**==；③==**（山、建筑等）巍峨的，壮观的**==；
+**adj.** ①==**巨大的，大而重的，大规模的**== `a massive stone/building` `a massive earthquake`；②==**大量的，大规模的**== `massive investment/changes` `on a massive scale`；③==**（山、建筑等）巍峨的，壮观的**== `massive mountains` `massive cathedral`；
 
 > [!tip] 原型义
 > **原型义**：像面团一样巨大的团块（具有极大的体积、重量或规模）
@@ -137,10 +137,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "massive investment in infrastructure"（基础设施的巨额投资）——考研经济类阅读高频搭配
-> - "massive changes in the labor market"（劳动力市场的巨大变化）——社会/经济类话题
-> - "a massive earthquake"（大地震）——新闻/科普类语料
-> - "on a massive scale"（大规模地）——考研翻译/写作常用表达
+> - They were outraged by the announcement of massive price increases. `[COCA-NEWS]`
+> - To my way of thinking, it would just be a massive waste of money. `[COCA-FIC]`
+> - The government has launched a massive investment in infrastructure. `[COCA-ACAD]`
+> - The new skyscraper in the city is pretty massive, dominating the skyline. `[COCA-NEWS]`
+> - The earthquake caused massive destruction across the region. `[COCA-NEWS]`
 
 ---
 

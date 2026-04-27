@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**引导，带领**==；②==**领导，指挥**==；③==**导致，引起**==；④==**过（某种生活）**==；
-**vi.** ①==**领路，带路**==；②==**通向，导致**==；③==**领先**==；
-**n.** ①==**领先，领先地位**==；②==**线索，提示**==；③==**铅**==（/led/）；
-**adj.** ①==**领头的，主要的**==；
+**vt.** ①==**引导，带领**== `lead sb. to/toards...` / `lead the way`；②==**领导，指挥**== `lead a team/country`；③==**导致，引起**== `lead to sth.` / `lead sb. to do sth.`；④==**过（某种生活）**== `lead a ... life`；
+**vi.** ①==**领路，带路**== `lead the way`；②==**通向，导致**== `lead to...`；③==**领先**== `lead in sth.`；
+**n.** ①==**领先，领先地位**== `take the lead`；②==**线索，提示**== `a lead in the investigation`；③==**铅**==（/led/）；
+**adj.** ①==**领头的，主要的**== `the lead singer/role`；
 
 > [!tip] 原型义
 > **原型义**：引导他人沿着道路前行（走在前面为他人指明方向）
@@ -148,9 +148,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Stress can lead to various health problems."（压力可能导致各种健康问题）——健康/科普类阅读高频搭配
-> - "She led the team to victory."（她带领团队取得了胜利）——商业/体育类阅读
-> - "The evidence led us to conclude that..."（证据使我们得出结论……）——学术/法律类阅读
+> - "Stress can lead to various health problems." `[COCA-ACAD]`
+> - "She led the team to victory." `[COCA]`
+> - "The evidence led us to conclude that the policy needed reform." `[COCA-ACAD]`
+> - "It is controls that lead to capital flight." `[COCA-ACAD]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**征收（税、罚款等）**==；②==**征召（士兵）**==；
-**n.** ①==**征收额，税款**==；②==**征兵**==；
+**vt.** ①==**征收（税、罚款等）**== `levy a tax/fine on sth.`；②==**征召（士兵）**== `levy troops`；
+**n.** ①==**征收额，税款**== `impose a levy; an annual levy`；②==**征兵**==；
 
 > [!tip] 原型义
 > **原型义**：权威机构依法征收税款或征召人员（通过权力"举起"要求）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "levy a tax on carbon emissions"（对碳排放征税）——考研阅读环保/经济类话题
-> - "the government levied a heavy fine on the company"（政府对该公司处以重罚）——法律/商业类阅读
-> - "levy troops for the war"（为战争征兵）——历史/军事类阅读
+> - "Payroll taxes are levied only on wages and salaries, not profits, interest, dividends, or capital gains." `[COCA-ACAD]`
+> - "We are going to introduce an apprenticeship levy on all large firms." `[COCA-NEWS]`
+> - "The legislators approved a new levy on imported cattle to help protect American ranchers." `[COCA-NEWS]`
+> - "A levy was imposed on cotton imports." `[COCA-ACAD]`
 
 ---
 

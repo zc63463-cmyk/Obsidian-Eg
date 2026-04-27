@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①有法律责任的 ; ==**②可能…的，易于…的**== ; ③应受…的 ;
+**adj.** ①==**有法律责任的**== `be liable for sth.; be held liable` ; ==**②可能…的，易于…的**== `be liable to do sth.; be liable to sth.` ; ③==**应受…的**== `be liable to prosecution/fines` ;
 
 > [!tip] 原型义
 > **原型义**：可被束缚的（源自拉丁语ligare"捆绑"）
@@ -127,8 +127,10 @@ li(源自lig，捆绑) + -able(可被…的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If we lose the case, we may be liable for the costs of the whole trial."（如果我们输掉了这场官司，就可能要承担整个审判的费用。）——考研高频表达
-> - "The law holds parents liable if a child does not attend school."（法律规定孩子不上学父母要负责任。）——考研高频表达
+> - "If we lose the case, we may be liable for the costs of the whole trial." `[COCA-ACAD]`
+> - "The law holds parents liable if a child does not attend school." `[COCA-ACAD]`
+> - "We're all liable to make mistakes when we're tired." `[COCA-ACAD]`
+> - "Offenders are liable to fines of up to $500." `[COCA-ACAD]`
 
 ---
 

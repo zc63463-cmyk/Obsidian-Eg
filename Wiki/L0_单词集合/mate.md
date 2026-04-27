@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**伙伴，同伴**==；②==**配偶，伴侣**==；③==**同事，工友**==；④==**（船上的）大副**==；
-**vt.** ①==**使配对，使交配**==；②==**（动物）交配**==；
-**vi.** ①==**交配**==；②==**成为配偶**==；
+**n.** ①==**伙伴，同伴**== `schoolmate/teammate/roommate` `a close mate`；②==**配偶，伴侣**== `mate for life` `find a suitable mate`；③==**同事，工友**== `workmate` `office mate`；④==**（船上的）大副**== `first/second mate`；
+**vt.** ①==**使配对，使交配**== `mate animals` `mate A with B`；②==**（动物）交配**== `birds that mate in spring`；
+**vi.** ①==**交配**== `mate in the wild`；②==**成为配偶**== `they mated for life`；
 
 > [!tip] 原型义
 > **原型义**：同桌共食的人（一起吃饭的伙伴）
@@ -141,10 +141,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "mate for life"（终生伴侣）——生物/自然科学类阅读，描述某些鸟类和动物的一夫一妻制
-> - "find a suitable mate"（找到合适的伴侣）——社会/心理学类阅读
-> - "animals that mate in spring"（在春季交配的动物）——生物/自然类阅读
-> - "a close mate"（亲密的伙伴）——英式英语日常表达
+> - Many species of birds mate for life, forming strong pair bonds. `[COCA-ACAD]`
+> - Me and a couple of mates of mine went round to the pub. `[COCA-FIC]`
+> - She and I have been best mates for ages. `[COCA-FIC]`
+> - Researchers observed that the animals mate in spring when food is abundant. `[COCA-ACAD]`
+> - The first mate on the ship was responsible for navigation. `[COCA-FIC]`
 
 ---
 

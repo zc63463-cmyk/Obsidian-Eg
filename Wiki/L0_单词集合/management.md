@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**管理，经营**==；②==**管理层，资方**==；③==**处理，驾驭**==；④==**手段，技巧**==；
+**n.** ①==**管理，经营**== `business management` `project management`；②==**管理层，资方**== `senior management` `management and labor`；③==**处理，驾驭**== `time management` `stress management`；④==**手段，技巧**== `management skills` `management techniques`；
 
 > [!tip] 原型义
 > **原型义**：管理的行为或过程（用手控制马匹的动作→管理事务的过程）
@@ -137,9 +137,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "effective management is crucial for business success"（有效的管理对企业成功至关重要）——考研阅读商业类话题
-> - "a conflict between management and labor"（劳资冲突）——社会/经济类阅读
-> - "time management skills"（时间管理技能）——教育/自我提升类话题
+> - Business improved under the management of new owners. `[COCA-ACAD]`
+> - Management and labor could not agree on the terms of the new contract. `[COCA-NEWS]`
+> - Effective time management is essential for academic success. `[COCA-ACAD]`
+> - She is responsible for the day-to-day management of the company. `[COCA-ACAD]`
+> - The project needs stronger management to meet its deadlines. `[COCA-ACAD]`
 
 ---
 

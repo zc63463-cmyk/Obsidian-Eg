@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**主要的，首要的**==；②==**领先的，前列的**==；③==**带头的，引领的**==；
-**n.** ①==**领先，领先地位**==；
+**adj.** ①==**主要的，首要的**== `a leading cause/expert`；②==**领先的，前列的**== `a leading company/brand`；③==**带头的，引领的**== `a leading role/figure`；
+**n.** ①==**领先，领先地位**== `take the leading position`；
 
 > [!tip] 原型义
 > **原型义**：走在最前面的（在竞争、排名或重要性中处于最前端位置）
@@ -138,9 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smoking is a leading cause of lung cancer."（吸烟是肺癌的主要原因）——健康/科普类阅读高频搭配
-> - "She is a leading expert in the field of artificial intelligence."（她是人工智能领域的顶尖专家）——科技类阅读
-> - "The company plays a leading role in the industry."（该公司在行业中发挥着主导作用）——商业类阅读
+> - "The leading cause of death in the United States is heart disease." `[COCA-ACAD]`
+> - "She is a leading expert in the field of artificial intelligence." `[COCA-ACAD]`
+> - "The company plays a leading role in the industry." `[COCA]`
+> - "He is recognized as a leading expert on cardiovascular disease prevention." `[COCA-ACAD]`
 
 ---
 

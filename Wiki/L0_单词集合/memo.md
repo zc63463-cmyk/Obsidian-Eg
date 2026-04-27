@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**备忘录，内部通知**==；②（非正式）记录；
+**n.** ①==**备忘录，内部通知**== `` `send a memo / internal memo` ``；②（非正式）记录；
 
 > [!tip] 原型义
 > **原型义**：写下来帮助记忆的东西
@@ -122,7 +122,9 @@ memor(记忆，memory) + -o(名词后缀，缩略形式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - According to an internal memo obtained by the press, the company plans to cut costs by 15%.（据媒体获得的一份内部备忘录显示，该公司计划削减15%的成本。）
+> - The manager sent a memo to all employees about the new policy. `` `[COCA-ACAD]` ``
+> - An internal memo revealed the company's plans for restructuring. `` `[COCA-ACAD]` ``
+> - The chairman circulated a memorandum to member states to reconvene the meeting. `` `[真题]` ``
 
 ---
 

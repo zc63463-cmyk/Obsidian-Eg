@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**明显的，显而易见的**==；
-**vt.** ①==**显示，表明**==；②==**证明，证实**==；③==**显现，出现**==；
+**adj.** ①==**明显的，显而易见的**== `be manifest in/of` `a manifest difference`；
+**vt.** ①==**显示，表明**== `manifest itself` `manifest one's intention`；②==**证明，证实**==；③==**显现，出现**== `manifest in the form of`；
 **n.** ①==**货单，旅客名单**==；②==**宣言，声明**==；
 
 > [!tip] 原型义
@@ -137,9 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the disease manifests itself in various ways"（这种疾病以多种方式显现）——考研阅读医学/科普类话题
-> - "a manifest error of judgment"（明显的判断错误）——法律/评论类阅读
-> - "the tension manifested in the form of protests"（紧张局势以抗议的形式表现出来）——社会/政治类阅读
+> - Lack of confidence in the company `manifested itself` in a fall in the share price. `[COCA-ACAD]`
+> - The same alarm is `manifest` everywhere. `[COCA-ACAD]`
+> - Fear often `manifests itself` in technique. `[COCA-ACAD]`
+> - The disease `manifests itself` in various ways. `[真题]`
 
 ---
 

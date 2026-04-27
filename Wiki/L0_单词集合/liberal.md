@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①慷慨的，大方的 ; ②自由的，开明的 ; ==**③自由主义的**== ; ④宽大的 ;
+**adj.** ①==**慷慨的，大方的**== `be liberal with sth.` ; ②==**自由的，开明的**== `liberal views/attitudes` ; ==**③自由主义的**== `liberal democracy; liberal party` ; ④==**宽大的**== ;
 
-**n.** ①自由主义者 ;
+**n.** ①==**自由主义者**== ;
 
 > [!tip] 原型义
 > **原型义**：自由的（源自拉丁语liber"自由"）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labor than any comparable trading area."（欧洲一体化项目在其最佳状态下是相当自由的：它建立在27个贫富国家组成的单一市场之上，其内部边界对商品、资本和劳动力的开放程度远超任何可比的贸易区域。）——2011考研英语二Text4
-> - "A liberal education is one that liberates the mind and cultivates critical thinking."（博雅教育是解放思想、培养批判性思维的教育。）——考研高频表达
+> - "At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area." `[真题]`
+> - "Independence is a central liberal value." `[COCA-ACAD]`
+> - "She is known to have liberal views on divorce and contraception." `[COCA-NEWS]`
+> - "But he says that he hopes to go home and put his liberal education into practice." `[COCA-NEWS]`
 
 ---
 

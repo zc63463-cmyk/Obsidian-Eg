@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**后者的**==；②==**后半的**==；
-**n.** （两者中的）==**后者**==；
+**adj.** ①==**后者的**== `the former...the latter...`；②==**后半的**== `the latter half/part of...`；
+**n.** （两者中的）==**后者**== `prefer the latter` / `choose the latter`；
 
 > [!tip] 原型义
 > **原型义**：较迟的→后者（late 迟 + -er 比较级后缀 → 较迟的 → 后者）
@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I have two options: the former is cheaper, but the latter is more reliable."（我有两个选择：前者更便宜，但后者更可靠）——考研高频句型
-> - "He spent the latter half of his career in academia."（他在学术界度过了职业生涯的后半部分）——传记/学术语境
-> - "The latter part of the 20th century saw rapid technological advances."（20 世纪后半叶见证了快速的技术进步）——历史/科技语境
-> - "In the latter case, the company would face significant losses."（在后一种情况下，公司将面临重大损失）——商业语境
+> - "She offered me more money or a car and I chose the latter." `[COCA]`
+> - "He spent the latter half of his career in academia." `[COCA-ACAD]`
+> - "The latter part of the 20th century saw rapid technological advances." `[COCA-ACAD]`
+> - "I would unhesitatingly choose the latter option." `[COCA]`
 
 ---
 

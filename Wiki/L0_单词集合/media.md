@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**媒体，新闻界**==（大众传播媒介的总称，如电视、报纸、互联网等）；
+**n.** ①==**媒体，新闻界**== `` `the media / mass media / social media` ``（大众传播媒介的总称，如电视、报纸、互联网等）；
 
 > [!tip] 原型义
 > **原型义**：medium 的复数形式（多种媒介的集合→大众媒体）
@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The media plays a crucial role in shaping public opinion."（媒体在塑造公众舆论方面发挥着关键作用）——社会/传播话题
-> - "Social media has transformed the way we communicate."（社交媒体改变了我们的交流方式）——科技/社会话题
-> - "The event received extensive media coverage."（该事件受到了媒体的广泛报道）——新闻话题
-> - "The media were accused of biased reporting."（新闻界被指控报道有偏见）——注意 media 作复数动词
+> - The media plays a crucial role in shaping public opinion. `` `[COCA-ACAD]` ``
+> - Social media has transformed the way we communicate and share information. `` `[COCA-ACAD]` ``
+> - The event received extensive media coverage. `` `[真题]` ``
+> - The media were accused of biased reporting during the election campaign. `` `[COCA-ACAD]` ``
 
 ---
 

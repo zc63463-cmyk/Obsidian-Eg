@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**巨大，重大**==（规模/程度）；②==**重要性**==；③（地震的）==**震级**==；（恒星的）==**星等**==；
+**n.** ①==**巨大，重大**== `the magnitude of the problem / crisis`（规模/程度）；②==**重要性**== `of great magnitude`；③（地震的）==**震级**== `magnitude 7.0 earthquake`；（恒星的）==**星等**==；
 
 > [!tip] 原型义
 > **原型义**：巨大、庞大（拉丁语 *magnitudo* = greatness）
@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We did not fully appreciate the magnitude of the problem."（我们没有充分认识到问题的严重性）——考研高频句型
-> - "an earthquake of magnitude 7.2 on the Richter scale"（里氏 7.2 级地震）——常见搭配
-> - "They underestimate the magnitude of the task."（他们低估了任务的艰巨程度）——常见表达
-> - "The magnitude of his achievement cannot be overstated."（他的成就之伟大无论怎样强调都不为过）——学术/评价语境
+> - `We did not fully appreciate the magnitude of the problem.` `[真题]`
+> - `Environmental disasters of this magnitude underline the need for an EU coastguard.` `[COCA-ACAD]`
+> - `The magnitude of the task can be readily seen by a brief look at the statistics.` `[COCA-ACAD]`
+> - `An operation of this magnitude is going to be difficult.` `[COCA-NEWS]`
 
 ---
 

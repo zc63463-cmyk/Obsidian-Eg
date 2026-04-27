@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**测量，度量**==；②==**衡量，评估**==；③==**显示……的程度**==；
-**vi.** ①==**有……大小/尺寸**==；
-**n.** ①==**措施，办法**==；②==**度量单位，标准**==；③==**程度，限度**==；④==**量度，测量**==；
+**vt.** ①==**测量，度量**== `` `measure sth. in sth. / measure the distance/impact` ``；②==**衡量，评估**== `` `measure success / measure up to` ``；③==**显示……的程度**== `` `measure sth. by sth.` ``；
+**vi.** ①==**有……大小/尺寸**== `` `measure 15 feet by 30 feet` ``；
+**n.** ①==**措施，办法**== `` `take measures to do sth. / a precautionary measure` ``；②==**度量单位，标准**== `` `a unit of measure` ``；③==**程度，限度**== `` `a measure of sth. / beyond measure` ``；④==**量度，测量**==；
 
 > [!tip] 原型义
 > **原型义**：用标准尺度去量（用尺子量长度、用秤称重量，即"与标准进行比较"）
@@ -142,10 +142,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "take effective measures to..."（采取有效措施……）——考研翻译/阅读中政策类话题高频表达
-> - "a measure of success"（成功的程度/衡量成功的标准）——考研阅读中描述评价标准
-> - "measure up to expectations"（达到期望）——考研阅读中描述表现评价
-> - "beyond measure"（无可估量地）——考研翻译/阅读中描述程度之深
+> - The government warned that police would take tougher measures to contain the trouble. `` `[COCA-ACAD]` ``
+> - His success cannot be measured solely on the basis of his popularity. `` `[COCA-ACAD]` ``
+> - New safety measures were being demanded after last night's horrific train crash. `` `[真题]` ``
+> - The room measures 15 feet wide by 30 feet long. `` `[COCA-ACAD]` ``
+> - Their actions were motivated in large measure by a desire for revenge. `` `[COCA-ACAD]` ``
 
 ---
 

@@ -24,7 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**管辖权**==；②==**司法权**==；
+**n.** ①==**管辖权**== `fall under the jurisdiction of / beyond one's jurisdiction`；`exercise jurisdiction`；
+②==**司法权**== `civil jurisdiction / criminal jurisdiction`；`within the jurisdiction of the court`；
 
 > [!tip] 原型义
 > **原型义**：法律权力范围（jur = 法律 + is = 权力 + dict = 说 + -ion = 名词后缀）
@@ -129,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The case falls under the jurisdiction of the federal court."（此案属于联邦法院的管辖范围）——法律话题
-> - "This matter is beyond the jurisdiction of local authorities."（此事超出了地方当局的管辖权）——法律/行政话题
-> - "The two countries disputed over the jurisdiction of the waters."（两国对这片水域的管辖权存在争议）——国际关系话题
-> - "The committee has jurisdiction over all financial matters."（委员会对所有财务事务拥有管辖权）——组织管理话题
+> - "The court has jurisdiction over most criminal offenses." `[COCA-ACAD]`
+> - "His attorney claimed the court lacked jurisdiction in this matter." `[COCA-ACAD]`
+> - "Narrow neighborhood streets common at mid-century are now illegal in most jurisdictions." `[COCA-ACAD]`
+> - "There are no easy solutions to the problem of privacy and legal jurisdiction." `[COCA-ACAD]`
 
 ---
 

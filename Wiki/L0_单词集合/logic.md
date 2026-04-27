@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**逻辑；逻辑学**== ; ②==**推理方法**== ; ③==**道理；合理性**==
+**n.** ①==**逻辑；逻辑学**== `the logic of sth. / formal logic` ; ②==**推理方法**== `the logic behind sth. / flawed logic` ; ③==**道理；合理性**== `there is no logic in / defy logic`
 
 > [!tip] 原型义
 > **原型义**：说话的艺术/推理 → 逻辑（the art of reasoning / speech）
@@ -130,8 +130,10 @@ log(说话/推理/词，源自希腊语 logos) + -ic(名词/形容词后缀) →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I didn't follow her logic in reaching that conclusion."（我不理解她得出那个结论的逻辑。）——考研高频表达
-> - "His thinking goes against all logic."（他的思维完全不合逻辑。）——考研高频表达
+> - There is no logic in the decision to reduce staff when orders are the highest they have been for years. `[COCA-ACAD]`
+> - The internal logic of her argument is undeniable and has convinced many skeptics. `[COCA-ACAD]`
+> - If prices go up, wages will go up too — that is just basic economic logic. `[COCA-NEWS]`
+> - I couldn't see the logic behind the decision to close the school despite strong community opposition. `[COCA-NEWS]`
 
 ---
 

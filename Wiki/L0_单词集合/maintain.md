@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**维持，保持**==；②==**维修，保养**==；③==**坚持（主张），断言**==；④==**赡养，抚养**==；
+**vt.** ①==**维持，保持**== `maintain order / health / contact`；②==**维修，保养**== `maintain a car / equipment`；③==**坚持（主张），断言**== `maintain that...`；④==**赡养，抚养**== `maintain a family`；
 
 > [!tip] 原型义
 > **原型义**：用手保持→维持（main（=manus，手）+ [[tain]]（保持）→ 用手保持→维持）
@@ -142,10 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is important to maintain a healthy work-life balance."（保持健康的工作与生活平衡很重要）——常见话题
-> - "The government has maintained that the policy is necessary."（政府一直坚持认为这项政策是必要的）——政治/新闻语境
-> - "Regular maintenance is essential to maintain the equipment in good condition."（定期保养对于保持设备良好状态至关重要）——技术/说明语境
-> - "He maintained his innocence throughout the trial."（在整个审判过程中他坚称自己无罪）——法律语境
+> - `The army has been brought in to maintain order in the region.` `[COCA-ACAD]`
+> - `They have always maintained high standards of professional conduct.` `[COCA-ACAD]`
+> - `He had always maintained his innocence.` `[COCA-NEWS]`
+> - `The pilot was struggling to maintain control of the aircraft.` `[COCA-NEWS]`
 
 ---
 

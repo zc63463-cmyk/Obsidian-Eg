@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**同时，在此期间**==；
-**n.** ①==**其间，间隔时间**==；
+**adv.** ①==**同时，在此期间**== `` `Meanwhile, ... / ..., meanwhile, ...` ``；
+**n.** ①==**其间，间隔时间**== `` `in the meanwhile` ``；
 
 > [!tip] 原型义
 > **原型义**：中间的那段时间（mean "中间" + while "一段时间"，即两个事件之间的间隔时间）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Meanwhile, the number of..."（与此同时，……的数量……）——考研阅读中极其常见的段落过渡句式，引入对比或补充信息
-> - "Meanwhile, critics argue that..."（与此同时，批评者认为……）——考研阅读中引入对立观点的典型句式
-> - "Meanwhile, in other parts of the world..."（与此同时，在世界其他地方……）——考研阅读中空间对比的过渡
+> - We'll buy you some shorts this weekend, but meanwhile you'll just have to wear your long pants. `` `[COCA-ACAD]` ``
+> - Meanwhile, the number of uninsured Americans has continued to rise. `` `[真题]` ``
+> - She stopped to take one last snapshot; meanwhile, back at the camp, cook had dinner ready and waiting. `` `[COCA-ACAD]` ``
+> - Meanwhile, critics argue that the policy could have unintended consequences. `` `[例]` ``
 
 ---
 

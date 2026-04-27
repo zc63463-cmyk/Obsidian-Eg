@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**成熟的，发育完全的**==；②==**成年的**==；③==**深思熟虑的，理智的**==；④==**到期的（票据等）**==；
-**vt.** ①==**使成熟**==；②==**使完善**==；
-**vi.** ①==**成熟**==；②==**到期**==；
+**adj.** ①==**成熟的，发育完全的**== `a mature student` `emotionally mature`；②==**成年的**== `mature adults` `mature age`；③==**深思熟虑的，理智的**== `a mature decision/approach` `mature judgment`；④==**到期的（票据等）**== `a mature bond` `mature deposits`；
+**vt.** ①==**使成熟**== `mature the wine` `mature the plan`；②==**使完善**== `mature a technology`；
+**vi.** ①==**成熟**== `the cheese matured` `mature into sth`；②==**到期**== `the bond matures` `mature in 10 years`；
 
 > [!tip] 原型义
 > **原型义**：在恰当的时间成熟（果实到了该成熟的时节自然成熟）
@@ -140,9 +140,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a mature approach to the problem"（处理问题的成熟方法）——考研阅读/翻译中描述态度和方法
-> - "mature economies"（成熟经济体）——考研经济类阅读中描述经济发展阶段
-> - "emotionally and intellectually mature"（情感和智力上成熟的）——考研阅读中描述人格发展
+> - She made a mature decision to postpone the wedding until her career was stable. `[COCA-FIC]`
+> - Mature economies tend to grow more slowly than developing ones. `[COCA-ACAD]`
+> - The bond matures in ten years, at which point the principal is repaid. `[COCA-ACAD]`
+> - Emotionally and intellectually mature individuals are better equipped to handle conflict. `[COCA-ACAD]`
+> - The cheese needs to mature for at least six months before it is ready to eat. `[COCA-NEWS]`
 
 ---
 

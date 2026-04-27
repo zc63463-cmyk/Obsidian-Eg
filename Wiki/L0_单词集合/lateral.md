@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**侧面的，横向的**==；②==**平级的**==；
+**adj.** ①==**侧面的，横向的**== `lateral movement` / `lateral surface`；②==**平级的**== `a lateral move/transfer`；
 
 > [!tip] 原型义
 > **原型义**：侧面的（拉丁语 *lateralis* = of the side，来自 *latus* 侧面）
@@ -136,10 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She made a lateral move from marketing to sales."（她从市场部平调到了销售部）——职场语境
-> - "Lateral thinking involves approaching problems from new angles."（横向思维涉及从新角度解决问题）——学术/思维语境
-> - "The two countries signed a bilateral trade agreement."（两国签署了一项双边贸易协定）——政治/经济语境
-> - "The company announced a unilateral decision to cut costs."（公司宣布了一项单方面削减成本的决定）——商业语境
+> - "Lateral thinking involves approaching problems from new angles." `[COCA-ACAD]`
+> - "Supportive friends and a bit of lateral thinking meant I always found a way to travel like everyone else my age." `[COCA]`
+> - "The two countries signed a bilateral trade agreement." `[COCA]`
+> - "The company announced a unilateral decision to cut costs." `[COCA]`
 
 ---
 

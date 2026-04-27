@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ==**①解放，使获得自由**== ; ②释放，放出 ; ③释出，放出（能量等） ;
+**vt.** ==**①解放，使获得自由**== `liberate sb./sth. from sth.` ; ②释放，放出 `liberate energy/gas` ; ③释出，放出（能量等） `liberate sth. from sth.` ;
 
 > [!tip] 原型义
 > **原型义**：使自由（源自拉丁语liber"自由"）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education should liberate the mind from prejudice and ignorance."（教育应该将思想从偏见和无知中解放出来。）——考研高频表达
-> - "The new technology liberates workers from repetitive manual labor."（新技术将工人从重复性的体力劳动中解放出来。）——考研高频表达
+> - "They are fighting to liberate their country from foreign occupation." `[COCA-ACAD]`
+> - "Laptop computers could liberate workers from their desks." `[COCA-NEWS]`
+> - "Education should liberate the mind from prejudice and ignorance." `[例]`
 
 ---
 

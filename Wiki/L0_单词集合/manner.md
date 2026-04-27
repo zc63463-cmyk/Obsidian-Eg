@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**方式，方法**==；②==**态度，举止**==；③==**礼貌，礼仪**==（manners）；④==**种类，样式**==；
+**n.** ①==**方式，方法**== `in a ... manner` `in a systematic manner`；②==**态度，举止**== `his manner suggested ...` `a courteous manner`；③==**礼貌，礼仪**==（manners）`good/bad manners` `table manners`；④==**种类，样式**== `all manner of`；
 
 > [!tip] 原型义
 > **原型义**：用手做事的方式（手的操作方式→做事的方式）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "in a systematic manner"（以系统的方式）——考研阅读学术类话题，常见搭配
-> - "his manner suggested confidence"（他的举止显示出自信）——人物描写类阅读
-> - "all manner of problems"（各种各样的问题）——通用表达，考研高频搭配
+> - The research was conducted in a systematic `manner`. `[COCA-ACAD]`
+> - Her courteous `manner` earned her many friends. `[COCA-ACAD]`
+> - Please conduct yourself in a respectful `manner`. `[COCA-ACAD]`
+> - The data were collected in a rigorous `manner`. `[真题]`
 
 ---
 

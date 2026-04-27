@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**调查，研究**==；②==**审查**==；
+**v.** ①==**调查，研究**== `investigate N` `investigate the cause/relationship`；②==**审查**== `investigate allegations/claims` `investigate a case`；
 
 > [!tip] 原型义
 > **原型义**：追踪痕迹寻找真相（像侦探一样循着线索一步步追踪，直到找到事实的真相）
@@ -131,8 +131,10 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scotland Yard have been called in to investigate the murder."（苏格兰场已被请来调查这起谋杀案。）——考研高频表达
-> - "The study investigates the relationship between diet and health in older adults."（这项研究调查了老年人饮食与健康之间的关系。）——考研高频表达
+> - "Scotland Yard have been called in to investigate the murder." `[COCA-ACAD]`
+> - "Detectives are currently investigating possible links between the murders." `[COCA-ACAD]`
+> - "The study investigates the relationship between diet and health in older adults." `[COCA-ACAD]`
+> - "The government is currently investigating what caused the piece to blow off from the plane." `[COCA-NEWS]`
 
 ---
 

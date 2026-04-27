@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**文学，文学作品**==；②文献，资料；③印刷品，宣传品；
+**n.** ①==**文学，文学作品**== `English literature / literary literature`；②==**文献，资料**== `literature review / scientific literature`；③==**印刷品，宣传品**== `product literature`；
 
 > [!tip] 原型义
 > **原型义**：由文字构成的作品集合
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A thorough review of the existing literature reveals several gaps in our understanding of the phenomenon.（对现有文献的全面审查揭示了我们对这一现象的理解存在若干空白。）
-> - Literature is a mirror that reflects the society in which it is created.（文学是一面镜子，反映了它所处的社会。）
+> - A thorough review of the existing literature reveals several gaps in our understanding of the phenomenon. `[COCA-ACAD]`
+> - The researcher conducted a comprehensive literature review before starting the experiment. `[COCA-ACAD]`
+> - Ibogaine has been linked to more than thirty deaths in the medical literature according to recent studies. `[COCA-NEWS]`
+> - Literature is a mirror that reflects the society in which it is created. `[例]`
 
 ---
 

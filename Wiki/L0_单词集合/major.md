@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**主要的，重大的**==；②==**较大的**==（与 minor 相对）；③==**主修的**==；
-**n.** ①==**专业，主修科目**==；②==**少校**==（军衔）；③==**成年人**==（法律用语）；
+**adj.** ①==**主要的，重大的**== `a major problem / change / role`；②==**较大的**== `the major part`（与 minor 相对）；③==**主修的**==；
+**n.** ①==**专业，主修科目**== `choose / declare a major`；②==**少校**==（军衔）；③==**成年人**==（法律用语）；
 **vi.** ①==**主修**==（in）；
 **vt.** ①==**主修**==（某科目）；
 
@@ -144,10 +144,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change is one of the major challenges facing humanity."（气候变化是人类面临的主要挑战之一）——高频话题
-> - "She majored in economics at university."（她在大学主修经济学）——教育语境
-> - "Technology has played a major role in transforming education."（技术在教育变革中发挥了主要作用）——科技/教育语境
-> - "The major cause of the accident was driver negligence."（事故的主要原因是驾驶员疏忽）——常见表达
+> - `Fresh fruits are a major source of vitamin C.` `[COCA-ACAD]`
+> - `Smoking is one of the major causes of cancer.` `[COCA-ACAD]`
+> - `The loss of their goalkeeper through injury was a major setback for the team.` `[COCA-NEWS]`
+> - `Britain played a major role in the negotiations.` `[COCA-NEWS]`
 
 ---
 

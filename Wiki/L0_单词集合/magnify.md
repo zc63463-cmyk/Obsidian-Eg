@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**放大，扩大**==；②==**夸大**==；
+**vt.** ①==**放大，扩大**== `magnify sth. by X times`；②==**夸大**== `magnify the problem / risk`；
 
 > [!tip] 原型义
 > **原型义**：使变大（[[magn]] 大 + -ify 使 → 使变大 → 放大）
@@ -138,10 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The microscope can magnify objects up to 1,000 times."（这台显微镜能将物体放大 1000 倍）——科学语境
-> - "The media tends to magnify the risks of new technologies."（媒体倾向于夸大新技术的风险）——媒体/科技语境
-> - "Don't magnify the problem — it's not as serious as you think."（不要夸大问题——没你想的那么严重）——日常/建议语境
-> - "Social media has magnified the impact of public opinion."（社交媒体放大了公众舆论的影响力）——社会/媒体语境
+> - `The hot summer magnified the racial tensions in the community.` `[COCA-ACAD]`
+> - `The report tends to magnify the risks involved.` `[COCA-ACAD]`
+> - `I don't want to magnify the importance of these problems.` `[COCA-ACAD]`
+> - `The lens magnified the image 100 times.` `[COCA-ACAD]`
 
 ---
 

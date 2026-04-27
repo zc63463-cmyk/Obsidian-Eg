@@ -25,7 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**陪审团**==；②==（竞赛的）评审团==；
+**n.** ①==**陪审团**== `serve on a jury / the jury reached a verdict`；`the jury found sb guilty`；
+②==（竞赛的）评审团== `the jury of the film festival / a jury panel`；
 
 > [!tip] 原型义
 > **原型义**：法律团体（jur = 法律，-y = 集合名词后缀）
@@ -128,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The jury found the defendant not guilty."（陪审团裁定被告无罪）——法律话题
-> - "She was selected to serve on a jury for a murder trial."（她被选中在一场谋杀案审判中担任陪审员）——法律话题
-> - "The jury is still out on whether the new policy will work."（新政策是否有效尚未定论）——常见习语
-> - "The film won the top award from the festival jury."（这部电影获得了电影节评审团的最高奖项）——竞赛话题
+> - "The jury found the defendant not guilty." `[COCA-NEWS]`
+> - "She was selected to serve on a jury for a murder trial." `[COCA-NEWS]`
+> - "The jury's original award of $15.5 million in damages had already been reduced." `[COCA-NEWS]`
+> - "The common law and jury system became the heart of British justice." `[COCA-ACAD]`
 
 ---
 
