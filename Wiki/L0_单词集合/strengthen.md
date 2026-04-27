@@ -3,14 +3,12 @@ title: "strengthen"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 使之变得紧绷有力
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈstreŋθən/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使之变得紧绷有力**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使之变得紧绷有力**（身体层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个举重运动员不断训练，让松弛的肌肉变得紧实有力——这就是 strengthen 的原型。后来这个动作被用到一切需要"加力"的场景：给经济加力（strengthen the economy），给两国关系加力（strengthen ties），给法律加力（strengthen regulations）。记住：strengthen = strength（力量）+ en（使之化）= 使之有力。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[weaken]]：削弱，减弱（strengthen 的精确反义：加强↔削弱）
 > - [[undermine]]：暗中破坏，逐渐削弱（从根基上破坏力量）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **strengthen the economy**：加强经济
 > - **strengthen ties/relations**：加强联系/关系
 > - **strengthen one's resolve**：坚定决心
@@ -131,20 +129,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The bank loan has greatly strengthened our financial position."（银行的贷款极大地加强了我们的财力。）——考研高频表达
 > - "Legislation aimed at strengthening oversight and transparency of private agencies took effect in 2001."（旨在加强私营机构监督和透明度的立法于2001年生效。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

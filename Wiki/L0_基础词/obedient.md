@@ -3,14 +3,12 @@ title: "obedient"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 仔细倾听并遵从的人（听→服从→顺从的）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈbiːdiənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**仔细倾听并遵从**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **朝向听**（感官层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > obedient 的核心画面是"听话的人"。拉丁语 *obedire* = [[ob]]（朝向）+ *audire*（听）= "朝向某人听"→ "听从"。obedient child（听话的孩子）= 愿意听父母话的孩子。和 [[obey]]（动词：服从）、[[obedience]]（名词：服从）一起记：obey → obedient → obedience，构成完整的词族。-ent 后缀表示"具有某种品质的人"，所以 obedient 描述的是"具有服从品质的"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disobedient]]：不顺从的（obedient 的反义：顺从的↔不顺从的）
 > - [[rebellious]]：叛逆的（obedient 的反义：听话的↔叛逆的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **obedient child**：听话的孩子
 > - **obedient servant**：顺从的仆人
 > - **obedient dog**：听话的狗
@@ -125,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In traditional Asian families, children are expected to be obedient to their parents and show respect for their elders at all times."（在传统的亚洲家庭中，孩子被期望始终服从父母并尊敬长辈——考研翻译文化话题）
 > - "An obedient dog is much easier to train and can be a reliable companion for its owner."（一只听话的狗更容易训练，也能成为主人可靠的伙伴——考研阅读生活话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

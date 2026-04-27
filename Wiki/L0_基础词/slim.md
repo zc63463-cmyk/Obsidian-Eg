@@ -3,14 +3,12 @@ title: "slim"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 苗条的（身材细瘦好看的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/slɪm/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**苗条的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **苗条的**（物理形态层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > slim 描述的是"细瘦但好看"的身材。一个苗条的女孩——a slim girl。当 slim 形容机会时，就是"渺茫的"——a slim chance of success（成功的机会很渺茫）。动词用法：减肥——slim down。精简公司——slim the company。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fat]]：肥胖的（slim 的反义：苗条↔肥胖）
 > - [[plump]]：丰满的（slim 的反义：苗条↔丰满）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -140,7 +138,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a slim chance**：渺茫的机会
 > - **slim figure**：苗条的身材
 > - **slim down**：减肥；精简
@@ -148,19 +146,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All other passengers had only a very slim chance of getting sick according to the findings."（根据研究结果，所有其他乘客生病的几率都非常渺茫。——考研英语真题）
 > - "And the head-to-head competition might give them a strong incentive to lower their prices, perhaps by accepting slimmer profit margins or demanding better deals from providers."（面对面的竞争可能会给他们强烈的动力来降低价格，也许是接受更微薄的利润率，或者要求供应商提供更好的交易。——考研英语真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

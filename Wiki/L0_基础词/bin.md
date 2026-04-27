@@ -3,14 +3,12 @@ title: "bin"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 容器，箱子
-extension_dim: 功能用途
+extension_dim: [功能用途]
 phonetic: "/bɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ bin(容器/箱子，古英语 *binne*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**容器**"为统筹中心，沿功能用途向外扩展：
 >
 > 1. **容器**（物理层面）
@@ -69,7 +67,7 @@ bin(容器/箱子，古英语 *binne*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ bin(容器/箱子，古英语 *binne*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bin 最初就是"容器"——饲料槽、储物箱。后来最常见的容器变成了"垃圾桶"（rubbish bin）。bin 作动词就是"丢弃"——把想法扔进垃圾桶（bin the idea）。在计算机领域，bin 是 binary（二进制）的缩写。记住：bin 的核心就是"容器"，装什么就是什么容器。
@@ -92,7 +90,7 @@ bin(容器/箱子，古英语 *binne*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ bin(容器/箱子，古英语 *binne*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[keep]]：保留（bin 丢弃的反义：丢弃↔保留）
 > - [[save]]：保存（bin 丢弃的反义：丢弃↔保存）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ bin(容器/箱子，古英语 *binne*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rubbish bin**：垃圾桶
 > - **recycling bin**：回收箱
 > - **bin the idea/proposal**：丢弃想法/提案
@@ -133,19 +131,15 @@ bin(容器/箱子，古英语 *binne*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government decided to bin the controversial proposal after widespread public opposition."（在广泛的公众反对之后，政府决定放弃这项有争议的提案。——考研英语阅读社会政策类话题）
 > - "Please sort your waste and place it in the appropriate recycling bin."（请对垃圾进行分类，并将其放入适当的回收箱中。——考研英语翻译环保类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

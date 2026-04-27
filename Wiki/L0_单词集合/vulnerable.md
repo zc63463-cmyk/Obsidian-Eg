@@ -3,14 +3,12 @@ title: "vulnerable"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 可被伤害的→脆弱的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈvʌlnərəbl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ vulner-(伤害) + -able(可以被……的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可被伤害的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **可被伤害的**（身体层面——身体容易被伤害）
@@ -64,7 +62,7 @@ vulner-(伤害) + -able(可以被……的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ vulner-(伤害) + -able(可以被……的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vulner（伤害）+ -able（可以被……的）= 可以被伤害的。想象一只没有壳的小乌龟，**可被伤害的**（vulnerable），无论是身体还是心理都**脆弱**。社会中的弱势群体就像这只小乌龟。
@@ -87,7 +85,7 @@ vulner-(伤害) + -able(可以被……的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ vulner-(伤害) + -able(可以被……的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[invulnerable]]：刀枪不入的，不受伤害的（脆弱 vs 不受伤害）
 > - [[resistant]]：有抵抗力的（易受影响 vs 有抵抗力）
 > - [[strong]]：强壮的（脆弱 vs 强壮）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ vulner-(伤害) + -able(可以被……的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **vulnerable groups**：弱势群体（The government should protect vulnerable groups.）
 > - **be vulnerable to**：易受……的（Children are more vulnerable to infections.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Children are the most vulnerable to the influence of advertisements."（儿童最容易受到广告的影响。）——2017考研英语一阅读
 > - "The elderly and young children are particularly vulnerable to infectious diseases."（老年人和幼儿特别容易感染传染病。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

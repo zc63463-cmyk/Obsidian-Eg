@@ -3,14 +3,12 @@ title: "energetic"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 精力充沛的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˌenərˈdʒetɪk/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ en-(=in, 在…中) + erg(=ergon, work/能量) + -etic(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**充满能量和活力的**"为统筹中心，沿**具身路径**向外扩展：
 
@@ -62,7 +60,7 @@ en-(=in, 在…中) + erg(=ergon, work/能量) + -etic(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -72,7 +70,7 @@ en-(=in, 在…中) + erg(=ergon, work/能量) + -etic(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 体内充满了 erg（能量/工作力），整个人 energetic（精力充沛）——像一台满载运转的发动机
@@ -84,7 +82,7 @@ en-(=in, 在…中) + erg(=ergon, work/能量) + -etic(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ en-(=in, 在…中) + erg(=ergon, work/能量) + -etic(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[lethargic]]：<energetic 精力充沛的 vs lethargic 无精打采的>
 - [[tired]]：<energetic 精力充沛的 vs tired 疲倦的>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -114,27 +112,21 @@ en-(=in, 在…中) + erg(=ergon, work/能量) + -etic(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **an energetic person**（精力充沛的人）：She is an energetic and enthusiastic teacher.（她是一位精力充沛、充满热情的老师。）
 - **energetic efforts**（有力的努力）：The government made energetic efforts to reduce pollution.（政府做出了有力努力来减少污染。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - He is an energetic young man with a passion for sports.（他是一个热爱运动的精力充沛的年轻人。）
 - The market showed energetic growth in the first quarter.（市场在第一季度表现出有力的增长。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

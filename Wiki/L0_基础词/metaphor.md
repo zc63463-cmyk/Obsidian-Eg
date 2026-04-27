@@ -3,14 +3,12 @@ title: "metaphor"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 搬运过去（一种事物代替另一种事物）
-extension_dim: 修辞-认知扩展
+extension_dim: [修辞-认知扩展]
 phonetic: "/ˈmetəfər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**搬运/转移**"为统筹中心，沿修辞-认知扩展向外扩展：
 >
 > 1. **搬运/转移**
@@ -64,7 +62,7 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > metaphor = meta-（越过）+ phor（搬运）= 搬运过去。想象你把"船"这个概念"搬运"到"婚姻"上——"Marriage is a ship"（婚姻是一艘船），这就是 metaphor（隐喻）。与 [[transfer]]（转移）同源：trans-（越过）+ fer（搬运）= transfer，和 meta-（越过）+ phor（搬运）= metaphor 是同一个逻辑。metaphor 是文学和日常语言中最强大的认知工具之一。
@@ -86,7 +84,7 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[literal]]：字面的（metaphor"隐喻"的反义：隐喻↔字面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a metaphor for**：……的隐喻
 > - **mixed metaphor**：混合隐喻（修辞错误）
 > - **dead metaphor**：死隐喻（已固化的隐喻）
@@ -125,19 +123,15 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Time is a metaphor for change."（时间是变化的隐喻。——哲学语料）
 > - "The journey of life is a common metaphor in literature."（人生之旅是文学中常见的隐喻。——文学语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

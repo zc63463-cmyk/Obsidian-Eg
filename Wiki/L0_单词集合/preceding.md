@@ -3,14 +3,12 @@ title: "preceding"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在前的/前面的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/prɪˈsiːdɪŋ/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在前的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **在前的**（时间/顺序层面：先于当前事物的）
@@ -62,7 +60,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -70,7 +68,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > preceding = precede（在...之前）+ -ing（形容词化）。precede = pre（前）+ ced（走），所以 preceding 就是"走在前面的"→"在前的"。the preceding chapter = 前一章。
@@ -79,7 +77,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -91,13 +89,13 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[following]]：随后的；下面的（与"在前的"相对）
 > - [[succeeding]]：后来的；后续的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -108,7 +106,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the preceding chapter/paragraph**：前一章/前一段
   - The conclusion is summarized in the preceding chapter.（结论在前一章中已总结。）
 > - **the preceding year**：前一年
@@ -116,21 +114,15 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The preceding chapters have laid the groundwork for understanding this complex issue."（前面的章节为理解这个复杂问题奠定了基础。）——考研高频表达
 > - "As was mentioned in the preceding section, the results are consistent with previous findings."（如前一节所述，结果与之前的发现一致。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

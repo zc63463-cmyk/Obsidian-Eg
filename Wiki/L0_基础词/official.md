@@ -3,17 +3,14 @@ title: "official"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 与职责相关的→官方的→官员
-extension_dim: 权威属性
+extension_dim: [权威属性]
 phonetic: "/əˈfɪʃl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: office
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与职责/机构相关的**"为统筹中心，沿权威属性向外扩展：
 >
 > 1. **与职责相关的（属性层面）**
@@ -68,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > official = [[office]]（职责/办公室）+ ial（与……相关的）。与 office 相关的一切都是 official 的。official statement（官方声明）来自 office（政府机构），official figures（官方数据）来自 office（统计部门），official（官员）在 office 里工作。考研真题中经常出现 "official acts"（公务行为）、"official meetings"（官方会议）等搭配。
@@ -91,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unofficial]]：非官方的（official 的精确反义：官方的↔非官方的）
 > - [[informal]]：非正式的（official 的反义：正式的↔非正式的）
 > - [[private]]：私人的（official 的反义：公务的↔私人的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **official statement/announcement**：官方声明/公告
 > - **official figures/data**：官方数据
 > - **official language**：官方语言
@@ -134,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The high court's decision said the judge in Mr. McDonnell's trial failed to tell a jury that it must look only at his 'official acts,' or the former governor's decisions on 'specific' and 'unsettled' issues related to his duties."（最高法院的裁决说，McDonnell 先生审判中的法官未能告诉陪审团，他们必须只看他的"公务行为"，即这位前州长在与其职责相关的"具体的"和"未解决的"问题上的决定——考研英语真题）
 > - "Simply arranging a meeting, making a phone call, or hosting an event is not an official act."（仅仅安排一次会议、打一个电话或举办一场活动并不属于公务行为——考研英语真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

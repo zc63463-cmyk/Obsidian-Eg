@@ -3,14 +3,12 @@ title: "browse"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 动物啃食嫩芽
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/braʊz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**动物啃食嫩芽**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **动物啃食嫩芽**（物理动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > browse 就是"牛吃草"——想象一头牛在树丛里**东啃一口西啃一口**嫩叶（browse 的本义）。后来人走进书店，也像牛一样在书架间"啃"书——不深入读，只是随意翻翻。到了互联网时代，我们每天 browse the Web，本质上还是那头牛在"啃"信息。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[study]]：仔细研读（browse 的精确反义：随意翻阅↔深入研读）
 > - [[read]]：阅读（通用反义，强调完整阅读）
 > - [[immerse]]：沉浸于（强调深度投入 vs 浅层浏览）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **browse the Web / Internet**：浏览网页/互联网
 > - **browse through**：浏览，翻阅（browse through a magazine / a book）
 > - **browse the shelves**：浏览书架/货架
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "browse the Web for information"（在网上浏览信息）——考研阅读常见搭配
 > - "She browsed through the shelves for something interesting to read."（她浏览书架想找本有趣的书看）——常见文学/日常语境
 > - "You are welcome to come in and browse."（欢迎光临随便看看）——商业场景经典表达
@@ -138,15 +136,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

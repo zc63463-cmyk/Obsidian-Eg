@@ -3,14 +3,12 @@ title: "score"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在木棍上刻痕计数
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/skɔːr/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在木棍上刻痕计数**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **在木棍上刻痕计数**（物理动作层面）
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 牧羊人数羊，每数二十只就在木棍上**刻一道痕**（score），所以 score 既是"刻痕"也是"二十"。后来人们用刻痕来**记录比赛得分**，再后来把各种乐器声部像刻痕一样**编排记录**下来就成了**乐谱**。从木棍刻痕到考试分数到交响乐总谱，都是 score。
@@ -99,7 +97,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -112,14 +110,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[miss]]：未中/失误（score a goal 的反义：得分↔未中）
 > - [[lose]]：输/失去（得分↔失分）
 > - [[erase]]：擦除（刻痕记录的反义：记录↔擦除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **score a goal/point**：进一球/得一分
 > - **test score / exam score**：考试成绩
 > - **total score / final score**：总分/最终得分
@@ -144,22 +142,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Innovation is like soccer; even the best players miss the goal and have their shots blocked much more frequently than they score."（创新就像足球，即使是最出色的球员也会痛失进球机会，其射门被挡出的机会大大多于进球）——1994年考研阅读5
 > - "four score and seven years ago"（八十七年前）——林肯葛底斯堡演说，score = 20 的经典用法
 > - "test scores"（考试成绩）——考研阅读高频搭配，讨论教育评估体系
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

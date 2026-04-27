@@ -3,14 +3,12 @@ title: "vertical"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 垂直的（与地面成直角的方向）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈvɜːtɪkl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**垂直的（与地面成直角）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **垂直的**（空间层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vertical 来自 [[ver-vert]]（转）词根。想象你把一根水平放置的棍子"转"（vert）90度竖起来——这就是 vertical（垂直的）。在商业中，vertical integration（纵向整合）就是公司沿垂直方向整合上下游产业链——从原材料到生产到销售，像一根垂直的柱子一样打通。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[horizontal]]：水平的（vertical 的精确反义：垂直↔水平）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +122,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **vertical integration**：纵向整合
 > - **a vertical line/cliff**：垂直线/悬崖
 > - **vertical drop**：垂直落差
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Vertical integration refers to the direction of the two possible expansion of existing business enterprises as a development strategy."（纵向整合是指企业作为发展战略，在两个可能的方向上扩大现有经营业务。——柯林斯语料库）
 > - "The shareholders fear that vertical integration may not be the best option for the company."（股东们担心公司纵向一体化的提议并不是对公司发展的最佳方案。——柯林斯语料库）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

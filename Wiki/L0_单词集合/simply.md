@@ -3,14 +3,12 @@ title: "simply"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 以单一的方式
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɪmpli/"
 pos: adv.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**以单一的方式**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **以单一的方式**（方式层面：没有多余修饰地）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > simple（简单的）+ -ly（以…的方式）= simply（以简单的方式→简单地）。simply 的多个义项都围绕"单一"展开：简单地（方式单一）、仅仅（只有一种可能）、简直（单一到极致）。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - simply 作为副词，无直接反义词
 > - [[complicatedly]]：复杂地（与"简单地"相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **simply put**：简单来说
   - Simply put, the plan is not feasible.（简单来说，这个计划不可行。）
 > - **simply because**：仅仅因为
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The solution to the problem is simply a matter of allocating resources more efficiently."（这个问题的解决方案仅仅是更有效地分配资源的问题。）——考研高频表达
 > - "We cannot simply ignore the growing evidence of environmental degradation."（我们不能简单地忽视环境恶化日益增多的证据。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

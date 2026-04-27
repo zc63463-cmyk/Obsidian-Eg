@@ -3,14 +3,12 @@ title: "limb"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 身体的分支（四肢）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/lɪm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**身体的分支**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **身体的分支**（具身层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > limb 的核心意象就是"分支"。从身体延伸出去的是四肢（limbs），从树干延伸出去的是大树枝（limbs），从组织延伸出去的是分支机构。out on a limb 就是"站在树枝末端"→ 处于危险/孤立的位置。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[trunk]]：躯干；树干（limb 的反义：分支↔主体）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **upper/lower limbs**：上肢/下肢
 > - **out on a limb**：孤立无援，处于危险境地
 > - **life and limb**：生命和肢体（指生命安全）
@@ -125,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The athlete lost a limb in the accident but continued to compete with a prosthetic."（这位运动员在事故中失去了一条肢体，但继续用假肢参加比赛）
 > - "The company went out on a limb by investing heavily in the new technology."（公司在新技术上大量投资，承担了很大风险）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

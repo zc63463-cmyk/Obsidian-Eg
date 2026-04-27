@@ -3,17 +3,14 @@ title: "repeat"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 再次请求（再次说出或做同样的事）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈpiːt/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: petition
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -46,7 +43,7 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**再次请求（重复）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **再次请求（重复）**（行为层面）
@@ -69,7 +66,7 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +79,7 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > repeat = re（再）+ pet（寻求）。老师让你 repeat after me（跟我读）——再次说出我说的话。repeat a mistake = 重犯错误（再次做出同样的错误行为）。pet 同源词：petition（请愿=请求）、appetite（食欲=追求食物）、compete（竞争=一起追求）。
@@ -94,7 +91,7 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +104,13 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[originate]]：首创（repeat 的反义：重复↔首创）
 > - [[innovate]]：创新（repeat 的反义：重复↔创新）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +125,7 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **repeat a mistake**：重犯错误
 > - **repeat after me**：跟我读
 > - **repeat a course**：重修课程
@@ -137,19 +134,15 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Those who do not remember the past are condemned to repeat it."（忘记过去的人注定会重蹈覆辙。——考研写作常用名言，源自桑塔亚纳）
 > - "Could you repeat that, please? I didn't catch what you said."（请再说一遍好吗？我没听清你说的话。——通用例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

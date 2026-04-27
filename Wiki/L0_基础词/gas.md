@@ -3,14 +3,12 @@ title: "gas"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 虚空/混沌
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɡæs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**虚空/混沌**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **虚空/混沌**（哲学层面）
@@ -69,7 +67,7 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gas 由荷兰化学家 van Helmont 从希腊语 khaos（混沌）创造。想象一下：gas（气体）就像 chaos（混沌）一样，分子到处乱跑，没有固定形状。gas station（加油站）卖的是 gasoline（汽油）。greenhouse gas（温室气体）让地球变暖。tear gas（催泪瓦斯）让人流泪。
@@ -92,7 +90,7 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[solid]]：固体（gas 的反义：气态↔固态）
 > - [[liquid]]：液体（gas 的反义：气态↔液态）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gas station**：加油站
 > - **greenhouse gas**：温室气体
 > - **run out of gas**：没油了；精疲力竭
@@ -134,19 +132,15 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The burning of fossil fuels has significantly increased greenhouse gas emissions."（化石燃料的燃烧显著增加了温室气体的排放。——考研英语真题高频话题，讨论气候变化）
 > - "When the car ran out of gas on the highway, we had to walk to the nearest gas station."（当车在高速公路上没油时，我们不得不走到最近的加油站。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

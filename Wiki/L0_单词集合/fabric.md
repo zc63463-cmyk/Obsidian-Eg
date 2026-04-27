@@ -3,14 +3,12 @@ title: "fabric"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 技艺精湛地制造出来的东西
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfæbrɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**技艺精湛地制造出来的东西**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **技艺精湛地制造出来的东西**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一位古罗马工匠在作坊里编织一块精美的布料——拉丁语叫 fabrica。后来人们发现，社会就像这块布料：每个人、每条规则都是一根线，交织在一起构成了"the fabric of society"（社会结构）。如果有人破坏社会和谐，就是在"tear the fabric of society"（撕裂社会结构）。fabric 的灵魂是"交织"——无论是布料还是社会，都是由无数条线编织而成的整体。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fragment]]：碎片（fabric"整体结构"的反义：整体↔碎片）
 > - [[disintegration]]：瓦解/解体（fabric"交织结构"的反义：交织↔瓦解）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the fabric of society**：社会结构（考研高频搭配）
 > - **the very fabric of sth**：...的根本结构
 > - **tear/rip the fabric of**：撕裂...的结构
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Technology is transforming the very fabric of society."（技术正在改变社会的根本结构）——科技社会类阅读高频表达
 > - "the social fabric of the community"（社区的社会结构）——社会学类话题
 > - "The scandal threatened to tear the fabric of the institution apart."（丑闻威胁要撕裂该机构的结构）——政治/机构类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

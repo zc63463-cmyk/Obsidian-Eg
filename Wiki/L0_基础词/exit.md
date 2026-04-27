@@ -3,14 +3,12 @@ title: "exit"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 走出去（ex-向外 + it走 → 向外走 → 出口）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈeksɪt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外走**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向外走**（空间层面）
@@ -67,7 +65,7 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > exit = ex（向外）+ it（走）。这是最直观的词——"向外走"就是 exit。你在任何建筑里看到的绿色 EXIT 标志，就是在告诉你"向外走"。exit 和 exile（流放）同源——exile 是被赶着"向外走"，exit 是自己"向外走"。initiative（主动性）也含有 it（走）的成分——initiative 就是"走进去"的动力。
@@ -90,7 +88,7 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[entrance]]：入口（exit 出口↔entrance 入口）
 > - [[enter]]：进入（exit 退出↔enter 进入）
 > - [[entry]]：进入（exit 离去↔entry 进入）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **emergency exit**：紧急出口（Follow the signs to the emergency exit. 沿着标志走向紧急出口。）
 > - **exit the market**：退出市场（The company decided to exit the market. 公司决定退出市场。）
 > - **make an exit**：退场，离去（She made a dramatic exit. 她戏剧性地退场了。）
@@ -133,19 +131,15 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company is planning an exit from the European market."（公司正计划退出欧洲市场。）
 > - "He made a quick exit when he saw his ex-girlfriend."（他看到前女友时迅速离开了。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

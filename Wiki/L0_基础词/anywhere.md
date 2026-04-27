@@ -3,14 +3,12 @@ title: "anywhere"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 任何地方
-extension_dim: 空间范围
+extension_dim: [空间范围]
 phonetic: "/ˈeniweə/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ any(任何) + where(地方)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**任何地方**"为统筹中心，沿空间范围向外扩展：
 >
 > 1. **任何地方**（空间层面）
@@ -67,7 +65,7 @@ any(任何) + where(地方)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ any(任何) + where(地方)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > anywhere = any（任何）+ where（地方）。字面义就是"任何地方"。否定句中 = 到处都找不到（I can't find it anywhere）。考研重点掌握抽象用法：① **anywhere near** = 在任何程度上（Are you anywhere near ready? = 你准备好了吗？）；② **anywhere from X to Y** = 大约在X到Y之间（anywhere from 100 to 200 dollars = 大约100到200美元）。
@@ -90,7 +88,7 @@ any(任何) + where(地方)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ any(任何) + where(地方)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nowhere]]：无处（anywhere 的精确反义：任何地方↔无处）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ any(任何) + where(地方)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **anywhere near**：在任何程度上（考研高频）
 > - **anywhere from X to Y**：大约在X到Y之间（考研高频）
 > - **anywhere else**：其他任何地方
@@ -129,19 +127,15 @@ any(任何) + where(地方)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The cost of the project could be anywhere from ten to twenty million dollars."（这个项目的成本可能在1000万到2000万美元之间。——考研英语阅读经济类话题，anywhere from...to... 高频考点）
 > - "We cannot find evidence of life anywhere in the universe so far."（到目前为止，我们在宇宙中任何地方都找不到生命的证据。——考研英语阅读科技类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

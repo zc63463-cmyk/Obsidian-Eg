@@ -3,14 +3,12 @@ title: "conscious"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 共同知晓、内心清楚
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkɒnʃəs/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同知晓、内心清楚**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **共同知晓、内心清楚**（认知层面）
@@ -69,7 +67,7 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-(完全) + sci(知道) + -ous(形容词) → 完全知道的→有意识的。想象一个人在黑暗中突然"完全知道"了周围的一切——意识觉醒了。
@@ -94,7 +92,7 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unconscious]]：无意识的（有意识→无意识）
 > - [[ignorant]]：无知的（知道→不知道）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be conscious of**：意识到……
   - More consumers are becoming conscious of the environmental impact of their purchases.（越来越多的消费者开始意识到自己购买行为对环境的影响。）
 - **conscious effort**：有意识的努力
@@ -138,20 +136,14 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Consumers are becoming increasingly conscious of the environmental impact of their purchasing decisions."（消费者越来越意识到自己的购买决策对环境的影响。）——考研高频表达
 > - "She made a conscious effort to improve her communication skills before the job interview."（她在面试前有意识地努力提高自己的沟通技巧。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,17 +3,14 @@ title: "duration"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 持续时间，期间
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/djʊˈreɪʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: dur
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ dur(持续) + -ation(行为/状态)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**持续的状态**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **持续的状态**（时间层面）
@@ -64,7 +61,7 @@ dur(持续) + -ation(行为/状态)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ dur(持续) + -ation(行为/状态)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 一场电影从开场到散场，持续(dur)了两个小时——这两个小时就是这场电影的 duration（持续时间）。
@@ -87,7 +84,7 @@ dur(持续) + -ation(行为/状态)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ dur(持续) + -ation(行为/状态)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （duration 是时间度量词，无直接反义词）
 > - 可对比 [[instant]]：瞬间（极短的持续时间 vs 较长的持续时间）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,28 +114,22 @@ dur(持续) + -ation(行为/状态)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **for the duration of**：He stayed abroad for the duration of the war.（整个战争期间他都待在国外。）
 > - **short/long duration**：The course is of short duration.（这门课程持续时间很短。）
 > - **average duration**：The average duration of a phone call has decreased.（平均通话时长有所下降。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The school was used as a hospital for the duration of the war."（战争期间这所学校被用作医院。）——考研高频表达
 > - "The duration of the course is approximately twelve weeks."（课程的持续时间约为十二周。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

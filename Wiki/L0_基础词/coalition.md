@@ -3,14 +3,12 @@ title: "coalition"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 共同生长在一起（不同力量联合为一个整体）
-extension_dim: 社会维度
+extension_dim: [社会维度]
 phonetic: "/ˌkəʊəˈlɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同生长在一起**"为统筹中心，沿社会维度向外扩展：
 >
 > 1. **共同生长在一起**（政治层面）
@@ -64,7 +62,7 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > coalition = co（共同）+ alit（生长）→ 共同生长在一起。想象花园里不同品种的玫瑰，原本各自独立，但园丁把它们嫁接在一起，让它们共享根系、共同生长——这就是 coalition。在政治中，不同政党就像不同品种的玫瑰，为了共同的"阳光"（执政目标），它们的根系交织在一起，形成 coalition（联盟）。记住：coal = 煤（燃烧），ition = 状态 → 像煤炭一样燃烧着共同的热情而联合在一起。
@@ -86,7 +84,7 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[division]]：分裂，分歧（coalition 的反义：联合↔分裂）
 > - [[separation]]：分离（coalition 的反义：结合↔分离）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **form/build a coalition**：组建联盟
 > - **coalition government**：联合政府
 > - **ruling coalition**：执政联盟
@@ -124,19 +122,15 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The coalition government immediately decided to cut capital spending in response to the economic crisis."（联合政府立即决定削减资本支出以应对经济危机——考研英语阅读，政治经济话题）
 > - "By forming a coalition, the rebels and the opposition parties defeated the government in the election."（叛乱者与反对党结成联盟，在选举中击败了政府——考研英语阅读，政治话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

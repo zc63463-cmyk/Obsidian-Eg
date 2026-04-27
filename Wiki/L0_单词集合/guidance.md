@@ -3,17 +3,14 @@ title: "guidance"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 引导的行为或过程
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɡaɪdns/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: guide
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引导的行为或过程**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **引导的行为或过程**（行为层面）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 老师在迷雾中为学生指路，这个"指路的过程"就是 guidance——指导。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[misdirection]]：误导——错误的引导
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,29 +112,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **under the guidance of**：Under the guidance of her mentor, she completed the research successfully.（在导师的指导下，她成功完成了研究。）
 > - **career guidance**：The university provides career guidance for graduating students.（大学为毕业生提供职业指导。）
 > - **seek guidance**：You should seek guidance from a professional.（你应该寻求专业人士的指导。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Children need proper guidance from their parents and teachers to develop good study habits."（儿童需要父母和老师的正确指导来养成良好的学习习惯。）——考研高频表达
 > - "The government provides financial guidance to help young people manage their personal finances."（政府提供财务指导，帮助年轻人管理个人财务。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

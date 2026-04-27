@@ -3,14 +3,12 @@ title: "income"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 定期收到的金钱
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɪnkʌm/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**金钱流入**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **金钱流入**（经济层面——钱的"进来"）
@@ -63,7 +61,7 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > income = in（进来）+ come（来）= 进来的东西 = 收入。最直白的构词——钱进来就是收入，钱出去就是支出（outcome/expense）。
@@ -85,7 +83,7 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expense]]：支出——"收入"的直接反义
 > - [[expenditure]]：花费——"收入"的反义
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **annual income**：年收入（The average annual income has increased by 5%.）
 > - **income tax**：所得税
 > - **per capita income**：人均收入
@@ -126,21 +124,15 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Rising income inequality has become a major concern in many developed countries.（收入不平等的加剧已成为许多发达国家的主要关切。）
 > - The government needs to increase the disposable income of low-income families.（政府需要提高低收入家庭的可支配收入。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

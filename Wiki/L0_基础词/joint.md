@@ -3,14 +3,12 @@ title: "joint"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 连接处（两个部分汇合的地方）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/dʒɔɪnt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**连接处**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **连接处**（物理空间层面）
@@ -69,7 +67,7 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > joint 来自 join（连接）。你的膝盖是两根骨头的"连接处"→ knee joint 关节；两个公司"连接"在一起→ joint venture 合资企业；大家"连接"聚会的廉价酒吧→ a hamburger joint。
@@ -92,7 +90,7 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[separate]]：分离的（连接↔分离）
 > - [[individual]]：个人的（联合↔个人）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **joint venture**：合资企业
 > - **joint effort**：共同努力
 > - **joint statement**：联合声明
@@ -134,19 +132,15 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People are absorbed into 'a culture of consumption' launched by the 19th-century department stores that offered 'vast arrays of goods in an elegant atmosphere'."（人们沉浸在19世纪百货商店发起的"消费文化"中，这些百货商店"在优雅的环境中提供大量商品"——2006年考研英语一Text 1，joint venture 为商业高频搭配）
 > - "The two companies have entered into a joint venture agreement to develop a major casino hotel."（两家公司已达成合资企业协议，共同开发一家大型赌场酒店——考研商业类同源语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

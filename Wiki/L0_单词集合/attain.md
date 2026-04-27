@@ -3,14 +3,12 @@ title: "attain"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 去持有（努力达到并握住目标）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/əˈteɪn/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**去持有**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **去持有**（动作层面：努力去握住目标）
@@ -64,7 +62,7 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > at（去）+ tain（持有，和 contain"包含"、maintain"维持"同源）→ 努力去握住。India attained independence in 1947——印度终于握住了独立。Students attain their goals——学生握住了目标。attain 的核心是"经过努力终于握住"，比 achieve 更强调过程的艰辛。
@@ -87,7 +85,7 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fail]]：未能达到（与"达到目标"形成结果对立：达到↔未达到）
 > - [[lose]]：失去（与"获得"形成状态对立：获得↔失去）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **attain one's goal/objective**：达到目标
 >  > We need to identify the best ways of attaining our objectives.
 > - **attain independence/success**：获得独立/成功
@@ -130,19 +128,15 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Students with high hope set themselves higher goals and know how to work to attain them."（怀有高度希望的学生会为自己设定更高的目标，并且知道如何努力去实现它们——考研/六级阅读真题）
 > - "India attained independence in 1947, after decades of struggle."（印度经过数十年的斗争，于1947年获得了独立——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "witness"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 亲眼所见、知道
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈwɪtnəs/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**亲眼所见、知道**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **亲眼所见、知道**（认知层面）
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > witness 里的 wit 不是"机智"，而是古英语里"知道、看见"的意思。你**知道**（wit）真相，把真相说出来（-ness 状态），就是**见证**（witness）。从"知道"到"证人"再到"证明"，witness 贯穿了一条"看见→知道→证明"的认知链路。
@@ -98,7 +96,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,14 +109,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（对所见之事视而不见）→ witness 的认知反义（看见↔忽视）
 > - [[deny]]：否认（拒绝承认所见事实）→ witness/testify 的反义（证明↔否认）
 > - [[conceal]]：隐瞒（隐藏真相）→ witness 的信息反义（揭示↔隐瞒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **witness an accident/crime**：目击事故/犯罪
 > - **bear witness to sth.**：为……作证，证明
 > - **call a witness**：传唤证人
@@ -141,22 +139,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The last century witnessed an unprecedented increase in violent crime."（上个世纪暴力犯罪空前增长。）——考研阅读常见拟人化用法
 > - "bear witness to the fact that..."（证明……的事实）——论证型写作中的经典搭配
 > - "Anyone who witnessed the incident is asked to contact the police."（请目击该事件的人联系警方。）——法律/社会类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "oath"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 以神明为见证的庄严誓言（说出的话受神灵约束）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əʊθ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -27,8 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**誓言，誓约**==（以神明为见证的庄严承诺）；②==**咒骂，诅咒语**==（如 swear an oath）；
-③（法庭上的）宣誓；
+**n.** ①==**誓言，誓约**== `take/make/swear a N` / `under N`；②==**咒骂，诅咒语**==；③（法庭上的）宣誓 `on N`；
 
 > [!tip] 原型义
 > **原型义**：以神明为见证的庄严誓言（说出的话受神灵约束）
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**以神明为见证的庄严誓言**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **神圣誓言**（宗教/法律层面）
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > oath 的核心画面是"以神为证的誓言"。古英语 *āþ* 就是"誓言"——说出的话请神明见证，不可更改。法庭上的 "take an oath"（宣誓作证）就是这一传统的延续。oath 也有"咒骂"的意思——因为古代的咒骂本质也是"以神之名说话"，只是从庄严承诺变成了亵渎之语。注意 oath 和 oat（燕麦）的区别：oath 是誓言，oat 是燕麦，oath 多了一个 h。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +98,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（誓言无天然反义概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,30 +114,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
-> - **take/make an oath**：宣誓，发誓
-> - **swear an oath**：立誓
-> - **under oath**：在宣誓后（法律约束下）
-> - **on oath**：在誓言的约束下
-> - **break an oath**：违背誓言
-> - **an oath of office**：就职宣誓
-> - **Hippocratic oath**：希波克拉底誓言（医生从业誓言）
+> [!example]- 搭配
+> - **take/swear an oath**：宣誓，发誓（法律/宗教仪式）
+> - **under oath**：在宣誓约束下（法律用语）
+> - **Hippocratic oath**：希波克拉底誓言（医生从业）
+> - **on my oath**：我发誓（口语强调）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - "The witness was required to take an oath before giving testimony, promising to tell the truth and nothing but the truth."（证人在作证前被要求宣誓，承诺只说真话——考研翻译法律话题）
-> - "The president took the oath of office on a cold January morning, placing his hand on the Bible as millions watched."（总统在一个寒冷的一月早晨宣誓就职，将手放在圣经上，数百万人见证了这一刻——考研阅读政治话题）
+> [!example]- 语料
+> - The witness was required to take an oath before giving testimony. `[例]`
+> - He muttered an oath under his breath when the car wouldn't start. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "proof"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 检验过的/好的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/pruːf/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**经过检验确认的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **经过检验确认的**（检验结果）
@@ -68,7 +66,7 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 来自prove（证明）的名词形式——经过检验证明为真的东西。想象法庭上律师拿出一叠文件，法官翻阅后盖上"确认"印章——这就是proof。
@@ -92,7 +90,7 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disproof]]：disproof表示"反证，反驳"，与proof"证明"直接对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **solid/conclusive proof**：确凿的证据
   > The prosecutor presented solid proof of the defendant's guilt.（检察官出示了被告有罪的确凿证据。）
 > - **living proof**：活生生的证明
@@ -133,19 +131,15 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The reaction to his death, with people leaving candles and flowers outside Apple stores and politicians singing praises on the internet, is proof that Mr Jobs had become something much more significant than just a clever money-maker."（人们对他的死反应强烈，在苹果店外留下蜡烛和鲜花，政客们在互联网上歌功颂德，这证明了乔布斯已经远不止是一个聪明的赚钱者——2012年12月六级阅读）
 > - "This was proof, said the White House, of just how workmanlike relations had become."（白宫表示，这证明了两国关系已经变得多么务实——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

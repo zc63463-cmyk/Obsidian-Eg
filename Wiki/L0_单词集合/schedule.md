@@ -3,14 +3,12 @@ title: "schedule"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 纸条、便笺
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈʃedjuːl/"
 pos: n.
 metaphor_type: 转喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**纸条、便笺**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **纸条、便笺**（物理层面）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > schedule 来自拉丁语 schedula（小纸条）。古代人把要做的事列在一张小纸条上 → 这张纸条就是最早的"日程表"。今天我们不用纸条了，但 schedule 这个词保留了下来——你的手机日历就是一张数字化的 schedula。记住：schedule = 写在纸条上的时间安排。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[delay]]：延误（schedule 的反义：按时↔延误，behind schedule）
 > - [[spontaneity]]：自发性（schedule 的反义：计划安排↔即兴发挥）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on schedule**：按时，准时（考研极高频）
 > - **ahead of schedule**：提前
 > - **behind schedule**：落后于计划，晚点
@@ -139,7 +137,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "completed ahead of schedule"（提前完成）——考研阅读极常见，描述项目进度
 > - "behind schedule"（落后于计划）——考研阅读/翻译中常见，描述延误
 > - "a tight schedule"（紧凑的日程）——考研写作中描述忙碌生活的常用表达
@@ -147,15 +145,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

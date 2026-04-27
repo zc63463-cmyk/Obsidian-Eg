@@ -3,17 +3,14 @@ title: "boycott"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 抵制（拒绝购买或参与，以示抗议）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈbɔɪkɒt/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**抵制**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **抵制**（社会行为）
@@ -67,7 +64,7 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > boycott 来自一个真实的人——Charles Boycott。他是19世纪爱尔兰的土地代理人，对佃农残酷无情。佃农们联合起来，拒绝为他工作、拒绝与他交易。Boycott 被彻底孤立，不得不离开。从此，他的名字成了"联合抵制"的代名词。记住：Boycott 是一个人，他被所有人"抵制"了，所以 boycott = 抵制。
@@ -90,7 +87,7 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[support]]：支持（boycott 的反义：抵制 vs 支持）
 > - [[participate]]：参与（boycott 的反义：拒绝参与 vs 参与）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **boycott a product/company**：抵制某产品/公司
 > - **boycott the election**：抵制选举
 > - **call for a boycott**：呼吁抵制
@@ -127,19 +124,15 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Consumers are boycotting products from companies that use child labor.（消费者正在抵制使用童工的公司的产品。）
 > - The opposition parties called for a boycott of the election.（反对党呼吁抵制选举。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

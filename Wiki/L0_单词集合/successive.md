@@ -3,14 +3,12 @@ title: "successive"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 一个接一个走来的（连续的）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/səkˈsesɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一个接一个走来的（连续的）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **一个接一个走来的**（时间连续层面）
@@ -62,7 +60,7 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > succession（连续）的形容词形式就是 successive。连续三天下雨——three successive days。连续两任总统——two successive presidents。successive 就是"一个接一个的"。
@@ -84,7 +82,7 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[intermittent]]：间歇的，断断续续的（successive 的精确反义：连续的↔间歇的）
 > - [[isolated]]：孤立的，单独的（successive 的反义：连续的↔孤立的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **successive governments**：连续几届政府
 > - **three successive years/days**：连续三年/三天
 > - **successive defeats/failures**：接连的失败
@@ -124,19 +122,15 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Successive governments have presided over selling green spaces, squeezing money from local authorities."（历届政府都主导出售绿地、压缩地方政府的资金——考研高频表达）
 > - "Successive post-war governments have presided over the gradual dissolution of the British Empire."（战后历届政府都主导了大英帝国的逐步瓦解——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

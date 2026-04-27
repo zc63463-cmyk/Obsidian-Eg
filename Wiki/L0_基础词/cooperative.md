@@ -3,17 +3,14 @@ title: "cooperative"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 有合作倾向的（愿意一起工作的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəʊˈɒpərətɪv/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: oper
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有合作倾向的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **有合作倾向的**（态度层面）
@@ -67,7 +64,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > co-（一起）+ oper（工作）+ -ative（有……倾向的）→ 有合作倾向的。一个 cooperative 的同事总是愿意帮忙，一个 cooperative 的项目需要大家共同努力。农民们组成 cooperative（合作社）一起卖农产品——合作的力量。
@@ -90,7 +87,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[uncooperative]]：不合作的（cooperative 的精确反义）
 > - [[competitive]]：竞争的（cooperative 的反义：合作↔竞争）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cooperative effort**：合作努力
 > - **cooperative learning**：合作学习
 > - **be cooperative with**：对……配合的
@@ -129,19 +126,15 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The patient was cooperative during the examination."（病人在检查过程中非常配合——医学英语高频表达）
 > - "Cooperative learning has been shown to improve students' academic performance."（合作学习已被证明能提高学生的学业表现——教育学常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

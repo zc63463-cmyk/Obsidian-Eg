@@ -3,14 +3,12 @@ title: "method"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 沿着道路走的方式（方法）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmeθəd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ meta-(之后/沿着/超越) + [[medi|hodos]](道路/方式) → 沿着道路走�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**沿着道路走的方式**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **沿着道路走的方式**（物理层面）
@@ -65,7 +63,7 @@ meta-(之后/沿着/超越) + [[medi|hodos]](道路/方式) → 沿着道路走�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ meta-(之后/沿着/超越) + [[medi|hodos]](道路/方式) → 沿着道路走�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > meta（沿着）+ hodos（道路）→ 沿着道路走的方式 → 方法。
@@ -86,7 +84,7 @@ meta-(之后/沿着/超越) + [[medi|hodos]](道路/方式) → 沿着道路走�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ meta-(之后/沿着/超越) + [[medi|hodos]](道路/方式) → 沿着道路走�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disorder]]：无序 ↔ method 条理
 > - [[chaos]]：混乱 ↔ method 秩序
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ meta-(之后/沿着/超越) + [[medi|hodos]](道路/方式) → 沿着道路走�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **teaching method**：教学方法（The school adopted a new teaching method. 学校采用了一种新的教学方法。）
 > - **scientific method**：科学方法（The scientific method requires rigorous testing of hypotheses. 科学方法要求对假设进行严格检验。）
 > - **method of**：……的方法（He developed a new method of data analysis. 他开发了一种新的数据分析方法。）
@@ -125,22 +123,16 @@ meta-(之后/沿着/超越) + [[medi|hodos]](道路/方式) → 沿着道路走�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The scientific method is the foundation of modern research."（科学方法是现代研究的基础。）——考研高频表达
 > - "The school has adopted a new teaching method that emphasizes student participation."（学校采用了一种强调学生参与的新教学方法。）——考研高频表达
 > - "There is method in his madness — his seemingly chaotic approach actually follows a clear logic."（他的疯狂中有条理——他看似混乱的方法实际上遵循着清晰的逻辑。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

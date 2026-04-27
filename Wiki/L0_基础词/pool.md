@@ -3,14 +3,12 @@ title: "pool"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 水坑（一洼水）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/puːl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**聚集的水**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **聚集的水**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pool 的本义是"一洼水"——水聚集在低洼处形成 pool。swimming pool 是人工聚集的水——游泳池。talent pool 是人才聚集的地方——人才库。pool your money 是把大家的钱汇集到一起。pool 的核心就是"聚集"——水聚集、资源聚集、人才聚集。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distribute]]：分散（pool 的反义：汇集↔分散）
 > - [[scatter]]：散开（pool 的反义：聚集↔散开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **swimming pool**：游泳池
 > - **talent/labor pool**：人才/劳动力库
 > - **pool resources/knowledge**：汇集资源/知识
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company has a large pool of talented engineers."（公司拥有一大批优秀的工程师）
 > - "Several organizations pooled their resources to fund the research."（几个组织汇集资源资助这项研究）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

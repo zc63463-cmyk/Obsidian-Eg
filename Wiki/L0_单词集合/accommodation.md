@@ -3,14 +3,12 @@ title: "accommodation"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 住处，膳宿
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˌkɒməˈdeɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ac-(=ad-，向) + com-(共同) + mod(=modus，方式，尺寸) + -ation(名词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**为他人提供匹配需求的空间/条件**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **为他人提供匹配需求的空间**（物理层面）
@@ -65,7 +63,7 @@ ac-(=ad-，向) + com-(共同) + mod(=modus，方式，尺寸) + -ation(名词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ac-(=ad-，向) + com-(共同) + mod(=modus，方式，尺寸) + -ation(名词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自 [[accommodate]] 的名词形式。-ation 表示动作的结果：accommodate（使匹配）→ accommodation（匹配的结果=住处/妥协）。想象你到了一个新城市，找到的不仅是住处（物理空间），还要与当地人达成和解（社会空间）。
@@ -87,7 +85,7 @@ ac-(=ad-，向) + com-(共同) + mod(=modus，方式，尺寸) + -ation(名词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ac-(=ad-，向) + com-(共同) + mod(=modus，方式，尺寸) + -ation(名词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disagreement]]：分歧 vs accommodation 妥协
 > - [[homelessness]]：无家可归 vs accommodation 住处
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ ac-(=ad-，向) + com-(共同) + mod(=modus，方式，尺寸) + -ation(名词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **book accommodation**：预订住宿
 > - **reach an accommodation**：达成妥协/和解
 > - **living accommodation**：生活住所
@@ -124,22 +122,16 @@ ac-(=ad-，向) + com-(共同) + mod(=modus，方式，尺寸) + -ation(名词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The university guarantees **accommodation** for all first-year students.（大学保证为所有一年级学生提供住宿。）
 > - The two sides finally reached an **accommodation** after weeks of negotiation.（双方经过数周谈判终于达成妥协。）
 > - Price **accommodations** will be made for large group bookings.（大型团体预订将提供价格优惠。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

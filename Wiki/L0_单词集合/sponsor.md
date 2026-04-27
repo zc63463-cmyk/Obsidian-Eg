@@ -3,14 +3,12 @@ title: "sponsor"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 承诺保证，担保人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈspɒnsə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ spons-(承诺/保证) + -or(人) → 做出承诺的人 → 担保人/赞助者
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**承诺保证，担保人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **承诺保证，担保人**（社会关系层面）
@@ -69,7 +67,7 @@ spons-(承诺/保证) + -or(人) → 做出承诺的人 → 担保人/赞助者
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ spons-(承诺/保证) + -or(人) → 做出承诺的人 → 担保人/赞助者
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spons(承诺) + or(人) = 做出承诺的人。想象一个商人拍着胸脯说"这个活动我包了！"——他就是 sponsor（赞助者）。
@@ -92,7 +90,7 @@ spons-(承诺/保证) + -or(人) → 做出承诺的人 → 担保人/赞助者
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ spons-(承诺/保证) + -or(人) → 做出承诺的人 → 担保人/赞助者
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[opponent]]：反对者（"赞助/支持"的反义）
 > - [[boycott]]：抵制（"赞助"的反义行为）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ spons-(承诺/保证) + -or(人) → 做出承诺的人 → 担保人/赞助者
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sponsor a program**：赞助一个项目 — The company agreed to sponsor the research program.
 > - **corporate sponsor**：企业赞助商 — The event attracted several major corporate sponsors.
 > - **main sponsor**：主要赞助商 — Nike is the main sponsor of the team.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company sponsors lots of symposiums and a variety of academic activities."（这家公司赞助了许多研讨会和各种学术活动。）——考研真题
 > - "The research project is sponsored by the National Science Foundation."（该研究项目由国家科学基金会赞助。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

@@ -3,14 +3,12 @@ title: "undertake"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在下面拿取
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌʌndəˈteɪk/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在下面拿取**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在下面拿取**（物理动作层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > undertake 是 under（在下面）+ take（拿取）——"在下面拿取"。想象你在团队中**主动拿取**（take）了一个困难的任务，把它**揽到自己身上**（under），这就是 undertake（承担）。考研中 undertake 常考两个搭配：①undertake a task/project/research（承担任务/项目/研究），②undertake to do sth.（承诺做某事）。注意不规则变形：undertake → undertook → undertaken。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abandon]]：放弃（承担↔放弃，精确反义）
 > - [[decline]]：拒绝（主动承担↔拒绝接受）
 > - [[shirk]]：逃避（承担责任↔逃避责任）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **undertake a task/project**：承担任务/项目
 > - **undertake research/a study**：从事研究
 > - **undertake to do sth.**：承诺做某事
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has undertaken a series of reforms to improve education."（政府已承担了一系列改革以改善教育。）——考研阅读/翻译
 > - "He undertook to finish the project by the end of the month."（他承诺在月底前完成这个项目。）——考研翻译
 > - "Researchers undertook a comprehensive study of the problem."（研究人员对这个问题进行了全面研究。）——学术类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

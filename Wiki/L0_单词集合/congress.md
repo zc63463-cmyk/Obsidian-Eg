@@ -3,14 +3,12 @@ title: "congress"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 共同走来、走到一起
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒŋɡres/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同走来、走到一起**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **共同走来、走到一起**（物理层面）
@@ -65,7 +63,7 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-(共同) + gress(走) → 各地代表"共同走来"聚集开会→国会。想象全国各地的代表从四面八方走来，汇聚到国会大厦。
@@ -89,7 +87,7 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[separation]]：分离（聚集→分离，政治语境中指权力分离）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Congress**：美国国会（大写专指）
   - The Congress approved the new budget proposal by a narrow margin.（国会以微弱多数通过了新的预算提案。）
 - **congressional election**：国会选举
@@ -133,20 +131,14 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Congress approved the new education bill after months of heated debate."（经过数月的激烈辩论，国会批准了新的教育法案。）——考研高频表达
 > - "The international congress on climate change brought together scientists from over 100 countries."（国际气候变化大会汇集了来自100多个国家的科学家。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

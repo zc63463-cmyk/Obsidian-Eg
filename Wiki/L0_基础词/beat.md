@@ -3,14 +3,12 @@ title: "beat"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 反复击打（有节奏的敲击）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/biːt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复击打**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **反复击打**（物理动作层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > beat 就是"打"——打鼓产生 beat（节拍），心脏像鼓一样 beat（跳动），beat 别人就是"打败"对手，beat 鸡蛋就是"搅拌"。所有含义都围绕"有节奏的反复击打"展开。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lose]]：输，失败（beat 的反义：打败↔输掉）
 > - [[submit]]：屈服（beat 的反义：击打使其屈服↔主动屈服）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **beat the competition**：击败竞争对手
 > - **heart beat**：心跳
 > - **beat a record**：打破纪录
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The German-born theoretical physicist, who developed the theory of relativity, beat out other candidates."（这位出生于德国的理论物理学家发展了相对论，击败了其他候选人。）
 > - "The heart beats about 100,000 times per day."（心脏每天大约跳动十万次。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

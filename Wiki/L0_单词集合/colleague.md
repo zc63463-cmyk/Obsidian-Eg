@@ -3,17 +3,14 @@ title: "colleague"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 同事、同僚
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒliːɡ/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: league
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ col-(共同，一起，[[com]]变体) + league(联盟、委派)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**同事、同僚**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **同事、同僚**（社会层面——在同一机构工作的人）
@@ -61,7 +58,7 @@ col-(共同，一起，[[com]]变体) + league(联盟、委派)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +68,7 @@ col-(共同，一起，[[com]]变体) + league(联盟、委派)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 collega，col-（一起）+ legare（委派、派遣）。在古罗马，collega 指的是被选为同僚的官员。想象你和另一个人被皇帝一起派去管理一个省——你们就是 colleague。
@@ -83,7 +80,7 @@ col-(共同，一起，[[com]]变体) + league(联盟、委派)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +93,13 @@ col-(共同，一起，[[com]]变体) + league(联盟、委派)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[competitor]]：竞争对手（同事的反义——合作 vs 竞争）
 > - [[rival]]：对手
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ col-(共同，一起，[[com]]变体) + league(联盟、委派)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a colleague of mine**：我的一位同事
   - A colleague of mine has been promoted to department head.（我的一位同事被提升为部门主管。）
 - **consult with colleagues**：与同事商议
@@ -127,22 +124,16 @@ col-(共同，一起，[[com]]变体) + league(联盟、委派)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one."（然而，如果你得知你的某位同事的加薪比你多，那么你的快乐就会一下子消失。）——2005年考研英语一阅读Text 1
 > - "In general, Salthouse and his colleagues found, certain aspects of cognition generally started to decline in the late 20s to 30s."（总的来说，索尔豪斯和他的同事们发现，认知能力的某些方面通常在二十多岁末到三十多岁时开始衰退。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "remind"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 把想法重新放回某人脑海中
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈmaɪnd/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把想法重新放回脑海中**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **把想法重新放回脑海中**（心理层面）
@@ -65,7 +63,7 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > re-(再次) + mind(心/思想)：再次把想法放进心里 → "提醒"。
@@ -87,7 +85,7 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[forget]]：忘记
 > - [[ignore]]：忽视
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **remind sb. of sth.**：使某人想起……
 >   This song reminds me of my childhood.
 > - **remind sb. to do sth.**：提醒某人去做某事
@@ -127,21 +125,15 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in danger and that they would someday be meat for worms."（在西方，在大众传播和识字普及之前，最有力的传播媒介是教堂，它提醒信徒们灵魂处于危险之中，终有一天会成为虫子的食物。）——2000年考研英语Text2
 > - "Please remind me to call him tomorrow."（请提醒我明天给他打电话。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

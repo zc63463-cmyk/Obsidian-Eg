@@ -3,14 +3,12 @@ title: "catalogue"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 逐一列出（按顺序登记造册）
-extension_dim: 列出→目录→编目→产品目录
+extension_dim: [列出→目录→编目→产品目录]
 phonetic: "/ˈkætəlɒɡ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**逐一列出（按顺序登记造册）**"为统筹中心，沿动作→结果→应用向外扩展：
 >
 > 1. **列出**（动作层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象古希腊的将军站在海边，面前摊开一卷羊皮纸，他逐一登记每艘战船的名字和船员数量——这就是 catalogue 的起源。*kata-*（彻底）+ *legein*（收集）= 把所有东西彻底收集并记录下来。图书馆的 catalogue 是图书目录，网购的 catalogue 是产品目录，"a catalogue of disasters"是一连串的灾难。记住：catalogue 的核心动作是"逐一列出"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 暂无精确反义词（catalogue 为功能性名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **library catalogue**：图书馆目录
 > - **product catalogue**：产品目录
 > - **a catalogue of errors/disasters**：一连串的错误/灾难
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The library has updated its online catalogue to make it easier for students to find resources."（图书馆更新了在线目录，方便学生查找资源。——考研阅读教育类）
 > - "The report reads like a catalogue of corporate failures."（这份报告读起来就像一连串的企业失败记录。——红宝书考研词汇例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

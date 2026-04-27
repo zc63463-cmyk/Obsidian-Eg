@@ -3,14 +3,12 @@ title: "label"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 贴在物品上的布条/纸条
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈleɪbl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**贴在物品上的布条/纸条**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **贴在物品上的布条**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > label 来自古法语"窄布条"。想象中世纪的文件上系着一条**小布条**，上面写着文件的名字——这就是最早的 label。后来这条布条贴到了瓶子上、衣服上、人身上。记住 label = 布条 = 标签。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - label 本身无明显反义词，以下为语义对立概念：
 > - [[unlabeled]]：未贴标签的
 > - [[mislabel]]：贴错标签的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **label sb./sth. as...**：把…称为/归类为
 > - **peel off / remove the label**：撕掉标签
 > - **attach a label to**：给…贴上标签
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was labeled as a troublemaker."（他被贴上了捣乱分子的标签）——常见社会话题
 > - "Read the label before taking the medicine."（服药前请阅读标签）——日常/健康话题
 > - "The product carries a warning label."（该产品附有警告标签）——消费/法律话题
@@ -139,15 +137,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

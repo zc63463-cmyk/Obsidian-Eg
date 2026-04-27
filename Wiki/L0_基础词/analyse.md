@@ -3,14 +3,12 @@ title: "analyse"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 分析（把整体分解为部分以理解）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈænəlaɪz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分析**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **分析**（思维层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ana（彻底）+ lyse（解开）→ analyse。想象你拿到一个复杂的机器，把它彻底拆解开来看每个零件——这就是 analyse。分析数据（analyse data），分析问题（analyse the problem），精神分析（psychoanalyse）。analyse 就是"彻底解开"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[synthesize]]：综合，合成（analyse "分析/分解"的精确反义：分解↔综合）
 > - [[combine]]：结合，合并（analyse "分解"的反义：分解↔合并）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **analyse data/results/information**：分析数据/结果/信息
 > - **analyse the problem/issue**：分析问题
 > - **analyse a situation**：分析形势
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Professional scientists are expected to know how to analyze data, but statistical errors are alarmingly common in published research."（专业科学家应该知道如何分析数据，但统计错误在已发表的研究中却非常普遍。——2015年考研阅读原文）
 > - "Management requires enthusiasm and intuition rather than merely an ability to analyse data and invent strategies."（管理需要热情和直觉，而不仅仅是分析数据和制定策略的能力。——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

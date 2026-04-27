@@ -3,14 +3,12 @@ title: "steward"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 看管房屋/财产的人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈstuːərd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**看管家产的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **看管家产的人**（私人层面）
@@ -65,7 +63,7 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中世纪的英国庄园里，steward 是领主最信任的人——他站在大厅（stig）里，看守（ward）着庄园的一切：粮食、账本、仆人。他是"站在厅堂里的守护者"。后来，这个角色从庄园走向了天空——飞机上的 steward（乘务员）就是在机舱这个"厅堂"里守护乘客安全的人。
@@ -88,7 +86,7 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[master]]：主人（steward 是替 master 管家的人）
 > - [[guest]]：客人（steward 服务于 guest）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **flight steward**：飞机乘务员
 > - **steward of**：……的管家/管理者
 > - **environmental stewardship**：环境管理责任
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We are merely stewards of the earth, not its owners."（我们只是地球的管理者，而非其所有者）
 > - "Good stewardship of public resources is essential for sustainable development."（良好的公共资源管理对可持续发展至关重要）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

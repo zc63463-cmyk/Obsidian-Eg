@@ -3,14 +3,12 @@ title: "disappear"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 从视线中消失
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌdɪsəˈpɪə(r)/"
 pos: vi.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ dis-(离开/取消) + [[cover|appear]](出现) → 不再出现
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从视线中消失**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从视线中消失**（空间层面：离开视野）
@@ -64,7 +62,7 @@ dis-(离开/取消) + [[cover|appear]](出现) → 不再出现
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ dis-(离开/取消) + [[cover|appear]](出现) → 不再出现
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > dis（不）+ appear（出现）→ 不再出现 → 消失。想象太阳落山后，光芒从天空中一点一点地不再出现。
@@ -87,7 +85,7 @@ dis-(离开/取消) + [[cover|appear]](出现) → 不再出现
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ dis-(离开/取消) + [[cover|appear]](出现) → 不再出现
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[appear]]：出现，显现
 > - [[emerge]]：浮现，出现
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ dis-(离开/取消) + [[cover|appear]](出现) → 不再出现
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **disappear from view**：从视野中消失
 > - **disappear without a trace**：消失得无影无踪
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many traditional crafts have disappeared as a result of industrialization."（许多传统手工艺因工业化而消失了。）——考研高频表达
 > - "The species may disappear entirely within the next few decades."（这个物种可能在接下来的几十年内完全消失。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

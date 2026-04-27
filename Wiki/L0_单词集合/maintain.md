@@ -3,14 +3,12 @@ title: "maintain"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 用手保持→维持
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/meɪnˈteɪn/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手保持→维持**"为统筹中心，沿行为路径向外扩展：
 >
 > 1. **用手保持**（状态层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > maintain = main（手）+ tain（保持）→ 用手保持→维持。想象你用双手小心翼翼地捧着一个精美的花瓶，不让它碎掉——这就是 maintain（维持）。同样，你用手保持一台机器正常运转——那就是 maintain（保养）。记住 main = 手，tain = 保持，maintain = 用手保持 = 维持。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,7 +108,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abandon]]：放弃（维持↔放弃）
 > - [[neglect]]：忽视（保养↔忽视）
 > - [[drop]]：放弃（坚持↔放弃）
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **maintain order / peace / stability**：维持秩序/和平/稳定
 > - **maintain health / fitness**：保持健康/体形
 > - **maintain a car / equipment / building**：保养汽车/设备/建筑
@@ -143,7 +141,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is important to maintain a healthy work-life balance."（保持健康的工作与生活平衡很重要）——常见话题
 > - "The government has maintained that the policy is necessary."（政府一直坚持认为这项政策是必要的）——政治/新闻语境
 > - "Regular maintenance is essential to maintain the equipment in good condition."（定期保养对于保持设备良好状态至关重要）——技术/说明语境
@@ -151,15 +149,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

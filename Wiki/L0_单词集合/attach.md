@@ -3,14 +3,12 @@ title: "attach"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 去接触（使两个东西连在一起）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/əˈtætʃ/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**去接触（连接）**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **去接触**（物理层面：使两个东西连在一起）
@@ -70,7 +68,7 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > at（去）+ tach（钉/接触）→ 走过去钉在一起。你 attach a photo to an email——把照片钉到邮件上。with no strings attached——没有附加的绳子——没有任何附加条件。你 attach importance to education——把重要性钉到教育上——重视教育。你 become attached to a pet——和宠物连在一起——依恋。attach 就是"连在一起"。
@@ -93,7 +91,7 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[detach]]：分离，拆下（与"连接/附上"形成动作对立：连接↔分离）
 > - [[detach]]：不依恋（与"使依恋"形成情感对立：依恋↔疏离）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **attach...to...**：把……附在……上
 >  > Please attach a recent photo to your application form.
 > - **be/become attached to**：依恋……，附属于……
@@ -138,19 +136,15 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A survey of news stories in 1996 reveals that the anti-science tag has been attached to many other groups as well, from authorities who advocated the elimination of the last remaining stocks of smallpox virus to Republicans who advocated decreased funding for basic research."（1996年对新闻报道的调查显示，反科学的标签也被贴到了许多其他群体身上，从主张消灭最后一批天花病毒的权威人士，到主张削减基础研究经费的共和党人——1998年考研阅读Text 3）
 > - "They just want Ottawa to fork over additional billions with few, if any, strings attached."（他们只希望渥太华能拨出额外的数十亿资金，而且几乎不附带任何条件——2005年考研新题型）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

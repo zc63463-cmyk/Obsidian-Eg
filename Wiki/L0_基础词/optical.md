@@ -3,17 +3,14 @@ title: "optical"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 与视觉有关的（与眼睛/光相关的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɒptɪkəl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: opt
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与视觉有关的（与眼睛/光相关的）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与视觉有关**（感官层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > optical 与 [[opt]]（选择）同源——原始含义是"看见"。看见需要光，所以 optical 既指"视觉的"也指"光学的"。optical fibre（光纤）用光传输信息，optical illusion（视错觉）是眼睛看错的东西。与 [[opaque]]（不透明的）同源——opaque 让你看不见，optical 帮你看见。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （无明显精确反义词，概念上与 opaque"不透明的"相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **optical fibre**：光纤
 > - **optical illusion**：视错觉
 > - **optical instruments**：光学仪器
@@ -126,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A sensor channels the light signal along an optical fibre."（传感器沿光导纤维输送光信号。——有道词典例句）
 > - "These optical fibres may be used for new sorts of telephony."（这些光纤可以应用在新型电话通讯系统。——有道词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "soil"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 地面、土地（人脚下的大地）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/sɔɪl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ soil 有两个不同的词源：
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**地面、土地**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **地面**（物理层面）
@@ -70,7 +68,7 @@ soil 有两个不同的词源：
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ soil 有两个不同的词源：
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > soil 名词来自拉丁语 *solum*（地面、底部），与 [[sole]]（鞋底）同源——鞋底接触的就是地面。动词来自拉丁语 *sus*（猪），猪在泥里打滚→弄脏。记住两个画面：①脚下的大地 = 土壤；②猪在泥里打滚 = 弄脏。soil one's hands = 弄脏自己的手（也指"做不光彩的事"）。
@@ -93,7 +91,7 @@ soil 有两个不同的词源：
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,12 +104,12 @@ soil 有两个不同的词源：
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clean]]：清洁的（soil 动词的反义：弄脏↔清洁）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ soil 有两个不同的词源：
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fertile soil**：肥沃的土壤
 > - **rich soil**：沃土
 > - **native soil**：故土，祖国
@@ -133,19 +131,15 @@ soil 有两个不同的词源：
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The fertile soil of the Nile Valley has sustained civilizations for thousands of years, providing abundant harvests season after season."（尼罗河谷肥沃的土壤维持了数千年的文明，季复一季地提供丰收——考研阅读历史话题相关表达）
 > - "The scandal threatened to soil the reputation of the prestigious university, which had long been regarded as a symbol of academic integrity."（这桩丑闻威胁要玷污这所著名大学的声誉，该大学长期以来一直被视为学术诚信的象征——考研翻译社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

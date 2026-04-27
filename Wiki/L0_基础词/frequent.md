@@ -3,14 +3,12 @@ title: "frequent"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 挤满人群的（人群密集聚集的）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈfriːkwənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**挤满人群的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **挤满人群的**（空间层面）
@@ -67,7 +65,7 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马的集市广场上，人群**挤满**（frequens）了每个角落——这就是 frequent 的原始画面。一个 frequent visitor 就是"挤满"你门口的常客，一个 frequent event 就是"挤满"你时间表的事件。frequent 始终是"密集+反复"。
@@ -90,7 +88,7 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rare]]：稀少的，罕见的（frequent 的反义：频繁↔罕见）
 > - [[infrequent]]：不经常的（frequent 的精确反义：频繁↔不经常）
 > - [[occasional]]：偶尔的（frequent 的反义：频繁↔偶尔）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **frequent visits/calls**：频繁的访问/电话
 > - **frequent complaints**：频繁的投诉
 > - **a frequent occurrence**：经常发生的事
@@ -130,19 +128,15 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Frequent failures of communication between doctors and patients."（医生和患者之间频繁的沟通失败。）
 > - "He was a frequent visitor to the gallery."（他是画廊的常客。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

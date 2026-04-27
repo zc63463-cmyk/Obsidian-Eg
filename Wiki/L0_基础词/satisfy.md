@@ -3,14 +3,12 @@ title: "satisfy"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 做得足够以填充需求（使满足的动作）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsætɪsfaɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**做得足够以填充需求**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **填充需求**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > satisfy = satis（足够）+ fac（做）= 做得足够 = 使满足。核心画面是"往空杯子里倒水直到满"。satisfy hunger = 充饥（把饥饿填满）。satisfy the requirements = 满足要求（把标准填满）。satisfy the curiosity = 满足好奇心（把求知欲填满）。satisfy 的灵魂是"足够"——做得足够就是满足。注意 satisfy 是及物动词：satisfy sb. = 使某人满意。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disappoint]]：使失望（satisfy 的反义：使满意↔使失望）
 > - [[dissatisfy]]：使不满（satisfy 的精确反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **satisfy the requirements / criteria**：满足要求/标准
 > - **satisfy one's curiosity / needs**：满足好奇心/需求
 > - **satisfy the customer**：使顾客满意
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "To satisfy the increasing demand for clean energy, governments around the world are investing heavily in renewable energy sources such as wind and solar power."（为了满足对清洁能源日益增长的需求，世界各国政府正在大力投资风能和太阳能等可再生能源——考研阅读环保话题相关表达）
 > - "The researchers conducted a series of experiments to satisfy themselves that the results were reliable and could be replicated."（研究人员进行了一系列实验，以使自己确信结果是可靠的、可以复现的——考研翻译学术话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

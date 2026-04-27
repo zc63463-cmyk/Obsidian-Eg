@@ -3,14 +3,12 @@ title: "resolution"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 解决，决心
-extension_dim: 决议坚定
+extension_dim: [决议坚定]
 phonetic: "/ˌrezəˈluːʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**解决/松开**"为统筹中心，沿决议坚定向外扩展：
 >
 > 1. **松开/解决**（认知层面）
@@ -68,7 +66,7 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > resolution = re-（再）+ solute（松开/解决）+ -ion（名词后缀）= "重新松开"→ 解决。从"解决"引申出多个含义：1）解决冲突（resolution of a conflict）；2）下定决心（make a resolution to lose weight = 下决心减肥）；3）通过决议（the UN passed a resolution = 联合国通过了一项决议）；4）高分辨率（high-resolution display = 高清显示器）。resolution 和 [[resolve]]（决心/解决）同源——resolve 是动词，resolution 是名词。注意 resolution 的四个常用含义都需要记住。
@@ -90,7 +88,7 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hesitation]]：犹豫（resolution 决心的反义：决心↔犹豫）
 > - [[indecision]]：优柔寡断（resolution 决意的反义：决意↔优柔寡断）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make a resolution**：下决心
 > - **New Year's resolution**：新年决心
 > - **pass/adopt a resolution**：通过/采纳决议
@@ -134,19 +132,15 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The United Nations Security Council passed a resolution calling for an immediate ceasefire in the conflict zone."（联合国安理会通过了一项决议，要求冲突地区立即停火。——考研英语阅读国际政治类话题，pass a resolution 高频考点）
 > - "She made a New Year's resolution to read at least one book per month, but like many, she struggled to keep it."（她下了一个新年决心，每月至少读一本书，但和许多人一样，她很难坚持。——考研英语阅读生活类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

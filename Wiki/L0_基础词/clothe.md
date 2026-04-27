@@ -3,14 +3,12 @@ title: "clothe"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 给……穿上衣服
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kləʊð/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**给……穿上衣服**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **给身体穿衣**（物理层面）
@@ -66,7 +64,7 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > clothe 是 cloth（布）的动词形式。你用 cloth（布）给身体 clothe（穿衣）。feed and clothe a family（养家糊口）= feed（喂食）+ clothe（穿衣）。clothe a theory with evidence = 用证据给理论"穿上衣服"= 用证据包装理论。
@@ -88,7 +86,7 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[undress]]：脱衣（clothe 的精确反义：穿衣↔脱衣）
 > - [[strip]]：剥去（clothe 的反义：覆盖↔剥去）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **feed and clothe**：养活（供给衣食）
 > - **clothe in**：用……覆盖/装饰
 > - **clothe with**：赋予（某种品质）
@@ -127,19 +125,15 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He worked hard to feed and clothe his family."（他努力工作养家糊口）
 > - "The mountains were clothed in mist."（群山被薄雾笼罩）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

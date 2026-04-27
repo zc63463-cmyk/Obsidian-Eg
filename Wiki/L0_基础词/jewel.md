@@ -3,14 +3,12 @@ title: "jewel"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 宝石，珠宝
-extension_dim: 价值路径
+extension_dim: [价值路径]
 phonetic: "/ˈdʒuːəl/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ jewel 源自古法语 *jouel*（现代法语 *joyau*），可能来自通俗拉�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**宝石，珠宝**"为统筹中心，沿价值路径向外扩展：
 >
 > 1. **宝石，珠宝**（物品层面）
@@ -65,7 +63,7 @@ jewel 源自古法语 *jouel*（现代法语 *joyau*），可能来自通俗拉�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ jewel 源自古法语 *jouel*（现代法语 *joyau*），可能来自通俗拉�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > jewel 源自拉丁语 jocale "玩物"，与 joke（笑话）同源——最初就是让人开心的装饰品，后来专指贵重宝石。the jewel in the crown = 皇冠上的明珠（最珍贵的部分）。jewel case = 珠宝盒 / CD 盒。jeweled crown = 镶满宝石的皇冠。jewel 引申为"极好的人"——a jewel of a teacher（一位极好的老师）。注意 jewel（单颗宝石）和 [[jewellery]]（珠宝总称）的区别。
@@ -88,7 +86,7 @@ jewel 源自古法语 *jouel*（现代法语 *joyau*），可能来自通俗拉�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ jewel 源自古法语 *jouel*（现代法语 *joyau*），可能来自通俗拉�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - jewel 本身为珍贵物品，无直接反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ jewel 源自古法语 *jouel*（现代法语 *joyau*），可能来自通俗拉�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the jewel in the crown**：皇冠上的明珠，最珍贵的部分——The new museum is the jewel in the crown of the city.
 > - **a jewel of a person**：极好的人——She is a jewel of a person.
 > - **jewel case**：珠宝盒；CD盒——He kept the ring in a jewel case.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The museum's collection of medieval jewels is considered one of the finest in Europe."（该博物馆的中世纪珠宝收藏被认为是欧洲最精美的之一——jewel 在文化/艺术语境中常见）
 > - "The new library is the jewel in the crown of our university."（新图书馆是我们大学的骄傲——the jewel in the crown 为考研写作可用比喻）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

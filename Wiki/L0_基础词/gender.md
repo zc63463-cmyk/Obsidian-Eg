@@ -3,14 +3,12 @@ title: "gender"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 种类，类别
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdʒendər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**种类，类别**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **种类，类别**（抽象层面）
@@ -65,7 +63,7 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gender 来自拉丁语 genus（种类）。在语法中，名词被分为 masculine gender（阳性）、feminine gender（阴性）和 neuter gender（中性）——这就是"种类"分类。后来 gender 专门指"性别"。注意 gender 和 sex 的区别：sex 是生理性别（biological），gender 是社会文化性别（social/cultural）。gender equality（性别平等）是考研高频话题。
@@ -88,7 +86,7 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - gender 本身为分类概念，无直接反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gender equality**：性别平等
 > - **gender gap**：性别差距
 > - **gender bias/discrimination**：性别偏见/歧视
@@ -130,19 +128,15 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Despite significant progress, the gender pay gap remains a persistent issue in many industries."（尽管取得了显著进展，性别薪酬差距在许多行业中仍然是一个持续存在的问题。——考研英语真题高频话题，讨论性别平等）
 > - "Gender discrimination in the workplace is not only unethical but also illegal in many countries."（职场中的性别歧视不仅不道德，在许多国家也是违法的。——考研相关语料，讨论法律与社会公平）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

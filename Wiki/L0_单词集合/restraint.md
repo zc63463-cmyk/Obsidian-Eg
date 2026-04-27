@@ -3,14 +3,12 @@ title: "restraint"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 拉回来的状态/手段（克制的行为或措施）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/rɪˈstreɪnt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉回来的状态/手段**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **拉回来的状态**（心理层面：自我克制）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > restrain（往回拉）的名词形式。面对挑衅，他表现出极大的克制——He showed admirable restraint. 工会要求工人实行工资克制——a policy of wage restraint。汽车上的 child restraint 就是"把儿童拉回座位的安全装置"。restraint 就是"拉回来的状态或手段"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[freedom]]：自由（与"限制措施"形成状态对立：约束↔自由）
 > - [[impulsiveness]]：冲动（与"克制"形成行为对立：克制↔冲动）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exercise/show restraint**：表现出克制
 >  > He showed admirable restraint and refused to be provoked.
 > - **impose restraints on**：对……施加限制
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The security forces exercised great restraint by not responding to hostile attacks and threats."（安全部队表现出极大的克制，没有对充满敌意的攻击和威胁做出回应——剑桥词典例句）
 > - "By far the most effective method to restrain pension spending is to give people the opportunity to work longer, because it increases tax revenues and reduces spending on pensions at the same time."（到目前为止，控制养老金支出最有效的方法是让人们有机会工作更长时间，因为这同时增加了税收并减少了养老金支出——六级/考研真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

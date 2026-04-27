@@ -3,14 +3,12 @@ title: "outcome"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 事情走出来后的结果
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈaʊtkʌm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ out(出来，out) + come(来，come)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走出来的结果**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **走出来的结果**（基础层面：事情发展的最终产出）
@@ -63,7 +61,7 @@ out(出来，out) + come(来，come)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ out(出来，out) + come(来，come)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > **out**（出来）+ **come**（来），事情发展到最后"走出来"的就是 **outcome**——结果。
@@ -85,7 +83,7 @@ out(出来，out) + come(来，come)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ out(出来，out) + come(来，come)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cause]]：原因，与 outcome 的"结果"构成因果反义对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ out(出来，out) + come(来，come)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **outcome of**：……的结果
   - The outcome of the election was not what anyone had predicted.（选举结果出乎所有人的预料。）
 > - **positive/negative outcome**：积极/消极的结果
@@ -127,21 +125,15 @@ out(出来，out) + come(来，come)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The study found a direct correlation between early childhood education and positive academic outcomes.（研究发现早期儿童教育与积极的学业成果之间存在直接关联。）
 > - The outcome of the experiment supported the researcher's original hypothesis.（实验结果支持了研究者最初的假设。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "exclude"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 关在门外、排除在外
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪkˈskluːd/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ ex-(向外，出) + clud/clus(关闭，关上)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**关在外面**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **关在外面**（物理空间层面）
@@ -68,7 +66,7 @@ ex-(向外，出) + clud/clus(关闭，关上)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ ex-(向外，出) + clud/clus(关闭，关上)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex-（向外）+ clud-（关闭）→ 想象一扇大门"砰"地关上，把你关在外面 → exclude = 排除在外。
@@ -91,7 +89,7 @@ ex-(向外，出) + clud/clus(关闭，关上)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ ex-(向外，出) + clud/clus(关闭，关上)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[include]]：包括（排除 vs 包括，直接反义）
 - [[admit]]：接纳（排斥 vs 接纳）
 - [[embrace]]：接受（拒绝 vs 接受）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,25 +124,19 @@ ex-(向外，出) + clud/clus(关闭，关上)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exclude from**：从...中排除（Women were excluded from the decision-making process.）
 > - **exclude the possibility of**：排除...的可能性（We cannot exclude the possibility of error.）
 > - **exclude sb. from**：把某人排除在...之外（He was excluded from the team due to poor performance.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We should not exclude the possibility of negotiation."（我们不应该排除谈判的可能性。）——考研高频表达
 > - "She gets very upset if I exclude her from anything."（如果有什么事我将她排除在外，她就会非常难过。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

@@ -3,14 +3,12 @@ title: "clumsy"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 因麻木而动作笨拙
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈklʌmzi/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**因麻木而动作笨拙**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **手脚麻木**（身体状态层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > clumsy 源自古诺斯语 *klumsa*（使瘫痪），中古英语 *clumsid* 意为"因寒冷而手脚麻木"。想象你冬天在雪地里待太久，手脚都麻木了，走路跌跌撞撞——这就是 clumsy。后来 clumsy 从"身体笨拙"扩展到"工具笨重"、"说话不得体"——一切"不灵活"都是 clumsy。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[graceful]]：优雅的，灵活的（clumsy 的精确反义：笨拙↔优雅）
 > - [[adept]]：熟练的（clumsy 的反义：笨拙↔熟练）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **clumsy movements**：笨拙的动作
 > - **a clumsy attempt**：笨拙的尝试
 > - **a clumsy design**：笨重的设计
@@ -125,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The clumsy handling of the crisis damaged the government's reputation."（对危机的笨拙处理损害了政府的声誉）
 > - "His clumsy fingers struggled to thread the needle."（他笨拙的手指费力地穿针引线）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

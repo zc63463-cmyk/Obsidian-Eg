@@ -3,14 +3,12 @@ title: "feast"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 盛宴
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/fiːst/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**盛宴**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **盛宴**（饮食层面）
@@ -67,7 +65,7 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > feast 源自拉丁语 festa（节日）。中世纪欧洲，人们在宗教节日上摆出长桌，堆满烤肉和美酒——这就是 feast（盛宴）。The feast was served by his mother and sisters——宴席由他的母亲和姐妹们端上。feast your eyes on this beautiful sunset——让你的眼睛"饱餐"这场美丽的日落。
@@ -90,7 +88,7 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[famine]]：饥荒（feast 的精确反义：盛宴↔饥荒）
 > - [[fast]]：禁食（feast 的反义：大吃↔禁食）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **feast on**：尽情享用（美食）
 > - **feast one's eyes on**：饱眼福，尽情欣赏
 > - **a wedding feast**：婚宴
@@ -132,19 +130,15 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Jewish feast of Passover began last night."（犹太人的宗教节日逾越节昨晚开始了——考研文化类阅读语料）
 > - "The feast was served by his mother and sisters."（宴席由他的母亲和姐妹们端上——考研文学类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

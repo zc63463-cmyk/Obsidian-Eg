@@ -3,14 +3,12 @@ title: "heave"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 举起（古英语 *hebban*，"举起、抬起"）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/hiːv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用力举起**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用力举起**（身体动作层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > heave 和 heavy（重的）同源。因为东西 heavy（重），所以你要 heave（用力举起）。用力举起重物时胸口会 heave（起伏），举得太猛会 heave（呕吐），松了一口气会 heave a sigh of relief（发出如释重负的叹息）。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drop]]：掉落（heave 的反义：举起↔掉落）
 > - [[lower]]：放下（heave 的反义：举起↔放下）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **heave a sigh of relief**：如释重负地松了一口气（考研高频搭配）
 > - **heave up**：呕吐
 > - **heave with**：因……而起伏
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Whatever the actual sum, when the decision was announced the parents of children in independent schools heaved a sigh of relief, but that was not for long."（无论实际金额是多少，当决定宣布时，私立学校学生的家长们都如释重负地松了一口气，但这并没有持续多久。——经典例句）
 > - "I managed to heave the trunk down the stairs."（我用力把箱子弄下楼梯。——经典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

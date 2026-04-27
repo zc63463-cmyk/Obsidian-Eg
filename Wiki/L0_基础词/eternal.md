@@ -3,17 +3,14 @@ title: "eternal"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 持续整个时代的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪˈtɜːnl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: ess-essence
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**持续整个时代的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **持续整个时代的**（时间层面）
@@ -65,7 +62,7 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > eternal 来自拉丁语 *aeternus*，与 *aevum*（时代/永恒）同源。e（出）+ tern（时间/界限）→ 超出时间界限 → 永恒的。上帝是 eternal 的，因为祂超越了时间的界限。而一场 eternal 的争吵，让你感觉它也超越了时间。
@@ -87,7 +84,7 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +99,14 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[temporary]]：暂时的（eternal 的精确反义：永恒↔暂时）
 > - [[mortal]]：终有一死的（eternal 的反义：不朽↔终将消亡）
 > - [[transient]]：短暂的（eternal 的反义：永恒↔转瞬即逝）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **eternal life**：永生，永恒的生命
 > - **eternal truth**：永恒的真理
 > - **eternal love**：永恒的爱
@@ -130,19 +127,15 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The eternal triangle of love, jealousy and betrayal forms the core of many novels."（爱、嫉妒和背叛这一永恒的三角关系构成了许多小说的核心。）
 > - "They pledged eternal friendship."（他们誓言友谊长存。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

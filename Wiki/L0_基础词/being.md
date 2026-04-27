@@ -3,14 +3,12 @@ title: "being"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 存在（be 的现在分词/动名词形式）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈbiːɪŋ/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**存在**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **存在**（抽象层面）
@@ -65,7 +63,7 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > being 就是 be（是）的-ing 形式。be 是"存在"，being 就是"正在存在"。human being = 正在存在的人 = 人类。come into being = 进入存在 = 产生。
@@ -88,7 +86,7 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nonexistence]]：不存在（being 的精确反义）
 > - [[nothingness]]：虚无（being 的哲学反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **human being**：人类
 > - **come into being**：产生，形成
 > - **for the time being**：暂时
@@ -127,20 +125,16 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Being a man has always been dangerous."（做男人一直都是危险的——2000年英语一Text 2）
 > - "If you feel awkward being humorous, you must practice so that it becomes more natural."（如果你觉得自己说起幽默来很生硬，那么你必须多练习，使它变得自然——2002年英语一Text 1）
 > - "Such behaviour is regarded as 'all too human,' with the underlying assumption that other animals would not be capable of this finely developed sense of grievance."（这种行为被视为"人之常情"——2005年英语一Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

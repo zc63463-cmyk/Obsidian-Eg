@@ -3,14 +3,12 @@ title: "supplement"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 从下方填充→补充
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈsʌplɪmənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ sup-(=sub-，从下方) + ple(填充，参见 [[lect-leg|ple/plet]]) + -ment(名
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从下方填充**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从下方填充**（物理层面——填补空缺）
@@ -65,7 +63,7 @@ sup-(=sub-，从下方) + ple(填充，参见 [[lect-leg|ple/plet]]) + -ment(名
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ sup-(=sub-，从下方) + ple(填充，参见 [[lect-leg|ple/plet]]) + -ment(名
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > sup-(从下) + ple(填充) + -ment(名词) → 从下方填充 → 补充
@@ -89,7 +87,7 @@ sup-(=sub-，从下方) + ple(填充，参见 [[lect-leg|ple/plet]]) + -ment(名
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ sup-(=sub-，从下方) + ple(填充，参见 [[lect-leg|ple/plet]]) + -ment(名
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - replace：替代（supplement 是补充，replace 是替代）
 > - diminish：减少（supplement 是增加补充，diminish 是减少）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,28 +120,22 @@ sup-(=sub-，从下方) + ple(填充，参见 [[lect-leg|ple/plet]]) + -ment(名
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dietary supplement**：膳食补充剂
 > - **supplement to sth.**：...的增刊/补充
 > - **supplement one's income**：补充某人的收入
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Even the very phrase 'jobseeker's allowance' is about redefining the unemployed as a 'jobseeker' who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（甚至就连'求职者补贴'这个短语也重新把失业者定义为'求职者'——丧失基本权利，不能享受自己通过缴纳国民保险所获得的福利。）——2014考研英语一阅读
 > - "Many people take vitamin supplements to maintain their health."（许多人服用维生素补充剂来维持健康。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

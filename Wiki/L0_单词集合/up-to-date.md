@@ -3,17 +3,14 @@ title: "up-to-date"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 延续至今、与最新日期同步
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌʌp tə ˈdeɪt/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**延续至今、与最新日期同步**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **延续至今、与最新日期同步**（信息/数据层面）
@@ -68,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > up-to-date 就是 up to（一直到）+ date（日期）——时间线一直拉到今天。想象一个会计在记账，把账目从去年**一直记到今天**，这就是最初的 up-to-date（簿记术语）。后来这个词从账本走进了日常生活——你的手机是 up-to-date 的，你的知识是 up-to-date 的，你的品味也是 up-to-date 的——都是"没有落在时间后面"。
@@ -91,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[out-of-date]]：过时的（up-to-date 的精确反义：最新↔过时）
 > - [[outdated]]：陈旧的，过时的（强调已经不再适用）
 > - [[obsolete]]：淘汰的（强调因技术进步而被取代）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **up-to-date information**：最新信息
 > - **keep up-to-date with**：跟上……的最新发展
 > - **up-to-date technology**：最新技术
@@ -132,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Teachers need to keep up-to-date with the latest teaching methods."（教师需要跟上最新教学方法）——考研阅读中教育类话题
 > - "up-to-date information about the disease"（关于该疾病的最新信息）——科普/健康类阅读
 > - "ensure the database is up-to-date"（确保数据库是最新的）——技术/管理类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

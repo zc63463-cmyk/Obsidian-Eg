@@ -3,14 +3,12 @@ title: "mislead"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 误导，使产生错误印象
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/mɪsˈliːd/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ mis-(错误前缀，"错误地") + lead(引导)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**误导**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **误导**（引导向错误方向）
@@ -64,7 +62,7 @@ mis-(错误前缀，"错误地") + lead(引导)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ mis-(错误前缀，"错误地") + lead(引导)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个导游故意把游客带向相反方向——mis(错误) + lead(引导)，这就是 **mislead**（误导），让你在错误的道路上越走越远。
@@ -88,7 +86,7 @@ mis-(错误前缀，"错误地") + lead(引导)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ mis-(错误前缀，"错误地") + lead(引导)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[guide]]：引导——正确地引导方向
 > - [[enlighten]]：启发——帮助正确理解
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ mis-(错误前缀，"错误地") + lead(引导)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mislead the public**：Advertisements can sometimes mislead the public about a product's true quality.
 > - **misleading statistics**：The report used misleading statistics to support its conclusion.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The advertisement was designed to mislead consumers into believing the product was environmentally friendly."（这则广告旨在误导消费者，让他们相信该产品是环保的。）——考研高频表达
 > - "Statistics can be misleading if they are not interpreted correctly."（如果统计数据的解释不正确，可能会产生误导。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

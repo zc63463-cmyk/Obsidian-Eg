@@ -3,14 +3,12 @@ title: "match"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 相配（两事物在品质/力量上相当）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/mætʃ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**相配（两事物相当）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **相配**（抽象层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > match 原指"灯芯"→ 火柴（使两端相配点燃）→ 比赛（力量相配的对决）→ 对手（与你相配的人）→ 匹配（品质相称）。考研常考"be no match for"（不是……的对手）和"meet one's match"（遇到对手）。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mismatch]]：不匹配，不协调（match 的精确反义：匹配↔不匹配）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **meet one's match**：遇到对手
 > - **be no match for**：不是……的对手
 > - **match up to**：与……相符，比得上
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database."（这是一个互动功能，让访问者输入职位标准如地点、头衔和薪水，当数据库中发布匹配的职位时就会发邮件通知他们。——2004年英语一Text 1）
 > - "She then realized that her life no longer matched her vision for it."（她随后意识到她的生活不再符合她对它的设想。——考研真题阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

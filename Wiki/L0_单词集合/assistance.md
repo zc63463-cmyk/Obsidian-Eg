@@ -3,14 +3,12 @@ title: "assistance"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 站在旁边帮助（名词形式）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈsɪstəns/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ance(名词后缀，
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在旁边帮助**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **站在旁边帮助**（社会层面：提供辅助的动作）
@@ -64,7 +62,7 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ance(名词后缀，
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ance(名词后缀，
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[assist]]（站在旁边帮助）+ -ance（名词后缀）→ 站在旁边帮助的**动作或状态**——就是"援助"。assistance 比 help 更正式，像是一个正式的"援助方案"。
@@ -87,7 +85,7 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ance(名词后缀，
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ance(名词后缀，
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hindrance]]：阻碍（援助的反面——妨碍进展的事物）
 > - [[interference]]：干涉（帮助的反面——不必要的介入）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,28 +115,22 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ance(名词后缀，
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **financial assistance**：经济援助（The government provides financial assistance to low-income families.）
 > - **technical assistance**：技术援助（The company offered technical assistance to the developing country.）
 > - **with the assistance of**：在……的帮助下（The project was completed with the assistance of experts.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If you need further assistance, please call 85555555 or send emails to library@abc.edu.cn."（如果同学们需要更多的帮助，请致电85555555或发送电子邮件至library@abc.edu.cn。）——考研真题阅读
 > - "Three men are assisting the police with their enquiries."（有三个人正配合警方的调查。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

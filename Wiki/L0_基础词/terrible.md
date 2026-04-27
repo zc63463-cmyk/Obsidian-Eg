@@ -3,17 +3,14 @@ title: "terrible"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 引起恐惧的（令人害怕的程度）
-extension_dim: 恐惧→质量→程度
+extension_dim: [恐惧→质量→程度]
 phonetic: "/ˈterəbl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: terr
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引起恐惧的（令人害怕的程度）**"为统筹中心，沿恐惧→质量→程度向外扩展：
 >
 > 1. **引起恐惧的**（情感层面）
@@ -66,7 +63,7 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > terr 是"恐惧"的词根。terrible = terr（恐惧）+ ible（可以被……的）= 可以被恐惧的 = 可怕的。一场 terrible storm 让你害怕。一部 terrible movie 让你失望。一个 terrible headache 让你痛苦。terrible 从"真正的恐惧"一路弱化到日常的"非常"——英语里很多程度副词都走过这条路。
@@ -89,7 +86,7 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wonderful]]：极好的（terrible 的精确反义：极坏↔极好）
 > - [[excellent]]：优秀的（terrible 的反义：糟糕↔优秀）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +121,7 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a terrible storm/accident**：可怕的暴风雨/事故
 > - **terrible food/movie**：糟糕的食物/电影
 > - **a terrible headache/pain**：剧烈的头痛/疼痛
@@ -133,19 +130,15 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "This project is a terrible waste of money."（这个项目计划完全是在浪费钱财。——Cambridge Dictionary 权威例句）
 > - "I had a terrible headache, but even so I went to the concert."（我头痛得厉害，但即使如此我还是去听了音乐会。——Cambridge Dictionary 权威例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

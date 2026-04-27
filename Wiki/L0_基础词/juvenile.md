@@ -3,14 +3,12 @@ title: "juvenile"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 青少年的（年轻的，未成年的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈdʒuːvənaɪl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**青少年的（年轻的）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **青少年的**（年龄层面）
@@ -66,7 +64,7 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > juvenile = juven（年轻）+ ile（属于……的）= 属于年轻人的→青少年的。考研高频搭配——juvenile delinquency（青少年犯罪）。形容大人行为幼稚——his juvenile behavior embarrassed everyone。juvenile 就是"年轻不成熟"。
@@ -89,7 +87,7 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[adult]]：成年的（juvenile 的精确反义：未成年↔成年）
 > - [[mature]]：成熟的（juvenile 的反义：幼稚↔成熟）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **juvenile delinquency**：青少年犯罪
 > - **juvenile court**：少年法庭
 > - **juvenile crime/offender**：青少年犯罪/罪犯
@@ -130,19 +128,15 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many theories concerning the causes of juvenile delinquency focus either on the individual or on society as the major contributing influence."（许多关于青少年犯罪原因的理论，要么关注个人，要么关注社会作为主要影响因素——考研阅读高频表达）
 > - "Juvenile crimes make up 25 percent of all police cases."（青少年犯罪占所有警察案件的25%——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

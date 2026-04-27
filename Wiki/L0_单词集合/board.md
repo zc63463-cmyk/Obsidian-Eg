@@ -3,14 +3,12 @@ title: "board"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 木板、薄的平面
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/bɔːd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ board（源自古英语 bord"木板、桌面"，与 [[mark]] 标记的木板同�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**木板、薄的平面**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **木板**（物理层面：一块平的木板）
@@ -71,7 +69,7 @@ board（源自古英语 bord"木板、桌面"，与 [[mark]] 标记的木板同�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ board（源自古英语 bord"木板、桌面"，与 [[mark]] 标记的木板同�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > board 就是"木板"——木板可以做桌子（董事会）、做布告牌、做船的跳板（上船），桌上摆的食物就是"伙食"。
@@ -94,7 +92,7 @@ board（源自古英语 bord"木板、桌面"，与 [[mark]] 标记的木板同�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ board（源自古英语 bord"木板、桌面"，与 [[mark]] 标记的木板同�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disembark]]：下船（上船的反面）
 > - [[staff]]：普通员工（董事会的对立面——管理层 vs 员工层）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,28 +126,22 @@ board（源自古英语 bord"木板、桌面"，与 [[mark]] 标记的木板同�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **board of directors**：董事会（The board of directors approved the merger plan.）
 > - **on board**：在船/飞机上；加入（Welcome on board!）
 > - **board a plane/train**：登机/上火车（Passengers must board the plane 30 minutes before departure.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The board of directors approved the merger plan yesterday."（董事会昨天批准了合并计划。）——考研高频表达
 > - "All passengers must board the plane 30 minutes before departure."（所有乘客必须在起飞前30分钟登机。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

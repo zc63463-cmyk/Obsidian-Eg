@@ -3,14 +3,12 @@ title: "tale"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 被讲述出来的事情
-extension_dim: 符号路径
+extension_dim: [符号路径]
 phonetic: "/teɪl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被讲述出来的事情**"为统筹中心，沿符号路径向外扩展：
 >
 > 1. **被讲述出来的事情**（叙述层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tale 和 tell（告诉）同源——tale 就是被 tell 出来的东西。古人围坐篝火旁讲述的冒险经历就是 tale，妈妈给孩子讲的童话是 fairy tale，搬弄是非的人 tell tales（打小报告）。tale 就是"被说出来的东西"——可以是真实的故事，也可以是编造的谎言。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fact]]：事实（tale "故事/谎言"的反义：虚构↔事实）
 > - [[truth]]：真相（tale "假话"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fairy tale**：童话
 > - **tell tales**：搬弄是非，打小报告
 > - **a tale of...**：……的故事
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The novel is a gripping tale of survival and resilience in the face of overwhelming adversity."（这部小说是一个在巨大逆境中求生存和展现韧性的动人故事。——考研阅读文学话题相关表达）
 > - "The documentary tells the tale of a community struggling to preserve its cultural heritage."（这部纪录片讲述了一个社区努力保护其文化遗产的故事。——考研翻译文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

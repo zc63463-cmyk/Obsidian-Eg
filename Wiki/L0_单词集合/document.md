@@ -3,14 +3,12 @@ title: "document"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 书写的证据，记录下来的东西
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈdɒkjumənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**书写的证据，记录下来的东西**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **书写的证据，记录下来的东西**（物理层面）
@@ -74,7 +72,7 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马的学者把知识像织布一样 text（编织）成文字，形成 doc（教导）的材料——这就是 document（文献）。现代社会的每一笔交易、每一次旅行都需要 document（文件）来证明。科学家在实验室里仔细 document（记录）每一个数据，让实验过程有据可查。
@@ -97,7 +95,7 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[oral]]：口头的（书面文件↔口头陈述）
 > - [[erase]]：擦除，抹去（记录↔擦除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **legal/official document**：法律/官方文件
 > - **source document**：原始文档
 > - **well-documented**：有充分文件证明的
@@ -137,20 +135,14 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researcher carefully documented every stage of the experiment to ensure the results could be replicated."（研究者仔细记录了实验的每个阶段，以确保结果可以被复现。）——考研高频表达
 > - "Historical documents reveal that the practice dates back several centuries."（历史文献表明，这种做法可以追溯到几个世纪前。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

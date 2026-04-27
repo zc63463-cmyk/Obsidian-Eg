@@ -3,14 +3,12 @@ title: "expedition"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 脚迈出去执行任务（远征）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌekspəˈdɪʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -42,7 +40,7 @@ ex-（向外）+ [[ped|ped-]]（脚）+ -ition（名词后缀）→ 把脚迈出
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把脚迈出去执行任务**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **把脚迈出去执行任务**（空间层面）
@@ -65,7 +63,7 @@ ex-（向外）+ [[ped|ped-]]（脚）+ -ition（名词后缀）→ 把脚迈出
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ex-（向外）+ [[ped|ped-]]（脚）+ -ition（名词后缀）→ 把脚迈出
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向外）+ ped（脚）→ 把脚迈出去。一群探险家把脚迈向南极——go on an expedition to Antarctica。一支军队把脚迈向战场——a military expedition。做事"把脚迈出去"很迅速——with expedition。记住：expedition = 把脚迈出去 = 远征。
@@ -87,7 +85,7 @@ ex-（向外）+ [[ped|ped-]]（脚）+ -ition（名词后缀）→ 把脚迈出
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ ex-（向外）+ [[ped|ped-]]（脚）+ -ition（名词后缀）→ 把脚迈出
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - expedition 作为"远征"的反义：[[stay]]（停留）、[[settlement]]（定居）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ ex-（向外）+ [[ped|ped-]]（脚）+ -ition（名词后缀）→ 把脚迈出
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **go on an expedition**：去远征，去探险
 > - **a scientific expedition**：科学考察队
 > - **military expedition**：军事远征
@@ -125,21 +123,15 @@ ex-（向外）+ [[ped|ped-]]（脚）+ -ition（名词后缀）→ 把脚迈出
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The expedition to the South Pole was a remarkable feat of endurance."（南极探险是一次了不起的耐力壮举。）
 > - expedition 常出现在探险、科学考察类阅读话题中
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

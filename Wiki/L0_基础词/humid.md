@@ -3,14 +3,12 @@ title: "humid"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 湿润的、充满水分的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈhjuːmɪd/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**湿润的、充满水分的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **湿润的**（物理层面）
@@ -61,7 +59,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hum（湿/土）+ -id（具有……性质的）→ 像雨后的泥土一样湿润 → 潮湿的。夏天的南方，空气 humid 得像一块湿毛巾，走到哪里都黏糊糊的。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dry]]：干燥的（humid 的精确反义：潮湿↔干燥）
 > - [[arid]]：干旱的（humid 的反义：湿热↔干热）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,25 +112,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **humid climate/weather**：潮湿的气候/天气
 > - **humid summer**：潮湿闷热的夏天
 > - **hot and humid**：又热又湿
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The hot and humid climate of the region makes it difficult for people to work outdoors."（该地区炎热潮湿的气候使人们难以在户外工作）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

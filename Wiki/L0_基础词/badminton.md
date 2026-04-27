@@ -3,17 +3,14 @@ title: "badminton"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 在 Badminton 庄园发明的羽毛球运动
-extension_dim: 专有名词路径
+extension_dim: [专有名词路径]
 phonetic: "/ˈbædmɪntən/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**羽毛球运动**"为统筹中心，沿专有名词路径向外扩展：
 >
 > 1. **Badminton 庄园**（地名层面）
@@ -62,7 +59,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > badminton（羽毛球）以英国格洛斯特郡的 Badminton 庄园命名。19世纪，英国军官从印度带回一种球拍运动，在公爵的庄园聚会上展示，从此以庄园命名。类似的地名运动还有 marathon（马拉松，以希腊马拉松镇命名）。记住：badminton = Badminton 庄园 → 羽毛球。
@@ -84,7 +81,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +93,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（badminton 为特定运动名称）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **play badminton**：打羽毛球
 > - **badminton court**：羽毛球场
 > - **badminton racket**：羽毛球拍
@@ -123,19 +120,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Badminton is one of the most popular recreational sports in many Asian countries, enjoyed by people of all ages."（羽毛球是许多亚洲国家最受欢迎的休闲运动之一，受到各年龄段人们的喜爱——考研阅读体育话题相关表达）
 > - "She plays badminton at the local sports center every weekend to stay fit and relieve stress from work."（她每个周末在当地体育中心打羽毛球来保持健康和缓解工作压力——考研翻译生活话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

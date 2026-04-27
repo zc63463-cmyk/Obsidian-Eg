@@ -3,14 +3,12 @@ title: "perceive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 完全抓住（通过感官获取信息）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/pəˈsiːv/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全抓住**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **完全抓住**（感官层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > perceive = per（彻底）+ ceive（抓住）。想象你站在山顶，**彻底**（per）**抓住**（ceive）了眼前的全景——你**感知**到了壮丽的景色。再想象你读完一篇文章，大脑**彻底抓住**了作者的意思——你**理解**了文章。ceive 这个词根在很多词里出现：re**ceive**（收到=拿回来）、con**ceive**（构思=一起抓住）、de**ceive**（欺骗=拿走→误导）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[overlook]]：忽视（perceive "察觉"的精确反义：察觉↔忽视）
 > - [[miss]]：错过（抓住↔没抓住）
 > - [[ignore]]：忽略（感知↔故意不看）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **perceive sth. as sth.**：把……看作……
 > - **be perceived as**：被认为是……
 > - **perceive a change/difference**：察觉到变化/差异
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "how the public perceives the issue"（公众如何看待这个问题）——考研阅读高频搭配，社会/舆论类话题
 > - "perceived as a threat"（被视为威胁）——政治/国际关系类阅读常见表达
 > - "perceive a subtle change in the climate"（察觉到气候的微妙变化）——科普/环保类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "rash"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 鲁莽的（突然冒出来的）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ræʃ/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**突然冒出来的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **突然冒出来的**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rash 本义是"皮疹"——皮肤上突然冒出的一片红疹。鲁莽的人就像皮疹一样，行为突然冒出来，没有经过深思熟虑。a rash of complaints（一连串投诉）就像皮疹一样突然大量出现——让人头疼。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cautious]]：谨慎的（rash 的精确反义：鲁莽↔谨慎）
 > - [[deliberate]]：深思熟虑的（rash 的反义：轻率的↔深思熟虑的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a rash decision**：鲁莽的决定
   - Don't make a rash decision that you'll regret later.
 - **a rash of**：一连串的（令人不快的事）
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There has been a rash of burglaries in the area over the last month."（近一个月这一带发生了一连串入室行窃案。——常见新闻类语料）
 > - "It was the mass-issuance of mortgages to consumers with poor credit ratings that led to a rash of mortgage defaults and home foreclosures beginning in late 2007."（正是向信用评级较差的消费者大量发放抵押贷款，导致了从2007年底开始的一连串抵押贷款违约和房屋止赎。——常见经济类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

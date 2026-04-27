@@ -3,14 +3,12 @@ title: "enthusiasm"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 被神灵附体（内心被神圣力量充满）
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/ɪnˈθjuːziæzəm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被神灵附体/内心被充满**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **被神灵附体**（宗教层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > enthusiasm = en（进入）+ theos（神）+ iasm（状态）= 神在其中 = 被神灵感动 = 热情。希腊语 *theos* = 神（theology 神学中的 theo-）。核心画面：古希腊女祭司被神灵附体，全身充满神圣的力量——这就是 enthusiasm 的原始画面。今天我们说 enthusiasm for music（对音乐的热情），本质上和"被神灵附体"是同一种体验——内心被某种力量完全充满。Her enthusiasm for teaching is truly infectious（她对教学的热情确实具有感染力）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[apathy]]：冷漠（enthusiasm 的精确反义：热情↔冷漠）
 > - [[indifference]]：漠不关心（enthusiasm 的反义：热情↔漠不关心）
 > - [[lethargy]]：无精打采（enthusiasm 的反义：热情↔无精打采）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **enthusiasm for/about**：对……的热情
 > - **show/demonstrate enthusiasm**：表现出热情
 > - **be full of enthusiasm**：充满热情
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The teacher's enthusiasm for the subject was infectious, inspiring students to develop a genuine love for learning."（老师对这门学科的热情具有感染力，激发了学生对学习的真正热爱——考研阅读教育话题）
 > - "Despite initial enthusiasm for the new technology, many consumers remained skeptical about its practical benefits."（尽管最初对这项新技术充满热情，许多消费者对其实际益处仍持怀疑态度——考研阅读科技话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

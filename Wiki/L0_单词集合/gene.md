@@ -3,14 +3,12 @@ title: "gene"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 生命传承的基本单位
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dʒiːn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**生命传承的基本单位**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **生命传承的基本单位**（生物学层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gene 来自希腊语 *genos*（种族、后代）——生命一代代传下去。1909年科学家 Johannsen 从这个词中创造了 **gene**（基因），用来命名那个控制遗传的神秘因子。记住 gene 的词根 *\*gene-*（生育、产生），你就能理解一大家子词：**gen**eral（产生一切→普遍的）、**gen**erate（产生）、**gen**ius（天生的才能→天才）、**gen**uine（天生的→真正的）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[environment]]：环境（基因与环境的经典对立：nature vs nurture）
 > - [[acquired]]：后天获得的（遗传的反义：innate vs acquired）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gene therapy**：基因治疗
 > - **gene pool**：基因库
 > - **gene editing**：基因编辑
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Gene editing technology has revolutionized medical research."（基因编辑技术彻底改变了医学研究）——考研阅读常见话题，科技类
 > - "The gene responsible for the disease was identified."（导致该疾病的基因已被识别）——医学/科普类阅读
 > - "gene therapy offers hope for patients with rare diseases"（基因治疗为罕见病患者带来希望）——医学伦理类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

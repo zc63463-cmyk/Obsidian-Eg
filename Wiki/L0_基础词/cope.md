@@ -3,14 +3,12 @@ title: "cope"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 交锋（在战斗中与对手交手）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kəʊp/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**交锋**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **交锋**（战斗层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cope 最初是"在战场上与对手交手"。一个拳击手 cope with 更强的对手——不一定赢，但能扛住。现代人 cope with 工作压力、cope with 生活困难——都是与困难"过招"。cope 的核心画面就是两个对手在擂台上交锋→与困难过招→应对。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[succumb]]：屈服（cope 的反义：应对↔屈服）
 > - [[overwhelm]]：压倒（cope 的反义：应对↔被压倒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cope with**：应对，处理
 > - **cope with stress/pressure**：应对压力
 > - **cope with difficulties**：应对困难
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He couldn't cope with the stresses and strains of the job."（他无法应对这份工作的压力——考研阅读高频表达）
 > - "Desert plants are adapted to cope with extreme heat."（沙漠植物适应了应对极端高温——学术写作常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

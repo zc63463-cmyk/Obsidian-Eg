@@ -3,14 +3,12 @@ title: "train"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 拉扯、牵引
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/treɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉扯、牵引**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **拉扯、牵引**（物理动作——把东西拉成一列）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > train 源自拉丁语 trahere（拖拽）。火车就是一节一节被"拉"在一起的车厢。而"训练"就是像拉火车一样，把一个人的能力一步一步"拉"到更高的水平。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视（训练 vs 忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a train of thought**：一连串的想法
   > The phone call interrupted my train of thought. 电话打断了我一连串的思路。
 > - **train sb. to do sth.**：训练某人做某事
@@ -128,21 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has invested heavily in training programs for unemployed workers."（政府在失业工人培训项目上投入了大量资金。）——考研高频表达
 > - "It takes years of training to become a qualified doctor."（成为一名合格的医生需要多年的训练。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

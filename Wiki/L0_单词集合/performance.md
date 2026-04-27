@@ -3,14 +3,12 @@ title: "performance"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 执行的结果/表现
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/pəˈfɔːməns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**执行的结果**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **执行的结果**（行为层面：做事产生的成果）
@@ -69,7 +67,7 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 一位演员谢幕时鞠躬，观众掌声雷动——他从头到尾（per-）塑造出的完整形态（form），就是今晚的 performance（演出/表现）。
@@ -89,7 +87,7 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[failure]]：失败、表现不佳（performance 的反面结果）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **job performance**：工作表现 Employee performance is evaluated on an annual basis.（员工的工作表现每年评估一次。）
 > - **high performance**：高性能
 >   High-performance computers are essential for data analysis.（高性能计算机对数据分析至关重要。）
@@ -126,21 +124,15 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company's performance in the third quarter exceeded expectations."（公司第三季度的业绩超出了预期。）——考研高频表达
 > - "Employee performance is evaluated on an annual basis."（员工的表现每年评估一次。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

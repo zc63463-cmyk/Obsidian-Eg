@@ -3,14 +3,12 @@ title: "demand"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 要求，需求
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/dɪˈmɑːnd/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**以权威向下发出命令**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **以权威向下发出命令**（权力层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自拉丁语 *demandare*，de-（完全）+ mandare（委托/命令），字面意思是"正式委托"。在中世纪，领主向臣民下达命令就是 demand。后来从"命令"扩展为"要求"和"需求"。想象一位国王从王座上向下发出命令——那就是 demand 的核心意象：自上而下的要求。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[supply]]：供给 vs demand 需求
 > - [[offer]]：主动提供 vs demand 要求
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **demand sth. from/of sb.**：向某人要求某物
 > - **in demand**：需求量大，受欢迎的
 > - **meet/satisfy the demand**：满足需求
@@ -129,22 +127,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The workers **demanded** higher wages and better working conditions.（工人们要求提高工资和改善工作条件。）
 > - There is a growing **demand** for organic food in the market.（市场对有机食品的需求日益增长。）
 > - Good programmers are always in high **demand**.（优秀的程序员总是供不应求。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

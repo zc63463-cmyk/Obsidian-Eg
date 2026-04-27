@@ -3,14 +3,12 @@ title: "segment"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 切割下来的一块（整体被切分后的一个片段）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈseɡmənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**切割下来的一块**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **切割下来的一块**（物理层面）
@@ -67,7 +65,7 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > segment 和 [[section]]（部分）、[[sector]]（部门）同源，都来自拉丁语 *secare*（切割）。segment 的独特之处在于它强调"切下来后相对独立的一块"——想象你把一个橘子掰成几瓣，每一瓣就是一个 segment。在商业中，把整个消费者群体"切"成几块，每一块就是一个 market segment（细分市场）。
@@ -90,7 +88,7 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whole]]：整体（segment 的反义：部分↔整体）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **market segment**：细分市场
 > - **a segment of the population**：一部分人口
 > - **line segment**：线段
@@ -133,19 +131,15 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Rarely do members of a particular market segment group themselves neatly into a meaningful program target."（一个特定细分市场的成员很少能整齐地将自己组合成一个有意义的项目目标。——考研高频长难句）
 > - "It is in no one's interest to keep a large segment of the population on the margins of society."（将极大一部分人置于社会边缘不符合任何人的利益。——柯林斯语料库）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

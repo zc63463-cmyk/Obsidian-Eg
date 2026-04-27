@@ -3,14 +3,12 @@ title: "lace"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 绳结、系带（用绳子系紧）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/leɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绳结、系带**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **绳结编织**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lace = 古法语 *las* = 绳结、网。用绳子打结编织——这就是 lace 的原始画面。两个方向：一是"系带"——shoelace（鞋带），lace up（系紧）；二是"蕾丝花边"——用细线编织的精美装饰。动词 lace 还引申为"掺入"——lace coffee with brandy（在咖啡里掺白兰地），像编织一样把两种东西交织在一起。a speech laced with humor = 充满幽默的演讲。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unlace]]：解开系带（lace "系紧"的反义：系紧↔解开）
 > - [[plain]]：朴素的（lace "花边装饰"的反义：华丽↔朴素）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shoelace**：鞋带
 > - **lace up**：系紧（鞋带等）
 > - **lace with**：掺入（lace coffee with brandy）
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The economic report was laced with cautious optimism, acknowledging both the signs of recovery and the persistent risks ahead."（这份经济报告充满了谨慎的乐观，既承认了复苏的迹象，也指出了前方持续存在的风险——考研翻译经济话题相关表达）
 > - "Traditional lace-making, once a thriving cottage industry in many European regions, has now become a cherished cultural heritage."（传统的蕾丝制作曾是欧洲许多地区繁荣的家庭手工业，如今已成为珍贵的文化遗产——考研阅读文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

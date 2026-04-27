@@ -3,14 +3,12 @@ title: "overall"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 覆盖全部的→总体的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌəʊvərˈɔːl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ over-（在……上方/覆盖）+ all（全部）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**覆盖全部的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **覆盖全部的**（物理空间层面）
@@ -68,7 +66,7 @@ over-（在……上方/覆盖）+ all（全部）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ over-（在……上方/覆盖）+ all（全部）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over（在上方）+ all（全部）= overall（覆盖全部的）。工人的 **overall**（工装裤）覆盖全身，**overall**（总体上）的评估覆盖所有方面——overall 就是"把一切都包进去"。
@@ -92,7 +90,7 @@ over-（在……上方/覆盖）+ all（全部）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ over-（在……上方/覆盖）+ all（全部）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[specific]]：specific 是"具体的/特定的"，overall 是"总体的"
 > - [[partial]]：partial 是"部分的"，overall 是"全面的"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ over-（在……上方/覆盖）+ all（全部）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overall situation**：总体形势
 > - **overall quality**：总体质量
 > - **overall impression**：总体印象
@@ -131,21 +129,15 @@ over-（在……上方/覆盖）+ all（全部）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The overall quality of education has improved significantly over the past decade."（过去十年来，教育的整体质量有了显著提高。）——考研高频表达
 > - "Overall, the experiment was a success despite some minor setbacks."（总体而言，尽管有一些小的挫折，实验还是成功的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

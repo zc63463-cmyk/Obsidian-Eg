@@ -3,17 +3,14 @@ title: "monetary"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 与钱币有关的（与铸币/货币相关的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmʌnɪteri/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: Moneta
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与钱币有关的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **与钱币有关的**（物质层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > monetary 源自拉丁语 *monetarius*（铸币厂的），而 *moneta* 来自罗马女神 Juno Moneta 的名字。古罗马人在她的神庙旁铸造钱币，所以"钱"就叫 *moneta*，"与钱有关的"就是 monetary。monetary policy（货币政策）就是"管钱的策略"。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +98,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[non-monetary]]：非货币的（monetary 的反义：货币的↔非货币的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **monetary policy**：货币政策
 > - **monetary system**：货币体系
 > - **monetary unit**：货币单位
@@ -128,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The central bank adjusted its monetary policy to control inflation."（央行调整货币政策以控制通胀）
 > - "The European monetary system was established to stabilize exchange rates."（欧洲货币体系的建立旨在稳定汇率）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "theme"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 被放置的东西、命题
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/θiːm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被放置的东西、命题**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **被放置的东西**（文本/作品层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > theme 来自希腊语 thema（被放置的东西）。想象你写一篇文章，把最重要的观点**放在最中心**——那就是 theme（主题）。一首交响乐里反复出现的那段旋律，也是被作曲家**放在中心**的——也是 theme（主旋律）。记住 theme = 被放在中心的东西 = 主题。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - theme 本身无明显精确反义词，以下为语义对立概念：
 > - [[digression]]：离题（theme 的反义：围绕主题↔偏离主题）
 > - [[detail]]：细节（主题↔细节，整体↔局部）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **central / main / major theme**：核心/主要主题
 > - **recurring / recurring theme**：反复出现的主题
 > - **theme park / song**：主题公园/主题曲
@@ -135,7 +133,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The theme of love and death runs through the novel."（爱与死的主题贯穿整部小说）——文学分析高频表达
 > - "a recurring theme in his work"（他作品中反复出现的主题）——学术/评论语境
 > - "The central theme of the conference is environmental protection."（会议的核心主题是环境保护）——常见搭配
@@ -143,15 +141,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

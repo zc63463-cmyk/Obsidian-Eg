@@ -3,17 +3,14 @@ title: "normal"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 符合标准的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈnɔːml/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: norm
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**符合标准的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **符合标准的**（日常层面）
@@ -69,7 +66,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +80,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > normal 来自拉丁语 *normalis*，由 *norma*（木匠的角尺）派生而来。想象木匠用角尺量一块木板——笔直的、符合角尺的就是 normal（正常的），弯曲的、偏离角尺的就是 abnormal（异常的）。再想象一个人的体温是37度——这个数字符合医学的"角尺"，所以叫 normal temperature（正常体温）。normal 的本质就是"没跑偏"，一切在标准范围内。
@@ -95,7 +92,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +104,13 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abnormal]]：异常的，不正常的（正常的↔异常的）
 > - [[unusual]]：不寻常的（正常的↔不寻常的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +125,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **normal temperature**：正常体温（The patient's temperature returned to normal.）
 > - **normal procedure**：正规程序（Follow the normal procedure for filing a complaint.）
 > - **return to normal**：恢复正常（Life has returned to normal after the disaster.）
@@ -136,21 +133,15 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Conversely, someone with a small frame may have high body fat but a normal BMI."（相反，一些小骨架的人可能体脂率很高，但BMI正常。）——考研真题阅读
 > - "It's normal for couples to argue now and then."（夫妻之间偶尔发生口角是很平常的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

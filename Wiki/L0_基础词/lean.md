@@ -3,14 +3,12 @@ title: "lean"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 倾斜（身体或物体偏离垂直方向）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/liːn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**倾斜**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **倾斜**（身体动作层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lean（倾斜/靠）——你累了 lean on the wall（靠墙），你遇到困难 lean on friends（依赖朋友）。lean meat（瘦肉）就是脂肪"靠"到最少。lean staff（精干团队）就是人员"精简到最少"。记住：lean = 靠/倾斜，靠墙、靠人、靠到精简。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stand]]：站立（lean 的反义：倾斜↔直立）
 > - [[fat]]：肥胖的（lean 的形容词反义：瘦的↔胖的）
 > - [[abundant]]：丰富的（lean 的形容词反义：贫乏的↔丰富的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lean on**：依赖，依靠
 > - **lean toward**：倾向于（某种观点）
 > - **lean against**：倚靠在……上
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They all seem to look alike — lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside."（他们看起来都很相似——瘦削、棱角分明、专注的面孔，穿着牛仔裤和凉鞋，吃着面包，晚上就在外面的石板上过夜。——考研阅读高频表达）
 > - "Friedman relies on a lean staff of 20 in Austin."（弗里德曼在奥斯汀市只有20人的精干职员队伍。——2003年考研英语一Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

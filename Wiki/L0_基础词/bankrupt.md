@@ -3,14 +3,12 @@ title: "bankrupt"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 在长凳上断裂（商人的柜台断裂=破产）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈbæŋkrʌpt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**长凳断裂（柜台断裂=破产）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **长凳断裂**（商业层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bankrupt 来自意大利语 banca rotta（断裂的长凳）。古代意大利的放贷人坐在长凳上做生意，破产时长凳被砸碎。bank（银行）就来自这条"长凳"。rupt 是"断裂"——interrupt（打断）、erupt（爆发）、corrupt（腐败）。bank + rupt = 银行断裂 = 破产。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[solvent]]：有偿付能力的（bankrupt 的精确反义：破产↔有偿付能力）
 > - [[wealthy]]：富有的（bankrupt 的反义：破产↔富有）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **go bankrupt**：破产（考研高频搭配）
 > - **declare bankruptcy**：宣布破产
 > - **morally bankrupt**：道德沦丧的
@@ -138,19 +136,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "At this rate, we'll soon be bankrupt if we don't find a way to reduce our operating costs."（照此情形，如果我们找不到降低运营成本的方法，很快就会破产——考研阅读经济话题相关表达）
 > - "Even the citizens of our fellow democracies see us as morally bankrupt when we fail to address the growing inequality in our society."（当我们未能解决社会中日益严重的不平等问题时，甚至我们民主国家的公民也认为我们道德沦丧——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "equation"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 使两边相等（天平两端平衡的动作）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈkweɪʒn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使两边相等**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使两边相等**（动作层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > equ（相等）→ equate（使相等）→ equation（使相等的结果/表达式）。数学课上最常见的就是 equation——用等号让两边相等。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inequation]]：不等式（equation 的数学反义：等式↔不等式）
 > - [[imbalance]]：不平衡（equation "均衡"义项的反义：均衡↔不平衡）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **solve an equation**：解方程
 > - **equation of supply and demand**：供需平衡
 > - **the equation of A with B**：把A和B等同看待
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The equation of wealth with happiness is a common mistake."（把财富与幸福等同起来是一个常见的错误——考研阅读高频逻辑）
 > - "The supply-demand equation has shifted dramatically."（供需平衡已经发生了巨大变化——考研经济类阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

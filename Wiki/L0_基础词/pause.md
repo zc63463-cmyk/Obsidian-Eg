@@ -3,17 +3,14 @@ title: "pause"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 暂时停止
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/pɔːz/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: paus
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -46,7 +43,7 @@ paus(停止，希腊语 *pauein*) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**暂时停止**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **暂时停止**（时间层面）
@@ -67,7 +64,7 @@ paus(停止，希腊语 *pauein*) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ paus(停止，希腊语 *pauein*) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pause 源自希腊语"停止"，但它的精髓是"暂时"——你按了暂停键，视频停了，但你还会按继续。pause 和 stop 的区别就是"暂时"vs"彻底"。
@@ -90,7 +87,7 @@ paus(停止，希腊语 *pauein*) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ paus(停止，希腊语 *pauein*) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[continue]]：继续（暂停的反义：暂停↔继续）
 > - [[resume]]：恢复（暂停的反义：中断↔恢复）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,7 +131,7 @@ paus(停止，希腊语 *pauein*) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **give sb. pause (for thought)**：使某人犹豫/深思
 > - **pause for breath**：停下来喘口气
 > - **pause and reflect**：停下来反思
@@ -142,19 +139,15 @@ paus(停止，希腊语 *pauein*) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The vast bulk of the research shows that there may be a pause, or a shifting of gears in the 40s or 50s, but this shift can be exciting, rather than terrifying."（大量研究表明，在四五十岁时可能会有一个暂停或转变，但这种转变可能是令人兴奋的，而非令人恐惧的——2020年考研英语阅读）
 > - "At the same time, technological innovation will barely pause for breath, and two big political changes seem likely."（与此同时，技术创新几乎不会停歇，两个重大政治变革似乎即将到来——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

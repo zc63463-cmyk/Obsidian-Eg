@@ -3,14 +3,12 @@ title: "punch"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用拳猛击（紧握拳头用力打击）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/pʌntʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用拳猛击（紧握拳头用力打击）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用拳猛击**（身体层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > punch 源自拉丁语 punctus（刺穿）。用拳头打人就是在"刺穿"对方的身体——punch。检票员在车票上打孔也是 punch——用打孔器"刺穿"纸张。引申到抽象层面，a speech with punch 就是一个"有拳头"的演讲——有冲击力、有力量。pack a punch 就是"装了一拳"→有强大的效力。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[caress]]：抚摸（punch 的反义：猛击↔轻抚）
 > - [[patch]]：补丁，修补（punch "打孔"的反义：打孔↔修补）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **punch in/out**：打卡上班/下班
 > - **pack a punch**：有强大的效力/冲击力
 > - **a speech with punch**：有冲击力的演讲
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new policy packs a powerful punch in reducing carbon emissions."（新政策在减少碳排放方面具有强大的效力——考研阅读环保话题）
 > - "Workers punch in at 9 AM and punch out at 5 PM."（工人们早上9点打卡上班，下午5点打卡下班——考研阅读常见搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

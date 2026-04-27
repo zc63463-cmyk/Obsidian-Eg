@@ -3,14 +3,12 @@ title: "sovereign"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 君主、最高统治者
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsɒvrɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**君主**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **君主**（人的层面——拥有最高统治权力的人）
@@ -65,7 +63,7 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中世纪的国王坐在王座上，头戴皇冠，手握权杖——他是 sovereign（君主），整个王国无人能凌驾于他之上。
@@ -90,7 +88,7 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subject]]：臣民、附属的（受主权者统治的人）
 > - [[colony]]：殖民地（没有主权的地区）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sovereign state**：主权国家
 >   Every sovereign state has the right to defend its territory.（每个主权国家都有权保卫其领土。）
 > - **sovereign power**：最高权力
@@ -129,24 +127,16 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation."（一小群敢于发声的夏威夷人和环保主义者一直认为它们的存在是对神圣土地的不敬，也是对曾经是一个主权国家的土地被占领的痛苦提醒。）——考研英语二阅读真题
 > - "Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure in the United States."（那些仍然认为外国投资是对其主权侵犯的国家，不妨研究一下美国的基础设施建设史。）——2001年考研阅读Text4
 > - "Generally there was a belief that the new nations should be sovereign and independent states, large enough to be economically viable and integrated by a common set of laws."（人们普遍认为，新生的国家应该是拥有主权和完全独立的国家，大到足以在经济上可行，并通过一套共同的法律实现整合。）——考研翻译真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

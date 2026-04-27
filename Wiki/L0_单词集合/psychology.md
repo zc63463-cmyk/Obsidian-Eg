@@ -3,17 +3,14 @@ title: "psychology"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 心灵的研究
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/saɪˈkɒlədʒi/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: psych
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-22
@@ -48,7 +45,7 @@ psych(灵魂、心灵) + -ology(名词后缀，表示"…学")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**心灵的研究**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **心灵的研究**（词源层面）
@@ -71,7 +68,7 @@ psych(灵魂、心灵) + -ology(名词后缀，表示"…学")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +78,7 @@ psych(灵魂、心灵) + -ology(名词后缀，表示"…学")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > psych（心灵）+ ology（学问）= 研究心灵的学问——心理学。
@@ -92,7 +89,7 @@ psych(灵魂、心灵) + -ology(名词后缀，表示"…学")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +102,12 @@ psych(灵魂、心灵) + -ology(名词后缀，表示"…学")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词，属于学科术语
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,27 +118,21 @@ psych(灵魂、心灵) + -ology(名词后缀，表示"…学")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **educational psychology**：教育心理学（例：Educational psychology helps teachers understand students.）
 > - **understand the psychology of**：理解…的心理（例：It's hard to understand the psychology of criminals.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The study of psychology helps us understand why people behave the way they do."（心理学的研究帮助我们理解人们为什么会有这样的行为。）——考研高频表达
 > - "Environmental psychology examines the relationship between people and their physical surroundings."（环境心理学研究人与其物理环境之间的关系。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

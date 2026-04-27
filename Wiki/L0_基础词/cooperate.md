@@ -3,17 +3,14 @@ title: "cooperate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 共同工作（一起劳动）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəʊˈɒpəreɪt/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: oper
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -42,7 +39,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同工作**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **共同工作**（劳动层面）
@@ -64,7 +61,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > co-（一起）+ oper（工作）→ 共同工作。两个农民 co-operate（一起耕作），产量翻倍。两个国家 cooperate（合作），互利共赢。你已经认识的 operate 是"操作、工作"，加上 co-（一起）就是 cooperate——一起工作→合作。
@@ -86,7 +83,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[compete]]：竞争（cooperate 的反义：合作↔竞争）
 > - [[oppose]]：反对（cooperate 的反义：配合↔反对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cooperate with sb.**：与某人合作
 > - **cooperate in/on sth.**：在某事上合作
 > - **cooperate fully**：全力配合
@@ -127,19 +124,15 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The two countries agreed to cooperate in the fight against terrorism."（两国同意在反恐斗争中合作——考研阅读高频表达）
 > - "Local communities need to cooperate with the government to address environmental issues."（当地社区需要与政府合作解决环境问题——学术写作常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

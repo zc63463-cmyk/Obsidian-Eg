@@ -3,17 +3,14 @@ title: "neutral"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 两者都不是（不偏向任何一方）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈnjuːtrəl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: new
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**两者都不是（不偏向任何一方）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **两者都不是**（逻辑层面）
@@ -67,7 +64,7 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > neutral = ne（不）+ uter（任何一个）→ 不偏向任何一个 → 中立的。与 neither（两者都不）同源。记者要保持 neutral（中立），瑞士是 neutral country（中立国），化学中 neutral 是中性（pH=7）。与 [[new]] 同源——new 原义是"新的/未知的"，neutral 是"未选边的"。
@@ -90,7 +87,7 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[biased]]：有偏见的（neutral 的精确反义：中立↔有偏见）
 > - [[partial]]：偏袒的（neutral 的反义：中立↔偏袒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **remain neutral**：保持中立
 > - **neutral territory**：中立领土
 > - **neutral tone**：中立的语气
@@ -129,19 +126,15 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Journalists should maintain a neutral stance when reporting on political conflicts."（记者在报道政治冲突时应保持中立立场。——考研写作高频表达）
 > - "Switzerland was neutral during the war."（瑞士在战争期间保持了中立。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

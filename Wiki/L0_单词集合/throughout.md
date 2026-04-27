@@ -3,14 +3,12 @@ title: "throughout"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 遍及每个角落，贯穿始终
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/θruːˈaʊt/"
 pos: prep.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**遍及每个角落**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **遍及每个角落**（物理空间层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > throughout = through（穿过）+ out（出去）。想象你**穿过**（through）整座城市，从这头走到那头，把**每个角落**都走遍了（out 出来 = 完全覆盖）。throughout 就是"穿过并覆盖全部"——空间上遍及每个角落，时间上贯穿每个时刻。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nowhere]]：无处（throughout 表示"到处"，nowhere 表示"无处"）
 > - [[partially]]：部分地（throughout 表示"全部/遍及"，partially 表示"部分"）
 > - [[briefly]]：短暂地（throughout 贯穿始终，briefly 仅持续片刻）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **throughout the world/country**：遍及全世界/全国
 > - **throughout the year/history**：贯穿全年/整个历史
 > - **throughout one's life**：贯穿某人一生
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The disease spread throughout the country."（疾病蔓延全国）——考研阅读常见搭配
 > - "throughout history, humans have sought to understand the universe."（纵观历史，人类一直在试图理解宇宙）——考研写作/阅读常用开头
 > - "The trend continued throughout the 20th century."（这一趋势贯穿整个20世纪）——考研阅读历史类语料
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "temptation"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 试探性的触碰行为
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/tempˈteɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**试探性的触碰行为**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **试探性的触碰行为**（动作层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > temptation 就是 tempt（引诱）的名词形式。拉丁语 temptare 是"试探、触碰"，temptation 就是"试探的行为"。想象魔鬼在你耳边低语，不断"试探"你的意志——这就是 temptation。记住经典搭配：resist the temptation（抵抗诱惑）和 yield to temptation（屈服于诱惑）。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[resistance]]：抵抗（面对 temptation 时的反应，temptation ↔ resistance 是经典对立）
 > - [[discouragement]]：劝阻（从源头消除 temptation 的行为）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **resist the temptation**：抵抗诱惑
 > - **yield to / give in to temptation**：屈服于诱惑
 > - **the temptation to do something**：做某事的诱惑
@@ -129,22 +127,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "resist the temptation to generalize"（抵抗一概而论的诱惑）——考研阅读/学术写作常见表达
 > - "yield to the temptation of consumerism"（屈服于消费主义的诱惑）——社会评论类阅读
 > - "the temptation to cut corners"（偷工减料的诱惑）——商业/伦理类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

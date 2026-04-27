@@ -3,17 +3,14 @@ title: "molecule"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 小质量（极微小的物质团）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmɒlɪkjuːl/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: mole
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-24
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小质量**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **小质量**（物理层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > molecule 源自拉丁语 *moles*（大块/质量）+ *-cule*（小后缀）→ "小质量"。想象你有一块冰（大质量），把它越切越小，切到最小但仍然是水（H₂O）的那个单位——就是水分子（water molecule）。德国化学家霍夫曼用这个词来区分宏观变化和微观变化。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （无直接反义词，molecule 是科学术语）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **water molecule**：水分子
 > - **DNA molecule**：DNA 分子
 > - **molecular structure**：分子结构
@@ -124,19 +121,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A water molecule consists of two hydrogen atoms and one oxygen atom."（一个水分子由两个氢原子和一个氧原子组成）
 > - "Molecular biology has revolutionized our understanding of genetics."（分子生物学彻底改变了我们对遗传学的理解）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

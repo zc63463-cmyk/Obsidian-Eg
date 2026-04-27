@@ -3,14 +3,12 @@ title: "astonish"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 使人大为惊异，如同被雷击中
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈstɒnɪʃ/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被雷击中的震惊**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **被雷击中的震惊**（具身体验：强烈的惊愕感）
@@ -63,7 +61,7 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > a + ston（stone，石头/雷）+ ish → 被石头（雷）击中 → 震惊。一声惊雷（ton）从天而降，把人震得目瞪口呆。
@@ -89,7 +87,7 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：使平静（与"使震惊"对立）
 > - [[bore]]：使厌烦（与"使惊异"对立——毫无意外感）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be astonished at/by...**：对…感到惊讶
   > He was astonished at the rapid pace of change.
 > - **astonish the world**：震惊世界
@@ -128,19 +126,15 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The ending of the novel will astonish you."（小说的结局会让你大吃一惊——考研高频表达）
 > - "It would be astonishing if a president would knowingly surrender so completely his ability to make foreign policy."（如果一位总统明知故犯地完全放弃其制定外交政策的能力，那将是令人震惊的——权威语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

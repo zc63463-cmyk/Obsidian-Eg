@@ -3,14 +3,12 @@ title: "shrewd"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 恶毒的（中世纪指恶毒，后转为精明）
-extension_dim: 角色路径
+extension_dim: [角色路径]
 phonetic: "/ʃruːd/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**精明的（看透事物的能力）**"为统筹中心，沿角色路径向外扩展：
 >
 > 1. **精明的**（能力层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shrewd 最初是贬义词"恶毒的"。一个恶毒的人往往很狡猾，能看穿一切——后来语义褒化为"精明的"。TED 巧妙地结合付费和免费产品——a shrewd combination。一个精明的投资者总能发现别人看不到的机会。shrewd 的灵魂是"看透"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[naive]]：天真的（shrewd 的反义：精明的↔天真的）
 > - [[foolish]]：愚蠢的（shrewd 的反义：敏锐的↔愚蠢的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a shrewd businessman/investor**：精明的商人/投资者
 > - **shrewd observation/judgment**：敏锐的观察/判断
 > - **a shrewd move**：精明的一步（棋）
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "TED uses a shrewd combination of paid-for and free products, the purpose of the latter being to generate buzz."（TED 巧妙地将付费产品和免费产品结合在一起，其中后者的目的是制造话题。——外刊例句）
 > - "These are shrewd observations, well worth raising for debate."（这些是敏锐的观察，很值得提出讨论。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

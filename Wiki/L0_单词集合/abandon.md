@@ -3,18 +3,16 @@ title: "abandon"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
+phonetic: "/əˈbændən/"
+pos: vt./n.
 semantic_field: 人体动作
 prototype: 将控制权完全交出
-extension_dim: 社会路径
-phonetic: "/əˈbændən/"
-pos: vt.
+extension_dim: [社会路径]
 metaphor_type: 结构隐喻
-word_root: 
+word_root: bandon
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
 review_count: 0
@@ -27,8 +25,11 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**抛弃，放弃**==；②==**沉溺于，放纵**==；③放弃（信仰/习惯）；
-**n.** ①放任，狂热；
+**vt.** ①==**抛弃，放弃**== `V N` [formal] ；②==**沉溺于，放纵**== `V oneself to N` [literary] ；③放弃（信仰/习惯） `V N`；
+**n.** ①放任，狂热 `with N`；
+
+> [!warning]- 常见错误
+> abandon 不接 `to V`：~~abandon to do~~ → abandon doing / abandon N ✅ ← abandon 是及物动词，直接接名词或动名词
 
 > [!tip] 原型义
 > **原型义**：将控制权完全交出（把人或物置于他人的控制之下，自己不再过问）
@@ -45,7 +46,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**将控制权完全交出**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **将控制权完全交出**（社会关系层面）
@@ -71,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,9 +81,11 @@ review_count: 0
 
 > 词尾定性速查见 [[词汇学习哲学#完整词尾分析规则]]
 
+---
+
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中世纪领主把森林"置于他人控制之下"（mettre sa forest à bandon），后来人们把"交出控制"变成了"彻底放手"。想象船长下令弃船（abandon ship）——把船的控制权交给大海；再想象一个人沉溺于悲伤（abandon oneself to grief）——把自我控制权交给了情绪。从交出权力到放手一切，都是 abandon。
@@ -94,7 +97,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retain]]：保留，保持（abandon 的精确反义：放弃↔保留）
 > - [[maintain]]：维持，坚持（保持对某事物的控制和拥有）
 > - [[reclaim]]：收回，回收（重新获得已放弃的东西）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,32 +130,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
-> - **abandon a plan/project**：放弃计划/项目
-> - **abandon hope**：放弃希望
-> - **abandon ship**：弃船
-> - **abandon oneself to**：沉溺于，放纵（abandon oneself to despair/desire）
-> - **with (gay/wild) abandon**：尽情地，不顾一切地
-> - **abandon one's attempt**：放弃尝试
+> [!example]- 搭配
+> - **abandon ship**：弃船（紧急命令）
+> - **abandon hope**：放弃希望（文学/正式）
+> - **with reckless abandon**：不顾一切地（文学/状语语块）
+> - **abandon oneself to**：沉溺于（反身结构，接名词不接动词）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - "abandon the attempt to do sth."（放弃做某事的尝试）——考研阅读常见搭配，描述放弃某项努力
-> - "abandoned by their parents"（被父母抛弃）——社会类阅读话题中常见
-> - "with reckless abandon"（不顾一切地）——文学类文本中描述行为方式
-
----
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
+> [!example]- 语料
+> - The government **abandoned** the project after months of failed attempts. `[例]`
+> - She danced with wild **abandon**, as if no one was watching. `[例]`
+> - Many elderly people feel **abandoned** by their families. `[例]`
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
-> **写作用例**：<自己在写作/翻译中使用该词的例句>
-> **翻译实践**：<翻译练习中的使用记录>
+> [!success]- 主动产出
+> **写作用例**：
+> **翻译实践**：

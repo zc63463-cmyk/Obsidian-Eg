@@ -3,14 +3,12 @@ title: "climate"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 倾斜（太阳照射地面的角度）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈklaɪmət/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**气候**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **气候**（自然环境层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古希腊人观察到，太阳照射地面的角度（倾斜度 clin-）不同，各地的气候就不同。倾斜角度大的地方热，倾斜角度小的地方冷。所以 climate 的词源就是"倾斜"。考研重点考"风气"义：political climate（政治风气），economic climate（经济环境），climate of opinion（舆论氛围）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（环境类词汇）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **political/economic climate**：政治/经济气候（风气）
 > - **climate change**：气候变化
 > - **climate of opinion**：舆论氛围
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The flight from overcrowdedness affects the migration from snow belt to more bearable climates."（逃离人口过度稠密区的做法改变了以前那种离开寒冷地带去气候宜人之地的趋势。——1998年考研英语阅读Text 4）
 > - "When the work is well done, a climate of accident-free operations is established."（如果这项工作做得好，就会建立一个无事故的工作氛围。——1999年考研英语完形填空）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

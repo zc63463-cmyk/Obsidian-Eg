@@ -3,14 +3,12 @@ title: "squeeze"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用力压挤（双手施加压力使物体变形）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/skwiːz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用力压挤**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **物理挤压**（身体层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > squeeze 是拟声词，模拟挤压时发出的"吱吱"声。核心画面是"双手用力挤压海绵"。Squeeze the lemon（挤柠檬）= 把柠檬汁挤出来。Squeeze into the bus（挤上公交车）= 把自己"挤"进去。Financial squeeze（经济拮据）= 像"被挤压"一样的经济压力。Squeeze information out of someone（从某人那里榨取信息）= 像挤海绵一样"挤"出信息。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[release]]：释放（squeeze 的精确反义：挤压↔释放）
 > - [[expand]]：扩展（squeeze 的反义：挤压↔扩展）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **squeeze into/through**：挤入/挤过
 > - **squeeze juice**：榨汁
 > - **financial squeeze**：经济拮据
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Small businesses are feeling the squeeze as rising costs and declining consumer spending put pressure on their already thin profit margins."（随着成本上升和消费者支出下降对它们本已微薄的利润空间造成压力，小企业感受到了经济拮据——考研阅读经济话题相关表达）
 > - "The government managed to squeeze additional revenue from taxation reforms, though critics argued it placed an unfair burden on middle-income families."（政府设法通过税收改革榨取了额外收入，但批评者认为这给中等收入家庭带来了不公平的负担——考研阅读政治经济话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

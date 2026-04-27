@@ -3,14 +3,12 @@ title: "final"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 在末端的（处于最终位置）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈfaɪnl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在末端的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **在末端的**（空间/时间层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fin（末端）+ al（形容词后缀）→ 在末端的 → 最后的。[[finish]] 是"到达终点"的动作，final 是"在终点"的状态。final decision 是"走到最后的决定"——不可更改。final exam 是"学期走到最后"的考试。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[initial]]：最初的（final 的精确反义：最终的↔最初的）
 > - [[first]]：第一的（final 的顺序反义：最后的↔第一的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **final decision**：最终决定
 > - **final exam**：期末考试
 > - **final chapter**：最后一章
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The final decision rests with the committee."（最终决定权在委员会手中）
 > - "In the final analysis, economic growth depends on innovation."（归根结底，经济增长取决于创新）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "outrage"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 超越常理的行为
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈaʊtreɪdʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**超越常理的行为**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **超越常理的行为**（情感层面）
@@ -69,7 +67,7 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > outrage = out（超出）+ rage（愤怒）= 超出正常范围的愤怒。想象一个人不是普通的生气，而是**暴怒**——愤怒**超出**了正常边界，这就是 outrage（愤慨）。当暴行**超出**了道德底线，这也是 outrage。outrage 既是愤怒也是暴行，因为暴行引发愤慨，两者一体两面。out- 前缀家族：outrage（超出愤怒）、outset（超出起点→开始）、outside（超出边界→外面）、outward（超出内部→向外的）。
@@ -92,7 +90,7 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[approval]]：赞同（outrage "愤慨"的反义）
 > - [[satisfaction]]：满意（outrage "不满"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **public outrage**：公愤
 > - **cause/spark outrage**：引起公愤
 > - **an outrage against humanity**：反人类的暴行
@@ -131,22 +129,16 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The decision sparked public outrage across the country."（这一决定在全国引发了公愤）——社会/政治类阅读
 > - "The treatment of prisoners was described as an outrage against humanity."（对囚犯的待遇被描述为反人类的暴行）——人权类话题
 > - "Consumers expressed outrage at the company's environmental record."（消费者对公司的环保记录表示愤慨）——商业/环保类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

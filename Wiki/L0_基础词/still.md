@@ -3,14 +3,12 @@ title: "still"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 静止的，不动的（保持在一个位置不动）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/stɪl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不动，静止**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **不动**（空间层面）
@@ -73,7 +71,7 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > still 和 stand（站立）同源——站住不动就是 still。你站在湖边，湖面 still（平静的），倒映着天空。十年过去了，你 still（仍然）记得那个下午。still 的核心就是"不动"——身体不动是静止，时间不动是仍然，声音不动是寂静。Still waters run deep（静水流深）——不动的水反而最深。
@@ -98,7 +96,7 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +108,14 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[moving]]：移动的（still 的精确反义：静止↔移动）
 > - [[noisy]]：嘈杂的（still 的反义：寂静↔嘈杂）
 > - [[restless]]：不安的（still 的反义：平静↔不安）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stand/stay still**：站着/保持不动（Stand still while I take the photo.）
 > - **still water**：静水（Still waters run deep. 静水流深。）
 > - **the still of the night**：夜的寂静
@@ -137,19 +135,15 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Despite decades of research, the mystery of dark matter still remains unsolved."（尽管研究了数十年，暗物质之谜仍然没有解开）
 > - "The lake was perfectly still, reflecting the mountains like a mirror."（湖面平静如镜，倒映着群山）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

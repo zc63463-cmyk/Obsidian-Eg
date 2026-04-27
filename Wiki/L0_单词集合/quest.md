@@ -3,14 +3,12 @@ title: "quest"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 寻找、寻求
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kwest/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**寻找、寻求**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **寻找、寻求**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > quest 来自拉丁语 quaerere（寻找）。想象一个中世纪骑士，踏上了寻找圣杯的 quest（探险之旅）。后来 quest 不再只是骑士的专利——科学家有 quest for truth（追求真理），每个人都有 quest for happiness（追求幸福）。记住：quest 就是一场"寻找之旅"，无论找的是圣杯还是真理。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abandon]]：放弃（quest 的反义：追求↔放弃）
 > - [[retreat]]：撤退（quest 的反义：前进探索↔后退撤退）
 > - [[settle]]：安定（quest 的反义：不断寻找↔安定下来）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **quest for sth**：追求/寻找某物（quest for knowledge/truth/happiness）
 > - **in quest of**：寻找，追求（in quest of a better life）
 > - **on a quest**：在探索中，在寻找中
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the quest for knowledge"（对知识的追求）——考研阅读常见，描述学术探索精神
 > - "in quest of a better understanding"（为了寻求更好的理解）——考研翻译/阅读中学术类话题
 > - "a lifelong quest"（毕生的追求）——文学/传记类文本中常见表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

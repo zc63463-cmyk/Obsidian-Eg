@@ -3,14 +3,12 @@ title: "long"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 长的（在空间或时间上延伸很远）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/lɒŋ/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ long 源自古英语 *lang*（长的），与 length 同源。
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**长的（延伸很远）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **长的**（空间延伸层面）
@@ -69,7 +67,7 @@ long 源自古英语 *lang*（长的），与 length 同源。
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ long 源自古英语 *lang*（长的），与 length 同源。
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > long = 长。a long road = 一条长路（空间延伸）。a long time = 很长时间（时间延伸）。long for home = 渴望回家（情感向家的方向延伸）。long 就是"延伸"——空间、时间、情感三个维度。
@@ -94,7 +92,7 @@ long 源自古英语 *lang*（长的），与 length 同源。
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ long 源自古英语 *lang*（长的），与 length 同源。
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[short]]：短的（long adj. 的精确反义：长↔短）
 > - [[brief]]：短暂的（long 时间义的反义：长久↔短暂）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ long 源自古英语 *lang*（长的），与 length 同源。
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **long for sth.**：渴望某物
 > - **long to do sth.**：渴望做某事
 > - **as/so long as**：只要
@@ -137,19 +135,15 @@ long 源自古英语 *lang*（长的），与 length 同源。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the long run, education is the most effective way to reduce inequality."（从长远来看，教育是减少不平等最有效的方式——考研阅读高频表达）
 > - "She has long been recognized as one of the leading scholars in her field."（她长期以来一直被认为是该领域的顶尖学者之一——考研翻译常见句型）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

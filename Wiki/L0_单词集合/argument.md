@@ -3,14 +3,12 @@ title: "argument"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 使事物变清晰的过程或结果
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɑːrɡjumənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用理由使清晰的过程或结果**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **用理由使清晰的过程或结果**（过程层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > argue 是"用理由照亮事物"，argument 就是这个"照亮"的过程和结果。夫妻吵架（have an argument）是互相用理由"照亮"对方，论文中的论点（present an argument）是用理由"照亮"一个观点，逻辑论证（logical argument）是用一串理由"照亮"一条推理链。记住：argument = argue（用理由照亮）+ ment（过程/结果）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[agreement]]：同意，一致（argument 的反义：争论↔一致）
 > - [[consensus]]：共识（争论的结果可能是共识）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have an argument with sb.**：与某人争论
 > - **present an argument**：提出论点
 > - **supporting argument**：支持性论据
@@ -129,20 +127,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account."（迈尔斯博士和沃姆博士认为，他们的工作提供了一个正确的基准线，未来的管理工作必须将其纳入考量。）——2006年阅读Text3
 > - "The argument seemed to have considerable merit."（这个论点似乎有相当大的价值。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

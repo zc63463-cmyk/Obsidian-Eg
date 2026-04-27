@@ -3,14 +3,12 @@ title: "solemn"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 每年固定举行的（按年度宗教仪式进行的）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsɒləm/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**年度宗教仪式的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **年度仪式**（宗教层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > solemn 来自拉丁语 *sollemnis*（年度宗教仪式）。罗马人将其拆为 sollus（完整的）+ annus（年）= 每年完整举行的仪式。年度宗教仪式是庄严的——a solemn ceremony。参加仪式的人表情严肃——a solemn face。做出的承诺是郑重的——a solemn promise。注意区分：[[sober]]（清醒的、严肃的）来自"未醉"，solemn（庄严的）来自"宗教仪式"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cheerful]]：欢快的（solemn 的反义：庄严↔欢快）
 > - [[frivolous]]：轻浮的（solemn 的反义：庄重↔轻浮）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a solemn ceremony**：庄严的仪式
 > - **a solemn occasion**：庄严的场合
 > - **a solemn expression**：严肃的表情
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The president delivered a solemn address to the nation, calling for unity and resilience in the face of the unprecedented crisis."（总统向全国发表了庄严的讲话，呼吁在面对这场前所未有的危机时保持团结和韧性——考研阅读政治话题相关表达）
 > - "On this solemn occasion, we gather to honor the memory of those who sacrificed their lives for the freedom we enjoy today."（在这个庄严的场合，我们聚集在一起，缅怀那些为我们今天所享有的自由而牺牲生命的人——考研翻译社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

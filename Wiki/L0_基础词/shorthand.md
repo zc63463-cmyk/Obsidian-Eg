@@ -3,14 +3,12 @@ title: "shorthand"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 短手（写得快）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈʃɔːthænd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ short(短的) + hand(手)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**短手（写得快）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **短手（写得快）**（书写层面）
@@ -64,7 +62,7 @@ short(短的) + hand(手)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ short(短的) + hand(手)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > short（短）+ hand（手）→ shorthand。想象一个记者开会，手写得特别"短"——每个词都缩成符号，飞快地记录领导讲话。这种"短手"写出来的东西就是 shorthand（速记）。
@@ -86,7 +84,7 @@ short(短的) + hand(手)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ short(短的) + hand(手)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[transcription]]：逐字记录，全文抄录（shorthand 的反义：速记↔全文记录）
 > - [[elaboration]]：详述，详细阐述（shorthand 的反义：简略↔详述）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ short(短的) + hand(手)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take shorthand**：做速记
 > - **in shorthand**：用速记
 > - **a shorthand for**：……的简略表达/代称
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The term 'AI' has become a shorthand for any kind of automated technology."（"AI"一词已成为任何自动化技术的简略代称。——科技类阅读常见表达）
 > - "Court reporters use shorthand to transcribe proceedings in real time."（法庭记录员使用速记实时转录诉讼程序。——法律英语常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "intimidate"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 使人内心害怕
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪnˈtɪmɪdeɪt/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: timid
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使人内心害怕**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使人内心害怕**（心理层面）
@@ -64,7 +61,7 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中世纪拉丁语 intimidare，由 in-（使进入）+ timidus（害怕的）组成。让某人进入害怕的状态就是"恐吓"。注意和 intimate（亲密的）区分：intimate 来自 intimus（最内部的），intimidate 来自 timidus（害怕的）——一个是最里面的人，一个是让你害怕的人。
@@ -89,7 +86,7 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[encourage]]：鼓励（intimidate 的反义：恐吓↔鼓励）
 > - [[reassure]]：使安心（intimidate 的反义：使害怕↔使安心）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +118,22 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **intimidate someone into doing**：恐吓某人做某事
 > - **feel intimidated by**：对……感到胆怯
 > - **intimidate witnesses**：恐吓证人
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They tried to intimidate the witness into changing his testimony."（他们试图恐吓证人改变证词——考研高频表达）
 > - "Many students feel intimidated by the prospect of public speaking."（许多学生对公开演讲感到胆怯）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

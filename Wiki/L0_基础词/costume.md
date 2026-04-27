@@ -3,14 +3,12 @@ title: "costume"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 特定场合穿着的服装/戏服
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒstjuːm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**特定场合穿着的服装**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **特定场合穿着的服装**（社会层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > costume 和 custom（习俗）是同源词——一个民族 custom（习俗）决定了他们的 costume（传统服饰）。演员穿 costume（戏装）来扮演不同角色，万圣节孩子们穿 costume（化装服）变成超人、公主。costume 就是"让你变成另一个身份的服装"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - costume 作为特殊服装没有精确反义词。
 > - [[casual]]：随意的（特殊服装↔日常便装）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Halloween costume**：万圣节服装
 > - **costume party**：化装舞会
 > - **traditional costume**：传统服饰
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Children dressed in costumes go from door to door on Halloween night."（万圣节晚上，穿着化装服的孩子们挨家挨户敲门）
 > - "The museum displays traditional costumes from various ethnic groups."（博物馆展出了各民族的传统服饰）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "deserve"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 完全服务于某人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/dɪˈzɜːv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**因付出而应得回报**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **因付出而应得回报**（社会交换关系）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > de（充分）+ serv（服务）= 充分地服务 → **应受，值得**。想象一个忠诚的骑士为国王**服务**了一辈子，他**值得**被封为爵士。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[undeserved]]：不应得的（deserve 的否定形式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,29 +110,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **deserve attention**：This issue deserves our attention. 这个问题值得我们关注。
 > - **deserve to be**：The plan deserves to be considered. 这个计划值得考虑。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "You deserve a rest after all your hard work."（辛苦工作之后，你值得休息一下。）——考研高频表达
 > - "The issue deserves careful consideration."（这个问题值得仔细考虑。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

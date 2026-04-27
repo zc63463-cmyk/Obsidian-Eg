@@ -3,14 +3,12 @@ title: "mixture"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 混合物，混合
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmɪkstʃər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ mix(混合) + -ture(名词后缀，表示动作的结果或状态)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**混合物**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **混合物**（物理层面：多种物质混合的产物）
@@ -62,7 +60,7 @@ mix(混合) + -ture(名词后缀，表示动作的结果或状态)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ mix(混合) + -ture(名词后缀，表示动作的结果或状态)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个化学实验：你把蓝色液体和黄色液体倒进同一个烧杯，搅拌后变成了绿色——这个绿色的 **mixture**（混合物）是两种原色的融合。
@@ -85,7 +83,7 @@ mix(混合) + -ture(名词后缀，表示动作的结果或状态)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ mix(混合) + -ture(名词后缀，表示动作的结果或状态)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[pure substance]]：纯净物——与混合物相对
 > - [[element]]：元素——单一成分
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,27 +113,21 @@ mix(混合) + -ture(名词后缀，表示动作的结果或状态)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a mixture of**：The city is a fascinating mixture of old traditions and modern technology.
 > - **chemical mixture**：The laboratory produced a new chemical mixture with unique properties.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The city is a fascinating mixture of old and new architecture."（这座城市是新旧建筑的迷人混合体。）——考研高频表达
 > - "The success of the project was due to a mixture of hard work and good luck."（项目的成功是努力和运气的混合结果。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "sentence"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 表达思想的完整话语（一组表达完整意义的词）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsentəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**表达思想的完整话语**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **表达思想的完整话语**（语言层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sentence 来自拉丁语 *sententia*（意见、判断），词根 *sentire* 意为"感觉、认为"。一组表达完整判断的词就是"句子"（sentence）。法官在法庭上表达的最终判断就是"判决"（sentence）。The judge will pass sentence tomorrow——法官明天将做出判决。He was sentenced to death——他被判处死刑。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[acquittal]]：无罪释放（sentence 判决有罪 ↔ acquittal 无罪释放）
 > - [[pardon]]：赦免（sentence 判刑 ↔ pardon 赦免）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pass/pronounce sentence**：宣判
 > - **a heavy/light sentence**：重判/轻判
 > - **sentence someone to**：判处某人……
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The judge will pass sentence tomorrow after looking at the report."（法官看完报告后明天会做出判决——考研翻译类高频表达）
 > - "The Supreme Court is expected to uphold the death sentence."（预计最高法院将维持死刑的原判——考研法律类阅读高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

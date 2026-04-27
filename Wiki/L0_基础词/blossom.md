@@ -3,14 +3,12 @@ title: "blossom"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 果树的花，开花
-extension_dim: 成长发展
+extension_dim: [成长发展]
 phonetic: "/ˈblɒsəm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ blossom(果树的花/开花，古英语 *blōstm*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**果树的花/开花**"为统筹中心，沿成长发展向外扩展：
 >
 > 1. **果树的花**（植物层面）
@@ -69,7 +67,7 @@ blossom(果树的花/开花，古英语 *blōstm*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ blossom(果树的花/开花，古英语 *blōstm*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blossom 的核心是"果树的花"。想象春天苹果树开满白花的画面——那就是 blossom。cherry blossom = 樱花（日本最著名的 blossom）。blossom 和 [[bloom]] 是一对近义词：blossom 更专指果树花，bloom 更通用。blossom into a confident young woman = 出落成自信的年轻女子（像花一样绽放成长）。their friendship blossomed = 他们的友谊开花了（发展壮大了）。blossom 强调"开花→结果"的完整过程，暗含成长和发展的意味。
@@ -92,7 +90,7 @@ blossom(果树的花/开花，古英语 *blōstm*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ blossom(果树的花/开花，古英语 *blōstm*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wither]]：枯萎（blossom 的精确反义：开花↔枯萎）
 > - [[fade]]：凋谢（blossom 的反义：绽放↔凋谢）
 > - [[decline]]：衰退（blossom 发展的反义：发展↔衰退）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ blossom(果树的花/开花，古英语 *blōstm*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in blossom**：（果树）开花
 > - **blossom into**：发展成为，出落成
 > - **blossom out**：发展，出现
@@ -133,19 +131,15 @@ blossom(果树的花/开花，古英语 *blōstm*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Their friendship blossomed into a lasting partnership that transformed the industry."（他们的友谊发展成了一段持久的合作关系，改变了整个行业。——考研英语阅读商业类话题）
 > - "Cherry blossoms in Washington D.C. attract millions of tourists every spring."（华盛顿特区的樱花每年春天吸引数百万游客。——考研英语阅读文化类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

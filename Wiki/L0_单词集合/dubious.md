@@ -3,14 +3,12 @@ title: "dubious"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 可疑的，不确定的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdjuːbiəs/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**两头摇摆**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **两头摇摆**（心理状态层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 你站在两个(du)选择之间左右摇摆——这个人说的话到底是真是假？你心里充满怀疑，这就是 dubious（可疑的）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[certain]]：确定的，无疑的
 > - [[reliable]]：可靠的（与"可疑的"相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +116,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dubious about**：I am dubious about the wisdom of this decision.（我对这个决定是否明智持怀疑态度。）
 > - **of dubious value**：The research is of dubious value.（这项研究的价值令人怀疑。）
 > - **dubious distinction**：He holds the dubious distinction of being the youngest person ever fired.（他拥有一项"殊荣"——史上最年轻被解雇的人。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me."（人们为什么愿意为了住在乡下这一令人怀疑的特权而每天忍受四个小时的通勤，我实在无法理解。）——考研真题阅读
 > - "The research is of dubious value and its conclusions should be treated with caution."（这项研究的价值令人怀疑，其结论应谨慎对待。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

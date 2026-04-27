@@ -3,14 +3,12 @@ title: "wake"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 从睡眠中出来（古英语 wacan = 醒来 + wacian = 保持清醒）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/weɪk/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从睡眠中醒来**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **醒来**（身体层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wake 的核心画面是"清晨睁开眼睛的那一刻"。古英语 *wacan* = 醒来。当你从沉睡中睁开眼睛，阳光照进来——那就是 wake。I woke up at 6 a.m.（我早上6点醒来）。引申为"心理觉醒"——Society must wake up to the dangers of climate change（社会必须意识到气候变化的危险）。注意 wake 和 [[awake]] 的区别：wake 是动作（醒来），awake 是状态（醒着的）。Wake up and smell the coffee（面对现实吧）是常用习语。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sleep]]：睡觉（wake 的反义：醒来↔入睡）
 > - [[slumber]]：沉睡（wake 的反义：苏醒↔沉睡）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **wake up**：醒来
 > - **wake up to sth.**：意识到某事
 > - **wake sb. up**：叫醒某人
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the wake of the financial crisis, many governments implemented sweeping regulatory reforms to prevent future economic meltdowns."（在金融危机之后，许多政府实施了全面的监管改革，以防止未来的经济崩溃——考研阅读经济话题相关表达）
 > - "It took years for the public to wake up to the serious environmental consequences of industrial pollution."（公众花了多年时间才意识到工业污染对环境的严重后果——考研阅读环保话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

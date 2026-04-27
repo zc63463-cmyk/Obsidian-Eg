@@ -3,14 +3,12 @@ title: "ventilate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 用风吹、使空气流通
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈventɪleɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用风吹、使空气流通**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用风吹、使空气流通**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ventil- 来自拉丁语 ventus（风），和 wind（风）、window（窗户）是远房亲戚。ventilate 最初是农民**扬谷**的动作——把谷物抛向空中让风吹走壳粒，后来变成了"给房间通风"。再后来，人们把"闷在心里的话"也像浊气一样"放出来"——ventilate a grievance 就是"把不满通风放出来"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stifle]]：窒息，压制（ventilate 的精确反义：通风↔窒息/压制）
 > - [[suppress]]：压制，压抑（压制意见，与 ventilate opinions 相对）
 > - [[seal]]：密封（封闭空间，与通风相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ventilate a room**：给房间通风
 > - **ventilate an issue/grievance**：公开讨论问题/表达不满
 > - **well-ventilated**：通风良好的
@@ -132,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The building is well-ventilated with large windows."（这座建筑有大窗户，通风良好）——建筑/健康类阅读
 > - "ventilate their grievances in public"（公开表达他们的不满）——社会/政治类阅读
 > - "patients on ventilators"（使用呼吸机的病人）——医学/科普类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

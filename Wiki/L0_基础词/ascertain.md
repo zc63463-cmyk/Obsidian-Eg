@@ -3,14 +3,12 @@ title: "ascertain"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 使确定（从不确定到确定的过程）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌæsərˈteɪn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使确定**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使确定**（认知层面）
@@ -65,7 +63,7 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > as-（加强）+ cert（确定）→ 使确定。法官需要 ascertain 事实真相才能做出公正判决。警察试图 ascertain 事故原因——从不确定到确定的过程就是 ascertain。你已知的 certain 是"确定的"，ascertain 就是"使之确定"→ 查明。
@@ -87,7 +85,7 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[confuse]]：混淆（ascertain 的反义：查明↔混淆）
 > - [[doubt]]：怀疑（ascertain 的反义：确定↔怀疑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ascertain the truth/facts**：查明真相/事实
 > - **ascertain the cause**：查明原因
 > - **ascertain whether/what**：查明是否/什么
@@ -129,19 +127,15 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The police are trying to ascertain the cause of the accident."（警方试图查明事故原因——考研阅读高频表达）
 > - "It is difficult to ascertain the exact number of people affected."（很难确定受影响的确切人数——学术写作常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

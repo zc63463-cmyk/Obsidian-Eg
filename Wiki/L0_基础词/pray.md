@@ -3,14 +3,12 @@ title: "pray"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 祈祷，恳求
-extension_dim: 恳切请求
+extension_dim: [恳切请求]
 phonetic: "/preɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**祈祷/恳求**"为统筹中心，沿恳切请求向外扩展：
 >
 > 1. **祈祷**（宗教层面）
@@ -66,7 +64,7 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pray 来自拉丁语 *precari*（恳求），与词根 [[prec-pre]]（请求）同源。pray 的核心就是"恳切地请求"。pray to God = 向上帝祈祷（最原始的用法）。pray for someone = 为某人祈祷。引申为"恳求"：pray for mercy = 恳求宽恕。pray 也可以作礼貌用语：pray tell me = 请告诉我。pray 和 [[praise]]（赞美）形近但义不同：pray = 祈祷（请求），praise = 赞美（赞扬）。pray 的名词形式是 [[prayer]]（祈祷文/祈祷者）。
@@ -88,7 +86,7 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[curse]]：诅咒（pray 祈祷的精确反义：祈祷↔诅咒）
 > - [[condemn]]：谴责（pray 恳求的反义：恳求宽恕↔谴责）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pray for**：为……祈祷/恳求
 > - **pray to God**：向上帝祈祷
 > - **pray for forgiveness/mercy**：恳求原谅/宽恕
@@ -129,19 +127,15 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People from all walks of life prayed for the victims of the earthquake and donated generously to the relief fund."（各行各业的人们为地震灾民祈祷，并向救济基金慷慨捐款。——考研英语阅读社会类话题）
 > - "The defendant prayed for leniency, claiming that his actions were driven by desperation rather than malice."（被告恳求从轻处理，声称自己的行为是出于绝望而非恶意。——考研英语阅读法律类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

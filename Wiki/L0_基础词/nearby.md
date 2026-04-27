@@ -3,14 +3,12 @@ title: "nearby"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 在附近（距离不远的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌnɪəˈbaɪ/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ near（近的）+ by（在……旁边）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在附近（距离不远的）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在附近**（空间层面）
@@ -65,7 +63,7 @@ near（近的）+ by（在……旁边）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ near（近的）+ by（在……旁边）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nearby 是 near（近）+ by（在旁边）的复合词。想象你站在一个地方，near（近的）东西就在你 by（旁边）——这就是 nearby（在附近）。它既可以修饰名词（a nearby café 附近的咖啡馆），也可以单独使用（Is there a hospital nearby? 附近有医院吗？）。
@@ -88,7 +86,7 @@ near（近的）+ by（在……旁边）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ near（近的）+ by（在……旁边）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[faraway]]：遥远的（nearby 的精确反义：附近的↔遥远的）
 > - [[distant]]：远处的（nearby 的反义：附近的↔远处的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ near（近的）+ by（在……旁边）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a nearby hotel/café**：附近的酒店/咖啡馆
 > - **live nearby**：住在附近
 > - **standing nearby**：站在附近
@@ -129,19 +127,15 @@ near（近的）+ by（在……旁边）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I noticed a policeman standing nearby."（我注意到有一名警察站在近旁。——Cambridge Dictionary）
 > - "We stopped at some nearby shops to buy some food."（我们在附近的一些商店停下来买了些吃的。——Cambridge Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

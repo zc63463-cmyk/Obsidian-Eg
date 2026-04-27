@@ -3,14 +3,12 @@ title: "opaque"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 完全遮蔽（光无法穿透的状态）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əʊˈpeɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全遮蔽（光无法穿透）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **完全遮蔽**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > opaque = ob（遮蔽）+ pague（覆盖）→ 完全覆盖 → 不透明的。光穿不过 opaque glass（不透明玻璃），理解穿不过 opaque jargon（晦涩术语）。opaque 与 [[transparent]]（透明的）是反义词。与 [[play]]（展开/铺开）同源——play 是铺开让人看到，opaque 是覆盖让人看不到。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[transparent]]：透明的；透明的（opaque 的精确反义：不透明↔透明）
 > - [[clear]]：清晰的（opaque 的反义：晦涩↔清晰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **opaque glass**：不透明玻璃
 > - **opaque jargon**：晦涩的术语
 > - **opaque algorithms**：不透明的算法
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He even charges tech firms with having bruised democracy: they serve up information based on opaque algorithms, suggesting what people should think, and so supplanting individual thought."（他甚至指控科技公司损害了民主：它们基于不透明的算法提供信息，暗示人们应该想什么，从而取代了个人思考。——外刊例句）
 > - "The complex administrative arrangements mean that the decision-making process remains somewhat opaque."（复杂的行政安排意味着决策过程仍然有些不透明。——牛津词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

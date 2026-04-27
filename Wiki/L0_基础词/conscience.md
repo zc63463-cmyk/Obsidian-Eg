@@ -3,14 +3,12 @@ title: "conscience"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 与他人共同感知对错
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈkɒnʃəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与他人共同感知对错**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **共同感知**（认知层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > conscience = con（共同）+ sci（知道/感知，与 [[sens-sent]] 同源）+ ence（名词后缀）= 共同感知 = 良知。想象你小时候做错了事，妈妈说"你自己心里知道对不对"——那个"你自己心里知道"的东西就是 conscience。它是社会共同认可的道德标准内化到你心中的结果。当你做了对的事，conscience 让你心安；当你做了错的事，conscience 让你愧疚（guilty conscience）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[guilt]]：罪恶感（conscience 的反义：良知↔罪恶感，但 guilt 也是 conscience 的一种表现）
 > - [[shamelessness]]：无耻（conscience 的反义：有良知↔无耻）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have a clear/good conscience**：问心无愧
 > - **have a guilty/bad conscience**：良心不安，内疚
 > - **conscience-stricken**：受良心谴责的
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The whistleblower acted according to her conscience, exposing corporate fraud despite the personal and professional risks involved."（举报人凭着良心行事，尽管面临个人和职业风险，仍揭露了公司欺诈行为——考研阅读社会话题相关表达）
 > - "A guilty conscience can manifest itself in various ways, from sleep disturbances to an inability to look others in the eye."（内疚感可以通过多种方式表现出来，从睡眠障碍到不敢直视他人——考研阅读心理话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

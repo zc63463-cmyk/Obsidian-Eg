@@ -3,14 +3,12 @@ title: "resident"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 居民，定居者
-extension_dim: 常驻身份
+extension_dim: [常驻身份]
 phonetic: "/ˈrezɪdənt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**居民/定居者**"为统筹中心，沿常驻身份向外扩展：
 >
 > 1. **坐下来的人**（身份层面）
@@ -69,7 +67,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > resident = re-（回）+ sid（坐，[[st-sta-stat]]）+ -ent（人）= "坐下来的人"→ 居民。local residents = 当地居民（在当地"坐下来"的人）。resident doctor = 住院医生（住在医院里的医生）。resident expert = 常驻专家。permanent resident = 永久居民。resident 和 [[residence]]（住所）、[[reside]]（居住）同词族：reside = 坐下来（动词），resident = 坐下来的人（名词），residence = 坐下来的地方（名词）。记住：-ent 后缀通常表示"人"——resident = 居民，student = 学生，president = 总统。
@@ -92,7 +90,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[visitor]]：访客（resident 居民的反义：定居者↔访客）
 > - [[transient]]：过客（resident 定居者的反义：定居↔过境）
 > - [[immigrant]]：移民（resident 的反义：本地居民↔外来移民）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **local residents**：当地居民
 > - **permanent resident**：永久居民
 > - **resident doctor/physician**：住院医生
@@ -136,19 +134,15 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Local residents have expressed concern about the environmental impact of the proposed factory."（当地居民对拟建工厂的环境影响表示担忧。——考研英语阅读环保类话题，local residents 高频表达）
 > - "The hospital's resident physicians work long hours and are often the first to respond to emergencies."（医院的住院医生工作时间很长，通常是第一个应对紧急情况的人。——考研英语阅读医疗类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

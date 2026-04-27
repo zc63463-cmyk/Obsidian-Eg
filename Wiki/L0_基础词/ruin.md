@@ -3,14 +3,12 @@ title: "ruin"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 倒塌（从高处跌落）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈruːɪn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**倒塌**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **倒塌**（物理层面）
@@ -67,7 +65,7 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ruin 源自拉丁语 *ruina*（倒塌），动词 *ruere*（倒塌、猛冲）。想象一座宏伟的城堡轰然倒塌，化为废墟——这就是 ruin。引申为一切"倒塌"：健康倒塌（ruin one's health）、事业倒塌（ruin one's career）、财务倒塌（financial ruin）。
@@ -90,7 +88,7 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[build]]：建设（ruin "毁灭"的反义：毁灭↔建设）
 > - [[restore]]：修复（ruin "废墟"的反义：废墟↔修复）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in ruins**：成为废墟
 > - **ruin one's health/career/life**：毁掉某人的健康/事业/生活
 > - **financial ruin**：财务破产
@@ -129,19 +127,15 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The ancient city lies in ruins after centuries of neglect."（经过几个世纪的荒废，这座古城已沦为废墟。）
 > - "The scandal ruined his political career."（这桩丑闻毁掉了他的政治生涯。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

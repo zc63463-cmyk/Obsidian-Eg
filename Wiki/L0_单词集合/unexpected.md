@@ -3,14 +3,12 @@ title: "unexpected"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 没有预料到的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌʌnɪkˈspektɪd/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**没有被事先预料到**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **没有被事先预料到**（时间认知层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > un-（不）+ ex-（向外）+ spect（看）+ -ed = unexpected（没有向外看到→没预见到）。想象你站在窗前**向外张望**（expect），试图看到谁会来，但来的那个人你**完全没有看到**（unexpected）——一个意料之外的访客。从"看"到"没看到"，就是 unexpected 的故事。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expected]]：预料之中的（unexpected 的直接反义：意料之外↔意料之中）
 > - [[anticipated]]：预期的，盼望的（强调事先预见到并做好准备）
 > - [[predictable]]：可预测的（强调事件可以被提前推断）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an unexpected result/outcome**：意料之外的结果
 > - **an unexpected turn of events**：事态的意外转折
 > - **an unexpected guest/visitor**：不速之客
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "an unexpected turn of events"（事态的意外转折）——考研阅读常见搭配，描述叙事中的反转
 > - "the unexpected result of the experiment"（实验的意外结果）——科普类阅读语境
 > - "unexpected consequences of the policy"（政策的意外后果）——社会政策类文章
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

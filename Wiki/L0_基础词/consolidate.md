@@ -3,14 +3,12 @@ title: "consolidate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 把松散的东西共同变成坚实的整体
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kənˈsɒlɪdeɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把松散的东西共同变成坚实的整体**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使变得坚实**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > consolidate = con（共同）+ solid（坚实的）+ -ate（使动）= 使共同变得坚实 = 巩固。想象一堵墙是用散砖堆起来的，风一吹就倒；但如果你用水泥把砖缝填满，整堵墙就变成了一个坚实的整体——这就是 consolidate。consolidate power = 巩固权力（让权力"坚实"），consolidate debt = 合并债务（把分散的债务变成一个"坚实的整体"来管理）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fragment]]：碎片化（consolidate 的反义：合并↔碎片化）
 > - [[weaken]]：削弱（consolidate 的反义：巩固↔削弱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **consolidate power/position**：巩固权力/地位
 > - **consolidate gains**：巩固成果
 > - **consolidate debt**：合并债务
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The newly elected leader moved quickly to consolidate power by appointing loyal allies to key positions within the government."（新当选的领导人迅速采取行动巩固权力，将忠诚的盟友任命到政府内的关键职位——考研阅读政治话题相关表达）
 > - "Many students find it helpful to consolidate their knowledge by creating mind maps and summary notes after each lecture."（许多学生发现，在每次讲座后通过制作思维导图和总结笔记来巩固知识很有帮助——考研阅读教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

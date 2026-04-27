@@ -3,14 +3,12 @@ title: "snobbish"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 势利的，自以为高人一等的
-extension_dim: 态度路径
+extension_dim: [态度路径]
 phonetic: "/ˈsnɒbɪʃ/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**势利的，自以为高人一等的**"为统筹中心，沿态度路径向外扩展：
 >
 > 1. **势利的**（态度层面）
@@ -64,7 +62,7 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > snobbish 来自 snob（势利眼）+ -ish（形容词后缀）。snob 的故事很反转：最初是"鞋匠"（底层职业），被剑桥学生用来蔑称"城里人"，后来反转为"模仿上层、看不起下层的人"。snobbish 的核心画面是"一个人翘着鼻子，用社会标准评判所有人"。He has a snobbish attitude towards people who didn't go to private schools（他对没上过私立学校的人态度势利）。
@@ -88,7 +86,7 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[humble]]：谦逊的（snobbish 的反义：势利↔谦逊）
 > - [[modest]]：谦虚的（snobbish 的反义：自以为是↔谦虚）
 > - [[democratic]]：平等的（snobbish 的反义：等级观念↔平等观念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a snobbish attitude**：势利的态度
 > - **snobbish about**：对……势利的（snobbish about food/wine/art）
 > - **snobbish behaviour**：势利的行为
@@ -128,19 +126,15 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The restaurant's snobbish attitude towards casual diners eventually drove away many of its regular customers."（这家餐厅对便装用餐者的势利态度最终赶走了许多老顾客——考研阅读社会话题相关表达）
 > - "Intellectual snobbery—the tendency to dismiss the opinions of those without formal education—remains a persistent problem in academic circles."（知识势利——即倾向于否定没有受过正规教育的人的意见——仍然是学术界的一个顽固问题——考研翻译教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "raw"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 生的，未加工的（处于自然原始状态）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɔː/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**生的，未加工的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **未加工的**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > raw 的核心是"未经处理"。raw meat（生肉）还没经过烹饪，raw data（原始数据）还没经过分析，raw material（原材料）还没经过加工。提到某个敏感话题就像触碰 a raw nerve（碰不得的痛处）——伤口还没愈合，碰一下就疼。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cooked]]：煮熟的（raw"生的"的反义：生↔熟）
 > - [[processed]]：加工过的（raw"未加工的"的反义：未加工↔加工过的）
 > - [[refined]]：精炼的（raw"原始的"的反义：原始↔精炼）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **raw data/material**：原始数据/原材料
   - The researchers collected raw data from the experiment.
 - **a raw nerve**：敏感的痛处
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Given equivalent retest correlations, the effect size is increased by larger differences in raw scores and decreased by larger variance."（在等价的重测相关性下，效应量随着原始分数差异的增大而增大，随着方差的增大而减小。——常见学术研究类语料）
 > - "The mere mention of John had touched a very raw nerve indeed."（仅仅提到约翰就真的让人心痛。——常见情感类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

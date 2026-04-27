@@ -3,14 +3,12 @@ title: "oral"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用嘴巴的
-extension_dim: 器官-表达扩展
+extension_dim: [器官-表达扩展]
 phonetic: "/ˈɔːrəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**嘴巴**"为统筹中心，沿器官-表达扩展向外扩展：
 >
 > 1. **嘴巴**
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > oral 来自拉丁语 os（嘴）。考试有 written exam（笔试）和 oral exam（口试）——一个用笔，一个用嘴。oral tradition（口述传统）是文字出现之前，人类通过嘴巴讲述历史的方式。oral hygiene（口腔卫生）保护的是嘴巴的健康。oral medicine（口服药）是通过嘴巴吃的药。oral 的核心画面就是"张开的嘴巴"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[written]]：书面的（oral"口头的"的精确反义：口头↔书面）
 > - [[anal]]：肛门的（oral"口腔的"的反义：口腔↔肛门，医学配对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **oral exam/test**：口试
 > - **oral tradition**：口述传统
 > - **oral agreement**：口头协议
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Students must pass both the written and oral exams."（学生必须通过笔试和口试。——教育语料）
 > - "Many ancient stories were passed down through oral tradition."（许多古老的故事通过口述传统传承下来。——文化语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "melody"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 歌唱的线条（旋律）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmelədi/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: mel-melos
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**歌唱的线条**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **歌唱的线条**（音乐层面）
@@ -66,7 +63,7 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mel（歌）+ ody（唱）→ 唱出来的歌 → 旋律。一首歌你可能记不住歌词，但那条 melody（旋律）会一直萦绕在你脑海中。melody 就是你能"哼哼"出来的那部分。
@@ -88,7 +85,7 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[noise]]：噪音（melody 的反义：旋律↔噪音）
 > - [[cacophony]]：刺耳的声音（melody 的反义：和谐旋律↔刺耳噪音）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,26 +123,22 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a beautiful melody**：美妙的旋律
 > - **compose a melody**：创作旋律
 > - **the melody of**：……的旋律
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Kelly, who said his specialties are crafting melodies and stories, said he wants to work with rock and country musicians too."（凯利说他的专长是创作旋律和故事，他还表示想与摇滚和乡村音乐家合作。——考研阅读常见文化话题）
 > - "For his first outing as a recording artist, he turned to the Great American Songbook and some of the most romantic melodies of our time."（作为录音艺术家的首次亮相，他转向了《伟大的美国歌曲集》和我们这个时代一些最浪漫的旋律。——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

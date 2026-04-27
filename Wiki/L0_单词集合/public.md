@@ -3,17 +3,14 @@ title: "public"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 属于全体人民的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpʌblɪk/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: pub
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people/the people）+ -li
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**属于全体人民的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **属于全体人民的**（归属层面）
@@ -72,7 +69,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people/the people）+ -li
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +83,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people/the people）+ -li
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > public 来自拉丁语 *publicus*，词根是 *populus*（人民）。在古罗马，*res publica* 意思是"公共事务"——也就是属于全体罗马人民的事务，后来演变成英语中的 republic（共和国）。想象一个城市公园，大门敞开，任何人都可以自由进出——这就是 public park（公园，公共的）。再想象一份政府文件，任何人都可以查阅——这就是 public information（公开信息）。public 的本质就是"大家的"，属于全体人民。
@@ -98,7 +95,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people/the people）+ -li
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +107,13 @@ pub-（=populus，人民，来自拉丁语 *populus*，people/the people）+ -li
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[private]]：私人的（公众的↔私人的）
 > - [[secret]]：秘密的（公开的↔秘密的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +126,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people/the people）+ -li
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **public opinion**：公众舆论（Public opinion is shifting in favor of the reform.）
 > - **public health**：公共卫生（The government has invested heavily in public health.）
 > - **in public**：公开地（He rarely speaks in public.）
@@ -137,21 +134,15 @@ pub-（=populus，人民，来自拉丁语 *populus*，people/the people）+ -li
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Scientific publishing has long been a licence to print money."（科学出版长期以来一直是一本万利的行当。）——2020考研英语一阅读
 > - "It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being."（它脱离了上帝和罗马天主教的权威，转而倾向于一种更人文主义的存在方式。）——2020考研英语一阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

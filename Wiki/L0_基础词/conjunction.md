@@ -3,14 +3,12 @@ title: "conjunction"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 连接在一起（把多个东西结合为一个整体）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈdʒʌŋkʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**连接在一起（把多个东西结合为一个整体）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **连接在一起**（关系层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > conjunction 来自拉丁语，con（一起）+ junct（连接）→ "连接在一起"。语法中的"连词"就是连接句子的词（and, but, or）。生活中"结合"也是连接——in conjunction with（与……联合）。两颗行星在天空"连"到一起——就是"同时发生"。核心就是"连接"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disjunction]]：分离，脱节（conjunction 的精确反义：连接↔分离）
 > - [[separation]]：分开，分离（conjunction 的反义：结合↔分离）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in conjunction with**：与……联合/一起（考研高频短语）
 > - **coordinate conjunction**：并列连词（语法术语）
 > - **a conjunction of events**：事件的同时发生
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The police worked in conjunction with the army to maintain order."（警方与军队协同维护秩序——考研阅读社会话题高频表达）
 > - "The conjunction of low interest rates and rising demand fueled the housing boom."（低利率与上升需求的结合推动了房地产繁荣——考研经济话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

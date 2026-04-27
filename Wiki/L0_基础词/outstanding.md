@@ -3,14 +3,12 @@ title: "outstanding"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 站出来（在众人中脱颖而出）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/aʊtˈstændɪŋ/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站出来（在众人中脱颖而出）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **站出来**（空间层面）
@@ -67,7 +65,7 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > out（向外）+ stand（站立）→ 站在所有人外面 → 脱颖而出。想象一个颁奖典礼，所有人都坐着，只有一个人 outstanding——站在外面接受掌声。但如果你有一堆 outstanding 的问题，那就是它们还"站在那里"等着你去解决。
@@ -89,7 +87,7 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ordinary]]：普通的（outstanding 的反义：杰出↔普通）
 > - [[mediocre]]：平庸的（outstanding 的反义：杰出↔平庸）
 > - [[settled]]：已解决的（outstanding"未解决的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **outstanding performance**：杰出的表现
 > - **outstanding contribution**：杰出贡献
 > - **outstanding issues/problems**：未解决的问题
@@ -129,19 +127,15 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She has made outstanding contributions to the field of science."（她对科学领域做出了杰出贡献——考研写作常用表达）
 > - "Several outstanding issues remain to be resolved."（几个未解决的问题仍有待解决——学术/商务语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

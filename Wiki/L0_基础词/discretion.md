@@ -3,14 +3,12 @@ title: "discretion"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 分开判断的能力（谨慎判断的权力）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dɪˈskreʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分开判断的能力（谨慎判断）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **分开判断的能力**（认知层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dis（分开）+ cret（分辨）+ -ion → discretion（判断力）。有 discretion 的人 = 有判断力的人 = 谨慎的人。at the teacher's discretion = 在老师的判断力范围内 = 由老师自行决定。age discretion = 年龄限制（根据判断力决定是否适合）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[indiscretion]]：轻率，不慎（discretion 的精确反义：谨慎↔轻率）
 > - [[recklessness]]：鲁莽（discretion 的反义：慎重↔鲁莽）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at one's discretion**：由某人自行决定
 > - **use/exercise discretion**：运用判断力/裁量权
 > - **act with discretion**：谨慎行事
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The judge has the discretion to impose a lighter sentence under certain circumstances."（法官在特定情况下有权从轻判刑——考研阅读法律类话题高频表达）
 > - "You should use your own discretion when deciding whether to accept the offer."（在决定是否接受提议时，你应该运用自己的判断力——考研翻译常见句型）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

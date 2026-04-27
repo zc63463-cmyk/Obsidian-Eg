@@ -3,14 +3,12 @@ title: "economics"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 管理家庭的经济活动
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌiːkəˈnɒmɪks/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**管理家庭的经济活动**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **管理家庭的经济活动**（具体层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象古希腊一位管家站在院子里，手里拿着账本，精打细算地安排一家人的吃穿用度——这就是 economics 的原初画面。eco- 来自希腊语 oikos（家），-nomics 来自 nomos（管理法则）。从"管好一个家"到"管好一个国家的钱袋子"，economics 始终在回答同一个问题：有限的资源，怎么分才合理？
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[chaos]]：混乱无序（经济学研究的对立面——资源分配无序）
 > - [[waste]]：浪费（经济学的核心关切是避免资源浪费）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **study economics**：学习经济学
 > - **applied economics**：应用经济学
 > - **the economics of the project**：该项目的经济可行性/经济因素
@@ -129,22 +127,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the economics of healthcare"（医疗保健的经济学）——考研阅读常见话题，讨论医疗资源分配
 > - "a professor of economics"（经济学教授）——学术场景常见表达
 > - "understanding the economics of climate change"（理解气候变化的经济学）——跨学科话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "expand"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 向外展开、使变大
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪkˈspænd/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外展开、使变大**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向外展开、使变大**（物理空间层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向外）+ pand（展开）→ 像地图一样向外铺开 → 扩大
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[shrink]]：收缩；缩小（体积或数量减小）
 > - [[contract]]：收缩（与 expand 相对的物理变化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,28 +120,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **expand one's knowledge**：扩展某人的知识面
 > - **expand business**：扩大业务
 > - **expand into**：向……扩展
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Taxes on low-wage labor need to be cut and wage subsidies such as the earned income tax credit should be expanded."（需要削减对低薪劳动力的税收，并且应该扩大抵免所得税之类的薪资补贴。）——2018考研英语一阅读
 > - "The company plans to expand its business into the Asian market."（公司计划将业务扩展到亚洲市场。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<尚未产出>
 > **翻译实践**：<尚未产出>

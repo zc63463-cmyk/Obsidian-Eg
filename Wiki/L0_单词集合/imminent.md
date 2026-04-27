@@ -3,14 +3,12 @@ title: "imminent"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 悬在头顶即将落下的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈɪmɪnənt/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**悬在头顶即将落下的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **悬在头顶即将落下的**（空间层面→时间层面）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你走在山谷中，抬头一看，一块巨石悬挂（min）在你正上方（im-），随时可能坠落——这种"悬在头顶"的紧迫感就是 imminent。它不是"也许会掉"，而是"马上就要掉"。所以 imminent 通常用来形容危险、灾难等不好的事情即将来临。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[remote]]：遥远的，不太可能的（imminent 是即将发生，remote 是遥遥无期）
 > - [[distant]]：远处的，遥远的（时间或空间上的远）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,29 +116,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **imminent danger/threat**：迫在眉睫的危险/威胁 — The troops were withdrawn due to imminent danger.
 > - **imminent collapse/failure**：即将来临的崩溃/失败 — The company faced imminent bankruptcy.
 > - **imminent arrival**：即将到来 — With the imminent arrival of winter, food supplies became scarce.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "With the imminent threat of climate change, governments must take immediate action."（考研英语——面对气候变化迫在眉睫的威胁，各国政府必须立即采取行动）
 > - "The company was on the verge of imminent collapse before the bailout."（考研英语——在救助资金到位前，该公司已濒临崩溃）
 > - "Scientists warned that an earthquake was imminent."（考研英语——科学家警告地震即将发生）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

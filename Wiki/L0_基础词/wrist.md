@@ -3,17 +3,14 @@ title: "wrist"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 扭转的关节（连接手和前臂的可转动关节）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/rɪst/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: wrench
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**能转的关节**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **能转的关节**（身体层面）
@@ -61,7 +58,7 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +68,7 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wrist 来自古英语，本义就是"能转的关节"——手腕是人体上最灵活的可转动关节。wrist watch（手表）就是戴在手腕上的表。记住 wr- 家族：wrist（手腕=能转的关节），wrench（猛扭），wring（拧），wrinkle（皱纹=扭出的褶子），writhe（扭动）。
@@ -83,7 +80,7 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,12 +92,12 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > （wrist 为具体身体部位，无直接反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +111,7 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sprain one's wrist**：扭伤手腕
 > - **wrist watch**：手表
 > - **slap on the wrist**：轻微的惩罚（象征性的手腕一拍）
@@ -122,18 +119,14 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - She fell off her bike and sprained her wrist, requiring several weeks of rest.（她从自行车上摔下来扭伤了手腕，需要休息几周。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

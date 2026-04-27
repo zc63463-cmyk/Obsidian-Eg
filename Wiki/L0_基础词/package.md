@@ -3,14 +3,12 @@ title: "package"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 打包好的包裹（有包装的完整包裹）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈpækɪdʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打包好的包裹**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **打包包裹**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > package = [[pack]]（打包）+ *-age*（名词后缀）= 打包好的东西 = 包裹。package deal（一揽子交易）= 把多个条件打包在一起的整体方案，就像把多个商品装进一个包裹里。aid package（一揽子援助）= 把多种援助措施打包在一起。software package（软件包）= 把多个程序文件打包在一起。package 的核心逻辑是"整体打包"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（包裹无天然反义概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **package deal**：一揽子交易
 > - **aid package**：一揽子援助
 > - **software package**：软件包
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government announced a massive economic stimulus package aimed at revitalizing the struggling economy and creating new jobs."（政府宣布了一项大规模的经济刺激计划，旨在振兴陷入困境的经济并创造新的就业机会——考研阅读经济话题）
 > - "The company offers an attractive benefits package that includes health insurance, paid leave, and retirement plans."（该公司提供了一套有吸引力的福利方案，包括健康保险、带薪休假和退休计划——考研翻译商业话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

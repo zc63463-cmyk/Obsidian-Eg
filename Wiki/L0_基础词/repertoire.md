@@ -3,14 +3,12 @@ title: "repertoire"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 已找到的东西（某人或某物能够呈现的全部技能/作品）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈrepətwɑː/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -42,7 +40,7 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**已找到的东西（清单/目录）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **已找到的东西（清单/目录）**（集合层面）
@@ -63,7 +61,7 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > repertoire 来自拉丁语"清单/目录"。想象一位钢琴家打开自己的 repertoire（曲目清单），上面列着他能弹奏的所有曲子。expand one's repertoire = 扩大自己的技能储备（往清单上加更多项目）。repertoire 也可以指厨师的全部拿手菜、作家的全部作品。
@@ -85,7 +83,7 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（repertoire 是集合概念，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a pianist's repertoire**：钢琴家的全部曲目
 > - **expand one's repertoire**：扩大某人的技能储备
 > - **add to one's repertoire**：增加某人的技能
@@ -125,19 +123,15 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She has a wide repertoire of cooking techniques from different cultures."（她拥有来自不同文化的广泛烹饪技巧。——通用例句）
 > - "The comedian added several new jokes to his repertoire."（这位喜剧演员在他的节目单中增加了几个新笑话。——通用例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

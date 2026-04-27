@@ -3,14 +3,12 @@ title: "acid"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 酸（一种化学物质）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈæsɪd/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**酸（尖锐的味道）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **酸（尖锐的味道）**（化学层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > acid 来自拉丁语 acidus（酸的），ac（尖锐）→ 酸的味道是"尖锐的"，刺舌头。柠檬是酸的（acid taste）。酸雨（acid rain）含硫酸。一个人说话像酸一样刺人——那就是"尖酸刻薄"（acid comment）。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[alkali]]：碱（acid 的精确反义：酸↔碱）
 > - [[sweet]]：甜的（acid 的反义：酸↔甜）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **acid rain**：酸雨（考研高频搭配）
 > - **sulfuric acid**：硫酸
 > - **acid test**：严峻考验，决定性测试
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "High overhead in the carbon dioxide (CO2) that passes for air is a layer of clouds, perhaps 10 to 20 miles thick, whose little drops consist mostly of sulfuric acid (H2SO4)."（在充当空气的二氧化碳上方高空，有一层厚约10到20英里的云，其中的小液滴主要由硫酸组成——1990年考研英语阅读Text 2）
 > - "Sulfur dioxide, a major contributor to acid rain, is an especially serious pollutant because it diminishes the respiratory system's ability to deal with all other pollutants."（二氧化硫是酸雨的主要成因，是一种尤其严重的污染物，因为它削弱了呼吸系统应对所有其他污染物的能力——考研阅读环境话题高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

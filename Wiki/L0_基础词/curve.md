@@ -3,14 +3,12 @@ title: "curve"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 弯曲的（不是直线的形状）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kɜːv/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**弯曲的（非直线形状）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **弯曲的**（形状层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 curvus 意思是"弯曲的"。想象一条笔直的路突然弯了——那就是 curve（弯道）。股票的走势图画出来不是直线，而是弯弯曲曲的——那就是 curve（曲线图）。curve 和 curb 是同一个词源——弯曲的马勒（curb）也是弯的（curve）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[straight]]：直的（curve 的精确反义：弯曲↔笔直）
 > - [[line]]：直线（curve 的反义：曲线↔直线）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **learning curve**：学习曲线
 > - **sharp/gentle curve**：急弯/缓弯
 > - **growth curve**：增长曲线
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company needs to stay ahead of the curve in technological innovation."（公司需要在技术创新方面保持领先趋势——考研商业类话题高频表达）
 > - "The road has a dangerous curve ahead."（前方道路有一个危险的弯道——日常/驾驶语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

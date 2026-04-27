@@ -3,14 +3,12 @@ title: "furthermore"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 此外，而且（在已有论述基础上进一步补充）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌfɜːrðərˈmɔːr/"
 pos: adv.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ further（更进一步）+ more（更多）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**更进一步地补充**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **更进一步地补充**（论述层面）
@@ -62,7 +60,7 @@ further（更进一步）+ more（更多）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ further（更进一步）+ more（更多）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > further（更向前）+ more（更多）→ furthermore。写作文时最常用的递进连接词——"第一……第二……Furthermore（而且），第三……"
@@ -84,7 +82,7 @@ further（更进一步）+ more（更多）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ further（更进一步）+ more（更多）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[however]]：然而（furthermore 的论述反义：递进↔转折）
 > - [[nevertheless]]：尽管如此（furthermore 的论述反义：进一步补充↔让步转折）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,25 +112,21 @@ further（更进一步）+ more（更多）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Furthermore, ...**：此外，……（句首连接词）
 > - **furthermore and more importantly**：此外，更重要的是……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The internet has revolutionized communication. Furthermore, it has transformed the way we access information."（互联网彻底改变了通讯方式。此外，它还改变了我们获取信息的方式——考研写作高频句型）
 > - "Furthermore, the study found that stress levels were significantly higher in urban areas."（此外，研究发现城市地区的压力水平明显更高）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

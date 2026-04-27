@@ -3,14 +3,12 @@ title: "reject"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 往回扔→拒绝
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈdʒekt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(回) + [[ject]](投掷、扔)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**往回扔→拒绝**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **拒绝、拒收**（行为层面——不接受、扔回去）
@@ -65,7 +63,7 @@ re-(回) + [[ject]](投掷、扔)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(回) + [[ject]](投掷、扔)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 rejectus "扔回去"，由 re-(回) + jacere(投掷) 构成。想象有人给你一个烂苹果，你一把"扔回去"——这就是 reject。
@@ -89,7 +87,7 @@ re-(回) + [[ject]](投掷、扔)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ re-(回) + [[ject]](投掷、扔)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[accept]]：接受（拒绝 vs 接受）
 > - [[approve]]：批准（驳回 vs 批准）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,20 @@ re-(回) + [[ject]](投掷、扔)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reject a proposal/offer**：驳回提案/拒绝提议（The committee rejected the proposal.）
 > - **reject an appeal**：驳回上诉
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The committee rejected the proposal on the grounds that it was too costly and impractical."（委员会以成本过高且不切实际为由拒绝了该提案。）——考研高频表达
 > - "Many scientists rejected the traditional view that the Earth was the center of the universe."（许多科学家拒绝了地球是宇宙中心的传统观点。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

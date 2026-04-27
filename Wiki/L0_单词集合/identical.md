@@ -3,17 +3,14 @@ title: "identical"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 完全同一的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/aɪˈdentɪkl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全同一的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **完全同一的**（抽象层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ident（相同）+ -ic + -al = identical（完全相同的）。想象一对同卵双胞胎，他们的同一性（ident）太强了，看起来完全相同（identical），连父母都分不清。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[different]]：不同的（identical 是完全相同，different 是有差异）
 > - [[distinct]]：不同的，有区别的（identical 是无法区分，distinct 是可以区分）
 > - [[diverse]]：多样的，不同的（identical 是单一的相同，diverse 是多样的不同）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **identical to**：与……完全相同 — This copy is identical to the original.
 > - **identical twins**：同卵双胞胎 — The identical twins were separated at birth.
 > - **identical in**：在……方面完全相同 — The two proposals are identical in every respect.
@@ -132,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The symptoms of the two diseases are nearly identical, making diagnosis difficult."（考研英语——两种疾病的症状几乎完全相同）
 > - "Identical twins raised apart still show remarkable similarities in personality."（CET-6——分开抚养的同卵双胞胎仍显示惊人的相似性）
 > - "The two documents are identical in content."（CET-4——两份文件内容完全相同）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

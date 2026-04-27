@@ -3,17 +3,14 @@ title: "socialism"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 社会主义（制度/意识形态）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsəʊʃəlɪzəm/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: social
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**以社会整体利益为核心的制度**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **以社会整体利益为核心的制度**（政治经济制度层面）
@@ -61,7 +58,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > social（社会的）+ ism（主义）= 以社会为核心的主义 → 社会主义
@@ -83,7 +80,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +93,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[capitalism]]：资本主义（主张生产资料私有制和自由市场经济，与 socialism 的公有制主张相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **democratic socialism**：民主社会主义
   - Many European countries have adopted democratic socialism to some degree.（许多欧洲国家在某种程度上采用了民主社会主义。）
 > - **under socialism**：在社会主义制度下
@@ -126,22 +123,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The debate between capitalism and socialism has shaped political discourse for centuries."（资本主义与社会主义之间的辩论已经塑造了几个世纪的政治话语。）——考研高频表达
 > - "Many European countries adopted elements of socialism in their welfare systems after World War II."（许多欧洲国家在二战后的福利制度中采纳了社会主义元素。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

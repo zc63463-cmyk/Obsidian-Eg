@@ -3,14 +3,12 @@ title: "preserve"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 提前守卫
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/prɪˈzɜːv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ pre-(在……之前) + [[serv|serv]](保持/守卫) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**提前守卫**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **提前守卫**（物理层面的看守）
@@ -66,7 +64,7 @@ pre-(在……之前) + [[serv|serv]](保持/守卫) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ pre-(在……之前) + [[serv|serv]](保持/守卫) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre（提前）+ serve（服务/守卫）→ 提前守卫好珍贵的东西，就像故宫的文物修复师，在文物损坏之前就精心守护。
@@ -89,7 +87,7 @@ pre-(在……之前) + [[serv|serv]](保持/守卫) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ pre-(在……之前) + [[serv|serv]](保持/守卫) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[destroy]]：destroy表示"破坏、毁灭"，与preserve的"保护保存"直接对立
 > - [[abandon]]：abandon表示"放弃、遗弃"，与preserve的"守护保留"形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ pre-(在……之前) + [[serv|serv]](保持/守卫) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **preserve the environment**：保护环境
   > We must preserve the environment for future generations.（我们必须为后代保护环境。）
 > - **preserve one's dignity**：保持某人的尊严
@@ -130,20 +128,14 @@ pre-(在……之前) + [[serv|serv]](保持/守卫) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Traditionally, legal learning has been viewed in such institutions as the special preserve of lawyers, rather than a necessary part of the intellectual equipment of an educated person."（传统上，法律学习在这些机构中被视为律师的专属领域，而非受过教育的人的知识储备的必要组成部分。）——考研高频表达
 > - "It is highly important to preserve the environment."（保护自然环境至关重要。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

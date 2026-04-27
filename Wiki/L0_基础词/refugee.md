@@ -3,17 +3,14 @@ title: "refugee"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 逃到避难所的人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌrefjuˈdʒiː/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: refuge
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**逃到避难所的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **逃到避难所的人**（社会层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > refuge（避难所）+ ee（被庇护的人）→ 难民。战争爆发后，人们 flee（逃），seek refuge（寻求庇护），成为 refugee（难民），住在 refugee camp（难民营）里。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 暂无精确反义词（refugee 是特定社会身份）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +114,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **refugee camp**：难民营
 > - **refugee crisis**：难民危机
 > - **grant refugee status**：授予难民身份
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Failing states are of international concern because they are a source of terrorists, drugs, weapons and refugees, threatening political stability everywhere."（失败国家之所以引起国际关注，是因为它们是恐怖分子、毒品、武器和难民的来源，威胁着各地的政治稳定。——考研英语真题）
 > - "She was taking the food to the refugee camp, in which she distributed it to children."（她把食物送到难民营，在那里分发给孩子们。——考研英语真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

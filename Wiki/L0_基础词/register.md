@@ -3,14 +3,12 @@ title: "register"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 带回来记录（re-再 + gest-带 + -er工具）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈredʒɪstə/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**记录信息**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **记录信息**（行政层面）
@@ -73,7 +71,7 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（回）+ gest（带）→ 把信息带回来记录。你去学校 register（注册），就是把你的信息带回来写进登记簿。温度计 register（记录）30度，就是它把温度数据记录下来。Her face registered surprise（她脸上流露出惊讶），就是她的脸"记录"了惊讶。
@@ -96,7 +94,7 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deregister]]：注销登记（register 的精确反义：登记↔注销）
 > - [[erase]]：擦除（register 的反义：记录↔擦除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **register for**：注册（课程、活动等）
 > - **register to vote**：登记投票
 > - **cash register**：收银机
@@ -142,19 +140,15 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit."（只有当失业者带着简历来到就业中心，注册在线求职，并开始找工作时，他们才有资格领取救济金——2014年考研英语阅读Text 1）
 > - "The phrase 'to sign on' most probably means to register for an allowance from the government."（"to sign on"这个词组最可能指登记领取政府补贴——2014年考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

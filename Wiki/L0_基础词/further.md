@@ -3,14 +3,12 @@ title: "further"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 更远地（在空间或程度上向前推进）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈfɜːrðər/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ forth（向前）+ -er(比较级后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**更远地（向前推进）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **更远地**（空间层面）
@@ -70,7 +68,7 @@ forth（向前）+ -er(比较级后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ forth（向前）+ -er(比较级后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > forth（向前）+ er（更……）→ further。你走 further（更远），研究需要 further research（进一步研究），事业需要 further your career（推进你的事业）。further 就是"向前多走一步"。
@@ -94,7 +92,7 @@ forth（向前）+ -er(比较级后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ forth（向前）+ -er(比较级后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[closer]]：更近地（further 的空间反义：更远↔更近）
 > - [[hinder]]：阻碍（further 的动词反义：促进↔阻碍）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ forth（向前）+ -er(比较级后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **further discussion/research**：进一步的讨论/研究
 > - **further information**：更多信息
 > - **further one's career/education**：推进某人的事业/教育
@@ -132,19 +130,15 @@ forth（向前）+ -er(比较级后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We need to conduct further research before drawing any conclusions."（我们需要进行进一步的研究才能得出结论——考研高频表达）
 > - "The government should take further measures to reduce pollution."（政府应采取进一步措施减少污染）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

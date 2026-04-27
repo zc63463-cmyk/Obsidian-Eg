@@ -3,14 +3,12 @@ title: "refute"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 用证据打回去
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈfjuːt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(回) + [[fute|fute]](打击) → 打回去 → 驳斥
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用证据打回去**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **用证据打回去**（辩论层面：用事实证明对方错误）
@@ -64,7 +62,7 @@ re-(回) + [[fute|fute]](打击) → 打回去 → 驳斥
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ re-(回) + [[fute|fute]](打击) → 打回去 → 驳斥
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re-(回) + fute(打击，同源 beat) → 把对方的论点打回去 = 驳斥。
@@ -86,7 +84,7 @@ re-(回) + [[fute|fute]](打击) → 打回去 → 驳斥
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ re-(回) + [[fute|fute]](打击) → 打回去 → 驳斥
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[support]]：支持（与 refute 的"驳斥"形成反义）
 > - [[prove]]：证明（与 refute 的"证明不成立"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,28 +114,22 @@ re-(回) + [[fute|fute]](打击) → 打回去 → 驳斥
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **refute an argument/a claim**：驳斥论点/主张
 > - **refute the allegation**：驳斥指控
 > - **be refuted by evidence**：被证据驳倒
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The evidence refutes the claim that the company was aware of the product's defects before it was released."（证据驳斥了公司产品发布前就知道其缺陷的说法。）——考研高频表达
 > - "Critics have attempted to refute the theory, but their arguments have been largely unconvincing."（批评者试图反驳这一理论，但他们的论点大多缺乏说服力。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

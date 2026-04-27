@@ -3,14 +3,12 @@ title: "guide"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 引导方向
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɡaɪd/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引导方向**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **引导方向**（空间层面：带路、指引方向）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 在迷雾中，一个知道路的人走在前面为你指路——他就是 guide，引导你走出迷雾。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mislead]]：误导——引导到错误方向
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,28 +115,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **guide sb. through sth.**：The teacher guided the students through the complex problem.（老师引导学生解决了这个复杂问题。）
 > - **a tour guide**：We hired a local tour guide to show us around the city.（我们雇了一位当地导游带我们游览城市。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Parents should guide their children in making important life decisions rather than making decisions for them."（父母应指导孩子做出重要的人生决定，而不是替他们做决定。）——考研高频表达
 > - "The principles of fairness and justice should guide the formulation of public policy."（公平和正义的原则应指导公共政策的制定。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

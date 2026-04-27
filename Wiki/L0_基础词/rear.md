@@ -3,14 +3,12 @@ title: "rear"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 后面的（在背后/后方）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/rɪə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**后面的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **后面的**（空间层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rear 与 raise（举起）同源。你站在队伍的 rear（后面），通过 rear-view mirror（后视镜）看后面的车。父母 rear（抚养）孩子，就像把小树苗从后面"抬"起来，让它长高。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[front]]：前面（rear 的精确反义：后面↔前面）
 > - [[abandon]]：遗弃（rear"抚养"的反义：抚养↔遗弃）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the rear of**：……的后部
   - The main entrance is at the rear of the building.
 - **rear-view mirror**：后视镜
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Buick she was travelling in crashed into the rear of a tractor and went underneath it."（她乘坐的别克轿车撞上了一辆拖拉机的尾部并钻了进去。——常见新闻类语料）
 > - "You should keep your front and rear lights in good working order."（你应该保持前后灯处于良好工作状态。——常见交通安全类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

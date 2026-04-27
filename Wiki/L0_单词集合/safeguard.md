@@ -3,17 +3,14 @@ title: "safeguard"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 安全守卫、保护措施
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈseɪfɡɑːd/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: safe
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**安全守卫、保护措施**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **安全守卫**（物理层面）
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > safeguard = safe（安全）+ guard（守卫），复合词一目了然。想象宪法里写着一条条"安全守卫"条款——这就是 safeguard（保障条款）。记住 safe + guard = safeguard，不需要更多技巧。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[threaten]]：威胁（safeguard 的精确反义：保护↔威胁）
 > - [[endanger]]：危及（使处于危险中）
 > - [[vulnerability]]：脆弱性（保护↔脆弱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **safeguard against**：防范，预防（safeguard against disease / fraud）
 > - **legal / constitutional safeguards**：法律/宪法保障条款
 > - **safeguard one's rights / interests**：保护某人的权利/利益
@@ -131,7 +128,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We need stronger legal safeguards to protect consumers."（我们需要更有力的法律保障来保护消费者）——法律/社会话题
 > - "safeguard against potential risks"（防范潜在风险）——常见搭配
 > - "The constitution includes safeguards against abuse of power."（宪法包含防范权力滥用的保障条款）——政治/法律话题
@@ -139,15 +136,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

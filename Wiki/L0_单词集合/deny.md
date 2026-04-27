@@ -3,17 +3,14 @@ title: "deny"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 说不，拒绝承认
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/dɪˈnaɪ/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: nay
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**说不，拒绝承认**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **说不，拒绝承认**（言语层面）
@@ -61,7 +58,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > de-(否定) + ny(nay，不) → deny"否认"——对事实或请求坚定地说"不"。
@@ -84,7 +81,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +93,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[admit]]：承认（deny 是否认事实，admit 是承认事实）
 > - [[grant]]：给予（deny 是拒绝给予，grant 是准予给予）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **deny doing sth.**：否认做过某事
   - He **denied** having stolen the money.
 - **deny sb. sth.**：拒绝给予某人某物
@@ -125,21 +122,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The defendant **denied** all the charges brought against him.（被告否认了对他的所有指控。）
 > - It cannot be **denied** that education plays a crucial role in personal development.（不可否认，教育在个人发展中起着至关重要的作用。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

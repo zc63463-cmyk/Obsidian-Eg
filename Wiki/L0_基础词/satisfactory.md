@@ -3,17 +3,14 @@ title: "satisfactory"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 足够好的，能够满足要求的（达到基本标准的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌsætɪsˈfæktəri/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: satis
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**足够好的，达到要求的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **做得足够好**（评价层面）
@@ -62,7 +59,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > satisfactory = satis（足够）+ fac（做）+ -tory（形容词后缀）= 做得足够好 = 令人满意的。核心画面是"老师批改试卷，写上' satisfactory'——及格了，达标了"。注意 satisfactory 的微妙之处：它暗示"达标但不出色"。a satisfactory answer = 一个令人满意的回答（够了，但不是完美答案）。对比：satisfactory（事物令人满意）vs [[satisfied]]（人感到满意）。
@@ -84,7 +81,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +94,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unsatisfactory]]：不令人满意的（satisfactory 的精确反义）
 > - [[inadequate]]：不充分的（satisfactory 的反义：达标↔不达标）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a satisfactory result / outcome**：令人满意的结果
 > - **a satisfactory explanation**：令人满意的解释
 > - **far from satisfactory**：远不能令人满意
@@ -124,19 +121,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company's financial performance this year has been satisfactory, though it still falls short of the board's expectations."（公司今年的财务表现令人满意，尽管仍未达到董事会的期望——考研阅读商业话题相关表达）
 > - "The researchers acknowledged that the current evidence is far from satisfactory and called for more rigorous studies to confirm the findings."（研究人员承认目前的证据远不能令人满意，并呼吁进行更严格的研究来确认这些发现——考研阅读学术话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

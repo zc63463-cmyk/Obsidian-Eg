@@ -3,14 +3,12 @@ title: "send"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使某物前往某处
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/send/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使某物前往某处**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使某物前往某处**（空间层面：物理移动）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古代信使骑马穿越千里，把国王的命令"送"到远方——send 就是最原始的"使移动到远处"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[receive]]：收到——send 的直接反义词
 > - [[keep]]：保留——不发送出去
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,29 +116,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **send for**：Please send for a doctor immediately.（请立刻派人去请医生。）
 > - **send out**：The company sent out a press release about the new product.（公司发布了关于新产品的新闻稿。）
 > - **send off**：We gathered at the station to send him off.（我们聚集在车站为他送行。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government sent a team of experts to assess the damage caused by the earthquake."（政府派出了一个专家小组去评估地震造成的损失。）——考研高频表达
 > - "Sending children to preschool has been shown to improve their social and cognitive development."（送孩子上幼儿园已被证明有助于提高他们的社交和认知发展。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

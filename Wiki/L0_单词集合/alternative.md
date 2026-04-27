@@ -3,17 +3,14 @@ title: "alternative"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 可供选择的、替代的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɔːlˈtɜːrnətɪv/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: alter
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可供选择的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可供选择的**（选择关系层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > alter（另一个）+ native → "另一个"可用的东西 → 替代方案。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[standard]]：标准的、常规的（与"另类的"相反）
 > - [[conventional]]：传统的（与"非传统的"相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have no alternative but to do sth.**：别无选择只能做某事
   - We had no alternative but to cancel the meeting.（我们别无选择，只能取消会议。）
 - **alternative energy**：替代能源
@@ -129,20 +126,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Faced with declining sales, the company sought alternative strategies to remain competitive.（面对销量下降，公司寻求替代策略以保持竞争力。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

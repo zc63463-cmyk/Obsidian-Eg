@@ -3,14 +3,12 @@ title: "button"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 小圆扣（衣服上的扣子）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈbʌtn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小圆扣（花蕾形状的小东西）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **小圆扣**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > button 来自古法语 boton（花蕾），因为纽扣的形状像一个小花苞。衣服上的纽扣就像一朵朵还没开放的小花——button。后来机器上可以按下去的小圆片也叫 button，因为形状和功能类似——按下它就能"扣合"一个电路。button up（扣好扣子）在口语中引申为"搞定、完成"——everything is buttoned up。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[zip]]：拉链（button 的反义：纽扣↔拉链，都是衣服闭合方式）
 > - [[unbutton]]：解开纽扣（button 的反义：扣紧↔解开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **press/push the button**：按按钮
 > - **button up**：扣好扣子；完成，搞定
 > - **on the button**：准确地，正中目标
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Just press the button and the machine will start automatically."（只需按下按钮，机器就会自动启动——考研常见表达）
 > - "She buttoned up her coat against the cold wind."（她扣好外套抵御寒风）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

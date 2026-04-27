@@ -3,14 +3,12 @@ title: "spot"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 一个小点，一个具体的地点
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/spɒt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一个小点，一个具体的地点**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **小点/地点**（空间层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spot 的核心画面是"衣服上有一个小污点——一个具体的小位置"。spot = 一个小点。衣服上的污点叫 spot，地图上的地点也叫 spot。从"一个具体的点"引申出"认出"——spot someone = 在人群中"定位"到某个人。on the spot（当场）= 在那个具体的地点 = 立即。hit the spot（正中下怀）= 正好击中那个"点"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[miss]]：错过（spot"认出"义的反义：发现↔错过）
 > - [[overlook]]：忽略（spot"发现"义的反义：发现↔忽略）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on the spot**：当场，在现场
 > - **spot someone**：认出某人
 > - **scenic spot**：景点
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Researchers have spotted a significant correlation between prolonged screen time and declining mental health among adolescents, prompting calls for stricter regulations on social media usage."（研究人员发现了长时间使用屏幕与青少年心理健康下降之间的显著相关性，这引发了对社交媒体使用实施更严格监管的呼声——考研阅读科技与健康话题相关表达）
 > - "The on-the-spot investigation revealed that the factory had been illegally discharging toxic waste into the river for years, causing severe environmental damage to the surrounding ecosystem."（现场调查发现，该工厂多年来一直在向河流非法排放有毒废物，对周边生态系统造成了严重的环境破坏——考研阅读环保话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

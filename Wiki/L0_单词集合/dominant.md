@@ -3,14 +3,12 @@ title: "dominant"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 统治的、支配的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈdɒmɪnənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**统治的、支配的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **统治的、支配的**（社会权力层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一位国王站在城堡最高处俯瞰全境——他就是dominant的那个人，统治一切、占绝对优势。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subordinate]]：从属的、下级的（权力关系的反面）
 > - [[recessive]]：隐性的（基因层面，与显性 dominant 相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dominant position**：占支配地位的地位
 > - **dominant species**：优势物种
 > - **dominant factor**：主导因素
@@ -125,21 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Third, they now dominate left-of-centre politics."（第三，他们现在主导着左翼政治。）——考研真题阅读
 > - "English has become the dominant language of international communication."（英语已成为国际交流的主导语言。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

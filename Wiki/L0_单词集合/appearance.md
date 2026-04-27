@@ -3,14 +3,12 @@ title: "appearance"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 出现到视野中
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈpɪərəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**出现到视野中**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **出现到视野中**（空间层面）
@@ -66,7 +64,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象舞台幕布拉开，演员出现在聚光灯下——那一刻你看到的他的样子就是 appearance。从"出现"到"露面"再到"外表"，appearance 记录的就是"呈现给眼睛的那个样子"。
@@ -89,7 +87,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disappearance]]：消失，不见（appearance 的精确反义：出现↔消失）
 > - [[reality]]：现实，本质（外表↔内在本质，Don't judge by appearance）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make an appearance**：出场，露面（The actor made a brief appearance on stage.）
 > - **judge by/from appearance**：以貌取人（We shouldn't judge people by appearance.）
 > - **outward appearance**：外表，外部特征（The outward appearance of the building is impressive.）
@@ -130,20 +128,14 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The industry has changed greatly with the appearance of new technologies."（新技术问世后，这一行业出现了天翻地覆的变化。）——考研高频表达
 > - "It was his first public appearance since the election."（这是选举后他首次公开露面。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

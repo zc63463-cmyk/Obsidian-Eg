@@ -3,14 +3,12 @@ title: "revelation"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 被揭示的事物
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌrevəˈleɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被揭示的事物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **被揭示的事物**（信息层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > reveal（揭示）+ -ation（名词后缀）→ 揭示的结果 → 被揭露的事实、启示
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - concealment：隐藏（revelation 是揭露，concealment 是隐藏）
 > - cover-up：掩盖（revelation 是揭露，cover-up 是掩盖）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a shocking revelation**：令人震惊的揭露（The report contained a shocking revelation about the company's financial practices. 报告中包含关于公司财务做法的令人震惊的揭露。）
 > - **a revelation to sb.**：对某人的启示（The trip to Japan was a revelation to her. 日本之行对她来说是一次启示。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Allen's contribution was to take an assumption we all share and reveal its erroneous nature."（艾伦的贡献在于拿出一个我们都认同的假设，并揭示其错误的本质。）——2011考研英语一翻译
 > - "The revelation that the company had been hiding financial losses shocked investors."（公司一直隐瞒财务亏损的消息被揭露后震惊了投资者。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

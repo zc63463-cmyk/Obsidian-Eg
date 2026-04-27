@@ -3,14 +3,12 @@ title: "profit"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 向前带来
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈprɒfɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前带来好处**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向前带来好处**（商业活动的核心目的）
@@ -68,7 +66,7 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（向前）+ fit（做）→ 向前做好事→ 带来利润。想象一个商人把货物推到市场前方，换回满满一袋金币。
@@ -91,7 +89,7 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[loss]]：loss表示"损失、亏损"，与profit"利润、收益"直接对立
 > - [[deficit]]：deficit表示"赤字、逆差"，与profit"盈余"形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make a profit**：获得利润
   > The company made a substantial profit last year.（公司去年获得了可观的利润。）
 > - **profit from**：从……中获益
@@ -133,19 +131,15 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit."（甚至连身处全球行业最困难角落的美国报纸也不仅存活了下来，而且经常恢复盈利——2011年考研Text 2）
 > - "Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits."（事实证明，将孩子或成人分成更小的类别一定能提高利润——2012年考研二阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

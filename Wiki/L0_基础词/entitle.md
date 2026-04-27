@@ -3,14 +3,12 @@ title: "entitle"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 给予标题/权利（赋予名称或资格）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ɪnˈtaɪtl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**给予标题/权利**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **给予标题**（命名层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > entitle = en（使成为）+ title（标题/权利）= 使拥有标题/权利。核心画面：中世纪的领主授予农民一份 title（地契），这份文件上写着标题和内容——拥有它就意味着拥有权利。所以 entitle 从"给标题"延伸到"给权利"。考研中最常考的是被动用法 be entitled to（有权做某事）。Employees are entitled to paid annual leave（员工有权享受带薪年假）。She entitled her autobiography 'Breaking Free'（她把自传命名为《挣脱束缚》）。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deny]]：拒绝，否认（entitle 的精确反义：赋予权利↔拒绝权利）
 > - [[deprive]]：剥夺（entitle 的反义：赋予权利↔剥夺权利）
 > - [[disqualify]]：取消资格（entitle 的反义：给予资格↔取消资格）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be entitled to (do) something**：有权（做）某事
 > - **be entitled to something**：有权获得某物
 > - **entitle someone to do something**：使某人有权做某事
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All employees are entitled to a minimum of four weeks of paid leave per year, according to the new labor law."（根据新劳动法，所有员工每年有权享受至少四周的带薪休假——考研阅读法律话题）
 > - "The author entitled her latest book 'The Future of Work', which explores how technology is transforming the workplace."（作者将她最新的书命名为《工作的未来》，探讨了技术如何改变工作场所——考研阅读科技话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

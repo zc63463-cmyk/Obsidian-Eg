@@ -3,14 +3,12 @@ title: "fascinate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 施咒迷惑，使人无法移开目光
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈfæsɪneɪt/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**施咒迷惑，使人无法移开目光**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **施咒迷惑**（原始巫术层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fascinate 的祖先是一个**黑暗的巫师**——拉丁语 fascinum 就是"邪术、咒语"的意思。巫师施咒让你**着魔**，后来这个词"洗白"了，变成了光明正大的"**强烈吸引**"。一本好书让你手不释卷，一个精彩的观点让你深思——你就像被施了咒一样**着迷**（fascinated）。记住：fascinate = 施咒般地迷住。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bore]]：使厌烦（fascinate 的精确反义：迷住 ↔ 使厌烦）
 > - [[repel]]：使反感，排斥（吸引的反义）
 > - [[disgust]]：使厌恶（着迷的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be fascinated by/with sth.**：被……迷住，对……着迷
 > - **a fascinating story/book**：引人入胜的故事/书
 > - **fascinate the audience**：吸引观众
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Children are fascinated by the natural world."（孩子们对自然界着迷）——考研阅读常见语境，描述教育、心理话题
 > - "The findings of the study are fascinating."（这项研究的结果令人着迷）——学术类阅读中评价研究价值
 > - "She was fascinated with the idea of exploring space."（她对探索太空的想法着迷）——科技类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

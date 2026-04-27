@@ -3,14 +3,12 @@ title: "sting"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 刺，叮（用尖锐物刺入皮肤）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stɪŋ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**刺，刺入**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **刺入**（物理层面）
@@ -69,7 +67,7 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sting 和 [[stim-sting]]（刺、刺激）同源。被蜜蜂 sting（蜇）了一下，皮肤立刻传来一阵 sting（刺痛）。更厉害的是话语的 sting（刺痛）——一句"你不够好"比蜜蜂还疼。失败的 sting（打击）让你整夜睡不着。sting 的本质就是"尖锐之物刺入"——无论它是毒刺、痛感、话语还是命运。
@@ -92,7 +90,7 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[soothe]]：抚慰，缓解（sting 的精确反义：刺痛↔抚慰）
 > - [[comfort]]：安慰（sting 的反义：精神刺痛↔安慰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the sting of**：……的刺痛/打击（the sting of rejection, the sting of failure）
 > - **sting sb. with**：用……刺痛某人（She was stung by his harsh criticism.）
 > - **a sting in the tail**：意想不到的麻烦（坏事的结尾还有更糟的）
@@ -132,19 +130,15 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The sting of rejection can be particularly painful for young job seekers."（被拒绝的打击对年轻的求职者来说可能格外痛苦）
 > - "His harsh words still sting, even after all these years."（即使过了这么多年，他那些刺耳的话仍然让人心痛）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

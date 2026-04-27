@@ -3,14 +3,12 @@ title: "residence"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 居住，住所
-extension_dim: 定居状态
+extension_dim: [定居状态]
 phonetic: "/ˈrezɪdəns/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**居住/住所**"为统筹中心，沿定居状态向外扩展：
 >
 > 1. **坐下来的地方**（空间层面）
@@ -66,7 +64,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > residence = re-（回）+ sid（坐，[[st-sta-stat]]）+ -ence（名词后缀）= "坐下来的地方"→ 住所。想象一个人旅行后回到自己的家坐下——那就是他的 residence。take up residence = 定居（开始"坐下来"）。residence permit = 居住许可（允许你"坐下来"的证件）。permanent residence = 永久居留。residence 和 [[resident]]（居民）是同一词族：resident = 坐下来的人，residence = 坐下来的地方。与 [[president]]（总统）也同源——president = 坐在前面的人。
@@ -88,7 +86,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[absence]]：缺席（residence 居住的反义：居住↔缺席）
 > - [[departure]]：离开（residence 定居的反义：定居↔离开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take up residence (in)**：在……定居
 > - **permanent residence**：永久居留
 > - **residence permit**：居住许可
@@ -132,19 +130,15 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Foreign nationals must obtain a residence permit if they wish to stay in the country for more than six months."（外国公民如果想在该国停留超过六个月，必须获得居住许可。——考研英语阅读法律类话题，residence permit 高频表达）
 > - "The ambassador took up residence in the newly built embassy compound last month."（大使上个月在新落成的使馆大院里住了下来。——考研英语阅读外交类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

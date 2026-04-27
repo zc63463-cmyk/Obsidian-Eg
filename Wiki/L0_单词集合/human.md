@@ -3,14 +3,12 @@ title: "human"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 泥土造的（来自拉丁语 homo，与 humus"泥土"同源）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈhjuːmən/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ hum-/homo-(=人，泥土，拉丁语 *homo* / *humus*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**泥土造的存在（人）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **泥土造的存在**（本体层面）
@@ -71,7 +69,7 @@ hum-/homo-(=人，泥土，拉丁语 *homo* / *humus*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ hum-/homo-(=人，泥土，拉丁语 *homo* / *humus*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *humus* 是"泥土"，*homo* 是"人"——上帝用泥土捏出了人，所以 human 的底层意象是"泥土造的存在"。正因为是泥土造的，所以人既有泥土的温暖（有人性、通人情），也有泥土的脆弱（易犯错、有缺点）。To err is human（人非圣贤孰能无过）——犯错是泥土造的存在不可避免的宿命。
@@ -94,7 +92,7 @@ hum-/homo-(=人，泥土，拉丁语 *homo* / *humus*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ hum-/homo-(=人，泥土，拉丁语 *homo* / *humus*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inhuman]]：不人道的，残忍的（human 的反义：有人性的 vs 无人性的）
 > - [[machine]]：机器（human 的反义：人 vs 机器）
 > - [[animal]]：动物（human 的反义：人 vs 动物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ hum-/homo-(=人，泥土，拉丁语 *homo* / *humus*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **human nature**：人性
 > - **human rights**：人权
 > - **human error**：人为错误
@@ -137,23 +135,15 @@ hum-/homo-(=人，泥土，拉丁语 *homo* / *humus*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is no doubt that gardens evidence an impossible urge to create, express, fashion, and beautify and that self-expression is a basic human urge."（毫无疑问，花园证明了一种不可遏制的创造、表达、塑造和美化的冲动，而自我表达是人类的一种基本冲动。——2013年考研英语一翻译）
 > - "To err is human, to forgive divine."（人非圣贤，孰能无过。——谚语，考研写作常用）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

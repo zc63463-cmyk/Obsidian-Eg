@@ -3,14 +3,12 @@ title: "mobile"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 可移动的（能够自由移动的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈməʊbaɪl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可移动的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **可移动的**（物理空间层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mob（移动）+ ile（能……的）→ 能移动的。你的 mobile phone（手机）能随身移动，mobile library（流动图书馆）能在城市间移动，upwardly mobile（社会地位上升的）人能在阶层间移动。记住：mobile = 能移动的。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[static]]：静态的，固定的（mobile↔static：移动↔静止）
 > - [[stationary]]：不动的，静止的（mobile↔stationary：移动↔固定不动）
 > - [[immobile]]：不能移动的（mobile 的直接否定形式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mobile phone**：手机
 > - **social mobility**：社会流动性
 > - **mobile workforce**：流动劳动力
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The rise of mobile technology has transformed the way we communicate and access information."（移动技术的兴起改变了我们交流和获取信息的方式。）
 > - "Social mobility in the United States has declined in recent decades."（近几十年来美国的社会流动性有所下降。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

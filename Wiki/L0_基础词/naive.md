@@ -3,14 +3,12 @@ title: "naive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 天生的、自然的（像刚出生一样未经雕琢）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/naɪˈiːv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**天生的、自然的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **刚出生的**（生物层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > naive = 拉丁语 *nativus*（出生的、天然的）= 刚出生的 = 天真的。与 [[nat-nasc]] 词根同源，[[nature]]（自然）、[[native]]（天生的）都是"兄弟词"。一个刚出生的婴儿对世界一无所知——这就是 naive 的原始画面。拼写中的分音符（ï）是法语遗迹，提醒我们这个词来自法语。naive optimism = 天真的乐观主义。It is naive to assume... = 假设……是幼稚的。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sophisticated]]：老练的，世故的（naive 的精确反义：天真↔世故）
 > - [[experienced]]：有经验的（naive 的反义：幼稚↔有经验）
 > - [[cynical]]：愤世嫉俗的（naive 的反义：轻信↔多疑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **naive view / approach**：天真的观点/方法
 > - **naive optimism**：天真的乐观主义
 > - **it is naive to assume**：假设……是幼稚的
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It would be naive to assume that technological progress alone can solve the deep-rooted social problems that have accumulated over decades."（认为仅靠技术进步就能解决几十年来积累的根深蒂固的社会问题，这种想法未免天真——考研阅读科技社会话题相关表达）
 > - "The researchers adopted a naive approach to data collection, failing to account for numerous confounding variables that could have skewed their results."（研究人员在数据收集方面采取了简单粗暴的方法，未能考虑到可能使结果产生偏差的众多混杂变量——考研翻译科研方法话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

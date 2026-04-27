@@ -3,17 +3,14 @@ title: "certain"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 确定的，分辨清楚的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɜːtn/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**确定的，分辨清楚的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **确定的，分辨清楚的**（认知状态层面）
@@ -68,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > certain 来自拉丁语 certus，意思是"被分辨清楚的"。想象考试时你看到一道题，你百分之百确定答案，毫不犹豫地写下来——这种"毫无疑问"的感觉就是 certain。
@@ -92,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[uncertain]]：不确定的（直接否定，certain 加 un- 前缀）
 > - [[doubtful]]：怀疑的（语义对立，对某事持怀疑态度）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be certain of/about**：对...确定
 > - **be certain that...**：确信...
 > - **for certain**：肯定地、确实地
@@ -134,21 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I am certain that this approach will yield positive results."（我确信这种方法会产生积极的结果）——考研阅读常见表达
 > - "A certain amount of risk is inevitable in any investment."（任何投资都不可避免地存在一定风险）——a certain 的典型用法
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "bomb"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 炸弹（爆炸性武器）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/bɒm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**炸弹**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **炸弹**（物理层面）
@@ -69,7 +67,7 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bomb 来自希腊语 bombos（轰鸣声），就是炸弹爆炸的声音——bomb！投弹轰炸——bomb the target。考试考砸了——I bombed the test（像被炸弹炸了一样）。但 bomb 也可以是好的——go like a bomb（飞速进行），business is bombing（生意火爆）。
@@ -92,7 +90,7 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - bomb 作为武器无精确反义词，但在"成功↔失败"维度上与 [[succeed]] 相对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bomb the target/city**：轰炸目标/城市
 > - **a nuclear bomb**：核弹
 > - **go like a bomb**：飞速进行
@@ -132,19 +130,15 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The threat of terrorist bombing has become a major concern for governments worldwide."（恐怖分子炸弹袭击的威胁已成为全球各国政府关注的主要问题。——考研阅读高频表达）
 > - "The country was heavily bombed during the war, causing widespread destruction."（该国在战争期间遭到猛烈轰炸，造成了广泛的破坏。——考研翻译类例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

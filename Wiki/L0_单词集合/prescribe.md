@@ -3,14 +3,12 @@ title: "prescribe"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 开处方、规定
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/prɪˈskraɪb/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**事先写好（规定/指示）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **事先写好（规定/指示）**（权威层面——写好规则让别人遵守）
@@ -69,7 +67,7 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre（在……之前）+ scrib（写，如 describe 描述、inscribe 铭刻）= 事先写好 → prescribe（规定/开处方）。医生在你吃药之前先写好药方，就是 prescribe。
@@ -91,7 +89,7 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[proscribe]]：禁止（与 prescribe 的"规定"对立，注意拼写相似）
 > - [[forbid]]：禁止
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,27 +120,21 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **prescribe medicine/drugs**：开药
 > - **prescribed rules**：规定的规则
 > - **prescribe a course of treatment**：规定治疗方案
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The law prescribes strict standards for food safety."（法律对食品安全规定了严格的标准。）——2016年阅读Text3
 > - "We should not presume that all consumers share the same preference."（我们不该擅自认定所有消费者都拥有相同的偏好。）——2017年阅读Text2
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "manipulate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 用手操作一小把东西
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/məˈnɪpjuleɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手操作一小把东西**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用手操作一小把东西**（物理操作层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > manipulate 来自拉丁语 manipulus = manus（手）+ plere（填满）= "手能握满的一把"。想象药剂师**手握一把**药材，精心**调配**药物——这就是 manipulate。后来这个"用手操作"的动作延伸到了一切领域：科学家**操控**数据，政客**操纵**舆论，骗子**摆布**人心。从药房到政坛，核心动作不变——用手中的技巧操控对象。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视（manipulate 作为"操控/处理"的反义：操控↔忽视）
 > - [[mislead]]：误导（manipulate 作为"暗中操纵"的反义——两者都含贬义，但方向不同：操控方向 vs 错误引导）
 > - [[surrender]]：放弃控制（manipulate 作为"控制"的反义：控制↔放弃）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **manipulate data/information**：操纵/处理数据/信息
 > - **manipulate public opinion**：操纵舆论
 > - **manipulate people**：摆布他人
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "manipulate public opinion through social media"（通过社交媒体操纵舆论）——考研阅读科技/社会类话题
 > - "the ability to manipulate data effectively"（有效处理数据的能力）——技术/研究类阅读
 > - "politicians manipulate voters' emotions"（政客操纵选民情绪）——政治类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

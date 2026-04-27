@@ -3,17 +3,14 @@ title: "despair"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 完全失去希望
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dɪˈspeə(r)/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: sper
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全失去希望**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **没有希望**（心理状态层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > despair = de（没有）+ sper（希望）。de- 就是"去掉"，sper 就是"sperare"（希望）。你 de（去掉）了所有的 sper（希望），就陷入了 despair（绝望）。Never despair（永不绝望）= 永远不要 de（去掉）你的 sper（希望）。prospER（繁荣）也有 sper（希望）——有希望就会繁荣。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hope]]：希望（despair 的精确反义：绝望↔希望）
 > - [[despair]] vs [[prosper]]：绝望↔繁荣（同词根 sper 的反义延伸）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in despair**：绝望地
 > - **drive somebody to despair**：使某人绝望
 > - **despair of**：对……感到绝望
@@ -128,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many people in the region live in despair due to extreme poverty."（该地区的许多人因极度贫困而生活在绝望中）
 > - "She despaired of ever finding a solution to the problem."（她对找到问题的解决方案感到绝望）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

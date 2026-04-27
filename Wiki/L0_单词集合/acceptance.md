@@ -3,14 +3,12 @@ title: "acceptance"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 接收到自己手中
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əkˈseptəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**接收到自己手中**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **接收到自己手中**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > accept 的核心是 ad（朝向）+ capere（拿取）→ "拿向自己"。想象你伸出手，把别人递来的礼物**拿向自己**，这就是 accept；而 acceptance 就是"已经拿过来"的那个状态。从收下一份礼物，到认可一个观点，再到接纳一个人——都是把外界的东西"纳入自己"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rejection]]：拒绝（不接受）——acceptance 的精确反义：接纳 vs 拒绝
 > - [[denial]]：否认（不承认）——心理层面的反义：承认事实 vs 否认事实
 > - [[exclusion]]：排斥（不接纳）——社会层面的反义：纳入群体 vs 排除在外
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gain/win acceptance**：获得认可/接受
 > - **social acceptance**：社会认同/社会接纳
 > - **widespread/general acceptance**：广泛/普遍接受
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "gain widespread acceptance"（获得广泛认可）——考研阅读常见搭配，描述理论或观点被接受的过程
 > - "social acceptance"（社会认同）——社会学类阅读高频搭配
 > - "the acceptance of new technology"（新技术的被接受）——科技类阅读常见语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

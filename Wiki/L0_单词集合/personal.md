@@ -3,17 +3,14 @@ title: "personal"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 个人的/私人的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpɜːsənl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: son
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**个人的/私人的**"为统筹中心，沿**社会路径**向外扩展：
 >
 > 1. **个人的/私人的**（归属层面：属于特定个体而非公共的）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > personal 来自 person（人）+ -al（形容词后缀）。属于某个"人"的就是 personal（个人的）。personal computer 是"个人电脑"，personal letter 是"私人信件"——都是"属于你自己的"。
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +93,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[public]]：公共的、公众的（与 personal 的"私人的"义相对）
 > - [[impersonal]]：非个人的、客观的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **personal information/data**：个人信息/数据
   - Protecting personal data has become a major concern.（保护个人数据已成为一个重大关切。）
 > - **in person**：亲自
@@ -125,22 +122,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Personal data protection has become a major concern in the digital age."（个人数据保护已成为数字时代的一大关注点。）——考研高频表达
 > - "The decision was based on personal judgment rather than objective evidence."（这个决定是基于个人判断而非客观证据做出的。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

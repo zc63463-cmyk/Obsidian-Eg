@@ -3,14 +3,12 @@ title: "investment"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 投入资源的产物或行为
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈvestmənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**投入资源的产物或行为**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **投入资源的产物或行为**（经济层面）
@@ -68,7 +66,7 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > investment 是 invest 的名词形式。想象你把一笔钱"穿"在一家创业公司身上——这笔钱就是你的 investment（投资）。再想象一位母亲花了十年时间培养孩子——这十年的付出就是她在孩子身上的 investment（投入）。investment 的本质就是"投入的结晶"，无论是金钱还是时间，投入后都变成了一笔"投资"。
@@ -93,7 +91,7 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[divestment]]：撤资（投资↔撤资）
 > - [[loss]]：损失（投资的反面结果）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make an investment**：进行投资（She made a significant investment in real estate.）
 > - **foreign investment**：外国投资（The country attracted substantial foreign investment.）
 > - **return on investment (ROI)**：投资回报率（The return on investment has been disappointing.）
@@ -132,21 +130,15 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research."（要求公司实现高季度利润的短期投资者可能会阻碍公司投资长期研究的努力。）——考研真题阅读
 > - "Government investment in education has increased significantly over the past decade."（过去十年中，政府对教育的投入显著增加。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

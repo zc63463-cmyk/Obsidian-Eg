@@ -3,14 +3,12 @@ title: "colony"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 耕种的定居地（农民在新土地上开垦的定居点）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ˈkɒləni/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**耕种的定居地**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **耕种的定居地**（农业层面）
@@ -66,7 +64,7 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > colony 源自拉丁语 *colere*（耕种）→ *colonia*（耕种的定居点）→ 殖民地。核心画面：古罗马农民来到新土地，开始耕种、建立家园——这就是 colony。后来欧洲列强把同样的模式搬到海外，colony 变成了"殖民地"。India was once a British colony（印度曾是英国的殖民地）。在生物学中，a colony of penguins（一群企鹅）也用 colony——因为它们像一个小型定居点一样聚居在一起。colony 的核心始终是"一群生物聚集生活的地方"。
@@ -88,7 +86,7 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[metropolis]]：宗主国（colony 的精确反义：殖民地↔宗主国）
 > - [[independence]]：独立（colony 的反义：被殖民↔独立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **former colony**：前殖民地
 > - **a colony of ants/bees**：一群蚂蚁/蜜蜂
 > - **establish/found a colony**：建立殖民地
@@ -131,19 +129,15 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "India, once the jewel in the crown of the British Empire, gained independence in 1947 after nearly two centuries of colonial rule."（印度，曾是大英帝国皇冠上的明珠，在近两个世纪的殖民统治后于1947年获得独立——考研阅读历史话题）
 > - "A colony of bacteria was found to thrive in the extreme conditions of the deep ocean vents."（人们发现在深海热泉的极端条件下有一群细菌繁衍生息——考研阅读科学话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

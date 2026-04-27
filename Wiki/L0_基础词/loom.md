@@ -3,14 +3,12 @@ title: "loom"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 隐约显现（在视野中朦胧出现）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/luːm/"
 pos: vi.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**隐约显现**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **隐约显现**（视觉层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > loom 原指织布机。想象你站在海边，远处一团巨大的乌云像在织布机上慢慢织出来一样，越来越清晰、越来越近——it looms on the horizon（它在地平线上隐约显现）。loom large（赫然耸现/显得突出）是考研高频表达。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[vanish]]：消失（loom 的反义：显现↔消失）
 > - [[fade]]：褪色，逐渐消失（loom 的反义：隐约出现↔逐渐消失）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **loom large**：赫然耸现；显得突出（考研高频）
 > - **loom on the horizon**：在地平线上隐约出现
 > - **loom ahead**：在前方逼近
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The threat of climate change looms large over the entire world."（气候变化的威胁笼罩着整个世界——考研阅读高频表达）
 > - "Another economic crisis is looming on the horizon."（又一场经济危机正在逼近——考研经济类阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

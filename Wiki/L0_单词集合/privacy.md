@@ -3,14 +3,12 @@ title: "privacy"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 个人的状态
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈprɪvəsi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**个人的状态**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **个人的状态**（社会层面：从公共领域中分离）
@@ -67,7 +65,7 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 在古罗马，**个人的**（priv）事务与公共事务严格分开——关上自家大门的那一刻，**隐私**（privacy）就诞生了。
@@ -91,7 +89,7 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[publicity]]：公开，公众关注（隐私→公开）
 > - [[exposure]]：暴露，曝光（私密→暴露）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **invade one's privacy**：侵犯某人的隐私
 >   The paparazzi were accused of invading the celebrity's privacy.（狗仔队被指控侵犯了这位名人的隐私。）
 > - **protect privacy**：保护隐私
@@ -134,22 +132,14 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The protection of online privacy has become one of the most pressing issues in the digital age."（在线隐私保护已成为数字时代最紧迫的问题之一。）——考研高频表达
 > - "Many consumers are concerned that their personal data is being collected and used without their knowledge or consent."（许多消费者担心他们的个人数据在未经其知情或同意的情况下被收集和使用。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

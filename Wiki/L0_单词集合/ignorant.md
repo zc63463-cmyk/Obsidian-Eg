@@ -3,14 +3,12 @@ title: "ignorant"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 不知道的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɪɡnərənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不知道的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不知道的**（认知层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ignorant 是 ignore（忽视）的形容词形式——长期忽视学习的人就会变得 **ignorant**（无知的）。拉丁语 *in-*（不）+ *gnarus*（知道）= "不知道的"。想象一个人在聚会上说了一句**因为不了解文化差异而显得粗鲁**的话——他不是故意的，只是 ignorant。记住：ignorant 不等于 stupid（愚蠢），它只是"不知道"，是可以改变的。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[knowledgeable]]：有知识的（ignorant 的精确反义：无知↔有知识）
 > - [[aware]]：意识到的（ignorant 在认知层面的反义）
 > - [[educated]]：受过教育的（ignorant 在教育层面的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be ignorant of/about sth.**：对某事不了解
 > - **an ignorant person/remark**：无知的人/言论
 > - **culturally ignorant**：在文化方面无知的
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many people are ignorant of their legal rights."（许多人不了解自己的合法权利）——考研阅读/翻译高频句式
 > - "an ignorant remark"（无知的言论）——考研阅读常见搭配
 > - "ignorant of the consequences"（不了解后果）——考研阅读社会/政策类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

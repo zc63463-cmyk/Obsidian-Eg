@@ -3,14 +3,12 @@ title: "suppress"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 从下方压住→压制
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/səˈpres/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ sup-(=sub-，从下方) + press(压) → 从下方压住 → 压制
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从下方压住**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从下方压住**（物理层面——向下施压）
@@ -66,7 +64,7 @@ sup-(=sub-，从下方) + press(压) → 从下方压住 → 压制
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ sup-(=sub-，从下方) + press(压) → 从下方压住 → 压制
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > sup-(从下) + press(压) → 从下方压住 → 压制
@@ -90,7 +88,7 @@ sup-(=sub-，从下方) + press(压) → 从下方压住 → 压制
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ sup-(=sub-，从下方) + press(压) → 从下方压住 → 压制
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - express：表达（suppress 是压抑，express 是表达=向外压出）
 > - encourage：鼓励（suppress 是压制，encourage 是鼓励）
 > - release：释放（suppress 是压制，release 是释放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,28 +122,22 @@ sup-(=sub-，从下方) + press(压) → 从下方压住 → 压制
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **suppress a rebellion/uprising**：镇压叛乱/起义
 > - **suppress emotions/feelings**：压抑情感
 > - **suppress information**：封锁信息
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it."（批评者提出了反对基因专利的三个主要论点：基因是自然产物，因此不应被授予专利；基因专利压制创新而非奖励创新。）——2012考研英语二阅读
 > - "It seems that men with traditional views of masculinity are more likely to suppress outward emotions."（似乎持有传统男性观的人更有可能压抑外在的情感表达。）——考研真题阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

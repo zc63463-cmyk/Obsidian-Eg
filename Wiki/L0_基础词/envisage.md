@@ -3,14 +3,12 @@ title: "envisage"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 在面前看到（在脑海中看到未来的画面）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈvɪzɪdʒ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在心中看到**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在心中看到**（认知层面）
@@ -64,7 +62,7 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > en（在心中）+ vis（看）→ 在心中看到 → 想象。马丁·路德·金 envisage 了一个种族平等的未来，乔布斯 envisage 了每个人手中都有智能手机。envisage 就是在心中"看到"还没有发生的事。
@@ -86,7 +84,7 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[overlook]]：忽视（envisage 的反义：正视↔忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,22 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **envisage a future**：展望未来
 > - **envisage doing sth.**：设想做某事
 > - **envisage problems/difficulties**：预见问题/困难
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is difficult to envisage a world without the internet."（很难想象一个没有互联网的世界。）
 > - "The government envisages building a new highway across the region."（政府设想在该地区修建一条新高速公路。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "injury"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 不公正对待的结果（对人身或权利造成的损害状态）
-extension_dim: 损害维度
+extension_dim: [损害维度]
 phonetic: "/ˈɪndʒəri/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不公正对待的结果**"为统筹中心，沿损害维度向外扩展：
 >
 > 1. **不公正对待的结果**（身体层面）
@@ -67,7 +65,7 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > injury 是 injure 的名词形式。in（不）+ jur（公正）→ 不公正 → 伤害 → injury（伤害的结果）。想象一个运动员在比赛中被对手恶意犯规，膝盖受了重伤——这就是 injury。这个伤害不是他"该承受"的，而是"不公正对待"的结果。在法律上，injury 也指"对权利的侵害"——你的权利被不公正地侵犯了。记住：injury = injure 的结果 = 不该承受的损害。
@@ -89,7 +87,7 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[recovery]]：康复，恢复（injury 的精确反义：受伤↔康复）
 > - [[healing]]：治愈（injury 的反义：伤害↔治愈）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sustain/suffer an injury**：遭受伤害
 > - **fatal/severe injury**：致命的/严重的伤害
 > - **head/leg/back injury**：头部/腿部/背部受伤
@@ -129,19 +127,15 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers found that people who suffered a brain injury were more likely to experience cognitive decline in later years."（研究人员发现，遭受脑损伤的人在晚年更容易出现认知能力下降——考研英语阅读，医学研究话题）
 > - "Workplace injuries have declined significantly since the introduction of stricter safety regulations."（自从引入更严格的安全法规以来，工伤事故已显著减少——考研英语阅读，社会政策话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

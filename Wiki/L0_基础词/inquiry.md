@@ -3,14 +3,12 @@ title: "inquiry"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 向内追问（深入探求真相）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈkwaɪəri/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向内追问**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **向内追问**（动作层面）
@@ -66,7 +64,7 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（向内）+ quir（追求，来自拉丁语 quaerere）→ 向内追求真相 → 调查。require 是"反复要求"（re + quir），acquire 是"获得"（ac + quir），inquiry 是"向内追问"。想象一个侦探不断向内深挖线索——that's an inquiry。
@@ -88,7 +86,7 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[answer]]：回答（inquiry 的反义：询问↔回答）
 > - [[response]]：回应（inquiry 的反义：追问↔回应）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make an inquiry**：询问，咨询
 > - **hold/launch an inquiry**：进行调查
 > - **spirit of inquiry**：探究精神
@@ -129,19 +127,15 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government launched a public inquiry into the causes of the accident."（政府对事故原因展开了公开调查）
 > - "The spirit of scientific inquiry drives progress."（科学探究精神推动进步）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

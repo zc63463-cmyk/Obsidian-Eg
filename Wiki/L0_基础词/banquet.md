@@ -3,14 +3,12 @@ title: "banquet"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 宴席（正式的大型聚餐）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈbæŋkwɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**宴席（正式的大型聚餐）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **宴席**（物理层面）
@@ -67,7 +65,7 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > banquet 来自法语，原义是"坐在长凳上吃的小点心"。后来规模越来越大，从"长凳上的小食"变成了"正式的盛大宴席"。国家元首举办的 state banquet，就是最正式的 banquet。
@@ -90,7 +88,7 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fast]]：禁食（banquet 的反义：盛宴↔禁食）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hold/give a banquet**：举行宴会
 > - **a state banquet**：国宴
 > - **banquet hall**：宴会厅
@@ -133,19 +131,15 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "One day, at a banquet in honor of distinguished guests, Cao bid Mi to work as a drummer, just to insult him for fun."（有一天，在为贵宾举办的宴会上，曹操让祢衡击鼓取乐——考研阅读相关语料）
 > - "If a banquet is to be served, the menu must be planned; tables, napery, and table silver must be provided and set up."（如果要举办宴会，必须事先制定菜单，备齐餐桌、餐巾和银器——考研翻译相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

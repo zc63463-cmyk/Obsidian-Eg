@@ -3,17 +3,14 @@ title: "may"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 有力量做某事（表示能力或可能性）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/meɪ/"
 pos: aux.
-metaphor_type: 无隐喻
 word_root: mag
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有能力做某事**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **有能力**（能力层面）
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > may 原义"有力量/有能力"，与 magnificent（宏伟的=有大力量的）同源。有能力做某事→ 可能（may）；被允许做某事→ 可以（may）。五月（May）是万物最有力量的月份，所以用 may 命名。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[must]]：必须（may 表示"可以"，must 表示"必须"——许可↔义务）
 > - [[cannot]]：不能（may 表示"可能"，cannot 表示"不可能"）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +119,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **may as well**：不妨，还是……好
 > - **may well**：很可能
 > - **as best one may**：尽某人最大努力
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "This may mean that the public's attention is fragmented across many different media outlets."（这可能意味着公众的注意力被分散到了许多不同的媒体渠道。——考研阅读高频表达）
 > - "It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience."（可以说，衡量任何社会制度价值的标准在于它在扩大和改善经验方面的效果。——考研翻译真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

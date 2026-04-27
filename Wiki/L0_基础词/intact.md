@@ -3,14 +3,12 @@ title: "intact"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 未被触碰过的（完整的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈtækt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -42,7 +40,7 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**未被触碰过的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **未被触碰过的**（物理层面）
@@ -63,7 +61,7 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ tact（触碰）→ 没有被触碰过 → 完整无缺的。博物馆里的瓷器 intact（完好无损），因为几百年来没有人碰过它。地震后那座古塔依然 intact（保存完好），因为它足够坚固，没有被"碰倒"。谈判中你的底线 intact（未受动摇），因为你坚守住了它，没有人"触碰"过你的底线。
@@ -85,7 +83,7 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[damaged]]：损坏的（intact 的精确反义：完好无损↔损坏）
 > - [[broken]]：破碎的（intact 的反义：完整↔破碎）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **remain/keep intact**：保持完好无损
 > - **leave sth. intact**：使某物保持原样
 > - **intact ecosystem**：完好的生态系统
@@ -124,19 +122,15 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The ancient temple has remained largely intact despite centuries of war and natural disasters."（尽管经历了几个世纪的战争和自然灾害，这座古庙基本上保存完好）
 > - "It is important to keep the original culture intact while embracing modernization."（在拥抱现代化的同时保持原始文化的完整性是很重要的）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

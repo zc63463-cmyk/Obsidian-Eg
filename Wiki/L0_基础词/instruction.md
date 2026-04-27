@@ -3,14 +3,12 @@ title: "instruction"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 指导（建造知识结构的行为或结果）
-extension_dim: 教育路径
+extension_dim: [教育路径]
 phonetic: "/ɪnˈstrʌkʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**指导（建造知识结构的行为或结果）**"为统筹中心，沿教育路径向外扩展：
 >
 > 1. **建造**（知识层面）
@@ -68,7 +66,7 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > instruction = in（在……上）+ struct（建造）+ -tion（名词后缀）= 建造的结果 = 指导。教学是在脑中"建造"知识，所以 instruction = 教学/指导。产品说明书也是在"建造"操作框架，所以 instruction = 说明书。follow instructions = 遵循指示 = 按照建造好的框架行动。记住：instruction 的核心是"建造"——不管是在脑中建造知识，还是在操作中建造框架。
@@ -90,7 +88,7 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[misinformation]]：错误信息（instruction 的反义：正确指导↔错误信息）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **follow instructions**：遵循指示
 > - **give/issue instructions**：下达指示
 > - **receive instruction**：接受指导
@@ -130,19 +128,15 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Please read the instructions carefully before operating the machine."（在操作机器之前，请仔细阅读使用说明。——考研英语翻译相关语料）
 > - "The teacher gave clear instructions for the assignment."（老师对作业给出了清晰的指示。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

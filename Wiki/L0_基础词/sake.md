@@ -3,17 +3,14 @@ title: "sake"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 目的，缘故（做某事的原因）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/seɪk/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**目的，缘故**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **目的，缘故**（原因层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sake 就是"缘故"。for the sake of knowledge（为了知识本身），for the sake of safety（为了安全）。考研2004年Text 4考过："not to pursue knowledge for the sake of knowledge"（不是为了知识本身而追求知识）。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +98,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - sake 作为抽象概念无精确反义词，但在语境中可与"损害"（[[harm]]/[[damage]]）形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **for the sake of**：为了……，为了……的利益（考研高频短语）
 > - **for God's/goodness'/Christ's sake**：看在上帝的份上（表示不耐烦或恳求）
 > - **for one's own sake**：为了某人自己的利益
@@ -130,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge."（即使是我们的学校也会让我们的孩子去接受实践教育，而不是为了知识本身而追求知识——2004年考研英语Text 4）
 > - "For the sake of fairness, it must be noted that the company has made significant efforts to reduce its environmental impact."（为了公平起见，必须指出该公司在减少环境影响方面做出了重大努力——考研写作高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "hatred"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 仇恨，憎恨
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈheɪtrɪd/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: hate
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ hate（恨）+ -red（名词后缀，表示状态/条件，古英语 *-ræden*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**仇恨，憎恨**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **仇恨**（情感层面）
@@ -64,7 +61,7 @@ hate（恨）+ -red（名词后缀，表示状态/条件，古英语 *-ræden*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ hate（恨）+ -red（名词后缀，表示状态/条件，古英语 *-ræden*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hatred 是 hate（恨）的名词形式，但比 hate 更正式、更强烈。hate 可以是一时的不快，hatred 是根深蒂固的仇恨。What is very clear in these letters is Clark's passionate hatred of his father（这些信非常清楚地表明了克拉克对他父亲的深切痛恨）。He was accused of stirring up racial hatred（他被控煽动种族仇恨）。
@@ -86,7 +83,7 @@ hate（恨）+ -red（名词后缀，表示状态/条件，古英语 *-ræden*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ hate（恨）+ -red（名词后缀，表示状态/条件，古英语 *-ræden*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[love]]：爱（仇恨 ↔ 爱）
 > - [[affection]]：喜爱（憎恨 ↔ 喜爱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +121,22 @@ hate（恨）+ -red（名词后缀，表示状态/条件，古英语 *-ræden*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hatred of/towards**：对……的仇恨——a profound hatred of war
 > - **racial hatred**：种族仇恨——He was accused of stirring up racial hatred.
 > - **stir up hatred**：煽动仇恨——Irresponsible leaders had been stirring up hatred.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "What is very clear in these letters is Clark's passionate hatred of his father."（这些信非常清楚地表明了克拉克对他父亲的深切痛恨——剑桥词典经典例句，hatred of 为常考搭配）
 > - "The motive for this shocking attack seems to be racial hatred."（这起令人震惊的袭击的动机似乎是种族仇恨——英语阅读常见表达，racial hatred 为高频搭配，常出现于考研社会类阅读文章）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

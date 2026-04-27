@@ -3,14 +3,12 @@ title: "maiden"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 少女、未婚女子（年轻的未婚女性）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmeɪdn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**少女、未婚女子**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **年轻未婚女性**（人物层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > maiden = 古英语 *mægden* = 少女、未婚女子。一个穿着白色长裙的年轻少女——这就是 maiden 的原始画面。从"少女"→"首次的"——因为少女的许多经历都是"第一次"。maiden voyage = 首航。maiden flight = 首飞。maiden speech = 首次演讲。maiden name = 娘家姓（女性结婚前的姓氏）。maiden aunt = 未婚的姑妈。在现代英语中，maiden 的"少女"含义多用于文学或历史语境，"首次的"含义更常用。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[married]]：已婚的（maiden "未婚的"的精确反义：未婚↔已婚）
 > - [[widow]]：寡妇（maiden 的反义：少女↔寡妇）
 > - [[veteran]]：老手（maiden "首次的"的反义：首次↔经验丰富）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **maiden name**：娘家姓（女性结婚前的姓氏）
 > - **maiden voyage**：首航
 > - **maiden flight**：首飞
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The spacecraft's maiden flight was hailed as a landmark achievement in the nation's space exploration programme, demonstrating advanced propulsion technology."（该航天器的首飞被誉为该国太空探索计划的里程碑式成就，展示了先进的推进技术——考研阅读科技话题相关表达）
 > - "In many cultures, it remains a common tradition for women to retain their maiden name professionally even after marriage, reflecting changing attitudes toward gender identity."（在许多文化中，女性婚后在职业场合保留娘家姓仍然是一种常见传统，反映了对性别认同态度的变化——考研翻译社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

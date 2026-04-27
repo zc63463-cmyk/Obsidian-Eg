@@ -3,14 +3,12 @@ title: "blueprint"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 蓝图，设计图
-extension_dim: 行动计划
+extension_dim: [行动计划]
 phonetic: "/ˈbluːprɪnt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ blue(蓝色) + print(印刷/打印)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**蓝图/设计图**"为统筹中心，沿行动计划向外扩展：
 >
 > 1. **蓝图**（物理层面）
@@ -67,7 +65,7 @@ blue(蓝色) + print(印刷/打印)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ blue(蓝色) + print(印刷/打印)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blueprint = blue（蓝色）+ print（印刷）。想象一张蓝色的建筑图纸，上面有白色的线条——那就是 blueprint。19世纪的建筑师用这种蓝纸白线的图纸来复制设计图，所以 blueprint 成了"设计图"的代名词。后来引申为任何详细的"行动计划"——a blueprint for economic reform = 经济改革的蓝图（详细方案）。blueprint 比 plan 更强调详细性和系统性，就像真正的建筑蓝图一样，每个细节都标注清楚。
@@ -90,7 +88,7 @@ blue(蓝色) + print(印刷/打印)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ blue(蓝色) + print(印刷/打印)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[demolition]]：拆除（blueprint 规划的反义：建设规划↔拆除）
 > - [[chaos]]：混乱（blueprint 有序方案的反义：有序↔混乱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ blue(蓝色) + print(印刷/打印)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a blueprint for**：……的蓝图/方案
 > - **blueprint for success/reform**：成功/改革的蓝图
 > - **draw up a blueprint**：制定蓝图
@@ -129,19 +127,15 @@ blue(蓝色) + print(印刷/打印)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has drawn up a blueprint for economic reform that aims to boost growth and reduce inequality."（政府已制定了一份经济改革蓝图，旨在促进增长并减少不平等。——考研英语阅读政治经济类话题）
 > - "The architect's blueprint for the new museum was praised for its innovative design and environmental sustainability."（建筑师为新博物馆设计的蓝图因其创新设计和环境可持续性而受到赞誉。——考研英语阅读建筑类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

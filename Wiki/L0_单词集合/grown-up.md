@@ -3,17 +3,14 @@ title: "grown-up"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 已经长大的人
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌɡrəʊnˈʌp/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: grow
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**已经长大的人**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **已经长大的人**（时间层面：成长过程已完成）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[grow]]（生长）的过去分词 grown + up（向上）= 向上生长完成了 → **成年人**。就像一颗树苗**向上生长**了二十年，终于**长大**了，成为一棵 **grown-up** 大树。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[child]]：孩子（grown-up 是成年人，child 是孩子）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,29 +113,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **grown-up**：This is a conversation for grown-ups. 这是成年人之间的对话。
 > - **grown-up behavior**：He displayed grown-up behavior at the meeting. 他在会议上表现得很成熟。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Their children have all grown up and left home now."（他们的孩子都已长大成人离开家了。）——考研高频表达
 > - "As a grown-up, you should take responsibility for your own actions."（作为一个成年人，你应该为自己的行为负责。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

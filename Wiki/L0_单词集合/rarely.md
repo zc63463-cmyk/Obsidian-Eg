@@ -3,17 +3,14 @@ title: "rarely"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 罕见地、很少地
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈreəli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**罕见地、很少地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **罕见地、很少地**（频率层面：发生次数极少）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[rare]]（稀有的）+ -ly（地）= rarely（很少地）。想象一个人很少出现在聚会上，每次出现都像稀有动物一样引人注目。
@@ -83,7 +80,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,13 +92,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[frequently]]：频繁地（频率高 vs 频率低）
 > - [[often]]：经常（频率高）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,27 +109,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rarely do/did...**（倒装句）：Rarely have I seen such a beautiful sunset.（我极少见到如此美丽的日落。）
 > - **rarely if ever**：He rarely if ever goes to the cinema.（他几乎从不去电影院。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him."（贝多芬以极大力度增加音量然后突然接以柔和乐段的习惯，在他之前的作曲家中很少使用。）——考研真题
 > - "She rarely speaks in public, but when she does, everyone listens."（她很少在公开场合发言，但一旦发言，每个人都会认真倾听。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

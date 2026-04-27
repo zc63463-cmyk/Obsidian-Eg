@@ -3,14 +3,12 @@ title: "odds"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 超出常规的部分之间的差异
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɒdz/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不对等的差距**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不对等的差距**（数量层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > odd（超出常规的）→ odds（差距）→ 几率。两队实力差距很大——the odds are heavily against him。他克服了一切逆境——against all odds。几率就是成功与失败之间的"差距"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[certainty]]：确定性（odds 的反义：可能性↔确定性）
 > - [[advantage]]：优势（odds 的反义：逆境↔优势）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the odds are against sb.**：某人处于不利地位
 > - **against all odds**：尽管困难重重
 > - **at odds with**：与……不一致/有分歧
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Even demographics are working against the middle class family, as the odds of having a weak elderly parent — and all the attendant need for physical and financial assistance — have jumped eightfold in just one generation."（甚至人口统计也对中产阶级家庭不利，因为拥有一位体弱年迈父母的几率——以及随之而来的身体和经济援助需求——在仅仅一代人的时间里就增长了八倍。——2007年英语一Text 3）
 > - "The odds are very much in our favour."（我方胜算的几率极大。——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

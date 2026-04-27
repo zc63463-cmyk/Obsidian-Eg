@@ -3,14 +3,12 @@ title: "subject"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 向……投掷，置于……之下
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsʌbdʒɪkt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ sub-(在……之下) + [[ject]](投掷) → 投掷到……下面 → 置于…
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向……投掷，置于……之下**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向……投掷，置于……之下**（物理动作层面）
@@ -74,7 +72,7 @@ sub-(在……之下) + [[ject]](投掷) → 投掷到……下面 → 置于…
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ sub-(在……之下) + [[ject]](投掷) → 投掷到……下面 → 置于…
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sub-(下面) + ject(扔) = 扔到下面去。古代战场上，战败者被"扔"到征服者脚下，成为"臣民"（subject），"受支配"（subject to）。课堂上老师把知识"扔"出来，那就是"学科"（subject）。
@@ -98,7 +96,7 @@ sub-(在……之下) + [[ject]](投掷) → 投掷到……下面 → 置于…
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ sub-(在……之下) + [[ject]](投掷) → 投掷到……下面 → 置于…
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[object]]：客体，反对（"主体/主题"的反义）
 > - [[ruler]]：统治者（"臣民"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,29 +125,23 @@ sub-(在……之下) + [[ject]](投掷) → 投掷到……下面 → 置于…
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **subject to**：受……支配的，易受……影响的 — The plan is subject to approval.
 > - **be subjected to**：遭受，承受 — The prisoners were subjected to torture.
 > - **on the subject of**：关于 — We had a long discussion on the subject of climate change.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The subject of the research is the impact of social media on adolescent mental health."（这项研究的主题是社交媒体对青少年心理健康的影响。）——考研高频表达
 > - "Citizens are subject to the laws of the country in which they reside."（公民受其居住国法律的约束。）——考研高频表达
 > - "The experiment was subject to strict ethical review before it was approved."（该实验在获得批准前接受了严格的伦理审查。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

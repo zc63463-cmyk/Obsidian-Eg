@@ -3,14 +3,12 @@ title: "ham"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 火腿
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/hæm/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**火腿**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **火腿**（物品层面）
@@ -67,7 +65,7 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ham = 火腿。ham actor = 业余演员（据说源于用猪油涂脸的滑稽戏演员），所以 ham it up = 表演过火、做作。ham radio = 业余无线电。记住 ham 的核心引申义就是"业余的、过火的"。
@@ -90,7 +88,7 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[professional]]：专业的（业余 ↔ 专业）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ham it up**：表演过火——He was really hamming it up on stage.
 > - **a ham actor**：业余演员，做作的演员——He's just a ham actor.
 > - **ham radio**：业余无线电——He operates a ham radio station.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The actor was accused of hamming it up in the dramatic scene."（这位演员被指责在戏剧场景中表演过火——ham it up 为口语化表达）
 > - "Ham radio operators played a crucial role in emergency communications."（业余无线电操作员在紧急通信中发挥了关键作用——ham radio 为固定搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

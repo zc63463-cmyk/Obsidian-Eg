@@ -3,14 +3,12 @@ title: "forth"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 向前
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/fɔːrθ/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向前**（空间层面）
@@ -64,7 +62,7 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > forth 就是"向前"，和 forward 是同一个词根。back and forth（来回=向后和向前），and so forth（等等=向前继续列举）。bring forth（带出来→产生），set forth（提出→向前摆出来）。forth 就是一个简单的方向词——向前。
@@ -86,7 +84,7 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[back]]：向后（forth 的空间反义：向前↔向后）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **back and forth**：来回，反复
 > - **and so forth**：等等（用于列举末尾）
 > - **bring forth**：产生，提出
@@ -124,19 +122,15 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The negotiation went back and forth for hours without reaching an agreement."（谈判来回进行了几个小时，未能达成协议。）
 > - "The author set forth his arguments in a clear and logical manner."（作者以清晰、合乎逻辑的方式阐述了自己的论点。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

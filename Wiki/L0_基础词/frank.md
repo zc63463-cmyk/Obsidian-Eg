@@ -3,14 +3,12 @@ title: "frank"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 自由人说话——坦率的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/fræŋk/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**自由人说话——坦率的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **自由人说话——坦率的**（社会层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 法兰克人（Franks）是自由人（franc），说话不需要顾虑——frank 就是"坦率的"。to be frank with you（坦白说），a frank exchange of views（坦率的意见交流）。记住：frank = 自由人的 = 坦率的。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deceptive]]：欺骗性的（frank 的反义：坦率↔欺骗）
 > - [[evasive]]：闪烁其词的（frank 的反义：坦率↔回避）
 > - [[diplomatic]]：圆滑的（frank 的反义：直率↔圆滑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **to be frank (with you)**：坦白说
 > - **a frank discussion/exchange**：坦率的讨论/交流
 > - **be frank about**：对……坦率
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "To be frank, I don't think this plan will work."（坦白说，我认为这个计划行不通。）
 > - "A frank discussion is more productive than polite evasion."（坦率的讨论比礼貌的回避更有成效。）
 > - to be frank / frankly speaking 是考研翻译和写作中的高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

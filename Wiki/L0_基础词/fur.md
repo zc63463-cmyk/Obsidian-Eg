@@ -3,14 +3,12 @@ title: "fur"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 动物身上的毛皮（保暖覆盖层）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/fɜːr/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**动物身上的毛皮**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **动物身上的毛皮**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fur 就是动物身上那层毛。冬天摸摸你家猫的毛——那就是 fur。富人穿 fur coat（毛皮大衣），动物 activists 抗议 "no fur"（拒穿毛皮）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[feather]]：羽毛（fur 的反义：哺乳动物毛皮↔鸟类羽毛）
 > - [[scale]]：鳞片（fur 的反义：毛皮↔鳞片）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fur coat**：毛皮大衣
 > - **animal fur**：动物毛皮
 > - **fake fur**：人造毛皮
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many consumers now refuse to buy products made from real animal fur."（许多消费者现在拒绝购买真正的动物毛皮制品）
 > - "The cat's soft fur felt warm under her hand."（猫柔软的毛在她手心下感觉很温暖）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

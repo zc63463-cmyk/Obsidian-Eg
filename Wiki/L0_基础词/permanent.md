@@ -3,14 +3,12 @@ title: "permanent"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 始终停留（贯穿时间不变）
-extension_dim: 时间持久
+extension_dim: [时间持久]
 phonetic: "/ˈpɜːmənənt/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**始终停留（贯穿时间不变）**"为统筹中心，沿时间持久维度向外扩展：
 >
 > 1. **始终停留**
@@ -66,7 +64,7 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > permanent = per（始终）+ man（停留）+ -ent（形容词后缀）。想象一块巨石矗立在山巅，千百年始终停留在同一个位置——它是 permanent（永久的）。一个人的 permanent address（固定地址）就是他始终停留的地方。permanent 的核心画面就是"始终停留"——时间上始终不变，空间上始终固定。
@@ -88,7 +86,7 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[temporary]]：暂时的（permanent 的精确反义：永久的↔暂时的）
 > - [[impermanent]]：非永久的（permanent 的直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **permanent damage**：永久性损害
 > - **permanent address**：固定地址
 > - **permanent solution**：永久性解决方案
@@ -130,19 +128,15 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Should a woman who possessed a small amount of drugs years ago be permanently unable to be licensed as a nurse?"（一名多年前持有少量毒品的女性是否应该被永久取消护士执照资格？——2015年12月六级阅读）
 > - "Russians began to wake up about a half-hour later each day after President Vladimir Putin shifted the country permanently to winter time."（在普京总统将该国永久调整为冬令时后，俄罗斯人每天开始晚醒约半小时。——考研英语阅读相关话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

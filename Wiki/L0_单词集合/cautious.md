@@ -3,14 +3,12 @@ title: "cautious"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 充满小心的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkɔːʃəs/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充满小心的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **充满小心的**（核心品质）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cautious = caut（小心）+ -ous（充满……的）→ 充满小心的 → 谨慎的。想象一个人过马路时左右张望、确认安全后才通过——这就是 cautious（谨慎的）。"-ous" 后缀就像一个容器，把"小心"装满了整个人的行为方式。 cautious approach（谨慎的方法）、cautious optimism（谨慎的乐观）、cautious investor（谨慎的投资者）——都体现了"充满小心"的态度。记住 caut = 小心，-ous = 充满，cautious = 谨慎的。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reckless]]：鲁莽的（谨慎的↔鲁莽的）
 > - [[careless]]：粗心的（小心的↔粗心的）
 > - [[bold]]：大胆的（谨慎的↔大胆的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a cautious approach**：谨慎的方法
 > - **be cautious about**：对……持谨慎态度
 > - **cautious optimism**：谨慎的乐观
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government adopted a cautious approach to economic reform."（政府采取了谨慎的经济改革方法）——政治话题
 > - "Investors remain cautious about the stock market outlook."（投资者对股市前景保持谨慎）——金融话题
 > - "She is a cautious driver who never exceeds the speed limit."（她是一个谨慎的司机，从不超速）——生活话题
@@ -139,15 +137,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

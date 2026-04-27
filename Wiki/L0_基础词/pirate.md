@@ -3,14 +3,12 @@ title: "pirate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 海上掠夺者（在海上抢劫的人）
-extension_dim: 行为路径
+extension_dim: [行为路径]
 phonetic: "/ˈpaɪrət/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**海上掠夺者（在海上抢劫的人）**"为统筹中心，沿行为路径向外扩展：
 >
 > 1. **海上抢劫的人**
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pirate 来自希腊语"冒险者"——在海上冒险抢劫的人就是海盗。现代社会中，非法复制软件、电影的人也是"海盗"——知识领域的海盗。pirated movie 就是"被盗版的电影"。pirate 的核心就是"非法掠夺"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[copyright holder]]：版权持有者（pirate 的精确反义：盗版者↔版权所有者）
 > - [[guard]]：守卫者（pirate 的反义：掠夺者↔守卫者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pirate ship**：海盗船
 > - **pirated software/movies**：盗版软件/电影
 > - **software pirate**：软件盗版者
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The slave-trade is now, by American law, considered as piracy."（根据美国法律，奴隶贸易现在被视为海盗行为。——Uncle Tom's Cabin）
 > - "Of course, this worries the record companies, because the potential for piracy is great."（当然，这让唱片公司感到担忧，因为盗版的潜力很大。——Cambridge English Corpus）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

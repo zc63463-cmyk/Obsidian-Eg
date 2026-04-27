@@ -3,14 +3,12 @@ title: "evade"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 走出去/离开
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪˈveɪd/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走出去/离开**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **走出去/离开**（空间层面）
@@ -66,7 +64,7 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > e（出去）+ vade（走）→ 走出去 → 逃避。想象一个记者问了一个尖锐的问题，政治家微微一笑，"走出去"了——他 evaded the question。invade 是走进别人的领地（入侵），evade 是从别人的追问中走出去（逃避）。vade 系列词根：in（进）+ vade = invade（入侵），e（出）+ vade = evade（逃避）。
@@ -88,7 +86,7 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[confront]]：面对，对抗（evade 的精确反义：逃避↔直面）
 > - [[face]]：面对（evade 的反义：回避↔面对）
 > - [[meet]]：迎接，面对（evade 的反义：走开↔迎上去）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **evade the question/issue**：回避问题
 > - **evade responsibility**：逃避责任
 > - **evade taxes/tax evasion**：逃税
@@ -131,19 +129,15 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The politician evaded the reporter's question by changing the subject."（这位政治家通过转移话题回避了记者的问题。）
 > - "Tax evasion is a serious crime."（逃税是严重的犯罪行为。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

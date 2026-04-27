@@ -3,14 +3,12 @@ title: "indicative"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 有指向性的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈdɪkətɪv/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ative（形容词后
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有指向性的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **有指向性的**（物理层面）
@@ -68,7 +66,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ative（形容词后
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ative（形容词后
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > indicative = in（向）+ dic（指出）+ ative（有……倾向的）= 有指向性的。这个词最常用的搭配是 "be indicative of"（是……的迹象/象征）。比如：His behavior is indicative of stress（他的行为表明他压力很大）——行为"指向"压力。语法中 indicative mood（陈述语气）就是"指向事实"的语气。
@@ -90,7 +88,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ative（形容词后
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ative（形容词后
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[uninformative]]：无指示性的（indicative "有指示性的"的反义）
 > - [[misleading]]：误导性的（indicative "正确指向"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ative（形容词后
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be indicative of**：是……的迹象/象征/表明
 > - **indicative mood**：陈述语气（语法术语）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The results are indicative of a broader trend in the industry."（结果表明了该行业更广泛的趋势）——商业/行业分析类阅读
 > - "His lack of enthusiasm was indicative of his true feelings."（他缺乏热情表明了他的真实感受）——人物心理分析
 > - "The indicative mood is used to make statements of fact."（陈述语气用于陈述事实）——语言学/语法类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

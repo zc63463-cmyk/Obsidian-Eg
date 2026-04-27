@@ -3,14 +3,12 @@ title: "compulsory"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 一起驱使的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəmˈpʌlsəri/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被强力驱使的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被强力驱使的**（社会强制层面）
@@ -64,7 +62,7 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（一起）+ puls（驱使）+ ory（……的）→ compulsory。法律驱使你做的事就是 compulsory（义务的），学校驱使你上的课就是 compulsory（必修的）。pulse（脉搏）也来自 puls——脉搏就是血液被心脏驱使着跳动。
@@ -86,7 +84,7 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[optional]]：可选的（compulsory 的反义：强制↔可选）
 > - [[voluntary]]：自愿的（compulsory 的反义：强制↔自愿）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **compulsory education**：义务教育（考研高频）
 > - **compulsory course/subject**：必修课
 > - **compulsory military service**：义务兵役
@@ -127,19 +125,15 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Education is compulsory for children between the ages of 6 and 16."（6至16岁儿童必须接受义务教育——教育类高频表达）
 > - "English is a compulsory subject in most Chinese universities."（英语是中国大多数大学的必修课）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

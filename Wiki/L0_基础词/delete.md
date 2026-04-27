@@ -3,14 +3,12 @@ title: "delete"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 从文字中排除（把选中的内容划掉/移除）
-extension_dim: 文字-数据-抽象
+extension_dim: [文字-数据-抽象]
 phonetic: "/dɪˈliːt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从文字中排除**"为统筹中心，沿文字-数据-抽象向外扩展：
 >
 > 1. **从文字中排除**（原始动作）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > delete 来自拉丁语 *delere*（毁灭、擦除），与 [[delegate]]（委派）同源。delegate 是"派人出去"（de + leg），delete 是"把内容排除出去"（de + let/leg）。想象你在写文章时，用笔把一段话划掉——这就是 delete 的原始画面。在数字时代，delete 键是键盘上最常用的键之一。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insert]]：插入（delete 的精确反义：删除↔插入）
 > - [[restore]]：恢复（delete 的反义：删除↔恢复）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **delete a file/record**：删除文件/记录
 > - **delete an account**：注销账户
 > - **permanently delete**：永久删除
@@ -124,19 +122,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If you accidentally delete an important file, you can restore it from the recycle bin."（如果你不小心删除了重要文件，可以从回收站中恢复——常见计算机英语语料）
 > - "The editor asked him to delete several paragraphs from the article to reduce its length."（编辑要求他从文章中删除几段以缩短篇幅——Cambridge Dictionary 例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

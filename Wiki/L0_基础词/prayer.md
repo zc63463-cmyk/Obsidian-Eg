@@ -3,14 +3,12 @@ title: "prayer"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 祈祷文，祈祷的行为
-extension_dim: 恳求表达
+extension_dim: [恳求表达]
 phonetic: "/preə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**祈祷的行为/内容**"为统筹中心，沿恳求表达向外扩展：
 >
 > 1. **祈祷**（宗教层面）
@@ -68,7 +66,7 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > prayer 是 [[pray]]（祈祷）的名词形式。say a prayer = 说一篇祈祷文。in prayer = 在祈祷中。a prayer for forgiveness = 求宽恕的祈祷。prayer 也可以指"祈祷者"——a prayer = 一个祈祷的人。口语中 prayer 还可以表示"毫无希望"——not a prayer = 没门儿（连祈祷都没用）。注意发音区别：pray /preɪ/（动词），prayer /preə/（名词）。prayer 与 [[praise]]（赞美）形近但义不同。
@@ -90,7 +88,7 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[curse]]：诅咒（prayer 祈祷的精确反义：祈祷↔诅咒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in prayer**：在祈祷中
 > - **say a prayer**：做祈祷
 > - **a prayer for**：为……的祈祷/恳求
@@ -130,19 +128,15 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The families of the missing miners held a candlelight vigil and said prayers for their safe return."（失踪矿工的家属们举行了烛光守夜活动，为他们的安全归来祈祷。——考研英语阅读社会类话题）
 > - "Many believed that the new policy was the answer to their prayers for economic relief."（许多人认为，新政策正是他们祈求经济救济的回应。——考研英语阅读经济类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

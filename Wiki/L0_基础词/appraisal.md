@@ -3,14 +3,12 @@ title: "appraisal"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 估价（评估某物的价值）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈpreɪzl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ap-(=ad-, 向) + [[prais]](=price, 价格/价值) + -al(名词后缀)。与 [[pr
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**估价**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **估价**（物品价值层面）
@@ -64,7 +62,7 @@ ap-(=ad-, 向) + [[prais]](=price, 价格/价值) + -al(名词后缀)。与 [[pr
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ap-(=ad-, 向) + [[prais]](=price, 价格/价值) + -al(名词后缀)。与 [[pr
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ap（向）+ prais（价格）+ al → appraisal（估价）。appraisal 和 praise（称赞）同源——praise 原意就是"确定某人有价值"，所以称赞某人。appraisal 就是正式地"确定价值"——估价、评估。
@@ -86,7 +84,7 @@ ap-(=ad-, 向) + [[prais]](=price, 价格/价值) + -al(名词后缀)。与 [[pr
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ap-(=ad-, 向) + [[prais]](=price, 价格/价值) + -al(名词后缀)。与 [[pr
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[depreciation]]：贬值（appraisal 的反义：估价↔贬值）
 > - [[criticism]]：批评（appraisal 的反义：正面评价↔负面批评）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ ap-(=ad-, 向) + [[prais]](=price, 价格/价值) + -al(名词后缀)。与 [[pr
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **performance appraisal**：绩效评估
 > - **property appraisal**：房产估价
 > - **make an appraisal of**：对……进行评估
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Regular performance appraisals are essential for employee development."（定期的绩效评估对员工发展至关重要。）
 > - "The appraisal of the property was conducted by a qualified surveyor."（房产估价由合格的评估师进行。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

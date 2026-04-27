@@ -3,14 +3,12 @@ title: "resent"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 反复感到（痛苦/愤怒）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈzent/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ re-(反复) + [[sent|sent]](感觉) → 反复感到不满 → 怨恨
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复感到不满**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **反复感到不满**（情感层面：对某事持续感到愤怒）
@@ -62,7 +60,7 @@ re-(反复) + [[sent|sent]](感觉) → 反复感到不满 → 怨恨
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ re-(反复) + [[sent|sent]](感觉) → 反复感到不满 → 怨恨
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re-(反复) + sent(感觉) → 被冒犯后反复感到愤怒 = 怨恨。
@@ -84,7 +82,7 @@ re-(反复) + [[sent|sent]](感觉) → 反复感到不满 → 怨恨
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ re-(反复) + [[sent|sent]](感觉) → 反复感到不满 → 怨恨
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[appreciate]]：感激（与 resent 的"怨恨"形成反义）
 > - [[forgive]]：原谅（与 resent 的"记恨"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,28 +112,22 @@ re-(反复) + [[sent|sent]](感觉) → 反复感到不满 → 怨恨
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **resent doing sth.**：怨恨做某事
 > - **resent sb. for sth.**：因某事怨恨某人
 > - **deeply resent**：深深地怨恨
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Indeed, the mere presence of a grape in the other chamber was enough to induce resentment in a female capuchin."（实际上，只要在另一房间出现了葡萄（不管有没有猴子吃它），都足以引起雌性卷尾猴的愤恨。）——2005考研英语一阅读
 > - "Many employees resent the fact that they are not consulted before important decisions are made."（许多员工对在做出重要决策之前不征求他们意见感到不满。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

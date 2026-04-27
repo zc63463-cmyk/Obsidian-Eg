@@ -3,14 +3,12 @@ title: "simulate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 使相似（simul-相似 + -ate动词后缀→模仿）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɪmjuleɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使相似**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使相似**（科学层面）
@@ -69,7 +67,7 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > simul（相似）+ -ate（使动）→ 使相似 → 模拟。计算机可以 simulate（模拟）真实环境，演员可以 simulate（模仿）别人的表情。It's sad to simulate pleasure（假装快乐是可悲的）——simulate 也有"假装"的意思。
@@ -91,7 +89,7 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[differ]]：不同（simulate 的反义：使相似↔使不同）
 > - [[genuine]]：真实的（simulate 的反义：假装的↔真实的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **simulate the environment/conditions**：模拟环境/条件
 > - **simulate a feeling/expression**：模拟感受/表情
 > - **simulate an experiment**：模拟实验
@@ -137,19 +135,15 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "By linking directly to our nervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we can start to develop full sensory environments."（通过直接连接我们的神经系统，计算机可以感知我们的感受，并有望也能模拟感受，从而我们可以开始开发完整的感官环境——2001年考研英语翻译）
 > - "Smoke was used to simulate steam coming from a smashed radiator."（用烟来模拟从撞碎的散热器中冒出的蒸气——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

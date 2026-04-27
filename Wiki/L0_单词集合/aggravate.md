@@ -3,14 +3,12 @@ title: "aggravate"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 加重、使恶化
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈæɡrəveɪt/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**加重、使恶化**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **加重、使恶化**（物理/抽象层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > aggravate = ag（去）+ grav（重）+ ate（动词）→ 往上加重量。想象一个背着重包的人，有人又往他包里塞石头——他的腰更疼了（病情加重），他也更火大了（被激怒）。记住 grav = 重，aggravate 就是"加重"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,7 +103,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[alleviate]]：减轻、缓解（aggravate 的精确反义：加重↔减轻）
 > - [[mitigate]]：缓和、减轻（较正式）
 > - [[relieve]]：缓解、减轻（最通用）
@@ -113,7 +111,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **aggravate the situation / problem**：使局势/问题恶化
 > - **aggravate the injury / disease / condition**：加重伤势/病情
 > - **be aggravated by**：被…激怒（被动语态表情绪）
@@ -136,7 +134,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Smoking will aggravate your disease."（吸烟会加重你的疾病）——健康话题常见搭配
 > - "The lack of rain aggravated the already serious shortage of food."（干旱少雨加剧了本已严重的粮食短缺）——考研阅读，环境/社会话题
 > - "Pollution can aggravate asthma."（污染会使气喘加重）——医学/环境话题
@@ -144,15 +142,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

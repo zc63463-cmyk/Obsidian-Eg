@@ -3,17 +3,14 @@ title: "mysterious"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 令人难以理解的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/mɪˈstɪəriəs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: myster
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ myster-（=mysterium，秘密，神秘事物，来自希腊语 *mysterion*，sec
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**令人难以理解的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **令人难以理解的**（自然层面）
@@ -65,7 +62,7 @@ myster-（=mysterium，秘密，神秘事物，来自希腊语 *mysterion*，sec
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ myster-（=mysterium，秘密，神秘事物，来自希腊语 *mysterion*，sec
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > mysterious 来自希腊语 *mysterion*，最初指古希腊的秘密宗教仪式——只有被选中的信徒才能参加，外人完全看不懂里面在做什么。后来这个词泛指一切"令人难以理解"的事物。想象你深夜在森林里看到一团飘忽不明的蓝色光芒——你走近它却什么也摸不到，这就是 mysterious light（神秘的光）。再想象蒙娜丽莎嘴角那一抹似笑非笑的表情——你永远猜不透她在想什么，那就是 mysterious smile（神秘的微笑）。mysterious 的本质就是"看不懂"。
@@ -90,7 +87,7 @@ myster-（=mysterium，秘密，神秘事物，来自希腊语 *mysterion*，sec
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ myster-（=mysterium，秘密，神秘事物，来自希腊语 *mysterion*，sec
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[obvious]]：明显的（神秘的↔明显的）
 > - [[transparent]]：透明的，显而易见的（神秘的↔透明的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,28 +117,22 @@ myster-（=mysterium，秘密，神秘事物，来自希腊语 *mysterion*，sec
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mysterious disappearance**：神秘失踪（The mysterious disappearance of the plane remains unsolved.）
 > - **mysterious smile**：神秘的微笑（She gave him a mysterious smile.）
 > - **mysterious circumstances**：神秘的情况（He died under mysterious circumstances.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "For despite the vast accumulation of scientific knowledge in medical libraries, the body does, indeed, work in mysterious ways."（尽管医学图书馆中积累了大量的科学知识，但人体确实以神秘的方式运作。）——考研高频表达
 > - "He died under mysterious circumstances that have never been fully explained."（他在神秘的情况下去世，这些情况从未得到充分解释。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

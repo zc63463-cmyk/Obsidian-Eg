@@ -3,14 +3,12 @@ title: "conquest"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 征服的行为或结果（彻底获取的东西）
-extension_dim: 行动路径
+extension_dim: [行动路径]
 phonetic: "/ˈkɒŋkwest/"
 pos: n.
 metaphor_type: 转喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**征服的行为或结果（彻底获取的东西）**"为统筹中心，沿行动路径向外扩展：
 >
 > 1. **彻底获取**（行动层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > conquest 是 [[conquer]] 的名词形式。con（完全）+ quest（寻求）→ "彻底获取" → 征服。历史上最著名的 conquest 是"诺曼征服"（the Norman Conquest of 1066）——威廉一世彻底获取了英格兰。conquest 既指"征服"这个行为，也指"征服后获得的领土和战利品"。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[surrender]]：投降（conquest 的反义：征服↔投降）
 > - [[liberation]]：解放（conquest 的反义：征服↔解放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Norman Conquest**：诺曼征服（1066年，考研阅读历史话题高频）
 > - **military conquest**：军事征服
 > - **the fruits of conquest**：征服的果实
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Norman Conquest of 1066 had a profound and lasting impact on the English language."（1066年的诺曼征服对英语语言产生了深远而持久的影响——考研阅读历史话题高频表达）
 > - "The empire's conquests stretched across three continents."（帝国的征服领土横跨三大洲——考研阅读历史话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

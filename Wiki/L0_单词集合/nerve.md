@@ -3,14 +3,12 @@ title: "nerve"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 神经（传递信号的纤维）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/nɜːv/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ nerv-(神经，拉丁语 *nervus*，腱/弦)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**神经（传递信号的纤维）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **神经**（身体层面）
@@ -69,7 +67,7 @@ nerv-(神经，拉丁语 *nervus*，腱/弦)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ nerv-(神经，拉丁语 *nervus*，腱/弦)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nerv（神经）→ 想象你的身体里布满了细细的电线（神经），它们传递着大脑的每一个信号。当你站在舞台上准备演讲，你的神经绷得紧紧的——如果你撑住了，你就 have the nerve（有勇气）；如果你撑不住了，你就 lose your nerve（失去勇气）。nerve 就是身体里和精神上的"力量线"。
@@ -92,7 +90,7 @@ nerv-(神经，拉丁语 *nervus*，腱/弦)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ nerv-(神经，拉丁语 *nervus*，腱/弦)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fear]]：恐惧，害怕（nerve 的精确反义：勇气↔恐惧）
 > - [[cowardice]]：怯懦（nerve 的反义：胆量↔怯懦）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ nerv-(神经，拉丁语 *nervus*，腱/弦)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have the nerve to do**：有胆量做某事
 > - **lose one's nerve**：失去勇气，变得紧张
 > - **get on one's nerves**：惹人烦，使人心烦
@@ -129,23 +127,15 @@ nerv-(神经，拉丁语 *nervus*，腱/弦)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Neuroscientists, experts who study the nervous system, are increasingly showing that there's actually a lot that can be done."（神经科学家，研究神经系统的专家，越来越多地表明实际上可以做很多事情。——2014年考研英语一完形填空）
 > - "Good writing most often occurs when you are in hot pursuit of an idea rather than in a nervous search for errors."（良好的写作往往发生在你热切追求一个想法的时候，而不是在紧张地寻找错误的时候。——2008年考研英语一新题型）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "expert"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 经验丰富的人、看透事物的人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈekspɜːt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**经验丰富的人、看透事物本质的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **经验丰富的人、看透事物本质的人**（社会身份层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向外）+ pert（尝试）→ 经历过所有尝试的人 → 专家
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[amateur]]：业余者（缺乏专业训练和经验）
 > - [[layman]]：外行（不具备专业知识的人）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **expert opinion**：专家意见
 > - **expert in/on**：……方面的专家
 > - **expert knowledge**：专业知识
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "John Gottman, the marriage expert, explains that we quickly 'thin slice' information reliably only after we ground such snap reactions in 'thick sliced' long-term study."（婚姻专家约翰·戈特曼解释说，只有在我们将这种快速反应建立在'厚切片'的长期研究基础上之后，我们才能可靠地快速'薄切片'信息。）——2013考研英语二阅读
 > - "She is a recognized expert in the field of artificial intelligence."（她是人工智能领域公认的专家。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<尚未产出>
 > **翻译实践**：<尚未产出>

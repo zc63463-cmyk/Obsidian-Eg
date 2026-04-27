@@ -3,14 +3,12 @@ title: "sin"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 罪过，过错（违背道德/宗教规范的行为）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/sɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**罪过**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **罪过**（宗教层面）
@@ -68,7 +66,7 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sin 就是"罪"。宗教上的 seven deadly sins（七宗罪），道德上的 It's a sin to waste food（浪费食物是罪过）。sin 也可以作动词——sin against nature（违背自然）。注意 sin 和 sincere（真诚的）看似无关，但有些学者认为 sincere 源自"无罪恶的"（sine cera）。
@@ -91,7 +89,7 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[virtue]]：美德（sin 的精确反义：罪过↔美德）
 > - [[merit]]：善行（sin 的反义：罪过↔善行）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **commit a sin**：犯罪，犯下罪过
 > - **deadly sin**：致命罪过，大罪
 > - **original sin**：原罪
@@ -138,19 +136,15 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is a sin to waste food when so many people are starving."（当这么多人挨饿时，浪费食物是一种罪过——考研英语写作高频表达）
 > - "The love of money is the root of all evil, but it is also a sin to be indifferent to poverty."（对金钱的贪爱是万恶之源，但对贫困漠不关心也是一种罪过——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

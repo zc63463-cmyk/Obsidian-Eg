@@ -3,14 +3,12 @@ title: "lodge"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 小屋（供人暂时栖身的简陋住所）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/lɒdʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小屋（栖身之所）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **小屋**（空间层面）
@@ -71,7 +69,7 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lodge = 小屋。你在滑雪场的 lodge（小旅舍）住下 = lodge at the ski lodge。你不满意服务，向管理层正式提出投诉 = lodge a complaint。投诉就是"安放"到官方机构的文件。
@@ -94,7 +92,7 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,12 +104,12 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[evict]]：驱逐（lodge v.住宿的反义：入住↔驱逐）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lodge a complaint/appeal**：正式提出投诉/申诉
 > - **lodge at/with**：在……住宿
 > - **ski lodge**：滑雪小屋
@@ -131,19 +129,15 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The residents lodged a formal complaint against the noise from the construction site."（居民们对建筑工地的噪音正式提出了投诉——考研阅读社会类话题）
 > - "They lodged at a small inn near the mountain."（他们在山附近的一家小旅馆住宿——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

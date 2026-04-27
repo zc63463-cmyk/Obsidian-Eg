@@ -3,14 +3,12 @@ title: "bypass"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 从旁边经过（绕过障碍）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈbaɪpɑːs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从旁边经过**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从旁边经过**（空间层面）
@@ -70,7 +68,7 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > by（旁边）+ pass（经过）→ 从旁边经过 → 绕过。想象你开车遇到前方修路堵车，导航提示你走 bypass——从旁边的辅路绕过去。在公司里，有人 bypass the manager 直接找老板汇报——绕过经理。医学上，心脏血管堵塞了，医生做 bypass surgery——让血液从旁边的新路流过去，绕过堵塞的地方。核心动作就是"绕"。
@@ -93,7 +91,7 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[confront]]：面对（bypass 的反义：绕过↔面对）
 > - [[observe]]：遵守（bypass 的反义：无视↔遵守）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bypass the usual procedure**：绕过常规程序
 > - **heart bypass surgery**：心脏搭桥手术
 > - **take the bypass**：走旁路
@@ -133,19 +131,15 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new highway bypass has significantly reduced traffic congestion in the city center."（新的高速公路绕行道显著缓解了市中心的交通拥堵——考研常见表达）
 > - "He bypassed the traditional channels and went directly to the CEO."（他绕过了传统渠道，直接找到了首席执行官）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

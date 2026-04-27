@@ -3,14 +3,12 @@ title: "visible"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 能被看见的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈvɪzəbl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**能被看见的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **能被看见的**（视觉层面）
@@ -68,7 +66,7 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vis（看）+ ible（可以被）= 能被看见的。夜空中的星星是 visible 的，一个人努力后的进步是 visible 的，社会的贫富差距也是 visible 的。从眼睛能看见的"可见光"（visible light），到意识能看见的"明显变化"（visible change），visible 就是"能被看见的"。记住：visible = vis（看）+ ible（可以被）。
@@ -93,7 +91,7 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[invisible]]：看不见的（visible 的精确反义：可见↔不可见）
 > - [[hidden]]：隐藏的（被遮挡的，看不见的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **visible light**：可见光
 > - **visible improvement**：明显的改善
 > - **visible impact/effect**：明显的影响/效果
@@ -135,20 +133,14 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "These changes were gradual and at first scarcely visible."（这些变化是渐进的，最开始几乎看不见。）——2015年翻译
 > - "There are few visible signs of the illness that kept her in hospital for so long."（她因病住院这么久，但表面上却看不出什么症状。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

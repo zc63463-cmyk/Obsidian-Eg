@@ -3,17 +3,14 @@ title: "continue"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 一直保持、不停止
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/kənˈtɪnjuː/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: tin
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一直保持、不停止**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **一直保持、不停止**（时间层面）
@@ -67,7 +64,7 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-(一直) + tin(保持) → 一直保持→继续。想象马拉松选手"一直保持"奔跑的步伐→continue = 继续。
@@ -92,7 +89,7 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cease]]：停止（继续→停止）
 > - [[halt]]：中止（继续→中止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +126,7 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **continue to do / doing**：继续做某事
   - The government must continue to invest in education to ensure long-term prosperity.（政府必须继续投资教育以确保长期繁荣。）
 - **continue with**：继续（某事）
@@ -137,20 +134,14 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Despite the economic downturn, the company continued to invest heavily in research and development."（尽管经济不景气，公司仍继续在研发方面大量投资。）——考研高频表达
 > - "The debate over whether university education should be free continues to attract public attention."（关于大学教育是否应该免费的争论持续吸引着公众的关注。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

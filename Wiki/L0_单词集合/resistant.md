@@ -3,14 +3,12 @@ title: "resistant"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 站在原地抵抗
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈzɪstənt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在原地抵抗**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **站在原地抵抗**（物理对抗层面）
@@ -66,7 +64,7 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（反向）+ sist（站立）→ 对着来的人站住不退。想象你站在暴风雨中，风把你往左吹，你偏要往右站——你就是 resistant。细菌对抗生素说"我不怕"，它就是 drug-resistant。
@@ -89,7 +87,7 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[vulnerable]]：脆弱的，易受伤害的（resistant 的精确反义：有抵抗力↔脆弱的）
 > - [[susceptible]]：易受影响的，敏感的（resistant to 的反义：抗……的↔易受……影响的）
 > - [[yielding]]：屈服的，顺从的（resistant 原型义的反义：抵抗↔屈服）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be resistant to change**：抗拒变革
 > - **drug-resistant bacteria**：耐药菌
 > - **water-resistant**：防水的
@@ -131,19 +129,15 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If people in the network just two degrees removed from the initial influential prove resistant, the cascade of change won't propagate very far or affect many people."（如果网络中与最初有影响力的人仅相差两度的人被证明有抵抗力，那么变化的连锁反应就不会传播太远，也不会影响很多人——2010年考研阅读）
 > - "Many pests are resistant to the insecticide."（许多害虫对这种杀虫剂有抵抗力——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

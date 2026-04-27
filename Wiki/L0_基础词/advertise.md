@@ -3,14 +3,12 @@ title: "advertise"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 转向大众（引起大众注意）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈædvətaɪz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转向大众**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **转向大众**（行为层面）
@@ -64,7 +62,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ad（朝向）+ vert（转）→ 使注意力转向 → 做广告。想象一个商家在街角大声吆喝，让路人的注意力都转向他的摊位——这就是 advertise 的原始画面。在现代，advertise 就是通过各种媒体让消费者的注意力转向你的产品。
@@ -88,7 +86,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏（advertise 的反义：公布↔隐藏）
 > - [[hide]]：隐瞒（advertise 的反义：宣传↔隐瞒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,26 +124,22 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **advertise for**：登广告招聘/寻找
 > - **advertise on TV/the Internet**：在电视/互联网上做广告
 > - **heavily advertise**：大量宣传
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It lowers the costs of many services: without advertisements your daily newspaper would cost four times as much, the price of your television licence would need to be doubled, and travel by bus or tube would cost 20 per cent more."（它降低了多种服务费用：没有广告，每天看的报纸价格会上涨四倍，电视收视费会翻番，公共汽车或地铁票价会上涨20%——1995年考研阅读Text 1）
 > - "While traditional 'paid' media—such as television commercials and print advertisements—still play a major role, companies today can exploit many alternative forms of media."（虽然传统的"付费"媒体——如电视广告和印刷广告——仍然发挥着重要作用，但如今公司可以利用许多替代形式的媒体——2011年考研英语一Text 3）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

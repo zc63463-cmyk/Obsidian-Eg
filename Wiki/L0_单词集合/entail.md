@@ -3,17 +3,14 @@ title: "entail"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 使某事成为必然的附属结果
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈteɪl/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: tail
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使成为必然附属**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使成为必然附属**（逻辑层面）
@@ -65,7 +62,7 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > en-(使动) + tail(限制，同源 tailor 裁缝→裁剪限制)，使被限制在必然范围内——使成为必需。
@@ -88,7 +85,7 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +98,12 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[exempt]]：免除（entail 是使...成为必需，exempt 是免除义务）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **entail doing sth.**：需要做某事
   > The job entails working long hours and frequent travel.
   > 这份工作需要长时间工作和频繁出差。
@@ -127,21 +124,15 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The new regulations will entail significant costs for small businesses."（新规定将给小企业带来巨大的成本。）——考研阅读真题
 > - "The job entails a great deal of travel and irregular working hours."（这份工作需要大量的出差和不规律的工作时间。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

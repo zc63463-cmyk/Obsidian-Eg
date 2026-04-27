@@ -3,14 +3,12 @@ title: "objective"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 投在面前的东西（目标）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əbˈdʒektɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**投在面前的东西（目标）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **投在面前的东西**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > objective = ob（朝向）+ ject（投掷）+ ive（…的）→ 投在面前的。想象射箭比赛，**箭靶就是投在你面前的目标**——这就是 objective（目标）。而"客观的"含义来自：箭靶就摆在那里，不管你喜不喜欢，它都是客观存在的。记住 ject = 扔，objective 就是"投在面前的"。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,7 +106,7 @@ review_count: 0
 
 ### 目标类同义词
 
-> [!note]- 目标类同义词网络 · L2
+> [!note]- 目标类同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -121,14 +119,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subjective]]：主观的（objective 的精确反义：客观↔主观）
 > - [[biased]]：有偏见的（客观↔偏见）
 > - [[unfair]]：不公平的（客观公正↔不公平）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -145,7 +143,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **achieve / accomplish an objective**：实现目标
 > - **primary / main objective**：主要目标
 > - **objective truth / reality / facts**：客观真理/现实/事实
@@ -155,7 +153,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The primary objective of this study is to examine the relationship between..."（本研究的主要目标是考察…之间的关系）——学术写作高频句式
 > - "We need to be objective about the situation."（我们需要对局势保持客观）——常见表达
 > - "There is no objective evidence to support this claim."（没有客观证据支持这一说法）——学术/论证语境
@@ -163,15 +161,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "gradual"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 一步一步走的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈɡrædʒuəl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**按阶梯行进**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **按阶梯行进**（空间层面——一级一级地走台阶）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自拉丁语 gradualis，来自 gradus"台阶、步伐"。想象走楼梯——不是一步跳到顶，而是一级一级地走，这就是 gradual 的本质。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abrupt]]：突然的（没有台阶，直接跳）
 > - [[sudden]]：突然的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gradual change/improvement**：逐渐的变化/改善
   - There has been a gradual improvement in air quality over the past decade.（过去十年间空气质量逐步改善。）
 - **gradual decline**：逐渐衰退
@@ -127,20 +125,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The gradual shift from traditional media to digital platforms has transformed the advertising industry.（从传统媒体向数字平台的逐步转变已经改变了广告业。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

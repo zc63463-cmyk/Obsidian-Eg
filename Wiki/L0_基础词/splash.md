@@ -3,14 +3,12 @@ title: "splash"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 液体溅起，水花飞溅
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/splæʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**水花飞溅**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **水花飞溅**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > splash 的核心画面是"石头落入湖中，水花四溅"。splash 是拟声词——模仿水溅起的"哗啦"声。make a splash（引起轰动）= 像溅起巨大水花一样引人注目。The news made quite a splash（这条新闻引起了相当大的轰动）。a splash of color（一抹色彩）= 像溅起的颜料色块。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drip]]：滴下（splash 的反义：溅起↔滴下）
 > - [[absorb]]：吸收（splash 的反义：溅出↔吸收）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make a splash**：引起轰动
 > - **splash across**：醒目地刊登在
 > - **a splash of color**：一抹色彩
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The young entrepreneur made quite a splash in the technology industry with her innovative approach to artificial intelligence, attracting millions in venture capital investment."（这位年轻的企业家凭借其对人工智能的创新方法在科技行业引起了相当大的轰动，吸引了数百万的风险投资——考研阅读商业话题相关表达）
 > - "The scandal was splashed across the front pages of every major newspaper, forcing the government to launch an immediate investigation into the allegations."（这桩丑闻被醒目地刊登在各大报纸的头版上，迫使政府立即对这些指控展开调查——考研阅读政治话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

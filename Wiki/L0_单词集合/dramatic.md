@@ -3,14 +3,12 @@ title: "dramatic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 如同戏剧般的，引人注目的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/drəˈmætɪk/"
 pos: a.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**如同戏剧般的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **如同戏剧般的**（艺术层面：关于戏剧的）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > drama（戏剧）+ -tic（的）→ 像戏剧一样的 → dramatic。想象一个演员突然冲上舞台，全场目光都被吸引——这就是 dramatic 的效果。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ordinary]]：平凡的（与"引人注目的"对立）
 > - [[gradual]]：逐渐的（与"突然的/巨大的变化"对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a dramatic change/improvement/increase**：巨大的变化/改善/增长
   > The country has seen a dramatic improvement in air quality.
 > - **dramatic effect**：戏剧性效果
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Yet, dramatic instances of sudden forgetting can be seen to be adaptive."（然而，戏剧性地突然遗忘某事可能会带来适应性方面的问题——1995年考研阅读5）
 > - "As a physician, I know the most costly and dramatic measures may be ineffective and painful."（作为一名医生，我知道最昂贵和最极端的措施可能无效且令人痛苦——2003年考研Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

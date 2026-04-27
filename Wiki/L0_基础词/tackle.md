@@ -3,14 +3,12 @@ title: "tackle"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用工具装备起来处理问题
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ˈtækl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用工具装备起来处理问题**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **用工具装备**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tackle 来自水手的"装备"——绳索、滑轮、渔网。水手用这些 tackle 来应对海上的风浪。后来 tackle 从"物理装备"延伸到"处理问题的方法"——tackle a problem 就像水手用装备应对风浪。足球场上的 tackle（抢断）也是用身体"装备"去夺取球权。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[avoid]]：回避（tackle "处理"的反义：积极应对↔消极回避）
 > - [[ignore]]：忽视（tackle "应对"的反义：面对↔忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tackle a problem**：处理问题
 > - **tackle climate change**：应对气候变化
 > - **tackle sb. about/over sth.**：就某事与某人交涉
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has pledged to tackle the growing problem of homelessness."（政府已承诺解决日益严重的无家可归问题。——考研阅读社会话题高频表达）
 > - "The new initiative aims to tackle the root causes of poverty rather than merely treating its symptoms."（这项新举措旨在解决贫困的根本原因，而不仅仅是治标。——考研翻译政策话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

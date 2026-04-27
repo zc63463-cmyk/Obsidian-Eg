@@ -3,14 +3,12 @@ title: "sore"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 身体疼痛的（痛的/酸痛的）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/sɔː/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**身体疼痛的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **身体疼痛的**（物理层面）
@@ -67,7 +65,7 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sore 源自古英语 sār（疼痛的），和 [[sorry]]（难过的）同源。跑完步肌肉 sore（酸痛），感冒了嗓子 sore（嗓子疼），摔了一跤膝盖上有个 sore（疮）。sore 从身体的"痛"延伸到精神的"痛"——a sore point（痛处）就是心里最疼的地方。德语中 sehr（非常）和 sore 同源——古英语中 sore 也有"非常"的意思（sore afraid = 非常害怕）。
@@ -90,7 +88,7 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[comfortable]]：舒适的（sore ↔ comfortable，疼痛的 ↔ 舒适的）
 > - [[healed]]：愈合的（sore ↔ healed，疼痛的 ↔ 愈合的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sore throat**：嗓子疼
 > - **a sore point/subject**：痛处，敏感话题（Don't mention his divorce—it's a sore point.）
 > - **be sore about sth.**：对某事感到恼火（He was sore about being left out.）
@@ -128,18 +126,14 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The issue of immigration remains a sore point in political debates."（移民问题在政治辩论中仍然是一个敏感话题——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

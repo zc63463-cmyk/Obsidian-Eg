@@ -3,14 +3,12 @@ title: "foreign"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 外面的（门外的土地）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈfɔːrən/"
 pos: a.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**外面的（门外的土地）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **外面的土地**（空间层面）
@@ -66,7 +64,7 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > for（外面）+ eign（土地）→ 外面的土地 → 外国的。foreign exchange（外汇）就是"外面的交换"。foreign affairs（外交）就是"外面的事务"。foreign to me（与我不相干）就是"在我的门外"。
@@ -89,7 +87,7 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[domestic]]：国内的（foreign 的精确反义：外国的↔国内的）
 > - [[native]]：本国的，本土的（foreign 的反义：外来的↔本土的）
 > - [[familiar]]：熟悉的（foreign"陌生的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **foreign language**：外语
 > - **foreign policy**：外交政策
 > - **foreign trade**：对外贸易
@@ -129,19 +127,15 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The concept of personal choice is foreign to many cultures."（个人选择的概念对许多文化来说是陌生的——考研翻译高频句式）
 > - "Foreign investment has been a major driver of economic growth."（外国投资一直是经济增长的主要驱动力——考研经济类阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

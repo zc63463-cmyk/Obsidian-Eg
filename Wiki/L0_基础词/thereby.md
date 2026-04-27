@@ -3,17 +3,14 @@ title: "thereby"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 借由那个（通过那个方式）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌðeəˈbaɪ/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: there
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ there(那个) + by(通过，借由)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**借由那个（通过那个方式）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **借由那个**（逻辑层面）
@@ -64,7 +61,7 @@ there(那个) + by(通过，借由)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ there(那个) + by(通过，借由)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > there（那个）+ by（通过）→ thereby。记住一个公式：**做A，thereby 做到B**。你努力学习（A），thereby 取得好成绩（B）。thereby 就是"借由那个方式，从而……"。
@@ -86,7 +83,7 @@ there(那个) + by(通过，借由)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ there(那个) + by(通过，借由)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（thereby 为逻辑连接副词，无天然反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +119,22 @@ there(那个) + by(通过，借由)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **thereby doing sth.**：从而做某事
 > - **thereby avoiding**：从而避免
 > - **thereby ensuring**：从而确保
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Scientists need to respond to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care."（科学家需要回应动物权利倡导者，他们的论点正在迷惑公众，从而威胁到健康知识和医疗的进步。——2003年考研阅读）
 > - "They paid cash, thereby avoiding interest charges."（他们付了现款，从而避免了利息费用。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

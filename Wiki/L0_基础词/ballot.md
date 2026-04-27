@@ -3,14 +3,12 @@ title: "ballot"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 小球（古代用小球投票）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈbælət/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小球（投票工具）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **小球**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ballot 来自意大利语 ballotta（小球）。古代意大利人投票时用小球——白球赞成、黑球反对（这就是 blackball"反对票"的来源）。今天我们不再用球投票，但 ballot 仍然是"选票"和"投票"的意思。secret ballot（无记名投票）就是不让别人看到你投的"球"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - ballot 作为投票概念无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **secret ballot**：无记名投票（考研高频搭配）
 > - **cast a ballot**：投票
 > - **hold a ballot**：举行投票
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The leader will be chosen by secret ballot to ensure fairness and transparency in the election process."（领导者将通过无记名投票选举产生，以确保选举过程的公平和透明——考研阅读政治话题相关表达）
 > - "Workers at the plant held a ballot and rejected the proposed changes to their working conditions."（工厂的工人们进行了投票表决，拒绝了对其工作条件的拟议变更——考研翻译相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

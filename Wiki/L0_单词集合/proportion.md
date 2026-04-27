@@ -3,14 +3,12 @@ title: "proportion"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 各自拥有的部分→比例
-extension_dim: 归属路径→数量路径
+extension_dim: [归属路径→数量路径]
 phonetic: "/prəˈpɔːʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**各自拥有的部分**"为统筹中心，沿归属路径→数量路径向外扩展：
 >
 > 1. **各自拥有的部分**（分配层面：每个人分到的份额）
@@ -71,7 +69,7 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > pro（按照）+ port（部分）→ 按照各自的部分→ 比例。想象一个班级里，男生占60%，女生占40%——这就是 proportion（比例）。当一个人的反应和事情严重程度相匹配时——in proportion（成比例的/适度的）。当一个人为了一件小事大发雷霆时——out of proportion（不成比例的/过度的）。proportion 的灵魂就是"各部分之间的关系"。
@@ -94,7 +92,7 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disproportion]]：不均衡，不成比例（proportion 的精确反义：均衡↔不均衡）
 > - [[imbalance]]：不平衡（与"均衡"形成状态对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a large/significant proportion of**：很大比例的……
 > - **in proportion to**：与……成比例
 > - **out of proportion**：不成比例，过度
@@ -135,19 +133,15 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In Japan the proportion is 35%. Not surprisingly, Japanese newspapers are much more stable."（在日本，这一比例是35%。毫不奇怪，日本报纸要稳定得多。——考研英语二2011年Text 2）
 > - "In fact, other recent studies have found there has never been a time in American history when so small a proportion of young people have sought or accepted leadership roles in local civic organizations."（事实上，最近的其他研究发现，美国历史上从未有过如此小比例的年轻人寻求或接受当地民间组织的领导角色。——2016年6月六级阅读原文）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

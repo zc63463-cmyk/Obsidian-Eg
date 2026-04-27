@@ -3,14 +3,12 @@ title: "phrase"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 一种表达方式，简短的言语组合
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/freɪz/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ phra(表达/说出) + -se(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一种表达方式**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **一种表达方式**（语言层面：简短的词语组合）
@@ -70,7 +68,7 @@ phra(表达/说出) + -se(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ phra(表达/说出) + -se(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > phrase 和 [[phase]] 是"表兄弟"——phase 源自"显现"（月亮的外观），phrase 源自"表达"（把想法说出来）。一个是视觉上的"显现"，一个是语言上的"表达"。
@@ -93,7 +91,7 @@ phra(表达/说出) + -se(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,12 +105,12 @@ phra(表达/说出) + -se(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sentence]]：句子（phrase 是短语，sentence 是完整句子，形成部分-整体关系）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,28 +121,22 @@ phra(表达/说出) + -se(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a set phrase**："By the way" is a set phrase in English.（"By the way"是英语中的固定短语。）
 > - **coin a phrase**：To coin a phrase, practice makes perfect.（套用一句老话，熟能生巧。）
 > - **phrase it differently**：Let me phrase it differently.（让我换一种说法。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The phrase "survival of the fittest" is often misunderstood."（"适者生存"这个短语经常被误解。）——考研阅读真题
 > - "He couldn't find the right phrase to express his gratitude."（他找不到合适的措辞来表达他的感激之情。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

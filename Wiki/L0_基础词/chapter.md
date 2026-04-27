@@ -3,14 +3,12 @@ title: "chapter"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 小头（书的一小部分，如同书的"头"）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈtʃæptər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小头（书的一小部分）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **小头**（书的结构层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > chapter 来自拉丁语 capitulum（小头），caput（头）的指小词。一本书的每个"小头"就是一个 chapter（章节）。人生也像一本书，每个阶段都是一个 chapter。The graduation marked a new chapter in her life（毕业标志着她人生新篇章的开始）。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whole]]：整体（chapter 作为"部分"的反义：部分↔整体）
 > - [[book]]：全书（chapter 作为"章节"的反义：章节↔全书）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a new chapter**：新篇章
 > - **open a new chapter**：开启新篇章
 > - **Chapter One/Two**：第一章/第二章
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The discovery of DNA structure opened a new chapter in the history of biology."（DNA结构的发现开启了生物学历史的新篇章——考研科学类语料）
 > - "Each chapter of the textbook begins with a list of key terms and ends with review questions."（教科书的每一章都以关键词列表开始，以复习题结束——考研学术类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

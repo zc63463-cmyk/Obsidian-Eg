@@ -3,14 +3,12 @@ title: "stress"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 压力/强调
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stres/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉紧/压力**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **拉紧/压力**（物理层面：物体受到的拉力或压力）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > stress 源自拉丁语 *stringere* "拉紧"。想象一根橡皮筋被拉紧——这就是 stress 的物理原型。身体被拉紧就是"压力"，说话时某个音节被拉紧就是"重音"，论述时某个观点被拉紧就是"强调"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[relaxation]]：放松（与压力/紧张相对）
 > - [[relief]]：缓解；减轻（与压力相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **under stress**：在压力之下
   - Many people perform poorly under stress.（许多人在压力下表现不佳。）
 > - **stress the importance of**：强调...的重要性
@@ -127,21 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Hugging protects people who are under stress from the increased risk for colds that's usually associated with stress."（拥抱可以保护有压力的人免受通常与压力相关的感冒风险增加的影响。）——考研阅读真题
 > - "The report stresses the importance of early childhood education."（报告强调了幼儿教育的重要性。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

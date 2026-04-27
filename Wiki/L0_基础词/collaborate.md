@@ -3,14 +3,12 @@ title: "collaborate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 共同劳动的、协作的（多个人一起工作）
-extension_dim: 关系路径
+extension_dim: [关系路径]
 phonetic: "/kəˈlæbəreɪt/"
 pos: vi.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同劳动**"为统筹中心，沿关系路径向外扩展：
 >
 > 1. **共同劳动**（动作层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > collaborate = col（共同）+ labor（劳动）+ ate（动词后缀）= 共同劳动 = 合作。拉丁语 *laborare* = 劳动。两个人一起搬石头比一个人搬得更快——这就是 collaborate（合作）的核心画面。Scientists from different countries collaborated on the research project（来自不同国家的科学家合作开展这个研究项目）。注意 collaborate 的贬义用法：collaborate with the enemy（与敌人勾结）——同样是"共同劳动"，但对象变了，含义就变成了"通敌"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[compete]]：竞争（collaborate 的精确反义：合作↔竞争）
 > - [[oppose]]：反对（collaborate 的反义：合作↔反对）
 > - [[sabotage]]：破坏（collaborate 的反义：协作↔破坏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **collaborate with someone on something**：与某人合作做某事
 > - **collaborate on a project/research**：合作开展项目/研究
 > - **in collaboration with**：与……合作
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Scientists from around the world collaborated on the Human Genome Project, one of the most ambitious scientific endeavors in history."（来自世界各地的科学家合作开展了人类基因组计划，这是历史上最雄心勃勃的科学工程之一——考研阅读科技话题）
 > - "In today's interconnected world, the ability to collaborate effectively across cultures has become an essential skill."（在当今相互联系的世界中，跨文化有效合作的能力已成为一项基本技能——考研阅读教育话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

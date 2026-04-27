@@ -3,14 +3,12 @@ title: "represent"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 再次呈现（把某物带到面前展示）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌreprɪˈzent/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**再次呈现**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **再次呈现**（物理层面）
@@ -68,7 +66,7 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > represent = re（再次）+ present（呈现）→ 再次呈现 → 代表。想象你在法庭上，律师把你（you）的立场再次呈现（re-present）给法官——他 represent（代表）你。地图 represent（描绘）一个城市，就是把城市的面貌再次呈现。数据 represent（表示）一种趋势，就是把趋势再次呈现。
@@ -90,7 +88,7 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[misrepresent]]：歪曲，误传（represent ↔ misrepresent，如实呈现 ↔ 歪曲呈现）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **represent a significant proportion**：占相当大的比例（Women represent a significant proportion of the workforce.）
 > - **represent sb. as...**：把某人描述为……（He represented himself as an expert.）
 > - **represent a threat/challenge**：构成威胁/挑战
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Women now represent nearly half of the workforce."（女性现在占劳动力的近一半——考研阅读高频句式）
 > - "The data represents a significant shift in public opinion."（数据代表了公众舆论的重大转变——考研翻译参考）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

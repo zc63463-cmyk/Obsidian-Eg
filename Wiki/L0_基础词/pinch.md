@@ -3,14 +3,12 @@ title: "pinch"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用手指捏紧（物理上的夹紧动作）
-extension_dim: 动作-状态-程度
+extension_dim: [动作-状态-程度]
 phonetic: "/pɪntʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手指捏紧**"为统筹中心，沿动作-状态-程度向外扩展：
 >
 > 1. **用手指捏紧**（物理动作）
@@ -72,7 +70,7 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pinch 和 [[pin]]（钉子/别针）同源。想象你用别针（pin）夹住一张纸——这就是 pinch 的原始画面。后来引申为用手指捏紧：pinch someone's cheek（捏脸颊）。手指能捏起的量很小——a pinch of salt（一撮盐）。资源被"捏紧"就是紧缺——feel the pinch（感到拮据）。pinch 就是"捏紧"的全方位延伸。
@@ -95,7 +93,7 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[release]]：释放，松开（pinch 的反义：捏紧↔松开）
 > - [[abundance]]：丰富，充裕（pinch "紧缺"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pinch someone's cheek**：捏某人的脸颊
 > - **a pinch of salt**：一撮盐
 > - **in a pinch**：在紧要关头，必要时
@@ -135,19 +133,15 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "These shoes are too tight, they pinch my feet."（这双鞋太紧了，夹我的脚——Cambridge Dictionary）
 > - "To prevent egg cracking whilst boiling, add a pinch of salt to the water."（为防止煮蛋时蛋壳破裂，在水中加一撮盐——YourDictionary 例句库）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

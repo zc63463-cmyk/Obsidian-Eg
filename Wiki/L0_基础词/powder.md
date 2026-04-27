@@ -3,17 +3,14 @@ title: "powder"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 细粉（被研磨成粉状的东西）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈpaʊdə/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: powder
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**细粉**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **细粉**（物理层面）
@@ -67,7 +64,7 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > powder 源自拉丁语 pulvis（细尘）。想象古代炼金术士在实验室里研磨各种物质——把硫磺和木炭磨成细粉，混合后就成了 gunpowder（火药）。把小麦磨成细粉就是 flour（面粉），把牛奶脱水成粉就是 milk powder（奶粉）。powder 就是"细粉"。
@@ -90,7 +87,7 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[liquid]]：液体（powder ↔ liquid，粉末 ↔ 液体，物态对比）
 > - [[solid]]：固体（powder ↔ solid，粉末 ↔ 块状固体）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **milk powder**：奶粉
 > - **gunpowder**：火药
 > - **face powder**：粉底，扑粉
@@ -127,18 +124,14 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The invention of gunpowder changed the course of history."（火药的发明改变了历史进程——考研翻译参考句式）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

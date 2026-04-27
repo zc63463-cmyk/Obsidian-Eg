@@ -3,14 +3,12 @@ title: "skeleton"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 干枯的→骨骼
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈskelɪtn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**干枯的→骨骼**"为统筹中心，沿实体→抽象路径向外扩展：
 >
 > 1. **骨骼**（生物层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > skeleton 来自希腊语 *skeletos*（干枯的）。想象一具风干的骷髅——这就是 skeleton 最原始的画面。从"干枯的骨头"出发，skeleton 的含义层层扩展：身体的骨头 = 骨骼，建筑的支撑结构 = 骨架，一篇文章的大纲 = 梗概。记住 skeleton = 骨架，核心画面是"支撑事物的框架"。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - skeleton（骨架）↔ flesh（血肉）——骨架与血肉相对
 > - skeleton（梗概）↔ full version（完整版本）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **human skeleton**：人体骨骼
 > - **skeleton of a building**：建筑骨架
 > - **skeleton plan/outline**：梗概，粗略计划
@@ -134,7 +132,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The archaeologists discovered a human skeleton dating back 5,000 years."（考古学家发现了一具可追溯到5000年前的人类骨骼）——考古话题
 > - "The steel skeleton of the new skyscraper was completed last month."（新摩天大楼的钢骨架已于上月完工）——建筑话题
 > - "Here is a skeleton of our proposed plan."（这是我们提议计划的梗概）——商业/学术话题
@@ -143,15 +141,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

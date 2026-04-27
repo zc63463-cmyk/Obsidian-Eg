@@ -3,14 +3,12 @@ title: "transcend"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 越过（攀爬）界限
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/trænˈsend/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**攀爬越过界限**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **攀爬越过界限**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trans（跨越）+ scend（攀爬）→ 攀爬着越过。登山者攀爬珠穆朗玛峰，当他站在山顶的那一刻，他 transcend 了那座山——他超越了它。贝多芬的音乐 transcend 了时代——他的音乐"攀爬越过"了那个时代的局限，至今仍打动人心。真正的艺术 transcend 文化差异——它"攀爬越过"了文化的围墙。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[limit]]：限制（transcend limits 的反义）
 > - [[confine]]：局限（transcend confine 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **transcend boundaries/limits**：超越界限/极限
 > - **transcend cultural differences**：超越文化差异
 > - **transcend time and space**：超越时空
@@ -125,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Great art has the power to transcend cultural boundaries and speak to the universal human experience."（伟大的艺术有能力超越文化边界，诉诸普遍的人类经验）
 > - "The scientist's work transcends the limitations of current technology."（这位科学家的工作超越了当前技术的局限）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

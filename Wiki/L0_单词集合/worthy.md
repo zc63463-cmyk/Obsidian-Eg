@@ -3,14 +3,12 @@ title: "worthy"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 配得上某种荣誉或地位
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈwɜːði/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**配得上某种荣誉或地位**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **配得上某种荣誉或地位**（资格匹配层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > worthy = worth（价值）+ -y（具有……性质的）。想象一个颁奖典礼，主持人说："这位科学家对人类的贡献是 worthy of this award（配得上这个奖项）的。"他不是用金钱衡量，而是用**品格和贡献**衡量——这就是 worthy 和 worth 的核心区别。worth 问"值多少钱"，worthy 问"配不配得上"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unworthy]]：不值得的，不配的（worthy 的精确反义：配得上↔不配）
 > - [[undeserving]]：不应得的，不配得到的（侧重不应获得奖励/帮助）
 > - [[insignificant]]：无足轻重的（侧重在社会评价中不重要）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **worthy of sth**：值得……的，配得上……的
 > - **worthy of praise/attention/consideration**：值得赞扬/关注/考虑
 > - **a worthy cause**：一项有意义的事业
@@ -139,7 +137,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "a cause worthy of support"（一项值得支持的事业）——考研阅读中常见搭配，描述值得投入的事业
 > - "He proved himself worthy of the trust placed in him."（他证明自己配得上人们对他的信任。）——人物评价类语境
 > - "a worthy successor to the tradition"（这一传统的当之无愧的继承者）——学术/文化类话题
@@ -147,15 +145,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

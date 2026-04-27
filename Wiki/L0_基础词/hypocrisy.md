@@ -3,14 +3,12 @@ title: "hypocrisy"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 在台下表演（演戏给观众看）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/hɪˈpɒkrəsi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ hypo-(在下面，希腊语 *hypo*) + crisy(=crisis，判断/决定，希腊语 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在台下表演（戴着面具演戏）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在台下表演**（戏剧层面）
@@ -64,7 +62,7 @@ hypo-(在下面，希腊语 *hypo*) + crisy(=crisis，判断/决定，希腊语 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ hypo-(在下面，希腊语 *hypo*) + crisy(=crisis，判断/决定，希腊语 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hypo（在下面）+ cris（判断/表演）→ 在台下表演 → 戴着面具做人。古希腊戏剧中，演员戴着面具在台上表演，台下是真实的自己。hypocrisy 就是把社会当舞台，戴着面具做人——嘴上说一套，做的是另一套。
@@ -88,7 +86,7 @@ hypo-(在下面，希腊语 *hypo*) + crisy(=crisis，判断/决定，希腊语 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ hypo-(在下面，希腊语 *hypo*) + crisy(=crisis，判断/决定，希腊语 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sincerity]]：真诚（hypocrisy 的精确反义：虚伪↔真诚）
 > - [[honesty]]：诚实（hypocrisy 的反义：伪善↔诚实）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,25 +115,21 @@ hypo-(在下面，希腊语 *hypo*) + crisy(=crisis，判断/决定，希腊语 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **expose/reveal hypocrisy**：揭露虚伪
 > - **political hypocrisy**：政治虚伪
 > - **an act of hypocrisy**：虚伪的行为
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The author exposed the hypocrisy of those who preach environmental protection while driving gas-guzzling cars."（作者揭露了那些一边宣扬环保一边开着耗油汽车的虚伪行为）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

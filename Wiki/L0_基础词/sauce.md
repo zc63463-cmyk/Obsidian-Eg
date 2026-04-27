@@ -3,14 +3,12 @@ title: "sauce"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 盐腌的食物（调味品的总称）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/sɔːs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**盐腌的食物/调味汁**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **调味汁**（物理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sauce 源自拉丁语 *salsus* = 盐腌的 = 有盐味的。核心画面是"厨师往菜上浇酱汁"。拉丁语 *salsus* 就是"加盐的"，最初指盐腌的食物，后来专指酱汁。soy sauce = 酱油，tomato sauce = 番茄酱。引申义：Humor is the sauce of life = 幽默是生活的调味品。sauce 与 [[sausage]]（香肠）、[[saucer]]（茶碟）同源——都和"盐/调味"有关。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（sauce 为具体物品，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **soy sauce**：酱油
 > - **tomato sauce**：番茄酱
 > - **what's sauce for the goose is sauce for the gander**：适用于甲的也适用于乙
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The chef's signature dish was a perfectly roasted chicken served with a rich, savory sauce that delighted every diner."（厨师的招牌菜是一道烤得恰到好处的鸡肉，配以浓郁美味的酱汁，令每位食客赞不绝口——考研翻译饮食文化话题相关表达）
 > - "As the proverb goes, 'What's sauce for the goose is sauce for the gander' — the same rules should apply to everyone regardless of their status."（正如谚语所说，'适用于甲的也适用于乙'——同样的规则应该适用于所有人，不论其地位如何——考研翻译谚语相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

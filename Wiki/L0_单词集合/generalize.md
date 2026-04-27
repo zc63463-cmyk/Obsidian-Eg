@@ -3,14 +3,12 @@ title: "generalize"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 从个别事物中提取共性
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdʒenərəlaɪz/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从个别事物中提取共性**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **从个别事物中提取共性**（认知操作层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > generalize = general（一般的、普遍的）+ -ize（使……化）。想象你是一位科学家，观察了100个苹果都往地上掉，于是你**使**这些观察**一般化**（generalize），得出"万有引力"的普遍规律。从100个具体苹果到一个普遍定律——这就是 generalize 的力量。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[specify]]：具体说明（generalize 的精确反义：概括↔具体化）
 > - [[particularize]]：详细列举个别情况（从一般回到个别）
 > - [[specialize]]：使专门化（generalize 的领域反义：推广↔专精）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **generalize from**：从……中归纳（We can generalize from the data.）
 > - **generalize about**：对……泛泛而谈（It's dangerous to generalize about people.）
 > - **generalize to**：将……推广到（generalize the results to the whole population）
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is dangerous to generalize about people."（以偏概全地谈论人是危险的。）——考研阅读常见句式，警示过度概括
 > - "You cannot generalize about the effects of the drug from one or two cases."（不能根据一两个病例就概括该药物的效果。）——考研翻译/阅读，医学实验语境
 > - "Physicians are still debating whether to generalize the data on aspirin to women."（医生们仍在争论是否应将阿司匹林的数据推广到女性。）——学术研究语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

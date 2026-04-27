@@ -3,17 +3,14 @@ title: "lawsuit"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 法律诉讼
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈlɔːsuːt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: law
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -46,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**法律诉讼**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **法律诉讼**（法律层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lawsuit = law（法律）+ suit（诉讼）。suit 在这里不是"西装"，而是"追诉"。想象一个人穿着西装走进法院——他不是来走秀的，他是来打 **lawsuit**（官司）的。记住 law = 法律，suit = 诉讼（不是西装！），lawsuit = 法律诉讼 = 官司。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[settlement]]：和解（诉讼↔和解，打官司↔私下解决）
 > - [[compromise]]：妥协（诉讼↔妥协）
 > - [[agreement]]：协议（诉讼↔协议解决）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **file a lawsuit**：提起诉讼
 > - **face a lawsuit**：面临诉讼
 > - **win / lose a lawsuit**：打赢/打输官司
@@ -134,7 +131,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company is facing a lawsuit over its environmental practices."（该公司因其环境做法正面临一场诉讼）——商业/环保语境
 > - "She filed a lawsuit against her former employer for discrimination."（她起诉前雇主歧视）——法律/社会语境
 > - "The lawsuit was settled out of court for an undisclosed amount."（该诉讼在庭外和解，金额未披露）——法律语境
@@ -142,15 +139,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

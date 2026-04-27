@@ -3,14 +3,12 @@ title: "pair"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 两个相等的东西配在一起（一对、一双）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/peər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**两个相等的东西配在一起**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **两个相等**（数量层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pair 的核心画面是"两个相等的配在一起"。拉丁语 *par* = 相等的。a pair of shoes = 左右两只相等的鞋配在一起。a pair of scissors = 两片相等的刀刃配在一起。pair 的核心逻辑是"相等+匹配"。同源词：[[par]]（平价）、[[peer]]（同辈=与你相等的人）、[[compare]]（比较=放在一起看是否相等）、[[disparity]]（不等）。注意 pair 和 [[pare]]（削皮）同音但意思不同。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[odd]] | 单个的（pair 的反义：成对的↔单个的）
 > - [[single]]：单个的（pair 的反义：成对的↔单个的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a pair of**：一对/一双
 > - **pair A with B**：把A和B配对
 > - **pair off**：配成对
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Research has shown that students tend to perform better when they work in pairs rather than individually on complex problem-solving tasks."（研究表明，学生在复杂的解决问题任务中，成对合作比单独工作表现更好——考研阅读教育话题）
 > - "The new technology pairs artificial intelligence with human expertise to deliver more accurate medical diagnoses."（这项新技术将人工智能与人类专业知识相结合，以提供更准确的医学诊断——考研翻译科技话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

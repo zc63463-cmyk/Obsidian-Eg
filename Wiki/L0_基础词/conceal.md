@@ -3,14 +3,12 @@ title: "conceal"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 一起小心地藏起来
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kənˈsiːl/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全藏起来**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **完全藏起来**（物理层面）
@@ -64,7 +62,7 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（完全）+ ceal（隐藏）→ conceal。ceal 就是 seal（密封）去掉 s——把东西密封起来就是完全藏起来。conceal a secret 就是把秘密完全密封在心底。
@@ -86,7 +84,7 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reveal]]：揭露，揭示（conceal 的反义：隐藏↔揭露）
 > - [[expose]]：暴露（conceal 的反义：隐藏↔暴露）
 > - [[disclose]]：公开，透露（conceal 的反义：隐瞒↔公开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conceal the truth/facts**：隐瞒真相/事实
 > - **conceal information**：隐瞒信息
 > - **conceal a weapon**：隐藏武器
@@ -126,19 +124,15 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The suspect attempted to conceal the evidence from the police."（嫌疑人试图向警方隐瞒证据——法律语境高频）
 > - "She tried to conceal her disappointment."（她试图掩饰自己的失望）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

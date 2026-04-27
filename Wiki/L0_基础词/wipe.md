@@ -3,14 +3,12 @@ title: "wipe"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 来回移动以清除表面污渍
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/waɪp/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**来回移动以清除表面污渍**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **来回擦拭**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wipe 的核心画面是"来回擦拭"。PIE *\*weip-* = 转动、摇摆。想象用抹布在桌面上来回移动——左一下、右一下，灰尘就被擦掉了。这就是 wipe 的原始含义。Wipe your tears（擦干眼泪）= 把泪水从脸上"擦走"。Wipe out the enemy（消灭敌人）= 把敌人从地图上"擦掉"。现代科技中，wipe a hard drive（格式化硬盘）也是同样的逻辑——把数据"擦干净"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[smear]]：涂抹，弄脏（wipe 的反义：擦干净↔弄脏）
 > - [[stain]]：留下污渍（wipe 的反义：擦去↔留下）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **wipe out**：彻底消灭，摧毁
 > - **wipe away/off**：擦去，消除
 > - **wipe up**：擦干净（强调结果）
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The cost of the new building will wipe out all the company's profits this year."（新建大楼的费用将把公司今年所有的利润消耗殆尽——考研阅读经济话题相关表达，wipe out 表示"彻底消耗"）
 > - "She wiped the sweat from her forehead and continued working under the scorching sun."（她擦去额头上的汗水，在烈日下继续工作——考研翻译劳动话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

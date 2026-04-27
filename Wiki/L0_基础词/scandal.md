@@ -3,14 +3,12 @@ title: "scandal"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 使人跌倒的陷阱（导致名誉受损的事件）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈskændl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使人跌倒的陷阱**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **物理陷阱**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scandal 源自希腊语 *skandalon* = 绊脚石 = 陷阱。核心画面是"猎人设下的陷阱，猎物一踩上去就绊倒了"。后来引申为"导致名誉受损的事件"——丑闻就是让人名誉"绊倒"的陷阱。The Watergate scandal = 水门丑闻（让尼克松总统名誉"绊倒"的事件）。It's a scandal that so many people live in poverty = 这么多人生活在贫困中真是令人震惊的事。scandal 的灵魂是"绊倒"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[honor]]：荣誉（scandal 的反义：丑闻↔荣誉）
 > - [[praise]]：赞美（scandal 的反义：诽谤↔赞美）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a political / financial scandal**：政治/财务丑闻
 > - **cause / create a scandal**：引起丑闻
 > - **be involved in a scandal**：卷入丑闻
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The corporate accounting scandal not only destroyed the company's reputation but also shook public confidence in the entire financial system."（企业会计丑闻不仅摧毁了公司的声誉，还动摇了公众对整个金融体系的信心——考研阅读商业话题相关表达）
 > - "It is a scandal that in the 21st century, millions of children still lack access to basic education and healthcare."（在21世纪，仍有数百万儿童无法获得基础教育和医疗保健，这真是令人震惊的事——考研翻译社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

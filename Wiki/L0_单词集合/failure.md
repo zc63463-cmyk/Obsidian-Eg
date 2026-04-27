@@ -3,14 +3,12 @@ title: "failure"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 未能达到目标的状态或结果
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfeɪljə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**未能达到目标的状态或结果**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **未能达到目标的状态**（抽象层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > failure 就是 fail 的名词形式——fail 是"失败"这个动作，failure 是"失败"这个**结果**。一次考试失败是 a failure，一个总是失败的人是 a failure，一台罢工的机器也是 a failure（故障）。记住：failure 的本质就是"**未能达标的状态**"，适用于人、机器、企业等一切事物。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[success]]：成功（failure 的精确反义：失败↔成功）
 > - [[achievement]]：成就（failure 作为"未能做到"的反义：未做到↔成就）
 > - [[triumph]]：胜利，成功（failure 作为"失败"的反义：失败↔胜利）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **end in failure**：以失败告终
 > - **failure to do sth.**：未能做某事
 > - **engine/system failure**：发动机/系统故障
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Failure is the mother of success."（失败是成功之母）——经典谚语，考研写作可用
 > - "The failure of the bank caused a panic."（银行倒闭引发了恐慌）——经济类阅读高频搭配
 > - "His failure to attend the meeting was noted."（他未能出席会议被记录在案）——正式/法律语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "sentiment"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 内心的感觉（由情感驱动的看法）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsentɪmənt/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**内心的感觉**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **内心的感觉**（个人层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sentiment 来自 *sentire*（感觉）。sent（感觉）+ iment → 内心的感觉。Nationalist sentiment has increased（民族主义情绪增长了）。Public sentiment is against any change to the law（公众的意见是反对对该法律作任何修改）。sentiment 就是"有感而发"——从个人情感到社会态度。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reason]]：理性（sentiment 情感/感性 ↔ reason 理性）
 > - [[indifference]]：冷漠（sentiment 强烈情感 ↔ indifference 冷漠）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **public sentiment**：公众情绪
 > - **consumer sentiment**：消费者信心指数
 > - **anti-establishment sentiment**：反建制情绪
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But the consumer sentiment index remains weak, and all the rebound has occurred in Americans' evaluation of future economic conditions, not the present."（但消费者信心指数仍然疲弱，所有反弹都出现在美国人对未来经济条件的评估上，而非当前——2016年英语一阅读）
 > - "It is possible that the Obama effect will be short-lived if there is a change in people's political sentiment."（如果人们的政治情绪发生变化，奥巴马效应可能是短暂的——2010年英语一Text 3）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

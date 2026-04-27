@@ -3,14 +3,12 @@ title: "mend"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 修复
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/mend/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**修复**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **修复**（物理层面）
@@ -66,7 +64,7 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mend 源自古英语"修复"。We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone——我们的心理健康不是学来的：它是我们生来就有的，就像我们的身体知道如何愈合伤口或修复断骨一样（2016年考研英语翻译）。mend 从"修东西"延伸到"修关系"和"修行为"。
@@ -88,7 +86,7 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[break]]：打破，损坏（mend 的精确反义：修复↔损坏）
 > - [[ruin]]：毁坏（修复的反义：修复↔毁坏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mend a broken pipe/hole**：修爆裂的水管/补洞
 > - **mend relations/fences**：修复关系
 > - **mend one's ways**：改过自新
@@ -131,19 +129,15 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone."（我们的心理健康不是学来的：它是我们生来就有的，就像我们的身体知道如何愈合伤口或修复断骨一样——2016年考研英语翻译）
 > - "The country's president is seeking to mend relations with the United States."（该国总统正寻求修复与美国的关系——考研国际关系类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

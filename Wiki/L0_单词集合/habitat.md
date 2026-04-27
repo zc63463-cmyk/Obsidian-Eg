@@ -3,14 +3,12 @@ title: "habitat"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 动植物自然栖息、居住的地方
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈhæbɪtæt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**动植物自然栖息、居住的地方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **动植物自然栖息、居住的地方**（物理空间层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > habitat 和 habit（习惯）是亲兄弟——都来自拉丁语 habere（拥有、持有）。你**习惯**（habit）了一个地方，那个地方就成了你的**栖息地**（habitat）。北极熊的 habitat 是冰川，热带鱼的 habitat 是珊瑚礁——每个物种都有自己"习惯"了的家。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wasteland]]：荒地（habitat 的反义：丰饶的栖息地 ↔ 荒芜之地）
 > - [[exile]]：流放地（被迫离开栖息地 → 与"自然居住"对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **natural habitat**：天然栖息地
 > - **habitat destruction / loss**：栖息地破坏/丧失
 > - **destroy / preserve a habitat**：破坏/保护栖息地
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The destruction of natural habitats threatens many species with extinction."（天然栖息地的破坏使许多物种面临灭绝威胁）——考研阅读环保类高频话题
 > - "Polar bears' natural habitat is the Arctic ice."（北极熊的天然栖息地是北极冰原）——科普类阅读语境
 > - "The city provides a rich habitat for artists and writers."（这座城市为艺术家和作家提供了丰富的生存土壤）——文化类阅读引申用法
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

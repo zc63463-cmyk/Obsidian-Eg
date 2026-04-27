@@ -3,14 +3,12 @@ title: "hollow"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 洞/凹陷（中间空的地方）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈhɒləʊ/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**洞/凹陷（中间空）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **中间空**（物理层面）
@@ -71,7 +69,7 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hollow 和 hole（洞）同源，都是"中间空"的意思。一棵被虫蛀空的树叫 hollow tree，脸颊瘦得凹进去叫 hollow cheeks。 politician 的承诺如果没有实质内容，就是 hollow promises（空洞的承诺）。一场赢了但没有意义的胜利叫 hollow victory（空洞的胜利）。hollow = 中间什么都没有。
@@ -95,7 +93,7 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[solid]]：实心的（hollow 的精确反义：中空↔实心）
 > - [[substantial]]：实质的，有内容的（hollow 的语义反义：空洞↔有实质内容）
 > - [[full]]：满的（hollow 的反义：空↔满）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hollow promises**：空洞的承诺
 > - **hollow victory**：空洞的胜利（赢了但没有实质意义）
 > - **a hollow tree/trunk**：空心的树/树干
@@ -135,19 +133,15 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - His promises turned out to be hollow.（他的承诺结果证明是空洞的——考研阅读常见表达）
 > - The team celebrated a hollow victory, knowing the championship was already out of reach.（球队庆祝了一场空洞的胜利，因为他们知道冠军已经遥不可及——考研翻译高频句型）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

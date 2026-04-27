@@ -3,14 +3,12 @@ title: "barrel"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 桶（圆筒形木制容器）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈbærəl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**桶（圆筒形木制容器）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **桶**（容器层面）
@@ -67,7 +65,7 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > barrel 来自法语 *baril*，原义就是"木桶"。古代酿酒、储存石油都用木桶，所以 a barrel of oil（一桶油）成为石油计量的标准单位。枪管之所以也叫 barrel，因为它的形状就是一个金属圆筒。
@@ -90,7 +88,7 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（barrel 为具体物品名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a barrel of oil**：一桶石油
 > - **the barrel of a gun**：枪管
 > - **barrel down**：飞驰
@@ -128,19 +126,15 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December."（自从石油输出国组织在3月决定减少原油供应以来，原油的价格便从去年12月的不到10美元飙升至近26美元一桶——2002年考研英语阅读Text 3）
 > - "The barrel of the gun was still warm."（枪管还是热的——考研翻译相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

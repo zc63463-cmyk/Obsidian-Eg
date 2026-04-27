@@ -3,14 +3,12 @@ title: "outward"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 超出内部的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈaʊtwəd/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**超出内部的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **超出内部的**（物理方向层面）
@@ -66,7 +64,7 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > outward = out（向外）+ ward（方向）= 朝外方向。-ward 后缀表示方向：forward（向前）、backward（向后）、upward（向上）、downward（向下）。outward 就是"向外"的方向。物理上：outward journey（向外/出行的旅程）；抽象上：outward appearance（外表——向外展示的形象）。记住 outward 强调的是**方向**，不是位置：outside 是"在外面"（你在哪），outward 是"向外的"（你往哪走）。out- 前缀家族：outrage（超出愤怒→愤慨）、outset（向外放置→开始）、outside（超出边界→外面）、outward（超出内部→向外的）。
@@ -89,7 +87,7 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inward]]：向内的（outward "向外的"的精确反义）
 > - [[inner]]：内部的（outward "外在的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **outward journey/voyage**：出行的旅程/航程
 > - **outward appearance**：外表，外在形象
 > - **outward behavior**：外在行为
@@ -127,22 +125,16 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Despite his calm outward appearance, he was deeply anxious."（尽管他外表平静，内心却非常焦虑）——心理描写类阅读
 > - "The outward journey took longer than expected due to bad weather."（由于恶劣天气，出行的旅程比预期更长）——旅行/叙事类话题
 > - "The company's outward confidence masked its internal problems."（公司的外在自信掩盖了其内部问题）——商业分析类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

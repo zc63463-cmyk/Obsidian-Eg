@@ -3,14 +3,12 @@ title: "erupt"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 突然冲破而出（像火山一样猛然爆发）
-extension_dim: 自然路径
+extension_dim: [自然路径]
 phonetic: "/ɪˈrʌpt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**突然冲破而出（像火山一样猛然爆发）**"为统筹中心，沿自然路径向外扩展：
 >
 > 1. **向外打破**（自然层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > erupt 来自拉丁语，e-（向外）+ rupt（打破）→ "向外打破"。想象一座沉睡已久的火山，地下的岩浆积蓄了巨大的压力，终于"向外打破"地壳——轰然喷发——这就是 erupt。考研中常用于比喻：violence erupted（暴力爆发）、protests erupted（抗议爆发）、laughter erupted（笑声爆发）。核心就是"压抑的东西突然冲出来"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subside]]：平息（erupt 的精确反义：爆发↔平息）
 > - [[suppress]]：压制（erupt 的反义：冲破↔压制）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **volcano erupts**：火山爆发（考研高频搭配）
 > - **violence/riots erupt**：暴力/骚乱爆发
 > - **erupt into**：突然变成……（erupt into violence）
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Violence erupted in several cities following the controversial court ruling."（争议性法院裁决后，多个城市爆发了暴力事件——考研阅读社会话题高频表达）
 > - "The volcano erupted unexpectedly, sending ash thousands of meters into the atmosphere."（火山意外喷发，将火山灰喷射到数千米高的大气中——考研阅读自然话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

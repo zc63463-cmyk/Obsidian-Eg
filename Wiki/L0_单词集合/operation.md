@@ -3,14 +3,12 @@ title: "operation"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 工作的过程或结果
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˌɒpəˈreɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有目的的工作过程**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **有目的的工作过程**（物理操作层面）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > operation 是 operate 的名词形式——你**操作**（operate）机器的过程就是 **operation**（操作）；医生**动手术**（operate）的整个过程就是 **operation**（手术）；公司**运营**（operate）的全部活动就是 **operation**（运营）。记住：operation 就是"有目的的工作过程"的名词化。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[shutdown]]：关闭/停工（operation 的精确反义：运营↔停工）
 > - [[inaction]]：不作为/无所行动（有目的行动的反义）
 > - [[failure]]：失败/故障（成功运转的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **perform/conduct an operation**：做手术；实施行动
 > - **in operation**：在运转中，在实施中
 > - **business operations**：企业运营
@@ -139,22 +137,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new law will come into operation next month."（新法律将于下月生效）——考研阅读常见搭配，法律政策类
 > - "The hospital performs over 200 operations a week."（这家医院每周进行200多台手术）——医学/社会类阅读语境
 > - "The company's overseas operations have been expanding rapidly."（该公司的海外业务迅速扩张）——商业类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

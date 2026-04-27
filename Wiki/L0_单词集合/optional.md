@@ -3,17 +3,14 @@ title: "optional"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 可以选择不做的事
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɒpʃənl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: opt
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -45,7 +42,7 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可以选择**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可以选择**（选择层面：有自由决定是否参与）
@@ -66,7 +63,7 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 大学开学选课，教务系统上标注着"optional"的课程——这些课你可以选（opt），也可以不选，完全看你自己。
@@ -87,7 +84,7 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[compulsory]]：强制的、必修的（可选 vs 必须做）
 > - [[mandatory]]：法定的、强制的（可选 vs 法定必须）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **optional course/subject**：选修课
 >   Students can choose from a wide range of optional courses in their third year.（学生在第三年可以从广泛的选修课中进行选择。）
 > - **optional equipment**：可选设备
@@ -125,21 +122,15 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The course includes both compulsory and optional modules."（这门课程既包括必修模块，也包括选修模块。）——考研高频表达
 > - "Attendance at the seminar is optional for all students."（所有学生均可自愿参加研讨会。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

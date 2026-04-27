@@ -3,14 +3,12 @@ title: "amend"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 修正使之更好
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈmend/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ a-/em-(加强) + 建议创建词根笔记 [[mend/mend]](修正，修补) = 修�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**修正使之更好**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **修正使之更好**（物理层面：修补破损）
@@ -64,7 +62,7 @@ a-/em-(加强) + 建议创建词根笔记 [[mend/mend]](修正，修补) = 修�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ a-/em-(加强) + 建议创建词根笔记 [[mend/mend]](修正，修补) = 修�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 裁缝一针一线地修补（mend修正）衣服上的破洞，让它恢复如新——amend 就是"修正，修订"。
@@ -89,7 +87,7 @@ a-/em-(加强) + 建议创建词根笔记 [[mend/mend]](修正，修补) = 修�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ a-/em-(加强) + 建议创建词根笔记 [[mend/mend]](修正，修补) = 修�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[worsen]]：恶化，使变坏
 > - [[spoil]]：破坏，糟蹋
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ a-/em-(加强) + 建议创建词根笔记 [[mend/mend]](修正，修补) = 修�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **amend the constitution/law**：修正宪法/法律
   - The First Amendment to the U.S. Constitution guarantees freedom of speech.（美国宪法第一修正案保障言论自由。）
 > - **amend one's ways**：改过自新
@@ -131,22 +129,14 @@ a-/em-(加强) + 建议创建词根笔记 [[mend/mend]](修正，修补) = 修�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government proposed to amend the constitution to extend the term limits for the president."（政府提议修改宪法以延长总统的任期限制。）——考研高频表达
 > - "The committee agreed to amend the original plan to accommodate the concerns of local residents."（委员会同意修改原计划以回应当地居民的关切。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

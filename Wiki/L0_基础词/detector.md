@@ -3,14 +3,12 @@ title: "detector"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 去掉覆盖物、发现隐藏事物的工具
-extension_dim: 工具路径
+extension_dim: [工具路径]
 phonetic: "/dɪˈtektə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**去掉覆盖物、发现隐藏事物的工具**"为统筹中心，沿工具路径向外扩展：
 >
 > 1. **去掉覆盖的工具**（工具层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > detector = [[de]]（去掉）+ tect（覆盖）+ -or（工具）= 去掉覆盖的工具 = 探测器。核心画面是"机场安检的金属探测器——它'去掉'了衣服的'覆盖'，发现了隐藏的金属物品"。smoke detector（烟雾探测器）发现隐藏的烟雾，lie detector（测谎仪）发现隐藏的谎言。同源词：[[detect]]（发现）、[[detective]]（侦探）、protect（保护=在前面覆盖）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - detector 没有精确反义词，属于工具类词汇
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **smoke detector**：烟雾探测器/报警器
 > - **metal detector**：金属探测器
 > - **lie detector**：测谎仪
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Modern smoke detectors can detect even the smallest amount of smoke, providing early warning that can save lives in a fire emergency."（现代烟雾探测器能检测到即使是最微量的烟雾，在火灾紧急情况下提供能挽救生命的早期预警——考研阅读科技话题相关表达）
 > - "Airport security has been significantly enhanced with the introduction of advanced metal detectors and X-ray scanners."（随着先进的金属探测器和X光扫描仪的引入，机场安全已得到显著加强——考研翻译科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

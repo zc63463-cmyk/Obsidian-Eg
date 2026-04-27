@@ -3,17 +3,14 @@ title: "selfish"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 只关注自己的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈselfɪʃ/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: self
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**只关注自己的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **只关注自己的**（社会行为层面）
@@ -62,7 +59,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[self]]（自己）+ -ish（有……倾向的）= selfish（自私的）。想象一个人在分蛋糕时，总是把最大的一块留给自己，完全不顾别人——这种"只有自己"的倾向就是 selfish。对比 [[selfless]]（无私的）：self + less（没有）= 没有自己 = 无私的。selfish 和 selfless 是一对完美的反义词。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +96,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[selfless]]：无私的（self + -less = 没有自己 = 无私的，selfish 的完美反义词）
 > - [[generous]]：慷慨的，大方的（selfish 是只顾自己，generous 是乐于给予他人）
 > - [[altruistic]]：利他的（selfish 是利己，altruistic 是利他）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,29 +116,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **selfish behavior/motives**：自私的行为/动机 — His selfish behavior alienated his friends.
 > - **purely selfish**：纯粹自私的 — The decision was driven by purely selfish interests.
 > - **selfish interests**：私利 — Politicians should not pursue selfish interests at the expense of the public.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Selfish behavior can undermine social cohesion and trust among community members."（考研英语——自私行为会削弱社会凝聚力和社区成员间的信任）
 > - "The author argues that human beings are not inherently selfish, but are shaped by their environment."（考研英语——作者认为人类并非天生自私，而是受环境塑造）
 > - "Putting selfish interests above the common good is a threat to democratic society."（考研英语——将私利置于公共利益之上是对民主社会的威胁）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

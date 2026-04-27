@@ -3,14 +3,12 @@ title: "transfer"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 携带某物跨越到另一处
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/trænsˈfɜːr/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**携带某物跨越到另一处**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **携带某物跨越到另一处**（物理空间）
@@ -72,7 +70,7 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象快递员把一个包裹从北京"带过"（trans + fer）到上海——这就是 transfer 的原型。生活中到处都是 transfer：你从分公司调到总部（工作调动），把房产证上的名字换成别人的（权利转让），在地铁站从1号线走到2号线（换乘），把钱从储蓄卡转到信用卡（转账）。记住：transfer = trans（跨越）+ fer（带）= 带过去。
@@ -96,7 +94,7 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retain]]：保留，保持（transfer 的反义：转移出去↔保留在原处）
 > - [[keep]]：保留，留下（一般性反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **transfer money**：转账
 > - **transfer to another school**：转学
 > - **transfer of power/ownership**：权力/所有权转移
@@ -137,20 +135,14 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Conrail's net railway operating income in 1996 was just $427 million, less than half of the carrying costs of the transaction."（联合铁路公司1996年铁路运营净收入仅为4.27亿美元，不到该交易运输成本的一半。）——2003年阅读3
 > - "The transfer of technology from developed to developing countries is essential for global economic growth."（将技术从发达国家转移到发展中国家对全球经济增长至关重要。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "superfluous"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在上方流动（溢出的，多余的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/suːˈpɜːfluəs/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在上方流动（溢出）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在上方流动（溢出）**（物理层面：水溢出容器）
@@ -62,7 +60,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > super（在上方）+ flu（流）+ -ous（充满……的）。想象水杯满了，水还在**上方****流**出来——溢出的部分就是 **superfluous**（多余的）。记住：上方溢出 = 多余的 = superfluous。
@@ -84,7 +82,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[necessary]]：必要的
 > - [[essential]]：必不可少的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **superfluous details**：多余的细节
   - The report contains too many superfluous details.（这份报告包含了太多多余的细节。）
 > - **superfluous to**：对……来说是多余的
@@ -122,19 +120,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He had already been told, so our comments were superfluous."（早就有人同他说过，所以我们的意见是多余的——考研高频表达）
 > - "She gave him a look that made words superfluous."（她看了他一眼，这已表明一切，无须多言——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

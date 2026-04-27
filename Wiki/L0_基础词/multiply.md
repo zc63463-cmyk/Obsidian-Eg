@@ -3,14 +3,12 @@ title: "multiply"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 折叠叠加（将一层变成多层）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmʌltɪplaɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ multi-(许多，多) + ply(=plic，折叠)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**折叠叠加（将一层变成多层）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **折叠叠加**（物理层面）
@@ -69,7 +67,7 @@ multi-(许多，多) + ply(=plic，折叠)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ multi-(许多，多) + ply(=plic，折叠)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > multi（多）+ ply（折叠）→ 反复折叠 → 成倍增加。数学课上老师说"3 乘以 4 等于 12"，就是 multiply——把 3 折叠 4 次，得到 12。兔子繁殖很快，因为它们在"multiply"——一只变两只，两只变四只，不断"折叠叠加"。你的努力 multiply 了，就是你的努力被反复叠加，效果成倍增长。
@@ -92,7 +90,7 @@ multi-(许多，多) + ply(=plic，折叠)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ multi-(许多，多) + ply(=plic，折叠)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[divide]]：除，分开（multiply 的精确反义：乘↔除，叠加↔分开）
 > - [[decrease]]：减少（multiply 的反义：增加↔减少）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ multi-(许多，多) + ply(=plic，折叠)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **multiply A by B**：将 A 乘以 B
 > - **multiply rapidly**：迅速繁殖/增加
 > - **multiply one's efforts**：加倍努力
@@ -131,19 +129,15 @@ multi-(许多，多) + ply(=plic，折叠)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Efficiency will multiply when the new system is introduced."（引入新系统后效率将成倍增长——考研翻译常见表达）
 > - "The rabbits multiplied rapidly in the favorable conditions."（在有利条件下兔子迅速繁殖——考研阅读常见搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

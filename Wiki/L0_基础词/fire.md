@@ -3,14 +3,12 @@ title: "fire"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 火（燃烧产生的光和热）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfaɪər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**火**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **火**（自然现象层面）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fire 是原始日耳曼语基础词，核心是"燃烧"。火的三个隐喻方向：①火力→射击（fire a gun）；②火烧→解雇（be fired = 被烧掉了工作）；③火光→激发（fire imagination = 点燃想象力）。记住：被 fire 了不是着火了，而是被"烧"了。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[water]]：水（fire 的元素反义：火↔水）
 > - [[hire]]：雇佣（fire 的精确反义：解雇↔雇佣）
 > - [[extinguish]]：熄灭（fire 的动作反义：点燃↔熄灭）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on fire**：着火；非常激动
 > - **open fire**：开火
 > - **catch fire**：着火
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company decided to fire 20% of its workforce."（公司决定裁减20%的员工）
 > - "The government came under fire for its handling of the crisis."（政府因处理危机的方式而受到批评）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

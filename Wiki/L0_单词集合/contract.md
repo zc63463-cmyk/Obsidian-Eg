@@ -3,14 +3,12 @@ title: "contract"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 拉到一起，收紧
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kənˈtrækt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉到一起，收紧**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **拉到一起，收紧**（物理层面）
@@ -74,7 +72,7 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马市场上，买卖双方各执绳索一端，用力拉紧（tract）到一起（con），绳结锁死——这就是 contract（合同）。签完合同后，绳索收紧，就像肌肉收缩（contract）一样。后来中世纪医生说，疾病也像一根绳索，把人"拉紧"了——这就是 contract a disease（感染疾病）。
@@ -98,7 +96,7 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,14 +109,14 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expand]]：膨胀，扩张（物理上的"拉紧"↔"膨胀"）
 > - [[dissolve]]：解除（合同），溶解（解除合同关系 ↔ 缔结合同关系）
 > - [[breach]]：违反，破坏（breach of contract 违约 ↔ sign a contract 签约）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sign a contract**：签订合同
 > - **breach of contract**：违约
 > - **contract a disease/virus**：感染疾病/病毒
@@ -142,21 +140,15 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company won a contract worth millions of dollars to build the new bridge."（公司赢得了价值数百万美元的新桥建设合同。）——考研高频表达
 > - "Economic growth contracted sharply in the fourth quarter."（经济增长在第四季度急剧萎缩。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

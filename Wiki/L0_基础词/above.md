@@ -3,14 +3,12 @@ title: "above"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 在某物的上方（空间位置高于）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈbʌv/"
 pos: prep.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在某物的上方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在上方**（空间层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > above 的核心是"在上方"。a-（在）+ bove（上方）= 在上方。天空在地面之上是 above us。分数超过平均线是 above average。一个人的品格无可怀疑是 above suspicion（站在怀疑之上）。最重要的是 above all（在一切之上）。above 始终围绕"高于"——空间高于、数量高于、品质高于。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[below]]：在……下方（above 的精确反义：上方↔下方）
 > - [[under]]：在……下面（above 的反义：上方↔下面）
 > - [[beneath]]：在……之下（above 的反义：上方↔之下）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **above all**：最重要的是
 > - **above average**：高于平均水平
 > - **above suspicion**：无可怀疑
@@ -138,19 +136,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The inflation rate has remained above the central bank's target of 2 percent for the past twelve months, prompting concerns about monetary policy."（过去十二个月来，通胀率一直保持在央行2%的目标之上，引发了对货币政策的担忧——考研阅读经济话题相关表达）
 > - "Above all, the study demonstrates that early childhood education has a profound and lasting impact on a person's cognitive development."（最重要的是，研究表明早期教育对一个人的认知发展有着深远而持久的影响——考研翻译教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

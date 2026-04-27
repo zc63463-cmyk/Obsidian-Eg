@@ -3,14 +3,12 @@ title: "resource"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 反复涌出的东西
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈsɔːrs/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复涌出的东西**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **反复涌出的东西**（物质层面）
@@ -69,7 +67,7 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（反复）+ source（涌出）→ 反复涌出的泉水就是 resource。大自然反复涌出矿产和水源叫 natural resources，银行反复涌出资金叫 financial resources，一个人面对困难反复涌出好主意叫 a person of resource。
@@ -92,7 +90,7 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[waste]]：浪费，废物（resource 的反义：资源↔废物）
 > - [[depletion]]：耗尽，枯竭（resource 的反义：可反复取用↔耗尽）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **natural resources**：自然资源
 > - **human resources**：人力资源
 > - **financial resources**：财力，资金
@@ -133,19 +131,15 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age."（一些学者得出结论，资源有限的政府应该停止支付维持超过特定年龄人群生命的医疗费用——2003年考研Text 4）
 > - "Britain's towns, it is true, are not prevented from applying, but they generally lack the resources to put together a bid to beat their bigger competitors."（诚然，英国的城镇也可以申请，但它们通常缺乏资源，无法联合起来以努力击败规模更大的竞争对手——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

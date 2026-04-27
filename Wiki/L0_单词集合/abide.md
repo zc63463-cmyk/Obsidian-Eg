@@ -3,14 +3,12 @@ title: "abide"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 留在原地等待
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/əˈbaɪd/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**留在原地等待**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **留在原地等待**（时间持续层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > abide 和 bide（等待）是一对亲兄弟——bide 是"等一等"，abide 是"坚持等下去"。想象一个人在暴风雨中站在原地不动，他**忍受**着风雨（cannot abide the storm），同时**遵守**着对朋友的承诺（abide by the promise）。从等待到忍耐到恪守，时间在流逝，但他始终不动。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reject]]：拒绝，抵制（abide by 的反义：遵守↔拒绝）
 > - [[violate]]：违反，违背（abide by the law 的精确反义：遵守法律↔违反法律）
 > - [[flee]]：逃离（abide 原型义的反义：留在原地↔逃离）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **abide by the law/rules**：遵守法律/规则
 > - **abide by the decision/agreement**：服从决定/遵守协议
 > - **abide by the contract**：遵守合同
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "abide by the rules and regulations"（遵守规章制度）——考研翻译和阅读中常见搭配
 > - "cannot abide the noise/pollution"（无法忍受噪音/污染）——环境类话题中常见
 > - "abide by the decision of the court"（服从法院判决）——法律类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

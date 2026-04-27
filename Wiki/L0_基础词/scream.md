@@ -3,17 +3,14 @@ title: "scream"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 因恐惧或痛苦发出尖锐的叫声
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/skriːm/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**因恐惧或痛苦发出尖锐的叫声**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **因恐惧或痛苦发出尖锐的叫声**（人的声音层面）
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scream 是拟声词——模拟"啊——！"的尖锐声音。看到蜘蛛尖叫——scream at the spider。婴儿哭得嗓子都哑了——scream itself hoarse。火灾警报发出刺耳的声音——the fire alarm screamed。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whisper]]：低语，耳语（scream 的精确反义：尖叫↔低语）
 > - [[murmur]]：低声说，嘟囔（scream 的反义：大叫↔低声说）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **scream in terror**：恐惧地尖叫
 > - **scream with pain**：痛苦地尖叫
 > - **scream for help**：尖叫求救
@@ -140,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People ran for the exits, screaming out in terror."（人们跑向出口，恐惧地尖叫着。——考研阅读高频表达）
 > - "Through the smoke, the rescuers could hear people screaming for help."（透过烟雾，救援人员能听到人们尖叫求救。——考研翻译高频句式）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

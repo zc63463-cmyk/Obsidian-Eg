@@ -3,14 +3,12 @@ title: "enhance"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 使变得更高/更好
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈhɑːns/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变得更高**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使变得更高**（品质层面：提升价值或水平）
@@ -66,7 +64,7 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > en- 是"使"，hance 听起来像"汉斯"——想象一个叫汉斯的健身教练，让你（en-）变得更高（hance/height）更强，他就是在 enhance（增强）你的体能。
@@ -86,7 +84,7 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[diminish]]：减少、降低（增强 vs 减弱）
 > - [[deteriorate]]：恶化（改善 vs 变差）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **enhance efficiency/performance**：提高效率/表现
 >   The new technology significantly enhances the efficiency of the manufacturing process.（新技术显著提高了制造过程的效率。）
 > - **enhance reputation**：提升声誉
@@ -137,20 +135,14 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world, and scarcity enhances the pleasure of most things for most people."（从世界各地的富人和穷人中都可以看到"幸福感"和"把钱花在别人身上"之间的联系，而且稀缺性增强了大多数人对大多数事物的愉悦感。）——2014年英语二Text1
 > - "Good secretarial skills should enhance your chances of getting a job."（良好的秘书技能应该能增加你找到工作的机会。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

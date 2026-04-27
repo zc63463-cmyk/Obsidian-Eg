@@ -3,14 +3,12 @@ title: "vaccine"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 来自牛的东西（vacca = 牛 → 牛痘 → 疫苗）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/vækˈsiːn/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**来自牛的东西**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **牛**（动物层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vaccine 的核心画面是"一头牛"。拉丁语 *vacca* = 牛。1796年，英国医生詹纳发现挤奶女工不会得天花，因为她们感染过牛痘。他从牛痘中提取物质制成疫苗，拯救了无数生命。vaccine = 来自牛的 = 疫苗。这是一个有故事的词——记住"牛"就记住了 vaccine。The COVID-19 vaccine has been widely distributed（新冠疫苗已被广泛分发）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[virus]]：病毒（vaccine 的反义：疫苗对抗病毒）
 > - [[toxin]]：毒素（vaccine 的反义：疫苗对抗毒素）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **develop a vaccine**：研发疫苗
 > - **receive/get a vaccine**：接种疫苗
 > - **vaccine efficacy**：疫苗效力
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The rapid development of COVID-19 vaccines was hailed as one of the greatest scientific achievements of the 21st century."（新冠疫苗的快速研发被誉为21世纪最伟大的科学成就之一——考研阅读科技话题相关表达）
 > - "Global health organizations have launched campaigns to ensure equitable distribution of vaccines in developing countries."（全球卫生组织发起了运动，确保在发展中国家公平分配疫苗——考研阅读公共卫生话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "polish"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 打磨使光滑
-extension_dim: 物理路径→抽象路径
+extension_dim: [物理路径→抽象路径]
 phonetic: "/ˈpɒlɪʃ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打磨使光滑**"为统筹中心，沿物理路径→抽象路径向外扩展：
 >
 > 1. **打磨使光滑**（物理层面：通过摩擦使表面光亮）
@@ -72,7 +70,7 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 想象一位老工匠，手持一块磨石，反复打磨一把银勺。粗糙的表面在他的手下逐渐变得光亮如镜——这就是 polish。后来，人们把这个动作延伸到了文字上：一篇粗糙的初稿经过反复修改，变得流畅精致——这就是 polish an essay。再后来，一个人的言谈举止经过"打磨"，变得优雅得体——这就是 speak with polish。polish 的灵魂就是"反复打磨使之精致"。
@@ -96,7 +94,7 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[roughen]]：使变粗糙（与"打磨使光滑"形成物理状态对立）
 > - [[ruin]]：毁坏，破坏（与"润色完善"形成品质状态对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **polish off**：迅速完成（非正式用法）
 > - **polish up**：改善，提高（技能/语言等）
 > - **polish one's English**：提高英语水平
@@ -135,19 +133,15 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When it comes to the slowing economy, Ellen Spero isn't biting her nails just yet. But the 47-year-old manicurist isn't cutting, filing or polishing as many nails as she'd like to, either."（当谈到经济放缓时，Ellen Spero 还没有咬指甲。但这位47岁的美甲师修剪、锉磨和打磨的指甲数量也不如她所期望的那么多。——2004年考研英语阅读Text 3）
 > - "The technology has also propelled others into the industry's upper echelons."（这项技术还助推其他公司跻身行业前列。——《经济学人》外刊例句，polish 相关语境）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

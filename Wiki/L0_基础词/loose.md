@@ -3,14 +3,12 @@ title: "loose"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 松散的（未被束缚/固定的状态）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/luːs/"
 pos: a.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**松散的（未被束缚/固定的状态）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **松散的**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > loose 就是"松"。注意发音陷阱：loose 读 /luːs/（s音），不是 /luːz/（z音）。loose（松的）vs lose（丢失）——松了（loose）就容易丢（lose），但发音不同。a loose tooth（松动的牙齿），loose talk（口风不严），on the loose（逍遥自在）。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[tight]]：紧的（loose 的精确反义：松↔紧）
 > - [[strict]]：严格的（loose"宽松的"的反义：宽松↔严格）
 > - [[bound]]：被束缚的（loose"自由的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **loose ends**：未解决的问题，零碎事务
 > - **on the loose**：逍遥自在，未被捕获
 > - **break loose**：挣脱
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There are still some loose ends to tie up before the project is complete."（在项目完成之前还有一些零碎事务需要处理——考研翻译）
 > - "The suspect is still on the loose."（嫌疑人仍然逍遥法外——考研阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "resolve"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 解决，决心
-extension_dim: 决断行动
+extension_dim: [决断行动]
 phonetic: "/rɪˈzɒlv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**解决/松开**"为统筹中心，沿决断行动向外扩展：
 >
 > 1. **松开/解决**（认知层面）
@@ -69,7 +67,7 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > resolve = re-（再）+ solve（解决）= "重新解决"→ 解决。resolve a problem = 解决问题。resolve to do something = 下决心做某事（在心里"解决"了犹豫）。resolve a conflict = 解决冲突。resolve into parts = 分解为部分。resolve 作名词时 = 决心：a firm resolve = 坚定的决心。resolve 的过去式是 resolved，过去分词也是 resolved——be resolved to do = 下定决心做。resolve 和 [[resolution]]（名词：决心/决议）、[[resolute]]（形容词：坚决的）是同一词族的三种形式。
@@ -92,7 +90,7 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[complicate]]：使复杂化（resolve 解决的反义：解决↔复杂化）
 > - [[hesitate]]：犹豫（resolve 决心的反义：决心↔犹豫）
 > - [[waver]]：动摇（resolve 决意的反义：决意↔动摇）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **resolve to do sth.**：下决心做某事
 > - **resolve a conflict/problem/crisis**：解决冲突/问题/危机
 > - **resolve into**：分解为
@@ -138,19 +136,15 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government resolved to take immediate action to address the growing public concern over environmental pollution."（政府下决心立即采取行动，解决公众对环境污染日益增长的担忧。——考研英语阅读环保类话题，resolve to do 高频考点）
 > - "Mediation efforts failed to resolve the longstanding dispute between the two neighboring countries."（调解努力未能解决两个邻国之间长期的争端。——考研英语阅读国际关系类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

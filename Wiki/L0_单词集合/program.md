@@ -3,14 +3,12 @@ title: "program"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 向前写出
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈprəʊɡræm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**提前写好**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **提前写好**（核心动作）
@@ -70,7 +68,7 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（提前）+ gram（写）→ 提前写好。想象一台计算机的屏幕上，程序员一行行敲下代码，就像在给机器写一份精确的"行动剧本"。
@@ -93,7 +91,7 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[improvise]]：improvise表示"即兴发挥"，与program"提前写好的计划"形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **training program**：培训计划
   > The company has established a comprehensive training program for new employees.（公司为新员工建立了一套全面的培训计划。）
 > - **computer program**：计算机程序
@@ -134,19 +132,15 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory called the Hawthorne Plant near Chicago."（1924年，美国国家研究委员会派遣两名工程师去芝加哥附近一家名为霍桑工厂的大型电话零部件厂监督一系列工业实验——2010年考研完形填空）
 > - "The government launched a new program to promote renewable energy."（政府启动了一项推广可再生能源的新计划——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

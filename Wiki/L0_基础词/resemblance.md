@@ -3,14 +3,12 @@ title: "resemblance"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 相似，相似之处
-extension_dim: 类比关联
+extension_dim: [类比关联]
 phonetic: "/rɪˈzembləns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**相似/相似之处**"为统筹中心，沿类比关联向外扩展：
 >
 > 1. **像**（比较层面）
@@ -66,7 +64,7 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > resemblance = re-（再）+ semble（像）+ -ance（名词后缀）= "再次像"→ 相似。a strong resemblance between the two paintings = 两幅画之间有很强的相似性。bear a resemblance to = 与……有相似之处。family resemblance = 家族相似性（孩子长得像父母）。resemblance 和 [[resemble]] 是一对：resemble 是动词"像"，resemblance 是名词"相似"。resemblance 更强调视觉上的相似，而 [[similarity]] 更强调抽象性质的相似。
@@ -88,7 +86,7 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[difference]]：差异（resemblance 相似的反义：相似↔差异）
 > - [[dissimilarity]]：不同（resemblance 的反义：相似↔不同）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bear a resemblance to**：与……有相似之处
 > - **a strong/close resemblance**：很强的/很近的相似
 > - **a superficial resemblance**：表面上的相似
@@ -129,19 +127,15 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new building bears a striking resemblance to the ancient temple, though it was built using modern materials."（这座新建筑与那座古庙有着惊人的相似之处，尽管它是用现代材料建造的。——考研英语阅读建筑文化类话题）
 > - "Despite their superficial resemblance, the two theories are fundamentally different in their assumptions."（尽管这两个理论表面上有相似之处，但它们在假设上根本不同。——考研英语阅读学术类话题，superficial resemblance 高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

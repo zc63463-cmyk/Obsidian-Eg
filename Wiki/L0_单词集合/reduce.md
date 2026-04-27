@@ -3,14 +3,12 @@ title: "reduce"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 向后拉回，使回到原位
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/rɪˈdjuːs/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后拉回，使回到原位**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向后拉回，使回到原位**（物理动作层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re-(回) + duce(引导) = 把东西引导回来、收拢，所以是"减少"。想象把散落一地的硬币一个个引导回收钱罐，数量就"减少"了。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[increase]]：增加（数量上的反义）
 > - [[expand]]：扩大、膨胀（规模上的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +116,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reduce costs**：降低成本 — The company managed to reduce costs by 20%.
 > - **reduce to**：使沦为 — She was reduced to begging on the streets.
 > - **reduce pressure**：减轻压力 — Exercise can help reduce stress and pressure.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has introduced measures to reduce air pollution in major cities."（政府已出台措施以减少主要城市的空气污染。）——考研高频表达
 > - "Reducing the gap between rich and poor remains one of the greatest challenges facing society."（缩小贫富差距仍然是社会面临的最大挑战之一。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

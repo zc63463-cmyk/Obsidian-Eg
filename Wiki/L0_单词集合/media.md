@@ -3,17 +3,14 @@ title: "media"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: medium 的复数形式
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmiːdiə/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: medium
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**medium 的复数→媒体**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **medium 的复数**（集合层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > media 就是 medium（媒介）的复数。一个电视频道是 medium，一份报纸是 medium，一个网站是 medium——全部加在一起就是 media（媒体）。记住 medium = 媒介，media = 媒体（复数）。就像 bacterium→bacteria 一样，这是拉丁语复数。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[censorship]]：审查制度（媒体↔审查）
 - [[privacy]]：隐私（媒体公开↔个人隐私）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mass media**：大众媒体
 > - **social media**：社交媒体
 > - **media coverage**：媒体报道
@@ -133,7 +130,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The media plays a crucial role in shaping public opinion."（媒体在塑造公众舆论方面发挥着关键作用）——社会/传播话题
 > - "Social media has transformed the way we communicate."（社交媒体改变了我们的交流方式）——科技/社会话题
 > - "The event received extensive media coverage."（该事件受到了媒体的广泛报道）——新闻话题
@@ -141,15 +138,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "fixture"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 被固定在原处不动的东西
-extension_dim: 物品路径
+extension_dim: [物品路径]
 phonetic: "/ˈfɪkstʃə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被固定在原处不动的东西**"为统筹中心，沿物品路径向外扩展：
 >
 > 1. **被固定的事物**（物品层面）
@@ -66,7 +64,7 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fixture = [[fix]]（固定）+ -ture（事物）= 被固定的事物。核心画面是"房子里的水龙头——被固定在墙上，不能轻易拆除"。在房地产中，fixture 是重要概念：水龙头、浴缸、吊灯都是 fixture（随房子走），而台灯、窗帘是 fitting（可以带走）。引申义：She's a fixture at the library（她是图书馆的常客——固定出现在那里的人）。
@@ -88,7 +86,7 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fitting]]：可移动的配件（fixture 的反义：固定装置↔可移动配件）
 > - [[movable]]：可移动的（fixture 的反义：固定的↔可移动的）
 > - [[temporary]]：临时的（fixture 的反义：永久的↔临时的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lighting fixtures**：照明设备，灯具
 > - **plumbing fixtures**：管道装置（水龙头、马桶等）
 > - **a permanent fixture**：永久固定的人/物
@@ -130,19 +128,15 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The old building was stripped of all its original fixtures, including the ornate lighting and hand-carved wooden doors, before the renovation began."（在翻修开始之前，这座老建筑被拆除了所有原有的固定装置，包括华丽的灯具和手工雕刻的木门——考研阅读建筑话题相关表达）
 > - "The weekly market has been a fixture of the town for over a century, attracting visitors from surrounding villages every Saturday."（这个每周集市已是一个多世纪以来该镇的固定活动，每个星期六都吸引着来自周边村庄的游客——考研翻译文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

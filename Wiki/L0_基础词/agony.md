@@ -3,14 +3,12 @@ title: "agony"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 竞赛中的挣扎（希腊语 agon = 竞赛、斗争 → agonia = 竞赛的痛苦）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈæɡəni/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**竞赛中的挣扎**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **竞赛焦虑**（心理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > agony 的核心画面是"运动员在比赛前极度紧张的状态"。希腊语 *agon* = 竞赛。古希腊人认为，竞赛中的紧张和焦虑是一种特殊的痛苦——*agonia*。后来这个词扩展到所有极度的身心痛苦。He was in agony after the accident（事故后他极度痛苦）。Agony of indecision（犹豫不决的苦恼）。注意 agony 的同源词：[[protagonist]]（主角——竞赛中的主角）、[[antagonist]]（对手——竞赛中的对手）、[[agonize]]（使极度痛苦）。记住"竞赛"这个核心画面就能记住整个词族。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ecstasy]] | 狂喜 | agony 的反义：极度痛苦↔极度快乐 |
 > - [[comfort]] | 舒适 | agony 的反义：痛苦↔舒适 |
 > - [[relief]] | 解脱 | agony 的反义：痛苦↔解脱 |
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in agony**：极度痛苦中
 > - **agony of pain**：疼痛的折磨
 > - **agony of indecision**：犹豫不决的苦恼
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The patient was in such agony that the doctors had to administer strong painkillers immediately."（患者极度痛苦，医生不得不立即使用强效止痛药——考研阅读医学话题相关表达）
 > - "For many refugees, the agony of leaving their homeland is compounded by the uncertainty of their future in a foreign country."（对于许多难民来说，离开祖国的痛苦因在异国他乡未来的不确定性而加剧——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

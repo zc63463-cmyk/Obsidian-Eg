@@ -3,14 +3,12 @@ title: "persist"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 始终站着
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/pəˈsɪst/"
 pos: vi.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**始终站着**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **始终站着**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > per（始终）+ sist（站）→ 始终站着 → persist。If the pain persists, consult a doctor——如果疼痛持续，请看医生。If he persists in asking awkward questions, then send him to the boss——如果他执意问令人尴尬的问题，就把他送到老板那里。persist 是中性词，可以是褒义（坚持努力）也可以是贬义（固执己见）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cease]]：停止（persist 的精确反义：持续↔停止）
 > - [[desist]]：停止（坚持的反义：坚持↔停止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,26 +121,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **persist in doing sth.**：坚持做某事
 > - **persist with**：坚持（某事）
 > - **the problem persists**：问题持续存在
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But as the work became more difficult, the students with a growth mind-set showed greater persistence."（但随着工作变得越来越困难，拥有成长型思维的学生表现出了更大的坚持性——2016年12月考研阅读）
 > - "Why does Britain persist in running down its defence forces?"（为什么英国要坚持削减其军事防御力量？——考研政治类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

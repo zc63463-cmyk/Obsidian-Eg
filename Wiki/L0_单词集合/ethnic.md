@@ -3,17 +3,14 @@ title: "ethnic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 属于某个民族群体的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈeθnɪk/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: eth
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**属于某个民族群体的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **属于某个民族群体的**（属性层面）
@@ -68,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > ethnic 来自希腊语 *ethnikos*，意思是"民族的"，词根是 *ethnos*（民族，部落）。想象你走进一个国际美食节——中国的饺子、印度的咖喱、墨西哥的玉米饼，每种食物都带有它所属民族的独特印记，这些就是 ethnic food（民族特色食品）。ethnic 的本质就是"属于某个民族群体的"。
@@ -91,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - ethnic 本身为描述性形容词，无直接反义词
 > - 相关概念：[[mainstream]]（主流的↔少数民族的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ethnic groups**：民族群体（The country has many different ethnic groups.）
 > - **ethnic minorities**：少数民族（Ethnic minorities face various challenges in society.）
 > - **ethnic conflict**：种族冲突（Ethnic conflict has been a major issue in the region.）
@@ -133,21 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The findings do not simply explain people's tendency to befriend those of similar ethnic backgrounds."（研究结果并非简单地解释了人们趋向于和种族背景相似的人交朋友。）——2015年考研英语真题
 > - "Ethnic conflicts have long been a source of political instability in the region."（种族冲突长期以来一直是该地区政治不稳定的根源。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

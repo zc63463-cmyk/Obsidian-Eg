@@ -3,14 +3,12 @@ title: "legacy"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 留下（被派遣出去的人/物）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈleɡəsi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**留下**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **留下**（时间层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > leg（派遣，来自拉丁语 legare"委托、派遣"）→ 被送交后人的东西 → 遗产。同源词 delegate（把任务送出去→委派），legal（被送交法律→合法的）。legacy 就是你"送"给未来的东西——你的遗产、你的影响。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[innovation]]：创新（legacy 的反义：继承传统↔创新突破）
 > - [[debt]]：债务（legacy 的反义：留下的财富↔留下的负担）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **leave a legacy**：留下遗产/影响
 > - **cultural/historical legacy**：文化/历史遗产
 > - **lasting/enduring legacy**：持久的影响
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The ancient civilization left a rich cultural legacy for future generations."（古代文明为后代留下了丰富的文化遗产）
 > - "His greatest legacy is the impact he had on education reform."（他最大的遗产是他对教育改革产生的影响）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

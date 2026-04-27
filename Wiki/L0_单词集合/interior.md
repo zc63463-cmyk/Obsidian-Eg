@@ -3,14 +3,12 @@ title: "interior"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 在…之间（内部）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈtɪəriə(r)/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ inter-(在…之间，among/between) + 拉丁语 *interior*（更内部的，*in
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在…之间（内部）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在…之间（内部）**（空间层面）
@@ -69,7 +67,7 @@ inter-(在…之间，among/between) + 拉丁语 *interior*（更内部的，*in
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ inter-(在…之间，among/between) + 拉丁语 *interior*（更内部的，*in
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inter（在…之间）→ 想象你走进一栋大房子，穿过走廊，穿过一扇又一扇门，走到最深处——那里就是 interior（内部）。再想象你走进非洲大陆，越走越深，远离海岸线——那就是 the interior of Africa（非洲内地）。国家管自己"里面"的事——那就是 interior affairs（内政）。
@@ -92,7 +90,7 @@ inter-(在…之间，among/between) + 拉丁语 *interior*（更内部的，*in
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ inter-(在…之间，among/between) + 拉丁语 *interior*（更内部的，*in
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[exterior]]：外部的，外面的（interior 的精确反义：内部↔外部）
 > - [[outer]]：外部的，外层的（interior 的反义：里面↔外面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ inter-(在…之间，among/between) + 拉丁语 *interior*（更内部的，*in
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **interior design**：室内设计
 > - **interior decorator**：室内装饰师
 > - **the interior of**：……的内部/内地
@@ -130,23 +128,15 @@ inter-(在…之间，among/between) + 拉丁语 *interior*（更内部的，*in
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety."（几乎所有的内部细节都是铸铁或灰泥；为了确保消防安全，尽量减少使用木材。——考研真题）
 > - "The people of the African interior began to offer gold in exchange for the goods they needed from abroad."（非洲内地的各族人民开始用黄金交换他们所需要的外国货物。——考研真题）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

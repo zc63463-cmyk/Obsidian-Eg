@@ -3,14 +3,12 @@ title: "support"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 从下方运送→支撑
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/səˈpɔːt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ sup-(=sub-，从下方) + port(运送，参见 [[port|port]]) → 从下方运�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从下方支撑**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从下方支撑**（物理层面——从下托举）
@@ -69,7 +67,7 @@ sup-(=sub-，从下方) + port(运送，参见 [[port|port]]) → 从下方运�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ sup-(=sub-，从下方) + port(运送，参见 [[port|port]]) → 从下方运�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > sup-(从下) + port(运送) → 从下方运送 → 支撑
@@ -93,7 +91,7 @@ sup-(=sub-，从下方) + port(运送，参见 [[port|port]]) → 从下方运�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ sup-(=sub-，从下方) + port(运送，参见 [[port|port]]) → 从下方运�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - oppose：反对（support 是支持，oppose 是反对）
 > - undermine：破坏；削弱（support 是支撑，undermine 是从下面挖空→削弱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,28 +125,22 @@ sup-(=sub-，从下方) + port(运送，参见 [[port|port]]) → 从下方运�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in support of**：支持（He spoke in support of the proposed reform. 他发言支持拟议的改革。）
 > - **support a theory/argument**：支持理论/论点（The evidence supports the argument that climate change is accelerating. 证据支持气候变化正在加速的论点。）
 > - **financial support**：经济支持（The project received financial support from the government. 该项目获得了政府的财政支持。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The worthy residents of Stratford doubt that the theatre adds a penny to their revenue."（斯特福特镇受人尊敬的居民们认为剧院一点都没有使他们的收入增加。）——2006考研英语一阅读
 > - "There is growing public support for environmental protection policies."（公众对环保政策的支持日益增长。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

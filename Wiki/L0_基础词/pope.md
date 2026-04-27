@@ -3,14 +3,12 @@ title: "pope"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 人民之父（教皇）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/pəʊp/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**人民之父**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **父亲**（家庭层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pope 的核心画面是"人民的精神之父"。拉丁语 *papa* = 父亲 = 爸爸。想象一个小孩子叫"papa"——这就是 pope 的词源。在基督教中，信徒们像孩子叫爸爸一样称呼主教为"papa"，后来专指罗马教皇。The Pope = 全体天主教徒的"父亲"。注意大写 the Pope 专指罗马教皇，小写 pope 可指其他教派领袖。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （pope 作为专有名词，无明显反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Pope**：教皇
 > - **Pope Francis**：教皇方济各
 > - **papal bull**：教皇诏书
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Pope delivered a historic address to the United Nations, calling for global action on climate change and poverty."（教皇在联合国发表了历史性演讲，呼吁全球采取行动应对气候变化和贫困——考研阅读宗教/政治话题相关表达）
 > - "Throughout the Middle Ages, the Pope wielded considerable political influence, often mediating conflicts between European monarchs."（在整个中世纪，教皇拥有相当大的政治影响力，经常调解欧洲君主之间的冲突——考研阅读历史话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "fee"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 牛→财产→为服务支付的费用
-extension_dim: 价值交换
+extension_dim: [价值交换]
 phonetic: "/fiː/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: fee
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**为特定服务支付的费用**"为统筹中心，沿价值交换向外扩展：
 >
 > 1. **为服务支付的费用**
@@ -66,7 +63,7 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古英语 *feoh* 原义是"牛"。在古代农业社会，牛就是财富的象征。你要请人办事？给他几头牛。后来牛变成了钱，钱变成了 fee。今天你交的每一笔 fee，本质上都是远古时代那头"交换用的牛"。fee 和 [[feeble]] 同源——"牛"是财产，"缺少牛"就是"虚弱"。
@@ -88,7 +85,7 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[free]]：免费的（fee 的反义：付费↔免费）
 > - [[grant]]：拨款，补助金（fee 的反义：支付↔获得资助）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **legal/medical/consulting fee**：律师/医疗/咨询费
 > - **tuition/school fee**：学费
 > - **membership/entrance fee**：会员/入场费
@@ -127,19 +124,15 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Virtually all experts agree that the fee-for-service system—doctors are rewarded for the quantity of care rather than its quality or effectiveness—is a primary reason that the cost of care is so high."（几乎所有的专家都同意，按服务收费的制度——医生按服务量而非质量或效果获得报酬——是医疗费用如此之高的一个主要原因——学术语境高频表达）
 > - "If going to university doesn't work out, students pay very little—if any—of their tuition fees back: you only start repaying when you are earning £21,000 a year."（如果上大学没有成功，学生只需偿还很少甚至不需偿还学费：只有当你的年收入达到21,000英镑时才开始偿还——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

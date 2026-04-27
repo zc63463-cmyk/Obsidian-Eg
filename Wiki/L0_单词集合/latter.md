@@ -3,14 +3,12 @@ title: "latter"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 较迟的→后者
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈlætə(r)/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**较迟的→后者**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **较迟的**（时间层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > latter = late（迟）+ -er（比较级）→ 较迟的 → 后者。想象你面前摆着两个苹果，你先拿起第一个说"这个是 former（前者）"，再拿起第二个说"这个是 latter（后者）"——后者就是较迟提到的那个。记住 latter = 较迟的 = 后者。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[former]]：前者（latter 的精确反义：后者↔前者，固定配对）
 > - [[first]]：第一的（后者↔第一的）
 > - [[earlier]]：较早的（较迟的↔较早的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the former...the latter...**：前者……后者……（固定配对结构）
 > - **the latter half of**：……的后半部分
 > - **the latter part of**：……的后半部分
@@ -135,7 +133,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I have two options: the former is cheaper, but the latter is more reliable."（我有两个选择：前者更便宜，但后者更可靠）——考研高频句型
 > - "He spent the latter half of his career in academia."（他在学术界度过了职业生涯的后半部分）——传记/学术语境
 > - "The latter part of the 20th century saw rapid technological advances."（20 世纪后半叶见证了快速的技术进步）——历史/科技语境
@@ -143,15 +141,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

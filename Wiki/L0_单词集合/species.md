@@ -3,14 +3,12 @@ title: "species"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 具有相同外观的群体
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈspiːʃiːz/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**具有相同外观的群体**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **具有相同外观的群体**（生物层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > species 来自拉丁语 specere（看），原义是"外观、形象"。古人按**看起来**的样子来分类：长着羽毛会飞的归为鸟 species，长着鳞片会游的归为鱼 species。species 是 spec- 家族的核心：special（特定种类→特别的）、specific（特定种类→具体的）、specify（指出特定种类→明确指定）、speculate（用眼睛观察→推测）。注意 species 单复数同形：one species, two species。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - species 本身无精确反义词，但在"分类"维度上与"个体"（[[individual]]）形成整体-部分对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **endangered species**：濒危物种
 > - **a species of**：一种……
 > - **the human species**：人类
@@ -128,22 +126,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many species are threatened with extinction due to habitat loss."（由于栖息地丧失，许多物种面临灭绝的威胁）——生态/环保类阅读
 > - "The discovery of a new species of butterfly in the Amazon rainforest excited scientists."（在亚马逊雨林发现新蝴蝶物种让科学家们兴奋不已）——科学发现类话题
 > - "There are various species of corruption in different political systems."（不同的政治体制中存在各种类型的腐败）——政治/社会类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "shepherd"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 羊群的保护者（看护和引导羊群的人）
-extension_dim: 角色路径
+extension_dim: [角色路径]
 phonetic: "/ˈʃepərd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ sheep(羊) + herd(=herd，牧群，看管)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**羊群的保护者（看护和引导）**"为统筹中心，沿角色路径向外扩展：
 >
 > 1. **羊群的保护者**（角色层面）
@@ -65,7 +63,7 @@ sheep(羊) + herd(=herd，牧群，看管)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ sheep(羊) + herd(=herd，牧群，看管)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sheep（羊）+ herd（牧群）→ 牧羊人。牧羊人做什么？保护羊群、引导方向。老师带着一群孩子上公交车——The teacher was shepherding the children into the bus。导游带领游客参观景点——shepherding tourists through the museum。shepherd 就是"牧羊人式的引导"。
@@ -88,7 +86,7 @@ sheep(羊) + herd(=herd，牧群，看管)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ sheep(羊) + herd(=herd，牧群，看管)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abandon]]：抛弃（shepherd 的反义：引导保护↔抛弃）
 > - [[mislead]]：误导（shepherd 的反义：正确引导↔误导）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ sheep(羊) + herd(=herd，牧群，看管)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shepherd sb into/through/to**：引导某人进入/穿过/到达
 > - **shepherd the children**：带领孩子们
 > - **a shepherd with his flock**：带着羊群的牧羊人
@@ -133,19 +131,15 @@ sheep(羊) + herd(=herd，牧群，看管)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The teacher was shepherding the children into the bus."（老师正带领着孩子们上公共汽车。——考研熟词生义）
 > - "During the next two years, other delegations shuttled between the two capitals."（在接下来的两年里，其他代表团在两个首都之间穿梭往来。——剑桥词典例句，含同族词 shuttle）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

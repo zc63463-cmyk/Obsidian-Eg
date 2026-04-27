@@ -3,14 +3,12 @@ title: "mobilize"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 使能够移动（调动起来）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈməʊbəlaɪz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使能够移动**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使能够移动**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[mobile]]（可移动的）+ ize（使）→ 使可移动 → 动员。想象一位将军站在地图前，下令"mobilize!"——让所有静止的部队动起来，开赴前线。mobilize resources 就是让沉睡的资源动起来，mobilize support 就是让沉默的支持者动起来。记住：mobilize = 使动起来 = 动员。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[demobilize]]：遣散，复员（mobilize 的直接反义：动员↔遣散）
 > - [[paralyze]]：使瘫痪，使麻痹（mobilize 的反义：调动↔瘫痪）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mobilize support**：动员支持
 > - **mobilize resources**：调动资源
 > - **mobilize public opinion**：调动舆论
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government mobilized all available resources to deal with the natural disaster."（政府调动了一切可用资源来应对自然灾害。）
 > - "Environmental groups have successfully mobilized public opinion against the new highway project."（环保组织成功动员了公众舆论反对新高速公路项目。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "neglect"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 忽视、疏忽
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/nɪˈɡlekt/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: neg-nec
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -48,7 +45,7 @@ neg-(不/没有) + lect(选择/收集)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**忽视、忽略**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **忽视、忽略**（认知层面——没有注意到）
@@ -67,7 +64,7 @@ neg-(不/没有) + lect(选择/收集)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ neg-(不/没有) + lect(选择/收集)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > neg（不）+ lect（选择，如 select 选择、collect 收集）= 不去选择关注 → neglect（忽视）。你从众多事情中"不选择"某件事，就是 neglect 它。
@@ -90,7 +87,7 @@ neg-(不/没有) + lect(选择/收集)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ neg-(不/没有) + lect(选择/收集)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[attention]]：关注、注意（与 neglect 的"忽视"对立）
 > - [[care]]：关心、照顾（与 neglect 的"疏忽"对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,27 +118,21 @@ neg-(不/没有) + lect(选择/收集)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **neglect one's duty**：疏忽职责
 > - **neglect to do sth.**：忘记做某事
 > - **gross neglect**：严重疏忽
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The future of literary education, it is claimed, lies in criticism, an area which had previously been neglected."（有人声称，文学教育的未来在于批评，这是一个以前被忽视的领域。）——考研高频表达
 > - "All too often the animals die through neglect."（动物因缺乏照料而死亡的事司空见惯。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

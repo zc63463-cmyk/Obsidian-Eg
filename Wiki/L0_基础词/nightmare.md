@@ -3,14 +3,12 @@ title: "nightmare"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 噩梦（令人恐惧的梦境）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈnaɪtmeə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**噩梦**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **噩梦**（梦境层面）
@@ -64,7 +62,7 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nightmare = night（夜）+ mare（魔女）= 夜间骑在你身上的魔女 → 噩梦。古人认为做噩梦是因为有恶魔在夜里压迫你。后来引申为"噩梦般的经历"——堵车是 nightmare，考试是 nightmare。记住：nightmare = 噩梦，不管是梦里的还是现实中的。
@@ -86,7 +84,7 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dream]]：美梦（nightmare 的反义：噩梦↔美梦）
 > - [[fantasy]]：幻想，美事（nightmare 的反义：可怕经历↔美好幻想）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a bureaucratic nightmare**：官僚主义的噩梦
 > - **have a nightmare**：做噩梦
 > - **be a nightmare**：是件可怕的事
@@ -125,19 +123,15 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But most law graduates never get a big-firm job. Many of them instead become the kind of nuisance-lawsuit filer that makes the tort system a costly nightmare."（但是大多数法学院毕业生从未获得大律所的工作。相反，许多人只能接手一些惹人厌烦的诉讼，由此致使侵权诉讼体系成为一场代价高昂的噩梦。——考研阅读高频表达）
 > - "The whole journey was a nightmare — we lost our luggage and both flights were delayed."（整个旅程是一场噩梦——我们丢了行李，两趟航班都延误了。——通用例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "zeal"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 沸腾的热度（希腊语 zelos = 热、沸腾 → 热情、热忱）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ziːl/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**沸腾的热度**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **沸腾**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > zeal 的核心画面是"水在锅里沸腾的样子"。希腊语 *zeo* = 沸腾。当一个人对某件事充满热情时，他的心就像沸腾的水一样——翻滚、热烈——那就是 zeal。He pursued his research with great zeal（他以极大的热情从事研究）。注意 zeal 的同源词：[[zealous]]（热情的）和 [[zealot]]（狂热者）。有趣的是，zeal 和 [[jealousy]]（嫉妒）也同源——因为嫉妒时心也会"沸腾"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[apathy]]：冷漠（zeal 的反义：热情↔冷漠）
 > - [[indifference]]：漠不关心（zeal 的反义：热忱↔漠然）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **with great zeal**：以极大的热情
 > - **show zeal for**：对……表现出热情
 > - **religious/political zeal**：宗教/政治狂热
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The young teacher approached her work with missionary zeal, dedicating countless hours to helping underprivileged students."（这位年轻教师以传教士般的热忱对待工作，投入无数时间帮助贫困学生——考研阅读教育话题相关表达）
 > - "Reformers pursued their agenda with zeal, but their efforts were often met with resistance from entrenched interests."（改革者以极大的热情推进他们的议程，但他们的努力常常遭到既得利益者的抵制——考研阅读政治话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

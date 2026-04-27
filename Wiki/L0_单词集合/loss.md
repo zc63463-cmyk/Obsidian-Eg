@@ -3,14 +3,12 @@ title: "loss"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 失去的状态/结果
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/lɒs/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**失去的状态/结果**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **失去的状态/结果**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > loss 是 lose（失去）的名词形式——你 lose 了东西之后，心里空落落的感觉就是 loss。公司 lose 了钱，报表上写的就是 loss（亏损）。你 lose 了方向，那种茫然感就是 at a loss（不知所措）。loss 就是 lose 之后留下的"空"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gain]]：获得，收益（loss 的精确反义：损失↔获得）
 > - [[profit]]：利润，盈利（loss 的反义：亏损↔盈利）
 > - [[recovery]]：恢复，找回（loss 的反义：失去↔恢复）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at a loss**：不知所措，困惑
 > - **make a loss / take a loss**：亏损
 > - **loss of**：……的损失/丧失
@@ -129,23 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "This alone demonstrates that the television business is not an easy world to survive in, a fact underlined by statistics that show that out of 80 European television networks, no less than 50 took a loss in 1989."（仅此一点就表明电视行业不是一个容易生存的世界，统计数据也证实了这一点：1989年，80家欧洲电视网络中，不少于50家出现了亏损。——2005年考研英语一翻译）
 > - "The things that bring the greatest joy carry the greatest potential for loss and disappointment."（带来最大快乐的事物也暗含着最大的损失和失望的可能。——考研英语阅读）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "anxiety"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: [anxieties]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 焦虑，不安
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/æŋˈzaɪəti/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**焦虑，不安**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **焦虑，不安**（心理层面：对不确定性的紧张）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 心里像被什么东西挤（angh-）住了一样，呼吸都不顺畅——这就是anxiety（焦虑）的真实感受。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：anxiety是焦虑，calm是平静
 > - [[relief]]：anxiety是紧张不安，relief是如释重负
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **anxiety about**：对...的焦虑（There is growing anxiety about the economic situation.）
 > - **relieve anxiety**：缓解焦虑（Exercise can help relieve anxiety and stress.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The uncertainty about the future has caused widespread anxiety among young people."（对未来的不确定性在年轻人中引起了广泛的焦虑。）——考研高频表达
 > - "Public anxiety about the spread of the disease continues to grow."（公众对疾病传播的焦虑持续加剧。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

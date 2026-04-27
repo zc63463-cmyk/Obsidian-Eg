@@ -3,14 +3,12 @@ title: "professional"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 以某职业为生的、具有专业水准的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/prəˈfeʃənl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**以某职业为生的、具有专业水准的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **以某职业为生的、具有专业水准的**（社会身份层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（向前）+ fess（说）→ 站在众人面前说出自己的专长 → 职业宣誓 → 专业的
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[amateur]]：业余的（缺乏专业训练和资质）
 > - [[unprofessional]]：不专业的（行为不符合职业规范）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **professional knowledge**：专业知识
 > - **professional ethics**：职业道德
 > - **professional qualification**：专业资格
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Next, consider eBay. Having started out as a peer-to-peer marketplace, it is now dominated by professional 'power sellers'."（接下来看看eBay。它最初是一个点对点市场，现在则被专业的'超级卖家'所主导。）——考研真题阅读
 > - "Professional development is essential for teachers to keep up with the latest educational methods."（专业发展对教师跟上最新教育方法至关重要。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<尚未产出>
 > **翻译实践**：<尚未产出>

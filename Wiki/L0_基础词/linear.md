@@ -3,14 +3,12 @@ title: "linear"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 线的（像线一样直的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈlɪniə(r)/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**线的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **线的**（空间层面）
@@ -66,7 +64,7 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lin（线）+ -ear（……的）→ linear。line 是"线"，linear 就是"线的"。linear equation = 线性方程（图像是一条直线），linear thinking = 线性思维（像线一样一条路走到黑）。
@@ -88,7 +86,7 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nonlinear]]：非线性的（linear 的精确反义：线性↔非线性）
 > - [[curved]]：弯曲的（linear 的反义：直的↔弯曲的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **linear equation**：线性方程
 > - **linear thinking**：线性思维
 > - **linear motion**：直线运动
@@ -126,19 +124,15 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Human progress is not always linear; there are setbacks and breakthroughs."（人类进步并不总是线性的；有挫折也有突破）
 > - "The relationship between the two variables is linear."（这两个变量之间的关系是线性的）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "extinguish"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 彻底扑灭火焰
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪkˈstɪŋɡwɪʃ/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ ex-（出，完全）+ [[st-sta-stat|stinct/stingu]]（=stingere，刺，标记�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**彻底扑灭火焰**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **彻底扑灭火焰**（物理层面）
@@ -68,7 +66,7 @@ ex-（出，完全）+ [[st-sta-stat|stinct/stingu]]（=stingere，刺，标记�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ ex-（出，完全）+ [[st-sta-stat|stinct/stingu]]（=stingere，刺，标记�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > extinguish 来自拉丁语 *exstinguere*，ex-（完全）+ *stinguere*（刺、标记、熄灭）。想象你拿着灭火器对着熊熊燃烧的篝火猛喷——火焰从大到小，最后连最后一丝火星都被彻底浇灭。这就是 extinguish a fire（熄灭火焰）。再想象一个人眼中燃烧着希望的光芒，现实却像一盆冷水浇上去，把那光芒彻底浇灭——这就是 extinguish hope（使希望破灭）。extinguish 的本质就是"彻底浇灭"。
@@ -92,7 +90,7 @@ ex-（出，完全）+ [[st-sta-stat|stinct/stingu]]（=stingere，刺，标记�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ ex-（出，完全）+ [[st-sta-stat|stinct/stingu]]（=stingere，刺，标记�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignite]]：点燃，激起（熄灭↔点燃）
 > - [[kindle]]：点燃，引发（扑灭↔引发）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,29 +120,23 @@ ex-（出，完全）+ [[st-sta-stat|stinct/stingu]]（=stingere，刺，标记�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **extinguish a fire**：扑灭火（Firefighters worked to extinguish the blaze.）
 > - **extinguish hope**：使希望破灭（The failure extinguished all hope of success.）
 > - **extinguish a claim/debt**：使权利/债务消灭（The contract extinguished his claim to the property.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "This exploitation has reached such extremes that presently it appears that some hundreds of thousands of species will be extinguished before the end of the century."（这种开发已达到如此极端的程度，以至于目前看来，数十万个物种将在本世纪末之前灭绝。）——考研高频表达
 > - "News of the bombing extinguished all hope of peace."（轰炸的消息使和平的希望全部破灭。）——考研高频表达
 > - "Firefighters tried to extinguish the flames before they spread to nearby buildings."（消防队员试图在火势蔓延到附近建筑物之前将火焰扑灭。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "shield"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 用盾牌挡在身前保护自己
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ʃiːld/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用盾牌挡在身前保护自己**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用盾牌挡在身前保护自己**（物理动作层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shield 和 shell（贝壳/外壳）是远亲——都来自 PIE 词根 *(s)kel-（切割）。想象远古战士用**切割**好的木板做成**盾牌**（shield），举在身前挡住敌人的箭矢。后来，任何挡在你和危险之间的东西都叫 shield——法律是公民的 shield，父母是孩子的 shield。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expose]]：暴露、使暴露（shield 的精确反义：保护 ↔ 暴露于危险中）
 > - [[endanger]]：危及、危害（消除保护 → 使处于危险中）
 > - [[vulnerability]]：脆弱性、易受攻击性（有 shield ↔ 有 vulnerability）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shield sb from sth**：保护某人免受……
 > - **a shield against**：抵御……的屏障
 > - **human shield**：人肉盾牌
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She shielded her eyes from the sun with her hand."（她用手遮住眼睛挡住阳光）——考研阅读常见生活场景
 > - "The law shields citizens from unreasonable searches."（法律保护公民免受无理搜查）——法律/社会类阅读
 > - "Parents often try to shield their children from the harsh realities of life."（父母常试图保护孩子免受生活残酷现实的冲击）——教育/社会类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

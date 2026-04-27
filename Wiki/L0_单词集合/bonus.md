@@ -3,14 +3,12 @@ title: "bonus"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 额外的好东西
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈbəʊnəs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ bonus（拉丁语"好的"，源自 bon-us"好"，与 [[bene]] 同源）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**额外的好东西**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **好的**（基础层面：bonus 在拉丁语中就是"好"的意思）
@@ -64,7 +62,7 @@ bonus（拉丁语"好的"，源自 bon-us"好"，与 [[bene]] 同源）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ bonus（拉丁语"好的"，源自 bon-us"好"，与 [[bene]] 同源）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bonus 在拉丁语中就是"好"的意思——老板额外给你的好东西，就是"奖金"。
@@ -86,7 +84,7 @@ bonus（拉丁语"好的"，源自 bon-us"好"，与 [[bene]] 同源）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ bonus（拉丁语"好的"，源自 bon-us"好"，与 [[bene]] 同源）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[penalty]]：罚款、惩罚（奖金的反面——额外的坏处）
 > - [[deduction]]：扣除（额外增加的反面——额外减少）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ bonus（拉丁语"好的"，源自 bon-us"好"，与 [[bene]] 同源）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **performance bonus**：绩效奖金（Employees received a performance bonus at the end of the year.）
 > - **signing bonus**：签约奖金
 > - **an added bonus**：额外的好处（The good weather was an added bonus.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Good weather is an added bonus but the real appeal of the area is the fantastic variety of landscape."（好天气是额外的奖励，但这个地区真正的吸引力在于其丰富多彩的景观。）——考研高频表达
 > - "The new contract gives workers less salary, but bonuses for hitting efficiency and sales targets."（新合同给工人的基本工资降低了，但设定了效率和销售目标的奖金。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

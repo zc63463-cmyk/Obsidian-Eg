@@ -3,14 +3,12 @@ title: "constant"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 恒定的，不变的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈkɒnstənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-（一起）+ [[sta|sta-]]（站立）+ -nt（形容词后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**恒定的，不变的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **恒定的，不变的**（时间层面的稳定性）
@@ -65,7 +63,7 @@ con-（一起）+ [[sta|sta-]]（站立）+ -nt（形容词后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-（一起）+ [[sta|sta-]]（站立）+ -nt（形容词后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-（一起）+ sta（站立）+ -nt（...的）→ 稳固站立的 → **恒定的**。想象一座灯塔，无论风吹雨打，它始终矗立在那里，发出"constant"的光芒。
@@ -90,7 +88,7 @@ con-（一起）+ [[sta|sta-]]（站立）+ -nt（形容词后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ con-（一起）+ [[sta|sta-]]（站立）+ -nt（形容词后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[variable]]：可变的，变量
 > - [[inconstant]]：多变的，无常的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,30 +117,21 @@ con-（一起）+ [[sta|sta-]]（站立）+ -nt（形容词后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **constant change**：不断的变化（The technology industry is characterized by constant change.）
 > - **constant attention**：持续的关注（The problem requires constant attention from policymakers.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The world is in a state of constant change, and it is necessary to keep up with the latest developments."（世界处于不断变化之中，必须跟上最新的发展。）——考研高频表达
 > - "He lived in constant fear of being discovered."（他一直生活在被发现恐惧之中。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

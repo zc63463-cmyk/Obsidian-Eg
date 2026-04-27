@@ -3,14 +3,12 @@ title: "simplify"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 使变得单一
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɪmplɪfaɪ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变得单一**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使变得单一**（操作层面：去掉多余层次）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > simple（简单的）+ -ify（使成为）= simplify（使变得简单→简化）。想象你面对一份冗长的报告，你把多余的段落删掉，只保留核心观点——这就是 simplify。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[complicate]]：使复杂化（simplify 是使简单，complicate 是使复杂）
 > - [[complexify]]：使复杂化（simplify 的直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **simplify the process**：简化流程
   - The new software simplifies the process of data analysis.（新软件简化了数据分析的流程。）
 > - **simplify one's life**：简化生活
@@ -130,22 +128,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has taken steps to simplify the tax system and reduce the burden on small businesses."（政府已采取措施简化税收制度，减轻小企业的负担。）——考研高频表达
 > - "Complex scientific concepts should be simplified so that the general public can understand them."（复杂的科学概念应该被简化，以便公众能够理解。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

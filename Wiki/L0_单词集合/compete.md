@@ -3,14 +3,12 @@ title: "compete"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 共同追求同一目标
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəmˈpiːt/"
 pos: vi.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ com-(共同) + pet(追求、寻求) + e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同追求同一目标**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **共同追求**（社会层面——多人争夺同一资源/目标）
@@ -63,7 +61,7 @@ com-(共同) + pet(追求、寻求) + e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ com-(共同) + pet(追求、寻求) + e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（一起）+ pet（追求）：大家**一起追求**同一个冠军奖杯，这就是"竞争"。
@@ -87,7 +85,7 @@ com-(共同) + pet(追求、寻求) + e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ com-(共同) + pet(追求、寻求) + e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cooperate]]：合作（compete 是争夺，cooperate 是协作，方向相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ com-(共同) + pet(追求、寻求) + e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **compete with/against sb. for sth.**：与某人竞争某物
   > Several companies are competing for the contract.（几家公司正在竞争这份合同。）
 > - **compete in**：参加（比赛）
@@ -128,21 +126,15 @@ com-(共同) + pet(追求、寻求) + e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The two universities are competing for top students.（这两所大学正在争夺优秀生源。）
 > - To compete in the global market, firms must innovate constantly.（要在全球市场竞争，企业必须不断创新。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

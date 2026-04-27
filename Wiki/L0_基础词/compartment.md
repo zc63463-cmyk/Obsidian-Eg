@@ -3,14 +3,12 @@ title: "compartment"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 与其他部分一起紧压分隔的空间
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kəmˈpɑːrtmənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分隔的空间**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **分隔的空间**（物理空间层面）
@@ -64,7 +62,7 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（一起）+ part（部分）+ ment（场所）→ compartment。把一个大空间分成若干部分，每个部分就是一个 compartment。火车分成不同部分就是车厢(compartment)，行李箱分成不同部分就是隔间(compartment)。
@@ -86,7 +84,7 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[open space]]：开放空间（compartment 的反义：分隔空间↔开放空间）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **luggage compartment**：行李舱
 > - **glove compartment**：（汽车仪表盘上的）杂物箱
 > - **first-class compartment**：头等车厢
@@ -123,19 +121,15 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She found the key in the glove compartment."（她在杂物箱里找到了钥匙）
 > - "The train has both smoking and non-smoking compartments."（这列火车有吸烟车厢和非吸烟车厢）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

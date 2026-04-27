@@ -3,14 +3,12 @@ title: "skin"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 皮肤（覆盖身体表面的薄层）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/skɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**皮肤**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **皮肤**（人体层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古英语 *scinn* 意为"被剥下来的东西"。skin 就是最原始的"表面层"——人的皮肤、动物的兽皮、水果的外皮、甚至香蕉皮（banana skin）。踩到香蕉皮滑倒——slip on a banana skin。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[core]]：核心（skin 的反义：表面↔核心）
 > - [[flesh]]：肉（skin 的反义：皮↔肉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -140,7 +138,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **under the skin**：在皮肤下；本质上
 > - **skin deep**：肤浅的（表面的）
 > - **by the skin of one's teeth**：勉强，险些
@@ -148,19 +146,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "You know I've often wondered why people laugh at the picture of a big belly businessman slipping on a banana skin and falling on his bottom."（你知道我经常想，为什么人们看到大肚皮商人踩到香蕉皮滑倒摔屁股的图片会笑。——常见英语语料）
 > - "Polar bears have black skin under their fur."（北极熊的毛皮下面是黑色的皮肤。——常见英语语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

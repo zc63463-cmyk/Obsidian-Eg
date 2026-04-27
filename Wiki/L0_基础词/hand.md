@@ -3,14 +3,12 @@ title: "hand"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 手
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/hænd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**手**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **手**（身体部位）
@@ -71,7 +69,7 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hand 就是"手"。英语中 hand 的用法无处不在。give someone a hand（帮一把手）→ 帮助。hired hands（雇来的手）→ 劳动力。hour hand（时针）→ 钟表的"手"。on the other hand（另一方面）→ 手代表方向。hand in your homework（交作业）→ 用手递上去。hand over the money（交出钱）→ 用手传递。hand 是英语中最"多才多艺"的词之一。
@@ -94,7 +92,7 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,12 +104,12 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[foot]]：脚（hand 的反义：手↔脚）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on the one hand... on the other hand**：一方面……另一方面
 > - **give/lend a hand**：帮一把
 > - **hand in**：上交
@@ -141,19 +139,15 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "On the one hand, technology has greatly improved our efficiency; on the other hand, it has raised concerns about privacy."（一方面，技术极大地提高了我们的效率；另一方面，它也引发了对隐私的担忧。——考研英语真题经典句型，讨论技术双刃剑）
 > - "The factory is short-handed due to the holiday season."（由于节假日，工厂人手不足。——考研相关语料，讨论劳动力问题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

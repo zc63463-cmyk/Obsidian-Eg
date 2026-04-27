@@ -3,17 +3,14 @@ title: "location"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 位置、地点
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/loʊˈkeɪʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: loc-locat
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -46,7 +43,7 @@ loc(地方/地点) + -at(e)(动词) + -ion(名词后缀，动作的结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**位置、地点**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **位置、地点**（空间层面——某物所在的地方）
@@ -65,7 +62,7 @@ loc(地方/地点) + -at(e)(动词) + -ion(名词后缀，动作的结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ loc(地方/地点) + -at(e)(动词) + -ion(名词后缀，动作的结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > location 是 locate（找到位置）的名词形式——你 locate 到的结果就是 location（位置）。房地产中介最爱说的一句话就是"location, location, location"——地段决定一切。
@@ -87,7 +84,7 @@ loc(地方/地点) + -at(e)(动词) + -ion(名词后缀，动作的结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +97,12 @@ loc(地方/地点) + -at(e)(动词) + -ion(名词后缀，动作的结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - location 作为"位置"没有直接反义词，但可对应 [[displacement]]（位移/移动）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +114,21 @@ loc(地方/地点) + -at(e)(动词) + -ion(名词后缀，动作的结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **prime location**：黄金地段
 > - **strategic location**：战略要地
 > - **on location**：在外景地（影视拍摄）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors."（考古学家也可以使用诸如地面雷达、磁场纪录和金属探测器等技术来定位被埋藏的遗址。）——2014年新题型Part B
 > - "The hotel is in a prime location near the beach."（这家酒店位于海滩附近的黄金地段。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

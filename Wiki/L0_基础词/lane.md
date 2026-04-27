@@ -3,14 +3,12 @@ title: "lane"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 狭窄通道（供单人或单车通行的窄路）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/leɪn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**狭窄通道**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **狭窄通道**（空间层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lane 就是"窄道"。乡间的 lane 是蜿蜒的小路，高速公路上的 lane 是一条条车道，泳池里的 lane 是泳道。记住：lane = 窄窄的通道。life in the fast lane（快车道人生）就是忙碌刺激的生活。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词，lane 作为空间通道概念，无直接语义对立面
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bus/cycle lane**：公交/自行车道
 > - **the slow/fast lane**：慢/快车道
 > - **change lanes**：变道
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Carol Harvey suggests that cyclists should be asked to ride on their own lanes."（卡罗尔·哈维建议应该要求骑行者在自己的车道上行驶。——考研阅读真题）
 > - "I was almost knocked down recently by a cyclist riding on the pavement when there was a cycle lane right next to him."（最近我差点被一个在人行道上骑行的骑车人撞倒，而他旁边明明就有一条自行车道。——考研阅读真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

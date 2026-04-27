@@ -3,14 +3,12 @@ title: "mob"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 可移动的人群（四处走动的人群）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/mɒb/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可移动的人群**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **可移动的人群**（物理层面）
@@ -67,7 +65,7 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *mobile vulgus*（易变的民众）被英国人缩写为 mob。想象一群人像潮水一样在街头移动——他们没有领袖、没有组织，只有愤怒和冲动。这就是 mob，暴民。他们 mob（围攻）政府大楼，mob（蜂拥）到明星面前。记住：mob = 移动的人群 = 暴民。
@@ -90,7 +88,7 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[individual]]：个人（mob 是群体，individual 是个体）
 > - [[order]]：秩序（mob 代表无序，order 代表有序）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mob violence**：暴民暴力
 > - **mob rule**：暴民统治（暴民政治）
 > - **a mob of**：一群（贬义）
@@ -129,19 +127,15 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The angry mob gathered outside the government building, demanding justice."（愤怒的暴民聚集在政府大楼外，要求公正。）
 > - "He was mobbed by fans as he left the stadium."（他离开体育场时被粉丝围住。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "creative"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 倾向于增长的（倾向于从无到有地创造）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/kriˈeɪtɪv/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**倾向于增长（从无到有）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **倾向于增长**（能力层面）
@@ -65,7 +63,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > create（从无到有）+ -ive（倾向……的）→ 倾向于从无到有的 → 有创造力的。2018年考研阅读提到教育应 focus less on memorizing facts and more on creativity and complex communication——少记事实，多培养创造力和复杂沟通能力。creative 的人就像一块肥沃的土壤，总能让新想法从无到有地"生长"出来。
@@ -88,7 +86,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[uncreative]]：缺乏创造力的（creative 的派生反义）
 > - [[routine]]：常规的（creative 的反义：创造性↔常规性）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **creative thinking**：创造性思维
 > - **creative ideas**：创意想法
 > - **creative approach**：创造性方法
@@ -128,23 +126,15 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge."（Sternberg 指出，传统的测试最恰当地评估了分析能力和语言表达能力，但未能衡量创造力和实践知识。——2007年考研英语阅读Text2）
 > - "Curriculums should evolve to focus less on memorizing facts and more on creativity and complex communication."（课程应该发展变化，减少对记忆事实的关注，更多地关注创造力和复杂沟通能力。——2018年考研英语阅读）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

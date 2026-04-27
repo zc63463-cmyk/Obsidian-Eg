@@ -3,14 +3,12 @@ title: "priority"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在前面的状态/性质
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/praɪˈɒrəti/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在前面的状态**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **在前面的状态**（空间层面：排在前面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 医院急诊室里，伤势最重的病人被排在**更前面**（prior）——这就是**优先权**（priority），生命面前，一切让路。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inferiority]]：低等，次要（优先→次要）
 > - [[subordination]]：从属地位（优先→从属）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **top priority**：首要任务
 >   Reducing carbon emissions is the government's top priority.（减少碳排放是政府的首要任务。）
 > - **give priority to**：优先考虑
@@ -136,22 +134,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Improving the quality of education should be a top priority for the government."（提高教育质量应该是政府的首要任务。）——考研高频表达
 > - "When setting priorities, it is important to distinguish between what is urgent and what is truly important."（在确定优先事项时，区分紧急事项和真正重要的事项是很重要的。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

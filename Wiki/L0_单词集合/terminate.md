@@ -3,14 +3,12 @@ title: "terminate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 标记边界/设定终点
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈtɜːmɪneɪt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**标记边界/设定终点**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **标记边界/设定终点**（物理→抽象层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > terminate 来自拉丁语 terminare（标记边界），和 term（学期/期限）、terminal（终端/晚期）同根。想象你在一份合同末尾盖了一个大大的"终止"印章——这就是 terminate。在职场中，"you are terminated"就是"你被解雇了"，意味着你和公司的关系到了终点。记住：terminate 就是在画一条线，说"到此为止"。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[begin]]：开始（terminate 在"过程"层面的反义：终止 ↔ 开始）
 > - [[commence]]：着手，开始（terminate 的正式反义）
 > - [[extend]]：延长（terminate 在"期限"层面的反义：终止 ↔ 延长）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **terminate a contract / agreement**：终止合同/协议
 > - **terminate a relationship**：结束关系
 > - **terminate an employee**：解雇员工
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "terminate a contract"（终止合同）——考研阅读/翻译常见搭配，法律/商业类话题
 > - "the contract was terminated"（合同被终止）——法律/职场类阅读
 > - "terminate a pregnancy"（终止妊娠）——医学/伦理类阅读，争议性话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

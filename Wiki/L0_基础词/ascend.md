@@ -3,14 +3,12 @@ title: "ascend"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 向上爬（从低处向高处移动）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈsend/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -42,7 +40,7 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向上爬**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向上爬**（物理层面）
@@ -66,7 +64,7 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > a-（向）+ scend（爬）→ 向上爬。想象你 ascend 一座山——从山脚爬到山顶。在职场中，ascend to a higher position 就是升职。时间上 ascend to the origin 就是追溯到源头。
@@ -88,7 +86,7 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[descend]]：下降（ascend 的精确反义：上升↔下降，同词根 scend/scand）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ascend the throne**：登上王位
 > - **ascend to power**：掌权
 > - **ascend the mountain**：登山
@@ -127,18 +125,14 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She ascended to the position of CEO after years of hard work."（经过多年的努力，她晋升为首席执行官——考研阅读高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

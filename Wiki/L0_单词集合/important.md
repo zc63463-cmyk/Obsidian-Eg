@@ -3,14 +3,12 @@ title: "important"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 带来价值的、有重大意义的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪmˈpɔːtnt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**带来价值的、有重大意义的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **带来价值的、有重大意义的**（抽象层面）
@@ -64,7 +62,7 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[import]]（进口）→ 能"带进来"价值的就是 important（重要的）。这个词太基础了，关键是理解它和 import 的词源关系：进口→带来价值→重要。
@@ -86,7 +84,7 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unimportant]]：不重要的
 > - [[trivial]]：琐碎的，不重要的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **it is important that...**：……很重要
   > It is important that we understand the implications of this decision. 理解这个决定的影响很重要。
 > - **play an important role in**：在……中发挥重要作用
@@ -125,21 +123,15 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "It does not include important factors such as environmental quality or education outcomes — all things that contribute to a person's sense of well-being."（它不包括环境质量或教育成果等重要因素——所有这些都有助于一个人的幸福感。）——考研阅读真题
 > - "However, even though it's common, it's important to keep in mind that in a single moment of fatigue, you can say something to your child that you may regret for a long time."（然而，尽管这种情况很常见，但重要的是要记住，在疲惫的一瞬间，你可能会对孩子说出让你后悔很久的话。）——2020年考研英语二完形填空
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

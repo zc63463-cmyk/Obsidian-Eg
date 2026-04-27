@@ -3,14 +3,12 @@ title: "hammer"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 锤子
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/ˈhæmə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**锤子，敲打**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **锤子**（工具层面）
@@ -69,7 +67,7 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hammer = 锤子，源自古英语 hamor。最早的锤子是石头做的（古诺斯语 hamarr = 石头/悬崖）。hammer 作动词 = 敲打 → 反复强调（hammer home = 把观点锤进脑子里）→ 碾压对手。go under the hammer = 上拍卖台（拍卖师敲锤成交）。hammer and sickle = 锤子和镰刀（工农联盟的标志）。
@@ -92,7 +90,7 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[pry]]：撬开（锤击 ↔ 撬开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hammer home**：反复强调——He hammered home the importance of safety.
 > - **go under the hammer**：被拍卖——The painting went under the hammer for $5 million.
 > - **hammer at**：反复钻研——He has been hammering at this problem for weeks.
@@ -129,19 +127,15 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The teacher hammered home the importance of regular practice."（老师反复强调了定期练习的重要性——hammer home 为考研写作可用搭配）
 > - "The painting went under the hammer at Christie's auction house."（这幅画在佳士得拍卖行被拍卖——go under the hammer 为地道表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

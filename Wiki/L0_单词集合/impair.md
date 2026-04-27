@@ -3,14 +3,12 @@ title: "impair"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使变坏、使变弱
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪmˈpeə(r)/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变坏、使变弱**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使变坏、使变弱**（物理层面的损伤）
@@ -64,7 +62,7 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（进入）+ pair（一对→配对→比较→更差）：让原本好好的东西"变得更差"→ 损害。
@@ -86,7 +84,7 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[improve]]：改善，提高（与 impair 的"损害、削弱"恰好相反）
 > - [[enhance]]：增强，提高
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **impair one's health**：损害某人的健康
 >   > The illness had impaired his ability to think. 这场病损害了他的思维能力。
 > - **impair one's judgment**：损害某人的判断力
@@ -124,21 +122,15 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "Lack of sleep can significantly impair your ability to concentrate."（缺乏睡眠会严重损害你的注意力。）——考研阅读真题
 > - "Alcohol impairs judgment and slows reaction times."（酒精会损害判断力并减慢反应时间。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

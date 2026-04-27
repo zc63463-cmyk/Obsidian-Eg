@@ -3,14 +3,12 @@ title: "extinct"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 灭绝的，熄灭的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪkˈstɪŋkt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ ex-(出，离开) + [[stinct|sting/stinct]](刺，使停止) → 火被扑灭 �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**火灭了/不再存在**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **火灭了**（物理层面）
@@ -66,7 +64,7 @@ ex-(出，离开) + [[stinct|sting/stinct]](刺，使停止) → 火被扑灭 �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ex-(出，离开) + [[stinct|sting/stinct]](刺，使停止) → 火被扑灭 �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 恐龙曾经统治地球，但一颗陨石撞击后，恐龙的生命之火被彻底扑灭(ex- + stinct)——从此恐龙成为 extinct（灭绝的）物种。
@@ -90,7 +88,7 @@ ex-(出，离开) + [[stinct|sting/stinct]](刺，使停止) → 火被扑灭 �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ ex-(出，离开) + [[stinct|sting/stinct]](刺，使停止) → 火被扑灭 �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[existing]]：现存的，存在的
 > - [[alive]]：活着的
 > - [[thriving]]：繁荣的，兴旺的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ ex-(出，离开) + [[stinct|sting/stinct]](刺，使停止) → 火被扑灭 �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **go extinct**：Many species are likely to go extinct within decades.（许多物种可能在几十年内灭绝。）
 > - **extinct species**：Dinosaurs are the most famous extinct species.（恐龙是最著名的灭绝物种。）
 > - **extinct volcano**：The volcano has been extinct for centuries.（这座火山已经熄灭数百年了。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is concern that the giant panda will soon become extinct."（人们担心大熊猫很快就会灭绝。）——考研高频表达
 > - "Many species became extinct as a result of human activities such as deforestation and pollution."（许多物种因砍伐森林和污染等人类活动而灭绝。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

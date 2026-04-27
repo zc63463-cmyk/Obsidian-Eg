@@ -3,14 +3,12 @@ title: "percentage"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 每一百中的比例
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/pəˈsentɪdʒ/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**每一百中的比例**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **每一百中的比例**（数学层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > percentage = per（每）+ cent（百）+ age（名词后缀）。古罗马人喜欢用"每一百"来算账——**每**（per）**一百**（cent）中有多少，就是 **percentage**（百分比）。想象你考试得了85分，老师说你的正确率是85 **percent**，而全班的平均 **percentage** 是80。注意：percent 后面跟具体数字（85%），percentage 后面不跟数字，表示"比例"这个概念本身。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - percentage 作为表示"比例"的名词，没有精确的单一反义词
 > - [[whole]]：整体（部分↔整体，percentage 表示部分比例）
 > - [[absolute]]：绝对的（比例↔绝对值）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a high/large percentage of**：很大比例的……
 > - **a small percentage of**：很小比例的……
 > - **percentage point**：百分点
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "a high percentage of the population"（很大比例的人口）——考研阅读高频搭配，社会/统计类话题
 > - "the percentage point increase"（百分点的增长）——经济/数据类阅读常见表达
 > - "what percentage of students..."（百分之多少的学生……）——教育/调查类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

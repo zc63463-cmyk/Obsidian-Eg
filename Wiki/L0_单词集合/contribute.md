@@ -3,14 +3,12 @@ title: "contribute"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 带到一起、共同给予
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kənˈtrɪbjuːt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ute(动词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**带到一起、共同给予**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **带到一起、共同给予**（物理层面：把物品带到公共处）
@@ -66,7 +64,7 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ute(动词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ute(动词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-（共同）+ trib-（带来，[[fer]]词根的音变）+ -ute（动词后缀）→ 把自己的东西**带到公共池中**，和大家一起分享——就是"贡献"。同族词：[[distribute]]（dis-分开 + trib-带来 = 分开带到各处 = 分配），attribute（at-朝向 + trib-带来 = 带给某个原因 = 归因于）。
@@ -90,7 +88,7 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ute(动词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ute(动词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[detract]]：减损（贡献的反面——削弱整体）
 > - [[hinder]]：阻碍（促成的反面——妨碍进展）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ute(动词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **contribute to**：促成，有助于（Various factors contributed to the economic growth.）
 > - **contribute money/time to**：为……捐钱/花时间（She contributed a lot of time to the charity.）
 > - **contribute an article to**：向……投稿（He contributed an article to the journal.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Even the very phrase 'jobseeker's allowance' is about redefining the unemployed as a 'jobseeker' who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（甚至就连'求职者补贴'这个短语也重新把失业者定义为'求职者'——丧失基本权利，不能享受自己通过缴纳国民保险所获得的福利。）——2014考研英语一阅读
 > - "Many people contributed to the success of the event."（许多人为活动的成功做出了贡献。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "conclusion"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 关闭后的结果，结论
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/kənˈkluːʒn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ con-(一起/加强) + [[ced-cess|clus]](关闭) + -ion(名词后缀) = conclusio
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**关闭后的结果**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **关闭后的结果**（认知层面——思考"关闭"后的产物）
@@ -70,7 +68,7 @@ con-(一起/加强) + [[ced-cess|clus]](关闭) + -ion(名词后缀) = conclusio
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ con-(一起/加强) + [[ced-cess|clus]](关闭) + -ion(名词后缀) = conclusio
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > conclude（关闭）+ -tion（名词后缀）：侦探猛地**关上**推理之门，门后就是他的**结论**——凶手就是管家。会议**关上**门的那一刻，就是会议的**结束**。
@@ -94,7 +92,7 @@ con-(一起/加强) + [[ced-cess|clus]](关闭) + -ion(名词后缀) = conclusio
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ con-(一起/加强) + [[ced-cess|clus]](关闭) + -ion(名词后缀) = conclusio
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[beginning]]：开始（结束↔开始）
 > - [[introduction]]：引言（结论↔引言，文章结构中的首尾）
 > - [[premise]]：前提（结论↔前提，逻辑推理中的首尾）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ con-(一起/加强) + [[ced-cess|clus]](关闭) + -ion(名词后缀) = conclusio
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **draw/reach/come to a conclusion**：得出结论
 > - **in conclusion**：总之，最后
 > - **jump to a conclusion**：草率下结论
@@ -137,22 +135,16 @@ con-(一起/加强) + [[ced-cess|clus]](关闭) + -ion(名词后缀) = conclusio
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In conclusion, the evidence strongly supports the hypothesis that climate change is accelerating."（总之，证据有力地支持了气候变化正在加速这一假设。）——考研高频表达
 > - "They jumped to conclusions without examining all the available evidence."（他们没有核实所有可用的证据就草率下结论。）——考研高频表达
 > - "The committee reached the conclusion that further research was needed before any policy changes could be made."（委员会得出的结论是，在做出任何政策变更之前需要进一步的研究。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

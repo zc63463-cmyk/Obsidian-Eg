@@ -3,14 +3,12 @@ title: "nourish"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 喂养，滋养
-extension_dim: 从生理到精神
+extension_dim: [从生理到精神]
 phonetic: "/ˈnʌrɪʃ/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**滋养，使生长**"为统筹中心，沿从生理到精神向外扩展：
 >
 > 1. **喂养，提供养分**（生理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nourish 源自拉丁语 *nutrire*（哺乳、养育）。想象一位母亲在哺乳婴儿——这就是 nourish 的原始画面。婴儿需要 nourish 才能成长，土地需要 nourish 才能丰收。后来这个词从"身体的滋养"延伸到"精神的滋养"——你可以 nourish a hope（怀有希望），nourish a dream（孕育梦想）。考研重点掌握抽象用法：nourish = 培育/陶冶/怀有。同源词：**nutrition**（营养）、**nutrient**（营养物质）、**nurse**（护士——最初就是"哺育者"的意思）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[starve]]：使挨饿（nourish 的精确反义：滋养↔使挨饿）
 > - [[neglect]]：忽视（nourish 的抽象反义：培养↔忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nourish the body/soul**：滋养身体/灵魂
 > - **nourish a hope/dream**：怀有希望/孕育梦想（考研高频抽象搭配）
 > - **nourish resentment**：怀恨在心
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Good books nourish the mind and soul."（好书滋养心灵与灵魂。——考研英语翻译/写作常用句型，nourish 的抽象用法）
 > - "The soil in this region is rich enough to nourish a wide variety of crops."（这个地区的土壤足够肥沃，能够滋养各种各样的农作物。——考研英语阅读农业/环境类话题，nourish 的具体用法）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

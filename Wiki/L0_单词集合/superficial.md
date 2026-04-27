@@ -3,14 +3,12 @@ title: "superficial"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在表面上方（只触及表面）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌsuːpəˈfɪʃl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在表面上方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在表面上方**（空间层面：只触及表面）
@@ -66,7 +64,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > super（在上方）+ fac（表面）+ -ial（……的）。想象你站在湖水的**表面上方**，只看到水面的倒影，看不到水底的真相——这就是 **superficial**（肤浅的）。记住：在表面上方 = 只看表面 = superficial。
@@ -89,7 +87,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[profound]]：深刻的；深远的
 > - [[deep]]：深的（superficial 的空间对立面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **superficial knowledge**：肤浅的知识
   - He has only a superficial knowledge of the subject.（他对这个学科只有肤浅的了解。）
 > - **superficial wound**：表皮伤
@@ -127,19 +125,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But such a view is a superficial analysis based on the quantity of information supplied by various forms of the mass media."（但这种观点是基于大众媒体各种形式所提供的信息量而做出的肤浅分析——考研高频表达）
 > - "The book shows only a superficial understanding of the historical context."（这本书只表现出对历史背景的肤浅理解——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

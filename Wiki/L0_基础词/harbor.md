@@ -3,14 +3,12 @@ title: "harbor"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 避风港（为船只提供庇护的水域）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈhɑːbə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**避风港（庇护所）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **避风港**（物理空间层面）
@@ -73,7 +71,7 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > harbor 是船的"家"——暴风雨来了，船回到 harbor 避风。引申到人——harbor a refugee（庇护难民），给人一个"港湾"。引申到心理——harbor a grudge（心怀怨恨），在心里给怨恨建了一个"港湾"。引申到生物——harbor bacteria（携带细菌），给细菌提供了一个"港湾"。harbor = 提供庇护之所。
@@ -96,7 +94,7 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expose]]：暴露（harbor 的反义：庇护/藏有↔暴露）
 > - [[banish]]：驱逐（harbor 的反义：庇护↔驱逐）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,7 +132,7 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **harbor a grudge**：心怀怨恨
 > - **harbor suspicions**：心存怀疑
 > - **harbor refugees**：庇护难民
@@ -142,19 +140,15 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Biofilm communities can harbor bacteria longer and are very difficult to clean."（生物膜群落能更长时间地藏有细菌，并且非常难以清除。——2018年12月四级阅读Section B）
 > - "He harbored the suspicion that someone in the agency was spying for the enemy."（他心存怀疑，认为机构中有人在为敌人充当间谍。——考研英语阅读相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

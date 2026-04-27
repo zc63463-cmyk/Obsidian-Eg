@@ -3,17 +3,14 @@ title: "simultaneous"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 同时发生的（simul-同一 + -taneous时间后缀）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌsɪmlˈteɪniəs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: simul-sem
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**同一时间发生**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **同一时间发生**（时间层面）
@@ -66,7 +63,7 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > simul（同一，和 similar 同根）+ -taneous（时间的）→ 在同一时间 → 同时。同声传译就是 simultaneous translation——翻译和说话"同时"进行。simultaneous attacks 就是"同时发动"的攻击。
@@ -88,7 +85,7 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sequential]]：顺序的，相继的（simultaneous 的精确反义：同时的↔顺序的）
 > - [[successive]]：连续的（simultaneous 的反义：同时的↔连续的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +121,7 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **simultaneous translation/interpretation**：同声传译
 > - **simultaneous attacks**：同时发动的攻击
 > - **simultaneous events**：同时发生的事件
@@ -132,19 +129,15 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Some hypotheses fail to account for simultaneous extinctions on land and in the seas."（有些假说不能解释同时发生在陆地和海洋的灭绝——考研英语阅读）
 > - "With simultaneous interpreting, you start translating almost as soon as the other person starts speaking."（在做同声传译时，你几乎是在对方开始说话的同时就开始翻译——考研英语翻译）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

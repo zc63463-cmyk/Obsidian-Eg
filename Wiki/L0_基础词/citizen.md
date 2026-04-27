@@ -3,17 +3,14 @@ title: "citizen"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 城市居民
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsɪtɪzn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: cit
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ cit-(=civ-，城市，来自拉丁语 *civis* 公民) + -izen(= -an，表示"…
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**城市居民**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **城市居民**（社会层面）
@@ -66,7 +63,7 @@ cit-(=civ-，城市，来自拉丁语 *civis* 公民) + -izen(= -an，表示"…
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ cit-(=civ-，城市，来自拉丁语 *civis* 公民) + -izen(= -an，表示"…
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cit（城市）+ izen（人）→ 城市里的人 → 公民。在古希腊，只有住在城邦（city）里的人才算 citizen（公民），享有投票权。后来 citizen 的含义扩大为"拥有某国国籍的人"。senior citizen 是"老年公民"，netizen 是"网民"（net + citizen）。
@@ -88,7 +85,7 @@ cit-(=civ-，城市，来自拉丁语 *civis* 公民) + -izen(= -an，表示"…
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ cit-(=civ-，城市，来自拉丁语 *civis* 公民) + -izen(= -an，表示"…
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[alien]]：外侨（citizen 的反义：公民↔外侨）
 > - [[foreigner]]：外国人（citizen 的反义：本国公民↔外国人）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +118,22 @@ cit-(=civ-，城市，来自拉丁语 *civis* 公民) + -izen(= -an，表示"…
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **senior citizen**：老年公民
 > - **become a citizen**：成为公民
 > - **citizen rights/responsibilities**：公民权利/义务
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "After five years of living here, they become eligible for citizenship and a chance to gain voting rights and full access to the social safety net."（在这里居住五年后，他们就有资格获得公民身份，有机会获得投票权并全面享受社会保障网。——2013年考研英语二真题）
 > - "Citizen" appeared in the 2019 English II Text 4, discussing sustainable consumption and citizen responsibility.（"citizen"出现在2019年英语二Text 4中，讨论可持续消费和公民责任。——考研真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

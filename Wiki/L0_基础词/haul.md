@@ -3,14 +3,12 @@ title: "haul"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用力拖/拉
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/hɔːl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用力拖/拉**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用力拖/拉**（物理动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > haul 核心动作是"用力拖"。渔民 haul the net（拉鱼网），起重机 haul the car（拖汽车）。长途航班叫 long-haul flight（长途拖运的航班），坚持到底叫 over the long haul（经过漫长的拖运）。haul 的画面感很强——一个人满头大汗地拖着一个重箱子。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[push]]：推（拖/拉 ↔ 推）
 > - [[release]]：释放（拖住 ↔ 释放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,26 +125,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **long-haul flight**：长途航班——Passengers on long-haul flights should exercise regularly.
 > - **over the long haul**：从长远来看——Over the long haul, the investment will pay off.
 > - **haul in**：拉进来——The fishermen hauled in a huge catch.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Passengers on long-haul flights are being warned about the risks of deep vein thrombosis."（长途航班上的乘客须注意可能出现深静脉血栓的风险——牛津词典例句，long-haul 为高频搭配）
 > - "They began the long slow haul to the summit."（他们踏上了攀登顶峰的漫长行程——英语阅读常见表达，haul 指漫长费力的旅程）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

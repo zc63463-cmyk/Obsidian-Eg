@@ -3,14 +3,12 @@ title: "prospect"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 向前看→前景
-extension_dim: 视觉路径→认知路径
+extension_dim: [视觉路径→认知路径]
 phonetic: "/ˈprɒspekt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前看**"为统筹中心，沿视觉路径→认知路径向外扩展：
 >
 > 1. **向前看**（视觉层面：目光投向远方）
@@ -71,7 +69,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > pro（向前）+ spect（看）→ 向前看→ 前景。站在山顶向前望去，你看到的是壮丽的 prospect（景色）；站在毕业的十字路口向前望去，你想到的是 career prospects（职业前景）；站在荒野中向前看，试图发现地下的矿藏——你在 prospect for gold（勘探金矿）。prospect 的灵魂就是"向前看"——目光所及之处，既是眼前的风景，也是未来的可能。
@@ -94,7 +92,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retrospect]]：回顾，回想（与"向前看"形成时间方向对立：向前看↔回头看）
 > - [[despair]]：绝望（与"前景/希望"形成情感状态对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **job/career prospects**：就业/职业前景
 > - **the prospect of**：……的前景/可能性
 > - **prospect for**：勘探（矿藏）
@@ -134,19 +132,15 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Is there any chance that Cardus's criticism will enjoy a revival? The prospect seems remote."（卡杜斯的批评有可能重获新生吗？前景似乎很遥远。——考研英语阅读真题）
 > - "The prospect of working abroad attracted many graduates."（出国工作的前景吸引了许多毕业生。——2015年考研英语一阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

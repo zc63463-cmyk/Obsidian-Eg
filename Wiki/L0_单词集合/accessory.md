@@ -3,14 +3,12 @@ title: "accessory"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 走到旁边辅助
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əkˈsesəri/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走到旁边辅助**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **走到旁边辅助**（物理层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > accessory 和 access 是一家人——access 是"走向"，accessory 是"走到旁边辅助的东西"。想象你买了一部手机，又走到它旁边买了手机壳和耳机——这些就是 **accessory**（配件）。再想象一个人走到犯罪现场旁边帮忙望风——他就是 **accessory**（帮凶）。核心都是"在旁边"。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[essential]]：必不可少的——accessory 的精确反义：附属品 vs 必需品
 > - [[principal]]：主要的，首要的——地位层面的反义：辅助的 vs 主要的
 > - [[necessity]]：必需品——功能层面的反义：可有可无的配件 vs 不可或缺的必需品
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **car accessories**：汽车配件
 > - **fashion accessories**：时尚配饰（如项链、围巾、手包）
 > - **accessory to a crime/murder**：（法律）同谋/帮凶
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "fashion accessories"（时尚配饰）——商业/消费类阅读常见搭配
 > - "accessory to a crime"（犯罪同谋）——法律类阅读常见搭配
 > - "accessory organs"（附属器官）——医学/科普类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

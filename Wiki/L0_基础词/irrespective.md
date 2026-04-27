@@ -3,17 +3,14 @@ title: "irrespective"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 不加区分的（不考虑差异地对待）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌɪrɪˈspektɪv/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: spect-spec
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不加区分的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不加区分的**（认知层面——不看差异）
@@ -62,7 +59,7 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ir（不）+ spect（看）+ ive → 不看 → 不顾。irrespective of the cost（不顾成本）——不看成本是多少。The law applies irrespective of nationality.（法律适用于所有人，不论国籍。）你"不看"国籍，就是 irrespective。
@@ -84,7 +81,7 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +93,13 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[respectful]]：尊重的（irrespective 的反义：不顾↔尊重）
 > - [[dependent]]：依赖的（irrespective of 的反义：不论↔取决于）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +112,7 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **irrespective of**：不顾，不管
 > - **irrespective of the consequences**：不顾后果
 > - **irrespective of age/gender/race**：不论年龄/性别/种族
@@ -123,19 +120,15 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All citizens are equal before the law, irrespective of their social status."（所有公民在法律面前一律平等，不论其社会地位——考研高频表达）
 > - "The policy should be applied irrespective of individual circumstances."（该政策应不论个人情况一律适用）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

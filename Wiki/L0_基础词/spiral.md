@@ -3,14 +3,12 @@ title: "spiral"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 螺旋形，围绕中心不断旋转展开
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈspaɪrəl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**螺旋形，围绕中心旋转展开**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **螺旋形**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spiral 的核心画面是"海螺壳——一圈一圈地螺旋展开"。希腊语 *speira* = 螺旋。海螺壳的形状就是最典型的 spiral——从中心向外不断旋转展开。楼梯可以是 spiral staircase（螺旋楼梯），星系可以是 spiral galaxy（螺旋星系）。在经济学中，inflationary spiral（通胀螺旋）= 物价和工资互相推动，像螺旋一样不断上升。a downward spiral（恶性循环）= 像螺旋一样不断向下。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[straight]]：直的（spiral 的反义：螺旋↔直线）
 > - [[stable]]：稳定的（spiral"恶化"义的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a downward spiral**：恶性循环，不断恶化
 > - **inflationary spiral**：通胀螺旋
 > - **spiral staircase**：螺旋楼梯
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The country's economy entered a downward spiral as rising unemployment led to decreased consumer spending, which in turn caused more businesses to close."（随着失业率上升导致消费支出减少，进而引发更多企业倒闭，该国经济陷入了恶性循环——考研阅读经济话题相关表达）
 > - "Drug addiction often creates a vicious spiral in which the user needs increasingly larger doses to achieve the same effect, ultimately leading to severe health consequences."（吸毒成瘾往往造成一种恶性循环，使用者需要越来越大的剂量才能达到相同的效果，最终导致严重的健康后果——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

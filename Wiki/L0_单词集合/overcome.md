@@ -3,14 +3,12 @@ title: "overcome"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 从上方越过→克服
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌəʊvəˈkʌm/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ over-（在……上方/越过）+ come（来，到达）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从上方越过**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从上方越过**（物理空间层面）
@@ -64,7 +62,7 @@ over-（在……上方/越过）+ come（来，到达）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ over-（在……上方/越过）+ come（来，到达）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over（越过）+ come（来）= overcome。想象你翻越（over）一座山，终于来到（come）山顶——你 **overcome**（克服）了困难。但如果你被悲伤 overcome，那就是悲伤从上方把你压倒了。
@@ -87,7 +85,7 @@ over-（在……上方/越过）+ come（来，到达）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ over-（在……上方/越过）+ come（来，到达）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[surrender]]：surrender 是"屈服/投降"，overcome 是"克服/战胜"
 > - [[submit]]：submit 是"顺从"，overcome 是"战胜"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ over-（在……上方/越过）+ come（来，到达）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overcome difficulties/obstacles**：克服困难/障碍
 > - **overcome fear**：克服恐惧
 > - **be overcome with...**：被……压倒（by/with grief, emotion）
@@ -126,21 +124,15 @@ over-（在……上方/越过）+ come（来，到达）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She overcame numerous obstacles to achieve her goal of becoming a doctor."（她克服了无数障碍，实现了成为一名医生的目标。）——考研高频表达
 > - "The team overcame a ten-point deficit to win the championship."（这支球队克服了十分落后的劣势赢得了冠军。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

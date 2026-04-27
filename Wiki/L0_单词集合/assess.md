@@ -3,14 +3,12 @@ title: "assess"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 坐在旁边估计
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈses/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ad-(在旁边，同化为 as-) + [[sess|sess]](坐) → 坐在旁边观察 → �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坐在旁边估计**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **坐在旁边估计**（观察层面：仔细观察后做出判断）
@@ -64,7 +62,7 @@ ad-(在旁边，同化为 as-) + [[sess|sess]](坐) → 坐在旁边观察 → �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ad-(在旁边，同化为 as-) + [[sess|sess]](坐) → 坐在旁边观察 → �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > as-(在旁边) + sess(坐) → 坐在旁边仔细观察评判 = 评估。与 [[lect-leg]]（lect=选择，坐在旁边选择最好的）同源。
@@ -86,7 +84,7 @@ ad-(在旁边，同化为 as-) + [[sess|sess]](坐) → 坐在旁边观察 → �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ ad-(在旁边，同化为 as-) + [[sess|sess]](坐) → 坐在旁边观察 → �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[guess]]：猜测（与 assess 的"仔细评估"形成反义）
 > - [[ignore]]：忽视（与 assess 的"仔细观察"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,22 @@ ad-(在旁边，同化为 as-) + [[sess|sess]](坐) → 坐在旁边观察 → �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assess the impact/effect**：评估影响/效果
 > - **assess the situation**：评估形势
 > - **assess the damage at**：估价损失为……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look."（根据普林斯顿大学的研究，人们仅需十分之一秒就能根据你的外貌来评估你的能力、可信度和亲和力——考研高频表达）
 > - "It is difficult to assess the full impact of the new policy on the economy."（很难评估新政策对经济的全部影响——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "evaporate"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 变成蒸汽
-extension_dim: 变化路径
+extension_dim: [变化路径]
 phonetic: "/ɪˈvæpəreɪt/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ e-(=ex-, 出) + vapor(蒸汽，源自拉丁语 *vapor*) + -ate(动词后缀，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**变成蒸汽**"为统筹中心，沿变化路径向外扩展：
 >
 > 1. **变成蒸汽**（物理层面）
@@ -66,7 +64,7 @@ e-(=ex-, 出) + vapor(蒸汽，源自拉丁语 *vapor*) + -ate(动词后缀，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ e-(=ex-, 出) + vapor(蒸汽，源自拉丁语 *vapor*) + -ate(动词后缀，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > e（出）+ vapor（蒸汽）+ ate（使动）→ 使之变成蒸汽 → 蒸发。vapor 你一定认识——vapor 是"蒸汽"，evaporate 就是"使之变成蒸汽"。一杯热水放在桌上，水慢慢 evaporate（蒸发）了。你的存款也可以 evaporate——像水蒸气一样消失了。
@@ -89,7 +87,7 @@ e-(=ex-, 出) + vapor(蒸汽，源自拉丁语 *vapor*) + -ate(动词后缀，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ e-(=ex-, 出) + vapor(蒸汽，源自拉丁语 *vapor*) + -ate(动词后缀，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[condense]]：凝结，冷凝（evaporate 的精确反义：蒸发↔凝结）
 > - [[freeze]]：冻结（evaporate 的反义：蒸发↔冻结）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,22 @@ e-(=ex-, 出) + vapor(蒸汽，源自拉丁语 *vapor*) + -ate(动词后缀，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **evaporate into thin air**：化为乌有
 > - **evaporate completely**：完全蒸发
 > - **hopes/confidence evaporate**：希望/信心消失
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The morning dew evaporates quickly under the sun."（晨露在阳光下迅速蒸发。）
 > - "His confidence evaporated when he saw the exam paper."（当他看到试卷时，信心全无。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

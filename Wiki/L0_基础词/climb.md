@@ -3,14 +3,12 @@ title: "climb"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 手脚并用向上攀爬
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/klaɪm/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**手脚并用向上攀爬**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **手脚并用向上攀爬**（物理层面）
@@ -67,7 +65,7 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > climb 就是手脚并用向上攀爬。你 climb 一座山，你的事业 climb，你的银行账户也在 climb。所有"向上"的动作都是 climb。
@@ -90,7 +88,7 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[descend]]：下降，走下（climb 的精确反义：攀爬↔下降）
 > - [[fall]]：下降，跌落（数值上的反义：攀升↔下跌）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **climb the mountain/ladder**：攀登/爬梯子
 > - **climb the social/corporate ladder**：攀登社会/公司阶梯（晋升）
 > - **prices/climbed**：价格攀升
@@ -133,19 +131,15 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Yet a college degree is increasingly important to climbing into and staying in the middle class."（然而大学学位对于跻身并保持中产阶级地位越来越重要——CBS News）
 > - "It reflected the fact that these decades saw a climb in general standards of living and avoidance of mass societal traumas like full-scale war or economic deprivation."（这反映了这几十年人们总体生活水平有所提高，大规模社会创伤得以避免的事实——2017年高考英语天津卷阅读B）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

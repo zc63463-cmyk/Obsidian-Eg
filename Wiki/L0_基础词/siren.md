@@ -3,14 +3,12 @@ title: "siren"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 发出刺耳声响的警报装置
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsaɪrən/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**发出刺耳声响的警报装置**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **发出刺耳声响的警报装置**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊神话中的 Siren 是半鸟半女的海妖，坐在礁石上用美妙的歌声引诱水手，水手们被歌声迷住，船只触礁沉没。后来人们把"发出刺耳声响的警报装置"也叫 siren——虽然声音不美妙，但同样"吸引"注意力。再后来，siren call / siren song 就成了"危险的诱惑"的代名词。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[silence]]：寂静（siren 的反义：刺耳声响↔寂静无声）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **air-raid siren**：空袭警报器
 > - **police siren**：警笛
 > - **siren call / siren song**：危险的诱惑，致命的吸引力
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The siren song of the open road has always tempted young adventurers to leave home and explore the unknown."（开放道路的致命诱惑总是吸引着年轻的冒险者离开家乡探索未知——外刊常见表达）
 > - "Air-raid sirens sounded to warn everyone in the city that an attack was coming."（空袭警报响起，提醒城里的人空袭即将来临——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

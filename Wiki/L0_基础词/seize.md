@@ -3,14 +3,12 @@ title: "seize"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 抓住（用手紧紧握住不放）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/siːz/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**抓住（用手紧紧握住）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **抓住**（物理动作层面）
@@ -70,7 +68,7 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > seize 和 [[second]]（第二）、[[section]]（部分）同源，都来自"抓住/切割"的概念。seize 的核心动作就是"一把抓住"——想象警察一把 seize 住小偷的手腕。seize 的力度比 grab 更强，带有"强行"的意味。从"抓住人"到"抓住城市"（夺取），从"抓住财产"（没收）到"抓住机会"（把握），seize 的含义一步步抽象化。
@@ -92,7 +90,7 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[release]]：释放，放开（seize 的反义：抓住↔释放）
 > - [[surrender]]：放弃，投降（seize 的反义：夺取↔放弃）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **seize the opportunity/chance**：抓住机会
 > - **seize power**：夺取政权
 > - **seize control of**：夺取……的控制权
@@ -136,20 +134,16 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She was eager to seize any opportunity that was offered."（她渴望抓住任何提供的机会。——牛津词典）
 > - "Customs agents last year seized $14 million in counterfeit electronics goods at the nation's ports."（海关人员去年在全国各港口查获了价值1400万美元的假冒电子产品。——剑桥英语语料库）
 > - "In most states the police can seize property they suspect has been used in a crime."（在大多数州，警方可以没收他们怀疑被用于犯罪的财产。——柯林斯语料库）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

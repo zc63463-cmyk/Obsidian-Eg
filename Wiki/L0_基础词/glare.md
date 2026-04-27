@@ -3,14 +3,12 @@ title: "glare"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 强烈的光；怒目而视
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɡleə(r)/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**强烈刺眼的光**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **强烈刺眼的光**（物理层面）
@@ -68,7 +66,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > glare 来自 gl-（光）词根。想象正午的阳光直射你的眼睛——那叫 glare（刺眼的强光）。你被刺得眯起眼睛，皱着眉头看人——那也叫 glare（怒视）。名人不喜欢 the glare of publicity（公众关注的强光）。glare 就是"强烈到刺眼"的一切。
@@ -91,7 +89,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[glimpse]]：一瞥（怒视/强光 ↔ 快速一瞥，强度和持续时间相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +122,22 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **glare at**：怒视——The old woman glared at him.
 > - **the glare of publicity**：公众关注/曝光——He shunned the glare of publicity.
 > - **in the glare of**：在……的强光下
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Living in a glare of our making, we have cut ourselves off from our evolutionary and cultural heritage—the light of the stars and the rhythms of day and night."（生活在我们自己制造的强光中，我们切断了与我们的进化和文化遗产——星光和昼夜节律的联系——2015年高考英语阅读，glare 指人造强光污染）
 > - "The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long."（这里所呈现的社会疗法最明显的缺陷是它不能长期有效——考研相关阅读，glaring 引申为"明显的"）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "artistic"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 艺术的（与技艺和美相关的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɑːˈtɪstɪk/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: art
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**艺术的（与技艺和美相关的）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **艺术的**（属性层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > artistic = art（技艺）+ ist（人）+ ic（的）。与艺术家和技艺相关的一切都是 artistic。artistic works（艺术作品），artistic vision（艺术视野），artistic temperament（艺术气质）。一个人的 artistic sense（艺术感）决定了他的审美水平。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inartistic]]：无艺术性的（artistic 的精确反义）
 > - [[scientific]]：科学的（artistic 的反义：艺术的↔科学的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **artistic talent**：艺术天赋
 > - **artistic temperament**：艺术气质
 > - **artistic creation**：艺术创作
@@ -129,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The school encourages artistic expression through music, drama, and visual arts."（学校通过音乐、戏剧和视觉艺术鼓励艺术表达）
 > - "She has an artistic temperament that makes her sensitive to beauty in everyday life."（她具有艺术气质，使她对日常生活中的美很敏感）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

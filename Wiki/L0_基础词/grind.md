@@ -3,17 +3,14 @@ title: "grind"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 碾磨→苦干→缓慢运转
-extension_dim: 动作强度
+extension_dim: [动作强度]
 phonetic: "/ɡraɪnd/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: grin
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复摩擦/碾磨**"为统筹中心，沿动作强度向外扩展：
 >
 > 1. **反复碾磨（物理层面）**
@@ -68,7 +65,7 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > grind 和 [[grin]] 共享"嘴部大动作"的词源。grind 是磨牙（痛苦的），grin 是咧嘴笑（快乐的）。grind 的核心画面是磨坊里的磨石——一圈一圈地转，把谷物磨成粉。学生日复一日地刷题也叫 grind——the daily grind（日常苦差事）。当机器的齿轮慢慢停下来，就是 grind to a halt（慢慢停止运转）。
@@ -91,7 +88,7 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[relax]]：放松（grind 的反义：苦干↔放松）
 > - [[idle]]：闲置（grind 的反义：运转↔闲置）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **grind to a halt**：慢慢停止运转
 > - **grind away**：刻苦用功
 > - **the daily grind**：日常苦差事
@@ -134,19 +131,15 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If traffic increases beyond a certain level, the city grinds to a halt."（如果交通流量超过一定水平，这座城市就会慢慢陷入瘫痪——剑桥词典例句）
 > - "Without advertising, business would grind to a halt."（如果没有广告，商业活动就会慢慢停止——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

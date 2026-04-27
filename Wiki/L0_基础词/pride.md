@@ -3,14 +3,12 @@ title: "pride"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 高度的自我评价（对自己的高度认可）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/praɪd/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**高度的自我评价**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **高度的自我评价**（心理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pride 源自古法语 *prud*（勇敢的/优秀的），最初是褒义词。一个骑士为自己的勇敢感到自豪——这就是 pride。但随着时间推移，过度自豪变成了"傲慢"。英语中 pride 既是褒义也是贬义：take pride in（以……为自豪）是正面的，pride comes before a fall（骄兵必败）是负面的。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[shame]]：羞耻（pride 的反义：自豪↔羞耻）
 > - [[humility]]：谦逊（pride 的反义：骄傲↔谦逊）
 > - [[inferiority]]：自卑（pride 的反义：自尊↔自卑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take pride in**：以……为自豪
 > - **a source of pride**：自豪的源泉
 > - **pride oneself on**：以……为自豪
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She takes great pride in her work and always strives for excellence."（她对自己的工作非常自豪，总是追求卓越）
 > - "He had to swallow his pride and ask for help."（他不得不放下自尊寻求帮助）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

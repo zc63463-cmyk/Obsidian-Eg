@@ -3,14 +3,12 @@ title: "glow"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 柔和持续地发光
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɡləʊ/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**柔和持续地发光**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **柔和持续地发光**（物理层面）
@@ -68,7 +66,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > glow 来自 gl-（光）词根，和 glare（刺眼的光）、glitter（闪烁的光）是"光"家族的三兄弟。glare 太刺眼，glitter 太闪烁，glow 是最舒服的——柔和、持续、温暖。壁炉 glow（发出温暖的红光），新鲜空气使她两颊 glow（红润），她 glow with happiness（洋溢着幸福）。glow 就是"温暖的光"。
@@ -91,7 +89,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[darken]]：变暗（发光 ↔ 变暗）
 > - [[fade]]：褪色，消退（发光 ↔ 消退）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,26 +123,22 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **glow with**：洋溢着……——She glowed with pride.
 > - **the glow of**：……的光辉——the glow of sunset
 > - **a healthy glow**：健康的红润——The fresh air brought a healthy glow to her cheeks.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They fill these tubes with gases that glow when electrified."（他们在这些管子里充满通电后会发光的气体——2018年6月四级真题阅读Section A，glow 描述气体的柔和发光）
 > - "When night falls, red and blue and other colors cast a hazy glow over a city lit up by tens of thousands of neon signs."（夜幕降临，红色、蓝色和其他颜色在成千上万个霓虹灯照亮的城市上空投下一层朦胧的光辉——考研相关阅读，glow 描述城市的灯光氛围）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

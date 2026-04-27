@@ -3,14 +3,12 @@ title: "nowhere"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 无处，任何地方都不
-extension_dim: 空间否定
+extension_dim: [空间否定]
 phonetic: "/ˈnəʊweə/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ no(没有) + where(地方)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**没有任何地方**"为统筹中心，沿空间否定向外扩展：
 >
 > 1. **没有地方**（空间层面）
@@ -69,7 +67,7 @@ no(没有) + where(地方)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ no(没有) + where(地方)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nowhere = no（没有）+ where（地方）。字面义就是"没有任何地方"。想象你把钥匙弄丢了，翻遍了家里每个角落都找不到——the key is **nowhere** to be found。考研重点掌握三个固定搭配：① **get nowhere** = 毫无进展（讨论了半天，get nowhere = 白讨论了）；② **nowhere near** = 远远不/差得远（nowhere near enough = 远远不够）；③ **out of nowhere** = 突然（一辆车 out of nowhere 冲了出来 = 突然冲出来）。nowhere 是 [[anywhere]]（任何地方）和 [[everywhere]]（到处）的反义复合词。
@@ -92,7 +90,7 @@ no(没有) + where(地方)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ no(没有) + where(地方)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[everywhere]]：到处（nowhere 的精确反义：无处↔到处）
 > - [[anywhere]]：任何地方（nowhere 在否定句中的反义：任何地方↔无处）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ no(没有) + where(地方)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **get nowhere**：毫无进展（考研高频搭配）
 > - **nowhere near**：远远不，差得远（考研高频搭配）
 > - **out of nowhere**：突然，出乎意料（考研高频搭配）
@@ -134,19 +132,15 @@ no(没有) + where(地方)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Despite months of negotiation, the two parties got nowhere near an agreement."（尽管谈判了数月，双方离达成协议还差得远。——考研英语阅读政治/经济类话题，nowhere near 是高频考点）
 > - "The economic crisis seemed to come out of nowhere, catching governments around the world off guard."（这场经济危机似乎来得很突然，让世界各国政府措手不及。——考研英语阅读经济类话题，out of nowhere 是高频考点）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

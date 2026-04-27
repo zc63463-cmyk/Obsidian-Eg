@@ -3,14 +3,12 @@ title: "restore"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 重新建立（回到原来的状态）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈstɔːr/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**重新建立**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **重新建立**（动作层面：再次建立）
@@ -66,7 +64,7 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（再）+ stor（建立）→ 重新建立。政府采取措施 restore public order——重新建立公共秩序。医生 restore his sight——重新建立他的视力。你 restore an old photo——重新建立老照片的清晰度。restore 的核心就是"重新建立原来的样子"。
@@ -90,7 +88,7 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[destroy]]：破坏，毁灭（与"恢复/修复"形成状态对立：重建↔毁灭）
 > - [[ruin]]：毁坏（与"修复"形成状态对立：修复↔毁坏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **restore public order/confidence**：恢复公共秩序/信心
 >  > The government took steps to quell the unrest and restore public order.
 > - **restore to**：归还给；恢复到
@@ -134,19 +132,15 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government took steps to quell the unrest and restore public order."（政府采取措施平息动乱，恢复公共秩序——2021年考研英语一阅读Text 4）
 > - "Failing hips can be replaced, clinical depression controlled, cataracts removed in a 30-minute surgical procedure."（股骨出了毛病可以换掉，临床性情绪低落可以控制，白内障只需30分钟的手术即可切除——2003年考研阅读，restore 同义语境：医学领域的"恢复/修复"）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

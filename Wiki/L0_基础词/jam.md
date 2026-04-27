@@ -3,14 +3,12 @@ title: "jam"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 果酱；拥挤
-extension_dim: 状态路径
+extension_dim: [状态路径]
 phonetic: "/dʒæm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**果酱；挤压**"为统筹中心，沿状态路径向外扩展：
 >
 > 1. **果酱**（物品层面——被挤压的水果）
@@ -69,7 +67,7 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > jam 的核心概念是"挤"。果酱（jam）就是被挤压成糊状的水果。交通堵塞（traffic jam）就是车辆挤在一起。打印机卡纸（paper jam）就是纸被卡住。in a jam = 陷入困境。jam-packed = 挤得水泄不通。jam the brakes = 猛踩刹车（把刹车踩到底）。记住 jam = 挤，一切含义都从这个"挤"出发。
@@ -92,7 +90,7 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[spread]]：展开，涂抹（拥挤 ↔ 展开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **traffic jam**：交通堵塞——I was stuck in a traffic jam for an hour.
 > - **in a jam**：陷入困境——I'm in a bit of a jam with my finances.
 > - **paper jam**：卡纸——The printer has a paper jam.
@@ -128,19 +126,15 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Commuters were stuck in a massive traffic jam on the highway this morning."（今早通勤者被困在高速公路的大规模交通堵塞中——traffic jam 为考研阅读常见表达）
 > - "The system is jammed with too many requests."（系统因请求过多而卡住了——jam 在科技语境中的用法）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

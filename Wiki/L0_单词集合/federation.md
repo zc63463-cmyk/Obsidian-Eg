@@ -3,14 +3,12 @@ title: "federation"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 基于契约的联盟组织
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌfedəˈreɪʃən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**基于契约的联盟组织**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **基于契约的联盟组织**（政治层面）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > feder(契约/联盟) + -ation(名词后缀) → 结成联盟 → federation"联邦"。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[confederation]]：邦联（federation 是联邦，中央权力较大；confederation 是邦联，各邦权力较大）
 - [[separation]]：分离（federation 是联合，separation 是分离）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Russian Federation**：俄罗斯联邦
   - Moscow is the capital of the Russian **Federation**.
 - **trade federation**：贸易联合会
@@ -125,21 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The Australian **Federation** was established in 1901.（澳大利亚联邦成立于1901年。）
 > - The trade **federation** negotiated a new wage agreement with employers.（贸易联合会与雇主谈判达成了新的工资协议。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

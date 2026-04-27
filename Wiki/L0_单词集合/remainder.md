@@ -3,14 +3,12 @@ title: "remainder"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 剩余的部分
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈmeɪndə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**剩余的部分**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **剩余的部分**（时间/空间层面）
@@ -65,7 +63,7 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > remain（剩余）+ -der（名词后缀）：剩余下来的东西 → "剩余部分"。
@@ -88,7 +86,7 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whole]]：整体；全部
 > - [[total]]：总计；全部
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the remainder of**：……的剩余部分
 >   The remainder of the book is devoted to case studies.
 > - **remainder of the time**：剩余的时间
@@ -128,21 +126,15 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The remainder of the book is devoted to discussing the implications of these findings."（本书的其余部分致力于讨论这些发现的含义。）——考研高频表达
 > - "She spent the remainder of the afternoon reading in the library."（她在图书馆度过了下午的剩余时间。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

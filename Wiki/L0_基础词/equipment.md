@@ -3,17 +3,14 @@ title: "equipment"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 装配好的东西（为特定用途配备的全部物品）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪˈkwɪpmənt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: equip
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**装配好的东西**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **装配好的东西**（物理层面）
@@ -64,7 +61,7 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > equip（装备）的名词形式就是 equipment。给船 equip 好帆和桨，这些就是 ship's equipment。给实验室 equip 好仪器，这些就是 lab equipment。equipment 不可数——因为它是一个"整体集合"，就像 furniture（家具）一样，你不能说"一个 equipment"，但可以说"a piece of equipment"。
@@ -86,7 +83,7 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - equipment 作为"设备/装备"没有精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +111,7 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **office equipment**：办公设备
 > - **medical equipment**：医疗设备
 > - **sports equipment**：运动器材
@@ -123,18 +120,14 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The hospital needs to update its medical equipment to provide better service.（医院需要更新医疗设备以提供更好的服务——考研阅读常见话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

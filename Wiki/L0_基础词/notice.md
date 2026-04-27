@@ -3,17 +3,14 @@ title: "notice"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 知道（从"被知道"到"注意到"）
-extension_dim: 认知路径
+extension_dim: [认知路径]
 phonetic: "/ˈnəʊtɪs/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: not
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**知道**"为统筹中心，沿认知路径向外扩展：
 >
 > 1. **知道**（认知层面）
@@ -67,7 +64,7 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > notice 源自拉丁语 notitia（知识、认知），来自 notus（已知的）。当你 notice 一件事，你的大脑就"知道"了它。公司发 notice（通知），就是让员工"知道"一件事。从"知道"到"注意到"到"通知"，notice 始终围绕"知"展开。
@@ -90,7 +87,7 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（notice ↔ ignore，注意到 ↔ 故意不看）
 > - [[overlook]]：忽略（notice ↔ overlook，注意到 ↔ 没注意到）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take notice of**：注意到，留意（Take notice of the warning signs.）
 > - **bring to one's notice**：引起某人注意（The matter was brought to my notice.）
 > - **give notice**：发出通知（He gave notice that he would resign.）
@@ -132,19 +129,15 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Researchers have noticed that..."（研究人员注意到……——考研阅读高频句式）
 > - "It has come to our notice that..."（我们注意到……——正式通知常用表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

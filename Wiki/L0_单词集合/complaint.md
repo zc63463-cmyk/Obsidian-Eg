@@ -3,14 +3,12 @@ title: "complaint"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 悲叹的表达
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəmˈpleɪnt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**悲叹的表达**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **悲叹的表达**（社会层面——不满的语言输出）
@@ -65,7 +63,7 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > complain（抱怨）的名词形式——抱怨的内容就是"投诉"或"不满"。
@@ -88,7 +86,7 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[praise]]：赞扬
 > - [[compliment]]：赞美（注意：complaint 和 compliment 是形近反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make/lodge a complaint**：提出投诉
   > Several customers have lodged complaints about the product quality.（几位顾客对产品质量提出了投诉。）
 > - **file a complaint**：正式投诉
@@ -127,21 +125,15 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The company received numerous complaints about the delayed delivery.（公司收到了大量关于延迟交货的投诉。）
 > - His main complaint was that the hotel did not match the description online.（他主要抱怨的是酒店与网上描述不符。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

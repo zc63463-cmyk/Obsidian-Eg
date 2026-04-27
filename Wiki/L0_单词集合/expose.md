@@ -3,14 +3,12 @@ title: "expose"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 放到外面（将隐藏的东西放到外面）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪkˈspəʊz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ex-(向外) + pos(放置，拉丁语 *ponere* 的过去分词 *positus*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**放到外面**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **放到外面**（物理/抽象层面）
@@ -68,7 +66,7 @@ ex-(向外) + pos(放置，拉丁语 *ponere* 的过去分词 *positus*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ex-(向外) + pos(放置，拉丁语 *ponere* 的过去分词 *positus*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向外）+ pos（放置）→ 向外放置 → 暴露。想象一个记者掀开黑幕，把隐藏的真相"放到外面"让所有人看到——这就是 expose the truth。想象一个医生说"不要 expose yourself to the sun"——不要把自己"放到"太阳"外面"。expose 的核心就是"放到外面"——把隐藏的放到外面=揭露，把人放到危险外面=使暴露。
@@ -90,7 +88,7 @@ ex-(向外) + pos(放置，拉丁语 *ponere* 的过去分词 *positus*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ex-(向外) + pos(放置，拉丁语 *ponere* 的过去分词 *positus*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cover]]：覆盖，掩盖（expose 的精确反义：暴露↔掩盖）
 > - [[conceal]]：隐藏（expose 的反义：揭露↔隐藏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ ex-(向外) + pos(放置，拉丁语 *ponere* 的过去分词 *positus*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **expose sb/sth to**：使某人/某物暴露于……
 > - **expose the truth**：揭露真相
 > - **be exposed to**：暴露于……；接触……
@@ -129,23 +127,15 @@ ex-(向外) + pos(放置，拉丁语 *ponere* 的过去分词 *positus*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "You shouldn't expose the soldiers to unnecessary risks."（你不应该让士兵们冒不必要的危险。——2008年考研英语阅读Text1，expose sb to 的经典真题）
 > - "Unless renewables become cheap enough that substantial carbon deposits are left underground for a very long time, if not forever, the planet will likely be exposed to potentially catastrophic climate risks."（除非可再生能源变得足够便宜，使得大量碳沉积物能在地下保存非常长的时间，否则地球可能会暴露于潜在的灾难性气候风险中。——六级2017年6月阅读，expose to 高频例句）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

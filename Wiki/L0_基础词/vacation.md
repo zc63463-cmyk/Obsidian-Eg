@@ -3,14 +3,12 @@ title: "vacation"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 空出来的时间（vacare = 空闲 → 免除工作的时间）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/veɪˈkeɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**空出来的时间**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **空闲时间**（时间层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vacation 的核心画面是"日历上空出来的一大块时间"。拉丁语 *vacare* = 空闲。*vac-* = 空，*-ation* = 名词后缀。空出来的时间 = 假期。We are on vacation（我们在度假）。注意 vacation 和 [[holiday]] 的区别：vacation 偏美式，指较长的假期；holiday 偏英式，可以指一天假。vacation 的同源词 [[vacant]]（空的）帮助你记忆——vacation 就是时间 vacant（空出来）了。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[work]]：工作（vacation 的反义：假期↔工作）
 > - [[business]]：公务（vacation 的反义：休假↔公务）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on vacation**：在度假
 > - **summer/winter vacation**：暑假/寒假
 > - **take a vacation**：休假
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many Americans cannot afford to take a vacation because of the rising cost of living and stagnant wages."（由于生活成本上升和工资停滞，许多美国人负担不起度假费用——考研阅读社会话题相关表达）
 > - "The university's long vacation provides students with an opportunity to pursue internships or research projects."（大学的长假为学生提供了实习或参与研究项目的机会——考研阅读教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

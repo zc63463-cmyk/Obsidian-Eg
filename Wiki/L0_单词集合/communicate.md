@@ -3,14 +3,12 @@ title: "communicate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 使信息在人与人之间共同流动
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəˈmjuːnɪkeɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使信息共同流动**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使信息共同流动**（信息传递层面）
@@ -65,7 +63,7 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com-(共同) + muni(服务) + -cate(使动)，使大家共同获得服务（信息）——交流沟通。
@@ -90,7 +88,7 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏（communicate 是传达，conceal 是隐藏信息）
 > - [[isolate]]：隔离（communicate 是交流，isolate 是隔绝交流）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **communicate with sb.**：与某人交流
   > We communicate with each other through email.
   > 我们通过电子邮件相互交流。
@@ -136,22 +134,16 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Do we live in a gigantic 'zoo' observed by our 'keepers,' but having no communication with them?"（我们是否生活在一个巨大的"动物园"里，被我们的"看守者"观察着，却与他们没有任何交流？）——1987年考研英语真题
 > - "In fact, these commutes were reportedly more enjoyable compared with those without communication."（事实上，据报道，与没有交流的情况相比，这些通勤过程更加愉快。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

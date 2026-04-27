@@ -3,14 +3,12 @@ title: "sandwich"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 夹在中间的食物（两片面包中间夹肉的食物）
-extension_dim: 物品路径
+extension_dim: [物品路径]
 phonetic: "/ˈsænwɪtʃ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**夹在中间的食物**"为统筹中心，沿物品路径向外扩展：
 >
 > 1. **夹在中间的食物（食物层面）**
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sandwich 源自人名——第四代三明治伯爵 John Montagu。他是18世纪英国的贵族，也是一位痴迷的赌徒。为了不在赌桌上离开，他让仆人把冷肉夹在两片面包中送来，这样他可以一边赌博一边吃。这种吃法被命名为"三明治"。动词 sandwich 意为"夹在中间"——被夹在两个大国之间的国家就是 sandwiched between two powers。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词，sandwich 的核心是"夹在中间"，反义概念为"独立/分离"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sandwiched between**：夹在……之间
 > - **a ham/cheese sandwich**：火腿/奶酪三明治
 > - **make a sandwich**：做三明治
@@ -123,19 +121,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The small country is sandwiched between two powerful neighbors."（这个小国夹在两个强大的邻国之间——考研阅读国际政治话题常见表达）
 > - "She grabbed a quick sandwich for lunch before heading back to the office."（她在回办公室之前匆匆吃了一个三明治当午餐——考研阅读生活话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "progressive"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 一步步向前走
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/prəˈɡresɪv/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一步步向前走**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **一步步向前走**（物理动作）
@@ -67,7 +65,7 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（向前）+ gress（走）+ ive（倾向）→ 有向前走倾向的。想象一条河流不断向前奔涌，冲破旧堤坝，开辟新河道。
@@ -91,7 +89,7 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conservative]]：conservative表示"保守的"，与progressive"进步的"在社会政治维度直接对立
 > - [[regressive]]：regressive表示"退步的"，与progressive"进步的"在发展方向上直接对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **progressive change**：渐进的变化
   > The company introduced progressive changes to its management structure.（公司对其管理结构引入了渐进式变革。）
 > - **progressive disease**：进行性疾病
@@ -133,21 +131,15 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Progressive education emphasizes the development of critical thinking skills rather than rote memorization."（进步主义教育强调批判性思维技能的培养，而非死记硬背。）——考研高频表达
 > - "The company has adopted a progressive approach to employee welfare."（公司采取了渐进式的员工福利政策。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

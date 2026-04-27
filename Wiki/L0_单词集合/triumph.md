@@ -3,17 +3,14 @@ title: "triumph"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 胜利的仪式（古罗马凯旋式）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈtraɪʌmf/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**胜利的仪式**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **胜利的仪式**（社会层面：古罗马凯旋式）
@@ -67,7 +64,7 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马将军打了胜仗，**骑着白马穿过凯旋门**，全城百姓欢呼——这就是 **triumph**（凯旋）。记住：凯旋 = triumph = 胜利。
@@ -90,7 +87,7 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[defeat]]：失败；击败
 > - [[disaster]]：灾难
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **triumph over**：战胜……
   - Good will triumph over evil in the end.（善良最终会战胜邪恶。）
 > - **in triumph**：胜利地；洋洋得意地
@@ -128,19 +125,15 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If the small hot spots look as expected, that will be a triumph for yet another scientific idea, a refinement of the Big Bang called the inflationary universe theory."（假如那些小热点看上去如同预计的一致，那就意味着又一科学观点的胜利，即对大爆炸理论的一种改进——暴胀宇宙论——2003年考研Text 2）
 > - "The eradication of smallpox by vaccination was one of medicine's greatest triumphs."（通过接种疫苗根除天花是医学上最伟大的成就之一——权威语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

@@ -3,17 +3,14 @@ title: "immigrant"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 从外地迁入的人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɪmɪɡrənt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从外地迁入的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **从外地迁入的人**（社会人口层面）
@@ -62,7 +59,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个人站在海关门口，他正在走进（im-）一个全新的国家。他不是游客，他要迁移（migr）到这里定居，成为这个国家的移民（-ant）。im- 表示"向内"，所以 immigrant 永远是"走进来的人"——对目的地国家来说，他是 immigrant；对出发地国家来说，他是 emigrant。
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[emigrant]]：迁出者，移出移民（immigrant 是"走进来"，emigrant 是"走出去"，同一人在不同视角下的两个身份）
 > - [[native]]：本地人，土生土长的人（immigrant 是外来迁入，native 是本地出生）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **immigrant workers**：外来劳工 — Many immigrant workers contribute significantly to the economy.
 > - **illegal immigrant**：非法移民 — The government has tightened policies on illegal immigrants.
 > - **immigrant communities**：移民社区 — Immigrant communities have preserved their cultural traditions.
@@ -125,22 +122,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The United States has long been a nation of immigrants."（考研英语——美国长期以来是一个移民国家）
 > - "Immigrant children often face language barriers in school."（考研英语——移民儿童在学校中常面临语言障碍）
 > - "The immigrant contribution to the cultural diversity of the nation is immeasurable."（考研英语——移民对国家文化多样性的贡献不可估量）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

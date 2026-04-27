@@ -3,14 +3,12 @@ title: "creep"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 身体贴近地面悄悄移动
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kriːp/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**身体贴近地面悄悄移动**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **身体贴近地面悄悄移动**（物理动作层面）
@@ -69,7 +67,7 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > creep 和 [[crawl]] 是"爬行双胞胎"——creep 更强调"悄悄、无声"，crawl 更强调"贴地、缓慢"。黑暗中有什么东西 creep up on 你——give me the creeps（毛骨悚然）。怀疑 creep into your mind（悄悄侵入你的脑海），通货膨胀 creeps up（不知不觉上涨）。
@@ -92,7 +90,7 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stride]]：大步走（creep 的反义：悄悄移动↔大步流星）
 > - [[rush]]：冲，匆忙（creep 的反义：缓慢渐进↔急速）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **creep up on**：悄悄靠近；不知不觉逼近
 > - **give sb. the creeps**：使某人毛骨悚然
 > - **creep into**：悄悄进入（脑海、房间等）
@@ -130,19 +128,15 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Old age creeps up on you before you realize it."（不知不觉中，衰老就悄悄降临了）
 > - "The old abandoned house gives me the creeps."（那座废弃的老房子让我毛骨悚然）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

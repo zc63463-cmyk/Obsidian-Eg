@@ -3,14 +3,12 @@ title: "intense"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 拉到极限（拉伸到极致的状态）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈtens/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉到极限**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **拉到极限**（物理层面）
@@ -66,7 +64,7 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（加强）+ tens（拉紧）→ 拉到极限。想象弓弦被拉到极致——那种紧绷到快要断裂的状态就是 intense。竞争拉到极限是 intense competition（激烈竞争），压力拉到极限是 intense pressure（巨大压力），情感拉到极限是 intense emotion（强烈情感）。
@@ -88,7 +86,7 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mild]]：温和的（intense 的反义：强烈↔温和，程度上的对立）
 > - [[relaxed]]：放松的（intense 的反义：紧张↔放松）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **intense competition**：激烈的竞争
 >   - The competition is intense.（竞争非常激烈。——2013年考研英语一阅读）
 > - **intense pressure**：巨大的压力
@@ -132,23 +130,15 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Yet moments like this one are just the kind of intense absorption and pleasure adults spend the rest of their lives seeking."（然而，像这样的时刻正是成年人余生都在追寻的那种强烈的专注与愉悦。——考研英语阅读）
 > - "A child's ability to become deeply absorbed in something, and derive intense pleasure from that absorption, is something adults spend the rest of their lives trying to return to."（孩子深深沉浸于某事并从中获得强烈愉悦的能力，正是成年人余生都试图回归的东西。——考研英语阅读）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

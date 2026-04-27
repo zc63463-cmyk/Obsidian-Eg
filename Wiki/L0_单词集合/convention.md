@@ -3,14 +3,12 @@ title: "convention"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 共同来到一起的事件、惯例
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kənˈvenʃən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(共同、一起) + vent-(=venire，来) + -ion(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同来到一起**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **共同来到一起**（物理层面：人们聚在一起）
@@ -66,7 +64,7 @@ con-(共同、一起) + vent-(=venire，来) + -ion(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ con-(共同、一起) + vent-(=venire，来) + -ion(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-（共同）+ vent-（来）+ -ion（名词后缀）→ 人们**共同来到一起**。聚在一起开会就是"大会"，长期聚在一起形成的共同约定就是"惯例"，正式签署的共同约定就是"公约"。convention 的三个义项都源于"走到一起"——物理上的走到一起（大会），文化上的走到一起（惯例），法律上的走到一起（公约）。
@@ -91,7 +89,7 @@ con-(共同、一起) + vent-(=venire，来) + -ion(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ con-(共同、一起) + vent-(=venire，来) + -ion(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[innovation]]：创新（惯例的反面——打破常规）
 > - [[unconventionality]]：不落俗套（惯例的反面——不按常规）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,22 @@ con-(共同、一起) + vent-(=venire，来) + -ion(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **social convention**：社会惯例（They broke the social convention by living together before marriage.）
 > - **by convention**：按照惯例（By convention, the bride wears white.）
 > - **hold a convention**：召开大会（The party holds its national convention every four years.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents."（BIO最近召开了一次会议，其中包括就专利领域的变化对律师进行指导——2012年考研Text 3）
 > - "It takes more than a brief encounter on a bus to distinguish between courteous convention and individual interest."（要区分礼貌的惯例和个人兴趣，需要的不仅仅是在公交车上的短暂相遇——1997年考研阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

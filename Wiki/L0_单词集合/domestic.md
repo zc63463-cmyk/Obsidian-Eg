@@ -3,14 +3,12 @@ title: "domestic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 家里的、房屋内的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/dəˈmestɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ dom-(=domus，房屋、家) + -estic(形容词后缀，表示"与……有关的
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**家里的、房屋内的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **家里的、房屋内的**（空间层面：与家庭/房屋相关）
@@ -66,7 +64,7 @@ dom-(=domus，房屋、家) + -estic(形容词后缀，表示"与……有关的
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ dom-(=domus，房屋、家) + -estic(形容词后缀，表示"与……有关的
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dom-（房屋、家，[[nat-nasc|dom-]]词根）+ -estic（与……有关的）→ 与**家**有关的一切。家里的事是"家庭的"（domestic life），自己国家这个"大家庭"内的事是"国内的"（domestic affairs），被养在家里的动物是"驯养的"（domestic animals）。dom- 的核心就是"家"——从一栋房子到一个国家，"家"的范围可以无限扩大。
@@ -89,7 +87,7 @@ dom-(=domus，房屋、家) + -estic(形容词后缀，表示"与……有关的
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ dom-(=domus，房屋、家) + -estic(形容词后缀，表示"与……有关的
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[foreign]]：外国的（国内的反面——国外的）
 > - [[wild]]：野生的（驯养的反面——未驯化的）
 > - [[international]]：国际的（国内的反面——跨越国界的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,22 @@ dom-(=domus，房屋、家) + -estic(形容词后缀，表示"与……有关的
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **domestic market/economy**：国内市场/经济（The domestic economy is growing steadily.）
 > - **domestic policy/affairs**：国内政策/事务（The government focuses on domestic affairs.）
 > - **domestic violence**：家庭暴力（Domestic violence is a serious social issue.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government needs to pay more attention to domestic issues rather than foreign affairs."（政府需要更多地关注国内问题而非外交事务——考研高频表达）
 > - "Domestic violence remains a serious problem in many countries."（家庭暴力在许多国家仍然是一个严重问题——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

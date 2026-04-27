@@ -3,14 +3,12 @@ title: "dive"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 头朝下扎入水中
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/daɪv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**头朝下扎入水中**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **头朝下扎入水中**（物理动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dive 和 deep（深）同源——dive 就是"往深处扎"。跳水运动员站在跳台上，头朝下扎进水里——这就是 dive。后来一切"快速向下"的动作都叫 dive：股价 dive（暴跌），飞机 dive（俯冲），一头 dive into 研究（钻研）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rise]]：上升（dive 的反义：急剧下降↔上升）
 > - [[surface]]：浮出水面（dive 的反义：潜水↔浮出水面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dive into**：一头扎进（钻研/投入）；The researcher dived into the data.
 > - **take a dive**：急剧下降；（拳击中）假装被击倒
 > - **nose dive**：猛跌，暴跌；Profits took a nose dive.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The stock market dived on news of the financial crisis."（金融市场危机的消息传来，股市暴跌。）
 > - "Scholars have dived into the archives to uncover the truth."（学者们一头扎进档案中寻找真相。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "end"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 边界，尽头
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/end/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**边界，尽头**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **边界，尽头**（空间层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > end 就是最原始的"尽头"。一条路的 end 就是路的尽头；一本书的 end 就是书的结尾；你做一件事的 end（目的）就是你心中要到达的终点。end 和 [[termin]]（边界）是远亲——terminal（终点站）就是"end 站"，determine（决定）就是"设定 end"，exterminate（消灭）就是"推到 end 之外"。endless（无尽的）就是"没有 end"。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[beginning]]：开始（end 的直接反义：结束↔开始）
 > - [[start]]：起点（end 的反义：尽头↔起点）
 > - [[means]]：手段（end "目的"的反义：目的↔手段，the end justifies the means）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in the end**：最终，终于
   - *In the end, the company decided to adopt the new strategy despite initial resistance.*（最终，公司还是决定采用新战略，尽管最初遭到了抵制。）
 > - **end up**：最终成为，最终处于
@@ -141,7 +139,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "in the end"（最终）——考研阅读/写作极高频搭配，常用于总结结论
 > - "end up doing sth."（最终做某事）——考研阅读/翻译中描述结果的高频句式
 > - "to this end"（为此目的）——考研阅读中学术论证类文章常见搭配
@@ -149,15 +147,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

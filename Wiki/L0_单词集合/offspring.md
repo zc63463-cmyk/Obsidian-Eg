@@ -3,14 +3,12 @@ title: "offspring"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 从某人身上跳跃生长出来的后代
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈɒfsprɪŋ/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从某人身上跳跃生长出来**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **从某人身上跳跃生长出来**（生命繁衍层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > off（离开）+ spring（春天/跳跃/生长）→ 从父母身上**跳出来/生长出来** → **后代**。想象春天（spring）来了，万物**生长**（spring），小动物们从妈妈身边**蹦出来**——它们就是 offspring（**后代/幼崽**）。一个伟大发明的**产物**（offspring），也是从发明者的头脑中"生长"出来的。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ancestor]]：祖先/前辈（offspring 的精确反义：后代↔祖先）
 > - [[parent]]：父母（offspring 的反义：子女↔父母）
 > - [[predecessor]]：前任/前身（offspring 作为"产物"的反义：产物↔前身）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **produce offspring**：繁殖后代
 > - **raise offspring**：抚养后代
 > - **human offspring**：人类后代
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "produce healthy offspring"（繁殖健康的后代）——生物/科普类阅读
 > - "the offspring of scientific research"（科学研究的产物）——学术/科技类语料
 > - "parents and their offspring"（父母及其子女）——家庭/社会类话题
@@ -140,15 +138,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

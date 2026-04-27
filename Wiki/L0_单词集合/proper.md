@@ -3,14 +3,12 @@ title: "proper"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 属于自己的→适合的
-extension_dim: 归属路径→规范路径
+extension_dim: [归属路径→规范路径]
 phonetic: "/ˈprɒpə/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**属于自己的**"为统筹中心，沿归属路径→规范路径向外扩展：
 >
 > 1. **属于自己的**（归属层面：某物属于某人/某类）
@@ -68,7 +66,7 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > propri（自己的）→ 属于自己的就是"适合的"。想象你打开衣柜，只有属于你自己的衣服穿起来才最合适——proper fit。在社交场合，属于该场合的行为才是"得体的"——proper behavior。讨论一个概念时，属于它本身的含义才是"真正的"含义——the proper meaning。proper 的灵魂就是"适合自己的才是最好的"。
@@ -91,7 +89,7 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[improper]]：不适当的，不正确的（proper 的精确反义：适当↔不适当）
 > - [[inappropriate]]：不合适的（与"适当的"形成规范判断对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **proper way/method**：适当的方法
 > - **proper behavior**：正当的行为
 > - **in the proper sense**：在严格意义上
@@ -132,19 +130,15 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In Japan the proportion is 35%. Not surprisingly, Japanese newspapers are much more stable."（在日本，这一比例是35%。毫不奇怪，日本报纸要稳定得多。——考研英语二2011年Text 2，proper 相关语境：proper understanding 恰当理解）
 > - "This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance."（这种日益提高的教育水平可能是先进经济表现所需的复杂政治体系的必要而非充分条件。——考研高频表达，proper 相关语境：proper function 恰当功能）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "show"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 让别人看到、注视某物
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ʃəʊ/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**让别人看到、注视某物**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **让别人看到、注视某物**（视觉感知层面）
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > show 的祖先是古英语 scēawian，意思就是"看"。从"我去看"变成"我让你看"——show 的本质就是"让看不见的东西变得可见"。你展示一张照片（show a photo），数据表明趋势（data shows a trend），你表现出勇气（show courage），都是 show：把隐藏的东西拉到光天化日之下。
@@ -98,7 +96,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,14 +109,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hide]]：隐藏（show 的精确反义：展示 ↔ 隐藏）
 > - [[conceal]]：掩盖、隐瞒（隐藏真相）
 > - [[disguise]]：伪装、掩饰（改变外观使人看不到真实面目）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **show sb around**：带某人参观
 > - **show that...**：表明，证明
 > - **show no sign of**：没有……的迹象
@@ -141,22 +139,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Research shows that regular exercise can significantly reduce stress."（研究表明，规律运动能显著减轻压力）——考研阅读学术类高频搭配
 > - "The data clearly show that her claims are false."（数据清楚地表明她的说法是错误的）——论证类语境
 > - "He showed great courage in the face of danger."（他在危险面前表现出极大的勇气）——品质描写类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

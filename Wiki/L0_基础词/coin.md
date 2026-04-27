@@ -3,14 +3,12 @@ title: "coin"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 楔子、模具（用来压印货币的工具）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/kɔɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**楔子/模具**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **模具**（工具层面）
@@ -67,7 +65,7 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > coin 源自拉丁语 *cuneus*（楔子）→ 古法语 *coign*（楔形模具）→ 英语 coin（硬币）。核心画面：一台铸币机把金属放进楔形模具，压出一枚硬币。后来 coin 从"硬币"引申为"创造新词"——就像铸造硬币一样，你"铸造"出一个新词。The term 'artificial intelligence' was coined in 1956（"人工智能"一词创造于1956年）。coin 的两面性很有意思：一面是"硬币"（物质），一面是"创造"（抽象）。
@@ -91,7 +89,7 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （coin 作为"创造"的反义较难精确对应，以下为语义相关反义）
 > - [[discard]]：丢弃（coin 的反义：创造↔丢弃）
 > - [[abolish]]：废除（coin 的反义：创造↔废除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **coin a term/phrase**：创造一个术语/短语
 > - **toss a coin**：掷硬币
 > - **coin money**：赚大钱
@@ -131,19 +129,15 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The term 'globalization' was first coined in the 1960s to describe the growing interconnectedness of the world economy."（"全球化"一词最早创造于20世纪60年代，用来描述世界经济日益增长的相互联系——考研阅读经济话题）
 > - "The two problems are two sides of the same coin — improving education requires both better funding and better teaching methods."（这两个问题是同一枚硬币的两面——改善教育既需要更好的资金投入，也需要更好的教学方法——考研阅读教育话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

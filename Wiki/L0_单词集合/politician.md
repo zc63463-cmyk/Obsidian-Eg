@@ -3,17 +3,14 @@ title: "politician"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 政治家；政客
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌpɒləˈtɪʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: politics
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从事城邦治理的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **政治家/从政者**（中性——从事政治活动的职业人士）
@@ -61,7 +58,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 城邦（polis）的公民（politēs）中，有人选择以政治为业——好的叫 statesman（政治家），被人诟病的叫 politician（政客）。
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - politician 在"从政者"维度上，无直接反义词；在"政客（贬义）"维度上，反义概念为 [[statesman]]（有远见的政治家）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **run for politician**：竞选政治职位（更常用：run for office）
   > She decided to run for office as a politician. 她决定作为政治候选人竞选公职。
 - **a career politician**：职业政治家
@@ -127,21 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "Politicians often make promises that they cannot keep."（政客们经常做出无法兑现的承诺。）——考研阅读真题
 > - "The politician was criticized for changing his position on the issue."（这位政客因在该问题上改变立场而受到批评。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

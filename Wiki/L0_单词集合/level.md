@@ -3,14 +3,12 @@ title: "level"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 水平的、平坦的状态
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈlevl/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**水平的、平坦的状态**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **水平的、平坦的状态**（物理空间层面）
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > level 来自 libra（天平）。想象你拿着一架**天平**，两端一样高就是**水平的**（level）。后来人们用这个概念来形容一切"一样高"的东西——两个人的能力在同一个**等级**（level），考试成绩达到一定**水平**（level），情绪像水平面一样**平稳**（level）。
@@ -100,7 +98,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -114,14 +112,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[uneven]]：不平的、不均匀的（level 作为"平坦"的反义）
 > - [[unequal]]：不平等的（level 作为"同等"的反义）
 > - [[vertical]]：垂直的（level/horizontal 作为"水平的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sea level**：海平面
 > - **level of education**：教育水平
 > - **level off/out**：趋于平稳，达到平衡
@@ -144,22 +142,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the level of education has improved significantly"（教育水平显著提高）——考研阅读社会教育类话题
 > - "a level playing field for all competitors"（对所有竞争者公平的环境）——商业/政治类阅读
 > - "prices have leveled off"（价格已趋于平稳）——经济类阅读高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

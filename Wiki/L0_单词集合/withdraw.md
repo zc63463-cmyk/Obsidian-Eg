@@ -3,14 +3,12 @@ title: "withdraw"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 向后拉、拉开
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/wɪðˈdrɔː/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后拉、拉开**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向后拉、拉开**（物理动作层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > with- 在古英语里不是"和"而是"离开"（away），draw 是"拉"。想象你站在河边，把鱼钩从水里**向后拉**出来——这就是 withdraw。军队从战场拉回来是"撤退"，钱从银行拉出来是"提款"，说过的话拉回来是"撤回"。记住：with = away，draw = 拉。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deposit]]：存入（款项）→ withdraw money 的精确反义（提取↔存入）
 > - [[advance]]：推进/前进（军队）→ withdraw troops 的反义（撤退↔推进）
 > - [[submit]]：提交（言论/提案）→ withdraw a proposal 的反义（撤回↔提交）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **withdraw money/cash**：提取现金
 > - **withdraw troops/forces**：撤军
 > - **withdraw support**：撤回支持
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "withdraw troops from the region"（从该地区撤军）——考研阅读常见搭配，描述国际政治、军事行动
 > - "withdraw money from the bank"（从银行提款）——经济类阅读语境
 > - "withdraw one's support for the proposal"（撤回对提案的支持）——政治、学术类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "incline"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使身体倾斜、弯腰
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪnˈklaɪn/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使身体倾斜、弯腰**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使身体倾斜、弯腰**（物理动作层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > incline 和 decline、recline 是三兄弟，都来自 clin-（倾斜）。incline 是**朝里/朝某方向倾斜**，decline 是**向下倾斜**（衰退），recline 是**向后倾斜**（躺下）。想象你坐在椅子上，身体**朝前倾斜**（incline）——这就是"倾向"某个想法的身体隐喻。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[decline]]：下降，衰退→ incline（向上倾斜/倾向）的反义（上升↔下降）
 > - [[disincline]]：使不情愿→ incline（使倾向于）的精确反义（倾向↔不情愿）
 > - [[deter]]：阻止，打消念头→ incline sb. to do sth. 的反义（鼓励↔阻止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be inclined to do sth.**：倾向于做某事
 > - **incline toward/to sth.**：倾向于某事
 > - **incline sb. to do sth.**：使某人倾向于做某事
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I am inclined to agree with this view."（我倾向于同意这个观点。）——考研阅读、翻译中常见表达
 > - "Factors that incline people toward certain behaviors."（使人们倾向于某些行为的因素。）——社会心理学类阅读
 > - "incline one's head in acknowledgment"（点头致意）——文学类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

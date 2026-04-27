@@ -3,14 +3,12 @@ title: "ribbon"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 细长的带子（像肋骨一样细长的装饰带）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈrɪbən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**细长的带子**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **细长的带子**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[rib]]（肋骨）+ bon（带子）→ 像肋骨一样细长的带子 → 丝带。想象一条细长的丝带从礼物盒上垂下来——那就是 ribbon。公路蜿蜒穿过山谷，像一条 ribbon of road（带状公路）。烟雾从烟囱升起，像一条 ribbon of smoke（带状烟）。记住：ribbon = 细长的带子。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （ribbon 作为具体物品，无精确反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cut the ribbon**：剪彩
 > - **a ribbon of road**：带状公路
 > - **a ribbon of smoke**：带状烟雾
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The mayor cut the ribbon to officially open the new library."（市长剪彩正式开放新图书馆。）
 > - "A narrow ribbon of road wound through the mountains."（一条狭窄的带状公路蜿蜒穿过群山。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

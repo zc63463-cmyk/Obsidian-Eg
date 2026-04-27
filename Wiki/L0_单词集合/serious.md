@@ -3,14 +3,12 @@ title: "serious"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 严肃的、严重的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɪəriəs/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**严肃的、认真的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **严肃的、认真的**（态度层面：不轻浮、认真对待）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 来自拉丁语 *serius*（沉重的、严肃的），词根 [[ser/seri|ser]] 意为"认真"。想象一位医生摘下眼镜，表情凝重地看着检查报告——这个画面就是 serious：事情不轻松。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,14 +96,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[trivial]]：琐碎的，不重要的（严重 vs 琐碎）
 - [[frivolous]]：轻浮的（严肃 vs 轻浮）
 - [[humorous]]：幽默的（严肃 vs 幽默）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,28 +114,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **serious problem/concern**：Climate change is a serious global concern.（气候变化是一个严重的全球性问题。）
 > - **take...seriously**：We should take this threat seriously.（我们应该认真对待这个威胁。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Climate change poses a serious threat to the future of the planet."（气候变化对地球的未来构成了严重威胁。）——考研高频表达
 > - "The government should take this problem seriously."（政府应该认真对待这个问题。）——考研高频表达
 > - "There is a serious risk of contamination from radioactive waste."（放射性废弃物有严重污染的危险。）——考研阅读高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

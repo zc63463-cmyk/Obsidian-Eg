@@ -3,14 +3,12 @@ title: "obey"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 仔细倾听后遵从（听→服从）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈbeɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**仔细倾听后遵从**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **朝向听**（感官层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > obey 的核心画面是"认真听然后照做"。拉丁语 *obedire* = [[ob]]（朝向）+ *audire*（听）= "朝向某人听"→ "听从"。obey the law = 听法律的话 = 遵守法律。obey orders = 听命令 = 服从命令。和 [[obedient]]（形容词：顺从的）、[[obedience]]（名词：服从）一起记：obey → obedient → obedience。注意 obey 和 obesity（肥胖）词源完全不同——obey 来自"听"，obesity 来自"吃"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disobey]]：不服从（obey 的反义：服从↔不服从）
 > - [[defy]]：违抗（obey 的反义：服从↔违抗）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **obey the law/rules**：遵守法律/规则
 > - **obey orders**：服从命令
 > - **obey instructions**：遵照指示
@@ -125,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Citizens are expected to obey the law and respect the rights of others in a democratic society."（在民主社会中，公民被期望遵守法律并尊重他人的权利——考研阅读法律话题）
 > - "Soldiers are trained to obey orders without hesitation, even in the most dangerous and challenging situations."（士兵被训练得毫不犹豫地服从命令，即使在最危险和最具挑战性的情况下——考研翻译军事话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

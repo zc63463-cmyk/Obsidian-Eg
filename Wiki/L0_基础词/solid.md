@@ -3,14 +3,12 @@ title: "solid"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 坚实的、完整的（不空洞、不分裂的整体）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsɒlɪd/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坚实的、完整的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **坚实**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > solid 来自拉丁语 *solidus*（坚实的、完整的），PIE 词根 *\*sol-*（整个的）。记住 sol- = 整个的：[[solidarity]]（团结 = 像一个整体）、希腊语 holos（整个的 = holography 全息摄影）。考研重点：solid evidence（可靠的证据）、solid foundation（坚实的基础）、three solid hours（连续三小时）。solid 的核心画面就是"一块没有空洞的石头"——什么都打不动。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[liquid]]：液体的（solid 的精确反义：固体↔液体）
 > - [[hollow]]：空洞的（solid 的反义：实心↔空洞）
 > - [[weak]]：薄弱的（solid 的反义：可靠↔薄弱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **solid evidence**：可靠的证据
 > - **solid foundation**：坚实的基础
 > - **solid proof**：确凿的证据
@@ -138,19 +136,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers presented solid evidence demonstrating that climate change is accelerating at a rate far beyond previous scientific predictions."（研究人员展示了可靠的证据，证明气候变化正在以远超先前科学预测的速度加速——考研阅读环保话题相关表达）
 > - "It took the company three solid years of research and development before the new product was finally ready for the market."（公司花了连续三年的研发时间，新产品才最终准备好推向市场——考研翻译商业话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

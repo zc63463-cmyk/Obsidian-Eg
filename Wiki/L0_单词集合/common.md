@@ -3,17 +3,14 @@ title: "common"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 大家共同拥有的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒmən/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: mon-monstr
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ com-(共同) + mon(公共的/服务)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**大家共同拥有**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **大家共同拥有**（社会关系层面）
@@ -65,7 +62,7 @@ com-(共同) + mon(公共的/服务)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ com-(共同) + mon(公共的/服务)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com-(共同) + mon(公共)，大家共同拥有——公共的、普通的。
@@ -89,7 +86,7 @@ com-(共同) + mon(公共的/服务)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +100,14 @@ com-(共同) + mon(公共的/服务)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rare]]：稀有的（common 是常见的，rare 是稀有的）
 > - [[unique]]：独特的（common 是普通的，unique 是独一无二的）
 > - [[individual]]：个人的（common 是共同的，individual 是个人的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ com-(共同) + mon(公共的/服务)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **common sense**：常识
   > She has a lot of common sense.
   > 她很有常识。
@@ -138,22 +135,16 @@ com-(共同) + mon(公共的/服务)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is a common misconception that learning a language is just about memorizing vocabulary."（学习一门语言只是记忆词汇，这是一种常见的误解。）——考研高频表达
 > - "They have found that common sense is not so common after all."（他们发现，常识终究并不那么普遍。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

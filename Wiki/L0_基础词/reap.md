@@ -3,14 +3,12 @@ title: "reap"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 收割（用镰刀割下庄稼）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/riːp/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**收割**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **收割庄稼**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > reap 与 ripe（成熟的）同源——庄稼 ripe 了才能 reap。农民春天 sow（播种），秋天 reap（收割）。reap what you sow（种瓜得瓜）。reap the benefits（获得利益）就是"收割"你辛勤工作的成果。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sow]]：播种（reap 的精确反义：收割↔播种）
 > - [[lose]]：失去（reap"获得"的反义：获得↔失去）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reap the benefits/rewards**：获得利益/回报
   - He simply reaped the benefits of other people's labor.
 - **reap what you sow**：种瓜得瓜，种豆得豆
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "At middle age, he wrote, 'the sowing is behind; now is the time to reap.'"（他写道，到了中年，播种已经落后；现在是收获的时候了。——2017年6月四级真题阅读）
 > - "His hands were never dirtied; his brain never taxed; he simply reaped the benefits of other people's labor."（他的手从未沾过泥土；他的大脑从未受过劳累；他只是坐享他人劳动的成果。——常见社会评论类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

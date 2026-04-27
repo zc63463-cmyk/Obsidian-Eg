@@ -3,14 +3,12 @@ title: "energy"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 能量；精力
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈenərdʒi/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ en-(=in, 在…中) + erg(=ergon, work/做功) + -y(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**做功的能力；身体或精神的活力**"为统筹中心，沿**具身路径**向外扩展：
 
@@ -64,7 +62,7 @@ en-(=in, 在…中) + erg(=ergon, work/做功) + -y(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -74,7 +72,7 @@ en-(=in, 在…中) + erg(=ergon, work/做功) + -y(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古希腊语中 ergon 就是'工作/做功'——energy 就是一切'能够做功的力量'，从物理能量到人的精力
@@ -86,7 +84,7 @@ en-(=in, 在…中) + erg(=ergon, work/做功) + -y(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ en-(=in, 在…中) + erg(=ergon, work/做功) + -y(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[fatigue]]：<energy 精力 vs fatigue 疲劳>
 - [[exhaustion]]：<energy 精力 vs exhaustion 筋疲力尽>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -117,27 +115,21 @@ en-(=in, 在…中) + erg(=ergon, work/做功) + -y(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **solar/nuclear energy**（太阳能/核能）：The country is investing heavily in renewable energy.（该国正在大力投资可再生能源。）
 - **full of energy**（精力充沛）：The children were full of energy after the nap.（孩子们午睡后精力充沛。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - We need to find alternative sources of energy.（我们需要寻找替代能源。）
 - She has boundless energy and enthusiasm.（她拥有无限的精力和热情。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

@@ -3,14 +3,12 @@ title: "chronic"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 持续很长时间的（源自希腊语"时间"）
-extension_dim: 时间-程度扩展
+extension_dim: [时间-程度扩展]
 phonetic: "/ˈkrɒnɪk/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**持续很长时间的**"为统筹中心，沿时间-程度扩展向外扩展：
 >
 > 1. **持续很长时间的**
@@ -66,7 +64,7 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > chronic 来自希腊语 khronos（时间）。chron（时间）+ ic（的）= chronic = 与时间有关的→ 持续很长时间的。acute（急性的）是 chronic 的反义词——急性病来得快去得快，慢性病（chronic disease）持续很久。一个 chronic liar（惯常说谎者）不是说一次谎，而是长期地说谎。chronic 的核心画面就是"时间轴上持续延伸的一条线"。
@@ -88,7 +86,7 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[acute]]：急性的（chronic 的精确反义：慢性↔急性）
 > - [[temporary]]：暂时的（chronic 的反义：长期↔暂时）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **chronic disease**：慢性病
 > - **chronic pain**：慢性疼痛
 > - **chronic problem**：长期问题
@@ -138,19 +136,15 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was suffering from chronic fatigue."（他患有慢性疲劳。——7esl.com 例句）
 > - "Washing the dishes is my least favorite chore."（洗碗是我最不喜欢的家务。——7esl.com 例句, chronic chore 相关语境)
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

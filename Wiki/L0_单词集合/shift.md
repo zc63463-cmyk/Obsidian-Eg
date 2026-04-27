@@ -3,14 +3,12 @@ title: "shift"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 将东西从一个位置移到另一个位置
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ʃɪft/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**将东西从一个位置移到另一个位置**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **将东西从一个位置移到另一个位置**（物理空间层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shift 和 shed（脱落、脱去）是远亲——都来自 PIE 词根 *skei-*（切割、分开）。想象你把一件旧外套**脱掉**（shed），然后**换上**新的——这个"从旧移到新"的动作就是 shift。从搬动家具到转变观点，从上夜班到推卸责任，shift 始终是"从A移到B"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[remain]]：保持不变（shift 的精确反义：改变 ↔ 保持）
 > - [[stabilize]]：稳定、使稳定（消除位移 → 固定不动）
 > - [[fix]]：固定、确定（移动 ↔ 固定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shift one's attention / focus**：转移注意力/焦点
 > - **shift the blame onto sb**：把责任推卸给某人
 > - **paradigm shift**：范式转变，根本性变化
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There has been a significant shift in public opinion."（公众舆论发生了重大转变）——考研阅读社会类高频搭配
 > - "The government shifted its focus from economic growth to environmental protection."（政府将重心从经济增长转向环境保护）——政策类话题
 > - "Don't try to shift the blame onto others."（不要试图把责任推给别人）——道德/责任类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

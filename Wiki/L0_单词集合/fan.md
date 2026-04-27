@@ -3,14 +3,12 @@ title: "fan"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 扇动空气产生气流
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/fæn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**扇动空气产生气流**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **扇动空气产生气流**（物理动作层面）
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fan 最早是农民的**簸箕**——扬起谷物让风吹走谷壳。后来变成了我们手中的**扇子**。扇子一摇，凉风来了；再一摇，火苗旺了——这就是"**煽动**"（fan the flames）。扇子打开的形状就是"**扇形散开**"（fan out）。至于"迷"（fan），其实是 fanatic（狂热者）的缩写，和扇子没关系，只是碰巧长得一样。
@@ -99,7 +97,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：使平静（煽动的反义：fan anger ↔ calm anger）
 > - [[suppress]]：压制（煽动情绪的反义）
 > - [[quench]]：扑灭（fan the flames 的精确反义：煽风点火 ↔ 扑灭火焰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fan the flames**：煽风点火，激化矛盾
 > - **fan out**：成扇形散开
 > - **hit the fan**：（当情况）急转直下，出大问题（shit hits the fan 的委婉说法）
@@ -143,22 +141,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The media fanned public outrage over the scandal."（媒体煽动了公众对丑闻的愤怒）——考研阅读常见语境，描述媒体对公众情绪的影响
 > - "Police fanned out across the city searching for the suspect."（警察在城市中成扇形散开搜捕嫌疑人）——描述搜索行动
 > - "a football fan"（足球迷）——日常高频搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

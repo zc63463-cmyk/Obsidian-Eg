@@ -3,14 +3,12 @@ title: "utilize"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 使某物变得有用，加以利用
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈjuːtəlaɪz/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使某物变得有用**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使某物变得有用**（基本使用层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > utilize 来自拉丁语 utilis（有用的）。记住这个词根 uti/util-，就能串联一整串词：**use**（使用）→ **useful**（有用的）→ **utilize**（加以利用）→ **utility**（效用）→ **utensil**（器具）。utilize 比 use 更正式，强调"使某物发挥效用"，尤其是发现新用途——把太阳能**利用**起来发电，把废料**利用**起来造砖。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[waste]]：浪费（utilize 利用资源，waste 浪费资源）
 > - [[neglect]]：忽视（utilize 加以利用，neglect 不予理会）
 > - [[idle]]：闲置（utilize 使有用，idle 使无用）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **utilize resources**：利用资源
 > - **fully/utilize effectively**：充分利用/有效利用
 > - **utilize solar/wind energy**：利用太阳能/风能
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "utilize renewable energy sources"（利用可再生能源）——考研阅读/翻译环境类高频搭配
 > - "fully utilize human resources"（充分利用人力资源）——考研阅读/写作管理类语料
 > - "utilize every opportunity"（利用每一个机会）——考研写作常用表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

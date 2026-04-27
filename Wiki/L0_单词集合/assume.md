@@ -3,14 +3,12 @@ title: "assume"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 拿取、承担
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈsjuːm/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ as-(=ad-，朝向) + sume-(=sumere，拿取)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拿取、承担**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **拿取、承担**（物理层面：把东西拿过来）
@@ -66,7 +64,7 @@ as-(=ad-，朝向) + sume-(=sumere，拿取)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ as-(=ad-，朝向) + sume-(=sumere，拿取)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > as-（朝向）+ sume-（拿取）→ 把某样东西**拿过来**。把一个未经证实的想法拿过来当真，就是"假定"；把一份责任拿过来扛在肩上，就是"承担"。同族词：[[consume]]（con-完全 + sume-拿 = 完全拿走 = 消费），[[resume]]（re-再 + sume-拿 = 再拿起来 = 恢复）。
@@ -89,7 +87,7 @@ as-(=ad-，朝向) + sume-(=sumere，拿取)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ as-(=ad-，朝向) + sume-(=sumere，拿取)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prove]]：证明（假定的反面——用证据确认）
 > - [[verify]]：核实（假定的反面——验证真伪）
 > - [[abandon]]：放弃（承担的反面——卸下责任）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ as-(=ad-，朝向) + sume-(=sumere，拿取)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assume that...**：假定……（We assume that the hypothesis is correct.）
 > - **assume responsibility**：承担责任（The manager assumed full responsibility for the failure.）
 > - **assume office/power**：就职/掌权（The new president assumed office last month.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We can't assume he is guilty without solid evidence."（没有确凿的证据，我们不能假定他有罪。）——2019考研英语二阅读
 > - "Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature."（艾伦的贡献在于拿出一个我们都认同的假设——因为我们不是机器人，所以我们能控制自己的思想——并揭示其错误的本质。）——2011考研英语一翻译
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

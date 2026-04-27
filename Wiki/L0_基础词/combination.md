@@ -3,14 +3,12 @@ title: "combination"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 两个以上事物结合在一起（合二为一）
-extension_dim: 结构路径
+extension_dim: [结构路径]
 phonetic: "/ˌkɒmbɪˈneɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**两个以上事物结合**"为统筹中心，沿结构路径向外扩展：
 >
 > 1. **结合**（动作层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > combination = com（一起）+ bin（二/双）+ ation（名词后缀）= 把两个放在一起 = 结合。拉丁语 *bini* = 两个、一对。核心画面：红+黄=橙——两种颜色结合后产生全新的颜色。这就是 combination（结合）的精髓。The success of the project was due to a combination of hard work and good luck（项目的成功是努力工作和好运的结合）。a combination lock（密码锁）就是需要"组合"正确数字才能打开的锁。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[separation]]：分离（combination 的精确反义：结合↔分离）
 > - [[division]]：分裂（combination 的反义：结合↔分裂）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a combination of A and B**：A和B的结合
 > - **in combination with**：与……结合
 > - **a winning combination**：制胜组合
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The economic crisis was caused by a combination of factors, including excessive borrowing, speculative investment, and weak regulation."（经济危机是由多种因素共同造成的，包括过度借贷、投机性投资和监管不力——考研阅读经济话题）
 > - "In combination with regular exercise, a balanced diet is the most effective way to maintain good health."（结合规律运动，均衡饮食是保持健康的最佳方式——考研阅读健康话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

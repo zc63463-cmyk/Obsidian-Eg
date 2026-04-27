@@ -3,14 +3,12 @@ title: "imply"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 折叠进去、包含在内
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪmˈplaɪ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**折叠进去、包含在内**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **折叠进去、包含在内**（物理层面）
@@ -64,7 +62,7 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（进入）+ plic（折叠）→ 意思"折"进话语里 → 暗示。和 [[implicit]]（含蓄的）同源：implicit 是"折在里面"的状态，imply 是"折进去"的动作。
@@ -86,7 +84,7 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[state]]：陈述，声明（直接说出 vs 暗示）
 > - [[explicitly]]：明确地（adv.，与 imply 的"暗示"相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **imply that...**：暗示……，意味着……
   > His silence implied that he agreed with the decision. 他的沉默意味着他同意这个决定。
 > - **imply sth.**：暗示某事
@@ -124,21 +122,15 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "What does the author imply about the future of the industry?"（作者对这个行业的未来有什么暗示？）——考研阅读高频设问
 > - "The report implies that the government knew about the problem before it became public."（这份报告暗示政府在问题公开之前就已经知道了。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

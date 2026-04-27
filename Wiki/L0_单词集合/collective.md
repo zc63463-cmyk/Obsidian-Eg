@@ -3,17 +3,14 @@ title: "collective"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 集体的、共同的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəˈlektɪv/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: lect-leg
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**集体的、共同的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **集体的、共同的**（社会层面——属于整个群体的）
@@ -64,7 +61,7 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > collect（收集）+ -ive（倾向/性质）= 具有聚集性质的。想象一滴水汇入大海——它不再是个体，而是 collective（集体）的一部分。
@@ -87,7 +84,7 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[individual]]：个人的（集体的反义）
 > - [[private]]：私人的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **collective effort**：集体努力
   - The project was accomplished through collective effort.（这个项目是通过集体努力完成的。）
 - **collective responsibility**：集体责任
@@ -132,21 +129,15 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The success of the project was the result of a collective effort by all team members."（项目的成功是所有团队成员共同努力的结果。）——考研阅读真题
 > - "Collective action is needed to address the problem of income inequality."（需要集体行动来解决收入不平等问题。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "concrete"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 一起生长凝结而成的，具体的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈkɒŋkriːt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ con-(一起) + crete(生长、凝结) = concrete（一起生长凝结 → 固化
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一起生长凝结而成的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **一起凝结**（物理层面——物质固化）
@@ -73,7 +71,7 @@ con-(一起) + crete(生长、凝结) = concrete（一起生长凝结 → 固化
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ con-(一起) + crete(生长、凝结) = concrete（一起生长凝结 → 固化
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（一起）+ crete（生长）：沙子、石子和水泥**一起生长凝结**，变成坚硬的固体——这就是 concrete（混凝土）。同样，一个模糊的想法**凝结**成可以触摸的计划——这就是 concrete（具体的）。
@@ -97,7 +95,7 @@ con-(一起) + crete(生长、凝结) = concrete（一起生长凝结 → 固化
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +108,14 @@ con-(一起) + crete(生长、凝结) = concrete（一起生长凝结 → 固化
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abstract]]：抽象的（具体↔抽象，最经典的反义对）
 > - [[vague]]：模糊的（具体↔模糊）
 > - [[theoretical]]：理论上的（具体的↔理论上的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ con-(一起) + crete(生长、凝结) = concrete（一起生长凝结 → 固化
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **concrete evidence/examples**：具体的证据/例子
 > - **concrete plan**：具体的计划
 > - **reinforced concrete**：钢筋混凝土
@@ -141,22 +139,16 @@ con-(一起) + crete(生长、凝结) = concrete（一起生长凝结 → 固化
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We need concrete evidence to support this theory rather than mere speculation."（我们需要具体的证据来支持这一理论，而不是纯粹的猜测。）——考研高频表达
 > - "Could you give me a concrete example of how this policy would work in practice?"（你能给我一个具体的例子说明这项政策在实践中如何运作吗？）——考研高频表达
 > - "The government must translate its promises into concrete actions."（政府必须将承诺转化为具体行动。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

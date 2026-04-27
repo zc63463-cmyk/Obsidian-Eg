@@ -3,14 +3,12 @@ title: "suppose"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在下面放置→假设
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/səˈpəʊz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ sup-(=sub-，在下方) + pos(放置，参见 [[pon/pos|pon/pos]]) → 在下面
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在下面放置（作为前提）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在下面放置**（物理层面——放在下面）
@@ -66,7 +64,7 @@ sup-(=sub-，在下方) + pos(放置，参见 [[pon/pos|pon/pos]]) → 在下面
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ sup-(=sub-，在下方) + pos(放置，参见 [[pon/pos|pon/pos]]) → 在下面
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > sup-(在下方) + pos(放置) → 在下面放置 → 假设
@@ -89,7 +87,7 @@ sup-(=sub-，在下方) + pos(放置，参见 [[pon/pos|pon/pos]]) → 在下面
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ sup-(=sub-，在下方) + pos(放置，参见 [[pon/pos|pon/pos]]) → 在下面
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - prove：证明（suppose 是假设，prove 是证明）
 > - know：知道（suppose 是推测，know 是确知）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,27 +121,21 @@ sup-(=sub-，在下方) + pos(放置，参见 [[pon/pos|pon/pos]]) → 在下面
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be supposed to do sth.**：应该做某事（You are supposed to submit the report by tomorrow. 你应该在明天之前提交报告。）
 > - **Suppose that...**：假设……（Suppose that the hypothesis is correct, what would the implications be? 假设这个假设是正确的，会有什么影响？）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We shouldn't expect it to be everyone's priority — or even most people's."（我们不应指望它成为每个人的首要任务——甚至大多数人的。）——2019考研英语二阅读
 > - "Suppose we accept this argument, what are the implications for policy?"（假设我们接受这个论点，对政策有什么影响？）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

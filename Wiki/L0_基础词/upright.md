@@ -3,14 +3,12 @@ title: "upright"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 直立的（垂直站立的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈʌpraɪt/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**直立的（向上且直的）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **直立的**（物理层面）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > upright = up（向上）+ right（直的）= 向上且直的→直立的。人类直立行走——humans walk upright。一个正直的人——an upright man，他像一棵直立的树，不弯腰不低头。请把座椅恢复竖直——return your seat to an upright position。upright 就是从"身体直"到"道德直"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[horizontal]]：水平的（upright 的反义：直立↔水平）
 > - [[crooked]]：弯曲的；不诚实的（upright 的反义：直的↔弯的，正直↔不诚实）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **walk upright**：直立行走
 > - **stand upright**：笔直站立
 > - **an upright citizen/man**：正直的公民/人
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs."（此外，尽管人类已直立行走了几百万年，但两足和背部仍继续同两足行走的姿势相抗衡，因而难以轻易承受过大过长的肢体反复施加的压力——2008年考研阅读Text 3）
 > - "Please return your seat to an upright position and fasten your belt."（请把座椅恢复到竖直位置并系好安全带——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

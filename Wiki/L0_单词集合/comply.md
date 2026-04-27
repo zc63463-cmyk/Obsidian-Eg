@@ -3,14 +3,12 @@ title: "comply"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 完全折弯（顺从）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəmˈplaɪ/"
 pos: vi.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全折弯顺从**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **完全折弯**（社会层面——顺从权威/规则）
@@ -61,7 +59,7 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（完全）+ ply（弯折）：将自己的意志**完全弯折** → "遵从"。
@@ -86,7 +84,7 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[resist]]：抵抗
 > - [[defy]]：违抗；蔑视
 > - [[violate]]：违反
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **comply with sth.**：遵从/遵守某事
   > All employees must comply with the company's safety regulations.（所有员工必须遵守公司的安全规定。）
 > - **comply with a request/requirement**：遵从要求
@@ -128,21 +126,15 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Companies that do not comply with data protection laws may face heavy fines.（不遵守数据保护法的公司可能面临巨额罚款。）
 > - Patients are more likely to comply with treatment if they understand its benefits.（如果患者了解治疗的好处，就更可能遵从医嘱。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

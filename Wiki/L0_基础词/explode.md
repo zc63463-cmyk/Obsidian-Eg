@@ -3,14 +3,12 @@ title: "explode"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 发出拍手声（原始的鼓掌欢呼→爆炸）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪkˈspləʊd/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -42,7 +40,7 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外发出巨响（爆炸）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **向外发出巨响**（物理层面）
@@ -67,7 +65,7 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向外）+ plode（拍手声）→ 观众拍手欢呼，声音向外爆发——这就是 explode 的原始画面。后来引申为"爆炸"：炸弹 explode（爆炸），火山 explode（喷发）。愤怒像爆炸一样——explode with anger。人口像爆炸一样增长——population explosion。记住：explode = 突然向外爆发。
@@ -89,7 +87,7 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[implode]]：内爆（explode 的精确反义：向外爆↔向内爆）
 > - [[shrink]]：缩小（explode 作为"激增"的反义：激增↔缩小）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **explode with anger/laughter**：勃然大怒/哄堂大笑
 > - **the population explodes**：人口激增
 > - **explode a myth/theory**：戳穿神话/推翻理论
@@ -128,22 +126,16 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The world's population exploded in the 20th century."（20世纪世界人口激增。）
 > - "The discovery exploded the long-held theory about the origin of the universe."（这一发现推翻了长期以来关于宇宙起源的理论。）
 > - explode 常出现在科技、社会、历史类阅读话题中
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

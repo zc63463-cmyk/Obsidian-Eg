@@ -3,14 +3,12 @@ title: "govern"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 掌舵、引导方向
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɡʌvərn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ govern（源自拉丁语 gubernare"掌舵、管理"，最终来自希腊语 kybe
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**掌舵/引导方向**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **掌舵**（物理层面——控制船只方向）
@@ -65,7 +63,7 @@ govern（源自拉丁语 gubernare"掌舵、管理"，最终来自希腊语 kybe
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ govern（源自拉丁语 gubernare"掌舵、管理"，最终来自希腊语 kybe
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自希腊语 kybernan"掌舵"，与 cybernetics（控制论）同源。govern 的本质就是"为船掌舵"——控制方向、引导航程。
@@ -90,7 +88,7 @@ govern（源自拉丁语 gubernare"掌舵、管理"，最终来自希腊语 kybe
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ govern（源自拉丁语 gubernare"掌舵、管理"，最终来自希腊语 kybe
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词，但可对比：submit（服从 vs 统治）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ govern（源自拉丁语 gubernare"掌舵、管理"，最终来自希腊语 kybe
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **govern a country**：治理国家
   - The party has governed the country for over a decade.（该党执政已超过十年。）
 - **governed by**：由……支配/决定
@@ -130,20 +128,14 @@ govern（源自拉丁语 gubernare"掌舵、管理"，最终来自希腊语 kybe
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The principle of equality before the law governs all judicial proceedings.（法律面前人人平等的原则支配着所有司法程序。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

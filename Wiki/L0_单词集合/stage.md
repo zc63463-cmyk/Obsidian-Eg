@@ -3,14 +3,12 @@ title: "stage"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 站立的地方，平台
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/steɪdʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ stage 源自拉丁语 *stare*（站立）的过去分词 *status*，经由古法
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站立的地方，平台**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **站立的地方，平台**（物理空间层面）
@@ -72,7 +70,7 @@ stage 源自拉丁语 *stare*（站立）的过去分词 *status*，经由古法
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ stage 源自拉丁语 *stare*（站立）的过去分词 *status*，经由古法
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stage 来自"站立的地方"。演员站在上面表演的木板就是"舞台"（stage）。人生也像一个舞台，童年、青年、中年就是不同的"阶段"（stage）。举办活动就像"搭台唱戏"——stage an event。
@@ -96,7 +94,7 @@ stage 源自拉丁语 *stare*（站立）的过去分词 *status*，经由古法
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ stage 源自拉丁语 *stare*（站立）的过去分词 *status*，经由古法
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[backstage]]：幕后（"舞台"的反义——台前 vs 幕后）
 > - [[audience]]：观众（"舞台"的对应——表演者 vs 观看者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,29 +123,23 @@ stage 源自拉丁语 *stare*（站立）的过去分词 *status*，经由古法
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at an early stage**：在早期阶段 — The disease is easier to treat at an early stage.
 > - **stage an event**：举办活动 — The city staged a grand celebration.
 > - **set the stage for**：为……创造条件 — The discovery set the stage for further research.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "At this stage of the research, it is too early to draw any firm conclusions."（在研究的这一阶段，得出任何确定的结论都为时过早。）——考研高频表达
 > - "The discovery of DNA structure set the stage for modern genetics."（DNA结构的发现为现代遗传学奠定了基础。）——考研高频表达
 > - "The city staged an international exhibition to promote cultural exchange."（该市举办了一场国际展览以促进文化交流。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

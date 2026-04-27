@@ -3,14 +3,12 @@ title: "symphony"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 一起发声（多种声音和谐地一起响）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɪmfəni/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一起发声**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **一起发声**（音乐层面）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > symphony = sym（一起）+ phon（声音）→ 各种乐器一起发出和谐的声音 → 交响乐。贝多芬的 Fifth Symphony（第五交响曲）就是"一起发声"的典范。引申义也很美——a symphony of autumn colors（秋天色彩的交响=秋天色彩的和谐）。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[discord]]：不和谐（symphony 的反义：和谐↔不和谐）
 > - [[cacophony]]：刺耳的声音（symphony 的音乐反义：和谐之声↔刺耳之声）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,26 +112,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a symphony orchestra**：交响乐团
 > - **a symphony of**：……的交响/和谐
 > - **compose a symphony**：创作交响曲
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Beethoven's Ninth Symphony is considered one of the greatest musical works ever composed."（贝多芬的第九交响曲被认为是有史以来最伟大的音乐作品之一）
 > - "The garden was a symphony of colors in spring."（春天花园里是一片色彩的和谐交响）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "originate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 从起点升起、发源
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/əˈrɪdʒɪneɪt/"
 pos: vi.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从起点升起、发源**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **从起点升起、发源**（时间层面——太阳升起/河流发源）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[origin]]（起源）+ -ate（动词后缀）→ 起源（动词）。originate in = 起源于……，就像河流 originate in 山间。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[terminate]]：终止，结束（起源 vs 终止）
 > - [[end]]：结束
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **originate in/from**：起源于…… The tradition is believed to have originated in ancient China.（人们认为这一传统起源于古代中国。）
   > The tradition originated in ancient China. 这一传统起源于古代中国。
 > - **originate with**：由……首创 The idea originated with a group of young entrepreneurs.（这个想法源于一群年轻的创业者。）
@@ -126,21 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The tradition is believed to have originated in ancient China."（人们认为这一传统起源于古代中国。）——考研高频表达
 > - "The disease is thought to have originated in tropical regions."（这种疾病被认为起源于热带地区。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

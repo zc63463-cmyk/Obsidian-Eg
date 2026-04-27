@@ -3,14 +3,12 @@ title: "repel"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 驱回（用力推回去）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈpel/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**驱回（推回去）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **驱回（推回去）**（物理层面）
@@ -67,7 +65,7 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > repel = re（回）+ pel（推）。想象磁铁的同极互相 repel（排斥）——你推我，我推你，谁也靠近不了。repel an attack = 击退进攻（把敌人推回去）。His arrogance repels people = 他的傲慢令人反感（把人心理上推走）。pel 词族：com-pel（强迫）、ex-pel（驱逐）、pro-pel（推进）、im-pel（驱使）。
@@ -90,7 +88,7 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[attract]]：吸引（repel 的精确反义：排斥↔吸引）
 > - [[appeal]]：吸引（repel 的反义：使反感↔吸引）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **repel an attack/invasion**：击退进攻/入侵
 > - **repel insects/water**：驱虫/防水
 > - **like poles repel**：同极相斥
@@ -133,19 +131,15 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Like magnetic poles repel each other, while opposite poles attract."（同极磁极互相排斥，异极互相吸引。——考研科普类阅读语料）
 > - "The surface of the lotus leaf repels water, keeping it clean."（荷叶表面排斥水，使其保持清洁。——考研科普类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

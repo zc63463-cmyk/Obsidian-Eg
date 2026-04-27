@@ -3,14 +3,12 @@ title: "align"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 使成一线（使多个物体沿同一条线排列）
-extension_dim: 空间-抽象扩展
+extension_dim: [空间-抽象扩展]
 phonetic: "/əˈlaɪn/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使成一线**"为统筹中心，沿空间-抽象扩展向外扩展：
 >
 > 1. **使成一线**
@@ -66,7 +64,7 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > a（朝向）+ line（线）= align = 使朝向同一条线。想象你在整理书架，把所有书脊 align（对齐）成一条直线。在公司里，你的个人目标要 align with（与……一致）公司目标——就像把两个箭头指向同一个方向。
@@ -88,7 +86,7 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[misalign]]：未对齐（align 的精确反义：对齐↔未对齐）
 > - [[diverge]]：分歧（align 的抽象反义：一致↔分歧）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **align with**：与……一致
 > - **align oneself with**：与……站在同一立场
 > - **align the text**：对齐文本
@@ -133,19 +131,15 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Aircraft equipped with slaved compass systems may be susceptible to heading errors caused by exposure to magnetic field disturbances, which can cause the aircraft's system to align with the material's magnetic field rather than the earth's natural magnetic field."（配备从动罗盘系统的飞机可能因暴露于磁场干扰而产生航向误差，这可能导致飞机系统与材料的磁场而非地球的自然磁场对齐——FAA Air Navigation）
 > - "Progressive alignment is a strictly pairwise algorithm and the branching order within these tied groups will be completely arbitrary."（渐进式比对是一种严格的逐对算法，在这些并列组内的分支顺序将是完全任意的——Algorithms for Molecular Biology）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

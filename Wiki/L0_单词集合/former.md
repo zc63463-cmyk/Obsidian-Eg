@@ -3,17 +3,14 @@ title: "former"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 以前的/前者
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈfɔːmə/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: form
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**以前的/在前的**"为统筹中心，沿**时间路径**向外扩展：
 >
 > 1. **以前的/前任的**（时间层面：过去某个时期的）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > former 源自古英语 forma，意思是"第一的"。时间上第一的是"以前的"（former president 前任总统），两个选项中先说的是"前者"（the former）。记住：former = 前面的那个。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +94,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[latter]]：后者（与 the former 相对）
 > - [[current]]：当前的（与 former 的"以前的"义相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the former... the latter...**：前者……后者……
   - Both coffee and tea are popular, but I prefer the former.（咖啡和茶都很受欢迎，但我更喜欢前者。）
 > - **former president**：前任总统
@@ -129,22 +126,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The former CEO was accused of mismanaging the company's finances."（前任首席执行官被指控管理不善公司财务。）——考研高频表达
 > - "Studies have shown that the former approach is more effective than the latter in reducing pollution."（研究表明，前一种方法在减少污染方面比后一种更有效。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

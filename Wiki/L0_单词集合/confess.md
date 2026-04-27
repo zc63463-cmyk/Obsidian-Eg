@@ -3,14 +3,12 @@ title: "confess"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 全部说出来，坦白
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kənˈfes/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**全部说出来**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **全部说出来**（法律/道德层面——把隐藏的真相完全公开）
@@ -68,7 +66,7 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（完全）+ fess（说）：犯人在审讯室里深吸一口气，把所有真相**完全说出来**——这就是"坦白"。信徒在教堂里把所有过错**完全说出来**——这就是"忏悔"。
@@ -93,7 +91,7 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deny]]：否认（坦白↔否认）
 > - [[conceal]]：隐藏，隐瞒（公开↔隐瞒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **confess to (doing) sth.**：坦白/承认（做了）某事（He confessed to stealing the money. 他承认偷了钱。）
 > - **confess that...**：承认……（I must confess that I was wrong. 我必须承认我错了。）
 > - **I must confess...**：我必须承认……（I must confess that I was surprised by the result. 我必须承认，结果让我感到意外。）
@@ -135,22 +133,16 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He confessed to stealing the money from the company's account."（他承认从公司账户偷了钱。）——考研高频表达
 > - "I must confess that I was surprised by the result of the experiment."（我必须承认，实验结果让我感到意外。）——考研高频表达
 > - "The suspect confessed his guilt to the police after hours of interrogation."（经过数小时的审讯，嫌疑人对警方认了罪。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

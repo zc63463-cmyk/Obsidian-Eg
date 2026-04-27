@@ -3,14 +3,12 @@ title: "resist"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 向后站立
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈzɪst/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后站立不动**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向后站立不动**（物理抵抗）
@@ -67,7 +65,7 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（向后）+ sist（站）→ 向后站稳不退。想象暴风雨中一棵大树，风越猛烈，它的根扎得越深，始终屹立不倒——这就是resist。
@@ -91,7 +89,7 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[submit]]：submit表示"屈服，服从"，与resist"抵抗"直接对立
 > - [[surrender]]：surrender表示"投降"，与resist"反抗"直接对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **resist the temptation**：抵制诱惑
   > She could hardly resist the temptation to check her phone during the exam.（她几乎无法忍住考试时看手机的诱惑。）
 > - **resist change**：抵制变革
@@ -134,19 +132,15 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "American universities are resistant to change."（美国大学对变革持抵制态度——考研高频表达）
 > - "They should also learn how to solve problems and resolve conflicts."（他们还应学会如何解决问题和化解冲突——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

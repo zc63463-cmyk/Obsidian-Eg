@@ -3,14 +3,12 @@ title: "illiterate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 不识字的，文盲的
-extension_dim: 能力路径
+extension_dim: [能力路径]
 phonetic: "/ɪˈlɪtərət/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ illiterate = il-（= in-，否定前缀，在 l 前变为 il-）+ literate（识
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不识字的，文盲的**"为统筹中心，沿能力路径向外扩展：
 >
 > 1. **不识字的，文盲的**（读写能力层面）
@@ -65,7 +63,7 @@ illiterate = il-（= in-，否定前缀，在 l 前变为 il-）+ literate（识
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ illiterate = il-（= in-，否定前缀，在 l 前变为 il-）+ literate（识
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > illiterate = il-（不）+ literate（识字的）。literate 来自拉丁语 littera "字母"（→ letter 信件/字母）。认识字母 = 识字的，不认识字母 = 文盲。illiterate 引申为"对某领域无知"——computer illiterate = 电脑盲。functionally illiterate = 功能性文盲（能读简单文字但无法处理复杂文本）。反义词是 literate（识字的、有文化的）。
@@ -88,7 +86,7 @@ illiterate = il-（= in-，否定前缀，在 l 前变为 il-）+ literate（识
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ illiterate = il-（= in-，否定前缀，在 l 前变为 il-）+ literate（识
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[literate]]：识字的，有文化的（文盲 ↔ 识字）
 > - [[educated]]：受过教育的（无知 ↔ 有教育）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ illiterate = il-（= in-，否定前缀，在 l 前变为 il-）+ literate（识
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **functionally illiterate**：功能性文盲——Many adults are functionally illiterate.
 > - **computer illiterate**：电脑盲——My grandfather is completely computer illiterate.
 > - **musically/scientifically illiterate**：音乐/科学盲——He is musically illiterate.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Despite the progress in education, a significant portion of the population remains illiterate."（尽管教育取得了进步，仍有相当一部分人口是文盲——illiterate 为考研阅读常见话题词）
 > - "Being digitally illiterate in today's society is a serious disadvantage."（在当今社会不懂电脑是一个严重的劣势——computer/digitally illiterate 为写作可用搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

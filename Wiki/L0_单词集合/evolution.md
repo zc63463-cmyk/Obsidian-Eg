@@ -3,14 +3,12 @@ title: "evolution"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 向外滚动/展开的过程
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌiːvəˈluːʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ e-(=ex-, 向外) + [[volv]](=roll, 滚动) + -tion(名词后缀) → 向外滚�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外滚动/展开的过程**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **向外滚动/展开的过程**（物理层面：卷轴展开的过程）
@@ -65,7 +63,7 @@ e-(=ex-, 向外) + [[volv]](=roll, 滚动) + -tion(名词后缀) → 向外滚�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ e-(=ex-, 向外) + [[volv]](=roll, 滚动) + -tion(名词后缀) → 向外滚�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一卷古老的卷轴被缓缓**向外滚动展开**（e + volv），每展开一层就显露更多内容——生命也是如此，从单细胞逐步展开为万物。evolution = 进化/演变。
@@ -89,7 +87,7 @@ e-(=ex-, 向外) + [[volv]](=roll, 滚动) + -tion(名词后缀) → 向外滚�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ e-(=ex-, 向外) + [[volv]](=roll, 滚动) + -tion(名词后缀) → 向外滚�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[devolution]]：退化、权力下放（进化→退化）
 > - [[stagnation]]：停滞（演变→停滞）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ e-(=ex-, 向外) + [[volv]](=roll, 滚动) + -tion(名词后缀) → 向外滚�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the evolution of**：……的进化/演变
   - The evolution of the internet has fundamentally changed the way people communicate and access information.（互联网的演变从根本上改变了人们交流和获取信息的方式。）
 - **evolutionary process**：进化过程
@@ -130,20 +128,14 @@ e-(=ex-, 向外) + [[volv]](=roll, 滚动) + -tion(名词后缀) → 向外滚�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The evolution of human language is one of the most fascinating topics in linguistics."（人类语言的演变是语言学中最引人入胜的话题之一。）——考研高频表达
 > - "Darwin's theory of evolution by natural selection revolutionized our understanding of the natural world."（达尔文的自然选择进化论彻底改变了我们对自然世界的理解。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

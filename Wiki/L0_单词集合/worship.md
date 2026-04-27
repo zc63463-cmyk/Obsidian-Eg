@@ -3,14 +3,12 @@ title: "worship"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 值得的状态，对值得之物的尊崇
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈwɜːrʃɪp/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**对值得之物表达最高敬意**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **对值得之物表达最高敬意**（宗教层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > worship 是一个"透明词"——worship = worth（价值）+ ship（状态/品质）。字面意思就是"具有价值的品质"。古英语中，你对**值得尊敬的人**表达尊敬就是 worship，后来这个词被"升级"用来表达对**神明**的**崇拜**。记住：worship 的核心是 worth（价值）——你崇拜什么，就说明你认为什么最有价值。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[despise]]：鄙视（worship 崇拜，despise 鄙视）
 > - [[contempt]]：蔑视（worship 是最高敬意，contempt 是最低评价）
 > - [[blasphemy]]：亵渎（worship 敬神，blasphemy 亵渎神明）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **place of worship**：礼拜场所，教堂/寺庙
 > - **hero worship**：英雄崇拜
 > - **worship the ground sb. walks on**：对某人崇拜得五体投地
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the worship of money"（金钱崇拜）——考研阅读社会/文化类语料，常含批判色彩
 > - "hero worship"（英雄崇拜）——考研阅读/写作常见搭配
 > - "freedom of worship"（宗教信仰自由）——考研阅读/翻译法律/社会类高频话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

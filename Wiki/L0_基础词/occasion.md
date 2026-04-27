@@ -3,14 +3,12 @@ title: "occasion"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 事情落下的时刻
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/əˈkeɪʒn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**事情落下的时刻**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **事情落下的时刻**（时间层面）
@@ -66,7 +64,7 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > oc（朝向）+ cas（落下）→ 某事降临到你面前的时刻 → 场合。毕业典礼"降临"了——这是一个 special occasion。一个绝佳的机会"降临"了——seize the occasion。
@@ -89,7 +87,7 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[routine]]：常规，日常（occasion 的反义：特殊场合↔日常惯例）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on this/that occasion**：在这个/那个场合
 > - **on occasion(s)**：偶尔，有时
 > - **a special occasion**：特殊场合
@@ -133,19 +131,15 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the former case, education is incidental, though natural and important, to the obvious purpose of interpersonal communication."（前一种情况下，教育是附带产生的，虽然它是自然且重要的，但却不是人际交往的明显目的。——2009年考研翻译）
 > - "This meeting provides an occasion to discuss the issues facing our school."（这次会议为讨论我们学校面临的问题提供了机会。——考研写作高频句式）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

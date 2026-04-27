@@ -3,14 +3,12 @@ title: "inflation"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 通货膨胀（货币供应过多导致物价上涨）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈfleɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充气，膨胀**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **充气，膨胀**（物理层面）
@@ -64,7 +62,7 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（进入）+ flat（吹）→ inflation。给气球吹气（inflate），气球膨胀（inflation）。央行印了太多钞票，就像给气球吹了太多气——货币膨胀了，物价就上涨了——这就是通货膨胀（inflation）。inflation 就是"膨胀"。
@@ -86,7 +84,7 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deflation]]：通货紧缩（inflation "通货膨胀"的精确反义：通胀↔通缩）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rate of inflation**：通货膨胀率
 > - **curb/combat inflation**：遏制/抗击通货膨胀
 > - **inflation rate**：通胀率
@@ -130,19 +128,15 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation."（今年的涨幅平均为2.7%，可能比去年略低，但仍远高于官方消费者价格指数（CPI）衡量的通胀水平。——2021年考研英语一Text 1）
 > - "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation."（在经济危机前的十年间，美国法律服务支出的增长速度是通胀率的两倍。——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "discuss"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 把事情打碎分开来探究
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dɪˈskʌs/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把事情打碎分开来探究**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **把事情打碎分开来探究**（认知层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > discuss 来自拉丁语 *discutere*，由 dis-（分开）+ *quatere*（敲打）组成，字面意思是"敲碎散开"。想象你面对一个复杂的问题，你把它像石头一样敲碎，一块一块地分析——这就是 discuss（讨论）。从"敲碎"到"拆解分析"再到"讨论"，discuss 的本质就是把大问题拆成小块来理解。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视，不理会（讨论↔忽视）
 > - [[suppress]]：压制，抑制（公开讨论↔压制言论）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **discuss an issue/problem**：讨论问题（We need to discuss this issue in detail.）
 > - **discuss sth. with sb.**：与某人讨论（She discussed the plan with her colleagues.）
 > - **under discussion**：在讨论中（The matter is still under discussion.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The meeting will discuss the company's financial performance over the past year."（会议将讨论公司过去一年的财务表现。）——考研高频表达
 > - "The author discusses the implications of artificial intelligence for the future of work."（作者讨论了人工智能对未来工作的影响。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

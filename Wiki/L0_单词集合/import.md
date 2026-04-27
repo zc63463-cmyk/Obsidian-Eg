@@ -3,14 +3,12 @@ title: "import"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 运进去、带入
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪmˈpɔːt/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**运进去、带入**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **运进去、带入**（物理层面的空间移动）
@@ -65,7 +63,7 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（进入）+ port（港口/运送）→ 通过港口把东西"运进来"→ 进口。export（出口）= ex（出去）+ port，一对反义词。
@@ -88,7 +86,7 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[export]]：出口，输出（im- vs ex-，进入 vs 出去）
 > - [[domestic]]：国内的（进口 vs 国内生产）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **import from**：从……进口
   > The country imports most of its oil from the Middle East. 该国大部分石油从中东进口。
 > - **import and export**：进出口
@@ -126,21 +124,15 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The country has to import most of its raw materials."（这个国家必须进口大部分原材料。）——考研高频表达
 > - "It is important to import new ideas and technology from abroad."（从国外引进新思想和新技术很重要。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

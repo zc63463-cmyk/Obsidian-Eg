@@ -3,17 +3,14 @@ title: "date"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 文书上标注的"给予"时间
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/deɪt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: date
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**文书上标注的'给予'时间**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **文书上标注的"给予"时间**（时间标记层面）
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > date 和 data 是亲兄弟——都来自拉丁语 dare（给予）。古罗马人在信末写 **data Romae**（在罗马**给予**），后来 data 简化为 date，就是"日期"。你**约会**（date）朋友时，首先得**定一个日期**（set a date）；考古学家**鉴定**（date）文物年代时，也是在确定它的"日期"。记住：date = 在时间线上**标记一个点**。
@@ -100,7 +97,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,14 +110,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cancel]]：取消（make a date ↔ cancel a date，约会↔取消约会）
 > - [[forget]]：忘记（date 强调记住时间，forget 是其反义）
 > - [[undated]]：未注明日期的（date ↔ undated，有日期↔无日期）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **to date**：迄今为止，到目前为止
 > - **date back to**：追溯到
 > - **out of date**：过时的，废弃的
@@ -145,22 +142,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "date back to the 18th century"（追溯到 18 世纪）——考研阅读/翻译极高频表达，描述历史渊源
 > - "to date, no effective solution has been found"（迄今为止，尚未找到有效的解决方案）——考研阅读中引出现状的常见句式
 > - "out of date"（过时的）——考研阅读中描述理论、技术、观点的常见搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

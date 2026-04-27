@@ -3,14 +3,12 @@ title: "telescope"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 从远处看（远+看→望远镜）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈtelɪskəʊp/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从远处看**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从远处看**（工具层面）
@@ -66,7 +64,7 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tele（远处的星空）+ scope（看）→ 望远镜。伽利略用 telescope 看到了木星的卫星，从此人类的目光不再局限于地球。telescope = 远 + 看 = 把远方拉近眼前。
@@ -88,7 +86,7 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[microscope]]：显微镜（telescope 看远，microscope 看近/小——观察方向相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **space telescope**：太空望远镜
 > - **radio telescope**：射电望远镜
 > - **the Hubble Space Telescope**：哈勃太空望远镜
@@ -126,19 +124,15 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity."（坐落于太平洋上，莫纳克亚山的顶峰比地球上大部分的稠密大气层都高，那里的条件使望远镜能够获得无与伦比的清晰图像。——2017年英语一Text 2）
 > - "Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going."（要求拆除莫纳克亚山上所有望远镜或禁止未来开发的呼声，忽略了一个现实：天文学和夏威夷文化都在试图回答关于我们是谁、我们从哪里来、我们要到哪里去的大问题。——2017年英语一Text 2）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

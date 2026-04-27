@@ -3,14 +3,12 @@ title: "isolate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 使变成孤岛（将某人/某物从群体中分离出来）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈaɪsəleɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变成孤岛**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使变成孤岛**（空间层面——与周围分离）
@@ -64,7 +62,7 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > isol（岛）+ ate（使……）→ 使成岛 → 隔离。想象一个人被放到了大海中央的一座孤岛上——四周都是水，无法与外界联系。这就是 isolated（被隔离的）。疫情期间 isolate yourself（自我隔离），科学家 isolate the virus（分离病毒）。
@@ -88,7 +86,7 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[integrate]]：融入，整合（isolate 的反义：隔离↔融入）
 > - [[connect]]：连接（isolate 的反义：孤立↔连接）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **isolate sb./sth. from**：将某人/某物从……中隔离
 > - **isolated area/community**：偏远地区/孤立社区
 > - **isolate a virus/bacteria**：分离病毒/细菌
@@ -130,19 +128,15 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Patients with infectious diseases should be isolated from the general population."（传染病患者应与普通人群隔离——考研高频表达）
 > - "No single factor can be studied in isolation; all variables are interconnected."（没有任何单一因素可以孤立地研究；所有变量都是相互关联的——考研阅读高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

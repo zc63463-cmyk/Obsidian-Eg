@@ -3,17 +3,14 @@ title: "repeatedly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 反复地（一次又一次地做某事）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈpiːtɪdli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: peat
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复地**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **反复地**（频率层面）
@@ -64,7 +61,7 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > repeatedly = repeat（重复）+ -ed（变成形容词"反复的"）+ -ly（变成副词"反复地"）。老师 repeatedly（反复）强调这个知识点，说明它很重要。repeatedly 是 [[repeat]] 的副词形式。
@@ -86,7 +83,7 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 频率程度 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[once]]：一次（repeatedly 的反义：反复↔一次）
 > - [[rarely]]：很少地（repeatedly 的反义：反复↔很少）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **repeatedly warn**：反复警告
 > - **repeatedly fail**：反复失败
 > - **repeatedly tested**：反复测试
@@ -128,19 +125,15 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has repeatedly stated its commitment to environmental protection."（政府已反复声明其对环境保护的承诺。——考研政治类阅读语料）
 > - "He repeatedly ignored the warnings and continued his risky behavior."（他一再无视警告，继续其冒险行为。——通用例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

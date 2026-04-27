@@ -3,14 +3,12 @@ title: "copyright"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 复制的权利（控制作品被复制的法律权利）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒpiraɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**复制的权利**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **复制的权利**（法律层面）
@@ -69,7 +67,7 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > copy（复制）+ right（权利）→ 复制的权利→版权。你写了一首歌，别人不能随便 copy，因为你有 copyright。版权法的本质就是保护创作者的 copy right——控制谁有权复制你的作品。这是一个"字面即含义"的完美复合词。
@@ -93,7 +91,7 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[public domain]]：公共领域（copyright 的反义：受版权保护↔公共领域）
 > - [[plagiarism]]：剽窃（copyright 的反面行为：保护版权↔侵犯版权）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **copyright law**：版权法
 > - **hold the copyright**：拥有版权
 > - **copyright infringement**：版权侵权
@@ -135,19 +133,15 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The author holds the copyright to all her published works."（作者拥有其所有已出版作品的版权——考研阅读高频表达）
 > - "Digital technology has made copyright infringement easier than ever."（数字技术使版权侵权变得比以往更容易——学术写作常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

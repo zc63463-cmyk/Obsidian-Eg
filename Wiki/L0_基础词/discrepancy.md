@@ -3,14 +3,12 @@ title: "discrepancy"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 分开时发出不同声音（不一致之处）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dɪsˈkrepənsi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分开时发出不同声音（不一致之处）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **分开时发出不同声音**（差异层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dis（分开）+ crep（发出声音）+ -ancy → discrepancy（分开时发出不同声音）。两份财务报表"发出不同的声音"→ a discrepancy between the two reports（两份报告之间的出入）。解释这个差异 = explain the discrepancy。建议创建词根笔记 [[crep]]（发出声音）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[consistency]]：一致性（discrepancy 的精确反义：不一致↔一致）
 > - [[agreement]]：一致，同意（discrepancy 的反义：差异↔一致）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a discrepancy between A and B**：A与B之间的差异/出入
 > - **explain/resolve a discrepancy**：解释/解决差异
 > - **a discrepancy in the figures**：数据中的出入
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is a significant discrepancy between what the government claims and what the data shows."（政府声称的情况与数据显示之间存在显著差异——考研阅读社会类话题）
 > - "The auditor found discrepancies in the company's financial statements."（审计员发现了公司财务报表中的出入——考研翻译商业类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

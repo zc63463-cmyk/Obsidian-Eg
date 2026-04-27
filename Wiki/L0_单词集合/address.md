@@ -3,14 +3,12 @@ title: "address"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 朝向某人引导、定向
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈdres/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ ad-(=to, toward, 向、朝) + dress(=direct, 引导、指向，源自拉丁语 d
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**朝向某人引导、定向**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **朝向引导、定向**（动作层面：将注意力/话语朝向某目标）
@@ -69,7 +67,7 @@ ad-(=to, toward, 向、朝) + dress(=direct, 引导、指向，源自拉丁语 d
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ ad-(=to, toward, 向、朝) + dress(=direct, 引导、指向，源自拉丁语 d
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ad（朝向）+ dress（=direct，引导）→ 把话语/行动朝某个方向引导 → address（演说、处理问题、地址）。
@@ -92,7 +90,7 @@ ad-(=to, toward, 向、朝) + dress(=direct, 引导、指向，源自拉丁语 d
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ ad-(=to, toward, 向、朝) + dress(=direct, 引导、指向，源自拉丁语 d
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视、忽略（不处理问题）
 > - [[evade]]：回避、逃避（故意不面对问题）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ ad-(=to, toward, 向、朝) + dress(=direct, 引导、指向，源自拉丁语 d
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **address the issue/problem**：处理问题
   - The government must address the issue of climate change.（政府必须处理气候变化问题。）
 > - **address a meeting/conference**：在会议上讲话
@@ -128,22 +126,16 @@ ad-(=to, toward, 向、朝) + dress(=direct, 引导、指向，源自拉丁语 d
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The president addressed the nation on television to announce the new economic policies."（总统在电视上向全国发表讲话，宣布新的经济政策。）——考研高频表达
 > - "The government must take immediate action to address the issue of income inequality."（政府必须立即采取行动解决收入不平等问题。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "coarse"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 普通的、非精制的（未经精细加工的原始状态）
-extension_dim: 质量维度
+extension_dim: [质量维度]
 phonetic: "/kɔːs/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**未经精细加工的原始状态**"为统筹中心，沿质量维度向外扩展：
 >
 > 1. **未经精细加工**（物理层面）
@@ -67,7 +65,7 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > coarse 的古英语祖先 *cors* 就是"普通的、日常的"——不是精制的，不是上等的，就是最普通、最原始的状态。想象一块刚从河里捡起来的石头，表面坑坑洼洼、没有打磨——这就是 coarse（粗糙的）。想象一个人说话不经大脑、粗声粗气——这也是 coarse（粗俗的）。记住：coarse = 未经精细加工 = 粗糙/粗俗。注意不要和 course（课程）混淆——coarse 里面有个 a，想想"粗"（cu）的拼音首字母就是 c，粗人说话大嗓门（a 大嘴巴）。
@@ -89,7 +87,7 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fine]]：精细的，精美的（coarse 的精确反义：粗糙↔精细）
 > - [[refined]]：优雅的，精炼的（coarse 的反义：粗俗↔优雅）
 > - [[smooth]]：光滑的（coarse 的反义：粗糙↔光滑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **coarse sand/salt**：粗沙/粗盐
 > - **coarse cloth**：粗布
 > - **coarse language/humor**：粗俗的语言/幽默
@@ -128,19 +126,15 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers found that coarse particles in the air were more likely to cause respiratory problems than fine particles."（研究人员发现，空气中的粗颗粒比细颗粒更容易引起呼吸系统问题——考研英语阅读，环境科学话题）
 > - "In many traditional societies, coarse cloth was the standard clothing for ordinary people, while fine silk was reserved for the elite."（在许多传统社会中，粗布是普通人的标准衣着，而精美的丝绸则留给精英阶层——考研英语阅读，社会文化话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

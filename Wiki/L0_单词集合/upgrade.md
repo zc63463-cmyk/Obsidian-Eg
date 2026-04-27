@@ -3,14 +3,12 @@ title: "upgrade"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 提高等级
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ʌpˈɡreɪd/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**提高等级**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **提高等级**（物理/系统层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > upgrade 就是 up（向上）+ grade（等级）——把等级**往上提**。想象你坐飞机从经济舱**升级**到商务舱，就是在等级阶梯上**往上走了一步**。grade 和 gradual（逐步的）是亲戚——都是拉丁语 *gradus*（步、级），upgrade 就是"往上走一步"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[downgrade]]：降级（upgrade 的精确反义：升级↔降级）
 > - [[deteriorate]]：恶化（upgrade 要避免的状态）
 > - [[degrade]]：降级/退化（等级或质量的下降）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **upgrade to**：升级到……
 > - **upgrade the software/system**：升级软件/系统
 > - **upgrade one's skills**：提升技能
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government plans to upgrade the country's infrastructure."（政府计划升级国家基础设施）——考研阅读中社会经济话题
 > - "upgraded to business class"（升级到商务舱）——商业/旅行语境
 > - "upgrade their professional skills"（提升专业技能）——教育/就业类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

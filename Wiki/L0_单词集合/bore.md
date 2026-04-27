@@ -3,14 +3,12 @@ title: "bore"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 钻孔→令人厌烦
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/bɔːr/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ bore（钻孔→厌烦，古英语 borian）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**反复钻孔的枯燥感→使厌烦**"为统筹中心，沿**具身路径**向外扩展：
 
@@ -63,7 +61,7 @@ bore（钻孔→厌烦，古英语 borian）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -74,7 +72,7 @@ bore（钻孔→厌烦，古英语 borian）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个人不停地 bore（钻孔），日复一日重复同样的动作——这种单调感就是 bore（厌烦）的来源
@@ -86,7 +84,7 @@ bore（钻孔→厌烦，古英语 borian）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ bore（钻孔→厌烦，古英语 borian）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[interest]]：<bore 使厌烦 vs interest 使感兴趣>
 - [[excite]]：<bore 使厌烦 vs excite 使兴奋>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -116,27 +114,21 @@ bore（钻孔→厌烦，古英语 borian）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **be bored with/by**（对…感到厌烦）：I'm bored with this lecture.（我对这堂课感到厌烦。）
 - **bore sb to death**（烦死某人）：The long speech bored me to death.（那场冗长的演讲烦死我了。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - The students were bored by the repetitive exercises.（学生们对重复的练习感到厌烦。）
 - They bored a hole through the wall.（他们在墙上钻了一个洞。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

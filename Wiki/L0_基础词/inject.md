@@ -3,14 +3,12 @@ title: "inject"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 向内投掷（将物质推入内部）
-extension_dim: 空间维度
+extension_dim: [空间维度]
 phonetic: "/ɪnˈdʒekt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向内投掷**"为统筹中心，沿空间维度向外扩展：
 >
 > 1. **向内投掷**（物理层面）
@@ -67,7 +65,7 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inject = in（向内）+ ject（投掷）→ 向内投掷。想象你生病了，护士拿着注射器，把药液"投"进你的身体——这就是 inject（注射）。后来这个词的用法越来越广：政府把资金"投"进经济（inject capital），编辑把幽默"投"进文章（inject humor）。记住 [[ject|ject = 扔]]：[[object]] = 扔到你面前的物体，[[reject]] = 扔回去=拒绝，[[inject]] = 扔进去=注射/注入。
@@ -89,7 +87,7 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extract]]：提取，抽出（inject 的精确反义：注入↔抽出）
 > - [[withdraw]]：撤回，撤出（inject 的反义：投入↔撤出）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inject a drug/medicine**：注射药物
 > - **inject money/capital into**：向……注入资金
 > - **inject new life/ideas into**：为……注入新活力/新思想
@@ -131,19 +129,15 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government decided to inject billions of dollars into the economy to stimulate growth and prevent a deeper recession."（政府决定向经济注入数十亿美元以刺激增长并防止更严重的衰退——考研英语阅读，经济政策话题）
 > - "To inject new vitality into the traditional industry, the company has adopted innovative technologies and management strategies."（为了给传统产业注入新的活力，公司采用了创新的技术和管理策略——考研英语阅读，产业创新话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "stay"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: [stayed, staying, stays]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 站在原地不动
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/steɪ/"
 pos: vi.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在原地不动**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **站在原地不动**（空间层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 暴风雨来了，你选择**站在原地不动**（stay）——不跑，不躲，就待在那里。空间上不移动是"停留"（stay at home），情绪上不波动是"保持冷静"（stay calm），事物不变化是"保持不变"（stay the same）——stay 就是一切"不动"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[leave]]：stay（停留）↔ leave（离开）——空间去留的对立
 > - [[go]]：stay（留下）↔ go（去）——空间移动的对立
 > - [[change]]：stay（保持不变）↔ change（改变）——状态变化的对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stay up**：熬夜
   - She stayed up late to finish the assignment.
 - **stay calm**：保持冷静
@@ -133,21 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The court ruled that the execution should be stayed pending further review."（法院裁定在进一步审查期间暂缓执行死刑。）——考研高频表达
 > - "She decided to stay in academia rather than pursue a career in industry."（她决定留在学术界，而不是去工业界发展。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

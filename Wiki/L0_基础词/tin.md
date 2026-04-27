@@ -3,14 +3,12 @@ title: "tin"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 锡，一种银白色的金属
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/tɪn/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**锡，银白色金属**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **锡**（物质层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tin 的核心画面是"一个银白色的金属罐子——锡罐"。古英语 *tin* = 锡。锡是一种银白色的金属。锡罐（tin can）= 用锡做的罐子 = 罐头。a tin of soup（一罐汤）= 一罐头汤。tin foil（锡纸）= 用锡做的箔纸。在美式英语中，罐头多用 can，英式英语中多用 tin。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（tin 是具体物质名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tin can**：锡罐
 > - **a tin of**：一罐……
 > - **tin foil**：锡纸
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Before the invention of aluminum foil, tin was widely used for wrapping food and preserving its freshness, though it was more expensive and less malleable."（在铝箔发明之前，锡被广泛用于包裹食物和保鲜，尽管它更昂贵且延展性较差——考研翻译科技话题相关表达）
 > - "During the Industrial Revolution, the tin can revolutionized food preservation, allowing soldiers to carry nutritious meals on long campaigns without spoilage."（在工业革命期间，锡罐彻底改变了食物保存方式，使士兵能够在长途行军中携带营养餐食而不变质——考研阅读历史话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

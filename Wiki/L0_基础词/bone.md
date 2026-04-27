@@ -3,14 +3,12 @@ title: "bone"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 骨头（构成身体框架的硬组织）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/bəʊn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**骨头**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **骨头**（身体层面）
@@ -67,7 +65,7 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bone 就是"骨头"。The dog was chewing a bone（狗在啃骨头）。引申为"核心"——the bare bones of the plan（计划的基本框架）。Budget cuts that cut to the bone（削减到骨子里的预算削减）。bone up on English（刻苦钻研英语）——啃到骨头里。
@@ -90,7 +88,7 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - bone 作为身体部位无精确反义词，但在"核心↔表面"维度上与 [[surface]] 相对
 > - [[flesh]]：肉（bone 的反义：骨↔肉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the bare bones**：基本框架，最基本的部分
 > - **cut to the bone**：削减到极限
 > - **bone up on**：刻苦钻研
@@ -134,19 +132,15 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The dog was chewing a bone."（狗在啃一根骨头。——考研基础词汇例句）
 > - "Budget cuts have been so severe that they have cut to the bone, affecting essential services."（预算削减如此严重，已经削减到了极限，影响了基本服务。——考研阅读类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "civilian"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 城市里的人（非军人）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/səˈvɪliən/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: civil
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**城市里的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **城市里的人**（社会层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > civil（公民的）+ ian（人）→ 公民→平民。军人脱下军装回到 civilian life（平民生活），就是从 military 变成 civilian。civilian casualties（平民伤亡）是战争中平民受到的伤害。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[military]]：军人；军事的（civilian 的精确反义：平民↔军人）
 > - [[soldier]]：士兵（civilian 的反义：平民↔士兵）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **civilian casualties**：平民伤亡
 > - **civilian population**：平民人口
 > - **civilian life**：平民生活
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "One million soldiers and half a million civilians fled."（一百万士兵和五十万平民逃离。——剑桥词典例句）
 > - "The role of armed civilians as accessories to state repression and violence has been an important part of this history."（武装平民作为国家镇压和暴力的帮凶，一直是这段历史的重要组成部分。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

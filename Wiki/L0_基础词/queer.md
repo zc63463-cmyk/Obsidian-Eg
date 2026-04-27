@@ -3,14 +3,12 @@ title: "queer"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 奇怪的（与正常不同的、令人不适的）
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/kwɪə/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**奇怪的（与正常不同的、令人不适的）**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **奇怪的**（情感层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > queer 可能来自古高地德语 *twerh*（倾斜的、歪的）。想象一根歪歪扭扭的树——它看起来就是 queer（奇怪的），因为它不符合正常笔直的样子。从"歪的"到"奇怪的"到"可疑的"，queer 始终带着"不符合常规、让人感到不安"的意味。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[normal]]：正常的（queer 的精确反义：奇怪的↔正常的）
 > - [[ordinary]]：普通的（queer 的反义：异常的↔普通的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a queer feeling**：一种奇怪的感觉
 > - **a queer look**：奇怪的眼神
 > - **feel queer**：感到不舒服/眩晕
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Mary was sitting on her stool nearby and she suddenly made a very queer sound which she tried so violently to repress that she ended by almost choking."（玛丽坐在附近的小凳上，突然发出一种非常奇怪的声音，她拼命想压抑住，结果差点窒息。——Frances Hodgson Burnett, *The Secret Garden*）
 > - "It was something like a ring of rusty iron or brass and when the robin flew up into a tree nearby she put out her hand and picked the ring up."（那东西像一个生锈的铁环或铜环，当知更鸟飞到附近的树上时，她伸出手捡起了那个环。——Frances Hodgson Burnett, *The Secret Garden*）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "perplex"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 使人完全困惑
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/pəˈpleks/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**彻底缠绕思维**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **彻底缠绕思维**（认知层面：思维被复杂信息缠住）
@@ -67,7 +65,7 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 走进迷宫，四面八方都是一模一样的墙壁，彻底（per-）编织缠绕（plex）在一起——你站在原地，完全 perplex（困惑）了。
@@ -88,7 +86,7 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clarify]]：澄清、阐明（使困惑 vs 使清晰）
 > - [[enlighten]]：启发、开导（使困惑 vs 使明白）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be perplexed by/at**：对…感到困惑 The researchers were perplexed by the unexpected results of the experiment.（研究人员对实验的意外结果感到困惑。）
 >   Scientists were perplexed by the unexpected results of the experiment.（科学家们对实验的意外结果感到困惑。）
 > - **perplex the issue**：使问题复杂化
@@ -127,21 +125,15 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The idea arose because of the perplexing behavior of the women in the plant."（这个想法的产生是因为工厂里女工们令人费解的行为。）——2010考研完形
 > - "The complexity of the issue continues to perplex researchers."（这个问题的复杂性继续让研究人员感到困惑。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

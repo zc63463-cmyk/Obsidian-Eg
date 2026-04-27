@@ -3,14 +3,12 @@ title: "illusion"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 在上面玩耍欺骗
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈluːʒn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在上面玩耍欺骗**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在上面玩耍欺骗**（感官层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *in-*（在……上）+ *ludere*（玩耍）= "在……上面玩弄"。想象现实在你眼前**玩了一个魔术**——你看到了海市蜃楼，但那只是 **illusion**（幻觉）。再想象一个人在心里**自我欺骗**，以为一切都会好起来——这也是 illusion（幻想）。记住：illusion 的核心画面就是"被欺骗"——你的眼睛或你的心被骗了。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reality]]：现实（illusion 的精确反义：幻觉↔现实）
 > - [[fact]]：事实（illusion 在认知层面的反义）
 > - [[truth]]：真相（illusion 在信念层面的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **optical illusion**：视错觉，光学幻觉
 > - **under the illusion that...**：错误地认为……
 > - **create/give an illusion of...**：制造……的假象
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "have no illusions about the difficulty"（对困难不抱幻想）——考研阅读/写作高频句式
 > - "create the illusion of prosperity"（制造繁荣的假象）——考研阅读经济类话题
 > - "under the illusion that..."（错误地认为……）——考研阅读常见搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

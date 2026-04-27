@@ -3,14 +3,12 @@ title: "superior"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在上方（更优越的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/suːˈpɪəriə/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -ior（拉丁语比�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在上方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在上方**（空间层面：位置在……之上）
@@ -69,7 +67,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -ior（拉丁语比�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -ior（拉丁语比�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > super（在上方）+ -ior（更……的）。想象公司里的层级图：老板站在**上方**，他的品质和地位都超越你——他就是你的 **superior**（上级）。记住：在上方 = 优越/上级 = superior。
@@ -89,7 +87,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -ior（拉丁语比�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -ior（拉丁语比�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inferior]]：低劣的；下级的（superior 的直接反义词）
 > - [[subordinate]]：下属的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -ior（拉丁语比�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be superior to**：比……更优越（注意用 to 不用 than）
   - This product is superior to the competitor's.（这个产品比竞争对手的更优越。）
 > - **immediate superior**：直属上级
@@ -127,19 +125,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -ior（拉丁语比�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He adds humbly that perhaps he was superior to the common run of men in noticing things which easily escape attention, and in observing them carefully."（他谦逊地补充道，或许他比普通人更能够注意到那些容易忽视的细节，并对其进行仔细的观察——2008年考研Part C翻译）
 > - "The court has generally held that a legislature is superior to the executive."（法院通常认为立法机关优于行政机关——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

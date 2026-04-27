@@ -3,14 +3,12 @@ title: "fiber"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 细长的丝线（纤维）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈfaɪbə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**细长的丝线**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **细长的丝线**（物质层面→抽象层面）
@@ -70,7 +68,7 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fiber 来自拉丁语 fibra（细丝）。衣服由 fiber（纤维）编织而成，食物中的 dietary fiber（膳食纤维）促进消化，互联网靠 optical fiber（光纤）传输数据。一个人的 moral fiber（道德品质）就像纤维一样——坚韧的纤维构成坚强的品格。
@@ -92,7 +90,7 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （fiber 作为物质名词，无精确反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dietary fiber**：膳食纤维
 > - **optical fiber**：光纤
 > - **moral fiber**：道德品质
@@ -136,19 +134,15 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Healthy diet includes foods rich in whole grains and fiber, foods with good fats from nuts, little sugar, and less red meat."（健康饮食包括富含全谷物和纤维的食物，含有坚果中优质脂肪的食物，少量糖和较少的红肉。——考研阅读常见健康话题）
 > - "To improve bowel regularity we recommend that plenty of water and fiber be included in the diet."（为了改善肠道规律性，我们建议饮食中应包含大量的水和纤维。——考研翻译常见医学话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

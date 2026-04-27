@@ -3,14 +3,12 @@ title: "slump"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 沉重地倒下（突然大幅度下降）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/slʌmp/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**沉重地倒下（突然大幅度下降）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **沉重地倒下**（物理层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > slump 是一个拟声词，模仿人"噗通"一声沉重倒下的声音。你累了一天回到家，slump into a chair（重重地瘫坐在椅子上）。股市暴跌就是 the stock market slumped——像人一样"倒下"了。经济萧条就是 economic slump——整个经济"倒下"了。记住 slump = 沉重倒下 = 暴跌/萧条。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[boom]]：繁荣，兴旺（slump 的反义：萧条↔繁荣）
 > - [[surge]]：激增，猛增（slump 的反义：暴跌↔激增）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,7 +132,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **economic slump**：经济萧条
 > - **slump in sales/prices**：销量/价格暴跌
 > - **slump into a chair**：重重地瘫坐在椅子上
@@ -143,21 +141,17 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The value of property has slumped."（房产价值突然暴跌。——Cambridge Dictionary，考研高频表达）
 > - "Car sales have slumped dramatically over the past year."（过去一年汽车销量急剧暴跌。——Cambridge Dictionary，考研相关语料）
 > - "Most of the small and medium enterprises closed down during the economic slump."（大多数中小型企业在经济萧条时期都倒闭了。——考研相关语料）
 > - "The physically and mentally exhausted man slumped on the sofa."（这个身心俱疲的男人重重地瘫坐在沙发上。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

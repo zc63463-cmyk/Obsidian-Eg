@@ -3,14 +3,12 @@ title: "superb"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在上方（超越一般水平的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/suːˈpɜːb/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在上方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在上方**（空间层面：位置在……之上）
@@ -62,7 +60,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -70,7 +68,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > super（在上方）+ -b（形容词后缀）。想象站在山顶**上方**俯瞰——那壮丽的景色就是 **superb**。记住：在上方 = 品质超越 = superb。
@@ -81,7 +79,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -94,13 +92,13 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inferior]]：低劣的
 > - [[mediocre]]：平庸的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,7 +110,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a superb performance**：精彩的表演
   - She gave a superb performance in the play.（她在剧中表演精彩。）
 > - **superb quality**：极好的品质
@@ -120,19 +118,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The team's superb athleticism compensated for their lack of international experience."（该队出色的运动能力弥补了他们缺乏国际经验的不足——考研高频表达）
 > - "She gave a superb performance as Lady Macbeth."（她在饰演麦克白夫人时表现出色——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

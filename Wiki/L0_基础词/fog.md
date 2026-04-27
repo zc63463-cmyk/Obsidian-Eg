@@ -3,14 +3,12 @@ title: "fog"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 水汽笼罩（水汽弥漫使视线模糊）
-extension_dim: 自然路径
+extension_dim: [自然路径]
 phonetic: "/fɒɡ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**水汽笼罩（水汽弥漫使视线模糊）**"为统筹中心，沿自然路径向外扩展：
 >
 > 1. **水汽弥漫**（自然层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fog 原始义就是"雾"——空气中弥漫的水汽遮住了视线。想象你走在伦敦的街头，浓雾弥漫，五米之外什么都看不见——这就是 fog。引申到认知层面：当你"困惑"时，就像走进了思维的"雾"中——in a fog = 困惑的。考研中常用于比喻：the fog of war（战争迷雾）、mental fog（精神迷惘）。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clarity]]：清晰（fog 的反义：雾/困惑↔清晰）
 > - [[clear]]：晴朗的（fog 的反义：有雾的↔晴朗的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dense/thick fog**：浓雾（考研高频搭配）
 > - **in a fog**：困惑的，迷惘的
 > - **fog of war**：战争迷雾
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The airport was closed due to dense fog, leaving thousands of passengers stranded."（由于浓雾，机场关闭，数千名旅客滞留——考研阅读交通话题常见表达）
 > - "The fog of war makes it difficult for commanders to make accurate decisions in real time."（战争迷雾使指挥官难以实时做出准确决策——考研阅读军事/政治话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

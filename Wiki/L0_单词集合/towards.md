@@ -3,14 +3,12 @@ title: "towards"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 朝某个方向移动
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/təˈwɔːdz/"
 pos: prep.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**朝某个方向移动**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **朝某个方向移动**（空间层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > towards = to（到）+ ward（方向）+ s（副词后缀）。和 [[toward]] 完全同义，只是英式英语偏爱多一个 -s。记住口诀："美式不加 s，英式爱加 s"。想象一个英国绅士走路时多迈一小步（多一个 s），而美国人直截了当（不加 s）。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[away from]]：远离（towards 是朝向，away from 是远离，方向相反）
 > - [[against]]：反对、逆着（towards 可表示积极倾向，against 表示对立态度）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **towards the end of**：接近……的末尾
 > - **attitude towards**：对……的态度
 > - **a step towards**：朝……迈出的一步
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "attitudes towards immigration"（对移民的态度）——考研阅读高频搭配，社会政策类话题
 > - "a step towards solving the problem"（解决问题的一步）——议论文中常见表达
 > - "towards the end of the 20th century"（接近20世纪末）——学术/历史类文本时间表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

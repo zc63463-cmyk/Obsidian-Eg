@@ -3,17 +3,14 @@ title: "desirable"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 值得渴望的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/dɪˈzaɪərəbl/"
 pos: a.
-metaphor_type: 无隐喻
 word_root: desire
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**值得被渴望的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **值得被渴望的**（情感层面：引发欲望）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[desire]]（渴望）+ -able（可以被……的）= 可以被渴望的 → **令人向往的**。想象站在橱窗前，里面的东西都是你**渴望**得到的，那些就是 **desirable**（令人向往的）商品。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[undesirable]]：不受欢迎的，令人不快的
 > - [[unattractive]]：无吸引力的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,30 +114,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **desirable outcome**：A compromise is the most desirable outcome. 妥协是最令人满意的结果。
 > - **highly desirable**：The position is highly desirable. 这个职位非常令人向往。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "It is desirable that interest rates should be reduced."（利率下调是可取的。）——考研高频表达
 > - "Although not essential, some prior knowledge of statistics is desirable."（统计学的知识虽非必要，但最好是学过一点。）——考研高频表达
 > - "He believed that self-sufficiency was both desirable and inevitable."（他认为自给自足既是可取的也是必然的。）——考研翻译真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

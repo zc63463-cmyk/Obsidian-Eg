@@ -3,17 +3,14 @@ title: "exchange"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 互相交换、互换
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪksˈtʃeɪndʒ/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: change
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -45,7 +42,7 @@ ex-(出) + change(改变，交换)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**互相交换**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **互相交换**（社会交往层面）
@@ -69,7 +66,7 @@ ex-(出) + change(改变，交换)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ ex-(出) + change(改变，交换)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex-（出）+ change（改变）→ 你拿出你的，我拿出我的，互相改变拥有 → exchange = 交换。
@@ -92,7 +89,7 @@ ex-(出) + change(改变，交换)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ ex-(出) + change(改变，交换)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[keep]]：保留（交换 vs 保留）
 - [[hoard]]：囤积（交换 vs 囤积）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +124,7 @@ ex-(出) + change(改变，交换)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exchange rate**：汇率（The exchange rate between the dollar and the euro has fluctuated.）
 > - **in exchange for**：交换（She gave him a book in exchange for a CD.）
 > - **stock exchange**：证券交易所（The stock exchange experienced a sharp decline today.）
@@ -135,18 +132,12 @@ ex-(出) + change(改变，交换)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They make many personal sacrifices in exchange for income today."（他们做出了许多个人牺牲以换取今天的收入。）——考研高频表达
 > - "Any social group that encourages free exchange of ideas and pursuit of knowledge is beneficial."（任何鼓励自由交流思想和追求知识的社会群体都是有益的。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

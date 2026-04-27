@@ -3,14 +3,12 @@ title: "consent"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 大家共同感觉到"可以"
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kənˈsent/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**大家共同感觉到'可以'**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **共同感觉可以**（认知层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > consent = con（共同）+ sent（感觉，与 [[sens-sent]] 同源）= 共同感觉到"可以" = 同意。想象手术前医生让你签一份文件——informed consent（知情同意书），意思是"你已经了解了情况，并且你的内心'感觉可以'"。consent 的本质是"发自内心的同意"，不是被迫的。与 [[consensus]]（共识）的区别：consent 是"我同意你做"，consensus 是"我们大家都同意这样做"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dissent]]：不同意（consent 的反义：同意↔不同意，dis + sent = 分开的感觉）
 > - [[refuse]]：拒绝（consent 的反义：同意↔拒绝）
 > - [[object]]：反对（consent 的反义：同意↔反对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **give one's consent**：给予同意
 > - **with/without consent**：经/未经同意
 > - **informed consent**：知情同意（医疗/法律）
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Medical ethics require that patients provide informed consent before undergoing any surgical procedure, ensuring they fully understand the risks and benefits involved."（医学伦理要求患者在接受任何手术前提供知情同意，确保他们充分了解所涉及的风险和益处——考研阅读医疗话题相关表达）
 > - "The government cannot collect personal data without the explicit consent of the individuals concerned, according to the new privacy regulation."（根据新的隐私法规，政府未经相关个人的明确同意不得收集个人数据——考研阅读法律话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

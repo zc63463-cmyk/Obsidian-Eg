@@ -3,14 +3,12 @@ title: "reveal"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 拨开面纱→揭露
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/rɪˈviːl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(去除/相反) + [[veil|ver-vert]](面纱/转) → 去除面纱 → 揭示
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**去除面纱**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **去除面纱**（物理层面——揭开遮盖物）
@@ -66,7 +64,7 @@ re-(去除/相反) + [[veil|ver-vert]](面纱/转) → 去除面纱 → 揭示
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(去除/相反) + [[veil|ver-vert]](面纱/转) → 去除面纱 → 揭示
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > re-(去除) + veal(=veil 面纱) → 去除面纱 → 揭露
@@ -88,7 +86,7 @@ re-(去除/相反) + [[veil|ver-vert]](面纱/转) → 去除面纱 → 揭示
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ re-(去除/相反) + [[veil|ver-vert]](面纱/转) → 去除面纱 → 揭示
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - conceal：隐藏（reveal 是揭露，conceal 是隐藏）
 > - hide：藏匿（reveal 是揭露，hide 是藏匿）
 > - cover：覆盖（reveal 是揭开，cover 是覆盖）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,27 +118,21 @@ re-(去除/相反) + [[veil|ver-vert]](面纱/转) → 去除面纱 → 揭示
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reveal the truth**：揭示真相（The investigation finally revealed the truth about the accident. 调查最终揭示了事故的真相。）
 > - **reveal that...**：显示/表明……（The study reveals that most people prefer working from home. 研究显示大多数人更喜欢在家办公。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature."（艾伦的贡献在于拿出一个我们都认同的假设——因为我们不是机器人，所以我们能控制自己的思想——并揭示其错误的本质。）——2011考研英语一翻译
 > - "Works of several historians reveal the moral compromises made by the nation's early leaders."（几位历史学家的著作揭示了国家早期领导人所做出的道德妥协。）——考研真题阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

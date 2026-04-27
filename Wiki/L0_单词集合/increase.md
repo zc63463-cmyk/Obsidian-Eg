@@ -3,14 +3,12 @@ title: "increase"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 向内生长，变大
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈkriːs/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ in-(向内，加强) + cre(生长，grow) + -ase(名词/动词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**增长变大**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **增长变大**（物理层面：事物在量上变大）
@@ -64,7 +62,7 @@ in-(向内，加强) + cre(生长，grow) + -ase(名词/动词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ in-(向内，加强) + cre(生长，grow) + -ase(名词/动词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 一棵小树苗不断 **in**（向内扎根）**cre**（生长），最终 **increase**——越长越大，这就是"增长"。
@@ -87,7 +85,7 @@ in-(向内，加强) + cre(生长，grow) + -ase(名词/动词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ in-(向内，加强) + cre(生长，grow) + -ase(名词/动词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[decrease]]：减少，降低，与 increase 恰好构成反义对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ in-(向内，加强) + cre(生长，grow) + -ase(名词/动词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **increase by**：增加了（接具体数值）
   - The population has increased by 20% in the past decade.（过去十年人口增长了20%。）
 > - **increase to**：增加到（接最终数值）
@@ -128,21 +126,15 @@ in-(向内，加强) + cre(生长，grow) + -ase(名词/动词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - There has been a significant increase in the number of students applying for graduate programs.（申请研究生项目的学生数量显著增加。）
 > - The government needs to increase investment in education.（政府需要增加对教育的投资。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

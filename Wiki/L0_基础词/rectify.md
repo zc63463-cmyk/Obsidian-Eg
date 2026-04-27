@@ -3,14 +3,12 @@ title: "rectify"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 使变直（把弯的变直）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈrektɪfaɪ/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变直（把弯的变直）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使变直**（纠正层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rect（直）+ ify（使）→ 使变直。想象你写了一封有错误的信，你需要把它"拉直"——纠正每一个错误。政府发现政策有偏差，需要 rectify the situation（整顿局面）。rectify 就是"把弯的拉直"，把错的纠正。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distort]]：歪曲（rectify 的反义：纠正↔歪曲）
 > - [[pervert]]：曲解（rectify 的反义：矫正↔曲解）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rectify an error/mistake**：纠正错误
 > - **rectify the situation**：整顿局面
 > - **take steps to rectify**：采取措施纠正
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The comprehensive spending review offers an opportunity for the government to help rectify this."（综合支出审查为政府提供了一个帮助纠正这一问题的机会。——2014年考研真题英语二阅读理解）
 > - "I am determined to take whatever action is necessary to rectify the situation."（我决心采取一切必要行动来整顿局面。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

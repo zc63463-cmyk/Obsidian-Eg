@@ -3,14 +3,12 @@ title: "overlap"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 部分覆盖在上方→重叠
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌəʊvəˈlæp/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ over-（在……上方）+ lap（重叠，搭接）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**部分覆盖在上方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **部分覆盖在上方**（物理空间层面）
@@ -69,7 +67,7 @@ over-（在……上方）+ lap（重叠，搭接）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ over-（在……上方）+ lap（重叠，搭接）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over（在上方）+ lap（搭接）= overlap。想象两片瓦片在屋顶上 **lap**（搭接），一片 **over**（覆盖）在另一片上方——中间重叠的部分就是 overlap。两个部门的职责 overlap，就是它们有交叉的部分。
@@ -93,7 +91,7 @@ over-（在……上方）+ lap（重叠，搭接）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ over-（在……上方）+ lap（重叠，搭接）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[separate]]：separate 是"分开的"，overlap 是"重叠的"
 > - [[diverge]]：diverge 是"分歧的"，overlap 是"交叉的"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ over-（在……上方）+ lap（重叠，搭接）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overlap between A and B**：A与B之间的重叠/交叉
 > - **overlapping functions/responsibilities**：重叠的职能/职责
 > - **overlap with**：与……重叠
@@ -132,21 +130,15 @@ over-（在……上方）+ lap（重叠，搭接）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is considerable overlap between the two academic disciplines."（这两个学科之间有很大的重叠。）——考研高频表达
 > - "The responsibilities of the two departments overlap, causing confusion among employees."（两个部门的职责重叠，导致员工困惑。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

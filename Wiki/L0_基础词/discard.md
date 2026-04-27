@@ -3,14 +3,12 @@ title: "discard"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 通过卡片游戏扔掉（把不要的牌扔出去）
-extension_dim: 行动路径
+extension_dim: [行动路径]
 phonetic: "/dɪˈskɑːd/"
 pos: v.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**通过卡片游戏扔掉（把不要的牌扔出去）**"为统筹中心，沿行动路径向外扩展：
 >
 > 1. **扔掉不要的牌**（游戏层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > discard 来自法语打牌术语，dis（去掉）+ card（卡片）→ "把不要的牌扔掉"。想象你在打扑克，手里有张烂牌，你把它"扔"出去——这就是 discard。考研中常用于抽象语境：discard prejudice（抛弃偏见）、discard outdated methods（丢弃过时方法），都是"扔掉不要的东西"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retain]]：保留（discard 的精确反义：丢弃↔保留）
 > - [[keep]]：保持（discard 的反义：丢弃↔保持）
 > - [[preserve]]：保存（discard 的反义：丢弃↔保存）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **discard old beliefs/prejudices**：抛弃旧的信念/偏见（考研高频搭配）
 > - **discard outdated methods**：丢弃过时的方法
 > - **discard data**：丢弃数据
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We must be willing to discard outdated assumptions and embrace new ways of thinking."（我们必须愿意抛弃过时的假设，拥抱新的思维方式——考研阅读思维话题高频表达）
 > - "The study found that people tend to discard information that contradicts their existing beliefs."（研究发现人们倾向于抛弃与他们现有信念相矛盾的信息——考研阅读心理话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

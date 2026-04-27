@@ -3,14 +3,12 @@ title: "enthusiastic"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 被神灵附体的（内心被神圣力量充满的）
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/ɪnˌθjuːziˈæstɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**内心被充满的**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **内心被充满的**（情感层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > enthusiastic = enthusiasm（热情）+ tic（形容词后缀）= 热情的。核心画面：一个志愿者 enthusiastic about helping others（热心助人）——他不是被迫的，而是内心被一种力量驱动着，主动投入。enthusiastic 的精髓在于"溢出"——热情从内心溢到外表。She is an enthusiastic supporter of environmental protection（她是环保的热心支持者）。注意 enthusiastic 后面接 about/over：enthusiastic about the new plan（对新计划充满热情）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[apathetic]]：冷漠的（enthusiastic 的精确反义：热情的↔冷漠的）
 > - [[indifferent]]：漠不关心的（enthusiastic 的反义：热情的↔漠不关心的）
 > - [[unenthusiastic]]：不热情的（enthusiastic 的直接否定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **enthusiastic about/over**：对……充满热情
 > - **an enthusiastic supporter/reader**：热情的支持者/读者
 > - **be enthusiastic about**：对……热心
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Students who are enthusiastic about learning tend to perform better academically and develop stronger critical thinking skills."（对学习充满热情的学生往往在学业上表现更好，并发展出更强的批判性思维能力——考研阅读教育话题）
 > - "The government received an enthusiastic response from the public when it announced the new environmental protection policy."（当政府宣布新的环保政策时，获得了公众的热情回应——考研阅读政策话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

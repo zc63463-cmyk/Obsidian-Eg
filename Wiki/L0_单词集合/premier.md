@@ -3,14 +3,12 @@ title: "premier"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 第一的、首要的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpremiə(r)/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ pre-(在前面) + prim/pre(第一) + -er(名词/形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**第一的、首要的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **第一的、首要的**（空间/时间层面——排在最前面）
@@ -67,7 +65,7 @@ pre-(在前面) + prim/pre(第一) + -er(名词/形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ pre-(在前面) + prim/pre(第一) + -er(名词/形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 法语 premier "第一的"，来自拉丁语 primarius。想象一个站在所有人最前面的人——他就是总理。
@@ -90,7 +88,7 @@ pre-(在前面) + prim/pre(第一) + -er(名词/形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ pre-(在前面) + prim/pre(第一) + -er(名词/形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[secondary]]：次要的（地位/重要性上的对立）
 > - [[inferior]]：下级的、次的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,20 @@ pre-(在前面) + prim/pre(第一) + -er(名词/形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **premier league**：英超联赛（the Premier League is the top tier of English football）
 > - **premier of**：……的总理（the Premier of the State Council 国务院总理）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The premier emphasized the importance of innovation in driving the country's economic development."（总理强调了创新在推动国家经济发展中的重要性。）——考研高频表达
 > - "The university is considered the premier institution for studying engineering in the region."（该大学被认为是该地区学习工程学的顶尖学府。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

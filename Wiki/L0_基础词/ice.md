@@ -3,14 +3,12 @@ title: "ice"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 冰
-extension_dim: 状态路径
+extension_dim: [状态路径]
 phonetic: "/aɪs/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**冰**"为统筹中心，沿状态路径向外扩展：
 >
 > 1. **冰**（物质层面）
@@ -70,7 +68,7 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ice 源自古英语 īs，与喜马拉雅（Himalaya = 雪的居所）同源。核心习语：break the ice = 打破僵局（破冰船破冰开路→打破沉默）；on thin ice = 如履薄冰（站在薄冰上很危险）；put on ice = 搁置（把东西放在冰上保鲜→暂时搁置）。ice a cake = 给蛋糕加糖霜（不是加冰！）。
@@ -94,7 +92,7 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fire]]：火（冰 ↔ 火）
 > - [[heat]]：热（冰 ↔ 热）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **break the ice**：打破僵局——A joke is a good way to break the ice.
 > - **on thin ice**：如履薄冰，处境危险——You're on thin ice with the boss.
 > - **put on ice**：搁置，暂缓——The project has been put on ice.
@@ -133,19 +131,15 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The discovery of the Titanic wreck lay buried beneath layers of ice on the ocean floor."（泰坦尼克号残骸的发现被掩埋在海底的冰层之下——ice 为基础词汇，在阅读中常见）
 > - "Small talk at parties is often used to break the ice between strangers."（派对上的闲聊常被用来打破陌生人之间的僵局——break the ice 为高频习语）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

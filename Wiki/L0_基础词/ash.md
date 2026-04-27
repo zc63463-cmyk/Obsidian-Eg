@@ -3,14 +3,12 @@ title: "ash"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 燃烧后留下的灰烬残余
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/æʃ/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**燃烧后的灰烬残余**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **燃烧后的灰烬残余**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 火焰燃烧一切，最后只剩下灰烬。ash 就是"燃后残余"——木柴燃后是灰烬（ash），人火化后是骨灰（ashes）。一切热烈过后的冷寂，都是 ash。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[flame]]：火焰（ash 的反义：燃烧的过程↔燃烧的残余）
 > - [[fire]]：火（燃烧的源头↔燃烧的终结）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reduce to ashes**：化为灰烬
 > - **scatter ashes**：撒骨灰
 > - **volcanic ash**：火山灰
@@ -122,19 +120,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The forest fire reduced the entire village to ashes.（森林大火将整个村庄化为灰烬）
 > - Volcanic ash from the eruption disrupted air travel across Europe.（火山喷发产生的火山灰扰乱了欧洲的航空旅行）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

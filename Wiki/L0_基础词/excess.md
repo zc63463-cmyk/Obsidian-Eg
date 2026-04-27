@@ -3,14 +3,12 @@ title: "excess"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 超过，过量（走出去超出的部分）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪkˈses/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走出去超过的部分**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **走出去超过的部分**（空间/数量层面）
@@ -67,7 +65,7 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（出）+ cess（走，[[ced-cess]]）→ 走出去超过 → excess。[[exceed]] 是"超过"的动作，excess 是"超过"的结果。你 exceed 了限速，多出来的那部分速度就是 excess。机场的 excess baggage（超重行李）就是你"走出去超过"了免费额度的行李。
@@ -90,7 +88,7 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deficiency]]：不足，缺乏（excess 的反义：过量↔不足）
 > - [[shortage]]：短缺（excess 的反义：过剩↔短缺）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in excess of**：超过，多于；in excess of $1 million
 > - **to excess**：过度，无节制；drink to excess
 > - **excess baggage/luggage**：超重行李
@@ -130,19 +128,15 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The death rate from the disease is in excess of 50 percent."（该疾病的死亡率超过50%。）
 > - "Excess supply has driven down prices in the global market."（过度供给已导致全球市场价格下降。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

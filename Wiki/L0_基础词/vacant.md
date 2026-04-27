@@ -3,14 +3,12 @@ title: "vacant"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 空着的（vacare = 空闲）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈveɪkənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**空着的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **空间空着**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vacant 的核心画面是"一间空房间"。拉丁语 *vacare* = 空闲。想象你走进一家酒店，看到门上挂着"Vacant"——有空房。这就是 vacant 的基本含义。后来扩展到"职位空缺"——The position has been vacant for months（这个职位已经空缺了好几个月）。再到"表情空洞"——He had a vacant look on his face（他脸上带着茫然的表情）。注意 vacant 和 [[blank]] 的区别：vacant 强调"本该有人但没人"，blank 强调"表面没有内容"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[occupied]]：被占用的（vacant 的反义：空着↔被占用）
 > - [[full]]：满的（vacant 的反义：空的↔满的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **vacant seat/room/position**：空座位/空房间/空缺职位
 > - **vacant lot**：空地
 > - **vacant stare/look/expression**：茫然的凝视/表情
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company has been trying to fill the vacant position of chief financial officer for over three months."（公司已经试图填补首席财务官的空缺职位超过三个月了——考研阅读职场话题相关表达）
 > - "She stared with a vacant expression, as if her mind were somewhere far away."（她带着茫然的表情凝视着，仿佛心已经飘到了远方——考研阅读心理描写相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

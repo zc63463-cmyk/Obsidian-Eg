@@ -3,17 +3,14 @@ title: "advisable"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 值得被建议的、明智的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ədˈvaɪzəbl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: id-ident
 network_activation: [词根, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**值得被建议的、明智的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **明智的；可取的**（评价层面——值得采纳的建议）
@@ -61,7 +58,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > advise（建议）+ -able（可以被……的）→ 可以被建议的 → 明智的。
@@ -83,7 +80,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,12 +92,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inadvisable]]：不明智的；不可取的（advisable 的直接反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +110,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **it is advisable to do sth.**：做某事是明智的
   - It is advisable to check the weather forecast before traveling.（旅行前查看天气预报是明智的。）
 - **highly advisable**：强烈建议的
@@ -121,21 +118,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "It is advisable to make a backup copy of all important files."（建议对所有重要文件进行备份。）——考研阅读真题
 > - "It would be advisable to seek professional advice before making any investment decisions."（在做任何投资决定之前，寻求专业建议是明智的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

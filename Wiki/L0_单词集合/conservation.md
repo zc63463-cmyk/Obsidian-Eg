@@ -3,17 +3,14 @@ title: "conservation"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 保持、保存不被破坏
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌkɒnsəˈveɪʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: serv
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**保持不变**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **保持不变**（时间层面）
@@ -67,7 +64,7 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > serv-（保持）→ 想象你小心翼翼地把一件珍贵文物放进密封箱中保存 → conservation = 保护保存。
@@ -90,7 +87,7 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +99,14 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[destruction]]：破坏（保护 vs 破坏）
 > - [[waste]]：浪费（节约 vs 浪费）
 - [[consumption]]：消耗（保存 vs 消耗，本批次同族词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conservation of**：...的保护（The conservation of wildlife is a global priority.）
 > - **conservation area**：保护区（The forest was designated as a conservation area.）
 > - **energy conservation**：能源节约（Energy conservation is essential for sustainable development.）
@@ -133,18 +130,12 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption."（节约能源、改用其他燃料以及能源密集型重工业重要性的下降，都减少了石油消费。）——2002年阅读Text3
 > - "We tend to look on nature conservation as some kind of favour that human beings are granting to the natural world."（我们往往把自然保护看作是人类给予自然界的一种恩惠。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

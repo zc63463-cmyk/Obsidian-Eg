@@ -3,14 +3,12 @@ title: "stamp"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 用力踩踏（脚重重地踩在地上）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/stæmp/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用力踩踏**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **用力踩踏**（物理动作）
@@ -69,7 +67,7 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stamp 的核心动作是"用力踩下"。想象一个愤怒的孩子在地上跺脚——stamp！这个动作的核心是"用力按下留下痕迹"。官员在文件上用力按下印章——stamp！邮局在信封上用力按下邮戳——stamp！一个人的作品带有独特的风格——it bears his stamp。stamp 就是"用力按下，留下你的痕迹"。
@@ -92,7 +90,7 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[erase]]：擦除（stamp 的反义：盖章留下标记 vs 擦除标记）
 > - [[remove]]：移除（stamp 的反义：印上 vs 移除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stamp one's foot**：跺脚
 > - **postage stamp**：邮票
 > - **bear the stamp of**：带有……的印记/特征
@@ -129,19 +127,15 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The proposal bears the stamp of his genius.（这个提案带有他天才的印记。）
 > - She stamped her feet in frustration.（她沮丧地跺脚。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

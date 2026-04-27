@@ -3,14 +3,12 @@ title: "revenge"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 重新惩罚→报复
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈvendʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(回/重新) + venge(惩罚，源自拉丁语 vindicare) → 回报惩罚 →
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**回报惩罚**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **回报惩罚**（社会互动层面）
@@ -65,7 +63,7 @@ re-(回/重新) + venge(惩罚，源自拉丁语 vindicare) → 回报惩罚 →
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(回/重新) + venge(惩罚，源自拉丁语 vindicare) → 回报惩罚 →
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > re-(回) + venge(惩罚) → 回报惩罚 → 报复
@@ -87,7 +85,7 @@ re-(回/重新) + venge(惩罚，源自拉丁语 vindicare) → 回报惩罚 →
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ re-(回/重新) + venge(惩罚，源自拉丁语 vindicare) → 回报惩罚 →
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - forgiveness：宽恕（revenge 是报复，forgiveness 是宽恕）
 > - mercy：仁慈（revenge 是报复，mercy 是仁慈）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ re-(回/重新) + venge(惩罚，源自拉丁语 vindicare) → 回报惩罚 →
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take revenge on sb.**：向某人报复（He took revenge on his former employer by leaking confidential information. 他通过泄露机密信息来报复前雇主。）
 > - **in revenge for...**：作为对……的报复（She resigned in revenge for being passed over for promotion. 她因未被提拔而辞职报复。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They know that some of the informants may be forgetful, mistaken, dishonest, or motivated by a desire for publicity or even revenge."（他们知道有些线人可能健忘、犯错、不诚实，或者出于对曝光甚至报复的渴望而行动。）——考研高频表达
 > - "He took revenge on his former employer by leaking confidential information to the press."（他通过向媒体泄露机密信息来报复前雇主。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

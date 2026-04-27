@@ -3,14 +3,12 @@ title: "code"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 代码/法典
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kəʊd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**法典/系统化规则**"为统筹中心，沿**抽象路径**向外扩展：
 >
 > 1. **法典/法规**（法律层面：系统化的法律条文）
@@ -67,7 +65,7 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > code 来自拉丁语 codex，原义是"刻在木板上的法律条文"。所以 code 的本质是"规则体系"——法律条文是 code（法典），计算机指令是 code（代码），秘密符号是 code（密码），做人做事的标准也是 code（行为准则）。
@@ -90,7 +88,7 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[decode]]：解码（code 的反义操作）
 > - code（编码）与 decode（解码）是典型的词对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **code of conduct**：行为准则
   - All employees must follow the company's code of conduct.（所有员工必须遵守公司的行为准则。）
 > - **source code**：源代码
@@ -129,22 +127,16 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All employees are expected to comply with the company's code of conduct."（所有员工都应遵守公司的行为准则。）——考研高频表达
 > - "Scientists have cracked the genetic code, opening new possibilities for treating diseases."（科学家已经破解了遗传密码，为治疗疾病开辟了新的可能性。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

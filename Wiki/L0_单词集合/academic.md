@@ -3,17 +3,14 @@ title: "academic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 柏拉图的学园
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌækəˈdemɪk/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**柏拉图的学园**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **柏拉图的学园**（机构层面）
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 柏拉图在雅典郊外的橄榄树林里建了第一所"大学"——Akademeia。这个名字太有名了，以至于后来所有跟学问有关的东西都叫 academic。学术研究是 academic，学年是 academic year，学者是 academic。甚至当你批评一个人"太学术了"（不切实际），也是在说他像柏拉图学园里的哲学家——只谈理论不接地气。
@@ -94,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[practical]]：实际的，实用的→ academic（纯理论的）的反义（理论↔实践）
 > - [[vocational]]：职业的→ academic（学术的）的反义（学术教育↔职业教育）
 > - [[nonacademic]]：非学术的→ academic 的直接否定
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **academic research**：学术研究
 > - **academic year**：学年
 > - **academic performance/achievement**：学业成绩/成就
@@ -137,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "academic freedom is essential to the progress of knowledge."（学术自由对知识进步至关重要。）——教育类阅读
 > - "academic performance"（学业表现）——教育、社会类阅读高频搭配
 > - "an academic discussion with no practical implications"（没有实际意义的纯理论讨论）——批评类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "gap"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 张开的大口，豁口
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɡæp/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**张开的大口，豁口**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **张开的大口**（物理空间层面）
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gap 来自一个"**打哈欠**"的动作（PIE *\*ghieh-*）——嘴巴张大，中间形成一个**大豁口**。这个豁口就是 gap。墙壁上有个**缺口**是 gap，两代人之间有**代沟**是 gap，知识中有**空白**是 gap，市场上还有**空缺**（market gap）。记住：gap 就是"**本应连在一起却断开的地方**"。
@@ -97,7 +95,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,14 +109,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bridge]]：弥合，连接（gap 的精确反义操作：bridge the gap 弥合差距）
 > - [[fill]]：填补（fill the gap 填补空白）
 > - [[continuity]]：连续性（断裂的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **generation gap**：代沟
 > - **bridge/narrow/close the gap**：弥合/缩小差距
 > - **fill the gap**：填补空白
@@ -140,22 +138,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The generation gap between parents and children has widened."（父母与子女之间的代沟扩大了）——考研阅读常见话题，社会类
 > - "narrowing the gap between rich and poor"（缩小贫富差距）——经济/社会政策类阅读
 > - "fill a gap in the research"（填补研究空白）——学术类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

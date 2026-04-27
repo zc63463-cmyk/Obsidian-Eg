@@ -3,17 +3,14 @@ title: "born"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 出生；诞生的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/bɔːrn/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: born
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ born（出生，bear 的过去分词）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**从母体中诞生**"为统筹中心，沿**时间路径**向外扩展：
 
@@ -63,7 +60,7 @@ born（出生，bear 的过去分词）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -74,7 +71,7 @@ born（出生，bear 的过去分词）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 婴儿 born（出生）的那一刻，一个新的生命来到世界——born 标志着存在的起点
@@ -86,7 +83,7 @@ born（出生，bear 的过去分词）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ born（出生，bear 的过去分词）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[die]]：<born 出生 vs die 死亡>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -114,27 +111,21 @@ born（出生，bear 的过去分词）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **be born in/into**（出生于）：She was born in 1990.（她出生于1990年。）
 - **born with**（天生具有）：He was born with a gift for music.（他天生具有音乐天赋。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - She was born into a wealthy family.（她出生于一个富裕的家庭。）
 - He is a born leader.（他是一个天生的领导者。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

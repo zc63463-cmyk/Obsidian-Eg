@@ -3,14 +3,12 @@ title: "confirm"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 使更坚定、使更强
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈfɜːm/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使更坚定**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使更坚定**（心理层面——让信念更坚固）
@@ -66,7 +64,7 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（完全地）+ firm（坚固）：想象你听到一个消息，然后用各种证据把它"加固"——这就是 confirm（证实）。就像法官敲下法槌，让判决"更加坚固"——这就是 confirm（批准）。
@@ -89,7 +87,7 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deny]]：否认（确认 vs 否认）
 > - [[contradict]]：反驳，矛盾（证实 vs 反驳）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **confirm that...**：确认……
   > The report confirmed that the economy is recovering. 报告证实经济正在复苏。
 > - **confirm a reservation/appointment**：确认预订/预约
@@ -132,20 +130,14 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The spokesman confirmed that the area was now in rebel hands."（发言人证实该地区现已落入叛乱分子手中。）——考研高频表达
 > - "The sobering aspect of Allen's book is that we have no one else to blame for our present condition except ourselves."（艾伦这本书令人清醒的一面是：对于目前的处境，除了我们自己，我们不能责怪任何人。）——2011年翻译
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

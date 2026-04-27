@@ -3,14 +3,12 @@ title: "spread"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 展开，铺开，延伸
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/spred/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ spread 源自古英语 *sprædan*（伸展、展开），为日耳曼语族固�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**展开，铺开，延伸**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **展开，铺开，延伸**（物理动作层面）
@@ -69,7 +67,7 @@ spread 源自古英语 *sprædan*（伸展、展开），为日耳曼语族固�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ spread 源自古英语 *sprædan*（伸展、展开），为日耳曼语族固�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spread 就是"铺开"。想象你把一块桌布"铺开"在桌上，把果酱"铺开"在面包上，把消息"铺开"到人群中——都是同一个动作。
@@ -92,7 +90,7 @@ spread 源自古英语 *sprædan*（伸展、展开），为日耳曼语族固�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ spread 源自古英语 *sprædan*（伸展、展开），为日耳曼语族固�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[concentrate]]：集中（"散布/扩散"的反义）
 > - [[contain]]：遏制（"蔓延"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,29 +119,23 @@ spread 源自古英语 *sprædan*（伸展、展开），为日耳曼语族固�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spread the word**：传播消息 — Please spread the word about the meeting.
 > - **the spread of**：……的传播/蔓延 — The spread of the Internet has changed our lives.
 > - **spread out**：展开，散开 — The villagers spread out across the valley.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The spread of the Internet has fundamentally changed the way people access information."（互联网的传播从根本上改变了人们获取信息的方式。）——考研高频表达
 > - "The disease spread rapidly across the continent, causing widespread panic."（这种疾病迅速蔓延至整个大陆，引起了广泛的恐慌。）——考研高频表达
 > - "The spread of misinformation on social media has become a serious concern."（社交媒体上虚假信息的传播已成为一个严重的问题。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

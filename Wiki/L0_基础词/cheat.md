@@ -3,14 +3,12 @@ title: "cheat"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 欺骗（用不正当手段获取利益）
-extension_dim: 行为-对象扩展
+extension_dim: [行为-对象扩展]
 phonetic: "/tʃiːt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**欺骗（用不正当手段获取利益）**"为统筹中心，沿行为-对象扩展向外扩展：
 >
 > 1. **欺骗**
@@ -67,7 +65,7 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cheat 可能源自"没收的财物"——用不正当手段把别人的东西据为己有就是 cheat。考试时 cheat（作弊）是用不正当手段获取分数，感情中 cheat（出轨/欺骗）是用不正当手段获取信任。一个 cheat（骗子）就是专门用不正当手段获利的人。
@@ -90,7 +88,7 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[honest]]：诚实的（cheat 的精确反义：欺骗↔诚实）
 > - [[fair]]：公平的（cheat 的反义：不正当↔公平）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cheat on a test**：考试作弊
 > - **cheat sb out of sth**：骗取某人某物
 > - **cheat sb into doing sth**：诱骗某人做某事
@@ -138,19 +136,15 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Cheating is a non-cognizable crime, for example cheating, fraud, forgery, bigamy, selling underweight or adulterated food or creating a public nuisance."（作弊是一种非可诉犯罪，例如作弊、欺诈、伪造、重婚、销售分量不足或掺假食品或制造公共妨害——Kanyashree Exposure Visits Guidelines）
 > - "He tried to cheat the old lady out of her savings."（他试图骗取那位老妇人的积蓄。——高考英语核心词精讲）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "arrest"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 让人停下来站住不动
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈrest/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**让人停下来站住不动**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **让人停住**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > arrest = ad（朝向）+ rest（站住，与 [[st-sta-stat]] 同源）。想象警察大喊"站住！"，嫌疑人不得不停下来——这就是 arrest。ad（朝向）+ rest（站住）= 让人停住 = 逮捕。后来 arrest 从"让人停住"延伸到"阻止事物"——arrest the spread of disease（阻止疾病蔓延）= 让疾病"停住"。arrest one's attention = 让注意力"停住"在你身上。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[release]]：释放（arrest 的反义：逮捕↔释放）
 > - [[promote]]：促进（arrest 的反义：阻止↔促进）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **under arrest**：被逮捕
 > - **arrest a suspect/criminal**：逮捕嫌疑人/罪犯
 > - **arrest the spread/decline**：阻止蔓延/衰退
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The police arrested several suspects in connection with the series of cyberattacks that targeted major financial institutions last month."（警方逮捕了几名与上个月针对主要金融机构的一系列网络攻击有关的嫌疑人——考研阅读法律话题相关表达）
 > - "Public health officials implemented emergency measures to arrest the spread of the infectious disease before it could reach epidemic proportions."（公共卫生官员实施了紧急措施，以在该传染病达到流行规模之前阻止其蔓延——考研阅读健康话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

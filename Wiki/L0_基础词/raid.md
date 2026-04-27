@@ -3,14 +3,12 @@ title: "raid"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 突然骑马冲入（军事上的突然袭击）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/reɪd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**突然骑马冲入**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **突然骑马冲入**（军事层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > raid 原指骑兵突然冲入敌营劫掠。想象一群骑兵在黎明时分突然冲入一座房子——这就是 dawn raid（黎明突袭）。警察也用同样的方式突击搜查赌场——a police raid on the illegal casino。二战中的空袭叫 air raid。raid 的核心就是"突然冲入"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[defense]]：防御（raid 突袭 ↔ defense 防御）
 > - [[retreat]]：撤退（raid 突入 ↔ retreat 撤退）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **air raid**：空袭
 > - **police raid**：警方突击搜查
 > - **dawn raid**：黎明突袭
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The drugs were found during a police raid on the house."（这些毒品是在警方查抄这栋房子时发现的——考研阅读高频表达）
 > - "They were arrested early this morning after a raid on a house by thirty armed police."（今天早上30名武装警察突击搜查一所房子后将他们逮捕——考研阅读高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

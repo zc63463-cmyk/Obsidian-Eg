@@ -3,14 +3,12 @@ title: "waken"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 使醒来（wake + -en = 使……醒来）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈweɪkən/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使醒来**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使醒来**（身体层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > waken 的核心画面是"轻轻摇醒一个沉睡的人"。wake = 醒来，-en = 使动后缀。waken = 使醒来。She was wakened by the sound of birds（她被鸟鸣声唤醒）。waken 比 wake 更正式、更书面。用于比喻时——The old photographs wakened memories of her childhood（老照片唤起了她童年的记忆）。注意 waken 和 [[awaken]] 的区别：两者几乎同义，但 awaken 更常用于比喻义，waken 更常用于字面义。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sleep]]：睡觉（waken 的反义：唤醒↔入睡）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **waken sb.**：唤醒某人
 > - **be wakened by**：被……唤醒
 > - **waken memories**：唤起记忆
@@ -124,19 +122,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The sudden thunderstorm wakened the entire village in the middle of the night."（突如其来的雷暴在半夜唤醒了整个村庄——考研阅读文学描写相关表达）
 > - "The exhibition wakened public awareness of the urgent need for wildlife conservation."（这次展览唤醒了公众对野生动物保护紧迫需求的认识——考研阅读环保话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

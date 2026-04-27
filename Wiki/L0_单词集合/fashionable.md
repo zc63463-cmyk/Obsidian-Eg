@@ -3,14 +3,12 @@ title: "fashionable"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 符合时尚的→时尚的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfæʃnəbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**符合时尚的→时尚的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **符合时尚的**（服装/外观）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fashionable = fashion（时尚）+ able（符合……的）→ 符合时尚的→时尚的。想象你在挑选衣服，店员说"This is very fashionable"（这件很时尚）——意思是它符合当前的流行趋势。与 [[fashion]]（名词：时尚本身）区分：fashion 是"时尚"这个概念，fashionable 是"时尚的"这个属性。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unfashionable]]：不时尚的，过时的（时尚↔不时尚）
 - [[old-fashioned]]：老式的，守旧的（时尚↔老式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fashionable clothes**：时尚的衣服
 > - **fashionable restaurant**：时尚的餐厅
 > - **fashionable neighborhood**：时尚的街区
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She is always fashionably dressed."（她总是穿着时尚）——生活话题
 > - "It has become fashionable to criticize the government."（批评政府已经成为一种流行做法）——注意 fashionable 用于抽象观点
 > - "The restaurant is popular among fashionable young people."（这家餐厅在时尚年轻人中很受欢迎）——社会话题
@@ -138,15 +136,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

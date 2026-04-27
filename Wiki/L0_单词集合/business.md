@@ -3,14 +3,12 @@ title: "business"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 忙碌的状态、商业事务
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈbɪznəs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**忙碌的状态 → 事务**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **忙碌的状态**（行为层面：在做事）
@@ -68,7 +66,7 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 想象一个商人每天忙得团团转——他很**忙**（busy），因为他有做不完的**生意**（business）。别人问他"你在忙什么？"他说"这是我的**事务**（business）"。从"忙碌"到"商业"，business 的含义就是这样一步步扩展的。
@@ -90,7 +88,7 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[pleasure]]：business（事务/工作）vs pleasure（娱乐/消遣）
 > - [[leisure]]：business（忙碌的事务）vs leisure（闲暇）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **do business with**：与……做生意（We have been doing business with them for over ten years. 我们与他们做生意已经超过十年了。）
 > - **business model**：商业模式（The company needs to innovate its business model to stay competitive. 公司需要创新商业模式以保持竞争力。）
 > - **mind your own business**：少管闲事（Mind your own business and let me handle this. 少管闲事，让我来处理。）
@@ -129,22 +127,16 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government should not interfere with the normal operation of business."（政府不应干涉企业的正常经营。）——考研高频表达
 > - "It is none of your business what other people choose to do with their lives."（别人选择如何度过自己的人生与你无关。）——考研高频表达
 > - "Many small businesses went out of business during the economic recession."（许多小企业在经济衰退期间倒闭了。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

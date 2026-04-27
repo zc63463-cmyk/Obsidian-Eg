@@ -3,14 +3,12 @@ title: "preferable"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 更值得被带到前面
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈprefrəbl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ pre-(在前面) + fer(带来/搬运) + -able(可被……的) → 可被带到�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**更值得被带到前面**"为统筹中心，沿**社会路径**向外扩展：
 >
 > 1. **更值得被带到前面**（价值层面：优先选择）
@@ -65,7 +63,7 @@ pre-(在前面) + fer(带来/搬运) + -able(可被……的) → 可被带到�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ pre-(在前面) + fer(带来/搬运) + -able(可被……的) → 可被带到�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre(在前面) + fer(带来) + able(可以) → 可以被**带到前面**优先考虑的 → 更可取的。
@@ -89,7 +87,7 @@ pre-(在前面) + fer(带来/搬运) + -able(可被……的) → 可被带到�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ pre-(在前面) + fer(带来/搬运) + -able(可被……的) → 可被带到�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[undesirable]]：不受欢迎的，不可取的
 - [[inferior]]：差的，低等的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ pre-(在前面) + fer(带来/搬运) + -able(可被……的) → 可被带到�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **it is preferable to do sth.**：做某事更好
 >   It is preferable to prevent problems than to solve them after they occur.
 > - **preferable to**：比……更可取
@@ -130,20 +128,14 @@ pre-(在前面) + fer(带来/搬运) + -able(可被……的) → 可被带到�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In many cases, a gradual approach to reform is preferable to a sudden, radical change."（在许多情况下，渐进式的改革方式比突然的激进变革更为可取。）——考研高频表达
 > - "For the sake of clarity, a face-to-face discussion would be preferable to exchanging emails."（为了清晰起见，面对面讨论比通过电子邮件交流更为可取。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

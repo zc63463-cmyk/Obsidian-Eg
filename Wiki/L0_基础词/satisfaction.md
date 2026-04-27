@@ -3,14 +3,12 @@ title: "satisfaction"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 足够的量使需求得到满足（满足的状态）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌsætɪsˈfækʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**需求被充分满足**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **需求被满足**（心理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > satisfaction = satis（足够的）+ fac（做）+ -tion = 做得足够 = 满足。拉丁语 *satis* = 足够的。想象一个厨师做菜，客人说"够了够了，太满足了！"——这就是 satisfaction。derive satisfaction from work = 从工作中获得满足感。法律上的 satisfaction = 赔偿（用足够的钱来"满足"损失）。satisfaction 的灵魂是"足够"——做得足够就是满足。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dissatisfaction]]：不满（satisfaction 的精确反义：满意↔不满）
 > - [[frustration]]：挫败感（satisfaction 的反义：满足↔挫败）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **derive satisfaction from**：从……中获得满足
 > - **a sense of satisfaction**：满足感
 > - **to one's satisfaction**：使某人满意的是
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many employees derive greater satisfaction from meaningful work and recognition than from financial rewards alone."（许多员工从有意义的工作和认可中获得的满足感，远超单纯的金钱回报——考研阅读职场话题相关表达）
 > - "The consumer protection law ensures that buyers can seek satisfaction from manufacturers for defective products."（消费者保护法确保买家能就缺陷产品向制造商寻求赔偿——考研翻译法律话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

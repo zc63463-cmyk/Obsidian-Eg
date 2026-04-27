@@ -3,14 +3,12 @@ title: "finance"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 结清债务，终结账目
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfaɪnæns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**结清债务，终结账目**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **结清债务，终结账目**（经济行为层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > finance 来自拉丁语 finis（终结）。想象你欠了一笔钱，到了**终点**必须**结清**——这个"了结账目"的动作就是 finance。后来人们发现，"了结账目"需要一整套资金管理体系，于是 finance 就变成了"金融"。当你为项目**提供资金**时，就是在帮它"终结资金缺口"。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[debt]]：债务（finance 作为"资金"的反义状态）
 > - [[deficit]]：赤字，亏空（finance 作为"财力"的反义状态）
 > - [[bankruptcy]]：破产（finance 作为"财务状况"的反义极端）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **finance a project**：为项目提供资金/融资
 > - **personal/public finances**：个人/公共财务
 > - **the finance department/industry**：财务部门/金融行业
@@ -137,7 +135,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "finance the construction of infrastructure"（为基础设施建设提供资金）——考研阅读经济类话题高频搭配
 > - "the global financial crisis"（全球金融危机）——考研阅读/翻译高频表达
 > - "personal finances are under pressure"（个人财务状况承压）——社会类阅读常见表达
@@ -145,15 +143,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "eject"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 扔出去
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪˈdʒekt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外扔出去**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **向外扔出去**（物理层面）
@@ -67,7 +65,7 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > e（向外）+ ject（投掷）→ 向外扔出去。章鱼遇到危险时 eject 墨水（喷射墨汁），闹事球迷被 eject 出酒吧（驱逐），按按钮 eject 光盘（弹出）——都是"向外扔"。
@@ -89,7 +87,7 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inject]]：注射，注入（eject 是向外扔，inject 是向内投——方向相反）
 > - [[admit]]：接纳，允许进入（驱逐的反义：允许进入）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,25 +125,21 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **eject sb. from**：将某人从……驱逐出去
 > - **eject a substance/liquid**：喷射物质/液体
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When endangered, octopuses eject an inky substance, which is used as a screen."（遇到危险时，章鱼能喷射一种墨水状液体作为掩护——考研阅读科普类语料）
 > - "If the voters go further and eject Mr. Johnson from the leadership, the party will face a crisis."（如果选民进一步将约翰逊先生从领导层驱逐出去，该党将面临危机——考研政治类阅读模拟）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

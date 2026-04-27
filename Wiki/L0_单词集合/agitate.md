@@ -3,14 +3,12 @@ title: "agitate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 反复搅动、驱使
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈædʒɪteɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复搅动、驱使**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **反复搅动**（物理动作层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > agitate = agit（反复搅动）+ ate（动词）。想象你在一个大锅里**反复搅动**——搅动的是液体（物理义），搅动的是人心（焦虑义），搅动的是群众（煽动义）。记住 agit = 反复搅动，agitate 就是"搅动"。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,7 +107,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：使平静（agitate 的精确反义：搅动↔平息）
 > - [[soothe]]：安抚，缓和（情绪层面反义）
 > - [[settle]]：使安定（状态层面反义）
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **agitate for sth.**：鼓动/争取某事（agitate for better conditions / reform）
 > - **be agitated / feel agitated**：感到焦虑不安
 > - **agitate the mixture / liquid**：搅动混合物/液体
@@ -141,7 +139,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The women who worked in these mills had begun to agitate for better conditions."（在这些工厂做工的妇女们开始鼓动要求改善工作条件）——常见社会话题
 > - "Don't agitate yourself over it."（别为这件事焦虑不安）——日常语境
 > - "Agitate the mixture to dissolve the powder."（搅动混合物使粉末溶解）——实验/化学语境
@@ -149,15 +147,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

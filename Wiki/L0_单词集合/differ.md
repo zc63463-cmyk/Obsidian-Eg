@@ -3,14 +3,12 @@ title: "differ"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 分开搬运（各自不同）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈdɪfə(r)/"
 pos: vi.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分开搬运（各自不同）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **分开搬运**（空间层面——事物分离到不同方向）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dis（分开）+ fer（搬运）：把东西**分开搬运**到不同方向 → 它们就"不同"了。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[agree]]：同意；一致
 > - [[resemble]]：相似；像
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **differ from**：与……不同
   > Chinese culture differs significantly from Western culture in many aspects.（中国文化在许多方面与西方文化显著不同。）
 > - **differ with sb. on/about sth.**：在某事上与某人意见不合
@@ -130,22 +128,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Opinions differ on whether the new policy will be effective.（关于新政策是否有效，各方意见不一。）
 > - The approaches adopted by different countries differ considerably.（不同国家采取的方法差异很大。）
 > - Scientists still differ on the exact cause of the phenomenon.（科学家们对该现象的确切成因仍存在分歧。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

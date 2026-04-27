@@ -3,14 +3,12 @@ title: "formal"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 正式的/形式的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈfɔːml/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**正式的/有固定形式的**"为统筹中心，沿**社会路径**向外扩展：
 >
 > 1. **正式的/庄重的**（社会层面：遵循礼仪和规则的）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > formal = form（形式）+ -al（……的）。有固定"形式"的就是 formal。正式场合有固定的礼仪形式（formal occasion），形式上的协议只有形式没有实质（formal agreement），整齐的花园有规整的形式（formal garden）。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[informal]]：非正式的（in- 不 + formal 正式的）
 > - [[casual]]：随意的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **formal education**：正规教育
   - Formal education plays a crucial role in personal development.（正规教育在个人发展中起着至关重要的作用。）
 > - **formal agreement**：正式协议
@@ -129,22 +127,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A formal education provides individuals with essential knowledge and skills for their future careers."（正规教育为个人提供未来职业所需的基本知识和技能。）——考研高频表达
 > - "The two countries established formal diplomatic relations after decades of hostility."（两国在数十年的敌对之后建立了正式外交关系。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

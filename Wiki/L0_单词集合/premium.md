@@ -3,14 +3,12 @@ title: "premium"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 在前面拿到的额外部分→额外费用
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpriːmiəm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ pre-(在前面) + em(拿、取) + -ium(名词后缀，表"物")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**额外费用、保险费**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **额外费用、保险费**（经济层面——预先支付的额外金额）
@@ -67,7 +65,7 @@ pre-(在前面) + em(拿、取) + -ium(名词后缀，表"物")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ pre-(在前面) + em(拿、取) + -ium(名词后缀，表"物")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 praemium "战利品、奖励"，由 prae-(前) + emere(买、拿) 构成。买保险时先"拿走"你的钱，出事再赔给你。
@@ -91,7 +89,7 @@ pre-(在前面) + em(拿、取) + -ium(名词后缀，表"物")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ pre-(在前面) + em(拿、取) + -ium(名词后缀，表"物")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[discount]]：折扣（额外费用 vs 减免费用）
 > - [[inferior]]：劣质的（优质 vs 劣质，形容词义项对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,27 +120,21 @@ pre-(在前面) + em(拿、取) + -ium(名词后缀，表"物")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pay a premium for**：为……付溢价（Consumers are willing to pay a premium for organic products.）
 > - **at a premium**：奇缺的、溢价地（Space is at a premium in this city.）
 > - **premium quality**：优质品质
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Consumers are willing to pay a premium for organic food products that are perceived as healthier."（消费者愿意为被认为更健康的有机食品支付溢价。）——考研高频表达
 > - "In a competitive job market, employers place a premium on candidates with strong communication skills."（在竞争激烈的就业市场中，雇主高度重视具有较强沟通能力的候选人。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

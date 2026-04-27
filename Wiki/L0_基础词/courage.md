@@ -3,14 +3,12 @@ title: "courage"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 心中的力量，勇敢
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈkʌrɪdʒ/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -42,7 +40,7 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**心中的力量，勇敢**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **心中的力量，勇敢**（身体层面）
@@ -63,7 +61,7 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > courage 来源于拉丁语 cor（心）。古人认为心脏是勇气和情感的来源——当你的心在"砰砰"跳的时候，你正在鼓起勇气。courage = cour（心）+ age（状态）= 心中的力量 = 勇气。同源词：[[encourage]]（把勇气放进别人心里→鼓励），[[discourage]]（把勇气从心里拿走→使气馁）。
@@ -85,7 +83,7 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cowardice]]：懦弱（courage 的精确反义：勇气↔懦弱）
 > - [[fear]]：恐惧（courage 的反义：勇敢↔恐惧）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have the courage to do something**：有勇气做某事
 > - **moral courage**：道德勇气
 > - **take courage**：鼓起勇气
@@ -127,19 +125,15 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It takes courage to stand up for what you believe in."（为信念挺身而出需要勇气）
 > - "She showed remarkable courage in the face of adversity."（她在逆境中展现了非凡的勇气）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

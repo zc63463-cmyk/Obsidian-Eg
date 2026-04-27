@@ -3,17 +3,14 @@ title: "coupon"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 从文件上剪下来的票证
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈkuːpɒn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: coupe
 network_activation: [词根, 同义辨析]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从文件上剪下来的票证**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **从文件上剪下来的票证**（物理层面）
@@ -64,7 +61,7 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > coupon 来源于法语 couper（切割）。想象你拿着一把剪刀，从报纸上剪下一张打折券——那就是 coupon。coupon 的本质就是"剪下来的那张纸"，剪下来可以打折，也可以兑换利息。
@@ -86,7 +83,7 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（coupon 是具体商业概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +110,7 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **discount coupon**：折扣券
 > - **clip/cut a coupon**：剪优惠券
 > - **zero-coupon bond**：零息债券
@@ -121,19 +118,15 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Customers can use the coupon to get a 20% discount on their next purchase."（顾客可以使用优惠券在下次购物时享受八折优惠）
 > - "Zero-coupon bonds are sold at a discount and pay no interest until maturity."（零息债券以折价出售，到期前不支付利息）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "tangible"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 可以被触摸到的东西
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈtændʒəbl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可以被触摸到的东西**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可触摸的**（物理层面）
@@ -67,7 +65,7 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tangible = tang（触摸）+ ible（可以……的）= 可以被触摸的。你能用手摸到的东西就是 tangible（有形的）——桌子、手机、金钱都是 tangible 的。但想法、感情、品牌价值是 intangible（无形的）。后来 tangible 延伸到"确凿的"——tangible evidence 就是你能"摸得到"的实实在在的证据。tangible 的核心就是"实实在在的"。
@@ -89,7 +87,7 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[intangible]]：无形的（tangible 的精确反义：有形↔无形）
 > - [[abstract]]：抽象的（tangible "有形的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tangible assets**：有形资产
 > - **tangible evidence**：确凿的证据
 > - **tangible benefits/results**：切实的益处/成果
@@ -130,19 +128,15 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company needs to deliver tangible results to satisfy its shareholders."（公司需要提供切实的成果来满足股东。——考研阅读商业话题高频表达）
 > - "There is as yet no tangible evidence to support the hypothesis that climate change is solely caused by human activity."（目前还没有确凿的证据支持气候变化完全由人类活动造成的假设。——考研阅读科学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "he"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 那个男性（指代特定男性个体）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/hiː/"
 pos: pron.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -46,7 +43,7 @@ he 为古英语基本代词，源自原始日耳曼语 *hiz，与拉丁语 *is*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**那个男性**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **那个男性**（指代层面）
@@ -69,7 +66,7 @@ he 为古英语基本代词，源自原始日耳曼语 *hiz，与拉丁语 *is*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ he 为古英语基本代词，源自原始日耳曼语 *hiz，与拉丁语 *is*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > he 是英语最基础的代词，就像中文的"他"。记住：he = 他，指代男性；泛指时 he who = 凡……的人。
@@ -92,7 +89,7 @@ he 为古英语基本代词，源自原始日耳曼语 *hiz，与拉丁语 *is*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ he 为古英语基本代词，源自原始日耳曼语 *hiz，与拉丁语 *is*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[she]]：她（性别对立：男性↔女性）
 > - [[it]]：它（人称对立：有生命↔无生命/非人）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,25 +123,21 @@ he 为古英语基本代词，源自原始日耳曼语 *hiz，与拉丁语 *is*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **he who...**：凡……的人（谚语结构）
 > - **he said / he thought**：他说/他认为（学术写作常见引用结构）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He is referring to the upsurge of interest in mobile television, a nascent industry at the intersection of telecoms and media which offers new opportunities to device-makers, content-providers and telecoms operators alike."（他指的是人们对移动电视兴趣的激增，这是电信和媒体交汇处的一个新兴行业，为设备制造商、内容提供商和电信运营商提供了新的机会——2010年考研英语同源难句）
 > - "He has not been charged with the task of approaching any but the factual aspects of those problems."（他并未被赋予去处理那些问题中除事实层面以外任何方面的任务——考研英语长难句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "conversion"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 共同转向（一起转向新的方向）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈvɜːʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全转向**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **完全转向**（方向层面）
@@ -66,7 +64,7 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（完全）+ vers（转，[[ver-vert]]）+ ion → 完全转向 → 转变/转化。太阳能板进行 energy conversion（能量转化）——把阳光"转向"电能。出国旅游时做 currency conversion（货币转换）——把人民币"转向"美元。一个人经历了 religious conversion（宗教皈依）——他的信仰"转向"了新的方向。conversion 的精髓是"转向"——从一个方向完全转到另一个方向。
@@ -88,7 +86,7 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[preservation]]：保存（conversion 的反义：转变↔保存原样）
 > - [[stagnation]]：停滞（conversion 的反义：转变↔停滞不动）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **energy conversion**：能量转化
 > - **currency conversion**：货币转换
 > - **conversion from A to B**：从A到B的转变
@@ -128,19 +126,15 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The conversion of forests into farmland has led to significant environmental problems."（森林转化为农田导致了严重的环境问题）
 > - "The conversion rate of website visitors to customers is a key metric for online businesses."（网站访客转化为客户的转化率是线上企业的关键指标）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

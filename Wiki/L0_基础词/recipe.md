@@ -3,14 +3,12 @@ title: "recipe"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 拿这个！（医生的处方指令→烹饪指南）
-extension_dim: 指令路径
+extension_dim: [指令路径]
 phonetic: "/ˈresəpi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拿这个！（医生的处方指令→烹饪指南）**"为统筹中心，沿指令路径向外扩展：
 >
 > 1. **拿这个**（指令层面）
@@ -66,7 +64,7 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > recipe 的故事非常有趣。它源自拉丁语 *recipere* 的祈使形式，意思是"拿这个！"（Take!）。想象一个中世纪的医生，在羊皮纸上写下一行行药材名称，最开头用大字写着"Recipe!"——意思是"药剂师，拿这些药材来配药！"后来，人们把这个词从药房带进了厨房。厨师们也开始写"配方"——只不过不再是药材，而是面粉、鸡蛋、糖。再后来，recipe 的含义进一步扩展：a recipe for success（成功的秘诀），就像一份好的食谱能保证做出好菜一样。
@@ -91,7 +89,7 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - recipe 作为"食谱/秘诀"没有精确反义词，但可关联：
 > - [[failure]]：失败（a recipe for success 的反面）
 > - [[disaster]]：灾难（a recipe for disaster 的结果）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a recipe for success**：成功的秘诀
 > - **a recipe for disaster**：灾难的根源
 > - **follow a recipe**：按照食谱做
@@ -134,20 +132,16 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Recipe was a doctor's command, not a cook's instruction — the Latin imperative 'Take!' written at the top of every prescription."（Recipe 是医生的命令，而非厨师的指导——写在每张处方顶端的拉丁语祈使词"拿！"。——Merriam-Webster）
 > - "There is no sure recipe for success."（没有绝对成功的秘诀。——Cambridge Dictionary）
 > - "His manner was a recipe for disaster."（他的行事方式简直是自寻灾难。——Oxford Learner's Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

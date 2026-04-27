@@ -3,14 +3,12 @@ title: "intersection"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 交叉点，十字路口（两条线在中间交叉的地方）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌɪntəˈsekʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在中间交叉的地方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在中间交叉**（空间层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inter（在……之间）+ sect（切）→ 在中间交叉切割 → intersection。想象两条马路像两把刀一样在中间交叉——交叉的地方就是 intersection（十字路口）。数学中两个圆交叉的部分也是 intersection（交集）。intersection 就是"交叉的地方"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[divergence]]：分歧，分叉（intersection 的反义：交叉↔分叉）
 > - [[parallel]]：平行（intersection 的反义：交叉↔平行）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at the intersection of**：在……的交叉处
 > - **traffic intersection**：交通十字路口
 > - **the intersection of A and B**：A与B的交集/交汇
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The accident occurred at the intersection of Main Street and Oak Avenue."（事故发生在主街和橡树大道的交叉路口。）
 > - "Innovation often occurs at the intersection of different disciplines."（创新往往发生在不同学科的交汇处。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "mathematical"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 学习得来的知识
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌmæθəˈmætɪkl/"
 pos: adj.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**学习得来的知识**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **学习得来的知识**（认知层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mathematical 的祖先在希腊语中就是"学习"——*manthanein*（学习）→ *mathēma*（知识）→ *mathēmatikos*（数学的）。想象古希腊的学者们，他们认为最值得"学习"的知识就是数学，所以"数学的"就是"最值得学习的"。而数学最突出的品质就是精确，所以 mathematical 也意味着"精确严密的"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[intuitive]]：直觉的（凭直觉而非数学推导的）
 > - [[vague]]：模糊的，不精确的（mathematical precision 的反义）
 > - [[approximate]]：近似的，大约的（数学精确性的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mathematical model**：数学模型
 > - **mathematical precision**：数学般的精确性
 > - **mathematical probability**：数学概率
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "mathematical models of economic behavior"（经济行为的数学模型）——考研阅读常见搭配，社科类文章中描述研究方法
 > - "with mathematical precision"（以数学般的精确性）——考研翻译/阅读中描述分析的严谨性
 > - "mathematical probability"（数学概率）——考研阅读中统计类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

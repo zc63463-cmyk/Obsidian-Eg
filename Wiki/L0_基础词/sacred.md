@@ -3,14 +3,12 @@ title: "sacred"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 献给神的（被神圣化、不可侵犯的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈseɪkrɪd/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**献给神的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **献给神的（宗教层面）**
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sacred 来自拉丁语 sacer（献给神的）。古罗马人把最好的东西献给神——献给神的东西就是 sacred（神圣的），普通人不能触碰，否则会招致神罚。后来"神圣的"延伸到世俗领域：人权是 sacred rights（神圣不可侵犯的权利），对国家的承诺是 a sacred duty（神圣的职责）。sacred 的核心始终是"不可触碰的敬畏感"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[profane]]：亵渎的，世俗的（sacred 的精确反义：神圣↔亵渎）
 > - [[secular]]：世俗的（sacred 的反义：宗教的↔世俗的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sacred rights**：神圣不可侵犯的权利
 > - **sacred duty**：神圣的职责
 > - **sacred texts/scriptures**：神圣的经文
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Highlights include China's most sacred peaks at Mount Tai and Hangzhou's rolling hills, waterways and peaceful temples."（精彩之处包括中国泰山最神圣的山峰和杭州起伏的山丘、运河和宁静的寺庙——2020年高考/考研相关语料）
 > - "Freedom of speech is considered a sacred right in democratic societies."（言论自由在民主社会中被视为一项神圣不可侵犯的权利——考研阅读政治话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

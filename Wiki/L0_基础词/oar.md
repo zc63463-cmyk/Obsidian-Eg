@@ -3,17 +3,14 @@ title: "oar"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 划水的扁平木桨（用来推动船只前进的工具）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɔːr/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**划水的扁平木桨**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **桨**（工具层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > oar 的核心画面是"桨"。古英语 *ār* 就是桨的意思，是一个古老的日耳曼本族词。记住两个形象短语："put one's oar in"（多管闲事——别人划船你伸桨）和 "rest on one's oars"（歇口气——划累了放下桨）。oar 和 ore（矿石）同音，但意思完全不同——桨是木头的，矿石是从地下挖的。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（工具名词，无天然反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **put one's oar in**：多管闲事，插手
 > - **rest on one's oars**：歇息，暂时停止努力
 > - **row with oars**：用桨划船
@@ -124,19 +121,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The fishermen rowed their wooden boats with long oars through the misty lake at dawn."（渔民们在黎明时分用长桨划着木船穿过薄雾笼罩的湖面——考研阅读描写类表达）
 > - "He always puts his oar in when it comes to other people's business, which annoys everyone around him."（他总是在别人的事情上多管闲事，这让周围所有人都很烦——考研翻译日常表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "research"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 反复搜寻以发现新知识
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈsɜːtʃ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(反复) + [[search|search]](搜寻) → 反复搜寻 → 研究
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复搜寻以获取知识**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **反复搜寻**（行为层面：系统地搜集信息）
@@ -65,7 +63,7 @@ re-(反复) + [[search|search]](搜寻) → 反复搜寻 → 研究
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(反复) + [[search|search]](搜寻) → 反复搜寻 → 研究
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re-(反复) + search(搜寻) → 科学家在实验室里反复搜寻答案 = 研究。
@@ -88,7 +86,7 @@ re-(反复) + [[search|search]](搜寻) → 反复搜寻 → 研究
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ re-(反复) + [[search|search]](搜寻) → 反复搜寻 → 研究
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（与研究"深入探查"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,28 +114,22 @@ re-(反复) + [[search|search]](搜寻) → 反复搜寻 → 研究
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conduct/do research**：进行研究
 > - **research findings**：研究成果
 > - **research into/on**：对……进行研究
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Internet — and pressure from funding agencies — is making access to scientific results a reality."（互联网——以及来自资助机构的压力——正在使获取科研成果成为现实。）——2008考研英语二阅读
 > - "Scientists need journals in which to publish their research, so they will supply the articles without monetary reward."（科学家需要期刊来发表他们的研究成果，因此他们会无偿提供论文。）——2020考研英语一阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "entrepreneur"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 承担者、 undertake 的人（承担商业风险的人）
-extension_dim: 角色路径
+extension_dim: [角色路径]
 phonetic: "/ˌɒntrəprəˈnɜːr/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**承担者**"为统筹中心，沿角色路径向外扩展：
 >
 > 1. **承担者**（行动层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > entrepreneur 源自法语 *entrepreneur*，来自 *entreprendre*（着手做、承担）。*entre-* = 在……之间，*prendre* = 拿取（与 [[cap]] 同源）。核心画面：一个人在未知和已知之间"拿取"机会——他就是 entrepreneur（企业家）。entrepreneur 的精髓在于"承担风险"——不是安安稳稳地打工，而是敢于冒险创造新事物。Young entrepreneurs are driving innovation in the tech industry（年轻的创业者正在推动科技行业的创新）。注意发音：/ˌɒntrəprəˈnɜːr/，重音在最后一个音节。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[employee]]：雇员（entrepreneur 的精确反义：创业者↔雇员）
 > - [[bureaucrat]]：官僚（entrepreneur 的反义：创新者↔守规者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a successful entrepreneur**：一位成功的企业家
 > - **young entrepreneurs**：年轻的创业者
 > - **entrepreneurial spirit**：企业家精神
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Successful entrepreneurs are often characterized by their willingness to take calculated risks and their ability to adapt to changing market conditions."（成功的企业家通常以愿意承担经过计算的风险和适应不断变化的市场条件的能力为特征——考研阅读商业话题）
 > - "The government has introduced a series of policies designed to support young entrepreneurs and stimulate innovation in emerging industries."（政府推出了一系列旨在支持年轻创业者、刺激新兴产业创新的政策——考研阅读政策话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

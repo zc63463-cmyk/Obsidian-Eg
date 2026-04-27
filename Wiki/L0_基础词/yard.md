@@ -3,14 +3,12 @@ title: "yard"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 围栏围起来的地方（古英语 geard = 围栏、住所）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/jɑːd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ yard 有两个不同的词源：
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**围起来的地方**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **围栏围起来的地方**（空间层面）
@@ -70,7 +68,7 @@ yard 有两个不同的词源：
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ yard 有两个不同的词源：
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > yard 的核心画面是"一圈围栏围起来的地方"。古英语 *geard* = 围栏/住所。想象一个美式独栋别墅，前面有 front yard，后面有 back yard——这就是 yard。与 [[garden]]（花园）同源——garden 原来就是"围起来的种植地"。Shipyard（造船厂）= 造船的 yard。另一个含义"码"来自古英语 *gerd*（棍子）——用棍子量出的长度。100-yard dash（百码短跑）是常见表达。
@@ -92,7 +90,7 @@ yard 有两个不同的词源：
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ yard 有两个不同的词源：
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > （yard 作为空间/单位，无直接反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ yard 有两个不同的词源：
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **front/back yard**：前院/后院
 > - **shipyard**：造船厂
 > - **square yard**：平方码
@@ -133,19 +131,15 @@ yard 有两个不同的词源：
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The shipyard, once the largest employer in the region, was forced to close due to declining demand for new vessels."（这家造船厂曾经是该地区最大的雇主，由于对新船的需求下降而被迫关闭——考研阅读经济话题相关表达）
 > - "Children in the neighborhood often gathered in the back yard to play games after school."（附近的孩子放学后经常聚集在后院玩游戏——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

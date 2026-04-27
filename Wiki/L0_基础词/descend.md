@@ -3,14 +3,12 @@ title: "descend"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 从高处向下走
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/dɪˈsend/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从高处向下走**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从高处向下走**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > descend = de（向下）+ scend（攀爬）。你 ascend（向上爬）到山顶后，要 descend（向下爬）回山脚。家族传承也是 descend——从祖先"向下走"到你这一代。夜幕降临就是 darkness descends。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ascend]]：上升，攀登（descend 的精确反义：下降↔上升）
 > - [[climb]]：攀登（descend 的反义：下降↔攀爬）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **descend the stairs/mountain**：走下楼梯/山
 > - **descend from**：起源于，是……的后裔
 > - **descend on/upon**：突然造访，突袭
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the 2006 film version of The Devil Wears Prada, Miranda Priestly explains how the deep blue color of the assistant's sweater descended over the years from fashion shows to department stores and to the bargain bin."（在2006年电影版《穿普拉达的女王》中，米兰达解释了助理毛衣的深蓝色如何多年来从时装秀降级到百货商店再到特价区——2006年考研相关语料）
 > - "The path descends to the valley below."（小路向下延伸到下面的山谷——常见搭配用法）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

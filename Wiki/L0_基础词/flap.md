@@ -3,14 +3,12 @@ title: "flap"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 扁平物上下拍打/摆动
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/flæp/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**扁平物上下拍打/摆动**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **上下拍打**（动作层面）
@@ -67,7 +65,7 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > flap 是拟声词，模仿扁平物拍打时"啪啪"的声音。核心画面是"鸟起飞前用力拍打翅膀"。从"翅膀拍打"出发：flap wings（拍翅膀）、flag flapping in wind（旗帜在风中飘动）、envelope flap（信封口盖——可以翻动的部分）。引申义"慌张"很生动：慌张的人就像被困的鸟一样扑腾——in a flap（慌张不安）。
@@ -90,7 +88,7 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：平静（flap 的反义：慌张↔平静）
 > - [[steady]]：稳定的（flap 的反义：摆动↔稳定）
 > - [[compose]]：镇定（flap 的反义：慌张↔镇定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **flap one's wings**：拍打翅膀
 > - **in a flap**：慌张不安
 > - **envelope / pocket flap**：信封/口袋的口盖
@@ -132,19 +130,15 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The sudden announcement caused quite a flap among employees, who had not been informed about the upcoming restructuring plan."（这一突然的宣布在员工中引起了相当大的慌张，他们事先并未被告知即将进行的重组计划——考研阅读职场话题相关表达）
 > - "Birds flap their wings to generate lift, but the precise mechanism by which they achieve such remarkable manoeuvrability has long puzzled scientists."（鸟类拍打翅膀产生升力，但它们实现如此卓越机动性的精确机制长期以来一直困扰着科学家——考研翻译科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

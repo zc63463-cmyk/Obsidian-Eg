@@ -3,14 +3,12 @@ title: "track"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 踩出的路径
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/træk/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**踩出的路径**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **踩出的路径**（物理空间层面）
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > track 和 trace、tract、trek 是同族词——都来自"拉、拉出"。想象你在森林里踩出一条**小路**（track），猎人沿着动物的**痕迹**（track）一路**跟踪**（track）猎物；火车在**轨道**（track）上行驶，运动员在**跑道**（track）上奔跑。所有这些"track"都是一条可循的路径。
@@ -100,7 +98,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lose]]：失去（失去追踪目标，lose track of）
 > - [[mislead]]：误导（使追踪偏离正确路径）
 > - [[stray]]：偏离（偏离既定路径）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **keep track of**：记录，掌握……的动向
 > - **lose track of**：失去对……的追踪/了解
 > - **on the right/wrong track**：思路正确/错误
@@ -143,22 +141,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is hard to keep track of all the new developments in technology."（很难掌握技术领域所有的新进展。）——考研阅读常见搭配
 > - "The researchers tracked the changes over a period of ten years."（研究人员在十年间追踪了这些变化。）——学术类阅读
 > - "We are on the right track to solving the problem."（我们正在解决问题的正确道路上。）——考研翻译/写作
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

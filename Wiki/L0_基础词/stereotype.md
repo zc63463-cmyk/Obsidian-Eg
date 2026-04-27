@@ -3,14 +3,12 @@ title: "stereotype"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 固定的（铅）印模
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsteriətaɪp/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**固定的印模**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **固定的印模**（物理层面）
@@ -65,7 +63,7 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 18世纪的法国印刷工发明了 stereotype——用坚硬的铅铸造固定版面，印出的每一张报纸都一模一样。后来人们发现，社会对某些群体的看法也像铅版一样"固定不变"——"女性不适合学理工""老年人不会用手机"——这些就是 stereotype（刻板印象）。打破刻板印象就是打破那块"铅版"——break the stereotype。
@@ -88,7 +86,7 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[individuality]]：个性（stereotype 抹杀的就是 individuality）
 > - [[diversity]]：多样性（stereotype 忽视的就是 diversity）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gender/racial stereotype**：性别/种族刻板印象
 > - **break/shatter a stereotype**：打破刻板印象
 > - **fit the stereotype**：符合刻板印象
@@ -126,19 +124,15 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Stereotypes are a type of cognitive shortcut that helps us process information quickly, but they can also lead to prejudice and discrimination."（刻板印象是一种认知捷径，帮助我们快速处理信息，但也可能导致偏见和歧视）
 > - "The media often perpetuates stereotypes about certain groups."（媒体经常延续对某些群体的刻板印象）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

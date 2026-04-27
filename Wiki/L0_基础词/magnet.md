@@ -3,14 +3,12 @@ title: "magnet"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 磁铁（能吸引铁的石头）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmæɡnɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**磁铁**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **吸引铁的石头**（物理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > magnet = 希腊语 *magnēs lithos* = 马格尼西亚的石头。古希腊色萨利的 Magnesia 出产一种能吸引铁的黑色石头——这就是 magnet 的原始画面。古希腊人认为磁铁有"魔力"（与 [[magic]] 同源），因为它能隔空吸引铁。从"物理磁铁"→"有吸引力的人或物"——a magnet for tourists = 旅游胜地（像磁铁一样吸引游客）。magnet school = 磁性学校（以特色课程吸引学生的学校）。与 [[magn]] 词根（大）关联——Magnesia = "伟大的地方"。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[repellent]]：排斥物（magnet 的反义：吸引↔排斥）
 > - [[deterrent]] | 威慑物（magnet 的反义：吸引↔威慑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a magnet for**：……的磁铁/吸引……的地方
 > - **bar magnet**：条形磁铁
 > - **magnetic field**：磁场
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The city has become a magnet for talented young professionals from across the country, drawn by its vibrant tech industry and high quality of life."（这座城市已成为吸引全国各地优秀年轻专业人士的磁石，其充满活力的科技产业和高质量的生活是主要吸引力——考研阅读城市发展话题相关表达）
 > - "The discovery that certain materials could be magnetized and demagnetized at will laid the foundation for the development of modern electrical engineering."（某些材料可以随意磁化和消磁的发现，为现代电气工程的发展奠定了基础——考研翻译科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

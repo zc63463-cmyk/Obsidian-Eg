@@ -3,14 +3,12 @@ title: "stern"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: [sterner, sternest]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 坚硬的，严格的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stɜːrn/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坚硬的，僵硬的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **坚硬的，僵硬的**（物理层面：不易弯曲）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 站（sta）在那里一动不动、面如铁板——这就是stern（严厉的），像船尾（stern）一样坚定不可动摇。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gentle]]：stern是严厉的，gentle是温和的
 > - [[lenient]]：stern是严格的，lenient是宽大的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,27 +122,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stern warning**：严厉的警告（The judge issued a stern warning to the defendant.）
 > - **from stem to stern**：从头到尾，彻底地（The ship was inspected from stem to stern.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The judge issued a stern warning to the defendant."（法官对被告发出了严厉的警告。）——考研高频表达
 > - "She gave her son a stern look when he misbehaved in public."（当儿子在公共场合行为不端时，她给了他一个严厉的眼神。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

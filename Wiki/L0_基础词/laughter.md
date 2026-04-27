@@ -3,17 +3,14 @@ title: "laughter"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 笑声（发出笑的声音和行为）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈlɑːftə/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: laugh
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**笑声**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **笑声**（行为层面）
@@ -64,7 +61,7 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > laughter = laugh（笑）的名词形式。laugh 是动词"笑"，laughter 是名词"笑声"。Laughter is the best medicine（笑是最好的药）。burst into laughter = 突然大笑。注意区分：laugh 可数（a good laugh 一次大笑），laughter 不可数。
@@ -86,7 +83,7 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cry]]：哭（笑↔哭）
 > - [[tears]]：眼泪（笑声↔泪水）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **burst into laughter**：突然大笑
 > - **laughter is the best medicine**：笑是最好的药
 > - **roar with laughter**：哄堂大笑
@@ -126,19 +123,15 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Ancient Greek philosopher Aristotle viewed laughter as 'a bodily exercise precious to health.'"（古希腊哲学家亚里士多德将笑声视为"对健康有益的身体锻炼"——2011年考研英语一完形填空）
 > - "Laughter does produce short-term changes in the function of the heart and its blood vessels, boosting heart rate and oxygen consumption."（笑声确实会引起心脏及其血管功能的短期变化，提高心率和氧气消耗量——2011年考研英语一完形填空）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

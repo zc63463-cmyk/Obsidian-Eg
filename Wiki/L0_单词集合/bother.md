@@ -3,14 +3,12 @@ title: "bother"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 打扰；烦扰
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈbɑːðər/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ bother（打扰/烦恼，词源不确定）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**打扰他人或使自己烦恼**"为统筹中心，沿**社会路径**向外扩展：
 
@@ -63,7 +61,7 @@ bother（打扰/烦恼，词源不确定）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -74,7 +72,7 @@ bother（打扰/烦恼，词源不确定）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 有人不停地在耳边 bother（打扰）你，让你无法专心——bother 就是这种令人心烦的打扰
@@ -86,7 +84,7 @@ bother（打扰/烦恼，词源不确定）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ bother（打扰/烦恼，词源不确定）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[comfort]]：<bother 打扰 vs comfort 安慰>
 - [[ignore]]：<bother 在意/打扰 vs ignore 忽略>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -116,27 +114,21 @@ bother（打扰/烦恼，词源不确定）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **bother sb with sth**（用…打扰某人）：Don't bother me with trivial matters.（别用琐事打扰我。）
 - **not bother to do**（懒得做）：I didn't bother to reply.（我懒得回复。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - Sorry to bother you, but could you help me?（抱歉打扰你，能帮我一下吗？）
 - It doesn't bother me that she's late.（她迟到并不让我烦恼。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

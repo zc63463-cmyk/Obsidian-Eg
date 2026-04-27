@@ -3,14 +3,12 @@ title: "hijack"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 在高处抢劫（公路上从高处拦截马车抢劫）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈhaɪdʒæk/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在高处抢劫**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **公路抢劫**（物理层面）
@@ -67,7 +65,7 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hijack = high（高的）+ jack（劫匪）= 在高处抢劫 = 劫持。18世纪的公路劫匪从高处拦截马车——这就是 hijack。后来扩展为劫持飞机——hijack a plane。再引申为"操纵"——hijack a conversation（操纵对话）。记住 high = 高的：highway（公路 = 高处的路）、highlight（亮点 = 高处的光）。jack 在俚语中指"劫匪"。
@@ -90,7 +88,7 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[release]]：释放（hijack 的反义：劫持↔释放）
 > - [[surrender]]：投降（hijack 的反义：强行夺取↔放弃）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hijack a plane**：劫持飞机
 > - **hijack a vehicle**：劫持车辆
 > - **hijack a meeting**：操纵会议
@@ -132,19 +130,15 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The terrorists hijacked the commercial airliner and demanded the release of their imprisoned comrades in exchange for the safety of the passengers."（恐怖分子劫持了这架商业客机，要求释放他们被关押的同伴以换取乘客的安全——考研阅读国际话题相关表达）
 > - "Critics argued that a small group of legislators had hijacked the reform agenda, pushing forward policies that benefited only a narrow segment of the population."（批评者认为，一小群立法者操纵了改革议程，推行了只惠及少数人的政策——考研翻译政治话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

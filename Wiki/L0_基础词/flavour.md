@@ -3,14 +3,12 @@ title: "flavour"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 吹来的气味/味道
-extension_dim: 感知路径
+extension_dim: [感知路径]
 phonetic: "/ˈfleɪvə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**吹来的气味/味道**"为统筹中心，沿感知路径向外扩展：
 >
 > 1. **吹来的味道**（感官层面）
@@ -67,7 +65,7 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > flavour 来自古法语 *flaor*（气味），通俗拉丁语 *flator* = "吹来的东西"（*flare* = 吹）。核心画面是"一阵微风吹过果园，带来了水果的香甜"。flavour 的词源秘密：它最初不是"味道"而是"吹来的气味"。从"味觉"出发：the flavour of coffee（咖啡的风味）、local flavour（地方特色）、the flavour of the era（时代特色）。flavour 与 taste 的区别：taste 是"味道"，flavour 是"风味"——更丰富、更独特的味觉体验。
@@ -90,7 +88,7 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - flavour 没有精确反义词，属于感官体验类词汇
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **local flavour**：地方风味，地方特色
 > - **the flavour of the era / times**：时代的特色/韵味
 > - **a distinctive / unique flavour**：独特的风味/特色
@@ -133,19 +131,15 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The book captures the unique flavour of life in rural England during the early twentieth century, with vivid descriptions of village customs and traditions."（这本书以生动的村庄风俗和传统描写，捕捉了20世纪初英国乡村生活的独特韵味——考研阅读文学话题相关表达）
 > - "Globalization has led to a certain homogenization of culture, with many cities losing their distinctive local flavour as international chains replace traditional businesses."（全球化导致了某种程度的文化同质化，随着国际连锁店取代传统商业，许多城市失去了其独特的地方特色——考研翻译文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

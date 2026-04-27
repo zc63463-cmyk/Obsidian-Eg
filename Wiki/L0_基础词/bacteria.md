@@ -3,17 +3,14 @@ title: "bacteria"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 微小的杆状微生物
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/bækˈtɪəriə/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**微小的杆状微生物**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **微小的杆状微生物**（科学层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bacteria 就是"细菌"。1838年，德国科学家 Ehrenberg 在显微镜下观察到一种微小的杆状生物，形状像一根根小棍子，于是用希腊语"小棍子"（bakterion）来命名。虽然后来发现细菌有球形（cocci）、螺旋形（spirilla）等多种形态，但"小棍子"这个名字沿用至今。记住：bacteria 是复数，单数是 bacterium。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[antibiotic]]：抗生素（bacteria 的反义：细菌↔杀菌药物）
 > - [[antibody]]：抗体（bacteria 的反义：细菌↔对抗物质）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **harmful bacteria**：有害细菌
 > - **bacteria in the water/soil**：水/土壤中的细菌
 > - **bacterial infection**：细菌感染
@@ -130,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The discovery of penicillin by Alexander Fleming in 1928 revolutionized the treatment of bacterial infections and saved countless lives."（亚历山大-弗莱明于1928年发现青霉素，彻底改变了细菌感染的治疗方法，拯救了无数生命——考研阅读医学话题相关表达）
 > - "Harmful bacteria in contaminated food can cause serious illness, which is why proper food handling and cooking are essential."（受污染食物中的有害细菌可导致严重疾病，因此正确的食品处理和烹饪至关重要——考研翻译健康话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

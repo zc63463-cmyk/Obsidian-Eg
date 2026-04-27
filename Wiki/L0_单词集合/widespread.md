@@ -3,14 +3,12 @@ title: "widespread"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 广泛散布的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈwaɪdspred/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**广泛散布的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **广泛散布的**（物理空间层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > widespread 就是 wide（宽广的）+ spread（散布）——在宽广的范围内散布开来。想象一场洪水**广泛地蔓延**（widespread flooding），再想象一种担忧在人群中**普遍蔓延**（widespread concern）——都是像水一样在广阔的空间里铺展开来。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,7 +101,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[narrow]]：狭窄的（widespread 的空间反义：广泛↔狭窄）
 > - [[limited]]：有限的（分布范围有限）
 > - [[localized]]：局部的（widespread 的精确反义：广泛分布↔局部集中）
@@ -111,7 +109,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **widespread concern**：普遍的关注/担忧
 > - **widespread use/acceptance**：广泛使用/接受
 > - **widespread damage/destruction**：广泛的破坏
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is widespread concern about environmental pollution."（人们对环境污染普遍感到担忧）——考研阅读中环保类话题
 > - "widespread use of the Internet"（互联网的广泛使用）——科技/社会类话题
 > - "widespread poverty in developing countries"（发展中国家的普遍贫困）——社会经济类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

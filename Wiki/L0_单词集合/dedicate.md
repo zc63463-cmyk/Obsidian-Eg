@@ -3,14 +3,12 @@ title: "dedicate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 宣告归属→奉献
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdedɪkeɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**宣告归属→奉献**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **宣告归属**（物/作品的归属）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dedicate = de（加强）+ dic（宣告）+ ate → 郑重宣告归属 → 奉献。想象你在自己出版的书扉页上写下"To my parents"——这就是 dedicate a book to someone（题献）。科学家 dedicate 自己的一生 to 科学研究，就是宣告自己的生命归属于科学。记住 dic = 宣告，dedicate = 宣告归属 = 奉献。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abandon]]：放弃（奉献↔放弃）
 - [[neglect]]：忽视（致力于↔忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dedicate oneself to**：致力于，献身于
 > - **dedicate one's life to**：将一生奉献给
 > - **dedicate a book to someone**：将书献给某人（题献）
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She dedicated her life to medical research."（她将一生奉献给了医学研究）——人物传记话题
 > - "The author dedicated the book to his mentor."（作者将这本书献给了他的导师）——学术话题
 > - "He is a dedicated teacher who always puts students first."（他是一位专注的教师，总是把学生放在首位）——注意 dedicated 是形容词用法
@@ -139,15 +137,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

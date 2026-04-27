@@ -3,14 +3,12 @@ title: "analogy"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 类比（根据两事物的相似性进行推理）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈnælədʒi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**类比**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **类比**（推理方法层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ana（按照）+ log（比例）→ analogy。想象你拿着两幅画对比——一幅是大脑，一幅是计算机，它们之间有惊人的 analogy（类似）。你通过这个 analogy 来解释大脑的工作原理。by analogy with（根据……类推），draw an analogy（做类比）。analogy 就是"类比"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[difference]]：差异，不同（analogy "类似"的反义：类似↔差异）
 > - [[contrast]]：对比，对照（analogy "类比"的反义：类比↔对比）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **draw an analogy between**：在……之间做类比
 > - **by analogy**：用类推的方法
 > - **by analogy with**：根据……类推
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Hence the analogy that likens the conduct of monetary policy to driving a car with a blackened windscreen, a cracked rear view mirror and a faulty steering wheel."（因此就有了把执行货币政策比作驾驶一辆挡风玻璃被涂黑、后视镜碎裂、方向盘失灵的汽车的类比。——1997年考研阅读Text 5）
 > - "He drew an analogy between the brain and a vast computer."（他在大脑和一台巨大的计算机之间做了类比。——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

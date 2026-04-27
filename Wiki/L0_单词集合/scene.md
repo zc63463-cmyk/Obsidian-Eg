@@ -3,17 +3,14 @@ title: "scene"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 舞台布景→场景
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/siːn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: scenery
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**舞台布景→场景**"为统筹中心，沿实体→抽象路径向外扩展：
 >
 > 1. **舞台布景**（戏剧层面）
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scene 来自希腊语 *skēnē*（帐篷、舞台布景）。想象古希腊的露天剧场，演员们在帐篷后面换装，帐篷前面就是舞台——这个"舞台布景"就是 scene。后来，人们把现实中也想象成一个"舞台"，事件发生的地方就是"场景"（scene），美丽的自然风光就是"景色"（scene），戏剧中的一个片段就是"一场"（scene）。记住 scene = 舞台布景→场景/景色。
@@ -102,7 +99,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -115,14 +112,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - scene 自身无精确反义词（多义性较强）
 > - scene（公开场面）↔ behind the scenes（幕后）
 > - make a scene（当众闹事）↔ keep quiet（保持安静）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the scene of the crime**：犯罪现场
 > - **make a scene**：当众吵闹，闹事
 > - **behind the scenes**：在幕后，暗中
@@ -145,7 +142,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The police arrived at the scene of the accident within minutes."（警察在几分钟内到达了事故现场）——常见表达
 > - "The opening scene of the film is set in Paris."（电影的开场场景设在巴黎）——影视话题
 > - "Please don't make a scene in public."（请不要在公共场合闹事）——日常口语
@@ -154,15 +151,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

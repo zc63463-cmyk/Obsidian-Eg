@@ -3,14 +3,12 @@ title: "hormone"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 激素（推动身体活动的化学物质）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ˈhɔːməʊn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**推动者（推动身体活动的化学物质）**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **推动者**（生理层面）
@@ -64,7 +62,7 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hormone 来自希腊语 horman "推动、激发"。想象激素就像身体里的"推手"——生长激素"推"你长高，肾上腺素"推"你战斗或逃跑，胰岛素"推"细胞吸收糖分。hormone = 推动 + 者后缀 = 推动者。中文翻译"荷尔蒙"是音译，但"激素"更准确——"激"是激发，"素"是物质，即"激发活动的物质"。
@@ -86,7 +84,7 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （hormone 作为生物活性物质，无直接反义词，但可从功能角度考虑）
 > - [[inhibitor]]：抑制剂（hormone 的功能反义：推动↔抑制）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **growth hormone**：生长激素
 > - **stress hormone**：压力激素（如皮质醇）
 > - **hormone therapy/treatment**：激素疗法
@@ -125,19 +123,15 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Hormones are chemical messengers that travel through the bloodstream to organs and tissues."（激素是通过血液传播到器官和组织的化学信使。——考研英语阅读相关语料，生物医学话题）
 > - "Stress hormones such as cortisol can have both protective and damaging effects on the body."（皮质醇等压力激素对身体既有保护作用也有损害作用。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

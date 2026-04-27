@@ -3,17 +3,14 @@ title: "contemporary"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 同时代的、当代的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/kənˈtemprəri/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -45,7 +42,7 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**同时代的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **同时代的**（时间层面）
@@ -66,7 +63,7 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > con-(共同) + tempor(时间) + -ary：时间共同的人 → "同代人；当代的"。
@@ -89,7 +86,7 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ancient]]：古代的
 > - [[historical]]：历史的；过去的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **contemporary art/literature**：当代艺术/文学
 >   The museum features contemporary art from around the world.
 > - **contemporary society**：当代社会
@@ -131,21 +128,15 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Sales of contemporary art fell by two-thirds, and in the most overheated sector — for Chinese contemporary art — they were down by nearly 90% in the year to November."（当代艺术品的销售额下降了三分之二，而在最过热的领域——中国当代艺术——截至11月的一年内下降了近90%。）——2010年考研英语二Text1
 > - "A visitor from Rome would have recognized its owner as a participant in the contemporary culture of the empire."（来自罗马的游客会认为其主人是帝国当代文化的参与者。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

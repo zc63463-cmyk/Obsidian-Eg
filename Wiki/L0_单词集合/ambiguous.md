@@ -3,14 +3,12 @@ title: "ambiguous"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 两边都可走的、模棱两可的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/æmˈbɪɡjuəs/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ ambi-(两个、两边) + ig/ag(驱动、走) + -uous(形容词后缀) → 被两
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**两边都可走的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **两边都可走的**（空间层面：在两条路之间）
@@ -64,7 +62,7 @@ ambi-(两个、两边) + ig/ag(驱动、走) + -uous(形容词后缀) → 被两
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ambi-(两个、两边) + ig/ag(驱动、走) + -uous(形容词后缀) → 被两
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 想象你问朋友"这件衣服好看吗？"，他说"还行吧"——这个回答在**两边**（ambi）都**走**得通（ag），你不知道他到底是喜欢还是不喜欢。这就是 **ambiguous**——**模棱两可的**。
@@ -86,7 +84,7 @@ ambi-(两个、两边) + ig/ag(驱动、走) + -uous(形容词后缀) → 被两
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ ambi-(两个、两边) + ig/ag(驱动、走) + -uous(形容词后缀) → 被两
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clear]]：ambiguous（含糊的）vs clear（清晰的）
 > - [[explicit]]：ambiguous（模棱两可的）vs explicit（明确的）
 > - [[unambiguous]]：ambiguous（含糊的）vs unambiguous（明确的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,29 +117,23 @@ ambi-(两个、两边) + ig/ag(驱动、走) + -uous(形容词后缀) → 被两
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ambiguous statement/response**：模棱两可的声明/回答（The politician gave an ambiguous response to the reporter's question. 政客对记者的问题给出了模棱两可的回答。）
 > - **deliberately ambiguous**：故意含糊的（The contract was deliberately ambiguous on this point. 合同在这一点上是故意含糊的。）
 > - **ambiguous language**：含糊的语言（Ambiguous language in legal documents can cause disputes. 法律文件中含糊的语言可能引起争议。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The author's ambiguous attitude makes readers confused about his real intention."（作者模棱两可的态度使读者对其真实意图感到困惑。）——考研高频表达
 > - "The law contains several ambiguous provisions that could lead to different interpretations."（该法律包含几项模棱两可的条款，可能导致不同的解释。）——考研高频表达
 > - "His ambiguous response to the question suggested that he was hiding something."（他对问题的含糊回答暗示他在隐瞒什么。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

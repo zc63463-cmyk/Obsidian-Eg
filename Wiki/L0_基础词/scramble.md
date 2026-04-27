@@ -3,14 +3,12 @@ title: "scramble"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 手脚并用地匆忙攀爬
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈskræmbl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**手脚并用地匆忙攀爬**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **手脚并用地匆忙攀爬**（身体动作层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scramble 模拟的是手脚快速移动的声音——"嚓嚓嚓"→ 手脚并用地慌忙爬。一群人慌慌张张地抢座——scramble for seats。早上慌忙做炒蛋——scramble eggs。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[descend]]：下降，下来（scramble 的反义：攀爬↔下降）
 > - [[stroll]]：漫步，闲逛（scramble 的反义：慌忙↔悠闲）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **scramble for**：争夺，抢夺
 > - **scramble up**：攀爬上去
 > - **scramble to do sth.**：匆忙做某事
@@ -141,19 +139,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "More than three million fans are expected to scramble for tickets."（预计超过三百万球迷将争抢门票。——考研阅读高频表达）
 > - "There was an undignified scramble for the best seats."（大家争抢最好的位子，真是有失体统。——考研阅读句式）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

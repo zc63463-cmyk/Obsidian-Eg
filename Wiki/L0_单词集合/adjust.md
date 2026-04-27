@@ -3,14 +3,12 @@ title: "adjust"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 使朝向正确方向
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈdʒʌst/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ ad-(=to, toward, 向、朝) + just(=right, proper, 正确的、恰当的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使朝向正确方向**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使朝向正确方向**（动作层面：使归正）
@@ -65,7 +63,7 @@ ad-(=to, toward, 向、朝) + just(=right, proper, 正确的、恰当的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ad-(=to, toward, 向、朝) + just(=right, proper, 正确的、恰当的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ad（朝向）+ just（正确、公正）→ 使某物朝向正确的状态 → adjust（调整、调节）。
@@ -87,7 +85,7 @@ ad-(=to, toward, 向、朝) + just(=right, proper, 正确的、恰当的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ad-(=to, toward, 向、朝) + just(=right, proper, 正确的、恰当的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disturb]]：扰乱、打乱（破坏已调整好的状态）
 > - [[disrupt]]：扰乱、使中断
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ ad-(=to, toward, 向、朝) + just(=right, proper, 正确的、恰当的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **adjust to**：适应……
   - It took her a while to adjust to the new environment.（她花了一段时间才适应新环境。）
 > - **adjust the strategy**：调整策略
@@ -124,22 +122,16 @@ ad-(=to, toward, 向、朝) + just(=right, proper, 正确的、恰当的)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It takes time for freshmen to adjust to the new environment of university life."（新生需要时间来适应大学生活的新环境。）——考研高频表达
 > - "The government needs to adjust its economic policies to cope with the changing global situation."（政府需要调整其经济政策以应对不断变化的全球形势。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "globe"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 圆球形的实体
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɡləʊb/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**圆球形的实体**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **圆球形的实体**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > globe 来自拉丁语 globus（圆球）。想象你手里拿着一个**圆球**——这就是 globe 的本义。教室里挂着的**地球仪**是 globe，我们脚下的**地球**是 globe，"环游**世界**"就是 travel around the globe。从手中圆球到脚下大地到整个世界，globe 始终是一个"球"。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[flat]]：平的（globe 作为"球体"的形状反义）
 > - [[local]]：当地的（globe 作为"世界/全球"的范围反义）
 > - [[cube]]：立方体（globe 作为"球体"的三维形状反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **all over the globe**：遍及全球，全世界
 > - **across the globe**：在全球范围内
 > - **the globe**：地球，世界（the globe itself）
@@ -138,7 +136,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "people from all over the globe"（来自世界各地的人们）——考研阅读社会/文化类话题常见搭配
 > - "across the globe, temperatures are rising"（全球范围内气温正在上升）——环保类阅读常见表达
 > - "the globe is becoming increasingly interconnected"（世界正变得越来越互联）——全球化话题常见表达
@@ -146,15 +144,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

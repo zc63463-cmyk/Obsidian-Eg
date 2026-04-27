@@ -3,14 +3,12 @@ title: "underestimate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 估算不足
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌʌndərˈestɪmeɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**估算不足**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **估算不足**（量化层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > underestimate 就是"在下面估算"——under（不足/低于）+ estimate（估算）。想象你估算一座山的高度，结果**估得太低**，实际爬上去才发现比想象中高得多——这就是 underestimate。考研中记住一个经典搭配："Never underestimate your opponent"（永远不要低估你的对手）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[overestimate]]：高估（underestimate 的精确反义：低估↔高估）
 > - [[overvalue]]：高估价值
 > - [[exaggerate]]：夸大
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **seriously/greatly underestimate**：严重低估
 > - **underestimate the difficulty/cost**：低估难度/成本
 > - **underestimate the importance of**：低估……的重要性
@@ -132,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We should not underestimate the difficulty of the task."（我们不应低估这项任务的难度。）——考研阅读/写作常见句式
 > - "Never underestimate the power of public opinion."（永远不要低估舆论的力量。）——考研阅读
 > - "The government seriously underestimated the cost of the project."（政府严重低估了项目的成本。）——考研翻译
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

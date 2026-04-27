@@ -3,14 +3,12 @@ title: "critic"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 批评者，评论家
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkrɪtɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ crit(判断，区分) + -ic(做...的人)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**评判者**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **评判者**（社会角色层面）
@@ -64,7 +62,7 @@ crit(判断，区分) + -ic(做...的人)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ crit(判断，区分) + -ic(做...的人)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古希腊的critic就像法庭上的法官，负责"区分"(crit)对错，后来专门指对艺术作品做出评判的人——评论家。
@@ -88,7 +86,7 @@ crit(判断，区分) + -ic(做...的人)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ crit(判断，区分) + -ic(做...的人)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[advocate]]：支持者，倡导者（critic 做负面评判，advocate 做正面倡导）
 > - [[defender]]：辩护者，捍卫者
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ crit(判断，区分) + -ic(做...的人)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **art/literary critic**：She is a well-known literary critic.（她是一位著名的文学评论家。）
 > - **harsh critic**：He is a harsh critic of government policy.（他是政府政策的严厉批评者。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared."（批评家还指出，商业化基因检测的效果好坏取决于用于样本比对的参照基因库。）——2009考研英语阅读Text2
 > - "Some critics argue that the new policy will do more harm than good."（一些批评家认为，新政策弊大于利。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

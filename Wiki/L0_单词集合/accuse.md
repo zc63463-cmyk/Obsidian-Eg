@@ -3,14 +3,12 @@ title: "accuse"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 指控、控告
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈkjuːz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ac-(=ad-，朝向) + cus-(诉讼、指控) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**指控**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **指控、控告**（法律层面：正式提起诉讼）
@@ -64,7 +62,7 @@ ac-(=ad-，朝向) + cus-(诉讼、指控) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ ac-(=ad-，朝向) + cus-(诉讼、指控) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ac-（朝向）+ cus-（案件/诉讼）→ 在法庭上朝某人提起案件，就是"指控"。
@@ -89,7 +87,7 @@ ac-(=ad-，朝向) + cus-(诉讼、指控) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ ac-(=ad-，朝向) + cus-(诉讼、指控) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[defend]]：辩护（指控的反面——为某人辩护）
 > - [[acquit]]：宣判无罪（指控的结果——无罪释放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,28 +118,22 @@ ac-(=ad-，朝向) + cus-(诉讼、指控) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **accuse sb. of sth.**：指控某人某事（He was accused of corruption.）
 > - **falsely accuse**：诬告（She was falsely accused of theft.）
 > - **the accused**：被告（The accused was found guilty.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was accused of stealing confidential information from the company."（他被指控从公司窃取机密信息。）——考研高频表达
 > - "The opposition accused the government of failing to address the issue of inequality."（反对党指责政府未能解决不平等问题。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

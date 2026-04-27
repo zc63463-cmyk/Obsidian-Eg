@@ -3,14 +3,12 @@ title: "notion"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 脑中形成的概念
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈnəʊʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to know）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**脑中形成的概念**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **脑中形成的概念**（认知层面）
@@ -68,7 +66,7 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to know）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to know）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > notion 来自拉丁语 *notio*（认知、概念），是 *notare*（做标记）的名词形式。想象你的大脑是一块白板，每当你学习一个新概念时，大脑就像荧光笔一样在上面做一个"标记"——"自由"是一个标记，"正义"是另一个标记。这些标记积累起来，就形成了你的各种 notion（概念和观念）。当你对某件事完全没有 notion 时，意味着你的大脑白板上没有对应的标记——你完全不了解。notion 的本质就是"脑子里的标记"。
@@ -93,7 +91,7 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to know）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to know）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fact]]：事实（概念/想法↔事实）
 > - [[reality]]：现实（观念↔现实）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,28 +122,22 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to know）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the notion of**：...的概念（The notion of equality is fundamental to democracy.）
 > - **have no notion of**：完全不了解（He has no notion of how to solve the problem.）
 > - **reject/dismiss a notion**：拒绝/摒弃某种观念（Scientists dismissed the notion that the earth was flat.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The worthy residents of Stratford doubt that the theatre adds a penny to their revenue."（斯特福特镇受人尊敬的居民们认为剧院一点都没有使他们的收入增加。）——2006考研英语一阅读
 > - "The notion that education should be solely focused on academic achievement is increasingly being challenged."（教育应仅关注学业成绩的观念正受到越来越多的质疑。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

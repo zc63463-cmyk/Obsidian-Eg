@@ -3,14 +3,12 @@ title: "racket"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 球拍（拍打的工具）
-extension_dim: 噪音/非法活动
+extension_dim: [噪音/非法活动]
 phonetic: "/ˈrækɪt/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**球拍（拍打的工具）**"为统筹中心，沿噪音/非法活动维度向外扩展：
 >
 > 1. **球拍**
@@ -69,7 +67,7 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > racket 来自阿拉伯语 *rahat*（手掌），最初指用手掌击球的运动。后来有了带框的球拍——tennis racket（网球拍）。当你用力击球时，发出巨大的声响——这就是 racket（喧闹）。黑帮收保护费就是一种 racket（敲诈勒索）：你不给钱，我就制造 racket（喧闹/麻烦）。记住 racket 的核心画面：网球拍 → 击球声 → 喧闹 → 勒索。
@@ -92,7 +90,7 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[silence]]：安静（racket 作"喧闹"义时的反义：喧闹↔安静）
 > - [[honesty]]：诚实（racket 作"非法勾当"义时的反义：骗局↔诚实）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a tennis/badminton racket**：网球/羽毛球拍
 > - **make a racket**：大声喧哗
 > - **a protection racket**：收保护费的勾当
@@ -132,19 +130,15 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The police cracked down on a protection racket that had been terrorizing local businesses for years."（警方打击了一个多年来恐吓当地企业的保护费勒索团伙。——考研英语阅读常见话题）
 > - "Kids in the neighborhood were making a terrible racket with their firecrackers."（附近的孩子在放鞭炮，吵得要命。——考研英语写作常用表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

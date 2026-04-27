@@ -3,14 +3,12 @@ title: "split"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 沿着纹理裂开，分成两部分
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/splɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**沿着纹理裂开，分成两部分**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **物理裂开**（物理层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > split 的核心画面是"用斧头劈木头——木头沿着纹理裂成两半"。原始日耳曼语 *\*splītaną* = 撕裂。split 的动作是"沿着一个方向分成两部分"——木头裂开，团体分裂，意见分歧。split the bill（分摊账单）= 把账单分成几份。split up（分手）= 关系"裂开"。split the difference（各让一步）= 把差距"劈"成两半。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unite]]：团结（split 的反义：分裂↔团结）
 > - [[join]]：连接（split 的反义：裂开↔连接）
 > - [[merge]]：合并（split 的反义：分裂↔合并）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **split up**：分手；拆分
 > - **split the bill / cost**：分摊账单/费用
 > - **split the difference**：各让一步，折中
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The political party split into two factions over the controversial policy, with neither side willing to compromise on their core principles."（该政党因这项有争议的政策分裂为两个派系，双方都不愿在核心原则上妥协——考研阅读政治话题相关表达）
 > - "In a split-second decision, the firefighter rushed into the burning building, saving three children who were trapped on the upper floor."（在瞬间的决定中，消防员冲进了燃烧的大楼，救出了被困在楼上的三个孩子——考研阅读英雄事迹相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

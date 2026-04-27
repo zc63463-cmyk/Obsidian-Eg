@@ -3,14 +3,12 @@ title: "fight"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 用身体力量对抗敌人
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/faɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用身体力量对抗敌人**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用身体力量对抗敌人**（物理动作层面）
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fight 来自原始印欧语 *pek-（梳理羊毛），梳理时用力拉扯 → 用力对抗 → 搏斗。想象远古先民在用力梳理羊毛，那个"拉扯对抗"的动作就是 fight 的灵魂——无论是拳头相向还是为理想奋斗，都是在用力拉扯。
@@ -97,7 +95,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +108,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[surrender]]：投降（fight 的精确反义：对抗 ↔ 放弃对抗）
 > - [[yield]]：屈服，让步（抽象层面，fight against 的反义）
 > - [[peace]]：和平（名词层面，fight/war 的反义状态）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fight for**：为……而战/奋斗（fight for freedom/equality）
 > - **fight against**：与……斗争/抗争（fight against poverty/disease）
 > - **fight a battle/war**：打一场仗
@@ -139,7 +137,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "fight against racial discrimination"（与种族歧视作斗争）——考研阅读高频搭配，社会正义类话题
 > - "fight for equal rights"（为平等权利而奋斗）——政治/社会类阅读常见表达
 > - "fight a losing battle"（打一场注定失败的仗）——考研翻译/阅读常见习语
@@ -147,15 +145,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

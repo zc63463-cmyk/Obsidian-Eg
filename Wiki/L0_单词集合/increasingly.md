@@ -3,14 +3,12 @@ title: "increasingly"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 越来越多地，不断增加地
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪnˈkriːsɪŋli/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**持续增长**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **持续增长**（时间层面：事物随时间推移不断增长）
@@ -63,7 +61,7 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[increase]]（增长）正在 **-ing**（进行中）地 **-ly**（以……方式）发生，所以 **increasingly** 就是"越来越……地"。
@@ -87,7 +85,7 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[decreasingly]]：越来越少地，不断减少地
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **increasingly important**：越来越重要
   - Environmental protection has become increasingly important.（环境保护变得日益重要。）
 > - **increasingly popular**：越来越受欢迎
@@ -127,21 +125,15 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - People are increasingly concerned about the impact of artificial intelligence on employment.（人们日益关注人工智能对就业的影响。）
 > - The role of technology in education has become increasingly significant.（技术在教育中的作用变得日益重要。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

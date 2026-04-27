@@ -3,14 +3,12 @@ title: "sincere"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 纯洁无瑕的（sin-没有 + cere蜡→没有掺蜡的→真诚的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/sɪnˈsɪə/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**纯净无瑕**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **纯净无瑕**（物理层面）
@@ -67,7 +65,7 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sin（没有）+ cere（蜡）→ 没有用蜡修补的陶器 → 纯净的 → 真诚的。古罗马商人用蜡修补有裂缝的陶器来卖高价，没有掺蜡的就是 sincerus。He offered a sincere apology（他诚恳地道了歉）——他的道歉没有"掺假"。Sincere performances add to the film's realism（真诚的表演增添了电影的现实主义色彩）。
@@ -89,7 +87,7 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insincere]]：虚伪的，不真诚的（sincere 的精确反义：真诚的↔虚伪的）
 > - [[hypocritical]]：伪善的（sincere 的反义：真诚的↔伪善的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sincere apology/gratitude**：真诚的道歉/感谢
 > - **sincere belief/faith**：真诚的信仰
 > - **sincere concern**：真诚的关心
@@ -136,19 +134,15 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He offered a sincere apology for his behaviour."（他主动对自己的行为诚恳地道了歉——考研英语阅读高频表达）
 > - "If the farm is well managed and has enough land, and the desire to convert is sincere, a relationship can begin."（如果农场管理良好、土地充足，而且转变的愿望是真诚的，一段关系就可以开始了——2019年12月六级阅读Section B）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "necklace"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 项链（戴在脖子上的装饰品）
-extension_dim: 物品路径
+extension_dim: [物品路径]
 phonetic: "/ˈneklɪs/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**项链（戴在脖子上的装饰品）**"为统筹中心，沿物品路径向外扩展：
 >
 > 1. **脖子上的装饰**（物品层面）
@@ -64,7 +62,7 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > necklace 是一个直观的复合词：neck（脖子）+ lace（带子）。想象一条美丽的带子环绕在脖子上——那就是 necklace（项链）。在古代，lace 的本意是"绳索"，所以 necklace 最初就是"脖子上的绳索"，后来演变为装饰性的项链。
@@ -86,7 +84,7 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （necklace 作为具体物品，无精确反义词）
 > - [[bracelet]]：手链（necklace 的对应词：项链↔手链）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a pearl necklace**：珍珠项链
 > - **a diamond necklace**：钻石项链
 > - **wear a necklace**：戴项链
@@ -126,19 +124,15 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Delhi necklace which her father had bought for her when in India years ago. In her youth it had been her favourite ornament."（那条德里项链是她父亲多年前在印度给她买的。在她年轻时，那是她最喜欢的饰物。——Project Gutenberg）
 > - "She wears a low bodice and a necklace; a train from her shoulders falls over a frilled and flounced petticoat."（她穿着低胸上衣，戴着项链；从肩膀垂下的裙摆落在荷叶边衬裙上。——Yale University Library）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

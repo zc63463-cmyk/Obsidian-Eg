@@ -3,14 +3,12 @@ title: "confuse"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 共同倾倒、混合在一起
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈfjuːz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同倾倒、混合在一起**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **共同倾倒、混合在一起**（物理层面）
@@ -67,7 +65,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-(共同) + fuse(倾倒) → 把不同东西"共同倾倒"到一起→混成一团→混淆/困惑。想象把盐和糖倒进同一个罐子里，再也分不清了。
@@ -92,7 +90,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clarify]]：澄清（困惑→清晰）
 > - [[distinguish]]：区分（混淆→区分）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **confuse A with B**：把A与B混淆
   - Don't confuse the concept of inflation with that of economic growth.（不要把通货膨胀的概念与经济增长混淆。）
 - **be confused about**：对……感到困惑
@@ -136,20 +134,14 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The complex instructions only served to confuse the students rather than help them understand the experiment."（复杂的说明不仅没有帮助学生理解实验，反而使他们更加困惑。）——考研高频表达
 > - "It is easy to confuse correlation with causation when interpreting statistical data."（在解释统计数据时，很容易将相关性混淆为因果关系。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

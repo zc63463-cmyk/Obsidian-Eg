@@ -3,14 +3,12 @@ title: "solution"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 松开/释放的结果
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/səˈluːʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**松开/释放的结果**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **松开/释放的结果**（物理层面）
@@ -65,7 +63,7 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > solu（松开）+ tion（结果）= 把固体松开融入液体的结果 → 溶液；把问题松开化解的结果 → 解决方案
@@ -87,7 +85,7 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[problem]]：问题（solution 是 problem 的解决结果，二者构成"问题—方案"配对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a solution to the problem**：问题的解决方案
   - There is no easy solution to the problem of climate change.（气候变化问题没有简单的解决方案。）
 > - **find a solution**：找到解决方案
@@ -127,22 +125,16 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is no simple solution to the problem of climate change."（气候变化问题没有简单的解决方案。）——考研高频表达
 > - "The government has proposed a series of solutions to address the housing shortage."（政府提出了一系列解决方案来应对住房短缺。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

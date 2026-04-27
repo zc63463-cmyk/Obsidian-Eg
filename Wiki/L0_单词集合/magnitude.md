@@ -3,17 +3,14 @@ title: "magnitude"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 巨大、庞大
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmæɡnɪtjuːd/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: magn
 network_activation: [词根, 词根笔记, 同义辨析]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**巨大、庞大**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **巨大、庞大**（物理/规模层面）
@@ -68,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > magnitude = magn（大）+ itude（状态）→ 巨大的状态。想象地震仪上的指针剧烈摆动——这个"大"就是 magnitude（震级）。同样，一个社会问题的"大"也是 magnitude（严重程度）。记住 magn = 大，-itude = 状态，magnitude = 大的状态。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[minuteness]]：微小（magnitude 的精确反义：巨大↔微小）
 > - [[insignificance]]：无关紧要（重要性层面反义）
 > - [[triviality]]：琐碎（严重程度层面反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the magnitude of the problem / crisis**：问题/危机的严重程度
 > - **of great / enormous magnitude**：巨大的（规模）
 > - **an earthquake of magnitude 7.0**：7 级地震
@@ -133,7 +130,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We did not fully appreciate the magnitude of the problem."（我们没有充分认识到问题的严重性）——考研高频句型
 > - "an earthquake of magnitude 7.2 on the Richter scale"（里氏 7.2 级地震）——常见搭配
 > - "They underestimate the magnitude of the task."（他们低估了任务的艰巨程度）——常见表达
@@ -141,15 +138,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

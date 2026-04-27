@@ -3,14 +3,12 @@ title: "wonder"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 令人惊叹的未知事物
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈwʌndər/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**令人惊叹的未知事物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **令人惊叹的未知事物**（外部事物层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wonder 来自古英语 wundor，意思是"令人惊叹的事物"。想象古人第一次看到大瀑布或日食，心中涌起**惊叹**（wonder）——这简直是**奇迹**（wonder）！然后开始**好奇**（wonder）这是怎么回事。从"哇！"到"为什么？"，wonder 就是人类面对未知时的本能反应。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[certainty]]：确定（wonder 是面对未知的，certainty 是已知的确定）
 > - [[indifference]]：冷漠（wonder 是充满好奇的，indifference 是漠不关心的）
 > - [[ordinary]]：平凡的（wonder 是令人惊叹的，ordinary 是平淡无奇的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **I wonder if/whether...**：我想知道是否……
 > - **no wonder (that)...**：难怪……
 > - **wonder about**：对……感到好奇
@@ -139,7 +137,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is no wonder that..."（难怪……）——考研写作/翻译高频句型
 > - "I wonder whether..."（我想知道是否……）——考研阅读中常见人物心理描写
 > - "the wonders of modern technology"（现代科技的奇迹）——考研阅读科技类语料
@@ -147,15 +145,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

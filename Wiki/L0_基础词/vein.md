@@ -3,14 +3,12 @@ title: "vein"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 静脉（输送血液回心脏的血管）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/veɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**静脉（输送血液回心脏的血管）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **静脉**（物理层面）
@@ -68,7 +66,7 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vein 的本义是"静脉"。想象你手臂上那条青色的血管——那就是 vein。血液通过 vein 流回心脏，就像矿藏通过"矿脉"（vein of gold）贯穿山体，就像一种风格（in a humorous vein）贯穿整篇文章。vein 就是一切"贯穿事物的脉络"。
@@ -91,7 +89,7 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[artery]]：动脉（vein 的精确反义：静脉↔动脉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,26 +123,22 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in a ... vein**：以……的风格/基调
 > - **a vein of**：……的矿脉/情绪
 > - **in a reflective/humorous vein**：以反思的/幽默的基调
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The essay begins with a personal anecdote and continues in a reflective vein, examining how childhood experiences shape adult perspectives."（文章以个人轶事开头，接着以反思的基调展开，探讨童年经历如何塑造成年人的视角。——考研高频表达）
 > - "The marble has beautiful veins running through it."（这块大理石上有美丽的纹路贯穿其中。——柯林斯语料库）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

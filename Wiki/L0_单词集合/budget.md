@@ -3,14 +3,12 @@ title: "budget"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 皮革钱袋、预算
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈbʌdʒɪt/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ budg-(来自古法语 bouge，皮革袋子、钱包) + -et(指小后缀) → 小
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**装钱的袋子 → 预算**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **装钱的袋子**（物理层面：钱袋）
@@ -68,7 +66,7 @@ budg-(来自古法语 bouge，皮革袋子、钱包) + -et(指小后缀) → 小
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ budg-(来自古法语 bouge，皮革袋子、钱包) + -et(指小后缀) → 小
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 想象一个古代商人打开他的**皮革钱袋**（bouget），数了数里面的金币——"这就是我这个月的**预算**（budget）"。如果钱袋很瘪，他就只能住**廉价**的（budget）旅馆。
@@ -92,7 +90,7 @@ budg-(来自古法语 bouge，皮革袋子、钱包) + -et(指小后缀) → 小
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ budg-(来自古法语 bouge，皮革袋子、钱包) + -et(指小后缀) → 小
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[luxury]]：budget（廉价的）vs luxury（奢侈的）
 > - [[extravagance]]：budget（预算）vs extravagance（挥霍）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,29 +118,23 @@ budg-(来自古法语 bouge，皮革袋子、钱包) + -et(指小后缀) → 小
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tight budget**：紧张的预算（We have to complete the project on a tight budget. 我们必须在紧张的预算内完成这个项目。）
 > - **within/beyond budget**：在预算内/超出预算（The renovation was completed within budget. 翻修在预算内完成了。）
 > - **budget deficit**：预算赤字（The government is trying to reduce the budget deficit. 政府正试图减少预算赤字。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government announced a series of budget cuts to reduce the national deficit."（政府宣布了一系列预算削减措施以减少国家赤字。）——考研高频表达
 > - "Many families are struggling to live within a tight budget."（许多家庭正在艰难地在紧张的预算内维持生活。）——考研高频表达
 > - "The project was completed on time and within budget."（该项目按时且在预算内完成。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

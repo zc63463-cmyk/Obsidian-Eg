@@ -3,14 +3,12 @@ title: "vessel"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 容器，器皿
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈvesl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**容器，器皿**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **容器，器皿**（物理层面：用于盛放物品的器具）
@@ -67,7 +65,7 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个古代陶匠，他用双手捏出一个**容器**（vessel）来装水——几千年后，他的后代用钢铁造出了能横跨大洋的**船**（vessel），用显微镜发现了输送生命的**血管**（vessel）。从陶罐到巨轮到血管，都是"承载"的容器。
@@ -91,7 +89,7 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - vessel 的反义关系不典型，因为"容器/船/血管"是一个功能类别而非程度概念
 > - 可关联 [[content]]：内容物（vessel 是容器，content 是容器中的内容）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **blood vessel**：血管（The drug helps dilate blood vessels and improve circulation.）
 > - **cargo/fishing vessel**：货船/渔船（The port was crowded with cargo vessels waiting to be unloaded.）
 > - **ancient vessel**：古代器皿/古船（Archaeologists discovered an ancient vessel dating back to the Roman era.）
@@ -130,23 +128,15 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many of the vessels were lost in storms during the long voyage."（许多船只在长途航行中遭遇风暴而沉没。）——考研高频表达
 > - "Blood vessels carry oxygen and nutrients throughout the body."（血管将氧气和营养物质输送到全身。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

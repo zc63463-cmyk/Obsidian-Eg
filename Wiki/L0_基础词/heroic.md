@@ -3,14 +3,12 @@ title: "heroic"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 英雄般的（具有英雄品质的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/hɪˈrəʊɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**英雄般的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **英雄般的**（品质层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hero（英雄）的形容词形式。英雄不只是打仗勇敢——rescuers made heroic efforts to save the victims（救援人员付出了艰苦卓绝的努力来拯救受害者）。当你的努力超越常人，就是 heroic。但如果用力过猛、刻意表现英雄气概，就变成了"夸张做作的"——heroic in a bad way。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cowardly]]：怯懦的（heroic 的精确反义：英勇的↔怯懦的）
 > - [[timid]]：胆小的（heroic 的反义：英勇的↔胆小的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **heroic deeds/acts**：英勇事迹
 > - **heroic efforts**：艰苦卓绝的努力
 > - **heroic attempt**：艰苦的尝试
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "His heroic deeds were celebrated in every corner of India."（他的英勇事迹在印度的每个角落被传颂。——考研阅读常见表达）
 > - "Despite Roz's heroic efforts to liven it up, the party was a disaster."（尽管罗兹费了九牛二虎之力想活跃气氛，派对还是一塌糊涂。——考研翻译高频结构）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

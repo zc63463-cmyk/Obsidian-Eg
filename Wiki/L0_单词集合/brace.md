@@ -3,14 +3,12 @@ title: "brace"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 用双臂支撑
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/breɪs/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用双臂支撑**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用双臂支撑**（身体层面：手臂提供支撑力）
@@ -67,7 +65,7 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > brace 源自拉丁语 bracchium（手臂）→ 用手臂支撑 → 绷紧身体准备承受冲击 → brace（防备、支架）。
@@ -90,7 +88,7 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[relax]]：放松（不绷紧）
 > - [[unbrace]]：松开，放松
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **brace oneself for**：为……做好准备
   - The company braced itself for a drop in profits.（公司为利润下降做好了准备。）
 > - **brace for impact**：准备承受冲击
@@ -126,22 +124,16 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government must brace itself for a potential economic downturn."（政府必须为潜在的经济衰退做好准备。）——考研高频表达
 > - "Residents were told to brace for impact as the hurricane approached the coastline."（随着飓风逼近海岸线，居民被告知做好防冲击准备。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

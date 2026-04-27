@@ -3,14 +3,12 @@ title: "damage"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 损失（对人身、名誉或财产造成的伤害）
-extension_dim: 因果关系
+extension_dim: [因果关系]
 phonetic: "/ˈdæmɪdʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**损失（被分割出去的部分）**"为统筹中心，沿因果关系维度向外扩展：
 >
 > 1. **损失**（原因层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > damage 来自拉丁语 damnum（损失）。想象你有一块蛋糕，被人切走了一大块——被"分割出去"的部分就是 damnum（损失）。后来 damnum 加上 -age 变成 damage，表示"损失的状态"。当你遭受了 damage，你可以通过法律途径索取 damages（赔偿金）——注意复数形式才表示"赔偿金"。与 damn（诅咒/判定有罪）同源，因为 damn 最初就是"判定某人造成损失"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[repair]]：修复（damage 的反义：损害↔修复）
 > - [[benefit]]：利益（damage 的反义：损失↔利益）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cause damage to**：对……造成损害
 > - **suffer damage**：遭受损害
 > - **claim damages**：索赔
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Smoking can cause severe damage to your health."（吸烟会对你的健康造成严重损害——考研英语阅读健康类话题）
 > - "The company was ordered to pay damages to the victims of the accident."（公司被命令向事故受害者支付赔偿金——考研翻译法律类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "confidence"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 深深地信任
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkɒnfɪdəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**深深地信任**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **深深地信任**（人际层面——对他人完全信赖）
@@ -66,7 +64,7 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（完全）+ fid（信任）：想象你站在舞台上，完全信任自己的能力——那种内心深处"我能行"的感觉，就是 confidence（自信）。
@@ -88,7 +86,7 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[doubt]]：怀疑（信心 vs 怀疑）
 > - [[insecurity]]：不安全感（自信 vs 不安全感）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have confidence in**：对……有信心
   > I have great confidence in her ability to solve the problem. 我对她的解决问题的能力充满信心。
 > - **in confidence**：秘密地，私下地
@@ -128,21 +126,15 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Readers must have confidence in the conclusions published in our journal," writes McNutt in an editorial.（"读者们一定要相信我们杂志发布的结论，"McNutt在一篇社评中写道。）——2015年阅读Part A
 > - "Individuals and organizations can complete online transactions with confidence, trusting the identities of each other."（个人和组织可以满怀信心地完成在线交易，信任彼此的身份。）——2011年完形填空
 > - "Since fewer than half of Americans say they cook at an intermediate level and only 20% describe their cooking skills as advanced, the crisis is one of confidence."（由于不到一半的美国人说自己具备中等烹饪水平，只有20%的人自认为厨艺精湛，这场危机归根结底是信心危机。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

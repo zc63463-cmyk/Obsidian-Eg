@@ -3,14 +3,12 @@ title: "misfortune"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 坏运气（命运走向了不好的方向）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/mɪsˈfɔːtʃən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坏运气**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **运气变坏**（抽象层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > misfortune = mis（坏）+ fortune（运气）= 坏运气 = 不幸。Fortune 本来指"命运、运气"，加上 mis- 前缀就变成了"坏运气"。He has known great misfortune in his life（他一生中经历过巨大的不幸）。We had the misfortune to run into a violent storm（我们不幸遭遇了猛烈的暴风雨）。反义词是 fortune（好运）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fortune]]：好运，运气（misfortune 的精确反义：不幸↔好运）
 > - [[luck]]：幸运（misfortune 的反义：不幸↔幸运）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have the misfortune to do sth**：不幸做某事
 > - **by misfortune**：不幸地
 > - **suffer misfortune**：遭受不幸
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He has known great misfortune in his life, yet he never lost his optimism and determination to succeed."（他一生中经历过巨大的不幸，却从未失去乐观和成功的决心——考研阅读人物传记话题相关表达）
 > - "We had the misfortune to run into a violent storm on our way across the Atlantic."（我们在横渡大西洋的途中不幸遭遇了猛烈的暴风雨——考研翻译叙事话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

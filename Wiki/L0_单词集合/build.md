@@ -3,14 +3,12 @@ title: "build"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 建造、构建
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/bɪld/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ build 为日耳曼语族基础词汇，与 [[budget]] 同源（都来自"建造/
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**建造、构建**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **建造**（物理层面：建造建筑物）
@@ -67,7 +65,7 @@ build 为日耳曼语族基础词汇，与 [[budget]] 同源（都来自"建造/
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ build 为日耳曼语族基础词汇，与 [[budget]] 同源（都来自"建造/
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 想象一个建筑师**建造**（build）大楼——他一块砖一块砖地垒起来。同样，你**建立**（build）友谊需要一天天积累，你的身体**构造**（build）也是日积月累的结果。与 **budget**（预算）同源——因为预算就是为建造做资金规划。
@@ -90,7 +88,7 @@ build 为日耳曼语族基础词汇，与 [[budget]] 同源（都来自"建造/
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ build 为日耳曼语族基础词汇，与 [[budget]] 同源（都来自"建造/
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[destroy]]：build（建造）vs destroy（摧毁）
 > - [[demolish]]：build（建造）vs demolish（拆除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,29 +118,23 @@ build 为日耳曼语族基础词汇，与 [[budget]] 同源（都来自"建造/
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **build up**：逐步建立，增强（She has built up a successful business over the years. 多年来她逐步建立了一家成功的企业。）
 > - **build a relationship/confidence**：建立关系/信心（Building confidence in public speaking takes practice. 建立公开演讲的信心需要练习。）
 > - **build on**：基于……发展（We should build on our previous achievements. 我们应该在已有成就的基础上继续发展。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has invested heavily in building new infrastructure."（政府已投入大量资金建设新的基础设施。）——考研高频表达
 > - "Building trust between nations takes time and mutual effort."（建立国与国之间的信任需要时间和共同努力。）——考研高频表达
 > - "She has built up a reputation as one of the most reliable researchers in her field."（她已树立了作为该领域最可靠研究者之一的声誉。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

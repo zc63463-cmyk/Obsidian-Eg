@@ -3,14 +3,12 @@ title: "prescription"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 处方、规定
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/prɪˈskrɪpʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ pre-(在……之前) + [[scrib-script|script]](写) + -ion(名词后缀，动�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**处方、药方**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **处方、药方**（医疗层面——医生写好的用药指示）
@@ -65,7 +63,7 @@ pre-(在……之前) + [[scrib-script|script]](写) + -ion(名词后缀，动�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ pre-(在……之前) + [[scrib-script|script]](写) + -ion(名词后缀，动�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > prescription 是 prescribe（开处方）的名词形式——医生 prescribe 的结果就是 prescription（处方）。你去药店说"fill my prescription"就是"按我的处方配药"。
@@ -87,7 +85,7 @@ pre-(在……之前) + [[scrib-script|script]](写) + -ion(名词后缀，动�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ pre-(在……之前) + [[scrib-script|script]](写) + -ion(名词后缀，动�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[proscription]]：禁止令（与 prescription 的"规定"对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ pre-(在……之前) + [[scrib-script|script]](写) + -ion(名词后缀，动�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fill a prescription**：按处方配药
 > - **write a prescription**：开处方
 > - **prescription drugs**：处方药
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal."（波士顿大学卫生法系主任乔治·安纳斯认为，只要医生出于合法的医疗目的开药，就没有做任何违法的事。）——2002年阅读4
 > - "The law prescribes strict standards for food safety."（法律对食品安全规定了严格的标准。）——2016年阅读Text3
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

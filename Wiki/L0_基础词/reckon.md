@@ -3,14 +3,12 @@ title: "reckon"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 计算（通过计算得出数字）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈrekən/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**计算**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **计算**（数学操作层面）
@@ -68,7 +66,7 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > reckon = reck（计算）+ on（动词化）→ 计算。I reckon it's going to rain = 我"算"了一下觉得要下雨 = 我认为要下雨了。reckon with = 把……计算在内→ 必须考虑到。a force to be reckoned with = 一股不可忽视的力量（必须"计算"在内的力量）。
@@ -90,7 +88,7 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（考虑到↔忽视）
 > - [[disregard]]：不理会（计算在内↔不理会）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **I reckon that...**：我认为……
 > - **reckon with**：考虑到；对付
 > - **a force to be reckoned with**：不可忽视的力量
@@ -131,19 +129,15 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "While alternative estimates of the damage from carbon emissions differ, and it's especially hard to reckon the likely costs of possible catastrophic climate events, most estimates suggest substantial negative effects."（虽然对碳排放造成的破坏的估计各不相同，而且计算可能发生的灾难性气候事件可能会造成的损失尤为困难，但多数预估都暗示了极大的负面影响——2017年6月六级阅读）
 > - "She was widely reckoned (to be) the best actress of her generation."（人们普遍认为她是她那一代最优秀的演员——通用语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

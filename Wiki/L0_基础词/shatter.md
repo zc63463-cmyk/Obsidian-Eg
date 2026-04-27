@@ -3,14 +3,12 @@ title: "shatter"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 破碎成片（猛烈撞击后碎裂）
-extension_dim: 物理→心理→抽象
+extension_dim: [物理→心理→抽象]
 phonetic: "/ˈʃætə(r)/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**破碎成片（猛烈撞击后碎裂）**"为统筹中心，沿物理→心理→抽象向外扩展：
 >
 > 1. **破碎成片**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一块玻璃从十楼摔到地上，"哗啦"一声碎成无数碎片——这就是 shatter。后来人们发现不只是玻璃会 shatter：一场事故 shatter your dreams（粉碎你的梦想），一个坏消息 shatter your confidence（摧毁你的信心），你整个人处于 shattered 状态（精神崩溃）。shatter 就是从"物理碎裂"到"心理崩溃"的完整链条。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mend]]：修补（shatter 的反义：粉碎↔修补）
 > - [[restore]]：恢复（shatter 的反义：破灭↔恢复）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shatter into pieces**：碎成碎片
 > - **shatter one's dreams/hopes**：粉碎某人的梦想/希望
 > - **shatter illusions**：打破幻想
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The second is the way PDD has shattered the myth of an impregnable fortress surrounding the titans of online shopping."（其二是拼多多如何粉碎了网购巨头的堡垒坚不可摧的错误认知。——《经济学人》）
 > - "What it did shatter was the myth that a triumphant United States could bend the world to its will."（如果说它粉碎了什么，那就是一个凯旋的美国可以随心所欲地塑造世界的神话。——英文之旅例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "elect"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 挑选出最好的人（从众人中选出）
-extension_dim: 选择-权力-能量
+extension_dim: [选择-权力-能量]
 phonetic: "/ɪˈlekt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**挑选出最好的人**"为统筹中心，沿选择-权力-能量向外扩展：
 >
 > 1. **挑选出**（选择层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > elect 来自拉丁语 *eligere*：e（出）+ legere（选择）→ 从中选出。古代希腊人用投石子来选举——把石子"选出来"投入罐中，得票最多的人当选。elect 是整个 elect 词族的核心：[[electric]]（电）源自希腊语 *elektron*（琥珀，被古人"选中"的神奇物质），[[eligible]]（有资格的）是"能被选中的"，[[eloquent]]（雄辩的）是"被选出来发言的"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reject]]：拒绝，否决（elect 的反义：选出↔否决）
 > - [[dismiss]]：罢免，解雇（elect 的反义：选举↔罢免）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **elect someone as/to something**：选举某人担任某职
 > - **elect to do something**：选择做某事
 > - **the elect president**：当选总统（尚未就职）
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She was elected as chairperson of the committee by a narrow margin."（她以微弱优势当选为委员会主席——Cambridge Dictionary 例句）
 > - "He elected to resign from his position rather than face the investigation."（他选择辞职，而不是面对调查——常见英语学习语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

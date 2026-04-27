@@ -3,14 +3,12 @@ title: "secretary"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 保管秘密的人（负责处理机密事务的人）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsekrətri/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**保管秘密的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **保管秘密的人**（社会角色层面）
@@ -66,7 +64,7 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > secretary 来自 secret（秘密）。古代的 secretary 就是替国王保管秘密文件的人——国王出征前把作战计划交给 secretary 保管，只有国王和 secretary 知道。后来 secretary 从"保管秘密"变成了"管理事务"，级别也越来越高——美国的 Secretary of State 就是国务卿，管理整个国家的"秘密"事务。
@@ -88,7 +86,7 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[boss]]：老板，上司（secretary 的反义：下属↔上司）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Secretary of State**：国务卿；（英）外交大臣
 > - **executive secretary**：执行秘书
 > - **the Treasury Secretary**：财政部长
@@ -132,19 +130,15 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The 2004 Commercial Space Launch Amendments Act, intended to encourage private space vehicles and services, prohibits the transportation secretary from regulating private spacecraft."（2004年《商业空间发射修正法案》旨在鼓励私人航天器和服务，禁止运输部长对私人航天器进行监管。——六级真题）
 > - "She is secretary to the president."（她是总裁的秘书。——柯林斯语料库）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

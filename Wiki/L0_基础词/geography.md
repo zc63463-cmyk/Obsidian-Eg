@@ -3,17 +3,14 @@ title: "geography"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 地理学（描述地球的学科）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dʒiˈɒɡrəfi/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: graph-gram
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**描述地球的学科**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **描述地球的学科**（学科层面）
@@ -62,7 +59,7 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > geo（地球）+ graph（写）+ y → 写地球 → 地理学。古代地理学家就是"写地球的人"——他们记录山川河流、国家边界，这就是 geography。
@@ -84,7 +81,7 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +93,12 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - geography 作为学科无直接反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,26 +122,22 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **physical geography**：自然地理学
 > - **human geography**：人文地理学
 > - **the geography of**：……的地形/地理
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But, the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes."（但是，美国特有的地理条件、不同种族间相互影响、以及在蛮荒的新大陆上维系旧有习俗的绝对难度，带来了巨大的变化。——考研英语阅读长难句）
 > - "The American continent's geography severely limited the lines of attack."（美洲大陆的地形严重限制了进攻路线。——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

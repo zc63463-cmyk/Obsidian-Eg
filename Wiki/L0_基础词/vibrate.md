@@ -3,14 +3,12 @@ title: "vibrate"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 快速来回摇动（物体在平衡位置附近做周期性运动）
-extension_dim: 物理→情感
+extension_dim: [物理→情感]
 phonetic: "/vaɪˈbreɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**快速来回摇动**"为统筹中心，沿物理→情感向外扩展：
 >
 > 1. **快速来回摇动**
@@ -66,7 +64,7 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vibrate 来自拉丁语 *vibrare*（摇动、颤动）。想象你拨动吉他弦——弦开始快速来回运动，这就是 vibrate。所有声音的本质都是振动：the reed in a clarinet vibrates（单簧管的簧片在振动），the vocal cords vibrate（声带在振动），the speaker cone vibrates（扬声器在振动）。你的手机收到消息时也会 vibrate（震动）。vibrate 的核心画面就是"快速来回运动"——从吉他弦到手机到大地，万物皆可 vibrate。
@@ -90,7 +88,7 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[still]]：静止的（vibrate 的反义：振动↔静止）
 > - [[steady]]：稳定的（vibrate 的反义：颤动↔稳定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **vibrate with excitement**：因兴奋而激动
 > - **the phone vibrates**：手机震动
 > - **vibrate to the music**：随音乐颤动/共鸣
@@ -136,19 +134,15 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All sound starts with something that vibrates."（所有的声音都始于某物的振动——LibreTexts Physics）
 > - "She was swaying from side to side, bobbing her head to the bass vibrating throughout the sold-out venue."（她左右摇摆，随着整个爆满场馆中回荡的低音振动点着头——CNN）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

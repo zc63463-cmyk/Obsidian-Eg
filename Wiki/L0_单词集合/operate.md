@@ -3,14 +3,12 @@ title: "operate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 工作、操作、使运转
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈɒpəreɪt/"
 pos: vi.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**投入劳动使某物运转**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **投入劳动使某物运转**（物理操作层面）
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > operate 的核心词根是 opus（工作/劳动），和 opera（歌剧）是亲戚——歌剧就是"劳动的成果"。想象你**操作**（operate）一台精密仪器，仪器开始**运转**；你**经营**一家公司，公司正常**运营**；医生在手术台上**操作**手术刀，为病人**动手术**。所有场景的核心都是：投入劳动，使某物运转。
@@ -97,7 +95,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +108,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[shut down]]：关闭/停工（operate 的精确反义：运转↔停工）
 > - [[malfunction]]：发生故障（正常运转的反义）
 > - [[idle]]：闲置/空转（投入劳动运转的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **operate a machine/system**：操作机器/系统
 > - **operate a business/company**：经营企业/公司
 > - **operate on sb**：给某人动手术
@@ -140,22 +138,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company operates in more than 50 countries."（该公司在50多个国家运营）——考研阅读常见搭配，描述跨国企业
 > - "The doctor decided to operate on the patient immediately."（医生决定立即给病人动手术）——医学/社会类阅读语境
 > - "The new regulation operates to the disadvantage of small businesses."（新法规对小企业不利）——法律政策类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

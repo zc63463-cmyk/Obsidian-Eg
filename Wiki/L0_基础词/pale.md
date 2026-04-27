@@ -3,14 +3,12 @@ title: "pale"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 失去血色的皮肤（苍白、没有颜色）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/peɪl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**失去血色的皮肤**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **失去血色**（身体层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pale 的核心画面是"失去血色的皮肤"。拉丁语 *pallidus* = 苍白的。害怕时脸色发白 = turn pale。pale blue = 浅蓝色（蓝色失去了深度）。pale by comparison = 相形见绌（在比较中显得苍白）。重要短语：beyond the pale（越界、不可接受）= 超出栅栏的范围。注意 pale 的名词"栅栏"来自不同的词源（拉丁语 *palus* 木桩），但考研中主要考查形容词"苍白的"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[flush]]：红润的（pale 的反义：苍白的↔红润的）
 > - [[vivid]]：鲜明的（pale 的反义：暗淡的↔鲜明的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pale face/skin**：苍白的脸/皮肤
 > - **turn pale**：变得苍白
 > - **pale blue/green**：浅蓝/浅绿
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Her face turned pale when she heard the devastating news about the earthquake that had struck her hometown."（当她听到家乡遭受地震的毁灭性消息时，她的脸色变得苍白——考研阅读新闻话题）
 > - "The company's recent performance pales by comparison with its achievements in the previous decade."（该公司近期的表现与过去十年的成就相比相形见绌——考研翻译商业话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

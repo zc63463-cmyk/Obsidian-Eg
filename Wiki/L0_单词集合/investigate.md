@@ -3,14 +3,12 @@ title: "investigate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 追踪痕迹寻找真相
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈvestɪɡeɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**追踪痕迹寻找真相**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **追踪痕迹寻找真相**（犯罪层面）
@@ -68,7 +66,7 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > investigate 来自拉丁语 *investigare*，in-（深入）+ *vestigium*（足迹）。想象你是一位侦探，在雨后的泥地上发现了一串脚印——你蹲下来仔细追踪每一枚足迹，一步一步跟着脚印走，最终找到了嫌疑人藏身的小屋。这就是 investigate a crime（调查案件）。再想象一位科学家，追踪实验数据中的蛛丝马迹，最终发现了新规律——这就是 investigate a phenomenon（研究现象）。investigate 的本质就是"追踪痕迹"。
@@ -93,7 +91,7 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视，忽略（调查↔忽视）
 > - [[overlook]]：忽略，漏看（仔细调查↔粗略忽略）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,28 +123,22 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **investigate a crime/case**：调查犯罪/案件（The police are investigating the murder case.）
 > - **investigate the cause**：调查原因（Scientists are investigating the cause of the disease.）
 > - **investigate the relationship**：研究...之间的关系（The study investigates the relationship between diet and health.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Scotland Yard have been called in to investigate the murder."（苏格兰场已被请来调查这起谋杀案。）——考研高频表达
 > - "The study investigates the relationship between diet and health in older adults."（这项研究调查了老年人饮食与健康之间的关系。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

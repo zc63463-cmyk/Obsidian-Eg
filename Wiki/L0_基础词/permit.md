@@ -3,14 +3,12 @@ title: "permit"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 完全送出（允许通过）
-extension_dim: 授权许可
+extension_dim: [授权许可]
 phonetic: "/pəˈmɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全送出（允许通过）**"为统筹中心，沿授权许可维度向外扩展：
 >
 > 1. **完全送出**
@@ -67,7 +65,7 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > permit = per（完全）+ mit（送）。想象一个海关官员，他检查完你的护照后，"完全送出"（per + mit）了他的限制——你被 permit（允许）入境了。他给你的那张纸就是 permit（许可证）。circumstances do not permit = 情况不允许（情况没有完全送出限制）。记住 per = 完全，mit = 送，permit = 完全送出限制 = 允许。
@@ -92,7 +90,7 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[forbid]]：禁止（permit 的精确反义：允许↔禁止）
 > - [[prohibit]]：禁止（permit 的反义：许可↔禁止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **permit sb to do sth**：允许某人做某事
 > - **circumstances do not permit**：情况不允许
 > - **work permit**：工作许可证
@@ -133,19 +131,15 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Circumstances do not permit us to delay the decision any further."（情况不允许我们进一步推迟决定。——考研英语一2013翻译）
 > - "The company must file a petition with the U.S. Department of Homeland Security for a work permit for the applicant."（公司必须向美国国土安全部为申请人申报工作许可。——考研英语二2016阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

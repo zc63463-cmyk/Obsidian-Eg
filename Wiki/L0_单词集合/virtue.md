@@ -3,14 +3,12 @@ title: "virtue"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 内在的力量、优秀品质
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈvɜːtʃuː/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**内在的力量**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **内在的力量**（品质层面——使人卓越的内在力量）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vir（力量）→ virtue：在古罗马，virtue 原指"男子气概"（vir = man）。真正的力量不是用暴力（violence）伤害别人，而是用美德（virtue）提升自己。暴力是力量的滥用，美德是力量的善用。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[vice]]：恶习，缺点（美德 vs 恶习）
 > - [[sin]]：罪恶（美德 vs 罪恶）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **by virtue of**：凭借，由于
   > She became CEO by virtue of her experience and leadership. 凭借她的经验和领导力，她成为了首席执行官。
 > - **the virtues of**：……的优点
@@ -128,21 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Patience is a virtue that every teacher should possess."（耐心是每位教师都应具备的美德。）——考研高频表达
 > - "The virtue of this approach lies in its simplicity and effectiveness."（这种方法的优点在于其简单和有效。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

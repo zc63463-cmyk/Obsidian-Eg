@@ -3,14 +3,12 @@ title: "stationery"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 固定摊位的货物（固定摊位上出售的文具用品）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈsteɪʃənri/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**固定摊位的货物**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **固定摊位的货物**（商业层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中世纪的文具商人有固定的 station（摊位），他们卖的笔、纸、墨水就叫 stationery。关键区分：station**er**y（文具）vs station**ar**y（不动的）。记忆技巧：station**er**y 中有 **er**（像 "paper"——文具就是**纸张**），station**ar**y 中有 **ar**（像 "are"——它们**是不动的**）。记住：stationery = 文具 = paper + pen。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （stationery 作为具体物品类别，无精确反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stationery store/shop**：文具店
 > - **office stationery**：办公文具
 > - **personal stationery**：个人信纸（带姓名抬头的）
@@ -124,19 +122,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She went to the stationery store to buy pens, notebooks, and envelopes."（她去文具店买了笔、笔记本和信封。）
 > - "The company's logo was printed on all its official stationery."（公司的标志印在所有官方信纸上。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

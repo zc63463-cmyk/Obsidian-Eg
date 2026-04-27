@@ -3,17 +3,14 @@ title: "priest"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 长者，年长者（教会中的年长领袖）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/priːst/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**长者/年长领袖**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **长者/年长领袖**（社会层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > priest 源自希腊语 *presbyteros*（年长的），由 *presbys*（老人）派生。基督教早期，教会由"长老"（presbyter）领导，这些德高望重的年长者就是最早的神职人员。随着时间推移，presbyter 在英语中简化为 priest。所以 priest 的本质就是"精神上的长者"——引导信众的精神生活。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[layman]]：俗人，外行（priest 的反义：神职人员↔普通信众）
 > - [[atheist]]：无神论者（priest 的反义：宗教信仰↔不信教）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a Catholic priest**：天主教神父
 > - **a parish priest**：教区牧师
 > - **ordain a priest**：任命神父
@@ -127,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The priest delivered a powerful sermon about forgiveness and redemption."（神父发表了一篇关于宽恕与救赎的有力布道）
 > - "In many cultures, priests serve as mediators between the divine and the human."（在许多文化中，祭司充当神圣与人类之间的调解者）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

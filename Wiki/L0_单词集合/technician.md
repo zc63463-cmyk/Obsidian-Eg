@@ -3,14 +3,12 @@ title: "technician"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 掌握技艺的人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/tekˈnɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**掌握技艺的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **掌握技艺的人**（职业层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > technician = techn（技艺）+ ician（人）。记住 tech 家族的分工：**scientist** 研究理论，**engineer** 做设计，**technician** 动手操作。实验室里操作仪器的是 technician，医院里操作X光机的是 technician——他们是技艺的"实践者"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[theorist]]：理论家（technician 是实践者，theorist 是研究者）
 > - [[amateur]]：业余爱好者（technician 是专业人员，amateur 是非专业人士）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lab technician**：实验室技术员
 > - **IT technician**：IT技术员
 > - **sound/lighting technician**：音响/灯光技师
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "lab technicians conduct experiments"（实验室技术员进行实验）——考研阅读中科学/教育类话题
 > - "shortage of skilled technicians"（熟练技术员的短缺）——就业/经济类话题
 > - "IT technicians maintain the computer systems"（IT技术员维护计算机系统）——科技类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

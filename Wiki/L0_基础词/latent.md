@@ -3,14 +3,12 @@ title: "latent"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 隐藏的（存在但尚未显现的状态）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈleɪtənt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**隐藏的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **隐藏的**（状态层面）
@@ -65,7 +63,7 @@ lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > latent 来自拉丁语 latere（隐藏）。latent = 藏着的。latent talent = 藏着的才华→ 潜在的才华。latent virus = 藏着的病毒→ 潜伏性病毒。记住：latent 就是"藏在暗处的"，等条件到了就会显现。
@@ -87,7 +85,7 @@ lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[manifest]]：明显的，显现的（潜在↔显现）
 > - [[overt]]：公开的（隐藏↔公开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **latent talent/ability**：潜在的才华/能力
 > - **latent infection**：潜伏性感染
 > - **latent defect**：潜在缺陷
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Within everyone there was a latent volcano of unhappiness and discontent."（在每个人心中都有一座潜伏着不幸福与不满的火山——通用语料）
 > - "The latent cause of crime is often avarice."（贪婪常是犯罪的潜在诱因——通用语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

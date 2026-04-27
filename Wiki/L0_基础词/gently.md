@@ -3,17 +3,14 @@ title: "gently"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 温和地（以柔和的方式）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdʒentli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: gentle
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**温和地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **温和地**（行为方式层面）
@@ -62,7 +59,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gently 是 gentle（温和的）的副词形式。想象一位母亲 gently（轻轻地）拍着婴儿入睡——动作轻柔、语气温和。
@@ -84,7 +81,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +93,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[harshly]]：严厉地（gently 的反义：温和地↔严厉地）
 > - [[violently]]：猛烈地（gently 作为"轻柔地"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +121,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gently remind**：温和地提醒
 > - **gently rolling**：平缓起伏的
 > - **gently push**：轻柔地推动
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Rising more than 1,000 feet in the middle of the gently rolling plains of Wyoming, the massive column of rock looks as though it was dropped down into this location from a different time and place."（在怀俄明州平缓起伏的平原中央拔地而起超过1000英尺，这块巨大的岩柱看起来就像是从另一个时空坠落于此。——考研英语阅读）
 > - "He might gently hint that Beijing is getting a little nervous about the value of the dollar."（他可能会温和地暗示，北京对美元的价值有些担忧。——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

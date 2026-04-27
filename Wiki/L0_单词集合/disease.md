@@ -3,14 +3,12 @@ title: "disease"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 离开舒适的状态
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/dɪˈziːz/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**离开舒适的状态**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **离开舒适的状态**（身体层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > dis- 是"离开"，ease 是"舒适、安逸"。disease 的字面意思就是"离开舒适"。想象一个人原本过着舒适健康的生活，突然身体"离开了舒适状态"——他生病了，这就是 disease。再想象一个社会"离开了正常运转的状态"——社会出了毛病，这也是 disease（弊病）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[health]]：健康（疾病↔健康）
 > - [[ease]]：舒适，安逸（disease 的词源反义：离开舒适↔回到舒适）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **heart/lung disease**：心脏病/肺病（Heart disease is a leading cause of death.）
 > - **infectious/contagious disease**：传染病（The infectious disease spread rapidly.）
 > - **suffer from a disease**：患病（He suffers from a rare disease.）
@@ -127,21 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Heart disease remains one of the leading causes of death worldwide."（心脏病仍然是全球主要死因之一。）——考研高频表达
 > - "The spread of infectious diseases can be prevented through proper hygiene and vaccination."（通过适当的卫生和疫苗接种可以预防传染病的传播。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "formulate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 塑造成形
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfɔːrmjəleɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ form（形状）+ -ul-（连接）+ -ate（动词后缀，使动）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**塑造成形**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **塑造成形**（物理层面：赋予形状）
@@ -63,7 +61,7 @@ form（形状）+ -ul-（连接）+ -ate（动词后缀，使动）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ form（形状）+ -ul-（连接）+ -ate（动词后缀，使动）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想法就像一团泥巴，formulate 就是用手把它捏成清晰的形状——系统阐述或制定方案。
@@ -86,7 +84,7 @@ form（形状）+ -ul-（连接）+ -ate（动词后缀，使动）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ form（形状）+ -ul-（连接）+ -ate（动词后缀，使动）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[confuse]]：使混乱——无法成形，与 formulate 的"塑造成形"相反
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,28 +112,22 @@ form（形状）+ -ul-（连接）+ -ate（动词后缀，使动）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **formulate a policy**：The government needs to formulate a new policy to address environmental issues.（政府需要制定新政策来应对环境问题。）
 > - **formulate a theory**：Darwin spent years formulating his theory of evolution.（达尔文花了数年时间系统阐述他的进化论。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government needs to formulate a comprehensive strategy to address the issue of air pollution."（政府需要制定一项综合战略来解决空气污染问题。）——考研高频表达
 > - "Scientists have formulated a new theory to explain the phenomenon of global warming."（科学家们提出了一个新理论来解释全球变暖现象。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

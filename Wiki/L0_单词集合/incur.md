@@ -3,14 +3,12 @@ title: "incur"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 跑进来，招致
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈkɜː/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(进入，into) + cur(跑，run)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**跑进来带来后果**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **跑进来带来后果**（物理层面：某物主动跑进来）
@@ -63,7 +61,7 @@ in-(进入，into) + cur(跑，run)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ in-(进入，into) + cur(跑，run)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 你不做作业，麻烦就 **in**（跑进）来 **cur**（跑）找你了——这就是 **incur**——招致麻烦。
@@ -85,7 +83,7 @@ in-(进入，into) + cur(跑，run)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ in-(进入，into) + cur(跑，run)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[avoid]]：避免，规避，与 incur 的"招致"构成反向关系
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ in-(进入，into) + cur(跑，run)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **incur debts/costs/losses**：招致债务/费用/损失
   - The company incurred heavy losses due to poor management.（由于管理不善，公司蒙受了巨大损失。）
 > - **incur sb's wrath/displeasure**：招致某人的愤怒/不满
@@ -124,21 +122,15 @@ in-(进入，into) + cur(跑，run)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Students who drop out of college may incur substantial debt without obtaining a degree.（从大学辍学的学生可能会在未获得学位的情况下背负大量债务。）
 > - The government has incurred criticism for its handling of the crisis.（政府因处理危机的方式而招致批评。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

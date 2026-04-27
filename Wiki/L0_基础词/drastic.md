@@ -3,17 +3,14 @@ title: "drastic"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 行动力强的（希腊语"有效的、有力的"）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdræstɪk/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: drama
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**行动力强的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **行动力强的**（行为层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drastic 和 drama（戏剧）同源，都来自希腊语 dran（做、行动）。drama 是"演出来的行动"，drastic 是"行动力极强的"。想象一个戏剧性的场景：医生说"必须采取 drastic measures（极端措施）！"——就像给病人上猛药，不狠不行。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mild]]：温和的（drastic 激烈↔mild 温和）
 > - [[moderate]]：适度的（drastic 极端↔moderate 适度）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **drastic measures**：极端措施，严厉措施（The government took drastic measures to curb inflation. 政府采取了严厉措施遏制通胀。）
 > - **drastic changes**：巨大变化（The company has undergone drastic changes. 公司经历了巨大变化。）
 > - **drastic reduction/cuts**：大幅削减（drastic cuts in spending 大幅削减开支）
@@ -126,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Drastic measures are needed to reduce pollution."（需要采取极端措施来减少污染。）
 > - "The economy has seen a drastic decline in exports."（经济出现了出口的大幅下降。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

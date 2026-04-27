@@ -3,14 +3,12 @@ title: "blur"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 模糊，使模糊
-extension_dim: 界限混淆
+extension_dim: [界限混淆]
 phonetic: "/blɜː/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ blur(模糊/使模糊，中古英语 *blurren*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**模糊/使模糊**"为统筹中心，沿界限混淆向外扩展：
 >
 > 1. **模糊**（视觉层面）
@@ -69,7 +67,7 @@ blur(模糊/使模糊，中古英语 *blurren*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ blur(模糊/使模糊，中古英语 *blurren*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blur 的核心就是"模糊"。想象你摘下眼镜看世界——一切都是 blur（模糊的）。tears blurred her vision = 泪水模糊了她的视线。blur the lines between work and life = 使工作和生活之间的界限变得模糊。blur the distinction between right and wrong = 使对错的区别变得模糊。everything became a blur = 一切都变得模糊不清（忙得什么都记不清）。blur 强调的是从清晰到模糊的"变化过程"，而 [[blurry]] 强调的是模糊的"状态"。
@@ -92,7 +90,7 @@ blur(模糊/使模糊，中古英语 *blurren*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ blur(模糊/使模糊，中古英语 *blurren*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clarify]]：澄清（blur 的精确反义：模糊↔澄清）
 > - [[sharpen]]：使清晰（blur 的反义：使模糊↔使清晰）
 > - [[focus]]：聚焦（blur 的反义：模糊↔聚焦）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ blur(模糊/使模糊，中古英语 *blurren*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **blur the line(s) between A and B**：使A和B之间的界限模糊
 > - **blur the distinction**：使区别变得模糊
 > - **a blur of**：一连串模糊的……
@@ -133,19 +131,15 @@ blur(模糊/使模糊，中古英语 *blurren*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The rapid development of technology has blurred the lines between work and personal life."（技术的快速发展使得工作与个人生活之间的界限变得模糊。——考研英语阅读科技类话题，blur the lines 高频考点）
 > - "The distinction between public and private interests has become increasingly blurred in modern governance."（在现代治理中，公共利益与私人利益之间的区别变得越来越模糊。——考研英语阅读政治类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "guild"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 行会
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɡɪld/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: guide
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**行会**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **行会**（历史层面：中世纪手工业者组织）
@@ -61,7 +58,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中世纪的铁匠、木匠组成 guild，互相教手艺、互相保护利益——这就是行会的起源。
@@ -83,7 +80,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +93,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（guild 是中性组织概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,28 +109,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Writers Guild**：The Writers Guild called a strike over pay disputes.（编剧工会因薪酬纠纷发起罢工。）
 > - **guild member**：Only guild members were allowed to practice the craft.（只有行会成员才能从事这门手艺。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In medieval Europe, guilds played a crucial role in regulating trade and protecting the interests of craftsmen."（在中世纪的欧洲，行会在规范贸易和保护工匠利益方面发挥了关键作用。）——考研高频表达
 > - "The Screen Actors Guild represents thousands of performers in the entertainment industry."（美国演员工会代表了娱乐行业的数千名表演者。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

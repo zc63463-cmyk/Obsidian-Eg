@@ -3,14 +3,12 @@ title: "drama"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 在舞台上表演的行动/戏剧
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈdrɑːmə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**舞台上的表演**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **舞台上的表演**（艺术层面：戏剧、剧本）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > dran（做/行动）→ 演员在舞台上"做"出来的东西 → drama（戏剧）。想象古希腊演员在舞台上表演——那就是 drama 的起源。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[comedy]]：喜剧（与"戏剧"作为广义对立——但 drama 可包含喜剧）
 > - （drama 的反义关系较弱，更多是与平淡/boredom 形成对比）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a drama queen**：戏精（形容小题大做的人）
   > Don't be such a drama queen about a minor mistake.
 > - **stage a drama**：上演一出戏剧
@@ -122,19 +120,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama."（莎士比亚的一生与戏剧领域一个非凡活跃和成就卓著的时期恰好重合——2018年考研翻译）
 > - "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy."（莎士比亚出生之时，宗教戏剧在欧洲正在消亡，而在古典悲剧和喜剧的推动下，新的戏剧形式正在被创造出来——2018年考研翻译）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "invitation"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 朝向某人的行为（引导某人前来）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌɪnvɪˈteɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**朝向某人的行为（引导前来）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **朝向某人发出邀请**（社交层面）
@@ -66,7 +64,7 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（朝向）+ vit（追求）→ 朝某人发出追求 → 邀请。婚礼的 invitation（请柬）就是新人"朝向"亲友发出的追求——"请你们来参加我们的婚礼"。invitation 也可以是消极的：leaving the door open is an invitation to thieves（不锁门就是给小偷的"邀请"）。
@@ -89,7 +87,7 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rejection]]：拒绝（invitation 的反义：邀请↔拒绝）
 > - [[exclusion]]：排斥（invitation 的反义：邀请加入↔排斥在外）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **accept/decline an invitation**：接受/拒绝邀请
 > - **send out invitations**：发出请柬
 > - **at someone's invitation**：应某人之邀
@@ -127,18 +125,14 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She received an invitation to speak at the international conference."（她收到了在国际会议上发言的邀请）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

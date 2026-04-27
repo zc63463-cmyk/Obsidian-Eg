@@ -3,17 +3,14 @@ title: "harassment"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 反复骚扰（持续不断地烦扰或攻击）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/həˈræsmənt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: harass
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复骚扰**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **反复骚扰**（社会行为层面）
@@ -66,7 +63,7 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > harass 来自法语"纵狗咬人"——猎人放狗反复攻击猎物。harassment 就是这种"反复攻击"的行为。在现代法律中，sexual harassment（性骚扰）就是反复对他人进行不受欢迎的性相关行为。harassment = 反复攻击 = 骚扰。
@@ -88,7 +85,7 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[comfort]]：安慰（harassment 的反义：骚扰↔安慰）
 > - [[protection]]：保护（harassment 的反义：攻击↔保护）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +124,7 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sexual harassment**：性骚扰
 > - **workplace harassment**：职场骚扰
 > - **racial harassment**：种族骚扰
@@ -135,19 +132,15 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They have a policy of zero tolerance for sexual harassment."（他们对性骚扰采取零容忍政策。——考研英语阅读相关语料）
 > - "The party has accused the police of harassment."（该党指控警方进行骚扰。——考研英语阅读相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

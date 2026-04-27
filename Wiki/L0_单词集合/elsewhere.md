@@ -3,17 +3,14 @@ title: "elsewhere"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 在其他某个地方
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌelsˈweə/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在其他某个地方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在其他某个地方**（空间指代层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**（优先）：
 > elsewhere = else（其他）+ where（哪里/地方）→ 其他地方 → 别处。不需要任何词源知识，拆开就能理解——else 是"其他"，where 是"哪里"，合在一起就是"其他哪里"→ 别处。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[here]]：这里（elsewhere 的精确反义：别处 ↔ 这里）
 > - [[nowhere]]：无处（elsewhere "在别处"义的反义：有处 ↔ 无处）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **look/seek elsewhere**：到别处寻找
 > - **found elsewhere**：在其他地方找到
 > - **elsewhere in the world/country**：在世界/国家其他地方
@@ -125,22 +122,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "jobs that can be done elsewhere"（可以在别处完成的工作）——考研阅读常见搭配，描述全球化、远程工作等话题
 > - "elsewhere in the world"（在世界其他地方）——比较类论述中常见
 > - "look elsewhere for solutions"（到别处寻找解决方案）——问题解决类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

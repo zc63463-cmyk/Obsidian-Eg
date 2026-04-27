@@ -3,17 +3,14 @@ title: "retrieve"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 再次找到（把丢失的东西重新找回来）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/rɪˈtriːv/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: trieve
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -45,7 +42,7 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**再次找到（重新找回）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **再次找到**（物理层面）
@@ -69,7 +66,7 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（再）+ trieve（找到，古法语 *trouver*）→ 再次找到 → 取回/找回。想象你在沙滩上丢了戒指，焦急地翻找，终于 re-trieve（再次找到）了它。在电脑上按 Ctrl+F 就是 retrieve——在文档中再次找到你要的信息。
@@ -91,7 +88,7 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lose]]：丢失（retrieve 的精确反义：找回↔丢失）
 > - [[misplace]]：放错位置（retrieve 的反义：找回↔放错）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **retrieve data/information**：检索数据/信息
 > - **retrieve a file**：取回文件
 > - **retrieve the situation**：挽回局面
@@ -130,19 +127,15 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The system allows users to retrieve information quickly and efficiently."（该系统允许用户快速高效地检索信息——科技类阅读）
 > - "She managed to retrieve the situation with a brilliant speech."（她凭借精彩的演讲成功挽回了局面——议论文语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

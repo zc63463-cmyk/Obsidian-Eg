@@ -3,14 +3,12 @@ title: "elicit"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 引诱出隐藏的事物
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈlɪsɪt/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引诱出隐藏的事物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **引诱出隐藏的事物**（信息获取层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > elicit = e（=ex，出）+ lic（=lacere，引诱）+ it → 引诱出来 → 引出。想象侦探用巧妙的问题设下**诱饵**，把嫌疑人**引诱出**真相；再想象一首动人的音乐把听众**引出**了深藏的眼泪——从诱捕猎物到引出信息，都是 elicit。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[suppress]]：压制/抑制（elicit 的精确反义：引出 ↔ 压制）
 > - [[conceal]]：隐藏/隐瞒（elicit "引出隐藏之物"义的反义：引出 ↔ 隐藏）
 > - [[stifle]]：扼杀/压制（反应层面的反义：引起反应 ↔ 扼杀反应）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **elicit a response/reaction**：引起反应
 > - **elicit information**：探出信息
 > - **elicit sympathy**：引起同情
@@ -130,22 +128,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "elicit a strong response from the public"（引起公众的强烈反应）——考研阅读常见搭配，描述社会现象引发的反应
 > - "elicit information through careful questioning"（通过仔细提问探出信息）——学术研究、调查类语境
 > - "elicit sympathy from readers"（引起读者的同情）——文学评论类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

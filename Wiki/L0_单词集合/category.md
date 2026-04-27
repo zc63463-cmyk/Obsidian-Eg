@@ -3,14 +3,12 @@ title: "category"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 公开说出的分类→类别
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkætəɡəri/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**公开说出的分类→类别**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **公开说出分类**（言语动作）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > category = cata-（完全）+ gory（说）→ 完全公开地说出 → 分类 → 类别。想象亚里士多德在古希腊广场上，把动物分为"有羽毛的"和"没有羽毛的"，然后大声宣布——这就是 category（类别）。每次你去超市，看到商品按"食品""日用品""电子产品"分区，每个分区就是一个 category。记住 cata = 完全，gory = 说，category = 完全公开说出 → 类别。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[individual]]：个体（类别↔个体）
 > - [[mixture]]：混合物（分类↔混合）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **product category**：产品类别
 > - **age category**：年龄类别
 > - **fall into a category**：属于某一类别
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Products in this category are exempt from tax."（这一类别的产品免税）——商业话题
 > - "The data was analyzed by age category and gender."（数据按年龄类别和性别进行了分析）——研究话题
 > - "This problem falls into a completely different category."（这个问题属于完全不同的类别）——学术话题
@@ -138,15 +136,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

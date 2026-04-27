@@ -3,14 +3,12 @@ title: "executive"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 执行的人，执行的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪɡˈzekjətɪv/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**执行的人，执行的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **执行的人，执行的**（人物层面）
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 公司的董事会制定战略，executive（高管）负责 execute（执行）——他们坐在 executive suite（行政套房）里做 executive decision（行政决策）。在国家层面，总统领导 executive branch（行政部门），负责执行国会通过的法律。
@@ -98,7 +96,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,14 +109,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[legislative]]：立法的（行政↔立法）
 > - [[judicial]]：司法的（行政↔司法）
 > - [[employee]]：雇员（高管↔普通员工）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **chief executive officer (CEO)**：首席执行官
 > - **executive branch**：行政部门
 > - **executive power**：行政权
@@ -139,20 +137,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In today's world, it has become normal that well-paid executives should not be accountable for what happens in the organisations that they run."（在当今世界，拿着高薪的总裁们管理着公司，却不必为公司里所发生的事情负责，这已成为常态。）——2015年考研真题
 > - "The executive branch of government is responsible for implementing laws and managing the affairs of the state."（政府的行政部门负责执行法律和管理国家事务。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "succession"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 一个接一个地走（连续走上来）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/səkˈseʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一个接一个地走（连续走上来）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **一个接一个地走**（时间连续层面）
@@ -67,7 +65,7 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > suc（后面）+ cess（走）→ 一个接一个从后面走上来。三天连续下雨——three days in succession。王子继承王位——succession to the throne。一连串的事件——a succession of events。succession 就是"一个接一个"。
@@ -89,7 +87,7 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[interval]]：间隔，间歇（succession 的反义：连续↔间隔）
 > - [[interruption]]：中断，打断（succession 的反义：连续↔中断）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in succession**：连续地，接连地
 > - **a succession of**：一系列，一连串
 > - **succession to the throne**：王位继承
@@ -131,19 +129,15 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is carried by a succession of runners to the stadium."（火炬由一系列接力跑者传递到体育场——1987年考研Text 2）
 > - "Life was just an endless succession of parties and dinners."（生活不过是无休止的宴会和晚餐的交替——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "verbal"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 用词语表达的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈvɜːrbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用词语表达的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **用词语表达的**（语言层面：一切与词语有关的属性）
@@ -70,7 +68,7 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个古罗马演说家站在广场上，他不用纸笔，只用**词语**（ver）就能让全场沸腾——这就是 **verbal**（口头的）的力量。
@@ -95,7 +93,7 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[written]]：书面的（verbal agreement vs. written agreement，口头协议 vs. 书面协议）
 > - [[nonverbal]]：非语言的（verbal communication vs. nonverbal communication，语言沟通 vs. 非语言沟通）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **verbal agreement**：口头协议（They reached a verbal agreement but never signed a contract.）
 > - **verbal abuse**：言语侮辱（Verbal abuse can be as damaging as physical violence.）
 > - **verbal communication**：语言交流（Verbal communication accounts for only a small part of human interaction.）
@@ -135,23 +133,15 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Verbal communication is just as important as non-verbal communication."（语言交流与非语言交流同样重要。）——考研高频表达
 > - "There was a verbal agreement between the two parties before the contract was signed."（在签署合同之前，双方之间有一个口头协议。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

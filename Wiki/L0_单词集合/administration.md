@@ -3,14 +3,12 @@ title: "administration"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 站在旁边协助管理
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ədˌmɪnɪˈstreɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ad-(=to, toward, 向、朝) + [[ministr]](=serve, minister, 服务、协助) + -
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在旁边协助服务**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **站在旁边协助服务**（社会层面：辅助领导工作）
@@ -65,7 +63,7 @@ ad-(=to, toward, 向、朝) + [[ministr]](=serve, minister, 服务、协助) + -
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ad-(=to, toward, 向、朝) + [[ministr]](=serve, minister, 服务、协助) + -
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ad（朝向）+ minister（部长/仆人）+ ation（名词后缀）→ 站在部长旁边协助服务 → administration（行政管理）。
@@ -87,7 +85,7 @@ ad-(=to, toward, 向、朝) + [[ministr]](=serve, minister, 服务、协助) + -
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ ad-(=to, toward, 向、朝) + [[ministr]](=serve, minister, 服务、协助) + -
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[opposition]]：反对（政治层面，行政机关的对立面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ ad-(=to, toward, 向、朝) + [[ministr]](=serve, minister, 服务、协助) + -
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **public administration**：公共行政
   - She has a degree in public administration.（她拥有公共管理学位。）
 > - **the administration**：（政府）当局、行政部门
@@ -124,21 +122,15 @@ ad-(=to, toward, 向、朝) + [[ministr]](=serve, minister, 服务、协助) + -
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The administration of the university is responsible for student welfare."（大学行政部门负责学生的福利。）——考研高频表达
 > - "The new administration has promised to reform the healthcare system."（新政府已承诺改革医疗体系。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

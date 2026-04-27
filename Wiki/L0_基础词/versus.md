@@ -3,14 +3,12 @@ title: "versus"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 对，与……相对（两个方向转向对立）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈvɜːsəs/"
 pos: prep.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**对，与……相对（两个方向转向对立）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与……相对**（关系层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > versus 来自 [[ver-vert]]（转）词根。vers（转向）→ versus 就是两个方向"转向"彼此，形成对立。最常见的缩写是 vs.——NBA 总决赛 Lakers vs. Celtics，就是湖人队"转向"凯尔特人队（湖人对凯尔特人）。在学术论文中，cost versus benefit（成本与收益对比），quality versus quantity（质量与数量对比）。在法律中，Brown versus Board of Education 就是著名的"布朗诉教育委员会案"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[with]]：与……一起（versus 的反义：对立↔合作）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **A versus B**：A 对 B / A 与 B 相比
 > - **cost versus benefit**：成本与收益对比
 > - **quality versus quantity**：质量与数量对比
@@ -132,20 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The concept of man versus machine is at least as old as the industrial revolution."（人与机器对立的概念至少可以追溯到工业革命时期。——2014年考研英语二阅读Text 3）
 > - "The most exciting game was Harvard versus Yale."（最富紧张刺激的球赛是哈佛队对耶鲁队。——柯林斯语料库）
 > - "Only 18.8% of the class of 1982 had some kind of diploma four years after high school, versus 45% of the class of 1972."（1982届高中毕业生中只有18.8%在四年后获得了某种文凭，相比之下1972届为45%。——柯林斯语料库）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

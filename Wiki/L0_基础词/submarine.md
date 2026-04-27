@@ -3,17 +3,14 @@ title: "submarine"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 在海面下航行的（潜入水下运作的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌsʌbməˈriːn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: marine
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在海面下航行的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在海面下航行的**（空间层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sub（在海面**下面**）+ marine（**海**的）→ 在海面下面航行的船 → **潜水艇**。一艘 submarine 潜入海面之下，在深海中悄无声息地航行。submarine cable（海底电缆）铺设在海面之下，submarine volcano（海底火山）隐藏在海面之下。submarine 就是"在海面之下"。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[surface]]：水面（submarine 的反义：水下↔水面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nuclear submarine**：核潜艇
 > - **submarine warfare**：潜艇战
 > - **submarine cable**：海底电缆
@@ -124,19 +121,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The submarine dived to a depth of 300 meters."（潜艇下潜到300米深处。）
 > - "Submarine cables carry most of the world's internet traffic."（海底电缆承载了世界上大部分的互联网流量。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

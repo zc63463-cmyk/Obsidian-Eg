@@ -3,14 +3,12 @@ title: "captain"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 队长（群体的领导者）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkæptɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**队长（群体的领导者）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **队长**（社会层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > captain = capt（头）+ ain（人）= "头人"。拉丁语 *caput* 意为"头"，captain 就是站在队伍最前面的人——领导者。船上的 captain（船长）负责整艘船的安全，军队的 captain（上尉）负责指挥士兵，体育队的 captain（队长）负责带领团队。所有 captain 都是"头人"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[soldier]]：士兵（captain 的反义：军官↔士兵）
 > - [[follower]]：追随者（captain 的反义：领导者↔追随者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **captain of a ship**：船长
 > - **team captain**：队长
 > - **army captain**：陆军上尉
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He served as a captain in the army."（他曾是一名陆军上尉——考研翻译相关语料）
 > - "He captained the school's basketball team to three championship wins."（他带领学校篮球队赢得了三次冠军——考研阅读相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "unusual"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 不寻常的，与平常不同的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ʌnˈjuːʒuəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与平常不一样**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与平常不一样**（频率层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > un-（不）+ usual（通常的）= unusual（不寻常的）。usual 来自拉丁语 usus（使用、习惯）——人们**习惯**的方式就是 usual。而不按习惯出牌的，就是 unusual。想象你每天走同一条路回家（usual），今天突然换了一条从未走过的路——这就是 unusual（不寻常的）。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,7 +104,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[usual]]：通常的，平常的（unusual 的直接反义：不寻常↔通常的）
 > - [[common]]：常见的，普通的（罕见的↔常见的）
 > - [[ordinary]]：普通的，平凡的（与众不同的↔普通的）
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an unusual event/occurrence**：不寻常的事件
 > - **highly/particularly unusual**：极不寻常的
 > - **an unusual name**：不寻常的名字
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "an unusual approach to the problem"（解决问题的不寻常方法）——考研阅读学术类文章
 > - "highly unusual"（极不寻常的）——考研阅读常见搭配，强调异常程度
 > - "unusual circumstances"（异常情况）——法律/社会类文章
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "escalate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 通过阶梯上升（沿阶梯一步步往上走）
-extension_dim: 行动路径
+extension_dim: [行动路径]
 phonetic: "/ˈeskəleɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**通过阶梯上升（沿阶梯一步步往上走）**"为统筹中心，沿行动路径向外扩展：
 >
 > 1. **沿阶梯上升**（行动层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > escalate 来自拉丁语 *scala*（阶梯）。想象两个人站在自动扶梯（escalator）上，扶梯不断把他们往高处送——这就是 escalate 的原始画面。冲突从口角到争吵到打架，就像爬楼梯一样"一步步升级"（escalate）。考研中常用于：escalate the conflict（使冲突升级）、escalating tensions（不断加剧的紧张局势）。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[de-escalate]]：降级（escalate 的精确反义：升级↔降级）
 > - [[diminish]]：减少（escalate 的反义：加剧↔减少）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **escalate the conflict/war**：使冲突/战争升级（考研高频搭配）
 > - **tensions escalate**：紧张局势加剧
 > - **escalating costs/prices**：不断上升的成本/价格
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The trade dispute between the two countries has escalated into a full-scale economic war."（两国之间的贸易争端已升级为全面经济战——考研阅读国际话题高频表达）
 > - "As the protest escalated, the government deployed additional police forces to maintain order."（随着抗议活动升级，政府部署了额外的警力来维持秩序——考研阅读社会话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

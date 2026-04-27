@@ -3,14 +3,12 @@ title: "respect"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 回头看（带着敬意注视）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈspekt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**回头看（带着敬意注视）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **回头看**（人际层面）
@@ -68,7 +66,7 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（回）+ spect（看）→ 回头看。古代将军回头看战败的对手，不嘲笑而是致敬——这就是 respect。回头看法律，不违反而是遵守——这也是 respect。回头看一个问题，从不同角度看——in this respect。
@@ -91,7 +89,7 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[contempt]]：轻蔑，蔑视（respect 的精确反义：尊重↔蔑视）
 > - [[disrespect]]：不尊重，无礼（respect 的直接反义）
 > - [[disregard]]：忽视，漠视（respect the law 的反义：遵守↔忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **show respect for**：对……表示尊重
 > - **earn/win respect**：赢得尊重
 > - **respect the law/rules**：遵守法律/规则
@@ -134,19 +132,15 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It takes more than a brief encounter on a bus to distinguish between courteous convention and individual interest."（要区分礼貌的惯例和个人兴趣，需要的不仅仅是在公交车上的短暂相遇——1997年考研阅读）
 > - "We should respect the rights of others even when we disagree with them."（即使我们不同意他人的观点，也应该尊重他们的权利——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

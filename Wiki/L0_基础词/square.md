@@ -3,14 +3,12 @@ title: "square"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 四边相等的形状（直角四边形）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/skweə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**四边相等的形状**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **正方形**（几何层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > square 源自拉丁语 *quadrus*（正方形），与 *quattuor*（四）同源。核心画面是"木匠的直角尺"——用来测量直角的工具。正方形四边相等、四角都是直角，代表"公正、公平"。Fair and square（公正合理）= 像正方形一样"方方正正"。Square the account（结清账目）= 让账目"方正"清楚。Three square meters（三平方米）= 正方形的面积单位。Times Square（时代广场）= 方形的公共空间。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[round]]：圆形的（square 的精确反义：方形↔圆形）
 > - [[unfair]]：不公正的（square 的反义：公正↔不公正）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fair and square**：公正合理
 > - **square meters**：平方米
 > - **square root**：平方根
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company promised to square accounts with all its creditors before the end of the financial year."（公司承诺在财政年度结束之前与所有债权人结清账目——考研阅读商业话题相关表达）
 > - "The new regulations aim to ensure that all candidates are treated fair and square throughout the selection process."（新规旨在确保所有候选人在整个选拔过程中都得到公正对待——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "sociology"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 研究社会的学问
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌsəʊsiˈɒlədʒi/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: soci
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**研究社会的学问**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **研究社会的学问**（学科层面）
@@ -61,7 +58,7 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > soci（同伴/社会）+ logy（学问）= 研究社会的学问 → 社会学
@@ -84,7 +81,7 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +94,12 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （作为学科，sociology 没有严格意义上的反义词，但可与个体层面的学科形成互补关系）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sociology department**：社会学系
   - She is a professor in the sociology department at the university.（她是大学社会学系的教授。）
 > - **sociological research**：社会学研究
@@ -125,22 +122,16 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Sociology provides valuable insights into the structure and dynamics of modern society."（社会学为理解现代社会的结构和动态提供了宝贵的洞见。）——考研高频表达
 > - "The study of sociology helps us understand how individuals are shaped by their social environment."（社会学研究帮助我们理解个人是如何被其社会环境所塑造的。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

@@ -3,14 +3,12 @@ title: "indicate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 指向某个方向
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈɪndɪkeɪt/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**指向某个方向**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **指向某个方向**（物理层面）
@@ -71,7 +69,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > indicate = in（向）+ dic（说/指出）= 指出来。想象一个路标用箭头**指向**某个方向——这就是 indicate 的本义。延伸开来：数据**指向**某个结论（表明），症状**指向**某种疾病（暗示），调查**指向**某种需求（需要）。dic- 词根家族：dictate（命令→说出）、dictionary（字典→说出的话的集合）、predict（预言→提前说出）。
@@ -93,7 +91,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏（indicate "表明/显示"的反义）
 > - [[hide]]：掩盖（indicate "指出"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **indicate that...**：表明……
 > - **indicate the need for sth.**：表明需要……
 > - **research indicates that...**：研究表明……
@@ -134,22 +132,16 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Research indicates that sleep deprivation can impair cognitive function."（研究表明，睡眠不足会损害认知功能）——科普/健康类阅读
 > - "The survey results indicate a growing dissatisfaction with the current system."（调查结果表明，人们对现行体制的不满日益增长）——社会调查类话题
 > - "Studies have indicated that early intervention is crucial for children with learning difficulties."（研究已表明，早期干预对有学习困难的儿童至关重要）——教育类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "meantime"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 中间的那段时间
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈmiːntaɪm/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**中间的那段时间**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **中间的那段时间**（名词层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > meantime 就是 mean（中间）+ time（时间）= 中间的时间。想象你在等面试结果，从面试结束到收到通知之间那段时间就是 the meantime。你可以说 "in the meantime, I'll keep applying"（在此期间，我会继续申请）。meantime 和 meanwhile 几乎完全 interchangeable，但 meantime 更常作名词用在 "in the meantime" 中。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[thereafter]]：此后，在那之后（时间方向相反：meantime 是"在……期间"，thereafter 是"在……之后"）
 > - [[afterward]]：后来，之后（时间方向的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,29 +121,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in the meantime**：在此期间（最核心搭配）
 > - **for the meantime**：暂时（英式英语）
 > - **in the meantime, ...**：在此期间，……（引导并列动作）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "in the meantime, however, ..."（然而在此期间……）——考研阅读中常见的过渡句式，连接两个并行事件
 > - "for the meantime"（暂时）——考研阅读中描述临时措施
 > - "In the meantime, the government should..."（在此期间，政府应该……）——考研阅读/翻译中政策建议类表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

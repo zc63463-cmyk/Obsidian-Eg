@@ -3,14 +3,12 @@ title: "threat"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 压迫、胁迫
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/θret/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**压迫、胁迫**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **压迫、胁迫**（物理/社会压力层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > threat 和 thrust（推、刺）是远房亲戚——原始印欧语 *\*treud-* 就是"推、紧压"。想象一群人（原始义"人群"）向你**压过来**，那种压迫感就是 threat。从"人群压迫"到"言语威胁"再到"危险征兆"，都是同一种"压力"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[protection]]：保护（消除威胁的存在）
 > - [[security]]：安全（威胁的反面状态）
 > - [[safeguard]]：保障措施（防范威胁的手段）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pose a threat to**：对……构成威胁
 > - **under threat**：受到威胁
 > - **a serious/major threat**：严重的/重大的威胁
@@ -132,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Climate change poses a serious threat to biodiversity."（气候变化对生物多样性构成严重威胁）——考研阅读常见话题
 > - "under the threat of losing their jobs"（在失业的威胁下）——社会经济类阅读语境
 > - "an empty threat"（空口威胁）——日常/文学类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

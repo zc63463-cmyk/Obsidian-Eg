@@ -3,14 +3,12 @@ title: "estate"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 状态（拥有的状态/地位）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪˈsteɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**状态（拥有的状态/地位）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **状态**（存在层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > es（存在）+ -ate（状态）→ estate（存在的状态）。real estate = 真实的存在状态 = 房地产（你拥有的土地和房屋就是你"真实的存在"）。estate tax = 遗产税（对你"存在状态"的税收）。the fourth estate = 第四阶层 = 新闻界（媒体的"存在状态"）。estate = 你的存在 = 你拥有的东西。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（estate 的含义较独特）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **real estate**：房地产
 > - **estate agent**：房地产经纪人
 > - **housing estate**：住宅区
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Real estate prices have risen sharply in major cities over the past decade."（过去十年中，主要城市的房地产价格急剧上涨——考研阅读经济类话题高频表达）
 > - "He inherited a large estate from his grandfather, including a manor house and extensive farmland."（他从祖父那里继承了大笔遗产，包括一座庄园和大片农田——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "light"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 发光（使事物变得可见的能量）
-extension_dim: 感知维度
+extension_dim: [感知维度]
 phonetic: "/laɪt/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**发光（使事物变得可见）**"为统筹中心，沿感知维度向外扩展：
 >
 > 1. **发光**（物理层面）
@@ -78,7 +76,7 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -90,7 +88,7 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > light 的原始印欧语祖先 *\*leuk-* 就是"发光"。想象远古时代，人类第一次发现火——那团火焰发出的 light（光）驱散了黑暗，让世界变得可见。后来，爱迪生发明了电灯（light），人们不再害怕黑夜。而在思想层面，当你"把真相带到光下"（bring to light），你就获得了启发（insight）。light 还有一个同形义"轻"——光是没有重量的，所以"光"和"轻"共用 light。记住：light = 发光 = 光/灯/启发/轻。
@@ -102,7 +100,7 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -115,7 +113,7 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dark]]：黑暗的（light 的精确反义：光↔暗）
 > - [[heavy]]：重的（light 同形词的反义：轻↔重）
 > - [[darkness]]：黑暗（light 的反义：光明↔黑暗）
@@ -123,7 +121,7 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -138,7 +136,7 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shed/throw light on**：阐明，使……明朗
 > - **bring something to light**：揭露，暴露
 > - **come to light**：为人所知，真相大白
@@ -149,19 +147,15 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In light of the recent economic downturn, many companies have been forced to reconsider their expansion strategies."（鉴于最近的经济衰退，许多公司被迫重新考虑其扩张策略——考研英语阅读，经济话题）
 > - "Recent research has shed new light on the relationship between sleep quality and cognitive performance."（最近的研究为睡眠质量与认知表现之间的关系提供了新的见解——考研英语阅读，科学研究话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

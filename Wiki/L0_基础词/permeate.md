@@ -3,14 +3,12 @@ title: "permeate"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 完全通过（贯穿渗透）
-extension_dim: 扩散渗透
+extension_dim: [扩散渗透]
 phonetic: "/ˈpɜːmieɪt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全通过（贯穿渗透）**"为统筹中心，沿扩散渗透维度向外扩展：
 >
 > 1. **完全通过**
@@ -66,7 +64,7 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > permeate = per（完全）+ me（通过）+ -ate（动词后缀）。想象一滴墨水滴入清水中，慢慢扩散，最终"完全通过"了整杯水——这就是 permeate（渗透/弥漫）。当一种新的文化理念 permeate 了整个社会，它就像墨水扩散一样，渗透到了社会的每个角落。记住 per = 完全，me = 通过，permeate = 完全通过 = 渗透弥漫。
@@ -88,7 +86,7 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[block]]：阻挡（permeate 的反义：渗透↔阻挡）
 > - [[repel]]：排斥（permeate 的反义：渗入↔排斥）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **permeate through**：渗透穿过
 > - **permeate the air**：弥漫在空气中
 > - **permeate society**：渗透到社会中
@@ -128,19 +126,15 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The idea that education should permeate every aspect of life has gained wide acceptance."（教育应渗透到生活每个方面的理念已获得广泛认同。——考研英语一2017翻译）
 > - "A sense of optimism permeated the entire community after the successful reform."（改革成功后，一种乐观情绪弥漫了整个社区。——考研英语写作常用表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

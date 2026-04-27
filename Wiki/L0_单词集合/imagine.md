@@ -3,14 +3,12 @@ title: "imagine"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 在脑海中形成图像
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈmædʒɪn/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在脑海中形成图像**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在脑海中形成图像**（具象认知层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > imagine 和 [[image]]（图像）是亲兄弟——image 是"图像"本身，imagine 是"在脑中制造图像"。想象你在脑海中挂了一块屏幕，上面播放着你"想象"的画面：可能是未来生活的蓝图，可能是对某个问题的"猜想"，也可能是你"误以为"的真相。从画面到判断，都是 imagine。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disbelieve]]：不相信（imagine"误以为"的反义：不轻信脑中的画面）
 > - [[doubt]]：怀疑（imagine"猜想"的反义：对推测持保留态度）
 > - [[forget]]：忘记（想象的反义：无法在脑中形成图像）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **imagine doing sth**：想象做某事
 > - **imagine that / imagine wh-**：猜想，推测
 > - **imagine oneself (to be)**：自以为是……，把自己想象成……
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is difficult to imagine a world without the internet."（很难想象一个没有互联网的世界）——考研写作/翻译常见句式
 > - "I imagine that he will agree."（我猜想他会同意）——日常推测用法
 > - "She imagined herself to be a great artist."（她自以为是一位伟大的艺术家）——"误以为"用法
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

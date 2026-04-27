@@ -3,14 +3,12 @@ title: "evolve"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 向外滚动/展开
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪˈvɒlv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ e-(=ex-, 向外) + [[volv|vol]](滚动) → 向外滚动、展开
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外滚动、展开**"为统筹中心，沿**时间路径**向外扩展：
 >
 > 1. **向外滚动、展开**（物理层面：卷轴展开的动作）
@@ -67,7 +65,7 @@ e-(=ex-, 向外) + [[volv|vol]](滚动) → 向外滚动、展开
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ e-(=ex-, 向外) + [[volv|vol]](滚动) → 向外滚动、展开
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一卷古老的卷轴被缓缓**向外滚动展开**（e + volv），每展开一层就显露更多内容——生命也是如此，从单细胞逐步展开为万物。
@@ -90,7 +88,7 @@ e-(=ex-, 向外) + [[volv|vol]](滚动) → 向外滚动、展开
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ e-(=ex-, 向外) + [[volv|vol]](滚动) → 向外滚动、展开
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[devolve]]：退化、移交（权力下放，与evolve方向相反）
 > - [[stagnate]]：停滞不前（进化/发展的反面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ e-(=ex-, 向外) + [[volv|vol]](滚动) → 向外滚动、展开
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **evolve from**：从……进化而来
 >   The modern corporation evolved from the small family businesses of the 19th century.
 > - **evolve into**：发展成，进化为
@@ -129,22 +127,14 @@ e-(=ex-, 向外) + [[volv|vol]](滚动) → 向外滚动、展开
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "However, whether such a sense of fairness evolved independently in capuchins and humans, or whether it stems from the common ancestor, is yet to be investigated."（然而，这种公平感是在僧帽猴和人类身上各自独立演化而成，还是源自共同祖先，还有待研究。）——2005年考研真题
 > - "The English language has evolved significantly over the centuries, borrowing words from many other languages."（英语几个世纪以来发生了显著演变，从许多其他语言中借用了词汇。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

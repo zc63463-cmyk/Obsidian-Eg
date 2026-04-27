@@ -3,14 +3,12 @@ title: "deed"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 做过的事（已经完成的行动）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/diːd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**做过的事（已完成的行动）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **做过的事**（行为层面）
@@ -67,7 +65,7 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > deed 就是 do（做）的名词形式——"做过的事"。His heroic deeds were celebrated in every corner of the country（他的英勇事迹在全国各地广为传颂）。She is always doing good deeds（她总是在做好事）。买房时需要签 title deed（所有权证书）——这是记录财产转让行为的法律文件。
@@ -90,7 +88,7 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[word]]：言语（deed 的反义：行动↔言语，in word and deed）
 > - [[inaction]]：不作为（deed 作为"行动"的反义：行动↔不作为）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **do a good deed**：做一件好事
 > - **in word and deed**：在言语和行动上
 > - **title deed**：所有权证书，地契
@@ -131,19 +129,15 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "His heroic deeds were celebrated in every corner of the country."（他的英勇事迹在全国各地广为传颂——考研社会类语料）
 > - "A good deed is its own reward."（善有善报——考研写作可用谚语）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

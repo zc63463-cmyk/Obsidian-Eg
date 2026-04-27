@@ -3,14 +3,12 @@ title: "token"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 标记、符号、象征
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈtəʊkən/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ to-(朝向) + -ken(古英语"显示、表明"的词根)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**标记、符号**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **标记、符号**（物理层面：看得见的标志物）
@@ -69,7 +67,7 @@ to-(朝向) + -ken(古英语"显示、表明"的词根)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ to-(朝向) + -ken(古英语"显示、表明"的词根)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > token 和 teach 同源——教人的东西就是"标记"，让你看到它就想起某个道理。
@@ -92,7 +90,7 @@ to-(朝向) + -ken(古英语"显示、表明"的词根)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ to-(朝向) + -ken(古英语"显示、表明"的词根)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reality]]：现实（token 作为"象征性的"的反义——形式 vs 实质）
 > - [[substance]]：实质（token gesture vs substance）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,28 +118,22 @@ to-(朝向) + -ken(古英语"显示、表明"的词根)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a token of**：...的象征（As a token of our gratitude, we present this gift.）
 > - **by the same token**：同样地、出于同样原因（By the same token, we should also consider the environmental impact.）
 > - **token gesture**：象征性姿态（The apology was merely a token gesture.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He gave her a small gift as a token of his appreciation."（他送了她一个小礼物以表感谢。）——考研高频表达
 > - "By the same token, we should not ignore the potential risks."（同样地，我们也不应忽视潜在的风险。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

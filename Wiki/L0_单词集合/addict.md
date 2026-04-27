@@ -3,14 +3,12 @@ title: "addict"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 被宣判交付（法律语境）→ 沉迷、上瘾
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈdɪkt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ ad-(=to, toward, 向、朝) + dict(=to say, declare, 说、宣告)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被交付、被奴役**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被宣判交付**（法律层面：法庭上将人判给他人）
@@ -65,7 +63,7 @@ ad-(=to, toward, 向、朝) + dict(=to say, declare, 说、宣告)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ad-(=to, toward, 向、朝) + dict(=to say, declare, 说、宣告)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马法官一锤定音，将债务人"宣告交付"(ad+dict)给债权人当奴隶——现代人被毒品/手机"宣告交付"给欲望当奴隶，就是 addict（瘾君子）。
@@ -88,7 +86,7 @@ ad-(=to, toward, 向、朝) + dict(=to say, declare, 说、宣告)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ad-(=to, toward, 向、朝) + dict(=to say, declare, 说、宣告)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[detox]]：使戒除（从上瘾状态中解脱）
 > - [[wean]]：使断绝、使戒除（逐步脱离依赖）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ ad-(=to, toward, 向、朝) + dict(=to say, declare, 说、宣告)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be addicted to**：沉迷于……
   - He is addicted to computer games.（他沉迷于电脑游戏。）
 > - **drug addict**：吸毒成瘾者
@@ -126,22 +124,16 @@ ad-(=to, toward, 向、朝) + dict(=to say, declare, 说、宣告)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Studies have shown that social media can be as addictive as drugs for some users."（研究表明，对某些用户来说，社交媒体可能像毒品一样令人上瘾。）——考研高频表达
 > - "Many young people are addicted to their smartphones, spending hours each day scrolling through social media."（许多年轻人对智能手机上瘾，每天花数小时浏览社交媒体。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

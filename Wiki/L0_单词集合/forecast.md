@@ -3,14 +3,12 @@ title: "forecast"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 提前投出对未来的判断
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈfɔːrkæst/"
 pos: v./n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ fore-（前缀，含义"在……之前"）+ cast（动词，含义"投掷、投
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前投射判断**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **向前投射判断**（时间层面——预测未来）
@@ -63,7 +61,7 @@ fore-（前缀，含义"在……之前"）+ cast（动词，含义"投掷、投
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ fore-（前缀，含义"在……之前"）+ cast（动词，含义"投掷、投
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fore（前）+ cast（投）= 把判断投向前方 = 预测。就像天气预报员把目光投向未来，告诉你明天会不会下雨。
@@ -86,7 +84,7 @@ fore-（前缀，含义"在……之前"）+ cast（动词，含义"投掷、投
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ fore-（前缀，含义"在……之前"）+ cast（动词，含义"投掷、投
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retrospect]]：回顾——时间方向上的反义（向后看 vs 向前看）
 > - [[hindsight]]：后见之明——事后知道 vs 事前预测
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,28 +115,22 @@ fore-（前缀，含义"在……之前"）+ cast（动词，含义"投掷、投
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **weather forecast**：天气预报
 > - **economic forecast**：经济预测
 > - **forecast the future**：预测未来（It is difficult to forecast the future with certainty.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Economists forecast that the unemployment rate will decline in the coming year.（经济学家预测未来一年失业率将下降。）
 > - The weather forecast predicted heavy rain for the weekend.（天气预报预测周末将有大雨。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "nucleus"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 坚果的核（事物的中心核心部分）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈnjuːkliəs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坚果的核**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **坚果的核**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nucleus = 拉丁语"小坚果"→ 果核 → 核心。科学家用"果核"来命名原子的中心——原子核。生物学家用"果核"来命名细胞的中心——细胞核。These paintings will form the nucleus of a new collection（这些画将构成新收藏的核心）。Neutrons and protons are bound together in the nucleus of an atom（中子和质子在原子核中结合在一起）。同源词：nuclear（核的）、nut（坚果）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[periphery]]：外围（nucleus 的精确反义：核心↔外围）
 > - [[edge]]：边缘（nucleus 的反义：核心↔边缘）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the nucleus of an atom**：原子核
 > - **cell nucleus**：细胞核
 > - **form the nucleus of**：构成……的核心
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "These paintings will form the nucleus of a new collection that the museum plans to exhibit next year."（这些画将构成博物馆计划明年展出的新收藏系列的核心——考研翻译艺术话题相关表达）
 > - "Neutrons and protons are bound together in the nucleus of an atom by strong nuclear forces."（中子和质子在原子核中通过强核力结合在一起——考研阅读科普话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

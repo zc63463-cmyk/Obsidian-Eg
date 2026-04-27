@@ -3,14 +3,12 @@ title: "adopt"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 朝……选择、选定
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈdɒpt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -27,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**采纳，采用**==；②收养，领养；③正式通过，批准；
+**v.** ①==**采纳，采用**== `V N` ；②==**收养，领养**== `V N` ；③正式通过，批准 `V N` ；
 
 > [!tip] 原型义
 > **原型义**：朝……选择、选定（ad- 向 + opt- 选择 → 选定）
@@ -43,7 +41,7 @@ ad-(=to, toward, 向、朝) + opt(=choose, select, 选择)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**朝……选择、选定**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **朝……选择、选定**（动作层面：做出选择）
@@ -65,7 +63,7 @@ ad-(=to, toward, 向、朝) + opt(=choose, select, 选择)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ad-(=to, toward, 向、朝) + opt(=choose, select, 选择)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ad（朝向）+ opt（选择，如 option 选项）→ 朝某个选项做出选择 → adopt（采纳、收养）。
@@ -88,7 +86,7 @@ ad-(=to, toward, 向、朝) + opt(=choose, select, 选择)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ad-(=to, toward, 向、朝) + opt(=choose, select, 选择)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abandon]]：放弃、抛弃（不选择、不采纳）
 > - [[reject]]：拒绝、驳回（不采纳）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,30 +115,24 @@ ad-(=to, toward, 向、朝) + opt(=choose, select, 选择)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
-> - **adopt a method/approach**：采用方法/途径
-  - The company adopted a new approach to marketing.（公司采用了新的营销方法。）
-> - **adopt a child**：收养孩子
-  - They decided to adopt a child from the orphanage.（他们决定从孤儿院收养一个孩子。）
+> [!example]- 搭配
+> - **adopt a method/approach**：采用方法/途径（学术/商业）
+> - **adopt a child**：收养孩子（法律程序）
+> - **adopt a resolution/policy**：通过决议/政策（正式场合）
+> - **adopt a stance/attitude**：采取立场/态度（抽象选择）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - "Many countries have adopted measures to reduce carbon emissions in response to climate change."（许多国家已采取措施减少碳排放以应对气候变化。）——考研高频表达
-> - "The government adopted a series of policies to stimulate economic growth after the financial crisis."（政府在金融危机后采取了一系列政策来刺激经济增长。）——考研高频表达
+> [!example]- 语料
+> - Many countries have adopted measures to reduce carbon emissions in response to climate change. `[例]`
+> - They decided to adopt a child from the orphanage after years of trying. `[例]`
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

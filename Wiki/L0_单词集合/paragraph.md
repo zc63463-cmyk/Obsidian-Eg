@@ -3,14 +3,12 @@ title: "paragraph"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在旁边写字做标记
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈpærəɡrɑːf/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在旁边写字做标记**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在旁边写字做标记**（物理标记层面）
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > para（旁边）+ graph（写，联想 photograph 照片→ 用光"写"出来的画）→ **在旁边写** → **段落**。想象古希腊抄写员在羊皮纸的**旁边**画了一个标记（¶），告诉读者"这里开始新的一段"。后来人们不再画标记了，但"段落"这个名字保留了下来。从"旁边的标记"到"段落"本身，paragraph 记录了书写技术的一段小历史。
@@ -97,7 +95,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whole]]：整体（paragraph 作为"段落/部分"的反义：部分↔整体）
 > - [[text]]：全文（paragraph 的反义：段落↔全文，在结构层面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the first/last paragraph**：第一/最后一段
 > - **the opening paragraph**：开篇段落
 > - **a new paragraph**：新段落
@@ -141,7 +139,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the opening paragraph of the essay"（文章的开篇段落）——考研阅读/写作中常见表达
 > - "as mentioned in the previous paragraph"（如上一段所述）——学术/论证类语料
 > - "the concluding paragraph"（结论段）——写作/分析类语料
@@ -149,15 +147,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "delegate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 派人出去代表自己（把权力/任务交给他人）
-extension_dim: 行为-身份-权力
+extension_dim: [行为-身份-权力]
 phonetic: "/ˈdelɪɡeɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**派人出去代表自己**"为统筹中心，沿行为-身份-权力向外扩展：
 >
 > 1. **派人出去**（行为层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > delegate 来自拉丁语 *delegare*：de（离开）+ legare（派遣）→ 把人从你身边派出去代表你。经理把任务 delegate 给助理——就是"派出去让助理替你做"。被派去参加会议的人就是 delegate（代表）。注意发音区别：动词 /ˈdelɪɡeɪt/（结尾重读），名词 /ˈdelɪɡət/（轻读）。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retain]]：保留，保持（delegate 的反义：委派出去↔保留在自己手中）
 > - [[centralize]]：集中（delegate "授权下放"的反义：权力集中↔权力下放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **delegate tasks/responsibility to someone**：把任务/责任委派给某人
 > - **delegate authority/power**：下放权力
 > - **conference delegate**：会议代表
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was always overburdened with too many trivial tasks because he found it impossible to delegate."（他总是被太多琐碎任务压得喘不过气，因为他觉得不可能把工作委派出去——Cambridge Dictionary）
 > - "The secret of good management is knowing when you can delegate tasks to your staff."（优秀管理的秘诀是知道何时可以将工作任务委派给员工——China Daily 英语学习）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

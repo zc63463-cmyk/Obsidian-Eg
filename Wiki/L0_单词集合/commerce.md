@@ -3,17 +3,14 @@ title: "commerce"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 商业、贸易
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒmɜːs/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: merc
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ com-(共同，一起) + merc(交易，贸易)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**商业、贸易**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **商业、贸易**（经济层面——商品和服务的买卖交换）
@@ -61,7 +58,7 @@ com-(共同，一起) + merc(交易，贸易)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +68,7 @@ com-(共同，一起) + merc(交易，贸易)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 commercium，com-（一起）+ merx（商品、交易）。想象古代的集市——商人们从各地赶来，在一起交换商品和货币，热闹非凡——这就是 commerce。
@@ -83,7 +80,7 @@ com-(共同，一起) + merc(交易，贸易)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +93,12 @@ com-(共同，一起) + merc(交易，贸易)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（商业是中性概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ com-(共同，一起) + merc(交易，贸易)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **international commerce**：国际贸易
   - The treaty aims to promote international commerce between the two nations.（该条约旨在促进两国之间的国际贸易。）
 - **e-commerce**：电子商务
@@ -128,21 +125,15 @@ com-(共同，一起) + merc(交易，贸易)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "E-commerce has fundamentally transformed the way people shop and do business."（电子商务从根本上改变了人们购物和做生意的方式。）——考研阅读真题
 > - "The chamber of commerce promotes local business interests and economic growth."（商会促进当地的商业利益和经济增长。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

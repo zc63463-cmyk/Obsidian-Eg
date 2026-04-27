@@ -3,14 +3,12 @@ title: "murder"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 谋杀（非法蓄意杀害他人）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmɜːrdər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**谋杀（非法蓄意杀害）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **谋杀**（法律层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > murder 来自古英语 morthor（谋杀），与"隐藏"同源——谋杀者总是试图隐藏罪行。murder 是最严重的杀人行为，必须是"蓄意的、恶意的、非法的"。口语中 murder 可以指"极其困难的事"——This traffic is murder!（这交通太要命了！）。murder a song = 糟蹋一首歌，murder the opposition = 彻底击败对手。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（murder 是极端行为，无直接反义对）
 > - [[rescue]]：营救（murder 的语义对立面：杀害↔营救）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **commit murder**：犯谋杀罪
 > - **murder mystery**：谋杀悬疑
 > - **get away with murder**：逍遥法外（做坏事不受惩罚）
@@ -131,20 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The defendant was charged with first-degree murder."（被告被控一级谋杀罪）
 > - "He got away with murder and never faced any consequences."（他逍遥法外，从未承担任何后果）
 > - "The critics said the film murdered the original novel."（评论家说这部电影糟蹋了原著小说）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

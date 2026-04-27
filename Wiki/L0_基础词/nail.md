@@ -3,14 +3,12 @@ title: "nail"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 钉子、指甲（尖锐的固定物）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/neɪl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**尖锐的固定物**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **尖锐固定物**（物理层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nail = 古英语 *nægel* = 钉子/指甲。指甲就像长在手指上的小钉子——坚硬、尖锐、固定。钉子的功能是"钉入固定"，所以 nail 引申为"钉牢"。再引申为"锁定、确定"——nail down a deal（敲定交易）。口语中 nailed it! = 搞定了！就像一锤定音。a tough as nails（坚强如铁）。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unscrew]]：拧开（nail 固定的反义：钉牢↔拧开）
 > - [[remove]]：移除（nail 固定的反义：固定↔移除）
 > - [[fail]]：失败（nail "成功完成"的反义：搞定↔失败）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nail down**：敲定，明确（用钉子钉死→锁定）
 > - **nailed it**：搞定了！完美完成！
 > - **hit the nail on the head**：一针见血，说到点子上
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers nailed down the cause of the disease after years of painstaking investigation."（研究人员经过多年艰苦的调查，终于确定了这种疾病的病因——考研阅读科研话题相关表达）
 > - "The latest economic data put another nail in the coffin of the government's claim that the recession was over."（最新的经济数据给政府关于衰退已经结束的说法又钉上了一颗棺材钉——考研翻译经济话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

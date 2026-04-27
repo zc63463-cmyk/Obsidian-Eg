@@ -3,17 +3,14 @@ title: "walk"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用脚移动（行走）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/wɔːk/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: walk
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用脚移动（行走）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用脚移动**（身体动作层面）
@@ -69,7 +66,7 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > walk 是最原始的日耳曼词，意为"用脚移动"。婴儿学会的第一个移动方式就是 walk——从蹒跚学步到健步如飞。walk 就是最简单的"走"——walk to school（走到学校），go for a walk（去散步），walk somebody home（陪人走回家）。
@@ -92,7 +89,7 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[run]]：跑（walk 的精确反义：走↔跑）
 > - [[stand]]：站（walk 的反义：移动↔静止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +128,7 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **go for a walk**：去散步
 > - **walk away from**：从……走开；轻易摆脱
 > - **walk somebody home**：陪某人走回家
@@ -140,19 +137,15 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "For an hour or so she would walk up and down between the stalls looking at everything, buying here and there."（大约一个小时，她会在摊位之间走来走去，四处看看，这里买一点那里买一点。——考研完形填空真题）
 > - "When you find yourself well off a trail, but not in a completely unfamiliar area, you have to answer two questions."（当你发现自己偏离了小路，但并非处于完全陌生的区域时，你必须回答两个问题。——2019年英语一完形填空）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

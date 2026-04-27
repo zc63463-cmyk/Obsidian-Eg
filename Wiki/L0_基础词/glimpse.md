@@ -3,14 +3,12 @@ title: "glimpse"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 瞥见（短暂地看到）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɡlɪmps/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**短暂地看到**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **短暂地看到**（视觉结果层面）
@@ -68,7 +66,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > glimpse 和 glance 都来自 gl-（光）词根，但有关键区别：glance 强调"看"的动作（你主动瞥一眼），glimpse 强调"看到"的结果（你被动地瞥见了什么）。catch a glimpse of = 偶然瞥见。I caught a glimpse of her in the crowd（我在人群中瞥见了她）——你并没有刻意去看，但她一闪而过，你看到了。
@@ -91,7 +89,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stare]]：凝视（短暂一瞥 ↔ 长时间凝视）
 > - [[examine]]：仔细检查（一瞥 ↔ 深入观察）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +122,22 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **catch a glimpse of**：瞥见——He caught a glimpse of her in the crowd.
 > - **get a glimpse of**：瞥见，了解——We got a glimpse of the future.
 > - **a glimpse into**：对……的短暂了解——a glimpse into the past
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He caught a glimpse of her in the crowd before she disappeared."（他在人群中瞥见了她，然后她就消失了——考研阅读常见人物描写句式，catch a glimpse of 为高频考点）
 > - "Fans crowded the street outside waiting for a glimpse of their hero."（粉丝们挤满了外面的街道，等待着看一眼他们的偶像——英语阅读常见表达，glimpse 指短暂的看见）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

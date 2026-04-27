@@ -3,14 +3,12 @@ title: "quiz"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 小测验（简短的测试或知识问答）
-extension_dim: 教育路径
+extension_dim: [教育路径]
 phonetic: "/kwɪz/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小测验（简短的测试或知识问答）**"为统筹中心，沿教育路径向外扩展：
 >
 > 1. **小测验**（教育层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > quiz 的词源充满趣味。据说18世纪末，都柏林的戏院经理 Daly 和朋友打赌，说他能在48小时内让一个全新的词进入英语。他让人在城里的墙上到处写 "quiz"，人们看到后纷纷猜测这是什么意思，quiz 就这样成了一个表示"奇怪问题"的词，后来演变为"小测验"。无论这个故事是否真实，quiz 始终围绕着"提出问题"这个核心。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （quiz 作为测试概念，无精确反义词）
 > - [[lecture]]：讲座（quiz 的对应词：测验↔讲授）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a pop quiz**：突击小测验
 > - **a pub quiz**：酒吧知识问答
 > - **quiz someone about**：盘问某人关于……
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When the teacher announced a surprise test, I began to quiver in my boots."（当老师宣布突击测验时，我吓得双腿发抖。——Crestolympiads）
 > - "She quivered with excitement when she saw her birthday gifts."（当她看到生日礼物时，激动得浑身颤抖。——Crestolympiads）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

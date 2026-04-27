@@ -3,14 +3,12 @@ title: "badly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 坏地，不好地
-extension_dim: 评价路径
+extension_dim: [评价路径]
 phonetic: "/ˈbædli/"
 pos: adv.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坏地，不好地**"为统筹中心，沿评价路径向外扩展：
 >
 > 1. **坏地，不好地**（方式层面）
@@ -66,7 +64,7 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > badly 是 bad 的副词形式。基本意思是"坏地"——He plays badly（他打得很差）。但考研中最重要的用法是 badly need = "非常需要"。逻辑链：badly = "坏地"→ "厉害地"→ "非常"。I badly need money = 我需要钱需要得"很厉害" = 我非常需要钱。
@@ -88,7 +86,7 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[well]]：好地（badly 的精确反义：坏地↔好地）
 > - [[slightly]]：轻微地（badly 的反义：严重地↔轻微地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **badly need / badly want**：非常需要/非常想要（考研高频）
 > - **behave badly**：行为不端
 > - **hurt badly**：伤得很重
@@ -127,19 +125,15 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The country badly needs investment in infrastructure to support its growing population and expanding economy."（该国非常需要基础设施投资，以支持其不断增长的人口和不断扩张的经济——考研阅读经济话题相关表达）
 > - "The old building was badly damaged in the earthquake and had to be demolished for safety reasons."（这座旧建筑在地震中严重受损，出于安全原因不得不拆除——考研翻译灾难话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

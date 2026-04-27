@@ -3,14 +3,12 @@ title: "pile"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 堆积物（一堆叠放在一起的东西）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/paɪl/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**堆积物**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **堆积物**（物理空间层面）
@@ -66,7 +64,7 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pile 来自拉丁语 pila（石柱）。石柱是一块一块石头从下往上垒起来的——这就是"堆"。a pile of books 就是一堆书，pile up 就是堆积起来。
@@ -89,7 +87,7 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[scatter]]：散开，撒（pile 的反义：堆积 ↔ 散开）
 > - [[distribute]]：分散，分配（pile 的反义：集中堆放 ↔ 分散）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a pile of**：一堆……
 > - **piles of**：大量的……
 > - **pile up**：堆积起来
@@ -128,19 +126,15 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel. Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians to get their hands on a **pile** of weapons."（这批钉子是1960年在四米深的坑中发现的，上面覆盖了两米厚的砾石。为什么罗马人要埋掉一百万颗钉子？可能的解释是撤退仓促，他们不想让当地的加勒多尼亚人得到一堆武器。——2024年考研英语一Text 1）
 > - "There has to be coordination of programs. What's needed is a package deal."（各种规划必须协调运行。我们需要的是一揽子计划。——2006年考研英语完形，pile 的同源词 compile 相关语境）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

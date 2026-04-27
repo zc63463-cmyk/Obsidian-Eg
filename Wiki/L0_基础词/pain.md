@@ -3,14 +3,12 @@ title: "pain"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 惩罚、报应（做错事后的代价→身体的痛苦）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/peɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**惩罚、报应**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **惩罚**（法律/道德层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pain 的核心画面是"惩罚带来的痛苦"。拉丁语 *poena* = 惩罚。做错事要受惩罚 = pain。后来 pain 从"惩罚"演变为"身体的疼痛"和"精神的痛苦"。重要短语：take pains（煞费苦心）= 承受辛苦去做；spare no pains（不遗余力）= 不惜一切代价；on pain of death（违则处死）= 以死为惩罚。pain 和 [[penalty]]（罚款）、[[penal]]（刑罚的）同源——都来自"惩罚"的概念。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[pleasure]]：快乐（pain 的反义：痛苦↔快乐）
 > - [[comfort]]：舒适（pain 的反义：痛苦↔舒适）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **physical/mental pain**：身体/精神痛苦
 > - **take pains**：煞费苦心，尽力
 > - **spare no pains**：不遗余力
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers took great pains to ensure that their experimental design was rigorous and their data collection methods were reliable."（研究人员煞费苦心地确保他们的实验设计严谨，数据收集方法可靠——考研阅读学术话题）
 > - "Chronic pain affects millions of people worldwide and is one of the most common reasons patients seek medical attention."（慢性疼痛影响着全球数百万人，是患者就医的最常见原因之一——考研翻译医学话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

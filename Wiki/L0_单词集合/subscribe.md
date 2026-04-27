@@ -3,14 +3,12 @@ title: "subscribe"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 在下面写上名字
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/səbˈskraɪb/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ sub-(在下) + 建议创建词根笔记 [[scrib/script]](写) = 在下面写上�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在下面写上名字**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在下面写上名字**（物理动作：签名确认）
@@ -66,7 +64,7 @@ sub-(在下) + 建议创建词根笔记 [[scrib/script]](写) = 在下面写上�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ sub-(在下) + 建议创建词根笔记 [[scrib/script]](写) = 在下面写上�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 在杂志订阅单的底部（sub-在下）签上你的名字（scrib写），承诺每月付款——subscribe，订阅。
@@ -91,7 +89,7 @@ sub-(在下) + 建议创建词根笔记 [[scrib/script]](写) = 在下面写上�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ sub-(在下) + 建议创建词根笔记 [[scrib/script]](写) = 在下面写上�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unsubscribe]]：取消订阅
 > - [[cancel]]：取消
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ sub-(在下) + 建议创建词根笔记 [[scrib/script]](写) = 在下面写上�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **subscribe to**：订阅；赞同
   - I subscribe to several academic journals to keep up with the latest research.（我订阅了几本学术期刊以跟进最新研究。）
 > - **subscribe to a view/theory**：赞同某观点/理论
@@ -135,23 +133,15 @@ sub-(在下) + 建议创建词根笔记 [[scrib/script]](写) = 在下面写上�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many scientists subscribe to the view that global warming is largely caused by human activities."（许多科学家认同全球变暖主要由人类活动造成的观点。）——考研高频表达
 > - "She subscribes to several academic journals to keep up with the latest research."（她订阅了几本学术期刊以了解最新研究。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

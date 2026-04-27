@@ -3,14 +3,12 @@ title: "reserve"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 向后保持
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈzɜːv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后保持**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向后保持**（保留动作）
@@ -72,7 +70,7 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（向后）+ serve（服务/保持）→ 向后保持住。想象一个银行金库，把金币一排排整齐地放在里面，留着将来用——这就是reserve。
@@ -95,7 +93,7 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[spend]]：spend表示"花费，消耗"，与reserve"储备"直接对立
 > - [[release]]：release表示"释放，放出"，与reserve"保留"形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reserve the right to**：保留……的权利
   > The company reserves the right to terminate the contract at any time.（公司保留随时终止合同的权利。）
 > - **nature reserve**：自然保护区
@@ -138,19 +136,15 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is wise to reserve judgment until all the facts are known."（在所有事实都弄清楚之前保留判断是明智的——考研高频表达）
 > - "Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age."（一些学者得出结论，资源有限的政府应该停止支付维持超过特定年龄人群生命的医疗费用——2003年考研Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

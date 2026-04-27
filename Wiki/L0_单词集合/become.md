@@ -3,17 +3,14 @@ title: "become"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 来到，发生
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/bɪˈkʌm/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: come
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**来到（新状态）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **来到（新状态）**（时间上的状态转变）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > be（存在）+ come（来）= 存在的事物向新的方向走来 → **变成**。就像毛毛虫"来到"了新的生命阶段，**变成**了蝴蝶。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[remain]]：保持不变（become 是状态转变，remain 是状态维持）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,29 +111,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **become aware of**：She became aware of the problem. 她意识到了这个问题。
 > - **become of**：What has become of him? 他后来怎样了？
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The internet has become an indispensable tool for modern education."（互联网已经成为现代教育不可或缺的工具。）——考研阅读真题
 > - "Environmental issues have become a matter of global concern."（环境问题已经成为全球关注的问题。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

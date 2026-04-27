@@ -3,14 +3,12 @@ title: "court"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 围合的空地（四面围合的院子）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kɔːt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**围合的空地**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **围合的空地**（物理空间）
@@ -71,7 +69,7 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > court 来自拉丁语 *cohors*（围合的场地）。想象一个四面围墙的院子——法官在里面审案就是 court（法庭），运动员在里面打球就是 court（球场），国王住在里面就是 court（宫廷）。同一个围合空间，不同的人在里面做不同的事。court 作动词时，"在宫廷中讨好某人"→ 献殷勤、追求。
@@ -94,7 +92,7 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,12 +105,12 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词，court 作为空间概念无直接反义
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **supreme court**：最高法院
 > - **go to court**：上法庭
 > - **court publicity**：追求公众关注
@@ -132,23 +130,15 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Similarly, some Wall Street investment firms armed themselves with patents for financial products, even as they took positions in court cases opposing the practice."（同样，一些华尔街投资公司也使用金融产品专利武装自己，尽管在司法诉讼中它们反对这种做法。——2010年考研英语阅读Text2）
 > - "His campaign team have assiduously courted the media."（他的竞选班子竭力讨好媒体。——考研英语高频例句）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

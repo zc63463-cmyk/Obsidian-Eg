@@ -3,14 +3,12 @@ title: "closet"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 壁橱/私密的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈklɒzɪt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**壁橱/关闭的小空间**"为统筹中心，沿**空间路径**向外扩展：
 >
 > 1. **壁橱/衣橱**（物理层面：关闭的小储物空间）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > closet = close（关闭）+ -et（小）。一个"关上的小空间"就是壁橱（closet）。英语中 "come out of the closet"（出柜）就是从"关上的小空间"里走出来，比喻公开自己的秘密身份。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - closet（私密的）的反义：[[open]]（公开的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **closet space**：壁橱空间
   - The apartment has very limited closet space.（这套公寓的壁橱空间非常有限。）
 > - **come out of the closet**：公开秘密身份（尤指性取向）
@@ -126,22 +124,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She came out of the closet and openly discussed her sexual orientation."（她公开出柜，坦率地讨论了自己的性取向。）——考研高频表达
 > - "He is a closet environmentalist who secretly supports green initiatives."（他是一个暗中的环保主义者，暗中支持绿色倡议。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

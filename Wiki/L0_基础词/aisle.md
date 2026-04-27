@@ -3,14 +3,12 @@ title: "aisle"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 通道（两侧有物的狭长空间）
-extension_dim: 空间延伸
+extension_dim: [空间延伸]
 phonetic: "/aɪl/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**通道（两侧有物的狭长空间）**"为统筹中心，沿空间延伸向外扩展：
 >
 > 1. **通道**
@@ -64,7 +62,7 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > aisle 来自拉丁语 ala（翅膀），教堂的"翅膀"就是侧廊，后来泛指一切通道。婚礼上新娘 walk down the aisle（走过通道），就是从教堂入口走向圣坛。飞机上选 aisle seat（靠过道座位），方便走动。
@@ -86,7 +84,7 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[seat]]：座位（aisle 的空间反义：通道↔座位）
 > - [[wall]]：墙壁（aisle 的结构反义：通道↔墙壁）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **aisle seat**：靠过道的座位
 > - **walk down the aisle**：走过通道（尤指婚礼新娘走向圣坛）
 > - **in the aisle**：在过道里
@@ -128,19 +126,15 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Would you like an aisle seat or would you prefer to be by the window?"（您想要靠过道的座位还是靠窗的座位？——Cambridge English Dictionary）
 > - "The airplane aisle was narrow and difficult to navigate."（飞机过道很窄，难以通行。——translateen.com 例句库）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

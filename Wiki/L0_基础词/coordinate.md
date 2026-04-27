@@ -3,14 +3,12 @@ title: "coordinate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 同等排序（使各部分处于同等秩序中）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kəʊˈɔːdɪneɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**同等排序**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **同等排序**（秩序层面）
@@ -68,7 +66,7 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > co-（一起）+ ordin（顺序）+ -ate → 使处于同一顺序中→协调。指挥家 coordinate 乐队，让每个乐器处于同一节奏秩序中。地图上的 coordinate（坐标）用有序的数字确定位置。语法中的 coordinate clauses（并列从句）地位同等。你已知的 order（顺序）来自同一个词根 ordin。
@@ -92,7 +90,7 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disrupt]]：扰乱（coordinate 的反义：协调↔扰乱）
 > - [[subordinate]]：使从属（coordinate 的反义：并列↔从属）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **coordinate with**：与……协调
 > - **coordinate efforts/actions**：协调努力/行动
 > - **coordinate activities**：协调活动
@@ -134,19 +132,15 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We need someone to coordinate the various departments."（我们需要有人来协调各个部门——考研阅读高频表达）
 > - "The government should coordinate its policies to promote economic growth."（政府应协调各项政策以促进经济增长——学术写作常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

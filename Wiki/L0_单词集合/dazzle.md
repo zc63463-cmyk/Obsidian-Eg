@@ -3,14 +3,12 @@ title: "dazzle"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 强光使人短暂失明
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈdæzl/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**强光使人短暂失明**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **强光使人短暂失明**（视觉感官层面）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dazzle 来自中古英语 dasen（使眩晕）。想象你从黑暗中走出，一道**强光**猛然照来——你**什么都看不见了**，眼前一片空白。这就是 dazzle。后来，一个演员的表演太精彩了，让你**看呆了**——这也是 dazzle。一个笑容太美了，让你**移不开眼**——还是 dazzle。记住：dazzle 就是"强到让你失能"的体验。
@@ -98,7 +96,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -112,14 +110,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dim]]：昏暗的（dazzling light ↔ dim light，耀眼的光↔昏暗的光）
 > - [[dull]]：暗淡的；乏味的（dazzling ↔ dull，耀眼的↔暗淡的，精彩的↔乏味的）
 > - [[bore]]：使厌烦（dazzle ↔ bore，使倾倒↔使厌烦）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dazzling performance/success/smile**：令人惊叹的表演/成功/微笑
 > - **be dazzled by/at**：被……眩目/倾倒
 > - **dazzling array of**：令人目不暇接的一系列（如 a dazzling array of technology）
@@ -141,22 +139,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "a dazzling array of technological innovations"（令人目不暇接的一系列技术创新）——考研阅读科技类话题高频搭配
 > - "dazzling performance"（令人惊叹的表演）——考研阅读中描述杰出表现
 > - "be dazzled by the city lights"（被城市灯光眩目）——文学类文本常见用法
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

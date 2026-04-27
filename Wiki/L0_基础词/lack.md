@@ -3,17 +3,14 @@ title: "lack"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 缺乏、不足（没有足够的东西）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/læk/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: lack
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**缺乏、不足**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **没有足够的东西**（状态层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lack = 中古荷兰语 *lak* = 缺乏。想象一个本该装满水的杯子，但里面只有一点点——这就是 lack 的原始画面。a lack of money = 缺乏金钱。He lacks confidence = 他缺乏自信。注意：lack 作动词时不用于被动语态。for lack of evidence = 因缺乏证据。lacking in confidence = 缺乏自信（形容词用法）。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abundance]]：丰富（lack 的精确反义：缺乏↔丰富）
 > - [[sufficiency]]：充足（lack 的反义：不足↔充足）
 > - [[surplus]]：过剩（lack 的反义：缺乏↔过剩）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a lack of**：缺乏……
 > - **for lack of**：因缺乏……
 > - **lack confidence / experience**：缺乏信心/经验
@@ -131,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "One of the major challenges facing developing countries is the lack of adequate infrastructure, which severely hampers economic growth and social development."（发展中国家面临的主要挑战之一是基础设施不足，这严重阻碍了经济增长和社会发展——考研阅读发展话题相关表达）
 > - "Many students lack the critical thinking skills necessary to evaluate the reliability of information they encounter online."（许多学生缺乏评估他们在网上遇到的信息可靠性所需的批判性思维能力——考研翻译教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

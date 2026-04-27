@@ -3,14 +3,12 @@ title: "bold"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 大胆的、勇敢的（敢于面对危险的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/bəʊld/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**大胆的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **大胆的**（行为层面）
@@ -66,7 +64,7 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bold 来自古英语 beald（大胆的）。The team made a bold move（团队做出了大胆的举措）。She was a bold and fearless climber（她是一位勇敢无畏的登山者）。但注意 bold 也可以是贬义——a bold remark（冒失的言论）。Word 里的 **B** 按钮就是 bold（粗体）——让文字"大胆"起来。
@@ -89,7 +87,7 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[timid]]：胆小的（bold 的精确反义：大胆↔胆小）
 > - [[cautious]]：谨慎的（bold 的反义：冒失↔谨慎）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a bold move/decision**：大胆的举措/决定
 > - **bold type**：粗体字
 > - **make a bold move**：做出大胆的举动
@@ -131,19 +129,15 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The newspaper took the bold step of publishing the names of the men involved."（这家报纸大胆地公布了涉事男子的姓名。——考研阅读高频表达）
 > - "The team made the bold move of trading its star player."（这支球队大胆地交易了他们的明星球员。——考研翻译类例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

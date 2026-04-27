@@ -3,14 +3,12 @@ title: "alliance"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 绑在一起（多方联合）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈlaɪəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ all（全部）+ -iance（名词后缀，表示状态）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绑在一起**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **绑在一起**（物理层面）
@@ -64,7 +62,7 @@ all（全部）+ -iance（名词后缀，表示状态）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ all（全部）+ -iance（名词后缀，表示状态）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > all（全部）+ iance（状态）→ 全部在一起 → 联盟。二战时的 Allies（同盟国）就是 all（全部）绑在一起对抗敌人。alliance 和 [[allegiance]] 只差一个字母——allegiance 是你向组织"绑"（忠诚），alliance 是组织之间互相"绑"（联盟）。
@@ -86,7 +84,7 @@ all（全部）+ -iance（名词后缀，表示状态）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ all（全部）+ -iance（名词后缀，表示状态）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[separation]]：分离（alliance 的反义：联合↔分离）
 > - [[division]]：分裂
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +122,22 @@ all（全部）+ -iance（名词后缀，表示状态）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in alliance with**：与……结盟
 > - **form/enter into an alliance**：结成联盟
 > - **its alliance with**：它与……的联盟
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In February the FTC and the Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests."（二月份，联邦贸易委员会和数字广告联盟达成共识：该行业将尽快响应"禁止追踪"的请求——2013年英语一Text 2）
 > - "A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun."（一种本土戏剧已经诞生，它与公共剧院的联盟已经建立，至少它的一些伟大传统已经开始——2018年英语一翻译）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

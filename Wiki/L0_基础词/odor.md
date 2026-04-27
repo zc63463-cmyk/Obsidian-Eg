@@ -3,14 +3,12 @@ title: "odor"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 气味（通过嗅觉感知到的）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈəʊdə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**气味**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **气味**（感官层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 odor（气味）→ 英语 odor → 气味。body odor 是体味。一个旧衣柜有霉味——a musty odor。一个政客在公众面前"散发"出坏名声——in bad odor with the public。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fragrance]]：芳香，香味（odor 的反义：臭味↔芳香）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **body odor**：体味
 > - **in bad/good odor**：名声不好/好
 > - **a strange odor**：一股奇怪的气味
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Smell stimuli form what Shepherd terms 'odor objects', and these objects are stored in our memory."（嗅觉刺激形成了谢泼德所称的"气味对象"，这些对象被存储在我们的记忆中。——考研阅读高频表达）
 > - "This means that our noses are limited to perceiving those smells which float through the air, missing the majority of smells which stick to surfaces."（这意味着我们的鼻子仅限于感知那些漂浮在空气中的气味，而错过了大多数附着在表面上的气味。——2005年考研完型）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

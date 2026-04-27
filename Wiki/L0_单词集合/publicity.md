@@ -3,14 +3,12 @@ title: "publicity"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 使公众知晓
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/pʌbˈlɪsəti/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ publ-(公众) + -ic(形容词后缀) + -ity(名词后缀，表状态/性质)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使公众知晓**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使公众知晓**（信息传播层面）
@@ -64,7 +62,7 @@ publ-(公众) + -ic(形容词后缀) + -ity(名词后缀，表状态/性质)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ publ-(公众) + -ic(形容词后缀) + -ity(名词后缀，表状态/性质)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > public（公众）+ -ity（名词后缀）→ 让公众都知道 → 宣传、名声
@@ -85,7 +83,7 @@ publ-(公众) + -ic(形容词后缀) + -ity(名词后缀，表状态/性质)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ publ-(公众) + -ic(形容词后缀) + -ity(名词后缀，表状态/性质)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - privacy：隐私（publicity 是公开，privacy 是私密）
 > - obscurity：默默无闻（publicity 是公众关注，obscurity 是无人知晓）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,27 +113,21 @@ publ-(公众) + -ic(形容词后缀) + -ity(名词后缀，表状态/性质)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gain/receive publicity**：获得公众关注（The charity event gained considerable publicity in the local media. 慈善活动在当地媒体中获得了相当大的关注。）
 > - **bad/adverse publicity**：负面宣传（The company suffered from bad publicity after the scandal broke. 丑闻曝光后，公司遭受了负面宣传。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They know that some of the informants may be forgetful, mistaken, dishonest, or motivated by a desire for publicity or even revenge."（他们知道有些线人可能健忘、犯错、不诚实，或者出于对曝光甚至报复的渴望而行动。）——考研高频表达
 > - "The scandal generated a great deal of adverse publicity for the company."（这桩丑闻给公司带来了大量负面宣传。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

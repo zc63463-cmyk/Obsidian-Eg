@@ -3,14 +3,12 @@ title: "exaggerate"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 向外推至过度
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪɡˈzædʒəreɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ ex-(向外) + [[ag|agger]](驱动/堆积) + -ate(动词后缀) → 向外堆到�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外推至过度**"为统筹中心，沿**抽象路径**向外扩展：
 >
 > 1. **向外推至过度**（物理层面：将堆积物推到超出正常范围）
@@ -67,7 +65,7 @@ ex-(向外) + [[ag|agger]](驱动/堆积) + -ate(动词后缀) → 向外堆到�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ ex-(向外) + [[ag|agger]](驱动/堆积) + -ate(动词后缀) → 向外堆到�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex(出) + agger(堆) + ate → 把东西**堆到外面去了**，堆得太高太夸张了。
@@ -91,7 +89,7 @@ ex-(向外) + [[ag|agger]](驱动/堆积) + -ate(动词后缀) → 向外堆到�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ex-(向外) + [[ag|agger]](驱动/堆积) + -ate(动词后缀) → 向外堆到�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[understate]]：轻描淡写，低估（与exaggerate方向相反）
 > - [[minimize]]：最小化，贬低（将程度压到最低）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ ex-(向外) + [[ag|agger]](驱动/堆积) + -ate(动词后缀) → 向外堆到�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exaggerate the difficulty**：夸大困难
 >   It is easy to exaggerate the difficulty of the task.
 > - **tend to exaggerate**：倾向于夸大
@@ -128,20 +126,14 @@ ex-(向外) + [[ag|agger]](驱动/堆积) + -ate(动词后缀) → 向外堆到�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Critics argue that the media tend to exaggerate the risks associated with new technologies."（批评者认为媒体倾向于夸大与新技术相关的风险。）——考研高频表达
 > - "The extent of the damage was greatly exaggerated in the initial news reports."（最初的新闻报道极大地夸大了损失程度。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

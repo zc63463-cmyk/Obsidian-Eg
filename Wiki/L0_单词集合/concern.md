@@ -3,14 +3,12 @@ title: "concern"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 与…相关，关心
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kənˈsɜːn/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ con-(一起) + cern(筛选、区分) = concern（把心筛选到一起 → 关�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与…相关，关心**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **与…相关**（关系层面——事物之间产生联系）
@@ -74,7 +72,7 @@ con-(一起) + cern(筛选、区分) = concern（把心筛选到一起 → 关�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +86,7 @@ con-(一起) + cern(筛选、区分) = concern（把心筛选到一起 → 关�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（一起）+ cern（筛选）：面对一百条新闻，你的心被**筛选**到了其中一条——这条新闻与你**相关**（concerns you），你开始**关心**（concern about）它，它成了你的**关切之事**（concern）。
@@ -100,7 +98,7 @@ con-(一起) + cern(筛选、区分) = concern（把心筛选到一起 → 关�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,13 +111,13 @@ con-(一起) + cern(筛选、区分) = concern（把心筛选到一起 → 关�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[indifference]]：冷漠，不关心（关心↔冷漠）
 > - [[irrelevance]]：无关（涉及↔无关）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,7 +132,7 @@ con-(一起) + cern(筛选、区分) = concern（把心筛选到一起 → 关�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **as far as ... be concerned**：就…而言
 > - **be concerned about/for**：关心，担心
 > - **be concerned with**：涉及，与…有关
@@ -143,22 +141,16 @@ con-(一起) + cern(筛选、区分) = concern（把心筛选到一起 → 关�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is growing concern about the impact of climate change on biodiversity."（人们对气候变化对生物多样性的影响日益关注。）——考研高频表达
 > - "The issue of environmental pollution is a matter of public concern."（环境污染问题是公众关切的问题。）——考研高频表达
 > - "As far as I am concerned, the new policy will benefit everyone in the long run."（就我而言，新政策从长远来看将使每个人受益。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

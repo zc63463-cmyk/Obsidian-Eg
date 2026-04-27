@@ -3,17 +3,14 @@ title: "whereby"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 凭借那个（借以，通过）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/weərˈbaɪ/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: where
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ where（哪里/那个地方）+ by（通过/凭借）。where 源自古英语 *h
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**凭借那个**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **凭借那个**（方式层面）
@@ -64,7 +61,7 @@ where（哪里/那个地方）+ by（通过/凭借）。where 源自古英语 *h
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ where（哪里/那个地方）+ by（通过/凭借）。where 源自古英语 *h
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > whereby = where（那个地方/方式）+ by（通过/凭借）→ 通过那个方式 → 借以。记住 where- 词族：wherever（无论何地）、whereas（然而）、whereby（借以）。whereby 是正式用语，常见于学术和法律文本。a system whereby students can access resources = 一个学生可以借此获取资源的系统。
@@ -86,7 +83,7 @@ where（哪里/那个地方）+ by（通过/凭借）。where 源自古英语 *h
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ where（哪里/那个地方）+ by（通过/凭借）。where 源自古英语 *h
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - whereby 无直接反义词，逻辑上与"阻碍手段"相对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +114,22 @@ where（哪里/那个地方）+ by（通过/凭借）。where 源自古英语 *h
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a system whereby**：一个借以……的系统
 > - **a method whereby**：一种借以……的方法
 > - **a mechanism whereby**：一种借以……的机制
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has established a comprehensive regulatory framework whereby environmental standards are strictly enforced across all industries."（政府建立了一个全面的监管框架，借以确保环境标准在所有行业中得到严格执行——考研阅读法律政策话题相关表达）
 > - "Scientists have developed a new gene-editing technique whereby specific genetic mutations can be corrected with unprecedented precision."（科学家们开发了一种新的基因编辑技术，借以能够以前所未有的精度纠正特定的基因突变——考研阅读科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

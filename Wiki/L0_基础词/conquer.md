@@ -3,14 +3,12 @@ title: "conquer"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 完全获取（通过力量完全获得）
-extension_dim: 行动路径
+extension_dim: [行动路径]
 phonetic: "/ˈkɒŋkə/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全获取（通过力量完全获得）**"为统筹中心，沿行动路径向外扩展：
 >
 > 1. **彻底获取**（行动层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > conquer 来自拉丁语，con（完全）+ quer（寻求/获取）→ "彻底获取"。想象亚历山大大帝站在山顶，俯瞰被他"彻底获取"的广袤领土——这就是 conquer 的原始画面。后来这个词从战场走进了内心：conquer fear（克服恐惧）、conquer difficulties（战胜困难），本质上都是"完全拿下"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[surrender]]：投降（conquer 的精确反义：征服↔投降）
 > - [[yield]]：屈服，让步（conquer 的反义：征服↔屈服）
 > - [[submit]]：服从（conquer 的反义：征服↔服从）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conquer fear/difficulties**：克服恐惧/困难（考研高频搭配）
 > - **conquer a country**：征服一个国家
 > - **conquer the mountain**：成功登上山峰
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She had to conquer her fear of public speaking before she could deliver the presentation."（她必须先克服对公众演讲的恐惧才能进行展示——考研阅读心理话题常见表达）
 > - "The Normans conquered England in 1066, fundamentally changing the course of English history."（诺曼人于1066年征服英格兰，从根本上改变了英国历史的进程——考研阅读历史话题高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

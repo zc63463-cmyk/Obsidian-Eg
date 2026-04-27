@@ -3,14 +3,12 @@ title: "rock"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 石头
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/rɒk/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**石头**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **石头**（物理层面）
@@ -67,7 +65,7 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中古英语 rokk，来自古诺斯语。rock 是最基础的"石头"——rock climbing（攀岩）就是爬石头。rock 作动词时，像石头在水中来回滚动——rock a baby（摇婴儿），rock the boat（摇晃船=惹事）。rock music（摇滚乐）来自 rock and roll——像石头一样滚动。
@@ -90,7 +88,7 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[water]]：水（rock 的反义：坚硬↔柔软）
 > - [[calm]]：平静（rock 作动词的反义：摇晃↔平静）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rock music**：摇滚乐
 > - **rock climbing**：攀岩
 > - **rock the boat**：惹事，打破现状
@@ -128,19 +126,15 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The scandal rocked the government to its foundations."（丑闻使政府根基动摇——考研高频表达）
 > - "The boat rocked violently in the storm."（船在风暴中剧烈摇晃）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

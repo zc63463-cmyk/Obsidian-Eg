@@ -3,14 +3,12 @@ title: "omit"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 送走（把某物送走→让它不在→省略）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈmɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**送走（让某物不在场）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **送走**（动作层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > omit = ob（离开）+ mit（送）→ 把某物送走 → 省略/遗漏。与 emit（发出=e出+mit送）、submit（提交=sub下面+mit送）、permit（允许=per通过+mit送）同族。你写论文时把重要参考文献"送走"了（omit），导师会让你补回来。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[include]]：包含，包括（omit 的精确反义：省略↔包含）
 > - [[add]]：添加（omit 的反义：遗漏↔添加）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **omit from**：从……中省略/遗漏
 > - **omit to do**：忘记做某事
 > - **inadvertently omit**：无意中遗漏
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The article's authors made untrue statements and omitted key information."（文章的作者做了不实陈述并遗漏了关键信息。——剑桥词典例句）
 > - "She omitted to mention that they were staying the night."（她没有说他们当晚要留宿的事。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

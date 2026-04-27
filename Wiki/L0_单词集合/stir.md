@@ -3,14 +3,12 @@ title: "stir"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 搅动、拨动
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stɜːr/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**搅动**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **搅动、搅拌**（物理层面：搅动液体/物质）
@@ -68,7 +66,7 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古英语 styrian = 搅动。想象用勺子搅动一杯咖啡——咖啡在转，你的心也在转。搅动→激起→挑起。
@@ -91,7 +89,7 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：使平静（搅动→平静）
 > - [[settle]]：使安定（骚动→安定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stir up**：激起、挑起
   - The speech stirred up a heated debate among the audience.（这场演讲在听众中激起了热烈的辩论。）
 - **stir one's memory**：唤起某人的回忆
@@ -133,20 +131,14 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The president's controversial remarks stirred a heated debate across the nation."（总统的争议性言论在全国范围内引发了激烈辩论。）——考研高频表达
 > - "The discovery of the new element stirred great excitement in the scientific community."（新元素的发现在科学界引起了极大的兴奋。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

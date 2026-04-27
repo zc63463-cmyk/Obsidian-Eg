@@ -3,14 +3,12 @@ title: "nature"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 出生→本质→自然
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈneɪtʃə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**出生时的本质**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **出生时的本质**（个体层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *natura* 来自 *nasci*（出生）——万物**出生**时携带的蓝图就是它的 **nature**（本性）。人的 nature 是思考与创造，水的 nature 是流动，火的 nature 是燃烧。所有这些 nature 汇聚在一起，就是 **Nature**（大自然）。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nurture]]：nurture 是"后天培养"，nature 是"先天本性"（经典对立：nature vs nurture）
 - [[artificial]]：artificial 是"人工的"，nature 是"自然的"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **human nature**：人性
 > - **by nature**：天生地，就其本性而言
 > - **Mother Nature**：大自然
@@ -132,21 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is human nature to seek companionship and social connection."（寻求陪伴和社交联系是人的本性。）——考研高频表达
 > - "The nature of the problem requires a comprehensive approach."（问题的性质需要一种综合性的方法。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

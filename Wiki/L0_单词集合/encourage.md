@@ -3,14 +3,12 @@ title: "encourage"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 注入勇气
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈkʌrɪdʒ/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**注入勇气**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **注入勇气**（心理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > en（使）+ courage（勇气）= 使有勇气。courage（勇气）来自拉丁语 cor（心），所以 encourage 就是**使心里有力量**。老师鼓励你说"你能行！"——这就是 encourage。但要注意，encourage 也可以"助长"坏习惯——你纵容孩子玩手机，就是在 encourage 这种行为。discourage（使气馁）是它的反义词——dis（去掉）+ courage = 抽走勇气。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[discourage]]：使气馁，阻止（encourage 的直接反义：鼓励↔使气馁）
 > - [[deter]]：威慑，阻止（encourage "促进"的反义：促进↔阻止）
 > - [[discourage]]：不鼓励（encourage "助长"的反义：助长↔阻止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **encourage sb. to do sth.**：鼓励某人做某事
   - *Parents should encourage their children to develop independent thinking skills.*（父母应该鼓励孩子培养独立思考的能力。）
 > - **encourage innovation/creativity**：促进创新/创造力
@@ -132,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "encourage sb. to do sth."（鼓励某人做某事）——考研阅读/写作极高频句式
 > - "encourage innovation/competition"（促进创新/竞争）——考研阅读中经济政策类文章常见搭配
 > - "be encouraged by the results"（对结果感到鼓舞）——考研阅读中描述研究发现的常见表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

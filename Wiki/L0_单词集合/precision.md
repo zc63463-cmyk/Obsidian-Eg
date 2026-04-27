@@ -3,17 +3,14 @@ title: "precision"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 精确/精度
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/prɪˈsɪʒn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: prec-pre
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ pre-（前缀，"在...之前"）+ cis（切分/确定）+ -ion（名词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**精确**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **精确**（抽象层面：准确无误的状态）
@@ -63,7 +60,7 @@ pre-（前缀，"在...之前"）+ cis（切分/确定）+ -ion（名词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ pre-（前缀，"在...之前"）+ cis（切分/确定）+ -ion（名词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > precision = precise（精确的）+ -ion（名词后缀）。精确的性质就是 precision。precision engineering = 精密工程，precision instruments = 精密仪器。
@@ -81,7 +78,7 @@ pre-（前缀，"在...之前"）+ cis（切分/确定）+ -ion（名词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -92,13 +89,13 @@ pre-（前缀，"在...之前"）+ cis（切分/确定）+ -ion（名词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inaccuracy]]：不精确；误差
 > - [[vagueness]]：模糊；含糊
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -109,7 +106,7 @@ pre-（前缀，"在...之前"）+ cis（切分/确定）+ -ion（名词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **precision instruments**：精密仪器
   - The laboratory is equipped with precision instruments.（实验室配备了精密仪器。）
 > - **with precision**：精确地
@@ -119,21 +116,15 @@ pre-（前缀，"在...之前"）+ cis（切分/确定）+ -ion（名词后缀�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The surgeon performed the operation with pinpoint precision."（外科医生以极为精准的手法实施了手术。）——考研高频表达
 > - "Scientific research requires precision in both measurement and analysis."（科学研究在测量和分析方面都需要精确性。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

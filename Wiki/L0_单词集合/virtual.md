@@ -3,14 +3,12 @@ title: "virtual"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 事实上存在的力量
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈvɜːtʃuəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**事实上存在的力量**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **事实上存在的力量**（效力层面——有效力但非正式）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > virt（力量/效能）+ ual：一个"实质上的"垄断者，虽然名义上不是垄断，但他的力量（virt）让效果等同于垄断。在计算机中，"虚拟现实"（virtual reality）就是用技术力量创造出效果等同于真实的世界。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[real]]：真实的（虚拟的 vs 真实的）
 > - [[actual]]：实际的（实质上的 vs 名义上的——注意 virtual 的"实质上"与 actual 在某些语境下近义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **virtual reality**：虚拟现实
   > Virtual reality technology has transformed the gaming industry. 虚拟现实技术已经改变了游戏行业。
 > - **a virtual monopoly**：实质上的垄断
@@ -125,21 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The explosion and accessibility of digital information in the 21st century has become a virtual necessity of life."（21世纪数字信息的爆发和可获取性已经成为生活中的实际必需品。）——2015年考研英语二Text2
 > - "Virtual reality technology has the potential to transform education and training."（虚拟现实技术有潜力改变教育和培训。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

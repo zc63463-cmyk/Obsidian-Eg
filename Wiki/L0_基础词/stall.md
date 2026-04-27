@@ -3,14 +3,12 @@ title: "stall"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 畜栏（用桩子围起来的动物隔间）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/stɔːl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**畜栏**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **畜栏**（物理层面）
@@ -67,7 +65,7 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stall 来自古英语 steall（站立的地方）。农夫用桩子（stake）围成畜栏（stall），把马关在里面。马在畜栏里跑不了——就像发动机突然 stall（熄火）跑不了，就像谈判代表故意 stall（拖延）让进程跑不了。stall 的本质就是"围住，让动不了"。
@@ -90,7 +88,7 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[advance]]：推进（stall 的反义：拖延停住 vs 推进）
 > - [[expedite]]：加速（stall 的反义：拖延 vs 加速）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stall for time**：拖延时间
 > - **market stall**：市场摊位
 > - **engine stall**：发动机熄火
@@ -128,19 +126,15 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - They stalled for time, hoping the situation would improve.（他们拖延时间，希望情况会好转。）
 > - The car stalled at the intersection.（汽车在十字路口熄火了。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "mourn"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 哀悼，为……感到悲痛（因失去而悲伤）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/mɔːn/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: mourn
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**因失去而悲伤**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **因失去而悲伤**（情感层面）
@@ -64,7 +61,7 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mourn 源自古英语 *murnan*，和 memory（记忆）同源。想象你在葬礼上，周围人都在哭泣——他们在 mourn（哀悼）。为什么哀悼？因为他们忘不了那个已经离开的人。mourn 的本质就是"带着记忆的痛"——你记得越多，mourn 越深。不仅 mourn 人，也可以 mourn 一个时代的消逝、一段感情的结束。
@@ -86,7 +83,7 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rejoice]]：高兴，欣喜（mourn 的精确反义：哀悼↔欢庆）
 > - [[celebrate]]：庆祝（mourn 的反义：哀悼↔庆祝）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mourn for/over**：为……哀悼（The whole nation mourned for the victims.）
 > - **mourn the loss of**：为失去……而悲痛（She mourned the loss of her freedom.）
 > - **mourn the dead**：哀悼死者
@@ -124,19 +121,15 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The nation mourned the loss of its beloved leader, who had guided the country through its darkest hours."（全国哀悼这位深受爱戴的领导人的离世，他曾带领国家走过最黑暗的时刻）
 > - "We mourn not only the passing of a great scientist but also the loss of a visionary thinker."（我们不仅哀悼一位伟大科学家的离世，也惋惜一位有远见的思想家的逝去）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

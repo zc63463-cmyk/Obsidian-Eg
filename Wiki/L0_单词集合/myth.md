@@ -3,14 +3,12 @@ title: "myth"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 古人编造的故事
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/mɪθ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ myth-（来自希腊语 *mythos*，话语，故事，来自印欧语系 *mewd-*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**古人编造的故事**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **古人编造的故事**（文化层面）
@@ -68,7 +66,7 @@ myth-（来自希腊语 *mythos*，话语，故事，来自印欧语系 *mewd-*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ myth-（来自希腊语 *mythos*，话语，故事，来自印欧语系 *mewd-*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > myth 来自希腊语 *mythos*，最初就是"话语、故事"的意思。古希腊人围坐在篝火旁，讲述宙斯如何用雷电统治天空、雅典娜如何从宙斯的头颅中诞生——这些代代相传的故事就是 myth（神话）。几千年后，有人声称"某些种族比其他种族更优秀"——科学家们站出来证明这是错误的，说"这只是一个 myth"（谬论）。myth 的本质就是"编出来的故事"，无论是古人用来解释世界，还是现代人用来误导大众。
@@ -93,7 +91,7 @@ myth-（来自希腊语 *mythos*，话语，故事，来自印欧语系 *mewd-*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ myth-（来自希腊语 *mythos*，话语，故事，来自印欧语系 *mewd-*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fact]]：事实（虚构↔事实）
 > - [[reality]]：现实（神话↔现实）
 > - [[truth]]：真相（谬论↔真相）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,28 +122,22 @@ myth-（来自希腊语 *mythos*，话语，故事，来自印欧语系 *mewd-*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the myth of**：...的谬论（The myth of racial superiority has been thoroughly debunked.）
 > - **debunk/expose a myth**：揭穿谬论（Scientists have debunked the myth that the earth is flat.）
 > - **create a myth**：创造神话（The media created a myth around his success.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The worthy residents of Stratford doubt that the theatre adds a penny to their revenue."（斯特福特镇受人尊敬的居民们认为剧院一点都没有使他们的收入增加。）——2006考研英语一阅读
 > - "The myth that success is solely determined by intelligence has been widely debunked."（成功完全由智力决定这一谬论已被广泛揭穿。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

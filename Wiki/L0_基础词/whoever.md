@@ -3,17 +3,14 @@ title: "whoever"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 无论谁
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/huːˈevər/"
 pos: pron.
-metaphor_type: 无隐喻
 word_root: who
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无论谁**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **无论谁**（人物层面）
@@ -66,7 +63,7 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > whoever = who（谁）+ ever（永远）→ 无论谁都……。记住 -ever 家族的统一模式：疑问词 + ever = "无论……"。whoever 有三个核心用法：让步（无论谁 = no matter who）、名词性从句（任何人 = anyone who）、疑问强调（到底是谁）。Whoever is responsible must be held accountable = 无论谁负责，都必须被追究责任。
@@ -88,7 +85,7 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - whoever 无直接反义词
 > - [[no one]]：没有人（whoever 表示"任何人"，no one 表示"没有人"）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +120,7 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **whoever it is/was**：不管是谁
 > - **whoever wants to**：任何想……的人
 > - **whoever is responsible**：无论谁负责
@@ -131,19 +128,15 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Whoever wins the election will face the enormous challenge of balancing economic growth with environmental protection in an era of rapid climate change."（无论谁赢得选举，都将面临在快速气候变化时代平衡经济增长与环境保护的巨大挑战——考研阅读政治话题相关表达）
 > - "The university should offer scholarships to whoever demonstrates exceptional academic ability, regardless of their family's financial background."（大学应该向任何展现出卓越学术能力的人提供奖学金，无论其家庭经济背景如何——考研阅读教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

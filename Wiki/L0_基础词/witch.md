@@ -3,14 +3,12 @@ title: "witch"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 施展魔法的人（与超自然力量打交道者）
-extension_dim: 文化路径
+extension_dim: [文化路径]
 phonetic: "/wɪtʃ/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**施展魔法的人**"为统筹中心，沿文化路径向外扩展：
 >
 > 1. **与神灵打交道**（宗教层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > witch 的核心画面是"与超自然力量打交道的人"。PIE *\*weik-* = 选择、献祭。古代巫师被认为是被神灵"选择"的人。古英语 *wicca*（男巫）→ *wicce*（女巫）→ 中古英语 *wicche* → 现代英语 witch。Witch hunt（猎巫运动）原指追捕女巫，现引申为"政治迫害"——考研可能涉及的比喻用法。动词 witch（使着迷）= 像施了魔法一样让人无法自拔。同源词 victim（牺牲品）= 被神灵"选择"献祭的人。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[priest]]：牧师/祭司（witch 的反义：世俗魔法↔宗教正统）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **witch hunt**：猎巫运动；政治迫害（考研可能涉及的比喻用法）
 > - **witch doctor**：巫医
 > - **witch hazel**：金缕梅（药用植物）
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Salem witch trials of 1692 remain one of the most notorious episodes of mass hysteria in American history."（1692年的塞勒姆女巫审判仍然是美国历史上最臭名昭著的群体性歇斯底里事件之一——考研阅读历史话题相关表达，witch hunt 的历史背景）
 > - "She was witched by the beauty of the ancient city and decided to stay there permanently."（她被这座古城的美丽所迷住，决定永久定居在那里——考研翻译文学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "ally"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 绑在一起的人（结盟者）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈælaɪ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ al-(=ad-, to，向) + ly（=lig，绑，拉丁语 *ligare*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绑在一起的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **绑在一起的人**（社会层面）
@@ -67,7 +65,7 @@ al-(=ad-, to，向) + ly（=lig，绑，拉丁语 *ligare*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ al-(=ad-, to，向) + ly（=lig，绑，拉丁语 *ligare*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > al（向）+ ly（绑，[[liber]]）→ 向某人绑在一起 → 盟友。二战时的 Allies（同盟国）就是互相"绑"在一起对抗轴心国的国家。注意 ally 的名词和动词发音不同：名词 /ˈælaɪ/，动词 /əˈlaɪ/。
@@ -90,7 +88,7 @@ al-(=ad-, to，向) + ly（=lig，绑，拉丁语 *ligare*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ al-(=ad-, to，向) + ly（=lig，绑，拉丁语 *ligare*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[enemy]]：敌人（ally 的精确反义）
 > - [[opponent]]：对手
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,26 +126,22 @@ al-(=ad-, to，向) + ly（=lig，绑，拉丁语 *ligare*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ally with**：与……结盟
 > - **a close ally**：亲密盟友
 > - **ally oneself to/with**：使自己和……结盟
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Allies were the armed forces that fought against Germany and Japan in the Second World War."（同盟国是在第二次世界大战中与德国和日本作战的武装力量——考研阅读高频背景知识）
 > - "They found themselves working alongside like-minded young people with similar values."（他们发现自己与志同道合、价值观相似的年轻人并肩工作——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

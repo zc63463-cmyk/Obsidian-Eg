@@ -3,14 +3,12 @@ title: "assist"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 站在旁边帮助
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈsɪst/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ as-(=ad-，朝向) + [[serv|sist]](=st-，站立) → 站在某人旁边
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在旁边帮助**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **站在旁边帮助**（物理层面：站在某人身旁提供支持）
@@ -65,7 +63,7 @@ as-(=ad-，朝向) + [[serv|sist]](=st-，站立) → 站在某人旁边
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ as-(=ad-，朝向) + [[serv|sist]](=st-，站立) → 站在某人旁边
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > as-（朝向）+ sist-（站立，[[st-sta-stat|st-]]词根）→ 朝某人**站过去**，站在他旁边帮他——就是"协助"。同族词：[[resist]]（re-回 + sist-站 = 站回去 = 抵抗），[[persist]]（per-始终 + sist-站 = 始终站着 = 坚持）。
@@ -90,7 +88,7 @@ as-(=ad-，朝向) + [[serv|sist]](=st-，站立) → 站在某人旁边
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ as-(=ad-，朝向) + [[serv|sist]](=st-，站立) → 站在某人旁边
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hinder]]：阻碍（协助的反面——妨碍进展）
 > - [[obstruct]]：阻挡（站在旁边帮助的反面——挡在前面阻挡）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,27 +119,21 @@ as-(=ad-，朝向) + [[serv|sist]](=st-，站立) → 站在某人旁边
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assist sb. in/with sth.**：帮助某人做某事（She assisted the professor in conducting the experiment.）
 > - **assist in the investigation**：协助调查（The police assisted in the investigation of the case.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The fund will assist poor students in completing their education."（这笔基金将资助贫困学生完成学业。）——2022考研英语一阅读
 > - "Technology can assist doctors in making more accurate diagnoses."（技术可以帮助医生做出更准确的诊断。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

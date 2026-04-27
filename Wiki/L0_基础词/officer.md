@@ -3,17 +3,14 @@ title: "officer"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 履行职责的人→军官/官员
-extension_dim: 职能角色
+extension_dim: [职能角色]
 phonetic: "/ˈɒfɪsər/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: office
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**履行职责的人**"为统筹中心，沿职能角色向外扩展：
 >
 > 1. **履行职责的人**
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > officer = [[office]]（职责）+ er（人）。一个 officer 就是被赋予 office（职责）的人。在战场上，他是指挥作战的 officer（军官）；在政府大楼里，他是处理行政事务的 officer（官员）；在街头，他是维护治安的 police officer（警察）。同一个词，不同的战场，相同的本质——履行职责的人。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[soldier]]：士兵（officer 的反义：军官↔士兵，指挥者↔被指挥者）
 > - [[civilian]]：平民（officer 的反义：军官/官员↔平民）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **police/customs/immigration officer**：警察/海关/移民局官员
 > - **army/military officer**：陆军/军事军官
 > - **commanding officer**：指挥官
@@ -128,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I just like to go over some of the things that you told police officer Parmer at the bank."（我只是想回顾一下你在银行告诉警察帕默的一些事情——CET-4 真题）
 > - "Rescue efforts were underway Thursday morning for 17 miners who were stuck in an elevator below ground at Cargill rock salt mine near Lansing, New York, according to Marcia Lynch."（据 Marcia Lynch 报道，周四上午正在营救17名被困在纽约兰辛附近嘉吉岩盐矿地下电梯中的矿工——CET-4 真题语境）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

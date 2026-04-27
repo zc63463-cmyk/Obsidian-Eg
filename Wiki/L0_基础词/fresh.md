@@ -3,14 +3,12 @@ title: "fresh"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 新近制作的（刚刚做好的）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/freʃ/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**新近制作的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **新近制作的**（物理层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 远古时代没有冰箱，食物只有刚从田里摘下来、刚从河里捞上来的那一刻才是"新鲜"的（fresh）。后来，新鲜的空气让你神清气爽，新鲜的证据让案件重见天日，刚毕业的学生被称为"新鲜人"（fresh graduate）——fresh 始终是"未经加工、刚刚产生"。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stale]]：不新鲜的，陈腐的（fresh 的精确反义：新鲜↔不新鲜）
 > - [[stagnant]]：停滞的，不新鲜的（fresh 的反义：清新↔停滞）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fresh air**：新鲜空气
 > - **fresh water**：淡水
 > - **fresh evidence**：新的证据
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The discovery provided fresh evidence for the theory."（这一发现为该理论提供了新的证据。）
 > - "Students should approach each problem with a fresh mind."（学生应该以全新的心态来处理每个问题。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

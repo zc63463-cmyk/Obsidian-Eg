@@ -3,17 +3,14 @@ title: "chat"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 闲聊（轻松的非正式交谈）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/tʃæt/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**闲聊（轻松的非正式交谈）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **闲聊**（面对面层面）
@@ -65,7 +62,7 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > chat 是拟声词，模仿人轻松聊天时"喋喋"的声音。想象两个人坐在咖啡馆里"喋喋喋"地聊天——那就是 chat。
@@ -88,7 +85,7 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[silence]]：沉默（chat 的反义：闲谈↔沉默不语）
 > - [[argue]]：争论（chat 的反义：轻松闲谈↔严肃争论）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have a chat with**：与……闲聊
 > - **chat about**：聊关于……的事
 > - **chat online**：网上聊天
@@ -127,19 +124,15 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Students tried to form a human chain around the parliament to protest, while others chatted with police officers about the situation."（学生们试图在议会周围组成人墙抗议，而另一些人则与警官闲聊局势——考研相关语料）
 > - "She had a chat with her supervisor about the research project, which helped clarify the direction."（她和导师聊了聊研究项目，这有助于明确方向——考研学术语境）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

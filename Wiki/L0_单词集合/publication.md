@@ -3,14 +3,12 @@ title: "publication"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 使信息公之于众的产物
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌpʌblɪˈkeɪʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people）+ -lic（形容�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使信息公之于众的产物**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使信息公之于众的产物**（物质层面）
@@ -68,7 +66,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people）+ -lic（形容�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people）+ -lic（形容�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > publication 是 publish 的名词形式，来自拉丁语 *publicatio*。想象一位科学家在实验室里研究了三年，终于写完了一篇论文——他把论文投给期刊，经过审稿后正式刊登出来，全世界的人都能看到。这个过程就是 publication（发表）。再想象一位作家写完了一本小说，交给印刷厂印刷成书，摆在书店里供人购买——这本书本身就是一个 publication（出版物）。publication 的本质就是"推向大众"，无论是把知识推向读者，还是把故事推向读者。
@@ -93,7 +91,7 @@ pub-（=populus，人民，来自拉丁语 *populus*，people）+ -lic（形容�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ pub-（=populus，人民，来自拉丁语 *populus*，people）+ -lic（形容�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[withdrawal]]：撤回，收回（发表↔撤回）
 > - [[suppression]]：压制，查禁（出版↔查禁）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,28 +122,22 @@ pub-（=populus，人民，来自拉丁语 *populus*，people）+ -lic（形容�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **scientific publication**：科学出版物/发表（The journal is a leading scientific publication.）
 > - **the publication of**：...的出版/发表（The publication of the report was delayed.）
 > - **academic publication**：学术发表（Academic publication is essential for researchers.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies."（今天读这些书，不禁惊叹于这样一个事实：它们学术性的内容曾经被认为适合在大众日报上发表。）——2010考研英语一阅读
 > - "Scientific publishing has long been a licence to print money."（科学出版长期以来一直是一本万利的行当。）——2020考研英语一阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

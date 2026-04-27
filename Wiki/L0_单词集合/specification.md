@@ -3,14 +3,12 @@ title: "specification"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 明确指定的内容
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌspesɪfɪˈkeɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**明确指定的内容**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **明确指定的内容**（产品层面）
@@ -68,7 +66,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > specification 是 specify（明确指定）的名词形式——"明确指定的内容"。想象你买一台电脑，商家给你一份"技术规格"（technical specifications）：CPU i7、16GB 内存、512GB SSD——这些就是**明确指定**的参数。specification 的核心是"把要求说清楚"：产品规格是把产品要求说清楚，说明书是把使用方法说清楚。spec- 家族：species（物种）、special（特别的）、specific（具体的）、specify（明确指定）、speculate（推测）。
@@ -90,7 +88,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[generalization]]：概括，泛化（specification "明确说明"的反义：明确↔泛化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **technical specifications**：技术规格
 > - **meet/meet the specifications**：符合规格
 > - **product specification**：产品规格/说明书
@@ -130,22 +128,16 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The product must meet strict technical specifications before it can be sold."（产品在销售前必须符合严格的技术规格）——技术/商业类阅读
 > - "The architect provided detailed specifications for the construction project."（建筑师为建设项目提供了详细的规格说明）——工程/建筑类话题
 > - "All materials used must conform to the specifications set out in the contract."（所有使用的材料必须符合合同中规定的规格）——法律/合同类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

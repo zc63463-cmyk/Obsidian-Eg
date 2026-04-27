@@ -3,14 +3,12 @@ title: "cheque"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 检查过的票据（经过核对的付款凭证）
-extension_dim: 功能扩展
+extension_dim: [功能扩展]
 phonetic: "/tʃek/"
 pos: n.
 metaphor_type: 转喻
@@ -43,7 +41,7 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**检查过的票据**"为统筹中心，沿功能扩展向外扩展：
 >
 > 1. **检查过的票据**
@@ -64,7 +62,7 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中世纪的银行家在棋盘格（checkerboard）台布上结算账目。后来这种"在棋盘格上核对"的行为演变为 cheque（支票）。当你 write a cheque（开支票）时，银行会 check（核对）你的账户余额，确认无误后付款。cheque = check（英式拼写）。
@@ -86,7 +84,7 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cash]]：现金（cheque 的反义：支票↔现金）
 > - [[debt]]：债务（cheque 的反义：付款凭证↔欠款）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **write a cheque**：开支票
 > - **cash a cheque**：兑现支票
 > - **blank cheque**：空白支票；（喻）全权委托
@@ -134,19 +132,15 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "What kind of presumption lies under section 139 of the Negotiable Instruments Act, 1881, in favour of holder of a cheque?"（1881年《票据法》第139条规定了哪些有利于支票持有人的推定？——HP PCS J Mains Exam, 2016）
 > - "What defences are available to the drawer of the cheque to escape punishment under section 138 of the Negotiable Instruments Act, 1881?"（支票出票人可以依据《票据法》第138条提出哪些抗辩以逃避处罚？——HP PCS J Mains Exam, 2016）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

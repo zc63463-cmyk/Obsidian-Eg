@@ -3,14 +3,12 @@ title: "trivial"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 三岔路口的→随处可见的→微不足道的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈtrɪviəl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ tri-(三) + via(路) + -al(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**三岔路口的→随处可见的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **三岔路口的**（空间层面——三岔路口到处都是）
@@ -64,7 +62,7 @@ tri-(三) + via(路) + -al(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ tri-(三) + via(路) + -al(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tri（三）+ via（路）= 三岔路口。古罗马的三岔路口是市井闲人聚集之地，他们聊的都是鸡毛蒜皮的小事。所以 trivial = 三岔路口聊的 = **琐碎的**。
@@ -87,7 +85,7 @@ tri-(三) + via(路) + -al(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ tri-(三) + via(路) + -al(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[significant]]：重要的，有意义的（琐碎 vs 重要）
 > - [[profound]]：深刻的，意义深远的（肤浅 vs 深刻）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ tri-(三) + via(路) + -al(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **trivial matter**：琐事（Don't waste time on trivial matters.）
 > - **trivial details**：无关紧要的细节（She got bogged down in trivial details.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It enables us to classify trivial facts and to grasp the essence of complex phenomena."（它使我们能够对琐碎的信息进行分类，并把握复杂现象的本质。）——考研高频表达
 > - "Don't waste your time on trivial matters when there are more important things to attend to."（有更重要的事情要处理时，不要把时间浪费在琐事上。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "collapse"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 倒塌、崩溃
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kəˈlæps/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**倒塌、崩溃**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **倒塌、坍塌**（物理层面——建筑/结构失去支撑而倒下）
@@ -66,7 +64,7 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 collapsus，过去分词形式，源自 collabi（滑落、倒塌）。col-（一起）+ labi（滑落）= 所有支撑一起滑落 = 倒塌。想象一座大楼的柱子同时滑倒，整栋楼轰然坍塌。
@@ -89,7 +87,7 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[erect]]：竖立、建立（倒塌的反义）
 > - [[recover]]：恢复（崩溃后的恢复）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the collapse of**：……的倒塌/崩溃
   - The collapse of the bridge caused numerous casualties.（桥梁的倒塌造成了大量伤亡。）
 - **economic collapse**：经济崩溃
@@ -133,22 +131,16 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Integrity had collapsed, she argued, because of a collective acceptance that the only 'sorting mechanism' in society should be profit and the market."（她认为，道德已经沦丧，因为人们普遍接受社会唯一的"分类机制"应该是利益和市场。）——考研阅读
 > - "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious concerns about nuclear safety."（一系列事故，包括2007年一座冷却塔的部分坍塌和地下管道系统泄漏的发现，引发了人们对核安全的严重担忧。）——考研阅读
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

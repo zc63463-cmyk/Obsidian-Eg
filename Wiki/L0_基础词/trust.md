@@ -3,14 +3,12 @@ title: "trust"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 忠实地依靠（基于忠实而托付）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/trʌst/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**忠实地依靠**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **忠实地依靠**（人际关系）
@@ -69,7 +67,7 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trust 和 true（忠实）同源——你 trust（信任）一个人因为他 true（忠实）。trust 的核心是"托付"：trust someone with a task（把任务托付给某人），trust fund（信托基金=被托付的钱），anti-trust laws（反托拉斯法=反垄断法，防止企业通过"信任联盟"垄断市场）。
@@ -92,7 +90,7 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distrust]]：不信任（trust 的精确反义：信任↔不信任）
 > - [[suspect]]：怀疑（trust 的反义：信任↔怀疑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **trust fund**：信托基金
 > - **anti-trust laws**：反托拉斯法（反垄断法）
 > - **trust someone with**：把……托付给某人
@@ -134,18 +132,14 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The government introduced anti-trust legislation to prevent large corporations from dominating the market.（政府出台了反托拉斯法，以防止大企业主导市场。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

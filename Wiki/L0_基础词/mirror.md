@@ -3,14 +3,12 @@ title: "mirror"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 凝视、惊叹（注视镜中倒影而感到惊奇）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmɪrə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**凝视、惊叹**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **凝视镜中倒影**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mirror = mir（惊奇、注视）+ -or（物）= 令人惊叹之物 = 镜子。拉丁语 *mirari* = 惊叹。古人第一次看到镜中自己的倒影时，一定是惊叹不已——这就是 mirror。The lake mirrors the mountains（湖水映出群山倒影）= 湖水像镜子一样"反映"。The novel is a mirror of its time（这部小说是时代的写照）= 小说是时代的"镜子"。同源词：miracle（奇迹 = 令人惊叹之事）、admire（钦佩 = 对……感到惊叹）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distort]]：扭曲（mirror 的反义：如实反映↔扭曲失真）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **look in the mirror**：照镜子
 > - **a mirror image**：镜像，一模一样的翻版
 > - **mirror the changes**：反映变化
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The value creation is mirrored by the difference between the gross policy return and the minimum required return."（价值的创造反映在总保单回报与最低要求回报之间的差异上——考研阅读经济话题相关表达）
 > - "First, there is a dearth of research on this issue, mirroring criminology's broader neglect of the criminality of women."（首先，关于这个问题的研究非常匮乏，这反映了犯罪学对女性犯罪问题的更广泛忽视——考研阅读社科话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

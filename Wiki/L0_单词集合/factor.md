@@ -3,14 +3,12 @@ title: "factor"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 做事的人、制造者
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfæktə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**做事的人、制造者**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **做事的人、制造者**（人物层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > factor 来自拉丁语"做事的人"（facere = 做）。想象一个工厂里，每个**工人**（factor）都在为产品的诞生**做事**。在分析问题时，每个**因素**（factor）就像一个看不见的工人，在幕后推动结果的发生。数学中的**因数**（factor）也一样——它在乘法中"做事"，贡献自己的力量。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[result]]：结果（factor 作为"原因/因素"的反义：原因↔结果）
 > - [[effect]]：效果，结果（factor 导致 effect，两者构成因果对）
 > - [[whole]]：整体（factor 作为"部分/要素"的反义：部分↔整体）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **key factor / crucial factor**：关键因素
 > - **contributing factor**：促成因素
 > - **factor in**：将……纳入考量
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Technology is a key factor in economic growth."（科技是经济增长的关键因素）——考研阅读高频搭配，经济科技类话题
 > - "We must factor in the cost of living."（我们必须把生活成本纳入考量）——考研翻译/写作常见用法
 > - "Various factors contribute to climate change."（多种因素导致气候变化）——环境类话题高频搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

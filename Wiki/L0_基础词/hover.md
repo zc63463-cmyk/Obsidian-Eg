@@ -3,14 +3,12 @@ title: "hover"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 悬在空中
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈhʌvər/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**悬在空中**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **悬在空中**（空间层面）
@@ -66,7 +64,7 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hover 就是"悬着"。想象一只老鹰在猎物上方盘旋——它在 hover。直升机在空中悬停也是 hover。你站在两个选择之间犹豫不决——你也在 hover，像鸟一样悬在空中不落下来。
@@ -88,7 +86,7 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[land]]：降落（hover 的空间反义：悬停↔降落）
 > - [[decide]]：决定（hover 的心理反义：犹豫↔决定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hover around**：在附近徘徊
 > - **hover between**：在……之间犹豫
 > - **hover over**：在上方盘旋
@@ -124,19 +122,15 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The helicopter hovered over the scene of the accident."（直升机在事故现场上空盘旋。）
 > - "She hovered between accepting the job offer and staying at her current position."（她在接受这份工作邀请和留在现有职位之间犹豫不决。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

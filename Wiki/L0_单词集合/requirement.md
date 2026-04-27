@@ -3,14 +3,12 @@ title: "requirement"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 被反复追问的需求
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈkwaɪəmənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被反复追问的需求**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被反复追问的需求**（行为结果层面：确认的必要条件）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > require(需要) + -ment(名词) → 反复追问后确认的需求 = 必要条件。与 [[request]]（请求）、[[require]]（需要）同源。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[option]]：选择（与 requirement 的"必须满足"形成反义）
 > - [[luxury]]：奢侈品（与 requirement 的"必需品"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **meet/satisfy requirements**：满足要求
 > - **entry requirements**：入学要求
 > - **minimum requirements**：最低要求
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All tests require a potential candidate with whom to compare DNA."（所有的测试都需要一个潜在的候选人来比较DNA——考研高频表达）
 > - "These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development."（这些问题都有人类行为的根源：都需要行为改变、社会创新以及技术发展——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

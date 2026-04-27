@@ -3,14 +3,12 @@ title: "vital"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 生命的、维持生命所必需的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈvaɪtl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与生命有关的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **与生命有关的**（生理层面）
@@ -68,7 +66,7 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vit-（生命）→ 想象一个人没有了心跳，生命就停止了——心跳就是 vital（至关重要的）。
@@ -91,7 +89,7 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[trivial]]：琐碎的，不重要的（vital 的直接反义）
 > - [[fatal]]：致命的（极端对立：维持生命的 vs 致命的）
 - [[nonessential]]：非必需的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **vital to/for**：对...至关重要（Education is vital to personal development.）
 > - **vital role**：关键作用（Technology plays a vital role in modern society.）
 > - **vital signs**：生命体征（The doctor checked the patient's vital signs.）
@@ -135,18 +133,12 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Tourism is vital for the economy."（旅游业对于经济至关重要。）——考研高频表达
 > - "Trust is a vital component in any relationship."（在任何关系中，信任都是一个至关重要的因素。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

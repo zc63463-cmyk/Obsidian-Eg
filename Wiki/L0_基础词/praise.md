@@ -3,14 +3,12 @@ title: "praise"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 称赞，赞扬
-extension_dim: 肯定评价
+extension_dim: [肯定评价]
 phonetic: "/preɪz/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ praise(称赞/赞扬，古法语 *prisier*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**珍视→赞扬**"为统筹中心，沿肯定评价向外扩展：
 >
 > 1. **珍视**（价值判断）
@@ -67,7 +65,7 @@ praise(称赞/赞扬，古法语 *prisier*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ praise(称赞/赞扬，古法语 *prisier*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > praise 来自"珍视"（prisier）。你 praise（赞扬）一个人，就是因为你珍视他的品质或成就。praise 和 [[price]]（价格）同源——都来自拉丁语 *pretium*（价值）。有价值的东西才值得 praise。praise someone for their bravery = 因勇敢而赞扬某人。win high praise = 赢得高度赞扬。praise 也可以指宗教上的"赞美"——praise God = 赞美上帝。praise 和 [[blame]]（指责）是一对反义词：praise = 说好话，blame = 说坏话。
@@ -90,7 +88,7 @@ praise(称赞/赞扬，古法语 *prisier*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ praise(称赞/赞扬，古法语 *prisier*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[blame]]：责备（praise 的精确反义：赞扬↔责备）
 > - [[criticize]]：批评（praise 的反义：赞扬↔批评）
 > - [[condemn]]：谴责（praise 的反义：赞扬↔谴责）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ praise(称赞/赞扬，古法语 *prisier*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **praise someone for something**：因某事赞扬某人
 > - **high praise**：高度赞扬
 > - **win/earn praise**：赢得赞扬
@@ -135,19 +133,15 @@ praise(称赞/赞扬，古法语 *prisier*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The novel won high praise from literary critics for its profound exploration of human nature."（这部小说因对人性深刻的探索而赢得了文学评论家的高度赞扬。——考研英语阅读文学类话题）
 > - "The government was widely praised for its swift response to the natural disaster."（政府因对自然灾害的迅速反应而受到广泛赞扬。——考研英语阅读社会类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

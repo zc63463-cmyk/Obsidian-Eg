@@ -3,14 +3,12 @@ title: "thousand"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 十个百（10×100 的大数单位）
-extension_dim: 数量规模
+extension_dim: [数量规模]
 phonetic: "/ˈθaʊznd/"
 pos: num.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**十个百（10×100 的大数单位）**"为统筹中心，沿数量规模向外扩展：
 >
 > 1. **十个百**
@@ -65,7 +63,7 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > thousand 的词源就是"一百个十"——tūs（十）+ hund（百）= thousand。古人用"一百个十"来表达1000这个大数。在古代，1000已经足够大了，大到可以用来泛指"无数"。I've done this a thousand times（这事我做了一千遍了）并不是真的数过1000次，而是说"做了无数次"。thousand 的核心记忆就是"千"——精确的千或泛指的"很多"。
@@ -88,7 +86,7 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[zero]]：零（thousand 的数字反义：一千↔零）
 > - [[one]]：一（thousand 的数量反义：多↔少）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **thousands of**：成千上万的
 > - **a thousand times**：一千遍，无数次
 > - **one in a thousand**：千里挑一的
@@ -128,19 +126,15 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The survey used a random sample of two thousand people across England and Wales."（该调查在英格兰和威尔士随机抽取了两千人作为样本——Cambridge English Corpus）
 > - "Over a thousand people braved the elements to attend the march."（超过一千人冒着恶劣天气参加了游行——Cambridge English Corpus）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

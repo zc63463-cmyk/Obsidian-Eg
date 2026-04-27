@@ -3,14 +3,12 @@ title: "preach"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 宣讲/布道
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/priːtʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**宣讲/布道**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **宣讲/布道**（宗教层面：在教堂宣讲教义）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > preach 源自拉丁语 praedicare（在前面宣布）。preacher（牧师）站在教堂前面宣讲教义。延伸到日常生活中，就是"说教"——站在道德高地教训别人。Practice what you preach = 言行一致。
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,13 +93,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[practice]]：实践（与说教相对——practice what you preach）
 > - [[listen]]：倾听（与宣讲相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,7 +110,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **preach to the converted**：对已经信服的人说教；多此一举
   - He is preaching to the converted; we all agree with him already.（他是在对已经信服的人说教；我们都已经同意他的观点了。）
 > - **practice what you preach**：言行一致；身体力行
@@ -122,21 +120,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Health experts are now preaching that even a little exercise is far better than none at all."（如今，健康专家正在大力宣传，即使少量的运动也比完全不运动好得多。）——考研高频表达
 > - "Those people go around preaching revolution but propose nothing to replace the existing system."（那些人到处宣扬革命，却没有提出任何替代现有制度的东西。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

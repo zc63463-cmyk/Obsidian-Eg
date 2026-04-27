@@ -3,17 +3,14 @@ title: "slum"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 肮脏拥挤的住所（贫民居住的破旧区域）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/slʌm/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: slum
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**肮脏拥挤的住所**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **肮脏拥挤的住所**（居住环境层面）
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > slum 指城市中极度贫困、拥挤、卫生条件恶劣的居住区。在狄更斯的小说《雾都孤儿》中，Oliver Twist 从济贫院一路走到伦敦的 criminal slums（犯罪贫民窟）。slum = 穷人住的地方 = 贫民窟。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[suburb]]：郊区（slum 的反义：市中心贫民窟↔郊区富裕区）
 > - [[mansion]]：豪宅（slum 的反义：贫民窟↔豪宅）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **urban/city slums**：城市贫民窟
 > - **live in the slums**：住在贫民窟
 > - **slum clearance**：贫民窟清除
@@ -140,20 +137,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In Oliver Twist, Dickens traces an orphan's progress from the workhouse to the criminal slums of London."（在《雾都孤儿》中，狄更斯追踪了一个孤儿从济贫院到伦敦犯罪贫民窟的经历。——考研真题语料）
 > - "She was brought up in the slums of Leeds."（她在利兹的贫民窟长大。——考研相关语料）
 > - "Most of the small and medium enterprises closed down during the economic slump."（大多数中小型企业在经济萧条时期都倒闭了。——考研相关语料，slump 与 slum 词形关联）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

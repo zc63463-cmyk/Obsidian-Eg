@@ -3,17 +3,14 @@ title: "glacier"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 冰川（缓慢流动的冰体）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈɡlæsiə(r)/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: glace
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ glac-（冰，拉丁语 *glacies*）+ -ier（名词后缀，表示物）。与 [
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**冰川**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **冰川**（自然地理层面）
@@ -65,7 +62,7 @@ glac-（冰，拉丁语 *glacies*）+ -ier（名词后缀，表示物）。与 [
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ glac-（冰，拉丁语 *glacies*）+ -ier（名词后缀，表示物）。与 [
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > glacier 来自拉丁语 glacies（冰）。想象一座巨大的冰山在山谷中缓慢移动——那就是 glacier。全球变暖导致 glacier melting（冰川融化），海平面上升。glacier 虽然叫"冰河"，但它移动的速度极其缓慢，一年可能只移动几米到几百米。
@@ -87,7 +84,7 @@ glac-（冰，拉丁语 *glacies*）+ -ier（名词后缀，表示物）。与 [
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ glac-（冰，拉丁语 *glacies*）+ -ier（名词后缀，表示物）。与 [
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （自然地理术语，无精确反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +117,22 @@ glac-（冰，拉丁语 *glacies*）+ -ier（名词后缀，表示物）。与 [
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **glacier melting/retreat**：冰川融化/退缩——Global warming is causing glacier retreat.
 > - **glacier formation**：冰川形成
 > - **glacial period**：冰川期，冰河时期
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Global warming may make the sea level become higher. Warmer weather makes glaciers melt. A glacier is a large sheet of ice that moves very, very slowly. Some melting glaciers add more water to the ocean."（全球变暖可能使海平面上升。温暖的天气使冰川融化。冰川是一大片移动非常非常缓慢的冰。一些融化的冰川向海洋中添加了更多的水——考研相关阅读材料，涉及全球变暖与冰川融化）
 > - "There are upsetting parallels today, as scientists in one wave after another try to awaken us to the growing threat of global warming."（今天存在令人不安的相似之处，科学家们一波接一波地试图唤醒我们认识到全球变暖日益严重的威胁——2005年考研英语Text 2，涉及气候变化与冰川退缩的语境）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

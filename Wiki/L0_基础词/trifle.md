@@ -3,17 +3,14 @@ title: "trifle"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 琐事，小事
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈtraɪfl/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: trick
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**琐事，小事**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **琐事，小事**（价值层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trifle 来自古法语"笑话、无意义的事"。一件微不足道的小事就是 a trifle。"I'm a trifle tired"（我有一点点累）——trifle 在这里表示"少量"。如果你 trifle with someone（轻视某人），你就是在把他当作小事对待。trifle 就是"微不足道"。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[importance]]：重要性（trifle 的反义：琐事↔重要的事）
 > - [[significance]]：重大意义（trifle 的反义：微不足道↔意义重大）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a trifle**：一点儿，稍微
   - She seemed a trifle nervous before the interview.
 - **trifle with**：轻视，玩弄
@@ -128,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She was looking a trifle pale."（她看起来有点苍白。）
 > - "He warned them not to trifle with the law."（他警告他们不要藐视法律。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "participate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 取得一部分
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/pɑːˈtɪsɪpeɪt/"
 pos: vi.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**取得一部分**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **取得一部分**（社会活动层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > parti（部分）+ cip（取）+ ate（动词后缀）→ 取一部分 → **参与**。想象一场大餐，你走过去从桌上"取了一部分"食物——这就是 participate 的本义。参加讨论就是从讨论中"取一部分"话语权，参与研究就是从研究中"取一部分"数据和成果。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[withdraw]]：退出，撤回（participate 的精确反义：参与↔退出）
 > - [[boycott]]：抵制，拒绝参与
 > - [[absent]]：缺席（参与↔缺席）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **participate in**：参与，参加
 > - **actively participate in**：积极参与
 > - **participate in a discussion/debate**：参与讨论/辩论
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Students are encouraged to participate in class discussions."（鼓励学生参与课堂讨论）——考研阅读教育类话题高频表达
 > - "Over 500 people participated in the survey."（超过500人参与了调查）——学术/社会研究类语境
 > - "Women participated in the workforce in growing numbers."（越来越多的女性参与劳动力市场）——社会/经济类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

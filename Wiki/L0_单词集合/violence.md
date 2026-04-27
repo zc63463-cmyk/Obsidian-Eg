@@ -3,14 +3,12 @@ title: "violence"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 猛力冲击、粗暴对待
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈvaɪələns/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**猛力冲击**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **猛力冲击**（身体层面——用蛮力攻击）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > viol（暴力）+ ence：viol 源自拉丁语 vis（力量）。力量本身是中性的，但当力量被滥用、不受控制时，就变成了 violence（暴力）。想象一匹脱缰的野马，用蛮力冲撞一切——那就是 violence。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[peace]]：和平（暴力 vs 和平）
 > - [[gentleness]]：温和（猛烈 vs 温和）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **domestic violence**：家庭暴力
   > The government has introduced stricter laws against domestic violence. 政府出台了更严格的法律来打击家庭暴力。
 > - **do violence to**：歪曲，粗暴对待
@@ -126,21 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Gun violence is a major issue in America."（枪支暴力在美国是个大问题。）——考研高频表达
 > - "Complaints about sex and violence on TV have increased in recent years."（近年来对电视上色情和暴力的投诉有所增加。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

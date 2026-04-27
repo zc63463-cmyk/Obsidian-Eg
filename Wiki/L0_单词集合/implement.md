@@ -3,14 +3,12 @@ title: "implement"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 填充、使完整
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɪmplɪment/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**填充、使完整**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **填充、使完整**（物理层面的补充）
@@ -65,7 +63,7 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（进入）+ ple（充满）+ ment（工具）→ 把工具"填满"手 → 拿着工具去"实施"计划。
@@ -88,7 +86,7 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abolish]]：废除，取消（与 implement 的"实施"相反）
 > - [[neglect]]：忽视，忽略
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **implement a policy**：实施政策
 >   > The government implemented a series of economic reforms. 政府实施了一系列经济改革。
 > - **implement a plan**：执行计划
@@ -126,21 +124,15 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The government has promised to implement new measures to reduce pollution."（政府承诺实施新的措施来减少污染。）——考研阅读真题
 > - "The implementation of the new policy has been delayed by bureaucratic obstacles."（新政策的实施因官僚主义障碍而被推迟。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

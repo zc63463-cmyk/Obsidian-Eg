@@ -3,14 +3,12 @@ title: "mission"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 被派出去执行的任务（送出去完成的目标）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被派出去执行的任务**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **被派遣**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mission = miss（被送出去）+ -ion（名词后缀）= 被派出去 = 使命/任务。拉丁语 *mittere* = 送、派。古代国王派使者出使外国——这就是 mission。A diplomatic mission（外交使团）= 被派出去的外交团体。A rescue mission（救援任务）= 被派去救援。Her mission in life is to help the poor（她的人生使命是帮助穷人）= 她被"命运"派来完成这个任务。同源词：missile（导弹 = 被投掷的东西）、admit（准许进入）、transmit（传输）、submit（提交）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[aimlessness]]：无目的（mission 的反义：有使命↔无目的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a diplomatic mission**：外交使团
 > - **a space mission**：太空任务
 > - **mission in life**：人生使命
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If you and I parachuted back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion."（如果回顾1990年的世界五百强企业，我们会发现像"旅程""使命""激情"这类词汇的使用频率远没有现在高——2015年考研阅读Text 3）
 > - "Her mission in life was to work with the homeless, and she devoted decades to this cause."（她的人生使命是帮助无家可归者，她为此事业奉献了几十年——考研阅读人物传记话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

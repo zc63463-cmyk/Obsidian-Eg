@@ -3,17 +3,14 @@ title: "humorous"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 充满幽默感的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈhjuːmərəs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: our
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -42,7 +39,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充满幽默感的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **充满好性情的**（性格层面）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > humour（幽默）+ -ous（充满）→ 充满幽默感的。一个 humorous 的人，就是身上充满了 humour（好性情）的人。他讲的故事是 humorous story，他的演讲是 humorous speech。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[serious]]：严肃的（humorous 的精确反义：幽默↔严肃）
 > - [[solemn]]：庄重的（humorous 的反义：诙谐↔庄重）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,25 +115,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a humorous person**：一个幽默的人
 > - **humorous story/essay**：幽默故事/散文
 > - **humorous remark**：诙谐的话
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Mark Twain was one of the most humorous writers in American literature."（马克·吐温是美国文学中最幽默的作家之一）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

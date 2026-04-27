@@ -3,14 +3,12 @@ title: "draw"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 拉，拖（朝自己方向拉动）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/drɔː/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉向自己**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **拉向自己**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > draw 和 drag 同源，都来自"拉、拖"。但 draw 更优雅——不是贴着地面硬拖（那是 drag），而是平滑地拉向自己。想象你轻轻拉上窗帘（draw the curtains），用笔在纸上拉出优美的线条（draw a picture），把观众的目光拉向舞台（draw attention）——所有的 draw 都是"拉"，只是拉的对象不同。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[push]]：推（draw 拉↔push 推）
 > - [[repel]]：排斥，使反感（draw 吸引↔repel 排斥）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **draw attention**：引起注意（The incident drew public attention. 这一事件引起了公众注意。）
 > - **draw a conclusion**：得出结论（What conclusion can we draw from this? 我们能从中得出什么结论？）
 > - **draw near**：临近（Winter is drawing near. 冬天临近了。）
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The report draws attention to the serious environmental problems."（这份报告引起了人们对严重环境问题的关注。）
 > - "We can draw a conclusion from the data that the economy is recovering."（我们可以从数据中得出结论：经济正在复苏。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

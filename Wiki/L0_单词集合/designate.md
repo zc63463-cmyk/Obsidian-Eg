@@ -3,14 +3,12 @@ title: "designate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 标出记号指定
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈdezɪɡneɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用记号标出**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **用记号标出**（物理层面：做标记）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 与 [[design]] 同源。de（出）+ sign（记号）+ ate（使动）= 使某人被标上记号 → **指定，任命**。想象在会议上，领导在名单上**画了个记号**，指定你负责这个项目。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dismiss]]：解职（designate 是任命，dismiss 是解职）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,29 +114,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **designate sb. as**：He was designated as the team leader. 他被指定为团队负责人。
 > - **designated area**：Smoking is only allowed in designated areas. 只允许在指定区域吸烟。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "They had pushed the agency to designate the bird as 'endangered,' a status that gives federal officials greater regulatory power to crack down on threats."（他们敦促该机构将这种鸟列为"濒危物种"，这一身份赋予联邦官员更大的监管权力来打击威胁。）——2016年考研英语二阅读
 > - "If farmers like Bowman are able to use these seeds without paying the designated fee, it will remove the incentives for companies like Monsanto to innovate."（如果像鲍曼这样的农民能够不支付指定费用就使用这些种子，那将消除像孟山都这样的公司进行创新的动力。）——六级2013年12月阅读（考研同源）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

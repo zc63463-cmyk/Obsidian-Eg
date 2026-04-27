@@ -3,14 +3,12 @@ title: "generation"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 产生、一代人
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌdʒenəˈreɪʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**生育、产生**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **生育、产生**（生物-时间层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gen-（生）+ -er- + -ation（名词后缀）→ 生育的过程/结果。父母"生"出孩子就是一代人（a generation）；发电厂"生"出电就是发电（generation of electricity）；科技公司"生"出新产品就是新一代（next generation）。同一个"生"字，串起人、能量和技术。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extinction]]：灭绝（generation 的精确反义：产生新生命↔物种灭绝）
 > - [[consumption]]：消耗（产生↔消耗）
 > - [[disappearance]]：消失（产生↔消失）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **younger/older generation**：年轻一代/年长一代
 > - **generation gap**：代沟
 > - **next-generation technology**：下一代技术
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the younger generation is more environmentally conscious"（年轻一代更具环保意识）——考研阅读常见话题，社会变迁类
 > - "next-generation technology"（下一代技术）——考研阅读常见搭配，科技话题
 > - "the generation gap between parents and children"（父母与子女之间的代沟）——考研阅读常见话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

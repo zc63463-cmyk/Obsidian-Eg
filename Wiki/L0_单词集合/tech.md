@@ -3,14 +3,12 @@ title: "tech"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 技术的缩写
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/tek/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**技术的缩写**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **技术的缩写**（缩略层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tech 是 technology 的"快照"——1906 年它只代表"理工学院"（MIT），后来变成"技术员"，再变成"技术/科技"。今天它无处不在：**big tech**（科技巨头）、**fintech**（金融科技）、**biotech**（生物科技）。记住 tech 的进化史：理工学院 → 技术员 → 技术 → 万能后缀。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nature]]：自然（tech 是人造的，nature 是天然的）
 > - [[analog]]：模拟的（tech 常暗示数字技术，analog 是传统模拟技术）
 > - [[tradition]]：传统（tech 代表创新，tradition 代表旧有方式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tech industry**：科技行业
 > - **big tech**：科技巨头（指大型科技公司）
 > - **tech company/startup**：科技公司/初创企业
@@ -140,7 +138,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "big tech companies dominate the market"（科技巨头主导市场）——考研阅读中商业/科技类话题
 > - "the tech industry is growing rapidly"（科技行业快速增长）——经济/社会类话题
 > - "tech-savvy consumers"（精通技术的消费者）——消费/科技类文本
@@ -148,15 +146,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

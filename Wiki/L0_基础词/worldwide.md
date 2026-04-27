@@ -3,14 +3,12 @@ title: "worldwide"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 全世界的，世界范围的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈwɜːldwaɪd/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**全世界的，世界范围的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **全世界的**（空间范围层面）
@@ -63,7 +61,7 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**（优先）：
 > world（世界）+ wide（宽的）→ 像世界一样宽 → worldwide（全世界的）。COVID-19 是一场 worldwide pandemic（全球大流行）。这家公司的业务遍布 worldwide（全球）。worldwide 就是"全世界"。
@@ -83,7 +81,7 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[local]]：当地的，本地的（worldwide 的反义：全世界↔本地）
 > - [[national]]：国家的（worldwide 的反义：世界范围↔国家范围）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **worldwide recognition**：世界范围的认可
   - The scientist gained worldwide recognition for her discovery.
 - **worldwide fame**：世界闻名
@@ -123,19 +121,15 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Climate change is a worldwide problem that requires international cooperation."（气候变化是一个需要国际合作的全球性问题。）
 > - "The internet has made information available worldwide."（互联网使信息在全球范围内可用。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

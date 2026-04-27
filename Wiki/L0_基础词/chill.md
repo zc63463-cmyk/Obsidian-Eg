@@ -3,14 +3,12 @@ title: "chill"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 寒冷（使温度降低）
-extension_dim: 感官-情感扩展
+extension_dim: [感官-情感扩展]
 phonetic: "/tʃɪl/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**寒冷**"为统筹中心，沿感官-情感扩展向外扩展：
 >
 > 1. **寒冷**
@@ -72,7 +70,7 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > chill 来自古英语 ciele（寒冷）。冬天你走在路上，a chill in the air（空气中有一丝寒意），不小心 catch a chill（着凉了）。朋友说 "chill out!"（放松点！），就是让你别那么紧张，"冷却"一下你的情绪。chill 的核心画面就是"冷"——身体冷、感情冷、情绪冷（放松）。
@@ -96,7 +94,7 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[warmth]]：温暖（chill 的精确反义：寒冷↔温暖）
 > - [[fever]]：发热（chill 的反义：着凉↔发热）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -135,7 +133,7 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **catch a chill**：着凉
 > - **chill out**：放松，冷静
 > - **a chill in the air**：空气中有一丝寒意
@@ -144,19 +142,15 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The throat often feels dry and sore, the head feels stuffed, the eyes smart and there is a profuse watery nasal discharge."（喉咙常感干燥疼痛，头部感觉闷塞，眼睛刺痛，有大量水性鼻涕。——CRACCUM 1978, 描述感冒/chill 症状）
 > - "Unlike chill, which is merely a temporary discomfort, chronic conditions require long-term medical attention."（与只是暂时不适的着凉不同，慢性病需要长期的医疗关注。——基于语料综合改写）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

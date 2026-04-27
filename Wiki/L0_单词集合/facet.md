@@ -3,14 +3,12 @@ title: "facet"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 宝石的一个小切面
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈfæsɪt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**宝石的一个小切面**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **宝石的一个小切面**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > facet 就是 face（脸/面）的小版本（-et = 小）。想象一颗璀璨的钻石，它有几十个**小面**（facet），每个小面都是一张小小的"脸"。同样，一个复杂问题也有多个"小面"——经济面、社会面、文化面——每个 facet 帮助你从不同角度理解问题。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whole]]：整体（facet 作为"部分/方面"的反义：部分↔整体）
 > - [[entirety]]：全部，整体（facet 是整体中的一个面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **every facet of the problem/issue**：问题的每个方面
 > - **multi-faceted**：多层面的，多方面的
 > - **all facets of life**：生活的各个方面
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We need to examine every facet of the problem."（我们需要审视问题的每个方面）——考研阅读/写作常见搭配，学术分析语境
 > - "a multi-faceted approach to education"（多层面的教育方法）——教育类话题高频搭配
 > - "Technology has added a new facet to modern life."（科技为现代生活增添了新层面）——科技与社会话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "bloom"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 花朵，开花
-extension_dim: 繁荣发展
+extension_dim: [繁荣发展]
 phonetic: "/bluːm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ bloom(花/开花，古诺斯语 *blóm*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**花/开花**"为统筹中心，沿繁荣发展向外扩展：
 >
 > 1. **花**（植物层面）
@@ -69,7 +67,7 @@ bloom(花/开花，古诺斯语 *blóm*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ bloom(花/开花，古诺斯语 *blóm*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bloom 的核心就是"花"。想象一朵花从花苞到完全绽放的过程——这就是 bloom。in full bloom = 盛开（花完全打开了）。in the bloom of youth = 青春焕发（像花一样盛开的状态）。a bloom of creativity = 创造力的绽放。bloom 和 [[blossom]] 都有"开花"的意思，但 bloom 更通用，blossom 多用于果树的花。bloom 也可指金属表面的氧化层（如钢表面的蓝灰色薄膜），因为这种薄膜看起来像花一样。
@@ -92,7 +90,7 @@ bloom(花/开花，古诺斯语 *blóm*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ bloom(花/开花，古诺斯语 *blóm*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wither]]：枯萎（bloom 的精确反义：开花↔枯萎）
 > - [[fade]]：凋谢（bloom 的反义：绽放↔凋谢）
 > - [[decay]]：衰败（bloom 繁荣的反义：繁荣↔衰败）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ bloom(花/开花，古诺斯语 *blóm*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in (full) bloom**：盛开（期）
 > - **in the bloom of youth**：青春焕发
 > - **bloom into**：发展成为
@@ -134,19 +132,15 @@ bloom(花/开花，古诺斯语 *blóm*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The cherry trees were in full bloom, attracting thousands of visitors to the park."（樱花正值盛放期，吸引了数千名游客来到公园。——考研英语阅读描写类话题）
 > - "Her talent bloomed under the guidance of her mentor, and she soon became one of the most promising artists of her generation."（在导师的指导下，她的才华得以绽放，很快成为那一代最有前途的艺术家之一。——考研英语阅读人物传记类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

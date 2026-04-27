@@ -3,14 +3,12 @@ title: "indifferent"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 不在两者之间偏向任何一方（漠不关心）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈdɪfrənt/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ in-(不) + [[dis-di|di]](二/分开) + [[fer|fer]](带来/承受) + -ent(形容�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不偏向任何一方**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不偏向任何一方**（选择层面）
@@ -67,7 +65,7 @@ in-(不) + [[dis-di|di]](二/分开) + [[fer|fer]](带来/承受) + -ent(形容�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ in-(不) + [[dis-di|di]](二/分开) + [[fer|fer]](带来/承受) + -ent(形容�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ di（二）+ fer（带来）→ 不在"两"者之间"带"有任何偏向 → 漠不关心。
@@ -89,7 +87,7 @@ in-(不) + [[dis-di|di]](二/分开) + [[fer|fer]](带来/承受) + -ent(形容�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ in-(不) + [[dis-di|di]](二/分开) + [[fer|fer]](带来/承受) + -ent(形容�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[enthusiastic]]：热心的 ↔ indifferent 漠不关心的
 > - [[concerned]]：关心的 ↔ indifferent 不关心的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ in-(不) + [[dis-di|di]](二/分开) + [[fer|fer]](带来/承受) + -ent(形容�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be indifferent to** sb./sth.：对…漠不关心
 > - **remain indifferent**：保持冷漠
 > - **indifferent about**：对…无所谓
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many young people seem indifferent to politics and social issues."（许多年轻人似乎对政治和社会问题漠不关心。）——考研高频表达
 > - "She was completely indifferent to the criticism directed at her work."（她对针对她作品的批评完全无动于衷。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

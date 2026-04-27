@@ -3,14 +3,12 @@ title: "mortal"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 终有一死的（凡人的命运——会死亡的）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈmɔːrtl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**终有一死的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **终有一死的**（生命层面）
@@ -67,7 +65,7 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mortal 来自拉丁语 mors"死亡"。所有凡人都是 mortal（终有一死的）——区别于 immortal（不朽的）神灵。mortal wound（致命伤）就是让你走向 mort（死亡）的伤口。mortal enemy（死敌）就是你们之间只有一个人能活下来。mortal 就是那个"死"字——从凡人的宿命到致命的武器。
@@ -90,7 +88,7 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[immortal]]：不朽的，永生的（mortal 的精确反义：终有一死↔永生不死）
 > - [[divine]]：神圣的（mortal"凡人"的反义：凡人↔神）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mortal wound/injury**：致命伤
 > - **mortal enemy/combat**：死敌/生死搏斗
 > - **mortal fear/terror**：极度的恐惧
@@ -132,20 +130,16 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All men are mortal."（人皆有一死——经典哲学命题）
 > - "The soldier sustained a mortal wound in battle."（这名士兵在战斗中受了致命伤）
 > - "Even the greatest leaders are mere mortals with their own flaws."（即使是最伟大的领袖也只是有缺点的凡人）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

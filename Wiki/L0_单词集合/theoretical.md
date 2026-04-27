@@ -3,17 +3,14 @@ title: "theoretical"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 属于理论的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌθɪəˈretɪkl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: theory
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**属于理论的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **属于理论的**（学术层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > theoretical = theory（理论）+ -etic + -al（属于……的）→ 属于理论的。想象一个物理学家在黑板前写满了公式——这些公式是 **theoretical**（理论上的），还需要实验验证。记住 theoretical = theory 的形容词形式 = 属于理论的。
@@ -91,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[practical]]：实际的，实用的（理论上的↔实际的）
 > - [[empirical]]：经验主义的，以经验为依据的（理论的↔经验的）
 > - [[applied]]：应用的（纯理论的↔应用的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **theoretical framework / model / basis**：理论框架/模型/基础
 > - **theoretical knowledge**：理论知识
 > - **theoretical vs. practical**：理论上的 vs. 实际的
@@ -137,7 +134,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The research lacks a solid theoretical framework."（这项研究缺乏坚实的理论框架）——学术/写作高频表达
 > - "It is theoretically possible, but practically very difficult."（这在理论上是可能的，但在实践中非常困难）——常见对比表达
 > - "Theoretical knowledge alone is not sufficient; practical experience is equally important."（仅凭理论知识是不够的；实践经验同样重要）——教育话题
@@ -145,15 +142,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

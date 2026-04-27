@@ -3,17 +3,14 @@ title: "total"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 整体的、全部的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈtəʊtl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: total
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -47,7 +44,7 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**整体的、全部的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **整体的、全部的**（抽象层面：涵盖所有部分）
@@ -69,7 +66,7 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +78,7 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > total 源自拉丁语 totus（整体的、全部的）→ 所有的、总数。
@@ -93,7 +90,7 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[partial]]：部分的、不完全的
 > - [[zero]]：零（总数的对立面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in total**：总共
   - There were 50 participants in total.（总共有50名参与者。）
 > - **total number**：总数
@@ -130,22 +127,16 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The total cost of the project exceeded the initial budget by a significant margin."（该项目的总成本大幅超出了最初的预算。）——考研高频表达
 > - "A total of 500 students participated in the survey conducted by the research team."（共有500名学生参加了研究团队进行的调查。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

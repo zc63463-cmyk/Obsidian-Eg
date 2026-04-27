@@ -3,14 +3,12 @@ title: "intend"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 向内伸展（把心思伸展向某个目标）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈtend/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向内伸展（心思指向某处）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **向内伸展**（心理层面）
@@ -66,7 +64,7 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（向内）+ tend（伸展）→ 向内伸展。想象你的心思像一根线，从内心向某个目标伸展过去——你 intend（打算）做这件事。[[extend]] 是向外伸展（扩展范围），[[intend]] 是向内伸展（聚焦目标）。一本书 be intended for beginners（专为初学者设计）——作者的心思伸展向了初学者这个群体。
@@ -88,7 +86,7 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[accidental]]：意外的（intend 的反义：有意的 vs 意外的）
 > - [[unintentional]]：无意的（intend 的反义：故意的 vs 无意的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **intend to do sth.**：打算做某事
 > - **be intended for**：专为…而设计/准备
 > - **intend doing sth.**：打算做某事
@@ -129,23 +127,15 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The course is intended for intermediate-level students."（这门课程是为中级水平的学生设计的。——剑桥词典例句）
 > - "It wasn't my intention to exclude her from the list — I just forgot her."（我并不是故意把她排除在名单之外——我只是忘了她。——剑桥词典例句）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

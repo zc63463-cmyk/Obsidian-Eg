@@ -3,17 +3,14 @@ title: "medieval"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 中间的时代的（中世纪的）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌmediˈiːvl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: med
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**中间的时代的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **中间的时代的**（时间层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > med（中间）+ ev（时代）→ 中间的时代 → 中世纪。古希腊罗马是"古代"，文艺复兴之后是"现代"，中间那约一千年就是 medieval（中世纪）。说一个人的观念 medieval，就是说他"还活在中世纪"——太老式了。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[modern]]：现代的（medieval 的反义：中世纪↔现代）
 > - [[contemporary]]：当代的（medieval 的反义：古代↔当代）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **medieval period/times**：中世纪时期
 > - **medieval Europe**：中世纪欧洲
 > - **medieval architecture**：中世纪建筑
@@ -134,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "With the Church's teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories."（随着教会的教义和思维方式被文艺复兴所掩盖，中世纪与现代之间的鸿沟已被弥合，从而开辟了新的、未被探索的知识领域。——2020年英语一翻译）
 > - "Nothing divided the medieval world in Europe more decisively from the Early Modern period than printing with movable type."（没有什么比活字印刷更能够将中世纪的欧洲和近代早期划分开来。——托福/考研常见学术话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

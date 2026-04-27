@@ -3,14 +3,12 @@ title: "facility"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 容易（做事不费力的品质）
-extension_dim: 功能载体
+extension_dim: [功能载体]
 phonetic: "/fəˈsɪləti/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**容易（做事不费力的品质）**"为统筹中心，沿功能载体维度向外扩展：
 >
 > 1. **容易**（品质层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > facility 来自拉丁语 facilitas（容易），词根 [[fac]]（做）。facilis = fac（做）+ -ilis（可以……的）= "容易做的"。facility 的核心就是"容易"——做事容易是 facility，让事情容易的工具是 facility（设施），天生容易做某事也是 facility（天赋）。考研重点记住"设施"义项：sports facility（体育设施）、research facility（研究设施）。与 faculty（能力/院系）同源，区别在于 facility 侧重"设施/容易"，faculty 侧重"能力/院系"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[difficulty]]：困难（facility 容易的反义：容易↔困难）
 > - [[inconvenience]]：不便（facility 便利的反义：便利↔不便）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sports facility**：体育设施
 > - **research facility**：研究设施
 > - **medical facility**：医疗设施
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The university has invested heavily in new research facilities."（大学在新研究设施上投入了大量资金——考研英语阅读教育类话题）
 > - "She has a remarkable facility for learning foreign languages."（她有学习外语的非凡天赋——考研翻译相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

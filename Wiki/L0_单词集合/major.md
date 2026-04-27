@@ -3,17 +3,14 @@ title: "major"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 较大的→主要的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmeɪdʒə(r)/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: maj
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -47,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**较大的→主要的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **较大的→主要的**（重要性层面）
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > major = maj（大，magn 的变体）+ -or（比较级）→ 较大的→主要的。想象你在大学里选了一个**最重要的**学习方向——那就是你的 **major**（专业）。同样，一个问题比其他问题都**更大更严重**——那就是 **major** problem（主要问题）。记住 maj = 大，major = 较大的 = 主要的。
@@ -100,7 +97,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -114,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[minor]]：较小的，次要的（major 的精确反义：较大↔较小，主要↔次要）
 > - [[secondary]]：次要的（主要↔次要）
 > - [[trivial]]：琐碎的（重大的↔琐碎的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -136,7 +133,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **major problem / issue / challenge**：主要问题/议题/挑战
 > - **major change / improvement**：重大变化/改进
 > - **major in (a subject)**：主修（某科目）
@@ -146,7 +143,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Climate change is one of the major challenges facing humanity."（气候变化是人类面临的主要挑战之一）——高频话题
 > - "She majored in economics at university."（她在大学主修经济学）——教育语境
 > - "Technology has played a major role in transforming education."（技术在教育变革中发挥了主要作用）——科技/教育语境
@@ -154,15 +151,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

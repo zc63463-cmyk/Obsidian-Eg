@@ -3,14 +3,12 @@ title: "analysis"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 分析（把整体分解为部分以理解的结果）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈnæləsɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分析结果**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **分析结果**（思维层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > analyse 的名词形式就是 analysis。你 analyse（分析）了数据，得出的结论就是 analysis（分析报告）。The book is an analysis of poverty and its causes（这本书是对贫困及其原因的分析）。In the final analysis（归根结底），analysis 就是"分析的结果"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[synthesis]]：综合，合成（analysis "分析"的精确反义：分析↔综合）
 > - [[summary]]：总结（analysis "详细分析"的反义：详细↔概括）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **data analysis**：数据分析
 > - **in the final analysis**：归根结底
 > - **under analysis**：在分析中
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Instead of a plan of action, they continue to press for more research — a classic case of 'paralysis by analysis'."（他们没有行动计划，而是继续敦促更多的研究——这是典型的"分析瘫痪"案例。——2002年考研阅读Text 3）
 > - "The book is an analysis of poverty and its causes."（这本书是对贫困及其原因的分析。——考研翻译类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

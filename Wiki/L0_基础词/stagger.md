@@ -3,14 +3,12 @@ title: "stagger"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 摇摇晃晃地走（像被推了一下失去平衡）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈstæɡə(r)/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**摇摇晃晃地走**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **身体摇晃**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stagger 的核心画面是"一个醉汉摇摇晃晃地走路"。古诺尔斯语 *stakra* = 推、撞 = 使人摇晃。The injured woman staggered to her feet（受伤的女人摇摇晃晃地站起来）。Stagger working hours（错开工作时间）= 让人们不在同一时间上班。The staggering cost of healthcare（令人震惊的医疗费用）= 让人心理"摇晃"的费用。同源词：stack（堆叠）、stake（桩）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[steady]]：平稳的（stagger 的精确反义：摇晃↔平稳）
 > - [[synchronize]]：同步（stagger 的反义：交错↔同步）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stagger home**：踉跄着回家
 > - **stagger to one's feet**：摇摇晃晃地站起来
 > - **stagger working hours**：错开工作时间
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The staggering cost of healthcare in the United States has become a major concern for policymakers and citizens alike."（美国令人震惊的医疗费用已成为政策制定者和公民共同关注的主要问题——考研阅读社会话题相关表达）
 > - "The company decided to stagger employee vacations to ensure that operations would continue smoothly during the summer months."（公司决定错开员工休假时间，以确保夏季运营顺利进行——考研阅读管理话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

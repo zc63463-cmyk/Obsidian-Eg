@@ -3,17 +3,14 @@ title: "petition"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 寻求、请求
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/pəˈtɪʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: pet
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**寻求、请求**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **寻求、请求**（社会层面——向下位者向上位者寻求）
@@ -65,7 +62,7 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pet（寻求，如 appetite 食欲 = ap + pet + ite = 追求食物）+ ition → 正式地"寻求" → 请愿。petition 就是一群人联合起来"寻求"改变。
@@ -88,7 +85,7 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[command]]：命令（请愿 vs 命令——下对上 vs 上对下）
 > - [[order]]：命令，指示
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sign a petition**：签署请愿书 Thousands of citizens signed a petition to protest against the new law.（数千名公民签署了一份请愿书，抗议新法律。）
   > Thousands of people signed a petition against the new law. 数千人签署了反对新法律的请愿书。
 > - **petition the government/parliament**：向政府/议会请愿 The residents petitioned the government to build a new hospital in their area.（居民们向政府请愿，要求在他们所在地区建造一家新医院。）
@@ -126,21 +123,15 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The residents signed a petition to protest against the construction of a new highway."（居民们签署了一份请愿书，抗议修建新高速公路。）——考研高频表达
 > - "A petition was filed with the court to review the case."（已向法院提交了一份请愿书，要求重新审理此案。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

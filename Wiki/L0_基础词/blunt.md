@@ -3,14 +3,12 @@ title: "blunt"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 钝的，不锋利的
-extension_dim: 直率坦白
+extension_dim: [直率坦白]
 phonetic: "/blʌnt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ blunt(钝的/直率的，古英语 *blunt*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**钝的/不锋利的**"为统筹中心，沿直率坦白向外扩展：
 >
 > 1. **钝的**（物理层面）
@@ -69,7 +67,7 @@ blunt(钝的/直率的，古英语 *blunt*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ blunt(钝的/直率的，古英语 *blunt*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blunt 的核心是"钝"。一把钝刀（blunt knife）切不动东西——它不锋利。从"不锋利"引申为"说话不绕弯子"——to be blunt = 坦白说。blunt criticism = 直率的批评（虽然直接但不一定尖刻）。blunt instrument = 钝器（法医鉴定常用词）。blunt the pain = 减轻疼痛（让疼痛变"钝"）。blunt 和 [[sharp]]（锋利的）正好相反：sharp knife = 锋利的刀，blunt knife = 钝刀；sharp tongue = 尖刻的嘴，blunt manner = 直率的态度。
@@ -92,7 +90,7 @@ blunt(钝的/直率的，古英语 *blunt*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ blunt(钝的/直率的，古英语 *blunt*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sharp]]：锋利的；尖锐的（blunt 的精确反义：钝↔锋利）
 > - [[keen]]：锋利的；敏锐的（blunt 的反义：钝↔锋利，迟钝↔敏锐）
 > - [[subtle]]：微妙的；委婉的（blunt 直率的反义：直率↔委婉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ blunt(钝的/直率的，古英语 *blunt*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **to be blunt**：坦白说（插入语）
 > - **blunt instrument**：钝器
 > - **blunt criticism**：直率的批评
@@ -133,19 +131,15 @@ blunt(钝的/直率的，古英语 *blunt*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "To be blunt, the company's financial performance has been disappointing over the past two quarters."（坦白说，公司过去两个季度的财务表现令人失望。——考研英语阅读商业类话题，to be blunt 高频表达）
 > - "The blunt criticism from the review panel forced the researchers to reconsider their methodology."（评审组的直率批评迫使研究人员重新考虑他们的方法论。——考研英语阅读学术类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

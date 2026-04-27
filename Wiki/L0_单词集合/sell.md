@@ -3,14 +3,12 @@ title: "sell"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 给予以换取金钱
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/sel/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**给予以换取金钱**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **给予以换取金钱**（交易层面：基本的买卖行为）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 集市上，农夫把蔬菜交给顾客，顾客递来金币——这就是 sell 最原始的画面：交出换钱。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[buy]]：买——sell 的直接反义词
 > - [[purchase]]：购买——正式用语
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,29 +116,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sell out**：The concert tickets sold out within minutes.（演唱会门票在几分钟内售罄。）
 > - **sell sth. to sb.**：The company sells its products to customers worldwide.（该公司向全球客户销售产品。）
 > - **hard sell**：Consumers are increasingly resistant to hard-sell tactics.（消费者对强买强卖的策略越来越反感。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Companies that fail to adapt to changing consumer preferences may struggle to sell their products."（无法适应消费者偏好变化的公司可能难以销售其产品。）——考研高频表达
 > - "The idea of selling personal data to third parties has raised serious privacy concerns."（将个人数据出售给第三方的想法引发了严重的隐私担忧。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

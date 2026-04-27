@@ -3,14 +3,12 @@ title: "bleed"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 流血（血液从伤口流出）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/bliːd/"
 pos: vi.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**流血**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **流血**（身体层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bleed 就是 blood（血）的动词形式。你受伤了，blood 从伤口 bleed 出来。有人不断向你要钱，就像在 bleed you（榨取你）——bleed someone dry 就是"把某人榨干"，钱像血一样被抽走。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[heal]]：治愈（bleed 流血 vs heal 治愈，形成"受伤↔治愈"的对比）
 > - [[nourish]]：滋养（bleed 榨取 vs nourish 滋养，形成"抽走↔给予"的对比）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bleed to death**：流血致死
 > - **bleed someone dry**：把某人榨干
 > - **make someone bleed**：让某人流血
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company was bled dry by excessive taxation."（公司被过度的税收榨干了——考研阅读常见表达）
 > - "My heart bleeds for the victims of the disaster."（我为灾难受害者感到心痛——考研翻译常见话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

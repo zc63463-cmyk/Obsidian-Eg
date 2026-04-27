@@ -3,14 +3,12 @@ title: "infrastructure"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 基础设施（在下面的支撑结构）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɪnfrəstrʌktʃə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在下面的支撑结构**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在下面的结构**（建筑层面）
@@ -64,7 +62,7 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > infra（在下面）+ structure（结构）→ infrastructure。想象一栋大楼，你看到的是上面的楼层，但真正支撑整栋楼的是下面的地基——infrastructure。一个国家也是一样，道路、铁路、电力、通信就是国家的"地基"。infrastructure 就是"下面的结构"→基础设施。
@@ -86,7 +84,7 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[superstructure]]：上层建筑（infrastructure "基础设施"的反义：下层↔上层）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **transport infrastructure**：交通基础设施
 > - **rebuild infrastructure**：重建基础设施
 > - **information infrastructure**：信息基础设施
@@ -128,19 +126,15 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When the government talks about infrastructure contributing to the economy, the focus is usually on roads, railways, broadband and energy."（当政府谈到基础设施对经济的贡献时，通常关注的是公路、铁路、宽带和能源。——2014年考研英语二Text 4）
 > - "Years of civil war have wrecked the country's infrastructure and destroyed its social fabric."（经年内战已破坏了国家的基础设施，摧毁了其社会结构。——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

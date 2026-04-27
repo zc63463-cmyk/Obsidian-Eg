@@ -3,14 +3,12 @@ title: "owe"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 欠（应该归还的债务或恩情）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/oʊ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**欠（应该归还的）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **欠**（经济层面——应该归还的钱）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > owe 和 own（拥有）是"亲戚"——你 owe 别人钱，别人 own 那笔钱。owe 的三种核心用法：① owe money（欠钱）；② owe one's success to sb.（把成功归功于某人——你"欠"他一份功劳）；③ owe sb. an apology（欠某人一个道歉）。owe 的本质是"应该归还"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[own]]：拥有（owe 的反义：欠↔拥有，且同源）
 > - [[repay]]：偿还（owe 的反义：欠↔偿还）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **owe money to sb.**：欠某人钱
 > - **owe one's success to**：把成功归功于
 > - **owe sb. an apology/explanation**：欠某人一个道歉/解释
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We owe the discovery of penicillin to Alexander Fleming's accidental observation."（我们把青霉素的发现归功于亚历山大·弗莱明的偶然观察——考研高频表达）
 > - "She owes the bank a considerable sum of money."（她欠银行一大笔钱）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

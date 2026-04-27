@@ -3,14 +3,12 @@ title: "conclude"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 关到一起，关闭
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/kənˈkluːd/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**关到一起，关闭**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **关到一起**（物理层面——关闭）
@@ -71,7 +69,7 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（一起）+ clude（关闭）：侦探把所有线索**关到一起**，猛地**关上**推理之门——案子"结束"了，他"得出结论"：凶手就是管家。
@@ -96,7 +94,7 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[begin]]：开始（结束↔开始）
 > - [[commence]]：开始（正式用语）
 > - [[open]]：打开，开放（关闭↔打开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +130,7 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conclude that...**：得出结论…
 > - **conclude a meeting/speech**：结束会议/演讲
 > - **conclude a treaty/agreement**：缔结条约/协议
@@ -140,22 +138,16 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers concluded that the drug was effective in treating the disease."（研究人员得出结论：该药物对治疗这种疾病有效。）——考研高频表达
 > - "To conclude, education plays a vital role in the sustainable development of any society."（总之，教育在任何社会的可持续发展中都起着至关重要的作用。）——考研高频表达
 > - "Having examined all the evidence, the jury concluded that the defendant was not guilty."（审查了所有证据后，陪审团得出结论：被告无罪。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

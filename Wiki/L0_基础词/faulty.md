@@ -3,17 +3,14 @@ title: "faulty"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 充满错误的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfɔːlti/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: fault
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充满错误的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **充满错误的**（事物层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > faulty 就是 fault（过错/缺陷）+ y（充满…的）。一台 faulty 的洗衣机——faulty wiring caused the fire（线路故障引发了火灾）。一段 faulty 的推理——Their interpretation was faulty（他们的解释是错误的）。faulty 既可以形容"物"有毛病，也可以形容"思维"有毛病。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sound]]：健全的，合理的（faulty reasoning ↔ sound reasoning）
 > - [[perfect]]：完美的（faulty ↔ perfect）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,25 +123,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **faulty goods/products**：有缺陷的商品——You can return faulty goods for a full refund.
 > - **faulty reasoning/logic**：不严密的推理——His argument was based on faulty logic.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The conduct of monetary policy has been compared to driving a car with a blackened windscreen, a faulty steering wheel and a faulty speedometer."（货币政策的执行被比作驾驶一辆挡风玻璃被涂黑、方向盘和速度计都有故障的汽车——1997年考研英语阅读，faulty 修饰具体设备缺陷）
 > - "Their interpretation was faulty—they had misinterpreted things."（他们的解释是错误的——他们曲解了事物——六级阅读，faulty 修饰抽象判断）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

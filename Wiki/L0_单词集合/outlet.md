@@ -3,14 +3,12 @@ title: "outlet"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 出口，发泄途径
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈaʊtlet/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ out(向外) + let(让/允许) → "让…向外流出"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**出口**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **出口**（物理层面：流体或物体的流出通道）
@@ -64,7 +62,7 @@ out(向外) + let(让/允许) → "让…向外流出"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ out(向外) + let(让/允许) → "让…向外流出"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想像一个高压锅在沸腾，蒸汽从顶部的小孔嘶嘶地喷出——这个小孔就是 **outlet**（出口），没有它，锅就会爆炸。人的情绪也一样，需要一个 outlet。
@@ -86,7 +84,7 @@ out(向外) + let(让/允许) → "让…向外流出"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ out(向外) + let(让/允许) → "让…向外流出"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inlet]]：入口——与出口相对
 > - [[entrance]]：入口——进入的通道
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ out(向外) + let(让/允许) → "让…向外流出"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **emotional outlet**：Exercise can serve as a healthy emotional outlet for stress.
 > - **outlet mall**：Many consumers prefer shopping at outlet malls for discounted brand-name goods.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Young people need a creative outlet for their energy and emotions."（年轻人需要一个发挥精力和情感的创造性途径。）——考研高频表达
 > - "The internet has become an important outlet for public opinion."（互联网已成为公众舆论的重要渠道。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

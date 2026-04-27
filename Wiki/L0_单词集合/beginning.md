@@ -3,14 +3,12 @@ title: "beginning"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 打开的起点
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/bɪˈɡɪnɪŋ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打开的起点**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **打开的起点**（时间层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > begin 是"打开"，beginning 就是"打开的**起点**"。想象一本书的第一页，上面写着 "The Beginning"——这是故事的起点。从宇宙的 beginning（起源），到一段感情的 beginning（开端），到职业生涯的 beginning（初期）——都是"打开"之后的第一个点。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[end]]：结束，终点——beginning 的精确反义：起点 vs 终点
 > - [[conclusion]]：结论，结局——过程层面的反义：开端 vs 结局
 > - [[finish]]：完成，结尾——阶段层面的反义：初期 vs 末期
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at the beginning of**：在……的开始
 > - **from the beginning**：从一开始
 > - **in the beginning**：起初，最初
@@ -132,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "from the very beginning"（从一开始）——考研阅读常见搭配，强调从头开始
 > - "at the beginning of the 21st century"（在21世纪初）——历史/社会类阅读常见时间表达
 > - "a new beginning"（新的开始）——文学/议论文中常见表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

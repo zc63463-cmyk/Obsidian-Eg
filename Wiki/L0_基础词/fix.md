@@ -3,14 +3,12 @@ title: "fix"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 钉住、固定不动
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/fɪks/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**钉住、固定不动**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **固定不动**（动作层面）
@@ -71,7 +69,7 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fix 来自拉丁语 *fixus*（固定的），*figere* = 钉住、固定。核心画面是"木匠用钉子把木板钉在墙上"。从"固定"出发：fix a car（修理——把车"固定"回原样）、fix a date（确定日期——把日期"固定"下来）、fix one's eyes on（目光锁定——把视线"固定"在目标上）、in a fix（困境——被"固定"住动弹不得）。fix 的所有义项都围绕"固定"这一核心。
@@ -94,7 +92,7 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[break]]：打破（fix 的反义：修理↔打破）
 > - [[ruin]]：毁坏（fix 的反义：修复↔毁坏）
 > - [[loosen]]：松开（fix 的反义：固定↔松开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fix a problem / a mistake**：解决问题/纠正错误
 > - **fix a date / time**：确定日期/时间
 > - **fix one's eyes on**：目光锁定，专注地看
@@ -140,19 +138,15 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government needs to fix the structural problems in the economy before implementing any new tax policies."（政府在实施任何新税收政策之前，需要解决经济中的结构性问题——考研阅读经济话题相关表达）
 > - "She fixed her gaze on the horizon, trying to spot the first sign of the approaching storm."（她凝视着地平线，试图发现即将来临的风暴的第一个迹象——考研翻译叙事话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

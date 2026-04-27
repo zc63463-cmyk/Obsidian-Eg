@@ -3,14 +3,12 @@ title: "spite"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 恶意对待，出于怨恨的行为
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/spaɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**恶意，出于怨恨的行为**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **蔑视/恶意**（情感层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spite 的核心画面是"一个人居高临下地蔑视别人"。拉丁语 *despicere* = 向下看 = 蔑视。spite 失去了 de- 前缀，保留了"恶意"的含义。in spite of = 尽管 = "我不在乎（蔑视）这些困难"。She did it out of spite（她出于恶意做了这件事）。cut off one's nose to spite one's face（割掉鼻子来泄愤——因小失大）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[goodwill]]：善意（spite 的精确反义：恶意↔善意）
 > - [[kindness]]：善意，善良（spite 的反义：恶意↔善良）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in spite of**：尽管，虽然
 > - **out of spite**：出于恶意/怨恨
 > - **an act of spite**：恶意行为
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In spite of the numerous challenges posed by globalization, many developing nations have managed to achieve remarkable economic growth through strategic policy reforms."（尽管全球化带来了诸多挑战，许多发展中国家通过战略性政策改革仍实现了显著的经济增长——考研阅读经济话题相关表达）
 > - "She refused to help him out of spite, even though she was fully capable of doing so, demonstrating how personal resentment can override rational judgment."（她出于恶意拒绝帮助他，尽管她完全有能力这样做，这表明个人怨恨如何能压倒理性判断——考研阅读心理话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

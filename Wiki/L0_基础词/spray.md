@@ -3,14 +3,12 @@ title: "spray"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 水花飞溅（液体以细小颗粒状散开）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/spreɪ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**水花飞溅**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **水花飞溅**（自然层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spray 是拟声词，模拟水花飞溅的"嘶嘶"声。核心画面是"海浪拍打岩石溅起的水花"。Sea spray（海浪飞沫）= 海浪溅起的水花。Spray paint（喷漆）= 将油漆喷成雾状。Hair spray（发胶）= 喷在头发上的东西。Farmers spray crops with insecticide（农民给庄稼喷农药）= 将农药喷洒出去。同源词：sprout（发芽 = 从地里"喷"出来）、sprinkle（洒 = 小规模地"喷"）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[collect]]：收集（spray 的反义：喷散↔收集）
 > - [[pour]]：倾倒（spray 的反义：喷雾↔倾倒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sea spray**：海浪飞沫
 > - **spray paint**：喷漆
 > - **hair spray**：发胶
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The farmer sprayed the crops with pesticide to protect them from insects and disease during the growing season."（农民在生长季节给庄稼喷洒农药，以保护它们免受虫害和疾病——考研阅读农业话题相关表达）
 > - "Fine sea spray covered the coastal buildings with a thin layer of salt after the storm passed through the area."（风暴过境后，细小的海浪飞沫在沿海建筑上覆盖了一层薄盐——考研阅读自然环境话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

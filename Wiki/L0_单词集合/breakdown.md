@@ -3,14 +3,12 @@ title: "breakdown"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 彻底瓦解、崩溃
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈbreɪkdaʊn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**彻底瓦解、崩溃**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **彻底瓦解、崩溃**（物理层面——机器、结构彻底散架）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > break（打破）+ down（向下）= 彻底向下打碎 = 崩溃。想象一台运转正常的机器突然"轰"地散架——零件散落一地，这就是 breakdown。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[recovery]]：恢复（故障/崩溃后的恢复）
 > - [[assembly]]：组装（分解的反义操作）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a nervous breakdown**：精神崩溃
   - She suffered a nervous breakdown after years of overwork.（多年过度劳累后，她精神崩溃了。）
 - **breakdown of communication**：沟通破裂
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The breakdown of negotiations between the two parties led to a prolonged conflict."（两党之间谈判的破裂导致了长期的冲突。）——考研高频表达
 > - "She suffered a nervous breakdown after years of excessive workload."（经过多年过度工作后，她精神崩溃了。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

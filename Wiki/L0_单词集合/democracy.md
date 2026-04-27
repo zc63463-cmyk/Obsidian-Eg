@@ -3,17 +3,14 @@ title: "democracy"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 民主，民主制度
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/dɪˈmɒkrəsi/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: cracy
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**人民统治**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **人民统治**（政治权力层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自希腊语 *demokratia*，demos（人民）+ kratos（统治/权力），公元前5世纪在雅典诞生。古希腊的公民在广场上投票决定国家大事——这就是 democracy 的诞生场景：人民就是统治者。与 [[democracy]] 同源的词还有 [[democratic]]（民主的）和 [[demographic]]（人口的）。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +97,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dictatorship]]：独裁 vs democracy 民主
 > - [[autocracy]]：专制 vs democracy 民主
 > - [[tyranny]]：暴政 vs democracy 民主
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **parliamentary democracy**：议会民主制
 > - **representative democracy**：代议民主制
 > - **promote democracy**：促进民主
@@ -127,22 +124,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Ancient Athens is often regarded as the birthplace of **democracy**.（古雅典常被视为民主制度的发源地。）
 > - The country has been struggling to establish a stable **democracy** after years of conflict.（经过多年的冲突，该国一直在努力建立一个稳定的民主制度。）
 > - **Democracy** requires an informed and engaged citizenry.（民主需要知情且积极参与的公民。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

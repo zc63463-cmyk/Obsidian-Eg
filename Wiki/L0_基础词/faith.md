@@ -3,17 +3,14 @@ title: "faith"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 信仰（对某事物坚定不移的信任）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/feɪθ/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: fidel
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**信仰**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **信仰**（宗教层面）
@@ -64,7 +61,7 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > faith（信仰）→ 源自拉丁语 fides（信任）。罗马神话中有位女神叫 Fides（菲德斯），专门掌管信义和誓言。have faith in someone 就像对女神发誓一样——坚定不移地信任。
@@ -86,7 +83,7 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[doubt]]：怀疑（faith 的精确反义：信仰↔怀疑）
 > - [[distrust]]：不信任（faith 作为"信任"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have faith in**：对……有信心/信仰
 > - **lose faith in**：对……失去信心
 > - **keep faith with**：忠于，信守对……的承诺
@@ -134,19 +131,15 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We must rely on the honesty and good faith of others, if not, we couldn't put money in the bank, buy food, clothing, or medicine from others."（我们必须依靠他人的诚实和善意，否则我们无法把钱存入银行，无法从他人那里购买食物、衣服或药品。——考研英语阅读）
 > - "The savings and loan scandal, the stock market and junk bond swindles, have undermined the faith of many Americans in the integrity of political and economic leaders."（储蓄贷款丑闻、股市和垃圾债券骗局，已经削弱了许多美国人对政治和经济领导人正直性的信任。——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

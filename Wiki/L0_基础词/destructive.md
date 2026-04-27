@@ -3,14 +3,12 @@ title: "destructive"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 倾向于反向建造的（破坏性的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/dɪˈstrʌktɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有反向建造倾向的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **反向建造的倾向**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > destructive = de（反向）+ struct（建造）+ ive（倾向）。constructive（建设性的）是往上搭，destructive（破坏性的）是往下拆。constructive criticism（建设性批评）帮你 build up，destructive criticism（破坏性批评）把你 tear down。记住：constructive = 建设性的，destructive = 破坏性的，它们是完美的反义词对。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[constructive]]：建设性的（destructive 的精确反义：破坏性的↔建设性的）
 > - [[creative]]：创造性的（destructive 的反义：破坏性的↔创造性的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **destructive power**：破坏力
 > - **destructive behavior**：破坏性行为
 > - **destructive criticism**：破坏性批评
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The tsunami was one of the most destructive natural disasters in recorded history."（海啸是有记录以来最具破坏性的自然灾害之一）
 > - "Destructive criticism can undermine a person's self-confidence."（破坏性批评会削弱一个人的自信心）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

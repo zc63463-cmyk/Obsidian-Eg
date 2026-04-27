@@ -3,14 +3,12 @@ title: "colonial"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 殖民的、与殖民地相关的（属于农民开垦的新土地的）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/kəˈləʊniəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**耕种新土地**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **耕种新土地**（农业层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > colonial = colony（殖民地）+ ial（形容词后缀）= 殖民的。colony 源自拉丁语 *colere*（耕种）→ *colonia*（在新土地上耕种定居）→ 殖民地。核心画面：古罗马人离开罗马城，来到一片新土地，开始耕种、建立家园——这就是 *colonia*（殖民地）。后来 colonial 从"农业拓殖"变成了"政治殖民"——强国控制弱国。Many African nations gained independence after the end of colonial rule（许多非洲国家在殖民统治结束后获得了独立）。colonial architecture（殖民时期建筑）是殖民文化遗产的典型代表。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[independent]]：独立的（colonial 的精确反义：殖民的↔独立的）
 > - [[sovereign]]：主权的（colonial 的反义：殖民的↔拥有主权的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **colonial rule/era/period**：殖民统治/时代/时期
 > - **colonial architecture**：殖民时期建筑
 > - **colonial expansion**：殖民扩张
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The legacy of colonial rule continues to shape the political and economic landscapes of many developing nations."（殖民统治的遗产继续影响着许多发展中国家的政治和经济格局——考研阅读历史话题）
 > - "During the colonial period, European powers established trading posts and settlements across Africa and Asia."（在殖民时期，欧洲列强在非洲和亚洲各地建立了贸易站和定居点——考研阅读历史话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

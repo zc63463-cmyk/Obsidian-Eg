@@ -3,14 +3,12 @@ title: "bind"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 捆绑，系紧
-extension_dim: 关系约束
+extension_dim: [关系约束]
 phonetic: "/baɪnd/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ bind(捆绑/系紧，古英语 *bindan*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**捆绑，系紧**"为统筹中心，沿关系约束向外扩展：
 >
 > 1. **捆绑**（物理层面）
@@ -71,7 +69,7 @@ bind(捆绑/系紧，古英语 *bindan*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ bind(捆绑/系紧，古英语 *bindan*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bind 的核心就是"绑"。bind 的过去式是 bound——记住：被绑住的就是 bound（受约束的）。be bound by the law = 被法律"绑"住 = 受法律约束。bind two people together = 把两个人"绑"在一起 = 使他们关系紧密。bind a book = 把书页"绑"在一起 = 装订。与 [[bond]]（纽带、债券）同源——bond 就是被绑在一起的东西。band（带子、乐队）也与 bind 同源——乐队就是被音乐"绑"在一起的人。
@@ -94,7 +92,7 @@ bind(捆绑/系紧，古英语 *bindan*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,7 +105,7 @@ bind(捆绑/系紧，古英语 *bindan*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unbind]]：解开（bind 的精确反义：捆绑↔解开）
 > - [[loose]]：松开（bind 的反义：系紧↔松开）
 > - [[free]]：释放（bind 约束的反义：约束↔释放）
@@ -115,7 +113,7 @@ bind(捆绑/系紧，古英语 *bindan*)
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ bind(捆绑/系紧，古英语 *bindan*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be bound by**：受……约束（考研高频）
 > - **be bound to do sth.**：一定会做某事（考研高频）
 > - **bind together**：绑在一起；使结合
@@ -139,19 +137,15 @@ bind(捆绑/系紧，古英语 *bindan*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The parties are bound by the terms of the contract once they have signed it."（各方一旦签署合同，就受合同条款的约束。——考研英语阅读法律类话题，be bound by 高频考点）
 > - "Cultural traditions bind communities together and give them a sense of shared identity."（文化传统将社区凝聚在一起，赋予他们共同的身份认同感。——考研英语阅读文化类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

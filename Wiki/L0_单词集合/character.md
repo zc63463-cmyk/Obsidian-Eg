@@ -3,14 +3,12 @@ title: "character"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 刻下的印记
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkærəktə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**刻下的印记**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **刻下的印记**（物理层面）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > character 来自希腊语 kharaktēr（雕刻的标记）。想象古希腊人拿着尖棍子在蜡板上**刻**字，每一个刻出来的标记就是一个 character。一个人的 **character**（性格）就像刻在灵魂上的印记——独一无二。小说中的 **character**（角色）是作者**刻**画出来的。电脑上的 **character**（字符）是最原始的"刻印"。万物皆可 character，只要它有独特的标记。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[form]]：形式（character 的反义：内在本质↔外在形式）
 > - [[pretense]]：伪装（真实性格的对立面）
 > - [[hypocrisy]]：虚伪（真诚品格的对立面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **moral character**：道德品质
 > - **national character**：民族性格
 > - **in character / out of character**：符合/不符合性格
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "national character"（民族性格）——考研阅读/翻译高频搭配，描述文化差异
 > - "moral character"（道德品质）——伦理/教育类阅读常见搭配
 > - "build/develop character"（培养品格）——教育类写作常用表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

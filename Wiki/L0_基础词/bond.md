@@ -3,14 +3,12 @@ title: "bond"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 纽带、联结（将事物绑在一起的东西）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/bɒnd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**纽带、联结**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **纽带、联结**（物理层面）
@@ -69,7 +67,7 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bond 来源于 bind（绑）。绑住两个人→ the bond between mother and child（母子之间的纽带）。绑住借贷关系→ buy government bonds（购买政府债券）。绑住承诺→ enter into a solemn bond（缔结庄严的契约）。bond 就是"绑"——绑感情、绑钱、绑承诺。
@@ -92,7 +90,7 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[separation]]：分离（bond 的反义：联结↔分离）
 > - [[division]]：分裂（bond 的反义：结合↔分裂）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **emotional bond**：情感纽带
 > - **government/treasury bond**：政府/国库债券
 > - **the bond between A and B**：A和B之间的纽带
@@ -135,19 +133,15 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The threat of inflation is already evident in the bond market."（通货膨胀的威胁已经在债券市场显现。——考研阅读高频表达）
 > - "We entered into a solemn bond."（我们缔结了一项庄严的协定。——考研翻译类例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "iron"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 铁坚硬的金属（象征坚固与力量）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈaɪərn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**铁——坚硬的金属**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **铁**（物质层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > iron 就是铁。铁很硬——an iron will（钢铁意志），iron discipline（铁的纪律）。铁做的熨斗叫 iron——iron your shirt（熨你的衬衫）。Iron Curtain（铁幕）曾经把欧洲一分为二。iron 的一切含义都源于铁的"坚硬"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[feather]]：羽毛（iron 的象征反义：铁的坚硬↔羽毛的柔软）
 > - [[weakness]]：软弱（iron 的特质反义：坚强↔软弱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **iron out**：熨平；消除（分歧）
 > - **an iron will**：钢铁意志
 > - **iron discipline**：铁的纪律
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She has an iron will that enables her to overcome any obstacle."（她拥有钢铁般的意志，能够克服任何障碍）
 > - "The two sides managed to iron out their differences and reach an agreement."（双方设法消除了分歧，达成了协议——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

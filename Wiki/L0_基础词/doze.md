@@ -3,17 +3,14 @@ title: "doze"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 轻轻地、断断续续地睡觉
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/dəʊz/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**轻轻地、断断续续地睡觉**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **轻轻地、断断续续地睡觉**（生理层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > doze 可能来自斯堪的纳维亚语。想象你在无聊的讲座上，头一点一点地往下沉——眼睛半睁半闭，意识模糊——那就是 doze。doze 不是正式的 sleep，而是那种"不知不觉就睡着了，又突然醒来"的浅睡状态。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wake]]：醒来（doze 的反义：瞌睡↔醒来）
 > - [[arouse]]：唤醒（doze 的反义：假寐↔唤醒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **doze off**：打瞌睡，不知不觉睡着了
 > - **have a doze**：打个盹
 > - **doze away**：在瞌睡中度过（时间）
@@ -126,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I dozed off during the lecture because I stayed up late last night."（因为昨晚熬夜，我在讲座中打起了瞌睡）
 > - "He spent the afternoon dozing in the armchair."（他在扶手椅上打了一下午的瞌睡）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

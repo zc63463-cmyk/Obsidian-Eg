@@ -3,14 +3,12 @@ title: "legal"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 与法律相关的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈliːɡl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与法律相关的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **与法律相关的**（领域归属层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > legal 的词根是拉丁语 *lex*（法律），记住这个"族长"就能解锁整个法律词汇家族：*lex* → legal（法律的）→ [[legislation]]（立法，*lex* 的动作）→ [[legitimate]]（合法的，被 *lex* 认可的）。*lex* 可能来自 *legere*（收集）——法律就是"收集起来的规则"。想象一本厚厚的法典，里面"收集"了所有规则，翻开它，你看到的就是 legal 的一切。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[illegal]]：非法的（legal 的直接反义：合法 vs 非法）
 > - [[unlawful]]：违法的（强调违反法律实质）
 > - [[illegitimate]]：不合法的，不正当的（legal/legitimate 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **legal system/framework**：法律体系/法律框架
 > - **legal action/proceedings**：法律行动/诉讼程序
 > - **legal age**：法定年龄
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Everyone has the legal right to a fair trial."（每个人都有获得公正审判的法定权利）——法律/政治类阅读
 > - "The legal system needs reform."（法律体系需要改革）——社会/法律类阅读
 > - "Is it legal to record someone without their knowledge?"（未经他人知情同意进行录音是否合法？）——法律讨论语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

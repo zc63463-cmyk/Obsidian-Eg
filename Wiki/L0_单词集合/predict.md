@@ -3,14 +3,12 @@ title: "predict"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 在事情发生前说出
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/prɪˈdɪkt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ pre-(在前面/预先) + [[dict]](说) → 在事情发生前说出 → 预测
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在事情发生前说出**"为统筹中心，沿**时间路径**向外扩展：
 >
 > 1. **在事情发生前说出**（时间层面：预先告知）
@@ -65,7 +63,7 @@ pre-(在前面/预先) + [[dict]](说) → 在事情发生前说出 → 预测
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ pre-(在前面/预先) + [[dict]](说) → 在事情发生前说出 → 预测
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre(在前面) + dict(说) → 在事情发生**之前说出** → 预测。古代预言家就是在暴风雨前"说出"未来的人。
@@ -90,7 +88,7 @@ pre-(在前面/预先) + [[dict]](说) → 在事情发生前说出 → 预测
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ pre-(在前面/预先) + [[dict]](说) → 在事情发生前说出 → 预测
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retrospect]]：回顾，追溯（与predict的时间方向相反）
 - [[recall]]：回想，回忆
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ pre-(在前面/预先) + [[dict]](说) → 在事情发生前说出 → 预测
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **predict the outcome**：预测结果
 >   It is difficult to predict the outcome of the election.
 > - **hard to predict**：难以预测
@@ -133,20 +131,14 @@ pre-(在前面/预先) + [[dict]](说) → 在事情发生前说出 → 预测
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is difficult to predict what the long-term effects of climate change will be on coastal cities."（很难预测气候变化的长期影响对沿海城市会是什么。）——考研高频表达
 > - "Economists predict that the unemployment rate will continue to decline in the coming year."（经济学家预测失业率将在来年继续下降。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,17 +3,14 @@ title: "academy"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 柏拉图的学园
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈkædəmi/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**柏拉图的学园**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **柏拉图的学园**（教育机构层面）
@@ -70,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > academy 的故事就是一部西方教育史。公元前387年，柏拉图在雅典郊外的橄榄树林里建了第一所"大学"——Akademeia。这个名字太有名了，后来所有跟学问有关的机构都叫 academy。美国的西点军校是 military academy，英国的皇家学会是 Royal Academy，奥斯卡金像奖的颁发机构是 Academy of Motion Picture Arts and Sciences。记住：**academy = 柏拉图的学园 = 一切学问之地**。
@@ -92,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - academy 作为"学术机构"没有精确的单词级反义词，但可在语境中与以下概念对比：
 > - [[industry]]：产业界，工业界→ the academy（学术界）的社会反义（学术↔产业）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **military/police academy**：军事/警察学院
 > - **the Academy of Sciences/Arts**：科学院/艺术学院
 > - **the academy**：学术界（the academy 与 the industry 对应）
@@ -133,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the relationship between the academy and the industry"（学术界与产业界的关系）——教育、科技政策类阅读
 > - "a military academy"（军事学院）——教育类阅读
 > - "the Chinese Academy of Sciences"（中国科学院）——科技类翻译
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

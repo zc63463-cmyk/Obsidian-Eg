@@ -3,14 +3,12 @@ title: "limp"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 柔软无力地行走（跛行）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/lɪmp/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**柔软无力**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **柔软无力**（具身层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > limp 的核心感受是"无力"。腿脚无力 → 跛行（动词 limp）；握手无力 → a limp handshake；身体无力 → a limp posture。记住"无力"这个核心，动词和形容词都通了。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[firm]]：坚定的，有力的（limp adj. 的反义：无力↔有力）
 > - [[stride]]：大步走（limp v. 的反义：跛行↔大步走）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **walk with a limp**：一瘸一拐地走
 > - **a limp handshake**：无力的握手
 > - **limp along**：艰难地前行
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He limped off the field after injuring his ankle."（脚踝受伤后他一瘸一拐地走下了球场）
 > - "The company has been limping along for years, barely making a profit."（公司多年来勉强维持，几乎不盈利）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

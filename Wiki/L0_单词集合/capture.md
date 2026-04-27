@@ -3,14 +3,12 @@ title: "capture"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 抓住
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈkæptʃə(r)/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**抓住**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **抓住**（物理层面：用力量或技巧抓住）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cap（抓住）+ -ture（动作）= 抓住 → 捕获。摄影师用镜头捕获（capture vt.①）了一只奔跑的猎豹，这张照片夺取（capture vt.②）了国际摄影大赛的冠军，同时吸引（capture vt.③）了全世界观众的目光。三个义项都是"抓住"的不同层面。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[release]]：释放（capture 作为"捕获"的直接反面）
 > - [[free]]：释放/解放（capture 作为"抓住"的反面）
 > - [[lose]]：失去（capture 作为"夺取/获得"的反面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **capture the market**：占领市场
 > - **capture attention**：吸引注意力
 > - **capture one's imagination**：激发某人的想象力
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The army managed to capture the enemy's stronghold."（军队成功夺取了敌人的据点。）——军事/历史类阅读语境
 > - "The film captured the beauty of the ocean perfectly."（这部电影完美地捕捉了海洋之美。）——艺术/文学类阅读语境
 > - "The novel captured the imagination of millions."（这部小说激发了数百万人的想象力。）——文学/文化类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

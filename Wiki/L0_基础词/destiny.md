@@ -3,14 +3,12 @@ title: "destiny"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 被完全固定下来的事情（命运）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈdestɪni/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被完全固定下来的事情**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **被固定的事情**（时间层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > destiny = de（完全）+ stin（固定）+ y。你的命运就是被"完全固定"好的人生轨迹。destination（目的地）是空间的"被固定"，destiny（命运）是时间的"被固定"。你可以 choose your destination（选择目的地），但你能 control your destiny（掌控命运）吗？destiny 暗示一种超越个人意志的力量。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[chance]]：偶然，机遇（destiny 的反义：命中注定↔偶然）
 > - [[free will]]：自由意志（destiny 的反义：命运↔自由意志）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **control one's destiny**：掌控自己的命运
 > - **shape one's destiny**：塑造命运
 > - **a sense of destiny**：使命感
@@ -125,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Education is the most powerful weapon which you can use to change the world and shape your own destiny."（教育是你可以用来改变世界和塑造自己命运的最强大武器）
 > - "She believed it was her destiny to become a doctor."（她相信成为一名医生是她的命运）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

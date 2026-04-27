@@ -3,14 +3,12 @@ title: "hang"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 悬挂
-extension_dim: 状态路径
+extension_dim: [状态路径]
 phonetic: "/hæŋ/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**悬挂**"为统筹中心，沿状态路径向外扩展：
 >
 > 1. **悬挂，垂下**（物理动作）
@@ -69,7 +67,7 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hang 来自古英语 hon/hangian，核心就是"挂"。注意两个过去分词的区别：**hung** 用于一般悬挂（a picture hung on the wall），**hanged** 专指绞刑（he was hanged for murder）。hang up = 挂断电话——早期电话确实要挂回架子上。hang around = 逗留——像挂在空中不动一样。get the hang of = 摸到诀窍——掌握了"挂"的技巧。
@@ -92,7 +90,7 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drop]]：掉落（悬挂 ↔ 掉落）
 > - [[release]]：释放（悬挂 ↔ 释放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hang up**：挂断电话——Don't hang up on me!
 > - **hang around/about**：逗留，闲荡——He hung around the station all day.
 > - **get the hang of**：掌握……的诀窍——It took me a while to get the hang of this software.
@@ -131,19 +129,15 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She hung up the phone before I could explain."（我还没来得及解释，她就挂断了电话——考研阅读常见表达，hang up 为高频搭配）
 > - "It's difficult to get the hang of a new language."（掌握一门新语言的诀窍很难——get the hang of 为考研写作可用搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

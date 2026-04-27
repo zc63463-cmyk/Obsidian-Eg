@@ -3,14 +3,12 @@ title: "teenager"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 十几岁的青少年
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈtiːneɪdʒə/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**十几岁的青少年**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **十几岁的青少年**（年龄层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > teenager = teen（数字后缀 -teen）+ ager（处于某年龄的人）。记住：thir**teen**、four**teen**、fif**teen**……nine**teen**，所有这些数字都以 -teen 结尾。如果你处于这些数字的年纪，你就是 teen-ager。这个词诞生于 20 世纪，因为"青少年"第一次被社会认为是一个独立的群体。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[adult]]：成年人（teenager 是青少年，adult 是成年人）
 > - [[elderly]]：老年人（teenager 是最年轻的群体之一，elderly 是最年长的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **teenager behavior/problems**：青少年行为/问题
 > - **teenage mother/pregnancy**：少女妈妈/少女怀孕
 > - **teenager culture**：青少年文化
@@ -134,7 +132,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "teenage pregnancy rates have declined"（少女怀孕率已下降）——考研阅读中社会/健康类话题
 > - "teenager behavior is influenced by social media"（青少年行为受社交媒体影响）——社会/科技类话题
 > - "the teenage years are a critical period"（青少年时期是关键期）——教育/心理学类文本
@@ -142,15 +140,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

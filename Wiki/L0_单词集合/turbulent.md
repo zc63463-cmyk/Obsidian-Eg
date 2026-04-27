@@ -3,14 +3,12 @@ title: "turbulent"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 搅动的，混乱的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtɜːbjʊlənt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ turb-(搅动、混乱) + -ul(连接后缀) + -ent(形容词后缀，表示"…�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**搅动的，混乱的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **搅动的，混乱的**（物理层面——水流被猛烈搅动）
@@ -66,7 +64,7 @@ turb-(搅动、混乱) + -ul(连接后缀) + -ent(形容词后缀，表示"…�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ turb-(搅动、混乱) + -ul(连接后缀) + -ent(形容词后缀，表示"…�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > turb-（搅动）+ -ent（……的）= 被猛烈搅动的。想象河水被暴风雨**搅动**得**湍急**翻涌，社会局势也像这河水一样**动荡不安**。
@@ -89,7 +87,7 @@ turb-(搅动、混乱) + -ul(连接后缀) + -ent(形容词后缀，表示"…�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ turb-(搅动、混乱) + -ul(连接后缀) + -ent(形容词后缀，表示"…�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：平静的（动荡 vs 平静）
 > - [[peaceful]]：和平的，安宁的（混乱 vs 安宁）
 > - [[stable]]：稳定的（动荡 vs 稳定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,27 +119,21 @@ turb-(搅动、混乱) + -ul(连接后缀) + -ent(形容词后缀，表示"…�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **turbulent times**：动荡的时代（The country went through turbulent times in the 20th century.）
 > - **turbulent flow**：湍流（物理学专业术语）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But particularly when viewed against America's turbulent past, the nation's progress in racial equality is remarkable."（但是，特别是与美国动荡的过去相比，该国在种族平等方面的进步是显著的。）——2006考研英语一阅读
 > - "The turbulence this summer is one of those periodic episodes which force the mysterious brotherhood of central bankers out of the shadows."（今年夏天的动荡是迫使神秘的央行行长们从幕后走出来的周期性事件之一。）——考研真题阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

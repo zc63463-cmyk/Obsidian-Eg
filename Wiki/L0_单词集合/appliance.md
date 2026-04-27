@@ -3,14 +3,12 @@ title: "appliance"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 被施加于某物的工具
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈplaɪəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被施加于某物的工具**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被施加于某物的工具**（工具层面）
@@ -64,7 +62,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > apply（应用）把力量"施加"到某物上，而 appliance 就是"被施加力量的那个东西"——你把电"应用"到冰箱上，冰箱就是 appliance。想象你把各种力量"施加"到厨房里的机器上：给洗衣机通电、给烤箱加热，这些被你"应用"的家电就是 appliances。
@@ -87,7 +85,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - appliance 本身为具体名词，无直接反义词
 > - 相关概念：[[hand]]（手工 vs 器具辅助）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **household/home appliances**：家用电器（The store sells a variety of household appliances.）
 > - **kitchen appliance**：厨房器具（A microwave is a useful kitchen appliance.）
 > - **electric appliance**：电器（The factory produces electric appliances.）
@@ -128,20 +126,14 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The kitchen is equipped with modern appliances."（这间厨房里安装了各种现代化设备。）——考研高频表达
 > - "These advances were the result of the intellectual appliance of science."（这些进步是巧妙应用科学的结果。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

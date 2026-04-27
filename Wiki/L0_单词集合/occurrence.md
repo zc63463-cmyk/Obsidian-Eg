@@ -3,14 +3,12 @@ title: "occurrence"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 跑来相遇的事件
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/əˈkʌrəns/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**跑来相遇的事件**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **跑来相遇的事件**（抽象行为层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[occur]]（跑来→发生）+ -ence（名词后缀）→ occurrence。想象事件像跑步者一样**跑来**与你相遇——每一次相遇就是一个 occurrence（**事件**）。经常跑来的就是 frequent occurrence（**频繁发生**），偶尔跑来的就是 rare occurrence（**罕见事件**）。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nonexistence]]：不存在（occurrence 作为"发生"的反义：发生↔不存在）
 > - [[absence]]：缺席/缺乏（occurrence 作为"出现"的反义：出现↔缺席）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a common/everyday occurrence**：常见事件，日常事件
 > - **a rare/unusual occurrence**：罕见事件
 > - **frequent occurrence**：频繁发生
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the frequent occurrence of natural disasters"（自然灾害的频繁发生）——环境/科普类阅读
 > - "a common occurrence in modern society"（现代社会的常见现象）——社会类话题
 > - "prevent the occurrence of disease"（预防疾病的发生）——健康/医学类语料
@@ -140,15 +138,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "treaty"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 条约/协议
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈtriːti/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: tract
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**条约/协议**"为统筹中心，沿**社会路径**向外扩展：
 >
 > 1. **条约/协议**（正式层面：国家或组织间的正式书面协议）
@@ -61,7 +58,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > treaty 来自 treat（对待/协商），加 -y 变名词。两国之间"协商对待"彼此的方式，写下来就是条约（treaty）。
@@ -83,7 +80,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +93,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[breach]]：违反（条约的违反即 breach of treaty）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,7 +109,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sign a treaty**：签署条约
   - The two countries signed a peace treaty.（两国签署了和平条约。）
 > - **violate a treaty**：违反条约
@@ -122,22 +119,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The two countries signed a peace treaty after years of armed conflict."（两国在经过多年的武装冲突后签署了和平条约。）——考研高频表达
 > - "The international treaty on climate change requires all signatory nations to reduce their carbon emissions."（关于气候变化的国际条约要求所有签署国减少碳排放。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

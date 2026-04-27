@@ -3,14 +3,12 @@ title: "elevate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 向上举起（把东西抬到更高的位置）
-extension_dim: 物理-地位-品质
+extension_dim: [物理-地位-品质]
 phonetic: "/ˈelɪveɪt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向上举起**"为统筹中心，沿物理-地位-品质-情绪向外扩展：
 >
 > 1. **向上举起**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > elevate 来自拉丁语 *elevare*：e（向上）+ levare（举起）→ 向上举起。想象你把手臂举高——这就是 elevate 的原始画面。在公司里被 elevate 到更高的职位，就是被"举"上去。elevate your spirits 就是把你的精神"举"起来。[[elevator]]（电梯）就是不断"举"你上去的机器。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lower]]：降低（elevate 的精确反义：举起↔降低）
 > - [[demote]]：降级（elevate "提拔"的反义：提升↔降级）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **elevate someone to a position**：提拔某人到某职位
 > - **elevate standards/quality**：提高标准/品质
 > - **elevate one's spirits**：使某人精神振奋
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was elevated to the post of president after the previous director resigned."（前任主任辞职后，他被提拔到总裁的职位——YouDao Dictionary 例句）
 > - "Good literature can elevate the mind and enrich the soul."（优秀的文学能提升心智、丰富灵魂——常见英语学习语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

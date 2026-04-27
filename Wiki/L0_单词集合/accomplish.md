@@ -3,17 +3,14 @@ title: "accomplish"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 完成，实现
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈkʌmplɪʃ/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: ple
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ ac-(=ad-，向，加强) + com-(完全) + [[ple]](=plere，填满，完成) + -i
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**彻底完成某事**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **彻底完成某事**（基础完成层面）
@@ -65,7 +62,7 @@ ac-(=ad-，向，加强) + com-(完全) + [[ple]](=plere，填满，完成) + -i
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ ac-(=ad-，向，加强) + com-(完全) + [[ple]](=plere，填满，完成) + -i
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自拉丁语 *accomplere*，ad-（向）+ com-（完全）+ plere（填满），字面意思是"完全填满"。想象一个容器被注满水——任务被"填满"到100%，就是 accomplish。与 [[accomplish]] 同源的词还有 complete（完成）、complement（补全）。
@@ -87,7 +84,7 @@ ac-(=ad-，向，加强) + com-(完全) + [[ple]](=plere，填满，完成) + -i
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ ac-(=ad-，向，加强) + com-(完全) + [[ple]](=plere，填满，完成) + -i
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fail]]：失败 vs accomplish 完成
 > - [[abandon]]：放弃 vs accomplish 实现
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ ac-(=ad-，向，加强) + com-(完全) + [[ple]](=plere，填满，完成) + -i
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **accomplish one's goal/purpose**：实现目标/目的
 > - **accomplish a task/mission**：完成任务/使命
 > - **accomplish nothing**：一事无成
@@ -125,22 +122,16 @@ ac-(=ad-，向，加强) + com-(完全) + [[ple]](=plere，填满，完成) + -i
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - She has **accomplished** all her goals for this year.（她已经实现了今年的所有目标。）
 > - What the team has **accomplished** in such a short time is remarkable.（团队在如此短的时间内完成的工作令人瞩目。）
 > - The new government **accomplished** little during its first term.（新政府在其第一个任期内几乎没有什么建树。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

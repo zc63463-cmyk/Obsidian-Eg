@@ -3,14 +3,12 @@ title: "severe"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 严厉的、严格的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/sɪˈvɪər/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**严厉的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **严厉的**（人对人的态度层面——不宽容、严格）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个面容 severe 的法官，眉头紧锁，对每个犯人都毫不留情——他的严厉让人不寒而栗。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mild]]：温和的（态度上不严厉，程度上不剧烈）
 > - [[gentle]]：温柔的（语气、动作上的轻柔）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **severe punishment**：严厉的惩罚
 >   The judge imposed a severe punishment on the criminal.（法官对罪犯施加了严厉的惩罚。）
 > - **severe pain**：剧烈的疼痛
@@ -129,23 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The country is experiencing a severe economic crisis."（这个国家正在经历一场严重的经济危机。）——考研阅读真题
 > - "They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances."（在严重、紧急的情况下，他们仍然可以使第四修正案的保护失效。）——考研阅读真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

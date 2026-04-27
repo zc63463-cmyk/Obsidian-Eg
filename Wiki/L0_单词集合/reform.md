@@ -3,14 +3,12 @@ title: "reform"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 重新塑造形状→改革
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈfɔːm/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ re-(重新、再) + form(形状、形式)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**重新塑造形状→改革**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **改革、改良**（社会层面——重新塑造制度/体系）
@@ -67,7 +65,7 @@ re-(重新、再) + form(形状、形式)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ re-(重新、再) + form(形状、形式)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 reformare "重新塑造"，由 re-(重新) + formare(塑造) 构成。一块泥巴形状不好，重新捏一个——这就是 reform。
@@ -92,7 +90,7 @@ re-(重新、再) + form(形状、形式)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ re-(重新、再) + form(形状、形式)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[corrupt]]：腐蚀、使堕落（改革 vs 腐败，社会层面对立）
 > - [[deform]]：使变形（重新塑造 vs 使变形）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,27 +123,21 @@ re-(重新、再) + form(形状、形式)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **economic reform**：经济改革（The country is carrying out sweeping economic reforms.）
 > - **reform of**：……的改革（the reform of the legal system 法律制度改革）
 > - **reform oneself**：改过自新
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has launched a series of reforms aimed at improving the efficiency of the public sector."（政府启动了一系列旨在提高公共部门效率的改革。）——考研高频表达
 > - "Education reform has been a topic of intense debate among policymakers and educators for decades."（几十年来，教育改革一直是政策制定者和教育工作者之间激烈辩论的话题。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "inherent"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 粘附在内部的（无法剥离的属性）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈhɪərənt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**粘附在内部的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **粘附在内部的**（物理层面→抽象层面）
@@ -66,7 +64,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（在里面）+ her（粘附）→ 粘在里面的 → 固有的。暴力是"粘"在社会里的（Violence is inherent in our society），设计缺陷是"粘"在机器里的（an inherent weakness in the design）。inherent 就是剥不掉的属性。
@@ -89,7 +87,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[acquired]]：后天获得的（inherent 的反义：与生俱来↔后天习得）
 > - [[extrinsic]]：外部的，外在的（inherent 的反义：内在的↔外在的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inherent in**：……所固有的，……内在的
 > - **inherent weakness/risk/problem**：固有的弱点/风险/问题
 > - **inherent ability**：与生俱来的能力
@@ -137,19 +135,15 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types."（时尚界知道在材料装饰和理想化的身材类型方面本身就有问题。——2016年英语一Text 1）
 > - "In fact, the more new things we try — the more we step outside our comfort zone — the more inherently creative we become."（事实上，我们尝试的新事物越多——我们越走出舒适区——我们就变得越有内在创造力。——2009年英语一Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

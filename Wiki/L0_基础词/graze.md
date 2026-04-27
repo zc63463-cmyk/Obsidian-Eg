@@ -3,14 +3,12 @@ title: "graze"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 动物在草地上轻轻啃食
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɡreɪz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**动物在草地上轻轻啃食**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **动物在草地上轻轻啃食**（物理层面）
@@ -67,7 +65,7 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > graze 来自 grass（草）。牛羊 graze 就是在草地上吃草。子弹 graze 你的腿就是"像吃草一样轻轻擦过"你的腿。He was lucky, the bullet just grazed his leg（他很幸运，子弹只是擦伤了他的腿）。
@@ -90,7 +88,7 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[strike]]：击中（graze 擦过的反义：擦过↔击中）
 > - [[gash]]：深伤（graze 擦伤的反义：擦伤↔深伤）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **graze on grass**：吃草
 > - **graze one's knee/elbow**：擦伤膝盖/手肘
 > - **the bullet grazed his leg**：子弹擦伤了他的腿
@@ -135,19 +133,15 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Families graze on high-cholesterol take-aways and microwaved ready-meals."（家庭零星吃着高胆固醇的外卖和微波炉速食——考研相关语料）
 > - "He was lucky, the bullet just grazed his leg."（他很幸运，子弹只是擦伤了他的腿——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

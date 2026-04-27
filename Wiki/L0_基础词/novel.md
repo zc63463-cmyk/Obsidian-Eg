@@ -3,14 +3,12 @@ title: "novel"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 新的，新颖的
-extension_dim: 从时间到评价
+extension_dim: [从时间到评价]
 phonetic: "/ˈnɒvəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**新的，前所未见的**"为统筹中心，沿从时间到评价向外扩展：
 >
 > 1. **新的**（时间层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > novel 源自拉丁语 *novus*（新的）。想象你打开一本书，发现里面的故事从未有人写过——这就是 novel（小说）的由来。novel 最初就是指"一种新颖的文学形式"，后来才固定为"长篇小说"。作为形容词，novel 强调的不是"时间上的新"（那是 new 的工作），而是"前所未见的、有创意的新"。考研重点：novel idea（新颖的想法）、novel approach（新颖的方法）。同源词：**novelty**（新奇事物）、**novice**（新手）、**innovate**（创新，in-进入 + nov-新 + -ate 动词后缀）、**renovate**（翻新，re-再 + nov-新 + -ate）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conventional]]：常规的（novel 的精确反义：新颖的↔常规的）
 > - [[ordinary]]：普通的（novel 的反义方向：新奇的↔普通的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **novel approach**：新颖的方法（考研高频搭配）
 > - **novel idea**：新颖的想法（考研高频搭配）
 > - **novel experience**：新奇的体验
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers proposed a novel approach to solving the problem of climate change."（研究人员提出了一种解决气候变化问题的新颖方法。——考研英语阅读科技类话题，novel approach 是高频考点）
 > - "Reading novels can broaden our horizons and deepen our understanding of human nature."（阅读小说可以开阔我们的视野，加深对人性的理解。——考研英语翻译/写作常用句型，novel 的名词用法）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

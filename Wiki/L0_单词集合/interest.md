@@ -3,14 +3,12 @@ title: "interest"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 在其中存在（某物存在于你关心的事物之中→兴趣/利益）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɪntrəst/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在其中存在**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在其中存在**（空间层面）
@@ -72,7 +70,7 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inter（在其中）+ est（存在，is）→ 在其中存在。想象你走进一家书店——某本书"存在于"你关心的话题之中，你就对它产生了 interest（兴趣）。你把钱存入银行——钱"存在于"借贷关系之中，银行给你 interest（利息）。政府制定政策——政策"存在于"人民的好处之中，这就是 public interest（公共利益）。interest 就是一切"与你有关"的东西。
@@ -97,7 +95,7 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[indifference]]：冷漠，不关心（interest 的反义：兴趣↔冷漠）
 > - [[boredom]]：无聊（interest 的反义：有趣↔无聊）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in the interest(s) of**：为了……的利益
   - In the interest of safety, please do not smoke.（为了安全起见，请不要吸烟。）
 > - **have an interest in**：对……感兴趣
@@ -145,23 +143,15 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new law will protect the interests of both consumers and producers."（这项新法律将保护消费者和生产者双方的利益。——2023年考研英语一阅读）
 > - "The US$3-million Fundamental Physics Prize is indeed an interesting experiment, as Alexander Polyakov said when he accepted this year's award in March."（300万美元的基础物理学奖确实是一个有趣的实验，正如亚历山大·波利亚科夫在3月份接受今年的奖项时所说。——考研英语阅读）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

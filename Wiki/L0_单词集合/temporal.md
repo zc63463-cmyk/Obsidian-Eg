@@ -3,14 +3,12 @@ title: "temporal"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 与时间有关的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈtempərəl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与时间有关的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **与时间有关的**（时间维度层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 tempus 是"时间"，temporal 就是"属于时间的"。中世纪教会区分两种权力：精神权力是永恒的（eternal），世俗权力是受时间限制的（temporal）。所以 temporal power = 世俗权力。而太阳穴（temporal bone）之所以也叫 temporal，是因为那里的头发最早变白——时间在你脸上留下的第一道印记。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[eternal]]：永恒的（temporal 在"时间性"层面的精确反义：暂时的 ↔ 永恒的）
 > - [[spiritual]]：精神的/宗教的（temporal 在"世俗性"层面的精确反义：世俗的 ↔ 精神的）
 > - [[spatial]]：空间的（temporal 在"维度"层面的对应反义：时间的 ↔ 空间的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **temporal dimension**：时间维度
 > - **temporal sequence**：时间顺序
 > - **temporal power**：世俗权力（尤指区别于宗教权力）
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the temporal dimension of human existence"（人类存在的时间维度）——哲学/社科类阅读
 > - "temporal power vs spiritual authority"（世俗权力与精神权威）——历史/政治类阅读
 > - "the medial temporal lobe"（内侧颞叶）—— neuroscience/科普类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

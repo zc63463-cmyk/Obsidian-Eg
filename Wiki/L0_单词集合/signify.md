@@ -3,14 +3,12 @@ title: "signify"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 使成为标记
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɪɡnɪfaɪ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使成为标记**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使成为标记**（表示层面：用标记来表示意义）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sign（标记）+ -ify（使成为）= signify（使成为标记→意味着）。想象你看到乌云密布，这"意味着"要下雨了——乌云就是大自然给你的 sign，它 signify 了即将到来的雨。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - signify 作为"意味着"，无直接反义词
 > - [[conceal]]：隐藏（signify 是表示/揭示，conceal 是隐藏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **signify a change**：意味着变化
   - The new regulation signifies a fundamental change in environmental policy.（新规意味着环境政策的根本性变化。）
 > - **signify nothing**：毫无意义
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The decline in sales signifies a need for strategic adjustment."（考研英语——销售额的下降意味着需要进行战略调整。）
 > - "Dark clouds on the horizon signify an approaching storm."（CET-6——地平线上的乌云意味着暴风雨即将来临。）
 > - "The gesture of shaking hands signifies mutual respect and trust."（考研英语——握手这一手势意味着相互尊重和信任。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

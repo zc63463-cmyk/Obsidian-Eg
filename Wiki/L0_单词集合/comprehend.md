@@ -3,14 +3,12 @@ title: "comprehend"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: [comprehended, comprehending]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 理解，领悟
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌkɒmprɪˈhend/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ com-(完全，共同) + [[prehend/prehens]](抓住，握住) → "完全抓住"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**理解，领悟**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **理解，领悟**（认知层面：在头脑中把握含义）
@@ -66,7 +64,7 @@ com-(完全，共同) + [[prehend/prehens]](抓住，握住) → "完全抓住"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ com-(完全，共同) + [[prehend/prehens]](抓住，握住) → "完全抓住"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 读书时，把作者的意思完全（com-）抓住（hend）了——这就是comprehend（理解）。就像用手把球牢牢握住，不让任何含义溜走。
@@ -90,7 +88,7 @@ com-(完全，共同) + [[prehend/prehens]](抓住，握住) → "完全抓住"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ com-(完全，共同) + [[prehend/prehens]](抓住，握住) → "完全抓住"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[misunderstand]]：comprehend是理解，misunderstand是误解
 > - [[exclude]]：comprehend是包含，exclude是排除
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,27 +118,21 @@ com-(完全，共同) + [[prehend/prehens]](抓住，握住) → "完全抓住"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **comprehend the meaning**：理解含义（I cannot comprehend why she made such a decision.）
 > - **fail to comprehend**：未能理解（Many people fail to comprehend the complexity of the issue.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is difficult to comprehend the full extent of the damage caused by the earthquake."（很难理解地震造成的损害的全部程度。）——考研高频表达
 > - "She could not comprehend why anyone would want to hurt her."（她无法理解为什么有人想伤害她。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

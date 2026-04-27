@@ -3,14 +3,12 @@ title: "abnormal"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 偏离规则/标准
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/æbˈnɔːrml/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**偏离规则/标准**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **偏离规则/标准**（一般状态层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > abnormal 中的 norma 是木匠的"直尺"。想象木匠用直尺画了一条笔直的线，但有一条线歪歪扭扭地偏离了直尺——这条线就是 abnormal（不正常的）。从木匠的工坊到医学实验室，偏离标准就是 abnormal。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[normal]]：正常的（abnormal 的精确反义：偏离标准↔符合标准）
 > - [[regular]]：规则的，正常的（强调符合规律）
 > - [[standard]]：标准的（强调符合既定标准）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **abnormal behavior**：反常行为
 > - **abnormal weather/conditions**：异常天气/状况
 > - **abnormal psychology**：变态心理学
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "abnormal behavior patterns"（反常的行为模式）——心理学/社会学类阅读中常见
 > - "abnormal weather conditions"（异常天气状况）——环境/科普类阅读中常见
 > - "abnormal cells may develop into cancer"（异常细胞可能发展为癌症）——医学/科普类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

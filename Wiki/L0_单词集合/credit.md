@@ -3,14 +3,12 @@ title: "credit"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 信任给予（将信任给予某人/某机构）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkredɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**信任给予**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **信任给予**（社会信任层面）
@@ -69,7 +67,7 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cre（信任）+ -dit（给予）→ 给予信任。银行给你 credit card，就是"给予你信任"让你先消费后还款。你完成了一项发现，社会 give you credit，就是"给予你认可"。大学给你 credit，就是"给予你信任凭证"证明你学过了。credit 的核心就是"给予信任"——你被信任到什么程度，就有多少 credit。
@@ -92,7 +90,7 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[discredit]]：使不信，败坏名声（credit 的精确反义：信任↔不信）
 > - [[debit]]：借方（credit 的会计反义：贷方↔借方）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **credit card**：信用卡
 > - **give sb credit for**：因……而归功于某人
 > - **on credit**：赊购
@@ -134,23 +132,15 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Once a discovery claim becomes public, the discoverer receives intellectual credit."（一旦一项发现公之于众，发现者便会收获智力上的赞扬。——2012年考研英语阅读Test3）
 > - "They are of the autonomous man of traditional theory, in a custom that gives him credit for his achievements."（它们是传统理论定义的自主行为人所拥有的，在一个人因成就受到肯定的习俗中，它们是至关重要的。——考研英语长难句）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

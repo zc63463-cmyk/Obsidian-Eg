@@ -3,14 +3,12 @@ title: "heart"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 心脏
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/hɑːt/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**心脏**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **心脏**（身体层面）
@@ -68,7 +66,7 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > heart 是最基础的英语单词之一。身体上的 heart 是心脏，感情上的 heart 是内心，事物上的 heart 是核心。learn by heart——用心记（背诵）。lose heart——灰心丧气（失去心的力量）。take heart——振作起来。heart 是英语中搭配最丰富的词之一。
@@ -90,7 +88,7 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mind]]：头脑，理智（heart 的精确反义：心↔脑，感情↔理智）
 > - [[surface]]：表面（核心的反义：核心↔表面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lose heart**：灰心丧气
 > - **take heart**：振作起来
 > - **learn by heart**：背诵，用心记
@@ -136,19 +134,15 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone."（我们的心理健康不是学来的：它是我们生来就有的，就像我们的身体知道如何愈合伤口或修复断骨一样——2016年考研英语翻译，与 heart/mental 相关）
 > - "His hard-luck story touched everyone's heart at the charity event."（他那坎坷身世在慈善晚会上触动了每个人的心——考研文学类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "physical"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 与自然界物质有关的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfɪzɪkl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ phys(自然/物质) + -ic(形容词后缀，"…的") + -al(形容词后缀，"�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与自然界物质有关的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与自然界物质有关的**（本义：属于自然/物质世界的）
@@ -71,7 +69,7 @@ phys(自然/物质) + -ic(形容词后缀，"…的") + -al(形容词后缀，"�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ phys(自然/物质) + -ic(形容词后缀，"…的") + -al(形容词后缀，"�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > physical 和 [[physician]]（医生）同源——都来自希腊语 physis（自然）。古希腊人认为医生是"了解人体自然的人"，而 physical 就是"与自然物质有关的"。记住：physical = 物质的 = 身体的 = 物理的。
@@ -94,7 +92,7 @@ phys(自然/物质) + -ic(形容词后缀，"…的") + -al(形容词后缀，"�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ phys(自然/物质) + -ic(形容词后缀，"…的") + -al(形容词后缀，"�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mental]]：精神的/心理的（physical vs mental 是考研高频对比）
 > - [[spiritual]]：精神的/灵魂的
 > - [[virtual]]：虚拟的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,28 +124,22 @@ phys(自然/物质) + -ic(形容词后缀，"…的") + -al(形容词后缀，"�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **physical exercise**：Regular physical exercise is essential for health.（规律的体育锻炼对健康至关重要。）
 > - **physical world**：We live in a physical world governed by natural laws.（我们生活在一个受自然规律支配的物质世界。）
 > - **physical examination**：All employees are required to undergo a physical examination.（所有员工都须接受体检。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "Regular physical exercise is essential for maintaining good health."（规律的体育锻炼对保持身体健康至关重要。）——考研阅读真题
 > - "The physical environment of the classroom can affect students' learning outcomes."（教室的物理环境会影响学生的学习效果。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

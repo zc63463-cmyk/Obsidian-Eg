@@ -3,14 +3,12 @@ title: "casualty"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 偶然事件→伤亡
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkæʒuəlti/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**偶然事件→伤亡**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **偶然事件的结果**（战争/事故中）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > casualty = casual（偶然的）+ ty（名词后缀）→ 偶然事件的结果 → 伤亡。想象一场突如其来的战争，无数士兵和平民成为"偶然事件"的受害者——他们就是 casualties（伤亡人员）。经济危机中失业的人也可以叫 casualties of the recession（经济衰退的受害者）。记住 casual = 偶然的，casualty = 偶然事件的受害者 = 伤亡。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[survivor]]：幸存者（伤亡↔幸存）
 > - [[beneficiary]]：受益者（受害者↔受益者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **civilian casualties**：平民伤亡
 > - **heavy casualties**：惨重伤亡
 > - **casualty figures**：伤亡数字
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The army suffered heavy casualties during the battle."（军队在战斗中遭受了惨重伤亡）——军事话题
 > - "Civilian casualties continue to rise in the conflict zone."（冲突地区的平民伤亡持续增加）——新闻话题
 > - "Small businesses are often the first casualties of an economic recession."（小企业往往是经济衰退的首批受害者）——经济话题
@@ -136,15 +134,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "magnify"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使变大
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈmæɡnɪfaɪ/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变大**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使变大**（物理/空间层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > magnify = magn（大）+ -ify（使）→ 使变大。想象你拿起一个放大镜（magnifying glass），蚂蚁瞬间变大了 10 倍——这就是 magnify（放大）。同样，有人把一个小问题说成灾难——他也在 magnify（夸大）。记住 magn = 大，-ify = 使，magnify = 使变大。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,7 +105,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[minimize]]：缩小，最小化（放大↔缩小）
 > - [[diminish]]：减少，缩小（夸大↔缩小）
 > - [[reduce]]：减少，缩小（扩大↔减少）
@@ -115,7 +113,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **magnifying glass**：放大镜
 > - **magnify sth. by X times**：将某物放大 X 倍
 > - **magnify the problem / risk / effect**：夸大问题/风险/放大效果
@@ -139,7 +137,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The microscope can magnify objects up to 1,000 times."（这台显微镜能将物体放大 1000 倍）——科学语境
 > - "The media tends to magnify the risks of new technologies."（媒体倾向于夸大新技术的风险）——媒体/科技语境
 > - "Don't magnify the problem — it's not as serious as you think."（不要夸大问题——没你想的那么严重）——日常/建议语境
@@ -147,15 +145,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

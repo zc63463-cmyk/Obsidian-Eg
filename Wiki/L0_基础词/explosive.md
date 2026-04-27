@@ -3,14 +3,12 @@ title: "explosive"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 倾向于爆炸的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪkˈspləʊsɪv/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**倾向于爆炸的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **倾向于爆炸的**（物理层面）
@@ -69,7 +67,7 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > explosive = explode（爆炸）+ ive（倾向……的）→ 倾向于爆炸的。炸药是 explosive（爆炸物），一触即发的局势是 explosive situation（爆炸性局势），急剧增长是 explosive growth（爆炸性增长）。记住：explosive = 爆炸性的 = 像炸药一样随时可能爆发。
@@ -92,7 +90,7 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stable]]：稳定的（explosive 作为"一触即发"的反义：不稳定↔稳定）
 > - [[gradual]]：逐渐的（explosive 作为"急剧"的反义：急剧↔逐渐）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **explosive growth/increase**：急剧增长/增加
 > - **explosive situation**：一触即发的局势
 > - **explosive device**：爆炸装置
@@ -131,22 +129,16 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The country experienced explosive economic growth in the 1990s."（该国在20世纪90年代经历了经济急剧增长。）
 > - "The issue of immigration has become politically explosive."（移民问题已成为政治上高度敏感的话题。）
 > - explosive growth 是考研经济类阅读的高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

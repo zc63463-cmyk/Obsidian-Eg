@@ -3,14 +3,12 @@ title: "magic"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 魔法、魔力（超自然的力量）
-extension_dim: 感知路径
+extension_dim: [感知路径]
 phonetic: "/ˈmædʒɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**魔法、魔力**"为统筹中心，沿感知路径向外扩展：
 >
 > 1. **超自然力量**（神秘层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > magic = 希腊语 *magos*（巫师）= 魔法。古希腊人认为波斯拜火教祭司拥有超自然力量——这就是 magic 的原始画面。与 [[mag]] 词根（力量）同源。从"超自然魔法"→"令人着迷的魅力"（the magic of music 音乐的魔力）→"魔术表演"（magic show）。work like magic = 像施了魔法一样有效。与 [[magistrate]]（原为"占卜者"）和 [[magnet]]（原为"有魔力的石头"）共享词源。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[science]]：科学（magic 的精确反义：魔法↔科学）
 > - [[reality]]：现实（magic 的反义：魔法↔现实）
 > - [[logic]]：逻辑（magic 的反义：魔法↔逻辑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **black magic / white magic**：黑魔法/白魔法
 > - **magic show / magic trick**：魔术表演/魔术戏法
 > - **the magic of...**：……的魔力
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is no magic bullet for solving the complex problems of climate change; it requires a comprehensive and sustained effort from all nations."（应对气候变化这一复杂问题没有灵丹妙药，它需要所有国家持续不懈的综合努力——考研阅读环保话题相关表达）
 > - "The magic of the ancient city lies not in its grand architecture alone, but in the rich tapestry of cultures and histories that have shaped it over millennia."（这座古城的魅力不仅在于其宏伟的建筑，更在于数千年来塑造它的丰富文化和历史画卷——考研翻译文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

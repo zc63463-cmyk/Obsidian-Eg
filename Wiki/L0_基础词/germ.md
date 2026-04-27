@@ -3,14 +3,12 @@ title: "germ"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 细菌（微生物，可导致疾病）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dʒɜːm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**细菌/萌芽**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **细菌**（生物学层面）
@@ -63,7 +61,7 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > germ 源自拉丁语 germen（芽/种子），与 gen（出生）同源。细菌就像微小的种子，在体内"萌芽生长"导致疾病。the germ of an idea 就是一个想法的"种子"——刚萌发，还很微小。
@@ -86,7 +84,7 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - germ 作为"萌芽"的反义：[[maturity]]（成熟——萌芽↔成熟）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,26 +124,22 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the germ of an idea**：想法的萌芽
 > - **germ warfare**：细菌战
 > - **kill germs**：杀灭细菌
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He asked whether there were not electrical means for pasteurizing milk, for getting rid of the germs in milk."（他问是否有电气方法可以对牛奶进行巴氏杀菌，消灭牛奶中的细菌。——考研英语阅读）
 > - "The hands are the most important means of the transfer of dangerous germs to food."（双手是将危险细菌传播到食物的最重要的途径。——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

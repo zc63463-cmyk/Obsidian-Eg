@@ -3,14 +3,12 @@ title: "hamper"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 用大篮子束缚住，使之行动不便
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈhæmpə(r)/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用大篮子束缚住，使之行动不便**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用大篮子束缚住，使之行动不便**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hamper 的本义是"大篮子"——把脏衣服塞进洗衣篮（laundry hamper），衣服就被"束缚"住了。想象你在跑步，腿上绑着一个大篮子，跑不快——这就是 hamper 的引申义"妨碍、阻碍"。进展被 hamper，就像被篮子套住了腿。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[facilitate]]：促进、使便利（hamper 的精确反义：妨碍 ↔ 促进）
 > - [[assist]]：帮助、协助（解除束缚 → 提供助力）
 > - [[expedite]]：加速、促进（消除阻碍 → 加快进程）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hamper progress / development**：阻碍进步/发展
 > - **hamper efforts / attempts**：妨碍努力/尝试
 > - **hamper sb from doing sth**：妨碍某人做某事
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The project was severely hampered by lack of funding."（该项目因资金不足而严重受阻）——考研阅读常见搭配
 > - "Bad weather hampered rescue efforts."（恶劣天气妨碍了救援工作）——新闻/社会类阅读语境
 > - "His movements were hampered by his injury."（他的行动因受伤而受限）——医学/生活类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

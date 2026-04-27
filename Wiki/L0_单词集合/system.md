@@ -3,14 +3,12 @@ title: "system"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 站在一起→体系
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɪstəm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在一起→整体**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **站在一起→整体**（组织层面）
@@ -68,7 +66,7 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > syn-(一起) + st(站立) + -em → 站在一起 → 系统
@@ -93,7 +91,7 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - chaos：混乱（system 是有序系统，chaos 是无序混乱）
 > - disorder：无序（system 是有序，disorder 是无序）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **education system**：教育体系
 > - **immune system**：免疫系统
 > - **legal/political system**：法律/政治体制
@@ -131,21 +129,15 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We have a mixed system, there is no spare capacity and as soon as there's a hiccup on the line, the situation becomes highly complex."（我们使用的是混合系统，没有备用容量，一旦线路上出现问题，情况就会变得非常复杂。）——2026考研英语二完形
 > - "A mixed system means that high-speed trains must travel on the regular tracks on certain routes."（混合系统意味着高速列车在某些路线上必须在普通轨道上行驶。）——2026考研英语二完形
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

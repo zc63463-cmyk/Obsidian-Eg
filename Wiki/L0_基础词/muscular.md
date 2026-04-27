@@ -3,14 +3,12 @@ title: "muscular"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 肌肉的（与肌肉有关的）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmʌskjʊlə(r)/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**肌肉的（与肌肉组织相关的）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **肌肉的**（身体层面）
@@ -64,7 +62,7 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > muscular 就是 muscle（肌肉）的形容词形式。一个 muscular 的人就是肌肉发达的人。引申到抽象层面，a muscular policy 就是"有肌肉的政策"——强有力的政策。想象一个肌肉发达的运动员，他的身体是 muscular 的，他的意志也是 muscular 的——坚强有力。
@@ -86,7 +84,7 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[weak]]：虚弱的（muscular 的反义：强壮的↔虚弱的）
 > - [[flabby]]：松弛的，不结实的（muscular 的反义：肌肉发达的↔松弛的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **muscular body**：肌肉发达的身体
 > - **muscular strength**：肌肉力量
 > - **a muscular response**：强有力的回应
@@ -124,19 +122,15 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was a tall, muscular man with broad shoulders."（他是个身材高大、肌肉发达、肩膀宽阔的男人——考研阅读常见描写）
 > - "The government took a muscular approach to the economic crisis."（政府对经济危机采取了强有力的措施——考研阅读政治话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

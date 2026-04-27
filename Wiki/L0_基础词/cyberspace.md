@@ -3,14 +3,12 @@ title: "cyberspace"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 舵手掌控的空间（网络虚拟世界的隐喻）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsaɪbəspeɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**舵手掌控的空间**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **舵手掌控的空间**（航海隐喻）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊语 kybernetes 意思是"舵手"。舵手在海上驾驭船只，控制方向。1948年，数学家维纳用这个词创造了 cybernetics（控制论）——研究如何"驾驭"系统的科学。1982年，科幻作家吉布森创造了 cyberspace——网络空间。想象你坐在电脑前，像舵手一样在信息的海洋中航行——那就是 cyberspace。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reality]]：现实（cyberspace 的反义：虚拟空间↔现实世界）
 > - [[physical space]]：物理空间（cyberspace 的反义：虚拟空间↔物理空间）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cyberspace security/governance**：网络安全/网络空间治理
 > - **in cyberspace**：在网络空间中
 > - **cyberspace communication**：网络空间通信
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Cyberspace has become a new domain of national security."（网络空间已成为国家安全的新领域——考研科技/政治类话题高频表达）
 > - "The government is strengthening cyberspace governance to protect citizens' personal information."（政府正在加强网络空间治理以保护公民个人信息——政策类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

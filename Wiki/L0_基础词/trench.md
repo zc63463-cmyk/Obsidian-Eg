@@ -3,14 +3,12 @@ title: "trench"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 沟渠、战壕（在地面挖出的长条形深沟）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/trentʃ/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**沟渠、战壕**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **沟渠**（地面层面）
@@ -67,7 +65,7 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trench 来自拉丁语 truncare（切断）。你"切断"地面就形成了 trench（沟渠）。一战中最残酷的就是 trench warfare（战壕战），士兵们在 trench 里生活、战斗。海洋最深处也是 trench——the Mariana Trench（马里亚纳海沟）。
@@ -90,7 +88,7 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mound]]：土丘，堆（trench 的反义：挖沟↔堆丘）
 > - [[ridge]]：山脊，隆起（trench 的反义：沟渠↔隆起）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +122,22 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **trench warfare**：战壕战
 > - **ocean trench**：海沟
 > - **in the trenches**：在战壕中；在第一线
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Serving one's time and surviving combat in battlefield trenches in youth mean promotion for some, but discharge, desertion or death for others."（年轻时在战场战壕中服役并幸存下来，对一些人意味着晋升，但对另一些人则意味着退伍、逃跑或死亡。——考研阅读）
 > - "In my opinion, these methods ought to be supplemented with a systematic survey with narrow trenches."（在我看来，这些方法应该辅以用窄沟进行的系统性调查。——考研翻译类例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

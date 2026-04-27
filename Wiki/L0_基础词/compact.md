@@ -3,14 +3,12 @@ title: "compact"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 紧密压在一起的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kəmˈpækt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**紧密压在一起的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **紧密压在一起的**（物理层面）
@@ -70,7 +68,7 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（一起）+ pact（紧压）→ compact。把棉花紧紧压在一起就是 compact（密实的），把文字紧紧压在一起就是 compact summary（简洁的摘要），两个人紧紧握手达成一致就是 compact（契约）。compact 就是"一起紧压"。
@@ -94,7 +92,7 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[loose]]：松散的（compact 的反义：紧密↔松散）
 > - [[diffuse]]：散开的，冗长的（compact 的反义：紧凑↔散开/冗长）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **compact car**：小型汽车，紧凑型轿车
 > - **compact disc (CD)**：光盘（信息紧密压缩的载体）
 > - **compact camera**：小型相机
@@ -134,19 +132,15 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The compact car is ideal for city driving."（紧凑型轿车非常适合城市驾驶）
 > - "He gave a compact summary of the report."（他对报告做了简洁的总结）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

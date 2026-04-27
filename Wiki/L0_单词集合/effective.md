@@ -3,14 +3,12 @@ title: "effective"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 能做出预期结果的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈfektɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**能做出预期结果的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **能做出预期结果的**（效果层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > effective = ef（出来）+ fect（做）+ -ive（能...的）= "能做出结果的"。想象你试了三种减肥方法，只有第三种真的让你瘦了——那第三种就是 effective 的。再想象一个公司，名义上的老板是董事长，但真正拍板做决定的是总经理——这位总经理就是 the effective leader（实际领导者）。effective 的灵魂就是"真的管用"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ineffective]]：无效的（effective"有效"的精确反义：有效↔无效）
 > - [[useless]]：无用的（effective"有用"的反义）
 > - [[futile]]：徒劳的（effective"有效果"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **effective measures/solutions**：有效的措施/解决方案
 > - **effective communication**：有效的沟通
 > - **effective date**：生效日期
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government took effective measures to combat air pollution."（政府采取了有效措施来对抗空气污染）——政策环保类阅读
 > - "effective communication skills are essential in the workplace"（有效的沟通技巧在工作场所至关重要）——职场类话题
 > - "the effective use of technology in education"（技术在教育中的有效使用）——教育科技类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

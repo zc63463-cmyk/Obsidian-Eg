@@ -3,14 +3,12 @@ title: "eloquent"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 被选出来发言的（说话有说服力的）
-extension_dim: 言语-表达-感染力
+extension_dim: [言语-表达-感染力]
 phonetic: "/ˈeləkwənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被选出来发言的**"为统筹中心，沿言语-表达-感染力向外扩展：
 >
 > 1. **被选出来发言的**（言语层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > eloquent 来自拉丁语 *eloquens*：e（出）+ loqui（说）→ 说出精彩的话 → 雄辩的。想象古罗马元老院中，一位被"选"出来的演说家站在台上慷慨陈词——他就是 eloquent 的。高级用法：an eloquent silence（意味深长的沉默）——不用说话也能"说出"很多。记住：eloquent = e + loqu + ent = 说出精彩的话的。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inarticulate]]：不善表达的（eloquent 的精确反义：雄辩↔不善表达）
 > - [[tongue-tied]]：张口结舌的（eloquent 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an eloquent speech/speaker**：雄辩的演讲/演说家
 > - **an eloquent defense**：有力的辩护
 > - **an eloquent silence**：意味深长的沉默
@@ -125,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She made an eloquent appeal for donations to the charity."（她发表了一番雄辩有力的演讲，呼吁人们向慈善机构捐款——Cambridge Dictionary 例句）
 > - "His silence was more eloquent than any words could have been."（他的沉默比任何言语都更有说服力——常见英语学习语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "bureau"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 粗布桌面（铺着粗布的办公桌→办公室→机构）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈbjʊərəʊ/"
 pos: n.
 metaphor_type: 转喻
@@ -43,7 +41,7 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**粗布桌面**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **粗布桌面**（物理层面）
@@ -66,7 +64,7 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bureau 来自法语，本义是"铺着粗布的桌子"。官员在 bureau（桌子）后面办公，后来 bureau 变成了"办公室"，再变成了"政府机构"。FBI = Federal Bureau of Investigation（联邦调查局）就是最著名的 bureau。
@@ -88,7 +86,7 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > （bureau 为具体机构名词，无直接反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Federal Bureau of Investigation (FBI)**：联邦调查局
 > - **tourist bureau**：旅游局
 > - **employment bureau**：职业介绍所
@@ -126,18 +124,14 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The Federal Bureau of Investigation has been tracking the suspect for months.（联邦调查局已经追踪这名嫌疑人好几个月了。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

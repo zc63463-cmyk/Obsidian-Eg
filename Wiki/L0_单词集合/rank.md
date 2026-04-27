@@ -3,14 +3,12 @@ title: "rank"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 排/行列
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ræŋk/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**排/行列**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **排/行列**（物理层面）
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rank 和 [[range]] 是亲兄弟，都来自古法语"行、列"。range 强调"这一行有多长"（范围），rank 强调"你在这一行的哪个位置"（等级）。想象学生按成绩**排成一行**，站在前面的是第一名，站在后面的是最后一名——你在这一行中的位置就是你的 rank（等级/排名）。
@@ -100,7 +98,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,13 +111,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[equality]]：平等（rank 的反义：等级制度 ↔ 平等）
 > - [[disorder]]：混乱（rank 的反义：有序排列 ↔ 混乱无序）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rank among/as**：位列，被评为（rank among the best 位列最佳）
 > - **rank first/second**：排名第一/第二
 > - **high/low rank**：高/低等级
@@ -142,7 +140,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "rank among the world's leading economies"（位列世界领先经济体）——经济/政治类阅读
 > - "the rank and file of the party"（党的普通成员）——政治类阅读
 > - "ranked first in terms of GDP"（GDP排名第一）——数据/比较类文章
@@ -150,15 +148,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

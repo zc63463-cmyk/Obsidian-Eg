@@ -3,14 +3,12 @@ title: "edit"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 把作品呈现出来——编辑、修订
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈedɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把作品呈现出来——编辑、修订**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向外呈现**（行为层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > edit 源自拉丁语 *edere*（e-向外 + dere放置）= 向外呈现。古罗马作者把作品"拿出来"呈现给世人之前，必须先精心打磨——这就是 edit（编辑）。edit a manuscript = 编辑手稿。edit a film = 剪辑电影。edit 的灵魂是"精心打磨后呈现"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[publish]]：出版（edit 的反义：编辑是出版前的准备，二者是过程关系）
 > - [[compose]]：创作（edit 的反义：创作↔编辑修改）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **edit a manuscript / book**：编辑手稿/书
 > - **edit a film / video**：剪辑电影/视频
 > - **edit out**：删去，剪辑掉
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The author spent months editing and revising the manuscript before it was finally accepted for publication."（作者花了几个月编辑和修改手稿，最终才被接受出版。——考研阅读学术出版话题相关表达）
 > - "With modern digital tools, anyone can edit photos and videos on their smartphone with professional-quality results."（借助现代数字工具，任何人都可以在智能手机上编辑照片和视频，获得专业品质的效果。——考研阅读科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

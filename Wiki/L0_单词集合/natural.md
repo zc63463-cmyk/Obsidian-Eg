@@ -3,14 +3,12 @@ title: "natural"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 天然的→自然的→正常的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈnætʃrəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**自然生长的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **自然生长的**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *nasci* 意为"出生"——**出生**（nat）时就有的，不需要人工修饰的，就是 **natural**（自然的/天然的）。你的 **natural** talent（天赋）是与生俱来的，**natural** food（天然食品）是没有添加剂的。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[artificial]]：artificial 是"人工的"，natural 是"天然的"
 > - [[unnatural]]：unnatural 是"不自然的/反常的"，natural 是"自然的/正常的"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **natural disaster**：自然灾害
 > - **natural talent/ability**：天赋
 > - **natural resources**：自然资源
@@ -132,21 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is natural for parents to worry about their children's safety."（父母担心孩子的安全是很自然的。）——考研高频表达
 > - "The country is rich in natural resources such as oil and minerals."（该国拥有丰富的石油和矿产等自然资源。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

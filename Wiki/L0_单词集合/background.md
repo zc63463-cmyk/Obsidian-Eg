@@ -3,14 +3,12 @@ title: "background"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 身后的地面
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈbækɡraʊnd/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**身后的地面**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **身后的地面**（物理空间层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > background 就是 back（后面）+ ground（地面）。想象你站在舞台上表演，观众看到的是你，而你**背后**的**地面**和布景就是 background。再想象一个求职者——他递上简历，面试官问的是他**背后**的经历和学历，那就是他的 background。从舞台到人生，background 始终是"在你身后支撑着你的东西"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[foreground]]：前景（background 的精确反义：背景↔前景）
 > - [[highlight]]：焦点，突出部分（背景↔被突出的重点）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cultural/social/historical background**：文化/社会/历史背景
 > - **family/educational background**：家庭/教育背景
 > - **academic background**：学术背景
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "against the background of economic globalization"（在经济全球化的背景下）——考研翻译和阅读中极高频表达
 > - "students from diverse cultural backgrounds"（来自不同文化背景的学生）——教育/社会类话题中常见
 > - "background information is essential for understanding"（背景信息对理解至关重要）——学术类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

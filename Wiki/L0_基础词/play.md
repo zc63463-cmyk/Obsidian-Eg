@@ -3,14 +3,12 @@ title: "play"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 轻快的移动/活动
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/pleɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**轻快的移动/活动**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **轻快的移动/活动**（身体层面）
@@ -69,7 +67,7 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > play 最初就是"活动"的意思。想象一个多功能演员：在公园里 play（玩），在舞台上 play a role（扮演），回家后 play music（播放音乐），在社会中 play an important role（起重要作用）。所有这些 play 都是一种"活动"。
@@ -92,7 +90,7 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[work]]：工作（play 的反义：玩↔工作）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +122,22 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **play a role/part in**：在……中起作用/扮演角色
 > - **play an important/significant role**：起重要作用
 > - **play with**：玩弄；与……一起玩
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Technology plays a significant role in modern society."（科技在现代社会中起着重要作用。——考研高频表达）
 > - "She plays an important role in the school play."（她在校园剧中扮演重要角色。——考研高频搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

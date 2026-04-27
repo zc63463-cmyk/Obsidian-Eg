@@ -3,14 +3,12 @@ title: "assistant"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 站在旁边帮助的人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈsɪstənt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ant(名词后缀，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在旁边帮助的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **站在旁边帮助的人**（社会层面：提供辅助的人）
@@ -65,7 +63,7 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ant(名词后缀，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ant(名词后缀，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[assist]]（站在旁边帮助）+ -ant（人）→ 站在旁边帮助的**人**——就是"助手"。-ant 后缀专门标记"做某事的人"，像 student（学习的人）、assistant（帮助的人）。
@@ -89,7 +87,7 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ant(名词后缀，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ant(名词后缀，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[supervisor]]：主管（助手的反面——管理者）
 > - [[boss]]：老板（辅助者的反面——主导者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ant(名词后缀，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **teaching assistant (TA)**：助教（She works as a teaching assistant in the physics department.）
 > - **research assistant**：研究助理（He was hired as a research assistant for the project.）
 > - **assistant professor**：助理教授（She was promoted to assistant professor.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Ross called his assistant, Hashim, to take over while he went out."（罗斯叫助理哈希姆在自己外出时代理其职。）——考研高频表达
 > - "The research assistant was responsible for collecting and analyzing the data."（研究助理负责收集和分析数据。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

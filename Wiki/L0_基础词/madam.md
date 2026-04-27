@@ -3,17 +3,14 @@ title: "madam"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 夫人、女士（对女性的尊称）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmædəm/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: madame
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**夫人、女士**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **对女性的尊称**（社会层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > madam = 法语 *madame* = 我的女士（*ma dame*）。中世纪仆人用 *ma dame* 称呼女主人——这就是 madam 的原始画面。拉丁语 *mea domina* = 我的女主人。Dear Madam = 亲爱的女士（信函开头）。Can I help you, madam? = 我能帮您吗，女士？口语中 madam 可指"女老板"（有时带贬义）。注意：madam 与 [[mad]]（疯狂的）词源无关，是形近异源词。缩写 Mrs. 来自 madam。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sir]]：先生（madam 的精确反义：夫人↔先生）
 > - [[Mr.]]：……先生（madam 的反义：女士↔先生）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Dear Madam**：亲爱的女士（信函开头）
 > - **Can I help you, madam?**：我能帮您吗，女士？
 > - **Yes, madam**：是的，女士（服务用语）
@@ -127,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Dear Madam or Sir, I am writing to express my concern regarding the proposed changes to the public transportation system in our city."（亲爱的女士或先生，我写信是为了表达对本市公共交通系统拟议变更的关切——考研书信写作常用表达）
 > - "Madam Chair, the committee has thoroughly reviewed the evidence and reached a unanimous conclusion on this matter."（主席女士，委员会已彻底审查了证据，并在此事上达成了一致结论——考研翻译正式场合用语）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

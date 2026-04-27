@@ -3,14 +3,12 @@ title: "puppet"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 木偶（被线操控的小人偶）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpʌpɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**木偶（被线操控的小人偶）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **木偶**（物理层面）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > puppet 源自法语"小娃娃"。想象一个提线木偶——表演者用线拉着它的手脚，它就做出各种动作，完全不能自主。政治上的 puppet 就是这样——a puppet government 是被外部势力"拉线"的傀儡政府，a puppet leader 是被幕后操纵者控制的傀儡领导人。puppet 也可以指小孩子——"小娃娃"。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[master]]：主人（puppet 的反义：被操控者↔操控者）
 > - [[independent]]：独立的（puppet 的反义：傀儡↔独立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **puppet government**：傀儡政府
 > - **puppet regime**：傀儡政权
 > - **puppet leader**：傀儡领导人
@@ -123,19 +121,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The so-called independent government was in fact a puppet of the occupying forces."（所谓的独立政府实际上是占领军的傀儡——考研阅读政治话题高频表达）
 > - "He accused the prime minister of being a puppet of big business."（他指责首相是大企业的傀儡——考研阅读常见搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

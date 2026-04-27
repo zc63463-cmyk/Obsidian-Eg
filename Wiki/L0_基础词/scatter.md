@@ -3,14 +3,12 @@ title: "scatter"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用力砍切后碎片四散飞溅
-extension_dim: 物理路径
+extension_dim: [物理路径]
 phonetic: "/ˈskætə(r)/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**砍切后碎片四散飞溅**"为统筹中心，沿物理路径向外扩展：
 >
 > 1. **砍切后碎片飞溅**（物理层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scatter 源自 PIE 词根 *\*skeið-*（砍、切、劈），与 shatter（粉碎）同源。核心画面是"一斧头劈下去，碎片向四面八方飞溅"。农民在田里 scatter 种子，就像碎片从斧头下飞溅一样——scatter 的灵魂是"从一个中心向四周无规则地散开"。The wind scattered the leaves（风吹散了树叶）。The police scattered the crowd（警察驱散了人群）。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gather]]：聚集（scatter 的反义：散开↔聚集）
 > - [[concentrate]]：集中（scatter 的反义：分散↔集中）
 > - [[assemble]]：集合（scatter 的反义：驱散↔集合）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **scatter seeds / confetti**：撒种子/撒彩纸
 > - **scatter the crowd**：驱散人群
 > - **scatter in all directions**：向四面八方散开
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots."（地球上散落分布着100多个互不相连的小火山活动区，被地质学家称为热点。——1998年考研英语阅读Text 5，经典长难句）
 > - "The crowd scattered in all directions when the police arrived."（警察到达时，人群向四面八方散开。——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "express"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 挤压出来（把内在的东西压出来）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪkˈspres/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**挤压出来（把内在的东西向外推出来）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **挤压出来**（物理层面）
@@ -70,7 +68,7 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你心里有一管牙膏，ex（向外）+ press（压）→ 你把牙膏"向外压出来"。你的想法就像牙膏，express 就是把内心的想法"压出来"变成语言。express yourself 就是"把自己压出来"——完整地表达自己。快递 express delivery 也是同理——快速把包裹"压出来"送到目的地。
@@ -94,7 +92,7 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[suppress]]：压制，抑制（express 的反义：把内在的东西压回去 vs 压出来）
 > - [[conceal]]：隐藏，隐瞒（express 的反义：把想法藏起来 vs 表达出来）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **express oneself**：表达自己的思想和感情
 > - **express concern/sympathy**：表示关切/同情
 > - **freedom of expression**：言论自由，表达自由
@@ -135,23 +133,15 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He points out that he always experienced much difficulty in expressing himself clearly and concisely."（他指出自己在清晰简洁地表达自己方面总是感到很困难。——2008年考研英语一翻译）
 > - "He advocated freedom of thought and of personal expression."（他倡导思想自由和个人言论自由。——2014年考研英语一翻译）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

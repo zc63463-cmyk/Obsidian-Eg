@@ -3,14 +3,12 @@ title: "bad"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 坏的，不好的（质量低劣的）
-extension_dim: 评价路径
+extension_dim: [评价路径]
 phonetic: "/bæd/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坏的，不好的**"为统筹中心，沿评价路径向外扩展：
 >
 > 1. **坏的，不好的**（品质层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bad 是英语中最基础的"负面词"。天气不好是 bad weather，消息不好是 bad news，感冒严重是 a bad cold，牛奶变质是 bad milk。bad 的核心就是"不好"——品质不好、程度不好、健康不好。它是 good 的日常对立面。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[good]]：好的（bad 的精确反义：坏↔好）
 > - [[excellent]]：优秀的（bad 的反义：差↔优秀）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bad weather / bad news / bad luck**：坏天气/坏消息/坏运气
 > - **a bad cold / a bad headache**：重感冒/剧烈头痛
 > - **bad for health**：对健康有害
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Smoking is bad for your health, increasing the risk of lung cancer and heart disease significantly."（吸烟对健康有害，显著增加患肺癌和心脏病的风险——考研阅读健康话题相关表达）
 > - "The economic situation went from bad to worse as unemployment rates continued to rise throughout the year."（随着失业率全年持续上升，经济形势每况愈下——考研翻译经济话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

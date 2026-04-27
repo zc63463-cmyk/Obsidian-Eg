@@ -3,14 +3,12 @@ title: "if"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 如果，假如
-extension_dim: 逻辑路径
+extension_dim: [逻辑路径]
 phonetic: "/ɪf/"
 pos: conj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**如果，假如**"为统筹中心，沿逻辑路径向外扩展：
 >
 > 1. **如果，假如**（条件层面）
@@ -69,7 +67,7 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > if 源自古英语 gif "如果"，是最基础的语法词。核心搭配：if only = 但愿（If only I had studied harder!）；as if = 好像（He acts as if he knows everything.）；even if = 即使（Even if it's hard, don't give up.）；only if = 只有（I'll go only if you go.）。注意 if 和 whether 的区别：if 不能用于句首引导主语从句，whether 可以。
@@ -92,7 +90,7 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - if 本身是逻辑连词，无直接反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **if only**：但愿，要是……就好了——If only I had more time!
 > - **as if**：好像，仿佛——He talks as if he were an expert.
 > - **even if**：即使——Even if we fail, we should try.
@@ -129,19 +127,15 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If only the government had taken action earlier, the crisis might have been averted."（如果政府早点采取行动，危机可能就避免了——if only + 虚拟语气为考研写作/翻译高频考点）
 > - "The question is not whether we should act, but how."（问题不在于我们是否应该行动，而在于如何行动——whether vs if 的区分在考研中常见）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

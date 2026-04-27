@@ -3,14 +3,12 @@ title: "carrot"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 胡萝卜（一种橙色的根茎蔬菜）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkærət/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ carrot 源自中古英语 *carotte*，借自古法语，最终源自拉丁语 *c
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**胡萝卜**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **胡萝卜**（具体事物层面）
@@ -64,7 +62,7 @@ carrot 源自中古英语 *carotte*，借自古法语，最终源自拉丁语 *c
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ carrot 源自中古英语 *carotte*，借自古法语，最终源自拉丁语 *c
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 西方农夫赶驴时，在驴子面前挂一根胡萝卜引诱它前进，同时拿棍子在后面驱赶——这就是经典的"carrot and stick"（胡萝卜加大棒）策略。carrot 从"胡萝卜"引申为"诱饵、奖励"。
@@ -86,7 +84,7 @@ carrot 源自中古英语 *carotte*，借自古法语，最终源自拉丁语 *c
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ carrot 源自中古英语 *carotte*，借自古法语，最终源自拉丁语 *c
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stick]]：棍棒，惩罚（carrot and stick 中的"大棒"，奖励↔惩罚）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,25 +119,21 @@ carrot 源自中古英语 *carotte*，借自古法语，最终源自拉丁语 *c
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **carrot and stick**：胡萝卜加大棒（奖励与惩罚并用的策略）
 > - **dangle a carrot**：吊诱饵，许诺好处
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "With them, there's not the same embarrassment as when buying one carrot in a little greengrocer."（有了自助结账，就不会像在蔬菜水果店里买一根胡萝卜那样尴尬了。——2013年考研英语二阅读理解）
 > - "I'd always thought, while slicing up carrots, that the end looked like a cap."（我在切胡萝卜时一直觉得，胡萝卜的末端看起来像一顶帽子。——2015年四川高考完形填空）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

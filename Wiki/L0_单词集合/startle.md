@@ -3,17 +3,14 @@ title: "startle"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: [startled, startling, startles]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使人猛然惊跳
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈstɑːrtl/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: start
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使人猛然惊跳**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使人猛然惊跳**（身体层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 你正安静地看书，突然背后一声巨响——你从椅子上**猛然跳起来**（[[start]]），心脏砰砰跳。这就是被 startled（吓了一跳）。start + le（反复）= 让你一惊一跳的。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：startle（使惊跳）↔ calm（使平静）——身体反应的对立
 > - [[soothe]]：startle（使惊吓）↔ soothe（使安慰）——情绪的对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be startled by**：被...吓了一跳
   - She was startled by the sudden appearance of a stranger.
 - **startling discovery/revelation**：惊人的发现/揭露
@@ -129,21 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The sudden noise startled the baby and made her cry."（突然的噪音惊吓到了婴儿，使她哭了起来。）——考研高频表达
 > - "I was startled by the sudden appearance of a stranger at my door."（一个陌生人突然出现在我家门口，把我吓了一跳。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

@@ -3,17 +3,14 @@ title: "grieve"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 承受沉重→感到悲伤→使悲伤
-extension_dim: 情感反应
+extension_dim: [情感反应]
 phonetic: "/ɡriːv/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: grieve
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**承受沉重的情感**"为统筹中心，沿情感反应向外扩展：
 >
 > 1. **承受沉重的情感**
@@ -64,7 +61,7 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > grieve 和 [[grief]] 同源，都来自拉丁语 *gravis*（重的）。grieve 是动词——"承受重量"的动作。你 grieve for someone（为某人悲伤），你 grieve the loss（为失去而悲伤）。grieve 的元音降级自 grave（坟墓）——"人死"才"悲伤"，坟墓（grave）带来悲伤（grieve），悲伤的状态就是悲痛（grief）。
@@ -87,7 +84,7 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rejoice]]：高兴，欣喜（grieve 的精确反义：悲伤↔欣喜）
 > - [[comfort]]：安慰（grieve 的反义：使人悲伤↔使人安慰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **grieve for/over**：为……而悲伤
 > - **grieve the loss of**：为失去……而悲痛
 > - **it grieves me that...**：……让我很难过
@@ -129,19 +126,15 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He is really grieving over the loss of something beautiful more than useful."（他真的为那些美好多于实用的事物的消逝感到悲痛——2016考研英语词汇例句）
 > - "It grieved her to leave."（她要走了，心里很难过——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

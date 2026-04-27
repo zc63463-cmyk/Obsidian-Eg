@@ -3,14 +3,12 @@ title: "commonplace"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 普通的，司空见惯的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒmənpleɪs/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ common(共同的/普通的) + place(地方)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**到处都有的地方**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **到处都有的地方**（空间层面）
@@ -65,7 +63,7 @@ common(共同的/普通的) + place(地方)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ common(共同的/普通的) + place(地方)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > common（普通）+ place（地方）→ 普通的地方。就像你家楼下的早餐店，天天路过，太普通了。智能手机曾经是奢侈品，现在已经成为 commonplace（寻常事物）。
@@ -88,7 +86,7 @@ common(共同的/普通的) + place(地方)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ common(共同的/普通的) + place(地方)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extraordinary]]：非凡的，特别的（commonplace 的精确反义：平凡↔非凡）
 > - [[remarkable]]：显著的，非凡的（commonplace 的反义：寻常↔引人注目）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ common(共同的/普通的) + place(地方)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **become commonplace**：变得司空见惯
 > - **a commonplace remark**：老生常谈的话
 > - **increasingly commonplace**：越来越普遍的
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It has become commonplace for people to work from home."（在家办公已经变得司空见惯。）
 > - "The idea that education is the key to success is almost a commonplace."（教育是成功之钥这种说法几乎是老生常谈。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

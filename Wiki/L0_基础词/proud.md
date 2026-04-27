@@ -3,14 +3,12 @@ title: "proud"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 有价值的（值得骄傲的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/praʊd/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有价值的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **有价值的**（自我价值层面）
@@ -66,7 +64,7 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > proud 源自古法语 *prud*（有价值的、勇敢的）。一个战士觉得自己有价值、有勇气 → proud（骄傲的）。同源词 [[provide]]（pro-向前 + vid-看 → 提前看到需要 → 提供）——提供有价值的东西。proud 就是"有价值的感觉"。
@@ -88,7 +86,7 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[humble]]：谦逊的（proud 的反义：骄傲↔谦逊）
 > - [[ashamed]]：羞耻的（proud 的反义：自豪↔羞耻）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be proud of**：为……感到自豪
 > - **be proud to do something**：为做某事感到自豪
 > - **a proud tradition/moment**：引以为荣的传统/时刻
@@ -127,19 +125,15 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She is proud of her achievements in scientific research."（她为自己的科研成就感到自豪。）
 > - "We are proud to announce the launch of our new product."（我们自豪地宣布新产品发布。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

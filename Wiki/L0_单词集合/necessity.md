@@ -3,17 +3,14 @@ title: "necessity"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 必要性，必需品
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/nəˈsesəti/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: ced-cess
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ ne-(否定前缀，"不") + cess(走/退让) + -ity(名词后缀，表示抽象�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**必要性**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **必要性**（不可缺失的性质）
@@ -64,7 +61,7 @@ ne-(否定前缀，"不") + cess(走/退让) + -ity(名词后缀，表示抽象�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ ne-(否定前缀，"不") + cess(走/退让) + -ity(名词后缀，表示抽象�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象沙漠中一个人快渴死了，水对他来说就是 **necessity**（必需品）——没有水就没有命，这就是"不可缺失"的终极体现。
@@ -87,7 +84,7 @@ ne-(否定前缀，"不") + cess(走/退让) + -ity(名词后缀，表示抽象�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ ne-(否定前缀，"不") + cess(走/退让) + -ity(名词后缀，表示抽象�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[luxury]]：奢侈品——与必需品相对
 > - [[unnecessity]]：不必要——缺乏必要性
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,28 +114,22 @@ ne-(否定前缀，"不") + cess(走/退让) + -ity(名词后缀，表示抽象�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **of necessity**：Many changes in the education system were of necessity rather than choice.
 > - **basic necessities**：Access to clean water and food are basic necessities for survival.
 > - **necessity for**：There is a growing necessity for environmental protection.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The report stresses the necessity of eating plenty of fresh fruit and vegetables."（报告强调了多吃新鲜水果和蔬菜的必要性。）——考研高频表达
 > - "With a personal fortune of sixty million dollars, she certainly doesn't work out of necessity."（拥有六千万美元的个人财富，她当然不是出于需要而工作。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

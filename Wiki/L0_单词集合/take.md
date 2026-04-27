@@ -3,14 +3,12 @@ title: "take"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 用手抓住并取走
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/teɪk/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手抓住并取走**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用手抓住并取走**（物理动作层面）
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > take 来自古诺尔斯语 taka（抓、拿），是维京人留给英语的"遗产"。想象一个维京战士**抓住**敌人的武器——这是 take 最原始的画面。一千年来，take 不断"抓取"新含义：**拿**伞出门、**吃**药、**拍**照、**乘**公交、**理解**观点——每一次都是"抓取"动作的延伸。
@@ -102,7 +100,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -116,14 +114,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[give]]：给（take 是拿取，give 是给予，方向相反）
 > - [[release]]：释放、放手（take 是抓住，release 是松开）
 > - [[drop]]：丢弃、掉落（take 是拿起来，drop 是丢下去）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -136,7 +134,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take measures/steps/action**：采取措施/行动
 > - **take advantage of**：利用
 > - **take into account/consideration**：考虑到，顾及
@@ -148,7 +146,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "take measures to address the issue"（采取措施解决问题）——考研写作/阅读高频搭配
 > - "it takes time and effort"（需要时间和努力）——论证类文本常见表达
 > - "take into account the potential risks"（考虑潜在风险）——学术/商业类阅读语境
@@ -156,15 +154,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

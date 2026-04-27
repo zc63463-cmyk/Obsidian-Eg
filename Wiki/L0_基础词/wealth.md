@@ -3,14 +3,12 @@ title: "wealth"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 财富（大量拥有的金钱和财产）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/welθ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**财富（大量拥有）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **财富**（经济层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wealth 来自 weal（福祉、幸福）+ -th（状态）。拥有福祉的状态就是"富有"。从"大量金钱"延伸到"大量任何事物"——a wealth of knowledge（丰富的知识）、a wealth of data（大量数据）。wealth 不仅是钱，更是一切"大量拥有"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[poverty]]：贫穷（wealth 的精确反义：财富↔贫穷）
 > - [[debt]]：债务（wealth 的反义：拥有↔亏欠）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **accumulate/amass wealth**：积累财富
 > - **distribute wealth**：分配财富
 > - **a wealth of**：大量的，丰富的
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If ambition is to be well regarded, the rewards of ambition — wealth, distinction, control over one's destiny — must be deemed worthy of the sacrifices made on ambition's behalf."（如果野心要受到好的看待，那么野心的回报——财富、声望显赫、掌控自身命运——必须被认为值得为野心所做出的牺牲——2000年考研阅读Text 5）
 > - "The Portuguese give a great deal of credit to one man for having promoted sea travel."（葡萄牙人把很大功劳归于一个人，因为他推动了海上旅行——此处 a great deal of 与 a wealth of 同义，考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

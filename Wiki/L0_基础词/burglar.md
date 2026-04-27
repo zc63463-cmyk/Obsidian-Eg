@@ -3,17 +3,14 @@ title: "burglar"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 破堡者（闯入堡垒/房屋盗窃的人）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈbɜːɡlə(r)/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: borough
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ burglar 源自中世纪拉丁语 *burgator*，*burgare*（破门而入），*bur
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**破堡者**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **破堡者**（行为层面）
@@ -61,7 +58,7 @@ burglar 源自中世纪拉丁语 *burgator*，*burgare*（破门而入），*bur
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +68,7 @@ burglar 源自中世纪拉丁语 *burgator*，*burgare*（破门而入），*bur
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > burglar 来自拉丁语 burgus（堡垒）。burglar 就是攻破你的"堡垒"（家）的盗贼。burglar alarm 就是防盗警报器——当"破堡者"来的时候发出警报。burglar 和 borough（自治市，有城墙的城镇）同源。
@@ -83,7 +80,7 @@ burglar 源自中世纪拉丁语 *burgator*，*burgare*（破门而入），*bur
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,13 +92,13 @@ burglar 源自中世纪拉丁语 *burgator*，*burgare*（破门而入），*bur
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[guard]]：守卫（burglar 的反义：入侵者↔守卫者）
 > - [[policeman]]：警察（burglar 的反义：罪犯↔执法者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,25 +110,21 @@ burglar 源自中世纪拉丁语 *burgator*，*burgare*（破门而入），*bur
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **burglar alarm**：防盗警报器
 > - **commit burglary**：犯入室盗窃罪
 > - **a burglar broke into**：窃贼闯入
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The burglar gained entry through an unlocked window on the second floor.（窃贼通过二楼一扇未锁的窗户进入了室内。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

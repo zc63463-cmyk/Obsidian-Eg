@@ -3,14 +3,12 @@ title: "potential"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 内在的力量→潜力/潜在的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/pəˈtenʃl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**内在的力量**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **内在的力量**（能力层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *potentia* 意为"力量"——一颗种子有长成大树的 **potential**（潜力），一个学生有成为科学家的 **potential**（潜能）。potential 就是"**pot**（罐子）里**ent**（装）满了力量，等待释放"。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[actual]]：actual 是"实际的/现实的"，potential 是"潜在的"
 > - [[realized]]：realized 是"已实现的"，potential 是"未实现的"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reach/fulfill one's potential**：发挥潜力
 > - **potential risk/threat**：潜在风险/威胁
 > - **potential customer**：潜在客户
@@ -134,21 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The potential benefits of the new technology are enormous."（新技术的潜在好处是巨大的。）——考研高频表达
 > - "Every child has the potential to succeed if given the right opportunities."（如果给予正确的机会，每个孩子都有成功的潜力。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

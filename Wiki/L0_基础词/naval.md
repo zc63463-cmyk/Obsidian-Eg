@@ -3,14 +3,12 @@ title: "naval"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 海军的（与海上军事力量相关的）
-extension_dim: 领域路径
+extension_dim: [领域路径]
 phonetic: "/ˈneɪvl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**海军的（与海上军事力量相关的）**"为统筹中心，沿领域路径向外扩展：
 >
 > 1. **与船有关的**（领域层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > naval 来自拉丁语 *navis*（船）。古代罗马人用 navis 在地中海航行、作战。后来从"船"衍生出"海军"的概念——用船组成的军事力量。naval 就是"与船有关的"，而海军就是"与船有关的军事力量"。[[navy]] 是海军（名词），[[naval]] 是海军的（形容词），[[navigation]] 是航行（驾驶船的技术）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[military]]：军事的（naval 的上位词，非严格反义）
 > - [[army]]：陆军（naval 的对应反义：海军↔陆军）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **naval force**：海军力量
 > - **naval base**：海军基地
 > - **naval battle**：海战
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "During the First World War, the Battle of Jutland in the North Sea west of Jutland was one of the largest naval battles in history."（第一次世界大战期间，在日德兰半岛以西北海的日德兰海战是历史上最大的海战之一。——Cambridge Dictionary）
 > - "His orders were to protect the port from naval attack."（他的命令是保护港口免受海军攻击。——Longman Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

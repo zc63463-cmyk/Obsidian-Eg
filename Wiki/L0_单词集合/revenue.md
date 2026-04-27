@@ -3,14 +3,12 @@ title: "revenue"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 回来的东西→收入
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈrevənjuː/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**回来的东西**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **回来的东西**（经济流动层面）
@@ -64,7 +62,7 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > re-(回) + venue(来) → 回来的东西 → 收入
@@ -87,7 +85,7 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - expenditure：支出（revenue 是收入，expenditure 是支出）
 > - cost：成本（revenue 是收益，cost 是成本）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tax revenue**：税收收入
 > - **revenue growth**：收入增长
 > - **annual revenue**：年收入
@@ -125,21 +123,15 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Newspapers are becoming more balanced businesses, with a healthier mix of revenues from readers and advertisers."（报纸行业正变得更加平衡，来自读者和广告商的收入组合更加健康。）——2011考研英语二阅读
 > - "Expenses have exceeded revenue, putting the company in a difficult financial position."（支出超过了收入，使公司陷入财务困境。）——2018考研英语一阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

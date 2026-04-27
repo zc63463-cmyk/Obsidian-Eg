@@ -3,14 +3,12 @@ title: "trail"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 拖拽、拉扯
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/treɪl/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拖拽**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **拖拽**（物理动作——在身后拖着走）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trail 源自拉丁语 trahere（拖拽）。想象一只蜗牛在叶片上慢慢爬，身后拖着一条亮晶晶的痕迹——那就是 trail。猎人沿着猎物留下的 trail（痕迹）去追踪。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lead]]：领先，引导（落后 vs 领先；跟踪 vs 引导）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a trail of**：一连串的……
   > The hurricane left a trail of destruction across the coast. 飓风在沿海地区留下了一连串的破坏。
 > - **trail behind**：落后于
@@ -130,21 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The hikers followed a narrow trail through the dense forest."（徒步旅行者沿着一条穿过茂密森林的狭窄小路前行。）——考研高频表达
 > - "The company has left a trail of failed projects behind it."（这家公司留下了一连串失败的项目。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

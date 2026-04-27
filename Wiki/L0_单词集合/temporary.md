@@ -3,14 +3,12 @@ title: "temporary"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 仅持续一段时间的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈtemprəri/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**仅持续一段时间的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **仅持续一段时间的**（时间维度层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 tempus 是"时间"，temporarius 就是"属于时间的"——像季节一样来了又走。temporary 就是"暂时的"。想象一份工作只签了三个月合同，那就是 temporary job；一个方案只是权宜之计，那就是 temporary solution。记住：temporary 的一切都会过去。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[permanent]]：永久的（temporary 的精确反义：暂时的 ↔ 永久的）
 > - [[lasting]]：持久的（强调持续时间长）
 > - [[eternal]]：永恒的（在时间维度上的终极反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **temporary job/work**：临时工作
 > - **temporary solution/measure**：临时方案/临时措施
 > - **temporary worker/staff**：临时工
@@ -132,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "a temporary solution"（临时解决方案）——考研阅读常见搭配，常与 permanent solution 对比
 > - "temporary workers"（临时工）——社会/经济类阅读，讨论劳动力市场
 > - "temporary setback"（暂时的挫折）——励志/商业类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

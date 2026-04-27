@@ -3,14 +3,12 @@ title: "propose"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 向前放置→提出
-extension_dim: 空间路径→社会路径
+extension_dim: [空间路径→社会路径]
 phonetic: "/prəˈpəʊz/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前放置**"为统筹中心，沿空间路径→社会路径向外扩展：
 >
 > 1. **向前放置**（空间层面：把某物放到前面）
@@ -71,7 +69,7 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > pro（向前）+ pose（放置）→ 向前放置→ 提出。你 propose a plan（提出计划）就是把方案放到桌面上；你 propose a candidate（提名候选人）就是把名字放到委员会面前；你 propose to someone（求婚）就是把心意放到爱人面前。propose 的灵魂就是"把想法/心意摆到对方面前"。[[proposal]] 是你摆出来的东西，[[proposition]] 是你摆出来的命题。
@@ -95,7 +93,7 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[oppose]]：反对（与"提议"形成态度对立：提议↔反对）
 > - [[reject]]：拒绝（与"求婚/提议"形成回应对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **propose a plan/solution**：提出计划/解决方案
 > - **propose to do sth.**：打算做某事
 > - **propose to sb.**：向某人求婚
@@ -136,19 +134,15 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Facing an 8.3-billion-dollar budget deficit this year, closing post offices is one of several proposals the Postal Service has put forth recently to cut costs."（面对今年83亿美元的预算赤字，关闭邮局是邮政服务局最近提出的几项削减成本提案之一。——考研英语阅读真题，propose 相关语境：propose to cut costs 提议削减成本）
 > - "But actually, the country is closer to his proposal than you might think."（但实际上，这个国家比你想的更接近他的提议。——考研英语阅读真题，propose 相关语境）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

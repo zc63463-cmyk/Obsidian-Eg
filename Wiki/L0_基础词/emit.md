@@ -3,14 +3,12 @@ title: "emit"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 向外发送（把东西从内部释放出去）
-extension_dim: 物理-环境-抽象
+extension_dim: [物理-环境-抽象]
 phonetic: "/ɪˈmɪt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外发送**"为统筹中心，沿物理-环境-抽象向外扩展：
 >
 > 1. **向外发送**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > emit 来自拉丁语 *emittere*：e（出）+ mittere（发送）→ 向外发送。太阳 emit 光和热，工厂 emit 烟尘，蜂鸣器 emit 声音——都是从内部向外"送"。mit 词根家族：[[transmit]]（传输 = 跨越发送），[[submit]]（提交 = 从下往上送），[[permit]]（允许 = 让通过），[[emit]]（发出 = 向外送）。记住：emit = e + mit = 向外发送。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[absorb]]：吸收（emit 的精确反义：发出↔吸收）
 > - [[receive]]：接收（emit 的反义：发送↔接收）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **emit light/heat/radiation**：发出光/热/辐射
 > - **emit carbon dioxide/gases**：排放二氧化碳/气体
 > - **emit a sound/cry**：发出声音/叫声
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The factory was fined for emitting excessive amounts of carbon dioxide into the atmosphere."（这家工厂因向大气中排放过量的二氧化碳而被罚款——常见环保英语语料）
 > - "The sun emits light and heat that sustain life on Earth."（太阳发出的光和热维持着地球上的生命——常见科学英语语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

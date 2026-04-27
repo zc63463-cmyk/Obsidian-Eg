@@ -3,14 +3,12 @@ title: "realm"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 王国，领域（国王统治的范围）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/relm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**王国（统治范围）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **王国**（政治层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > realm 源自拉丁语 *regimen*（统治），词根是 reg-（国王）。国王统治的领土就是 realm（王国）。引申为任何"领域"——the realm of science（科学领域）就像科学的"王国"。beyond the realm of possibility（超出可能范围）就是超出了这个"王国"的边界。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （realm 的多义性导致无单一精确反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in the realm of**：在……领域
   - In the realm of politics, different rules sometimes apply.
 - **beyond the realm of possibility**：超出可能范围
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm."（对快速刺激的快速决策并非仅限于人际领域。——2013年考研真题英语二）
 > - "So you can see how being good in the interpersonal realm actually was a direct benefit, even for effectively pursuing a technical task."（所以你可以看到，在人际领域的出色表现实际上是一个直接优势，即使对于有效执行技术任务也是如此。——2013年考研真题英语二）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

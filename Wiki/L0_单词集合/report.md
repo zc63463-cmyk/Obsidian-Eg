@@ -3,14 +3,12 @@ title: "report"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 把信息带回来
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈpɔːt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(回) + [[port|port]](携带、运送) → 把信息带回来 → 报告
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把信息带回来**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **把信息带回来**（行为层面：将所见所闻带回来告诉他人）
@@ -67,7 +65,7 @@ re-(回) + [[port|port]](携带、运送) → 把信息带回来 → 报告
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(回) + [[port|port]](携带、运送) → 把信息带回来 → 报告
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re-(回) + port(携带) → 记者把现场信息带回来 = 报道。与 [[transport]]（trans-穿越 + port-携带 = 运输）同源。
@@ -90,7 +88,7 @@ re-(回) + [[port|port]](携带、运送) → 把信息带回来 → 报告
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ re-(回) + [[port|port]](携带、运送) → 把信息带回来 → 报告
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐瞒（与 report 的"报告"形成反义）
 > - [[suppress]]：压制（与 report 的"报道"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ re-(回) + [[port|port]](携带、运送) → 把信息带回来 → 报告
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **report sth. to sb.**：向某人报告某事
 > - **it is reported that...**：据报道……
 > - **annual report**：年度报告
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "According to the report, the company's profits have increased by 20% this year."（根据报告，该公司今年的利润增长了20%——考研高频表达）
 > - "The committee is expected to report its findings by the end of the month."（委员会预计将在月底前报告其调查结果——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

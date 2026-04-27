@@ -3,14 +3,12 @@ title: "despite"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 尽管；不顾
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dɪˈspaɪt/"
 pos: prep.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ n. ①==**恶意；怨恨**==；
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**虽然有…但仍然**"为统筹中心，沿**抽象路径**向外扩展：
 
@@ -63,7 +61,7 @@ n. ①==**恶意；怨恨**==；
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -74,7 +72,7 @@ n. ①==**恶意；怨恨**==；
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > de（向下）spite（看）着前方的障碍物，不屑一顾地继续前进——despite 就是'尽管有障碍，仍然前行'
@@ -86,7 +84,7 @@ n. ①==**恶意；怨恨**==；
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ n. ①==**恶意；怨恨**==；
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[because of]]：<despite 尽管 vs because of 因为>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -114,27 +112,21 @@ n. ①==**恶意；怨恨**==；
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **despite the fact that**（尽管…事实）：Despite the fact that it was raining, they went out.（尽管下着雨，他们还是出去了。）
 - **despite oneself**（不由自主地）：She laughed despite herself.（她不由自主地笑了。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - Despite the difficulties, they completed the project on time.（尽管有困难，他们还是按时完成了项目。）
 - He succeeded despite all the obstacles.（他克服了一切障碍取得了成功。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

@@ -3,14 +3,12 @@ title: "insurance"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 使确定、使安全的保障
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪnˈʃʊərəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使确定、使安全的保障**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使确定、使安全的保障**（抽象保障层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（使）+ sure（确定/安全）+ ance（名词）→ 使事情变得安全 → 保险
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[risk]]：风险（保险所防范的对象）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **life insurance**：人寿保险
 > - **health insurance**：健康保险
 > - **insurance company**：保险公司
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Even the very phrase jobseeker's allowance is about redefining the unemployed as a jobseeker who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（甚至求职者津贴这个说法也是将失业者重新定义为求职者，而求职者对其通过缴纳国民保险所获得的福利没有基本权利——2014年考研Text 1）
 > - "With the risks obvious and growing, a prudent people would take out an insurance policy now."（随着风险越来越明显且不断增加，一个谨慎的人现在应该购买一份保险——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<尚未产出>
 > **翻译实践**：<尚未产出>

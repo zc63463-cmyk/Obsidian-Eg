@@ -3,17 +3,14 @@ title: "overseas"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 越过海→海外的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌəʊvəˈsiːz/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: sea
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -46,7 +43,7 @@ over-(越过) + sea(海) + -s(副词/形容词标记)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**越过海→海外的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **海外的、国外的**（空间层面——越过海洋的另一边）
@@ -65,7 +62,7 @@ over-(越过) + sea(海) + -s(副词/形容词标记)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ over-(越过) + sea(海) + -s(副词/形容词标记)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over(越过) + sea(海)。古代人漂洋过海，越过大海到达的那一边就是 overseas（海外）。想象郑和下西洋，越过大洋到达的就是"海外"。
@@ -88,7 +85,7 @@ over-(越过) + sea(海) + -s(副词/形容词标记)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ over-(越过) + sea(海) + -s(副词/形容词标记)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[domestic]]：国内的（海外 vs 国内）
 > - [[home]]：国内的、本国的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,27 +113,21 @@ over-(越过) + sea(海) + -s(副词/形容词标记)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overseas markets**：海外市场（Many companies are expanding into overseas markets.）
 > - **overseas students**：留学生
 > - **go overseas**：出国
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "An increasing number of Chinese students choose to pursue their higher education overseas."（越来越多的中国学生选择到海外接受高等教育。）——考研高频表达
 > - "The company is planning to expand its overseas markets to boost its revenue growth."（公司计划拓展海外市场以促进收入增长。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

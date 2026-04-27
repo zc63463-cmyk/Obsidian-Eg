@@ -3,14 +3,12 @@ title: "peaceful"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 和平的，平静的（没有冲突和动荡的状态）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpiːsfl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**和平的，平静的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **和平的**（社会层面）
@@ -69,7 +67,7 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > peace（和平）+ ful（充满）= 充满和平的。联合国追求 peaceful coexistence（和平共处），你周末想要一个 peaceful weekend（宁静的周末），冥想追求的是 peaceful mind（安宁的心境）。peaceful 就是"和平感满溢"。
@@ -91,7 +89,7 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[violent]]：暴力的（peaceful 的反义：和平↔暴力）
 > - [[turbulent]]：动荡的（peaceful 的反义：平静↔动荡）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **peaceful coexistence**：和平共处
 > - **peaceful demonstration**：和平示威
 > - **peaceful solution**：和平解决方案
@@ -134,19 +132,15 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need."（一个神圣的宁静之地，无论多么简陋，都是人类特有的需求，而庇护所则是动物特有的需求。——2013年考研英语翻译）
 > - "One of these urges had to do with creating a state of peace in the midst of turbulence, a still point of the turning world."（这些欲望之一就在于在喧嚣之中创造平静，借用 T. S. Eliot 的话说，就是旋转世界中的一个静止点。——2013年考研英语翻译）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

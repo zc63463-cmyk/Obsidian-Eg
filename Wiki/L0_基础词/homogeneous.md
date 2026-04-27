@@ -3,17 +3,14 @@ title: "homogeneous"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 同一种类的（由相同种类组成的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌhɒməˈdʒiːniəs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: gen
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**同一种类的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **同一种类的**（类别层面）
@@ -64,7 +61,7 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > homo（相同）+ gen（种类）+ eous（的）→ 同一种类的。前缀 homo- 在英语中永远表示"相同"——homosexual（同性恋），homograph（同形异义词）。gen 表示"种类"——[[gen]]us（属/种），[[gen]]eration（世代）。homogeneous = 同种 = 同质的。反义词是 heterogeneous（hetero- = 不同的）。
@@ -86,7 +83,7 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[heterogeneous]]：异质的，不同种类的（homogeneous 的精确反义，hetero- = 不同的）
 > - [[diverse]]：多样的，不同的（homogeneous 的语义反义：同质↔多样）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **homogeneous society**：同质社会
 > - **homogeneous mixture**：均匀混合物
 > - **homogeneous group**：同类群体
@@ -126,19 +123,15 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Japan is often described as a homogeneous society with a strong sense of national identity.（日本常被描述为一个具有强烈民族认同感的同质社会——考研阅读/翻译高频话题）
 > - The researchers found that the sample was not as homogeneous as previously assumed.（研究人员发现样本并不像之前假设的那样均匀——考研学术类阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "conspiracy"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 多人共同呼吸同一口气密谋
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kənˈspɪrəsi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**多人共同呼吸同一口气密谋**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **共同呼吸**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > conspiracy = con（共同）+ spir（呼吸，与 spirit 同源）+ acy（名词后缀）= 共同呼吸 = 密谋。想象几个人把头凑在一起，几乎"呼吸同一口气"，小声商量一个秘密计划——这就是 conspiracy。conspiracy 的本质是"多人秘密合作做不好的事"。conspiracy theory（阴谋论）= 认为有一群人在幕后"呼吸同一口气"控制一切的理论。与 [[inspire]]（激励——往里吹气）、[[expire]]（到期——呼出最后一口气）同族。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[openness]]：公开（conspiracy 的反义：密谋↔公开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conspiracy theory**：阴谋论
 > - **a conspiracy against**：针对……的阴谋
 > - **conspiracy to do sth.**：密谋做某事
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The authorities uncovered a conspiracy to smuggle endangered wildlife products across international borders, involving a network of dealers and corrupt officials."（当局揭露了一个跨国走私濒危野生动物制品的阴谋，涉及一个由经销商和腐败官员组成的网络——考研阅读法律话题相关表达）
 > - "Despite the overwhelming scientific evidence, conspiracy theories about the safety of vaccines continue to circulate on social media platforms."（尽管有压倒性的科学证据，关于疫苗安全性的阴谋论继续在社交媒体平台上传播——考研阅读科学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

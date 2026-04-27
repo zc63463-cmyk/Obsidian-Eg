@@ -3,14 +3,12 @@ title: "interfere"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 在……之间打击
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌɪntərˈfɪr/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在……之间打击**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在……之间打击**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inter（在……之间）+ fere（打击）→ 在别人之间"打"进去 → 干涉。两个国家在谈判，第三国"打"进去——interfere in their negotiation。你在专心学习，手机响了"打"断了你的思路——interfere with your study。两个无线信号"打"在一起——signal interference（信号干扰）。interfere 的精髓就是"闯入"——闯入别人的事务、闯入别人的专注、闯入别人的信号。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[assist]]：协助（interfere 的反义：妨碍↔协助）
 > - [[facilitate]]：促进（interfere with 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **interfere in**：干涉，介入（某事）
 > - **interfere with**：妨碍，打扰（某事/某人）
 > - **interfere with one's sleep/work**：妨碍某人的睡眠/工作
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Parents should not interfere in their children's career choices."（父母不应干涉子女的职业选择）
 > - "Noise from the construction site interfered with the students' ability to concentrate."（工地的噪音妨碍了学生集中注意力）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

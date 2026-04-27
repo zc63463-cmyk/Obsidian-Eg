@@ -3,14 +3,12 @@ title: "alphabet"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 字母A和B（前两个字母代表全部）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈælfəbet/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ alpha（希腊语第一个字母）+ bet（=beta，希腊语第二个字母）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**字母A和B**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **字母A和B**（符号层面）
@@ -66,7 +64,7 @@ alpha（希腊语第一个字母）+ bet（=beta，希腊语第二个字母）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ alpha（希腊语第一个字母）+ bet（=beta，希腊语第二个字母）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > alpha（希腊字母第1个 A）+ beta（希腊字母第2个 B）→ alphabet = AB = 字母表。就像中文用"甲乙丙丁"代表全部一样，希腊人用 alpha + beta 代表整个字母系统。2004年考研有一篇经典文章讲 alphabetism（字母歧视）——按姓氏首字母排序造成的不公平。
@@ -88,7 +86,7 @@ alpha（希腊语第一个字母）+ bet（=beta，希腊语第二个字母）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ alpha（希腊语第一个字母）+ bet（=beta，希腊语第二个字母）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （alphabet 作为基础系统，无精确反义词）
 > - [[illiteracy]]：文盲（alphabet 的功能反义：掌握字母↔不识字）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,23 @@ alpha（希腊语第一个字母）+ bet（=beta，希腊语第二个字母）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **alphabetically**：按字母顺序地
 > - **the Roman/Latin alphabet**：罗马/拉丁字母表
 > - **alphabet soup**：字母汤（比喻复杂难懂的缩写词）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories."（人们早就知道，当顾客翻阅电话簿时，名叫AAAA汽车公司的要比名叫Zodiac汽车公司的有更大的优势——2004年英语一Text 2，alphabetism 的经典出处）
 > - "English names are fairly evenly spread between the halves of the alphabet. Yet a suspiciously large number of top people have surnames beginning with letters between A and K."（英文名字在字母表的两半部分之间分布相当均匀。然而，令人生疑的是，很多顶尖人物的姓氏首字母都在A到K之间——2004年英语一Text 2）
 > - "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically."（求职面试的入围名单、选举投票纸、会议发言者和与会者名单：所有这些都倾向于按字母顺序排列——2004年英语一Text 2）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

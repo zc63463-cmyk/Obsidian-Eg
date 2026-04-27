@@ -3,14 +3,12 @@ title: "output"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 产出，输出
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈaʊtpʊt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ out(向外) + put(放/放置) → "向外放出"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**产出**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **产出**（生产层面：生产过程的结果）
@@ -65,7 +63,7 @@ out(向外) + put(放/放置) → "向外放出"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ out(向外) + put(放/放置) → "向外放出"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个工厂的传送带，原材料从一端进去，成品从另一端 out(向外) put(放)出来——这些成品就是工厂的 **output**（产量）。
@@ -88,7 +86,7 @@ out(向外) + put(放/放置) → "向外放出"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ out(向外) + put(放/放置) → "向外放出"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[input]]：输入——与输出相对
 > - [[consumption]]：消耗——与产出相对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,27 +117,21 @@ out(向外) + put(放/放置) → "向外放出"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **annual output**：The factory's annual output has increased by 20% compared to last year.
 > - **power output**：The engine's power output is measured in horsepower.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The factory has increased its output by 20% this year."（工厂今年的产量增加了20%。）——考研高频表达
 > - "The research output of the university has declined in recent years."（该大学的研究产出近年来有所下降。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

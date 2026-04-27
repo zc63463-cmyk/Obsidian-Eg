@@ -3,17 +3,14 @@ title: "artifact"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 人工制品（用技艺制作出来的东西）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɑːtɪfækt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: art
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**人工制品（用技艺制作出来的东西）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **人工制品**（物品层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > artifact = art（技艺）+ fact（制作）。用技艺制作出来的东西就是 artifact。考古学家在遗址中发现的陶器、工具、武器都是 artifact。在医学影像中，仪器产生的伪影也叫 artifact——因为它不是身体自然的信号，而是"人工制造"的干扰。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[natural object]]：自然物（artifact 的反义：人工制品↔自然物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ancient artifact**：古代人工制品
 > - **cultural artifact**：文化遗物
 > - **experimental artifact**：实验假象
@@ -123,19 +120,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The museum displays artifacts dating back to the Bronze Age."（博物馆展出可追溯到青铜时代的文物）
 > - "Researchers must distinguish genuine signals from experimental artifacts."（研究人员必须区分真实信号和实验假象）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

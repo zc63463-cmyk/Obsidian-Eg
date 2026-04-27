@@ -3,17 +3,14 @@ title: "anonymous"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: [anonymously]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 没有名字的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈnɒnɪməs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: onym
 network_activation: [词根笔记, 同义辨析, 反义词群, 形近词群]
 last_review: 2026-04-22
@@ -46,7 +43,7 @@ an-(无，没有) + [[onym]](名字) + -ous(形容词后缀，充满...的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**没有名字的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **没有名字的**（信息层面：姓名缺失）
@@ -68,7 +65,7 @@ an-(无，没有) + [[onym]](名字) + -ous(形容词后缀，充满...的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ an-(无，没有) + [[onym]](名字) + -ous(形容词后缀，充满...的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 没有（an-）名字（onym）的人走在街上，谁也认不出他——他就是anonymous（匿名的）。
@@ -90,7 +87,7 @@ an-(无，没有) + [[onym]](名字) + -ous(形容词后缀，充满...的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ an-(无，没有) + [[onym]](名字) + -ous(形容词后缀，充满...的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[identified]]：anonymous是匿名的，identified是身份已确认的
 > - [[named]]：anonymous是无名的，named是有名的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +114,21 @@ an-(无，没有) + [[onym]](名字) + -ous(形容词后缀，充满...的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **anonymous donor**：匿名捐赠者（The hospital received a large gift from an anonymous donor.）
 > - **remain anonymous**：保持匿名（The whistleblower chose to remain anonymous.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The donation was made by an anonymous benefactor."（这笔捐款是由一位匿名捐赠者提供的。）——考研高频表达
 > - "The author of the report wishes to remain anonymous."（该报告的作者希望保持匿名。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

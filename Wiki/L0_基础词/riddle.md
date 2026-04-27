@@ -3,14 +3,12 @@ title: "riddle"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 筛子（用来筛分东西的工具）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈrɪdl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**筛子**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **筛子**（物理工具层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > riddle 本义是"筛子"——用筛子筛麦子，好的留下，坏的漏掉。谜语也是一种"筛子"——聪明的答案留下，愚蠢的答案漏掉。The riddle of the Sphinx（斯芬克斯之谜）。be riddled with bullets（布满弹孔）——像被筛子筛过一样全是洞。记住：riddle = 筛子 = 谜语 = 布满。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[answer]]：答案（riddle 是谜语，answer 是答案）
 > - [[solution]]：解答（riddle 是谜题，solution 是解答）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **solve a riddle**：解谜
 > - **be riddled with**：充斥着，布满
 > - **the riddle of the universe**：宇宙之谜
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The document was riddled with errors and inconsistencies."（这份文件充满了错误和前后矛盾之处。）
 > - "The origin of the universe remains one of the greatest riddles of science."（宇宙的起源仍然是科学界最大的谜题之一。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

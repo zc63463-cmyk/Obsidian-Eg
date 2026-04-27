@@ -3,14 +3,12 @@ title: "puff"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 噗（一口气突然喷出的声音）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/pʌf/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**噗（一口气突然喷出的声音和动作）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **噗**（声音/动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > puff 是拟声词，模仿"噗"的喷气声。想象你爬完楼梯，弯着腰"噗、噗、噗"地喘气——这就是 puff。老爷爷抽烟斗时"噗"地喷出一口烟——a puff of smoke。一个骄傲的人就像被自己的气吹膨胀了——puffed up with pride。泡芙（puff）也是一种被"吹"起来的食物。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deflate]]：泄气，使瘪（puff 的反义：膨胀↔泄气）
 > - [[shrink]]：收缩，缩小（puff 的反义：鼓起↔收缩）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **puff and pant**：气喘吁吁
 > - **a puff of smoke**：一阵烟
 > - **puff up**：膨胀，肿胀
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was puffing and panting after running up the stairs."（他跑上楼梯后气喘吁吁——常见文学表达）
 > - "She puffed at her cigarette nervously."（她紧张地抽着烟——考研阅读常见搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

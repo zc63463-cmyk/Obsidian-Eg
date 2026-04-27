@@ -3,14 +3,12 @@ title: "queue"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 排队（按顺序排列等待的人群或数据）
-extension_dim: 顺序路径
+extension_dim: [顺序路径]
 phonetic: "/kjuː/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**排队（按顺序排列等待的人群或数据）**"为统筹中心，沿顺序路径向外扩展：
 >
 > 1. **按顺序排列**（秩序层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > queue 来自法语 *queue*（尾巴），拉丁语 *coda*。想象一条动物的尾巴——一节一节地排列。人们排队时就像一条尾巴，一个接一个。在计算机中，queue 是一种数据结构——先进先出（FIFO），就像在超市排队一样，先来的人先被服务。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （queue 作为行为概念，无精确反义词）
 > - [[crowd]]：拥挤，人群（queue 的反义：有序排队↔无序拥挤）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stand in a queue**：排队站
 > - **queue up**：排队等候
 > - **queue for tickets**：排队买票
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The father's voice quivered as he remembered his son."（父亲回忆起儿子时，声音颤抖了。——Huffington Post）
 > - "Her voice, which had been previously smooth and clear, now quivered and quaked with every sentence."（她原本平滑清晰的声音，现在每说一句话都在颤抖和摇晃。——CNN）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "greenhouse"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 绿色的房子（用玻璃建造的温室）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈɡriːnhaʊs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绿色的房子**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **绿色的房子**（物理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > green（绿色）+ house（房子）→ 温室。温室里满是绿色植物，所以叫 greenhouse。greenhouse effect 是"温室效应"——地球被大气层包裹，像被放在一个温室里，太阳热量进得来出不去，导致全球变暖。greenhouse gases（温室气体）如 CO2 就是"温室的玻璃"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - greenhouse 作为建筑没有精确反义词，但在隐喻层面：
 > - [[open field]]：露天（greenhouse 的反义：温室↔露天）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **greenhouse effect**：温室效应
 > - **greenhouse gases/emissions**：温室气体/排放
 > - **greenhouse cultivation**：温室栽培
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The greenhouse effect is causing global temperatures to rise at an alarming rate."（温室效应正导致全球气温以惊人的速度上升）
 > - "Reducing greenhouse gas emissions is essential to combating climate change."（减少温室气体排放对于应对气候变化至关重要）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

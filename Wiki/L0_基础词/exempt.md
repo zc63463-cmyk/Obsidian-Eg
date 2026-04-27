@@ -3,14 +3,12 @@ title: "exempt"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 从重量中释放
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪɡˈzempt/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ ex-(出、离开) + empt(拿取，拉丁语 *emere* 的过去分词 *emptus*) �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从重量中释放**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **从重量中释放**（社会层面）
@@ -65,7 +63,7 @@ ex-(出、离开) + empt(拿取，拉丁语 *emere* 的过去分词 *emptus*) �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ex-(出、离开) + empt(拿取，拉丁语 *emere* 的过去分词 *emptus*) �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > exempt = ex（离开）+ empt（拿取）。想象所有人都被要求交税（被拿取），你因为某种特殊身份"从拿取中离开"（exempt）→ 你被免税了。与 [[example]]（ex + ample 拿出来→例子）、[[exempt]]（ex + empt 不被拿→免除）同源。
@@ -88,7 +86,7 @@ ex-(出、离开) + empt(拿取，拉丁语 *emere* 的过去分词 *emptus*) �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ex-(出、离开) + empt(拿取，拉丁语 *emere* 的过去分词 *emptus*) �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subject]]：使服从，使遭受（exempt 的反义：豁免↔服从）
 > - [[liable]]：有责任的（exempt 的反义：免除↔有责任）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ ex-(出、离开) + empt(拿取，拉丁语 *emere* 的过去分词 *emptus*) �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exempt from**：免除……
 > - **tax-exempt**：免税的
 > - **exempt sb. from**：免除某人的……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Charitable organizations are exempt from taxation."（慈善机构免税。）
 > - "Students may be exempt from certain exams if they have high enough grades."（成绩足够高的学生可以免考某些科目。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

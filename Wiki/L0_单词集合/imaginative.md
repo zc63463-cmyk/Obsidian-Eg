@@ -3,14 +3,12 @@ title: "imaginative"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 充满想象力的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈmædʒɪnətɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充满想象力的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **充满想象力的**（能力评价层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 记住一个关键区分：[[imaginary]] 是"假的"（事物只存在于想象中），[[imaginative]] 是"有创意的"（人或作品充满想象力）。一个 imaginative 的作家能写出让你身临其境的故事，而故事里的角色可能是 imaginary 的（虚构的）。imaginative = imagine + -ative（有……倾向的）→ 有想象倾向的 → 富有想象力的。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unimaginative]]：缺乏想象力的（imaginative 的直接反义：没有创意的）
 > - [[conventional]]：传统的，因循守旧的（从创新到守旧）
 > - [[dull]]：乏味的，单调的（从丰富想象到毫无新意）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **imaginative writer/designer**：富有想象力的作家/设计师
 > - **imaginative solution/approach**：富有创意的解决方案/方法
 > - **imaginative use of sth**：对某物的创造性运用
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She is one of the most imaginative writers of her generation."（她是她那一代最具想象力的作家之一）——文学评论常见表达
 > - "The company needs an imaginative approach to solve this problem."（公司需要一种富有创意的方法来解决这个问题）——商业类阅读语境
 > - "an imaginative use of technology"（对技术的创造性运用）——科技类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "porter"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 搬运东西的人（搬运工）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈpɔːtə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**搬运东西的人**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **搬运东西**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > porter = port（搬运）+ -er（做……的人）= 搬运工。核心画面是"搬运东西的人"。想象火车站上帮你提行李的工人——他就是 porter。porter 还可以指酒店的"门房"，因为门房站在门口（porta = 门），而门口也是行李进出的地方。注意 porter 的双重词源：搬运工来自 portare（搬运），门房来自 porta（门），两个词源在英语中合二为一。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （porter 作为职业名词，无明显反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the porter carried**：搬运工搬运
 > - **hotel porter**：酒店门房
 > - **train porter**：列车搬运工
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The hotel porter escorted the guests to their rooms and helped with their heavy luggage."（酒店门房引导客人到房间，并帮忙搬运行李——考研阅读服务话题相关表达）
 > - "In the early 20th century, porters at major railway stations were an essential part of the travel experience."（在20世纪初，主要火车站的搬运工是旅行体验中不可或缺的一部分——考研阅读历史话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "application"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 将某物施加到另一物上的行为
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌæplɪˈkeɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**将某物施加到另一物上的行为**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **将某物施加到另一物上的行为**（抽象层面）
@@ -68,7 +66,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > apply 是"施加"，application 就是"施加的行为"。想象你在做三件事：把科学理论"施加"到工程实践中（应用），把自己"施加"到心仪大学的录取流程中（申请），把防晒霜"施加"到皮肤上（涂抹）。三件事的本质都是"把A施加到B上"，这就是 application。
@@ -91,7 +89,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rejection]]：拒绝，驳回（申请↔拒绝）
 > - [[theory]]：理论（应用↔理论，theory vs application）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **job application**：求职申请（She submitted her job application online.）
 > - **practical application**：实际应用（The theory has found practical application in engineering.）
 > - **submit an application**：提交申请（You must submit your application before the deadline.）
@@ -133,21 +131,15 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The practical application of scientific knowledge is what drives technological innovation."（科学知识的实际应用是推动技术创新的动力。）——考研高频表达
 > - "The number of applications for the graduate program has increased significantly this year."（今年研究生项目的申请数量大幅增加。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

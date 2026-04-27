@@ -3,14 +3,12 @@ title: "mind"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 思考的能力（心智/头脑）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/maɪnd/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**思考的能力**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **思考的能力**（认知层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自古英语 gemynd（思考、记忆），与 think 同源。人脑最核心的功能就是"思考"——这就是 mind。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[body]]：身体 ↔ mind 头脑/心智
 > - [[matter]]：物质 ↔ mind 精神
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bear/keep in mind**：记住，牢记（Bear in mind that the deadline is next Friday. 请记住截止日期是下周五。）
 > - **make up one's mind**：下定决心（She finally made up her mind to quit her job. 她最终下定决心辞职。）
 > - **change one's mind**：改变主意（He changed his mind about going abroad. 他改变了出国的想法。）
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Bear in mind that the results of this study may not be applicable to all situations."（请记住，本研究的结论可能不适用于所有情况。）——考研高频表达
 > - "Would you mind closing the window? It's rather cold in here."（你介意关上窗户吗？这里相当冷。）——考研高频表达
 > - "She changed her mind about pursuing a career in law and decided to study medicine instead."（她改变了从事法律职业的想法，转而决定学医。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

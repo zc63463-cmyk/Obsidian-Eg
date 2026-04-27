@@ -3,14 +3,12 @@ title: "feather"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 羽毛
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈfeðə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**羽毛**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **羽毛**（物理层面）
@@ -67,7 +65,7 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > feather 就是羽毛。The feather floated lightly in the air——羽毛轻盈地飘在空中。Birds of a feather flock together——同一种羽毛的鸟飞在一起（物以类聚）。ruffle someone's feathers——惹恼某人（弄乱别人的羽毛）。
@@ -90,7 +88,7 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （feather 作为自然物无直接反义词）
 > - [[fur]]：毛皮（羽毛↔毛皮，鸟类↔哺乳动物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **birds of a feather flock together**：物以类聚，人以群分
 > - **as light as a feather**：轻如鸿毛
 > - **ruffle someone's feathers**：惹恼某人
@@ -132,19 +130,15 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The cushion split open and sent feathers everywhere."（垫子撕破了，羽毛掉得到处都是——考研文学类阅读语料）
 > - "Other feathers on a bird do not exhibit obvious modification for flight."（鸟身上其他羽毛并没有表现出明显的飞行适应性变化——考研科普类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

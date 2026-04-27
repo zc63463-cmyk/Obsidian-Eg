@@ -3,14 +3,12 @@ title: "choice"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 品尝、辨别
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/tʃɔɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ choic-/chois-(品尝、辨别，与 [[choose]] 同源) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**品尝、辨别**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **品尝、辨别**（感知层面：通过体验来区分好坏）
@@ -67,7 +65,7 @@ choic-/chois-(品尝、辨别，与 [[choose]] 同源) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ choic-/chois-(品尝、辨别，与 [[choose]] 同源) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > choice 源自"品尝"——古人通过品尝来辨别好坏，选出最好的，就是"选择"。
@@ -91,7 +89,7 @@ choic-/chois-(品尝、辨别，与 [[choose]] 同源) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ choic-/chois-(品尝、辨别，与 [[choose]] 同源) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[compulsion]]：强迫（选择的反面——被迫而非自愿）
 > - [[rejection]]：拒绝（选择的反面——不选）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ choic-/chois-(品尝、辨别，与 [[choose]] 同源) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make a choice**：做出选择（She had to make a difficult choice.）
 > - **have no choice but to**：别无选择只能（We have no choice but to accept the offer.）
 > - **of choice**：首选的（Yoga is my exercise of choice.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In many societies, children still marry someone of their parents' choice."（在许多社会中，子女结婚仍然只能听从父母之命。）——考研高频表达
 > - "Either way, we have choices about how we respond to it when it comes."（无论哪种方式，当问题来临时，我们都有选择如何应对的自由。）——考研真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

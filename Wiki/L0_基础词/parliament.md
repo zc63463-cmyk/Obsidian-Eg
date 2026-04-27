@@ -3,17 +3,14 @@ title: "parliament"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 说话讨论的地方（人们聚集在一起讨论事务的场所）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpɑːrləmənt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: parl
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**说话讨论的地方**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **说话讨论的地方（政治层面）**
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > parliament 来自法语 parler（说话）。议会就是一个让各方"说话"的地方——代表们聚集在一起，通过"讨论"来制定法律。英国议会（Parliament）是世界上最古老的立法机构之一，由上议院（House of Lords）和下议院（House of Commons）组成。注意 parliament 中的 -ia- 是连接元音，-ment 是名词后缀。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词，parliament 的核心是"立法讨论"，反义概念为"独裁/专制"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the British Parliament**：英国议会
 > - **Members of Parliament (MPs)**：国会议员
 > - **parliamentary debate**：议会辩论
@@ -123,19 +120,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The British Parliament consists of two houses: the House of Lords and the House of Commons."（英国议会由两院组成：上议院和下议院——考研阅读政治/法律话题相关表达）
 > - "Its lawmakers gave preliminary approval last week to a law that would make it a crime to employ ultra-thin models on runways."（其立法者上周初步通过了一项法规，规定雇佣极瘦模特走T台是犯罪行为——2016年考研英语阅读Text 1，涉及议会立法）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "arrive"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 走到岸边靠岸停泊
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈraɪv/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走到岸边靠岸停泊**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **船靠岸**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > arrive = ad（朝向）+ rive（河岸，与 river 同源）= 朝向岸边走 = 靠岸。想象一艘船在海上漂泊了数周，水手们终于看到陆地，船驶向岸边靠岸——这就是 arrive。后来从"船靠岸"延伸到"人到达"（arrive at the airport），"时间到来"（the time has arrived），以及"得出结论"（arrive at a conclusion = 思考靠岸了）。arrive 的本质始终是"经过旅程后到达终点"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[depart]]：出发（arrive 的反义：到达↔出发）
 > - [[leave]]：离开（arrive 的反义：到达↔离开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **arrive at**：到达（小地点）；得出（结论）
 > - **arrive in**：到达（大地点，如城市、国家）
 > - **arrive at a conclusion/agreement**：得出结论/达成协议
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When the first European settlers arrived in the Americas, they encountered civilizations that had been thriving for thousands of years."（当第一批欧洲定居者到达美洲时，他们遇到了已经繁荣了数千年的文明——考研阅读历史话题相关表达）
 > - "After months of negotiation, the two parties finally arrived at an agreement that satisfied both sides' core demands."（经过数月的谈判，双方终于达成了一项满足双方核心要求的协议——考研阅读政治话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

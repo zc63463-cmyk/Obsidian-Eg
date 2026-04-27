@@ -3,14 +3,12 @@ title: "fuel"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 可燃烧的物质（提供能量的材料）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈfjuːəl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可燃烧的物质（提供能量的材料）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **可燃烧的物质**（物理层面）
@@ -69,7 +67,7 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fuel 原义是"壁炉里燃烧的木柴"。想象冬天你往壁炉里添柴——这些木柴就是 fuel，它们为壁炉提供热量。汽车需要 fuel 才能跑，争论需要 fuel 才能持续。fuel 的核心就是"提供能量"：给机器加油是 fuel a car，给争论"加油"是 fuel the debate——都是为某物提供持续运转的动力。
@@ -92,7 +90,7 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[exhaust]]：耗尽，排空（fuel 的反义：提供燃料↔耗尽燃料）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fossil fuel**：化石燃料（常考）
 > - **fuel the debate/controversy**：加剧争论/争议
 > - **fuel economic growth**：推动经济增长
@@ -131,19 +129,15 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government is trying to reduce the country's dependence on fossil fuels."（政府正试图减少国家对化石燃料的依赖——考研高频表达）
 > - "Rising prices fueled public anger and led to widespread protests."（物价上涨激起了公众的愤怒，导致了广泛的抗议）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

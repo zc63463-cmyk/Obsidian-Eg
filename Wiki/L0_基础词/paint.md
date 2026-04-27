@@ -3,14 +3,12 @@ title: "paint"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 用色彩涂抹表面（绘画、上色的动作）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/peɪnt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用色彩涂抹表面**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **涂抹色彩**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > paint 的核心画面是"用色彩涂抹表面"。拉丁语 *pingere* = 绘画。paint the wall = 刷墙；paint a picture = 画一幅画；paint a grim picture = 描绘一幅暗淡的画面（用语言"画"）。paint 的核心逻辑是"用色彩覆盖"。同源词：[[picture]]（图片）、[[depict]]（描绘）、[[pigment]]（颜料）都来自同一个拉丁语词根 *pingere*。注意 paint 和 [[pain]]（痛苦）形近但词源完全不同。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（绘画/涂色无天然反义概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **paint a picture**：画一幅画
 > - **paint the wall**：刷墙
 > - **wet paint**：油漆未干
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The report paints a grim picture of the current state of the environment, warning that urgent action is needed to prevent irreversible damage."（报告描绘了当前环境状况的暗淡画面，警告说需要紧急行动以防止不可逆转的损害——考研阅读环境话题）
 > - "The artist spent years painting landscapes that captured the beauty and tranquility of the countryside."（这位艺术家花了数年时间绘画风景画，捕捉了乡村的美丽与宁静——考研翻译文化话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

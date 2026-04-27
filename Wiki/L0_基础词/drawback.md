@@ -3,14 +3,12 @@ title: "drawback"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 拉回来的东西（阻碍前进的因素）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈdrɔːbæk/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉回来的东西**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **拉回来的东西**（空间层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drawback = draw（拉）+ back（回来）。想象你在推进一个项目，但有个东西一直在拉你后腿——那个拉你后腿的东西就是 drawback（缺点）。每个方案都有 drawback，就像每条船都有 drawback（吃水线以下的船体）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[advantage]]：优势，有利条件（drawback 缺点↔advantage 优势）
 > - [[benefit]]：益处（drawback 不利因素↔benefit 益处）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the main/major drawback**：主要缺点（The main drawback of this plan is its cost. 这个计划的主要缺点是成本高。）
 > - **a drawback to/of**：……的缺点（There are several drawbacks to living in a big city. 住在大城市有几个缺点。）
 > - **overcome a drawback**：克服缺点
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The main drawback of the new technology is its high cost."（这项新技术的主要缺点是成本高。）
 > - "One drawback of online learning is the lack of face-to-face interaction."（在线学习的一个缺点是缺乏面对面交流。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

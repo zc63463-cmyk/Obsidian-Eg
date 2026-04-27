@@ -3,17 +3,14 @@ title: "mutter"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 低声含糊地说（介于沉默和说话之间的声音）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmʌtər/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: mut
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**低声含糊地说**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **低声含糊地说**（发声层面）
@@ -65,7 +62,7 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mut（沉默/含糊）+ ter → mutter。mutter 是 mute（沉默）的"近亲"——不是完全沉默，而是含糊地低声说。He muttered something under his breath.（他低声嘟囔了些什么。）被老板骂了之后 mutter complaints（低声抱怨）。mutter 的画面：一个人皱着眉，嘴唇微动，声音小到只有自己能听见。
@@ -88,7 +85,7 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[shout]]：大喊（mutter 的反义：低声嘀咕↔大声喊叫）
 > - [[declare]]：公开声明（mutter 的反义：小声嘀咕↔公开宣告）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mutter to oneself**：自言自语地嘟囔
 > - **mutter about/under one's breath**：低声抱怨/嘀咕
 > - **mutter an apology**：低声道歉
@@ -126,19 +123,15 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He muttered something under his breath that I couldn't quite catch."（他低声嘟囔了些什么，我没太听清——考研阅读常见表达）
 > - "The employees muttered about the new policy but dared not protest openly."（员工们对新政策低声抱怨，但不敢公开抗议）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

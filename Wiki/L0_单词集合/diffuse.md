@@ -3,14 +3,12 @@ title: "diffuse"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 向四面八方散开
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/dɪˈfjuːz/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向四面八方散开**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向四面八方散开**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dif（分散）+ fuse（倾倒）= 向四面八方倾倒。想象你把一桶水往地上**倒**，水向四面八方**散开**——这就是 diffuse。阳光穿过云层变得柔和，叫 diffuse light（漫射光）；知识从学者传播到大众，叫 diffuse knowledge（传播知识）；一篇文章东拉西扯没有重点，也是 diffuse（冗长的）——因为内容"散"得太开了。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[concentrate]]：集中（diffuse 的直接反义：扩散↔集中）
 > - [[condense]]：浓缩（diffuse 的反义：散开↔浓缩）
 > - [[compact]]：紧凑的（diffuse adj. "冗长的"的反义：散漫↔紧凑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **diffuse knowledge**：传播知识
   - *The Internet has made it easier to diffuse knowledge across the globe.*（互联网使知识在全球范围内的传播变得更加容易。）
 > - **diffuse light**：漫射光，柔和的光
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "diffuse knowledge/information"（传播知识/信息）——考研阅读中科技传播类话题常见搭配
 > - "diffuse light"（漫射光）——考研阅读中自然科学类文章可能涉及
 > - "diffuse tension/conflict"（缓和紧张/冲突）——考研阅读中政治社会类文章常见搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

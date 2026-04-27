@@ -3,17 +3,14 @@ title: "namely"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 按名字地、即（用名称来指定）
-extension_dim: 逻辑路径
+extension_dim: [逻辑路径]
 phonetic: "/ˈneɪmli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: name
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**按名字地、即**"为统筹中心，沿逻辑路径向外扩展：
 >
 > 1. **按名字指定**（逻辑层面）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > namely = name（名字）+ -ly（以……方式）= 按名字地 = 即。当你用 namely 时，你是在用"名字"来具体指定前面提到的内容。Three students were praised, namely Tom, Dick and Harry（三个学生受到表扬，即汤姆、迪克和哈利）。namely 就是"从泛指到具体"的桥梁。与 [[name]]（名字）同根。
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[broadly]]：广义上地（namely 具体指定的反义：具体↔广义）
 > - [[generally]]：一般地（namely 具体指定的反义：具体↔一般）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +115,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **namely**：即，也就是（独立使用，后接具体内容）
 > - **that is to say, namely...**：也就是说，即……
 > - 常见句式：**..., namely X, Y and Z.**（……，即X、Y和Z。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has introduced several measures to combat climate change, namely a carbon tax, subsidies for renewable energy, and stricter emission standards."（政府已出台多项应对气候变化的措施，即碳税、可再生能源补贴以及更严格的排放标准——考研阅读环保政策话题相关表达）
 > - "There are two fundamental problems with this approach, namely its high cost and its limited scalability."（这种方法存在两个根本问题，即成本高昂和可扩展性有限——考研翻译学术论证话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

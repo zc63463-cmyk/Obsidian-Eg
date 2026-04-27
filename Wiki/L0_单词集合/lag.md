@@ -3,14 +3,12 @@ title: "lag"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 掉队→落后
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/læɡ/"
 pos: vi.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**掉队→落后**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **掉队，落后**（物理/空间层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lag = 落在后面。想象你和朋友一起跑步，你越跑越慢，**掉队了**——这就是 lag（落后）。坐飞机跨越时区后，你的生物钟"落在后面"，白天犯困、晚上清醒——这就是 jet lag（时差）。记住 lag = 落在后面，无论是跑步、发展还是时间。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lead]]：领先（lag 的精确反义：落后↔领先）
 > - [[advance]]：前进，提前（落后↔前进）
 > - [[overtake]]：超越（落后↔超越）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lag behind**：落后于
 > - **jet lag**：时差反应
 > - **time lag**：时间差，时间滞后
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Some countries lag behind in technological development."（一些国家在技术发展上落后）——考研常见表达
 > - "There is a time lag between the cause and the effect."（原因和结果之间存在时间差）——学术语境
 > - "I'm still suffering from jet lag after the flight from Beijing to New York."（从北京飞到纽约后我仍在受时差困扰）——生活语境
@@ -140,15 +138,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

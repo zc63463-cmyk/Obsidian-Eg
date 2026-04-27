@@ -3,14 +3,12 @@ title: "strenuous"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 需要大量体力的、令人筋疲力尽的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈstrenjuəs/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**需要大量体力的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **需要大量体力的**（身体层面）
@@ -65,7 +63,7 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象跑完一场马拉松，双腿发软、大汗淋漓——这种"把体力全部耗尽"的体验就是 strenuous。不只是体力，一个律师在法庭上奋力辩护（strenuous defense），也是在"耗尽全部精力"。记住：strenuous = stren（力量/strength）+ ous（充满）= 充满力量消耗的 = 费力的。
@@ -88,7 +86,7 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[easy]]：容易的，轻松的（strenuous 的精确反义：费力↔轻松）
 > - [[effortless]]：不费力的（强调毫不费力）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **strenuous exercise**：剧烈运动
 > - **strenuous efforts**：艰苦的努力
 > - **strenuous opposition**：强烈的反对
@@ -127,20 +125,14 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He made strenuous efforts to improve his reading."（他奋发努力提高阅读能力。）——考研高频表达
 > - "It was strenuous work, but it succeeded in the end."（这是繁重的工作，但最终成功了。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

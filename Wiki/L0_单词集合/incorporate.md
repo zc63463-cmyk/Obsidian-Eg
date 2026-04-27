@@ -3,14 +3,12 @@ title: "incorporate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 将某物纳入一个整体中
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈkɔːpəreɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**纳入整体**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **纳入整体**（物理层面：把某物放进一个整体中）
@@ -63,7 +61,7 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你在做蛋糕，把巧克力碎片 **in**（放进）蛋糕的 **corpor**（身体）里，这就是 **incorporate**——合并、纳入。
@@ -86,7 +84,7 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[exclude]]：将某物排除在整体之外，与 incorporate 的"纳入"恰好相反
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **incorporate sth into/within sth**：将……纳入……
   - The government incorporated environmental protection into its development plan.（政府将环境保护纳入其发展计划。）
 > - **incorporated company**：注册公司
@@ -124,21 +122,15 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - We need to incorporate new technology into our existing system.（我们需要将新技术纳入现有系统。）
 > - The new findings have been incorporated into the revised edition.（新发现已被纳入修订版。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

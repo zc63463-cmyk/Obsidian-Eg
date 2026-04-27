@@ -3,14 +3,12 @@ title: "tuition"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 看护/监护（注视并守护学生的学习）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/tjuˈɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**看护/监护学习**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **看护学习**（行为层面）
@@ -64,7 +62,7 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 tueri 意为"看护、守护"。[[tutor]]（导师）就是"看护你的人"，tuition 就是他提供的"看护教学服务"。你付给 tutor 的钱就是 tuition（学费）。从"看护"到"教学"再到"学费"，一脉相承。
@@ -86,7 +84,7 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[scholarship]]：奖学金（tuition 是要交的学费，scholarship 是获得的奖学金）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tuition fees**：学费（考研高频搭配）
 > - **private tuition**：私人辅导
 > - **pay tuition**：交学费
@@ -123,19 +121,15 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The cost of tuition has risen sharply over the past decade."（过去十年间学费急剧上涨。——考研高频话题）
 > - "Many students rely on loans to cover their tuition fees."（许多学生依靠贷款来支付学费。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

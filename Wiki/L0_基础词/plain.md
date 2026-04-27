@@ -3,14 +3,12 @@ title: "plain"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 平坦的（没有起伏的表面）
-extension_dim: 感知路径
+extension_dim: [感知路径]
 phonetic: "/pleɪn/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**平坦的（没有起伏的表面）**"为统筹中心，沿感知路径向外扩展：
 >
 > 1. **没有起伏的表面**
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > plain 来自拉丁语 *planus*（平坦的）。平坦的地面叫 plain（平原），平坦的语言叫 plain English（通俗易懂的英语），朴素的食物叫 plain food（没有调味的食物）。plain 就是"平坦的"——从物理到抽象。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mountainous]]：多山的（plain 作为"平原"的反义：平原↔山地）
 > - [[fancy]]：华丽的（plain 作为"朴素的"的反义：朴素↔华丽）
 > - [[obscure]]：模糊的（plain 作为"清楚的"的反义：清楚↔模糊）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **plain English**：通俗易懂的英语
 > - **make oneself plain**：把话说清楚
 > - **plain clothes**：便衣，朴素衣服
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is a plain fact that someone made a mistake."（有人犯了错误，这是明摆着的事实。——English Lab Japan 语料库）
 > - "The poem was too plain; it would have been better if the poet had not stated its meaning so explicitly."（这首诗太直白了；如果诗人没有如此明确地表达其含义，效果会更好。——English Maven 高级完形填空）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

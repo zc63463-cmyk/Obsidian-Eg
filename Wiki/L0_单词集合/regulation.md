@@ -3,14 +3,12 @@ title: "regulation"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 管理的行为或规则
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌreɡjuˈleɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**管理的行为或规则**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **管理的行为**（行为层面：对某事物进行管理控制）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > regulate(管理) + -ion(名词) → 管理的行为产生的规则 = 规章。与 [[regular]]、[[regulate]]、[[region]] 同源。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deregulation]]：放松管制（直接反义词）
 > - [[anarchy]]：无政府状态（与 regulation 的"管理秩序"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +116,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **government regulations**：政府规章
 > - **strict regulation**：严格管理
 > - **under regulation**：受管制
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "While warnings are often appropriate and necessary, and many are required by state or federal regulations, it isn't clear that they actually protect the manufacturers and sellers from liability."（虽然警告往往是适当和必要的，许多也是州或联邦法规所要求的，但并不清楚它们是否确实保护了制造商和销售商免于承担责任。）——考研真题阅读
 > - "There is pressure for change from within the profession, but opponents of change among the regulators still have the upper hand."（行业内部也有要求变革的压力，但监管者中的反对派仍然占据上风。）——2014考研英语一阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

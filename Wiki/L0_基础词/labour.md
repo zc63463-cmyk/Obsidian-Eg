@@ -3,14 +3,12 @@ title: "labour"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 劳动、辛苦工作（耗费体力的劳作）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈleɪbə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**劳动、辛苦工作**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **体力劳作**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > labour = 拉丁语 *labor* = 劳动、辛苦。农民在田间挥汗劳作——这就是 labour 的原始画面。经济学三大要素：land（土地）、labour（劳动力）、capital（资本）。labour market = 劳动力市场。be in labour = 在分娩（分娩是母亲最辛苦的"劳动"）。Labour Day = 劳动节。Labour Party = 工党。美式拼写 labor。与 [[elaborate]]（精心制作）同源——e（出）+ labor（劳动）+ ate = 做出大量劳动 = 精心制作。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rest]]：休息（labour 的精确反义：劳动↔休息）
 > - [[leisure]]：闲暇（labour 的反义：劳动↔闲暇）
 > - [[capital]]：资本（labour 在经济学中的互补要素）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **labour market**：劳动力市场
 > - **labour force**：劳动力
 > - **manual labour**：体力劳动
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The rapid advancement of automation and artificial intelligence has raised serious concerns about the future of labour markets worldwide."（自动化和人工智能的快速发展引发了人们对全球劳动力市场未来的严重担忧——考研阅读科技经济话题相关表达）
 > - "Developing countries often struggle to compete in the global economy due to rising labour costs and the increasing adoption of automation by multinational corporations."（由于劳动力成本上升和跨国公司越来越多地采用自动化，发展中国家在全球经济中往往难以竞争——考研翻译经济话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

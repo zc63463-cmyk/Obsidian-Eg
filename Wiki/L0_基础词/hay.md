@@ -3,14 +3,12 @@ title: "hay"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 干草（收割后晾干的草）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/heɪ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**干草**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **干草**（农业层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hay 就是"干草"。记住两个关键搭配：1) make hay while the sun shines（趁着太阳好赶紧晒草→抓住有利时机）；2) hay fever（花粉症——干草花粉引起的过敏）。We knew that war was coming, and we were determined to make hay while we could（我们知道战争即将爆发，决心要趁早抓住有利时机）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （自然物质，无精确反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,26 +123,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make hay while the sun shines**：趁热打铁，抓住有利时机——We need to make hay while the sun shines.
 > - **hay fever**：花粉症——She suffers from hay fever in spring.
 > - **bale of hay**：一捆干草——bales of hay stacked in the barn
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We knew that war was coming, and we were determined to make hay while we could."（我们知道战争即将爆发，决心要趁早抓住有利时机——英语阅读常见表达，make hay while the sun shines 为常考谚语）
 > - "Pollens in the atmosphere become pervasive during the springtime and are known to cause hay fever."（大气中的花粉在春季变得无处不在，已知会引起花粉症——英语阅读科普材料，hay fever 为常见搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

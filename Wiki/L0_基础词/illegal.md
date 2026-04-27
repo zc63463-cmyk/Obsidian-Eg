@@ -3,14 +3,12 @@ title: "illegal"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 非法的，违法的
-extension_dim: 规范路径
+extension_dim: [规范路径]
 phonetic: "/ɪˈliːɡl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**非法的，违法的**"为统筹中心，沿规范路径向外扩展：
 >
 > 1. **非法的，违法的**（法律层面）
@@ -65,7 +63,7 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > illegal = il-（不）+ legal（合法的）。il- 是 in-（不）在 l 前的变体，类似 im-（在 p/b/m 前：impossible）、ir-（在 r 前：irregular）。legal 来自拉丁语 legalis，词根 leg- = 法律（[[lect-leg]]）。所以 illegal = 不合法的。反义词就是 legal（合法的）。同源词：illegal immigration（非法移民）、illegal parking（违规停车）。
@@ -88,7 +86,7 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[legal]]：合法的（非法 ↔ 合法）
 > - [[lawful]]： lawful 的（违法 ↔ 守法）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **illegal immigration**：非法移民——The country is struggling with illegal immigration.
 > - **illegal parking**：违规停车——He was fined for illegal parking.
 > - **illegal activities**：非法活动——The police cracked down on illegal activities.
@@ -127,19 +125,15 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is illegal to drive without a valid license."（无有效驾照驾驶是违法的——illegal 为考研阅读/翻译高频词）
 > - "The government has taken measures to combat illegal immigration."（政府已采取措施打击非法移民——illegal immigration 为考研写作常见话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "capacity"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 容纳的能力
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kəˈpæsəti/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**容纳的能力**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **容纳的能力**（物理层面：能装多少）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cap（容纳）+ -acity（状态/性质）= 容纳的能力。想象一个 U 盘，它的容量（capacity n.①）决定了能装多少文件。同样，一个人的能力（capacity n.②）决定了他能承担多少工作。而当你以经理的身份（capacity n.③）出席会议时，你就是在社会结构中"装"进了这个角色。三个义项都是"能装下多少"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[incapacity]]：无能力（直接加前缀 in- 构成反义，强调缺乏能力或资格）
 > - [[inability]]：无能力（侧重实际做不到）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **capacity for**：……的能力
 > - **in the capacity of**：以……的身份
 > - **seating capacity**：座位容量
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The stadium has a seating capacity of 80,000."（这座体育场的座位容量为 80,000 人。）——建筑/社会类阅读语境
 > - "She has an extraordinary capacity for hard work."（她有着非凡的勤奋能力。）——人物/传记类阅读语境
 > - "He acted in his capacity as chairman of the board."（他以董事会主席的身份行事。）——商业/法律类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

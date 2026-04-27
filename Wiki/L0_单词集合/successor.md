@@ -3,14 +3,12 @@ title: "successor"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 从后面走上来的人（继任者）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/səkˈsesər/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从后面走上来的人（继任者）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **从后面走上来的人**（人事层面）
@@ -65,7 +63,7 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > suc（后面）+ cess（走）+ or（人）→ 从后面走上来的人。老CEO退休了，新CEO从后面走上来——他是 successor。旧手机停产了，新手机从后面走上来——它是 successor。successor 就是"接班的人/物"。
@@ -87,7 +85,7 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[predecessor]]：前任，前辈（successor 的精确反义：继任者↔前任）
 > - [[ancestor]]：祖先，先驱（successor 的反义：后来者↔先人）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **successor to the throne/president**：王位/总统的继任者
 > - **appoint/name a successor**：任命/指定继任者
 > - **a successor to the previous model**：前代产品的后续产品
@@ -128,19 +126,15 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When the board is forced to review a succession of succession plans, those managers whose plans were not recognized would also want to leave."（当董事会迫于股东的压力对一系列继任计划进行审查时，那些计划没有得到认可的经理们也会想离开——考研翻译真题）
 > - "He was appointed as the successor to the CEO last month."（上个月他被任命为首席执行官的继任者——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

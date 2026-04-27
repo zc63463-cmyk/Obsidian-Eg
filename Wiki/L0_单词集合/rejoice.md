@@ -3,17 +3,14 @@ title: "rejoice"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 再次感到喜悦→欣喜
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈdʒɔɪs/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: joy
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ re-(加强语气) + joic/joy(喜悦、快乐)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**感到高兴、欣喜**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **感到高兴、欣喜**（情感层面——因某事而感到快乐）
@@ -62,7 +59,7 @@ re-(加强语气) + joic/joy(喜悦、快乐)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ re-(加强语气) + joic/joy(喜悦、快乐)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 rejoicare "再次感到喜悦"，由 re-(加强) + gaudere(高兴) 构成。考试通过后，你一而再地感到开心——这就是 rejoice。
@@ -85,7 +82,7 @@ re-(加强语气) + joic/joy(喜悦、快乐)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +94,13 @@ re-(加强语气) + joic/joy(喜悦、快乐)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[grieve]]：悲伤（欣喜 vs 悲伤）
 > - [[mourn]]：哀悼（庆祝 vs 哀悼）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +115,20 @@ re-(加强语气) + joic/joy(喜悦、快乐)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rejoice at/over**：为……而高兴（We rejoiced at the good news.）
 > - **rejoice in**：因……而欣喜（She rejoices in her children's success.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Environmentalists rejoiced at the news that the government had decided to ban single-use plastics."（环保主义者对政府决定禁止一次性塑料制品的消息感到欣喜。）——考研高频表达
 > - "We should not rejoice too soon—the challenges ahead are still formidable."（我们不应过早高兴——前方的挑战依然艰巨。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

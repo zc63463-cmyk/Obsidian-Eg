@@ -3,14 +3,12 @@ title: "bite"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 咬，叮
-extension_dim: 动作力度
+extension_dim: [动作力度]
 phonetic: "/baɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ bite(咬/叮，古英语 *bītan*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**咬，叮**"为统筹中心，沿动作力度向外扩展：
 >
 > 1. **用牙齿咬**（物理层面）
@@ -72,7 +70,7 @@ bite(咬/叮，古英语 *bītan*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ bite(咬/叮，古英语 *bītan*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bite 的核心就是"咬"。bite 的过去式是 bit（咬了一口→一小块），过去分词是 bitten。take a bite = 咬一口。a bite to eat = 随便吃点东西。the bite of winter = 冬天的刺骨寒冷（寒冷像牙齿一样"咬"人）。the fish aren't biting = 鱼不上钩（鱼不"咬"钩）。与 [[bit]]（一小块）和 [[bitter]]（苦的）同源——咬了一口发现是苦的。
@@ -95,7 +93,7 @@ bite(咬/叮，古英语 *bītan*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,12 +106,12 @@ bite(咬/叮，古英语 *bītan*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ bite(咬/叮，古英语 *bītan*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take a bite**：咬一口
 > - **a bite to eat**：随便吃点东西
 > - **bite the bullet**：咬紧牙关（面对困难）
@@ -135,19 +133,15 @@ bite(咬/叮，古英语 *bītan*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The bitter bite of the winter wind made everyone hurry indoors."（冬风的刺骨寒冷让每个人都匆忙躲进室内。——考研英语阅读描写类表达）
 > - "In some regions, snake bites remain a significant public health concern."（在一些地区，蛇咬伤仍然是一个重大的公共卫生问题。——考研英语阅读健康类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

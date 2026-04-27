@@ -3,14 +3,12 @@ title: "exhaust"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 向外抽干
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪɡˈzɔːst/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -47,7 +45,7 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外抽干**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **向外抽干（液体）**（物理层面）
@@ -72,7 +70,7 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 矿工用泵把井水**向外**（ex-）**抽干**（haust），累得瘫倒在地——他**耗尽**了体力，也**抽干**了井水。
@@ -95,7 +93,7 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[replenish]]：补充、重新装满（耗尽→重新填满）
 > - [[refresh]]：使恢复精力（精疲力竭→恢复活力）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exhaust one's patience**：耗尽某人的耐心
 >   The constant delays exhausted the investors' patience.（不断的延误耗尽了投资者的耐心。）
 > - **be exhausted from**：因……而精疲力竭
@@ -142,23 +140,15 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The report exhausts all possible explanations for the phenomenon."（这份报告穷尽了对该现象所有可能的解释。）——考研高频表达
 > - "We have exhausted all available options to solve the problem."（我们已经穷尽了所有可用的选项来解决这个问题。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

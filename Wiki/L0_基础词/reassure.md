@@ -3,14 +3,12 @@ title: "reassure"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 使再次安心（消除恐惧，恢复安全感）
-extension_dim: 情感修复路径
+extension_dim: [情感修复路径]
 phonetic: "/ˌriːəˈʃʊə(r)/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使再次安心（消除恐惧，恢复安全感）**"为统筹中心，沿情感修复路径向外扩展：
 >
 > 1. **再次给予安全**（情感层面）
@@ -64,7 +62,7 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > reassure 来自拉丁语 *assecurare*，其中 as- = ad-（朝向），sur = securus（安全）。想象一个孩子在暴风雨中吓得发抖，母亲紧紧抱住他说"别怕，妈妈在，暴风雨很快就会过去"——这就是 reassure：re（再次）+ assure（使安心），让孩子重新感到安全。
@@ -88,7 +86,7 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[alarm]]：使惊恐（reassure 的精确反义：使安心↔使惊恐）
 > - [[frighten]]：吓唬，使害怕
 > - [[worry]]：使担忧
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reassure someone that...**：使某人放心……
 > - **reassure someone of something**：使某人对……放心
 > - **reassure the public**：安抚公众
@@ -131,20 +129,16 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He reassured me (that) my cheque would arrive soon."（他安慰我说我的支票很快就会到了。——Cambridge Dictionary）
 > - "The president hastened to reassure his people that he was in perfect health."（总统急忙向人民保证他身体非常健康。——Cambridge Dictionary）
 > - "Teachers reassured anxious parents that their children were safe."（老师们让焦虑的家长们放心，孩子们是安全的。——Longman Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

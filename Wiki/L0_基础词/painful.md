@@ -3,14 +3,12 @@ title: "painful"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 充满痛苦的（惩罚带来的强烈感受）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈpeɪnfl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充满痛苦的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **充满痛苦**（感受层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > painful = [[pain]]（痛苦）+ *-ful*（充满）= 充满痛苦的。a painful decision（艰难的决定）= 做出这个决定充满痛苦。a painful memory（痛苦的记忆）= 回忆起来令人痛苦。重要用法注意：painful 不能修饰人！不能说 "I am painful"，要说 "I am in pain"。painful 修饰的是事物/经历，不是人。反义词是 [[painless]]（无痛的）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[painless]]：无痛的（painful 的反义：痛苦的↔无痛的）
 > - [[pleasant]]：令人愉快的（painful 的反义：令人痛苦的↔令人愉快的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a painful decision**：艰难的决定
 > - **a painful process**：痛苦的过程
 > - **a painful memory**：痛苦的记忆
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company had to make the painful decision to lay off thousands of employees in order to survive the economic crisis."（公司不得不做出艰难的决定，裁减数千名员工以度过经济危机——考研阅读商业话题）
 > - "It was a painful process for the nation to come to terms with its dark history of colonialism and racial injustice."（对这个国家来说，正视其殖民主义和种族不公正的黑暗历史是一个痛苦的过程——考研翻译历史话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "mystery"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 无法解释的事物
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmɪstəri/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: myster
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ myster-（=mysterium，秘密，来自希腊语 *mysterion*，secret rite）+ -y
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无法解释的事物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **无法解释的事物**（现象层面）
@@ -68,7 +65,7 @@ myster-（=mysterium，秘密，来自希腊语 *mysterion*，secret rite）+ -y
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ myster-（=mysterium，秘密，来自希腊语 *mysterion*，secret rite）+ -y
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > mystery 来自希腊语 *mysterion*，最初指古希腊的秘密宗教仪式——只有被"选中"（*myein*，闭眼，即闭门举行）的信徒才能参加，外人完全不知道里面发生了什么。想象你站在一座古希腊神庙外面，里面传来低沉的吟唱声，大门紧闭——你永远不知道里面在进行什么仪式，这就是 mystery（神秘）。再想象一本侦探小说，凶手是谁直到最后一页才揭晓——整本书就是一个 mystery（谜）。mystery 的本质就是"解不开的东西"。
@@ -92,7 +89,7 @@ myster-（=mysterium，秘密，来自希腊语 *mysterion*，secret rite）+ -y
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ myster-（=mysterium，秘密，来自希腊语 *mysterion*，secret rite）+ -y
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[certainty]]：确定性（谜↔确定性）
 > - [[fact]]：事实（神秘↔已知事实）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ myster-（=mysterium，秘密，来自希腊语 *mysterion*，secret rite）+ -y
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the mystery of**：...的奥秘（The mystery of the universe has fascinated scientists for centuries.）
 > - **remain a mystery**：仍然是个谜（The cause of the disease remains a mystery.）
 > - **solve/unravel a mystery**：解开谜团（Detectives worked to unravel the mystery.）
@@ -130,21 +127,15 @@ myster-（=mysterium，秘密，来自希腊语 *mysterion*，secret rite）+ -y
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A researcher has now solved the mystery of why the animals die."（一位研究人员现在已经解开了这些动物死亡之谜。）——考研真题完形
 > - "The cause of the disease remains a mystery to scientists."（这种疾病的病因对科学家来说仍然是个谜。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

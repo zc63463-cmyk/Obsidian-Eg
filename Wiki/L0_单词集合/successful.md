@@ -3,14 +3,12 @@ title: "successful"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 走到前面的（充满成功的状态）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/səkˈsesfl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走到前面的（充满成功的状态）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **走到前面的**（结果状态层面）
@@ -62,7 +60,7 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > success（成功）+ ful（充满）→ 充满成功的状态。一个走到前面的企业家——a successful entrepreneur。一个走到前面的实验——a successful experiment。successful 就是"已经走到前面了"。
@@ -84,7 +82,7 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unsuccessful]]：不成功的（successful 的直接反义）
 > - [[failed]]：失败的（successful 的反义：成功的↔失败的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a successful career/businessman**：成功的事业/商人
 > - **a successful experiment**：成功的实验
 > - **highly successful**：非常成功的
@@ -124,19 +122,15 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures."（下次有人把公司配额作为促进性别平等的一种方式来推行时，请记住，这些政策基本上是自私自利的措施——2020年考研英语一阅读）
 > - "The government should supervise local sports associations."（政府应该监督本地体育协会——2017年考研Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

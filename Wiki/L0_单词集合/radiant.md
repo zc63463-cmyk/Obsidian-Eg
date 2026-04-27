@@ -3,14 +3,12 @@ title: "radiant"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 发光的、辐射的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈreɪdiənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**发光的、辐射的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **发光的、辐射的**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > radiant = radi（光线）+ ant（具有…性质的）→ 具有光线性质的 → 发光的。想象婚礼上的新娘，整个人**容光焕发**，脸上洋溢着幸福的笑容，像太阳一样**发光**。记住 radi = 光线，radiant 就是"发光的"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dim]]：暗淡的（radiant 的精确反义：发光↔暗淡）
 > - [[gloomy]]：阴沉的（容光焕发↔阴沉沮丧）
 > - [[dark]]：黑暗的（发光↔黑暗）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a radiant smile**：灿烂的笑容
 > - **radiant with joy / happiness**：因喜悦而容光焕发
 > - **radiant energy / heat**：辐射能/辐射热
@@ -135,7 +133,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She looked absolutely radiant on her wedding day."（她在婚礼那天看起来容光焕发）——经典人物描写
 > - "The radiant heat from the fire warmed the room."（炉火散发的辐射热温暖了房间）——科普/环境话题
 > - "His face was radiant with joy."（他脸上洋溢着喜悦的光芒）——文学描写
@@ -143,15 +141,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

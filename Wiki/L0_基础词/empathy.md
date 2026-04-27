@@ -3,17 +3,14 @@ title: "empathy"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 感同身受→共情
-extension_dim: 情感投射
+extension_dim: [情感投射]
 phonetic: "/ˈempəθi/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: sens-sent
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**进入他人的感受**"为统筹中心，沿情感投射向外扩展：
 >
 > 1. **进入他人的感受**
@@ -64,7 +61,7 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊语 *empatheia* 由 *en-*（进入）+ *pathos*（感受、痛苦）构成。想象你走进一个正在哭泣的朋友的内心世界，你不是站在门外递纸巾（那是 sympathy 同情），而是走进去和他一起感受那份悲伤——这就是 empathy（共情）。
@@ -86,7 +83,7 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[apathy]]：冷漠（empathy 的精确反义：共情↔冷漠）
 > - [[indifference]]：漠不关心（empathy 的反义：共情↔漠不关心）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **show empathy for/toward**：对……表示共情
 > - **have empathy with**：与……产生共情
 > - **empathy training**：共情训练
@@ -129,19 +126,15 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many respondents showed tremendous empathy for ex-combatants and emphasised that they would not normally commit atrocities."（许多受访者对前战斗人员表现出极大的共情，并强调他们通常不会犯下暴行——剑桥词典例句）
 > - "In the present study we assess the third component, empathy, by children's self-reports of affective response to social stimuli."（在本研究中，我们通过儿童对社会刺激的情感反应的自我报告来评估第三个组成部分——共情——剑桥词典学术例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

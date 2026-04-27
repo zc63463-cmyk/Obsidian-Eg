@@ -3,14 +3,12 @@ title: "insist"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 站在里面不走（站在某个立场上不动摇）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪnˈsɪst/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在里面不走**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **站在某处不动**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > insist = in-（在上面）+ sistere（站立）= 站在上面不动 = 坚持。记住 sist = 站：[[persist]]（始终站着 = 坚持）、[[resist]]（反向站着 = 抵抗）、[[exist]]（站出来 = 存在）、[[assist]]（站在旁边 = 帮助）。考研重点搭配：insist on doing sth（坚持做某事）、insist that...（坚持说...）。注意 insist that 后面的虚拟语气：insist that he (should) go。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[yield]]：屈服（insist 的反义：坚持↔屈服）
 > - [[give up]]：放弃（insist 的反义：坚持↔放弃）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **insist on**：坚持（做某事）
 > - **insist on doing sth**：坚持做某事
 > - **insist that**：坚持说；坚决要求
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Environmentalists insist that the government take immediate action to reduce carbon emissions before the damage to the ecosystem becomes irreversible."（环保主义者坚决要求政府立即采取行动减少碳排放，以免对生态系统造成不可逆转的损害——考研阅读环保话题相关表达）
 > - "Despite overwhelming evidence to the contrary, the defendant insisted on his innocence throughout the entire trial."（尽管有大量相反的证据，被告在整个审判过程中坚称自己无罪——考研翻译法律话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

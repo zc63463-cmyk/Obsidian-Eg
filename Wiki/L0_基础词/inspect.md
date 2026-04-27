@@ -3,14 +3,12 @@ title: "inspect"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 看进去检查（仔细查看事物的内部）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪnˈspekt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**看进去检查**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **看进去**（视觉层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inspect = in-（向内）+ [[spec-spect]]（看）= 看进去 = 检查。记住 spec/spect = 看：spectator（观众）、prospect（前景 = 向前看）、respect（尊重 = 回头看）、suspect（怀疑 = 从下面看）、retrospect（回顾 = 向后看）。inspect 就是"看进去"——仔细检查事物的内部。考研重点：inspect the equipment（检查设备）、inspect the troops（检阅部队）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（inspect 的反义：检查↔忽视）
 > - [[overlook]]：忽略（inspect 的反义：仔细检查↔忽略）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inspect the equipment**：检查设备
 > - **inspect the building**：检查建筑物
 > - **inspect the troops**：检阅部队
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Government inspectors were dispatched to inspect the nuclear power plant after reports of safety violations raised concerns among local residents."（在有关安全违规的报告引起当地居民担忧后，政府检查员被派去检查这座核电站——考研阅读社会话题相关表达）
 > - "Before purchasing the property, the buyer hired a professional to inspect the house for structural damage and potential safety hazards."（在购买房产之前，买方聘请了一位专业人员检查房屋的结构损坏和潜在的安全隐患——考研翻译生活话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

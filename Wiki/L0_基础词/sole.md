@@ -3,14 +3,12 @@ title: "sole"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 唯一的、单独的（只有这一个，没有其他）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/səʊl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -48,7 +46,7 @@ sole 有两个不同的词源：
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**唯一的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **唯一的**（数量层面）
@@ -71,7 +69,7 @@ sole 有两个不同的词源：
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ sole 有两个不同的词源：
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sole 形容词来自拉丁语 *sōlus*（唯一的）。记住 solus = 唯一的：[[solo]]（独奏）、solitary（孤独的）、desolate（荒凉的）。名词来自拉丁语 *sōlea*（鞋底），与 [[soil]]（土地）同源——鞋底接触的就是土地。比目鱼叫 sole 因为扁平如鞋底。考研重点考形容词"唯一的"：the sole reason（唯一的理由）、sole responsibility（唯一的责任）。
@@ -95,7 +93,7 @@ sole 有两个不同的词源：
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ sole 有两个不同的词源：
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[multiple]]：多个的（sole 的反义：唯一↔多个）
 > - [[joint]]：共同的（sole 的反义：独占↔共同）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ sole 有两个不同的词源：
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the sole reason**：唯一的理由
 > - **sole responsibility**：唯一的责任
 > - **sole owner**：唯一的所有者
@@ -138,19 +136,15 @@ sole 有两个不同的词源：
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The sole purpose of this regulation is to ensure that all citizens have equal access to public services regardless of their economic background."（这项法规的唯一目的是确保所有公民无论经济背景如何，都能平等地获得公共服务——考研阅读法律话题相关表达）
 > - "As the sole survivor of the devastating earthquake, she dedicated the rest of her life to humanitarian work in disaster-stricken areas."（作为这场毁灭性地震的唯一幸存者，她将余生奉献给了灾区的人道主义工作——考研翻译社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

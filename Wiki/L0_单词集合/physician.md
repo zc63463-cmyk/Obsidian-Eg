@@ -3,17 +3,14 @@ title: "physician"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 了解人体自然的人，医生
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/fɪˈzɪʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: phys
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -46,7 +43,7 @@ phys(自然/物质) + -ician(专家/从事…职业的人)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**了解人体自然的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **了解人体自然的人**（本义：掌握自然科学知识的治病者）
@@ -67,7 +64,7 @@ phys(自然/物质) + -ician(专家/从事…职业的人)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ phys(自然/物质) + -ician(专家/从事…职业的人)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > physician 和 [[physical]] 同源——phys（自然）。古代没有"内科"和"外科"之分，后来分化为 physician（用药物治病的"自然派"）和 surgeon（动刀的"手工派"）。记住：physician 是内科医生，拿处方不拿手术刀。
@@ -89,7 +86,7 @@ phys(自然/物质) + -ician(专家/从事…职业的人)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ phys(自然/物质) + -ician(专家/从事…职业的人)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[patient]]：病人（医患关系中的对立角色）
 > - [[surgeon]]：外科医生（治疗方式的对立：药物 vs 手术）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +115,22 @@ phys(自然/物质) + -ician(专家/从事…职业的人)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **consult a physician**：You should consult a physician if symptoms persist.（如果症状持续，你应该去看医生。）
 > - **attending physician**：The attending physician made his rounds.（主治医生查房了。）
 > - **chief physician**：She is the chief physician of the hospital.（她是这家医院的主治医师。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The physician recommended that the patient get more rest and exercise."（医生建议病人多休息多锻炼。）——考研高频表达
 > - "Primary care physicians play a crucial role in the healthcare system."（初级保健医生在医疗体系中发挥着关键作用。）——考研阅读真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "spy"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 秘密观察，窥探
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/spaɪ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ spy 源自古法语 *espier*（观察、窥探），与拉丁语 *specere*（看
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**秘密观察，窥探**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **秘密观察，窥探**（物理动作层面）
@@ -70,7 +68,7 @@ spy 源自古法语 *espier*（观察、窥探），与拉丁语 *specere*（看
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ spy 源自古法语 *espier*（观察、窥探），与拉丁语 *specere*（看
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spy 源自"偷偷地看"。想象007戴着墨镜，躲在墙角偷偷观察敌方——他就是 spy（间谍）。你在门缝里偷偷看别人，你也在 spy（窥探）。
@@ -94,7 +92,7 @@ spy 源自古法语 *espier*（观察、窥探），与拉丁语 *specere*（看
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ spy 源自古法语 *espier*（观察、窥探），与拉丁语 *specere*（看
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expose]]：揭露（"秘密观察"的反义——把隐藏的公开）
 > - [[reveal]]：揭示（"暗中监视"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,29 +121,23 @@ spy 源自古法语 *espier*（观察、窥探），与拉丁语 *specere*（看
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spy on**：暗中监视 — He was suspected of spying on his neighbors.
 > - **spy for**：为……当间谍 — She was accused of spying for a foreign government.
 > - **spy satellite**：间谍卫星 — The country launched a new spy satellite.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was accused of spying for a foreign government and passing classified information."（他被指控为外国政府从事间谍活动并传递机密信息。）——考研高频表达
 > - "The spy satellite was designed to monitor military movements from space."（这颗间谍卫星旨在从太空监控军事动向。）——考研高频表达
 > - "She spied a familiar face in the crowd and waved excitedly."（她在人群中发现了熟悉的面孔，兴奋地挥手。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

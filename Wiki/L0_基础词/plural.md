@@ -3,17 +3,14 @@ title: "plural"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 多于一个的（复数的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈplʊərəl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: plur-plus
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -46,7 +43,7 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**多于一个的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **多于一个的**（语法层面→社会层面）
@@ -67,7 +64,7 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > plur（更多）+ al（的）→ 多于一个的 → 复数的。singular 是"一个"（单数），plural 是"多个"（复数）。plural society（多元社会）里有多个种族、多种文化。plural 的核心就是"不止一个"。
@@ -90,7 +87,7 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[singular]]：单数的（plural 的精确反义：复数↔单数）
 > - [[single]]：单一的（plural 的反义：多个↔单一）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +125,7 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **plural form**：复数形式
 > - **plural noun**：复数名词
 > - **plural society**：多元社会
@@ -136,19 +133,15 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The plural form of 'criterion' is 'criteria'."（criterion 的复数形式是 criteria。——考研语法常见考点）
 > - "Data is the Latin plural form of datum, though in everyday usage it is often treated as a singular noun."（data 是 datum 的拉丁语复数形式，尽管在日常使用中它常被当作单数名词。——考研翻译常见学术话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

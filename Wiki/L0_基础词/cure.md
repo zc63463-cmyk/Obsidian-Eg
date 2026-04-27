@@ -3,14 +3,12 @@ title: "cure"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 照料（对病人或事物的关心和照顾）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kjʊə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**照料（关心照顾）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **照料**（行为层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 cura 就是"关心、照料"。医生关心病人，就是 cure（治愈）。关心社会问题，就是 cure（解决）。关心一块肉，怕它坏了，就用盐腌起来——cured meat（腌肉）。cure 的核心就是"关心"——你关心什么，就去 cure 什么。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disease]]：疾病（cure 的反义：治愈↔疾病）
 > - [[cause]]：起因（cure 的反义：解决办法↔问题起因）
 > - [[worsen]]：恶化（cure 的反义：治愈↔恶化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cure sb. of sth.**：治好某人的……病；矫正某人的……毛病
 > - **a cure for**：……的疗法/解决办法
 > - **cure cancer/disease**：治愈癌症/疾病
@@ -138,19 +136,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is still no cure for the common cold."（普通感冒至今没有特效药——考研高频表达）
 > - "Education is not a cure for all social ills, but it is a necessary starting point."（教育不是所有社会弊病的灵丹妙药，但它是必要的起点——考研写作高频话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

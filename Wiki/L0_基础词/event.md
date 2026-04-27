@@ -3,17 +3,14 @@ title: "event"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 事件（发生出来的事情）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪˈvent/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: ven-vent
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**事件（发生出来的事情）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **事件**（时间层面）
@@ -68,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > event = e（向外）+ vent（来）。事情从时间中"出来"就是 event。historic event（历史事件）是"出来"的大事。social event（社交活动）是人为安排的"出来"。in any event（无论如何）= 不管什么"出来"。同词根还有 prevent（预先阻止"出来"= 防止）、convent（一起"来"= 修道院）、venture（冒险"出来"= 冒险）。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[non-event]]：平淡无奇的事（event 的反义：大事↔小事）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in any event**：无论如何
 > - **in the event**：结果，实际上
 > - **current events**：时事
@@ -129,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In any event, the decision will be made by the end of the month."（无论如何，决定将在月底前做出）
 > - "The historic event marked a turning point in the nation's development."（这一历史性事件标志着国家发展的转折点）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

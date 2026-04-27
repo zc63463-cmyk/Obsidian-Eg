@@ -3,14 +3,12 @@ title: "blunder"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 因盲目而犯的大错
-extension_dim: 笨拙失误
+extension_dim: [笨拙失误]
 phonetic: "/ˈblʌndə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**因盲目而犯大错**"为统筹中心，沿笨拙失误向外扩展：
 >
 > 1. **闭眼/盲目**（感知层面）
@@ -67,7 +65,7 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blunder 来自"闭眼"（blundra）。想象一个人闭着眼睛走路——他肯定会踉踉跄跄（blunder about），而且很可能会犯大错（commit a blunder）。blunder 和 [[blind]]（盲）同源——blind = 看不见，blunder = 因为看不见而犯大错。blunder 不是普通的小错误，而是愚蠢的、粗心的大错。a political blunder = 政治上的大失误。blunder into a trap = 莽撞地闯入陷阱。blunder through a speech = 笨拙地应付一场演讲。
@@ -90,7 +88,7 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[feat]]：壮举（blunder 大错的反义：愚蠢错误↔壮举）
 > - [[achievement]]：成就（blunder 失误的反义：失误↔成就）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **commit a blunder**：犯大错
 > - **blunder into**：莽撞地闯入
 > - **blunder through**：笨拙地应付
@@ -132,19 +130,15 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company's decision to expand into the Asian market without proper research proved to be a costly blunder."（公司在没有充分调研的情况下决定进军亚洲市场，结果证明这是一个代价惨重的错误。——考研英语阅读商业类话题）
 > - "The diplomat blundered into a controversy by making insensitive remarks about the host country's traditions."（这位外交官因对东道国传统发表不当言论而莽撞地卷入了争议。——考研英语阅读外交类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

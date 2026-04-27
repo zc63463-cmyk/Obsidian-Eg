@@ -3,14 +3,12 @@ title: "warehouse"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 存放商品的房屋（仓库）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈweəhaʊs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**存放商品的房屋（仓库）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **存放商品的房屋**（空间层面）
@@ -67,7 +65,7 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ware（商品）+ house（房子）→ warehouse。你每天都在用 ware 这个词——soft**ware**（软商品）、hard**ware**（硬商品）。把这些 ware 放进 house 里——就是 warehouse（仓库）。Amazon 的仓库就是一个巨大的 warehouse，里面装满了无数的 ware。
@@ -90,7 +88,7 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retail]]：零售（warehouse 作为批发商店的反义：批发↔零售）
 > - 无精确反义（warehouse 为具体名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,26 +127,22 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **warehouse store**：仓库批发店
 > - **goods in the warehouse**：仓库里的货物
 > - **network of warehouses**：仓库网络
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it."（亚马逊凭借其仓库网络，也在每个征收销售税的州代收销售税。——2019年英语一Text 4）
 > - "The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state."（法院推翻的判例认为，如果企业将客户的购买商品运送到该企业没有仓库或办事处等实体存在的州，该企业就不必为该州代收销售税。——2019年英语一Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "drawer"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 可拉出的东西（draw + er，能被拉出来的物件）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/drɔːə(r)/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: draw
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可拉出的东西**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **可拉出的东西**（物理层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drawer = draw（拉）+ er（东西）→ 可以拉出来的东西 → 抽屉。每次你拉开书桌抽屉的时候，你就是在"draw"（拉）一个"drawer"（可拉出的东西）。而"制图员"也是 drawer——一个 draw（画）的 er（人）。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词，drawer 作为家具部件无直接对立概念
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,25 +111,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **open/close a drawer**：打开/关上抽屉（She opened the drawer and took out a pen. 她打开抽屉，拿出一支笔。）
 > - **bottom/top drawer**：底层/顶层抽屉
 > - **desk drawer**：书桌抽屉
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She searched through every drawer in the desk."（她翻遍了书桌的每一个抽屉。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

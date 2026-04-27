@@ -3,14 +3,12 @@ title: "prevent"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 提前来
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/prɪˈvent/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**提前来**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **提前来**（时间上的先到）
@@ -64,7 +62,7 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre（提前）+ vent（来）→ 在洪水到来之前就提前赶到，筑好堤坝——这就是prevent（预防）。就像疫苗在病毒到来之前就先到体内布防。
@@ -88,7 +86,7 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cause]]：cause表示"引起、导致"，与prevent的"预防"形成因果关系的对立
 > - [[allow]]：allow表示"允许"，与prevent的"阻止"形成许可与禁止的对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **prevent sb. from doing sth.**：阻止某人做某事
   > The heavy rain prevented us from going out.（大雨阻止了我们出门。）
 > - **prevent disease**：预防疾病
@@ -127,20 +125,14 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "To prevent the disease from spreading, the government imposed strict quarantine measures."（为了防止疾病传播，政府实施了严格的隔离措施。）——考研高频表达
 > - "Nothing could prevent her from achieving her goal."（没有什么能阻止她实现目标。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "communication"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 信息共同流动的过程或结果
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəˌmjuːnɪˈkeɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**信息共同流动的过程**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **信息共同流动的过程**（信息传递层面）
@@ -67,7 +65,7 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com-(共同) + muni(服务) + -cation(动作结果)，使信息共同流动的结果——交流、通信。
@@ -91,7 +89,7 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[isolation]]：隔绝（communication 是连接交流，isolation 是隔绝孤立）
 > - [[misunderstanding]]：误解（communication 是有效交流，misunderstanding 是交流失败）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **means of communication**：通信手段
   > The Internet has become the primary means of communication.
   > 互联网已成为主要的通信手段。
@@ -137,22 +135,16 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "On the contrary, the price of communications is coming down fast."（相反，通信的价格正在迅速下降。）——2001年考研英语一阅读Text 4
 > - "The communications revolution has influenced both work and leisure."（通信革命影响了工作和休闲两个方面。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

@@ -3,17 +3,14 @@ title: "auditorium"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 用来听的地方（供听众聚集聆听的场所）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌɔːdɪˈtɔːriəm/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: audit
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ audit(听，拉丁语 *auditus*，*audire* 的过去分词) + -orium(拉丁语�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用来听的地方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **用来听的地方**（空间层面）
@@ -67,7 +64,7 @@ audit(听，拉丁语 *auditus*，*audire* 的过去分词) + -orium(拉丁语�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ audit(听，拉丁语 *auditus*，*audire* 的过去分词) + -orium(拉丁语�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > audit（听）+ orium（场所）= auditorium（听堂）。想象你走进一个巨大的礼堂，穹顶高耸，回声悠扬——这个空间就是专门为"听"而设计的。auditorium 的拉丁语原意就是"lecture room"（演讲室），一个让你好好"听"的地方。
@@ -89,7 +86,7 @@ audit(听，拉丁语 *auditus*，*audire* 的过去分词) + -orium(拉丁语�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ audit(听，拉丁语 *auditus*，*audire* 的过去分词) + -orium(拉丁语�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[studio]]：工作室（大型礼堂的反义——小型私密空间）
 > - [[platform]]：讲台（礼堂中"被听"的地方 vs "听"的地方）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,25 +118,21 @@ audit(听，拉丁语 *auditus*，*audire* 的过去分词) + -orium(拉丁语�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **school auditorium**：学校礼堂
 > - **the auditorium was packed/full**：礼堂座无虚席
 > - **concert auditorium**：音乐厅
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - 暂无真题关联记录，待补充
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

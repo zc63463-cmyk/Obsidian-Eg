@@ -3,14 +3,12 @@ title: "emphasis"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 打上记号
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈemfəsɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打上记号**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **打上记号**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > em（在……上）+ phas（显示）= 在上面显示出来。想象你在一篇文章中用荧光笔**涂亮**关键句子——涂亮的部分就是 emphasis（强调）。老师上课时拍黑板说"这个要考！"——这也是 emphasis。从物理上的"标亮"到抽象上的"强调"，emphasis 始终是"让重要的事情被看到"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视（emphasis 的反义：强调↔忽视）
 > - [[minimize]]：最小化（emphasis 的反义：突出↔最小化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **put/place emphasis on**：强调，把重点放在……上
   - *The government places great emphasis on environmental protection.*（政府非常重视环境保护。）
 > - **lay emphasis on**：强调
@@ -130,22 +128,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "put/place emphasis on"（强调/重视）——考研阅读/写作极高频搭配，常用于论述政策重点或学术观点
 > - "great/special emphasis"（极大的/特别的强调）——考研阅读中描述作者态度或论证重点
 > - "emphasis on quality/innovation"（对质量/创新的重视）——考研写作中常见论述角度
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

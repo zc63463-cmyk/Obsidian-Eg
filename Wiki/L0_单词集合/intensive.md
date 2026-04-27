@@ -3,14 +3,12 @@ title: "intensive"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 集中拉紧的（在短时间内将精力/资源拉紧到极限）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈtensɪv/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**集中拉紧的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **集中拉紧的**（方式层面）
@@ -64,7 +62,7 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（加强）+ tens（拉紧）+ -ive（倾向…的）→ 倾向集中拉紧的。想象你在健身房——不是每天轻松锻炼，而是在短时间内集中拉紧每一块肌肉，这就是 intensive training（集训）。医院里集中拉紧所有医疗资源照顾危重病人，就是 intensive care（特护/ICU）。
@@ -86,7 +84,7 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extensive]]：广泛的（intensive 的反义：密集↔广泛，深度↔广度的对立）
 > - [[superficial]]：肤浅的（intensive 的反义：深入细致↔肤浅表面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **intensive training**：密集训练，集训
 >   - The program offers intensive training for new employees.（该项目为新员工提供密集培训。）
 > - **intensive care**：特护，重症监护（ICU）
@@ -130,23 +128,15 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "However, the main forest burning started around 700 years ago, after what current archaeological evidence indicates was the most intensive stage of moa hunting."（然而，主要的森林大火开始于700年前，根据当前考古学证据，那正是捕猎恐鸟最为密集的阶段。——考研英语阅读相关语料）
 > - "energy-intensive"（能源密集型的——2002年考研英语阅读第三篇，描述某些行业对能源的高消耗特征）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

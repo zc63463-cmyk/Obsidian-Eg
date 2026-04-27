@@ -3,14 +3,12 @@ title: "vicinity"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 附近（靠近某个地点的区域）
-extension_dim: 空间→数量
+extension_dim: [空间→数量]
 phonetic: "/vəˈsɪnəti/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**附近（靠近某个地点的区域）**"为统筹中心，沿空间→数量向外扩展：
 >
 > 1. **附近**
@@ -64,7 +62,7 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vicinity 来自拉丁语 *vicinus*（邻居、邻近的）。在古代罗马，你的 vicinus 就是你村庄里住得最近的人。vicinity 的核心画面是一个"模糊的圈"——以某个地点为圆心，画一个不确定大小的圆，圈内的一切都在 vicinity 中。The Chester Creek greenbelt trail had been closed off in the vicinity of the fire（在火灾附近的切斯特溪绿道步道已被关闭）。当 vicinity 用于数量时，它画的"圈"变成了"范围"——His salary is in the vicinity of one million dollars（他的年薪大约100万美元）。
@@ -87,7 +85,7 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distance]]：远处（vicinity 的反义：附近↔远处）
 > - [[remoteness]]：偏远（vicinity 的反义：邻近↔偏远）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in the vicinity of**：在……附近；大约
 > - **in the immediate vicinity**：在紧邻的区域
 > - **in the general vicinity**：在大概的区域
@@ -130,19 +128,15 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Chester Creek greenbelt trail had been closed off in the vicinity of the fire."（在火灾附近的切斯特溪绿道步道已被关闭——Anchorage Daily News）
 > - "Unconfirmed images posted on social media purport to show recent explosions in the vicinity of the city's medieval citadel."（社交媒体上发布的未经证实的图片据称显示了城市中世纪城堡附近最近的爆炸——OCRegister）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

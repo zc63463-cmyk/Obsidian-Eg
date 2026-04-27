@@ -3,14 +3,12 @@ title: "anguish"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 窒息般的痛苦
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈæŋɡwɪʃ/"
 pos: vi.
 metaphor_type: 本体隐喻
@@ -50,7 +48,7 @@ angu(狭窄、窒息) + -ish(名词/动词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**窒息般的痛苦**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **窒息般的痛苦**（词源层面）
@@ -71,7 +69,7 @@ angu(狭窄、窒息) + -ish(名词/动词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ angu(狭窄、窒息) + -ish(名词/动词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > angu（狭窄）+ -ish = 喉咙被"狭窄"得窒息——极度痛苦。
@@ -93,7 +91,7 @@ angu(狭窄、窒息) + -ish(名词/动词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ angu(狭窄、窒息) + -ish(名词/动词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[comfort]]：安慰（anguish是痛苦）
 > - [[relief]]：宽慰（anguish是苦恼）
 > - [[joy]]：快乐（anguish是痛苦）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,28 +122,22 @@ angu(狭窄、窒息) + -ish(名词/动词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in anguish**：在痛苦中（例：She cried out in anguish.）
 > - **mental anguish**：精神痛苦（例：He suffered severe mental anguish.）
 > - **anguish over**：为…而痛苦（例：She anguished over her decision.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The families of the victims endured years of anguish while waiting for justice."（受害者家属在等待正义的过程中忍受了多年的痛苦。）——考研高频表达
 > - "She was in anguish over the decision that would affect her entire family."（她对将影响整个家庭的决定感到极度痛苦。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "fortune"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 命运的安排
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfɔːrtʃən/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ fortun(e)（来自 Fortuna，罗马命运女神）→ 命运→运气→财富
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**命运的安排**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **命运的安排**（命运层面：天意）
@@ -63,7 +61,7 @@ fortun(e)（来自 Fortuna，罗马命运女神）→ 命运→运气→财富
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ fortun(e)（来自 Fortuna，罗马命运女神）→ 命运→运气→财富
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 罗马命运女神 Fortuna 手持丰裕之角，她赐你运气，运气积累成财富——fortune 既是命运也是财富。
@@ -87,7 +85,7 @@ fortun(e)（来自 Fortuna，罗马命运女神）→ 命运→运气→财富
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ fortun(e)（来自 Fortuna，罗马命运女神）→ 命运→运气→财富
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[misfortune]]：不幸；厄运——命运的反面
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,29 +114,23 @@ fortun(e)（来自 Fortuna，罗马命运女神）→ 命运→运气→财富
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make a fortune**：He made a fortune in real estate.（他在房地产发了财。）
 > - **try one's fortune**：Many young people go to big cities to try their fortune.（许多年轻人去大城市碰运气。）
 > - **tell one's fortune**：She went to have her fortune told.（她去算命了。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He made a fortune by investing in technology companies during the early stages of the internet boom."（他在互联网繁荣早期投资科技公司发了一笔财。）——考研高频表达
 > - "It is a common belief that fortune favors those who are well-prepared."（人们普遍认为，机会偏爱有准备的人。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

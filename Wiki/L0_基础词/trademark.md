@@ -3,14 +3,12 @@ title: "trademark"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 贸易中用来标记自己商品的符号
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtreɪdmɑːrk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**贸易中标记商品的符号**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **商品标记**（物理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trademark = trade（贸易）+ mark（标记）。想象一个鞋匠在每双鞋的鞋底烙上自己的名字——这就是 trademark。这个标记告诉买家"这是我的手艺"，也告诉竞争者"这是我的地盘"。后来 trademark 从"商品标记"延伸到"个人特征"——his trademark humor（他标志性的幽默），就像他的"活商标"，一看就知道是他。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[generic]]：无商标的，通用的（trademark 的反义：有商标↔无商标）
 > - [[counterfeit]]：假冒的（trademark 的反义：真商标↔假冒商标）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **registered trademark**：注册商标
 > - **trademark infringement**：商标侵权
 > - **trademark protection**：商标保护
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company has filed a lawsuit for trademark infringement, claiming that the competitor's logo is confusingly similar to its own registered trademark."（该公司已提起商标侵权诉讼，声称竞争对手的标志与其注册商标极其相似，容易造成混淆——考研阅读法律话题相关表达）
 > - "Her trademark optimism and resilience have made her a beloved figure among her colleagues and clients alike."（她标志性的乐观精神和韧性使她深受同事和客户的喜爱——考研阅读人物描写相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

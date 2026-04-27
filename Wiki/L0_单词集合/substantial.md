@@ -3,14 +3,12 @@ title: "substantial"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 具有大量根基的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/səbˈstænʃəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**根基厚实的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **根基厚实的**（物理层面：底座大而结实）
@@ -66,7 +64,7 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 大树的根基（st站立）深埋地下（sub-在下），根基越厚实，树冠就越庞大——substantial 就是"根基厚实的→大量的/实质的"。
@@ -92,7 +90,7 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insubstantial]]：无实质的，不牢固的
 > - [[nominal]]：名义上的（有substantial的反义意味）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a substantial amount/sum of**：大量的……
   - A substantial amount of money was raised for the charity.（为慈善机构筹集了大量资金。）
 > - **substantial evidence**：实质性的证据
@@ -138,24 +136,16 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Indeed, we have made substantial progress in some parts of the world on at least one of these — the distribution of family-planning services."（事实上，在世界上某些地区，我们至少在其中一方面——计划生育服务的分配——取得了实质性进展。）——考研阅读真题
 > - "The house is built of substantial stone."（这房子是用坚固的石头建造的。）——2012年考研英语一Text1
 > - "She sold the restaurant with a substantial profit."（她以可观的利润卖掉了那家餐厅。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

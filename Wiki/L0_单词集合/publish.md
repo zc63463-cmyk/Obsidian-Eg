@@ -3,14 +3,12 @@ title: "publish"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 使公众知晓
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpʌblɪʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ publ-(公众) + -ish(动词后缀，表"使...")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使公众知晓**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使公众知晓**（信息传播层面）
@@ -64,7 +62,7 @@ publ-(公众) + -ish(动词后缀，表"使...")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ publ-(公众) + -ish(动词后缀，表"使...")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > public（公众）去掉 ic + -ish（使动）→ 使...面向公众 → 出版、发表
@@ -86,7 +84,7 @@ publ-(公众) + -ish(动词后缀，表"使...")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ publ-(公众) + -ish(动词后缀，表"使...")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - suppress：压制；查禁（publish 是公开，suppress 是压制不公开）
 > - withhold：保留；扣留（publish 是发布，withhold 是扣住不发）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ publ-(公众) + -ish(动词后缀，表"使...")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **publish a book/article/paper**：出版书籍/发表文章/论文（She published her first novel at the age of 25. 她25岁时出版了第一部小说。）
 > - **publish findings/results**：发表研究结果（The team published their findings in a leading scientific journal. 该团队在一家顶级科学期刊上发表了他们的研究结果。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Scientific publishing has long been a licence to print money."（科学出版长期以来一直是一本万利的行当。）——2020考研英语一阅读
 > - "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies."（今天读这些书，不禁惊叹于这样一个事实：它们学术性的内容曾经被认为适合在大众日报上发表。）——2010考研英语一阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

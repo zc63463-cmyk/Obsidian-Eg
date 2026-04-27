@@ -3,14 +3,12 @@ title: "sphere"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 球体，球
-extension_dim: 领域范围
+extension_dim: [领域范围]
 phonetic: "/sfɪə/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ spher(球体，希腊语 *sphaira*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**球体/球**"为统筹中心，沿领域范围向外扩展：
 >
 > 1. **球体**（物理层面）
@@ -69,7 +67,7 @@ spher(球体，希腊语 *sphaira*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ spher(球体，希腊语 *sphaira*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sphere 来自希腊语 *sphaira*（球）。核心就是"球"。the earth is not a perfect sphere = 地球不是一个完美的球体。从"球"引申为"领域"——sphere of influence = 势力范围（像一个球一样笼罩的区域）。sphere of activity = 活动范围。the public sphere = 公共领域。sphere 也可以指"圈子"——social sphere = 社交圈。记住 spher- 词族：[[atmosphere]] = atmo（蒸汽）+ sphere（球）= 大气层；[[hemisphere]] = hemi（半）+ sphere（球）= 半球；[[biosphere]] = bio（生命）+ sphere（球）= 生物圈。
@@ -92,7 +90,7 @@ spher(球体，希腊语 *sphaira*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ spher(球体，希腊语 *sphaira*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cube]]：立方体（sphere 球体的反义：球体↔立方体）
 > - [[flat]]：平坦的（sphere 球形的反义：球形↔平坦）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ spher(球体，希腊语 *sphaira*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sphere of influence**：势力范围
 > - **sphere of activity/interest**：活动/兴趣范围
 > - **the public sphere**：公共领域
@@ -136,19 +134,15 @@ spher(球体，希腊语 *sphaira*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The expansion of the country's sphere of influence in the region has raised concerns among neighboring states."（该国在该地区势力范围的扩大引起了邻国的担忧。——考研英语阅读国际政治类话题，sphere of influence 高频考点）
 > - "Women's participation in the public sphere has significantly increased over the past few decades."（过去几十年来，女性参与公共领域的程度显著增加。——考研英语阅读社会类话题，public sphere 高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

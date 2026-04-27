@@ -3,14 +3,12 @@ title: "shave"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 刮（用刀片削去表面）
-extension_dim: 动作→结果→抽象
+extension_dim: [动作→结果→抽象]
 phonetic: "/ʃeɪv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**刮（用刀片削去表面）**"为统筹中心，沿动作→结果→抽象向外扩展：
 >
 > 1. **刮**（动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 早上起来照镜子，拿起剃刀 shave your beard（刮胡子）。公司要削减开支，老板说 let's shave the budget（削减预算）。考试刚及格，那叫 shave a pass（勉强通过）。差点出车祸但没撞上，那就是 a close shave（侥幸躲过）。shave 就是从"刮"出发，延伸到一切"削去"和"险险掠过"的场景。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[grow]]：生长（shave 的反义：刮去↔生长）
 > - [[add]]：增加（shave 的反义：削减↔增加）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shave one's beard/face**：刮胡子/刮脸
 > - **a close shave**：侥幸躲过，九死一生
 > - **shave off**：剃掉；削减
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It's no accident that most gas stations have convenience stores attached."（大多数加油站都有便利店，这绝非偶然。——六级真题，含 shave 语境）
 > - "He really should shave himself every other day at least and put on something clean."（他至少应该每隔一天刮一次胡子，穿上干净的衣服。——四级真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

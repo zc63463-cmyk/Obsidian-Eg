@@ -3,17 +3,14 @@ title: "sorrow"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 悲伤（内心的痛苦）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɒrəʊ/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: sore
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**悲伤**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **悲伤**（情感层面）
@@ -67,7 +64,7 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sorrow 源自古英语 sorg（悲伤、忧虑），和 [[sore]]（疼痛的）同源——古英语中 sār 是身体的"痛"，sorg 是心里的"痛"。人生的 joys and sorrows（悲欢离合）就是身体的痛和心里的痛交织在一起。sorrow 和 sorry（难过的）也同源——你感到 sorrow 时就会说 sorry。
@@ -90,7 +87,7 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[joy]]：欢乐（sorrow ↔ joy，悲伤 ↔ 欢乐）
 > - [[happiness]]：幸福（sorrow ↔ happiness，悲伤 ↔ 幸福）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **deep sorrow**：深深的悲伤
 > - **the joys and sorrows of life**：人生的悲欢离合
 > - **sorrow at/over**：对……感到悲伤（She expressed sorrow at the loss of her friend.）
@@ -128,18 +125,14 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Life is a mixture of joys and sorrows."（人生是悲欢离合的混合体——考研写作常用表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

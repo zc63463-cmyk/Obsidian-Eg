@@ -3,17 +3,14 @@ title: "majority"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 较大的部分
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/məˈdʒɒrəti/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: major
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**较大的部分**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **较大的部分**（数量层面）
@@ -69,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > majority = major（较大的）+ -ity（名词后缀）→ 较大的部分→多数。想象一个投票箱，其中 60 票投"赞成"、40 票投"反对"——60 票就是 **majority**（多数）。同样，一个班级里大多数同学喜欢篮球——the **majority** of students like basketball。记住 majority = major + -ity = 较大的部分 = 多数。
@@ -94,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[minority]]：少数，少数派（majority 的精确反义：多数↔少数）
 > - [[minority]]：少数群体（多数人↔少数群体）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the majority of...**：……的大多数
 > - **a / the vast majority**：绝大多数
 > - **win by a majority**：以多数票获胜
@@ -138,7 +135,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The vast majority of people support the new policy."（绝大多数人支持这项新政策）——高频句型
 > - "The party won by a narrow majority."（该党以微弱多数获胜）——政治语境
 > - "A majority of students prefer online learning."（大多数学生更喜欢在线学习）——教育语境
@@ -146,15 +143,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

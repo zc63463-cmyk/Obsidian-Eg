@@ -3,14 +3,12 @@ title: "whale"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 巨大的海洋哺乳动物（鲸鱼）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/weɪl/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**巨大的鲸鱼**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **巨大的鲸鱼**（动物层面）
@@ -65,7 +63,7 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > whale 的核心画面是"巨大的鲸鱼"。鲸鱼是海洋中最大的生物，力量惊人。因为鲸鱼的力量感太强了，所以 whale 作为动词引申出"猛击"——像鲸鱼一样狠狠地打。whale on someone = 狠狠揍某人。想象一条巨大的鲸鱼用尾巴猛击海面——那就是 whale 作为动词的画面。
@@ -88,7 +86,7 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - whale 作为名词（鲸鱼）无直接反义词
 > - whale 作为动词（猛击）的反义：[[caress]]（抚摸）、[[comfort]]（安慰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **whale on**：猛击，狠狠地打（口语）
 > - **whale away at**：拼命干，猛烈攻击
 > - **a whale of a**：极好的，极大的（口语，如 a whale of a time = 玩得极开心）
@@ -128,19 +126,15 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The blue whale, the largest animal ever known to have existed on Earth, can grow up to 30 meters in length and weigh as much as 200 tons."（蓝鲸是地球上已知存在的最大动物，体长可达30米，体重可达200吨——考研阅读生态话题相关表达）
 > - "Commercial whaling in the 19th century nearly drove several whale species to extinction, prompting international efforts to protect these magnificent creatures."（19世纪的商业捕鲸几乎使几种鲸鱼灭绝，促使国际社会努力保护这些壮丽的生物——考研阅读环保话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

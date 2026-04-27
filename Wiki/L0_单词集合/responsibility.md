@@ -3,14 +3,12 @@ title: "responsibility"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 回过头承诺的事（必须承担的义务）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˌspɒnsəˈbɪləti/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**回过头承诺的事（必须承担的义务）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **回过头承诺的事**（义务层面）
@@ -67,7 +65,7 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（回）+ spons（承诺）→ 你答应了，就要负责。父母答应照顾孩子——take responsibility for children。公司承诺保护环境——corporate social responsibility。一个人主动承担错误——show a sense of responsibility。responsibility 就是"你承诺了就必须扛的事"。
@@ -89,7 +87,7 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[irresponsibility]]：不负责任（responsibility 的直接反义）
 > - [[negligence]]：疏忽，失职（responsibility 的反义：承担责任↔疏忽失职）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take responsibility for**：承担……的责任
 > - **sense of responsibility**：责任感
 > - **social responsibility**：社会责任
@@ -130,19 +128,15 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It's a self-examination that has, at various times, involved issues of responsibility, creative freedom and the corporate bottom line."（这种自我审视在不同时期涉及了责任、创作自由和公司底线等问题——1997年考研阅读4）
 > - "The responsibility for the latest wave of strikes rests on the unions."（最近这一波罢工的责任在于工会——2021年考研英语一阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

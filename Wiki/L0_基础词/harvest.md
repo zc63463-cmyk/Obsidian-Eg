@@ -3,14 +3,12 @@ title: "harvest"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 收割，收获
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈhɑːvɪst/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**收割，收获**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **收割**（农事层面）
@@ -67,7 +65,7 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > harvest 原意就是"秋天"——古英语 hærfest。秋天是收获的季节，所以 harvest 变成了"收割、收获"。农民在 harvest season（收获季节）harvest the crops（收割庄稼），期待 a plentiful harvest（丰收）。考研中常考引申义：reap the harvest of one's efforts（收获努力的成果）。
@@ -90,7 +88,7 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sow]]：播种（收获↔播种，时间轴的两端）
 > - [[plant]]：种植（收获↔种植）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,26 +125,22 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **harvest season**：收获季节——The harvest season is approaching.
 > - **a good/plentiful harvest**：丰收——They had a plentiful harvest this year.
 > - **reap the harvest**：收获成果——You will reap the harvest of your hard work.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Unfavourable weather has had damaging effects on this year's harvest."（恶劣天气对今年的收成造成了破坏性影响——考研相关阅读，harvest 指农作物的收成）
 > - "A decorated egg thrown into the field would be a wish for a good harvest."（一个装饰好的彩蛋被扔进田里，那是对丰收的祝愿——考研阅读文化背景材料，涉及西方农业传统中的 harvest 文化）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "ignorance"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 不知道的状态
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɪɡnərəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不知道的状态**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不知道的状态**（个人认知层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ignorance 是 ignore（忽视）的名词形式——当你长期**忽视**学习，就会陷入**无知**。拉丁语 *in-*（不）+ *gnarus*（知道）= "不知道的状态"。想象一个人闭着眼睛、捂着耳朵说"我不知道"——这就是 ignorance 的画面。记住：ignorance 不是"愚蠢"，而是"不知道"——它可以通过学习来消除。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[knowledge]]：知识（ignorance 的精确反义：无知↔知识）
 > - [[awareness]]：意识，认知（ignorance 在认知层面的反义）
 > - [[wisdom]]：智慧（ignorance 在深度层面的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **out of ignorance**：出于无知
 > - **willful ignorance**：蓄意无知（故意选择不去了解）
 > - **ignorance of the law**：对法律的无知
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Ignorance of the law is no excuse."（不知法不能成为借口）——考研翻译/阅读常见法律类表达
 > - "out of ignorance"（出于无知）——考研阅读常见搭配
 > - "willful ignorance"（蓄意无知）——考研阅读社会/科学类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

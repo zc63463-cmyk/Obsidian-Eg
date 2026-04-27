@@ -3,14 +3,12 @@ title: "rib"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 弯曲的骨头（肋骨的弯曲形状）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/rɪb/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**弯曲的骨头**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **弯曲的骨头**（身体层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rib 就是"肋骨"——你用手摸摸胸口，能感受到一根根弯曲的骨头，那就是 rib。船的内部也有 rib（肋拱），像肋骨一样支撑船身。朋友之间 rib each other（互相开玩笑），就像用胳膊肘戳对方的肋骨——亲密的、善意的玩笑。记住：rib = 肋骨 = 骨架 = 开玩笑。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[comfort]]：安慰（rib 是开玩笑，comfort 是安慰）
 > - [[praise]]：赞美（rib 是逗弄，praise 是赞美）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rib cage**：胸腔，肋架
 > - **rib sb. about sth.**：拿某事开玩笑逗弄某人
 > - **broken rib**：肋骨骨折
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He used to rib his younger brother about his shyness."（他过去常拿弟弟的害羞开玩笑。）
 > - "The doctor confirmed that two of his ribs were fractured in the accident."（医生确认他在事故中两根肋骨骨折。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

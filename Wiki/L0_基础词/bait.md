@@ -3,14 +3,12 @@ title: "bait"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 放在钩上引诱猎物咬钩的食物
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/beɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**诱饵**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **诱饵**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bait 就是"诱饵"。钓鱼时挂在鱼钩上的蚯蚓就是 bait——等鱼来"咬"（bite）。后来引申为任何引诱人的东西。再引申到人际交往——故意说难听的话"激怒"某人，就像在鱼钩上挂上"言语的诱饵"。英语里有个常用表达：don't take the bait（别上当/别咬钩）。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[repel]]：排斥，击退（bait 的反义：引诱↔排斥）
 > - [[deter]]：阻止，威慑（bait 的反义：诱惑↔阻止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fish bait**：鱼饵
 > - **take the bait**：上当，咬钩
 > - **bait someone into doing something**：激怒某人做某事
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The opposition tried to bait the Prime Minister into making a controversial statement during the debate."（反对党试图在辩论中激怒首相，诱使他发表争议性言论——考研阅读政治话题相关表达）
 > - "Don't take the bait when someone tries to provoke you into an argument online."（当有人试图在网上挑衅你时，不要上当——考研翻译网络话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

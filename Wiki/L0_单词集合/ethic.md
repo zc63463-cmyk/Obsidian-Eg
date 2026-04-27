@@ -3,14 +3,12 @@ title: "ethic"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 属于某个群体的行为规范
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈeθɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**属于某个群体的行为规范**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **属于某个群体的行为规范**（道德层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > ethic 来自希腊语 *ethos*，意思是"习俗、性格"。古希腊人认为每个群体都有自己的 *ethos*——共同的行为准则和道德规范。想象一个古代部落，长老们围坐在篝火旁制定部落的行为规范——这些规范就是 ethic（伦理）。后来，研究这些规范的学问就变成了 ethics（伦理学）。ethic 的本质就是"群体的行为规范"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[immorality]]：不道德（道德↔不道德）
 > - [[corruption]]：腐败，堕落（伦理↔腐败）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **work ethic**：职业道德，工作态度（A strong work ethic is essential for success.）
 > - **professional ethic**：职业伦理（Doctors must follow a strict professional ethic.）
 > - **business ethic**：商业道德（The company has a strong business ethic.）
@@ -134,21 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Out of Puritanism came the intense work ethic."（强烈的职业操守源于清教主义。）——考研高频表达
 > - "The company has adopted a strict code of business ethics."（公司采纳了严格的商业道德准则。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "exile"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 被扔出去（ex-向外 + sil/ile → 被扔到外面 → 流放）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈeksaɪl/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被赶到外面**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **被赶到外面**（空间层面）
@@ -67,7 +65,7 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > exile = ex（向外）+ ile（走）→ 走到外面去 → 流放。和 exit（出口）同源——exit 是"走出去"的门，exile 是"被赶出去"的命运。想象拿破仑被流放到圣赫勒拿岛——从帝国皇帝变成孤岛囚徒，这就是 exile 的极致画面。
@@ -90,7 +88,7 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[return]]：回归（exile 流放↔return 回归）
 > - [[repatriate]]：遣返，回国（exile 流亡↔repatriate 回国）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **live in exile**：流亡生活（He lived in exile for ten years. 他流亡了十年。）
 > - **send sb. into exile**：将某人流放（The king sent him into exile. 国王将他流放。）
 > - **political exile**：政治流亡（a political exile 政治流亡者）
@@ -128,19 +126,15 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "After the revolution, many intellectuals were forced into exile."（革命后，许多知识分子被迫流亡。）
 > - "He spent twenty years in exile before being allowed to return."（他在被允许回国前流亡了二十年。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

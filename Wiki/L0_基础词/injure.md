@@ -3,14 +3,12 @@ title: "injure"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 不公正地对待（对人身或权利造成损害）
-extension_dim: 损害维度
+extension_dim: [损害维度]
 phonetic: "/ˈɪndʒə(r)/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不公正地对待**"为统筹中心，沿损害维度向外扩展：
 >
 > 1. **不公正地对待**（身体层面）
@@ -67,7 +65,7 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > injure 来自拉丁语 *injurius*（不公正的）。in（不）+ jur（法律/公正）→ 不公正 → 伤害。想象古罗马法庭上，一个无辜的人被判有罪——这就是"不公正的对待"（injure 的本义）。后来，车祸中受伤的人也是被"不公正对待"的受害者——他不该承受这样的痛苦。记住：injure = 不公正 → 伤害。注意不要和 [[inject]]（注射）混淆——inject 是"投进去"，injure 是"不公正"。
@@ -89,7 +87,7 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[heal]]：治愈（injure 的精确反义：伤害↔治愈）
 > - [[cure]]：治疗（injure 的反义：受伤↔治疗）
 > - [[protect]]：保护（injure 的反义：伤害↔保护）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be seriously/badly injured**：受重伤
 > - **injure oneself**：使自己受伤
 > - **injure one's feelings/pride**：伤害某人的感情/自尊
@@ -131,19 +129,15 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He threw a blanket over the injured man and called for an ambulance immediately."（他急忙给受伤的人披上毯子，立刻叫了救护车——考研英语阅读，社会生活话题）
 > - "The study found that children who are exposed to violent media are more likely to injure others or themselves."（研究发现，接触暴力媒体的孩子更有可能伤害他人或自己——考研英语阅读，教育心理话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

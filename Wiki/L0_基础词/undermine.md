@@ -3,14 +3,12 @@ title: "undermine"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 在下面挖掘使其坍塌
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌʌndəˈmaɪn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在下面挖掘使其坍塌**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在下面挖掘**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > undermine = under（在下面）+ mine（挖掘）。古代攻城时士兵在城墙下面挖地道，城墙失去支撑就坍塌了——这就是 undermine。后来从"物理挖掘"延伸到"抽象削弱"——undermine confidence（削弱信心），undermine trust（损害信任）。undermine 的核心就是"从根基上暗中破坏"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[strengthen]]：加强（undermine "削弱"的精确反义）
 > - [[reinforce]]：强化（undermine "侵蚀基础"的反义：加固↔挖基）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **undermine confidence/trust**：削弱信心/信任
 > - **undermine authority**：损害权威
 > - **undermine the foundation**：侵蚀基础
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The constant criticism from his supervisor gradually undermined his confidence in his own abilities."（主管不断的批评逐渐削弱了他对自己能力的信心。——考研阅读职场话题高频表达）
 > - "Corruption and mismanagement have seriously undermined public trust in government institutions."（腐败和管理不善严重损害了公众对政府机构的信任。——考研翻译政治话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

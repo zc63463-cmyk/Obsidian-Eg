@@ -3,17 +3,14 @@ title: "remarkable"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 值得被反复标记的（值得注意的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈmɑːkəbl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: mark
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**值得被反复标记的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **值得被反复标记的**（注意层面）
@@ -66,7 +63,7 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（再）+ mark（标记）+ able（可以被）→ 可以被反复标记的 → 非凡的。remark 是"评论"，remarkable 是"值得被评论的"。一个 remarkable 的学生让老师反复 remark——太出色了。a remarkable change 是值得反复标记的变化——显著的变化。
@@ -88,7 +85,7 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +98,14 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unremarkable]]：普通的，不引人注目的（remarkable 的精确反义：非凡↔普通）
 > - [[ordinary]]：普通的（remarkable 的反义：非凡↔普通）
 > - [[common]]：常见的（remarkable 的反义：不寻常↔常见）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a remarkable achievement**：非凡的成就
 > - **a remarkable person**：非凡的人
 > - **remarkable progress**：显著的进步
@@ -129,19 +126,15 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She has made remarkable progress in her studies this semester."（这学期她在学业上取得了显著进步）
 > - "It is remarkable how quickly technology has transformed our daily lives."（技术如此迅速地改变了我们的日常生活，这真是非同寻常）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

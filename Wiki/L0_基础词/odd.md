@@ -3,14 +3,12 @@ title: "odd"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 三角形的尖端（超出常规的部分）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɒd/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**超出常规的尖端**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **超出常规的尖端**（形状层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自古诺斯语 oddi（三角形尖端）→ 超出常规的部分 → 奇怪的。1、3、5 是奇数——因为它们"超出"了成对的范围。odd jobs 是零工——因为它们"超出"了正式工作范围。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[even]]：偶数的；平坦的（odd 的精确反义：奇数↔偶数）
 > - [[normal]]：正常的（odd 的反义：奇怪↔正常）
 > - [[regular]]：固定的，常规的（odd 的反义：临时↔固定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **odd numbers**：奇数
 > - **odd jobs**：零工，杂活
 > - **an odd feeling**：一种奇怪的感觉
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Odd though it sounds, cosmic inflation is a scientifically plausible consequence of some respected ideas in elementary particle physics."（虽然听起来很奇怪，但宇宙膨胀是基本粒子物理学中一些公认观点的科学合理结果。——1998年考研翻译）
 > - "Left, until now, to odd, low-level IT staff to put right, information protection is now high on the boss's agenda in businesses of every variety."（信息保护过去一直交给临时的、低级别的IT人员来处理，而现在已成为各类企业老板议程上的重中之重。——2007年英语一Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "international"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 在国家之间
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌɪntəˈnæʃnəl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在国家之间**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在国家之间**（社会层面）
@@ -69,7 +67,7 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inter（在…之间）+ nation（国家）→ 想象一张世界地图，中国和美国之间画一条线，这条线就是 international（国际的）。两个国家之间做生意叫 international trade（国际贸易），多个国家坐在一起开会叫 international conference（国际会议），各国运动员同场竞技叫 international competition（国际比赛）。
@@ -92,7 +90,7 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[internal]]：国内的，内部的（international 的精确反义：国际↔国内）
 > - [[domestic]]：国内的，家庭的（international 的反义：国际↔国内）
 > - [[national]]：国家的，民族的（international 的反义：国际↔国家层面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **international trade**：国际贸易
 > - **international relations**：国际关系
 > - **international law**：国际法
@@ -134,23 +132,15 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "European ministers instantly demanded that the International Accounting Standards Board (IASB) do likewise."（欧洲各国的部长们立即要求国际会计准则委员会也这样做。——2010年考研英语一阅读）
 > - "The IASB says it does not want to act without overall planning, but the pressure to fold when it completes its reconstruction of rules later this year is strong."（国际会计准则委员会表示它不想在没有整体规划的情况下行动，但当它今年晚些时候完成规则重建时所面临的妥协压力是巨大的。——2010年考研英语一阅读）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

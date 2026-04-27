@@ -3,14 +3,12 @@ title: "fairly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 以公正的方式
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈfeəli/"
 pos: adv.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**以公正的方式**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **以公正的方式**（社会评价层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fairly 就是 fair（公平的）的副词形式。想象一个**公正的**（fair）法官**公正地**（fairly）审理案件。fairly 还有一个常用含义"相当"——因为"公正"意味着"不过分"，"相当"就是"不过分"的程度。fairly good = 相当好（不是特别好，但还不错）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unfairly]]：不公平地（fairly 公正义的反义：公正↔不公正）
 > - [[extremely]]：极其（fairly "相当"义的反义：适度↔极端）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **treat someone fairly**：公平对待某人
 > - **fairly good/easy/common**：相当好/容易/常见
 > - **fairly certain/sure**：相当确定
@@ -129,22 +127,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The system is fairly effective."（这个系统相当有效）——考研阅读常见搭配，表示适度肯定
 > - "Employees should be treated fairly."（员工应受到公平对待）——社会类话题
 > - "A fairly unbiased evaluation of the data..."（对数据的相当公正的评价……）——学术类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

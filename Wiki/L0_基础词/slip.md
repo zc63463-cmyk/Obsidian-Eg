@@ -3,14 +3,12 @@ title: "slip"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 滑动（失去抓力而滑移）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/slɪp/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**滑动（失去抓力而滑移）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **滑动**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > slip 就是"滑"。脚在冰上 slip（滑倒），小偷 slip away（溜走），说话时不小心 slip of the tongue（说漏嘴）。所有 slip 都有一个共同点：不受控制地"滑"出去。记住 slip = 滑，一切引申义都从"滑"来。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[grip]]：抓紧（slip 的反义：滑走↔抓紧）
 > - [[stay]]：停留（slip 的反义：溜走↔停留）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **slip on the ice**：在冰上滑倒
 > - **slip away/out**：悄悄溜走
 > - **slip through one's fingers**：从指缝中滑落；错失
@@ -142,20 +140,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Well, if this were true, we would all be slipping a few 100-dollar bills to our doctors on the way out their doors, too."（好吧，如果这是真的，那我们大家在出门时也都会悄悄塞给医生几张百元大钞了。——考研真题阅读）
 > - "I was starting to feel like my whole world was falling apart — kind of slipping into a depression," said Carla.（Carla 说："我开始觉得我的整个世界都在崩塌——有点滑入抑郁之中。"——考研真题语料）
 > - "In writing about their own experiences many applicants slip into clichés."（在写自己的经历时，许多申请者会不知不觉陷入老生常谈。——考研真题阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

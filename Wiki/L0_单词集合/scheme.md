@@ -3,14 +3,12 @@ title: "scheme"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 形式、形状、外观
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/skiːm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**形式、框架**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **形式、框架**（抽象层面）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scheme 来自希腊语 skhēma（形式、框架）。政府按框架制定"方案"（training scheme），画家按框架设计"配色"（color scheme），坏人按框架策划"阴谋"（a scheme to cheat）。记住：scheme = 有框架的计划——可以是好方案，也可以是坏阴谋，取决于谁在做。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[chaos]]：混乱（scheme 的反义：有组织的体系↔混乱无序）
 > - [[spontaneity]]：自发性（scheme 的反义：精心策划↔自然发生）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a pension scheme**：养老金计划
 > - **a training scheme**：培训计划
 > - **a color scheme**：配色方案
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "a pension scheme"（养老金计划）——考研阅读中社会福利类话题高频搭配
 > - "a scheme to reduce carbon emissions"（减少碳排放的计划）——考研阅读中环保类话题
 > - "scheme against rivals"（密谋对付竞争对手）——考研阅读中商业/政治类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

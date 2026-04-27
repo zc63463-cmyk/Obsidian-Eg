@@ -3,14 +3,12 @@ title: "novelty"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 新奇事物
-extension_dim: 从事物到品质
+extension_dim: [从事物到品质]
 phonetic: "/ˈnɒvəlti/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**新奇性**"为统筹中心，沿从事物到品质向外扩展：
 >
 > 1. **新颖的状态**（抽象层面）
@@ -67,7 +65,7 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > novelty = novel（新颖的）+ -ty（名词后缀，表状态/性质）。字面义就是"新颖的状态"。想象你刚买了一部最新款的手机，第一周你爱不释手，天天把玩——这就是 novelty（新奇感）。但一个月后，你开始觉得"也就那样"——这就是 "the novelty wore off"（新奇感消退了）。考研重点掌握抽象用法：① **the novelty of X** = X的新奇性/新颖性；② **novelty wears off** = 新鲜感消退。还有一个特殊含义：novelty shop 里卖的"新奇小商品"——造型奇特但不太实用的小玩意儿。
@@ -90,7 +88,7 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conventionality]]：常规性（novelty 的精确反义：新奇性↔常规性）
 > - [[familiarity]]：熟悉感（novelty 的体验反义：新奇感↔熟悉感）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the novelty of**：……的新奇性（考研高频搭配）
 > - **the novelty wears off**：新鲜感消退（考研高频表达）
 > - **novelty value**：新奇价值
@@ -132,19 +130,15 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The novelty of the Internet has worn off, but its transformative power remains undiminished."（互联网的新奇感已经消退，但其变革力量依然不减。——考研英语阅读科技类话题，novelty wears off 是高频考点）
 > - "There is a certain novelty in reading a book written entirely by artificial intelligence."（阅读一本完全由人工智能撰写的书确实有一种新奇感。——考研英语阅读科技类话题，the novelty of 是高频搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

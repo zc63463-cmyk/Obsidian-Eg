@@ -3,14 +3,12 @@ title: "pension"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 定期支付的钱（为"付款"而支付）
-extension_dim: 社会保障
+extension_dim: [社会保障]
 phonetic: "/ˈpenʃn/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**定期支付的钱**"为统筹中心，沿社会保障维度向外扩展：
 >
 > 1. **定期支付**
@@ -67,7 +65,7 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pension 来自拉丁语 *pensio*（称量/支付）。想象你工作了一辈子，退休那天公司给你一个承诺：每个月定期给你一笔钱——这就是 pension（养老金）。古罗马士兵退役后，国家也会定期给他们支付酬金，这就是 pension 的最早用法。记住 pens = 支付，pension = 定期支付的钱。
@@ -90,7 +88,7 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[tax]]：税（pension 的反义：领取↔缴纳）
 > - [[contribution]]：缴费（pension 的反义：领取退休金↔缴纳社保）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **draw/receive a pension**：领取养老金
 > - **state pension**：国家养老金
 > - **pension fund**：养老基金
@@ -130,19 +128,15 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many older people find it difficult to live on their state pension."（许多老年人发现靠国家养老金生活很困难。——考研英语二2015翻译）
 > - "The government has proposed reforms to the public sector pension scheme."（政府提出了公共部门养老金计划的改革方案。——考研英语一2014阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "magistrate"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 地方法官（行使司法权的官员）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmædʒɪstreɪt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: master
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**地方法官**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **长官/法官**（社会层面）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > magistrate = 拉丁语 *magistratus* = 地方官。*magister* = 主人、长官，字面意思是"更大的那个人"（*magis* 更大 + *-ter* 比较级后缀）。与 [[mag]] 词根（大、伟大）相关。词源演变：*magos*（巫师/占卜者）→ *magister*（长官/法官）——古代法官和占卜者都负责"解读"。与 [[master]]（主人）同源。magistrate's court = 地方法院。appear before a magistrate = 出庭受审。
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[defendant]]：被告（magistrate 的审判对象：法官↔被告）
 > - [[plaintiff]]：原告（magistrate 的审判对象：法官↔原告）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **magistrate's court**：地方法院
 > - **appear before a magistrate**：出庭受审
 > - **lay magistrate**：非专业治安法官（英国）
@@ -125,19 +122,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The defendant was ordered to appear before a magistrate to face charges of theft and vandalism committed during the overnight disturbance."（被告被命令出庭接受地方法官的审判，面临在夜间骚乱中犯下的盗窃和故意破坏指控——考研翻译法律话题相关表达）
 > - "In many common law jurisdictions, lay magistrates play a vital role in the criminal justice system, handling the vast majority of minor criminal cases."（在许多普通法管辖区，非专业治安法官在刑事司法体系中发挥着至关重要的作用，处理绝大多数轻微刑事案件——考研阅读法律体系话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

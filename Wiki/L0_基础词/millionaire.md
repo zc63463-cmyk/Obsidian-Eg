@@ -3,17 +3,14 @@ title: "millionaire"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 拥有百万资产的人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌmɪljəˈneə/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: million
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拥有百万资产的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **拥有百万资产的人**（财富层面）
@@ -62,7 +59,7 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > million（百万）+ aire（人）→ millionaire（百万富翁）。self-made millionaire（白手起家的百万富翁）——靠自己赚到百万的人。
@@ -84,7 +81,7 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +93,13 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[pauper]]：穷人（millionaire 的精确反义：富翁↔穷人）
 > - [[beggar]]：乞丐（millionaire 的反义：富翁↔乞丐）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,26 +111,22 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **self-made millionaire**：白手起家的百万富翁
 > - **become a millionaire**：成为百万富翁
 > - **millionaire next door**：邻家百万富翁（指低调的富人）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The self-made millionaire attributed his success to hard work and perseverance."（这位白手起家的百万富翁将他的成功归功于努力和毅力——考研励志类阅读）
 > - "Not all millionaires live a luxurious lifestyle."（并非所有百万富翁都过着奢侈的生活——考研社会类阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

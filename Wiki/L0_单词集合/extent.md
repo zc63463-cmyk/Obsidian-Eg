@@ -3,14 +3,12 @@ title: "extent"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 向外伸展的范围（伸展到了多远）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪkˈstent/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ ex-(=out, 向外) + tent(=[[tend-tens|tend]]的过去分词形式，=伸展到�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外伸展的范围**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向外伸展的范围**（空间层面）
@@ -64,7 +62,7 @@ ex-(=out, 向外) + tent(=[[tend-tens|tend]]的过去分词形式，=伸展到�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ex-(=out, 向外) + tent(=[[tend-tens|tend]]的过去分词形式，=伸展到�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向外）+ tent（伸展）→ 向外伸展到的范围。想象你在沙漠中行走，向四面八方伸展——你伸展到了多远，就是 extent。一场火灾烧毁了多大范围——the extent of the fire。你同意对方到什么程度——to some extent（伸展到了某个程度）。extent 的灵魂就是"伸展到了多远"。
@@ -86,7 +84,7 @@ ex-(=out, 向外) + tent(=[[tend-tens|tend]]的过去分词形式，=伸展到�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ex-(=out, 向外) + tent(=[[tend-tens|tend]]的过去分词形式，=伸展到�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[limit]]：限制，限度（extent 的反义：伸展的范围 vs 限制的边界）
 > - [[restriction]]：限制（extent 的反义：广泛的范围 vs 受限的范围）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ ex-(=out, 向外) + tent(=[[tend-tens|tend]]的过去分词形式，=伸展到�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **to some extent**：在某种程度上
 > - **to a large/great extent**：在很大程度上
 > - **to the extent that**：到……的程度
@@ -127,23 +125,15 @@ ex-(=out, 向外) + tent(=[[tend-tens|tend]]的过去分词形式，=伸展到�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "How we read a given text also depends to some extent on our particular interest in reading it."（我们如何阅读一个既定的文本，在某种程度上也取决于我们阅读它的特定兴趣。——2015年考研英语一新题型）
 > - "Even employment protection laws, if they do not put the jobs of ordinary workers at risk, limit firms' productivity to the extent that they restrict the owners' ability to fire underperforming managers."（即使就业保护法不会使普通员工的岗位处于危险之中，但只要其在某种程度上限制企业所有者解雇表现不佳的经理，这些法律就限制了企业的生产率。——考研英语真题）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

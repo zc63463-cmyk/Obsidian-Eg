@@ -3,17 +3,14 @@ title: "pneumonia"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 肺部（pneumon-）的炎症（-ia）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/njuːˈməʊniə/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: pneumon
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**肺部疾病**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **肺部疾病**（医学层面）
@@ -63,7 +60,7 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pneumon（肺）+ -ia（疾病）。想象肺部被炎症"攻占"——呼吸急促、高烧不退，这就是 pneumonia（肺炎）。记住 pneum- 系列都与"空气/肺/呼吸"有关。
@@ -85,7 +82,7 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +94,12 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - pneumonia 为医学专有名词，无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **contract/catch pneumonia**：感染肺炎
 > - **die of/from pneumonia**：死于肺炎
 > - **pneumonia patient**：肺炎患者
@@ -127,19 +124,15 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "His disease was complicated by pneumonia."（他的病因肺炎并发症而变得更加复杂——医学文献常见表达）
 > - "Pneumonia carried him off last winter."（他去年冬天因肺炎去世——文学常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

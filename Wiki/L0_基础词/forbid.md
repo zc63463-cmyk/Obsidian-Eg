@@ -3,14 +3,12 @@ title: "forbid"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 在外面守卫（把人挡在外面）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/fərˈbɪd/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在外面守卫（把人挡在外面）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在外面守卫**（社会管控层面）
@@ -63,7 +61,7 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > for（外面）+ bid（命令）→ 守卫站在外面下命令："不许进！"→ forbid（禁止）。The Forbidden City 就是"被禁止的城市"——紫禁城，普通人被挡在外面。
@@ -86,7 +84,7 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[allow]]：允许（forbid 的精确反义：禁止↔允许）
 > - [[permit]]：许可（forbid 的反义：禁止↔许可）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **forbid sb. to do sth.**：禁止某人做某事
 > - **forbid sb. from doing sth.**：禁止某人做某事
 > - **strictly forbid**：严禁
@@ -124,19 +122,15 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The law forbids discrimination on the basis of race, gender, or age."（法律禁止基于种族、性别或年龄的歧视——考研法律类阅读）
 > - Smoking is strictly forbidden in public places.（公共场所严禁吸烟——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

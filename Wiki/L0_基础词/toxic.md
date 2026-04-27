@@ -3,14 +3,12 @@ title: "toxic"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 有毒的，源自毒药的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtɒksɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有毒的，源自毒药的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **毒药**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > toxic 的核心画面是"古希腊战士在箭头上涂抹毒药——弓毒"。希腊语 *toxon* = 弓。*toxikon* = 弓上的毒药。toxic = 有毒的。toxic waste（有毒废物）= 对环境有害的废物。a toxic relationship（有害的关系）= 像毒药一样伤害你的关系。toxic masculinity（有害的男子气概）= 像毒药一样有害的男性特质。toxin（毒素）和 intoxicate（使中毒/使陶醉）同源。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[harmless]]：无害的（toxic 的精确反义：有毒↔无害）
 > - [[nontoxic]]：无毒的（toxic 的反义派生）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **toxic waste**：有毒废物
 > - **toxic chemicals**：有毒化学品
 > - **toxic relationship**：有害的关系
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The dumping of toxic waste into rivers has caused severe environmental degradation, threatening the health of millions of people who depend on these water sources for drinking and irrigation."（将有毒废物倾倒入河流造成了严重的环境退化，威胁了数百万依赖这些水源进行饮用和灌溉的人的健康——考研阅读环保话题相关表达）
 > - "Workplace bullying creates a toxic environment that not only damages employees' mental health but also reduces overall productivity and increases staff turnover rates."（职场霸凌创造了一种有害的环境，不仅损害员工的心理健康，还降低了整体生产力并增加了员工流失率——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

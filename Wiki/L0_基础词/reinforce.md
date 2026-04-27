@@ -3,14 +3,12 @@ title: "reinforce"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 再次注入力量（re-再 + in + force力）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌriːɪnˈfɔːs/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**再次注入力量**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **再次注入力量**（物理层面）
@@ -67,7 +65,7 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（再）+ in（进入）+ force（力量）→ 再次注入力量 → 加强。屋顶用混凝土 reinforce（加固），观点用证据 reinforce（强化），军队用兵力 reinforce（增援）。reinforce 就是"给……加力量"。
@@ -89,7 +87,7 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[weaken]]：削弱（reinforce 的精确反义：加强↔削弱）
 > - [[undermine]]：破坏，削弱（reinforce 的反义：强化↔破坏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reinforce the argument/belief**：加强论点/信念
 > - **reinforce the idea**：强化观点
 > - **reinforce stereotypes**：强化刻板印象
@@ -135,19 +133,15 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government."（但是，这项裁决强化了公民及其选出的代表（而不是法院）平等地接触政府的必要性——2017年考研英语阅读）
 > - "Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them — especially for young people."（事实上，这段经济疲软时期可能会强化阶级分化，并减少跨越阶级的机会——尤其是对年轻人而言——2012年考研英语二阅读Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "sober"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 未醉的、清醒的（没有酒精影响的理性状态）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsəʊbə(r)/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**未醉的、清醒的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **未醉**（生理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sober = se（没有）+ ebrius（醉）= 没有醉 = 清醒的。想象一个人在酒宴上滴酒不沾，保持清醒——这就是 sober。清醒的人做判断是理性的——sober judgment（清醒的判断）。清醒的人态度不轻浮——a sober attitude（严肃的态度）。记住 ebrius = 醉：inebriate（使醉）。sober 和 [[sob]]（啜泣）形近但无关。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drunk]]：醉的（sober 的精确反义：清醒↔醉酒）
 > - [[frivolous]]：轻浮的（sober 的反义：严肃↔轻浮）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sober judgment**：清醒的判断
 > - **a sober mind**：清醒的头脑
 > - **a sober assessment**：冷静的评估
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A sober assessment of the economic situation reveals that the recovery will take longer than initially expected."（对经济形势的冷静评估表明，复苏将比最初预期的需要更长时间——考研阅读经济话题相关表达）
 > - "The tragic event served as a sober reminder that natural disasters can strike without warning."（这一悲剧事件是一个清醒的提醒：自然灾害可能在毫无预警的情况下发生——考研翻译社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

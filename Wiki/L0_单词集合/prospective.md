@@ -3,14 +3,12 @@ title: "prospective"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 向前看（提前展望未来）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/prəˈspektɪv/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前看**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **向前看**（认知层面：提前展望）
@@ -64,7 +62,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（向前）+ spect（看）→ 站在当下向未来眺望 → 预期的。你参加招聘会，向前看那些即将成为同事的人——prospective colleagues。你向未来看，看到一个即将成为你伴侣的人——prospective boyfriend。
@@ -87,7 +85,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retrospective]]：回顾的（与"向前看"形成时间方向对立：前瞻↔回顾）
 > - [[current]]：当前的（与"未来的"形成时间对立：未来↔现在）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **prospective buyer/customer/client**：潜在的买家/客户
 >  > There were offers from several prospective buyers.
 > - **prospective student/employee**：未来的学生/雇员
@@ -128,19 +126,15 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Consumers seem only mildly concerned, not panicked, and many say they remain optimistic about the economy's long-term prospects, even as they do some modest belt-tightening."（消费者似乎只是适度地担忧，没有恐慌，许多人说即使在他们稍微节省开支的时候，对经济的长期前景也仍是乐观的——2004年考研阅读Text 3，prospect 同源）
 > - "Given the fact that a prospective student is bombarded by prospectuses, selecting a suitable course is not easy."（考虑到一个未来的学生被各种招生简章轰炸，选择合适的课程并不容易——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

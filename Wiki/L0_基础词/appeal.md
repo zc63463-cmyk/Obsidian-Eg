@@ -3,14 +3,12 @@ title: "appeal"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 向……呼吁（向某人发出请求）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈpiːl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向……呼吁**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向……呼吁**（请求层面）
@@ -65,7 +63,7 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ap（向）+ peal（呼叫）→ appeal（向某人呼叫→呼吁）。向公众呼吁（appeal to the public），向高级法院呼吁就是上诉（appeal），向你的兴趣呼吁就是吸引你（appeal to you）。appeal 的核心就是"向……发出呼吁"。
@@ -88,7 +86,7 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[repel]]：排斥（appeal 的反义：吸引↔排斥）
 > - [[reject]]：驳回（appeal 的法律反义：上诉↔驳回上诉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **appeal to**：呼吁；上诉；吸引
 > - **appeal for**：请求，呼吁
 > - **broad appeal**：广泛的吸引力
@@ -127,19 +125,15 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The idea of working from home appeals to many employees."（在家工作的想法吸引了许多员工。）
 > - "The defendant filed an appeal against the court's decision."（被告对法院的判决提出了上诉。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

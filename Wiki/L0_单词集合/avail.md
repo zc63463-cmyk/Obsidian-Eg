@@ -3,17 +3,14 @@ title: "avail"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 有价值的，有用的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈveɪl/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: val
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ a-(加强语气) + val-(价值) → avail(使有价值→有用)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有价值的，有用的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **有价值的，有用的**（抽象层面——具有价值）
@@ -67,7 +64,7 @@ a-(加强语气) + val-(价值) → avail(使有价值→有用)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ a-(加强语气) + val-(价值) → avail(使有价值→有用)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > a-（加强）+ val（价值）= 使有价值→有用。想象你拼命努力复习，但考试还是不及格——所有努力都**无济于事**（to no avail），因为方向错了。avail 多用于否定句，记住"no avail = 没用"就够了。
@@ -92,7 +89,7 @@ a-(加强语气) + val-(价值) → avail(使有价值→有用)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ a-(加强语气) + val-(价值) → avail(使有价值→有用)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fail]]：失败（有用 vs 失败）
 > - [[uselessness]]：无用（效用 vs 无用）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,27 +120,21 @@ a-(加强语气) + val-(价值) → avail(使有价值→有用)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **to no avail / of no avail**：无济于事（All his efforts were to no avail.）
 > - **avail oneself of**：利用（Students should avail themselves of the library resources.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All his efforts were to no avail."（他的一切努力都无济于事。）——考研高频表达
 > - "Students should avail themselves of the library resources to enhance their learning."（学生应该利用图书馆资源来促进学习。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

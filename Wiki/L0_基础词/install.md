@@ -3,14 +3,12 @@ title: "install"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: [instal]
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 放入固定位置（安置就位）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈstɔːl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**放入固定位置**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **放入固定位置**（物理层面）
@@ -66,7 +64,7 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 中世纪教堂仪式中，新牧师被正式安排坐到唱诗班的固定座位（stall）上，这就是 install 的本义。后来从"把人安排到座位上"扩展到"把设备安装到位置上"。install 就是"放到该在的位置"。
@@ -88,7 +86,7 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[uninstall]]：卸载（install 的精确反义：安装↔卸载）
 > - [[remove]]：移除，拆除（install 的反义：安装↔移除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **install a system/software**：安装系统/软件
 > - **install sb. as sth.**：正式任命某人为……
 > - **install oneself in**：在……安顿下来
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has installed a new security system to protect the nation's infrastructure."（政府安装了新的安全系统以保护国家基础设施）
 > - "She was installed as the new chair of the department."（她被正式任命为系主任）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "fraction"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 打碎后的一小块（整体破裂后的碎片）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈfrækʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打碎后的一小块**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **打碎后的一小块**（物理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fraction 来自拉丁语 frangere"打碎"。想象你把一块蛋糕 fract（打碎），每一块碎片就是一个 fraction。数学中的 fraction（分数）也是同样的道理——把 1 打碎成几份，每一份就是一个 fraction。a fraction of the cost 就是"成本的碎片"——只需花一小部分钱。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whole]]：整体（fraction 的精确反义：碎片↔整体）
 > - [[entirety]]：全部，整体（fraction 的反义：部分↔全部）
 > - [[majority]]：大多数（fraction 的反义：小部分↔大多数）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a fraction of**：……的一小部分
 > - **only a fraction**：仅仅一小部分
 > - **a tiny/small fraction**：极小的一部分
@@ -129,20 +127,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Only a fraction of the population has access to clean drinking water."（只有一小部分人能获得清洁饮用水——考研高频表达）
 > - "The new technology costs a fraction of what the old system did."（新技术的成本仅为旧系统的一小部分）
 > - "She paused for a fraction of a second before answering."（她在回答前停顿了极短的一瞬间）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

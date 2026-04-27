@@ -3,14 +3,12 @@ title: "horsepower"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 马力（一匹马做功的功率单位）
-extension_dim: 计量路径
+extension_dim: [计量路径]
 phonetic: "/ˈhɔːspaʊə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**马力（一匹马做功的功率单位）**"为统筹中心，沿计量路径向外扩展：
 >
 > 1. **马力**（物理计量层面）
@@ -65,7 +63,7 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > horsepower = horse（马）+ power（力量）= 马力。18世纪末，瓦特发明蒸汽机后，为了让普通人理解蒸汽机有多强大，他用"马"来衡量——一匹马在一分钟能把33,000磅的水提升一英尺，这就是1马力。所以一辆200马力的车，相当于200匹马同时拉你。horsepower 是一个用动物力量衡量机械功率的巧妙类比。
@@ -87,7 +85,7 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （horsepower 作为计量单位，无直接反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **brake horsepower (BHP)**：制动马力
 > - **rated horsepower**：额定马力
 > - **horsepower rating**：额定功率
@@ -124,19 +122,15 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new model boasts a 300-horsepower engine, a significant improvement over its predecessor."（新款车型配备了300马力的发动机，比前代产品有了显著提升。——考研英语阅读相关语料，科技话题）
 > - "James Watt coined the term 'horsepower' to help market his steam engines."（詹姆斯·瓦特创造了"马力"这个词来帮助推销他的蒸汽机。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

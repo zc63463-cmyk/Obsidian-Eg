@@ -3,14 +3,12 @@ title: "unanimous"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 一个心思/一个灵魂（unus + animus = 一个思想）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/juːˈnænɪməs/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一个思想**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **一个思想/灵魂**（心理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > unanimous 的核心画面是"所有人共用一个大脑"。拉丁语 *unus* = 一，*animus* = 思想。*un-* = 一，*anim* = 思想/灵魂，*-ous* = 充满的。充满一个思想的 → 全体一致的。The committee was unanimous in its decision（委员会的决定是一致的）。注意 unanimous 强调的是"没有一个人反对"，不是"多数同意"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[divided]]：分裂的（unanimous 的反义：一致↔分裂）
 > - [[controversial]]：有争议的（unanimous 的反义：无异议↔有争议）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unanimous decision/vote**：一致的决定/投票
 > - **unanimous agreement**：一致同意
 > - **be unanimous in**：在……上意见一致
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The jury reached a unanimous verdict of not guilty after three days of deliberation."（陪审团经过三天的审议，一致裁定无罪——考研阅读法律话题相关表达）
 > - "The UN Security Council was unanimous in its condemnation of the terrorist attack."（联合国安理会一致谴责了这起恐怖袭击——考研翻译国际话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

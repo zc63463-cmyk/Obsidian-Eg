@@ -3,14 +3,12 @@ title: "abuse"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 偏离正常使用的过度使用
-extension_dim: 行为路径
+extension_dim: [行为路径]
 phonetic: "/əˈbjuːz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**偏离正常使用的过度使用**"为统筹中心，沿行为路径向外扩展：
 >
 > 1. **偏离正常使用**（物品层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > abuse = ab（偏离）+ use（使用）= 偏离正常的使用 = 滥用。权力是用来服务公众的，如果你用它来谋私利，就是 abuse power（滥用权力）。药物是用来治病的，如果你为了快感而过度使用，就是 abuse drugs（滥用药物）。语言是用来交流的，如果你用它来攻击别人，就是 verbal abuse（言语辱骂）。abuse 的核心就是"偏离正常"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[respect]]：尊重（abuse 的反义：虐待↔尊重）
 > - [[protect]]：保护（abuse 的反义：虐待↔保护）
 > - [[proper use]]：正当使用（abuse 的反义：滥用↔正当使用）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **abuse one's power / position**：滥用权力/职位
 > - **drug / alcohol abuse**：吸毒/酗酒
 > - **child abuse**：虐待儿童
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The report revealed a widespread pattern of police abuse of power, including arbitrary arrests and excessive use of force against peaceful protesters."（报告揭示了一种普遍存在的警察滥用权力的模式，包括任意逮捕和对和平抗议者过度使用武力——考研阅读社会话题相关表达）
 > - "Studies have shown that children who experience abuse or neglect are significantly more likely to develop mental health problems later in life."（研究表明，经历过虐待或忽视的儿童在日后出现心理健康问题的可能性显著更高——考研翻译心理话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

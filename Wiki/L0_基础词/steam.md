@@ -3,14 +3,12 @@ title: "steam"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 水蒸气（水加热变成的气体）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stiːm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**水蒸气**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **水蒸气**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > steam 就是"蒸汽"——水烧开冒出的白雾。蒸汽推动了工业革命：steam engine（蒸汽机），steam power（蒸汽动力）。厨房里用 steam 来蒸食物：steamed fish（清蒸鱼）。情绪上也用 steam：blow off steam（发泄怒气），full steam ahead（全速前进）。记住：steam = 蒸汽 = 能量。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ice]]：冰（steam 是气态水，ice 是固态水）
 > - [[water]]：水（steam 是气态水，water 是液态水——相态对比）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **steam engine**：蒸汽机
 > - **full steam ahead**：全速前进
 > - **blow off steam**：发泄怒气/精力
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The invention of the steam engine revolutionized transportation and manufacturing."（蒸汽机的发明彻底改变了交通和制造业。）
 > - "After weeks of intense pressure, she needed to blow off steam."（经过数周的高压，她需要发泄一下。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

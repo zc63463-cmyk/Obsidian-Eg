@@ -3,14 +3,12 @@ title: "diligent"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 热爱选择的（认真选择的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdɪlɪdʒənt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**认真选择的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **认真选择的**（态度层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > di（分开）+ lig（选择）+ ent（……的）→ diligent。认真选择每一刻做什么的人就是 diligent（勤奋的）。collect（收集）和 elect（选举）也来自 lig——收集就是"选出来放一起"，选举就是"选出来"。diligent 就是"认真选择"→ 勤奋。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lazy]]：懒惰的（diligent 的反义：勤奋↔懒惰）
 > - [[idle]]：闲散的（diligent 的反义：勤勉↔闲散）
 > - [[negligent]]：疏忽的（diligent 的反义：认真↔疏忽，同源反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a diligent student**：勤奋的学生
 > - **diligent in**：在……方面勤奋
 > - **diligent research**：细致的研究
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She is a diligent student who always completes her assignments on time."（她是一个勤奋的学生，总是按时完成作业）
 > - "Diligence is the mother of good fortune."（勤奋是好运之母——谚语）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

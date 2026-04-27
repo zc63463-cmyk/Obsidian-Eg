@@ -3,17 +3,14 @@ title: "several"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 分开的，各自独立的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsevrəl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: par
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -47,7 +44,7 @@ several ← 古法语 *seperalis* ← 拉丁语 *separare*（分开）← se-(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分开的，各自独立的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **分开的，各自独立的**（本义：不是整体的，各自分开的）
@@ -68,7 +65,7 @@ several ← 古法语 *seperalis* ← 拉丁语 *separare*（分开）← se-(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ several ← 古法语 *seperalis* ← 拉丁语 *separare*（分开）← se-(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > several 和 [[separate]]（分开）同源——都来自拉丁语 separare（分开）。several 原意是"分开的"，后来指"分开的几个"。记住：several = 分开的 = 几个 = 各自的。当你看到 several，就想到"各自分开的几个"。
@@ -91,7 +88,7 @@ several ← 古法语 *seperalis* ← 拉丁语 *separare*（分开）← se-(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ several ← 古法语 *seperalis* ← 拉丁语 *separare*（分开）← se-(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[single]]：单一的（与"数个"形成对立）
 > - [[one]]：一个（与"几个"形成对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,28 +119,22 @@ several ← 古法语 *seperalis* ← 拉丁语 *separare*（分开）← se-(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **several times**：I have visited Paris several times.（我去过巴黎好几次。）
 > - **several reasons**：There are several reasons for this phenomenon.（这个现象有几个原因。）
 > - **their several ways**：They went their several ways after graduation.（毕业后他们各走各的路。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Several studies have shown that regular exercise can reduce the risk of heart disease."（多项研究表明，规律运动可以降低患心脏病的风险。）——考研高频表达
 > - "She has lived in several different countries over the course of her career."（在她的职业生涯中，她曾在几个不同的国家生活过。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

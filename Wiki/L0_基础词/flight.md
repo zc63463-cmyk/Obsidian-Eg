@@ -3,14 +3,12 @@ title: "flight"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 飞行的动作
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/flaɪt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**飞行的动作**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **飞行的动作**（物理层面）
@@ -73,7 +71,7 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > flight 是 fly（飞）的名词形式。catch a flight = 赶航班（飞机的一次"飞行"）。take flight = 逃跑（像鸟一样飞走）。a flight of stairs = 一段楼梯（楼梯像翅膀一样向上展开）。the flight of time = 时间的飞逝。记住：flight 的核心就是"飞"，所有义项都从"飞"延伸出来。与 [[flee]]（逃跑）同源——flee 是动词，flight 是名词。
@@ -96,7 +94,7 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[arrival]]：到达（flight 航班的反义：出发↔到达）
 > - [[landing]]：降落（flight 飞行的反义：飞行↔降落）
 > - [[pursuit]]：追赶（flight 逃跑的反义：逃跑↔追赶）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a flight of stairs**：一段楼梯
 > - **take flight**：逃跑；起飞
 > - **in flight**：在飞行中
@@ -140,19 +138,15 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The refugees took flight from the war-torn region, seeking safety in neighboring countries."（难民们逃离了饱受战争蹂躏的地区，在邻国寻求安全。——考研英语阅读社会类话题）
 > - "After a long flight, she was too exhausted to attend the conference."（经过长途飞行后，她太疲惫了，无法参加会议。——考研英语阅读常见场景）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

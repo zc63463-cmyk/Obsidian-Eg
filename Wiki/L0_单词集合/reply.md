@@ -3,14 +3,12 @@ title: "reply"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 折回来回应
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈplaɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(回) + [[ply|ply]](折叠) → 折回来 → 回应
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**折回来回应**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **折回来回应**（交流层面：对别人的话/信做出回应）
@@ -63,7 +61,7 @@ re-(回) + [[ply|ply]](折叠) → 折回来 → 回应
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ re-(回) + [[ply|ply]](折叠) → 折回来 → 回应
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re-(回) + ply(折叠) → 收到信后折好回信送回去 = 回答。
@@ -86,7 +84,7 @@ re-(回) + [[ply|ply]](折叠) → 折回来 → 回应
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ re-(回) + [[ply|ply]](折叠) → 折回来 → 回应
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ask]]：提问（与 reply 的"回答"形成反义）
 > - [[ignore]]：忽视（与 reply 的"回应"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,28 +110,22 @@ re-(回) + [[ply|ply]](折叠) → 折回来 → 回应
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in reply to**：作为对……的答复（I am writing in reply to your letter of May 20th. 我写信回复您5月20日的来信。）
 > - **reply to sb./sth.**：回复某人/某事（She has not yet replied to my email. 她还没有回复我的邮件。）
 > - **a quick reply**：快速回复（Please send a quick reply to confirm your attendance. 请尽快回复确认出席。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Subscribers can customize the information they want to receive and proceed directly to a company's website."（订阅者可以自定义他们想要接收的信息，并直接进入公司网站。）——考研高频表达
 > - "I am writing in reply to your letter of May 20th regarding the position of marketing assistant."（我写信回复您5月20日关于市场营销助理职位的来信。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

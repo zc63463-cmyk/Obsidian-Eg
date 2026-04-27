@@ -3,14 +3,12 @@ title: "pulse"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 脉搏（心脏跳动推动血液产生的有节奏的搏动）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/pʌls/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**脉搏（心脏跳动推动血液产生的有节奏的搏动）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **脉搏**（身体层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pulse 源自拉丁语 pulsus（跳动），词根是 pel/puls（推动）。心脏推动血液，产生有节奏的跳动——那就是脉搏（pulse）。医生把手指放在你手腕上感受的就是 pulse。引申到电子领域，电流有节奏地跳动就是脉冲（pulse）。一座城市的 pulse 就是这座城市的"脉搏"——它的节奏和活力。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stillness]]：静止（pulse 的反义：跳动↔静止）
 > - [[flatline]]：心电图变平（pulse 的反义：有脉搏↔无脉搏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take one's pulse**：测脉搏
 > - **feel the pulse**：把脉，了解……的动态
 > - **the pulse of society/the city**：社会/城市的脉搏
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The doctor took the patient's pulse and noted it was racing."（医生为病人把脉，注意到脉搏跳得很快——考研阅读常见搭配）
 > - "The city pulses with energy and creativity."（这座城市充满了活力和创造力——考研写作常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

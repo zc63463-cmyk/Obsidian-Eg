@@ -3,14 +3,12 @@ title: "heal"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使恢复完整
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/hiːl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ heal（源自古英语 haelan"使完整、治愈"，与 whole"完整的"同源�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使恢复完整**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使恢复完整**（身体层面——使伤口闭合、身体恢复）
@@ -65,7 +63,7 @@ heal（源自古英语 haelan"使完整、治愈"，与 whole"完整的"同源�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ heal（源自古英语 haelan"使完整、治愈"，与 whole"完整的"同源�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古英语 haelan，与 whole（完整的）同源。heal 的本质就是"使之完整"——受伤的身体不完整，治愈就是让它重新完整。
@@ -89,7 +87,7 @@ heal（源自古英语 haelan"使完整、治愈"，与 whole"完整的"同源�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ heal（源自古英语 haelan"使完整、治愈"，与 whole"完整的"同源�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hurt]]：伤害（破坏完整 vs 恢复完整）
 > - [[wound]]：使受伤
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ heal（源自古英语 haelan"使完整、治愈"，与 whole"完整的"同源�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **heal a wound**：治愈伤口
   - It takes time for a deep wound to heal completely.（深度伤口完全愈合需要时间。）
 - **heal the rift/division**：弥合分歧
@@ -129,20 +127,14 @@ heal（源自古英语 haelan"使完整、治愈"，与 whole"完整的"同源�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Time heals all wounds, but the process of emotional recovery can be long and difficult.（时间能治愈一切创伤，但情感恢复的过程可能漫长而艰难。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

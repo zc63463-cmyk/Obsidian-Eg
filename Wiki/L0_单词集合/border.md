@@ -3,14 +3,12 @@ title: "border"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 边缘；边界
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈbɔːrdər/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ border（边缘/边界，古法语 bord）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**两块区域之间的分界线**"为统筹中心，沿**空间路径**向外扩展：
 
@@ -65,7 +63,7 @@ border（边缘/边界，古法语 bord）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -76,7 +74,7 @@ border（边缘/边界，古法语 bord）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 站在两块田地之间的 border（边界）上，左脚在这边，右脚在那边——border 就是分隔两个区域的线
@@ -88,7 +86,7 @@ border（边缘/边界，古法语 bord）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ border（边缘/边界，古法语 bord）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[interior]]：<border 边缘 vs interior 内部>
 - [[center]]：<border 边缘 vs center 中心>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -118,27 +116,21 @@ border（边缘/边界，古法语 bord）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **cross the border**（越过边境）：They crossed the border illegally.（他们非法越境。）
 - **border on**（接近；濒临）：His behavior borders on rudeness.（他的行为近乎粗鲁。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - The two countries share a long border.（两国拥有漫长的边界。）
 - The village borders on the forest.（这个村庄与森林接壤。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

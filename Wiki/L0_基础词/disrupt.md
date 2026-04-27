@@ -3,14 +3,12 @@ title: "disrupt"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 打断（使事物从正常状态破裂分开）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dɪsˈrʌpt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打断（使事物从正常状态破裂分开）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **打断**（物理/行为层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > disrupt = dis（分开）+ rupt（破裂）。想象一块玻璃被从中间打碎——这就是 disrupt。disrupt a meeting（打断会议）就像把会议的流程"打碎"，disrupt the market（颠覆市场）就像把市场格局"打碎"。rupt 家族还有 bankrupt（破产 = bank 破裂）、corrupt（腐败 = 完全破裂）、erupt（爆发 = 向外破裂）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[maintain]]：维持（disrupt 的反义：破坏↔维持）
 > - [[restore]]：恢复（disrupt 的反义：中断↔恢复）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **disrupt the market**：颠覆市场
 > - **disrupt the balance**：打破平衡
 > - **disrupt traffic**：扰乱交通
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The internet has disrupted traditional business models across virtually every industry."（互联网几乎颠覆了所有行业的传统商业模式）
 > - "The storm disrupted flights across the region, leaving thousands of passengers stranded."（暴风雨扰乱了该地区的航班，导致数千名旅客滞留）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

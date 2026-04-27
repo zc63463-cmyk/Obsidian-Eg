@@ -3,14 +3,12 @@ title: "fracture"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 打破，断裂（骨头或硬物被打破）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈfræktʃər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打破，断裂**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **打破，断裂**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fracture 来自拉丁语 frangere"打碎"。想象你从高处摔下来，腿骨被"打碎"了——这就是 fracture（骨折）。不仅骨头，管道可以 fracture（破裂），联盟也可以 fracture（分裂）。fracture 就是那个"裂"的动作和结果——从物理到抽象。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mend]]：修补，愈合（fracture 的反义：断裂↔愈合）
 > - [[heal]]：治愈（fracture 的反义：骨折↔愈合）
 > - [[intact]]：完好的（fracture 的反义：破裂的↔完好的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bone fracture**：骨折
 > - **a fractured bone/leg/arm**：骨折的骨头/腿/手臂
 > - **fracture the skull**：颅骨骨折
@@ -131,20 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He suffered a fracture in his right leg during the match."（他在比赛中右腿骨折）
 > - "The coalition was fractured by deep internal disagreements."（联盟因深刻的内部分歧而破裂）
 > - "The X-ray revealed a hairline fracture of the wrist."（X光显示手腕有一处骨裂）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

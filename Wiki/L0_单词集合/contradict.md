@@ -3,14 +3,12 @@ title: "contradict"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 反着说，反驳
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌkɒntrəˈdɪkt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反着说，反驳**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **反着说，反驳**（言语行为层面）
@@ -71,7 +69,7 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 法庭上，原告说完陈述，被告站起来 contra（反着）dict（说）——这就是 contradict（反驳）。如果被告自己先说"我没去过现场"，又说"那天我在现场帮忙"，那他就是在 contradict himself（自相矛盾）——自己跟自己反着说。
@@ -94,7 +92,7 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[confirm]]：证实，确认（反驳↔证实）
 > - [[support]]：支持，拥护（反驳↔支持）
 > - [[corroborate]]：证实，确认（与证据矛盾↔与证据一致）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **contradict each other**：相互矛盾
 > - **contradict oneself**：自相矛盾
 > - **contradict the evidence/facts**：与证据/事实相矛盾
@@ -136,21 +134,15 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "So the evidence contradicts the claim that we're mainly suffering from structural unemployment."（因此，证据与我们主要遭受结构性失业的说法相矛盾。）——考研阅读真题
 > - "Your actions contradict your declared moral principles."（你的行为违背了你宣称的道德准则。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

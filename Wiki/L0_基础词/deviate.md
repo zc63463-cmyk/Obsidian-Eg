@@ -3,14 +3,12 @@ title: "deviate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 从路上偏离出去
-extension_dim: 路径隐喻
+extension_dim: [路径隐喻]
 phonetic: "/ˈdiːvieɪt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从路上偏离出去**"为统筹中心，沿路径隐喻向外扩展：
 >
 > 1. **离开道路**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > deviate = [[de]]-（离开）+ via（道路）= 离开道路 = 偏离。拉丁语 *via* = 道路（英语 via = 经过/通过，同源）。deviate 的核心画面是"车在高速公路上突然转向，离开原来的路线"。从"偏离道路"出发：deviate from the plan（偏离计划）、deviate from the norm（偏离常规）、deviate from the topic（偏离主题）。注意 deviate 必须搭配 from 使用。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conform]]：遵从，符合（deviate 的反义：偏离↔遵从）
 > - [[comply]]：遵守（deviate 的反义：背离↔遵守）
 > - [[adhere]]：坚持，遵守（deviate 的反义：偏离↔坚持）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **deviate from the plan/norm/standard**：偏离计划/常规/标准
 > - **deviate from the course/route**：偏离路线/航向
 > - **deviate from the topic**：偏离主题
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The research findings deviated significantly from the initial hypothesis, forcing the scientists to reconsider their theoretical framework."（研究结果与初始假设存在显著偏差，迫使科学家重新考虑他们的理论框架——考研阅读科研话题相关表达）
 > - "Students who deviate from the prescribed curriculum may face difficulties in passing the standardized examinations."（偏离规定课程的学生可能会在通过标准化考试时遇到困难——考研翻译教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

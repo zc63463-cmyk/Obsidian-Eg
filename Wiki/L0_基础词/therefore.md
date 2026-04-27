@@ -3,17 +3,14 @@ title: "therefore"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 因为那个（由那个原因）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈðeəfɔː(r)/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: there
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ there(那个) + fore(前面，before 的变体)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**因为那个（由那个原因）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **因为那个**（逻辑层面）
@@ -64,7 +61,7 @@ there(那个) + fore(前面，before 的变体)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ there(那个) + fore(前面，before 的变体)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > there（那个）+ fore（前面/因为）→ therefore。记住一个公式：**A成立，therefore B成立**。你努力学习（A），therefore 你会取得好成绩（B）。therefore 就是"因为那个，所以这个"——最经典的因果连接词。
@@ -86,7 +83,7 @@ there(那个) + fore(前面，before 的变体)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ there(那个) + fore(前面，before 的变体)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nevertheless]]：然而，不过（therefore 的反义：因果顺承↔转折）
 > - [[however]]：然而（therefore 的反义：因此↔然而）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,26 +120,22 @@ there(那个) + fore(前面，before 的变体)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **therefore, it is important to...**：因此，重要的是……
 > - **and therefore**：因此
 > - **therefore, we must**：因此，我们必须
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Therefore, it is important to study humans in all their richness and diversity in a calm, systematic manner."（因此，以冷静、系统的方式研究人类的丰富性和多样性是非常重要的。——考研真题长难句）
 > - "He's scared of flying. Therefore he doesn't travel much by plane."（他害怕坐飞机。因此他不常乘飞机旅行。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

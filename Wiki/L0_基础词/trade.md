@@ -3,14 +3,12 @@ title: "trade"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 用手递交货物进行交换
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/treɪd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手递交货物进行交换**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **手递手交换**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trade 的核心画面是"手递手交换"。古代集市上，商人面对面站着，一个递出谷物，另一个递出布匹——这就是 trade。后来这种交换变成了系统的"贸易"（trade between nations），从事交换的人有了自己的"行业"（learn a trade）。trade 的本质始终是"用我有价值的换你有价值的"——trade secrets（商业机密）就是交换中不能泄露的秘密。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[protectionism]]：贸易保护主义（trade 的反义：自由贸易↔保护主义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **international trade**：国际贸易
 > - **free trade**：自由贸易
 > - **trade in**：经营……的交易；以旧换新
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The European Union has been engaged in trade negotiations with several Asian countries to reduce tariffs and promote free trade."（欧盟一直在与几个亚洲国家进行贸易谈判，以降低关税并促进自由贸易——考研阅读经济话题相关表达）
 > - "Many workers who lost their jobs in manufacturing had to learn a new trade to remain competitive in the labor market."（许多在制造业失业的工人不得不学习一门新手艺，以在劳动力市场中保持竞争力——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

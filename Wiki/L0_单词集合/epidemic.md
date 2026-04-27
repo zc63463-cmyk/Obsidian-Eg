@@ -3,14 +3,12 @@ title: "epidemic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 在人群之上流行的（疾病）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌepɪˈdemɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ epi-(在…之上) + [[dem|demos]](人民) + -ic(形容词后缀，…的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在人群之上流行的疾病**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在人群之上流行的疾病**（医学层面）
@@ -66,7 +64,7 @@ epi-(在…之上) + [[dem|demos]](人民) + -ic(形容词后缀，…的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ epi-(在…之上) + [[dem|demos]](人民) + -ic(形容词后缀，…的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > epi（在…之上）+ demos（人民）→ 疾病降临在人民头上，一人传十人，十人传百人，这就是"流行病"。
@@ -88,7 +86,7 @@ epi-(在…之上) + [[dem|demos]](人民) + -ic(形容词后缀，…的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ epi-(在…之上) + [[dem|demos]](人民) + -ic(形容词后缀，…的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[endemic]]：endemic 指地方性流行（局限），epidemic 指广泛流行（扩散）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,28 +113,22 @@ epi-(在…之上) + [[dem|demos]](人民) + -ic(形容词后缀，…的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an epidemic of** violence/crime：暴力/犯罪的泛滥
 > - **epidemic disease**：流行病
 > - **flu epidemic**：流感流行
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The obesity epidemic has become one of the most serious public health challenges of our time."（肥胖流行已成为我们这个时代最严重的公共卫生挑战之一。）——考研高频表达
 > - "We should take effective steps to prevent the epidemic disease from spreading further."（我们应采取有效措施防止流行病进一步蔓延。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

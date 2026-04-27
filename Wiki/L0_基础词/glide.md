@@ -3,17 +3,14 @@ title: "glide"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 滑行
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɡlaɪd/"
 pos: vi.
-metaphor_type: 无隐喻
 word_root: gleam
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**滑行**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **滑行**（物理层面）
@@ -67,7 +64,7 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > glide 想象一只天鹅在平静的湖面上 glide——不拍翅膀，安静优雅地滑行。She gently glided her hand along the smooth edge——她轻轻将手沿着光滑的边缘滑过去。glide 强调的是"不费力、平滑、安静"的移动。
@@ -90,7 +87,7 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stumble]]：绊倒（滑行的反义：平滑移动↔绊倒）
 > - [[plod]]：沉重地走（滑行的反义：轻松滑行↔沉重行走）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,26 +122,22 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **glide across/on**：在……上滑行
 > - **glide through the air**：在空中滑翔
 > - **glide into**：悄悄滑进
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She gently glided her hand along the smooth edge of the podium."（她轻轻将手沿着讲台光滑的边缘滑过去——考研文学类阅读语料）
 > - "The boat glided silently across the lake."（小船无声地在湖面上滑行——考研描写类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

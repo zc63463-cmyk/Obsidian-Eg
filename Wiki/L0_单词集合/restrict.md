@@ -3,14 +3,12 @@ title: "restrict"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 绑回来（用绳子把活动范围绑住）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/rɪˈstrɪkt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绑回来**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **绑回来**（物理层面：用绳子束缚）
@@ -66,7 +64,7 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（回）+ strict（束缚，和 strain"拉紧"同源）→ 绑回来。想象你用绳子把一只羊的活动范围绑住——restrict the sheep's movement。Access to the club is restricted to members only——把俱乐部的进入权绑回来，只给会员。restrict 就是"绑回来，不让越界"。
@@ -90,7 +88,7 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[liberate]]：解放（与"限制"形成状态对立：限制↔解放）
 > - [[expand]]：扩展（与"限定范围"形成状态对立：限定↔扩展）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **restrict...to...**：把……限制在……范围内
 >  > Access to the club is restricted to members only.
 > - **restrict freedom/access**：限制自由/访问
@@ -134,19 +132,15 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Since our analysis is restricted to independent or private research institutions, we take a narrow view in defining such organisations."（由于我们的分析仅限于独立或私人研究机构，我们在定义此类组织时采取了狭义视角——剑桥学术语料）
 > - "Fog severely restricted visibility."（浓雾严重限制了能见度——四级/考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

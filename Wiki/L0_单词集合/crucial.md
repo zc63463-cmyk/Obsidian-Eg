@@ -3,14 +3,12 @@ title: "crucial"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 至关重要的，决定性的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkruːʃl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ cruc(十字，交叉) + -ial(与...有关的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**十字路口式的关键**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **十字路口式的关键**（空间隐喻层面）
@@ -62,7 +60,7 @@ cruc(十字，交叉) + -ial(与...有关的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ cruc(十字，交叉) + -ial(与...有关的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你站在一个十字路口(crucial 的词根 cruc 就是十字)，往左是成功，往右是失败——这个十字路口就是"决定性的"时刻。
@@ -85,7 +83,7 @@ cruc(十字，交叉) + -ial(与...有关的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ cruc(十字，交叉) + -ial(与...有关的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[trivial]]：琐碎的，不重要的
 > - [[insignificant]]：无足轻重的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,28 +112,22 @@ cruc(十字，交叉) + -ial(与...有关的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **play a crucial role in**：Technology plays a crucial role in modern education.（技术在现代教育中发挥着至关重要的作用。）
 > - **crucial to/for**：This decision is crucial to the company's future.（这个决定对公司的未来至关重要。）
 > - **at a crucial moment**：He arrived at a crucial moment.（他在关键时刻赶到了。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Technology plays a crucial role in modern education and workforce development."（技术在现代教育和劳动力发展中发挥着至关重要的作用。）——考研高频表达
 > - "This decision is crucial to the company's future success."（这个决定对公司的未来成功至关重要。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

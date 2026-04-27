@@ -3,14 +3,12 @@ title: "crust"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 硬化的外皮（面包的硬壳）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/krʌst/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**硬化的外皮**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **硬化的外皮**（日常层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > crust 和 crystal（水晶）是同源词，都来自"变硬、凝结"。面包烤好后，表面变硬形成金黄色的壳——这就是 crust。地球表面也有一层硬壳——地壳。冬天湖面结了一层冰壳——a crust of ice。crust 就是一切"变硬的外层"。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[core]]：核心，中心（crust 的反义：外壳↔核心）
 > - [[interior]]：内部（crust 的反义：外层↔内部）
 > - [[crumb]]：面包屑（crust 的反义：硬壳↔碎屑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Earth's crust**：地壳
 > - **a thin crust of ice**：一层薄冰壳
 > - **upper/lower crust**：上流社会/下层社会
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Earth's crust is divided into several large plates."（地壳被分为几个大板块）
 > - "A thin crust of ice had formed on the pond overnight."（一夜之间池塘上结了一层薄冰）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

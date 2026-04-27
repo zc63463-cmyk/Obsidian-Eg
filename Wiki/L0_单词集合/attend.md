@@ -3,14 +3,12 @@ title: "attend"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 伸展过去（将注意力/身体伸展到某处）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈtend/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**伸展过去**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **伸展过去**（物理/注意力层面）
@@ -66,7 +64,7 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > at（向）+ tend（伸展）→ 伸展过去。想象一根橡皮筋，你把它从自己身上"伸展"到会场——这就是 attend a meeting；你把它"伸展"到病人身上——这就是 attend to the patient。attend 的核心就是"伸展过去"——身体过去=出席，注意力过去=照料。
@@ -88,7 +86,7 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[absent]]：缺席（attend 的精确反义：出席↔缺席）
 > - [[ignore]]：忽视（attend 的反义：留意↔忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **attend a meeting/conference**：参加会议/会议
 > - **attend school**：上学
 > - **attend to**：处理；照料
@@ -129,23 +127,15 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I have more pressing things to attend to."（我有更紧迫的事情要处理。——考研英语高频短语）
 > - "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training."（正如Erik Brynjolfsson和Andrew McAfee在《第二次机器时代》中所主张的，第一步应该是重新思考教育和职业培训。——2018年考研英语阅读，attend 的语境关联：attend school → education）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "self"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 自己本身
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/self/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**自己本身**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **自己本身**（个体存在层面）
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > self 是英语中最古老的词之一，源自原始日耳曼语 *\*selbaz*。想象一面镜子——镜子里照出的那个人就是 self。从"镜中的自己"出发，self 衍生出无数含义：关注自己叫 self-interest，控制自己叫 self-control，认识自己叫 self-awareness。self 就是一切的起点——你自己。
@@ -95,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[other]]：他人，别的（self 是自己，other 是他人）
 > - [[others]]：其他人（self vs others 是最基本的二元对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **by oneself**：独自地 — She completed the project by herself.
 > - **self-awareness**：自我意识 — Self-awareness is essential for personal growth.
 > - **self-control**：自控力 — The ability to exercise self-control is a valuable trait.
@@ -136,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Self-awareness is the foundation of emotional intelligence."（考研英语——自我意识是情商的基础）
 > - "The concept of the self has been a central topic in philosophy for centuries."（考研英语——"自我"的概念几个世纪以来一直是哲学的核心话题）
 > - "By itself, technology is neither good nor bad; it depends on how we use it."（考研英语——技术本身既非善也非恶，取决于我们如何使用它）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

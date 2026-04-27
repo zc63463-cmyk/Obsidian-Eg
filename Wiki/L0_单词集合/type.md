@@ -3,14 +3,12 @@ title: "type"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 打击留下的印记→类型
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/taɪp/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ type 源自希腊语 typos（印记、打击的痕迹），与拉丁语 typus �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打击留下的印记**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **打击留下的印记**（物理层面——模具打出的痕迹）
@@ -67,7 +65,7 @@ type 源自希腊语 typos（印记、打击的痕迹），与拉丁语 typus �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ type 源自希腊语 typos（印记、打击的痕迹），与拉丁语 typus �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊语 typos 意为"印记"。想象古代铸币工匠用模具在金属上**打**出一个**印记**（type），所有用同一个模具打出来的硬币都属于同一个**类型**（type）。在键盘上**打字**（type）也是在纸上留下印记。
@@ -91,7 +89,7 @@ type 源自希腊语 typos（印记、打击的痕迹），与拉丁语 typus �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ type 源自希腊语 typos（印记、打击的痕迹），与拉丁语 typus �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[atypical]]：非典型的（类型 vs 非典型）
 > - [[exception]]：例外（类型 vs 例外）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,26 +121,20 @@ type 源自希腊语 typos（印记、打击的痕迹），与拉丁语 typus �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **type of**：……类型的（This type of research requires a multidisciplinary approach. 这种类型的研究需要多学科的方法。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers wanted to know if the optimism and inclination for risk-taking that come with happiness would influence the way companies invested."（研究人员想知道伴随幸福而来的乐观主义和冒险倾向是否会影响公司的投资方式。）——2016考研英语二完形
 > - "This type of research requires a multidisciplinary approach."（这种类型的研究需要多学科的方法。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

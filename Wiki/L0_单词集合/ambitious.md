@@ -3,14 +3,12 @@ title: "ambitious"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 有抱负的、有野心的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/æmˈbɪʃəs/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ambi-(四处) + -ition(走) + -ous(形容词后缀，表示"充满……的") �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充满追求目标的欲望**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **充满追求目标的欲望**（心理层面）
@@ -66,7 +64,7 @@ ambi-(四处) + -ition(走) + -ous(形容词后缀，表示"充满……的") �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ ambi-(四处) + -ition(走) + -ous(形容词后缀，表示"充满……的") �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 想象一个年轻人说"我要改变世界"——他**充满**（-ous）**追求**（ambition），是有**抱负的**（ambitious）。但如果一个政客为了权力不择手段，他就是有**野心的**（ambitious）。一个要登月的计划，本身就是**宏大的**（ambitious plan）。
@@ -89,7 +87,7 @@ ambi-(四处) + -ition(走) + -ous(形容词后缀，表示"充满……的") �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ ambi-(四处) + -ition(走) + -ous(形容词后缀，表示"充满……的") �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unambitious]]：ambitious（有抱负的）vs unambitious（没有抱负的）
 > - [[lazy]]：ambitious（有进取心的）vs lazy（懒惰的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,29 +119,23 @@ ambi-(四处) + -ition(走) + -ous(形容词后缀，表示"充满……的") �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ambitious plan/project**：宏大的计划/项目（The government launched an ambitious plan to reform the healthcare system. 政府启动了一项宏大的医疗改革计划。）
 > - **ambitious young man**：有抱负的年轻人（He is an ambitious young man who dreams of starting his own company. 他是一个梦想创办自己公司的有抱负的年轻人。）
 > - **be ambitious for**：对……有抱负（She is ambitious for her children's future. 她对孩子们的未来充满抱负。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "For such people and many more perhaps not so exceptional, the proper formulation is, 'Succeed at all costs but avoid appearing ambitious.'"（对于这些人以及许多或许不那么出众的人来说，恰当的表述是：'不惜一切代价成功，但要避免显得有野心。'）——考研真题
 > - "His latest book, however, is more ambitious and serious than his earlier works."（然而，他的最新著作比他早期的作品更具野心和严肃性。）——考研真题
 > - "The government has set ambitious targets for reducing carbon emissions by 2030."（政府已设定了到2030年减少碳排放的宏大目标。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

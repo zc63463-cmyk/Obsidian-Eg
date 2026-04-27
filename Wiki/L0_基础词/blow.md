@@ -3,14 +3,12 @@ title: "blow"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 吹气，气流
-extension_dim: 冲击破坏
+extension_dim: [冲击破坏]
 phonetic: "/bləʊ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ blow(吹/吹气，古英语 *blāwan*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**吹气/气流**"为统筹中心，沿冲击破坏向外扩展：
 >
 > 1. **吹气**（物理层面）
@@ -69,7 +67,7 @@ blow(吹/吹气，古英语 *blāwan*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ blow(吹/吹气，古英语 *blāwan*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blow 的核心就是"吹"。想象你吹灭生日蜡烛——blow out candles。风吹——the wind blows。blow up = 炸毁（气体猛烈膨胀）。a blow to the economy = 对经济的打击（像风一样的冲击）。blow 的过去式 blew，过去分词 blown——注意不规则变化。blow one's top = 大发雷霆（头顶"炸"了）。blow one's cover = 暴露身份（把伪装"吹"掉了）。blow money = 挥霍金钱（钱像风一样"吹"走了）。
@@ -92,7 +90,7 @@ blow(吹/吹气，古英语 *blāwan*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ blow(吹/吹气，古英语 *blāwan*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[suck]]：吸（blow 的精确反义：吹↔吸）
 > - [[draw]]：吸入（blow 的反义：吹出↔吸入）
 > - [[pull]]：拉（blow 打击的反义：推/打击↔拉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ blow(吹/吹气，古英语 *blāwan*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **blow up**：爆炸；炸毁；放大
 > - **blow out**：吹灭（蜡烛等）；爆胎
 > - **blow one's nose**：擤鼻涕
@@ -137,19 +135,15 @@ blow(吹/吹气，古英语 *blāwan*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The economic crisis dealt a severe blow to the manufacturing sector, causing widespread layoffs."（经济危机对制造业造成了严重打击，导致大规模裁员。——考研英语阅读经济类话题，deal a blow to 高频考点）
 > - "The terrorists threatened to blow up the building if their demands were not met."（恐怖分子威胁说，如果不满足他们的要求，就炸毁这栋建筑。——考研英语阅读社会类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

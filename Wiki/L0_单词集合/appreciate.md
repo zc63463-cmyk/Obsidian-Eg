@@ -3,14 +3,12 @@ title: "appreciate"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 评估出某物的价值
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈpriːʃieɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**评估出某物的价值**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **评估出某物的价值**（情感层面）
@@ -71,7 +69,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > appreciate 来自拉丁语 *appretiare*，意思是"估价"。想象你是一个鉴宝师：你仔细端详一幅画，评估出它的艺术价值——这就是"欣赏"；有人帮了你大忙，你评估出这份帮助的价值——这就是"感激"；你评估出一套房子的价格在涨——这就是"增值"。appreciate 的本质就是"看出价值"。
@@ -96,7 +94,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[depreciate]]：贬值；贬低（增值↔贬值，欣赏↔贬低）
 > - [[despise]]：鄙视，看不起（欣赏↔鄙视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **appreciate sb.'s help/kindness**：感激某人的帮助/好意（I really appreciate your help.）
 > - **appreciate art/music/literature**：欣赏艺术/音乐/文学（She appreciates classical music.）
 > - **appreciate the significance/importance**：理解...的重要性（We appreciate the significance of this issue.）
@@ -139,21 +137,15 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But current studies are beginning to place greater emphasis on the conditions under which we forget, as its importance begins to be more appreciated."（但当前的研究开始更加重视我们遗忘的条件，因为其重要性开始被更多地认识到。）——考研阅读真题
 > - "Most of all, these new adults must feel that they are respected and supported by a family that appreciates them."（最重要的是，必须要让这些年轻人感到他们受到一个欣赏他们的家庭的尊重和支持。）——考研阅读真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

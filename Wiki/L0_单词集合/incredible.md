@@ -3,17 +3,14 @@ title: "incredible"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 无法相信的，令人难以置信的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈkredəbl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: cred
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不可相信**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不可相信**（认知层面：超出认知范围，无法相信）
@@ -63,7 +60,7 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > **in**（不）+ **cred**（相信）+ **ible**（可以被），一件事"不能被相信"，那就是 **incredible**——难以置信的。
@@ -87,7 +84,7 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[credible]]：可信的，可靠的
 > - [[believable]]：可相信的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **incredible achievement**：令人难以置信的成就
   - The team has made incredible progress in a short time.（团队在短时间内取得了令人难以置信的进展。）
 > - **absolutely incredible**：绝对不可思议
@@ -129,21 +126,15 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - It is incredible that so many people still live in poverty in the 21st century.（在21世纪，仍有这么多人生活在贫困中，这令人难以置信。）
 > - The company has achieved incredible growth over the past five years.（该公司在过去五年中实现了惊人的增长。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

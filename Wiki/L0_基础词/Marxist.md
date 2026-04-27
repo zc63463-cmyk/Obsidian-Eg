@@ -3,14 +3,12 @@ title: "Marxist"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 马克思主义的（基于卡尔·马克思的社会政治理论）
-extension_dim: 思想路径
+extension_dim: [思想路径]
 phonetic: "/ˈmɑːksɪst/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**马克思主义的（基于卡尔·马克思的社会政治理论）**"为统筹中心，沿思想路径向外扩展：
 >
 > 1. **马克思主义的**（思想层面）
@@ -67,7 +65,7 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > Karl Marx（卡尔·马克思）是19世纪德国哲学家、经济学家，创立了马克思主义理论体系。Marxist 就是以他的名字命名的——加上 -ist 后缀表示"信仰他理论的人"。就像 Darwinist（达尔文主义者）、Buddhist（佛教徒）一样，Marxist 是"人名 + -ist"的构词模式。
@@ -90,7 +88,7 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[capitalist]]：资本主义的（Marxist 的精确反义：马克思主义的↔资本主义的）
 > - [[conservative]]：保守的（Marxist 的反义：激进变革↔保守维持）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Marxist theory**：马克思主义理论
 > - **Marxist analysis**：马克思主义分析
 > - **a committed Marxist**：坚定的马克思主义者
@@ -131,19 +129,15 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A combination of the Great Depression and Marxist ideology led to widespread state ownership of productive enterprises in the post-1945 era."（大萧条与马克思主义意识形态的结合，导致了1945年后生产性企业的广泛国有化。——Merriam-Webster Dictionary）
 > - "Che Guevara was a Marxist jungle fighter."（切·格瓦拉是一名马克思主义丛林战士。——Cambridge Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

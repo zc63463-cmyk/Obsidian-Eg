@@ -3,14 +3,12 @@ title: "organism"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 由器官组成的生命体
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈɔːɡənɪzəm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ organ(器官/工具) + -ism(名词后缀，表"…体系/…主义")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**由器官组成的生命整体**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **由器官组成的生命整体**（生物层面：有组织的生命体）
@@ -66,7 +64,7 @@ organ(器官/工具) + -ism(名词后缀，表"…体系/…主义")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ organ(器官/工具) + -ism(名词后缀，表"…体系/…主义")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 人体的心脏、肺、胃、大脑——每个器官（organ）各司其职，组合成一个精密的体系（-ism），这就是 organism（有机体），一个活着的整体。
@@ -86,7 +84,7 @@ organ(器官/工具) + -ism(名词后缀，表"…体系/…主义")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ organ(器官/工具) + -ism(名词后缀，表"…体系/…主义")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（organism 为具体名词，无天然反义对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,28 +114,22 @@ organ(器官/工具) + -ism(名词后缀，表"…体系/…主义")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **living organism**：活体生物 The virus can only survive inside a living organism.（这种病毒只能在活体生物内存活。）
 > - **genetically modified organism (GMO)**：转基因生物 The debate over genetically modified organisms continues to divide public opinion.（关于转基因生物的争论持续分化着公众舆论。）
 > - **complex organism**：复杂生物体 The human body is a remarkably complex organism.（人体是一个极其复杂的生物体。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The virus can only survive inside a living organism."（这种病毒只能在活体生物内存活。）——考研高频表达
 > - "The human body is a remarkably complex organism."（人体是一个极其复杂的生物体。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "victim"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 受害者/牺牲品
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈvɪktɪm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**受害者/牺牲品**"为统筹中心，沿**社会路径**向外扩展：
 >
 > 1. **受害者/牺牲品**（社会层面：受到伤害、欺骗或压迫的人）
@@ -63,7 +61,7 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > victim 来自拉丁语 victima，原义是"祭祀时献给神灵的动物"。古人在祭坛上"献出"动物，现代社会中犯罪、战争、不公正体制"献出"了无辜的人——这些人就是 victim（受害者）。
@@ -85,7 +83,7 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[perpetrator]]：肇事者、加害者（与 victim 相对）
 > - [[aggressor]]：侵略者、攻击者
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fall victim to**：成为……的受害者
   - Many small businesses fell victim to the economic recession.（许多小企业成为经济衰退的受害者。）
 > - **victim of crime**：犯罪受害者
@@ -127,22 +125,16 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Victims of the natural disaster were provided with food, shelter, and medical assistance."（自然灾害的受害者得到了食物、住所和医疗援助。）——考研高频表达
 > - "Children are often the innocent victims of domestic conflicts and social instability."（儿童往往是家庭冲突和社会动荡的无辜受害者。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

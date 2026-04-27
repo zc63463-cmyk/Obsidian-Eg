@@ -3,14 +3,12 @@ title: "impressive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 能压印出深痕的、令人赞叹的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪmˈpresɪv/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**能压印出深痕的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **能压印出深痕的**（物理层面——印章效果强烈）
@@ -62,7 +60,7 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[impress]]（留下深刻印象）+ -ive（有……倾向的）→ 有能力给人留下深刻印象的 → 令人赞叹的。
@@ -84,7 +82,7 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unimpressive]]：不引人注目的，平淡的
 > - [[disappointing]]：令人失望的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an impressive achievement**：令人瞩目的成就 Winning the Nobel Prize was an impressive achievement for such a young scientist.（获得诺贝尔奖对如此年轻的科学家来说是一项令人瞩目的成就。）
   > The company has made impressive progress in recent years. 公司近年来取得了令人瞩目的进步。
 > - **an impressive performance**：精彩的表演 The team delivered an impressive performance in the final match.（球队在决赛中表现精彩。）
@@ -122,21 +120,15 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The early settlers of Massachusetts Bay included men of impressive education and influence in England."（马萨诸塞湾的早期定居者中包括在英国受过令人印象深刻的良好教育且具有影响力的人士。）——考研真题
 > - "To be sure, he performs an impressive variety of interesting compositions."（可以肯定的是，他表演了令人印象深刻的各种有趣作品。）——考研真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

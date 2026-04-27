@@ -3,14 +3,12 @@ title: "march"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 行军（有节奏地齐步行走）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/mɑːtʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**行军（有节奏地齐步行走）**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **有节奏的行进**
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > march 来自拉丁语"战神 Mars"——行军是士兵为战争准备的行进方式。三月 March 也源自战神（三月是罗马历的第一个月，适合开始军事行动）。士兵行军是 march，民众游行示威也是 march，婚礼进行曲是 wedding march。march 就是"行军/前进"。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retreat]]：撤退（march 的精确反义：前进↔撤退）
 > - [[stand still]]：站定不动（march 的反义：行进↔静止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **march forward**：前进
 > - **peace march**：和平游行
 > - **forced march**：急行军
@@ -138,20 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "On seeing the eclipse, the two nations laid down their arms and made peace."（看到日食时，两国放下了武器，缔结和平。——Merriam-Webster）
 > - "The final leg of the race, a 26.2-mile marathon, will take athletes back to Tempe Town Lake."（比赛的最后一段，26.2英里的马拉松，将把运动员带回坦佩镇湖。——The Arizona Republic）
 > 注：march 在历史和政治类文章中频繁出现，如 civil rights march（民权游行）。
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

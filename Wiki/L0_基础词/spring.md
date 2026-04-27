@@ -3,14 +3,12 @@ title: "spring"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 突然弹起（像弹簧一样快速跳起）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/sprɪŋ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**突然弹起**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **突然弹起**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spring 的核心画面是"压缩的弹簧突然弹起来"。古英语 *springan* = 跳跃 = 突然弹起。所有义项都围绕"突然冒出来"：弹簧（spring）= 能弹起的装置；春天（spring）= 万物冒出来的季节；泉水（spring）= 水从地下涌出来；New buildings sprang up（新建筑涌现出来）= 像弹簧一样冒出来。He sprang to his feet（他一跃而起）= 像弹簧一样跳起来。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fall]]：落下（spring 的反义：弹起↔落下）
 > - [[autumn]]：秋天（spring 的反义：春天↔秋天）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spring to one's feet**：一跃而起
 > - **spring up**：涌现，迅速出现
 > - **spring from**：源自，起源于
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "New technology startups have been springing up across the country, attracting both investors and young talent eager to innovate."（新的科技创业公司在全国各地不断涌现，吸引了投资者和渴望创新的年轻人才——考研阅读经济科技话题相关表达）
 > - "The idea for the invention sprang from the inventor's personal experience with a common household problem."（这项发明的灵感源于发明者对常见家庭问题的个人体验——考研阅读创新话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

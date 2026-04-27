@@ -3,14 +3,12 @@ title: "dumb"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 哑的，不能说话的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dʌm/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**哑的，不能说话的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **哑的，不能说话的**（生理层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dumb 的原始日耳曼语 dumbaz 同时意味着"哑"和"笨"。古人觉得，不能说话的人就是笨的。所以 dumb 从"哑巴"变成了"愚蠢"——a dumb mistake 就是一个"哑巴才会犯的错"。你被震惊到说不出话——struck dumb。你假装不知道——play dumb。dumb 就是"嘴巴被封住"的一切状态。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[smart]]：聪明的（dumb 的反义：愚蠢↔聪明）
 > - [[articulate]]：善于表达的（dumb 的反义：不能说话↔善于表达）
 > - [[loud]]：大声的（dumb 的反义：无言↔大声）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **play dumb**：装傻，装糊涂
 > - **dumb with shock/fear**：因震惊/恐惧而说不出话
 > - **a dumb mistake**：愚蠢的错误
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He played dumb when asked about the missing money."（当被问及丢失的钱时，他装糊涂）
 > - "She was struck dumb by the news of his death."（他去世的消息使她惊呆得说不出话来）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

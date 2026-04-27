@@ -3,14 +3,12 @@ title: "repression"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 向回压（压制/压抑）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈpreʃn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向回压**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **向回压**（物理层面）
@@ -66,7 +64,7 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > repression = re（向回）+ press（压）+ ion（名词后缀）→ 向回压 → 镇压/压抑。想象独裁者用武力把人民的反抗压回去——political repression（政治镇压）。弗洛伊德说，人会把痛苦的记忆压回潜意识——repression（心理压抑）。和 [[oppression]]（压迫，从上面压下来）、[[suppression]]（压制，从下面压住）对比记忆：repression 是"向回压"，oppression 是"向下压"，suppression 是"从下压"。
@@ -88,7 +86,7 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expression]]：表达（repression ↔ expression，压抑 ↔ 表达）
 > - [[liberation]]：解放（repression ↔ liberation，镇压 ↔ 解放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **political repression**：政治镇压
 > - **brutal repression**：残酷镇压
 > - **repression of memories**：记忆的压抑
@@ -127,18 +125,14 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The regime was characterized by political repression and censorship."（该政权以政治镇压和审查为特征——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

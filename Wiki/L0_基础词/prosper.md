@@ -3,14 +3,12 @@ title: "prosper"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 在前面希望（前景美好）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈprɒspə(r)/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在前方有希望**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **在前方有希望**（前景层面）
@@ -64,7 +62,7 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（在前方）+ sper（希望）→ 前方充满希望 → 繁荣兴旺（prosper）。同源词 [[desperate]]（de-去掉 + sper-希望 + -ate → 没有希望的 → 绝望的）。
@@ -86,7 +84,7 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[decline]]：衰退（prosper 的反义：繁荣↔衰退）
 > - [[fail]]：失败（prosper 的反义：成功↔失败）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **prosper in**：在某方面兴旺
 > - **a prospering economy**：繁荣的经济
 > - **prosper from**：因……而兴旺
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The economy prospered under the new policy."（新政策下经济繁荣发展。）
 > - "Small businesses are prospering in the digital age."（小企业在数字时代蓬勃发展。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

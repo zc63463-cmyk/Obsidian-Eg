@@ -3,14 +3,12 @@ title: "resilient"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 弹回原状
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/rɪˈzɪliənt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**弹回原状**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **弹回原状**（物理弹性层面）
@@ -64,7 +62,7 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（回）+ sili（跳）→ 被压下去后弹回来。想象一个拳击手被击倒在地，全场以为他完了，但他像弹簧一样弹起来继续战斗——他就是 resilient。经济危机中跌入谷底又反弹回来的经济体，也是 resilient。
@@ -87,7 +85,7 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fragile]]：脆弱的，易碎的（resilient 的精确反义：有弹性的↔易碎的）
 > - [[vulnerable]]：脆弱的，易受伤害的（resilient 的反义：恢复力强↔易受伤害）
 > - [[rigid]]：僵硬的，不易弯曲的（resilient 的反义：有弹性的↔僵硬的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **resilient economy**：有弹性的经济（衰退后迅速恢复）
 > - **a resilient person**：适应力强的人
 > - **resilient material**：弹性材料
@@ -127,19 +125,15 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Despite numerous setbacks, she remained resilient and continued to pursue her dreams."（尽管遭遇多次挫折，她依然坚韧不拔，继续追求她的梦想——考研高频表达）
 > - "The city demonstrated remarkable resilience in the aftermath of the earthquake, quickly rebuilding and recovering."（这座城市在地震后展现了惊人的韧性，迅速重建并恢复——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

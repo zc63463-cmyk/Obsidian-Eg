@@ -3,17 +3,14 @@ title: "better"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 更好的（good 的比较级）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈbetə(r)/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: better
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -46,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**更好**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **更好**（比较层面）
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > better 是 good 的比较级，源自 PIE *\*bhad-*（好）。你 good（好）了还不够，要 better（更好）。你 better（改善）了你的技能，你的表现就 better（更好）了。better 既是状态（更好），也是动作（使之更好）。
@@ -96,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[worse]]：更差的（better 的精确反义：更好↔更差）
 > - [[worsen]]：恶化（better 作动词时的反义：改善↔恶化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **better off**：境况更好的
 > - **had better**：最好（做某事）
 > - **for the better**：向好的方向发展
@@ -134,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "You had better study harder if you want to pass the exam."（你最好更努力学习，如果你想通过考试的话）
 > - "Technology has made our lives better in many ways."（技术在许多方面使我们的生活变得更好）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

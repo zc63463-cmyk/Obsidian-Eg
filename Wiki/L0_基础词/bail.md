@@ -3,14 +3,12 @@ title: "bail"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 从牢房中提出来的保释金
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/beɪl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从牢房中提出来的保释金**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **保释金**（法律层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bail 的核心是"提出/交付"。法律上的 bail 是交保释金把人从牢房里"提出来"。飞行员从故障飞机中跳出去也叫 bail out——把自己从飞机里"提出来"。政府出资救助濒临破产的银行也叫 bail out——把银行从破产中"提出来"。朋友临时取消约会叫 bail on someone——把自己从约定中"提出来"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[imprison]]：监禁（bail 的反义：保释↔监禁）
 > - [[detain]]：拘留（bail 的反义：释放↔拘留）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **release on bail**：保释释放
 > - **grant bail**：批准保释
 > - **bail someone out**：保释某人；帮助某人摆脱困境
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The defendant was released on bail after his family posted a $50,000 bond to guarantee his appearance in court."（被告在家属缴纳了5万美元保证金以确保其出庭受审后被保释——考研阅读法律话题相关表达）
 > - "The government was forced to bail out several major banks during the financial crisis to prevent a complete collapse of the banking system."（政府被迫在金融危机期间救助了几家大银行，以防止银行系统全面崩溃——考研翻译经济话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

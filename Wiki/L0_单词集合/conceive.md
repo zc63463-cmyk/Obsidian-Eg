@@ -3,14 +3,12 @@ title: "conceive"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 在心中孕育，构想
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈsiːv/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在心中孕育**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在心中孕育**（认知层面——在脑海中"抓住"一个想法）
@@ -70,7 +68,7 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（一起）+ ceive（抓住）：科学家在实验室里**把灵感牢牢抓住**放在心中，让它在脑海里慢慢生长——这就是"构想"。同样的"孕育"过程也发生在母亲的身体里——这就是"怀孕"。
@@ -95,7 +93,7 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dismiss]]：打消，摒弃（构想↔打消想法）
 > - [[reject]]：拒绝，驳回
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conceive of**：构想，设想
 > - **conceive a plan/an idea**：构想一个计划/想法
 > - **conceive a child**：怀孕
@@ -137,21 +135,15 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is difficult to conceive of a world without the internet."（很难想象一个没有互联网的世界。）——考研高频表达
 > - "The project was conceived as a way to bridge the gap between science and the public."（这个项目被设想为弥合科学与公众之间差距的一种方式。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

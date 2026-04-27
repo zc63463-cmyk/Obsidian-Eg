@@ -3,14 +3,12 @@ title: "lens"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 扁豆（形状像扁豆的透镜）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/lenz/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**扁豆形状的光学器件**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **扁豆形状的光学器件**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lens 的拉丁语本义就是"扁豆"（lens, lentis）。古代工匠发现磨成扁豆形状的玻璃可以聚光——于是这种光学器件就叫 lens。隐形眼镜 contact lens 就是贴在眼球上的扁豆形镜片。相机镜头 camera lens 就是那个圆圆的、像扁豆一样的部件。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - lens 作为光学器件没有精确反义词，但在隐喻层面：
 > - [[blind]]：盲的（lens 的隐喻反义：透过透镜看↔看不见）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **contact lens**：隐形眼镜
 > - **camera lens**：相机镜头
 > - **the lens of the eye**：眼晶状体
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We should view this issue through the lens of historical experience."（我们应该从历史经验的角度来看待这个问题）
 > - "The camera lens captures light and focuses it to form an image."（相机镜头捕捉光线并聚焦成像）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

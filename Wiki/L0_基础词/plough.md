@@ -3,14 +3,12 @@ title: "plough"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 犁地工具（翻土的农具）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/plaʊ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**翻土的农具**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **翻土的农具**（工具层面→动作层面→隐喻层面）
@@ -67,7 +65,7 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > plough（犁）就是农民翻土的工具。犁地又慢又累，所以 plough through a book 就是"费力啃完一本书"。考研阅读中常出现 plough through，形容费力地阅读长篇材料。
@@ -90,7 +88,7 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[harvest]]：收获（plough 的反义方向：耕种↔收获）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +122,22 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **plough through**：费力地阅读/穿过
 > - **plough the field**：犁地
 > - **plough back**：把（利润）再投资
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them."（求职面试的入围名单、选举选票、会议发言者和与会者名单：所有这些往往都是按字母顺序排列的，收件人在费力浏览时会逐渐失去兴趣。——考研英语阅读真题）
 > - "These fields have been under the plough for centuries."（这些田地已经被犁了几百年。——考研翻译常见农业话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

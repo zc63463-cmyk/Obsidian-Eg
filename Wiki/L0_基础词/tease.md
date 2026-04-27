@@ -3,14 +3,12 @@ title: "tease"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 拉扯，梳理（用手拉→戏弄→梳理出信息）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/tiːz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ tease（中古英语 *tesen*，意为"梳理羊毛"，源自古英语 *tǣsan*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉扯，梳理**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **拉扯，梳理**（物理动作层面）
@@ -73,7 +71,7 @@ tease（中古英语 *tesen*，意为"梳理羊毛"，源自古英语 *tǣsan*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ tease（中古英语 *tesen*，意为"梳理羊毛"，源自古英语 *tǣsan*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 牧羊人用手 tease（梳理）羊毛，把缠结的纤维一根根拉直。小朋友 tease（戏弄）同学，反复拉扯别人的耐心。科学家 tease out（梳理出）数据中的规律，从一团乱中拉出线索。tease = 反复拉扯 = 梳理/戏弄/梳理出。
@@ -96,7 +94,7 @@ tease（中古英语 *tesen*，意为"梳理羊毛"，源自古英语 *tǣsan*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ tease（中古英语 *tesen*，意为"梳理羊毛"，源自古英语 *tǣsan*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[comfort]]：安慰（tease 的反义：戏弄↔安慰）
 > - [[soothe]]：抚慰（tease 的反义：挑逗/刺激↔抚慰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,26 +127,22 @@ tease（中古英语 *tesen*，意为"梳理羊毛"，源自古英语 *tǣsan*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tease someone about something**：拿某事戏弄某人
 > - **tease out**：梳理出，套出（信息）
 > - **tease apart**：仔细区分，梳理清楚
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The single word environment has so many dimensions, and there are so many other factors affecting wealth—such as the oil deposits—that teasing out a simple economy-environment relationship would be almost impossible."（"环境"这个单一词汇有太多维度，影响财富的因素又如此之多——比如石油储量——以至于梳理出一个简单的经济与环境关系几乎是不可能的。——考研英语阅读相关语料）
 > - "It is really important to understand and try and tease out what is the human connection with fire today."（理解并努力梳理出当今人类与火之间的联系，这一点非常重要。——2017年考研英语二Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

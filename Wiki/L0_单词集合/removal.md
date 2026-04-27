@@ -3,14 +3,12 @@ title: "removal"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 移除、去掉的动作或结果
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/rɪˈmuːvl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**移除的动作或结果**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **移除的动作或结果**（物理空间层面）
@@ -65,7 +63,7 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > remove（移除）+ -al（名词后缀）：移除这个动作本身 → "移除；免职"。
@@ -88,7 +86,7 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[installation]]：安装；安置
 > - [[addition]]：添加；增加
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **removal of**：移除；去除
 >   The removal of trade barriers boosted economic growth.
 > - **removal from office**：免职
@@ -129,21 +127,15 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The removal of trade barriers has stimulated economic growth."（贸易壁垒的消除刺激了经济增长。）——考研高频表达
 > - "The removal of the old tree made space for a new playground."（移除旧树为新操场让出了空间。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

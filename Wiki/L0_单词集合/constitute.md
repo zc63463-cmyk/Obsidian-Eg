@@ -3,14 +3,12 @@ title: "constitute"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 组成，构成
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈkɒnstɪtjuːt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ute（动词后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**组成，构成**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **组成，构成**（空间层面的构成关系）
@@ -62,7 +60,7 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ute（动词后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ute（动词后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-（一起）+ stit（站立）+ -ute（动词）→ 站在一起 → **组成，构成**。想象一群人站在一起，形成一个团队——他们"constitute"这个团队。
@@ -87,7 +85,7 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ute（动词后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ute（动词后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dissolve]]：解散（与组成相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,30 +113,21 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ute（动词后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **constitute a threat**：构成威胁（The military buildup constitutes a threat to regional stability.）
 > - **constitute a crime**：构成犯罪（His actions constitute a crime under current law.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Such actions constitute a serious violation of academic ethics."（此类行为被视为严重违反学术道德。）——2019考研英语一Text3
 > - "The long-term unemployed now constitute a sort of underclass."（长期失业者如今构成了某种底层阶级。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

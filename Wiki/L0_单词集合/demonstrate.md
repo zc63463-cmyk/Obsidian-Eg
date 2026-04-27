@@ -3,14 +3,12 @@ title: "demonstrate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 证明，示范，示威
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdemənstreɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**指出来给人看**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **指出来给人看**（物理展示层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自拉丁语 *demonstrare*，de-（完全）+ monstrare（指出/展示），与 monster（怪物=被展示出来的异象）同源。想象一位老师在黑板上一步步演算数学题，让全班同学都看清楚——那就是 demonstrate：彻底展示，让人完全理解。后来从"展示"扩展为"证明"——用证据展示真相。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏 vs demonstrate 展示
 > - [[disprove]]：反驳 vs demonstrate 证明
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **demonstrate that...**：证明……
 > - **demonstrate sth. to sb.**：向某人展示/示范某物
 > - **demonstrate against**：示威抗议
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The experiment **demonstrated** that the new drug was effective in treating the disease.（实验证明新药在治疗该疾病方面是有效的。）
 > - Thousands of workers **demonstrated** against the government's new labor law.（数千名工人示威抗议政府的新劳动法。）
 > - The salesperson **demonstrated** how the new software works.（销售人员演示了新软件的操作方法。）
@@ -137,15 +135,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

@@ -3,14 +3,12 @@ title: "establish"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 使某物站稳脚跟
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪˈstæblɪʃ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使某物站稳脚跟**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使某物站稳脚跟**（组织层面）
@@ -68,7 +66,7 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > establish 来自拉丁语 *stabilire*（使稳固），由 stabilis（稳固的）演变而来，词根是 *stare*（站立）。想象你在一个空地上盖房子——打地基、立柱子，让房子"站稳脚跟"，这就是 establish a building（建立建筑）。再想象你在法庭上用证据让一个事实"站稳脚跟"——这就是 establish the truth（证实真相）。establish 的本质就是"使站稳"。
@@ -92,7 +90,7 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abolish]]：废除，取消（建立↔废除）
 > - [[destroy]]：摧毁，破坏（建立↔破坏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **establish a company/system**：建立公司/制度（The company was established in 1990.）
 > - **establish the fact/truth**：证实事实/真相（The evidence established the fact that he was innocent.）
 > - **establish oneself as**：使自己确立为...（She has established herself as a leading scientist.）
@@ -134,21 +132,15 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The study established a link between diet and health."（这项研究证实了饮食与健康之间的联系。）——2018年考研英语二Text3
 > - "It takes time to establish trust between people from different cultural backgrounds."（在不同文化背景的人之间建立信任需要时间。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

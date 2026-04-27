@@ -3,14 +3,12 @@ title: "clear"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 清澈的/清楚的→清除
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/klɪr/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ clear（清澈/清楚，拉丁语 clarus）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**清澈透明、一目了然**"为统筹中心，沿**具身路径**向外扩展：
 
@@ -66,7 +64,7 @@ clear（清澈/清楚，拉丁语 clarus）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -78,7 +76,7 @@ clear（清澈/清楚，拉丁语 clarus）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 一潭清水，清澈见底——clear 的原始画面就是'透明、没有遮挡'
@@ -90,7 +88,7 @@ clear（清澈/清楚，拉丁语 clarus）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ clear（清澈/清楚，拉丁语 clarus）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[vague]]：<clear 清楚 vs vague 模糊>
 - [[obscure]]：<clear 清楚 vs obscure 模糊/晦涩>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -121,27 +119,21 @@ clear（清澈/清楚，拉丁语 clarus）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **make clear**（阐明）：She made her position clear.（她阐明了自己的立场。）
 - **clear up**（清理；放晴）：The weather cleared up in the afternoon.（下午天气放晴了。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - It is clear that the policy needs reform.（很明显，这项政策需要改革。）
 - Please clear your desk before you leave.（离开前请清理你的桌面。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

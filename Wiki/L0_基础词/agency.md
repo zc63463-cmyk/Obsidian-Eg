@@ -3,14 +3,12 @@ title: "agency"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 做事的力量（拉丁语 agere = 做、行动 → agentia = 行动的力量）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈeɪdʒənsi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**做事的力量**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **行动的力量**（能力层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > agency 的核心画面是"一个人代表另一个人做事"。拉丁语 *agere* = 做/行动。ag- = 做，-ency = 名词后缀（表示状态或机构）。agency = 做事的机构 = 代理机构。Travel agency（旅行社）= 帮你安排旅行的机构。Human agency（人的能动性）是考研高频学术概念——指人自主行动、改变环境的能力。注意 agency 和 [[agent]] 的关系：agent 是"代理人"（人），agency 是"代理机构"（组织）。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inaction]]：不作为（agency 的反义：行动力↔不作为）
 > - [[helplessness]]：无助（agency 的反义：能动性↔无助感）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **travel agency**：旅行社
 > - **employment agency**：职业介绍所
 > - **government agency**：政府机构
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The environmental protection agency has issued new guidelines to regulate industrial emissions and reduce air pollution."（环保署发布了新指南，以规范工业排放并减少空气污染——考研阅读环保话题相关表达）
 > - "Sociologists emphasize the importance of human agency in shaping social structures, arguing that individuals are not merely passive recipients of social forces."（社会学家强调人的能动性在塑造社会结构中的重要性，认为个人不仅仅是社会力量的被动接受者——考研阅读社会学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

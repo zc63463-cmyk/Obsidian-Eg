@@ -3,14 +3,12 @@ title: "fault"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 犯错、偏离正确
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/fɔːlt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**犯错、偏离正确**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **犯错、偏离正确**（行为层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 来自拉丁语 fallere（欺骗），过去分词 faultus。你欺骗了别人，那就是你的 fault（过错）。别人发现了你的 fault，就会 find fault with you（挑剔你）。人无完人，Every man has his faults（人人都有缺点）。连地球都有 fault——San Andreas Fault（圣安德烈亚斯断层）。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[merit]]：优点（fault 的反义：缺点↔优点）
 > - [[perfection]]：完美（fault 的反义：缺陷↔完美）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **find fault with**：挑剔，指责——He is always finding fault with my work.
 > - **at fault**：有过错的，有责任的——The hospital was at fault.
 > - **through no fault of one's own**：并非由于自己的过错——Through no fault of his own, he lost his job.
@@ -141,19 +139,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It's a rough world out there. Step outside and you could break a leg slipping on your doormat. Light up the stove and you could burn down the house. Luckily, if the doormat or stove failed to warn of coming disaster, a successful lawsuit might compensate you for your troubles."（外面是个残酷的世界。踏出门你可能滑倒在门垫上摔断腿。点燃炉子你可能烧掉整栋房子。幸运的是，如果门垫或炉子没能警告即将到来的灾难，一场成功的诉讼可能补偿你的损失——1999年考研英语Text 1，涉及产品责任与 fault）
 > - "Part of the fault lies with our inner caveman."（部分原因在于我们内心的穴居人——六级阅读，涉及人类行为偏差的 fault 归属）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

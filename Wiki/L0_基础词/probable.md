@@ -3,14 +3,12 @@ title: "probable"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 可证明的（经得起检验的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈprɒbəbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可证明的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可证明的**（认知层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > probable 源自拉丁语 *probabilis*（可证明的/值得认可的），*probare*（证明/检验）。一个假设"经得起检验"（probable），它就是"很可能正确的"。法律中的 probable cause（合理根据）就是"经得起检验的搜查理由"。所以 probable 的本质不是"猜测"，而是"有证据支撑的判断"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[improbable]]：不太可能的（probable 的精确反义：很可能↔不太可能）
 > - [[impossible]]：不可能的（probable 的反义：很可能↔不可能）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **it is probable that**：很可能……
 > - **a probable outcome/consequence**：可能的结果/后果
 > - **probable cause**：合理根据（法律用语）
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is highly probable that the company will announce its merger plan next week."（公司极有可能在下周宣布合并计划）
 > - "The police had probable cause to search the suspect's vehicle."（警方有合理根据搜查嫌疑人的车辆）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

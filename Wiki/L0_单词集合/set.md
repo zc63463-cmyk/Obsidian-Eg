@@ -3,14 +3,12 @@ title: "set"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 使某物处于特定位置或状态
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/set/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -49,7 +47,7 @@ set ← 古英语 settan（使坐、放置）← 原始日耳曼语 *satjan（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使某物处于特定位置或状态**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使某物处于特定位置**（本义：放置到某处）
@@ -76,7 +74,7 @@ set ← 古英语 settan（使坐、放置）← 原始日耳曼语 *satjan（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -89,7 +87,7 @@ set ← 古英语 settan（使坐、放置）← 原始日耳曼语 *satjan（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > set 源自古英语 settan（使坐）。想象你让一个孩子"坐"到椅子上——这就是 set 的原型义。后来从"使坐"扩展到"放置"任何东西，再扩展到"设定"目标、"开始"旅程、"日落"（太阳坐到地平线下）。
@@ -101,7 +99,7 @@ set ← 古英语 settan（使坐、放置）← 原始日耳曼语 *satjan（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -115,13 +113,13 @@ set ← 古英语 settan（使坐、放置）← 原始日耳曼语 *satjan（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rise]]：升起（与"日落"形成对立）
 > - [[move]]：移动（与"固定放置"形成对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,28 +132,22 @@ set ← 古英语 settan（使坐、放置）← 原始日耳曼语 *satjan（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **set up**：They set up a new company last year.（他们去年成立了一家新公司。）
 > - **set out**：She set out to write a novel.（她着手写一部小说。）
 > - **a set of**：I bought a set of tools.（我买了一套工具。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has set strict limits on carbon emissions."（政府对碳排放设定了严格的限制。）——考研高频表达
 > - "A clear set of rules and regulations is essential for any organization."（一套明确的规章制度对任何组织来说都是必不可少的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

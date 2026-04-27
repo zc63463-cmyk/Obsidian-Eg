@@ -3,14 +3,12 @@ title: "close"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 关闭/靠近
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kləʊz/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**关闭/靠近**"为统筹中心，沿**空间路径**向外扩展：
 >
 > 1. **关闭/合上**（物理层面：使开口合拢）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > close 来自拉丁语 claudere（关闭）。关上门（close the door）就是让门的两端靠近。距离"近"是 close，关系"亲密"是 close friend，比赛"势均力敌"是 close game——都是"靠近"的延伸。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[open]]：打开/开放的（与 close 的"关闭"义相对）
 > - [[distant]]：疏远的/遥远的（与 close 的"亲密"义相对）
 > - [[far]]：远的（与 close 的"近"义相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **close down**：关闭、倒闭
   - The factory was closed down due to financial difficulties.（这家工厂因财务困难而倒闭。）
 > - **close to**：接近/靠近
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The close relationship between economic growth and environmental degradation has been widely acknowledged."（经济增长与环境恶化之间的密切关系已被广泛认可。）——考研高频表达
 > - "Scientists are working to close the gap between theory and practice in renewable energy."（科学家们正在努力缩小可再生能源领域理论与实践之间的差距。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

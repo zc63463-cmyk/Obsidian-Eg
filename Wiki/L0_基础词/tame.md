@@ -3,14 +3,12 @@ title: "tame"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 被驯服的动物
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/teɪm/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被驯服的动物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **被驯服的动物**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tame 的核心就是"驯服"。远古人类把野狼驯化成温顺的狗，这就是 tame。被 tame 的动物不再野性十足。后来 tame 延伸到"控制自然力量"——tame a river（治理河流），tame inflation（控制通胀）。再延伸到"乏味"——驯服后的生活失去了刺激，变得 tame（平淡）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wild]]：野生的（tame "驯服的"的精确反义）
 > - [[fierce]]：凶猛的（tame "温顺的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tame a wild animal**：驯服野生动物
 > - **tame inflation**：控制通货膨胀
 > - **a tame performance**：平淡的表现
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The central bank managed to tame inflation through a series of interest rate hikes."（央行通过一系列加息成功地控制了通货膨胀。——考研阅读经济话题高频表达）
 > - "What was expected to be a fierce debate turned out to be a rather tame affair."（原本预计会是一场激烈的辩论，结果却相当平淡。——考研翻译议论话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

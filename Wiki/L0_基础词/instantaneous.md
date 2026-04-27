@@ -3,14 +3,12 @@ title: "instantaneous"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 站在面前发生的（瞬间完成的）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌɪnstənˈteɪniəs/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -42,7 +40,7 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在面前发生的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **站在面前发生的**（时间层面）
@@ -63,7 +61,7 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[instant]]（站在面前的）+ -aneous（……性质的）→ instantaneous。比 instant 更学术、更精确——不是"很快的"，而是"没有任何可感知的时间间隔的"。instantaneous communication = 通信在发出和收到之间没有延迟。
@@ -82,7 +80,7 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -94,13 +92,13 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gradual]]：逐渐的（instantaneous 的精确反义：瞬间↔逐渐）
 > - [[delayed]]：延迟的（instantaneous 的反义：即时↔延迟）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,22 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **instantaneous response**：瞬间反应
 > - **instantaneous communication**：即时通信
 > - **instantaneous death**：瞬间死亡
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The invention of the telegraph made nearly instantaneous communication possible across continents."（电报的发明使几乎即时的跨洲通信成为可能）
 > - "The explosion caused instantaneous destruction of the entire building."（爆炸瞬间摧毁了整栋建筑）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

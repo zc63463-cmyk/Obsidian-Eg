@@ -3,14 +3,12 @@ title: "predominant"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 在前面统治的（在众人中占据主导地位）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/prɪˈdɒmɪnənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在前面统治的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **站在前面统治**（权力层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > predominant = pre（在前面）+ domin（统治）+ -ant（形容词后缀）= 在前面统治的 = 占主导地位的。拉丁语 *dominus* = 主人、领主。站在众人前面统治的人就是 predominant。The predominant factor is cost（主要因素是成本）= 成本"统治"了决策。The predominant view is that...（主流观点是……）= "统治"性的观点。同源词：dominate（支配）、domain（领域）、domestic（家庭的 = 家里的）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subordinate]]：从属的（predominant 的精确反义：主导↔从属）
 > - [[minor]]：次要的（predominant 的反义：主要↔次要）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **predominant factor**：主要因素
 > - **predominant view/opinion**：主流观点
 > - **predominant culture**：主流文化
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The predominant factor contributing to the company's success was its ability to adapt quickly to changing market conditions."（促成公司成功的最主要因素是其快速适应不断变化的市场条件的能力——考研阅读商业话题相关表达）
 > - "In predominantly rural areas, access to higher education remains limited compared to urban centers."（在以农村为主的地区，与城市中心相比，接受高等教育的机会仍然有限——考研阅读教育社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "evaluate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 确定某物的价值
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈvæljueɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[valu]]（价值，来自
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**确定某物的价值**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **确定某物的价值**（判断层面）
@@ -64,7 +62,7 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[valu]]（价值，来自
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[valu]]（价值，来自
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > evaluate 来自拉丁语 *valere*（to be worth，有价值），前缀 e-（出）+ valu（价值）+ -ate（使动）。想象你是一个鉴定师，你把一幅画放在灯光下仔细端详，最终"确定它的价值"——这就是 evaluate（评估）。evaluate 的本质就是"判断值多少钱/值多少分"。
@@ -88,7 +86,7 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[valu]]（价值，来自
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[valu]]（价值，来自
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（评估↔忽视）
 > - [[guess]]：猜测（评估↔猜测）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,28 +122,22 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[valu]]（价值，来自
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **evaluate the effectiveness/performance**：评估效果/表现（We need to evaluate the effectiveness of the new policy.）
 > - **evaluate the impact**：评估影响（Scientists are evaluating the impact of climate change.）
 > - **evaluate the data/evidence**：评估数据/证据（The researchers evaluated the data carefully.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We need to evaluate the effectiveness of the new teaching methods."（我们需要评估新教学方法的有效性。）——考研高频表达
 > - "The study attempts to evaluate the impact of social media on teenagers' mental health."（这项研究试图评估社交媒体对青少年心理健康的影响。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

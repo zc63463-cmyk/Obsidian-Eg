@@ -3,14 +3,12 @@ title: "appointment"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 安排好的一个点
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈpɔɪntmənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**安排好的一个点**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **安排好的一个点**（时间层面）
@@ -67,7 +65,7 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > appoint 是"安排一个点"，appointment 就是"安排好的那个点"。想象你在日历上圈了一个红点——那是你跟牙医的 appointment（约会）；想象你在公司组织架构图上标了一个点——那是某人被任命的 appointment（职位）。两种 appointment 的本质都是"安排好的一个点"。
@@ -90,7 +88,7 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disappointment]]：失望（appointment 的否定形式：安排好的点被取消→失望）
 > - [[dismissal]]：解雇（任命↔解雇）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make an appointment**：预约（I'd like to make an appointment with the doctor.）
 > - **keep/break an appointment**：守约/违约（She failed to keep her appointment.）
 > - **have an appointment with**：与...有约（I have an appointment with the dentist tomorrow.）
@@ -133,21 +131,15 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The doctor's appointment has been rescheduled to next Thursday."（医生的预约已经改到下周四。）——考研高频表达
 > - "She was disappointed about missing her appointment with the career counselor."（她因错过了与职业顾问的预约而感到失望。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

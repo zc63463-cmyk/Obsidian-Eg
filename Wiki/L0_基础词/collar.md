@@ -3,14 +3,12 @@ title: "collar"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 脖子、颈部（环绕脖子的部分）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ˈkɒlə/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**脖子**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **脖子**（身体部位）
@@ -67,7 +65,7 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > collar 源自拉丁语 *collum*（脖子）。核心画面：衣领（collar）就是穿在脖子（collum）上的那圈布。从衣领出发，collar 延伸出多个含义：动物的项圈（dog collar）、警察抓住衣领的动作（collar a thief）、社会阶层的标志（blue-collar 蓝领/white-collar 白领/pink-collar 粉领）。blue-collar workers（蓝领工人）穿的工作服是蓝色衣领，white-collar workers（白领工人）穿衬衫打领带。He grabbed me by the collar（他抓住我的衣领）。
@@ -90,7 +88,7 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （collar 作为物品名词，无精确反义词）
 > - [[release]]：释放（collar 作为"拘捕"的反义：拘捕↔释放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **white-collar worker**：白领工人
 > - **blue-collar worker**：蓝领工人
 > - **grab someone by the collar**：抓住某人的衣领
@@ -131,19 +129,15 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The decline of manufacturing has left many blue-collar workers struggling to find stable employment."（制造业的衰退使许多蓝领工人难以找到稳定的就业——考研阅读经济话题）
 > - "White-collar workers are increasingly vulnerable to job displacement due to automation and artificial intelligence."（由于自动化和人工智能，白领工人越来越容易面临工作被取代的风险——考研阅读科技话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

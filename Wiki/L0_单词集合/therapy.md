@@ -3,14 +3,12 @@ title: "therapy"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 治疗
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈθerəpi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**治疗**"为统筹中心，沿行为路径向外扩展：
 >
 > 1. **治疗**（医学层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > therapy = therap（治疗，希腊语 therapeia）+ -y（名词后缀）→ 治疗。想象你走进一间温馨的房间，一位治疗师微笑着说"Let's begin our **therapy** session"——这就是治疗。记住 therap = 治疗，therapy = 治疗/疗法。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[harm]]：伤害（治疗↔伤害）
 > - [[disease]]：疾病（治疗↔疾病）
 > - [[illness]]：疾病（疗法↔疾病）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **physical / occupational / speech therapy**：物理/职业/言语治疗
 > - **go to therapy / be in therapy**：接受治疗（尤指心理治疗）
 > - **therapy session**：治疗疗程
@@ -136,7 +134,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She has been in therapy for three months to deal with anxiety."（她接受心理治疗已三个月以应对焦虑）——健康/心理语境
 > - "Physical therapy can help patients recover from injuries more quickly."（物理治疗可以帮助患者更快地从伤病中恢复）——医学语境
 > - "Music therapy has been shown to reduce stress and improve mood."（研究表明音乐疗法可以减轻压力、改善情绪）——科学/健康语境
@@ -144,15 +142,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "opposite"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 放在对面的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈɒpəzɪt/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**放在对面的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **放在对面的**（物理空间层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > opposite = ob（对着）+ posit（放，=pose的过去分词）+ -e。想象你站在镜子前，镜子里的人**放在你的对面**——那就是你的 **opposite**（对面的人/相反的人）。从"对面"到"相反"：对面的方向是 **opposite direction**，对面的观点是 **opposite view**。记住 posit/pose = 放置，opposite = 放在对面的。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[same]]：相同的（opposite 的精确反义：相反的↔相同的）
 > - [[similar]]：相似的（相反的反义）
 > - [[identical]]：完全相同的（完全相反的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **opposite side/direction**：对面/相反方向
 > - **exact/polar opposite**：截然相反的事物
 > - **sit opposite sb**：坐在某人对面
@@ -139,22 +137,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They hold opposite views on this issue."（他们在这个问题上持有相反的观点）——考研阅读常见搭配，观点对比类
 > - "The bank is on the opposite side of the street."（银行在街道对面）——方位描述
 > - "The medicine had the opposite effect from what was intended."（这种药产生了与预期相反的效果）——科学/医学类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

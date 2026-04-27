@@ -3,14 +3,12 @@ title: "aircraft"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 空中飞行的器物
-extension_dim: 功能扩展
+extension_dim: [功能扩展]
 phonetic: "/ˈeəkrɑːft/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ air（空气，天空）+ craft（手艺，器物，船）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**空中飞行的器物**"为统筹中心，沿功能扩展向外扩展：
 >
 > 1. **空中飞行的器物**
@@ -64,7 +62,7 @@ air（空气，天空）+ craft（手艺，器物，船）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ air（空气，天空）+ craft（手艺，器物，船）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > craft 本意是"手艺、技艺"，引申为"用手艺制造的器物"，再引申为"船"（因为船是手艺的结晶）。air + craft = 空中的船 = 航空器。类似的构词还有 spacecraft（太空船）、watercraft（水上船只）。
@@ -86,7 +84,7 @@ air（空气，天空）+ craft（手艺，器物，船）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ air（空气，天空）+ craft（手艺，器物，船）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[watercraft]]：水上船只（aircraft 的反义：空中↔水上）
 > - [[ground_vehicle]]：地面车辆（aircraft 的反义：空中↔地面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ air（空气，天空）+ craft（手艺，器物，船）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **military aircraft**：军用飞机
 > - **commercial aircraft**：商用飞机
 > - **aircraft carrier**：航空母舰
@@ -133,19 +131,15 @@ air（空气，天空）+ craft（手艺，器物，船）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was credited with shooting down 11 German aircraft, possibly as many as 17, and damaging many more."（他被认定击落了11架德国飞机，可能多达17架，还击伤了更多——The Sunday Times, 2015）
 > - "Passengers seated there are considered part of the aircraft's emergency response and are expected to assist if needed."（坐在那里的乘客被视为飞机应急响应的一部分，在需要时被期望提供协助——Merriam-Webster 例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

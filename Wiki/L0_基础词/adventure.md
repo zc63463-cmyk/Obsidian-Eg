@@ -3,14 +3,12 @@ title: "adventure"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 向未知走来（走向未知的旅程）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ədˈventʃə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向未知走来**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **向未知走来**（行为层面）
@@ -65,7 +63,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ad（朝向）+ vent（来）→ 朝未知方向走来 → 冒险。想象一个探险家背上行囊，朝着地图上未标记的方向出发——这就是 adventure。他不知道会遇到什么，但正是这种未知让旅程充满刺激。adventure 既可以指一次具体的冒险经历（have an adventure），也可以指冒险的精神（sense of adventure）。
@@ -88,7 +86,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[safety]]：安全（adventure 的反义：冒险↔安全）
 > - [[routine]]：常规（adventure 的反义：冒险↔日常惯例）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **go on an adventure**：去冒险
 > - **sense of adventure**：冒险精神
 > - **adventure sports**：极限运动
@@ -133,19 +131,15 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He travelled the world for a sense of adventure."（他周游世界寻求冒险的刺激感——考研英语阅读）
 > - "The adventure in Africa has been a memory of my life."（在非洲的冒险经历已经成为我生命中的一个回忆——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "pure"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 纯净的（没有杂质的，未掺杂其他东西的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/pjʊə(r)/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**纯净的（没有杂质的，未掺杂其他东西的）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **纯净的**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pure 源自拉丁语 purus（干净的、纯粹的）。想象一杯纯净水——清澈透明，没有任何杂质——那就是 pure。纯金（pure gold）是24K金，不含其他金属。引申到抽象层面，pure science 是"纯科学"——不掺杂实用目的。pure coincidence 是"纯粹的巧合"——不掺杂任何人为因素。pure 就是"干干净净，没有掺杂"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[impure]]：不纯的，掺杂的（pure 的精确反义：纯净的↔不纯的）
 > - [[mixed]]：混合的（pure 的反义：纯粹的↔混合的）
 > - [[contaminated]]：被污染的（pure 的反义：纯净的↔被污染的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pure water/gold**：纯水/纯金
 > - **pure coincidence**：纯粹的巧合
 > - **pure luck**：纯粹的运气
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It was pure coincidence that they met at the airport."（他们在机场相遇纯属巧合——考研阅读常见表达）
 > - "Pure science is driven by curiosity rather than practical applications."（纯科学是由好奇心而非实际应用驱动的——考研阅读学术话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

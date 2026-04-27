@@ -3,14 +3,12 @@ title: "acquisition"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 获得的行为或结果
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌækwɪˈzɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ac-(=ad-, 向/去) + quis(=quaerere, 寻求) + -ition(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**获得某物的行为或已获得的东西**"为统筹中心，沿**抽象路径**向外扩展：
 
@@ -64,7 +62,7 @@ ac-(=ad-, 向/去) + quis(=quaerere, 寻求) + -ition(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -74,7 +72,7 @@ ac-(=ad-, 向/去) + quis(=quaerere, 寻求) + -ition(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > acquire（获得）的名词形式——acquisition 就是'获得'这个行为本身或其结果
@@ -86,7 +84,7 @@ ac-(=ad-, 向/去) + quis(=quaerere, 寻求) + -ition(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ ac-(=ad-, 向/去) + quis(=quaerere, 寻求) + -ition(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[loss]]：<acquisition 获得 vs loss 失去>
 - [[disposal]]：<acquisition 获得 vs disposal 处置>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -115,27 +113,21 @@ ac-(=ad-, 向/去) + quis(=quaerere, 寻求) + -ition(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **mergers and acquisitions (M&A)**（并购）：The company grew through mergers and acquisitions.（公司通过并购发展壮大。）
 - **language acquisition**（语言习得）：Language acquisition is a complex process.（语言习得是一个复杂的过程。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - The acquisition of the company was completed last month.（该公司收购已于上月完成。）
 - Second language acquisition research has made great progress.（第二语言习得研究取得了巨大进展。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

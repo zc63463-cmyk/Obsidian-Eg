@@ -3,14 +3,12 @@ title: "dynamic"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 动态的，充满活力的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/daɪˈnæmɪk/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ dyn(力量，动力) + -am(连接) + -ic(与...有关的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有力量/动力的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **有力量/动力的**（物理层面）
@@ -67,7 +65,7 @@ dyn(力量，动力) + -am(连接) + -ic(与...有关的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ dyn(力量，动力) + -am(连接) + -ic(与...有关的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一辆充满动力(dyn)的跑车在高速路上飞驰——它不断加速、变道，这就是 dynamic（动态的，充满活力的）。
@@ -91,7 +89,7 @@ dyn(力量，动力) + -am(连接) + -ic(与...有关的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ dyn(力量，动力) + -am(连接) + -ic(与...有关的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[static]]：静态的（与"动态的"直接相对）
 > - [[stagnant]]：停滞的，不发展的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ dyn(力量，动力) + -am(连接) + -ic(与...有关的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dynamic system**：The economy is a complex dynamic system.（经济是一个复杂的动态系统。）
 > - **group dynamics**：Understanding group dynamics is essential for effective teamwork.（理解群体动力学对有效团队合作至关重要。）
 > - **dynamic economy**：China has maintained a dynamic economy for decades.（中国几十年来保持了充满活力的经济。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We need a dynamic expansion of trade with other countries."（我们需要与其他国家进行充满活力的贸易扩张。）——考研高频表达
 > - "The dynamics of the global economy have changed dramatically in recent decades."（近几十年来，全球经济的动态发生了巨大变化。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

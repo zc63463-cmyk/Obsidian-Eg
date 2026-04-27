@@ -3,14 +3,12 @@ title: "twist"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 拧，捻，绞
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/twɪst/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ twist 为日耳曼语族本族词，与古英语 twā（二）有关，暗示"�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**捻，拧，绞**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **捻，拧，绞**（物理层面——手指搓转物体）
@@ -67,7 +65,7 @@ twist 为日耳曼语族本族词，与古英语 twā（二）有关，暗示"�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ twist 为日耳曼语族本族词，与古英语 twā（二）有关，暗示"�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自古英语 twist，与 twine（双股线）同源。想象你双手各拿一根线，用力一**拧**（twist），两根线就绞在一起了。故事里的"转折"就像绳子突然被拧向另一个方向。
@@ -91,7 +89,7 @@ twist 为日耳曼语族本族词，与古英语 twā（二）有关，暗示"�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ twist 为日耳曼语族本族词，与古英语 twā（二）有关，暗示"�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[straighten]]：弄直（twist 是拧弯，straighten 是弄直）
 > - [[untwist]]：解开，松开（twist 的反动作）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,28 +121,22 @@ twist 为日耳曼语族本族词，与古英语 twā（二）有关，暗示"�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **twist one's words**：歪曲某人的话（Don't twist my words.）
 > - **plot twist**：情节转折（The movie has a brilliant plot twist.）
 > - **twist and turn**：蜿蜒曲折（The road twists and turns through the mountains.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The author twists the facts to support his argument, which undermines the credibility of the entire essay."（作者歪曲事实以支持自己的论点，这削弱了整篇文章的可信度。）——考研高频表达
 > - "The plot of the novel takes an unexpected twist that leaves readers in shock."（小说的情节出现了令人震惊的意外转折。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

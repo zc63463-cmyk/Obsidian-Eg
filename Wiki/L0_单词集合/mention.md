@@ -3,14 +3,12 @@ title: "mention"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 唤起记忆，说到
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmenʃn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ment(=memor，心智/记忆，mind) + -ion(名词后缀，表动作/结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**唤起记忆地说到**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **唤起记忆地说到**（基础层面：说话时触及某个话题）
@@ -64,7 +62,7 @@ ment(=memor，心智/记忆，mind) + -ion(名词后缀，表动作/结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ment(=memor，心智/记忆，mind) + -ion(名词后缀，表动作/结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > **ment**（心智/记忆）+ **ion**（动作），说话时触动对方的心智，让他"记起来"某件事，就是 **mention**——提到、提及。
@@ -87,7 +85,7 @@ ment(=memor，心智/记忆，mind) + -ion(名词后缀，表动作/结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ ment(=memor，心智/记忆，mind) + -ion(名词后缀，表动作/结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[omit]]：省略，遗漏，与 mention 的"提及"构成反向关系
 > - [[ignore]]：忽视，忽略
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ ment(=memor，心智/记忆，mind) + -ion(名词后缀，表动作/结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mention sth to sb**：向某人提到某事
   - He mentioned the issue to his supervisor during the meeting.（他在会议期间向主管提到了这个问题。）
 > - **not to mention**：更不用说
@@ -131,21 +129,15 @@ ment(=memor，心智/记忆，mind) + -ion(名词后缀，表动作/结果)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The author mentions several factors that contribute to climate change in her latest book.（作者在其新书中提到了导致气候变化的几个因素。）
 > - It is worth mentioning that the results are consistent with previous findings.（值得一提的是，这些结果与先前的研究发现一致。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

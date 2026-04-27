@@ -3,14 +3,12 @@ title: "relay"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 传递、转达（将信息或物品从一人传给下一人）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈleɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**传递、转达**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **传递、转达**（人际层面）
@@ -69,7 +67,7 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（再）+ lay（放）→ relay。你听到一个消息，再把它"放"到别人耳朵里——relay the news。接力赛中，运动员一棒接一棒地"再放"——win the relay。卫星把信号从一个地方"再放"到全世界——relay by satellite。
@@ -92,7 +90,7 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[withhold]]：扣留，隐瞒（relay 的反义：传递↔扣留）
 > - [[block]]：阻挡，拦截（relay 的反义：转达↔拦截）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **relay race**：接力赛
 > - **relay sth to sb**：将……传达给某人
 > - **relay station**：中继站
@@ -134,19 +132,15 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "TV pictures of the war were relayed around the world by satellite."（战争的电视画面通过卫星向全世界转播。——考研阅读高频表达）
 > - "I was told the news first and then I relayed it to the others."（我首先得知了这个消息，然后把它传达给了其他人。——考研翻译类例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

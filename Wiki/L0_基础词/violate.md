@@ -3,14 +3,12 @@ title: "violate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用力量冲破边界（以蛮力越过不应越过的线）
-extension_dim: 物理→社会
+extension_dim: [物理→社会]
 phonetic: "/ˈvaɪəleɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用力量冲破边界**"为统筹中心，沿物理→社会向外扩展：
 >
 > 1. **用力量冲破边界**
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > violate 来自 [[viol]]（力量、暴力）+ -ate（动词后缀）→ "用力量冲破"。想象一条清晰的线——法律画了一条线，你不应越过；隐私画了一条线，你不应越过；宁静画了一条线，你不应越过。violate 就是"用蛮力冲破这些线"。It seems that the troops deliberately violated the ceasefire agreement（那些军队似乎是故意违反停火协议）。The doctor has been accused of violating professional ethics（那名医生被控违反了职业道德）。violate 的核心画面始终是"一道线被冲破"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[obey]]：遵守（violate 的精确反义：违反↔遵守）
 > - [[respect]]：尊重（violate 的反义：侵犯↔尊重）
 > - [[observe]]：遵守（violate 的反义：违反↔遵守，尤指规则/法律）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **violate the law/rules**：违法/违规
 > - **violate someone's privacy**：侵犯某人的隐私
 > - **violate human rights**：侵犯人权
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It seems that the troops deliberately violated the ceasefire agreement."（那些军队似乎是故意违反停火协议——Cambridge English Dictionary）
 > - "The doctor has been accused of violating professional ethics."（那名医生被控违反了职业道德——Cambridge English Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "suffer"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在下方承受
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsʌfə/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在下方承受**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **在下方承受**（物理层面：被压在下面）
@@ -66,7 +64,7 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sub（在下面）+ fer（承受）。想象一个矿工被困在矿井**下方**，头顶是沉重的岩石，他只能默默**承受**——他在 suffer。记住：在下面扛着 = suffer。
@@ -84,7 +82,7 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[enjoy]]：享受（suffer 的情感对立面）
 > - [[relieve]]：缓解（减轻痛苦）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **suffer from**：患（病）；遭受
   - Many people suffer from high blood pressure.（许多人患有高血压。）
 > - **suffer defeat/loss**：遭受失败/损失
@@ -122,19 +120,15 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Supreme Court's decisions on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering."（最高法院关于医生协助自杀的裁决，对于医学界寻求如何减轻垂死病人痛苦具有重要意义——2002年考研Text 4）
 > - "Many people suffer from stress and anxiety in modern society."（在现代社会中，许多人饱受压力和焦虑的困扰——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

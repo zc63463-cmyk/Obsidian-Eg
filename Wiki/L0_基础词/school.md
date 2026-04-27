@@ -3,14 +3,12 @@ title: "school"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 闲暇之所（学习的场所）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/skuːl/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**闲暇之所（学习的场所）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **闲暇之所**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > school 来自希腊语 skholē（闲暇）。古希腊人认为只有"有闲暇"的人才能做学问，所以柏拉图讲学的地方就叫"闲暇之所"——school。后来 school 从"学习的场所"延伸出"学派"（同一思想体系的人）和"训练"（系统地教育）。school 的核心就是"学习的地方"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[workplace]]：工作场所（school 的反义：学习场所↔工作场所）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **go to school**：上学
 > - **school of thought**：学派，思想流派
 > - **primary/secondary school**：小学/中学
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Chicago school of economics has had a profound influence on government policy."（芝加哥经济学派对政府政策产生了深远影响。——考研阅读学术话题高频表达）
 > - "Children must attend school between the ages of 6 and 16 by law."（法律规定6至16岁的儿童必须上学。——考研翻译教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

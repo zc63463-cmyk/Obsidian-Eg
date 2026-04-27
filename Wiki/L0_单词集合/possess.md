@@ -3,14 +3,12 @@ title: "possess"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 坐在上面、拥有
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/pəˈzes/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坐在上面 → 拥有**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **坐在上面 → 占据**（物理层面：坐在某物上表示占有）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 想象一个国王**坐**在自己的宝座上——他**坐**在王国的最高处，所以**拥有**（possess）整个王国。如果恐惧**坐**在你身上，你就是被恐惧**支配**（possessed by fear）。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lose]]：possess（拥有）vs lose（失去）
 > - [[lack]]：possess（具有）vs lack（缺乏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,29 +118,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **possess the qualities/skills**：具有……的品质/技能
 > - **be possessed by/of**：被……支配 / 拥有
 > - **possess property**：拥有财产
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The ability to adapt is a quality possessed by all successful people."（适应能力是所有成功人士都具备的品质。）——2018考研英语翻译
 > - "Those states are the countries that possess nuclear weapons."（那些国家是拥有核武器的国家。）——考研高频表达
 > - "She possesses the unusual talent of knowing when to say nothing."（她拥有一种不寻常的才能——知道什么时候该保持沉默。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

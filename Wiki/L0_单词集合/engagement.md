@@ -3,14 +3,12 @@ title: "engagement"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 参与；订婚；约定
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪnˈɡeɪdʒmənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ engage(承诺/参与) + -ment(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**承诺参与的行为或状态**"为统筹中心，沿**社会路径**向外扩展：
 
@@ -66,7 +64,7 @@ engage(承诺/参与) + -ment(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -76,7 +74,7 @@ engage(承诺/参与) + -ment(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > engage（承诺参与）变成 engagement——承诺的正式化，无论是工作投入还是婚约
@@ -88,7 +86,7 @@ engage(承诺/参与) + -ment(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ engage(承诺/参与) + -ment(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[disengagement]]：<engagement 参与 vs disengagement 脱离>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -118,27 +116,21 @@ engage(承诺/参与) + -ment(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **engagement ring**（订婚戒指）：He gave her a diamond engagement ring.（他给了她一枚钻石订婚戒指。）
 - **community engagement**（社区参与）：The university encourages community engagement.（大学鼓励社区参与。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - Their engagement was announced in the newspaper.（他们的订婚消息在报纸上公布了。）
 - Employee engagement is crucial for organizational success.（员工的投入对组织成功至关重要。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

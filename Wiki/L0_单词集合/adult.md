@@ -3,17 +3,14 @@ title: "adult"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 成长完成的人
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈædʌlt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: ult
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -45,7 +42,7 @@ ad-(=to, toward, 向、朝) + [[ult]](=grow up, 成长，源自拉丁语 adolesc
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**成长完成的人**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **成长完成的人**（时间层面：发育成熟）
@@ -67,7 +64,7 @@ ad-(=to, toward, 向、朝) + [[ult]](=grow up, 成长，源自拉丁语 adolesc
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ ad-(=to, toward, 向、朝) + [[ult]](=grow up, 成长，源自拉丁语 adolesc
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > adult 源自拉丁语 adultus，是 adolescere（成长）的过去分词，意思是"已经长大的" → 成年人。
@@ -90,7 +87,7 @@ ad-(=to, toward, 向、朝) + [[ult]](=grow up, 成长，源自拉丁语 adolesc
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ ad-(=to, toward, 向、朝) + [[ult]](=grow up, 成长，源自拉丁语 adolesc
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[child]]：孩子、儿童
 > - [[minor]]：未成年人（法律术语）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ ad-(=to, toward, 向、朝) + [[ult]](=grow up, 成长，源自拉丁语 adolesc
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **adult education**：成人教育
   - Adult education programs have expanded in recent years.（近年来成人教育项目有所扩展。）
 > - **adult content**：成人内容
@@ -127,22 +124,16 @@ ad-(=to, toward, 向、朝) + [[ult]](=grow up, 成长，源自拉丁语 adolesc
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Adults who maintain a healthy lifestyle are less likely to develop chronic diseases."（保持健康生活方式的成年人患慢性疾病的可能性较小。）——考研高频表达
 > - "The transition from adolescence to adulthood can be a challenging period for many young people."（从青春期到成年期的过渡对许多年轻人来说可能是一个充满挑战的时期。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

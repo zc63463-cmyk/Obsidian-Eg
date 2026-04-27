@@ -3,17 +3,14 @@ title: "scenery"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 风景的总称
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsiːnəri/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: scene
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-20
@@ -42,7 +39,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**风景的总称**"为统筹中心，沿实体→抽象路径向外扩展：
 >
 > 1. **风景的总称**（自然层面）
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scenery = scene（景色）+ -ry（集合后缀）。想象你站在山顶俯瞰四周，你看到的不是某一棵树或某一块石头，而是整个地区的"风景的总称"——这就是 scenery。scene 是一处景色，scenery 是所有景色的集合。就像 poetry 是诗歌的总称、machinery 是机器的总称一样，scenery 是风景的总称。记住 scenery = scene + -ry = 风景的总称（不可数）。
@@ -94,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - scenery 自身无精确反义词
 > - beautiful scenery（美丽的风景）↔ ugly landscape（丑陋的景观）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **beautiful / magnificent / spectacular scenery**：美丽的/壮丽的/壮观的风景
 > - **mountain / coastal / rural scenery**：山景/海景/乡村风景
 > - **scenery spot / scenic spot**：风景区
@@ -134,7 +131,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The scenery along the coast is absolutely breathtaking."（沿海的风景美得令人窒息）——旅游话题
 > - "They took the scenic route to enjoy the mountain scenery."（他们走了风景优美的路线以欣赏山景）——旅行话题
 > - "The play's scenery was designed by a famous artist."（这部戏的舞台布景由一位著名艺术家设计）——戏剧话题
@@ -142,15 +139,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

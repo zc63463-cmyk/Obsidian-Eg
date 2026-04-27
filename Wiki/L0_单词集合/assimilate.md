@@ -3,14 +3,12 @@ title: "assimilate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 使相似、吸收同化
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈsɪməleɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ as-(=ad-，朝向、加强) + simul-(相似) + -ate(动词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使相似、吸收同化**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使相似、吸收同化**（物理层面：消化吸收食物）
@@ -64,7 +62,7 @@ as-(=ad-，朝向、加强) + simul-(相似) + -ate(动词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ as-(=ad-，朝向、加强) + simul-(相似) + -ate(动词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > as-（朝向）+ simul-（相似）+ -ate（做）→ 朝"相似"的方向做，把外来事物变得和自己一样，像消化系统把食物变成身体的一部分——"吸收同化"。
@@ -88,7 +86,7 @@ as-(=ad-，朝向、加强) + simul-(相似) + -ate(动词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ as-(=ad-，朝向、加强) + simul-(相似) + -ate(动词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[isolate]]：隔离（同化的反面——保持距离、不融入）
 > - [[segregate]]：隔离、分离（使不同群体分开，与同化相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,27 +117,21 @@ as-(=ad-，朝向、加强) + simul-(相似) + -ate(动词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assimilate knowledge/information**：吸收知识/信息（It takes time to assimilate new information.）
 > - **assimilate into a culture/society**：融入文化/社会（Immigrants gradually assimilate into the host culture.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People who are or become assimilated in a society become similar to others by learning and adopting the culture and customs of that society."（在社会中被同化的人通过学习和采纳该社会的文化和习俗，变得与其他人相似。）——考研高频表达
 > - "Immigrants often struggle to assimilate into a new culture while preserving their own identity."（移民在保持自身身份的同时，往往难以融入新文化。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

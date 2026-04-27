@@ -3,14 +3,12 @@ title: "action"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 行动的过程或结果
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈækʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ act(行动/做) + -ion(名词后缀，表示行为/结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**做某事的过程或已做的事**"为统筹中心，沿**具身路径**向外扩展：
 
@@ -62,7 +60,7 @@ act(行动/做) + -ion(名词后缀，表示行为/结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -72,7 +70,7 @@ act(行动/做) + -ion(名词后缀，表示行为/结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > act（行动）加上 -ion 变成 action——强调的是'行动'这个行为的过程或结果
@@ -84,7 +82,7 @@ act(行动/做) + -ion(名词后缀，表示行为/结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ act(行动/做) + -ion(名词后缀，表示行为/结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[inaction]]：<action 行动 vs inaction 不作为>
 - [[rest]]：<action 行动 vs rest 休息>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -113,27 +111,21 @@ act(行动/做) + -ion(名词后缀，表示行为/结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **take action**（采取行动）：We must take immediate action.（我们必须立即采取行动。）
 - **in action**（在运转中）：I want to see the machine in action.（我想看看这台机器运转的情况。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - The government's action was widely criticized.（政府的行动受到广泛批评。）
 - The chemical has a calming action on the nerves.（这种化学物质对神经有镇静作用。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

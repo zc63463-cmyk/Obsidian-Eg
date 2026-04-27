@@ -3,14 +3,12 @@ title: "massacre"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 在屠宰场大量宰杀
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmæsəkə(r)/"
 pos: n.
 metaphor_type: 转喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在屠宰场大量宰杀**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在屠宰场大量宰杀**（物理暴力层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[mass]]（大量）+ cull（挑选宰杀）→ 大量宰杀 → **大屠杀**。想象一个屠宰场里，不是宰杀一两头，而是**大量**（mass）地宰杀——这就是 massacre。当这个暴力行为施加于人，就是令人悲痛的大屠杀；当它出现在足球场上，就是10比0的**惨败**。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rescue]]：营救/拯救（massacre 的反义：屠杀↔拯救）
 > - [[surrender]]：投降（在战争语境中，massacre 的反面是接受投降而非屠杀）
 > - [[victory]]：胜利（在体育语境中，惨败的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Nanjing Massacre**：南京大屠杀
 > - **massacre civilians/innocent people**：屠杀平民/无辜人民
 > - **a brutal/bloody massacre**：残酷的/血腥的大屠杀
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the massacre of innocent civilians"（对无辜平民的大屠杀）——历史/政治类阅读常见表达
 > - "troops massacred the villagers"（军队屠杀了村民）——战争/人权类话题
 > - "a electoral massacre"（选举惨败）——政治类语料中的引申用法
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

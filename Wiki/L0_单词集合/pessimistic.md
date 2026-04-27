@@ -3,17 +3,14 @@ title: "pessimistic"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 认为事情会变糟的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌpesɪˈmɪstɪk/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: pessim
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
@@ -45,7 +42,7 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**认为最坏**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **认为最坏**（心理层面：预期负面结果）
@@ -66,7 +63,7 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 每次考试前，小明总是觉得自己会考"最差"（pessimus），同桌说他太 pessimistic（悲观）了——但结果他每次都考得不错。
@@ -87,7 +84,7 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +97,12 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[optimistic]]：乐观的（悲观 vs 乐观，核心反义对，详见 [[optimistic]] 中的反义辨析）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be pessimistic about**：对…感到悲观 In the last seven years, Americans have grown more pessimistic about the power of education to lead to success.（过去七年中，美国人对教育能带来成功的信心变得更加悲观。）
 >   Many economists are pessimistic about the prospects for economic recovery.（许多经济学家对经济复苏的前景感到悲观。）
 > - **pessimistic outlook**：悲观的前景展望
@@ -125,21 +122,15 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the last seven years, Americans have grown more pessimistic about the power of education to lead to success."（过去七年中，美国人对教育能带来成功的信心变得更加悲观。）——考研真题
 > - "Economists are increasingly pessimistic about the prospects for economic recovery."（经济学家对经济复苏的前景越来越悲观。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

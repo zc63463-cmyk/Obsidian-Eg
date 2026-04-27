@@ -3,14 +3,12 @@ title: "stipulate"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 明确要求、约定
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈstɪpjuleɪt/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**明确要求、约定**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **明确要求、规定**（法律/合同层面）
@@ -63,7 +61,7 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 stipulari = 要求、约定。古罗马人签合同时用稻草做记号，stipulate = 在合同上"做标记"→明确规定。
@@ -86,7 +84,7 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[violate]]：违反（规定→违反）
 > - [[waive]]：放弃（权利/要求）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stipulate that...**：明确规定……
   - The contract stipulates that payment must be made within 30 days.（合同规定必须在30天内付款。）
 - **as stipulated**：按规定
@@ -126,20 +124,14 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The contract stipulates that the buyer must pay a deposit before the end of the month."（合同规定买方必须在月底前支付定金。）——考研高频表达
 > - "The law stipulates that all employers must provide a safe working environment for their employees."（法律规定所有雇主必须为员工提供安全的工作环境。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

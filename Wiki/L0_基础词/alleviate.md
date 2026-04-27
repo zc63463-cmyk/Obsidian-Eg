@@ -3,14 +3,12 @@ title: "alleviate"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 使变轻（减轻重量/痛苦）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈliːvieɪt/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变轻**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使变轻**（物理层面）
@@ -64,7 +62,7 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > al（向）+ lev（轻，[[lat]]）+ iate（使动）→ 使变轻。想象你背着一袋石头，alleviate 就是把石头一颗颗拿走——减轻你的负担。elevator（电梯）也来自 lev——电梯就是"使你变轻"的机器。
@@ -86,7 +84,7 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[aggravate]]：加重，恶化（alleviate 的精确反义）
 > - [[intensify]]：加剧，强化
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **alleviate pain/suffering**：减轻痛苦/苦难
 > - **alleviate poverty**：缓解贫困
 > - **alleviate tension**：缓和紧张局势
@@ -132,19 +130,15 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign."（例如，丰田汽车公司通过相对迅速且精心策划的社交媒体回应活动，减轻了今年早些时候召回危机造成的部分损害——2011年英语一Text 3）
 > - "Americans are becoming aware of the toll their jobs take on them, and employers are exploring ways to alleviate the harmful effects of stress and overwork."（美国人开始意识到工作对他们的损害，雇主们正在探索减轻压力和过度工作有害影响的方法——2016年12月六级阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

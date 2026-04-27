@@ -3,14 +3,12 @@ title: "essence"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 事物最核心的存在
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈesns/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**事物最核心的存在**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **事物最核心的存在**（抽象层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > essence 来自拉丁语 *essentia*，意思是"存在"，与动词 *esse*（to be，存在）同源。想象你剥洋葱——一层一层剥去外皮，最后剩下的那个最核心的东西就是 essence（本质）。再想象你把一千朵玫瑰浓缩成一小瓶液体——那瓶液体就是玫瑰的 essence（香精/精油）。essence 就是"最核心的那个东西"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[appearance]]：外表，外观（本质↔外表）
 > - [[surface]]：表面（精髓↔表面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,28 +118,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the essence of**：...的本质（The essence of his argument is that education needs reform.）
 > - **in essence**：本质上，大体上（In essence, the two proposals are the same.）
 > - **of the essence**：极其重要的（Time is of the essence.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The essence of his argument was that education should continue throughout life."（他的论点的要旨是教育应该持续终生。）——考研高频表达
 > - "Yet change is the very essence of life."（然而变迁恰恰是人生的本质。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "daylight"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 白天的光
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈdeɪlaɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ day(天/白天) + light(光)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**白天的光**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **白天的光**（物理层面）
@@ -64,7 +62,7 @@ day(天/白天) + light(光)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ day(天/白天) + light(光)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > day（白天）+ light（光）→ 白天的光。in broad daylight（光天化日之下）——在日光下什么都看得见，所以daylight也有"公开"的意思。daylight robbery（明目张胆的敲诈）——在光天化日之下抢劫。
@@ -86,7 +84,7 @@ day(天/白天) + light(光)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ day(天/白天) + light(光)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[darkness]]：黑暗（日光的反义：光↔暗）
 > - [[nightfall]]：黄昏（白昼的反义：白天↔夜晚）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,22 @@ day(天/白天) + light(光)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in broad daylight**：在光天化日之下
 > - **bring sth. into daylight**：将……公之于众
 > - **daylight robbery**：明目张胆的敲诈
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The robbers struck the bank in broad daylight!"（盗匪在光天化日之下洗劫银行——Cambridge English Corpus）
 > - "The secret was finally brought into daylight after years of hiding."（这个秘密在隐藏多年后终于被公之于众——Cambridge English Corpus）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "decay"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 向下掉落/腐烂
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/dɪˈkeɪ/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向下掉落/腐烂**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **向下掉落**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > de（向下）+ cay（掉落）→ 向下掉落 → 腐烂、衰败。想象一颗苹果从树上掉下来，慢慢腐烂——这就是 decay。罗马帝国也是 decay（衰落）的，像苹果一样从巅峰"掉落"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[flourish]]：繁荣，兴旺（decay 的反义：衰败↔繁荣）
 > - [[thrive]]：茁壮成长（decay 的反义：衰退↔成长）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tooth decay**：龋齿
 > - **moral decay**：道德衰败
 > - **the decay of the Roman Empire**：罗马帝国的衰落
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In zones of increased turbulence, the planes' wakes will decay more quickly and the effect will diminish."（在湍流加剧的区域，飞机的尾迹将更快地衰减，影响将减弱。——2010年考研英语二阅读理解）
 > - "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the decay of certain dramatic forms."（此后二十五年的伊丽莎白时期戏剧发展对文学史学生具有极大的吸引力，因为在这短暂的时期内我们可以追踪某些戏剧形式的衰落。——2018年考研英语翻译原文）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

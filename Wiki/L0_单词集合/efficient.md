@@ -3,14 +3,12 @@ title: "efficient"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 做得利落、不浪费的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈfɪʃnt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**做得利落、不浪费的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **做得利落、不浪费的**（过程层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > efficient = ef（出来）+ fic（做）+ -ient（能...的）= "能做得利落的"。想象一台机器，同样的电费，别的机器生产 100 件产品，这台能生产 200 件——它就是 efficient 的。effective 和 efficient 是一对常考辨析词：effective 是"管用"（有没有效果），efficient 是"高效"（省不省资源）。记住：effective 看结果，efficient 看过程。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inefficient]]：低效的，效率低的（efficient"高效"的精确反义：高效↔低效）
 > - [[wasteful]]：浪费的（efficient"不浪费"的反义）
 > - [[clumsy]]：笨拙的（efficient"利落"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **efficient method/system**：高效的方法/系统
 > - **energy-efficient**：节能的，高能效的
 > - **cost-efficient**：高性价比的
@@ -130,22 +128,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "More efficient energy use is essential for sustainable development."（更高效的能源利用对可持续发展至关重要）——环保类阅读
 > - "an efficient public transportation system"（高效的公共交通系统）——城市治理类话题
 > - "The company needs to become more efficient to remain competitive."（公司需要提高效率以保持竞争力）——商业类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

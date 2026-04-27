@@ -3,14 +3,12 @@ title: "rigorous"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 像树根一样扎得紧（根基牢固的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈrɪɡərəs/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**根基牢固的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **根基牢固的**（基础层面）
@@ -66,7 +64,7 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rigor（严格）+ ous（充满……的）→ 充满严格性的 → rigorous。科学家做实验需要 rigorous method（严谨的方法），法官判案需要 rigorous analysis（缜密的分析），运动员需要 rigorous training（严格的训练）。rigorous 是褒义词——严格但正确。记住：rigorous = 严格到缜密。
@@ -88,7 +86,7 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lax]]：松懈的，不严格的（rigorous↔lax：严格↔松懈）
 > - [[sloppy]]：马虎的（rigorous↔sloppy：缜密↔马虎）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rigorous analysis/research**：缜密的分析/研究
 > - **rigorous standards**：严格的标准
 > - **rigorous testing**：严格的测试
@@ -126,19 +124,15 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The study was conducted using rigorous scientific methods."（该研究使用了严谨的科学方法进行。）
 > - "Students must undergo rigorous training before they can practice medicine."（学生在行医之前必须接受严格的训练。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

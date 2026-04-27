@@ -3,14 +3,12 @@ title: "query"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 疑问（对某事提出问题以获取信息）
-extension_dim: 信息路径
+extension_dim: [信息路径]
 phonetic: "/ˈkwɪəri/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**疑问（对某事提出问题以获取信息）**"为统筹中心，沿信息路径向外扩展：
 >
 > 1. **提出问题**（信息层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > query 来自拉丁语 *quaere*（询问！），是动词 *quaerere*（寻求、询问）的命令式。想象一个古罗马法官对证人说："Quaere!"（说！问！），这就是 query 的起源。从法庭上的"询问"到日常的"疑问"再到计算机的"查询"，query 始终是"提出问题"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[answer]]：回答（query 的精确反义：疑问↔回答）
 > - [[confirmation]]：确认（query 作"质疑"时的反义：质疑↔确认）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **raise a query**：提出疑问
 > - **query a decision**：质疑某个决定
 > - **database query**：数据库查询
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Can you recall what happened last night?"（你能回忆起昨晚发生了什么吗？——Cambridge Dictionary）
 > - "As far as I can recollect, his name is Edward."（据我回忆，他的名字叫爱德华。——Cambridge Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

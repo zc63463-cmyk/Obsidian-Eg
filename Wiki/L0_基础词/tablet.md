@@ -3,14 +3,12 @@ title: "tablet"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 小平板（用于书写的平板）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ˈtæblɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小平板**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **小平板**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > table（桌子/平板）+ -t（指小后缀）→ tablet（小平板）。古人用小平板记录文字，药剂师把药压成小平板的形状，科技公司把电脑做成小平板的样子。tablet 就是"小平板"——石板是 tablet，药片是 tablet，iPad 也是 tablet。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[liquid]]：液体（tablet "药片"的反义：固体↔液体药物形式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take a tablet**：服药片
 > - **tablet computer**：平板电脑
 > - **memorial tablet**：纪念碑，纪念匾
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The doctor prescribed two tablets to be taken three times a day after meals."（医生开了两种药片，每日三次饭后服用。——考研翻译医疗话题相关表达）
 > - "Ancient clay tablets found in Mesopotamia contain some of the earliest known written records."（在美索不达米亚发现的古代泥板包含了一些已知最早的文字记录。——考研阅读历史话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

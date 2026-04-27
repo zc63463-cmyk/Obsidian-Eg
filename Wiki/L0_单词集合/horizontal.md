@@ -3,14 +3,12 @@ title: "horizontal"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 与地平线平行的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌhɒrɪˈzɒntl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与地平线平行的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **与地平线平行的**（物理空间层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > horizontal 直接来自 horizon（地平线）——与地平线平行的方向就是"水平的"。人躺着就是 horizontal 的，站着就是 vertical（垂直的）的。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[vertical]]：垂直的（与 horizontal 直接对立）
 > - [[diagonal]]：对角线的、斜的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,27 +118,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **horizontal integration**：横向整合（企业合并同行业公司）
 > - **horizontal bar**：单杠
 > - **horizontal transfer**：水平转移
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The horizontal transfer of genes between species is more common than previously thought."（物种之间的基因水平转移比以前认为的更为普遍。）——考研高频表达
 > - "The company has a horizontal organizational structure that encourages collaboration across departments."（该公司采用扁平化的组织结构，鼓励跨部门合作。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

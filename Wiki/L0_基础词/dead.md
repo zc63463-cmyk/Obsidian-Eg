@@ -3,14 +3,12 @@ title: "dead"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 死亡的（生命终止的状态）
-extension_dim: 死亡→无生命→失效→完全的→绝对的
+extension_dim: [死亡→无生命→失效→完全的→绝对的]
 phonetic: "/ded/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**死亡的（生命终止的状态）**"为统筹中心，沿死亡→失效→程度向外扩展：
 >
 > 1. **死亡**（生物层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dead 是英语中最基础的词汇之一，从古英语 *dēad* 沿用至今。它的核心含义就是"生命终止"，但英语赋予了它极其丰富的比喻用法。手机没电了是 dead phone，网络断了是 dead connection，一条路走到头是 dead end，"我确定"是 dead certain，"我累坏了"是 dead tired。记住 dead 的核心逻辑：一切"没有活力、没有作用"的状态都是 dead。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[alive]]：活着的（dead 的精确反义：死↔活）
 > - [[living]]：有生命的（dead 的反义：死亡↔活着）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dead end**：死胡同；绝路
 > - **dead battery**：没电的电池
 > - **dead tired**：累极了
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The negotiations reached a dead end after both sides refused to compromise."（双方拒绝妥协后，谈判陷入了僵局。——考研阅读社会类）
 > - "She was dead certain that she had left the keys on the table."（她绝对确定自己把钥匙留在桌子上了。——红宝书考研词汇例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "recovery"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 恢复的过程
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈkʌvəri/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**恢复的过程**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **恢复的过程**（一般层面：从不良状态回归正常）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 病人从昏迷中慢慢睁开眼睛，这个从失去到重新获得的过程就是 recovery——恢复、康复。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[recession]]：衰退——经济 recovery 的反面
 > - [[relapse]]：复发——康复的反面
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,28 +114,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **economic recovery**：The government has implemented policies to stimulate economic recovery.（政府已实施政策以刺激经济复苏。）
 > - **make a full recovery**：The patient is expected to make a full recovery within six months.（预计患者将在六个月内完全康复。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The economy showed signs of recovery after the global financial crisis of 2008."（2008年全球金融危机后，经济显示出复苏的迹象。）——考研高频表达
 > - "A full recovery from the disease may take several months of rest and treatment."（完全从疾病中康复可能需要数月的休息和治疗。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

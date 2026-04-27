@@ -3,14 +3,12 @@ title: "outside"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 超出边界的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌaʊtˈsaɪd/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**超出边界的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **超出边界的**（物理空间层面）
@@ -70,7 +68,7 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > outside = out（超出）+ side（边界）= 超出边界的外面。这个词非常直观——房间外面就是 outside。但考研更常考的是它的抽象用法：outside one's control（超出某人控制范围）、outside one's expertise（超出某人专业范围）。记住 outside 的核心是"超出边界"：空间上超出墙壁就是外面，能力上超出极限就是范围外。out- 前缀家族：outrage（超出愤怒→愤慨）、outset（向外放置→开始）、outside（超出边界→外面）、outward（超出内部→向外的）。
@@ -95,7 +93,7 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inside]]：里面（outside "外面"的精确反义）
 > - [[within]]：在……之内（outside "超出……范围"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **outside one's control/expertise/knowledge**：超出某人控制/专业/知识范围
 > - **from the outside**：从外面；从局外
 > - **the outside world**：外界
@@ -134,22 +132,16 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The matter is outside the jurisdiction of the court."（此事不在法院的管辖范围内）——法律/政治类阅读
 > - "These factors are largely outside the control of the government."（这些因素很大程度上超出了政府的控制范围）——政策分析类话题
 > - "From the outside, the company appeared to be thriving."（从外面看，这家公司似乎很繁荣）——商业类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

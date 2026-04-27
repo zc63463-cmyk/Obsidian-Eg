@@ -3,14 +3,12 @@ title: "twinkle"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 快速眨眼（眼睛快速开合→星光闪烁）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtwɪŋkl/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**快速眨眼**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **快速眨眼**（动作层面）
@@ -67,7 +65,7 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > twinkle 来自古英语 twinclian（眨眼、闪烁）。想象夜空中的星星一闪一闪的，就像在对你眨眼——那就是 twinkle。twinkle, twinkle, little star（一闪一闪亮晶晶）是最经典的英语童谣。眼睛里 twinkle with joy（闪烁着喜悦的光芒）。
@@ -90,7 +88,7 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dim]]：暗淡（twinkle 的反义：闪烁↔暗淡）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **twinkle with**：闪烁着……的光芒
 > - **a twinkle in one's eye**：眼中的一丝光芒；心中酝酿的想法
 > - **in a twinkle**：一瞬间
@@ -127,18 +125,14 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Her eyes twinkled with amusement as she listened to the story.（她听故事时，眼中闪烁着愉悦的光芒。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

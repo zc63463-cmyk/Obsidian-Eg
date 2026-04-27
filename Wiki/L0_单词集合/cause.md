@@ -3,14 +3,12 @@ title: "cause"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 导致某事发生的东西→原因
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kɔːz/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**导致某事发生的东西→原因**"为统筹中心，沿多维路径向外扩展：
 >
 > 1. **原因**（名词核心义）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cause 来自拉丁语 causa（原因、理由）。想象你在法庭上被问"你做这件事的 cause（原因）是什么？"——你需要陈述理由。从"原因"出发：作为名词，cause 是"原因"（the cause of the fire 火灾的原因）；作为动词，cause 是"导致"（smoking causes cancer 吸烟导致癌症）；而"事业"（a noble cause 崇高的事业）是你愿意为之付出一切去推动的事情——它就是你行动的"原因"。记住 cause = 原因 → 导致 → 事业。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[effect]]：结果（原因↔结果）
 > - [[result]]：后果（导致↔被导致的结果）
 > - [[prevent]]：阻止（导致↔阻止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cause and effect**：因果关系
 > - **the root cause**：根本原因
 > - **cause concern / alarm**：引起关注/恐慌
@@ -137,7 +135,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The main cause of global warming is the emission of greenhouse gases."（全球变暖的主要原因是温室气体的排放）——环境话题
 > - "She devoted her life to the cause of education."（她将一生奉献给了教育事业）——社会话题
 > - "The earthquake caused widespread destruction across the region."（地震在该地区造成了广泛的破坏）——灾难话题
@@ -145,15 +143,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

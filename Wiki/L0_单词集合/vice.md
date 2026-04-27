@@ -3,14 +3,12 @@ title: "vice"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 恶习/邪恶
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/vaɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**恶习/邪恶**"为统筹中心，沿**社会路径**向外扩展：
 >
 > 1. **恶习/不道德行为**（道德层面：个人的道德缺陷和行为失范）
@@ -67,7 +65,7 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vice 来自拉丁语 vitium（缺陷、过错）。一个人性格上的"缺陷"养成了就是恶习（vice）。另外 vice 在拉丁语中也有"in place of"（代替）的意思，所以副总统 vice president 就是"代替"总统的人。
@@ -90,7 +88,7 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[virtue]]：美德（vice 与 virtue 是经典的道德对立词对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **vice versa**：反之亦然
   - Students should learn from teachers, and vice versa.（学生应该向老师学习，反之亦然。）
 > - **vice president**：副总统/副总裁
@@ -130,22 +128,16 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Greed is considered one of the most dangerous vices in human society."（贪婪被认为是人类社会中最危险的恶习之一。）——考研高频表达
 > - "The vice president will attend the summit on behalf of the president."（副总统将代表总统出席峰会。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

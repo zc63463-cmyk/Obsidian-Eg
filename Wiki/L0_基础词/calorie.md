@@ -3,14 +3,12 @@ title: "calorie"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 热（使物体变暖的能量）
-extension_dim: 能量度量
+extension_dim: [能量度量]
 phonetic: "/ˈkæləri/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**热（能量）**"为统筹中心，沿能量度量维度向外扩展：
 >
 > 1. **热**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > calorie 来自拉丁语 calor（热）。想象你喝了一杯热水，身体里产生了 calor（热），科学家把这种"热"的量叫做 calorie（卡路里）。减肥的人每天都要数 calorie（数卡路里），本质上就是在数自己摄入了多少"热"。与 calendar（日历）同源——PIE \*kele- 既有"热"义也有"呼喊"义。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（calorie 是度量单位）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **count calories**：计算卡路里
 > - **low-calorie diet**：低卡饮食
 > - **burn calories**：消耗卡路里
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People who are trying to lose weight often count calories carefully."（试图减肥的人通常会仔细计算卡路里——考研英语阅读健康类话题）
 > - "A single gram of fat contains nine calories, while a gram of protein or carbohydrate contains four."（一克脂肪含有九卡路里，而一克蛋白质或碳水化合物含有四卡路里——考研翻译相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

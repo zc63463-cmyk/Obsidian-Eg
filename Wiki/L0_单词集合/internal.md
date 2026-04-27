@@ -3,14 +3,12 @@ title: "internal"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 在…之间（内部的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈtɜːnl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在…之间（内部的）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在…之间（内部的）**（空间层面）
@@ -68,7 +66,7 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inter（在…之间）→ 想象一台精密的钟表，外壳之下是复杂的 internal mechanism（内部机制）。一个国家不涉及外国的事务叫 internal affairs（内政）。一个人心里翻涌的矛盾叫 internal conflict（内心冲突）。internal 就是一切"里面"的事。
@@ -90,7 +88,7 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[external]]：外部的，外面的（internal 的精确反义：内部↔外部）
 > - [[international]]：国际的（internal 的反义：国内↔国际）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **internal affairs**：内政，内部事务
 > - **internal mechanism**：内部机制
 > - **internal conflict**：内心冲突；内部矛盾
@@ -130,23 +128,15 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Nations should be left to resolve their own internal difficulties."（本国问题应由本国解决。——考研真题）
 > - "The civil war led to considerable internal migration."（内战导致了国内大量居民的迁移。——考研真题）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

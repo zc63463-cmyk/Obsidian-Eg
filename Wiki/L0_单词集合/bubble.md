@@ -3,14 +3,12 @@ title: "bubble"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 泡、气泡
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈbʌbl/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ bubble 为拟声词（模仿冒泡的声音 bub-bub），无词根词缀拆分
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**气泡、泡沫**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **气泡，泡沫**（物理层面：中空、易破的球体）
@@ -69,7 +67,7 @@ bubble 为拟声词（模仿冒泡的声音 bub-bub），无词根词缀拆分
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ bubble 为拟声词（模仿冒泡的声音 bub-bub），无词根词缀拆分
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 想象小孩吹肥皂泡——**气泡**（bubble）五颜六色，看起来很美，但一碰就**破**（burst）。经济**泡沫**（bubble）也是这样：房价涨到天上，但泡沫一破，一切归零。有人说"别活在bubble里"，意思是别**幻想**了。
@@ -92,7 +90,7 @@ bubble 为拟声词（模仿冒泡的声音 bub-bub），无词根词缀拆分
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ bubble 为拟声词（模仿冒泡的声音 bub-bub），无词根词缀拆分
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reality]]：bubble（幻想/泡沫）vs reality（现实）
 > - [[substance]]：bubble（虚幻）vs substance（实质）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,29 +120,23 @@ bubble 为拟声词（模仿冒泡的声音 bub-bub），无词根词缀拆分
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **economic/housing bubble**：经济/房地产泡沫（The housing bubble burst in 2008. 房地产泡沫在2008年破裂了。）
 > - **burst the bubble**：打破幻想，戳穿泡沫（The failure of the project burst the bubble of his optimism. 项目的失败戳破了他的乐观幻想。）
 > - **bubble with excitement**：洋溢着兴奋（The children were bubbling with excitement about the trip. 孩子们对这次旅行洋溢着兴奋。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The housing bubble burst, leaving millions of homeowners in debt."（房地产泡沫破裂，使数百万房主陷入债务。）——考研高频表达
 > - "The dot-com bubble of the late 1990s is a classic example of market irrationality."（20世纪90年代末的网络泡沫是市场非理性的经典案例。）——考研高频表达
 > - "Many economists warned that the stock market was in a bubble that was bound to burst."（许多经济学家警告说，股市正处于一个必然会破裂的泡沫中。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

@@ -3,14 +3,12 @@ title: "create"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 增长（使事物从无到有地增长出来）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/kriˈeɪt/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**增长（使从无到有）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **增长**（从无到有的过程）
@@ -66,7 +64,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cre（增长）+ -ate（使）→ 使增长出来 → 创造。想象一颗种子在土壤中慢慢"增长"，最终破土而出——这就是 create 的原始画面。从一颗种子到一棵大树，从一张白纸到一幅画，从零到一个企业——create 就是"使从无到有"。
@@ -89,7 +87,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[destroy]]：毁灭（create 的精确反义：创造↔毁灭）
 > - [[eliminate]]：消除（create 的反义：产生↔消除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **create jobs**：创造就业
 > - **create problems**：引起问题
 > - **create wealth**：创造财富
@@ -130,23 +128,15 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Instead, the new habits we deliberately ingrain into ourselves create parallel pathways that can bypass those old roads."（相反，我们有意使之根深蒂固的新习惯会创建平行路径，它们可以绕过原来那些路径。——2009年考研英语阅读Text1）
 > - "It is speculated that gardens arise from a basic need in the individuals who made them: the need for creative expression. There is no doubt that gardens evidence an impossible urge to create, express, fashion, and beautify."（据推测，花园源于建造者的一种基本需要：创造性表达的需要。毫无疑问，花园证明了一种不可抗拒的创造、表达、塑造和美化的冲动。——2013年考研英语翻译）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

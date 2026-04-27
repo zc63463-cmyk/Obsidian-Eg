@@ -3,14 +3,12 @@ title: "abrupt"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 突然断裂的（像断崖一样陡峭）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈbrʌpt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**突然断裂的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **突然断裂**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > abrupt = ab（离开）+ rupt（断裂）= 断裂的。悬崖像被"打断"了一样陡峭——an abrupt cliff。一段对话突然被"打断"——an abrupt end。一个人说话没有铺垫，"打断"了正常对话的节奏——an abrupt manner。记住 rupt = 断裂：bankrupt（破产 = 钱断裂了）、disrupt（破坏）、erupt（爆发）、corrupt（腐败）。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gradual]]：逐渐的（abrupt 的精确反义：突然↔逐渐）
 > - [[gentle]] | 温和的（abrupt 的反义：唐突↔温和）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an abrupt change**：突然的变化
 > - **an abrupt departure**：突然离开
 > - **an abrupt manner**：唐突的态度
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company's decision to close the factory was so abrupt that workers had no time to prepare for the sudden loss of their jobs."（公司关闭工厂的决定如此突然，工人们根本没有时间为突然失业做好准备——考研阅读经济话题相关表达）
 > - "His abrupt departure from the meeting left everyone wondering what had happened to cause such an unexpected exit."（他突然离开会议，让所有人都想知道是什么原因导致了如此意外的退场——考研翻译社交话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "east"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 日出方向（太阳升起的方向）
-extension_dim: 空间方位
+extension_dim: [空间方位]
 phonetic: "/iːst/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**日出方向（太阳升起的方向）**"为统筹中心，沿空间方位维度向外扩展：
 >
 > 1. **日出方向**（方向层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > east 来自原始日耳曼语"朝向黎明"。太阳每天从东方升起，east 的字面义就是"日出的方向"。从方向到地区——the East（东方），从地区到文化——Eastern philosophy（东方哲学）。Middle East（中东）是欧洲视角下"东方的中间地带"，Far East（远东）是"最远的东方"。记住：east = 日出方向 = 东。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,12 +106,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[west]]：西方（east 的反义：东方↔西方）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Middle East**：中东（考研高频短语）
 > - **the Far East**：远东
 > - **East Asia**：东亚
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The conflict in the Middle East has drawn international attention."（中东的冲突引起了国际社会的关注——考研英语阅读政治类话题）
 > - "East Asian economies have experienced remarkable growth in recent decades."（东亚经济在过去几十年中经历了显著增长——考研翻译经济类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

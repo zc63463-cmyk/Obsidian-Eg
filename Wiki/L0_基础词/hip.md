@@ -3,14 +3,12 @@ title: "hip"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 臀部弯曲处（骨盆和大腿连接的弯曲部位）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/hɪp/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**弯曲处**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **身体弯曲处**（身体层面）
@@ -70,7 +68,7 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hip 来自 PIE *\*qeub-*（弯曲），臀部就是身体弯曲的地方。屋顶弯曲处 = hip roof。爵士时代用臀部跳舞的人 = hip（时髦的）。让某人了解 = hip someone to。考研重点考名词"臀部"：hip joint（髋关节）、hip replacement（髋关节置换）。形容词"时髦的"和动词"告知"是非正式用法。
@@ -94,7 +92,7 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unhip]]：落伍的（hip 形容词的反义：时髦↔落伍）
 > - [[square]]：老派的（hip 形容词的反义：时髦↔老派）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hip joint**：髋关节
 > - **hip replacement**：髋关节置换手术
 > - **hip bone**：髋骨
@@ -136,19 +134,15 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The elderly patient underwent a successful hip replacement surgery, which significantly improved her mobility and quality of life."（这位老年患者成功接受了髋关节置换手术，这显著改善了她的活动能力和生活质量——考研阅读医学话题相关表达）
 > - "The hip-hop culture that emerged from the streets of New York in the 1970s has grown into a global phenomenon that transcends racial and cultural boundaries."（20世纪70年代从纽约街头兴起的嘻哈文化已经发展成为一种超越种族和文化界限的全球现象——考研翻译文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

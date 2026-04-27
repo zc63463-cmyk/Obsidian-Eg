@@ -3,14 +3,12 @@ title: "sniff"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用鼻子吸气嗅闻
-extension_dim: 感知路径
+extension_dim: [感知路径]
 phonetic: "/snɪf/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用鼻子吸气嗅闻**"为统筹中心，沿感知路径向外扩展：
 >
 > 1. **用鼻子吸气**（动作层面）
@@ -67,7 +65,7 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sniff 属于 sn- 拟声词族，模仿鼻子吸气时发出的声音。核心画面是"狗贴近地面嗅闻猎物气味"。从"嗅闻"出发：sniff the flowers（闻花）、sniff the air（闻空气中的味道）、感冒时 sniff（抽鼻子）、对别人的建议 sniff at（嗤之以鼻）。所有义项都围绕"鼻子"——物理上的嗅闻和心理上的不屑都用鼻子表达。
@@ -90,7 +88,7 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - sniff 没有精确反义词，属于感官动作类词汇
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sniff at**：嗅闻；嗤之以鼻（sniff at the offer）
 > - **sniff out**：嗅出，发现（sniff out the truth）
 > - **sniff the air**：闻空气中的味道
@@ -129,19 +127,15 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Dogs can sniff out drugs and explosives with remarkable accuracy, making them invaluable partners in law enforcement."（狗能以惊人的准确度嗅出毒品和爆炸物，使它们成为执法部门不可或缺的伙伴——考研阅读科技话题相关表达）
 > - "She sniffed at the suggestion that she should step down, insisting she was the best person for the job."（她对让她辞职的建议嗤之以鼻，坚称自己是这份工作的最佳人选——考研翻译职场话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "protest"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 在前面作证（公开声明反对）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/prəˈtest/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在前面作证**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在前面作证**（公开声明层面）
@@ -67,7 +65,7 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（公开地）+ test（作证）→ 公开作证声明 → 抗议（protest）。同源词 [[testify]]（作证）、[[testimony]]（证词）、[[contest]]（con-共同 + test-作证 → 共同作证较量 → 竞赛）。
@@ -90,7 +88,7 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[support]]：支持（protest 的反义：抗议↔支持）
 > - [[approve]]：赞成（protest 的反义：反对↔赞成）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **protest against**：抗议……
 > - **hold/stage a protest**：举行抗议活动
 > - **protest one's innocence**：申辩自己的清白
@@ -132,19 +130,15 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Thousands of workers protested against the government's new labor law."（数千名工人抗议政府的新劳动法。）
 > - "She protested her innocence to the court."（她向法庭申辩自己的清白。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

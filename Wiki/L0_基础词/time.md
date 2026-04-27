@@ -3,14 +3,12 @@ title: "time"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 时间的流动，事件的度量
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/taɪm/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**时间的流动，事件的度量**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **时间**（抽象层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > time 的核心画面是"沙漏中的沙子一粒一粒落下"。古英语 *tīd* = 时间、季节。time 的原始概念是"对事件的划分"。time 和 tide 原本是同一个词——tide（潮汐）也有"时间"的周期性。Time and tide wait for no man（岁月不等人）= 时间和潮水都不等人。time is money（时间就是金钱）= 时间是有限的资源。three times（三次/三倍）= 时间度量→次数→倍数。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[eternity]]：永恒（time 的反义：有限时间↔永恒）
 > - [[timelessness]]：无时间性（time 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at the same time**：同时
 > - **ahead of time**：提前
 > - **at one time**：曾经，一度
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "At a time when technological innovation is reshaping every aspect of our lives, the ability to adapt and learn new skills has become more crucial than ever before."（在技术创新正在重塑我们生活方方面面的时代，适应和学习新技能的能力变得比以往任何时候都更加关键——考研阅读科技话题相关表达）
 > - "Researchers have found that spending time in nature can significantly reduce stress levels and improve overall mental well-being, even in short durations as brief as twenty minutes."（研究人员发现，即使在大自然中度过短短二十分钟这样的短暂时间，也能显著降低压力水平并改善整体心理健康——考研阅读健康话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

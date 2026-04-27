@@ -3,17 +3,14 @@ title: "normalization"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 使事物回归标准的过程
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌnɔːməlaɪˈzeɪʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: norm
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使事物回归标准的过程**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使事物回归标准的过程**（制度层面）
@@ -68,7 +65,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +78,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > normalization 是 normal 的名词化形式，经过 normal → normalize → normalization 的派生链。想象两个曾经断交的国家，经过多年谈判终于重新建立了大使级外交关系——这个过程就是 normalization of diplomatic relations（外交关系正常化）。再想象数据库中各种格式的数据被统一整理成同一种格式——这就是 data normalization（数据标准化）。normalization 的本质就是"把跑偏的拉回来"，让一切回到标准状态。
@@ -93,7 +90,7 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +102,12 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abnormalization]]：异常化（正常化↔异常化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,26 +120,20 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **normalization of relations**：关系正常化（The normalization of diplomatic relations between the two countries was welcomed by the international community. 两国关系正常化受到国际社会的欢迎。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The normalization of relations between the two countries was a historic milestone."（两国关系正常化是一个历史性的里程碑。）——考研高频表达
 > - "The normalization of data is a standard procedure in statistical analysis."（数据的标准化是统计分析中的标准程序。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

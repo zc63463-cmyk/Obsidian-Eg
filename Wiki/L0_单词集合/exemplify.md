@@ -3,14 +3,12 @@ title: "exemplify"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 拿出来作为例子
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪɡˈzemplɪfaɪ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ ex-(出) + empli(拿取) + -fy(使动后缀) = exemplify（拿出来作为例子
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拿出来作为例子**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **拿出来作为例子**（论证层面）
@@ -68,7 +66,7 @@ ex-(出) + empli(拿取) + -fy(使动后缀) = exemplify（拿出来作为例子
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ex-(出) + empli(拿取) + -fy(使动后缀) = exemplify（拿出来作为例子
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 演讲者从口袋里 ex（拿出）一张 empli（例子）卡片，向听众 fy（展示）——这就是 exemplify（举例说明）。他说："乔布斯的创新精神 exemplify（体现了）硅谷的灵魂"——乔布斯本人就是最好的例子。
@@ -90,7 +88,7 @@ ex-(出) + empli(拿取) + -fy(使动后缀) = exemplify（拿出来作为例子
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ex-(出) + empli(拿取) + -fy(使动后缀) = exemplify（拿出来作为例子
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[contradict]]：反驳，与……矛盾（例证↔反驳）
 > - [[disprove]]：反驳，证明……是错的（证明↔反驳）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ ex-(出) + empli(拿取) + -fy(使动后缀) = exemplify（拿出来作为例子
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exemplify the trend**：例证这一趋势
 > - **exemplify a theory/point**：举例说明理论/观点
 > - **exemplify the best/worst of**：作为……的最好/最坏典范
@@ -130,20 +128,14 @@ ex-(出) + empli(拿取) + -fy(使动后缀) = exemplify（拿出来作为例子
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company's success exemplifies the power of innovation and perseverance in business."（这家公司的成功体现了创新和毅力在商业中的力量。）——考研高频表达
 > - "This case exemplifies the challenges that small businesses face in competing with large corporations."（这个案例体现了小企业在与大型企业竞争时所面临的挑战。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

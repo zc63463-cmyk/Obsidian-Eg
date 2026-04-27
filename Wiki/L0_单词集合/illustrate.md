@@ -3,14 +3,12 @@ title: "illustrate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 照亮，使明亮
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɪləstreɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**照亮，使明亮**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **照亮，使明亮**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *in-*（向）+ *lustrare*（使明亮）= "向……投光"。想象你在黑暗的房间里打开一盏灯，一切变得**清晰可见**——这就是 illustrate。老师用**例子**来"照亮"一个概念 = illustrate（说明）；画家用**图片**来"照亮"一段文字 = illustrate（加插图）。从光到知识到图片，illustrate 始终是"让模糊变清晰"。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +108,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[obscure]]：使模糊，使晦涩（illustrate 的精确反义：阐明↔使模糊）
 > - [[confuse]]：使困惑（illustrate 在认知层面的反义）
 > - [[complicate]]：使复杂化（illustrate 在简化层面的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **illustrate sth. with examples**：用例子说明某事
 > - **a well-illustrated book**：配有精美插图的书
 > - **illustrate the point**：说明观点
@@ -140,22 +138,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Let me illustrate this point with an example."（让我用一个例子来说明这个观点）——考研阅读/翻译高频句式
 > - "a beautifully illustrated book"（配有精美插图的书）——考研阅读常见搭配
 > - "This case illustrates the importance of education."（这个案例说明了教育的重要性）——考研写作常用句式
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

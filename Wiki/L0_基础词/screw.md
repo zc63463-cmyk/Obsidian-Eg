@@ -3,14 +3,12 @@ title: "screw"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 螺旋形的紧固件
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/skruː/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**螺旋形的紧固件**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **螺旋形的紧固件**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古法语 escrou（螺钉）→ 英语 screw → 螺丝。拧紧瓶盖——screw the lid on。不断施压——put the screw on。把考试搞砸了——screw up the exam。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unscrew]]：拧开，松开（screw 的精确反义：拧紧↔拧开）
 > - [[loosen]]：放松，松开（screw 的反义：拧紧↔放松）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -135,7 +133,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **screw up**：搞砸，弄糟
 > - **put the screw(s) on**：施加压力
 > - **screw money out of sb.**：勒索某人的钱
@@ -144,19 +142,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He screwed up the project by missing the deadline."（他因为错过了截止日期而搞砸了这个项目。——考研翻译高频表达）
 > - "The government put the screws on the company to comply with environmental regulations."（政府向该公司施压，要求其遵守环保法规。——考研阅读句式）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "inherit"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 粘附在血脉中的（从先辈那里获得）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪnˈherɪt/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从先辈那里获得（沿血脉传递）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **从先辈那里获得**（时间传承层面）
@@ -68,7 +66,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（在里面）+ her（粘附）→ 父母的基因"粘"在你体内 → 你 inherit（遗传）了他们的特征。父母的财产"粘"在你的名下 → 你 inherit（继承）了他们的遗产。inherent（固有的）和 inherit（继承）同源——inherent 是"粘在里面的"，inherit 是"从里面传下来的"。
@@ -91,7 +89,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bequeath]]：遗赠（inherit 的反义方向：继承↔遗赠）
 > - [[disinherit]]：剥夺继承权（inherit 的否定形式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inherit wealth/property/money**：继承财产/金钱
 > - **inherit genes/traits**：遗传基因/特征
 > - **inherit the throne**：继承王位
@@ -136,19 +134,15 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states."（在托马斯·皮凯蒂和其他经济学家对日益加剧的不平等和不断增强的世袭财权发出警告时，富裕的贵族家庭竟然还是现代民主国家的核心象征，这十分怪异。——2015年英语一Text 1）
 > - "To a certain extent, our ability to excel in making the connections that drive intelligence is inherited."（在一定程度上，我们天生擅长建立促进智力连接的能力。——2014年英语一完形）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

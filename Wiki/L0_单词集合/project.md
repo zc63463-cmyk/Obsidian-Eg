@@ -3,14 +3,12 @@ title: "project"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 向前抛出
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/prəˈdʒekt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前抛出**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向前抛出**（物理动作）
@@ -70,7 +68,7 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（向前）+ ject（抛）→ 想象你站在讲台上，把方案"向前抛出"给观众，就像投影仪把影像抛到幕布上。
@@ -93,7 +91,7 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[withdraw]]：withdraw表示"撤回、收回"，与project"向前抛出"方向相反
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **project an image**：投射……的形象
   > The company tries to project an image of innovation.（公司试图投射出创新的形象。）
 > - **research project**：研究项目
@@ -134,19 +132,15 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory called the Hawthorne Plant near Chicago."（1924年，美国国家研究委员会派遣两名工程师去芝加哥附近一家名为霍桑工厂的大型电话零部件厂监督一系列工业实验——2010年考研完形填空）
 > - "The new building project will cost millions of dollars."（新的建筑项目将耗资数百万美元——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

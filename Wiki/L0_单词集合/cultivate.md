@@ -3,14 +3,12 @@ title: "cultivate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 培养，耕作
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈkʌltɪveɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ cult(耕作，培养) + -iv(连接) + -ate(使...)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**耕作培养**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **耕作土地**（物理层面）
@@ -64,7 +62,7 @@ cult(耕作，培养) + -iv(连接) + -ate(使...)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ cult(耕作，培养) + -iv(连接) + -ate(使...)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 农民在田地里耕作(cult)，日复一日地浇水施肥——cultivate 不仅是种地，也是"培养"一切美好事物的方式。
@@ -88,7 +86,7 @@ cult(耕作，培养) + -iv(连接) + -ate(使...)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ cult(耕作，培养) + -iv(连接) + -ate(使...)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视，疏忽（cultivate 是精心培养，neglect 是不管不顾）
 > - [[abandon]]：放弃，抛弃
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ cult(耕作，培养) + -iv(连接) + -ate(使...)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cultivate skills/habits**：Students should cultivate good study habits.（学生应当培养良好的学习习惯。）
 > - **cultivate relationships**：It takes time to cultivate meaningful relationships.（培养有意义的关系需要时间。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They gave justices permanent positions so they would be free to upset those in power and have no need to cultivate political support."（他们给予法官终身职位，这样他们就可以不受约束地挑战当权者，而不需要去培养政治支持。）——考研真题阅读
 > - "Students should cultivate good study habits from an early age."（学生应从小培养良好的学习习惯。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "coherent"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 粘在一起的、连贯的（各部分紧密相连，形成统一整体）
-extension_dim: 结构路径
+extension_dim: [结构路径]
 phonetic: "/kəʊˈhɪərənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**粘在一起的、连贯的**"为统筹中心，沿结构路径向外扩展：
 >
 > 1. **粘在一起的**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > coherent = co（共同）+ her（粘）+ ent（形容词后缀）= 共同粘在一起的 = 连贯的。拉丁语 *haerere* = 粘附。当所有段落都"粘"在一起、逻辑紧密时，文章就是 coherent（连贯的）。a coherent argument（一个条理清楚的论证）就像一座桥，每块石头都紧密粘合，不会断裂。The government needs a coherent strategy to tackle climate change（政府需要一套连贯的策略来应对气候变化）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[incoherent]]：不连贯的，语无伦次的（coherent 的精确反义）
 > - [[contradictory]]：矛盾的（coherent 的反义：连贯↔矛盾）
 > - [[confused]]：混乱的（coherent 的反义：条理清楚↔混乱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a coherent argument**：条理清楚的论证
 > - **a coherent strategy/policy**：连贯的策略/政策
 > - **a coherent account**：连贯的叙述
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The author presents a coherent argument that technology should serve human needs rather than dictate them."（作者提出了一个条理清楚的论点，即技术应该服务于人类需求，而不是支配人类需求——考研阅读科技话题）
 > - "A coherent approach to environmental protection requires the collaboration of governments, businesses, and individuals."（一种连贯的环保方法需要政府、企业和个人的合作——考研阅读环保话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

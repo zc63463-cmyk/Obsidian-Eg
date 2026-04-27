@@ -3,14 +3,12 @@ title: "attack"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 去钉（冲上去钉住对方）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/əˈtæk/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**去钉（冲上去钉住对方）**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **去钉**（军事层面：冲上去钉住敌人）
@@ -69,7 +67,7 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > at（去）+ tack（钉）→ 冲上去钉住对方。军队 attack the town——冲上去钉住城镇。记者 attack the policy——用笔钉住政策。心脏病 heart attack——疾病钉住了你的心脏。attack 就是"冲上去钉住"，无论是用武器、用言语还是用病毒。
@@ -92,7 +90,7 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[defend]]：防御，保卫（与"攻击"形成军事行为对立：攻击↔防御）
 > - [[protect]]：保护（与"侵袭"形成状态对立：侵袭↔保护）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **launch an attack on**：对……发动攻击
 >  > Army forces have been attacking the town since dawn.
 > - **attack sb. for sth.**：因某事抨击某人
@@ -136,19 +134,15 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Monsanto's critics have attacked the company for its 'merciless legal battles against small farmers,' and they are hoping this will be the case that puts it in its place."（孟山都的批评者抨击该公司"对小农户进行无情的法律战"，他们希望这个案件能让它认清自己的位置——经济学人例句）
 > - "Most wild animals won't attack unless they are provoked."（大多数野生动物除非被激怒，否则不会主动攻击——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

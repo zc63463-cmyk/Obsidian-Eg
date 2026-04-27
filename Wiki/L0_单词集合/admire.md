@@ -3,17 +3,14 @@ title: "admire"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 朝某物惊叹、凝视
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ədˈmaɪər/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: mir
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ ad-(=to, toward, 向、朝) + mir(=wonder, marvel, 惊奇、惊叹)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**朝某物惊叹、凝视**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **朝某物惊叹、凝视**（感官层面：带着惊奇看）
@@ -65,7 +62,7 @@ ad-(=to, toward, 向、朝) + mir(=wonder, marvel, 惊奇、惊叹)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ ad-(=to, toward, 向、朝) + mir(=wonder, marvel, 惊奇、惊叹)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ad（朝向）+ mir（惊奇）→ 朝某人投去惊叹的目光 → admire（钦佩、欣赏）。
@@ -87,7 +84,7 @@ ad-(=to, toward, 向、朝) + mir(=wonder, marvel, 惊奇、惊叹)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ ad-(=to, toward, 向、朝) + mir(=wonder, marvel, 惊奇、惊叹)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[despise]]：鄙视、看不起
 > - [[disdain]]：蔑视、鄙弃
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,28 +114,22 @@ ad-(=to, toward, 向、朝) + mir(=wonder, marvel, 惊奇、惊叹)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **admire sb. for sth.**：因某事钦佩某人
   - I admire her for her courage and determination.（我钦佩她的勇气和决心。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I admire her courage in speaking out against injustice despite the risks involved."（我钦佩她冒着风险挺身反对不公的勇气。）——考研高频表达
 > - "The ancient civilization is widely admired for its remarkable achievements in art and architecture."（这个古代文明因其艺术和建筑方面的卓越成就而受到广泛赞赏。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

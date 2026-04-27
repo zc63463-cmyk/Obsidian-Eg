@@ -3,14 +3,12 @@ title: "liquid"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 液体（流动的物质）
-extension_dim: 物态路径
+extension_dim: [物态路径]
 phonetic: "/ˈlɪkwɪd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**液体（流动的物质）**"为统筹中心，沿物态路径向外扩展：
 >
 > 1. **流动的**（物理物态层面）
@@ -71,7 +69,7 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > liquid 来自拉丁语 liquere "是流动的"。liquid 的核心就是"流动的"——水是 liquid，油是 liquid。引申到金融——liquid assets（流动资产）= 像水一样可以快速流动（变现）的资产。引申到视觉——liquid eyes（清澈的眼睛）= 像水一样清澈透明的眼睛。liquid 和 liquor（酒/液）同源——酒就是一种液体。记住：liquid = 流动的 = 液体/清澈/易变。
@@ -94,7 +92,7 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[solid]]：固体（liquid 的反义：液体↔固体）
 > - [[gas]]：气体（liquid 的反义：液体↔气体）
 > - [[illiquid]]：非流动的（liquid 的反义：流动的↔非流动的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **liquid assets**：流动资产
 > - **liquid capital**：流动资本
 > - **liquid nitrogen**：液氮
@@ -135,19 +133,15 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company needs to maintain sufficient liquid assets to meet its short-term obligations."（公司需要保持充足的流动资产以满足短期债务。——考研英语阅读相关语料，经济话题）
 > - "Water exists in three states: solid, liquid, and gas."（水以三种状态存在：固态、液态和气态。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

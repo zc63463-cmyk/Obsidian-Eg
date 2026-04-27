@@ -3,17 +3,14 @@ title: "tedious"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 令人厌倦的（因过长或单调而使人疲倦）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈtiːdiəs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: taed-ted
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ ted-(厌倦，拉丁语 *taedium*，意为"厌倦、疲倦") + -ious(充满…�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**令人厌倦的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **令人厌倦的**（时间感受层面）
@@ -66,7 +63,7 @@ ted-(厌倦，拉丁语 *taedium*，意为"厌倦、疲倦") + -ious(充满…�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ ted-(厌倦，拉丁语 *taedium*，意为"厌倦、疲倦") + -ious(充满…�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 taedium 意为"厌倦"。tedious = 充满厌倦的。想象你坐在一个三小时的无聊讲座上，每一分钟都像一年——这就是 tedious。tedious 强调的是因为"太长、太重复"而乏味，不是内容本身难，而是时间拖得太久。
@@ -88,7 +85,7 @@ ted-(厌倦，拉丁语 *taedium*，意为"厌倦、疲倦") + -ious(充满…�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ ted-(厌倦，拉丁语 *taedium*，意为"厌倦、疲倦") + -ious(充满…�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fascinating]]：迷人的（tedious 的反义：乏味↔迷人）
 > - [[engaging]]：引人入胜的（tedious 的反义：沉闷↔引人入胜）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,26 +120,22 @@ ted-(厌倦，拉丁语 *taedium*，意为"厌倦、疲倦") + -ious(充满…�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a tedious process**：冗长乏味的过程
 > - **tedious work**：单调乏味的工作
 > - **a tedious lecture**：沉闷的讲座
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Being a good parent is what every parent wants to be. But the definition of a good parent is undoubtedly very tricky, especially when the same parenting style is approached by children in different ways."（做一个好父母是每个父母都想做的。但是，一个好父母的定义无疑是非常棘手的，尤其是对于相同的父母教养方式，孩子们有不同的反应。——2020年考研英语二完形填空，tedious 作为选项出现）
 > - "Perhaps this is why many worry about the agonizing dullness of a jobless future."（也许这就是为什么许多人担心一个没有工作的未来会沉闷地令人痛苦。——2017年考研英语完形填空，dullness 与 tedious 语义相近）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "intelligible"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 可以被选择理解的，可被理解的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈtelɪdʒəbl/"
 pos: a.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可被选择理解的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可被选择理解的**（语言/信息层面：能够被理解）
@@ -62,7 +60,7 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > intel（在…之间）+ lig（选择）+ ible（可以被）→ 可以被听者在信息之间选择理解的 → intelligible（可理解的）。想象老师在讲课时，把复杂的概念讲得让学生都能理解——那就是 intelligible 的表达。
@@ -87,7 +85,7 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unintelligible]]：不可理解的（直接反义）
 > - [[obscure]]：晦涩的（与"明白易懂的"对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make oneself intelligible**：使自己的话被人听懂
   > He spoke slowly to make himself intelligible to the audience.
 > - **barely/hardly intelligible**：几乎听不懂的
@@ -125,19 +123,15 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "His lecture was readily intelligible to all the students."（他的讲课学生们都能轻松地听懂——考研高频表达）
 > - "The language of Darwin was intelligible to experts and non-experts alike."（达尔文的语言对专家和平常人来说都容易理解——权威语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

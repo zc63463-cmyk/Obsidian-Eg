@@ -3,14 +3,12 @@ title: "spoil"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 拆掉剥落，使失去原有价值
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/spɔɪl/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ spoil 源自古英语 *spolian*（掠夺），与拉丁语 *spolium*（战利品
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拆掉剥落，使失去原有价值**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **拆掉剥落，使失去原有价值**（物理动作层面）
@@ -67,7 +65,7 @@ spoil 源自古英语 *spolian*（掠夺），与拉丁语 *spolium*（战利品
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ spoil 源自古英语 *spolian*（掠夺），与拉丁语 *spolium*（战利品
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spoil 源自"剥皮/掠夺"——猎人剥掉猎物的皮，猎物就失去了价值。溺爱孩子就像"剥掉"了孩子独立面对世界的能力，让他"失去了价值"。食物变质也是"失去了品质"。
@@ -90,7 +88,7 @@ spoil 源自古英语 *spolian*（掠夺），与拉丁语 *spolium*（战利品
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ spoil 源自古英语 *spolian*（掠夺），与拉丁语 *spolium*（战利品
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[preserve]]：保存，保护（"破坏/变质"的反义）
 > - [[improve]]：改善（"糟蹋"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ spoil 源自古英语 *spolian*（掠夺），与拉丁语 *spolium*（战利品
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spoil the fun**：扫兴 — Don't tell them the ending and spoil the fun.
 > - **spoil a child**：溺爱孩子 — Parents should not spoil their children with too many gifts.
 > - **be spoiled for choice**：选择太多反而难以抉择 — There are so many good restaurants that we are spoiled for choice.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The rapid development of tourism has spoiled the natural beauty of the coastal town."（旅游业的快速发展破坏了这座沿海小镇的自然美景。）——考研高频表达
 > - "Parents should avoid spoiling their children with excessive material rewards."（父母应避免用过多的物质奖励溺爱孩子。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

@@ -3,14 +3,12 @@ title: "exclusive"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 排除其他人的、独有的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪkˈskluːsɪv/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ ex-(向外，出) + clud/clus(关闭，关上) + -ive(形容词后缀，表示"�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把其他人关在外面**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **把其他人关在外面**（社会排斥层面）
@@ -71,7 +69,7 @@ ex-(向外，出) + clud/clus(关闭，关上) + -ive(形容词后缀，表示"�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ ex-(向外，出) + clud/clus(关闭，关上) + -ive(形容词后缀，表示"�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex-（向外）+ clus-（关闭）+ -ive（的）→ 把其他人都关在门外 → exclusive = 独有的/排他的。
@@ -94,7 +92,7 @@ ex-(向外，出) + clud/clus(关闭，关上) + -ive(形容词后缀，表示"�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ ex-(向外，出) + clud/clus(关闭，关上) + -ive(形容词后缀，表示"�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inclusive]]：包容的，包括的（exclusive 的直接反义）
 - [[common]]：普通的，共有的（独有的 vs 共有的）
 - [[shared]]：共享的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ ex-(向外，出) + clud/clus(关闭，关上) + -ive(形容词后缀，表示"�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exclusive to**：...独有的（This species is exclusive to the Amazon rainforest.）
 > - **exclusive rights**：独家权利（The company holds exclusive rights to the technology.）
 > - **exclusive interview**：独家采访（The newspaper published an exclusive interview with the president.）
@@ -139,19 +137,13 @@ ex-(向外，出) + clud/clus(关闭，关上) + -ive(形容词后缀，表示"�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Good teaching and research are not exclusive, but they are also not automatic companions."（优秀的教学和研究并不互相排斥，但它们也不是自然而然相伴而生的。）——考研高频表达
 > - "But as these findings show, exercise and academics may not be mutually exclusive."（但这些发现表明，运动和学业并非互不相容。）——考研高频表达
 > - "Of the 46 beverages endorsed by professional athletes, 93 percent relied exclusively on sugar for sweetening."（在由职业运动员代言的46种饮料中，93%完全依赖糖来增甜。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

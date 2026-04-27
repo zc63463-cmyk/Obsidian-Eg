@@ -3,14 +3,12 @@ title: "endorse"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 在背面写上名字
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪnˈdɔːs/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在背面写上名字**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在背面写上名字**（金融层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > endorse = en（在……上）+ dors（背部）= 在背面签名。想象你收到一张支票，翻到背面签上自己的名字——这就是 endorse 的本义"背书"。从金融背书延伸到社会"支持"：你在一份倡议书上签名就是"赞同"，明星在广告上签名就是"代言"。endorse 和 dorsal（背部的）同源——记住"在背面签名"这个画面就够了。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[oppose]]：反对（endorse "支持"的精确反义）
 > - [[reject]]：拒绝（endorse "认可"的反义）
 > - [[disapprove]]：不赞成（endorse "赞同"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **endorse a policy/proposal**：支持/赞同一项政策/提案
 > - **endorse a check/cheque**：在支票背面背书
 > - **endorse a product/brand**：代言产品/品牌
@@ -132,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The committee endorsed the new environmental policy."（委员会赞同了新的环境政策）——政治/社会类阅读
 > - "Many celebrities have been paid to endorse products on social media."（许多名人被付费在社交媒体上代言产品）——商业/媒体类话题
 > - "The government has endorsed the recommendations of the report."（政府已认可该报告的建议）——政策类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

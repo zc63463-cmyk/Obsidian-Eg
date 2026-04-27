@@ -3,14 +3,12 @@ title: "impatient"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 不在忍耐中的（无法继续等待的状态）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪmˈpeɪʃnt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不在忍耐中的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **不在忍耐中的**（心理状态层面）
@@ -67,7 +65,7 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（不）+ pat（忍受）+ ent（……的）→ 不忍受的 → 不耐烦的。patient 是"有耐心的"，impatient 就是"没有耐心的"。你对慢学生不耐烦——impatient with slow learners；你急切想知道成绩——impatient to know your mark。
@@ -89,7 +87,7 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[patient]]：耐心的（impatient 的精确反义：不耐烦的↔耐心的）
 > - [[tolerant]]：宽容的（impatient 的反义：无法容忍的↔宽容的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be impatient with sb.**：对某人不耐烦
 > - **be impatient to do sth.**：急切地想做某事
 > - **be impatient for sth.**：急切地期待某事
@@ -129,19 +127,15 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He is a good teacher, but inclined to be a bit impatient with slow learners."（他是一位好老师，但对学习慢的学生有些不耐烦。——考研翻译常见结构）
 > - "She is impatient to know her exam results."（她急切地想知道自己的考试成绩。——考研写作常用表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "zip"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 嗖嗖声（拟声词，模拟快速移动的声音 → 拉链）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/zɪp/"
 pos: n.
 metaphor_type: 转喻
@@ -45,7 +43,7 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**嗖嗖声**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **嗖嗖声**（声音层面）
@@ -70,7 +68,7 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > zip 的核心画面是"拉链快速拉上的声音"。zip 是拟声词——"嗖"的一声。想象你穿外套时，"嗖"地一声拉上拉链——那就是 zip。Zip your jacket（拉上外套拉链）。计算机中的 zip file（压缩文件）也是从"快速"引申。Zip through a book（快速读完一本书）。Zip your lip（闭嘴）是口语用法——拉上嘴巴的"拉链"。
@@ -93,7 +91,7 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unzip]]：拉开拉链（zip 的反义：拉上↔拉开）
 > - [[crawl]]：缓慢移动（zip 的反义：快速↔缓慢）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **zip up**：拉上拉链
 > - **zip file**：压缩文件
 > - **zip through**：快速完成/快速阅读
@@ -133,19 +131,15 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Students were able to zip through the online course modules at their own pace, completing the program in record time."（学生能够按照自己的节奏快速完成在线课程模块，以创纪录的时间完成了该课程——考研阅读教育话题相关表达）
 > - "Please ensure that all uploaded files are in zip format and do not exceed the maximum size limit."（请确保所有上传的文件为zip格式，且不超过最大大小限制——考研阅读科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

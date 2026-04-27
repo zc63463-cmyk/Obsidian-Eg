@@ -3,17 +3,14 @@ title: "surgery"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 手工操作（用手治病的技术）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsɜːrdʒəri/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: kheir-ergon
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**手工操作**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **手工操作**（技术层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > surgery 来自希腊语 kheirourgia（手+工作）。古代内科医生靠药物治病，外科医生靠双手开刀——用手工作的技术就是 surgery。在英国，你去 doctor's surgery 看病，因为过去外科医生就在自家诊所里动手做手术。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[medicine]]：内科（surgery 的医学分科反义：外科↔内科）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,26 +111,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **perform/undergo surgery**：做/接受手术
 > - **plastic surgery**：整形手术
 > - **open-heart surgery**：心脏搭桥手术
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He underwent surgery to remove a brain tumor."（他接受了切除脑肿瘤的手术）
 > - "Advances in surgery have made many previously fatal conditions treatable."（外科手术的进步使许多过去致命的疾病变得可治疗）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

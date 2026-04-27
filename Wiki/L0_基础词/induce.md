@@ -3,14 +3,12 @@ title: "induce"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 引导进入（in- "进入" + ducere "引导"）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈdjuːs/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引导进入**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **引导进入**（引导层面）
@@ -66,7 +64,7 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（向内）+ duc（引导，与 educate 同源）= induce。引导某种状态进入 → 引起。引导某人做某事 → 引诱。医生引导分娩 → 诱导。Nothing could induce me to join their club（什么都不能引诱我加入他们的俱乐部）。
@@ -88,7 +86,7 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deter]]：阻止，威慑（induce 的反义：引导进入↔阻止进入）
 > - [[discourage]]：劝阻（induce 的反义：引诱↔劝阻）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **induce sb. to do sth.**：引诱/劝使某人做某事（考研高频搭配）
 > - **induce vomiting**：催吐
 > - **induce labor**：催产
@@ -128,19 +126,15 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The mere presence of a grape in the other chamber was enough to induce resentment in a female capuchin."（只不过在另一房间里出现了葡萄……都足以引起雌卷尾猴的怨恨。——2005年考研英语阅读 Text 1）
 > - "Nothing could induce me to join their club."（什么都不能引诱我加入他们的俱乐部。——经典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "random"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 冲动/迅猛
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈrændəm/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**冲动/迅猛**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **冲动/迅猛**（物理层面——已消失）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > random 来自古法语 randon（迅猛奔跑）。想象一匹脱缰的野马**疯狂奔跑**，速度快到完全**无法控制方向**，于是跑出了**随机**的路线。从"迅猛"到"随机"——因为太快，所以不可预测。记住 random 的原始画面：一匹横冲直撞的野马。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deliberate]]：故意的/深思熟虑的（random 的精确反义：随机 ↔ 故意）
 > - [[systematic]]：系统的/有规律的（random ↔ systematic）
 > - [[predictable]]：可预测的（random ↔ predictable）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at random**：随机地，任意地
 > - **random sampling**：随机抽样
 > - **random selection**：随机选择
@@ -138,7 +136,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "selected at random from the population"（从总体中随机选取）——研究方法/统计学阅读
 > - "random acts of violence"（随机的暴力行为）——社会问题类阅读
 > - "a random sample of 500 participants"（500名参与者的随机样本）——学术研究类文章
@@ -146,15 +144,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

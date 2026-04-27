@@ -3,14 +3,12 @@ title: "skyscraper"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 摩天大楼（刮到天空的高楼）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈskaɪskreɪpə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**刮天空的高楼**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **刮天空的高楼**（空间层面）
@@ -62,7 +60,7 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sky（天空）+ scraper（刮擦器）= skyscraper。一栋楼高到能把天空刮出一道痕迹——这就是摩天大楼。想象纽约曼哈顿的天际线，一座座 skyscraper 像刀片一样刮过天空。
@@ -84,7 +82,7 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bungalow]]：平房（skyscraper 的反义：摩天大楼↔平房）
 > - [[cottage]]：小屋（skyscraper 的反义：高楼↔小屋）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,26 +128,22 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a towering skyscraper**：一座高耸的摩天大楼
 > - **skyscraper skyline**：摩天大楼天际线
 > - **skyscraper index**：摩天大楼指数（经济指标）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The skyscraper dominates the city's skyline."（这座摩天大楼主宰着该市的天际线。——常见英语语料）
 > - "The construction of skyscrapers is often seen as a measure of economic growth."（摩天大楼的建设常被视为经济增长的一个指标。——常见英语语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

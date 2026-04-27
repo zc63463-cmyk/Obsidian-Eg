@@ -3,14 +3,12 @@ title: "alert"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 警戒状态（保持警觉、准备应对）
-extension_dim: 状态-动作扩展
+extension_dim: [状态-动作扩展]
 phonetic: "/əˈlɜːt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**警戒状态（在岗哨上）**"为统筹中心，沿状态-动作扩展向外扩展：
 >
 > 1. **在岗哨上**
@@ -68,7 +66,7 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 意大利语 all'erta = "在岗哨上"。想象一个士兵站在高高的岗哨上，目光警惕地扫视四周——他就是 alert（警觉的）。发现敌人来了，他立刻发出 alert（警报），alert（通知）所有人进入战斗状态。alert 的核心画面就是"站在高处岗哨上的士兵"。
@@ -92,7 +90,7 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[careless]]：粗心的（alert 的精确反义：警觉↔粗心）
 > - [[ignorant]]：无知的（alert 的反义：警觉↔无知）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stay/keep alert**：保持警觉
 > - **alert sb to sth**：提醒某人注意某事
 > - **on full alert**：全面戒备
@@ -136,19 +134,15 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When RAIM detects an error, it alerts the pilot through appropriate warning messages or indications on the aircraft's display."（当RAIM检测到错误时，它通过适当的警告信息或飞机显示屏上的指示来提醒飞行员——FAA Air Navigation）
 > - "The pre-processed data are then fed into diagnostic and prognostic machine learning models. These AI models are trained to identify condition indicators that signify the health of various aircraft systems."（预处理后的数据被输入诊断和预测性机器学习模型。这些AI模型被训练来识别表明各种飞机系统健康状况的条件指标——AIoT Aviation Health Monitoring）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

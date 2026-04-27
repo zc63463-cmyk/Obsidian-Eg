@@ -3,17 +3,14 @@ title: "patrol"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 来回走动巡视
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/pəˈtrəʊl/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: pater-patri
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -46,7 +43,7 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**来回走动巡视**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **来回走动巡视**（动作层面）
@@ -67,7 +64,7 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > patri（保护者）+ rol（轮转）→ 保护者来回轮转 → 巡逻。想象一个保安（保护者）在小区里来回走动（轮转），他就是在patrol。
@@ -90,7 +87,7 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +100,12 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视（巡逻的反义：主动检查↔忽视不管）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,26 +130,22 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **patrol the border/streets**：巡逻边境/街道
 > - **on patrol**：在巡逻中
 > - **border patrol**：边境巡逻队
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Mark Baldassare of the Public Policy Institute of California points out that much of the state's budget is patrolled by unions."（加利福尼亚公共政策研究所的Mark Baldassare指出，加州政府多数预算受到工会的监控——2012年考研英语阅读Text 4）
 > - "Troops patrolled the border day and night."（军队日夜在边境地区巡逻——Cambridge English Corpus）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

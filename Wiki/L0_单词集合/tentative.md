@@ -3,14 +3,12 @@ title: "tentative"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 试探性地伸展
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈtentətɪv/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**试探性地伸展**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **试探性地伸展**（试探行为层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tentative 来自拉丁语 tentare（尝试、试探），和 tempt（引诱）、attempt（尝试）同根。想象你走进一个黑暗的房间，**试探性地**伸出脚——这就是 tentative 的感觉。在学术写作中，tentative conclusion（暂定结论）表示"这还不是最终答案"；在社交中，a tentative smile（试探性的微笑）表示"我不确定你是否欢迎我"。记住：tentative 的一切都带着"不确定"的标签。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[definitive]]：确定的，最终的（tentative 的精确反义：试探性的 ↔ 确定的）
 > - [[certain]]：确定的（在认知判断层面：不确定的 ↔ 确定的）
 > - [[decisive]]：果断的（在行为层面：犹豫不决的 ↔ 果断的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tentative plan / agreement**：暂定计划/暂定协议
 > - **tentative conclusion**：暂定结论
 > - **tentative steps**：试探性的步伐
@@ -130,22 +128,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "a tentative conclusion"（暂定结论）——考研阅读/学术写作高频搭配，表示结论有待验证
 > - "tentative steps towards reform"（改革的试探性步伐）——政治/社会类阅读
 > - "a tentative agreement"（暂定协议）——商业/外交类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "smash"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 猛烈撞击使粉碎
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/smæʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**猛烈撞击使粉碎**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **猛烈撞击使粉碎**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > smash 是拟声词——"啪！"的一声，杯子掉在地上摔得粉碎（smash to pieces）。一辆车猛撞到墙上（smash into a wall），挡风玻璃碎了一地。一部电影票房大卖（a smash hit），粉碎了所有票房记录。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[repair]]：修复（smash 的反义：粉碎↔修复）
 > - [[mend]]：修补（smash 的反义：打碎↔修补）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **smash to pieces/smithereens**：摔得粉碎
   - She dropped her cup and watched it smash to pieces on the stone floor.
 - **smash hit**：极受欢迎的事物，大热门
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Several windows had been smashed during the protest."（抗议活动中几扇窗户被砸碎了。——常见新闻语料）
 > - "The elephant smashed its way through the trees, causing panic among the tourists."（大象横冲直撞穿过树林，引起游客恐慌。——常见阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "remedy"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 治疗方法、补救措施
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈremədi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**治疗方法、补救措施**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **治疗方法、补救措施**（医疗/社会层面）
@@ -68,7 +66,7 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > re-(再次) + med(治愈) + -y：再次让人恢复健康 → "治疗；补救"。
@@ -91,7 +89,7 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cause]]：原因；起因
 > - [[aggravate]]：加重；恶化
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **remedy for**：……的补救措施
 >   There is no easy remedy for economic inequality.
 > - **beyond remedy**：无法补救
@@ -133,21 +131,15 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The best remedy for grief is hard work."（排解忧伤的最好办法就是努力工作。）——考研高频表达
 > - "The government introduced new laws as a remedy for the social problems."（政府出台了新法律作为解决社会问题的补救措施。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

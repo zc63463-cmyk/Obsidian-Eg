@@ -3,14 +3,12 @@ title: "inertia"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 不活动，惰性（缺乏运动或变化的状态）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈnɜːʃə/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不活动，惰性**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不活动**（物理层面）
@@ -68,7 +66,7 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ ert（活跃）→ inertia。想象一个巨大的石头，推它不动——这就是物理惯性（inertia）。一个人躺在沙发上不想起来——这就是惰性（feeling of inertia）。一个机构几十年不变——这就是体制惯性（institutional inertia）。inertia 就是"不活跃"。
@@ -90,7 +88,7 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[momentum]]：动力，势头（inertia "惯性/惰性"的反义：保持不动↔保持运动）
 > - [[activity]]：活动（inertia "不活动"的反义：不活动↔活动）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overcome inertia**：克服惰性
 > - **institutional inertia**：体制惰性，机构惯性
 > - **political inertia**：政治惯性
@@ -131,19 +129,15 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The second reason is economic and political inertia. The more fossil fuels a country consumes, the harder it is to wean itself off them."（第二个原因是经济和政治惯性。一个国家消费的化石燃料越多，就越难摆脱对它的依赖。——考研阅读类表达）
 > - "I can't seem to throw off this feeling of inertia."（我好像无法摆脱这种无力的感觉。——考研翻译类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

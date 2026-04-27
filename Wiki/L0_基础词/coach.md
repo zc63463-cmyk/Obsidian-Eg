@@ -3,14 +3,12 @@ title: "coach"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 运送人的马车（从物理载具到精神引导者）
-extension_dim: 功能维度
+extension_dim: [功能维度]
 phonetic: "/kəʊtʃ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**运送人的马车（把人带向目的地）**"为统筹中心，沿功能维度向外扩展：
 >
 > 1. **运送人的马车**（物理层面）
@@ -70,7 +68,7 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 匈牙利有个小镇叫 Kocs，那里出产的马车特别好，于是全欧洲都把这种马车叫 *kocsi* → coach。牛津大学的学生发现，帮他们备考的辅导老师就像马车一样——把他们从"不及格"运到"及格"，于是也叫老师 coach。后来体育教练也叫 coach——把运动员从普通带到卓越。记住：coach = 马车 = 把人带向目的地。
@@ -93,7 +91,7 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[trainee]]：受训者（coach 的反义：指导者↔被指导者）
 > - [[pupil]]：学生，弟子（coach 的反义：教练↔学员）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **head coach**：主教练
 > - **life coach**：人生导师
 > - **by coach**：乘长途汽车
@@ -132,19 +130,15 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Career coach Dr. Myers agrees that the key to career success is continuous learning and self-improvement."（职业教练迈尔斯博士同意，职业成功的关键在于持续学习和自我提升——考研英语阅读，职业发展话题）
 > - "Mary Civiello is an executive communication coach, frequently called in to coach individual executives on improving their personal style."（玛丽·西维罗是一位高管沟通教练，经常被邀请指导高管如何改善个人风格——考研英语阅读，职场沟通话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

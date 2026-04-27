@@ -3,14 +3,12 @@ title: "divert"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 转向别的方向
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/daɪˈvɜːt/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转向别的方向**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **转向别的方向**（物理/路径层面）
@@ -73,7 +71,7 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 魔术师在舞台上挥舞右手，让观众的眼睛 di（转向）那个 vert（方向），左手悄悄从帽子里变出兔子——这就是 divert attention（转移注意力）。高速公路施工时，交警竖起路牌 divert（使改道），所有车辆转向旁边的辅路。
@@ -96,7 +94,7 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[concentrate]]：集中（转移注意力↔集中注意力）
 > - [[focus]]：聚焦（使转向↔聚焦）
 > - [[maintain]]：维持（使偏离↔维持原方向）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **divert attention from**：转移对……的注意力
 > - **divert funds/resources to**：把资金/资源转移到
 > - **divert a flight/river**：使航班改道/使河流改向
@@ -138,21 +136,15 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The war diverted people's attention away from the economic situation."（战争把民众的注意力从经济状况上移开了。）——考研高频表达
 > - "The government is trying to divert more public funds from west to east."（政府正试图将更多的公共基金从西部转到东部。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "discourage"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 去掉勇气（使失去信心）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dɪsˈkʌrɪdʒ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**去掉勇气（使失去信心）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **去掉勇气**（心理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dis（去掉）+ courage（勇气）→ discourage（去掉勇气）。老师批评你 → discourage you（使你泄气）。父母 discourage you from dropping out（劝阻你辍学）= 通过去掉你的勇气来阻止你。反义词 encourage = en（给予）+ courage（勇气）= 给予勇气 = 鼓励。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[encourage]]：鼓励（discourage 的精确反义：去掉勇气↔给予勇气）
 > - [[inspire]]：激励（discourage "使泄气"的反义：泄气↔激励）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **discourage sb. from doing sth.**：劝阻某人做某事
 > - **be discouraged by**：因……而泄气
 > - **a discouraging result**：令人泄气的结果
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Parents should not discourage children from pursuing their dreams."（父母不应劝阻孩子追求梦想——考研阅读教育类话题）
 > - "She was deeply discouraged by the repeated failures."（她因反复失败而深感泄气——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

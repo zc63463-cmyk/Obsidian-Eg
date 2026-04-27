@@ -3,17 +3,14 @@ title: "provide"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 提前看到→准备→提供
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/prəˈvaɪd/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**提前看到→准备→提供**"为统筹中心，沿动作→结果路径向外扩展：
 >
 > 1. **提前看到**（预见层面）
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > provide = pro-（提前）+ vide（看）。想象一个细心的母亲，她"提前看到"孩子明天要上学，所以今晚就"准备好"了书包和午餐——这就是 provide（提供）。provide 不仅仅是"给"，它带有一种"预见性"的关怀。同样，法律中的"规定"（provide that...）也是"提前看到"可能出现的问题，所以预先做出规定。记住 provide = pro-（提前）+ vide（看）= 提前看到→准备→提供。
@@ -101,7 +98,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -114,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - provide（提供）↔ withhold（扣留，不给）
 > - provide for（供养）↔ neglect（忽视，不照顾）
 > - provision（供应）↔ deprivation（剥夺）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +130,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **provide sb. with sth.**：给某人提供某物
 > - **provide sth. for sb.**：为某人提供某物
 > - **provide for**：为…提供生计，抚养
@@ -143,7 +140,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The school provides students with a wide range of resources."（学校为学生提供了广泛的资源）——教育话题
 > - "He has a large family to provide for."（他有一大家子人要养活）——家庭话题
 > - "The constitution provides that all citizens have equal rights."（宪法规定所有公民享有平等权利）——法律话题
@@ -152,15 +149,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

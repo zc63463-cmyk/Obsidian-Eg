@@ -3,14 +3,12 @@ title: "reputation"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 被反复认为的样子
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌrepjuˈteɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(反复) + [[put|put]](思考、认为) + -ation(名词后缀) → 被反复�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被反复评价的看法**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被反复评价的看法**（社会层面：众人对某人的长期评价）
@@ -62,7 +60,7 @@ re-(反复) + [[put|put]](思考、认为) + -ation(名词后缀) → 被反复�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ re-(反复) + [[put|put]](思考、认为) + -ation(名词后缀) → 被反复�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re-(反复) + put(思考) + -ation(名词) → 大家反复思考你的为人 → 你的名声。
@@ -84,7 +82,7 @@ re-(反复) + [[put|put]](思考、认为) + -ation(名词后缀) → 被反复�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -94,13 +92,13 @@ re-(反复) + [[put|put]](思考、认为) + -ation(名词后缀) → 被反复�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disgrace]]：耻辱，丢脸（与 reputation 的"好名声"形成反义）
 > - [[infamy]]：恶名（与 reputation 的"名声"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,26 +110,22 @@ re-(反复) + [[put|put]](思考、认为) + -ation(名词后缀) → 被反复�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **build/establish a reputation**：建立声誉
 > - **ruin/damage one's reputation**：损害名声
 > - **have a reputation for**：以……闻名
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Indeed, if he has a reputation for slacking, you might even be outraged."（确实，如果他还有懒散的名声的话，你甚至会变得怒不可遏——2005年考研Text 1）
 > - "That statement comes not from a stereotypical tree-hugging environmentalist, but from Gordon Brown, a politician with a reputation for rigour."（那番话不是出自一个典型的拥抱树木的环保主义者之口，而是出自以严谨著称的政治家戈登·布朗之口——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,17 +3,14 @@ title: "local"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 地方的、当地的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈloʊkl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: loc-locat
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -47,7 +44,7 @@ loc(地方/地点) + -al(形容词后缀，与……有关的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**地方的、当地的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **地方的、当地的**（空间层面——属于特定地点的）
@@ -68,7 +65,7 @@ loc(地方/地点) + -al(形容词后缀，与……有关的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ loc(地方/地点) + -al(形容词后缀，与……有关的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > loc（地方）+ al → 属于这个地方的 → local（当地的）。你去旅行时，local 就是"当地"的——local food（当地美食）、local people（当地人）。
@@ -91,7 +88,7 @@ loc(地方/地点) + -al(形容词后缀，与……有关的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ loc(地方/地点) + -al(形容词后缀，与……有关的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[global]]：全球的（与 local 的"当地的"对立）
 > - [[national]]：全国的（与 local 的"地方的"对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,27 +120,21 @@ loc(地方/地点) + -al(形容词后缀，与……有关的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **local government**：地方政府
 > - **local community**：当地社区
 > - **local anesthesia**：局部麻醉
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The townsfolk don't see it this way and local councils won't directly give the Royal Shakespeare Company a subsidy."（但是市民们不这样认为，当地的理事会也不会直接给皇家莎士比亚公司提供补贴。）——2006年阅读
 > - "Amateurs, on the other hand, have continued to pursue local studies in the old way."（另一方面，业余人员继续以旧的方式从事局部的研究。）——2001年阅读1
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

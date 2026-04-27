@@ -3,14 +3,12 @@ title: "practise"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 反复做/练习
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈpræktɪs/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复做/练习**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **反复做/练习**（行为层面：反复操作以提升技能）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > practise = practice 的英式动词版。英式英语中：名词用 practice（带 c），动词用 practise（带 s）。美式英语中 practice 兼作名词和动词。记忆口诀：**英式动词 s，美式不分家**。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视（与练习/践行相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **practise law/medicine**：从事法律/医疗工作
   - She has practised law for over twenty years.（她从事法律工作已超过二十年。）
 > - **practise what you preach**：言行一致；身体力行
@@ -121,20 +119,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route."（但是在日常的科学实践中，发现通常遵循一条模糊而复杂的路径。）——2012年阅读Text3
 > - "She practised as a lawyer when she joined the company."（她加入公司时从事律师工作。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

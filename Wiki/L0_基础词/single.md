@@ -3,14 +3,12 @@ title: "single"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 单一的（只有一个的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈsɪŋɡl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**单一的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **单一的**（数量层面）
@@ -72,7 +70,7 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > single 就是"一"。a single step（一步），a single parent（单亲），the single most important（唯一最重要的）。single out 就是"挑出来"——从一群人中 single out 一个人。single 和 singular（单数/非凡的）同源。
@@ -96,7 +94,7 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[multiple]]：多个的（single 的精确反义：单一的↔多个的）
 > - [[double]]：双倍的（single 的反义：单一的↔双倍的）
 - [[married]]：已婚的（single(adj.单身) 的反义：单身↔已婚）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -136,7 +134,7 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **single out**：选出，挑出
 > - **a single**：仅仅一个（强调少）
 > - **every single**：每一个（强调全部）
@@ -146,19 +144,15 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is no single solution to the problem of climate change."（气候变化问题没有单一的解决方案——考研英语阅读高频表达）
 > - "She was singled out for special training."（她被挑选出来接受特殊训练——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

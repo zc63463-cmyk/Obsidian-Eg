@@ -3,14 +3,12 @@ title: "beneficial"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 做得好
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌbenɪˈfɪʃl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**做得好**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **做得好**（价值判断层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > beneficial = bene（好）+ fic（做）+ -ial（形容词后缀）→ **做得好的**。想象一个医生为你做了好的治疗——这个治疗就是 **beneficial**（有益的）。从有益健康的运动，到有利经济发展的政策，核心都是"做得好的"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[harmful]]：有害的——beneficial 的精确反义：有益 vs 有害
 > - [[detrimental]]：不利的，有害的——效果层面的反义：产生好处 vs 产生损害
 > - [[useless]]：无用的——功能层面的反义：有帮助 vs 无用
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **beneficial to/for**：对……有益的
 > - **mutually beneficial**：互利的，双赢的
 > - **beneficial effect/impact**：有益的效果/影响
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "beneficial to health"（对健康有益）——考研阅读/翻译高频搭配
 > - "mutually beneficial"（互利的）——商业/外交类阅读常见搭配
 > - "beneficial to the economy/society"（对经济/社会有益）——社会经济类阅读常见搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

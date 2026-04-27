@@ -3,14 +3,12 @@ title: "regime"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 统治方式（reg-统治 + -ime名词后缀）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/reɪˈʒiːm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**统治方式**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **统治方式**（政治层面）
@@ -66,7 +64,7 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > reg（统治，和 king/regal 同源）+ -ime（方式）→ 统治的方式 → 政权。The regime has been in power for two years（现政权已经执政两年了）。regime 也可以指"训练制度"——training regime，或"税收制度"——tax regime。
@@ -88,7 +86,7 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - regime 作为"政权"无精确反义词，但可与 [[democracy]]（民主）对比使用
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overthrow/bring down the regime**：推翻政权
 > - **military regime**：军政权
 > - **the current regime**：现政权
@@ -131,19 +129,15 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above 'mere' politics and 'embody' a spirit of national unity."（当公众舆论出现特别两极分化时，就像弗朗哥政权结束后那样，君主可以超越"纯粹的"政治，"体现"民族统一的精神——2015年考研英语阅读Text 1）
 > - "The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming."（小冰河时代已让位于以持续稳定变暖为特征的新气候体制——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

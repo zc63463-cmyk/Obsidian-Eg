@@ -3,14 +3,12 @@ title: "focus"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 炉火中心（壁炉中最热的地方）
-extension_dim: 认知路径
+extension_dim: [认知路径]
 phonetic: "/ˈfəʊkəs/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**炉火中心（壁炉中最热的地方）**"为统筹中心，沿认知路径向外扩展：
 >
 > 1. **壁炉中心**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > focus 原始义是拉丁语"壁炉"——古罗马家庭的中心。冬天全家人围着壁炉，壁炉就是家的"焦点"。17世纪科学家借用这个词描述光线汇聚的那个"最亮的点"——光学焦点。现代用法保留了"汇聚到中心"的核心：focus on（集中注意力于）= 把注意力像光线一样汇聚到一个点上。记住：focus = 壁炉 = 中心 = 焦点 = 集中。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distract]]：分散注意力（focus 的精确反义：集中↔分散）
 > - [[diffuse]]：扩散（focus 的反义：聚焦↔扩散）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **focus on**：集中于，关注（考研最高频搭配）
 > - **in focus**：清晰的，焦点对准的
 > - **out of focus**：模糊的，焦点未对准的
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government should focus more on addressing the root causes of inequality rather than treating its symptoms."（政府应该更加关注解决不平等的根源，而不是仅仅处理其表象——考研阅读社会话题高频表达）
 > - "The study focuses on the relationship between social media use and mental health among teenagers."（该研究聚焦于青少年社交媒体使用与心理健康之间的关系——考研阅读学术话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

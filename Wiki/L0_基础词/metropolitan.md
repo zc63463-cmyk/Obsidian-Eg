@@ -3,14 +3,12 @@ title: "metropolitan"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 母亲城市（大都市）
-extension_dim: 城市-社会扩展
+extension_dim: [城市-社会扩展]
 phonetic: "/ˌmetrəˈpɒlɪtən/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**母亲城市**"为统筹中心，沿城市-社会扩展向外扩展：
 >
 > 1. **母亲城市**
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > metropolitan = meter（母亲）+ polis（城市）= 母亲城市 = 大都市。古希腊时期，母城（metropolis）向外建立殖民地，就像母亲生孩子一样。现代的 metropolitan area（大都市区）就是以大城市为中心的广阔区域。metropolitan power（宗主国）对殖民地的关系就像"母亲"对"孩子"。大主教（metropolitan）管辖一个教省，就像母城管辖殖民地一样。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rural]]：乡村的（metropolitan"大都市的"的反义：都市↔乡村）
 > - [[provincial]]：外省的，地方性的（metropolitan"大都市的"的反义：大都市↔地方）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **metropolitan area**：大都市区
 > - **metropolitan city**：大都市
 > - **metropolitan museum**：大都会博物馆
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The metropolitan area has a population of over 10 million."（这个大都市区的人口超过一千万。——社会语料）
 > - "Metropolitan Museum of Art is one of the world's largest museums."（大都会艺术博物馆是世界上最大的博物馆之一。——文化语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

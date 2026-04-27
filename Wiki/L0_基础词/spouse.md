@@ -3,14 +3,12 @@ title: "spouse"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 承诺相伴一生的人，配偶
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/spaʊs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**承诺相伴一生的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **承诺**（社会层面）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spouse 的核心画面是"婚礼上新郎新娘互相许下承诺"。拉丁语 *spondere* = 承诺。*sponsus* = 做出承诺的人 = 新郎。spouse = 通过承诺结为伴侣的人 = 配偶。spouse 比 husband/wife 更正式、更中性，常用于法律文件。与 sponsor（赞助者）同源——赞助者也是做出承诺的人。Your spouse is the person who pledged to be with you for life（你的配偶就是承诺与你相伴一生的人）。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ex-spouse]]：前配偶（spouse 的反义派生）
 > - [[divorcee]]：离婚者（spouse 关系的终结）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **one's spouse**：某人的配偶
 > - **spouse visa**：配偶签证
 > - **unmarried spouse**：未婚配偶
@@ -123,19 +121,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In many countries, immigration laws allow citizens to sponsor their foreign-born spouses for permanent residency, provided the marriage is verified as genuine."（在许多国家，移民法允许公民为其在国外出生的配偶担保永久居留权，前提是婚姻被验证为真实的——考研阅读法律话题相关表达）
 > - "Research indicates that dual-career couples, where both spouses pursue professional careers, often face significant challenges in balancing work and family responsibilities."（研究表明，双职业夫妇——即双方配偶都追求职业发展的夫妇——在平衡工作和家庭责任方面经常面临重大挑战——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

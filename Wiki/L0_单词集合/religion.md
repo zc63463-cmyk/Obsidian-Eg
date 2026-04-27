@@ -3,14 +3,12 @@ title: "religion"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 反复绑定（信仰）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈlɪdʒən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复绑定**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **反复绑定**（物理绑定）
@@ -66,7 +64,7 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（反复）+ lig（绑，同liable）+ ion（名词）→ 反复把人与信仰绑在一起的力量就是"宗教"。古罗马哲学家西塞罗说，religion就是religare（重新绑定）——把人与神之间的纽带重新系紧。
@@ -89,7 +87,7 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[atheism]]：atheism表示"无神论"，与religion的"宗教信仰"直接对立
 > - [[secularism]]：secularism表示"世俗主义"，与religion的"宗教性"形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **freedom of religion**：宗教自由
   > Freedom of religion is a fundamental human right.（宗教自由是一项基本人权。）
 > - **organized religion**：有组织的宗教
@@ -128,20 +126,14 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "On the issue of freedom of religion and the position of the Church, there was less agreement among the leadership."（在宗教自由和教会地位问题上，领导层之间的共识较少。）——2007年完形填空
 > - "Most religions teach you to be truthful."（大多数宗教都教你要诚实。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "analogue"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 类似物（与另一事物相似的东西）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈænəlɒɡ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**类似物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **类似物**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ana（按照）+ log（比例）→ analogue。心脏像水泵，水泵就是心脏的 analogue。模拟计算机（analogue computer）用连续的物理量来模拟数学运算。analogue 就是"类似物"——按比例对应的另一事物。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[digital]]：数字的（analogue "模拟的"的反义：模拟↔数字）
 > - [[original]]：原物（analogue "类似物"的反义：类似物↔原物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **analogue signal**：模拟信号
 > - **analogue computer**：模拟计算机
 > - **nucleoside analogue**：核苷类似物（医学）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "These may either be the drug in question or some analogue of it."（这些可能是目标药物或其某种类似物。——考研阅读类表达）
 > - "The first drug approved for use against HIV, zidovudine (AZT), is a nucleoside analogue as well."（第一个获准用于对抗HIV的药物叠氮胸苷（AZT）也是一种核苷类似物。——考研翻译类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "retain"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 向后拉住（把东西拉回来留住）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/rɪˈteɪn/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后拉住（不让离开）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向后拉住**（物理层面）
@@ -69,7 +67,7 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（向后）+ tain（握住，拉丁语 *tenere*）→ 向后拉住不让走 → 保持/保留。想象你站在河边，伸手拉住一个快要被水冲走的人——re（向后拉）+ tain（握住）→ retain。你 retain 了他的生命。同样，你 retain 独立性、retain 员工、retain 信息——都是"拉住不让走"。
@@ -91,7 +89,7 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lose]]：失去（retain 的精确反义：保留↔失去）
 > - [[release]]：释放，放开（retain 的反义：拉住↔放开）
 > - [[abandon]]：放弃（retain 的反义：保留↔放弃）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **retain independence**：保持独立
 > - **retain employees/customers**：留住员工/客户
 > - **retain control**：保持控制
@@ -135,19 +133,15 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The country has retained its independence despite foreign pressure."（尽管面临外来压力，该国保持了独立——政治类阅读）
 > - "Companies need to retain talented employees in a competitive market."（在竞争激烈的市场中，公司需要留住人才——商业类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "somewhat"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 某种程度上（某个量或程度，不是全部）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsʌmwɒt/"
 pos: adv.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**某种程度上**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **某个量**（数量层面）
@@ -65,7 +63,7 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > somewhat = some（一些）+ what（什么）= 某种程度上。some = 一些，what 在这里不表示疑问，而是表示"事物/程度"。I am somewhat tired = 我有点累。The price is somewhat high = 价格有点高。somewhat 比 a little 更正式，比 very 更谨慎，是考研写作中非常实用的"柔性程度副词"。
@@ -88,7 +86,7 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[very]]：非常（somewhat 的反义：有点↔非常）
 > - [[completely]]：完全地（somewhat 的反义：某种程度上↔完全地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **somewhat surprised**：有点惊讶
 > - **somewhat difficult**：有点困难
 > - **somewhat complicated**：有点复杂
@@ -129,19 +127,15 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new policy has proven somewhat effective in reducing urban pollution, though its long-term impact remains to be seen."（新政策在减少城市污染方面已被证明有些效果，尽管其长期影响尚待观察——考研阅读环保话题相关表达）
 > - "Researchers found that the experimental drug was somewhat effective in treating the disease, but further clinical trials are needed to confirm its safety."（研究人员发现这种实验性药物在治疗该疾病方面有一定效果，但需要进一步的临床试验来确认其安全性——考研翻译医学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

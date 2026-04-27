@@ -3,14 +3,12 @@ title: "planet"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 漫游者（在天空中游荡的天体）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈplænɪt/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**漫游者（在天空中游荡的天体）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **天空中的漫游者**
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > planet 来自希腊语"漫游者"——古人发现有些星星不像其他星星那样固定不动，而是在天空中"漫游"，所以叫它们 planet。地球是 the planet Earth，火星是 Mars。planet 就是"在天空中漫游的天体"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[star]]：恒星（planet 的精确反义：行星围绕恒星运行——漫游者↔固定者）
 > - [[fixed star]]：恒星（planet 的古典天文学反义：漫游者↔固定星）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the planet Earth**：地球
 > - **other planets**：其他行星
 > - **planetary motion**：行星运动
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Because they had expected the spacecraft Voyager 2 to be able to gather data only about the planets Jupiter and Saturn, scientists were thrilled about the wealth of information it sent back from Neptune years after leaving Earth."（因为科学家原本只期望旅行者2号能收集木星和土星的数据，所以当它在离开地球数年后从海王星传回丰富信息时，科学家们激动不已。——GRE Text Completion）
 > - "The duration of this phase is poorly understood, but during this time the terrestrial planets were not isolated."（这个阶段的持续时间尚不清楚，但在此期间，类地行星并不是孤立的。——Cambridge English Corpus）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

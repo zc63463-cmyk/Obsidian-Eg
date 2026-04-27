@@ -3,14 +3,12 @@ title: "robust"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 像橡树一样强壮的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/roʊˈbʌst/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**像橡树一样强壮的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **像橡树一样强壮的**（物理层面）
@@ -66,7 +64,7 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 robustus，来自 robur（橡树，引申为"力量"）。罗马人认为橡树是力量和耐久的象征。robust 的人就像橡树一样——强壮、耐久、经得起风雨。robust economy（强劲的经济）就像橡树一样经得起考验。和 robot（机器人）形近但无关。
@@ -90,7 +88,7 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fragile]]：脆弱的（robust 的反义：强健↔脆弱）
 > - [[weak]]：虚弱的（robust 的反义：强壮↔虚弱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **robust health**：强健的身体
 > - **robust economy**：强劲的经济
 > - **robust argument/evidence**：有力的论证/证据
@@ -127,19 +125,15 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The economy showed robust growth in the third quarter."（经济在第三季度显示出强劲增长——考研高频表达）
 > - "We need a more robust system to handle the increasing data volume."（我们需要一个更坚固的系统来处理日益增长的数据量）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

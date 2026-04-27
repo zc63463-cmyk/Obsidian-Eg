@@ -3,14 +3,12 @@ title: "scrutiny"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 仔细翻检搜索（像在垃圾堆中翻找一样）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈskruːtɪni/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**仔细翻检搜索**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **仔细翻检搜索**（物理动作层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 scrutari（翻检垃圾堆）→ 英语 scrutiny → 仔细审查。想象一个人在垃圾堆里仔细翻找，不放过任何一个角落——这就是 scrutiny。论文被仔细审查——flagged up for additional scrutiny。政府政策受到公众审视——under public scrutiny。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视，忽略（scrutiny 的精确反义：仔细审查↔忽视）
 > - [[oversight]]：疏忽（scrutiny 的反义：审查↔疏忽）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **under scrutiny**：受到审查
 > - **close/careful scrutiny**：仔细的审查
 > - **public scrutiny**：公众审视
@@ -139,20 +137,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers."（未经发表的原稿将会经由该杂志内部的编辑，或者是其现有的审核编辑委员会，又或是外部的同行评审专家来进行标记以备额外审查。——2015年英语一Text 3）
 > - "Her argument doesn't really stand up to scrutiny."（她的观点经不起认真推敲。——考研阅读高频表达）
 > - "Foreign policy has come under close scrutiny recently."（近来，政府的外交政策受到了认真彻底的审查。——考研翻译高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "fantastic"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 存在于想象中的（非现实的）
-extension_dim: 真实性光谱路径
+extension_dim: [真实性光谱路径]
 phonetic: "/fænˈtæstɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**存在于想象中的**"为统筹中心，沿真实性光谱路径向外扩展：
 >
 > 1. **存在于想象中的**（认知层面）
@@ -69,7 +67,7 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fantastic 来自希腊语 phantastikos（能想象的），词根 phan/phant（显现）。想象你在脑海中"看到"一幅画面——这就是 phantazein（想象）。fantastic 最初就是"只存在于想象中的"，后来语义翻转：太好了，好到像做梦一样——fantastic！注意考研中 fantastic 不只是"极好的"，还有"不切实际的"和"奇异的"含义。与 [[fantasy]]（幻想）、[[fancy]]（想象）同源。
@@ -91,7 +89,7 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[realistic]]：现实的（fantastic 不切实际的的反义：不切实际↔现实）
 > - [[ordinary]]：普通的（fantastic 极好的/奇异的反义：非凡↔普通）
 > - [[practical]]：实际的（fantastic 异想天开的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a fantastic idea**：一个极好的主意
 > - **a fantastic opportunity**：一个绝佳的机会
 > - **fantastic creatures**：奇异的生物
@@ -136,19 +134,15 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Placing too much emphasis on their opinions can ruin a fantastic home purchase."（过于强调他们的意见可能会毁掉一次极好的购房机会。——2017年考研英语阅读）
 > - "This tour transports you back in time to one of San Francisco's most fantastic periods, the 1950s!"（这次旅行带你穿越回旧金山最奇妙的时期之一——20世纪50年代！——考研英语阅读文化类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

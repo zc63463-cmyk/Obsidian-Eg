@@ -3,14 +3,12 @@ title: "whereas"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 在哪个地方/情况下（然而，鉴于）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/weərˈæz/"
 pos: conj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ where（哪里/在……的地方）+ as（如同/既然）。where 源自古英
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在哪种情况下**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在哪种情况下**（条件层面）
@@ -64,7 +62,7 @@ where（哪里/在……的地方）+ as（如同/既然）。where 源自古英
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ where（哪里/在……的地方）+ as（如同/既然）。where 源自古英
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > whereas = where（在哪里）+ as（如同）→ 在如同……的情况下 → 然而。whereas 的核心功能是"对比"——它像一面镜子，把两种不同的情况放在一起对照。Whereas most students prefer online learning, traditional classrooms still have unique advantages = 然而大多数学生更喜欢在线学习，传统课堂仍有独特优势。在法律文件中，whereas = "鉴于"——先陈述事实背景。
@@ -86,7 +84,7 @@ where（哪里/在……的地方）+ as（如同/既然）。where 源自古英
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ where（哪里/在……的地方）+ as（如同/既然）。where 源自古英
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - whereas 表示对比关系，逻辑上与"并列/递进"相对
 > - [[moreover]]：而且（whereas 表示对比，moreover 表示递进）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,25 +117,21 @@ where（哪里/在……的地方）+ as（如同/既然）。where 源自古英
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **whereas + 从句**：然而……（对比两种情况）
 > - **Whereas the parties...**：鉴于双方……（法律文件开头）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Whereas traditional education emphasizes rote memorization, modern pedagogical approaches focus on developing critical thinking and problem-solving skills."（传统教育强调死记硬背，而现代教学方法注重培养批判性思维和解决问题的能力——考研阅读教育话题相关表达）
 > - "Whereas the first study found no significant correlation between the two variables, the second study, conducted with a larger sample, revealed a strong positive relationship."（第一项研究未发现两个变量之间存在显著相关性，而第二项以更大样本进行的研究则揭示了强烈的正相关关系——考研阅读学术话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

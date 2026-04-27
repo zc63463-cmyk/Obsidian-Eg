@@ -3,14 +3,12 @@ title: "verdict"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 真实地说出（判断）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈvɜːrdɪkt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**真实地说出（判断）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **真实地说出**（语言行为：说出真实的判断）
@@ -68,7 +66,7 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马法庭上，陪审团必须对神起誓后才能开口——他们**真实地**（ver）**说出**（dict）的每一句话，就是具有法律效力的 **verdict**（裁决）。
@@ -92,7 +90,7 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[appeal]]：上诉（verdict 是最终裁决，appeal 是对裁决的不服而上诉）
 > - [[acquittal]]：无罪判决（verdict 包含有罪/无罪两种可能，acquittal 是特定的无罪结果）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reach a verdict**：做出裁决（The jury reached a verdict of guilty after three days of deliberation.）
 > - **pass/deliver a verdict**：宣布裁决（The judge delivered the verdict in a solemn tone.）
 > - **popular verdict**：公众的判断（The popular verdict on the new policy was overwhelmingly negative.）
@@ -132,23 +130,15 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The jury reached a verdict of guilty after hours of deliberation."（陪审团经过数小时的审议后做出了有罪裁决。）——考研高频表达
 > - "The public verdict on the new policy has been largely negative."（公众对新政策的评价大体上是负面的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

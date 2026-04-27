@@ -3,14 +3,12 @@ title: "rely"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 反复绑住
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈlaɪ/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ re-(反复) + ly(绑，同lig)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复绑住**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **反复绑住**（物理绑定）
@@ -64,7 +62,7 @@ re-(反复) + ly(绑，同lig)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(反复) + ly(绑，同lig)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（反复）+ ly（绑，同liable中的li）→ 反复绑在一起就是"依赖"。你rely on你的朋友，就像用一根无形的绳子把自己和朋友系在一起——风雨同舟。
@@ -88,7 +86,7 @@ re-(反复) + ly(绑，同lig)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ re-(反复) + ly(绑，同lig)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distrust]]：distrust表示"不信任"，与rely的"信赖"形成对立
 > - [[abandon]]：abandon表示"放弃"，与rely的"依赖"形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ re-(反复) + ly(绑，同lig)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rely on**：依赖，依靠
   > Many people rely on public transportation to commute to work.（许多人依赖公共交通通勤。）
 > - **rely on sb. to do sth.**：指望某人做某事
@@ -127,20 +125,14 @@ re-(反复) + ly(绑，同lig)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many animals rely on concealment for protection."（许多动物靠藏匿自己来避害。）——考研高频表达
 > - "It would be rash to rely on such evidence."（依靠这样的证据太轻率了。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

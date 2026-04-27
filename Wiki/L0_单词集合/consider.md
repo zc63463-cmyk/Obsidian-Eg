@@ -3,14 +3,12 @@ title: "consider"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 仔细观察星星（星象占卜）→ 深思熟虑
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈsɪdə/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**仔细观察思考**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **仔细观察星星**（物理动作层面）
@@ -68,7 +66,7 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sid-（星星）→ 想象古罗马占星师仰望星空，仔细观察每一颗星星的位置来做决定 → consider = 考虑。
@@ -91,7 +89,7 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（考虑 vs 忽视）
 - [[neglect]]：忽略（体谅 vs 忽略）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **consider doing sth.**：考虑做某事（We are considering moving to a new city.）
 > - **consider...as...**：把...看作（She is considered as one of the best scientists in the field.）
 > - **take...into consideration**：考虑到（We must take environmental factors into consideration.）
@@ -135,18 +133,12 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is essential to consider factors beyond GDP."（有必要考虑GDP之外的因素。）——2017年阅读Text3
 > - "Curiosity is often considered a good instinct."（好奇心通常被认为是一种良好的本能。）——2018年英语二完形填空
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

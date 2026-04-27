@@ -3,14 +3,12 @@ title: "blaze"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 发光的东西（明亮的火焰）
-extension_dim: 物理路径
+extension_dim: [物理路径]
 phonetic: "/bleɪz/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**发光的东西（明亮火焰）**"为统筹中心，沿物理路径向外扩展：
 >
 > 1. **发光的东西（明亮火焰）**（物理层面）
@@ -71,7 +69,7 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blaze 来自"火炬"（古英语 *blæse*）。想象黑暗中举着一把 blaze（火炬），照亮了前方的路。The building was ablaze = 大楼在燃烧（a-blaze = 在火焰中）。blaze a trail = 在树上烧出标记开辟道路→引申为"开辟新路"。blaze with anger = 怒火中烧（愤怒像火焰一样燃烧）。blaze 和 [[blade]]、[[blank]] 同源，都来自 *\*bhel-*（发光/白色）。
@@ -95,7 +93,7 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[darkness]]：黑暗（blaze 的反义：明亮火焰↔黑暗）
 > - [[dim]]：暗淡（blaze 的反义：闪耀↔暗淡）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a blaze of fire/light**：一团烈火/一片强光
 > - **set something ablaze**：点燃某物
 > - **blaze with anger** = 怒火中烧
@@ -139,19 +137,15 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The factory was set ablaze during the riot, and the fire blazed throughout the night."（工厂在暴乱中被点燃，大火燃烧了整整一夜。——通用例句）
 > - "She blazed a trail for women in science, becoming the first female professor in her field."（她为女性在科学领域开辟了道路，成为该领域第一位女教授。——考研人物传记类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

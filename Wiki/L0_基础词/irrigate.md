@@ -3,14 +3,12 @@ title: "irrigate"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 引水浇灌（将水引导到干旱的土地上）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈɪrɪɡeɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引水浇灌**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **引水浇灌**（农业层面）
@@ -64,7 +62,7 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ir（进入）+ rig（水）+ ate（使……）→ 使水进入 → 灌溉。古人在河边挖渠，把河水引到田里——这就是 irrigate。现代的 irrigate 系统包括水渠、水管、喷灌器。医生也用 irrigate 来描述冲洗伤口——把生理盐水引入伤口清洗。
@@ -87,7 +85,7 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drain]]：排水（irrigate 的反义：引水进入↔排水出去）
 > - [[dry]]：使干燥（irrigate 的反义：灌溉↔使干）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **irrigate farmland/land**：灌溉农田/土地
 > - **irrigated agriculture**：灌溉农业
 > - **irrigate a wound**：冲洗伤口
@@ -124,19 +122,15 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The ancient Egyptians developed sophisticated methods to irrigate their crops along the Nile."（古埃及人开发了精密的方法来灌溉尼罗河沿岸的农作物）
 > - "Without proper irrigation, the arid land would be unsuitable for farming."（没有适当的灌溉，干旱的土地将不适合耕种）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

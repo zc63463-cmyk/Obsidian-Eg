@@ -3,17 +3,14 @@ title: "commodity"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 共同交易的有用物品
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəˈmɒdəti/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: mod
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同需要的有用物品**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **共同需要的有用物品**（物质层面）
@@ -63,7 +60,7 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com-(共同) + mod(方便/适合)，大家共同觉得方便使用的东西——商品。
@@ -85,7 +82,7 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[waste]]：无价值的东西（commodity 是有价值的物品，waste 是无用的废弃物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **commodity economy**：商品经济
   > In a commodity economy, prices are determined by supply and demand.
   > 在商品经济中，价格由供求关系决定。
@@ -131,22 +128,16 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If, on the other hand, producing more of a commodity results in reducing its cost, this will tend to increase the supply offered by seller-producers."（另一方面，如果增加某种商品的产量能降低其成本，这将倾向于增加销售者提供的供给。）——考研英语真题
 > - "Water is a precious commodity that is often taken for granted in many parts of the world."（水是一种宝贵的商品，在世界上许多地方常常被视为理所当然。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

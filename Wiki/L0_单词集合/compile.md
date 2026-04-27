@@ -3,14 +3,12 @@ title: "compile"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 堆叠在一起
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kəmˈpaɪl/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**堆叠在一起**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **堆叠在一起**（空间层面——将分散物聚集）
@@ -65,7 +63,7 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（一起）+ pile（堆）：把一堆资料**堆在一起**整理成册 → "编纂"。
@@ -88,7 +86,7 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[scatter]]：散开（compile 是聚合，scatter 是分散）
 > - [[decompile]]：反编译（计算机领域，compile 的逆操作）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **compile a report/dictionary**：编纂报告/词典
   > The committee is compiling a report on environmental protection.（委员会正在编纂一份环保报告。）
 > - **compile data/statistics**：收集数据/统计数据
@@ -127,21 +125,15 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - She compiled a comprehensive guide to European art.（她编纂了一部欧洲艺术综合指南。）
 > - The data compiled by researchers suggests a significant trend.（研究人员收集的数据表明了一个显著趋势。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

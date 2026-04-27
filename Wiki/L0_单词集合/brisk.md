@@ -3,14 +3,12 @@ title: "brisk"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 轻快有力的动作
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/brɪsk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**轻快有力的动作**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **轻快有力的动作**（身体动作层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > brisk 和 brusque 是亲兄弟——都来自意大利语 brusco（酸的、粗糙的）。brisk 继承了"快速有力"的一面，brusque 继承了"粗糙直率"的一面。想象一个 brisk 的人走路带风，而一个 brusque 的人说话带刺——同一个源头，两种性格。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sluggish]]：迟缓的、懒散的（brisk 的精确反义：轻快↔迟缓）
 > - [[slow]]：慢的（最通用反义）
 > - [[lethargic]]：无精打采的（强调缺乏活力）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a brisk walk / pace**：轻快的散步/步伐
 > - **brisk trade / sales / business**：兴隆的生意/销售
 > - **brisk breeze / wind**：凉爽的微风/凛冽的风
@@ -134,7 +132,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "take long, brisk walks"（进行长时间轻快的散步）——六级真题，健康话题
 > - "moving through school at such a brisk pace"（以如此快的节奏完成学业）——六级真题，教育话题
 > - "doing a brisk trade"（生意兴隆）——常见商业语境搭配
@@ -142,15 +140,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

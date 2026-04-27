@@ -3,14 +3,12 @@ title: "ignite"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 点燃，燃烧
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/ɪɡˈnaɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**点燃，使燃烧**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **点燃，使燃烧**（物理动作）
@@ -66,7 +64,7 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ignite 源自拉丁语 ignis "火"。印度教火神 Agni 也来自同一个词根。ignite = 点火，引申为"点燃热情/争论"。ignition = 点火（汽车点火系统）。igneous rock = 火成岩（火山喷发形成的岩石）。记住 ign- = 火，ignite = 使有火 = 点燃。
@@ -88,7 +86,7 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extinguish]]：熄灭（点燃 ↔ 熄灭）
 > - [[smother]]：闷灭（点燃 ↔ 闷灭）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ignite a debate**：引发辩论——The speech ignited a heated debate.
 > - **ignite one's passion**：激发热情——The music ignited her passion for dance.
 > - **ignite a fire**：点火——He ignited the fire with a match.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new policy ignited a fierce debate among scholars."（新政策引发了学者之间的激烈辩论——ignite a debate 为考研写作可用搭配）
 > - "A single spark can ignite a prairie fire."（星星之火，可以燎原——ignite 在比喻语境中的经典用法）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

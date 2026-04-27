@@ -3,14 +3,12 @@ title: "identify"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 使确认同一性
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/aɪˈdentɪfaɪ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使确认同一性**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使确认同一性**（认知层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ident（相同）+ -ify（使）= identify（使确认同一→辨认）。想象你拿着一张寻人启事，仔细比对路人的面部特征，最终确认这个路人和照片上的人是同一个人。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[confuse]]：混淆（identify 是确认同一，confuse 是把不同的混为一谈）
 > - [[mistake A for B]]：把 A 误认为 B（identify 是正确辨认，mistake 是错误辨认）
 > - [[overlook]]：忽略（identify 是注意到并辨认，overlook 是没注意到）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **identify as**：辨认为…… — The victim identified as a college student.
 > - **identify with**：与……认同 — Many readers identify with the protagonist.
 > - **identify A with B**：把 A 和 B 等同起来 — We should not identify money with happiness.
@@ -140,22 +138,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is a mistake to identify economic growth with social progress."（考研英语——把经济增长与社会进步等同起来是错误的）
 > - "Researchers have identified several factors that contribute to climate change."（CET-6——研究人员已确定导致气候变化的几个因素）
 > - "The witness was unable to identify the suspect from a lineup."（IELTS——目击者无法从一排人中辨认出嫌疑人）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "corporation"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 被视为一个"身体"的法人团体
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌkɔːpəˈreɪʃn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被视为一个身体的法人团体**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被视为一个身体的法人团体**（本义：法律上被赋予独立人格的团体）
@@ -67,7 +65,7 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > corporation 和 [[corporate]] 同源——corpor（身体）。在法律上，corporation 是一个"法人"（legal person），它像人一样可以拥有财产、签订合同、被告上法庭。记住：corporation = "法人身体" = 公司。
@@ -90,7 +88,7 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[individual]]：个人（与"法人团体"形成对立）
 > - [[partnership]]：合伙企业（与"法人公司"形成法律形态对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **multinational corporation**：Many multinational corporations have established branches in China.（许多跨国公司在中国设立了分支机构。）
 > - **public corporation**：The BBC is a public corporation.（BBC是一家公营公司。）
 > - **corporation tax**：The government plans to raise corporation tax.（政府计划提高企业税。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "Many multinational corporations have established branches in China."（许多跨国公司在中国设立了分支机构。）——考研高频表达
 > - "International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment."（在那些对外开放并欢迎外资的国家中，国际分公司在生产中所占的份额正在快速增长。）——2001年考研阅读Text4
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

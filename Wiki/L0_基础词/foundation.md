@@ -3,14 +3,12 @@ title: "foundation"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 底部，地基（建筑物的最底层）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/faʊnˈdeɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**底部，地基**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **底部，地基**（物理层面）
@@ -67,7 +65,7 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > foundation 来自拉丁语 fundus"底部"。建房子先打 foundation（地基），没有地基房子会倒。学习也是一样——先打牢 foundation（基础），才能建高楼。一个 foundation（基金会）就是给事业提供"经济地基"的组织。foundation 就是那个"底"——一切从底部开始。
@@ -89,7 +87,7 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[superstructure]]：上层建筑（foundation 的反义：地基↔上层建筑）
 > - [[top]]：顶部（foundation 的反义：底部↔顶部）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lay the foundation for**：为……打下基础
 > - **solid foundation**：坚实的基础
 > - **without foundation**：没有根据的
@@ -132,20 +130,16 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Education lays the foundation for a successful career."（教育为成功的职业生涯奠定基础——考研高频表达）
 > - "The allegations were found to be without foundation."（这些指控被发现是没有根据的）
 > - "The Gates Foundation has donated billions to global health initiatives."（盖茨基金会已向全球卫生倡议捐赠了数十亿美元）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "tumble"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 翻滚，跌倒
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtʌmbl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ tumble 源自中古英语 tumblen，可能与 [[turn]]（转动）同源，暗�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**翻滚，跌倒**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **翻滚，跌倒**（物理层面——身体失去平衡翻滚而下）
@@ -65,7 +63,7 @@ tumble 源自中古英语 tumblen，可能与 [[turn]]（转动）同源，暗�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ tumble 源自中古英语 tumblen，可能与 [[turn]]（转动）同源，暗�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tumble 与 turn（转动）同源。想象你在山坡上脚一滑，身体不停地**翻滚**（tumble）着跌落，衣服在洗衣机里也是这样**翻滚**的。股价暴跌就像从山顶一路翻滚到谷底。
@@ -89,7 +87,7 @@ tumble 源自中古英语 tumblen，可能与 [[turn]]（转动）同源，暗�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ tumble 源自中古英语 tumblen，可能与 [[turn]]（转动）同源，暗�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rise]]：上升（暴跌 vs 上升）
 > - [[soar]]：猛增（暴跌 vs 猛增）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,29 +117,23 @@ tumble 源自中古英语 tumblen，可能与 [[turn]]（转动）同源，暗�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tumble down**：倒塌，滚落（The old building tumbled down in the storm. 那座旧建筑在风暴中倒塌了。）
 > - **tumble over**：绊倒（She tumbled over the carpet. 她被地毯绊倒了。）
 > - **share prices tumbled**：股价暴跌（Share prices tumbled on the stock exchange. 交易所股价暴跌。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Share prices continued to tumble today on the Tokyo stock market."（东京股市股价今天持续暴跌。）——考研高频表达
 > - "When the stock market tumbled beginning in 2000, what had been a large aggregate asset became a net liability."（当股市从2000年开始暴跌时，原本庞大的总资产变成了净负债。）——考研高频表达
 > - "Mortgage rates tumbled to their lowest level for 25 years."（抵押贷款利率跌至25年来的最低水平。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

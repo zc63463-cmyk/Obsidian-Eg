@@ -3,14 +3,12 @@ title: "existence"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 向外站立的状态
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪɡˈzɪstəns/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外站立的状态**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向外站立的状态**（物理层面）
@@ -69,7 +67,7 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 一棵树**向外**（ex-）**站立**（ist）起来，它的**存在**（-ence）让整片森林有了灵魂——任何事物的"存在"都是从虚无中站出来的过程。
@@ -92,7 +90,7 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nonexistence]]：不存在（existence 的直接反义）
 > - [[extinction]]：灭绝、消亡（物种/事物的存在终结）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the existence of**：……的存在
 >   The existence of gravity was not fully understood until Newton.（直到牛顿时代，引力的存在才被充分理解。）
 > - **come into existence**：形成，产生
@@ -135,23 +133,15 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Most religions posit the existence of life after death."（大多数宗教都假定人死后生命仍存在。）——考研高频表达
 > - "I was unaware of his existence until today."（直到今天我才知道有他这么个人。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,17 +3,14 @@ title: "carbohydrate"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 碳水化合物（碳+水构成的有机物）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌkɑːbəʊˈhaɪdreɪt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: carbo
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**碳水化合物（碳+水构成的有机物）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **碳水化合物**（化学层面）
@@ -64,7 +61,7 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > carbohydrate = carbo（碳）+ hydr（水）+ ate（化合物后缀）。名字直接告诉你它的组成——碳和水。科学家发现这类有机物的分子中碳和水的比例像碳被水"水化"了一样，所以命名为"碳水"化合物。米饭、面包、糖都是碳水化合物，是人体最重要的能量来源。
@@ -86,7 +83,7 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[protein]]：蛋白质（carbohydrate 的反义：碳水化合物↔蛋白质，两大营养素对比）
 > - [[fat]]：脂肪（carbohydrate 的反义：碳水↔脂肪，三大宏量营养素对比）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **complex/simple carbohydrates**：复杂/简单碳水化合物
 > - **cut down on carbohydrates**：减少碳水摄入
 > - **carbohydrate intake**：碳水化合物摄入量
@@ -129,19 +126,15 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Also, not all of the carbon dioxide that enters the leaf is synthesized into carbohydrates."（此外，进入树叶的二氧化碳并非全部合成为碳水化合物——1990年考研英语阅读Text 3）
 > - "Carbohydrates provide our bodies with heat and energy."（碳水化合物给我们的身体提供热量和能量——考研翻译相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

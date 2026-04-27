@@ -3,14 +3,12 @@ title: "include"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 将某物作为整体的一部分包含在内
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈkluːd/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"——来自
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**将某物纳入整体**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **将某物纳入整体**（关系层面——包含关系）
@@ -63,7 +61,7 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"——来自
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"——来自
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > include = in（在内）+ clude（关闭）= 关在里面 = 包含。把门关上，把东西关在里面，就是"包含"。同理，[[exclude]] = ex（在外）+ clude = 关在外面 = 排除。
@@ -85,7 +83,7 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"——来自
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"——来自
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[exclude]]：排除——"包含"的直接反义（ex + clude = 关在外面）
 > - [[omit]]：省略——"列入"的反义
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,27 +114,21 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"——来自
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **include sth in**：将……列入（The price includes breakfast.）
 > - **including**：包括（The team, including the coach, was present.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The research project includes several phases of data collection and analysis.（该项目包括数据收集和分析的几个阶段。）
 > - Tuition fees do not include accommodation and living expenses.（学费不包括住宿和生活费。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

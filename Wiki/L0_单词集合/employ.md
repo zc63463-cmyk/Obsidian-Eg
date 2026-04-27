@@ -3,14 +3,12 @@ title: "employ"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 卷入使用
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪmˈplɔɪ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**卷入使用**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **卷入使用**（人员层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > em（使进入）+ ploy（折叠）= 把人折叠进来。想象老板把一份合同**折好**递给你——你被"折叠进"了公司，这就是 employ（雇用）。同样，你 employ（使用）一种方法，就是把这种方法"卷进来"帮你解决问题。deploy（部署）是你的兄弟——de（展开）+ ploy（折叠）= 把折叠好的展开部署。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dismiss]]：解雇（employ "雇用"的直接反义：雇用↔解雇）
 > - [[fire]]：开除（employ 的口语反义）
 > - [[unemploy]]：使失业（employ 的否定形式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **employ sb. to do sth.**：雇用某人做某事
   - *The company employed a team of experts to develop the new software.*（公司雇用了一组专家来开发新软件。）
 > - **employ a method/strategy**：使用一种方法/策略
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "employ a method/approach"（使用方法/途径）——考研阅读中学术论证类文章常见搭配
 > - "employ sb. to do"（雇用某人做）——考研阅读中描述雇佣关系
 > - "employment rate/opportunities"（就业率/就业机会）——考研阅读中社会经济类文章高频话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

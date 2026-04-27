@@ -3,14 +3,12 @@ title: "endurance"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 持续忍受困难的能力
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪnˈdjʊərəns/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**持续忍受困难的能力**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **持续忍受困难的能力**（身体/心理层面）
@@ -64,7 +62,7 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > endurance 是 endure（忍受）的名词形式。en（使）+ dur（持续）+ ance（能力）→ 持续的能力 → 忍耐力。跑马拉松需要 endurance，长期忍受困难也需要 endurance。He began visiting the gym to build up his strength and endurance（他开始去健身房锻炼力量和耐力）。
@@ -86,7 +84,7 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fragility]]：脆弱（endurance 忍耐力的反义：耐力↔脆弱）
 > - [[exhaustion]]：疲惫（endurance 耐力的反义：耐力↔耗尽）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **physical/mental endurance**：身体/心理耐力
 > - **endurance training**：耐力训练
 > - **beyond endurance**：无法忍受
@@ -126,19 +124,15 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He began visiting the gym to build up his strength and endurance."（他开始去健身房锻炼力量和耐力——剑桥词典例句）
 > - "Frailty manifests the following core clinical features: loss of strength, weight loss, low levels of activity, poor endurance or fatigue."（衰弱表现为以下核心临床特征：力量丧失、体重减轻、活动水平低、耐力差或疲劳——剑桥学术词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

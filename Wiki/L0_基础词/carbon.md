@@ -3,14 +3,12 @@ title: "carbon"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 碳（化学元素）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkɑːbən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**碳（化学元素）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **碳**（化学层面）
@@ -65,7 +63,7 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > carbon 来自拉丁语 *carbo*（煤炭）。煤炭燃烧后留下的黑色余烬就是碳——它是地球上最核心的元素之一。钻石和铅笔芯（石墨）都是碳。如今 carbon 最常出现在"carbon emissions"（碳排放）和"carbon footprint"（碳足迹）中，成为环保话题的核心词汇。
@@ -88,7 +86,7 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（carbon 为化学元素名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **carbon dioxide (CO2)**：二氧化碳
 > - **carbon emissions**：碳排放
 > - **carbon footprint**：碳足迹
@@ -129,19 +127,15 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Who would have thought that, globally, the IT industry produces about the same volume of greenhouse gases as the world's airlines do — roughly 2 per cent of all CO2 emissions?"（谁能想到，全球IT行业产生的温室气体总量与全世界航空业大致相当——约占所有二氧化碳排放量的2%——2011年考研英语二翻译）
 > - "Reducing emissions of carbon dioxide, however, is another matter."（然而，减少二氧化碳的排放量则需另辟蹊径——考研阅读相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

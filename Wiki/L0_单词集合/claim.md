@@ -3,14 +3,12 @@ title: "claim"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 大声呼喊要求→声称/索赔
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kleɪm/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ claim（大声呼喊→声称，拉丁语 clamare）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**大声呼喊提出要求→声称拥有权利**"为统筹中心，沿**社会路径**向外扩展：
 
@@ -65,7 +63,7 @@ claim（大声呼喊→声称，拉丁语 clamare）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -76,7 +74,7 @@ claim（大声呼喊→声称，拉丁语 clamare）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 在广场上大声 claim（呼喊）：'这块地是我的！'——从公开宣告权利到声称、索赔
@@ -88,7 +86,7 @@ claim（大声呼喊→声称，拉丁语 clamare）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ claim（大声呼喊→声称，拉丁语 clamare）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[deny]]：<claim 声称 vs deny 否认>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -117,27 +115,21 @@ claim（大声呼喊→声称，拉丁语 clamare）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **claim to do/be**（声称）：He claims to be an expert.（他自称是专家。）
 - **make a claim**（提出索赔/声明）：She made a claim for damages.（她提出了损害赔偿要求。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - The company claims that its product is the best on the market.（该公司声称其产品是市场上最好的。）
 - You can claim a refund if the product is defective.（如果产品有缺陷，你可以申请退款。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

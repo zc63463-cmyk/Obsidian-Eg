@@ -3,17 +3,14 @@ title: "ruthless"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 没有怜悯（缺乏同情心）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈruːθləs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: ruth
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**没有怜悯**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **没有怜悯**（情感层面）
@@ -64,7 +61,7 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ruthless = ruth（怜悯）+ less（没有）。ruth 是一个几乎消失的古词，意思是"怜悯、同情"。所以 ruthless 就是"没有怜悯的"——一个 ruthless 的竞争者不会因为对手弱小就手下留情。反义词是 [[merciless]]（同样"无情的"）。
@@ -87,7 +84,7 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[merciful]]：仁慈的（ruthless 的精确反义：无情↔仁慈）
 > - [[compassionate]]：有同情心的（ruthless 的反义：无怜悯↔有同情心）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ruthless competition**：残酷的竞争
 > - **ruthless dictator**：无情的独裁者
 > - **ruthless determination**：不屈不挠的决心
@@ -126,18 +123,14 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The company was ruthless in cutting costs during the financial crisis.（这家公司在金融危机期间毫不留情地削减成本。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

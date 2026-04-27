@@ -3,14 +3,12 @@ title: "verse"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 犁沟翻转→一行文字
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/vɜːrs/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -48,7 +46,7 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**犁沟翻转→一行行排列**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **犁沟翻转**（物理层面：犁刀翻转泥土的动作）
@@ -71,7 +69,7 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古代农夫犁田，犁刀**翻转**（vers）泥土，留下一道道平行的沟——诗人写诗，笔尖在纸上**翻转**，留下一行行优美的 **verse**（诗句）。犁沟与诗句，都是大地上最美的平行线。
@@ -96,7 +94,7 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,12 +107,12 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prose]]：散文（verse 韵文 vs. prose 散文，文学两大基本形式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **blank verse**：无韵诗（Shakespeare wrote most of his plays in blank verse.）
 > - **free verse**：自由诗（Modern poets often prefer free verse over traditional forms.）
 > - **be versed in**：精通，熟悉（She is well versed in classical literature.）
@@ -138,23 +136,15 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She quoted a few verses from a poem to illustrate her point."（她引用了几句诗来阐明自己的观点。）——考研高频表达
 > - "During the discussion of rock singing verses at last month's meeting, Levin asserted that music is not the cause of society's ills."（在上个月会议上讨论摇滚歌词时，莱文断言音乐不是社会弊病的根源。）——1997考研阅读Text4
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

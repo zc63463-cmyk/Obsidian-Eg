@@ -3,14 +3,12 @@ title: "recur"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 再次跑回来（从远处再次回到原点）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈkɜːr/"
 pos: vi.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**再次跑回来（从远处再次回到原点）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **再次跑回来**（事件层面）
@@ -64,7 +62,7 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（再）+ cur（跑）→ 再次跑回来。一个治好的病人，病毒又跑回来了——the illness recurred（疾病复发了）。一个离开的念头又跑回来了——memories recurred（记忆重现了）。recur 就是"再次跑回来"的动作。
@@ -86,7 +84,7 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cease]]：停止（recur 的反义：再发生↔停止）
 > - [[disappear]]：消失（recur 的反义：重现↔消失）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **recur to sb**：浮现在某人脑海中
 > - **a recurring problem/theme**：反复出现的问题/主题
 > - **tend to recur**：倾向于复发
@@ -130,19 +128,15 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "This theme recurs several times in the plot of the film."（这一主题在电影情节中出现了好几次。——考研高频表达）
 > - "The same issues seem to recur every year in our department."（同样的问题似乎每年在我们部门都会再次出现。——语料库例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

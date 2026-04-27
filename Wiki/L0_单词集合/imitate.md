@@ -3,14 +3,12 @@ title: "imitate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 按照某种模式复制
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɪmɪteɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**按照某种模式复制**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **按照某种模式复制**（社会行为层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > imitate 和 [[image]]（图像）、[[imagine]]（想象）是同根词——都来自 PIE 词根 *\*aim-*（复制）。你可以这样理解：[[image]] 是复制出来的"图像"，[[imagine]] 是在脑中"复制"出图像，而 imitate 是直接"复制"某个行为或产品。三个词共享同一个基因：复制/再现。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[originate]]：首创，起源（imitate 的反义：从复制到原创）
 > - [[create]]：创造（从复制已有到创造新事物）
 > - [[innovate]]：创新（从模仿到革新）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **imitate sb's behavior/style**：模仿某人的行为/风格
 > - **imitate a model**：模仿榜样
 > - **imitate the original**：仿造原件
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Children learn language by imitating those around them."（儿童通过模仿周围的人来学习语言）——语言学/教育类阅读
 > - "It is difficult to imitate the company's business model."（很难模仿该公司的商业模式）——商业类阅读
 > - "Artists often imitate the works of the masters."（艺术家常常临摹大师的作品）——艺术/文化类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

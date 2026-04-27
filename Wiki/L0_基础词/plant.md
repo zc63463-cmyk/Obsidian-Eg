@@ -3,14 +3,12 @@ title: "plant"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 种植（把植物幼苗放入土中）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/plɑːnt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**种植（把植物幼苗放入土中使其生长）**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **种植动作**
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > plant 来自拉丁语"幼苗"——把幼苗放入土中就是"种植"。植物是 plant，发电厂是 power plant（"种"在地上的发电设施），把炸弹安放好是 plant a bomb，把想法灌输到别人脑子里是 plant an idea。plant 就是"种植"——从植物到工厂到想法。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[animal]]：动物（plant 作为"植物"的精确反义：植物↔动物）
 > - [[uproot]]：连根拔起（plant 作为"种植"的反义：种植↔拔除）
 > - [[remove]]：移除（plant 作为"安放"的反义：安放↔移除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **power plant**：发电厂
 > - **plant trees**：种树
 > - **plant an idea in someone's mind**：在某人心中灌输想法
@@ -137,19 +135,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Of course, there's a reason why banana plantations rely heavily on pesticides."（当然，香蕉种植园大量依赖农药是有原因的。——NPR 语料库）
 > - "The president-elect owns controlling shares in banks, investment funds, agricultural estates, a soda maker and tobacco plantations."（当选总统在银行、投资基金、农业庄园、一家汽水制造商和烟草种植园中拥有控股权。——Huffington Post）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

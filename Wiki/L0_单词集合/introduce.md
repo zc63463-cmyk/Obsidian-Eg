@@ -3,14 +3,12 @@ title: "introduce"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 把某物带入内部
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌɪntrəˈdjuːs/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把某物带入内部**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **把某物带入内部**（社交层面）
@@ -71,7 +69,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > introduce 来自拉丁语 *introducere*，intro-（向内）+ *ducere*（引导）。想象一场宴会上，你拉着一位新朋友的手，穿过人群，把他"带入"你的朋友圈，向大家说"这位是我的朋友"——这就是 introduce a person（介绍）。再想象一个国家的领导人，把一项先进技术从国外"带入"自己的国家——这就是 introduce a technology（引进技术）。introduce 的本质就是"带入"。
@@ -95,7 +93,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[remove]]：移除，排除（引入↔移除）
 > - [[eliminate]]：消除，淘汰（引进↔淘汰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **introduce oneself**：自我介绍（Allow me to introduce myself.）
 > - **introduce A to B**：把A介绍给B（Let me introduce you to my colleague.）
 > - **introduce a policy/system**：推行政策/制度（The government introduced a new tax system.）
@@ -132,22 +130,16 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case."（正是联邦巡回法院自己在1998年所谓的美国道富银行案判决中引入了此类专利。）——2010考研英语阅读Text2
 > - "The government has introduced a series of measures to stimulate economic growth."（政府已出台一系列措施以刺激经济增长。）——考研高频表达
 > - "The author introduces a new perspective on the relationship between language and thought."（作者对语言与思维之间的关系提出了新的视角。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

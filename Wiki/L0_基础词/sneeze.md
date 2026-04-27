@@ -3,14 +3,12 @@ title: "sneeze"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 打喷嚏（鼻子突然喷气的动作）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/sniːz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打喷嚏**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **打喷嚏**（动作层面）
@@ -66,7 +64,7 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sneeze 来自古英语 *fnēosan*，属于 sn- 拟声词族，模仿鼻子喷气的声音。核心画面就是"花粉飘进鼻子，你'阿嚏'一声"。考研重点短语 not to be sneezed at（不可轻视的）——打喷嚏虽小但不能忽视，就像一笔小钱虽不多但也不该被轻视。
@@ -89,7 +87,7 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - sneeze 没有精确反义词，属于身体反射类词汇
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sneeze at**：轻视（用于否定句：not to be sneezed at）
 > - **sneeze into a tissue**：打喷嚏到纸巾里
 > - **catch a cold and sneeze**：感冒打喷嚏
@@ -126,19 +124,15 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The salary they offered was not to be sneezed at, though it was still below what she had hoped for."（他们提供的薪水虽然低于她的期望，但也不可小觑——考研阅读职场话题相关表达）
 > - "When someone sneezes, it is considered polite in many cultures to say 'Bless you' or 'Gesundheit'."（在许多文化中，当有人打喷嚏时，说"保佑你"或"祝你健康"被认为是有礼貌的——考研翻译文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

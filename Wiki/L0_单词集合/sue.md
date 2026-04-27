@@ -3,17 +3,14 @@ title: "sue"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 追求/请求
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/suː/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: sue
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**追求/请求**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **追求/请求**（社会交往层面）
@@ -64,7 +61,7 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sue 和 follow（跟随）同源。想象你被冤枉了，你**跟随**对方一路追到法院——你在 sue（起诉）他。追着要说法 = sue。
@@ -81,7 +78,7 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -93,13 +90,13 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[defend]]：为……辩护（被起诉后的回应）
 > - [[drop]]：撤诉（sue 的反向行为）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -110,7 +107,7 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sue sb. for sth.**：因某事起诉某人
   - She sued the company for breach of contract.（她因违约起诉了该公司。）
 > - **sue for peace**：求和
@@ -118,19 +115,15 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "David Williams's suit should trouble this gambling nation."（大卫·威廉姆斯的诉讼应该让这个赌博之国感到不安——2006年考研新题型）
 > - "Consumers are increasingly willing to sue companies that sell defective products."（消费者越来越愿意起诉销售缺陷产品的公司——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

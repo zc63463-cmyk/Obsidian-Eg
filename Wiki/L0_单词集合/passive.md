@@ -3,14 +3,12 @@ title: "passive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 一味忍受而不反抗
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈpæsɪv/"
 pos: adj.
 metaphor_type: 转喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一味忍受而不反抗**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **一味忍受而不反抗**（行为层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pass（忍受，pati 的变形）+ ive（倾向……的）→ 倾向忍受的 → **被动的**。想象一个人面对不公正只默默忍受，从不反抗——这就是 passive。从"忍受"到"不主动"再到"消极被动"，passive 描述的是一种"只承受、不行动"的状态。语法中的被动语态（passive voice）也是一样——主语是动作的承受者，不是发出者。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[active]]：主动的，积极的（passive 的精确反义：被动↔主动）
 > - [[proactive]]：积极主动的
 > - [[assertive]]：果断的，有主见的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **passive attitude**：消极态度
 > - **passive smoking**：被动吸烟，二手烟
 > - **passive voice**：被动语态（语法）
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Passive smoking is harmful to health."（被动吸烟有害健康）——考研阅读健康/社会类话题高频表达
 > - "Students should not be passive recipients of knowledge."（学生不应是知识的被动接受者）——考研写作教育类话题
 > - "The passive voice is commonly used in academic writing."（被动语态在学术写作中常用）——语言学/写作类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

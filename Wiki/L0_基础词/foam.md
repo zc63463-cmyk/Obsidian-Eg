@@ -3,14 +3,12 @@ title: "foam"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 起泡聚集（液体表面形成的气泡群）
-extension_dim: 物理路径
+extension_dim: [物理路径]
 phonetic: "/fəʊm/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**起泡聚集（液体表面形成的气泡群）**"为统筹中心，沿物理路径向外扩展：
 >
 > 1. **气泡聚集**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > foam 是一个拟声词，模拟气泡"噗噗"破裂的声音。海浪拍打礁石，激起一片白色泡沫——这就是 foam 最原始的画面。考研中可能出现在环境或科学话题中。记住：foam = 泡沫，foam at the mouth = 口吐白沫（愤怒）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - foam 本身为自然现象词，无精确反义词
 > - 可对比：[[solid]]（固体）——泡沫 vs 固体（多孔 vs 致密）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sea foam**：海沫
 > - **foam rubber**：泡沫橡胶
 > - **foam at the mouth**：口吐白沫（愤怒）
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The waves crashed against the rocks, sending up clouds of white foam."（海浪撞击礁石，激起大片白色泡沫——考研阅读自然描写常见表达）
 > - "Scientists have developed a new type of foam material that can absorb oil spills more effectively."（科学家开发了一种新型泡沫材料，能更有效地吸收石油泄漏物——考研阅读科技话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

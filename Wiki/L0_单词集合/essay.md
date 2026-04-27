@@ -3,14 +3,12 @@ title: "essay"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 尝试性地称量一件事
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈeseɪ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**尝试性地称量一件事**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **尝试性地称量一件事**（写作层面）
@@ -66,7 +64,7 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > essay 来自法语 *essai*，最终来自拉丁语 *exagium*（称量），与 [[essence]]（本质）同源。想象一个作家把思想放在天平上"称量"——他尝试性地表达自己的观点，这就是 essay（散文）。essay 的本质就是"尝试"——写散文是思想的尝试，做某事是行动的尝试。
@@ -89,7 +87,7 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - essay 本身为具体名词/动词，无直接反义词
 > - 相关概念：[[accomplish]]（完成↔尝试）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,27 +119,21 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **write an essay**：写散文/论文（The students were asked to write an essay on climate change.）
 > - **essay a task**：尝试做某事（He essayed to repair the broken machine.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The essay discusses the impact of globalization on local cultures."（这篇文章讨论了全球化对本土文化的影响。）——考研高频表达
 > - "Students are required to write a 3000-word essay on the topic of environmental protection."（学生被要求写一篇3000字的关于环境保护的论文。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

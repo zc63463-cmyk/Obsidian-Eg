@@ -3,14 +3,12 @@ title: "senate"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 长老院（由年长智者组成的议事机构）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsenət/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**长老院**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **长老院**（古罗马层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > senate 来自拉丁语 *senatus*，词根 *senex* 意为"老人、长者"。古罗马的元老院就是由最有经验的贵族长者组成的最高决策机构。美国的参议院（Senate）继承了这一传统——参议员（senator）通常年龄较大、经验丰富。大学里的评议会也叫 senate，由资深教授组成。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[assembly]]：下议院（某些体系中 senate 上院 ↔ assembly 下议院）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Senate**：参议院
 > - **Senate committee**：参议院委员会
 > - **the Senate Finance Committee**：参议院财政委员会
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The good news is that a bill just approved by the House and a bill approved by the Senate Finance Committee would implement or test many reforms that should help slow the rise in medical costs over the long term."（好消息是，众议院刚通过的一项议案和参议院财政委员会通过的一项议案将实施或测试许多改革，这些改革应该有助于长期减缓医疗费用的上涨——2016年6月阅读）
 > - "The Senate bill would create an independent commission to monitor the pilot programs and recommend changes in Medicare's payment policies."（参议院的议案将建立一个独立委员会来监督试点项目，并建议修改医疗保险的支付政策——2016年6月阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

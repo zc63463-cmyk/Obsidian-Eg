@@ -3,14 +3,12 @@ title: "naughty"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 无所事事的、什么都没有的（因无事可做而淘气）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈnɔːti/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无所事事的、什么都没有的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **什么都没有**（状态层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > naughty = naught（无、零）+ -y（有……性质的）= 什么都没有的 = 淘气的。naught = nothing。一个孩子"什么都没有"——没有正事可做，于是开始捣蛋——这就是 naughty 的原始画面。naughty child = 淘气的孩子。Don't be naughty! = 别淘气！naughty 的委婉用法：a naughty joke = 荤段子（轻松的委婉表达）。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[well-behaved]]：表现好的（naughty 的精确反义：淘气↔乖巧）
 > - [[obedient]]：听话的（naughty 的反义：不听话↔听话）
 > - [[good]]：好的（naughty 的反义：淘气↔好）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **naughty child / boy / girl**：淘气的孩子/男孩/女孩
 > - **naughty behavior**：不良行为
 > - **a naughty joke**：荤段子（委婉语）
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Parents who are too permissive may find that their children become increasingly naughty and difficult to manage as they grow older."（过于放任的父母可能会发现，随着孩子年龄增长，他们会变得越来越淘气、越来越难管教——考研阅读教育话题相关表达）
 > - "What was once considered naughty behavior in children is now often recognized as a natural part of cognitive development and exploration."（曾经被认为是儿童淘气行为的表现，如今常常被认识到是认知发展和探索的自然组成部分——考研翻译心理学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

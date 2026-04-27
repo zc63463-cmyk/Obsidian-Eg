@@ -3,17 +3,14 @@ title: "criminal"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 犯罪的人（被裁定犯有罪行的人）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkrɪmɪnl/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: crime
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**犯罪的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **犯罪的人**（人物层面）
@@ -66,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > criminal 直接来自 crime（罪行）。犯下 crime 的人就是 criminal（罪犯）。警察抓 criminal，法院审判 criminal，criminal law（刑法）专门处理 criminal 的行为。当你说"it's a criminal waste"时，你是在说这种浪费简直像犯罪一样不可原谅。
@@ -89,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[victim]]：受害者（criminal 的反义：罪犯↔受害者）
 > - [[law-abiding]]：守法的（criminal 作为"犯罪的"的反义：犯罪↔守法）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **criminal law**：刑法
 > - **criminal behavior**：犯罪行为
 > - **criminal record**：犯罪记录
@@ -130,18 +127,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - 暂无真题关联记录，待补充。
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

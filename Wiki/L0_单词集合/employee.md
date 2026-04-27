@@ -3,17 +3,14 @@ title: "employee"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 被卷入使用的人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪmˈplɔɪiː/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: employ
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被卷入使用的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被卷入使用的人**（劳动关系层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > employ（雇用）+ ee（被……的人）= 被雇用的人。记住 -ee 后缀的规律：employer 是**雇你的人**（老板），employee 是**被雇的你**（员工）。同样的规律：trainer（训练你的人）vs trainee（被训练的你），interviewer（面试你的人）vs interviewee（被面试的你）。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[employer]]：雇主（employee 的直接反义：雇员↔雇主，雇佣关系的两端）
 > - [[unemployed]]：失业者（employee 的状态反义：有工作↔无工作）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **employee benefits**：员工福利
   - *The company offers comprehensive employee benefits, including health insurance and paid leave.*（公司提供全面的员工福利，包括健康保险和带薪休假。）
 > - **full-time/part-time employee**：全职/兼职员工
@@ -128,22 +125,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "employee benefits/rights"（员工福利/权利）——考研阅读中劳动经济类文章高频话题
 > - "employee turnover/productivity"（员工流失率/生产力）——考研阅读中管理学话题常见搭配
 > - "employee training/development"（员工培训/发展）——考研阅读中人力资源话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

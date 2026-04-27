@@ -3,14 +3,12 @@ title: "through"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 从一端穿到另一端
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/θruː/"
 pos: prep.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从一端穿到另一端**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从一端穿到另一端**（物理空间层面）
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > through 和 thorough 是一对"同源兄弟"——都来自古英语 *þurh*。through 侧重"穿过"的过程，thorough 侧重"彻底"的结果。想象你**穿过**（through）一条隧道，走得很**彻底**（thorough），最终到达另一端。从空间穿越到时间贯穿再到手段凭借，through 的核心画面始终是"从起点到终点"。
@@ -99,7 +97,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[round]]：绕过（绕行而非穿过，through 的空间反义）
 > - [[without]]：没有（through 表示"凭借"，without 表示"没有凭借"）
 > - [[incomplete]]：未完成的（be through 表示"完成"，incomplete 为其反义状态）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **go/walk/drive through**：穿过，经过
 > - **get through**：通过（考试）；接通（电话）；度过（难关）
 > - **see through**：看穿，识破
@@ -145,7 +143,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The river flows through the valley."（河流流经山谷）——考研阅读常见空间描写
 > - "She succeeded through sheer determination."（她凭借纯粹的决心获得了成功）——考研写作常用因果表达
 > - "get through the examination"（通过考试）——考研高频搭配
@@ -153,15 +151,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

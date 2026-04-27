@@ -3,14 +3,12 @@ title: "complete"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 完全填满
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kəmˈpliːt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -27,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**完整的；完全的**==；②完成的；结束的；③彻底的；
-**vt.** ①完成；结束；②使完善；
+**adj.** ①==**完整的；完全的**== `be adj` / `a adj N`；②完成的；结束的；③彻底的；
+**vt.** ①==**完成，结束**== `V N` ；②使完善；
 
 > [!tip] 原型义
 > **原型义**：完全填满——没有缺失
@@ -44,7 +42,7 @@ com-(完全) + [[ple]](填充) + -te(动词/形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全填满**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **完全填满**（空间层面——没有空缺）
@@ -68,7 +66,7 @@ com-(完全) + [[ple]](填充) + -te(动词/形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ com-(完全) + [[ple]](填充) + -te(动词/形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（完全）+ ple（填充）：**完全填充**所有空缺 → "完整的"。
@@ -93,7 +91,7 @@ com-(完全) + [[ple]](填充) + -te(动词/形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ com-(完全) + [[ple]](填充) + -te(动词/形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[incomplete]]：不完整的
 > - [[partial]]：部分的；不完全的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,31 +123,23 @@ com-(完全) + [[ple]](填充) + -te(动词/形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
+> - **a complete set of**：一整套（强调齐全）
 > - **complete a task/project**：完成任务/项目
-  > The team completed the project ahead of schedule.（团队提前完成了项目。）
-> - **a complete set of**：一整套
-  > She owns a complete set of Shakespeare's plays.（她拥有一整套莎士比亚戏剧集。）
+> - **a complete stranger**：完全陌生的人
 > - **complete failure/success**：彻底的失败/成功
-  > The experiment was a complete failure.（实验彻底失败了。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The construction of the new bridge is expected to be completed by next year.（新桥的建设预计将于明年完成。）
-> - We need a complete picture of the situation before making a decision.（在做决定之前，我们需要全面了解情况。）
+> [!example]- 语料
+> - The construction of the new bridge is expected to be completed by next year. `[例]`
+> - We need a complete picture of the situation before making a decision. `[例]`
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

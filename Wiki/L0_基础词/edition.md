@@ -3,14 +3,12 @@ title: "edition"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 呈现出来的作品——一个版本
-extension_dim: 符号路径
+extension_dim: [符号路径]
 phonetic: "/ɪˈdɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**呈现出来的作品——一个版本**"为统筹中心，沿符号路径向外扩展：
 >
 > 1. **向外呈现的作品**（产物层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > edition 源自拉丁语 *editio*（出版、发行），是 *edere*（向外呈现）的名词形式。一部作品经过 edit（编辑）后"向外呈现"，每一次印刷发行就是一个 edition（版本）。first edition = 第一版。limited edition = 限量版。paperback edition = 平装版。edition 的灵魂是"版本"——作品的一次次亮相。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[original]]：原稿，原件（edition 的反义：印刷版本↔原始手稿）
 > - [[manuscript]]：手稿（edition 的反义：印刷版↔手写稿）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **first edition**：第一版，初版
 > - **revised / updated edition**：修订版/更新版
 > - **special / limited edition**：特别版/限量版
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The first edition of Darwin's 'On the Origin of Species' was published in 1859 and sold out on the very first day."（达尔文《物种起源》的第一版于1859年出版，第一天就售罄。——考研阅读科学史话题相关表达）
 > - "The publisher has decided to bring out a new edition of the dictionary with updated entries and illustrations."（出版社决定推出词典的新版本，更新词条和插图。——考研阅读出版话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "pace"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 一步、步伐
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/peɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一步、步伐**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **一步、步伐**（物理动作层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pace 来自拉丁语 passus（一步）。想象你站在起跑线上，迈出第一步——这就是 pace。从这一步出发：你走得快不快是 pace（步速），社会发展快不快也是 pace（节奏），你控制自己别跑太快是 pace yourself。记住 pass = 步，pace 就是步伐。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - pace 本身无明显精确反义词，以下为语义对立概念：
 > - [[standstill]]：停滞（pace 的反义：有步伐↔停滞不前）
 > - [[slowness]]：缓慢（速度层面反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **keep pace with**：与…并驾齐驱，保持同步
 > - **the pace of change / life / development**：变化/生活/发展的节奏
 > - **at a steady / rapid / slow pace**：以稳定/快速/缓慢的步伐
@@ -136,7 +134,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is important to keep pace with the rapid pace of change."（跟上快速变化的步伐很重要）——考研高频表达
 > - "The pace of technological change is accelerating."（技术变革的步伐正在加快）——科技话题
 > - "He paced up and down the room, deep in thought."（他在房间里踱来踱去，陷入沉思）——文学/日常语境
@@ -144,15 +142,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

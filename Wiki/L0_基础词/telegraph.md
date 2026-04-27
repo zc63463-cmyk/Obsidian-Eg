@@ -3,14 +3,12 @@ title: "telegraph"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 从远处写（远+写→电报）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈtelɪɡrɑːf/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从远处写（远距离传递信息）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从远处写**（工具层面）
@@ -70,7 +68,7 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tele（远方的战场）+ graph（写下战报）→ 电报。在没有电话的年代，将军用 telegraph 把前线的消息"写到"千里之外。电报 = 远 + 写 = 远距离书写。
@@ -93,7 +91,7 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏（telegraph 的反义：流露↔隐藏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,26 +121,22 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **send a telegraph**：发电报
 > - **telegraph line**：电报线路
 > - **telegraph one's intentions**：流露某人的意图
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "What accounts for the great outburst of major inventions in early America—breakthroughs such as the telegraph, the steamboat and the weaving machine?"（是什么导致了美国早期重大发明的涌现——诸如电报、汽船和织布机等突破？——1996年考研英语Text 4）
 > - "Since the 1800s, companies that were linked to the sea used telegraphs. They needed a way to communicate with their ships, but nothing could carry a message across an ocean."（自19世纪以来，与海洋有关的公司使用电报。它们需要一种与船只通信的方式，但当时没有什么东西能将信息传递过大洋。——考研英语完形填空相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

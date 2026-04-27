@@ -3,17 +3,14 @@ title: "incidentally"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 附带地、顺便地
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌɪnsɪˈdentəli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**附带地、顺便地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **附带地、顺便地**（副词修饰层面）
@@ -68,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > incidentally 就是 incident（事件）的"附带版"。想象你在开会说正事，突然想到一件相关的小事，"顺便说一下"（incidentally）——它不是会议的主题，但值得提。记住：**incident（事件）→ incidental（附带的）→ incidentally（附带地/顺便）**。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deliberately]]：故意地，蓄意地→ incidentally（偶然地）的反义（偶然↔故意）
 > - [[primarily]]：主要地→ incidentally（附带地）的反义（附带↔主要）
 > - [[intentionally]]：有意地→ incidentally 的反义（无意↔有意）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Incidentally, ...**：顺便说一下，……（引出新话题）
 > - **discover/find sth. incidentally**：偶然发现某物
 > - **incidentally acquired**：附带获得的
@@ -131,21 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Incidentally, I happened to meet him at the conference."（顺便说一句，我在会议上碰巧遇到了他。）——考研阅读中的话题转换
 > - "The information was discovered incidentally during the investigation."（这些信息是在调查中偶然发现的。）——学术/调查类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

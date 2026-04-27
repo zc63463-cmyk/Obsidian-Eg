@@ -3,14 +3,12 @@ title: "imperative"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 必须命令的（不可拒绝的指令）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪmˈperətɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**必须命令的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **必须命令的**（权威层面）
@@ -70,7 +68,7 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > imper（命令）→ imperative（必须执行的）。想象一位将军下达命令：This is imperative!（这是必须执行的！）从军事命令延伸到日常生活中——保护环境是 imperative（绝对必要的），创造就业是政府的 imperative（必须做的事）。
@@ -93,7 +91,7 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[optional]]：可选择的（imperative 的精确反义：必须的↔可选的）
 > - [[unnecessary]]：不必要的（imperative 的反义：必要的↔不必要的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **it is imperative that...**：……是绝对必要的（后接虚拟语气 should + 动词原形）
 > - **absolutely imperative**：绝对必要的
 > - **moral imperative**：道德义务
@@ -135,19 +133,15 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If cities are to remain pleasant places to live in at all, however, it seems imperative, not only that communications in transport should be improved, but also that communication between human beings should be kept smooth and polite."（然而，如果城市要继续保持宜人的居住环境，不仅改善交通通讯，而且保持人际沟通的顺畅与礼貌，似乎是绝对必要的。——考研阅读真题）
 > - "The most important political imperative is to limit the number of US casualties."（最重要的政治当务之急是限制美军伤亡人数。——考研翻译常见结构）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

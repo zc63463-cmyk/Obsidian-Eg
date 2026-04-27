@@ -3,14 +3,12 @@ title: "stand"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: [stood, standing]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 双脚踩地直立不动
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stænd/"
 pos: vi.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**双脚踩地直立不动**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **双脚踩地直立不动**（身体层面）
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个士兵双脚钉在地上，风吹雨打都不倒——他"站"住了身体（站立），"站"住了痛苦（忍受），"站"住了信念（立场），他的承诺也"站"得住脚（依然有效）。
@@ -100,7 +98,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sit]]：stand（站立）↔ sit（坐下）——身体姿态的对立
 > - [[fall]]：stand（站住）↔ fall（倒下）——"站得住"与"站不住"
 > - [[yield]]：stand（不屈服）↔ yield（屈服让步）——意志层面的对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,7 +132,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stand for**：代表；主张
   - The flag stands for freedom and justice.
 - **stand out**：突出，显眼
@@ -148,20 +146,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Since industrialization, maintaining such a slow cultural metabolism has been much harder, with the long midday meal shrinking to whatever could be stuffed into a lunch bucket or bought at a food stand."（自工业化以来，维持如此缓慢的文化新陈代谢变得更加困难，漫长的午餐缩减为随便塞进午餐桶或从食品摊买来的东西。）——考研高频表达
 > - "The offer still stands—if you change your mind, let me know."（这个提议仍然有效——如果你改变主意，请告诉我。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

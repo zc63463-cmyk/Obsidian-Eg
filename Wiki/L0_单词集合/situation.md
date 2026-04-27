@@ -3,14 +3,12 @@ title: "situation"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 所在的位置→情况
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌsɪtʃuˈeɪʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**所在的位置→情况**"为统筹中心，沿空间→抽象路径向外扩展：
 >
 > 1. **位置**（空间层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > situation 来自 [[situate]]（使位于）+ -ion（名词后缀）。想象你站在地图上的某个点——这个"点"就是你的 situation（位置）。后来，人们不仅用它指物理位置，还用它指"所处的状况"：经济 situation（经济状况）、政治 situation（政治形势）。记住 situation = 所在的位置→情况，核心画面是"你站在哪里"。
@@ -98,7 +96,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,13 +109,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - situation 自身无精确反义词（多义性较强）
 > - good situation（好形势）↔ bad situation（坏形势）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **current situation**：当前形势
 > - **economic situation**：经济形势
 > - **political situation**：政治形势
@@ -140,7 +138,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The current economic situation is improving gradually."（当前的经济形势正在逐步改善）——经济话题
 > - "She found herself in a difficult situation after losing her job."（失业后她发现自己陷入了困境）——个人处境
 > - "The situation in the Middle East remains tense."（中东局势依然紧张）——国际政治话题
@@ -148,15 +146,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

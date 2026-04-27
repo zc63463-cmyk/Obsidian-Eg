@@ -3,14 +3,12 @@ title: "wagon"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 运货的四轮车（Proto-Germanic *wagna- = 带轮子的交通工具）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈwæɡən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**运货四轮车**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **四轮马车**（交通工具层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wagon 的核心画面是"一辆满载货物的四轮马车"。原始日耳曼语 *wagna* = 带轮子的车。想象美国西部拓荒时代，一辆四轮马车载着全家人的家当，在荒野中缓缓前行——这就是 wagon。PIE 词根 \*wegh- = 移动/运送，这个根还给了我们 [[way]]（道路）和 [[weigh]]（称重——因为称重需要移动秤砣）。Station wagon（旅行车）是现代用法。On the wagon（戒酒中）是一个有趣的习语。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > （wagon 作为交通工具，无直接反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **station wagon**：旅行车
 > - **freight wagon**：货车车厢
 > - **on the wagon**：戒酒中
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the 19th century, wagon trains carried thousands of settlers across the American West in search of new opportunities."（19世纪，马车队载着成千上万的定居者穿越美国西部，寻找新的机会——考研阅读历史话题相关表达）
 > - "The factory uses automated guided wagons to transport materials between different production lines."（工厂使用自动引导运输车在不同生产线之间运输材料——考研阅读科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

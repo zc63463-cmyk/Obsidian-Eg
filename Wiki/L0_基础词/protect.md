@@ -3,14 +3,12 @@ title: "protect"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 在前面遮盖（保护）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/prəˈtekt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在前面遮盖**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在前面遮盖**（物理遮盖层面）
@@ -64,7 +62,7 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（在前方）+ tect（覆盖）→ 在前面遮盖 → 保护（protect）。同源词 [[detect]]（de-去掉 + tect-覆盖 → 去掉遮盖 → 发现）和 [[architect]]（archi-首席 + tect-覆盖 → 首席建造者 → 建筑师）。
@@ -86,7 +84,7 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[attack]]：攻击（protect 的反义：保护↔攻击）
 > - [[expose]]：暴露（protect 的反义：遮盖↔暴露）
 > - [[endanger]]：危及（protect 的反义：保护↔危及）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **protect somebody/something from**：保护……免受……
 > - **protect against**：防御，防止
 > - **protect the environment**：保护环境
@@ -133,15 +131,11 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 > - "We need to protect the environment for future generations."（我们需要为子孙后代保护环境。）
 > - "Laws are designed to protect consumers from fraud."（法律旨在保护消费者免受欺诈。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

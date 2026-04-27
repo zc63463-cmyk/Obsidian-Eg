@@ -3,14 +3,12 @@ title: "steep"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 浸泡（把东西泡在液体里）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stiːp/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**浸泡**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **浸泡**（动作层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > steep 有两层含义：动词"浸泡"和形容词"陡峭的"。泡茶就是 steep tea——把茶叶泡在热水里。一条 steep hill（陡坡）让你几乎垂直地往上爬。steep prices（过高的价格）让你"浸泡"在债务中。a steep learning curve（陡峭的学习曲线）意味着学习难度急剧上升。记住：steep = 陡/泡。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gentle]]：平缓的（steep↔gentle：陡峭↔平缓）
 > - [[flat]]：平坦的（steep↔flat：陡峭↔平坦）
 > - [[cheap]]：便宜的（steep prices↔cheap prices：过高↔便宜）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a steep hill/climb**：陡坡/陡峭的攀登
 > - **steep prices**：过高的价格
 > - **a steep learning curve**：陡峭的学习曲线
@@ -131,20 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The road leading to the mountain village is extremely steep and narrow."（通往山村的路极其陡峭狭窄。）
 > - "Many students find the steep learning curve in advanced mathematics challenging."（许多学生发现高等数学陡峭的学习曲线具有挑战性。）
 > - "The steep rise in housing prices has made it difficult for young people to buy homes."（房价的急剧上涨使年轻人难以购房。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

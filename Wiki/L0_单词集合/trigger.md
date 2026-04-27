@@ -3,14 +3,12 @@ title: "trigger"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 扣动扳机（引发连锁反应）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtrɪɡə/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**扣动扳机**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **扣动扳机**（物理层面：扣动枪的扳机）
@@ -67,7 +65,7 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trigger 原指枪的**扳机**。你**扣动扳机**，子弹飞出——一个微小的动作引发了巨大的后果。后来 trigger 引申为"引发任何连锁反应"。记住：扣扳机 = trigger = 引发。
@@ -85,7 +83,7 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prevent]]：阻止（防止触发）
 > - [[suppress]]：压制（抑制触发）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **trigger a debate/crisis/reaction**：引发辩论/危机/反应
   - The decision triggered a heated debate.（这个决定引发了激烈的辩论。）
 > - **act as a trigger**：作为诱因
@@ -122,19 +120,15 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The decision triggered a heated debate about the future of education reform."（这个决定引发了关于教育改革未来的激烈辩论——考研高频表达）
 > - "Stress can act as a trigger for headaches and other health problems."（压力可能成为头痛和其他健康问题的诱因——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

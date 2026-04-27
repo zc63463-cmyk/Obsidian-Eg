@@ -3,14 +3,12 @@ title: "allowance"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 允许给的东西（被允许领取的金额）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈlaʊəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被允许给的东西**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被允许给的东西**（经济层面）
@@ -66,7 +64,7 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > allow（允许）+ ance（名词后缀）→ 被允许给的东西。在英国，失业者可以领取 jobseeker's allowance（求职者津贴）——政府"允许"给你的钱。make allowance for someone 就是"允许体谅某人"——给他留余地。
@@ -88,7 +86,7 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deduction]]：扣除（allowance 的经济反义：给予↔扣除）
 > - [[penalty]]：罚款，处罚
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **jobseeker's allowance**：求职者津贴
 > - **make allowance(s) for**：考虑到，体谅
 > - **travel/living allowance**：出差/生活津贴
@@ -135,20 +133,16 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Even the very phrase 'jobseeker's allowance' is about redefining the unemployed as a 'jobseeker' who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（即使是"求职者津贴"这个词，也是在将失业者重新定义为"求职者"——一个对其通过缴纳国民保险所获得的福利没有基本权利的人——2014年英语一Text 1）
 > - "There will now be a seven-day wait for the jobseeker's allowance."（现在，申请求职者津贴需要经过一个七天的等待期——2014年英语一Text 1）
 > - "Instead, the claimant receives a time-limited 'allowance,' conditional on actively seeking a job; no entitlement and no insurance, at 71.70 a week, one of the least generous in the EU."（相反，申请人获得的是有时间限制的"津贴"，条件是积极寻找工作——2014年英语一Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

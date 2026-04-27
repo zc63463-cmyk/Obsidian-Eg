@@ -3,14 +3,12 @@ title: "allege"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 在法庭上陈述（提出某事作为理由）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈledʒ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在法庭上陈述**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在法庭上陈述**（法律层面）
@@ -63,7 +61,7 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > al（向）+ leg（说，[[lect-leg]]）→ 向法庭说 → 宣称。allege 就是"说出来"，但注意：allege 暗含"未经证实"的意思。你 allege 某事，只是你说，未必是真的。
@@ -85,7 +83,7 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deny]]：否认（allege 的反义：宣称↔否认）
 > - [[disprove]]：反驳，证明……为假
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **it is alleged that...**：据称……
 > - **be alleged to do**：被指控做……
 > - **allege that...**：宣称……
@@ -127,19 +125,15 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Hearing allegations of cruelty to animals in research settings, many are perplexed that anyone would deliberately harm an animal."（听到在研究环境中虐待动物的指控，许多人感到困惑：怎么会有人故意伤害动物——2003年英语一Text 2）
 > - "Such hijacked media are the opposite of earned media: an asset or campaign becomes hostage to consumers, other stakeholders, or activists who make negative allegations about a brand or product."（这种被劫持的媒体与赢得的媒体恰恰相反：一项资产或活动沦为消费者、其他利益相关者或活动家的"人质"，他们对某个品牌或产品提出负面指控——2011年英语一Text 3）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "prove"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 测试→证明
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/pruːv/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: proof
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**测试→证明**"为统筹中心，沿动作→结果路径向外扩展：
 >
 > 1. **测试**（动作层面）
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > prove 来自拉丁语 *probare*（测试）。想象古代的银匠，他要把银子"测试"一下——放在火上烧、用工具敲打——经过测试后，银子被"证明"是真的。所以 prove 的逻辑是：测试→证明。在现代英语中，prove 保留了这两个层面：主动"证明"某事（I will prove it），以及经过时间"测试"后"结果显示"（The method proved effective）。记住 prove = 测试→证明→结果显示。
@@ -105,7 +102,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -118,14 +115,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - prove（证明）↔ disprove（反驳，证明…是假的）
 > - prove（证实）↔ refute（驳斥）
 > - prove oneself（证明自己）↔ discredit oneself（使自己失去信誉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -139,7 +136,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **prove a theory / a point**：证明一个理论/一个观点
 > - **prove someone wrong / right**：证明某人错了/对了
 > - **prove to be / prove (oneself) useful**：证明是有用的
@@ -149,7 +146,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The experiment proved that the hypothesis was correct."（实验证明了假设是正确的）——学术话题
 > - "The new method proved to be more efficient than the old one."（新方法证明比旧方法更高效）——科技话题
 > - "She proved herself capable of handling the project."（她证明了自己有能力处理这个项目）——职场话题
@@ -158,15 +155,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "attitude"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 伸展的倾向（心智朝某个方向伸展的固定倾向）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈætɪtjuːd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**伸展的倾向**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **伸展的倾向**（身体/心理层面）
@@ -64,7 +62,7 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > attitude 来自拉丁语 *aptus*（适合的）+ *-tude*（状态后缀），原义是"适合的姿态"。一个人的 attitude 就像他身体的"默认姿态"——乐观的人身体自然朝上伸展，悲观的人肩膀下垂。心理上的 attitude 就是心智的"默认朝向"。Writing calls for a critical attitude of mind——写作需要一种批判性的心智朝向。
@@ -86,7 +84,7 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prejudice]]：偏见（attitude 的反义：开放态度↔偏见）
 > - [[indifference]]：冷漠（attitude 的反义：积极态度↔冷漠）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **attitude toward/to**：对……的态度
 > - **a positive/negative attitude**：积极/消极的态度
 > - **a critical attitude**：批判性态度
@@ -127,23 +125,15 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Writing calls for a critical attitude of mind that she did not possess."（写作需要有批判性思维，而这正是她所不具备的。——2022考研英语真题词汇集锦）
 > - "It's often very difficult to change people's attitudes."（人们对事情的看法通常很难改变。——剑桥词典例句，考研高频表达）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

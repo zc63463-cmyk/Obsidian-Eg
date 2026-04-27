@@ -3,14 +3,12 @@ title: "cover"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 覆盖（将某物放在另一物上面遮住）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈkʌvə/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**覆盖**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **覆盖**（物理层面）
@@ -69,7 +67,7 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cover 就是"覆盖"。锅盖覆盖锅口 → cover the pot；记者覆盖新闻事件 → cover the story（2011年考研阅读中 Jennifer Senior 的 insightful magazine cover story）；保险覆盖损失 → cover the loss。cover 的核心就是"覆盖"——你覆盖什么，就"负责"什么。
@@ -92,7 +90,7 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expose]]：暴露，揭露（cover 的精确反义：覆盖↔揭露）
 > - [[uncover]]：揭开，发现（cover 的派生反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cover story**：封面报道
 > - **cover the cost/expenses**：足以支付费用
 > - **cover a wide range of**：涵盖广泛的……
@@ -131,23 +129,15 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It's no surprise that Jennifer Senior's insightful, provocative magazine cover story on the joys of parenting is arousing controversy."（Jennifer Senior 关于为人父母之乐的深刻而具有挑衅性的杂志封面报道引发争议，这并不令人意外。——2011年考研英语阅读Text4，cover 作"封面报道"的经典真题）
 > - "Many people mistakenly believe the term drug refers only to some sort of medicine or an illegal chemical taken by drug addicts."（许多人错误地认为 drug 这个词仅仅指某种药物或吸毒者服用的非法化学品。——1997年考研英语阅读Text1，cover 的语境关联：cover a topic = 涉及话题）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

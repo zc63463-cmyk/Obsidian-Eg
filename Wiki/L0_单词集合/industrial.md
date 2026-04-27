@@ -3,17 +3,14 @@ title: "industrial"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 工业的，产业的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪnˈdʌstriəl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: industr
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ industr(y)(工业) + -ial(形容词后缀，"…的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**工业的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **工业的**（生产制造领域）
@@ -63,7 +60,7 @@ industr(y)(工业) + -ial(形容词后缀，"…的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ industr(y)(工业) + -ial(形容词后缀，"…的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 来自拉丁语 *industrialis*，源自 *industria*（勤勉、活动）。想象一个勤劳的工人站在工厂流水线旁，汗水滴落——这就是 **industrial**（工业的）精神。
@@ -86,7 +83,7 @@ industr(y)(工业) + -ial(形容词后缀，"…的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ industr(y)(工业) + -ial(形容词后缀，"…的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[agricultural]]：农业的——与工业相对的第一产业
 > - [[rural]]：农村的——与工业城市相对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +113,20 @@ industr(y)(工业) + -ial(形容词后缀，"…的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **industrial revolution**：The Industrial Revolution transformed Britain from an agricultural society into an industrial powerhouse.
 > - **industrial policy**：The government's new industrial policy aims to boost high-tech manufacturing.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Industrial production fell by 12.8% in the year to March, the worst slide since the Second World War."（截至三月份的一年内，工业生产下降了12.8%，是二战以来最严重的下滑。）——考研高频表达
 > - "For some industrial scientists, however, the attractions of academia outweigh any financial considerations."（然而，对于一些工业界科学家来说，学术界的吸引力超过了任何经济方面的考量。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

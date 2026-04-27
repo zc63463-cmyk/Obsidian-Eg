@@ -3,17 +3,14 @@ title: "slipper"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 滑着走的鞋（拖鞋）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈslɪpə/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: slip
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**滑着走的鞋**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **滑着走的鞋**（物品层面）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > slipper 来自 slip（滑）+ -er（物）。拖鞋就是那种不用系鞋带、脚直接"滑"进去的鞋。穿上拖鞋走路时脚底像在滑一样——slip + er = 拖鞋。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[boot]]：靴子（slipper 的反义：轻便拖鞋↔厚重靴子）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,26 +122,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a pair of slippers**：一双拖鞋
 > - **wear slippers**：穿拖鞋
 > - **glass slipper**：水晶鞋（童话《灰姑娘》）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "An elderly woman was strewing the floor with chalk so that the dancing shoes would not slip."（一位老妇人正在往地板上撒滑石粉以防止舞鞋打滑。——考研相关语料，slip 与 slipper 同源）
 > - "The company spent the last five years developing solar panels that are only about a quarter of an inch thick and are strong enough to stand up to heavy highway traffic without breaking or making the roads more slippery."（该公司花了五年时间开发太阳能电池板，厚度仅约四分之一英寸，足以承受繁忙公路交通而不破裂或使道路更滑。——考研真题，slippery 与 slipper 同源）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

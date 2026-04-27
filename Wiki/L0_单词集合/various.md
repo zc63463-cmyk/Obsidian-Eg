@@ -3,14 +3,12 @@ title: "various"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 不同的、各种各样的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈveəriəs/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不同的、各种各样的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不同的、各种各样的**（一般层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > various 直接来自拉丁语 varius"不同的"，原意是"有不同颜色的"。想象一块**花色不同**的布，上面有**各种各样**的图案。世界就像这块布，充满了**各种各样**的事物和**多方面**的因素。记住：various = 不同的 = 各种各样的。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,7 +104,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[same]]：相同的（various 的精确反义：各种各样↔相同）
 > - [[identical]]：完全相同的（various 的反义：不同↔相同）
 > - [[uniform]]：统一的，一致的（various 的反义：各种各样↔统一）
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **for various reasons**：由于各种原因（考研超高频搭配）
 > - **various kinds of / various types of**：各种各样的
 > - **in various ways**：以各种方式
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "for various reasons, people choose to..."（由于各种原因，人们选择……）——考研写作万能句式
 > - "various studies have shown that..."（多项研究表明……）——学术类阅读高频句式
 > - "the problem can be approached from various angles"（这个问题可以从多个角度来分析）——议论文常见表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

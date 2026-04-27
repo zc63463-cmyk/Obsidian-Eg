@@ -3,14 +3,12 @@ title: "infinite"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 无限的（没有边界的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɪnfɪnət/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**没有界限的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **没有界限的**（空间层面）
@@ -64,7 +62,7 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ fin（界限）→ infinite。想象你站在海边，大海一望无际——infinite ocean。人类的自欺能力是无限的（Human beings have an infinite capacity for self-deception）。infinite 就是"没有界限"。
@@ -86,7 +84,7 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[finite]]：有限的（infinite "无限的"的精确反义：无限↔有限）
 > - [[limited]]：有限的，受限制的（infinite "无限的"的反义：无限↔有限）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **infinite patience**：无限的耐心
 > - **infinite variety**：无限的多样性
 > - **infinite possibilities**：无限的可能性
@@ -132,19 +130,15 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Human beings have an infinite capacity for self-deception."（人类自欺的能力是无穷尽的。——考研阅读类表达）
 > - "He found that many of his subjects were confused by the infinite options their money presented them with."（他发现许多实验对象被金钱带给他们的无限选择所困惑。——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

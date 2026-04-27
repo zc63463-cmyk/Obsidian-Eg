@@ -3,14 +3,12 @@ title: "consensus"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 大家一起感觉到的共同意见
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kənˈsensəs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**大家一起感觉到的共同意见**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **共同感知**（认知层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > consensus = con（共同）+ sens（感觉，与 [[sens-sent]] 同源）+ us（名词后缀）= 共同感觉到的 = 共识。想象一群人讨论一个问题，每个人都把自己的感觉说出来，最后发现大家的"感觉"竟然一致——这就是 consensus（共识）。scientific consensus（科学共识）= 科学家们共同感觉到的结论。注意：consensus 强调的是"经过讨论后的一致"，不是简单的投票多数。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disagreement]]：分歧（consensus 的反义：共识↔分歧）
 > - [[controversy]]：争议（consensus 的反义：一致意见↔争议）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reach a consensus**：达成共识
 > - **build consensus**：建立共识
 > - **scientific consensus**：科学共识
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is a growing consensus among scientists that climate change is primarily driven by human activities, particularly the burning of fossil fuels."（科学家之间日益达成共识，认为气候变化主要由人类活动驱动，尤其是化石燃料的燃烧——考研阅读环境话题相关表达）
 > - "After weeks of negotiation, the committee was finally able to reach a consensus on the proposed reforms to the education system."（经过数周的谈判，委员会终于在 proposed 教育体系改革方案上达成了共识——考研阅读教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

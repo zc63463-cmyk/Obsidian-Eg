@@ -3,14 +3,12 @@ title: "fast"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 牢固的，紧的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/fɑːst/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ fast(牢固的/快的，古英语 *fæst*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**牢固的，紧的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **牢固的**（物理层面）
@@ -70,7 +68,7 @@ fast(牢固的/快的，古英语 *fæst*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ fast(牢固的/快的，古英语 *fæst*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fast 的本义不是"快"，而是"牢固的"。hold fast = 抓紧，stick fast = 粘得牢牢的。一个脚步抓地牢固的人自然跑得快，所以 fast 引申出"快的"。fast asleep = 睡得"紧紧的"= 睡得死死的。记住：先有"牢固"，后有"快"。
@@ -93,7 +91,7 @@ fast(牢固的/快的，古英语 *fæst*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ fast(牢固的/快的，古英语 *fæst*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[slow]]：慢的（fast 的精确反义：快↔慢）
 > - [[loose]]：松的（fast 的反义：牢固↔松）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ fast(牢固的/快的，古英语 *fæst*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fast food**：快餐
 > - **hold fast**：抓紧
 > - **fast asleep**：熟睡的
@@ -141,19 +139,15 @@ fast(牢固的/快的，古英语 *fæst*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The modern mind is overwhelmingly inclined toward communication. It is not simply that one is interrupted; it is that one is actually inclined to interruption."（现代思维压倒性地倾向于交流。问题不仅仅是被打断；而是人们实际上倾向于被打断。——2016年考研英语二阅读，fast-paced life 相关话题）
 > - "The world is changing fast, and we must adapt to keep pace."（世界正在快速变化，我们必须适应以跟上步伐。——考研社会类阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

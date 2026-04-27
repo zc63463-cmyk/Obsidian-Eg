@@ -3,14 +3,12 @@ title: "panic"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 牧神潘引起的突然恐惧（巨大的惊恐感）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈpænɪk/"
 pos: n.
 metaphor_type: 转喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**牧神潘引起的突然恐惧**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **潘神的恐惧**（神话层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > panic 的核心画面是"牧神潘引起的突然恐惧"。希腊神话中，潘神是牧羊之神，他的突然出现会引起巨大的恐惧——树林中回荡的怪声会让旅人吓得魂飞魄散。这种恐惧就叫 *panikon* = panic。financial panic = 金融恐慌；panic buying = 恐慌性抢购；panic attack = 恐慌发作。panic 的核心逻辑是"突然的、无法控制的恐惧"。注意 panic 和 [[pan]]（平底锅）词源无关。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：冷静（panic 的反义：恐慌↔冷静）
 > - [[composure]]：镇定（panic 的反义：恐慌↔镇定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in panic**：恐慌中
 > - **panic buying**：恐慌性抢购
 > - **panic attack**：恐慌发作
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The sudden outbreak of the epidemic triggered widespread panic among the public, leading to panic buying of essential supplies."（疫情的突然爆发引发了公众的广泛恐慌，导致生活必需品的恐慌性抢购——考研阅读社会话题）
 > - "When the stock market crashed in 2008, financial panic spread rapidly across the globe, causing millions of people to lose their savings."（当股市在2008年崩盘时，金融恐慌迅速蔓延全球，导致数百万人失去了积蓄——考研翻译经济话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

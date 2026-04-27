@@ -3,14 +3,12 @@ title: "translate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 跨越语言边界携带过去
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/trænsˈleɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**跨越边界携带过去**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **跨越边界携带过去**（语言层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trans（跨越）+ lat（携带）→ 把意义跨越语言边界携带过去 → 翻译。古代的翻译官站在两种语言之间，把希腊文的意思"搬运"到拉丁文中——这就是 translate。后来 translate 的含义延伸了：把理论"搬运"成实践（translate theory into practice），把梦想"搬运"成现实（translate dreams into reality）。translate 的精髓始终是"搬运"——把一种形式的东西搬运到另一种形式中。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distort]]：歪曲（translate 的反义：准确搬运↔歪曲搬运）
 > - [[misinterpret]]：误解（translate/interpret 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **translate from A into B**：从A语言翻译成B语言
 > - **translate theory into practice**：把理论转化为实践
 > - **translate into**：转化为，表现为
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is difficult to translate some cultural concepts from one language to another."（很难将某些文化概念从一种语言翻译成另一种语言）
 > - "The company needs to translate its ambitious plans into concrete actions."（公司需要将其宏伟计划转化为具体行动）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

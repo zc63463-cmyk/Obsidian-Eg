@@ -3,14 +3,12 @@ title: "pound"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 重量单位（磅）/ 重击
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/paʊnd/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**重量/重击**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **重量**（度量层面）
@@ -70,7 +68,7 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pound 源自拉丁语 pondus（重量），来自 ponere（放置——放在秤上称重）。一 pound 就是一个标准重量。英国人把重量单位变成了货币单位——British pound（英镑）。动词"重击"来自另一个日耳曼语源，但"重"的联想把两个含义联系在一起：一磅重的东西砸下来就是 pound（重击）。
@@ -93,7 +91,7 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[caress]]：轻抚（pound ↔ caress，重击 ↔ 轻抚）
 > - [[kilogram]]：千克（pound ↔ kilogram，磅 ↔ 千克，重量单位对比）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pound the table**：猛拍桌子（He pounded the table in anger.）
 > - **pound on the door**：砰砰敲门
 > - **by the pound**：按磅计价
@@ -131,18 +129,14 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The pound fell sharply against the dollar."（英镑对美元大幅贬值——考研经济类阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

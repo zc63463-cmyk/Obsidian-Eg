@@ -3,14 +3,12 @@ title: "inaugurate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 通过占卜仪式正式开始
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪˈnɔːɡjəreɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**通过占卜仪式正式开始**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **通过占卜仪式正式开始**（仪式层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象古罗马的占卜师站在高台上**观察鸟的飞行**（augur），判断神是否批准这件事。如果神意批准，就可以**正式开始**（in + augur + ate）。美国总统的就职典礼就是 inaugurate——虽然不再看鸟了，但"正式开始"的庄重感保留至今。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conclude]]：结束、闭幕（仪式）→ inaugurate 的仪式反义（开幕↔闭幕）
 > - [[terminate]]：终止、终结→ inaugurate（开始）的反义（开始↔终止）
 > - [[abolish]]：废除（制度）→ inaugurate a policy 的反义（开创↔废除）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inaugurate a president**：为总统举行就职典礼
 > - **inaugurate a new era/epoch**：开创一个新时代/新纪元
 > - **inaugurate a bridge/library/museum**：为桥梁/图书馆/博物馆举行落成典礼
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The invention of the internet inaugurated a new era in communication."（互联网的发明开创了通信的新纪元。）——科技类阅读
 > - "The president was inaugurated in January."（总统于一月就职。）——政治类阅读
 > - "inaugural address"（就职演说）——政治、历史类阅读高频搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

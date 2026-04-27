@@ -3,14 +3,12 @@ title: "around"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 绕着一个中心转圈
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈraʊnd/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绕着一个中心转圈**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **绕圈运动**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > around = a（方位前缀）+ round（圆的）。想象你绕着一棵树走一圈——你的路线就是一个 round（圆），你就是在 tree around（围绕树走）。从"绕圈"出发：在圈里面就是"在周围"（around here），圈覆盖全部就是"到处"（travel around），画一个模糊的圈就是"大约"（around 100）。around 的核心始终是"圆"——空间上的圆和时间上的模糊圆。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[away]]：远离（around 的反义：在周围↔远离）
 > - [[exactly]]：精确地（around 的反义：大约↔精确）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **around the world**：世界各地
 > - **around the corner**：在拐角处；即将到来
 > - **around here**：在这附近
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Climate change is one of the most pressing challenges facing the world today, affecting communities around the globe in unprecedented ways."（气候变化是当今世界面临的最紧迫的挑战之一，以前所未有的方式影响着全球各地的社区——考研阅读环境话题相关表达）
 > - "The company has been around for over a century, adapting its business model to survive economic downturns and technological disruptions."（这家公司已经存在了一个多世纪，不断调整其商业模式以在经济衰退和技术变革中生存——考研阅读商业话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

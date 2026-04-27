@@ -3,14 +3,12 @@ title: "redeem"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 买回来（赎回/挽回）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈdiːm/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(重新/回) + [[em|emere]](买/获取，拉丁语) → 重新买回
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**重新买回**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **重新买回**（经济层面）
@@ -69,7 +67,7 @@ re-(重新/回) + [[em|emere]](买/获取，拉丁语) → 重新买回
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ re-(重新/回) + [[em|emere]](买/获取，拉丁语) → 重新买回
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（重新）+ emere（买）→ 重新买回 → 赎回/挽回。
@@ -90,7 +88,7 @@ re-(重新/回) + [[em|emere]](买/获取，拉丁语) → 重新买回
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ re-(重新/回) + [[em|emere]](买/获取，拉丁语) → 重新买回
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lose]]：失去 ↔ redeem 赎回
 > - [[condemn]]：定罪 ↔ redeem 救赎
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,28 +119,22 @@ re-(重新/回) + [[em|emere]](买/获取，拉丁语) → 重新买回
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **redeem oneself**：挽回声誉，证明自己（He worked hard to redeem himself after the failure. 他努力工作以在失败后挽回声誉。）
 > - **redeem a pledge/voucher**：兑换承诺/优惠券（Customers can redeem their vouchers online. 顾客可以在线兑换优惠券。）
 > - **beyond/past redemption**：无可救药，不可挽回
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He worked tirelessly to redeem his reputation after the scandal."（丑闻之后，他不知疲倦地工作以挽回自己的声誉。）——考研高频表达
 > - "The only way to redeem yourself is to admit your mistake and make amends."（挽回自己的唯一办法就是承认错误并做出弥补。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

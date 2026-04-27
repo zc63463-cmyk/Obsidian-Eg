@@ -3,17 +3,14 @@ title: "visual"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 看见的、视觉的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈvɪʒuəl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: vis-vid
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与看有关的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **与看有关的**（感官层面）
@@ -65,7 +62,7 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vis-（看）→ 想象你站在山顶，眼前是一望无际的视觉盛宴——这就是 visual 的世界。
@@ -88,7 +85,7 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[invisible]]：不可见的（visual 的直接反义，强调看不见）
 > - [[auditory]]：听觉的（感官对立，视觉 vs 听觉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **visual aids**：直观教具（The teacher used visual aids to explain the concept.）
 > - **visual arts**：视觉艺术（Painting and sculpture are visual arts.）
 > - **visual impact**：视觉冲击（The advertisement had a strong visual impact.）
@@ -130,18 +127,12 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Visual aids can greatly enhance the effectiveness of a presentation."（视觉辅助工具可以大大提高演示的效果。）——考研高频表达
 > - "The visual impact of the painting is stunning."（这幅画的视觉效果令人惊叹。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

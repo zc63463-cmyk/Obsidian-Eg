@@ -3,14 +3,12 @@ title: "liberal"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 自由的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈlɪbərəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -50,7 +48,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**自由的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **自由的**（词源层面）
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > liber（自由）+ -al（…的）= 拥有"自由"特质——思想开明、出手大方。
@@ -97,7 +95,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conservative]]：保守的（liberal是开明的）
 > - [[stingy]]：吝啬的（liberal是慷慨的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,28 +125,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **liberal arts**：文科，博雅教育（例：She studied liberal arts at college.）
 > - **liberal democracy**：自由民主（例：Liberal democracy values individual rights.）
 > - **be liberal with**：对…慷慨（例：He's liberal with his money.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labor than any comparable trading area."（欧洲一体化项目在其最佳状态下是相当自由的：它建立在27个贫富国家组成的单一市场之上，其内部边界对商品、资本和劳动力的开放程度远超任何可比的贸易区域。）——2011考研英语二Text4
 > - "A liberal education is one that liberates the mind and cultivates critical thinking."（博雅教育是解放思想、培养批判性思维的教育。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

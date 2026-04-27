@@ -3,17 +3,14 @@ title: "manuscript"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 用手写的（手写的文档）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmænjuskrɪpt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: script
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -46,7 +43,7 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手写的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用手写的**（书写层面）
@@ -69,7 +66,7 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > manu（手）+ script（写）= manuscript（手稿）。作者写完小说后寄给出版社的那份就是 manuscript。投稿给学术期刊的论文也叫 manuscript——Manuscript will be flagged up for additional scrutiny（投稿人的原稿会被标出需要额外审查）。记住：manuscript = 手 + 写 = 手稿。
@@ -92,7 +89,7 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[print]]：印刷品（manuscript 的反义：手写的↔印刷的）
 > - [[publication]]：出版物（manuscript 的反义：原稿↔出版物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **submit a manuscript**：提交手稿/原稿
 > - **original manuscript**：原始手稿
 > - **manuscript form**：手写形式
@@ -133,19 +130,15 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Manuscript will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers."（投稿人的原稿也会被标出需要经过额外的仔细审查，或由杂志内部编辑，或由现有的编辑评审委员会，或由外部同行评审人员。——2015年考研英语一Text 3）
 > - "The journal Science is adding an extra round of statistical checks to its peer-review process."（《科学》杂志正在对其同行评审流程增加一轮额外的统计审查。——2015年考研英语一Text 3）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

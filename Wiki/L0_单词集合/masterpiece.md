@@ -3,14 +3,12 @@ title: "masterpiece"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 大师的考核作品
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmæstərpiːs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**大师的考核作品**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **大师的考核作品**（历史层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > masterpiece = master（大师）+ piece（作品）。中世纪的学徒要做一件**完美的作品**才能成为**大师**（master），这件作品就是 masterpiece。记住这个画面：一个年轻工匠满怀期待地提交自己最满意的作品，师傅们围上来仔细端详——通过了，你就是 master，这件作品就是 masterpiece。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mediocrity]]：平庸之作（masterpiece ↔ mediocrity：杰作 ↔ 平庸）
 > - [[failure]]：失败之作（masterpiece ↔ failure）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a literary masterpiece**：文学名著
 > - **a masterpiece of engineering/design**：工程/设计杰作
 > - **create/produce a masterpiece**：创作杰作
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "widely regarded as a masterpiece"（被广泛认为是杰作）——艺术/文学评论类阅读
 > - "a masterpiece of Renaissance art"（文艺复兴艺术的杰作）——艺术史/文化类阅读
 > - "the novel is a masterpiece of social commentary"（这部小说是社会评论的杰作）——文学评论类文章
@@ -138,15 +136,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

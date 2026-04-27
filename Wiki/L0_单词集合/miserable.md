@@ -3,14 +3,12 @@ title: "miserable"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 痛苦的，悲惨的
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/ˈmɪzərəbl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ miser(痛苦/可怜) + -able(形容词后缀，"可被…的" / "充满…的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**痛苦的**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **痛苦的**（人的内心感受）
@@ -64,7 +62,7 @@ miser(痛苦/可怜) + -able(形容词后缀，"可被…的" / "充满…的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ miser(痛苦/可怜) + -able(形容词后缀，"可被…的" / "充满…的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个叫 Miser（吝啬鬼）的人，守着金山却舍不得花一分钱，活得又穷酸又痛苦——他就是 **miserable**（悲惨的）。
@@ -87,7 +85,7 @@ miser(痛苦/可怜) + -able(形容词后缀，"可被…的" / "充满…的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ miser(痛苦/可怜) + -able(形容词后缀，"可被…的" / "充满…的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[comfortable]]：舒适的——与痛苦的处境相对
 > - [[happy]]：快乐的——与痛苦的感受相对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,27 +114,21 @@ miser(痛苦/可怜) + -able(形容词后缀，"可被…的" / "充满…的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **miserable life**：Many people in developing countries still live a miserable life.
 > - **miserable weather**：We had to cancel the picnic due to the miserable weather.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The living conditions in the overcrowded refugee camp were miserable."（拥挤不堪的难民营中的生活条件十分悲惨。）——考研高频表达
 > - "She felt miserable after failing the exam for the second time."（第二次考试不及格后她感到非常痛苦。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "rebel"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 再次发动战争（反对权威，发动反叛）
-extension_dim: 对抗路径
+extension_dim: [对抗路径]
 phonetic: "/ˈrebl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**再次发动战争（反对权威，发动反叛）**"为统筹中心，沿对抗路径向外扩展：
 >
 > 1. **向权威宣战**（行为层面）
@@ -67,7 +65,7 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rebel 源自拉丁语 *rebellare*，由 re-（反对）+ bellare（发动战争）构成。想象一个被暴君压迫的农民，终于忍无可忍，举起锄头喊道"我不服！"——这就是 rebel：re（反对）+ bel（战争），向不公正的权威宣战。从历史上的武装起义，到青少年反抗父母的管教，都是 rebel 的不同表现形式。
@@ -95,7 +93,7 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[obey]]：服从（rebel 的精确反义：反叛↔服从）
 > - [[submit]]：屈服，顺从
 > - [[conform]]：顺从，遵守
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rebel against**：反抗，造反（against 后接被反抗的对象）
 > - **armed rebels**：武装叛乱分子
 > - **rebel forces**：叛军
@@ -136,20 +134,16 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Yet even then reports of widespread youth rebellion were overdone: Most kids in the '60s and '70s shared their parents' basic values."（然而，即使在当时，关于广泛青年叛逆的报道也被夸大了：60年代和70年代的大多数孩子与他们的父母有着相同的基本价值观。——考研真题）
 > - "The unfair tax laws sparked a rebellion."（不公平的税法引发了一场叛乱。——Merriam-Webster）
 > - "Voters rebelled against high property taxes."（投票者们反对高额财产税。——Cambridge Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

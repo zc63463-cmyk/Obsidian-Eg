@@ -3,14 +3,12 @@ title: "video"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 我看见的（通过电子技术捕捉和播放的动态影像）
-extension_dim: 技术→媒体
+extension_dim: [技术→媒体]
 phonetic: "/ˈvɪdiəʊ/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**我看见的（通过电子技术捕捉和播放的动态影像）**"为统筹中心，沿技术→媒体向外扩展：
 >
 > 1. **我看见的**
@@ -68,7 +66,7 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > video 在拉丁语中就是"我看见"——videre 的第一人称单数。1960年代，当录像技术诞生时，工程师们选择了这个词来命名，因为录像的本质就是"记录你看见的东西"。video 与 [[vis-vid]] 词根家族一脉相承：visible（可见的）、vision（视力）、evidence（证据——向外看得见的东西）。从 video game（电子游戏）到 video call（视频通话），video 始终是"看见的技术"。She has watched the race on video（她在录像中看了那场比赛）。
@@ -92,7 +90,7 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[audio]]：音频（video 的媒体反义：视频↔音频，视听相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **video game**：电子游戏
 > - **video call/conference**：视频通话/会议
 > - **watch a video**：看视频
@@ -137,19 +135,15 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She has watched the race on video."（她在录像中看了那场比赛——Collins Dictionary）
 > - "The club specialises in videoing its student golfers to correct their faults."（该俱乐部专门为学生高尔夫球手录像以纠正他们的动作缺陷——Collins Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

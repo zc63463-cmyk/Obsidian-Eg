@@ -3,14 +3,12 @@ title: "fancy"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 心灵中呈现的形象
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfænsi/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**心灵中呈现的形象**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **心灵中呈现的形象**（认知层面）
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fancy 和 [[fantasy]] 是亲兄弟，都来自希腊语 *phaínein*（显现）。事物在心中"显现"出来就是**想象**（fancy），想象出来的东西就是**幻想**（fantasy）。你想象出来的东西往往是你**喜欢**的（take a fancy to），你喜欢的东西往往是**精致的**（fancy restaurant）。从"心中的形象"到"精致的品味"，一条线串起 fancy 的全部含义。
@@ -101,7 +99,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -115,14 +113,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[plain]]：朴素的，普通的（fancy 作"精致的"时的反义）
 > - [[simple]]：简单的（fancy 作"花哨的"时的反义）
 > - [[reality]]：现实（fancy 作"幻想"时的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -135,7 +133,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take a fancy to sb./sth.**：喜欢上某人/某物
 > - **fancy doing sth.**：想要做某事（英式英语口语）
 > - **fancy yourself (as sth.)**：自认为是……，自诩为……
@@ -146,22 +144,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She took a fancy to the little cottage."（她喜欢上了那间小屋）——考研阅读中描述偏好与选择
 > - "He fancies himself as a great writer."（他自诩为伟大的作家）——描述自视甚高
 > - "fancy goods"（精品/花哨商品）——商业类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

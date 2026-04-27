@@ -3,14 +3,12 @@ title: "plague"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 瘟疫（大规模流行的致命传染病）
-extension_dim: 影响路径
+extension_dim: [影响路径]
 phonetic: "/pleɪɡ/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**瘟疫（大规模流行的致命传染病）**"为统筹中心，沿影响路径向外扩展：
 >
 > 1. **对人群的打击**
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > plague 来自拉丁语"打击"——瘟疫是对整个人群的"打击"。14世纪欧洲的黑死病就是 bubonic plague。后来引申为"持续的困扰"——被问题 plague 就是"被问题反复打击"。He was plagued by health problems（他一直被健康问题困扰）。plague 就是"瘟疫般的打击"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[blessing]]：祝福，幸事（plague 的精确反义：瘟疫/祸患↔祝福/幸事）
 > - [[comfort]]：安慰（plague 作为"困扰"的反义：折磨↔安慰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bubonic plague**：腺鼠疫，黑死病
 > - **plague by**：被……困扰
 > - **a plague of**：大量的（害虫等）
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Bubonic plague struck London in 1665."（1665年伦敦爆发了腺鼠疫。——欧路词典语料库）
 > - "Plague epidemics have occurred in Africa, Asia and South America, but most human cases since the 1990s have occurred in Africa."（鼠疫疫情曾发生在非洲、亚洲和南美洲，但自1990年代以来，大多数人类病例发生在非洲。——The Guardian）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "save"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使安全→拯救/节省
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/seɪv/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使安全→拯救/节省**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使安全**（生命/人身层面）
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > save 来自拉丁语 *salvare*（使安全）。想象一个消防员冲进火场，把一个人从火海中拉出来——这就是 save（拯救）。你每个月把工资的一部分存进银行——这也是 save（储蓄），因为你的钱"安全"了。你在电脑上按 Ctrl+S——这还是 save（保存），因为你的文件"安全"了。记住 save = 使安全→拯救/节省/保存。
@@ -100,7 +97,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,7 +110,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[waste]]：浪费（save 的精确反义：节省↔浪费）
 > - [[endanger]]：危及（拯救↔危及）
 > - [[spend]]：花费（节省↔花费）
@@ -121,7 +118,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -135,7 +132,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **save one's life**：拯救某人的生命
 > - **save money / time / energy**：省钱/省时/省力
 > - **save for a rainy day**：未雨绸缪（存钱以备不时之需）
@@ -146,7 +143,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Technology has saved us countless hours of work."（科技为我们节省了无数工作时间）——科技话题
 > - "The doctor saved the patient's life."（医生挽救了病人的生命）——医疗话题
 > - "save money for retirement"（为退休存钱）——经济话题
@@ -155,15 +152,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

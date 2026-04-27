@@ -3,14 +3,12 @@ title: "limited"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 被边界框住的、有限的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈlɪmɪtɪd/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被边界框住的、有限的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **被边界框住的、有限的**（物理层面——被围栏围住）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[limit]]（限制）+ -ed（被……的）→ 被限制的 → 有限的。Ltd.（有限公司）就是 Limited 的缩写——责任被"限制"在公司资产范围内。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,14 +96,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unlimited]]：无限的，无限制的
 > - [[infinite]]：无限的（数学/哲学用语）
 > - [[boundless]]：无边无际的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **limited resources**：有限的资源 We had only limited resources to complete the project.（我们只有有限的资源来完成这个项目。）
   > We have to make the most of our limited resources. 我们必须充分利用有限的资源。
 > - **limited company (Ltd.)**：有限公司 The business was registered as a limited company.（该企业注册为有限公司。）
@@ -125,21 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We had only limited resources to complete the project."（我们只有有限的资源来完成这个项目。）——考研高频表达
 > - "The effectiveness of the drug is limited by its side effects."（该药物的效果因其副作用而受到限制。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

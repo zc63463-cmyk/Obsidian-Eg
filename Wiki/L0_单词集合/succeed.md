@@ -3,14 +3,12 @@ title: "succeed"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 走在下面（跟随其后→接替→成功）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/səkˈsiːd/"
 pos: vi.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走在下面（跟随其后→接替→成功）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **走在后面**（时间先后层面）
@@ -68,7 +66,7 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > suc（在后面）+ ced（走）→ 从后面走上来。新总统接替老总统——succeed the former president。一个人从底层一步步走到顶峰——succeed in life。succeed 的两个意思"接替"和"成功"其实是一回事：从后面走到前面。
@@ -91,7 +89,7 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fail]]：失败（succeed 的精确反义：成功↔失败）
 > - [[precede]]：在……之前，先于（succeed 接替义的反义：接替↔先于）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **succeed in doing sth.**：成功做某事
 > - **succeed sb. as**：接替某人担任……
 > - **succeed to the throne**：继承王位
@@ -133,19 +131,15 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "While traditional paid media still play a major role, companies today can exploit many alternative forms of media."（虽然传统的付费媒体仍然发挥着重要作用，但如今公司可以利用许多替代形式的媒体——2011年考研Text 3）
 > - "He succeeded in passing the exam on his second attempt."（他在第二次尝试时成功通过了考试——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

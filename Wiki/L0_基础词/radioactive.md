@@ -3,14 +3,12 @@ title: "radioactive"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 辐射活跃的（持续释放辐射能的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌreɪdiəʊˈæktɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**辐射活跃的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **辐射活跃的**（物理层面）
@@ -65,7 +63,7 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > radio（辐射）+ active（活跃的）→ radioactive。想象一个核反应堆，里面的铀元素非常"活跃"，不停地向外辐射粒子——这就是 radioactive。放射性碘（radioactive iodine）一周内就会失去一半威力。
@@ -87,7 +85,7 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stable]]：稳定的（radioactive 放射性的 ↔ stable 稳定的，原子核不衰变）
 > - [[inert]]：惰性的（radioactive 活跃辐射 ↔ inert 不发生化学反应）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **radioactive waste**：放射性废料
 > - **radioactive material**：放射性物质
 > - **radioactive elements**：放射性元素
@@ -133,19 +131,15 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Radioactive iodine loses half its strength in a week."（放射性碘在一周内会失去一半威力——考研科普类阅读高频表达）
 > - "Some byproducts of the nuclear fission are themselves radioactive."（核裂变的某些副产品本身也具有放射性——考研科普类阅读高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "brief"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 短的、简洁的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/briːf/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**短的、简洁的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **短的、简洁的**（时间/内容层面）
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 brevis 就是"短"。想象一个律师走进法庭，手里只拿着一份**短**文件——那就是 brief（案情摘要）。法官说"请简短陈述"，律师就开始 brief 法官案情。从一份短文件到一个动词，brief 始终是"短"。
@@ -98,7 +95,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,7 +108,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lengthy]]：冗长的（最精确反义：brief ↔ lengthy，常搭配文件/报告）
 > - [[long]]：长的（最通用反义）
 > - [[verbose]]：啰嗦的（强调语言冗长）
@@ -119,7 +116,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in brief**：简而言之（= in short）
 > - **a brief description / summary / overview**：简短的描述/摘要/概述
 > - **brief sb. on sth.**：向某人介绍某事的情况
@@ -142,7 +139,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Please give a brief self-introduction."（请做一个简短的自我介绍）——考研面试常见表达
 > - "In brief, the plan is feasible."（简而言之，这个计划是可行的）——写作/论述常用过渡
 > - "brief sb. on the latest development"（向某人介绍最新进展）——商业/新闻语境
@@ -150,15 +147,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "prevalent"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 力量超越的（在力量上超过其他的状态）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈprevələnt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**力量超越的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **力量超越的**（力量层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre（超越）+ val（力量）+ ent（……的状态）→ 力量超越的状态 → 普遍的。[[prevail]]（盛行）的形容词形式就是 prevalent。一种观点的力量超越了其他观点，它就 prevalent（普遍存在）了。Smartphones are prevalent in modern society（智能手机在现代社会很普遍）。记住：prevalent = 力量超越的 = 普遍的。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rare]]：罕见的（prevalent↔rare：普遍↔罕见）
 > - [[uncommon]]：不常见的（prevalent↔uncommon：普遍↔不常见）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **prevalent among/in**：在……中普遍存在
 > - **prevalent belief/opinion**：普遍的信念/观点
 > - **prevalent disease**：流行病
@@ -125,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The belief that hard work leads to success is still prevalent in many cultures."（努力工作就能成功的信念在许多文化中仍然普遍。）
 > - "Mental health problems are increasingly prevalent among young adults."（心理健康问题在年轻人中越来越普遍。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "persuade"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 使人甘愿听从（通过说理让人心甘情愿地改变想法）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/pəˈsweɪd/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使人甘愿听从**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使人甘愿听从**（社会互动层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > per（完全）+ suad（劝）→ 完全劝服。想象一个律师在法庭上，用充分的证据把陪审团完全劝服了——这就是 persuade。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dissuade]]：劝阻（persuade 的反义：说服去做 ↔ 劝阻不做）
 > - [[discourage]]：使气馁，劝阻（persuade 的反义：鼓励去做 ↔ 使丧失信心）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **persuade sb. to do sth.**：说服某人做某事
 > - **persuade sb. into doing sth.**：说服某人做某事
 > - **persuade sb. out of doing sth.**：说服某人放弃做某事
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Advertising is intended to appeal to consumers, but it does not force them to buy the product. It is meant to **persuade** rather than coerce."（广告旨在吸引消费者，但并不强迫他们购买产品。它的目的是说服而非胁迫。——1995年考研英语Text 1）
 > - "Relying on ethical **persuasion** rather than law to address the misuse of body ideals may be the best step."（依靠道德说服而非法律来解决身体理想形象的滥用可能是最好的办法。——考研真题阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

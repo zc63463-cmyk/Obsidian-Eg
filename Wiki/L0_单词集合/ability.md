@@ -3,14 +3,12 @@ title: "ability"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 持有做某事的力量
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈbɪləti/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**持有做某事的力量**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **持有做某事的力量**（身体/心智层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ability 的祖先 habere 是拉丁语中的"持有、拥有"。想象你手中握着一把钥匙——这把钥匙代表你**持有**打开某扇门的力量，那就是你的 ability。从身体的力量到心智的才能，ability 始终是你"握在手中的力量"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inability]]：无能，无力（ability 的精确反义：有能力↔无能力）
 > - [[disability]]：残疾，缺陷（身体或心智能力的丧失）
 > - [[incapacity]]：无能力，不胜任（正式用语，强调不具备某种能力）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the ability to do sth.**：做某事的能力
 > - **have the ability to do sth.**：有能力做某事
 > - **show/demonstrate ability**：展示能力
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the ability to communicate effectively"（有效沟通的能力）——考研写作和阅读中极高频搭配
 > - "have the ability to adapt to change"（有适应变化的能力）——社会/科技类话题中常见
 > - "beyond one's ability"（超出某人的能力范围）——教育类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

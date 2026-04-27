@@ -3,14 +3,12 @@ title: "assembly"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: [assemblies]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 集会，集合
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈsembli/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ as-(=ad-，朝向) + [[sem/sim]](相同，一起) + -bly(名词后缀，来自 [
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**集会，集合**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **集会，集合**（社会层面：人聚集在一起）
@@ -68,7 +66,7 @@ as-(=ad-，朝向) + [[sem/sim]](相同，一起) + -bly(名词后缀，来自 [
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ as-(=ad-，朝向) + [[sem/sim]](相同，一起) + -bly(名词后缀，来自 [
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 全校师生聚到一起（assemble）开大会——这就是assembly（集会），工厂流水线上的assembly line（装配线）也是同样的道理。
@@ -90,7 +88,7 @@ as-(=ad-，朝向) + [[sem/sim]](相同，一起) + -bly(名词后缀，来自 [
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ as-(=ad-，朝向) + [[sem/sim]](相同，一起) + -bly(名词后缀，来自 [
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dismissal]]：assembly是集会，dismissal是解散
 > - [[disassembly]]：assembly是组装，disassembly是拆卸
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +116,22 @@ as-(=ad-，朝向) + [[sem/sim]](相同，一起) + -bly(名词后缀，来自 [
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assembly line**：装配线，流水线（The factory introduced a new assembly line to increase efficiency.）
 > - **General Assembly**：联合国大会（The UN General Assembly meets annually in New York.）
 > - **freedom of assembly**：集会自由（Freedom of assembly is a fundamental human right.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The right to freedom of assembly is guaranteed by the constitution."（集会自由权由宪法保障。）——考研高频表达
 > - "Workers have the right to form trade unions and hold assembly."（工人有权组建工会和举行集会。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

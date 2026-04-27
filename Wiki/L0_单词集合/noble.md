@@ -3,14 +3,12 @@ title: "noble"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 出身高贵的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈnəʊbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ n-（gn- 在前缀位置的同化变体）+ -oble（来自拉丁语 *nobilis*，
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**出身高贵的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **出身高贵的**（社会等级层面）
@@ -70,7 +68,7 @@ n-（gn- 在前缀位置的同化变体）+ -oble（来自拉丁语 *nobilis*，
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ n-（gn- 在前缀位置的同化变体）+ -oble（来自拉丁语 *nobilis*，
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > noble 来自拉丁语 *nobilis*（知名的，著名的），与 *gnoscere*（知道）同源。在古罗马，"被大家知道的人"就是贵族——因为只有贵族的名字才会被记录和传颂。后来，"贵族"所代表的道德品质——勇敢、慷慨、正直——也被赋予了 noble 的含义。想象一座金碧辉煌的宫殿，住着一位出身名门、品德高尚的人——他的血统是 noble（贵族的），他的品格是 noble（崇高的），他的宫殿也是 noble（宏伟的）。noble 的本质就是"配得上最高地位"。
@@ -95,7 +93,7 @@ n-（gn- 在前缀位置的同化变体）+ -oble（来自拉丁语 *nobilis*，
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ n-（gn- 在前缀位置的同化变体）+ -oble（来自拉丁语 *nobilis*，
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[humble]]：卑微的，谦逊的（高贵的↔卑微的）
 > - [[ignoble]]：卑鄙的，不光彩的（崇高的↔卑鄙的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,28 +123,22 @@ n-（gn- 在前缀位置的同化变体）+ -oble（来自拉丁语 *nobilis*，
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **noble cause/ideal**：崇高的事业/理想（He devoted his life to a noble cause.）
 > - **noble spirit**：崇高的精神（Her noble spirit inspired everyone around her.）
 > - **noble family**：贵族家庭（She was born into a noble family.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He devoted his life to a noble cause — the fight against poverty and injustice."（他将自己的一生奉献给了一项崇高的事业——与贫困和不公正作斗争。）——考研高频表达
 > - "She was born into a noble family with a long tradition of public service."（她出生于一个有着悠久公共服务传统的贵族家庭。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "asset"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 足够的，充分的
-extension_dim: 价值判断
+extension_dim: [价值判断]
 phonetic: "/ˈæset/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**足够的（财产）**"为统筹中心，沿价值判断向外扩展：
 >
 > 1. **足够的**（数量层面）
@@ -66,7 +64,7 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > asset 来自古法语 *asez*（足够的）。中世纪的法律用语中，"有足够的财产"就是有 asset。后来 asset 从"足够的"变成了"资产"本身。考研重点掌握两个用法：① 财务上的"资产"（fixed assets = 固定资产）；② 比喻"有价值的人或物"（She is an asset to the company = 她是公司的宝贵财富）。记住：asset 的核心就是"有价值的东西"。
@@ -88,7 +86,7 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[liability]]：负债；不利条件（asset 的精确反义：资产↔负债，有利条件↔不利条件）
 > - [[debt]]：债务（asset 的反义：资产↔债务）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fixed assets**：固定资产
 > - **current assets**：流动资产
 > - **be an asset to**：是……的宝贵财富
@@ -129,19 +127,15 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A company's most valuable assets are often its employees, not its physical resources."（一家公司最有价值的资产往往是其员工，而非其物质资源。——考研英语阅读管理类话题）
 > - "Intellectual property has become one of the most important assets in the modern economy."（知识产权已成为现代经济中最重要的资产之一。——考研英语阅读经济法律类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

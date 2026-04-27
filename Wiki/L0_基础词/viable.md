@@ -3,14 +3,12 @@ title: "viable"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 能活的（有生命力的、能存活下去的）
-extension_dim: 生命→可行性
+extension_dim: [生命→可行性]
 phonetic: "/ˈvaɪəbl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**能活的（有生命力的、能存活下去的）**"为统筹中心，沿生命→可行性向外扩展：
 >
 > 1. **能活的**
@@ -66,7 +64,7 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > viable 来自 via（道路）+ -able（能……的）→ "能走通路的"→ "能存活的"。想象一颗种子落在贫瘠的土地上——如果它能扎根、发芽、生长，它就是 viable 的。同样，一个方案如果能真正执行并产生效果，它就是 viable solution（可行的方案）；一个企业如果能自负盈亏，它就是 viable business（能盈利的企业）。viable 的核心画面始终是"生命力"——能活下来的就是 viable。
@@ -90,7 +88,7 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[impossible]]：不可能的（viable 的反义：可行↔不可能）
 > - [[unworkable]]：行不通的（viable 的反义：可行↔行不通）
 > - [[unviable]]：不可行的，无法存活的（viable 的直接否定形式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **viable solution/alternative**：可行的解决方案/替代方案
 > - **commercially/economically viable**：商业上/经济上可行的
 > - **viable business/company**：能盈利的企业/公司
@@ -135,19 +133,15 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Rising oil prices have made alternative energy sources more economically viable."（不断上涨的油价使替代能源在经济上变得更加可行——Cambridge English Corpus）
 > - "Home-working offers a viable solution to the work/family conflict."（在家办公为工作与家庭的冲突提供了一个可行的解决方案——Cambridge English Corpus）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

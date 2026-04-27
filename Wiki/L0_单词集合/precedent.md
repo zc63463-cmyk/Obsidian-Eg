@@ -3,17 +3,14 @@ title: "precedent"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 先例/前例
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈpresɪdənt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: ced-cess
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ent（名�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**先例**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **先例**（法律/历史层面：先前的案例或事件）
@@ -65,7 +62,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ent（名�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ent（名�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > precedent = pre（前）+ ced（走）+ ent（事物）。走在前面的事物就是"先例"。法律上讲究"遵循先例"（follow precedent），即参照以前判过的案子来判新案。set a precedent = 创造先例。
@@ -83,7 +80,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ent（名�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,12 +92,12 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ent（名�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[consequence]]：后果；结果（与先例相对，先例→后果）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +110,7 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ent（名�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **set a precedent**：开创先例
   - The court's ruling set a precedent for future cases.（法院的裁决为今后的案件开创了先例。）
 > - **without precedent**：史无前例的
@@ -123,21 +120,15 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ent（名�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that the Vermont case will offer a precedent-setting test of how far those powers extend."（此案件中的法律问题还不清楚：尽管最高法院规定各州确实对核能拥有一定的监管权力，但法律学者表示佛蒙特州的案件将为这些权力延伸多远提供一个开创先例的测试。）——2012年考研英语阅读Text2
 > - "This decision creates a dangerous precedent for future cases."（这个决定为未来的案件开创了一个危险的先例。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

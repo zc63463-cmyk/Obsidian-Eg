@@ -3,14 +3,12 @@ title: "encounter"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 面对面相遇
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈkaʊntər/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**面对面相遇**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **面对面相遇**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > en（在）+ counter（对面，来自法语 contre）= 在对面相遇。想象你在旅途中**转过街角**，突然和一位老朋友**面对面**——这就是一次 encounter（偶遇）。在学术研究中，你也会 encounter（遭遇）各种困难——你和困难"面对面"了。counter（柜台）和 encounter 是远亲——你站在柜台对面，就是在和店员 encounter。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[avoid]]：避免（encounter 的反义：遇到↔避免）
 > - [[miss]]：错过（encounter 的反义：相遇↔错过）
 > - [[evade]]：逃避（encounter "遭遇"的反义：面对↔逃避）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **encounter difficulties/problems**：遇到困难/问题
   - *Students often encounter difficulties when adapting to a new learning environment.*（学生在适应新的学习环境时经常会遇到困难。）
 > - **a chance encounter**：偶然相遇
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "encounter difficulties/problems"（遇到困难/问题）——考研阅读/写作极高频搭配，常用于描述挑战和障碍
 > - "encounter resistance/opposition"（遇到阻力/反对）——考研阅读中社会变革类文章常见搭配
 > - "a chance encounter with"（与……的偶然相遇）——考研阅读中叙事类文章常见表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

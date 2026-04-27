@@ -3,14 +3,12 @@ title: "thorn"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 植物上尖锐的防御结构（带刺的部分）
-extension_dim: 具象→抽象
+extension_dim: [具象→抽象]
 phonetic: "/θɔːn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**植物上尖锐的防御结构**"为统筹中心，沿具象→抽象向外扩展：
 >
 > 1. **植物上尖锐的防御结构**
@@ -64,7 +62,7 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > thorn 是植物身上最古老的防御武器。玫瑰虽美但有刺（Every rose has its thorn），荆棘虽丑但能保护自己。The thorn went deep into the flesh of my hand（刺深深扎进了我的手）。当 thorn 从植物世界进入人类语言，它变成了"烦恼"的代名词——a thorn in one's side（某人的眼中钉）。想象一根刺扎在你的皮肤里，取不出来，隐隐作痛——这就是 thorn 给人的感觉。
@@ -87,7 +85,7 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[petal]]：花瓣（thorn 的植物反义：刺↔花瓣，玫瑰的刺与花形成对比）
 > - [[blossom]]：花朵（thorn 的反义：荆棘↔花朵，No rose without a thorn）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a thorn in one's side/flesh**：眼中钉，肉中刺
 > - **thorny problem/issue**：棘手的问题
 > - **a thorn bush**：荆棘丛
@@ -128,19 +126,15 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The society has long been a thorn in the side of some in agriculture with its undercover investigations and campaigns against animal cruelty."（该协会长期进行卧底调查和反对虐待动物的运动，早已成为一些农业从业者的眼中钉——Huffington Post）
 > - "The conflict remains a thorn in regional relations and also risks being exploited by regional drug smuggling networks."（该冲突仍然是地区关系中的一根刺，并有被地区毒品走私网络利用的风险——Reuters）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "nuclear"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 像坚果核一样的（中心的核心部分）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈnjuːkliə(r)/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**像坚果核一样的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **坚果的核**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nuclear 源自拉丁语 *nucleus* = 小坚果 = 果核。科学家用"果核"来命名原子的中心——原子核。nuclear energy（核能）= 原子核释放的能量。nuclear weapons（核武器）= 利用原子核能量的武器。nuclear family（核心家庭）= 像果核一样最小的家庭单位（父母+子女），与 extended family（大家庭）相对。nuclear waste（核废料）——考研高频话题。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extended]]：扩展的（nuclear family 的反义：核心家庭↔大家庭）
 > - [[conventional]]：常规的（nuclear weapons 的反义：核武器↔常规武器）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nuclear energy/power**：核能/核动力
 > - **nuclear weapons**：核武器
 > - **nuclear family**：核心家庭（父母+子女）
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The debate over nuclear energy has intensified as countries seek alternatives to fossil fuels in the fight against climate change."（随着各国在应对气候变化中寻找化石燃料的替代品，关于核能的争论日益激烈——考研阅读环保话题相关表达）
 > - "The nuclear family, consisting of two parents and their children, has been the basic unit of social organization in many Western societies."（由父母和子女组成的核心家庭一直是许多西方社会组织的基本单位——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

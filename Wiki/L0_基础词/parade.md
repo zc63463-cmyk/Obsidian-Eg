@@ -3,14 +3,12 @@ title: "parade"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 准备好的展示（排列整齐地行进展示）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/pəˈreɪd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**准备好的展示**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **准备好的展示（军事层面）**
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > parade 来自拉丁语 parare（准备）。军队在检阅前要"准备"——列队、整理装备，这就是 parade 的本义。后来从军事延伸到民间：胜利后士兵们列队穿过街道就是 victory parade（胜利游行）。再后来，把你的财富、美貌排列出来给别人看就是"炫耀"——parade your wealth。parade 的核心始终是"有准备地展示"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hide]]：隐藏（parade 的反义：展示↔隐藏）
 > - [[conceal]]： conceal（parade 的反义：公开展示↔隐藏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a military parade**：阅兵式
 > - **parade one's wealth/knowledge**：炫耀财富/知识
 > - **hold a parade**：举行游行
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The soldiers paraded through the streets to celebrate the victory."（士兵们列队穿过街道庆祝胜利——考研阅读历史话题相关表达）
 > - "She paraded her new diamond ring in front of her friends."（她在朋友面前炫耀她的新钻戒——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

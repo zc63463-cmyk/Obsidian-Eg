@@ -3,14 +3,12 @@ title: "exceed"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 超出，超过（走出去越过界限）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪkˈsiːd/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走出去越过界限**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **走出去越过界限**（空间动作层面）
@@ -64,7 +62,7 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（出）+ ceed（走，[[ced-cess]]）→ 走出去越过界限 → exceed。想象一条跑道上的终点线，你不仅跑到了终点，还跑出去了——你 exceed 了（超过了）。exceed the speed limit 就是"走出了限速的范围"，exceed expectations 就是"走出了预期的范围"。
@@ -86,7 +84,7 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fall short of]]：未达到（exceed 的反义：超过↔未达到）
 > - [[below]]：低于（exceed 的反义：超出↔低于）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exceed the limit/speed limit**：超过限度/超速
 > - **exceed expectations**：超出预期
 > - **exceed the budget**：超出预算
@@ -127,19 +125,15 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The benefits of the new policy exceed the costs."（新政策的收益超过了成本。）
 > - "Demand has exceeded supply, leading to shortages."（需求已超过供给，导致短缺。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

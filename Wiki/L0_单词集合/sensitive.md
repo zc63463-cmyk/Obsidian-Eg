@@ -3,14 +3,12 @@ title: "sensitive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 敏感的、易受影响的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsensətɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**敏感的、易受影响的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **敏感的，易受影响的**（身体层面：对物理刺激反应强烈）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[sens/sent|sens]](感觉) + -itive(有…倾向的) = sensitive（敏感的）。想象一个孩子看到流浪猫会心疼落泪——她对动物的痛苦非常 sensitive，既有身体的敏感，也有心灵的敏感。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insensitive]]：不敏感的，麻木的（敏感 vs 不敏感）
 - [[tough]]：坚强的（脆弱敏感 vs 坚强）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sensitive issue/topic**：Privacy is a sensitive issue in the digital age.（在数字时代，隐私是一个敏感话题。）
 > - **be sensitive to**：She is very sensitive to criticism.（她对批评非常敏感。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price."（发达国家也不像过去那样依赖石油，因此对油价的波动也不那么敏感了。）——2002考研阅读Text3
 > - "She is very sensitive to criticism from others."（她对别人的批评非常敏感。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

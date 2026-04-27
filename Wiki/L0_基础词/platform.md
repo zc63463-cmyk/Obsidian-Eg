@@ -3,14 +3,12 @@ title: "platform"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 平坦的放置物
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈplætfɔːm/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**平坦的放置物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **平坦的放置物**（物理层面）
@@ -66,7 +64,7 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > plat（平坦）+ form（形状）→ 平坦的形状 → 平台。火车站的站台是 platform，因为它是供人站立的平坦地面。社交媒体的 platform 也是平台，因为它为用户提供展示和交流的"平坦空间"。政党竞选时展示政策纲领，也是在 platform 上——政纲就是政治平台。
@@ -88,7 +86,7 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 暂无精确反义词（platform 含义较独特）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **social media platform**：社交媒体平台
 > - **run on a platform of**：以……为政纲竞选
 > - **platform ticket**：站台票
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The implication is that Millennials prefer news from the White House to be filtered through other source, not a president's social media platform."（这意味着千禧一代更希望白宫的新闻经过其他来源过滤，而不是总统的社交媒体平台。——2018年考研英语一 Text 2）
 > - "He ran on a platform of anti-corruption and a more realist foreign policy."（他的竞选基于反腐败和更为现实的外交政策的纲领。——经济学人）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

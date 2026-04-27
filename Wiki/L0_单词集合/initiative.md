@@ -3,14 +3,12 @@ title: "initiative"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 主动性、倡议
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪˈnɪʃətɪv/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ in-(进入) + [[it]](走/行走) + -i- + -ative(形容词/名词后缀，具有�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**主动性、积极性**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **主动性、积极性**（个人品质层面——主动发起行动的意愿）
@@ -68,7 +66,7 @@ in-(进入) + [[it]](走/行走) + -i- + -ative(形容词/名词后缀，具有�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ in-(进入) + [[it]](走/行走) + -i- + -ative(形容词/名词后缀，具有�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > initiative 来自 initiate（发起）——一个人能够主动 initiate 事情，就是有 initiative（主动性）。政府主动发起的计划就是 initiative（倡议）。
@@ -91,7 +89,7 @@ in-(进入) + [[it]](走/行走) + -i- + -ative(形容词/名词后缀，具有�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ in-(进入) + [[it]](走/行走) + -i- + -ative(形容词/名词后缀，具有�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[passivity]]：被动性（与 initiative 的"主动性"对立）
 > - [[inertia]]：惰性、惯性
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,27 +120,21 @@ in-(进入) + [[it]](走/行走) + -i- + -ative(形容词/名词后缀，具有�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take the initiative**：采取主动
 > - **on one's own initiative**：主动地
 > - **launch an initiative**：发起一项倡议
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The peace initiative was welcomed by both sides."（和平倡议受到了双方的欢迎。）——考研高频表达
 > - "She took an initiative part in the Wildlife Conservation Society."（她主动参加了野生动物保护协会。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

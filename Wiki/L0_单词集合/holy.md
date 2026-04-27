@@ -3,14 +3,12 @@ title: "holy"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 神圣的、与神有关的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈhoʊli/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ holy 源自古英语 hālig，与 whole（完整的）同源，原始日耳曼�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**神圣的、与神有关的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **神圣的、与神有关的**（宗教核心层面）
@@ -67,7 +65,7 @@ holy 源自古英语 hālig，与 whole（完整的）同源，原始日耳曼�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ holy 源自古英语 hālig，与 whole（完整的）同源，原始日耳曼�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > holy 和 whole（完整的）同源——完整无缺的东西就是神圣的，不可亵渎的。
@@ -90,7 +88,7 @@ holy 源自古英语 hālig，与 whole（完整的）同源，原始日耳曼�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ holy 源自古英语 hālig，与 whole（完整的）同源，原始日耳曼�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[profane]]：世俗的、亵渎的（与 holy 直接对立）
 > - [[unholy]]：不神圣的、邪恶的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,27 +117,21 @@ holy 源自古英语 hālig，与 whole（完整的）同源，原始日耳曼�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **holy place**：圣地、圣所
 > - **Holy Bible**：《圣经》
 > - **holy water**：圣水
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "At least three Russian stations are already operating in Antarctica, part of its effort to challenge the dominance of the American GPS."（至少有三个俄罗斯站已经在南极洲运行，这是其挑战美国GPS主导地位努力的一部分。）——考研高频表达
 > - "Jerusalem is a holy city for three major religions."（耶路撒冷是三大宗教的圣城。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

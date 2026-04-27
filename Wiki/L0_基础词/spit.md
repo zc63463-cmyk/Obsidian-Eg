@@ -3,14 +3,12 @@ title: "spit"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 从口中吐出唾液
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/spɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从口中吐出**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **吐出唾液**（生理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spit 的核心画面是"一个人吐口水"。古英语 *spætan* = 吐痰。想象你不小心吃了什么不好的东西，赶紧吐出来——这就是 spit。spit out the truth（吐露真相）= 把真相从嘴里"吐"出来。the fire spat（火发出劈啪声）= 火在"吐"火星。spit 作名词指"烤肉叉"——在火上旋转烤肉的铁叉（与吐痰的 spit 是同形异义）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[swallow]]：吞咽（spit 的反义：吐出↔吞下）
 > - [[inhale]]：吸入（spit 的反义：吐出↔吸入）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spit out**：吐出；脱口而出
 > - **spit on**：对……吐口水；蔑视
 > - **spit up**：呕吐（婴儿用语）
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The witness, under intense cross-examination, finally spat out the truth that had been concealed for years."（证人在激烈的交叉询问下，终于吐露了隐藏多年的真相——考研阅读法律话题相关表达）
 > - "In many cultures, spitting in public is considered not only rude but also a health hazard, as it can spread infectious diseases."（在许多文化中，在公共场所吐痰不仅被认为是不礼貌的，而且是一种健康危害，因为它可能传播传染病——考研翻译社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

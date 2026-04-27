@@ -3,14 +3,12 @@ title: "champion"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 战场上的斗士（在战场上战斗的人）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈtʃæmpiən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**战场上的斗士**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **战场上的斗士**（战斗层面）
@@ -68,7 +66,7 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > champion 来自拉丁语 campus（战场），原意是"在战场上战斗的人"。在战场上获胜的人就是 champion（冠军）。为某事业而战的人也是 champion（拥护者）。He was a champion for Latinos and blacks within the educational system（他一直致力于在教育系统内为美籍拉美人和黑人争取权益）。
@@ -92,7 +90,7 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[loser]]：失败者（champion 作为"冠军"的反义：冠军↔失败者）
 > - [[opponent]]：反对者（champion 作为"拥护者"的反义：拥护者↔反对者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **world champion**：世界冠军
 > - **champion of**：……的拥护者/捍卫者
 > - **champion a cause**：为某事业而战
@@ -134,19 +132,15 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was a champion for Latinos and blacks within the educational system."（他一直致力于在教育系统内为美籍拉美人和黑人争取权益——考研社会类语料）
 > - "The heavyweight champion will be given a shot at Holyfield's world title."（这名重量级拳击冠军将尝试挑战霍利菲尔德的世界冠军头衔——考研体育类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

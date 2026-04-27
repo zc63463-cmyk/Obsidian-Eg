@@ -3,14 +3,12 @@ title: "concede"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 完全让步，承认
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kənˈsiːd/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全退让**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **完全退让**（社会互动层面）
@@ -66,7 +64,7 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（完全）+ cede（退让）→ concede。辩论中你完全退让了，就是 concede（承认对方是对的）。选举中你完全退让了，就是 concede defeat（认输）。记住"完全退让"就记住了 concede。
@@ -88,7 +86,7 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deny]]：否认（concede 的反义：承认↔否认）
 > - [[insist]]：坚持（concede 的反义：让步↔坚持）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **concede that...**：承认……（后接从句）
 > - **concede defeat**：认输（考研高频）
 > - **concede a point**：承认某一点
@@ -130,19 +128,15 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government conceded that the policy had failed."（政府承认该政策失败了——政治语境高频）
 > - "After losing by a wide margin, she conceded defeat."（在以巨大差距落败后，她承认失败）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

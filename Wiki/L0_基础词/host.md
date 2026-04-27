@@ -3,14 +3,12 @@ title: "host"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 主人（接待客人的人）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/hoʊst/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**主人（接待者）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **主人（接待者）**（社会层面）
@@ -69,7 +67,7 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > host 来自拉丁语 hospes（主人/客人）。你请朋友来家里吃饭，你就是 host（主人）。你主持一档电视节目，你就是 TV host（主持人）。病毒进入你的身体，你就是 virus 的 host（宿主）。host 的核心就是"接待者"——谁在接待，谁就是 host。
@@ -92,7 +90,7 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[guest]]：客人（host 的精确反义：主人↔客人）
 > - [[parasite]]：寄生物（host 作为"宿主"的反义：宿主↔寄生物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **host country**：东道国
 > - **a host of**：大量，许多
 > - **play host to**：做东，主办
@@ -132,19 +130,15 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A host of factors contribute to the decline in biodiversity."（大量因素导致了生物多样性的下降。）
 > - "China will host the next international conference."（中国将主办下一届国际会议。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "phone"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 远处的声音（通过电信号传递远距离声音的工具）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/fəʊn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**远处的声音**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **远处的声音**（空间层面）
@@ -68,7 +66,7 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > phone 来自希腊语 phōnē（声音）。telephone = tele（远）+ phone（声音）= 远处的声音 = 电话。后来 phone 独立使用，成为日常生活中最常见的词汇之一。
@@ -91,7 +89,7 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（phone 为工具名词，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **phone call**：电话
 > - **phone number**：电话号码
 > - **on the phone**：在打电话
@@ -129,19 +127,15 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Mr Jobs was said by an engineer in the early years of Apple to emit a 'reality distortion field', such were his powers of **persuasion** that he could convince anyone of almost anything, even on the **phone**."（据说在苹果公司早期，一位工程师说乔布斯会发出一种"现实扭曲场"，他的说服力如此之强，甚至通过电话也能让任何人相信任何事情。——四级真题）
 > - "The **phone** rings and a voice says, 'You have been selected for a special offer.'"（电话响了，一个声音说："您已被选中参加特别优惠。"——语料库例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

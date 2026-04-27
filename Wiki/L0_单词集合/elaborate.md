@@ -3,14 +3,12 @@ title: "elaborate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 劳动出来→精心制作
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈlæbərət/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**劳动出来→精心制作**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **劳动出来**（物理制作层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > elaborate = e（出来）+ labor（劳动）+ ate → 把劳动做出来。想象一个工匠，不是随便敲两下就交差，而是一锤一锤精心打磨，把所有的劳动都"做出来"体现在作品上——这就是 elaborate（精心制作）。记住 labor = 劳动，elaborate = 把劳动做出来。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[simple]]：简单的（精心制作↔简单）
 - [[sketchy]]：粗略的（详尽的↔粗略的）
 - [[brief]]：简短的（详细阐述↔简短说明）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **elaborate on**：详细阐述（+ on 才接宾语阐述内容）
 > - **elaborate plan / design / scheme**：精心制作的计划/设计/方案
 > - **elaborate preparations**：详尽的准备
@@ -138,7 +136,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Could you elaborate on your proposal?"（你能详细阐述一下你的提案吗？）——学术/工作场景高频表达
 > - "She wore an elaborate costume to the party."（她穿了一件精心制作的服装参加派对）——生活话题
 > - "The government has elaborate plans for economic reform."（政府制定了详尽的经济改革计划）——政治/经济话题
@@ -146,15 +144,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

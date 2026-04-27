@@ -3,14 +3,12 @@ title: "peel"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 剥去外皮（用手去除物体表面覆盖层）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/piːl/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**剥去外皮**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **剥去外皮**（物理动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > peel 就是"削皮"。你削苹果皮（peel an apple），墙上的油漆一片片剥落（the paint is peeling），你层层揭开一个秘密（peel back the layers of mystery）。peel 始终围绕"去除表面覆盖层"这个核心动作。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cover]]：覆盖（peel 的反义：去除覆盖层↔覆盖）
 > - [[wrap]]：包裹（peel 的反义：剥开↔包裹）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **peel off**：剥落，脱落（如 The paint is peeling off.）
 > - **peel back**：剥开，揭开（如 peel back the layers）
 > - **keep one's eyes peeled**：保持警惕，留心观察
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - No call to care, finally, could be too mundane; what could be more ordinary than peeling an egg?（最终，任何关于关爱的呼吁都不算太琐碎；还有什么比剥鸡蛋更普通的事呢？——剑桥语料）
 > - The paint was peeling from the walls of the old building.（旧建筑墙上的油漆正在剥落。——六级阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

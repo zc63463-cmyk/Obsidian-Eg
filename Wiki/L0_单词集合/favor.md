@@ -3,14 +3,12 @@ title: "favor"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 善意→好感
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfeɪvə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**善意→好感**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **善意**（情感基础）
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > favor 源自拉丁语"善意"。想象你对一个同事有善意（favor），你就会对他有好感（好感），在分配任务时偏爱他（偏爱），在他需要帮助时给他恩惠（恩惠）。开会时你赞成他的方案（赞成），因为条件有利于他（有利于）。所有义项都从"善意"出发，形成完整的语义网络。
@@ -100,7 +98,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disfavor]]：不赞成，冷遇（好感↔冷遇）
 - [[oppose]]：反对（赞成↔反对）
 - [[disapprove]]：不赞成（赞成↔不赞成）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in favor of**：支持，赞成
 > - **do someone a favor**：帮某人一个忙
 > - **ask a favor of someone**：请某人帮忙
@@ -143,7 +141,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Could you do me a favor and close the window?"（你能帮我个忙关一下窗户吗？）——日常交际
 > - "The majority of voters were in favor of the new policy."（大多数选民赞成这项新政策）——政治话题
 > - "The weather conditions favored the growth of the crops."（天气条件有利于农作物的生长）——注意 favor 作"有利于"的用法
@@ -151,15 +149,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

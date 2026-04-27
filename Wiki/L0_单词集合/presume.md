@@ -3,14 +3,12 @@ title: "presume"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 预先拿取
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/prɪˈzjuːm/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ pre-(在……之前) + sume(拿取) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**预先拿取**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **预先拿取**（物理动作）
@@ -66,7 +64,7 @@ pre-(在……之前) + sume(拿取) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ pre-(在……之前) + sume(拿取) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre（提前）+ sume（拿）→ 提前拿取结论就是"推测"，提前拿取行动权就是"冒昧"。就像你还没被邀请就自己坐上了主位——这就是presume to do something。
@@ -90,7 +88,7 @@ pre-(在……之前) + sume(拿取) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ pre-(在……之前) + sume(拿取) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prove]]：prove表示"证明"，与presume的"推测"形成确定性的对立
 > - [[verify]]：verify表示"核实、证实"，与presume的"假定"形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ pre-(在……之前) + sume(拿取) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **presume to do sth.**：冒昧做某事
   > I would not presume to tell you how to do your job.（我不敢冒昧地告诉你如何做你的工作。）
 > - **presume (that)...**：推测……
@@ -131,20 +129,14 @@ pre-(在……之前) + sume(拿取) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We should not presume that all consumers share the same preference."（我们不该擅自认定所有消费者都拥有相同的偏好。）——2017年阅读Text2
 > - "He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension.""（他说，行医资格理事会"必须明确表明——病人痛苦地死亡，可以推定是由于医生处理不力造成的，应该因此吊销其从医资格。"）——2002年阅读4
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

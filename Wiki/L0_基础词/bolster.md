@@ -3,14 +3,12 @@ title: "bolster"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 支撑、加固（用垫子支撑使更牢固）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈbəʊlstə(r)/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**支撑、加固**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **支撑、加固**（物理层面）
@@ -68,7 +66,7 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bolster 最初是"长枕头"——放在背后支撑身体的垫子。后来引申为"支撑、加固"。More money is needed to bolster the industry（需要更多资金来支撑该产业）。She tried to bolster my confidence（她试图增强我的信心）。The evidence bolstered the argument（证据加固了论点）。
@@ -91,7 +89,7 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[undermine]]：削弱，破坏（bolster 的精确反义：支撑↔削弱）
 > - [[weaken]]：减弱，削弱（bolster 的反义：加固↔减弱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bolster the economy**：支撑经济
 > - **bolster confidence/morale**：增强信心/士气
 > - **bolster the argument/case**：加固论点
@@ -132,19 +130,15 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "More money is needed to bolster the industry."（需要更多的钱来扶持该产业。——考研阅读高频表达）
 > - "Since the former is most common among those inclined towards indifferent relationships, their predominance can bolster individuals' sense of self-worth."（由于前者在那些倾向于淡漠关系的人群中最为常见，它们的优势可以增强个体的自我价值感。——考研阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

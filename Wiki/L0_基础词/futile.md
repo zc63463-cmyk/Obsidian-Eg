@@ -3,14 +3,12 @@ title: "futile"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 注定倒掉的（倒入后无用的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfjuːtaɪl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**注定倒掉的（泄漏的）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **注定倒掉的**（物理层面——容器泄漏）
@@ -63,7 +61,7 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fut（倾倒/泄漏）+ ile（易于……的）→ futile。想象你拼命往一个漏水的桶里倒水——不管多努力，水都会漏光。这就是 futile（徒劳的）。All his efforts proved futile.（他所有的努力都证明是徒劳的。）
@@ -86,7 +84,7 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[effective]]：有效的（futile 的反义：无效↔有效）
 > - [[fruitful]]：富有成效的（futile 的反义：徒劳↔有成果）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a futile attempt/effort**：徒劳的尝试/努力
 > - **prove futile**：证明是徒劳的
 > - **a futile gesture**：无意义的姿态
@@ -127,19 +125,15 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All attempts to negotiate a settlement proved futile."（所有试图通过谈判达成和解的努力都证明是徒劳的——考研高频表达）
 > - "It would be futile to resist the inevitable changes."（抵抗不可避免的变化将是徒劳的）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

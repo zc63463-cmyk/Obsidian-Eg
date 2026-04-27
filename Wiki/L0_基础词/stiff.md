@@ -3,14 +3,12 @@ title: "stiff"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 僵硬的，不易弯曲的（身体或物体难以活动）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stɪf/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**僵硬的，不灵活的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **僵硬的**（身体层面）
@@ -69,7 +67,7 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stiff 和 stand（站立）同源——站得笔直、一动不动就是 stiff。想象你站军姿站了两个小时，全身变得 stiff（僵硬的）。一个 stiff（严厉的）老师就像站军姿的教官——不苟言笑、不让步。一场 stiff（激烈的）考试让你全身 stiff（绷紧的）。stiff 的灵魂就是"不弯曲"。
@@ -92,7 +90,7 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[flexible]]：灵活的，柔韧的（stiff 的精确反义：僵硬↔灵活）
 > - [[soft]]：柔软的（stiff 的反义：僵硬↔柔软）
 > - [[lenient]]：宽容的，仁慈的（stiff 的反义：严厉↔宽容）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stiff competition**：激烈的竞争（They face stiff competition from foreign companies.）
 > - **stiff penalty/punishment**：严厉的惩罚（The court imposed a stiff penalty on the company.）
 > - **stiff neck/shoulders**：僵硬的脖子/肩膀
@@ -131,19 +129,15 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Small businesses are facing stiff competition from large multinational corporations."（小企业正面临来自大型跨国公司的激烈竞争）
 > - "The government imposed stiff penalties on companies that violated environmental regulations."（政府对违反环保法规的公司实施了严厉的处罚）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "contemplate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 在一起注视（仔细端详）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkɒntəmpleɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(=com-, 共同/一起) + templ(=temple, 圣殿/观察场所，拉丁语 *tem
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在一起仔细注视**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在一起仔细注视**（物理层面）
@@ -66,7 +64,7 @@ con-(=com-, 共同/一起) + templ(=temple, 圣殿/观察场所，拉丁语 *tem
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-(=com-, 共同/一起) + templ(=temple, 圣殿/观察场所，拉丁语 *tem
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（充分）+ template（模板/观察空间）→ 在观察空间中充分注视 → 沉思。古罗马占卜师在 templum（神圣空间）中凝视天空，仔细观察鸟的飞行来预测未来——这就是 contemplate。今天我们不再观察鸟的飞行，而是"凝视"自己的想法——contemplate the meaning of life（思考生命的意义），contemplate changing career（盘算换工作）。contemplate 的精髓是"深度聚焦"——无论是目光还是思维。
@@ -88,7 +86,7 @@ con-(=com-, 共同/一起) + templ(=temple, 圣殿/观察场所，拉丁语 *tem
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ con-(=com-, 共同/一起) + templ(=temple, 圣殿/观察场所，拉丁语 *tem
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（contemplate 的反义：深思↔忽视）
 > - [[disregard]]：漠视（contemplate 的反义：仔细考虑↔不加理会）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ con-(=com-, 共同/一起) + templ(=temple, 圣殿/观察场所，拉丁语 *tem
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **contemplate doing sth.**：盘算做某事
 > - **contemplate the possibility**：考虑……的可能性
 > - **contemplate one's navel**：过度沉思（习语）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She sat by the window, contemplating the meaning of the letter she had just received."（她坐在窗边，沉思着刚收到的那封信的含义）
 > - "The company is contemplating expanding its business into overseas markets."（公司正在考虑将业务扩展到海外市场）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

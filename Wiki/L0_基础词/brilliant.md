@@ -3,14 +3,12 @@ title: "brilliant"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 闪耀着强烈光芒的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈbrɪliənt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**闪耀着强烈光芒的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **闪耀着强烈光芒的**（视觉层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > brilliant 来源于绿柱石（beryl）——一种会闪闪发光的宝石。想象一颗切割完美的钻石在阳光下折射出七彩光芒——那就是 brilliant。后来，人们用 brilliant 来形容"像宝石一样闪耀的人"，也就是才华横溢的人。爱因斯坦是 a brilliant scientist，贝多芬是 a brilliant musician。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dull]]：暗淡的；迟钝的（brilliant 的反义：闪耀↔暗淡）
 > - [[mediocre]]：平庸的（brilliant 的反义：杰出↔平庸）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a brilliant mind**：才华横溢的头脑
 > - **brilliant sunshine**：灿烂的阳光
 > - **a brilliant idea**：绝妙的主意
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She came up with a brilliant solution to the problem."（她想出了一个绝妙的解决方案）
 > - "Einstein was one of the most brilliant scientists of the 20th century."（爱因斯坦是20世纪最才华横溢的科学家之一）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

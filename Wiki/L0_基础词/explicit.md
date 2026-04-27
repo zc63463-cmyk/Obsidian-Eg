@@ -3,14 +3,12 @@ title: "explicit"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 把折叠的意思向外展开
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪkˈsplɪsɪt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把折叠的意思向外展开**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **把折叠的意思向外展开**（认知层面）
@@ -66,7 +64,7 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > explicit 和 [[implicit]] 是一对反义词。implicit = im（向内）+ plic（折叠）→ 意思折叠在内部 → 含蓄的。explicit = ex（向外）+ plic（折叠）→ 意思向外展开 → 明确的。老师给你 explicit instructions，就是"把指示完全展开给你看"，不需要你猜。记住：explicit = 展开的 = 明确的。
@@ -88,7 +86,7 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[implicit]]：含蓄的，隐含的（explicit 的精确反义：展开的↔折叠的）
 > - [[vague]]：模糊的，含糊的（explicit 的反义：明确的↔模糊的）
 > - [[ambiguous]]：模棱两可的（explicit 的反义：明确的↔模棱两可的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **explicit instructions**：明确的指示
 > - **be explicit about**：对……直言不讳
 > - **explicit rules**：明确的规则
@@ -131,22 +129,16 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The contract contains explicit provisions regarding intellectual property rights."（合同中包含关于知识产权的明确规定。）
 > - "She was explicit about her objections to the proposal."（她明确表示反对该提案。）
 > - explicit 是考研阅读中法律、政策类话题的高频词
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

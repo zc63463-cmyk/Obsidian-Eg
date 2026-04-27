@@ -3,14 +3,12 @@ title: "revolution"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 向后滚翻的结果（彻底翻转现有秩序）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌrevəˈluːʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后滚翻的结果（彻底翻转）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向后滚翻**（物理层面）
@@ -69,7 +67,7 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（向后）+ volut（滚/转）+ ion（名词）→ 向后翻转的结果 → 革命。revolution 最初的意思是"旋转"——哥白尼说地球绕太阳 revolution（转一圈），后来人们把"翻转社会秩序"也叫 revolution——革命就是把旧秩序翻转过来。工业革命、信息革命、法国大革命——都是某个领域的"彻底翻转"。
@@ -91,7 +89,7 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stagnation]]：停滞（revolution 的反义：彻底变革↔停滞不前）
 > - [[conservatism]]：保守主义（revolution 的反义：革命↔保守）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the French/Industrial Revolution**：法国大革命/工业革命
 > - **a revolution in**：……领域的革命/彻底变革
 > - **scientific and technological revolution**：科技革命
@@ -133,19 +131,15 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Industrial Revolution transformed the way people lived and worked."（工业革命改变了人们的生活和工作方式——历史类阅读高频）
 > - "The Information Revolution has brought about profound changes in education."（信息革命给教育带来了深刻的变化——科技教育类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "author"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 创造者，创始者
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɔːθə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ aug-/auct-(增加、增长) → auctor(增加者→创始者) → author
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**创造者，创始者**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **创造者，创始者**（社会层面——从无到有创造事物的人）
@@ -67,7 +65,7 @@ aug-/auct-(增加、增长) → auctor(增加者→创始者) → author
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ aug-/auct-(增加、增长) → auctor(增加者→创始者) → author
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 auctor 意为"增加者、创始者"。一个人在空白的纸上**增加**（aug）文字，他就是**作者**（author）。一个人在社会中**增加**了新的制度或运动，他就是**创始者**。
@@ -91,7 +89,7 @@ aug-/auct-(增加、增长) → auctor(增加者→创始者) → author
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ aug-/auct-(增加、增长) → auctor(增加者→创始者) → author
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reader]]：读者（作者 vs 读者）
 > - [[critic]]：批评者（创作者 vs 批评者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,20 @@ aug-/auct-(增加、增长) → auctor(增加者→创始者) → author
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **author of**：……的作者（She is the author of several bestselling novels. 她是几本畅销小说的作者。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Part of the fame of Allen's book is its contention that 'Circumstances do not make a person, they reveal him.'"（艾伦一书的部分名气在于其论点：'环境不能造就一个人，只能揭示一个人。'）——2011考研英语一翻译
 > - "The author argues that the current education system fails to prepare students for the real world."（作者认为当前的教育体系未能让学生为现实世界做好准备。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

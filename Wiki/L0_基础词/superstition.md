@@ -3,14 +3,12 @@ title: "superstition"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 站在上方观察（超出常理的信仰）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌsuːpəˈstɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在上方观察**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **站在上方观察**（行为层面）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > super（在上方）+ st（站立，同 [[stand]]、[[station]]）+ -ition → 站在事件上方观察 → 迷信（superstition）。古罗马人认为，在神庙上方观察预兆的人就是 superstitio——他们相信鸟的飞行方向预示未来。后来这个词演变为"迷信"——相信没有科学依据的东西。同根词 [[statue]]（站立的东西 → 雕像）、[[status]]（站立的状态 → 地位）。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[science]]：科学（superstition 的反义：迷信↔科学）
 > - [[rationality]]：理性（superstition 的反义：迷信↔理性）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **superstition about**：关于……的迷信
 > - **a common superstition**：常见的迷信
 > - **blind superstition**：盲目的迷信
@@ -122,19 +120,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Breaking a mirror is a common superstition that brings seven years of bad luck."（打碎镜子是一个常见的迷信，据说会带来七年厄运。）
 > - "Science has helped dispel many superstitions about natural phenomena."（科学帮助消除了许多关于自然现象的迷信。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "relish"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 品味、享受（像品尝美味一样充分体验快乐）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈrelɪʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**品味、享受**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **品味、享受**（味觉层面）
@@ -66,7 +64,7 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > relish 最初就是"调味品"——加在食物上让它更有味道。后来引申为"享受"——你 relish a challenge 就像 relish 一道美食，充分品尝其中的滋味。She relishes the prospect of studying abroad（她憧憬着出国留学的前景）——像期待一道美味佳肴。
@@ -89,7 +87,7 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dread]]：恐惧，厌恶（relish 的反义：享受↔恐惧）
 > - [[loathe]]：厌恶，憎恨（relish 的反义：品味↔厌恶）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **relish the chance/opportunity**：珍惜机会
 > - **relish the challenge**：享受挑战
 > - **relish the prospect of**：憧憬……的前景
@@ -131,19 +129,15 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Whether it's a sports team or a presidential campaign, everybody relishes having the big momentum, because it makes them harder to stop or change direction."（无论是运动队还是总统竞选，每个人都享受拥有巨大势头的快感，因为这使他们更难被阻止或改变方向。——考研阅读）
 > - "I don't relish telling her that her son has been arrested."（我不想告诉她她儿子被捕的消息。——考研翻译类例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

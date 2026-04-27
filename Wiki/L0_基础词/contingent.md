@@ -3,14 +3,12 @@ title: "contingent"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 依条件而定的（取决于其他事情的发生）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈtɪndʒənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**依条件而定的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **依条件而定的**（逻辑层面）
@@ -67,7 +65,7 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > contingent 来自拉丁语 contingere（触摸到）。一件事是否"触摸到"你，取决于条件——所以是"依条件而定的"。你的晋升 contingent on 你的表现——看条件。一场比赛的胜负 contingent on 天气——看条件。奥运会上的各国代表团叫 contingent——他们是"被派来"的群体。记住：contingent = con（共同）+ ting（touch 触摸）+ ent → 被触摸到的 → 偶然的 → 依条件而定的。
@@ -90,7 +88,7 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[certain]]：确定的（contingent 的反义：依条件而定的 vs 确定的）
 > - [[independent]]：独立的（contingent 的反义：依赖条件的 vs 独立的）
 > - [[absolute]]：绝对的（contingent 的反义：有条件的 vs 绝对的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **contingent on/upon**：视……而定，取决于
 > - **contingent upon approval**：取决于批准
 > - **contingent events**：偶然事件
@@ -129,19 +127,15 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Funding for the project is contingent upon government approval.（该项目的资金取决于政府的批准。）
 > - The success of the negotiation is contingent on both parties' willingness to compromise.（谈判的成功取决于双方妥协的意愿。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

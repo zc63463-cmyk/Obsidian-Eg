@@ -3,17 +3,14 @@ title: "improve"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 使更好、改进
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪmˈpruːv/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: prob
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ im-(=in，进入，在……中) + [[prob|pro]](=good，好) → 在旧法语中
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使更好、改进**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使更好、改进**（抽象层面）
@@ -65,7 +62,7 @@ im-(=in，进入，在……中) + [[prob|pro]](=good，好) → 在旧法语中
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ im-(=in，进入，在……中) + [[prob|pro]](=good，好) → 在旧法语中
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（进入）+ prove（证明）→ 用行动"证明"自己能做得更好 → 改善。虽然词源上 prove 和 improve 不同源，但这个联想帮助记忆：通过"证明"来"改善"。
@@ -88,7 +85,7 @@ im-(=in，进入，在……中) + [[prob|pro]](=good，好) → 在旧法语中
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +97,14 @@ im-(=in，进入，在……中) + [[prob|pro]](=good，好) → 在旧法语中
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[impair]]：损害，削弱（与 improve 的"改善"恰好相反）
 > - [[worsen]]：恶化，变坏
 > - [[deteriorate]]：退化，恶化
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ im-(=in，进入，在……中) + [[prob|pro]](=good，好) → 在旧法语中
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **improve on/upon**：在……基础上改进 The new model significantly improves upon the previous design.（新模型在之前的设计基础上有了显著改进。）
   > The new model improves upon the previous one in several ways. 新型号在几个方面改进了之前的型号。
 > - **improve quality/efficiency**：提高质量/效率 The factory introduced new technology to improve efficiency and reduce waste.（工厂引进新技术以提高效率并减少浪费。）
@@ -126,21 +123,15 @@ im-(=in，进入，在……中) + [[prob|pro]](=good，好) → 在旧法语中
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government needs to improve the quality of public education."（政府需要提高公共教育的质量。）——考研高频表达
 > - "Technology has significantly improved our ability to communicate across distances."（科技大大提高了我们远距离沟通的能力。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

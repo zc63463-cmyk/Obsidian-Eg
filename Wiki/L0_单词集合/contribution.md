@@ -3,14 +3,12 @@ title: "contribution"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 带到一起的东西、贡献物
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌkɒntrɪˈbjuːʃən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ution(=ution，复合�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**带到一起的东西**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **带到一起的东西**（物质层面：带到公共处的物品）
@@ -66,7 +64,7 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ution(=ution，复合�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ution(=ution，复合�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[contribute]]（带到一起→贡献）+ -ion（名词后缀）→ "带到公共池中"的**行为或结果**——就是"贡献"。contribution 既可以指贡献的行为（make a contribution），也可以指贡献的具体东西（a valuable contribution to science）。
@@ -89,7 +87,7 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ution(=ution，复合�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ution(=ution，复合�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[detriment]]：损害（贡献的反面——对整体造成伤害）
 > - [[damage]]：损害（贡献物的反面——造成破坏的东西）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ution(=ution，复合�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make a contribution to**：对……做出贡献（She made a significant contribution to the field of medicine.）
 > - **financial contribution**：财务贡献（The company made a substantial financial contribution to the project.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Even the very phrase 'jobseeker's allowance' is about redefining the unemployed as a 'jobseeker' who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（甚至就连'求职者补贴'这个短语也重新把失业者定义为'求职者'——丧失基本权利，不能享受自己通过缴纳国民保险所获得的福利。）——2014考研英语一阅读
 > - "He has made an important contribution to the company's success."（他对公司的成功作出了重要的贡献。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

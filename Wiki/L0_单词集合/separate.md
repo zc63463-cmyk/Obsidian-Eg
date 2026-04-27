@@ -3,14 +3,12 @@ title: "separate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 分开、分离
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈsepəreɪt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分开、分离**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **分开、分离**（空间层面：将连接在一起的事物拆开）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[se-]](分开) + [[par/parat|par]](准备) + -ate = separate（分开来准备）。想象你把一摞混在一起的信件按收件人分开——separate 就是把混合物拆分成独立的部分。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unite]]：联合，合并（分离 vs 合并）
 - [[combine]]：结合（分开 vs 结合）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,27 +118,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **separate from**：Separate the white clothes from the colored ones before washing.（洗衣服前将白色衣物和彩色衣物分开。）
 > - **separate...into...**：The class was separated into three groups.（班级被分成了三个小组。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "One reason is that liberal-arts education and professional education should be kept separate, taught in different schools."（一个原因是文科教育和专业教育应该分开，在不同的学院教授。）——2011考研阅读Text1
 > - "The two issues should be treated as separate problems."（这两个问题应该作为独立的问题来处理。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

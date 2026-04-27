@@ -3,14 +3,12 @@ title: "childhood"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 儿童的状态/时期
-extension_dim: 时间-情感扩展
+extension_dim: [时间-情感扩展]
 phonetic: "/ˈtʃaɪldhʊd/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**儿童的状态/时期**"为统筹中心，沿时间-情感扩展向外扩展：
 >
 > 1. **儿童的状态/时期**
@@ -64,7 +62,7 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > child（孩子）+ hood（状态/时期）= childhood（童年）。-hood 后缀专门表示"……的状态或时期"：boyhood 是男孩时期，manhood 是成年时期，childhood 自然就是儿童时期。每个人都有自己的 childhood memories（童年记忆），有人 had a happy childhood（有过快乐的童年），有人 had an unhappy childhood（有过不快乐的童年）。
@@ -86,7 +84,7 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[adulthood]]：成年（childhood 的精确反义：童年↔成年）
 > - [[old_age]]：老年（childhood 的反义：幼年↔老年）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in one's childhood**：在某人的童年时期
 > - **since childhood**：从童年起
 > - **childhood memories**：童年记忆
@@ -136,20 +134,16 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She had an unhappy childhood."（她有一个不快乐的童年。——Cambridge English Dictionary）
 > - "Childhood is not always a happy time."（童年并不总是一段快乐的时光。——Cambridge English Dictionary）
 > - "She spent most of her childhood on a farm in Texas."（她在德克萨斯州的一个农场度过了她的大部分童年。——Cambridge English Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

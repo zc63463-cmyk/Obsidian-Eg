@@ -3,14 +3,12 @@ title: "presumably"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 预先拿取
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/prɪˈzjuːməbli/"
 pos: adv.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ pre-(在……之前) + sume(拿取) + -ably(可以……地)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**预先拿取**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **预先拿取**（物理动作）
@@ -62,7 +60,7 @@ pre-(在……之前) + sume(拿取) + -ably(可以……地)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ pre-(在……之前) + sume(拿取) + -ably(可以……地)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre（提前）+ sume（拿）+ ably（可以……地）→ 可以提前拿取结论 → "大概、据推测"。侦探在证据还没完全收集齐之前就先拿取了一个推理，这就是presumably。
@@ -86,7 +84,7 @@ pre-(在……之前) + sume(拿取) + -ably(可以……地)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ pre-(在……之前) + sume(拿取) + -ably(可以……地)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[certainly]]：certainly表示"当然、确定无疑"，与presumably的"推测"形成确定性对比
 > - [[definitely]]：definitely表示"明确地、肯定地"，与presumably的不确定性对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ pre-(在……之前) + sume(拿取) + -ably(可以……地)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **presumably**（常作句首副词或插入语）
   > Presumably, he will attend the meeting tomorrow.（据推测，他明天会参加会议。）
 > - **used presumably**：大概被使用
@@ -124,20 +122,14 @@ pre-(在……之前) + sume(拿取) + -ably(可以……地)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Presumably they can afford to buy an apartment, or they wouldn't be looking."（据推测他们买得起公寓，否则他们就不会在找了。）——考研高频表达
 > - "Presumably he just forgot to send the letter."（他大概只是忘了寄信。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

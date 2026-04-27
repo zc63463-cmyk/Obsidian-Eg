@@ -3,14 +3,12 @@ title: "coke"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 焦炭（煤炭干馏后的固体燃料）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/kəʊk/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**焦炭**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **焦炭**（物质层面）
@@ -67,7 +65,7 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > coke 源自 coal（煤）的方言变体 col，后来专门指"焦炭"——煤经过高温干馏后的固体燃料。在工业时代，coke 是炼钢不可或缺的燃料。到了现代，coke 更多地作为 Coca-Cola（可口可乐）的缩写出现在日常生活中。考研中 coke 主要以"焦炭"的含义出现在工业或能源话题中。The steel industry relies heavily on coke as a fuel source（钢铁工业严重依赖焦炭作为燃料来源）。
@@ -90,7 +88,7 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （coke 作为物质名词，无精确反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **coke oven**：焦炉
 > - **a can/bottle of coke**：一罐/瓶可口可乐
 > - **coke coal**：将煤炼成焦炭
@@ -127,19 +125,15 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The industrial revolution was fueled in large part by coke, which provided the intense heat needed for iron and steel production."（工业革命在很大程度上以焦炭为燃料，焦炭为钢铁生产提供了所需的高温——考研阅读工业史话题）
 > - "Coca-Cola, commonly known as Coke, has become one of the most recognized brands in global consumer culture."（可口可乐，通常被称为Coke，已成为全球消费文化中最知名的品牌之一——考研阅读商业话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "intelligence"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 在信息之间选择理解的能力；由此产生的知识
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈtelɪdʒəns/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在信息间产生理解的能力**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在信息间产生理解的能力**（认知层面：智力、智慧）
@@ -62,7 +60,7 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > intel（在…之间）+ lig（=leg，选择）→ 在信息之间选择理解 → intelligence（智力）。想象一个侦探在众多线索之间选择、串联，最终产生关键情报——这就是 intelligence 的双重含义。
@@ -87,7 +85,7 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stupidity]]：愚蠢（与"智力"对立）
 > - [[ignorance]]：无知（与"情报/信息"对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **artificial intelligence (AI)**：人工智能
   > Artificial intelligence is revolutionizing many industries.
 > - **intelligence test/quotient (IQ)**：智力测试/智商
@@ -128,19 +126,15 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In his article How Intelligent Is Intelligence Testing? Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge."（在其文章《智力测试到底有多聪明？》中，斯滕伯格指出，传统测试最能评估分析能力和语言能力，但无法衡量创造力和实践知识——2007年考研Text 2）
 > - "Is it true that the American intellectual is rejected and considered of no account in his society?"（美国知识分子遭到拒绝并且在他们的社会里被当作是没有价值的，这是真的吗？——2006年考研翻译）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

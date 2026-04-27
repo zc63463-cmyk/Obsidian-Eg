@@ -3,14 +3,12 @@ title: "feminine"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 女性的特质（拉丁语 *femininus*）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈfemɪnɪn/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ femin(女性，源自拉丁语 *femina*) + -ine(形容词后缀，表示"具有�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**具有女性特质的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **具有女性特质的**（气质层面）
@@ -66,7 +64,7 @@ femin(女性，源自拉丁语 *femina*) + -ine(形容词后缀，表示"具有�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ femin(女性，源自拉丁语 *femina*) + -ine(形容词后缀，表示"具有�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > femin（女性）+ ine（形容词后缀）= feminine。female 说的是"生理性别"，feminine 说的是"女性气质"——温柔、优雅、柔美。法语中 table 是 feminine（阴性词），和生理性别无关，只是语法分类。
@@ -88,7 +86,7 @@ femin(女性，源自拉丁语 *femina*) + -ine(形容词后缀，表示"具有�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ femin(女性，源自拉丁语 *femina*) + -ine(形容词后缀，表示"具有�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[masculine]]：男性的，阳性的（feminine 的精确反义：女性气质↔男性气质）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ femin(女性，源自拉丁语 *femina*) + -ine(形容词后缀，表示"具有�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **feminine beauty**：女性美
 > - **feminine charm**：女性魅力
 > - **feminine noun/gender**：阴性名词/阴性
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The current style in evening wear is soft, romantic, and feminine."（当今晚装的风格是轻柔、浪漫且充满女性风韵的。——经典例句）
 > - "The French word for 'table' is feminine."（法语的 table 一词是阴性。——经典语法例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

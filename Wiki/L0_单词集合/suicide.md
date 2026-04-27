@@ -3,17 +3,14 @@ title: "suicide"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 自己杀死自己
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsuːɪsaɪd/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: sui
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**自己杀死自己**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **自己杀死自己**（物理层面：夺去自己的生命）
@@ -65,7 +62,7 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sui（自己）+ cid（切/杀）。一个人拿起刀**切**向**自己**——这是最直白的词源记忆。记住：自己杀 = suicide。
@@ -86,7 +83,7 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +94,13 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[survive]]：幸存（活下去）
 > - [[rescue]]：拯救（救回生命）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +110,7 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **commit suicide**：自杀
   - He committed suicide last year.（他去年自杀了。）
 > - **suicide rate**：自杀率
@@ -121,19 +118,15 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Supreme Court's decisions on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering."（最高法院关于医生协助自杀的裁决，对于医学界寻求如何减轻垂死病人痛苦具有重要意义——2002年考研Text 4）
 > - "On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying."（在另一层面，很多医学界的人承认，协助自杀争议部分是由于病人极度绝望引起的，对他们而言，现代医学延长了他们死亡前的肉体痛苦——2002年考研Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

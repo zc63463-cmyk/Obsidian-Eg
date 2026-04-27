@@ -3,14 +3,12 @@ title: "durable"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 持久的，耐用的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈdjʊərəbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ dur(持续，坚硬) + -able(能够...的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**能够持续很久**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **能够持续很久**（时间层面）
@@ -64,7 +62,7 @@ dur(持续，坚硬) + -able(能够...的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ dur(持续，坚硬) + -able(能够...的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 一块坚硬如石(dur)的木板，能够(able)使用很多年——这就是 durable（耐用的）。
@@ -88,7 +86,7 @@ dur(持续，坚硬) + -able(能够...的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ dur(持续，坚硬) + -able(能够...的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fragile]]：脆弱的，易碎的（与"耐用的"相对）
 > - [[temporary]]：暂时的（与"持久的"相对）
 > - [[perishable]]：易腐的，不耐久的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ dur(持续，坚硬) + -able(能够...的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **durable peace**：The two nations signed a treaty for durable peace.（两国签署了持久和平条约。）
 > - **durable goods**：Durable goods sales increased last month.（上月耐用品销量增长。）
 > - **durable materials**：The building is made of durable materials.（这座建筑由耐用材料建成。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Mass-produced clothing, like fast food, fills a hunger and need, yet is non-durable and wasteful."（大批量生产的衣服，就像快餐一样，能填饱肚子、满足需求，却不耐用且浪费。）——2013考研英语一阅读
 > - "The two nations signed a treaty for durable peace."（两国签署了持久和平条约。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

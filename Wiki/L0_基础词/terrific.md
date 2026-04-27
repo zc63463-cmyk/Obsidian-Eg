@@ -3,17 +3,14 @@ title: "terrific"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 引起恐惧的→极好的（语义反转）
-extension_dim: 恐惧→惊叹→极好
+extension_dim: [恐惧→惊叹→极好]
 phonetic: "/təˈrɪfɪk/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: terr
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引起恐惧的→极好的（语义反转）**"为统筹中心，沿恐惧→惊叹→极好向外扩展：
 >
 > 1. **引起恐惧的**（原始义，已罕用）
@@ -64,7 +61,7 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > terrific 和 terrible 共享词根 terr（恐惧），但走向了完全相反的方向。terrible 弱化为"糟糕"，terrific 却反转为"极好"。想象一个过山车：terrible 让你吓得再也不想坐，terrific 让你惊叹"太棒了！再来一次！"terrific 就是"好到让人惊叹"。
@@ -87,7 +84,7 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[terrible]]：可怕的；极坏的（terrific 的精确反义：极好↔极坏，同源反义）
 > - [[awful]]：糟糕的（terrific 的反义：极好↔糟糕）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a terrific performance**：极好的演出
 > - **a terrific idea**：极好的主意
 > - **at a terrific speed**：以极快的速度
@@ -131,19 +128,15 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She did a terrific job on the presentation."（她的演讲做得非常出色。——常见语料表达）
 > - "The car was traveling at a terrific speed when it crashed."（那辆车撞车时正以极快的速度行驶。——常见语料表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

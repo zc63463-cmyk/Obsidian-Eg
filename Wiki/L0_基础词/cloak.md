@@ -3,14 +3,12 @@ title: "cloak"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 披在身上遮盖全身的斗篷
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kləʊk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**披在身上遮盖全身的斗篷**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **披在身上遮盖全身的斗篷**（物理层面）
@@ -69,7 +67,7 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cloak 就是斗篷。哈利波特的隐形斗篷就是 invisibility cloak。穿上斗篷你就被"遮盖"了，所以 cloak 也有"掩盖"的意思。a cloak of secrecy 就是一层秘密的斗篷——用秘密遮住一切。
@@ -92,7 +90,7 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reveal]]：揭示，揭露（cloak 掩盖的反义：掩盖↔揭露）
 > - [[expose]]：暴露，揭露（cloak 遮盖的反义：遮盖↔暴露）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a cloak of secrecy/darkness**：秘密/黑暗的遮盖
 > - **cloak one's intentions**：掩饰某人的意图
 > - **cloaked in mystery/mist**：笼罩在神秘/薄雾中
@@ -135,19 +133,15 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The snow covered up the fields with a white cloak."（积雪给田野盖上了一件白色的外衣——常见文学用法）
 > - "He donned his cloak and gloves before stepping out into the cold night."（他在步入寒冷的夜色之前穿上了斗篷和手套——常见搭配用法）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

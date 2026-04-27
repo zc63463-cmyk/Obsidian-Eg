@@ -3,14 +3,12 @@ title: "proposition"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 向前放置的东西→命题/主张
-extension_dim: 空间路径→认知路径
+extension_dim: [空间路径→认知路径]
 phonetic: "/ˌprɒpəˈzɪʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前放置的东西**"为统筹中心，沿空间路径→认知路径向外扩展：
 >
 > 1. **向前放置的东西**（空间层面：把某物放到前面）
@@ -70,7 +68,7 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > pro（向前）+ posit（放置）→ 向前放置→ 命题。在数学课上，老师说"'1+1=2'是一个 proposition"——它被摆出来，要么为真要么为假。在商业谈判中，对方提出一个 business proposition——一个被摆出来的商业方案供你考虑。当你说"这可不是一个简单的任务"——That's a difficult proposition。proposition 的灵魂就是"被摆出来的、需要被判断的东西"。
@@ -92,7 +90,7 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disproof]]：反证，反驳（与"命题"形成逻辑验证对立：命题↔反证）
 > - [[rejection]]：拒绝（与"提议"形成回应对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a business proposition**：商业提案/商业建议
 > - **a logical proposition**：逻辑命题
 > - **prove/disprove a proposition**：证明/反驳一个命题
@@ -132,19 +130,15 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company presented a new business proposition to the investors."（公司向投资者提出了一项新的商业提案。——剑桥词典例句）
 > - "I am not sure if I agree with the proposition put forward by the professor."（我不确定我是否同意教授提出的命题。——词汇宝例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

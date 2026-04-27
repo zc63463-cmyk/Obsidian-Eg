@@ -3,14 +3,12 @@ title: "wash"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 清洗（用水去除污垢）
-extension_dim: 动作→结果→抽象
+extension_dim: [动作→结果→抽象]
 phonetic: "/wɒʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**清洗（用水去除污垢）**"为统筹中心，沿动作→结果→抽象向外扩展：
 >
 > 1. **清洗**（动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wash 和 water 同源——有水才能洗。你 wash your hands（洗手），wash the car（洗车）。洪水 wash away the village（冲走村庄）。听到好消息，relief washes over you（宽慰涌上心头）。wash 就是从"用水清洗"出发，延伸到一切"水流"的场景。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dirty]]：弄脏（wash 的反义：清洗↔弄脏）
 > - [[stain]]：玷污（wash 的反义：洗净↔玷污）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **wash one's hands**：洗手
 > - **wash away**：冲走，洗去
 > - **wash over**：涌上（情绪）；席卷
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Wash your hands thoroughly with hot soapy water before handling any food."（在拿吃的之前，用热肥皂水把手好好地洗干净。——Cambridge Dictionary 权威例句）
 > - "As much as we would like to cling on to our past, even the saddest moments can be washed away with time."（尽管我们很想抓住过去不放，但即使是最悲伤的时刻也会随时间被冲淡。——常见语料表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

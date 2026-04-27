@@ -3,17 +3,14 @@ title: "lately"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 最近，近来（距离现在不远的过去一段时间）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈleɪtli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: late
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**最近，近来**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **最近，近来**（时间层面）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lately = late（晚的）+ ly（地）→ 晚近地→ 最近。注意：lately 不是"迟地"的意思！它表示"在晚近的时间"，即"最近"。Have you seen any good movies lately? 你最近看了什么好电影吗？
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +93,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（时间副词，无直接对立概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,25 +112,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have you... lately?**：你最近……了吗？
 > - **not... lately**：最近没有……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Researchers lately have begun to extend that forecast by decades if not centuries."（最近研究人员开始将这个预测延后数十年，如果不是数百年的话——2002年考研英语完形填空）
 > - "Local authorities have a special interest in immigrant groups, and lately many of them have been keeping appropriate records."（地方政府对移民群体有特殊的关注，最近其中许多机构一直在保持适当的记录——通用语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "shed"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 脱落（自然地分离脱落）
-extension_dim: 自然→情感→物理
+extension_dim: [自然→情感→物理]
 phonetic: "/ʃed/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**脱落（自然地分离脱落）**"为统筹中心，沿自然→情感→物理向外扩展：
 >
 > 1. **脱落**（自然层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 秋天到了，树 shed their leaves（落叶）。蛇长大了，shed its skin（蜕皮）。你看了感人的电影，shed a few tears（流了几滴泪）。科学家有了新发现，shed light on the mystery（为谜团带来光明）。你想减肥，shed some weight（减掉几斤）。shed 就是从"自然脱落"出发，延伸到一切"分离出来"的场景。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[grow]]：生长（shed 的反义：脱落↔生长）
 > - [[accumulate]]：积累（shed 的反义：摆脱↔积累）
 > - [[absorb]]：吸收（shed 的反义：散发↔吸收）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shed tears/blood**：流泪/流血
 > - **shed light on**：阐明，使……清楚
 > - **shed leaves/hair/skin**：落叶/掉发/蜕皮
@@ -141,19 +139,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The trees shed their leaves in autumn."（树木在秋天落叶。——Cambridge Dictionary 权威例句）
 > - "She shed a few tears at her daughter's wedding."（她在女儿的婚礼上流了几滴泪。——Cambridge Dictionary 权威例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "prejudice"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 在了解事实之前就做出判断
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpredʒudɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在了解事实之前就做出判断**"为统筹中心，沿**社会路径**向外扩展：
 >
 > 1. **在了解事实之前就做出判断**（认知层面：未审先判）
@@ -70,7 +68,7 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre(预先) + judice(判断，同judge) → 还没了解事实就**预先判断**别人 → 偏见。就像法官还没开庭就判了被告有罪。
@@ -95,7 +93,7 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[impartiality]]：公正，不偏不倚（与prejudice的偏见相反）
 - [[fairness]]：公平，公正
 - [[objectivity]]：客观性
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **racial prejudice**：种族偏见
 >   Racial prejudice remains a serious problem in many societies.
 > - **without prejudice**：不带偏见地
@@ -138,20 +136,14 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Prejudice against people of different races or religions is a serious social problem that needs to be addressed."（对不同种族或宗教信仰者的偏见是一个需要解决的社会问题。）——考研高频表达
 > - "The judge must set aside any personal prejudice and make a decision based solely on the evidence."（法官必须抛开任何个人偏见，仅根据证据做出裁决。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

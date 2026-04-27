@@ -3,14 +3,12 @@ title: "applicable"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 可以被折叠上去的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈplɪkəbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可被施加到某事物上的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可被施加到某事物上的**（逻辑层面）
@@ -64,7 +62,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > apply 是"施加、应用"，applicable 就是"可以被施加的"。想象你手里有一条规则，你需要判断它能不能被"施加"到眼前这个案例上——如果能，这条规则就是 applicable（适用的）。就像贴纸能不能贴到墙上：能贴上去就是 applicable。
@@ -88,7 +86,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inapplicable]]：不适用的，不可应用的（applicable 的精确反义）
 > - [[irrelevant]]：不相关的（适用↔不相关）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be applicable to**：适用于（This rule is applicable to all cases.）
 > - **applicable law**：适用法律（The court applied the applicable law to the case.）
 > - **equally applicable**：同样适用的（The same standards are equally applicable to everyone.）
@@ -130,20 +128,14 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The wise teachings of ancient Greek thinkers are timeless, and are applicable to contemporary life."（古希腊思想家的智慧教诲是永恒的，并且适用于当代生活。）——考研高频表达
 > - "What is learned is rarely applicable in life."（所学知识很少能在生活中派上用场。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

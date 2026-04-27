@@ -3,14 +3,12 @@ title: "drive"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 驱赶（驱使某物向前移动）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/draɪv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**驱赶（驱使向前）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **驱赶**（物理层面）
@@ -69,7 +67,7 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drive 来自古英语 *drīfan*，原始含义是"驱赶"。想象牧人挥舞鞭子驱赶牛群向前走——这就是 drive 的原始画面。后来人们"驱赶"汽车前进 → 驾驶；"驱赶"经济向前发展 → 推动；你内心"驱赶"你前进的力量 → 驱动力。drive 的核心就是"驱使向前"——无论驱赶的是牛群、汽车、经济还是你自己。
@@ -92,7 +90,7 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hinder]]：阻碍（drive 的精确反义：推动↔阻碍）
 > - [[resist]]：抵抗（drive 的反义：驱动↔抵抗）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **drive economic growth**：推动经济增长
 > - **driving force**：驱动力
 > - **inner drive**：内在动力
@@ -132,23 +130,15 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Short-termism, or the desire for quick profits, has worsened in publicly traded companies."（短期主义，即对快速利润的渴望，在上市公司中已经加剧。——2019年考研英语阅读Text1，drive 的语境关联：desire drives short-termism = 渴望驱动短期主义）
 > - "The first thing needed for innovation is a fascination with wonder."（创新所需的第一要素是对惊奇事物的迷恋。——2009年考研英语阅读，drive 的语境关联：fascination drives innovation = 迷恋驱动创新）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "acquire"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 获取；获得
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈkwaɪər/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ac-(=ad-, 向/去) + quir(=quaerere, 寻求) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**通过努力获得某物**"为统筹中心，沿**抽象路径**向外扩展：
 
@@ -62,7 +60,7 @@ ac-(=ad-, 向/去) + quir(=quaerere, 寻求) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -72,7 +70,7 @@ ac-(=ad-, 向/去) + quir(=quaerere, 寻求) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 不断地 quir（寻求），最终 ac（向目标靠近）获得了想要的东西——acquire 就是'通过寻求而获得'
@@ -84,7 +82,7 @@ ac-(=ad-, 向/去) + quir(=quaerere, 寻求) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ ac-(=ad-, 向/去) + quir(=quaerere, 寻求) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - [[lose]]：<acquire 获得 vs lose 失去>
 - [[abandon]]：<acquire 获得 vs abandon 放弃>
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -114,27 +112,21 @@ ac-(=ad-, 向/去) + quir(=quaerere, 寻求) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **acquire knowledge/skills**（获得知识/技能）：She acquired fluency in French.（她学会了流利的法语。）
 - **acquire a reputation**（获得声誉）：The company has acquired a reputation for quality.（这家公司获得了高质量的声誉。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - Students acquire knowledge through various methods.（学生通过各种方法获取知识。）
 - The company plans to acquire a smaller rival.（公司计划收购一家较小的竞争对手。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

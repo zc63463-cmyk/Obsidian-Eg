@@ -3,14 +3,12 @@ title: "compose"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: [composed, composing]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 组成，构成
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kəmˈpoʊz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ com-(共同，一起) + [[pon/pos]](放置) + -e → "放在一起"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**组成，构成**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **组成，构成**（结构层面：将部分组合为整体）
@@ -68,7 +66,7 @@ com-(共同，一起) + [[pon/pos]](放置) + -e → "放在一起"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ com-(共同，一起) + [[pon/pos]](放置) + -e → "放在一起"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 作曲家把音符一起（com-）放（pon）在五线谱上——这就是compose（创作），把混乱的思绪放好就是compose oneself（使自己镇定）。
@@ -92,7 +90,7 @@ com-(共同，一起) + [[pon/pos]](放置) + -e → "放在一起"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ com-(共同，一起) + [[pon/pos]](放置) + -e → "放在一起"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[decompose]]：compose是组成，decompose是分解
 > - [[disperse]]：compose是组合，disperse是分散
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,27 +120,21 @@ com-(共同，一起) + [[pon/pos]](放置) + -e → "放在一起"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be composed of**：由...组成（Water is composed of hydrogen and oxygen.）
 > - **compose oneself**：使自己镇定（She took a deep breath to compose herself before speaking.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Water is composed of hydrogen and oxygen."（水由氢和氧组成。）——考研高频表达
 > - "She composed a letter of complaint to the management."（她写了一封投诉信给管理层。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

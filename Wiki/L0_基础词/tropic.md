@@ -3,17 +3,14 @@ title: "tropic"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 回转线（太阳到达此处后回转）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈtrɒpɪk/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: trope
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ tropic 源自希腊语 *tropikos*，*tropē*（回转），*trepein*（转），
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**回转**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **回转**（天文层面）
@@ -64,7 +61,7 @@ tropic 源自希腊语 *tropikos*，*tropē*（回转），*trepein*（转），
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ tropic 源自希腊语 *tropikos*，*tropē*（回转），*trepein*（转），
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tropic 来自希腊语 tropē（回转）。太阳每年到达北回归线（Tropic of Cancer）和南回归线（Tropic of Capricorn）后就会"回转"。这两条线之间的区域就是 the tropics（热带）。tropic 和 [[trope]]（修辞格=转义）同源——都是"转"的意思。
@@ -87,7 +84,7 @@ tropic 源自希腊语 *tropikos*，*tropē*（回转），*trepein*（转），
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +96,12 @@ tropic 源自希腊语 *tropikos*，*tropē*（回转），*trepein*（转），
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[arctic]]：北极的（tropic 的反义：热带↔极地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,25 +113,21 @@ tropic 源自希腊语 *tropikos*，*tropē*（回转），*trepein*（转），
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Tropic of Cancer**：北回归线
 > - **Tropic of Capricorn**：南回归线
 > - **the tropics**：热带地区
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The region lies between the Tropic of Cancer and the equator, giving it a consistently warm climate.（该地区位于北回归线和赤道之间，气候持续温暖。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

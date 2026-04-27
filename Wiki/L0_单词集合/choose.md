@@ -3,14 +3,12 @@ title: "choose"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 品尝、辨别
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/tʃuːz/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**品尝、辨别**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **品尝、辨别**（感知层面：通过体验来区分好坏）
@@ -64,7 +62,7 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > choose 和 choice 同源，源自"品尝"——古人通过品尝来辨别好坏，选出最好的，就是"选择"。
@@ -88,7 +86,7 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reject]]：拒绝（选择的反面——不选）
 > - [[force]]：强迫（选择的反面——被迫接受）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **choose to do sth.**：选择做某事（She chose to study abroad.）
 > - **cannot choose but**：不得不（I cannot choose but agree with you.）
 > - **choose between**：在...之间选择（He had to choose between his career and his family.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Young people often choose to pursue further education abroad."（年轻人经常选择去国外深造。）——考研高频表达
 > - "We cannot choose but face the reality of the situation."（我们不得不面对现实的处境。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

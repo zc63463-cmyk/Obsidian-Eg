@@ -3,14 +3,12 @@ title: "reconcile"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 和解（使对立双方重新走到一起）
-extension_dim: 关系路径
+extension_dim: [关系路径]
 phonetic: "/ˈrekənsaɪl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**和解（使对立双方重新走到一起）**"为统筹中心，沿关系路径向外扩展：
 >
 > 1. **重新走到一起**（关系层面）
@@ -66,7 +64,7 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > reconcile 来自拉丁语 *reconciliare*，由 re-（重新）+ *conciliare*（召集）组成。*conciliare* 来自 *concilium*（集会、议会）。想象两个吵架的朋友被重新召集到同一个房间里——他们 reconcile（和解）了。后来 reconcile 从"人际和解"扩展到"使事物一致"——让两个矛盾的理论 reconcile 就是让它们"重新走到一起"。
@@ -88,7 +86,7 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[alienate]]：疏远，使对立（reconcile 的精确反义：和解↔疏远）
 > - [[separate]]：分开，分离（reconcile 的反义：走到一起↔分开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reconcile differences**：调和分歧
 > - **reconcile with someone**：与某人和解
 > - **reconcile oneself to**：使自己接受（甘心于）
@@ -131,19 +129,15 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where."（她和埃迪分分合合太多次了，孩子们都搞不清谁的衣服在哪里。——John Grisham, *The Chamber*）
 > - "He thought they might reconcile the Parisians to his daring design by reminding them of the familiar arches of their bridges."（他以为通过提醒巴黎人他们熟悉的桥拱，也许能让他们接受他大胆的设计。——Merriam-Webster Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "qualify"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 使具有合格性质
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkwɒlɪfaɪ/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: qual
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使具有合格性质**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使具有合格性质**（能力/权利层面）
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > qualify 来自 qual（什么性质）+ -ify（使）。想象一个面试官看着你的简历问"你是什么性质的？"——qualify 就是"判定你够不够格"。够格了就是 qualify you（使你有资格），不够格就需要加条件，那就是 qualify the offer（限定条件）。记住 qual = 什么性质，qualify = 够不够格。
@@ -97,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disqualify]]：取消资格（qualify 的精确反义：使合格↔取消资格）
 > - [[unqualify]]：使不合格（较罕见，多用 disqualify）
 > - [[unlimited]]：无限制的（限定层面反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **qualify for**：取得……的资格（qualify for a scholarship / the final）
 > - **qualify as**：取得（某种身份）资格（qualify as a doctor / an engineer）
 > - **qualify sb. for sth.**：使某人有资格做某事
@@ -141,7 +138,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Only members qualify for the discount."（只有会员才有资格享受折扣）——常见表达
 > - "She qualified as a lawyer last year."（她去年取得了律师资格）——职业语境
 > - "I'd like to qualify my earlier statement."（我想对我之前的陈述加以限定）——学术/讨论语境
@@ -150,15 +147,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

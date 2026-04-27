@@ -3,17 +3,14 @@ title: "ancient"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 古老的，远古的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈeɪnʃənt/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: ancestor
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**古老的，远古的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **古老的**（时间层面）
@@ -65,7 +62,7 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ancient = anc（在之前）+ ent（……的）→ 在时间之前很久的 → 古老的。ancient Egypt = 古埃及。ancient history = 古代史。the ancients = 古人。与 ancestor（祖先）同源——祖先就是 ancient 的人。
@@ -88,7 +85,7 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[modern]]：现代的（ancient 的精确反义：古代↔现代）
 > - [[contemporary]]：当代的（ancient 的反义：古代↔当代）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ancient civilization**：古代文明
 > - **ancient history**：古代史
 > - **the ancients**：古人
@@ -127,19 +124,15 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Ancient civilizations developed complex systems of writing."（古代文明发展出了复杂的书写系统）
 > - "The ancient Greeks made significant contributions to philosophy."（古希腊人对哲学做出了重大贡献）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

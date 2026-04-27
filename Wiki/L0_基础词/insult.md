@@ -3,14 +3,12 @@ title: "insult"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 侮辱（跳到别人身上攻击）
-extension_dim: 行为路径
+extension_dim: [行为路径]
 phonetic: "/ɪnˈsʌlt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**侮辱（跳到别人身上攻击）**"为统筹中心，沿行为路径向外扩展：
 >
 > 1. **跳到身上**（物理攻击层面）
@@ -66,7 +64,7 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 | 重音 |
 > |------|------|---------|------|
@@ -77,7 +75,7 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > insult = in（在……上）+ sult（跳，来自 salire）。想象一个人"跳"到你面前，对你恶语相向——这就是 insult（侮辱）。add insult to injury = 雪上加霜 = 已经受伤了，还跳到你身上侮辱你。注意重音变化：动词 insult 重音在后 /ɪnˈsʌlt/，名词 insult 重音在前 /ˈɪnsʌlt/。insult 和 insulate 形似但词源不同——insulate = 岛屿，insult = 跳跃。
@@ -89,7 +87,7 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[compliment]]：赞美（insult 的反义：侮辱↔赞美）
 > - [[honor]]：尊敬（insult 的反义：侮辱↔尊敬）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **add insult to injury**：雪上加霜
 > - **insult someone's intelligence**：侮辱某人的智商
 > - **a deliberate insult**：蓄意侮辱
@@ -128,19 +126,15 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He felt deeply insulted by the reviewer's dismissive comments about his work."（评论家对他作品的轻蔑评论让他深感被侮辱。——考研英语阅读相关语料）
 > - "To add insult to injury, the company refused to pay any compensation."（更糟的是，公司拒绝支付任何赔偿。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "pamphlet"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 小册子（比书短、未装订的印刷品）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈpæmflət/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: leaflet
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小册子**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **短小印刷品**（物品层面）
@@ -63,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pamphlet 的词源非常有趣：它来自一首12世纪的拉丁语爱情诗 *Pamphilus*。这首诗太流行了，人们把所有类似的小册子都叫 "pamflet"。就像"可口可乐"变成了"可乐"的代名词一样，Pamphilus 变成了 pamphlet = 小册子。pamphlet 通常是未装订的几页纸，用于宣传或传播信息。和 [[leaflet]]（传单）、[[brochure]]（宣传册）类似。
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +94,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（物品名词，无天然反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +111,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **distribute pamphlets**：分发小册子
 > - **information pamphlet**：信息小册子
 > - **political pamphlet**：政治宣传册
@@ -122,19 +119,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The environmental organization distributed pamphlets to raise public awareness about the dangers of plastic pollution in the ocean."（该环保组织分发小册子，以提高公众对海洋塑料污染危害的认识——考研阅读环境话题）
 > - "During the Enlightenment, political pamphlets played a crucial role in spreading revolutionary ideas among the general public."（在启蒙运动时期，政治小册子在向普通公众传播革命思想方面发挥了关键作用——考研翻译历史话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

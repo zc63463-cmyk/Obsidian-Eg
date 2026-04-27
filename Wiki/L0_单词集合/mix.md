@@ -3,14 +3,12 @@ title: "mix"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 混合，掺和
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/mɪks/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ mix(混合) — 基础词根，源自拉丁语 *miscere* "混合"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**混合**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **混合**（物理层面：将不同物质融合）
@@ -67,7 +65,7 @@ mix(混合) — 基础词根，源自拉丁语 *miscere* "混合"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ mix(混合) — 基础词根，源自拉丁语 *miscere* "混合"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个调酒师把不同颜色的酒倒进同一个杯子，旋转摇晃——颜色交融，味道融合，这就是 **mix**（混合）。
@@ -91,7 +89,7 @@ mix(混合) — 基础词根，源自拉丁语 *miscere* "混合"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ mix(混合) — 基础词根，源自拉丁语 *miscere* "混合"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[separate]]：分离——将混合物分开
 > - [[divide]]：分割——将整体分成部分
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,27 +119,21 @@ mix(混合) — 基础词根，源自拉丁语 *miscere* "混合"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mix up**：Don't mix up the two concepts—they are fundamentally different.
 > - **mix with**：Students from different countries mix well with each other.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "No one will ever know what mix of talent, ambition, energy and luck made Dickens such a distinguished writer."（没有人会知道是什么样的天赋、雄心、精力和运气的结合使狄更斯成为如此杰出的作家。）——考研高频表达
 > - "The school attracts a diverse mix of students from different backgrounds."（这所学校吸引了来自不同背景的多元化学生群体。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

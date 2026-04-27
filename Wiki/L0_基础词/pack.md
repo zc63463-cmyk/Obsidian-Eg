@@ -3,14 +3,12 @@ title: "pack"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 捆扎在一起的包裹（把东西打包绑紧）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/pæk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**捆扎在一起的包裹**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **捆扎包裹**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pack 的核心画面是"把东西捆扎在一起"。旅行前把衣服塞进包里 = pack your bags。a pack of wolves（一群狼）= 狼聚集在一起像包裹。pack 的核心逻辑是"紧密聚集"——无论是物品打包还是人群挤满。衍生词 [[package]]（包裹）和 [[packet]]（小包）都来自 pack。注意 pack 和 [[pact]]（条约）形近但词源不同——pack 是"包裹"，pact 是"条约"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unpack]]：拆包（pack 的反义：打包↔拆包）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pack one's bags**：打包行李
 > - **a pack of**：一群/一包（量词）
 > - **pack into**：挤进
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The stadium was packed with enthusiastic fans who had been waiting for hours to see their favorite team play."（体育场挤满了热情的球迷，他们已经等了几个小时来看他们最喜欢的球队比赛——考研阅读体育话题）
 > - "Scientists warn that a pack of false information can spread much faster than the truth on social media platforms."（科学家警告说，一堆虚假信息在社交媒体平台上的传播速度远快于真相——考研阅读科技话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

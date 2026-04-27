@@ -3,17 +3,14 @@ title: "preparation"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 提前准备好→准备
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌprepəˈreɪʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: par
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -45,7 +42,7 @@ pre-(在前面、提前) + par(准备、安排) + -ation(名词后缀，表动�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**准备、预备**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **准备、预备**（时间层面——在事件之前完成的动作）
@@ -66,7 +63,7 @@ pre-(在前面、提前) + par(准备、安排) + -ation(名词后缀，表动�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ pre-(在前面、提前) + par(准备、安排) + -ation(名词后缀，表动�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 praeparatio，由 prae-(前) + parare(准备) 构成。考试前提前把书看完、把笔记整理好，这就是 preparation。
@@ -89,7 +86,7 @@ pre-(在前面、提前) + par(准备、安排) + -ation(名词后缀，表动�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +98,12 @@ pre-(在前面、提前) + par(准备、安排) + -ation(名词后缀，表动�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视（准备 vs 忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,27 +118,21 @@ pre-(在前面、提前) + par(准备、安排) + -ation(名词后缀，表动�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in preparation for**：为……做准备（They are busy in preparation for the coming exam.）
 > - **make preparations for**：为……做准备
 > - **mental preparation**：心理准备
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Thorough preparation is essential for success in any competitive examination."（充分的准备对于在任何竞争性考试中取得成功至关重要。）——考研高频表达
 > - "The country is making preparations for a possible economic downturn by increasing its foreign reserves."（该国正在通过增加外汇储备为可能的经济衰退做准备。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

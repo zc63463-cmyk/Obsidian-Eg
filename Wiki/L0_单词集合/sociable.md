@@ -3,17 +3,14 @@ title: "sociable"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 喜欢与人交往的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsəʊʃəbl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: soci
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ soci（同伴、结交）+ -able（可以被……的）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**喜欢与人交往的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **喜欢与人交往的**（人的性格特质层面）
@@ -63,7 +60,7 @@ soci（同伴、结交）+ -able（可以被……的）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ soci（同伴、结交）+ -able（可以被……的）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > soci（同伴）+ able（能）= 能和同伴打成一片的 → 好交际的
@@ -86,7 +83,7 @@ soci（同伴、结交）+ -able（可以被……的）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ soci（同伴、结交）+ -able（可以被……的）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unsociable]]：不爱交际的（强调不主动与人交往）
 > - [[antisocial]]：反社会的（强调危害社会秩序，程度更重）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ soci（同伴、结交）+ -able（可以被……的）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a sociable person**：一个好交际的人
   - She is a warm and sociable person who makes friends easily.（她是一个热情好交际的人，很容易交到朋友。）
 > - **sociable atmosphere**：友好的社交氛围
@@ -127,22 +124,16 @@ soci（同伴、结交）+ -able（可以被……的）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She is a sociable person who enjoys meeting new people and attending social events."（她是一个善于社交的人，喜欢结识新朋友和参加社交活动。）——考研高频表达
 > - "People who are more sociable tend to have stronger professional networks and better career prospects."（更善于社交的人往往拥有更强大的职业网络和更好的职业前景。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

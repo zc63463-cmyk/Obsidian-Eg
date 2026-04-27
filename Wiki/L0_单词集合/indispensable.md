@@ -3,17 +3,14 @@ title: "indispensable"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 不能被 dispensable 的（不可或缺的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌɪndɪˈspensəbl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ in-(不) + [[pon/pos|dispens]](分配/处理) + -able(可以被…的) → 不�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不能被省去的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不能被省去的**（字面层面）
@@ -65,7 +62,7 @@ in-(不) + [[pon/pos|dispens]](分配/处理) + -able(可以被…的) → 不�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ in-(不) + [[pon/pos|dispens]](分配/处理) + -able(可以被…的) → 不�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ dispens（分配/省去）+ able（可以被…的）→ 不能被省去的 → 不可或缺的。
@@ -86,7 +83,7 @@ in-(不) + [[pon/pos|dispens]](分配/处理) + -able(可以被…的) → 不�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ in-(不) + [[pon/pos|dispens]](分配/处理) + -able(可以被…的) → 不�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dispensable]]：可有可无的 ↔ indispensable 不可或缺的
 > - [[unnecessary]]：不必要的 ↔ indispensable 必需的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,29 +114,23 @@ in-(不) + [[pon/pos|dispens]](分配/处理) + -able(可以被…的) → 不�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **indispensable to/for** sb./sth.：对…不可或缺（Education is indispensable to personal growth. 教育对个人成长不可或缺。）
 > - **an indispensable part/role**：不可或缺的部分/角色（She played an indispensable role in the success of the project. 她在项目的成功中发挥了不可或缺的作用。）
 > - **play an indispensable role in**：在…中发挥不可或缺的作用（Technology plays an indispensable role in modern education. 技术在现代教育中发挥着不可或缺的作用。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Education plays an indispensable role in the development of a nation."（教育在一个国家的发展中发挥着不可或缺的作用。）——考研高频表达
 > - "The internet has become an indispensable tool for modern communication and research."（互联网已成为现代通信和研究中不可或缺的工具。）——考研高频表达
 > - "Water is indispensable to all forms of life on Earth."（水对地球上所有形式的生命都是不可或缺的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

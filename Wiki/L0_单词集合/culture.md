@@ -3,14 +3,12 @@ title: "culture"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 文化，培养
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkʌltʃə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ cult(耕作，培养) + -ure(行为的结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**培养的结果**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **培养的结果**（行为结果层面）
@@ -66,7 +64,7 @@ cult(耕作，培养) + -ure(行为的结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ cult(耕作，培养) + -ure(行为的结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 罗马人最初用 cultura 指耕作土地——后来发现，一个民族的"耕作"不只是种地，还包括艺术、法律、信仰的"耕作"，这就是 culture（文化）的由来。
@@ -90,7 +88,7 @@ cult(耕作，培养) + -ure(行为的结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ cult(耕作，培养) + -ure(行为的结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignorance]]：无知，愚昧（与文化/修养相对）
 > - [[barbarism]]：野蛮，未开化
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,28 +118,22 @@ cult(耕作，培养) + -ure(行为的结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cultural diversity**：Cultural diversity is a valuable asset.（文化多样性是一笔宝贵财富。）
 > - **culture shock**：Many international students experience culture shock.（许多留学生会经历文化冲击。）
 > - **corporate culture**：The company is trying to change its corporate culture.（公司正在努力改变企业文化。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being."（它脱离了上帝和罗马天主教的权威，转而倾向于一种更人文主义的存在方式。）——2020考研英语一阅读
 > - "Cultural diversity is a valuable asset that enriches our society."（文化多样性是一笔丰富我们社会的宝贵财富。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

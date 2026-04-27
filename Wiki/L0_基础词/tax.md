@@ -3,14 +3,12 @@ title: "tax"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 评估并征收的费用
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/tæks/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**评估并征收的费用**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **评估并征收**（经济层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tax 来自拉丁语 taxare（触摸、评估）。税务官先"触摸"（评估）你的财产，再据此征税——这就是 tax。后来 tax 从"征税"延伸到"重负"——long hours are a tax on health（长时间工作是对健康的损害）。再延伸到"责备"——tax someone with carelessness（指责某人粗心）。tax 的核心就是"评估并征收"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subsidy]]：补贴（tax "税"的反义：征收↔补贴）
 > - [[exemption]]：免税（tax "征税"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **income tax**：所得税
 > - **pay/collect tax**：纳税/收税
 > - **tax burden**：税负
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government announced a series of tax cuts aimed at stimulating economic growth."（政府宣布了一系列旨在刺激经济增长的减税措施。——考研阅读经济话题高频表达）
 > - "The long commute to work every day takes a heavy tax on both physical and mental health."（每天漫长的通勤对身心健康都是一种沉重的负担。——考研翻译生活话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

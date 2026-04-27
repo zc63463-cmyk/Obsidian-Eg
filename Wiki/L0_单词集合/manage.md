@@ -3,14 +3,12 @@ title: "manage"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 用手控制马匹
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmænɪdʒ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手控制马匹**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用手控制马匹**（具身控制层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > manage 来自拉丁语 manus（手）。想象一个骑手用**手**紧紧握住缰绳，**控制**一匹烈马——这就是 manage 最初的意思。后来，这个骑手下了马，走进办公室，开始**管理**公司、**处理**问题、**设法**完成一个又一个任务。从马背到办公桌，手里的缰绳变成了文件，但核心动作没变——都是 manage。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：疏忽、忽视（manage 作为"管理/处理"的反义：处理↔忽视）
 > - [[mismanage]]：管理不善（manage 的否定形式）
 > - [[fail]]：失败（manage to do ↔ fail to do：设法做到↔未能做到）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **manage to do sth.**：设法做到某事
 > - **manage a company/business**：管理公司/企业
 > - **manage one's time**：管理时间
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "manage to survive in a competitive market"（设法在竞争激烈的市场中生存）——考研阅读商业类话题
 > - "good time management is essential for success"（良好的时间管理对成功至关重要）——学习/效率类话题
 > - "she managed to finish the project ahead of schedule"（她设法提前完成了项目）——日常/职场语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

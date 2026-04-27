@@ -3,14 +3,12 @@ title: "portray"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 向前拉出来展现（描绘、描画）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/pɔːˈtreɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前拉出来展现**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向前拉出来**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > portray 的核心画面是"把形象向前拉出来展现"。拉丁语 *protrahere* = pro-（向前）+ trahere（拉）= 向前拉 = 展现。画家用画笔把人物形象"拉出来"——这就是 portray（描绘）。演员在舞台上把角色"拉出来"——这就是 portray（扮演）。The film portrays him as a hero（这部电影把他描绘成英雄）= 用电影把他的形象"拉出来"展现给观众。注意 portray 和 portrait 的关系：portray 是动词（描绘），portrait 是名词（肖像）。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏（portray 的反义：展现↔隐藏）
 > - [[distort]]：歪曲（portray 的反义：真实描绘↔歪曲描绘）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **portray sb./sth. as**：把……描绘成
 > - **portray a character/role**：扮演角色
 > - **accurately portray**：准确描绘
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The media often portrays young people as technology-obsessed and politically apathetic, a stereotype that many researchers dispute."（媒体经常把年轻人描绘成沉迷科技和政治冷漠的形象，这一刻板印象受到许多研究者的质疑——考研阅读媒体话题相关表达）
 > - "In her novel, the author portrays the struggles of immigrant families with remarkable sensitivity and depth."（在她的小说中，作者以非凡的敏感度和深度描绘了移民家庭的挣扎——考研阅读文学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

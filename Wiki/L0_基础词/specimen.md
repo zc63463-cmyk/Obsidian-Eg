@@ -3,14 +3,12 @@ title: "specimen"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 样本，标本
-extension_dim: 典型代表
+extension_dim: [典型代表]
 phonetic: "/ˈspesɪmən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**供观察的样本**"为统筹中心，沿典型代表向外扩展：
 >
 > 1. **供观察的东西**（观察层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > specimen = spec-（看，[[spec-spect]]）+ -imen（名词后缀）= "供观察的东西"→ 样本/标本。想象生物实验室里的玻璃瓶里泡着的动物标本——那就是 specimen。blood specimen = 血样（供检验的血）。geological specimen = 地质标本（供研究的岩石）。specimen 也可以指"典型"——a fine specimen of a gentleman = 一位典型的绅士（供"观察"的绅士代表）。specimen 和 [[sample]]（样本）近义，但 specimen 更强调"供观察/研究"的目的，而 sample 更强调"代表性"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[population]]：总体（specimen 样本的反义：样本↔总体）
 > - [[whole]]：整体（specimen 部分的反义：部分↔整体）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a blood/urine specimen**：血样/尿样
 > - **a geological/biological specimen**：地质/生物标本
 > - **a fine specimen of**：……的典型
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers collected blood specimens from over 1,000 participants to study the genetic basis of the disease."（研究人员从1000多名参与者那里采集了血样，以研究该疾病的遗传基础。——考研英语阅读科学类话题）
 > - "The museum's collection includes rare geological specimens dating back millions of years."（博物馆的藏品包括可追溯到数百万年前的稀有地质标本。——考研英语阅读文化类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

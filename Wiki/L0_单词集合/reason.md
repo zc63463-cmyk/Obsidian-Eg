@@ -3,14 +3,12 @@ title: "reason"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 计算和思考的能力
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈriːzn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -48,7 +46,7 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**计算和思考的能力**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **计算和思考的能力**（本义：理性思维的能力）
@@ -73,7 +71,7 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > reason 源自拉丁语 ratio（计算）。古希腊人认为"理性"就是"精确计算"的能力——计算清楚了，道理就出来了。所以 reason 既是"理性"（思考能力），也是"理由"（思考结果），还是"推理"（思考过程）。
@@ -97,7 +95,7 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,14 +109,14 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[emotion]]：情感（reason vs emotion 是经典对比）
 > - [[instinct]]：本能（理性 vs 本能）
 > - [[prejudice]]：偏见（理性思考 vs 盲目偏见）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,29 +127,23 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **for some reason**：For some reason, she refused the offer.（出于某种原因，她拒绝了那个提议。）
 > - **by reason of**：He was exempted from military service by reason of his poor health.（他因身体不好而免服兵役。）
 > - **reason with**：I tried to reason with her, but she wouldn't listen.（我试图劝说她，但她不听。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "That's one reason why the idea of a national list hasn't gone anywhere, while drug costs keep rising fast."（这就是为什么全国性药品目录的想法一直未能实现，而药品成本却在快速上升的原因之一。）——2005年考研新题型
 > - "It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself."（这也是为什么当我们试图用语言来描述音乐时，我们所能做的只是表达对它的反应，而不能把握音乐本身。）——2014年考研翻译
 > - "This book stands for reason itself."（这本书代表了理性本身。）——1996年考研阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

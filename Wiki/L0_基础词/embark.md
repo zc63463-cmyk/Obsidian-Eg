@@ -3,14 +3,12 @@ title: "embark"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 上船（登上船只开始旅程）
-extension_dim: 物理-行为-抽象
+extension_dim: [物理-行为-抽象]
 phonetic: "/ɪmˈbɑːk/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**上船**"为统筹中心，沿物理-行为-抽象向外扩展：
 >
 > 1. **上船**（物理层面）
@@ -64,7 +62,7 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > embark 来自古法语 *embarquer*：em（进入）+ barque（船）→ 进入船中 → 上船。想象你站在港口，踏上舷梯走进船舱——这就是 embark 的原始画面。embark on a new project 就像"登上新项目的船"，开始一段新旅程。反义词是 disembark（下船）。记住：embark = em（进）+ bark（船）= 上船。
@@ -86,7 +84,7 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disembark]]：下船（embark 的精确反义：上船↔下船）
 > - [[abandon]]：放弃（embark "开始"的反义：着手↔放弃）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **embark on/upon something**：开始做某事
 > - **embark on a career/journey**：开始一段事业/旅程
 > - **embark on a new project**：着手一个新项目
@@ -126,19 +124,15 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Millions of Europeans embarked for America in the late 19th century."（19世纪末，数百万欧洲人乘船前往美国——Merriam-Webster 例句）
 > - "Both countries have embarked on serious economic reforms."（两国都已着手进行严肃的经济改革——Longman Dictionary 例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

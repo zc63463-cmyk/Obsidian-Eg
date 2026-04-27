@@ -3,14 +3,12 @@ title: "drain"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 使干燥（逐渐抽走液体，使变干）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/dreɪn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使干燥（逐渐排走液体）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使干燥**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drain 和 dry（干燥）、drought（干旱）同源，原始日耳曼语 *\*dreug-* 就是"使干燥"的意思。想象你拔掉浴缸塞子，水慢慢旋转着流走，浴缸从满到空——这就是 drain。当你的精力像浴缸里的水一样被工作一点点排走时，你可以说 work is draining my energy。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fill]]：注满（drain 排空↔fill 注满）
 > - [[replenish]]：补充（drain 消耗↔replenish 补充）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **brain drain**：人才流失（The country is suffering from brain drain. 这个国家正遭受人才流失。）
 > - **drain one's energy/resources**：耗尽精力/资源（The long meeting drained my energy. 漫长的会议耗尽了我的精力。）
 > - **go down the drain**：化为乌有，被浪费掉（All his savings went down the drain. 他所有的积蓄都化为乌有了。）
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The brain drain to the United States has caused serious problems for developing countries."（人才流向美国给发展中国家造成了严重问题。）
 > - "Military spending has drained the nation's resources."（军费开支已经耗尽了国家的资源。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

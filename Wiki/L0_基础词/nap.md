@@ -3,17 +3,14 @@ title: "nap"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 短暂的睡眠（像猫一样打个小盹）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/næp/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**短暂的睡眠**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **短暂休息**（生理层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nap = 中古英语 *nappen* = 打盹。想象一只猫在午后阳光下蜷缩着打个小盹——这就是 nap 的原始画面。take a nap = 打个盹。power nap = 充电小睡（短时间高效休息）。nap 比 sleep 短得多，但足以恢复精力。not a chance to nap = 连打个盹的机会都没有。
@@ -87,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wake]]：醒来（nap 的反义：小睡↔醒来）
 > - [[insomnia]]：失眠（nap 的反义：能入睡↔无法入睡）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take a nap / have a nap**：打个盹
 > - **power nap**：充电小睡（15-30分钟高效休息）
 > - **catch a quick nap**：赶紧打个盹
@@ -126,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Research has shown that a brief power nap of 20 minutes can significantly improve cognitive performance and alertness."（研究表明，20分钟的短暂充电小睡可以显著提高认知表现和警觉性——考研阅读健康话题相关表达）
 > - "Many cultures around the world traditionally incorporate a midday nap into their daily routine, a practice that modern science has increasingly validated."（世界各地的许多文化传统上将午间小睡纳入日常作息，这一做法正得到现代科学越来越多的验证——考研翻译文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

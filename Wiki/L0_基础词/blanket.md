@@ -3,14 +3,12 @@ title: "blanket"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 白色小毛布（覆盖全身的织物）
-extension_dim: 覆盖维度
+extension_dim: [覆盖维度]
 phonetic: "/ˈblæŋkɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**白色小毛布（覆盖全身的织物）**"为统筹中心，沿覆盖维度向外扩展：
 >
 > 1. **覆盖全身的织物**（物理层面）
@@ -71,7 +69,7 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blanket = [[blank]]（白色）+ -et（小）→ 白色的小毛布 → 毯子。冬天你裹着 blanket 睡觉，它"覆盖"你的全身。大雪覆盖大地时，雪就像一条巨大的 blanket——a blanket of snow。政府发布"覆盖所有人的禁令"时，这个禁令也像 blanket 一样——a blanket ban（全面禁令）。记住：blanket = 毯子 = 覆盖一切的东西。
@@ -95,7 +93,7 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[partial]]：部分的（blanket 的精确反义：全面的↔部分的）
 > - [[selective]]：有选择的（blanket 的反义：不加区分的↔有选择的）
 > - [[expose]]：暴露（blanket 的反义：覆盖↔暴露）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a blanket of snow/fog**：厚厚的积雪/浓雾
 > - **a blanket ban**：全面禁令
 > - **blanket coverage**：全面报道/覆盖
@@ -134,19 +132,15 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government imposed a blanket ban on all forms of tobacco advertising in an effort to reduce smoking rates."（政府出台了全面禁止一切形式烟草广告的禁令，以降低吸烟率——考研英语阅读，公共政策话题）
 > - "A thick blanket of fog covered the coastal areas, causing severe disruptions to shipping and air travel."（浓雾笼罩了沿海地区，导致航运和航空出行严重受阻——考研英语阅读，自然环境话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

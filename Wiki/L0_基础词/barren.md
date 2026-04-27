@@ -3,14 +3,12 @@ title: "barren"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 贫瘠的（土地不毛）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈbærən/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**贫瘠的（土地不毛）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **贫瘠的土地**（物理层面）
@@ -67,7 +65,7 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > barren 原义是"光秃的"。想象一片光秃秃的土地，寸草不生——这就是 barren land。这种土地不仅长不出庄稼，连动物都无法生存。引申到人，就是"不育的"；引申到讨论，就是"空洞无益的"。
@@ -90,7 +88,7 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fertile]]：肥沃的；富饶的（barren 的精确反义：贫瘠↔肥沃）
 > - [[productive]]：多产的；富有成效的（barren 的反义：无益↔多产）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **barren land**：贫瘠的土地，不毛之地
 > - **barren desert**：荒凉的沙漠
 > - **a barren argument**：空洞的论点
@@ -129,19 +127,15 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Such a barren desert can support very few creatures."（在这样荒瘠的沙漠里，很少生物能够存活——考研阅读相关语料）
 > - "The once barren hillsides are now good farmland."（昔日荒坡，今日良田——考研翻译相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

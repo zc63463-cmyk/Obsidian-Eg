@@ -3,14 +3,12 @@ title: "cohesive"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 有粘聚力的、凝聚的（各部分紧密结合，不易分离）
-extension_dim: 结构路径
+extension_dim: [结构路径]
 phonetic: "/kəʊˈhiːsɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有粘聚力的、凝聚的**"为统筹中心，沿结构路径向外扩展：
 >
 > 1. **有粘聚力的**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cohesive = co（共同）+ hes（粘）+ ive（倾向……的）= 有共同粘合倾向的 = 有凝聚力的。与 coherent（连贯的）同源，但 cohesive 更强调"力量"。想象一滴水银——无论你怎么分开它，它都会重新聚拢。一个 cohesive team 就像水银，成员之间紧密结合。The team lacked cohesive force and eventually fell apart（这个团队缺乏凝聚力，最终散伙了）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[divisive]]：分裂的，引起分歧的（cohesive 的精确反义：凝聚↔分裂）
 > - [[fragmented]]：碎片化的（cohesive 的反义：凝聚↔碎片化）
 > - [[loose]]：松散的（cohesive 的反义：紧密结合↔松散）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a cohesive team/group**：有凝聚力的团队/群体
 > - **social cohesion**：社会凝聚力
 > - **a cohesive force**：凝聚力
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Social cohesion is essential for a nation's stability and prosperity, as it binds diverse groups into a unified community."（社会凝聚力对国家的稳定和繁荣至关重要，因为它将不同群体团结成一个统一的共同体——考研阅读社会话题）
 > - "A cohesive team is more likely to achieve its goals than a group of talented but disconnected individuals."（一个有凝聚力的团队比一群才华横溢但各自为政的个体更有可能实现目标——考研阅读管理话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

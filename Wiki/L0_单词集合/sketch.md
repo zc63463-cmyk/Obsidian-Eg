@@ -3,14 +3,12 @@ title: "sketch"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 快速画→草图
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/sketʃ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**快速画→草图**"为统筹中心，沿动作→结果→抽象路径向外扩展：
 >
 > 1. **快速画**（动作层面）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sketch 来自意大利语 *schizzo*（快速画出的草图）。想象达芬奇在笔记本上快速勾勒出一个飞行器的草图——这就是 sketch。从"快速画画"出发，sketch 既是动作（画草图），也是结果（草图本身）。在日常生活中，我们也可以用文字"画草图"——粗略地描述一件事就是 sketch out an idea。记住 sketch = 草图，核心画面是"快速勾勒轮廓"。
@@ -103,7 +101,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -116,13 +114,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - sketch（草图/粗略）↔ detailed drawing（精细画）
 > - sketch（概述）↔ detailed account（详细描述）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a rough sketch**：粗略的草图
 > - **pencil sketch**：铅笔素描
 > - **sketch out**：草拟，概述
@@ -144,7 +142,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The architect showed us a rough sketch of the new building."（建筑师向我们展示了新建筑的粗略草图）——建筑话题
 > - "Let me sketch out the main points of the proposal."（让我概述一下提案的要点）——商业话题
 > - "She sketched a quick portrait of her friend during lunch."（她在午餐时快速为朋友画了一幅肖像）——日常话题
@@ -153,15 +151,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

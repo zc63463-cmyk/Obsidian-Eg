@@ -3,14 +3,12 @@ title: "convenient"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 共同来到的（一切凑到一起的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈviːniənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一切凑到一起来的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **一切凑到一起来的**（空间层面）
@@ -65,7 +63,7 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（共同）+ ven（来）+ ent（……的）→ 一切凑到一起来的 → 方便的。手机之所以 convenient（方便），是因为通讯、支付、导航都"凑到一起"了。一个 convenient time（合适的时间）就是你的时间和别人的时间"凑到一起"了。convenient 的精髓就是"凑"——凑近了、凑齐了、凑巧了，就方便了。
@@ -87,7 +85,7 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inconvenient]]：不方便的（convenient 的精确反义：方便↔不方便）
 > - [[awkward]]：不便的，尴尬的（convenient 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **convenient time/place**：方便的时间/地点
 > - **convenient for sb.**：对某人方便的
 > - **whenever convenient**：在方便的时候
@@ -127,19 +125,15 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The internet has made it convenient for people to access information from anywhere."（互联网使人们能够方便地从任何地方获取信息）
 > - "Please come at a time convenient to you."（请在您方便的时候来）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

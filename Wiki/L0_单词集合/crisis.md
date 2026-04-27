@@ -3,14 +3,12 @@ title: "crisis"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 决定的时刻（需要做出关键决定的转折点）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈkraɪsɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**决定的时刻**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **决定的时刻**（时间转折层面）
@@ -66,7 +64,7 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cri（决定）+ -sis（状态）→ 需要做决定的状态 → 危机。想象一个病人躺在病床上，医生说"现在是 crisis"——要么好转要么恶化，必须做出决定。2008年 financial crisis，全球经济站在十字路口——要么崩溃要么复苏。crisis 的核心就是"十字路口"：到了必须做出关键选择的时刻。
@@ -88,7 +86,7 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stability]]：稳定（crisis 的精确反义：危机↔稳定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **financial/economic crisis**：金融/经济危机
 > - **in crisis**：处于危机中
 > - **crisis point**：危机点
@@ -127,23 +125,15 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation."（在经济危机爆发前的十年里，美国人的法律服务花费增长速度是通货膨胀的两倍。——2014年考研英语阅读Text2）
 > - "Newspapers relay daily accounts of goal-setting prevalent in industries and businesses up and down both Wall Street and Main Street, yet there has been surprisingly little research on how the long-trumpeted practice of setting goals may have contributed to the current economic crisis."（报纸每天都在报道华尔街和主街上下各行各业普遍存在的目标设定情况，但令人惊讶的是，很少有人研究长期鼓吹的目标设定做法是如何促成当前经济危机的。——六级阅读，crisis 经典例句）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

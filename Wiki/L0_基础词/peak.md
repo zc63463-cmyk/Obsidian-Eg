@@ -3,14 +3,12 @@ title: "peak"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 山顶，最高点（向上延伸的尽头）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/piːk/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**山顶，最高点**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **山顶**（物理空间层面）
@@ -74,7 +72,7 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > peak 就是山的"尖尖"。你爬到 peak 就是到了山顶。经济最好的时候叫 peak（巅峰），交通最堵的时候叫 peak hours（高峰时段），运动员状态最好的时候叫 peak performance（巅峰表现）。peak = 到顶了。
@@ -98,7 +96,7 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,13 +109,13 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bottom]]：底部（peak 的反义：山顶↔山底）
 > - [[trough]]：低谷（peak 的反义：高峰↔低谷）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reach a peak**：达到顶峰
 > - **peak season**：旺季，高峰季节
 > - **peak hours**：高峰时段
@@ -141,19 +139,15 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Not long ago, with the country entering a recessing and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of primary cause of the poor U.S. economic performance."（不久前，美国经济进入衰退期，而日本经济正处在泡沫破裂前的繁荣顶峰，人们嘲讽美国的劳动力受教育程度低，并将其视为美国经济表现不佳的主要原因之一。——2009年考研英语Text 3）
 > - "At its peak around AD 600, this city was one of the largest human settlements in the world."（该城在公元600年左右的鼎盛时期，是世界上最大的人类聚居地之一。——2014年考研英语新题型）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

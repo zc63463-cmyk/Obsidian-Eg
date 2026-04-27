@@ -3,17 +3,14 @@ title: "however"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 无论以何种方式→然而
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/haʊˈevə(r)/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: how
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ how（方式）+ ever（曾经/无论）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无论以何种方式**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **无论以何种方式**（逻辑让步层面）
@@ -65,7 +62,7 @@ how（方式）+ ever（曾经/无论）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ how（方式）+ ever（曾经/无论）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > how（怎么）+ ever（无论）→ **无论**你**怎么**努力，**however**（然而）结果可能不如预期。however 天生带着"让步+转折"的双重性格。
@@ -89,7 +86,7 @@ how（方式）+ ever（曾经/无论）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +99,12 @@ how（方式）+ ever（曾经/无论）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[therefore]]：therefore 表因果顺承，however 表逻辑转折
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,27 +117,21 @@ how（方式）+ ever（曾经/无论）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **however + adj./adv.**：无论多么……（However hard he tried...）
   - "However difficult the task may be, we must complete it on time."（无论任务多么困难，我们都必须按时完成。）
 > - **however**（句首独立使用）：然而
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "However, there is an important difference between the two approaches to the problem."（然而，解决这个问题的两种方法之间存在重要差异。）——考研高频表达
 > - "However hard he tried, he could not convince the committee to change its decision."（无论他多么努力，都无法说服委员会改变决定。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

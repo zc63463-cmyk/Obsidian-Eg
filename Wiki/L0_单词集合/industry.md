@@ -3,14 +3,12 @@ title: "industry"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 工业，产业
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɪndəstri/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ industr(工业/勤勉) + -y(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**勤勉/工业**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **勤勉**（个人品质层面，词源本义）
@@ -64,7 +62,7 @@ industr(工业/勤勉) + -y(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ industr(工业/勤勉) + -y(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *industria* = 勤勉。想象一个工人每天天不亮就起床，日复一日地勤奋工作——这种 **industry**（勤勉）精神最终催生了整个 **industry**（工业）。
@@ -88,7 +86,7 @@ industr(工业/勤勉) + -y(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ industr(工业/勤勉) + -y(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[agriculture]]：农业——与工业相对的第一产业
 > - [[idleness]]：懒惰——与勤勉相对的个人品质
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +116,22 @@ industr(工业/勤勉) + -y(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **heavy industry**：The government invested heavily in heavy industry such as steel and coal.
 > - **service industry**：The service industry has become the largest employer in many developed countries.
 > - **industry standard**：USB has become the industry standard for connecting peripherals.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The rapid development of the technology industry has transformed the way we live and work."（科技行业的快速发展改变了我们的生活和工作方式。）——考研高频表达
 > - "The car industry has been hit hard by the global economic downturn."（汽车行业受到全球经济衰退的严重冲击。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

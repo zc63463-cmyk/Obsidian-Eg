@@ -3,14 +3,12 @@ title: "ultimate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 最远处的尽头
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈʌltɪmət/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**最远处的尽头**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **最远处的尽头**（空间层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ultimate 来自拉丁语 ultimus（最远的），想象你站在一条漫长道路的**最远尽头**——那就是 ultimate。考研中 ultimate 常考"根本的"这个意思，比如"the ultimate cause of the problem"（问题的根本原因），就是追根溯源到达的那个"尽头"。记住：ultimate 不是普通的"最后"，而是"无法再超越的终极"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[initial]]：最初的（ultimate 的精确反义：最终↔最初）
 > - [[preliminary]]：初步的（终极↔初步）
 > - [[proximate]]：近似的，直接的（根本原因↔直接原因）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ultimate goal/aim**：最终目标
 > - **ultimate cause**：根本原因
 > - **ultimate responsibility**：最终责任
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The ultimate goal of education is to develop independent thinkers."（教育的最终目标是培养独立思考者。）——考研写作/阅读高频句式
 > - "Ultimately, the decision rests with the board of directors."（归根到底，决定权在董事会手中。）——考研翻译/阅读
 > - "Climate change is the ultimate challenge of our time."（气候变化是我们这个时代的终极挑战。）——考研阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

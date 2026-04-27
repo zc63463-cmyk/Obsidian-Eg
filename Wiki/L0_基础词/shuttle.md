@@ -3,14 +3,12 @@ title: "shuttle"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 梭子（织布时来回穿行的工具）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈʃʌtl/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**梭子（来回穿行）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **梭子**（物体层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shuttle 本义是织布的梭子——在经线之间来回穿行。机场到市区的穿梭巴士——a shuttle bus。地球和太空之间来回的航天飞机——space shuttle。外交官在两个首都之间来回穿梭——shuttle between the two capitals。shuttle 就是"来回穿行"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stay]]：停留（shuttle 的反义：穿梭往返↔停留不动）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shuttle bus/service**：穿梭巴士/服务
 > - **space shuttle**：航天飞机
 > - **shuttle between A and B**：在A和B之间穿梭
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All the meals on space station are put together on Earth and sent there by space shuttle."（空间站上的所有餐食都是在地球上准备好的，然后通过航天飞机送到那里。——中考/高考真题）
 > - "During the next two years, other delegations shuttled between the two capitals."（在接下来的两年里，其他代表团在两个首都之间穿梭往来。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

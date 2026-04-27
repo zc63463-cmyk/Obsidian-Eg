@@ -3,15 +3,13 @@ title: "among"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases:
   - amongst
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在人群之中混合
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈmʌŋ/"
 pos: prep.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ a-/in-(在) + 建议创建词根笔记 [[mong/mongo]](人群，混合) = 在人�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在人群之中混合**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在人群之中混合**（物理方位：被包围在群体中间）
@@ -67,7 +65,7 @@ a-/in-(在) + 建议创建词根笔记 [[mong/mongo]](人群，混合) = 在人�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ a-/in-(在) + 建议创建词根笔记 [[mong/mongo]](人群，混合) = 在人�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 你走进一个热闹的集市，被人群（mong人群）包围在中间——among 就是在"……之中"。
@@ -92,7 +90,7 @@ a-/in-(在) + 建议创建词根笔记 [[mong/mongo]](人群，混合) = 在人�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ a-/in-(在) + 建议创建词根笔记 [[mong/mongo]](人群，混合) = 在人�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[outside]]：在……之外
 > - [[beyond]]：在……之外，超越
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ a-/in-(在) + 建议创建词根笔记 [[mong/mongo]](人群，混合) = 在人�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **among the + 最高级**：……之一
   - She is among the most talented students in the class.（她是班上最有才华的学生之一。）
 > - **among other things**：其中，除了别的以外
@@ -132,22 +130,14 @@ a-/in-(在) + 建议创建词根笔记 [[mong/mongo]](人群，混合) = 在人�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is a growing consensus among scientists that global warming is primarily caused by human activities."（科学家之间日益达成共识：全球变暖主要由人类活动引起。）——考研高频表达
 > - "The unemployment rate among young people remains significantly higher than the national average."（年轻人的失业率仍然明显高于全国平均水平。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

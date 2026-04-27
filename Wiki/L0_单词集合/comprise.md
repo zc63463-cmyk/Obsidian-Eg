@@ -3,14 +3,12 @@ title: "comprise"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 抓取到一起，包含
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kəmˈpraɪz/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ com-(一起) + [[pon/pos|prerehend/prise]](抓取、握住) = comprise（抓到�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**抓取到一起**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **抓取到一起**（结构层面——将各部分收拢为整体）
@@ -65,7 +63,7 @@ com-(一起) + [[pon/pos|prerehend/prise]](抓取、握住) = comprise（抓到�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ com-(一起) + [[pon/pos|prerehend/prise]](抓取、握住) = comprise（抓到�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（一起）+ prise（抓取，来自拉丁语 prehendere）：将军把各支部队**抓到一起**组成一个军团——这就是 comprise（包含、由…组成）。
@@ -87,7 +85,7 @@ com-(一起) + [[pon/pos|prerehend/prise]](抓取、握住) = comprise（抓到�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ com-(一起) + [[pon/pos|prerehend/prise]](抓取、握住) = comprise（抓到�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[exclude]]：排除，不包括（包含↔排除）
 > - [[omit]]：省略，遗漏
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ com-(一起) + [[pon/pos|prerehend/prise]](抓取、握住) = comprise（抓到�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be comprised of**：（虽不规范但常见）由…组成
 > - **comprise**：直接及物，The book comprises 12 chapters.（这本书包含12章。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Fifty states comprise the United States of America."（五十个州组成了美利坚合众国。）——考研高频表达
 > - "The committee comprises representatives from various departments and disciplines."（委员会由来自各个部门和学科的代表组成。）——考研高频表达
 > - "Manufacturing comprises approximately 14% of the state's economy."（制造业约占该州经济的14%。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

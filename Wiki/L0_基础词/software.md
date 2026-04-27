@@ -3,14 +3,12 @@ title: "software"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 软的货物（相对于硬件而言的计算机程序和数据）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsɒftweə(r)/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**软的货物**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **货物**（商业层面）
@@ -62,7 +60,7 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > software = soft（软的）+ ware（货物）= 软的货物 = 软件。计算机有硬件（hardware = hard 硬的 + ware 货物）和软件（software = soft 软的 + ware 货物）。硬件是键盘、芯片这些"硬"的东西，软件是程序、数据这些"软"的东西。记住 ware = 货物：glassware（玻璃器皿）、silverware（银器）、ironware（铁器）。
@@ -84,7 +82,7 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +95,12 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hardware]]：硬件（software 的精确反义：软件↔硬件）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **software development**：软件开发
 > - **software engineering**：软件工程
 > - **software update**：软件更新
@@ -125,19 +123,15 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The rapid advancement of software technology has fundamentally transformed the way businesses operate and communicate globally."（软件技术的快速发展从根本上改变了企业在全球范围内运营和沟通的方式——考研阅读科技话题相关表达）
 > - "Many companies are now investing heavily in software development to maintain their competitive edge in the digital marketplace."（许多公司现在正大力投资软件开发，以在数字市场中保持竞争优势——考研翻译商业话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

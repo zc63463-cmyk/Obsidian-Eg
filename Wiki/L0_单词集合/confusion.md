@@ -3,14 +3,12 @@ title: "confusion"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 混合在一起的状态
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈfjuːʒn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**混合在一起的状态**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **混合在一起的状态**（物理层面）
@@ -67,7 +65,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-(共同) + fuse(倾倒) + -ion(状态) → 所有东西"共同倾倒"在一起的状态→混乱/困惑。想象考试时所有知识点在脑子里搅成一团。
@@ -92,7 +90,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clarity]]：清晰（困惑→清晰）
 > - [[order]]：秩序（混乱→秩序）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cause/create confusion**：引起/造成困惑
   - The new policy has caused considerable confusion among the public.（新政策在公众中引起了相当大的困惑。）
 - **in confusion**：困惑地，慌乱地
@@ -137,20 +135,14 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new policy has caused considerable confusion among employees about their responsibilities."（新政策在员工中造成了相当大的困惑，使他们不清楚自己的职责。）——考研高频表达
 > - "There is widespread confusion about the difference between "affect" and "effect" even among native English speakers."（即使在英语母语者中，对于"affect"和"effect"的区别也存在普遍的困惑。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "mischief"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 坏事发生（事情发展到了不好的结局）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmɪstʃɪf/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坏事发生**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **事情变坏**（抽象层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mischief = mis（坏）+ chief（头、首）= 坏的结局 = 不幸。古法语 *meschef* = 事情走到了坏的方向。与 achieve（a- + chief = 到达头部 = 完成）反义同源。最初指"不幸、灾祸"，后来词义弱化为"恶作剧"——The boy is up to mischief（这男孩在搞恶作剧）。Watch out, you could do yourself a mischief（小心，你会伤到自己的）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[benefit]]：益处（mischief 的反义：伤害↔益处）
 > - [[goodwill]]：善意（mischief 的反义：恶意↔善意）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **full of mischief**：满肚子恶作剧
 > - **up to mischief**：在搞恶作剧
 > - **do oneself a mischief**：伤到自己
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The children were full of mischief and kept hiding their teacher's chalk."（孩子们淘气得很，一直把老师的粉笔藏起来——考研阅读教育话题相关表达）
 > - "He had the misfortune to be born into a family where mischief was considered a virtue."（他不幸出生在一个把恶作剧视为美德的家庭——考研翻译文学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

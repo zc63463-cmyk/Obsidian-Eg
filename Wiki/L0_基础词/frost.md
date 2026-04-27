@@ -3,14 +3,12 @@ title: "frost"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 白色的冰晶（寒冷时凝结在物体表面的冰晶）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/frɒst/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**白色的冰晶（寒冷时凝结在物体表面的冰晶）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **白色的冰晶**（物理层面）
@@ -69,7 +67,7 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > frost 与 freeze（结冰）同源。冬天清晨你推开窗户，看到草地上覆盖着一层白色的冰晶——那就是 frost。frost 和 freeze 是"霜"和"结冰"的关系：freeze 是水变成冰的动作，frost 是这个动作产生的结果——白色的冰晶。蛋糕上的糖霜也叫 frost，因为它看起来就像覆盖在蛋糕上的"霜"。
@@ -92,7 +90,7 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[thaw]]：融化，解冻（frost 的反义：结霜↔融化）
 > - [[heat]]：炎热（frost 的反义：严寒↔炎热）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **frost on the ground**：地上的霜
 > - **early/late frost**：早霜/晚霜
 > - **frost damage**：霜冻损害
@@ -133,19 +131,15 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Early frost can cause severe damage to crops."（早霜会对农作物造成严重损害——考研高频表达）
 > - "The grass was covered with frost on the cold morning."（寒冷的早晨，草地上覆盖着霜）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

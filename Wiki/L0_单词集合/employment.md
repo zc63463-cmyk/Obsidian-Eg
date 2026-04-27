@@ -3,14 +3,12 @@ title: "employment"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 被卷入使用的状态
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪmˈplɔɪmənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被卷入使用的状态**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被卷入使用的状态**（社会层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > employ（雇用）+ ment（状态）= 被雇用的状态。你毕业后找工作，就是在寻找 employment（就业）。找到 employment 后，你就是一个有 employment（职业）的人。employment rate（就业率）是衡量一个国家经济健康的重要指标——employment 越多，unemployment（失业）越少，社会越稳定。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unemployment]]：失业（employment 的直接反义：就业↔失业）
 > - [[idleness]]：闲散（employment 的反义：有工作↔无所事事）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **employment rate**：就业率
   - *The employment rate among college graduates has been declining in recent years.*（近年来大学毕业生的就业率一直在下降。）
 > - **seek/find employment**：寻找/找到工作
@@ -132,22 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "employment rate/opportunities"（就业率/就业机会）——考研阅读中社会经济类文章极高频话题
 > - "unemployment rate"（失业率）——考研阅读中经济政策类文章常见搭配
 > - "employment discrimination"（就业歧视）——考研阅读中社会公平类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

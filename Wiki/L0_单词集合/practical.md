@@ -3,17 +3,14 @@ title: "practical"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 实践的/实际的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈpræktɪkl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: practic
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与实践相关的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与实践相关的**（行为层面：涉及实际操作）
@@ -67,7 +64,7 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > practical 就是 practice 的形容词版——与实践有关，所以是"实际的、实用的"。一个 practical 的人不会空谈理论，只会动手做事。
@@ -85,7 +82,7 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +94,13 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[theoretical]]：理论的（与实践相对）
 > - [[impractical]]：不切实际的；不可行的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **practical experience**：实践经验
   - The course provides students with practical experience in the field.（该课程为学生提供该领域的实践经验。）
 > - **practical application**：实际应用
@@ -126,20 +123,14 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge."（传统测试能够对分析能力和语言能力做出最佳评估，但不能评估创造能力和实践知识。）——2007年阅读Text2
 > - "The NT Rights of the Terminally Ill law has left physicians and citizens alike trying to deal with its moral and practical implications."（《北领地绝症患者权利法》让医生和市民 alike 都试图应对其道德和实际影响。）——1997年翻译
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

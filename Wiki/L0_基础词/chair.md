@@ -3,14 +3,12 @@ title: "chair"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 椅子（供人坐的家具）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/tʃeər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**椅子（座位）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **椅子**（物理层面）
@@ -67,7 +65,7 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > chair 来自拉丁语 cathedra（座位）。会议室里那把最特别的椅子是主席的座位——take the chair 就是"就任主席"。chair a meeting 就是"坐在主席位上主持会议"。大学教授的职位也叫 chair，那是学术权威的"座位"。
@@ -90,7 +88,7 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stand]]：站立（chair 作为"椅子"的反义：坐↔站）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take the chair**：担任主席，主持会议
 > - **chair a meeting/session**：主持会议/会议
 > - **sit in a chair**：坐在椅子上
@@ -129,19 +127,15 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Bob Herz, the FASB's chairman, cried out against those who 'question our motives.'"（FASB主席鲍勃·赫尔兹对那些"质疑我们动机"的人发出了抗议——2010年考研英语阅读Text 2）
 > - "John Chambers, chairman of Cisco Systems Inc., says that 'we compete against market transitions, not competitors.'"（思科系统公司董事长约翰·钱伯斯说"我们与市场转型竞争，而非与竞争对手竞争"——六级/考研通用语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "especially"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 从本质中特别提取出来
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈspeʃəli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[ess]]（本质，存在�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从本质中特别提取出来**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **从本质中特别提取出来**（程度层面）
@@ -64,7 +61,7 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[ess]]（本质，存在�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[ess]]（本质，存在�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > especially 来自 especial + -ly，especial 来自拉丁语 *specialis*（特殊的）+ e-（加强）。与 [[essence]]（本质）同源。想象你在一群人中，你"从本质中特别提取"出一个人——他尤其优秀，他就是 especially outstanding。especially 的本质就是"从一般中提取出特殊的"。
@@ -88,7 +85,7 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[ess]]（本质，存在�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[ess]]（本质，存在�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[generally]]：通常，一般地（尤其↔一般地）
 > - [[ordinarily]]：通常，平常地（特别↔平常）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +116,22 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[ess]]（本质，存在�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **especially important/true**：特别重要/确实（This is especially important for young people.）
 > - **especially when/where**：尤其当...（The problem is especially serious in urban areas.）
 > - **especially for**：尤其对...来说（This book is especially useful for beginners.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The problem is especially acute in developing countries."（这个问题在发展中国家尤为严重。）——考研高频表达
 > - "Online shopping has become increasingly popular, especially among young consumers."（网上购物变得越来越受欢迎，尤其是在年轻消费者中。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

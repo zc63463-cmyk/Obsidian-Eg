@@ -3,14 +3,12 @@ title: "postage"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 邮寄的费用（邮资）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈpəʊstɪdʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**邮政的费用**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **邮政服务**（社会层面）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > postage = post（邮政）+ -age（费用）= 邮政的费用 = 邮资。核心画面是"邮寄信件需要付的费用"。想象你在邮局寄包裹，工作人员称重后告诉你需要多少 postage（邮费）。postage paid（邮资已付）、postage stamp（邮票）。注意 -age 后缀常表示费用：baggage（行李费）、mileage（里程费）、postage（邮资）。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （postage 作为具体费用名词，无明显反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **postage paid**：邮资已付
 > - **postage stamp**：邮票
 > - **postage fee**：邮费
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All orders over fifty dollars qualify for free postage, making online shopping even more attractive to consumers."（所有超过50美元的订单均可享受免邮费，使在线购物对消费者更具吸引力——考研阅读商业话题相关表达）
 > - "The cost of postage has increased significantly in recent years due to rising fuel prices and labor costs."（由于燃料价格和劳动力成本的上涨，近年来邮资费用大幅增加——考研阅读经济话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

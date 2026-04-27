@@ -3,14 +3,12 @@ title: "lapse"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 滑落（从正确状态滑落）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/læps/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**滑落**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **滑落**（状态变化层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lapse = 滑落。你的注意力滑落了 → a lapse of concentration（注意力不集中）。时间悄悄滑走了 → the lapse of time（时间流逝）。你的会员卡从有效期滑出去了 → membership lapsed（会员资格失效）。记住：lapse 就是"滑"——从好状态滑出去。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[recovery]]：恢复（lapse 的反义：滑落/失效↔恢复）
 > - [[renewal]]：续期（lapse 的反义：失效↔续期）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a lapse of concentration/judgment**：注意力/判断力的失误
 > - **the lapse of time**：时间的流逝
 > - **lapse into**：逐渐陷入（某种状态）
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "But a lapse of integrity also affects our relationships with others."（但是诚信的缺失也会影响我们与他人的关系。——考研阅读真题）
 > - "After a lapse of six months we met up again."（相隔六个月之后我们又相遇了。——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

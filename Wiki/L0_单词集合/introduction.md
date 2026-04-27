@@ -3,14 +3,12 @@ title: "introduction"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 带入内部的行为或结果
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌɪntrəˈdʌkʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**带入内部的行为或结果**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **带入内部的行为或结果**（社交层面）
@@ -71,7 +69,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > introduction 是 introduce 的名词形式，来自拉丁语 *introductio*。想象你翻开一本厚厚的经济学教材，第一页写着"Introduction"——这一章的目的就是把你这个初学者"带入"经济学的世界。再想象你拿着一封介绍信（a letter of introduction）去见一位陌生人——这封信的作用就是把你的身份"带入"对方的认知。introduction 的本质就是"带入的开端"。
@@ -95,7 +93,7 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,12 +105,12 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conclusion]]：结论（引言↔结论，文章首尾对应）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,29 +121,23 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a letter of introduction**：介绍信（He brought a letter of introduction from his professor.）
 > - **the introduction of**：...的引进/推行（The introduction of new technology has transformed the industry.）
 > - **an introduction to**：...的导论/入门（She is reading an introduction to philosophy.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The introduction of new technology has transformed the way we work and communicate."（新技术的引进改变了我们工作和交流的方式。）——考研高频表达
 > - "The introduction to this book provides a useful overview of the subject."（本书的导论对该学科提供了有用的概述。）——考研高频表达
 > - "The introduction of the euro was a landmark in European economic history."（欧元的引入是欧洲经济史上的一个里程碑。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

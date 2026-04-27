@@ -3,14 +3,12 @@ title: "organic"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 与生物体有关的、有组织的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɔːˈɡænɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**像器官一样有组织的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **像器官一样有组织的**（生物层面：有生命、有结构的）
@@ -68,7 +66,7 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 农夫在田里不施化肥、不打农药，让蔬菜像身体里的器官（organ）一样自然生长——他种出的就是 organic（有机的）食物。
@@ -89,7 +87,7 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inorganic]]：无机的（有机 vs 无机）
 > - [[artificial]]：人工的（自然有机 vs 人造）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **organic food**：有机食品
 >   More and more consumers are choosing organic food for health reasons.（出于健康原因，越来越多的消费者选择有机食品。）
 > - **organic chemistry**：有机化学 Organic chemistry is a required course for medical students.（有机化学是医学生的必修课。）
@@ -129,21 +127,15 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The relationship between the two organizations developed in an organic way."（两个组织之间的关系以自然的方式发展。）——考研高频表达
 > - "More and more consumers prefer organic food these days."（如今越来越多的消费者更青睐有机食品。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

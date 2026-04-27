@@ -3,17 +3,14 @@ title: "alone"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 全部只有一个（独自一人）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈləʊn/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: all
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ all（全部）+ one（一个）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**全部只有一个**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **全部只有一个**（数量层面）
@@ -65,7 +62,7 @@ all（全部）+ one（一个）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ all（全部）+ one（一个）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > all（全部）+ one（一个）→ 全部只有一个 → 独自的。leave me alone = 让我全部只有自己 = 别管我。let alone = 让全部只有一个 → 更不用说（连这个都没有，更不用说别的了）。Tom is not alone = Tom 不是全部只有一个 = 不只是Tom一人。
@@ -88,7 +85,7 @@ all（全部）+ one（一个）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ all（全部）+ one（一个）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[together]]：一起（alone 的精确反义）
 > - [[accompanied]]：有人陪伴的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +125,7 @@ all（全部）+ one（一个）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **let alone**：更不用说（用于否定句后）
 > - **leave alone**：不打扰，让……独自待着
 > - **not alone**：不只是（某人）
@@ -136,20 +133,16 @@ all（全部）+ one（一个）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Feelings of righteous indignation, it seems, are not the preserve of people alone."（看来，义愤感似乎不是人类独有的——2005年英语一Text 1）
 > - "Also unclear is why Microsoft has gone it alone."（同样不清楚的是微软为何要甩开其他公司单干——考研阅读高频表达）
 > - "I find courage an essential quality for the understanding, let alone the performance of his works."（我发现勇气是理解其作品的一个重要品质，更不用说表演他的作品了——考研翻译高频句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

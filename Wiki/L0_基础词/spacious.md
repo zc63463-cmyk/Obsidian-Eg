@@ -3,17 +3,14 @@ title: "spacious"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 充满空间的（宽敞的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈspeɪʃəs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: space
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ space(空间，[[space]]) + -ious(形容词后缀，充满……的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充满空间的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **充满空间的**（物理层面）
@@ -62,7 +59,7 @@ space(空间，[[space]]) + -ious(形容词后缀，充满……的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ space(空间，[[space]]) + -ious(形容词后缀，充满……的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**（优先）：
 > spacious = space（空间）+ ious（充满……的）→ 充满空间的 → **宽敞的**。记住 -ious 后缀家族：spacious（充满空间的→宽敞的）、ambitious（充满野心→有雄心的）、cautious（充满谨慎→小心的）、delicious（充满美味→美味的）、precious（充满价值→珍贵的）。space + ious = spacious。
@@ -81,7 +78,7 @@ space(空间，[[space]]) + -ious(形容词后缀，充满……的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -93,13 +90,13 @@ space(空间，[[space]]) + -ious(形容词后缀，充满……的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cramped]]：狭窄的（spacious ↔ cramped，宽敞的 ↔ 狭窄的）
 > - [[narrow]]：狭窄的（spacious ↔ narrow，宽敞的 ↔ 狭窄的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -111,24 +108,20 @@ space(空间，[[space]]) + -ious(形容词后缀，充满……的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spacious room/apartment**：宽敞的房间/公寓
 > - **spacious office**：宽敞的办公室
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new library is a spacious building with plenty of natural light."（新图书馆是一座宽敞的建筑，有充足的自然光——考研翻译参考句式）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

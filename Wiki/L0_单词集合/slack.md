@@ -3,14 +3,12 @@ title: "slack"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 松弛的，不紧的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/slæk/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**松弛的，不紧的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **松弛的，不紧的**（物理层面：绳子等没有拉紧的状态）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > slack 来自古诺斯语 *slakr*（松软的），核心意象是一条没有拉紧的绳子。绳子 slack 了就松了，人 slack 了就懒散了，经济 slack 了就萧条了——一切从"不紧"开始。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,7 +108,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[tight]]：紧的（slack 是松弛的，tight 是紧绷的）
 > - [[taut]]：拉紧的（强调绳子等拉得很紧）
 > - [[rigid]]：严格的，严厉的（与"懈怠的"相对）
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **slack season**：淡季
   - Tourism is in its slack season during the winter months.（旅游业在冬季处于淡季。）
 > - **take up the slack**：弥补不足，拉紧松弛部分
@@ -139,22 +137,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The manager warned the employees not to slack off during the final weeks of the project."（经理警告员工在项目最后几周不要懈怠。）——考研高频表达
 > - "Demand for housing tends to slack off during the winter months."（冬季对住房的需求往往会放缓。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "supervise"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 在上方看（监督）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈsuːpəvaɪz/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在上方看**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在上方看**（空间层面：从高处俯瞰）
@@ -64,7 +62,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > super（在上方）+ vis（看）。想象一个工厂的监工站在**上方**的平台上，向下**看**着工人干活——他在 **supervise**（监督）。记住：在上方看 = supervise。
@@ -87,7 +85,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视（不看不管）
 > - [[submit]]：服从（被监督者的行为）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **supervise sb. doing sth.**：监督某人做某事
   - She supervises the team working on the project.（她监督负责该项目的团队。）
 > - **under sb.'s supervision**：在某人的监督下
@@ -126,19 +124,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory called the Hawthorne Plant near Chicago."（1924年，美国国家研究委员会派遣两名工程师去芝加哥附近一家名为霍桑工厂的大型电话零部件厂监督一系列工业实验——2010年考研完形填空）
 > - "The government should supervise local sports associations."（政府应该监督本地体育协会——2017年考研Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

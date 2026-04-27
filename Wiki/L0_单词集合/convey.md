@@ -3,14 +3,12 @@ title: "convey"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 一起搬运、运送
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈveɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(共同、一起) + vey-(=viare/vehere，运送、道路) → 运送
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**搬运、运送**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **搬运、运送**（物理层面：把货物从一个地方搬到另一个地方）
@@ -64,7 +62,7 @@ con-(共同、一起) + vey-(=viare/vehere，运送、道路) → 运送
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-(共同、一起) + vey-(=viare/vehere，运送、道路) → 运送
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-（共同）+ vey-（运送，源自拉丁语 *viare*，与 via "道路" 同源）→ **搬运**。把货物从A地搬到B地是"运送"，把想法从你的大脑搬到我的大脑是"传达"，把房屋所有权从你名下搬到我的名下是"转让"。vey- 和 [[fer]]（带来）是同义词根，都表示"搬运/携带"。
@@ -88,7 +86,7 @@ con-(共同、一起) + vey-(=viare/vehere，运送、道路) → 运送
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ con-(共同、一起) + vey-(=viare/vehere，运送、道路) → 运送
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏（传达的反面——不传递信息）
 > - [[withhold]]：保留（转让的反面——不交出）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ con-(共同、一起) + vey-(=viare/vehere，运送、道路) → 运送
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **convey a message/meaning**：传达信息/意义（Words cannot convey how grateful I am.）
 > - **convey a sense of**：传达一种……的感觉（The painting conveys a sense of loneliness.）
 > - **convey goods**：运送货物（The train conveys goods across the country.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Television is one of the means by which these feelings are created and conveyed—and perhaps never before has it served so much to connect different peoples and nations as in the recent events in Europe."（电视是产生和传递这些感受的手段之一——在欧洲近来发生的事件中，它把不同的民族和国家连到一起，其作用之大，前所未有——2005年考研翻译）
 > - "Words cannot convey how grateful I am for your help."（言语无法表达我对你的帮助有多么感激——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

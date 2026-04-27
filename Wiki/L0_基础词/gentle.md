@@ -3,14 +3,12 @@ title: "gentle"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 温和的（性格或力量柔和的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdʒentl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**温和的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **温和的**（性格层面）
@@ -64,7 +62,7 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gentle 源自拉丁语 gentilis（有教养的），词根 gen- 意为"出生"。出身名门的人（well-born）被认为是有教养的（gentle），而有教养的人性格是温和的。gentleman（绅士）就来自这个词。
@@ -86,7 +84,7 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[harsh]]：严厉的，刺耳的（gentle 的反义：温和↔严厉）
 > - [[violent]]：猛烈的（gentle 作为"轻柔的"的反义）
 - [[rough]]：粗糙的，粗暴的（gentle 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,26 +126,22 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a gentle slope**：平缓的斜坡
 > - **a gentle breeze**：微风
 > - **gentle persuasion**：温和的劝说
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Rising more than 1,000 feet in the middle of the gently rolling plains of Wyoming, the massive column of rock looks as though it was dropped down into this location from a different time and place."（在怀俄明州平缓起伏的平原中央拔地而起超过1000英尺，这块巨大的岩柱看起来就像是从另一个时空坠落于此。——考研英语阅读）
 > - "The deep, gentle voice helped calm the nervous girl."（低沉而温柔的声音帮助这个紧张的女孩平静下来。——2020年天津高考阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

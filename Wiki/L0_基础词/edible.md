@@ -3,14 +3,12 @@ title: "edible"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 可食用的（适合被吃的）
-extension_dim: 吃→可吃的→安全的→食用的
+extension_dim: [吃→可吃的→安全的→食用的]
 phonetic: "/ˈedɪbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可食用的（适合被吃的）**"为统筹中心，沿吃→安全→食物向外扩展：
 >
 > 1. **吃**（动作层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *edere*（吃）+ *-ible*（可以……的）= *edible*（可以吃的）。想象你在森林里采蘑菇——有的蘑菇颜色鲜艳但有毒（inedible），有的蘑菇灰褐色但安全（edible）。edible 强调的不仅是"能吃"，更是"吃了安全"。与 [[edit]]（编辑）同源——*edere* 也有"发布"的意思，编辑就是把作品"发布出去"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inedible]]：不可食用的（edible 的精确反义：可食↔不可食）
 > - [[poisonous]]：有毒的（edible 的反义：安全↔有毒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **edible plants/mushrooms**：可食用的植物/蘑菇
 > - **edible oil**：食用油
 > - **edible wild herbs**：可食用的野草
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Not all wild mushrooms are edible; some are highly poisonous."（并非所有野生蘑菇都可食用，有些含有剧毒。——考研阅读科普类）
 > - "The researchers identified over 200 species of edible plants in the region."（研究人员在该地区鉴定了200多种可食用植物。——红宝书考研词汇例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

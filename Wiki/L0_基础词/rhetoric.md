@@ -3,14 +3,12 @@ title: "rhetoric"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 说话的艺术（有效运用语言的技艺）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈretərɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**说话的艺术**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **说话的艺术**（技艺层面）
@@ -67,7 +65,7 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古希腊广场上，演说家（rhetor）用精妙的语言说服民众——这就是 rhetoric（修辞学）。亚里士多德写了《修辞学》，教人如何用语言打动人心。但后来，人们发现有些政客只会说漂亮话而不做事——rhetoric 就变成了"花言巧语"。empty rhetoric（空洞的辞藻）vs effective rhetoric（有效的修辞）。记住：rhetoric = 说话的艺术。
@@ -89,7 +87,7 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[substance]]：实质，内容（rhetoric 是辞藻，substance 是实质内容）
 > - [[action]]：行动（rhetoric 是空话，action 是实际行动）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **empty rhetoric**：空洞的辞藻
 > - **rhetorical question**：反问句（不需要回答的问题）
 > - **campaign rhetoric**：竞选辞令
@@ -127,19 +125,15 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The politician's speech was full of empty rhetoric but lacked any concrete proposals."（这位政客的演讲充满了空洞的辞藻，但没有任何具体提案。）
 > - "Is it just rhetoric, or will they actually take action?"（这仅仅是花言巧语，还是他们真的会采取行动？）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

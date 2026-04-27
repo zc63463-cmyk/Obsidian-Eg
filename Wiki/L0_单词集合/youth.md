@@ -3,14 +3,12 @@ title: "youth"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 年轻的生命阶段
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/juːθ/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**年轻的生命阶段**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **年轻的生命阶段**（时间层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 原始印欧语根 *\*yeu-* 意思是"生命力"，它像一棵树一样长出了三个枝杈：young（年轻的——形容词）、youth（青春——名词）、juvenile（少年的——正式用语）。youth 是这棵树上代表"时间"的那根枝——不是"年轻"的状态，而是"年轻的那段时光"。当你想到 youth，就想到那段充满活力、无所畏惧的岁月。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,7 +108,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[old age]]：老年（youth 的精确反义：青春↔晚年）
 > - [[elderly]]：年长者（年轻人↔年长者）
 > - [[adulthood]]：成年期（青年期↔成年期）
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in one's youth**：在某人年轻时
 > - **the youth of today**：当今的年轻人
 > - **youth culture/unemployment**：青年文化/青年失业
@@ -141,22 +139,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was a talented musician in his youth."（他年轻时是一位才华横溢的音乐家）——考研阅读/翻译常见句式
 > - "youth unemployment has reached a record high"（青年失业率创下历史新高）——社会经济类阅读高频话题
 > - "the energy and idealism of youth"（青春的活力与理想主义）——议论文常见表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

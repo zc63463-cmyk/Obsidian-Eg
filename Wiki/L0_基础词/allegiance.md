@@ -3,14 +3,12 @@ title: "allegiance"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 绑在一起（对某人/组织的忠诚绑定）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈliːdʒəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绑在一起**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **绑在一起**（物理层面）
@@ -64,7 +62,7 @@ al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > al（向）+ lig（绑，[[liber]]）+ ance（名词后缀）→ 向某人绑在一起 → 忠诚。allegiance 和 [[alliance]]（联盟）同源——alliance 是国家之间"绑"在一起，allegiance 是个人对组织"绑"在一起。
@@ -86,7 +84,7 @@ al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[betrayal]]：背叛（allegiance 的精确反义）
 > - [[treason]]：叛国（allegiance 的极端反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,26 +122,22 @@ al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pledge/swear allegiance to**：宣誓效忠于……
 > - **allegiance to**：对……的忠诚
 > - **shift/transfer allegiance**：改变效忠对象
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "These terms are also intended to infuse work with meaning—and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm."（这些术语也旨在赋予工作以意义——正如另一位教授拉凯什·库拉纳指出的那样，增加对公司的忠诚度——2015年英语二阅读理解）
 > - "Soldiers have to swear allegiance to the Crown/the King."（士兵必须宣誓效忠国王——考研高频搭配表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

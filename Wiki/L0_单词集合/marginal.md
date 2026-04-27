@@ -3,14 +3,12 @@ title: "marginal"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 位于边缘的，写在页边空白处的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈmɑːdʒɪnl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**位于边缘的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **位于边缘的**（物理空间层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > marginal 是 margin（边缘）的形容词形式。想象一本书，正文在中间，注释被挤在**边缘**（marginal notes）——因为它们不是核心内容。后来，"在边缘"变成了"不重要"的代名词——**微小的**改善、**次要的**问题、**勉强**获胜的选举。从书页边缘到社会评价，marginal 始终在说"这不是最重要的"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[central]]：核心的，中心的（marginal 作为"边缘的/不重要的"的反义：边缘↔核心）
 > - [[significant]]：重要的，显著的（marginal 作为"微小的/不重要的"的反义：微小↔显著）
 > - [[crucial]]：关键的（marginal 作为"次要的"的反义：次要↔关键）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **marginal improvement**：微小的改善
 > - **marginal cost**：边际成本（经济学核心术语）
 > - **marginal benefit**：边际效益
@@ -138,7 +136,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "marginal cost and marginal benefit"（边际成本与边际效益）——考研阅读经济类话题，经济学核心概念
 > - "only a marginal improvement in living standards"（生活水平的微小改善）——社会/经济类阅读
 > - "marginal groups in society"（社会边缘群体）——社会学/政治类阅读
@@ -146,15 +144,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

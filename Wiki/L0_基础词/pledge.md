@@ -3,14 +3,12 @@ title: "pledge"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 保证（正式承诺做某事或给予某物）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/pledʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**保证**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **保证**（社会承诺层面）
@@ -69,7 +67,7 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pledge = 正式的保证/承诺。pledge to reduce emissions = 承诺减少排放。pledge allegiance to the flag = 向国旗宣誓效忠。He asked her to pledge the house as security for a loan = 他要她抵押房子作为贷款担保。记住：pledge = 保证/承诺/抵押，和 [[pleasure]] 同源。
@@ -92,7 +90,7 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[break]]：违背（pledge 的反义：保证↔违背）
 > - [[violate]]：违反（pledge 的反义：承诺↔违反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make a pledge**：做出承诺
 > - **pledge to do something**：承诺做某事
 > - **pledge allegiance**：宣誓效忠
@@ -133,19 +131,15 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the treaty both sides pledge to respect human rights."（双方在条约中都承诺尊重人权。——通用例句）
 > - "The government had retreated from its pledge to reduce class sizes."（政府已经放弃了缩小班级规模的承诺。——通用例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

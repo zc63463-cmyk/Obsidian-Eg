@@ -3,14 +3,12 @@ title: "uneasy"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 不安的、不舒适的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ʌnˈiːzi/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**身体或心理上不舒适**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **身体或心理上不舒适**（具身层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > un-（不）+ easy（轻松的）= uneasy（不轻松的）。想象你坐在一张**不舒服**的椅子上，身体扭来扭去（具身层面）；然后想象你明天要面试，心里**七上八下**（心理层面）；再想象两个敌对国家签了停火协议，但谁也不信任谁（局势层面）。从椅子到心到天下，都是 uneasy。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,7 +102,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[easy]]：轻松的，舒适的（uneasy 的直接反义：不轻松↔轻松）
 > - [[comfortable]]：舒适的，自在的（身体和心理层面的反义）
 > - [[stable]]：稳定的（局势层面的反义：uneasy alliance ↔ stable alliance）
@@ -112,7 +110,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **feel uneasy about sth.**：对某事感到不安
 > - **an uneasy silence**：令人不安的沉默
 > - **an uneasy alliance/truce**：不稳固的联盟/停战
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "feel uneasy about the prospect"（对前景感到不安）——考研阅读常见搭配，描述对未来的担忧
 > - "an uneasy alliance between the two parties"（两党之间不稳固的联盟）——政治类阅读语境
 > - "an uneasy silence fell over the room"（房间里弥漫着令人不安的沉默）——文学类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

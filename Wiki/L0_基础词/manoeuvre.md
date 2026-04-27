@@ -3,14 +3,12 @@ title: "manoeuvre"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用手操作（巧妙地用手操控）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/məˈnuːvə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手操作**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **用手操作**（物理层面）
@@ -72,7 +70,7 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > manu（手）+ oeuvre（工作）→ 用手工作 → 巧妙操控。room for manoeuvre（回旋余地）就是"操控的空间"。将军操控军队叫 military manoeuvre（军事演习），政客操控局势叫 political manoeuvre（政治手腕）。
@@ -95,7 +93,7 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,12 +106,12 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stagnation]]：停滞（manoeuvre 的反义：灵活操控↔停滞不动）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **room for manoeuvre**：回旋余地
 > - **military manoeuvres**：军事演习
 > - **manoeuvre sb. into doing sth.**：操纵某人做某事
@@ -136,19 +134,15 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "You have no room to manoeuvre, no time to think."（你没有回旋的余地，没有思考的时间。——考研阅读常见表达）
 > - "The city is an opportunity for manoeuvre."（城市是一种策略运作的机会。——考研社会话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "timid"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 容易受惊的，胆小的
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/ˈtɪmɪd/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**容易受惊的，胆小的**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **害怕**（情感层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > timid 的核心画面是"一只小鹿在森林里，听到任何声音都会受惊逃跑"。拉丁语 *timere* = 害怕。timid = 容易害怕的 = 胆小的。a timid deer（胆小的鹿）= 容易受惊的鹿。a timid smile（羞怯的微笑）= 因为胆小而不敢大大方方地笑。intimidate（恐吓）= 使别人变得 timid = 使人害怕。timidity（胆小）是名词形式。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bold]]：大胆的（timid 的精确反义：胆小↔大胆）
 > - [[brave]]：勇敢的（timid 的反义：胆小↔勇敢）
 > - [[confident]]：自信的（timid 的反义：胆小↔自信）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a timid person**：胆小的人
 > - **a timid smile**：羞怯的微笑
 > - **a timid voice**：怯懦的声音
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The timid student rarely raised her hand in class, not because she lacked knowledge, but because she feared being judged by her more outspoken classmates."（那个胆小的学生很少在课堂上举手，不是因为她缺乏知识，而是因为她害怕被那些更敢于发言的同学评判——考研阅读教育话题相关表达）
 > - "In many traditional cultures, women were expected to be timid and submissive, a social expectation that modern feminist movements have vigorously challenged and sought to overturn."（在许多传统文化中，女性被期望是胆小和顺从的，这种社会期望已被现代女权运动大力挑战并试图推翻——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "feudal"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 封地（源自拉丁语 *feudum* / *feodum*，"封地、采邑"）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈfjuːdl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ feud(封地，拉丁语 *feudum*) + -al(形容词后缀，表示"与……有关
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**封地的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **封地的**（土地制度层面）
@@ -66,7 +64,7 @@ feud(封地，拉丁语 *feudum*) + -al(形容词后缀，表示"与……有关
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ feud(封地，拉丁语 *feudum*) + -al(形容词后缀，表示"与……有关
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > feud（封地）+ al（的）= feudal。国王把土地分封给贵族，这就是 feudal（封建的）。注意不要和 feud（世仇、不和）混淆，虽然拼写一样但词源不同——feudal 的 feud 是"封地"，feud（世仇）可能来自古法语 *feide* "敌意"。
@@ -88,7 +86,7 @@ feud(封地，拉丁语 *feudum*) + -al(形容词后缀，表示"与……有关
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ feud(封地，拉丁语 *feudum*) + -al(形容词后缀，表示"与……有关
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[modern]]：现代的（feudal 的反义：封建的↔现代的）
 > - [[democratic]]：民主的（feudal 的反义：封建等级↔民主平等）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ feud(封地，拉丁语 *feudum*) + -al(形容词后缀，表示"与……有关
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **feudal system/society**：封建制度/封建社会
 > - **feudal lord**：封建领主
 > - **feudal hierarchy**：封建等级制度
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The burghers had grown strong in feudal society and wanted a suitable position among the estates."（市民在封建社会中已经壮大，希望在各个阶层中获得合适的地位。——经典例句）
 > - "When luxury destroyed baronial power, it released the gentry from their feudal dependence and enlarged their power and authority."（当奢靡之风摧毁了男爵权力时，它使乡绅从封建依附中解放出来，扩大了他们的权力和权威。——经典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

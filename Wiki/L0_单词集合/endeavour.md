@@ -3,14 +3,12 @@ title: "endeavour"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: [endevor, endeavor]
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 尽全力去做
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɪnˈdevə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**尽全部责任去做**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **尽全部责任去做**（个人行动层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > endeavour 的词源是"使自己承担起责任"——en（使）+ devoir（责任/义务）。想象一个科学家把攻克癌症当作自己的使命，日以继夜地研究——这就是 scientific endeavour。endeavour 比 effort 多了一层"承诺"和"使命感"：effort 是"用力"，endeavour 是"尽责"。和 duty（责任）、due（到期的/应得的）同源，都来自拉丁语 debere（欠/应该）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：疏忽，忽视（endeavour "尽责努力"的反义）
 > - [[abandon]]：放弃（endeavour "坚持努力"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **endeavour to do sth.**：努力做某事，尽力做某事
 > - **make every endeavour**：尽一切努力
 > - **scientific endeavour**：科学探索/科学事业
@@ -130,22 +128,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We will endeavour to meet the deadline."（我们将尽力在截止日期前完成）——正式承诺类表达
 > - "The scientific endeavour has led to remarkable breakthroughs."（科学探索已带来了非凡的突破）——科技类阅读
 > - "In the endeavour to reduce poverty, the government has implemented a series of policies."（在减贫的努力中，政府实施了一系列政策）——社会政策类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

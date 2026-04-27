@@ -3,14 +3,12 @@ title: "drug"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 干燥的草药（晒干的药用植物）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/drʌɡ/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**干燥的草药**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **干燥的草药**（物质层面）
@@ -67,7 +65,7 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drug 来自古法语 *drogue*，原义是"干燥的草药"。想象古代药铺里，墙上挂着一排排晒干的草药——这就是 drug 的原始画面。这些草药，用来治病就是"药物"（medicine/drug），被滥用就是"毒品"（illegal drug）。drug 的核心就是"影响身体的物质"——同一种东西，用法不同，名字不同。
@@ -90,7 +88,7 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词，drug 作为物质概念无直接反义
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **drug abuse**：药物滥用，吸毒
 > - **prescription drug**：处方药
 > - **drug addict**：吸毒者
@@ -128,23 +126,15 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many people mistakenly believe the term drug refers only to some sort of medicine or an illegal chemical taken by drug addicts."（许多人错误地认为 drug 这个词仅仅指某种药物或吸毒者服用的非法化学品。——1997年考研英语阅读Text1，drug 的经典真题）
 > - "Technically, any substance other than food that alters our bodily or mental functioning is a drug."（严格来说，除食品外，任何能改变我们生理或心理功能的物质都是药物。——考研英语阅读，drug 的定义性例句）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

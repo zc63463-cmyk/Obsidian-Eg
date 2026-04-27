@@ -3,14 +3,12 @@ title: "inland"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 向陆地内部（远离海岸的方向）
-extension_dim: 空间维度
+extension_dim: [空间维度]
 phonetic: "/ˈɪnlənd; ɪnˈlænd/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向陆地内部**"为统筹中心，沿空间维度向外扩展：
 >
 > 1. **向陆地内部**（空间层面）
@@ -68,7 +66,7 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inland = in（向内）+ land（陆地）→ 向陆地内部。想象你站在上海的海滩上，面朝大海，然后转身往西走——你就是在往 inland（内陆）方向走。走到西安、兰州，你就深入了中国的 inland。记住：in + land = 内陆。注意发音：作形容词/名词时重音在前 /ˈɪnlənd/，作副词时重音在后 /ɪnˈlænd/。
@@ -92,7 +90,7 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[coastal]]：沿海的（inland 的精确反义：内陆↔沿海）
 > - [[overseas]]：海外的（inland 的反义：内陆↔海外）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inland cities/areas**：内陆城市/地区
 > - **inland waterways**：内陆水道
 > - **inland trade**：国内贸易，内陆贸易
@@ -130,19 +128,15 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Sea winds that blow inland from the west are warmed by a current of warm water that flows through the Pacific Ocean."（从西边吹向内陆的海风被流经太平洋的暖流所温暖——考研英语阅读，地理气候话题）
 > - "The government has invested heavily in developing inland transport infrastructure to connect remote areas with major cities."（政府大力投资发展内陆交通基础设施，以将偏远地区与主要城市连接起来——考研英语阅读，基础设施话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

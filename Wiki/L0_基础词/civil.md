@@ -3,14 +3,12 @@ title: "civil"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 城市的/公民的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsɪvl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**城市的/公民的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **城市的/公民的**（社会层面）
@@ -68,7 +66,7 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > civ（城市/公民）→ 城市的 → 公民的 → 文明的。civil rights（公民权利）是公民最基本的权利。civil law（民法）处理公民之间的纠纷。civil war（内战）是同一国家公民之间的战争。civil person（文明的人）是有城市修养的人。
@@ -90,7 +88,7 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[criminal]]：刑事的（civil 的反义：民事的↔刑事的）
 > - [[impolite]]：不礼貌的（civil 的反义：文明的↔不礼貌的）
 > - [[military]]：军事的（civil 的反义：民事的↔军事的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **civil rights**：公民权利
 > - **civil war**：内战
 > - **civil law**：民法
@@ -131,19 +129,15 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In a civil society, everyone has the right to vote and express their opinions."（在一个公民社会中，每个人都有投票和表达意见的权利。——考研高频表达）
 > - "According to a paper in 2011 by Mr Hsiang and co-authors, civil conflict is related to El Nino's harmful effects."（根据Hsiang先生及其合著者2011年的一篇论文，民事冲突与厄尔尼诺的有害影响有关。——2016年高考英语江苏卷）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

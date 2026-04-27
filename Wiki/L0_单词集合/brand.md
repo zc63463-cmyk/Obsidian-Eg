@@ -3,14 +3,12 @@ title: "brand"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 燃烧的标记、烙印
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/brænd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**燃烧的标记、烙印**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **燃烧的标记、烙印**（物理层面：用火烫出的标记）
@@ -69,7 +67,7 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > brand 本义是"燃烧的"→ 牧民用烧红的铁在牲畜身上烫出标记以表明归属 → 后来商品的标记也叫 brand → 品牌。
@@ -92,7 +90,7 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[generic]]：无品牌的、通用的（没有品牌标记的）
 > - [[unbranded]]：无商标的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **brand loyalty**：品牌忠诚度
   - The company has built strong brand loyalty among consumers.（公司在消费者中建立了强大的品牌忠诚度。）
 > - **brand name**：品牌名称
@@ -129,22 +127,16 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Brand loyalty is one of the most important factors in consumer behavior."（品牌忠诚度是消费者行为中最重要的因素之一。）——考研高频表达
 > - "The company has invested heavily in building its brand image in international markets."（公司在国际市场上大力投资建设品牌形象。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

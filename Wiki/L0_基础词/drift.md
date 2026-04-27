@@ -3,14 +3,12 @@ title: "drift"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 被水流或风推动而移动
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/drɪft/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被水流或风推动而移动**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **被水流或风推动而移动**（物理移动层面）
@@ -69,7 +67,7 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drift 就是被动版的 [[drive]]——drive 是你主动开车，drift 是你被水流带着漂。木头 drift down the river（顺流漂流），话题 drift away（不知不觉偏离），两个人 drift apart（渐行渐远），时代 drift 的方向就是"趋势"（the drift of the times）。
@@ -92,7 +90,7 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[anchor]]：抛锚，固定（drift 的精确反义：漂流↔固定）
 > - [[steer]]：掌舵，引导（drift 的反义：随流↔主动控制方向）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **drift apart**：逐渐疏远
 > - **drift away**：不知不觉地离开/偏离
 > - **drift off**：不知不觉入睡
@@ -132,19 +130,15 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Over the years, the two friends gradually drifted apart."（多年来，这两个朋友逐渐疏远了）
 > - "The general drift of the conversation was about environmental protection."（对话的大致方向是关于环境保护的）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

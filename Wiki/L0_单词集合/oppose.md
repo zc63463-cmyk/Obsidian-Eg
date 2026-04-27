@@ -3,14 +3,12 @@ title: "oppose"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 放在对面对抗
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈpəʊz/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**放在对面对抗**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **放在对面对抗**（物理空间层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > oppose = ob（对着）+ pose（放）。想象你在辩论中把自己的论点**放在对面**来反驳对方——这就是 **oppose**（反对）。记住 pose/pon = 放置：compose（放在一起→组合），expose（放出来→暴露），dispose（放好→处理），oppose（放在对面→反对）。反对就是把立场放在对面。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[support]]：支持（oppose 的精确反义：反对↔支持）
 > - [[approve]]：赞成/批准（反对的反义）
 > - [[favor]]：赞成/支持（反对的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **oppose a plan/proposal**：反对一项计划/提案
 > - **be opposed to**：反对……
 > - **oppose the government/policy**：反对政府/政策
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many residents oppose the construction of the new highway."（许多居民反对修建新高速公路）——考研阅读常见搭配，社会类
 > - "She is strongly opposed to the new regulation."（她强烈反对新规定）——政策/法律类阅读
 > - "He chose to work in the private sector, as opposed to the public sector."（他选择在私营部门工作，而不是公共部门）——对比类句型
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "missing"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 缺失的（应该存在但不在那里）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmɪsɪŋ/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**缺失的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **物理缺失**（空间层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > missing 是 miss（错过、缺失）的现在分词形式。核心画面是"拼图缺了一块"——应该存在但不在那里。A missing person（失踪者）= 应该在但找不到的人。Missing pages（缺页）= 书中缺失的部分。Missing information（缺失的信息）= 数据不完整。Missing 还可以做名词：the missing（失踪者）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[present]]：在场的（missing 的精确反义：缺失↔在场）
 > - [[found]]：被找到的（missing 的反义：失踪↔被找到）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a missing person**：失踪者
 > - **missing pages**：缺页
 > - **missing information/data**：缺失的信息/数据
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers found that a significant amount of data was missing from the survey, which compromised the reliability of their conclusions."（研究人员发现调查中有大量数据缺失，这影响了他们结论的可靠性——考研阅读学术研究话题相关表达）
 > - "Several pages were missing from the ancient manuscript, leaving scholars unable to fully interpret its meaning."（这份古老手稿缺失了数页，使学者们无法完全解读其含义——考研翻译学术话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

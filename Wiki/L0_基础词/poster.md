@@ -3,14 +3,12 @@ title: "poster"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 张贴在柱子上的公告（海报）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈpəʊstə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**张贴在柱子上的公告**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **柱子上的公告**（物理层面）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > poster = post（柱子/张贴）+ -er（名词后缀）= 张贴在柱子上的东西 = 海报。核心画面是"古代路边柱子上贴的公告"。想象一面墙上贴满了各种海报——电影海报、演唱会海报——这些都是 poster。最初 poster 指的是"张贴公告的人"，后来转指"被张贴的公告本身"。注意 poster 和 post 的关系：post（张贴）→ poster（被张贴的东西 = 海报）。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （poster 作为具体物品名词，无明显反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **movie poster**：电影海报
 > - **concert poster**：演唱会海报
 > - **wanted poster**：通缉令
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The university's career services office put up posters advertising internship opportunities at various companies."（大学就业服务中心张贴了海报，宣传各公司的实习机会——考研阅读教育话题相关表达）
 > - "During World War II, propaganda posters were widely used to encourage citizens to support the war effort."（在第二次世界大战期间，宣传海报被广泛用于鼓励公民支持战争——考研阅读历史话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

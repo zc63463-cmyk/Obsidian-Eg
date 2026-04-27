@@ -3,14 +3,12 @@ title: "cognitive"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 通过认识来把握（通过心智活动获取知识的过程）
-extension_dim: 认知维度
+extension_dim: [认知维度]
 phonetic: "/ˈkɒɡnɪtɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**通过认识来把握**"为统筹中心，沿认知维度向外扩展：
 >
 > 1. **通过认识来把握**（心智层面）
@@ -64,7 +62,7 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cognitive 来自拉丁语 *cognoscere*（认识、知晓）。想象一个婴儿第一次看到苹果：他先看到红色（感觉/sense），然后摸到光滑（感知），最后在脑海中形成"这是一个苹果"的概念（认识/cognition）。从感觉到认识，这就是 cognitive（认知的）过程。cognitive 描述的是人类区别于其他动物的核心能力——不是本能，而是通过学习和推理来认识世界。记住：cognitive = 认知的 = 大脑认识世界的方式。
@@ -86,7 +84,7 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[emotional]]：情感的（cognitive 的反义：认知↔情感）
 > - [[instinctive]]：本能的（cognitive 的反义：后天认知↔先天本能）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cognitive ability/skills**：认知能力/技能
 > - **cognitive development**：认知发展
 > - **cognitive process**：认知过程
@@ -128,19 +126,15 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose and what guides it in evolutionary or cognitive terms."（从共有特征中滤出独有的特性，这使我们得以理解复杂的文化行为是如何产生的，并从进化或认知角度理解什么引导了它的走向——2012考研英语翻译）
 > - "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one."（这一成功，加上后来表明记忆本身并非由基因决定的研究，使得埃里克森得出结论：记忆行为与其说是一种直觉行为，不如说是一种认知训练——2007考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

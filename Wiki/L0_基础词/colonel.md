@@ -3,14 +3,12 @@ title: "colonel"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 柱子、列的指挥官（率领一"列"士兵的军官）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ˈkɜːnl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**列的指挥官**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **列的指挥官**（军事层面）
@@ -64,7 +62,7 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*（柱子、列）。核心画面：一位军官站在一列（column）整齐的士兵前方——他就是 colonel（上校）。最有趣的记忆点是它的发音：拼写是 colonel，但读作 /ˈkɜːnl/（像 kernel 果核）。这是因为英语同时受到意大利语拼写和法语发音的影响。The colonel led his troops into battle（上校率领部队投入战斗）。肯德基创始人 Colonel Sanders（桑德斯上校）是最广为人知的 colonel。
@@ -86,7 +84,7 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （colonel 为军衔名词，无精确反义词）
 > - [[private]]：列兵（colonel 的反义：上校↔列兵，军衔高低对比）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a colonel in the army**：陆军上校
 > - **Colonel Sanders**：桑德斯上校（肯德基创始人）
 > - **lieutenant colonel**：中校
@@ -125,19 +123,15 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The retired army colonel published a memoir detailing his experiences during decades of military service."（这位退役陆军上校出版了一本回忆录，详细记录了他数十年的军旅生涯——考研阅读军事/传记话题）
 > - "Colonel Sanders' recipe for fried chicken became the foundation of one of the world's most successful fast-food franchises."（桑德斯上校的炸鸡配方成为了世界上最成功的快餐连锁企业之一的基础——考研阅读商业话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

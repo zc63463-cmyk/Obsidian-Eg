@@ -3,14 +3,12 @@ title: "conviction"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 彻底被征服的状态
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˈvɪkʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被彻底征服的状态**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **被彻底征服的状态**（认知层面）
@@ -65,7 +63,7 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（彻底）+ vict（征服）+ ion → 被彻底征服的状态 → 确信/定罪。一个人有 strong convictions（坚定的信念），因为他被自己的价值观"彻底征服"了。一个罪犯有 a criminal conviction（刑事定罪），因为他被法律证据"彻底征服"了。conviction 的两个核心含义——"信念"和"定罪"——都来自同一个源头：被彻底说服。
@@ -87,7 +85,7 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[doubt]]：怀疑（conviction 的反义：确信↔怀疑）
 > - [[acquittal]]：无罪释放（conviction 的法律反义：定罪↔无罪）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have a strong/deep conviction**：有坚定的信念
 > - **political/religious conviction**：政治/宗教信念
 > - **criminal conviction**：刑事定罪
@@ -127,19 +125,15 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She spoke with such conviction that everyone in the room was moved."（她说话时带着如此坚定的信念，打动了房间里的每一个人）
 > - "He has a criminal conviction for theft, which makes it difficult for him to find a job."（他有盗窃罪的刑事定罪记录，这使得他很难找到工作）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

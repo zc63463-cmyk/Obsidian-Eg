@@ -3,14 +3,12 @@ title: "pipe"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 管道（中空的圆柱形通道）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/paɪp/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**管道（中空的圆柱形通道）**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **中空通道**
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pipe 最早指"啾啾叫的东西"——管乐器。管乐器是中空的管子，所以 pipe 也指"管道"。自来水管是 water pipe，吸烟的烟斗是 pipe，教堂的管风琴是 pipe organ。pipe 就是"中空的管状物"。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - pipe 作为工具类名词，无精确反义词
 > - 相关对比：[[block]]：堵塞（pipe 的功能反义：管道输送↔堵塞）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lay a pipe/pipeline**：铺设管道
 > - **water/gas pipe**：水管/煤气管
 > - **smoke a pipe**：抽烟斗
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Recently they have laid an underground pipeline."（他们最近铺设了一条地下管道。——ExamWord 高频例句）
 > - "The company has other distribution deals in the pipeline which will be announced over the next few weeks."（公司还有其他分销协议正在筹备中，将在未来几周内公布。——Longman Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

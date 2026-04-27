@@ -3,14 +3,12 @@ title: "tailor"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 裁剪布料的人
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ˈteɪlə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**裁剪布料的人**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **裁剪布料的人**（职业层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tailor 来自古法语"切割"——裁缝就是"切割布料的人"。他量你的身材，裁剪布料，缝制出合身的衣服。后来 tailor 从"裁剪衣服"延伸到"量身定制方案"——tailor a program 就是根据需求"裁剪"方案，tailor a speech 就是根据听众"调整"内容。tailor 的核心就是"量身打造"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[standardize]]：标准化（tailor "量身定制"的反义：个性化↔标准化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tailor sth. to/for sb./sth.**：为某人/某事量身定制
 > - **tailor-made**：量身定制的
 > - **tailor a solution**：定制解决方案
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The training program was tailored to meet the specific needs of each employee."（培训项目是为满足每位员工的具体需求而量身定制的。——考研阅读职场话题高频表达）
 > - "Educational policies should be tailored to the cultural and economic conditions of each region."（教育政策应根据各地区的文化和经济条件量身定制。——考研翻译教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

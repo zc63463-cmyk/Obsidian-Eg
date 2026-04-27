@@ -3,14 +3,12 @@ title: "reach"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 伸展、到达
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/riːtʃ/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**伸展、到达**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **伸展、到达**（物理层面：身体或物体延伸至某处）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自古英语 *rǣcan*（伸展、伸出）。想象你站在悬崖边，伸出手去够对面树枝上的果实——reach 就是最原始的"够到"动作。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[depart]]：离开（到达 vs 离开）
 > - [[fail]]：未达到（达成 vs 未达成）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reach an agreement/conclusion**：The two sides failed to reach an agreement.（双方未能达成协议。）
 > - **out of reach**：The price is out of reach for most families.（这个价格大多数家庭难以承受。）
 > - **reach for**：He reached for the book on the top shelf.（他伸手去够顶层书架上的书。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The conclusion reached by the researchers was based on extensive data analysis."（研究人员得出的结论是基于广泛的数据分析。）——考研高频表达
 > - "It is difficult to reach a consensus on such a controversial issue."（在这样一个有争议的问题上很难达成共识。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

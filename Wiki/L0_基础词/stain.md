@@ -3,14 +3,12 @@ title: "stain"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 染上污渍（液体渗透进材料留下痕迹）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/steɪn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**染上污渍**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **染上污渍**（物理层面）
@@ -67,7 +65,7 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stain 来自拉丁语 tingere（浸泡、染色）。想象一块白布浸入染缸，颜色渗透进去——这就是 stain。如果浸入的是墨水，留下的是污渍；如果浸入的是颜料，留下的是彩色玻璃（stained glass）。如果一个人的行为"渗透"进公众记忆，留下的是名誉上的污点——a stain on his reputation。
@@ -90,7 +88,7 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clean]]：清洁（stain 的反义：染污 vs 清洁）
 > - [[purify]]：净化（stain 的反义：玷污 vs 净化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a stain on one's reputation**：名誉上的污点
 > - **blood stain**：血迹
 > - **stained glass**：彩色玻璃
@@ -128,19 +126,15 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The scandal left a permanent stain on his political career.（这桩丑闻给他的政治生涯留下了永久的污点。）
 > - Stainless steel is widely used in kitchen equipment.（不锈钢被广泛用于厨房设备。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "expire"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 呼出气息、到期终结
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪkˈspaɪə/"
 pos: vi.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**呼出气息、到期终结**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **呼出气息、到期终结**（物理/生命层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（出）+ pire（呼吸，如 inspire 吸气）→ 呼出最后一口气 → 生命终结 → 到期
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[commence]]：开始（与到期终止相对）
 > - [[renew]]：续期（使到期的事物延长）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **expire next month**：下个月到期
 > - **passport expires**：护照过期
 > - **contract expires**：合同到期
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "While these measures would be welcome in the short term, we must face up to the fact that the existing programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then."（虽然这些措施在短期内会受到欢迎，但我们必须面对这样一个事实：现有的资助新经济适用房的拨款计划将于2015年到期，不太可能延长——2014年考研英语二Text 4）
 > - "But an array of countries are rushing to assert greater influence here, with an eye not just towards the day those protective treaties expire, but also for the strategic and commercial opportunities that already exist."（许多国家正急于在此确立更大的影响力，不仅着眼于那些保护性条约到期的日子，也着眼于已经存在的战略和商业机会——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<尚未产出>
 > **翻译实践**：<尚未产出>

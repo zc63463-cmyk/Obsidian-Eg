@@ -3,17 +3,14 @@ title: "ultraviolet"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 超越紫色的（超越可见光谱中紫色部分的辐射）
-extension_dim: 自然路径
+extension_dim: [自然路径]
 phonetic: "/ˌʌltrəˈvaɪələt/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: ultra
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**超越紫色的**"为统筹中心，沿自然路径向外扩展：
 >
 > 1. **超越紫色的（光谱层面）**
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ultraviolet = ultra-（超越）+ violet（紫色）。可见光从红到紫排列，波长越来越短。超越紫色之外、波长更短的不可见辐射就是 ultraviolet（紫外线）。1801年德国物理学家 Ritter 发现了这种"超越紫色的光线"。日常生活中常缩写为 UV——UV rays（紫外线）、UV index（紫外线指数）、UV protection（紫外线防护）。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[infrared]]：红外线（ultraviolet 的反义：光谱两端的不可见光）
 > - [[visible light]]：可见光（ultraviolet 的反义：不可见↔可见）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ultraviolet radiation/rays**：紫外线辐射
 > - **UV index**：紫外线指数
 > - **ultraviolet protection**：紫外线防护
@@ -126,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Prolonged exposure to ultraviolet radiation can increase the risk of skin cancer."（长期暴露在紫外线辐射下会增加患皮肤癌的风险——考研阅读健康/科学话题常见表达）
 > - "The ozone layer protects the Earth from harmful ultraviolet rays from the sun."（臭氧层保护地球免受太阳有害紫外线的伤害——考研阅读环境话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

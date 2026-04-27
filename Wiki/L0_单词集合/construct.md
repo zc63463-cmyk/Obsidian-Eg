@@ -3,14 +3,12 @@ title: "construct"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 建造，构建
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kənˈstrʌkt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-（一起）+ [[struct|struct-]]（建造）+ -（动词后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**建造，构建**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **建造，构建**（空间层面的建造）
@@ -65,7 +63,7 @@ con-（一起）+ [[struct|struct-]]（建造）+ -（动词后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-（一起）+ [[struct|struct-]]（建造）+ -（动词后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-（一起）+ struct（建造）→ 把材料堆积在一起建造 → **建造，构建**。想象乐高积木，你把一块块积木"堆积"在一起，"construct"出一座城堡。
@@ -90,7 +88,7 @@ con-（一起）+ [[struct|struct-]]（建造）+ -（动词后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ con-（一起）+ [[struct|struct-]]（建造）+ -（动词后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[destroy]]：破坏，摧毁（与建造相反）
 > - [[demolish]]：拆除
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,30 +118,21 @@ con-（一起）+ [[struct|struct-]]（建造）+ -（动词后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **construct a theory**：构建理论
 > - **constructive criticism**：建设性批评
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers constructed a theoretical framework to explain the phenomenon."（研究人员构建了一个理论框架来解释这一现象。）——考研高频表达
 > - "The bridge was constructed using advanced engineering techniques."（这座桥梁采用了先进的工程技术建造。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

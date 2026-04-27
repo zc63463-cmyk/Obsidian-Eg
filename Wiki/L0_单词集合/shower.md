@@ -3,14 +3,12 @@ title: "shower"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 短时间突然降下的大量雨水
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈʃaʊə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**短时间突然降下的大量雨水**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **短时间突然降下的大量雨水**（自然现象层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shower 和 show 是远亲。想象你站在窗前**看**（show）天空突然**倾倒**下一阵大雨——这就是 shower（阵雨）。走进浴室，花洒像阵雨一样从头顶**洒下**水来——这也是 shower（淋浴）。朋友过生日，你像下雨一样**倾泻**出一堆礼物——a shower of gifts。从天上的雨到浴室的水再到手中的礼物，shower 始终是"大量倾泻"。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drought]]：干旱（shower 的精确反义：大量降水 ↔ 长期无降水）
 > - [[dry spell]]：干旱期（阵雨 ↔ 干旱期）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take a shower**：洗淋浴
 > - **a shower of**：一阵（礼物、子弹、火花等）
 > - **shower sb with gifts / praise**：大量给予某人礼物/赞扬
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She was showered with awards for her outstanding contribution."（她因杰出贡献而荣获大量奖项）——考研阅读常见搭配
 > - "A sudden shower forced us to take shelter."（一阵突如其来的阵雨迫使我们寻找避雨处）——天气/生活类语境
 > - "The audience showered the performer with applause."（观众向表演者报以热烈的掌声）——文化/表演类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

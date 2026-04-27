@@ -3,17 +3,14 @@ title: "either"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 两者之一（两个中的任意一个）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈiːðər/"
 pos: det./pron.
-metaphor_type: 无隐喻
 word_root: either
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**两者之一（两个中的任意一个）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **两者之一**（选择层面）
@@ -70,7 +67,7 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +79,7 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > either 和 whether 同源，都来自古英语"两者中的哪个"。either 是"两个中的任何一个"。Either bus will take you there（两路公共汽车中任一路都会把你带到那里）。I don't eat meat and my husband doesn't either（我不吃肉，我丈夫也不吃）。Either you leave now, or I call the police（要么你现在离开，要么我报警）。
@@ -94,7 +91,7 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +104,14 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neither]]：两者都不（either 的精确反义：任一↔都不）
 > - [[both]]：两者都（either 的反义：任一↔都）
 > - [[all]]：全部（either 的反义：任一↔全部）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **either...or...**：要么……要么……
 > - **not...either**：也不……
 > - **in either case**：无论哪种情况
@@ -134,19 +131,15 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber."（如果一只猴子不交代币就得到了葡萄，另一只要么把自己的代币扔给研究员，要么扔出房间外——2005年考研英语一Text 1）
 > - "Almost half of those surveyed said their companies were either in the middle of restructuring or about to embark on it."（近一半的受访者表示，他们的公司要么正在重组中，要么即将开始重组——考研商业类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

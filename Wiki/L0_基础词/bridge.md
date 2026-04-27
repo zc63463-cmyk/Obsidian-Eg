@@ -3,14 +3,12 @@ title: "bridge"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 连接两岸的建筑物
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/brɪdʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**连接两岸的建筑物**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **连接两岸的建筑物**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bridge 源自古英语 brycg，就是"桥"。想象一座古老的石桥横跨在河面上，连接着两岸的人们。后来，任何"连接"的东西都可以叫 bridge——文化之间的 bridge 是"文化交流的桥梁"，分歧之间的 bridge 是"弥合分歧"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[barrier]]：障碍，屏障（bridge 的反义：连接↔隔绝）
 > - [[divide]]：分裂，鸿沟（bridge 的反义：弥合↔分裂）
 > - [[gap]]：缺口，鸿沟（bridge 的反义：桥↔缺口）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bridge the gap**：弥合差距，填补空白
 > - **cross the bridge when one comes to it**：到了桥头再过桥（船到桥头自然直）
 > - **burn one's bridges**：破釜沉舟，断绝退路
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government needs to bridge the gap between rich and poor."（政府需要弥合贫富差距）
 > - "Education can serve as a bridge between different cultures."（教育可以作为不同文化之间的桥梁）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

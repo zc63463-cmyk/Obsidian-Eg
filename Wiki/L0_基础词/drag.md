@@ -3,14 +3,12 @@ title: "drag"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 用力拖拽（沿地面/表面缓慢拉动重物）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/dræɡ/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用力拖拽**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用力拖拽**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drag 和 draw 同源，都来自原始日耳曼语"拖拉、携带"。drag 更强调"贴着地面拖"的感觉——想象你拖着一个装满书的行李箱走石板路，轮子卡住了，只能硬拖，发出刺耳的摩擦声。这就是 drag 的灵魂：沉重、缓慢、费力。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[push]]：推（drag 拖↔push 推，方向相反）
 > - [[hasten]]：加速（drag 拖沓↔hasten 加速，速度相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **drag on**：拖延，拖沓（The war dragged on for years. 战争拖沓了数年。）
 > - **drag sb. into**：把某人拖入（Don't drag me into your argument. 别把我拖进你的争吵中。）
 > - **drag one's feet**：拖延，磨蹭（He's dragging his feet on the decision. 他对这个决定磨磨蹭蹭。）
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The economy is being dragged down by high unemployment."（高失业率正在拖累经济。）
 > - "He dragged his feet on signing the contract."（他在签署合同上拖拖拉拉。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

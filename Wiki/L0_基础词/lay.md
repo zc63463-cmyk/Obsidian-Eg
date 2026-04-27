@@ -3,14 +3,12 @@ title: "lay"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 平放（使某物处于水平位置）
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/leɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**平放（使某物处于水平位置）**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **平放动作**
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > lay 本义是"平放"——把书放在桌上是 lay the book on the table。铺设管道是 lay a pipe，母鸡下蛋是 lay eggs（把蛋"放"出来），制定规则是 lay down rules（把规则"放"下来），解雇是 lay off（把人"放"走）。lay 就是"平放"——过去式和过去分词都是 laid。
@@ -100,7 +98,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -113,14 +111,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stand]]：竖立（lay 的精确反义：平放↔竖立）
 > - [[hire]]：雇佣（lay off 的反义：解雇↔雇佣）
 > - [[pick up]]：拿起（lay 的反义：放下↔拿起）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lay off**：解雇，裁员
 > - **lay down**：放下；制定（规则）
 > - **lay out**：布置，安排；展示
@@ -142,19 +140,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She was laid off along with many others when the company moved to California."（当公司搬到加利福尼亚时，她和许多人一起被解雇了。——Cambridge Dictionary）
 > - "On seeing the eclipse, the two nations laid down their arms and made peace."（看到日食时，两国放下了武器，缔结和平。——Merriam-Webster）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

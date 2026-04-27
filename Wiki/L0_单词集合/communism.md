@@ -3,17 +3,14 @@ title: "communism"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 一切财产共同所有的社会制度
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒmjunɪzəm/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: commun
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ commun(共同) + -ism(主义/制度)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同拥有**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **共同拥有**（社会制度层面）
@@ -61,7 +58,7 @@ commun(共同) + -ism(主义/制度)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ commun(共同) + -ism(主义/制度)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > commun(共同) + -ism(主义)，一切财产共同所有的主义——共产主义。
@@ -84,7 +81,7 @@ commun(共同) + -ism(主义/制度)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +93,12 @@ commun(共同) + -ism(主义/制度)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[capitalism]]：资本主义（communism 主张共同所有，capitalism 主张私有制）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ commun(共同) + -ism(主义/制度)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **under communism**：在共产主义制度下
   > Under communism, all means of production are collectively owned.
   > 在共产主义制度下，所有生产资料归集体所有。
@@ -126,21 +123,15 @@ commun(共同) + -ism(主义/制度)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "The collapse of communism in Eastern Europe fundamentally changed the political landscape of the continent."（东欧共产主义的垮台从根本上改变了该大陆的政治格局。）——考研阅读真题
 > - "The history of communism in the 20th century is a subject of intense academic debate."（20世纪共产主义的历史是学术界激烈辩论的话题。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

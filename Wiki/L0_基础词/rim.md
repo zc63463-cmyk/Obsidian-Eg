@@ -3,14 +3,12 @@ title: "rim"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 边缘（圆形物体的边缘）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/rɪm/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**边缘**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **边缘**（空间层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rim 就是"圆形的边缘"。你端起杯子喝水，嘴唇碰到的地方就是 the rim of the glass（杯沿）。车轮最外面的圆圈是 the rim of the wheel（轮缘）。火山口的边缘是 the rim of the crater。rim 总是暗示一个圆形或弧形的边缘。记住：rim = 圆边。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[center]]：中心（rim 是边缘，center 是中心）
 > - [[core]]：核心（rim 是外围，core 是核心）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the rim of a glass/cup**：杯沿
 > - **the rim of a crater**：火山口边缘
 > - **rimmed with**：边缘镶有……
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She looked at him over the rim of her coffee cup."（她从咖啡杯的边缘上方看着他。）
 > - "The Pacific Rim region has experienced significant economic growth in recent decades."（太平洋沿岸地区近几十年来经历了显著的经济增长。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

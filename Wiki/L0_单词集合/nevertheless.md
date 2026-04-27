@@ -3,17 +3,14 @@ title: "nevertheless"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 尽管如此，仍然
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌnevəðəˈles/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: never
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ never(从不) + the(那个) + less(更少) = "从未更少" → "尽管如此，
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**尽管如此，仍然**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **尽管如此，仍然**（逻辑层面）
@@ -62,7 +59,7 @@ never(从不) + the(那个) + less(更少) = "从未更少" → "尽管如此，
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ never(从不) + the(那个) + less(更少) = "从未更少" → "尽管如此，
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > never（从不）+ the + less（更少）→ 想象一个学生考试考了很差的成绩，老师说"你考得很差"，但这个学生说"nevertheless（尽管如此），我不会放弃"。意思是"不管你说什么，我的决心从未更少（never less）"。nevertheless 就是"不管前面说了什么不利条件，结论不变"。
@@ -84,7 +81,7 @@ never(从不) + the(那个) + less(更少) = "从未更少" → "尽管如此，
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +93,13 @@ never(从不) + the(那个) + less(更少) = "从未更少" → "尽管如此，
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[therefore]]：因此，所以（nevertheless 的反义：转折↔因果）
 > - [[consequently]]： consequently（nevertheless 的反义：尽管如此↔因此导致）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,29 +110,21 @@ never(从不) + the(那个) + less(更少) = "从未更少" → "尽管如此，
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nevertheless, ...**：然而，尽管如此（句首/句中转折）
 > - **...; nevertheless, ...**：……；然而，……（分号后转折）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Nevertheless, the word 'amateur' does carry a connotation that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values."（然而，"业余"这个词的确有内涵意义：那就是相关人员没有完全融入科学界，而且，特别的是，他可能并不完全认同其价值观。——2000年考研英语一阅读Text 1）
 > - "Nevertheless, the affordable housing situation is desperate."（然而，负担得起的住房状况令人绝望。——2014年考研英语二阅读）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

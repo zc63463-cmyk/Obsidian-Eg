@@ -3,14 +3,12 @@ title: "radio"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 辐射（向外发射电磁波）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈreɪdiəʊ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**辐射（向外发射电磁波）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **辐射**（物理层面）
@@ -68,7 +66,7 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > radio 来自拉丁语 *radius*（射线、辐射）。想象一个电台的发射塔，像太阳一样向四面八方辐射电磁波——这就是 radio。你每天早上 listen to the radio，就是在接收这些辐射信号。
@@ -91,7 +89,7 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wire]]：有线（radio 无线电 ↔ wire 有线传输）
 > - [[television]]：电视（radio 收音机 ↔ television 电视，同为广播媒介但视觉vs听觉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on the radio**：在广播中（The news was on the radio.）
 > - **listen to the radio**：听收音机
 > - **radio station**：广播电台
@@ -138,19 +136,15 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The pioneers of wireless saw it as a gift to all the people. Sir John Reith said that it would end 'isolation of the spirit'."（无线电的先驱们将其视为给所有人的礼物。约翰·里斯爵士说它将终结"精神上的孤立"——2026年英语一Text 3）
 > - "We heard the news about the match on the radio yesterday."（我们昨天在收音机上听到了关于比赛的新闻——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

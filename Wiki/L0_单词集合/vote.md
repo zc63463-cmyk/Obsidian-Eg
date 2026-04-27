@@ -3,14 +3,12 @@ title: "vote"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 发誓→投票表决
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/vəʊt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ vote 源自拉丁语 votum（誓言、许愿），与 vow（发誓）同源。
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**发誓→公开表达意愿**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **发誓，承诺**（心理层面——表达自己的意愿）
@@ -67,7 +65,7 @@ vote 源自拉丁语 votum（誓言、许愿），与 vow（发誓）同源。
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ vote 源自拉丁语 votum（誓言、许愿），与 vow（发誓）同源。
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 votum 意为"誓言"。想象古希腊公民在广场上举起手**发誓**（votum）表达自己的选择——这就是最早的**投票**（vote）。投票本质上就是用选票"发誓"表达你的意愿。
@@ -92,7 +90,7 @@ vote 源自拉丁语 votum（誓言、许愿），与 vow（发誓）同源。
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ vote 源自拉丁语 votum（誓言、许愿），与 vow（发誓）同源。
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abstain]]：弃权（投票 vs 弃权）
 > - [[veto]]：否决（投票通过 vs 否决）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,28 +121,22 @@ vote 源自拉丁语 votum（誓言、许愿），与 vow（发誓）同源。
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **vote for/against**：投票支持/反对（The Senate voted against the bill.）
 > - **cast a vote**：投票（Every citizen has the right to cast a vote.）
 > - **win the vote**：赢得投票（The proposal won the vote by a narrow margin.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "On a five to three vote, the Supreme Court knocked out much of Arizona's immigration law Monday."（周一，最高法院以五比三的票数推翻了亚利桑那州移民法的大部分内容。）——2013考研英语一阅读
 > - "Members of parliament voted against the proposed reform bill."（国会议员投票反对拟议的改革法案。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

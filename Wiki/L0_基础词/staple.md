@@ -3,14 +3,12 @@ title: "staple"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: U形钉（把纸张钉在一起的金属钉）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsteɪpl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**U形钉/柱子**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **柱子/标杆**（物理层面）
@@ -68,7 +66,7 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > staple 来自古英语 stapol（柱子）。中世纪的集市上，商人把最重要的商品挂在柱子上展示——这些商品就是 staple（主要产品）。Rice is a staple food in Asia（大米是亚洲的主食）——没有大米，亚洲人的饭桌就像没有柱子的房子，塌了。办公室里的订书钉（staple）也是 staple——它用一根U形丝把纸张"钉"在一起，就像主食把生活"钉"在一起。
@@ -92,7 +90,7 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[luxury]]：奢侈品（staple 的反义：主食/必需品 vs 奢侈品）
 > - [[supplement]]：补充物（staple 的反义：主要成分 vs 补充物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **staple food**：主食
 > - **staple diet**：日常饮食
 > - **staple crop**：主要农作物
@@ -129,19 +127,15 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Rice is the staple food for more than half of the world's population.（大米是世界一半以上人口的主食。）
 > - Coffee has become a staple of modern life.（咖啡已成为现代生活的必需品。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

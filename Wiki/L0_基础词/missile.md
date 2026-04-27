@@ -3,14 +3,12 @@ title: "missile"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 可以被投掷的东西（从手中或发射器中送出去的物体）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈmɪsaɪl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被投掷的东西**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **被投掷的物体**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > missile = miss（mit 的过去分词形式 = 被送出去）+ -ile（可以……的）= 可以被投掷的东西 = 投射物/导弹。拉丁语 *mittere* = 送、投掷。古代的矛和箭都是 missile——可以"送出去"的武器。现代的导弹是 missile 的升级版——被"发射出去"的精确制导武器。同源词：mission（使命 = 被送出去执行的任务）、emit（发射）、transmit（传输）、submit（提交）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[shield]]：盾牌（missile 的反义：投射物↔防护物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **guided missile**：制导导弹
 > - **nuclear missile**：核导弹
 > - **launch a missile**：发射导弹
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The development of nuclear missiles has fundamentally changed the nature of international security and diplomatic relations."（核导弹的发展从根本上改变了国际安全和外交关系的性质——考研阅读国际关系话题相关表达）
 > - "The country's missile defense system was designed to intercept incoming ballistic missiles before they could reach populated areas."（该国的导弹防御系统旨在拦截来袭的弹道导弹，使其无法到达人口密集区域——考研阅读军事科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

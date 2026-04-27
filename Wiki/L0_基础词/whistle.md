@@ -3,14 +3,12 @@ title: "whistle"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 吹口哨（用嘴唇发出尖锐的声音）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈwɪsl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**吹口哨**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **吹口哨**（人的动作层面）
@@ -68,7 +66,7 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > whistle 的核心画面是"吹口哨"。你把嘴唇缩成一个小孔，用力吹气——"嘘——"。风穿过建筑物的缝隙也会 whistle（呼啸），火车进站也会 whistle（鸣笛）。所有这些都是空气通过狭窄通道发出的尖锐声音。Whistle-blower = 吹哨人（举报者）——吹响警报的人。Clean as a whistle = 非常干净（口哨声清脆响亮→干净利落）。
@@ -91,7 +89,7 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - whistle 作为"发出声音"的反义：[[silence]]（沉默）
 > - whistle 作为"尖锐声音"的反义：[[murmur]]（低语）、[[hum]]（低沉的嗡嗡声）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **blow the whistle**：吹哨子；揭发（违规行为）
 > - **whistle-blower**：举报者，吹哨人
 > - **clean as a whistle**：非常干净（习语）
@@ -130,19 +128,15 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The whistle-blower revealed that the company had been systematically falsifying environmental test results, putting public health at serious risk for years."（举报者揭露该公司多年来一直系统性地伪造环境检测结果，将公众健康置于严重风险之中——考研阅读社会法律话题相关表达）
 > - "The cold wind whistled through the narrow streets of the old city, carrying with it the scent of winter and the promise of snow."（寒风在古城狭窄的街道间呼啸而过，带着冬天的气息和下雪的征兆——考研阅读文学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

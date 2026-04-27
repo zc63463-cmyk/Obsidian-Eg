@@ -3,14 +3,12 @@ title: "specify"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 使之成为特定种类
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈspesɪfaɪ/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使之成为特定种类**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使之成为特定种类**（信息层面）
@@ -65,7 +63,7 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > specify = spec（种类）+ ify（使成为）= 使之成为特定种类 = **明确指定**。-ify 是英语中的"使动器"：purify（使纯净）、identify（使认同→识别）、specify（使特定→明确指定）。想象一个合同上写着"Please specify the delivery date"——请**明确指定**交货日期，不要说"soon"，要说"March 15"。specify 的核心是"从模糊到具体"。spec- 家族：species（物种）、special（特别的）、specific（具体的）、specification（规格）、speculate（推测）。
@@ -87,7 +85,7 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[generalize]]：概括，泛化（specify "明确指定"的反义：明确↔泛化）
 > - [[vague]]：模糊的（specify "明确的"的反义，但词性不同）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **specify that...**：明确说明……
 > - **specify the requirements/conditions**：明确要求/条件
 > - **unless otherwise specified**：除非另有说明
@@ -127,22 +125,16 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The contract specifies that the work must be completed within six months."（合同明确规定，工程必须在六个月内完成）——法律/商业类阅读
 > - "Applicants must specify their area of research interest."（申请人必须明确说明他们的研究兴趣领域）——学术/教育类话题
 > - "The regulations specify the minimum safety standards for all workplaces."（法规明确了所有工作场所的最低安全标准）——政策/法律类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "economy"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 管理家庭收支
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪˈkɒnəmi/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**管理家庭收支**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **管理家庭收支**（具体层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古希腊管家站在院子里记账——eco- 是"家"（oikos），-nomy 是"管理法则"（nomos）。管家的第一要务是什么？**精打细算、节约用度**。所以 economy 天生就有两个意思：一是"经济"（管理国家资源），二是"节约"（管理家庭开支）。买经济舱机票也是 economy，因为它是"省钱的选择"。记住：economy 的灵魂就是"不浪费"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[luxury]]：奢侈/奢华（economy"节约"的精确反义：节俭↔奢侈）
 > - [[waste]]：浪费（economy"节约"的反义：节省↔浪费）
 > - [[extravagance]]：挥霍/铺张（economy"节俭"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **market economy**：市场经济
 > - **global economy**：全球经济
 > - **national economy**：国民经济
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The global economy has witnessed a profound transformation due to digitalization."（由于数字化，全球经济经历了深刻变革）——考研阅读高频话题
 > - "a shift from a manufacturing economy to a knowledge economy"（从制造经济向知识经济的转变）——社会经济类阅读
 > - "practice economy and combat waste"（厉行节约、反对浪费）——政策类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

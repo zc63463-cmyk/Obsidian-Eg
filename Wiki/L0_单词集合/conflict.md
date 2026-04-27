@@ -3,14 +3,12 @@ title: "conflict"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 互相碰撞、互相打击
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒnflɪkt/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**互相碰撞**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **互相碰撞**（物理层面——两股力量撞击）
@@ -67,7 +65,7 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（一起）+ flict（打击）：两个拳头一起撞上 → 冲突。想象两个人在会议桌上拍桌子，意见互相碰撞——那就是 conflict。
@@ -90,7 +88,7 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[harmony]]：和谐（冲突 vs 和谐）
 > - [[coincide]]：一致，相符（矛盾 vs 一致）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in conflict with**：与……冲突
   > The new policy is in conflict with existing laws. 新政策与现行法律相冲突。
 > - **conflict of interest**：利益冲突
@@ -131,20 +129,14 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They should also learn how to solve problems and resolve conflicts."（他们也应该学会如何解决问题和化解冲突。）——2007年新题型
 > - "There was a lot of conflict between him and his father."（他和父亲之间存在许多分歧。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

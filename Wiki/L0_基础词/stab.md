@@ -3,14 +3,12 @@ title: "stab"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用尖锐物体刺入（刀/针等尖锐物刺穿）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stæb/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用尖锐物体刺入**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **物理刺入**（身体层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stab 的核心画面是"用刀快速刺入"。中古英语 *stabbe* = 尖锐的棍子 = 刺。A stab of pain（一阵刺痛）= 像被刺了一下的疼痛。His betrayal was a stab in the back（他的背叛是背后捅刀）= 在背后刺你。Stab at the truth（试图找出真相）= 像刺一样"试探"。同源词：stick（刺、粘）、sting（刺痛）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[heal]]：治愈（stab 的反义：刺伤↔治愈）
 > - [[comfort]]：安慰（stab 的反义：刺痛↔安慰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a stab in the back**：背后捅刀（背叛）
 > - **a stab of pain/guilt**：一阵刺痛/内疚
 > - **stab someone with a knife**：用刀刺某人
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The sudden stab of guilt she felt upon hearing the news was so intense that she could barely compose herself."（听到消息后她感到突然一阵强烈的内疚，几乎无法控制自己——考研阅读心理话题相关表达）
 > - "His decision to resign was seen by many colleagues as a stab in the back, given that the team had just begun to make progress on the project."（鉴于团队刚刚在项目上取得进展，他的辞职决定被许多同事视为背后捅刀——考研阅读职场话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

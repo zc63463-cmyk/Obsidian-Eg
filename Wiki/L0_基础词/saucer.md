@@ -3,17 +3,14 @@ title: "saucer"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 盛调味汁的小碟子
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsɔːsər/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: sauce
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**盛调味汁的小碟子**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **盛酱汁的碟子**（物理层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > saucer = sauce（酱汁）+ -er（器皿后缀）= 盛酱汁的小碟子。核心画面是"一杯热茶放在小碟子上"。最初 saucer 确实是指盛调味汁的小碟子——sauce（酱汁）+ er（器皿）。后来变成了茶杯下面的小碟子。a cup and saucer = 一副杯碟。flying saucer = 飞碟（形状像倒扣的茶碟）。saucer 与 [[sauce]]（酱汁）、[[sausage]]（香肠）同源。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（saucer 为具体物品）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +112,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a cup and saucer**：一副杯碟
 > - **flying saucer**：飞碟（UFO）
 > - **a saucer of milk**：一碟牛奶
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She placed the delicate porcelain cup gently on its matching saucer, careful not to make a sound."（她轻轻地将精致的瓷杯放在配套的茶碟上，小心翼翼地不发出声响——考研翻译文学性描述相关表达）
 > - "In the 1950s, reports of 'flying saucers' sparked widespread public fascination with the possibility of extraterrestrial life."（在20世纪50年代，关于'飞碟'的报告引发了公众对外星生命可能性的广泛着迷——考研阅读科普话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

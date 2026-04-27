@@ -3,14 +3,12 @@ title: "erode"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 咬掉啃食（像吃东西一样一点一点咬掉）
-extension_dim: 自然路径
+extension_dim: [自然路径]
 phonetic: "/ɪˈrəʊd/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**咬掉啃食（像吃东西一样一点一点咬掉）**"为统筹中心，沿自然路径向外扩展：
 >
 > 1. **啃出去**（自然层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > erode 来自拉丁语，e-（出/去除）+ rod（啃/咬）→ "啃出去"。想象河水像一只看不见的巨鼠，日复一日地"啃"着河岸——一点一点地把岩石"咬掉"——这就是 erode（侵蚀）。考研中常用于抽象语境：erode public confidence（削弱公众信心）、erode profits（蚕食利润），都是"一点一点地消耗"。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[build up]]：积累（erode 的反义：侵蚀↔积累）
 > - [[strengthen]]：加强（erode 的反义：削弱↔加强）
 > - [[accumulate]]：积累（erode 的反义：消耗↔积累）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **erode the coastline/soil**：侵蚀海岸线/土壤（考研高频搭配）
 > - **erode confidence/trust**：削弱信心/信任
 > - **erode profits/revenues**：蚕食利润/收入
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Years of coastal erosion have significantly reduced the width of the beach."（多年的海岸侵蚀已显著减少了海滩的宽度——考研阅读环境话题高频表达）
 > - "The scandal has eroded public trust in the government's ability to manage the economy."（丑闻削弱了公众对政府管理经济能力的信任——考研阅读政治话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

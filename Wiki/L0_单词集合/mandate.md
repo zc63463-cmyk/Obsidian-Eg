@@ -3,14 +3,12 @@ title: "mandate"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 交给某人手中的命令
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmændeɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**交给某人手中的命令**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **交给某人手中的命令**（法律/行政层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mandate 来自拉丁语 mandare = manus（手）+ dare（给）= "交给手中"。想象古罗马皇帝把一枚**印章**放在将军的**手**中，说"我**授权**你去征服那座城"——这就是 mandate。几千年后，选民们把选票放在总统候选人的**手**中，给予他治理国家的**授权**——还是 mandate。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prohibition]]：禁止（mandate 作为"授权/命令"的反义：命令做↔禁止做）
 > - [[veto]]：否决（mandate 作为"授权"的反义：授权↔否决）
 > - [[revocation]]：撤销（mandate 作为"授权"的反义：授予↔撤销）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a clear mandate**：明确的授权
 > - **have a mandate to do sth.**：有做某事的授权
 > - **mandate a policy/law**：强制推行政策/法律
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the president has a clear mandate from the voters"（总统拥有选民的明确授权）——考研阅读政治类话题
 > - "the court mandated that the company pay compensation"（法院命令该公司支付赔偿）——法律类阅读
 > - "a mandate for change"（变革的授权）——社会/政治类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "uncover"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 拿掉盖子（un- + cover = 去掉覆盖）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ʌnˈkʌvər/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拿掉盖子**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **拿掉盖子**（物理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > uncover 的核心画面是"掀开锅盖"。un- = 否定/相反，cover = 覆盖。去掉覆盖 = 揭开。当你掀开锅盖，里面的菜就暴露出来了。同理，uncover a secret（揭露秘密）就像掀开盖子，把隐藏的东西暴露在光天化日之下。注意 uncover 和 [[discover]] 的区别：uncover 强调"主动揭露"，discover 强调"偶然发现"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cover]]：覆盖（uncover 的直接反义：揭开↔覆盖）
 > - [[conceal]]：隐藏（uncover 的反义：揭露↔隐藏）
 > - [[hide]]：躲藏（uncover 的反义：暴露↔隐藏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **uncover the truth**：揭露真相
 > - **uncover evidence**：发现证据
 > - **uncover a plot/scandal**：揭露阴谋/丑闻
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The investigation uncovered a pattern of systematic fraud that had gone undetected for years."（调查揭露了一种多年来未被发现的系统性欺诈模式——考研阅读社会话题相关表达）
 > - "Archaeologists have uncovered the remains of an ancient civilization beneath the modern city."（考古学家在现代城市之下发现了古代文明的遗迹——考研阅读考古话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

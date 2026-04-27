@@ -3,14 +3,12 @@ title: "religious"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 与反复绑定有关的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈlɪdʒəs/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与反复绑定有关的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **与反复绑定有关的**（核心特质）
@@ -66,7 +64,7 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（反复）+ lig（绑）+ ious（充满的）→ 充满了"绑定"特质的。宗教仪式把人与神绑在一起，虔诚的信徒被信仰绑住心灵，认真工作的人被责任感绑住——都是religious。
@@ -90,7 +88,7 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[secular]]：secular表示"世俗的"，与religious的"宗教的"直接对立
 > - [[irreligious]]：irreligious表示"不信教的"，与religious直接对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **religious belief**：宗教信仰
   > Freedom of religious belief is protected by the constitution.（宗教信仰自由受宪法保护。）
 > - **religious differences**：宗教分歧
@@ -129,20 +127,14 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "On the issue of freedom of religion and the position of the Church, there was less agreement among the leadership."（在宗教自由和教会地位问题上，领导层之间的共识较少。）——2007年完形填空
 > - "Most leaders sought to maintain Catholicism as the official religion of the new states."（大多数领导人试图将天主教维持为新国家的官方宗教。）——2007年完形填空
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

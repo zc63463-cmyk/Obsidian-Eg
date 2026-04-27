@@ -3,17 +3,14 @@ title: "infrared"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 红外线的（低于红色光频率的辐射）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌɪnfrəˈred/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: infra
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**低于红色的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **低于红色的**（光谱层面）
@@ -65,7 +62,7 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > infra（低于）+ red（红色）→ infrared。可见光谱中，红色频率最低，低于红色的就是红外线。红外线人眼看不到，但能感受到热量。红外线夜视仪（infrared night vision），红外线扫描仪（infrared scanner）。infrared 就是"低于红色的"。
@@ -88,7 +85,7 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +97,12 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ultraviolet]]：紫外线（infrared "红外线"的反义：低于红色↔高于紫色）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **infrared radiation**：红外辐射
 > - **infrared scanner**：红外扫描仪
 > - **infrared camera**：红外摄像机
@@ -129,19 +126,15 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Infrared radiation is similar to light but has a longer wavelength, so we cannot see it without special equipment."（红外辐射与光相似，但波长更长，因此没有特殊设备我们无法看到它。——考研阅读类表达）
 > - "Searching with infrared scanners for weapons and artillery."（用红外扫描仪搜索武器与大炮。——考研翻译类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

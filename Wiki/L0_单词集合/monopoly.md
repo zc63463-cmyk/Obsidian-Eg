@@ -3,14 +3,12 @@ title: "monopoly"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 独占、垄断
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/məˈnɒpəli/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ mono-(单一) + [[pol|poly]](销售)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**独占、垄断**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **独占、垄断**（经济层面）
@@ -68,7 +66,7 @@ mono-(单一) + [[pol|poly]](销售)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ mono-(单一) + [[pol|poly]](销售)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > "单一"(mono)"销售"(poly)，就是垄断(monopoly)。
@@ -92,7 +90,7 @@ mono-(单一) + [[pol|poly]](销售)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ mono-(单一) + [[pol|poly]](销售)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[competition]]：竞争
 > - [[free market]]：自由市场
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,28 +120,22 @@ mono-(单一) + [[pol|poly]](销售)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **break the monopoly**：打破垄断（The government tried to break the monopoly of the state-owned enterprises.）
 > - **state monopoly**：国家垄断（Tobacco is under state monopoly in many countries.）
 > - **have a monopoly on**：对...拥有垄断权（The company once had a monopoly on the telecommunications market.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Any threat of monopoly, they argue, is removed by fierce competition from trucks."（他们认为，在公路运输的激烈竞争面前，垄断的威胁已经不复存在。）——2003考研英语一Text3
 > - "In recent years, railroads have been combining with each other, merging into super systems, causing heightened concerns about monopoly."（近年来，铁路公司相互联合，组成了超大型集团，引起人们对垄断行为的极大关注。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

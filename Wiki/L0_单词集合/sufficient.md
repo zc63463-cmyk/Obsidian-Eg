@@ -3,14 +3,12 @@ title: "sufficient"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在下面做好了（足够了）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/səˈfɪʃnt/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在下面做好了**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在下面做好了**（基础层面：底子够了）
@@ -62,7 +60,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > suf（在下面）+ fac（做）+ -ent（……的）。想象建房子：地基**在下面**已经**做**好了，持有"**够了**"的状态——这就是 sufficient。记住：底部做好了 = sufficient。
@@ -81,7 +79,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -94,13 +92,13 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insufficient]]：不充分的；不够的
 > - [[inadequate]]：不充分的；不适当的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,7 +110,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sufficient for**：对……足够
   - The food is sufficient for the whole family.（这些食物足够全家人吃。）
 > - **sufficient to do sth.**：足以做某事
@@ -120,19 +118,15 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance."（这种日益提高的教育水平可能是先进经济表现所需的复杂政治体系的必要而非充分条件——考研高频表达）
 > - "A few generative rules are then sufficient to unfold the entire fundamental structure of a language, which is why children can learn it so quickly."（少数几条生成规则就足以展开一种语言的整个基本结构，这就是为什么儿童能如此迅速地学会语言——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

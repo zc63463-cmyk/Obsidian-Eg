@@ -3,14 +3,12 @@ title: "rid"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 清除，使摆脱（把不想要的东西清除掉）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪd/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**清除，使摆脱**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **清除，使摆脱**（动作层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rid 的核心动作就是"清除"。你 rid yourself of bad habits（戒除坏习惯），rid the house of mice（清除屋里的老鼠），rid the world of poverty（消除世界贫困）。最常用的短语是 get rid of（摆脱，丢弃）。记住：rid = 清除 = 使摆脱，永远和 of 连用。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[burden]]：使负担（rid 是使摆脱，burden 是使负担）
 > - [[keep]]：保留（rid 是清除，keep 是保留）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **get rid of**：摆脱，丢弃，除掉
 > - **rid sb./sth. of sth.**：使某人/某物摆脱某事
 > - **rid oneself of**：使自己摆脱
@@ -123,19 +121,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We must rid ourselves of the illusion that technology alone can solve our problems."（我们必须摆脱仅靠技术就能解决问题的幻想。）
 > - "It took months to get rid of the persistent infection."（花了数月才消除顽固的感染。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

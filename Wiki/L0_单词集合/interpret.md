@@ -3,14 +3,12 @@ title: "interpret"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 在两者之间传递（意义）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈtɜːprɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在两者之间传递（意义）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在两者之间传递（意义）**（语言层面）
@@ -68,7 +66,7 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inter（在…之间）+ pret（传递）→ 想象你站在联合国会议厅里，一位法国代表用法语发言，你站在法语和中文之间，把他的话"传递"给中国代表团——这就是 interpret（口译）。再想象你读一首晦涩的诗，你在文字和意义之间架起桥梁，把诗的内涵"传递"给读者——这就是 interpret（解释）。
@@ -90,7 +88,7 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[misinterpret]]：误解，曲解（interpret 的反义：正确解释↔错误理解）
 > - [[distort]]：歪曲，扭曲（interpret 的反义：客观诠释↔主观歪曲）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **interpret...as...**：把……解释为……
 > - **interpret the data/law**：解释数据/法律
 > - **interpret for sb.**：为某人做口译
@@ -131,23 +129,15 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living."（人们可以这样解释贝多芬的大部分作品：痛苦是不可避免的，但与之抗争的勇气使生命值得活下去。——2014年考研英语一翻译）
 > - "The casual friendliness of many Americans should be interpreted neither as superficial nor as artificial, but as the result of a historically developed cultural tradition."（许多美国人的这种随意的友好态度不应该被看成是肤浅的或虚假的，而应解释成一种由来已久的历史文化传统。——1996年考研阅读）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

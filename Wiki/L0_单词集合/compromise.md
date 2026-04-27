@@ -3,14 +3,12 @@ title: "compromise"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 共同承诺，互相让步
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒmprəmaɪz/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同承诺，互相让步**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **共同承诺**（社会层面——双方达成一致）
@@ -69,7 +67,7 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（共同）+ promise（承诺）：两个人吵架后，**共同做出承诺**各退一步——这就是"妥协"。但如果退步太多，连自己的底线都放弃了——这就是"损害"了原则。
@@ -92,7 +90,7 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insist]]：坚持（妥协↔坚持）
 > - [[intransigence]]：不妥协，固执
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reach/arrive at a compromise**：达成妥协
 > - **compromise with sb. on sth.**：在某事上与某人妥协
 > - **compromise one's principles/health**：违背原则/损害健康
@@ -131,22 +129,16 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Party unity is threatened when members will not compromise on key issues."（当成员不愿在关键问题上妥协时，党的团结就会受到威胁。）——考研高频表达
 > - "They often compromise by having just one child due to financial pressures."（由于经济压力，他们常常妥协只生一个孩子。）——考研高频表达
 > - "The two sides finally reached a compromise after weeks of negotiation."（经过数周的谈判，双方终于达成了妥协。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "translation"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 将意义从一种语言搬运到另一种语言
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/trænsˈleɪʃən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ trans-（跨越，穿过）+ lat（搬运，携带，与 [[tract]] 同源）+ -i
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**跨越边界搬运意义**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **跨越边界搬运意义**（语言层面）
@@ -68,7 +66,7 @@ trans-（跨越，穿过）+ lat（搬运，携带，与 [[tract]] 同源）+ -i
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ trans-（跨越，穿过）+ lat（搬运，携带，与 [[tract]] 同源）+ -i
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 翻译家像搬运工一样，把莎士比亚剧本的意义从英语"搬运"（trans + lat）到中文——每句话都是一次跨越语言边界的搬运。后来科学家也用这个词：把实验室的理论"搬运"到实际应用中，叫"理论转化"（translation of theory into practice）。记住：translation = trans（跨越）+ lat（搬运）= 跨越搬运 = 翻译。
@@ -92,7 +90,7 @@ trans-（跨越，穿过）+ lat（搬运，携带，与 [[tract]] 同源）+ -i
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ trans-（跨越，穿过）+ lat（搬运，携带，与 [[tract]] 同源）+ -i
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[original]]：原文，原作（translation 的反义：译本↔原文）
 > - [[distortion]]：曲解，歪曲（翻译的反义：忠实搬运↔歪曲原意）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,27 +123,21 @@ trans-（跨越，穿过）+ lat（搬运，携带，与 [[tract]] 同源）+ -i
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **lost in translation**：在翻译中丢失（原意被曲解）
 > - **translation of...into...**：把……翻译/转化为……
 > - **literal/free translation**：直译/意译
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "According to the new school of scientists, technology is an overlooked force in expanding the horizons of scientific knowledge."（新学派科学家们认为，在拓展科学知识的范围方面，技术是一种被忽视的力量。）——1994年翻译
 > - "The translation of literary works requires both linguistic proficiency and cultural sensitivity."（文学作品的翻译既需要语言能力，也需要文化敏感度。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

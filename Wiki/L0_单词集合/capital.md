@@ -3,14 +3,12 @@ title: "capital"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 头→首要的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈkæpɪtl/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**头**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **头**（物理层面：身体的头部）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 caput = 头。人的头是最重要的部分。国家的"头"是首都（Beijing is the capital of China），经济的"头"是资本（capital investment），英语句子的"头"用大写字母开头（Write your name in capitals），而古代涉及"头"的惩罚是致命的（capital punishment = 死刑）。一切从"头"开始。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[interest]]：利息（capital 作为"本金"的反面：本金 vs 利息）
 > - [[province]]：省份（capital 作为"首都"的反面：首都 vs 省份）
 > - [[lowercase]]：小写字母（capital 作为"大写字母"的反面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **capital city**：首都
 > - **capital punishment**：死刑
 > - **human capital**：人力资本
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company needs to raise more capital to expand its business."（公司需要筹集更多资本来扩展业务。）——商业/经济类阅读语境
 > - "Paris is the capital of France."（巴黎是法国的首都。）——地理/文化类阅读语境
 > - "In English, proper nouns begin with a capital letter."（在英语中，专有名词以大写字母开头。）——语言/教育类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

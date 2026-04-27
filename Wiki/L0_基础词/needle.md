@@ -3,14 +3,12 @@ title: "needle"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 针（细长尖锐用于穿刺的工具）
-extension_dim: 功能路径
+extension_dim: [功能路径]
 phonetic: "/ˈniːdl/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**针（细长尖锐用于穿刺的工具）**"为统筹中心，沿功能路径向外扩展：
 >
 > 1. **针**（工具层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > needle 源自古英语 *nǣdl*，是一个原始日耳曼根词。想象古代妇女在烛光下用 needle 和 thread（针线）缝补衣服——这就是 needle 最原始的场景。后来 needle 从缝衣针扩展到注射针（打针用的针）、仪表指针（像针一样指示方向）、松针（形状像针）。动词"激怒"来自"用针刺"的隐喻——stop needling me 就是"别再拿话刺我了"。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （needle 作为具体工具，无精确反义词）
 > - [[thread]]：线（needle 的搭配词：针↔线，互补关系）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **needle and thread**：针线
 > - **a sewing needle**：缝衣针
 > - **a hypodermic needle**：皮下注射针
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She was busy with needle and scissors, altering a mourning dress that Mrs. Elsing had lent to Mrs. Meade."（她正忙着用针和剪刀修改埃尔辛太太借给米德太太的丧服。——Margaret Mitchell, *Gone With the Wind*）
 > - "I sit down, thread a needle, snip off an old button."（我坐下来，穿好针，剪下了一粒旧纽扣。——Cambridge Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

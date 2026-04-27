@@ -3,14 +3,12 @@ title: "recover"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 重新获得
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈkʌvər/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-（再/重新）+ cover（覆盖/获得，与 [[cap]] 抓取/容纳有关）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**重新获得**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **重新获得**（物质层面：拿回失去的东西）
@@ -65,7 +63,7 @@ re-（再/重新）+ cover（覆盖/获得，与 [[cap]] 抓取/容纳有关）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-（再/重新）+ cover（覆盖/获得，与 [[cap]] 抓取/容纳有关）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 生病的人像丢失了健康，recover 就是把健康重新"盖"回身上——康复、恢复。
@@ -89,7 +87,7 @@ re-（再/重新）+ cover（覆盖/获得，与 [[cap]] 抓取/容纳有关）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ re-（再/重新）+ cover（覆盖/获得，与 [[cap]] 抓取/容纳有关）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lose]]：失去——recover 的反面
 > - [[deteriorate]]：恶化——健康或状态的恶化
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +116,22 @@ re-（再/重新）+ cover（覆盖/获得，与 [[cap]] 抓取/容纳有关）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **recover from**：It took her several months to recover from the operation.（她花了数月时间从手术中康复。）
 > - **recover consciousness**：The patient recovered consciousness after being in a coma for three days.（患者在昏迷三天后恢复了意识。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It took her several months to recover from the surgery and return to normal life."（她花了几个月的时间才从手术中恢复并回到正常生活。）——考研高频表达
 > - "The stock market has not yet recovered from the sharp decline it experienced last year."（股市尚未从去年的大幅下跌中恢复过来。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

@@ -3,14 +3,12 @@ title: "poverty"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 贫穷，贫困
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpɒvəti/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ pov/pauper(贫穷) + -erty(名词后缀，表示状态)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**贫穷**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **贫穷**（物质层面：缺乏金钱和资源）
@@ -62,7 +60,7 @@ pov/pauper(贫穷) + -erty(名词后缀，表示状态)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ pov/pauper(贫穷) + -erty(名词后缀，表示状态)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个衣衫褴褛的孩子蹲在街角，面前放着一个空碗——这就是 **poverty**（贫穷），一种让你感到无力、绝望的匮乏状态。
@@ -85,7 +83,7 @@ pov/pauper(贫穷) + -erty(名词后缀，表示状态)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,14 +95,14 @@ pov/pauper(贫穷) + -erty(名词后缀，表示状态)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wealth]]：财富——与贫穷相对
 > - [[affluence]]：富裕——与贫困相对
 > - [[power]]：力量/权力——与无力感相对（跨batch链接）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,28 +114,22 @@ pov/pauper(贫穷) + -erty(名词后缀，表示状态)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **live in poverty**：Millions of people around the world still live in poverty.
 > - **poverty line**：Families earning below the poverty line are eligible for government assistance.
 > - **poverty of**：The essay suffers from a poverty of original ideas.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Millions of people around the world still live in extreme poverty."（世界上仍有数百万人生活在极端贫困中。）——考研高频表达
 > - "Education is widely regarded as the most effective way to escape poverty."（教育被广泛认为是摆脱贫困最有效的方式。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

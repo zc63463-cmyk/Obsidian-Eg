@@ -3,17 +3,14 @@ title: "deem"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 经过判断后形成的看法
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/diːm/"
 pos: vt.
-metaphor_type: 无隐喻
 word_root: doom
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**经过判断后形成的看法**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **经过判断后形成的看法**（认知判断层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > deem 和 doom 是亲兄弟——都是"判断"的意思。doom 是"命运的判断"（引申为厄运），deem 是"个人判断后的看法"（引申为认为）。想象一位委员会主席在会议上说："We deem this proposal unacceptable."——这就是 deem 的典型使用场景。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dismiss]]：不予考虑；驳回（与 deem"认真考虑并形成看法"相对）
 > - [[reject]]：拒绝（与 deem"视为"的方向性相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **deem that...**：认为...
 > - **deem sth. necessary**：认为某事是必要的
 > - **deem sth. appropriate**：认为某事是适当的
@@ -126,21 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The proposal was deemed unacceptable by the review committee."（该提案被评审委员会认为不可接受）——学术/正式语境常见被动用法
 > - "She deemed it necessary to clarify her position before the meeting."（她认为有必要在会议前澄清自己的立场）——deem it + adj. 的典型结构
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

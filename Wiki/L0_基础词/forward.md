@@ -3,14 +3,12 @@ title: "forward"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 向前（朝前方的方向）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈfɔːrwərd/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前（朝前方的方向）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向前**（空间层面）
@@ -72,7 +70,7 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fore（前面）+ ward（方向）→ 朝前面的方向 → 向前。篮球里的 forward（前锋）就是在最前面冲锋的人。forward an email 就是把邮件"向前"传给下一个人。look forward to 就是目光"向前"看到将来。
@@ -96,7 +94,7 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[backward]]：向后的（forward 的精确反义：向前↔向后）
 > - [[backward-looking]]：保守的，落后的（与 forward-looking"进步的"相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **look forward to**：期待，盼望（后接名词或动名词）
 > - **put forward**：提出（建议、计划等）；将时间提前
 > - **bring forward**：提出；提前
@@ -138,20 +136,16 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We look forward to hearing from you soon."（我们期待尽快收到您的回信——考研高频表达）
 > - "He put forward a proposal for reducing carbon emissions."（他提出了一项减少碳排放的提案）
 > - "The government is taking a forward-looking approach to economic development."（政府正以前瞻性的方式推动经济发展）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

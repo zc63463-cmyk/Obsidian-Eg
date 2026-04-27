@@ -3,14 +3,12 @@ title: "significance"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 值得标记的意义
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/sɪɡˈnɪfɪkəns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**值得标记的意义**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **值得标记的意义**（价值层面：值得被注意和标记的重要性）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sign（标记）+ -ific（使成为）+ -ance（性质）= significance（使某事值得被标记的性质→重要性）。想象你在历史书上用荧光笔标记了某个事件，因为它具有重大 significance（意义）。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insignificance]]：不重要，微不足道（significance 是值得标记的重要，insignificance 是不值得标记的微小）
 > - [[triviality]]：琐碎，无足轻重
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **of great significance**：具有重大意义
   - The discovery was of great significance to the field of medicine.（这一发现对医学领域具有重大意义。）
 > - **historical significance**：历史意义
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The significance of this research lies in its potential to cure rare diseases."（考研英语——这项研究的重大意义在于它治愈罕见疾病的潜力。）
 > - "The full significance of the policy change may not be apparent for years."（CET-6——这项政策变化的全部意义可能要过几年才会显现。）
 > - "Scientists attach great significance to the discovery of the new particle."（考研英语——科学家们对这一新粒子的发现给予了高度重视。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

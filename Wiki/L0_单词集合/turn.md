@@ -3,14 +3,12 @@ title: "turn"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 转动，旋转
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/tɜːn/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转动，旋转**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **转动，旋转**（物理层面——围绕中心旋转）
@@ -69,7 +67,7 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自拉丁语 tornus（车床），在车床上工件不断**旋转**（turn）。想象你站在十字路口**转身**（turn），方向变了，人生也跟着**转变**（turn）了。
@@ -94,7 +92,7 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[remain]]：保持不变（转变 vs 保持）
 > - [[stay]]：停留（转向 vs 留在原地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **turn out**：结果是，证明是（It turned out to be a mistake.）
 > - **in turn**：依次，反过来（Theory and practice reinforce each other in turn.）
 > - **take turns**：轮流（They took turns watching the patient.）
@@ -134,21 +132,15 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It turned out to be a mistake to rely solely on traditional methods."（事实证明，完全依赖传统方法是一个错误。）——考研高频表达
 > - "Theory and practice reinforce each other in turn."（理论与实践相互促进。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "stake"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 尖桩（插入地面的木桩，用来标记边界或绑缚）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/steɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**尖桩**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **尖桩**（物理层面）
@@ -69,7 +67,7 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stake 来自古英语 staca（尖桩）。想象一个牛仔在荒野中插下一根木桩，用绳子把马拴在上面——马跑不掉了，因为 stake 把它"钉"住了。后来，人们说"我在这个项目里有 stake"，意思就是"我的利益像桩子一样钉在这个项目里"。当一切 at stake（在危急关头），就像所有东西都被绑在桩子上——要么赢，要么输。
@@ -92,7 +90,7 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[safety]]：安全（at stake 的反义：处于危险中 vs 安全）
 > - [[detachment]]：超然（have a stake in 的反义：有利害关系 vs 超然）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at stake**：在危急关头，利害攸关
 > - **have a stake in**：在……中有利害关系
 > - **stake one's reputation on**：拿自己的名誉冒险
@@ -129,19 +127,15 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The future of the company is at stake.（公司的未来岌岌可危。）
 > - Employees who have a stake in the company are more motivated.（在公司中有利害关系的员工更有动力。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

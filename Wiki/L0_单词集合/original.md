@@ -3,14 +3,12 @@ title: "original"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 最先的、起点的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/əˈrɪdʒənl/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**最先的、起点的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **最先的、起点的**（时间层面——最早出现的）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[origin]]（起源）+ -al → 与"起源"有关的 → 原始的/独创的。一个 original 的想法，就是一个新的"起点"——以前没人想到过。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[copy]]：副本，抄本（原作 vs 副本）
 > - [[derivative]]：派生的，缺乏独创性的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **original idea**：独创的想法 She is known for her original ideas and creative approach to problem-solving.（她以其独创性的想法和创造性的问题解决方法而闻名。）
   > She came up with an original idea for the project. 她为这个项目想出了一个独创的想法。
 > - **original version**：原始版本 The original version of the novel was much longer than the published one.（小说的原始版本比出版版本长得多。）
@@ -129,21 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The original purpose of the research was to investigate the effects of pollution on health."（这项研究的最初目的是调查污染对健康的影响。）——考研高频表达
 > - "She is one of the most original thinkers in the field of linguistics."（她是语言学领域最具独创性的思想家之一。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

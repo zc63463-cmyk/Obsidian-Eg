@@ -3,14 +3,12 @@ title: "sensible"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 可感觉到的、明智的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsensəbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可感觉到的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可感觉到的**（感知层面：能够被感官察觉的）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[sens/sent|sens]](感觉) + -ible(可…的) = sensible（可感觉到的→明智的）。想象一位老农夫根据风向判断明天是否下雨——他能感知到自然的信号，所以做出的判断是"明智的"。
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,13 +93,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[foolish]]：愚蠢的（明智 vs 愚蠢）
 - [[absurd]]：荒谬的（合理 vs 荒谬）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,27 +112,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sensible decision/approach**：It would be sensible to consult a lawyer.（咨询律师是明智的做法。）
 > - **sensible of**：He is sensible of the risks involved.（他意识到其中涉及的风险。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them."（明智的想法早已存在，但管理该行业的州级机构过于保守，未能实施这些想法。）——考研真题
 > - "That would be a more sensible way of dealing with the problem."（那将是处理这个问题的更明智的方式。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

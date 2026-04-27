@@ -3,14 +3,12 @@ title: "abound"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 水从容器中溢出（数量多得溢出来）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈbaʊnd/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**水从容器中溢出**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **水溢出**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > abound 的核心画面是"水溢出"。拉丁语 *abundare* = 波浪涌出 = 溢出。当容器里的水多得装不下时，水就"溢出"了——这就是 abound。Rumors abound（谣言四起）= 谣言多得像水一样溢出来。The country abounds in natural resources（这个国家自然资源丰富）= 资源多得要溢出来。注意 abound 是不及物动词，常用搭配 abound in/with。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lack]]：缺乏（abound 的反义：大量存在↔缺乏）
 > - [[scarce]]：稀缺的（abound 的反义：丰富↔稀缺）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **abound in/with**：充满，富于
 > - **rumors/stories abound**：谣言/故事四起
 > - **abound in natural resources**：自然资源丰富
@@ -127,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The tropical rainforest abounds with species that have not yet been discovered or documented by scientists."（热带雨林中大量存在着科学家尚未发现或记录的物种——考研阅读生态话题相关表达）
 > - "Historical records show that this region once abounded in gold and silver, attracting prospectors from around the world."（历史记录显示，这个地区曾经盛产金银，吸引了来自世界各地的淘金者——考研翻译历史话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

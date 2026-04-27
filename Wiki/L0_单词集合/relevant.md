@@ -3,14 +3,12 @@ title: "relevant"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 能被带回来连接的→相关的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈreləvənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ re-(回) + lev/lat(举起、携带) + -ant(形容词后缀，表"……的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**相关的、切题的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **相关的、切题的**（认知层面——与当前话题有连接的）
@@ -64,7 +62,7 @@ re-(回) + lev/lat(举起、携带) + -ant(形容词后缀，表"……的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ re-(回) + lev/lat(举起、携带) + -ant(形容词后缀，表"……的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 relevans "举起的"，由 re-(回) + levare(举起) 构成。在讨论中能被"举起来"和当前话题建立连接的信息——就是 relevant（相关的）。
@@ -87,7 +85,7 @@ re-(回) + lev/lat(举起、携带) + -ant(形容词后缀，表"……的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ re-(回) + lev/lat(举起、携带) + -ant(形容词后缀，表"……的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[irrelevant]]：不相关的（相关 vs 不相关）
 > - [[unrelated]]：无关的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,20 @@ re-(回) + lev/lat(举起、携带) + -ant(形容词后缀，表"……的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **relevant to**：与……相关（The evidence is not relevant to the case.）
 > - **relevant experience**：相关经验（Do you have any relevant experience?）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Education should be relevant to the needs of students and the demands of the job market."（教育应与学生的需求和就业市场的需求相关联。）——考研高频表达
 > - "The researcher failed to include any relevant data to support his controversial conclusion."（研究者未能提供任何相关数据来支持他有争议的结论。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,17 +3,14 @@ title: "centimetre"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 米的百分之一
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsentɪmiːtə(r)/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: centi
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ centi-(百，百分之一) + metre(米，希腊语 *metron*，度量)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**米的百分之一**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **米的百分之一**（度量层面）
@@ -64,7 +61,7 @@ centi-(百，百分之一) + metre(米，希腊语 *metron*，度量)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ centi-(百，百分之一) + metre(米，希腊语 *metron*，度量)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > centi（百分之一）+ metre（米）→ 米的一百分之一 → 厘米。一厘米就是一米的一百等分，所以 centimetre = cm。
@@ -86,7 +83,7 @@ centi-(百，百分之一) + metre(米，希腊语 *metron*，度量)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ centi-(百，百分之一) + metre(米，希腊语 *metron*，度量)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 本词为度量单位，无精确反义词。可与更大/更小单位对比：[[kilometre]]（千米）、[[millimetre]]（毫米）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,25 +120,21 @@ centi-(百，百分之一) + metre(米，希腊语 *metron*，度量)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **square centimetre**：平方厘米
 > - **cubic centimetre**：立方厘米
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The brain shrinks by as much as a quarter of its volume by the time a person reaches 80, with the frontal lobe and hippocampus—areas critical to memory and reasoning—losing as much as a centimetre of thickness."（当一个人到80岁时，大脑体积会缩小多达四分之一，额叶和海马体——对记忆和推理至关重要的区域——厚度减少多达一厘米。——考研科普类阅读高频话题）
 > - "The device can detect changes as small as a few centimetres in distance."（该设备能检测到距离上小至几厘米的变化。——考研科技类阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

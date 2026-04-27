@@ -3,14 +3,12 @@ title: "substitute"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 站在下面代替别人
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsʌbstɪtjuːt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在下面代替**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **站在下面代替**（物理动作：站到某人的位置上）
@@ -65,7 +63,7 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 球员受伤了，替补球员站到他的位置下面（sub-在下 + stat站立）代替他上场——substitute，替代者。
@@ -91,7 +89,7 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[original]]：原始的，原来的（substitute 替代的是 original）
 > - [[permanent]]：永久的（substitute 暗示临时性）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **substitute A for B**：用A代替B
   - Honey can be used as a substitute for sugar in many recipes.（在许多食谱中，蜂蜜可以用来代替糖。）
 > - **substitute for**：替代
@@ -134,23 +132,15 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "There is no substitute for hard work if you want to achieve academic success."（如果你想取得学术成功，努力工作是不可替代的。）——2019年考研英语一Text1
 > - "The fact that participants were willing to substitute part of a food item for the mere prospect of a relatively small monetary award is interesting."（参与者愿意用部分食物换取相对小额金钱奖励的可能性，这一事实令人感兴趣。）——2016年12月考研阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

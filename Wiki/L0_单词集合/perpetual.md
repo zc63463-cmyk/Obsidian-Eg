@@ -3,17 +3,14 @@ title: "perpetual"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 永远持续的、不间断的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/pəˈpetʃuəl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: pet
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
@@ -46,7 +43,7 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**永远持续**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **永远持续**（时间层面：没有终点）
@@ -67,7 +64,7 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 一位国王许诺给忠诚的骑士永久的（perpetual）封地——从日出到日落，从今年到永远（per- 贯穿始终），这片土地永远属于他。
@@ -88,7 +85,7 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[temporary]]：暂时的（永久 vs 临时）
 > - [[perish]]：消亡（永存 vs 毁灭）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +115,7 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **perpetual motion**：永动
 >   The idea of a perpetual motion machine has fascinated scientists for centuries.（永动机的概念让科学家着迷了几个世纪。）
 > - **perpetual cycle**：永久的循环
@@ -126,21 +123,15 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Such policies only perpetuate inequality in society."（这类政策只会让社会不平等持续加剧。）——2017考研英语一Text3
 > - "The city is in a state of perpetual motion, never sleeping."（这座城市处于永恒的运动状态，从不沉睡。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

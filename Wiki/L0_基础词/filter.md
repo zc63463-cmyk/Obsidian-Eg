@@ -3,14 +3,12 @@ title: "filter"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 过滤（用多孔材料让液体通过，截留杂质）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈfɪltə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**过滤**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **过滤**（物理层面）
@@ -69,7 +67,7 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > filter 来自拉丁语 filtrum（毛毡）。古人用毛毡过滤酒液——酒 filter 过去了，渣滓留在毛毡上。今天我们 filter 水、filter 信息、filter 消息。考研真题说"filter out what is unique from what is shared"——从共性中筛出个性。
@@ -92,7 +90,7 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mix]]：混合（filter 的反义：分离↔混合）
 > - [[contaminate]]：污染（filter 的反义：净化↔污染）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **filter out**：滤除，筛选出
 > - **filter through**：渗透，传开
 > - **a water filter**：净水器
@@ -132,19 +130,15 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose and what guides it in evolutionary or cognitive terms."（从共性中筛选出个性，可能使我们能够理解复杂的文化行为是如何产生的，以及是什么在进化或认知层面引导着它。——2012年考研翻译）
 > - "The different shapes of the containers suggest they were used to brew, filter, and store beer."（这些容器形状各异，表明它们曾被用来酿造、过滤和储存啤酒。——考研阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

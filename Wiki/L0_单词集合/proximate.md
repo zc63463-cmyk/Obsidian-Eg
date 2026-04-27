@@ -3,14 +3,12 @@ title: "proximate"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 最接近的（在时间或空间上最近的）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈprɒksɪmət/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**最接近的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **最接近的**（空间/时间层面：距离最近）
@@ -66,7 +64,7 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > proxim（最近的）→ 在拉丁语中 *proximus* 就是"最近的"最高级。proximate 就是"最接近的"。在法律中，proximate cause 是"直接原因"——因果链上离结果最近的那一环。在日常生活中，The danger is greatest if the fireball is proximate to the target——火球离目标越近，危险越大。
@@ -89,7 +87,7 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[remote]]：遥远的（与"最接近的"形成空间距离对立：最近↔最远）
 > - [[ultimate]]：最终的，根本的（与"近因"形成因果链对立：近因↔远因/根本原因）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **proximate cause**：直接原因，近因（法律用语）
 >  > The proximate cause of the accident was driver negligence.
 > - **proximate to**：接近于……
@@ -129,19 +127,15 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The problem with climate change was that it seemed so much less proximate than terrorism."（气候变化的问题在于，它看起来远不如恐怖主义那样迫在眉睫——剑桥词典例句）
 > - "Indeed, one proximate cause of the crisis was a tapering-off of export growth."（事实上，危机爆发的一个最直接的原因是出口增长逐渐放缓——新东方词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "realize"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 使成为现实、认识到
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈriːəlaɪz/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使成为现实**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使成为现实**（行动层面：将计划/梦想变为现实）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[re]](真实) + -al + -ize(使…化) = realize（使成为现实）。想象一个人努力多年终于站在了梦想的舞台上——他"实现"了梦想，也"认识到"了努力的价值。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（认识到 vs 忽视）
 > - [[miss]]：错过，未实现（实现 vs 未实现）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,27 +117,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **realize one's dream/potential**：She finally realized her dream of becoming a writer.（她终于实现了成为作家的梦想。）
 > - **realize that...**：I suddenly realized that I had left my keys at home.（我突然意识到我把钥匙忘在家里了。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many people do not realize the extent of the problem until it is too late."（许多人直到为时已晚才意识到问题的严重程度。）——考研高频表达
 > - "She realized that she had made a terrible mistake."（她意识到自己犯了一个严重的错误。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

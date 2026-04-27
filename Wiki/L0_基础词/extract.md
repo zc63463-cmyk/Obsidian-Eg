@@ -3,17 +3,14 @@ title: "extract"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 向外拉出（从整体中拉出来）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪkˈstrækt/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: tract
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向外拉出（从整体中拉出来）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向外拉出**（物理动作层面）
@@ -69,7 +66,7 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向外）+ tract（拉）→ 向外拉出来 → 提取。想象你从一杯咖啡中"向外拉出"咖啡因——这就是 extract caffeine。想象你从一本500页的书里"向外拉出"最精彩的一段——这就是 extract a passage。extract 就是用"拉"的方式从整体中取出你需要的部分。
@@ -92,7 +89,7 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insert]]：插入（extract 的反义：抽出↔插入）
 > - [[embed]]：嵌入（extract 的反义：提取↔嵌入）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +123,7 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **extract information/data**：提取信息/数据
 > - **extract a tooth**：拔牙
 > - **extract from**：从……中提取/摘录
@@ -135,19 +132,15 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers extracted DNA from the ancient remains."（研究人员从古代遗骸中提取了DNA——考研高频表达）
 > - "The following extract is taken from her latest novel."（以下摘录选自她的最新小说）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

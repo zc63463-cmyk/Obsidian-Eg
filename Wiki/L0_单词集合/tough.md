@@ -3,14 +3,12 @@ title: "tough"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 坚韧的、不易折断的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/tʌf/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坚韧的、不易折断的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **坚韧的、不易折断的**（物理层面：材质坚硬）
@@ -65,7 +63,7 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tough 源自古英语 toh（坚韧的、结实的）→ 牛排 tough 是"咬不动"的 → 问题 tough 是"解决不了"的 → 人 tough 是"打不倒"的。
@@ -87,7 +85,7 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[tender]]：柔软的、温柔的（物理/性格层面）
 > - [[easy]]：容易的（任务层面）
 > - [[weak]]：软弱的（性格层面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tough time**：艰难时期
   - She went through a tough time after losing her job.（失业后她经历了一段艰难时期。）
 > - **get tough with**：对……采取强硬态度
@@ -125,22 +123,16 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government faces tough decisions in balancing economic growth and environmental protection."（政府在平衡经济增长与环境保护方面面临艰难的决定。）——考研高频表达
 > - "Growing up in a tough neighborhood taught her resilience and determination."（在艰苦的社区长大教会了她韧性和决心。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

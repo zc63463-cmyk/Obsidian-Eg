@@ -3,14 +3,12 @@ title: "deck"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 甲板（船的表面覆盖层）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/dek/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**甲板（船的表面覆盖层）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **甲板**（船的层面）
@@ -69,7 +67,7 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > deck 来自荷兰语 dek（覆盖物）。船上的覆盖板就是 deck（甲板）。站在甲板上眺望大海——stand on the deck。双层巴士叫 double-deck bus。一副纸牌叫 a deck of cards——纸牌像甲板一样一层层叠放。圣诞装饰叫 deck the halls——给大厅"覆盖"上装饰。
@@ -92,7 +90,7 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > （无明显反义词，deck 为具体物品名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on deck**：在甲板上；准备就绪
 > - **double-deck bus**：双层巴士
 > - **a deck of cards**：一副纸牌
@@ -128,19 +126,15 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The passengers stood on the deck, watching the sunset over the ocean."（乘客们站在甲板上，看着海上日落——考研阅读场景描写）
 > - "The city was decked out in flags and banners to celebrate the national holiday."（城市张灯结彩，庆祝国庆节——考研社会类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

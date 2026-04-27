@@ -3,17 +3,14 @@ title: "elite"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 挑选出来的最优秀群体
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/eɪˈliːt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**挑选出来的最优秀群体**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **挑选出来的最优秀群体**（社会阶层层面）
@@ -70,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > elite = e（出）+ lit（=lect，挑选）+ e → 挑选出来的 → 精英。想象一场大型选秀比赛，从成千上万的参赛者中**挑选出**最优秀的几个人，他们就是 elite。从拉丁语 *eligere* 到现代英语 elite，跨越两千年的"选拔"意象从未改变——精英就是被选中的人。
@@ -93,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[masses]]：大众/平民（elite 的精确反义：精英 ↔ 大众）
 > - [[rank and file]]：普通成员/基层（精英 ↔ 基层）
 > - [[mediocrity]]：平庸之辈（精英 ↔ 平庸者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the intellectual elite**：知识精英
 > - **the political/social elite**：政治/社会精英
 > - **elite education/university**：精英教育/顶尖大学
@@ -135,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "the intellectual elite"（知识精英）——考研阅读常见搭配，描述知识分子群体
 > - "elite education"（精英教育）——教育类阅读高频话题
 > - "the power elite"（权力精英）——社会学、政治学类阅读，源自 C. Wright Mills 的经典概念
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

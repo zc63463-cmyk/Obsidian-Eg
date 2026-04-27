@@ -3,17 +3,14 @@ title: "mostly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 最大程度地
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈməʊstli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: most
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**最大程度地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **最大程度地**（程度层面）
@@ -65,7 +62,7 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 一杯咖啡**最大程度**（most）上是由水组成的——它**主要地**（-ly）是水，但那一小勺咖啡豆才是灵魂。
@@ -88,7 +85,7 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[partly]]：部分地（大部分→部分）
 > - [[rarely]]：很少地（通常→很少）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mostly due to**：主要是由于
 >   The economic growth was mostly due to technological innovation.（经济增长主要是由于技术创新。）
 > - **mostly about**：主要是关于
@@ -127,22 +124,14 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The students in the program are mostly from developing countries in Asia and Africa."（该项目中的学生主要来自亚洲和非洲的发展中国家。）——考研高频表达
 > - "The decline in the population of the species is mostly due to habitat loss and illegal hunting."（该物种种群数量的下降主要是由于栖息地丧失和非法狩猎。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

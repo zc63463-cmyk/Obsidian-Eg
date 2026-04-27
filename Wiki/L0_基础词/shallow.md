@@ -3,14 +3,12 @@ title: "shallow"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 浅（深度不够）
-extension_dim: 物理→思维→情感
+extension_dim: [物理→思维→情感]
 phonetic: "/ˈʃæləʊ/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**浅（深度不够）**"为统筹中心，沿物理→思维→情感向外扩展：
 >
 > 1. **浅**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shallow 的画面是一条你可以蹚过去的浅河——shallow water。后来人们发现"浅"不只形容水：一个只看表面的人叫 a shallow person（浅薄的人），一段不深入的感情叫 a shallow relationship（肤浅的关系），急促的呼吸叫 shallow breathing（浅呼吸）。shallow 就是"深度不够"的代名词。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deep]]：深的（shallow 的精确反义：浅↔深）
 > - [[profound]]：深刻的（shallow 的反义：浅薄↔深刻）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shallow water/river**：浅水/浅河
 > - **a shallow thinker**：浅薄的思想者
 > - **shallow breathing**：浅呼吸
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They waded the river at a shallow point."（他们在水浅处蹚过河。——有道词典双语例句）
 > - "He's a shallow, disagreeable man."（他是个浅薄、不友好的人。——有道词典双语例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

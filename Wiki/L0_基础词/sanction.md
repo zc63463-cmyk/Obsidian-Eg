@@ -3,17 +3,14 @@ title: "sanction"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 使之神圣的法令（通过神圣化使法律具有约束力）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsæŋkʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: sanc
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使之神圣的法令**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使之神圣的法令（法律层面）**
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sanction 来自拉丁语 sanctio（神圣法令），与 sacred（神圣的）同源。古罗马的神圣法令有两面：遵守它就获得"批准"（approval），违反它就受到"制裁"（penalty）。这就是为什么 sanction 既是"批准"又是"制裁"——它是法律这枚硬币的两面。国际关系中，一国对另一国实施 trade sanctions（贸易制裁），就是用经济手段惩罚对方。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - sanction 本身就是"批准"和"制裁"的反义合一
 > - [[prohibition]]：禁止（与 sanction 的"批准"义相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **economic/trade sanctions**：经济/贸易制裁
 > - **impose/lift sanctions**：实施/解除制裁
 > - **give sanction to**：批准……
@@ -128,19 +125,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models."（与法国的做法不同，丹麦时尚行业上个月就模特的年龄、健康状况和其他特征达成了一致的规则和制裁措施。——2016年考研英语阅读Text 1）
 > - "Trade sanctions were imposed against any country that refused to sign the agreement."（凡拒签该协议的国家均受到贸易制裁——考研阅读国际政治话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "handle"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用手触摸/操作
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈhændl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用手触摸/操作**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **用手触摸/操作**（物理层面）
@@ -71,7 +69,7 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > handle 是 hand（手）的动词形式。handle a problem（处理问题）就是"用手去操作"问题。handle a crisis（应对危机）就是"用手去控制"危机。handle with care（小心轻放）——字面意思就是"用手操作时要小心"。作名词时，handle 是"把手"——door handle（门把手）就是手握的部分。get a handle on something（掌握要领）就是"抓住把手"。
@@ -94,7 +92,7 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignore]]：忽视（handle "处理"的反义：处理↔忽视）
 > - [[drop]]：掉落（handle "拿"的反义：握住↔掉落）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **handle a problem/crisis/situation**：处理问题/危机/情况
 > - **handle with care**：小心轻放
 > - **get a handle on**：掌握……的要领
@@ -138,19 +136,15 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government must handle the economic crisis with both determination and flexibility."（政府必须以坚定和灵活的态度来应对经济危机。——考研英语真题高频话题，讨论经济治理）
 > - "She proved herself capable of handling the most challenging projects in the department."（她证明了自己有能力处理部门中最具挑战性的项目。——考研相关语料，讨论职场能力）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

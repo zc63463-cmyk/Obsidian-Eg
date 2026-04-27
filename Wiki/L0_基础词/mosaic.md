@@ -3,14 +3,12 @@ title: "mosaic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 由碎片拼成的图案（用小石块/玻璃拼成的画面）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/moʊˈzeɪɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**由碎片拼成的图案**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **由碎片拼成的图案**（艺术层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mosaic 源自希腊语"缪斯的艺术"。古希腊人用彩色小石块和玻璃碎片拼成美丽的画面——这就是 mosaic（马赛克/镶嵌画）。每一块碎片单独看很普通，但拼在一起就成了艺术品。现代社会也是 mosaic——不同种族、文化、语言拼在一起，构成丰富多彩的社会画卷。mosaic 就是"碎片拼成的美"。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - mosaic 本身为"多样性拼合"概念，无精确反义词
 > - 相关对比：[[monolith]]（单一巨石，与 mosaic 的多样性拼合相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a mosaic of cultures**：多元文化的拼合
 > - **a mosaic of traditions**：多种传统的交织
 > - **mosaic floor/tiles**：马赛克地板/瓷砖
@@ -128,20 +126,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "America is a cultural mosaic of different ethnicities and traditions."（美国是一个由不同种族和传统构成的文化马赛克——考研写作可用）
 > - "The ancient Roman mosaics depict scenes from mythology."（古罗马马赛克镶嵌画描绘了神话场景）
 > - "The country's population is a mosaic of diverse linguistic groups."（该国人口由多种语言群体拼合而成）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

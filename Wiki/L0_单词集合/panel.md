@@ -3,14 +3,12 @@ title: "panel"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 小块→面板→专家组
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈpænl/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小块→面板→专家组**"为统筹中心，沿实体→抽象路径向外扩展：
 >
 > 1. **小块**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > panel 来自古法语 *panel*（小块布/小块板）。想象一块小小的木板，装在门上就是"门面板"（door panel），装在屋顶上就是"太阳能板"（solar panel），装在仪器上就是"控制面板"（control panel）。而一群专家坐在这样的面板后面开会讨论，就组成了"专家小组"（a panel of experts）。记住 panel = 小块板→面板→专家组。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - panel（专家小组）自身无精确反义词
 > - panel discussion（小组讨论）↔ individual decision（个人决策）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a panel of experts**：专家组
 > - **panel discussion**：小组讨论，专题讨论
 > - **solar panel**：太阳能电池板
@@ -137,7 +135,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A panel of experts was convened to discuss the issue."（召集了一个专家组来讨论这个问题）——学术/商业话题
 > - "The conference featured a panel discussion on climate change."（会议设有一个关于气候变化的小组讨论）——会议话题
 > - "Solar panels are installed on the roof to generate electricity."（屋顶上安装了太阳能板来发电）——科技/环保话题
@@ -146,15 +144,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

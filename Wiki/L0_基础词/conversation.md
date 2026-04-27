@@ -3,14 +3,12 @@ title: "conversation"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 共同转向（转向彼此交流）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌkɒnvəˈseɪʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**共同转向彼此**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **共同转向彼此**（物理层面）
@@ -64,7 +62,7 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（共同）+ vers（转，[[ver-vert]]）+ ation → 共同转向彼此 → 交谈。两个人在走廊里相遇，"转向"彼此开始聊天——这就是 conversation。conversation 的精髓是"双向"——两个人都"转向"对方，你来我往。和 [[lecture]]（一个人对所有人"转"）不同，conversation 是双向的"转"。
@@ -86,7 +84,7 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[silence]]：沉默（conversation 的反义：交谈↔沉默）
 > - [[monologue]]：独白（conversation 的反义：双向交流↔单向独白）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have a conversation with**：与……交谈
 > - **conversation about**：关于……的交谈
 > - **make conversation**：闲聊，攀谈
@@ -126,19 +124,15 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The art of conversation is becoming increasingly rare in the age of social media."（在社交媒体时代，交谈的艺术正变得越来越罕见）
 > - "They had a lengthy conversation about the future of the company."（他们就公司的未来进行了长时间的交谈）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

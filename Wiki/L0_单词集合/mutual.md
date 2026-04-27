@@ -3,17 +3,14 @@ title: "mutual"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 交换的，相互的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmjuːtʃuəl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: mut
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ mut-（=mutare，交换，改变，来自拉丁语 *mutare*，to change/exchange
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**交换的，相互的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **交换的，相互的**（互动层面）
@@ -65,7 +62,7 @@ mut-（=mutare，交换，改变，来自拉丁语 *mutare*，to change/exchange
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ mut-（=mutare，交换，改变，来自拉丁语 *mutare*，to change/exchange
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > mutual 来自拉丁语 *mutuus*（交换的，借出的），词根是 *mutare*（改变，交换）。想象两个人面对面站着，你伸出手，对方也伸出手——你们的握手就是一种"交换"，一种 mutual respect（相互尊重）。再想象你和好友都有一个共同认识的人——那个人就是你们的 mutual friend（共同朋友），因为友谊在你们之间"交换"流通。mutual 的本质就是"你来我往"。
@@ -89,7 +86,7 @@ mut-（=mutare，交换，改变，来自拉丁语 *mutare*，to change/exchange
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ mut-（=mutare，交换，改变，来自拉丁语 *mutare*，to change/exchange
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[one-sided]]：单方面的（相互的↔单方面的）
 > - [[unilateral]]：单边的（双向的↔单边的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ mut-（=mutare，交换，改变，来自拉丁语 *mutare*，to change/exchange
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mutual respect**：相互尊重（Mutual respect is essential for a healthy relationship.）
 > - **mutual benefit**：互利（The agreement is of mutual benefit to both parties.）
 > - **mutual understanding**：相互理解（They reached a mutual understanding on the issue.）
@@ -127,21 +124,15 @@ mut-（=mutare，交换，改变，来自拉丁语 *mutare*，to change/exchange
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The agreement is of mutual benefit to both parties involved."（该协议对双方都有利。）——考研高频表达
 > - "Mutual respect is essential for maintaining a healthy relationship between nations."（相互尊重对于维持国家间的健康关系至关重要。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "corporate"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 组成一个团体的，共同的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɔːpərət/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ corpor(体/团体) + -ate(形容词后缀，"…的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**组成一个团体的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **组成一个团体的**（本义：形成一个"身体/整体"的）
@@ -67,7 +65,7 @@ corpor(体/团体) + -ate(形容词后缀，"…的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ corpor(体/团体) + -ate(形容词后缀，"…的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > corporate 和 [[corporation]] 同源——都来自拉丁语 corpus（身体）。古罗马人把"公司"想象成一个"身体"：每个员工是肢体，CEO 是大脑，共同组成一个有机整体。所以 corporate 既指"公司的"，也指"共同的"。
@@ -89,7 +87,7 @@ corpor(体/团体) + -ate(形容词后缀，"…的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ corpor(体/团体) + -ate(形容词后缀，"…的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[individual]]：个人的（与"共同的"形成对立）
 > - [[personal]]：私人的（与"公司的/法人的"形成对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,28 +118,22 @@ corpor(体/团体) + -ate(形容词后缀，"…的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **corporate culture**：The company is trying to build a strong corporate culture.（公司正在努力建立强大的企业文化。）
 > - **corporate responsibility**：Corporate social responsibility is increasingly important.（企业社会责任日益重要。）
 > - **corporate image**：The scandal damaged the corporate image.（丑闻损害了企业形象。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "Corporate executives are under increasing pressure to improve their companies' environmental performance."（企业高管面临着越来越大的压力，需要改善公司的环境表现。）——考研阅读真题
 > - "Corporate culture plays a vital role in determining employee satisfaction."（企业文化在决定员工满意度方面发挥着至关重要的作用。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

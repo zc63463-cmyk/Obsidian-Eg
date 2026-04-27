@@ -3,14 +3,12 @@ title: "blush"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 脸红，因害羞而脸红
-extension_dim: 羞愧情感
+extension_dim: [羞愧情感]
 phonetic: "/blʌʃ/"
 pos: vi.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**脸红/羞愧**"为统筹中心，沿羞愧情感向外扩展：
 >
 > 1. **脸红**（生理层面）
@@ -69,7 +67,7 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > blush 的核心是"脸红"。想象你被当众夸奖时脸上泛起红晕——那就是 blush。blush 和 blood（血）有关——脸红就是血液涌上脸颊。blush at the compliment = 因被夸奖而脸红。blush with shame = 羞愧得脸红。at first blush = 乍一看（第一眼的"脸红"→ 第一印象）。blush pink = 腮红粉（脸红的颜色）。blush 强调因情感引起的脸红，与 [[flush]]（因热/运动/愤怒而脸红）不同。
@@ -92,7 +90,7 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[pale]]：苍白（blush 脸红的反义：脸红↔苍白）
 > - [[blanch]]：变白（blush 的反义：变红↔变白）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **blush at**：因……而脸红
 > - **blush with shame/embarrassment**：羞愧/尴尬得脸红
 > - **at first blush**：乍一看，第一印象
@@ -132,19 +130,15 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "At first blush, the proposal seemed reasonable, but closer examination revealed several flaws."（乍一看，这个提案似乎合理，但仔细检查后发现了几个缺陷。——考研英语阅读逻辑分析类话题，at first blush 高频表达）
 > - "She blushed deeply when the professor praised her research paper in front of the class."（当教授在全班面前表扬她的研究论文时，她脸红得很厉害。——考研英语阅读校园类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

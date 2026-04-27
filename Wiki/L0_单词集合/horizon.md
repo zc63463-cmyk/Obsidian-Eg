@@ -3,14 +3,12 @@ title: "horizon"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 地平线
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/həˈraɪzn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ horizon 源自希腊语 horizōn（kyklos），意为"界定圆"，horizōn 意�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**地平线**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **地平线**（物理空间层面——天与地的交界线）
@@ -67,7 +65,7 @@ horizon 源自希腊语 horizōn（kyklos），意为"界定圆"，horizōn 意�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ horizon 源自希腊语 horizōn（kyklos），意为"界定圆"，horizōn 意�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊人站在海边，看到天与海相接的那条线，称之为 horizōn——"界定"你视线的边界。后来 horizon 从"地平线"引申为"眼界"，因为你的眼界就是你认知的地平线。
@@ -89,7 +87,7 @@ horizon 源自希腊语 horizōn（kyklos），意为"界定圆"，horizōn 意�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ horizon 源自希腊语 horizōn（kyklos），意为"界定圆"，horizōn 意�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - horizon 作为"眼界"的反义概念：[[narrow-mindedness]]（心胸狭窄）
 > - horizon 作为"范围"的反义概念：[[limitlessness]]（无界限）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,27 +117,21 @@ horizon 源自希腊语 horizōn（kyklos），意为"界定圆"，horizōn 意�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **broaden/widen one's horizons**：拓宽眼界
 > - **on the horizon**：即将来临的，在地平线上
 > - **over the horizon**：即将发生
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "According to the new school of scientists, technology is an overlooked force in expanding the horizons of scientific knowledge."（新学派科学家们认为，在拓展科学知识的范围方面，技术是一种被忽视的力量。）——1994年翻译
 > - "She wanted to travel to broaden her horizons."（她想旅行，以开阔眼界。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

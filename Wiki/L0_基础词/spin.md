@@ -3,14 +3,12 @@ title: "spin"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 快速旋转，像陀螺一样转动
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/spɪn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**快速旋转/纺纱**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **纺纱旋转**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spin 的核心画面是"纺车旋转，棉线被纺出来"。古英语 *spinnan* = 纺纱。纺纱时纺锤快速旋转，纤维被拉伸成线——这就是 spin。后来从"纺纱"引申出"旋转"（the spinner spins），再引申出"编造故事"（spin a yarn = 编故事，yarn 原义是纱线），以及"政治宣传"（spin doctor = 政治公关专家，专门给新闻"加旋转"）。My head is spinning（我头晕目眩）——头在"旋转"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[halt]]：停止（spin 的反义：旋转↔停止）
 > - [[still]]：静止的（spin 的反义：旋转↔静止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spin a story / tale / yarn**：编造故事
 > - **spin out**：拖延，拉长
 > - **spin off**：派生出，分离出
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Politicians often hire spin doctors to put a favorable interpretation on unfavorable events, thereby shaping public perception to their advantage."（政治家经常雇佣公关专家对不利事件进行有利的解读，从而按照自己的优势塑造公众认知——考研阅读政治话题相关表达）
 > - "The discovery that the Earth spins on its axis once every 24 hours revolutionized our understanding of the cosmos."（地球每24小时自转一周的发现彻底改变了我们对宇宙的理解——考研翻译科学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

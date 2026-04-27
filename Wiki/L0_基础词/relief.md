@@ -3,14 +3,12 @@ title: "relief"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 减轻、缓解（从痛苦或重负中解脱出来的状态）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/rɪˈliːf/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**减轻、缓解**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **减轻、缓解**（身体层面）
@@ -68,7 +66,7 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（回）+ lief（轻）→ relief。你背了一整天重包，终于放下来——what a relief！考试结束，你 breathe a sigh of relief（如释重负地松了口气）。地震后，relief supplies（救济物资）运到，灾民的负担变"轻"了。
@@ -90,7 +88,7 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distress]]：痛苦，贫困（relief 的精确反义：减轻↔痛苦）
 > - [[hardship]]：困难，艰辛（relief 的反义：救济↔困难）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **to one's relief**：使某人宽慰的是
 > - **breathe a sigh of relief**：如释重负地松了口气
 > - **relief supplies/agency**：救济物资/救援机构
@@ -132,19 +130,15 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "To the anxious travelers the sight of the American shore brought almost inexpressible relief."（对于焦急的旅行者来说，看到美国海岸几乎让他们感到难以言喻的宽慰。——2015年考研翻译）
 > - "Some have breathed sighs of relief, others, including churches, right-to-life groups and the Australian Medical Association, bitterly attacked the bill."（有些人松了一口气，而另一些人，包括教会、生命权利组织和澳大利亚医学协会，则猛烈抨击了这项法案。——考研阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

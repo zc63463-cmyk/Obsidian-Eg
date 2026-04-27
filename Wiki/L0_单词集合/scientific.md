@@ -3,14 +3,12 @@ title: "scientific"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 与知识/科学有关的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌsaɪənˈtɪfɪk/"
 pos: adj.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与知识/科学有关的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与科学有关的**（领域层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scientific = science（科学）+ -fic（产生...的）。"产生知识的方式"就是"科学的"。科学讲究什么？讲究系统、精确、客观。所以 scientific 不只是"科学的"，还可以形容一个人做事"有条理的、一丝不苟的"。记住：scientific = 科学的方法 → 系统、精确、客观。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unscientific]]：不科学的（scientific 的直接反义）
 > - [[empirical]]：经验主义的（在特定哲学语境中与严格的 scientific method 相对）
 > - [[intuitive]]：直觉的（scientific 的反义：科学方法↔直觉判断）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **scientific research**：科学研究
 > - **scientific method**：科学方法
 > - **scientific discovery**：科学发现
@@ -137,7 +135,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "scientific research"（科学研究）——考研阅读极高频搭配，学术类话题
 > - "scientific evidence"（科学证据）——考研阅读中法律/医学/环保类话题
 > - "the scientific community"（科学界）——考研翻译/阅读中描述学术群体
@@ -145,15 +143,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

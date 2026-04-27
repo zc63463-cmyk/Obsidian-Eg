@@ -3,14 +3,12 @@ title: "characterise"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 用标记来表示
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkærəktəraɪz/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用标记来表示**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **用标记来表示**（主动层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > characterise = character（特征/刻印）+ -ise（使动）→ 给某物**刻上**特征。想象你是一位考古学家，发现了一种新陶器，你仔细观察后 characterise 它 为"具有独特的几何纹饰"——你给这件陶器**刻上了**学术标记。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[misrepresent]]：歪曲描述（characterise 的精确反义：准确描述↔歪曲描述）
 > - [[distort]]：扭曲（描述的对立面）
 > - [[conceal]]：隐藏（描述/揭示的对立面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,29 +120,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be characterised by**：以……为特征
 > - **characterise sb./sth. as**：将某人/某物描述为……
 > - **characterise an era**：描述一个时代的特征
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "characterized by rapid change"（以快速变化为特征）——考研阅读/翻译高频搭配
 > - "characterize the period as..."（将这一时期描述为……）——学术类阅读常见搭配
 > - "a society characterized by diversity"（一个以多样性为特征的社会）——社科类写作常用表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

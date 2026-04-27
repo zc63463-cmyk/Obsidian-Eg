@@ -3,14 +3,12 @@ title: "education"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 将人的潜能引导出来的过程
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌedʒuˈkeɪʃn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**将人的潜能引导出来的过程**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **将人的潜能引导出来的过程**（具体层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > education 的词根故事和 educate 一脉相承：e-（向外）+ duc（引导）+ -ation（过程）。想象一位园丁精心培育一棵树苗——不是强行把它拉高，而是引导它向着阳光生长。education 就是这个过程：不是灌输知识，而是引导每个人内在的潜能自然生长。从小学到大学，从家庭教育到社会教育，都是同一个"引导"的动作。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignorance]]：无知（education"教育"的精确反义：教育↔无知）
 > - [[illiteracy]]：文盲（education"扫盲教育"的反义）
 > - [[neglect]]：忽视（education"培养关注"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **higher education**：高等教育
 > - **education system**：教育体制
 > - **receive an education**：接受教育
@@ -135,22 +133,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Higher education has become increasingly accessible in recent decades."（近几十年来高等教育变得越来越普及）——教育类阅读高频话题
 > - "the quality of education"（教育质量）——教育政策类文本
 > - "Education is not the filling of a pail, but the lighting of a fire."（教育不是灌满一桶水，而是点燃一把火）——名言引用，呼应 educate 的词源"引导"
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

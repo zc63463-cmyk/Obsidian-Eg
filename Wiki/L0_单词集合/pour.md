@@ -3,14 +3,12 @@ title: "pour"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 倒出→倾注/涌入
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/pɔː(r)/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使液体流出**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使液体流出**（物理动作层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你 **pour**（倒）一杯热茶，茶水从壶嘴**流出**。暴雨时天空 **pour**（倾泻）雨水，投资人 **pour**（倾注）资金到热门项目——pour 就是"大量流动"。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drain]]：drain 是"排出/耗尽"，pour 是"倒入/倾注"
 > - [[drip]]：drip 是"滴落"（少量），pour 是"倾倒"（大量）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pour money/effort into**：投入大量金钱/精力
 > - **pour cold water on**：泼冷水
 > - **pour rain**：倾盆大雨（it's pouring rain）
@@ -134,21 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government has poured billions of dollars into infrastructure development."（政府已向基础设施建设投入了数十亿美元。）——考研高频表达
 > - "Criticism has poured in from all sides since the policy was announced."（自政策宣布以来，来自各方的批评如潮水般涌来。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

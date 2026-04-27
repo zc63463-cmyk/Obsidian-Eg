@@ -3,14 +3,12 @@ title: "arena"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 撒满沙子的竞技场地
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈriːnə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**撒满沙子的竞技场地**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **撒满沙子的竞技场地**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马斗兽场中央铺满了黄沙（arena 在拉丁语中就是"沙子"的意思）——角斗士在这里与野兽搏斗，鲜血被沙子吸收。今天，政治家在 political arena 中搏斗，企业在 international arena 中竞争，都是现代版的"角斗场"。记住：arena = 沙地 = 角斗场 = 竞争舞台。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sanctuary]]：避难所，圣殿（arena 的反义：角斗场↔避难所）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **political arena**：政治舞台
 > - **international arena**：国际舞台
 > - **enter the arena**：进入竞技场/参战
@@ -126,20 +124,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "After 30 years in the political arena, our local member of parliament is retiring next year."（我们当地选出的这位下议院议员已经在政治舞台上活跃了30年，明年他就要退休了。）——考研高频表达
 > - "Women are entering the political arena in greater numbers than ever before."（女性正以前所未有的数量进入政治舞台。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

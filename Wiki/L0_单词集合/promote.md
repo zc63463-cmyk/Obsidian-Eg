@@ -3,14 +3,12 @@ title: "promote"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 向前移动
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/prəˈməʊt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pro-(向前) + mote(移动) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前移动**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向前移动**（物理移动）
@@ -67,7 +65,7 @@ pro-(向前) + mote(移动) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ pro-(向前) + mote(移动) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（向前）+ mote（移动）→ 向前移动。想象一个推手在背后轻轻推了你一把，让你从普通员工走上了经理的位置——这就是promote。
@@ -91,7 +89,7 @@ pro-(向前) + mote(移动) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ pro-(向前) + mote(移动) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hinder]]：hinder表示"阻碍"，与promote"促进"直接对立
 > - [[demote]]：demote表示"降级"，与promote"晋升"直接对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pro-(向前) + mote(移动) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **promote economic growth**：促进经济增长
   > The government has taken measures to promote economic growth.（政府已采取措施促进经济增长。）
 > - **be promoted to**：被晋升为……
@@ -133,19 +131,15 @@ pro-(向前) + mote(移动) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women."（下次有人把公司配额作为促进性别平等的一种方式来推行时，请记住，这些政策基本上是自私自利的措施，让赞助者感觉良好，但对普通女性几乎没有帮助——2020年考研英语一阅读）
 > - "The parliament also agreed to ban websites that incite excessive thinness by promoting extreme dieting."（议会还同意禁止通过宣传极端节食来煽动过度消瘦的网站——2016年考研Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

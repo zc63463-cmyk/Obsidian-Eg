@@ -3,17 +3,14 @@ title: "petrol"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 石油提炼的燃料（从岩石中提取的矿物油，经提炼后用作发动机燃料）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈpetrəl/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: petro
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从岩石中提取的燃料**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **从岩石中提取的燃料**（物质层面）
@@ -64,7 +61,7 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > petr（石头）+ -ol（油）→ 从石头里来的油 → 汽油。石油埋在地下岩石层中，钻探出来就是 petroleum（石油），提炼后就是 petrol（汽油）。美式英语用 gasoline，英式用 petrol。
@@ -86,7 +83,7 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（petrol 为物质名词，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +111,7 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the cost of petrol**：汽油成本
 > - **petrol station**：加油站
 > - **petrol price**：汽油价格
@@ -122,19 +119,15 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is all very well to blame traffic jams, the cost of **petrol** and the quick pace of modern life, but manners on the roads are becoming horrible."（把交通堵塞、汽油成本和现代生活的快节奏归咎于一切固然容易，但道路上的礼仪正在变得可怕。——考研英语真题）
 > - "The mounting cost of **petrol** and the increased license fees and road tax all add to the driver's worries."（不断上涨的汽油成本以及增加的驾照费和道路税都加剧了司机的担忧。——考研英语真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

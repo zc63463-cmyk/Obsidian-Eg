@@ -3,14 +3,12 @@ title: "available"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 可获得的，可使用的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈveɪləbl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ a-(朝向) + val(价值，力量) + -able(可以被...的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可获得的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可获得的**（资源/物品层面）
@@ -64,7 +62,7 @@ a-(朝向) + val(价值，力量) + -able(可以被...的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ a-(朝向) + val(价值，力量) + -able(可以被...的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你走进超市，货架上标着"available"的商品都是你可以拿到手的——有价值的(val)东西朝你而来(a-)，就是可用的。
@@ -87,7 +85,7 @@ a-(朝向) + val(价值，力量) + -able(可以被...的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ a-(朝向) + val(价值，力量) + -able(可以被...的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unavailable]]：不可获得的，无法使用的
 > - [[scarce]]：稀缺的（强调数量少而非不可用）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,28 +114,22 @@ a-(朝向) + val(价值，力量) + -able(可以被...的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be available for**：The data is available for public review.（这些数据可供公众查阅。）
 > - **be available to**：Resources should be available to all students.（资源应当对所有学生开放。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The data is readily available for public review and analysis."（这些数据可供公众查阅和分析。）——考研高频表达
 > - "Resources should be made available to all students regardless of their economic background."（资源应当向所有学生开放，不论其经济背景如何。）——考研高频表达
 > - "The only information available was incomplete and unreliable."（唯一可获取的信息是不完整且不可靠的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

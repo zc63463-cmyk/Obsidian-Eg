@@ -3,14 +3,12 @@ title: "aggressive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 朝对方走去、发起攻击
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈɡresɪv/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**朝对方走去、发起攻击**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **朝对方走去**（物理攻击层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > aggressive = ag（朝向）+ gress（走）+ ive（倾向）→ 朝你走过来 → 攻击性的。想象一个人**一步步朝你逼近**——在战场上这是"侵略"，在商场上这是"进取"，在医院里这是"恶性"。记住 gress = 走，aggressive 就是"朝前走逼近"。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,7 +104,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[timid]]：胆怯的（aggressive 的精确反义：咄咄逼人↔畏缩胆怯）
 > - [[passive]]：被动的、消极的（不主动出击）
 > - [[gentle]]：温和的（行为方式对比）
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **aggressive behavior**：攻击性行为 / 好斗行为
 > - **aggressive campaign / strategy / tactics**：积极的/强势的竞选/策略/战术
 > - **aggressive cancer / disease**：恶性癌症/疾病
@@ -138,7 +136,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Those who take risks they regret later on are usually very aggressive."（那些事后后悔冒险的人通常非常好斗）——2011年12月六级阅读
 > - "They are aggressive."（他们具有攻击性）——2016年6月阅读原文
 > - "Far from the traditional image of a culture of aggressive masculinity..."（远非传统上充满攻击性阳刚之气的文化形象）——阅读真题，性别话题
@@ -146,15 +144,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

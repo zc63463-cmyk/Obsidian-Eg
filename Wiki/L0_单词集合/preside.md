@@ -3,14 +3,12 @@ title: "preside"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 坐在前面
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/prɪˈzaɪd/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pre-(在……前面) + sid(坐) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坐在前面**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **坐在前面**（物理方位）
@@ -64,7 +62,7 @@ pre-(在……前面) + sid(坐) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ pre-(在……前面) + sid(坐) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre（前面）+ side（边/坐）→ 坐在最前面的人，就是会议的主持者，掌控全局。
@@ -88,7 +86,7 @@ pre-(在……前面) + sid(坐) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ pre-(在……前面) + sid(坐) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[attend]]：attend表示"出席、参加"，与preside的"主持"形成参与者与主导者的对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ pre-(在……前面) + sid(坐) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **preside over a meeting**：主持会议
   > She presided over the board meeting.（她主持了董事会会议。）
 > - **preside over sth.**：掌管/负责某事
@@ -127,20 +125,14 @@ pre-(在……前面) + sid(坐) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "What is harder to establish is whether the productivity revolution that businessmen assume they are presiding over is for real."（商人们自认为的他们所领导的生产力革命是否确有其事，这一点更加难以确定。）——1998年阅读Text2
 > - "The judge will preside over the trial."（法官将主持这次审判。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,17 +3,14 @@ title: "billion"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 十亿
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈbɪljən/"
 pos: n./num.
-metaphor_type: 无隐喻
 word_root: llion
 network_activation: [词根, 同义辨析]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ bi-(=二，双) + -llion(大数后缀，来自 million)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**十亿**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **十亿**（精确数字层面）
@@ -63,7 +60,7 @@ bi-(=二，双) + -llion(大数后缀，来自 million)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ bi-(=二，双) + -llion(大数后缀，来自 million)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自法语 *billion*，最初在法国（1690年代）指 10^12（万亿），后来英国改为 10^9（十亿），最终全球统一为美式用法 10^9。bi-（二）+ million = million 的二次方 = 10^6 x 10^3 = 10^9。记忆线索：bi（双）+ million = 双倍百万级 = 十亿。
@@ -86,7 +83,7 @@ bi-(=二，双) + -llion(大数后缀，来自 million)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ bi-(=二，双) + -llion(大数后缀，来自 million)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（数字名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,29 +110,23 @@ bi-(=二，双) + -llion(大数后缀，来自 million)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **billions of**：数十亿的……
 > - **a billion dollars**：十亿美元
 > - **net worth of billions**：数十亿的净资产
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The world's population has surpassed **eight billion**.（世界人口已超过80亿。）
 > - The company is valued at over **two billion** dollars.（这家公司的估值超过20亿美元。）
 > - **Billions** of dollars are spent on healthcare each year.（每年有数十亿美元用于医疗保健。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

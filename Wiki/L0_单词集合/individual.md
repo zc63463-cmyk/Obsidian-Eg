@@ -3,14 +3,12 @@ title: "individual"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 不可再分的（个体）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˌɪndɪˈvɪdʒuəl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不可再分的单位**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不可再分的单位**（物理层面）
@@ -68,7 +66,7 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ divid（分）+ ual → 不能再分的 → 个体/个人。
@@ -90,7 +88,7 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[collective]]：集体的 ↔ individual 个人的
 > - [[group]]：群体 ↔ individual 个体
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **individual rights**：个人权利（The constitution protects individual rights. 宪法保护个人权利。）
 > - **individual differences**：个体差异（Teachers should take individual differences into account. 教师应考虑个体差异。）
 > - **individual freedom**：个人自由（Individual freedom must be balanced with social responsibility. 个人自由必须与社会责任相平衡。）
@@ -129,22 +127,16 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It tells the fashion industry that it must take responsibility for the signal it sends women about the social tape-measure they must use to determine their individual worth."（这一措施还向时尚行业表明，时尚行业应对其向女性所发出的信号负责，这些信号是关于上述人群用于决定自身价值的社会衡量标准。）——2016考研英语阅读
 > - "The rights of the individual must be balanced against the interests of the community."（个人权利必须与社区利益相平衡。）——考研高频表达
 > - "Each individual has a unique set of skills and experiences to contribute."（每个人都有独特的技能和经验可以贡献。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

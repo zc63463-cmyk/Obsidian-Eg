@@ -3,14 +3,12 @@ title: "jet"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 喷气式飞机；喷射
-extension_dim: 动作路径
+extension_dim: [动作路径]
 phonetic: "/dʒet/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ jet 有两个不同来源：
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**喷射**"为统筹中心，沿动作路径向外扩展：
 >
 > 1. **喷射**（物理动作）
@@ -71,7 +69,7 @@ jet 有两个不同来源：
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ jet 有两个不同来源：
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > jet 源自拉丁语 jactare "投掷"，与 [[ject]]（投掷）同源。ject = 投掷 → jet = 喷射。jet engine = 喷气发动机。jet lag = 时差（jet + lag 延迟）。jet off = 乘飞机飞速离开。jet black = 乌黑的（来自另一个词源"黑玉"，但语义上融合了）。注意 jet 有两个词源："喷射"（拉丁语 jactare）和"黑玉"（希腊语 gagates）。
@@ -94,7 +92,7 @@ jet 有两个不同来源：
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,12 +104,12 @@ jet 有两个不同来源：
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - jet 本身为工具/动作词，无直接反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ jet 有两个不同来源：
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **jet lag**：时差——She suffered from jet lag after the long flight.
 > - **jet off**：乘飞机飞速离开——They jetted off to Hawaii for vacation.
 > - **jet engine**：喷气发动机——The jet engine revolutionized air travel.
@@ -132,19 +130,15 @@ jet 有两个不同来源：
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The invention of the jet engine transformed modern air travel."（喷气发动机的发明改变了现代航空旅行——jet engine 为考研阅读常见话题）
 > - "Business executives often suffer from jet lag when traveling across time zones."（商务高管在跨时区旅行时经常遭受时差之苦——jet lag 为考研写作可用搭配）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

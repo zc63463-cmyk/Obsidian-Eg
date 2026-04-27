@@ -3,14 +3,12 @@ title: "rebellion"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 再次发动战争的行为（有组织的反叛行动）
-extension_dim: 对抗路径
+extension_dim: [对抗路径]
 phonetic: "/rɪˈbeljən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**再次发动战争的行为（有组织的反叛行动）**"为统筹中心，沿对抗路径向外扩展：
 >
 > 1. **有组织的反战行为**（行为层面）
@@ -66,7 +64,7 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rebellion 是 rebel 的名词形式，源自拉丁语 *rebellio*。想象一群被压迫的人民，终于团结起来，举起旗帜向暴君宣战——这就是 rebellion：re（反对）+ bel（战争）+ -ion（行为），"再次宣战的行为"。从法国大革命到美国独立战争，历史上每一次 rebellion 都是人类追求自由和公正的壮举。
@@ -94,7 +92,7 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[obedience]]：服从（rebellion 的精确反义：反叛↔服从）
 > - [[submission]]：屈服，顺从
 > - [[conformity]]：顺从，遵从
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an armed rebellion**：武装叛乱
 > - **suppress/crush a rebellion**：镇压叛乱
 > - **spark a rebellion**：引发叛乱
@@ -136,20 +134,16 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Yet even then reports of widespread youth rebellion were overdone: Most kids in the '60s and '70s shared their parents' basic values."（然而，即使在当时，关于广泛青年叛逆的报道也被夸大了：60年代和70年代的大多数孩子与他们的父母有着相同的基本价值观。——考研真题）
 > - "Even during the turbulent years of last century, youth rebellion was often exaggerated in the media."（即使在去年动荡的岁月中，青年叛逆也经常被媒体夸大。——考研真题相关）
 > - "The king's army suppressed the rebellion."（国王的军队镇压了叛乱。——Merriam-Webster）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

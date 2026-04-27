@@ -3,14 +3,12 @@ title: "peep"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 偷看（从缝隙中小心窥视）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/piːp/"
 pos: v.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**偷看（从缝隙中小心窥视）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **偷看**（视觉动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > peep 是拟声词，模仿小鸟"啾啾"的叫声。小鸟从鸟巢的缝隙中偷偷往外看——peep。你从门缝里偷看一眼——have a peep。太阳从云缝中隐约露出——The sun peeped through the clouds。peep 始终带着"小心翼翼、微微露出"的感觉。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stare]]：凝视（peep 的反义：小心翼翼地看↔大胆地盯着看）
 > - [[gaze]]：凝视（peep 的反义：偷偷看↔公开地注视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have a peep at**：偷看一眼
 > - **peep through**：从……中隐约露出
 > - **peep out**：探出头来
@@ -139,19 +137,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Stars peep through those dark clouds.（星星从那些乌云中隐约可见。——柯林斯词典）
 > - I got a quick peep at him through the crowd.（我从人群中匆匆瞥了他一眼。——剑桥语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "champagne"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 香槟酒（法国香槟地区产的起泡白葡萄酒）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ʃæmˈpeɪn/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ champagne 源自法语 *Champagne*，原为法国东北部地区名，该地区�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**香槟酒（法国香槟地区产的起泡酒）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **香槟酒**（饮品层面）
@@ -65,7 +63,7 @@ champagne 源自法语 *Champagne*，原为法国东北部地区名，该地区�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ champagne 源自法语 *Champagne*，原为法国东北部地区名，该地区�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > champagne 来自法国香槟地区（Champagne）。该地区出产的起泡酒太有名了，以至于 champagne 成了所有起泡庆祝酒的代名词。People always celebrate with champagne at important parties（人们总会在重要聚会上开香槟庆祝）。
@@ -88,7 +86,7 @@ champagne 源自法语 *Champagne*，原为法国东北部地区名，该地区�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ champagne 源自法语 *Champagne*，原为法国东北部地区名，该地区�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > （无明显反义词，champagne 作为特定饮品无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ champagne 源自法语 *Champagne*，原为法国东北部地区名，该地区�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **celebrate with champagne**：用香槟庆祝
 > - **pop the champagne**：开香槟
 > - **a bottle of champagne**：一瓶香槟
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People always celebrate with champagne at important parties."（人们总会在重要聚会上开香槟庆祝——考研词汇语境）
 > - "We had a nice meal with a bottle of champagne to celebrate the successful completion of the project."（我们享用了一顿美餐配一瓶香槟，庆祝项目圆满完成——考研写作可用表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "meanwhile"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 中间的那段时间
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈmiːnwaɪl/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**中间的那段时间**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **中间的那段时间**（副词层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > meanwhile = mean（中间）+ while（一段时间）= 中间的那段时间。和 meantime 是"双胞胎"，但 meanwhile 更"独立"——你可以直接用它开头句子："Meanwhile, the situation worsened."（与此同时，局势恶化了。）记住 meanwhile 的两个核心用法：一是"与此同时"描述并行事件，二是作为段落过渡词引入新视角。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[thereafter]]：此后，在那之后（时间方向相反：meanwhile 是"在……期间"，thereafter 是"在……之后"）
 > - [[afterward]]：后来，之后（时间方向的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,29 +123,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Meanwhile, ...**：与此同时，……（句首独立使用）
 > - **in the meanwhile**：在此期间（较少用，多用 in the meantime）
 > - **..., meanwhile, ...**：……与此同时，……（句中插入）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Meanwhile, the number of..."（与此同时，……的数量……）——考研阅读中极其常见的段落过渡句式，引入对比或补充信息
 > - "Meanwhile, critics argue that..."（与此同时，批评者认为……）——考研阅读中引入对立观点的典型句式
 > - "Meanwhile, in other parts of the world..."（与此同时，在世界其他地方……）——考研阅读中空间对比的过渡
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

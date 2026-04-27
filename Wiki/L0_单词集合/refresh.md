@@ -3,14 +3,12 @@ title: "refresh"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使重新变得新鲜
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/rɪˈfreʃ/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ re-(再次) + [[fresh|fresh]](新鲜的) → 使重新变得新鲜 → 恢复精
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使重新变得新鲜**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使重新变得新鲜**（物理层面：使恢复清凉、新鲜）
@@ -67,7 +65,7 @@ re-(再次) + [[fresh|fresh]](新鲜的) → 使重新变得新鲜 → 恢复精
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(再次) + [[fresh|fresh]](新鲜的) → 使重新变得新鲜 → 恢复精
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re-(再次) + fresh(新鲜的) → 喝杯凉水让疲惫的身体重新变得新鲜 = 恢复精力。
@@ -90,7 +88,7 @@ re-(再次) + [[fresh|fresh]](新鲜的) → 使重新变得新鲜 → 恢复精
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ re-(再次) + [[fresh|fresh]](新鲜的) → 使重新变得新鲜 → 恢复精
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[exhaust]]：使筋疲力尽（与 refresh 的"恢复精力"形成反义）
 > - [[weary]]：使疲倦（与 refresh 的"使精神焕发"形成反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,28 +118,22 @@ re-(再次) + [[fresh|fresh]](新鲜的) → 使重新变得新鲜 → 恢复精
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **refresh one's memory**：唤起某人的记忆
 > - **refresh oneself**：使自己恢复精力
 > - **refresh rate**：刷新率
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Workers tend to be diligent for the first few days of the week in any case, before hitting a plateau and then slackening off."（无论如何，工人们在一周的前几天往往比较勤奋，然后达到一个平台期，接着开始懈怠。）——2010考研英语一完形
 > - "Taking a short break can refresh your mind and improve productivity."（短暂的休息可以让你头脑清醒，提高工作效率。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

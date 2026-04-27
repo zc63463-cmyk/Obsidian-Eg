@@ -3,14 +3,12 @@ title: "dean"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 十人之长（领导十个人的首领）
-extension_dim: 十人长→修道院院长→院长→系主任
+extension_dim: [十人长→修道院院长→院长→系主任]
 phonetic: "/diːn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**十人之长（领导十个人的首领）**"为统筹中心，沿军事→宗教→学术→社会向外扩展：
 >
 > 1. **十人长**（军事层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马军队里，十个士兵一组，他们的长官叫 *decanus*（来自希腊语 *deka* 十）。后来修道院也用这个制度，十名修士的长老叫 dean。中世纪大学也沿用了这个称呼——学院里领导一群教授的人就是 dean（院长）。记住：dean 的核心是"领导者"——从十人长到大学院长，都是"一群人的头儿"。与 [[decade]]（十年）同源，都来自希腊语 *deka*（十）。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 暂无精确反义词（dean 为职位名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dean of the faculty**：学院院长
 > - **dean of students**：学生事务院长
 > - **dean of the cathedral**：大教堂教长
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The dean of the engineering faculty announced new admission requirements."（工程学院院长宣布了新的录取要求。——考研阅读教育类）
 > - "She is considered the dean of modern American journalism."（她被认为是现代美国新闻界的元老。——红宝书考研词汇例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

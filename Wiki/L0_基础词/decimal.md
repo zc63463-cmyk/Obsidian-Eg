@@ -3,17 +3,14 @@ title: "decimal"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 以十为基础的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdesɪml/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: decim
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**以十为基础的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **以十为基础的**（数学体系层面）
@@ -66,7 +63,7 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > decim（十）+ -al（...的）→ 以十为基础的 → 十进位的。人有十个手指头，所以人类发明了 decimal system（十进制）。小数（decimal）就是十分之几的数，比如 0.5 就是十分之五。
@@ -89,7 +86,7 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[binary]]：二进制的（decimal 的反义：十进制↔二进制）
 > - 本词为数学概念，无精确日常反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **decimal system**：十进制
 > - **decimal point**：小数点
 > - **decimal currency**：十进制货币
@@ -129,19 +126,15 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The first two figures after the decimal point indicate tenths and hundredths respectively."（小数点后的头两位数分别表示十分位和百分位。——考研翻译类常见表达）
 > - "Britain converted to a decimal currency system in 1971."（英国于1971年改用十进制货币体系。——考研文化类阅读常见话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

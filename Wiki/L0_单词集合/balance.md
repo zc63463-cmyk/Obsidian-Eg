@@ -3,14 +3,12 @@ title: "balance"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 两个盘子等重
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈbæləns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**两个盘子等重**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **两个盘子等重**（物理工具层面）
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > balance 来自拉丁语 bilanx"两个盘子"（bi=二，lanx=盘子）。想象正义女神手中的天平——左边放一个人的利益，右边放另一个人的利益，两端等重时就是 balance。从法庭到银行（收支平衡=余额），从生态到人生（工作与生活的平衡），balance 始终是那架"两端不偏不倚"的天平。
@@ -101,7 +99,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -114,14 +112,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[imbalance]]：不平衡，失衡（balance 的精确反义：平衡↔失衡）
 > - [[instability]]：不稳定（平衡状态的丧失）
 > - [[bias]]：偏见，偏差（天平一端偏重）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **strike/keep a balance**：取得/保持平衡
 > - **balance A and B**：平衡A和B（如 balance work and family）
 > - **lose one's balance**：失去平衡
@@ -145,22 +143,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "strike a balance between A and B"（在A和B之间取得平衡）——考研写作和阅读中极高频搭配
 > - "the ecological balance of the environment"（环境的生态平衡）——环境类话题中常见
 > - "on balance, the benefits outweigh the costs"（综合考虑，利大于弊）——论证类阅读/写作中常见
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

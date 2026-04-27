@@ -3,14 +3,12 @@ title: "instruct"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 指导（建造、安排、教授）
-extension_dim: 教育路径
+extension_dim: [教育路径]
 phonetic: "/ɪnˈstrʌkt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**指导（建造知识结构）**"为统筹中心，沿教育路径向外扩展：
 >
 > 1. **建造**（知识层面）
@@ -68,7 +66,7 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > instruct = in（在……上）+ struct（建造）。教学就是在学生脑中"建造"知识结构。instruct a class = 教一个班 = 在学生脑中搭建知识。instruct someone to do something = 指示某人做某事 = 给某人"建造"行动方案。记住 struct 词根：structure（结构）、construct（建造）、destroy（拆毁）、instruct（指导/建造）。教学 = 在脑中建造。
@@ -90,7 +88,7 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mislead]]：误导（instruct 的反义：正确指导↔误导）
 > - [[confuse]]：困惑（instruct 的反义：指导清楚↔使困惑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **instruct someone to do something**：指示某人做某事
 > - **instruct a class**：教一个班
 > - **instruct someone in (a subject)**：在某方面指导某人
@@ -134,19 +132,15 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The lawyer instructed his client not to answer any questions without his presence."（律师指示他的当事人，没有他在场不要回答任何问题。——考研英语阅读相关语料）
 > - "She was instructed to submit the report by the end of the week."（她被要求在周末前提交报告。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

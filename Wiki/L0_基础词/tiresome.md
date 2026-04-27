@@ -3,17 +3,14 @@ title: "tiresome"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 令人疲劳的（使人精力耗尽的）
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/ˈtaɪəsəm/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: tire
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**令人疲劳的**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **令人疲劳的**（身体层面）
@@ -64,7 +61,7 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tiresome = tire（疲劳）+ -some（令人……的）。一场 tiresome lecture（令人厌烦的讲座）让你不停打哈欠——它让你 tire（疲劳）。-some 后缀规律：tiresome（令人疲劳的）、burdensome（令人负担的）、troublesome（令人麻烦的）、quarrelsome（爱吵架的）。
@@ -86,7 +83,7 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[refreshing]]：令人耳目一新的（tiresome 的反义：令人厌烦↔令人耳目一新）
 > - [[invigorating]]：令人精力充沛的（tiresome 的反义：令人疲劳↔令人精力充沛）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +116,7 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a tiresome journey**：令人疲惫的旅程
 > - **a tiresome task**：令人厌烦的任务
 > - **a tiresome lecture**：令人厌烦的讲座
@@ -128,19 +125,15 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The tiresome bureaucracy made it nearly impossible to get anything done."（令人厌烦的官僚体制使得几乎什么事都做不成。——考研政治类阅读语料）
 > - "It was a tiresome journey, but we finally arrived at our destination."（那是一趟令人疲惫的旅程，但我们终于到达了目的地。——通用例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

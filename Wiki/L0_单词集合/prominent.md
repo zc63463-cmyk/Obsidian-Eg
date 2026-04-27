@@ -3,14 +3,12 @@ title: "prominent"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 向前突出的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈprɒmɪnənt/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向前突出的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **向前突出的**（物理突出）
@@ -67,7 +65,7 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（向前）+ min（突出，来自prim）+ ent（性质）→ 向前突出的。想象一群人中，一个人站在最前方的高台上，所有人都仰望他——他就是prominent的人。
@@ -91,7 +89,7 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[obscure]]：obscure表示"默默无闻的"，与prominent"杰出的"在社会地位上直接对立
 > - [[inconspicuous]]：inconspicuous表示"不显眼的"，与prominent"突出的"在视觉上直接对立
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **prominent figure**：杰出人物
   > She is a prominent figure in the field of artificial intelligence.（她是人工智能领域的杰出人物。）
 > - **prominent role**：突出的作用/角色
@@ -133,19 +131,15 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Among the commission's 51 members are top-tier-university presidents, scholars, lawyers, judges, and business executives, as well as prominent figures from diplomacy, filmmaking, music and journalism."（在该委员会的51名成员中，有顶尖大学校长、学者、律师、法官和企业高管，也有来自外交、电影、音乐和新闻领域的杰出人物——2014年考研一阅读）
 > - "She is a prominent scientist who has made significant contributions to the field of genetics."（她是一位杰出的科学家，对遗传学领域做出了重大贡献——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

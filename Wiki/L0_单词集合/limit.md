@@ -3,14 +3,12 @@ title: "limit"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 边界、界限
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈlɪmɪt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**边界、界限**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **边界、界限**（物理层面——田地之间的边界线）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > limit 源自拉丁语 limes（边界），原指两块田地之间的分界线。画一条线，这就是 limit——既是"界限"，也是"限制"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expand]]：扩展，扩大（限制 vs 扩展）
 > - [[unlimited]]：无限的，无限制的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **speed limit**：限速 Drivers should always observe the speed limit for their own safety.（为了自身安全，驾驶员应始终遵守限速规定。）
   > The speed limit on this road is 60 miles per hour. 这条路的限速是每小时60英里。
 > - **limit...to...**：把……限制在……范围内 The government has decided to limit public spending to essential services only.（政府决定将公共支出仅限于基本服务。）
@@ -126,21 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Constitution limits the President's term of office to four years."（宪法规定总统的任期为四年。）——考研高频表达
 > - "There is a limit to how much information the human brain can process at one time."（人脑一次能处理的信息量是有限的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

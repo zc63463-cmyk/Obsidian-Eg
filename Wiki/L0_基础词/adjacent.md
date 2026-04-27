@@ -3,14 +3,12 @@ title: "adjacent"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 位于旁边（紧挨着某个位置）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əˈdʒeɪsnt/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**位于旁边**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **位于旁边**（空间层面）
@@ -64,7 +62,7 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ad（朝向）+ jac（躺）→ 朝某个方向躺着 → 挨着。想象两间酒店房间，一间朝另一间"躺着"——这就是 adjacent rooms（相邻房间）。注意 adjacent 不一定直接接触，可以中间隔一条路，但距离很近。
@@ -86,7 +84,7 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[distant]]：遥远的（adjacent 的反义：邻近↔遥远）
 > - [[remote]]：偏远的（adjacent 的反义：邻近↔偏远）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **adjacent to**：邻近的，毗邻的
 > - **adjacent rooms**：相邻房间
 > - **adjacent buildings**：相邻建筑
@@ -129,19 +127,15 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The hotel has adjacent rooms that can be connected for families."（酒店有可以连通的家庭相邻房间——考研英语阅读）
 > - "The planes landed on adjacent runways."（这些飞机在相邻的跑道上降落——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

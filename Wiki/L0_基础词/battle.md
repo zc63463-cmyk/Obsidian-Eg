@@ -3,14 +3,12 @@ title: "battle"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 打击，击打（用武器进行的身体对抗）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈbætl/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**打击，击打**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **打击，击打**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 *battuere* 就是"猛击"。想象中世纪战场上，两军士兵用剑和盾猛烈击打对方——这就是 battle 的画面。后来，人们把任何激烈的对抗都叫 battle：在法庭上打官司叫 legal battle，和疾病抗争叫 battle against illness，甚至两个聪明人之间的较量叫 battle of wits。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[peace]]：和平（battle 的反义：战争↔和平）
 > - [[surrender]]：投降（battle 的反义：战斗↔放弃抵抗）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **battle against/with**：与……战斗/斗争
 > - **win/lose a battle**：赢得/输掉一场战斗
 > - **battle for**：为……而战
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The battle over digital copyright will be a long one."（数字版权之争将是一场持久战——考研英语阅读高频表达）
 > - "She has fought a constant battle with depression throughout her career."（在她的整个职业生涯中，她一直在与抑郁症作斗争——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

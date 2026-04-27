@@ -3,14 +3,12 @@ title: "diversion"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 转向别处，转移注意力
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/daɪˈvɜːʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转向别处，转移注意力**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **转向别处，转移注意力**（物理/路径层面）
@@ -72,7 +70,7 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 高速公路上前方施工，交警竖起路牌写着"diversion"——司机不得不把车 di（转向）另一个 vers（方向），走上绕行路。无聊的乘客拿出手机玩游戏来 diversion（消遣），把注意力从堵车的烦恼中转移开。
@@ -94,7 +92,7 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[concentration]]：集中，专注（转移注意力↔集中注意力）
 > - [[focus]]：聚焦（分散注意力↔聚焦）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **create a diversion**：制造转移（注意力的事），制造佯攻
 > - **road/traffic diversion**：道路/交通绕行
 > - **the diversion of funds/resources**：资金/资源的转移
@@ -135,21 +133,15 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The creation of a new leisure centre served as a welcome diversion for the local community."（新休闲中心的建成为当地社区提供了一个受欢迎的消遣方式。）——考研高频表达
 > - "The government tried to create a diversion to draw attention away from the scandal."（政府试图制造转移注意力的手段，以分散人们对丑闻的关注。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "trick"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 诡计，戏法
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/trɪk/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: trifle
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**诡计，骗局**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **诡计，骗局**（欺骗层面）
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 魔术师从帽子里变出兔子——这是一个 trick（戏法）。骗子用花言巧语骗走你的钱——这是一个 trick（诡计）。老厨师教你一个让汤更鲜的 trick（窍门）——加盐的时机。trick 就是"巧妙手段"，可以是欺骗、表演或技巧。
@@ -90,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[honesty]]：诚实（trick 的反义：欺骗↔诚实）
 > - [[sincerity]]：真诚（trick 的反义：诡计↔真诚）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **play a trick on sb.**：捉弄某人
   - The children played a trick on their teacher.
 - **trick sb. into doing sth.**：欺骗某人做某事
@@ -133,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Don't let the advertisements trick you into buying things you don't need."（不要让广告骗你买不需要的东西。）
 > - "The magician performed an amazing card trick."（魔术师表演了一个令人惊叹的纸牌戏法。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

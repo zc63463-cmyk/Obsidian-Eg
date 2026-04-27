@@ -3,17 +3,14 @@ title: "all"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 全部，每一个（毫无遗漏）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɔːl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ all 为日耳曼语源词，无可拆分的词根词缀结构。与希腊语 *ho
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**全部，每一个**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **全部**（数量层面）
@@ -66,7 +63,7 @@ all 为日耳曼语源词，无可拆分的词根词缀结构。与希腊语 *ho
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ all 为日耳曼语源词，无可拆分的词根词缀结构。与希腊语 *ho
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > all 是最基础的词，表示"全部"。all 的词族非常庞大：[[allege]]（全部说出来→宣称）、[[allegiance]]（全部绑定→忠诚）、[[alliance]]（全部绑在一起→联盟）、[[allowance]]（全部给→津贴）、[[alone]]（全一个→独自）、[[along]]（全长的→沿着）。记住 all，就记住了一整个词族。
@@ -90,7 +87,7 @@ all 为日耳曼语源词，无可拆分的词根词缀结构。与希腊语 *ho
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +100,14 @@ all 为日耳曼语源词，无可拆分的词根词缀结构。与希腊语 *ho
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[none]]：没有一个（all 的精确反义）
 > - [[no]]：没有（all 的否定形式）
 > - [[some]]：一些（all 的部分反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +126,7 @@ all 为日耳曼语源词，无可拆分的词根词缀结构。与希腊语 *ho
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **all kinds of**：各种各样的
 > - **all over**：到处，遍及
 > - **all too**：实在太（all too human 实在太人性了）
@@ -139,20 +136,16 @@ all 为日耳曼语源词，无可拆分的词根词缀结构。与希腊语 *ho
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Such behaviour is regarded as 'all too human,' with the underlying assumption that other animals would not be capable of this finely developed sense of grievance."（这种行为被视为"实在太人性了"，其潜在假设是其他动物不会拥有这种精细发展的不满意识——2005年英语一Text 1）
 > - "Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal."（在过去的一个世纪里，各种各样的不公和歧视都遭到了谴责或被定为非法——2004年英语一Text 2）
 > - "Everybody loves a fat pay rise. Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one."（每个人都喜欢丰厚的加薪——2005年英语一Text 1，all 的同义替换）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

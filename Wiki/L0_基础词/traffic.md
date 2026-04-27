@@ -3,14 +3,12 @@ title: "traffic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 在路上通行的货物和人群
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtræfɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在路上通行的货物和人群**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **货物在路上通行**（物理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > traffic 的核心画面是"路上来来往往的货物"。古代商路上，商人赶着马车运货——这就是 traffic。后来马车变成汽车，traffic 就成了"交通"（traffic jam 堵车）。而"流通"的本质也引申出"非法交易"——traffic in drugs 就是毒品在暗处"流通"。traffic 始终是"东西在路上移动"——不管是合法的车辆还是非法的货物。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[isolation]]：隔绝（traffic 的反义：流通↔隔绝）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **heavy traffic**：交通拥挤
 > - **traffic jam/congestion**：交通堵塞
 > - **traffic accident**：交通事故
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Urban planners are trying to reduce traffic congestion by encouraging the use of public transportation and building more bicycle lanes."（城市规划者正试图通过鼓励使用公共交通和修建更多自行车道来减少交通拥堵——考研阅读城市话题相关表达）
 > - "International efforts to combat drug trafficking have intensified, with law enforcement agencies cooperating across borders to dismantle trafficking networks."（打击毒品贩运的国际努力不断加强，执法机构跨越国界合作瓦解贩运网络——考研阅读法律话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

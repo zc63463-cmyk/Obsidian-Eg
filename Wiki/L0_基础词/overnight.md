@@ -3,17 +3,14 @@ title: "overnight"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 一夜之间（在夜晚期间发生）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌəʊvəˈnaɪt/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: night
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -45,7 +42,7 @@ over-(度过/经过) + night(夜晚)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一夜之间**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **一夜之间**（时间层面）
@@ -69,7 +66,7 @@ over-(度过/经过) + night(夜晚)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +78,7 @@ over-(度过/经过) + night(夜晚)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over（度过）+ night（夜晚）→ 度过夜晚 → 一夜之间。overnight success（一夜成功）——不是慢慢成功的，而是一个晚上就火了。stay overnight（过夜）——在某个地方度过夜晚。
@@ -93,7 +90,7 @@ over-(度过/经过) + night(夜晚)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +103,13 @@ over-(度过/经过) + night(夜晚)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gradual]]：逐渐的（一夜之间↔逐渐变化）
 > - [[daytime]]：白天（夜间↔白天）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ over-(度过/经过) + night(夜晚)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an overnight success**：一夜之间的成功
 > - **stay overnight**：过夜，留宿
 > - **become famous overnight**：一夜成名
@@ -130,18 +127,14 @@ over-(度过/经过) + night(夜晚)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The internet has turned many ordinary people into overnight celebrities."（互联网让许多普通人一夜成名——考研常见话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

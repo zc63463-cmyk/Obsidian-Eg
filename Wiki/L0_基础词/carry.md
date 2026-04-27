@@ -3,14 +3,12 @@ title: "carry"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 搬运（用手或身体运送）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈkæri/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**搬运（用手或身体运送）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **搬运**（物理层面）
@@ -71,7 +69,7 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > carry 来自法语 *carier*（用车运输），与 car（汽车）同源。原义是"用车装载运输"，后来泛化为任何形式的"搬运"。carry 的核心画面就是"从A到B"——搬运行李、携带手机、传播疾病、承受责任、刊登新闻，都是把某物从一处"搬运"到另一处。
@@ -95,7 +93,7 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drop]]：丢下（carry 的反义：携带↔丢下）
 > - [[leave]]：留下（carry 的反义：带走↔留下）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **carry out**：执行，实施
 > - **carry on**：继续，坚持
 > - **carry away**：使激动；冲走
@@ -139,19 +137,15 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The administration was in essence asserting that because it didn't want to carry out Congress's immigration wishes, no state should be allowed to do so either."（政府其实声称因为自己不想执行国会的移民意愿，任何州也不允许执行——2012年考研英语阅读）
 > - "The indisputable fact is that computers carry out logical operations."（不容置疑的事实是，计算机执行逻辑运算——考研翻译相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

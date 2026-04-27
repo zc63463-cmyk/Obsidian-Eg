@@ -3,14 +3,12 @@ title: "configuration"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 塑造成某种形状
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/kənˌfɪɡəˈreɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**塑造成某种形状**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **塑造成某种形状**（物理层面——把各部分组合成形）
@@ -66,7 +64,7 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（一起）+ figur（形状）：想象你组装一台电脑，把CPU、内存、硬盘"一起塑造成"一个完整的系统——那就是 configuration（配置）。
@@ -88,7 +86,7 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disorder]]：混乱（有序配置 vs 混乱）
 > - [[disorganization]]：无序（有序布局 vs 无序）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **system configuration**：系统配置
   > The software requires a specific system configuration to run properly. 该软件需要特定的系统配置才能正常运行。
 > - **hardware/software configuration**：硬件/软件配置
@@ -130,21 +128,15 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The configuration of the computer system has been optimized for faster data processing."（计算机系统的配置已针对更快的数据处理进行了优化。）——考研高频表达
 > - "The political configuration of Europe changed dramatically after World War II."（二战后欧洲的政治格局发生了巨大变化。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

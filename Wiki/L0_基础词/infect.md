@@ -3,14 +3,12 @@ title: "infect"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 传染（使病菌进入体内）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈfekt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**传染（使进入）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **传染**（疾病层面）
@@ -64,7 +62,7 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（进入）+ fect（做）→ infect。想象病菌"做"进了你的身体——你被 infect（感染）了。积极情绪也能"传染"——她的热情感染了所有人（Her enthusiasm infected everyone）。infect 就是"做进去"——病菌做进去→情绪做进去→污染物做进去。
@@ -86,7 +84,7 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cure]]：治愈（infect "传染/感染"的反义：感染↔治愈）
 > - [[disinfect]]：消毒（infect "传染"的反义：传染↔消毒）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,26 +121,22 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be infected with**：感染……
 > - **infect sb. with**：用……感染某人（情绪）
 > - **infectious disease**：传染病
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the U.S., it has infected more than one million people, and caused more than 600 deaths and more than 6,000 hospitalizations."（在美国，这种病毒已经感染了超过一百万人，造成600多人死亡和6000多人住院。——2010年考研英语二完型）
 > - "The ward was full of children infected with TB."（病房里住满了感染结核病的孩子。——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

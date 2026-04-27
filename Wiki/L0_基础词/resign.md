@@ -3,14 +3,12 @@ title: "resign"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 重新签名，放弃
-extension_dim: 辞职顺从
+extension_dim: [辞职顺从]
 phonetic: "/rɪˈzaɪn/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**签字放弃/辞职**"为统筹中心，沿辞职顺从向外扩展：
 >
 > 1. **签字放弃**（行为层面）
@@ -66,7 +64,7 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > resign = re-（再）+ sign（签名，[[sign]]）= "再次签名"→ 签字放弃→ 辞职。想象一个员工在辞职信上签字——那就是 resign。resign from the company = 从公司辞职。resign one's post = 辞去职务。resign oneself to fate = 听天由命（放弃抵抗命运）。注意 resign 有两个重要含义：1）辞职（主动放弃）；2）顺从（被动接受）。与 [[sign]]（签名）、[[assign]]（分配）、[[design]]（设计）同源——都和"签名/标记"有关。
@@ -89,7 +87,7 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[assume]]：就任（resign 辞职的反义：辞职↔就任）
 > - [[resist]]：抵抗（resign 顺从的反义：顺从↔抵抗）
 > - [[protest]]：抗议（resign 听任的反义：听任↔抗议）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **resign from**：辞去……的职务
 > - **resign one's post/position**：辞去职务
 > - **resign oneself to**：听任，顺从于
@@ -133,19 +131,15 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The CEO resigned from his position following allegations of financial misconduct."（首席执行官在面临财务不当行为指控后辞去了职务。——考研英语阅读商业类话题，resign from 高频考点）
 > - "Faced with overwhelming evidence, the defendant resigned himself to the inevitable outcome of the trial."（面对压倒性的证据，被告只能听任审判的必然结果。——考研英语阅读法律类话题，resign oneself to 高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

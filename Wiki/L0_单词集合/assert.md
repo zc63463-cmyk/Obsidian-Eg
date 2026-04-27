@@ -3,14 +3,12 @@ title: "assert"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: [asserted, asserting, assertion]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 断言，明确主张
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈsɜːrt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ as-(=ad-，朝向，加强) + [[sert]](加入，放置) → "坚定地放置自�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**断言，明确主张**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **断言，明确主张**（言语层面：坚定地陈述）
@@ -68,7 +66,7 @@ as-(=ad-，朝向，加强) + [[sert]](加入，放置) → "坚定地放置自�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ as-(=ad-，朝向，加强) + [[sert]](加入，放置) → "坚定地放置自�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 在辩论中，把自己的观点坚定地放（sert）到对方面前——这就是assert（断言），像钉子一样钉在桌面上。
@@ -91,7 +89,7 @@ as-(=ad-，朝向，加强) + [[sert]](加入，放置) → "坚定地放置自�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ as-(=ad-，朝向，加强) + [[sert]](加入，放置) → "坚定地放置自�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deny]]：assert是断言，deny是否认
 > - [[yield]]：assert是坚持，yield是屈服
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,27 +118,21 @@ as-(=ad-，朝向，加强) + [[sert]](加入，放置) → "坚定地放置自�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assert one's rights**：维护某人的权利（Citizens should assert their rights under the law.）
 > - **assert oneself**：表现坚定，坚持己见（She had to assert herself to be taken seriously at work.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He asserted that he was innocent of all charges."（他坚称自己对所有指控都是无辜的。）——考研高频表达
 > - "The report asserts that the company knowingly sold defective products."（报告断言该公司明知故犯地销售有缺陷的产品。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

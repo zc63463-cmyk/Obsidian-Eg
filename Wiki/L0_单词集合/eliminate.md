@@ -3,14 +3,12 @@ title: "eliminate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 赶出门外→消除
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈlɪmɪneɪt/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**赶出门外→消除**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **赶出门外**（物理/抽象层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > eliminate = e（出）+ limin（门槛）+ ate → 赶出门外。想象你是一个守门人，把所有不受欢迎的人都推出门槛——这就是 eliminate（消除）。在选秀节目中，评委把表现差的选手"赶出门外"——这就是 eliminate（淘汰）。记住 limin = 门槛，eliminate = 赶出门外 = 消除。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[include]]：包括（排除↔包括）
 - [[retain]]：保留（消除↔保留）
 - [[introduce]]：引入（消除↔引入）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **eliminate poverty / disease / hunger**：消除贫困/疾病/饥饿
 > - **eliminate risk / possibility**：消除风险/可能性
 > - **be eliminated from**：从...中被淘汰
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We need to eliminate poverty and hunger worldwide."（我们需要在全球范围内消除贫困和饥饿）——社会/政治话题
 > - "The team was eliminated from the tournament in the first round."（这支队伍在第一轮比赛中就被淘汰了）——体育话题
 > - "Technology has eliminated the need for many manual jobs."（技术消除了对许多手工劳动的需求）——科技/社会话题
@@ -138,15 +136,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

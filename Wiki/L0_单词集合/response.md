@@ -3,14 +3,12 @@ title: "response"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 回过头承诺的结果（回应）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/rɪˈspɒns/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**回过头承诺的结果（回应）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **回过头承诺的结果**（语言层面）
@@ -67,7 +65,7 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > respond（回应）的名词形式就是 response。你发了一封邮件，对方回了一封——那封回信就是 response。你问了一个问题，对方给了回答——那个回答就是 response。身体对药物做出的反应——immune response。
@@ -89,7 +87,7 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[silence]]：沉默，无言（response 的反义：回应↔沉默）
 > - [[ignorance]]：忽视，无知（response 的反义：回应↔忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in response to**：作为对……的回应
 > - **a quick/immediate response**：迅速/立即的回应
 > - **immune response**：免疫反应
@@ -131,19 +129,15 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The agency was heavily criticised for its tardy response to the hurricane."（该机构因对飓风反应迟缓而受到严厉批评——考研高频表达）
 > - "In response to the news, Mr Watt appealed for calm."（面对这个消息，瓦特先生呼吁保持冷静——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

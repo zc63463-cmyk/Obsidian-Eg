@@ -3,17 +3,14 @@ title: "whichever"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 无论哪个
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/wɪtʃˈevər/"
 pos: pron.
-metaphor_type: 无隐喻
 word_root: which
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ which（哪个）+ ever（曾经/永远）。which 源自古英语 *hwilc*（哪
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无论哪个**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **无论哪个**（选择层面）
@@ -65,7 +62,7 @@ which（哪个）+ ever（曾经/永远）。which 源自古英语 *hwilc*（哪
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ which（哪个）+ ever（曾经/永远）。which 源自古英语 *hwilc*（哪
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > whichever = which（哪个）+ ever（永远）→ 无论哪个都……。whichever 的关键区别在于"有限选择"——它暗示在几个选项中选择。Whichever path you take, you'll reach the summit = 无论你走哪条路，都会到达山顶。对比：Whatever you do = 无论你做什么（无限范围）；Whichever you choose = 无论你选哪个（有限范围）。
@@ -88,7 +85,7 @@ which（哪个）+ ever（曾经/永远）。which 源自古英语 *hwilc*（哪
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ which（哪个）+ ever（曾经/永远）。which 源自古英语 *hwilc*（哪
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - whichever 无直接反义词
 > - 逻辑上与"限定唯一选择"相对
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +118,22 @@ which（哪个）+ ever（曾经/永远）。which 源自古英语 *hwilc*（哪
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **whichever you choose/prefer**：无论你选择/更喜欢哪个
 > - **whichever comes first**：无论哪个先来
 > - **whichever way**：无论哪个方向
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Whichever economic model a country adopts, it must be tailored to its unique historical, cultural, and social conditions rather than simply copied from elsewhere."（无论一个国家采用哪种经济模式，都必须根据其独特的历史、文化和社会条件进行调整，而不是简单地照搬其他地方的模式——考研阅读经济话题相关表达）
 > - "Researchers found that whichever teaching method was employed, student engagement was the single most important factor in determining learning outcomes."（研究人员发现，无论采用哪种教学方法，学生的参与度都是决定学习成果的最重要的单一因素——考研阅读教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

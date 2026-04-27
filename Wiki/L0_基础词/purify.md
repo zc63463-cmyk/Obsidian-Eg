@@ -3,14 +3,12 @@ title: "purify"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 使纯净（去除杂质，使变得干净纯粹）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈpjʊərɪfaɪ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使纯净（去除杂质，使变得干净纯粹）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使纯净**（物理层面）
@@ -64,7 +62,7 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pur（纯净的）+ ify（使成为）→ 使成为纯净的 → 净化。pure 是"纯净的"，purify 就是"使纯净"。净水厂 purify water——把脏水变成纯净水。炼油厂 purify oil——把原油变成纯净的石油产品。教堂里祈祷 purify the soul——把灵魂里的"杂质"（罪恶）去除，使心灵变得纯净。
@@ -86,7 +84,7 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[contaminate]]：污染（purify 的精确反义：净化↔污染）
 > - [[pollute]]：弄脏，污染（purify 的反义：净化↔污染）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **purify water**：净化水
 > - **purify the soul/mind**：净化灵魂/心灵
 > - **purify the air**：净化空气
@@ -126,19 +124,15 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The water purification system ensures that drinking water is safe."（水净化系统确保饮用水安全——考研阅读环保话题）
 > - "Religious rituals were designed to purify the soul."（宗教仪式旨在净化灵魂——考研阅读文化话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

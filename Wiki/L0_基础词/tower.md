@@ -3,14 +3,12 @@ title: "tower"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 高耸的建筑，塔
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtaʊə/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**高耸的建筑，塔**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **塔**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tower 的核心画面是"一座高塔矗立在平原上——比周围的一切都高"。拉丁语 *turris* = 塔。tower = 高耸的建筑。to tower above = 比周围的一切都高 = 远超。He towers over his competitors（他远超竞争对手）= 他像塔一样比竞争者"高"。ivory tower（象牙塔）= 与现实隔绝的学术/艺术世界。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dwarf]]：使矮小（tower 的反义：高耸↔使矮小）
 > - [[pit]]：坑（tower 的反义：高塔↔深坑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tower above / over**：高耸于……之上；远超
 > - **ivory tower**：象牙塔
 > - **TV / radio tower**：电视/无线电发射塔
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new skyscraper towers above all surrounding buildings, becoming an iconic landmark that defines the city's modern skyline."（这座新的摩天大楼高耸于所有周围建筑之上，成为定义这座城市现代天际线的标志性建筑——考研阅读城市话题相关表达）
 > - "Scholars who remain in their ivory towers, disconnected from the practical concerns of ordinary people, risk producing research that has little relevance to real-world problems."（那些待在象牙塔中、与普通人的实际关切脱节的学者，面临着其研究可能与现实问题无关的风险——考研阅读教育话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

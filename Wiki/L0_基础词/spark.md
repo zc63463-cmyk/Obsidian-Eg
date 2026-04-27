@@ -3,14 +3,12 @@ title: "spark"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 火花（燃烧飞出的发光颗粒）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/spɑːk/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**火花**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **火花**（物理层面）
@@ -67,7 +65,7 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spark 源自古英语 spearca（火花）。想象黑暗中一点火花飞出——a spark of hope（一丝希望）在绝望中闪现。这个火花引发了整片森林的大火——spark a revolution（引发革命）。spark 就是"火花"——物理上的火花、灵感上的火花、引发事件的火花。
@@ -90,7 +88,7 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extinguish]]：熄灭（spark ↔ extinguish，引发 ↔ 熄灭）
 > - [[smother]]：闷熄（spark ↔ smother，火花 ↔ 闷熄）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,25 +117,21 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spark a debate/controversy**：引发辩论/争议（The article sparked a heated debate.）
 > - **a spark of hope/inspiration**：一丝希望/灵感
 > - **spark interest**：激发兴趣
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The discovery sparked widespread interest in the scientific community."（这一发现在科学界引发了广泛兴趣——考研阅读常见句式）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

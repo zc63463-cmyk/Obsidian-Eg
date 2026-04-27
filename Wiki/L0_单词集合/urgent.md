@@ -3,14 +3,12 @@ title: "urgent"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 正在用力推的，需要立即处理的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈɜːrdʒənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**正在用力推的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **正在用力推的**（物理施压层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > urgent 是 urge（催促/推动）的现在分词——正在**推**你的就是**紧急的**（urgent）。想象你的手机不断震动，有人在**催促**（urge）你，这件事就是**紧急的**（urgent）。记住：urgent = 正在被 urge 的事 = 不能等的事。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unimportant]]：不重要的（urgent 需要立即处理，unimportant 不需要）
 > - [[non-urgent]]：非紧急的（直接否定）
 > - [[trivial]]：琐碎的（urgent 事关重大，trivial 无关紧要）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an urgent matter/case/problem**：紧急事务/案件/问题
 > - **an urgent need for**：急需……
 > - **an urgent appeal/request**：紧急呼吁/请求
@@ -134,22 +132,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "an urgent need for reform"（改革的紧迫需求）——考研阅读/写作高频搭配
 > - "urgently require immediate attention"（急需立即关注）——考研正式语体
 > - "address urgent issues"（解决紧急问题）——考研写作常用搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "wisdom"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 看见→知道→智慧的结晶
-extension_dim: 认知路径
+extension_dim: [认知路径]
 phonetic: "/ˈwɪzdəm/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**看见→知道→智慧的结晶**"为统筹中心，沿认知路径向外扩展：
 >
 > 1. **看见**（感知层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wisdom = wise（智慧的）+ dom（状态/领域）= 智慧的状态。PIE *\*weid-* = 看、知道。"看见"→"知道"→"智慧"——这是 wisdom 的核心逻辑链。Words of wisdom（至理名言）= 智慧的话语。Conventional wisdom（传统观点）= 大众普遍"知道"的看法——考研高频搭配。In their wisdom（凭他们的精明）是反语用法，讽刺某人自作聪明。wisdom teeth（智齿）= 长得最晚的牙齿，象征"智慧"的到来。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[folly]]：愚蠢（wisdom 的反义：智慧↔愚蠢）
 > - [[ignorance]]：无知（wisdom 的反义：智慧↔无知）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conventional wisdom**：传统观点，大众普遍看法（考研高频）
 > - **words of wisdom**：至理名言，金玉良言
 > - **in someone's wisdom**：凭某人的精明（常含讽刺）
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Conventional wisdom has it that aggressive cost-cutting is the most effective way to rescue a declining business."（传统观点认为，大幅削减成本是拯救衰退企业的最有效方式——考研阅读商业话题高频表达，conventional wisdom 为核心搭配）
 > - "All human wisdom is summed up in these two words: 'Wait and Hope.'"（人类的全部智慧就包含在这两个字里面："等待"和"希望"——考研翻译名言引用类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "controversy"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 转向对立、争论
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈkɒntrəvɜːsi/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -y(名
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转向对立**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **转向对立**（物理层面：朝相反方向转）
@@ -62,7 +60,7 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -y(名
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -y(名
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > contro-（对立）+ vers-（转，[[ver-vert]]词根）+ -y（名词后缀）→ 朝**相反的方向转**，形成意见对立——就是"争论"。想象两个人面对面站着，各自向相反方向转身，互不妥协，这就是 controversy 的原始画面。
@@ -85,7 +83,7 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -y(名
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -y(名
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[consensus]]：共识（争议的反面——意见一致）
 > - [[agreement]]：一致（争论的反面——达成一致）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,22 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -y(名
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cause/spark controversy**：引发争议（The decision caused considerable controversy.）
 > - **a controversy over/about**：关于……的争议（There is ongoing controversy over the new law.）
 > - **public controversy**：公众争议（The issue has generated public controversy.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The President resigned amid considerable controversy."（总统在一片争论声中辞职——考研高频表达）
 > - "Federal policy is necessarily involved in the technology vs. genius dispute."（联邦政策必然涉及技术与天才之争——1994年考研阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "architecture"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 首席建造的艺术与科学
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈɑːrkɪtektʃər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**首席建造的艺术与科学**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **首席建造的艺术与科学**（建筑层面）
@@ -70,7 +68,7 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 建筑师（architect）把蓝图变成现实，而 architecture 就是这位"首席建造者"所掌握的全部学问。从古埃及金字塔到现代摩天大楼，从人脑神经网络到计算机芯片，所有复杂系统都需要"骨架设计"——这就是 architecture。记住：architecture = architect（建筑师）+ ure（学问）= 建筑学/结构设计。
@@ -94,7 +92,7 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[destruction]]：破坏，毁灭（architecture 的反义：建造设计↔破坏毁灭）
 > - [[chaos]]：混乱，无序（有序结构的反面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **computer architecture**：计算机体系结构
 > - **modern architecture**：现代建筑
 > - **the architecture of the brain**：大脑结构
@@ -133,20 +131,14 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It had a great influence upon American architecture."（它对美国建筑产生了巨大的影响。）——2011年真题
 > - "The "Case Study Houses" commissioned from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the "less is more" trend."（1945年至1962年间，加州艺术与建筑杂志委托才华横溢的现代建筑师设计的"案例研究住宅"是对"少即是多"趋势的又一本土影响。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

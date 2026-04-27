@@ -3,17 +3,14 @@ title: "loan"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 借出（暂时让渡使用权）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ləʊn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: loan
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**暂时让渡使用权**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **暂时让渡使用权**（行为层面）
@@ -67,7 +64,7 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > loan 和 lend 同源，都是"借"。loan 更正式、更偏美式。你向银行借的钱叫 loan（贷款），银行借给你的行为也是 loan。记住：loan = 暂时给 = 贷款/借出。
@@ -90,7 +87,7 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[borrow]]：借入（loan v. 的方向反义：借出↔借入）
 > - [[repayment]]：还款（loan n. 的反义：贷款↔还款）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bank loan**：银行贷款
 > - **student loan**：学生贷款
 > - **apply for a loan**：申请贷款
@@ -130,19 +127,15 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many college graduates are burdened with heavy student loans."（许多大学毕业生背负着沉重的学生贷款——考研阅读经济类话题高频表达）
 > - "The bank agreed to loan him the money for his new business."（银行同意贷款给他用于新业务——考研翻译常见句型）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

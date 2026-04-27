@@ -3,17 +3,14 @@ title: "inclusive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 包容的，将所有部分都包含在内的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈkluːsɪv/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: clud
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"）+ -ive（
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**将所有部分都包含在内**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **将所有部分都包含在内**（关系层面——全面包含）
@@ -65,7 +62,7 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"）+ -ive（
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"）+ -ive（
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inclusive = in（在内）+ clude（关闭）+ -ive（倾向）= 倾向于把所有东西都关在里面 = 包容的。与 [[include]]（包含）同根，-ive 使其变成一种"倾向"——不只是包含，而是倾向于包含一切。
@@ -87,7 +84,7 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"）+ -ive（
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"）+ -ive（
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[exclusive]]：排他的，排斥的——直接反义（ex + clude + -ive = 关在外面）
 > - [[exclusive]]：独有的，高档的——在"包含一切"义项上的反义
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +115,22 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"）+ -ive（
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inclusive education**：包容性教育
 > - **inclusive growth**：包容性增长
 > - **all-inclusive**：包含一切的（The resort offers an all-inclusive package.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The government has promoted inclusive education to ensure equal access for all students.（政府推行包容性教育，确保所有学生享有平等的教育机会。）
 > - Inclusive economic growth is essential for reducing inequality.（包容性经济增长对于减少不平等至关重要。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

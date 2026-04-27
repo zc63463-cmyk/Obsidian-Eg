@@ -3,14 +3,12 @@ title: "guilt"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 犯罪事实
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɡɪlt/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**犯罪事实**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **犯罪事实**（法律层面：违反法律的行为）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 做了坏事的人，心里像压了一块石头——guilt 既是法律上的"罪"，也是心理上的"内疚"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[innocence]]：无罪；天真——guilt 的法律和心理反面
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,29 +111,23 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **feel a sense of guilt**：She felt an overwhelming sense of guilt after lying to her friend.（对朋友撒谎后，她感到强烈的内疚。）
 > - **prove one's guilt**：The evidence was sufficient to prove his guilt.（证据足以证明他有罪。）
 > - **admit one's guilt**：The suspect admitted his guilt in court.（嫌疑人在法庭上认罪。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The sense of guilt can be a powerful motivator for people to change their behavior."（内疚感可以成为人们改变行为的强大动力。）——考研高频表达
 > - "He was consumed by guilt after realizing the harm his actions had caused to others."（在意识到自己的行为给他人造成的伤害后，他被内疚感所吞噬。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待填写>
 > **翻译实践**：<待填写>

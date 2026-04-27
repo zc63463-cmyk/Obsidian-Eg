@@ -3,14 +3,12 @@ title: "nasty"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 普通的→低贱的→令人不快的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈnɑːsti/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**低贱的/普通的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **低贱的/普通的**（社会地位层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 从"普通出身"（native）到"低贱"再到"令人不快"——nasty 的语义贬值之路。想象一个 **nasty**（恶意的）人，说出 **nasty**（难听的）话，制造 **nasty**（棘手的）麻烦。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +105,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[pleasant]]：pleasant 是"令人愉快的"，nasty 是"令人不快的"
 > - [[nice]]：nice 是"好的/友善的"，nasty 是"恶意的"
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nasty weather**：恶劣天气
 > - **nasty surprise**：令人不快的意外
 > - **nasty remark**：恶毒的话
@@ -133,21 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The politician was involved in a nasty scandal that ruined his career."（这位政治家卷入了一场毁掉他职业生涯的丑闻。）——考研高频表达
 > - "The weather turned nasty, forcing the hikers to seek shelter."（天气变得恶劣，迫使徒步旅行者寻找避难所。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

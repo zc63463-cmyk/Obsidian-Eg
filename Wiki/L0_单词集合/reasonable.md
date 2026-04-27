@@ -3,17 +3,14 @@ title: "reasonable"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 具有理性思考能力的，合乎道理的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈriːznəbl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: reason
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**具有理性思考能力的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **具有理性思考能力的**（本义：可以被理性接受的）
@@ -67,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > reasonable 就是"可以用 [[reason]]（理性）来衡量的"。一个 reasonable 的价格是经得起理性计算的，一个 reasonable 的人是愿意用道理沟通的。记住：reasonable = 合理的 = 公道的 = 通情达理的。
@@ -91,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +102,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unreasonable]]：不合理的
 > - [[irrational]]：不理性的
 > - [[absurd]]：荒谬的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,28 +120,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a reasonable price**：The house was sold at a reasonable price.（这栋房子以公道的价格售出。）
 > - **reasonable doubt**：The jury found him not guilty beyond a reasonable doubt.（陪审团认为不存在合理疑点，判他无罪。）
 > - **perfectly reasonable**：Her request is perfectly reasonable.（她的要求完全合理。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > > - "Darwinism seems to offer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings."（达尔文学说似乎提供了证明，因为如果所有人类拥有共同的起源，那么认为文化多样性也可以追溯到更有限的起点似乎是合理的。）——2012年考研翻译
 > - "They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while a warrant is pending."（在严重、紧急的情况下，他们仍然可以使第四修正案的保护失效，并且可以采取合理措施确保在等待搜查令期间手机数据不被删除或篡改。）——考研阅读真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

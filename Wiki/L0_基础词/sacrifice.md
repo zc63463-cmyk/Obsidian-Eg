@@ -3,14 +3,12 @@ title: "sacrifice"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 使之神圣（通过献祭使事物神圣化）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsækrɪfaɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使之神圣**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使之神圣（宗教层面）**
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sacrifice 来自拉丁语 sacrificium——sacr（神圣）+ fic（做）→ "使之神圣"。古人在祭坛上把最好的牛羊献给神，使之神圣化——这就是 sacrifice（献祭）的本义。后来从宗教延伸到世俗：为事业牺牲家庭生活、为国家牺牲生命——都是 sacrifice。sacrifice 的核心是"放弃珍贵的东西献给更高的目标"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gain]]：获得（sacrifice 的反义：牺牲↔获得）
 > - [[selfishness]]：自私（sacrifice 的反义：奉献↔自私）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sacrifice one's life for**：为……牺牲生命
 > - **make sacrifices for**：为……做出牺牲
 > - **at the sacrifice of**：以牺牲……为代价
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "...have limited the opportunities of teenagers who are already questioning the heavy personal sacrifices involved in climbing Japan's rigid social ladder to good schools and jobs."（……限制了那些已经在质疑攀登日本通往好学校和好工作的僵化社会阶梯所涉及的个人沉重代价的青少年的机会。——2000年考研英语阅读Text 4）
 > - "She sacrificed family life to her career."（她为事业牺牲了家庭生活——考研阅读社会话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

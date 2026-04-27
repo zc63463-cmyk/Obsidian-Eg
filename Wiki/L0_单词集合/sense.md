@@ -3,14 +3,12 @@ title: "sense"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 感觉、感知
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/sens/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**感觉、感知**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **感觉、感知**（身体层面：通过感官获取信息）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 来自拉丁语 *sensus*（感觉、知觉），词根 [[sens/sent|sens]] 意为"感觉"。想象你走进面包房，闻到新鲜面包的香气——这就是 sense：身体最直接的感知通道。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nonsense]]：无意义（有意义 vs 无意义）
 - 反义概念：作为"理智"时，反义为 foolishness（愚蠢）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make sense**：What you said doesn't make sense to me.（你说的我理解不了/没有意义。）
 > - **in a sense**：In a sense, she was right.（从某种意义上说，她是对的。）
 > - **common sense**：Use your common sense to solve the problem.（用你的常识来解决这个问题。）
@@ -128,21 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It makes no sense to continue this debate since neither side is willing to compromise."（既然双方都不愿意妥协，继续这场辩论毫无意义。）——考研高频表达
 > - "She sensed that something was wrong with the project."（她感觉项目出了问题。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

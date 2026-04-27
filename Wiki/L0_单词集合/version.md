@@ -3,14 +3,12 @@ title: "version"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 翻转后的形态
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈvɜːrʒn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**翻转后的形态**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **翻转后的形态**（从同一源头"转"出的不同形态）
@@ -71,7 +69,7 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 一位翻译家把同一本小说**翻转**（vers）成不同语言——中文版、英文版、法文版——每一个都是同一个故事的 **version**（版本），但都带着独特的面貌。
@@ -95,7 +93,7 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,12 +106,12 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[original]]：原版，原始版本（version 是修改/翻转后的版本，original 是最初的版本）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an updated/revised version**：更新/修订版（The company released an updated version of its software.）
 > - **one's version of events**：某人对事件的描述（The two witnesses gave contradictory versions of the accident.）
 > - **the English/Chinese version**：英文/中文版（An English version of the novel was published last year.）
@@ -137,23 +135,15 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The online version of the newspaper has become increasingly popular."（报纸的网络版变得越来越受欢迎。）——考研高频表达
 > - "The latest version of the software includes several new features."（最新版本的软件包含了几项新功能。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

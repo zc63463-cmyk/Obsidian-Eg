@@ -3,14 +3,12 @@ title: "bitter"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 尖锐的，刺人的
-extension_dim: 感官-情感
+extension_dim: [感官-情感]
 phonetic: "/ˈbɪtə/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ bitter(苦的/痛苦的，古英语 *biter*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**尖锐的，刺人的**"为统筹中心，沿感官-情感向外扩展：
 >
 > 1. **尖锐的**（感官层面）
@@ -70,7 +68,7 @@ bitter(苦的/痛苦的，古英语 *biter*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ bitter(苦的/痛苦的，古英语 *biter*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bitter 与 [[bite]]（咬）同源——咬了一口发现是苦的，那种"尖锐的刺痛感"就是 bitter。味觉上的 bitter = 苦味（bitter medicine = 苦药）。情感上的 bitter = 痛苦（bitter tears = 苦涩的泪水）。态度上的 bitter = 激烈/仇恨（bitter enemies = 死敌）。天气上的 bitter = 刺骨（bitter cold = 刺骨的寒冷）。记住：bitter 的核心就是"尖锐感"——从舌头到心到态度到天气。
@@ -93,7 +91,7 @@ bitter(苦的/痛苦的，古英语 *biter*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ bitter(苦的/痛苦的，古英语 *biter*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sweet]]：甜的（bitter 的精确反义：苦↔甜）
 > - [[pleasant]]：愉快的（bitter 痛苦的反义：痛苦↔愉快）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ bitter(苦的/痛苦的，古英语 *biter*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bitter cold**：刺骨的寒冷（考研高频）
 > - **bitter experience**：痛苦的经历
 > - **bitter enemies**：死敌
@@ -136,19 +134,15 @@ bitter(苦的/痛苦的，古英语 *biter*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The bitter cold of the Arctic makes it one of the most inhospitable places on Earth."（北极的刺骨寒冷使其成为地球上最不适宜居住的地方之一。——考研英语阅读环境类话题）
 > - "She has bitter memories of the war that claimed so many innocent lives."（她对那场夺去如此多无辜生命的战争有着痛苦的记忆。——考研英语阅读战争历史类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

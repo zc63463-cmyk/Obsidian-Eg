@@ -3,14 +3,12 @@ title: "feeble"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 缺少力量→虚弱的→无力的
-extension_dim: 力量程度
+extension_dim: [力量程度]
 phonetic: "/ˈfiːbl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**缺少力量**"为统筹中心，沿力量程度向外扩展：
 >
 > 1. **缺少力量（身体层面）**
@@ -67,7 +65,7 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > feeble 与 [[fee]]（费用/牛）同源。在古代，有牛就有力量，没牛就没力量。feeble 就是"没牛的人"——身体虚弱、论点无力、声音微弱。考研真题中出现过 "improved their feeble corporation governance"（改善了他们薄弱的公司治理），feeble 在这里指"形同虚设的、无效的"。
@@ -89,7 +87,7 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[strong]]：强壮的（feeble 的精确反义：虚弱↔强壮）
 > - [[powerful]]：有力的（feeble 的反义：无力↔有力）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a feeble excuse/argument**：站不住脚的借口/论点
 > - **a feeble attempt**：无力的尝试
 > - **a feeble voice/light/smile**：微弱的声音/光线/微笑
@@ -130,19 +128,15 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them..."（就在老板和董事会终于解决了他们最严重的会计和合规问题，并改善了他们薄弱的公司治理之际，一个新的问题威胁着他们——2007年考研英语阅读）
 > - "We understood this sufficiently to mistrust the feeble and inept judgments of our younger selves."（我们对此有足够的理解，以至于不信任我们年轻时的那些虚弱而笨拙的判断——Slate Magazine）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

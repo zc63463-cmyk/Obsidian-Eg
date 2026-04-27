@@ -3,14 +3,12 @@ title: "miracle"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 奇迹（令人惊叹的事物）
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/ˈmɪrəkl/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**奇迹（令人惊叹的事物）**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **惊叹**（宗教层面）
@@ -68,7 +66,7 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > miracle 来自拉丁语 mirari "惊奇、赞叹"。miracle 的核心就是"令人惊叹的事"——看到让人张嘴惊叹的东西，那就是 miracle。最初 miracle 专指"神迹"（上帝创造的奇妙事件），后来泛指一切"奇迹"。a miracle survival = 奇迹般的生还 = 令人惊叹的幸存。by a miracle = 奇迹般地 = 令人惊叹地。miracle 和 admire（钦佩）同源——ad + mirari = 对……惊叹。miracle 的核心画面：一个人满脸惊叹。
@@ -90,7 +88,7 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disaster]]：灾难（miracle 的反义：奇迹↔灾难）
 > - [[tragedy]]：悲剧（miracle 的反义：奇迹↔悲剧）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **by a miracle**：奇迹般地
 > - **a miracle survival**：奇迹般的生还
 > - **miracle worker**：创造奇迹的人
@@ -131,19 +129,15 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is nothing short of a miracle that the miners survived after being trapped underground for 69 days."（矿工们在地下被困69天后生还，这简直是个奇迹。——考研英语阅读相关语料）
 > - "The doctor was hailed as a miracle worker after performing a groundbreaking surgery."（这位医生在完成一项开创性的手术后被誉为创造奇迹的人。——考研相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

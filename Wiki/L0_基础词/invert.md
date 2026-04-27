@@ -3,14 +3,12 @@ title: "invert"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 使翻转（使朝向反方向）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪnˈvɜːt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ in-(=intensive，加强语气) + [[ver-vert|vert]](转，拉丁语 *vertere*，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使翻转（使朝向反方向）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使翻转**（物理层面）
@@ -64,7 +62,7 @@ in-(=intensive，加强语气) + [[ver-vert|vert]](转，拉丁语 *vertere*，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ in-(=intensive，加强语气) + [[ver-vert|vert]](转，拉丁语 *vertere*，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（加强）+ vert（转）→ 使完全转过去 → 使翻转。invert a glass（把杯子倒过来），invert the order（把顺序颠倒过来），invert the normal pattern（把正常模式反转过来）。invert 就是"翻转"这个动作本身。
@@ -88,7 +86,7 @@ in-(=intensive，加强语气) + [[ver-vert|vert]](转，拉丁语 *vertere*，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ in-(=intensive，加强语气) + [[ver-vert|vert]](转，拉丁语 *vertere*，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[restore]]：恢复（invert 的反义：颠倒↔恢复原状）
 > - [[maintain]]：维持（invert 的反义：翻转↔维持不变）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,25 +117,21 @@ in-(=intensive，加强语气) + [[ver-vert|vert]](转，拉丁语 *vertere*，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **invert the order/sequence**：颠倒顺序
 > - **invert a glass/bowl**：倒转杯子/碗
 > - **inverted commas**：引号（英式英语）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The artist inverted the traditional composition to create a striking visual effect."（艺术家颠倒了传统的构图方式，创造出引人注目的视觉效果）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

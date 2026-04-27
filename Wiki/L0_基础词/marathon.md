@@ -3,14 +3,12 @@ title: "marathon"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 马拉松（长距离赛跑，源自古希腊马拉松战役）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈmærəθən/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**马拉松（长距离赛跑）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **长距离赛跑**
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > marathon 来自希腊地名"马拉松"。公元前490年，希腊人在马拉松击败波斯人后，一名士兵从战场跑回雅典报捷，全程约40公里，跑到后倒地身亡。1896年第一届现代奥运会设立了马拉松赛以纪念此事。现在 marathon 也指"持久而艰苦的活动"——a marathon meeting 就是"马拉松式的会议"。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sprint]]：冲刺，短跑（marathon 的精确反义：长跑↔短跑）
 > - [[dash]]：短跑，猛冲（marathon 的反义：持久↔短暂）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **run a marathon**：跑马拉松
 > - **a marathon session/meeting**：马拉松式的会议
 > - **a marathon journey**：长途旅行
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The New York City marathon begins in Staten Island and ends in Manhattan's Central Park."（纽约市马拉松赛从斯塔滕岛开始，在曼哈顿中央公园结束。——Cambridge Dictionary）
 > - "The painting would be completed in one marathon session."（这幅画将在一次马拉松式的创作中完成。——Oxford Advanced Learner's Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

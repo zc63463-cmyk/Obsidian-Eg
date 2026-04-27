@@ -3,14 +3,12 @@ title: "habit"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 长期反复而形成的固有行为状态
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈhæbɪt/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**长期反复而形成的固有行为状态**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **长期反复而形成的固有行为状态**（个人行为层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > habit 来自拉丁语 *habere*（持有、拥有）。想象你每天早上**持有**（have）一个固定的行为——先喝咖啡再看书——久而久之，这个行为就像一件衣服**穿在身上**，成了你的 habit（习惯）。事实上，habit 的词源本义就是"穿着的状态"，修道士的道袍也叫 habit。所以 habit = 你"持有"并"穿着"的行为模式。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[novelty]]：新奇事物（habit 的精确反义：固有习惯↔新鲜事物）
 > - [[innovation]]：创新，革新（打破旧习惯的行为）
 > - [[spontaneity]]：自发性（habit 的行为反义：固定模式↔即兴发挥）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **form/develop a habit**：养成习惯
 > - **break/kick a habit**：戒除习惯（尤指坏习惯）
 > - **get into the habit of doing**：养成做某事的习惯
@@ -143,7 +141,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It's very easy to fall into the habit of smoking, but extremely difficult to stop."（养成吸烟的习惯很容易，但戒掉却极其困难。）——考研阅读/翻译，健康话题
 > - "Many people add salt to their food out of habit, without even tasting it first."（许多人出于习惯在食物中加盐，甚至都没先尝一下味道。）——考研阅读，生活方式话题
 > - "a survey on eating habits in the U.K."（一项关于英国人饮食习惯的调查。）——考研阅读常见搭配
@@ -151,15 +149,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

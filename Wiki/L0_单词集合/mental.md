@@ -3,17 +3,14 @@ title: "mental"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 与心智/大脑相关的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmentl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: 
 network_activation: [同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与心智相关**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与心智相关**（基础层面：与大脑的思维活动有关）
@@ -65,7 +62,7 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > **ment** 就是 mind（心智、大脑），加上 **-al**（与……有关的），与心智有关的就是 **mental**——精神的、心理的。
@@ -89,7 +86,7 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[physical]]：身体的，体力的，与 mental 构成"心-身"反义对
 > - [[manual]]：体力的，手工的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +121,7 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mental health**：心理健康
   - The pandemic has had a significant impact on people's mental health.（疫情对人们的心理健康产生了重大影响。）
 > - **mental illness**：精神疾病
@@ -134,21 +131,15 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Regular physical exercise has been shown to have positive effects on mental well-being.（定期体育锻炼已被证明对心理健康有积极影响。）
 > - Children with learning disabilities often face mental challenges in traditional classroom settings.（有学习障碍的儿童在传统课堂环境中经常面临心理挑战。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

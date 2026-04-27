@@ -3,14 +3,12 @@ title: "sink"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 下沉（沉入水中/地面）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/sɪŋk/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**下沉**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **下沉**（物理层面）
@@ -72,7 +70,7 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sink 就是"往下沉"。船 sink（沉没），价格 sink（下跌），心 sink（沉下去），消息 sink in（渗透进去）。厨房的水槽叫 sink 因为水往"下"流。sink 的过去式是 sank，过去分词是 sunk。
@@ -95,7 +93,7 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[float]]：漂浮（sink 的精确反义：下沉↔漂浮）
 > - [[rise]]：上升（sink 的反义：下降↔上升）
 - [[soar]]：飙升（sink 的反义：下降↔飙升）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -134,7 +132,7 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sink in**：被理解，渗透
 > - **sink into**：陷入（绝望、债务等）
 > - **heart sinks**：心沉了下去（失望）
@@ -143,19 +141,15 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The boat was beginning to sink fast."（那艘船开始迅速下沉——考研英语阅读高频表达）
 > - "Researchers also point to the time sink that is involved in preparing data for others to view."（研究人员还指出了准备数据以供他人查看所耗费的时间——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

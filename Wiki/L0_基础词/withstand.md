@@ -3,14 +3,12 @@ title: "withstand"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 向后站住→抵抗住
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/wɪðˈstænd/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后站住→抵抗住**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **向后站住**（身体层面）
@@ -64,7 +62,7 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > withstand = with-（向后）+ stand（站立）= 向后站住 = 抵抗住。想象暴风雨来了，你双脚牢牢站住，向后用力——"向后站住"→ 不被吹倒。with- 前缀表示"向后/相反"，保留在三个重要复合词中：withhold（扣留=向后拿住）、withdraw（撤退=向后拉）、withstand（抵抗=向后站住）。注意 withstand 的过去式是 withstood（不规则变化）。withstand the test of time（经受住时间的考验）是考研高频表达。stand 与 [[st-sta-stat]]（站立）同源。
@@ -87,7 +85,7 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[yield]]：屈服，让步（withstand 的反义：抵抗↔屈服）
 > - [[surrender]]：投降（withstand 的反义：抵抗↔投降）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **withstand the test of time**：经受住时间的考验（考研高频表达）
 > - **withstand pressure/stress**：承受压力
 > - **withstand an attack**：抵挡进攻
@@ -129,19 +127,15 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She is an artist whose work will undoubtedly withstand the test of time and continue to inspire future generations."（她是一位其作品毫无疑问能经受住时间考验并继续激励后人的艺术家——考研阅读文化话题相关表达，withstand the test of time 为经典搭配）
 > - "Explorers had to withstand extreme weather conditions, food shortages, and the constant threat of disease during their expeditions."（探险者在探险过程中不得不经受极端天气条件、食物短缺以及疾病的持续威胁——考研翻译探险话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

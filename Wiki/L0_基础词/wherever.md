@@ -3,17 +3,14 @@ title: "wherever"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 无论什么地方
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/weərˈevər/"
 pos: adv./conj.
-metaphor_type: 无隐喻
 word_root: where
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ where（哪里/在……的地方）+ ever（曾经/永远）。where 源自古�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无论什么地方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **无论什么地方**（空间层面）
@@ -64,7 +61,7 @@ where（哪里/在……的地方）+ ever（曾经/永远）。where 源自古�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ where（哪里/在……的地方）+ ever（曾经/永远）。where 源自古�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wherever = where（哪里）+ ever（永远）→ 无论在哪里都……。记住 -ever 家族的统一模式：疑问词 + ever = "无论……"。wherever 有两个核心用法：让步（无论何地 = no matter where）和疑问强调（究竟在哪里）。Wherever you are, be there = 无论你在哪里，都要全身心投入。
@@ -86,7 +83,7 @@ where（哪里/在……的地方）+ ever（曾经/永远）。where 源自古�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ where（哪里/在……的地方）+ ever（曾经/永远）。where 源自古�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - wherever 无直接反义词，逻辑上与"限定地点"相对
 > - [[nowhere]]：无处（wherever 表示"无论何地"，nowhere 表示"无处"）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +118,22 @@ where（哪里/在……的地方）+ ever（曾经/永远）。where 源自古�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **wherever you go**：无论你去哪里
 > - **wherever possible**：在任何可能的地方
 > - **wherever did you...**：你究竟从哪里……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the age of globalization, cultural exchange happens wherever people interact, breaking down traditional barriers between nations and fostering mutual understanding."（在全球化时代，文化交流发生在人们互动的任何地方，打破国家间的传统壁垒，促进相互理解——考研阅读全球化话题相关表达）
 > - "Wherever scientists have looked for signs of extraterrestrial life, they have so far come up empty-handed, though the search continues with ever more sophisticated technology."（无论科学家在哪里寻找外星生命的迹象，迄今为止都一无所获，尽管搜索仍在以越来越先进的技术继续进行——考研阅读科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

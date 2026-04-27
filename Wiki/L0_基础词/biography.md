@@ -3,14 +3,12 @@ title: "biography"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 生命的书写
-extension_dim: 知识载体
+extension_dim: [知识载体]
 phonetic: "/baɪˈɒɡrəfi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**生命的书写**"为统筹中心，沿知识载体向外扩展：
 >
 > 1. **生命的书写**（字面层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > biography = bio-（生命）+ graph（写）+ -y（名词后缀）。字面义就是"书写生命"。写一个人的一生就是 biography（传记）。auto-（自己）+ biography = autobiography（自传——自己写自己的生命）。graph 见 [[graph-gram]]（写、画）。bio- 与 [[biology]]（生物学）共享词根。记住：biography = 写生命 = 传记。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[autobiography]]：自传（biography 的对应而非反义：他人写↔自己写）
 > - [[fiction]]：小说（biography 的反义：真实记录↔虚构故事）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a biography of sb.**：某人的传记
 > - **an authorized biography**：授权传记
 > - **an unauthorized biography**：未经授权的传记
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The biography of Abraham Lincoln remains one of the most widely read books in American history."（亚伯拉罕·林肯的传记仍然是美国历史上被广泛阅读的书籍之一。——考研英语阅读历史人物类话题）
 > - "She has published a highly acclaimed biography of the former prime minister."（她出版了一部备受赞誉的前首相传记。——考研英语阅读文学类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

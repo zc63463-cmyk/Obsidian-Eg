@@ -3,14 +3,12 @@ title: "ink"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 着色液体（用于书写和印刷的彩色液体）
-extension_dim: 功能维度
+extension_dim: [功能维度]
 phonetic: "/ɪŋk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**着色液体**"为统筹中心，沿功能维度向外扩展：
 >
 > 1. **着色液体**（物理层面）
@@ -66,7 +64,7 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ink 的希腊语祖先 *enkauston* 就是"烧上去的颜色"。想象古罗马的书法家，把颜料放在火上加热融化，然后用这种"烧制的颜色"在羊皮纸上写字——这就是最早的 ink。后来，ink 成为一切书写工具的代名词：记者被称为"沾满墨水的人"，签署合同叫 ink a deal（在协议上留下墨水=正式承诺）。记住：ink = 着色液体 = 墨水 → 签署。
@@ -89,7 +87,7 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[eraser]]：橡皮擦（ink 的反义：书写↔擦除）
 > - [[correction-fluid]]：修正液（ink 的反义：墨水↔覆盖墨水）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ink and paper**：笔墨纸砚（写作的象征）
 > - **run out of ink**：墨水用完
 > - **ink a deal/agreement**：签署协议/合同
@@ -127,19 +125,15 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The two companies finally inked a deal after months of negotiation, marking a new chapter in their partnership."（两家公司在数月谈判后终于签署了协议，标志着合作关系的新篇章——考研英语阅读，商业合作话题）
 > - "In the age of digital media, traditional ink-and-paper newspapers are facing unprecedented challenges."（在数字媒体时代，传统的纸质报纸正面临前所未有的挑战——考研英语阅读，媒体变革话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "exhibit"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 拿出来给人看（ex-向外 + hibit-持有 → 把持有的东西向外展示）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪɡˈzɪbɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拿出来给人看**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **拿出来给人看**（物理层面）
@@ -67,7 +65,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > exhibit = ex（向外）+ hibit（持有，和 habit 习惯同源——habit 是你"持有"的行为方式）。把你持有的东西向外展示就是 exhibit。博物馆 exhibit（展览）艺术品，病人 exhibit（表现出）症状，学生 exhibit（展示出）才华——都是把内在的东西"拿出来给人看"。
@@ -90,7 +88,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏（exhibit 展示↔conceal 隐藏）
 > - [[hide]]：藏匿（exhibit 展出↔hide 藏匿）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,22 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exhibit paintings/artworks**：展览画作/艺术品（The gallery exhibits works by local artists. 画廊展出本地艺术家的作品。）
 > - **exhibit signs/symptoms of**：表现出……的迹象/症状（The patient exhibited symptoms of the disease. 患者表现出了该疾病的症状。）
 > - **exhibit courage/patience**：表现出勇气/耐心
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The museum is exhibiting a collection of ancient Chinese artifacts."（博物馆正在展出一系列中国古代文物。）
 > - "Children who exhibit aggressive behavior may need professional help."（表现出攻击性行为的儿童可能需要专业帮助。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

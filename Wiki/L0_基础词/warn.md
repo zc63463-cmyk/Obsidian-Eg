@@ -3,17 +3,14 @@ title: "warn"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 提醒某人注意危险
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/wɔːn/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: warn
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**提醒某人注意危险**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **提醒注意危险**（人际层面）
@@ -69,7 +66,7 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > warn 源自古英语 *warnian*，与 ware（小心）同源。beware（当心）= be + ware（要小心）。warn 就是让别人 ware（小心）→ 警告。I warn you to beware of the danger.（我警告你要当心危险。）
@@ -92,7 +89,7 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[encourage]]：鼓励（warn 的反义：警告↔鼓励）
 > - [[reassure]]：使安心（warn 的反义：警告↔使安心）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +129,7 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **warn sb. of sth.**：警告某人某事
 > - **warn sb. against doing sth.**：告诫某人不要做某事
 > - **warn sb. not to do sth.**：警告某人不要做某事
@@ -140,19 +137,15 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Feeling threatened, companies responded by writing ever-longer warning labels, trying to anticipate every possible accident."（感到受到威胁，公司通过撰写越来越长的警示标签来应对，试图预判每一种可能发生的事故。——1999年考研英语阅读 Text 1）
 > - "The Food Standards Authority (FSA) has issued a public warning about the risks of a compound called acrylamide that forms in some foods cooked at high temperatures."（食品标准局发布了关于某些高温烹饪食物中形成的丙烯酰胺化合物风险的公开警告。——2020年英语一完形）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

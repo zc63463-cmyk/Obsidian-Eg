@@ -3,14 +3,12 @@ title: "commemorate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 一起记住（共同回忆以示纪念）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/kəˈmeməreɪt/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一起记住**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **一起记住**（行为层面）
@@ -64,7 +62,7 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（一起）+ memor（记忆）+ ate（动词）→ 一起记住 → 纪念。每年清明节，全家人"一起"去"记住"已故的亲人——这就是 commemorate。国家设立纪念日，让全国人民"一起记住"某个重要事件——commemorate the anniversary。
@@ -88,7 +86,7 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[forget]]：忘记（commemorate 纪念 vs forget 忘记，形成"记住↔忘记"的对比）
 > - [[ignore]]：忽视（纪念↔忽视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **commemorate the anniversary**：纪念周年
 > - **commemorate a victory**：纪念胜利
 > - **commemorate the dead**：纪念死者
@@ -130,19 +128,15 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A ceremony was held to commemorate the 100th anniversary of the founding of the university."（举行了一场仪式来纪念建校100周年——考研翻译高频表达）
 > - "The statue was erected to commemorate the soldiers who died in the war."（这座雕像是为了纪念在战争中牺牲的士兵而建的——考研阅读常见话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

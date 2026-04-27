@@ -3,14 +3,12 @@ title: "cast"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 投掷
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/kɑːst/"
 pos: vt.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**投掷**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **投掷**（物理层面：将某物从一个位置抛向另一个位置）
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古诺尔斯语 kasta = 投掷。导演为电影挑选了全明星演员阵容（cast n.①），演员们在片场投射（cast vt.①）出精彩的光影。拍摄中有人受伤，腿上打了石膏（cast n.②）。影片上映后，观众们纷纷投票（cast vt.③）支持这部由金属道具铸造（cast vt.②）的经典之作。所有义项都是"投掷"的不同变体。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[withdraw]]：撤回（cast a vote 投票 ↔ withdraw a vote 撤票）
 > - [[keep]]：保留（cast off 抛弃 ↔ keep 保留）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **cast light on**：阐明/使……明朗
 > - **cast a vote**：投票
 > - **cast a shadow**：投下阴影
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new evidence cast doubt on the previous conclusion."（新证据使先前的结论产生了疑问。）——学术/论证类阅读语境
 > - "The movie has an impressive cast of actors."（这部电影有着令人印象深刻的演员阵容。）——文化/娱乐类阅读语境
 > - "Citizens went to the polls to cast their votes."（公民们前往投票站投票。）——政治/社会类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

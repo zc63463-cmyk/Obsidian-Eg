@@ -3,14 +3,12 @@ title: "accompany"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 陪伴，伴随
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈkʌmpəni/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ac-(=ad-，向) + com-(共同) + pan(=panis，面包) + -y(名词/动词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与某人同行**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **与某人同行**（物理陪伴层面）
@@ -65,7 +63,7 @@ ac-(=ad-，向) + com-(共同) + pan(=panis，面包) + -y(名词/动词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ac-(=ad-，向) + com-(共同) + pan(=panis，面包) + -y(名词/动词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自拉丁语 *accomponere*，但更直接的来源是 *companion*（同伴）的动词形式。com-（共同）+ panis（面包）= 一起吃面包的人 = 同伴。accompany 就是"做某人的同伴"——陪他一起走。想象古代旅途中，与陌生人分享面包结伴而行。
@@ -87,7 +85,7 @@ ac-(=ad-，向) + com-(共同) + pan(=panis，面包) + -y(名词/动词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ac-(=ad-，向) + com-(共同) + pan(=panis，面包) + -y(名词/动词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abandon]]：抛弃 vs accompany 陪伴
 > - [[leave]]：离开 vs accompany 陪同
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ ac-(=ad-，向) + com-(共同) + pan(=panis，面包) + -y(名词/动词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **accompany sb. to**：陪某人去……
 > - **accompany sb. on the piano**：用钢琴为某人伴奏
 > - **be accompanied by**：由……伴随/陪同
@@ -125,22 +123,16 @@ ac-(=ad-，向) + com-(共同) + pan(=panis，面包) + -y(名词/动词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Children under 12 must be **accompanied** by an adult.（12岁以下儿童须由成人陪同。）
 > - Economic growth is often **accompanied** by environmental degradation.（经济增长往往伴随着环境恶化。）
 > - She **accompanied** the singer on the guitar.（她用吉他为歌手伴奏。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

@@ -3,17 +3,14 @@ title: "provided"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在提供…的条件下→如果
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/prəˈvaɪdɪd/"
 pos: conj.
-metaphor_type: 无隐喻
 word_root: provide
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-20
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在提供…的条件下→如果**"为统筹中心，沿动作→条件路径向外扩展：
 >
 > 1. **提供**（动作层面）
@@ -75,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > provided = provide（提供）+ -ed（过去分词）。想象你在和一个朋友谈条件："我借钱给你，**provided**（在…被提供的条件下）你按时还。" 也就是说，"在我提供借款的条件下→如果你按时还"。provided 的核心逻辑是"条件交换"——我提供A，条件是你提供B。久而久之，provided 就从"在提供…的条件下"简化成了连词"如果"。记住 provided = 在提供…的条件下→如果。
@@ -104,7 +101,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -118,13 +115,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - provided（如果，条件）↔ even if（即使，让步）
 > - provided that（在…条件下）↔ regardless of（不管，不顾）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -137,7 +134,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **provided (that) + 从句**：如果，假如
 > - **provided you / we / they...**：如果你/我们/他们…
 > - **provided it is possible**：如果可能的话
@@ -145,7 +142,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Provided that you arrive on time, you will be admitted."（如果你准时到达，就会被允许进入）——日常条件句
 > - "The project will go ahead provided funding is approved."（如果资金获得批准，项目将继续进行）——商业话题
 > - "Provided there are no further delays, we should finish by Friday."（如果没有进一步的延误，我们应该在周五前完成）——工作话题
@@ -154,15 +151,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

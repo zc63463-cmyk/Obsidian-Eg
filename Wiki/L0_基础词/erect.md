@@ -3,14 +3,12 @@ title: "erect"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 竖直站起来（从水平变为垂直）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ɪˈrekt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**竖直站起来（从水平变为垂直）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使向上直起来**（空间层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > erect 来自拉丁语，e-（向上）+ rect（直）→ "使向上直起来"。想象一块躺倒的石碑，你用绳子把它"竖起来"——这就是 erect。从物理的"竖起来"到建筑的"建造"（erect a building），再到姿态的"挺直"（erect posture），核心都是"从水平到垂直"。注意：rect 也是 [[correct]]（纠正）、[[direct]]（直接）中的词根。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[demolish]]：拆除（erect 的精确反义：建造↔拆除）
 > - [[destroy]]：摧毁（erect 的反义：建立↔摧毁）
 > - [[level]]：夷为平地（erect 的反义：竖立↔夷平）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **erect a building/monument**：建造大楼/竖立纪念碑（考研高频搭配）
 > - **erect a barrier**：竖起屏障
 > - **hold oneself erect**：挺直身体
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The city erected a monument to honor the soldiers who died in the war."（这座城市竖立了一座纪念碑来纪念在战争中牺牲的士兵——考研阅读历史话题常见表达）
 > - "He sat with an erect posture, his eyes fixed on the speaker."（他坐得笔直，目光紧盯着演讲者——考研阅读描写性表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "accept"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 拿到自己这边来
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/əkˈsept/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拿到自己这边来**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **拿到自己这边来**（物理层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > accept 的核心是 cap（拿、取）。ad（向）+ cap（拿）= 把东西**拿向自己**。别人递给你礼物，你"拿过来"就是 accept；别人告诉你一个真相，你在心里"拿过来"就是 accept（承认）；老板给你一个任务，你"接过来"就是 accept（承担）。记住：**accept = 拿到自己这边 = 接受/承认/承担**。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reject]]：拒绝→ accept（接受）的精确反义（接受↔拒绝）
 > - [[refuse]]：拒绝，回绝→ accept（接受）的反义（接受↔拒绝）
 > - [[deny]]：否认→ accept（承认）的反义（承认↔否认）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **accept an invitation/apology**：接受邀请/道歉
 > - **accept the fact that...**：接受……的事实
 > - **accept responsibility**：承担责任
@@ -138,22 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is generally accepted that education is the key to success."（人们普遍认为教育是成功的关键。）——考研写作/翻译经典句型
 > - "accept responsibility for the mistake"（为错误承担责任）——管理、伦理类阅读
 > - "She accepted the job offer without hesitation."（她毫不犹豫地接受了工作邀请。）——叙事类文本
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "elastic"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 可弹回的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈlæstɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可弹回的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可弹回的**（物理层面）
@@ -65,7 +63,7 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > elastic 想象一根弹性十足的橡皮筋（elastic band），你拉它拉得再长，一松手它就弹回原样。The new policy was sufficiently elastic to accommodate both views——新政策弹性十足，能容纳两种观点。
@@ -88,7 +86,7 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rigid]]：僵硬的，死板的（elastic 的精确反义：灵活↔死板）
 > - [[inflexible]]：不可弯曲的，不灵活的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,22 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **elastic band**：橡皮筋，松紧带
 > - **elastic demand**：弹性需求（经济学）
 > - **elastic policy**：灵活的政策
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The new policy was sufficiently elastic to accommodate both views."（新政策充分灵活，能兼顾两种观点——考研政治类阅读语料）
 > - "Rubber is an elastic material."（橡胶是一种弹性材料——考研科普类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

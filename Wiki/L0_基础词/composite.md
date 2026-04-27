@@ -3,14 +3,12 @@ title: "composite"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 把各部分放在一起形成的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kəmˈpɒzɪt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把各部分放在一起形成的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **把各部分放在一起**（组合层面）
@@ -65,7 +63,7 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > com（一起）+ pos（放置）→ composite。把碳纤维和树脂放在一起就是 composite material（复合材料）。把多张照片放在一起就是 composite image（合成图像）。composite 就是"放在一起"。
@@ -88,7 +86,7 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[simple]]：简单的，单一的（composite 的反义：复合↔单一）
 > - [[pure]]：纯粹的（composite 的反义：合成↔纯粹）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **composite material**：复合材料
 > - **composite image/picture**：合成图像
 > - **carbon composite**：碳复合材料
@@ -129,19 +127,15 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Modern aircraft are largely made of composite materials."（现代飞机主要由复合材料制成）
 > - "The index is a composite of several economic indicators."（该指数是多个经济指标的综合）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

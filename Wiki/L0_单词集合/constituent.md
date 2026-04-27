@@ -3,14 +3,12 @@ title: "constituent"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 组成的，构成的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kənˈstɪtjuənt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -u-（连接元音）+ -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**组成的，构成的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **组成的，构成的**（空间层面的构成关系）
@@ -65,7 +63,7 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -u-（连接元音）+ -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -u-（连接元音）+ -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con-（一起）+ stit（站立）+ -ent（...的）→ 站在一起构成整体的 → **组成的**。想象一块拼图，它和其他拼图一起"站"在那里，组成一幅完整的画面——这就是"constituent"。
@@ -90,7 +88,7 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -u-（连接元音）+ -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -u-（连接元音）+ -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whole]]：整体（与部分相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,30 +116,21 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -u-（连接元音）+ -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **constituent assembly**：制宪会议（A constituent assembly was convened to draft a new constitution.）
 > - **constituent elements**：构成要素（Hydrogen and oxygen are the constituent elements of water.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The basic compact underlying representative government assumes that public officials will hear from their constituents and act on their concerns."（代议制政府的基本契约假设，公职人员会听取选民的意见并根据他们的关切采取行动。）——2017考研英语一Text4
 > - "Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity."（下载和消费文化需要高超的技能，但如果不能超越下载，就等于剥夺了人类的一个决定性要素。）——2012考研英语一Text3
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

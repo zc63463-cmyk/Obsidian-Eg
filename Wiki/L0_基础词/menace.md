@@ -3,14 +3,12 @@ title: "menace"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 威胁
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmenəs/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**威胁**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **威胁**（抽象层面）
@@ -67,7 +65,7 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > menace 源自拉丁语 minari（威胁）。The menace of industrial pollution is far beyond his imagination——工业污染的危险性远远超出他的想象。Illegal logging acts as a menace to the survival of ancient forests——非法砍伐是对原始森林生存的一大威胁。menace 比 threat 更有"压迫感和危险性"。
@@ -90,7 +88,7 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[safety]]：安全（menace 的精确反义：威胁↔安全）
 > - [[protection]]：保护（威胁的反义：威胁↔保护）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a menace to society**：社会的威胁
 > - **the menace of sth.**：……的威胁
 > - **menace sb. with sth.**：用……威胁某人
@@ -133,19 +131,15 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Illegal logging acts as a menace to the survival of ancient forests."（非法砍伐是对原始森林生存的一大威胁——考研环保类阅读语料）
 > - "The menace posed by conventional weapons is another area of concern to my delegation."（常规武器造成的危险是我国代表团关切的另一个方面——考研国际关系类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

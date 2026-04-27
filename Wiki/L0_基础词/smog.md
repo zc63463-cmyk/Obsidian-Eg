@@ -3,17 +3,14 @@ title: "smog"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 烟雾（smoke + fog 的混合体）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/smɒɡ/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: smog
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**烟雾（烟+雾的混合）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **烟雾**（物理层面）
@@ -62,7 +59,7 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > smog = smoke（烟）+ fog（雾）。想象你站在伦敦街头，工厂的浓烟和河上的浓雾混合在一起，形成灰黄色的雾霾笼罩着整座城市。这就是 smog 的由来。
@@ -84,7 +81,7 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +94,12 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fresh air]]：新鲜空气（smog 的反义：雾霾↔清新空气）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +113,7 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **heavy/thick smog**：浓重的雾霾
   - The sky over the city was overspread with heavy smog.
 - **smog alert/warning**：雾霾警报
@@ -126,19 +123,15 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Cars cause pollution, both smog and acid rain."（汽车造成污染，既有烟雾又有酸雨。——常见环保主题语料）
 > - "Most of my friends are moving outside the city to avoid the noise, smog and traffic of the city."（我的大多数朋友都搬到城外来躲避城市的噪音、烟雾和交通。——常见城市化主题语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "persevere"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 始终严格站立
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌpɜːsɪˈvɪə(r)/"
 pos: vi.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**始终严格站立**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **始终严格站立**（行为层面）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > per（始终）+ severe（严格）→ 始终严格要求自己 → persevere（坚持不懈）。If you persevere long enough and work hard enough, you'll eventually succeed——如果你坚持足够久、努力足够多，你最终会成功。She persevered with her violin lessons——她孜孜不倦地学习小提琴。persevere 是褒义词，强调在困难面前的坚持。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[give up]]：放弃（persevere 的精确反义：坚持↔放弃）
 > - [[quit]]：退出，放弃（坚持的反义：坚持↔退出）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,25 +116,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **persevere in/with**：坚持不懈地做某事
 > - **persevere despite setbacks**：尽管遭遇挫折仍坚持不懈
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Despite a number of setbacks, they persevered in their attempts to fly around the world in a balloon."（虽屡遭挫折，他们仍不断尝试乘气球环游世界——考研阅读常见句式）
 > - "She persevered with her violin lessons."（她孜孜不倦地学习小提琴——考研文学类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

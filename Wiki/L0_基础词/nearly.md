@@ -3,14 +3,12 @@ title: "nearly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 几乎（接近某个状态但尚未完全达到）
-extension_dim: 程度路径
+extension_dim: [程度路径]
 phonetic: "/ˈnɪəli/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**几乎（接近某个状态但尚未完全达到）**"为统筹中心，沿程度路径向外扩展：
 >
 > 1. **几乎**（程度层面）
@@ -64,7 +62,7 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nearly 是 near（接近）的副词形式。near 的核心含义是"接近"，加 -ly 后变成"以接近的方式"——也就是"几乎"。想象你在跑马拉松，终点线就在眼前，你 nearly there（几乎到了）——差一步就到了但还没到。这就是 nearly 的精髓。
@@ -86,7 +84,7 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[completely]]：完全地（nearly 的精确反义：几乎↔完全）
 > - [[exactly]]：确切地（nearly 的反义：将近↔确切）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nearly finished**：几乎完成了
 > - **nearly impossible**：几乎不可能的
 > - **nearly 200 people**：将近200人
@@ -127,19 +125,15 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Now what does this man do but fall back a couple of hundred yards and then come rushing at me as hard as he could tear, with his nail-keg bent down nearly to his horse's neck."（这家伙倒退了几百码，然后拼命朝我冲来，他的钉桶几乎弯到了马脖子下面。——Mark Twain, *A Connecticut Yankee*）
 > - "There were lots of kids in my neighborhood when I was growing up."（我成长时，附近有很多孩子。——Cambridge Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "cluster"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 自然生长在一起的团块
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈklʌstə(r)/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: cluster
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**自然生长在一起的团块**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **自然聚集的团块**（物理层面）
@@ -65,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cluster 原来指"自然长在一起的团块"——葡萄 cluster（一串葡萄），蜜蜂 cluster（一群蜜蜂）。后来引申为任何聚集在一起的事物：建筑 cluster（建筑群），星星 cluster（星团），人 cluster（群集）。cluster 就是"簇"——自然或人为地聚集在一起。
@@ -88,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[scatter]]：散开（cluster 的反义：聚集↔散开）
 > - [[disperse]]：分散（cluster 的反义：群集↔分散）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a cluster of**：一群/一簇……
 > - **cluster around**：聚集在……周围
 > - **a cluster of buildings**：建筑群
@@ -126,19 +123,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A cluster of new buildings has transformed the city skyline."（一群新建筑改变了城市的天际线）
 > - "The patients' symptoms clustered around two distinct patterns."（患者的症状聚集为两种不同的模式）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

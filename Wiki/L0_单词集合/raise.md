@@ -3,14 +3,12 @@ title: "raise"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 举起/抬起
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/reɪz/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**举起/抬起**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **举起/抬起**（物理动作层面）
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > raise 和 rise 是一对孪生兄弟——rise 是自己升起来（太阳 rise），raise 是你把它举起来（raise your hand）。从举手到提高价格、养大孩子、筹集资金、提出问题，核心画面始终是"**从低到高**"。记住：raise 永远是**你主动**把东西推上去。
@@ -98,7 +96,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -112,14 +110,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lower]]：降低（raise 的精确反义：提高 ↔ 降低）
 > - [[reduce]]：减少（raise the price ↔ reduce the price）
 > - [[drop]]：下降（raise the temperature ↔ drop the temperature）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -132,7 +130,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **raise awareness**：提高意识，引起关注
 > - **raise funds/money**：筹集资金
 > - **raise a question/issue**：提出问题/议题
@@ -144,7 +142,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "raise public awareness of environmental issues"（提高公众的环保意识）——社会/环保类阅读高频搭配
 > - "raise funds for research"（为研究筹集资金）——学术/科技类阅读语境
 > - "raise questions about the validity of the study"（对该研究的有效性提出质疑）——学术评论类文章
@@ -152,15 +150,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

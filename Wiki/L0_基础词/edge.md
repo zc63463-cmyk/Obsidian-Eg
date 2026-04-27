@@ -3,14 +3,12 @@ title: "edge"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 边缘（物体的最外边界）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/edʒ/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**边缘**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **边缘**（物理边界层面）
@@ -69,7 +67,7 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > edge（边缘）→ 站在悬崖的边缘，你比别人多看了一步风景——这就是"优势"（have an edge）。刀的 edge 是刀刃，最锋利的部分。edge 从"边缘"延伸出"优势"和"刀刃"两层含义。
@@ -92,7 +90,7 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[center]]：中心（edge 的反义：边缘↔中心）
 > - [[disadvantage]]：劣势（edge 作为"优势"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have an edge**：有优势
 > - **competitive edge**：竞争优势
 > - **on the edge of**：在……的边缘
@@ -134,19 +132,15 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "ZEH communities are the leading edge of technologies that might someday create houses that produce as much energy as they consume."（零能耗住宅社区是前沿技术，有朝一日可能创造出与消耗等量能源的房屋。——考研英语阅读）
 > - "The rounded edges, cool glass, smooth and unknowable as a pebble."（圆润的边缘，冰凉的玻璃，光滑得像鹅卵石一样不可捉摸。——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

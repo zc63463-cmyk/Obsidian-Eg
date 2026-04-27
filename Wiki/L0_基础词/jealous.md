@@ -3,14 +3,12 @@ title: "jealous"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 嫉妒的，吃醋的
-extension_dim: 情感路径
+extension_dim: [情感路径]
 phonetic: "/ˈdʒeləs/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ jealous 源自古法语 *gelos*（现代法语 jaloux），来自拉丁语 *zēl
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**嫉妒的，吃醋的**"为统筹中心，沿情感路径向外扩展：
 >
 > 1. **嫉妒的，吃醋的**（情感层面）
@@ -64,7 +62,7 @@ jealous 源自古法语 *gelos*（现代法语 jaloux），来自拉丁语 *zēl
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ jealous 源自古法语 *gelos*（现代法语 jaloux），来自拉丁语 *zēl
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > jealous 和 zeal（热情）来自同一个希腊词 zēlos。热情的两面：zeal = 积极的热情，jealous = 消极的嫉妒（热情过度→怕别人拥有自己没有的）。jealous of = 嫉妒/羡慕。注意 jealous 和 envious 的区别：jealous 通常涉及三方关系（A 嫉妒 B 因为 C），envious 只涉及两方（A 羡慕 B 拥有的东西）。jealous 也有"珍惜"的意思——jealous of one's reputation = 珍惜名誉。
@@ -86,7 +84,7 @@ jealous 源自古法语 *gelos*（现代法语 jaloux），来自拉丁语 *zēl
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ jealous 源自古法语 *gelos*（现代法语 jaloux），来自拉丁语 *zēl
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[generous]]：慷慨的（嫉妒 ↔ 慷慨）
 > - [[trusting]]：信任的（戒备 ↔ 信任）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ jealous 源自古法语 *gelos*（现代法语 jaloux），来自拉丁语 *zēl
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be jealous of**：嫉妒……的——She was jealous of her sister's success.
 > - **jealous of one's reputation**：珍惜名誉——He is jealous of his reputation as an honest man.
 > - **jealous husband/wife**：吃醋的丈夫/妻子——The jealous husband suspected everyone.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People are often jealous of those who achieve success through hard work."（人们经常嫉妒那些通过努力工作取得成功的人——be jealous of 为考研写作常见搭配）
 > - "She was fiercely jealous of her independence and refused to rely on anyone."（她极度珍惜自己的独立性，拒绝依赖任何人——jealous of 的"珍惜"用法在考研中值得注意）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

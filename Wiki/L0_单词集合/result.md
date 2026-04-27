@@ -3,14 +3,12 @@ title: "result"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 向前跳出的东西→结果
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈzʌlt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**结果**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **结果**（因果链条终端）
@@ -67,7 +65,7 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > re-(加强) + sult(跳) → 事情发展到最后"跳出来"的结论 → 结果
@@ -89,7 +87,7 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - cause：原因（result 是结果，cause 是原因）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **as a result**：因此（He didn't study hard; as a result, he failed the exam. 他没有努力学习；结果考试不及格。）
 > - **result in**：导致（The poor management resulted in significant financial losses. 管理不善导致了重大的财务损失。）
 > - **result from**：由……引起（Many health problems result from a lack of exercise. 许多健康问题是由缺乏锻炼引起的。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The result reflects a modest rightward shift in public opinion."（结果显示公众舆论出现了适度的右倾。）——考研高频表达
 > - "Many motor accidents are the result of unthinkingly mixing speed and alcohol."（许多机动车事故都是不计后果地酒后开快车造成的。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

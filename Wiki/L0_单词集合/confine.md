@@ -3,14 +3,12 @@ title: "confine"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 限制在边界之内
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/kənˈfaɪn/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**限制在边界之内**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **限制在边界之内**（物理层面——用围墙/栅栏围住）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（共同）+ fin（边界）：想象用栅栏把四周的边界围在一起，把人关在里面——这就是 confine（禁锢、限制）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[expand]]：扩展，扩大（禁锢 vs 扩展）
 > - [[liberate]]：解放，释放（禁锢 vs 解放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **confine...to...**：把……限制在……范围内
   > The discussion was confined to economic issues. 讨论仅限于经济问题。
 > - **be confined to**：被局限于
@@ -132,20 +130,14 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Health officials have successfully confined the epidemic to the Tabatinga area."（卫生官员成功地将疫情控制在塔巴廷加地区。）——考研高频表达
 > - "Amateurs, on the other hand, have continued to pursue local studies in the old way."（另一方面，业余人员继续以旧的方式从事局部的研究。）——2001年阅读1
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

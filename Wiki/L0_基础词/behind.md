@@ -3,14 +3,12 @@ title: "behind"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 在……后面（空间位置）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/bɪˈhaɪnd/"
 pos: prep.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在……后面**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在……后面**（空间层面）
@@ -67,7 +65,7 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > be（在）+ hind（后面）→ 在后面。想象你跑步时落在别人 behind（后面），就是落后了。你站在朋友 behind（背后），就是支持他。每件事背后都有原因——the reason behind it。
@@ -90,7 +88,7 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ahead]]：在前面（behind 的精确空间反义）
 > - [[before]]：在……之前（behind 的时间反义）
 > - [[in front of]]：在……前面（behind 的空间反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fall behind**：落后
 > - **leave behind**：留下，遗留
 > - **behind schedule**：落后于计划
@@ -129,20 +127,16 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The motive behind it is, indeed, very often purely economic rather than vindictive, but this does not ameliorate its harmful impact."（采取这种做法的动机确实往往是纯粹的经济原因而非报复，但这并没有减轻其有害影响——考研阅读高频长难句）
 > - "Nearly 2000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails."（近2000年前，当罗马人开始从苏格兰撤出时，他们留下了一件奇特的宝藏：10吨钉子——2024年英语一Text 1）
 > - "the homefront lags well behind the workplace in making adjustments for working women"（家庭领域在为职业女性做出调整方面远远落后于职场——考研翻译高频句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

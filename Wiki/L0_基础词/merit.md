@@ -3,14 +3,12 @@ title: "merit"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 应得的/值得的
-extension_dim: 价值-评价扩展
+extension_dim: [价值-评价扩展]
 phonetic: "/ˈmerɪt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**应得/值得**"为统筹中心，沿价值-评价扩展向外扩展：
 >
 > 1. **应得/值得**
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > merit 来自拉丁语 merere"赚取、应得"。你通过努力工作赚取（earn）的东西就是你的 merit（功绩）。一篇论文有 academic merit（学术价值），说明它"应得"学术界的认可。一个问题 merits discussion（值得讨论），说明它"应得"被讨论。merit-based system（基于功绩的制度）就是"看你应得多少就给多少"的制度。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fault]]：缺点（merit"优点"的精确反义：优点↔缺点）
 > - [[demerit]]：过失（merit"功绩"的反义：功绩↔过失）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **merit attention/consideration**：值得注意/考虑
 > - **on its merits**：按事物本身的价值
 > - **merit-based**：基于功绩的
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Each case should be judged on its own merits."（每个案件都应根据其本身的情况来判断。——法律语料）
 > - "This research merits further investigation."（这项研究值得进一步调查。——学术语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

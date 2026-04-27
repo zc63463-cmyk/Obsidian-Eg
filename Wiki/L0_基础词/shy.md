@@ -3,14 +3,12 @@ title: "shy"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 受惊后退（因害怕而退缩）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ʃaɪ/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**受惊后退（因害怕而退缩）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **受惊后退**（动作层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shy 本义是"受惊后退"。一匹马看到蛇，猛地后退——the horse shied。一个孩子见到陌生人，往后缩——a shy child。一个项目缺钱——be shy of funds。shy 的灵魂是"后退"——身体后退叫受惊，心理后退叫害羞，资源后退叫缺乏。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bold]]：大胆的（shy 的反义：害羞的↔大胆的）
 > - [[confident]]：自信的（shy 的反义：胆怯的↔自信的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be too shy to do sth**：太害羞而不敢做某事
 > - **shy away from sth**：退缩，回避
 > - **be shy of (doing) sth**：对……感到胆怯；缺乏
@@ -138,19 +136,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us."（研究人员还认为，当我们回避与陌生人的随意互动时，这通常是因为一种错误的焦虑——担心他们可能不想和我们说话。——高考英语北京卷）
 > - "He is a shy man, but he is not afraid of anything or anyone."（他是一个害羞的人，但他无所畏惧。——高考英语北京卷）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

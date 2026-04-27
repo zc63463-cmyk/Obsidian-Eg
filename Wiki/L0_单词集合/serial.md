@@ -3,14 +3,12 @@ title: "serial"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 连续的、系列的
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈsɪəriəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**连续的、系列的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **连续的、系列的**（时间层面：按顺序一个接一个的）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[sequ/ser|ser]](跟随) + -ial = serial（连续的）。想象一部电视剧每周播出一集，观众追了一年——这就是 serial：连续不断的故事。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[single]]：单一的（连续的 vs 单一的）
 - [[simultaneous]]：同时的（连续的 vs 同时的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **serial killer**：The serial killer was finally caught by the police.（连环杀手终于被警方抓获了。）
 > - **serial novel/publication**：The novel was first published in serial form.（这部小说最初以连载形式发表。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The serial killer was finally caught by the police after a decade-long investigation."（经过长达十年的调查，连环杀手终于被警方抓获。）——考研高频表达
 > - "The novel was first published in serial form in a literary magazine."（这部小说最初以连载形式发表在一本文学杂志上。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

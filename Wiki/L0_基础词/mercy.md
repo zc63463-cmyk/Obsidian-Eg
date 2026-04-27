@@ -3,14 +3,12 @@ title: "mercy"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 应得的报偿→仁慈
-extension_dim: 情感-道德扩展
+extension_dim: [情感-道德扩展]
 phonetic: "/ˈmɜːrsi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**仁慈**"为统筹中心，沿情感-道德扩展向外扩展：
 >
 > 1. **仁慈**
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mercy 来自拉丁语 merces"应得的报酬"。当法官面对一个罪有应得的犯人，却选择不惩罚他，这就是 mercy（仁慈）——给予超出应得的善意。小船在暴风雨中 at the mercy of the waves（任由海浪摆布），只能祈求大自然的仁慈。西班牙语中 usted（您）原写作 vusted，是 vuestra merced（您的仁慈）的缩写——称呼对方时说"您的仁慈"，后来演变为敬称"您"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cruelty]]：残忍（mercy"仁慈"的精确反义：仁慈↔残忍）
 > - [[harshness]]：严厉（mercy"宽恕"的反义：宽恕↔严厉）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at the mercy of**：任由……摆布
 > - **have mercy on**：对……仁慈
 > - **show mercy to**：对……宽恕
@@ -128,19 +126,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The ship was at the mercy of the storm."（这艘船任由暴风雨摆布。——考研常见句型）
 > - "The judge showed mercy to the first-time offender."（法官对初犯者给予了宽恕。——法律语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

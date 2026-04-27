@@ -3,17 +3,14 @@ title: "semiconductor"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 半导体（导电性介于导体和绝缘体之间的材料）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌsemikənˈdʌktə(r)/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: duct
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**半导体**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **半导体**（物理层面）
@@ -62,7 +59,7 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +69,7 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > semiconductor = semi（半）+ conductor（导体）。铜是导体（完全导电），橡胶是绝缘体（完全不导电），而半导体"半导半不导"——导电性居中。硅（silicon）就是最著名的半导体材料，芯片就是用半导体做的。
@@ -84,7 +81,7 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +94,13 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insulator]]：绝缘体（semiconductor 半导体 ↔ insulator 绝缘体）
 > - [[conductor]]：导体（semiconductor 半导体 ↔ conductor 导体，导电谱系的两端）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +119,7 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **semiconductor industry**：半导体产业
 > - **semiconductor chip**：半导体芯片
 > - **semiconductor company**：半导体公司
@@ -130,19 +127,15 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next casualty."（人们曾一度感觉下一个在海外品牌面前全军覆没的似乎该轮到美国的半导体制造业了，而在新计算机时代有着核心作用的半导体正是美国发明的——2000年英语一Text 1）
 > - "Studies of the most patent-conscious business of all—the semiconductor industry—suggest that firms do not necessarily become more innovative as they increase their patenting activity."（对所有行业中最具专利意识的行业——半导体产业——的研究表明，企业增加专利活动并不一定变得更创新——考研阅读高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

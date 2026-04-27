@@ -3,14 +3,12 @@ title: "episode"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 进入故事中的一段（插曲）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈepɪsəʊd/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ epi-(在…之上/进入) + [[spec-spect|od]](看/道路，来自希腊语 eisod
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**故事/经历中的一段**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **故事中的一段情节**（叙事层面）
@@ -66,7 +64,7 @@ epi-(在…之上/进入) + [[spec-spect|od]](看/道路，来自希腊语 eisod
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ epi-(在…之上/进入) + [[spec-spect|od]](看/道路，来自希腊语 eisod
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > epi（进入）+ od（道路/看）→ 你"走进"一段故事，只看到了其中一小段路，这就是"一集/一段插曲"。
@@ -87,7 +85,7 @@ epi-(在…之上/进入) + [[spec-spect|od]](看/道路，来自希腊语 eisod
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ epi-(在…之上/进入) + [[spec-spect|od]](看/道路，来自希腊语 eisod
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （无明显反义词，episode 强调"部分"，整体概念如 whole story 可视为反向）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,28 +112,22 @@ epi-(在…之上/进入) + [[spec-spect|od]](看/道路，来自希腊语 eisod
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an episode of**：一段…的经历
 > - **TV episode**：电视节目的一集
 > - **a memorable episode**：一段难忘的经历
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The latest episode of the financial crisis has raised fears of a global recession."（最近一轮金融危机引发了人们对全球经济衰退的担忧。）——考研高频表达
 > - "This episode in history serves as a reminder of the dangers of unchecked power."（历史上的这一事件提醒人们警惕不受制约的权力的危险。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

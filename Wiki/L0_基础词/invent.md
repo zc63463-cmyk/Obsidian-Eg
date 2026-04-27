@@ -3,17 +3,14 @@ title: "invent"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 找到（发现前所未有的事物）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈvent/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: ven-vent
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**找到（前所未有的事物）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **找到前所未有的事物**（发现层面）
@@ -64,7 +61,7 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（进入）+ ven（来）→ 来到一个新领域，找到了前所未有的事物 → 发明。爱迪生 invent 了电灯泡——他"来到"了前人从未到达的领域。当你 invent an excuse（编造借口）时，你也是"来到"了一个不存在的世界。
@@ -89,7 +86,7 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[copy]]：抄袭，复制（invent 的反义：发明↔抄袭）
 > - [[destroy]]：毁灭（invent 的反义：创造↔毁灭）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,25 +117,21 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **invent a machine/device**：发明机器/装置
 > - **invent an excuse/story**：编造借口/故事
 > - **invent a new method**：发明新方法
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Alexander Graham Bell invented the telephone in 1876."（亚历山大·格拉汉姆·贝尔于1876年发明了电话）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

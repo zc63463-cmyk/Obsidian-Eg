@@ -3,14 +3,12 @@ title: "afterward"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 之后，后来
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈɑːftəwəd/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**之后，后来**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **之后**（时间层面）
@@ -65,7 +63,7 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > after（之后）+ ward（方向）→ 向后的方向 → 后来。ward 家族：forward（向前）、backward（向后）、upward（向上）、downward（向下）、afterward（向后=后来）。记住 ward = 方向，after + ward = 向后 = 后来。
@@ -87,7 +85,7 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[beforehand]]：事先，预先（afterward 的精确反义：后来↔事先）
 > - [[previously]]：以前，先前（afterward 的反义：后来↔先前）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **shortly afterward**：不久之后
 > - **soon afterward**：很快之后
 > - **years afterward**：多年之后
@@ -133,19 +131,15 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "They separated, and soon afterward Jane left the country."（他们分手了，不久之后简就离开了这个国家。——考研阅读相关话题）
 > - "He further said that he had received three spoons at that time, one of which mysteriously disappeared shortly afterward."（他进一步说当时他收到了三把勺子，其中一把不久后神秘消失了。——考研翻译相关话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

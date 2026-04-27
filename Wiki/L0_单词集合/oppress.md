@@ -3,14 +3,12 @@ title: "oppress"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 向下压紧
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈpres/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向下压紧**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **向下压紧**（物理压迫层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > oppress = ob（对着/向下）+ press（压）。想象一只巨手从上方**向下压**（press）你，让你无法动弹——这就是 **oppress**（压迫）。记住 press 家族：press（压），compress（一起压→压缩），depress（向下压→沮丧），express（压出来→表达），suppress（向下压→镇压），oppress（对着压→压迫）。oppress 就是"用权力或重压压在别人身上"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[liberate]]：解放（oppress 的精确反义：压迫↔解放）
 > - [[emancipate]]：解放/使自由（压迫的反义，更正式）
 > - [[empower]]：赋权（压迫的反义，给予力量而非施压）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **oppress the people/masses**：压迫人民/大众
 > - **oppressive regime/government**：压迫性的政权/政府
 > - **feel oppressed**：感到压抑
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The oppressed people rose up against the dictator."（受压迫的人民起义反抗独裁者）——考研阅读常见搭配，历史/政治类
 > - "Women were oppressed by the patriarchal system for centuries."（几个世纪以来，女性一直受到父权制度的压迫）——社会/文化类阅读
 > - "The oppressive heat made it impossible to work outdoors."（闷热的天气让人无法在户外工作）——环境描写类语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

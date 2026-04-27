@@ -3,14 +3,12 @@ title: "inevitable"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 不可避免的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈevɪtəbl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ in-(否定前缀，"不") + evit(避免) + -able(形容词后缀，"可被…的
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不可避免的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不可避免的**（事件必然发生）
@@ -64,7 +62,7 @@ in-(否定前缀，"不") + evit(避免) + -able(形容词后缀，"可被…的
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ in-(否定前缀，"不") + evit(避免) + -able(形容词后缀，"可被…的
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你站在铁轨上，火车呼啸而来——in(不) + evit(避开) + able(能够)，你 **inevitable**（不可避免地）会被撞到。
@@ -87,7 +85,7 @@ in-(否定前缀，"不") + evit(避免) + -able(形容词后缀，"可被…的
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ in-(否定前缀，"不") + evit(避免) + -able(形容词后缀，"可被…的
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[avoidable]]：可避免的——可以预防或规避的
 > - [[contingent]]：偶然的——非必然发生的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,27 +114,21 @@ in-(否定前缀，"不") + evit(避免) + -able(形容词后缀，"可被…的
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inevitable consequence**：Climate change is an inevitable consequence of excessive carbon emissions.
 > - **the inevitable**：We must accept the inevitable and move on.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living."（对贝多芬的诸多作品，我们都可以这样解读：苦难是不可避免的，但与之抗争的勇气使生活值得继续。）——2014年考研英语翻译
 > - "It is hard to shove for attention among multi-billion-pound infrastructure projects, so it is inevitable that the attention is focused elsewhere."（在价值数十亿英镑的基础设施项目中很难引起人们的关注，因此注意力不可避免地集中到了别处。）——2014年考研英语二Text4
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

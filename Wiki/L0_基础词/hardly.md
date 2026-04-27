@@ -3,17 +3,14 @@ title: "hardly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 几乎不（hard 的否定形式——不硬=不强烈=几乎不）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈhɑːdli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: hard
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**几乎不**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **几乎不**（否定程度层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hardly 是一个"假朋友"。你以为它是"努力地"（hard + ly），但它的意思是"几乎不"。hard（困难）→ hardly（困难到几乎不可能）→ 几乎不。I can hardly wait = 我几乎等不及了。Hardly had I arrived when it rained = 我刚到天就下雨了。记住：hardly = 几乎不，不是"努力地"。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fully]]：完全地（hardly 的反义：几乎不↔完全）
 > - [[quite]]：相当，十分（hardly 的反义：几乎不↔十分）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **can hardly**：几乎不能
 > - **hardly any**：几乎没有
 > - **hardly ever**：几乎从不
@@ -133,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The magazine cover showing an attractive mother holding a cute baby is hardly the only Madonna-and-child image on newsstands this week."（这本杂志封面上展示了一位迷人的母亲抱着一个可爱的婴儿，但这几乎不是本周报摊上唯一的圣母与圣婴形象。——2011年考研英语Text 4）
 > - "We conform to norms so readily that we are hardly aware they exist."（我们如此轻易地遵从规范，以至于几乎没有意识到它们的存在。——考研英语阅读相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

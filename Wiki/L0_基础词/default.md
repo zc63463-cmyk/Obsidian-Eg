@@ -3,14 +3,12 @@ title: "default"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 缺席（未能到场/未能履行）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/dɪˈfɔːlt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**缺席（未能到场/未能履行）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **缺席/未履行**（行为层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > default 来自 de（未能）+ fault（过错）。你没能还钱 → default on a loan（违约）。对手没能到场 → win by default（因对手缺席获胜）。你没有特别设置 → by default（默认）。Defaults on loan repayments have reached a record high（贷款违约率已达到历史新高）。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[compliance]]：遵从（default 作为"违约"的反义：违约↔遵从）
 > - [[customization]]：自定义（default 作为"默认"的反义：默认↔自定义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **default on a loan/debt**：拖欠贷款/债务
 > - **by default**：默认地
 > - **in default of**：因缺少……，在没有……的情况下
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Defaults on loan repayments have reached a record high, raising concerns about the stability of the banking system."（贷款违约率已达到历史新高，引发了对银行系统稳定性的担忧——考研经济类语料）
 > - "If you do not make a choice, the system will select the default option for you."（如果你不做选择，系统将为你选择默认选项——考研科技类语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

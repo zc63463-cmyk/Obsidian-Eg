@@ -3,14 +3,12 @@ title: "counter"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 对面，相反方向
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈkaʊntər/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**对面，相反方向**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **对面，相反方向**（空间层面）
@@ -71,7 +69,7 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > counter 来自"对面"。你在柜台对面买东西（over the counter），在辩论中站在对面反对（counter an argument），用计数器对面计算数字。counter 就是"对面"的一切。
@@ -96,7 +94,7 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[support]]：支持（counter 的反义：反对↔支持）
 > - [[agree]]：同意（counter 的反义：反对↔同意）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **over the counter**：通过柜台（非处方药等）
 > - **under the counter**：暗中地，非法地
 > - **counter argument**：反驳论点
@@ -138,19 +136,15 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The findings run counter to the expectations of the researchers."（研究结果与研究人员的预期相反。）
 > - "Over-the-counter drugs are available without a prescription."（非处方药无需处方即可购买。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

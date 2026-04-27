@@ -3,14 +3,12 @@ title: "suffice"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在下面做好（足够了）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/səˈfaɪs/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在下面做好了**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在下面做好了**（基础层面：底子够了）
@@ -62,7 +60,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +69,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > suf（在下面）+ fac（做）。想象建房子：地基**在下面**已经**做**好了，上面不需要再加——这就**足够**了。suffice = 地基做好了 = 够了。
@@ -80,7 +78,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -92,13 +90,13 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lack]]：缺乏（不够）
 > - [[insufficient]]：不充分的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -109,7 +107,7 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **suffice it to say (that)...**：只需说……就够了
   - Suffice it to say that the project was a success.（只需说这个项目是成功的就够了。）
 > - **suffice for**：足够满足……
@@ -117,19 +115,15 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Surely, this brief account of belief needs refinement, but it suffices for the present purpose."（诚然，这种对信念的简短描述需要完善，但对于目前的目的来说已经足够了——权威语料）
 > - "It suffices to observe that this rationale for the standard springs from a particular type of response to trust."（只需观察到这一标准的理由源于对信任的某种特定反应就足够了——权威语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

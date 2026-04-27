@@ -3,14 +3,12 @@ title: "scent"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 通过嗅觉感知——猎犬追踪猎物的气味
-extension_dim: 感知路径
+extension_dim: [感知路径]
 phonetic: "/sent/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**通过嗅觉感知——猎犬追踪猎物的气味**"为统筹中心，沿感知路径向外扩展：
 >
 > 1. **嗅觉追踪**（感官层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scent 源自拉丁语 *sentire*（感受、感知），最初是狩猎术语——猎犬嗅到猎物的气味并追踪。The hounds picked up the scent of the fox（猎犬嗅到了狐狸的气味）。后来从"嗅觉追踪"延伸到"气味"——the scent of roses（玫瑰的香味）。再从"气味线索"延伸到"抽象线索"——follow the scent of corruption（追踪腐败的线索）。scent 的灵魂是"嗅到并追踪"。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stink]]：恶臭（scent "香味"的反义）
 > - [[blindness]]：盲目（scent "嗅觉/察觉"的反义：感知↔盲目）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the scent of flowers / roses**：花的香味
 > - **pick up / catch the scent**：嗅到气味，发现线索
 > - **lose the scent**：失去气味线索
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The dogs were on the scent of the missing child and tracked him through the forest."（猎犬嗅到了失踪孩子的气味，穿过森林追踪他。——考研阅读叙事类话题相关表达）
 > - "The faint scent of jasmine floated through the open window on the warm summer evening."（温暖的夏夜，淡淡的茉莉花香从敞开的窗户飘进来。——考研翻译文学描写相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

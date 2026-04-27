@@ -3,14 +3,12 @@ title: "move"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 移动（从一个位置转移到另一个位置）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/muːv/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**移动**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **移动**（物理层面）
@@ -72,7 +70,7 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > move 是拉丁语 *movere* 的直接继承者，是整个 mot-/mov- 词族的"老祖宗"。你 move（移动）身体去上学，move（搬家）到新城市，move（感动）观众落泪，move（提议）一个新方案。move 就是一切的"从A到B"——身体、心、提案、事情，万物皆可 move。
@@ -95,7 +93,7 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stay]]：停留（move 的精确反义：移动↔停留）
 > - [[remain]]：保持不变（move 的反义：移动/改变↔保持不变）
 > - [[still]]：静止的（move 的反义：移动↔静止）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **move forward/ahead**：前进，进展（The project is moving ahead smoothly.）
 > - **be moved to tears**：感动得流泪（The audience was moved to tears by her speech.）
 > - **move house**：搬家（We're planning to move house next month.）
@@ -140,19 +138,15 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government needs to move quickly to address the growing environmental crisis."（政府需要迅速采取行动来应对日益严峻的环境危机）
 > - "She was deeply moved by the documentary about children in war zones."（她被那部关于战区儿童的纪录片深深打动）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

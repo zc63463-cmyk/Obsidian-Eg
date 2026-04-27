@@ -3,14 +3,12 @@ title: "monster"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 神示的预兆（警告性的奇异事物）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈmɒnstər/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**警告性的预兆**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **警告性的预兆**（宗教/迷信层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > monster 源自拉丁语 *monstrum*（预兆/凶兆），由 *monere*（警告）派生。古人看到畸形生物，认为这是神灵发出的"警告"——所以怪物就是"神的警告"。弗兰肯斯坦创造的怪物就是 monster。现代用法中，monster 也可以指"巨大的东西"——一辆巨大的卡车叫 monster truck。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[angel]]：天使（monster 的反义：怪物↔天使）
 > - [[beauty]]：美人/美好（monster 的反义：怪物↔美好）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a sea monster**：海怪
 > - **a monster of cruelty**：极度残忍的人
 > - **monster truck**：巨型卡车
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The novel tells the story of a scientist who creates a monster."（这部小说讲述了一个科学家创造怪物的故事）
 > - "The dictator was widely regarded as a monster who showed no mercy to his opponents."（这位独裁者被广泛认为是一个对反对者毫不留情的恶人）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

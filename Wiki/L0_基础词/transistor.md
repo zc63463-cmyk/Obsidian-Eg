@@ -3,17 +3,14 @@ title: "transistor"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 跨越电阻的器件
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/trænˈzɪstər/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: st-sta-stat
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转移电阻的器件**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **转移电阻的器件**（技术层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > transistor 是一个"缩合词"（portmanteau）——transfer（转移）+ resistor（电阻器）= transistor（晶体管）。1947年贝尔实验室发明它时，给它取了这个名字，因为它能"转移电阻"来控制电流。没有 transistor，就没有现代计算机、智能手机、互联网——它是信息时代的基石。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[vacuum tube]]：真空管（transistor 取代的前代技术）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +112,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **transistor radio**：晶体管收音机
 > - **silicon transistor**：硅晶体管
 > - **transistor circuit**：晶体管电路
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The invention of the transistor in 1947 revolutionized the field of electronics."（1947年晶体管的发明彻底改变了电子学领域）
 > - "Modern microprocessors contain billions of transistors on a single chip."（现代微处理器在单个芯片上包含数十亿个晶体管）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "musical"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 与音乐相关的（缪斯的艺术）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈmjuːzɪkl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: mus-muse
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -44,7 +41,7 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与音乐相关的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与音乐相关的**（艺术层面）
@@ -69,7 +66,7 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mus（缪斯/音乐）+ ical → 与音乐相关的。缪斯是希腊神话中掌管艺术的女神——她赐予人类音乐。musical instrument（乐器），musical talent（音乐天赋），a musical voice（悦耳的嗓音）。Broadway musical（百老汇音乐剧）是 musical 作名词的典型用法。
@@ -92,7 +89,7 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[tone-deaf]]：音盲的（musical 的反义：有音乐天赋↔五音不全）
 > - [[unmusical]]：非音乐的；无音乐感的 | 词义补充（musical 的否定形式）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +120,7 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **musical instrument**：乐器
 > - **musical talent/ability**：音乐天赋/能力
 > - **a musical family**：音乐世家
@@ -132,19 +129,15 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Research suggests that early exposure to musical training can enhance cognitive development."（研究表明，早期接触音乐训练可以增强认知发展——考研阅读高频表达）
 > - "The composer transformed the novel into a successful Broadway musical."（这位作曲家将小说改编成了一部成功的百老汇音乐剧）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "painter"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 用色彩创作的人（画家）或涂刷表面的人（油漆工）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈpeɪntər/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: paint
 network_activation: [词根, 同义辨析, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用色彩创作/涂刷的人**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用色彩工作**（职业层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > painter = [[paint]]（绘画/油漆）+ *-er*（人）= 画家/油漆工。-er 后缀表示"做某事的人"，所以 painter 就是"用 paint 工作的人"。画家用颜料画画，油漆工用油漆刷墙。和 [[paint]]（绘画）、[[painting]]（画作）一起记。同源词 [[picture]]（图片）、[[depict]]（描绘）都来自拉丁语 *pingere*（绘画）。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +94,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接反义词（职业名词，无天然反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a famous/great painter**：著名的/伟大的画家
 > - **landscape/portrait painter**：风景/肖像画家
 > - **house painter**：房屋油漆工
@@ -123,19 +120,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Vincent van Gogh is widely regarded as one of the greatest painters in the history of Western art, though he achieved little recognition during his lifetime."（文森特·梵高被广泛认为是西方艺术史上最伟大的画家之一，尽管他在世时几乎没有获得认可——考研阅读艺术话题）
 > - "The museum is hosting a special exhibition featuring works by impressionist painters such as Monet and Renoir."（博物馆正在举办一场特别展览，展出莫奈和雷诺阿等印象派画家的作品——考研翻译文化话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

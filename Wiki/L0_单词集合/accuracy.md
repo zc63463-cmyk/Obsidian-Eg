@@ -3,14 +3,12 @@ title: "accuracy"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 小心、精确
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈækjərəsi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ac-(=ad-，朝向、加强) + cur-(关心、注意) + -acy(名词后缀，表状
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小心、精确**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **小心对待**（行为层面：用心关注细节）
@@ -64,7 +62,7 @@ ac-(=ad-，朝向、加强) + cur-(关心、注意) + -acy(名词后缀，表状
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ac-(=ad-，朝向、加强) + cur-(关心、注意) + -acy(名词后缀，表状
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ac-（加强）+ cur-（关心）+ -acy（状态）→ 非常关心每一个细节，不放过任何错误，就是"准确性"。
@@ -87,7 +85,7 @@ ac-(=ad-，朝向、加强) + cur-(关心、注意) + -acy(名词后缀，表状
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ac-(=ad-，朝向、加强) + cur-(关心、注意) + -acy(名词后缀，表状
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inaccuracy]]：不准确、误差（直接否定）
 > - [[error]]：错误（准确性的反面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,21 @@ ac-(=ad-，朝向、加强) + cur-(关心、注意) + -acy(名词后缀，表状
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **with accuracy**：准确地（The data must be recorded with accuracy.）
 > - **accuracy of**：...的准确性（The accuracy of the information is crucial.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The accuracy of the data is crucial for the validity of the research findings."（数据的准确性对于研究结论的有效性至关重要。）——考研高频表达
 > - "Scientists are constantly improving the accuracy of their measurements."（科学家们不断提高测量的精度。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

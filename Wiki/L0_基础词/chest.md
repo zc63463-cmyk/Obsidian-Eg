@@ -3,14 +3,12 @@ title: "chest"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 箱子/容器（储存物品的空间）
-extension_dim: 空间-身体扩展
+extension_dim: [空间-身体扩展]
 phonetic: "/tʃest/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**箱子/容器**"为统筹中心，沿空间-身体扩展向外扩展：
 >
 > 1. **箱子/容器**
@@ -66,7 +64,7 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > chest 来自希腊语 kistē（箱子）。海盗的 treasure chest（宝箱）是 chest，你感冒时的 chest pain（胸痛）也是 chest。为什么同一个词既是箱子又是胸部？因为胸部就是人体的"箱子"——它像箱子一样保护着心脏和肺这两个最珍贵的"宝物"。
@@ -88,7 +86,7 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[back]]：背部（chest 的身体反义：胸部↔背部）
 > - [[belly]]：腹部（chest 的身体反义：胸部↔腹部）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **chest pain**：胸痛
 > - **treasure chest**：宝箱
 > - **medicine chest**：药箱
@@ -136,19 +134,15 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He had a parcel under his arm."（他腋下夹着一个包裹。——Collins Dictionary, "under one's arm" 条目，与 chest 区域相关）
 > - "The throat often feels dry and sore, the head feels stuffed, the eyes smart and there is a profuse watery nasal discharge."（喉咙常感干燥疼痛，头部感觉闷塞，眼睛刺痛，有大量水性鼻涕。——CRACCUM 1978, 与 chest/cold 症状相关）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

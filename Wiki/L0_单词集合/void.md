@@ -3,14 +3,12 @@ title: "void"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 空的、空无的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/vɔɪd/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ void 本身为词根（源自拉丁语 vacuus "空的"），建议创建词根�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**空的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **空的**（物理空间层面）
@@ -69,7 +67,7 @@ void 本身为词根（源自拉丁语 vacuus "空的"），建议创建词根�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ void 本身为词根（源自拉丁语 vacuus "空的"），建议创建词根�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > void → 想象你站在一个漆黑的巨大洞穴中，四周空无一物——这就是 void（空虚）。
@@ -93,7 +91,7 @@ void 本身为词根（源自拉丁语 vacuus "空的"），建议创建词根�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ void 本身为词根（源自拉丁语 vacuus "空的"），建议创建词根�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[valid]]：有效的（void 在法律语境的直接反义）
 > - [[full]]：满的（空间层面的反义）
 > - [[substantial]]：实质的（空虚感的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,25 +128,19 @@ void 本身为词根（源自拉丁语 vacuus "空的"），建议创建词根�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **null and void**：无效的（The contract was declared null and void.）
 > - **fill the void**：填补空白（His death left a void in her life.）
 > - **void of**：没有...的，缺乏...的（The landscape was void of any vegetation.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The agreement was declared void."（该协议被宣布无效。）——考研高频表达
 > - "She noticed there was a real void in quality STEM education at all levels of the public educational system."（她注意到公立教育系统在各个层次的优质STEM教育方面存在真正的空白。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

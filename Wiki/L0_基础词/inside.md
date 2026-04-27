@@ -3,14 +3,12 @@ title: "inside"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 在内部（在某物的里面）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˌɪnˈsaɪd/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在内部**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **物理内部**（空间层面）
@@ -71,7 +69,7 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > inside = in（在...之中）+ side（侧面）= 在里面。记住 in- = 在...之中：[[insert]]（插入）、[[insist]]（坚持）、[[inspect]]（检查）、[[inside]]（内部）。考研重点考介词和名词用法：inside the room（在房间里）、inside a week（一周之内）、inside information（内幕消息）。注意区分：inside（在内部）vs [[insight]]（洞察力 = 看到内部的能力）。
@@ -96,7 +94,7 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,12 +107,12 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[outside]]：在外面（inside 的精确反义：在里面↔在外面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inside information**：内幕消息
 > - **inside knowledge**：内部知识
 > - **inside out**：里外翻转
@@ -137,19 +135,15 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The whistleblower revealed that the company had been dumping toxic waste inside the protected nature reserve for over a decade."（举报人揭露该公司十多年来一直在受保护的自然保护区内倾倒有毒废物——考研阅读环保话题相关表达）
 > - "Investigators discovered that the fraud was an inside job, orchestrated by senior executives who had access to the company's confidential financial records."（调查人员发现这起欺诈案是内鬼作案，由能够接触公司机密财务记录的高级管理人员策划——考研翻译法律话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

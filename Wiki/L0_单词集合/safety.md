@@ -3,17 +3,14 @@ title: "safety"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 安全的状态
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈseɪfti/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: safe
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-20
@@ -45,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**安全的状态**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **安全的状态**（抽象层面）
@@ -71,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > safety 就是 safe（安全）+ -ty（状态）= 安全的状态。想象你坐进车里，系上安全带（safety belt），戴上安全帽（safety helmet），这一切都是为了 safety（安全）。记住 safe + -ty = safety，安全的状态就是安全。
@@ -97,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[danger]]：危险（safety 的精确反义：安全↔危险）
 > - [[hazard]]：危害，风险（安全↔危害）
 > - [[insecurity]]：不安全，不安全感（安全↔不安全）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **public safety**：公共安全
 > - **safety first**：安全第一
 > - **safety belt / seat belt**：安全带
@@ -142,7 +139,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Safety is our top priority."（安全是我们的首要任务）——常见表达
 > - "public safety concerns"（公共安全问题）——社会话题
 > - "safety regulations in the workplace"（工作场所的安全规定）——法律/社会话题
@@ -151,15 +148,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

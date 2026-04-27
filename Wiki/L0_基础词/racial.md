@@ -3,14 +3,12 @@ title: "racial"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 种族的（与种族相关的）
-extension_dim: 种族议题
+extension_dim: [种族议题]
 phonetic: "/ˈreɪʃl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**种族的（与种族相关的）**"为统筹中心，沿种族议题维度向外扩展：
 >
 > 1. **种族的**
@@ -64,7 +62,7 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > racial = race（种族）+ -ial（与……相关的）。想象一个多元文化的社会，不同肤色、不同文化背景的人生活在一起——他们之间的关系就是 racial（种族的）关系。Martin Luther King Jr. 梦想的是 racial equality（种族平等），反对的是 racial discrimination（种族歧视）。记住 race = 种族，-ial = 与……相关的，racial = 与种族相关的。
@@ -86,7 +84,7 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - racial 本身无精确反义词，但在语境中：
 > - [[interracial]]：种族间的（racial 的互补概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **racial discrimination**：种族歧视
 > - **racial equality**：种族平等
 > - **racial diversity**：种族多样性
@@ -130,19 +128,15 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Racial discrimination remains a persistent problem in many societies despite legal protections."（尽管有法律保护，种族歧视在许多社会中仍然是一个持续存在的问题。——考研英语一2016阅读）
 > - "The civil rights movement was a landmark in the struggle for racial equality in the United States."（民权运动是美国种族平等斗争中的里程碑。——考研英语阅读常见话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "exhibition"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 拿出来给人看的行为/事件（exhibit + -ion）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌeksɪˈbɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**展示的行为/事件**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **展示的行为/事件**（物理层面）
@@ -64,7 +62,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > exhibition 是 exhibit（展示）的名词形式。ex（出）+ hibit（拿）+ ion（名词）→ 拿出来展示的活动 → 展览会。记住 exhibition 和 exhibit 的关系：exhibit 是"展示"的动作，exhibition 是"展示"的活动。就像"跑"（run）和"赛跑"（race）的关系。
@@ -86,7 +84,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[concealment]]：隐藏，隐瞒（exhibition 展示↔concealment 隐藏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **art exhibition**：艺术展览（The art exhibition attracted thousands of visitors. 这场艺术展吸引了数千名参观者。）
 > - **hold/mount an exhibition**：举办展览
 > - **an exhibition of**：……的展示/表现（an exhibition of courage 勇气的表现）
@@ -124,19 +122,15 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The museum is hosting a special exhibition of Egyptian artifacts."（博物馆正在举办一场埃及文物特别展。）
 > - "His speech was an exhibition of ignorance and prejudice."（他的演讲是愚昧与偏见的展示。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "layer"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 层（覆盖在表面上的薄片或厚度）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈleɪər/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**层（覆盖在表面上的薄片或厚度）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **一层一层的东西**
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > layer = lay（平放）+ -er（物）→ 一层一层平放上去的东西 → "层"。桌子上有一层灰尘是 a layer of dust，臭氧层是 ozone layer，蛋糕中间有一层水果是 a layer of fruit。layer 就是"层"——物理的层或抽象的层次。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,13 +104,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - layer 作为空间结构名词，无精确反义词
 > - 相关对比：[[whole]]：整体（layer 的反义：分层↔整体）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a layer of**：一层……
 > - **ozone layer**：臭氧层
 > - **upper/lower layer**：上/下层
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "A fresh layer of snow covered the street."（一层新雪覆盖了街道。——ExamWord 高频例句）
 > - "Depletion of the ozone layer leaves the earth's surface increasingly exposed to harmful radiation from the sun."（臭氧层的消耗使地球表面越来越暴露在来自太阳的有害辐射中。——ExamWord 高频例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "rumour"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 谣言（人们口中流传的未经证实的话）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈruːmə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**谣言（人们口中流传的未经证实的话）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **谣言**（社会层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rumour 源自拉丁语 rumor（噪音、喧闹声）。想象古代的集市，人们聚在一起叽叽喳喳地传播各种未经证实的消息——这种"社会噪音"就是 rumour。rumour has it that... 就是"谣传……"——人们口中流传的说法。注意英式拼写 rumour（有 u），美式拼写 rumor（无 u）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fact]]：事实（rumour 的精确反义：谣言↔事实）
 > - [[proof]]：证据（rumour 的反义：未经证实↔有证据）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rumour has it that...**：谣传……
 > - **start/spread a rumour**：散布谣言
 > - **It is rumoured that...**：据谣传……
@@ -127,20 +125,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Rumour has it that the company is about to announce major layoffs."（谣传公司即将宣布大规模裁员——考研阅读常见表达）
 > - "It is widely rumoured that she will resign next month."（广泛传闻她下个月将辞职——考研翻译常见句型）
 > - "The government denied rumours of an impending tax increase."（政府否认即将增税的谣言——考研阅读政治话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

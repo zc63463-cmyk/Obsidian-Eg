@@ -3,14 +3,12 @@ title: "obsession"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 坐着不走
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əbˈseʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**坐在上面不走**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **坐在上面不走**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ob-（在…上）+ sess（坐）= obsession（坐在上面不走→着迷）。想象一个粉丝坐在偶像的门口上面不走，日夜守候——这就是痴迷。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[indifference]]：冷漠，不在乎（obsession 是过度关注，indifference 是完全不在意）
 > - [[detachment]]：超然，超脱（obsession 是深陷其中，detachment 是置身事外）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **obsession with...**：对……的痴迷 — His obsession with money is unhealthy.
 > - **become an obsession**：成为一种痴迷 — Cleanliness has become an obsession for her.
 > - **have an obsession**：有……的执念 — He has an obsession about being on time.
@@ -133,22 +131,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The author argues that modern society has developed an unhealthy obsession with productivity."（考研英语——作者认为现代社会对生产力产生了一种不健康的痴迷）
 > - "Her obsession with perfection often causes her great stress."（CET-6——她对完美的痴迷常常给她带来巨大压力）
 > - "The novel explores the protagonist's obsession with revenge."（GRE——这部小说探讨了主人公对复仇的执念）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

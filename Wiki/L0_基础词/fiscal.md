@@ -3,14 +3,12 @@ title: "fiscal"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 与国库有关的（与财务/税收相关）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈfɪskl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与国库有关的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **与国库有关的**（财务层面）
@@ -64,7 +62,7 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fisc（国库/钱篮子）+ al（与…有关的）→ 与国库有关的 → 财政的。古罗马皇帝的钱装在 *fiscus*（篮子）里，所以 fisc = 国库。fiscal policy 是"国库怎么花钱"→财政政策。fiscal year 是"国库怎么算账"→财政年度。记住：fiscal 永远和"钱"有关。
@@ -86,7 +84,7 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无直接形容词反义词（fiscal 为特定领域术语）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fiscal policy**：财政政策
 > - **fiscal year**：财政年度
 > - **fiscal deficit**：财政赤字
@@ -122,19 +120,15 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government implemented a series of fiscal measures to stimulate economic growth."（政府实施了一系列财政措施以刺激经济增长）
 > - "The fiscal deficit has widened due to increased government spending."（由于政府支出增加，财政赤字扩大了）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

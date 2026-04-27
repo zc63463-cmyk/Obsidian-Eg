@@ -3,14 +3,12 @@ title: "baggage"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 旅行时携带的包裹和箱子
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈbæɡɪdʒ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**旅行时携带的包裹和箱子**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **旅行行李**（物理层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > baggage 就是"行李"。bag 是"包"，-age 是"集合"后缀——baggage = 一堆包的集合 = 行李。旅行时你拖着行李箱赶飞机，这些箱子就是 baggage。后来引申为"精神包袱"——emotional baggage 就像心理上拖着沉重的行李箱，装满了过去的伤痛和遗憾。注意 baggage 是不可数名词，不能说 a baggage 或 baggages。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[freedom]]：自由（baggage 的反义：包袱↔自由）
 > - [[lightness]]：轻松（baggage 的反义：负担↔轻松）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **check baggage**：托运行李
 > - **carry-on baggage**：随身行李
 > - **baggage claim**：行李提取处
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many immigrants carry the emotional baggage of leaving their homeland, struggling to adapt to a new culture while preserving their own identity."（许多移民带着离开祖国的情感包袱，在努力适应新文化的同时保持自己的身份认同——考研阅读移民话题相关表达）
 > - "The country's historical baggage of colonialism continues to affect its relationship with former colonial powers."（该国殖民主义的历史包袱继续影响着它与前殖民大国的关系——考研翻译历史话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

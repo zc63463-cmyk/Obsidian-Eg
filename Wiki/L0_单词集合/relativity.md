@@ -3,17 +3,14 @@ title: "relativity"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 相对的性质→相对论
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˌreləˈtɪvəti/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: lat
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -45,7 +42,7 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词后缀) + -ity(名词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**相对性**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **相对性、相关性**（抽象层面——事物相对而非绝对的性质）
@@ -64,7 +61,7 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词后缀) + -ity(名词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +72,7 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词后缀) + -ity(名词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[relative]]（相对的）+ -ity（性质）。爱因斯坦告诉我们：时间、空间、质量——一切都是"相对的"，这就是 relativity（相对论）。
@@ -87,7 +84,7 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词后缀) + -ity(名词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +95,12 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词后缀) + -ity(名词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[absolutism]]：绝对主义（相对论 vs 绝对主义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +114,20 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词后缀) + -ity(名词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **theory of relativity**：相对论（Einstein's theory of relativity changed our understanding of the universe.）
 > - **cultural relativity**：文化相对性
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Einstein's theory of relativity fundamentally changed our understanding of space and time."（爱因斯坦的相对论从根本上改变了我们对空间和时间的理解。）——考研高频表达
 > - "The concept of cultural relativity suggests that moral standards vary across different societies."（文化相对主义的概念表明，道德标准在不同社会中存在差异。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

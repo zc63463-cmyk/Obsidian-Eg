@@ -3,14 +3,12 @@ title: "sprout"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 从地里冒出来（像种子发芽一样突然长出）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/spraʊt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从地里冒出来**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **种子发芽**（自然层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sprout 的核心画面是"种子在土壤中发芽，嫩芽破土而出"。古英语 *sprūtan* = 发芽 = 从地里冒出来。Seeds sprout in spring（种子在春天发芽）。Bean sprouts（豆芽）= 发了芽的豆子。New shops are sprouting up along the street（新商店沿街涌现）= 像嫩芽一样冒出来。同源词：spring（跳跃 = 突然弹起）、spray（喷雾 = 散开）、sprinkle（洒 = 少量散开）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wither]]：枯萎（sprout 的精确反义：发芽↔枯萎）
 > - [[decay]]：腐烂（sprout 的反义：生长↔腐烂）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bean sprouts**：豆芽
 > - **sprout up**：迅速涌现
 > - **seeds sprout**：种子发芽
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In recent years, technology startups have been sprouting up in cities across the country, driven by favorable government policies and increased investment."（近年来，在政府优惠政策和投资增加的推动下，科技创业公司在全国各地的城市不断涌现——考研阅读经济科技话题相关表达）
 > - "The seeds of democracy sprouted in the region after decades of authoritarian rule, as citizens began to demand greater political participation."（在数十年的威权统治之后，民主的种子在该地区萌芽，公民开始要求更多的政治参与——考研阅读政治话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

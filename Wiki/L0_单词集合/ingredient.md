@@ -3,14 +3,12 @@ title: "ingredient"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 成分、组成部分
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪnˈɡriːdiənt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ in-(进入) + [[gen]](产生) + -i- + -ent(名词后缀，表示物)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**成分、组成部分**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **成分、组成部分**（物理层面——构成某物的元素）
@@ -67,7 +65,7 @@ in-(进入) + [[gen]](产生) + -i- + -ent(名词后缀，表示物)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ in-(进入) + [[gen]](产生) + -i- + -ent(名词后缀，表示物)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（进入）+ gred（step 走，拉丁语 gradi）+ ient → 走进面团里成为一部分的东西 → ingredient（配料/成分）。
@@ -89,7 +87,7 @@ in-(进入) + [[gen]](产生) + -i- + -ent(名词后缀，表示物)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ in-(进入) + [[gen]](产生) + -i- + -ent(名词后缀，表示物)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[whole]]：整体（与 ingredient 的"组成部分"对立）
 > - [[mixture]]：混合物（包含所有 ingredient 的整体）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ in-(进入) + [[gen]](产生) + -i- + -ent(名词后缀，表示物)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **key ingredient**：关键成分/要素
 > - **active ingredient**：有效成分（药物/化妆品）
 > - **the ingredients of success**：成功的要素
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Speed is the essential ingredient of all athletics."（速度是所有田径运动项目的关键要素。）——考研高频表达
 > - "The active ingredient in some of the mouthwashes was simply detergent."（某些漱口剂中的有效成分只不过是洗涤剂而已。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

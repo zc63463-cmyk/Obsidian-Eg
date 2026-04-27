@@ -3,14 +3,12 @@ title: "prototype"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 第一类型（原始模型）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈprəʊtətaɪp/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**第一类型**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **第一类型**（时间先后层面）
@@ -64,7 +62,7 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > proto（第一的，同 [[protein]] 中的 prote-）+ type（类型）→ 第一类型 → 原型（prototype）。苹果公司每次发布新产品前，都会先做 prototype——第一类型的模型。同源词 [[proton]]（质子——第一的粒子）。
@@ -86,7 +84,7 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - prototype 作为"最初的版本"，无精确反义词。可在产品语境下与 [[final product]]（最终产品）形成对比。
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **develop/build a prototype**：开发/制造原型
 > - **prototype of**：……的原型
 > - **test the prototype**：测试原型
@@ -122,19 +120,15 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company has developed a prototype of a self-driving car."（该公司已开发出自动驾驶汽车的原型。）
 > - "The prototype was tested extensively before mass production."（原型在批量生产前经过了广泛测试。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "circulate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 绕圈流动
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsɜːkjəleɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绕圈流动**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **绕圈流动**（物理层面）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > circ（圆）+ ate（使动）→ 使之绕圈流动。想象心脏是一个泵，让血液在身体中 circulate（循环）。想象中央银行发行货币，让钱在经济中 circulate（流通）。想象有人在网上发了一条消息，让它 circulate（传播）到每个人。所有 circulate 都是"绕圈流动"。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stagnate]]：停滞（circulate 的反义：循环↔停滞）
 > - [[block]]：阻塞（circulate 的反义：流通↔阻塞）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **circulate among**：在……中流传
 > - **circulate information/news**：传播信息/新闻
 > - **blood circulates**：血液循环
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Without gravity to help circulate air, the carbon dioxide you exhale has a tendency to form an invisible cloud around your head."（在没有重力帮助循环空气的情况下，你呼出的二氧化碳往往会在你头部周围形成一团看不见的云。——六级阅读真题）
 > - "Indeed, they estimate that over a third of a million electoral broadsides were circulated to the local population during the period."（事实上，他们估计在这一时期，超过三分之一的选举传单被散发给了当地居民。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

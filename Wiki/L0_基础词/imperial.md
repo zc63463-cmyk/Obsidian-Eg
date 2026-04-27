@@ -3,14 +3,12 @@ title: "imperial"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 政治法律
 prototype: 帝国的（属于皇帝的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɪmˈpɪəriəl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**帝国的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **帝国的**（政治层面）
@@ -67,7 +65,7 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > imper（命令）→ imperial（帝国的）。拥有命令权的人是 emperor（皇帝），他的领地是 empire（帝国），属于他的就是 imperial。紫禁城就是 imperial palace（皇宫），皇帝的权力是 imperial power（至高无上的权力）。
@@ -89,7 +87,7 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[colonial]]：殖民的（imperial 的反义：帝国↔殖民地）
 > - [[democratic]]：民主的（imperial 的反义：帝制的↔民主的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **imperial palace**：皇宫
 > - **imperial power/authority**：至高无上的权力/权威
 > - **imperial army**：皇家军队
@@ -130,19 +128,15 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "I highly recommend the Forbidden City which served as the emperors' dwelling and imperial palace of both Ming Dynasty and Qing Dynasty."（我强烈推荐紫禁城，这是明清两代帝王的居所和皇宫。——考研写作真题）
 > - "Her words conjured up an image of China's imperial past."（她的话让人联想到昔日中国皇家的形象。——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

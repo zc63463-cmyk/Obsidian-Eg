@@ -3,14 +3,12 @@ title: "transmit"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 跨越发送
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/trænzˈmɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ trans-(跨越) + [[mit|mit]](发送)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**跨越发送**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **跨越发送**（物理层面）
@@ -69,7 +67,7 @@ trans-(跨越) + [[mit|mit]](发送)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ trans-(跨越) + [[mit|mit]](发送)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > "跨越"(trans)"发送"(mit)，就是传输(transmit)。
@@ -93,7 +91,7 @@ trans-(跨越) + [[mit|mit]](发送)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ trans-(跨越) + [[mit|mit]](发送)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[receive]]：接收
 > - [[block]]：阻塞
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,29 +120,23 @@ trans-(跨越) + [[mit|mit]](发送)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **transmit data**：传输数据（The system can transmit data at high speed.）
 > - **transmit disease**：传播疾病
 > - **transmit signals**：发射信号
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Parents transmit some of their characteristics to their children through genes."（父母通过基因将一些特征遗传给子女。）——考研高频表达
 > - "The disease is transmitted through contaminated water and food."（这种疾病通过受污染的水和食物传播。）——考研高频表达
 > - "The knowledge transmitted from one generation to the next forms the foundation of civilization."（代代相传的知识构成了文明的基础。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

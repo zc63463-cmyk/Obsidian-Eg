@@ -3,14 +3,12 @@ title: "context"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 编织在一起的环境、上下文
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈkɒntekst/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**编织在一起的环境、上下文**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **编织在一起的环境**（文本/事件层面）
@@ -66,7 +64,7 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > con-(一起) + text(编织)：文字一起编织成网 → "上下文；语境"。
@@ -88,7 +86,7 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[isolation]]：孤立（脱离语境）
 > - [[text]]：文本本身（脱离上下文）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in context**：在语境中；在适当的环境中
 >   The quote must be understood in context.
 > - **out of context**：脱离语境
@@ -133,20 +131,14 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The meaning of a word can vary significantly depending on the context in which it is used."（一个词的含义可能因使用语境的不同而有很大差异。）——考研高频表达
 > - "To fully understand the historical event, we must place it in its broader social and political context."（要充分理解这一历史事件，我们必须将其置于更广泛的社会和政治背景中。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

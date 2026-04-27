@@ -3,14 +3,12 @@ title: "tension"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 伸展到极限的状态（绷紧的状态）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈtenʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**伸展到极限的状态（绷紧的状态）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **伸展到极限的状态**（物理层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tense（绷紧的）+ -ion（状态）→ tension。想象两根绳子被拉到极限——物理上这叫 tension（张力）。想象两个国家像绳子一样被拉到极限——国际关系上这也叫 tension（紧张局势）。想象你的神经被拉到极限——心理上这也叫 tension（紧张感）。tension 就是"绷紧的状态"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[relaxation]]：放松，松弛（tension 的精确反义：紧张↔放松）
 > - [[harmony]]：和谐（tension 的反义：紧张关系↔和谐关系）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **racial tension**：种族紧张关系
 > - **international tension**：国际紧张局势
 > - **mounting tension**：日益加剧的紧张
@@ -138,19 +136,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "All this has the effect of building up unusual pressures and tensions within the community and consequently presents serious problems for the governments concerned."（所有这一切在社会内部造成了异常的压力和紧张，从而给有关政府带来了严重问题。——2000年考研翻译）
 > - "Anti-immigrant sentiment typically increases, as does conflict between races and classes."（反移民情绪通常会增加，种族和阶级之间的冲突也是如此。——2012年英语二Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

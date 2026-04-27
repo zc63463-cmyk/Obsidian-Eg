@@ -3,14 +3,12 @@ title: "savage"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 森林里的→野蛮的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈsævɪdʒ/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**森林里的→野蛮的**"为统筹中心，沿隐喻路径向外扩展：
 >
 > 1. **森林里的**（空间→人）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > savage 来自拉丁语 *silvaticus*（森林的）。想象远古时代，一群人住在茂密的森林里，远离城市和文明——文明人叫他们"野蛮人"（savage）。后来，任何凶猛残暴的行为都被称为 savage。记住 savage = 森林里的→野蛮的→残暴的。
@@ -97,7 +95,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +108,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[civilized]]：文明的（savage 的精确反义：野蛮↔文明）
 > - [[gentle]]：温和的（残暴↔温和）
 > - [[tame]]：驯服的（野性↔驯服）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **savage attack / criticism**：猛烈的攻击/抨击
 > - **savage violence**：残暴的暴力
 > - **savage beast**：猛兽
@@ -138,7 +136,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "a savage attack on the government's policy"（对政府政策的猛烈抨击）——政治/新闻话题
 > - "the savage beauty of the wilderness"（荒野的原始之美）——文学/自然话题
 > - "savage criticism from the press"（来自新闻界的猛烈批评）——媒体话题
@@ -147,15 +145,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

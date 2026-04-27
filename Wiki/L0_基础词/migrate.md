@@ -3,14 +3,12 @@ title: "migrate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 从一个地方移动到另一个地方（改变居住地）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/maɪˈɡreɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从一个地方移动到另一个地方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从一个地方移动到另一个地方**（物理层面）
@@ -66,7 +64,7 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > migr（迁移）→ migrate（迁移）。候鸟 migrate（迁徙）到南方过冬，农村人口 migrate（移居）到城市找工作。migrate 就是从一个地方搬到另一个地方。
@@ -88,7 +86,7 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[settle]]：定居（migrate 的精确反义：迁移↔定居）
 > - [[remain]]：留下（migrate 的反义：迁移↔留下）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **migrate to**：迁移到……
 > - **rural-to-urban migration**：城乡迁移
 > - **migrate from A to B**：从A迁移到B
@@ -130,19 +128,15 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many workers migrate from rural areas to cities in search of better job opportunities."（许多工人从农村迁移到城市寻找更好的工作机会——考研社会类阅读高频表达）
 > - "Birds migrate thousands of miles each year."（鸟类每年迁徙数千英里——考研科普类阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "dump"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 重重地扔下，倾倒
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dʌmp/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**重重地扔下，倾倒**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **重重地扔下**（物理层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -81,7 +79,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dump 来自古诺尔斯语 dumpa，就是"砰"的一声——想象你拎着一袋垃圾走到垃圾场，"砰"地一声扔在地上。这就是 dump。后来你"砰"地甩掉男朋友——dump him。你"砰"地把过剩商品倒到国外——dump goods。你"砰"地把数据倒到硬盘——dump data。dump 就是一切"砰地丢掉"。
@@ -93,7 +91,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[keep]]：保留（dump 的反义：丢弃↔保留）
 > - [[collect]]：收集（dump 的反义：倾倒↔收集）
 > - [[cherish]]：珍惜（dump 的反义：抛弃↔珍惜）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dump waste/garbage**：倾倒废弃物/垃圾
 > - **dump sb.**：抛弃某人（恋人）
 > - **dump goods on the market**：向市场倾销商品
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company was accused of dumping cheap steel on the European market."（该公司被指控向欧洲市场倾销廉价钢材）
 > - "She dumped him after finding out he had been lying."（她发现他一直在撒谎后就把他甩了）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "circumstance"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 周围站立的事物→环境/情况
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈsɜːrkəmstæns/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ circum-(周围) + st(站立) + -ance(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 >
 以"**站在周围的事物→人所处的环境与条件**"为统筹中心，沿**空间路径**向外扩展：
 
@@ -62,7 +60,7 @@ circum-(周围) + st(站立) + -ance(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 | 词性 | 释义 | 转换路径 |
 |------|------|---------|
@@ -72,7 +70,7 @@ circum-(周围) + st(站立) + -ance(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你站在原地，四周环绕着各种事物和条件——这些'站在你周围的'就是 circumstance
@@ -84,7 +82,7 @@ circum-(周围) + st(站立) + -ance(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -97,12 +95,12 @@ circum-(周围) + st(站立) + -ance(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 - 无直接反义词，但可对比 [[plan]]（计划 vs 客观情况）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -113,27 +111,21 @@ circum-(周围) + st(站立) + -ance(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 - **under/in...circumstances**（在…情况下）：Under no circumstances should you leave the building.（你无论如何都不应离开这栋楼。）
 - **in/under the circumstances**（在这种情况下）：Under the circumstances, we had no choice.（在这种情况下，我们别无选择。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 - Economic circumstances have changed dramatically.（经济环境发生了巨大变化。）
 - The court must consider all the circumstances of the case.（法院必须考虑案件的所有情况。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

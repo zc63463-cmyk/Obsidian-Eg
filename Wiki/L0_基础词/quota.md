@@ -3,14 +3,12 @@ title: "quota"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 配额（规定的数量限额或比例）
-extension_dim: 数量路径
+extension_dim: [数量路径]
 phonetic: "/ˈkwəʊtə/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**配额（规定的数量限额或比例）**"为统筹中心，沿数量路径向外扩展：
 >
 > 1. **规定的数量**（数量层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > quota 来自拉丁语 *quota*，字面意思是"多少的那个部分"——*quot* 意思是"多少"。想象一个工厂经理说："Our quota is 100 units a day."（我们的配额是每天100件）——他规定了"多少"，这就是 quota。从移民配额到销售配额到选举名额，quota 始终是"被规定的数量"。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unlimited]]：无限制的（quota 的精确反义：有配额↔无限制）
 > - [[excess]]：超额，过量（quota 的反义：配额内↔超出配额）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **immigration quota**：移民配额
 > - **sales quota**：销售配额
 > - **meet one's quota**：完成配额
@@ -131,19 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where."（她和埃迪分分合合太多次了，孩子们都搞不清谁的衣服在哪里。——John Grisham, *The Chamber*）
 > - "The old man recalled the city as it had been before the war."（老人回忆起战前城市的样子。——Cambridge Dictionary）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

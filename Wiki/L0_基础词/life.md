@@ -3,14 +3,12 @@ title: "life"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 持续存在的生命体
-extension_dim: 存在-隐喻扩展
+extension_dim: [存在-隐喻扩展]
 phonetic: "/laɪf/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**生命**"为统筹中心，沿存在-隐喻扩展向外扩展：
 >
 > 1. **生命**
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > life 来自 PIE *leip-"粘附、持续"，生命就是"持续粘附在世界上"的状态。一个人的 life（生命）从出生到死亡就是 all one's life（一生），他选择怎么度过就是 his way of life（他的生活方式）。一棵枯树被浇水后重新 full of life（充满活力），大海中丰富的 marine life（海洋生物）构成了生态系统。life 的核心画面就是"从出生到死亡的持续存在"。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[death]]：死亡（life"生命"的精确反义：生↔死）
 > - [[lifeless]]：无生命的（life 的反义：有生命↔无生命）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **way of life**：生活方式
 > - **all one's life**：一生
 > - **bring to life**：使苏醒，使生动
@@ -136,19 +134,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The quality of life in modern cities has improved significantly."（现代城市的生活质量有了显著提高。——考研阅读常见话题）
 > - "Life is like a box of chocolates; you never know what you're gonna get."（生活就像一盒巧克力，你永远不知道下一颗是什么。——Forrest Gump）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

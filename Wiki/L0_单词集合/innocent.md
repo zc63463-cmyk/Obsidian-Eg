@@ -3,14 +3,12 @@ title: "innocent"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 无害的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɪnəsnt/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -50,7 +48,7 @@ in-(不) + noc(伤害) + -ent(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无害的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **无害的**（词源层面）
@@ -73,7 +71,7 @@ in-(不) + noc(伤害) + -ent(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ in-(不) + noc(伤害) + -ent(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ noc（伤害）+ -ent = 不会伤害他人的——无辜的、天真的。
@@ -95,7 +93,7 @@ in-(不) + noc(伤害) + -ent(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,13 +106,13 @@ in-(不) + noc(伤害) + -ent(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[guilty]]：有罪的（innocent是无辜的）
 > - [[harmful]]：有害的（innocent是无害的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,28 +123,22 @@ in-(不) + noc(伤害) + -ent(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **innocent of**：无辜的，没有…的（例：He was innocent of the crime.）
 > - **innocent bystander**：无辜的旁观者（例：Many innocent bystanders were hurt.）
 > - **plead innocent**： plead innocent（例：The defendant pleaded innocent.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We fear rejection, or that our innocent social advances will be misinterpreted as 'weird'."（我们害怕被拒绝，或者害怕我们单纯的社交示好会被误解为"怪异"。）——考研高频表达
 > - "Several innocent bystanders were injured when his car slid off the road."（当他的车滑出道路时，几名无辜的旁观者受了伤。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

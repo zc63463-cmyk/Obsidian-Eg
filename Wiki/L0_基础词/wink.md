@@ -3,14 +3,12 @@ title: "wink"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 快速闭一只眼，眨眼
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/wɪŋk/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**快速闭一只眼，眨眼**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **眨眼**（动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wink 的核心画面是"一个人对另一个人眨了一只眼——传递一个秘密信号"。古英语 *wincian* = 眨眼。wink = 快速闭一只眼 = 使眼色。in a wink（一瞬间）= 眨眼的时间 = 极短的时间。forty winks（小睡）= 四十次眨眼的时间 = 打个盹。I didn't sleep a wink（我一刻都没睡着）。The stars winked（星星闪烁）= 星光像眨眼一样闪动。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stare]]：凝视（wink 的反义：快速眨眼↔持续凝视）
 > - [[gaze]]：注视（wink 的反义：眨眼↔注视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **wink at**：对……使眼色；假装没看见
 > - **in a wink**：一瞬间
 > - **forty winks**：小睡，打盹
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The veteran detective winked at his young partner, signaling that they should not reveal what they had just discovered to the suspect during the interrogation."（经验丰富的侦探向他的年轻搭档使了个眼色，示意他们在审讯期间不应向嫌疑人透露他们刚刚发现的事情——考研阅读侦探/法律话题相关表达）
 > - "In the age of social media, news can spread across the globe in a wink, making it increasingly difficult for governments to control the flow of information."（在社交媒体时代，新闻可以在瞬间传遍全球，这使得政府越来越难以控制信息的流动——考研阅读科技话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

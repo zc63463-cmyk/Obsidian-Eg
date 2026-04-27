@@ -3,14 +3,12 @@ title: "solo"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 独自的（一个人单独完成某事）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈsəʊləʊ/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**独自的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **单独演奏**（音乐层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > solo 来自意大利语 *solo*（单独的），来自拉丁语 *sōlus*（唯一的）。最初是音乐术语——一个人在舞台上独奏 = a piano solo。后来扩展到生活的方方面面——travel solo（独自旅行）、go solo（单干）。记住 solus = 唯一的：[[sole]]（唯一的）、[[solitary]]（孤独的）、[[desolate]]（荒凉的）。solo 可以做形容词、副词、名词和动词，是词性最丰富的词之一。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[duet]]：二重奏（solo 的音乐反义：独奏↔二重奏）
 > - [[ensemble]]：合奏（solo 的音乐反义：独奏↔合奏）
 > - [[together]]：一起（solo 的生活反义：独自↔一起）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a piano solo**：钢琴独奏
 > - **travel solo**：独自旅行
 > - **go solo**：单飞，单干
@@ -138,19 +136,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "After years of working as part of a research team, she decided to go solo and establish her own laboratory to pursue her groundbreaking theories."（在作为研究团队成员工作多年后，她决定单干，建立自己的实验室来追求她开创性的理论——考研阅读学术话题相关表达）
 > - "The young violinist delivered a stunning solo performance that moved the entire audience to a standing ovation."（这位年轻的小提琴家进行了一场令人惊叹的独奏表演，感动了全场观众起立鼓掌——考研翻译文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

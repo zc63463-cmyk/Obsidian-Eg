@@ -3,17 +3,14 @@ title: "initiate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 开始、发起
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ɪˈnɪʃieɪt/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: it
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -47,7 +44,7 @@ in-(进入) + [[it]](走/行走) + -i- + -ate(动词后缀，使……)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**开始、发起**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **开始、发起**（时间层面——启动某事）
@@ -68,7 +65,7 @@ in-(进入) + [[it]](走/行走) + -i- + -ate(动词后缀，使……)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +76,7 @@ in-(进入) + [[it]](走/行走) + -i- + -ate(动词后缀，使……)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > initiate 和 initial 同源——initial 是"最初的"，initiate 是动词"使之开始"。发起一个项目就是让它从 initial 状态开始。
@@ -91,7 +88,7 @@ in-(进入) + [[it]](走/行走) + -i- + -ate(动词后缀，使……)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ in-(进入) + [[it]](走/行走) + -i- + -ate(动词后缀，使……)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[terminate]]：终止、结束（与 initiate 的"开始"对立）
 > - [[conclude]]：结束、得出结论
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,27 +119,21 @@ in-(进入) + [[it]](走/行走) + -i- + -ate(动词后缀，使……)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **initiate a program/project**：发起一个项目
 > - **initiate a conversation**：开始对话
 > - **initiate sb. into sth.**：使某人入门/接纳某人加入
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Who initiated the violence?"（谁先使用了暴力？）——考研高频表达
 > - "Hague initiated a series of reforms of the Conservative Republican Party."（海格发起了一系列保守共和党的改革。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

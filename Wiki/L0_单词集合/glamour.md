@@ -3,14 +3,12 @@ title: "glamour"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 迷人的魔法魅力
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈɡlæmə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**魔法咒语**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **魔法咒语**（超自然层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > grammar（语法）→ glamour（魔法）→ 魅力。中世纪时，懂语法的人被视为巫师，grammar 在苏格兰方言中变成了 glamour（魔法）。现代的 Hollywood glamour 就是这种"魔法"的延续——明星的魅力就像一种让人着迷的咒语。
@@ -95,7 +93,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[repulsion]]：排斥力，反感（glamour 的精确反义：吸引力↔排斥力）
 > - [[ugliness]]：丑陋（缺乏魅力的外观）
 > - [[dullness]]：乏味，单调（缺乏魅力的特质）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Hollywood glamour**：好莱坞魅力
 > - **cast a glamour over sb**：对某人施魔法/迷惑某人
 > - **glamorous lifestyle/career**：迷人的生活方式/令人向往的职业
@@ -137,22 +135,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Hollywood suggests glamour, a place where the young teenagers could, with a bit of luck, fulfill their dreams."（好莱坞意味着魅力，如果走运的话，小青年们可以在那里实现他们的梦想）——考研阅读真题
 > - "the glamour of city life"（城市生活的魅力）——考研阅读常见话题
 > - "a glamorous career in journalism"（新闻业令人向往的职业）——考研阅读常见搭配
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

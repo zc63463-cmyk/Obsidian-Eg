@@ -3,14 +3,12 @@ title: "discharge"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 卸下负担（从身上卸除负荷）
-extension_dim: 行动路径
+extension_dim: [行动路径]
 phonetic: "/dɪsˈtʃɑːdʒ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**卸下负担（从身上卸除负荷）**"为统筹中心，沿行动路径向外扩展：
 >
 > 1. **卸下装载**（物理层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > discharge 来自法语，dis（去除）+ charge（装载/负担）→ "卸下装载"。charge 是"装载、充电、指控"，discharge 就是它的反面——"卸货、放电、解除"。记住：discharge = dis + charge = 去掉负担。医院让你出院 = discharge you from hospital；你还清了债务 = discharge your debt。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[charge]]：装载；充电；指控（discharge 的精确反义：卸下↔装载）
 > - [[load]]：装载（discharge 的反义：卸货↔装货）
 > - [[hire]]：雇佣（discharge 的反义：解雇↔雇佣）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **discharge from hospital**：出院（考研高频搭配）
 > - **discharge a debt/obligation**：清偿债务/履行义务
 > - **discharge from duty/service**：解职/退役
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The factory was fined for discharging toxic chemicals into the river."（这家工厂因向河流排放有毒化学品而被罚款——考研阅读环境话题高频表达）
 > - "Patients are typically discharged from hospital within 48 hours of minor surgery."（患者在小型手术后通常48小时内出院——考研阅读医疗话题常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

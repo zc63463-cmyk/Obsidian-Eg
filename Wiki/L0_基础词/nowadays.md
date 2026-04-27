@@ -3,14 +3,12 @@ title: "nowadays"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 现今，如今
-extension_dim: 时间定位
+extension_dim: [时间定位]
 phonetic: "/ˈnaʊədeɪz/"
 pos: adv.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ now(现在) + a(在……上) + days(日子)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在现在的日子里**"为统筹中心，沿时间定位向外扩展：
 >
 > 1. **在现在的日子里**（时间层面）
@@ -64,7 +62,7 @@ now(现在) + a(在……上) + days(日子)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ now(现在) + a(在……上) + days(日子)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nowadays = now（现在）+ a（在……里）+ days（日子）。字面义就是"在现在的日子里"。想象你站在时间轴上，指着"今天"说："nowadays，人们都用手机了"——你强调的是"当前时代"与"过去"的对比。注意用法限制：nowadays 不能被 very/quite 修饰（不能说 very nowadays），通常放在句首。与 [[now]] 的区别：now = 此时此刻（I'm busy now），nowadays = 当前时代（Nowadays, people are busy）。与 [[today]] 的区别：today 可以指"今天"也可以指"当今"，nowadays 只能指"当今"。
@@ -86,7 +84,7 @@ now(现在) + a(在……上) + days(日子)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ now(现在) + a(在……上) + days(日子)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确时间反义词，nowadays 的语义对立方向为过去时间词如 [[in the past]]、[[formerly]]、[[used to]]
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ now(现在) + a(在……上) + days(日子)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Nowadays, ...**：如今，……（常用于句首，考研写作高频开头）
 > - **even nowadays**：即使在当今（强调对比）
 > - **nowadays and then**：偶尔（罕见用法，了解即可）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Nowadays, an increasing number of young people prefer to work from home rather than commute to the office."（如今，越来越多的年轻人更喜欢在家办公，而不是通勤去办公室。——考研英语写作社会类话题，Nowadays 是高频句首词）
 > - "Nowadays, many universities offer online courses, which has fundamentally changed the landscape of higher education."（如今，许多大学提供在线课程，这从根本上改变了高等教育的格局。——考研英语阅读教育类话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

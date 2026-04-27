@@ -3,14 +3,12 @@ title: "accommodate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 使适应，提供便利
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈkɒmədeɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ac-(=ad-，向，加强) + com-(共同) + [[mod]](=modus，方式，尺寸) + -a
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使与某物相匹配**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使与某物相匹配**（基础适配层面）
@@ -65,7 +63,7 @@ ac-(=ad-，向，加强) + com-(共同) + [[mod]](=modus，方式，尺寸) + -a
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ac-(=ad-，向，加强) + com-(共同) + [[mod]](=modus，方式，尺寸) + -a
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 源自拉丁语 *accommodare*，ad-（向）+ com-（共同）+ modus（尺寸/方式），意为"使与……相适合"。想象一个酒店经理不断调整房间布局，让每位客人都能住得舒服——这就是 accommodate。
@@ -87,7 +85,7 @@ ac-(=ad-，向，加强) + com-(共同) + [[mod]](=modus，方式，尺寸) + -a
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ac-(=ad-，向，加强) + com-(共同) + [[mod]](=modus，方式，尺寸) + -a
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inconvenience]]：使不便 vs accommodate 提供便利
 > - [[refuse]]：拒绝容纳 vs accommodate 容纳
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,29 +114,23 @@ ac-(=ad-，向，加强) + com-(共同) + [[mod]](=modus，方式，尺寸) + -a
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **accommodate sb. with sth.**：为某人提供某物
 > - **accommodate to**：适应……
 > - **accommodate up to 500 guests**：最多容纳500位客人
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The hotel can **accommodate** up to 500 guests.（这家酒店最多可容纳500位客人。）
 > - We need to **accommodate** the special needs of disabled students.（我们需要考虑到残疾学生的特殊需求。）
 > - The new policy is designed to **accommodate** the interests of all parties.（新政策旨在兼顾各方利益。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

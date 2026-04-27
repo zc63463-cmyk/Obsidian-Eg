@@ -3,14 +3,12 @@ title: "sheet"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 薄片（平整展开的薄层）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ʃiːt/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**薄片（平整展开的薄层）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **薄片**（物体层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sheet 本义是"展开的薄片"。最薄的是纸——a sheet of paper（一张纸）。铺在床上的是布——a bed sheet（床单）。冬天湖面结冰，像一张巨大的薄片——a sheet of ice。火灾时火势蔓延，像一片红色的薄片——a sheet of flame。sheet 就是"展开的薄片"，什么材料都可以。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[block]]：大块（sheet 的反义：薄片↔大块）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a sheet of paper/ice/water**：一张纸/一片冰/一片水
 > - **bed sheet**：床单
 > - **balance sheet**：资产负债表
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The busy streets in Paris were uneven and caked in thick mud, but there was always a breathtaking sight to see in the shop windows."（巴黎繁忙的街道崎岖不平，覆盖着厚厚的泥巴，但和平街糕点店的橱窗里总有令人叹为观止的景象。——语料库例句，含 sheet 相关表达）
 > - "She turned as white as a sheet when she heard the news."（听到这个消息时，她面色苍白如纸。——英语常用表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

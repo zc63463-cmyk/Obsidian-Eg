@@ -3,17 +3,14 @@ title: "shove"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 猛力推
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ʃʌv/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: shove
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -46,7 +43,7 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**猛力推**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **猛力推**（物理动作层面）
@@ -69,7 +66,7 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shove 和 push 同源，但 shove 更粗暴。想象你在拥挤的地铁里，被人 shove 了一把——不是轻轻推，而是猛力推撞。shove 就是那种"粗鲁地猛推"的感觉。
@@ -92,7 +89,7 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[pull]]：拉（shove 的精确反义：推↔拉）
 > - [[caress]]：轻抚（shove 的反义：粗暴推↔温柔抚摸）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +124,7 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **push and shove**：推推挤挤
 > - **shove aside**：把……推开
 > - **shove something into**：把……塞进
@@ -135,19 +132,15 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Reporters pushed and shoved as they tried to get close to the princess."（记者们推推挤挤，试图靠近公主。——剑桥词典例句）
 > - "Just wait your turn — there's no need to shove."（排队等着就行——没必要推挤。——牛津词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

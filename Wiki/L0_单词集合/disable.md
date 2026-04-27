@@ -3,14 +3,12 @@ title: "disable"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 使失去能力
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/dɪsˈeɪbl/"
 pos: vt.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ dis-(剥夺/取消) + [[fac|able]](能够的) → 使不能
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使失去能力**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **使失去能力**（身体层面：剥夺行动能力）
@@ -64,7 +62,7 @@ dis-(剥夺/取消) + [[fac|able]](能够的) → 使不能
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ dis-(剥夺/取消) + [[fac|able]](能够的) → 使不能
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > dis（去掉/剥夺）+ able（能够）→ 去掉"能够"的能力 → 使残疾。想象一个人原本能跑能跳，突然被去掉了所有能力。
@@ -87,7 +85,7 @@ dis-(剥夺/取消) + [[fac|able]](能够的) → 使不能
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ dis-(剥夺/取消) + [[fac|able]](能够的) → 使不能
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[enable]]：使能够，使可能
 > - [[empower]]：授权，使有能力
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,28 +116,22 @@ dis-(剥夺/取消) + [[fac|able]](能够的) → 使不能
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **disabled people/persons**：残疾人
 > - **disable the alarm**：解除警报
 > - **learning disability**：学习障碍
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The virus can disable the computer's security system."（该病毒可以使计算机的安全系统瘫痪。）——考研高频表达
 > - "Facilities for disabled people should be available in all public buildings."（所有公共建筑都应配备残疾人设施。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

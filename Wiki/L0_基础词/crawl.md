@@ -3,14 +3,12 @@ title: "crawl"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 身体贴地缓慢移动
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/krɔːl/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**身体贴地缓慢移动**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **身体贴地缓慢移动**（物理动作层面）
@@ -67,7 +65,7 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > crawl 和 [[creep]] 是"爬行双胞胎"——crawl 更强调"贴地慢移"，creep 更强调"悄悄移动"。婴儿 crawl，小偷 creep。堵车时 traffic crawls，时间 the hours crawl by。游泳池里像爬行一样的泳姿就是 crawl（自由泳）。
@@ -90,7 +88,7 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sprint]]：冲刺，全速奔跑（crawl 的反义：缓慢移动↔全速奔跑）
 > - [[soar]]：翱翔，猛增（crawl 的反义：缓慢↔迅速）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **crawl with**：爬满（……）
 > - **traffic crawl**：交通缓慢移动
 > - **crawl space**：爬行空间（建筑下的狭小空间）
@@ -128,19 +126,15 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The traffic was crawling along the highway during rush hour."（高峰期高速公路上的交通缓慢移动）
 > - "The wall was crawling with insects."（墙上爬满了昆虫）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "precaution"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 预先防范的措施
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/prɪˈkɔːʃn/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: prec-pre
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-22
@@ -44,7 +41,7 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**事先防范**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **事先防范**（行为层面：提前采取行动避免危险）
@@ -65,7 +62,7 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +70,7 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > precaution = pre（在...之前）+ caution（谨慎）。在危险发生之前就保持谨慎，采取预防措施。就像出门前看天气预报带伞，就是一种 precaution。
@@ -82,7 +79,7 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -94,13 +91,13 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[carelessness]]：粗心大意（与谨慎防范相对）
 > - [[negligence]]：疏忽（与预防措施相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -111,7 +108,7 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **take precautions**：采取预防措施
   - You should take precautions against the spread of the disease.（你应该采取措施预防疾病传播。）
 > - **as a precaution**：作为预防措施
@@ -121,21 +118,15 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "By comparison, the earlier building orders, regulations and codes did not go beyond some basic controls and general precautions against the danger of fire."（相比之下，早期的建筑命令、法规和规范没有超出一些基本的控制和对火灾危险的一般预防措施。）——考研高频表达
 > - "Unless precautions are taken, humans could act as vectors for a range of dangerous pathogens."（除非采取预防措施，否则人类可能成为一系列危险病原体的传播媒介。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

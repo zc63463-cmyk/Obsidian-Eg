@@ -3,14 +3,12 @@ title: "settle"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 使安定下来，最终放置到稳定位置
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈsetl/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使安定下来**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使安定下来**（本义：使某物处于稳定位置）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > settle 和 [[set]]（放置）同源。想象一杯浑浊的水放在桌上——泥沙慢慢"安定"到杯底，水变清了。这就是 settle 的原型义：使安定。人安定下来是"定居"，争端安定下来是"解决"，账目安定下来是"结清"。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,13 +108,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disturb]]：打扰（与"安定"形成对立）
 > - [[unsettle]]：使不安（settle 的直接反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,28 +127,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **settle down**：He settled down in a small town after retirement.（退休后他在一个小镇安顿下来。）
 > - **settle a dispute**：The two countries finally settled their dispute.（两国最终解决了争端。）
 > - **settle a bill**：Let me settle the bill.（让我来结账。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It took them several months to settle the dispute."（他们花了好几个月才解决这场争端。）——考研高频表达
 > - "Many immigrants settled in the coastal cities during the nineteenth century."（十九世纪许多移民在沿海城市定居。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

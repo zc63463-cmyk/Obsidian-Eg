@@ -3,14 +3,12 @@ title: "mute"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 闭嘴不说话的（沉默的）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/mjuːt/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ mut-(沉默，拉丁语 *mutus*) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**闭嘴不说话的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **闭嘴不说话的**（声音层面——无声）
@@ -72,7 +70,7 @@ mut-(沉默，拉丁语 *mutus*) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ mut-(沉默，拉丁语 *mutus*) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mut（沉默）→ mute。mute 原指"哑巴"——不能说话的人。后来指"沉默的"——He remained mute throughout the trial.（整个审判过程中他保持沉默。）手机上的 mute button 让一切声音消失——静音。mute 的核心就是"无声"。
@@ -96,7 +94,7 @@ mut-(沉默，拉丁语 *mutus*) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ mut-(沉默，拉丁语 *mutus*) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[vocal]]：发声的；直言的（mute 的反义：沉默↔发声）
 > - [[loud]]：大声的（mute 的反义：消音↔大声）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ mut-(沉默，拉丁语 *mutus*) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **remain mute**：保持沉默
 > - **deaf and mute**：又聋又哑
 > - **mute the TV/phone**：将电视/手机静音
@@ -137,19 +135,15 @@ mut-(沉默，拉丁语 *mutus*) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The witness remained mute when asked about the incident."（当被问及该事件时，证人保持沉默）
 > - "She pressed the mute button on the remote control to silence the commercial."（她按下遥控器上的静音键来消除广告的声音——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

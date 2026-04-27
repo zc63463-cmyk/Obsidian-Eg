@@ -3,14 +3,12 @@ title: "plastic"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 可塑形的（可以被塑造和改变形态的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈplæstɪk/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可塑形的（可以被塑造的）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可塑形的**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > plastic 源自希腊语 plastikos（可塑的），与 [[plaster]]（石膏）、[[plate]]（平板）同源。塑料是最具"可塑性"的材料——可以塑造成任何形状。plastic surgery（整形手术）就是"塑造外形"的手术。plastic smile（虚伪的笑容）——像塑料一样假。2022年考研英语一Text 1 讨论了塑料的持久性问题。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[natural]]：自然的（plastic "不自然的"的反义）
 > - [[rigid]]：僵硬的（plastic "可塑的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **plastic bags**：塑料袋
 > - **plastic surgery**：整形手术
 > - **plastic smile**：虚伪的笑容
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People often complain that plastics are too durable. Water bottles, shopping bags, and other trash litter the planet, from Mount Everest to the Mariana Trench, because plastics are everywhere and don't break down easily."（人们经常抱怨塑料太耐用了。水瓶、购物袋和其他垃圾散布在地球上，从珠穆朗玛峰到马里亚纳海沟，因为塑料无处不在且不易分解。——2022年英语一Text 1）
 > - "But some plastic materials change over time."（但一些塑料材料会随时间变化。——2022年英语一Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

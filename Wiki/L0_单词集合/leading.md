@@ -3,14 +3,12 @@ title: "leading"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 走在最前面的
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈliːdɪŋ/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走在最前面的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **走在最前面的**（竞争排名层面）
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > leading 就是 [[lead]]（引导）的"进行时"——正在走在前面的。想象一场马拉松比赛，跑在最前面的人就是 leading runner。延伸到社会领域：走在行业最前面的是 leading company（领先企业），在某个领域最有话语权的是 leading expert（顶尖专家），最重要的原因是 leading cause（首要原因）。记住核心画面：**跑在最前面**。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -108,14 +106,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[minor]]：次要的（leading "主要的"的反义：首要 vs 次要）
 > - [[secondary]]：第二位的，次要的（从首要到次要）
 > - [[trailing]]：落后的（leading "领先的"的反义：领先 vs 落后）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **leading cause**：主要原因
 > - **leading expert/authority**：顶尖专家/权威
 > - **leading role**：主要角色，主导作用
@@ -139,22 +137,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Smoking is a leading cause of lung cancer."（吸烟是肺癌的主要原因）——健康/科普类阅读高频搭配
 > - "She is a leading expert in the field of artificial intelligence."（她是人工智能领域的顶尖专家）——科技类阅读
 > - "The company plays a leading role in the industry."（该公司在行业中发挥着主导作用）——商业类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

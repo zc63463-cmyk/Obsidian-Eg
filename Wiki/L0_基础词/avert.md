@@ -3,14 +3,12 @@ title: "avert"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 转移目光/转向别处（转开、避开）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/əˈvɜːt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ a-(=ab-, 离开，远离) + [[ver-vert|vert]](转，来自拉丁语 *vertere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转移目光/转向别处**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **转移目光/转向别处**（身体动作层面）
@@ -65,7 +63,7 @@ a-(=ab-, 离开，远离) + [[ver-vert|vert]](转，来自拉丁语 *vertere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ a-(=ab-, 离开，远离) + [[ver-vert|vert]](转，来自拉丁语 *vertere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > a（离开）+ vert（转）→ 转开 → 防止。想象你走在路上看到一场可怕的车祸，你本能地把头转开——avert your eyes。国家之间即将爆发战争，外交官紧急斡旋把战争"转开"——avert a war。核心动作就是"转开"。
@@ -87,7 +85,7 @@ a-(=ab-, 离开，远离) + [[ver-vert|vert]](转，来自拉丁语 *vertere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ a-(=ab-, 离开，远离) + [[ver-vert|vert]](转，来自拉丁语 *vertere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cause]]：导致（avert 的反义：防止↔导致）
 > - [[provoke]]：引发（avert 的反义：避免↔引发）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,22 @@ a-(=ab-, 离开，远离) + [[ver-vert|vert]](转，来自拉丁语 *vertere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **avert a crisis/disaster/collision**：防止危机/灾难/碰撞
 > - **avert one's eyes/gaze**：转移目光，移开视线
 > - **avert a strike**：避免罢工
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The tragedy could have been averted if the crew had followed safety procedures."（如果船员遵守了安全程序，这场悲剧本可以避免——考研常见表达）
 > - "She averted her eyes from the terrible scene."（她把目光从那可怕的场面移开）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "consequently"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 因此，所以（跟随而来的）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈkɒnsɪkwəntli/"
 pos: adv.
-metaphor_type: 无隐喻
 word_root: secut
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -44,7 +41,7 @@ con-(共同，一起) + sequ/secut(跟随) + -ent(形容词后缀) + -ly(副词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**跟随而来的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **跟随而来的**（时间层面）
@@ -66,7 +63,7 @@ con-(共同，一起) + sequ/secut(跟随) + -ent(形容词后缀) + -ly(副词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +74,7 @@ con-(共同，一起) + sequ/secut(跟随) + -ent(形容词后缀) + -ly(副词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > consequence（后果）+ -ly → 以结果的方式 → consequently = 因此。
@@ -89,7 +86,7 @@ con-(共同，一起) + sequ/secut(跟随) + -ent(形容词后缀) + -ly(副词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ con-(共同，一起) + sequ/secut(跟随) + -ent(形容词后缀) + -ly(副词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - consequently 作为逻辑连接词，无直接反义词
 - 可对比 [[nevertheless]]（然而，表示转折而非因果）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,24 +120,18 @@ con-(共同，一起) + sequ/secut(跟随) + -ent(形容词后缀) + -ly(副词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **consequently**：因此（The company invested heavily in research; consequently, it gained a competitive edge.）
 > - 常用于句首，用逗号隔开：Consequently, we decided to postpone the meeting.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Some of these causes are completely reasonable results of social needs. Others are reasonable consequences of particular advances in science being to some extent self-accelerating."（其中一些原因完全是社会需求的合理结果。另一些原因则是科学某些特定进步在某种程度上自我加速的合理后果。）——1996年翻译
 > - "She didn't study hard; consequently, she failed the exam."（她没有努力学习，结果考试不及格。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

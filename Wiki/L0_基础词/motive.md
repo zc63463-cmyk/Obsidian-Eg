@@ -3,14 +3,12 @@ title: "motive"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 推动人移动的力量（促使人行动的内在驱动力）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈməʊtɪv/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**推动人移动的力量**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **推动力量**（物理层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > motive 来自拉丁语 *motivus*（推动的），和 [[move]]（移动）同源。你为什么每天早起背单词？因为你有一个 motive（动机）在推动你——考研上岸。这股力量就像一台 [[motor]]（发动机）一样，推动你从"不想学"的状态移动到"拼命学"的状态。motive 就是内心的发动机。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deterrent]]：威慑物，阻止因素（motive 的反义：推动力↔阻止力）
 > - [[discouragement]]：气馁，阻碍（motive 的反义：内在动力↔内在阻力）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **motive for**：……的动机（What was the motive for the crime?）
 > - **ulterior motive**：别有用心的动机（He suspected she had an ulterior motive.）
 > - **hidden/underlying motive**：隐藏的/潜在的动机（The underlying motive was financial gain.）
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The police are trying to establish a motive for the murder."（警方正试图确定这起谋杀案的动机）
 > - "Profit motive has been a driving force behind many technological innovations."（利润动机一直是许多技术创新背后的驱动力）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

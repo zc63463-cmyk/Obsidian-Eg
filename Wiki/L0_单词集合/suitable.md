@@ -3,17 +3,14 @@ title: "suitable"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 可以被相配的（适合的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈsuːtəbl/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: suit
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可以被相配的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **可以被相配的**（社会层面：与需求/情况匹配）
@@ -62,7 +59,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[suit]]（相配）+ -able（可以被）。一套衣服可以被你的身材**相配**，它就是 **suitable**（适合的）。记住：可被相配 = suitable。
@@ -83,7 +80,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +93,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unsuitable]]：不合适的
 > - [[inappropriate]]：不恰当的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +111,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **suitable for**：适合于……
   - This book is suitable for beginners.（这本书适合初学者。）
 > - **suitable to**：与……相称
@@ -122,19 +119,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The earliest forms of art, like painting and music, are those best suited for expressing joy."（最早的艺术形式，如绘画和音乐，是最适于表达快乐的——2006年考研阅读4）
 > - "We need to find a suitable candidate for the position."（我们需要为这个职位找到合适的人选——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

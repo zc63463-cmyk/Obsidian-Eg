@@ -3,14 +3,12 @@ title: "entire"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 未被触碰的、完整的（没有被拿走任何部分的）
-extension_dim: 结构路径
+extension_dim: [结构路径]
 phonetic: "/ɪnˈtaɪə/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**未被触碰的、完整的**"为统筹中心，沿结构路径向外扩展：
 >
 > 1. **未被触碰的**（物理层面）
@@ -66,7 +64,7 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > entire 源自拉丁语 *integer*（完整的），*in-*（不）+ *tangere*（触碰）= 没有被触碰过的 = 完整的。数学中的 integer 就是"整数"——一个完整的数。核心画面：一块从未被切割过的完整蛋糕——这就是 entire cake。The entire village was destroyed by the earthquake（整个村庄被地震摧毁了）。entire 强调"没有任何遗漏"——不是"大部分"，而是"每一个部分都包括在内"。注意：entire 通常放在名词前面作定语（the entire class），而 whole 既可以作定语也可以作表语。
@@ -90,7 +88,7 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[partial]]：部分的（entire 的精确反义：整个的↔部分的）
 > - [[incomplete]]：不完整的（entire 的反义：完整的↔不完整的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the entire class/family/country**：全班/全家/全国
 > - **the entire process**：整个过程
 > - **entire agreement**：完全同意
@@ -132,19 +130,15 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The entire project was called into question when new evidence emerged contradicting the original findings."（当出现与最初发现相矛盾的新证据时，整个项目受到了质疑——考研阅读学术话题）
 > - "Climate change poses a threat to the entire ecosystem, affecting every species from the smallest insects to the largest mammals."（气候变化对整个生态系统构成威胁，影响着从最小的昆虫到最大的哺乳动物的每一个物种——考研阅读环保话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

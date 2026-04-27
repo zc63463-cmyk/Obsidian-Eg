@@ -3,14 +3,12 @@ title: "attempt"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 伸手去够（向某物伸出手）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/əˈtempt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**伸手去够（向某物伸出手）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **伸手去够**（物理层面）
@@ -65,7 +63,7 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > at（朝向）+ tempt（试探）→ 朝某个目标伸出手去试探。想象你站在悬崖边，朝对面那颗苹果伸手去够——你 attempt 了，但能不能够到是另一回事。attempt 就是"伸出手去够"的动作，不管结果如何。
@@ -88,7 +86,7 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abandon]]：放弃（attempt 的反义：尝试↔放弃）
 > - [[succeed]]：成功（attempt 的结果反义：尝试↔成功）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **attempt to do sth**：尝试做某事
 > - **make an attempt at**：企图，试图
 > - **attempted murder**：谋杀未遂
@@ -131,23 +129,15 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "What they found, in attempting to model thought, is that the human brain's roughly one hundred billion nerve cells are much more talented—and human perception far more complicated—than previously imagined."（他们在试图模拟思维时发现，人类大脑大约一千亿个神经细胞远比之前想象的更有天赋——人类的感知也远比之前想象的更复杂——2002年考研英语阅读Text2）
 > - "Despite attempts by the Church to strong-arm this new generation of logicians and rationalists, more explanations for how the universe functioned were being made and at a rate that the people could no longer ignore."（尽管教会试图威逼这一代新的逻辑学家和理性主义者，但关于宇宙如何运作的解释正以人们再也无法忽视的速度不断涌现——考研英语长难句分析）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

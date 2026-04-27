@@ -3,14 +3,12 @@ title: "petty"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 小的、微不足道的（在小事上斤斤计较的）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpeti/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**小的、微不足道的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **小的、微不足道的**（事物层面）
@@ -68,7 +66,7 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > petty 来自法语 petit（小的）。想象一个人每天纠结于鸡毛蒜皮的小事——petty rules（琐碎的规章）、petty arguments（无聊的争吵），他就是 petty（心胸狭窄的）。
@@ -90,7 +88,7 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[significant]]：重要的，有意义的（petty 的反义：琐碎 ↔ 重要）
 > - [[generous]]：慷慨的，大度的（petty 小气的反义：小气 ↔ 大度）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **petty crime**：轻微犯罪
 > - **petty rules**：琐碎的规章
 > - **petty jealousy**：小小的嫉妒
@@ -129,19 +127,15 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Prisoners complain that they are subjected to too many petty rules and restrictions."（囚犯们抱怨他们受到太多琐碎的规章和限制。——剑桥词典例句）
 > - "The neighbourhood is safe, but there's a fair amount of petty crime such as package theft and car break-ins."（这个社区是安全的，但有不少轻微犯罪，比如包裹盗窃和砸车。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

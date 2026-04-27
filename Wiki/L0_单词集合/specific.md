@@ -3,14 +3,12 @@ title: "specific"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 属于特定种类的
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/spəˈsɪfɪk/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于…�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**属于特定种类的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **属于特定种类的**（信息层面）
@@ -69,7 +67,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于…�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于…�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > specific 来自拉丁语 species（种类）+ -fic（制造/做）= 做出特定种类的 = **具体的/明确的**。和 general（一般的）相对：general 是泛泛的，specific 是**具体的**。老师布置作业说"Write a specific plan"——不是泛泛而谈，而是**具体的**计划。specific 的核心是"不模糊"。spec- 家族：species（物种）、special（特别的）、specify（明确指定）、speculate（推测）。
@@ -92,7 +90,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于…�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于…�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[general]]：一般的，笼统的（specific "具体的/明确的"的精确反义）
 > - [[vague]]：模糊的（specific "明确的"的反义）
 > - [[broad]]：广泛的（specific "特定的"的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于…�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **specific to**：……特有的/……特有的
 > - **specific details/instructions**：具体细节/明确指示
 > - **specific reason/purpose**：具体原因/明确目的
@@ -135,22 +133,16 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于…�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Could you be more specific about what you mean?"（你能更具体地说明你的意思吗？）——日常对话/学术讨论
 > - "The disease is specific to tropical regions."（这种疾病是热带地区特有的）——医学/地理类阅读
 > - "The report failed to provide specific details about the company's financial situation."（报告未能提供关于公司财务状况的具体细节）——商业/金融类话题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

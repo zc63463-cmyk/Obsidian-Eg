@@ -3,14 +3,12 @@ title: "attribute"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 给予过去（将某物给予某人/归到某人头上）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈtrɪbjuːt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**给予过去**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **给予过去**（社会/认知层面）
@@ -65,7 +63,7 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > at（向）+ tribute（给予）→ 朝某人给予。想象颁奖典礼上，主持人把奖杯"给予"获奖者——这就是 attribute success to sb。你 attribute 一件事 to 另一件事，就是把"功劳"或"原因"给予后者。attribute 作名词时，就是"被给予的特征"→ 属性。
@@ -88,7 +86,7 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[discredit]]：使不信，贬低（attribute/credit 的反义：归功↔贬低）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,30 +119,22 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **attribute sth to sb/sth**：把……归因于……
 > - **be attributed to**：被归因于……
 > - **personal attributes**：个人特质
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Few Americans attribute this solely to such obvious causes as a devalued dollar or the turning of the business cycle."（几乎没有美国人将此仅仅归因于美元贬值或商业周期转折这样明显的原因。——1998年考研英语阅读，attribute...to... 经典真题）
 > - "The fall in the number of deaths from heart disease is generally attributed to improvements in diet."（心脏病死亡人数的下降通常归因于饮食的改善。——考研英语高频例句）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

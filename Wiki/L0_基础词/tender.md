@@ -3,14 +3,12 @@ title: "tender"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 伸展出去（伸出手去触碰）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈtendə(r)/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -47,7 +45,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**伸展出去（伸出手去触碰）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **伸展出去**（动作层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tend（伸展）→ tender。想象一位母亲温柔地"伸出"手抚摸婴儿的脸——这个动作就是 tender（温柔的）。想象一家公司向政府"伸出"一份报价文件——这个动作就是 tender（投标）。tender 就是"伸出去"——伸出手是温柔，伸出报价是投标。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,13 +107,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[harsh]]：严厉的，粗糙的（tender 的精确反义：温柔↔严厉）
 > - [[tough]]：坚硬的，坚韧的（tender 的反义：嫩↔硬）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -133,7 +131,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tender a bid**：投标
 > - **tender for**：竞标……
 > - **tender care**：温柔的照料
@@ -142,19 +140,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The head teacher tendered her resignation this morning after the school failed its inspection."（校长在学校检查不合格后，于今早提交了辞呈。——中国日报例句）
 > - "We are hoping to lease the four-story building to a single tenant when it's completed this fall."（我们希望在今年秋天大楼完工后将其租给单一租户。——剑桥词典例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

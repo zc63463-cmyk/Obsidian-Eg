@@ -3,14 +3,12 @@ title: "capable"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 能容纳的→有能力的
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈkeɪpəbl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**能容纳的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **能容纳的**（物理层面：容器能装东西）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > cap（容纳）+ -able（能……的）→ 能容纳的 → 有能力的。想象一块大容量硬盘（cap = 容纳），它能装下海量数据 → 一个有能力的（capable）人就像大容量硬盘，能"装下"各种任务和挑战。She is capable of handling any project.（她有能力处理任何项目。）
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,14 +98,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[incapable]]：无能力的（直接加前缀 in- 构成反义， incapable of doing sth.）
 > - [[unable]]：不能的（侧重实际做不到， unable to do sth.）
 > - [[incompetent]]：不胜任的（侧重未达专业标准）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,28 +117,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **capable of (doing) sth.**：有能力做某事
 > - **a capable leader**：一位有能力的领导
 > - **capable of anything**：什么事都干得出来（贬义用法）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She is highly capable of managing the team on her own."（她非常有能力独自管理团队。）——职场/管理类阅读语境
 > - "Only a capable engineer can handle this level of complexity."（只有有能力的工程师才能处理这种复杂程度。）——科技/工程类阅读语境
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

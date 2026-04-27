@@ -3,17 +3,14 @@ title: "grand"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 人本世界
 prototype: 伟大的、宏大的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɡrænd/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: grand
 network_activation: [词根, 同义辨析, 反义词群]
 last_review: 2026-04-21
@@ -43,7 +40,7 @@ grand（源自拉丁语 grandis"大的、伟大的"，与 [[magn]] 同源）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**伟大的、宏大的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **伟大的、宏大的**（物理层面——规模大、令人印象深刻）
@@ -67,7 +64,7 @@ grand（源自拉丁语 grandis"大的、伟大的"，与 [[magn]] 同源）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +77,7 @@ grand（源自拉丁语 grandis"大的、伟大的"，与 [[magn]] 同源）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 grandis"大的、伟大的"，与 magnus 同源。grand 保留了"大而令人敬畏"的核心感觉——宏伟的宫殿、盛大的典礼、重大的决策。
@@ -92,7 +89,7 @@ grand（源自拉丁语 grandis"大的、伟大的"，与 [[magn]] 同源）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +102,13 @@ grand（源自拉丁语 grandis"大的、伟大的"，与 [[magn]] 同源）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[humble]]：谦逊的；简陋的（grand 的态度反义）
 > - [[modest]]：适度的；谦虚的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +121,7 @@ grand（源自拉丁语 grandis"大的、伟大的"，与 [[magn]] 同源）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **grand plan/design**：宏伟的计划/设计
   - The government unveiled a grand plan to modernize the transportation system.（政府公布了一项使交通系统现代化的宏伟计划。）
 - **grand occasion/ceremony**：盛大的场合/典礼
@@ -134,20 +131,14 @@ grand（源自拉丁语 grandis"大的、伟大的"，与 [[magn]] 同源）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The grand architecture of the ancient temple still attracts millions of tourists every year.（这座古庙宏伟的建筑每年仍吸引数百万游客。）
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

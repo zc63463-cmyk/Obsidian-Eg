@@ -3,14 +3,12 @@ title: "foster"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 喂养，养育（给予食物使之成长）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈfɔːstər/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**喂养，养育**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **喂养，养育**（物理养育层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > foster 源自古英语"喂养、供给食物"。一个 foster parent（养父母）就是喂养你长大的人。后来人们发现，友谊、合作、创新也需要"喂养"才能成长——所以 foster innovation（促进创新）、foster hope（抱有希望）。一切需要培育的东西，都可以 foster。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hinder]]：阻碍，妨碍（foster 的反义：促进↔阻碍）
 > - [[neglect]]：忽视，疏忽（foster 的反义：养育↔忽视）
 > - [[impede]]：阻碍（foster growth 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **foster growth/development**：促进增长/发展
 > - **foster innovation**：促进创新
 > - **foster cooperation**：促进合作
@@ -132,20 +130,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government should foster innovation in science and technology."（政府应当促进科技创新——考研高频搭配）
 > - "Reading aloud to children helps foster a love of books."（大声朗读给孩子听有助于培养对书籍的热爱）
 > - "She was placed in foster care at the age of three."（她三岁时被送入寄养家庭）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

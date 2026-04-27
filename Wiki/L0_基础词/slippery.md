@@ -3,14 +3,12 @@ title: "slippery"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 滑的（表面摩擦力小容易滑倒）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈslɪpəri/"
 pos: a.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**滑的（表面摩擦力小）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **滑的**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > slippery 来自 slip（滑）。一条滑的鱼你抓不住——a slippery fish。一个狡猾的政客你抓不住他的把柄——a slippery politician。一个棘手的概念你把握不住——a slippery concept。记住 slippery = 抓不住 = 滑的/狡猾的/棘手的。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rough]]：粗糙的（slippery 的反义：滑的↔粗糙的）
 > - [[reliable]]：可靠的（slippery 的反义：不可靠的↔可靠的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,7 +128,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **slippery road/surface**：滑的路/表面
 > - **slippery slope**：滑坡效应；危险的开端（一旦开始就难以停止的恶性循环）
 > - **a slippery customer**：狡猾的家伙
@@ -138,20 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "'Energy independence' and its rhetorical companion 'energy security' are, however, slippery concepts that are rarely though through."（然而，"能源独立"及其修辞上的伙伴"能源安全"是很少被深入思考的棘手概念。——考研真题阅读）
 > - "This slippery slope of eroding ethics and bigger risks leads only to disaster."（这种道德侵蚀和风险递增的滑坡效应只会导致灾难。——考研真题阅读）
 > - "The company spent the last five years developing solar panels that are only about a quarter of an inch thick and are strong enough to stand up to heavy highway traffic without breaking or making the roads more slippery."（该公司花了五年时间开发太阳能电池板，厚度仅约四分之一英寸，足以承受繁忙公路交通而不破裂或使道路更滑。——考研真题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

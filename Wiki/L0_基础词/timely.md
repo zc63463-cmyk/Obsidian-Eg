@@ -3,14 +3,12 @@ title: "timely"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 在恰当的时间发生的，及时的
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈtaɪmli/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在恰当的时间发生的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **恰当的时间**（抽象层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > timely 的核心画面是"医生在病人最危急的时候赶到——及时的救治"。timely = time（时间）+ -ly（具有……性质的）= 在恰当时间发生的 = 及时的。a timely intervention（及时的干预）= 在最需要的时候出现。a timely reminder（适时的提醒）= 在你快要忘记的时候提醒你。注意 timely 是形容词（-ly 后缀的形容词如 friendly、lovely），不是副词。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[untimely]]：不适时的，过早的（timely 的反义派生）
 > - [[late]]：迟的（timely 的反义：及时↔迟）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **timely intervention**：及时干预
 > - **timely help**：及时帮助
 > - **timely reminder**：适时提醒
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The timely intervention of the central bank prevented the financial crisis from escalating into a full-scale economic collapse that would have affected millions of people."（中央银行的及时干预防止了金融危机升级为一场将影响数百万人的全面经济崩溃——考研阅读经济话题相关表达）
 > - "A timely reminder that climate change is not a distant threat but an immediate reality came when unprecedented flooding devastated several coastal cities last year."（去年史无前例的洪水摧毁了几个沿海城市，这适时地提醒人们，气候变化不是遥远的威胁，而是迫在眉睫的现实——考研阅读环保话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "barbecue"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 烧烤（在火上烤肉）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ˈbɑːbɪkjuː/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: barbacoa
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -44,7 +41,7 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**烧烤（在火上烤肉）**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **烧烤**（动作层面）
@@ -67,7 +64,7 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > barbecue 来自加勒比海原住民的泰诺语 *barbacoa*，原义是"木架上的火坑"。原住民在木架上架起火堆烤整只动物，这种烹饪方式被西班牙殖民者带回欧洲，演变为今天的 barbecue。所以 barbecue 不只是"烤肉"，更是一种文化。
@@ -90,7 +87,7 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +99,12 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[boil]]：煮（barbecue 的反义：烤↔煮，干热↔水煮）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +122,7 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have a barbecue**：举办烧烤聚会
 > - **barbecue sauce**：烧烤酱
 > - **barbecue chicken/ribs**：烤鸡/烤排骨
@@ -133,19 +130,15 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "If the weather is fine, we can have a barbecue in the garden."（如果天气好，我们可以在花园里烧烤——考研完形/翻译相关语料）
 > - "At this time, everyone smelt the burning smell from the barbecue."（这时，大家都闻到了烤架上发出的焦味——考研阅读相关语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "underlie"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 位于……之下
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˌʌndəˈlaɪ/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**位于……之下**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **位于……之下**（物理空间层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > underlie 是 under（在下面）+ lie（躺/位于）——"躺在下面"。想象地基**躺在**房屋**下面**，支撑着整栋建筑；再想象原则**躺在**理论**下面**，构成理论的基础。考研中 underlie 常以现在分词 underlying 的形式出现，但记住动词原形 underlie 的意思："构成……的基础"。注意不规则变形：underlie → underlay → underlain。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[result from]]：由……产生（基础↔结果，反向关系）
 > - [[derive from]]：源于（支撑↔派生，反向关系）
 > - [[superficial]]：表面的（深层基础↔表面现象）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **principles that underlie**：构成……基础的原则
 > - **factors that underlie**：……背后的因素
 > - **assumptions underlying**：……背后的假设
@@ -131,22 +129,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The principles that underlie our foreign policy are complex."（构成我们外交政策基础的原则很复杂。）——考研阅读/翻译
 > - "Several factors underlie the current economic crisis."（几个因素是当前经济危机的根本原因。）——考研阅读
 > - "We need to understand the assumptions underlying this theory."（我们需要理解这一理论背后的假设。）——学术类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

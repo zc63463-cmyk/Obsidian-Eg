@@ -3,14 +3,12 @@ title: "foul"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 腐烂发臭的（令人感官不适的）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/faʊl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**腐烂发臭的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **腐烂发臭的**（感官层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > foul 源自古英语"腐烂发臭"。想象一块肉放坏了，散发恶臭——这就是 foul 的原始含义。后来一切"不好"的都叫 foul：天气不好叫 foul weather，语言不好叫 foul language，行为不好叫 foul play。foul 就是那个"腐烂"的核心——从肉体到灵魂。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,7 +107,7 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fair]]：公平的，合理的（foul play 的反义：犯规↔公平）
 > - [[clean]]：干净的，清洁的（foul"肮脏的"的反义）
 > - [[fragrant]]：芳香的（foul smell 的反义：恶臭↔芳香）
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +126,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **foul weather**：恶劣天气
 > - **foul language**：下流语言，脏话
 > - **foul play**：犯规；谋杀嫌疑（"不正当行为"）
@@ -138,20 +136,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The police suspected foul play in his sudden death."（警方怀疑他的突然死亡有谋杀嫌疑——foul play 高频用法）
 > - "The game was marred by a series of fouls."（比赛被一系列犯规行为所破坏）
 > - "Foul weather forced the cancellation of the outdoor event."（恶劣天气迫使户外活动取消）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

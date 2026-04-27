@@ -3,14 +3,12 @@ title: "evoke"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 唤出，召唤出来（从内心深处唤出某种情感或记忆）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪˈvəʊk/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**唤出，召唤出来**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **唤出，召唤出来**（言语行为层面）
@@ -66,7 +64,7 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > e（出）+ voc（呼唤，声音）→ evoke（唤出）。想象你站在记忆的大门前，大喊一声"出来！"——沉睡的童年回忆、久违的情感全都涌了出来。一首歌 evoke memories，一段话 evoke sympathy，一幅画 evoke emotions。evoke 就是"从内心深处呼唤出来"。
@@ -88,7 +86,7 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[suppress]]：压制，压抑（evoke 的反义：唤起↔压制）
 > - [[erase]]：抹去，消除（evoke 的反义：唤出记忆↔抹去记忆）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **evoke memories of**：唤起对……的回忆
 > - **evoke a response/reaction**：引起回应/反应
 > - **evoke sympathy**：唤起同情
@@ -129,19 +127,15 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The old photograph evoked memories of her childhood."（那张老照片唤起了她童年的回忆。）
 > - "The president's speech evoked a strong response from the public."（总统的演讲引起了公众的强烈反应。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

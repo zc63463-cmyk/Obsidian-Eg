@@ -3,14 +3,12 @@ title: "sculpture"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 雕刻（用工具切割塑造形状）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈskʌlptʃə(r)/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -46,7 +44,7 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**雕刻（用工具切割塑造形状）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **雕刻**（物理动作层面）
@@ -67,7 +65,7 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sculpture 和 [[scrape]]（刮）、[[scratch]]（抓、刮）、[[screen]]（筛）同源，都带有"刮、擦"的动作感。雕塑家就是用工具反复刮刻（sculp）大理石，最终刮出一尊 sculpture。你刮得越精细，sculpture 就越精美。
@@ -90,7 +88,7 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[demolish]]：拆除，毁坏（sculpture 的反义：创造↔毁坏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -130,26 +128,22 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a marble sculpture**：大理石雕塑
 > - **a sculpture of...**：……的雕塑
 > - **study sculpture**：学习雕塑
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Those were the halcyon days of Athens (fifth century BC) when she produced her finest poetry and drama, architecture and sculpture."（公元5世纪为雅典的太平盛世，雅典最优秀的诗歌、戏剧、建筑和雕刻均产生于这一时期——柯林斯语料库/考研高频表达）
 > - "In the 1960s, the Italian artist Piero Gilardi began to create hundreds of bright, colorful foam pieces, including small beds of roses and other items as well as a few dozen 'nature carpets'."（20世纪60年代，意大利艺术家皮耶罗·吉拉尔迪开始创作数百件明亮多彩的泡沫作品——2022年考研英语一Text 1）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

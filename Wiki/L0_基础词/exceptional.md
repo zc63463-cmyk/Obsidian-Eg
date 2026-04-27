@@ -3,14 +3,12 @@ title: "exceptional"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 例外的，杰出的（超出一般水平的）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ɪkˈsepʃənl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被取出的，例外的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **被取出的，例外的**（逻辑层面）
@@ -64,7 +62,7 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[exception]]（例外）+ -al（的）→ exceptional（例外的→杰出的）。想象一个颁奖典礼，主持人说："这位获奖者从所有参赛者中被'取出来'——他是 exceptional 的！"exceptional talent 就是"超出一般的天才"，exceptional circumstances 就是"超出一般的情况"。
@@ -86,7 +84,7 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ordinary]]：普通的，平凡的（exceptional 的反义：杰出的↔普通的）
 > - [[unexceptional]]：平常的，不突出的（exceptional 的反义词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,22 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exceptional talent/ability**：杰出的天赋/能力
 > - **exceptional circumstances**：例外情况
 > - **exceptional performance**：杰出的表现
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She showed exceptional ability in mathematics from an early age."（她从小就展现出杰出的数学能力。）
 > - "These are exceptional circumstances that require special measures."（这些是需要采取特殊措施的例外情况。）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

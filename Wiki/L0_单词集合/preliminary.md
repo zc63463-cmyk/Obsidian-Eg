@@ -3,14 +3,12 @@ title: "preliminary"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 在边界之前
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/prɪˈlɪmɪnəri/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ pre-(在前面) + [[termin]](边界/门槛) + -ary(形容词后缀) → 在正�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在边界/门槛之前**"为统筹中心，沿**时间路径**向外扩展：
 >
 > 1. **在边界/门槛之前**（时间层面：尚未到达正式阶段）
@@ -67,7 +65,7 @@ pre-(在前面) + [[termin]](边界/门槛) + -ary(形容词后缀) → 在正�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ pre-(在前面) + [[termin]](边界/门槛) + -ary(形容词后缀) → 在正�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre(在前面) + limit(界限) + ary → 在正式**界限之前**的阶段 → 初步的。就像考试前先做preliminary（预考），在最终大考的"界限"之前。
@@ -90,7 +88,7 @@ pre-(在前面) + [[termin]](边界/门槛) + -ary(形容词后缀) → 在正�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ pre-(在前面) + [[termin]](边界/门槛) + -ary(形容词后缀) → 在正�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[final]]：最终的，决定性的（与preliminary的初步相反）
 - [[conclusive]]：结论性的，确凿的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pre-(在前面) + [[termin]](边界/门槛) + -ary(形容词后缀) → 在正�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **preliminary results**：初步结果
 >   The preliminary results of the experiment are promising.
 > - **preliminary study**：初步研究
@@ -131,20 +129,14 @@ pre-(在前面) + [[termin]](边界/门槛) + -ary(形容词后缀) → 在正�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The preliminary results of the study suggest that the new drug is effective in treating the disease."（研究的初步结果表明，这种新药在治疗该疾病方面是有效的。）——考研高频表达
 > - "Before launching the product, the company conducted preliminary market research to assess consumer demand."（在推出产品之前，公司进行了初步的市场调研以评估消费者需求。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

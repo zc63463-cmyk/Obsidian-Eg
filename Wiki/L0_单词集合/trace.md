@@ -3,14 +3,12 @@ title: "trace"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 沿着足迹追踪
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/treɪs/"
 pos: vt.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**沿着足迹追踪**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **沿着足迹追踪**（物理空间层面）
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trace 和 draw、tract 是同族词——都来自"拉、拉出"（trahere）。想象侦探在泥地上**拉出**一条追踪线，沿着罪犯的**痕迹**一步步**追溯**到源头；再想象画家用笔**拉出**线条，**勾勒**出人像的轮廓。从追踪到描绘，都是"沿着痕迹拉线"。
@@ -96,7 +94,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -109,14 +107,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lose]]：丢失（失去追踪的线索）
 > - [[miss]]：错过（未能追踪到目标）
 > - [[ignore]]：忽视（对痕迹视而不见）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -129,7 +127,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **trace back to**：追溯到……
 > - **disappear/vanish without a trace**：消失得无影无踪
 > - **trace element**：微量元素
@@ -139,22 +137,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The origins of the tradition can be traced back to ancient Greece."（这一传统的起源可以追溯到古希腊。）——考研阅读常见句式
 > - "The ship disappeared without a trace."（那艘船消失得无影无踪。）——考研翻译/阅读
 > - "Scientists detected trace amounts of the chemical in the water."（科学家在水中检测到微量的化学物质。）——科普类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

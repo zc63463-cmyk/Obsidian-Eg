@@ -3,14 +3,12 @@ title: "friendship"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 朋友之间的关系（朋友之间的纽带）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈfrendʃɪp/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**朋友之间的关系（朋友之间的纽带）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **朋友之间的关系**（社会关系层面）
@@ -64,7 +62,7 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > friend（朋友）+ -ship（关系/状态）→ 朋友之间的关系 → 友谊。真正的 friendship 不是用金钱衡量的，而是两个 friend 之间的 -ship（纽带）。-ship 就像一艘船（ship），承载着两个人之间的友谊之船在时间的河流中航行。friendship 就是这艘承载朋友关系的船。
@@ -86,7 +84,7 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hostility]]：敌意，敌对（friendship 的反义：友谊↔敌意）
 > - [[enmity]]：仇恨，敌对（friendship 的反义：友情↔仇恨）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **true friendship**：真正的友谊
 > - **build/cultivate a friendship**：建立/培养友谊
 > - **friendship between**：……之间的友谊
@@ -127,19 +125,15 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "True friendship is a plant of slow growth."（真正的友谊是缓慢生长的植物——考研写作常用引用）
 > - "The friendship between the two nations has lasted for centuries."（两国之间的友谊已持续了数个世纪）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

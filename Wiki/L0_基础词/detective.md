@@ -3,14 +3,12 @@ title: "detective"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会专业
 prototype: 揭开覆盖物、发现隐藏真相的人
-extension_dim: 角色路径
+extension_dim: [角色路径]
 phonetic: "/dɪˈtektɪv/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**揭开覆盖物、发现隐藏真相的人**"为统筹中心，沿角色路径向外扩展：
 >
 > 1. **去掉覆盖的人**（角色层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > detective = [[de]]（去掉）+ tect（覆盖）+ -ive（人）= 去掉覆盖的人 = 侦探。拉丁语 *tegere* = 覆盖（德语 Dach 屋顶同源）。detective 的核心画面是"福尔摩斯揭开一块遮布，露出被隐藏的真相"。同源词：[[detect]]（发现、探测）、[[detector]]（探测器）、protect（pro-向前 + tect 覆盖 = 在前面遮盖 = 保护）。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[criminal]]：罪犯（detective 的反义：侦探↔罪犯）
 > - [[suspect]]：嫌疑人（detective 的反义：调查者↔被调查者）
 > - [[culprit]]：肇事者（detective 的反义：追查者↔被追查者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a police detective**：警探
 > - **a private detective**：私人侦探
 > - **a detective story / novel**：侦探小说
@@ -133,19 +131,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The detective carefully examined every piece of evidence at the crime scene, looking for clues that others might have overlooked."（侦探仔细检查了犯罪现场的每一件证据，寻找别人可能忽略的线索——考研阅读叙事话题相关表达）
 > - "Detective fiction has remained one of the most popular literary genres since the time of Sherlock Holmes, appealing to readers' desire for logical reasoning and suspense."（自从福尔摩斯时代以来，侦探小说一直是最受欢迎的文学体裁之一，吸引着读者对逻辑推理和悬念的追求——考研翻译文学话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

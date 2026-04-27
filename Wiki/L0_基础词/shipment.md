@@ -3,17 +3,14 @@ title: "shipment"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 用船运送的货物（通过船只运输的商品）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈʃɪpmənt/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: shipment
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -43,7 +40,7 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用船运送的货物**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **用船运送的货物**（物理层面）
@@ -64,7 +61,7 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > shipment = ship（船运）+ ment（名词后缀）。40年前，进出口涉及很多操作步骤，可能导致部分货物在运输中受损或被盗。现在 The goods are ready for shipment（货物备妥待运）。公司今天收到了一大批新电脑——The company received a large shipment of new computers。
@@ -86,7 +83,7 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +96,13 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[receipt]]：接收（shipment 装运/发货 ↔ receipt 接收/收货）
 > - [[arrival]]：到达（shipment 发运 ↔ arrival 到达）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +123,7 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ready for shipment**：备妥待运
 > - **a large shipment of**：一大批……
 > - **delay the shipment**：延迟装运
@@ -135,19 +132,15 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Forty years ago, the process of exporting or importing involved a great many stages of handling, which risked portions of the shipment being damaged or stolen along the way."（40年前，出口或进口的过程涉及到许多操作步骤，这可能会导致一部分货物在运输过程中受损或被盗——考研经济类阅读高频表达）
 > - "The goods are ready for shipment."（货物备妥待运——考研商务类阅读高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

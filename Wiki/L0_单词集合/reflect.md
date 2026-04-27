@@ -3,14 +3,12 @@ title: "reflect"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 弯回来→反射、反映
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/rɪˈflekt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ re-(回、再) + flect/flex(弯、折)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**弯回来→反射**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **反射、映现**（物理层面——光线/影像弯回来）
@@ -66,7 +64,7 @@ re-(回、再) + flect/flex(弯、折)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-(回、再) + flect/flex(弯、折)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 reflectere "弯回去"，由 re-(回) + flectere(弯) 构成。站在湖边，湖面把你的倒影"弯回来"给你看——这就是 reflect。
@@ -90,7 +88,7 @@ re-(回、再) + flect/flex(弯、折)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ re-(回、再) + flect/flex(弯、折)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[absorb]]：吸收（反射 vs 吸收，物理层面对立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,20 @@ re-(回、再) + flect/flex(弯、折)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reflect on**：反思（He reflected on his past mistakes.）
 > - **reflect well/badly on**：给……带来好/坏的名声（His behavior reflects badly on the company.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Reporters tend to be part of a broadly defined social and cultural elite, so their work tends to reflect the conventional values of this elite."（记者往往属于一个广泛定义的社会和文化精英群体，因此他们的工作往往反映这一精英群体的传统价值观。）——考研高频表达
 > - "The decline in sales reflects the changing consumer preferences in the post-pandemic era."（销售额的下降反映了后疫情时代消费者偏好的变化。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

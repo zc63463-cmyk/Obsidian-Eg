@@ -3,14 +3,12 @@ title: "venture"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 冒险前行
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈventʃə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**冒险前行**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **冒险前行**（行动层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > venture 是 adventure（冒险）的"瘦身版"——丢掉了词首的 a-，但保留了"冒险"的灵魂。adventure 来自拉丁语"向未来走过去"（ad + venturus），venture 则更纯粹——就是"走出去"。想象一个创业者**冒险**开公司（business venture），再想象你**冒昧**说了一句"我猜……"（venture a guess），都是在不确定面前迈出了那一步。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[safety]]：安全（venture 要离开的状态）
 > - [[security]]：保障（venture 要放弃的东西）
 > - [[caution]]：谨慎（venture 的态度反义：冒险↔谨慎）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **joint venture**：合资企业
 > - **venture into**：冒险进入（某领域/某地）
 > - **venture to do sth.**：冒险做某事；冒昧做某事
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "joint venture between Chinese and foreign companies"（中外合资企业）——考研阅读/翻译中商业经济话题
 > - "venture into the unknown"（冒险进入未知领域）——探索/科技类话题
 > - "I venture to suggest that..."（我冒昧建议……）——学术/正式写作中的委婉表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

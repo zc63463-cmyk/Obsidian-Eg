@@ -3,14 +3,12 @@ title: "rehearse"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 再说一遍（re-再 + hear听→反复练习→排练）
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/rɪˈhɜːs/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**反复练习**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **反复练习**（表演层面）
@@ -67,7 +65,7 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（再）+ hear（听）→ 反复听 → 排练。演员在舞台上 rehearse（排练），就是反复听导演说戏、反复练习。When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst（面对新情况，有些人倾向于花太多时间预想最坏的结果来反复预演自己的失败）。
@@ -89,7 +87,7 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - rehearse 作为"反复练习"无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rehearse for**：为……排练
 > - **rehearse a play/speech**：排练戏剧/演讲
 > - **rehearse one's arguments**：详述论点
@@ -132,19 +130,15 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst."（面对新情况时，有些人倾向于花太多时间预想最坏的结果来反复预演自己的失败——考研英语阅读）
 > - "We were given only two weeks to rehearse."（只给了我们两个星期排练——考研英语写作高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

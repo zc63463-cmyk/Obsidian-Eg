@@ -3,14 +3,12 @@ title: "transaction"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 资本经济
 prototype: 交易完成、事情办妥
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/trænˈzækʃən/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**穿过边界完成交接**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **穿过边界完成交接**（商业层面）
@@ -68,7 +66,7 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古代集市上，买方和卖方各执一端，把货物从这一头"拉过"（trans + tract）到那一头，一手交钱一手交货，一笔 transaction 就完成了。后来不只是货物，把一件待办事项从"未完成"拉到"已完成"，也叫 transaction（办理事务）。记住：transaction = trans（穿过）+ tract（拉）+ ion = 拉过边界完成交接 = 交易。
@@ -92,7 +90,7 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,12 +103,12 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cancellation]]：取消（交易的反义：完成交易↔取消交易）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **financial transaction**：金融交易
 > - **business transaction**：商业交易
 > - **transaction of business**：办理事务
@@ -132,20 +130,14 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Conrail's net railway operating income in 1996 was just $427 million, less than half of the carrying costs of the transaction."（联合铁路公司1996年铁路运营净收入仅为4.27亿美元，不到该交易运输成本的一半。）——2003年阅读3
 > - "The transaction was completed after months of negotiation."（经过数月的谈判，交易终于完成了。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

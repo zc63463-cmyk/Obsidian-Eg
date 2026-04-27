@@ -3,17 +3,14 @@ title: "norm"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会习俗
 prototype: 大家共同遵守的标准
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/nɔːm/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: norm
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-22
@@ -43,7 +40,7 @@ norm-（来自拉丁语 *norma*，木匠的角尺，标准，来自印欧语系 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**大家共同遵守的标准**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **大家共同遵守的标准**（数值层面）
@@ -65,7 +62,7 @@ norm-（来自拉丁语 *norma*，木匠的角尺，标准，来自印欧语系 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +75,7 @@ norm-（来自拉丁语 *norma*，木匠的角尺，标准，来自印欧语系 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > norm 来自拉丁语 *norma*，最初就是木匠使用的"角尺"——一把L形的工具，木匠用它来检查木材是否笔直。后来这个词从木匠的工具变成了衡量一切事物的"标准"。想象一个社会的角尺：它衡量每个人的行为是否"笔直"——符合角尺的行为就是"正常的"，偏离角尺的行为就是"不正常的"。social norms（社会规范）就是整个社会共同使用的"角尺"。norm 的本质就是"大家都照着做的标准"。
@@ -90,7 +87,7 @@ norm-（来自拉丁语 *norma*，木匠的角尺，标准，来自印欧语系 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +99,13 @@ norm-（来自拉丁语 *norma*，木匠的角尺，标准，来自印欧语系 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abnormality]]：异常，反常（标准↔异常）
 > - [[deviation]]：偏差，偏离（规范↔偏离）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,28 +119,22 @@ norm-（来自拉丁语 *norma*，木匠的角尺，标准，来自印欧语系 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **social norms**：社会规范（Social norms vary across different cultures.）
 > - **cultural norms**：文化规范（The film challenges traditional cultural norms.）
 > - **above the norm**：高于标准（His test scores are well above the norm.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Social norms vary across different cultures."（社会规范因文化不同而有所差异。）——考研高频表达
 > - "The film challenges traditional cultural norms about gender roles."（这部电影挑战了关于性别角色的传统文化规范。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "period"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 一段时间/周期
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈpɪəriəd/"
 pos: n.
-metaphor_type: 无隐喻
 word_root: od
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-21
@@ -46,7 +43,7 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**绕行一周的时间**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **绕行一周的时间**（时间层面：完成一个循环所需的时间）
@@ -71,7 +68,7 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +79,7 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 古希腊人站在运动场边，看运动员绕跑道跑完一整圈（peri- 周围 + od 道路），计时员记录：这就是一个 period（周期/一段时间）。
@@ -91,7 +88,7 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +101,13 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[instant]]：瞬间、片刻（长时间 vs 短时间）
 > - [[perpetual]]：永久的（有期限 vs 无期限）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +118,7 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a period of time**：一段时间
 >   The company experienced rapid growth over a short period of time.（公司在短时间内经历了快速增长。）
 > - **period of transition**：过渡时期 The country is going through a difficult period of transition.（该国正在经历一段艰难的过渡时期。）
@@ -130,21 +127,15 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "During the period of economic recession, unemployment rates soared."（在经济衰退期间，失业率飙升。）——考研高频表达
 > - "The research covers a period of twenty years."（这项研究涵盖了二十年的时间。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

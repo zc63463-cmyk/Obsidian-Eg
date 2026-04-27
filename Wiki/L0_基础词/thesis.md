@@ -3,14 +3,12 @@ title: "thesis"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 放置的东西（提出的论点/命题）
-extension_dim: 思想路径
+extension_dim: [思想路径]
 phonetic: "/ˈθiːsɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**放置的东西（提出的论点/命题）**"为统筹中心，沿思想路径向外扩展：
 >
 > 1. **放置的东西**（思想层面）
@@ -64,7 +62,7 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > the（放置）+ sis（名词）→ 放置的东西。你在学术讨论中"放置"一个观点——his thesis was that World War I could have been avoided（他的论点是第一次世界大战本可以避免）。为了论证这个论点，你花了几个月写了一篇长文——a doctoral thesis（博士论文）。thesis 就是"放置在桌面上的主张"。
@@ -86,7 +84,7 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[antithesis]]：对立面，对立命题（thesis 的反义：论点↔对立论点）
 > - [[refutation]]：反驳（thesis 的反义：论点↔反驳）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a doctoral/master's thesis**：博士/硕士论文
 > - **sb's thesis is that...**：某人的论点是……
 > - **central thesis**：中心论点
@@ -129,19 +127,15 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "His thesis was that World War I could have been avoided."（他的论点是第一次世界大战本可以避免。——剑桥词典例句）
 > - "She spent months researching and writing her thesis on the effects of climate change on coastal communities."（她花了几个月的时间研究和撰写关于气候变化对沿海社区影响的论文。——词汇宝例句）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "devote"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 通过誓言将自我奉献出去
-extension_dim: 态度路径
+extension_dim: [态度路径]
 phonetic: "/dɪˈvəʊt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**通过誓言将自我奉献出去**"为统筹中心，沿态度路径向外扩展：
 >
 > 1. **彻底发誓**（态度层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > devote = [[de]]-（彻底）+ vovere（发誓）= 彻底发誓 = 奉献。拉丁语 *vovere* = 发誓，同源词有 vow（誓言）、vote（投票——"发誓"选择某人）。devote 的核心画面是"科学家在实验室废寝忘食，把全部时间奉献给研究"。devote oneself to（献身于）、devote time to（把时间专用于）。注意 devote 必须搭配 to。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[neglect]]：忽视（devote 的反义：投入↔忽视）
 > - [[ignore]]：忽略（devote 的反义：专注↔忽略）
 > - [[waste]]：浪费（devote 的反义：专用于↔浪费）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **devote oneself to**：献身于，致力于
 > - **devote time/energy/money to**：把时间/精力/金钱用于
 > - **be devoted to**：致力于，忠诚于
@@ -132,19 +130,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "She devoted her entire career to improving the living conditions of people in rural areas, often working long hours without complaint."（她把整个职业生涯都致力于改善农村地区人民的生活条件，经常长时间工作而无怨言——考研阅读人物话题相关表达）
 > - "The government has devoted substantial resources to developing renewable energy sources in an effort to reduce its dependence on fossil fuels."（政府投入了大量资源开发可再生能源，以努力减少对化石燃料的依赖——考研翻译政策话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "division"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 分开的行为或结果
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/dɪˈvɪʒn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分开的行为或结果**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **分开的行为或结果**（物理/抽象层面）
@@ -75,7 +73,7 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 亚当-斯密在《国富论》中论述了 division of labor（劳动分工）——把生产过程 divid（分）成若干步骤，每步由专人负责，效率大增。大公司有 marketing division（市场部）、finance division（财务部），每个 division 就是一个"分开"的单元。数学课上，division（除法）就是最精确的"分开"。
@@ -97,7 +95,7 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -110,14 +108,14 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unity]]：团结，统一（分歧↔团结）
 > - [[union]]：联合，联盟（分割↔联合）
 > - [[multiplication]]：乘法（除法↔乘法）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **division of labor**：劳动分工
 > - **sales/marketing division**：销售/市场部门
 > - **cell division**：细胞分裂
@@ -140,22 +138,16 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The division of labor is a key concept in economics."（劳动分工是经济学的核心概念。）——考研高频表达
 > - "Deep divisions exist within the party over this issue."（党内在这个问题上存在深刻分歧。）——考研高频表达
 > - "She works in the research division of the company."（她在公司的研究部门工作。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

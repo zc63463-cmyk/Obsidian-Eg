@@ -3,14 +3,12 @@ title: "general"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 涉及整个类别或种类
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈdʒenərəl/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**涉及整个类别或种类**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **涉及整个类别**（分类层面）
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > general 来自拉丁语 *genus*（种类、类别）——把事物归为一类。涵盖整个类别的就是 **general**（一般的、普遍的）。从"涵盖全部"出发：适用于所有人就是"**普遍的**"，不深入细节就是"**笼统的**"，统领全军的就是"**将军**"。记住 general 的灵魂：**涵盖全部，不限于局部**。
@@ -97,7 +95,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -111,14 +109,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[specific]]：具体的，特定的（general 的精确反义：一般 ↔ 特定）
 > - [[particular]]：个别的，特殊的（普遍 ↔ 个别）
 > - [[special]]：特殊的，专门的（一般 ↔ 特殊）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -131,7 +129,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in general**：总的来说，大体上
 > - **the general public**：公众，大众
 > - **general knowledge**：常识，通用知识
@@ -142,22 +140,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "People in general are concerned about environmental issues."（总的来说，人们关心环境问题）——考研阅读常见搭配，社会类话题
 > - "the general trend of economic development"（经济发展的总体趋势）——经济类阅读
 > - "a general overview of the situation"（对局势的总体概述）——学术/分析类阅读
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

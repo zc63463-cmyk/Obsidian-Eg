@@ -3,14 +3,12 @@ title: "dash"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 猛然冲向前
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/dæʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**猛然冲向前**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **猛然冲向前**（动作层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dash 是拟声词，"嗖"的一声猛冲。你make a dash for the door（冲向门口），别人dash your hopes（让你的希望像被猛冲一样破灭）。a dash of pepper（一撮胡椒）——像猛冲一样快，只有一点点。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stroll]]：漫步（猛冲的反义：猛烈快速↔悠闲缓慢）
 > - [[linger]]：逗留（猛冲的反义：快速离开↔不愿离开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make a dash for**：冲向……
 > - **dash one's hopes**：使某人的希望破灭
 > - **a dash of**：少许，一丝
@@ -135,19 +133,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is nothing for a big, strong schoolboy to elbow an elderly woman aside in the dash for the last remaining seat on the tube or bus."（对于一个高大强壮的男学生来说，在冲向地铁或公交车上最后一个空座时，用胳膊肘把一位老妇人挤到一边是家常便饭——考研英语阅读）
 > - "Shop assistants won't bother to assist, taxi drivers growl at each other as they dash dangerously round corners."（店员不会费心帮忙，出租车司机在危险地冲过拐角时互相怒吼——考研英语阅读）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,17 +3,14 @@ title: "punish"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 惩罚（使人因过错而承受痛苦或损失）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈpʌnɪʃ/"
 pos: v.
-metaphor_type: 无隐喻
 word_root: pen-pun
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -45,7 +42,7 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**惩罚（使人因过错而承受痛苦或损失）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **惩罚**（社会层面）
@@ -66,7 +63,7 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pun（惩罚）+ ish（使成为）→ 使受到惩罚。punish 与 penalty（罚款）、penal（刑事的）同源——核心概念都是"让犯错的人付出代价"。法官 punish 罪犯，老师 punish 迟到的学生，炎热的天气 punish 户外工作者——都是"让承受痛苦"。punish oneself 就是自我惩罚——因为内疚而让自己受苦。
@@ -88,7 +85,7 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +98,13 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reward]]：奖励（punish 的精确反义：惩罚↔奖励）
 > - [[pardon]]：原谅，赦免（punish 的反义：惩罚↔赦免）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +117,7 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **punish someone for**：因……惩罚某人
 > - **punish severely/heavily**：严厉惩罚
 > - **punish by law**：依法惩处
@@ -128,19 +125,15 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Those who break the law should be punished severely."（违法者应受到严厉惩罚——考研写作高频表达）
 > - "The stock market punished companies that failed to meet expectations."（股市惩罚了未能达到预期的公司——考研阅读经济话题）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

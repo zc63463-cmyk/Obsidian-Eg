@@ -3,14 +3,12 @@ title: "worthwhile"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 值得花费时间去做
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˌwɜːθˈwaɪl/"
 pos: adj.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**值得花费时间去做**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **值得花费时间去做**（时间投入层面）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > worthwhile 拆开就是 worth（值得）+ while（一段时间）。想象你站在人生的十字路口，手里握着一段**时间**（while），你在犹豫该把它花在哪里。然后你对自己说：这件事**值得**（worth）我花这段时间——它就是 worthwhile。考研路上每一分钟的付出，都是 worthwhile 的投资。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,14 +103,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[worthless]]：无价值的（worthwhile 的反义：值得花时间↔不值得花时间）
 > - [[pointless]]：无意义的，毫无目的的（侧重行为缺乏意义）
 > - [[futile]]：徒劳的，无用的（侧重努力不会产生结果）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a worthwhile investment**：一项值得的投资
 > - **a worthwhile experience**：一次有意义的经历
 > - **a worthwhile cause**：一项有意义的事业/事业
@@ -136,7 +134,7 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Nursing is a very worthwhile career."（护理是一项非常有价值的职业。）——考研阅读中讨论职业价值
 > - "It is worthwhile to invest in education."（投资教育是值得的。）——教育类话题常见论点
 > - "The effort was worthwhile."（这些努力是值得的。）——描述付出得到回报
@@ -144,15 +142,9 @@ review_count: 0
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

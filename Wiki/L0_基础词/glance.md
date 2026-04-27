@@ -3,14 +3,12 @@ title: "glance"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 快速看一眼
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/ɡlɑːns/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**快速看一眼**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **快速看一眼**（视觉动作层面）
@@ -68,7 +66,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > glance 来自 gl-（光）词根。想象你走进考场，快速 glance at the clock（瞥一眼时钟）——目光像光一样闪过。at a glance 就是"一眼就看出"——He could tell at a glance that something was wrong（他一眼就看出有问题）。at first glance 是"乍一看"——At first glance, the problem seemed simple（乍一看问题很简单）。
@@ -91,7 +89,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stare]]：凝视（快速一瞥 ↔ 长时间凝视，时间维度相反）
 > - [[glare]]：怒视（快速扫视 ↔ 愤怒注视，强度和情感相反）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -125,7 +123,7 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at a glance**：一眼就——He could tell at a glance that something was wrong.
 > - **at first glance**：乍一看——At first glance, the plan seemed feasible.
 > - **glance at**：瞥一眼——She glanced at her watch.
@@ -133,19 +131,15 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He glanced up from his book as I passed."（我走过的时候，正埋头读书的他抬头瞥了我一眼——剑桥词典经典例句，常出现于考研阅读理解中描述人物动作）
 > - "At first glance I thought it was a dog (but I was mistaken)."（乍一看我还以为是一条狗呢（但是我看走眼了）——考研高频表达，at first glance 为常考短语）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

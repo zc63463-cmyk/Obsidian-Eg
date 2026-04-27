@@ -3,14 +3,12 @@ title: "destruction"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 自然物理
 prototype: 把建造的东西拆掉
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/dɪˈstrʌkʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把建造的东西拆掉**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **反向建造**（物理层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > destruction = de（反向）+ struct（建造）+ ion。construct（建造）是往上搭积木，destruction（毁灭）是往下拆积木。你花了十年 construct（建造）的房子，一场地震就能 destruction（毁灭）。weapons of mass destruction = 大规模"反向建造"武器 = 大规模杀伤性武器。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[construction]]：建造（destruction 的精确反义：毁灭↔建造）
 > - [[creation]]：创造（destruction 的反义：毁灭↔创造）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **weapons of mass destruction**：大规模杀伤性武器
 > - **environmental destruction**：环境破坏
 > - **cause destruction**：造成破坏
@@ -126,19 +124,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The war caused widespread destruction of infrastructure and housing."（战争造成了基础设施和住房的大规模破坏）
 > - "The destruction of tropical rainforests is a global environmental crisis."（热带雨林的破坏是全球性的环境危机）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "banner"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 物品工具
 prototype: 长条形的旗帜（用来标识或宣传的布条）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈbænə(r)/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**长条形的旗帜**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **长条形的旗帜**（物理层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > banner 来自拉丁语 bandum（旗帜），与 band（带子/布条）同源。古代军队在旗帜下集合——under the banner of the king（在国王的旗帜下）。今天抗议者举着横幅（protest banner）表达诉求。一个"旗帜年"（banner year）就是特别杰出的一年。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - banner 作为"杰出"的反义为 [[ordinary]]（普通的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -126,7 +124,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **under the banner of**：在……的旗帜下；以……的名义（考研高频搭配）
 > - **banner headline**：通栏大标题
 > - **banner year**：杰出的一年，丰收年
@@ -134,19 +132,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Scientists working under the banner 'Project Neurice' are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes."（在"Neurice项目"的旗帜下工作的科学家们正在寻找能够抵御日益增加的盐度而又不丧失使欧洲大米成为传统西班牙和意大利菜肴理想食材的吸收性的水稻品种——2018年6月六级阅读Section C）
 > - "A big banner was draped across one of the streets saying, 'Idaho Falls Says NO to Drugs.'"（一条写着"爱达荷福尔斯对毒品说不"的大横幅悬挂在一条街上——考研翻译相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

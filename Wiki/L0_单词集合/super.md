@@ -3,14 +3,12 @@ title: "super"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 在上方（超越一般水平）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈsuːpə/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -45,7 +43,7 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在上方**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **在上方**（空间层面：位置在……之上）
@@ -68,7 +66,7 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > super 就是拉丁语"在上方"。站在**上方**的人就是**超人**（superman），超越一般的就是**超级的**（super）。记住：super = 在上方 = 超。
@@ -87,7 +85,7 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sub]]：在下方（前缀，super 的空间对立面）
 > - [[inferior]]：低劣的（superior 的反义词，super 族相关）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **super power**：超级大国
   - The country emerged as a super power after the war.（该国在战后成为超级大国。）
 > - **super market**：超级市场
@@ -127,19 +125,15 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "We have yet to invent a firewall that is secure against ordinary humans, let alone super intelligent machines."（我们还没有发明出一种能防范普通人类的防火墙，更不用说超级智能机器了——考研高频表达）
 > - "She is a super mom who manages to balance work and family perfectly."（她是一位超级妈妈，能够完美地平衡工作和家庭——考研高频表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：待填写
 > **翻译实践**：待填写

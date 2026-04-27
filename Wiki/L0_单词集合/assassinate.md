@@ -3,14 +3,12 @@ title: "assassinate"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: [assassinated, assassinating, assassination]
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 政治法律
 prototype: 暗杀
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈsæsɪneɪt/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**暗杀**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **暗杀**（物理层面：有预谋地杀害重要人物）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 中东秘密组织"hashshashin"专门在暗处刺杀目标——assassinate就是从这群"影子杀手"的名字演变而来。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[protect]]：assassinate是暗杀，protect是保护
 > - [[defend]]：assassinate是攻击，defend是防卫
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,21 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assassinate a president**：暗杀总统（President Kennedy was assassinated in 1963.）
 > - **assassinate someone's character**：诋毁某人名誉（The media attempted to assassinate her character.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The president was assassinated by a lone gunman during a public appearance."（总统在公开露面时被一名持枪者暗杀。）——考研高频表达
 > - "The plot to assassinate the political leader was uncovered by intelligence agencies."（暗杀这位政治领导人的阴谋被情报机构揭露。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

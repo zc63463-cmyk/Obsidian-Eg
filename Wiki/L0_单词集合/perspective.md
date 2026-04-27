@@ -3,14 +3,12 @@ title: "perspective"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 透过某物观看
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/pəˈspektɪv/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -46,7 +44,7 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**透过某物观看**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **透过某物观看**（视觉层面：透过介质观察）
@@ -69,7 +67,7 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > 画家站在画布前，透过（per-）自己的眼睛仔细观察（spect）远处的建筑，将三维世界压缩到二维画面上——他运用的就是 perspective（透视法），而你看待世界的方式也是一种 perspective（视角）。
@@ -89,7 +87,7 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prejudice]]：偏见（客观视角 vs 主观偏见）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **from the perspective of**：从…的角度 From the perspective of a scientist, the data is quite convincing.（从科学家的角度来看，这些数据相当有说服力。）
 >   The issue should be examined from the perspective of both employers and employees.（这个问题应该从雇主和雇员两个角度来审视。）
 > - **put things in perspective**：客观看待事物
@@ -128,21 +126,15 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "From a scientific perspective, we are constantly developing new ways to understand the world."（从科学的角度来看，我们正在不断开发理解世界的新方法。）——2022考研英语一阅读
 > - "The emphasis on data gathered first-hand, combined with a cross-cultural perspective, makes this study a unique and significant work."（对一手数据的强调，结合跨文化的视角，使这项研究成为一项独特而重要的工作。）——考研翻译真题
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

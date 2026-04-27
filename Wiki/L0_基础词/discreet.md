@@ -3,17 +3,14 @@ title: "discreet"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 分开判断（仔细分辨后行动）
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/dɪsˈkriːt/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: dis-di
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-24
@@ -43,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分开判断（仔细分辨后行动）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **分开判断**（认知层面）
@@ -64,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dis（分开）+ cret（分辨）→ discreet（仔细分辨 → 谨慎的）。一个 discreet 的人说话做事都很谨慎——他"分开"各种情况仔细"分辨"后才行动。discreet inquiry = 谨慎的询问（不引人注目地打听）。建议创建词根笔记 [[cret]]（分辨，区别）。
@@ -86,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[indiscreet]]：不谨慎的，轻率的（discreet 的精确反义：谨慎↔不谨慎）
 > - [[careless]]：粗心的（discreet 的反义：谨慎↔粗心）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +114,22 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be discreet about sth.**：对某事保持谨慎
 > - **a discreet inquiry**：谨慎的询问
 > - **a discreet silence**：意味深长的沉默（含蓄的沉默）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "He was discreet enough not to reveal the secret to anyone."（他足够谨慎，没有把秘密透露给任何人——考研阅读人物类话题）
 > - "She made a discreet exit before the argument escalated."（她在争论升级前悄然离场——考研翻译常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "hearing"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 听的行为
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈhɪərɪŋ/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**听的行为**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **听的行为**（身体层面）
@@ -66,7 +64,7 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hear（听）+ ing → hearing。hearing loss——听力下降。A congressional hearing was held to investigate the scandal——国会举行了听证会调查丑闻。gain a hearing——获得被倾听的机会。hearing 从"耳朵的功能"延伸到"社会的程序"。
@@ -88,7 +86,7 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deafness]]：耳聋（听力的反义：听力↔耳聋）
 > - [[silence]]：沉默（听证会的反义：听取意见↔沉默）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hearing loss**：听力下降/听力丧失
 > - **hold a hearing**：举行听证会
 > - **gain/get a hearing**：获得倾听的机会
@@ -132,19 +130,15 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Frequently thwarted and elbowed out of the limelight, historians often found it difficult to gain a hearing with the media."（历史学家常常被排挤在聚光灯之外，难以获得媒体的倾听——考研阅读常见表达）
 > - "The Senate held a hearing on the proposed environmental regulations."（参议院就拟议的环境法规举行了听证会——考研政治类阅读语料）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

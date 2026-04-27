@@ -3,14 +3,12 @@ title: "recession"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 资本经济
 prototype: 向后走的状态（经济活动向后退）
-extension_dim: 退行路径
+extension_dim: [退行路径]
 phonetic: "/rɪˈseʃn/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后走的状态（经济活动向后退）**"为统筹中心，沿退行路径向外扩展：
 >
 > 1. **经济向后退**（经济层面）
@@ -66,7 +64,7 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > recession 源自拉丁语 *recessio*，re-（向后）+ cedere（行走）+ -ion（状态）。想象一个跑步者原本在飞速前进，但突然放慢了脚步，开始向后退——这就是 recession：re（向后）+ cess（走）+ -ion（状态），"向后走的状态"。当经济从繁荣走向衰退时，GDP下降、企业倒闭、失业率上升，整个经济就像那个向后退的跑步者。2008年的全球金融危机就引发了一场严重的 recession，被称为"the Great Recession"。
@@ -93,7 +91,7 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -106,14 +104,14 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[boom]]：繁荣，兴旺（recession 的精确反义：衰退↔繁荣）
 > - [[recovery]]：复苏，恢复
 > - [[growth]]：增长
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **economic recession**：经济衰退
 > - **the Great Recession**：大衰退（指2008年金融危机引发的经济衰退）
 > - **go into a recession**：进入衰退
@@ -137,20 +135,16 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The great recession may be over, but this era of high joblessness is probably beginning."（大衰退可能已经结束，但这个高失业率的时代可能才刚刚开始。——2012年考研英语二 Text4）
 > - "The reason we have such stubbornly high unemployment and declining middle-class incomes today is largely because of the big drop in demand because of the Great Recession."（我们今天之所以失业率居高不下、中产阶级收入不断下降，很大程度上是因为大衰退导致的需求大幅下降。——考研真题相关）
 > - "Both previous shocks resulted in double-digit inflation and global economic decline."（之前的两次冲击都导致了两位数的通货膨胀和全球经济下滑。——2002年考研真题 Text3）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

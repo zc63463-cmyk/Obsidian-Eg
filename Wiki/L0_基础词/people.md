@@ -3,14 +3,12 @@ title: "people"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 民族（共享同一血脉和土地的人群）
-extension_dim: 社会集合
+extension_dim: [社会集合]
 phonetic: "/ˈpiːpl/"
 pos: n.
 metaphor_type: 转喻
@@ -44,7 +42,7 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**民族（共享同一血脉和土地的人群）**"为统筹中心，沿社会集合维度向外扩展：
 >
 > 1. **民族**
@@ -69,7 +67,7 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > people 来自拉丁语 *populus*（人民、民族）。想象古罗马广场上聚集的罗马人民——populus Romanus。他们共享同一片土地、同一种语言、同一种文化，构成了一个"民族"。后来这个词从"一个民族"泛化为"所有人"——people。记住 populus = 人民，people 就是"人民/人们"。
@@ -92,7 +90,7 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[government]]：政府（people 的反义：平民↔统治者）
 > - [[elite]]：精英（people 的反义：普通百姓↔精英阶层）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ordinary people**：普通人
 > - **young people**：年轻人
 > - **the people**：人民，平民
@@ -134,19 +132,15 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Many people believe that technology will eventually solve our environmental problems."（许多人认为技术最终将解决我们的环境问题。——考研英语一2019阅读）
 > - "The government of the people, by the people, for the people, shall not perish from the earth."（民有、民治、民享的政府将永世长存。——林肯葛底斯堡演说，考研高频引用）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,14 +3,12 @@ title: "postpone"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 放到后面去（推迟）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/pəʊstˈpəʊn/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**放到后面去**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **放到后面**（空间层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > postpone = post-（在……之后）+ ponere（放置）= 放到后面去 = 推迟。核心画面是"把任务从前面移到后面"。拉丁语 *postponere* = post（后面）+ ponere（放置）= 放到后面。The meeting was postponed（会议被推迟了）= 把会议"放到后面"。注意 postpone 的搭配：postpone sth. to（推迟到……）、postpone doing sth.（推迟做某事）。postpone 和 delay 的区别：postpone 强调"有意识地放到后面"，delay 强调"被耽搁"。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[advance]]：提前（postpone 的反义：推迟↔提前）
 > - [[expedite]]：加速（postpone 的反义：推迟↔加速）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **postpone sth. to**：将……推迟到
 > - **postpone doing sth.**：推迟做某事
 > - **postpone a meeting**：推迟会议
@@ -129,19 +127,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Due to the severe weather conditions, the university decided to postpone the entrance examination to a later date."（由于恶劣的天气条件，大学决定将入学考试推迟到更晚的日期——考研阅读教育话题相关表达）
 > - "Rather than postponing the decision indefinitely, the committee should take decisive action to address the issue."（委员会不应无限期推迟决定，而应采取果断行动来解决这个问题——考研阅读社会话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

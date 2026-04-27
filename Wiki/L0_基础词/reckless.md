@@ -3,17 +3,14 @@ title: "reckless"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 不计后果的（不考虑后果就行动）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ˈrekləs/"
 pos: adj.
-metaphor_type: 无隐喻
 word_root: reck
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不计后果的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不计后果的**（行为态度层面）
@@ -66,7 +63,7 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +73,7 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > reckless = reck（在乎/关心）+ less（不）→ 不在乎后果→ 鲁莽的。记住 -less 后缀表示"没有"，reckless = 没有reck（关心）= 不关心后果。reckless personal spending = 不计后果的个人消费。
@@ -88,7 +85,7 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +97,13 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cautious]]：谨慎的（鲁莽↔谨慎）
 > - [[careful]]：小心的（不计后果↔小心）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +119,22 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reckless driving**：鲁莽驾驶
 > - **reckless spending**：不计后果的消费
 > - **reckless disregard**：鲁莽的无视
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The court would be recklessly modest if it followed California's advice."（如果法院听从加州的建议，那将是 recklessly 谦虚的——2015年考研英语一阅读理解 Section II）
 > - "At least, the recession has awakened us from our national fever dream of easy riches and bigger houses, and put a necessary end to an era of reckless personal spending."（至少，经济衰退唤醒了我们对轻松致富和拥有更大房子的全国性的狂热梦想，并为一个不计后果的个人消费时代画上了必要的句号——2020年考研英语二 Text 4）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

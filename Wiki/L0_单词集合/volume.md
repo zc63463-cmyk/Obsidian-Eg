@@ -3,14 +3,12 @@ title: "volume"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 物品工具
 prototype: 卷、卷册（书本的物理形态）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈvɒljuːm/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -44,7 +42,7 @@ vol/volu(滚，卷) + -ume(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**卷轴/卷册**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **卷轴，卷册**（物理层面）
@@ -68,7 +66,7 @@ vol/volu(滚，卷) + -ume(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ vol/volu(滚，卷) + -ume(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vol-（卷）→ 想象古代图书馆里一排排卷轴，每卷就是一册书 → volume = 卷册 → 从卷的大小引申为体积、音量。
@@ -90,7 +88,7 @@ vol/volu(滚，卷) + -ume(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ vol/volu(滚，卷) + -ume(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （volume 作为"体积/音量/数量"时无直接单一反义词，需根据具体语境选择）
 > - 在"音量"语境下：[[silence]]（沉默/静音）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -124,7 +122,7 @@ vol/volu(滚，卷) + -ume(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **turn up/down the volume**：调高/调低音量（Could you turn down the volume?）
 > - **the volume of trade**：贸易量（The volume of trade between the two countries has increased.）
 > - **a large volume of**：大量的（A large volume of data needs to be processed.）
@@ -132,18 +130,12 @@ vol/volu(滚，卷) + -ume(名词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Beethoven's habit of increasing the volume with an intense crescendo and then abruptly following it with a sudden soft passage was only rarely used by composers before him."（贝多芬惯以超凡的力度加大音响，随后突然进入一个意想不到的柔和乐段。这种手法在前人的作品中极为罕见。）——2014年翻译
 > - "The volume of trade between the two countries has increased significantly."（两国之间的贸易量显著增加。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出

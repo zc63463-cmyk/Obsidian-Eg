@@ -3,14 +3,12 @@ title: "formation"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 自然物理
 prototype: 形成/构成
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/fɔːˈmeɪʃn/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**形成/构成**"为统筹中心，沿**抽象路径**向外扩展：
 >
 > 1. **形成/构成**（过程层面：从无到有的塑造过程）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > formation = form（形成）+ -ation（名词后缀，表动作或结果）。星星的诞生是 star formation（恒星形成），岩石的天然结构是 rock formation（岩石构造），飞机编队飞行是 in formation（编队）——都是"成形"的不同表现。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deformation]]：变形（de- 破坏 + formation 形成）
 > - [[dissolution]]：解散/溶解（与 formation 的"形成/组织"义相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **star formation**：恒星形成
   - The region is known for its active star formation.（该地区以其活跃的恒星形成而闻名。）
 > - **word formation**：构词法
@@ -127,22 +125,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The formation of good habits in childhood can have a lasting impact on one's life."（童年时期良好习惯的养成对一个人的一生有持久的影响。）——考研高频表达
 > - "The formation of stars and galaxies is one of the most fascinating topics in astrophysics."（恒星和星系的形成是天体物理学中最引人入胜的话题之一。）——考研高频表达
 
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<待补充>
 > **翻译实践**：<待补充>

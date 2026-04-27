@@ -3,14 +3,12 @@ title: "bizarre"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 理性世界
 prototype: 古怪的、异乎寻常的（像来自另一个世界的事物）
-extension_dim: 感知路径
+extension_dim: [感知路径]
 phonetic: "/bɪˈzɑːr/"
 pos: adj.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**古怪的、异乎寻常的**"为统筹中心，沿感知路径向外扩展：
 >
 > 1. **古怪的**（感知层面）
@@ -64,7 +62,7 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bizarre 源自法语，原义与"勇敢"有关，但在英语中演变为"古怪的、异乎寻常的"。想象一个人穿着中世纪盔甲走在现代商场里——他的行为就是 bizarre（古怪的），因为他完全不属于这个场景。bizarre 描绘的就是那种"不属于这里"的异样感。It was bizarre that no one noticed the missing painting（没人注意到那幅画不见了，这太奇怪了）。
@@ -87,7 +85,7 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[normal]]：正常的（bizarre 的精确反义：古怪↔正常）
 > - [[ordinary]]：普通的（bizarre 的反义：奇异↔普通）
 > - [[conventional]]：常规的（bizarre 的反义：古怪↔常规）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bizarre behavior**：古怪的行为
 > - **a bizarre coincidence**：离奇的巧合
 > - **bizarre circumstances**：怪诞的情况
@@ -128,19 +126,15 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "It is bizarre that in a society that prides itself on scientific rationality, so many people still believe in superstitions."（在一个以科学理性为荣的社会中，仍有这么多人相信迷信，这真是荒诞——考研阅读社会话题相关表达）
 > - "The bizarre rituals of the ancient tribe fascinated anthropologists from around the world."（这个古老部落离奇的仪式吸引了来自世界各地的人类学家——考研阅读文化话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

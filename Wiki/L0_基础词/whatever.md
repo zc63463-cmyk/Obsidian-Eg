@@ -3,17 +3,14 @@ title: "whatever"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 无论什么事物
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/wɒtˈevər/"
 pos: pron.
-metaphor_type: 无隐喻
 word_root: what
 network_activation: [词根, 同义辨析, 反义词群, 派生词族]
 last_review: 2026-04-23
@@ -45,7 +42,7 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无论什么事物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **无论什么事物**（逻辑层面）
@@ -70,7 +67,7 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +79,7 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > whatever = what（什么）+ ever（永远）→ 无论什么都……。记住 -ever 家族：whatever（无论什么）、whenever（无论何时）、wherever（无论何地）、whoever（无论谁）、whichever（无论哪个）。它们都表示"无条件让步"。口语中 Whatever! = "随便吧，无所谓"——典型的年轻人用语。
@@ -94,7 +91,7 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,13 +104,13 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - whatever 无直接反义词，但逻辑上与"限定性表达"相对
 > - [[nothing]]：没有什么（whatever 表示"任何事物"，nothing 表示"没有事物"）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -128,7 +125,7 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **whatever happens**：无论发生什么
 > - **whatever it takes**：不惜一切代价
 > - **or whatever**：或者别的什么（口语填充词）
@@ -136,19 +133,15 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Whatever the reason, the decline in reading habits among young people has become a matter of great concern for educators and parents alike."（无论原因是什么，年轻人阅读习惯的下降已经成为教育工作者和父母共同关注的问题——考研阅读教育话题相关表达）
 > - "The government should take whatever measures are necessary to protect the environment, even if they come at a short-term economic cost."（政府应该采取一切必要措施保护环境，即使这些措施会带来短期经济代价——考研阅读环保话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

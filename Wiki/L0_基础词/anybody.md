@@ -3,14 +3,12 @@ title: "anybody"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 任何人
-extension_dim: 量化范围
+extension_dim: [量化范围]
 phonetic: "/ˈenibɒdi/"
 pos: pron.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ any(任何一个) + body(身体/人)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**任何人**"为统筹中心，沿量化范围向外扩展：
 >
 > 1. **任何人**（量化层面）
@@ -65,7 +63,7 @@ any(任何一个) + body(身体/人)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ any(任何一个) + body(身体/人)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > anybody = any（任何一个）+ body（人）。否定句中是"任何人"（Anybody can do it = 谁都能做）。肯定句中翻转成"重要人物"（He's somebody, not just anybody = 他是个人物，不是随便什么人）。记住：anybody 的语境决定含义——否定句=随便谁，肯定句=大人物。
@@ -88,7 +86,7 @@ any(任何一个) + body(身体/人)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ any(任何一个) + body(身体/人)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[nobody]]：没有人（anybody 的精确反义：任何人↔没有人）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,22 @@ any(任何一个) + body(身体/人)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **not just anybody**：不是随便什么人（= 重要人物）
 > - **anybody else**：其他任何人
 > - **was anybody**：曾经是重要人物
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The Internet allows anybody to publish their opinions, regardless of expertise."（互联网允许任何人发表自己的观点，无论其专业水平如何。——考研英语阅读科技社会类话题）
 > - "He isn't just anybody — he's the former CEO of the company."（他不是随便什么人——他是公司的前任CEO。——考研英语阅读人物介绍类表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

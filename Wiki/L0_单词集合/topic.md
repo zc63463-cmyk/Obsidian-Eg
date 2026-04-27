@@ -3,14 +3,12 @@ title: "topic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-21
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 话题、主题
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈtɒpɪk/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**话题**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **话题**（交流层面——对话、讨论的中心内容）
@@ -64,7 +62,7 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古希腊哲学家在广场上辩论，把要讨论的问题写在 top（最上面）的木板上——大家围过来讨论的就是 topic（话题）。
@@ -88,7 +86,7 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[digression]]：离题、偏离主题
 > - [[irrelevance]]：不相关（与话题无关的内容）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hot topic**：热门话题
 >   Climate change remains a hot topic in international politics.（气候变化仍然是国际政治中的热门话题。）
 > - **on the topic of**：关于……的话题 She gave an interesting lecture on the topic of artificial intelligence.（她就人工智能这一话题做了一场精彩的讲座。）
@@ -128,23 +126,15 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Climate change has become a hot topic in recent political debates."（气候变化已成为近期政治辩论中的热门话题。）——考研高频表达
 > - "The essay covers a wide range of topics related to environmental protection."（这篇文章涵盖了与环境保护相关的广泛话题。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-21 | **复习次数**：0 | **当前等级**：L0
-
-%% 复习间隔参考 [[词汇学习哲学#与加工深度等级的对应]] %%
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

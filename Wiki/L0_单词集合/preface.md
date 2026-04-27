@@ -3,14 +3,12 @@ title: "preface"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 社会专业
 prototype: 在前面说/做
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈprefəs/"
 pos: n.
 metaphor_type: 方位隐喻
@@ -47,7 +45,7 @@ pre-(在前面) + [[fac]](说/做) → 在前面说 → 序言
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在前面说/做**"为统筹中心，沿**空间路径**向外扩展：
 >
 > 1. **在前面说/做**（空间层面：在正文之前放置的内容）
@@ -68,7 +66,7 @@ pre-(在前面) + [[fac]](说/做) → 在前面说 → 序言
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ pre-(在前面) + [[fac]](说/做) → 在前面说 → 序言
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre(在前面) + face(脸/面) → 在书的**前面露脸**的部分 → 序言。作者在正文之前先"露脸"说几句话。
@@ -91,7 +89,7 @@ pre-(在前面) + [[fac]](说/做) → 在前面说 → 序言
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ pre-(在前面) + [[fac]](说/做) → 在前面说 → 序言
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[epilogue]]：后记，尾声（与preface的空间位置相反）
 - [[conclusion]]：结论，结尾
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ pre-(在前面) + [[fac]](说/做) → 在前面说 → 序言
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **preface to**：……的序言
 >   The author wrote a detailed preface to the second edition of the book.
 > - **preface with**：以……作为开场白
@@ -131,20 +129,14 @@ pre-(在前面) + [[fac]](说/做) → 在前面说 → 序言
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "In the preface to his book, the author acknowledges the contributions of his colleagues and students."（在书的序言中，作者感谢了他的同事和学生们的贡献。）——考研高频表达
 > - "She prefaced her remarks with a brief summary of the research findings."（她在发言前先简要总结了研究发现。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

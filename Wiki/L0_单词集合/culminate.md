@@ -3,14 +3,12 @@ title: "culminate"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 达到顶点，以...告终
-extension_dim: 时间路径
+extension_dim: [时间路径]
 phonetic: "/ˈkʌlmɪneɪt/"
 pos: v.
 metaphor_type: 方位隐喻
@@ -43,7 +41,7 @@ culmin(山顶，顶点) + -ate(使...)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**到达山顶**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **到达山顶**（空间→时间隐喻层面）
@@ -64,7 +62,7 @@ culmin(山顶，顶点) + -ate(使...)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ culmin(山顶，顶点) + -ate(使...)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 攀登珠穆朗玛峰，经过数周的艰苦跋涉，终于到达山顶(culmen)——整个登山过程 culminate（达到顶点）于插上旗帜的那一刻。
@@ -87,7 +85,7 @@ culmin(山顶，顶点) + -ate(使...)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ culmin(山顶，顶点) + -ate(使...)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[commence]]：开始，着手（culminate 是过程的终点，commence 是起点）
 > - [[initiate]]：发起，开始
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,27 +114,21 @@ culmin(山顶，顶点) + -ate(使...)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **culminate in**：Weeks of negotiation culminated in a historic agreement.（数周的谈判最终达成了一项历史性协议。）
 > - **culminate with**：The festival culminates with a grand fireworks display.（音乐节以一场盛大的烟花表演达到高潮。）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Weeks of negotiation culminated in a historic agreement between the two nations."（数周的谈判最终促成了两国之间的一项历史性协议。）——考研高频表达
 > - "The festival culminates with a grand fireworks display on the final night."（音乐节在最后一晚以一场盛大的烟花表演达到高潮。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

@@ -3,14 +3,12 @@ title: "gift"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-20
-mastery: L0
 word_freq: 必备词
 semantic_field: 抽象关系
 prototype: 赠送的礼物
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/ɡɪft/"
 pos: n.
 metaphor_type: 本体隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被给予的东西**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被给予的东西**（物质层面）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -82,7 +80,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gift 和 give 是亲兄弟——give 是"给"这个动作，gift 是"给的东西"。你 give 朋友一份礼物，这份礼物就是 gift。后来人们觉得天赋也像是一份礼物——不是你自己挣来的，而是天生被"给"的（a gift from God/nature）。所以有天赋的孩子叫 gifted child，就像他们被"赠送"了特殊才能。
@@ -94,7 +92,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -107,14 +105,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[penalty]]：惩罚（gift 的反义：赠与↔惩罚）
 > - [[burden]]：负担（礼物↔负担）
 > - [[fine]]：罚款（赠与↔罚款）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a gift for**：…的天赋（a gift for music/languages）
 > - **birthday/Christmas gift**：生日/圣诞礼物
 > - **gifted children/program**：有天赋的孩子/天才班
@@ -136,22 +134,16 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "a gift for languages"（语言天赋）——考研阅读常见搭配
 > - "gifted children"（有天赋的孩子）——考研阅读常见搭配，教育话题
 > - "nature's gift to humanity"（大自然赐予人类的礼物）——考研阅读常见表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-20 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

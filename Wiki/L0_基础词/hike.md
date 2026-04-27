@@ -3,14 +3,12 @@ title: "hike"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人体动作
 prototype: 用力拉起（用力把东西往上拽）
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/haɪk/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用力拉起**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **用力拉起**（物理动作）
@@ -65,7 +63,7 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hike 的核心动作是"用力向上"。用力拉起裤子 = hike up one's pants。远足 = 不断抬起脚步 = go hiking。提高价格 = 把价格拉上去 = hike prices。价格大幅上涨 = a price hike。记住 hike 的核心意象是"向上"：无论是拉起物体、远足抬脚，还是提高价格，都是"向上"的动作。考研重点考"提高价格"：hike prices, a price hike, a tax hike。
@@ -88,7 +86,7 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cut]]：削减（hike 价格的反义：提高↔削减）
 > - [[reduce]]：降低（hike 价格的反义：提高↔降低）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **go hiking**：去远足
 > - **hike prices**：提高价格
 > - **a price hike**：价格大幅上涨
@@ -130,19 +128,15 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The government's decision to hike taxes on luxury goods sparked widespread protests among middle-class consumers who felt unfairly targeted."（政府决定提高奢侈品税的决定引发了中产阶级消费者的广泛抗议，他们觉得自己被不公平地针对了——考研阅读经济话题相关表达）
 > - "The sudden hike in oil prices sent shockwaves through the global economy, affecting everything from transportation costs to the price of basic necessities."（油价突然大幅上涨对全球经济造成了冲击，影响了从运输成本到基本生活必需品价格的一切——考研翻译经济话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

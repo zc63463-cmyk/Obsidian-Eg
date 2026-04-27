@@ -3,14 +3,12 @@ title: "stretch"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 人体动作
 prototype: 拉伸/伸展
-extension_dim: 具身路径
+extension_dim: [具身路径]
 phonetic: "/stretʃ/"
 pos: v.
 metaphor_type: 结构隐喻
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拉伸/伸展**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **拉伸/伸展**（物理层面：把物体拉长）
@@ -70,7 +68,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**：
 > stretch 源自古英语"拉长"。想象早晨起床伸懒腰——身体被拉伸，就是 stretch。道路从城市拉伸到乡村（延伸），能力被拉伸到极限（过度使用），橡皮筋能拉伸（弹性）。stretch 和 stress 是同源词：stress 是拉紧，stretch 是拉长。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[shrink]]：收缩；缩小（与拉伸/延伸相对）
 > - [[compress]]：压缩（与伸展相对）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stretch from...to...**：从...延伸到...
   - The forest stretches from the mountains to the sea.（森林从山脉延伸到大海。）
 > - **stretch one's legs**：散步；活动腿脚
@@ -131,21 +129,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The average amount of time students now take to complete an undergraduate degree has stretched to six years and seven months."（学生如今完成本科学位所需的平均时间已经延长到六年零七个月。）——考研高频表达
 > - "The forest stretches for miles in every direction."（森林向四面八方延伸数英里。）——考研高频表达
 
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

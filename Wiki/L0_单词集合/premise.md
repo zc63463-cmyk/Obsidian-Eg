@@ -3,14 +3,12 @@ title: "premise"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-22
-mastery: L0
 word_freq: 必备词
 semantic_field: 理性世界
 prototype: 在前面送出的东西→前提
-extension_dim: 抽象路径
+extension_dim: [抽象路径]
 phonetic: "/ˈpremɪs/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -46,7 +44,7 @@ pre-(在前面) + miss/mittere(送、放出) + -e
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**前提、假设**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **前提、假设**（逻辑层面——论证前预先设定的命题）
@@ -67,7 +65,7 @@ pre-(在前面) + miss/mittere(送、放出) + -e
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ pre-(在前面) + miss/mittere(送、放出) + -e
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 praemissus "预先送出的"，由 prae-(前) + mittere(送) 构成。在逻辑论证中，先于结论"送出"的命题就是前提。
@@ -91,7 +89,7 @@ pre-(在前面) + miss/mittere(送、放出) + -e
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ pre-(在前面) + miss/mittere(送、放出) + -e
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conclusion]]：结论（前提与结论构成论证的两端）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,20 @@ pre-(在前面) + miss/mittere(送、放出) + -e
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **on the premise that...**：以……为前提（The argument rests on the premise that all men are equal.）
 > - **on the premises**：在房屋内、在场所内（No smoking on the premises.）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The argument is based on the premise that all individuals are equal before the law."（这一论点建立在所有人在法律面前人人平等的前提之上。）——考研高频表达
 > - "The research project is based on the premise that early childhood experiences have a lasting impact on adult behavior."（该项目的研究前提是童年早期的经历对成年后的行为有持久影响。）——考研高频表达
 ---
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-22 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：
 > **翻译实践**：

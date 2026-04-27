@@ -3,14 +3,12 @@ title: "wicked"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-23
-mastery: L0
 word_freq: 基础词
 semantic_field: 人本世界
 prototype: 邪恶的，有恶意的
-extension_dim: 道德路径
+extension_dim: [道德路径]
 phonetic: "/ˈwɪkɪd/"
 pos: adj.
 metaphor_type: 本体隐喻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**邪恶的，有恶意的**"为统筹中心，沿道德路径向外扩展：
 >
 > 1. **巫术/邪恶**（道德层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wicked 的核心画面是"一个邪恶的女巫在黑暗中施展魔法"。古英语 *wicca* = 巫师。wicked = 与巫术有关的 = 邪恶的。a wicked scheme（邪恶的计划）= 出于恶意的计划。a wicked smile（邪恶的微笑）= 带有恶意的笑。wicked humor（恶趣味）= 带有恶作剧性质的幽默。口语中 a wicked guitar（极棒的吉他）= 反讽用法。与 witch（女巫）同源。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[virtuous]]：有道德的（wicked 的精确反义：邪恶↔有道德）
 > - [[good]]：好的（wicked 的反义：邪恶↔好）
 > - [[righteous]]：正义的（wicked 的反义：邪恶↔正义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a wicked person**：邪恶的人
 > - **a wicked scheme**：邪恶的计划
 > - **a wicked smile**：邪恶的微笑
@@ -130,19 +128,15 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The novel portrays a wicked dictator who exploits the fears and prejudices of his people to maintain his grip on power, demonstrating how tyranny can flourish when good people remain silent."（这部小说描绘了一个邪恶的独裁者，他利用人民的恐惧和偏见来维持对权力的控制，展示了当好人保持沉默时暴政如何得以滋长——考研阅读文学话题相关表达）
 > - "Environmentalists have condemned the wicked practice of illegal logging in old-growth forests, which destroys irreplaceable ecosystems that took centuries to develop."（环保主义者谴责了在原始森林中非法采伐的恶劣行为，这种行为摧毁了经过数百年才形成的不可替代的生态系统——考研阅读环保话题相关表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-23 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

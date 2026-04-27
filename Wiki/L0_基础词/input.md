@@ -3,14 +3,12 @@ title: "input"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 抽象关系
 prototype: 放进去（把东西放入某处）
-extension_dim: 空间路径
+extension_dim: [空间路径]
 phonetic: "/ˈɪnpʊt/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -44,7 +42,7 @@ in-(进入) + [[put|put-]](放置，放)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**放进去**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **放进去**（动作层面）
@@ -67,7 +65,7 @@ in-(进入) + [[put|put-]](放置，放)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ in-(进入) + [[put|put-]](放置，放)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（进入）+ put（放）→ 放进去 → 输入。你在电脑前 input 数据，就是把信息放进去。老师说你需要更多 input，就是你需要投入更多时间和精力。output 是"放出来"，input 是"放进去"——一进一出。
@@ -90,7 +88,7 @@ in-(进入) + [[put|put-]](放置，放)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ in-(进入) + [[put|put-]](放置，放)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[output]]：输出（input 的精确反义：输入↔输出）
 > - [[withdrawal]]：撤回，收回（input 的反义：投入↔撤回）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ in-(进入) + [[put|put-]](放置，放)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **input data/information**：输入数据/信息
 > - **input of time/effort/resources**：时间/精力/资源的投入
 > - **data input**：数据输入
@@ -128,19 +126,15 @@ in-(进入) + [[put|put-]](放置，放)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "Students need more input from their teachers to improve their writing skills."（学生需要老师更多的指导投入来提高写作能力）
 > - "The quality of the output depends on the quality of the input."（输出的质量取决于输入的质量）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

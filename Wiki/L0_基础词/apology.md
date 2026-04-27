@@ -3,14 +3,12 @@ title: "apology"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 基础词
 semantic_field: 社会习俗
 prototype: 为自己辩护的话（说出的话来解释/认错）
-extension_dim: 社会路径
+extension_dim: [社会路径]
 phonetic: "/əˈpɒlədʒi/"
 pos: n.
 metaphor_type: 结构隐喻
@@ -43,7 +41,7 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**为自己辩护的话**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **为自己辩护的话**（言语层面）
@@ -64,7 +62,7 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > apo（远离）+ log（说话）→ 说出话来远离指责→ 道歉。apology 就是"道歉的话"，apologize 就是"说出道歉的话"。你犯了错，需要说一些话来让自己"远离"别人的责怪——这就是 apology。
@@ -87,7 +85,7 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[accusation]]：指控（apology 道歉 vs accusation 指控，形成"认错↔指责"的对比）
 > - [[condemnation]]：谴责（道歉↔谴责）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make/offer an apology**：道歉
 > - **accept an apology**：接受道歉
 > - **a public apology**：公开道歉
@@ -126,19 +124,15 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - "The company issued a public apology for the environmental damage."（公司为环境破坏发表了公开道歉——考研翻译常见话题）
 > - "He owes his colleagues an apology for his rude behavior."（他因粗鲁行为欠同事们一个道歉——考研阅读常见表达）
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
 
 ---
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 主动产出
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>
