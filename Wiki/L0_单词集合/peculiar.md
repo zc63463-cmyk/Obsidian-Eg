@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**奇怪的，古怪的**==；②==**特有的，独特的**==；③==**特别的**==；
+**adj.** ①==**奇怪的，古怪的**== `a peculiar smell/behavior` `a peculiar feeling`；②==**特有的，独特的**== `peculiar to` `peculiar to this region`；③==**特别的**== `in a peculiar way`；
 **n.** ①==**特权，特殊财产**==；（常作 ~s）==**私有财产**==；
 
 > [!tip] 原型义
@@ -138,9 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a custom peculiar to this region"（该地区特有的习俗）——考研翻译/阅读常见搭配，文化类话题
-> - "a peculiar combination of factors"（一种独特的因素组合）——学术/分析类阅读常见表达
-> - "peculiar to the human species"（人类所特有的）——科普/生物类阅读语境
+> - This type of building is peculiar to the south of the country. `[COCA-ACAD]`
+> - It seems peculiar that he would leave town and not tell anybody. `[COCA]`
+> - The dog's peculiar behavior worried them. `[COCA]`
+> - The amino acids occur in an ordered sequence that is peculiar to each peptide. `[COCA-ACAD]`
 
 ---
 

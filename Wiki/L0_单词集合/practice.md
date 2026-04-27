@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**练习；训练**== ; ②==**实践；实际**== ; ③==**惯例；常规**== ; ④==**业务；执业**== ;
-**v.** ①==**练习；训练**== ; ②==**从事（职业）**== ; ③==**奉行；践行**== ;
+**n.** ①==**练习；训练**== `` `practice makes perfect` `` `` `regular practice` `` ; ②==**实践；实际**== `` `in practice` `` `` `put sth into practice` `` ; ③==**惯例；常规**== `` `common practice` `` `` `standard practice` `` ; ④==**业务；执业**== `` `private practice` `` `` `in practice` `` ;
+**v.** ①==**练习；训练**== `` `practice doing sth` `` `` `practice on sth` `` ; ②==**从事（职业）**== `` `practice law/medicine` `` `` `go into practice` `` ; ③==**奉行；践行**== `` `practice what you preach` `` ;
 
 > [!tip] 原型义
 > **原型义**：反复做、练习（通过反复操作来掌握技能）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route."（但是在日常的科学实践中，发现通常遵循一条模糊而复杂的路径。）——2012年阅读Text3
-> - "We must put our plans into practice."（我们必须将计划付诸实践。）——考研高频表达
+> - "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route." `` `[真题]` ``
+> - "We are beginning to put the new processes and systems into practice." `` `[COCA-ACAD]` ``
+> - "It is common practice to check references before hiring." `` `[COCA-ACAD]` ``
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**忽视，忽略**== ; ②==**俯瞰，眺望**== ; ③宽容，不计较 ;
+**v.** ①==**忽视，忽略**== `` `~ a mistake/fact / ~ the significance of` `` ; ②==**俯瞰，眺望**== `` `the hotel ~s the sea` `` ; ③宽容，不计较 ;
 
 > [!tip] 原型义
 > **原型义**：从上面看过去→俯瞰
@@ -124,8 +124,9 @@ over-(在……上面) + look(看)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It risks overlooking a nation's diversity of gifts, culture, and traditions."（这有忽视一个国家天赋、文化和传统多样性的风险。）——2018年考研真题
-> - "In the rush to adopt new technologies, we often overlook their potential negative effects on society."（在急于采用新技术的过程中，我们常常忽视它们对社会潜在的负面影响。）——考研高频表达
+> - "It risks overlooking a nation's diversity of gifts, culture, and traditions." `` `[真题]` ``
+> - "It is easy to overlook the significance of this change." `` `[COCA-ACAD]` ``
+> - "He seems to have overlooked one important fact." `` `[COCA-ACAD]` ``
 ---
 
 

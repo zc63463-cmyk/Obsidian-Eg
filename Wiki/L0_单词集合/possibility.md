@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**可能性，可能的事**== ; ②==**发展前景，潜力**== ;
+**n.** ①==**可能性，可能的事**== `` `there is a possibility that...` `` / `` `the possibility of sth./doing sth.` `` ; ②==**发展前景，潜力**== `` `explore/open up possibilities` `` ;
 
 > [!tip] 原型义
 > **原型义**：能够存在的事物（来自拉丁语 *possibilitas*，*possibilis* "能够的"）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a growing possibility that the company will go bankrupt."（公司破产的可能性越来越大。）——考研高频表达
-> - "We must consider the possibility that the experiment may fail."（我们必须考虑实验可能失败的可能性。）——考研高频表达
+> - There is a growing possibility that the company will go bankrupt. `[COCA-ACAD]`
+> - We must consider the possibility that the experiment may fail. `[COCA-ACAD]`
+> - One possibility would be to compensate us with other property. `[COCA-ACAD]`
 
 ---
 

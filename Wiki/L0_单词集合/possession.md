@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**拥有，占有**== ; ②财产，所有物（常用复数 possessions） ; ③控制，支配
+**n.** ①==**拥有，占有**== `` `in possession of sth.` `` / `` `take possession of sth.` `` ; ②财产，所有物（常用复数 possessions） `` `personal possessions` `` ; ③控制，支配 `` `in sb.'s possession` ``
 
 > [!tip] 原型义
 > **原型义**：拥有的状态或行为
@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The possession of a valid passport is required for international travel."（进行国际旅行需要持有有效护照。）——考研高频表达
-> - "He packed all his possessions into a single suitcase before leaving the country."（他在离开该国前把所有财产装进了一个手提箱。）——考研高频表达
-> - "The possession of certain skills is essential for success in today's competitive job market."（在当今竞争激烈的就业市场中，拥有某些技能是成功的关键。）——考研高频表达
+> - The possession of a valid passport is required for international travel. `[COCA-ACAD]`
+> - Police found a large quantity of drugs in his possession. `[COCA-ACAD]`
+> - He had sold all his possessions and left the country. `[COCA-ACAD]`
 
 ---
 

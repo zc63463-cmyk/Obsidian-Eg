@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**政策；方针**==；②==**保险单**==；
+**n.** ①==**政策；方针**== `foreign/domestic policy` / `economic policy`；②==**保险单**== `insurance policy`；
 
 > [!tip] 原型义
 > **原型义**：政策、方针——治理城邦的行动纲领
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The government's new economic policy aims to stimulate growth and create jobs."（政府的新经济政策旨在刺激增长和创造就业。）——考研阅读真题
-> - "Environmental policy must balance economic development with ecological protection."（环境政策必须在经济发展与生态保护之间取得平衡。）——考研高频表达
+> - The government's new economic policy aims to stimulate growth and create jobs. `[真题]`
+> - Environmental policy must balance economic development with ecological protection. `[COCA-ACAD]`
+> - You should check your policy to see if you are covered for flood damage. `[COCA-ACAD]`
+> - The central bank adjusted its monetary policy in response to rising inflation. `[COCA-NEWS]`
 
 ---
 

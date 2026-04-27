@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**克服，战胜**== ; ②==**（感情等）压倒，使受不了**== ;
+**v.** ①==**克服，战胜**== `` `~ difficulties/obstacles / ~ fear` `` ; ②==**（感情等）压倒，使受不了**== `` `be overcome with/by ...` `` ;
 
 > [!tip] 原型义
 > **原型义**：从上方越过（over + come）
@@ -125,8 +125,9 @@ over-（在……上方/越过）+ come（来，到达）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She overcame numerous obstacles to achieve her goal of becoming a doctor."（她克服了无数障碍，实现了成为一名医生的目标。）——考研高频表达
-> - "The team overcame a ten-point deficit to win the championship."（这支球队克服了十分落后的劣势赢得了冠军。）——考研高频表达
+> - "She overcame numerous obstacles to achieve her goal of becoming a doctor." `` `[COCA-ACAD]` ``
+> - "Two school friends have died after being overcome by leaking gas fumes in holiday accommodation." `` `[COCA-NEWS]` ``
+> - "There are many technical challenges to overcome, but the team believes it will succeed." `` `[COCA-ACAD]` ``
 
 ---
 

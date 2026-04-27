@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**预防措施；防范**== ; ②==**谨慎；戒备**== ;
+**n.** ①==**预防措施；防范**== `` `take precautions against` `` `` `as a precaution` `` ; ②==**谨慎；戒备**== `` `take the precaution of doing` `` `` `wise/sensible precaution` `` ;
 
 > [!tip] 原型义
 > **原型义**：事先采取的防范措施
@@ -119,8 +119,9 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "By comparison, the earlier building orders, regulations and codes did not go beyond some basic controls and general precautions against the danger of fire."（相比之下，早期的建筑命令、法规和规范没有超出一些基本的控制和对火灾危险的一般预防措施。）——考研高频表达
-> - "Unless precautions are taken, humans could act as vectors for a range of dangerous pathogens."（除非采取预防措施，否则人类可能成为一系列危险病原体的传播媒介。）——考研高频表达
+> - "By comparison, the earlier building orders, regulations and codes did not go beyond some basic controls and general precautions against the danger of fire." `` `[真题]` ``
+> - "Unless precautions are taken, humans could act as vectors for a range of dangerous pathogens." `` `[COCA-ACAD]` ``
+> - "Save your work often as a precaution against computer failure." `` `[COCA]` ``
 
 ---
 

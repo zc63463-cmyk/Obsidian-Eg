@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**外部的，外面的**== ; ②远离中心的 ;
+**adj.** ①==**外部的，外面的**== `outer space`; `outer layer`; ②==**远离中心的**== `outer suburbs`; `outer edge`;
 
 > [!tip] 原型义
 > **原型义**：外部的，外面的——位于表面或外侧的
@@ -123,8 +123,10 @@ out(外面) + -er(比较级后缀，"更…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The outer layers of the Earth are composed of solid rock."（地球的外层由坚硬的岩石构成。）——考研高频表达
-> - "The city's outer suburbs have expanded rapidly in recent decades."（该城市的外围郊区在近几十年迅速扩张。）——考研高频表达
+> - "The outer layers of the Earth are composed of solid rock." `[真题]`
+> - "The city's outer suburbs have expanded rapidly in recent decades." `[真题]`
+> - "The telescope can view the outer reaches of the solar system." `[COCA-ACAD]`
+> - "Voyager 1 and its twin, Voyager 2, launched in 1977 on a grand tour of the outer solar system." `[COCA-ACAD]`
 
 ---
 

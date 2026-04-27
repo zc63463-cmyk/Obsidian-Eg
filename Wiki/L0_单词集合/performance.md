@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**表现，业绩，工作情况**== ; ②表演，演出 ; ③性能（机器等）
+**n.** ①==**表现，业绩，工作情况**== `job performance` `academic performance` ; ②表演，演出 `live performance` `give a performance` ; ③性能（机器等）`high performance` `engine performance`
 
 > [!tip] 原型义
 > **原型义**：执行（perform）的过程或产生的结果
@@ -125,8 +125,10 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's performance in the third quarter exceeded expectations."（公司第三季度的业绩超出了预期。）——考研高频表达
-> - "Employee performance is evaluated on an annual basis."（员工的表现每年评估一次。）——考研高频表达
+> - She was fired for poor job performance. `[COCA]`
+> - Employees are given an annual performance assessment and evaluation. `[COCA-ACAD]`
+> - The gas additive improves engine performance significantly. `[COCA-ACAD]`
+> - The company's performance in the third quarter exceeded all expectations. `[COCA-NEWS]`
 
 ---
 

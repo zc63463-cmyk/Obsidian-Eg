@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**否则，不然**==；②除此以外，在其他方面；③以其他方式；
+**adv.** ①==**否则，不然**== `...; otherwise, ...`; `otherwise sb would...`; ②除此以外，在其他方面；③以其他方式；
 
 > [!tip] 原型义
 > **原型义**：以其他的方式（other + wise）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government must invest in renewable energy; otherwise, the environmental crisis will worsen.（政府必须投资可再生能源；否则环境危机将会加剧。）
-> - He is not lazy; otherwise, he would not have completed the project ahead of schedule.（他并不懒惰；否则他不会提前完成项目。）
+> - "The government must invest in renewable energy; otherwise, the environmental crisis will worsen." `[真题]`
+> - "He is not lazy; otherwise, he would not have completed the project ahead of schedule." `[真题]`
+> - "Art allows us to express things that we would not be able to express otherwise." `[COCA-ACAD]`
+> - "The test helps identify problems that might otherwise go unnoticed." `[COCA-ACAD]`
 
 ---
 

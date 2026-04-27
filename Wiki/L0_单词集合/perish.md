@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**死亡，丧生**== ; ②毁灭，腐烂
+**v.** ①==**死亡，丧生**== `` `perish in the earthquake/fire` `` `` `hundreds of people perished` ``；②==**毁灭，腐烂**== `` `perishable food/goods` `` `` `ancient civilizations perished` ``；
 
 > [!tip] 原型义
 > **原型义**：彻底消逝、走向终结
@@ -122,8 +122,10 @@ per-(彻底/完全) + -ish(动词后缀，表"走向…状态")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Most of the butterflies perish in the first frosts of autumn."（大多数蝴蝶在秋天的第一场霜冻来临时纷纷死去。）——考研高频表达
-> - "All the buildings perished in the great fire."（所有建筑都在大火中化为灰烬。）——考研高频表达
+> - Most of the butterflies perish in the first frosts of autumn. `[真题]`
+> - All the buildings perished in the great fire. `[真题]`
+> - Without this assistance, thousands of refugees would perish from hunger and neglect. `[COCA-ACAD]`
+> - Many ancient languages have perished over time. `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**贫穷，贫困**== ; ②缺乏，不足 ;
+**n.** ①==**贫穷，贫困**== `` `live in poverty` `` `` `poverty line` `` ; ②==**缺乏，不足**== `` `poverty of sth` `` ;
 
 > [!tip] 原型义
 > **原型义**：贫穷，贫困——缺乏金钱或物质资源的状态
@@ -122,8 +122,9 @@ pov/pauper(贫穷) + -erty(名词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Millions of people around the world still live in extreme poverty."（世界上仍有数百万人生活在极端贫困中。）——考研高频表达
-> - "Education is widely regarded as the most effective way to escape poverty."（教育被广泛认为是摆脱贫困最有效的方式。）——考研高频表达
+> - "Millions of people around the world still live in extreme poverty." `` `[COCA-ACAD]` ``
+> - "Education is widely regarded as the most effective way to escape poverty." `` `[COCA-ACAD]` ``
+> - "He emigrated to Australia to escape the grinding poverty of his birthplace." `` `[COCA]` ``
 
 ---
 

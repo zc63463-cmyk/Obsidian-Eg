@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**执行，履行，完成（任务、职责等）**== ; ②表演，演出 ; ③运转，表现（机器等）
+**v.** ①==**执行，履行，完成（任务、职责等）**== `perform a task/duty` `perform a function/role` ; ②表演，演出 `perform a play` `perform on stage` ; ③运转，表现（机器等）`perform well/poorly`
 
 > [!tip] 原型义
 > **原型义**：通过特定的形式（form）从头到尾彻底完成某事
@@ -128,8 +128,10 @@ per-(彻底/从头到尾) + form(形状/形式，与 [[fac]] 做/制造同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To be sure, he performs an impressive variety of interesting compositions."（可以肯定的是，他表演了令人印象深刻的各种有趣作品。）——考研真题
-> - "The surgeon performed a complex operation that lasted over ten hours."（外科医生进行了一场历时十多个小时的复杂手术。）——考研高频表达
+> - The surgeon who performed the operation said it had gone well. `[COCA-NEWS]`
+> - Computers are able to perform numerous tasks simultaneously. `[COCA-ACAD]`
+> - The two organizations perform similar functions within the industry. `[COCA-ACAD]`
+> - She performed her duties with diligence and professionalism. `[COCA-ACAD]`
 
 ---
 

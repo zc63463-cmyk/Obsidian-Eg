@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**悲观的，悲观主义的**==
+**adj.** ①==**悲观的，悲观主义的**== `` `be pessimistic about` `` `` `a pessimistic outlook/view` ``；
 
 > [!tip] 原型义
 > **原型义**：认为一切事物都会往最坏的方向发展
@@ -123,8 +123,9 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the last seven years, Americans have grown more pessimistic about the power of education to lead to success."（过去七年中，美国人对教育能带来成功的信心变得更加悲观。）——考研真题
-> - "Economists are increasingly pessimistic about the prospects for economic recovery."（经济学家对经济复苏的前景越来越悲观。）——考研高频表达
+> - In the last seven years, Americans have grown more pessimistic about the power of education to lead to success. `[真题]`
+> - The doctors are pessimistic about his chances of recovery. `[COCA-ACAD]`
+> - The pessimistic view is that the economic blowups are still to come. `[COCA-ACAD]`
 
 ---
 

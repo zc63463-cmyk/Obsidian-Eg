@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**积极的，正面的**== ; ②确定的，肯定的 ; ③正的，阳性的（数学/科学） ; ④确实的，明确的
+**adj.** ①==**积极的，正面的**== `` `positive attitude/effect/impact` `` ; ②确定的，肯定的 `` `be positive that...` `` / `` `positive proof/evidence` `` ; ③正的，阳性的（数学/科学） `` `positive number/charge` `` ; ④确实的，明确的 `` `a positive identification` ``
 
 > [!tip] 原型义
 > **原型义**：放置好的、确定的（被牢牢放定的）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study found a positive correlation between regular exercise and mental health."（研究发现，规律运动与心理健康之间存在正相关关系。）——考研高频表达
-> - "Despite the challenges, she maintained a positive attitude throughout the process."（尽管面临挑战，她始终保持着积极的态度。）——考研高频表达
+> - The study found a positive correlation between regular exercise and mental health. `[COCA-ACAD]`
+> - Despite the challenges, she maintained a positive attitude throughout the process. `[COCA-ACAD]`
+> - Advances in medicine have made it possible for people to live longer and maintain a positive quality of life. `[COCA-ACAD]`
 
 ---
 

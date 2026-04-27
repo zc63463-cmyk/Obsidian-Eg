@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**位置，方位**== ; ②职位，职务 ; ③立场，态度 ; ④处境，状况
-**v.** ①安置，放置 ;
+**n.** ①==**位置，方位**== `` `the position of sth./sb.` `` ; ②职位，职务 `` `apply for/hold a position` `` ; ③立场，态度 `` `take/adopt a position on sth.` `` ; ④处境，状况 `` `in a difficult/strong position` ``
+**v.** ①安置，放置 `` `position sth./sb. + adv.` `` ;
 
 > [!tip] 原型义
 > **原型义**：放置后所在的位置
@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is in a strong position to compete in the global market."（该公司在全球市场中处于有利的竞争地位。）——考研高频表达
-> - "She was offered a senior position at a leading technology firm."（她获得了一家领先科技公司的高级职位。）——考研高频表达
-> - "The government's position on immigration policy has evolved over time."（政府对移民政策的立场随着时间的推移发生了变化。）——考研高频表达
+> - The company is in a strong position to compete in the global market. `[COCA-ACAD]`
+> - Next week we will be in a much better position to comment on the results. `[COCA-ACAD]`
+> - The government's position on immigration policy has evolved over time. `[COCA-ACAD]`
 
 ---
 

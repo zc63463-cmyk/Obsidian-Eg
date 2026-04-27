@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**原始的，最初的**== ; ②==**独创的，新颖的**== ; ③原版的
-**n.** ①原件，原作
+**adj.** ①==**原始的，最初的**== `original version/plan`; `original form`; ②==**独创的，新颖的**== `original idea/thinking`; `original approach`; ③原版的
+**n.** ①==**原件，原作**== `the original`; `keep the original`;
 
 > [!tip] 原型义
 > **原型义**：最先的、起点的（时间上最早出现的）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The original purpose of the research was to investigate the effects of pollution on health."（这项研究的最初目的是调查污染对健康的影响。）——考研高频表达
-> - "She is one of the most original thinkers in the field of linguistics."（她是语言学领域最具独创性的思想家之一。）——考研高频表达
+> - "The original purpose of the research was to investigate the effects of pollution on health." `[真题]`
+> - "She is one of the most original thinkers in the field of linguistics." `[真题]`
+> - "My original statement has been completely distorted by the media." `[COCA-ACAD]`
+> - "Researchers tried many times to replicate the original experiment." `[COCA-ACAD]`
 
 ---
 

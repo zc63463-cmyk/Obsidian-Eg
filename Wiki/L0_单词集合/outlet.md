@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**出口，排放口**== ; ②==**发泄途径（情感）**== ; ③折扣商店，直销店 ;
+**n.** ①==**出口，排放口**== `power outlet`; `water outlet`; ②==**发泄途径（情感）**== `an outlet for emotions`; `emotional outlet`; ③折扣商店，直销店 ;
 
 > [!tip] 原型义
 > **原型义**：出口——让某物流出的通道或开口
@@ -122,8 +122,10 @@ out(向外) + let(让/允许) → "让…向外流出"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Young people need a creative outlet for their energy and emotions."（年轻人需要一个发挥精力和情感的创造性途径。）——考研高频表达
-> - "The internet has become an important outlet for public opinion."（互联网已成为公众舆论的重要渠道。）——考研高频表达
+> - "Young people need a creative outlet for their energy and emotions." `[真题]`
+> - "The internet has become an important outlet for public opinion." `[真题]`
+> - "They had few outlets for their creative or intellectual urges." `[COCA-ACAD]`
+> - "Technology has provided many new outlets for amateur writers and artists to share their work with a global audience." `[COCA-ACAD]`
 
 ---
 

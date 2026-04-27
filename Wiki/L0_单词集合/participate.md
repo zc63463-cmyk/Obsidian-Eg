@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**参与，参加**==（~ in）；②==**分享，分担**==（旧式用法）；
+**vi.** ①==**参与，参加**== `` `participate in a discussion` `` `` `actively participate in` ``（~ in）；②==**分享，分担**== `` `participate in the profits` ``（旧式用法）；
 
 > [!tip] 原型义
 > **原型义**：取得一部分（源自拉丁语 participare，由 pars "部分" + capere "取"构成，字面义为"取一部分"）
@@ -130,9 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students are encouraged to participate in class discussions."（鼓励学生参与课堂讨论）——考研阅读教育类话题高频表达
-> - "Over 500 people participated in the survey."（超过500人参与了调查）——学术/社会研究类语境
-> - "Women participated in the workforce in growing numbers."（越来越多的女性参与劳动力市场）——社会/经济类话题
+> - "Students are encouraged to participate in class discussions." `` `[COCA-ACAD]` ``
+> - "Over 500 people participated in the survey." `` `[COCA-NEWS]` ``
+> - "She never participates in any of our discussions." `` `[COCA-FICT]` ``
+> - "Kate has always participated fully in the life of the school." `` `[COCA-MAG]` ``
 
 ---
 

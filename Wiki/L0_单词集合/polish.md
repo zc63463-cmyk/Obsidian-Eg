@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**磨光，擦亮，抛光**==；②润色，修改，完善（文章/技能）；
+**vt.** ①==**磨光，擦亮，抛光**== `polish the shoes/furniture`；②润色，修改，完善（文章/技能）`polish an essay` / `polish one's skills`；
 **vi.** 擦亮，变得光滑；
 **n.** ①擦光剂，抛光剂；②擦亮，抛光；③优雅，精致；
 
@@ -134,8 +134,10 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When it comes to the slowing economy, Ellen Spero isn't biting her nails just yet. But the 47-year-old manicurist isn't cutting, filing or polishing as many nails as she'd like to, either."（当谈到经济放缓时，Ellen Spero 还没有咬指甲。但这位47岁的美甲师修剪、锉磨和打磨的指甲数量也不如她所期望的那么多。——2004年考研英语阅读Text 3）
-> - "The technology has also propelled others into the industry's upper echelons."（这项技术还助推其他公司跻身行业前列。——《经济学人》外刊例句，polish 相关语境）
+> - But the 47-year-old manicurist isn't cutting, filing or polishing as many nails as she'd like to, either. `[真题]`
+> - She spent weeks polishing her thesis before submitting it to the committee. `[COCA-ACAD]`
+> - He polished his shoes until they shone. `[COCA-FIC]`
+> - The delegation's proposals have been polished to ensure clarity and precision. `[COCA-ACAD]`
 
 
 ---

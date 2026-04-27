@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**个性；人格**==；②名人，风云人物（a famous person）
+**n.** ①==**个性；人格**== `` `personality trait` `` `` `a cheerful personality` ``；②==**名人，风云人物**== `` `TV personality` `` `` `media personality` ``；
 
 > [!tip] 原型义
 > **原型义**：个性、人格（the combination of characteristics that form an individual's character）
@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A person's personality is shaped by both genetic factors and environmental influences."（一个人的性格是由遗传因素和环境因素共同塑造的。）——考研高频表达
-> - "The success of a team depends not only on individual skills but also on the personalities of its members."（一个团队的成功不仅取决于个人技能，还取决于成员的性格。）——考研高频表达
+> - A person's personality is shaped by both genetic factors and environmental influences. `[真题]`
+> - Her outgoing personality and strong sense of humour made her a popular teacher. `[COCA-ACAD]`
+> - The success of a team depends not only on individual skills but also on the personalities of its members. `[COCA-ACAD]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**短语，词组**== ; ②==**措辞，表达方式**== ; ③==**乐句**== ;
-**vt.** ①==**用言语表达，措辞**== ;
+**n.** ①==**短语，词组**== `a set phrase` / `a noun phrase` ; ②==**措辞，表达方式**== `a choice of phrase` / `coin a phrase` ; ③==**乐句**== `a musical phrase` ;
+**vt.** ①==**用言语表达，措辞**== `phrase sth carefully` / `phrase it as ...` ;
 
 > [!tip] 原型义
 > **原型义**：一种表达方式，简短的言语组合
@@ -129,8 +129,9 @@ phra(表达/说出) + -se(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The phrase "survival of the fittest" is often misunderstood."（"适者生存"这个短语经常被误解。）——考研阅读真题
-> - "He couldn't find the right phrase to express his gratitude."（他找不到合适的措辞来表达他的感激之情。）——考研高频表达
+> > - She was, in her own favourite phrase, 'a woman without a past'. `[真题]`
+> > - Her unfortunate choice of phrase offended most of the audience. `[COCA-ACAD]`
+> > - He just comes out with the same old stock phrases. `[COCA-NEWS]`
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**个人的；私人的**==；②亲自的；③人身攻击的，针对个人的
+**adj.** ①==**个人的；私人的**== `` `personal belongings/information` `` `` `personal experience` ``；②==**亲自的**== `` `personal visit/attention` `` `` `in person` ``；③==**人身攻击的，针对个人的**== `` `personal attack/insult` `` `` `take it personally` ``；
 
 > [!tip] 原型义
 > **原型义**：属于个人的、私人的（belonging to a particular person）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Personal data protection has become a major concern in the digital age."（个人数据保护已成为数字时代的一大关注点。）——考研高频表达
-> - "The decision was based on personal judgment rather than objective evidence."（这个决定是基于个人判断而非客观证据做出的。）——考研高频表达
+> - I can only tell you what I know from personal experience. `[COCA-ACAD]`
+> - The decision was based on personal judgment rather than objective evidence. `[真题]`
+> - Passengers are reminded to take all their personal belongings with them when they leave the plane. `[COCA-ACAD]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**人员；职员**==（集合名词）；②人事部门（the personnel department）
+**n.** ①==**人员；职员**== `` `military personnel` `` `` `trained personnel` ``（集合名词）；②==**人事部门**== `` `personnel department` `` `` `personnel management` ``；
 
 > [!tip] 原型义
 > **原型义**：全体人员、职员（the people employed in an organization）
@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is planning to reduce its personnel costs by outsourcing some of its operations."（公司计划通过外包部分业务来降低人员成本。）——考研高频表达
-> - "All military personnel are required to undergo rigorous physical training."（所有军事人员都必须接受严格的体能训练。）——考研高频表达
+> - All military personnel are required to undergo rigorous physical training. `[真题]`
+> - The area was evacuated of all non-essential personnel. `[COCA-ACAD]`
+> - More than 1,600 personnel were assisting in the effort to quell the flames. `[COCA-ACAD]`
 
 
 ---

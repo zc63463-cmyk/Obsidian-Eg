@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**平行的**==；②==**相似的，类似的**==；③==**同时发生的**==；
-**n.** ①==**平行线，平行面**==；②==**相似处，可相比拟的事物**==；③==**纬线**==；
-**vt.** ①==**与……相似，与……平行**==；②==**与……比较**==；
+**adj.** ①==**平行的**== `` `parallel to/with` ``；②==**相似的，类似的**== `` `parallel development` `` `` `a career parallel to` ``；③==**同时发生的**== `` `in parallel (with)` ``；
+**n.** ①==**平行线，平行面**== `` `parallel lines` ``；②==**相似处，可相比拟的事物**== `` `draw a parallel between` `` `` `a parallel to` ``；③==**纬线**==；
+**vt.** ①==**与……相似，与……平行**== `` `parallel A with B` ``；②==**与……比较**== `` `parallel A to B` ``；
 
 > [!tip] 原型义
 > **原型义**：彼此在旁边、互不相交（源自希腊语"一个在另一个旁边"）
@@ -139,9 +139,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are interesting parallels between the two cases."（这两个案件之间有有趣的相似之处）——考研阅读常见句式，用于比较分析
-> - "The two processes run in parallel."（两个过程并行运行）——科技/学术类阅读语境
-> - "a career parallel to her father's"（与她父亲相似的职业道路）——人物传记类文本
+> - "There are interesting parallels between the two cases." `` `[COCA-ACAD]` ``
+> - "The two processes run in parallel." `` `[COCA-ACAD]` ``
+> - "The road is parallel to the river." `` `[COCA-FICT]` ``
+> - "The author drew a parallel between the characters in the two novels." `` `[COCA-ACAD]` ``
+> - "This tradition has no parallel in our culture." `` `[COCA-ACAD]` ``
 
 ---
 

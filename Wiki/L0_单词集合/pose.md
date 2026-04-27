@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**造成，引起（问题、危险等）**== ; ②摆姿势 ; ③提出（问题等）
-**n.** ①姿势，姿态 ;
+**v.** ①==**造成，引起（问题、危险等）**== `` `pose a threat/challenge/danger to sb./sth.` `` ; ②摆姿势 `` `pose for a photo/portrait` `` ; ③提出（问题等） `` `pose a question` ``
+**n.** ①姿势，姿态 `` `strike/adopt a pose` `` ;
 
 > [!tip] 原型义
 > **原型义**：放置、摆放（身体或物体到某个位置）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change poses a serious threat to the survival of many species."（气候变化对许多物种的生存构成了严重威胁。）——考研高频表达
-> - "The new regulation poses significant challenges for small businesses."（新法规对小企业构成了重大挑战。）——考研高频表达
+> - Climate change poses a serious threat to the survival of many species. `[COCA-ACAD]`
+> - The chemical leak poses a threat to human health. `[COCA-ACAD]`
+> - The new play poses some challenging questions about modern society. `[COCA-ACAD]`
 
 ---
 

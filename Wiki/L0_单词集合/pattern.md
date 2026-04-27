@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**模式，样式**==；②==**图案，花样**==；③==**规律，格局**==；④==**典范，模范**==；
-**vt.** ①==**模仿，仿制**==；②==**以图案装饰**==；
-**adj.** ①==**模仿的**==；
+**n.** ①==**模式，样式**== `` `a pattern of N` `` `` `N pattern` ``；②==**图案，花样**== `` `adj. + pattern` `` `` `geometric pattern` ``；③==**规律，格局**== `` `identify a pattern` `` `` `underlying pattern` ``；④==**典范，模范**== `` `a pattern for N` ``；
+**vt.** ①==**模仿，仿制**== `` `pattern oneself on N` ``；②==**以图案装饰**== `` `pattern sth. with N` ``；
+**adj.** ①==**模仿的**== `` `patterned adj.` ``；
 
 > [!tip] 原型义
 > **原型义**：供人模仿的模型/范本（先有一个原型，后人照着做）
@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a pattern of behavior"（行为模式）——考研阅读高频搭配，社会心理学类话题
-> - "consumption patterns have changed dramatically"（消费模式发生了巨大变化）——经济类阅读常见表达
-> - "identify the underlying pattern"（识别潜在规律）——学术研究类阅读语境
+> - "Consumption patterns have changed dramatically over the past decade." `` `[COCA-ACAD]` ``
+> - "Researchers identified a pattern of behavior that was consistent across all participants." `` `[COCA-ACAD]` ``
+> - "The study aims to identify the underlying pattern in the data." `` `[真题]` ``
 
 ---
 

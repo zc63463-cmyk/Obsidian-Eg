@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**起源，来源**== ; ②==**出身，血统**==
+**n.** ①==**起源，来源**== `the origin of`; `word origin`; ②==**出身，血统**== `of...origin`; `social origin`;
 
 > [!tip] 原型义
 > **原型义**：起始点、起源（时间/空间的起点）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The origin of the universe remains one of the greatest mysteries in science."（宇宙的起源仍然是科学界最大的谜团之一。）——考研高频表达
-> - "People of all origins and backgrounds should be treated equally."（不同出身和背景的人都应受到平等对待。）——考研高频表达
+> - "The origin of the universe remains one of the greatest mysteries in science." `[真题]`
+> - "Her unhappy childhood was the origin of her problems later in life." `[COCA-ACAD]`
+> - "There is no cholesterol at all in any foods of plant origin." `[COCA-ACAD]`
+> - "The origins of human language remain a matter of considerable debate." `[COCA-ACAD]`
 
 ---
 

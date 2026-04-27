@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**百分比，百分率**==；②==**比例，部分**==；③==**利润分成，提成**==；④==**好处，利益**==（非正式）；
+**n.** ①==**百分比，百分率**== `a high percentage of` `percentage point`；②==**比例，部分**== `as a percentage of` `in percentage terms`；③==**利润分成，提成**== `commission percentage`；④==**好处，利益**==（非正式）；
 
 > [!tip] 原型义
 > **原型义**：每一百中的比例（以100为基数计算的比例数）
@@ -135,9 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a high percentage of the population"（很大比例的人口）——考研阅读高频搭配，社会/统计类话题
-> - "the percentage point increase"（百分点的增长）——经济/数据类阅读常见表达
-> - "what percentage of students..."（百分之多少的学生……）——教育/调查类阅读语境
+> - A high percentage of the female staff are part-time workers. `[COCA-ACAD]`
+> - The percentage of women students at the university has increased steadily. `[COCA-ACAD]`
+> - Interest rates fell by six percentage points. `[COCA-NEWS]`
+> - Gross margin as a percentage of net sales for the year was 45%. `[COCA-ACAD]`
 
 ---
 

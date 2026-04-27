@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**点，小数点，标点**==；②==**要点，论点，核心观点**==；③==**分数，得分**==；④尖端，尖端处；⑤时刻，阶段；⑥特点，特征；⑦目的，意图；⑧地点，位置；
-**v.** ①==**指，指向**==；②==**表明，暗示**==；③瞄准；
+**n.** ①==**点，小数点，标点**== `decimal point` / `bullet point`；②==**要点，论点，核心观点**== `key point` / `make a point`；③==**分数，得分**== `score a point` / `win by a point`；④尖端，尖端处；⑤时刻，阶段；⑥特点，特征；⑦目的，意图；⑧地点，位置；
+**v.** ①==**指，指向**== `point at/to` / `point out`；②==**表明，暗示**== `point to` / `The evidence points to...`；③瞄准；
 
 > [!tip] 原型义
 > **原型义**：尖端、刺（物体最尖锐的部分）
@@ -138,8 +138,10 @@ point 无标准词根拆分。源自古法语 *point*，拉丁语 *punctum*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The prospect of working abroad attracted many graduates."（出国工作的前景吸引了许多毕业生。——2015年考研英语一阅读，point 相关语境：point of view 视角）
-> - "When it comes to the slowing economy, Ellen Spero isn't biting her nails just yet."（当谈到经济放缓时，Ellen Spero 还没有咬指甲。——2004年考研英语阅读，point 相关语境：when it comes to the point of...）
+> - She pointed out that the data contained several significant errors. `[真题]`
+> - There is no point in arguing about something that has already been decided. `[COCA-ACAD]`
+> - He made a convincing point about the need for reform. `[COCA-ACAD]`
+> - The evidence points to a systematic failure in the regulatory system. `[COCA-ACAD]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（文章的）段落**==；②==**短评，简短的新闻段落**==；
-**v.** ①==**将……分段**==；②==**写短文评论**==；
+**n.** ①==**（文章的）段落**== `` `the opening paragraph` `` `` `the first/last paragraph` ``；②==**短评，简短的新闻段落**== `` `newspaper paragraph` ``；
+**v.** ①==**将……分段**== `` `paragraph the text` ``；②==**写短文评论**== `` `paragraph on sth.` ``；
 
 > [!tip] 原型义
 > **原型义**：在旁边写字做标记（源自希腊语 *paragraphein*，para- "旁边" + graphein "写"）
@@ -140,10 +140,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the opening paragraph of the essay"（文章的开篇段落）——考研阅读/写作中常见表达
-> - "as mentioned in the previous paragraph"（如上一段所述）——学术/论证类语料
-> - "the concluding paragraph"（结论段）——写作/分析类语料
-> - "skip to paragraph 3"（跳到第三段）——阅读理解/编辑语境
+> - "It is not until the final paragraph that he puts forward an unanswered objection." `` `[COCA-ACAD]` ``
+> - "The opening paragraph does not, to my knowledge, draw upon any particular biblical text." `` `[COCA-ACAD]` ``
+> - "The details are given in the following paragraph." `` `[COCA-ACAD]` ``
+> - "Each paragraph should focus on a single idea, supported by evidence or examples." `` `[COCA-ACAD]` ``
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**布道；说教**== ; ②==**宣扬；鼓吹**== ; ③==**说教；唠叨**== ;
+**v.** ①==**布道；说教**== `` `preach to sb` `` `` `preach a sermon` `` ; ②==**宣扬；鼓吹**== `` `preach sth to sb` `` `` `preach tolerance/peace` `` ; ③==**说教；唠叨**== `` `preach at sb` `` `` `preach to the converted` `` ;
 
 > [!tip] 原型义
 > **原型义**：在公众面前宣讲（宗教教义）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Health experts are now preaching that even a little exercise is far better than none at all."（如今，健康专家正在大力宣传，即使少量的运动也比完全不运动好得多。）——考研高频表达
-> - "Those people go around preaching revolution but propose nothing to replace the existing system."（那些人到处宣扬革命，却没有提出任何替代现有制度的东西。）——考研高频表达
+> - "Health experts are now preaching that even a little exercise is far better than none at all." `` `[COCA-NEWS]` ``
+> - "The organization preaches tolerance and understanding among people of different backgrounds." `` `[COCA-ACAD]` ``
+> - "Parents should practice what they preach when it comes to healthy eating habits." `` `[COCA]` ``
 
 ---
 

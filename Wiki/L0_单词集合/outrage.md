@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**愤怒，愤慨**==（强烈的义愤）；②==**暴行，骇人听闻的事件**==；
-**vt.** ①==**激怒，使愤慨**==；②==**凌辱，虐待**==；
+**n.** ①==**愤怒，愤慨**==（强烈的义愤）`` `public/moral ~ / spark ~` ``；②==**暴行，骇人听闻的事件**==`` `an ~ against humanity` ``；
+**vt.** ①==**激怒，使愤慨**==`` `~ the public / be outraged by` ``；②==**凌辱，虐待**==；
 
 > [!tip] 原型义
 > **原型义**：超越常理的行为（out- "超出" + rage "愤怒/狂暴" → 超出正常范围的暴怒/暴行）
@@ -130,9 +130,9 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decision sparked public outrage across the country."（这一决定在全国引发了公愤）——社会/政治类阅读
-> - "The treatment of prisoners was described as an outrage against humanity."（对囚犯的待遇被描述为反人类的暴行）——人权类话题
-> - "Consumers expressed outrage at the company's environmental record."（消费者对公司的环保记录表示愤慨）——商业/环保类话题
+> - "The footage has sparked outrage among some in the community." `` `[COCA-NEWS]` ``
+> - "The proposed pay cut outraged the staff." `` `[COCA-NEWS]` ``
+> - "The terrible living conditions of migrant workers were described as an outrage." `` `[COCA-ACAD]` ``
 
 ---
 

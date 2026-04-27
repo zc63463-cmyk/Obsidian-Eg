@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**时期，阶段，一段时间**== ; ②学时，课时 ; ③句号 ; ④周期，月经
+**n.** ①==**时期，阶段，一段时间**== `a period of time` `period of transition` ; ②学时，课时 `class period` ; ③句号 `put a period to` ; ④周期，月经 `menstrual period`
 
 > [!tip] 原型义
 > **原型义**：绕行一周回到起点的一段时间/周期
@@ -128,8 +128,10 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "During the period of economic recession, unemployment rates soared."（在经济衰退期间，失业率飙升。）——考研高频表达
-> - "The research covers a period of twenty years."（这项研究涵盖了二十年的时间。）——考研高频表达
+> - The company experienced rapid growth over a short period of time. `[COCA-ACAD]`
+> - During the period of economic recession, unemployment rates soared dramatically. `[COCA-ACAD]`
+> - The country is going through a difficult period of transition. `[COCA-NEWS]`
+> - Neanderthals also became extinct during this period. `[COCA-ACAD]`
 
 ---
 

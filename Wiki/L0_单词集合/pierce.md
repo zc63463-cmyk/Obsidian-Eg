@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**刺穿，穿透**== ; ②==**（声音、光线等）穿透，响彻**== ; ③==**打破（沉默、寂静等）**== ;
-**vi.** ①==**穿入，刺入**== ;
+**vt.** ①==**刺穿，穿透**== `pierce sth with sth` / `pierce through` ; ②==**（声音、光线等）穿透，响彻**== `a scream pierces the silence` / `pierce the darkness` ; ③==**打破（沉默、寂静等）**== `pierce the silence/calm` ;
+**vi.** ①==**穿入，刺入**== `pierce into/through` ;
 
 > [!tip] 原型义
 > **原型义**：用尖锐物刺穿某物
@@ -130,8 +130,9 @@ pierce ← 古法语 percer ← 拉丁语 pertusus（穿孔的），与 [[fac]](
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The needle pierced through the thick fabric."（针穿透了厚厚的布料。）——考研高频表达
-> - "Her piercing gaze made everyone uncomfortable."（她锐利的目光让所有人都感到不舒服。）——考研高频表达
+> > - One bullet pierced the left side of his chest. `[真题]`
+> > - A scream pierced the silence of the night. `[COCA-NEWS]`
+> > - The sunlight pierced through the clouds. `[COCA-ACAD]`
 
 ---
 

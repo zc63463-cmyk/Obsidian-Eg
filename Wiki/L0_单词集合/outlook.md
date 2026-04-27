@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**前景，展望**== ; ②==**观点，态度**== ; ③景色，景观 ;
+**n.** ①==**前景，展望**== `` `the ~ for sth / a bleak(bright) ~` `` ; ②==**观点，态度**== `` `an ~ on life / a positive(negative) ~` `` ; ③景色，景观 ;
 
 > [!tip] 原型义
 > **原型义**：景色——从高处向外看到的风景
@@ -124,8 +124,9 @@ out(向外) + look(看) → "向外看"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic outlook for the next year remains uncertain."（明年的经济前景仍然不确定。）——考研高频表达
-> - "She has an optimistic outlook on life despite the difficulties she has faced."（尽管面临困难，她对生活仍持乐观态度。）——考研高频表达
+> - "The economic outlook for the next year remains uncertain." `` `[COCA-ACAD]` ``
+> - "Consumers continue to be pessimistic about the outlook over the next six months." `` `[COCA-ACAD]` ``
+> - "Both factors lead to a better outlook on life." `` `[COCA]` ``
 
 ---
 

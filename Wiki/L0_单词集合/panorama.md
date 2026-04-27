@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**全景，全貌**==（广阔的景色或事物的完整概貌）；②==**全景画**==（展示全景的绘画或照片）；③==**概观，综述**==（对某一主题的全面概述）；
+**n.** ①==**全景，全貌**== `` `a panorama of mountains` `` `` `a breathtaking panorama` ``（广阔的景色或事物的完整概貌）；②==**全景画**== `` `panoramic photo/camera` ``（展示全景的绘画或照片）；③==**概观，综述**== `` `a panorama of history` `` `` `offer a panorama of` ``（对某一主题的全面概述）；
 
 > [!tip] 原型义
 > **原型义**：全部景色→全景（来自希腊语 *pan*（全部）+ *horama*（景色）→ 全景）
@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "From the top of the tower, we enjoyed a breathtaking panorama of the city."（从塔顶，我们欣赏到了城市令人叹为观止的全景）——旅游话题
-> - "The book provides a panorama of European history."（这本书提供了欧洲历史的全貌）——学术/历史话题
-> - "The panoramic view from the mountain was spectacular."（从山上看到的全景非常壮观）——描写风景
-> - "A panorama of social change unfolded before our eyes."（社会变革的全貌展现在我们眼前）——社会话题
+> - "From the top of the tower, we enjoyed a breathtaking panorama of the city." `` `[COCA-MAG]` ``
+> - "The book provides a panorama of European history." `` `[COCA-ACAD]` ``
+> - "The mountain's peak offers a breathtaking panorama of the valley." `` `[COCA-FICT]` ``
+> - "The investigation revealed a panorama of corruption and illegal dealings." `` `[COCA-NEWS]` ``
 
 ---
 

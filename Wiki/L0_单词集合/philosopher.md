@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**哲学家**== ; ②==**善于思考的人，达观的人**== ;
+**n.** ①==**哲学家**== `a Greek/ancient philosopher` / `philosophers of science` ; ②==**善于思考的人，达观的人**== `be a philosopher about sth` ;
 
 > [!tip] 原型义
 > **原型义**：爱智慧的人，追求真理与知识的人
@@ -124,8 +124,9 @@ phil(爱) + soph(智慧) + -er(做…的人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Ancient Greek philosophers laid the foundation for Western thought."（古希腊哲学家为西方思想奠定了基础。）——考研阅读真题
-> - "The philosopher argued that happiness is the ultimate goal of human life."（这位哲学家认为幸福是人生的终极目标。）——考研高频表达
+> > - Have philosophers not offered us profound advice on practical questions such as how to live and what to value? `[真题]`
+> > - There came a time when philosophers of science decided that they really had to know a lot of current science from the inside. `[COCA-ACAD]`
+> > - To paraphrase one of the great philosophers: we think, therefore we are. `[COCA-NEWS]`
 
 ---
 

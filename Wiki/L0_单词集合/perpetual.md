@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**永久的，永恒的，长期的**== ; ②无休止的，没完没了的
+**adj.** ①==**永久的，永恒的，长期的**== `` `perpetual motion/peace` `` `` `a perpetual state of` ``；②==**无休止的，没完没了的**== `` `perpetual complaints/noise` `` `` `in a perpetual cycle of` ``；
 
 > [!tip] 原型义
 > **原型义**：贯穿始终、永远持续的
@@ -124,8 +124,10 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such policies only perpetuate inequality in society."（这类政策只会让社会不平等持续加剧。）——2017考研英语一Text3
-> - "The city is in a state of perpetual motion, never sleeping."（这座城市处于永恒的运动状态，从不沉睡。）——考研高频表达
+> - Such policies only perpetuate inequality in society. `[真题]`
+> - The country seems to be in a perpetual state of chaos. `[COCA-ACAD]`
+> - Government and parliament are in a state of perpetual conflict. `[COCA-ACAD]`
+> - The capital stock is derived by the perpetual inventory method. `[COCA-ACAD]`
 
 ---
 

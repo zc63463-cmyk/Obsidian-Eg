@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**起源，发源**==（originate in/from）
-**vt.** ①==**创造，创始**==
+**vi.** ①==**起源，发源**== `originate in/from`; `originate with`;
+**vt.** ①==**创造，创始**== `originate a theory/practice`;
 
 > [!tip] 原型义
 > **原型义**：从起点升起、发源（从太阳"升起"引申）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tradition is believed to have originated in ancient China."（人们认为这一传统起源于古代中国。）——考研高频表达
-> - "The disease is thought to have originated in tropical regions."（这种疾病被认为起源于热带地区。）——考研高频表达
+> - "The tradition is believed to have originated in ancient China." `[真题]`
+> - "The disease is thought to have originated in tropical regions." `[真题]`
+> - "The idea for the opera originated after his return from the war." `[COCA-ACAD]`
+> - "This self-sabotaging behavior originates from our fear of failure." `[COCA-ACAD]`
 
 ---
 

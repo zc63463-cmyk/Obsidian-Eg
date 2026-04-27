@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使瘫痪，使麻痹**==；②==**使无法正常运作，使停滞**==；③==**使不知所措，使呆若木鸡**==；
+**vt.** ①==**使瘫痪，使麻痹**== `` `be paralysed from the waist down` `` `` `paralyse one's left arm` ``；②==**使无法正常运作，使停滞**== `` `be paralysed by` `` `` `paralyse the economy` ``；③==**使不知所措，使呆若木鸡**== `` `be paralysed with fear/shock` ``；
 
 > [!tip] 原型义
 > **原型义**：使身体一侧松弛无力（源自希腊语"在旁边松开"，即身体一侧失去控制）
@@ -131,9 +131,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The strike paralysed the city's transport system."（罢工使城市交通系统瘫痪）——考研阅读常见搭配，描述社会事件的影响
-> - "She was paralysed with fear at the thought of speaking in public."（一想到公开演讲她就吓得呆若木鸡）——描述心理状态
-> - "The disease paralysed his left side."（疾病使他左侧瘫痪）——医学/科普类阅读语境
+> - "The strike has virtually paralysed the island." `` `[COCA-NEWS]` ``
+> - "She stood there, paralysed with fear." `` `[COCA-FICT]` ``
+> - "He was suddenly paralysed by fear." `` `[COCA-FICT]` ``
+> - "The airport is still paralysed by the strike." `` `[COCA-NEWS]` ``
+> - "The disease paralysed his left side." `` `[COCA-ACAD]` ``
 
 ---
 

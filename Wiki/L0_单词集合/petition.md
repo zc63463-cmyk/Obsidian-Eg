@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**请愿书**== ; ②==**请愿，祈求**==
-**vt.** ①==**向……请愿**== ; ②==**祈求，请求**==
+**n.** ①==**请愿书**== `` `sign a petition` `` `` `file a petition` `` ; ②==**请愿，祈求**== `` `present a petition to` `` `` `a petition for divorce` ``
+**vt.** ①==**向……请愿**== `` `petition the government/parliament` `` `` `petition sb. to do sth.` `` ; ②==**祈求，请求**== `` `petition for sth.` ``；
 
 > [!tip] 原型义
 > **原型义**：寻求、请求（向下位者向上位者寻求帮助）
@@ -124,8 +124,9 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The residents signed a petition to protest against the construction of a new highway."（居民们签署了一份请愿书，抗议修建新高速公路。）——考研高频表达
-> - "A petition was filed with the court to review the case."（已向法院提交了一份请愿书，要求重新审理此案。）——考研高频表达
+> - More than 30,000 people have signed an online petition to keep them in charge. `[COCA-ACAD]`
+> - They plan to petition the governor to increase funding for the project. `[COCA-ACAD]`
+> - She's filing a petition for divorce. `[COCA-ACAD]`
 
 ---
 

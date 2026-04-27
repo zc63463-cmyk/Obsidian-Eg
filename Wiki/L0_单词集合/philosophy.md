@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**哲学**== ; ②==**人生哲学，生活信条**== ; ③==**（某一学科的）基本原理**== ;
+**n.** ①==**哲学**== `a degree in philosophy` / `moral philosophy` ; ②==**人生哲学，生活信条**== `a philosophy of life` / `one's philosophy is that ...` ; ③==**（某一学科的）基本原理**== `the philosophy of science` / `a design philosophy` ;
 
 > [!tip] 原型义
 > **原型义**：对智慧的爱与追求
@@ -130,8 +130,9 @@ phil(爱) + soph(智慧) + -y(名词后缀，表示"…的学问/状态")
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The philosophy of science examines the foundations and methods of scientific inquiry."（科学哲学审视科学探究的基础和方法。）——考研阅读真题
-> - "Her personal philosophy is that hard work always pays off in the end."（她的个人信条是努力工作最终总会有回报。）——考研高频表达
+> > - Her degree is in philosophy and religion. `[真题]`
+> > - Natural philosophy was supposed to lead to moral virtue, to modesty and religious reverence. `[COCA-ACAD]`
+> > - My life philosophy is to relish what you have, but always strive to better yourself. `[COCA-NEWS]`
 
 ---
 

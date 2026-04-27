@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恳求；请求**==；②==**答辩；辩解**==；③（法律）==**抗辩；申诉**==（如 not guilty plea 不认罪答辩）；
+**n.** ①==**恳求；请求**== `make a plea for sth` / `an emotional plea` ;②==**答辩；辩解**== `a plea of insanity` ;③（法律）==**抗辩；申诉**== `enter a guilty/not guilty plea` / `a plea bargain` ;
 
 > [!tip] 原型义
 > **原型义**：恳求、请求——在法律或正式场合中向权威方提出的请求或申辩
@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The defendant made an emotional plea for mercy."（被告含泪恳求宽恕。）——考研阅读真题
-> - "Her plea for help went unanswered."（她的求助没有得到回应。）——考研高频表达
+> > - The parents made an emotional plea to their child's kidnappers. `[真题]`
+> > - The jury rejected his plea of insanity. `[COCA-NEWS]`
+> > - Three of the charges were dismissed in exchange for his guilty plea. `[COCA-NEWS]`
 
 ---
 

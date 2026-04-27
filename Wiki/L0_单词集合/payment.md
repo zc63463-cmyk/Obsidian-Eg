@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**支付，付款**==；②==**支付的款项，报酬**==；③==**报偿，惩罚**==；
+**n.** ①==**支付，付款**== `make a payment` `payment in advance`；②==**支付的款项，报酬**== `monthly payment` `down payment`；③==**报偿，惩罚**== `the payment for one's sins`；
 
 > [!tip] 原型义
 > **原型义**：支付的行为或金额（pay 的名词形式，将"付出以换取平静"的动作实体化为行为和金额）
@@ -136,9 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "monthly mortgage payments"（每月房贷还款）——经济/社会类阅读常见表达
-> - "down payment on a house"（购房首付）——经济类阅读高频搭配
-> - "the payment for environmental damage"（对环境破坏的代价/赔偿）——环保类阅读语境
+> - Payment can be made by cheque or credit card. `[COCA-ACAD]`
+> - The family spends about $1,800 a month on their mortgage payments. `[COCA]`
+> - Flood victims received a one-time payment of $2,000 from the government. `[COCA-NEWS]`
+> - She demanded payment in advance before starting the work. `[COCA]`
 
 ---
 

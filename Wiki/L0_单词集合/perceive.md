@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**感知，察觉**==；②==**认为，理解**==；③==**意识到**==；
+**vt.** ①==**感知，察觉**== `perceive a change/difference` `perceive the need for`；②==**认为，理解**== `perceive sth. as sth.` `be perceived as`；③==**意识到**==；
 
 > [!tip] 原型义
 > **原型义**：完全抓住（通过感官彻底获取信息，牢牢把握住）
@@ -132,9 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "how the public perceives the issue"（公众如何看待这个问题）——考研阅读高频搭配，社会/舆论类话题
-> - "perceived as a threat"（被视为威胁）——政治/国际关系类阅读常见表达
-> - "perceive a subtle change in the climate"（察觉到气候的微妙变化）——科普/环保类阅读语境
+> - Although the man paints well, he does not perceive himself as an artist. `[COCA]`
+> - We cannot allow ourselves to perceive every refugee as a potential terrorist. `[COCA-NEWS]`
+> - She noted that when we see him, he is usually depicted in roles that we are culturally conditioned to perceive as male. `[COCA-ACAD]`
+> - At stake are jobs and the way the people of Europe perceive the EU. `[COCA-ACAD]`
 
 ---
 

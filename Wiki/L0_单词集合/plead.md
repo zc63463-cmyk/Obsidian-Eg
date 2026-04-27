@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**恳求；乞求**==；②==**（在法庭上）申辩；答辩**==；③以……为借口（plead ignorance 以不知情为借口）；
+**v.** ①==**恳求；乞求**== `plead with sb. to do sth.` / `plead for sth.`；②==**（在法庭上）申辩；答辩**== `plead guilty/not guilty` / `plead to a charge`；③以……为借口（plead ignorance 以不知情为借口）`plead ignorance/illness`；
 
 > [!tip] 原型义
 > **原型义**：恳求、乞求——在法律或正式场合中向权威方提出的请求或申辩
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "He pleaded guilty to the charges in court."（他在法庭上对指控认罪。）——考研阅读真题
-> - "The organization pleaded with the government to provide more funding for education."（该组织恳请政府为教育提供更多资金。）——考研高频表达
+> - He pleaded guilty to the charges in court. `[真题]`
+> - She pleaded with him to change his mind. `[COCA-ACAD]`
+> - The organization pleaded with the government to provide more funding for education. `[COCA-ACAD]`
+> - He pleaded ignorance of the law when questioned by the investigators. `[COCA-NEWS]`
 
 ---
 

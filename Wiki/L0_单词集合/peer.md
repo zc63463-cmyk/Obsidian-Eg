@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**同龄人，同等地位的人**==；②==**贵族**==（英国用法）；
-**vi.** ①==**凝视，盯着看**==；②==**隐现，浮现**==；
+**n.** ①==**同龄人，同等地位的人**== `peer pressure` `peer review`；②==**贵族**==（英国用法）`House of Peers`；
+**vi.** ①==**凝视，盯着看**== `peer through` `peer at`；②==**隐现，浮现**==；
 
 > [!tip] 原型义
 > **原型义**：地位相等的人（在等级、地位、年龄等方面与某人处于同一水平的人）
@@ -139,9 +139,10 @@ peer（动词，凝视）的词源存在争议，可能来自中古英语 *piere
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "peer pressure among adolescents"（青少年之间的同辈压力）——考研阅读高频话题，教育/心理学类
-> - "peer-reviewed journals"（同行评审期刊）——学术/科研类阅读常见表达
-> - "peer through the fog"（透过雾气凝视）——文学/描写类阅读语境
+> - Children are worried about failing in front of their peers. `[COCA-ACAD]`
+> - Young people sometimes drink alcohol because of peer pressure. `[COCA]`
+> - A peer review system is being introduced to help teachers who are experiencing difficulty. `[COCA-ACAD]`
+> - She is highly respected by her professional peers. `[COCA-ACAD]`
 
 ---
 

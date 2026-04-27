@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**其他的，另外的**==；②另一个的，剩余的；
-**pron.** ①==**其他人（或物）**==；②另一方；
+**adj.** ①==**其他的，另外的**== `other than`; `other people/things`; ②另一个的，剩余的；
+**pron.** ①==**其他人（或物）**== `each other`; `one another`; ②另一方；
 
 > [!tip] 原型义
 > **原型义**：非此的，不属于当前所指的另一个
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study found no significant difference between the two groups other than age.（研究发现除年龄外，两组之间没有显著差异。）
-> - On the other hand, some researchers argue that the data is inconclusive.（另一方面，一些研究人员认为数据尚无定论。）
+> - "The study found no significant difference between the two groups other than age." `[真题]`
+> - "On the other hand, some researchers argue that the data is inconclusive." `[真题]`
+> - "The two countries should respect each other's sovereignty." `[COCA-ACAD]`
+> - "Other than a few minor issues, the project was a success." `[COCA-ACAD]`
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**政治家；从政者**==；②==**政客**==（贬义，指玩弄权术的人）；
+**n.** ①==**政治家；从政者**== `a career politician` / `an experienced politician`；②==**政客**==（贬义，指玩弄权术的人）；
 
 > [!tip] 原型义
 > **原型义**：从事城邦治理的人——参与政治活动的职业人士
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Politicians often make promises that they cannot keep."（政客们经常做出无法兑现的承诺。）——考研阅读真题
-> - "The politician was criticized for changing his position on the issue."（这位政客因在该问题上改变立场而受到批评。）——考研高频表达
+> - Politicians often make promises that they cannot keep. `[真题]`
+> - The politician was criticized for changing his position on the issue. `[COCA-NEWS]`
+> - Behind each career politician stands a regiment of dedicated voluntary party workers. `[COCA-ACAD]`
+> - She has spent most of her adult life as a career politician. `[COCA-ACAD]`
 
 ---
 

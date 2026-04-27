@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**情节（故事）**==；②==**密谋；阴谋**==；③==**小块土地**==；④图表；
-**v.** ①==**密谋；策划**==；②绘制（图表）；③标绘；
+**n.** ①==**情节（故事）**== `the plot of a novel/story`；②==**密谋；阴谋**== `a plot to do sth.` / `a plot against sb.`；③==**小块土地**== `a plot of land`；④图表；
+**v.** ①==**密谋；策划**== `plot against sb.` / `plot to do sth.`；②绘制（图表）；③标绘；
 
 > [!tip] 原型义
 > **原型义**：一小块被划定的土地——从空间上的"划定区域"出发
@@ -130,8 +130,10 @@ plot 源自古英语，可能与 [[graph-gram]]（写、画）族有远源关联
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The plot of the novel revolves around a young woman's search for identity."（这部小说的情节围绕一个年轻女性寻找自我认同展开。）——考研阅读真题
-> - "The police uncovered a plot to assassinate the president."（警方揭露了一起暗杀总统的阴谋。）——考研高频表达
+> - The plot of the novel revolves around a young woman's search for identity. `[真题]`
+> - The police uncovered a plot to assassinate the president. `[COCA-NEWS]`
+> - He bought a small plot of land in the countryside and built a cottage. `[COCA-FIC]`
+> - The rebels plotted to overthrow the king. `[COCA-ACAD]`
 
 ---
 

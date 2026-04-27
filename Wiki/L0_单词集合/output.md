@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**产量，产出**== ; ②==**输出，输出功率**== ; ③输出信息 ;
+**n.** ①==**产量，产出**== `` `annual/factory ~ / increase ~` `` ; ②==**输出，输出功率**== `` `power ~ / data ~` `` ; ③输出信息 ;
 **v.** ①输出 ;
 
 > [!tip] 原型义
@@ -124,8 +124,9 @@ out(向外) + put(放/放置) → "向外放出"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory has increased its output by 20% this year."（工厂今年的产量增加了20%。）——考研高频表达
-> - "The research output of the university has declined in recent years."（该大学的研究产出近年来有所下降。）——考研高频表达
+> - "It is therefore likely that employment and output will continue to increase in coming months." `` `[COCA-ACAD]` ``
+> - "Consumer spending accounts for two-thirds of the nation's economic output." `` `[COCA-ACAD]` ``
+> - "Supply chain pressures look like they will be a constraining factor on factory output." `` `[COCA-NEWS]` ``
 
 ---
 

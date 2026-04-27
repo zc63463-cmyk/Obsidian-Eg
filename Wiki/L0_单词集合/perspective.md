@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**观点，看法，视角**== ; ②透视，透视法 ; ③客观判断力，洞察力
+**n.** ①==**观点，看法，视角**== `` `from the perspective of` `` `` `a broader perspective` `` ; ②==**透视，透视法**== `` `in perspective` `` `` `perspective drawing` `` ; ③==**客观判断力，洞察力**== `` `keep things in perspective` `` `` `put things in perspective` ``
 
 > [!tip] 原型义
 > **原型义**：透过某物仔细观看，获得特定的视野
@@ -127,8 +127,9 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "From a scientific perspective, we are constantly developing new ways to understand the world."（从科学的角度来看，我们正在不断开发理解世界的新方法。）——2022考研英语一阅读
-> - "The emphasis on data gathered first-hand, combined with a cross-cultural perspective, makes this study a unique and significant work."（对一手数据的强调，结合跨文化的视角，使这项研究成为一项独特而重要的工作。）——考研翻译真题
+> - From a scientific perspective, we are constantly developing new ways to understand the world. `[真题]`
+> - The emphasis on data gathered first-hand, combined with a cross-cultural perspective, makes this study a unique and significant work. `[真题]`
+> - Recent events seem less serious when put into an international perspective. `[COCA-ACAD]`
 
 ---
 

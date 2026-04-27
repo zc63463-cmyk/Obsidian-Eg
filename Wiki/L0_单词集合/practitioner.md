@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**从业者；执业者**== ; ②==**实践者；践行者**== ;
+**n.** ①==**从业者；执业者**== `` `medical/legal practitioner` `` `` `general practitioner` `` ; ②==**实践者；践行者**== `` `practitioner of sth` `` ;
 
 > [!tip] 原型义
 > **原型义**：从事某种职业的人（以实践为业的人）
@@ -117,8 +117,9 @@ practic（[[practice|实践]]）+ -er（名词后缀，"做...的人"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A medical practitioner should always put the patient's interests first."（医生应该始终把患者的利益放在首位。）——2003年考研英语阅读
-> - "She was a medical practitioner before she entered politics."（从政前她是一名执业医生。）——考研高频表达
+> - "Patients in local hospitals are treated by general practitioners." `` `[COCA-ACAD]` ``
+> - "In our legal system, most judges are appointed from the ranks of experienced legal practitioners." `` `[COCA-ACAD]` ``
+> - "As a healthcare practitioner, it is important to keep up with the latest research in your field." `` `[COCA-ACAD]` ``
 
 ---
 
