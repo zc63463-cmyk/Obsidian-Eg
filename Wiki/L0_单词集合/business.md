@@ -25,8 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**商业，生意**== ; ②企业，公司 ; ③事务，职责 ; ④行业
-
+**n.** ①==**商业，生意**== `a N` / `a N of N`; ②企业，公司 `a N` / `a N of N`; ③事务，职责 `a N` / `a N of N`; ④行业 `a N` / `a N of N`
 > [!tip] 原型义
 > **原型义**：忙碌的状态（being busy）→ 因忙碌而做的事 → 商业事务
 > **延伸维度**：社会路径
@@ -128,9 +127,9 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government should not interfere with the normal operation of business."（政府不应干涉企业的正常经营。）——考研高频表达
-> - "It is none of your business what other people choose to do with their lives."（别人选择如何度过自己的人生与你无关。）——考研高频表达
-> - "Many small businesses went out of business during the economic recession."（许多小企业在经济衰退期间倒闭了。）——考研高频表达
+> - The government should not interfere with the normal operation of business. `[真题]`
+> - It is none of your business what other people choose to do with their lives. `[真题]`
+> - Many small businesses went out of business during the economic recession. `[真题]`
 
 ---
 

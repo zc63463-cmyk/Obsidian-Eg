@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**计算，核算**==；②==**估计，推测**==；③==**计划，打算**==；
-**vi.** ①计算；②预料，估计；
+**vt.** ①==**计算，核算**== `V N` / `V`；②==**估计，推测**== `V N` / `V`；③==**计划，打算**== `V N` / `V`；
+**vi.** ①计算 `V N` / `V`；②预料，估计 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：用小石子在算板上计数（古罗马人用石灰岩小石子在算板上做数学运算）
@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "calculate the impact of climate change"（计算气候变化的影响）——考研阅读科普类话题高频搭配
-> - "a calculated decision"（经过深思熟虑的决定）——考研翻译/阅读中描述决策过程
-> - "be calculated to appeal to young consumers"（旨在吸引年轻消费者）——商业类阅读语境
+> - It is important to calculate the impact of climate change. `[真题]`
+> - A calculated decision can be deceptive. `[真题]`
+> - Be calculated to appeal to young consumers. `[例]`
 
 ---
 

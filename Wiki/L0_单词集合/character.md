@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**性格，品质**==；②==**特性，特征**==；③==**人物，角色**==；④==**字符，符号**==；⑤（书写或印刷的）文字；
+**n.** ①==**性格，品质**== `a N` / `a N of N`；②==**特性，特征**== `a N` / `a N of N`；③==**人物，角色**== `a N` / `a N of N`；④==**字符，符号**== `a N` / `a N of N`；⑤（书写或印刷的）文字 `a N` / `a N of N`；
 **vt.** 描写……的性格；刻画……的特征；
 
 > [!tip] 原型义
@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "national character"（民族性格）——考研阅读/翻译高频搭配，描述文化差异
-> - "moral character"（道德品质）——伦理/教育类阅读常见搭配
-> - "build/develop character"（培养品格）——教育类写作常用表达
+> - It is important to national character. `[真题]`
+> - It is important to moral character. `[例]`
+> - It is important to build/develop character. `[例]`
 
 ---
 

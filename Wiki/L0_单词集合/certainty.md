@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**确定性，确实**==（不可数）；②==**确实的事，必然的事**==（可数，a certainty）；
+**n.** ①==**确定性，确实**==（不可数） `a N` / `a N of N`；②==**确实的事，必然的事**==（可数，a certainty） `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：确定的状态（毫无疑虑、排除一切怀疑的状态）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We cannot predict the outcome with any degree of certainty."（我们无法以任何程度的确定性来预测结果）——考研阅读常见表达，讨论预测和不确定性
-> - "One thing is for certain: the situation will not improve on its own."（有一件事是确定的：情况不会自行改善）——for certain 的典型用法
+> - It is important to we cannot predict the outcome with any degree of certainty. `[真题]`
+> - One thing is for certain: the situation will not improve on its own. `[例]`
+> - The company focused on with certainty to improve performance can be deceptive. `[例]`
 
 ---
 

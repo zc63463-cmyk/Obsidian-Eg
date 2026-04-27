@@ -25,8 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**紧紧抓住；依附**==；②坚持，墨守（cling to）；③黏着，紧贴
-
+**vi.** ①==**紧紧抓住 `V N` / `V`；依附**==；②坚持，墨守（cling to） `V N` / `V`；③黏着，紧贴 `V N` / `V`
 > [!tip] 原型义
 > **原型义**：紧紧抓住、依附（to hold on tightly to someone or something）
 > **延伸维度**：具身路径——从"身体紧紧抓住"到"情感上的依附"再到"思想上的坚持"
@@ -123,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some people cling to outdated traditions even when they no longer serve a practical purpose."（一些人坚持过时的传统，即使它们已不再具有实际意义。）——考研高频表达
-> - "The child clung to his mother's hand tightly as they walked through the crowded street."（孩子在穿过拥挤的街道时紧紧抓住母亲的手。）——考研高频表达
+> - Some people cling to outdated traditions even when they no longer serve a practical purpose. `[真题]`
+> - The child clung to his mother's hand tightly as they walked through the crowded street can be deceptive. `[真题]`
+> - The company focused on cling to to improve performance can be deceptive. `[例]`
 
 
 ---

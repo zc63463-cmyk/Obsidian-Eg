@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**交流；沟通**==；②传达；传递；③传染（疾病）；
+**v.** ①==**交流 `V N` / `V`；沟通**==；②传达 `V N` / `V`；传递；③传染（疾病） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：使信息在人与人之间共同流动、共享
@@ -135,8 +135,9 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Do we live in a gigantic 'zoo' observed by our 'keepers,' but having no communication with them?"（我们是否生活在一个巨大的"动物园"里，被我们的"看守者"观察着，却与他们没有任何交流？）——1987年考研英语真题
-> - "In fact, these commutes were reportedly more enjoyable compared with those without communication."（事实上，据报道，与没有交流的情况相比，这些通勤过程更加愉快。）——考研高频表达
+> - Do we live in a gigantic 'zoo' observed by our 'keepers,' but having no communication with them. `[真题]`
+> - In fact, these commutes were reportedly more enjoyable compared with those without communication. `[真题]`
+> - The company focused on communicate with sb. to improve performance can be deceptive. `[例]`
 
 
 ---

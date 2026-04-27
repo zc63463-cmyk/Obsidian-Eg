@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**同事，同僚**==；
+**n.** ①==**同事，同僚**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：被指派到一起的人——共同承担一项工作的人
@@ -125,8 +125,9 @@ col-(共同，一起，[[com]]变体) + league(联盟、委派)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one."（然而，如果你得知你的某位同事的加薪比你多，那么你的快乐就会一下子消失。）——2005年考研英语一阅读Text 1
-> - "In general, Salthouse and his colleagues found, certain aspects of cognition generally started to decline in the late 20s to 30s."（总的来说，索尔豪斯和他的同事们发现，认知能力的某些方面通常在二十多岁末到三十多岁时开始衰退。）——考研高频表达
+> - Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one. `[真题]`
+> - In general, Salthouse and his colleagues found, certain aspects of cognition generally started to decline in the late 20s to 30s. `[真题]`
+> - The company focused on a colleague of mine to improve performance can be deceptive. `[例]`
 
 
 ---

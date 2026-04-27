@@ -25,9 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**建造，建筑**== ; ②建立，构建（关系、体系等） ; ③逐渐增强，发展
-**n.** ①体格，身材 ; ②构造，结构
-
+**v.** ①==**建造，建筑**== `V N` / `V`; ②建立，构建（关系、体系等） `V N` / `V`; ③逐渐增强，发展 `V N` / `V`
+ **n.** ①体格，身材  `a N` / `a N of N`; ②构造，结构 `a N` / `a N of N`
 > [!tip] 原型义
 > **原型义**：建造、从无到有地构建
 > **延伸维度**：具身路径
@@ -126,9 +125,9 @@ build 为日耳曼语族基础词汇，与 [[budget]] 同源（都来自"建造/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has invested heavily in building new infrastructure."（政府已投入大量资金建设新的基础设施。）——考研高频表达
-> - "Building trust between nations takes time and mutual effort."（建立国与国之间的信任需要时间和共同努力。）——考研高频表达
-> - "She has built up a reputation as one of the most reliable researchers in her field."（她已树立了作为该领域最可靠研究者之一的声誉。）——考研高频表达
+> - The government has invested heavily in building new infrastructure. `[真题]`
+> - Building trust between nations takes time and mutual effort. `[真题]`
+> - She has built up a reputation as one of the most reliable researchers in her field. `[真题]`
 
 ---
 

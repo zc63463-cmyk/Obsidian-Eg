@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**结合，联合**==；②混合，融合；③兼有，兼备（不同特质）；
-**n.** ①联合企业；②联合收割机；
+**v.** ①==**结合，联合**== `V N` / `V`；②混合，融合 `V N` / `V`；③兼有，兼备（不同特质） `V N` / `V`；
+**n.** ①联合企业 `a N` / `a N of N`；②联合收割机 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：把两个或多个事物合为一体
@@ -130,8 +130,9 @@ com-(共同，一起) + bi(二，两) + -ne
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The study combines data from multiple sources to provide a comprehensive analysis."（该研究结合了来自多个来源的数据，提供了全面的分析。）——考研阅读真题
-> - "Students should combine theoretical knowledge with practical experience."（学生应该将理论知识与实践经验相结合。）——考研高频表达
+> - The study combines data from multiple sources to provide a comprehensive analysis can be deceptive. `[真题]`
+> - Students should combine theoretical knowledge with practical experience. `[真题]`
+> - The company focused on combine A with B to improve performance can be deceptive. `[例]`
 
 ---
 

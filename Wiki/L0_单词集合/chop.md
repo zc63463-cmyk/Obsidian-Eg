@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-v. ①==**砍；劈；剁**==；②削减；终止；
-n. ①==**排骨；肉块**==；②砍；劈；
+v. ①==**砍；劈；剁**== `V N` / `V N into N`；②削减；终止 `V N by N` / `V N`；
+n. ①==**排骨；肉块**== `a N`；②砍；劈 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：用刀斧用力砍劈
@@ -122,8 +122,9 @@ chop（砍/劈，拟声词源）
 ## 真题/语料关联
 
 > [!example]- 语料
-- The company chopped its workforce by 20%.（公司裁减了20%的员工。）
-- a pork chop（一块猪排）
+> - The company chopped its workforce by 20%. `[例]`
+> - I ordered a pork chop for dinner. `[例]`
+> - He chopped the wood into small pieces. `[例]`
 
 ---
 

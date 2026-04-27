@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**倒塌，坍塌**==；②（系统、机构等）崩溃，瓦解；③（人）昏倒，倒下；④（价格、货币等）暴跌；
-**n.** ①倒塌，坍塌；②（身体或精神的）垮掉；
+**v.** ①==**倒塌，坍塌**== `V N` / `V`；②（系统、机构等）崩溃，瓦解 `V N` / `V`；③（人）昏倒，倒下 `V N` / `V`；④（价格、货币等）暴跌 `V N` / `V`；
+**n.** ①倒塌，坍塌 `a N` / `a N of N`；②（身体或精神的）垮掉 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：结构失去支撑而突然向内/向下倒下
@@ -132,8 +132,9 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Integrity had collapsed, she argued, because of a collective acceptance that the only 'sorting mechanism' in society should be profit and the market."（她认为，道德已经沦丧，因为人们普遍接受社会唯一的"分类机制"应该是利益和市场。）——考研阅读
-> - "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious concerns about nuclear safety."（一系列事故，包括2007年一座冷却塔的部分坍塌和地下管道系统泄漏的发现，引发了人们对核安全的严重担忧。）——考研阅读
+> - Integrity had collapsed, she argued, because of a collective acceptance that the only 'sorting mechanism' in society should be profit and the market. `[真题]`
+> - A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious concerns about nuclear safety can be deceptive. `[真题]`
+> - The company focused on the collapse of to improve performance can be deceptive. `[例]`
 
 
 ---

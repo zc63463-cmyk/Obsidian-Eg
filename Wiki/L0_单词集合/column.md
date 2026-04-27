@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**柱子，圆柱**==；②（报纸、杂志的）专栏；③（数字的）列，纵队；④（军队的）纵列；
+**n.** ①==**柱子，圆柱**== `a N` / `a N of N`；②（报纸、杂志的）专栏 `a N` / `a N of N`；③（数字的）列，纵队 `a N` / `a N of N`；④（军队的）纵列 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：垂直竖立的支撑结构——高而窄的柱形物
@@ -126,8 +126,9 @@ col-(共同，一起，[[com]]变体) + umn(源自拉丁语 columna，柱子)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "She writes a weekly column for a major national newspaper."（她为一家全国性大报撰写每周专栏。）——考研阅读真题
-> - "The temple is supported by a row of massive stone columns."（这座寺庙由一排巨大的石柱支撑。）——考研高频表达
+> - She writes a weekly column for a major national newspaper. `[真题]`
+> - The temple is supported by a row of massive stone columns. `[真题]`
+> - The company focused on newspaper column to improve performance can be deceptive. `[例]`
 
 ---
 

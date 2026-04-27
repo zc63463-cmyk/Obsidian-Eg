@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**俘虏**==；
-**adj.** ①==**被俘的**==；②==**受控制的**==；
+**n.** ①==**俘虏**== `a N` / `a N of N`；
+**adj.** ①==**被俘的**== `adj` / `be adj`；②==**受控制的**== `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：被抓住的（被外力控制、无法自由行动的状态）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The captive soldiers were released after the peace agreement."（被俘的士兵在和平协议签订后获释。）——新闻/历史类阅读语境
-> - "Airlines have a captive audience during flights."（航空公司在飞行期间拥有一个受控制的受众。）——商业/媒体类阅读语境
+> - The captive soldiers were released after the peace agreement. `[例]`
+> - Airlines have a captive audience during flights. `[例]`
+> - The company focused on captive audience to improve performance can be deceptive. `[例]`
 
 ---
 

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**叫，喊**==；②==**打电话给**==；③==**称呼，把……叫做**==；④==**召集，召开**==；⑤认为，判定；
-**vi.** ①喊叫；②拜访；③打电话；
-**n.** ①呼叫，喊叫；②电话；③号召；④必要，理由；
+**vt.** ①==**叫，喊**== `V N` / `V`；②==**打电话给**== `V N` / `V`；③==**称呼，把……叫做**== `V N` / `V`；④==**召集，召开**== `V N` / `V`；⑤认为，判定 `V N` / `V`；
+**vi.** ①喊叫 `V N` / `V`；②拜访 `V N` / `V`；③打电话 `V N` / `V`；
+**n.** ①呼叫，喊叫 `a N` / `a N of N`；②电话 `a N` / `a N of N`；③号召 `a N` / `a N of N`；④必要，理由 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：大声喊叫以引起注意（用声音召唤某人）
@@ -145,9 +145,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "call into question the validity of..."（对……的有效性提出质疑）——考研阅读/翻译极高频表达
-> - "call for a reform of the system"（呼吁改革制度）——社会类话题高频搭配
-> - "the so-called 'expert'"（所谓的"专家"）——考研阅读中表达作者态度的常见用法
+> - It is important to call into question the validity of. `[真题]`
+> - It is important to call for a reform of the system. `[例]`
+> - The so-called 'expert' can be deceptive. `[真题]`
 
 ---
 

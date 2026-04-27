@@ -25,9 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**代码；编码**==；②法典，法规；③密码，代号；④道德准则，行为规范
-
-**v.** ①编码；将……转换成代码
+**n.** ①==**代码 `a N` / `a N of N`；编码**==；②法典，法规 `a N` / `a N of N`；③密码，代号 `a N` / `a N of N`；④道德准则，行为规范 `a N` / `a N of N`
+**v.** ①编码 `V N` / `V`；将……转换成代码
 
 > [!tip] 原型义
 > **原型义**：法典、系统化的规则（a systematic collection of laws or regulations）
@@ -128,8 +127,9 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All employees are expected to comply with the company's code of conduct."（所有员工都应遵守公司的行为准则。）——考研高频表达
-> - "Scientists have cracked the genetic code, opening new possibilities for treating diseases."（科学家已经破解了遗传密码，为治疗疾病开辟了新的可能性。）——考研高频表达
+> - All employees are expected to comply with the company's code of conduct. `[真题]`
+> - Scientists have cracked the genetic code, opening new possibilities for treating diseases. `[真题]`
+> - The company focused on code of conduct to improve performance can be deceptive. `[例]`
 
 
 ---

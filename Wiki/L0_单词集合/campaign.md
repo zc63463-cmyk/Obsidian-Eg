@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**运动，宣传活动**==；②==**战役，军事行动**==；
-**vi.** ①==**参加运动，发起运动**==；②参加竞选；
+**n.** ①==**运动，宣传活动**== `a N` / `a N of N`；②==**战役，军事行动**== `a N` / `a N of N`；
+**vi.** ①==**参加运动，发起运动**== `V N` / `V`；②参加竞选 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：军队开赴开阔田野作战（古罗马军队冬季驻营，夏季出营到开阔地带进行军事行动）
@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "launch a national campaign against smoking"（发起全国性反吸烟运动）——考研阅读社会类话题高频搭配
-> - "presidential election campaign"（总统竞选活动）——考研阅读政治类话题常见表达
-> - "an advertising campaign aimed at young consumers"（针对年轻消费者的广告宣传活动）——商业类阅读语境
+> - It is important to launch a national campaign against smoking. `[真题]`
+> - It is important to presidential election campaign. `[真题]`
+> - An advertising campaign aimed at young consumers can be deceptive. `[例]`
 
 ---
 

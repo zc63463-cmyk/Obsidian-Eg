@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有能力的，能干的**==（常接 capable of）；
+**adj.** ①==**有能力的，能干的**==（常接 capable of） `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：能容纳的（容器能装下东西）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is highly capable of managing the team on her own."（她非常有能力独自管理团队。）——职场/管理类阅读语境
-> - "Only a capable engineer can handle this level of complexity."（只有有能力的工程师才能处理这种复杂程度。）——科技/工程类阅读语境
+> - She is highly capable of managing the team on her own. `[例]`
+> - Only a capable engineer can handle this level of complexity. `[例]`
+> - The company focused on capable of (doing) sth. to improve performance can be deceptive. `[例]`
 
 ---
 

@@ -25,9 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**壁橱；衣橱**==；②私室，密室
-
-**adj.** ①==**私密的；暗中的**==（如 closet supporter 暗中支持者）
+**n.** ①==**壁橱 `a N` / `a N of N`；衣橱**==；②私室，密室 `a N` / `a N of N`
+**adj.** ①==**私密的 `adj` / `be adj`；暗中的**==（如 closet supporter 暗中支持者）
 
 > [!tip] 原型义
 > **原型义**：关上的小房间、壁橱（a small room used for storage）
@@ -125,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She came out of the closet and openly discussed her sexual orientation."（她公开出柜，坦率地讨论了自己的性取向。）——考研高频表达
-> - "He is a closet environmentalist who secretly supports green initiatives."（他是一个暗中的环保主义者，暗中支持绿色倡议。）——考研高频表达
+> - She came out of the closet and openly discussed her sexual orientation. `[真题]`
+> - He is a closet environmentalist who secretly supports green initiatives. `[真题]`
+> - The company focused on closet space to improve performance can be deceptive. `[例]`
 
 
 ---

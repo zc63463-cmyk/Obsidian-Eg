@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**典礼，仪式**==；②==**礼仪，礼节**==；
+**n.** ①==**典礼，仪式**== `a N` / `a N of N`；②==**礼仪，礼节**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：按固定程序进行的庄严仪式（源自古罗马宗教中的神圣祭祀活动）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The opening ceremony of the Olympics was spectacular."（奥运会开幕式壮观无比）——考研阅读常见搭配，描述大型活动
-> - "Please don't stand on ceremony; make yourself at home."（请别拘礼，当自己家一样）——日常交际语境
+> - The opening ceremony of the Olympics was spectacular. `[真题]`
+> - It is important to please don't stand on ceremony; make yourself at home. `[例]`
+> - The company focused on opening ceremony to improve performance can be deceptive. `[例]`
 
 ---
 

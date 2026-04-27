@@ -25,8 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**选择，挑选**== ; ②决定，情愿
-
+**v.** ①==**选择，挑选**== `V N` / `V`; ②决定，情愿 `V N` / `V`
 > [!tip] 原型义
 > **原型义**：品尝、辨别
 > **延伸维度**：抽象路径
@@ -125,8 +124,9 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Young people often choose to pursue further education abroad."（年轻人经常选择去国外深造。）——考研高频表达
-> - "We cannot choose but face the reality of the situation."（我们不得不面对现实的处境。）——考研高频表达
+> - It is important to young people often choose to pursue further education abroad. `[真题]`
+> - It is important to we cannot choose but face the reality of the situation. `[真题]`
+> - The company focused on choose to do sth. to improve performance. `[例]`
 
 ---
 

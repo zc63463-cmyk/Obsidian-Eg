@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**战斗，搏斗**==；②斗争，对抗；
-**v.** ①==**与……战斗，与……斗争**==；②防止，抑制（不良事物）；
-**adj.** ①战斗的；
+**n.** ①==**战斗，搏斗**== `a N` / `a N of N`；②斗争，对抗 `a N` / `a N of N`；
+**v.** ①==**与……战斗，与……斗争**== `V N` / `V`；②防止，抑制（不良事物） `V N` / `V`；
+**adj.** ①战斗的 `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：两人面对面搏斗——身体上的直接对抗
@@ -129,8 +129,9 @@ com-(共同，一起) + bat(打击、战斗)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The government has launched a new initiative to combat climate change."（政府启动了一项应对气候变化的新计划。）——考研阅读真题
-> - "Police are using new technology to combat cybercrime."（警方正在使用新技术来打击网络犯罪。）——考研高频表达
+> - The government has launched a new initiative to combat climate change. `[真题]`
+> - Police are using new technology to combat cybercrime. `[真题]`
+> - The company focused on combat crime/disease/poverty to improve performance can be deceptive. `[例]`
 
 ---
 

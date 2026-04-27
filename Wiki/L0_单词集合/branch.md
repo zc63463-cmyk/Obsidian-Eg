@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**树枝，分枝**==；②分支，分部，分行；③分科，分支学科；
+**n.** ①==**树枝，分枝**== `a branch of N` / `on a branch`；②分支，分部，分行 `a branch of N`；③分科，分支学科 `a branch of N`；
 
-**v.** ①==**分支，分岔**==；
+**v.** ①==**分支，分岔**== `V off` / `V out`；
 
 > [!tip] 原型义
 > **原型义**：树枝、分叉（从主干上分出的部分）
@@ -125,8 +125,9 @@ branch(源自古法语 branche，意为"树枝")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has established branches in major cities across the country."（该公司在全国各大城市设立了分支机构。）——考研高频表达
-> - "Artificial intelligence is a rapidly growing branch of computer science."（人工智能是计算机科学中一个快速发展的分支。）——考研高频表达
+> - The company has established branches in major cities across the country. `[真题]`
+> - Artificial intelligence is a rapidly growing branch of computer science. `[真题]`
+> - After a few miles, a small road branches off to the right. `[例]`
 
 
 ---

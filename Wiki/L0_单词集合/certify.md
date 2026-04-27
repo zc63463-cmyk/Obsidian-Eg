@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**证明，证实**==；②==**发证书给**==；
+**vt.** ①==**证明，证实**== `V N` / `V`；②==**发证书给**== `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：使确定（通过权威手段使某事从不确定变为确定）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The accountant certified the accuracy of the financial statements."（会计师证明了财务报表的准确性）——商务/法律类阅读语境
-> - "She is a certified yoga instructor with over ten years of experience."（她是一位拥有十多年经验的持证瑜伽教练）——人物介绍类语境
+> - The accountant certified the accuracy of the financial statements can be deceptive. `[例]`
+> - She is a certified yoga instructor with over ten years of experience. `[例]`
+> - The company focused on certify that. to improve performance can be deceptive. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**职业，事业**==；②==**生涯**==；
+**n.** ①==**职业，事业**== `a N` / `a N of N`；②==**生涯**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：跑道（马车/赛马奔跑的场地）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has had a distinguished career in journalism."（她在新闻业有着卓越的职业生涯。）——人物/传记类阅读语境
-> - "Choosing the right career is one of the most important decisions in life."（选择正确的职业是人生最重要的决定之一。）——教育/社会类阅读语境
+> - She has had a distinguished career in journalism. `[例]`
+> - Choosing the right career is one of the most important decisions in life. `[例]`
+> - The company focused on career path to improve performance can be deceptive. `[例]`
 
 ---
 

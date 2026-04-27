@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**停止，终止**==（使某事不再继续）；
+**v.** ①==**停止，终止**==（使某事不再继续） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：停止
@@ -130,10 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company ceased production due to financial difficulties."（由于财务困难，该公司停止了生产）——商业话题
-> - "A ceasefire was declared after weeks of intense fighting."（经过数周的激烈战斗后，宣布了停火）——军事话题
-> - "The ancient civilization ceased to exist thousands of years ago."（这个古老的文明在数千年前就不复存在了）——历史话题
-> - "The rain ceased and the sun finally came out."（雨停了，太阳终于出来了）——自然话题
+> - The company ceased production due to financial difficulties can be deceptive. `[例]`
+> - A ceasefire was declared after weeks of intense fighting. `[例]`
+> - The ancient civilization ceased to exist thousands of years ago can be deceptive. `[例]`
 
 ---
 

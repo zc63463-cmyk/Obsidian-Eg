@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**魅力，吸引力**==；②迷人的特征；③小饰品，护身符；
-**v.** ①==**吸引，迷住**==；②施魔法于；
+**n.** ①==**魅力，吸引力**== `a N` / `a N of N`；②迷人的特征 `a N` / `a N of N`；③小饰品，护身符 `a N` / `a N of N`；
+**v.** ①==**吸引，迷住**== `V N` / `V`；②施魔法于 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：咒语，魔法（通过吟诵施加魔力）
@@ -130,9 +130,9 @@ charm(拉丁语 *carmen*，歌曲，咒语，诗歌)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The old town has a certain **charm** that attracts thousands of tourists every year.（这座古镇有一种独特的魅力，每年吸引成千上万的游客。）
-> - She **charmed** the interviewer with her wit and confidence.（她以机智和自信迷住了面试官。）
-> - This traditional remedy **works like a charm**.（这种传统疗法非常有效。）
+> - The old town has a certain **charm** that attracts thousands of tourists every year. `[例]`
+> - It is important to she **charmed** the interviewer with her wit and confidence. `[例]`
+> - This traditional remedy **works like a charm** can be deceptive. `[例]`
 
 ---
 

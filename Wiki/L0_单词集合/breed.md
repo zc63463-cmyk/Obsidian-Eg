@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**繁殖，饲养**==；②培育，养育（品质、态度等）；③引起，酿成（不良事物）；
-**n.** ①品种，种类（尤指动植物品种）；②类型，种类（人）；
+**v.** ①==**繁殖，饲养**== `V N` / `V`；②培育，养育（品质、态度等） `V N` / `V`；③引起，酿成（不良事物） `V N` / `V`；
+**n.** ①品种，种类（尤指动植物品种） `a N` / `a N of N`；②类型，种类（人） `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：使生物繁殖后代——通过有意识的选育产生特定品种
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Unemployment and poverty may breed crime and social unrest."（失业和贫困可能滋生犯罪和社会动荡。）——考研阅读
-> - "A new breed of entrepreneurs is emerging in the digital economy."（数字经济中正在涌现新一代企业家。）——考研阅读
+> - Unemployment and poverty may breed crime and social unrest. `[真题]`
+> - A new breed of entrepreneurs is emerging in the digital economy. `[真题]`
+> - The company focused on breed violence/crime to improve performance can be deceptive. `[例]`
 
 
 ---

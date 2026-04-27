@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**委员会**==；②佣金，回扣；③委托，授权；④犯罪，犯错；
-**v.** ①==**委托，委任**==；②正式任命（军官等）；
+**n.** ①==**委员会**== `a N` / `a N of N`；②佣金，回扣 `a N` / `a N of N`；③委托，授权 `a N` / `a N of N`；④犯罪，犯错 `a N` / `a N of N`；
+**v.** ①==**委托，委任**== `V N` / `V`；②正式任命（军官等） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：正式委托某人去做某事——被委托的群体就是委员会，委托的报酬就是佣金
@@ -132,8 +132,9 @@ com-(共同，一起) + miss(发送，[[mit]]变体) + -ion(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The European Commission has proposed new regulations on data protection."（欧盟委员会提出了新的数据保护法规。）——考研阅读真题
-> - "He was commissioned to paint a portrait of the queen."（他受委托为女王画一幅肖像。）——考研高频表达
+> - The European Commission has proposed new regulations on data protection. `[真题]`
+> - He was commissioned to paint a portrait of the queen. `[真题]`
+> - The company focused on European Commission to improve performance can be deceptive. `[例]`
 
 ---
 

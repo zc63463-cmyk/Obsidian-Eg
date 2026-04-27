@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**频道，渠道**==；②==**通道，航道**==；③途径，方法；④海峡；
-**vt.** ①==**通过……引导**==；②输送，传送；
+**n.** ①==**频道，渠道**== `a N` / `a N of N`；②==**通道，航道**== `a N` / `a N of N`；③途径，方法 `a N` / `a N of N`；④海峡 `a N` / `a N of N`；
+**vt.** ①==**通过……引导**== `V N` / `V`；②输送，传送 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：水道/沟渠（拉丁语 canalis = 管道、沟渠）
@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "through official channels"（通过官方渠道）——考研阅读/翻译常见搭配
-> - "channel one's energy into"（将精力引导到……）——写作/阅读常见搭配
-> - "distribution channels"（分销渠道）——商业/经济类阅读高频表达
+> - It is important to through official channels. `[真题]`
+> - Channel one's energy into. `[例]`
+> - It is important to distribution channels. `[例]`
 
 ---
 

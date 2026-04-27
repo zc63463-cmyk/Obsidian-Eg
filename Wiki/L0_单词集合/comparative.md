@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**比较的，用比较方法的**==；②相对的，相比而言的；
+**adj.** ①==**比较的，用比较方法的**== `adj` / `be adj`；②相对的，相比而言的 `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：比较的（通过比较来研究的）
@@ -126,7 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Living in the countryside offers a comparative degree of tranquility that is hard to find in the city.（生活在乡村提供了一种在城市中难以找到的相对宁静。）
+> - Living in the countryside offers a comparative degree of tranquility that is hard to find in the city. `[例]`
+> - The company focused on comparative study to improve performance can be deceptive. `[例]`
+> - This example sentence shows how to use comparative in context can be deceptive. `[例]`
 
 ---
 

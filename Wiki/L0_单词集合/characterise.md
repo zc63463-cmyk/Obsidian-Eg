@@ -26,7 +26,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**是……的特征，以……为特征**==；②==**描述……的特征，刻画**==；③赋予……特征；
+**vt.** ①==**是……的特征，以……为特征**== `V N` / `V`；②==**描述……的特征，刻画**== `V N` / `V`；③赋予……特征 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：用标记来表示（希腊语 kharaktērizein = 用特征标记来标示）
@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "characterized by rapid change"（以快速变化为特征）——考研阅读/翻译高频搭配
-> - "characterize the period as..."（将这一时期描述为……）——学术类阅读常见搭配
-> - "a society characterized by diversity"（一个以多样性为特征的社会）——社科类写作常用表达
+> - Characterized by rapid change. `[真题]`
+> - It is important to characterize the period as. `[例]`
+> - A society characterized by diversity can be deceptive. `[例]`
 
 ---
 

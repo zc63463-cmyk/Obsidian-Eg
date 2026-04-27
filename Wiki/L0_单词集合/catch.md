@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**抓住**==（用手接住、捉住）；②==**赶上**==（赶上交通工具）；③==**感染**==（染上疾病）；④==**理解**==（听懂、领会）；
+**vt.** ①==**抓住**==（用手接住、捉住） `V N` / `V`；②==**赶上**==（赶上交通工具） `V N` / `V`；③==**感染**==（染上疾病） `V N` / `V`；④==**理解**==（听懂、领会） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：抓住
@@ -137,10 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I ran fast but still missed the bus — I couldn't catch it."（我跑得很快但还是没赶上公交车）——日常话题
-> - "She caught a severe cold during the winter vacation."（她在寒假期间染上了重感冒）——健康话题
-> - "Sorry, I didn't quite catch what you said. Could you repeat that?"（抱歉，我没太听懂你说的话，能重复一下吗？）——社交话题
-> - "The advertisement is designed to catch the attention of young consumers."（这则广告旨在吸引年轻消费者的注意）——商业话题
+> - I ran fast but still missed the bus — I couldn't catch it. `[例]`
+> - She caught a severe cold during the winter vacation. `[例]`
+> - Sorry, I didn't quite catch what you said. Could you repeat that. `[例]`
 
 ---
 

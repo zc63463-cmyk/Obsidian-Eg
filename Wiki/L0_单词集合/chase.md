@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**追逐，追赶**==；②追求，寻求；③雕刻；
-**n.** ①==**追逐，追赶**==；②追求；
+**v.** ①==**追逐，追赶**== `V N` / `V`；②追求，寻求 `V N` / `V`；③雕刻 `V N` / `V`；
+**n.** ①==**追逐，追赶**== `a N` / `a N of N`；②追求 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：快速追赶（在空间上追逐目标）
@@ -127,9 +127,9 @@ chase(古法语 *chacier*，追赶，狩猎)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police **chased** the suspect through the streets.（警察在街道上追赶嫌疑人。）
-> - She gave up a stable job to **chase** her dream of becoming an artist.（她放弃了稳定的工作去追逐成为艺术家的梦想。）
-> - Children love **chasing** each other in the playground.（孩子们喜欢在操场上互相追逐。）
+> - The police **chased** the suspect through the streets can be deceptive. `[例]`
+> - She gave up a stable job to **chase** her dream of becoming an artist. `[例]`
+> - It is important to children love **chasing** each other in the playground. `[例]`
 
 ---
 

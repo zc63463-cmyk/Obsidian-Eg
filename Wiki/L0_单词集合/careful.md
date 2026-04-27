@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**小心的，仔细的**==；
+**adj.** ①==**小心的，仔细的**== `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：充满关心的（因为对某件事充满关心，所以会格外注意、不马虎）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Be careful not to break the vase."（小心不要打碎花瓶。）——日常/指令类阅读语境
-> - "She is very careful with her money and never wastes anything."（她对钱非常仔细，从不浪费。）——生活/消费类阅读语境
-> - "After careful consideration, I decided to accept the offer."（经过仔细考虑后，我决定接受这个提议。）——商业/决策类阅读语境
+> - It is important to be careful not to break the vase. `[例]`
+> - She is very careful with her money and never wastes anything. `[例]`
+> - After careful consideration, I decided to accept the offer. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**比较，对比**==；②比喻，比拟；③与……类似；
+**v.** ①==**比较，对比**== `V N` / `V`；②比喻，比拟 `V N` / `V`；③与……类似 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：比较、对比（把事物放在一起看是否相等）
@@ -128,7 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When we compare the two approaches, the second one proves to be more cost-effective.（当我们比较这两种方法时，第二种被证明更具成本效益。）
+> - When we compare the two approaches, the second one proves to be more cost-effective. `[例]`
+> - The company focused on compare A with/to B to improve performance can be deceptive. `[例]`
+> - This example sentence shows how to use compare in context can be deceptive. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**类别，种类**==（具有共同特征的一组事物）；
+**n.** ①==**类别，种类**==（具有共同特征的一组事物） `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：公开说出的分类→类别
@@ -129,10 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Products in this category are exempt from tax."（这一类别的产品免税）——商业话题
-> - "The data was analyzed by age category and gender."（数据按年龄类别和性别进行了分析）——研究话题
-> - "This problem falls into a completely different category."（这个问题属于完全不同的类别）——学术话题
-> - "She won the award in the 'Best Actress' category."（她获得了"最佳女演员"类别的奖项）——娱乐话题
+> - Products in this category are exempt from tax. `[例]`
+> - The data was analyzed by age category and gender. `[例]`
+> - This problem falls into a completely different category can be deceptive. `[例]`
 
 ---
 

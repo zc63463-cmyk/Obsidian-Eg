@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**表扬，称赞**==；②推荐，举荐；③托付，委托；
+**v.** ①==**表扬，称赞**== `V N` / `V`；②推荐，举荐 `V N` / `V`；③托付，委托 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：将某人/某事委托给他人照管——引申为"值得托付"即"值得表扬"
@@ -127,8 +127,9 @@ com-(完全，加强) + mend(委托，信任)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The committee commended the police for their swift response to the crisis."（委员会赞扬了警方对危机的迅速反应。）——考研阅读真题
-> - "The report commends the school for its innovative approach to teaching."（报告赞扬了学校在教学方面的创新方法。）——考研高频表达
+> - The committee commended the police for their swift response to the crisis can be deceptive. `[真题]`
+> - The report commends the school for its innovative approach to teaching can be deceptive. `[真题]`
+> - The company focused on commend sb for sth to improve performance can be deceptive. `[例]`
 
 ---
 

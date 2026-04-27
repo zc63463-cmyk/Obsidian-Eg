@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-adj. ①==**清楚的；明白的**==；②清澈的；③有把握的；
-v. ①==**清除；清理**==；②澄清；
-adv. ①==**清楚地；完全地**==；
+adj. ①==**清楚的；明白的**== `adj` / `be adj about N`；②清澈的 `adj` / `be adj`；③有把握的 `be adj that-clause` / `be adj about N`；
+v. ①==**清除；清理**== `V N` / `V N away`；②澄清 `V N` / `V N up`；
+adv. ①==**清楚地；完全地**== `adv` / `V adv`；
 
 > [!tip] 原型义
 > **原型义**：清澈透明、一目了然
@@ -126,8 +126,9 @@ clear（清澈/清楚，拉丁语 clarus）
 ## 真题/语料关联
 
 > [!example]- 语料
-- It is clear that the policy needs reform.（很明显，这项政策需要改革。）
-- Please clear your desk before you leave.（离开前请清理你的桌面。）
+> - It is clear that the policy needs reform. `[例]`
+> - Please clear your desk before you leave. `[例]`
+> - The weather cleared up in the afternoon. `[例]`
 
 ---
 

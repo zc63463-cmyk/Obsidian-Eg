@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**收藏品，收集物**==；②收集，聚集；③系列，丛书；④（慈善）募捐；⑤（垃圾）清收；
+**n.** ①==**收藏品，收集物**== `a N` / `a N of N`；②收集，聚集 `a N` / `a N of N`；③系列，丛书 `a N` / `a N of N`；④（慈善）募捐 `a N` / `a N of N`；⑤（垃圾）清收 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：收集行为的产物——被聚集到一起的一组事物
@@ -129,8 +129,9 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ion(名词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The museum has an extensive collection of ancient Chinese art."（这家博物馆收藏了大量中国古代艺术品。）——考研阅读真题
-> - "The new collection of poems has received widespread critical acclaim."（这部新诗集获得了广泛的评论界赞誉。）——考研高频表达
+> - The museum has an extensive collection of ancient Chinese art. `[真题]`
+> - The new collection of poems has received widespread critical acclaim. `[真题]`
+> - The company focused on a collection of to improve performance can be deceptive. `[例]`
 
 ---
 

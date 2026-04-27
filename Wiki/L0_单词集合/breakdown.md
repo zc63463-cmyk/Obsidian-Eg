@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（机器、车辆等）故障，抛锚**==；②（谈判、系统等的）破裂，崩溃；③（精神、健康的）垮掉；④分解，分类；⑤细目清单，统计分析；
+**n.** ①==**（机器、车辆等）故障，抛锚**== `a breakdown in N` / `have a breakdown`；②（谈判、系统等的）破裂，崩溃 `a breakdown in N` / `a breakdown of N`；③（精神、健康的）垮掉 `a nervous breakdown` / `suffer a breakdown`；④分解，分类 `a breakdown of N` / `breakdown into N`；⑤细目清单，统计分析 `a cost breakdown` / `a breakdown of N`；
 
 > [!tip] 原型义
 > **原型义**：彻底向下瓦解——从完整状态完全崩塌
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The breakdown of negotiations between the two parties led to a prolonged conflict."（两党之间谈判的破裂导致了长期的冲突。）——考研高频表达
-> - "She suffered a nervous breakdown after years of excessive workload."（经过多年过度工作后，她精神崩溃了。）——考研高频表达
+> - The breakdown of negotiations between the two parties led to a prolonged conflict can be deceptive. `[真题]`
+> - She suffered a nervous breakdown after years of excessive workload. `[真题]`
+> - We had a breakdown on the motorway and had to call for help. `[例]`
 
 
 ---

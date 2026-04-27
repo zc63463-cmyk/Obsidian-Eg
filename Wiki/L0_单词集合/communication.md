@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**交流；沟通**==；②通信；通信系统；③交通（设施）；④信息；
+**n.** ①==**交流 `a N` / `a N of N`；沟通**==；②通信 `a N` / `a N of N`；通信系统；③交通（设施） `a N` / `a N of N`；④信息 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：信息在人与人之间共同流动的过程或结果
@@ -136,8 +136,9 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On the contrary, the price of communications is coming down fast."（相反，通信的价格正在迅速下降。）——2001年考研英语一阅读Text 4
-> - "The communications revolution has influenced both work and leisure."（通信革命影响了工作和休闲两个方面。）——考研高频表达
+> - On the contrary, the price of communications is coming down fast. `[真题]`
+> - The communications revolution has influenced both work and leisure. `[真题]`
+> - The company focused on means of communication to improve performance can be deceptive. `[例]`
 
 
 ---

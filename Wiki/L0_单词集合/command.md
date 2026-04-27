@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**命令，指挥**==；②掌握，控制；③值得，应得（尊敬等）；④俯瞰，鸟瞰；
-**n.** ①命令，指令；②指挥权，控制权；③掌握，运用能力；
+**v.** ①==**命令，指挥**== `V N` / `V`；②掌握，控制 `V N` / `V`；③值得，应得（尊敬等） `V N` / `V`；④俯瞰，鸟瞰 `V N` / `V`；
+**n.** ①命令，指令 `a N` / `a N of N`；②指挥权，控制权 `a N` / `a N of N`；③掌握，运用能力 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：下令让别人执行——具有权威性的指令
@@ -134,8 +134,9 @@ com-(完全，加强) + mand(命令，委托，[[mand]]变体)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "A good leader should have a clear command of the situation."（一位优秀的领导者应该对局势有清晰的掌控。）——考研阅读真题
-> - "She has an excellent command of both spoken and written English."（她的英语口语和书面语都掌握得非常好。）——考研高频表达
+> - A good leader should have a clear command of the situation. `[真题]`
+> - She has an excellent command of both spoken and written English. `[真题]`
+> - The company focused on have a good command of to improve performance. `[例]`
 
 ---
 

@@ -25,8 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**客户；委托人**==；②（计算机）客户端
-
+**n.** ①==**客户 `a N` / `a N of N`；委托人**==；②（计算机）客户端 `a N` / `a N of N`
 > [!tip] 原型义
 > **原型义**：委托人、受保护者（a person who uses the services of a professional）
 > **延伸维度**：社会路径——从"受保护的人"到"接受专业服务的人"再到"计算机客户端"
@@ -120,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lawyer's primary responsibility is to protect the interests of his clients."（律师的首要责任是保护客户的利益。）——考研高频表达
-> - "The company has lost several major clients due to its poor customer service."（由于客户服务差，该公司已经失去了几个大客户。）——考研高频表达
+> - The lawyer's primary responsibility is to protect the interests of his clients. `[真题]`
+> - The company has lost several major clients due to its poor customer service. `[真题]`
+> - The company focused on client base to improve performance can be deceptive. `[例]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**共同的；公共的**==；②普通的；常见的；③平凡的；
+**adj.** ①==**共同的 `adj` / `be adj`；公共的**==；②普通的 `adj` / `be adj`；常见的；③平凡的 `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：大家共同拥有的、一起分享的
@@ -136,8 +136,9 @@ com-(共同) + mon(公共的/服务)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a common misconception that learning a language is just about memorizing vocabulary."（学习一门语言只是记忆词汇，这是一种常见的误解。）——考研高频表达
-> - "They have found that common sense is not so common after all."（他们发现，常识终究并不那么普遍。）——考研高频表达
+> - It is a common misconception that learning a language is just about memorizing vocabulary. `[真题]`
+> - They have found that common sense is not so common after all. `[真题]`
+> - The company focused on common sense to improve performance can be deceptive. `[例]`
 
 
 ---

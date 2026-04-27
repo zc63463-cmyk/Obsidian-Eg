@@ -25,12 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**关闭；合上**==；②结束，终止；③靠近，接近
-
-**adj.** ①==**近的；亲密的**==；②密切的，紧密的；③势均力敌的；④严密的，仔细的
-
-**adv.** ①靠近地；②紧密地
-
+**v.** ①==**关闭 `V N` / `V`；合上**==；②结束，终止 `V N` / `V`；③靠近，接近 `V N` / `V`
+**adj.** ①==**近的 `adj` / `be adj`；亲密的**==；②密切的，紧密的 `adj` / `be adj`；③势均力敌的 `adj` / `be adj`；④严密的，仔细的 `adj` / `be adj`
+**adv.** ①靠近地 `adv`；②紧密地 `adv`
 > [!tip] 原型义
 > **原型义**：关闭、合上（to shut something）
 > **延伸维度**：空间路径——从"关上（使两端靠近）"到"距离近"再到"关系亲密"
@@ -137,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The close relationship between economic growth and environmental degradation has been widely acknowledged."（经济增长与环境恶化之间的密切关系已被广泛认可。）——考研高频表达
-> - "Scientists are working to close the gap between theory and practice in renewable energy."（科学家们正在努力缩小可再生能源领域理论与实践之间的差距。）——考研高频表达
+> - The close relationship between economic growth and environmental degradation has been widely acknowledged. `[真题]`
+> - Scientists are working to close the gap between theory and practice in renewable energy. `[真题]`
+> - The company focused on close down to improve performance can be deceptive. `[例]`
 
 
 ---

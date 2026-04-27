@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-v. ①==**声称；断言**==；②索赔；要求；③值得；
-n. ①==**声明；主张**==；②索赔；
+v. ①==**声称；断言**== `V that-clause` / `V to V`；②索赔；要求 `V N` / `claim for N`；③值得 `V to V` / `it V N`；
+n. ①==**声明；主张**== `make a claim` / `a claim that-clause`；②索赔 `a claim for N` / `insurance claim`；
 
 > [!tip] 原型义
 > **原型义**：大声呼喊提出要求→声称拥有权利
@@ -122,8 +122,9 @@ claim（大声呼喊→声称，拉丁语 clamare）
 ## 真题/语料关联
 
 > [!example]- 语料
-- The company claims that its product is the best on the market.（该公司声称其产品是市场上最好的。）
-- You can claim a refund if the product is defective.（如果产品有缺陷，你可以申请退款。）
+> - The company claims that its product is the best on the market. `[例]`
+> - You can claim a refund if the product is defective. `[例]`
+> - She filed an insurance claim after the accident. `[例]`
 
 ---
 

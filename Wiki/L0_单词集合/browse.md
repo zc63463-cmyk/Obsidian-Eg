@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**浏览，随意翻阅**==（书刊、商品等）；②==**（在网上）浏览**==（信息、网页）；③（动物）啃食嫩叶/嫩枝；
-**n.** ①浏览，随意翻阅；
+**v.** ①==**浏览，随意翻阅**==（书刊、商品等） `V N` / `V`；②==**（在网上）浏览**==（信息、网页） `V N` / `V`；③（动物）啃食嫩叶/嫩枝 `V N` / `V`；
+**n.** ①浏览，随意翻阅 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：动物啃食嫩芽（牛/鹿在树丛中吃嫩叶嫩枝）
@@ -129,10 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "browse the Web for information"（在网上浏览信息）——考研阅读常见搭配
-> - "She browsed through the shelves for something interesting to read."（她浏览书架想找本有趣的书看）——常见文学/日常语境
-> - "You are welcome to come in and browse."（欢迎光临随便看看）——商业场景经典表达
-> - "I found the article while browsing through some old magazines."（我在翻阅旧杂志时发现了这篇文章）——阅读语境
+> - It is important to browse the Web for information. `[真题]`
+> - She browsed through the shelves for something interesting to read. `[例]`
+> - You are welcome to come in and browse. `[例]`
 
 ---
 

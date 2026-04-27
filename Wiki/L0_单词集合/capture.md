@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**捕获**==；②==**夺取**==；③==**吸引**==；
+**vt.** ①==**捕获**== `V N` / `V`；②==**夺取**== `V N` / `V`；③==**吸引**== `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：抓住（用力量或技巧将某物/某人"抓住"、纳入自己的控制范围）
@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The army managed to capture the enemy's stronghold."（军队成功夺取了敌人的据点。）——军事/历史类阅读语境
-> - "The film captured the beauty of the ocean perfectly."（这部电影完美地捕捉了海洋之美。）——艺术/文学类阅读语境
-> - "The novel captured the imagination of millions."（这部小说激发了数百万人的想象力。）——文学/文化类阅读语境
+> - The army managed to capture the enemy's stronghold can be deceptive. `[例]`
+> - The film captured the beauty of the ocean perfectly can be deceptive. `[例]`
+> - The novel captured the imagination of millions can be deceptive. `[例]`
 
 ---
 

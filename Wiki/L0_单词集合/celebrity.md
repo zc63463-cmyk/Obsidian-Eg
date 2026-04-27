@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**名人，名流**==；②==**名声，名誉**==；
+**n.** ①==**名人，名流**== `a N` / `a N of N`；②==**名声，名誉**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：被频繁赞美的人（因某种特质而被大众广泛认可和关注的人）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her celebrity status brought both advantages and disadvantages."（她的名人身份带来了利与弊）——考研阅读常见话题，讨论名人效应
-> - "celebrity culture has a huge influence on young people"（名人文化对年轻人影响巨大）——社会类阅读话题
+> - Her celebrity status brought both advantages and disadvantages. `[真题]`
+> - Celebrity culture has a huge influence on young people. `[例]`
+> - The company focused on celebrity chef to improve performance can be deceptive. `[例]`
 
 ---
 

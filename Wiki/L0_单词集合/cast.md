@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**投射**==；②==**铸造**==；③==**投（票）**==；
-**n.** ①==**演员阵容**==；②==**石膏**==；
+**vt.** ①==**投射**== `V N` / `V`；②==**铸造**== `V N` / `V`；③==**投（票）**== `V N` / `V`；
+**n.** ①==**演员阵容**== `a N` / `a N of N`；②==**石膏**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：投掷（将某物用力抛出、投向某个方向）
@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new evidence cast doubt on the previous conclusion."（新证据使先前的结论产生了疑问。）——学术/论证类阅读语境
-> - "The movie has an impressive cast of actors."（这部电影有着令人印象深刻的演员阵容。）——文化/娱乐类阅读语境
-> - "Citizens went to the polls to cast their votes."（公民们前往投票站投票。）——政治/社会类阅读语境
+> - The new evidence cast doubt on the previous conclusion can be deceptive. `[例]`
+> - The movie has an impressive cast of actors. `[例]`
+> - Citizens went to the polls to cast their votes. `[例]`
 
 ---
 

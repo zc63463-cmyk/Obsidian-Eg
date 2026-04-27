@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**简洁，简短**==；②（时间的）短暂；
+**n.** ①==**简洁，简短**== `a N` / `a N of N`；②（时间的）短暂 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：短小——在空间或时间上占据很小的范围
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Brevity is the soul of wit."（简洁是智慧的灵魂。）——莎士比亚名言，考研翻译常考引用
-> - "For the sake of brevity, we will not discuss every detail here."（为了简洁起见，我们不会在这里讨论每一个细节。）——考研翻译真题
+> - Brevity is the soul of wit. `[真题]`
+> - For the sake of brevity, we will not discuss every detail here. `[真题]`
+> - The company focused on brevity is the soul of wit to improve performance. `[例]`
 
 
 ---

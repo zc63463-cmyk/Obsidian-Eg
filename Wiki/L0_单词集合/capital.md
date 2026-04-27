@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**资本**==；②==**首都**==；③==**大写字母**==；
-**adj.** ①==**首要的**==；②==**致命的**==（capital punishment）；
+**n.** ①==**资本**== `a N` / `a N of N`；②==**首都**== `a N` / `a N of N`；③==**大写字母**== `a N` / `a N of N`；
+**adj.** ①==**首要的**== `adj` / `be adj`；②==**致命的**==（capital punishment） `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：头（拉丁语 caput，一切的开端和最重要的部分）
@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company needs to raise more capital to expand its business."（公司需要筹集更多资本来扩展业务。）——商业/经济类阅读语境
-> - "Paris is the capital of France."（巴黎是法国的首都。）——地理/文化类阅读语境
-> - "In English, proper nouns begin with a capital letter."（在英语中，专有名词以大写字母开头。）——语言/教育类阅读语境
+> - The company needs to raise more capital to expand its business can be deceptive. `[例]`
+> - Paris is the capital of France. `[例]`
+> - In English, proper nouns begin with a capital letter. `[例]`
 
 ---
 

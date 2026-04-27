@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**收集，聚集**==；②收藏；③收（款、税等）；④（逐渐）积累；⑤接人，取物；⑥使（自己）镇定；
+**v.** ①==**收集，聚集**== `V N` / `V`；②收藏 `V N` / `V`；③收（款、税等） `V N` / `V`；④（逐渐）积累 `V N` / `V`；⑤接人，取物 `V N` / `V`；⑥使（自己）镇定 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：把分散的东西聚集到一个地方
@@ -136,8 +136,9 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Researchers collected data from over 1,000 participants for the study."（研究人员为这项研究收集了1000多名参与者的数据。）——考研阅读真题
-> - "She collects antique furniture as a hobby."（她以收集古董家具为爱好。）——考研高频表达
+> - Researchers collected data from over 1,000 participants for the study. `[真题]`
+> - She collects antique furniture as a hobby. `[真题]`
+> - The company focused on collect data/evidence to improve performance can be deceptive. `[例]`
 
 ---
 

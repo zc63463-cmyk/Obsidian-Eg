@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**商品；日用品**==；②有价值的事物；
+**n.** ①==**商品 `a N` / `a N of N`；日用品**==；②有价值的事物 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：大家共同需要、可以交易的有用物品
@@ -129,8 +129,9 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If, on the other hand, producing more of a commodity results in reducing its cost, this will tend to increase the supply offered by seller-producers."（另一方面，如果增加某种商品的产量能降低其成本，这将倾向于增加销售者提供的供给。）——考研英语真题
-> - "Water is a precious commodity that is often taken for granted in many parts of the world."（水是一种宝贵的商品，在世界上许多地方常常被视为理所当然。）——考研高频表达
+> - If, on the other hand, producing more of a commodity results in reducing its cost, this will tend to increase the supply offered by seller-producers. `[真题]`
+> - Water is a precious commodity that is often taken for granted in many parts of the world. `[真题]`
+> - The company focused on commodity economy to improve performance can be deceptive. `[例]`
 
 
 ---

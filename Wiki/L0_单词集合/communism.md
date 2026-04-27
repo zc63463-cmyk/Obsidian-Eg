@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**共产主义**==；
+**n.** ①==**共产主义**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：主张一切财产共同所有的社会制度
@@ -124,8 +124,9 @@ commun(共同) + -ism(主义/制度)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The collapse of communism in Eastern Europe fundamentally changed the political landscape of the continent."（东欧共产主义的垮台从根本上改变了该大陆的政治格局。）——考研阅读真题
-> - "The history of communism in the 20th century is a subject of intense academic debate."（20世纪共产主义的历史是学术界激烈辩论的话题。）——考研高频表达
+> - The collapse of communism in Eastern Europe fundamentally changed the political landscape of the continent can be deceptive. `[真题]`
+> - The history of communism in the 20th century is a subject of intense academic debate. `[真题]`
+> - The company focused on under communism to improve performance can be deceptive. `[例]`
 
 ---
 

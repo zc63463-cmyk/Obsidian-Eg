@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**犯（罪、错误等）**==；②承诺，保证；③投入（时间、金钱等）；④把……托付给，把……提交给；⑤（ oneself）致力于，投身于；
+**v.** ①==**犯（罪、错误等）**== `V N` / `V`；②承诺，保证 `V N` / `V`；③投入（时间、金钱等） `V N` / `V`；④把……托付给，把……提交给 `V N` / `V`；⑤（ oneself）致力于，投身于 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：把某事交付出去——可以是交付给行动（犯罪），也可以交付给承诺（保证）
@@ -132,8 +132,9 @@ com-(完全，加强) + mit(发送，交付)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The government has committed significant resources to fighting climate change."（政府已投入大量资源应对气候变化。）——考研阅读真题
-> - "He committed himself to finishing the project by the end of the year."（他承诺在年底前完成这个项目。）——考研高频表达
+> - The government has committed significant resources to fighting climate change. `[真题]`
+> - He committed himself to finishing the project by the end of the year. `[真题]`
+> - The company focused on commit a crime/suicide to improve performance can be deceptive. `[例]`
 
 ---
 

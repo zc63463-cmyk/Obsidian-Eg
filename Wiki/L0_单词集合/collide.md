@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**碰撞，相撞**==；②（意见、利益等）冲突，抵触；
+**v.** ①==**碰撞，相撞**== `V N` / `V`；②（意见、利益等）冲突，抵触 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：两个物体猛烈撞击在一起
@@ -125,8 +125,9 @@ col-(共同，一起，[[com]]变体) + lid(打击、撞击)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Two trains collided head-on, causing dozens of casualties."（两列火车正面相撞，造成数十人伤亡。）——考研阅读真题
-> - "The interests of environmental protection and economic development often collide."（环境保护和经济发展的利益经常发生冲突。）——考研高频表达
+> - Two trains collided head-on, causing dozens of casualties. `[真题]`
+> - The interests of environmental protection and economic development often collide can be deceptive. `[真题]`
+> - The company focused on collide with to improve performance can be deceptive. `[例]`
 
 ---
 

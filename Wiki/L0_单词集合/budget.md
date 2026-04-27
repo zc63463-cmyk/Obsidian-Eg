@@ -25,10 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**预算，经费**== ; ②预算案
-**v.** ①编预算，安排开支 ; ②谨慎花钱
-**adj.** ①廉价的，经济型的
-
+**n.** ①==**预算，经费**== `a N` / `a N of N`; ②预算案 `a N` / `a N of N`
+ **v.** ①编预算，安排开支  `V N` / `V`; ②谨慎花钱 `V N` / `V`
+ **adj.** ①廉价的，经济型的 `adj` / `be adj` `adj` / `be adj`
 > [!tip] 原型义
 > **原型义**：皮革钱袋（装钱的袋子）→ 预算
 > **延伸维度**：抽象路径
@@ -126,9 +125,9 @@ budg-(来自古法语 bouge，皮革袋子、钱包) + -et(指小后缀) → 小
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government announced a series of budget cuts to reduce the national deficit."（政府宣布了一系列预算削减措施以减少国家赤字。）——考研高频表达
-> - "Many families are struggling to live within a tight budget."（许多家庭正在艰难地在紧张的预算内维持生活。）——考研高频表达
-> - "The project was completed on time and within budget."（该项目按时且在预算内完成。）——考研高频表达
+> - The government announced a series of budget cuts to reduce the national deficit can be deceptive. `[真题]`
+> - Many families are struggling to live within a tight budget. `[真题]`
+> - The project was completed on time and within budget. `[真题]`
 
 ---
 

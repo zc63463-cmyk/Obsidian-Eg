@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**社区；共同体**==；②社会；公众；③（动植物的）群落；
+**n.** ①==**社区 `a N` / `a N of N`；共同体**==；②社会 `a N` / `a N of N`；公众；③（动植物的）群落 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：共同生活、共享利益的人群
@@ -132,8 +132,9 @@ commun(共同) + -ity(名词后缀，表示状态或集合)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The local community has organized a fundraising event for the victims of the flood."（当地社区为洪灾受害者组织了一场募捐活动。）——考研阅读真题
-> - "The scientific community has welcomed the findings of the research."（科学界对这项研究的发现表示欢迎。）——考研高频表达
+> - The local community has organized a fundraising event for the victims of the flood. `[真题]`
+> - The scientific community has welcomed the findings of the research. `[真题]`
+> - The company focused on community service to improve performance can be deceptive. `[例]`
 
 ---
 

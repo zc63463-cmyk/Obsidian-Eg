@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**轻快的，活泼的**==（指步伐、动作）；②==**兴隆的，繁忙的**==（指贸易、生意）；③凉爽的，凛冽的（指风）；④干练的，利落的（指态度）；
-**v.** ①使活跃起来；使轻快起来；
+**adj.** ①==**轻快的，活泼的**==（指步伐、动作） `adj` / `be adj`；②==**兴隆的，繁忙的**==（指贸易、生意） `adj` / `be adj`；③凉爽的，凛冽的（指风） `adj` / `be adj`；④干练的，利落的（指态度） `adj` / `be adj`；
+**v.** ①使活跃起来 `V N` / `V`；使轻快起来；
 
 > [!tip] 原型义
 > **原型义**：轻快有力的动作（步伐快而充满活力）
@@ -133,10 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "take long, brisk walks"（进行长时间轻快的散步）——六级真题，健康话题
-> - "moving through school at such a brisk pace"（以如此快的节奏完成学业）——六级真题，教育话题
-> - "doing a brisk trade"（生意兴隆）——常见商业语境搭配
-> - "The breeze was cool, brisk and invigorating."（微风凉爽、轻快、令人振奋）——文学描写
+> - It is important to take long, brisk walks. `[真题]`
+> - Moving through school at such a brisk pace. `[真题]`
+> - Doing a brisk trade. `[例]`
 
 ---
 

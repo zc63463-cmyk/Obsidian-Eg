@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**违反；违背**==；②缺口；裂口；③（关系）破裂；
-**v.** ①==**违反；违背**==；②打破；突破；
+**n.** ①==**违反；违背**== `a breach of N` / `in breach of N`；②缺口；裂口 `a breach in N`；③（关系）破裂 `a breach between N and N`；
+**v.** ①==**违反；违背**== `V N`；②打破；突破 `V N`；
 
 > [!tip] 原型义
 > **原型义**：在连续物上打开缺口
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The company was sued for breach of contract."（这家公司因违约被起诉。）——考研阅读真题
-> - "The hacker's breach of the security system exposed millions of user accounts."（黑客对安全系统的入侵暴露了数百万用户账户。）——考研高频表达
+> - The company was sued for breach of contract. `[真题]`
+> - The hacker's breach of the security system exposed millions of user accounts can be deceptive. `[例]`
+> - They were found to be in breach of the agreement. `[例]`
 
 ---
 

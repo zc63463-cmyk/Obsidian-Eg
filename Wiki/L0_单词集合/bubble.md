@@ -25,9 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**气泡，水泡**== ; ②泡沫（经济用语，指虚假繁荣） ; ③幻想，不切实际的计划
-**v.** ①冒泡，沸腾 ; ②洋溢着（某种情绪）
-
+**n.** ①==**气泡，水泡**== `a N` / `a N of N`; ②泡沫（经济用语，指虚假繁荣） `a N` / `a N of N`; ③幻想，不切实际的计划 `a N` / `a N of N`
+ **v.** ①冒泡，沸腾  `V N` / `V`; ②洋溢着（某种情绪） `V N` / `V`
 > [!tip] 原型义
 > **原型义**：气泡、泡沫
 > **延伸维度**：具身路径
@@ -128,9 +127,9 @@ bubble 为拟声词（模仿冒泡的声音 bub-bub），无词根词缀拆分
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The housing bubble burst, leaving millions of homeowners in debt."（房地产泡沫破裂，使数百万房主陷入债务。）——考研高频表达
-> - "The dot-com bubble of the late 1990s is a classic example of market irrationality."（20世纪90年代末的网络泡沫是市场非理性的经典案例。）——考研高频表达
-> - "Many economists warned that the stock market was in a bubble that was bound to burst."（许多经济学家警告说，股市正处于一个必然会破裂的泡沫中。）——考研高频表达
+> - The housing bubble burst, leaving millions of homeowners in debt can be deceptive. `[真题]`
+> - The dot-com bubble of the late 1990s is a classic example of market irrationality. `[真题]`
+> - Many economists warned that the stock market was in a bubble that was bound to burst. `[真题]`
 
 ---
 

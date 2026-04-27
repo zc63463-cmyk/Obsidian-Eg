@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**同时发生，巧合**==；②（意见、观点等）一致，相符；③（位置）重合，重叠；
+**v.** ①==**同时发生，巧合**== `V N` / `V`；②（意见、观点等）一致，相符 `V N` / `V`；③（位置）重合，重叠 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：两个事物落在同一个点上——时间上的同一点或空间上的同一位置
@@ -130,8 +130,9 @@ co-(共同，一起) + in-(在) + cid(落下，[[ced-cess]]变体) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The interests of employers and employees do not always coincide."（雇主和雇员的利益并不总是一致的。）——考研高频表达
-> - "The demonstration had been carefully stage-managed to coincide with the Prime Minister's visit."（这次示威活动事先作了精心安排，正好在首相访问时进行。）——考研高频表达
+> - The interests of employers and employees do not always coincide. `[真题]`
+> - The demonstration had been carefully stage-managed to coincide with the Prime Minister's visit. `[真题]`
+> - The company focused on coincide with to improve performance can be deceptive. `[例]`
 
 
 ---

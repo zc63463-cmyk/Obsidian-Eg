@@ -25,8 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**珍爱，钟爱**== ; ②珍惜，怀有（希望、梦想等） ; ③爱护，关怀
-
+**v.** ①==**珍爱，钟爱**== `V N` / `V`; ②珍惜，怀有（希望、梦想等） `V N` / `V`; ③爱护，关怀 `V N` / `V`
 > [!tip] 原型义
 > **原型义**：珍爱、关爱
 > **延伸维度**：情感路径
@@ -123,8 +122,9 @@ cher-(=car-/cur，关心、珍爱，与 care 同源) + -ish(动词后缀，表"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We should cherish the opportunities to learn from outstanding scholars."（我们应当珍惜向杰出学者学习的机会。）——2021考研翻译
-> - "People cherish the freedom and independence that they have won."（人们珍视他们赢得的自由和独立。）——考研高频表达
+> - We should cherish the opportunities to learn from outstanding scholars. `[真题]`
+> - People cherish the freedom and independence that they have won. `[真题]`
+> - The company focused on cherish the memory of to improve performance can be deceptive. `[例]`
 
 ---
 

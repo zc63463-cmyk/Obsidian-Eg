@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**委员会**==；
+**n.** ①==**委员会**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：被委派执行特定任务的一群人
@@ -125,8 +125,9 @@ com-(共同，一起) + mit(发送，交付) + -tee(名词后缀，表示"做某
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The committee is expected to reach a decision by the end of the month."（委员会预计将在月底前做出决定。）——考研阅读真题
-> - "She was appointed to chair the parliamentary committee on education."（她被任命为议会教育委员会主席。）——考研高频表达
+> - The committee is expected to reach a decision by the end of the month. `[真题]`
+> - She was appointed to chair the parliamentary committee on education. `[真题]`
+> - The company focused on standing committee to improve performance can be deceptive. `[例]`
 
 ---
 

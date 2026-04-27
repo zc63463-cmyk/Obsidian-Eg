@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**迎合**==（cater to，满足某种需求或口味）；②==**提供饮食**==（cater for，为活动提供餐饮服务）；
+**vi.** ①==**迎合**==（cater to，满足某种需求或口味） `V N` / `V`；②==**提供饮食**==（cater for，为活动提供餐饮服务） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：采购→提供饮食→迎合
@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The restaurant caters mainly to foreign tourists."（这家餐厅主要迎合外国游客的口味）——旅游话题
-> - "TV programs should cater to the needs of different age groups."（电视节目应该迎合不同年龄段人群的需求）——媒体话题
-> - "The company was hired to cater for the conference."（这家公司被雇佣为会议提供餐饮服务）——商业话题
-> - "Many politicians cater to public opinion rather than lead it."（许多政客迎合民意而非引领民意）——政治话题
+> - The restaurant caters mainly to foreign tourists can be deceptive. `[例]`
+> - TV programs should cater to the needs of different age groups. `[例]`
+> - The company was hired to cater for the conference. `[例]`
 
 ---
 

@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**短暂的，短时间的**==（时间/ duration）；②==**简短的，简洁的**==（语言/内容）；③（衣着）短的，暴露的；
-**n.** ①==**简报，摘要**==；②（律师的）辩护委托书，案情摘要；③任务指示，职责说明；
-**v.** ①==**向…介绍情况，做…的简报**==（brief sb. on sth.）；
+**adj.** ①==**短暂的，短时间的**==（时间/ duration） `adj` / `be adj`；②==**简短的，简洁的**==（语言/内容） `adj` / `be adj`；③（衣着）短的，暴露的 `adj` / `be adj`；
+**n.** ①==**简报，摘要**== `a N` / `a N of N`；②（律师的）辩护委托书，案情摘要 `a N` / `a N of N`；③任务指示，职责说明 `a N` / `a N of N`；
+**v.** ①==**向…介绍情况，做…的简报**==（brief sb. on sth.） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：短的、简洁的（拉丁语 brevis = short）
@@ -140,10 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please give a brief self-introduction."（请做一个简短的自我介绍）——考研面试常见表达
-> - "In brief, the plan is feasible."（简而言之，这个计划是可行的）——写作/论述常用过渡
-> - "brief sb. on the latest development"（向某人介绍最新进展）——商业/新闻语境
-> - "a brief survey of the literature"（文献简述）——学术写作常见搭配
+> - It is important to please give a brief self-introduction. `[真题]`
+> - In brief, the plan is feasible. `[例]`
+> - It is important to brief sb. on the latest development. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可比较的，比得上的**==；②类似的，同等的；
+**adj.** ①==**可比较的，比得上的**== `adj` / `be adj`；②类似的，同等的 `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：可比较的（能够放在一起比的）
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two studies produced results that were not directly comparable due to differences in methodology.（由于方法论的差异，这两项研究产生的结果无法直接比较。）
+> - The two studies produced results that were not directly comparable due to differences in methodology. `[例]`
+> - The company focused on comparable to/with to improve performance can be deceptive. `[例]`
+> - This example sentence shows how to use comparable in context can be deceptive. `[例]`
 
 ---
 

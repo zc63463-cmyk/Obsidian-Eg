@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-n. ①==**环境；情况；境遇**==；②（复数）客观情况；详情；
+n. ①==**环境；情况；境遇**== `in ... circumstances` / `under ... circumstances`；②（复数）客观情况；详情 `the circumstances of N` / `in the circumstances`；
 
 > [!tip] 原型义
 > **原型义**：站在周围的事物→人所处的环境与条件
@@ -118,8 +118,9 @@ circum-(周围) + st(站立) + -ance(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-- Economic circumstances have changed dramatically.（经济环境发生了巨大变化。）
-- The court must consider all the circumstances of the case.（法院必须考虑案件的所有情况。）
+> - Economic circumstances have changed dramatically. `[例]`
+> - The court must consider all the circumstances of the case. `[例]`
+> - Under no circumstances should you leave the building. `[例]`
 
 ---
 

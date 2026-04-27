@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**商业，贸易**==；②社交，交流；
+**n.** ①==**商业，贸易**== `a N` / `a N of N`；②社交，交流 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：人与人之间的商品交换——买卖活动
@@ -126,8 +126,9 @@ com-(共同，一起) + merc(交易，贸易)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "E-commerce has fundamentally transformed the way people shop and do business."（电子商务从根本上改变了人们购物和做生意的方式。）——考研阅读真题
-> - "The chamber of commerce promotes local business interests and economic growth."（商会促进当地的商业利益和经济增长。）——考研高频表达
+> - E-commerce has fundamentally transformed the way people shop and do business. `[真题]`
+> - The chamber of commerce promotes local business interests and economic growth can be deceptive. `[真题]`
+> - The company focused on international commerce to improve performance can be deceptive. `[例]`
 
 ---
 

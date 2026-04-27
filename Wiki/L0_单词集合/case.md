@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**情况**==；②==**案例**==；③==**箱子**==；④==**案件**==；
+**n.** ①==**情况**== `a N` / `a N of N`；②==**案例**== `a N` / `a N of N`；③==**箱子**== `a N` / `a N of N`；④==**案件**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：发生的事（拉丁语 casus，"发生的事、落下的事"）
@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In case of emergency, please call this number."（如果发生紧急情况，请拨打此号码。）——指令/安全类阅读语境
-> - "The lawyer presented a strong case in court."（律师在法庭上提出了有力的案件论证。）——法律类阅读语境
-> - "This is a classic case of poor management."（这是一个管理不善的经典案例。）——商业/管理类阅读语境
+> - It is important to in case of emergency, please call this number. `[例]`
+> - The lawyer presented a strong case in court can be deceptive. `[例]`
+> - This is a classic case of poor management. `[例]`
 
 ---
 

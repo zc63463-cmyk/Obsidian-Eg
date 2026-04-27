@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**确定的，无疑的**==；②==**某些，某个**==（a certain）；③==**确信的**==（be certain that）；
+**adj.** ①==**确定的，无疑的**== `adj` / `be adj`；②==**某些，某个**==（a certain） `adj` / `be adj`；③==**确信的**==（be certain that） `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：确定的，分辨清楚的（对某事有把握、没有疑问）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I am certain that this approach will yield positive results."（我确信这种方法会产生积极的结果）——考研阅读常见表达
-> - "A certain amount of risk is inevitable in any investment."（任何投资都不可避免地存在一定风险）——a certain 的典型用法
+> - I am certain that this approach will yield positive results. `[真题]`
+> - A certain amount of risk is inevitable in any investment. `[例]`
+> - The company focused on be certain of/about to improve performance. `[例]`
 
 ---
 

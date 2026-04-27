@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**商标，品牌**==；②种类，类型；③烙印；
+**n.** ①==**商标，品牌**== `a brand of N` / `brand name`；②种类，类型 `a brand of N`；③烙印 `a brand on N`；
 
-**v.** ①==**给……打烙印**==；②加污名于，谴责；③铭刻，铭记；
+**v.** ①==**给……打烙印**== `V N on N` / `V N with N`；②加污名于，谴责 `V sb as N`；③铭刻，铭记 `be branded in one's memory`；
 
 > [!tip] 原型义
 > **原型义**：燃烧的标记、烙印（用火在物品/牲畜上烫出标记以表明归属）
@@ -128,8 +128,9 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Brand loyalty is one of the most important factors in consumer behavior."（品牌忠诚度是消费者行为中最重要的因素之一。）——考研高频表达
-> - "The company has invested heavily in building its brand image in international markets."（公司在国际市场上大力投资建设品牌形象。）——考研高频表达
+> - Brand loyalty is one of the most important factors in consumer behavior. `[真题]`
+> - The company has invested heavily in building its brand image in international markets. `[真题]`
+> - He was branded as dishonest after the investigation. `[例]`
 
 
 ---

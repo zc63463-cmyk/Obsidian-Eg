@@ -25,9 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**选择，抉择**== ; ②供选择的范围 ; ③入选者，精选品
-**adj.** ①上等的，精选的
-
+**n.** ①==**选择，抉择**== `a N` / `a N of N`; ②供选择的范围 `a N` / `a N of N`; ③入选者，精选品 `a N` / `a N of N`
+ **adj.** ①上等的，精选的 `adj` / `be adj` `adj` / `be adj`
 > [!tip] 原型义
 > **原型义**：品尝、辨别
 > **延伸维度**：抽象路径
@@ -127,8 +126,9 @@ choic-/chois-(品尝、辨别，与 [[choose]] 同源) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In many societies, children still marry someone of their parents' choice."（在许多社会中，子女结婚仍然只能听从父母之命。）——考研高频表达
-> - "Either way, we have choices about how we respond to it when it comes."（无论哪种方式，当问题来临时，我们都有选择如何应对的自由。）——考研真题
+> - In many societies, children still marry someone of their parents' choice. `[真题]`
+> - Either way, we have choices about how we respond to it when it comes. `[真题]`
+> - The company focused on make a choice to improve performance can be deceptive. `[例]`
 
 ---
 

@@ -25,9 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**化学的**== ; ②化学作用的
-**n.** ①化学制品，化学品
-
+**adj.** ①==**化学的**== `adj` / `be adj`; ②化学作用的 `adj` / `be adj`
+ **n.** ①化学制品，化学品 `a N` / `a N of N` `a N` / `a N of N`
 > [!tip] 原型义
 > **原型义**：炼金术、物质的组成
 > **延伸维度**：抽象路径
@@ -124,8 +123,9 @@ chem-（炼金术，源自阿拉伯语 al-kimiya）+ -ical(形容词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Chemical fertilizers have caused serious damage to the soil."（化肥对土壤造成了严重破坏。）——考研高频表达
-> - "The chemical composition of the substance remains unknown."（该物质的化学成分仍然未知。）——考研高频表达
+> - Chemical fertilizers have caused serious damage to the soil. `[真题]`
+> - The chemical composition of the substance remains unknown can be deceptive. `[真题]`
+> - The company focused on chemical reaction to improve performance can be deceptive. `[例]`
 
 ---
 

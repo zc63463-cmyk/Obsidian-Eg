@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**商业的，商务的**==；②营利的，以获利为目的的；③（电视、广播）商业广告；
-**n.** ①（电视、广播中的）商业广告；
+**adj.** ①==**商业的，商务的**== `adj` / `be adj`；②营利的，以获利为目的的 `adj` / `be adj`；③（电视、广播）商业广告 `adj` / `be adj`；
+**n.** ①（电视、广播中的）商业广告 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：与商品交易有关的——以营利为目的的
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The commercial success of the product exceeded all expectations."（该产品的商业成功超出了所有人的预期。）——考研阅读真题
-> - "Television commercials aimed at children have been heavily criticized."（针对儿童的电视商业广告受到了严厉批评。）——考研高频表达
+> - The commercial success of the product exceeded all expectations can be deceptive. `[真题]`
+> - Television commercials aimed at children have been heavily criticized. `[真题]`
+> - The company focused on commercial success to improve performance can be deceptive. `[例]`
 
 ---
 

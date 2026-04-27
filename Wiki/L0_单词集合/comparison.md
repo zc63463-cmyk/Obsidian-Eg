@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**比较，对比**==；②比拟，比喻；③相比，类比关系；
+**n.** ①==**比较，对比**== `a N` / `a N of N`；②比拟，比喻 `a N` / `a N of N`；③相比，类比关系 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：比较（放在一起看的行为或结果）
@@ -127,7 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In comparison with traditional teaching methods, online education offers greater flexibility but requires more self-discipline.（与传统教学方法相比，在线教育提供了更大的灵活性，但需要更多的自律。）
+> - In comparison with traditional teaching methods, online education offers greater flexibility but requires more self-discipline. `[例]`
+> - The company focused on by/in comparison to improve performance can be deceptive. `[例]`
+> - This example sentence shows how to use comparison in context can be deceptive. `[例]`
 
 ---
 

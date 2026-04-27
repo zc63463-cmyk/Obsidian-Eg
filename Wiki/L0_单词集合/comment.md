@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**评论，意见**==；②批评，指责；
-**v.** ①==**评论，发表意见**==；
+**n.** ①==**评论，意见**== `a N` / `a N of N`；②批评，指责 `a N` / `a N of N`；
+**v.** ①==**评论，发表意见**== `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：对某事表达看法——用语言对事物进行解读和评价
@@ -129,8 +129,9 @@ com-(完全，加强) + ment(思考、心智，[[medi]]相关)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The minister refused to comment on the rumors about her resignation."（部长拒绝就有关她辞职的传闻发表评论。）——考研阅读真题
-> - "Her comments on the education reform sparked a heated debate."（她对教育改革的评论引发了激烈的辩论。）——考研高频表达
+> - The minister refused to comment on the rumors about her resignation can be deceptive. `[真题]`
+> - Her comments on the education reform sparked a heated debate. `[真题]`
+> - The company focused on make a comment on/about to improve performance can be deceptive. `[例]`
 
 ---
 

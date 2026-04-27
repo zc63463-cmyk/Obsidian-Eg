@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**候选人，应试者**==；②==**申请求职者**==；③==**被认定适合某事物的人**==；
+**n.** ①==**候选人，应试者**== `a N` / `a N of N`；②==**申请求职者**== `a N` / `a N of N`；③==**被认定适合某事物的人**== `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：穿白袍求职的人（古罗马竞选公职者穿漂白的白袍以示纯洁无瑕）
@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "presidential candidate"（总统候选人）——考研阅读政治类话题高频搭配
-> - "PhD candidate"（博士生）——考研阅读/翻译中描述学术身份的常见表达
-> - "a candidate for heart surgery"（心脏手术的适合人选）——医学类阅读语境
+> - It is important to presidential candidate. `[真题]`
+> - It is important to phD candidate. `[真题]`
+> - A candidate for heart surgery can be deceptive. `[例]`
 
 ---
 

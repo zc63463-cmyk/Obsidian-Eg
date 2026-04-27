@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**特有的，典型的**==；②独特的，表示特性的；
-**n.** ①==**特征，特性**==；②特点；
+**adj.** ①==**特有的，典型的**== `adj` / `be adj`；②独特的，表示特性的 `adj` / `be adj`；
+**n.** ①==**特征，特性**== `a N` / `a N of N`；②特点 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：独特的标记（希腊语 kharaktēristikos = 与标记有关的）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "be characteristic of"（是……的特征）——考研阅读/翻译超高频搭配
-> - "characteristic feature"（典型特征）——学术类阅读常见搭配
-> - "the physical characteristics of the material"（材料的物理特性）——科技类阅读高频表达
+> - It is important to be characteristic of. `[真题]`
+> - It is important to characteristic feature. `[例]`
+> - The physical characteristics of the material can be deceptive. `[例]`
 
 ---
 

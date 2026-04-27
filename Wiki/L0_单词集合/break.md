@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**打破；折断；碎裂**==；②违反（法律、承诺等）；③中断，打破（记录）；④（天）破晓；⑤（消息等）传开；
-**n.** ①休息，间歇；②间断，暂停；
+**v.** ①==**打破；折断；碎裂**== `V N` / `V N in half`；②违反（法律、承诺等） `V N` / `V the law`；③中断，打破（记录） `V N` / `V a record`；④（天）破晓 `V` / `V at dawn`；⑤（消息等）传开 `V` / `V to the public`；
+**n.** ①休息，间歇 `take a break` / `coffee break`；②间断，暂停 `a break in N` / `a break from N`；
 
 > [!tip] 原型义
 > **原型义**：施加外力使完整物体分裂成碎片
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of the new element broke fresh ground in the field of chemistry."（这一新元素的发现开创了化学领域的新局面。）——考研高频表达
-> - "It is important to take regular breaks to maintain productivity and mental health."（定期休息对于保持生产力和心理健康很重要。）——考研高频表达
+> - The discovery of the new element broke fresh ground in the field of chemistry can be deceptive. `[真题]`
+> - Take regular breaks to maintain productivity and mental health. `[真题]`
+> - The vase broke into pieces when it hit the floor can be deceptive. `[例]`
 
 
 ---

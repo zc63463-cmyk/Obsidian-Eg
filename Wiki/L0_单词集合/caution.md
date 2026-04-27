@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谨慎，小心**==（小心行事的态度）；②==**警告**==（提醒某人注意危险）；
-**vt.** ①==**警告**==（提醒某人小心）；
+**n.** ①==**谨慎，小心**==（小心行事的态度） `a N` / `a N of N`；②==**警告**==（提醒某人注意危险） `a N` / `a N of N`；
+**vt.** ①==**警告**==（提醒某人小心） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：小心→谨慎
@@ -135,10 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Investors should exercise caution when investing in emerging markets."（投资者在投资新兴市场时应保持谨慎）——金融话题
-> - "The doctor cautioned him against eating too much sugar."（医生警告他不要吃太多糖）——健康话题
-> - "The product was recalled as a precaution against potential safety risks."（该产品被召回，作为防范潜在安全风险的预防措施）——商业话题
-> - "She proceeded with caution, knowing the risks involved."（她谨慎行事，因为她知道其中涉及的风险）——决策话题
+> - Investors should exercise caution when investing in emerging markets. `[例]`
+> - The doctor cautioned him against eating too much sugar can be deceptive. `[例]`
+> - The product was recalled as a precaution against potential safety risks. `[例]`
 
 ---
 

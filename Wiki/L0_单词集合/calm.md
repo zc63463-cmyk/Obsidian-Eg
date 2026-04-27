@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**平静的，镇定的**==；②（天气、海洋）无风的，平静的；
-**n.** ①==**平静，宁静**==；
-**v.** ①==**使平静，使镇定**==；
+**adj.** ①==**平静的，镇定的**== `adj` / `be adj`；②（天气、海洋）无风的，平静的 `adj` / `be adj`；
+**n.** ①==**平静，宁静**== `a N` / `a N of N`；
+**v.** ①==**使平静，使镇定**== `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：正午酷热中万物静止（地中海地区正午时分，因酷热而万物安宁、风平浪静）
@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "remain calm in the face of crisis"（面对危机保持冷静）——考研阅读中描述应对压力的态度
-> - "the calm before the storm"（暴风雨前的宁静）——考研阅读中常见比喻，描述表面平静下的潜在危机
-> - "calm the public's fears"（平息公众的恐惧）——社会类话题高频搭配
+> - It is important to remain calm in the face of crisis. `[真题]`
+> - The calm before the storm can be deceptive. `[真题]`
+> - Calm the public's fears. `[例]`
 
 ---
 

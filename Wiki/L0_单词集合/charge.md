@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**收费，要价**==；②指控，控告；③充电；④冲锋，猛冲；⑤使承担（责任）；
-**n.** ①==**费用，价钱**==；②指控，控告；③电荷；④主管，负责；⑤冲锋；
+**v.** ①==**收费，要价**== `V N` / `V`；②指控，控告 `V N` / `V`；③充电 `V N` / `V`；④冲锋，猛冲 `V N` / `V`；⑤使承担（责任） `V N` / `V`；
+**n.** ①==**费用，价钱**== `a N` / `a N of N`；②指控，控告 `a N` / `a N of N`；③电荷 `a N` / `a N of N`；④主管，负责 `a N` / `a N of N`；⑤冲锋 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：装载，装填（将某物装入某处）
@@ -134,10 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - How much do you **charge** for a haircut?（理一次发你们收多少钱？）
-> - He was **charged** with fraud and sentenced to five years in prison.（他被指控犯有欺诈罪，被判处五年监禁。）
-> - The professor is in **charge** of the research project.（这位教授负责这个研究项目。）
-> - Please make sure your phone is fully **charged** before the exam.（请确保考试前手机已充满电。）
+> - It is important to how much do you **charge** for a haircut?. `[例]`
+> - He was **charged** with fraud and sentenced to five years in prison. `[例]`
+> - The professor is in **charge** of the research project. `[例]`
 
 ---
 

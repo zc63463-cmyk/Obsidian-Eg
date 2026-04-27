@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**伤亡人员**==（事故、战争中的死伤者）；②==**受害者**==（某种情况的牺牲品）；
+**n.** ①==**伤亡人员**==（事故、战争中的死伤者） `a N` / `a N of N`；②==**受害者**==（某种情况的牺牲品） `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：偶然事件→伤亡
@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The army suffered heavy casualties during the battle."（军队在战斗中遭受了惨重伤亡）——军事话题
-> - "Civilian casualties continue to rise in the conflict zone."（冲突地区的平民伤亡持续增加）——新闻话题
-> - "Small businesses are often the first casualties of an economic recession."（小企业往往是经济衰退的首批受害者）——经济话题
-> - "The hospital reported no casualties from the earthquake."（医院报告地震没有造成伤亡）——灾难话题
+> - The army suffered heavy casualties during the battle can be deceptive. `[例]`
+> - Civilian casualties continue to rise in the conflict zone. `[例]`
+> - Small businesses are often the first casualties of an economic recession. `[例]`
 
 ---
 

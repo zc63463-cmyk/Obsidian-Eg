@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**变化，改变**==；②==**零钱，找头**==；③更换，替换；
-**vt.** ①==**改变，使变化**==；②==**更换，替换**==；③兑换；
-**vi.** ①改变，变化；②换衣服，换车；
+**n.** ①==**变化，改变**== `a N` / `a N of N`；②==**零钱，找头**== `a N` / `a N of N`；③更换，替换 `a N` / `a N of N`；
+**vt.** ①==**改变，使变化**== `V N` / `V`；②==**更换，替换**== `V N` / `V`；③兑换 `V N` / `V`；
+**vi.** ①改变，变化 `V N` / `V`；②换衣服，换车 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：交换/物物交换（拉丁语 cambiare = to exchange）
@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "climate change"（气候变化）——考研阅读/翻译超高频搭配
-> - "change one's mind/attitude"（改变主意/态度）——写作/阅读常见搭配
-> - "social and economic changes"（社会经济变革）——社科类阅读高频表达
+> - It is important to climate change. `[真题]`
+> - Change one's mind/attitude. `[例]`
+> - It is important to social and economic changes. `[例]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**原因**==（导致某事发生的事物）；②==**事业**==（为之奋斗的目标或信念）；
-**vt.** ①==**导致**==（使某事发生）；②==**引起**==（引发某种结果）；
+**n.** ①==**原因**==（导致某事发生的事物） `a N` / `a N of N`；②==**事业**==（为之奋斗的目标或信念） `a N` / `a N of N`；
+**vt.** ①==**导致**==（使某事发生） `V N` / `V`；②==**引起**==（引发某种结果） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：导致某事发生的东西→原因
@@ -136,10 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The main cause of global warming is the emission of greenhouse gases."（全球变暖的主要原因是温室气体的排放）——环境话题
-> - "She devoted her life to the cause of education."（她将一生奉献给了教育事业）——社会话题
-> - "The earthquake caused widespread destruction across the region."（地震在该地区造成了广泛的破坏）——灾难话题
-> - "We need to identify the root cause of the problem before we can solve it."（我们需要先找出问题的根本原因，然后才能解决它）——分析话题
+> - The main cause of global warming is the emission of greenhouse gases. `[例]`
+> - She devoted her life to the cause of education. `[例]`
+> - The earthquake caused widespread destruction across the region can be deceptive. `[例]`
 
 ---
 

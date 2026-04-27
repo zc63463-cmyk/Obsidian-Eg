@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-v. ①==**引用；引证**==；②传唤；表彰；
+v. ①==**引用；引证**== `V N` / `V N as N`；②传唤；表彰 `V sb` / `V sb for N`；
 
 > [!tip] 原型义
 > **原型义**：召唤某人到庭→引用权威来源作为证据
@@ -120,8 +120,9 @@ cite（召唤/引用，拉丁语 citare）
 ## 真题/语料关联
 
 > [!example]- 语料
-- The author cites several studies to support her argument.（作者引用了多项研究来支持她的论点。）
-- She was cited for outstanding contributions to the field.（她因对该领域的杰出贡献而受到表彰。）
+> - The author cites several studies to support her argument. `[例]`
+> - She was cited for outstanding contributions to the field. `[例]`
+> - The report cites poverty as a major cause. `[例]`
 
 ---
 

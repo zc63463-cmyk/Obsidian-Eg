@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**庆祝**==（以仪式或活动纪念喜庆事件）；②==**赞美**==（公开赞扬某人或某事）；③==**举行**==（举行仪式或庆典）；
+**vt.** ①==**庆祝**==（以仪式或活动纪念喜庆事件） `V N` / `V`；②==**赞美**==（公开赞扬某人或某事） `V N` / `V`；③==**举行**==（举行仪式或庆典） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：公开赞美→庆祝
@@ -132,10 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People across the country gathered to celebrate the national holiday."（全国各地的人们聚集在一起庆祝国庆节）——节日话题
-> - "The novel celebrates the courage of ordinary people in extraordinary times."（这部小说赞美了非凡时期普通人的勇气）——文学话题
-> - "The couple celebrated their 50th wedding anniversary with a grand party."（这对夫妇举办了一场盛大的派对来庆祝他们的金婚纪念日）——生活话题
-> - "Her achievements are widely celebrated in the scientific community."（她的成就在科学界广受赞誉）——学术话题
+> - People across the country gathered to celebrate the national holiday. `[例]`
+> - The novel celebrates the courage of ordinary people in extraordinary times can be deceptive. `[例]`
+> - The couple celebrated their 50th wedding anniversary with a grand party can be deceptive. `[例]`
 
 ---
 

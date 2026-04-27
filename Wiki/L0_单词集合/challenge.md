@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**挑战，艰巨任务**==；②==**质疑，怀疑**==；③质疑（法律）；
-**vt.** ①==**向……挑战**==；②==**质疑，对……表示怀疑**==；③对……质疑（法律）；
+**n.** ①==**挑战，艰巨任务**== `a N` / `a N of N`；②==**质疑，怀疑**== `a N` / `a N of N`；③质疑（法律） `a N` / `a N of N`；
+**vt.** ①==**向……挑战**== `V N` / `V`；②==**质疑，对……表示怀疑**== `V N` / `V`；③对……质疑（法律） `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：指控/质疑（拉丁语 calumnia = 虚假指控）
@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "face the challenge of climate change"（应对气候变化的挑战）——考研阅读/翻译高频表达
-> - "challenge the traditional view"（质疑传统观点）——学术类阅读常见搭配
-> - "a challenging task"（一项具有挑战性的任务）——写作/阅读高频搭配
+> - It is important to face the challenge of climate change. `[真题]`
+> - It is important to challenge the traditional view. `[例]`
+> - A challenging task can be deceptive. `[例]`
 
 ---
 

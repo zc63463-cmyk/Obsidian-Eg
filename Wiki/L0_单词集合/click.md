@@ -25,10 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**点击（鼠标）**==；②发出咔嗒声；③突然明白，恍然大悟；④一拍即合，默契
-
-**n.** ①咔嗒声；②点击
-
+**v.** ①==**点击（鼠标）**== `V N` / `V`；②发出咔嗒声 `V N` / `V`；③突然明白，恍然大悟 `V N` / `V`；④一拍即合，默契 `V N` / `V`
+**n.** ①咔嗒声 `a N` / `a N of N`；②点击 `a N` / `a N of N`
 > [!tip] 原型义
 > **原型义**：发出短促的咔嗒声（a short, sharp sound）
 > **延伸维度**：具身路径——从"手指按动发出咔嗒声"到"鼠标点击"，再到"突然明白（脑中咔嗒一声）"
@@ -126,8 +124,9 @@ click 为拟声词（onomatopoeia），模仿短促的咔嗒声，无传统词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With just a click of a button, users can access vast amounts of information online."（只需点击一下按钮，用户就可以在线获取大量信息。）——考研高频表达
-> - "It didn't take long for the new team members to click and start working together effectively."（新团队成员很快就产生了默契，开始高效合作。）——考研高频表达
+> - With just a click of a button, users can access vast amounts of information online. `[真题]`
+> - It didn't take long for the new team members to click and start working together effectively. `[真题]`
+> - The company focused on click with sb. to improve performance can be deceptive. `[例]`
 
 
 ---

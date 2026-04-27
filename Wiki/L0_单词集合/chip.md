@@ -25,9 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**芯片**== ; ②碎片，碎屑 ; ③筹码
-**v.** ①削，凿 ; ②破损
-
+**n.** ①==**芯片**== `a N` / `a N of N`; ②碎片，碎屑 `a N` / `a N of N`; ③筹码 `a N` / `a N of N`
+ **v.** ①削，凿  `V N` / `V`; ②破损 `V N` / `V`
 > [!tip] 原型义
 > **原型义**：小片、碎片
 > **延伸维度**：空间路径
@@ -126,8 +125,9 @@ chip（源自古英语 cipp"小木片"，拟声词，模仿切削声）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has developed a new computer chip that is faster and more energy-efficient."（该公司研发了一种更快、更节能的新型电脑芯片。）——考研高频表达
-> - "He had a chip on his shoulder about not being promoted."（他因为没有被晋升而心怀不满。）——考研高频表达
+> - The company has developed a new computer chip that is faster and more energy-efficient. `[真题]`
+> - He had a chip on his shoulder about not being promoted. `[真题]`
+> - The company focused on silicon chip to improve performance can be deceptive. `[例]`
 
 ---
 

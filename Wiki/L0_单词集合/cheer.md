@@ -25,9 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**欢呼，喝彩**== ; ②使高兴，鼓舞 ; ③安慰，鼓励
-**n.** ①欢呼声 ; ②愉快，高兴
-
+**v.** ①==**欢呼，喝彩**== `V N` / `V`; ②使高兴，鼓舞 `V N` / `V`; ③安慰，鼓励 `V N` / `V`
+ **n.** ①欢呼声  `a N` / `a N of N`; ②愉快，高兴 `a N` / `a N of N`
 > [!tip] 原型义
 > **原型义**：面部表情、心情
 > **延伸维度**：具身路径
@@ -129,8 +128,9 @@ cheer（源自古法语 chiere"面部表情"，再追溯至拉丁语 cara"脸"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The crowd cheered wildly when the team scored the winning goal."（当球队打进制胜球时，人群疯狂欢呼。）——考研高频表达
-> - "Her words of encouragement cheered him up considerably."（她的鼓励之词让他振作了很多。）——考研高频表达
+> - The crowd cheered wildly when the team scored the winning goal can be deceptive. `[真题]`
+> - Her words of encouragement cheered him up considerably. `[真题]`
+> - The company focused on cheer up to improve performance can be deceptive. `[例]`
 
 ---
 

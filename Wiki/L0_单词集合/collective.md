@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**集体的，共同的**==；②总的，集合的；
-**n.** ①集体企业；②集合体；
+**adj.** ①==**集体的，共同的**== `adj` / `be adj`；②总的，集合的 `adj` / `be adj`；
+**n.** ①集体企业 `a N` / `a N of N`；②集合体 `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：把个体聚集在一起形成的整体——属于群体的而非个人的
@@ -130,8 +130,9 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The success of the project was the result of a collective effort by all team members."（项目的成功是所有团队成员共同努力的结果。）——考研阅读真题
-> - "Collective action is needed to address the problem of income inequality."（需要集体行动来解决收入不平等问题。）——考研高频表达
+> - The success of the project was the result of a collective effort by all team members. `[真题]`
+> - Collective action is needed to address the problem of income inequality. `[真题]`
+> - The company focused on collective effort to improve performance can be deceptive. `[例]`
 
 ---
 

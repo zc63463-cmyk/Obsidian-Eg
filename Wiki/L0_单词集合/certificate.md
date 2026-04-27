@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**证书，证明**==；②==**证明文件**==；
-**v.** ①==**发证书给**==；
+**n.** ①==**证书，证明**== `a N` / `a N of N`；②==**证明文件**== `a N` / `a N of N`；
+**v.** ①==**发证书给**== `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：使确定的东西（用来确认某人资格或能力的正式文件）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All participants will receive a certificate upon completion of the course."（所有参与者在完成课程后将获得一份证书）——教育类阅读常见表达
-> - "You must present your birth certificate when applying for a visa."（申请签证时你必须出示出生证明）——行政手续类语境
+> - All participants will receive a certificate upon completion of the course. `[例]`
+> - You must present your birth certificate when applying for a visa. `[例]`
+> - The company focused on birth certificate to improve performance can be deceptive. `[例]`
 
 ---
 

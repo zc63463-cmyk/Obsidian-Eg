@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**谨慎的，小心的**==（做事小心、避免风险的）；
+**adj.** ①==**谨慎的，小心的**==（做事小心、避免风险的） `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：充满小心的
@@ -130,10 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government adopted a cautious approach to economic reform."（政府采取了谨慎的经济改革方法）——政治话题
-> - "Investors remain cautious about the stock market outlook."（投资者对股市前景保持谨慎）——金融话题
-> - "She is a cautious driver who never exceeds the speed limit."（她是一个谨慎的司机，从不超速）——生活话题
-> - "Scientists expressed cautious optimism about the new treatment."（科学家对这种新疗法表达了谨慎的乐观态度）——科学话题
+> - The government adopted a cautious approach to economic reform can be deceptive. `[例]`
+> - Investors remain cautious about the stock market outlook. `[例]`
+> - She is a cautious driver who never exceeds the speed limit. `[例]`
 
 ---
 

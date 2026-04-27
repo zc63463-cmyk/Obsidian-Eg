@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**容量**==；②==**能力**==；③==**身份，职位**==（in the capacity of）；
+**n.** ①==**容量**== `a N` / `a N of N`；②==**能力**== `a N` / `a N of N`；③==**身份，职位**==（in the capacity of） `a N` / `a N of N`；
 
 > [!tip] 原型义
 > **原型义**：容纳的能力（一个空间或人能"装下"多少东西）
@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The stadium has a seating capacity of 80,000."（这座体育场的座位容量为 80,000 人。）——建筑/社会类阅读语境
-> - "She has an extraordinary capacity for hard work."（她有着非凡的勤奋能力。）——人物/传记类阅读语境
-> - "He acted in his capacity as chairman of the board."（他以董事会主席的身份行事。）——商业/法律类阅读语境
+> - The stadium has a seating capacity of 80,000. `[例]`
+> - She has an extraordinary capacity for hard work. `[例]`
+> - He acted in his capacity as chairman of the board. `[例]`
 
 ---
 

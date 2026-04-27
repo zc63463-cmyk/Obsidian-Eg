@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-v. ①==**掐住喉咙；使窒息**==；②堵塞；阻塞；
+v. ①==**掐住喉咙；使窒息**== `V N` / `V on N`；②堵塞；阻塞 `V N` / `V with N`；
 
 > [!tip] 原型义
 > **原型义**：掐住喉咙使无法呼吸
@@ -119,8 +119,9 @@ choke（掐喉/窒息）
 ## 真题/语料关联
 
 > [!example]- 语料
-- The room was choked with smoke.（房间里弥漫着呛人的浓烟。）
-- Roads were choked with traffic.（道路被交通堵塞了。）
+> - The room was choked with smoke. `[例]`
+> - Roads were choked with traffic. `[例]`
+> - He choked on a piece of bread during dinner. `[例]`
 
 ---
 

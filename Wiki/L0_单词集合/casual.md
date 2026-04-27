@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**偶然的**==（非预谋的、碰巧发生的）；②==**随意的**==（不拘谨的、漫不经心的）；③==**非正式的**==（非正式场合的、休闲的）；
+**adj.** ①==**偶然的**==（非预谋的、碰巧发生的） `adj` / `be adj`；②==**随意的**==（不拘谨的、漫不经心的） `adj` / `be adj`；③==**非正式的**==（非正式场合的、休闲的） `adj` / `be adj`；
 
 > [!tip] 原型义
 > **原型义**：偶然发生的→随意的
@@ -133,10 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two old friends had a casual encounter at the airport."（两位老朋友在机场偶遇）——生活话题
-> - "Employees are allowed to wear casual clothes on Fridays."（员工周五可以穿休闲装）——职场话题
-> - "He made a casual remark that offended her."（他随口说了一句话，却冒犯了她）——社交话题
-> - "She has a very casual attitude towards her studies."（她对学习的态度非常随意）——教育话题
+> - The two old friends had a casual encounter at the airport. `[例]`
+> - Employees are allowed to wear casual clothes on Fridays. `[例]`
+> - He made a casual remark that offended her. `[例]`
 
 ---
 

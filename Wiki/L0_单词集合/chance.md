@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**机会，机遇**==；②==**可能性**==；③偶然，巧合；④运气，命运；
-**vt./vi.** ①碰巧；②冒……的险；
+**n.** ①==**机会，机遇**== `a N` / `a N of N`；②==**可能性**== `a N` / `a N of N`；③偶然，巧合 `a N` / `a N of N`；④运气，命运 `a N` / `a N of N`；
+**vt./vi.** ①碰巧 `V N` / `V`；②冒……的险 `V N` / `V`；
 
 > [!tip] 原型义
 > **原型义**：落下的事（拉丁语 cadere = to fall，骰子落地的结果）
@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "by chance"（偶然地）——考研阅读/完形高频副词短语
-> - "take a chance"（冒险一试）——阅读/翻译常见搭配
-> - "chances are that..."（很可能……）——写作/翻译常用句型
+> - It is important to by chance. `[真题]`
+> - It is important to take a chance. `[例]`
+> - Chances are that. `[例]`
 
 ---
 
