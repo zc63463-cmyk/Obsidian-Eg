@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**感激之情，感谢**==；
+**n.** ①==**感激之情，感谢**== `express one's gratitude; a deep sense of gratitude` [书面]；
 
 > [!tip] 原型义
 > **原型义**：因收到恩惠而产生的感谢之情
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I would like to express my gratitude to everyone for their hard work."（我想对每个人的辛勤工作表达感激之情——剑桥词典例句）
-> - "The family turned to social media expressing their gratitude, saying, 'From the bottom of our hearts, we would like to deeply thank each and every person that stopped by!'"（这家人通过社交媒体表达感激之情说："我们衷心感谢每一位前来的人！"——2017年12月四级真题听力）
+> - "I would like to express my gratitude to everyone for their hard work." `[剑桥词典]`
+> - "The family turned to social media expressing their gratitude, saying, 'From the bottom of our hearts, we would like to deeply thank each and every person that stopped by!'" `[真题]`
+> - "She felt a deep sense of gratitude to the teacher who had encouraged her to go on to university." `[朗文词典]`
+> - "We owe them our immense gratitude for their total commitment, hard work and determination." `[柯林斯词典]`
 
 
 ---

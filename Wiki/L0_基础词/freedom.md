@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自由**==；②自由权；③（行动、选择等的）自由，自主；④免除，解脱；
+**n.** ①==**自由**== `N of N`；②自由权 `N of N`；③（行动、选择等的）自由，自主 `N to do`；④免除，解脱 `N from N`；
 
 > [!tip] 原型义
 > **原型义**：不受束缚的状态
@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Freedom of speech is a fundamental human right."（言论自由是一项基本人权。）
-> - "The internet has expanded the freedom of information exchange."（互联网扩大了信息交流的自由。）
-> - freedom of speech/expression 是考研政治、法律、社会类阅读的高频表达
+> - In college, you have the freedom to do what you want. `[COCA-SPOKEN]`
+> - We demand freedom from injustice and persecution. `[COCA-ACAD]`
+> - Children are allowed much more freedom these days. `[COCA-NEWS]`
 
 ---
 

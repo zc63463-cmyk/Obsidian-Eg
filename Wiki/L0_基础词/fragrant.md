@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**芳香的，香的**==；②令人愉快的；
+**adj.** ①==**芳香的，香的**== `adj N` [文学]；②==**令人愉快的**== `adj N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：散发香味的（气味强烈而好闻的）
@@ -124,9 +124,9 @@ fragr(=fragrare, 散发气味，拉丁语 fragrare 散发气味) + -ant(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The garden was fragrant with the scent of jasmine."（花园里弥漫着茉莉花的芳香）
-> - "She picked a handful of fragrant wild flowers."（她采了一把芳香的野花）
-> - "The fragrant evening air was filled with the smell of pine."芬芳的晚风中弥漫着松树的气息。
+> - The air was fragrant with the smell of orange blossoms. `[COCA-FIC]`
+> - Small, deliciously fragrant flowers appear in autumn when most other plants have faded. `[COCA-NEWS]`
+> - The narrow strip of sand is backed by fragrant pines and is pretty as well as accessible. `[BNC-NEWS]`
 
 
 ---

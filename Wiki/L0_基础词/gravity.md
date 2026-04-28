@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**重力，引力，地心引力**==；②==**严重性，重要性**==；③==**严肃，庄重**==；
+**n.** ①==**重力，引力，地心引力**== `Newton's theory of gravity; the force of gravity` [书面]；②==**严重性，重要性**== `the gravity of the situation` [书面]；③==**严肃，庄重**== `speak with gravity` [书面]；
 
 > [!tip] 原型义
 > **原型义**：万物被拉向地面的力量
@@ -132,8 +132,10 @@ grav(重，源自拉丁语 *gravis*) + -ity(名词后缀，表示性质/状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He discoursed impressively on Newton's theory of gravity."（他讲述了牛顿的引力定律，给人以深刻的印象——新东方词典例句）
-> - "The force of gravity pulls things towards the earth's centre."（地心吸力把物体吸向地心——新东方词典例句）
+> - "He discoursed impressively on Newton's theory of gravity." `[真题]`
+> - "The force of gravity pulls things towards the earth's centre." `[真题]`
+> - "We are conscious of the gravity of the situation." `[柯林斯词典]`
+> - "The gravity of this situation should not be underestimated." `[BBC语料库]`
 
 
 ---

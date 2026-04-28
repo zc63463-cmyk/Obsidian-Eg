@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**光荣的，辉煌的**==；②壮丽的，灿烂的；③令人愉快的，极好的；
+**adj.** ①==**光荣的，辉煌的**== `a glorious victory/career` [正式]；②==**壮丽的，灿烂的**== `a glorious sunset/sunshine` [通用]；③==**令人愉快的，极好的**== `have a glorious time` [通用]；
 
 > [!tip] 原型义
 > **原型义**：充满光荣的（像发光一样耀眼）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A glorious chapter in our country's history."（我国历史上光辉的一页——考研政治类阅读语料）
-> - "They had three weeks of glorious sunshine."（他们度过了三周阳光灿烂的日子——考研文学类阅读语料）
+> - "This is a glorious chapter in our country's history." `[语料库]`
+> - "I got dressed and emerged into glorious sunshine." `[语料库]`
+> - "We had a glorious afternoon of sailing." `[语料库]`
 
 
 ---

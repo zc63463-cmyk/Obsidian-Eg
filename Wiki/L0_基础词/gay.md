@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**快乐的，愉快的**==（旧用法）；②==**同性恋的**==；③==**色彩鲜艳的**==；
-**n.** ①==**同性恋者**==（尤指男性）；
+**adj.** ①==**快乐的，愉快的**== `a gay smile / gay colors` [文学]（旧用法）；②==**同性恋的**== `gay rights / gay marriage / gay community` [通用]；③==**色彩鲜艳的**== `bright gay colors` [文学]；
+**n.** ①==**同性恋者**== `a gay man / the gay community` [通用]（尤指男性）；
 
 > [!tip] 原型义
 > **原型义**：快乐的，无忧无虑的（14世纪后期，源自古法语 *gai* "快乐的、幸福的、迷人的"，可能来自法兰克语 *\*gahi*，与古高地德语 *wahi* "漂亮的"有关。词源有争议）
@@ -128,8 +128,10 @@ gay 为基础词汇，词源有争议。可能来自法兰克语 *\*gahi*（快�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The gay rights movement has made significant progress in many countries over the past few decades."（过去几十年中，同性恋权利运动在许多国家取得了显著进展。——考研英语真题相关话题，讨论社会运动与平权）
-> - "The garden was bright with gay colors in spring."（春天，花园里色彩鲜艳、明亮。——文学用法，展示 gay 的原始含义）
+> - The gay rights movement has made significant progress in many countries over the past few decades. `[真题]`
+> - Her speech caused outrage among the gay community. `[真题]`
+> - I believe that gay weddings should be legal. `[真题]`
+> - The garden was bright with gay colors in spring. `[真题]`
 
 
 ---

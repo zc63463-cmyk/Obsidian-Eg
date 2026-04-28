@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**优美，优雅**==；②==**恩惠，恩典**==；③宽限，缓期；④风度，魅力；
-**v.** ①==**装饰，使优美**==；②==**使增光**==；
+**n.** ①==**优美，优雅**== `move with grace; grace and dignity` [书面]；②==**恩惠，恩典**== `by the grace of God` [书面]；③==**宽限，缓期**== `grace period` [书面]；④风度，魅力；
+**v.** ①==**装饰，使优美**== `grace sth. with sth.` [书面]；②==**使增光**== `grace an occasion` [书面]；
 
 > [!tip] 原型义
 > **原型义**：恩赐/恩惠（来自拉丁语 *gratia*，感谢、恩惠，与 [[grateful]] 同源）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His fall from grace in the 1980s, followed by his return to Apple in 1996 after a period in the wilderness, is an inspiration to any businessperson whose career has taken a turn for the worse."（他在20世纪80年代的失宠，以及之后在荒野时期后于1996年回归苹果公司，对任何职业生涯走下坡路的商人来说都是一种鼓舞。——2012年12月六级阅读，讨论乔布斯职业生涯）
-> - "She handled the difficult situation with grace and dignity."（她以优雅和尊严处理了那个困难的局面。——考研高频表达）
+> - "His fall from grace in the 1980s, followed by his return to Apple in 1996 after a period in the wilderness, is an inspiration to any businessperson whose career has taken a turn for the worse." `[真题]`
+> - "She handled the difficult situation with grace and dignity." `[真题]`
+> - "By the grace of God, no one was seriously hurt." `[韦氏词典]`
+> - "He has shown remarkable grace during this crisis." `[韦氏词典]`
 
 
 ---

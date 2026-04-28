@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地质学**==；②（某地区的）地质情况；
+**n.** ①==**地质学**== `study geology; the geology of` [学术]；②==**（某地区的）地质情况**== `the geology of the area/region` [学术]；
 
 > [!tip] 原型义
 > **原型义**：地质学（研究地球岩石、矿物和结构的学科）
@@ -129,8 +129,10 @@ geo-(=ge, 地球/土地) + -[[log-logy|logy]](=log, 学科/研究)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The complementary coastlines and certain geological features that seem to span the ocean are reminders of where the two continents were once joined."（互补的海岸线和某些似乎横跨大洋的地质特征，提醒我们这两块大陆曾经连接在一起。——考研英语阅读）
-> - "The hills are remnants of an earlier geological era, scraped bare of most soil and exposed to the elements."（这些山丘是早期地质时代的遗迹，大部分土壤被剥蚀殆尽，暴露在自然环境中。——六级/考研阅读）
+> - "The complementary coastlines and certain geological features that seem to span the ocean are reminders of where the two continents were once joined." `[真题]`
+> - "The hills are remnants of an earlier geological era, scraped bare of most soil and exposed to the elements." `[真题]`
+> - "He was the first person to think of mapping the geology of Britain." `[权威语料]`
+> - "The geology of the area is simple, consisting mainly of limestone and sandstone." `[权威语料]`
 
 
 ---

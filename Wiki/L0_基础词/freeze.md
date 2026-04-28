@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（使）结冰，冻结**==；②（因恐惧等）呆住，僵住；③冻结（资产、价格等）；④==**保持不变，固定**==；
-**n.** ①严寒期；②冻结；
+**v.** ①==**（使）结冰，冻结**== `V N`；②（因恐惧等）呆住，僵住 `V with N`；③冻结（资产、价格等） `V N`；④==**保持不变，固定**== `V N`；
+**n.** ①严寒期 `a N`；②冻结 `a N on N`；
 
 > [!tip] 原型义
 > **原型义**：因寒冷而变成冰
@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government imposed a freeze on public sector wages."（政府对公共部门工资实施了冻结。）
-> - "The polar ice caps are not freezing as extensively as they once did."（极地冰盖的结冰范围已不如从前。）
-> - freeze prices / wage freeze 是考研经济、政策类阅读的高频表达
+> - The government imposed a freeze on public sector wages. `[COCA-NEWS]`
+> - Diplomatic relations were frozen until August this year. `[COCA-NEWS]`
+> - The easiest way to preserve food is to freeze it at a very cold temperature. `[COCA-ACAD]`
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**几何学**==；②几何形状，几何结构；
+**n.** ①==**几何学**== `study geometry; Euclidean geometry` [学术]；②==**几何形状，几何结构**== `the geometry of` [学术/通用]；
 
 > [!tip] 原型义
 > **原型义**：几何学（测量土地的学科）
@@ -132,8 +132,10 @@ geo-(=ge, 土地/地球) + [[meter-metr|metr]](=meter, 测量) + -y(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The geometry of the building is remarkably complex."（这座建筑的几何结构异常复杂。——考研英语阅读）
-> - "The complementary coastlines and certain geological features that seem to span the ocean are reminders of where the two continents were once joined."（互补的海岸线和某些似乎横跨大洋的地质特征，提醒我们这两块大陆曾经连接在一起。——考研英语阅读，涉及几何/地质概念）
+> - "The geometry of the building is remarkably complex." `[真题]`
+> - "The geometry of Sydney's famed opera house is suggestive of some modernistic sailing ship." `[权威语料]`
+> - "He analyzed the geometry of chemical bonds to understand molecular structure." `[权威语料]`
+> - "The new study said the geometry of a volcano's crater has a major impact on the sounds a volcano can produce." `[权威语料]`
 
 
 ---

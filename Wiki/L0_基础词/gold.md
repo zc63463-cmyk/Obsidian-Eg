@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**金，黄金**==；②==**金币，财富**==；③金牌；
-**adj.** ①==**金制的**==（强调材质）；
+**n.** ①==**金，黄金**== `gold coin` `gold bar` [中性]；②==**金币，财富**== `gold rush` `gold reserve` [中性]；③==**金牌**== `win gold` `gold medal` [正面]；
+**adj.** ①==**金制的**== `a gold watch` `gold ring` [中性]；
 
 > [!tip] 原型义
 > **原型义**：金色的贵金属（古英语 *gold*，与德语 *Gold* 同源）
@@ -127,8 +127,9 @@ gold 为基础词汇，无词根词缀拆分。源自古英语 *gold*，原始�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "'I struck gold,' says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company."（"我挖到金子了，"雷蒙说，他通过电子邮件将简历发送给雇主，获得了一家公司的内部法律顾问职位。——2004年考研英语一，strike gold 比喻"获得巨大成功"）
-> - "In Manhattan, 'there's a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses,' says broker Barbara Corcoran."（经纪人Barbara Corcoran表示，在曼哈顿，"400万到1000万美元区间正在发生一场新的淘金热，主要由华尔街奖金推动。"——2004年考研英语一 Text 3）
+> - "I struck gold," says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company. `[真题]`
+> - In Manhattan, there's a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses. `[真题]`
+> - Basing the value of money on the price of gold is called the "gold standard." `[权威词典]`
 
 
 ---

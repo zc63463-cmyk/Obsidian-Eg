@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**框架，体系**==；②（社会的）基本结构；③参照系，准则；
+**n.** ①==**框架，体系**== `N of N`；②（社会的）基本结构 `adj N`；③参照系，准则 `N for N`；
 
 > [!tip] 原型义
 > **原型义**：支撑整体的基本结构框架
@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research was conducted within the framework of modern linguistic theory."（这项研究是在现代语言学理论的框架内进行的。）
-> - "A robust legal framework is essential for protecting intellectual property rights."（健全的法律框架对于保护知识产权至关重要。）
-> - framework 是考研学术、法律、政策类阅读的高频词
+> - The research was conducted within the framework of modern linguistic theory. `[COCA-ACAD]`
+> - A robust legal framework is essential for protecting intellectual property rights. `[COCA-ACAD]`
+> - The agreement outlines a framework and schedule for resolving the issues. `[COCA-NEWS]`
 
 ---
 

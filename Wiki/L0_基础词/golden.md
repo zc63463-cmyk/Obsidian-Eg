@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**金色的，金黄色的**==；②==**宝贵的，绝好的**==；③==**黄金的**==（比喻义，非真金）；④五十周年纪念的；
+**adj.** ①==**金色的，金黄色的**== `golden hair` `golden sunset` [中性]；②==**宝贵的，绝好的**== `golden opportunity` `golden rule` [正面]；③==**黄金的**== `golden age` `golden era` [正面]；④==**五十周年纪念的**== `golden wedding` `golden anniversary` [中性]；
 
 > [!tip] 原型义
 > **原型义**：像金子一样的（gold 金 + -en 形容词后缀"像……的"）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And William Sahlman of the Harvard Business School believes that people will look back on this period as 'a golden age' of business management in America."（哈佛商学院的William Sahlman认为，人们将回顾这一时期，将其视为美国企业管理的"黄金时代"。——考研英语真题，讨论美国经济繁荣期）
-> - "You have a golden opportunity to travel and learn."（你有一个旅游和学习的绝好机会。——剑桥词典例句）
+> - And William Sahlman of the Harvard Business School believes that people will look back on this period as "a golden age" of business management in America. `[真题]`
+> - He's got a place at university which gives him a golden opportunity to do research in the subject which interests him. `[权威词典]`
+> - The golden rule of treating others as you would like to be treated is a fundamental principle in many cultures. `[权威词典]`
 
 
 ---

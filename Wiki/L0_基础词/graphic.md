@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**图表的，图形的**==；②==**生动的，形象的**==；③==**（描述等）过于直白的，露骨的**==；
-**n.** ①==**图形，图表**==（常作复数 graphics）；
+**adj.** ①==**图表的，图形的**== `graphic design; graphic representation` [书面]；②==**生动的，形象的**== `a graphic description/account` [书面]；③==**（描述等）过于直白的，露骨的**== `graphic violence; graphic images` [书面]；
+**n.** ①==**图形，图表**== `graphics` [书面]；
 
 > [!tip] 原型义
 > **原型义**：用图画方式呈现的
@@ -134,8 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Figure 6.2 provides a graphic representation of the key processes in the management of change."（图6.2提供了变革管理中关键流程的图形表示——剑桥词典例句）
-> - "His graphic description seemed to put me in the moment of the event."（他生动的描述仿佛让我置身于事件发生的那一刻——常见搭配用法）
+> - "Figure 6.2 provides a graphic representation of the key processes in the management of change." `[剑桥词典]`
+> - "The video was removed over its graphic violence, YouTube said." `[CNN]`
+> - "He gave a graphic description of how he thought that it would work in a modern factory under modern conditions." `[剑桥语料库]`
+> - "The files show in graphic detail how this harm has manifested." `[卫报]`
 
 
 ---

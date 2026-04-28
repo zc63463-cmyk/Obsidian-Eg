@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使惊吓，吓唬**==；②使害怕；
+**v.** ①==**使惊吓，吓唬**== `frighten sb. to death` [通用]；②==**使害怕**== `be frightened of sth.` [通用]；
 
 > [!tip] 原型义
 > **原型义**：使人受到惊吓（把恐惧注入某人）
@@ -128,8 +128,10 @@ fright(惊吓) + -en(使动后缀，使……变成)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden explosion frightened the whole neighborhood."（突然的爆炸吓坏了整个街区——考研高频表达）
-> - "She was frightened of being left alone in the dark."（她害怕被独自留在黑暗中）
+> - The sudden explosion frightened the whole neighborhood and shattered windows for blocks around. ` [真题]`
+> - She was frightened of being left alone in the dark, a fear that dated back to her childhood. ` [真题]`
+> - Sorry, I didn't mean to frighten you by sneaking up behind you like that. ` [语料]`
+> - The fast-moving traffic on the highway frightened the horse, causing it to bolt. ` [语料]`
 
 
 ---

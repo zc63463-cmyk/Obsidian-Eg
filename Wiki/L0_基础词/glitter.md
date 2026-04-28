@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**闪闪发光，闪烁**==；②（眼睛）闪着（强烈情感）的光；
-**n.** ①==**闪光，灿烂的光辉**==；②表面的诱惑，浮华；
+**v.** ①==**闪闪发光，闪烁**== `sth. glitter (with sth.)` [书面/文学]；②==**（眼睛）闪着（强烈情感）的光**== `sb.'s eyes glitter with sth.` [文学]；
+**n.** ①==**闪光，灿烂的光辉**== `the glitter of sth.` [书面]；②==**表面的诱惑，浮华**== `the superficial glitter of sth.` [书面]；
 
 > [!tip] 原型义
 > **原型义**：闪闪发光（gl- 词根表示"光"，反复闪烁的光点）
@@ -131,8 +131,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -itter（表示反复
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her diamond necklace glittered brilliantly under the spotlights."（她的钻石项链在聚光灯下闪闪发光——剑桥词典经典例句，glitter 描述珠宝的反复闪烁）
-> - "His dark eyes glittered with anger behind his glasses."（他镜片后的深色眼睛闪烁着愤怒的光芒——英语文学常见表达，glitter 描述眼神中的强烈情感）
+> - "His dark eyes glittered with anger behind his glasses." `[真题]`
+> - "Many gems have glittered in tonight's speeches." `[真题]`
+> - "He shows us that all that glitters is not gold." `[真题]`
 
 
 ---

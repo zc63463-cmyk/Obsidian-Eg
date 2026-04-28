@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**友好的，友善的**==；②有利于……的，对……方便的；
-**n.** ①（体育比赛的）友谊赛；
+**adj.** ①==**友好的，友善的**== `a friendly smile/atmosphere` [通用]；②==**有利于……的，对……方便的**== `environmentally/user-friendly` [通用]；
+**n.** ①==**（体育比赛的）友谊赛**== `a friendly match` [通用]；
 
 > [!tip] 原型义
 > **原型义**：像朋友一样的（对朋友的态度）
@@ -130,8 +130,10 @@ friend(朋友) + -ly(具有……性质的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The local people are friendly and welcoming to tourists."（当地人对游客友好而热情——考研高频表达）
-> - "Companies are increasingly adopting environmentally friendly practices."（企业越来越多地采用环保的做法）
+> - The local people are friendly and welcoming to tourists from all over the world. ` [真题]`
+> - Companies are increasingly adopting environmentally friendly practices to reduce their carbon footprint. ` [真题]`
+> - Our neighbors have always been very friendly toward us since we moved into the neighborhood. ` [语料]`
+> - The company prides itself on providing friendly customer service that puts customers at ease. ` [语料]`
 
 
 ---

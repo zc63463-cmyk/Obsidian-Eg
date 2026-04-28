@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（难闻的）烟雾，气体**==；②愤怒，烦恼；
-**v.** ①冒烟；②==**发怒，生气**==；
+**n.** ①==**（难闻的）烟雾，气体**== `toxic fumes; exhaust fumes` [通用]；②愤怒，烦恼；
+**v.** ①冒烟；②==**发怒，生气**== `fume with rage/anger; fume at sth.` [通用]；
 
 > [!tip] 原型义
 > **原型义**：有气味的烟雾（燃烧或蒸发产生的气体）
@@ -129,8 +129,9 @@ fume(整体词，源自拉丁语 *fumus*，烟雾)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Workers were exposed to toxic fumes in the poorly ventilated factory."（工人在通风不良的工厂中接触到了有毒气体——考研高频表达）
-> - "She sat in her office, fuming at the unfair decision."（她坐在办公室里，对不公正的决定怒气冲冲）
+> - "Workers were exposed to toxic fumes in the poorly ventilated factory." `[真题]`
+> - "The strong fumes from the paint made her feel dizzy." `[语料库]`
+> - "He began to fume with rage and exasperation." `[语料库]`
 
 
 ---

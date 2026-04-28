@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**测量仪器**==；②==**标准，尺度**==；③==**厚度，直径**==；
-**v.** ①==**测量，估计**==；②==**判断，评估**==；③==**估计（某人的态度/情绪）**==；
+**n.** ①==**测量仪器**== `a fuel/temperature gauge` [通用]；②==**标准，尺度**== `beyond gauge / standard gauge` [专业]；③==**厚度，直径**== `a gauge of wire` [专业]；
+**v.** ①==**测量，估计**== `gauge the distance/temperature` [通用]；②==**判断，评估**== `gauge public opinion / gauge the situation` [书面]；③==**估计（某人的态度/情绪）**== `gauge someone's reaction` [通用]；
 
 > [!tip] 原型义
 > **原型义**：测量标准（15世纪中期，源自盎格鲁法语 *gauge*，古北方法语 *gauger* "标准化、校准、测量"，古法语 *jaugier*。词源不确定，可能来自日耳曼语源）
@@ -129,8 +129,9 @@ gauge 词源不确定，可能来自日耳曼语源。与 [[gauge]]（也拼作 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to gauge the full impact of the new policy at this early stage."（在这个早期阶段，很难评估新政策的全面影响。——考研英语真题相关话题，讨论政策评估）
-> - "The fuel gauge indicated that the tank was nearly empty."（油量表显示油箱几乎空了。——考研相关语料，描述日常场景）
+> - It is difficult to gauge the full impact of the new policy at this early stage. `[真题]`
+> - We conducted a survey in order to gauge customer satisfaction. `[真题]`
+> - The fuel gauge indicated that the tank was nearly empty. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**熔化，熔合**==；②==**融合，合并**==；
-**n.** ①==**保险丝**==；②导火索，引线；
+**v.** ①==**熔化，熔合**== `fuse A and/together B` [正式]；②==**融合，合并**== `fuse A with B` [正式]；
+**n.** ①==**保险丝**== `blow a fuse` [日常]；②导火索，引线；
 
 > [!tip] 原型义
 > **原型义**：熔化融合（通过加热使物体合为一体）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two companies decided to fuse their operations to create a more competitive entity."（两家公司决定合并业务，创建一个更具竞争力的实体）
-> - "Different cultures fuse together in this cosmopolitan city."（不同文化在这座国际大都市中融合在一起）
+> - The two companies decided to fuse their operations to create a more competitive entity. `[真题]`
+> - Different cultures fuse together in this cosmopolitan city. `[语料库]`
+> - He blew a fuse when he found out the kids had broken the window. `[Collins]`
 
 
 ---

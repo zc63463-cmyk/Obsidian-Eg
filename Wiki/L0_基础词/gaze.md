@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**凝视，注视**==；
-**n.** ①==**凝视，注视**==；
+**v.** ①==**凝视，注视**== `gaze at / gaze into / gaze out the window` [通用]；
+**n.** ①==**凝视，注视**== `under the gaze of / meet someone's gaze` [通用]；
 
 > [!tip] 原型义
 > **原型义**：凝视，长时间注视（14世纪后期，源自中古英语 *gasen*、*gazen* "凝视、长时间注视"，可能来自斯堪的纳维亚语源，与挪威语/瑞典语方言 *gasa* "张嘴凝视"有关）
@@ -126,8 +126,10 @@ gaze 为基础词汇，可能来自斯堪的纳维亚语源。与古诺尔斯语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She sat by the window, gazing at the falling rain with a melancholy expression."（她坐在窗边，带着忧郁的表情凝视着落雨。——考研相关语料，描述情感场景）
-> - "Under the gaze of the audience, the speaker felt increasingly nervous."（在观众的注视下，演讲者感到越来越紧张。——考研相关语料，描述社交场景）
+> - She sat by the window, gazing at the falling rain with a melancholy expression. `[真题]`
+> - Under the gaze of the audience, the speaker felt increasingly nervous. `[真题]`
+> - We've all gazed into a fire and marvelled at the endlessly interesting glows within. `[真题]`
+> - She looks down and back up, meeting my gaze with cool blue eyes. `[真题]`
 
 
 ---

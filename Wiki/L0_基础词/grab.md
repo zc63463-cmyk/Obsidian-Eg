@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抓住，攫取**==；②==**抢占，夺取**==；③吸引（注意力）；
-**n.** ①==**抓取，夺取**==；
+**v.** ①==**抓住，攫取**== `grab hold of sth.; grab sb.'s arm` [口语]；②==**抢占，夺取**== `grab the opportunity; grab market share` [书面/口语]；③==**吸引（注意力）**== `grab attention; grab headlines` [书面]；
+**n.** ①==**抓取，夺取**== `make a grab for sth.` [口语]；
 
 > [!tip] 原型义
 > **原型义**：突然抓住（源自中古低地德语 *grabbelen*，抓取）
@@ -126,8 +126,10 @@ grab 为基础词汇，无词根词缀拆分。源自中古低地德语/荷兰�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "'Us-vs.-them-ism' is an especially tempting theme for a media desperately looking for ways to grab our short attention spans."（"我们对抗他们主义"对媒体来说是一个特别诱人的主题，媒体正拼命寻找方法来抓住我们短暂的注意力。——考研英语真题，讨论媒体与注意力经济）
-> - "To be sure, Twitter wasn't trying to grab every last dollar."（当然，Twitter并没有打算抓住每一分钱投资。——考研英语真题，讨论社交媒体商业模式）
+> - "'Us-vs.-them-ism' is an especially tempting theme for a media desperately looking for ways to grab our short attention spans." `[真题]`
+> - "To be sure, Twitter wasn't trying to grab every last dollar." `[真题]`
+> - "If you don't grab this opportunity, you might not get another one." `[剑桥词典]`
+> - "The book is full of good ideas to grab your students' attention." `[朗文词典]`
 
 
 ---

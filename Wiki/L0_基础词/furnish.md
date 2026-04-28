@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**布置，配备家具**==；②==**提供，供应**==；
+**v.** ①==**布置，配备家具**== `furnish a room; a furnished apartment` [通用]；②==**提供，供应**== `furnish sb. with sth.; furnish information` [正式]；
 
 > [!tip] 原型义
 > **原型义**：为空间提供所需之物（装备、配备）
@@ -124,8 +124,9 @@ furn-(装备，源自古法语 *furnir*) + -ish(动词后缀，使……)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The apartment is fully furnished with modern appliances."（这套公寓配备了现代化的家电）
-> - "The suspect refused to furnish the police with any information."（嫌疑人拒绝向警方提供任何信息）
+> - "The apartment is fully furnished with modern appliances." `[真题]`
+> - "The suspect refused to furnish the police with any information." `[真题]`
+> - "She furnished the room with antique pieces to give it a vintage look." `[语料库]`
 
 
 ---

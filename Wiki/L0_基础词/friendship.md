@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**友谊，友情**==；②友好的关系；
+**n.** ①==**友谊，友情**== `true/lifelong friendship` [通用]；②==**友好的关系**== `friendship between A and B` [通用]；
 
 > [!tip] 原型义
 > **原型义**：朋友之间的关系（朋友之间的纽带）
@@ -126,8 +126,10 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "True friendship is a plant of slow growth."（真正的友谊是缓慢生长的植物——考研写作常用引用）
-> - "The friendship between the two nations has lasted for centuries."（两国之间的友谊已持续了数个世纪）
+> - I value her friendship above anything else because she has always been there for me. ` [真题]`
+> - Over time, their acquaintance developed into a lasting friendship that endured for decades. ` [真题]`
+> - The friendship between the two nations has lasted for centuries through wars and peace. ` [语料]`
+> - In every friendship there has to be some give-and-take to maintain a healthy relationship. ` [语料]`
 
 
 ---

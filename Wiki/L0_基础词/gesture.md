@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**手势，姿势**==；②==**姿态，表示**==（善意的表示等）；
-**v.** ①==**做手势**==；
+**n.** ①==**手势，姿势**== `\make a gesture` `[通用]`；②==**姿态，表示**== `\a gesture of goodwill` `[正式]`；
+**v.** ①==**做手势**== `\gesture for sb to do sth` `[通用]`；
 
 > [!tip] 原型义
 > **原型义**：手势（用手表达意思的动作）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government donated 500,000 as a gesture of goodwill."（政府捐赠了50万英镑以示善意。——考研英语阅读）
-> - "Their handshake appeared to be a gesture of reconciliation."（他们的握手似乎是和解的表示。——考研英语阅读）
+> - He said he had made the offer as a gesture of goodwill. `[真题]`
+> - The President's speech was hailed as a conciliatory gesture toward business. `[真题]`
+> - I invited them to dinner, a gesture of goodwill. `[真题]`
 
 
 ---

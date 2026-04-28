@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**聚集，集合**==；②==**收集，采集**==；③==**逐渐增加**==；④==**推断，得出（印象）**==；⑤==**收拾（自己）**==；
-**n.** ①==**聚集，褶皱**==（缝纫用语）；
+**v.** ①==**聚集，集合**== `gather around / gather together` [通用]；②==**收集，采集**== `gather information/data` [通用]；③==**逐渐增加**== `gather speed/momentum` [通用]；④==**推断，得出（印象）**== `I gather that... / gather from...` [通用]；⑤==**收拾（自己）**== `gather oneself / gather one's thoughts` [书面]；
+**n.** ①==**聚集，褶皱**== `a gather in the fabric` [专业]（缝纫用语）；
 
 > [!tip] 原型义
 > **原型义**：聚集，集合（源自古英语 *gaderian* "集合、聚集、收集"，原始日耳曼语 *\*gadurōną* "聚集、联合"，原始印欧语 *\*gʰedʰ-* "联合、聚集"）
@@ -133,8 +133,10 @@ gather 源自原始日耳曼语 *\*gadurōną*（聚集），与 [[together]]（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "From the survey data, we can gather that public opinion is shifting on this issue."（从调查数据中，我们可以推断公众对这个问题的看法正在转变。——考研英语真题相关话题，讨论数据分析与推断）
-> - "The car gathered speed as it headed down the highway."（汽车沿着高速公路行驶时逐渐加速。——考研相关语料，描述运动场景）
+> - I gather his report is highly critical of the trial judge. `[真题]`
+> - The car gathered speed as it headed down the highway. `[真题]`
+> - She was gathering up her courage to approach him when he called to her. `[真题]`
+> - From the survey data, we can gather that public opinion is shifting on this issue. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**频繁，频率**==；②频率（物理/声学）；③出现率；
+**n.** ①==**频繁，频率**== `the frequency of sth.` [通用]；②==**频率（物理/声学）**== `radio/audio frequency` [学术]；③==**出现率**== `frequency of occurrence` [学术]；
 
 > [!tip] 原型义
 > **原型义**：挤满人群（频繁聚集的状态——大量人群反复聚集）
@@ -123,8 +123,10 @@ frequens(拉丁语"挤满的，频繁的") + -cy(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The frequency of earthquakes in this region has increased dramatically."（该地区地震的频率急剧增加。）
-> - "Changes in the frequency and intensity of extreme weather events."（极端天气事件频率和强度的变化。）
+> - Complaints about the frequency of buses rose in the last year. ` [真题]`
+> - The increasing frequency of terrorist attacks has become a major concern for international security. ` [真题]`
+> - It is not the duration of his absences from work so much as the frequency that worries me. ` [真题]`
+> - The frequency of light determines its color in the visible spectrum. ` [学术]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大惊小怪，小题大做**==；②抱怨，麻烦；
-**v.** ①==**大惊小怪，瞎操心**==；②过度关心，烦扰；
+**n.** ①==**大惊小怪，小题大做**== `make a fuss about/over sth.` [日常]；②抱怨，麻烦；
+**v.** ①==**大惊小怪，瞎操心**== `Don't fuss.` [日常]；②过度关心，烦扰；
 
 > [!tip] 原型义
 > **原型义**：大惊小怪的忙乱（为小事过度焦虑和忙碌）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't make a fuss about such a trivial matter."（不要为如此琐碎的事情大惊小怪）
-> - "She fussed over her children constantly, worrying about every little thing."（她总是对孩子们过度操心，每件小事都要担心）
+> - Don't make a fuss about such a trivial matter. `[Cambridge]`
+> - She fussed over her children constantly, worrying about every little thing. `[语料库]`
+> - Please don't fuss, Mum. Everything's under control. `[Cambridge]`
 
 
 ---

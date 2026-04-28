@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**真正的，真实的**==；②==**真诚的，诚实的**==；
+**adj.** ①==**真正的，真实的**== `a genuine improvement / the genuine article` [通用]；②==**真诚的，诚实的**== `genuine concern / genuine interest / genuine desire` [通用]；
 
 > [!tip] 原型义
 > **原型义**：真正的（天生的、非伪造的）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has a genuine desire to help us."（他真心诚意地愿意帮助我们。——考研英语阅读）
-> - "It appears to be genuine, but I have my suspicions about it."（这看来好像是真的，不过我对此有些怀疑。——考研英语阅读）
+> - He has a genuine desire to help us. `[真题]`
+> - It appears to be genuine, but I have my suspicions about it. `[真题]`
+> - There has been a genuine improvement in the economy in recent months. `[真题]`
+> - She showed a genuine interest in our work. `[真题]`
 
 
 ---

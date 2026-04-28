@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**边缘，外围**==；②（头发的）刘海；③穗子，流苏；
-**adj.** ①边缘的，外围的；②附加的；
-**v.** ①成为……的边缘；
+**n.** ①==**边缘，外围**== `on the fringe of sth.` [通用]；②==**（头发的）刘海**== `she has a fringe` [英式]；③==**穗子，流苏**== `a shawl with a fringe` [通用]；
+**adj.** ①==**边缘的，外围的**== `fringe benefits/groups` [通用]；②==**附加的**== `fringe benefits` [通用]；
+**v.** ①==**成为……的边缘**== `fringe the road` [书面]；
 
 > [!tip] 原型义
 > **原型义**：边缘的穗子（织物最外圈的装饰）
@@ -132,8 +132,10 @@ fringe(整体词，源自拉丁语 *fimbria*，穗子、边缘)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company offers an attractive package including fringe benefits such as health insurance and paid leave."（公司提供有吸引力的薪酬方案，包括健康保险和带薪休假等附加福利——考研高频表达）
-> - "Many people living on the fringes of society lack access to basic services."（生活在社会边缘的许多人无法获得基本服务）
+> - The company offers an attractive package including fringe benefits such as health insurance and paid leave. ` [真题]`
+> - Many people living on the fringes of society lack access to basic healthcare and education services. ` [真题]`
+> - Penguins nesting on the fringes of the colony had longer, deeper sleeps than those in the middle. ` [学术]`
+> - The environment is no longer a fringe issue but a mainstream political concern. ` [语料]`
 
 
 ---

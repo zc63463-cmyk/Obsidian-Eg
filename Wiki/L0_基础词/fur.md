@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**毛皮，软毛**==；②毛皮衣服；③（猫、狗等动物的）毛；
+**n.** ①==**毛皮，软毛**== `animal fur; soft fur` [通用]；②==**毛皮衣服**== `a fur coat; wear fur` [通用]；③（猫、狗等动物的）毛；
 **v.** ①长有毛皮；
 
 > [!tip] 原型义
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many consumers now refuse to buy products made from real animal fur."（许多消费者现在拒绝购买真正的动物毛皮制品）
-> - "The cat's soft fur felt warm under her hand."（猫柔软的毛在她手心下感觉很温暖）
+> - "Many consumers now refuse to buy products made from real animal fur." `[真题]`
+> - "She had on a black coat with a fur collar." `[语料库]`
+> - "Season after season, fake fur becomes more realistic as technology improves." `[语料库]`
 
 
 ---

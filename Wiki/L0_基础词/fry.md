@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**油炸，油煎**==；②（被太阳）晒伤；
-**n.** ①油炸食品；②炸薯条（fries）；③鱼苗，小鱼；
+**v.** ①==**油炸，油煎**== `fry an egg; fry in oil` [通用]；②==**（被太阳）晒伤**== `get fried in the sun` [口语]；
+**n.** ①==**油炸食品**== `French fries; fish and fries` [通用]；②炸薯条（fries）；③鱼苗，小鱼；
 
 > [!tip] 原型义
 > **原型义**：在热油中烹饪（食物在滚烫的油里翻滚）
@@ -129,8 +129,9 @@ fry(整体词，源自古英语 *frygian*，与 [[fritter]] 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A diet high in fried foods can increase the risk of heart disease."（高油炸食品的饮食会增加心脏病的风险——考研高频表达）
-> - "She fried the eggs in a little butter."（她用一点黄油煎了鸡蛋）
+> - "A diet high in fried foods can increase the risk of heart disease." `[真题]`
+> - "Heat the oil in a large saucepan and fry the bacon until just golden." `[语料库]`
+> - "With the sea and sun and wind you will fry if you don't take care." `[语料库]`
 
 
 ---

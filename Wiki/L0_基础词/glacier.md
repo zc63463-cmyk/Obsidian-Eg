@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**冰川，冰河**==；
+**n.** ①==**冰川，冰河**== `\glacier retreat` `[学术]`；
 
 > [!tip] 原型义
 > **原型义**：冰川（源自拉丁语 *glacies* "冰"，指由积雪压实形成的巨大缓慢流动冰体）
@@ -125,8 +125,9 @@ glac-（冰，拉丁语 *glacies*）+ -ier（名词后缀，表示物）。与 [
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Global warming may make the sea level become higher. Warmer weather makes glaciers melt. A glacier is a large sheet of ice that moves very, very slowly. Some melting glaciers add more water to the ocean."（全球变暖可能使海平面上升。温暖的天气使冰川融化。冰川是一大片移动非常非常缓慢的冰。一些融化的冰川向海洋中添加了更多的水——考研相关阅读材料，涉及全球变暖与冰川融化）
-> - "There are upsetting parallels today, as scientists in one wave after another try to awaken us to the growing threat of global warming."（今天存在令人不安的相似之处，科学家们一波接一波地试图唤醒我们认识到全球变暖日益严重的威胁——2005年考研英语Text 2，涉及气候变化与冰川退缩的语境）
+> - The enhanced melting of glaciers leads at first to increased river runoff and discharge peaks. `[真题]`
+> - Himalayan glaciers disappeared 65 percent faster since 2010 compared to the previous decade. `[真题]`
+> - The glacier retreated a total of 1,147 metres, averaging about 19 metres per year. `[真题]`
 
 
 ---

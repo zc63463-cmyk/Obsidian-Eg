@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**燃料**==；②（维持某过程的）刺激因素；
-**v.** ①给……加燃料；②==**刺激，推动**==；
+**n.** ①==**燃料**== `fossil fuel; run out of fuel` [通用]；②==**（维持某过程的）刺激因素**== `add fuel to the fire` [比喻]；
+**v.** ①给……加燃料；②==**刺激，推动**== `fuel the debate; fuel economic growth` [正式]；
 
 > [!tip] 原型义
 > **原型义**：可燃烧的物质（提供能量的材料）
@@ -130,8 +130,9 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government is trying to reduce the country's dependence on fossil fuels."（政府正试图减少国家对化石燃料的依赖——考研高频表达）
-> - "Rising prices fueled public anger and led to widespread protests."（物价上涨激起了公众的愤怒，导致了广泛的抗议）
+> - "The government is trying to reduce the country's dependence on fossil fuels." `[真题]`
+> - "Rising prices fueled public anger and led to widespread protests." `[真题]`
+> - "They developed alternative fuels for aircraft." `[语料库]`
 
 
 ---

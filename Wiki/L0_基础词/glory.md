@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**光荣，荣誉**==；②荣耀的事；③壮丽，辉煌；
-**vi.** ①因……而自豪，为……而得意；
+**n.** ①==**光荣，荣誉**== `win/achieve glory` [正式]；②==**荣耀的事**== `past glories` [正式]；③==**壮丽，辉煌**== `the glory of the sunset` [文学]；
+**vi.** ①==**因……而自豪，为……而得意**== `glory in + n./doing` [正式]；
 
 > [!tip] 原型义
 > **原型义**：光荣（因卓越成就而获得的荣誉和赞美）
@@ -133,8 +133,9 @@ glory 源自拉丁语 *gloria*（光荣、荣耀），原始印欧语词根 *ghe
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "However, it is not sufficient to rest on past glories."（然而，仅仅躺在过去的功劳簿上是不够的——考研阅读常见表达）
-> - "She wanted to enjoy her moment of glory."（她希望尽情享受自己的光荣时刻——考研文学类阅读语料）
+> - "Becoming a Supreme Court judge was the crowning glory of her career." `[语料库]`
+> - "They spent millions restoring the theatre to its former glory." `[语料库]`
+> - "The sun emerged from behind the clouds in all its glory." `[语料库]`
 
 
 ---

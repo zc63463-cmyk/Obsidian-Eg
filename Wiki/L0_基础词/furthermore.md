@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**此外，而且，再者**==；
+**adv.** ①==**此外，而且，再者**== `Furthermore, ...; furthermore and more importantly` [正式]；
 
 > [!tip] 原型义
 > **原型义**：此外，而且（在已有论述基础上进一步补充）
@@ -119,8 +119,9 @@ further（更进一步）+ more（更多）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has revolutionized communication. Furthermore, it has transformed the way we access information."（互联网彻底改变了通讯方式。此外，它还改变了我们获取信息的方式——考研写作高频句型）
-> - "Furthermore, the study found that stress levels were significantly higher in urban areas."（此外，研究发现城市地区的压力水平明显更高）
+> - "The internet has revolutionized communication. Furthermore, it has transformed the way we access information." `[真题]`
+> - "Furthermore, earlier marriage reinforces this trend, because graduates will be spending a greater proportion of their childbearing years in marriage." `[语料库]`
+> - "The majority of Americans increased their wealth in the past decade. Furthermore, the gains were substantial." `[语料库]`
 
 
 ---

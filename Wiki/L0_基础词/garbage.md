@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**垃圾，废物**==；②==**废话，无用的信息**==；③==**垃圾箱**==；
-**adj.** ①==**毫无价值的，劣质的**==；
+**n.** ①==**垃圾，废物**== `throw away garbage` [日常]；②==**废话，无用的信息**== `garbage in, garbage out` [习语]；③==**垃圾箱**== `garbage can` [美式]；
+**adj.** ①==**毫无价值的，劣质的**== `garbage TV programs` [口语]；
 
 > [!tip] 原型义
 > **原型义**：禽类内脏废料（源自中古英语，盎格鲁法语 *\*garbage*，最初指"禽类的内脏、头脚等废弃部分"，来源不明）
@@ -130,8 +130,9 @@ garbage 为基础词汇，词源不明。可能来自盎格鲁法语，与厨房
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The garbage collection system in this city needs urgent reform."（这座城市的垃圾收集系统急需改革。——考研相关语料，讨论城市管理与环境问题）
-> - "In the age of information overload, much of what we consume online is garbage."（在信息过载的时代，我们在网上消费的大部分内容都是垃圾。——考研英语真题相关话题，讨论信息质量）
+> - The garbage collection system in this city needs urgent reform. `[语料库]`
+> - In the age of information overload, much of what we consume online is garbage. `[语料库]`
+> - As the old saying goes, garbage in, garbage out. `[习语]`
 
 
 ---

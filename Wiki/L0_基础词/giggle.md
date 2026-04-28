@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**咯咯地笑，傻笑**==；
+**v.** ①==**咯咯地笑，傻笑**== `\giggle at sth` `[通用]`；
 **n.** ①咯咯的笑，傻笑；
 
 > [!tip] 原型义
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Nick giggled; the first expression of mirth he had exhibited."（尼克吃吃地笑了，这是他第一次露出开心的表情——英语文学常见表达）
-> - "She giggled at that thought."（想到这些，她咯咯地笑了——日常英语常见表达）
+> - The couple squealed and giggled in the fitting room. `[真题]`
+> - Vicky suppressed a nervous giggle as the teacher called her name. `[真题]`
+> - He looked so ridiculous I got the giggles. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**温和地，温柔地**==；②==**轻柔地，和缓地**==；
+**adv.** ①==**温和地，温柔地**== `gently remind / speak gently` [通用]；②==**轻柔地，和缓地**== `gently rolling / gently push / gently touch` [通用]；
 
 > [!tip] 原型义
 > **原型义**：温和地（以柔和的方式）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rising more than 1,000 feet in the middle of the gently rolling plains of Wyoming, the massive column of rock looks as though it was dropped down into this location from a different time and place."（在怀俄明州平缓起伏的平原中央拔地而起超过1000英尺，这块巨大的岩柱看起来就像是从另一个时空坠落于此。——考研英语阅读）
-> - "He might gently hint that Beijing is getting a little nervous about the value of the dollar."（他可能会温和地暗示，北京对美元的价值有些担忧。——考研英语阅读）
+> - Rising more than 1,000 feet in the middle of the gently rolling plains of Wyoming, the massive column of rock looks as though it was dropped down into this location from a different time and place. `[真题]`
+> - He might gently hint that Beijing is getting a little nervous about the value of the dollar. `[真题]`
+> - When working he applied the paint gently, then would step back a little and look at it under different perspective. `[真题]`
 
 
 ---

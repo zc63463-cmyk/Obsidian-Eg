@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地理学**==；②地形，地貌；
+**n.** ①==**地理学**== `physical geography / human geography / study geography` [通用]；②地形，地貌 `the geography of the region` [通用]；
 
 > [!tip] 原型义
 > **原型义**：地理学（描述地球表面的学科）
@@ -130,8 +130,9 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But, the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes."（但是，美国特有的地理条件、不同种族间相互影响、以及在蛮荒的新大陆上维系旧有习俗的绝对难度，带来了巨大的变化。——考研英语阅读长难句）
-> - "The American continent's geography severely limited the lines of attack."（美洲大陆的地形严重限制了进攻路线。——考研英语阅读）
+> - But, the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes. `[真题]`
+> - The American continent's geography severely limited the lines of attack. `[真题]`
+> - History and geography have conspired to bring the country to a moment of decision. `[真题]`
 
 
 ---
