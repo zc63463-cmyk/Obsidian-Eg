@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**调查，询问**==；②探究，探究精神；③询问，咨询；
+**n.** ①==**调查，询问**== `\hold/launch an inquiry into B` [正式] `\make an inquiry about B` [通用]；②探究，探究精神；③询问，咨询；
 
 > [!tip] 原型义
 > **原型义**：向内追问（深入探求真相或信息）
@@ -128,8 +128,9 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government launched a public inquiry into the causes of the accident."（政府对事故原因展开了公开调查）
-> - "The spirit of scientific inquiry drives progress."（科学探究精神推动进步）
+> - The government launched a public inquiry into the causes of the accident. `[真题]`
+> - The spirit of scientific inquiry drives progress. `[真题]`
+> - The police are pursuing a new line of inquiry. `[权威语料]`
 
 
 ---

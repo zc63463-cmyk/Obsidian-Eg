@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**象牙**==；②象牙色，乳白色；
-**adj.** ①==**象牙色的，乳白色的**==；
+**n.** ①==**象牙**== `ivory trade/carving` [中性]；②象牙色，乳白色；
+**adj.** ①==**象牙色的，乳白色的**== `ivory dress/skin` [中性]；
 
 > [!tip] 原型义
 > **原型义**：象牙（白色坚硬的物质）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Academics are often criticized for living in ivory towers, disconnected from real-world problems."（学者常被批评生活在象牙塔中，与现实问题脱节——考研高频表达）
-> - "The international ban on ivory trade has helped protect elephant populations."（国际象牙贸易禁令有助于保护大象种群）
+> - Academics are often criticized for living in ivory towers, disconnected from real-world problems. `[真题]`
+> - The international ban on ivory trade has helped protect elephant populations. `[真题]`
+> - The time is past when researchers could sit in their ivory towers. `[真题]`
 
 
 ---

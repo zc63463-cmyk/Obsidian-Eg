@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**伤害，损害**==（身体上的损伤）；②==**（感情、名誉等的）伤害**==；③受伤处
+**n.** ①==**伤害，损害**== `\sustain/suffer an injury` [通用] `\fatal/severe injury` [书面]；②==**（感情、名誉等的）伤害**== `\injury to one's pride/reputation` [书面]；③受伤处
 
 > [!tip] 原型义
 > **原型义**：不公正对待的结果（对人身或权利造成的损害状态）
@@ -128,8 +128,9 @@ injury = injure + -y(名词后缀，表示状态或结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers found that people who suffered a brain injury were more likely to experience cognitive decline in later years."（研究人员发现，遭受脑损伤的人在晚年更容易出现认知能力下降——考研英语阅读，医学研究话题）
-> - "Workplace injuries have declined significantly since the introduction of stricter safety regulations."（自从引入更严格的安全法规以来，工伤事故已显著减少——考研英语阅读，社会政策话题）
+> - The researchers found that people who suffered a brain injury were more likely to experience cognitive decline in later years. `[真题]`
+> - Workplace injuries have declined significantly since the introduction of stricter safety regulations. `[真题]`
+> - She fell and suffered an injury to her arm. `[权威语料]`
 
 
 ---

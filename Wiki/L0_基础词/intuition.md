@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**直觉，直感**==；②直觉力；
+**n.** ①==**直觉，直感**== `trust one's intuition` [通用] `by intuition` [书面]；②直觉力 `have an intuition that...` [通用]；
 
 > [!tip] 原型义
 > **原型义**：向内注视（looking inward, contemplation）
@@ -126,8 +126,10 @@ in-(=向内，在内) + tuit(=tueri, 注视，拉丁语 *tueri* "看/保护") + 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She had an intuition that something was wrong."（她有一种直觉，觉得有什么不对——考研阅读常见表达）
-> - "Intuition plays an important role in scientific discovery."（直觉在科学发现中起着重要作用）
+> - She had an intuition that something was wrong. ` `[真题]`
+> - If you think there's something wrong about the situation, you should trust your intuition. ` `[语料库]`
+> - Sometimes doctors have to base a diagnosis on intuition as much as on scientific tests. ` `[语料库]`
+> - Often there's no clear evidence one way or the other and you just have to base your judgment on intuition. ` `[语料库]`
 
 
 ---

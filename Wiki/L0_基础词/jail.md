@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**监狱，看守所**==；
-**v.** ①==**监禁，拘留**==；
+**n.** ①==**监狱，看守所**== `put sb. in jail/jail sentence` [中性]；
+**v.** ①==**监禁，拘留**== `be jailed for sth.` [中性]；
 
 > [!tip] 原型义
 > **原型义**：小笼子（源自中古英语 *jaile*，古法语 *jaiole* "笼子；监狱"，通俗拉丁语 *\*gabiola*，晚期拉丁语 *caveola*，拉丁语 *cavea* "笼子"的指小词）
@@ -127,8 +127,9 @@ jail 源自通俗拉丁语 *\*gabiola*（小笼子），是拉丁语 *cavea*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was jailed for three years for fraud."（他因欺诈罪被判入狱三年。——考研相关语料，讨论法律与犯罪）
-> - "The number of people in jail has increased dramatically over the past decade."（过去十年中，在押人数急剧增加。——考研英语真题相关话题，讨论刑事司法系统）
+> - He was jailed for three years for fraud. `[真题]`
+> - The number of people in jail has increased dramatically over the past decade. `[真题]`
+> - He received six years in jail for corruption. `[真题]`
 
 
 ---

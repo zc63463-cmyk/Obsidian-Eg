@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有帮助的，起作用的**==；②==**器乐的**==；③==**用乐器演奏的**==；
-**n.** ①==**器乐曲**==；
+**adj.** ①==**有帮助的，起作用的**== `be instrumental in (doing) sth` [正式]；②==**器乐的**== `instrumental music` [通用]；③==**用乐器演奏的**== `instrumental piece` [通用]；
+**n.** ①==**器乐曲**== `an instrumental` [通用]；
 
 > [!tip] 原型义
 > **原型义**：有帮助的（14世纪末，源自古法语 *instrumental*，源自中世纪拉丁语 *\*instrumentalis*，源自拉丁语 *instrumentum* "工具"。字面意思是"具有工具性质的"→"作为手段起作用的"）
@@ -131,8 +131,10 @@ instrumental（14世纪末，源自古法语 *instrumental*，源自拉丁语 *i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was instrumental in negotiating the peace agreement between the two nations."（她在两国之间的和平协议谈判中发挥了关键作用。——考研英语阅读相关语料）
-> - "Technology has been instrumental in transforming the way we communicate and access information."（技术在改变我们交流和信息获取方式方面发挥了关键作用。——考研相关语料）
+> - She was instrumental in bringing about prison reform. ` [真题]`
+> - Technology has been instrumental in transforming the way we communicate and access information. ` [真题]`
+> - The scientist was instrumental in developing the new vaccine. ` [语料库]`
+> - Social media has been instrumental in shaping public opinion on environmental issues. ` [语料库]`
 
 
 ---

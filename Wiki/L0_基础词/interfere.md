@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**干涉，介入**==；②妨碍，打扰；③（物理）干扰；
+**v.** ①==**干涉，介入**== `interfere in sth.` `[常用]`；②妨碍，打扰 `interfere with sth./sb.` `[常用]`；③（物理）干扰；
 
 > [!tip] 原型义
 > **原型义**：在……之间打击——在别人之间"打"进去
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Parents should not interfere in their children's career choices."（父母不应干涉子女的职业选择）
-> - "Noise from the construction site interfered with the students' ability to concentrate."（工地的噪音妨碍了学生集中注意力）
+> - The government warned its neighbors not to interfere in its internal affairs. `[真题]`
+> - Even a little noise interferes with my concentration. `[真题]`
+> - She tried not to interfere in her children's lives. `[真题]`
 
 
 ---

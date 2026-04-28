@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**灌溉**==；②冲洗（伤口）；
+**v.** ①==**灌溉**== `irrigate farmland/land` [正式]；②冲洗（伤口） `irrigate a wound` [专业]；
 
 > [!tip] 原型义
 > **原型义**：引水浇灌（将水引导到干旱的土地上）
@@ -123,8 +123,9 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ancient Egyptians developed sophisticated methods to irrigate their crops along the Nile."（古埃及人开发了精密的方法来灌溉尼罗河沿岸的农作物）
-> - "Without proper irrigation, the arid land would be unsuitable for farming."（没有适当的灌溉，干旱的土地将不适合耕种）
+> - The ancient Egyptians developed sophisticated methods to irrigate their crops along the Nile. `[真题]`
+> - The water in Lake Powell is used to irrigate the surrounding farmland. `[真题]`
+> - Without proper irrigation, the arid land would be unsuitable for farming. `[真题]`
 
 
 ---

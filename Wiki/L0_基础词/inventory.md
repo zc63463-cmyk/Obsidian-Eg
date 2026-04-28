@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**库存，存货**==；②清单，详细目录；③（对财产的）清点；
+**n.** ①==**库存，存货**== `inventory management` [商业]；②==**清单，详细目录**== `make an inventory` [正式]；③（对财产的）清点；
 **v.** ①盘点，编制清单；
 
 > [!tip] 原型义
@@ -124,7 +124,9 @@ in-(进入) + [[ven-vent|ven]](来/找到，拉丁语 *venire*) + -tory(名词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company needs to improve its inventory management to reduce costs."（公司需要改善库存管理以降低成本）
+> - The company needs to improve its inventory management to reduce costs. `[真题]`
+> - We began taking inventory of the storeroom to make sure we had enough supplies. `[语料库]`
+> - Take inventory of your professional skills, accomplishments and experiences. `[外刊]`
 
 
 ---

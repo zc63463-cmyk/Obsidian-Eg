@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**注射，注入**==（用针头将液体注入体内）；②==**投入（资金等），增添（某品质）**==；③引入（新思想等）
+**v.** ①==**注射，注入**== `\inject sth into sb` [医学] `\inject A into B` [通用]；②==**投入（资金等），增添（某品质）**== `\inject money/capital into B` [经济]；③引入（新思想等）
 
 > [!tip] 原型义
 > **原型义**：向内投掷（将物质推入内部）
@@ -130,8 +130,9 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government decided to inject billions of dollars into the economy to stimulate growth and prevent a deeper recession."（政府决定向经济注入数十亿美元以刺激增长并防止更严重的衰退——考研英语阅读，经济政策话题）
-> - "To inject new vitality into the traditional industry, the company has adopted innovative technologies and management strategies."（为了给传统产业注入新的活力，公司采用了创新的技术和管理策略——考研英语阅读，产业创新话题）
+> - The government decided to inject billions of dollars into the economy to stimulate growth and prevent a deeper recession. `[真题]`
+> - To inject new vitality into the traditional industry, the company has adopted innovative technologies and management strategies. `[真题]`
+> - The market rose by nearly 4% on news that the government is to inject cash into the financial system. `[权威语料]`
 
 
 ---

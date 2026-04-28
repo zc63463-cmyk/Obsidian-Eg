@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**安装，设置**==；②==**正式任命，使就职**==；③安置，安顿；
+**v.** ①==**安装，设置**== `install a system/software` [正式]；②==**正式任命，使就职**== `install sb as sth` [正式]；③安置，安顿；
 
 > [!tip] 原型义
 > **原型义**：放入固定位置（将某人/某物安置到正式的位置上）
@@ -124,8 +124,10 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has installed a new security system to protect the nation's infrastructure."（政府安装了新的安全系统以保护国家基础设施）
-> - "She was installed as the new chair of the department."（她被正式任命为系主任）
+> - They're planning to install a new drainage system. `[真题]`
+> - The opposition candidate was installed as president. `[真题]`
+> - A hidden camera had been installed in the room. `[真题]`
+> - She had installed herself and her daughter in a villa. `[语料库]`
 
 
 ---

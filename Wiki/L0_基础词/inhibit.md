@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抑制，阻止，阻碍**==；②使拘束，使拘谨；
+**v.** ①==**抑制，阻止，阻碍**== `V N`；②==**使拘束，使拘谨**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：持有不动（把某人/某事"按住"，不让其发展）
@@ -135,8 +135,10 @@ in-(=in, 在……上面/里面) + hib(=habere, 持有/握住，拉丁语 *haber
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Lousy air links inhibit trade, exports and investment."（差劲的航线网络限制了贸易、出口及投资。——《经济学人》外刊例句，考研高频话题）
-> - "These compounds inhibit microbial growth."（这些化合物能抑制微生物的生长。——考研阅读常见科普话题）
+> - "Lousy air links inhibit trade, exports and investment." `[真题]`
+> - "These compounds inhibit microbial growth." `[真题]`
+> - "Human skin is slightly acidic, which helps inhibit bacterial growth." `[COCA-ACAD]`
+> - "The new regulations may inhibit economic growth." `[COCA-NEWS]`
 
 
 ---

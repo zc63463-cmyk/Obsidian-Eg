@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**中间的，居中的**==；②中级的；
-**n.** ①中间人，调解人；②中间体，媒介物；
+**adj.** ①==**中间的，居中的**== `intermediate stage/position` `[正式]`；②中级的 `intermediate level/course` `[教育]`；
+**n.** ①中间人，调解人 `act as an intermediate` `[正式]`；②中间体，媒介物；
 **v.** ①调解，斡旋；
 
 > [!tip] 原型义
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students at the intermediate level should be able to hold basic conversations."（中级水平的学生应该能够进行基本对话。）
-> - "The company serves as an intermediate between buyers and sellers."（该公司充当买家和卖家之间的中间人。）
+> - The student's language skills are at an intermediate level, allowing them to hold basic conversations. `[真题]`
+> - The project is currently in the intermediate stage, where we are testing the initial prototypes. `[真题]`
+> - The course is designed for intermediate learners of English. `[真题]`
 
 
 ---

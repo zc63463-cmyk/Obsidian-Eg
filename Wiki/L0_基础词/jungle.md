@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**丛林，密林**==；②==**丛林法则（弱肉强食）**==（the law of the jungle）；③==**错综复杂之处**==（a jungle of rules）；
+**n.** ①==**丛林，密林**== `\in the jungle` [通用]；②==**丛林法则（弱肉强食）**== `\the law of the jungle` [正式]；③==**错综复杂之处**== `\a jungle of rules` [比喻]；
 
 > [!tip] 原型义
 > **原型义**：丛林（热带茂密的森林，充满危险和混乱）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If you make aggression pay, this becomes the law of the jungle."（如果你通过侵略谋取利益，这就成了弱肉强食的丛林法则——考研阅读常见表达）
-> - "The concrete jungles could be in many ways improved if an attempt was made to plant some trees in the middle of these urban constituencies."（如果尝试在这些城市选区的中间种些树，钢筋水泥丛林可以在很多方面得到改善——剑桥词典例句）
+> - "If you make aggression pay, this becomes the law of the jungle." `[真题]`
+> - "The concrete jungles could be in many ways improved if an attempt was made to plant some trees in the middle of these urban constituencies." `[剑桥词典]`
+> - "A helicopter landed in a clearing in the jungle." `[柯林斯词典]`
+> - "It is a soulless concrete jungle of a place." `[柯林斯词典]`
 
 
 ---

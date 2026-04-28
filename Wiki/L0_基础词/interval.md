@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**间隔，间歇**==；②（幕间）休息时间；③音程（音乐）；
+**n.** ①==**间隔，间歇**== `at regular intervals` [通用] `the interval between A and B` [通用]；②（幕间）休息时间 `concert interval` [正式]；③音程（音乐）`musical interval` [专业]；
 
 > [!tip] 原型义
 > **原型义**：间隔，间歇（来自拉丁语 * intervallum*，[[inter]]"在……之间"+ vallum(墙，壁垒)→ 两墙之间的空间）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Buses run at regular intervals throughout the day."（公交车全天每隔固定时间运行一班。）
-> - "There was a short interval between the two meetings."（两次会议之间有一个短暂的间隔。）
+> - Buses run at regular intervals throughout the day. ` `[真题]`
+> - The gardeners planted the trees at regular intervals along the path. ` `[语料库]`
+> - There was a short interval between the two meetings. ` `[真题]`
+> - Boats depart at regular intervals throughout the day and into the early evening. ` `[语料库]`
 
 
 ---

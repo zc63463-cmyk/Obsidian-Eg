@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**通货膨胀**==；②==**充气，膨胀**==（物理）；③==**夸张，自吹自擂**==；
+**n.** ①==**通货膨胀**== `N of N` [经济]；②==**充气，膨胀**== `N` [物理]；③==**夸张，自吹自擂**== `N` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：充气，膨胀（向内吹气使膨胀）
@@ -129,8 +129,10 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation."（今年的涨幅平均为2.7%，可能比去年略低，但仍远高于官方消费者价格指数（CPI）衡量的通胀水平。——2021年考研英语一Text 1）
-> - "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation."（在经济危机前的十年间，美国法律服务支出的增长速度是通胀率的两倍。——考研阅读常见表达）
+> - "This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation." `[真题]`
+> - "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation." `[真题]`
+> - "The bank is introducing new measures to curb inflation." `[COCA-NEWS]`
+> - "Wage increases must be in line with inflation." `[COCA-ACAD]`
 
 
 ---

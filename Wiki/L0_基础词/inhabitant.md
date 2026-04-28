@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**居民，住户**==；②栖息动物；
+**n.** ①==**居民，住户**== `N of N`；②==**栖息动物**== `N`；
 
 > [!tip] 原型义
 > **原型义**：居住在某个地方的人或生物（栖息者）
@@ -133,8 +133,10 @@ in-(=in-, 在……里面) + habit(=have/hold, 持有/居住) + -ant(表示"人"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The roughly 20 million inhabitants of these nations looked hopefully to the future."（这些国家的大约两千万居民对未来充满期待。——2007年英语一完形）
-> - "American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit."（美国报业身处全球行业问题最麻烦的角落，不仅生存了下来，而且往往恢复了盈利。——2011年英语二Text 2，inhabit 动词形式）
+> - "The roughly 20 million inhabitants of these nations looked hopefully to the future." `[真题]`
+> - "American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit." `[真题]`
+> - "The Aborigines are the native inhabitants of Australia." `[COCA-ACAD]`
+> - "More than 700 of the city's inhabitants lost their lives." `[BNC-NEWS]`
 
 
 ---

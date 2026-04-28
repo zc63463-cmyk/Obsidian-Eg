@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**铁**==；②熨斗；③铁器；
-**v.** ①==**熨平（衣服）**==；
-**adj.** ①==**铁的；坚强的**==；
+**n.** ①==**铁**== `iron ore/iron and steel` [中性]；②熨斗 `an electric iron` [中性]；③铁器；
+**v.** ①==**熨平（衣服）**== `iron a shirt` [中性]；
+**adj.** ①==**铁的；坚强的**== `iron will/discipline` [正式]；
 
 > [!tip] 原型义
 > **原型义**：铁——坚硬的金属（象征坚固与力量）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has an iron will that enables her to overcome any obstacle."（她拥有钢铁般的意志，能够克服任何障碍）
-> - "The two sides managed to iron out their differences and reach an agreement."（双方设法消除了分歧，达成了协议——考研高频表达）
+> - She has an iron will that enables her to overcome any obstacle. `[真题]`
+> - The two sides managed to iron out their differences and reach an agreement. `[真题]`
+> - The whole region was under iron discipline during the military regime. `[真题]`
 
 
 ---

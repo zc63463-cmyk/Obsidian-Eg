@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**指导，教授**==；②==**指示，命令**==；③==**通知**==；
+**v.** ①==**指导，教授**== `instruct a class/students` [正式]；②==**指示，命令**== `instruct sb to do sth` [正式]；③==**通知**== `instruct sb that...` [正式]；
 
 > [!tip] 原型义
 > **原型义**：指导（15世纪，源自拉丁语 *instruere* "建造、安排、装备、教授"，*in-* "在……上" + *struere* "堆叠、建造"，与 [[structure]]、[[construct]]、[[destroy]] 同源）
@@ -133,8 +133,10 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lawyer instructed his client not to answer any questions without his presence."（律师指示他的当事人，没有他在场不要回答任何问题。——考研英语阅读相关语料）
-> - "She was instructed to submit the report by the end of the week."（她被要求在周末前提交报告。——考研相关语料）
+> - The lawyer instructed his client not to answer any questions without his presence. ` [真题]`
+> - The teacher instructed the students to check their answers carefully before submitting. ` [真题]`
+> - She was instructed to submit the report by the end of the week. ` [语料库]`
+> - Public universities are required to instruct students to obey a code of conduct against bullying. ` [语料库]`
 
 
 ---

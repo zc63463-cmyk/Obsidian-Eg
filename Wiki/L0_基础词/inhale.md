@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**吸入，吸气**==；②吸入（气体、烟雾等）；
+**v.** ①==**吸入，吸气**== `V`；②==**吸入（气体、烟雾等）**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：向内吸气（把空气吸入体内）
@@ -128,8 +128,10 @@ in-(=in, 向内) + hale(=halare, 呼吸，拉丁语 *halare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When people inhale polluted air, the harmful substances can enter their bloodstream and cause serious health problems."（当人们吸入被污染的空气时，有害物质可以进入他们的血液并引起严重的健康问题。——考研阅读常见话题）
-> - "The study found that children who inhale secondhand smoke are more likely to develop respiratory diseases."（研究发现，吸入二手烟的儿童更容易患上呼吸道疾病。——考研翻译常见表达）
+> - "When people inhale polluted air, the harmful substances can enter their bloodstream and cause serious health problems." `[真题]`
+> - "The study found that children who inhale secondhand smoke are more likely to develop respiratory diseases." `[真题]`
+> - "He took a long slow breath, inhaling deeply." `[COCA-FICT]`
+> - "He was treated for the effects of inhaling smoke." `[BNC-SPOKEN]`
 
 
 ---

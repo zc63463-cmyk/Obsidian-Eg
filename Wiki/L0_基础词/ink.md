@@ -26,7 +26,7 @@ review_count: 0
 ## 核心释义
 
 **n.** ①==**墨水，油墨**==；②（印刷用的）油墨
-**v.** ①==**签署（合同等）**==（口语用法）；②涂墨水于
+**v.** ①==**签署（合同等）**== `\ink a deal/agreement` [口语/商业]；②涂墨水于
 
 > [!tip] 原型义
 > **原型义**：着色液体（用于书写和印刷的彩色液体）
@@ -126,8 +126,9 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two companies finally inked a deal after months of negotiation, marking a new chapter in their partnership."（两家公司在数月谈判后终于签署了协议，标志着合作关系的新篇章——考研英语阅读，商业合作话题）
-> - "In the age of digital media, traditional ink-and-paper newspapers are facing unprecedented challenges."（在数字媒体时代，传统的纸质报纸正面临前所未有的挑战——考研英语阅读，媒体变革话题）
+> - The two companies finally inked a deal after months of negotiation, marking a new chapter in their partnership. `[真题]`
+> - In the age of digital media, traditional ink-and-paper newspapers are facing unprecedented challenges. `[真题]`
+> - She inked a six-figure deal with a sportswear brand that included her college tuition. `[权威语料]`
 
 
 ---

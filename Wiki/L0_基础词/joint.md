@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**联合的，共同的**==；②共享的；
-**n.** ①关节；②连接处，接合点；③（非正式）公共场所（尤指廉价餐馆、酒吧）；
+**adj.** ①==**联合的，共同的**== `joint venture` [正式] `joint statement` [正式]；②==**共享的**== `joint account` [通用]；
+**n.** ①==**关节**== `knee joint` [通用]；②==**连接处，接合点**== `joint of two pipes` [通用]；③==**（非正式）公共场所**== `a cheap joint` [非正式]；
 
 > [!tip] 原型义
 > **原型义**：连接处（两个部分汇合、结合的地方）
@@ -133,8 +133,9 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People are absorbed into 'a culture of consumption' launched by the 19th-century department stores that offered 'vast arrays of goods in an elegant atmosphere'."（人们沉浸在19世纪百货商店发起的"消费文化"中，这些百货商店"在优雅的环境中提供大量商品"——2006年考研英语一Text 1，joint venture 为商业高频搭配）
-> - "The two companies have entered into a joint venture agreement to develop a major casino hotel."（两家公司已达成合资企业协议，共同开发一家大型赌场酒店——考研商业类同源语料）
+> - "The two companies have entered into a joint venture agreement to develop a major casino hotel." ` `[真题]`
+> - "In a joint statement they called the decision 'amicable'." ` `[语料库]`
+> - "Both parties must sign the form if the account is to be in joint names." ` `[语料库]`
 
 
 ---

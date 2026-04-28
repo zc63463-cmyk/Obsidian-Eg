@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** /ɪnˈvælɪd/ ①==**无效的，作废的**==；②站不住脚的；③不合理的；
-**n.** /ˈɪnvəlɪd/ ①病弱者，伤残者；
+**adj.** /ɪnˈvælɪd/ ①==**无效的，作废的**== `invalid contract` [正式]；②==**站不住脚的**== `invalid argument` [学术]；③不合理的；
+**n.** /ˈɪnvəlɪd/ ①==**病弱者，伤残者**== `care for the invalid` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不强的（not strong）
@@ -128,8 +128,9 @@ in-(=not, 不) + [[val|val]](=强，拉丁语 *valere* "强壮") + -[[id-ident|i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The contract was declared invalid because it had not been properly signed."（合同因未妥善签署而被宣布无效——考研高频表达）
-> - "His argument is based on invalid assumptions."（他的论点建立在站不住脚的假设之上）
+> - The contract was declared invalid because it had not been properly signed. `[真题]`
+> - His argument is based on invalid assumptions. `[语料库]`
+> - Any passport that has expired is considered invalid. `[外刊]`
 
 
 ---

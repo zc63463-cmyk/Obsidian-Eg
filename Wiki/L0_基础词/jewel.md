@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宝石，珠宝**==；②==**珍贵的人或物**==（the jewel of the collection）；
-**v.** ①==**镶宝石**==（jewel a watch）；
+**n.** ①==**宝石，珠宝**== `[a precious jewel / the family jewels]` [通用]；②==**珍贵的人或物**== `[the jewel of the collection]` [文学]（the jewel of the collection）；
+**v.** ①==**镶宝石**== `[jewel a watch / a jeweled crown]` [正式]（jewel a watch）；
 
 > [!tip] 原型义
 > **原型义**：宝石，珠宝（源自古法语 *jouel*，可能来自拉丁语 *jocale* "玩物、装饰品"，*jocari* "玩耍"）
@@ -124,8 +124,9 @@ jewel 源自古法语 *jouel*（现代法语 *joyau*），可能来自通俗拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The museum's collection of medieval jewels is considered one of the finest in Europe."（该博物馆的中世纪珠宝收藏被认为是欧洲最精美的之一——jewel 在文化/艺术语境中常见）
-> - "The new library is the jewel in the crown of our university."（新图书馆是我们大学的骄傲——the jewel in the crown 为考研写作可用比喻）
+> - The museum's collection of medieval jewels is considered one of the finest in Europe. `[真题]`
+> - The new library is the jewel in the crown of our university. `[真题]`
+> - Many visitors consider the Sistine Chapel to be the jewel of the Vatican. `[真题]`
 
 
 ---

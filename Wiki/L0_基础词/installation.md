@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**安装，设置**==；②==**装置，设施**==（安装好的设备）；③就职仪式；④（现代艺术）装置艺术；
+**n.** ①==**安装，设置**== `the installation of` [正式]；②==**装置，设施**== `military installations` [正式]（安装好的设备）；③就职仪式；④（现代艺术）装置艺术；
 
 > [!tip] 原型义
 > **原型义**：安装的过程或结果（将设备/人安置到正式位置的动作或状态）
@@ -123,8 +123,10 @@ in-(进入) + stall(固定位置) + -ation(名词后缀，表示动作或结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The installation of the new software system cost the company millions."（安装新软件系统花费了公司数百万）
-> - "Military installations along the border have been reinforced."（边境的军事设施已得到加强）
+> - The building was turned into a secret military installation. `[真题]`
+> - Other measures adopted have included the installation of ground source heat pumps in some churches. `[真题]`
+> - The guard would protect ministerial buildings and possibly oil installations. `[语料库]`
+> - People are aware of how unsafe many of their nuclear installations are. `[语料库]`
 
 
 ---

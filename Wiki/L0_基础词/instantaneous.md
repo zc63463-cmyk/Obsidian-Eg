@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**瞬间的，即刻的**==；②==**同时发生的**==；
+**adj.** ①==**瞬间的，即刻的**== `instantaneous response/communication` [正式]；②==**同时发生的**== `instantaneous death` [学术]；
 
 > [!tip] 原型义
 > **原型义**：站在面前发生的（在面前的这一刻就完成的，没有时间间隔）
@@ -119,8 +119,10 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the telegraph made nearly instantaneous communication possible across continents."（电报的发明使几乎即时的跨洲通信成为可能）
-> - "The explosion caused instantaneous destruction of the entire building."（爆炸瞬间摧毁了整栋建筑）
+> - The invention of the telegraph made nearly instantaneous communication possible across continents. ` [真题]`
+> - TV has conditioned us to expect instantaneous answers to difficult questions. ` [语料库]`
+> - The explosion caused instantaneous destruction of the entire building. ` [语料库]`
+> - In calculus, the derivative represents the instantaneous rate of change of a function. ` [语料库]`
 
 
 ---

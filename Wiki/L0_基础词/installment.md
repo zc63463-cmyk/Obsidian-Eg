@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**分期付款的一期**==；②==**（连载的）一期，一集**==；③安装，安置（罕见）；
+**n.** ①==**分期付款的一期**== `pay in installments` [正式]；②==**（连载的）一期，一集**== `the first/next installment` [正式]；③安装，安置（罕见）；
 
 > [!tip] 原型义
 > **原型义**：分期的一部分（将总金额或总内容逐次"安置"到位，每次只放一部分）
@@ -121,8 +121,10 @@ in-(进入) + stall(固定位置) + -ment(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young people prefer to pay for their cars in installments rather than in a lump sum."（许多年轻人更愿意分期付款买车，而不是一次性付清）
-> - "This is the first installment of a three-part series on climate change."（这是关于气候变化三部曲系列的第一期）
+> - Many college students rely on paying their tuition fees in installments. `[真题]`
+> - Students often choose to purchase laptops on installments to manage their finances better. `[真题]`
+> - Maria borrows a sum payable in 12 monthly installments. `[语料库]`
+> - This is the first installment of a three-part series on climate change. `[语料库]`
 
 
 ---

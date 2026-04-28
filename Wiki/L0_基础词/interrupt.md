@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**打断，中断**==；②打断（某人）讲话；③暂时中断，遮断；
+**v.** ①==**打断，中断**== `interrupt sb./sth.` `[常用]`；②打断（某人）讲话 `interrupt a conversation/speaker` `[常用]`；③暂时中断，遮断；
 **n.** ①（计算机）中断；
 
 > [!tip] 原型义
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please do not interrupt the speaker during the presentation."（在演讲过程中请不要打断讲话者。）
-> - "The storm interrupted electricity supplies across the region."（暴风雨中断了整个地区的电力供应。）
+> - I'm sorry to interrupt, but there's someone here to see you. `[真题]`
+> - She tried to explain what had happened but he kept interrupting her. `[真题]`
+> - Trade between the two countries was interrupted by the war. `[真题]`
 
 
 ---

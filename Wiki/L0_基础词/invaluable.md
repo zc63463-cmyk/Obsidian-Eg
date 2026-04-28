@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无价的，非常宝贵的**==；
+**adj.** ①==**无价的，非常宝贵的**== `invaluable help` [正式] `prove invaluable` [通用]；
 
 > [!tip] 原型义
 > **原型义**：无法估价的（beyond price, cannot be valued）
@@ -121,8 +121,9 @@ in-(=not, 不) + valu(=价值，拉丁语 *valere* "强壮/有价值") + -able(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The library proved to be an invaluable resource for researchers."（图书馆被证明是研究人员极其宝贵的资源——考研高频表达）
-> - "Her advice was invaluable to the success of the project."（她的建议对项目的成功极其宝贵）
+> - The library proved to be an invaluable resource for researchers. `[真题]`
+> - Her advice was invaluable to the success of the project. `[语料库]`
+> - Such data will prove invaluable to researchers in the field. `[外刊]`
 
 
 ---

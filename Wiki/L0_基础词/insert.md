@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**插入，嵌入**==（把某物放入另一物的内部或中间）；②==**添加，附上**==（在文本中添加内容）；
-**n.** ①==**插入物**==（插入到出版物中的附加页或内容）；②（杂志等的）插页；
+**v.** ①==**插入，嵌入**== `\insert A into B` [通用]；②==**添加，附上**== `\insert a word/paragraph into B` [书面]；
+**n.** ①==**插入物**==；②（杂志等的）插页；
 
 > [!tip] 原型义
 > **原型义**：放入其中（把一物放入另一物的内部）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The editor asked the author to insert an additional paragraph to clarify the methodology used in the research study."（编辑要求作者插入一个额外的段落，以阐明该研究使用的方法论——考研阅读学术话题相关表达）
-> - "Users can insert their credit card information into the online form to complete the purchase securely and conveniently."（用户可以将信用卡信息插入在线表格中，安全便捷地完成购买——考研翻译科技话题相关表达）
+> - The editor asked the author to insert an additional paragraph to clarify the methodology used in the research study. `[真题]`
+> - Users can insert their credit card information into the online form to complete the purchase securely and conveniently. `[真题]`
+> - His hand shook slightly as he inserted the key into the lock. `[权威语料]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**干涉，干预**==；②==**干扰**==；③（物理学）干涉（波的叠加现象）；
+**n.** ①==**干涉，干预**== `interference in sth.` `[正式]`；②==**干扰**== `interference with sth.` `[技术]`；③（物理学）干涉（波的叠加现象）；
 
 > [!tip] 原型义
 > **原型义**：在……之间打击的行为或结果
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government warned against foreign interference in domestic affairs."（政府警告不要干涉内政）
-> - "Electromagnetic interference can cause serious problems for communication systems."（电磁干扰可能给通信系统造成严重问题）
+> - The government warned against foreign interference in domestic affairs. `[真题]`
+> - Electromagnetic interference can cause serious problems for communication systems. `[真题]`
+> - Pacemakers are sensitive to electromagnetic interference from mobile phones and other devices. `[真题]`
 
 
 ---

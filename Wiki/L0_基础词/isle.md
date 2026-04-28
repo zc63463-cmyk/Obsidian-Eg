@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**岛，小岛**==；
+**n.** ①==**岛，小岛**== `the British Isles/a tropical isle` [正式]；
 
 > [!tip] 原型义
 > **原型义**：水中的陆地（四面环水的陆地）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The British Isles have a long and complex history of invasion and settlement."（不列颠群岛有着漫长而复杂的入侵和定居历史）
-> - "He dreamed of escaping to a remote isle far from civilization."（他梦想逃到一个远离文明的偏远小岛）
+> - The British Isles have a long and complex history of invasion and settlement. `[真题]`
+> - The Isle of Man became the first place in the British Isles to pass its assisted dying bill. `[真题]`
+> - He dreamed of escaping to a remote isle far from civilization. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**相反的，逆向的**==；②倒转的；
+**adj.** ①==**相反的，逆向的**== `inverse relationship` [学术]；②倒转的；
 **n.** ①相反的事物；②（数学）倒数；③（逻辑学）反题；
 
 > [!tip] 原型义
@@ -129,7 +129,9 @@ in-(=intensive，加强语气) + [[ver-vert|vers-]](转，拉丁语 *vertere*，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is an inverse relationship between the price of a product and the quantity demanded."（产品价格与需求量之间存在反比关系）
+> - There is an inverse relationship between the price of a product and the quantity demanded. `[真题]`
+> - The amount of business activity is in inverse proportion to the amount of government control. `[语料库]`
+> - The current crisis is the exact inverse of the boom we experienced a few years ago. `[外刊]`
 
 
 ---

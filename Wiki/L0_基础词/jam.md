@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**果酱**==；②==**拥挤，堵塞**==（traffic jam）；③==**困境**==（in a jam）；
-**v.** ①==**挤满，塞入**==；②==**卡住，发生故障**==（jam the machine）；③==**干扰（无线电信号）**==；
+**n.** ①==**果酱**== `[a jar of jam / spread jam on bread]` [日常]；②==**拥挤，堵塞**== `[be stuck in a traffic jam]` [通用]（traffic jam）；③==**困境**== `[be in a jam]` [口语]（in a jam）；
+**v.** ①==**挤满，塞入**== `[jam sth into sth]` [通用]；②==**卡住，发生故障**== `[the printer is jammed]` [通用]（jam the machine）；③==**干扰（无线电信号）**== `[jam a signal]` [科技]；
 
 > [!tip] 原型义
 > **原型义**：果酱；挤压（可能源自动词 jam "挤压"，或来自"被压碎的水果"）
@@ -127,8 +127,10 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Commuters were stuck in a massive traffic jam on the highway this morning."（今早通勤者被困在高速公路的大规模交通堵塞中——traffic jam 为考研阅读常见表达）
-> - "The system is jammed with too many requests."（系统因请求过多而卡住了——jam 在科技语境中的用法）
+> - Commuters were stuck in a massive traffic jam on the highway this morning. `[真题]`
+> - The system is jammed with too many requests. `[真题]`
+> - She spread the toast thickly with strawberry jam. `[真题]`
+> - I'm in a bit of a jam and could really use your help. `[真题]`
 
 
 ---

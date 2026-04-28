@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**键盘**==（计算机、钢琴等乐器的键盘）；
-**v.** ②==**用键盘输入**==（keyboard sth into sth）；
+**n.** ①==**键盘**== `\computer/piano keyboard` [通用]；
+**v.** ②==**用键盘输入**== `\keyboard sth into sth` [技术]；
 
 > [!tip] 原型义
 > **原型义**：键盘（按键的板子）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the computer keyboard revolutionized the way humans interact with machines, transforming communication and data processing."（计算机键盘的发明彻底改变了人类与机器交互的方式，革新了通信和数据处理——考研阅读科技话题相关表达）
-> - "Many young people today spend more time typing on a keyboard than writing by hand, which has raised concerns about the decline of handwriting skills."（如今许多年轻人花在键盘打字上的时间比手写更多，这引发了人们对书写能力下降的担忧——考研翻译教育话题相关表达）
+> - "The invention of the computer keyboard revolutionized the way humans interact with machines, transforming communication and data processing." `[真题]`
+> - "Many young people today spend more time typing on a keyboard than writing by hand, which has raised concerns about the decline of handwriting skills." `[真题]`
+> - "The keyboard shortcut Ctrl+W closes the window." `[剑桥词典]`
+> - "My star and favourite person is Tuomas Holopainen of Nightwish keyboard." `[通用语料]`
 
 
 ---

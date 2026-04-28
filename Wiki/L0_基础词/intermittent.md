@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**间歇的，断断续续的**==；②周期性的；
+**adj.** ①==**间歇的，断断续续的**== `intermittent rain/noise` `[常用]`；②周期性的 `intermittent fasting` `[健康]`；
 
 > [!tip] 原型义
 > **原型义**：间歇的，断断续续的（来自拉丁语 *intermittere*，inter-(在……之间)+ mittere(送，放)→ 在中间放开→ 停下来再继续）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The region suffers from intermittent droughts throughout the year."（该地区全年遭受间歇性干旱。）
-> - "Intermittent fasting has been shown to have various health benefits."（间歇性禁食已被证明具有多种健康益处。）
+> - More than 1,500 musicians performed in intermittent rain before a small crowd. `[真题]`
+> - The drawback to renewables is that they are intermittent, producing only when the weather is sunny or windy. `[真题]`
+> - Intermittent fasting has been shown to have various health benefits. `[真题]`
 
 
 ---

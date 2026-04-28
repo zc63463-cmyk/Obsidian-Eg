@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**造成（痛苦、伤害等）**==；②==**施加（惩罚、打击等）**==；
+**v.** ①==**造成（痛苦、伤害等）**== `V N on/upon N`；②==**施加（惩罚、打击等）**== `V N on/upon N`；
 
 > [!tip] 原型义
 > **原型义**：造成（痛苦、伤害等）（把打击施加于）
@@ -133,8 +133,10 @@ in-(=on/upon, 在……上) + flict(=strike/beat, 打击，拉丁语 *fligere*) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The storm inflicted severe damage on the town."（暴风雨给小镇造成了严重破坏。——考研阅读类表达）
-> - "He said he wanted to economise without inflicting damage, by rationing funding according to excellence."（他宣称希望能通过根据个体的杰出与否来分配资金以在不造成损失的同时节约开支。——考研翻译类表达）
+> - "The storm inflicted severe damage on the town." `[真题]`
+> - "He said he wanted to economise without inflicting damage, by rationing funding according to excellence." `[真题]`
+> - "Russian artillery fire inflicted heavy damage to the walls." `[COCA-NEWS]`
+> - "Both brothers allege that serious damage was inflicted on their reputations and businesses." `[BNC-NEWS]`
 
 
 ---

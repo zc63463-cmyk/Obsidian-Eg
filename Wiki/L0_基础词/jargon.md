@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**行话，术语**==；②==**晦涩难懂的语言**==（贬义）；
+**n.** ①==**行话，术语**== `[technical/legal/medical jargon]` [通用]；②==**晦涩难懂的语言**== `[be full of jargon]` [贬义]（贬义）；
 
 > [!tip] 原型义
 > **原型义**：行话，术语（源自古法语 *jargon* "鸟的叽叽喳喳声"，原为拟声词，后引申为"难懂的语言"）
@@ -120,8 +120,9 @@ jargon 源自古法语 *jargon* "鸟的叽叽喳喳声、无意义的 chatter"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scientific paper was so full of jargon that even other scientists found it hard to understand."（这篇科学论文充满了术语，连其他科学家都觉得难以理解——jargon 在学术语境中为高频词）
-> - "Lawyers often use legal jargon that is incomprehensible to the general public."（律师经常使用公众无法理解的法律行话——legal jargon 为考研阅读常见搭配）
+> - The scientific paper was so full of jargon that even other scientists found it hard to understand. `[真题]`
+> - Lawyers often use legal jargon that is incomprehensible to the general public. `[真题]`
+> - Good writing should avoid unnecessary jargon and use plain language instead. `[真题]`
 
 
 ---

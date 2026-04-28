@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**善意，仁慈**==；②==**善良的行为**==；
+**n.** ①==**善意，仁慈**== `\treat sb with kindness` [通用] `\out of kindness` [通用]；②==**善良的行为**== `\an act of kindness` [通用]；
 
 > [!tip] 原型义
 > **原型义**：同类的天性（源自古英语 *gecynde* "天然的、本族的"，与 [[kin]] "家族"同源。kind 的"善良"义来自"对同族人的天然善意"）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I was never really happy there, although the people were kindness itself."（我在那里从未真正快乐过，尽管那里的人极其善良。——经典例句）
-> - "Even in jail, my fellow inmates treated me with kindness."（就算在监狱里，狱友们对我也很友善。——经典例句）
+> - "I was never really happy there, although the people were kindness itself." `[通用语料]`
+> - "Even in jail, my fellow inmates treated me with kindness." `[通用语料]`
+> - "But they were not necessarily treated with kindness or respect—force was often used to impose man's will." `[文学语料]`
+> - "He loves horses and animals, and insists that they be treated with kindness and gentleness." `[通用语料]`
 
 
 ---

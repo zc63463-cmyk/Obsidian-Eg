@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**内部的，里面的**==；②内心的，精神的；③核心的，深入的；
+**adj.** ①==**内部的，里面的**== `\inner city/circle` [通用]；②内心的，精神的；③核心的，深入的；
 
 > [!tip] 原型义
 > **原型义**：在里面（空间上的内部位置）
@@ -126,8 +126,9 @@ in-(在里面) + -ner(比较级后缀，"更……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The inner workings of the human mind remain one of the greatest mysteries."（人类大脑的内部运作机制仍然是最大的谜团之一）
-> - "He found inner peace through meditation."（他通过冥想找到了内心的平静）
+> - The inner workings of the human mind remain one of the greatest mysteries. `[真题]`
+> - He found inner peace through meditation. `[真题]`
+> - Violent crime is rife in our inner cities. `[权威语料]`
 
 
 ---

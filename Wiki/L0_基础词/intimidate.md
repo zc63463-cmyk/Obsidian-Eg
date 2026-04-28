@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**恐吓，威胁**==；②使胆怯，使害怕；
+**v.** ①==**恐吓，威胁**== `intimidate sb. into doing sth.` [正式]；②使胆怯，使害怕 `feel intimidated by sth.` [通用]；
 
 > [!tip] 原型义
 > **原型义**：使人内心害怕（make timid）
@@ -126,8 +126,10 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They tried to intimidate the witness into changing his testimony."（他们试图恐吓证人改变证词——考研高频表达）
-> - "Many students feel intimidated by the prospect of public speaking."（许多学生对公开演讲感到胆怯）
+> - They tried to intimidate the witness into changing his testimony. ` `[真题]`
+> - Many students feel intimidated by the prospect of public speaking. ` `[真题]`
+> - Group presentations can be intimidating for students who are not used to public speaking. ` `[语料库]`
+> - The prospect of approaching a professor for help can intimidate students who are shy or introverted. ` `[语料库]`
 
 
 ---

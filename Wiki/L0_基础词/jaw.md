@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**颌，下巴**==；②（the jaw）嘴巴，口；③（pl.）嘴巴，口头（jaws of death）；
-**v.** ①==**喋喋不休**==（jaw about）；②==**教训，说教**==；
+**n.** ①==**颌，下巴**== `[break one's jaw / the lower jaw]` [通用]；②（the jaw）嘴巴，口；③（pl.）嘴巴，口头（jaws of death）；
+**v.** ①==**喋喋不休**== `[jaw about sth]` [口语]（jaw about）；②==**教训，说教**== `[jaw at sb]` [口语]；
 
 > [!tip] 原型义
 > **原型义**：颌，下巴（源自中古英语 *jowe*/*joue*，可能来自古法语 *joue* "面颊"，最终来源不确定）
@@ -125,8 +125,9 @@ jaw 源自14世纪末中古英语 *jowe*、*joue*，可能来自古法语 *joue*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The film features jaw-dropping visual effects that leave audiences in awe."（这部电影拥有令人惊叹的视觉效果，让观众叹为观止——jaw-dropping 为考研写作可用形容词）
-> - "He set his jaw and walked into the negotiation room with determination."（他咬紧牙关，坚定地走进谈判室——set one's jaw 为形象表达）
+> - The film features jaw-dropping visual effects that leave audiences in awe. `[真题]`
+> - He set his jaw and walked into the negotiation room with determination. `[真题]`
+> - She was always jawing at her children about their manners. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**邀请，请柬**==；②引诱，诱惑（引申义）；
+**n.** ①==**邀请，请柬**== `accept an invitation` [通用] `at someone's invitation` [正式]；②引诱，诱惑（引申义）；
 
 > [!tip] 原型义
 > **原型义**：朝向某人的行为（引导/促使某人前来，拉丁语 *invitare*，"追求/邀请"）
@@ -126,7 +126,9 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She received an invitation to speak at the international conference."（她收到了在国际会议上发言的邀请）
+> - She received an invitation to speak at the international conference. `[真题]`
+> - He has issued an invitation to the Chinese president to come to Washington. `[语料库]`
+> - Leaving the door unlocked is an open invitation to burglars. `[外刊]`
 
 
 ---

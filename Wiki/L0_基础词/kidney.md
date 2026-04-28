@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**肾，肾脏**==；②（动物）腰子；
+**n.** ①==**肾，肾脏**== `\kidney failure/transplant` [医学]；②（动物）腰子；
 
 > [!tip] 原型义
 > **原型义**：肾脏（人体过滤血液的豆形器官）
@@ -121,8 +121,10 @@ kidney 源自古英语 *cwiðe*，与 kid（小山羊）形似但词源不同。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You can live with just part of a liver or a colon, or only one kidney or lung."（人在只有部分肝脏或结肠，或者只有一个肾或肺叶的情况下尚能存活——通用医学语料）
-> - "Several of the patients had received kidney transplant."（病人中有几位已接受了肾移植手术——通用医学语料）
+> - "You can live with just part of a liver or a colon, or only one kidney or lung." `[真题]`
+> - "Several of the patients had received kidney transplant." `[通用语料]`
+> - "More than a third of those waiting need a new kidney and have to be hooked up to a dialysis machine four times a week." `[新闻语料]`
+> - "She urgently needs a kidney transplant." `[柯林斯词典]`
 
 
 ---

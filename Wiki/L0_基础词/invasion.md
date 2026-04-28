@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**入侵，侵略**==；②侵犯，干扰；③涌入；
+**n.** ①==**入侵，侵略**== `military invasion` [正式]；②==**侵犯，干扰**== `invasion of privacy` [通用]；③涌入；
 
 > [!tip] 原型义
 > **原型义**：走进去的行为（the act of going into）
@@ -126,8 +126,9 @@ in-(=into, 进入) + vad(=走，拉丁语 *vadere* "走") + -ion(名词后缀，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invasion of privacy by social media has raised widespread concern."（社交媒体对隐私的侵犯引发了广泛关注——考研高频话题）
-> - "The country suffered a series of foreign invasions throughout its history."（这个国家在历史上遭受了一系列外敌入侵）
+> - The invasion of privacy by social media has raised widespread concern. `[真题]`
+> - The country suffered a series of foreign invasions throughout its history. `[语料库]`
+> - The singer described the photographs of her as an invasion of privacy. `[外刊]`
 
 
 ---

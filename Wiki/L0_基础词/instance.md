@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**例子，实例**==；②==**情况，场合**==；③请求，建议（法律）；
+**n.** ①==**例子，实例**== `for instance` [通用]；②==**情况，场合**== `in this instance` [正式]；③请求，建议（法律）；
 **v.** ①==**举例说明**==（instance 作动词极少见）；
 
 > [!tip] 原型义
@@ -126,8 +126,10 @@ in-(在……上/靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -anc
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are many instances of government officials abusing their power."（有许多政府官员滥用职权的实例）
-> - "In the first instance, we need to identify the root cause of the problem."（首先，我们需要找出问题的根本原因）
+> - Murder, petty theft and tax evasion, for instance, all have different motives and consequences. `[真题]`
+> - They have decided not to oppose the decision in this instance. `[真题]`
+> - Burials, for instance, are underneath platforms, within the limits of the dwellings. `[语料库]`
+> - Scholars have found, for instance, surprising links between Taylor and a number of literary figures. `[语料库]`
 
 
 ---

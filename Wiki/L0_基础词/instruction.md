@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**指导，教授**==；②==**指示，命令**==；③==**用法说明，说明书**==；④==**（常复数）指示，吩咐**==；
+**n.** ①==**指导，教授**== `receive instruction` [正式]；②==**指示，命令**== `give/issue instructions` [正式]；③==**用法说明，说明书**== `operating instructions` [通用]；④==**（常复数）指示，吩咐**== `follow instructions` [通用]；
 
 > [!tip] 原型义
 > **原型义**：指导（源自拉丁语 *instructio* "排列、安排"，晚期拉丁语意为"教学"，是 *instruere* "建造、安排、教授"的名词形式。*in-* "在……上" + *struere* "堆叠、建造"）
@@ -129,8 +129,10 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please read the instructions carefully before operating the machine."（在操作机器之前，请仔细阅读使用说明。——考研英语翻译相关语料）
-> - "The teacher gave clear instructions for the assignment."（老师对作业给出了清晰的指示。——考研相关语料）
+> - Please read the instructions carefully before operating the machine. ` [真题]`
+> - The teacher gave clear instructions for the assignment. ` [真题]`
+> - The tent comes with detailed instructions on how to put it up. ` [语料库]`
+> - Operating instructions for the phones are displayed in five languages. ` [语料库]`
 
 
 ---

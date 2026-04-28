@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**内部，里面**==（某物的内侧或内部）；②（道路的）内侧；
-**adj.** ①==**内部的，里面的**==；
-**adv.** ①==**在里面，向室内**==；
-**prep.** ①==**在...里面**==（在...的内部）；②（时间）在...之内；
+**n.** ①==**内部，里面**== `the inside of sth` [通用]（某物的内侧或内部）；②（道路的）内侧；
+**adj.** ①==**内部的，里面的**== `inside information` [正式]；
+**adv.** ①==**在里面，向室内**== `go inside` [通用]；
+**prep.** ①==**在...里面**== `inside the room/box` [通用]（在...的内部）；②（时间）在...之内；
 
 > [!tip] 原型义
 > **原型义**：在内部（在某物的里面）
@@ -136,8 +136,10 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The whistleblower revealed that the company had been dumping toxic waste inside the protected nature reserve for over a decade."（举报人揭露该公司十多年来一直在受保护的自然保护区内倾倒有毒废物——考研阅读环保话题相关表达）
-> - "Investigators discovered that the fraud was an inside job, orchestrated by senior executives who had access to the company's confidential financial records."（调查人员发现这起欺诈案是内鬼作案，由能够接触公司机密财务记录的高级管理人员策划——考研翻译法律话题相关表达）
+> - She made a film about what life was like inside the refugee camp. `[真题]`
+> - The job is unlikely to be finished inside a year. `[真题]`
+> - I needed someone with inside knowledge to back up my story. `[真题]`
+> - When we got to the window, we saw that there were already people inside. `[语料库]`
 
 
 ---

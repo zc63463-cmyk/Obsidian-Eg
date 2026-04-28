@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**亲密的，密切的**==；②私人的，个人的；③精通的，详尽的；
-**v.** /ɪnˈtɪmeɪt/ ①暗示，提示；②宣布，通知；
+**adj.** ①==**亲密的，密切的**== `intimate friend/relationship` [通用]；②私人的，个人的 `intimate details` [正式]；③精通的，详尽的 `intimate knowledge of sth.` [书面]；
+**v.** /ɪnˈtɪmeɪt/ ①暗示，提示 `intimate that...` [正式]；②宣布，通知；
 
 > [!tip] 原型义
 > **原型义**：最内部的（inmost, inward）
@@ -127,8 +127,10 @@ in-(=intim-, 在内部，拉丁语 *intimus* "最内部的") + -ate(形容词/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He intimated that he would resign soon."（他暗示即将辞职——考研阅读常见句型）
-> - "They have an intimate knowledge of the local culture."（他们对当地文化了如指掌）
+> - He intimated that he would resign soon. ` `[真题]`
+> - They have an intimate knowledge of the local culture. ` `[真题]`
+> - Speaking in silence is the most intimate communication two beings can achieve. ` `[语料库]`
+> - I discussed with my intimate friends whether I would immediately have a baby. ` `[语料库]`
 
 
 ---

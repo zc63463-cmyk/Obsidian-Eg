@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**内陆的，内地的**==（远离海岸的）；②国内的
-**adv.** ①==**在内地，向内陆**==（向内陆方向移动）
+**adj.** ①==**内陆的，内地的**== `\inland cities/waterways` [通用]；②国内的
+**adv.** ①==**在内地，向内陆**== `\go/move inland` [通用]
 **n.** ①==**内陆，内地**==
 
 > [!tip] 原型义
@@ -129,8 +129,9 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Sea winds that blow inland from the west are warmed by a current of warm water that flows through the Pacific Ocean."（从西边吹向内陆的海风被流经太平洋的暖流所温暖——考研英语阅读，地理气候话题）
-> - "The government has invested heavily in developing inland transport infrastructure to connect remote areas with major cities."（政府大力投资发展内陆交通基础设施，以将偏远地区与主要城市连接起来——考研英语阅读，基础设施话题）
+> - Sea winds that blow inland from the west are warmed by a current of warm water that flows through the Pacific Ocean. `[真题]`
+> - The government has invested heavily in developing inland transport infrastructure to connect remote areas with major cities. `[真题]`
+> - Smaller ice shelves lose the ability to block inland glaciers from reaching the sea. `[权威语料]`
 
 
 ---

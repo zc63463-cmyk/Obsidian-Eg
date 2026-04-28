@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**洞察力，洞察**==（透过表面看到事物本质的能力）；②==**深刻见解**==（对某事的深入理解）；③（心理学）顿悟；
+**n.** ①==**洞察力，洞察**== `gain an insight into` [学术]（透过表面看到事物本质的能力）；②==**深刻见解**== `provide valuable insights into` [学术]（对某事的深入理解）；③（心理学）顿悟；
 
 > [!tip] 原型义
 > **原型义**：看到内部的能力（透过表面看到事物本质的能力）
@@ -126,8 +126,9 @@ insight 是一个复合词，由 **in-**（进入、在...之中）+ **sight**�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The anthropologist's years of living among the indigenous tribe provided her with invaluable insights into their complex social structure and cultural traditions."（这位人类学家在土著部落中生活多年，为她提供了关于他们复杂的社会结构和文化传统的宝贵见解——考研阅读人类学话题相关表达）
-> - "The study offers new insights into the mechanisms by which climate change affects biodiversity in tropical ecosystems."（这项研究提供了关于气候变化影响热带生态系统生物多样性机制的新见解——考研翻译科学话题相关表达）
+> - The results provide interesting insights into the responses of the students to the experiment itself. `[真题]`
+> - One way to gain insight into these issues is to view them through the work of some of the main protagonists. `[真题]`
+> - Our findings offer insights into whether and how the major structural changes during recent decades have affected older adults. `[语料库]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**检查，视察**==（仔细查看以发现问题或确认状况）；②==**检阅**==（正式视察）；
+**v.** ①==**检查，视察**== `inspect the equipment/building` [正式]（仔细查看以发现问题或确认状况）；②==**检阅**== `inspect the troops` [正式]（正式视察）；
 
 > [!tip] 原型义
 > **原型义**：看进去检查（仔细查看事物的内部）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Government inspectors were dispatched to inspect the nuclear power plant after reports of safety violations raised concerns among local residents."（在有关安全违规的报告引起当地居民担忧后，政府检查员被派去检查这座核电站——考研阅读社会话题相关表达）
-> - "Before purchasing the property, the buyer hired a professional to inspect the house for structural damage and potential safety hazards."（在购买房产之前，买方聘请了一位专业人员检查房屋的结构损坏和潜在的安全隐患——考研翻译生活话题相关表达）
+> - After the crash both drivers got out and inspected their cars for damage. `[真题]`
+> - The engines are all inspected before they leave the factory. `[真题]`
+> - She had the car inspected by a mechanic before she bought it. `[语料库]`
+> - After the storm, we went outside to inspect the damage. `[语料库]`
 
 
 ---

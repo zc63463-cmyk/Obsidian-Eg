@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**立即的，立刻的**==；②==**（食品）速食的，速溶的**==；③紧急的，迫切的；
-**n.** ①==**瞬间，刹那**==；②某一时刻；
+**adj.** ①==**立即的，立刻的**== `instant success/access` [通用]；②==**（食品）速食的，速溶的**== `instant coffee/noodles` [通用]；③==**紧急的，迫切的**== `in instant need of` [正式]；
+**n.** ①==**瞬间，刹那**== `in an instant` [通用]；②某一时刻；
 
 > [!tip] 原型义
 > **原型义**：站在面前的时刻（紧迫地逼近眼前的瞬间）
@@ -130,8 +130,10 @@ in-(靠近/在……上) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet provides instant access to vast amounts of information."（互联网提供了对海量信息的即时访问）
-> - "The decision was made in an instant, without any hesitation."（这个决定是在一瞬间做出的，没有任何犹豫）
+> - The internet provides instant access to vast amounts of information. ` [真题]`
+> - She took an instant dislike to me the first time we met. ` [真题]`
+> - The programme brought an instant response from viewers across the country. ` [语料库]`
+> - There is no instant solution to the problem of rising crime rates. ` [语料库]`
 
 
 ---

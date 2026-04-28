@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使隔离，使孤立**==；②==**分离，提取**==（科学用语）；
+**v.** ①==**使隔离，使孤立**== `isolate sb./sth. from` [中性]；②==**分离，提取**== `isolate a virus/cause` [专业]；
 
 > [!tip] 原型义
 > **原型义**：使变成孤岛（将某人/某物从群体中分离出来，源自拉丁语 *insulatus* "使成岛"）
@@ -129,8 +129,9 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Patients with infectious diseases should be isolated from the general population."（传染病患者应与普通人群隔离——考研高频表达）
-> - "No single factor can be studied in isolation; all variables are interconnected."（没有任何单一因素可以孤立地研究；所有变量都是相互关联的——考研阅读高频表达）
+> - Patients with infectious diseases should be isolated from the general population. `[真题]`
+> - No single factor can be studied in isolation; all variables are interconnected. `[真题]`
+> - They tried to isolate the cause of the problem through careful analysis. `[真题]`
 
 
 ---

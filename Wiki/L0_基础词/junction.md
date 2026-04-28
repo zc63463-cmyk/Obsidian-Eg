@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**交叉点，汇合处**==；②==**连接处，接头**==；③==**枢纽站**==；
+**n.** ①==**交叉点，汇合处**== `\the junction of` [通用]；②==**连接处，接头**== `\a junction box` [技术]；③==**枢纽站**== `\a railway/bus junction` [交通]；
 
 > [!tip] 原型义
 > **原型义**：交叉点（道路或线路的汇合处——两条或多条路连接的地方）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He knew how the traffic congested at the junction of Seventh Avenue and Forty-second Street."（他知道在第7街和第42街交叉处交通是多么拥挤——欧路词典例句）
-> - "This junction is a well-known accident black spot."（这个交叉路口是有名的事故多发之地——欧路词典例句）
+> - "He knew how the traffic congested at the junction of Seventh Avenue and Forty-second Street." `[真题]`
+> - "This junction is a well-known accident black spot." `[词典例句]`
+> - "They followed the river to its junction with the Ohio River." `[剑桥词典]`
+> - "Come off the motorway at junction 6." `[牛津词典]`
 
 
 ---

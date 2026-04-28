@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**坚持，坚决要求**==（强烈要求某事发生或被做）；②==**坚称，固执己见**==（坚定地声称某事是真的）；
+**v.** ①==**坚持，坚决要求**== `insist on doing sth` [通用]（强烈要求某事发生或被做）；②==**坚称，固执己见**== `insist that...` [通用]（坚定地声称某事是真的）；
 
 > [!tip] 原型义
 > **原型义**：站在里面不走（站在某个立场上不动摇）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Environmentalists insist that the government take immediate action to reduce carbon emissions before the damage to the ecosystem becomes irreversible."（环保主义者坚决要求政府立即采取行动减少碳排放，以免对生态系统造成不可逆转的损害——考研阅读环保话题相关表达）
-> - "Despite overwhelming evidence to the contrary, the defendant insisted on his innocence throughout the entire trial."（尽管有大量相反的证据，被告在整个审判过程中坚称自己无罪——考研翻译法律话题相关表达）
+> - She insisted on seeing her lawyer. `[真题]`
+> - Jacksonians insisted that, like the common schools and the press, political parties were critical agencies of political learning. `[真题]`
+> - The government has always insisted that this was not the case. `[真题]`
+> - Despite their waning interest in genuine political reform, donors have continued to insist on nominally democratic systems. `[语料库]`
 
 
 ---
