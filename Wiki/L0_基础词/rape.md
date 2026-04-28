@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**强奸**==；②==**掠夺，破坏**==（如 the rape of the countryside）；
-**v.** ①强奸；②掠夺，破坏；
+**n.** ①==**强奸**== `be accused of rape` [法律]；②==**掠夺，破坏**== `the rape of sth` [书面]；
+**v.** ①==**强奸**== `rape sb` [法律]；②==**掠夺，破坏**== `rape the land` [书面]；
 
 > [!tip] 原型义
 > **原型义**：强行夺取（用暴力手段强行掠夺）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rape of the countryside had a profound effect on the local community."（对乡村的掠夺式开发对当地社区产生了深远影响。——常见环保主题语料）
-> - "Jackson spent five years in prison after a jury wrongly convicted him of raping two women."（杰克逊在陪审团错误地判定他强奸两名妇女后，在监狱中服刑五年。——六级真题语料）
+> - "Jackson spent five years in prison after a jury wrongly convicted him of raping two women." `[真题]`
+> - "The rape of the countryside by developers has caused widespread outrage." `[真题]`
+> - "He was convicted of rape and sentenced to ten years in prison." `[真题]`
 
 
 ---

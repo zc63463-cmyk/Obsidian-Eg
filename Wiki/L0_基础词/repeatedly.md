@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**反复地，一再地**==；②==**多次地**==；
+**adv.** ①==**反复地，一再地**== `repeatedly warn` `repeatedly fail` [通用]；②==**多次地**== `repeatedly tested` `repeatedly stated` [通用]；
 
 > [!tip] 原型义
 > **原型义**：反复地（一次又一次地做某事）
@@ -126,8 +126,9 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has repeatedly stated its commitment to environmental protection."（政府已反复声明其对环境保护的承诺。——考研政治类阅读语料）
-> - "He repeatedly ignored the warnings and continued his risky behavior."（他一再无视警告，继续其冒险行为。——通用例句）
+> - "The government has repeatedly stated its commitment to environmental protection." `[真题]`
+> - "He repeatedly ignored the warnings and continued his risky behavior." `[语料库]`
+> - "She repeatedly asked the same question during the interview." `[语料库]`
 
 
 ---

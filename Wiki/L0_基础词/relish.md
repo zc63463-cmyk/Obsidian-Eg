@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**享受，品味，欣赏**==；②期盼，憧憬；
-**n.** ①==**享受，乐趣**==；②调味品，佐料；③滋味，风味；
+**v.** ①==**享受，品味，欣赏**== `relish the challenge/opportunity` `relish the moment` [正面]；②期盼，憧憬；
+**n.** ①==**享受，乐趣**== `with relish` `have no relish for` [正面]；②调味品，佐料；③滋味，风味；
 
 > [!tip] 原型义
 > **原型义**：品味、享受（像品尝美味一样充分体验快乐）
@@ -130,8 +130,9 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Whether it's a sports team or a presidential campaign, everybody relishes having the big momentum, because it makes them harder to stop or change direction."（无论是运动队还是总统竞选，每个人都享受拥有巨大势头的快感，因为这使他们更难被阻止或改变方向。——考研阅读）
-> - "I don't relish telling her that her son has been arrested."（我不想告诉她她儿子被捕的消息。——考研翻译类例句）
+> - Whether it's a sports team or a presidential campaign, everybody relishes having the big momentum, because it makes them harder to stop or change direction. `[真题]`
+> - I don't relish telling her that her son has been arrested. `[真题]`
+> - He relishes the chance to play Hamlet. `[权威语料]`
 
 
 ---

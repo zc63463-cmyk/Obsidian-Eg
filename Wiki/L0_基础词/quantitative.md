@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**定量的，量化的**==；②==**数量的**==
+**adj.** ①==**定量的，量化的**== `quantitative N`；②==**数量的**== `quantitative N`
 
 > [!tip] 原型义
 > **原型义**：多少的（与数量相关的）
@@ -125,8 +125,9 @@ quant（多少，拉丁语 *quantus*）+ -itative（形容词后缀，表示"与
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Making quantitative distinctions is not an inborn skill."（区分数量并不是一项天生的技能。——考研英语完形填空高频表达）
-> - "The study combines quantitative variables and qualitative variables to provide a comprehensive analysis."（该研究结合了定量变量和定性变量以提供全面分析。——考研英语一2016阅读）
+> - The study combines quantitative and qualitative methods to provide a comprehensive analysis. ` `[COCA-ACAD]` `
+> - A quantitative analysis of the data showed no significant difference between the two groups. ` `[COCA-ACAD]` `
+> - Much quantitative research is descriptive and seeks empirical generalisation. ` `[COCA-ACAD]` `
 
 
 ---

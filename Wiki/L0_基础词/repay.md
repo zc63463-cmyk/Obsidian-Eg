@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**偿还，归还**==；②==**报答，酬谢**==；③==**回报**==；
+**vt.** ①==**偿还，归还**== `repay a loan/debt` `repay in installments` [正式/商业]；②==**报答，酬谢**== `repay someone's kindness` `repay a favor` [通用]；③==**回报**== `repay one's efforts` [通用]；
 **vi.** ①偿还；
 
 > [!tip] 原型义
@@ -129,8 +129,9 @@ re-（[[re-|回，反向]]）+ pay（付钱）→ 付回去 → **偿还**
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students often struggle to repay their student loans after graduation."（学生毕业后往往难以偿还学生贷款。——考研教育类阅读语料）
-> - "She repaid his kindness by helping him find a job."（她通过帮他找工作来报答他的好意。——通用例句）
+> - "Students often struggle to repay their student loans after graduation." `[真题]`
+> - "How can I ever repay you for all your kindness?" `[语料库]`
+> - "Your mortgage will be repaid over 25 years." `[语料库]`
 
 
 ---

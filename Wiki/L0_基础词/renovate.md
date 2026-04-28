@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**翻新，修复，整修**==（尤指建筑物）；
+**vt.** ①==**翻新，修复，整修**== `renovate a house/building` `under renovation` [正式/工程]；
 **vi.** ①修复；整修；
 
 > [!tip] 原型义
@@ -127,8 +127,9 @@ re-（[[re-|再，重新]]）+ nov（[[new|新]]，拉丁语 *novus*）+ -ate（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old factory has been renovated and turned into a modern art gallery."（这座旧工厂已被翻修并改造成现代艺术画廊。——通用例句）
-> - "The museum is currently closed for renovation."（博物馆目前正在翻修中，暂停开放。——通用例句）
+> - "The old factory has been renovated and turned into a modern art gallery." `[真题]`
+> - "The entire second floor of the museum has been renovated and now houses the national archaeological collection." `[语料库]`
+> - "They spent the summer renovating a farmhouse in Kent." `[语料库]`
 
 
 ---

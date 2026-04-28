@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**登记，注册**==；②记录，显示；③（表情等）流露，显露；④意识到，注意到；
-**n.** ①==**登记簿，注册表**==；②登记，注册；
+**v.** ①==**登记，注册**== `register for sth.` [通用]；`register to vote` [通用]；②记录，显示；③（表情等）流露，显露；④意识到，注意到；
+**n.** ①==**登记簿，注册表**== `hotel/voter register` [正式]；`cash register` [通用]；②登记，注册；
 
 > [!tip] 原型义
 > **原型义**：带回来记录（re-再 + gest-带 + -er工具→把信息带回来记录）
@@ -141,8 +141,10 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit."（只有当失业者带着简历来到就业中心，注册在线求职，并开始找工作时，他们才有资格领取救济金——2014年考研英语阅读Text 1）
-> - "The phrase 'to sign on' most probably means to register for an allowance from the government."（"to sign on"这个词组最可能指登记领取政府补贴——2014年考研英语阅读）
+> - Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit. `[真题]`
+> - The phrase 'to sign on' most probably means to register for an allowance from the government. `[真题]`
+> - Within two weeks of arrival all foreigners had to register with the local police. `[权威词典]`
+> - Students have to register for the new course by the end of April. `[权威词典]`
 
 
 ---

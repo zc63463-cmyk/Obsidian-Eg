@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**加强，增强**==；②==**加固**==；③增援；
+**v.** ①==**加强，增强**== `reinforce the argument/belief/idea` `reinforce stereotypes` [中性]；②==**加固**== `reinforce the wall/roof/bridge` [中性]；③增援；
 
 > [!tip] 原型义
 > **原型义**：再次注入力量（re-再 + in进入 + force力量→再次加入力量）
@@ -134,8 +134,9 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government."（但是，这项裁决强化了公民及其选出的代表（而不是法院）平等地接触政府的必要性——2017年考研英语阅读）
-> - "Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them — especially for young people."（事实上，这段经济疲软时期可能会强化阶级分化，并减少跨越阶级的机会——尤其是对年轻人而言——2012年考研英语二阅读Text 4）
+> - But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government. `[真题]`
+> - Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them — especially for young people. `[真题]`
+> - The bad weather forecast only reinforces our decision to leave early tomorrow. `[权威语料]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**队列，排队**==；②（计算机）队列
-**v.** ①==**排队，列队等待**==；②（计算机）排队等候
+**n.** ①==**队列，排队**== `\`stand in a queue\` \`a long queue\`` [通用/英式]；②（计算机）队列 `\`print queue\` \`message queue\`` [技术]
+**v.** ①==**排队，列队等待**== `\`queue up\` \`queue for sth.\`` [通用/英式]；②（计算机）排队等候 `[技术]`
 
 > [!tip] 原型义
 > **原型义**：排队（按顺序排列等待的人群或数据）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The father's voice quivered as he remembered his son."（父亲回忆起儿子时，声音颤抖了。——Huffington Post）
-> - "Her voice, which had been previously smooth and clear, now quivered and quaked with every sentence."（她原本平滑清晰的声音，现在每说一句话都在颤抖和摇晃。——CNN）
+> - We had to queue for quite a while. `[Collins语料库]`
+> - A line of women were queueing for bread. `[Collins语料库]`
+> - There was a long queue to get into the cinema. `[Collins语料库]`
+> - Three jobs remain in the printer queue. `[Collins语料库]`
 
 
 ---

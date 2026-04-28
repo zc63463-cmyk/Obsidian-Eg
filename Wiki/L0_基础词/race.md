@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**赛跑，竞赛**==；②==**种族，人种**==；③==**急流，竞争**==；④属，种
-**v.** ①==**快速奔跑，疾走**==；②==**参赛，竞速**==；③（使）快速运转
+**n.** ①==**赛跑，竞赛**== `win/lose a race` [通用]；②==**种族，人种**== `the human race` [通用]；③==**急流，竞争**== `arms race` [正式]；④属，种
+**v.** ①==**快速奔跑，疾走**== `race against time` [通用]；②==**参赛，竞速**== `race in a competition` [通用]；③（使）快速运转
 
 > [!tip] 原型义
 > **原型义**：快速奔跑（竞速）
@@ -134,8 +134,9 @@ race 源自古诺斯语 *ras*（奔跑、冲刺），与古英语 *raersan*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Parkrun is not a race but a time trial: your only competitor is the clock."（Parkrun不是赛跑，而是计时赛：你唯一的竞争对手是时钟。——2017年考研英语二Text 1）
-> - "The space race between the United States and the Soviet Union captured the world's imagination."（美苏之间的太空竞赛激发了全世界的想象力。——考研英语阅读常见话题）
+> - Parkrun is not a race but a time trial: your only competitor is the clock. `[真题]`
+> - The space race between the United States and the Soviet Union captured the world's imagination. `[真题]`
+> - He won the race easily, finishing ahead of all other competitors. `[真题]`
 
 
 ---

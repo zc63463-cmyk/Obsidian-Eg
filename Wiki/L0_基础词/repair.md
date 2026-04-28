@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**修理，修补**==；②==**弥补，补救**==；
-**n.** ①==**修理，修补**==；②修理工作；
+**vt.** ①==**修理，修补**== `repair a car/road` `under repair` [通用]；②==**弥补，补救**== `repair the damage` `repair a relationship` [正式]；
+**n.** ①==**修理，修补**== `beyond repair` `do repairs` [通用]；②修理工作；
 **vi.** ①去某处（常与 to 连用）；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ re-（[[re-|再，重新]]）+ par（[[par|准备]]，拉丁语 *parare*）→ �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The road is under repair, so we have to take a detour."（这条路正在维修中，我们不得不绕行。——通用例句）
-> - "It will take a long time to repair the damage caused by the financial crisis."（修复金融危机造成的损害将需要很长时间。——考研经济类阅读语料）
+> - "The road is under repair, so we have to take a detour." `[真题]`
+> - "It will take a long time to repair the damage caused by the financial crisis." `[真题]`
+> - "The car was damaged to such an extent that it couldn't be repaired." `[语料库]`
 
 
 ---

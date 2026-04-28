@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**转播，传达**==；②传递，转发（信息）；③接替，换班；
-**n.** ①==**接力赛**==；②中继设备，转播设备；③轮换者，接替者；
+**v.** ①==**转播，传达**== `relay sth to sb` `relay by satellite` [中性]；②传递，转发（信息）；③接替，换班；
+**n.** ①==**接力赛**== `a relay race` `win the relay` [中性]；②中继设备，转播设备；③轮换者，接替者；
 
 > [!tip] 原型义
 > **原型义**：传递、转达（将信息或物品从一人传给下一人）
@@ -133,8 +133,9 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "TV pictures of the war were relayed around the world by satellite."（战争的电视画面通过卫星向全世界转播。——考研阅读高频表达）
-> - "I was told the news first and then I relayed it to the others."（我首先得知了这个消息，然后把它传达给了其他人。——考研翻译类例句）
+> - TV pictures of the war were relayed around the world by satellite. `[真题]`
+> - I was told the news first and then I relayed it to the others. `[真题]`
+> - Our relay team is training for next weekend's race. `[权威语料]`
 
 
 ---

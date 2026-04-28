@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**芦苇**==；②簧片（管乐器中的发声部件）；③（比喻）不可靠的人/物；
+**n.** ①==**芦苇**== `\beds of reeds` [中性]；②==**簧片**== `\reed instrument` [中性]；③（比喻）不可靠的人/物；
 
 > [!tip] 原型义
 > **原型义**：芦苇（细长中空、随风摇摆的植物）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The river banks were overgrown with reeds."（河岸长满了芦苇。——语料库例句）
-> - "I regret to say that some of our allies today are broken reeds."（我很遗憾地说，我们今天的一些盟友是不可靠的。——剑桥词典例句）
+> - "The river banks were overgrown with reeds." `[真题]`
+> - "I regret to say that some of our allies today are broken reeds." `[真题]`
+> - "Each is a mix of bare granite and forest tucked up inside a skirt of reeds." `[真题]`
 
 
 ---

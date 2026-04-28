@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**四分之一**==；②==**季度（一年的四分之一）**==；③==**一刻钟（一小时的四分之一）**==；④地区，街区；
+**n.** ①==**四分之一**== `\`a quarter of\` \`three quarters of\`` [通用]；②==**季度（一年的四分之一）**== `\`the first/second/third/fourth quarter\` \`quarterly report\`` [商务/通用]；③==**一刻钟（一小时的四分之一）**== `\`a quarter past/to\` \`a quarter of an hour\`` [通用]；④地区，街区 `\`the residential quarter\`` [正式]；
 **a.** ①四分之一的；
 
 > [!tip] 原型义
@@ -134,9 +134,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A quarter of America's public-sector workers have a university degree."（美国四分之一的公共部门工人拥有大学学位。——2012年英语一Text 4）
-> - "A quarter of this year's American grain harvest will be used to produce bio-fuel for cars."（今年美国粮食收成的四分之一将用于生产汽车生物燃料。——考研真题）
-> - "In the third quarter, CEO turnover was down 23%."（第三季度，CEO更替率下降了23%。——考研阅读语料）
+> - A quarter of America's public-sector workers have a university degree. `[2012考研英语一Text 4]`
+> - A quarter of this year's American grain harvest will be used to produce bio-fuel for cars. `[考研真题]`
+> - In the third quarter, CEO turnover was down 23%. `[考研阅读语料]`
+> - Under a quarter of people questioned said that they were happily married. `[Cambridge语料库]`
+> - Prices have fallen by a quarter since January. `[Collins语料库]`
 
 
 ---

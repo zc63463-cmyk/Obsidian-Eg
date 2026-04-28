@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**排练，排演**==；②==**详述，复述**==；③练习，预演（想法/事件）；
+**v.** ①==**排练，排演**== `rehearse a play/speech` [正式]；`rehearse for a concert` [正式]；②==**详述，复述**== `rehearse the arguments/facts` [正式]；`rehearse one's complaint` [正式]；③练习，预演（想法/事件）；
 
 > [!tip] 原型义
 > **原型义**：再说一遍（re-再 + hear听→反复说/听→排练）
@@ -131,8 +131,10 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst."（面对新情况时，有些人倾向于花太多时间预想最坏的结果来反复预演自己的失败——考研英语阅读）
-> - "We were given only two weeks to rehearse."（只给了我们两个星期排练——考研英语写作高频表达）
+> - When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst. `[真题]`
+> - We were given only two weeks to rehearse. `[真题]`
+> - The orchestra is rehearsing a piece by Schumann. `[权威词典]`
+> - The actors gathered to rehearse their lines before the play's opening night. `[权威词典]`
 
 
 ---

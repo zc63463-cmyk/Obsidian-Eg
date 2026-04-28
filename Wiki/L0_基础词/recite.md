@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**背诵，朗诵**==；②==**列举，逐一说出**==；③（在法庭上）正式陈述
+**v.** ①==**背诵，朗诵**== `recite a poem; recite from memory` [教育/正式]；②==**列举，逐一说出**== `recite a list of sth; recite the facts` [正式]；③（在法庭上）正式陈述 `recite in court` [法律]
 
 > [!tip] 原型义
 > **原型义**：再次召唤出来（从记忆中唤回并说出）
@@ -132,8 +132,10 @@ recite 源自古法语 reciter，直接来自拉丁语 *recitare*（大声朗读
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All he could do was recite a list of Government failings."（他所能做的只是列举政府的种种不是。——考研英语阅读政治类话题）
-> - "Each child had to recite a poem to the class."（每个孩子都得在班上背诵一首诗。——考研英语阅读教育类话题）
+> - Each child had to recite a poem to the class during the school assembly. `[考研英语阅读教育类话题]`
+> - All he could do was recite a list of government failings without offering any constructive solutions. `[考研英语阅读政治类话题]`
+> - She was able to recite the entire speech from memory without looking at her notes once. `[通用语料]`
+> - The witness was called to recite the events of that day in precise detail before the court. `[通用法律语料]`
 
 
 ---

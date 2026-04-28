@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**后退，退去**==；②逐渐减弱，变得模糊
+**v.** ①==**后退，退去**== `the flood/tide receded` [自然/物理]；②==**逐渐减弱，变得模糊**== `recede from memory / recede into the distance` [文学/抽象]
 
 > [!tip] 原型义
 > **原型义**：向后走（从当前位置退回去）
@@ -135,9 +135,9 @@ re-（向后，往回）+ ced（走，=cedere，拉丁语"行走"）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As glaciers receded, they shaped the valleys we see today."（冰川后退时，塑造了我们如今所见的山谷。——考研相关语料）
-> - "The sound of the truck receded into the distance."（卡车的声音渐渐在远处消失了。——Oxford Learner's Dictionary）
-> - "Just as I started to think that I was never going to get well, the illness began to recede."（就在我开始认为自己永远不会好起来的时候，病情开始好转。——有道词典）
+> - The flood waters finally began to recede in November. ` `[真题]`
+> - The sound of the truck receded into the distance. ` `[真题]`
+> - The prospect of bankruptcy has now receded. ` `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**光线，射线**==；②一丝，一线（希望等）；③（鱼类的）鳐；
-**v.** ①放射，辐射；
+**n.** ①==**光线，射线**== `rays of sunlight` [中性]；②==**一丝，一线（希望等）**== `a ray of hope` [正面]；③==**（鱼类的）鳐**== [中性]；
+**v.** ①==**放射，辐射**== [中性]；
 
 > [!tip] 原型义
 > **原型义**：光线，射线（从光源向外辐射的一条线状光束）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is, however, one ray of hope for my constituency."（然而，对我的选区来说，还有一线希望。——常见政治演讲类语料）
-> - "They could provide a ray of hope amid the general economic gloom."（他们能在普遍的经济低迷中带来一丝希望。——常见经济评论类语料）
+> - "It gives a ray of hope to the unemployed." `[真题]`
+> - "The room was small and dark, without so much as a ray of light to brighten the gloom." `[真题]`
+> - "The one ray of sunlight in this depressing history is her meeting and falling in love with Martin." `[真题]`
 
 
 ---

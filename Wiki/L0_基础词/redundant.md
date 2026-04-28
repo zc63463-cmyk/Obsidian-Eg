@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**多余的，冗余的**==；②（因人员过剩）被解雇的；③（词语等）累赘的，重复的；
+**adj.** ①==**多余的，冗余的**== `\redundant information/tests` [贬义]；②==**（因人员过剩）被解雇的**== `\be made redundant` [英式]；③（词语等）累赘的，重复的；
 
 > [!tip] 原型义
 > **原型义**：溢出的（像水溢出杯子一样，超出了需要的量）
@@ -131,8 +131,9 @@ redund-(=overflow，溢出，拉丁语 *redundare*) + -ant(形容词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In time it should help restrain costs by eliminating redundant tests, preventing drug interactions, and helping doctors find the best treatments."（随着时间的推移，它应该有助于通过消除多余的检查、防止药物相互作用以及帮助医生找到最佳治疗方案来控制成本。——考研真题阅读）
-> - "Enrollees would have to pay more money for many services out of their own pockets, and that would encourage them to think twice about whether an expensive or redundant test was worth it."（参保人将不得不自掏腰包为许多服务支付更多费用，这将促使他们三思而后行，考虑一项昂贵或多余的检查是否值得。——考研真题阅读）
+> - "In time it should help restrain costs by eliminating redundant tests, preventing drug interactions, and helping doctors find the best treatments." `[真题]`
+> - "My husband was made redundant last year." `[真题]`
+> - "There's a lot of redundant information that you could cut out here." `[真题]`
 
 
 ---

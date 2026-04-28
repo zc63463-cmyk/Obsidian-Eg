@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小测验**==；②知识问答；③（口语）智力测验
-**v.** ①==**测验**==；②盘问，查问
+**n.** ①==**小测验**== `\`a pop quiz\` \`a history quiz\`` [教育/通用]；②知识问答 `\`a pub quiz\` \`a trivia quiz\`` [通用]；③（口语）智力测验 `\`quiz show\`` [通用]
+**v.** ①==**测验**== `\`quiz sb. on sth.\`` [教育]；②盘问，查问 `\`quiz sb. about sth.\`` [正式]
 
 > [!tip] 原型义
 > **原型义**：小测验（简短的测试或知识问答）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When the teacher announced a surprise test, I began to quiver in my boots."（当老师宣布突击测验时，我吓得双腿发抖。——Crestolympiads）
-> - "She quivered with excitement when she saw her birthday gifts."（当她看到生日礼物时，激动得浑身颤抖。——Crestolympiads）
+> - When quizzed on it, these individuals often report that they felt no sense of moving their arm voluntarily. `[Cambridge语料库]`
+> - The teacher ran a mock quiz complete with cash prizes for his pupils. `[Cambridge语料库]`
+> - There are quizzes held in some schools, and the children who take part in them go home and try out the questions on their parents. `[Hansard/Cambridge语料库]`
+> - She quizzed him on vocabulary words before the exam. `[Collins语料库]`
 
 
 ---

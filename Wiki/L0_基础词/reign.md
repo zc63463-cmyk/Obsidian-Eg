@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**统治，在位**==；②统治时期，在位期间；
-**v.** ①==**统治，当政**==；②占主导地位，盛行；
+**n.** ①==**统治，在位**== `during the reign of` [正式]；`Queen Victoria's reign` [正式]；②统治时期，在位期间；
+**v.** ①==**统治，当政**== `reign over a country` [正式]；`reign as king/queen` [正式]；②占主导地位，盛行；
 
 > [!tip] 原型义
 > **原型义**：统治（reg-统治，拉丁语 *regnum*，与 regime 同源）
@@ -134,8 +134,10 @@ reign 源自古法语 *reign*，拉丁语 *regnum*（王国，统治），词根
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above 'mere' politics and 'embody' a spirit of national unity."（当公众舆论特别两极分化时，就像弗朗哥政权结束后那样，君主可以超越"纯粹的"政治——2015年考研英语阅读Text 1，regime 与 reign 同源）
-> - "Peace would then reign over the world."（到那时，和平将主宰世界——考研英语阅读高频表达）
+> - When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above 'mere' politics and 'embody' a spirit of national unity. `[真题]`
+> - Queen Victoria reigned over Britain from 1837 to 1901. `[权威词典]`
+> - Chaos reigned in the classroom after the teacher left. `[权威词典]`
+> - Peace would then reign over the world. `[权威词典]`
 
 
 ---

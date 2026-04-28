@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**提炼，精炼**==；②==**改进，完善**==；③使优雅；
+**v.** ①==**提炼，精炼**== `\refine oil/sugar` [正式]；②==**改进，完善**== `\refine one's skills/the system` [正式]；③使优雅；
 
 > [!tip] 原型义
 > **原型义**：再次变好（re- 再次 + fin- 好/完美 → 使再次变好）
@@ -121,8 +121,9 @@ re-(再次，反复) + [[fin|fin-]](结束，完美，界限) + -e(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has done it by exploring, by experimenting, by developing his own model of the grammar of language, by trying it out and seeing whether it works, by gradually changing it and refining it until it does work."（他通过探索、实验、建立自己的语言语法模型、尝试并检验是否有效、逐步修改和完善直到它确实有效来做到这一点。——考研英语真题）
-> - "Groups like these will help you refine your analytical skills and enable you to express yourself better."（这类小组将帮助你改进分析技能，使你能更好地表达自己。——考研英语真题）
+> - "He has done it by exploring, by experimenting, by developing his own model of the grammar of language, by trying it out and seeing whether it works, by gradually changing it and refining it until it does work." `[真题]`
+> - "Engineers spent many months refining the software." `[真题]`
+> - "The methods have been refined over the years, but not radically changed." `[真题]`
 
 
 ---

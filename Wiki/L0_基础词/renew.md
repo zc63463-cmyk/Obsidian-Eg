@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**更新，使更新**==；②==**续期，延长**==；③==**重新开始，恢复**==；
+**vt.** ①==**更新，使更新**== `renew a passport` `renew one's efforts` [通用]；②==**续期，延长**== `renew a contract/lease` `renew a subscription` [正式/商业]；③==**重新开始，恢复**== `renew diplomatic relations` `renew a friendship` [正式]；
 **vi.** ①重新开始；
 
 > [!tip] 原型义
@@ -130,8 +130,9 @@ re-（[[re-|再，重新]]）+ new（[[new|新的]]）→ 再次变新 → **更
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You should renew your passport before it expires."（你应在护照到期前换发新护照。——通用例句）
-> - "The two countries agreed to renew diplomatic relations."（两国同意恢复外交关系。——考研国际关系类阅读语料）
+> - "In December 1989 Syria renewed diplomatic relations with Egypt." `[真题]`
+> - "The contracts are normally renewed every five years." `[语料库]`
+> - "You should renew your passport before it expires." `[语料库]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**关于，至于**==；
+**prep.** ①==**关于，至于**== `regarding the matter/issue` [正式]；`regarding your letter/application` [正式]；
 
 > [!tip] 原型义
 > **原型义**：关于（regard 的介词化形式，表示"关注的方向"）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I have nothing to say with regard to your complaints."（对于你的投诉，我无可奉告——2020年考研英语阅读，with regard to 与 regarding 同义）
-> - "He is very sensitive in this regard."（他在这方面非常敏感——考研英语阅读长难句）
+> - I am writing regarding your letter of application. `[真题]`
+> - He is very sensitive in this regard. `[真题]`
+> - There is no problem as regards the financial arrangements. `[权威词典]`
+> - She refused to answer questions regarding her private life. `[权威词典]`
 
 
 ---

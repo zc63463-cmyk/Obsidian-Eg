@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**难民，避难者**==；②（引申）逃亡者；
+**n.** ①==**难民，避难者**== `\refugee camp/crisis` [正式]；②（引申）逃亡者；
 
 > [!tip] 原型义
 > **原型义**：逃到避难所的人（refuge 避难所 + -ee 被……的人）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Failing states are of international concern because they are a source of terrorists, drugs, weapons and refugees, threatening political stability everywhere."（失败国家之所以引起国际关注，是因为它们是恐怖分子、毒品、武器和难民的来源，威胁着各地的政治稳定。——考研英语真题）
-> - "She was taking the food to the refugee camp, in which she distributed it to children."（她把食物送到难民营，在那里分发给孩子们。——考研英语真题）
+> - "Failing states are of international concern because they are a source of terrorists, drugs, weapons and refugees, threatening political stability everywhere." `[真题]`
+> - "She was taking the food to the refugee camp, in which she distributed it to children." `[真题]`
+> - "Hundreds of refugees poured out of the city." `[真题]`
 
 
 ---

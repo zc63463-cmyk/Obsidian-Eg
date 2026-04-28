@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使安心，使放心**==；②向……再保证
+**v.** ①==**使安心，使放心**== `reassure sb that...` [通用]；②==**向……再保证**== `reassure sb of sth` [正式]
 
 > [!tip] 原型义
 > **原型义**：使再次安心（消除恐惧，恢复安全感）
@@ -130,9 +130,9 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He reassured me (that) my cheque would arrive soon."（他安慰我说我的支票很快就会到了。——Cambridge Dictionary）
-> - "The president hastened to reassure his people that he was in perfect health."（总统急忙向人民保证他身体非常健康。——Cambridge Dictionary）
-> - "Teachers reassured anxious parents that their children were safe."（老师们让焦虑的家长们放心，孩子们是安全的。——Longman Dictionary）
+> - He reassured me that my cheque would arrive soon. ` `[真题]`
+> - The president hastened to reassure his people that he was in perfect health. ` `[真题]`
+> - Teachers tried their best to reassure kids who had seen the rumor through text messages and were afraid to board the bus. ` `[真题]`
 
 
 ---

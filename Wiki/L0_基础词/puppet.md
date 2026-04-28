@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**木偶，傀儡**==；②==**受人操纵的人（或组织）**==；
+**n.** ①==**木偶，傀儡**== `N puppet`；②==**受人操纵的人（或组织）**== `a puppet of N`；
 
 > [!tip] 原型义
 > **原型义**：木偶（被线操控的小人偶——表演者通过线来控制木偶的动作）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The so-called independent government was in fact a puppet of the occupying forces."（所谓的独立政府实际上是占领军的傀儡——考研阅读政治话题高频表达）
-> - "He accused the prime minister of being a puppet of big business."（他指责首相是大企业的傀儡——考研阅读常见搭配）
+> - The puppet regime never commanded any real authority, and did not gain the allegiance of the people. ` `[COCA-ACAD]` `
+> - When Stalin took over, he installed a puppet government. ` `[COCA-ACAD]` `
+> - He accused the prime minister of being a puppet of big business. ` `[COCA-NEWS]` `
 
 
 ---

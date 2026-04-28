@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**量化，确定……的数量**==；②==**用数量表示**==
+**v.** ①==**量化，确定……的数量**== `V N`；②==**用数量表示**== `V N`
 
 > [!tip] 原型义
 > **原型义**：多少（确定数量）
@@ -125,8 +125,9 @@ quant（多少，拉丁语 *quantus*）+ -ify（使动后缀，"使成为"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to quantify the exact value of space exploration to human civilization."（很难量化太空探索对人类文明的确切价值。——考研英语一2018阅读）
-> - "The cost of the flood damage is impossible to quantify."（这次水灾的损失是无可估量的。——考研英语常见表达）
+> - It's difficult to quantify how many people will have to pay higher taxes. ` `[COCA-NEWS]` `
+> - He said it was too early to quantify the total financial impact of the hurricanes. ` `[COCA-NEWS]` `
+> - The damage caused to the tourist industry is difficult to quantify. ` `[COCA-ACAD]` `
 
 
 ---

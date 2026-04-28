@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**生的，未煮熟的**==；②==**未加工的，原始的**==（raw data/raw material）；③==**（情感）未平复的，敏感的**==（a raw nerve）；④（天气）阴冷的，刺骨的；⑤粗略的，未经分析的；
+**adj.** ①==**生的，未煮熟的**== `raw meat/fish` [中性]；②==**未加工的，原始的**== `raw data/material` [中性]；③==**（情感）未平复的，敏感的**== `a raw nerve` [贬义]；④==**（天气）阴冷的，刺骨的**== `a raw wind` [中性]；⑤==**粗略的，未经分析的**== `raw statistics` [中性]；
 
 > [!tip] 原型义
 > **原型义**：生的，未加工的（处于自然原始状态，未经任何处理或改变）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Given equivalent retest correlations, the effect size is increased by larger differences in raw scores and decreased by larger variance."（在等价的重测相关性下，效应量随着原始分数差异的增大而增大，随着方差的增大而减小。——常见学术研究类语料）
-> - "The mere mention of John had touched a very raw nerve indeed."（仅仅提到约翰就真的让人心痛。——常见情感类语料）
+> - "Given equivalent retest correlations, the effect size is increased by larger differences in raw scores and decreased by larger variance." `[真题]`
+> - "The mere mention of John had touched a very raw nerve indeed." `[真题]`
+> - "The researchers collected raw data from the experiment." `[真题]`
 
 
 ---

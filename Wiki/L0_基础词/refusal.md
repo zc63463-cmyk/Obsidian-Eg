@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**拒绝，回绝**==；
+**n.** ①==**拒绝，回绝**== `a flat/point-blank refusal` [通用]；`refusal to do sth.` [通用]；
 
 > [!tip] 原型义
 > **原型义**：水流回去（re- 回 + fus- 流 + -al 名词后缀 → 水流回去→拒绝）
@@ -121,8 +121,10 @@ re-(回，向后) + [[fus-fund-fuse|fus]](流，来自拉丁语 *fundere/fusus*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His refusal to listen to any advice is very annoying."（他拒绝听取任何建议，令人很恼火。——考研英语真题）
-> - "Their refusal to compromise will inevitably invite more criticism from the UN."（他们拒绝妥协必然会引发联合国的更多批评。——剑桥词典例句）
+> - His refusal to listen to any advice is very annoying. `[真题]`
+> - Their refusal to compromise will inevitably invite more criticism from the UN. `[权威词典]`
+> - Our request for permission to travel met with a flat refusal from the authorities. `[权威词典]`
+> - The government's refusal to see that the protection of the environment must be our first priority today is a great tragedy. `[权威词典]`
 
 
 ---

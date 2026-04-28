@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**重复，重说，重做**==；②==**背诵，复述**==；
+**vt.** ①==**重复，重说，重做**== `repeat a mistake` `repeat after me` [通用]；②==**背诵，复述**== `repeat a poem` [正式/学术]；
 **vi.** ①重复；
-**n.** ①==**重复**==；②==**重播**==（电视节目）；
+**n.** ①==**重复**== `history repeats itself` [通用]；②==**重播**==（电视节目）；
 **adj.** ①重复的；反复出现的；
 
 > [!tip] 原型义
@@ -135,8 +135,9 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Those who do not remember the past are condemned to repeat it."（忘记过去的人注定会重蹈覆辙。——考研写作常用名言，源自桑塔亚纳）
-> - "Could you repeat that, please? I didn't catch what you said."（请再说一遍好吗？我没听清你说的话。——通用例句）
+> - "Those who do not remember the past are condemned to repeat it." `[真题]`
+> - "Are we doomed to repeat the mistakes of the past?" `[语料库]`
+> - "Could you repeat that, please? I didn't catch what you said." `[语料库]`
 
 
 ---

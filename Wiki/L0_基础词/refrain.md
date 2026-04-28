@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**忍住，克制，避免**==（常与 from 连用）；
-**n.** ①==**副歌，叠句**==（诗歌/歌曲中的重复部分）；
+**vi.** ①==**忍住，克制，避免**== `\refrain from doing sth` [正式]；
+**n.** ①==**副歌，叠句**== `\the refrain of a song` [中性]；
 
 > [!tip] 原型义
 > **原型义**：勒住缰绳（re- 回 + frain- = fret- 勒住 → 把马勒回来）
@@ -125,8 +125,9 @@ re-(回，向后) + frain(=fret-，勒住，来自拉丁语 *frenum* 马缰绳)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest."（加利福尼亚州已请求法官们避免做出一刀切的裁决，尤其是那种推翻当局可以在逮捕嫌疑人时搜查其财物这一旧有假设的裁决。——2015年考研英语一 Text 2）
-> - "Following the Harvard scandal, Mary Miller, the former dean of students at Yale, made an impassioned appeal to her school's professors to refrain from take-home exams."（继哈佛丑闻之后，耶鲁大学前教务长玛丽·米勒向该校教授们发出慷慨激昂的呼吁，要求他们不要布置带回家的考试。——六级真题）
+> - "California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest." `[真题]`
+> - "Following the Harvard scandal, Mary Miller, the former dean of students at Yale, made an impassioned appeal to her school's professors to refrain from take-home exams." `[真题]`
+> - "We refrained from talking until we knew that it was safe." `[真题]`
 
 
 ---

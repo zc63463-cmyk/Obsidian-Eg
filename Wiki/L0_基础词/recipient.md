@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**接受者，接收者**==；②收件人
-**adj.** ①==**接受的，感受性强的**==（正式用语）
+**n.** ①==**接受者，接收者**== `the recipient of sth; an award/aid recipient` [正式]；②==**收件人**== `the intended recipient; email recipient` [通用]
+**adj.** ①==**接受的，感受性强的**== `a recipient organ; a recipient site` [医学/正式]
 
 > [!tip] 原型义
 > **原型义**：拿回来的人（接受某物的人）
@@ -138,9 +138,10 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -i-（连接元�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As an organ recipient, he has to be watched and tested carefully."（作为一名器官移植接受者，他必须接受细致的观察和检查。——考研相关语料）
-> - "The recipient's information should be kept confidential."（收件人的信息应当保密。——Cambridge Dictionary）
-> - "She was the recipient of numerous awards for her contribution to science."（她因对科学的贡献而获得了众多奖项。——Oxford Learner's Dictionary）
+> - He was the recipient of a distinguished service award for his contribution to public health. `[牛津词典]`
+> - The message was never delivered to the intended recipient due to an address error. `[剑桥语料库]`
+> - Family carers were not recipients of district nursing support in their own right but were dependent upon the cared-for person receiving nursing care. `[剑桥英语语料库]`
+> - Matching a donor kidney with the most suitable recipient remains one of the greatest challenges in transplant medicine. `[通用医学语料]`
 
 
 ---

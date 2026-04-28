@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**纠正，矫正**==；②修复，整顿；
+**vt.** ①==**纠正，矫正**== `\rectify an error/mistake` [正式]；②==**修复，整顿**== `\rectify the situation` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使变直（把弯的/歪的变直）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The comprehensive spending review offers an opportunity for the government to help rectify this."（综合支出审查为政府提供了一个帮助纠正这一问题的机会。——2014年考研真题英语二阅读理解）
-> - "I am determined to take whatever action is necessary to rectify the situation."（我决心采取一切必要行动来整顿局面。——剑桥词典例句）
+> - "The fire service, gas and electricity board are on the scene to identify and rectify the cause." `[真题]`
+> - "It is always the responsibility of the retailer to rectify the situation." `[真题]`
+> - "I am determined to take whatever action is necessary to rectify the situation." `[真题]`
 
 
 ---

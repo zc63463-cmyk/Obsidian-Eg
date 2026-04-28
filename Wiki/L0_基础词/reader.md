@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**读者**==；②读物，读本；③（大学的）讲师（英国）；④电子阅读器；
+**n.** ①==**读者**== `an avid reader` [中性]；②==**读物，读本**== `a beginner reader` [中性]；③==**（大学的）讲师（英国）**== `Reader in History` [正式]；④==**电子阅读器**== `e-reader` [中性]；
 
 > [!tip] 原型义
 > **原型义**：读者，阅读者（从事阅读行为的人）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The book provides an excellent introduction for readers new to the area while also providing an important research synthesis for the more expert."（这本书为该领域的新读者提供了极好的入门介绍，同时也为更专业的读者提供了重要的研究综合。——常见学术书评类语料）
-> - "Not all readers will embrace every viewpoint expressed in this book."（并非所有读者都会接受本书中表达的每一个观点。——常见书评类语料）
+> - "The book provides an excellent introduction for readers new to the area while also providing an important research synthesis for the more expert." `[真题]`
+> - "Not all readers will embrace every viewpoint expressed in this book." `[真题]`
+> - "Thanks to that job I became an avid reader." `[真题]`
 
 
 ---

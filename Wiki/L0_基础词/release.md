@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**释放，放开**==；②发布，发行（新闻、产品等）；③免除（责任）；④发泄（情绪）；
-**n.** ①==**释放，获释**==；②发布，发行；③发泄，宣泄；
+**v.** ①==**释放，放开**== `release a prisoner/hostage` `release from custody` [中性]；②==**发布，发行**== `release a report/statement` `release a new product` [中性]；③免除（责任）；④发泄（情绪）；
+**n.** ①==**释放，获释**== `on release` `press release` [中性]；②发布，发行；③发泄，宣泄；
 
 > [!tip] 原型义
 > **原型义**：松开、释放（放开被束缚或被控制的人或物）
@@ -134,8 +134,9 @@ re-(=back，回) + lease(松开，拉丁语 *laxare*，与 [[relax]] 中的 lax 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report."（就在最高法院对医助自杀做出裁决的三周前，国家科学院发布了一份两卷本的报告。——2002年考研英语一Text 4）
-> - "Quicker turnarounds mean less wasted inventory, more frequent release, and more profit."（更快的周转意味着更少的库存浪费、更频繁的发布和更多的利润。——2013年考研英语一Text 1）
+> - Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report. `[真题]`
+> - Quicker turnarounds mean less wasted inventory, more frequent release, and more profit. `[真题]`
+> - Police have released a picture of the man they want to question. `[权威语料]`
 
 
 ---

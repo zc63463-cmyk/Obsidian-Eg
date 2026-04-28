@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**娱乐，消遣**==；②（身心的）恢复，休养；
+**n.** ①==**娱乐，消遣**== `recreation facilities/activities; do sth for recreation` [正式]；②（身心的）恢复，休养 `rest and recreation` [书面]
 
 > [!tip] 原型义
 > **原型义**：重新创造（恢复精力，重新塑造自我）
@@ -131,8 +131,10 @@ re-(=again，再，前缀 [[re-]]) + cre(=create，创造，拉丁语 *creare*) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This park provides ample space for public recreation."（这个公园为公众娱乐提供了充足的空间。——语料库例句）
-> - "What do you do for recreation in your free time?"（你空闲时间做什么娱乐活动？——英语常用表达）
+> - This park provides ample space and modern facilities for public recreation, including tennis courts and a children's playground. `[通用语料]`
+> - These areas are set aside for outdoor recreation and are open to hunting, fishing, hiking, and camping throughout the year. `[通用语料]`
+> - The afternoons at the conference were left free for recreation, allowing delegates to explore the host city at their leisure. `[朗文词典]`
+> - Increasingly, the use of land for recreation has become a significant feature of urban planning in major cities. `[朗文词典]`
 
 
 ---

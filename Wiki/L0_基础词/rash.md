@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**鲁莽的，轻率的**==（未经深思熟虑就行动）；
-**n.** ①皮疹；②（突然出现的）大量，一连串（a rash of...）；
+**adj.** ①==**鲁莽的，轻率的**== `a rash decision` [贬义]；
+**n.** ①==**皮疹**== `break out in a rash` [中性]；②==**（突然出现的）大量，一连串**== `a rash of sth` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：突然冒出来的（像皮疹一样突然出现）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There has been a rash of burglaries in the area over the last month."（近一个月这一带发生了一连串入室行窃案。——常见新闻类语料）
-> - "It was the mass-issuance of mortgages to consumers with poor credit ratings that led to a rash of mortgage defaults and home foreclosures beginning in late 2007."（正是向信用评级较差的消费者大量发放抵押贷款，导致了从2007年底开始的一连串抵押贷款违约和房屋止赎。——常见经济类语料）
+> - "It was the mass-issuance of mortgages to consumers with poor credit ratings that led to a rash of mortgage defaults and home foreclosures beginning in late 2007." `[真题]`
+> - "There has been a rash of burglaries in the area over the last month." `[真题]`
+> - "Don't make a rash decision that you'll regret later." `[真题]`
 
 
 ---

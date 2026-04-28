@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**避难所，庇护所**==；②庇护，避难；③==**慰藉，精神寄托**==；
+**n.** ①==**避难所，庇护所**== `\seek/take refuge` [正式]；②庇护，避难；③==**慰藉，精神寄托**== `\find refuge in` [文学]；
 
 > [!tip] 原型义
 > **原型义**：逃回去的地方（re- 回 + fug- 逃 → 逃回去的安全之地）
@@ -126,8 +126,9 @@ re-(回，向后) + fug(逃，来自拉丁语 *fugere*) + -e(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They were forced to seek refuge from the fighting."（他们被迫寻求庇护，以躲避战争。——剑桥词典例句）
-> - "Hundreds of thousands of people from the north have sought refuge in the south."（来自北方的数十万人在南方寻求庇护。——基督教科学箴言报）
+> - "They were forced to seek refuge from the fighting." `[真题]`
+> - "Hundreds of thousands of people from the north have sought refuge in the south." `[真题]`
+> - "Some had to abandon their vehicles and flee on foot or even seek refuge in the ocean." `[真题]`
 
 
 ---

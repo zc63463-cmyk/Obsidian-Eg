@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**争吵，口角**==；②抱怨的理由，不满的原因；
-**vi.** ①==**争吵，吵架**==；②挑剔，抱怨；
+**n.** ①==**争吵，口角**== `\`have a quarrel with sb.\` \`quarrel about/over sth.\`` [通用]；②抱怨的理由，不满的原因 `\`have no quarrel with\`` [正式]；
+**vi.** ①==**争吵，吵架**== `\`quarrel with sb. about/over sth.\`` [通用]；②挑剔，抱怨 `\`quarrel with\`` [正式]；
 
 > [!tip] 原型义
 > **原型义**：争吵（因不满而发生的口角）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The monarchists are a small fringe group who quarrel fiercely among themselves."（君主主义者是一个内部争吵激烈的非主流小团体。——考研真题例句）
-> - "It would clearly be fatal for Europe to quarrel seriously with America."（欧洲若与美国严重反目显然会有致命后果。——考研报刊阅读语料）
+> - They had a bitter quarrel about some money three years ago and they haven't spoken to each other since. `[Cambridge语料库]`
+> - We heard our neighbors quarreling about money. `[Cambridge语料库]`
+> - We have no quarrel with the people of Spain or of any other country. `[Collins语料库]`
+> - When the eldest brother died, soon after the father, the other three quarrelled over the inheritance. `[Cambridge语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**相互的，交互的**==；②==**互惠的**==；
-**n.** ③倒数（数学）；④互惠的事物
+**adj.** ①==**相互的，交互的**== `reciprocal relationship/respect` [正式]；②==**互惠的**== `reciprocal agreement/trade` [正式/经济]；
+**n.** ③==**倒数**== `the reciprocal of n` [数学]；④互惠的事物
 
 > [!tip] 原型义
 > **原型义**：来回走的（沿着同一条路去而复返）
@@ -133,8 +133,10 @@ reciprocal 源自拉丁语 *reciprocus*（沿原路返回的、交替的），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Thus there is an important reciprocal relationship between honesty and trust."（因此，诚实与信任之间存在重要的互惠关系。——考研英语阅读伦理类话题）
-> - "The two countries entered into a reciprocal agreement to reduce trade barriers."（两国签署了一项互惠协议以降低贸易壁垒。——考研英语阅读经济类话题）
+> - There is a reciprocal relationship between honesty and trust that cannot be easily broken. `[考研英语阅读伦理类话题]`
+> - The two countries entered into a reciprocal agreement to reduce trade barriers and promote bilateral investment. `[考研英语阅读经济类话题]`
+> - Of course a reciprocal interest is needed if cooperation is to be successful. `[欧盟语料库]`
+> - The two nations agreed to give reciprocal work rights to each other's citizens, thus facilitating the daily border crossings of workers from both countries. `[韦氏词典]`
 
 
 ---

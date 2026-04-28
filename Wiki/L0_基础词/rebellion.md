@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**反叛，叛乱**==；②叛逆，反抗
+**n.** ①==**反叛，叛乱**== `an armed rebellion` [政治/历史]；②==**叛逆，反抗**== `a rebellion against authority` [社会]
 
 > [!tip] 原型义
 > **原型义**：再次发动战争的行为（有组织的反叛行动）
@@ -135,9 +135,9 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet even then reports of widespread youth rebellion were overdone: Most kids in the '60s and '70s shared their parents' basic values."（然而，即使在当时，关于广泛青年叛逆的报道也被夸大了：60年代和70年代的大多数孩子与他们的父母有着相同的基本价值观。——考研真题）
-> - "Even during the turbulent years of last century, youth rebellion was often exaggerated in the media."（即使在去年动荡的岁月中，青年叛逆也经常被媒体夸大。——考研真题相关）
-> - "The king's army suppressed the rebellion."（国王的军队镇压了叛乱。——Merriam-Webster）
+> - The army was brought in to crush the rebellion. ` `[真题]`
+> - The government has brutally crushed the rebellion. ` `[真题]`
+> - Recent election losses have led to open rebellion among some party members, who are calling for a complete change of leadership. ` `[真题]`
 
 
 ---

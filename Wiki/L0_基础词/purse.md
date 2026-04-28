@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**钱包，女式手提包**==；②==**资金，财力**==；
-**v.** ①==**撅嘴**（嘴唇缩拢）；②==**（使）起褶皱**==；
+**n.** ①==**钱包，女式手提包**== `N purse`；②==**资金，财力**== `public purse` `purse strings`；
+**v.** ①==**撅嘴**== `purse one's lips`；②==**（使）起褶皱**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：钱包（装钱的皮袋子——由绳子收紧口的小袋子）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government must tighten the purse strings to reduce the budget deficit."（政府必须紧缩开支以减少预算赤字——考研阅读经济话题高频表达）
-> - "She pursed her lips in disapproval."（她不赞同地撅了撅嘴——考研阅读常见文学表达）
+> - Having a lot of people out of work places a large drain on the public purse. ` `[COCA-NEWS]` `
+> - "I don't approve of that kind of language," she said, pursing her lips. ` `[COCA-FIC]` `
+> - The players in the golf tournament are competing for a purse of $525,000. ` `[COCA-NEWS]` `
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拒绝，不愿，不肯**==；
-**n.** ①==**垃圾，废弃物**==（注意发音不同）；
+**v.** ①==**拒绝，不愿，不肯**== `refuse to do sth.` [通用]；`refuse an offer/invitation` [通用]；
+**n.** ①==**垃圾，废弃物**== `household/domestic refuse` [通用]；`refuse collection` [通用]；
 
 > [!tip] 原型义
 > **原型义**：水流回去（re- 回 + fus- 流 → 水流回去→拒绝）
@@ -126,8 +126,10 @@ re-(回，向后) + [[fus-fund-fuse|fus]](流，来自拉丁语 *fundere/fusus*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Worst of all, when her son, Ned, fell and injured his knee, she refused to pay for a doctor and spent hours looking for free medical help."（最糟糕的是，当她的儿子内德摔倒伤了膝盖时，她拒绝支付医生费用，花了几个小时寻找免费医疗帮助。——四级听力真题）
-> - "The supervisor of personnel refused the request."（人事主管拒绝了该请求。——四级听力真题）
+> - Worst of all, when her son, Ned, fell and injured his knee, she refused to pay for a doctor and spent hours looking for free medical help. `[真题]`
+> - The supervisor of personnel refused the request. `[真题]`
+> - An X-rays technician is refusing to do her job until the firm agrees to replace its out-dated equipment. `[真题]`
+> - He asked me to give him another loan, but I refused. `[权威词典]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**种族的，人种的**==；②==**由种族引起的**==
+**adj.** ①==**种族的，人种的**== `racial discrimination` [正式]；②==**由种族引起的**== `racial tension` [正式]
 
 > [!tip] 原型义
 > **原型义**：种族的（与种族相关的）
@@ -129,8 +129,9 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Racial discrimination remains a persistent problem in many societies despite legal protections."（尽管有法律保护，种族歧视在许多社会中仍然是一个持续存在的问题。——考研英语一2016阅读）
-> - "The civil rights movement was a landmark in the struggle for racial equality in the United States."（民权运动是美国种族平等斗争中的里程碑。——考研英语阅读常见话题）
+> - Racial discrimination remains a persistent problem in many societies despite legal protections. `[真题]`
+> - The civil rights movement was a landmark in the struggle for racial equality in the United States. `[真题]`
+> - He believes that he is a victim of racial discrimination in the workplace. `[真题]`
 
 
 ---

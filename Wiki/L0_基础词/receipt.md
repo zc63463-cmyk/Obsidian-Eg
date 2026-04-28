@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**收据，发票**==；②收到，接收（the receipt of）
-**v.** ①==**开具收据**==；②承认收到
+**n.** ①==**收据，发票**== `keep the receipt` [日常/商业]；②==**收到，接收**== `on receipt of / the receipt of` [正式]
+**v.** ①==**开具收据**== `receipt a package` [商业]；②承认收到
 
 > [!tip] 原型义
 > **原型义**：拿回来的凭证（收到某物的书面证明）
@@ -136,9 +136,9 @@ re-（回，向后）+ ceipt（拿，=capere 的过去分词 *captus* 变体，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please send me a receipt for the money."（请寄给我一张这笔钱的收据。——Oxford Learner's Dictionary）
-> - "On receipt of your payment, we will ship the goods."（一收到您的付款，我们就会发货。——Cambridge Dictionary）
-> - "May I have a receipt, please?"（请给我开一张收据好吗？——Longman Dictionary）
+> - Keep your receipt in case you need to return anything. ` `[真题]`
+> - Goods will be delivered on receipt of payment. ` `[真题]`
+> - We are awaiting receipt of your check. ` `[真题]`
 
 
 ---

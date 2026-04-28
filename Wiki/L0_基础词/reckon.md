@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**计算，估算**==；②==**认为，把……看作**==；③指望，依靠；
+**v.** ①==**计算，估算**== `reckon the cost; reckon up` [中性]；②==**认为，把……看作**== `I reckon that...; be reckoned as/to be` [口语/中性]；③==**指望，依靠**== `reckon on; reckon with` [口语]
 
 > [!tip] 原型义
 > **原型义**：计算（通过计算得出数字）
@@ -130,8 +130,10 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "While alternative estimates of the damage from carbon emissions differ, and it's especially hard to reckon the likely costs of possible catastrophic climate events, most estimates suggest substantial negative effects."（虽然对碳排放造成的破坏的估计各不相同，而且计算可能发生的灾难性气候事件可能会造成的损失尤为困难，但多数预估都暗示了极大的负面影响——2017年6月六级阅读）
-> - "She was widely reckoned (to be) the best actress of her generation."（人们普遍认为她是她那一代最优秀的演员——通用语料）
+> - While alternative estimates of the damage from carbon emissions differ, and it is especially hard to reckon the likely costs of possible catastrophic climate events, most estimates suggest substantial negative effects. `[2017年6月六级阅读]`
+> - She was widely reckoned to be the best actress of her generation after winning three consecutive Academy Awards. `[牛津词典]`
+> - We'll have to leave early, I reckon, if we want to beat the traffic and arrive on time. `[剑桥词典]`
+> - The trade unions proved to be a political force to be reckoned with during the national labour negotiations. `[BBC语料]`
 
 
 ---

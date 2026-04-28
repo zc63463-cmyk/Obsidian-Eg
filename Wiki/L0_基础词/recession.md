@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（经济的）衰退，萧条**==；②后退，撤回（正式用语）
+**n.** ①==**（经济的）衰退，萧条**== `economic recession / the Great Recession` [经济/新闻]；②后退，撤回（正式用语）
 
 > [!tip] 原型义
 > **原型义**：向后走的状态（经济活动向后退）
@@ -136,9 +136,9 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The great recession may be over, but this era of high joblessness is probably beginning."（大衰退可能已经结束，但这个高失业率的时代可能才刚刚开始。——2012年考研英语二 Text4）
-> - "The reason we have such stubbornly high unemployment and declining middle-class incomes today is largely because of the big drop in demand because of the Great Recession."（我们今天之所以失业率居高不下、中产阶级收入不断下降，很大程度上是因为大衰退导致的需求大幅下降。——考研真题相关）
-> - "Both previous shocks resulted in double-digit inflation and global economic decline."（之前的两次冲击都导致了两位数的通货膨胀和全球经济下滑。——2002年考研真题 Text3）
+> - The great recession may be over, but this era of high joblessness is probably beginning. ` `[真题]`
+> - The Japanese economy is experiencing its worst recession in 20 years. ` `[真题]`
+> - The country is mired in recession. ` `[真题]`
 
 
 ---

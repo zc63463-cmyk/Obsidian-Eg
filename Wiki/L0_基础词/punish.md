@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**惩罚，处罚**==；②==**严厉对待，使受苦**==；
+**v.** ①==**惩罚，处罚**== `V N for N` `V N with N`；②==**严厉对待，使受苦**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：惩罚（使人因过错而承受痛苦或损失——从拉丁语"使付出代价"演变而来）
@@ -126,8 +126,9 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Those who break the law should be punished severely."（违法者应受到严厉惩罚——考研写作高频表达）
-> - "The stock market punished companies that failed to meet expectations."（股市惩罚了未能达到预期的公司——考研阅读经济话题）
+> - Those responsible for these crimes must be brought to court and punished. ` `[COCA-NEWS]` `
+> - The oil company was found guilty on ten counts of pollution, and was punished with a $250 million fine. ` `[COCA-NEWS]` `
+> - Even minor infringements of the law will be severely punished. ` `[COCA-ACAD]` `
 
 
 ---

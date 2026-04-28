@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**鲁莽的，不计后果的**==；②无所顾忌的；
+**adj.** ①==**鲁莽的，不计后果的**== `reckless driving/spending/behaviour` [负面/正式]；②==**无所顾忌的**== `reckless disregard for sth` [法律/正式]
 
 > [!tip] 原型义
 > **原型义**：不计后果的（不考虑后果就行动）
@@ -127,8 +127,10 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The court would be recklessly modest if it followed California's advice."（如果法院听从加州的建议，那将是 recklessly 谦虚的——2015年考研英语一阅读理解 Section II）
-> - "At least, the recession has awakened us from our national fever dream of easy riches and bigger houses, and put a necessary end to an era of reckless personal spending."（至少，经济衰退唤醒了我们对轻松致富和拥有更大房子的全国性的狂热梦想，并为一个不计后果的个人消费时代画上了必要的句号——2020年考研英语二 Text 4）
+> - The driver of the car was arrested for reckless driving after running a red light at high speed. `[朗文词典]`
+> - The company's reckless spending habits ultimately led to its bankruptcy and the loss of thousands of jobs. `[通用经济语料]`
+> - At least, the recession has awakened us from our national fever dream of easy riches and put a necessary end to an era of reckless personal spending. `[2020年考研英语二 Text 4]`
+> - The court would be recklessly modest if it followed California's advice. `[2015年考研英语一阅读理解 Section II]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**突袭；袭击**==；②（警察的）突击搜查；③突然搜查；
-**v.** ①突袭；袭击；②突击搜查；
+**n.** ①==**突袭；袭击**== `carry out a raid` [通用]；②（警察的）突击搜查 `a police raid` [通用]；③突然搜查 `a dawn raid` [通用]；
+**v.** ①突袭；袭击 `raid a house` [通用]；②突击搜查；
 
 > [!tip] 原型义
 > **原型义**：突然骑马冲入（军事上的突然袭击）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The drugs were found during a police raid on the house."（这些毒品是在警方查抄这栋房子时发现的——考研阅读高频表达）
-> - "They were arrested early this morning after a raid on a house by thirty armed police."（今天早上30名武装警察突击搜查一所房子后将他们逮捕——考研阅读高频表达）
+> - The drugs were found during a police raid on the house. `[真题]`
+> - Four people were arrested during a raid on a house in London. `[真题]`
+> - Two schools were hit during the air raid. `[真题]`
 
 
 ---

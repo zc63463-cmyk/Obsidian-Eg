@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**回忆，回想**==；②召回，收回（产品）；③召回（大使等）
-**n.** ①==**回忆，召回**==；②召回令
+**v.** ①==**回忆，回想**== `recall (that)... / recall doing sth` [通用]；②==**召回，收回（产品）**== `recall a product` [商业/新闻]；③召回（大使等）
+**n.** ①==**回忆，召回**== `beyond recall` [通用]；②召回令
 
 > [!tip] 原型义
 > **原型义**：回忆（将记忆中的信息重新带回意识中）
@@ -130,8 +130,9 @@ re-（回，再次）+ call（叫，呼唤）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old man recalled the city as it had been before the war."（老人回忆起战前城市的样子。——Cambridge Dictionary）
-> - "As I recall, he said with some irritation, you still owe me €150."（"据我回忆，"他有些恼怒地说，"你还欠我150欧元。"——Cambridge Dictionary）
+> - The old man recalled the city as it had been before the war. ` `[真题]`
+> - The factory has issued a recall of all cars with the defective brakes. ` `[真题]`
+> - Can you recall what happened last night? ` `[真题]`
 
 
 ---

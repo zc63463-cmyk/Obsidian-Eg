@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**快速的，迅速的**==；②急剧的（变化）；
-**n.** ①（河流的）急流，险滩；
+**adj.** ①==**快速的，迅速的**== `rapid growth/change` [中性]；②==**急剧的（变化）**== `rapid decline/increase` [中性]；
+**n.** ①==**（河流的）急流，险滩**== `shoot the rapids` [中性]；
 
 > [!tip] 原型义
 > **原型义**：快速的（源自拉丁语 *rapidus*，与 *rapere* "抢夺"同源——快速抢夺=快速移动）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm."（对快速刺激的快速决策并非仅限于人际领域。——2013年考研真题英语二）
-> - "This was demonstrated by the inability of the country's political leadership to manage the rapid pace of change."（该国政治领导层无法管理快速的变化步伐，这已被证实。——常见政治类语料）
+> - "Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm." `[真题]`
+> - "The 1990s were a period of rapid change and rapid growth." `[真题]`
+> - "She made a rapid recovery after her operation." `[真题]`
 
 
 ---

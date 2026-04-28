@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**食谱，烹饪法**==；②秘诀，方法（fig.）
+**n.** ①==**食谱，烹饪法**== `a recipe for sth; follow a recipe` [日常]；②==**秘诀，方法**== `a recipe for success/disaster` [书面/形象]
 
 > [!tip] 原型义
 > **原型义**：拿这个！（医生的处方指令→烹饪指南）
@@ -133,9 +133,10 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Recipe was a doctor's command, not a cook's instruction — the Latin imperative 'Take!' written at the top of every prescription."（Recipe 是医生的命令，而非厨师的指导——写在每张处方顶端的拉丁语祈使词"拿！"。——Merriam-Webster）
-> - "There is no sure recipe for success."（没有绝对成功的秘诀。——Cambridge Dictionary）
-> - "His manner was a recipe for disaster."（他的行事方式简直是自寻灾难。——Oxford Learner's Dictionary）
+> - I tried a new recipe for chocolate cake and it turned out wonderfully. `[牛津词典]`
+> - If you want the dish to turn out right, you should follow the recipe carefully. `[牛津词典]`
+> - To live every day to the full is a recipe for happiness. `[柯林斯语料库]`
+> - His reckless spending habits were a recipe for financial disaster. `[通用语料]`
 
 
 ---

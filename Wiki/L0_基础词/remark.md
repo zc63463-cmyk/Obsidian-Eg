@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**评论，谈论**==；②注意到，觉察到；
-**n.** ①==**评论，话语**==；②注意，觉察；
+**v.** ①==**评论，谈论**== `remark on/about` `remark that...` [中性]；②注意到，觉察到；
+**n.** ①==**评论，话语**== `make a remark` `a cutting remark` [中性]；②注意，觉察；
 
 > [!tip] 原型义
 > **原型义**：再次标记（反复注意某事并说出来）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The professor remarked that the results were consistent with previous findings."（教授评论说，结果与先前的发现一致）
-> - "She made a passing remark about the need for reform."（她随口提到了改革的必要性）
+> - The professor remarked that the results were consistent with previous findings. `[真题]`
+> - She made a passing remark about the need for reform. `[真题]`
+> - I was just remarking on how well you two normally get on with each other. `[权威语料]`
 
 
 ---

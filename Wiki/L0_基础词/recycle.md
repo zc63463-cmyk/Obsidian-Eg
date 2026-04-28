@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**回收利用，再循环**==；②再次使用，重新利用；
+**v.** ①==**回收利用，再循环**== `\recycle waste/paper/plastic` [通用]；②==**再次使用，重新利用**== `\recycle ideas/materials` [通用]；
 **n.** 回收利用；再生材料；
 
 > [!tip] 原型义
@@ -131,8 +131,9 @@ re-(=again，再，前缀 [[re-]]) + cycl(=circle，圆，循环，希腊语 *ky
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The materials from e-waste include iron, copper, gold, silver, and aluminum materials that could be reused, resold, salvaged, or recycled."（电子垃圾中的材料包括铁、铜、金、银和铝，这些材料可以重复使用、转售、回收或循环利用。——2019年6月六级真题阅读）
-> - "We should recycle as much as possible to reduce environmental pollution."（我们应该尽可能多地回收利用，以减少环境污染。——环保类常见表达）
+> - "The materials from e-waste include iron, copper, gold, silver, and aluminum materials that could be reused, resold, salvaged, or recycled." `[真题]`
+> - "The bottles were being recycled into a lower-quality product." `[真题]`
+> - "We've always tried to turn the lights off and recycle, but we didn't even think about our energy use." `[真题]`
 
 
 ---

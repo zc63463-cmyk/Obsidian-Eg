@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不管，不顾**==；
-**adj.** ①==**不注意的，不顾的**==；
+**adv.** ①==**不管，不顾**== `regardless of` [通用]；`continue/carry on regardless` [通用]；
+**adj.** ①==**不注意的，不顾的**== `regardless of danger/consequences` [通用]；
 
 > [!tip] 原型义
 > **原型义**：不关注的（regard + -less，不加关注→不顾）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The keyboard can determine whether they should be given access to the computer it's connected to — regardless of whether someone gets the password right."（键盘可以确定他们是否应该被授予访问其所连接计算机的权限——不管某人是否输入了正确的密码——2015年考研英语阅读）
-> - "Our club is open to everyone regardless of age, sex or educational background."（我们的俱乐部对任何人开放，不管年龄、性别或教育背景——考研高频表达）
+> - The keyboard can determine whether they should be given access to the computer it's connected to — regardless of whether someone gets the password right. `[真题]`
+> - Our club is open to everyone regardless of age, sex or educational background. `[真题]`
+> - We have no land ethic yet, but we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us. `[真题]`
+> - This job is open to all, regardless of previous experience. `[权威词典]`
 
 
 ---
