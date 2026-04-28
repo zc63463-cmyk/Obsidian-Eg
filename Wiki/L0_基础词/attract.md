@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**吸引，引起……的注意**==；②吸引（物理力）；③诱惑；
+**v.** ①==**吸引，引起……的注意**== `V N` `V N to N`；②吸引（物理力） `V N`；③诱惑；
 
 > [!tip] 原型义
 > **原型义**：拉向自己（把东西拉向某个方向）
@@ -130,7 +130,10 @@ at-（=ad-，向、朝向）+ [[tract|tract]]（拉、拖，拉丁语 *trahere* 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new policy is designed to attract foreign investment and stimulate economic growth.（新政策旨在吸引外资并刺激经济增长。）
+> - The new policy is designed to attract foreign investment and stimulate economic growth. `[COCA-ACAD]`
+> - The museum attracts thousands of visitors each year. `[COCA-NEWS]`
+> - Electrically charged objects attract or repel one another. `[COCA-ACAD]`
+> - The bright colors of the painting attracted attention from across the room. `[例]`
 
 
 ---

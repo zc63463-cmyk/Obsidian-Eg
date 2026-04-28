@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**动脉**==；②==**干线，要道**==；
+**n.** ①==**动脉**== `N` `coronary N`；②==**干线，要道**== `N` `adj N`；
 
 > [!tip] 原型义
 > **原型义**：动脉（输送血液的管道）
@@ -119,8 +119,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The river is the main artery of trade for the region."（这条河是该地区贸易的主要干线）
-> - "Coronary artery disease remains the leading cause of death worldwide."（冠状动脉疾病仍然是全球首要死因）
+> - Coronary arteries are the blood vessels that carry blood to the heart muscle. `[COCA-ACAD]`
+> - The coronary arteries supply blood to the heart muscle. `[COCA-ACAD]`
+> - A medical examiner determined the cause of death to be hardening of the arteries. `[COCA-NEWS]`
+> - The river is the main artery of trade for the region. `[COCA-ACAD]`
 
 
 ---

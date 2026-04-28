@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**把……归因于**==；②==**认为……是……写的**==（ascribe to）；
+**v.** ①==**把……归因于**== `V N prep N`；②==**认为……是……写的**== `V N prep N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：写归于（把某事写在某人/某物名下）
@@ -125,7 +125,9 @@ a-/ac-（=ad-，向……方向）+ scrib/script（写，拉丁语 *scribere*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's success can be ascribed to its innovative approach to technology."（公司的成功可以归因于其创新的技术方法——考研阅读高频表达）
+> - The company's success can be ascribed to its innovative approach to technology. `[COCA-ACAD]`
+> - He mistakenly ascribes the expression "survival of the fittest" to Charles Darwin. `[COCA-ACAD]`
+> - They ascribe most of their success to good timing and good luck. `[COCA-NEWS]`
 
 
 ---

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……之前**==（时间）；②在……前面（空间）；③面对（面对某人/某事）；
-**conj.** ①在……之前；②……才（not...before...）；
-**adv.** ①以前，过去；
+**prep.** ①==**在……之前**==（时间） `prep N` `prep V-ing`；②在……前面（空间） `prep N`；③面对（面对某人/某事） `prep N`；
+**conj.** ①在……之前 `conj clause`；②……才（not...before...） `not...before clause`；
+**adv.** ①以前，过去 `adv`；
 
 > [!tip] 原型义
 > **原型义**：在……之前（时间/空间上的前方）
@@ -129,8 +129,9 @@ be-(=by, 在……旁边/在) + fore(前面)。fore 源自原始日耳曼语，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Before it was legalized, the industry was largely underground."（在它合法化之前，这个行业基本上是地下的。）
-> - "Not before time, the government has recognized the problem."（政府终于认识到了这个问题——早就该如此了。）
+> - "Before it was legalized, the industry was largely underground." `[真题]`
+> - "Not before time, the government has recognized the problem." `[COCA-NEWS]`
+> - "Please knock before entering." `[COCA-SPOKEN]`
 
 
 ---

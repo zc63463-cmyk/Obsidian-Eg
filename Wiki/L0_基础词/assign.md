@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**分配，布置（任务、作业等）**==；②==**指派，委任**==（某人担任某职务）；③==**赋予，归因于**==（价值、意义等）；④确定（时间、地点）；
+**vt.** ①==**分配，布置（任务、作业等）**== `V N` `V N to N`；②==**指派，委任**==（某人担任某职务） `V N to N` `V N to V`；③==**赋予，归因于**==（价值、意义等） `V N to N`；④确定（时间、地点） `V N`；
 
 > [!tip] 原型义
 > **原型义**：在旁边做标记（拉丁语 *assignare*，"to mark out, allot"）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The teacher assigned a research paper on the causes of the financial crisis."（老师布置了一篇关于金融危机原因的研究论文。——考研英语阅读教育类话题）
-> - "Researchers have assigned great significance to the discovery of this ancient manuscript."（研究人员赋予这一古代手稿的发现以重大意义。——考研英语翻译学术类表达）
+> - The teacher assigned a research paper on the causes of the financial crisis. `[COCA-ACAD]`
+> - Researchers have assigned great significance to the discovery of this ancient manuscript. `[COCA-ACAD]`
+> - Each student was assigned a specific role in the group project. `[例]`
+> - The committee assigned her to lead the investigation into the incident. `[例]`
 
 
 ---

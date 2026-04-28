@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**单身汉，未婚男子**==；②==**学士**==（大学本科毕业生）；③（有学位的）年轻骑士；
+**n.** ①==**单身汉，未婚男子**== `N` `an eligible N`；②==**学士**==（大学本科毕业生）`bachelor's degree in N` `Bachelor of N`；③（有学位的）年轻骑士；
 
 > [!tip] 原型义
 > **原型义**：年轻的见习骑士（尚未获得正式封号的年轻人）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He earned his bachelor's degree in economics from the University of Chicago before pursuing a career in finance."（他在芝加哥大学获得经济学学士学位后，开始了金融职业生涯——考研阅读教育话题相关表达）
-> - "In many traditional societies, an eligible bachelor was expected to marry a woman from a family of similar social standing."（在许多传统社会中，条件好的单身汉被期望与门当户对的女子结婚——考研翻译社会话题相关表达）
+> - "He holds a bachelor of science in maths." `[BNC]`
+> - "He knew history and art and was a bachelor of science in maths." `[BNC]`
+> - "An eligible bachelor is a bachelor who is seen as a desirable husband." [COCA]
 
 
 ---

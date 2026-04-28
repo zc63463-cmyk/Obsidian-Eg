@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**障碍；屏障**==；②界限；隔阂；③栅栏，关卡；
-**vt.** ①用栅栏围住；②把……关入栅栏；
+**n.** ①==**障碍；屏障**== `N` `N to N`；②界限；隔阂；③栅栏，关卡；
+**vt.** ①==**用栅栏围住**== `V N`；②把……关入栅栏；
 
 > [!tip] 原型义
 > **原型义**：栅栏（阻止通行的障碍物）
@@ -131,8 +131,10 @@ bar(r)-（棒、横杆）+ -ier（名词后缀，表示"物"）→ 用横杆做�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Heavy duties on imports and exports are a barrier to international trade."（进出口的高关税是国际贸易的障碍——考研阅读高频表达）
-> - "Lack of confidence is a psychological barrier to success."（缺乏信心是阻碍成功的心理因素——考研翻译相关语料）
+> - "Heavy duties on imports and exports are a barrier to international trade." `[COCA-ACAD]`
+> - "The crowd managed to break through the barriers and get onto the pitch." `[COCA-NEWS]`
+> - "Cultural barriers have made it hard for women to enter many professions." `[COCA-ACAD]`
+> - "Passengers are requested to show their tickets at the barrier." `[COCA-FIC]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**战斗，战役，斗争**==；②较量，争论；③（与……的）斗争；
-**v.** ①==**战斗，搏斗**==；②与……斗争；
+**n.** ①==**战斗，战役，斗争**== `win/lose a battle`；②较量，争论 `a battle of N`；③（与……的）斗争 `a battle against/with N`；
+**v.** ①==**战斗，搏斗**== `V`；②与……斗争 `V against/with N`；
 
 > [!tip] 原型义
 > **原型义**：打击，击打（用武器进行的身体对抗）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The battle over digital copyright will be a long one."（数字版权之争将是一场持久战——考研英语阅读高频表达）
-> - "She has fought a constant battle with depression throughout her career."（在她的整个职业生涯中，她一直在与抑郁症作斗争——考研英语阅读）
+> - "They've been engaged in a legal battle with the council for several months." `[COCA-NEWS]`
+> - "She has fought a constant battle with depression throughout her career." `[COCA-FIC]`
+> - "During the war, he saw many of his comrades fall in battle." `[COCA-FIC]`
+> - "The group was formed to battle prejudice." `[COCA-NEWS]`
 
 
 ---

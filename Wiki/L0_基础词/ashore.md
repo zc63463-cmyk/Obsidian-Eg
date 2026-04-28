@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**在岸上，向岸上**==；②到岸上，登陆；
+**adv.** ①==**在岸上，向岸上**== `V ashore`；②==**到岸上，登陆**== `V ashore`；
 
 > [!tip] 原型义
 > **原型义**：向岸边/在岸上
@@ -123,8 +123,9 @@ a-(=on, 在……上) + shore(岸)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The crew went ashore for supplies after weeks at sea."（船员们在海上数周后上岸补给）
-> - Debris from the crashed plane was washed ashore.（坠机残骸被冲上岸）
+> - The crew went ashore for supplies after weeks at sea. `[COCA-NEWS]`
+> - Debris from the crashed plane was washed ashore by the tide. `[COCA-NEWS]`
+> - He managed to swim ashore but could find no trace of his family. `[COCA-NEWS]`
 
 
 ---

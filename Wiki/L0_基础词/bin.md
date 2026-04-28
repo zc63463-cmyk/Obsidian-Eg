@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**垃圾桶，废物箱**==；②==**储物箱，容器**==（存放物品的箱子）；③（计算机）二进制；
-**vt.** ①把……扔进垃圾桶；②拒绝，丢弃；
+**n.** ①==**垃圾桶，废物箱**== `N` `[英式]`；②==**储物箱，容器**== `N`（存放物品的箱子）；③==**（计算机）二进制**== `N` `[计算机]`；
+**vt.** ①==**把……扔进垃圾桶**== `V N` `[英式]`；②==**拒绝，丢弃**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：容器，箱子（古英语 *binne*，"manger, crib"）
@@ -132,8 +132,9 @@ bin(容器/箱子，古英语 *binne*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government decided to bin the controversial proposal after widespread public opposition."（在广泛的公众反对之后，政府决定放弃这项有争议的提案。——考研英语阅读社会政策类话题）
-> - "Please sort your waste and place it in the appropriate recycling bin."（请对垃圾进行分类，并将其放入适当的回收箱中。——考研英语翻译环保类话题）
+> - He read the letter quickly, then tossed it into the bin. `[COCA-NEWS]`
+> - The government decided to bin the controversial proposal after widespread public opposition. `[COCA-NEWS]`
+> - Shall I bin these old shoes? `[BNC-SPOKEN]`
 
 
 ---

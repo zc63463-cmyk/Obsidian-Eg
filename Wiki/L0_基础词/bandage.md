@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**绷带**==；
-**v.** ①==**用绷带包扎**==；
+**n.** ①==**绷带**== `apply a N` / `a V-ed hand`；
+**v.** ①==**用绷带包扎**== `V N` / `V N up`；
 
 > [!tip] 原型义
 > **原型义**：用来绑伤口的带子
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Apply a dressing to the wound and bandage it firmly to stop the bleeding."（给伤口盖上敷料并用绷带紧紧包扎以止血——考研翻译医疗话题相关表达）
-> - "He arrived at the hospital with a bandaged hand, explaining that he had injured himself while cooking."（他缠着绷带的手来到医院，解释说是在做饭时受伤的——考研翻译相关表达）
+> - Don't bandage the wound too tightly. [COCA]
+> - His injured leg was all bandaged up. [COCA]
+> - Bystanders bandaged his wound and took him to hospital where he received 20 stitches in his arm. [COCA]
+> - He arrived at the hospital with a bandaged hand, explaining that he had injured himself while cooking. `[例]`
 
 
 ---

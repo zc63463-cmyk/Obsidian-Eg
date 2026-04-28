@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**贫瘠的，不毛的**==；②不育的，不生育的；③无益的，空洞的；
-**n.** ①荒地，不毛之地；
+**adj.** ①==**贫瘠的，不毛的**== `adj`；②不育的，不生育的；③无益的，空洞的；
+**n.** ①==**荒地，不毛之地**== `N`；
 
 > [!tip] 原型义
 > **原型义**：贫瘠的（土地不毛）
@@ -128,8 +128,10 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such a barren desert can support very few creatures."（在这样荒瘠的沙漠里，很少生物能够存活——考研阅读相关语料）
-> - "The once barren hillsides are now good farmland."（昔日荒坡，今日良田——考研翻译相关语料）
+> - "The landscape was barren, with not a tree or shrub in sight." `[COCA-FIC]`
+> - "She became very depressed during the barren years when she was unable to paint." `[COCA-FIC]`
+> - "The once pristine environment is now a barren burned land." `[COCA-NEWS]`
+> - "Many said they love their jobs, and the campus is surprisingly comfy given the remote location and barren landscape." `[COCA-NEWS]`
 
 
 ---

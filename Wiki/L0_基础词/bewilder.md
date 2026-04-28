@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使迷惑，使困惑**==；②使迷失方向；
+**v.** ①==**使迷惑，使困惑**== `V N` `V N by N`；②==**使迷失方向**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：使人在荒野中迷失方向（be- + wilder "引入荒野"）
@@ -126,8 +126,9 @@ be-（使/彻底）+ wilder（引入荒野，源自 wilderness "荒野"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bewildering array of choices on the menu made it hard to decide."（菜单上令人眼花缭乱的选择让人难以决定）
-> - "She was bewildered by the sudden change in his behavior."（他行为的突然变化使她困惑不解）
+> - She was totally bewildered by his sudden change of mood. `[COCA-ACAD]`
+> - His complete lack of interest in money bewilders his family. `[COCA-NEWS]`
+> - The bewildering array of choices on the menu made it hard to decide. `[例]`
 
 
 ---

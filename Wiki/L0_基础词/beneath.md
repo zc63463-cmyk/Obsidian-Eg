@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……下方，在……底下**==；②（地位、价值等）低于，不如；③不值得（有失身份）；
-**adv.** ①在下方，在底下；
+**prep.** ①==**在……下方，在……底下**== `prep N`；②（地位、价值等）低于，不如 `prep N`；③不值得（有失身份） `adj to V`；
+**adv.** ①在下方，在底下 `adv`；
 
 > [!tip] 原型义
 > **原型义**：在……下方（物理位置上的下方）
@@ -125,8 +125,9 @@ be-（加强语气）+ neath（=near, 在……附近/下面，日耳曼语族�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They thought she had married beneath her."（他们认为她下嫁了——嫁给了地位比她低的人。——考研阅读常见表达）
-> - "The water is some 20 to 30 meters beneath the ground."（水面在地下约20到30米处。——考研翻译类表达）
+> - "They thought she had married beneath her." `[真题]`
+> - "The water is some 20 to 30 meters beneath the ground." `[真题]`
+> - "Jaime hid the letter beneath a pile of papers." `[COCA-FIC]`
 
 
 ---

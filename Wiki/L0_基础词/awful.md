@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**极坏的，可怕的**==；②非常的，极大的（口语）；③令人敬畏的（古义）；
+**adj.** ①==**极坏的，可怕的**== `adj N` `be awful`；②非常的，极大的（口语）`an awful lot of N` `awful adj`；③令人敬畏的（古义）；
 
 > [!tip] 原型义
 > **原型义**：充满敬畏的（令人害怕+令人尊敬的）
@@ -128,8 +128,9 @@ awe(敬畏) + -ful(充满...的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The weather was awful during our entire vacation."（我们整个假期天气都很糟糕——考研常见表达）
-> - "It takes an awful lot of courage to stand up for what you believe in."（坚持自己的信念需要极大的勇气）
+> - "He suffered awful injuries in the crash." [COCA]
+> - "It's a good job they didn't go camping last weekend — the weather was awful." [COCA]
+> - "It takes an awful lot of courage to stand up for what you believe in." `[例]`
 
 
 ---

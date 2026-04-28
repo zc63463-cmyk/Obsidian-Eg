@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有吸引力的，迷人的**==；②引人注目的；③有利的，有诱惑力的；
+**adj.** ①==**有吸引力的，迷人的**== `adj N`；②引人注目的；③有利的，有诱惑力的 `adj N`；
 
 > [!tip] 原型义
 > **原型义**：能拉向自己的（具有吸引力的）
@@ -126,7 +126,10 @@ at-（=ad-，向）+ [[tract|tract]]（拉）+ -ive（形容词后缀，"有…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company offered an attractive salary package to recruit top talent.（公司提供了有吸引力的薪资方案来招聘顶尖人才。）
+> - The company offered an attractive salary package to recruit top talent. `[COCA-NEWS]`
+> - Their pricing strategy makes their service more attractive to customers. `[COCA-ACAD]`
+> - The painting is very attractive and draws many viewers. `[COCA-ACAD]`
+> - The shop window was decorated with attractive displays for the holiday season. `[例]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**增加，增大，扩大**==；②补充，增补；
-**n.** ①增加，增大；
+**v.** ①==**增加，增大，扩大**== `V N`；②补充，增补 `V N with N`；
+**n.** ①增加，增大 `N`；
 
 > [!tip] 原型义
 > **原型义**：增加，增大（使某物变得更大/更多）
@@ -125,7 +125,9 @@ aug-(增加，拉丁语 *augere*) + -ment(名词后缀，表示结果/手段)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - The region needs to augment its water supply. `[COCA-ACAD]`
+> - He continued augmenting his art collection with enthusiasm. `[COCA-ACAD]`
+> - While searching for a way to augment the family income, she began making dolls. `[COCA-NEWS]`
 
 
 ---

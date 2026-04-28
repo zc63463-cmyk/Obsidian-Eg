@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**艺术，美术**==；②==**技巧，技艺**==；③==**人文学科**==；④诡计；
-**adj.** ①艺术的（仅用于复合词）；
+**n.** ①==**艺术，美术**== `N` `the art of N`；②==**技巧，技艺**== `the art of N`；③==**人文学科**== `N`；④诡计 `N`；
+**adj.** ①艺术的（仅用于复合词） `adj N`；
 
 > [!tip] 原型义
 > **原型义**：技艺（通过技能创造美的事物）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The art of communication is the language of leadership."（沟通的艺术就是领导力的语言）
-> - "Science and art belong to the whole world, and before them vanish the barriers of nationality."（科学与艺术属于整个世界，在它们面前国界消失——歌德）
+> - The Frick is an art gallery in New York. `[COCA-NEWS]`
+> - Can television and pop music really be considered art? `[COCA-ACAD]`
+> - Drama is an art that is traditionally performed in a theatre. `[COCA-ACAD]`
+> - He never learned the art of saying "Thank you." `[COCA-FIC]`
 
 
 ---

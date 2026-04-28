@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**敬畏，惊叹**==；②令人敬畏的事物；
-**v.** ①使敬畏，使惊叹；
+**n.** ①==**敬畏，惊叹**== `in awe of N` `fill N with awe`；②令人敬畏的事物；
+**v.** ①使敬畏，使惊叹 `be awed by N` `awe N`；
 
 > [!tip] 原型义
 > **原型义**：恐惧与敬畏交织（面对超凡事物时的复杂情感）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The visitors stood in awe of the magnificent cathedral."（游客们对这座宏伟的大教堂肃然起敬——考研常见表达）
-> - "She was awed by the sheer scale of the universe."（她被宇宙的浩瀚所震撼）
+> - "He was in awe of her; she held him spellbound." [COCA]
+> - "I am still awed by his courage." [COCA]
+> - "She gazed in awe at the great stones." [COCA]
 
 
 ---

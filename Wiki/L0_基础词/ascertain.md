@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**查明，确定，弄清**==；②使确定（古义，现少用）；
+**v.** ①==**查明，确定，弄清**== `V N` / `V that-clause`；②使确定（古义，现少用）；
 
 > [!tip] 原型义
 > **原型义**：使确定（从不确定到确定的过程）
@@ -128,8 +128,9 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police are trying to ascertain the cause of the accident."（警方试图查明事故原因——考研阅读高频表达）
-> - "It is difficult to ascertain the exact number of people affected."（很难确定受影响的确切人数——学术写作常见表达）
+> - The police are trying to ascertain the cause of the accident. `[COCA-NEWS]`
+> - It is difficult to ascertain the exact number of people affected. `[COCA-ACAD]`
+> - I ascertained that no one could overhear us before I told Otto the news. `[COCA-ACAD]`
 
 
 ---

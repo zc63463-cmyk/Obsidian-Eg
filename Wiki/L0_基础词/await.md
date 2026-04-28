@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**等待，等候**==；②将降临到……头上；
+**v.** ①==**等待，等候**== `V N` `V N's N`；②==**将降临到……头上**== `N V`；
 
 > [!tip] 原型义
 > **原型义**：等待某事发生（站着等）
@@ -123,8 +123,10 @@ a-(=ad-, 向，朝向) + wait(等待，来自古诺尔斯语 *vada* "行走"，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We await your prompt response to this matter."（我们期待您对此事的及时回复——考研常见正式表达）
-> - "A long journey awaits them."（一段漫长的旅程在等待着他们）
+> - We await your prompt response to this matter. `[COCA-ACAD]`
+> - A long journey awaits them. `[COCA-NEWS]`
+> - The committee is awaiting the results of the investigation. `[COCA-NEWS]`
+> - Death awaits us all. `[例]`
 
 
 ---

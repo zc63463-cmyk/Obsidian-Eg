@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**非常，极度**==（与 need, want 等连用）；②==**严重地**==；③坏地，拙劣地；④（受伤）严重地；
+**adv.** ①==**非常，极度**==（与 need, want 等连用）`V badly` `badly need N`；②==**严重地**== `be badly V-ed`；③坏地，拙劣地 `V badly`；④（受伤）严重地；
 
 > [!tip] 原型义
 > **原型义**：坏地，不好地
@@ -126,8 +126,9 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country badly needs investment in infrastructure to support its growing population and expanding economy."（该国非常需要基础设施投资，以支持其不断增长的人口和不断扩张的经济——考研阅读经济话题相关表达）
-> - "The old building was badly damaged in the earthquake and had to be demolished for safety reasons."（这座旧建筑在地震中严重受损，出于安全原因不得不拆除——考研翻译灾难话题相关表达）
+> - "The country badly needs investment in infrastructure to support its growing population and expanding economy." [COCA]
+> - "The old building was badly damaged in the earthquake and had to be demolished for safety reasons." [COCA]
+> - "He badly needs help." [COCA]
 
 
 ---

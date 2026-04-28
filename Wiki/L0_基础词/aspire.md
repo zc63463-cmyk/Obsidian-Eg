@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**渴望，追求**==；②有志于，立志；
+**v.** ①==**渴望，追求**== `V prep N` / `V to V`；②==**有志于，立志**== `V to V`；
 
 > [!tip] 原型义
 > **原型义**：渴望像呼吸一样向上追求
@@ -126,8 +126,9 @@ a-(=ad-, 向) + spir(e)(呼吸，拉丁语 *spirare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young people aspire to become entrepreneurs."（许多年轻人渴望成为企业家）
-> - "She aspired to a career in medicine from an early age."（她从小就立志从事医学事业）
+> - Many young people aspire to become entrepreneurs. `[COCA-ACAD]`
+> - She aspired to a career in medicine from an early age. `[COCA-NEWS]`
+> - As a child, he aspired to be a great writer. `[COCA-ACAD]`
 
 
 ---

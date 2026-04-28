@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**带子，箍**==；②一帮，一伙，一组；③乐队；④波段，频带；
-**v.** ①==**联合，团结**==；②用带绑扎；
+**n.** ①==**带子，箍**== `rubber N` / `head N`；②==**一帮，一伙，一组**== `a N of N`；③==**乐队**== `rock N` / `jazz N`；④波段，频带；
+**v.** ①==**联合，团结**== `V together`；②用带绑扎；
 
 > [!tip] 原型义
 > **原型义**：捆绑的带子（用来绑东西的条状物）
@@ -137,8 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He persuaded a small band of volunteers to help with the community project."（他说服了一小批志愿者来帮助社区项目——考研翻译相关表达）
-> - "Residents banded together to protest against the construction of a new highway through their neighborhood."（居民们联合起来抗议在他们的社区修建新高速公路——考研阅读社会话题相关表达）
+> - He was a drummer in a rock band. [COCA]
+> - Neighbors banded together to help with child care and held fish fries to raise money for a fire truck. [COCA]
+> - The band played the first few bars. [COCA]
+> - He persuaded a small band of volunteers to help with the community project. `[例]`
 
 
 ---

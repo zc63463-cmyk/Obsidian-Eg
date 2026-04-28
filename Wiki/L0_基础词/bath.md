@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**沐浴，洗澡**==；②==**浴缸，浴室**==；
-**v.** ①==**给……洗澡**==；
+**n.** ①==**沐浴，洗澡**== `take/have a bath`；②==**浴缸，浴室**== `run/fill a bath`；
+**v.** ①==**给……洗澡**== `V N` [英式]；
 
 > [!tip] 原型义
 > **原型义**：浸泡身体以清洁（沐浴的动作或容器）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She takes a warm bath every evening to relieve the stress of the day."（她每天晚上洗个热水澡来缓解一天的压力——考研阅读生活方式话题相关表达）
-> - "The bathroom was small but clean, with a white bath and a single window overlooking the garden."（浴室虽小但很干净，有一个白色的浴缸和一扇俯瞰花园的窗户——考研翻译描述性文本相关表达）
+> - "When she got home she decided she needed a bath." `[COCA-FIC]`
+> - "Susannah has a long hot bath every evening." `[COCA-FIC]`
+> - "It's an established rhythm that before you go to bed you take a bath." `[COCA-NEWS]`
+> - "I lay soaking in a hot bubble bath." `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**野兽，牲畜**==；②凶残的人；③（常作形容词）极坏的，令人厌恶的；
+**n.** ①==**野兽，牲畜**== `a wild beast`；②凶残的人 `a beast`；③（常作形容词）极坏的，令人厌恶的 `beastly adj`；
 
 > [!tip] 原型义
 > **原型义**：野兽（非人类的大型动物）
@@ -122,7 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The novel explores the beast within human nature."（这部小说探索了人性中的兽性。）
+> - "The novel explores the beast within human nature." `[COCA-FIC]`
+> - "They are a beastly people with a beastly religion." `[COCA-ACAD]`
+> - "The H6 is a beast of a job to repair." `[COCA-SPOKEN]`
+> - "The worry we always have is that there will be a really infectious and beastly bug that comes along." `[COCA-NEWS]`
 
 
 ---

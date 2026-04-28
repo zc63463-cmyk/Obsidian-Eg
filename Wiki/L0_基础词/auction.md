@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**拍卖**==；②拍卖会；
-**v.** ①==**拍卖**==；
+**n.** ①==**拍卖**== `N` `prep N`；②拍卖会；
+**v.** ①==**拍卖**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：逐步加价（竞价过程中价格不断增加）
@@ -125,7 +125,10 @@ auc-(=aug-, 增加，拉丁语 *augere* 的过去分词词干 *auctus*) + -tion(
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - She bought the desk at an auction. `[COCA-NEWS]`
+> - The famous auction house sold the rare painting for millions of dollars. `[COCA-NEWS]`
+> - The government auctioned off the seized property to the highest bidder. `[COCA-NEWS]`
+> - They decided to put the old estate up for auction after the owner passed away. `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……后面**==；②==**落后于**==；③==**支持**==（behind someone/something）；④是……的原因；
-**adv.** ①在后面；②落后；
+**prep.** ①==**在……后面**== `prep N`；②==**落后于**== `prep N`；③==**支持**==（behind someone/something） `prep N`；④是……的原因 `prep N`；
+**adv.** ①在后面 `adv`；②落后 `adv`；
 
 > [!tip] 原型义
 > **原型义**：在……后面（空间上的后方位置）
@@ -128,9 +128,9 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The motive behind it is, indeed, very often purely economic rather than vindictive, but this does not ameliorate its harmful impact."（采取这种做法的动机确实往往是纯粹的经济原因而非报复，但这并没有减轻其有害影响——考研阅读高频长难句）
-> - "Nearly 2000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails."（近2000年前，当罗马人开始从苏格兰撤出时，他们留下了一件奇特的宝藏：10吨钉子——2024年英语一Text 1）
-> - "the homefront lags well behind the workplace in making adjustments for working women"（家庭领域在为职业女性做出调整方面远远落后于职场——考研翻译高频句）
+> - "The motive behind it is, indeed, very often purely economic rather than vindictive, but this does not ameliorate its harmful impact." `[真题]`
+> - "Nearly 2000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails." `[真题]`
+> - "What was the reason behind her decision to leave?" `[COCA-SPOKEN]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**conj.** ①==**当……的时候**==；②==**因为，既然**==；③==**像……一样**==；④按照，正如；
-**prep.** ①作为，当作；②像；
+**conj.** ①==**当……的时候**== `conj clause`；②==**因为，既然**== `conj clause`；③==**像……一样**== `conj clause`；④==**按照，正如**== `conj clause`；
+**prep.** ①==**作为，当作**== `prep N`；②像；
 **adv.** ①同样地；②例如；
 **pron.** ①（与 such/the same 连用）那样的人/事；
 
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As the cost of living continues to rise, many families are struggling to make ends meet."（随着生活成本的持续上升，许多家庭正努力维持生计——考研阅读高频表达）
-> - "The report is regarded as a landmark study in the field."（这份报告被认为是该领域的里程碑式研究）
+> - As the cost of living continues to rise, many families are struggling to make ends meet. `[COCA-NEWS]`
+> - The report is regarded as a landmark study in the field. `[COCA-ACAD]`
+> - She works as a waitress to support herself through college. `[COCA-SPOKEN]`
 
 
 ---

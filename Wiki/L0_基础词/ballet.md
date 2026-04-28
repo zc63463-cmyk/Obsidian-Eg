@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**芭蕾舞，芭蕾舞剧**==；②芭蕾舞团；
+**n.** ①==**芭蕾舞，芭蕾舞剧**== `study N` / `N class`；②==**芭蕾舞团**== `the Royal N`；
 
 > [!tip] 原型义
 > **原型义**：小型舞蹈（一种优雅的舞台舞蹈艺术）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has slogged her way through ballet classes since the age of six, dreaming of one day performing on the grand stage."（她从六岁开始就一直努力地学习芭蕾，梦想有一天能在舞台上表演——考研翻译相关表达）
-> - "The performance will include the premiere of three new ballets by the renowned choreographer."（这场演出将包括这位著名编舞家三部新芭蕾舞剧的首演——考研阅读文化话题相关表达）
+> - She was passionate about dance as a child, and her father encouraged her to study ballet when she was 9 or 10. [COCA]
+> - By the age of 15 he had already composed his first ballet. [COCA]
+> - Natalie is, without a doubt, the star student in this year's ballet class. [COCA]
+> - She has slogged her way through ballet classes since the age of six, dreaming of one day performing on the grand stage. `[例]`
 
 
 ---

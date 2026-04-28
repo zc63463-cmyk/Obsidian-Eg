@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**当心，小心**==；②提防，谨防；
+**v.** ①==**当心，小心**== `beware of N` `[祈使]`；②==**提防，谨防**== `beware of V-ing`；
 
 > [!tip] 原型义
 > **原型义**：保持警觉，小心谨慎（be- + ware "警觉的"）
@@ -122,8 +122,9 @@ be-（使/保持）+ ware（谨慎的，警觉的，古英语 *wær*，原始日
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Beware of the man who speaks with a silver tongue."（当心花言巧语的人）
-> - "Consumers should beware of products that make exaggerated claims."（消费者应提防做出夸大宣传的产品）
+> - Beware salespeople who promise offers that seem too good to be true. `[COCA-NEWS]`
+> - We should beware of thinking that the involvement of banks made the system quicker. `[COCA-ACAD]`
+> - Beware of the dog. `[例]`
 
 
 ---

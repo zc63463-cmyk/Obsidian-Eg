@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宴会，盛宴**==；②宴请，款待；
-**vt.** ①宴请，设宴款待；②赴宴；
+**n.** ①==**宴会，盛宴**== `N`；②宴请，款待；
+**vt.** ①==**宴请，设宴款待**== `V N`；②赴宴；
 
 > [!tip] 原型义
 > **原型义**：宴席（正式的大型聚餐）
@@ -132,8 +132,10 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One day, at a banquet in honor of distinguished guests, Cao bid Mi to work as a drummer, just to insult him for fun."（有一天，在为贵宾举办的宴会上，曹操让祢衡击鼓取乐——考研阅读相关语料）
-> - "If a banquet is to be served, the menu must be planned; tables, napery, and table silver must be provided and set up."（如果要举办宴会，必须事先制定菜单，备齐餐桌、餐巾和银器——考研翻译相关语料）
+> - "He was suddenly taken ill at a banquet given in his honour." `[COCA-FIC]`
+> - "Over 1,600 people attended a banquet in her honour." `[COCA-NEWS]`
+> - "It was the organization's annual black-tie awards banquet at a fancy New York City hotel." `[COCA-NEWS]`
+> - "The Lord Mayor attended a state banquet last night." `[COCA-NEWS]`
 
 
 ---

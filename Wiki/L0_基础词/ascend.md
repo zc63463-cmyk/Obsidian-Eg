@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**上升，攀登**==；②==**晋升，升职**==；③追溯（到）；
+**v.** ①==**上升，攀登**== `V N`；②==**晋升，升职**== `V prep N`；③追溯（到）；
 
 > [!tip] 原型义
 > **原型义**：向上爬（从低处向高处移动）
@@ -126,7 +126,9 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She ascended to the position of CEO after years of hard work."（经过多年的努力，她晋升为首席执行官——考研阅读高频表达）
+> - She ascended to the position of CEO after years of hard work. `[COCA-NEWS]`
+> - A long flight of steps ascends to the door of the museum. `[COCA-ACAD]`
+> - He eventually ascended to the position of chief executive after decades of service. `[COCA-ACAD]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**向后的**==（方向朝后）；②==**落后的**==（发展水平低）；③迟钝的，畏缩的；
-**adv.** ①==**向后地**==；②（时间上）倒，回溯；
+**adj.** ①==**向后的**==（方向朝后）`adj N` `a adj N`；②==**落后的**==（发展水平低）`adj N`；③迟钝的，畏缩的；
+**adv.** ①==**向后地**== `V backward`；②（时间上）倒，回溯；
 
 > [!tip] 原型义
 > **原型义**：向后的方向
@@ -131,8 +131,9 @@ back（后背，后面）+ -ward（表示方向的副词/形容词后缀，源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many developing countries are still struggling to overcome backward agricultural practices and modernize their farming methods."（许多发展中国家仍在努力克服落后的农业实践，实现农业现代化——考研阅读发展话题相关表达）
-> - "The government has bent over backward to attract foreign investment, offering tax incentives and streamlined regulations."（政府竭尽全力吸引外资，提供税收优惠和简化法规——考研翻译经济话题相关表达）
+> - "Many developing countries are still struggling to overcome backward agricultural practices and modernize their farming methods." `[例]`
+> - "The government has bent over backward to attract foreign investment, offering tax incentives and streamlined regulations." `[例]`
+> - "She cast a backward glance at the house before getting into the car." [COCA]
 
 
 ---

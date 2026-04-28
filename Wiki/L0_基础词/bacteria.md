@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**细菌**==（复数名词，单数 bacterium）；②（原指）微小的杆状微生物；
+**n.** ①==**细菌**==（复数名词，单数 bacterium）`adj N` `N in N`；②（原指）微小的杆状微生物；
 
 > [!tip] 原型义
 > **原型义**：微小的杆状微生物
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of penicillin by Alexander Fleming in 1928 revolutionized the treatment of bacterial infections and saved countless lives."（亚历山大-弗莱明于1928年发现青霉素，彻底改变了细菌感染的治疗方法，拯救了无数生命——考研阅读医学话题相关表达）
-> - "Harmful bacteria in contaminated food can cause serious illness, which is why proper food handling and cooking are essential."（受污染食物中的有害细菌可导致严重疾病，因此正确的食品处理和烹饪至关重要——考研翻译健康话题相关表达）
+> - "The discovery of penicillin revolutionized the treatment of bacterial infections, saving countless lives." `[COCA-ACAD]`
+> - "Harmful bacteria in contaminated food can cause serious illness." `[COCA-ACAD]`
+> - "Bacteria live almost everywhere, including in soil, water, and the human body." `[COCA-ACAD]`
 
 
 ---

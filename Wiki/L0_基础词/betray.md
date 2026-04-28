@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**背叛，出卖**==；②泄露（秘密），暴露；③无意中暴露（情感）；
+**v.** ①==**背叛，出卖**== `V N` `V N to N`；②==**泄露（秘密），暴露**== `V N`；③==**无意中暴露（情感）**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：将某人交付给敌人（拉丁语 *tradere* 的中古英语演变）
@@ -125,8 +125,9 @@ be-（加强/彻底）+ tray（交付，源自古法语 *trair*，拉丁语 *tra
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He betrayed his country by selling military secrets to the enemy."（他通过向敌人出售军事机密背叛了国家）
-> - "Her trembling voice betrayed her nervousness."（她颤抖的声音暴露了她的紧张）
+> - The president has been accused of betraying his election promises. `[COCA-NEWS]`
+> - She felt betrayed by her mother's lack of support. `[COCA-ACAD]`
+> - His face betrayed the anger he had tried so hard to conceal. `[例]`
 
 
 ---

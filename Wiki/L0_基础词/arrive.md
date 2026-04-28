@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**到达，抵达**==；②==**到来，来临**==（时间、事件）；③==**达成，得出（结论）**==；
+**v.** ①==**到达，抵达**== `V prep N` `V at N`；②==**到来，来临**==（时间、事件） `N V`；③==**达成，得出（结论）**== `V at N`；
 
 > [!tip] 原型义
 > **原型义**：走到岸边靠岸停泊
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When the first European settlers arrived in the Americas, they encountered civilizations that had been thriving for thousands of years."（当第一批欧洲定居者到达美洲时，他们遇到了已经繁荣了数千年的文明——考研阅读历史话题相关表达）
-> - "After months of negotiation, the two parties finally arrived at an agreement that satisfied both sides' core demands."（经过数月的谈判，双方终于达成了一项满足双方核心要求的协议——考研阅读政治话题相关表达）
+> - It was dark by the time we arrived at the station. `[COCA-SPOKEN]`
+> - We arrived in Prague later that day. `[COCA-FIC]`
+> - After months of negotiation, the two parties finally arrived at an agreement. `[例]`
+> - What time does the train usually arrive? `[COCA-SPOKEN]`
 
 
 ---

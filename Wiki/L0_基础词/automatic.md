@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**自动的**==；②无意识的，不假思索的；③必然的，自然的；
-**n.** ①自动变速器（汽车）；②自动武器；
+**adj.** ①==**自动的**== `adj N`；②无意识的，不假思索的 `adj N`；③必然的，自然的 `adj N`；
+**n.** ①自动变速器（汽车） `N`；②自动武器 `N`；
 
 > [!tip] 原型义
 > **原型义**：自己行动的（按自身意志运转的）
@@ -130,8 +130,9 @@ auto-(自己，希腊语 *autos*) + mat(思考/意愿，希腊语 *matos*，thin
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Breathing is an automatic process — you don't have to think about it."（呼吸是一个自动的过程——你不需要刻意去想它。）
-> - "The factory has been fully automated to increase efficiency."（工厂已完全自动化以提高效率。）
+> - Breathing is an automatic process — you don't have to think about it. `[例]`
+> - The factory has been fully automated to increase efficiency. `[例]`
+> - Those drivers should face an automatic charge of manslaughter. `[COCA-NEWS]`
 
 
 ---

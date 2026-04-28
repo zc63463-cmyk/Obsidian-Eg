@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**海湾**==；②月桂树；③隔间，分隔间；④（建筑物的）凸窗；
-**v.** ①（猎犬等）吠叫，咆哮；
+**n.** ①==**海湾**== `N of N`；②月桂树 `bay leaves`；③隔间，分隔间 `a loading/bay window`；④（建筑物的）凸窗 `bay window`；
+**v.** ①（猎犬等）吠叫，咆哮 `V`；
 
 > [!tip] 原型义
 > **原型义**：海湾（陆地凹进去包围海水的地方）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city is located on the shores of a beautiful bay."（这座城市坐落在美丽的海湾之滨——考研英语阅读）
-> - "He managed to keep his illness at bay through regular exercise."（他通过定期锻炼成功地控制住了病情——考研英语阅读高频表达）
+> - "He managed to keep his illness at bay through regular exercise." `[COCA-FIC]`
+> - "The city is located on the shores of a beautiful bay." `[COCA-FIC]`
+> - "A sightseeing tour of the city is included to help you get your bearings." `[COCA-NEWS]`
+> - "She hits the sauna three times a week, followed by an ice bath." `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**电池（组）**==；②炮组，炮台；③一系列，一套；④殴打罪；
+**n.** ①==**电池（组）**== `recharge/replace a battery`；②炮组，炮台 `a battery of guns`；③一系列，一套 `a battery of N`；④殴打罪 `assault and battery`；
 
 > [!tip] 原型义
 > **原型义**：一组击打的东西（集合体，源自拉丁语 *battuere* 击打 + *-ery* 集合后缀）
@@ -128,8 +128,10 @@ batt(=bat-, 击打，拉丁语 *battuere*) + -ery(集合后缀，表示一组)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We give a battery of tests to each patient before treatment."（我们在治疗前给每位病人做一系列测试——考研英语翻译）
-> - "The battery in my phone died after two hours of use."（我的手机电池用了两小时就没电了——考研英语阅读高频表达）
+> - "We were put through a battery of psychological tests." `[COCA-ACAD]`
+> - "He faced a battery of questions from reporters gathered outside his home." `[COCA-NEWS]`
+> - "In the kitchen an impressive battery of stainless steel utensils hangs on the wall." `[COCA-FIC]`
+> - "All the children underwent a battery of tests at regular intervals." `[COCA-ACAD]`
 
 
 ---

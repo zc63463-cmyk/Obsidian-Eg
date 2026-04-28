@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**存在，生存**==；②==**生物，人**==（human being）；
-**v.** ①be 的现在分词（构成进行时）；②be 的动名词（构成名词短语）；
+**n.** ①==**存在，生存**== `N`；②==**生物，人**==（human being） `N`；
+**v.** ①be 的现在分词（构成进行时） `V-ing`；②be 的动名词（构成名词短语） `V-ing`；
 
 > [!tip] 原型义
 > **原型义**：存在（be 的-ing 形式，表示"正在存在"的状态）
@@ -126,9 +126,9 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Being a man has always been dangerous."（做男人一直都是危险的——2000年英语一Text 2）
-> - "If you feel awkward being humorous, you must practice so that it becomes more natural."（如果你觉得自己说起幽默来很生硬，那么你必须多练习，使它变得自然——2002年英语一Text 1）
-> - "Such behaviour is regarded as 'all too human,' with the underlying assumption that other animals would not be capable of this finely developed sense of grievance."（这种行为被视为"人之常情"——2005年英语一Text 1）
+> - "Being a man has always been dangerous." `[真题]`
+> - "If you feel awkward being humorous, you must practice so that it becomes more natural." `[真题]`
+> - "Such behaviour is regarded as 'all too human,' with the underlying assumption that other animals would not be capable of this finely developed sense of grievance." `[真题]`
 
 
 ---

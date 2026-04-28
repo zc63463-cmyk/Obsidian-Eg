@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谷仓；粮仓**==；②牲口棚；③（美）大型简易建筑（如车库）；
-**vt.** ①将……存入谷仓；
+**n.** ①==**谷仓；粮仓**== `N`；②牲口棚；③（美）大型简易建筑（如车库）；
+**vt.** ①==**将……存入谷仓**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：谷仓（储存粮食的木制建筑）
@@ -126,8 +126,10 @@ barn 源自古英语 *berern*，由 *bere*（大麦）+ *ærn*（房屋、存放
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Barns play a vital role in the storage of rice."（谷仓对于稻米的储存起着重要作用——考研阅读相关语料）
-> - "The hay in a barn is kept dry for winter use."（谷仓中的干草保持干燥以备冬季使用——考研完形相关语料）
+> - "The escaped prisoners lay up in a barn for a few weeks, until the search had been called off." `[COCA-FIC]`
+> - "The sheep were penned in behind the barn." `[COCA-FIC]`
+> - "The house, a former barn, has been attractively converted." `[COCA-NEWS]`
+> - "The property includes two fine twelfth-century timber barns, once used for storing grain." `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**资产，财产**==（有价值的或有用的事物）；②==**有价值的人或物**==；③有利条件，优点；
+**n.** ①==**资产，财产**== `N`；②==**有价值的人或物**== `N`；③有利条件，优点；
 
 > [!tip] 原型义
 > **原型义**：足够的，充分的（古法语 *asez*，"enough"）
@@ -128,8 +128,9 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A company's most valuable assets are often its employees, not its physical resources."（一家公司最有价值的资产往往是其员工，而非其物质资源。——考研英语阅读管理类话题）
-> - "Intellectual property has become one of the most important assets in the modern economy."（知识产权已成为现代经济中最重要的资产之一。——考研英语阅读经济法律类话题）
+> - A company's most valuable assets are often its employees, not its physical resources. `[COCA-ACAD]`
+> - Intellectual property has become one of the most important assets in the modern economy. `[COCA-ACAD]`
+> - Her knowledge and experience would make her a priceless asset to the team. `[COCA-NEWS]`
 
 
 ---

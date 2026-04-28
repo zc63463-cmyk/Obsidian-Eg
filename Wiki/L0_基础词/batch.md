@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一批，一组，一群**==（人或物的集合）；②==**（生产过程中的）一批**==（产品）；
-**v.** ①==**分批处理**==（计算机术语）；
+**n.** ①==**一批，一组，一群**== `a batch of N`（人或物的集合）；②==**（生产过程中的）一批**==（产品）；
+**v.** ①==**分批处理**== `V N` [计算机术语]；
 
 > [!tip] 原型义
 > **原型义**：烤炉中一次烘焙的一批面包
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university received a new batch of applications for the graduate program, each of which required careful evaluation."（大学收到了一批新的研究生项目申请，每一份都需要仔细评估——考研阅读教育话题相关表达）
-> - "Modern computer systems use batch processing to handle large volumes of data efficiently, processing records in groups rather than individually."（现代计算机系统使用批处理来高效处理大量数据，以组为单位处理记录而非逐条处理——考研翻译科技话题相关表达）
+> - "We looked at the job applications in two batches." `[COCA-ACAD]`
+> - "I've got a whole batch of applications to read through." `[COCA-ACAD]`
+> - "The first batch of his 119 shirts sold out within two weeks." `[COCA-NEWS]`
+> - "Modern computer systems use batch processing to handle large volumes of data efficiently." `[例]`
 
 
 ---

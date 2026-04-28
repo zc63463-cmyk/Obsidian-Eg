@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**选票，投票**==；②投票表决，投票权；
-**v.** ①==**投票表决**==；②拉选票；
+**n.** ①==**选票，投票**== `cast a N` / `secret N`；②==**投票表决，投票权**== `hold a N` / `by N`；
+**v.** ①==**投票表决**== `V on N` / `V members on whether to V`；②拉选票；
 
 > [!tip] 原型义
 > **原型义**：小球（古代用小球投票）
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The leader will be chosen by secret ballot to ensure fairness and transparency in the election process."（领导者将通过无记名投票选举产生，以确保选举过程的公平和透明——考研阅读政治话题相关表达）
-> - "Workers at the plant held a ballot and rejected the proposed changes to their working conditions."（工厂的工人们进行了投票表决，拒绝了对其工作条件的拟议变更——考研翻译相关表达）
+> - Everyone casts his or her ballot in secret. [COCA]
+> - They decided to hold a ballot. [COCA]
+> - The union said they will ballot members on whether to strike. [COCA]
+> - The leader will be chosen by secret ballot to ensure fairness and transparency in the election process. `[例]`
 
 
 ---

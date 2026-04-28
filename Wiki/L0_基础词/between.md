@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……之间**==；②介于……之间；③连接……，共享；
-**adv.** ①在中间；②当中；
+**prep.** ①==**在……之间**== `between N and N`；②==**介于……之间**== `between N and N`；③==**连接……，共享**== `N between N`；
+**adv.** ①==**在中间**==；②==**当中**==；
 
 > [!tip] 原型义
 > **原型义**：在两者之间（古英语 *betwēonum*，bi- "在" + twēon "二"）
@@ -126,8 +126,9 @@ be-/bi-（在，附近）+ twēon/twīhnum（二，古英语与"two"同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The distinction between the two concepts is crucial for understanding the theory."（这两个概念之间的区别对于理解该理论至关重要）
-> - "There is a fine line between confidence and arrogance."（自信与傲慢之间只有一线之隔）
+> - The town lies halfway between Rome and Florence. `[COCA-ACAD]`
+> - There is a fine line between confidence and arrogance. `[例]`
+> - Let's keep this between us. `[BNC-SPOKEN]`
 
 
 ---

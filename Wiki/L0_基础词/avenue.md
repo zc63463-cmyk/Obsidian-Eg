@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**林荫道，大街**==；②途径，渠道，手段；
+**n.** ①==**林荫道，大街**== `N`；②途径，渠道，手段 `N`；
 
 > [!tip] 原型义
 > **原型义**：走向某处的方式（通道、途径）
@@ -126,8 +126,9 @@ a-(=ad-, 向，朝向) + [[ven-vent|ven]](来，来自拉丁语 *venire*) + -ue(
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We must explore every avenue before giving up on the project."（在放弃这个项目之前，我们必须探索一切可能的途径——考研常见表达）
-> - "The government is opening new avenues for foreign investment."（政府正在为外国投资开辟新途径）
+> - We must explore every avenue before giving up on the project. `[例]`
+> - The police say it was a complex investigation and they had to explore all avenues. `[COCA-NEWS]`
+> - Big data is opening up new avenues of understanding and activity for companies. `[COCA-NEWS]`
 
 
 ---

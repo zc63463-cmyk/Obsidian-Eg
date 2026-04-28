@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**斧头**==；
-**v.** ①削减，裁减（经费、人员等）；②用斧劈；
+**n.** ①==**斧头**== `N`；
+**v.** ①削减，裁减（经费、人员等）`ax N` `get the ax`；②用斧劈；
 
 > [!tip] 原型义
 > **原型义**：斧头（劈砍工具）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company axed 500 jobs in an effort to cut costs."（公司为了削减成本裁减了500个岗位——考研常见表达）
-> - "Several programs got the ax in the new budget proposal."（在新预算提案中，几个项目被砍掉了）
+> - "The company has already axed 14 people, and many more may lose their jobs." [COCA]
+> - "Three staff members got the ax yesterday." [COCA]
+> - "Yesterday the airline axed three of its daily flights to Chicago." [COCA]
 
 
 ---
