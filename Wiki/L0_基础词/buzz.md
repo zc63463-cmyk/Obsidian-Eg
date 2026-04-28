@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**嗡嗡声**==；②嘈杂的谈话声；③兴奋，激动（口语）；
-**v.** ①发出嗡嗡声；②忙乱，急行；③（电话）给……打电话；
+**n.** ①==**嗡嗡声**== `the buzz of N`；②==**嘈杂的谈话声**== `a buzz of voices/conversation`；③==**兴奋，激动**== `create/generate a buzz` `give someone a buzz` [口语]；
+**v.** ①==**发出嗡嗡声**== `buzz with N`；②==**忙乱，急行**== `buzz around`；③==**给……打电话**== `give someone a buzz` [口语]；
 
 > [!tip] 原型义
 > **原型义**：蜜蜂嗡嗡叫（低沉的嗡嗡声）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new product has created quite a buzz in the market."（这款新产品在市场上引起了相当大的关注——考研常见表达）
-> - "The room was filled with the buzz of excited conversation."（房间里充满了兴奋交谈的嗡嗡声）
+> - The firm was easing up its deal pace in 2022, but generative AI technology had the kind of buzz that exceptions could be made. `[COCA-NEWS]`
+> - There was a buzz of voices in the hall as the audience waited for the show to start. `[COCA-FICT]`
+> - The capital is buzzing with rumours of possible demonstrations. `[COCA-NEWS]`
+> - Performing still gives him a buzz. `[COCA-NEWS]`
 
 
 ---

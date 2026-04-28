@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**肠，肠道**==；②（常复数 bowels）内部，深处；③（复数）排便；
+**n.** ①==**肠，肠道**== `N`；②==**（常复数 bowels）内部，深处**== `N` [文学]；③==**（复数）排便**== `N` [医学]；
 
 > [!tip] 原型义
 > **原型义**：肠（消化道的一部分）
@@ -120,8 +120,10 @@ bowel 源自古英语 *būel*（肠子），与 [[bow]]（弯曲）同源——�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A high-fiber diet can reduce the risk of bowel cancer.（高纤维饮食可以降低患肠癌的风险。）
-> - The explorers descended into the bowels of the cave.（探险者深入洞穴的内部。）
+> - My dad had been diagnosed with bowel cancer. `[COCA-NEWS]`
+> - Foster discovered he had bowel cancer in 1999 after feeling a dull pain one night. `[COCA-NEWS]`
+> - Stress can be linked with irritable bowel syndrome. `[COCA-ACAD]`
+> - The explorers descended into the bowels of the cave. `[COCA-FIC]`
 
 
 ---

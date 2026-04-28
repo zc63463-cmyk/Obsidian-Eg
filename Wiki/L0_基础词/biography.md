@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**传记**==（关于某人生活的详细记述）；②==**传记文学**==（传记这种文体）；
+**n.** ①==**传记**== `a biography of N` `V a biography`（关于某人生活的详细记述）；②==**传记文学**== `biography as N`（传记这种文体）；
 
 > [!tip] 原型义
 > **原型义**：生命的书写（希腊语 *biographia*，"the writing of a life"）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The biography of Abraham Lincoln remains one of the most widely read books in American history."（亚伯拉罕·林肯的传记仍然是美国历史上被广泛阅读的书籍之一。——考研英语阅读历史人物类话题）
-> - "She has published a highly acclaimed biography of the former prime minister."（她出版了一部备受赞誉的前首相传记。——考研英语阅读文学类话题）
+> - "The biography of Abraham Lincoln remains one of the most widely read books in American history." `[例]`
+> - "She has published a highly acclaimed biography of the former prime minister." `[例]`
+> - "He spent the rest of his life writing biographies of political leaders." `[COCA-ACAD]`
+> - "Critics regularly mutter about how hard it is to write literary biography in the twenty-first century." `[COCA-NEWS]`
 
 
 ---

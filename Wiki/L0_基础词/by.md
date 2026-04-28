@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……旁边，靠近**==；②被，由（被动语态）；③通过，以……方式；④到……为止，不迟于；⑤按照，根据；
-**adv.** ①在旁边；②经过；
+**prep.** ①==**在……旁边，靠近**== `by N` `sit/stand by N`；②==**被，由**== `V-ed by N` [被动]；③==**通过，以……方式**== `by V-ing` `by N`；④==**到……为止，不迟于**== `by time` `by the end of N`；⑤==**按照，根据**== `by N`；
+**adv.** ①==**在旁边**== `come/go by`；②==**经过**== `pass/go by`；
 
 > [!tip] 原型义
 > **原型义**：在旁边（空间上的靠近）
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "By no means should we ignore the importance of education."（我们绝不应忽视教育的重要性——考研高频倒装句型）
-> - "The problem was solved by means of advanced technology."（这个问题通过先进技术得到了解决——考研常见表达）
+> - She is by no means an inexperienced teacher. `[COCA-ACAD]`
+> - The load was lifted by means of a crane. `[COCA-ACAD]`
+> - They had entered the country by unlawful means. `[COCA-NEWS]`
+> - The window was our only means of escape. `[COCA-FICT]`
 
 
 ---

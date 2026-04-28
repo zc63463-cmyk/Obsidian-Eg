@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**卡路里**==（热量单位）；②（复数）卡路里（食物的热量含量）
+**n.** ①==**卡路里**== `N of N` [科学]（热量单位）；②==**卡路里（食物热量含量）**== `pl. N` [日常]（复数）卡路里（食物的热量含量）；
 
 > [!tip] 原型义
 > **原型义**：热（使物体变暖的能量）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People who are trying to lose weight often count calories carefully."（试图减肥的人通常会仔细计算卡路里——考研英语阅读健康类话题）
-> - "A single gram of fat contains nine calories, while a gram of protein or carbohydrate contains four."（一克脂肪含有九卡路里，而一克蛋白质或碳水化合物含有四卡路里——考研翻译相关表达）
+> - An average adult needs approximately 2,000 calories a day to maintain their weight. `[COCA-ACAD]`
+> - A single gram of fat contains nine calories, while a gram of protein or carbohydrate contains four. `[真题]`
+> - People who are trying to lose weight often count calories carefully. `[COCA-NEWS]`
 
 
 ---

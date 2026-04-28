@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**钝的，不锋利的**==；②==**直率的，直言不讳的**==；③（感觉、味觉）迟钝的；
-**vt.** ①==**使变钝**==；②==**使减弱**==；
+**adj.** ①==**钝的，不锋利的**== ``a blunt knife / instrument`` ``blunt edge``；②==**直率的，直言不讳的**== ``to be blunt`` ``blunt criticism``；③（感觉、味觉）迟钝的；
+**vt.** ①==**使变钝**== ``blunt the edge``；②==**使减弱**== ``blunt the pain / impact``；
 
 > [!tip] 原型义
 > **原型义**：钝的，不锋利的（古英语 *blunt*，"dull, blunt"）
@@ -132,8 +132,10 @@ blunt(钝的/直率的，古英语 *blunt*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To be blunt, the company's financial performance has been disappointing over the past two quarters."（坦白说，公司过去两个季度的财务表现令人失望。——考研英语阅读商业类话题，to be blunt 高频表达）
-> - "The blunt criticism from the review panel forced the researchers to reconsider their methodology."（评审组的直率批评迫使研究人员重新考虑他们的方法论。——考研英语阅读学术类话题）
+> - To be perfectly blunt, I don't think he can do it. ``[Merriam-Webster]``
+> - The victim was hit on the head with a blunt object. ``[Longman Corpus]``
+> - She told the industry in blunt terms that such discrimination is totally unacceptable. ``[Collins Corpus]``
+> - His response was a blunt "no." ``[Longman Corpus]``
 
 
 ---

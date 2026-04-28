@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抵制，拒绝参与**==；
-**n.** ①==**抵制行动**==；
+**v.** ①==**抵制，拒绝参与**== `V N`；
+**n.** ①==**抵制行动**== `N of N`；
 
 > [!tip] 原型义
 > **原型义**：抵制（拒绝购买或参与，以示抗议）
@@ -125,8 +125,10 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Consumers are boycotting products from companies that use child labor.（消费者正在抵制使用童工的公司的产品。）
-> - The opposition parties called for a boycott of the election.（反对党呼吁抵制选举。）
+> - Motorists boycotted the company's gas stations and its share price crashed. `[COCA-NEWS]`
+> - Opposition parties boycotted the elections, citing restrictions on political freedoms. `[COCA-NEWS]`
+> - The union called on its members to boycott the meeting. `[COCA-NEWS]`
+> - Students have threatened to boycott certain banks as a protest at their investment policies. `[COCA-NEWS]`
 
 
 ---

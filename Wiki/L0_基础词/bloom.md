@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**花，花朵**==；②==**开花（期）**==；③==**青春焕发，繁盛时期**==；
-**vi.** ①==**开花**==；②==**繁荣，兴旺**==；③青春焕发；
+**n.** ①==**花，花朵**== `N`；②==**开花（期）**== `in N`；③==**青春焕发，繁盛时期**== `in the N of N`；
+**vi.** ①==**开花**== `V`；②==**繁荣，兴旺**== `V`；③青春焕发；
 
 > [!tip] 原型义
 > **原型义**：花朵，开花（古诺斯语 *blóm*，"flower, blossom"）
@@ -133,8 +133,9 @@ bloom(花/开花，古诺斯语 *blóm*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cherry trees were in full bloom, attracting thousands of visitors to the park."（樱花正值盛放期，吸引了数千名游客来到公园。——考研英语阅读描写类话题）
-> - "Her talent bloomed under the guidance of her mentor, and she soon became one of the most promising artists of her generation."（在导师的指导下，她的才华得以绽放，很快成为那一代最有前途的艺术家之一。——考研英语阅读人物传记类话题）
+> - "Roses in bloom are a beautiful sight." `[COCA-ACAD]`
+> - "Rimbaud's poetic genius bloomed early." `[COCA-ACAD]`
+> - "She bloomed into an utterly beautiful creature." `[例]`
 
 
 ---

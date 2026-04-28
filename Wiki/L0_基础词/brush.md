@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**刷，梳**==；②轻擦，掠过；③拒绝理会，不顾；
-**n.** ①==**刷子，画笔**==；②轻擦，接触；③灌木丛；④小冲突；
+**v.** ①==**刷，梳**== `V N` `brush one's teeth/hair`；②==**轻擦，掠过**== `brush past/against N`；③==**拒绝理会，不顾**== `brush sb/sth off` `brush sth aside`；
+**n.** ①==**刷子，画笔**== `a toothbrush/paintbrush`；②==**轻擦，接触**== `a brush with death`；③==**灌木丛**== `brush fire`；④==**小冲突**== `a brush with the law`；
 
 > [!tip] 原型义
 > **原型义**：用刷子扫过表面（带毛工具快速掠过）
@@ -130,7 +130,10 @@ brush（源自中古英语 *brussh*，可能来自古法语 *broisse*，灌木�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - He brushed aside her concerns and proceeded with his plan. `[COCA-NEWS]`
+> - She brushed off his comments and continued with her work. `[COCA-FIC]`
+> - Johnson brushed the hairs from his jacket. `[COCA-FIC]`
+> - He'd had a few brushes with the police. `[COCA-NEWS]`
 
 
 ---

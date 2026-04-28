@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**祝福，保佑**==；②（上帝）赐福于；③赋予，使有幸得到；
+**vt.** ①==**祝福，保佑**== `V N` `God V N`；②==**（上帝）赐福于**== `V N`；③==**赋予，使有幸得到**== `be V-ed with N` `V N with N`；
 
 > [!tip] 原型义
 > **原型义**：祝圣，献祭（用血涂抹以使之神圣）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is blessed with both beauty and intelligence."（她既有美貌又有智慧——考研翻译常见表达）
-> - "We should count our blessings rather than complain about what we lack."（我们应该感恩所拥有的，而不是抱怨所缺少的——考研阅读常见话题）
+> - The priest blessed their marriage at the wedding. `[COCA-NEWS]`
+> - The islands are blessed with eco-friendly accommodation and unspoilt nature. `[COCA-NEWS]`
+> - We should be grateful that we are so blessed. `[BNC-SPOKEN]`
+> - May God bless you and keep you safe. `[例]`
 
 
 ---

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**毯子，毛毯**==；②==**厚厚的覆盖层**==（如积雪层）
-**adj.** ①==**总括的，全面的**==（不加区分的，适用于整体的）；② blanket ban/coverage
-**v.** ①==**覆盖，笼罩**==（用毯子般的东西覆盖）
+**n.** ①==**毯子，毛毯**== `under the blanket / wrap in a blanket`；②==**厚厚的覆盖层**== `a blanket of snow/fog`（如积雪层）
+**adj.** ①==**总括的，全面的**== `a blanket ban / blanket coverage`（不加区分的，适用于整体的）；② blanket ban/coverage
+**v.** ①==**覆盖，笼罩**== `be blanketed by / with`（用毯子般的东西覆盖）
 
 > [!tip] 原型义
 > **原型义**：白色小毛布（覆盖全身的织物，源自 [[blank]] + -et）
@@ -133,8 +133,10 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government imposed a blanket ban on all forms of tobacco advertising in an effort to reduce smoking rates."（政府出台了全面禁止一切形式烟草广告的禁令，以降低吸烟率——考研英语阅读，公共政策话题）
-> - "A thick blanket of fog covered the coastal areas, causing severe disruptions to shipping and air travel."（浓雾笼罩了沿海地区，导致航运和航空出行严重受阻——考研英语阅读，自然环境话题）
+> - It is tempting to support a blanket ban on junk food advertising. ` `[外刊]`
+> - The mud disappeared under a blanket of snow. ` `[语料库]`
+> - With a thick mist now blanketing the trees, I got thoroughly lost. ` `[语料库]`
+> - Peaty is typically forthright but has mixed feelings about blanket bans for nations. ` `[外刊]`
 
 
 ---

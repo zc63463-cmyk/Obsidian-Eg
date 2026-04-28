@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生物学**==（研究生命和生物体的科学）；②==**生物学特性**==（某个物种的生物学特征）；
+**n.** ①==**生物学**== `N of N` `adj N`（研究生命和生物体的科学）；②==**生物学特性**== `the N of N`（某个物种的生物学特征）；
 
 > [!tip] 原型义
 > **原型义**：对生命的研究（希腊语 *biologia*，"the study of living things"）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Advances in molecular biology have revolutionized our understanding of genetic diseases."（分子生物学的进步彻底改变了我们对遗传疾病的理解。——考研英语阅读科技类话题）
-> - "The biology of aging is a complex process influenced by both genetic and environmental factors."（衰老的生物学是一个受遗传和环境因素共同影响的复杂过程。——考研英语阅读医学健康类话题）
+> - "Advances in molecular biology have revolutionized our understanding of genetic diseases." `[COCA-ACAD]`
+> - "The biology of aging is a complex process influenced by both genetic and environmental factors." `[COCA-ACAD]`
+> - "She studied biology at university and later specialized in marine biology." `[COCA-ACAD]`
+> - "Researchers are still trying to figure out whether this is due to biology or behaviour." `[COCA-NEWS]`
 
 
 ---

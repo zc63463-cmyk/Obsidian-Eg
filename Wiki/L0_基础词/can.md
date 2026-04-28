@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**罐头，金属罐**==；②容器；③（美）垃圾筒；
-**v.** ①==**能够，可以**==（助动词）；②把……装罐；
+**n.** ①==**罐头，金属罐**== `N` [日常]；②容器；③（美）垃圾筒；
+**v.** ①==**能够，可以**== `aux. V` [日常]（助动词）；②==**把……装罐**== `V N` [日常]；
 **n.** ①厕所（俚语）；
 
 > [!tip] 原型义
@@ -130,8 +130,9 @@ can 作为名词"罐头"源自19世纪，可能是 canister（小罐）的缩写
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My father canned those salted salmons for the long trip."（为了这次长途旅行，我父亲将那些腌制后的三文鱼装了罐——考研翻译相关语料）
-> - "Nobody can escape from the punishment if he breaks the law."（如果一个人违法的话，那他是不可能逃脱制裁的——考研阅读相关语料，此处 can 为助动词）
+> - I had a can of soup for lunch. `[COCA-FIC]`
+> - The floor was littered with empty food cans. `[COCA-NEWS]`
+> - Nobody can escape from the punishment if he breaks the law. `[真题]`
 
 
 ---

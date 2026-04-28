@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**黄铜**==；②黄铜制品；③（the brass）（口语）高级军官，当权者；
+**n.** ①==**黄铜**== `polished brass` / `brass fittings`；②黄铜制品 `brass instruments` / `brass door handle`；③（the brass）（口语）高级军官，当权者 `the top brass` / `Navy brass`；
 **adj.** ①黄铜制的；
 
 > [!tip] 原型义
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The top brass in the military met to discuss the new strategy."（军方高层开会讨论新战略）
-> - "She plays the trumpet in a brass band."（她在铜管乐队中吹小号）
+> - Navy brass met earlier today to discuss the new deployment strategy. `[Britannica]`
+> - He's one of the best brass players in the orchestra. `[Britannica]`
+> - He wore a belt with a large brass buckle. `[Collins]`
 
 
 ---

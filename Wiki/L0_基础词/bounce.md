@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**弹跳，反弹**==；②（使）弹起；③（支票）被拒付退回；④跳来跳去，蹦蹦跳跳；
-**n.** ①弹跳，反弹；②弹性；③活力，精力；
+**v.** ①==**弹跳，反弹**== `V; V N`；②==**（使）弹起**== `V N; V`；③==**（支票）被拒付退回**== `V` [金融]；④==**跳来跳去，蹦蹦跳跳**== `V` [口语]；
+**n.** ①==**弹跳，反弹**== `N`；②==**弹性**== `N`；③==**活力，精力**== `N` [比喻]；
 
 > [!tip] 原型义
 > **原型义**：撞击后弹起（物理弹跳动作）
@@ -130,7 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economy is expected to bounce back next year."（预计经济明年将反弹复苏）
+> - The ball bounced off the post and into the goal. `[COCA-NEWS]`
+> - She gave me a check for twenty dollars, but the check bounced. `[COCA-FIC]`
+> - The economy is expected to bounce back next year. `[COCA-NEWS]`
+> - The kids were bouncing a ball against the wall. `[COCA-FIC]`
 
 
 ---

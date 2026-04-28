@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**骆驼**==；②驼色，浅棕色；③（纺）驼绒；
+**n.** ①==**骆驼**== `N` [日常]；②==**驼色，浅棕色**== `adj. N` [日常]；③==**驼绒**== `N` [纺织]；
 
 > [!tip] 原型义
 > **原型义**：骆驼（沙漠中的驮兽）
@@ -124,8 +124,9 @@ camel 源自古法语 *camel*，来自拉丁语 *camelus*，来自希腊语 *kam
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The camel's feet, well adapted for dry sand, are useless on mud."（骆驼的蹄子虽然非常适合在干沙上行走，碰到泥泞时却无计可施——考研阅读相关语料）
-> - "It is a wonderful experience to travel through the desert by camel."（骑坐骆驼穿越沙漠旅行是一次了不起的体验——考研翻译相关语料）
+> - The camel walked across the desert with a steady pace. `[COCA-ACAD]`
+> - The camel's hump is used to store fat for long journeys across the desert. `[COCA-MAG]`
+> - In the deserts of Asia and northern Africa, the animal most commonly used in caravans was the camel. `[COCA-ACAD]`
 
 
 ---

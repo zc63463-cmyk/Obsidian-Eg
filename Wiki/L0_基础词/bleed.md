@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**流血**==；②勒索……的钱，榨取（俚语/引申）；③给……放血（医疗）；
-**vt.** ①==**勒索，榨取**==；
+**vi.** ①==**流血**== `V` `V heavily/profusely`；②==**勒索……的钱，榨取**== `V N` [俚语]；③==**给……放血**== `V N` [医疗]；
+**vt.** ①==**勒索，榨取**== `V N` `V N dry`；
 
 > [!tip] 原型义
 > **原型义**：流血（血液从伤口流出身体）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was bled dry by excessive taxation."（公司被过度的税收榨干了——考研阅读常见表达）
-> - "My heart bleeds for the victims of the disaster."（我为灾难受害者感到心痛——考研翻译常见话题）
+> - The company was bled dry by excessive taxation. `[COCA-NEWS]`
+> - My heart bled for the blokes who had struggled with this for real. `[BNC-SPOKEN]`
+> - Higher energy costs are bleeding into inflation. `[COCA-NEWS]`
+> - He was bleeding profusely from a wound in his leg. `[例]`
 
 
 ---

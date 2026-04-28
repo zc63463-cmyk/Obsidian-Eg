@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（巨大的）体积，大量**==；②主体，大部分；③巨大的体重/身躯；
-**v.** ①显得庞大；
+**n.** ①==**（巨大的）体积，大量**== `the sheer bulk of N`；②==**主体，大部分**== `the bulk of N`；③==**巨大的体重/身躯**== `a man of enormous bulk`；
+**v.** ①==**显得庞大**== `bulk large in sth`；
 
 > [!tip] 原型义
 > **原型义**：大堆货物（船上的散装货物）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bulk of the population lives in urban areas."（大部分人口居住在城市地区——考研常见表达）
-> - "The sheer bulk of the evidence points to his innocence."（大量证据表明他是无辜的）
+> - The bulk of the population lives in urban areas. `[COCA-ACAD]`
+> - I was amazed by the sheer bulk of the creature. `[COCA-FIC]`
+> - The bulk of the funds are supplied by some of America's largest and most powerful corporations. `[COCA-NEWS]`
+> - It's cheaper to buy in bulk. `[COCA-NEWS]`
 
 
 ---

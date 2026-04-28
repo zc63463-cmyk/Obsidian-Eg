@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**微风，和风**==；②容易做的事；
-**v.** ①==**轻盈而自信地走**==；②轻松通过；
+**n.** ①==**微风，和风**== `a adj N`；②容易做的事 `N`；
+**v.** ①==**轻盈而自信地走**== `V`；②轻松通过 `V through N`；
 
 > [!tip] 原型义
 > **原型义**：轻柔的微风（温和、令人舒适的风）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She breezed through the interview and got the job."（她轻松通过了面试并得到了这份工作）
-> - "A gentle breeze was blowing from the ocean."（一阵和风从海上吹来）
+> - "She breezed through the interview and got the job." `[COCA-FIC]`
+> - "A gentle breeze was blowing from the ocean." `[COCA-FIC]`
+> - "She had missed the smell of the sea, the salty tang to the breeze that brushed her cloak and her hair." `[COCA-FIC]`
+> - "Crickets were singing loudly up here, and a gentle breeze stirred the leaves of the cypresses." `[COCA-FIC]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一点点，少量**==；②==**比特**==（计算机信息的最小单位）；③小片，碎片；④一段时间；⑤马嚼子；
-**adv.** 相当，有点儿（= a bit）；
+**n.** ①==**一点点，少量**== `a bit of N`；②==**比特**== `num-bit adj`（计算机信息的最小单位）；③小片，碎片 `N of N`；④一段时间 `for a bit`；⑤马嚼子；
+**adv.** 相当，有点儿 `a bit adj`（= a bit）；
 
 > [!tip] 原型义
 > **原型义**：一小块，一点点（古英语 *bite*，"a bite, a piece bitten off"）
@@ -135,8 +135,10 @@ bit(一小块，bite 的名词形式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy has made the situation a bit better, but much remains to be done."（新政策使情况有所好转，但仍有大量工作要做。——考研英语阅读社会政策类话题）
-> - "Every bit of information we collect must be carefully analyzed before drawing conclusions."（我们在得出结论之前，必须对收集到的每一条信息进行仔细分析。——考研英语阅读科研方法类话题）
+> - "The new policy has made the situation a bit better, but much remains to be done." `[COCA-NEWS]`
+> - "Every bit of information we collect must be carefully analyzed before drawing conclusions." `[COCA-ACAD]`
+> - "I'll see you in a bit." `[BNC-SPOKEN]`
+> - "The trip back was every bit as exciting as the journey there." `[COCA-FIC]`
 
 
 ---

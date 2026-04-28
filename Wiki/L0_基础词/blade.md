@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**刀刃，刀片**==；②==**叶片**==（草、植物）；③==**桨叶**==；④==**肩胛骨**==；
+**n.** ①==**刀刃，刀片**== `the blade of N` `N blade`；②==**叶片**== `a blade of N`（草、植物）；③==**桨叶**== `N blade`；④==**肩胛骨**== `shoulder blade`；
 
 > [!tip] 原型义
 > **原型义**：叶子（植物扁平的部分，延伸为一切扁平的切割工具，源自古英语 *blæd*）
@@ -128,8 +128,9 @@ blade 源自古英语 *blæd*（叶子，草叶），源自原始日耳曼语 *\
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Not a blade of grass stirred in the still air."（在静止的空气中，没有一片草叶在动。——通用例句）
-> - "The surgeon used a sharp blade to make the incision."（外科医生用锋利的刀片做了切口。——通用例句）
+> - "Not a blade of grass stirred in the still air." `[COCA-FIC]`
+> - "The surgeon used a sharp blade to make the incision." `[COCA-ACAD]`
+> - "He screamed as the blade sliced into his leg." `[COCA-FIC]`
 
 
 ---

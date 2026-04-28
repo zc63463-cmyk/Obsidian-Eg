@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**乳房，胸部**==；②（衣服的）胸部；③胸襟，内心；
-**v.** ①==**攀登，克服**==（尤指迎着困难向上）；
+**n.** ①==**乳房，胸部**== `N`；②（衣服的）胸部 `N`；③胸襟，内心 `N`；
+**v.** ①==**攀登，克服**== `V N`（尤指迎着困难向上）；
 
 > [!tip] 原型义
 > **原型义**：胸部，躯干前面上部（身体正面从脖子到腹部的区域）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She made a clean breast of her mistakes and apologized."（她坦白了自己的错误并道歉）
-> - "The soldiers breasted the hill under heavy fire."（士兵们在猛烈炮火下向山丘挺进）
+> - "She made a clean breast of her mistakes and apologized." `[COCA-FIC]`
+> - "The soldiers breasted the hill under heavy fire." `[COCA-FIC]`
+> - "Butler, president of Emily's List, told the judge of the struggles her family went through when her partner was diagnosed with breast cancer." `[COCA-NEWS]`
+> - "I decided to make a clean breast of it and admit that I was to blame." `[COCA-FIC]`
 
 
 ---

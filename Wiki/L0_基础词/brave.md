@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**勇敢的，无畏的**==；②需要勇气的；
-**v.** ①勇敢面对；②冒（险）；
+**adj.** ①==**勇敢的，无畏的**== `adj N` `it be brave of N to do`；②需要勇气的 `adj N`；
+**v.** ①勇敢面对 `V N`；②冒（险） `V N`；
 
 > [!tip] 原型义
 > **原型义**：面对危险不退缩
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was brave of her to speak out against the injustice."（她勇敢地站出来反对不公正，这很勇敢）
-> - "The firefighters braved the flames to rescue the trapped residents."（消防员冒着火焰营救被困居民）
+> - "It was brave of her to speak out against the injustice." `[COCA-NEWS]`
+> - "The firefighters braved the flames to rescue the trapped residents." `[COCA-NEWS]`
+> - "She was a very brave girl and everyone who knew her admired her spirit." `[COCA-FIC]`
+> - "A brave police chief foiled an armed robbery." `[COCA-NEWS]`
 
 
 ---

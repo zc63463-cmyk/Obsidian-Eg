@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**一定的，必然的**==；②==**受约束的，有义务的**==；③开往……的；④被束缚的；
-**v.** ①跳跃，弹跳；②形成……的边界；
-**n.** ①跳跃；②（常 pl.）界限，限制；
+**adj.** ①==**一定的，必然的**== `adj. to do; adj. for`；②==**受约束的，有义务的**== `adj. by N; adj. to do`；③==**开往……的**== `adj. for N`；④==**被束缚的**== `adj.`；
+**v.** ①==**跳跃，弹跳**== `V`；②==**形成……的边界**== `V N`；
+**n.** ①==**跳跃**== `N`；②==**（常 pl.）界限，限制**== `N`；
 
 > [!tip] 原型义
 > **原型义**：绑缚（用带子绑住，限制行动）
@@ -135,8 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In a society that is bound by laws, everyone must follow the rules."（在一个受法律约束的社会中，每个人都必须遵守规则）
-> - "The future of the company is bound up with the success of this project."（公司的未来与这个项目的成功密切相关）
+> - You're bound to feel nervous about your interview. `[COCA-SPOK]`
+> - The ship was bound for Italy when the storm hit. `[COCA-FIC]`
+> - In a society that is bound by laws, everyone must follow the rules. `[COCA-ACAD]`
+> - The area is bounded by Oxford Street to the north and Leicester Square to the south. `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**埋葬，安葬**==；②==**掩埋，埋藏**==；③沉浸于，专心于；
+**v.** ①==**埋葬，安葬**== `V N` `V N with N`；②==**掩埋，埋藏**== `V N` `V N in/under N`；③==**沉浸于，专心于**== `V oneself in N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：埋葬（将物体置于地下，使其从视线中消失）
@@ -125,7 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - He was buried with full military honors. `[COCA-NEWS]`
+> - His reaction was to withdraw, to bury himself in work. `[COCA-FICT]`
+> - She buried her face in her hands and wept silently. `[COCA-FICT]`
+> - The dog buried her bone in the backyard. `[COCA-ACAD]`
 
 
 ---

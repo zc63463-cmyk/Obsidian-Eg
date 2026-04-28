@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**广播，播送**==；②散布，传播；
-**n.** ①==**广播节目**==；②广播，播送；
-**adj.** ①==**广播的**==；
+**v.** ①==**广播，播送**== `V N` `broadcast a program`；②==**散布，传播**== `broadcast the news`；
+**n.** ①==**广播节目**== `a live broadcast`；②==**广播，播送**== `radio/TV broadcast`；
+**adj.** ①==**广播的**== `broadcasting station`；
 
 > [!tip] 原型义
 > **原型义**：广泛播撒（将种子/信息向四面八方散播）
@@ -130,7 +130,10 @@ broad(广泛，古英语 *brād*) + cast(投掷，播撒，古诺尔斯语 *kast
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - The concert was broadcast live over the Internet. `[COCA-NEWS]`
+> - Local radio stations serving coastal areas often broadcast forecasts for yachtsmen. `[COCA-NEWS]`
+> - The channel broadcasts to millions of homes in the south of the country. `[COCA-NEWS]`
+> - The live broadcast of the concert attracted millions of viewers. `[COCA-NEWS]`
 
 
 ---

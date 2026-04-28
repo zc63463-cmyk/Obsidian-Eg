@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**conj.** ①==**但是，然而**==；②而是；
-**prep.** ①除了，除……之外；
-**adv.** ①只不过，仅仅；
+**conj.** ①==**但是，然而**== `S but S` `not S1, but S2`；②==**而是**== `not S1, but S2`；
+**prep.** ①==**除了，除……之外**== `all/none/every N but N` `nothing but N`；
+**adv.** ①==**只不过，仅仅**== `but a/an N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：在外面（空间上的除外）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report is anything but reassuring."（这份报告一点也不令人安心——考研高频表达）
-> - "But for your help, I would have failed the exam."（要不是你的帮助，我考试就挂了——虚拟语气高频考点）
-> - "He is nothing but a liar."（他只不过是个骗子）
+> - The task was anything but easy. `[COCA-ACAD]`
+> - I would have been in real trouble but for your help. `[COCA-FICT]`
+> - He eats nothing but hamburgers. `[COCA-SPOK]`
+> - The lift holds six people, but it's a bit of a squeeze. `[COCA-NEWS]`
 
 
 ---

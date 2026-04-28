@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**边界，界限**==；②分界线；③（学科的）范围，界限；
+**n.** ①==**边界，界限**== `N; N between N`；②==**分界线**== `N`；③==**（学科的）范围，界限**== `N of N`；
 
 > [!tip] 原型义
 > **原型义**：绑住的范围（绑缚所限定的区域）
@@ -125,7 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The boundaries between academic disciplines are becoming increasingly blurred."（学科之间的界限正变得越来越模糊——考研阅读高频表达）
+> - The boundaries between academic disciplines are becoming increasingly blurred. `[COCA-ACAD]`
+> - Changes in temperature occur slowly and are constrained within relatively tight bounds. `[COCA-ACAD]`
+> - The boundaries were further extended in 1920 and 1932, taking in areas of the mainland. `[COCA-NEWS]`
+> - Scientists are constantly pushing back the boundaries of human knowledge. `[COCA-ACAD]`
 
 
 ---

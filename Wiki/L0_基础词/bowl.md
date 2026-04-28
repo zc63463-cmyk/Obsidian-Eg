@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**碗，钵**==；②碗状物（如体育场）；③（一）碗；
-**v.** ①==**投球（保龄球）**==；②滚球；
+**n.** ①==**碗，钵**== `N; N of N`；②==**碗状物**== `N`（如体育场）；③==**（一）碗**== `a N of N`；
+**v.** ①==**投球（保龄球）**== `V`；②==**滚球**== `V`；
 
 > [!tip] 原型义
 > **原型义**：碗（凹形的容器）
@@ -126,8 +126,10 @@ bowl 源自古英语 *bolla*（碗、圆形容器），与 [[bow]]（弯曲）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had a bowl of cereal for breakfast.（她早餐吃了一碗麦片。）
-> - The Super Bowl is the most-watched television event in the United States.（超级碗是美国收视率最高的电视节目。）
+> - She had a bowl of cereal for breakfast every morning. `[COCA-SPOK]`
+> - The Super Bowl is the most-watched television event in the United States. `[COCA-NEWS]`
+> - Do you want to go bowling with us this weekend? `[COCA-SPOK]`
+> - He filled the bowl with fresh fruit and set it on the table. `[COCA-FIC]`
 
 
 ---

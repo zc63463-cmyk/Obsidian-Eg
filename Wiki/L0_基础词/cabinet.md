@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**储藏柜，橱柜**==；②==**内阁**==（政府核心决策机构）；③（带玻璃门的）陈列柜；④私人小房间
+**n.** ①==**储藏柜，橱柜**== `kitchen/filing/medicine cabinet`；②==**内阁**== `cabinet meeting` `cabinet minister` [政治]；③（带玻璃门的）陈列柜；④私人小房间
 
 > [!tip] 原型义
 > **原型义**：小房间（储藏贵重物品的私密空间）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president held a cabinet meeting to discuss the economic crisis."（总统召开内阁会议讨论经济危机——考研政治类翻译常见表达）
-> - "The shadow cabinet is ready to offer alternative policies."（影子内阁已准备好提供替代政策——考研英语阅读相关表达）
+> - The defeat in the vote forced the Cabinet to change its policy on immigration. `[COCA-NEWS]`
+> - The issue was discussed at yesterday's cabinet meeting. `[COCA-NEWS]`
+> - Several cabinet ministers have been implicated in the scandal. `[COCA-NEWS]`
+> - The prime minister reshuffled his Cabinet yesterday. `[COCA-NEWS]`
 
 
 ---

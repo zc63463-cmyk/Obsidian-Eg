@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小虫子，昆虫**==；②（计算机）故障，漏洞；③窃听器；④（美俚）病菌；
-**v.** ①==**烦扰，打扰**==；②在...装窃听器；
+**n.** ①==**小虫子，昆虫**== `a bug on the wall` `bug spray`；②==**（计算机）故障，漏洞**== `a software bug` `debug` [技术]；③==**窃听器**== `plant a bug`；④==**（美俚）病菌**== `catch a bug` [口语]；
+**v.** ①==**烦扰，打扰**== `don't bug me` [口语]；②==**在...装窃听器**== `bug sb's phone`；
 
 > [!tip] 原型义
 > **原型义**：小虫子（微小的爬行昆虫）
@@ -129,7 +129,10 @@ bug（源自中古英语 *bugge*，指恐怖的幽灵/怪物，后来指小虫�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - The first actual case of a bug being found in a computer was recorded in 1947. `[COCA-ACAD]`
+> - There's a bug in the system that causes the application to crash unexpectedly. `[COCA-NEWS]`
+> - Stop bugging me — I'm trying to work. `[COCA-FIC]`
+> - The engineers spent weeks debugging the software before the release. `[COCA-NEWS]`
 
 
 ---
