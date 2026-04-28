@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**拉链**==（美式英语，= zip fastener）；②==**拉链文件/压缩文件**==（计算机用语，zip file）；
-③==**活力，精力**==（口语用法）；
-**v.** ④==**拉上拉链**==；⑤==**快速移动**==（嗖地一下）
+**n.** ①==**拉链**== `N`（美式英语，= zip fastener）；②==**拉链文件/压缩文件**== `N`（计算机用语，zip file）；
+③==**活力，精力**== `N`（口语用法）；
+**v.** ④==**拉上拉链**== `V up`；⑤==**快速移动**== `V through N`（嗖地一下）；
 
 > [!tip] 原型义
 > **原型义**：嗖嗖声（拟声词，模拟快速移动或撕裂的声音，1852年出现）
@@ -132,8 +132,9 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students were able to zip through the online course modules at their own pace, completing the program in record time."（学生能够按照自己的节奏快速完成在线课程模块，以创纪录的时间完成了该课程——考研阅读教育话题相关表达）
-> - "Please ensure that all uploaded files are in zip format and do not exceed the maximum size limit."（请确保所有上传的文件为zip格式，且不超过最大大小限制——考研阅读科技话题相关表达）
+> - Students were able to **zip** through the online course modules at their own pace, completing the program in record time. `[例]`
+> - Please ensure that all uploaded files are in **zip** format and do not exceed the maximum size limit. `[例]`
+> - She pulled her coat tighter and **zipped** it up against the biting winter wind. `[例]`
 
 
 ---

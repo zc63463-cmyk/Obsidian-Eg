@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**零**==（数字0）；②==**零点，零度**==；③==**最低点，毫无**==（如 chances reduced to zero）；
-**v.** ④==**将……调零，对准**==（如 zero in on）；
-**adj.** ⑤==**零的，没有的**==
+**n.** ①==**零**== `N`（数字0）；②==**零点，零度**== `N`；③==**最低点，毫无**== `reduce to N`（如 chances reduced to zero）；
+**v.** ④==**将……调零，对准**== `V in on N`（如 zero in on）；
+**adj.** ⑤==**零的，没有的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：空无（阿拉伯语 *sifr* "空、零"，翻译自梵语 *sunya* "空位"，经中世纪拉丁语 *zephirum* → 意大利语 *zero*）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has adopted a zero-tolerance policy towards corruption in public institutions."（政府对公共机构中的腐败采取了零容忍政策——考研阅读政治话题相关表达）
-> - "Researchers zeroed in on a specific gene mutation that may be responsible for the rare disease."（研究人员聚焦于一个特定的基因突变，该突变可能是导致这种罕见疾病的原因——考研阅读科技话题相关表达）
+> - The government has adopted a **zero**-tolerance policy towards corruption in public institutions. `[例]`
+> - Researchers **zeroed** in on a specific gene mutation that may be responsible for the rare disease. `[例]`
+> - The temperature dropped to **zero** overnight, covering the entire city in a thick layer of frost. `[例]`
 
 
 ---

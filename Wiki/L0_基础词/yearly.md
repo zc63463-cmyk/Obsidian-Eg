@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**每年的，一年一次的**==（每年发生或进行的）；
-**adv.** ②==**每年，一年一次地**==；
-**n.** ③==**年刊，年鉴**==
+**adj.** ①==**每年的，一年一次的**== `adj`（每年发生或进行的）；
+**adv.** ②==**每年，一年一次地**== `V adv`；
+**n.** ③==**年刊，年鉴**== `a N`；
 
 > [!tip] 原型义
 > **原型义**：每年发生的（year "年" + -ly "每……的" = 每年的）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's yearly revenue exceeded expectations, driven by strong growth in emerging markets."（受新兴市场强劲增长的推动，该公司的年收入超出了预期——考研阅读经济话题相关表达）
-> - "Scientists have observed a steady decline in the yearly migration patterns of several bird species."（科学家观察到几种鸟类的年度迁徙模式呈持续下降趋势——考研阅读生态话题相关表达）
+> - The company's **yearly** revenue exceeded expectations, driven by strong growth in emerging markets. `[例]`
+> - Scientists have observed a steady decline in the **yearly** migration patterns of several bird species. `[例]`
+> - The annual report showed a steady increase in **yearly** profits over the past five years. `[例]`
 
 
 ---
