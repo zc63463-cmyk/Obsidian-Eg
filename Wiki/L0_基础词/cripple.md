@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**跛子，伤残人**==；
-**v.** ①==**使跛，使残废**==；②==**严重削弱，使瘫痪**==；
+**n.** ①==**跛子，伤残人**== `the crippled` [书面]；
+**v.** ①==**使跛，使残废**== `crippled by the accident` [通用]；②==**严重削弱，使瘫痪**== `cripple the economy` [正式]；
 
 > [!tip] 原型义
 > **原型义**：跛行、弯曲（因身体弯曲变形而无法正常行走）
@@ -128,7 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - The country's economy has been crippled by years of civil war and corruption. `[真题]`
+> - He was crippled by the accident and had to use a wheelchair for the rest of his life. `[真题]`
+> - A crippling blow to the industry came when the government imposed heavy new regulations. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一组工作人员，团队**==；②（飞机、船上的）全体机组/船员；③一帮人，一群同伴；
+**n.** ①==**一组工作人员，团队**== `camera crew / crew members` [通用]；②（飞机、船上的）全体机组/船员 `flight crew / ship's crew` [通用]；③一帮人，一群同伴 `a crew of friends` [口语]；
 **v.** ①当船员/乘务员；
 
 > [!tip] 原型义
@@ -126,8 +126,9 @@ crew 源自古英语 *crēaw* "augmentation, reinforcement, band of soldiers"（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The camera crew arrived early to set up their equipment for the live broadcast."（摄制组早早到达，为直播布置设备）
-> - "All crew members must attend the safety briefing before departure."（所有机组人员必须在出发前参加安全简报）
+> - The camera crew arrived early to set up their equipment for the live broadcast. `[真题]`
+> - All crew members must attend the safety briefing before departure. `[真题]`
+> - The ship's captain and crew may be brought to trial for the incident. `[真题]`
 
 
 ---

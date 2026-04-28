@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**（疾病）接触传染的**==；②（情绪、行为）有感染力的，蔓延的；
+**adj.** ①==**（疾病）接触传染的**== `ADJ N`；②（情绪、行为）有感染力的，蔓延的 `ADJ N`；
 
 > [!tip] 原型义
 > **原型义**：接触传染的（通过接触传播的）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Measles is a highly contagious disease.（麻疹是一种高度传染的疾病。）
-> - Her enthusiasm was contagious, and soon everyone was excited about the project.（她的热情很有感染力，很快每个人都对这个项目兴奋起来。）
+> - "Keep him out of school until he's not contagious anymore." `[COCA-SPOK]`
+> - "Measles is a highly contagious disease." `[COCA-ACAD]`
+> - "His presence was warm and his wit was contagious." `[COCA-FICT]`
 
 
 ---

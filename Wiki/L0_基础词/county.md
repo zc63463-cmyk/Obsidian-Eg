@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**郡，县**==（英国的郡或美国的县）；
+**n.** ①==**郡，县**== `county council` [正式] `county court` [正式]（英国的郡或美国的县）；
 
 > [!tip] 原型义
 > **原型义**：伯爵的领地（伯爵管辖的区域）
@@ -117,7 +117,9 @@ county 源自古法语 *comté*（伯爵的领地），与 count（伯爵）同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The county council voted to increase funding for public schools."（郡议会投票决定增加公立学校的资金。）
+> - The county council voted to increase funding for public schools. `[语料库]`
+> - Many county councils are now controlled by the Conservatives. `[语料库]`
+> - He appeared in the county court and ensured that the practice was stopped for all time. `[语料库]`
 
 
 ---

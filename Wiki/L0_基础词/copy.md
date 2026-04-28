@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**副本，复制品**==；②（书的）一册，一份；③（报刊的）稿件；
-**v.** ①==**复制，复印**==；②抄袭，模仿；
+**n.** ①==**副本，复制品**== `a copy of N`；②==**（书的）一册，一份**==；③（报刊的）稿件；
+**v.** ①==**复制，复印**== `V N` `copy and paste`；②==**抄袭，模仿**== `V N's N`；
 
 > [!tip] 原型义
 > **原型义**：丰足（拉丁语 *copia* 意为"丰足、充足"，大量书写产生副本）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The book sold over a million copies in its first year."（这本书在第一年销量超过一百万册——考研阅读高频表达）
-> - "Students should be discouraged from copying each other's work."（应劝阻学生互相抄袭——教育类文章常见表达）
+> - This painting is only a copy — the original hangs in the Louvre. `[COCA-FIC]`
+> - The library has copies of all the national and local newspapers. `[COCA-ACAD]`
+> - Four million copies of the book were sold in the first year. `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**良心，良知**==；②==**内疚感，愧疚**==（have a guilty conscience）；
+**n.** ①==**良心，良知**== `U/C`；②==**内疚感，愧疚**== `C`（have a guilty conscience）；
 
 > [!tip] 原型义
 > **原型义**：与他人共同感知对错
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The whistleblower acted according to her conscience, exposing corporate fraud despite the personal and professional risks involved."（举报人凭着良心行事，尽管面临个人和职业风险，仍揭露了公司欺诈行为——考研阅读社会话题相关表达）
-> - "A guilty conscience can manifest itself in various ways, from sleep disturbances to an inability to look others in the eye."（内疚感可以通过多种方式表现出来，从睡眠障碍到不敢直视他人——考研阅读心理话题相关表达）
+> - He's been so kind and generous toward me recently — I think he has a guilty conscience. `[Cambridge]`
+> - This is a matter of conscience — it's a moral issue, not a political one. `[Cambridge]`
+> - You didn't do anything wrong — you should have a clear conscience. `[Cambridge]`
+> - I've had it on my conscience for weeks that I didn't warn him in time. `[Oxford]`
 
 
 ---

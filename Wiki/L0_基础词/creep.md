@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**悄悄移动，蹑手蹑脚地走**==；②爬行；③不知不觉地产生/蔓延；
-**n.** ①讨厌的人；②令人毛骨悚然的感觉；
+**v.** ①==**悄悄移动，蹑手蹑脚地走**== `creep up on / creep past` [通用]；②爬行 `a creeping plant` [通用]；③不知不觉地产生/蔓延 `doubt crept in` [通用]；
+**n.** ①讨厌的人 `a creep` [口语]；②令人毛骨悚然的感觉 `give sb. the creeps` [口语]；
 
 > [!tip] 原型义
 > **原型义**：身体贴近地面悄悄移动（像爬行动物一样无声地贴地移动）
@@ -129,8 +129,9 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Old age creeps up on you before you realize it."（不知不觉中，衰老就悄悄降临了）
-> - "The old abandoned house gives me the creeps."（那座废弃的老房子让我毛骨悚然）
+> - She turned off the light and crept through the door without making a sound. `[真题]`
+> - Old age creeps up on you before you realize it. `[真题]`
+> - Living next to a graveyard would give me the creeps. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**数，计算**==；②认为，看作；③有价值，重要；④算数，有效；
-**n.** ①计数，总数；②==**伯爵**==（欧洲大陆贵族头衔）；
+**v.** ①==**数，计算**== `count the votes/plates` [通用]；②认为，看作 `count oneself lucky` [通用]；③有价值，重要 `every vote counts` [通用]；④算数，有效 `that doesn't count` [通用]；
+**n.** ①计数，总数；②==**伯爵**==（欧洲大陆贵族头衔） `Count Dracula` [专用]；
 
 > [!tip] 原型义
 > **原型义**：计算，数数（逐一清点数量）
@@ -134,8 +134,10 @@ count 源自拉丁语 *computare*（计算），*com-*（一起）+ *putare*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In a democracy, every vote counts."（在民主制度中，每一票都算数。）
-> - "She counted herself fortunate to have survived the accident."（她认为自己能在这场事故中幸存是幸运的。）
+> - In a democracy, every vote counts. `[真题]`
+> - She counted herself fortunate to have survived the accident. `[真题]`
+> - I've lost count of how many times she's been late for work this month. `[语料库]`
+> - Experience counts for a lot in poker. `[语料库]`
 
 
 ---

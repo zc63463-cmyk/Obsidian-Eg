@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**庄稼，作物**==；②==**收成，产量**==；③（同时涌现的）一批；
-**v.** ①==**收割，收获**==；②修剪，剪裁；
+**n.** ①==**庄稼，作物**== `grow crops / cash crop`；②==**收成，产量**== `a good crop / bumper crop`；③（同时涌现的）一批 `a new crop of students`；
+**v.** ①==**收割，收获**== `crop the field`；②修剪，剪裁 `crop a photo`；
 
 > [!tip] 原型义
 > **原型义**：植物的顶部、嫩芽（从顶部生长出来的部分）
@@ -132,7 +132,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - The drought caused a fall in this year's corn crop. `[真题]`
+> - The teachers got ready for a new crop of students. `[真题]`
+> - Season 3 will take place in Thailand and follow a new crop of hotel guests. `[真题]`
+> - His name crops up frequently as a potential candidate. `[真题]`
+> - The judges will select the best from this year's crop of first novels. `[真题]`
 
 
 ---

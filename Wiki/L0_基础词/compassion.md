@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**同情，怜悯**==；
+**n.** ①==**同情，怜悯**== `N`;
 
 > [!tip] 原型义
 > **原型义**：与他人一起感受痛苦
@@ -123,8 +123,10 @@ com-(一起) + [[pass-pati|pass]](感受，拉丁语 *pati* "忍受、感受") +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She showed great compassion for the victims of the earthquake."（她对地震灾民表现出极大的同情）
-> - "Compassion is the basis of morality."（同情心是道德的基础——哲学语境）
+> - I was hoping she might show a little compassion. ` [COCA-FIC]`
+> - Patients need time and compassion from their physicians. ` [COCA-ACAD]`
+> - As a disabled person, it left me feeling incredibly vulnerable when all I wanted was to be treated fairly and with compassion. ` [COCA-NEWS]`
+> - Compassion is the basis of morality. ` [例]`
 
 
 ---

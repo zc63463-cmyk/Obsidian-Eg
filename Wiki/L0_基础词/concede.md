@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**承认（通常是不情愿地）**==；②让步，退让；③承认失败，认输；
+**v.** ①==**承认（通常是不情愿地）**== `V that-clause`; ②==**让步，退让**== `V to N`; ③==**承认失败，认输**== `V N`;
 
 > [!tip] 原型义
 > **原型义**：完全让步，承认
@@ -129,8 +129,10 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government conceded that the policy had failed."（政府承认该政策失败了——政治语境高频）
-> - "After losing by a wide margin, she conceded defeat."（在以巨大差距落败后，她承认失败）
+> - Although it seems clear that he has lost the election, he still refuses to concede. ` [COCA-NEWS]`
+> - "Your plan might work," she conceded, "but I still think mine is better." ` [COCA-FIC]`
+> - The former ruler was forced to concede power to a new government. ` [COCA-NEWS]`
+> - He kept on arguing and would not concede defeat. ` [例]`
 
 
 ---

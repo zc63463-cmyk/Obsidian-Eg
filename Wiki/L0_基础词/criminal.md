@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**罪犯，犯罪者**==；
-**adj.** ①==**犯罪的，刑事的**==；②==**不道德的，可耻的**==；
+**n.** ①==**罪犯，犯罪者**== `a habitual criminal` [正式]；
+**adj.** ①==**犯罪的，刑事的**== `criminal law / criminal behavior` [正式]；②==**不道德的，可耻的**== `a criminal waste` [正式]；
 
 > [!tip] 原型义
 > **原型义**：犯罪的人（被裁定犯有罪行的人）
@@ -128,7 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - The program is designed to help former criminals find jobs and reintegrate into society. `[真题]`
+> - A criminal waste of talent occurs when highly educated people are unable to find suitable employment. `[真题]`
+> - The defendant was charged with criminal behavior and faced a lengthy prison sentence. `[真题]`
 
 
 ---

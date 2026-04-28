@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生物，动物**==；②人（常含感情色彩）；③创造物；
+**n.** ①==**生物，动物**== `living creature` [通用]；②人（常含感情色彩） `a poor creature` [书面]；③创造物 `creature of the imagination` [书面]；
 
 > [!tip] 原型义
 > **原型义**：被创造出来的存在（一切被创造的事物）
@@ -128,8 +128,9 @@ cre-(创造，拉丁语 *creare* "to create") + -at-(动词过去分词后缀) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Man is a creature of habit, and changing deeply ingrained behaviors is extremely difficult."（人是习惯的产物，改变根深蒂固的行为极其困难）
-> - "All living creatures deserve respect and protection."（所有生物都值得尊重和保护）
+> - Man is a creature of habit, and changing deeply ingrained behaviors is extremely difficult. `[真题]`
+> - All living creatures deserve respect and protection under the law. `[真题]`
+> - They are both creatures of habit and love their routine: writing, walking, reading and going to bed at ten every night. `[真题]`
 
 
 ---

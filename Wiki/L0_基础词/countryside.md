@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**乡村，农村**==；②乡间景色；
+**n.** ①==**乡村，农村**== `in the countryside` [通用] `live in the countryside` [通用]；②==**乡间景色**== `the English countryside` [文学]；
 
 > [!tip] 原型义
 > **原型义**：乡村的土地（城市对面的广阔土地的一侧）
@@ -119,7 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people move from the countryside to cities in search of better job opportunities."（许多人从乡下搬到城市寻找更好的工作机会。）
+> - Every summer thousands of people flock to the countryside. `[真题]`
+> - Much of Connecticut's countryside is dotted with large estates and horse farms. `[语料库]`
+> - The mansion is set in 90 acres of beautiful, unspoiled countryside. `[语料库]`
 
 
 ---

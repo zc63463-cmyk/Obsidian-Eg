@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**咨询，请教**==；②==**查阅，参考**==（书籍、资料）；③==**商议，协商**==（with sb.）；
+**v.** ①==**咨询，请教**== `V N`；②==**查阅，参考**== `V N`；③==**商议，协商**== `V with N`；
 
 > [!tip] 原型义
 > **原型义**：与智者共同商议
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Patients are encouraged to consult their physicians before starting any new exercise regimen, especially if they have pre-existing medical conditions."（鼓励患者在开始任何新的锻炼计划之前咨询医生，特别是如果他们有既往病史——考研阅读健康话题相关表达）
-> - "When interpreting ambiguous legal provisions, judges often consult previous court decisions and legal scholarship to ensure consistency in their rulings."（在解释模糊的法律条款时，法官经常查阅先前的法院判决和法律学术研究，以确保其裁决的一致性——考研阅读法律话题相关表达）
+> - "She consulted many respectable people in the village, but none could see a way out of the difficulty." `[COCA-FICT]`
+> - "We consulted the committee's report for advice on how to proceed." `[COCA-ACAD]`
+> - "She accuses him of making the decision to perform without consulting her first." `[COCA-ACAD]`
 
 
 ---

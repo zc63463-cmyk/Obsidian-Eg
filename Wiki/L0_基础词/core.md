@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**核心，要点**==；②果核，果心；③（地球的）地核；
-**adj.** ①核心的，最重要的；
+**n.** ①==**核心，要点**== `the core of the problem / core values` [通用]；②==**果核，果心**== `an apple core` [日常]；③==**（地球的）地核**== `the earth's core` [学术]；
+**adj.** ①==**核心的，最重要的**== `core curriculum / core members` [通用]；
 
 > [!tip] 原型义
 > **原型义**：果核（果实最中心、最硬的部分）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - core values, core curriculum 在考研阅读中频繁出现
-> - "The core of the problem lies in..."（问题的核心在于……）为常见句式
+> - That behavior was not consistent with our core values. `[真题]`
+> - It is not mentioned within the youth work core curriculum. `[真题]`
+> - And it is something that really goes to the core of privacy. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**谋划，策划**==；②发明，设计；③设法做到；
+**v.** ①==**谋划，策划**== `V N` [正式]；②发明，设计 `V N`；③设法做到 `V to do`；
 
 > [!tip] 原型义
 > **原型义**：共同转向目标——把注意力转向一个目标并想办法实现
@@ -124,8 +124,9 @@ con-(=com-, 共同/充分) + trive(=turn/finder, 转/发现，与 [[ver-vert]] �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He contrived to meet the famous author at a book signing event."（他想方设法在签书会上见到了那位著名作家）
-> - "The ending of the novel felt contrived and unconvincing."（这部小说的结局感觉做作且令人不信服）
+> - She contrived to spend a few hours with him every Sunday evening. `[COCA-FIC]`
+> - The prisoners contrived a way to escape. `[COCA-NEWS]`
+> - The oil companies were accused of contriving a shortage of petrol to justify price increases. `[COCA-NEWS]`
 
 
 ---

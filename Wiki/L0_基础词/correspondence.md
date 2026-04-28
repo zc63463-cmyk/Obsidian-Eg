@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**通信，信件**==；②==**符合，一致**==；③对应关系；
+**n.** ①==**通信，信件**== `business correspondence / keep up correspondence` [正式]；②==**符合，一致**== `in correspondence with / bear correspondence to` [正式]；③==**对应关系**== `the correspondence between A and B` [学术]；
 
 > [!tip] 原型义
 > **原型义**：通信往来（互相回应的信件往来，[[correspond]] 的名词形式）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - correspondence 在考研中多出现在学术、教育、商务类阅读中
-> - correspondence course（函授课程）为常见考点
+> - She was behind in her correspondence, and had at least six letters to write. `[真题]`
+> - Any correspondence concerning the inquiry should be sent to Mr Alan Wood. `[真题]`
+> - Finally, the findings are not necessarily consistent with each other, although substantial areas of correspondence exist. `[真题]`
 
 
 ---

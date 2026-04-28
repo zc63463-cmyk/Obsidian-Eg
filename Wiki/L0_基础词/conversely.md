@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**相反地，反之**==；
+**adv.** ①==**相反地，反之**== `Adv, ...` [正式]；
 
 > [!tip] 原型义
 > **原型义**：转向相反方向地——转向对立面
@@ -122,8 +122,9 @@ con-(加强语气) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -e + -ly(副
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology has made communication easier. Conversely, it has also created new forms of isolation."（科技使沟通更容易。相反地，它也创造了新的孤立形式）
-> - "Some studies suggest that moderate exercise improves sleep quality; conversely, lack of exercise is associated with insomnia."（一些研究表明适度运动能改善睡眠质量；相反，缺乏运动与失眠有关）
+> - Conversely, austerity means less goods produced and less employment. `[COCA-ACAD]`
+> - Conversely, the risks of inaction have increased. `[COCA-NEWS]`
+> - Conversely, an increase in the dormancy level of the seed population was observed after periods of storage in dry soil. `[COCA-ACAD]`
 
 
 ---

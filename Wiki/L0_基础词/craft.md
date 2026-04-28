@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工艺，手艺**==；②技巧，技能；③诡计，手腕；④飞行器，船只；
-**v.** ①==**精巧制作**==；②精心策划；
+**n.** ①==**工艺，手艺**== `arts and crafts` [通用]；②技巧，技能 `the craft of writing` [正式]；③诡计，手腕 `by craft` [书面]；④飞行器，船只 `spacecraft / aircraft` [技术]；
+**v.** ①==**精巧制作**== `craft a speech / policy` [正式]；②精心策划 `craft a compromise` [正式]；
 
 > [!tip] 原型义
 > **原型义**：力量，技能（用手创造事物的能力）
@@ -132,7 +132,9 @@ craft（源自古英语 *cræft*，力量、体力、技能，原始日耳曼语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - Many delegates were willing to craft a compromise after weeks of negotiation. `[真题]`
+> - The author extracts the maximum from every carefully crafted scene in this witty tale. `[真题]`
+> - The windows would probably have been crafted in the latter part of the Middle Ages. `[真题]`
 
 
 ---

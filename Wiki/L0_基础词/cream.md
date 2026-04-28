@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**奶油，乳脂**==；②精华，精英；③面霜，护肤霜；
-**v.** ①搅成奶油状；②击败，彻底打败；
+**n.** ①==**奶油，乳脂**== `ice cream` [通用]；②精华，精英 `the cream of the crop` [习语]；③面霜，护肤霜 `face cream` [通用]；
+**v.** ①搅成奶油状；②击败，彻底打败 `cream the competition` [口语]；
 
 > [!tip] 原型义
 > **原型义**：乳脂（牛奶中浮在最上层的精华部分）
@@ -126,8 +126,9 @@ cream 源自古法语 *creme/cresme*（圣油），混合了晚期拉丁语 *chr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is the cream of the crop among the graduate students."（她是研究生中的佼佼者）
-> - "The company creamed off the best graduates from top universities."（公司从顶尖大学中挑走了最优秀的毕业生）
+> - The private schools cream off many of the best pupils from the state system. `[真题]`
+> - The cream of England's young men were killed in the Great War. `[真题]`
+> - We are going to be looking at the top banana, the big kahuna, the cream of the crop. `[真题]`
 
 
 ---

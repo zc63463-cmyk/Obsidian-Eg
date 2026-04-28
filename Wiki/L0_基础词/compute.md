@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**计算，估算**==；
-**n.** ①计算（较少用）；
+**v.** ①==**计算，估算**== `V N`;
+**n.** ①==**计算**== `N`（较少用）；
 
 > [!tip] 原型义
 > **原型义**：一起计算/清点
@@ -126,8 +126,10 @@ com-(一起) + [[put|put-]](计算，思考，拉丁语 *putare* "计算、认�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists computed the probability of the asteroid hitting Earth."（科学家计算了小行星撞击地球的概率）
-> - "The total cost is computed automatically by the system."（总成本由系统自动计算）
+> - The government uses the household survey to compute the monthly unemployment rate. ` [COCA-NEWS]`
+> - Net asset value is computed at the close of regular trading on the New York Stock Exchange. ` [COCA-ACAD]`
+> - We were required to compute the answers without using a calculator. ` [COCA-FIC]`
+> - The firm declined to discuss the deal or say how the figure was computed. ` [例]`
 
 
 ---

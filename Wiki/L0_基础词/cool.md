@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**凉爽的，凉快的**==；②==**冷静的，沉着的**==；③==**冷淡的，冷漠的**==；④（口语）酷的，出色的；
-**v.** ①（使）变凉，冷却；②（使）冷静下来；
+**adj.** ①==**凉爽的，凉快的**== `adj N`；②==**冷静的，沉着的**== `keep cool`；③==**冷淡的，冷漠的**== `be cool towards/to N`；④==**酷的，出色的**== [口语]；
+**v.** ①==**（使）变凉，冷却**== `V N` `cool down`；②==**（使）冷静下来**== `cool down`；
 **n.** ①凉爽；②冷静；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She kept her cool during the crisis."（她在危机中保持冷静——考研阅读高频表达）
-> - "The evening brought a cool breeze after the heat of the day."（傍晚带来一阵凉爽的微风，驱散了白天的炎热——文学常见表达）
+> - He was very cool when we broke the window, and didn't shout or get mad. `[COCA-FIC]`
+> - Cereals should be stored in a cool, dry place. `[COCA-ACAD]`
+> - "Well, that's just too bad," Bill replied in a cool tone. `[COCA-FIC]`
 
 
 ---

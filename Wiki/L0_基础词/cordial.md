@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**热诚的，衷心的**==；②友好的，亲切的；
-**n.** ①（提神）甜饮料，果露；
+**adj.** ①==**热诚的，衷心的**== `a cordial invitation / cordial thanks` [正式]；②==**友好的，亲切的**== `a cordial welcome / cordial relations` [正式]；
+**n.** ①==**（提神）甜饮料，果露**== `lemon cordial` [日常]；
 
 > [!tip] 原型义
 > **原型义**：发自内心的（来自拉丁语 *cor* 心脏）
@@ -133,7 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - cordial 在考研中多出现在外交、商务、社交类语境中，如 cordial relations between the two countries（两国之间的友好关系）
+> - The two sides have maintained a cordial relationship over the years. `[真题]`
+> - You are cordially invited to attend the annual parish meeting. `[真题]`
+> - Our hosts greeted us at the airport with a cordial welcome and a hearty hug. `[真题]`
 
 
 ---

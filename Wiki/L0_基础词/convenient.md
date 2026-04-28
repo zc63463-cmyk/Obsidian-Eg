@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**方便的，便利的**==；②近便的，附近的；③合适的；
+**adj.** ①==**方便的，便利的**== `adj. for N`；②近便的，附近的 `adj. N`；③合适的 `adj. N`；
 
 > [!tip] 原型义
 > **原型义**：共同来到的——一切凑到一起的
@@ -126,8 +126,9 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has made it convenient for people to access information from anywhere."（互联网使人们能够方便地从任何地方获取信息）
-> - "Please come at a time convenient to you."（请在您方便的时候来）
+> - It's very convenient that you live near the office. `[COCA-FIC]`
+> - She will try to arrange a mutually convenient time and place for an interview. `[COCA-ACAD]`
+> - I find it convenient to be able to do my banking online. `[COCA-NEWS]`
 
 
 ---

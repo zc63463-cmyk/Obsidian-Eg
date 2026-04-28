@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**确信，坚定的信念**==；②==**定罪，判罪**==；③说服，信服；
+**n.** ①==**确信，坚定的信念**== `C/U` `have a strong ~`；②==**定罪，判罪**== `C/U` `~ for N`；③说服，信服 `U` `carry ~`；
 
 > [!tip] 原型义
 > **原型义**：彻底被征服的状态——被证据或道理彻底说服
@@ -126,8 +126,9 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She spoke with such conviction that everyone in the room was moved."（她说话时带着如此坚定的信念，打动了房间里的每一个人）
-> - "He has a criminal conviction for theft, which makes it difficult for him to find a job."（他有盗窃罪的刑事定罪记录，这使得他很难找到工作）
+> - He was able to say with conviction that he had changed. `[COCA-FIC]`
+> - The students possess the conviction that they can make a difference to their community. `[COCA-ACAD]`
+> - It was a reasonable explanation, but his voice lacked conviction. `[COCA-FIC]`
 
 
 ---

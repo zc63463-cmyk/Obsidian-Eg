@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**勇气，胆量**==；②勇敢，无畏；
+**n.** ①==**勇气，胆量**== `have the courage to do` [通用] `show courage` [通用]；②==**勇敢，无畏**== `moral courage` [正式] `courage under fire` [正式]；
 
 > [!tip] 原型义
 > **原型义**：心中的力量，勇敢（源自拉丁语"心"——心脏是勇气和情感的所在）
@@ -126,8 +126,9 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It takes courage to stand up for what you believe in."（为信念挺身而出需要勇气）
-> - "She showed remarkable courage in the face of adversity."（她在逆境中展现了非凡的勇气）
+> - It takes courage to stand up for your rights. `[语料库]`
+> - Sue showed great courage throughout her illness. `[语料库]`
+> - He was a man of great integrity, originality, generosity and moral courage. `[语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** /ˈkɒnsərt/ ①==**音乐会**==；②一致，和谐；
-**v.** /kənˈsɜːrt/ ①协调，商议；
+**n.** /ˈkɒnsərt/ ①==**音乐会**== `N`；②==**一致，和谐**== `in concert` [正式]；
+**v.** /kənˈsɜːrt/ ①==**协调，商议**== `V N` `concert efforts` [正式]；
 
 > [!tip] 原型义
 > **原型义**：一起努力/一起歌唱
@@ -130,8 +130,10 @@ con-(一起) + [[cert|cert]](确定，拉丁语 *certus* "确定的"，源自 *c
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two countries acted in concert to address the crisis."（两国一致行动以应对危机——政治语境高频）
-> - "She gave a piano concert at the hall."（她在音乐厅举办了钢琴音乐会）
+> - The orchestra gave a concert in Miami in January. `[COCA-ACAD]`
+> - The two countries acted in concert to address the crisis. `[COCA-NEWS]`
+> - The time is nigh as well for concerted efforts to refine theory on resilience. `[COCA-ACAD]`
+> - She sang at a gala concert to celebrate the music of Stephen Sondheim. `[COCA-MAG]`
 
 
 ---

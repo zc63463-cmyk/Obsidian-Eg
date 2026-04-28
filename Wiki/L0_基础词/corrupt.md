@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**腐败的，堕落的**==；②贪污的，受贿的；
-**v.** ①==**使腐败，使堕落**==；②贿赂；
+**adj.** ①==**腐败的，堕落的**== `corrupt officials/practices` [正式]；②贪污的，受贿的 `a corrupt judge/government` [正式]；
+**v.** ①==**使腐败，使堕落**== `Power corrupts.` [书面]；②贿赂 `corrupt a judge/official` [正式]；
 
 > [!tip] 原型义
 > **原型义**：完全破坏（彻底毁坏，拉丁语 *corruptus*：cor-完全 + rumpere 破裂）
@@ -135,8 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - corrupt 在考研中极为高频，多出现在政治、社会、伦理类阅读中
-> - "Power tends to corrupt, and absolute power corrupts absolutely."（权力导致腐败，绝对权力导致绝对腐败。——Lord Acton）
+> - The politician was accused of corruption after accepting bribes from a large corporation. `[真题]`
+> - Widespread corruption in the police force led to a loss of public trust. `[真题]`
+> - Power tends to corrupt, and absolute power corrupts absolutely. `[经典]`
+> - The unenforceable law is hardly qualified to be an institution, but the practice of bribing corrupt law enforcers does qualify. `[语料库]`
 
 
 ---

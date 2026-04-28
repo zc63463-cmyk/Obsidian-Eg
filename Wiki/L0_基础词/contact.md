@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**接触，联系**==；②联系人；③（传染病）接触者；
-**v.** ①==**联系，接触**==；
+**n.** ①==**接触，联系**== `N`；②联系人 `N`；③（传染病）接触者 `N`；
+**v.** ①==**联系，接触**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：接触（两物碰在一起）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Please keep in contact with me while you are abroad.（你在国外期间请与我保持联系。）
-> - The disease is spread through close contact with infected individuals.（这种疾病通过与感染者密切接触传播。）
+> - "I tried to contact him at his office, but he wasn't in." `[COCA-SPOK]`
+> - "She dislikes any kind of physical contact." `[COCA-FICT]`
+> - "Scientists established contact with the spacecraft on 28 April for the first time in eight months." `[COCA-NEWS]`
 
 
 ---

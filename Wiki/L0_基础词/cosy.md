@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**温暖舒适的**==；②惬意的，亲切的；
-**n.** ①保暖罩；
+**adj.** ①==**温暖舒适的**== `a cosy room/blanket` [通用]；②惬意的，亲切的 `a cosy chat/atmosphere` [通用]；
+**n.** ①保暖罩 `a tea cosy` [日常]；
 
 > [!tip] 原型义
 > **原型义**：温暖舒适的——像被包裹住一样
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We spent a cosy evening by the fireplace, reading and drinking tea."（我们在壁炉旁度过了一个温馨的夜晚，读书喝茶）
-> - "The small cafe had a cosy atmosphere that made you feel at home."（那家小咖啡馆有一种让人宾至如归的温馨氛围）
+> - It's that kind of feeling that makes it cosy, makes it good to live here. `[语料库]`
+> - When they have gone we can have a cosy chat to ourselves. `[语料库]`
+> - The restaurant had a cosy atmosphere with warm lighting and inviting chairs. `[真题]`
+> - My room is my sanctuary; although it's compact, it's cosy and meticulously organized. `[真题]`
 
 
 ---

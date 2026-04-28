@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使确信，使信服**==；②说服；
+**v.** ①==**使确信，使信服**== `V N that` `V N of N`；②==**说服**== `V N to do` [非正式]；
 
 > [!tip] 原型义
 > **原型义**：彻底征服（某人的思维）——用道理或证据彻底说服
@@ -125,8 +125,9 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vinc]](=conquer, 征服，拉丁语 *vi
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers convinced the committee that their findings were reliable."（研究人员使委员会确信他们的发现是可靠的）
-> - "I am convinced that education is the most powerful tool for social change."（我深信教育是推动社会变革最有力的工具）
+> - Incidents such as this convinced the administrators that they no longer controlled the mills. `[COCA-ACAD]`
+> - There is much here that is useful, and it is hard not to be convinced by the central message. `[COCA-ACAD]`
+> - I hope this will convince you to change your mind. `[COCA-MAG]`
 
 
 ---

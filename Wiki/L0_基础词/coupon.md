@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**优惠券，礼券**==；②（债券的）息票；③配给票；
+**n.** ①==**优惠券，礼券**== `discount coupon` [通用] `clip a coupon` [通用]；②==**（债券的）息票**== `coupon rate` [金融] `zero-coupon bond` [金融]；③配给票；
 
 > [!tip] 原型义
 > **原型义**：从文件上剪下来的票证（可兑换折扣或利息的凭证）
@@ -119,8 +119,9 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Customers can use the coupon to get a 20% discount on their next purchase."（顾客可以使用优惠券在下次购物时享受八折优惠）
-> - "Zero-coupon bonds are sold at a discount and pay no interest until maturity."（零息债券以折价出售，到期前不支付利息）
+> - This week shoppers can use discount coupons to get money off gasoline. `[语料库]`
+> - Clip this coupon for $10 off your next purchase. `[语料库]`
+> - The bonds have a coupon of 6.25 per cent. `[语料库]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**方便，便利**==；②便利设施；③合适的时间；
+**n.** ①==**方便，便利**== `U`；②便利设施 `C`；③合适的时间 `U`；
 
 > [!tip] 原型义
 > **原型义**：共同到来——一切凑到一起，省去了麻烦
@@ -126,8 +126,9 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rise of online shopping has brought great convenience to consumers."（网购的兴起给消费者带来了极大的便利）
-> - "Please reply at your earliest convenience."（请尽早日回复）
+> - The goods will be delivered at your convenience. `[COCA-ACAD]`
+> - Just for convenience, I'm going to live at my mother's place until my new apartment is ready. `[COCA-FIC]`
+> - In the digital era viewers can watch programmes at their convenience, not the scheduler's. `[COCA-NEWS]`
 
 
 ---

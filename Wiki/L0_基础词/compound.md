@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**化合物，复合物**==；②院落，围地；③复合词；
-**adj.** /kəmˈpaʊnd/ ①复合的，混合的；
-**v.** /kəmˈpaʊnd/ ①使恶化，使加重；②混合，掺和；③和解，达成协议；
+**n.** ①==**化合物，复合物**== `N`; ②==**院落，围地**== `N`; ③==**复合词**== `N`;
+**adj.** /kəmˈpaʊnd/ ①==**复合的，混合的**== `adj N`;
+**v.** /kəmˈpaʊnd/ ①==**使恶化，使加重**== `V N`; ②==**混合，掺和**== `V N`; ③==**和解，达成协议**== `V N`;
 
 > [!tip] 原型义
 > **原型义**：一起放在一起的东西
@@ -134,8 +134,11 @@ com-(一起) + [[pon|pos-pon-posit]](放置，拉丁语 *ponere*) + -d(后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The high rate of unemployment compounded the country's economic problems."（高失业率使该国的经济问题更加恶化——考研阅读高频表达）
-> - "Water is a chemical compound of hydrogen and oxygen."（水是氢和氧的化合物）
+> - The high rate of unemployment compounded the country's economic problems. ` [COCA-NEWS]`
+> - Salt is a compound of sodium and chlorine. ` [COCA-ACAD]`
+> - Additional loss of life will only compound the tragedy. ` [COCA-NEWS]`
+> - The air smelled like a compound of diesel and petrol fumes. ` [COCA-FIC]`
+> - Fine wine has had a compound annual growth rate of 10% over the last 30 years. ` [例]`
 
 
 ---

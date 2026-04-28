@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**隐藏，隐瞒**==；②掩盖，遮住；
+**v.** ①==**隐藏，隐瞒**== `V N`; ②==**掩盖，遮住**== `V N`;
 
 > [!tip] 原型义
 > **原型义**：一起小心地藏起来
@@ -125,8 +125,10 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The suspect attempted to conceal the evidence from the police."（嫌疑人试图向警方隐瞒证据——法律语境高频）
-> - "She tried to conceal her disappointment."（她试图掩饰自己的失望）
+> - The defendant is accused of attempting to conceal evidence from the investigators. ` [COCA-NEWS]`
+> - The editorial accused the government of concealing the truth from the public. ` [COCA-NEWS]`
+> - She could barely conceal her anger when she heard the decision. ` [COCA-FIC]`
+> - Do not conceal health problems from a prospective insurer. ` [例]`
 
 
 ---

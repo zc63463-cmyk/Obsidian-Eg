@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**穿过，横穿**==；②==**交叉，相交**==；③反对，使对立；
-**n.** ①==**十字，交叉**==；②十字架；③苦难，挫折；
-**adj.** ①==**生气的，恼怒的**==；②交叉的；
+**v.** ①==**穿过，横穿**== `cross the road / cross the bridge`；②==**交叉，相交**== `cross the lines`；③反对，使对立 `cross someone`；
+**n.** ①==**十字，交叉**== `the Red Cross`；②十字架 `on the cross`；③苦难，挫折 `bear one's cross`；
+**adj.** ①==**生气的，恼怒的**== `be cross with someone`；②交叉的 `a cross pattern`；
 
 > [!tip] 原型义
 > **原型义**：交叉（两条线在中间相交形成十字形）
@@ -139,7 +139,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - We need to cross the bridge to get to the other side of the river. `[真题]`
+> - The only access to the city is across the bridge. `[真题]`
+> - It never crossed my mind that he might be lying. `[真题]`
+> - She was cross with him for being late again. `[真题]`
+> - Cross out any words that you don't need. `[真题]`
 
 
 ---

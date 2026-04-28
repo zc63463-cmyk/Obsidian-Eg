@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一对，一双**==；②==**夫妻，情侣**==；③两三个，几个；
-**v.** ①==**连接，联合**==；②将……联系在一起；
+**n.** ①==**一对，一双**== `a couple of` [通用]；②==**夫妻，情侣**== `a married couple` [通用] `the couple who` [通用]；③两三个，几个；
+**v.** ①==**连接，联合**== `couple A with B` [正式]；②将……联系在一起；
 
 > [!tip] 原型义
 > **原型义**：两个，一对（两个相同或相关的事物/人配在一起）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The couple decided to settle down in the countryside."（这对夫妻决定在乡下定居）
-> - "I need a couple of days to finish the report."（我需要几天时间来完成报告）
+> - The house was bought by a young married couple. `[语料库]`
+> - In the past couple of years, things have been slowing down. `[语料库]`
+> - The couple met in 1989 when Julia worked as a law clerk at the firm where Ken worked. `[语料库]`
 
 
 ---

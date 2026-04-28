@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**腐蚀，侵蚀**==；②使腐蚀；
+**v.** ①==**腐蚀，侵蚀**== `Acid corrodes metal / Iron corrodes easily` [学术/科普]；②==**使腐蚀**== `corrode trust / corrode confidence` [书面]；
 
 > [!tip] 原型义
 > **原型义**：咬蚀（一点一点地啃噬，拉丁语 *corrodere*：cor-完全 + rodere 咬）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - corrode 在考研中多出现在科普、材料科学、社会评论类阅读中
-> - "Acid rain corrodes buildings and monuments."（酸雨腐蚀建筑物和纪念碑。）
+> - Corruption has corroded our confidence in the police force. `[真题]`
+> - The new water was harder, and government officials allowed it to corrode the city's pipes. `[真题]`
+> - The constant lies and broken promises have started to corrode trust among the employees. `[真题]`
 
 
 ---

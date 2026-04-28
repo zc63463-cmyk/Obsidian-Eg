@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**对应的人（或物），职务相当的人**==；②副本，配对物；
+**n.** ①==**对应的人（或物），职务相当的人**== `his Chinese/European counterpart` [正式]；②副本，配对物 `the female counterpart` [正式]；
 
 > [!tip] 原型义
 > **原型义**：对应的部分（在对面位置上相对应的部分）
@@ -119,7 +119,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The President met with his Chinese counterpart to discuss trade issues."（总统与中国国家主席会晤讨论贸易问题。）
+> - The president will meet with his Brazilian counterpart tomorrow. `[语料库]`
+> - The prime minister is to meet his European counterparts to discuss the war against drugs. `[真题]`
+> - The minister held talks with his French counterpart. `[语料库]`
+> - Potatoes first arrived on these shores in the 1620s as a gift from the governor of the Bahamas to his counterpart in the colony of Virginia. `[语料库]`
 
 
 ---
