@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**类似的，同类的**==；②有亲属关系的；
+**adj.** ①==**类似的，同类的**== `adj. to N` [正式] `N adj. to N` [正式]；②==**有亲属关系的**== `be adj.` [正式]；
 
 > [!tip] 原型义
 > **原型义**：同族的（属于同一血缘或种类）
@@ -123,7 +123,9 @@ a-(=of, 属于) + kin(亲属，家族)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The feeling of loneliness is akin to physical pain, according to recent research.
+> - The feeling of loneliness is akin to physical pain, according to recent research. `[例]`
+> - The new policy is something akin to a tax increase disguised as a reform. `[例]`
+> - The two languages are closely akin, sharing many grammatical structures and vocabulary. `[例]`
 
 ## 复习记录
 

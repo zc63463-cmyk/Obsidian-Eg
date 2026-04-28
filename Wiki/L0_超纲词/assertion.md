@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**断言，主张**==；②维护，坚持（权利等）；③断言的陈述；
+**n.** ①==**断言，主张**== `N that-clause` [中性]；②==**维护，坚持**== `N of N` [正式]；③==**断言的陈述**== [中性]；
 
 > [!tip] 原型义
 > **原型义**：坚定地声明某事为真（"绑定"自己的立场）
@@ -127,8 +127,8 @@ as-(=ad-, 向，加强) + sert(结合，连接，拉丁语 *serere*) + -ion(名�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The author's assertion that technology is making us less intelligent is not supported by evidence."（作者关于技术正在使我们变得不那么聪明的断言没有证据支持——学术写作类语料）
-> - "The assertion of national sovereignty became a central issue in the negotiations."（维护国家主权成为谈判中的核心议题——政治类语料）
+> - The author's assertion that technology is making us less intelligent is not supported by evidence.`[例]`
+> - The assertion of national sovereignty became a central issue in the negotiations.`[例]`
 
 ## 复习记录
 

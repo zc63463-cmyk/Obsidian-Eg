@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**将……一分为二，平分**==；②横穿，穿过；
+**v.** ①==**将……一分为二，平分**== `V N` [学术] `V N into N` [学术]；②==**横穿，穿过**== `V N` [地理]；
 
 > [!tip] 原型义
 > **原型义**：切成两半
@@ -124,8 +124,8 @@ bi-(二/两) + [[sec-sect|sect]](切)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - bisect 常出现在地理描述、数学相关语料中
-> - 相关阅读话题：geography, geometry, urban planning
+> - A narrow river bisects the old town into two distinct halves. `[例]`
+> - In geometry class, students learned how to bisect an angle using a compass and straightedge. `[例]`
 
 ## 复习记录
 

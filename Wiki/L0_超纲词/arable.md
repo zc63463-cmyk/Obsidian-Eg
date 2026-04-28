@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可耕种的，适于耕作的**==；
-**n.** ①耕地，可耕地；
+**adj.** ①==**可耕种的，适于耕作的**== `adj N` [中性]；
+**n.** ①==**耕地，可耕地**== [中性]；
 
 > [!tip] 原型义
 > **原型义**：可被犁的土地
@@ -125,8 +125,8 @@ ar(犁，耕种，拉丁语 *arare*) + -able(可以被……的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "China has only about 7% of the world's arable land, yet it feeds nearly 20% of the global population."（中国仅拥有世界约7%的可耕地，却养活了近20%的全球人口——经济/地理类语料）
-> - "Urbanization has led to a significant loss of arable land in many developing countries."（城市化导致许多发展中国家可耕地大量流失——环保类语料）
+> - China has only about 7% of the world's arable land, yet it feeds nearly 20% of the global population.`[例]`
+> - Urbanization has led to a significant loss of arable land in many developing countries.`[例]`
 
 ## 复习记录
 

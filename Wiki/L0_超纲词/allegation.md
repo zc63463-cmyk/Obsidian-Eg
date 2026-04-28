@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**指控，声称**==（未经证实的）；②陈述，声明；
+**n.** ①==**指控，声称**==（未经证实的） `N of N` [法律/新闻] `make/deny N` [法律/新闻]；②==**陈述，声明**== `N that-clause` [正式]；
 
 > [!tip] 原型义
 > **原型义**：被声称的事（有人提出但尚未证实的声明）
@@ -125,7 +125,9 @@ al-(=ad-, 朝向) + [[leg|lect-leg]](法律，拉丁语 *lex/legis*) + -ation(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company faced allegations of environmental pollution and was forced to investigate.
+> - The company faced allegations of environmental pollution and was forced to investigate. `[例]`
+> - He strongly denied the allegations of financial misconduct brought against him. `[例]`
+> - The committee investigated allegations that the research data had been fabricated. `[例]`
 
 ## 复习记录
 

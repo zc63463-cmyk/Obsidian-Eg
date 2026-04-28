@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使自动化**==；②用自动装置操作；
-**vi.** ①自动化；
+**vt.** ①==**使自动化**== `V N` [科技]；②==**用自动装置操作**== `V N` [科技]；
+**vi.** ①==**自动化**== `V` [科技]；
 
 > [!tip] 原型义
 > **原型义**：使自动运行（让机器按自己的意志行动）
@@ -127,8 +127,8 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many companies have automated their customer service using AI chatbots."（许多公司已经使用AI聊天机器人实现了客户服务自动化——科技类语料）
-> - "The automated assembly line can produce 1,000 units per hour."（自动化装配线每小时可以生产1000个单位——工业类语料）
+> - Many companies have automated their customer service using AI chatbots. `[例]`
+> - The automated assembly line can produce 1,000 units per hour. `[例]`
 
 ## 复习记录
 

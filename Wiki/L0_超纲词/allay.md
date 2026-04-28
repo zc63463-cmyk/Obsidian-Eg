@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**减轻，缓和（恐惧、怀疑等）**==；②平息，安抚；
+**v.** ①==**减轻，缓和（恐惧、怀疑等）**== `V N` [正式]；②==**平息，安抚**== `V N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使躺下（让焦虑或恐惧"躺下来"不再躁动）
@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government took measures to allay public fears about the economic crisis.
+> - The government took measures to allay public fears about the economic crisis. `[例]`
+> - The CEO's transparent communication helped allay investor concerns about the company's future. `[例]`
+> - The doctor tried to allay her anxiety by explaining the procedure in detail. `[例]`
 
 ## 复习记录
 

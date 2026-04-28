@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宽度，广度**==；②（知识、经验等的）广泛性；
+**n.** ①==**宽度，广度**== `breadth of N` [书面] `the length and breadth of N` [书面]；②（知识、经验等的）广泛性 `breadth of knowledge` [学术]；
 
 > [!tip] 原型义
 > **原型义**：宽度（从一边到另一边的距离）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - breadth 常出现在教育、学术评价相关语料中
-> - 相关阅读话题：education, academic assessment, intellectual development
+> - The breadth of her knowledge across multiple disciplines impressed the entire interview panel. `[例]`
+> - He traveled the length and breadth of the country to document traditional folk music before it disappeared. `[例]`
 
 ## 复习记录
 

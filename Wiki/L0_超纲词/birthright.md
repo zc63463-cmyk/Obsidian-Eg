@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**与生俱来的权利，天生的权利**==；②长子继承权；
+**n.** ①==**与生俱来的权利，天生的权利**== `N of N` [庄重] `N to V` [庄重]；②==**长子继承权**== `N of N` [历史]；
 
 > [!tip] 原型义
 > **原型义**：出生时就拥有的权利
@@ -124,8 +124,8 @@ birth(出生) + right(权利)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - birthright 常出现在人权、政治哲学、历史相关语料中
-> - 相关阅读话题：human rights, freedom, inheritance
+> - Freedom of speech is considered a birthright of every citizen in a democratic society. `[例]`
+> - He foolishly sold his birthright for a momentary advantage, much like Esau in the biblical story. `[例]`
 
 ## 复习记录
 

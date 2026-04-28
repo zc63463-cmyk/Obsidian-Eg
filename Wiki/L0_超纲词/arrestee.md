@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**被逮捕者，被捕者**==；
+**n.** ①==**被逮捕者，被捕者**== `the arrestee was V-ed` [法律]；
 
 > [!tip] 原型义
 > **原型义**：被阻止、被留住的人
@@ -121,8 +121,8 @@ ar-(=ad-, 向，加强) + rest(停留，休息) + -ee(被动接受动作的人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The arrestee was read his Miranda rights before being questioned."（被逮捕者在被审问前被宣读了米兰达权利——法律类语料）
-> - "The arrestee claimed that the police used excessive force during the arrest."（被逮捕者声称警方在逮捕过程中使用了过度武力——新闻类语料）
+> - The arrestee was read his Miranda rights before being questioned.`[例]`
+> - The arrestee claimed that the police used excessive force during the arrest.`[例]`
 
 ## 复习记录
 

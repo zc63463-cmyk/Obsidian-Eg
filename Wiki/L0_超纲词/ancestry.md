@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**祖先，世系**==；②血统，出身；
+**n.** ①==**祖先，世系**== `V one's N` `of adj. N` [正式]；②血统，出身 `N of N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：走在前面的人（先于自己出生的历代祖先）
@@ -124,7 +124,8 @@ ance(=ante, 在前面) + [[st-sta-stat]](站立) + -ry(名词后缀，表集合/
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many Americans take pride in tracing their ancestry to different parts of the world.
+> - Many Americans take pride in tracing their ancestry to different parts of the world. `[例]`
+> - She discovered that her ancestry included both European and Asian heritage. `[例]`
 
 ## 复习记录
 

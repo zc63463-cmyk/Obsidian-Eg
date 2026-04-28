@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**装饰，装饰品**==；②装饰行为；
+**n.** ①==**装饰，装饰品**== `N as adornment` `personal adornment` [正式/文学]；②==**装饰行为**== `adornment of N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：装饰之物（用来装饰和美化的事物）
@@ -122,7 +122,9 @@ ad-(朝向) + orn(装饰) + -ment(名词后缀，表结果/物)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - In many cultures, personal adornment serves as a marker of social status.
+> - In many cultures, personal adornment serves as a marker of social status. `[例]`
+> - The museum displayed a collection of gold adornments that once belonged to ancient royalty. `[例]`
+> - The simple elegance of the room required minimal adornment to achieve its refined atmosphere. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**艺术作品，美术作品**==；②插图，图稿（出版物中的图片）；
+**n.** ①==**艺术作品，美术作品**== `adj N` [中性]；②==**插图，图稿**== `adj N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：艺术的工作成果
@@ -125,8 +125,8 @@ art(艺术) + work(作品，工作成果)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The museum houses an impressive collection of modern artwork."（这座博物馆收藏了令人印象深刻的现代艺术作品——文化类语料）
-> - "The album's cover artwork was designed by a famous graphic artist."（这张专辑的封面设计由一位著名的平面艺术家完成——音乐类语料）
+> - The museum houses an impressive collection of modern artwork.`[例]`
+> - The album's cover artwork was designed by a famous graphic artist.`[例]`
 
 ## 复习记录
 

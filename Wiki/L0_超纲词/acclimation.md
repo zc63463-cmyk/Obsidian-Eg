@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**适应（环境），服水土**==；②气候适应过程；③驯化；
+**n.** ①==**适应（环境），服水土**== `N to N` `[生物]`；②气候适应过程 `the N period` `[生物]`；③驯化 `the N of N` `[生物]`；
 
 > [!tip] 原型义
 > **原型义**：使趋向气候（逐渐适应新的气候/环境条件）
@@ -126,7 +126,8 @@ ac-(=ad-, 朝向) + [[clim|clin-]](倾斜，趋向) + -ation(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Athletes require a period of acclimation to high-altitude environments before competition.
+> - Athletes require a period of acclimation to high-altitude environments before competing in mountainous regions. `[例]`
+> - The plants underwent a gradual acclimation process before being transplanted to the outdoor garden. `[例]`
 
 ## 复习记录
 

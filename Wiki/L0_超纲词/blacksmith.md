@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**铁匠，锻工**==；
+**n.** ①==**铁匠，锻工**== `N` [传统] `the N` [传统]；
 
 > [!tip] 原型义
 > **原型义**：锻造铁器的工匠
@@ -120,8 +120,8 @@ black(黑) + smith(工匠/铁匠)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - blacksmith 常出现在历史、文学、传统工艺相关语料中
-> - 相关阅读话题：traditional crafts, industrial revolution, rural life
+> - The village blacksmith shaped a glowing piece of iron into a horseshoe on his anvil. `[例]`
+> - Before the Industrial Revolution, every town relied on a skilled blacksmith to make and repair tools. `[例]`
 
 ## 复习记录
 

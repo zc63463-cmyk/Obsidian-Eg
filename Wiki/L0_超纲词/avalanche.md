@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**雪崩**==；②（引申）山崩；③==**（引申）如雪崩般涌来的大量事物**==；
-**vi.** ①崩塌，涌至；
+**n.** ①==**雪崩**== `N of N` [书面]；②（引申）山崩；③==**（引申）如雪崩般涌来的大量事物**== `an avalanche of N` [通用]；
+**vi.** ①崩塌，涌至 `V prep N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：雪崩（大量积雪从山坡上突然崩塌滑落）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "An avalanche of complaints poured in after the company announced its new policy."（公司宣布新政策后，雪崩般的投诉涌来）
-> - "The region is prone to avalanches during the winter months."（该地区在冬季容易发生雪崩）
+> - An avalanche of complaints poured in after the company announced its new policy. `C` `[例]`
+> - The region is prone to avalanches during the winter months. `C` `[例]`
 
 ## 复习记录
 

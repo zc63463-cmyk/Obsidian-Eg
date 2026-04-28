@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**血液（在体内的循环流动）**==；
+**n.** ①==**血液（在体内的循环流动）**== `the N` [医学] `enter the N` [医学]；
 
 > [!tip] 原型义
 > **原型义**：血液在体内流动的通道
@@ -121,8 +121,8 @@ blood(血) + stream(溪流)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - bloodstream 常出现在医学、健康、药物相关语料中
-> - 相关阅读话题：drug delivery, disease, medical research
+> - Once the medication enters the bloodstream, it is carried to every organ in the body. `[例]`
+> - The test measures the concentration of glucose in the bloodstream over a twelve-hour period. `[例]`
 
 ## 复习记录
 

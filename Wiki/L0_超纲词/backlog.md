@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**积压的工作/订单**==（未完成的任务积累）；②==**储备，积存**==（留待后用的储备物）；
-**v.** ①积压，累积（使任务堆积）；
+**n.** ①==**积压的工作/订单**== `a backlog of n` [中性]；②==**储备，积存**== `a backlog of n` [中性]；
+**v.** ①==**积压，累积**== `N backlog` [中性]；
 
 > [!tip] 原型义
 > **原型义**：壁炉后方的大木头（放在壁炉最后面的大圆木，用来维持火势）
@@ -132,8 +132,8 @@ back-(后面) + [[log-logy|log]](圆木)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The pandemic created a massive backlog of surgeries and medical procedures."（疫情造成了手术和医疗程序的严重积压。）
-> - "The company is struggling to cope with a backlog of customer complaints."（公司正努力应对积压的客户投诉。）
+> - The pandemic created a massive backlog of surgeries and medical procedures.`[例]`
+> - The company is struggling to cope with a backlog of customer complaints.`[例]`
 
 ## 复习记录
 

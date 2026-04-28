@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**证明，证实**==；②（在法律文件上）签字作证；
+**v.** ①==**证明，证实**== `V to N` [正式]；②==**（在法律文件上）签字作证**== `V N` [法律]；
 
 > [!tip] 原型义
 > **原型义**：站在某事旁边证明（作为见证者）
@@ -127,8 +127,8 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Numerous studies attest to the effectiveness of regular exercise in reducing stress."（大量研究证明定期锻炼对减轻压力的有效性——健康类语料）
-> - "The ancient ruins attest to the sophistication of this early civilization."（古代遗迹证明了这一早期文明的先进程度——历史类语料）
+> - Numerous studies attest to the effectiveness of regular exercise in reducing stress. `[例]`
+> - The ancient ruins attest to the sophistication of this early civilization. `[例]`
 
 ## 复习记录
 

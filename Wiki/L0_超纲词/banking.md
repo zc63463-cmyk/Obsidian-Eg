@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**银行业，银行事务**==（银行经营的业务）；②==**银行学**==（研究银行业务的学科）；
-**adj.** ①银行业的，金融的；
+**n.** ①==**银行业，银行事务**== `the banking industry` [中性]；②==**银行学**== `a degree in banking` [中性]；
+**adj.** ①==**银行业的，金融的**== `adj N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：钱商的柜台/长凳（意大利语 *banca*，意为"长凳"，指货币兑换商坐在上面做生意的桌子）
@@ -134,8 +134,8 @@ bank(银行，源自古日耳曼语 *bankiz* "长凳/架子") + -ing(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The global banking crisis of 2008 exposed fundamental weaknesses in financial regulation."（2008年的全球银行业危机暴露了金融监管的根本性弱点。）
-> - "Mobile banking has transformed the way people in developing countries access financial services."（移动银行改变了发展中国家人们获取金融服务的方式。）
+> - The global banking crisis of 2008 exposed fundamental weaknesses in financial regulation.`[例]`
+> - Mobile banking has transformed the way people in developing countries access financial services.`[例]`
 
 ## 复习记录
 

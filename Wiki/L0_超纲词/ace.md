@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**王牌，佼佼者**==；②（纸牌中的）A；③（网球等）发球得分；
-**adj.** ①一流的，杰出的；
-**v.** ①在……中取得好成绩；②发球得分；
+**n.** ①==**王牌，佼佼者**== `an ace N` `within an ace of V-ing` [口语]；②==**（纸牌中的）A**== `the ace of N` [通用]；③==**（网球等）发球得分**== `ace a serve` [体育]；
+**adj.** ①==**一流的，杰出的**== `an ace N` [口语]；
+**v.** ①==**在……中取得好成绩**== `ace N` `ace the exam/test` [口语]；②==**发球得分**== `ace a serve` [体育]；
 
 > [!tip] 原型义
 > **原型义**：一点（骰子或纸牌上标记为"一"的那一面）
@@ -132,7 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She aced the entrance exam and was admitted to the top university.
+> - She aced the entrance exam and was admitted to the top university. `[例]`
+> - The young pitcher aced the final set with a series of powerful serves. `[例]`
+> - He is widely regarded as an ace negotiator who never fails to close a deal. `[例]`
 
 ## 复习记录
 

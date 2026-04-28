@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**生物的，生物学的**==；②与生命过程有关的；
+**adj.** ①==**生物的，生物学的**== `adj biological N` [学术]；`biological N` [通用]；②与生命过程有关的；
 
 > [!tip] 原型义
 > **原型义**：与生命有关的
@@ -127,8 +127,8 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - biological 常出现在科学、环境、医学相关语料中
-> - 相关阅读话题：biodiversity, genetics, evolution
+> - The rapid loss of biological diversity poses a serious threat to the stability of global ecosystems. `[例]`
+> - Scientists have discovered that disruptions to the biological clock can significantly affect human health and behavior. `[例]`
 
 ## 复习记录
 

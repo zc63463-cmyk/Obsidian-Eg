@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**带宽**==（通信系统中数据传输的能力/速率）；②==**频带宽度**==（特定频段的频率范围）；③==**精力/能力范围**==（比喻人的精力或处理能力）；
-**adj.** ①宽频带的；
+**n.** ①==**带宽**== `high/wide bandwidth` [中性]；②==**频带宽度**== `the bandwidth of n` [技术]；③==**精力/能力范围**== `have the bandwidth to V` [口语]；
+**adj.** ①==**宽频带的**== `adj N` [技术]；
 
 > [!tip] 原型义
 > **原型义**：频段的宽度（band of frequencies 的 width，即一段频率范围的宽窄）
@@ -130,8 +130,8 @@ band(频段/带) + width(宽度)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company lacks the bandwidth to take on additional projects this quarter."（公司本季度没有余力承接更多项目。）
-> - "As remote work becomes the norm, insufficient bandwidth has become a major barrier to productivity."（随着远程办公成为常态，带宽不足已成为生产力的主要障碍。）
+> - The company lacks the bandwidth to take on additional projects this quarter.`[例]`
+> - As remote work becomes the norm, insufficient bandwidth has become a major barrier to productivity.`[例]`
 
 ## 复习记录
 

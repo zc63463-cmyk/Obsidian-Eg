@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**利他的，无私的**==；
+**adj.** ①==**利他的，无私的**== `adj. N` `be adj. to V` [正式]；
 
 > [!tip] 原型义
 > **原型义**：为他人活的（把别人的利益放在自己之前）
@@ -125,7 +125,8 @@ altr-(=alter, 其他，拉丁语 *alteri* "others") + -u- + -ist(人) + -ic(形�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Evolutionary biologists have long debated whether altruistic behavior can be explained by natural selection.
+> - Evolutionary biologists have long debated whether altruistic behavior can be explained by natural selection. `[例]`
+> - Many people engage in altruistic acts without expecting any reward or recognition. `[例]`
 
 ## 复习记录
 

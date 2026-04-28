@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**对抗性的，敌对的**==；②对手的，敌手的；
+**adj.** ①==**对抗性的，敌对的**== `adversarial adj. N` `adversarial relationship between N and N` [正式]；②==**对手的，敌手的**== `adversarial N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：面对面反对（像对手一样站在对面反对你）
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The adversarial nature of the legal system can sometimes hinder the search for truth.
+> - The adversarial nature of the legal system can sometimes hinder the search for truth. `[例]`
+> - An adversarial relationship between the two departments has significantly slowed down the project progress. `[例]`
+> - The company decided to adopt a more collaborative approach rather than relying on adversarial negotiations. `[例]`
 
 ## 复习记录
 

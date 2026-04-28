@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**西兰花，花椰菜**==；
+**n.** ①==**西兰花，花椰菜**== `steamed broccoli` [通用] `broccoli soup` [通用]；
 
 > [!tip] 原型义
 > **原型义**：西兰花（一种绿色蔬菜）
@@ -118,8 +118,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - broccoli 常出现在健康饮食、营养科学相关语料中
-> - 相关阅读话题：healthy eating, nutrition, superfoods
+> - Broccoli is rich in vitamin C, fiber, and antioxidants, making it one of the most nutritious vegetables available. `[例]`
+> - She added steamed broccoli and grilled chicken to her salad for a balanced and healthy lunch. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**暗指，间接提到**==；
+**v.** ①==**暗指，间接提到**== `V to N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：旁敲侧击地说（不直接说出，而是间接暗示）
@@ -123,7 +123,9 @@ al-(=ad-, 朝向) + lud(玩，演戏，拉丁语 *ludere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The president alluded to the need for economic reform without providing specific details.
+> - The president alluded to the need for economic reform without providing specific details. `[例]`
+> - In her speech, she alluded to the recent scandal but never mentioned it directly. `[例]`
+> - The poet alluded to classical mythology to add depth to the narrative. `[例]`
 
 ## 复习记录
 

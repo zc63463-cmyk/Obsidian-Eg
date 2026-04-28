@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**可达性，可及性**==；②无障碍性（为残障人士提供便利）；③易接近性，平易近人；
+**n.** ①==**可达性，可及性**== `the N of N` `[通用]`；②无障碍性（为残障人士提供便利） `wheelchair N / digital N` `[社会]`；③易接近性，平易近人 `the N of N` `[通用]`；
 
 > [!tip] 原型义
 > **原型义**：能走向（能够接近、进入某处）
@@ -127,7 +127,8 @@ ac-(=ad-, 朝向) + [[cess|ced-/cess-]](走) + -ibil(-able，可被) + -ity(名�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government has made efforts to improve the accessibility of public buildings for people with disabilities.
+> - The government has made significant efforts to improve the accessibility of public buildings for people with disabilities. `[例]`
+> - Digital accessibility ensures that websites and applications can be used by people with visual or hearing impairments. `[例]`
 
 ## 复习记录
 

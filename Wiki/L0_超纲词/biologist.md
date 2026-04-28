@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生物学家**==；
+**n.** ①==**生物学家**== `a/an adj biologist` [通用]；`N biologist` [学术]；
 
 > [!tip] 原型义
 > **原型义**：研究生命的学者
@@ -122,8 +122,8 @@ bio-(生命) + [[log-logy|log]](学科) + -ist(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - biologist 常出现在科学发现、进化论、环境科学相关语料中
-> - 相关阅读话题：evolution, ecology, genetics
+> - The marine biologist devoted her career to studying the migration patterns of whales in the Pacific Ocean. `[例]`
+> - Evolutionary biologists have long debated the mechanisms that drive speciation in isolated populations. `[例]`
 
 ## 复习记录
 

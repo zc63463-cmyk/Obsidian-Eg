@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**动画，动画片**==；②生气，活力；③激动，兴奋；
+**n.** ①==**动画，动画片**== `adj. N` `N of N` [通用]；②生气，活力 `N of N` `full of N` [文学]；③激动，兴奋 `with N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：注入灵魂（使无生命的东西"活"起来）
@@ -127,7 +127,8 @@ anim(灵魂，生命，拉丁语 *anima*) + -ation(名词后缀，表动作/结�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The advancement of computer animation has revolutionized the film industry.
+> - The advancement of computer animation has revolutionized the film industry. `[例]`
+> - The children watched the animation with great delight and excitement. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**百老汇（纽约的戏剧中心）**==；②百老汇戏剧/音乐剧；
+**n.** ①==**百老汇（纽约的戏剧中心）**== `a N show` `[文化]`；②百老汇戏剧/音乐剧 `N musical / N theater` `[文化]`；
 
 > [!tip] 原型义
 > **原型义**：百老汇大街（纽约戏剧中心）
@@ -123,8 +123,8 @@ broad(宽的) + way(路)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Broadway 常出现在文化、艺术、娱乐相关语料中
-> - 相关阅读话题：American culture, performing arts, entertainment industry
+> - The new musical premiered on Broadway last month and received standing ovations. `[例]`
+> - She has been performing in Broadway productions for over two decades. `[例]`
 
 ## 复习记录
 

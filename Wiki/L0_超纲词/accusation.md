@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**指控，控告**==；②谴责，指责；
+**n.** ①==**指控，控告**== `accusation of N` `face/make an accusation against sb` [法律/正式]；②==**谴责，指责**== `unfair/false accusation` `accusation that-clause` [通用]；
 
 > [!tip] 原型义
 > **原型义**：因事而起诉讼（因某事对某人提起法律指控）
@@ -126,7 +126,9 @@ ac-(=ad-, 朝向) + cus(=cause, 事由/原因) + -ation(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He denied the accusation of fraud and demanded a fair trial.
+> - He denied the accusation of fraud and demanded a fair trial. `[例]`
+> - The opposition party leveled accusations of corruption against several senior government officials. `[例]`
+> - She was shocked by the unfair accusations that appeared in the local newspaper. `[例]`
 
 ## 复习记录
 

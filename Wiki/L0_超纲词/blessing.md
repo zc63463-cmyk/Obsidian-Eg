@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**祝福，赐福**==；②幸事，好事；③（饭前）感恩祷告；
+**n.** ①==**祝福，赐福**== `N` [宗教] `give one's N` [日常]；②==**幸事，好事**== `a N` [日常]；③==**（饭前）感恩祷告**== `say a N` [宗教]；
 
 > [!tip] 原型义
 > **原型义**：神的赐福
@@ -126,8 +126,8 @@ bless(祝福) + -ing(名词后缀，表动作或结果)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - blessing 常出现在生活感悟、宗教文化相关语料中
-> - 相关阅读话题：gratitude, life philosophy, religion
+> - Losing that job turned out to be a blessing in disguise, as it pushed her to start her own business. `[例]`
+> - The elderly couple counted their blessings every evening, grateful for their health and family. `[例]`
 
 ## 复习记录
 

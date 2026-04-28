@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**夸大的言辞，空洞的大话**==；②（言辞或写作的）浮夸作风；
+**n.** ①==**夸大的言辞，空洞的大话**== `N` [贬义] `adj. N` [贬义]；②==**（言辞或写作的）浮夸作风**== `N` [文学批评]；
 
 > [!tip] 原型义
 > **原型义**：夸张空洞的言辞
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - bombast 常出现在政治评论、文学批评相关语料中
-> - 相关阅读话题：political rhetoric, media criticism, literary analysis
+> - The senator's speech was full of empty bombast that offered no real solutions to the crisis. `[例]`
+> - Critics dismissed the novel as literary bombast, noting that its elaborate prose masked a thin plot. `[例]`
 
 ## 复习记录
 

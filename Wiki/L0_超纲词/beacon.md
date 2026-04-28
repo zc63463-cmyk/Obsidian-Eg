@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**灯塔，信标**==（用于导航的信号灯/信号火）；②==**指路明灯，标杆**==（比喻指引方向的人或事物）；③烽火；
-**v.** ①==**照亮，指引**==；②像灯塔般照耀；
+**n.** ①==**灯塔，信标**== `a beacon of N` [文学]；`N beacon` [通用]；②==**指路明灯，标杆**== `a beacon of N` [文学]；③烽火；
+**v.** ①==**照亮，指引**== `V N` [通用]；`V prep N` [书面]；②像灯塔般照耀；
 
 > [!tip] 原型义
 > **原型义**：烽火，信号火（在山顶、塔楼或高杆上点燃的火，用于远距离传递信号或导航）
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The university has long been a beacon of academic excellence and intellectual freedom."（这所大学长期以来一直是学术卓越和思想自由的灯塔。）
-> - "In the darkness of the Great Depression, Roosevelt's fireside chats served as a beacon of reassurance."（在大萧条的黑暗中，罗斯福的炉边谈话成为了安心的灯塔。）
+> - The university has long been a beacon of academic excellence and intellectual freedom. `[例]`
+> - In the darkness of the Great Depression, Roosevelt's fireside chats served as a beacon of reassurance. `[例]`
 
 ## 复习记录
 

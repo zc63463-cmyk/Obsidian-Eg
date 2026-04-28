@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**对立的，敌对的**==；②对抗性的；
+**adj.** ①==**对立的，敌对的**== `adj. to/toward N` `adj. N` [正式]；②对抗性的 `adj. N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：对手之间的（像竞争对手一样互相对立）
@@ -126,7 +126,8 @@ anti-(反对，对抗) + agon(竞争，斗争，希腊语 *agon*) + -ist(人) + 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The two political parties have maintained an antagonistic relationship for decades.
+> - The two political parties have maintained an antagonistic relationship for decades. `[例]`
+> - The manager's antagonistic attitude toward new ideas stifled innovation in the team. `[例]`
 
 ## 复习记录
 

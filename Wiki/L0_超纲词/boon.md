@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恩惠，福利，有益的事物**==；
-**adj.** ①愉快的，欢乐的（古用法）；
+**n.** ①==**恩惠，福利，有益的事物**== `a boon to N` [书面] `prove a boon` [书面]；
+**adj.** ①愉快的，欢乐的（古用法） `a boon companion` [古]；
 
 > [!tip] 原型义
 > **原型义**：有益的事物
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - boon 常出现在科技评论、经济分析相关语料中
-> - 相关阅读话题：technology benefits, economic development, social welfare
+> - The internet has proved a tremendous boon to education in rural areas. `[例]`
+> - This new software is a boon to small businesses that cannot afford expensive accounting systems. `[例]`
 
 ## 复习记录
 

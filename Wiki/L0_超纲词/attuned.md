@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**熟悉……的，了解……的**==；②与……一致的，协调的；③（乐器）调好音的；
+**adj.** ①==**熟悉……的，了解……的**== `adj to N` [通用]；②==**与……一致的，协调的**== `adj to N` [通用]；③==**（乐器）调好音的**== `adj` [音乐]；
 
 > [!tip] 原型义
 > **原型义**：调好音的（调到正确的音调）
@@ -126,8 +126,8 @@ at-(=ad-, 向，加强) + tune(音调，调音) + -ed(形容词后缀，表示�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Successful leaders are attuned to the needs and concerns of their employees."（成功的领导者熟悉员工的需求和关切——管理类语料）
-> - "Children are remarkably attuned to the emotional states of their parents."（儿童对父母的情绪状态有着敏锐的感知——心理学类语料）
+> - Successful leaders are attuned to the needs and concerns of their employees. `[例]`
+> - Children are remarkably attuned to the emotional states of their parents. `[例]`
 
 ## 复习记录
 

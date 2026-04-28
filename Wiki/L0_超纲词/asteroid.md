@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小行星**==；
-**adj.** ①星状的， asteroid 形的；
+**n.** ①==**小行星**== `N` [科学]；
+**adj.** ①==**星状的，asteroid 形的**== `adj N` [科学]；
 
 > [!tip] 原型义
 > **原型义**：像星星一样的天体
@@ -126,8 +126,8 @@ aster(星星，希腊语 *aster*) + -oid(像……的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "An asteroid impact 66 million years ago is believed to have caused the extinction of the dinosaurs."（6600万年前的小行星撞击被认为是导致恐龙灭绝的原因——科学类语料）
-> - "NASA is developing a mission to deflect a potentially hazardous near-Earth asteroid."（NASA正在开发一项任务来偏转一颗潜在危险的近地小行星——科技新闻类语料）
+> - An asteroid impact 66 million years ago is believed to have caused the extinction of the dinosaurs. `[例]`
+> - NASA is developing a mission to deflect a potentially hazardous near-Earth asteroid. `[例]`
 
 ## 复习记录
 

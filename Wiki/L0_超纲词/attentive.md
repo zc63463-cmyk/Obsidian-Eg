@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**注意的，专心的**==；②关心的，体贴的；
+**adj.** ①==**注意的，专心的**== `adj to N` [通用]；②==**关心的，体贴的**== `adj to N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：注意力朝向的（把心思"拉伸"向某事）
@@ -126,8 +126,8 @@ at-(=ad-, 向，加强) + [[tempt-tent|tent]](拉伸，倾向，拉丁语 *tende
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The students were remarkably attentive during the guest lecture."（学生在客座讲座期间非常专心——教育类语料）
-> - "The hotel is known for its attentive service and luxurious amenities."（这家酒店以周到的服务和豪华的设施闻名——旅游类语料）
+> - The students were remarkably attentive during the guest lecture. `[例]`
+> - The hotel is known for its attentive service and luxurious amenities. `[例]`
 
 ## 复习记录
 

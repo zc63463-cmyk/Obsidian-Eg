@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**广告牌，布告板**==；②宣传展示板；
+**n.** ①==**广告牌，布告板**== `a/this/the billboard` [通用]；`adj billboard` [通用]；②宣传展示板；
 
 > [!tip] 原型义
 > **原型义**：用于张贴广告的大型户外板
@@ -124,8 +124,8 @@ bill（账单/海报）+ board（板）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - billboard 常出现在商业广告、城市规划相关语料中
-> - 相关阅读话题：outdoor advertising, visual pollution
+> - The company rented a giant billboard along the highway to promote its new product line. `[例]`
+> - Digital billboards have become increasingly common in major cities around the world. `[例]`
 
 ## 复习记录
 

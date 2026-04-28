@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使美化，装饰**==（使某物变得更美丽）；②==**变美**==（自身变得美丽）；
+**v.** ①==**使美化，装饰**== `V N` [通用]；`V N with N` [书面]；②==**变美**== `N beautify` [书面]；
 **n.** ①美化，装饰（罕见用法）；
 
 > [!tip] 原型义
@@ -132,8 +132,8 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Community volunteers worked together to beautify the neighborhood by planting trees and cleaning up the park."（社区志愿者们齐心协力，通过种树和清理公园来美化社区。）
-> - "The urban renewal project aims to beautify the downtown area while preserving its historic character."（城市更新项目旨在美化市中心区域，同时保留其历史特色。）
+> - Community volunteers worked together to beautify the neighborhood by planting trees and cleaning up the park. `[例]`
+> - The urban renewal project aims to beautify the downtown area while preserving its historic character. `[例]`
 
 ## 复习记录
 

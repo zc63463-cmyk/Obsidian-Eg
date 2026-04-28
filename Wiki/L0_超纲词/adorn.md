@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**装饰，装扮**==；②使生辉，增添光彩；
+**v.** ①==**装饰，装扮**== `adorn N with N` `be adorned with N` [正式/文学]；②==**使生辉，增添光彩**== `adorn N` `N adorned with N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：装饰（给某物加上装饰物使其更加美观）
@@ -123,7 +123,9 @@ ad-(朝向，加强) + orn(装饰，拉丁语 *ornare*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The hall was adorned with beautiful paintings and sculptures.
+> - The hall was adorned with beautiful paintings and sculptures. `[例]`
+> - The ancient cathedral is adorned with intricate stained glass windows that date back to the 13th century. `[例]`
+> - She adorned herself with pearls and diamonds for the grand ceremony. `[例]`
 
 ## 复习记录
 

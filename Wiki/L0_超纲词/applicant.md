@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**申请人，求职者**==；②申请者（寻求某种资格或权利的人）；
+**n.** ①==**申请人，求职者**== `adj. N` `N for N` [通用]；②申请者（寻求某种资格或权利的人） `N for N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：向前伸出手请求的人
@@ -125,8 +125,8 @@ ap-(=ad-, 向，加强) + [[plic-plex|plic]](折叠，拉丁语 *plicare*) + -an
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company received over 500 applications from qualified applicants."（公司收到了500多份来自合格申请人的申请——常见商务语料）
-> - "Applicants must submit their materials before the deadline."（申请人必须在截止日期前提交材料——常见学术语料）
+> - The company received over 500 applications from qualified applicants. `[例]`
+> - Applicants must submit their materials before the deadline. `[例]`
 
 ## 复习记录
 

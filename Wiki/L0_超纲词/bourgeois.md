@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**资产阶级的，中产阶级的**==；②追求物质享受的，庸俗的；
-**n.** ①==**资产阶级分子，中产阶级人士**==；
+**adj.** ①==**资产阶级的，中产阶级的**== `bourgeois N` [学术/批评] `bourgeois values` [贬义]；②追求物质享受的，庸俗的 `bourgeois tastes` [贬义]；
+**n.** ①==**资产阶级分子，中产阶级人士**== `the bourgeois` [学术]；
 
 > [!tip] 原型义
 > **原型义**：城镇居民（中产阶级）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - bourgeois 常出现在马克思主义理论、社会批评、文化研究相关语料中
-> - 相关阅读话题：Marxism, social class, cultural criticism
+> - The author criticized the bourgeois values that dominated post-war suburban life. `[例]`
+> - Many intellectuals of that era rejected bourgeois society and its emphasis on material comfort. `[例]`
 
 ## 复习记录
 

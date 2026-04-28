@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**集思广益，头脑风暴**==；②动脑筋想办法；
-**n.** ①头脑风暴；②灵感突然涌现；
+**v.** ①==**集思广益，头脑风暴**== `brainstorm N` [通用] `brainstorm with N` [通用]；②动脑筋想办法 `brainstorm ways to V` [通用]；
+**n.** ①头脑风暴 `a brainstorm session` [通用]；②灵感突然涌现 `a brainstorm of ideas` [文学]；
 
 > [!tip] 原型义
 > **原型义**：头脑风暴（集体自由讨论以产生创意）
@@ -127,8 +127,8 @@ brain(大脑) + storm(风暴)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - brainstorm 常出现在商业、教育、创新相关语料中
-> - 相关阅读话题：innovation, team collaboration, problem-solving
+> - The team brainstormed several creative solutions to the supply chain problem during the afternoon session. `[例]`
+> - We need to brainstorm with the marketing department before finalizing the campaign strategy. `[例]`
 
 ## 复习记录
 

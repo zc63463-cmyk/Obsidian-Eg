@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**哮喘，气喘**==；
+**n.** ①==**哮喘，气喘**== `N` [医学]；
 
 > [!tip] 原型义
 > **原型义**：喘息（大口喘气的状态）
@@ -121,8 +121,8 @@ a-(加强) + -sthm(呼吸，希腊语 *azein*，喘气)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Air pollution has been linked to increased rates of childhood asthma in urban areas."（空气污染与城市地区儿童哮喘发病率上升有关——健康类语料）
-> - "The student carried an asthma inhaler in his backpack at all times."（这名学生总是随身携带哮喘吸入器——校园类语料）
+> - Air pollution has been linked to increased rates of childhood asthma in urban areas. `[例]`
+> - The student carried an asthma inhaler in his backpack at all times. `[例]`
 
 ## 复习记录
 
