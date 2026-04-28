@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大陆，本土**==（相对于岛屿而言的大片陆地）；
+**n.** ①==**大陆，本土**== `the mainland` `on the mainland`（相对于岛屿而言的大片陆地）；
 
 > [!tip] 原型义
 > **原型义**：大片陆地（相对于岛屿而言的主要土地）
@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bridge connecting the island to the mainland was completed after five years of construction."（连接该岛屿与大陆的桥梁经过五年建设终于完工——考研阅读工程话题）
-> - "Many young people from rural areas migrate to the mainland in search of better job opportunities and higher wages."（许多来自农村的年轻人迁移到大陆寻找更好的就业机会和更高的工资——考研翻译社会话题）
+> - "The most unique feature of Little Gasparilla Island is that there is no bridge connecting the island to the mainland." `[COCA-NEWS]`
+> - "Many young people from rural areas migrate to the mainland in search of better job opportunities and higher wages." `[COCA-ACAD]`
+> - "The bridge connecting the island to the mainland was completed after five years of construction." `[例]`
 
 
 ---

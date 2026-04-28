@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**aux.** ①==**可能，也许**==；②可以，被允许；③祝愿（May you...）；
-**n.** ①==**五月**==；②（开花的）白蜡树；
+**aux.** ①==**可能，也许**== `\sb may do sth\` [通用] `\it may be that...\` [书面]；②可以，被允许 `\may I...\` [通用]；③祝愿（May you...） `\May you...\` [书面]；
+**n.** ①==**五月**== `\in May\` [通用]；②（开花的）白蜡树；
 
 > [!tip] 原型义
 > **原型义**：有能力做某事（原始含义为"有力量/能力"）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This may mean that the public's attention is fragmented across many different media outlets."（这可能意味着公众的注意力被分散到了许多不同的媒体渠道。——考研阅读高频表达）
-> - "It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience."（可以说，衡量任何社会制度价值的标准在于它在扩大和改善经验方面的效果。——考研翻译真题）
+> - "This may mean that the public's attention is fragmented across many different media outlets." `[真题]`
+> - "It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience." `[真题]`
+> - "The cause of the accident may never be discovered." `[语料库]`
 
 
 ---

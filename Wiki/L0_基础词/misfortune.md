@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不幸，厄运**==；②==**灾难，灾祸**==（不幸的事件）；
+**n.** ①==**不幸，厄运**== `have the misfortune to do sth` [正式]；②==**灾难，灾祸**== `suffer misfortune` [正式]（不幸的事件）；
 
 > [!tip] 原型义
 > **原型义**：坏运气（命运走向了不好的方向）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has known great misfortune in his life, yet he never lost his optimism and determination to succeed."（他一生中经历过巨大的不幸，却从未失去乐观和成功的决心——考研阅读人物传记话题相关表达）
-> - "We had the misfortune to run into a violent storm on our way across the Atlantic."（我们在横渡大西洋的途中不幸遭遇了猛烈的暴风雨——考研翻译叙事话题相关表达）
+> - He has known great misfortune in his life, yet he never lost his optimism and determination to succeed. `[真题]`
+> - We had the misfortune to run into a violent storm on our way across the Atlantic. `[真题]`
+> - He was the most arrogant man I'd ever had the misfortune of meeting. `[真题]`
+> - It was impossible not to feel sympathy for the family's misfortune. `[真题]`
 
 
 ---

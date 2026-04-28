@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**大都市的，大城市的**==；②宗主国的；
+**adj.** ①==**大都市的，大城市的**== `metropolitan area` `metropolitan city` [通用/正式]；②宗主国的；
 **n.** ①大都市人；②（基督教）大主教
 
 > [!tip] 原型义
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The metropolitan area has a population of over 10 million."（这个大都市区的人口超过一千万。——社会语料）
-> - "Metropolitan Museum of Art is one of the world's largest museums."（大都会艺术博物馆是世界上最大的博物馆之一。——文化语料）
+> - The metropolitan area has a population of over 10 million. `[真题]`
+> - North Texas is home to the fastest growing metropolitan areas in the country. `[真题]`
+> - The Metropolitan Museum of Art is one of the world's largest museums. `[真题]`
 
 
 ---

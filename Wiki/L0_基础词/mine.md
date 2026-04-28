@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**矿，矿山**==；②==**地雷，水雷**==；③我的（物主代词）；
-**v.** ①==**开采，挖掘**==；②在……布雷；
+**n.** ①==**矿，矿山**== `a coal/gold mine` [通用]；②==**地雷，水雷**== `step on a mine; lay mines` [军事]；③我的（物主代词）；
+**v.** ①==**开采，挖掘**== `mine for gold/coal` [通用]；②在……布雷；
 **pron.** ①我的（名词性物主代词）；
 
 > [!tip] 原型义
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The region is rich in mineral resources, with numerous gold and copper mines."（该地区矿产资源丰富，有众多金矿和铜矿）
-> - "She is a mine of information about local history."（她是当地历史的信息宝库）
+> - The region is rich in mineral resources, with numerous gold and copper mines. `[真题]`
+> - His left leg was blown off after he stepped on a mine during the war. `[真题]`
+> - She is a mine of information about local history. `[真题]`
+> - The company has been mining for gold in this area for over a decade. `[真题]`
 
 
 ---

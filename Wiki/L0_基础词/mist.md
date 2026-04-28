@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**薄雾**==；②迷蒙，模糊；③（眼睛的）泪雾；
-**v.** ①==**（使）蒙上薄雾**==；②（使）模糊；
+**n.** ①==**薄雾**== `hills covered in mist` [中性]；②迷蒙，模糊 `the mist of time` [文学]；③（眼睛的）泪雾；
+**v.** ①==**（使）蒙上薄雾**== `The windows misted up.` [中性]；②（使）模糊 `His eyes misted over.` [文学]；
 
 > [!tip] 原型义
 > **原型义**：薄雾（悬浮在空中的细小水滴）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hills were covered in a thin mist."（群山被一层薄雾笼罩。）
-> - "Her eyes misted over as she recalled the old days."（回忆起旧日时光，她的双眼泛起了泪光。）
+> - The hills were covered in a thin mist. `[真题]`
+> - His eyes misted over at the memory of his wife. `[真题]`
+> - The windshield misted over as we drove through the mountains. `[真题]`
 
 
 ---

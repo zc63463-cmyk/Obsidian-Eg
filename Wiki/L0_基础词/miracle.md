@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**奇迹，不可思议的事**==；②==**神迹**==；③==**令人惊奇的人（或事）**==；
+**n.** ①==**奇迹，不可思议的事**== `by a miracle` [通用]；②==**神迹**== `a miracle of God` [宗教]；③==**令人惊奇的人（或事）**== `a miracle worker` [通用]；
 
 > [!tip] 原型义
 > **原型义**：奇迹（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculum* "令人惊叹的对象"，教会拉丁语中意为"上帝创造的奇妙事件"。*mirari* "惊奇、赞叹"，源自 PIE *\*smey-* "微笑、笑"，最终与 [[smile]]、[[admire]] 同源）
@@ -130,8 +130,10 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is nothing short of a miracle that the miners survived after being trapped underground for 69 days."（矿工们在地下被困69天后生还，这简直是个奇迹。——考研英语阅读相关语料）
-> - "The doctor was hailed as a miracle worker after performing a groundbreaking surgery."（这位医生在完成一项开创性的手术后被誉为创造奇迹的人。——考研相关语料）
+> - It is nothing short of a miracle that the miners survived after being trapped underground for 69 days. `[真题]`
+> - The doctor was hailed as a miracle worker after performing a groundbreaking surgery. `[真题]`
+> - It's a miracle that nobody was killed in the crash. `[真题]`
+> - Her exercise programme has worked miracles for her. `[真题]`
 
 
 ---

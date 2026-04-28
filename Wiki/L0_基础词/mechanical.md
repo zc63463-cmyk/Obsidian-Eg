@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**机械的，与机械有关的**==；②==**呆板的，无意识的**==；③力学的，机械学的；
+**adj.** ①==**机械的，与机械有关的**== `\mechanical engineering\` [书面] `\mechanical failure\` [通用]；②==**呆板的，无意识的**== `\mechanical repetition\` [书面]；③力学的，机械学的 `\mechanical advantage\` [书面]；
 
 > [!tip] 原型义
 > **原型义**：机械的（与机器有关的，按固定方式运作的）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The breakdown was due to a mechanical failure."（抛锚是机械故障造成的。——通用例句）
-> - "This is the oldest working mechanical clock in the world."（这是世界上最古老的还可以使用的机械钟。——通用例句）
+> - "The breakdown was due to a mechanical failure." `[语料库]`
+> - "This is the oldest working mechanical clock in the world." `[语料库]`
+> - "Investigators concluded that the incident was caused by mechanical failure." `[语料库]`
 
 
 ---

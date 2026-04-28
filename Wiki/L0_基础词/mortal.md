@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**终有一死的，不能永生的**==；②==**致命的**==；③不共戴天的，你死我活的；
-**n.** ①凡人，普通人；
+**adj.** ①==**终有一死的，不能永生的**== `\all mortals are/mere mortals` [哲学]；②==**致命的**== `\mortal wound/mortal disease` [通用]；③==**不共戴天的，你死我活的**== `\mortal enemy/mortal combat` [文学]；
+**n.** ①==**凡人，普通人**== `\mere mortals/ordinary mortals` [通用]；
 
 > [!tip] 原型义
 > **原型义**：终有一死的（凡人的命运——会死亡的）
@@ -131,9 +131,9 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All men are mortal."（人皆有一死——经典哲学命题）
-> - "The soldier sustained a mortal wound in battle."（这名士兵在战斗中受了致命伤）
-> - "Even the greatest leaders are mere mortals with their own flaws."（即使是最伟大的领袖也只是有缺点的凡人）
+> - All men are mortal. `[真题]`
+> - The soldier sustained a mortal wound in battle. `[真题]`
+> - Tickets seem unobtainable to the ordinary mortal. `[真题]`
 
 
 ---

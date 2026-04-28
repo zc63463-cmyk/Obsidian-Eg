@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**行军，前进**==；②游行示威；③强迫……同行；
-**n.** ①==**行军，行进**==；②游行示威；③进行曲；
+**v.** ①==**行军，前进**== `march into/forward` [通用]；`march someone off` [通用]；②游行示威；③强迫……同行；
+**n.** ①==**行军，行进**== `forced march` [军事]；`peace march` [通用]；②游行示威；③进行曲；
 
 > [!tip] 原型义
 > **原型义**：行军（有节奏地齐步行走，源自罗马战神 Mars）
@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On seeing the eclipse, the two nations laid down their arms and made peace."（看到日食时，两国放下了武器，缔结和平。——Merriam-Webster）
-> - "The final leg of the race, a 26.2-mile marathon, will take athletes back to Tempe Town Lake."（比赛的最后一段，26.2英里的马拉松，将把运动员带回坦佩镇湖。——The Arizona Republic）
-> 注：march 在历史和政治类文章中频繁出现，如 civil rights march（民权游行）。
+> - A week before, about 150,000 people held a peace march. `[真题]`
+> - In an unprecedented rallying cry, we are calling on 400 to join the march honouring their comrades. `[真题]`
+> - Last week barristers held a silent march, with some of the city's judges voicing their concerns to the media. `[真题]`
 
 
 ---

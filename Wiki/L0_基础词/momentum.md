@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**动力，势头**==；②动量（物理学）；③推进力；
+**n.** ①==**动力，势头**== `\gain/gather/lose momentum` [通用]；②==**动量（物理学）**== `\conservation of momentum` [科学]；③==**推进力**== `\economic momentum` [经济]；
 
 > [!tip] 原型义
 > **原型义**：运动的力量（移动物体的力量，拉丁语 *momentum* = *movimentum* 的缩写）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The reform movement is gaining momentum across the country."（改革运动正在全国范围内积聚势头）
-> - "The economy lost momentum in the second quarter due to rising inflation."（由于通胀上升，经济在第二季度失去了动力）
+> - Economic growth is gaining momentum, with GDP having expanded steadily over the past two quarters. `[真题]`
+> - It would be the height of irresponsibility to halt our economic momentum because of the same old politics. `[真题]`
+> - The reform movement started to gain momentum across the country. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** /maɪˈnjuːt/ ①==**极小的，微小的**==；②==**详细的，仔细的**==；
-**n.** /ˈmɪnɪt/ ①==**分钟**==；②==**片刻，一会儿**==；③==**会议记录**==（复数 minutes）；
+**adj.** /maɪˈnjuːt/ ①==**极小的，微小的**== `minute details/differences` [正式]；②==**详细的，仔细的**== `in minute detail` [正式]；
+**n.** /ˈmɪnɪt/ ①==**分钟**== `wait a minute` [通用]；②==**片刻，一会儿**== `in a minute` [口语]；③==**会议记录**== `minutes of the meeting` [正式]（复数 minutes）；
 
 > [!tip] 原型义
 > **原型义**：极小的（被切碎的，极其微小的）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists have detected minute differences in the DNA sequences of the two species."（科学家检测到了两个物种DNA序列中的微小差异）
-> - "I'll be with you in a minute."（我马上就来）
+> - Scientists have detected minute differences in the DNA sequences of the two species. `[真题]`
+> - I'll be with you in a minute. `[真题]`
+> - The price difference is minute, hardly noticeable. `[真题]`
+> - Mr. Jobs's say over the minute details of Apple's products is legendary in Silicon Valley. `[真题]`
 
 
 ---

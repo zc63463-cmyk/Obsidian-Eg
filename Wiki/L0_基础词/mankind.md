@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**人类**==；②男性（古义，现已少用）
+**n.** ①==**人类**== `the history/future of mankind`；②男性（古义，现已少用）；
 
 > [!tip] 原型义
 > **原型义**：人类（man + kind = 人的种类）
@@ -124,8 +124,10 @@ man(人，人类) + kind(种类) → mankind(人类的种类 → 人类)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive. Science and technology would cure all the ills of humanity, leading to lives of fulfillment and opportunity for all mankind."（几十年前，我们对于未来的看法尽管并不一致，但总的来说颇为乐观。我们相信科学和技术将会治愈人类的一切疾病，使全人类都过上充满机会和成就感的生活。——2013年考研英语一Text 3）
-> - "Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, burdensome, or just plain nasty."（从人类产生智慧初期至今，人们一直在设计越来越巧妙的工具来应付那些危险的、枯燥的、繁重的或者直接就是肮脏的工作。——2002年考研英语一Text 2）
+> - "I believe that war is one of the major evils facing mankind." `[COCA-ACAD]`
+> - "He worked for the benefit of all mankind." `[COCA-ACAD]`
+> - "The present generation has an awesome responsibility for the future of mankind." `[COCA-ACAD]`
+> - "Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive. Science and technology would cure all the ills of humanity, leading to lives of fulfillment and opportunity for all mankind." `[真题]`
 
 
 ---

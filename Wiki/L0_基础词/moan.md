@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**呻吟，呜咽**==；②抱怨，发牢骚；
-**n.** ①呻吟声；②抱怨；
+**vi.** ①==**呻吟，呜咽**== `moan in pain` [中性]；②抱怨，发牢骚 `moan about` [非正式]；
+**n.** ①呻吟声 `let out a moan` [中性]；②抱怨；
 
 > [!tip] 原型义
 > **原型义**：低沉的呻吟声（痛苦或不满时发出的声音）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The patient let out a moan of pain as the doctor examined the wound."（医生检查伤口时，病人发出一声痛苦的呻吟——考研阅读）
-> - "Instead of moaning about the situation, we should take action."（与其抱怨现状，不如采取行动——考研写作可用表达）
+> - He let out a moan of pain as the doctor examined the wound. `[真题]`
+> - Instead of moaning about the situation, we should take action. `[真题]`
+> - She gave a low moan of despair when she heard the news. `[真题]`
 
 
 ---

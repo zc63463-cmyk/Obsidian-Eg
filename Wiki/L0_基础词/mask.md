@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**面具，面罩**==；②假面具，伪装；③（防毒等的）口罩
-**v.** ①==**用面具遮住**==；②掩饰，伪装；③掩盖（气味、声音等）
+**n.** ①==**面具，面罩**== `\wear a mask\` [通用]；②假面具，伪装 `\a mask of indifference\` [书面]；③（防毒等的）口罩 `\surgical mask\` [通用]
+**v.** ①==**用面具遮住**== `\mask one's face\` [通用]；②掩饰，伪装 `\mask one's feelings\` [书面]；③掩盖（气味、声音等） `\mask the smell\` [通用]
 
 > [!tip] 原型义
 > **原型义**：遮盖面部（用物品遮挡面部以隐藏身份或表情）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He sits with his mask hanging around his neck – an impotent medical device, a ridiculous necklace."（他坐在那里，口罩挂在脖子上——一个无用的医疗器械，一条可笑的项链。——Notes from a Breakfast, 2021）
-> - "There have been reports of a masked man prowling in the neighbourhood."（有报道称一名蒙面男子在社区附近游荡。——Cambridge Dictionary）
+> - "For a moment her mask slipped, and I saw how scared she really was." `[语料库]`
+> - "The bank robbers wore masks throughout the raid." `[语料库]`
+> - "His fooling around is a mask for his lack of confidence." `[语料库]`
 
 
 ---

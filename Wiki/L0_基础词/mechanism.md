@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**机制，机理**==；②==**机械装置**==；③（心理/生理的）防御机制；④办法，途径；
+**n.** ①==**机制，机理**== `\defense mechanism\` [书面] `\pricing mechanism\` [书面]；②==**机械装置**== `\a complex mechanism\` [通用]；③（心理/生理的）防御机制 `\coping mechanism\` [书面]；④办法，途径 `\mechanism for doing sth\` [书面]；
 
 > [!tip] 原型义
 > **原型义**：机制（机器运转的方式，引申为任何系统运作的原理和方式）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There could be many mechanisms working together that drive us in choosing genetically similar friends rather than 'functional kinship' of being friends with benefits!"（可能有许多机制共同作用，驱使我们选择基因相似的朋友，而不是"功利亲属关系"——即为了利益而交友。——考研高频表达）
-> - "She's actually kind of insecure, and her rudeness is just a defence mechanism."（她其实很缺乏安全感，她的粗鲁不过是一种防御机制。——通用例句）
+> - "There could be many mechanisms working together that drive us in choosing genetically similar friends rather than 'functional kinship' of being friends with benefits!" `[真题]`
+> - "She's actually kind of insecure, and her rudeness is just a defence mechanism." `[语料库]`
+> - "Play is a biological mechanism for acquiring and honing mental and physical skills." `[语料库]`
 
 
 ---

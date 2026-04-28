@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**未击中，未赶上**==；②==**想念，思念**==；③==**错过，遗漏**==；④==**未注意到，没看到**==；
-**n.** ①（用于未婚女性姓氏前的称呼）==**小姐**==；
+**v.** ①==**未击中，未赶上**== `miss the target/bus/deadline` [通用]；②==**想念，思念**== `miss someone/home` [通用]；③==**错过，遗漏**== `miss an opportunity/the point` [通用]；④==**未注意到，没看到**== `miss a detail` [通用]；
+**n.** ①（用于未婚女性姓氏前的称呼）==**小姐**== `Miss Smith` [通用]；
 
 > [!tip] 原型义
 > **原型义**：没打中目标（射箭/投掷偏离了靶心）
@@ -132,8 +132,10 @@ miss 作为动词源自古英语 *missan*（未击中、错过、没达到），
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many job seekers miss the opportunity to negotiate salary because they are too eager to accept the first offer."（许多求职者因为太急于接受第一个录用通知而错过了谈判薪资的机会——考研阅读职场话题相关表达）
-> - "Workers who miss the deadline for filing tax returns may face penalties from the tax authorities."（错过报税截止日期的工人可能面临税务机关的处罚——考研阅读经济话题相关表达）
+> - Many job seekers miss the opportunity to negotiate salary because they are too eager to accept the first offer. `[真题]`
+> - Workers who miss the deadline for filing tax returns may face penalties from the tax authorities. `[真题]`
+> - Don't miss the chance to watch this brilliant crime drama. `[真题]`
+> - Fear of missing a flight or leaving something important at home stresses out a quarter of British holidaymakers. `[真题]`
 
 
 ---

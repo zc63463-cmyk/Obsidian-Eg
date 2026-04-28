@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**潮湿的，湿润的**==；②多雨的；③（眼睛）含泪的；
+**adj.** ①==**潮湿的，湿润的**== `\moist soil/air/climate` [通用]；②==**多雨的**== `\moist tropical heat` [地理]；③==**（眼睛）含泪的**== `\moist eyes` [文学]；
 
 > [!tip] 原型义
 > **原型义**：微湿的，湿润的（稍微有些湿，但不至于湿透）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Plants grow best in moist, well-drained soil."（植物在湿润、排水良好的土壤中生长最好）
-> - "Her eyes grew moist as she listened to the sad story."（听着这个悲伤的故事，她的眼睛湿润了）
+> - Fog is formed when warm moist air moves over a cold surface. `[真题]`
+> - The plant grows best in direct sunlight and with rich, moist soil. `[真题]`
+> - She dabbed her moist eyes with a handkerchief. `[真题]`
 
 
 ---

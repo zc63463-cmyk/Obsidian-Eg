@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**百万富翁，大富豪**==；
+**n.** ①==**百万富翁，大富豪**== `a self-made millionaire` `become a millionaire` [通用]；
 
 > [!tip] 原型义
 > **原型义**：拥有百万资产的人
@@ -119,8 +119,9 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The self-made millionaire attributed his success to hard work and perseverance."（这位白手起家的百万富翁将他的成功归功于努力和毅力——考研励志类阅读）
-> - "Not all millionaires live a luxurious lifestyle."（并非所有百万富翁都过着奢侈的生活——考研社会类阅读）
+> - A self-made millionaire, he pursued new passions such as learning to fly as well as his old love of taking cars to pieces. `[真题]`
+> - His catering business made him a millionaire at 41. `[真题]`
+> - Not all millionaires live a luxurious lifestyle. `[真题]`
 
 
 ---

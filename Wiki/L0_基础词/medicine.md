@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**药，药物**==；②==**医学**==；
+**n.** ①==**药，药物**== `take medicine` `prescribe medicine`；②==**医学**== `practice medicine` `study medicine`；
 
 > [!tip] 原型义
 > **原型义**：治病的手段（药物或医学科学）
@@ -132,8 +132,9 @@ medic(=medicus, 医治，拉丁语 *medicus*) + -ine(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Supreme Court's decision on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering."（最高法院关于医生协助自杀的决定，对医学如何寻求减轻垂死病人的痛苦和折磨具有重要意义。——2002年英语一Text 4）
-> - "It was only after I started to write a weekly column about the medical journals, and began to read scientific papers from beginning to end, that I realised just how bad much of the medical literature frequently was."（只有在我开始撰写关于医学期刊的每周专栏，并开始从头到尾阅读科学论文之后，我才意识到许多医学文献的质量常常有多差。——2019年英语一翻译）
+> - "The Supreme Court's decision on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering." `[真题]`
+> - "This medicine is for external use only and should not be taken internally." `[COCA-ACAD]`
+> - "The little boy was stamping his foot and refusing to take his medicine." `[BNC-SPOKEN]`
 
 
 ---

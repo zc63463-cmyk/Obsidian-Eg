@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**海的，海产的**==；②==**海军的，海运的**==；
-**n.** ①==**海军陆战队士兵**==；②海运业；
+**adj.** ①==**海的，海产的**== `marine life/biology` [学术]；`marine ecosystem` [学术]；②==**海军的，海运的**== `marine corps` [军事]；`marine transport` [正式]；
+**n.** ①==**海军陆战队士兵**== `U.S. Marines` [军事]；②海运业；
 
 > [!tip] 原型义
 > **原型义**：海的（与海洋有关的，源自拉丁语 mare"海"）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Negotiators focused on the three pillars of maritime transport: international shipping, maritime auxiliary services, and access to and use of port facilities."（谈判者聚焦于海运的三大支柱：国际航运、海运辅助服务以及港口设施的准入和使用。——Cambridge Dictionary）
-> - "The attacks on shipping have disrupted one of the busiest maritime routes in the world, forcing many vessels to avoid the area."（对航运的袭击扰乱了世界上最繁忙的海运路线之一，迫使许多船只避开该区域。——New York Times）
+> - The marine ecosystem is vital for maintaining the balance of our planet's environment. `[真题]`
+> - The attacks on shipping have disrupted one of the busiest maritime routes in the world, forcing many vessels to avoid the area. `[真题]`
+> - Coral reefs, built by tiny coral polyps, form complex ecosystems that harbor a staggering diversity of marine life. `[真题]`
 
 
 ---

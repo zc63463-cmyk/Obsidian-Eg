@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**奖章，奖牌，勋章**==；②纪念章；
-**vi.** ①获得奖牌（medal in）；
+**n.** ①==**奖章，奖牌，勋章**== `award N a medal` `win a gold medal`；②==**纪念章**== `commemorative medal`；
+**vi.** ①==**获得奖牌**== `medal in N` [体育]；
 
 > [!tip] 原型义
 > **原型义**：奖励的金属牌（荣誉的物质象征）
@@ -133,8 +133,9 @@ medal 直接来自意大利语 *medaglia*，最终源自拉丁语 *metallum*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was awarded a gold medal for her outstanding performance in the competition."（她因在比赛中的杰出表现而被授予金牌。——考研阅读常见表达）
-> - "The soldier received a military medal for his bravery in the battlefield."（这名士兵因在战场上的英勇表现而获得一枚军功章。——考研翻译常见话题）
+> - "He received a medal for his service in the war." `[COCA-NEWS]`
+> - "She is one of our best hopes for an Olympic medal." `[COCA-NEWS]`
+> - "That brings Britain's medal haul to six—two golds, three silvers and a bronze." `[BNC-SPOKEN]`
 
 
 ---

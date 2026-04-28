@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**传教士**==（被派往外地传播宗教的人）；
-**adj.** ①==**传教的，有使命感的**==；
+**n.** ①==**传教士**== `a Christian/Buddhist missionary` [正式]；②传教工作者；
+**adj.** ①==**传教的，有使命感的**== `with missionary zeal` [正式]；
 
 > [!tip] 原型义
 > **原型义**：被派出去传教的人（带着使命外出的人）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The missionary traveled to remote regions of Africa, where he spent decades learning local languages and translating religious texts."（这位传教士前往非洲偏远地区，在那里花了几十年学习当地语言并翻译宗教文本——考研阅读历史文化话题相关表达）
-> - "With a missionary zeal for education reform, she established schools in rural communities that had previously been neglected."（怀着对教育改革的传教士般的热情，她在以前被忽视的农村社区建立了学校——考研阅读教育话题相关表达）
+> - She spoke about her new project with missionary zeal. `[真题]`
+> - My father was a missionary from a little town in South Africa. `[真题]`
+> - American Presbyterian missionary efforts in Iran began in 1834 and focused on education. `[真题]`
 
 
 ---

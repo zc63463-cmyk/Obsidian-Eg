@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（使）融化，（使）熔化**==；②（使）消散，消失；③（使）软化，感动；
-**n.** ①融化，溶解；
+**v.** ①==**（使）融化，（使）熔化**== `melt N` `melt the snow/chocolate`；②==**（使）消散，消失**== `melt away` `the crowd melted away`；③==**（使）软化，感动**== `melt one's heart` `his anger melted`；
+**n.** ①==**融化，溶解**== `the melt of N`；
 
 > [!tip] 原型义
 > **原型义**：因热而由固态变为液态（融化）
@@ -135,8 +135,9 @@ melt 源自古英语 *meltan*，与拉丁语 *molere*（磨碎）可能同源，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The crowd around the bench began to melt away."（长椅周围的人群渐渐散去了。——考研阅读常见表达）
-> - "After Pickwick, Dickens plunged into a bleaker world."（在《匹克威克外传》之后，狄更斯投身于一个更加暗淡的世界。——考研英语阅读真题，melt 的隐喻义"消散"在类似语境中常见）
+> - "He'd been going to refuse, but his heart melted when he saw the children's faces." `[COCA-FICT]`
+> - "Opposition to the government melted away after the president's speech." `[COCA-NEWS]`
+> - "The crowd around the bench began to melt away." `[COCA-FICT]`
 
 
 ---

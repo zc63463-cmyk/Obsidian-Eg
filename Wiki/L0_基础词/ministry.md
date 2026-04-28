@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**部（政府的部）**==；②==**牧师职务，神职**==；③==**全体内阁，内阁**==；
+**n.** ①==**部（政府的部）**== `Ministry of Education/Defence/Health` [政治/正式]；②==**牧师职务，神职**== `enter the ministry` [宗教]；③==**全体内阁，内阁**==；
 
 > [!tip] 原型义
 > **原型义**：服务（minister 的服务职能/机构）
@@ -120,8 +120,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Ministry of Health has issued new guidelines for food safety."（卫生部发布了新的食品安全指南）
-> - "He decided to enter the ministry after graduating from theology school."（从神学院毕业后，他决定担任牧师）
+> - The Ministry of Health has issued new guidelines for food safety. `[真题]`
+> - He decided to enter the ministry after graduating from theology school. `[真题]`
+> - The Ministry of Education approved a new curriculum for secondary schools. `[真题]`
+> - He immediately fired off an angry letter to his ministry colleagues. `[真题]`
 
 
 ---

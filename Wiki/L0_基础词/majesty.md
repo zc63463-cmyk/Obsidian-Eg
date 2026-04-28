@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**威严，庄严**==；②==**陛下**==（对国王/女王的尊称）；
+**n.** ①==**威严，庄严**== `the majesty of N`；②==**陛下**== `Your/His/Her Majesty` [尊称]；
 
 > [!tip] 原型义
 > **原型义**：威严（宏大庄严的气势）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The majesty of the law treats all as equals, regardless of wealth."（法律的威严面前人人平等，不论贫富。——考研英语阅读）
-> - "The sheer majesty of St Peter's in Rome."（罗马圣彼得大教堂的雄伟庄严。——考研英语阅读）
+> - "A whale passed by in all its majesty." `[COCA-NEWS]`
+> - "The performance begins at eight o'clock, Your Majesty." `[COCA-FICT]`
+> - "Their Majesties celebrated our arrival by giving us each a little silver spoon." `[BNC-SPOKEN]`
+> - "The majesty of the law treats all as equals, regardless of wealth." `[例]`
 
 
 ---

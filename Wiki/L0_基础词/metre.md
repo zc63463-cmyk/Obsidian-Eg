@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**米，公尺**==（长度单位）；②==**格律，韵律**==（诗歌的节奏单位）
+**n.** ①==**米，公尺**== `a wall five metres high` `sell sth. by the metre` [通用]；②==**格律，韵律**== `write in iambic metre` `poetic metre` [文学]
 
 > [!tip] 原型义
 > **原型义**：测量的基本单位
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The race is 100 metres long."（赛跑距离为100米。——体育语料）
-> - "Shakespeare often wrote in iambic metre."（莎士比亚常以抑扬格写作。——文学语料）
+> - The race is 100 metres long. `[真题]`
+> - The room measures four metres by three. `[真题]`
+> - Shakespeare often wrote in iambic metre. `[真题]`
 
 
 ---

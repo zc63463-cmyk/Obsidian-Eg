@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**威胁，危险**==；②危险人物（尤指小孩）；③威胁的气氛；
-**vt.** ①==**威胁，恐吓**==；
+**n.** ①==**威胁，危险**== `the menace of N` `a menace to N`；②==**危险人物**== `a menace to society`；③==**威胁的气氛**== `an air of menace`；
+**vt.** ①==**威胁，恐吓**== `menace sb. with sth.`；
 
 > [!tip] 原型义
 > **原型义**：威胁（可能造成伤害的危险力量）
@@ -132,8 +132,9 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Illegal logging acts as a menace to the survival of ancient forests."（非法砍伐是对原始森林生存的一大威胁——考研环保类阅读语料）
-> - "The menace posed by conventional weapons is another area of concern to my delegation."（常规武器造成的危险是我国代表团关切的另一个方面——考研国际关系类阅读语料）
+> - "The world is still facing the menace of terrorism." `[COCA-NEWS]`
+> - "Drunk drivers are a menace to everyone." `[COCA-NEWS]`
+> - "There was an air of controlled menace about him." `[COCA-FICT]`
 
 
 ---

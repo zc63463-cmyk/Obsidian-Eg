@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**婚姻的，夫妻间的**==；
+**adj.** ①==**婚姻的，夫妻间的**== `marital status` [正式]；`marital problems` [通用]；
 
 > [!tip] 原型义
 > **原型义**：婚姻的（与婚姻有关的，源自拉丁语 maritus"丈夫"）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Caroline was keen to make her marital home in London."（卡罗琳渴望婚后把家安在伦敦。——Collins Dictionary）
-> - "Her son had no marital problems."（她的儿子没有婚姻问题。——Collins Dictionary）
+> - We had to exclude eight couples from our secondary analysis due to technical problems or changes in marital status since the re-interview stage. `[真题]`
+> - These can be forms of avoidance that make it impossible for the couple to look at their marital problems. `[真题]`
+> - She was expected to return to the marital home and would receive daily visits from carers. `[真题]`
 
 
 ---

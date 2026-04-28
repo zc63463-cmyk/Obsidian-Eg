@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**成员，会员**==；②（身体的）部位；
+**n.** ①==**成员，会员**== `a member of N` `team/club member`；②==**（身体的）部位**== `delicate members` [正式]；
 
 > [!tip] 原型义
 > **原型义**：成员（一个团体的组成部分）
@@ -129,8 +129,9 @@ member 源自拉丁语 *membrum*（肢体、部分），原始印欧语 *mems-*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 2009 the number of union members in America's public sector passed that of their fellow members in the private sector."（2009年，美国公共部门的工会成员人数超过了私营部门的同行——2012年考研英语一Text 4）
-> - "It can be learned from the first paragraph that unions have enlarged their public-sector membership."（从第一段可以得知，工会增加了其公共部门的会员人数——2012年考研英语一Text 4 第21题）
+> - "In 2009 the number of union members in America's public sector passed that of their fellow members in the private sector." `[真题]`
+> - "Michael is a member of the Royal Society for the Protection of Birds." `[COCA-NEWS]`
+> - "Close friendships developed between crew members on the ship." `[COCA-ACAD]`
 
 
 ---

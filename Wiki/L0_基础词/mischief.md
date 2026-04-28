@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恶作剧，淘气**==（尤指儿童的调皮行为）；②==**伤害，损害**==；③==**恶意，祸害**==；
+**n.** ①==**恶作剧，淘气**== `full of mischief / up to mischief` [通用]（尤指儿童的调皮行为）；②==**伤害，损害**== `do/cause mischief` [正式]；③==**恶意，祸害**== `keep out of mischief` [通用]；
 
 > [!tip] 原型义
 > **原型义**：坏事发生（事情发展到了不好的结局）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The children were full of mischief and kept hiding their teacher's chalk."（孩子们淘气得很，一直把老师的粉笔藏起来——考研阅读教育话题相关表达）
-> - "He had the misfortune to be born into a family where mischief was considered a virtue."（他不幸出生在一个把恶作剧视为美德的家庭——考研翻译文学话题相关表达）
+> - The children were lively and always up to mischief. `[真题]`
+> - Jacob's a typical little boy — full of mischief. `[真题]`
+> - That child seems incapable of keeping out of mischief. `[真题]`
+> - There was a glint of mischief in his eyes. `[真题]`
 
 
 ---

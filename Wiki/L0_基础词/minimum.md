@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**最低限度，最小值**==；
-**adj.** ①==**最低的，最小的**==；
+**n.** ①==**最低限度，最小值**== `a minimum of; minimum wage` [正式/通用]；
+**adj.** ①==**最低的，最小的**== `minimum requirements; minimum effort` [正式/通用]；
 
 > [!tip] 原型义
 > **原型义**：最小的（拉丁语 *minimum*，*minimus* 的中性形式，意为"最小的"）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has raised the minimum wage to improve living standards."（政府提高了最低工资以改善生活水平）
-> - "We need to keep expenses to a minimum while maintaining quality."（我们需要在保持质量的同时将开支控制在最低限度）
+> - The government has raised the minimum wage to improve living standards. `[真题]`
+> - We need to keep expenses to a minimum while maintaining quality. `[真题]`
+> - Applicants must have a minimum of three years' experience in the field. `[真题]`
+> - The new law sets minimum requirements for food safety standards. `[真题]`
 
 
 ---

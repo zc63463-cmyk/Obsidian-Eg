@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**模块，组件**==；②单元，单元课程；③（航天）舱；
+**n.** ①==**模块，组件**== `software module` [正式]；②单元，单元课程 `training module` [正式]；③（航天）舱 `lunar module` [正式]；
 
 > [!tip] 原型义
 > **原型义**：小型量度单位（按一定尺度制作的小单元）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The course is divided into ten modules, each focusing on a different aspect of digital marketing."（该课程分为十个单元，每个单元聚焦数字营销的不同方面。）
-> - "The space station consists of several interconnected modules."（太空站由几个相互连接的舱段组成。）
+> - The course is divided into ten modules, each focusing on a different aspect of digital marketing. `[真题]`
+> - The space station consists of several interconnected modules. `[真题]`
+> - The project management module covers the critical evaluation of project management theory and methods. `[真题]`
 
 
 ---

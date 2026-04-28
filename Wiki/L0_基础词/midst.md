@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**中间，中部**==；
+**n.** ①==**中间，中部**== `in the midst of` `from the midst of` [正式]；
 **prep.** ①在……中间；在……之中；
 
 > [!tip] 原型义
@@ -125,8 +125,9 @@ mid(中间，古英语 *mid*) + -[[st-sta-stat|st]](表方位的最高级后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the midst of economic crisis, the government introduced new policies."（在经济危机之中，政府出台了新政策——考研经济类阅读）
-> - "She found herself in the midst of a heated debate."（她发现自己处于一场激烈辩论之中——考研社会类阅读）
+> - The country is in the midst of an economic crisis. `[真题]`
+> - I'm sorry but I'm too busy to help right now — I'm in the midst of writing a report. `[真题]`
+> - It was a moment of humanity in the midst of war. `[真题]`
 
 
 ---

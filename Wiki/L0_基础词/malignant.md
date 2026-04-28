@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**恶性的，致命的**==（医学）；②==**恶意的，恶毒的**==（人/行为）；
+**adj.** ①==**恶性的，致命的**== `malignant N` [医学]；②==**恶意的，恶毒的**== `malignant N`；
 
 > [!tip] 原型义
 > **原型义**：恶性的（有危害的、致命的）
@@ -136,8 +136,10 @@ mal-(坏/恶) + ign(=gen, 出生/产生) + -ant(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She developed a malignant breast tumour."（她得了恶性乳腺瘤。——考研英语阅读）
-> - "Moreover, in the domestic rabbits, the warts were no longer benign, but malignant."（此外，家兔的疣不再是良性的，而是恶性的。——考研英语阅读）
+> - "Malignant melanoma can arise de novo and may present as an irregularly pigmented lesion with an irregular edge." `[COCA-ACAD]`
+> - "An ulcer which fails to heal despite adequate therapy should be biopsied to exclude malignant change." `[COCA-ACAD]`
+> - "She developed a malignant breast tumour." `[真题]`
+> - "Moreover, in the domestic rabbits, the warts were no longer benign, but malignant." `[真题]`
 
 
 ---

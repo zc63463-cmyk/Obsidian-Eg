@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**隐喻，暗喻**==；②象征
+**n.** ①==**隐喻，暗喻**== `a metaphor for sth. / mixed metaphor` [正式]；②象征 `the metaphor of the journey` [文学]
 
 > [!tip] 原型义
 > **原型义**：搬运过去（一种事物代替另一种事物）
@@ -124,8 +124,10 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Time is a metaphor for change."（时间是变化的隐喻。——哲学语料）
-> - "The journey of life is a common metaphor in literature."（人生之旅是文学中常见的隐喻。——文学语料）
+> - "All the world's a stage, and all the men and women merely players." `[真题]`
+> - "The journey of life is a common metaphor in literature." `[真题]`
+> - "Time is a metaphor for change in many philosophical traditions." `[真题]`
+> - "In this extended metaphor, the house represents the narrator's deteriorating mental state." `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**做记号，标记**==；②打分，评分；③纪念，庆祝；④注意，留意
-**n.** ①==**痕迹，斑点**==；②分数，成绩；③标志，符号；④目标，标准
+**v.** ①==**做记号，标记**== `mark the page` [通用]；`mark one's words` [通用]；②打分，评分；③纪念，庆祝；④注意，留意
+**n.** ①==**痕迹，斑点**== `leave a mark` [通用]；`a dirty mark` [通用]；②分数，成绩；③标志，符号；④目标，标准
 
 > [!tip] 原型义
 > **原型义**：做记号（在某物上留下可识别的痕迹）
@@ -141,8 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The marvel of Nature shaking off sleep and going to work unfolded itself to the musing boy."（大自然抖落睡意开始劳作的奇迹，展现在沉思的男孩面前——Mark Twain, *The Adventures of Tom Sawyer*）
-> - "He certainly is a marvellous actor."（他确实是一位了不起的演员。——Cambridge Dictionary）
+> - France will this week mark the anniversary of the attack. `[真题]`
+> - Earlier, David Cameron issued a statement to mark the anniversary of the conflict. `[真题]`
+> - The marvel of Nature shaking off sleep and going to work unfolded itself to the musing boy. `[真题]`
 
 
 ---

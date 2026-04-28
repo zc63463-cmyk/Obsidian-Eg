@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**怪物，怪兽**==；②恶人，残忍的人；③巨大的东西；
-**adj.** ①巨大的，庞大的；
+**n.** ①==**怪物，怪兽**== `\a sea monster/a terrifying monster` [通用]；②==**恶人，残忍的人**== `\a monster of cruelty` [文学]；③==**巨大的东西**== `\a monster truck/a monster of a book` [口语]；
+**adj.** ①==**巨大的，庞大的**== `\a monster task` [口语]；
 
 > [!tip] 原型义
 > **原型义**：神示的预兆（拉丁语 *monstrum* = "神圣的预兆/凶兆"，由 *monere* "警告"派生）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The novel tells the story of a scientist who creates a monster."（这部小说讲述了一个科学家创造怪物的故事）
-> - "The dictator was widely regarded as a monster who showed no mercy to his opponents."（这位独裁者被广泛认为是一个对反对者毫不留情的恶人）
+> - The novel tells the story of a scientist who creates a monster. `[真题]`
+> - The dictator was widely regarded as a monster who showed no mercy to his opponents. `[真题]`
+> - He was a monster of a man, tall and broad-shouldered. `[真题]`
 
 
 ---

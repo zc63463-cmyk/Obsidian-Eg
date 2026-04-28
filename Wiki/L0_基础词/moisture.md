@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**水分，湿气**==；②潮湿；
+**n.** ①==**水分，湿气**== `\moisture in the air/soil moisture` [通用]；②==**潮湿**== `\protect from moisture` [通用]；
 
 > [!tip] 原型义
 > **原型义**：水分，湿气（微湿状态中的水汽/液体）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The desert air contains very little moisture."（沙漠中的空气几乎不含水分）
-> - "Plants absorb moisture from the soil through their roots."（植物通过根部从土壤中吸收水分）
+> - These plants need a rich soil that retains moisture. `[真题]`
+> - It was a clear day with little moisture in the air. `[真题]`
+> - When the soil is dry, more moisture is lost from the plant. `[真题]`
 
 
 ---

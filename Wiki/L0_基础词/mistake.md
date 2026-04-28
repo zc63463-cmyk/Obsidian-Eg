@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**错误，过失**==；②误解，误会；
-**v.** ①==**误解，弄错**==；②错认，误认；
+**n.** ①==**错误，过失**== `make a mistake` [通用]；②误解，误会 `by mistake` [通用]；
+**v.** ①==**误解，弄错**== `mistake A for B` [通用]；②错认，误认；
 
 > [!tip] 原型义
 > **原型义**：错误地拿取（mis- 错误地 + take 拿→拿错了）
@@ -130,8 +130,9 @@ mis-(=bad/wrong, 错误地) + take(拿，取)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Everyone makes mistakes, but the wise learn from them."（每个人都会犯错，但智者从错误中学习。）
-> - "I mistook her for her sister — they look so much alike."（我把她误认为她妹妹了——她们长得太像了。）
+> - I made the mistake of giving him my address. `[真题]`
+> - I took your bag instead of mine by mistake. `[真题]`
+> - I thought he was her husband — I must have misunderstood. `[真题]`
 
 
 ---

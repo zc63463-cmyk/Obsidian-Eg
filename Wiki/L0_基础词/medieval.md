@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**中世纪的（约公元5-15世纪）**==；②老式的，过时的（贬义）；
+**adj.** ①==**中世纪的（约公元5-15世纪）**== `medieval N` `medieval period/Europe`；②==**老式的，过时的**== `medieval attitudes/methods` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：中间的时代的（介于古代和现代之间的时期）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With the Church's teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories."（随着教会的教义和思维方式被文艺复兴所掩盖，中世纪与现代之间的鸿沟已被弥合，从而开辟了新的、未被探索的知识领域。——2020年英语一翻译）
-> - "Nothing divided the medieval world in Europe more decisively from the Early Modern period than printing with movable type."（没有什么比活字印刷更能够将中世纪的欧洲和近代早期划分开来。——托福/考研常见学术话题）
+> - "With the Church's teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories." `[真题]`
+> - "The medieval castle stood on a hill overlooking the valley." `[COCA-ACAD]`
+> - "His attitudes towards women are positively medieval." `[BNC-SPOKEN]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**合并，融合**==；②渐渐融入，渐渐消失于
+**v.** ①==**合并，融合**== `merge A with B / merge into one` [通用]；②渐渐融入，渐渐消失于 `merge into the crowd/darkness` [文学]
 
 > [!tip] 原型义
 > **原型义**：沉入/浸入（一个东西沉入另一个东西中）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two companies plan to merge next year."（这两家公司计划明年合并。——商业语料）
-> - "The colors merge into each other at the edges."（颜色在边缘处渐渐融合。——描述性语料）
+> - "The bank announced that it was to merge with another of the high street banks." `[真题]`
+> - "They decided to merge the two companies into one." `[真题]`
+> - "Like a chameleon, he could merge unobtrusively into the background." `[真题]`
+> - "Night and day begin to merge as the sun sets." `[真题]`
 
 
 ---

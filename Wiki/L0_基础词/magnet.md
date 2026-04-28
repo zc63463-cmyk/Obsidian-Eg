@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**磁铁，磁体**==（能吸引铁等金属的物体）；②==**有吸引力的人或物**==（比喻）；
+**n.** ①==**磁铁，磁体**== `N magnet`（能吸引铁等金属的物体）；②==**有吸引力的人或物**== `a magnet for N` [比喻]；
 
 > [!tip] 原型义
 > **原型义**：磁铁（能吸引铁的石头）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city has become a magnet for talented young professionals from across the country, drawn by its vibrant tech industry and high quality of life."（这座城市已成为吸引全国各地优秀年轻专业人士的磁石，其充满活力的科技产业和高质量的生活是主要吸引力——考研阅读城市发展话题相关表达）
-> - "The discovery that certain materials could be magnetized and demagnetized at will laid the foundation for the development of modern electrical engineering."（某些材料可以随意磁化和消磁的发现，为现代电气工程的发展奠定了基础——考研翻译科技话题相关表达）
+> - "The United States has always acted as a magnet for people seeking fame and fortune." `[COCA-NEWS]`
+> - "The city was a magnet for bohemians and left-wing radicals." `[COCA-NEWS]`
+> - "The ponds and bushes were magnets for a variety of wildlife." `[COCA-ACAD]`
+> - "The city has become a magnet for talented young professionals from across the country, drawn by its vibrant tech industry and high quality of life." `[例]`
 
 
 ---

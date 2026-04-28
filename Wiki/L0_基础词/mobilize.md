@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**动员，调动**==；②使可移动，使流动；③组织，鼓动；
+**v.** ①==**动员，调动**== `mobilize troops/resources` [正式]；②使可移动，使流动；③组织，鼓动 `mobilize support` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使能够移动（调动起来）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government mobilized all available resources to deal with the natural disaster."（政府调动了一切可用资源来应对自然灾害。）
-> - "Environmental groups have successfully mobilized public opinion against the new highway project."（环保组织成功动员了公众舆论反对新高速公路项目。）
+> - The government mobilized all available resources to deal with the natural disaster. `[真题]`
+> - The army was mobilized to deal with the threat of invasion. `[真题]`
+> - Environmental groups have successfully mobilized public opinion against the new highway project. `[真题]`
 
 
 ---

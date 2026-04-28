@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**垫子，地垫**==；②（桌上的）衬垫；
-**v.** ①（使）缠结；（使）起毛；
+**n.** ①==**垫子，地垫**== `\doormat\` [通用] `\welcome mat\` [通用]；②（桌上的）衬垫 `\place mat\` [通用]；
+**v.** ①（使）缠结；（使）起毛 `\matted hair\` [书面]；
 
 > [!tip] 原型义
 > **原型义**：垫子（铺在地上或桌上的保护性覆盖物）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Wipe your feet on the mat before you come inside."（进来前先在垫子上蹭蹭脚。——日常高频表达）
-> - "The dog lay drooling on the mat."（那只狗流着口水趴在垫子上。——剑桥词典例句）
+> - "She was tired of being a doormat and decided it was time to stand up for herself." `[语料库]`
+> - "Wipe your feet on the mat before you come inside." `[语料库]`
+> - "The dog lay drooling on the mat." `[语料库]`
 
 
 ---

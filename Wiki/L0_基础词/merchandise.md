@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**商品，货物**==；
-**v.** ①推销，促销
+**n.** ①==**商品，货物**== `general / defective / official merchandise` [商业]；
+**v.** ①==**推销，促销**== `merchandise a product` [商业]
 
 > [!tip] 原型义
 > **原型义**：用于交易的商品
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The store offers a wide range of official merchandise."（这家商店提供各种官方周边商品。——商业语料）
-> - "Defective merchandise can be returned within 30 days."（有缺陷的商品可在30天内退货。——消费语料）
+> - "Customers may order merchandise in person, via telephone through a common call center or through our websites." `[真题]`
+> - "The store offers a wide range of official merchandise for fans of the band." `[真题]`
+> - "Defective merchandise can be returned within 30 days for a full refund." `[真题]`
+> - "The pop-up shop sells merchandise from his latest tour." `[真题]`
 
 
 ---

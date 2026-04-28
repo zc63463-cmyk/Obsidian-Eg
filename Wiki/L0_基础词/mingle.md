@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**混合，交融**==；②==**交际，应酬**==（在社交场合与人交谈）；
+**v.** ①==**混合，交融**== `mingle with; the two flavors mingle` [文学/通用]；②==**交际，应酬**== `mingle at the party; mingle with guests` [社交]；
 
 > [!tip] 原型义
 > **原型义**：混合在一起（不同事物互相交融，不失去各自特性）
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At the conference, scientists from different countries mingled and exchanged ideas."（在会议上，来自不同国家的科学家们互相交流思想）
-> - "The aroma of coffee mingled with the scent of fresh pastries."（咖啡的香气与新鲜糕点的香味交融在一起）
+> - At the conference, scientists from different countries mingled and exchanged ideas. `[真题]`
+> - The aroma of coffee mingled with the scent of fresh pastries in the bakery. `[真题]`
+> - At the party, guests were encouraged to mingle and get to know each other. `[真题]`
+> - The different cultures mingle freely in this diverse urban environment. `[真题]`
 
 
 ---

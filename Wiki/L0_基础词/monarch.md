@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**君主，帝王**==；②最高统治者；
+**n.** ①==**君主，帝王**== `\the British monarch/an absolute monarch` [政治]；②==**最高统治者**== `\a constitutional monarch` [政治]；
 
 > [!tip] 原型义
 > **原型义**：唯一的统治者（一个人统治所有人）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The British monarch is the head of state but has limited political power."（英国君主是国家元首，但政治权力有限）
-> - "In an absolute monarchy, the monarch has complete control over the government."（在专制君主制下，君主对政府拥有完全控制权）
+> - Eight British monarchs have been crowned during his residency. `[真题]`
+> - But as he formally became absolute monarch of the tiny South Pacific nation he offered to give up most of his powers. `[真题]`
+> - Saudi Arabia remains a kingdom with a monarch as its active chief of state. `[真题]`
 
 
 ---

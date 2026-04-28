@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**遇见，相逢**==；②==**满足（需求、要求等）**==；③迎接；④开会，会面；
-**n.** ①运动会（体育比赛）；
+**v.** ①==**遇见，相逢**== `meet sb.` `meet for the first time`；②==**满足（需求、要求等）**== `meet the needs/demands` `meet the standards`；③==**迎接**== `meet sb. at N`；④==**开会，会面**== `meet to discuss` `hold a meeting`；
+**n.** ①==**运动会**== `sports meet` [体育]；
 
 > [!tip] 原型义
 > **原型义**：面对面走到一起（相遇）
@@ -136,8 +136,9 @@ meet 源自古英语 *mētan*，与古诺斯语 *mœta*（寻找、发现）同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them."（求职面试的入围名单、选举选票、会议发言者和与会者名单：所有这些往往都是按字母顺序排列的，收件人在费力浏览时会逐渐失去兴趣。——考研英语阅读真题，meet 的名词形式 meeting 在此语境中出现）
-> - "You all came into a conversation where you first met the person, but after some time you may have met again and have forgotten their name."（你们都进入了一场对话，在其中你第一次遇见了那个人，但过了一段时间后你可能又遇见了他们，却忘了他们的名字。——2018年英语二阅读）
+> - "The mortgages they offer meet customer needs for flexibility." `[COCA-ACAD]`
+> - "Many new jobs are service jobs to meet the daily needs of all the people moving to the region." `[COCA-NEWS]`
+> - "You all came into a conversation where you first met the person, but after some time you may have met again and have forgotten their name." `[真题]`
 
 
 ---

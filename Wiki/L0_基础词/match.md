@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**比赛，竞赛**==；②火柴；③==**对手，势均力敌的人**==；④相配的人/物；
-**v.** ①==**匹配，相称**==；②与……匹敌；
+**n.** ①==**比赛，竞赛**== `\a football match\` [通用]；②火柴 `\strike a match\` [通用]；③==**对手，势均力敌的人**== `\meet one's match\` [通用]；④相配的人/物 `\a good match\` [通用]；
+**v.** ①==**匹配，相称**== `\match the description\` [通用] `\colors match\` [通用]；②与……匹敌 `\be no match for\` [通用]；
 
 > [!tip] 原型义
 > **原型义**：相配（两事物在品质/力量上相当）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database."（这是一个互动功能，让访问者输入职位标准如地点、头衔和薪水，当数据库中发布匹配的职位时就会发邮件通知他们。——2004年英语一Text 1）
-> - "She then realized that her life no longer matched her vision for it."（她随后意识到她的生活不再符合她对它的设想。——考研真题阅读）
+> - "It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database." `[真题]`
+> - "She then realized that her life no longer matched her vision for it." `[真题]`
+> - "Even the best farming techniques are no match for the strong, hot winds in that area." `[语料库]`
 
 
 ---

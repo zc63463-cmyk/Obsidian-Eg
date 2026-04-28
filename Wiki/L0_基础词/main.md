@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**主要的，最重要的**==；②==**总的，全体的**==（main road, main course）；
-**n.** ①==**总管道，干线**==（water main, gas main）；②（海洋的）主体部分；③力量，力气（古义，保留在 with might and main 中）；
+**adj.** ①==**主要的，最重要的**== `main N`；②==**总的，全体的**== `main N`；
+**n.** ①==**总管道，干线**== `water/gas main`；②（海洋的）主体部分；③力量，力气（古义，保留在 with might and main 中）；
 
 > [!tip] 原型义
 > **原型义**：力量、体力（最核心的力量源泉）
@@ -135,8 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The main reason for the decline in traditional bookstores is the rapid growth of online shopping and e-books."（传统书店衰落的主要原因是网络购物和电子书的快速增长——考研阅读商业话题）
-> - "In the main, the government's economic policies have been effective in reducing unemployment rates."（总的来说，政府的经济政策在降低失业率方面是有效的——考研翻译政治话题）
+> - "One of the main reasons I came to England was to study the language." `[COCA-SPOKEN]`
+> - "In the main, the government's economic policies have been effective in reducing unemployment rates." `[COCA-ACAD]`
+> - "Our main aim is to improve the company's productivity." `[COCA-ACAD]`
+> - "The main reason for the decline in traditional bookstores is the rapid growth of online shopping and e-books." `[例]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地方法官**==（行使司法权的基层官员，负责审理轻微案件）；
+**n.** ①==**地方法官**== `appear before a N` [法律]（行使司法权的基层官员，负责审理轻微案件）；
 
 > [!tip] 原型义
 > **原型义**：地方法官（行使司法权的官员）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The defendant was ordered to appear before a magistrate to face charges of theft and vandalism committed during the overnight disturbance."（被告被命令出庭接受地方法官的审判，面临在夜间骚乱中犯下的盗窃和故意破坏指控——考研翻译法律话题相关表达）
-> - "In many common law jurisdictions, lay magistrates play a vital role in the criminal justice system, handling the vast majority of minor criminal cases."（在许多普通法管辖区，非专业治安法官在刑事司法体系中发挥着至关重要的作用，处理绝大多数轻微刑事案件——考研阅读法律体系话题相关表达）
+> - "He will appear before the magistrates tomorrow." `[COCA-NEWS]`
+> - "Greenway appeared at Bow Street Magistrates' Court to face seven charges of accepting bribes." `[COCA-NEWS]`
+> - "A federal magistrate judge issued a search warrant allowing IRS agents to search the company's offices." `[COCA-ACAD]`
+> - "The defendant was ordered to appear before a magistrate to face charges of theft and vandalism committed during the overnight disturbance." `[例]`
 
 
 ---

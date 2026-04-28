@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**监视器，监控器**==；②班长（学校）；③显示器；
-**v.** ①==**监控，监视**==；②监测；
+**n.** ①==**监视器，监控器**== `\heart monitor/baby monitor` [科技]；②==**班长（学校）**== `\class monitor` [教育]；③==**显示器**== `\computer monitor` [科技]；
+**v.** ①==**监控，监视**== `\monitor the situation/closely monitor` [通用]；②==**监测**== `\monitor vital signs` [医学]；
 
 > [!tip] 原型义
 > **原型义**：警告者，提醒者（拉丁语 *monitor* = "提醒、警告的人"）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has set up a system to closely monitor air pollution levels."（政府建立了密切监控空气污染水平的系统）
-> - "The patient was connected to a heart monitor in the intensive care unit."（患者在重症监护室连接了心率监控器）
+> - Nurses constantly monitored the patient's heart rate. `[真题]`
+> - We will carefully monitor the way forces name suspects. `[真题]`
+> - UN monitors declared the referendum fair. `[真题]`
 
 
 ---

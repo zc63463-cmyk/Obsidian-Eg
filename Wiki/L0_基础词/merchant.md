@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**商人，批发商**==；
-**adj.** ①商业的，商人的
+**n.** ①==**商人，批发商**== `a wealthy / online merchant` [正式]；
+**adj.** ①==**商业的，商人的**== `merchant bank / merchant ship` [正式]
 
 > [!tip] 原型义
 > **原型义**：做交易的人
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The merchant exported silk and spices to Europe."（这位商人将丝绸和香料出口到欧洲。——历史语料）
-> - "Online merchants are competing fiercely for customers."（在线商家正在为争夺顾客而激烈竞争。——商业语料）
+> - "They have a long tradition of working in the British Merchant Navy and sending monies back home." `[真题]`
+> - "If you're a merchant interested in Google Wallet for your store or you want to sell items online, you'll need to sign up for a seller account." `[真题]`
+> - "The merchant exported silk and spices to Europe in the Middle Ages." `[真题]`
+> - "Online merchants are competing fiercely for customers in the global marketplace." `[真题]`
 
 
 ---

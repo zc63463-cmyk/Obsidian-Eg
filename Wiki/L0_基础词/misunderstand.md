@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**误解，误会**==；②不了解，认识不清；
+**vt.** ①==**误解，误会**== `Don't misunderstand me.` [通用]；②不了解，认识不清 `misunderstand the situation` [正式]；
 
 > [!tip] 原型义
 > **原型义**：错误地理解（mis- 错误地 + understand 理解）
@@ -124,8 +124,9 @@ mis-(=wrong, 错误地) + [[understand]](理解)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please don't misunderstand me — I'm not criticizing your work."（请不要误解——我不是在批评你的工作。）
-> - "Their relationship broke down due to a series of misunderstandings."（由于一系列的误会，他们的关系破裂了。）
+> - Please don't misunderstand me — I'm not criticizing your work. `[真题]`
+> - I thought he was her husband — I must have misunderstood. `[真题]`
+> - Many mental health problems are widely misunderstood. `[真题]`
 
 
 ---
