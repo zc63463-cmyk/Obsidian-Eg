@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**药房，药店**==；②药学，制药学；
+**n.** ①==**药房，药店**== `the local pharmacy/pharmacy chain` [通用]；②==**药学，制药学**== `school of pharmacy/pharmacy degree` [学术]；
 
 > [!tip] 原型义
 > **原型义**：药物制备之所（希腊语中"药物"的场所，配药和售药的地方）
@@ -123,8 +123,9 @@ pharm-(药物，希腊语 *pharmakon*) + -acy(名词后缀，表场所/状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He took antidepressants, but had his prescriptions filled at a pharmacy 20 miles away."（他服用抗抑郁药，但他的处方是在20英里外的药房配的。——语料库例句）
-> - "The network operates from the FIP Collaborating Centre at the School of Pharmacy, University of London."（该网络从伦敦大学药学院的FIP合作中心运作。——学术语料）
+> - He took antidepressants, but had his prescriptions filled at a pharmacy 20 miles away. `[语料库]`
+> - The network operates from the FIP Collaborating Centre at the School of Pharmacy, University of London. `[学术]`
+> - A typical independent pharmacy gets 92% of its income from prescriptions. `[词典]`
 
 
 ---

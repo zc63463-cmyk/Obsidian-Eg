@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**无意中听到，偷听到**==；
+**v.** ①==**无意中听到，偷听到**== `overhear a conversation` [中性] `couldn't help overhearing` [口语]；
 
 > [!tip] 原型义
 > **原型义**：无意中听到（在旁边偶然听到别人的对话）
@@ -120,7 +120,10 @@ over-(额外/在旁边) + hear(听)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I couldn't help overhearing what you said."（我忍不住听到了你说的话——常见口语表达）
+> - I couldn't help overhearing your conversation while I was sitting at the next table. ` [真题]`
+> - She claims to have overheard an argument between the manager and the client. ` [语料库]`
+> - We overheard them talking about their plans to expand the business overseas. ` [语料库]`
+> - I didn't mean to eavesdrop, but I did overhear what you said. ` [真题]`
 
 
 ---

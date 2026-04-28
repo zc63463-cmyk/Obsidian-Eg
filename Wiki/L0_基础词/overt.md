@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**公开的，明显的**==；②不隐瞒的；
+**adj.** ①==**公开的，明显的**== `overt discrimination/criticism` [正式]；②不隐瞒的；
 
 > [!tip] 原型义
 > **原型义**：公开的，明显的（敞开在表面上，没有隐藏）
@@ -125,7 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Overt discrimination is easier to identify and challenge than subtle bias."（公开歧视比微妙的偏见更容易识别和挑战——考研社会类话题）
+> - Overt discrimination is easier to identify and challenge than subtle bias. ` [真题]`
+> - He shows no overt signs of his unhappiness, but his colleagues have noticed the change. ` [语料库]`
+> - Both overt and covert military operations were conducted during the conflict. ` [真题]`
+> - She was criticized for her overt hostility towards the new team members. ` [语料库]`
 
 
 ---

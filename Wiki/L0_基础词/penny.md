@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**便士（英国最小面额硬币）**==；②（美）分；③一便士的钱；④少量金钱
+**n.** ①==**便士（英国最小面额硬币）**== `a few pennies` [中性]；②==**（美）分**== `not a penny` [中性]；③==**一便士的钱**== `spend every penny` [中性]；④==**少量金钱**== `not worth a penny` [口语]
 
 > [!tip] 原型义
 > **原型义**：便士（英国最小面额硬币）
@@ -125,8 +125,9 @@ penny 源自古英语 *penning*，与古日耳曼语 *panning* 同源，原始�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has not a penny to his name."（他身无分文。——考研英语常见表达）
-> - "The new technology could save companies a pretty penny in operational costs."（这项新技术可以为公司节省大量运营成本。——考研英语二2018阅读）
+> - He has not a penny to his name. `[考研英语常见表达]`
+> - The new technology could save companies a pretty penny in operational costs. `[考研英语二2018阅读]`
+> - It didn't cost him a penny because it was covered by the state's healthcare program. `[Los Angeles Times]`
 
 
 ---

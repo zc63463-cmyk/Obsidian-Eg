@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小路，小径**==；②路线，路径；③==**道路，途径**==（抽象）；
+**n.** ①==**小路，小径**== `\a narrow path` [空间]；②路线，路径 `\career path` [职场]；③==**道路，途径**==（抽象） `\the path to success` [隐喻] `\parallel paths` [学术]；
 
 > [!tip] 原型义
 > **原型义**：走过的小路（源自拉丁语 *passus*，步/步伐，与 pass 同源）
@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks."（但是，大脑研究者已经发现，当我们有意识地培养新习惯时，我们会创建平行的路径，甚至全新的脑细胞，这些能够将我们的思维跳跃到新的创新轨道上——2009年考研英语阅读Text 1）
-> - "She saw her new job as a step further on the path to independence."（她把新工作看作通往独立之路上的又一步——Cambridge English Corpus）
+> - "But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks." `[真题]`
+> - "She saw her new job as a step further on the path to independence." `[Cambridge Corpus]`
+> - "The passage from school to college can be a difficult one for many students." `[Collins Corpus]`
 
 
 ---

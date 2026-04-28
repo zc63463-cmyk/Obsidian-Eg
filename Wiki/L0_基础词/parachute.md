@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**降落伞**==；
-**v.** ①跳伞；②空投；③==**紧急救援，提供安全网**==（比喻义）；
+**n.** ①==**降落伞**== `open a parachute` `by parachute` [通用]；
+**v.** ①跳伞；②空投；③==**紧急救援，提供安全网**== `golden parachute` `financial parachute` [正式]（比喻义）；
 
 > [!tip] 原型义
 > **原型义**：防备坠落（在旁边遮蔽保护，防止从高处坠落）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As a result, they have lost the parachute they once had in times of financial setback — a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick."（结果，他们失去了在经济困难时期曾经拥有的降落伞——一个后备赚钱者（通常是妈妈），如果主要赚钱者被解雇或生病，她就可以进入职场。——2007年考研英语阅读Text 3）
-> - "The company provided a golden parachute for the outgoing CEO."（公司为即将离任的CEO提供了一笔丰厚的离职补偿金——考研阅读商业话题相关表达）
+> - Airborne troops were dropped by parachute behind enemy lines. `[真题]`
+> - As a result, they have lost the parachute they once had in times of financial setback — a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick. `[真题]`
+> - I negotiated a large golden parachute when I joined the company. `[外刊]`
 
 
 ---

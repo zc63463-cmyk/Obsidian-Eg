@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**铺设（路面）**==；②==**为……铺平道路**==（引申义）；
+**v.** ①==**铺设（路面）**== `pave a road/path` [通用]；②==**为……铺平道路**== `pave the way for/to` [书面]（引申义）；
 
 > [!tip] 原型义
 > **原型义**：用石头铺路（源自拉丁语 *pavire*，夯实/铺设）
@@ -138,8 +138,9 @@ pav(夯实/铺设，拉丁语 *pavire*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This merger will revolutionize the industry and pave the way for more international alliances."（这次并购将彻底改变行业格局，并为更多国际联盟铺平道路——Cambridge English Corpus）
-> - "I believe this treaty will pave the way to peace in Europe."（我相信这个条约将为欧洲的和平铺平道路——Cambridge English Corpus）
+> - "This would help pave the way for a human mission to Mars." `[真题]`
+> - "After 1968, most of the city's cobblestone roads were also paved over to prevent the pavers from being used as projectiles in future protests." `[真题]`
+> - "Their unique approach paved the way for an extraordinary leap into the deep earth." `[真题]`
 
 
 ---

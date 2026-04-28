@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**说服，劝服**==；②使相信，使信服；
+**v.** ①==**说服，劝服**== `persuade sb to do sth.; persuade sb into doing sth.` [通用]；②==**使相信，使信服**== `persuade sb that...` [通用]；
 
 > [!tip] 原型义
 > **原型义**：使人甘愿听从（通过说理让人心甘情愿地改变想法或采取行动）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Advertising is intended to appeal to consumers, but it does not force them to buy the product. It is meant to **persuade** rather than coerce."（广告旨在吸引消费者，但并不强迫他们购买产品。它的目的是说服而非胁迫。——1995年考研英语Text 1）
-> - "Relying on ethical **persuasion** rather than law to address the misuse of body ideals may be the best step."（依靠道德说服而非法律来解决身体理想形象的滥用可能是最好的办法。——考研真题阅读）
+> - Advertising is intended to appeal to consumers, but it does not force them to buy the product; it is meant to persuade rather than coerce. `[真题]`
+> - If she doesn't want to go, nothing you can say will persuade her. `[语料库]`
+> - He is trying to persuade local and foreign businesses to invest in the project. `[语料库]`
+> - Her legal advisers persuaded her into mentioning the names of the people involved in the robbery. `[语料库]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**追上并超过**==；②（感情、事件）突然袭来，使震惊；
+**v.** ①==**追上并超过**== `overtake a car/competitors` [中性]；②==**（感情、事件）突然袭来，使震惊**== `be overtaken by events/emotion` [文学]；
 **n.** ①超车；
 
 > [!tip] 原型义
@@ -126,7 +126,10 @@ over-(超过) + take(拿/取)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "China overtook Japan as the world's second-largest economy."（中国超过日本成为世界第二大经济体——考研常见背景知识）
+> - China overtook Japan as the world's second-largest economy in 2010. ` [真题]`
+> - He pulled out to overtake the van on the motorway. ` [语料库]`
+> - She was overtaken by a sense of impending doom after hearing the bad news. ` [语料库]`
+> - Our U.S. sales have now overtaken our sales in Europe for the first time. ` [真题]`
 
 
 ---

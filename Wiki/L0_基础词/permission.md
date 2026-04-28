@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**许可，允许**==；②==**同意，准许**==
+**n.** ①==**许可，允许**== `ask for permission; without permission` [通用]；②==**同意，准许**== `grant permission; obtain permission` [正式]
 
 > [!tip] 原型义
 > **原型义**：完全送出（允许通过）
@@ -126,8 +126,10 @@ per-（完全，贯穿，[[per]]）+ miss（送，拉丁语 *mittere*）+ -ion�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No one shall be deprived of his liberty without due process of law and without proper permission from the court."（未经正当法律程序和法院适当许可，任何人不得被剥夺自由。——考研英语一2015翻译）
-> - "The company obtained permission from the local government to build a new factory."（公司获得了当地政府的许可来建造新工厂。——考研英语二2018阅读）
+> - You will need permission from your parents to go on the trip. `[语料库]`
+> - Official permission has been granted for more building near the river. `[语料库]`
+> - The authorities have refused permission for the demonstration to take place. `[语料库]`
+> - Planning permission was refused for the proposed superstore. `[语料库]`
 
 
 ---

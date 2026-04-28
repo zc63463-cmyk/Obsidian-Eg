@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**平装书， paperback edition**==；
+**n.** ①==**平装书， paperback edition**== `available in paperback` `a paperback novel` [通用]；
 **adj.** ①平装的；
 
 > [!tip] 原型义
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The book is now available in paperback."（这本书现在有平装版了——考研阅读文化话题常见表达）
-> - "She always buys paperbacks rather than hardbacks because they are cheaper and easier to carry."（她总是买平装书而不是精装书，因为平装书更便宜也更方便携带——考研阅读生活方式相关表达）
+> - First published in hardback in 2003, the book is now available in paperback. `[外刊]`
+> - The paperback edition will be useful supplementary reading in classrooms. `[外刊]`
+> - I like to carry around paperback books because they are lighter and easier to transport than hardcovers. `[语料库]`
 
 
 ---

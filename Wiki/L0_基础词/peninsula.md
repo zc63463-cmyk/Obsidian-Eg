@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**半岛**==；
+**n.** ①==**半岛**== `the Korean Peninsula` [中性]；
 
 > [!tip] 原型义
 > **原型义**：几乎是岛（三面环水、一面连陆的地形）
@@ -128,8 +128,9 @@ paene-(=almost, 几乎，拉丁语前缀) + insula(=island, 岛，拉丁语)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In 1943, a German U-boat surreptitiously landed on the coast of Labrador, Canada's frigid north-eastern peninsula.（1943年，一艘德国U型潜艇在加拿大东北部寒冷的半岛拉布拉多某处偷偷登陆。——《经济学人》）
-> - The Korean Peninsula has been a focus of international attention for decades.（朝鲜半岛几十年来一直是国际关注的焦点。——时政语料）
+> - In 1943, a German U-boat surreptitiously landed on the coast of Labrador, Canada's frigid north-eastern peninsula. `[《经济学人》]`
+> - Most South Korean men have to serve in the military for roughly two years because the Korean peninsula technically remains at war. `[Merriam-Webster]`
+> - There is a twelve-fold difference in precipitation across the peninsula. `[剑桥词典]`
 
 
 ---

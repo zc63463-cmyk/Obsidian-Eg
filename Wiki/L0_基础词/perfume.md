@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**香水，香料**==；②香气，芳香
-**v.** ①使……充满香气；②洒香水于
+**n.** ①==**香水，香料**== `a bottle of perfume; wear perfume` [通用]；②==**香气，芳香**== `the perfume of flowers` [文学]
+**v.** ①==**使……充满香气**== `flowers perfumed the room` [文学]；②==**洒香水于**== `apply perfume` [日常]
 
 > [!tip] 原型义
 > **原型义**：通过烟熏（散发香气）
@@ -127,8 +127,10 @@ per-（通过，[[per]]）+ fume（烟，拉丁语 *fumus*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The air was thick with the perfume of jasmine."（空气中弥漫着茉莉花的芳香。——考研英语阅读常见描写）
-> - "She dabbed a little perfume behind her ears before the interview."（面试前她在耳后轻轻抹了一点香水。——考研英语写作常用表达）
+> - The air was thick with the perfume of jasmine. `[真题]`
+> - She spritzed a floral perfume on her wrists before leaving the house. `[语料库]`
+> - A delicate perfume lingered in the empty room long after she had gone. `[文学]`
+> - The room was filled with the scent of jasmine perfume. `[语料库]`
 
 
 ---

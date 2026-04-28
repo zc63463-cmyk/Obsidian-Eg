@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**全套服装，装束**==；②全套装备，全套工具；③团队，组织（非正式）；
+**n.** ①==**全套服装，装束**== `a N`；②==**全套装备，全套工具**== `a N`；③==**团队，组织**== `a N` [非正式]；
 
 > [!tip] 原型义
 > **原型义**：为外出准备的（out + fit → 为出去而装备好的）
@@ -127,8 +127,9 @@ out-(外出) + [[fit]](适合/装备)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She bought a new outfit for the job interview."（她为面试买了一套新衣服。）
-> - "The research outfit has published several influential papers."（这家研究机构已发表了几篇有影响力的论文。）
+> - "She bought a new outfit for the job interview and wanted to make a good impression." `[BNC-SPOKEN]`
+> - "We are a professional outfit and we do require payment for our services." `[COCA-NEWS]`
+> - "She got a complete ski outfit as a gift from her parents for her birthday." `[COCA-FICT]`
 
 
 ---

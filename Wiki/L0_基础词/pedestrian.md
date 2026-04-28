@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**步行者，行人**==；
-**adj.** ①==**平淡无奇的，乏味的**==；②行人的，步行用的；
+**n.** ①==**步行者，行人**== `a pedestrian crossing` [中性]；
+**adj.** ①==**平淡无奇的，乏味的**== `a pedestrian performance` [贬义]；②==**行人的，步行用的**== `pedestrian traffic` [中性]；
 
 > [!tip] 原型义
 > **原型义**：步行者（用脚一步一步走路的人，区别于骑车或开车的人）
@@ -139,8 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These routes of collective disobedience cut corners, bisect lawns and cross hills, representing the natural capability of people to go from point A to point B most effectively."（这些集体违规的路线抄近道、穿过草坪、翻越山丘，代表了人们从A点到B点最有效通行的自然能力。——2025年考研英语二，与行人路径/步行行为相关）
-> - "He was rather a pedestrian student."（他原是个相当平常的学生。——考研英语阅读相关语料，此处 pedestrian 作形容词"平淡的"）
+> - A pedestrian crossing 8th St. impressed us with his boldness. `[The New Yorker]`
+> - He was rather a pedestrian student. `[剑桥语料]`
+> - The Stillwater Planning Commission voted to recommend approval of the project after adding a requirement that the developer fund a pedestrian crossing of 80th Street North. `[Idaho Statesman]`
 
 
 ---

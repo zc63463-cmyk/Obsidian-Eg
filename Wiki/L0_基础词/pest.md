@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**害虫，有害动物**==；②讨厌的人；
+**n.** ①==**害虫，有害动物**== `a pest called/insect pest` [通用]；②==**讨厌的人**== `a real pest/He's a pest` [口语]；
 
 > [!tip] 原型义
 > **原型义**：瘟疫带来的害虫（源自拉丁语 *pestis* "瘟疫"，引申为传播疾病或造成损害的小生物）
@@ -124,8 +124,9 @@ pest(瘟疫，害虫，拉丁语 *pestis*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Each year ten per cent of the crop is lost to a pest called corn rootworm."（每年有百分之十的农作物损失于一种叫做玉米根虫的害虫。——考研相关语料）
-> - "In the study villages, weeds are pests that cause low rice yields."（在研究村庄中，杂草是导致水稻产量降低的有害植物。——学术语料）
+> - Each year ten per cent of the crop is lost to a pest called corn rootworm. `[真题]`
+> - Insecticide resistance has limited the number of available chemical options for insect pest control. `[学术]`
+> - Eradicating bedbugs requires help from a pest control professional. `[词典]`
 
 
 ---

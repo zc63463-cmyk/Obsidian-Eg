@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**和平的，爱好和平的**==；②==**平静的，宁静的**==；③安宁的；
+**adj.** ①==**和平的，爱好和平的**== `peaceful coexistence/demonstration` [书面]；②==**平静的，宁静的**== `a peaceful place/evening` [通用]；③安宁的；
 
 > [!tip] 原型义
 > **原型义**：和平的，平静的（没有战争、冲突或动荡的状态）
@@ -133,8 +133,9 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need."（一个神圣的宁静之地，无论多么简陋，都是人类特有的需求，而庇护所则是动物特有的需求。——2013年考研英语翻译）
-> - "One of these urges had to do with creating a state of peace in the midst of turbulence, a still point of the turning world."（这些欲望之一就在于在喧嚣之中创造平静，借用 T. S. Eliot 的话说，就是旋转世界中的一个静止点。——2013年考研英语翻译）
+> - "As many as 400,000 people participated in a peaceful demonstration in Srinagar on Feb. 23." `[真题]`
+> - "Strikes were resorted to only if all other mechanisms for a peaceful settlement were exhausted." `[真题]`
+> - "A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need." `[真题]`
 
 
 ---

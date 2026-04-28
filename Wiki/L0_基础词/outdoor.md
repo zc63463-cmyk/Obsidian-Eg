@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**户外的，室外的**==；②喜欢户外活动的；
+**adj.** ①==**户外的，室外的**== `adj N`；②==**喜欢户外活动的**== `an outdoor person/N`；
 
 > [!tip] 原型义
 > **原型义**：在门外的（out + door → 在门的外面）
@@ -127,8 +127,9 @@ out-(外面) + door(门) → 在门外 → 户外的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Outdoor activities such as hiking and cycling are becoming increasingly popular."（徒步和骑行等户外活动正变得越来越受欢迎。）
-> - "Children who spend more time outdoors tend to be healthier."（在户外度过更多时间的孩子往往更健康。）
+> - "The hotel has an outdoor swimming pool and a sheltered courtyard for guests." `[BNC-SPOKEN]`
+> - "The program of outdoor activities includes skiing, climbing, and hiking." `[COCA-ACAD]`
+> - "Many people prefer outdoor concerts during the summer months." `[COCA-NEWS]`
 
 
 ---

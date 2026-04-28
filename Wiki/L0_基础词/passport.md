@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**护照**==；②通行证，执照；
+**n.** ①==**护照**== `\passport control` [旅行] `\apply for a passport` [行政]；②通行证，执照 `\a passport to sth.` [隐喻]；
 
 > [!tip] 原型义
 > **原型义**：通过港口的凭证（pass + port 的字面组合）
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He views boxing as his passport out of poverty."（他把拳击看作自己摆脱贫困的通行证——Cambridge English Corpus）
-> - "The police released him but, significantly, they didn't give him back his passport."（警方释放了他，但没有把护照还给他，这是有特殊用意的——Cambridge English Corpus）
+> - "He views boxing as his passport out of poverty." `[Cambridge Corpus]`
+> - "Many students opt for business studies simply because it sounds like a passport to a good job." `[Cambridge Corpus]`
+> - "Many refugees have arrived at the border without passports." `[Cambridge Corpus]`
 
 
 ---

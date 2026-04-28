@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**小的，琐碎的，不重要的**==；②心胸狭窄的，小气的；③次要的（犯罪等）；
+**adj.** ①==**小的，琐碎的，不重要的**== `petty rules/petty details` [通用]；②==**心胸狭窄的，小气的**== `petty jealousy/a petty person` [贬义]；③==**次要的（犯罪等）**== `petty crime/petty theft` [法律]；
 
 > [!tip] 原型义
 > **原型义**：小的、微不足道的（在小事上斤斤计较的）
@@ -128,8 +128,9 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Prisoners complain that they are subjected to too many petty rules and restrictions."（囚犯们抱怨他们受到太多琐碎的规章和限制。——剑桥词典例句）
-> - "The neighbourhood is safe, but there's a fair amount of petty crime such as package theft and car break-ins."（这个社区是安全的，但有不少轻微犯罪，比如包裹盗窃和砸车。——剑桥词典例句）
+> - Prisoners complain that they are subjected to too many petty rules and restrictions. `[词典]`
+> - The neighbourhood is safe, but there's a fair amount of petty crime such as package theft and car break-ins. `[词典]`
+> - The new legislation would allow police to arrest and fingerprint people accused of petty crimes. `[词典]`
 
 
 ---

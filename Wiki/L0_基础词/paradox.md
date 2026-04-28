@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**悖论，矛盾的说法**==；②==**似非而是的论点**==（看似矛盾实则正确）；③自相矛盾的人或事物；
+**n.** ①==**悖论，矛盾的说法**== `a paradox of` `resolve a paradox` [正式]；②==**似非而是的论点**==（看似矛盾实则正确）`it is a paradox that` `a curious paradox` [正式]；③自相矛盾的人或事物；
 
 > [!tip] 原型义
 > **原型义**：与常理相反的意见（看似矛盾实则可能为真的论点）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Millennials, it seems, face the paradox of being the least formal generation yet the most conscious of style and personal branding."（千禧一代貌似正面临这样一个矛盾，即他们既是穿着最不正式的一代，又是最注意自我风格和个人品牌的一代。——2016年考研英语阅读）
-> - "It is a paradox that such a rich country should have so many poor people living in it."（如此富足的国家竟有如此多的穷人，这真是一个悖论——考研阅读社会话题常见表达）
+> - Millennials face the paradox of being the least formal generation yet the most conscious of style and personal branding. `[真题]`
+> - The great paradox of our time is that many of us are busy and bored at the same time. `[外刊]`
+> - It is a paradox that such a rich country should have so many poor people living in it. `[语料库]`
 
 
 ---

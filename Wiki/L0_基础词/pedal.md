@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**踏板**==；
-**v.** ①==**踩踏板**==；②骑车；
-**adj.** ①脚的；脚踏的；
+**n.** ①==**踏板**== `the brake/gas pedal` [中性]；
+**v.** ①==**踩踏板**== `pedal a bicycle` [中性]；②==**骑车**== `pedal to work` [中性]；
+**adj.** ①==**脚的；脚踏的**== `pedal movement` [中性]；
 
 > [!tip] 原型义
 > **原型义**：脚踏的（用脚操作或控制的东西）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He refused to soft-pedal an investigation into the scandal."（他拒绝降低对这起丑闻的调查力度。——考研英语阅读相关语料）
-> - "Urban planners interpret desire paths as more than just convenient shortcuts; they offer valuable insights into the dynamics between planning and human behavior."（城市规划者将期望路径视为不仅仅是便捷的捷径；它们为规划与人类行为之间的动态关系提供了有价值的见解。——2025年考研英语二，与步行/路径相关，pedal/pedestrian 语义场相关）
+> - He refused to soft-pedal an investigation into the scandal. `[真题]`
+> - She put her foot down on the accelerator pedal and the car surged forward. `[柯林斯语料]`
+> - Zoox robotaxis have no gas pedal, steering wheel or other driver controls. `[Merriam-Webster]`
 
 
 ---

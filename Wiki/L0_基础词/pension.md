@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**养老金，退休金**==；②抚恤金
-**v.** ①发给……养老金（或退职金、抚恤金）；②准予退休并发给退休金
+**n.** ①==**养老金，退休金**== `draw a pension` [正式]；②==**抚恤金**== `war pension` [正式]
+**v.** ①==**发给……养老金**== `pension someone off` [正式]；②准予退休并发给退休金
 
 > [!tip] 原型义
 > **原型义**：定期支付的钱（为"付款"而支付）
@@ -129,8 +129,9 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many older people find it difficult to live on their state pension."（许多老年人发现靠国家养老金生活很困难。——考研英语二2015翻译）
-> - "The government has proposed reforms to the public sector pension scheme."（政府提出了公共部门养老金计划的改革方案。——考研英语一2014阅读）
+> - Many older people find it difficult to live on their state pension. `[考研英语二2015翻译]`
+> - The government has proposed reforms to the public sector pension scheme. `[考研英语一2014阅读]`
+> - He retired on a generous pension from the company. `[剑桥词典]`
 
 
 ---

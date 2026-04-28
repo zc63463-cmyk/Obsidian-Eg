@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**正统的，传统的**==；②正统派的（尤指宗教）；③规范的，公认的；
+**adj.** ①==**正统的，传统的**== `adj N`；②==**正统派的**== `the Orthodox Church` [宗教]；③==**规范的，公认的**== `adj N/methods`；
 
 > [!tip] 原型义
 > **原型义**：正确的意见（希腊语 *orthos* "正确的" + *doxa* "意见"）
@@ -124,7 +124,9 @@ ortho-(正确的，希腊语 *orthos*) + dox(意见，希腊语 *doxa*，源自 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The orthodox view is that..."（正统观点认为……——考研阅读常见表达）
+> - "He challenged the orthodox views on education and proposed a radically different approach." `[COCA-ACAD]`
+> - "Many of these ideas are now being incorporated into orthodox medical treatment." `[COCA-ACAD]`
+> - "Orthodox medicine rejects alternative therapies that lack rigorous scientific evidence." `[COCA-ACAD]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**一夜之间，突然**==；②在夜间；
+**adv.** ①==**一夜之间，突然**== `become famous overnight` [中性]；②在夜间；
 **adj.** ①一夜的；②突然的；
 **n.** ①一夜的停留；
 
@@ -128,7 +128,10 @@ over-(度过/经过) + night(夜晚)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has turned many ordinary people into overnight celebrities."（互联网让许多普通人一夜成名——考研常见话题）
+> - The novel made her famous overnight and she received numerous interview requests. ` [真题]`
+> - He stayed overnight at a hotel near the airport before his early morning flight. ` [语料库]`
+> - The internet has turned many ordinary people into overnight celebrities. ` [真题]`
+> - It takes a very long time to become an overnight success. ` [语料库]`
 
 
 ---

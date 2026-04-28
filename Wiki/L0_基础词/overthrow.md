@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**推翻，打倒**==；②摒弃（规则/观念）；
+**v.** ①==**推翻，打倒**== `overthrow the government/regime` [正式]；②摒弃（规则/观念）；
 **n.** ①推翻，打倒；②垮台；
 
 > [!tip] 原型义
@@ -125,7 +125,10 @@ over-(翻转/越过) + throw(扔/抛)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The revolution led to the overthrow of the monarchy."（革命导致了君主制的推翻——考研历史类常见表达）
+> - The revolution led to the overthrow of the monarchy and the establishment of a republic. ` [真题]`
+> - He was overthrown by the military in a coup and sentenced to prison for corruption. ` [语料库]`
+> - A year later, the military overthrew the government and established a brutal dictatorship. ` [真题]`
+> - Should a ruler become a tyrant, he could be overthrown by force. ` [语料库]`
 
 
 ---

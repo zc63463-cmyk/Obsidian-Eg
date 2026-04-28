@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**允许，许可**==；②==**使有可能**==；③容许
-**n.** ①==**许可证，执照**==；②通行证
+**v.** ①==**允许，许可**== `permit sb to do sth; circumstances do not permit` [通用]；②==**使有可能**== `the rules permit innovation` [正式]；③==**容许**== `permit of` [正式]
+**n.** ①==**许可证，执照**== `work permit; building permit` [正式]；②==**通行证**== `entry permit` [正式]
 
 > [!tip] 原型义
 > **原型义**：完全送出（允许通过）
@@ -132,8 +132,10 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Circumstances do not permit us to delay the decision any further."（情况不允许我们进一步推迟决定。——考研英语一2013翻译）
-> - "The company must file a petition with the U.S. Department of Homeland Security for a work permit for the applicant."（公司必须向美国国土安全部为申请人申报工作许可。——考研英语二2016阅读）
+> - The regulations do not permit much flexibility. `[语料库]`
+> - Visitors are not permitted to take photographs inside the museum. `[语料库]`
+> - The prison authorities permit visiting only once a month. `[语料库]`
+> - You need a work permit to be employed in this country. `[语料库]`
 
 
 ---

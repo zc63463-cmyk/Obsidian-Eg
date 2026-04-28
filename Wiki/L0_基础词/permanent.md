@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**永久的，持久的**==；②==**固定的，不变的**==；③常设的，常驻的
+**adj.** ①==**永久的，持久的**== `permanent damage; permanent solution` [通用]；②==**固定的，不变的**== `permanent address; permanent position` [通用]；③==**常设的，常驻的**== `permanent staff; permanent member` [正式]
 
 > [!tip] 原型义
 > **原型义**：始终停留（贯穿时间不变）
@@ -129,8 +129,10 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Should a woman who possessed a small amount of drugs years ago be permanently unable to be licensed as a nurse?"（一名多年前持有少量毒品的女性是否应该被永久取消护士执照资格？——2015年12月六级阅读）
-> - "Russians began to wake up about a half-hour later each day after President Vladimir Putin shifted the country permanently to winter time."（在普京总统将该国永久调整为冬令时后，俄罗斯人每天开始晚醒约半小时。——考研英语阅读相关话题）
+> - The accident left him with permanent brain damage. `[语料库]`
+> - They are now living together on a permanent basis. `[语料库]`
+> - She took up permanent residency abroad after years of working as a freelancer. `[语料库]`
+> - Mont Blanc has a permanent snow cap. `[语料库]`
 
 
 ---

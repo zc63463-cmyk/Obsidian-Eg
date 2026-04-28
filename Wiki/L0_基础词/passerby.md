@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**过路人，行人**==；
+**n.** ①==**过路人，行人**== `\an innocent passerby` [日常] `\passersby (pl.)` [日常]；
 
 > [!tip] 原型义
 > **原型义**：路过的人（从旁边经过的人）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A passer-by described what he saw moments after the car bomb had exploded."（一位过路人描述了汽车炸弹爆炸后他看到的情形——Cambridge English Corpus）
-> - "I went and sat in a cafe and watched the passers-by."（我走进一家咖啡馆坐下，望着来往的路人——Cambridge English Corpus）
+> - "A passerby later saw him lying in a pool of blood on the sidewalk and called 911." `[CBS Local]`
+> - "The robbery was witnessed by several passersby." `[LDOCE Corpus]`
+> - "Curious passersby gathered to see what was happening." `[ESL Buzz]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**溢出，泛滥**==；②充满，洋溢；
+**v.** ①==**溢出，泛滥**== `The river overflowed its banks.` [中性]；②==**充满，洋溢**== `overflow with sth.` [文学]；
 **n.** ①溢出物；②溢流管；
 
 > [!tip] 原型义
@@ -125,7 +125,10 @@ over-(过度/超过) + flow(流)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The river overflowed its banks after days of heavy rain."（连续数日暴雨后，河水漫过了堤岸——考研常见表达）
+> - The river overflowed its banks after days of heavy rain. ` [真题]`
+> - My heart was overflowing with gratitude when I received the scholarship offer. ` [语料库]`
+> - Waste bins were overflowing with plastic cups after the festival. ` [语料库]`
+> - Heavy rain in recent weeks caused sewage systems to overflow in crowded tent camps. ` [真题]`
 
 
 ---

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恐慌，惊恐**==（a wave of panic）；②==**（经济）恐慌**==（financial panic）；
-**adj.** ①==**恐慌的**==（panic buying）；
-**v.** ①==**（使）恐慌**==（panic the market）；
+**n.** ①==**恐慌，惊恐**== `a wave of panic` [通用]；②==**（经济）恐慌**== `financial panic` [正式]；
+**adj.** ①==**恐慌的**== `panic buying/attack` [通用]；
+**v.** ①==**（使）恐慌**== `panic the market` [通用]；
 
 > [!tip] 原型义
 > **原型义**：牧神潘引起的突然恐惧（巨大的惊恐感）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden outbreak of the epidemic triggered widespread panic among the public, leading to panic buying of essential supplies."（疫情的突然爆发引发了公众的广泛恐慌，导致生活必需品的恐慌性抢购——考研阅读社会话题）
-> - "When the stock market crashed in 2008, financial panic spread rapidly across the globe, causing millions of people to lose their savings."（当股市在2008年崩盘时，金融恐慌迅速蔓延全球，导致数百万人失去了积蓄——考研翻译经济话题）
+> - The sudden outbreak of the epidemic triggered widespread panic among the public, leading to panic buying of essential supplies. `[真题]`
+> - When the stock market crashed in 2008, financial panic spread rapidly across the globe, causing millions of people to lose their savings. `[真题]`
+> - There was a moment of panic in Britain as it became clear just how vulnerable the nation was to the economic crisis. `[真题]`
 
 
 ---

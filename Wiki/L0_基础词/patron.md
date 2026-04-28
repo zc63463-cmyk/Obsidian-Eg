@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**赞助人，资助者**==；②==**老主顾，顾客**==；③保护人；
+**n.** ①==**赞助人，资助者**== `patron of the arts` [书面]；②==**老主顾，顾客**== `a regular patron` [通用]；③保护人；
 
 > [!tip] 原型义
 > **原型义**：保护者（源自拉丁语 *patronus*，保护人，来自 *pater* 父亲）
@@ -143,8 +143,9 @@ pater(父亲，[[pater-patri]]) → patron(保护者/赞助人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Frederick the Great was the patron of many artists."（腓特烈大帝是许多艺术家的赞助人——Cambridge English Corpus）
-> - "The museum thrived on the patronage of art enthusiasts and benefactors."（博物馆依靠艺术爱好者和赞助者的赞助而兴旺发达——考研英语写作高频表达）
+> - "Auchincloss is a longtime patron of the arts." `[真题]`
+> - "The restaurant's patrons were impressed by the chef's innovative dishes." `[真题]`
+> - "Patrons provide their mobile phone numbers and then receive text messages when a table is ready." `[真题]`
 
 
 ---

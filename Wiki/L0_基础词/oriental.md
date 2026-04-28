@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**东方的**==（尤指东亚、东南亚的）；②==**东方人的**==；③==**珍珠的**==（oriental pearl）；
-**n.** ①==**东方人**==（the Orientals，注意此用法现已较少使用）；
+**adj.** ①==**东方的**== `adj N` [正式]（尤指东亚、东南亚的）；②==**东方人的**== `the Orientals` [正式]；③==**珍珠的**== `oriental pearl` [专有]；
+**n.** ①==**东方人**== `the Orientals` [正式]（注意此用法现已较少使用）；
 
 > [!tip] 原型义
 > **原型义**：日出之处的（东方的）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Oriental art, with its emphasis on harmony and balance, has profoundly influenced Western aesthetics since the 19th century."（东方艺术强调和谐与平衡，自19世纪以来深刻影响了西方美学——考研阅读文化话题相关表达）
-> - "The museum houses an impressive collection of Oriental ceramics, including rare porcelain from the Ming Dynasty."（博物馆收藏了令人印象深刻的东方陶瓷，包括明代的稀有瓷器——考研翻译文化话题相关表达）
+> - "Oriental art, with its emphasis on harmony and balance, has profoundly influenced Western aesthetics since the 19th century." `[COCA-ACAD]`
+> - "The museum houses an impressive collection of Oriental ceramics, including rare porcelain from the Ming Dynasty." `[COCA-ACAD]`
+> - "She studied Oriental languages at the university and became fluent in Mandarin and Japanese." `[COCA-ACAD]`
 
 
 ---

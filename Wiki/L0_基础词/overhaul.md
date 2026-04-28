@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**彻底检修，全面改革**==；
+**v.** ①==**彻底检修，全面改革**== `overhaul the system/engine` [正式]；
 **n.** ①彻底检修；②全面改革；
 
 > [!tip] 原型义
@@ -126,7 +126,10 @@ over-(全面/彻底) + haul(拖/拉)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to overhaul the healthcare system."（政府需要全面改革医疗体系——考研常见话题表达）
+> - The government has recently overhauled the healthcare system to improve efficiency. ` [真题]`
+> - The engine has been overhauled and runs much more smoothly now. ` [语料库]`
+> - We need a complete overhaul of our system of exams and grading. ` [真题]`
+> - The restaurant has overhauled its menu, cutting portions and eliminating high-calorie items. ` [语料库]`
 
 
 ---

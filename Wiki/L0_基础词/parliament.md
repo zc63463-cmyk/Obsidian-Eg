@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**议会，国会**==；②（英国）议会（由上议院和下议院组成）；
+**n.** ①==**议会，国会**== `\the British Parliament` [政治] `\Members of Parliament (MPs)` [政治]；②（英国）议会（由上议院和下议院组成） `\dissolve parliament` [政治]；
 
 > [!tip] 原型义
 > **原型义**：说话讨论的地方（人们聚集在一起讨论事务的场所）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The British Parliament consists of two houses: the House of Lords and the House of Commons."（英国议会由两院组成：上议院和下议院——考研阅读政治/法律话题相关表达）
-> - "Its lawmakers gave preliminary approval last week to a law that would make it a crime to employ ultra-thin models on runways."（其立法者上周初步通过了一项法规，规定雇佣极瘦模特走T台是犯罪行为——2016年考研英语阅读Text 1，涉及议会立法）
+> - "The British Parliament consists of two houses: the House of Lords and the House of Commons." `[Cambridge Corpus]`
+> - "The opposition leader led a very forceful attack on the government in parliament." `[Cambridge Corpus]`
+> - "Sixteen members of Parliament have formed a breakaway group." `[Collins Corpus]`
 
 
 ---

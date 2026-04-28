@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**说服，劝服**==；②说服力；③信念，信仰（持有的观点）；
+**n.** ①==**说服，劝服**== `through persuasion; skills of persuasion` [通用]；②==**说服力**== `the power of persuasion` [通用]；③==**信念，信仰**== `people of all persuasions; political persuasion` [正式]；
 
 > [!tip] 原型义
 > **原型义**：说服的行为或能力（通过说理使人甘愿听从的过程或力量）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Participating in these meetings gives children an understanding of democratic decision making and helps them develop their skills of argument and **persuasion**."（参加这些会议使孩子们理解民主决策，并帮助他们发展辩论和说服的技巧。——四级真题）
-> - "Relying on ethical **persuasion** rather than law to address the misuse of body ideals may be the best step."（依靠道德说服而非法律来解决身体理想形象的滥用可能是最好的办法。——考研真题阅读）
+> - Participating in these meetings gives children an understanding of democratic decision making and helps them develop their skills of argument and persuasion. `[真题]`
+> - Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step. `[真题]`
+> - After some persuasion, Clifford allowed her to go. `[语料库]`
+> - I wasn't intending to sell, but I'm open to persuasion. `[语料库]`
 
 
 ---

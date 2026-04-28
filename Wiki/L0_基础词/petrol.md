@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**汽油**==（英式英语）；
+**n.** ①==**汽油**== `the cost of petrol/petrol station` [英式]；
 
 > [!tip] 原型义
 > **原型义**：石油提炼的燃料（从岩石中提取的矿物油，经提炼后用作发动机燃料）
@@ -120,8 +120,9 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is all very well to blame traffic jams, the cost of **petrol** and the quick pace of modern life, but manners on the roads are becoming horrible."（把交通堵塞、汽油成本和现代生活的快节奏归咎于一切固然容易，但道路上的礼仪正在变得可怕。——考研英语真题）
-> - "The mounting cost of **petrol** and the increased license fees and road tax all add to the driver's worries."（不断上涨的汽油成本以及增加的驾照费和道路税都加剧了司机的担忧。——考研英语真题）
+> - It is all very well to blame traffic jams, the cost of petrol and the quick pace of modern life, but manners on the roads are becoming horrible. `[真题]`
+> - The mounting cost of petrol and the increased license fees and road tax all add to the driver's worries. `[真题]`
+> - In most countries the cost of crude oil now accounts for a smaller share of the price of petrol than it did in the 1970s. `[真题]`
 
 
 ---

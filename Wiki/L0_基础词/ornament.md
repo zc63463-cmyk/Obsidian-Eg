@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**装饰品，点缀物**==；②装饰，点缀；
-**v.** ①装饰，美化；
+**n.** ①==**装饰品，点缀物**== `a N`；②==**装饰，点缀**== `N of N`；
+**v.** ①==**装饰，美化**== `V N with N`；
 
 > [!tip] 原型义
 > **原型义**：装备/装饰（源自拉丁语 *ornare* "装备、装饰"，与 *ordnare* "安排"同源）
@@ -120,7 +120,9 @@ orn-(装饰，拉丁语 *ornare*) + -a(连接) + -ment(名词后缀，表示结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The building is richly ornamented with carvings."（这座建筑装饰着丰富的雕刻——考研翻译参考句式）
+> - "They spent decades collecting these colorful, Victorian-era ornaments for their Christmas tree." `[COCA-NEWS]`
+> - "She ornamented her letters with little drawings in the margin." `[COCA-FICT]`
+> - "A mass of rags in the corner was the communal bed, and the only ornament a rough-hewn crucifix." `[BNC-FICT]`
 
 
 ---

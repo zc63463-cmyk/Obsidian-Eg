@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一对，一双**==（a pair of shoes）；②==**一对夫妇/搭档**==（the happy pair）；③==**（动物的）一对**==（a breeding pair）；
-**v.** ①==**配对，配成一对**==（pair A with B）；②==**成对，配对**==；
+**n.** ①==**一对，一双**== `a pair of shoes/eyes` [通用]；②==**一对夫妇/搭档**== `the happy pair` [文学]；③==**（动物的）一对**== `a breeding pair` [通用]；
+**v.** ①==**配对，配成一对**== `pair A with B` [通用]；②==**成对，配对**== `pair off` [通用]；
 
 > [!tip] 原型义
 > **原型义**：两个相等的东西配在一起（一对、一双）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Research has shown that students tend to perform better when they work in pairs rather than individually on complex problem-solving tasks."（研究表明，学生在复杂的解决问题任务中，成对合作比单独工作表现更好——考研阅读教育话题）
-> - "The new technology pairs artificial intelligence with human expertise to deliver more accurate medical diagnoses."（这项新技术将人工智能与人类专业知识相结合，以提供更准确的医学诊断——考研翻译科技话题）
+> - Research has shown that students tend to perform better when they work in pairs rather than individually on complex problem-solving tasks. `[真题]`
+> - The new technology pairs artificial intelligence with human expertise to deliver more accurate medical diagnoses. `[真题]`
+> - Swans often form pair bonds that last for years, demonstrating remarkable loyalty to their mates. `[真题]`
 
 
 ---

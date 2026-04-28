@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**所有者，主人**==；②==**物主**==；
+**n.** ①==**所有者，主人**== `the owner of sth. / business owner` [中性]；②==**物主**== `the (rightful) owner of sth.` [中性]；
 
 > [!tip] 原型义
 > **原型义**：拥有者（对某物享有所有权的人）
@@ -124,8 +124,9 @@ own（拥有）+ -er(名词后缀，"……的人")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The owner of the restaurant decided to close down due to declining profits."（餐厅老板因利润下降决定关闭——考研阅读常见表达）
-> - "Pet owners are required by law to vaccinate their animals regularly."（法律规定宠物主人必须定期为动物接种疫苗）
+> - "The owner of the store was sweeping his floor when I walked in." `[真题]`
+> - "The stolen car was returned to its rightful owner." `[真题]`
+> - "Every pet owner knows their animal has its own personality." `[真题]`
 
 
 ---

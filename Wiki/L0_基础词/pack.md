@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**包，包裹，背包**==；②==**（动物的）一群**==（a pack of wolves）；③==**一包（量词）**==（a pack of cigarettes）；④==**大量，一大堆**==；
-**v.** ①==**打包，装箱**==；②==**挤满，塞满**==（pack into）；③==**聚集**==；
+**n.** ①==**包，包裹，背包**== `a pack of / pack one's bags` [中性]；②==**（动物的）一群**== `a pack of wolves / a pack of lies` [中性]；③==**一包（量词）**== `a pack of cigarettes` [中性]；④==**大量，一大堆**==；
+**v.** ①==**打包，装箱**== `pack sth. into / pack for a trip` [中性]；②==**挤满，塞满**== `be packed with / pack into` [中性]；③==**聚集**==；
 
 > [!tip] 原型义
 > **原型义**：捆扎在一起的包裹（把东西打包绑紧）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The stadium was packed with enthusiastic fans who had been waiting for hours to see their favorite team play."（体育场挤满了热情的球迷，他们已经等了几个小时来看他们最喜欢的球队比赛——考研阅读体育话题）
-> - "Scientists warn that a pack of false information can spread much faster than the truth on social media platforms."（科学家警告说，一堆虚假信息在社交媒体平台上的传播速度远快于真相——考研阅读科技话题）
+> - "The place was packed, and guests were being turned away." `[真题]`
+> - "Cigarettes typically come in packs of 20." `[真题]`
+> - "All the children's relatives and friends were packed into the tiny theatre." `[真题]`
 
 
 ---

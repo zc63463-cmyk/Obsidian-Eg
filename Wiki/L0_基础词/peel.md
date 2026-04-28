@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**剥皮，削皮**==；②脱落，剥落；③剥开，揭开；
-**n.** ①果皮，菜皮；
+**v.** ①==**剥皮，削皮**== `peel an apple` [中性]；②==**脱落，剥落**== `the paint is peeling` [中性]；③==**剥开，揭开**== `peel back the layers` [中性]；
+**n.** ①==**果皮，菜皮**== `lemon peel` [中性]；
 
 > [!tip] 原型义
 > **原型义**：剥去外皮（用手去除物体表面覆盖层）
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - No call to care, finally, could be too mundane; what could be more ordinary than peeling an egg?（最终，任何关于关爱的呼吁都不算太琐碎；还有什么比剥鸡蛋更普通的事呢？——剑桥语料）
-> - The paint was peeling from the walls of the old building.（旧建筑墙上的油漆正在剥落。——六级阅读）
+> - No call to care, finally, could be too mundane; what could be more ordinary than peeling an egg? `[剑桥语料]`
+> - Ramon peeled his sweaty shirt off and hung it on a chair to dry. `[剑桥学术词典]`
+> - The paint was peeling from the walls of the old building. `[六级阅读]`
 
 
 ---

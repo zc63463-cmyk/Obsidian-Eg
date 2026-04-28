@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**堆，大量**==；②积累；③桩，柱；**v.** ①堆积，堆放；
+**n.** ①==**堆，大量**== `a pile of/piles of` [通用]；②积累；③桩，柱；**v.** ①==**堆积，堆放**== `pile up/pile sth. on sth.` [通用]；
 
 > [!tip] 原型义
 > **原型义**：堆积物（一堆叠放在一起的东西）
@@ -127,8 +127,9 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel. Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians to get their hands on a **pile** of weapons."（这批钉子是1960年在四米深的坑中发现的，上面覆盖了两米厚的砾石。为什么罗马人要埋掉一百万颗钉子？可能的解释是撤退仓促，他们不想让当地的加勒多尼亚人得到一堆武器。——2024年考研英语一Text 1）
-> - "There has to be coordination of programs. What's needed is a package deal."（各种规划必须协调运行。我们需要的是一揽子计划。——2006年考研英语完形，pile 的同源词 compile 相关语境）
+> - The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel. Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians to get their hands on a pile of weapons. `[真题]`
+> - In her return, she brings another book, although her desk is already piled with lots of books. `[语料库]`
+> - These files pile up over the years, creating a massive backlog of paperwork. `[语料库]`
 
 
 ---

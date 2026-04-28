@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**范例，典范**==；②==**范式，模式**==（思维或行为的基本框架）；③（语法）词形变化表；
+**n.** ①==**范例，典范**== `a paradigm of` `stand as a paradigm` [正式]；②==**范式，模式**==（思维或行为的基本框架）`paradigm shift` `a new paradigm` [正式]；③（语法）词形变化表；
 
 > [!tip] 原型义
 > **原型义**：旁边展示的范例（展示给他人看的模型或标准）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A paradigm shift is urgently needed in the coastal and marine tourism sector, with innovative approaches to achieve sustainable and regenerative development."（沿海和海洋旅游领域迫切需要进行范式转移，采用创新方法实现可持续和再生发展——《经济学人》考研高频外刊例句）
-> - "His ruthless accumulation of wealth stands as a paradigm of greed in the business world."（他无情地积累财富，堪称商界贪婪的典范——考研阅读商业伦理话题相关表达）
+> - The invention of the smartphone caused a paradigm shift in communication. `[外刊]`
+> - A paradigm shift is urgently needed in the coastal and marine tourism sector, with innovative approaches to achieve sustainable and regenerative development. `[外刊]`
+> - Purdue is the paradigm for the rest of the conference right now. `[外刊]`
 
 
 ---
