@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**（时间）流逝，消逝**==；
+**vi.** ①==**（时间）流逝，消逝**== `\time/months/years have elapsed` [正式/书面]；
 
 > [!tip] 原型义
 > **原型义**：滑过去（时间像从手中滑落一样悄然过去）
@@ -127,8 +127,9 @@ e-(=ex-, 向外/离开) + lapse(滑落，拉丁语 *lapsus*，*labi* 的过去�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Five months have elapsed since he joined the army."（自从他参军以后，已经五个月了——考研阅读常见句式）
-> - "Fifteen minutes elapsed before the performance began."（过了十五分钟演出才开始——考研翻译类语料）
+> - Five months have elapsed since he joined the army. `[语料库]`
+> - Patients could be retreated if more than 4 weeks had elapsed since the initial treatment. `[语料库]`
+> - It seems remarkable that nearly thirty years has elapsed since there was a major museum exhibition in the city. `[语料库]`
 
 
 ---

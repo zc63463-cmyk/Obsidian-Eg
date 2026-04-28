@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**矮子，侏儒**==；②==**（使相形见绌的）小事物**==；
-**v.** ①==**使显得矮小，使相形见绌**==；②阻碍……的发展；
-**adj.** ①矮小的；
+**n.** ①==**矮子，侏儒**== `Snow White and the Seven Dwarfs` [中性]；②==**（使相形见绌的）小事物**== `a dwarf galaxy` [中性]；
+**v.** ①==**使显得矮小，使相形见绌**== `A dwarfs B; be dwarfed by` [中性]；②阻碍……的发展 `dwarfed by the crisis` [中性]；
+**adj.** ①矮小的 `dwarf planet` [中性]；
 
 > [!tip] 原型义
 > **原型义**：矮小的人（身材异常矮小的侏儒）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old cathedral dwarfs all the modern buildings around it."（这座古老的大教堂使周围所有现代建筑都显得矮小）
-> - "Pluto was reclassified as a dwarf planet in 2006."（冥王星在2006年被重新归类为矮行星）
+> - "The old cathedral dwarfs all the modern buildings around it." `[真题]`
+> - "Pluto was reclassified as a dwarf planet in 2006." `[真题]`
+> - "The small house was dwarfed by the massive skyscrapers surrounding it." `[真题]`
+> - "Only 10% of the ocean floor is properly mapped, and mountain ranges and canyons dwarf even the largest warship." `[真题]`
 
 
 ---

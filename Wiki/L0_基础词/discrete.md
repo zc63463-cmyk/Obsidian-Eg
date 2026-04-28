@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**离散的，分离的**==；②==**不相关的，独立的**==；
+**adj.** ①==**离散的，分离的**== `\discrete data/variables` [学术]；②==**不相关的，独立的**== `\discrete categories/stages` [学术]；
 
 > [!tip] 原型义
 > **原型义**：分开的（彼此分离不相连的）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The data can be divided into discrete categories for analysis."（数据可以被分为离散的类别进行分析——考研阅读学术类话题）
-> - "Language consists of discrete units of sound that combine to form meaning."（语言由离散的语音单位组成，这些单位组合形成意义——考研翻译语言学类表达）
+> - The data can be divided into discrete categories for analysis. `[真题]`
+> - Language consists of discrete units of sound that combine to form meaning. `[真题]`
+> - The methodology can handle both continuous and discrete variables. `[真题]`
 
 
 ---

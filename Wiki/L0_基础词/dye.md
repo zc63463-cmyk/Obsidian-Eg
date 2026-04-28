@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**染料**==；②染色；
-**v.** ①==**染，给……染色**==；
+**n.** ①==**染料**== `hair dye; natural/synthetic dye` [中性]；②染色；
+**v.** ①==**染，给……染色**== `dye one's hair; dye fabric` [中性]；
 
 > [!tip] 原型义
 > **原型义**：染料（给物品上色的有色物质）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She dyed her hair from blonde to black."（她把头发从金色染成了黑色）
-> - "Ancient people used natural dyes extracted from plants to color their clothing."（古人使用从植物中提取的天然染料来给衣服上色）
+> - "She dyed her hair from blonde to black." `[真题]`
+> - "The women prepared, spun and dyed the wool." `[真题]`
+> - "She dipped the material into the dye." `[真题]`
+> - "He was a dyed-in-the-wool conservative and did not care who knew." `[真题]`
 
 
 ---

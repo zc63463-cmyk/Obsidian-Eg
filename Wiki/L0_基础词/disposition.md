@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**性情，性格**==；②==**倾向，意向**==；③==**处置，安排**==；
+**n.** ①==**性情，性格**== `\a cheerful disposition` [正式]；②==**倾向，意向**== `\have a disposition to/towards` [正式]；③==**处置，安排**== `\the disposition of assets` [正式]；
 
 > [!tip] 原型义
 > **原型义**：排列方式（天生的排列/倾向）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has a cheerful disposition that makes her popular among her colleagues."（她性格开朗，这使她在同事中很受欢迎——考研阅读人物类话题）
-> - "The court will determine the disposition of the deceased's property."（法院将裁定死者财产的处置——考研翻译法律类表达）
+> - She is of a cheerful disposition, which makes her popular among her colleagues. `[真题]`
+> - The court will determine the disposition of the deceased's property. `[真题]`
+> - He has a natural disposition to catch cold. `[真题]`
 
 
 ---

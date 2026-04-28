@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**远的，遥远的**==；②==**疏远的，冷淡的**==；③久远的；④远亲的；
+**adj.** ①==**远的，遥远的**== `a distant star/land` [通用]；②==**疏远的，冷淡的**== `a distant relative/manner` [通用]；③久远的；④远亲的；
 
 > [!tip] 原型义
 > **原型义**：远的（在空间上分开站着的）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The distant sound of thunder warned us of the approaching storm."（远处传来的雷声警告我们暴风雨即将来临）
-> - "She remained emotionally distant from her colleagues despite working together for years."（尽管共事多年，她在情感上仍然与同事保持距离）
+> - The distant sound of thunder warned us of the approaching storm. `[真题]`
+> - She remained emotionally distant from her colleagues despite working together for years. `[真题]`
+> - Mars had surface water in the distant past. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**渴望的，热切的**==；②急切的，迫不及待的
+**adj.** ①==**渴望的，热切的**== `be eager to do sth` `be eager for sth` [通用]；②急切的，迫不及待的 `eager beaver` [口语]
 
 > [!tip] 原型义
 > **原型义**：尖锐的（像刀刃一样锋利）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students are eager to acquire new knowledge and skills."（学生们渴望获取新的知识和技能——考研英语阅读教育类话题）
-> - "The company is eager to expand its market share in Asia."（公司急于扩大其在亚洲的市场份额——考研翻译商业类表达）
+> - He was always a good boy, very friendly and eager to please. `[真题]`
+> - They crowded around the spokesperson, eager for any news. `[真题]`
+> - I was eager to get back to work as soon as possible. `[真题]`
 
 
 ---

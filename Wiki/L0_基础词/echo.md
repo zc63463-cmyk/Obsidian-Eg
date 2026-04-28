@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**回声，回音**==；②==**共鸣，反响**==；
-**v.** ①==**发出回声**==；②附和，重复（别人的话）；
+**n.** ①==**回声，回音**== `hear an echo` `the echo of footsteps` [通用]；②==**共鸣，反响**== `find an echo in` `echo of the past` [通用]；
+**v.** ①==**发出回声**== `echo through the hall` `echo with` [通用]；②附和，重复（别人的话） `echo someone's words` [通用]；
 
 > [!tip] 原型义
 > **原型义**：回声（声音碰到障碍物后反射回来）
@@ -126,8 +126,9 @@ echo 源自希腊神话中 Echo（厄科），一位只能重复别人最后几�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The debate over the death penalty has found an echo in many countries around the world."（关于死刑的辩论在世界许多国家引起了共鸣。——考研英语阅读）
-> - "His words echoed through the hall long after he had finished speaking."（他讲完话很久之后，他的话语仍在大厅中回荡。——考研英语长难句）
+> - He could hear eerie noises echoing through the corridors. `[真题]`
+> - Her comments were an echo of remarks made by the Prime Minister earlier in the week. `[真题]`
+> - The political upheavals find an echo in the art of the time. `[真题]`
 
 
 ---

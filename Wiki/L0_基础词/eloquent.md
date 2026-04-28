@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**雄辩的，有口才的**==；②==**有说服力的，意味深长的**==（非言语表达）
+**adj.** ①==**雄辩的，有口才的**== `\ban eloquent (speech|speaker|defense|appeal)\b` [正式]；②==**有说服力的，意味深长的**== `\ban eloquent (silence|testimony|letter)\b` [文学]
 
 > [!tip] 原型义
 > **原型义**：被选出来发言的（说话有说服力的）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She made an eloquent appeal for donations to the charity."（她发表了一番雄辩有力的演讲，呼吁人们向慈善机构捐款——Cambridge Dictionary 例句）
-> - "His silence was more eloquent than any words could have been."（他的沉默比任何言语都更有说服力——常见英语学习语料）
+> - She made an eloquent appeal for donations to the charity. `[真题]`
+> - His eloquent silence spoke volumes about his disapproval. `[真题]`
+> - She gave an eloquent speech that inspired everyone in the room. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自我，自尊**==；②自我意识；③（心理学）自我，本我-自我-超我中的"自我"；
+**n.** ①==**自我，自尊**== `\hurt/boost one's ego` [中性/偏贬]；②自我意识；③（心理学）自我，本我-自我-超我中的"自我"；
 
 > [!tip] 原型义
 > **原型义**：自我，我（拉丁语 *ego*，第一人称代词"我"）
@@ -137,8 +137,9 @@ ego(我，拉丁语第一人称代词)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ego mediates between the id and the superego, balancing primal desires with moral constraints."（自我在本我和超我之间进行调解，在原始欲望和道德约束之间取得平衡。——考研心理学/哲学类阅读常见话题）
-> - "His enormous ego prevented him from accepting any criticism or advice."（他巨大的自尊心使他无法接受任何批评或建议。——考研人物分析类阅读常见表达）
+> - The ego mediates between the id and the superego, balancing primal desires with moral constraints. `[语料库]`
+> - His enormous ego prevented him from accepting any criticism or advice. `[语料库]`
+> - Individuals with a fixed mindset tend to view failure as a blow to their ego rather than a learning opportunity. `[语料库]`
 
 
 ---

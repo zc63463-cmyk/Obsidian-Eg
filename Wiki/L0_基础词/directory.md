@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**目录，号码簿**==；②==**名录，指南**==；③（计算机）目录，文件夹；
+**n.** ①==**目录，号码簿**== `N`；②==**名录，指南**== `N`；③（计算机）目录，文件夹 `N`；
 
 > [!tip] 原型义
 > **原型义**：引导你找到东西的地方（指引方向的工具）
@@ -127,7 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You can find the company's address in the local business directory.（你可以在当地的企业名录中找到该公司的地址——考研阅读常见表达）
+> - I found his surname and address in the telephone directory and rang the number. `[BNC-SPOKEN]`
+> - You can find the company's address in the local business directory. `[COCA-NEWS]`
+> - All files in the root directory are protected by the system. `[例]`
 
 
 ---

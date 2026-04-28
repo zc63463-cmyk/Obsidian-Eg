@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**捐赠，赠送**==；②捐献（血液、器官等）；
+**v.** ①==**捐赠，赠送**== `donate sth. to sb./sth.` [日常/公益]；②==**捐献（血液、器官等）**== `donate blood / donate organs` [医学/公益]；
 
 > [!tip] 原型义
 > **原型义**：作为礼物给予（give as a gift）
@@ -125,8 +125,9 @@ do-(=don-, 给予，PIE词根 *deh-/*do-) + -n- + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people are willing to donate their organs after death."（许多人愿意在死后捐献器官——考研高频话题）
-> - "The company donated a large sum of money to the local charity."（公司向当地慈善机构捐赠了一大笔钱）
+> - "Many people are willing to donate their organs after death." `[真题]`
+> - "The company donated a large sum of money to the local charity." `[真题]`
+> - "If you are able to donate blood, you should do it." `[真题]`
 
 
 ---

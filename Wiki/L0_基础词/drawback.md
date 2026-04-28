@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**缺点，不利条件**==；②障碍，退税；
-**v.** ①==**收回，撤销**==；
+**n.** ①==**缺点，不利条件**== `\the main/major drawback of/to` [通用]；②障碍，退税；
+**v.** ①==**收回，撤销**== `\drawback the troops` [正式]；
 
 > [!tip] 原型义
 > **原型义**：拉回来的东西（draw 拉 + back 回来 → 把你拉回来的东西 → 缺点/障碍）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The main drawback of the new technology is its high cost."（这项新技术的主要缺点是成本高。）
-> - "One drawback of online learning is the lack of face-to-face interaction."（在线学习的一个缺点是缺乏面对面交流。）
+> - The main drawback of the new technology is its high cost. `[真题]`
+> - One drawback of online learning is the lack of face-to-face interaction. `[真题]`
+> - The only drawback to the bridge is its cost. `[真题]`
 
 
 ---

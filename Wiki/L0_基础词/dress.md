@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**穿衣，打扮**==；②整理，修饰；③（给伤口）包扎；④加工处理（食材）；
-**n.** ①连衣裙；②衣服（统称）；
+**v.** ①==**穿衣，打扮**== `dress up/down` `be dressed in` [通用]；②整理，修饰；③（给伤口）==**包扎**== `dress a wound` [医疗]；④加工处理（食材）；
+**n.** ①连衣裙 `evening dress` `wear a dress` [通用]；②衣服（统称）；
 
 > [!tip] 原型义
 > **原型义**：整理好、使端正（源自拉丁语 *directus* "直的、直接的"，把歪的拉直→整理→穿衣）
@@ -132,8 +132,9 @@ dress 源自古法语 *dresser* "to arrange, prepare"，源自通俗拉丁语 *\
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was dressed in a simple black dress for the interview."（她穿着一件简单的黑色连衣裙参加面试）
-> - "The nurse carefully dressed the wound to prevent infection."（护士仔细包扎伤口以防感染）
+> - She was dressed in a simple black dress for the interview. `[真题]`
+> - The nurse carefully dressed the wound to prevent infection. `[真题]`
+> - He dressed up as a pirate for the Halloween party. `[真题]`
 
 
 ---

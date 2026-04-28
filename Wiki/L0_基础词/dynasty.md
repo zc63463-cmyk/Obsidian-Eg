@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**王朝，朝代**==；②统治家族，世家；
+**n.** ①==**王朝，朝代**== `the Ming/Qing dynasty; found a dynasty` [正式]；②统治家族，世家 `a political dynasty; a powerful dynasty` [正式]；
 
 > [!tip] 原型义
 > **原型义**：权力的延续（统治者血脉的代代相传）
@@ -122,8 +122,10 @@ dyna-(力量，权力) + -sty(名词后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Roman Empire was succeeded by a series of dynasties that vied for control of Europe."（罗马帝国之后，一系列王朝争夺对欧洲的控制权）
-> - "Political dynasties are not unique to monarchies; they exist in democracies too."（政治世家并非君主制独有，民主体制中同样存在）
+> - "The Roman Empire was succeeded by a series of dynasties that vied for control of Europe." `[真题]`
+> - "Political dynasties are not unique to monarchies; they exist in democracies too." `[真题]`
+> - "The Ming Dynasty was the time when the politics of autocratic monarchy reached its peak in Chinese history." `[真题]`
+> - "The Kennedy family is often described as a political dynasty in American politics." `[真题]`
 
 
 ---

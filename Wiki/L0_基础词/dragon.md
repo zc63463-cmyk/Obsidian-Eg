@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**龙**==；②凶猛的人，悍妇；
+**n.** ①==**龙**== `\a fire-breathing dragon/Chinese dragon` [通用]；②凶猛的人，悍妇 `\She is a real dragon.` [口语]；
 
 > [!tip] 原型义
 > **原型义**：能清晰看见的巨蛇（希腊语 *drakon*，源自 *derkesthai*"清晰地看见"，最初指目光锐利的巨蛇）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The dragon is a symbol of power and strength in Chinese culture."（龙在中国文化中是力量与强健的象征。）
-> - "She guarded her treasure like a dragon."（她像龙一样守护着自己的财宝。）
+> - The dragon is a symbol of power and strength in Chinese culture. `[真题]`
+> - She guarded her treasure like a dragon. `[真题]`
+> - Valrian sees a light ahead of him in the tunnel and is suddenly confronted by a fire-breathing dragon. `[真题]`
 
 
 ---

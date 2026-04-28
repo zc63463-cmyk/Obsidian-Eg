@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地球**==；②==**陆地，地面**==；③泥土，土壤；④人间，世俗
+**n.** ①==**地球**== `on earth` `the Earth` [通用]；②==**陆地，地面**== `fall to earth` `down to earth` [通用]；③泥土，土壤 `rich earth` [书面]；④人间，世俗
 **v.** ①把（电线）接地
 
 > [!tip] 原型义
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What on earth are we doing to our planet?"（我们到底对我们的星球做了什么？——考研英语阅读环保类话题）
-> - "The earthquake was one of the most powerful ever recorded on earth."（这次地震是有记录以来地球上最强烈的地震之一——考研翻译相关表达）
+> - Earth looks incredibly beautiful from space. `[真题]`
+> - His trainer called him the greatest boxer on earth. `[真题]`
+> - He thinks he's a big deal in junior high but when he starts high school in the fall he'll come back down to earth. `[真题]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**打瞌睡，假寐**==；②（时间）在瞌睡中度过；
-**n.** ①==**瞌睡，小睡**==；
+**v.** ①==**打瞌睡，假寐**== `\doze off/doze in the chair` [通用]；②（时间）在瞌睡中度过 `\doze away the afternoon` [通用]；
+**n.** ①==**瞌睡，小睡**== `\have a doze/catch a doze` [通用]；
 
 > [!tip] 原型义
 > **原型义**：轻轻地、断断续续地睡觉（浅睡眠状态，介于清醒和深度睡眠之间）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I dozed off during the lecture because I stayed up late last night."（因为昨晚熬夜，我在讲座中打起了瞌睡）
-> - "He spent the afternoon dozing in the armchair."（他在扶手椅上打了一下午的瞌睡）
+> - During the students' viewing, more than half of the students dozed off, started chatting, or played games on their cell phones. `[真题]`
+> - She dozes on the sofa while her husband watches TV. `[真题]`
+> - As we dozed off, we heard the sound of approaching footsteps and voices, which jerked us quickly back to life. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**厌恶，反感**==；②==**作呕**==；
-**v.** ①==**使厌恶，使反感**==；
+**n.** ①==**厌恶，反感**== `\in disgust` [通用]；②==**作呕**== `\to one's disgust` [正式]；
+**v.** ①==**使厌恶，使反感**== `\be disgusted by/with` [通用]；
 
 > [!tip] 原型义
 > **原型义**：不好尝（味道令人反感）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The public expressed their disgust at the politician's corrupt behavior."（公众对这位政客的腐败行为表达了厌恶——考研阅读社会类话题）
-> - "She turned away in disgust when she saw the condition of the room."（当她看到房间的状况时，厌恶地转过头去——考研翻译常见表达）
+> - She walked out in disgust. `[真题]`
+> - Much to the disgust of some listeners, the speech was interrupted several times by a few people in the audience. `[真题]`
+> - He talked about his disgust with the way the news media focuses on celebrities. `[真题]`
 
 
 ---

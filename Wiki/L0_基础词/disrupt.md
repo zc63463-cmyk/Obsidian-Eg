@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**扰乱，使中断**==；②==**破坏，使瓦解**==；③使分裂；
+**vt.** ①==**扰乱，使中断**== `disrupt sth.` [通用]；②==**破坏，使瓦解**== `disrupt the market/balance` [商务/学术]；③使分裂；
 
 > [!tip] 原型义
 > **原型义**：打断（使事物从正常状态破裂分开）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has disrupted traditional business models across virtually every industry."（互联网几乎颠覆了所有行业的传统商业模式）
-> - "The storm disrupted flights across the region, leaving thousands of passengers stranded."（暴风雨扰乱了该地区的航班，导致数千名旅客滞留）
+> - The internet has disrupted traditional business models across virtually every industry. `[真题]`
+> - A heavy fall of snow disrupted traffic during the rush hour. `[真题]`
+> - Sleep deprivation can disrupt the production of hormones that are involved in controlling hunger. `[真题]`
 
 
 ---

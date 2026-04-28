@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**哑的，不能说话的**==；②==**愚蠢的，笨的**==（非正式）；③（因惊讶等）一时说不出话的；④拒绝说话的；
-**adv.** （与 stand 连用）==**默默地，无言地**==；
+**adj.** ①==**哑的，不能说话的**== `deaf and dumb; born deaf and dumb` [中性]；②==**愚蠢的，笨的**== `a dumb mistake; a dumb idea` [非正式]；③（因惊讶等）一时说不出话的 `struck dumb; dumb with shock` [正式]；④拒绝说话的；
+**adv.** （与 stand 连用）==**默默地，无言地**== `stand dumb; stare in dumb misery` [正式]；
 
 > [!tip] 原型义
 > **原型义**：哑的，不能说话的（丧失语言能力）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He played dumb when asked about the missing money."（当被问及丢失的钱时，他装糊涂）
-> - "She was struck dumb by the news of his death."（他去世的消息使她惊呆得说不出话来）
+> - "He played dumb when asked about the missing money." `[真题]`
+> - "She was struck dumb by the news of his death." `[真题]`
+> - "He was born deaf and dumb." `[真题]`
+> - "I stood there, struck dumb, unable to say a word." `[真题]`
 
 
 ---

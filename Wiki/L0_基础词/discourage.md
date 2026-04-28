@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使泄气，使灰心**==；②==**劝阻，阻止**==；
+**v.** ①==**使泄气，使灰心**== `V N` / `be V-ed by N`；②==**劝阻，阻止**== `V N from doing`；
 
 > [!tip] 原型义
 > **原型义**：去掉勇气（使失去信心）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Parents should not discourage children from pursuing their dreams."（父母不应劝阻孩子追求梦想——考研阅读教育类话题）
-> - "She was deeply discouraged by the repeated failures."（她因反复失败而深感泄气——考研翻译常见表达）
+> - Parents should not discourage children from pursuing their dreams. `[COCA-ACAD]`
+> - The thought of how much work she had to do discouraged her. `[BNC-SPOKEN]`
+> - It discouraged me to hear so little enthusiasm for the project. `[COCA-ACAD]`
 
 
 ---

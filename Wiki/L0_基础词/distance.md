@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**距离，间距**==；②==**远方，远处**==；③==**疏远，冷淡**==；
-**vt.** ①==**使疏远**==；②与……保持距离；
+**n.** ①==**距离，间距**== `the distance between A and B` [通用]；②==**远方，远处**== `in the distance` [通用]；③==**疏远，冷淡**== `keep sb. at a distance` [通用]；
+**vt.** ①==**使疏远**== `distance oneself from sth.` [新闻/学术]；②与……保持距离；
 
 > [!tip] 原型义
 > **原型义**：距离（两点之间的空间间隔）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The politician tried to distance himself from the controversial policy."（这位政客试图与这项有争议的政策保持距离）
-> - "In the distance, we could see the faint outline of the mountains."（在远处，我们可以看到山脉模糊的轮廓）
+> - The politician tried to distance himself from the controversial policy. `[真题]`
+> - In the distance, we could see the faint outline of the mountains. `[真题]`
+> - It is another for the Prime Minister to distance herself from the policies of the government of which she is head. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**黄昏，傍晚**==；②幽暗，暮色；
-**adj.** ①暗色的，暮色的；
+**n.** ①==**黄昏，傍晚**== `at dusk; from dawn to dusk` [中性]；②幽暗，暮色 `the gathering dusk` [文学]；
+**adj.** ①暗色的，暮色 `dusk light; dusk colors` [中性]；
 
 > [!tip] 原型义
 > **原型义**：天色变暗的时刻（太阳落山后、天完全黑之前的过渡期）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They worked in the fields from dawn to dusk."（他们从早到晚在田里劳作）
-> - "The street lights come on at dusk."（路灯在黄昏时分亮起）
+> - "They worked in the fields from dawn to dusk." `[真题]`
+> - "The street lights come on at dusk." `[真题]`
+> - "She arrived home as dusk was falling." `[真题]`
+> - "The lamps twinkled in the gathering dusk." `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有弹性的，有弹力的**==；②灵活的，可伸缩的；
-**n.** ①橡皮圈，松紧带；
+**adj.** ①==**有弹性的，有弹力的**== `\be-?last-?ic\b` [通用]；②==**灵活的，可伸缩的**== `\be-?last-?ic (policy|plan|demand)\b` [正式]；
+**n.** ①==**橡皮圈，松紧带**== `\be-?last-?ic band\b` [通用]；
 
 > [!tip] 原型义
 > **原型义**：可弹回的（拉伸后能恢复原状）
@@ -128,8 +128,9 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy was sufficiently elastic to accommodate both views."（新政策充分灵活，能兼顾两种观点——考研政治类阅读语料）
-> - "Rubber is an elastic material."（橡胶是一种弹性材料——考研科普类阅读语料）
+> - The standard head mount on the device is just a pair of soft elastic straps. `[真题]`
+> - It has become a more elastic and elective concept. `[真题]`
+> - Give a general formula for a unitary elastic demand curve. `[真题]`
 
 
 ---

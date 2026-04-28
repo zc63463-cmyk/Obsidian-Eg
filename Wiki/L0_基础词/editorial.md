@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**社论**==（报纸或杂志上代表编辑部意见的文章）；
-**adj.** ①==**编辑的**==（与编辑有关的）；②==**社论的**==（代表编辑部的立场）；
+**n.** ①==**社论**== `\publish/run an editorial` [正式/权威]；
+**adj.** ①==**编辑的**== `\editorial board/work` [中性/专业]；②==**社论的**== `\editorial opinion/policy` [正式/权威]；
 
 > [!tip] 原型义
 > **原型义**：编辑的——代表编辑部立场的社论
@@ -132,8 +132,9 @@ editor（编辑）+ -ial（形容词后缀，表示"……的"）。editor 源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The newspaper published an editorial calling for greater government accountability and transparency in public spending."（报纸发表了一篇社论，呼吁政府在公共支出方面更加负责和透明。——考研阅读媒体政治话题相关表达）
-> - "In a strongly worded editorial, the magazine criticized the tech giant for its failure to protect users' privacy."（在一篇措辞强烈的社论中，该杂志批评这家科技巨头未能保护用户隐私。——考研阅读科技伦理话题相关表达）
+> - The paper published an editorial strongly criticizing the mayor's actions. `[语料库]`
+> - The Athletic maintains full editorial independence. `[语料库]`
+> - The magazine's editorial team decided to run an editorial on the importance of climate change. `[语料库]`
 
 
 ---

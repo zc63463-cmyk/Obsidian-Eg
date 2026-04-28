@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**漂流，漂移**==；②无意间发生，不知不觉地陷入；③偏离，走题；
-**n.** ①漂流；②趋势，动向；③大意，主旨；④堆积物（雪堆等）；
+**v.** ①==**漂流，漂移**== `drift along/down` `drift with the current` [通用]；②无意间发生，不知不觉地陷入 `drift apart` `drift away` [通用]；③偏离，走题；
+**n.** ①漂流；②趋势，动向 `the drift of` `general drift` [书面]；③大意，主旨 `catch the drift` [口语]；④堆积物（雪堆等）；
 
 > [!tip] 原型义
 > **原型义**：被水流或风推动而移动（不受控制地随流移动）
@@ -131,8 +131,9 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Over the years, the two friends gradually drifted apart."（多年来，这两个朋友逐渐疏远了）
-> - "The general drift of the conversation was about environmental protection."（对话的大致方向是关于环境保护的）
+> - Over the years, the two friends gradually drifted apart. `[真题]`
+> - The general drift of the conversation was about environmental protection. `[真题]`
+> - The piece of wood drifted slowly down the river. `[真题]`
 
 
 ---

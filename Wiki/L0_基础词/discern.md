@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**辨别，识别**==；②==**看出，察觉**==（difficult to discern）；③（正式）了解，洞悉
+**v.** ①==**辨别，识别**== `V N` / `V N from N`；②==**看出，察觉**== `V N` [正式]；③（正式）了解，洞悉 `V N`
 
 > [!tip] 原型义
 > **原型义**：通过分离来辨认（把事物分开来看清楚）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is often difficult to discern the truth from the mass of conflicting information."（在大量相互矛盾的信息中往往难以辨别真相——考研阅读信息时代话题高频表达）
-> - "Experienced investors can discern emerging market trends before they become obvious to the general public."（经验丰富的投资者能在趋势对公众变得明显之前就看出新兴市场趋势——考研阅读经济话题常见表达）
+> - It is often difficult to discern the truth from the mass of conflicting information. `[COCA-ACAD]`
+> - With years of experience, she was able to discern the difference between genuine and fake documents. `[COCA-ACAD]`
+> - It was difficult to discern who was winning the actual competition. `[COCA-NEWS]`
 
 
 ---

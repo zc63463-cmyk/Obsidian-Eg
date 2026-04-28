@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**东方，东部**==；②东方国家
-**adj.** ①东方的，东部的
+**n.** ①==**东方，东部**== `the Middle East` `East Asia` [通用]；②东方国家 `the East` `the Far East` [通用]
+**adj.** ①东方的，东部的 `East Asian economies` [通用]
 **adv.** ①向东方
 
 > [!tip] 原型义
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conflict in the Middle East has drawn international attention."（中东的冲突引起了国际社会的关注——考研英语阅读政治类话题）
-> - "East Asian economies have experienced remarkable growth in recent decades."（东亚经济在过去几十年中经历了显著增长——考研翻译经济类表达）
+> - Wars in the Middle East, tax cuts for the wealthy and unfunded social welfare programs have the US on the brink of defaulting on its debt. `[真题]`
+> - Everybody's moving from the East coast to the West coast. `[真题]`
+> - It has helped us to go beyond thinking in contrastive pairs, us and them, East and West. `[真题]`
 
 
 ---

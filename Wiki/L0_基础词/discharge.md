@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**释放，排出**==；②==**解雇，免职**==；③==**履行，清偿**==（义务、债务）；④==**放电**==；⑤卸货
-**n.** ①释放，排出；②解雇；③放电
+**v.** ①==**释放，排出**== `V N`；②==**解雇，免职**== `V N from N`；③==**履行，清偿**==（义务、债务） `V N`；④==**放电**== `V N`；⑤卸货 `V N`
+**n.** ①释放，排出 `N`；②解雇 `N`；③放电 `N`
 
 > [!tip] 原型义
 > **原型义**：卸下负担（从身上卸除负荷）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory was fined for discharging toxic chemicals into the river."（这家工厂因向河流排放有毒化学品而被罚款——考研阅读环境话题高频表达）
-> - "Patients are typically discharged from hospital within 48 hours of minor surgery."（患者在小型手术后通常48小时内出院——考研阅读医疗话题常见表达）
+> - The factory was fined for discharging toxic chemicals into the river. `[COCA-NEWS]`
+> - Patients are typically discharged from hospital within 48 hours of minor surgery. `[COCA-ACAD]`
+> - She was discharged from the police force for bad conduct. `[BNC-SPOKEN]`
 
 
 ---

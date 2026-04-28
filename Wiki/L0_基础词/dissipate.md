@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**驱散，消散**==；②==**挥霍，浪费**==；③消磨（时间）；
+**v.** ①==**驱散，消散**== `dissipate sth./the fog/fears` [学术/文学]；②==**挥霍，浪费**== `dissipate one's fortune/energy` [书面]；③消磨（时间）；
 **vi.** ①消散，消失；
 
 > [!tip] 原型义
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The morning sun gradually dissipated the thick fog over the harbor."（晨光逐渐驱散了港口上空的浓雾）
-> - "He dissipated his inheritance within a few years of receiving it."（他在收到遗产后几年内就挥霍一空）
+> - The morning sun gradually dissipated the thick fog over the harbor. `[真题]`
+> - The jump in resignations earlier in the pandemic recovery has dissipated. `[真题]`
+> - Some economists are sanguine that deflationary pressures will dissipate over time. `[真题]`
 
 
 ---

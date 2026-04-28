@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**电的，与电有关的**==；②电学的，电气科学的
+**adj.** ①==**电的，与电有关的**== `\belectrical (equipment|fault|wiring|device)\b` [通用]；②==**电学的，电气科学的**== `\belectrical (engineering|signal|engineer)\b` [学术]
 
 > [!tip] 原型义
 > **原型义**：与电有关的（广义的关联性描述）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There's a problem with the building's electrical wiring."（这栋楼的电气线路有问题——Merriam-Webster 例句）
-> - "The electrical cord is damaged and needs to be replaced."（电线已损坏，需要更换——常见英语学习语料）
+> - There is a 25% discount on all electrical goods until the end of the week. `[真题]`
+> - Never use water to put out fires in electrical equipment. `[真题]`
+> - An unexpected surge in electrical power caused the computer to crash. `[真题]`
 
 
 ---

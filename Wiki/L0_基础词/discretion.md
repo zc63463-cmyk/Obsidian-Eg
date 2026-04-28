@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谨慎，慎重**==；②==**自由裁量权，决定权**==；③==**决定权范围内的选择**==；
+**n.** ①==**谨慎，慎重**== `\act with discretion` [正式]；②==**自由裁量权，决定权**== `\at one's discretion` [正式]；③==**决定权范围内的选择**== `\leave to sb.'s discretion` [正式]；
 
 > [!tip] 原型义
 > **原型义**：分开判断的能力（谨慎判断的权力）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The judge has the discretion to impose a lighter sentence under certain circumstances."（法官在特定情况下有权从轻判刑——考研阅读法律类话题高频表达）
-> - "You should use your own discretion when deciding whether to accept the offer."（在决定是否接受提议时，你应该运用自己的判断力——考研翻译常见句型）
+> - The judge exercised his discretion rightly to admit the evidence. `[真题]`
+> - Promotions are left to the discretion of the supervisor. `[真题]`
+> - The committee has the absolute discretion to refuse applications. `[真题]`
 
 
 ---

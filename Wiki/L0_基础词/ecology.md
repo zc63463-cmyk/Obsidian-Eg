@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生态，生态学**==；②（个体与环境的）相互关系；
+**n.** ①==**生态，生态学**== `study ecology` `marine ecology` [学术]；②（个体与环境的）相互关系 `ecology of the internet` [学术]；
 
 > [!tip] 原型义
 > **原型义**：生态（生物与其生活环境之间的关系）
@@ -124,8 +124,9 @@ eco-(=oikos, 家/环境) + [[log-logy|-logy]](学科/研究)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Both locally and globally, the continued spread of full-sun coffee plantations could mean the destruction of the rainforest ecology."（在本地和全球范围内，全阳光咖啡种植园的持续扩张可能意味着雨林生态的破坏。——2015年高考英语陕西卷阅读理解）
-> - "The task for ecologists is to untangle the environmental and biological factors that hold this intrinsic capacity for population growth in check over the long run."（生态学家的任务是理清那些长期控制种群内在增长能力的环境和生物因素。——考研英语阅读）
+> - The developments will extend further into the shore, so further destroying the river's ecology. `[真题]`
+> - Explaining the complex structure of tropical forests is one of the great challenges in ecology. `[真题]`
+> - The Black Sea is facing ecological catastrophe as a result of pollution. `[真题]`
 
 
 ---

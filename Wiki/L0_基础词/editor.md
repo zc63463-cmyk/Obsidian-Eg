@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**编辑，编者**==（负责编辑出版物的人）；②==**主编**==（编辑部的负责人）；③（计算机）编辑器，编辑程序；
+**n.** ①==**编辑，编者**== `\a newspaper/book editor` [正式/专业]；②==**主编**== `\editor-in-chief` [正式/专业]；③（计算机）编辑器，编辑程序；
 
 > [!tip] 原型义
 > **原型义**：把作品向外呈现的人——编辑
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The editor of the newspaper resigned after it was revealed that the paper had published fabricated stories."（在报纸被揭发刊登虚假报道后，报纸编辑辞职了。——考研阅读媒体伦理话题相关表达）
-> - "She has worked as a senior editor at a major publishing house for over twenty years."（她在一家大型出版社担任高级编辑已超过二十年。——考研阅读职业话题相关表达）
+> - The editor of the newspaper resigned after it was revealed that the paper had published fabricated stories. `[语料库]`
+> - She has worked as a senior editor at a major publishing house for over twenty years. `[语料库]`
+> - Introducing the Guardian's editor-in-chief, Jarvis says Alan Rusbridger is the best newspaper editor in the world. `[语料库]`
 
 
 ---

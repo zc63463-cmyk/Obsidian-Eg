@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**钻头，钻孔机**==；②操练，训练；③演习；
-**v.** ①钻孔；②操练，训练；③反复灌输；
+**n.** ①==**钻头，钻孔机**== `electric drill` `drill a hole` [通用]；②操练，训练 `military drill` `drill students on` [教育/军事]；③演习 `fire/emergency drill` [通用]；
+**v.** ①钻孔；②操练，训练；③反复灌输 `drill sth. into sb.` [教育]；
 
 > [!tip] 原型义
 > **原型义**：旋转穿透（钻头通过旋转穿透物体表面）
@@ -129,8 +129,9 @@ drill 源自荷兰语 *dril* "a hole, boring tool"，源自 *drillen* "to bore, 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The teacher drilled the students on grammar rules every day."（老师每天让学生反复操练语法规则）
-> - "Regular fire drills are essential for building safety."（定期消防演习对建筑安全至关重要）
+> - The teacher drilled the students on grammar rules every day. `[真题]`
+> - Regular fire drills are essential for building safety. `[真题]`
+> - He drilled three holes in the wall for the screws. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**灾难性的，极糟糕的**==；②损失惨重的
+**adj.** ①==**灾难性的，极糟糕的**== `adj. N`；②损失惨重的 `adj. N`
 
 > [!tip] 原型义
 > **原型义**：充满灾难的（像星位不正一样糟糕）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The oil spill had disastrous consequences for marine life in the Gulf of Mexico."（石油泄漏对墨西哥湾的海洋生物造成了灾难性的后果——考研阅读环境话题高频表达）
-> - "The government's economic policies proved to be disastrous, leading to high unemployment and inflation."（政府的经济政策被证明是灾难性的，导致了高失业率和通货膨胀——考研阅读经济话题常见表达）
+> - The oil spill had disastrous consequences for marine life in the Gulf of Mexico. `[COCA-NEWS]`
+> - The church was rebuilt after a disastrous fire in 1824. `[COCA-ACAD]`
+> - The government's economic policies proved to be disastrous, leading to high unemployment and inflation. `[COCA-NEWS]`
 
 
 ---

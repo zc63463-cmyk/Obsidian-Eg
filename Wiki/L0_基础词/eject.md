@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**喷射，排出**==；②驱逐，逐出；③弹出；
+**vt.** ①==**喷射，排出**== `\eject sth. (from sth.)` [中性]；②驱逐，逐出；③弹出；
 
 > [!tip] 原型义
 > **原型义**：扔出去（将某物从内部用力抛出）
@@ -132,8 +132,9 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When endangered, octopuses eject an inky substance, which is used as a screen."（遇到危险时，章鱼能喷射一种墨水状液体作为掩护——考研阅读科普类语料）
-> - "If the voters go further and eject Mr. Johnson from the leadership, the party will face a crisis."（如果选民进一步将约翰逊先生从领导层驱逐出去，该党将面临危机——考研政治类阅读模拟）
+> - When endangered, octopuses eject an inky substance, which is used as a screen. `[语料库]`
+> - A number of fans had been ejected from the bar for causing trouble. `[语料库]`
+> - The pilot had to eject from his burning plane when the engines cut out. `[语料库]`
 
 
 ---

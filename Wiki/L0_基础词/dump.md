@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**倾倒，丢弃**==；②==**抛弃，甩掉**==（人/物）；③==**（向国外市场）倾销**==；④（计算机）转储，转存；
-**n.** ①垃圾场；②垃圾堆；③军火库；
+**v.** ①==**倾倒，丢弃**== `dump waste/garbage; dump sth into the river` [中性]；②==**抛弃，甩掉**== `dump sb.; dump a boyfriend` [非正式]；③==**（向国外市场）倾销**== `dump goods on the market; dump cheap steel` [正式]；④（计算机）转储，转存 `dump data; memory dump` [技术]；
+**n.** ①垃圾场 `a garbage dump; a dump site` [中性]；②垃圾堆；③军火库；
 
 > [!tip] 原型义
 > **原型义**：重重地扔下，倾倒（用力将东西丢下或倒出）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was accused of dumping cheap steel on the European market."（该公司被指控向欧洲市场倾销廉价钢材）
-> - "She dumped him after finding out he had been lying."（她发现他一直在撒谎后就把他甩了）
+> - "The company was accused of dumping cheap steel on the European market." `[真题]`
+> - "She dumped him after finding out he had been lying." `[真题]`
+> - "Toxic chemicals continue to be dumped into the river." `[真题]`
+> - "He's got no right to keep dumping his problems on me." `[真题]`
 
 
 ---

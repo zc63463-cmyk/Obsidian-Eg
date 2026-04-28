@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**向下地，下降地**==；
-**adj.** ①==**向下的，下降的**==；
+**adv.** ①==**向下地，下降地**== `\move/look downward` [通用]；
+**adj.** ①==**向下的，下降的**== `\a downward trend/pressure` [通用]；
 
 > [!tip] 原型义
 > **原型义**：向下的方向（从高处向低处的运动方向）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economy showed a downward trend in the third quarter."（经济在第三季度呈现下降趋势）
-> - "The stock market experienced a sharp downward movement."（股市经历了急剧的下行走势）
+> - That could lead to increasing inventories providing some sustained downward pressure on new vehicle pricing. `[真题]`
+> - We are in that downward trough at the moment. `[真题]`
+> - We would need to have an ongoing downward trajectory to be satisfied with that. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**退潮，落潮**==；②衰退，衰落
-**v.** ①退潮；②==**衰退，减弱**==（==**考研重点义项**==）
+**n.** ①==**退潮，落潮**== `ebb tide` `at a low ebb` [书面]；②衰退，衰落 `the ebb of enthusiasm` [文学]
+**v.** ①退潮；②==**衰退，减弱**==（==**考研重点义项**==）`ebb away` `ebb and flow` [通用]
 
 > [!tip] 原型义
 > **原型义**：退潮（海水从岸边退去）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ebb and flow of the economy is influenced by many factors."（经济的盛衰交替受多种因素影响——考研英语阅读经济类话题）
-> - "His enthusiasm for the project began to ebb as the difficulties mounted."（随着困难增加，他对项目的热情开始衰退——考研翻译相关表达）
+> - To follow the arrival of letters, day by day and town by town, is to watch the ebb and flow of literary demand. `[真题]`
+> - But their strength was ebbing away, and neither DeFreitas nor Botham could contribute. `[真题]`
+> - At his lowest ebb, Macari was threatened with imprisonment. `[真题]`
 
 
 ---

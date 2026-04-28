@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**处理，处置**==；②==**排列，布置**==；③==**使倾向于**==；
+**v.** ①==**处理，处置**== `\dispose of sth.` [正式]；②==**排列，布置**== `\dispose troops` [正式]；③==**使倾向于**== `\be disposed to` [正式]；
 
 > [!tip] 原型义
 > **原型义**：排列好（安排好位置）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory must dispose of its waste in an environmentally friendly manner."（工厂必须以环保的方式处理废物——考研阅读环境类话题）
-> - "She was not disposed to accept the offer without further negotiation."（她不倾向于在没有进一步谈判的情况下接受提议——考研翻译常见句型）
+> - Surely there must be a better way to dispose of nuclear waste. `[真题]`
+> - It took only five minutes for the world champion to dispose of his opponent. `[真题]`
+> - She was not disposed to accept the offer without further negotiation. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**丢弃，抛弃**==；②打出（牌）
-**n.** ①被丢弃的人或物；②（牌戏中的）弃牌
+**v.** ①==**丢弃，抛弃**== `V N`；②打出（牌） `V N`
+**n.** ①被丢弃的人或物 `the N`；②（牌戏中的）弃牌 `the N`
 
 > [!tip] 原型义
 > **原型义**：通过卡片游戏扔掉（把不要的牌扔出去）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We must be willing to discard outdated assumptions and embrace new ways of thinking."（我们必须愿意抛弃过时的假设，拥抱新的思维方式——考研阅读思维话题高频表达）
-> - "The study found that people tend to discard information that contradicts their existing beliefs."（研究发现人们倾向于抛弃与他们现有信念相矛盾的信息——考研阅读心理话题常见表达）
+> - We must be willing to discard outdated assumptions and embrace new ways of thinking. `[COCA-ACAD]`
+> - Cut the melon in half and discard the seeds. `[COCA-NEWS]`
+> - He makes toys from things people discard. `[BNC-SPOKEN]`
 
 
 ---

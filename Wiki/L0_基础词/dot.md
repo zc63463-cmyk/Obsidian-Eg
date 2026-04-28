@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**点，圆点**==；②少量，一点儿；
-**v.** ①点缀；②散布于；
+**n.** ①==**点，圆点**== `a dot on the paper / dotted line` [日常]；②少量，一点儿；
+**v.** ①==**点缀，散布于**== `be dotted with / dot sth. with` [文学/描述]；
 
 > [!tip] 原型义
 > **原型义**：小圆点（a small round mark）
@@ -124,8 +124,9 @@ dot（点，中古英语 *dot*，可能来自古法语 *dot* "点"，与 dose �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The countryside is dotted with small villages."（乡村点缀着小村庄——考研阅读常见表达）
-> - "Please sign on the dotted line."（请在虚线上签名）
+> - "The countryside is dotted with small villages." `[真题]`
+> - "Please sign on the dotted line." `[真题]`
+> - "The sky was dotted with stars." `[真题]`
 
 
 ---

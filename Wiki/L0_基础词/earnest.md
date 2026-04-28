@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**认真的，诚挚的**==；②严肃的，郑重的
-**n.** ①==**定金，预付款**==（表示承诺的诚意金）；②认真，诚挚
+**adj.** ①==**认真的，诚挚的**== `earnest discussion` `earnest appeal` [通用]；②严肃的，郑重的
+**n.** ①==**定金，预付款**==（表示承诺的诚意金）`earnest money` [法律/商业]；②认真，诚挚 `in earnest` [通用]
 
 > [!tip] 原型义
 > **原型义**：定金（交易中的预付款，表示诚意）
@@ -137,8 +137,9 @@ earnest 有两个词源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The negotiations began in earnest after both sides agreed on the basic framework."（双方就基本框架达成一致后，谈判认真地开始了——考研英语阅读政治类话题）
-> - "She is an earnest student who always completes her assignments on time."（她是一个认真的学生，总是按时完成作业——考研翻译教育类表达）
+> - Campaigning will begin in earnest tomorrow. `[真题]`
+> - Despite her earnest efforts, she could not find a job. `[真题]`
+> - Earnings season kicks off in earnest this week. `[真题]`
 
 
 ---

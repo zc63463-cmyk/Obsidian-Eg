@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**区域，地区**==；②==**行政区，区**==；
+**n.** ①==**区域，地区**== `business/shopping district` [新闻/通用]；②==**行政区，区**== `school/congressional district` [新闻/正式]；
 
 > [!tip] 原型义
 > **原型义**：区域（被分开管辖的地方）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city's business district is home to numerous multinational corporations."（该市的商业区是众多跨国公司的所在地）
-> - "She was elected as the representative for the 5th congressional district."（她当选为第五国会选区的代表）
+> - The city's business district is home to numerous multinational corporations. `[真题]`
+> - She was elected as the representative for the 5th congressional district. `[真题]`
+> - There are more than 40 congressional districts where the number of registered Latino voters exceeds the margin of victory in 2024. `[真题]`
 
 
 ---

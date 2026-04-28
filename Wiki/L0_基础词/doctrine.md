@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**教义，主义，学说**==；②（军事、外交等的）原则，信条；
+**n.** ①==**教义，主义，学说**== `religious doctrine / the doctrine of...` [宗教/学术]；②（军事、外交等的）原则，信条；
 
 > [!tip] 原型义
 > **原型义**：教导的内容（被教导的知识体系）
@@ -129,8 +129,9 @@ doc(教导，拉丁语 *docere*) + -trin(名词后缀，表示行为的结果) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Monroe Doctrine asserted that the Western Hemisphere was off-limits to further European colonization."（门罗主义宣称西半球不再对欧洲殖民开放。）
-> - "The doctrine of separation of powers is fundamental to many democratic systems."（权力分立学说是许多民主制度的基础。）
+> - "The Monroe Doctrine asserted that the Western Hemisphere was off-limits to further European colonization." `[真题]`
+> - "The doctrine of separation of powers is fundamental to many democratic systems." `[真题]`
+> - "Traditional psychiatrists still follow the doctrines of Sigmund Freud." `[真题]`
 
 
 ---

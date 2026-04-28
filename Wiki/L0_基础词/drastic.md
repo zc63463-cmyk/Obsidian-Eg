@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**激烈的，猛烈的**==；②==**极端的，严厉的**==；
+**adj.** ①==**激烈的，猛烈的**== `\drastic measures/action` [通用]；②==**极端的，严厉的**== `\drastic changes/reduction/cuts` [通用]；
 
 > [!tip] 原型义
 > **原型义**：行动力强的（希腊语 *drastikos*，"有效的、有力的、积极的"，源自 *dran*"做、行动"）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Drastic measures are needed to reduce pollution."（需要采取极端措施来减少污染。）
-> - "The economy has seen a drastic decline in exports."（经济出现了出口的大幅下降。）
+> - This is a drastic shift compared with the previous administration. `[真题]`
+> - So people want more drastic measures taken. `[真题]`
+> - We could also see a drastic reduction in the number of agents in the industry. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**离婚，离婚判决**==；②分离，脱离；
-**v.** ①==**与……离婚**==；②使分离，使脱离；
+**n.** ①==**离婚，离婚判决**== `get/file for a divorce` [法律/日常]；②分离，脱离；
+**v.** ①==**与……离婚**== `divorce sb. / be divorced from` [法律/日常]；②==**使分离，使脱离**== `divorce A from B` [正式/学术]；
 
 > [!tip] 原型义
 > **原型义**：分开，分离（来自拉丁语 *divortere*，[[div]]"分"+ *vertere*"转"——转向分开）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The divorce rate has been rising steadily in recent decades."（近几十年来离婚率一直在稳步上升。）
-> - "We should not divorce science from ethics."（我们不应将科学与伦理割裂开来。）
+> - "After years of disagreements, the couple decided to file for divorce." `[真题]`
+> - "The divorce rate has been declining in recent years according to social researchers." `[真题]`
+> - "We should not divorce science from ethics." `[真题]`
 
 
 ---

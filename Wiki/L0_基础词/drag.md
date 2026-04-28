@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拖，拉，拽**==；②硬拉，强迫；③拖沓，缓慢进行；
-**n.** ①拖拽；②障碍，累赘；③（尤指吸烟的）一口；
+**v.** ①==**拖，拉，拽**== `\drag sth. across/along` [通用]；②硬拉，强迫 `\drag sb. into/to` [口语]；③拖沓，缓慢进行 `\drag on/along` [通用]；
+**n.** ①拖拽；②障碍，累赘 `\a drag on sth.` [通用]；③（尤指吸烟的）一口 `\take a drag on` [口语]；
 
 > [!tip] 原型义
 > **原型义**：用力拖拽（沿地面/表面缓慢拉动重物）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economy is being dragged down by high unemployment."（高失业率正在拖累经济。）
-> - "He dragged his feet on signing the contract."（他在签署合同上拖拖拉拉。）
+> - The economy is being dragged down by high unemployment. `[真题]`
+> - He dragged his feet on signing the contract. `[真题]`
+> - She dragged on a low-tar cigarette and exhaled slowly. `[真题]`
 
 
 ---
