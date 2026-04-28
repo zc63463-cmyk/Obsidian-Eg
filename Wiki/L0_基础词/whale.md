@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**鲸鱼**==；
-**v.** ①==**猛击，痛打**==；②==**捕鲸**==；
+**n.** ①==**鲸鱼**== `blue whale/sperm whale` [中性]；
+**v.** ①==**猛击，痛打**== `whale on sb` [口语/负面]；②==**捕鲸**== `whaling industry` [中性/书面]；
 
 > [!tip] 原型义
 > **原型义**：巨大的海洋哺乳动物（鲸鱼）
@@ -127,8 +127,9 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The blue whale, the largest animal ever known to have existed on Earth, can grow up to 30 meters in length and weigh as much as 200 tons."（蓝鲸是地球上已知存在的最大动物，体长可达30米，体重可达200吨——考研阅读生态话题相关表达）
-> - "Commercial whaling in the 19th century nearly drove several whale species to extinction, prompting international efforts to protect these magnificent creatures."（19世纪的商业捕鲸几乎使几种鲸鱼灭绝，促使国际社会努力保护这些壮丽的生物——考研阅读环保话题相关表达）
+> - The blue whale is the largest animal known to have ever existed on Earth. `[真题]`
+> - Commercial whaling in the 19th century nearly drove several whale species to extinction. `[真题]`
+> - The 25-metre whale carcass washed up on the western Newfoundland community of Trout River. `[真题]`
 
 
 ---

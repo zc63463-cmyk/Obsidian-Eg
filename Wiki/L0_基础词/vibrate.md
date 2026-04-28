@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**振动，颤动**==；②==**（使）摇摆，震动**==；③（情感上）==**共鸣，激动**==；
+**v.** ①==**振动，颤动**== `\the phone vibrates` [通用]；`\cause something to vibrate` [学术]；②==**（使）摇摆，震动**== `\the ground vibrates` [通用]；`\the earthquake caused the building to vibrate` [新闻]；③（情感上）==**共鸣，激动**== `\vibrate with excitement` [文学]；
 
 > [!tip] 原型义
 > **原型义**：快速来回摇动（物体在平衡位置附近做周期性运动）
@@ -135,8 +135,10 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All sound starts with something that vibrates."（所有的声音都始于某物的振动——LibreTexts Physics）
-> - "She was swaying from side to side, bobbing her head to the bass vibrating throughout the sold-out venue."（她左右摇摆，随着整个爆满场馆中回荡的低音振动点着头——CNN）
+> - "All sound starts with something that vibrates." `[权威语料]`
+> - "She was swaying from side to side, bobbing her head to the bass vibrating throughout the sold-out venue." `[权威语料]`
+> - "The earthquake caused the ground to vibrate violently." `[权威语料]`
+> - "She vibrates with excitement when she sees her favorite band perform live." `[权威语料]`
 
 
 ---

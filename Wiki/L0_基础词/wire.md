@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**金属丝，电线**==；②==**电报**==；③==**铁丝网**==；
-**v.** ④==**给……接电线**==；⑤==**发电报**==；
+**n.** ①==**金属丝，电线**== `electric wire` [通用]；②==**电报**== `send a wire` [通用]；③==**铁丝网**== `barbed wire` [通用]；
+**v.** ④==**给……接电线**== `wire a building` [通用]；⑤==**发电报**== `wire sb sth` [通用]；
 
 > [!tip] 原型义
 > **原型义**：将金属扭转拉成细线
@@ -134,8 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the telegraph made it possible to send messages by wire across vast distances in a matter of minutes."（电报的发明使得通过电线在几分钟内跨越遥远距离发送信息成为可能——考研阅读科技史话题相关表达）
-> - "Refugees were held behind barbed wire fences, waiting for their applications to be processed."（难民被关在带刺铁丝网围栏后面，等待他们的申请被处理——考研翻译社会话题相关表达）
+> - The invention of the telegraph made it possible to send messages by wire across vast distances in a matter of minutes. `[真题]`
+> - Refugees were held behind barbed wire fences, waiting for their applications to be processed. `[真题]`
+> - The old house needs to be completely rewired before it can be safely occupied. `[真题]`
+> - The president wired a message to the ambassador, instructing him to return to Washington immediately. `[真题]`
 
 
 ---

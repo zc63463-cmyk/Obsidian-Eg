@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**录像，视频**==；②==**录像带，录像机**==；
-**adj.** ③==**视频的，电视的**==（如 video game, video call）；
-**v.** ④==**录制（录像）**==；
+**n.** ①==**录像，视频**== `\watch a video` [通用]；`\on video` [通用]；②==**录像带，录像机**== `\a video of` [通用]；
+**adj.** ③==**视频的，电视的**== `\video game` [通用]（如 video game, video call）；
+**v.** ④==**录制（录像）**== `\video the highlights` [通用]；
 
 > [!tip] 原型义
 > **原型义**：我看见的（通过电子技术捕捉和播放的动态影像）
@@ -136,8 +136,10 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has watched the race on video."（她在录像中看了那场比赛——Collins Dictionary）
-> - "The club specialises in videoing its student golfers to correct their faults."（该俱乐部专门为学生高尔夫球手录像以纠正他们的动作缺陷——Collins Dictionary）
+> - "She has watched the race on video." `[权威语料]`
+> - "The club specialises in videoing its student golfers to correct their faults." `[权威语料]`
+> - "One video explains greenwashing — a term regularly used on social media and often misunderstood." `[权威语料]`
+> - "You can watch the full video online." `[权威语料]`
 
 
 ---

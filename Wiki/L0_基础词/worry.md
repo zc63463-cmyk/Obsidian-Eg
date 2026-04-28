@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**担忧，焦虑**==；②困扰，烦扰；③（狗等）撕咬，缠住；
-**n.** ①==**担忧，忧虑**==；②令人担忧的事；
+**v.** ①==**担忧，焦虑**== `worry about` [通用]；②困扰，烦扰 `worry sb` [通用]；③（狗等）撕咬，缠住 `worry the bone` [书面]；
+**n.** ①==**担忧，忧虑**== `cause worry` [通用]；②令人担忧的事 `a worry` [通用]；
 
 > [!tip] 原型义
 > **原型义**：担忧，焦虑（对不确定的未来感到不安）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is no need to worry about the future."（没有必要担心未来。）
-> - "The thing that worries me most is the rising cost of living."（最让我担忧的是生活成本的上涨。）
+> - There is no need to worry about the future if you prepare well and stay focused on the present. `[真题]`
+> - What worries me most is the rising cost of living and its impact on low-income families. `[真题]`
+> - She began to worry that she wouldn't be able to finish the project before the deadline. `[真题]`
+> - The constant noise from the construction site next door has been a real worry for the residents. `[真题]`
 
 
 ---

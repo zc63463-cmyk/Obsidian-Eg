@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**交通工具，车辆**==；②==**媒介，手段**==（传播思想、信息的工具）；③（药的）赋形剂；
+**n.** ①==**交通工具，车辆**== `motor vehicle / electric vehicle` [中性]；②==**媒介，手段**== `a vehicle for sth / language as a vehicle for thought` [正式]；③（药的）赋形剂 `a vehicle for the drug` [专业]；
 
 > [!tip] 原型义
 > **原型义**：运载工具（承载和传递的媒介）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Language is the primary vehicle for human communication."（语言是人类交流的主要载体。——考研阅读语言学类）
-> - "The government is promoting the use of electric vehicles to reduce emissions."（政府正在推广电动汽车的使用以减少排放。——考研阅读环保类）
+> - "Language is the primary vehicle for human communication." `[真题]`
+> - "The government is promoting the use of electric vehicles to reduce emissions." `[真题]`
+> - "Art can serve as a vehicle for social change and cultural expression." `[权威语料]`
+> - "The number of thefts of motor vehicles rose by a third last year." `[权威语料]`
 
 
 ---

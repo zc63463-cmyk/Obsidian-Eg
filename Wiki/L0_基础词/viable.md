@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可行的，可实施的**==；②==**能存活的，有生命力的**==（如 viable fetus）；③==**能盈利的，能自给的**==（如 viable business）；
+**adj.** ①==**可行的，可实施的**== `\a viable solution/option` [通用]；`\a viable alternative` [正式]；②==**能存活的，有生命力的**== `\a viable fetus` [学术]（如 viable fetus）；③==**能盈利的，能自给的**== `\commercially/economically viable` [正式]（如 viable business）；
 
 > [!tip] 原型义
 > **原型义**：能活的（有生命力的、能存活下去的）
@@ -134,8 +134,10 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rising oil prices have made alternative energy sources more economically viable."（不断上涨的油价使替代能源在经济上变得更加可行——Cambridge English Corpus）
-> - "Home-working offers a viable solution to the work/family conflict."（在家办公为工作与家庭的冲突提供了一个可行的解决方案——Cambridge English Corpus）
+> - "Rising oil prices have made alternative energy sources more economically viable." `[权威语料]`
+> - "Home-working offers a viable solution to the work/family conflict." `[权威语料]`
+> - "We want to make public transport a viable alternative to using cars." `[权威语料]`
+> - "Perhaps the only viable solution is to merge the hospitals." `[权威语料]`
 
 
 ---

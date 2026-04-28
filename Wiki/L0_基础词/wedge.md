@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**楔子**==（三角形的硬物）；②==**楔形物**==；
-**v.** ①==**楔入，挤入**==；②==**将……撑开**==；③==**挑拨离间**==（drive a wedge between）；
+**n.** ①==**楔子**==（三角形的硬物） `a wooden wedge / hammer a wedge into` [通用]；②==**楔形物**==；
+**v.** ①==**楔入，挤入**== `wedge sth into / wedge oneself into` [通用]；②==**将……撑开**== `wedge the door open/shut` [通用]；③==**挑拨离间**==（drive a wedge between） `drive a wedge between A and B` [正式]；
 
 > [!tip] 原型义
 > **原型义**：楔子（三角形的工具，用于撑开或固定物体）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Common to all these cities are buyers from emerging markets who have helped to drive a wedge between the price of homes and the local fundamentals of incomes and rental payments."（这些城市都有一个共同点，那就是来自新兴市场的买家拉大了房价和收入与租金支出这两个当地市场基本面之间的差距——经济学人例句）
-> - "I shut the shed door and wedged it with a log of wood."（我关上小屋的门，然后用一根圆木将它抵牢——剑桥词典例句）
+> - I shut the shed door and wedged it with a log of wood. `[真题]`
+> - She wedged herself into the passenger seat. `[真题]`
+> - I don't want to drive a wedge between the two of you. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**空的，未被占用的**==（指位置、职位、房间等空着）；②==**空虚的，茫然的**==（指表情、眼神空洞无神）；
-③==**（职位）空缺的**==
+**adj.** ①==**空的，未被占用的**== `N vacant` `a vacant N`（指位置、职位、房间等空着）；②==**空虚的，茫然的**== `a vacant stare/look/expression`（指表情、眼神空洞无神）；
+③==**（职位）空缺的**== `a vacant position/post` `[正式]`
 
 > [!tip] 原型义
 > **原型义**：空着的，空闲的（拉丁语 vacare "空闲、空着" 的现在分词 vacans）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has been trying to fill the vacant position of chief financial officer for over three months."（公司已经试图填补首席财务官的空缺职位超过三个月了——考研阅读职场话题相关表达）
-> - "She stared with a vacant expression, as if her mind were somewhere far away."（她带着茫然的表情凝视着，仿佛心已经飘到了远方——考研阅读心理描写相关表达）
+> - "The position had been vacant for more than a year." `[COCA-ACAD]`
+> - "Property developers have been left with many vacant apartments since the downturn in the housing market." `[COCA-NEWS]`
+> - "She had a kind of vacant look on her face." `[COCA-FICT]`
+> - "Many newer apartments remain vacant." `[COCA-NEWS]`
 
 
 ---

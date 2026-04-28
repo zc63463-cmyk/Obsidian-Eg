@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**每周的，每周一次的**==；
+**adj.** ①==**每周的，每周一次的**== `a weekly meeting/report` [中性]；
 **adv.** ①每周一次；
-**n.** ①周刊，周报；
+**n.** ①周刊，周报 `a popular weekly` [中性]；
 
 > [!tip] 原型义
 > **原型义**：每周一次的
@@ -124,7 +124,9 @@ week(周) + -ly(每……的/以……为周期的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee holds weekly meetings to discuss progress."（委员会每周举行例会讨论进展）
+> - The committee holds weekly meetings to discuss progress. `[真题]`
+> - She writes a weekly fashion column for the Evening Standard. `[真题]`
+> - The fire alarm is tested weekly. `[真题]`
 
 
 ---

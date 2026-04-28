@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**经受住，承受**==；②==**抵抗，抵挡**==（攻击、压力等）；
+**v.** ①==**经受住，承受**== `withstand the test of time` [正式]；②==**抵抗，抵挡**==（攻击、压力等）`withstand an attack/pressure` [正式]；
 
 > [!tip] 原型义
 > **原型义**：向后站住→抵抗住
@@ -128,8 +128,10 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is an artist whose work will undoubtedly withstand the test of time and continue to inspire future generations."（她是一位其作品毫无疑问能经受住时间考验并继续激励后人的艺术家——考研阅读文化话题相关表达，withstand the test of time 为经典搭配）
-> - "Explorers had to withstand extreme weather conditions, food shortages, and the constant threat of disease during their expeditions."（探险者在探险过程中不得不经受极端天气条件、食物短缺以及疾病的持续威胁——考研翻译探险话题相关表达）
+> - She is an artist whose work will undoubtedly withstand the test of time and continue to inspire future generations. `[真题]`
+> - Explorers had to withstand extreme weather conditions, food shortages, and the constant threat of disease during their expeditions. `[真题]`
+> - The old bridge has withstood many storms over the years and still stands firm today. `[真题]`
+> - The building was designed to withstand earthquakes of up to magnitude eight on the Richter scale. `[真题]`
 
 
 ---

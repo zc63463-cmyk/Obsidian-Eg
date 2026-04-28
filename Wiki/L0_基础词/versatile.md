@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**多才多艺的**==；②==**多功能的，万用的**==；③反复无常的（罕）；
+**adj.** ①==**多才多艺的**== `a versatile actor/performer` [正面]；②==**多功能的，万用的**== `a versatile tool/material` [正面]；③反复无常的（罕）；
 
 > [!tip] 原型义
 > **原型义**：多才多艺的（能转向多种方向的人）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He's a very versatile young actor who's as happy in highbrow dramas as he is in TV comedies."（他是一位非常多才多艺的年轻演员，演高雅戏剧和电视喜剧一样得心应手。——剑桥英语语料库）
-> - "Eggs are easy to cook and are an extremely versatile food."（鸡蛋容易烹煮，怎么做着吃都行，是一种极其多功能的食物。——柯林斯语料库）
+> - "He's a very versatile young actor who's as happy in highbrow dramas as he is in TV comedies." `[权威语料]`
+> - "Eggs are easy to cook and are an extremely versatile food." `[权威语料]`
+> - "Never before has computing been so versatile." `[权威语料]`
+> - "She stands out for her incredible versatility as an actor." `[权威语料]`
 
 
 ---

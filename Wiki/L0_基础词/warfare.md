@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**战争，作战**==；②（团体、公司等之间的）斗争，冲突；
+**n.** ①==**战争，作战**== `\guerrilla/chemical warfare` [正式]；`\trench warfare` [正式]；②==**（团体、公司等之间的）斗争，冲突**== `\class/gang warfare` [正式]；`\commercial warfare` [正式]；
 
 > [!tip] 原型义
 > **原型义**：用战争手段进行的活动（war + fare = 战争的状态/方式）
@@ -135,8 +135,10 @@ war(战争) + fare(走，去，拉丁语 *far*，古英语 *faran*) → 战争�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These clashes could develop into open warfare."（这些冲突可能会发展成公开的战争。——考研高频表达）
-> - "Much of the violence is related to drugs and gang warfare."（许多暴力事件与毒品和帮派斗争有关。——考研阅读相关话题）
+> - "A million French soldiers had been killed in trench warfare." `[权威语料]`
+> - "Rebels have been warning of a turn to guerrilla warfare." `[权威语料]`
+> - "She called for an end to gang warfare and blasted crooks being freed to kill." `[权威语料]`
+> - "The stirring up of class warfare is tremendously unhelpful." `[权威语料]`
 
 
 ---

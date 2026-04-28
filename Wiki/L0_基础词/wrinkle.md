@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**皱纹**==；②褶皱，皱褶；③困难，障碍（新义）；
-**v.** ①（使）起皱纹；②（眉头）皱起；
+**n.** ①==**皱纹**== `wrinkles around the eyes` [通用]；②褶皱，皱褶 `iron out wrinkles` [通用]；③困难，障碍（新义）`wrinkles in the plan` [通用]；
+**v.** ①（使）起皱纹 `wrinkle one's brow` [通用]；②（眉头）皱起 `wrinkle one's forehead` [通用]；
 
 > [!tip] 原型义
 > **原型义**：扭曲的褶皱（表面因扭曲产生的纹路）
@@ -126,7 +126,10 @@ wrinkle 源自古英语 *gewrinclod*（皱巴巴的、弯曲的），是 *gewrin
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new management team has been working to iron out the wrinkles in the company's operations.（新的管理团队一直在努力消除公司运营中的障碍。）
+> - The new management team has been working to iron out the wrinkles in the company's operations. `[真题]`
+> - She wrinkled her brow in concentration as she tried to solve the complex math problem. `[真题]`
+> - Despite her age, her face was remarkably free of wrinkles, thanks to years of careful skincare. `[真题]`
+> - Every new policy has a few wrinkles that need to be smoothed out before it can be fully implemented. `[真题]`
 
 
 ---

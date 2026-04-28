@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**创伤，伤口**==；②（精神上的）创伤；
-**v.** ①==**使受伤，伤害**==；②伤害（感情）；
+**n.** ①==**创伤，伤口**== `a knife/gunshot wound` [通用]；②（精神上的）创伤 `emotional wounds` [通用]；
+**v.** ①==**使受伤，伤害**== `be wounded in battle` [通用]；②伤害（感情） `wound sb's pride` [通用]；
 
 > [!tip] 原型义
 > **原型义**：身体被外力造成的损伤（皮肤或组织被割破、刺穿）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The soldiers were treated for their wounds."（士兵们的伤口得到了治疗）
-> - "She spoke about the emotional wounds caused by the divorce."（她谈到了离婚造成的情感创伤）
+> - The soldiers were treated for their wounds at a field hospital near the front line. `[真题]`
+> - She spoke openly about the emotional wounds caused by years of childhood neglect. `[真题]`
+> - The surgeon cleaned and stitched the deep wound on the patient's left arm. `[真题]`
+> - Time may heal physical wounds, but emotional ones often leave scars that last a lifetime. `[真题]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**否决，否决权**==；
-**v.** ①==**否决，禁止**==；
+**n.** ①==**否决，否决权**== `\veto power` [正式]；`\exercise/override a veto` [正式]；
+**v.** ①==**否决，禁止**== `\veto a bill/plan` [正式]；`\the President vetoed the bill` [正式]；
 
 > [!tip] 原型义
 > **原型义**：我禁止（拉丁语 *veto* 直译为"我禁止"）
@@ -133,8 +133,9 @@ veto（拉丁语 *veto*，意为"我禁止"，*vetare* 的第一人称单数形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In theory, a girl may veto the spouse her parents have chosen."（理论上，女孩可以否决父母选择的配偶。——2016年英语一完形填空）
-> - "The President vetoed the economic package passed by Congress."（总统否决了国会通过的一揽子经济计划。——百科例句）
+> - "In theory, a girl may veto the spouse her parents have chosen." `[真题]`
+> - "A two-thirds majority in each house is necessary to override a veto." `[权威语料]`
+> - "The President vetoed the economic package passed by Congress." `[权威语料]`
 
 
 ---

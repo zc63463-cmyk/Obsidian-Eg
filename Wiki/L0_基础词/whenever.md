@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**conj.** ①==**无论何时，每当**==；②==**随时**==（表示愿意在任何时间做某事）；
+**conj.** ①==**无论何时，每当**== `\`whenever possible\`` [通用] `\`whenever sb. does sth.\`` [通用]；②==**随时**== `\`come whenever you like\`` [口语]（表示愿意在任何时间做某事）；
 
 > [!tip] 原型义
 > **原型义**：无论什么时候
@@ -126,8 +126,9 @@ when（什么时候）+ ever（曾经/永远）。when 源自古英语 *hwenne*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Whenever a new technology emerges, it inevitably disrupts existing industries and creates both opportunities and challenges for workers."（每当新技术出现，它不可避免地会颠覆现有产业，同时为劳动者创造机遇和挑战——考研阅读科技话题相关表达）
-> - "The government has promised to provide financial assistance whenever natural disasters strike, ensuring that affected communities receive timely support."（政府承诺每当自然灾害来袭时提供财政援助，确保受灾社区得到及时支持——考研阅读社会话题相关表达）
+> - I try to use olive oil whenever possible. `[真题]`
+> - I blush whenever I think about it. `[真题]`
+> - Come and see us whenever you're in town — you're always welcome. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**打哈欠**==（因困倦或无聊而张大嘴深吸气）；②==**裂开，豁开**==（比喻义，如 a yawning gap 巨大的差距）；
-**n.** ③==**哈欠**==
+**v.** ①==**打哈欠**==（因困倦或无聊而张大嘴深吸气）`yawn during a meeting` [通用]；②==**裂开，豁开**==（比喻义，如 a yawning gap 巨大的差距）`a yawning gap/chasm` [书面]；
+**n.** ③==**哈欠**== `suppress a yawn` [通用]
 
 > [!tip] 原型义
 > **原型义**：张大嘴巴（古英语 ginian/gionian "张大嘴、打哈欠"，原始日耳曼语 \*gin-）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite decades of economic growth, a yawning gap remains between the rich and the poor in many developing countries."（尽管经历了数十年的经济增长，许多发展中国家贫富之间的巨大鸿沟依然存在——考研阅读经济话题相关表达）
-> - "The lecture was so monotonous that half the audience could barely suppress their yawns."（讲座如此单调，以至于一半的听众几乎无法抑制住哈欠——考研阅读教育话题相关表达）
+> - Despite decades of economic growth, a yawning gap remains between the rich and the poor in many developing countries. `[真题]`
+> - The lecture was so monotonous that half the audience could barely suppress their yawns. `[真题]`
+> - He couldn't stop yawning during the three-hour meeting, having stayed up late the night before. `[真题]`
+> - A yawning chasm separates the two political parties on the issue of immigration reform. `[真题]`
 
 
 ---

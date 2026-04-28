@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**素食主义者，食草者**==；
-**adj.** 素食的；
+**n.** ①==**素食主义者，食草者**== `be/become a vegetarian` `a strict vegetarian`；
+**adj.** ②==**素食的**== `a vegetarian diet/restaurant`
 
 > [!tip] 原型义
 > **原型义**：活跃的、有生气的（充满生命力的状态）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A growing number of people are turning to a vegetarian diet for health reasons."（越来越多的人出于健康原因转向素食饮食。——考研阅读健康类）
-> - "She has been a vegetarian since she was a teenager."（她从十几岁起就是素食主义者了。——红宝书考研词汇例句）
+> - "I've been feeling much healthier since I became a vegetarian." `[Cambridge]`
+> - "She's been a vegetarian for ten years now." `[Cambridge]`
+> - "Prisoners may always ask for a vegetarian diet." `[Cambridge]`
+> - "Everyone I know likes the smell of bacon — even Mike does and he's a vegetarian." `[Cambridge]`
 
 
 ---

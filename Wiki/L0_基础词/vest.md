@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**背心，马甲**==；②（英）汗衫，内衣；
-**v.** ①==**授予，赋予**==（权利等）；②（权力、财产）归属；
+**n.** ①==**背心，马甲**== `wear a vest / bullet-proof vest` [中性]；②（英）汗衫，内衣 `thermal vest` [英式]；
+**v.** ①==**授予，赋予**== `power vested in sb / vest sb with sth` [正式/法律]；②（权力、财产）归属 `vested rights / vested interests` [法律]；
 
 > [!tip] 原型义
 > **原型义**：穿在身上（贴身衣物）
@@ -137,8 +137,10 @@ vest（拉丁语 *vestis* 衣服，*vestire* 穿衣）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Political power is now vested in the elected representatives of the people."（政治权力现在归属于人民选举产生的代表。——剑桥词典例句）
-> - "The state requires that there be a life vest for each person in the boat."（州法律要求船上每人配备一件救生衣。——剑桥词典例句）
+> - "Political power is now vested in the elected representatives of the people." `[权威语料]`
+> - "The state requires that there be a life vest for each person in the boat." `[权威语料]`
+> - "Practically everybody involved has a vested interest in making the child drop her claim." `[权威语料]`
+> - "After three years in the pension plan, you become fully vested." `[权威语料]`
 
 
 ---

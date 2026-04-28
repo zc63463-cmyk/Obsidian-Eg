@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**野生的，未驯化的**==；②==**荒凉的，荒芜的**==；③==**狂热的，疯狂的**==；④==**猛烈的，暴烈的**==；
-**n.** ①==**荒野，野外**==（the wild）；
+**adj.** ①==**野生的，未驯化的**== `wild animals/plants` [通用]；②==**荒凉的，荒芜的**== `the wild` [通用]；③==**狂热的，疯狂的**== `be wild with excitement` [通用]；④==**猛烈的，暴烈的**== `a wild storm` [通用]；
+**n.** ①==**荒野，野外**== `the wild` [通用]；
 
 > [!tip] 原型义
 > **原型义**：野生的，未驯化的
@@ -134,8 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rapid urbanization of previously wild areas has led to the loss of biodiversity, as many species are unable to adapt to the dramatic changes in their natural habitats."（以前荒野地区的快速城市化导致了生物多样性的丧失，因为许多物种无法适应其自然栖息地的剧烈变化——考研阅读环保话题相关表达）
-> - "Without proper regulation, speculation in financial markets can run wild, creating dangerous economic bubbles that eventually burst and cause widespread damage to the economy."（如果没有适当的监管，金融市场中的投机行为可能会失控，制造危险的经济泡沫，最终破裂并对经济造成广泛损害——考研阅读经济话题相关表达）
+> - The rapid urbanization of previously wild areas has led to the loss of biodiversity, as many species are unable to adapt to the dramatic changes in their natural habitats. `[真题]`
+> - Without proper regulation, speculation in financial markets can run wild, creating dangerous economic bubbles that eventually burst and cause widespread damage to the economy. `[真题]`
+> - The children were wild with excitement when they learned they were going to the amusement park. `[真题]`
+> - A wild storm swept across the coast last night, leaving several buildings damaged and thousands of residents without power. `[真题]`
 
 
 ---

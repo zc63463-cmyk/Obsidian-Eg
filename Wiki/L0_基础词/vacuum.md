@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**真空**==（完全空无一物的空间）；②==**空白，空虚**==（比喻义，如 power vacuum 权力真空）；
-③==**吸尘器**==（口语用法）；
-**v.** ④==**用吸尘器清扫**==
+**n.** ①==**真空**== `create a vacuum` `in a vacuum`（完全空无一物的空间）；②==**空白，空虚**== `a power/information vacuum`（比喻义，如 power vacuum 权力真空）；
+③==**吸尘器**== `vacuum cleaner` `[口语]`；
+**v.** ④==**用吸尘器清扫**== `vacuum the floor/N`
 
 > [!tip] 原型义
 > **原型义**：完全空的空间（拉丁语 vacuum "空的空间"，中性形容词 vacuus "空的"的名词用法）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The collapse of the Soviet Union created a power vacuum in Eastern Europe that led to prolonged political instability."（苏联的解体在东欧造成了权力真空，导致了长期的政治动荡——考研阅读政治话题相关表达）
-> - "Scientific research cannot be conducted in a vacuum; it must be informed by social needs and ethical considerations."（科学研究不能孤立进行，它必须以社会需求和伦理考量为基础——考研阅读学术话题相关表达）
+> - "His resignation has created a vacuum which cannot easily be filled." `[Collins]`
+> - "Edison knew that he had to create a vacuum inside the lightbulb." `[Cambridge]`
+> - "No marriage exists in a vacuum." `[Cambridge]`
+> - "The collapse of the army left a vacuum in the area." `[Collins]`
 
 
 ---

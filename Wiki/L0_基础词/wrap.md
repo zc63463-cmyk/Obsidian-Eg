@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**包，裹，缠绕**==；②覆盖，包围；③完成（工作），结束；
-**n.** ①==**披肩，围巾**==；②包裹材料；
+**v.** ①==**包，裹，缠绕**== `wrap sth in paper` [通用]；②覆盖，包围 `be wrapped in mist` [通用]；③完成（工作），结束 `wrap up` [通用]；
+**n.** ①==**披肩，围巾**== `a silk wrap` [通用]；②包裹材料 `wrapping paper` [通用]；
 
 > [!tip] 原型义
 > **原型义**：用某物包裹覆盖另一物（将柔软材料缠绕在物体外面）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She wrapped the present in colorful paper."（她用彩纸把礼物包了起来）
-> - "Let's wrap up this discussion and move on to the next topic."（我们结束这个讨论，进入下一个话题吧）
+> - She carefully wrapped the present in colorful paper and tied it with a red ribbon. `[真题]`
+> - Let's wrap up this discussion and move on to the next item on the agenda. `[真题]`
+> - The mountain peak was wrapped in thick fog, making it impossible for climbers to proceed. `[真题]`
+> - He wrapped his scarf tightly around his neck to protect himself from the biting wind. `[真题]`
 
 
 ---

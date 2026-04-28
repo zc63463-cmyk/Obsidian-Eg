@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**腰，腰部**==（人体肋骨和骨盆之间的部分）；②==**（衣服的）腰部**==
+**n.** ①==**腰，腰部**== `\waist size/measurement` [通用]（人体肋骨和骨盆之间的部分）；②==**（衣服的）腰部**== `\cinch at the waist` [文学]
 
 > [!tip] 原型义
 > **原型义**：身体的收窄处（古英语 *wæst* "身材、体格"，可能与 *wæstm* "生长、产物"有关，指身体中间的细处）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Research has shown that excess fat around the waist is a significant risk factor for cardiovascular disease and type 2 diabetes."（研究表明，腰部多余脂肪是心血管疾病和2型糖尿病的重要危险因素——考研阅读健康话题相关表达）
-> - "She wore a dress that cinched tightly at the waist, accentuating her slender figure."（她穿了一件腰部收紧的连衣裙，凸显了她苗条的身材——考研阅读文学描写相关表达）
+> - "Research has shown that excess fat around the waist is a significant risk factor for cardiovascular disease and type 2 diabetes." `[权威语料]`
+> - "She wore a dress that cinched tightly at the waist, accentuating her slender figure." `[权威语料]`
+> - "Higher waist measurements identified higher risk even when body mass index appeared normal." `[权威语料]`
+> - "She put her arms around my waist." `[权威语料]`
 
 
 ---

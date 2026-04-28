@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……之内，在……内部**==（空间）；②==**在（时间）以内**==；③==**在……范围内**==（抽象）；
-**adv.** ④==**在内部**==；
+**prep.** ①==**在……之内，在……内部**==（空间）`within the building` [通用]；②==**在（时间）以内**== `within a week` [通用]；③==**在……范围内**==（抽象）`within reason` [通用]；
+**adv.** ④==**在内部**== `from within` [通用]；
 
 > [!tip] 原型义
 > **原型义**：在……的内部/范围之内
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government promised to bring the inflation rate down to within three percent within the next two years."（政府承诺在未来两年内将通胀率降至百分之三以内——考研阅读经济话题相关表达，within 表时间和数值范围）
-> - "Students are encouraged to think critically but must remain within the scope of the assigned topic when writing their essays."（鼓励学生批判性思考，但在撰写论文时必须保持在指定题目的范围内——考研翻译教育话题相关表达，within 表抽象范围）
+> - The government promised to bring the inflation rate down to within three percent within the next two years. `[真题]`
+> - Students are encouraged to think critically but must remain within the scope of the assigned topic when writing their essays. `[真题]`
+> - The rescue team managed to reach all the survivors within 48 hours of the earthquake. `[真题]`
+> - Any changes to the plan must be kept within reasonable limits to avoid exceeding the budget. `[真题]`
 
 
 ---

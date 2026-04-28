@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**明智的，有智慧的**==；②==**精明的，狡猾的**==；
-**v.** ③==**知道，意识到**==（古/文学用法，主要用于 wise up）；
-**-wise 后缀** ④==**表示方向/方式/方面**==（如 clockwise, otherwise）；
+**adj.** ①==**明智的，有智慧的**== `a wise decision` [通用]；②==**精明的，狡猾的**== `a wise businessman` [通用]；
+**v.** ③==**知道，意识到**==（古/文学用法，主要用于 wise up）`wise up` [口语]；
+**-wise 后缀** ④==**表示方向/方式/方面**==（如 clockwise, otherwise）`-wise` [通用]；
 
 > [!tip] 原型义
 > **原型义**：看见→知道→有智慧的
@@ -137,8 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is wise to take precautions before making any significant investment decisions."（在做任何重大投资决策之前采取预防措施是明智的——考研阅读经济话题相关表达）
-> - "Speaking with your children before you make a real estate decision is wise, but I wouldn't base the purchasing decision solely on their opinions."（在做买房决定之前和孩子谈谈是明智的，但我不会仅仅根据他们的意见来做购买决定——考研阅读社会话题相关表达）
+> - It is wise to take precautions before making any significant investment decisions. `[真题]`
+> - She never wised up to the fact that her colleagues had been making fun of her behind her back. `[真题]`
+> - Many have benefited from her wise counsel over the years, and her advice is still sought after today. `[真题]`
+> - Career-wise, this new position offers far more opportunities for advancement than her previous role. `[真题]`
 
 
 ---

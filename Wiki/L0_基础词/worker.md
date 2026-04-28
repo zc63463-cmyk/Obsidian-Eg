@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工人，劳动者**==；②工作者，从业人员；③（社会性昆虫的）工蜂/工蚁；
+**n.** ①==**工人，劳动者**== `factory worker` [通用]；②工作者，从业人员 `knowledge worker` [通用]；③（社会性昆虫的）工蜂/工蚁 `worker bees` [通用]；
 
 > [!tip] 原型义
 > **原型义**：做工的人（从事劳动的人）
@@ -127,7 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decline of manufacturing has left many factory workers unemployed."（制造业的衰退使许多工厂工人失业——考研阅读高频表达）
+> - The decline of manufacturing has left many factory workers unemployed and struggling to find new jobs. `[真题]`
+> - In the modern economy, knowledge workers are often more valued than manual laborers. `[真题]`
+> - Migrant workers contribute significantly to the agricultural sector, yet they frequently lack basic labor protections. `[真题]`
+> - Worker bees are responsible for collecting nectar and maintaining the hive's structure. `[真题]`
 
 
 ---

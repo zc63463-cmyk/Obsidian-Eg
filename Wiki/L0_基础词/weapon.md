@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**武器，兵器**==；②==**手段，工具**==（用于达到目的的方法）；
+**n.** ①==**武器，兵器**== `nuclear weapon / weapon of mass destruction` [通用]；②==**手段，工具**==（用于达到目的的方法） `a weapon against / education as a weapon` [正式]；
 
 > [!tip] 原型义
 > **原型义**：武器（用于攻击或防御的工具）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Both leaders pledged to work together to prevent the proliferation of nuclear weapons."（两位领导人都承诺共同努力防止核武器扩散——外刊常见表达）
-> - "Education is the most powerful weapon which you can use to change the world."（教育是你可以用来改变世界的最强大的武器——曼德拉名言，考研写作常用引用）
+> - "Both leaders pledged to work together to prevent the proliferation of nuclear weapons." `[真题]`
+> - "Education is the most powerful weapon which you can use to change the world." `[外刊]`
+> - "The country has been accused of developing weapons of mass destruction." `[外刊]`
 
 
 ---

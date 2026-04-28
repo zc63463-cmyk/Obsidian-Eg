@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**醒来，唤醒**==（从睡眠中醒来）；②==**唤醒，激起**==（比喻义，如 wake interest 唤起兴趣）；
-③==**意识到，认识到**==（wake up to sth.）；
-**n.** ④==**（船只的）尾流，航迹**==；⑤==**守灵**==（葬礼前的守夜）
+**v.** ①==**醒来，唤醒**== `\wake (up)` [通用]；`\wake sb. up` [通用]；②==**唤醒，激起**== `\wake memories/interest` [正式]；
+③==**意识到，认识到**== `\wake up to sth.` [正式]；
+**n.** ④==**（船只的）尾流，航迹**== `\in the wake of` [正式]；⑤==**守灵**== `\hold a wake` [文学]；
 
 > [!tip] 原型义
 > **原型义**：从睡眠中出来（古英语 wacan "醒来、起床" + wacian "保持清醒"，融合为 wake）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the wake of the financial crisis, many governments implemented sweeping regulatory reforms to prevent future economic meltdowns."（在金融危机之后，许多政府实施了全面的监管改革，以防止未来的经济崩溃——考研阅读经济话题相关表达）
-> - "It took years for the public to wake up to the serious environmental consequences of industrial pollution."（公众花了多年时间才意识到工业污染对环境的严重后果——考研阅读环保话题相关表达）
+> - "Several governments have adopted tough new anti-terrorist legislation in the wake of the attacks." `[真题]`
+> - "It took years for the public to wake up to the serious environmental consequences of industrial pollution." `[真题]`
+> - "The governor has enjoyed a huge surge in the polls in the wake of last week's convention." `[权威语料]`
+> - "So far, many investors have not woken up to the opportunities presented by the new grouping." `[权威语料]`
 
 
 ---

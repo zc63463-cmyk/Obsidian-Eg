@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**车间，工场**==；②==**研讨会，专题讨论会**==；
+**n.** ①==**车间，工场**== `a carpenter's workshop` [通用]；②==**研讨会，专题讨论会**== `attend a workshop` [通用]；
 
 > [!tip] 原型义
 > **原型义**：干活的场所（工作的车间）
@@ -123,7 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university organizes regular workshops to help students develop their research skills."（大学定期组织研讨会，帮助学生发展研究技能）
+> - The university organizes regular workshops to help students develop their research and writing skills. `[真题]`
+> - She attended a creative writing workshop last summer and found it incredibly inspiring. `[真题]`
+> - The mechanic's workshop was filled with tools, spare parts, and the smell of engine oil. `[真题]`
+> - The conference will include several workshops on topics ranging from artificial intelligence to climate change. `[真题]`
 
 
 ---

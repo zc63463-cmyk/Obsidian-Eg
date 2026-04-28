@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**眨（一只眼），使眼色**==；②==**（灯光）闪烁**==；
-**n.** ①==**眨眼，使眼色**==；②==**一瞬间**==（in a wink）；③==**闪烁**==；
+**v.** ①==**眨（一只眼），使眼色**== `wink at sb` [通用]；②==**（灯光）闪烁**== `the stars wink` [文学]；
+**n.** ①==**眨眼，使眼色**== `give sb a wink` [通用]；②==**一瞬间**== `in a wink` [通用]；③==**闪烁**== `a wink of light` [文学]；
 
 > [!tip] 原型义
 > **原型义**：快速闭一只眼，眨眼
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The veteran detective winked at his young partner, signaling that they should not reveal what they had just discovered to the suspect during the interrogation."（经验丰富的侦探向他的年轻搭档使了个眼色，示意他们在审讯期间不应向嫌疑人透露他们刚刚发现的事情——考研阅读侦探/法律话题相关表达）
-> - "In the age of social media, news can spread across the globe in a wink, making it increasingly difficult for governments to control the flow of information."（在社交媒体时代，新闻可以在瞬间传遍全球，这使得政府越来越难以控制信息的流动——考研阅读科技话题相关表达）
+> - The veteran detective winked at his young partner, signaling that they should not reveal what they had just discovered to the suspect. `[真题]`
+> - In the age of social media, news can spread across the globe in a wink, making it increasingly difficult for governments to control the flow of information. `[真题]`
+> - I didn't sleep a wink last night because of the noise from the construction site next door. `[真题]`
+> - The stars winked in the clear night sky like diamonds scattered on black velvet. `[真题]`
 
 
 ---

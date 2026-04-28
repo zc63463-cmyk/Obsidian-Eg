@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**疫苗**==（用于预防疾病的生物制剂）；
-**adj.** ②==**疫苗的，牛痘的**==
+**n.** ①==**疫苗**== `develop a vaccine` `receive a vaccine`（用于预防疾病的生物制剂）；
+**adj.** ②==**疫苗的，牛痘的**== `[医学]`
 
 > [!tip] 原型义
 > **原型义**：来自牛的东西（拉丁语 vacca "牛" → vaccinus "牛的" → 从牛痘中提取的疫苗）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rapid development of COVID-19 vaccines was hailed as one of the greatest scientific achievements of the 21st century."（新冠疫苗的快速研发被誉为21世纪最伟大的科学成就之一——考研阅读科技话题相关表达）
-> - "Global health organizations have launched campaigns to ensure equitable distribution of vaccines in developing countries."（全球卫生组织发起了运动，确保在发展中国家公平分配疫苗——考研阅读公共卫生话题相关表达）
+> - "This vaccine protects against some kinds of the bacteria." `[Cambridge]`
+> - "All persons without spleen should be given pneumococcal vaccine." `[COCA-ACAD]`
+> - "Beyond any doubt, the current vaccine is safe and efficient when administered at the proposed regimen." `[Cambridge]`
+> - "The number of people receiving flu vaccine since 2000 are shown in the table." `[COCA-ACAD]`
 
 
 ---

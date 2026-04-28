@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**conj.** ①==**然而，但是**==（表示对比）；②==**鉴于，考虑到**==（法律/正式文体，表示原因）；
+**conj.** ①==**然而，但是**== `\`A, whereas B\`` [正式] `\`whereas most people...\`` [正式]（表示对比）；②==**鉴于，考虑到**== `\`Whereas the parties...\`` [法律]（法律/正式文体，表示原因）；
 
 > [!tip] 原型义
 > **原型义**：在哪个地方/情况下（然而，鉴于）
@@ -124,8 +124,9 @@ where（哪里/在……的地方）+ as（如同/既然）。where 源自古英
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Whereas traditional education emphasizes rote memorization, modern pedagogical approaches focus on developing critical thinking and problem-solving skills."（传统教育强调死记硬背，而现代教学方法注重培养批判性思维和解决问题的能力——考研阅读教育话题相关表达）
-> - "Whereas the first study found no significant correlation between the two variables, the second study, conducted with a larger sample, revealed a strong positive relationship."（第一项研究未发现两个变量之间存在显著相关性，而第二项以更大样本进行的研究则揭示了强烈的正相关关系——考研阅读学术话题相关表达）
+> - She actually enjoys confrontation, whereas I prefer a quiet life. `[真题]`
+> - He works slowly and precisely whereas I tend to rush things and make mistakes. `[真题]`
+> - Pensions are linked to inflation, whereas they should be linked to the cost of living. `[真题]`
 
 
 ---

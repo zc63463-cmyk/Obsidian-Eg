@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**pron.** ①==**无论什么，不管什么**==；②==**任何……的事物**==；
-**adj.** ①==**任何的，所有的**==（用于强调）；
-**int.** ①==**随便，无所谓**==（口语，表示不耐烦或不在乎）；
+**pron.** ①==**无论什么，不管什么**== `whatever happens/say` [中性]；②==**任何……的事物**== `take whatever you need` [中性]；
+**adj.** ①==**任何的，所有的**== `whatever reason/help` [中性]（用于强调）；
+**int.** ①==**随便，无所谓**== `Whatever!` [口语/非正式]（口语，表示不耐烦或不在乎）；
 
 > [!tip] 原型义
 > **原型义**：无论什么事物
@@ -134,8 +134,9 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Whatever the reason, the decline in reading habits among young people has become a matter of great concern for educators and parents alike."（无论原因是什么，年轻人阅读习惯的下降已经成为教育工作者和父母共同关注的问题——考研阅读教育话题相关表达）
-> - "The government should take whatever measures are necessary to protect the environment, even if they come at a short-term economic cost."（政府应该采取一切必要措施保护环境，即使这些措施会带来短期经济代价——考研阅读环保话题相关表达）
+> - Whatever the reason, the decline in reading habits among young people has become a matter of great concern. `[真题]`
+> - The government should take whatever measures are necessary to protect the environment. `[真题]`
+> - I want you to do whatever you think is right. `[真题]`
 
 
 ---

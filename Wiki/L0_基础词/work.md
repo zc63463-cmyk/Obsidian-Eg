@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工作，劳动**==；②==**著作，作品**==；③==**工厂**==（works）；④功效，作用；
-**v.** ①==**工作，劳动**==；②==**运转，起作用**==；③==**使产生效果**==；④（逐步）解决；
+**n.** ①==**工作，劳动**== `go to work` [通用]；②==**著作，作品**== `works of art/literature` [通用]；③==**工厂**==（works）`a steel works` [通用]；④功效，作用 `the work of` [通用]；
+**v.** ①==**工作，劳动**== `work hard` [通用]；②==**运转，起作用**== `the machine works` [通用]；③==**使产生效果**== `work a miracle` [通用]；④（逐步）解决 `work out` [通用]；
 
 > [!tip] 原型义
 > **原型义**：做工，劳动（付出体力或脑力产生成果）
@@ -139,7 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scientific method is at work in every field of inquiry."（科学方法在每一个研究领域都在发挥作用——考研阅读高频表达）
+> - The scientific method is at work in every field of inquiry, from physics to sociology. `[真题]`
+> - She has spent years studying the works of Shakespeare and their influence on modern literature. `[真题]`
+> - The new policy doesn't seem to be working as effectively as the government had hoped. `[真题]`
+> - The steel works on the outskirts of town used to employ over a thousand people. `[真题]`
 
 
 ---

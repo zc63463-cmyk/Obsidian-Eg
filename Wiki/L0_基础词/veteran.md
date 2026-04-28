@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**老兵，退伍军人**==；②==**老手，经验丰富的人**==；
-**adj.** ①经验丰富的，老练的；
+**n.** ①==**老兵，退伍军人**== `\a war veteran` [正式]；`\a Vietnam/Afghanistan veteran` [正式]；②==**老手，经验丰富的人**== `\a veteran of the industry` [通用]；`\a veteran teacher/journalist` [通用]；
+**adj.** ①==**经验丰富的，老练的**== `\a veteran politician` [正式]；
 
 > [!tip] 原型义
 > **原型义**：老的（经历岁月的人）
@@ -137,8 +137,10 @@ vet-(=vetus, 老的，拉丁语 *vetus*) + -er(比较级) + -an(名词/形容词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is a veteran parliamentarian whose views enjoy widespread respect."（他是一位资深议员，其观点受到广泛尊重。——有道词典例句）
-> - "Women appear to be way ahead in at least one undesirable category... according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital."（女性至少在一个不理想的类别中似乎远远领先……据纽约退伍军人管理局医院的首席精神科医生耶胡达博士说。——2008年英语一Text 1）
+> - "He is a veteran parliamentarian whose views enjoy widespread respect." `[真题]`
+> - "Women appear to be way ahead in at least one undesirable category... according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital." `[真题]`
+> - "In addition to having served in World War II, he was a veteran of the Korean War." `[权威语料]`
+> - "She is a veteran teacher who has dedicated thirty years to the classroom." `[权威语料]`
 
 
 ---

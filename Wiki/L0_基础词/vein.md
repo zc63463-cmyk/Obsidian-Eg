@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**静脉**==；②==**风格，基调**==；③矿脉，纹路；④情绪，心情；
+**n.** ①==**静脉**== `a vein in the arm / deep vein thrombosis` [医学]；②==**风格，基调**== `in a reflective vein / in a humorous vein` [正式]；③矿脉，纹路 `a vein of gold / marble veins` [中性]；④情绪，心情 `a vein of anger` [文学]；
 **v.** ①使成脉络，像脉络般分布；
 
 > [!tip] 原型义
@@ -131,8 +131,10 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The essay begins with a personal anecdote and continues in a reflective vein, examining how childhood experiences shape adult perspectives."（文章以个人轶事开头，接着以反思的基调展开，探讨童年经历如何塑造成年人的视角。——考研高频表达）
-> - "The marble has beautiful veins running through it."（这块大理石上有美丽的纹路贯穿其中。——柯林斯语料库）
+> - "The essay begins with a personal anecdote and continues in a reflective vein, examining how childhood experiences shape adult perspectives." `[真题]`
+> - "The marble has beautiful veins running through it." `[权威语料]`
+> - "He continued in the same vein as last season but the players were different." `[权威语料]`
+> - "She spoke to him in a sarcastic vein that left no room for misunderstanding." `[权威语料]`
 
 
 ---

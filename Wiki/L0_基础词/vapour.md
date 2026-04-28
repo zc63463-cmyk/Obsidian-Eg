@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**蒸汽，水汽**==；②烟雾；③（引申）空想，虚幻的事物；
-**v.** 蒸发，汽化；
+**n.** ①==**蒸汽，水汽**== `water vapour` `vapour pressure`；②烟雾 `poisonous vapours`；③（引申）空想，虚幻的事物；
+**v.** ④==**蒸发，汽化**== `the liquid vapoured away` `[文学]`
 
 > [!tip] 原型义
 > **原型义**：蒸汽（水受热变成的气态物质）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Water vapour is a natural greenhouse gas in the atmosphere."（水蒸气是大气中的一种天然温室气体。——考研阅读科普类）
-> - "The aircraft left a white vapour trail across the sky."（飞机在天空中留下了一道白色凝结尾迹。——红宝书考研词汇例句）
+> - "The hollow glass tank contains hot mercury vapour." `[Cambridge]`
+> - "Poisonous vapours burst out of the factory during the accident." `[Cambridge]`
+> - "Warm air is able to hold more water vapour than cold air." `[Cambridge]`
+> - "During the evening, the water vapour condensed on the internal components of the wall panel when the ambient air temperature dropped." `[Cambridge]`
 
 
 ---

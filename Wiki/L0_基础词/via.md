@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**经由，通过（某地）**==；②==**通过，借助于（某种方式或手段）**==；
+**prep.** ①==**经由，通过（某地）**== `\go/travel via` [通用]；`\fly via London` [通用]；②==**通过，借助于（某种方式或手段）**== `\via email/phone` [通用]；`\via the Internet` [通用]；
 
 > [!tip] 原型义
 > **原型义**：道路（经过某条路到达目的地）
@@ -131,8 +131,10 @@ via 本身就是拉丁语词根，意为"道路、路径"（拉丁语 *via*）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I'll let her know via one of our friends."（我会通过我们的一个朋友告诉她——Merriam-Webster）
-> - "Light is channeled along the length of each cantilever via a waveguide, and exits at its tip."（光通过波导沿每个悬臂的长度方向传输，并从其尖端射出——Merriam-Webster）
+> - "I'll let her know via one of our friends." `[权威语料]`
+> - "Light is channeled along the length of each cantilever via a waveguide, and exits at its tip." `[权威语料]`
+> - "She returned home via Britain and France." `[权威语料]`
+> - "Technology allows relief workers to contact the outside world via satellite." `[权威语料]`
 
 
 ---

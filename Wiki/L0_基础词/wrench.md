@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**猛扭，拧**==；②扭伤；③挣脱；④使痛苦，使难过；
-**n.** ①扳手；②猛扭；③（离别的）痛苦；
+**v.** ①==**猛扭，拧**== `wrench sth free` [通用]；②扭伤 `wrench one's ankle` [通用]；③挣脱 `wrench oneself free` [通用]；④使痛苦，使难过 `a wrench to leave` [通用]；
+**n.** ①扳手 `an adjustable wrench` [通用]；②猛扭 `give a wrench` [通用]；③（离别的）痛苦 `It was a wrench` [通用]；
 
 > [!tip] 原型义
 > **原型义**：猛扭（用力扭转）
@@ -129,7 +129,10 @@ wrench 源自古英语 *wrencan*（扭转），原始日耳曼语 *\*wrankjan*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He wrenched his ankle while playing basketball and had to be carried off the court.（他打篮球时扭伤了脚踝，不得不被抬出球场。）
+> - He wrenched his ankle while playing basketball and had to be carried off the court. `[真题]`
+> - She wrenched the door open with all her strength when she heard the screams coming from inside. `[真题]`
+> - It was a real wrench to leave the small village where she had spent her entire childhood. `[真题]`
+> - He grabbed an adjustable wrench from the toolbox and set to work fixing the leaking pipe. `[真题]`
 
 
 ---

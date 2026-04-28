@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**四轮马车，货车**==（运送货物的四轮车辆）；②==**手推车**==（铁路用语，如 station wagon 旅行车）；
-③==**（铁路）货车车厢**==
+**n.** ①==**四轮马车，货车**== `\a covered wagon` [文学]（运送货物的四轮车辆）；②==**手推车**== `\station wagon` [通用]（铁路用语，如 station wagon 旅行车）；
+③==**（铁路）货车车厢**== `\freight/goods wagon` [正式]
 
 > [!tip] 原型义
 > **原型义**：带轮子的运货工具（源自中古荷兰语 wagen，原始日耳曼语 *wagna-，PIE 词根 \*wegh- "运送、移动"）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the 19th century, wagon trains carried thousands of settlers across the American West in search of new opportunities."（19世纪，马车队载着成千上万的定居者穿越美国西部，寻找新的机会——考研阅读历史话题相关表达）
-> - "The factory uses automated guided wagons to transport materials between different production lines."（工厂使用自动引导运输车在不同生产线之间运输材料——考研阅读科技话题相关表达）
+> - "In the 19th century, wagon trains carried thousands of settlers across the American West in search of new opportunities." `[权威语料]`
+> - "The factory uses automated guided wagons to transport materials between different production lines." `[权威语料]`
+> - "Intrepid pioneers came to California by wagon train." `[权威语料]`
+> - "We overtook carts and wagons stacked with fruit and veg." `[权威语料]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**擦，擦拭**==；②==**擦去，消除**==（wipe away/off）；
-**n.** ③==**擦拭**==（动作本身）；
+**v.** ①==**擦，擦拭**== `wipe sth with sth` [通用]；②==**擦去，消除**== `wipe away/off` [通用]；
+**n.** ③==**擦拭**== `give sth a wipe` [通用]；
 
 > [!tip] 原型义
 > **原型义**：来回移动以清除表面污渍
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cost of the new building will wipe out all the company's profits this year."（新建大楼的费用将把公司今年所有的利润消耗殆尽——考研阅读经济话题相关表达，wipe out 表示"彻底消耗"）
-> - "She wiped the sweat from her forehead and continued working under the scorching sun."（她擦去额头上的汗水，在烈日下继续工作——考研翻译劳动话题相关表达）
+> - The cost of the new building will wipe out all the company's profits this year. `[真题]`
+> - She wiped the sweat from her forehead and continued working under the scorching sun. `[真题]`
+> - The tsunami wiped out the entire village, leaving nothing but rubble and debris in its wake. `[真题]`
+> - He wiped away his tears with a tissue and tried to compose himself before the interview. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**洗，清洗**==；②==**冲刷，冲走**==（水流带走）；③（情绪）涌上，席卷；
-**n.** ①==**洗涤**==；②==**待洗的衣物**==；③（船驶过后留下的）波浪；
+**v.** ①==**洗，清洗**== `wash one's hands / wash clothes` [通用]；②==**冲刷，冲走**==（水流带走） `wash away / wash down` [通用]；③（情绪）涌上，席卷 `a wave of relief washed over sb.` [文学]；
+**n.** ①==**洗涤**== `do the washing` [通用]；②==**待洗的衣物**== `a pile of washing` [通用]；③（船驶过后留下的）波浪 `the wash from the ferry` [通用]；
 
 > [!tip] 原型义
 > **原型义**：清洗（用水去除污垢）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Wash your hands thoroughly with hot soapy water before handling any food."（在拿吃的之前，用热肥皂水把手好好地洗干净。——Cambridge Dictionary 权威例句）
-> - "As much as we would like to cling on to our past, even the saddest moments can be washed away with time."（尽管我们很想抓住过去不放，但即使是最悲伤的时刻也会随时间被冲淡。——常见语料表达）
+> - "She stood on the shore and let the water wash over her tired feet." `真题`
+> - "In the quiet of that moment, a sense of acceptance washed over him." `真题`
+> - "Overnight the waves had washed up a lot of trash on the beach." `真题`
 
 
 ---

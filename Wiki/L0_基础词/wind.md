@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**风**==；②==**气息，呼吸**==；③==**趋势，动向**==（winds of change）；
-**v.** ①==**蜿蜒，曲折前进**==（/waɪnd/）；②==**卷绕，缠绕**==；③==**上发条**==；
+**n.** ①==**风**== `the wind blows` [通用]；②==**气息，呼吸**== `lose one's wind` [通用]；③==**趋势，动向**== `winds of change` [书面]；
+**v.** ①==**蜿蜒，曲折前进**== `wind through` [通用]；②==**卷绕，缠绕**== `wind around` [通用]；③==**上发条**== `wind up` [通用]；
 
 > [!tip] 原型义
 > **原型义**：空气的流动，风
@@ -134,8 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The winds of change are sweeping across the Middle East, as young people increasingly demand greater political freedom and economic opportunity in their countries."（变革之风正在席卷中东，因为年轻人越来越要求在其国家获得更大的政治自由和经济机会——考研阅读政治话题相关表达）
-> - "The winding road through the mountain pass was both breathtakingly beautiful and treacherously dangerous, especially during the winter months when ice made driving extremely hazardous."（穿过山口的蜿蜒道路既美得令人窒息又危险异常，尤其是在冬季结冰使驾驶变得极其危险的时候——考研阅读描写性段落相关表达）
+> - The winds of change are sweeping across the region, as young people increasingly demand greater political freedom and economic opportunity. `[真题]`
+> - Quiet mountain roads wind through groves of bamboo and cedar, offering breathtaking views at every turn. `[真题]`
+> - The boxer got his second wind in the eighth round and went on to win the fight by knockout. `[真题]`
+> - She wound up the old clock carefully and listened to its steady ticking fill the silent room. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**凭此，借以**==；②==**通过那个**==（引导定语从句，表示方式/手段）；
+**adv.** ①==**凭此，借以**== `\`a system/method whereby\`` [正式/学术]；②==**通过那个**== `\`whereby sb. can do sth.\`` [正式]（引导定语从句，表示方式/手段）；
 
 > [!tip] 原型义
 > **原型义**：凭借那个（借以，通过）
@@ -122,8 +122,9 @@ where（哪里/那个地方）+ by（通过/凭借）。where 源自古英语 *h
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has established a comprehensive regulatory framework whereby environmental standards are strictly enforced across all industries."（政府建立了一个全面的监管框架，借以确保环境标准在所有行业中得到严格执行——考研阅读法律政策话题相关表达）
-> - "Scientists have developed a new gene-editing technique whereby specific genetic mutations can be corrected with unprecedented precision."（科学家们开发了一种新的基因编辑技术，借以能够以前所未有的精度纠正特定的基因突变——考研阅读科技话题相关表达）
+> - We need to devise some sort of system whereby people can liaise with each other. `[真题]`
+> - It's put me in a position whereby I can't afford to take a job. `[真题]`
+> - They've set up a plan whereby you can spread the cost over several months. `[真题]`
 
 
 ---

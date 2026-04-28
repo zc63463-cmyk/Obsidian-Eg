@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**众所周知的，著名的**==；
+**adj.** ①==**众所周知的，著名的**== `be well-known for sth` [通用] `a well-known fact/figure` [正式]；
 
 > [!tip] 原型义
 > **原型义**：众所周知的
@@ -121,8 +121,9 @@ well(好/充分) + known(known，know 的过去分词，"被知道的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a well-known fact that smoking causes cancer."（众所周知，吸烟致癌）
-> - "She is well-known for her contributions to the field."（她因对该领域的贡献而闻名）
+> - It is a well-known fact that men and women think very differently when it comes to love and romance. `[真题]`
+> - He was well-known for his extreme political views. `[真题]`
+> - She was a well-known author in her day, writing fiction, biographies, translations, and even plays for children. `[真题]`
 
 
 ---

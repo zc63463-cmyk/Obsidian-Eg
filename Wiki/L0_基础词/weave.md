@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**编织，编成**==；②==**迂回行进，穿梭**==（weave through）；③==**编造（故事等）**==；④将……融入（weave into）；
+**v.** ①==**编织，编成**== `weave a blanket / weave a basket` [通用]；②==**迂回行进，穿梭**==（weave through） `weave through traffic` [通用]；③==**编造（故事等）**== `weave a tale / weave a story` [正式]；④将……融入（weave into） `weave sth into a narrative` [正式]；
 **n.** ①编织法；编织式样；
 
 > [!tip] 原型义
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Good authors know how to weave suspense and drama into their stories."（好的作家知道如何将悬念和戏剧性融入到他们的故事中——柯林斯词典例句）
-> - "The baskets are woven from strips of willow."（这些篮子是用柳条编织的——剑桥词典例句）
+> - "Good authors know how to weave suspense and drama into their stories." `[外刊]`
+> - "The baskets are woven from strips of willow." `[外刊]`
+> - "The cyclist had to weave through the heavy traffic to reach the office on time." `[外刊]`
 
 
 ---

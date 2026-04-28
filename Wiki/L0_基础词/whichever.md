@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**pron.** ①==**无论哪个，无论哪些**==（引导从句，表示在有限选择中的无条件）；
-**adj.** ①==**无论哪个的**==（修饰名词）；
+**pron.** ①==**无论哪个，无论哪些**== `\`whichever you choose/prefer\`` [通用] `\`whichever comes first\`` [通用]（引导从句，表示在有限选择中的无条件）；
+**adj.** ①==**无论哪个的**== `\`whichever way/method\`` [通用]（修饰名词）；
 
 > [!tip] 原型义
 > **原型义**：无论哪个
@@ -126,8 +126,9 @@ which（哪个）+ ever（曾经/永远）。which 源自古英语 *hwilc*（哪
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Whichever economic model a country adopts, it must be tailored to its unique historical, cultural, and social conditions rather than simply copied from elsewhere."（无论一个国家采用哪种经济模式，都必须根据其独特的历史、文化和社会条件进行调整，而不是简单地照搬其他地方的模式——考研阅读经济话题相关表达）
-> - "Researchers found that whichever teaching method was employed, student engagement was the single most important factor in determining learning outcomes."（研究人员发现，无论采用哪种教学方法，学生的参与度都是决定学习成果的最重要的单一因素——考研阅读教育话题相关表达）
+> - You may leave at 4:00 or when you've finished the job, whichever comes first. `[真题]`
+> - It's going to be expensive whichever way you do it. `[真题]`
+> - Whichever option we choose there'll be disadvantages. `[真题]`
 
 
 ---

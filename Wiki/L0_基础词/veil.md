@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**面纱，面罩**==；②==**遮掩物，掩饰**==；③（喻）薄雾，帷幕；
-**v.** ①==**遮掩，掩盖**==；②戴面纱；
+**n.** ①==**面纱，面罩**== `wear/lift a veil / bridal veil` [中性]；②==**遮掩物，掩饰**== `a veil of secrecy / behind a veil` [正式]；③（喻）薄雾，帷幕 `a veil of mist / a veil of clouds` [文学]；
+**v.** ①==**遮掩，掩盖**== `be veiled in / a veiled threat` [正式]；②戴面纱；
 
 > [!tip] 原型义
 > **原型义**：面纱（遮盖面部的薄织物）
@@ -135,9 +135,10 @@ veil（源自拉丁语 *velum*，"遮盖物，帆"，与 [[velvet]]/[[vertical]]
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He recognized the coast of England through a veil of mist."（透过薄雾他认出了那是英格兰的海岸线。——柯林斯语料库）
-> - "The government has decided to lift the veil on its plans."（政府决定揭开其计划的神秘面纱。——牛津词典）
-> - "I think we should draw a veil over what happened last night."（我以为我们最好避而不谈昨晚发生的事。——柯林斯语料库）
+> - "He recognized the coast of England through a veil of mist." `[权威语料]`
+> - "The government has decided to lift the veil on its plans." `[权威语料]`
+> - "I think we should draw a veil over what happened last night." `[权威语料]`
+> - "We want to lift the veil of secrecy that surrounds government decisions." `[权威语料]`
 
 
 ---

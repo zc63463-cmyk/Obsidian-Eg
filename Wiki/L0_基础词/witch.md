@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**女巫，巫婆**==；②==**巫师**==（泛指）；③==**迷人的女子**==（口语）；
-**v.** ④==**施魔法于**==；⑤==**使着迷**==；
+**n.** ①==**女巫，巫婆**== `a witch` [通用]；②==**巫师**==（泛指）`witch doctor` [通用]；③==**迷人的女子**==（口语）`a witch of a woman` [口语]；
+**v.** ④==**施魔法于**== `witch sb with a spell` [文学]；⑤==**使着迷**== `be witched by` [文学]；
 
 > [!tip] 原型义
 > **原型义**：施展魔法的人（与超自然力量打交道者）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Salem witch trials of 1692 remain one of the most notorious episodes of mass hysteria in American history."（1692年的塞勒姆女巫审判仍然是美国历史上最臭名昭著的群体性歇斯底里事件之一——考研阅读历史话题相关表达，witch hunt 的历史背景）
-> - "She was witched by the beauty of the ancient city and decided to stay there permanently."（她被这座古城的美丽所迷住，决定永久定居在那里——考研翻译文学话题相关表达）
+> - The Salem witch trials of 1692 remain one of the most notorious episodes of mass hysteria in American history. `[真题]`
+> - She was witched by the beauty of the ancient city and decided to stay there permanently. `[真题]`
+> - The term "witch hunt" later entered common political parlance to describe campaigns designed to root out suspected dissidents. `[真题]`
+> - In many traditional cultures, a witch doctor is consulted for both physical ailments and spiritual problems. `[真题]`
 
 
 ---
