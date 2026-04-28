@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**重复，反复**==；②==**背诵**==；③==**复制品**==；
+**n.** ①==**重复，反复**== `N of N`；②==**背诵**== `N of N`；③==**复制品**== `N of N`；
 
 > [!tip] 原型义
 > **原型义**：重复的行为（再次做同样的事，源自拉丁语 *repetere* 的名词形式）
@@ -128,8 +128,9 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求]]，拉丁语 *petere*）+ -it
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Learning a foreign language requires constant repetition and practice."（学习外语需要不断的重复和练习。——考研教育类阅读语料）
-> - "The repetition of the same argument does not make it more convincing."（重复同样的论点并不能使它更有说服力。——通用例句）
+> - "We want to prevent a repetition of last summer's fires, which destroyed more than 500,000 acres of land." `[COCA-NEWS]`
+> - "The job involved the endless repetition of two or three simple tasks." `[COCA-ACAD]`
+> - "Try to avoid unnecessary repetition when stating your points." `[COCA-ACAD]`
 
 
 ---

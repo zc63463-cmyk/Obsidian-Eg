@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**圆形的，球形的**==；②整数的；
-**n.** ①==**回合，轮次**==；②圆，圆形物；③（比赛的）轮；
-**prep.** ①围绕，环绕；
+**adj.** ①==**圆形的，球形的**== `a round table / a round face` [通用]；②整数的；
+**n.** ①==**回合，轮次**== `a round of negotiations / the first round` [通用]；②圆，圆形物；③（比赛的）轮；
+**prep.** ①==**围绕，环绕**== `round the world / all year round` [通用]；
 **adv.** ①围绕地；②到某处；③大约；
 **v.** ①绕行；②使变圆；③四舍五入；
 
@@ -137,7 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A new round of trade negotiations is scheduled to begin next month."（新一轮贸易谈判定于下月开始——考研经济类常见表达）
+> - After several rounds of negotiations, the two sides finally reached an agreement. `[真题]`
+> - Rescuers are working round the clock to find survivors of the blast. `[真题]`
+> - The park is open all year round and attracts thousands of visitors every month. `[真题]`
 
 
 ---

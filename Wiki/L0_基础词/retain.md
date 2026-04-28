@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**保持，保留**==；②留住（雇员、客户等）；③记住，保持（信息）；
+**v.** ①==**保持，保留**== `retain independence / retain control` [书面/通用]；②留住（雇员、客户等） `retain employees / retain customers` [书面]；③记住，保持（信息） `retain information / retain the ability to` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：向后拉住（把东西拉回来，不让它走掉）
@@ -134,8 +134,9 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country has retained its independence despite foreign pressure."（尽管面临外来压力，该国保持了独立——政治类阅读）
-> - "Companies need to retain talented employees in a competitive market."（在竞争激烈的市场中，公司需要留住人才——商业类语料）
+> - The country has retained its independence despite foreign pressure and economic sanctions. `[真题]`
+> - Companies need to retain talented employees in a competitive market by offering better benefits. `[真题]`
+> - Older adults often find it harder to retain new information compared to younger learners. `[真题]`
 
 
 ---

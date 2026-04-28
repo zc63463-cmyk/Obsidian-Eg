@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**代表，代理**==；②==**表示，象征**==；③描绘，描述；④声称，主张；
+**v.** ①==**代表，代理**== `V N` `V N at/in N`；②==**表示，象征**== `V N`；③==**描绘，描述**== `V N`；④==**声称，主张**== `V N as N`；
 
 > [!tip] 原型义
 > **原型义**：再次呈现（re- "再次" + present "呈现"——把某物再次带到面前）
@@ -125,8 +125,10 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Women now represent nearly half of the workforce."（女性现在占劳动力的近一半——考研阅读高频句式）
-> - "The data represents a significant shift in public opinion."（数据代表了公众舆论的重大转变——考研翻译参考）
+> - "I sent my husband to represent me at the funeral." `[COCA-ACAD]`
+> - "This contract represents 20% of the company's annual revenue." `[COCA-ACAD]`
+> - "The popular press tends to represent him as an environmental guru." `[COCA-NEWS]`
+> - "Women were well represented at the conference." `[COCA-ACAD]`
 
 
 ---

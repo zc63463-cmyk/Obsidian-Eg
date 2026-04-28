@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**冲，奔，仓促行事**==；②催促；③猛冲，突袭；
-**n.** ①冲，奔；②匆忙；③热潮；④（交通）高峰期；
-**adj.** ①匆忙的；②急需的；
+**v.** ①==**冲，奔，仓促行事**== `rush into a decision; rush through` [中性/贬义]；②==**催促**== `rush someone into doing something` [中性]；③==**猛冲，突袭**== `rush to the hospital; rush the enemy` [中性]；
+**n.** ①==**冲，奔**== `a rush for the exits` [中性]；②==**匆忙**== `in a rush` [中性]；③==**热潮**== `the gold rush; a rush of enthusiasm` [中性]；④==**（交通）高峰期**== `rush hour; rush-hour traffic` [中性]；
+**adj.** ①==**匆忙的**== `a rush job` [中性]；②==**急需的**== `a rush order` [中性]；
 
 > [!tip] 原型义
 > **原型义**：猛冲（急速向前冲去）
@@ -132,7 +132,9 @@ rush 可能源自古法语 *ruser*（退却、闪避），或与拉丁语 *recus
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Don't rush into a decision before considering all the options.（在考虑所有选项之前，不要仓促做决定。）
+> - Don't rush into a decision before considering all the options. `[真题]`
+> - During the evening rush hour it was often solid with vehicles. `[真题]`
+> - The film ended, and there was a rush for the exits. `[真题]`
 
 
 ---

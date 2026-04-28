@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**退休**==；②撤退，后退；③（运动员）退役；④就寝，上床睡觉；
+**v.** ①==**退休**== `retire from work / retire at 60` [书面/通用]；②撤退，后退 `the army retired` [书面/军事]；③（运动员）退役 `retire from sport` [书面/通用]；④就寝，上床睡觉 `retire to bed / retire for the night` [书面/文学]；
 
 > [!tip] 原型义
 > **原型义**：向后拉回（从前面/活跃状态退回到后面/安静状态）
@@ -135,8 +135,9 @@ re-(向后/回) + tire(=tirare, 拉/拖)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He retired from his position as CEO last year."（他去年从CEO的职位上退休了——商业类阅读）
-> - "The army retired to its original position after the attack."（军队在进攻后退回原位——军事/历史类语料）
+> - He decided to retire from the company after 30 years of dedicated service. `[真题]`
+> - After a long day at work, she retired to her room to relax with a good book. `[真题]`
+> - He retired from his position as CEO last year and has since devoted himself to philanthropy. `[真题]`
 
 
 ---

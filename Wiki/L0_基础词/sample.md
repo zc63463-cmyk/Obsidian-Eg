@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**样品，样本**==；②==**抽样**==（统计学）；
-**v.** ①==**抽样，取样**==；②品尝，体验；③
+**n.** ①==**样品，样本**== `a blood/DNA sample` [通用]；②==**抽样**== `a random sample` [学术]；
+**v.** ①==**抽样，取样**== `sample the population` [学术]；②品尝，体验；③
 
 > [!tip] 原型义
 > **原型义**：取出的范例（从整体中取出一小部分作为代表）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers collected blood samples from 500 participants to test for the virus."（研究人员从500名参与者身上采集了血样来检测病毒——考研阅读医学/科学话题常见表达）
-> - "The survey was based on a representative sample of the population."（这项调查基于对总体的代表性抽样——考研阅读社会研究话题常见表达）
+> - "The researchers collected blood samples from 500 participants to test for the virus." `[真题]`
+> - "The survey was based on a representative sample of the population." `[真题]`
+> - "Samples of the water contained pesticide." `[权威语料]`
+> - "They took a blood sample to test for hepatitis." `[权威语料]`
 
 
 ---

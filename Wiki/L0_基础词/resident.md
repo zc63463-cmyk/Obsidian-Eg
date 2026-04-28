@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**居民，定居者**==；②==**（旅馆的）住宿者**==；③==**住院医生**==；
-**adj.** ①==**定居的，常驻的**==；②==**（在某地）居住的**==；
+**n.** ①==**居民，定居者**== `\local ~s / permanent ~\` [通用]；②==**（旅馆的）住宿者**== `\hotel ~s\` [通用]；③==**住院医生**== `\~ physician / senior ~\` [专业]；
+**adj.** ①==**定居的，常驻的**== `\~ expert / ~ population\` [通用]；②==**（在某地）居住的**==；
 
 > [!tip] 原型义
 > **原型义**：居民，定居者（re- + sid + -ent，"再次坐下来的人"→ 定居的人）
@@ -135,8 +135,9 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Local residents have expressed concern about the environmental impact of the proposed factory."（当地居民对拟建工厂的环境影响表示担忧。——考研英语阅读环保类话题，local residents 高频表达）
-> - "The hospital's resident physicians work long hours and are often the first to respond to emergencies."（医院的住院医生工作时间很长，通常是第一个应对紧急情况的人。——考研英语阅读医疗类话题）
+> - The park is a popular meeting place for local residents. `[真题]`
+> - The factory has been a source of annoyance to nearby residents for over 30 years. `[真题]`
+> - She is a senior resident on the hospital's surgical team. `[真题]`
 
 
 ---

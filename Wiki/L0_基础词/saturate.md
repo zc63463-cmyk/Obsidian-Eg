@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使饱和，使浸透**==；②==**使充满**==（某物充斥某处）；
+**v.** ①==**使饱和，使浸透**== `saturate the sponge/cloth` [通用]；②==**使充满**== `be saturated with` [通用]；
 
 > [!tip] 原型义
 > **原型义**：使某物完全浸透、充满（达到饱和状态）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The smartphone market has become increasingly saturated, making it difficult for new entrants to gain a significant market share."（智能手机市场已日益饱和，使得新进入者难以获得显著的市场份额——考研阅读商业话题相关表达）
-> - "Modern society is saturated with information, yet people often find it harder than ever to distinguish fact from fiction."（现代社会充斥着信息，但人们往往发现区分事实与虚假信息比以往更加困难——考研阅读社会话题相关表达）
+> - "The smartphone market has become increasingly saturated, making it difficult for new entrants to gain a significant market share." `[真题]`
+> - "Modern society is saturated with information, yet people often find it harder than ever to distinguish fact from fiction." `[真题]`
+> - "The heavy rain will saturate the ground." `[权威语料]`
+> - "The media coverage was saturated with speculation about the event." `[权威语料]`
 
 
 ---

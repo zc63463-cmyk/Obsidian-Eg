@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**航行，启航**==；②驾驶（船只）；③飘过，掠过；
-**n.** ①帆；②乘船航行；③帆状物；
+**v.** ①==**航行，启航**== `set sail for` [中性]；②驾驶（船只）；③飘过，掠过；
+**n.** ①==帆== `under sail` [中性]；②乘船航行；③帆状物；
 
 > [!tip] 原型义
 > **原型义**：帆（借助风力前进的工具）
@@ -133,8 +133,9 @@ sail 源自古英语 *segl*，与古日耳曼语系同源，可能最终来自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At once he began to shorten sail, to invest only in the soundest securities, and to convert all his weaker ones into cash."（他马上开始收缩资金，只投资在最可靠的证券上，并把他所有比较不可靠的证券都变成了现金——考研阅读真题）
-> - "They honored us in many ways and when we were ready to sail, they furnished us with the supplies we needed."（他们以多种方式款待我们，当我们准备启航时，他们为我们提供了所需的物资——考研阅读真题）
+> - At once he began to shorten sail, to invest only in the soundest securities, and to convert all his weaker ones into cash. `[真题]`
+> - Two years ago he became the youngest person to sail across the Atlantic. `[外刊]`
+> - They honored us in many ways and when we were ready to sail, they furnished us with the supplies we needed. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**解决（问题、困难）**==；②==**决心，决定**==；③==**分解，解析**==；④==**（使）分解，溶解**==；
-**n.** ①==**决心，决意**==；
+**v.** ①==**解决（问题、困难）**== `\~ a conflict/problem/crisis\` [正式]；②==**决心，决定**== `\~ to do sth. / be ~d to do sth.\` [正式]；③==**分解，解析**== `\~ into parts\` [专业]；④==**（使）分解，溶解**==；
+**n.** ①==**决心，决意**== `\a firm ~\` [正式]；
 
 > [!tip] 原型义
 > **原型义**：松开，解决（re- + solv(e)，"再次松开"→ 解决问题）
@@ -137,8 +137,9 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government resolved to take immediate action to address the growing public concern over environmental pollution."（政府下决心立即采取行动，解决公众对环境污染日益增长的担忧。——考研英语阅读环保类话题，resolve to do 高频考点）
-> - "Mediation efforts failed to resolve the longstanding dispute between the two neighboring countries."（调解努力未能解决两个邻国之间长期的争端。——考研英语阅读国际关系类话题）
+> - The couple resolved their differences and made an effort to get along. `[真题]`
+> - After the divorce she resolved never to marry again. `[真题]`
+> - His comments were intended to weaken her resolve but they only served to strengthen it. `[真题]`
 
 
 ---

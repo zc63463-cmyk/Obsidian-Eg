@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**边缘，边缘**==（尤指圆形物体的）；②轮缘；③（眼镜的）镜框；
-**v.** ①环绕……的边缘；
+**n.** ①==**边缘，边缘**==（尤指圆形物体的） `the rim of a glass/cup` [容器]；②==**轮缘**== `the rim of a wheel` [车辆]；③==**（眼镜的）镜框**== `steel rims` [物品]；
+**v.** ①==**环绕……的边缘**== `trees rimming the lake` [空间]；
 
 > [!tip] 原型义
 > **原型义**：边缘（圆形物体的边缘）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She looked at him over the rim of her coffee cup."（她从咖啡杯的边缘上方看着他。）
-> - "The Pacific Rim region has experienced significant economic growth in recent decades."（太平洋沿岸地区近几十年来经历了显著的经济增长。）
+> - "There were chips on the rim of the plate." `[真题]`
+> - "He bought stainless steel rims for his new car." `[真题]`
+> - "First there was a nearly circular rim of resplendent mountains, their white caps glistening in the morning sun." `[真题]`
 
 
 ---

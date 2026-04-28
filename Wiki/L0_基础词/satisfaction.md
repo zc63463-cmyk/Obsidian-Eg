@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**满意，满足**==；②==**赔偿，补偿**==（法律用语）；
+**n.** ①==**满意，满足**== `derive satisfaction from` [通用]；②==**赔偿，补偿**== `satisfaction for damages` [法律]；
 
 > [!tip] 原型义
 > **原型义**：足够的量使需求得到满足（满足的状态）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many employees derive greater satisfaction from meaningful work and recognition than from financial rewards alone."（许多员工从有意义的工作和认可中获得的满足感，远超单纯的金钱回报——考研阅读职场话题相关表达）
-> - "The consumer protection law ensures that buyers can seek satisfaction from manufacturers for defective products."（消费者保护法确保买家能就缺陷产品向制造商寻求赔偿——考研翻译法律话题相关表达）
+> - "Many employees derive greater satisfaction from meaningful work and recognition than from financial rewards alone." `[真题]`
+> - "The consumer protection law ensures that buyers can seek satisfaction from manufacturers for defective products." `[真题]`
+> - "I derive great satisfaction from their pleasure if I get my job right." `[权威语料]`
+> - "Employees may experience a twisted sense of satisfaction when a colleague fails to achieve a promotion." `[权威语料]`
 
 
 ---

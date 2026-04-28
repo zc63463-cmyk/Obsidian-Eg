@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**摩擦，揉擦**==；②擦伤；
-**n.** ①摩擦，揉擦；②困难，障碍；
+**v.** ①==**摩擦，揉擦**== `rub one's eyes / rub the surface` [通用]；②擦伤；
+**n.** ①摩擦，揉擦；②==**困难，障碍**== `there's the rub / a rub in the plan` [正式]；
 
 > [!tip] 原型义
 > **原型义**：摩擦（源自古英语 *rubbian*，原始日耳曼语 *rub-*）
@@ -126,8 +126,9 @@ rub（摩擦，原始日耳曼语词根）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To sleep, perchance to dream — ay, there's the rub."（睡觉吧，也许会做梦——啊，问题就在这里。——莎士比亚《哈姆雷特》）
-> - "She rubbed her tired eyes and continued working."（她揉了揉疲惫的眼睛，继续工作。）
+> - As a reporter he gets to rub shoulders with all the big names in politics and the media. `[真题]`
+> - He blinked and rubbed his tired eyes before continuing to read the report. `[真题]`
+> - But there's the rub: historians are generally not interested in bringing complexity to the texts they use as sources. `[真题]`
 
 
 ---

@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**零售**==；
-**v.** ①零售，以零售方式销售；
-**adv.** ①以零售方式；
-**adj.** ①零售的；
+**n.** ①==**零售**== `the retail sector / retail sales` [书面/通用]；
+**v.** ①零售，以零售方式销售 `retail at $10 / retail goods` [书面]；
+**adv.** ①以零售方式 `sold retail` [书面]；
+**adj.** ①零售的 `retail price / retail store` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：切割再卖（把大块货物切成小块卖给个人）
@@ -135,8 +135,9 @@ re-(再/反复) + tail(=tailor, 切割/剪裁)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The retail price of the product is much higher than the wholesale price."（该产品的零售价格远高于批发价格——经济类阅读）
-> - "Online retail has been growing rapidly in recent years."（近年来在线零售快速增长——商业类语料）
+> - Retail stores usually count on the Christmas season to make up to half of their annual profits. `[真题]`
+> - The government must also urgently address problems across the retail sector as shops continue to close. `[真题]`
+> - Reimbursement will be the lower of either the retail price or the wholesale price plus a handling fee. `[真题]`
 
 
 ---

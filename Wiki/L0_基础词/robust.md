@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**强健的，健壮的**==；②坚固的，耐用的；③强有力的，坚定的；
+**adj.** ①==**强健的，健壮的**== `a robust man/health` [正式]；②==**坚固的，耐用的**== `a robust system/structure` [正式]；③==**强有力的，坚定的**== `a robust argument/evidence` [正式]；
 
 > [!tip] 原型义
 > **原型义**：像橡树一样强壮的（strong as an oak）
@@ -126,8 +126,9 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economy showed robust growth in the third quarter."（经济在第三季度显示出强劲增长——考研高频表达）
-> - "We need a more robust system to handle the increasing data volume."（我们需要一个更坚固的系统来处理日益增长的数据量）
+> - The economy showed robust growth in the third quarter. `[真题]`
+> - We need a more robust system to handle the increasing data volume. `[真题]`
+> - There is robust evidence that climate change is accelerating. `[真题]`
 
 
 ---

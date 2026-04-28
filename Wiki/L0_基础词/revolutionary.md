@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**革命的，革命性的**==；②创新的，突破性的；
-**n.** ①革命者，革命家；
+**adj.** ①==**革命的，革命性的**== `revolutionary ideas / revolutionary movement` [书面/通用]；②==**创新的，突破性的**== `a revolutionary discovery / revolutionary technology` [书面/通用]；
+**n.** ①==**革命者，革命家**== `a revolutionary leader / a true revolutionary` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：彻底翻转的（带来彻底翻转/革命性变化的人或事物）
@@ -131,8 +131,9 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀) + -ary(形容词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has brought about revolutionary changes in communication."（互联网给通讯带来了革命性的变化——科技类阅读）
-> - "He was a revolutionary who fought for the independence of his country."（他是一位为祖国独立而战的革命者——历史类语料）
+> - The new treatment for cancer is considered revolutionary by the medical community. ` [真题]`
+> - Women have made revolutionary changes in their roles in the past 25 years. ` [真题]`
+> - She was a true revolutionary who fought for the independence of her country. ` [真题]`
 
 
 ---

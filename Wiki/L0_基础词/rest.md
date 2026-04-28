@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**休息，放松**==；②==**依赖，寄托**==（rest on）；③==**放置，搁**==；
-**n.** ①==**休息**==；②==**其余的人/物**==（the rest）；③==**静止，安宁**==；
+**v.** ①==**休息，放松**== `\take a ~ / get some ~\` [通用]；②==**依赖，寄托**== `\~ on / ~ with\` [通用]；③==**放置，搁**==；
+**n.** ①==**休息**== `\have/take a ~\` [通用]；②==**其余的人/物**== `\the ~ of\` [通用]；③==**静止，安宁**==；
 
 > [!tip] 原型义
 > **原型义**：停下来休息（停止活动以恢复体力）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The success of the project rests largely on the cooperation between different departments within the organization."（项目的成功在很大程度上取决于组织内部不同部门之间的合作——考研阅读管理话题相关表达）
-> - "While some researchers argue that technology has improved productivity, the rest remain skeptical about its long-term effects on employment."（虽然一些研究人员认为技术提高了生产力，但其余的人对其对就业的长期影响仍持怀疑态度——考研阅读科技话题相关表达）
+> - The success of the project rests largely on the cooperation between different departments. `[真题]`
+> - I have got two bright students, but the rest are average. `[真题]`
+> - You had better get some rest if you are driving back tonight. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**丝带，缎带**==；②带状物，条状物；③（打字机的）色带；
-**v.** ①用缎带装饰；②成带状延伸；
+**n.** ①==**丝带，缎带**== `tie with a ribbon / wear a ribbon in one's hair` [书面/通用]；②==**带状物，条状物**== `a ribbon of road / a ribbon of smoke` [书面/文学]；
+**v.** ①==**用缎带装饰**== `ribbon a gift / be tied with ribbon` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：细长的带子（像肋骨一样细长的装饰带）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The mayor cut the ribbon to officially open the new library."（市长剪彩正式开放新图书馆。）
-> - "A narrow ribbon of road wound through the mountains."（一条狭窄的带状公路蜿蜒穿过群山。）
+> - The mayor cut the ribbon to officially open the new community library. ` [真题]`
+> - A narrow ribbon of road wound through the mountains, offering breathtaking views at every turn. ` [真题]`
+> - She tied back her hair with a peach satin ribbon before the ceremony. ` [真题]`
 
 
 ---

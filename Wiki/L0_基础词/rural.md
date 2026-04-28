@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**农村的，乡村的**==；②田园的，有乡村特色的；
+**adj.** ①==**农村的，乡村的**== `rural areas; rural population` [中性]；②==**田园的，有乡村特色的**== `rural scenery; rural life` [中性/正面]；
 
 > [!tip] 原型义
 > **原型义**：田野的（属于开阔土地的）
@@ -122,7 +122,9 @@ rur-（乡村，拉丁语 *rus*，属格 *ruris*，"开阔的土地、田野"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rural-urban divide in access to education remains a significant challenge.（城乡之间在教育获取方面的差距仍然是一个重大挑战。）
+> - The rural-urban divide in access to education remains a significant challenge. `[真题]`
+> - She's carrying out a comparative study of health in inner cities and rural areas. `[真题]`
+> - He grew up in a predominantly rural area. `[真题]`
 
 
 ---

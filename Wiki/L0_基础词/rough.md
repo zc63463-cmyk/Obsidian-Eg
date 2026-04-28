@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**粗糙的，不平滑的**==；②==**大致的，粗略的**==；③艰难的，艰苦的；④粗暴的，粗鲁的；
+**adj.** ①==**粗糙的，不平滑的**== `rough skin / rough surface` [通用]；②==**大致的，粗略的**== `a rough estimate / rough draft` [通用]；③==**艰难的，艰苦的**== `a rough time / a rough journey` [通用]；④==**粗暴的，粗鲁的**== `rough treatment / rough language` [通用]；
 **adv.** ①粗略地；②粗暴地；
 **v.** ①草拟；②粗暴对待；
 
@@ -133,7 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A rough estimate suggests that the project will cost around $10 million."（粗略估计该项目将花费约1000万美元——考研常见表达）
+> - This figure is only a rough estimate, and we'll revise it when we have more information. `[真题]`
+> - First do a rough draft of your essay, then read it through carefully before finalizing it. `[真题]`
+> - Even when the tires went flat or the road grew rough, we loved every minute of the journey. `[真题]`
 
 
 ---

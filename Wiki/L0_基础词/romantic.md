@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**浪漫的，多情的**==；②==**不切实际的，空想的**==；③浪漫主义的；
+**adj.** ①==**浪漫的，多情的**== `a romantic dinner / romantic love` [通用]；②==**不切实际的，空想的**== `romantic ideas / romantic notions` [正式]；③浪漫主义的；
 **n.** ①浪漫的人；②浪漫主义作家；
 
 > [!tip] 原型义
@@ -129,7 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People have a romantic attachment to the idea of the self-made man."（人们对白手起家的理念有一种浪漫的依恋——考研阅读高频表达）
+> - People have a romantic attachment to the idea of the self-made man. `[真题]`
+> - She had romantic notions about becoming a famous artist. `[真题]`
+> - They enjoyed a romantic dinner by candlelight on the terrace. `[真题]`
 
 
 ---

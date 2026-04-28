@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**王室的，皇家的**==；②盛大的，高贵的；
+**adj.** ①==**王室的，皇家的**== `the royal family / a royal palace` [通用]；②==**盛大的，高贵的**== `a royal welcome / royal treatment` [通用]；
 
 > [!tip] 原型义
 > **原型义**：国王的（源自拉丁语 *regalis*，rex-国王 → 古法语 *roial* → royal）
@@ -126,8 +126,9 @@ roy-(=reg-/rex-, 国王，拉丁语 *rex*/*regalis*) + -al(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The royal family attended the state ceremony."（王室成员出席了国家典礼。）
-> - "Visitors were given a royal welcome at the hotel."（客人在酒店受到了隆重的欢迎。）
+> - Few of the Western democracies still have a royal family with real political power. `[真题]`
+> - The team was given a royal reception upon their return from the championship. `[真题]`
+> - We were given royal treatment at the hotel, with free meals and a private pool. `[真题]`
 
 
 ---

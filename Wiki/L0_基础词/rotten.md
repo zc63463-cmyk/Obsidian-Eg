@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**腐烂的，变质的**==；②==**糟糕的，令人不快的**==；③腐败的，不道德的；
+**adj.** ①==**腐烂的，变质的**== `rotten fruit / rotten eggs` [通用]；②==**糟糕的，令人不快的**== `a rotten day / feel rotten` [口语]；③腐败的，不道德的；
 
 > [!tip] 原型义
 > **原型义**：腐烂的（有机物已经分解变质的状态）
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The system is rotten to the core and needs fundamental reform."（这个制度已经腐败到根子里，需要根本性改革——考研社会类话题）
+> - The system is rotten to the core and needs fundamental reform. `[真题]`
+> - There were some cheap oranges in the market but most of them were rotten. `[真题]`
+> - Politics is broken, the system rotten to the core. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**肋骨**==；②（船、飞机等的）肋拱，骨架；③（叶的）主脉；
-**v.** ①开玩笑，逗弄（rib sb. about sth.）；
+**n.** ①==**肋骨**== `broken rib / rib cage` [书面/通用]；②==**肋拱，骨架**== `the ribs of a ship / the ribs of an umbrella` [书面]；③（叶的）主脉；
+**v.** ①==**开玩笑，逗弄**== `rib sb. about sth. / rib someone about their appearance` [口语/通用]；
 
 > [!tip] 原型义
 > **原型义**：弯曲的骨头（肋骨的弯曲形状）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He used to rib his younger brother about his shyness."（他过去常拿弟弟的害羞开玩笑。）
-> - "The doctor confirmed that two of his ribs were fractured in the accident."（医生确认他在事故中两根肋骨骨折。）
+> - The doctor confirmed that he had fractured two ribs in the accident and would need several weeks to recover. ` [真题]`
+> - He used to rib his younger brother about his shyness whenever they were with friends. ` [真题]`
+> - She felt a sharp pain in her rib cage after the fall and decided to go to the hospital immediately. ` [真题]`
 
 
 ---

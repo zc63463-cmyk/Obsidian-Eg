@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**麻袋，大包**==；②解雇（口语）；③洗劫；
-**v.** ①==**解雇**==（口语）；②==**洗劫，劫掠**==；
+**n.** ①==**麻袋，大包**== `a sack of sth.` [中性]；②解雇（口语）；③洗劫；
+**v.** ①==**解雇**== `be sacked for sth.` [口语]；②==**洗劫，劫掠**== `sack a city` [书面]；
 
 > [!tip] 原型义
 > **原型义**：粗布袋（用粗麻布制成的盛物袋子）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was sacked for repeatedly violating the company's policies."（他因屡次违反公司规定而被解雇——考研阅读职场话题相关表达）
-> - "The invaders sacked the city and took everything of value."（入侵者洗劫了这座城市，带走了一切有价值的东西——考研阅读历史话题相关表达）
+> - He was sacked for repeatedly violating the company's policies. `[真题]`
+> - Two workers got the sack for fighting in the warehouse. `[真题]`
+> - The invaders sacked the city and took everything of value. `[外刊]`
 
 
 ---

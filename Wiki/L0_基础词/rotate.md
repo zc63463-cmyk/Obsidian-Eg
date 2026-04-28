@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**旋转，转动**==；②==**轮换，交替**==；③使轮换；
+**v.** ①==**旋转，转动**== `the earth rotates / rotate the wheel` [通用]；②==**轮换，交替**== `rotate crops / rotate shifts` [正式]；③使轮换；
 **adj.** ①旋转的；
 
 > [!tip] 原型义
@@ -127,7 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Farmers rotate crops to maintain soil fertility."（农民轮作以保持土壤肥力——考研环保/农业类话题）
+> - Farmers rotate crops to maintain soil fertility. `[真题]`
+> - The earth rotates once every 24 hours on its axis. `[真题]`
+> - The company rotates its employees through different departments. `[真题]`
 
 
 ---

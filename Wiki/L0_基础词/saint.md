@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**圣人，圣徒**==；②道德高尚的人；③（首字母大写）Saint，圣（用于人名或地名前）；
+**n.** ①==**圣人，圣徒**== `St. / patron saint` [正式]；②道德高尚的人；③（首字母大写）Saint，圣（用于人名或地名前）；
 **v.** ①封……为圣徒；
 
 > [!tip] 原型义
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was canonized as a saint by the Catholic Church for his lifetime of charitable work."（他因一生的慈善工作被天主教会封为圣人——考研阅读相关表达）
-> - "She was a saint to put up with his difficult behavior for so many years."（她忍受他多年的恶劣行为，真是个圣人——考研翻译相关表达）
+> - Thanks so much for doing that. You're a saint. `[外刊]`
+> - Your mother's a saint. She's done so much to help us. `[外刊]`
+> - Here also are conserved the remains of St Stanislaus, the patron saint of the Poles. `[外刊]`
 
 
 ---

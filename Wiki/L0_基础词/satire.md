@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**讽刺，讽刺文学**==；②==**讽刺作品**==（用幽默、夸张等方式批评社会弊病）；
+**n.** ①==**讽刺，讽刺文学**== `political/social satire` [正式]；②==**讽刺作品**== `a satire on` [正式]；
 
 > [!tip] 原型义
 > **原型义**：用混合果盘（lanx satura）比喻"杂糅各种元素的文体"
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Jonathan Swift's 'Gulliver's Travels' is not merely a children's adventure story but a brilliant satire on human nature and society."（乔纳森-斯威夫特的《格列佛游记》不仅是一部儿童冒险故事，更是一部精彩的人性与社会讽刺作品——考研阅读文学话题相关表达）
-> - "In an age of political satire, late-night talk shows have become an important platform for social commentary and criticism."（在政治讽刺的时代，深夜脱口秀已成为社会评论和批评的重要平台——考研阅读媒体话题相关表达）
+> - "Jonathan Swift's 'Gulliver's Travels' is not merely a children's adventure story but a brilliant satire on human nature and society." `[真题]`
+> - "In an age of political satire, late-night talk shows have become an important platform for social commentary and criticism." `[真题]`
+> - "The hit HBO show is a biting satire about the television industry." `[权威语料]`
+> - "He often merges politics and popular culture using satire." `[权威语料]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**岩石，石头**==；②摇滚乐；
-**v.** ①摇晃，震动；②使震惊；
+**n.** ①==**岩石，石头**== `solid rock / rock climbing` [通用]；②==**摇滚乐**== `rock music / rock concert` [通用]；
+**v.** ①==**摇晃，震动**== `rock the boat / rock back and forth` [通用]；②使震惊；
 
 > [!tip] 原型义
 > **原型义**：石头（a large mass of stone）
@@ -127,8 +127,9 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scandal rocked the government to its foundations."（丑闻使政府根基动摇——考研高频表达）
-> - "The boat rocked violently in the storm."（船在风暴中剧烈摇晃）
+> - The scandal rocked the government to its foundations. `[真题]`
+> - The boat rocked violently in the storm. `[真题]`
+> - The government was rocked by a series of financial scandals. `[真题]`
 
 
 ---

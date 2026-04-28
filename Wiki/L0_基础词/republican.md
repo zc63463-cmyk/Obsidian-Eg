@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**共和政体的**==；②==**共和党的**==（美国）；
-**n.** ①共和主义者；②==**共和党人**==（美国）；
+**adj.** ①==**共和政体的**== `adj. N`；②==**共和党的**== [美国]；
+**n.** ①共和主义者；②==**共和党人**== [美国]；
 
 > [!tip] 原型义
 > **原型义**：拥护共和的人/事（republic + -an "属于……的/人"）
@@ -123,7 +123,10 @@ re-(=res，事物) + public(公共的) + -an(属于……的/人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Republican Party has traditionally favored small government and free markets."（共和党传统上支持小政府和自由市场——考研政治类阅读参考）
+> - "There is a strong republican movement in the country." `[COCA-NEWS]`
+> - "Many business leaders were hoping for a Republican victory." `[COCA-NEWS]`
+> - "Republican leaders met with the president to discuss the budget proposal." `[COCA-NEWS]`
+> - "The Republicans gained control of the House in the midterms." `[COCA-NEWS]`
 
 
 ---

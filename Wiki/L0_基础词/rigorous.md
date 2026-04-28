@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**严格的，严厉的**==；②严密的，缜密的；③严酷的，艰苦的；
+**adj.** ①==**严格的，严厉的**== `rigorous standards / rigorous training` [书面/通用]；②==**严密的，缜密的**== `rigorous analysis / rigorous research` [书面/学术]；③==**严酷的，艰苦的**== `rigorous climate / rigorous conditions` [书面]；
 
 > [!tip] 原型义
 > **原型义**：像树根一样扎得紧（根基牢固的）
@@ -125,8 +125,9 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study was conducted using rigorous scientific methods."（该研究使用了严谨的科学方法进行。）
-> - "Students must undergo rigorous training before they can practice medicine."（学生在行医之前必须接受严格的训练。）
+> - The study was conducted using rigorous scientific methods to ensure the validity of the results. ` [真题]`
+> - Students must undergo rigorous training before they are qualified to practice medicine. ` [真题]`
+> - Her rigorous research methods have earned her a reputation as a leading expert in the field. ` [真题]`
 
 
 ---

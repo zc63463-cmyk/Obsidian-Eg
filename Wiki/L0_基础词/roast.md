@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**烤，烘**==；②严厉批评，嘲讽；
-**n.** ①烤肉；②嘲讽；
-**adj.** ①烤好的；
+**v.** ①==**烤，烘**== `roast chicken; roast beef` [中性]；②==**严厉批评，嘲讽**== `roast the politician; get roasted` [口语/贬义]；
+**n.** ①==**烤肉**== `a traditional Sunday roast` [中性]；②==**嘲讽（节目）**== `a roast comedy` [口语/中性]；
+**adj.** ①==**烤好的**== `roast duck; roast potatoes` [中性]；
 
 > [!tip] 原型义
 > **原型义**：烤（to cook with dry heat）
@@ -126,8 +126,9 @@ roast（烤，古法语 *rostir*，可能来自日耳曼语源，与 *rust* "红
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The restaurant is famous for its roast duck."（这家餐厅以烤鸭闻名——考研阅读常见表达）
-> - "The comedian roasted the audience with sharp wit."（喜剧演员用犀利的机智嘲讽了观众）
+> - Roast lamb with all the trimmings is my favourite meal. `[真题]`
+> - The restaurant is famous for its roast duck. `[真题]`
+> - The comedian roasted the audience with sharp wit. `[真题]`
 
 
 ---

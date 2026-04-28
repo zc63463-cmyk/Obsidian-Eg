@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**镇压，压制**==；②压抑（心理学术语）；③抑制；
+**n.** ①==**镇压，压制**== `N of N`；②==**压抑**== `N of N` [心理]；③抑制；
 
 > [!tip] 原型义
 > **原型义**：向回压（re- "回" + press "压"——把东西压回去）
@@ -126,7 +126,10 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The regime was characterized by political repression and censorship."（该政权以政治镇压和审查为特征——考研阅读常见表达）
+> - "The trade unions suffered brutal repression after the coup." `[COCA-NEWS]`
+> - "Streams of migrants are fleeing war, repression and poverty." `[COCA-NEWS]`
+> - "There was a campaign of repression against minorities in the north." `[COCA-ACAD]`
+> - "A society conditioned by violence and repression." `[COCA-ACAD]`
 
 
 ---

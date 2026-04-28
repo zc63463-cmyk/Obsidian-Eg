@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**僵硬的，不易弯曲的**==；②严格的，死板的；③坚定的，不变的；
+**adj.** ①==**僵硬的，不易弯曲的**== `rigid material / rigid structure` [书面/通用]；②==**严格的，死板的**== `rigid rules / rigid hierarchy` [书面/通用]；③==**坚定的，不变的**== `rigid determination / rigid opposition` [书面]；
 
 > [!tip] 原型义
 > **原型义**：僵硬的（像直立的棍子一样不动）
@@ -126,8 +126,9 @@ rig-(=rigid, 僵硬/直立) + -[[id-ident|id]](形容词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's rigid hierarchy made it difficult for new ideas to emerge."（公司严格的等级制度使得新想法难以产生。）
-> - "The material is so rigid that it cannot be bent without breaking."（这种材料非常坚硬，不折断就无法弯曲。）
+> - The company's rigid hierarchy made it difficult for new ideas to emerge from lower-level employees. ` [真题]`
+> - The material is so rigid that it cannot be bent without breaking under pressure. ` [真题]`
+> - His rigid stance on the issue left no room for negotiation or compromise. ` [真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**水手，海员**==；②驾船人，帆船驾驶者；
+**n.** ①==**水手，海员**== `a sailor on a ship` [中性]；②驾船人，帆船驾驶者；
 
 > [!tip] 原型义
 > **原型义**：驾帆航行的人
@@ -129,8 +129,9 @@ sail（帆，航行）+ -or（表示"人"的后缀，拉丁语 *-ator*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old sailor told us stories of his adventures at sea."（这位老水手给我们讲了他在海上的冒险故事——考研高频表达）
-> - "She met her husband when he was working as a sailor on a cargo ship."（她认识丈夫时，他正在货船上当水手——考研阅读相关表达）
+> - The old sailor told us stories of his adventures at sea. `[外刊]`
+> - She met her husband when he was working as a sailor on a cargo ship. `[外刊]`
+> - He sailed the Pacific all alone, like the bravest sailor in history. `[外刊]`
 
 
 ---

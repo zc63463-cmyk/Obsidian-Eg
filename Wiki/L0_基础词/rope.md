@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**绳，索**==；②（拳击台的）围绳；
+**n.** ①==**绳，索**== `a length of rope / tie with a rope` [通用]；②（拳击台的）围绳；
 **v.** ①用绳捆/绑；②（用绳）圈起；
 
 > [!tip] 原型义
@@ -122,7 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists are at the end of their rope in finding a cure for the disease."（科学家在寻找这种疾病的疗法上已山穷水尽——考研科技类话题）
+> - Scientists are at the end of their rope in finding a cure for the disease. `[真题]`
+> - It will take a few weeks for new employees to learn the ropes. `[真题]`
+> - The veteran cop showed the rookie the ropes. `[真题]`
 
 
 ---

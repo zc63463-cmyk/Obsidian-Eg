@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**牺牲，献身**==；②==**祭品，供品**==；
-**v.** ①==**牺牲，献出**==；②献祭；
+**n.** ①==**牺牲，献身**== `make sacrifices for sth.` [中性]；②==**祭品，供品**== `offer a sacrifice` [正式]；
+**v.** ①==**牺牲，献出**== `sacrifice sth. for sth.` [中性]；②献祭；
 
 > [!tip] 原型义
 > **原型义**：使之神圣（通过献祭使事物神圣化）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "...have limited the opportunities of teenagers who are already questioning the heavy personal sacrifices involved in climbing Japan's rigid social ladder to good schools and jobs."（……限制了那些已经在质疑攀登日本通往好学校和好工作的僵化社会阶梯所涉及的个人沉重代价的青少年的机会。——2000年考研英语阅读Text 4）
-> - "She sacrificed family life to her career."（她为事业牺牲了家庭生活——考研阅读社会话题常见表达）
+> - ...have limited the opportunities of teenagers who are already questioning the heavy personal sacrifices involved in climbing Japan's rigid social ladder to good schools and jobs. `[真题]`
+> - She sacrificed family life to her career. `[真题]`
+> - The labor union crafted an historic contract that made up for sacrifices hourly workers made to help the automakers in years past. `[外刊]`
 
 
 ---

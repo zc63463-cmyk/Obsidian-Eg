@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**神志正常的，理智的**==；②明智的，合理的；
+**adj.** ①==**神志正常的，理智的**== `no sane person would` [通用]；②明智的，合理的；
 
 > [!tip] 原型义
 > **原型义**：健康的（身体健康→精神健康→理智的）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No sane person would make such a reckless decision."（没有理智的人会做出如此鲁莽的决定——考研阅读逻辑判断相关表达）
-> - "She struggled to keep her sanity during the long period of isolation."（在漫长的隔离期间，她努力保持理智——考研阅读心理话题相关表达）
+> - "No sane person would make such a reckless decision." `[真题]`
+> - "She struggled to keep her sanity during the long period of isolation." `[真题]`
+> - "He seems perfectly sane to me." `[权威语料]`
+> - "Leaving was the only sane option she had." `[权威语料]`
 
 
 ---

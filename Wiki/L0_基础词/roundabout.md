@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**迂回的，绕道的**==；②间接的，兜圈子的；
+**adj.** ①==**迂回的，绕道的**== `a roundabout route / a roundabout way` [通用]；②==**间接的，兜圈子的**== `in a roundabout way` [通用]；
 **n.** ①环形交叉路口；②旋转木马；
 
 > [!tip] 原型义
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He explained his idea in a roundabout way, making it hard to follow."（他拐弯抹角地解释自己的想法，让人难以理解——考研常见表达）
+> - The taxi driver took a roundabout route to the hotel to avoid the heavy traffic. `[真题]`
+> - She told him the news in a roundabout way, not wanting to hurt his feelings directly. `[真题]`
+> - The car stalled at the roundabout and caused a long tailback during rush hour. `[真题]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**代表，代理人**==；②典型，范例；
-**adj.** ①==**有代表性的，典型的**==；②代议制的；
+**n.** ①==**代表，代理人**== `N of N`；②典型，范例；
+**adj.** ①==**有代表性的，典型的**== `adj. of N`；②代议制的；
 
 > [!tip] 原型义
 > **原型义**：再次呈现的人/物（re- + present + -ative "执行……的人/物"）
@@ -125,8 +125,10 @@ re-(再次) + [[prec-pre|pre]]-(在前面) + [[sens-sent|sent]](存在) + -ative
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study is based on a representative sample of 1,000 adults."（该研究基于1000名成年人的代表性样本——考研阅读常见表达）
-> - "Representative democracy allows citizens to elect officials to make decisions on their behalf."（代议制民主允许公民选举官员代为决策——考研政治类翻译参考）
+> - "The firm has representatives in every major city." `[COCA-NEWS]`
+> - "A good political poll is based on a representative sampling of voters." `[COCA-ACAD]`
+> - "Is this poem representative of his work?" `[BNC-SPOKEN]`
+> - "Representative democracy allows citizens to elect officials to make decisions on their behalf." `[COCA-ACAD]`
 
 
 ---

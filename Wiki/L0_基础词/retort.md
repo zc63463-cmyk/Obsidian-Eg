@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**反驳，回嘴**==；
-**n.** ①反驳，回嘴；
+**v.** ①==**反驳，回嘴**== `retort that... / retort angrily` [书面/通用]；
+**n.** ①反驳，回嘴 `a sharp retort / a brilliant retort` [书面/文学]；
 
 > [!tip] 原型义
 > **原型义**：扭回去（把话扭回去反击对方）
@@ -131,8 +131,9 @@ re-(向后/回) + tort(=torquere, 扭/拧)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She retorted angrily that she had never said such a thing."（她愤怒地反驳说她从未说过这样的话——文学类阅读）
-> - "His sharp retort silenced the critic."（他尖锐的反驳让批评者哑口无言——辩论/议论文语料）
+> - "Of course not," he retorted angrily when accused of the charge. `[真题]`
+> - She had a quick retort ready for every criticism directed at her during the debate. `[真题]`
+> - Republicans retorted that the amendment was necessary to balance the budget. `[真题]`
 
 
 ---

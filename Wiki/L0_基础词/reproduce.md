@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**复制，再现**==；②==**繁殖，生殖**==；③重现；
+**v.** ①==**复制，再现**== `V N`；②==**繁殖，生殖**== `V` `V N`；③==**重现**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：再次生产（re- "再次" + produce "生产"）
@@ -123,7 +123,10 @@ re-(再次，[[re]]) + pro-(向前) + [[duct|duc]](引导，[[duct]]) → produc
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study's findings could not be reproduced by other researchers."（该研究的结果无法被其他研究者重现——考研学术类阅读常见表达）
+> - "The best ink-jet printers can reproduce photographs with amazing fidelity." `[COCA-NEWS]`
+> - "Most reptiles reproduce by laying eggs on land." `[COCA-ACAD]`
+> - "When viruses infect our bodies they rely on our cells to reproduce." `[COCA-ACAD]`
+> - "The study's findings could not be reproduced by other researchers." `[COCA-ACAD]`
 
 
 ---

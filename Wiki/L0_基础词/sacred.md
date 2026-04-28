@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**神圣的，宗教的**==；②==**神圣不可侵犯的**==；③庄严的，郑重的；
+**adj.** ①==**神圣的，宗教的**== `sacred texts/ground` [正式]；②==**神圣不可侵犯的**== `a sacred right/duty` [正式]；③庄严的，郑重的；
 
 > [!tip] 原型义
 > **原型义**：献给神的（被神圣化、不可侵犯的）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Highlights include China's most sacred peaks at Mount Tai and Hangzhou's rolling hills, waterways and peaceful temples."（精彩之处包括中国泰山最神圣的山峰和杭州起伏的山丘、运河和宁静的寺庙——2020年高考/考研相关语料）
-> - "Freedom of speech is considered a sacred right in democratic societies."（言论自由在民主社会中被视为一项神圣不可侵犯的权利——考研阅读政治话题常见表达）
+> - Freedom of speech is considered a sacred right in democratic societies. `[外刊]`
+> - We have a sacred duty to find out the truth. `[外刊]`
+> - The burial site is sacred ground. `[外刊]`
 
 
 ---

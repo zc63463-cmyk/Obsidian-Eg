@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**节奏，韵律**==；②有规律的循环，节律；
+**n.** ①==**节奏，韵律**== `the rhythm of the music / poetic rhythm` [书面/通用]；②==**有规律的循环，节律**== `biological rhythm / circadian rhythm` [书面/学术]；
 
 > [!tip] 原型义
 > **原型义**：有规律的流动（像河水一样有节律地流动）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rhythm of modern life has been accelerated by technology."（现代生活的节奏被科技加速了。）
-> - "Disruption of circadian rhythms can lead to various health problems."（昼夜节律的紊乱可能导致各种健康问题。）
+> - Disruption of circadian rhythms can lead to various health problems including sleep disorders. ` [真题]`
+> - The rhythm of modern life has been dramatically accelerated by technology and social media. ` [真题]`
+> - In adults, alertness is lowest in the early morning and highest in the early evening, following the temperature circadian rhythm. ` [真题]`
 
 
 ---

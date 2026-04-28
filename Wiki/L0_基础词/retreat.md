@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**撤退，退却**==；②退避，躲避；③（价格）下跌；
-**n.** ①撤退，退却；②隐退处，静修处；③静修活动；
+**v.** ①==**撤退，退却**== `force the enemy to retreat / the army retreated` [书面/通用]；②退避，躲避 `retreat from reality / retreat into oneself` [书面/文学]；③（价格）下跌 `share prices retreated` [书面/商业]；
+**n.** ①撤退，退却 `beat a retreat` [书面/通用]；②隐退处，静修处 `a mountain retreat` [书面/通用]；③静修活动 `a corporate retreat` [书面]；
 
 > [!tip] 原型义
 > **原型义**：向后踏步（从前面退回到后面）
@@ -135,8 +135,9 @@ re-(向后/回) + treat(=tractus, 拉/拖/踏)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The army was forced to retreat from the city."（军队被迫从城市撤退——历史/军事类阅读）
-> - "Many people retreat to the countryside for peace and quiet."（许多人退居乡村寻求宁静——生活类语料）
+> - The army was forced to retreat from the city after three days of fierce fighting. `[真题]`
+> - The cabin in the woods was a perfect retreat from the noise and stress of city life. `[真题]`
+> - His proposals were clearly unreasonable and he was soon forced to retreat from his earlier position. `[真题]`
 
 
 ---

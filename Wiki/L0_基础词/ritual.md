@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**仪式，典礼**==；②例行公事，习惯；
-**adj.** ①仪式的；②例行的；
+**n.** ①==**仪式，典礼**== `religious/wedding ritual` [社会]；②==**例行公事，习惯**== `daily/morning ritual` [日常]；
+**adj.** ①==**仪式的**== `ritual dance/ceremony` [文化]；②==**例行的**== `ritual greeting` [行为]；
 
 > [!tip] 原型义
 > **原型义**：仪式/惯例（religious or solemn ceremony）
@@ -124,8 +124,9 @@ rit(=rite, 仪式，拉丁语 *ritus* "宗教仪式") + -ual(形容词/名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tribe performed a ritual dance to celebrate the harvest."（部落表演仪式舞蹈来庆祝丰收——考研阅读常见表达）
-> - "Her morning ritual includes a cup of coffee and ten minutes of meditation."（她的晨间惯例包括一杯咖啡和十分钟的冥想）
+> - "The lady of the house performs the sacred ritual of lighting two candles." `[真题]`
+> - "The daily ritual of mealtimes brings the family together." `[真题]`
+> - "He went through the ritual of lighting his cigar." `[真题]`
 
 
 ---

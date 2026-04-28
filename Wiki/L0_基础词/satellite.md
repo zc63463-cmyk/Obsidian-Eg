@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**卫星**==（人造卫星或天然卫星）；②==**卫星国，附庸**==；③随从，追随者；
+**n.** ①==**卫星**== `artificial/communications satellite` [通用]；②==**卫星国，附庸**== `a satellite state` [正式]；③随从，追随者；
 **adj.** ①卫星的；②附庸的；
 
 > [!tip] 原型义
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country launched a new communications satellite into orbit."（该国向轨道发射了一颗新的通信卫星——考研阅读科技话题常见表达）
-> - "During the Cold War, Eastern European countries were often seen as Soviet satellite states."（冷战期间，东欧国家常被视为苏联的卫星国——考研阅读历史/政治话题常见表达）
+> - "The country launched a new communications satellite into orbit." `[真题]`
+> - "During the Cold War, Eastern European countries were often seen as Soviet satellite states." `[真题]`
+> - "Italy became a satellite state of Germany by the end of the 1930s." `[权威语料]`
+> - "Meanwhile the weather bureau was studying the latest meteorological photographs which had been transmitted by satellite." `[权威语料]`
 
 
 ---

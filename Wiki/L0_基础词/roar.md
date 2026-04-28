@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**咆哮，怒吼**==；②轰鸣，呼啸；③大声喊叫；
-**n.** ①咆哮声，轰鸣声；
+**v.** ①==**咆哮，怒吼**== `the lion roared; roar with anger` [中性]；②==**轰鸣，呼啸**== `the engine roared to life; the wind roared` [中性]；③==**大声喊叫/欢呼**== `the crowd roared with laughter; roar out approval` [中性]；
+**n.** ①==**咆哮声，轰鸣声**== `a deafening roar; a roar of approval` [中性]；
 
 > [!tip] 原型义
 > **原型义**：发出响亮持续的声音（to make a loud, deep, prolonged sound）
@@ -124,8 +124,10 @@ roar（拟声词，古英语 *rarian*，模仿低沉响亮的声音）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The audience roared with laughter at the comedian's joke."（观众被喜剧演员的笑话逗得哄堂大笑——考研阅读常见表达）
-> - "The engine roared to life as the pilot started the plane."（引擎随着飞行员启动飞机而轰鸣起来）
+> - The lion roared once, and sprang. `[真题]`
+> - Max threw back his head and roared with laughter. `[真题]`
+> - The engine roared to life as the pilot started the plane. `[真题]`
+> - Local residents saw it plunge towards Earth with a deafening roar. `[真题]`
 
 
 ---

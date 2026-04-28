@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**粗鲁的，无礼的**==；②==**粗糙的，简陋的**==；③猛烈的，突然的；
+**adj.** ①==**粗鲁的，无礼的**== `rude behavior; it's rude to do something` [贬义]；②==**粗糙的，简陋的**== `a rude shelter; rude tools` [贬义]；③==**猛烈的，突然的**== `a rude awakening; a rude shock` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：未加工的、粗糙的（源自拉丁语 *rudis*，"未加工的、原始的"）
@@ -126,8 +126,9 @@ rud-(粗糙的/未加工的，拉丁语 *rudis*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is considered rude to interrupt someone while they are speaking."（在别人说话时打断对方被认为是不礼貌的。）
-> - "The economic crisis came as a rude awakening for many investors."（经济危机让许多投资者猛然觉醒。）
+> - It is considered rude to interrupt someone while they are speaking. `[真题]`
+> - The economic crisis came as a rude awakening for many investors. `[真题]`
+> - He's a very rude man. `[真题]`
 
 
 ---

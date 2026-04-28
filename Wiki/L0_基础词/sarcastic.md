@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**讽刺的，嘲讽的**==；②挖苦的；
+**adj.** ①==**讽刺的，嘲讽的**== `a sarcastic remark/tone` [通用]；②挖苦的；
 
 > [!tip] 原型义
 > **原型义**：撕裂血肉的（用言语像撕裂血肉一样伤害他人）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Paradox and irony are characteristics of her style."（悖论和反讽是她风格的特征——考研阅读文学评论话题相关表达，irony 与 sarcastic 语义相关）
-> - "He made a sarcastic comment about her new hairstyle."（他对她的新发型做了一番讽刺性的评论——考研阅读社交话题相关表达）
+> - "Paradox and irony are characteristics of her style." `[真题]`
+> - "He made a sarcastic comment about her new hairstyle." `[真题]`
+> - "She gave him a sarcastic smile." `[权威语料]`
+> - "His sarcastic comments about her cooking were very hurtful." `[权威语料]`
 
 
 ---

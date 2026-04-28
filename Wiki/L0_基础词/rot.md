@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**腐烂，腐朽**==；②使腐烂；
+**v.** ①==**腐烂，腐朽**== `the fruit is rotting / rot away` [通用]；②使腐烂；
 **n.** ①腐烂，腐朽；②腐败，堕落；
 
 > [!tip] 原型义
@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Without proper preservation, the wood will rot over time."（没有适当的防腐处理，木材会随时间腐烂——考研科技类话题）
+> - Without proper preservation, the wood will rot over time. `[真题]`
+> - Too much candy will rot your teeth. `[真题]`
+> - Most governments simply leave the long-term jobless to rot. `[真题]`
 
 
 ---

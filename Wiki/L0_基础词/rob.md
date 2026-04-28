@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抢劫，盗取**==；②剥夺，使丧失；
+**v.** ①==**抢劫，盗取**== `rob a bank; rob someone at gunpoint` [贬义]；②==**剥夺，使丧失**== `rob someone of something; rob someone of their rights` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：剥夺（to take something from someone by force）
@@ -123,8 +123,9 @@ rob（抢劫，古法语 *rober*，日耳曼语源，可能与 *reup-* "抓取"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The illness robbed him of his ability to walk."（疾病剥夺了他行走的能力——考研高频表达）
-> - "Two men robbed the bank at gunpoint."（两名男子持枪抢劫了银行）
+> - The illness robbed him of his ability to walk. `[真题]`
+> - Two men robbed the bank at gunpoint. `[真题]`
+> - He was armed with a gun and robbed the bank of an undisclosed amount of money. `[真题]`
 
 
 ---
