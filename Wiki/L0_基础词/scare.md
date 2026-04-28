@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**惊吓，使害怕**==；②==**受惊吓**==；
-**n.** ①==**惊恐，恐慌**==；②==**恐吓**==；
+**v.** ①==**惊吓，使害怕**== `V N` `V N away/off`；②==**受惊吓**== `be scared of N`；
+**n.** ①==**惊恐，恐慌**== `a N` `cause a N`；②==**恐吓**==；
 
 > [!tip] 原型义
 > **原型义**：突然受到惊吓（恐惧反应）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden outbreak of the epidemic caused widespread scare, leading to panic buying and hoarding of essential supplies."（疫情的突然爆发引发了广泛的恐慌，导致了对必需品的抢购和囤积——考研阅读社会话题相关表达）
-> - "Many people are scared of artificial intelligence, fearing that it may eventually replace human workers in various industries."（许多人对人工智能感到恐惧，担心它最终可能会在各行各业取代人类工人——考研阅读科技话题相关表达）
+> - "If something scares you, it frightens or worries you." `[Collins]`
+> - "A bomb scare forced the evacuation of the building." `[COCA-NEWS]`
+> - "Don't let the noise scare you — it's just the wind." `[例]`
 
 
 ---

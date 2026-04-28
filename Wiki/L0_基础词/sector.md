@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**部门，行业**==；②区域，地带；③扇形；④（计算机）扇区；
+**n.** ①==**部门，行业**== `the public sector` `the financial sector` [经济]；②区域，地带 `the southern sector` `the enemy sector` [军事]；③扇形 `a sector of a circle` [几何]；④（计算机）扇区；
 
 > [!tip] 原型义
 > **原型义**：切割出的区域（整体被切分后的一块扇形区域）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government made an investigation of the employment in the public and private sectors."（政府对国营和私营部门的就业情况作了一次调查。——柯林斯语料库）
-> - "For the high-tech sector, there are a few other interesting findings."（对于高科技行业，还有一些其他有趣的发现。——2019年12月四级真题听力）
+> - "The government made an investigation of the employment in the public and private sectors." `[真题]`
+> - "For the high-tech sector, there are a few other interesting findings." `[真题]`
+> - "Many scientists working for the government have left for the private sector." `[真题]`
+> - "Let's remember that the financial sector does not make anything." `[真题]`
 
 
 ---

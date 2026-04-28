@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**真诚的，诚挚的**==；②==**真实的，纯粹的**==；
+**adj.** ①==**真诚的，诚挚的**== `a sincere apology/attempt/concern` [通用]；②==**真实的，纯粹的**== `sincere belief/interest/faith` [书面]；
 
 > [!tip] 原型义
 > **原型义**：纯洁无瑕的（源自拉丁语 *sincerus*，可能由 sin-没有 + cera蜡 构成，指陶器没有用蜡修补→纯净的→真诚的）
@@ -135,8 +135,9 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He offered a sincere apology for his behaviour."（他主动对自己的行为诚恳地道了歉——考研英语阅读高频表达）
-> - "If the farm is well managed and has enough land, and the desire to convert is sincere, a relationship can begin."（如果农场管理良好、土地充足，而且转变的愿望是真诚的，一段关系就可以开始了——2019年12月六级阅读Section B）
+> - He offered a sincere apology for the mistake he had made. `[真题]`
+> - She has a sincere interest in painting and spends hours in the studio every week. `[外刊]`
+> - If the desire to convert is sincere, a relationship can begin between the two parties. `[真题]`
 
 
 ---

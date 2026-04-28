@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**情感；情绪**==；②==**观点；意见**==；③（基于情感的）态度；④多愁善感；
+**n.** ①==**情感；情绪**== `anti-government sentiment` [通用]；②==**观点；意见**== `share one's sentiments` [正式]；③（基于情感的）态度；④多愁善感；
 
 > [!tip] 原型义
 > **原型义**：内心的感觉（由情感驱动的看法）
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But the consumer sentiment index remains weak, and all the rebound has occurred in Americans' evaluation of future economic conditions, not the present."（但消费者信心指数仍然疲弱，所有反弹都出现在美国人对未来经济条件的评估上，而非当前——2016年英语一阅读）
-> - "It is possible that the Obama effect will be short-lived if there is a change in people's political sentiment."（如果人们的政治情绪发生变化，奥巴马效应可能是短暂的——2010年英语一Text 3）
+> - But the consumer sentiment index remains weak, and all the rebound has occurred in Americans' evaluation of future economic conditions, not the present. ` `[真题]`
+> - It is possible that the Obama effect will be short-lived if there is a change in people's political sentiment. ` `[真题]`
+> - The area has become a hotbed of anti-government sentiment. ` `[真题]`
 
 
 ---

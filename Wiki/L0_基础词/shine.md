@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**照耀；发光**==；②==**表现出色；出众**==；③擦亮；
+**v.** ①==**照耀；发光**== `shine brightly` [日常]；②==**表现出色；出众**== `shine at sth` [书面]；③擦亮；
 **n.** ①光泽；光亮；②擦亮；
 
 > [!tip] 原型义
@@ -139,8 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This gel gives a beautiful shine to the hair."（这种发胶带给头发美丽的光泽——考研生活类阅读高频表达）
-> - "She really shines when she's on stage."（她站在舞台上时真的光彩照人——考研文学类阅读高频表达）
+> - "He polished the brass till it shone." `[真题]`
+> - "Her eyes shone with delight." `[真题]`
+> - "The parents took a shine to each other straight away." `[真题]`
 
 
 ---

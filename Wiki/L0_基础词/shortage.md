@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**短缺，不足**==；②缺乏；
+**n.** ①==**短缺，不足**== `a shortage of sth` [日常] `suffer from shortage` [书面]；②缺乏；
 
 > [!tip] 原型义
 > **原型义**：切短了（不够用）
@@ -125,8 +125,9 @@ short(短的，不够) + -age(名词后缀，表状态/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "American farmers have been complaining of labor shortages for several years."（美国农场主多年来一直抱怨劳动力短缺。——2019年英语二Text 3）
-> - "One oft-debated cure for this labor shortage remains as implausible as it's been all along: Native U.S. workers won't do the jobs."（解决这一劳动力短缺的一个常被讨论的方法仍然像以往一样不切实际：美国本土工人不愿做这些工作。——2019年英语二Text 3）
+> - "American farmers have been complaining of labor shortages for several years." `[真题]`
+> - "Water shortages and droughts will become more common as global climatic changes accelerate." `[真题]`
+> - "The country is facing a severe shortage of medical supplies." `[真题]`
 
 
 ---

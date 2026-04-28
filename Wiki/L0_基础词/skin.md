@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**皮，皮肤**==；②兽皮，毛皮；③外皮，外壳；
-**v.** ①剥皮；②擦破皮肤；
+**n.** ①==**皮，皮肤**== `skin deep / under the skin` [通用]；②兽皮，毛皮；③外皮，外壳；
+**v.** ①剥皮 `skin a rabbit` [书面]；②擦破皮肤；
 
 > [!tip] 原型义
 > **原型义**：皮肤（覆盖身体表面的薄层）
@@ -147,8 +147,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You know I've often wondered why people laugh at the picture of a big belly businessman slipping on a banana skin and falling on his bottom."（你知道我经常想，为什么人们看到大肚皮商人踩到香蕉皮滑倒摔屁股的图片会笑。——常见英语语料）
-> - "Polar bears have black skin under their fur."（北极熊的毛皮下面是黑色的皮肤。——常见英语语料）
+> - Beauty is only skin deep. ` `[语料库]`
+> - This government has an unhappy knack of slipping on banana skins. ` `[语料库]`
+> - Polar bears have black skin under their white fur. ` `[语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**浅的**==（水深不够）；②==**浅薄的，肤浅的**==（思想/感情不深）；
-**n.** ①浅滩，浅水处；
+**adj.** ①==**浅的**== `shallow water` `shallow end` [通用]；②==**浅薄的，肤浅的**== `a shallow thinker` `a shallow argument` [贬义]；
+**n.** ①浅滩，浅水处 `the shallows` [书面]；
 **v.** ①变浅；
 
 > [!tip] 原型义
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They waded the river at a shallow point."（他们在水浅处蹚过河。——有道词典双语例句）
-> - "He's a shallow, disagreeable man."（他是个浅薄、不友好的人。——有道词典双语例句）
+> - These fish are found in shallow waters around the coast. ` `[真题]`
+> - Symptoms include rapid shallow breathing, dizziness, and nose bleeds. ` `[真题]`
+> - If he's only interested in your looks, that shows how shallow he is. ` `[真题]`
 
 
 ---

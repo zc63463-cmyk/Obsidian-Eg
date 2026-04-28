@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**单一的，单个的**==；②==**单身的**==；③==**唯一的**==；④单人的；
+**adj.** ①==**单一的，单个的**== `a single room/day/solution` [通用]；②==**单身的**== `single parent/family/mother` [通用]；③==**唯一的**== `the single most important factor` [书面]；④单人的；
 **n.** ①单曲；②单打；③一元纸币；
-**v.** ①==**选出，挑出**==（single out）；
+**v.** ①==**选出，挑出**== `single sb out for sth` [通用]；
 
 > [!tip] 原型义
 > **原型义**：单一的（只有一个的，源自拉丁语 *singulus*，与 simulus 同源）
@@ -145,8 +145,9 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is no single solution to the problem of climate change."（气候变化问题没有单一的解决方案——考研英语阅读高频表达）
-> - "She was singled out for special training."（她被挑选出来接受特殊训练——考研英语阅读）
+> - There is no single solution to the problem of climate change. `[真题]`
+> - She was singled out for special training because of her outstanding performance. `[真题]`
+> - Many of the children at the school come from single parent families. `[外刊]`
 
 
 ---

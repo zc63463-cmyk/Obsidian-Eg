@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**装运；运输**==；②==**装载的货物**==（一批货）；
+**n.** ①==**装运；运输**== `ready for shipment` [书面]；②==**装载的货物**== `a shipment of sth` [书面]；
 
 > [!tip] 原型义
 > **原型义**：用船运送的货物（通过船只运输的商品）
@@ -133,8 +133,9 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Forty years ago, the process of exporting or importing involved a great many stages of handling, which risked portions of the shipment being damaged or stolen along the way."（40年前，出口或进口的过程涉及到许多操作步骤，这可能会导致一部分货物在运输过程中受损或被盗——考研经济类阅读高频表达）
-> - "The goods are ready for shipment."（货物备妥待运——考研商务类阅读高频表达）
+> - "Your order will be ready for shipment tomorrow." `[真题]`
+> - "Shipments of cars to Middle East markets have risen steadily." `[真题]`
+> - "A shipment of urgent medical supplies is expected to arrive very soon." `[真题]`
 
 
 ---

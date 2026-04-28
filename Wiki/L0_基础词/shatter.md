@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**粉碎，砸碎**==（猛烈撞击后碎裂）；②==**使破灭，使震惊**==（希望、梦想等）；③使极为惊恐；
-**n.** ①碎片；②==**极度震惊的状态**==；
+**v.** ①==**粉碎，砸碎**== `shatter the window/shatter into pieces` [书面/口语]；②==**使破灭，使震惊**== `shatter one's dreams/illusions` [书面]；③使极为惊恐 `shattered by the news` [书面]；
+**n.** ①碎片；②==**极度震惊的状态**== `a shattered look` [书面]；
 
 > [!tip] 原型义
 > **原型义**：破碎成片（猛烈撞击后碎裂成许多碎片）
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The second is the way PDD has shattered the myth of an impregnable fortress surrounding the titans of online shopping."（其二是拼多多如何粉碎了网购巨头的堡垒坚不可摧的错误认知。——《经济学人》）
-> - "What it did shatter was the myth that a triumphant United States could bend the world to its will."（如果说它粉碎了什么，那就是一个凯旋的美国可以随心所欲地塑造世界的神话。——英文之旅例句）
+> - "The earthquake shattered all the windows in the building." `[真题]`
+> - "A tragic accident shattered her dreams of Olympic glory." `[真题]`
+> - "The defeat shattered her confidence." `[真题]`
 
 
 ---

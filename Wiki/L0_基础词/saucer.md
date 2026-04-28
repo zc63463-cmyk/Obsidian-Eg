@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**茶碟，小圆碟**==（放在杯子下面的碟子）；
+**n.** ①==**茶碟，小圆碟**== `a N of N` `N and N`；
 
 > [!tip] 原型义
 > **原型义**：盛调味汁的小碟子
@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She placed the delicate porcelain cup gently on its matching saucer, careful not to make a sound."（她轻轻地将精致的瓷杯放在配套的茶碟上，小心翼翼地不发出声响——考研翻译文学性描述相关表达）
-> - "In the 1950s, reports of 'flying saucers' sparked widespread public fascination with the possibility of extraterrestrial life."（在20世纪50年代，关于'飞碟'的报告引发了公众对外星生命可能性的广泛着迷——考研阅读科普话题相关表达）
+> - "The table was set with matching cups and saucers, bright silverware, and old plates." `[BNC-WRITTEN]`
+> - "He placed his cup and its flooded saucer separately on the coffee table and sat back in his chair." `[BNC-FICTION]`
+> - "The flying saucer was a popular motif in 1950s science fiction." `[COCA-ACAD]`
 
 
 ---

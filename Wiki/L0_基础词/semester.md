@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**学期**==；②半学年；
+**n.** ①==**学期**== `fall semester` `spring semester` [教育]；②半学年 `this semester` `first semester` [教育]；
 
 > [!tip] 原型义
 > **原型义**：六个月的时间段（半年）
@@ -127,8 +127,9 @@ semi-(半，拉丁语 *semi-*) + [[mest|mester]](月，拉丁语 *mensis*) → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "First, students were able to read a full-length authentic text in the first semester."（首先，学生在第一学期就能阅读一篇完整的原文文本——考研教育类阅读高频表达）
-> - "Naturalistic observations were carried out in the two classrooms over a 10-week period during the spring semester of the academic year."（在学年的春季学期，对两个教室进行了为期10周的自然观察——考研教育类阅读高频表达）
+> - "First, students were able to read a full-length authentic text in the first semester." `[真题]`
+> - "Naturalistic observations were carried out in the two classrooms over a 10-week period during the spring semester of the academic year." `[真题]`
+> - "The fall semester starts in September and ends in January." `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**猛关，猛摔**==；②猛力撞击；③猛烈抨击；
+**v.** ①==**猛关，猛摔**== `slam the door / slam the phone down` [通用]；②猛力撞击 `slam into sth` [通用]；③猛烈抨击 `slam sb/sth for sth` [书面]；
 **n.** ①砰的一声（关门声）；
 
 > [!tip] 原型义
@@ -145,8 +145,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He slammed the brakes on when a child ran in front of his car."（一个孩子跑到他车前时，他猛踩了刹车。——剑桥词典例句）
-> - "She slammed the door shut."（她砰地关上了门。——剑桥词典例句）
+> - He slammed the brakes on when a child ran in front of his car. ` `[语料库]`
+> - She slammed the door behind her and walked away. ` `[语料库]`
+> - The car behind me slammed into the back of me when I stopped suddenly. ` `[语料库]`
 
 
 ---

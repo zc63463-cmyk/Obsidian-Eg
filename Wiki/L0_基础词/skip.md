@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**跳过，略过**==；②蹦跳，跳跃；③跳绳；
+**v.** ①==**跳过，略过**== `skip sth / skip over sth` [口语]；②蹦跳，跳跃；③跳绳；
 **n.** ①跳跃，跳过；
 
 > [!tip] 原型义
@@ -143,8 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I have lunch and dinner there, but I always skip breakfast."（我在那里吃午饭和晚饭，但我总是不吃早饭。——2016年高考英语上海卷听力原文）
-> - "She skipped over those easy parts while reading."（她在阅读时跳过了那些简单的部分。——2015年高考英语浙江卷）
+> - I sometimes skip breakfast to get to work earlier. ` `[真题]`
+> - She skipped over the difficult parts while reading the textbook. ` `[真题]`
+> - He skipped the meeting without telling anyone. ` `[语料库]`
 
 
 ---

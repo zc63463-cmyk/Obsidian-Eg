@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**摇动，摇晃**==；②==**颤抖，发抖**==；③动摇（信念等）；④甩干，抖落；
+**v.** ①==**摇动，摇晃**== `shake hands` `shake one's head` [通用]；②==**颤抖，发抖**== `shake with fear` `voice shaking` [通用]；③动摇（信念等）；④甩干，抖落；
 **n.** ①摇动；②==**奶昔**==（milkshake 缩写）；
 
 > [!tip] 原型义
@@ -139,8 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scandal shook the nation and led to widespread protests."（这场丑闻震惊全国，引发了广泛的抗议。——常见新闻语料）
-> - "Her voice was shaking as she delivered the eulogy."（她在致悼词时声音颤抖。——常见文学表达）
+> - The incident had shaken her faith in him. ` `[真题]`
+> - Her voice shook as she talked about the person who attacked her. ` `[真题]`
+> - My hand shook so much that I could hardly hold the microphone. ` `[真题]`
 
 
 ---

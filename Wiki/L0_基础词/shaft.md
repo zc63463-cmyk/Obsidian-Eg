@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**轴，杆**==（长杆状物）；②==**竖井，通道**==（垂直的通道）；③（光）束，光线；④（批评等）一通，一阵；
-**v.** ①欺骗，剥削（口语）；
+**n.** ①==**轴，杆**== `drive shaft` `arrow shaft` [工程]；②==**竖井，通道**== `mine shaft` `elevator shaft` [通用]；③（光）束，光线 `a shaft of sunlight` [书面/文学]；④（批评等）一通，一阵 `a shaft of criticism` [书面]；
+**v.** ①欺骗，剥削 `give somebody the shaft` [口语]；
 
 > [!tip] 原型义
 > **原型义**：长杆（细长的柱状物体）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A shaft of sunlight pierced the gloom of the forest."（一束阳光穿透了森林的幽暗。——常见文学表达）
-> - "The miners were trapped 300 meters down the shaft."（矿工们被困在竖井下300米处。——常见新闻语料）
+> - A shaft of sunlight came through the open door. ` `[真题]`
+> - The miners fear being infected because social distancing is near impossible inside deep mine shafts. ` `[真题]`
+> - There was a rare shaft of light from a broker specialising in smaller companies. ` `[真题]`
 
 
 ---

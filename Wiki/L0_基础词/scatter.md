@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**撒，撒播**==（将某物随意抛洒到各处）；②==**散开，驱散**==（使人群或事物向不同方向分散）；③==**分散，散布**==（使思想、注意力等分散）；
+**v.** ①==**撒，撒播**== `scatter sth. over/on sth.` [书面]；②==**散开，驱散**== `scatter in all directions` [通用]；③==**分散，散布**== `scattered + adj.` [通用]；
 **n.** ①散布，撒播；
 
 > [!tip] 原型义
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots."（地球上散落分布着100多个互不相连的小火山活动区，被地质学家称为热点。——1998年考研英语阅读Text 5，经典长难句）
-> - "The crowd scattered in all directions when the police arrived."（警察到达时，人群向四面八方散开。——考研阅读社会话题相关表达）
+> - "Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots." `[真题]`
+> - "The crowd scattered in all directions when the police arrived." `[真题]`
+> - "Her ashes were scattered at sea." `[语料库]`
+> - "Debris from the aircraft was scattered over a large area." `[语料库]`
 
 
 ---

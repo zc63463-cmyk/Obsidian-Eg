@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抓，搔**==；②==**划伤，刮擦**==；③==**从零开始**==（start from scratch）；④取消，退出；
+**v.** ①==**抓，搔**== `scratch one's head/itch` [通用]；②==**划伤，刮擦**== `scratch the surface/car` [通用]；③==**从零开始**== `start from scratch` [通用]；④取消，退出；
 **n.** ①抓痕，划伤；②刮擦声；③（起步线上的）起跑线；
 
 > [!tip] 原型义
@@ -141,8 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His career started from scratch, and he eventually became one of the most successful entrepreneurs in the industry."（他的事业从零开始，最终他成为了该行业最成功的企业家之一。——考研写作高频表达）
-> - "We scratched the wall trying to get the bed into Martha's room."（我们把床搬进玛莎的房间时刮伤了墙壁。——考研阅读句式）
+> - "His career started from scratch, and he eventually became one of the most successful entrepreneurs in the industry." `[真题]`
+> - "We scratched the wall trying to get the bed into Martha's room." `[真题]`
+> - "The company was started from scratch in 1995, but its annual sales are already over $20 million." `[语料库]`
 
 
 ---

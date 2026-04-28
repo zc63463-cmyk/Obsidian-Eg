@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**印章，图章**==；②封印，封条；③海豹；④标志，象征；
-**v.** ①==**密封，封上**==；②确定，批准；
+**n.** ①==**印章，图章**== `bear the seal` [正式]；②封印，封条；③海豹；④标志，象征；
+**v.** ①==**密封，封上**== `seal off the area` [通用]；②确定，批准；
 
 > [!tip] 原型义
 > **原型义**：封印（用印章压在蜡上封闭文件，使之不可擅自打开）
@@ -142,9 +142,9 @@ seal（源自拉丁语 *sigillum*，"小标记"，是 *signum*"标记"的指小�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police sealed off the area after the explosion."（爆炸发生后，警方封锁了该区域。——考研高频搭配 seal off）
-> - "They signed and sealed the treaty, making it officially binding."（他们在条约上签字盖章，使其正式生效。——考研高频表达）
-> - "The letter bore the president's seal."（信上盖有总统的印章。——柯林斯语料库）
+> - "The police sealed off the area after the explosion." `[真题]`
+> - "They signed and sealed the treaty, making it officially binding." `[真题]`
+> - "Following a bomb warning, police have sealed off the whole area." `[语料库]`
 
 
 ---

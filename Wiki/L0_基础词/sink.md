@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**下沉，沉没**==；②==**降低，下降**==；③==**使陷入**==；④渗透；
-**n.** ①==**水槽，洗涤槽**==；②洼地，坑；
+**v.** ①==**下沉，沉没**== `The ship sank/sink to the bottom` [通用]；②==**降低，下降**== `Prices/standards sank` [通用]；③==**使陷入**== `sink into debt/despair` [书面]；④渗透；
+**n.** ①==**水槽，洗涤槽**== `kitchen/bathroom sink` [通用]；②洼地，坑；
 
 > [!tip] 原型义
 > **原型义**：下沉（沉入水中/地面以下）
@@ -142,8 +142,9 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The boat was beginning to sink fast."（那艘船开始迅速下沉——考研英语阅读高频表达）
-> - "Researchers also point to the time sink that is involved in preparing data for others to view."（研究人员还指出了准备数据以供他人查看所耗费的时间——考研英语阅读）
+> - The foundations of the building are starting to sink into the ground. `[真题]`
+> - Researchers also point to the time sink that is involved in preparing data for others to view. `[真题]`
+> - With a sinking heart, she signed the papers to sell the house. `[外刊]`
 
 
 ---

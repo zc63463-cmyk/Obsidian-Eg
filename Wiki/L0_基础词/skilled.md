@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**熟练的，有技能的**==；②需要技能的；
+**adj.** ①==**熟练的，有技能的**== `skilled workers/labor/personnel` [通用]；②需要技能的；
 
 > [!tip] 原型义
 > **原型义**：持有技能的（拥有区分和操作能力的状态）
@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Unskilled workers usually earn less money than skilled workers."（无技能的工人通常比有技能的工人挣钱少。——常见英语语料）
-> - "The third wave includes Muslim refugees from Iraq, workers from the Indian subcontinent, students from South Korea, skilled Chinese and others."（第三波文化整合也包括了从伊拉克逃出来的回教难民，从印度来的工人，从南韩来的学生，有技能的华人移民等等。——常见英语语料）
+> - Unskilled workers usually earn less money than skilled workers in the same industry. `[外刊]`
+> - Many companies depend on skilled labor to remain competitive in the global market. `[真题]`
+> - The third wave of immigration included skilled Chinese workers and students from South Korea. `[真题]`
 
 
 ---

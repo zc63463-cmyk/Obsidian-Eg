@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**警报器，汽笛**==；②（希腊神话中）用歌声引诱水手的海妖；③==**危险的诱惑**==；
+**n.** ①==**警报器，汽笛**== `air-raid/ambulance/police siren` [通用]；②（希腊神话中）用歌声引诱水手的海妖；③==**危险的诱惑**== `siren call/siren song` [书面]；
 **vi.** ①鸣着警报器行驶；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The siren song of the open road has always tempted young adventurers to leave home and explore the unknown."（开放道路的致命诱惑总是吸引着年轻的冒险者离开家乡探索未知——外刊常见表达）
-> - "Air-raid sirens sounded to warn everyone in the city that an attack was coming."（空袭警报响起，提醒城里的人空袭即将来临——剑桥词典例句）
+> - The nation came to a standstill in a two-minute silence, signalled by deafening air-raid sirens. `[外刊]`
+> - The siren song of the open road has always tempted young adventurers to leave home and explore the unknown. `[外刊]`
+> - Just then, she heard the loud blaring sound of an ambulance siren as it screamed by her vehicle. `[外刊]`
 
 
 ---

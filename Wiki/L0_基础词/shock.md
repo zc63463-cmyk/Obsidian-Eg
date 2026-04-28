@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**震惊；惊愕**==；②==**冲击；撞击**==；③电击；④休克（医学）；
-**v.** ①使震惊；②使电击；
+**n.** ①==**震惊；惊愕**== `come as a shock` [日常] `be shocked by/at` [书面]；②==**冲击；撞击**== `the shock of sth` [书面] `shock absorber` [学术]；③电击；④休克（医学）；
+**v.** ①==**使震惊**== `shock sb` [日常] `be shocked to do` [书面]；②使电击；
 
 > [!tip] 原型义
 > **原型义**：猛烈撞击（物体间的剧烈碰撞）
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But this and other price shocks were event-driven—drought in the Soviet Union, crop-shrinking heat in the U.S. Corn Belt."（但这些和其他价格冲击都是由事件驱动的——苏联的干旱、美国玉米带的酷热——考研经济类阅读）
-> - "Her mother's death came as a great shock—it was so unexpected."（她母亲的去世让人倍感震惊——简直太出乎意料了——考研阅读高频表达）
+> - "Her death came as a great shock to the entire community." `[真题]`
+> - "She stood there in shock, unable to speak." `[真题]`
+> - "The news shocked the whole country and sparked widespread protests." `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**攀爬，爬行**==；②==**争夺，抢夺**==；③匆忙行事；④炒（蛋）；
+**v.** ①==**攀爬，爬行**== `scramble up/over sth.` [通用]；②==**争夺，抢夺**== `scramble for sth.` [通用]；③匆忙行事；④炒（蛋）；
 **n.** ①艰难的攀爬；②争夺，争抢；③混乱；④炒蛋；
 
 > [!tip] 原型义
@@ -140,8 +140,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "More than three million fans are expected to scramble for tickets."（预计超过三百万球迷将争抢门票。——考研阅读高频表达）
-> - "There was an undignified scramble for the best seats."（大家争抢最好的位子，真是有失体统。——考研阅读句式）
+> - "More than three million fans are expected to scramble for tickets." `[真题]`
+> - "People are scrambling to buy property before prices rise even further." `[语料库]`
+> - "We scrambled up the hill." `[语料库]`
+> - "A fight broke out in the crowd, causing people to scramble for the exits." `[语料库]`
 
 
 ---

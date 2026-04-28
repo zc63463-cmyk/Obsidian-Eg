@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**半导体**==；
+**n.** ①==**半导体**== `semiconductor industry` `semiconductor chip` [科技]；
 
 > [!tip] 原型义
 > **原型义**：半导体（导电性介于导体和绝缘体之间的材料）
@@ -128,8 +128,9 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next casualty."（人们曾一度感觉下一个在海外品牌面前全军覆没的似乎该轮到美国的半导体制造业了，而在新计算机时代有着核心作用的半导体正是美国发明的——2000年英语一Text 1）
-> - "Studies of the most patent-conscious business of all—the semiconductor industry—suggest that firms do not necessarily become more innovative as they increase their patenting activity."（对所有行业中最具专利意识的行业——半导体产业——的研究表明，企业增加专利活动并不一定变得更创新——考研阅读高频表达）
+> - "For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next casualty." `[真题]`
+> - "Studies of the most patent-conscious business of all—the semiconductor industry—suggest that firms do not necessarily become more innovative as they increase their patenting activity." `[真题]`
+> - "Supply chain problems have led to a semiconductor shortage, which means new EVs can be hard to find in some markets." `[真题]`
 
 
 ---

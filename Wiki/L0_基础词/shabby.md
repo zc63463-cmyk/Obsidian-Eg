@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**破旧的，衣衫褴褛的**==；②==**卑鄙的，不公正的**==；③（行为）可耻的，低劣的；
+**adj.** ①==**破旧的，衣衫褴褛的**== `a shabby room` `shabby clothes` [通用]；②==**卑鄙的，不公正的**== `shabby treatment` `a shabby trick` [贬义]；③（行为）可耻的，低劣的 `a shabby excuse` [口语]；
 
 > [!tip] 原型义
 > **原型义**：破旧不堪（因长期磨损而失去体面的样子）
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was hard to say why the man deserved such shabby treatment."（真搞不懂为什么这个人就该受到如此不公正的待遇。——Cambridge Dictionary 权威例句）
-> - "He walked past her into a tiny, shabby room."（他从她身边经过，走进了一个狭小简陋的房间。——Cambridge Dictionary 权威例句）
+> - Her home is a rented one-bedroom apartment in a shabby part of town. ` `[真题]`
+> - She wore shabby black clothes, with holes in the elbows of her jacket. ` `[真题]`
+> - It was hard to say why the man deserved such shabby treatment. ` `[真题]`
 
 
 ---

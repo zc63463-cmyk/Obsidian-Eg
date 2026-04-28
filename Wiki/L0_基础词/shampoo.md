@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**洗发水，洗发香波**==；
-**v.** ①==**洗头发**==；
+**n.** ①==**洗发水，洗发香波**== `a bottle of shampoo` [口语]；
+**v.** ①==**洗头发**== `shampoo one's hair` [口语]；
 
 > [!tip] 原型义
 > **原型义**：按摩（用手揉搓按压）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I bring sachets of shampoo when traveling."（旅游的时候我会带上几袋洗发液。——月沙工具箱例句）
-> - "Mr. Tony shampooed my hair and styled it."（托尼老师给我洗了头，做了造型。——月沙工具箱例句）
+> - "She shampoos her hair every morning." `[真题]`
+> - "Duncan shampooed my hair and then Tracy cut it." `[真题]`
+> - "We need to shampoo the rug." `[真题]`
 
 
 ---

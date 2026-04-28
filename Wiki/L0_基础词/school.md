@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**学校**==；②==**学派，流派**==（学术思想或艺术风格）；③（大学的）学院，系；④上学，上课；
-**v.** ①==**训练，教育**==；②训练（马等），驯服；
+**n.** ①==**学校**== `go to/attend school` [通用]；②==**学派，流派**== `a school of thought` [书面] `the ... school of economics` [书面]；③（大学的）学院，系；④上学，上课；
+**v.** ①==**训练，教育**== `school sb. in sth.` [书面]；②训练（马等），驯服；
 
 > [!tip] 原型义
 > **原型义**：闲暇之所（学习的场所）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Chicago school of economics has had a profound influence on government policy."（芝加哥经济学派对政府政策产生了深远影响。——考研阅读学术话题高频表达）
-> - "Children must attend school between the ages of 6 and 16 by law."（法律规定6至16岁的儿童必须上学。——考研翻译教育话题相关表达）
+> - "The Chicago school of economics has had a profound influence on government policy." `[真题]`
+> - "Children must attend school between the ages of 6 and 16 by law." `[真题]`
+> - "There are two schools of thought about how this illness should be treated." `[语料库]`
+> - "He belongs to the school of thought that says competition can be very stimulating for children." `[语料库]`
 
 
 ---

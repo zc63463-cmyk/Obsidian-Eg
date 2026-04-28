@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**侦察兵，侦察机**==；②==**童子军**==；③星探，人才发掘者；
+**n.** ①==**侦察兵，侦察机**== `send a scout` [通用]；②==**童子军**== `Boy Scouts` [通用]；③星探，人才发掘者；
 **v.** ①侦察，搜索；②物色（人才）；③寻找，搜寻；
 
 > [!tip] 原型义
@@ -139,8 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The commander sent a scout to take a look at the bridge."（指挥官派了一个侦察兵去查看大桥的状况。——考研翻译高频句式）
-> - "More than three million fans are expected to scramble for tickets."（预计超过三百万球迷将争抢门票。——考研阅读高频表达，与 scout 同源 sc- 词族）
+> - "The commander sent a scout to take a look at the bridge." `[真题]`
+> - "American companies are keen to scout out business opportunities in Vietnam." `[语料库]`
+> - "Manchester United's chief scouts travel the world looking for talented young players." `[语料库]`
+> - "I'm scouting round for a place to stay." `[语料库]`
 
 
 ---

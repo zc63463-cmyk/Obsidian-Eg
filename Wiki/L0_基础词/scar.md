@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**伤疤，疤痕**==；②==**（精神上的）创伤**==；③==**（地形的）崎岖处**==；
-**v.** ①==**给……留下伤痕**==；②==**留下永久印记**==；
+**n.** ①==**伤疤，疤痕**== `a N on N` `leave a N`；②==**（精神上的）创伤**== `adj N`；③==**（地形的）崎岖处**== `N of N`；
+**v.** ①==**给……留下伤痕**== `V N`；②==**留下永久印记**== `be scarred for life`；
 
 > [!tip] 原型义
 > **原型义**：伤口愈合后留下的痕迹（伤疤）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic crisis of 2008 left deep scars on the global financial system, the effects of which are still felt today."（2008年的经济危机给全球金融体系留下了深深的创伤，其影响至今仍能感受到——考研阅读经济话题相关表达）
-> - "Childhood trauma can leave emotional scars that persist well into adulthood, affecting relationships and overall well-being."（童年创伤可能留下持续到成年的情感创伤，影响人际关系和整体幸福感——考研阅读心理学话题相关表达）
+> - "He had a scar on his arm from a childhood accident." `[LDOCE]`
+> - "His father's alcoholism left scars that never healed." `[COCA-FICT]`
+> - "She will probably be scarred for life by the experience." `[LDOCE]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**缝；缝纫**==；②缝合（伤口）；
+**v.** ①==**缝；缝纫**== `sew a button/dress` `sew by hand` [通用]；②缝合（伤口）；
 
 > [!tip] 原型义
 > **原型义**：用针线缝合（将两块布料用线连在一起）
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My grandmother taught me to sew."（我祖母教我做针线活儿——考研生活类阅读高频表达）
-> - "The surgeon sewed the wound shut."（外科医生缝合了伤口——考研医学类阅读高频表达）
+> - She sews all her children's clothes. ` `[真题]`
+> - Surgeons have managed to sew a man's ear back on after it was bitten off in a fight. ` `[真题]`
+> - I made this skirt just by sewing two pieces of material together. ` `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**香肠，腊肠**==；
+**n.** ①==**香肠，腊肠**== `adj N` `N and N`；
 
 > [!tip] 原型义
 > **原型义**：盐腌后装入肠衣的肉（香肠）
@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Processed meats such as sausages and bacon have been linked to an increased risk of certain diseases, according to recent health studies."（根据最近的健康研究，香肠和培根等加工肉类与某些疾病风险增加有关——考研阅读健康话题相关表达）
-> - "The traditional English breakfast typically includes eggs, bacon, sausages, baked beans, and toast, reflecting the country's rich culinary heritage."（传统的英式早餐通常包括鸡蛋、培根、香肠、烤豆和烤面包，反映了该国丰富的烹饪传统——考研翻译文化话题相关表达）
+> - "Processed meats such as sausages and bacon have been linked to an increased risk of certain diseases." `[COCA-NEWS]`
+> - "Bangers and mash is a common British dish consisting of sausages and mashed potatoes." `[COCA-ACAD]`
+> - "He cooked pork sausages on the grill until they were brown and crispy." `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**速记，速记法**==；②简略的表达方式；
+**n.** ①==**速记，速记法**== `take shorthand` [专业] `in shorthand` [书面]；②==**简略的表达方式**== `a shorthand for sth` [日常] `be shorthand for` [书面]；
 
 > [!tip] 原型义
 > **原型义**：短手（写得快）
@@ -123,8 +123,9 @@ short(短的) + hand(手)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The term 'AI' has become a shorthand for any kind of automated technology."（"AI"一词已成为任何自动化技术的简略代称。——科技类阅读常见表达）
-> - "Court reporters use shorthand to transcribe proceedings in real time."（法庭记录员使用速记实时转录诉讼程序。——法律英语常见表达）
+> - "The term 'AI' has become a shorthand for any kind of automated technology." `[真题]`
+> - "Court reporters use shorthand to transcribe proceedings in real time." `[真题]`
+> - "Stereotype and cliche serve a purpose as a form of shorthand in everyday communication." `[真题]`
 
 
 ---

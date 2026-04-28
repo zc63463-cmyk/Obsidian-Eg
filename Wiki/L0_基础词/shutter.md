@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**百叶窗，窗板**==；②（照相机的）快门；③关闭装置；
-**v.** ①==**关闭**==（企业、窗户等）；②装百叶窗于；
+**n.** ①==**百叶窗，窗板**== `open/close the shutters; wooden shutters` [中性]；②（照相机的）快门；③关闭装置；
+**v.** ①==**关闭**== `shutter a business/factory; shuttering plants` [中性/正式]；②装百叶窗于；
 
 > [!tip] 原型义
 > **原型义**：关闭装置（用来关闭的板/门）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The camera has a fast shutter speed."（这台相机的快门速度很快。——英语角例句）
-> - "The factory was shuttered due to financial problems."（这家工厂因财务问题被关闭。——英语角例句）
+> - "Some automakers are temporarily shuttering plants in response to falling demand." `[剑桥词典]`
+> - "We closed the shutters and withdrew into ourselves." `[柯林斯词典]`
+> - "He took pictures by pressing the shutter release with his stronger left thumb." `[柯林斯词典]`
 
 
 ---

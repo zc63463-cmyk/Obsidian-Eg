@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**射击；开枪**==；②==**注射**==；③==**镜头；照片**==；④射门；投篮；⑤尝试；
+**n.** ①==**射击；开枪**== `take a shot at sb/sth; hear a shot` [中性]；②==**注射**== `a shot of penicillin/flu shot` [医学/正式]；③==**镜头；照片**== `a close-up shot; the shot of a lifetime` [中性]；④射门；投篮；⑤尝试；
 **v.** shoot 的过去式和过去分词；
-**adj.** ①==**用尽的；破旧的**==；②闪色的；
+**adj.** ①==**用尽的；破旧的**== `my nerves are shot; a shot tire` [口语/消极]；②闪色的；
 
 > [!tip] 原型义
 > **原型义**：射出的动作/结果（shoot 的过去式和过去分词）
@@ -142,8 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is impossible that a single shot of education, administered in childhood and early adulthood, will be able to support a sustained, 60-year career."（在童年和成年早期接受的一次性教育，不可能支撑一段持续的60年职业生涯——考研教育类阅读）
-> - "Police frequent the area day and night, as two months ago, a young man was shot just down the street."（警察日夜频繁巡逻该地区，因为两个月前就在这条街上，一个年轻人被枪击——考研社会类阅读高频表达）
+> - "It is impossible that a single shot of education, administered in childhood and early adulthood, will be able to support a sustained, 60-year career." `[真题]`
+> - "Police frequent the area day and night, as two months ago, a young man was shot just down the street." `[真题]`
+> - "I've never tried bowling before, but I thought I'd give it a shot." `[剑桥词典]`
+> - "Just give it your best shot and you'll be fine." `[牛津词典]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**锯子**==（切割工具）；②==**格言，谚语**==（旧用法，现为 *saying*）；③==**saw 的过去式**==（see 的过去式，同形异义）；
-**v.** ①==**锯，锯开**==；②==**see 的过去式**==；
+**n.** ①==**锯子**== `a N` `adj N`；②==**格言，谚语**== `an adj N`；③==**saw 的过去式**==（see 的过去式，同形异义）；
+**v.** ①==**锯，锯开**== `V N` `V N in/through half`；②==**see 的过去式**==；
 
 > [!tip] 原型义
 > **原型义**：用锯子切割（切割工具或切割动作）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As the old saw goes, 'Practice makes perfect' — a principle that applies equally well to learning a foreign language as to mastering any other skill."（正如那句老话所说，'熟能生巧'——这个原则同样适用于学习外语和掌握任何其他技能——考研翻译谚语相关表达）
-> - "The construction workers used power saws to cut through the thick steel beams, filling the air with sparks and the sound of grinding metal."（建筑工人使用电动锯切割厚重的钢梁，空气中充满了火花和金属摩擦的声音——考研翻译描述性文本相关表达）
+> - "That reminds me of the old saw about being careful about what you wish for." `[LDOCE]`
+> - "Their versatility means a circular saw is not always needed." `[COCA-ACAD]`
+> - "In sum, their experience reverses the old saw about immigration and prosperity." `[COCA-ACAD]`
 
 
 ---

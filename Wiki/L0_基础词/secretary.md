@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**秘书**==；②==**部长，大臣**==；③书记，干事；
+**n.** ①==**秘书**== `executive secretary` `personal secretary` [通用]；②==**部长，大臣**== `Secretary of State` `the Treasury Secretary` [正式]；③书记，干事 `the club secretary` `general secretary` [通用]；
 
 > [!tip] 原型义
 > **原型义**：保管秘密的人（负责处理机密事务的人）
@@ -131,8 +131,9 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The 2004 Commercial Space Launch Amendments Act, intended to encourage private space vehicles and services, prohibits the transportation secretary from regulating private spacecraft."（2004年《商业空间发射修正法案》旨在鼓励私人航天器和服务，禁止运输部长对私人航天器进行监管。——六级真题）
-> - "She is secretary to the president."（她是总裁的秘书。——柯林斯语料库）
+> - "The 2004 Commercial Space Launch Amendments Act, intended to encourage private space vehicles and services, prohibits the transportation secretary from regulating private spacecraft." `[真题]`
+> - "He must have asked his secretary for the file on Andy, and she got the wrong one." `[真题]`
+> - "A company which has a sole director is required by law to have another person as its company secretary." `[真题]`
 
 
 ---

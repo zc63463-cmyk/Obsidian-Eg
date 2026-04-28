@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抓住，捉住**==；②==**夺取，占领**==；③==**没收，扣押**==；④把握（机会）；
+**v.** ①==**抓住，捉住**== `seize sb by the arm` `seize the gun` [通用]；②==**夺取，占领**== `seize power` `seize control of` [正式]；③==**没收，扣押**== `seize property` `seize assets` [法律]；④把握（机会） `seize the opportunity` `seize the moment` [通用]；
 
 > [!tip] 原型义
 > **原型义**：抓住（用手紧紧握住不放）
@@ -135,9 +135,9 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was eager to seize any opportunity that was offered."（她渴望抓住任何提供的机会。——牛津词典）
-> - "Customs agents last year seized $14 million in counterfeit electronics goods at the nation's ports."（海关人员去年在全国各港口查获了价值1400万美元的假冒电子产品。——剑桥英语语料库）
-> - "In most states the police can seize property they suspect has been used in a crime."（在大多数州，警方可以没收他们怀疑被用于犯罪的财产。——柯林斯语料库）
+> - "She was eager to seize any opportunity that was offered." `[真题]`
+> - "Customs agents last year seized $14 million in counterfeit electronics goods at the nation's ports." `[真题]`
+> - "In most states the police can seize property they suspect has been used in a crime." `[真题]`
 
 
 ---

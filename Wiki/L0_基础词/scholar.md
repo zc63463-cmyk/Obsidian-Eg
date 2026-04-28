@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**学者**==（从事学术研究的人）；②==**奖学金获得者**==（获得奖学金的学生）；③有学问的人，博学之人；
+**n.** ①==**学者**== `a distinguished/prominent scholar` [书面] `a visiting scholar` [书面]；②==**奖学金获得者**== `a Rhodes/Gates scholar` [书面]；③有学问的人，博学之人；
 
 > [!tip] 原型义
 > **原型义**：在闲暇中追求学问的人
@@ -130,8 +130,10 @@ schol-（=school，源自希腊语 *skholē* 闲暇/学校）+ -ar（名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a distinguished scholar in the field of Renaissance literature and has published numerous books on Shakespeare."（她是文艺复兴文学领域的杰出学者，出版了许多关于莎士比亚的著作。——考研阅读学术话题相关表达）
-> - "As a Rhodes scholar, he spent two years studying at Oxford University before pursuing a career in public service."（作为罗德学者，他在牛津大学学习了两年，然后开始了公共服务事业。——考研阅读教育话题相关表达）
+> - "She is a distinguished scholar in the field of Renaissance literature and has published numerous books on Shakespeare." `[真题]`
+> - "He was a King's scholar at Eton College." `[语料库]`
+> - "Biblical scholars have long debated the meaning of this passage." `[语料库]`
+> - "He is a scholar, a genuinely learned man." `[语料库]`
 
 
 ---

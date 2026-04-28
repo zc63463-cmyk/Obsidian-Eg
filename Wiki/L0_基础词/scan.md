@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**扫描，浏览**==（快速粗略地看）；②==**仔细检查，审视**==；③==**扫描（文件等）**==（计算机术语）；
-**n.** ①==**扫描**==（医学/计算机）；②==**快速浏览**==；
+**v.** ①==**扫描，浏览**== `V N`；②==**仔细检查，审视**== `V N for N`；③==**扫描（文件等）**== `V N`；
+**n.** ①==**扫描**== `a N` `adj N`；②==**快速浏览**== `a N`；
 
 > [!tip] 原型义
 > **原型义**：用目光仔细扫视（像光线扫描一样逐一检查）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rather than reading every word, experienced readers learn to scan a text quickly to locate the information they need."（有经验的读者学会了快速浏览文本以定位所需信息，而不是逐字阅读——考研阅读学习策略话题相关表达）
-> - "The doctor ordered a brain scan to rule out any serious neurological conditions after the patient reported persistent headaches."（在患者报告持续头痛后，医生安排了脑部扫描以排除任何严重的神经系统疾病——考研翻译医学话题相关表达）
+> - "Rather than reading every word, experienced readers learn to scan a text quickly to locate the information they need." `[COCA-ACAD]`
+> - "The doctor ordered a brain scan to rule out any serious neurological conditions." `[COCA-NEWS]`
+> - "She scanned the crowd for a familiar face but couldn't find anyone she knew." `[例]`
 
 
 ---

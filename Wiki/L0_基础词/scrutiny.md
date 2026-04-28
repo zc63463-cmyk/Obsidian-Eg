@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**仔细审查，详细检查**==；②==**监视，关注**==；③仔细观察；
+**n.** ①==**仔细审查，详细检查**== `under close scrutiny` [正式]；②==**监视，关注**== `under public/media scrutiny` [正式]；③仔细观察；
 
 > [!tip] 原型义
 > **原型义**：仔细翻检搜索（源自拉丁语 *scrutari*，原意为"翻检垃圾堆寻找有价值的东西"，引申为"仔细检查"）
@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers."（未经发表的原稿将会经由该杂志内部的编辑，或者是其现有的审核编辑委员会，又或是外部的同行评审专家来进行标记以备额外审查。——2015年英语一Text 3）
-> - "Her argument doesn't really stand up to scrutiny."（她的观点经不起认真推敲。——考研阅读高频表达）
-> - "Foreign policy has come under close scrutiny recently."（近来，政府的外交政策受到了认真彻底的审查。——考研翻译高频表达）
+> - "Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers." `[真题]`
+> - "Her argument doesn't really stand up to scrutiny." `[真题]`
+> - "The government's record will be subjected to close scrutiny in the weeks before the election." `[语料库]`
 
 
 ---

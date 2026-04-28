@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**缺点，短处**==；②不足之处；
+**n.** ①==**缺点，短处**== `overcome shortcomings` [书面] `despite shortcomings` [日常]；②不足之处；
 
 > [!tip] 原型义
 > **原型义**：来不到（达不到标准）
@@ -125,8 +125,9 @@ short(短的，不够) + coming(到来，名词化)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Like any political system, it has its shortcomings."（像任何政治体系一样，它也有其缺点。——剑桥词典例句）
-> - "Despite his shortcomings with computers, he was still an excellent colleague."（尽管他在使用电脑方面有不足，他仍然是一位优秀的同事。——中国日报例句）
+> - "Like any political system, it has its shortcomings." `[真题]`
+> - "Despite his shortcomings with computers, he was still an excellent colleague." `[真题]`
+> - "We must acknowledge the shortcomings of the current education system and work to improve them." `[真题]`
 
 
 ---

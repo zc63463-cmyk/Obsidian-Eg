@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**摩天大楼**==；
+**n.** ①==**摩天大楼**== `a towering skyscraper / skyscrapers dominate the skyline` [通用]；
 
 > [!tip] 原型义
 > **原型义**：摩天大楼（高到能刮到天空的建筑物）
@@ -136,8 +136,9 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The skyscraper dominates the city's skyline."（这座摩天大楼主宰着该市的天际线。——常见英语语料）
-> - "The construction of skyscrapers is often seen as a measure of economic growth."（摩天大楼的建设常被视为经济增长的一个指标。——常见英语语料）
+> - The skyscraper towered over the surrounding buildings. ` `[语料库]`
+> - You get a good view of the New York skyline from the Statue of Liberty. ` `[语料库]`
+> - The construction of skyscrapers transformed the city's landscape. ` `[语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**螺丝（钉）**==；②螺旋状物；③螺旋桨；④（英俚）性交；
-**v.** ①==**拧，拧紧**==；②==**勒索，诈骗**==；③扭曲（面部）；④弄糟，搞砸；
+**n.** ①==**螺丝（钉）**== `turn/loosen the screw` [通用]；②螺旋状物；③螺旋桨；④（英俚）性交；
+**v.** ①==**拧，拧紧**== `screw the lid on` [通用]；②==**勒索，诈骗**== `screw money out of sb.` [口语]；③扭曲（面部）；④弄糟，搞砸；
 
 > [!tip] 原型义
 > **原型义**：螺旋形的紧固件（源自古法语 *escrou*，螺钉，因螺旋形而得名）
@@ -143,8 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He screwed up the project by missing the deadline."（他因为错过了截止日期而搞砸了这个项目。——考研翻译高频表达）
-> - "The government put the screws on the company to comply with environmental regulations."（政府向该公司施压，要求其遵守环保法规。——考研阅读句式）
+> - "He screwed up the project by missing the deadline." `[真题]`
+> - "The government put the screws on the company to comply with environmental regulations." `[真题]`
+> - "We all screw up from time to time, so don't sweat it." `[语料库]`
 
 
 ---

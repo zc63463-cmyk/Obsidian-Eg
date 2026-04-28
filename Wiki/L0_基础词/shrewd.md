@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**精明的，敏锐的**==；②狡猾的；③判断准确的；
+**adj.** ①==**精明的，敏锐的**== `a shrewd businessman/observer; shrewd investment` [中性/正面]；②狡猾的；③判断准确的；
 
 > [!tip] 原型义
 > **原型义**：恶毒的（中世纪英语中指"恶毒的、泼辣的"，后语义转为"精明的"）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "TED uses a shrewd combination of paid-for and free products, the purpose of the latter being to generate buzz."（TED 巧妙地将付费产品和免费产品结合在一起，其中后者的目的是制造话题。——外刊例句）
-> - "These are shrewd observations, well worth raising for debate."（这些是敏锐的观察，很值得提出讨论。——剑桥词典例句）
+> - "TED uses a shrewd combination of paid-for and free products, the purpose of the latter being to generate buzz." `[外刊语料]`
+> - "These are shrewd observations, well worth raising for debate." `[剑桥词典]`
+> - "He made a shrewd observation about them just now." `[牛津词典]`
 
 
 ---

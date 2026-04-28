@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**袖子**==；②套筒，封套；
+**n.** ①==**袖子**== `roll up one's sleeves / long sleeves` [通用]；②套筒，封套 `record sleeve` [书面]；
 
 > [!tip] 原型义
 > **原型义**：袖子（衣服上包裹手臂的管状部分）
@@ -141,8 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sleeve of my jacket got caught on the door handle and ripped."（我夹克的袖子被门把手钩住撕破了。——剑桥词典例句）
-> - "I suggest that friends and family show up, roll up their sleeves, open their hearts and listen carefully and compassionately."（我建议朋友和家人到场，卷起袖子，敞开心扉，认真而富有同情地倾听。——《赫芬顿邮报》）
+> - We've planned everything — now it's time to roll up our sleeves and get started. ` `[语料库]`
+> - She simply doesn't wear her heart on her sleeve, so it's sometimes difficult to know what she's feeling. ` `[语料库]`
+> - The sleeve of my jacket got caught on the door handle and ripped. ` `[语料库]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**颅骨，头骨**==；②脑袋，头脑（非正式）；
+**n.** ①==**颅骨，头骨**== `fractured skull / human skull` [书面]；②脑袋，头脑（非正式） `thick skull / get it through one's skull` [口语]；
 
 > [!tip] 原型义
 > **原型义**：头骨（保护大脑的骨质外壳）
@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bullet punctured the skull."（子弹射穿了头骨。——常见英语语料）
-> - "She fell and fractured her skull."（她跌倒摔裂了颅骨。——常见英语语料）
+> - He suffered a fractured skull and was in a coma for two months. ` `[语料库]`
+> - She fell off her bike and fractured her skull. ` `[语料库]`
+> - The bullet penetrated his skull, causing fatal injuries. ` `[语料库]`
 
 
 ---

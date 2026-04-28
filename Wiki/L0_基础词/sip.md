@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抿，小口喝**==；
-**n.** ①==**一小口（饮料）**==；
+**v.** ①==**抿，小口喝**== `sip tea/coffee/wine` [通用]；
+**n.** ①==**一小口（饮料）**== `take a sip of sth` [通用]；
 
 > [!tip] 原型义
 > **原型义**：小口喝（啜饮，少量地喝）
@@ -129,8 +129,9 @@ sip 源自古英语 *sippian*，拟声词，模拟小口吸吮的声音
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She sipped her coffee and continued to work."（她抿了口咖啡，然后继续工作——考研英语阅读高频表达）
-> - "Harry took a sip of bourbon."（哈里喝了一小口波旁威士忌——考研英语阅读）
+> - She sipped her coffee while she watched the sun rise through the window. `[外刊]`
+> - He took a sip of bourbon and set the glass down on the counter. `[真题]`
+> - To regain her composure, she opened the wine bottle and took a slow sip. `[外刊]`
 
 
 ---

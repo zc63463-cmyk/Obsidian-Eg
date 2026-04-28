@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**句子**==；②==**判决；宣判**==；③刑期；
-**v.** ①==**判决；宣判**==；
+**n.** ①==**句子**== `a long/complete sentence` [通用]；②==**判决；宣判**== `pass/pronounce sentence` [法律]；③刑期；
+**v.** ①==**判决；宣判**== `sentence sb to...` [法律]；
 
 > [!tip] 原型义
 > **原型义**：表达思想的完整话语（一组表达完整意义的词）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The judge will pass sentence tomorrow after looking at the report."（法官看完报告后明天会做出判决——考研翻译类高频表达）
-> - "The Supreme Court is expected to uphold the death sentence."（预计最高法院将维持死刑的原判——考研法律类阅读高频表达）
+> - The judge will pass sentence tomorrow after looking at the report. ` `[真题]`
+> - The Supreme Court is expected to uphold the death sentence. ` `[真题]`
+> - The offences carry a maximum sentence of 10 years. ` `[真题]`
 
 
 ---

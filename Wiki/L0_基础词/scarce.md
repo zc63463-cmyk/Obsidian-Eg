@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**缺乏的，不足的**==；②==**稀少的，罕见的**==；③==**短缺的**==（食物、资源等）；
+**adj.** ①==**缺乏的，不足的**== `N be scarce` `scarce N`；②==**稀少的，罕见的**== `a scarce N`；③==**短缺的**== `scarce N`；
 
 > [!tip] 原型义
 > **原型义**：不足的、稀少的（数量不够用）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In many developing countries, clean drinking water remains a scarce resource, affecting millions of people's health and quality of life."（在许多发展中国家，清洁饮用水仍然是一种稀缺资源，影响着数百万人的健康和生活质量——考研阅读环境话题相关表达）
-> - "The scarcity of affordable housing has become one of the most pressing issues facing urban areas today."（经济适用房的短缺已成为当今城市面临的最紧迫问题之一——考研阅读社会话题相关表达）
+> - "Jobs are scarce these days." `[Collins]`
+> - "Clean water is scarce in many developing countries." `[COCA-ACAD]`
+> - "Good seats for the concert were scarce, so we arrived early." `[例]`
 
 
 ---

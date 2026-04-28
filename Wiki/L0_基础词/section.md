@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**部分，章节**==；②==**部门，科室**==；③截面，剖面；
-**v.** ①划分，分段；
+**n.** ①==**部分，章节**== `the first section of` `Section II` [通用]；②==**部门，科室**== `the finance section` `section chief` [组织]；③截面，剖面 `cross-section` `vertical section` [技术]；
+**v.** ①划分，分段 `section off` `be sectioned into` [通用]；
 
 > [!tip] 原型义
 > **原型义**：切割后的部分（整体被切分后的一块）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The first section provides the theoretical motivation for examining the impact of political institutions on women's education."（第一部分提供了考察政治制度对女性教育影响的理论动机。——剑桥英语语料库）
-> - "Section II Reading Comprehension"（第二部分 阅读理解——考研英语真题标准格式）
+> - "The first section provides the theoretical motivation for examining the impact of political institutions on women's education." `[真题]`
+> - "Section II of the examination focuses on reading comprehension skills." `[真题]`
+> - "The report is divided into four sections, each dealing with a different aspect of the problem." `[真题]`
 
 
 ---

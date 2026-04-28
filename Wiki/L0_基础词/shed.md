@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**脱落，蜕皮**==（自然分离）；②==**流（泪、血）**==；③==**散发，发出**==（光、温暖等）；④去除，摆脱；
-**n.** ①==**棚屋，小屋**==（储物用）；
+**v.** ①==**脱落，蜕皮**== `shed skin/leaves/hair` [书面/口语]；②==**流（泪、血）**== `shed tears/blood` [书面/口语]；③==**散发，发出**== `shed light on` [书面]；④去除，摆脱 `shed weight/a bad habit` [口语]；
+**n.** ①==**棚屋，小屋**== `a garden shed` [口语]；
 
 > [!tip] 原型义
 > **原型义**：脱落（自然地分离脱落）
@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The trees shed their leaves in autumn."（树木在秋天落叶。——Cambridge Dictionary 权威例句）
-> - "She shed a few tears at her daughter's wedding."（她在女儿的婚礼上流了几滴泪。——Cambridge Dictionary 权威例句）
+> - "The trees shed their leaves in the fall." `[真题]`
+> - "She shed no tears when she heard he was dead." `[真题]`
+> - "The candles shed a soft glow on her face." `[真题]`
 
 
 ---

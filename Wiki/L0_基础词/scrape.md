@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**刮擦，擦伤**==；②==**勉强通过**==；③刮掉，擦去；
+**v.** ①==**刮擦，擦伤**== `scrape sth. off/on` [通用]；②==**勉强通过**== `scrape through/by` [通用]；③刮掉，擦去；
 **n.** ①擦伤，刮痕；②困境；③刮擦声；
 
 > [!tip] 原型义
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I must have scraped some of the paint off when I was parking the car."（我准是停放汽车的时候刮掉了一些油漆。——考研阅读高频句式）
-> - "He scraped through the exam with a bare pass."（他勉强通过了考试，刚刚及格。——考研翻译高频表达）
+> - "I must have scraped some of the paint off when I was parking the car." `[真题]`
+> - "Both my brothers have university degrees, but I just scraped through a couple of A-levels." `[真题]`
+> - "The company was struggling financially but somehow managed to scrape through the recession." `[语料库]`
 
 
 ---
