@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**条纹，条带**==；②军衔条纹；③种类，类型；
+**n.** ①==**条纹，条带**== `N` ②==**军衔条纹**== `N` ③==**种类，类型**== `N of every/all stripe`；
 
 > [!tip] 原型义
 > **原型义**：条纹（布料上的彩色条带——一条一条的色带）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People of all stripes attended the conference."（各种各样的人参加了会议。）
-> - "The tiger's stripes serve as camouflage in the tall grass."（老虎的条纹在高草中起到伪装作用。）
+> - The town has long been popular with celebrities of all stripes. `[COCA-NEWS]`
+> - Governments of every stripe have a tendency to try to control the press. `[COCA-ACAD]`
+> - Politicians of every stripe are taking to the streets with the same message. `[COCA-NEWS]`
+> - A soldier with a corporal's stripes on his arms stood guard at the gate. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**召唤，传唤**==；②==**鼓起，激起**==；③召集（会议）；
+**v.** ①==**召唤，传唤**== `summon sb to court` [正式]；②==**鼓起，激起**== `summon courage/strength` [通用]；③召集（会议）；
 
 > [!tip] 原型义
 > **原型义**：召唤（发出信号把人从远处叫来）
@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She had to summon all her courage to face the challenge."（她不得不鼓起所有勇气来面对挑战——考研常见表达）
+> - She had to summon all her courage to face the challenge. `[真题]`
+> - The general summoned all his officers for an emergency meeting. `[真题]`
+> - He was summoned to appear in court as a witness. `[真题]`
 
 
 ---

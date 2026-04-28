@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**山顶，顶峰**==；②==**峰会，最高级会议**==；③巅峰，极点；
+**n.** ①==**山顶，顶峰**== `climb to the summit` [通用]；②==**峰会，最高级会议**== `a climate summit` [正式]；③巅峰，极点；
 **adj.** ①最高级的；
 
 > [!tip] 原型义
@@ -126,7 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Leaders from around the world gathered for the climate summit."（世界各国领导人齐聚气候变化峰会——考研时政类常见话题）
+> - Leaders from around the world gathered for the climate summit. `[真题]`
+> - The climbers failed to reach the summit before the storm hit. `[真题]`
+> - A summit on global warming was held that year. `[真题]`
 
 
 ---

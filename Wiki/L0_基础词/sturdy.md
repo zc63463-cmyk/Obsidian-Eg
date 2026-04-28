@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**坚固的，结实的**==；②强壮的，健壮的；③坚定的，坚决的；
+**adj.** ①==**坚固的，结实的**== `a sturdy building/furniture` [通用]；②强壮的，健壮的 `a sturdy man/legs` [通用]；③坚定的，坚决的 `sturdy resistance/determination` [正式]；
 
 > [!tip] 原型义
 > **原型义**：像树干一样坚固的（能承受外力而不倒）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bridge is sturdy enough to withstand the flood."（这座桥足够坚固，能抵御洪水。）
-> - "Children need sturdy shoes for outdoor play."（孩子们户外玩耍需要结实的鞋子。）
+> - Children need sturdy shoes for outdoor play on rough terrain. `[真题]`
+> - The bridge was sturdy enough to withstand the severe flood that hit the region. `[真题]`
+> - More than 3,600 Filipinos rode out the typhoon in sturdy school buildings, town halls, and churches. `[真题]`
 
 
 ---

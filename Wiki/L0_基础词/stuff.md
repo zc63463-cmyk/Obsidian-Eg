@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**东西，材料**==；②原料，物质；③（泛指）物品，东西；
+**n.** ①==**东西，材料**== `pack/move your stuff` [口语]；②原料，物质 `building/food stuff` [通用]；③（泛指）物品，东西 `do/know your stuff` [口语]；
 
-**v.** ①==**填塞，塞满**==；②填充；③让某人吃很多；
+**v.** ①==**填塞，塞满**== `stuff sth with sth` [通用]；②填充 `stuff a pillow/turkey` [通用]；③让某人吃很多 `stuff oneself` [口语]；
 
 > [!tip] 原型义
 > **原型义**：填塞物（用来填塞的材料——把空间填满的东西）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She packed all her stuff into boxes."（她把所有的东西都装进了箱子。）
-> - "He really knows his stuff when it comes to economics."（说到经济学，他确实很在行。）
+> - She packed all her stuff into boxes before moving to the new apartment. `[真题]`
+> - He really knows his stuff when it comes to economics and financial markets. `[真题]`
+> - I have to go now because I have a lot of stuff to do before dinner. `[真题]`
 
 
 ---

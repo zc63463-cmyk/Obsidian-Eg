@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**合成的，人造的**==；②==**综合的**==；③虚假的，不诚恳的；
+**adj.** ①==**合成的，人造的**== `\synthetic fibers/fabric\` `\synthetic drugs\` [科学/通用]；②==**综合的**== `\a synthetic approach\` [学术/正式]；③虚假的，不诚恳的 `\a synthetic smile\` [文学/贬义]；
 
 > [!tip] 原型义
 > **原型义**：放在一起制造的（人工合成的）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Synthetic fibers are often more durable than natural ones."（合成纤维通常比天然纤维更耐穿）
-> - "Her sympathy seemed synthetic rather than genuine."（她的同情看起来是虚假的而非真诚的）
+> - Synthetic fibers are often more durable than natural ones. `[真题]`
+> - Her sympathy seemed synthetic rather than genuine. `[真题]`
+> - The rug is made from a mixture of wool and synthetic fibres. `[语料库]`
 
 
 ---

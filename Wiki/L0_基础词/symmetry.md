@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**对称（性）**==；②匀称，整齐；
+**n.** ①==**对称（性）**== `bilateral symmetry / the symmetry of sth` [书面/学术]；②匀称，整齐；
 
 > [!tip] 原型义
 > **原型义**：一起测量（两边一样可以一起量）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The human body shows bilateral symmetry."（人体呈现左右对称）
-> - "The symmetry of the building is one of its most striking features."（这座建筑的对称性是其最引人注目的特征之一）
+> - The human body shows bilateral symmetry. `[真题]`
+> - The symmetry of the building is one of its most striking features. `[真题]`
+> - The flowers are tubular with bilateral symmetry, indicating adaptations for insect pollination. `[语料库]`
+> - Many external features of the body, such as arms, have bilateral symmetry. `[语料库]`
 
 
 ---

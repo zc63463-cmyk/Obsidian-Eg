@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**棕褐色**==（晒黑的肤色）；②==**晒黑的皮肤**==；
-**adj.** ①==**棕褐色的**==；
-**v.** ①==**晒黑，晒成棕色**==；②==**鞣制**==（皮革）；
+**n.** ①==**棕褐色**== `a deep/golden tan` [日常]；②==**晒黑的皮肤**== `get a tan` [日常]；
+**adj.** ①==**棕褐色的**== `tan leather/shoes` [日常]；
+**v.** ①==**晒黑，晒成棕色**== `tan on the beach` [日常]；②==**鞣制**== `tan leather/hides` [专业/工业]；
 
 > [!tip] 原型义
 > **原型义**：晒成棕褐色
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After a week on the Mediterranean coast, she returned with a healthy golden tan."（在地中海海岸度过一周后，她带着健康的金棕色回来了。——考研阅读生活话题相关表达）
-> - "The tanning industry has been criticized for its environmental impact and use of toxic chemicals."（制革业因其环境影响和使用有毒化学品而受到批评。——考研阅读环保话题相关表达）
+> - After a week on the Mediterranean coast, she returned with a healthy golden tan. `[真题]`
+> - The tanning industry has been criticized for its environmental impact and use of toxic chemicals. `[真题]`
+> - Leigh rolled over on her stomach to tan her back. `[真题]`
+> - She is tall and blonde, with a permanent tan. `[真题]`
 
 
 ---

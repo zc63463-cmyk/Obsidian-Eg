@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**电报**==；②电报机；
-**v.** ①==**打电报**==；②流露，暗示；
+**n.** ①==**电报**== `send a telegraph` [中性/历史]；②电报机；
+**v.** ①==**打电报**== `telegraph sb. the news` [中性/历史]；②流露，暗示；
 
 > [!tip] 原型义
 > **原型义**：从远处写（tele-远 + graph写 → 远距离传递文字信息）
@@ -129,8 +129,9 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What accounts for the great outburst of major inventions in early America—breakthroughs such as the telegraph, the steamboat and the weaving machine?"（是什么导致了美国早期重大发明的涌现——诸如电报、汽船和织布机等突破？——1996年考研英语Text 4）
-> - "Since the 1800s, companies that were linked to the sea used telegraphs. They needed a way to communicate with their ships, but nothing could carry a message across an ocean."（自19世纪以来，与海洋有关的公司使用电报。它们需要一种与船只通信的方式，但当时没有什么东西能将信息传递过大洋。——考研英语完形填空相关语料）
+> - What accounts for the great outburst of major inventions in early America — breakthroughs such as the telegraph, the steamboat and the weaving machine? `[真题]`
+> - The system was completed and public use initiated on May 24, 1844, with transmission of the message "What hath God wrought!" `[真题]`
+> - Since the 1800s, companies that were linked to the sea used telegraphs to communicate with their ships across the ocean. `[真题]`
 
 
 ---

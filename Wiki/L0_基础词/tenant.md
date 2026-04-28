@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**租户，房客，佃户**==；
-**v.** ①租借，居住；
+**n.** ①==**租户，房客，佃户**== `a tenant of / tenant farmer` [通用]；
+**v.** ①==**租借，居住**== `be tenanted by` [正式]；
 
 > [!tip] 原型义
 > **原型义**：持有者（持有土地/房屋的人）
@@ -133,8 +133,9 @@ ten-(=ten-/tin-/tain-, 持有，拉丁语 *tenere*) + -ant(名词后缀，表示
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Too often politicians tout awful solutions for helping tenants."（政客们经常吹嘘帮助租户的糟糕方案。——经济学人精读）
-> - "For years, they were tenants on my father's property."（多年来，他们一直是我父亲房产的租户。——剑桥词典例句）
+> - "Tenants are complaining that vital repairs are not being done." `[真题]`
+> - "They had exclusive possession of the property as tenants." `[真题]`
+> - "The landlord once suggested that a relative of his would be prepared to swap property with the tenants." `[真题]`
 
 
 ---

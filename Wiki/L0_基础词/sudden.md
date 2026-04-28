@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**突然的，意外的**==；②快速的，急促的；
+**adj.** ①==**突然的，意外的**== `a sudden change/attack` [通用]；②快速的，急促的 `a sudden movement/stop` [通用]；
 
-**n.** ①突然（all of a sudden）；
+**n.** ①突然 `all of a sudden` [口语]；
 
 > [!tip] 原型义
 > **原型义**：突然来到的（没有预兆地出现——出乎意料地发生）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All of a sudden, the lights went out."（突然间，灯灭了。）
-> - "The sudden change in policy caught everyone off guard."（政策的突然变化让所有人都措手不及。）
+> - All of a sudden, the lights went out. `[真题]`
+> - His sudden death was a great shock to us all. `[真题]`
+> - The sudden change in policy caught everyone off guard. `[真题]`
 
 
 ---

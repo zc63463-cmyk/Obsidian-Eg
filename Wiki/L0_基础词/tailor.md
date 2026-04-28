@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**裁缝**==；
-**v.** ①==**专门制作，量身定制**==（为特定目的或人调整）；②==**调整，改编**==；
+**n.** ①==**裁缝**== `go to the tailor` [日常]；
+**v.** ①==**专门制作，量身定制**== `tailor sth. to/for sb./sth.` [正式/商务]；②==**调整，改编**== `tailor a speech/solution` [正式]；
 
 > [!tip] 原型义
 > **原型义**：裁剪布料的人
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The training program was tailored to meet the specific needs of each employee."（培训项目是为满足每位员工的具体需求而量身定制的。——考研阅读职场话题高频表达）
-> - "Educational policies should be tailored to the cultural and economic conditions of each region."（教育政策应根据各地区的文化和经济条件量身定制。——考研翻译教育话题相关表达）
+> - The training program was tailored to meet the specific needs of each employee. `[真题]`
+> - Educational policies should be tailored to the cultural and economic conditions of each region. `[真题]`
+> - You have to tailor application letters for each job you apply for. `[真题]`
+> - The company is tailoring its services to specific industrial sectors. `[真题]`
 
 
 ---

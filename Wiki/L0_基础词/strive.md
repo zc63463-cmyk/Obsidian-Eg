@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**努力，奋斗**==；②争取，力求；③斗争，抗争；
+**v.** ①==**努力，奋斗**== `V for N` / `V to do` ②==**争取，力求**== `V for N` ③==**斗争，抗争**== `V against N`；
 
 > [!tip] 原型义
 > **原型义**：努力争斗（为某目标而奋斗——激烈地争取）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We must strive to reduce poverty and inequality."（我们必须努力减少贫困和不平等。）
-> - "Scientists strive for accuracy in their research."（科学家在研究中力求精确。）
+> - In her writing she strove for a balance between innovation and familiar prose forms. `[COCA-ACAD]`
+> - Neither Jefferson nor Madison was a pacifist, though both strove to keep America at peace. `[COCA-ACAD]`
+> - The region must now strive for economic development as well as peace. `[COCA-NEWS]`
+> - We must strive to reduce poverty and inequality in our society. `[COCA-ACAD]`
 
 
 ---

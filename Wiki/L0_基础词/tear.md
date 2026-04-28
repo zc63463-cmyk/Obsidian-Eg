@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**撕开，撕裂**==；②==**撕掉，扯掉**==；③飞奔，狂奔；④（眼睛）流泪；
-**n.** ①==**眼泪**==（复数 tears）；②裂缝，裂口；③（撕开的）裂片；
+**v.** ①==**撕开，撕裂**== `tear sth. apart/down` [中性/通用]；②==**撕掉，扯掉**== `tear off/out` [中性]；③飞奔，狂奔；④（眼睛）流泪；
+**n.** ①==**眼泪**== `burst into tears` [中性/通用]；②裂缝，裂口；③（撕开的）裂片；
 
 > [!tip] 原型义
 > **原型义**：撕扯，撕裂（用手用力将某物从中间分开）
@@ -138,8 +138,9 @@ tear（古英语 *teran*，意为"撕裂、撕碎"，源自原始日耳曼语 *t
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Tears, be they of sorrow, anger, or joy, typically make Americans feel uncomfortable and embarrassed."（无论是悲伤、愤怒还是喜悦的眼泪，通常都会让美国人感到不舒服和尴尬。——2014年考研英语二Text 3）
-> - "Crying is hardly an activity encouraged by society."（哭泣几乎不是社会所鼓励的行为。——2014年考研英语二Text 3）
+> - Tears, be they of sorrow, anger, or joy, typically make Americans feel uncomfortable and embarrassed. `[真题]`
+> - The tornado tore apart homes, splintered trees, and rocketed loose limbs into nearby houses. `[真题]`
+> - The old dance hall was torn down so that they could develop the land into luxury flats. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**从而，因此**==；②借以，由此；
+**adv.** ①==**从而，因此**== `thereby doing/avoiding sth.` [正式]；②==**借以，由此**== `thereby ensuring/creating sth.` [正式]；
 
 > [!tip] 原型义
 > **原型义**：借由那个（通过那个方式）
@@ -127,8 +127,9 @@ there(那个) + by(通过，借由)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists need to respond to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care."（科学家需要回应动物权利倡导者，他们的论点正在迷惑公众，从而威胁到健康知识和医疗的进步。——2003年考研阅读）
-> - "They paid cash, thereby avoiding interest charges."（他们付了现款，从而避免了利息费用。——剑桥词典例句）
+> - "Scientists need to respond to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care." `[真题]`
+> - "They paid cash, thereby avoiding interest charges." `[词典]`
+> - "He became a citizen, thereby gaining the right to vote." `[词典]`
 
 
 ---

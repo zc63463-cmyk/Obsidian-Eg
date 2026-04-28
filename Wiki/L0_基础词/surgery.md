@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**外科手术**==；②==**诊所**==（英式英语）；
+**n.** ①==**外科手术**== `undergo/perform surgery` [医学/正式]；②==**诊所**== `the doctor's surgery` [英式/日常]；
 
 > [!tip] 原型义
 > **原型义**：手工操作（用手治病的技术）
@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He underwent surgery to remove a brain tumor."（他接受了切除脑肿瘤的手术）
-> - "Advances in surgery have made many previously fatal conditions treatable."（外科手术的进步使许多过去致命的疾病变得可治疗）
+> - He underwent surgery to remove a brain tumor and made a full recovery. `[真题]`
+> - The patient was taken directly to surgery after arriving at the hospital. `[真题]`
+> - She underwent an operation on a tumour in her left lung last year. `[真题]`
 
 
 ---

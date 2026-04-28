@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**偷窃，盗窃**==；②盗窃罪；③偷窃事件；
+**n.** ①==**偷窃，盗窃**== `identity/car theft` [通用]；②==**盗窃罪**== `charged with theft` [法律]；③==**偷窃事件**== `several thefts in the building` [新闻]；
 
 > [!tip] 原型义
 > **原型义**：偷拿的行为（暗中拿走他人的东西）
@@ -130,8 +130,9 @@ theft 源自古英语 *þēofþ*（偷窃），与 [[thieve]]（偷窃）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Unfortunately, we have had several thefts in the building recently."（不幸的是，我们这栋楼最近发生了好几起偷窃事件。——剑桥词典例句）
-> - "Shoplifting is theft."（在商店偷东西就是盗窃。——剑桥词典例句）
+> - "Unfortunately, we have had several thefts in the building recently." `[词典]`
+> - "They are at an increased risk of identity theft." `[真题]`
+> - "Theft was by far the most common offense." `[期刊]`
 
 
 ---

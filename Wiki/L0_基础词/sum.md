@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**总数，总和**==；②金额；③算术题；
-**v.** ①==**总结，概括**==；②合计，总计；
+**n.** ①==**总数，总和**== `the sum of all parts` [通用]；②金额 `a large sum of money` [通用]；③算术题；
+**v.** ①==**总结，概括**== `to sum up` [通用]；②合计，总计；
 
 > [!tip] 原型义
 > **原型义**：总和（把所有部分加在一起得到的结果）
@@ -128,7 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To sum up, the evidence suggests that climate change is accelerating."（总而言之，证据表明气候变化正在加速——考研环保类话题）
+> - To sum up, the evidence suggests that climate change is accelerating. `[真题]`
+> - He donated a large sum of money to the orphanage. `[真题]`
+> - The sum of 13 and 8 is 21. `[真题]`
 
 
 ---

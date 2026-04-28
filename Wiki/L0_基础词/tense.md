@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**紧张的，令人紧张的**==；②拉紧的，绷紧的；
-**n.** ①（语法）时态；②动词时态；
+**adj.** ①==**紧张的，令人紧张的**== `tense atmosphere / feel tense` [通用]；②拉紧的，绷紧的 `tense muscles` [通用]；
+**n.** ①（语法）时态 `past/present tense` [学术]；②动词时态；
 **v.** ①（使）紧张；（使）拉紧；
 
 > [!tip] 原型义
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was very tense as she waited for the interview."（在等待面试时她非常紧张。——剑桥词典例句）
-> - "There were some tense moments in the second half of the game."（比赛的下半场有一些令人紧张的时刻。——剑桥词典例句）
+> - "She was very tense as she waited for the interview." `[真题]`
+> - "There were some tense moments in the second half of the game." `[真题]`
+> - "This gesture of goodwill did little to improve the tense atmosphere at the talks." `[真题]`
 
 
 ---

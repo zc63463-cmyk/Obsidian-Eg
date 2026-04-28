@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**处理，应对**==（难题、任务）；②==**与……交涉**==（某人关于某事）；③（足球等）抢断，阻截；
-**n.** ①==**用具，装备**==（尤指钓鱼或运动用具）；②==**抢断，阻截**==（体育用语）；③滑轮组；
+**v.** ①==**处理，应对**==（难题、任务）`tackle a problem` `tackle climate change` [通用/积极]；②==**与……交涉**==（某人关于某事）`tackle sb. about/over sth.` [口语/正式]；③（足球等）抢断，阻截 `make a tackle` [体育]；
+**n.** ①==**用具，装备**==（尤指钓鱼或运动用具）`fishing tackle` [日常]；②==**抢断，阻截**==（体育用语）`a sliding tackle` [体育]；③滑轮组；
 
 > [!tip] 原型义
 > **原型义**：用工具装备起来处理问题
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has pledged to tackle the growing problem of homelessness."（政府已承诺解决日益严重的无家可归问题。——考研阅读社会话题高频表达）
-> - "The new initiative aims to tackle the root causes of poverty rather than merely treating its symptoms."（这项新举措旨在解决贫困的根本原因，而不仅仅是治标。——考研翻译政策话题相关表达）
+> - The government has pledged to tackle the growing problem of homelessness. `[真题]`
+> - The new initiative aims to tackle the root causes of poverty rather than merely treating its symptoms. `[真题]`
+> - The manifesto includes tough measures to tackle road congestion and environmental pollution. `[语料库]`
 
 
 ---

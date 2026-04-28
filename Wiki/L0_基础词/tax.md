@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**税，税款**==；②==**重负**==（比喻性的负担）；
-**v.** ①==**对……征税**==；②==**使负重担**==；③==**责备，批评**==；
+**n.** ①==**税，税款**== `income/sales tax` [中性/通用]；②==**重负**== `a heavy tax on sth.` [比喻/书面]；
+**v.** ①==**对……征税**== `tax sb./sth. at X%` [正式]；②==**使负重担**== `tax one's patience/health` [比喻]；③==**责备，批评**== `tax sb. with sth.` [正式/书面]；
 
 > [!tip] 原型义
 > **原型义**：评估并征收的费用
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government announced a series of tax cuts aimed at stimulating economic growth."（政府宣布了一系列旨在刺激经济增长的减税措施。——考研阅读经济话题高频表达）
-> - "The long commute to work every day takes a heavy tax on both physical and mental health."（每天漫长的通勤对身心健康都是一种沉重的负担。——考研翻译生活话题相关表达）
+> - Eliminating taxes on savings and investment will disproportionately shift the tax burden to the shoulders of the average wage earner. `[真题]`
+> - The long commute to work every day takes a heavy tax on both physical and mental health, leaving little energy for family life. `[真题]`
+> - The government announced a series of tax cuts aimed at stimulating economic growth and boosting consumer spending. `[真题]`
 
 
 ---

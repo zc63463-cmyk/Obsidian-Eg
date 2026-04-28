@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**扫，打扫**==；②==**席卷，横扫**==；③拂过，掠过；
-**n.** ①打扫；②==**广阔区域，延伸**==；
+**v.** ①==**扫，打扫**== `sweep the floor/room` [通用]；②==**席卷，横扫**== `sweep across/through` [新闻]；③拂过，掠过 `sweep one's eyes over` [描写]；
+**n.** ①打扫；②==**广阔区域，延伸**== `a broad sweep of` [描写]；
 
 > [!tip] 原型义
 > **原型义**：扫，拂过（大范围扫过）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fire swept through the forest, destroying everything in its path."（大火席卷了森林，摧毁了沿途的一切）
-> - "The party swept the board in the election."（该党在选举中大获全胜）
+> - A fire swept through the store on Tuesday night. `[新闻]`
+> - The hurricane swept across Japan, leaving a trail of destruction. `[新闻]`
+> - The National Party swept into power with a majority of almost 200. `[学术]`
 
 
 ---

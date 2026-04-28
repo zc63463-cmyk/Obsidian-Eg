@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**纺织品，织物**==；②纺织业；
-**adj.** ①纺织的；
+**n.** ①==**纺织品，织物**== `cotton/silk textiles` [通用]；②==**纺织业**== `the textile industry` [专业]；
+**adj.** ①==**纺织的**== `textile design` [专业]；
 
 > [!tip] 原型义
 > **原型义**：编织物（通过编织制成的布料）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The textile design program at the university teaches students about fabric manipulation and print techniques."（该大学的纺织品设计项目教授学生面料处理和印花技术。——词汇宝例句）
-> - "The textile industry was the first to be industrialized in Britain."（纺织业是英国第一个实现工业化的行业。——常见历史语料）
+> - "The textile industry was the first to be industrialized in Britain." `[真题]`
+> - "In addition to the textile industry, cotton is used in fishing nets, coffee filters, tents, and explosives manufacture." `[语料库]`
+> - "Some set a minimum polyester composition for their textile feedstock." `[期刊]`
 
 
 ---

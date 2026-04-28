@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**固执的，顽固的**==；②难处理的，棘手的；③顽强的，不屈不挠的；
+**adj.** ①==**固执的，顽固的**== `be too stubborn to do sth` [通用]；②难处理的，棘手的 `a stubborn problem/stain` [通用]；③顽强的，不屈不挠的 `stubborn resistance/determination` [正式]；
 
 > [!tip] 原型义
 > **原型义**：像树桩一样坚硬不动的（stub = 树桩，像砍不动的树桩一样固执）
@@ -126,8 +126,9 @@ stub(树桩，源自古英语 *stybb*，与 [[strong]] 同源"紧硬的") + -orn
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is too stubborn to admit his mistake."（他太固执了，不肯承认错误。）
-> - "The stubborn stain refused to come out."（那顽固的污渍怎么也洗不掉。）
+> - He was too stubborn to admit that he was wrong about the project. `[真题]`
+> - A new report demonstrates a stubborn chasm between rich and poor students earning bachelor's degrees. `[真题]`
+> - The stubborn stain on the carpet refused to come out despite repeated cleaning. `[真题]`
 
 
 ---

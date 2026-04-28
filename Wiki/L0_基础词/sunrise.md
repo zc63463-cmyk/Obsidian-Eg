@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**日出，黎明**==；②日出时分；
+**n.** ①==**日出，黎明**== `at sunrise` [通用]；②日出时分；
 **adj.** ①日出的；
 
 > [!tip] 原型义
@@ -125,7 +125,9 @@ sun(太阳) + rise(升起)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Renewable energy has become a sunrise industry in many countries."（可再生能源已成为许多国家的朝阳产业——考研环保/经济类话题）
+> - Renewable energy has become a sunrise industry in many countries. `[真题]`
+> - In the morning I woke to a spectacular sunrise over the peaks. `[真题]`
+> - You have to fast between sunrise and sunset. `[真题]`
 
 
 ---

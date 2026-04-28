@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**其后，此后**==；
+**adv.** ①==**其后，此后**== `shortly thereafter / years thereafter` [正式]；
 
 > [!tip] 原型义
 > **原型义**：在那之后
@@ -126,8 +126,9 @@ there(那里，那个) + after(之后)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Thereafter she wrote articles for papers and magazines in Paris."（从那以后，她为巴黎的报纸和杂志撰稿。——剑桥词典例句）
-> - "The final section provides that any work produced for the company is thereafter owned by the company."（最后一节规定，此后为公司创作的任何作品均归公司所有。——法律文书例句）
+> - "He left the priesthood in 1970 and settled in the Washington area shortly thereafter." `[词典]`
+> - "The nature of their commitment changed as soon as they entered the war and several times thereafter." `[语料库]`
+> - "Delaying defense programs virtually guarantees their cost growth not only this year and next but every year thereafter." `[期刊]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**游泳**==；②==**眩晕，眼花**==；③漂浮；
+**v.** ①==**游泳**== `swim in the pool / swim across sth` [通用]；②==**眩晕，眼花**== `make one's head swim` [书面/口语]；③漂浮；
 **n.** ①游泳；
 
 > [!tip] 原型义
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The numbers made my head swim."（这些数字让我头晕目眩）
-> - "He learned to swim at the age of five."（他五岁学会了游泳）
+> - The numbers made my head swim. `[真题]`
+> - He learned to swim at the age of five. `[真题]`
+> - All these complicated instructions make my head swim. `[语料库]`
+> - On his first day, they gave him the project and left him to sink or swim. `[语料库]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**吞咽，咽下**==；②==**忍受，压制**==；③轻信；
+**v.** ①==**吞咽，咽下**== `swallow food/medicine` [日常]；②==**忍受，压制**== `swallow one's pride/an insult` [书面/惯用]；③轻信；
 **n.** ①燕子；②吞咽；
 
 > [!tip] 原型义
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He had to swallow his pride and ask for help."（他不得不放下自尊去求助）
-> - "The public found the government's explanation hard to swallow."（公众觉得政府的解释难以接受）
+> - He had to swallow his pride and ask for help when he lost his job. `[真题]`
+> - The public found the government's explanation hard to swallow. `[真题]`
+> - Losing the championship was a bitter pill to swallow, but the team vowed to come back stronger next season. `[语料库]`
+> - She swallowed the bait and invested all her savings in the fraudulent scheme. `[语料库]`
 
 
 ---

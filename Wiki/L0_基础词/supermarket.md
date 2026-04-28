@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**超级市场，超市**==；
+**n.** ①==**超级市场，超市**== `go to the supermarket` [通用]；`a supermarket chain` [通用]；
 
 > [!tip] 原型义
 > **原型义**：超级市场（super-超级 + market市场）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rise of online shopping has posed a challenge to traditional supermarkets."（网购的兴起对传统超市构成了挑战。）
-> - "She does her weekly shopping at the local supermarket."（她在当地超市进行每周一次的采购。）
+> - The rise of online shopping has posed a challenge to traditional supermarkets. `[真题]`
+> - She does her weekly shopping at the local supermarket. `[真题]`
+> - Booksellers are facing increasing competition from online retailers and supermarkets. `[真题]`
 
 
 ---

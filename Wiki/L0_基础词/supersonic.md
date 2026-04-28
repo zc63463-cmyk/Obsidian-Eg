@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**超音速的**==；超声的；
+**adj.** ①==**超音速的**== `supersonic flight/jet/speed` [科学/技术]；超声的；
 
 > [!tip] 原型义
 > **原型义**：超越声音速度的（super-超越 + son声音 + -ic形容词后缀）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The development of supersonic aircraft has been a major achievement in aviation."（超音速飞机的发展是航空领域的一项重大成就。）
-> - "Concorde was the world's first supersonic passenger jet."（协和式客机是世界上第一架超音速客机。）
+> - Concorde was the world's first supersonic passenger jet. `[真题]`
+> - The development of supersonic aircraft has been a major achievement in aviation. `[真题]`
+> - Last year Boeing withdrew from a research project for a new supersonic plane because of the daunting cost. `[真题]`
 
 
 ---

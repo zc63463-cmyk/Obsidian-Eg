@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使精简，使高效**==；②使成流线型；
-**n.** ①流线，流线型；
+**vt.** ①==**使精简，使高效**== `V N` ②==**使成流线型**== `V N`；
+**n.** ①==**流线，流线型**== `N`；
 
 > [!tip] 原型义
 > **原型义**：使成流线型（减少阻力、使水流顺畅的形状）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has streamlined the tax system to make it more efficient."（政府已精简了税收系统以提高效率。）
-> - "We need to streamline our procedures to remain competitive."（我们需要精简流程以保持竞争力。）
+> - We could ditch the bureaucracy and streamline business to make it more competitive. `[COCA-NEWS]`
+> - The government has streamlined the tax system to make it more efficient. `[COCA-ACAD]`
+> - My boss has called in consultants to streamline the company. `[COCA-NEWS]`
+> - And streamlining production processes could produce huge cost savings. `[COCA-ACAD]`
 
 
 ---

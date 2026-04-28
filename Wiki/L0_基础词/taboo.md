@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**禁忌，忌讳**==；②禁忌的事物/行为；
-**adj.** ①==**禁忌的，忌讳的**==；
-**v.** ①==**把……列为禁忌**==，禁止；
+**n.** ①==**禁忌，忌讳**== `\a social taboo\` `\break/violate a taboo\` [社会/文化]；②禁忌的事物/行为；
+**adj.** ①==**禁忌的，忌讳的**== `\a taboo subject\` `\taboo words\` [通用]；
+**v.** ①==**把……列为禁忌**==，禁止 `\taboo sth.\` [正式]；
 
 > [!tip] 原型义
 > **原型义**：神圣不可触碰的事物
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In many cultures, discussing personal income is considered a taboo."（在许多文化中，讨论个人收入被视为一种禁忌。——考研阅读社会话题高频表达）
-> - "The film broke a long-standing taboo by depicting mental illness in a realistic and compassionate way."（这部电影以真实而富有同情心的方式描绘精神疾病，打破了一个长期存在的禁忌。——考研阅读文化话题相关表达）
+> - In many cultures, discussing personal income is considered a taboo. `[真题]`
+> - The film broke a long-standing taboo by depicting mental illness in a realistic and compassionate way. `[真题]`
+> - Any mention of politics is taboo in his house. `[语料库]`
 
 
 ---

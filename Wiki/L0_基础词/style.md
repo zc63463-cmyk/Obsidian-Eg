@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**风格，文体**==；②款式，时尚；③方式，作风；④文体，文风；
+**n.** ①==**风格，文体**== `a writing/management style` [通用]；②款式，时尚 `in/out of style` [通用]；③方式，作风 `a style of living` [通用]；④文体，文风 `a literary style` [正式]；
 
-**v.** ①设计，造型；②称呼；
+**v.** ①设计，造型 `style sth in a way` [通用]；②称呼；
 
 > [!tip] 原型义
 > **原型义**：书写工具（古希腊的书写铁笔——用来写字的工具决定了字的风格）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her writing style is clear and concise."（她的写作风格清晰简洁。）
-> - "Different cultures have different styles of communication."（不同文化有不同的沟通方式。）
+> - Her writing style is clear and concise, which makes her articles easy to follow. `[真题]`
+> - Different cultures have different styles of communication that can lead to misunderstandings. `[真题]`
+> - The classic black dress is always in style no matter the changing fashion trends. `[真题]`
 
 
 ---

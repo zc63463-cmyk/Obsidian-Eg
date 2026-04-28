@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**总结，摘要，概要**==；
-**adj.** ①==**迅速的，即刻的**==；②概括的，简略的；
+**n.** ①==**总结，摘要，概要**== `a summary of the report` [通用]；`executive summary` [正式]；
+**adj.** ①==**迅速的，即刻的**== `summary execution/dismissal` [正式]；②概括的，简略的；
 
 > [!tip] 原型义
 > **原型义**：总结（把所有要点加在一起的概括性陈述）
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In summary, the research findings support the hypothesis that early intervention is crucial."（总而言之，研究结果支持早期干预至关重要的假设——考研学术类常见表达）
+> - In summary, the research findings support the hypothesis that early intervention is crucial. `[真题]`
+> - What follows is a brief summary of the findings. `[真题]`
+> - In summary, we must aim to maintain a stable supply of crude oil while protecting the environment. `[真题]`
 
 
 ---

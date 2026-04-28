@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**斗争，奋斗**==；②挣扎，艰难努力；
+**n.** ①==**斗争，奋斗**== `the struggle for/against sth` [正式]；②挣扎，艰难努力 `a struggle to do sth` [通用]；
 
-**v.** ①==**奋斗，努力**==；②挣扎；③斗争，搏斗；
+**v.** ①==**奋斗，努力**== `struggle to do sth` [通用]；②挣扎 `struggle with sth` [通用]；③斗争，搏斗 `struggle against/for sth` [正式]；
 
 > [!tip] 原型义
 > **原型义**：扭打（在地上翻滚扭打——身体上的激烈搏斗）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many families struggle to make ends meet."（许多家庭艰难维持生计。）
-> - "The struggle for civil rights continued for decades."（民权斗争持续了数十年。）
+> - Many small businesses struggle to stay afloat during economic downturns. `[真题]`
+> - For years, she struggled to make ends meet on her modest salary. `[真题]`
+> - The struggle for civil rights continued for decades across the nation. `[真题]`
 
 
 ---

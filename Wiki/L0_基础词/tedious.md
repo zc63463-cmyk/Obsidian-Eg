@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**单调乏味的，冗长沉闷的**==；②令人生厌的；
+**adj.** ①==**单调乏味的，冗长沉闷的**== `a tedious process/task` [负面/正式]；②令人生厌的；
 
 > [!tip] 原型义
 > **原型义**：令人厌倦的（因时间过长或内容单调而使人感到疲倦无聊）
@@ -128,8 +128,9 @@ ted-(厌倦，拉丁语 *taedium*，意为"厌倦、疲倦") + -ious(充满…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Being a good parent is what every parent wants to be. But the definition of a good parent is undoubtedly very tricky, especially when the same parenting style is approached by children in different ways."（做一个好父母是每个父母都想做的。但是，一个好父母的定义无疑是非常棘手的，尤其是对于相同的父母教养方式，孩子们有不同的反应。——2020年考研英语二完形填空，tedious 作为选项出现）
-> - "Perhaps this is why many worry about the agonizing dullness of a jobless future."（也许这就是为什么许多人担心一个没有工作的未来会沉闷地令人痛苦。——2017年考研英语完形填空，dullness 与 tedious 语义相近）
+> - It was a long and tedious process, but the results were ultimately worth the effort. `[真题]`
+> - The process of adding gold flakes to the tip of the corn dog is a tedious task that involves a paintbrush and tweezers. `[真题]`
+> - Index preparation is a tedious and time-consuming task that requires careful attention to detail. `[真题]`
 
 
 ---

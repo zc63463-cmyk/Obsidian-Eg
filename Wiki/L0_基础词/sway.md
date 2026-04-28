@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**摇摆，摇晃**==；②==**影响，动摇**==（观点/决定）；
-**n.** ①摇摆；②==**统治，影响**==；
+**v.** ①==**摇摆，摇晃**== `sway in the wind/breeze` [描写]；②==**影响，动摇**== `sway sb into doing sth` [正式]；
+**n.** ①摇摆；②==**统治，影响**== `hold sway` [正式]；
 
 > [!tip] 原型义
 > **原型义**：摇摆，摇晃（左右摆动）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The senator tried to sway public opinion in favor of the new policy."（参议员试图影响公众舆论支持新政策）
-> - "Traditional values still hold sway in many rural communities."（传统价值观在许多农村社区仍然占统治地位）
+> - Her speech failed to sway her colleagues into supporting the plan. `[学术]`
+> - Recent developments have swayed the balance of power in the region. `[新闻]`
+> - Traditional values still hold sway in many rural communities. `[通用]`
 
 
 ---

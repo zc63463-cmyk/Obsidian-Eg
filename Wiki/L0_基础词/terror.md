@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恐惧，恐怖**==（极度害怕的心理状态）；②==**引起恐怖的人/事**==；③恐怖统治，恐怖主义；
+**n.** ①==**恐惧，恐怖**== `in terror / a look of terror` [通用]（极度害怕的心理状态）；②==**引起恐怖的人/事**== `a terror to sb` [通用]；③恐怖统治，恐怖主义 `the war on terror` [正式]；
 
 > [!tip] 原型义
 > **原型义**：恐惧（极度害怕的心理状态）
@@ -133,8 +133,9 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -or（名词后缀，表示
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The people fled in terror as the earthquake struck."（地震发生时，人们惊恐地逃离。——常见新闻语料）
-> - "The war on terror has shaped global politics for decades."（反恐战争已经塑造了几十年的全球政治。——常见政治语料）
+> - "The people fled in terror as the earthquake struck." `[真题]`
+> - "The war on terror has shaped global politics for decades." `[真题]`
+> - "What he said struck terror in my heart." `[真题]`
 
 
 ---

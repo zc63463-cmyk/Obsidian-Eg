@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**同情，同情心**==；②==**赞同，支持**==；
+**n.** ①==**同情，同情心**== `feel/express sympathy for sb / have sympathy with sb` [通用]；②==**赞同，支持**== `in sympathy with sth / have sympathy for a cause` [书面/新闻]；
 
 > [!tip] 原型义
 > **原型义**：一起感受（与他人同感）
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I have great sympathy for people who are homeless."（我对无家可归的人深表同情）
-> - "He expressed his sympathy for the victims' families."（他对遇难者家属表示了同情）
+> - We expressed our sympathy for her loss. `[真题]`
+> - I have some sympathy with this point of view. `[真题]`
+> - The president has sent a message of sympathy to the relatives of the dead soldiers. `[语料库]`
+> - I don't have much sympathy for her — I think she's brought her troubles on herself. `[语料库]`
 
 
 ---

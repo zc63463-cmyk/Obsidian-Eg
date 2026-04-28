@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**戏弄，取笑**==；②==**梳理（羊毛等）**==；③==**挑逗**==；④==**仔细分离，梳理出**==；
+**v.** ①==**戏弄，取笑**== `tease sb. about sth.` [中性/口语]；②==**梳理（羊毛等）**==；③==**挑逗**==；④==**仔细分离，梳理出**== `tease out/apart sth.` [正式/学术]；
 **n.** ①爱戏弄人的人；
 
 > [!tip] 原型义
@@ -135,8 +135,9 @@ tease（中古英语 *tesen*，意为"梳理羊毛"，源自古英语 *tǣsan*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The single word environment has so many dimensions, and there are so many other factors affecting wealth—such as the oil deposits—that teasing out a simple economy-environment relationship would be almost impossible."（"环境"这个单一词汇有太多维度，影响财富的因素又如此之多——比如石油储量——以至于梳理出一个简单的经济与环境关系几乎是不可能的。——考研英语阅读相关语料）
-> - "It is really important to understand and try and tease out what is the human connection with fire today."（理解并努力梳理出当今人类与火之间的联系，这一点非常重要。——2017年考研英语二Text 4）
+> - The single word environment has so many dimensions, and there are so many other factors affecting wealth that teasing out a simple economy-environment relationship would be almost impossible. `[真题]`
+> - It is really important to understand and try and tease out what is the human connection with fire today. `[真题]`
+> - Longer-term studies are needed to tease out the full effects of the new policy on public health outcomes. `[真题]`
 
 
 ---

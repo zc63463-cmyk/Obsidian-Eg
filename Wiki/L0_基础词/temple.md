@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**庙宇，寺院，神殿**==；②太阳穴（头部两侧）；
+**n.** ①==**庙宇，寺院，神殿**== `ancient/Buddhist temple` [中性/宗教]；②太阳穴（头部两侧）；
 
 > [!tip] 原型义
 > **原型义**：切割出的神圣空间（从 tem- "切割" 来，用占卜术划出的一片神圣区域）
@@ -129,8 +129,9 @@ tem-(=temp-, 切割，拉丁语 *temnum*，*temnere* 的过去分词) + -ple(名
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ancient temples in Southeast Asia reflect the fusion of local and Indian cultures."（东南亚的古代庙宇反映了本土文化与印度文化的融合。——2021年英语一阅读改编）
-> - "We go to temple on Saturdays."（我们每个星期六去寺庙。——有道词典例句）
+> - The 1,500-year-old Nanhua Temple was enveloped by incense and Buddhist chants as thousands of believers inundated the temple to mark its founding anniversary. `[真题]`
+> - Located in Jincheng in Shanxi province, the Qinglian Temple is known for its painted sculptures from the Tang and Song dynasties. `[真题]`
+> - People often recount legendary tales of Fengguo Temple, a structure more than 1,000 years old that has miraculously withstood the ravages of war and earthquakes. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**迷信，迷信思想**==；
+**n.** ①==**迷信，迷信思想**== `superstition about/that...` [日常/文化]；
 
 > [!tip] 原型义
 > **原型义**：站在上方观察（源自拉丁语 *superstitio*，super-在上方 + stare-站立）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Breaking a mirror is a common superstition that brings seven years of bad luck."（打碎镜子是一个常见的迷信，据说会带来七年厄运。）
-> - "Science has helped dispel many superstitions about natural phenomena."（科学帮助消除了许多关于自然现象的迷信。）
+> - It's a common superstition that black cats are unlucky. `[真题]`
+> - According to superstition, if you walk under a ladder it brings you bad luck. `[真题]`
+> - The aid agency continues the battle against ignorance and superstition. `[真题]`
 
 
 ---

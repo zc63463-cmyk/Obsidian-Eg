@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**告诉，讲述**==；②==**辨别，分辨**==；③==**命令，指示**==；④==**显露，表明**==；
+**v.** ①==**告诉，讲述**== `tell sb. sth. / tell sb. that...` [中性/通用]；②==**辨别，分辨**== `tell the difference between A and B` [中性/通用]；③==**命令，指示**== `tell sb. to do sth.` [中性]；④==**显露，表明**== `The evidence tells us that...` [中性/正式]；
 
 > [!tip] 原型义
 > **原型义**：讲述，说出（用语言将信息从一个人传递到另一个人）
@@ -136,8 +136,9 @@ tell（古英语 *tellan*，意为"计算、讲述"，源自原始日耳曼语 *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is hard to tell whether the market will recover in the short term."（很难判断市场是否会在短期内复苏。——考研英语高频表达）
-> - "We conform to norms so readily that we are hardly aware they exist. Our environment tells us how to behave."（我们如此轻易地遵从规范，以至于几乎没有意识到它们的存在。我们的环境告诉我们该如何行事。——考研英语阅读相关语料）
+> - We conform to norms so readily that we are hardly aware they exist, and our environment tells us how to behave. `[真题]`
+> - This coffee is about half the price of that one and yet you really can't tell the difference between them. `[真题]`
+> - The teacher told the children to sit down quietly and pay attention to the lesson. `[真题]`
 
 
 ---

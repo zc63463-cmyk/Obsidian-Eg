@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**投降，屈服**==；②==**放弃，交出**==；
-**n.** ①投降；②放弃；
+**v.** ①==**投降，屈服**== `surrender to sb./sth.` [军事/正式]；②==**放弃，交出**== `surrender one's rights/passport` [正式/法律]；
+**n.** ①投降 `unconditional surrender` [正式]；②放弃；
 
 > [!tip] 原型义
 > **原型义**：在下面交出（源自古法语 *surrendre*，sur-在上方/交给 + rendre-交还）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The army was forced to surrender after weeks of siege."（经过数周的围困，军队被迫投降。")
-> - "Never surrender your dreams, no matter how difficult the journey."（无论旅途多么艰难，永远不要放弃你的梦想。")
+> - The army was forced to surrender after weeks of siege. `[真题]`
+> - They laid down their weapons and surrendered to the enemy. `[真题]`
+> - Never surrender your dreams, no matter how difficult the journey. `[真题]`
 
 
 ---

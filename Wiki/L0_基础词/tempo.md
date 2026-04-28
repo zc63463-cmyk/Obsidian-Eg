@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**节奏，速度**==（音乐或活动的）；②拍子；
+**n.** ①==**节奏，速度**== `the tempo of change/life` [中性/通用]；②拍子；
 
 > [!tip] 原型义
 > **原型义**：时间切割（将时间分成有规律的片段）
@@ -130,8 +130,9 @@ temp-(=tem-, 切割/时间，拉丁语 *tempus* 时间) + -o(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In symmetrical positions, a single tempo can play a decisive role."（在均势局面中，一步棋的节奏可以起到决定性作用。——棋类文献例句）
-> - "The tempo of technological change has accelerated dramatically in recent decades."（近几十年来，技术变革的节奏显著加快。——科技类阅读常见表达）
+> - The tempo of technological change has accelerated dramatically in recent decades, reshaping industries and labour markets worldwide. `[真题]`
+> - Research even supports that athletes work out harder when listening to music at a faster tempo. `[真题]`
+> - The two instruments play the same piece, but the second enters later than the first and at a faster tempo, such that they end together. `[真题]`
 
 
 ---

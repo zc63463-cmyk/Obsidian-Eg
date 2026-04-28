@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**温柔的，柔和的**==；②==**嫩的，柔软的**==；③敏感的，疼痛的；
-**v.** ①==**投标，提出**==；②正式提交；
+**adj.** ①==**温柔的，柔和的**== `tender care / tender feelings` [通用]；②==**嫩的，柔软的**== `tender meat / tender skin` [通用]；③敏感的，疼痛的；
+**v.** ①==**投标，提出**== `tender a bid / tender for sth` [正式]；②正式提交 `tender one's resignation` [正式]；
 **n.** ①投标；②看护人；
 
 > [!tip] 原型义
@@ -141,8 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The head teacher tendered her resignation this morning after the school failed its inspection."（校长在学校检查不合格后，于今早提交了辞呈。——中国日报例句）
-> - "We are hoping to lease the four-story building to a single tenant when it's completed this fall."（我们希望在今年秋天大楼完工后将其租给单一租户。——剑桥词典例句）
+> - "The head teacher tendered her resignation this morning after the school failed its inspection." `[真题]`
+> - "Local firms were invited to tender for the building contract." `[真题]`
+> - "Five companies have tendered for the hospital contract." `[真题]`
 
 
 ---

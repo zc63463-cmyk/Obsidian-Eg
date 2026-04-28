@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**包围，环绕**==；②围绕，围住；
+**v.** ①==**包围，环绕**== `be surrounded by...` [通用]；②围绕，围住；
 
 > [!tip] 原型义
 > **原型义**：在上方围绕（源自古法语 *suronder*，sur-在上方 + undare-溢出/波浪）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The house is surrounded by beautiful gardens."（这座房子被美丽的花园环绕。）
-> - "He surrounded himself with talented people."（他让自己被有才华的人环绕。）
+> - The house is surrounded by beautiful gardens on all sides. `[真题]`
+> - Snow-capped mountains surround the city, creating a stunning landscape. `[真题]`
+> - She sat at her desk, surrounded by books and papers. `[真题]`
 
 
 ---

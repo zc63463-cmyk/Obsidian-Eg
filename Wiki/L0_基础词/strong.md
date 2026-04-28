@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**强壮的，有力的**==；②坚强的，坚定的；③强烈的，浓烈的；④强大的，有力的；⑤擅长的，精通的；
+**adj.** ①==**强壮的，有力的**== `adj N` ②==**坚强的，坚定的**== `adj N` ③==**强烈的，浓烈的**== `adj N` ④==**强大的，有力的**== `adj N` ⑤==**擅长的，精通的**== `adj in N`；
 
 > [!tip] 原型义
 > **原型义**：紧紧绷住的（肌肉紧绷有力量的——身体上的强壮）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has a strong determination to succeed."（她有强烈的成功决心。）
-> - "There is strong evidence to support this theory."（有强有力的证据支持这一理论。）
+> - There is strong evidence to support this theory. `[COCA-ACAD]`
+> - Despite his strong opposition, the bill was passed by a narrow margin. `[COCA-NEWS]`
+> - She has a strong determination to succeed in her career. `[COCA-ACAD]`
+> - The economy showed strong growth in the third quarter of the year. `[COCA-NEWS]`
 
 
 ---
