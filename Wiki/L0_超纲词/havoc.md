@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大破坏，浩劫，混乱**==；
-**v.** ①==**造成严重破坏**==；
+**n.** ①==**大破坏，浩劫，混乱**== `wreak/cause/create havoc` [正式]；
+**v.** ①==**造成严重破坏**== `play havoc with sth.` [正式]；
 > [!tip] 原型义
 > **原型义**：大范围的破坏和混乱
 > **延伸维度**：抽象路径
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The earthquake wreaked havoc across the region, leaving thousands homeless."（地震在该地区造成了严重破坏，使数千人无家可归）
-> - "Sleep deprivation can play havoc with your immune system."（睡眠不足会严重损害你的免疫系统）
+> - The earthquake wreaked havoc across the region, leaving thousands homeless. `[例]`
+> - Sleep deprivation can play havoc with your immune system. `[例]`
+> - The severe storm caused havoc along the coastline, destroying dozens of properties. `[例]`
 
 ## 复习记录
 

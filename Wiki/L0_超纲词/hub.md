@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**中心，枢纽**==；②（网络的）集线器；③轮毂（车轮中心）；
+**n.** ①==**中心，枢纽**== `a transport/technology hub` [新闻] `the hub of activity` [新闻]；②==**（网络的）集线器**== `network hub` [技术]；③==**轮毂**==（车轮中心）`the hub of a wheel` [技术]；
 
 > [!tip] 原型义
 > **原型义**：轮毂（车轮的中心部分，辐条从此向外辐射）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "London is a global financial hub."（伦敦是全球金融中心。）
-> - "The airport serves as a major transport hub for Southeast Asia."（该机场是东南亚的主要交通枢纽。）
+> - London is a global financial hub. `[例]`
+> - The airport serves as a major transport hub for Southeast Asia. `[例]`
+> - Shenzhen has emerged as a leading technology hub for hardware innovation and startup companies. `[例]`
 
 ## 复习记录
 

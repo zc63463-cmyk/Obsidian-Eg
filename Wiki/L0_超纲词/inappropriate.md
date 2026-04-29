@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不适当的，不恰当的**==；②不合适的（场合、行为等）；
+**adj.** ①==**不适当的，不恰当的**== `inappropriate behavior/remarks` [正式] `highly inappropriate` [正式]；②==**不合适的（场合、行为等）**== `inappropriate for the occasion` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不适合特定场合或目的的
@@ -124,7 +124,8 @@ in-(不) + ap-(=ad-, 向) + [[propri|propri]](自己的/适当) + -ate(形容词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - inappropriate 是社会类文章的高频词，常涉及行为规范、言论自由等话题。
+> - His comments were deemed highly inappropriate for a professional workplace environment. `[例]`
+> - Wearing casual clothes to a formal ceremony would be considered inappropriate by most standards. `[例]`
 
 ## 复习记录
 

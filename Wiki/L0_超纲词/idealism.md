@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**理想主义**==；②唯心主义（哲学）；③不切实际的想法；
+**n.** ①==**理想主义**== `political idealism` [书面] `artistic idealism` [书面]；②唯心主义（哲学） `philosophical idealism` [书面]；③不切实际的想法 `naive idealism` [口语]；
 
 > [!tip] 原型义
 > **原型义**：将理想视为最高原则的哲学立场
@@ -125,7 +125,9 @@ ide(a)(思想/理念) + -ism(主义/学说)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - idealism 常出现在哲学、政治类文章中，与 realism, pragmatism 形成对比论述。
+> - His political idealism inspired a generation of young activists to fight for social justice. `[例]`
+> - The philosopher argued that idealism provides a necessary counterbalance to raw materialism. `[例]`
+> - Her naive idealism blinded her to the harsh realities of running a business. `[例]`
 
 ## 复习记录
 

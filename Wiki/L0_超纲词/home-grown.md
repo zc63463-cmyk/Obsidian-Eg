@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**本国培育的，土生土长的**==；②自家种植的；
+**adj.** ①==**本国培育的，土生土长的**== `home-grown talent/business` [新闻]；②==**自家种植的**== `home-grown vegetables/produce` [日常]；
 > [!tip] 原型义
 > **原型义**：本国培育的，土生土长的（在自己国家/地方生长的）
 > **延伸维度**：空间路径
@@ -125,8 +125,9 @@ home(家/本国) + grown(生长的，grow的过去分词) → 复合词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The country is proud of its home-grown tech startups that are now competing globally."（该国为其如今在全球竞争的本土科技初创企业感到自豪）
-> - "Home-grown vegetables taste better because they are fresher and free from pesticides."自家种的蔬菜味道更好，因为更新鲜且不含农药）
+> - The country is proud of its home-grown tech startups that are now competing globally. `[例]`
+> - Home-grown vegetables taste better because they are fresher and free from pesticides. `[例]`
+> - The government launched a new initiative to support home-grown businesses in rural areas. `[例]`
 
 ## 复习记录
 

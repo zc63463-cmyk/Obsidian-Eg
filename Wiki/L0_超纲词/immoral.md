@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不道德的，道德败坏的**==；②淫秽的；
+**adj.** ①==**不道德的，道德败坏的**== `it is immoral to do sth` [贬义/通用]；②淫秽的 `immoral content` [贬义/正式]；
 
 > [!tip] 原型义
 > **原型义**：违背道德标准的
@@ -123,7 +123,8 @@ im-(=in-, 不) + moral(道德的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - immoral 常出现在伦理学、社会评论类文章中，讨论道德标准和社会行为规范。
+> - It is widely considered immoral to deceive others for personal gain. `[例]`
+> - The committee condemned the distribution of immoral content on the internet. `[例]`
 
 ## 复习记录
 

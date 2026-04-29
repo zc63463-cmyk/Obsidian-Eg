@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**花岗岩**==；②坚如磐石的事物（比喻义）；
+**n.** ①==**花岗岩**== `adj + N` [通用] `N of N` [学术]；②==**坚如磐石的事物**== `a N of N` [文学]（比喻义）；
 
 > [!tip] 原型义
 > **原型义**：颗粒状的石头（拉丁语 *granum* 颗粒，因花岗岩具有明显的颗粒状纹理而得名）
@@ -128,8 +128,8 @@ gran(=grain, 颗粒，拉丁语 *granum*) + -ite(矿物/岩石后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She faced the crisis with granite determination."（她以坚如磐石的决心面对危机。）
-> - "The mountains are composed mainly of granite."（这些山脉主要由花岗岩构成。）
+> - She faced the crisis with granite determination. `[例]`
+> - The mountains are composed mainly of granite. `[例]`
 
 ## 复习记录
 

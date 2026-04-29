@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**移民，移居（入境）**==；②移民人数；③移民局（复数 immigrations）；
+**n.** ①==**移民，移居（入境）**== `immigration to a country` [书面] `illegal immigration` [书面]；②移民人数 `restrict immigration` [书面] `immigration policy` [书面]；③移民局（复数 immigrations）；
 
 > [!tip] 原型义
 > **原型义**：从外国迁入并定居
@@ -125,7 +125,9 @@ im-(=in-, 向内) + migr(迁移) + -ation(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - immigration 是社会类文章的高频词，常涉及移民政策、人口流动、文化融合等话题。
+> - The country revised its immigration policy to attract skilled workers from abroad. `[例]`
+> - Illegal immigration has become one of the most debated issues in recent elections. `[例]`
+> - Immigration to Australia increased significantly after the government introduced new visa programs. `[例]`
 
 ## 复习记录
 

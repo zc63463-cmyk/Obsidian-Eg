@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**努力应对，设法解决（难题）**==；②扭打，搏斗；③紧紧抓住；
-**n.** ①抓钩，格斗；
+**v.** ①==**努力应对，设法解决（难题）**== `V with N` [正式] `V with wh-clause` [正式]；②==**扭打，搏斗**== `V with N` [书面]；③==**紧紧抓住**== `V with N` [书面]；
+**n.** ①==**抓钩，格斗**== `N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：用钩子抓住（源自古法语 *grapil* 钩子，与 grape 葡萄同源——葡萄藤像钩子一样攀附）
@@ -129,8 +129,8 @@ grap(=grab/grab, 抓住/钩子，古法语 *grapil*) + -le(反复/工具后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government is still grappling with how to regulate artificial intelligence."（政府仍在努力应对如何监管人工智能的问题。）
-> - "Educators grapple with the challenge of keeping students engaged in online learning."（教育工作者努力应对在线学习中保持学生参与度的挑战。）
+> - The government is still grappling with how to regulate artificial intelligence. `[例]`
+> - Educators grapple with the challenge of keeping students engaged in online learning. `[例]`
 
 ## 复习记录
 

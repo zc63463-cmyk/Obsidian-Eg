@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不完整的，未完成的**==；②不完善的；
+**adj.** ①==**不完整的，未完成的**== `incomplete + n. (data/information)` [贬义/通用] `remain incomplete` [贬义/通用]；②==**不完善的**== `an incomplete + n.` [贬义/通用]；
 
 > [!tip] 原型义
 > **原型义**：不完整的、未完成的
@@ -122,7 +122,9 @@ in-(不) + com-(完全) + plet(填充/完成，拉丁语 *plere*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - incomplete 是学术、技术类文章的高频词，常用于描述数据不足或研究局限。
+> - The investigation was hampered by incomplete data from the early stages of the study. `[例]`
+> - Without all the relevant documents, any analysis will remain incomplete. `[例]`
+> - The museum's collection is still incomplete despite years of acquisition efforts. `[例]`
 
 ## 复习记录
 

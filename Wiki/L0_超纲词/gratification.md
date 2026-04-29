@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**满足，满意**==；②令人满足的事物；③ gratification（心理学：即时满足）；
+**n.** ①==**满足，满意**== `N` [正式] `derive N from` [正式]；②==**令人满足的事物**== `a source of N` [正式]；③==**即时满足**== `adj + N` [学术]（心理学：即时满足）；
 
 > [!tip] 原型义
 > **原型义**：使人愉悦的状态（拉丁语 *gratificatio*，gratus 感激的/令人愉快的 + -ficare 使）
@@ -134,8 +134,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The ability to delay gratification is one of the most important factors for success."（延迟满足的能力是成功最重要的因素之一。）
-> - "She found great gratification in her work as a teacher."（她在教师工作中获得了极大的满足感。）
+> - The ability to delay gratification is one of the most important factors for success. `[例]`
+> - She found great gratification in her work as a teacher. `[例]`
 
 ## 复习记录
 

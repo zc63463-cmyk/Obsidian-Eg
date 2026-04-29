@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**天生的，与生俱来的**==；②先天的；
+**adj.** ①==**天生的，与生俱来的**== `inborn talent/ability` [正式] `an inborn sense of` [正式]；②==**先天的**== `inborn traits vs acquired skills` [正式]；
 
 > [!tip] 原型义
 > **原型义**：天生的、与生俱来的
@@ -121,7 +121,8 @@ in-(在……内) + born(出生)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - inborn 常出现在心理学、教育学文章中，讨论先天与后天（nature vs nurture）的争论。
+> - Some researchers argue that musical ability is largely inborn rather than acquired through training. `[例]`
+> - The child displayed an inborn curiosity about the natural world that delighted her parents. `[例]`
 
 ## 复习记录
 

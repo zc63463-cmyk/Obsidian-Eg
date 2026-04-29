@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**嘶嘶作响地煎炸**==；②（头发）卷曲；
+**v.** ①==**嘶嘶作响地煎炸**== `V` [口语]；②==**（头发）卷曲**== `V` [口语]；
 **n.** ①煎炸的嘶嘶声；②卷曲的头发；
 
 > [!tip] 原型义
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She frizzled the bacon until it was perfectly crispy."（她把培根煎到滋滋作响，直到完美酥脆。")
-> - "Her naturally frizzled hair became even more unruly in the humid weather."（她天生卷曲的头发在潮湿天气中变得更加蓬乱。")
+> - She frizzled the bacon until it was perfectly crispy. `[例]`
+> - Her naturally frizzled hair became even more unruly in the humid weather. `[例]`
 
 ## 复习记录
 

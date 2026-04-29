@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不善表达的，口齿不清的**==；②不能清楚表达的（情感等）；③不连贯的；
+**adj.** ①==**不善表达的，口齿不清的**== `an inarticulate person/speech` [正式] `render someone inarticulate` [正式]；②==**不能清楚表达的（情感等）**== `inarticulate with rage/emotion` [正式]；③==**不连贯的**== `an inarticulate response` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不善表达的、口齿不清的
@@ -121,7 +121,8 @@ in-(不) + artic(ulate)(连接/关节→清晰表达)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - inarticulate 常出现在文学、心理学文章中，描述情感表达障碍。
+> - She became completely inarticulate with rage and could barely form a sentence. `[例]`
+> - The witness gave an inarticulate account of the events that the jury found difficult to follow. `[例]`
 
 ## 复习记录
 

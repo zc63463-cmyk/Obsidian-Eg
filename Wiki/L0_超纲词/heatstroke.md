@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**中暑**==；
+**n.** ①==**中暑**== `suffer from heatstroke` [医学] `heatstroke warning` [新闻]；
 > [!tip] 原型义
 > **原型义**：中暑（因高温导致身体过热的疾病）
 > **延伸维度**：抽象路径
@@ -121,8 +121,8 @@ heat(高温) + stroke(打击/发作) → 复合词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "With temperatures soaring above 40°C, authorities issued heatstroke warnings across the region."（随着气温飙升至40度以上，当局在该地区发布了中暑预警）
-> - "Elderly people and young children are particularly vulnerable to heatstroke during heatwaves."（老年人和幼儿在热浪期间特别容易中暑）
+> - With temperatures soaring above 40 degrees Celsius, authorities issued heatstroke warnings across the region. `[例]`；
+> - Elderly people and young children are particularly vulnerable to heatstroke during heatwaves. `[例]`；
 
 ## 复习记录
 

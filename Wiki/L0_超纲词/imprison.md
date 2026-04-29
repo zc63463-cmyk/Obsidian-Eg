@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**监禁，关押**==；②束缚，禁锢；
+**v.** ①==**监禁，关押**== `be imprisoned for sth` [中性/正式] `imprison sb` [中性/正式]；②束缚，禁锢 `be imprisoned by fear` [文学] `imprisoned in one's own mind` [文学]；
 
 > [!tip] 原型义
 > **原型义**：把某人关进监狱
@@ -122,7 +122,8 @@ im-(=in-, 在……内) + prison(监狱)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - “He was imprisoned for 10 years for fraud.”（他因欺诈被监禁10年。）
+> - He was imprisoned for ten years after being convicted of large-scale fraud. `[例]`
+> - She felt imprisoned by her own fears and unable to pursue the career she truly wanted. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**监护权，监护人的身份**==；②守护，保护；
+**n.** ①==**监护权，监护人的身份**== `award/have/obtain guardianship of sb.` [法律]；②==**守护，保护**== `guardianship of cultural heritage` [正式]；
 
 > [!tip] 原型义
 > **原型义**：守护的状态/身份（guard 守卫 + -ship 状态/身份）
@@ -126,8 +126,9 @@ guard(守卫，古法语 *garder*) + -ship(表示状态/身份/关系的名词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The court awarded guardianship of the child to her grandmother."（法院将孩子的监护权判给了她的祖母。）
-> - "The museum sees itself as having a guardianship of the nation's artistic heritage."（博物馆将自己视为国家艺术遗产的守护者。）
+> - The court awarded guardianship of the child to her grandmother. `[例]`
+> - The museum sees itself as having a guardianship of the nation's artistic heritage. `[例]`
+> - She was granted legal guardianship of her younger brother after their parents passed away. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**异端邪说，异教**==；②（引申）离经叛道的信念/行为；
+**n.** ①==**异端邪说，异教**== `be accused of heresy` [书面] `religious heresy` [学术]；②（引申）离经叛道的信念/行为；
 > [!tip] 原型义
 > **原型义**：异端邪说（违背正统信仰的学说）
 > **延伸维度**：社会路径
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Galileo's heliocentric theory was condemned as heresy by the Catholic Church."（伽利略的日心说被天主教会谴责为异端）
-> - "In the field of economics, suggesting that free markets may not always be efficient is sometimes treated as heresy."（在经济学领域，暗示自由市场可能并不总是高效的有时被视为异端邪说）
+> - Galileo's heliocentric theory was condemned as heresy by the Catholic Church in the seventeenth century. `[例]`；
+> - In the field of economics, suggesting that free markets may not always be efficient is sometimes treated as heresy. `[例]`；
 
 ## 复习记录
 

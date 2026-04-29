@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不正确地，错误地**==；
+**adv.** ①==**不正确地，错误地**== `incorrectly + past participle (interpreted/applied)` [贬义/正式] `behave/answer incorrectly` [贬义/正式]；
 
 > [!tip] 原型义
 > **原型义**：不正确地、错误地
@@ -120,7 +120,9 @@ in-(不) + correct(正确的) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - incorrectly 常出现在学术、法律类文章中，指出错误的理解或应用。
+> - The survey data was incorrectly interpreted, leading to flawed policy recommendations. `[例]`
+> - Patients who incorrectly follow dosage instructions may experience adverse side effects. `[例]`
+> - The formula was incorrectly applied to the dataset, producing unreliable results. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不满，委屈，抱怨**==；②冤情，苦衷；
+**n.** ①==**不满，委屈，抱怨**== `have a N against` [正式] `file a N` [正式]；②==**冤情，苦衷**== `N procedure` [正式]；
 
 > [!tip] 原型义
 > **原型义**：沉重的感觉（拉丁语 *gravis* 重的→悲伤的→委屈的）
@@ -133,8 +133,8 @@ griev(=heavy/heavy-hearted, 沉重/悲伤，拉丁语 *gravis*) + -ance(名词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Workers filed a grievance against the company for unfair labor practices."（工人因不公平的劳动做法向公司提交了申诉。）
-> - "She has long harbored a grievance against her former employer."（她长期以来对前雇主心怀不满。）
+> - Workers filed a grievance against the company for unfair labor practices. `[例]`
+> - She has long harbored a grievance against her former employer. `[例]`
 
 ## 复习记录
 

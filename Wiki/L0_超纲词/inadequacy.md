@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不充分，不足**==；②不胜任，能力不足；③不够格；
+**n.** ①==**不充分，不足**== `the inadequacy of sth` [正式] `prove the inadequacy of` [正式]；②==**不胜任，能力不足**== `feelings/sense of inadequacy` [正式]；③==**不够格**== `inadequacy for the task` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不够好、不足以满足需求
@@ -121,7 +121,8 @@ in-(不) + [[equ|equ]](相等/足够) + -acy(名词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - “A sense of inadequacy can prevent people from pursuing their goals.”（自卑感会阻碍人们追求目标。）
+> - A sense of inadequacy can prevent people from pursuing their goals. `[例]`
+> - The report highlighted the inadequacy of the current public transportation system in serving rural communities. `[例]`
 
 ## 复习记录
 

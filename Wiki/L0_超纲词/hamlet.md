@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小村庄，村落**==；②（莎士比亚剧作名）《哈姆雷特》；
+**n.** ①==**小村庄，村落**== `a remote/sleepy hamlet` [中性/文学]；②（莎士比亚剧作名）《哈姆雷特》 `Shakespeare's Hamlet` [专有名词]；
 > [!tip] 原型义
 > **原型义**：小村庄（比village更小的定居点）
 > **延伸维度**：空间路径
@@ -121,8 +121,9 @@ ham(=home/homestead, 家/宅地) + -let(小称后缀，表示"小的")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The road wound through sleepy hamlets and rolling farmland."（道路蜿蜒穿过宁静的小村庄和起伏的农田）
-> - "He lived in a tiny hamlet at the edge of the forest, far from the nearest town."（他住在森林边缘的一个小村庄里，离最近的城镇很远）
+> - The road wound through sleepy hamlets and rolling farmland. `[例]`
+> - He lived in a tiny hamlet at the edge of the forest, far from the nearest town. `[例]`
+> - The picturesque hamlet was home to no more than a dozen families. `[例]`
 
 ## 复习记录
 

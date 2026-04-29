@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**狭隘的，偏执的**==；②缺乏宽容的；③反对自由的（政治上）；
+**adj.** ①==**狭隘的，偏执的**== `illiberal attitudes` [书面] `illiberal views` [书面]；②缺乏宽容的；③反对自由的（政治上） `illiberal regime` [书面]；
 
 > [!tip] 原型义
 > **原型义**：缺乏自由和宽容的态度
@@ -121,7 +121,9 @@ il-(=in-, 不) + [[liber|liber]](自由) + -al(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - illiberal 常出现在政治学、社会学文章中，与 liberal democracy 形成对比。
+> - The government's illiberal policies have drawn criticism from international human rights organizations. `[例]`
+> - His illiberal attitudes toward immigration alienated many of his colleagues. `[例]`
+> - Scholars warn that the rise of illiberal democracy threatens the foundations of constitutional governance. `[例]`
 
 ## 复习记录
 

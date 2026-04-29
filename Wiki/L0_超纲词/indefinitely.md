@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**无限期地**==；②不明确地，模糊地；
+**adv.** ①==**无限期地**== `postpone/delay/suspend + sth. indefinitely` [中性/正式] `extend indefinitely` [中性/正式]；②==**不明确地，模糊地**== `speak indefinitely about sth.` [中性/正式]；
 
 > [!tip] 原型义
 > **原型义**：无限期地、不明确地
@@ -123,7 +123,9 @@ in-(不) + [[de|de]]-(向下/完全) + [[fin|fin]](界限/结束，拉丁语 *fi
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - indefinitely 常出现在新闻、政策类文章中，描述没有确定期限的延期或暂停。
+> - The government decided to postpone the election indefinitely due to the ongoing security crisis. `[例]`
+> - The athlete was suspended indefinitely from competition pending further investigation. `[例]`
+> - The lease agreement was extended indefinitely with the consent of both parties. `[例]`
 
 ## 复习记录
 

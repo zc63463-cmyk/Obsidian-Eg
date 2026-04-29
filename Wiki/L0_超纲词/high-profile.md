@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**高调的，引人注目的**==；②备受关注的；
+**adj.** ①==**高调的，引人注目的**== `a high-profile case/trial` [新闻] `a high-profile figure` [新闻]；②备受关注的；
 > [!tip] 原型义
 > **原型义**：高调的，引人注目的（处于公众视线焦点）
 > **延伸维度**：社会路径
@@ -124,8 +124,8 @@ high(高的) + profile(轮廓/形象) → 复合词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The high-profile trial attracted media attention from around the world."（这场备受关注的审判吸引了全球媒体的关注）
-> - "She resigned from her high-profile position as CEO amid growing controversy."（她在日益增长的争议中辞去了CEO这一高调职位）
+> - The high-profile trial attracted media attention from around the world. `[例]`；
+> - She resigned from her high-profile position as CEO amid growing controversy over the company's finances. `[例]`；
 
 ## 复习记录
 

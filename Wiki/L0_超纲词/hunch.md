@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**直觉，预感**==；②隆起，肉峰；
-**v.** ①弓起背部；②向前移动；
+**n.** ①==**直觉，预感**== `have a hunch that...` [口语] `a hunch about sth` [口语]；②隆起，肉峰；
+**v.** ①弓起背部 `hunch over` [书面]；②向前移动；
 
 > [!tip] 原型义
 > **原型义**：推一把（源自16世纪，"to push, thrust"，来源不确定）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "I have a hunch that the market will recover soon."（我有一种直觉，市场很快就会恢复。）
-> - "She was hunched over her desk, working late into the night."（她弓着身子伏在桌前，工作到深夜。）
+> - I have a hunch that the market will recover soon. `[例]`
+> - She was hunched over her desk, working late into the night. `[例]`
+> - He played a hunch and invested in the startup, which turned out to be a wise decision. `[例]`
 
 ## 复习记录
 

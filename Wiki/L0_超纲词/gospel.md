@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**福音；真理；信条**==；②福音书（圣经四福音之一）；③绝对真理；
+**n.** ①==**福音；真理；信条**== `take something as gospel` [非正式] `the gospel truth` [非正式]；②福音书（圣经四福音之一）；③绝对真理；
 **adj.** ①福音的；
 
 > [!tip] 原型义
@@ -129,8 +129,9 @@ god(=good, 好) + spel(=spell, 消息/故事，古英语 *spel*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Don't take everything he says as gospel."（不要把他说的每句话都当作绝对真理。）
-> - "The idea that competition is always good has become something of an economic gospel."（竞争总是好的这一观念已经成为某种经济学信条。）
+> - Don't take everything he says as gospel, because even experts can make mistakes. `[例]`
+> - The idea that competition is always beneficial has become something of an economic gospel in recent decades. `[例]`
+> - She treated her grandmother's advice as the gospel truth and never questioned it. `[例]`
 
 ## 复习记录
 

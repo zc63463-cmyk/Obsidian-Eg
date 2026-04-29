@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**难以置信的，不合情理的**==；②不像真实的；
+**adj.** ①==**难以置信的，不合情理的**== `an implausible explanation/excuse` [贬义/正式] `highly implausible` [贬义/通用]；②不像真实的 `implausible scenario` [贬义/正式]；
 
 > [!tip] 原型义
 > **原型义**：难以置信的、不合情理的
@@ -121,7 +121,8 @@ im-(=in-, 不) + plaus(ible)(可鼓掌的→可信的，拉丁语 *plaudere*=鼓
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - implausible 常出现在逻辑分析、法律论证类文章中，用于质疑解释或证据的合理性。
+> - The detective found the suspect's alibi entirely implausible given the contradictory evidence. `[例]`
+> - The movie was criticized for its implausible plot twists that defied basic logic. `[例]`
 
 ## 复习记录
 

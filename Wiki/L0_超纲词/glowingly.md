@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**热情洋溢地，光辉地**==；②发亮地；③满脸红光地；
+**adv.** ①==**热情洋溢地，光辉地**== `speak glowingly of/about...` [正式/文学] `glowingly praise...` [正式]；②发亮地；③满脸红光地；
 
 > [!tip] 原型义
 > **原型义**：发光地（以发光的方式做某事）
@@ -127,8 +127,9 @@ glow(发光，古英语 *glowan*) + -ing(构成现在分词/形容词) + -ly(副
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She spoke glowingly of her experience working abroad."（她热情洋溢地谈论了她在国外工作的经历。）
-> - "The product has been glowingly reviewed by critics."（这款产品受到了评论家们的高度评价。）
+> - She spoke glowingly of her experience working abroad and encouraged her colleagues to pursue similar opportunities. `[例]`
+> - The product has been glowingly reviewed by critics who praised its innovative design and user-friendly interface. `[例]`
+> - Former students speak glowingly about the professor whose lectures transformed their understanding of modern history. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不切实际的，不可行的**==；②缺乏实践能力的；
+**adj.** ①==**不切实际的，不可行的**== `an impractical idea/solution` [贬义/通用] `it is impractical to do sth` [贬义/通用]；②缺乏实践能力的 `an impractical person` [贬义/通用]；
 
 > [!tip] 原型义
 > **原型义**：不切实际的、不可行的
@@ -121,7 +121,8 @@ im-(=in-, 不) + [[pract-prag|pract]](实践/做) + -ical(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - impractical 常出现在评论、分析类文章中，用于批评方案或想法缺乏可操作性。
+> - The committee rejected the proposal as impractical given the limited resources available. `[例]`
+> - It is impractical to expect everyone to master multiple foreign languages in a short period. `[例]`
 
 ## 复习记录
 

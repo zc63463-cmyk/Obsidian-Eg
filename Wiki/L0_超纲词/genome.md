@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**基因组，染色体组**==（一个生物体的全部遗传信息/全部基因）；
+**n.** ①==**基因组，染色体组**== `human genome` [学术]；
 
 > [!tip] 原型义
 > **原型义**：基因的全部（一个生物体所拥有的全部遗传信息的总和）
@@ -130,7 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题直接关联，但 Human Genome Project 为常见学术背景知识
+> - The Human Genome Project was completed in 2003 after thirteen years of work. `[例]`
+> - Genome sequencing has become faster and cheaper with advances in technology. `[例]`
 
 ## 复习记录
 

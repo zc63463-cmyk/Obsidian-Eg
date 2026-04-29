@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**interj.** ①==**好哇！万岁！**==（表示欢呼、高兴）；
-**n.** ①==**欢呼声**==；
+**interj.** ①==**好哇！万岁！**== `Hooray! We did it!` [口语]；
+**n.** ①==**欢呼声**== `a chorus of hoorays` [书面] `give three hoorays` [书面]；
 > [!tip] 原型义
 > **原型义**：好哇！（表示欢呼、高兴的感叹词）
 > **延伸维度**：抽象路径
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Hooray! The exam is finally over!"（好哇！考试终于结束了！）
-> - "The crowd erupted in a chorus of hoorays as the team scored the winning goal."（当球队打入制胜球时，人群爆发出一片欢呼声）
+> - Hooray! The exam is finally over! `[例]`
+> - The crowd erupted in a chorus of hoorays as the team scored the winning goal. `[例]`
+> - The children let out a chorus of hoorays when they heard school was cancelled for the day. `[例]`
 
 ## 复习记录
 

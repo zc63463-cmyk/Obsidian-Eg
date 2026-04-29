@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**资金，拨款**==；②资助，筹资；
+**n.** ①==**资金，拨款**== `N` [通用]；②==**资助，筹资**== `N` [通用]；
 **v.** ①(fund 的现在分词) 为…提供资金；
 
 > [!tip] 原型义
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The research project depends heavily on government funding."（这个研究项目严重依赖政府拨款。）
-> - "Securing adequate funding remains one of the biggest challenges for startups."（获得充足的资金仍然是初创企业面临的最大挑战之一。")
+> - The research project depends heavily on government funding. `[例]`
+> - Securing adequate funding remains one of the biggest challenges for startups. `[例]`
 
 ## 复习记录
 

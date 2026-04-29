@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**畜牧业，农业**==；②节俭管理，合理利用；
+**n.** ①==**畜牧业，农业**== `animal husbandry` [书面] `crop husbandry` [书面]；②节俭管理，合理利用 `good husbandry of resources` [书面]；
 
 > [!tip] 原型义
 > **原型义**：房屋/家庭的管理（古诺斯语 *husbondi* = hus 房屋 + bondi 居住者/管理者）
@@ -125,8 +125,9 @@ hus(=house, 房屋，古诺斯语 *hus*) + band(=bondi, 居住者/管理者) + -
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Animal husbandry practices have evolved significantly with advances in genetic science."（随着遗传科学的进步，畜牧业实践已经发生了显著变化。）
-> - "The principle of good husbandry of natural resources is essential for sustainable development."（合理利用自然资源的原则对可持续发展至关重要。）
+> - Animal husbandry practices have evolved significantly with advances in genetic science. `[例]`
+> - The principle of good husbandry of natural resources is essential for sustainable development. `[例]`
+> - Traditional crop husbandry techniques are being revived by organic farmers across the region. `[例]`
 
 ## 复习记录
 

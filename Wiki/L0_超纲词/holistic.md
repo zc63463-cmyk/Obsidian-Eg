@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**整体的，全盘的**==；② holistic medicine：整体医学；
+**adj.** ①==**整体的，全盘的**== `a holistic approach to sth` [学术] `holistic view/perspective` [学术]；②==**整体医学的**== `holistic medicine/treatment` [学术]；
 > [!tip] 原型义
 > **原型义**：整体的，全盘的（把事物看作一个完整整体）
 > **延伸维度**：抽象路径
@@ -126,8 +126,9 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "We need a holistic approach to solving climate change that addresses economic, social, and environmental factors together."（我们需要一种整体方法来解决气候变化，同时应对经济、社会和环境因素）
-> - "Holistic medicine treats the patient as a whole person, rather than focusing solely on symptoms."（整体医学将患者视为一个完整的人来治疗，而不是仅仅关注症状）
+> - We need a holistic approach to solving climate change that addresses economic, social, and environmental factors together. `[例]`
+> - Holistic medicine treats the patient as a whole person, rather than focusing solely on symptoms. `[例]`
+> - The school adopted a holistic education model that emphasizes both academic achievement and personal development. `[例]`
 
 ## 复习记录
 

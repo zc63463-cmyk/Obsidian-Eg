@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**倾向，意愿**==；②爱好，癖好；③倾斜，斜坡；
+**n.** ①==**倾向，意愿**== `have an inclination to do sth` [正式] `natural inclination` [正式]；②==**爱好，癖好**== `an inclination for music/art` [正式]；③==**倾斜，斜坡**== `the inclination of the roof` [正式]；
 
 > [!tip] 原型义
 > **原型义**：倾向、意愿
@@ -126,7 +126,8 @@ in-(=in-, 向……方向) + clin(倾斜，拉丁语 *clinare*) + -ation(名词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - inclination 常出现在心理学、教育类文章中，讨论个人兴趣和职业倾向。
+> - She has a strong inclination toward the sciences, particularly biology and chemistry. `[例]`
+> - Against his natural inclination, he agreed to take on the leadership role for the sake of the team. `[例]`
 
 ## 复习记录
 

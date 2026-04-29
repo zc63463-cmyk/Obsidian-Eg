@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**人科动物**==（包括人类及其祖先，以及大猩猩、黑猩猩等）；
-**adj.** ①==**人科的**==；
+**n.** ①==**人科动物**==（包括人类及其祖先，以及大猩猩、黑猩猩等）`early hominids` [学术] `hominid fossil` [学术]；
+**adj.** ①==**人科的**== `hominid species` [学术]；
 > [!tip] 原型义
 > **原型义**：人科动物（包括人类和类人猿的灵长类动物）
 > **延伸维度**：抽象路径
@@ -125,8 +125,9 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Fossil evidence suggests that early hominids walked upright nearly 4 million years ago."（化石证据表明，早期人科动物在近400万年前就开始直立行走）
-> - "The discovery of a new hominid species in Africa has reshaped our understanding of human evolution."（在非洲发现的新人科物种重塑了我们对人类进化的理解）
+> - Fossil evidence suggests that early hominids walked upright nearly 4 million years ago. `[例]`
+> - The discovery of a new hominid species in Africa has reshaped our understanding of human evolution. `[例]`
+> - Recent studies of hominid fossils have provided new insights into the development of tool use among early human ancestors. `[例]`
 
 ## 复习记录
 

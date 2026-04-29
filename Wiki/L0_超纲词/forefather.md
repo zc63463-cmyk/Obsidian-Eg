@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**祖先，祖宗**==；②前辈，先驱；
+**n.** ①==**祖先，祖宗**== `N` [正式]；②==**前辈，先驱**== `N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：祖先（在自己之前世代相传的人）
@@ -124,8 +124,8 @@ fore-(在前，在前方) + father(父亲)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Our forefathers fought bravely to secure the freedoms we enjoy today."（我们的祖先英勇战斗，为我们赢得了今天享有的自由。）
-> - "The forefathers of modern science laid the groundwork for centuries of discovery."（现代科学的先驱为几个世纪的发现奠定了基础。）
+> - Our forefathers fought bravely to secure the freedoms we enjoy today. `[例]`
+> - The forefathers of modern science laid the groundwork for centuries of discovery. `[例]`
 
 ## 复习记录
 

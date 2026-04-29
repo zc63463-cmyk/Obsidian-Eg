@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**完全地，充分地**==；②彻底地；
+**adv.** ①==**完全地，充分地**== `adv` [通用]；②==**彻底地**== `adv` [通用]；
 
 > [!tip] 原型义
 > **原型义**：完全地（达到全部程度）
@@ -127,8 +127,8 @@ full(满的，完全的) + -ly(副词后缀，…地)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Students need to fully understand the concepts before applying them."（学生在应用概念之前需要完全理解它们。）
-> - "She was fully aware of the risks involved in the investment."（她完全意识到这项投资所涉及的风险。")
+> - Students need to fully understand the concepts before applying them. `[例]`
+> - She was fully aware of the risks involved in the investment. `[例]`
 
 ## 复习记录
 

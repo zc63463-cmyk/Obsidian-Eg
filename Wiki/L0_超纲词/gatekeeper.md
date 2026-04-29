@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**守门人，把关者**==（控制通道入口的人）；②==**（引申）信息/资源的把关人，筛选者**==（控制信息传播或资源获取的人或机构）；
+**n.** ①==**守门人，把关者**== `act as a gatekeeper` [正式]；②==**（引申）信息/资源的把关人，筛选者**== `media gatekeeper` [学术]；
 
 > [!tip] 原型义
 > **原型义**：守门人（在门口看守、控制谁可以通行的人）
@@ -132,7 +132,8 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题直接关联，常见于学术阅读和社会学文献中
+> - The editor plays a crucial gatekeeper role in the publishing process. `[例]`
+> - Primary care physicians act as gatekeepers to specialist services. `[例]`
 
 ## 复习记录
 

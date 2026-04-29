@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（尤指音乐人的）演出，表演**==；②==**（临时性的）工作，任务**==（尤指自由职业者的一次性工作）；③（俚语）十亿字节（gigabyte 的缩写）；
-**vi.** ①（尤指音乐人）演出，表演；
+**n.** ①==**（尤指音乐人的）演出，表演**== `play a gig at...` [非正式]；②==**（临时性的）工作，任务**== `land a gig as...` [非正式] `a freelance gig` [非正式]；③（俚语）十亿字节（gigabyte 的缩写）；
+**vi.** ①（尤指音乐人）演出，表演 `gig at/with...` [非正式]；
 
 > [!tip] 原型义
 > **原型义**：一次演出/一份工作（临时性的表演或工作任务）
@@ -138,7 +138,9 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题直接关联，但 gig economy 为近年高频社会经济话题
+> - The band played their last gig at the local jazz club before the guitarist moved to New York. `[例]`
+> - She landed a freelance gig as a graphic designer for a tech startup. `[例]`
+> - Many college students take on gig economy jobs to support themselves during the academic year. `[例]`
 
 ## 复习记录
 

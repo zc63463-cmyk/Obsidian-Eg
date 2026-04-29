@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不可能性，不可能的事**==；②做不到的事；
+**n.** ①==**不可能性，不可能的事**== `a logical impossibility` [正式] `prove the impossibility of sth` [正式]；②做不到的事 `the impossibility of sth` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不可能的事情或状态
@@ -120,7 +120,8 @@ im-(=in-, 不) + poss(ible)(能够的) + -ibility(名词后缀，表示性质/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - impossibility 常出现在哲学、逻辑学、科学类文章中，讨论理论或实践的可行性边界。
+> - The mathematician succeeded in proving the impossibility of constructing a perfect square using only a compass and straightedge. `[例]`
+> - Given the current budget constraints, completing the project by next month is an impossibility. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**开创性的，突破性的**==；②创新的，革新的；
-**n.** ①破土动工仪式；
+**adj.** ①==**开创性的，突破性的**== `adj + N` [正式] `N + adj` [正式]；②==**创新的，革新的**== `adj + N` [正式]；
+**n.** ①==**破土动工仪式**== `N ceremony` [通用]；
 
 > [!tip] 原型义
 > **原型义**：破土动工（ground 地面 + breaking 打破——打破地面开始建筑）
@@ -127,8 +127,8 @@ ground(地面) + break(打破) + -ing(形容词/名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The team's groundbreaking research on gene editing won the Nobel Prize."（该团队在基因编辑方面的开创性研究获得了诺贝尔奖。）
-> - "The groundbreaking ceremony for the new hospital was attended by hundreds of local residents."（数百名当地居民参加了新医院的破土动工仪式。）
+> - The team's groundbreaking research on gene editing won the Nobel Prize. `[例]`
+> - The groundbreaking ceremony for the new hospital was attended by hundreds of local residents. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**加速，促进**==；②赶紧，匆忙；
+**v.** ①==**加速，促进**== `hasten the process/collapse/decline` [正式]；②==**赶紧，匆忙**== `hasten to do sth.` [正式]；
 > [!tip] 原型义
 > **原型义**：加速，赶快（使动作变快）
 > **延伸维度**：时间路径
@@ -127,8 +127,9 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "I hasten to add that this does not mean we agree with all of their conclusions."（我赶紧补充一句，这并不意味着我们同意他们的所有结论）
-> - "Climate change could hasten the extinction of many species."（气候变化可能加速许多物种的灭绝）
+> - I hasten to add that this does not mean we agree with all of their conclusions. `[例]`
+> - Climate change could hasten the extinction of many species. `[例]`
+> - The discovery of antibiotics hastened the decline of many infectious diseases. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**目瞪口呆地凝视，张大嘴看**==（at sb./sth.）；②（裂口等）张开，裂开；
-**n.** ①目瞪口呆的凝视；②张开的裂口，豁口；
+**vi.** ①==**目瞪口呆地凝视，张大嘴看**== `gape at sb./sth.` [文学]；②==**（裂口等）张开，裂开**== `gape open` [文学]；
+**n.** ①==**目瞪口呆的凝视**== `in a gape` [文学]；②==**张开的裂口，豁口**== `a gaping hole` [文学]；
 
 > [!tip] 原型义
 > **原型义**：张大嘴巴（因震惊或好奇而目瞪口呆）
@@ -133,7 +133,8 @@ gape 源自古诺斯语 *gapa*（张大嘴），与 [[gap]]（缺口、裂口）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题直接关联，常见于英文原版阅读和文学作品中
+> - The crowd gaped at the magician's performance in stunned silence. `[例]`
+> - A gaping hole appeared in the ceiling after the explosion. `[例]`
 
 ## 复习记录
 

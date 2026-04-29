@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**遗传学家，基因学家**==（研究基因和遗传现象的科学家）；
+**n.** ①==**遗传学家，基因学家**== `a leading geneticist` [学术]；
 
 > [!tip] 原型义
 > **原型义**：研究基因的专家（从事遗传学研究的科学家）
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题直接关联，常见于科普阅读和学术文章
+> - A leading geneticist has made a groundbreaking discovery about gene therapy. `[例]`
+> - Geneticists have discovered a new gene linked to heart disease. `[例]`
 
 ## 复习记录
 

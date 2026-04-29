@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**强硬的，不妥协的**==；
-**n.** ①==**强硬路线**==；
+**adj.** ①==**强硬的，不妥协的**== `a hardline stance/approach/policy` [正式]；
+**n.** ①==**强硬路线**== `take a hardline (on sth.)` [正式]；
 > [!tip] 原型义
 > **原型义**：不妥协的强硬路线
 > **延伸维度**：社会路径
@@ -126,8 +126,9 @@ hard(坚硬的) + line(路线/立场) → 复合词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government took a hardline stance against terrorism."（政府对恐怖主义采取了强硬立场）
-> - "Hardline conservatives opposed any compromise on immigration reform."（强硬保守派反对在移民改革上做出任何妥协）
+> - The government took a hardline stance against terrorism. `[例]`
+> - Hardline conservatives opposed any compromise on immigration reform. `[例]`
+> - The union took a hardline approach in negotiations, refusing to accept any pay cuts. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**贫困的，赤贫的**==；②枯竭的，缺乏的（资源、文化等）；
+**adj.** ①==**贫困的，赤贫的**== `impoverished areas/regions` [正式] `impoverished families` [正式]；②枯竭的，缺乏的（资源、文化等） `impoverished vocabulary` [正式] `impoverished soil` [正式]；
 
 > [!tip] 原型义
 > **原型义**：贫穷的、使贫穷
@@ -120,7 +120,8 @@ im-(=in-, 使进入) + pover(贫穷，拉丁语 *pauper*) + -ish(动词后缀，
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - impoverished 常出现在经济学、社会学文章中，描述贫困地区或资源匮乏状况。
+> - The government launched a series of programs to improve education in impoverished rural areas. `[例]`
+> - Reading widely is the best remedy for an impoverished vocabulary. `[例]`
 
 ## 复习记录
 

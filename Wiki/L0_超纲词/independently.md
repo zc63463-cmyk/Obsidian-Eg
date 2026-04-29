@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**独立地，自主地**==；②不相关地；
+**adv.** ①==**独立地，自主地**== `work/think/operate independently` [正面/通用] `independently of` [正面/通用]；②==**不相关地**== `arrive at/conclude sth. independently` [中性/正式]；
 
 > [!tip] 原型义
 > **原型义**：独立地、自主地
@@ -124,7 +124,9 @@ in-(不) + [[de|de]]-(向下) + [[pend-pens|pend]](悬挂/依赖) + -ent(形容�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - independently 是学术、职场类文章的高频词，常强调独立思考和工作能力。
+> - She has worked independently as a consultant for over ten years, managing her own clients and projects. `[例]`
+> - The two research teams independently arrived at the same conclusion, which strengthened the study's credibility. `[例]`
+> - Students are encouraged to think independently rather than simply memorizing textbook content. `[例]`
 
 ## 复习记录
 

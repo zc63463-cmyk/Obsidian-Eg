@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**蔬菜水果商**==；
+**n.** ①==**蔬菜水果商**== `the N` [通用] `N's shop` [通用]；
 
 > [!tip] 原型义
 > **原型义**：卖绿色货物的人（green 绿色/蔬菜 + grocer 杂货商）
@@ -122,8 +122,8 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She buys her fresh vegetables from the greengrocer on the corner."（她从街角的蔬菜水果店买新鲜蔬菜。）
-> - "The greengrocer had a wide selection of seasonal fruits."（蔬菜水果商有各种应季水果可供选择。）
+> - She buys her fresh vegetables from the greengrocer on the corner. `[例]`
+> - The greengrocer had a wide selection of seasonal fruits. `[例]`
 
 ## 复习记录
 

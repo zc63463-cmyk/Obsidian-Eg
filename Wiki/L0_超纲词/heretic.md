@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**异端分子，异教徒**==；
-**adj.** ①==**异端的**==；
+**n.** ①==**异端分子，异教徒**== `be condemned/burned as a heretic` [书面] `heretic beliefs/views` [书面]；
+**adj.** ①==**异端的**== `heretic ideas` [书面]；
 > [!tip] 原型义
 > **原型义**：异端分子（持有异端信仰的人）
 > **延伸维度**：社会路径
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Joan of Arc was tried and burned as a heretic by the English in 1431."（圣女贞德于1431年被英国人审判并以异端罪名处以火刑）
-> - "Anyone who questioned the official narrative was treated as a heretic."（任何质疑官方说法的人都被视为异端分子）
+> - Joan of Arc was tried and burned as a heretic by the English in 1431. `[例]`；
+> - Anyone who questioned the official narrative was treated as a heretic by the authorities. `[例]`；
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**休假，停职**==；②（军队）准假；③（因经济原因的）临时解雇；
-**v.** ①准假；②临时解雇；
+**n.** ①==**休假，停职**== `be on furlough` [正式]；②==**（军队）准假**== `grant sb. a furlough` [正式]；③==**（因经济原因的）临时解雇**== `furlough workers` [商务]；
+**v.** ①==**准假**== `furlough sb. from sth.` [正式]；②==**临时解雇**== `furlough workers` [商务]；
 
 > [!tip] 原型义
 > **原型义**：休假（暂时离开工作岗位的许可）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company furloughed thousands of workers during the economic downturn."（公司在经济衰退期间让数千名工人暂时休假。")
-> - "Soldiers on furlough were allowed to return home for the holidays."（休假的士兵被允许回家过节。")
+> - The company furloughed thousands of workers during the economic downturn. `[例]`
+> - Soldiers on furlough were allowed to return home for the holidays. `[例]`
 
 ## 复习记录
 

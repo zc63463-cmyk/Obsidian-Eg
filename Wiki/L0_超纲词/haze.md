@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**薄雾，霾**==；②（心理上的）迷蒙，困惑；
-**v.** ①==**使朦胧，使困惑**==；②（美式）对新生进行恶作剧/欺凌；
+**n.** ①==**薄雾，霾**== `a haze of sth` [中性] `in a haze` [书面]；②（心理上的）迷蒙，困惑；
+**v.** ①==**使朦胧，使困惑**== `haze sth` [书面] `be hazed by sth` [书面]；②（美式）对新生进行恶作剧/欺凌；
 > [!tip] 原型义
 > **原型义**：薄雾，霾（空气中悬浮微粒造成的能见度降低）
 > **延伸维度**：空间路径
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The morning haze obscured the mountains, making them look like paintings."（晨雾使群山若隐若现，看起来像一幅画）
-> - "His mind was in a haze after the accident, unable to process what had happened."（事故发生后他脑子一片迷蒙，无法理解发生了什么）
+> - The morning haze obscured the mountains, making them look like paintings. `[例]`；
+> - His mind was in a haze after the accident, unable to process what had happened. `[例]`；
 
 ## 复习记录
 
