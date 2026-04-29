@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**公共的，社区的**==；②共享的，共有的；③（涉及不同群体的） communal violence（群体暴力）；
+**adj.** ①==**公共的，社区的**== `adj N` [正式]；②共享的，共有的；③（涉及不同群体的） communal violence（群体暴力）；
 
 > [!tip] 原型义
 > **原型义**：社区共有的（属于整个社区的）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The village has a communal well that all residents share."（这个村庄有一口所有居民共用的公共水井——社会语料）
-> - "Communal tensions between the two ethnic groups have escalated in recent months."（两个族群之间的群体紧张关系近几个月有所升级——新闻语料）
+> - The village has a communal well that all residents share. `[例]`
+> - Communal tensions between the two ethnic groups have escalated in recent months. `[例]`
+> - Many apartment buildings feature communal gardens where residents can relax and socialize. `[例]`
 
 ## 复习记录
 

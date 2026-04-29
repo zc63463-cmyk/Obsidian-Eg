@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**坚定不移，恒久不变**==；②忠诚，忠实；③（物理）恒定性；
+**n.** ①==**坚定不移，恒久不变**== `constancy of purpose/N` `the constancy of N` [正式]；②忠诚，忠实 `constancy to N` [正式]；③（物理）恒定性 `constancy of speed/temperature` [学术]；
 
 > [!tip] 原型义
 > **原型义**：始终站立不动（坚定不移的状态）
@@ -122,8 +122,8 @@ con-（一起/始终）+ [[st-sta-stat]]（站立，拉丁语 *stare*）+ -ancy�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Her constancy of purpose in pursuing scientific research was truly admirable."（她追求科学研究目标的坚定确实令人钦佩——学术语料）
-> - "The constancy of human nature across cultures is a subject of ongoing debate."（跨越文化的人性恒定性是一个持续争论的话题——哲学语料）
+> - Her constancy of purpose in pursuing scientific research was truly admirable. `[例]`；
+> - The constancy of human nature across cultures remains a subject of ongoing debate among scholars. `[例]`；
 
 ## 复习记录
 

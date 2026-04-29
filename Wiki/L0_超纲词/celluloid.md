@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**赛璐珞（早期塑料）**==；②（引申）电影，电影业；③假象牙；
-**adj.** ①==**电影的；虚假的**==；
+**n.** ①==**赛璐珞（早期塑料）**== `N` [专业]；②（引申）==**电影，电影业**== `N` [文学]；③假象牙；
+**adj.** ①==**电影的；虚假的**== `adj N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：赛璐珞（最早的塑料薄膜材料，用于制作电影胶片）
@@ -125,8 +125,8 @@ cellulose（纤维素）+ -oid（像……的，类似……的）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Hollywood's celluloid dreams have captivated audiences for over a century."（好莱坞的电影梦已经吸引观众超过一个世纪——文化语料）
-> - "She flashed a celluloid smile that fooled no one."（她露出了骗不了任何人的虚假笑容——文学语料）
+> - Hollywood's celluloid dreams have captivated audiences for over a century. `[例]`
+> - She flashed a celluloid smile that fooled no one. `[例]`
 
 ## 复习记录
 

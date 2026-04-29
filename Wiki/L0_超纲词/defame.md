@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**诽谤，中伤，损害名誉**==；
+**v..** ①==**诽谤，中伤，损害名誉**== `V N` [法律] `V N as N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：夺走名声（通过说坏话毁掉别人的名誉）
@@ -120,7 +120,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He was sued for defaming the company's reputation.（他因诽谤公司声誉而被起诉。）
+> - The politician was accused of defaming his opponent during the campaign. `[例]`
+> - It is illegal to defame someone's character in a public statement. `[例]`
 
 ## 复习记录
 

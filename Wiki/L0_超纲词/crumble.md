@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**崩塌，瓦解**==；②弄碎，碎成小块；③（力量/希望等）逐渐消失；
-**n.** ①碎屑，酥皮；
+**v.** ①==**崩塌，瓦解**== `V` [通用]；②==**弄碎，碎成小块**== `V N` [通用]；③（力量/希望等）==**逐渐消失**== `V` [文学]；
+**n.** ①==**碎屑，酥皮**== `N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：碎成小块（源自古英语 *crymelan* "碎成碎片"）
@@ -131,7 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The ancient Roman Empire gradually crumbled under the weight of internal conflicts and external invasions."（古罗马帝国在内部冲突和外部入侵的重压下逐渐瓦解）
+> - The ancient Roman Empire gradually crumbled under the weight of internal conflicts and external invasions. `[例]`
+> - She crumbled the blue cheese over the salad just before serving. `[例]`
 
 ## 复习记录
 

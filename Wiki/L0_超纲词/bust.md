@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**打破，打碎**==；②逮捕；③（经济）破产；
-**n.** ①半身像；②经济萧条期；③突击搜查/逮捕；
+**v.** ①==**打破，打碎**== `V N` [口语]；②逮捕；③（经济）破产；
+**n.** ①半身像；②==**经济萧条期**== `boom and N` [经济]；③突击搜查/逮捕；
 
 > [!tip] 原型义
 > **原型义**：破裂，破碎
@@ -132,8 +132,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - bust 常出现在经济报道、犯罪新闻相关语料中
-> - 相关阅读话题：economic cycles, law enforcement, financial crisis
+> - Hundreds of small businesses went bust during the economic downturn. `[例]`
+> - Police carried out a massive drug bust in the downtown area last night. `[例]`
 
 ## 复习记录
 

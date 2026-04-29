@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**同事，合作者**==；
+**n.** ①==**同事，合作者**== `N` [中性/通用]；
 
 > [!tip] 原型义
 > **原型义**：一起工作的人
@@ -126,7 +126,8 @@ co-(共同/一起) + work(工作) + -er(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A positive relationship with co-workers can significantly improve job satisfaction."（与同事的良好关系能显著提高工作满意度）
+> - A positive relationship with co-workers can significantly improve job satisfaction. `[例]`
+> - She often collaborates on projects with a close co-worker from the marketing department. `[例]`
 
 ## 复习记录
 

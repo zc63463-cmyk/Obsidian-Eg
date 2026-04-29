@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**哄劝，劝诱**==；②耐心地摆弄（使某物运转）；
+**v.** ①==**哄劝，劝诱**== `V N to V` [正面/温和]；②耐心地摆弄（使某物运转）；
 
 > [!tip] 原型义
 > **原型义**：用温和的方式哄劝（温柔地诱导某人做某事）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She coaxed her son into eating his vegetables by telling him a story."（她通过讲故事哄儿子吃蔬菜——日常语料）
-> - "It took hours to coax the old engine to start."（花了几个小时才耐心地让旧引擎启动——文学语料）
+> - She coaxed her son into eating his vegetables by telling him a story. `[例]`
+> - It took hours to coax the old engine to start. `[例]`
 
 ## 复习记录
 

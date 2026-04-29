@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**密谋，图谋**==；②（事件）共同导致（不良结果）；③协力，协同；
+**v.** ①==**密谋，图谋**== `conspire against N` `conspire to V` [贬义]；②（事件）共同导致（不良结果） `events/circumstances conspired to V` [文学]；③协力，协同 `conspire with N to V` [正式]；
 
 > [!tip] 原型义
 > **原型义**：一起呼吸（密谋策划——头凑在一起低声商量）
@@ -122,8 +122,8 @@ con-（一起）+ [[spir]]（呼吸，拉丁语 *spirare*）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The rebels conspired to overthrow the government."（叛军密谋推翻政府——政治语料）
-> - "Circumstances conspired to make the project impossible."（各种情况共同导致项目无法完成——文学语料）
+> - The rebels conspired to overthrow the government in a carefully planned coup. `[例]`；
+> - Circumstances conspired to make the project impossible to complete on schedule. `[例]`；
 
 ## 复习记录
 

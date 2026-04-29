@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**冷却装置，制冷机**==；②（口语）令人寒心的事；③（口语）恐怖片；
+**n.** ①==**冷却装置，制冷机**== `N` [专业]；②（口语）令人寒心的事；③（口语）恐怖片；
 
 > [!tip] 原型义
 > **原型义**：使变冷的装置（制冷设备）
@@ -124,8 +124,8 @@ chill（使变冷）+ -er（器物/做某事的东西）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The factory uses large chillers to maintain optimal temperature for production."（工厂使用大型制冷机来维持最佳生产温度——工业语料）
-> - "The new movie is a psychological chiller that will keep you on edge."（这部新片是一部让你神经紧绷的心理恐怖片——影评语料）
+> - The factory uses large chillers to maintain optimal temperature for production. `[例]`
+> - The new movie is a psychological chiller that will keep you on edge. `[例]`
 
 ## 复习记录
 

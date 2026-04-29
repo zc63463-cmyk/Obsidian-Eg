@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**厚实的，粗大的**==；②（食物）切成大块的；③矮胖的，壮实的；
+**adj.** ①==**厚实的，粗大的**== `adj. N` [中性/口语]；②（食物）切成大块的；③矮胖的，壮实的；
 
 > [!tip] 原型义
 > **原型义**：厚实的，粗大的（分成大块的）
@@ -124,8 +124,8 @@ chunk（大块，厚块）+ -y（形容词后缀，表示"有……特征的"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She wore a chunky gold necklace that caught everyone's attention."（她戴着一条粗大的金项链，吸引了所有人的注意——文学语料）
-> - "Chunky soups are more filling than clear ones."（浓汤比清汤更饱腹——日常语料）
+> - She wore a chunky gold necklace that caught everyone's attention. `[例]`
+> - Chunky soups are more filling than clear ones. `[例]`
 
 ## 复习记录
 

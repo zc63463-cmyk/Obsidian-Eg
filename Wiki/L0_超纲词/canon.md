@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**经典，真经，正典**==；②准则，标准；③（天主教）教规，教士名单；
+**n.** ①==**经典，真经，正典**== `the literary N` [学术]；`biblical N` [宗教]；②准则，标准；③（天主教）教规，教士名单；
 
 > [!tip] 原型义
 > **原型义**：测量用的芦苇杆（标准尺度）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Shakespeare is central to the Western literary canon."（莎士比亚是西方文学经典的核心——学术语料）
-> - "These works have become part of the canon of English literature."（这些作品已成为英国文学经典的一部分——学术语料）
+> - Shakespeare is central to the Western literary canon. `[例]`
+> - These works have become part of the canon of English literature. `[例]`
 
 ## 复习记录
 

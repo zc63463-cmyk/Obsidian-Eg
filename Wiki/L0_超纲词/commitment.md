@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**承诺，保证**==；②==**投入，奉献**==；③承诺的事，义务；④（对组织、事业的）忠诚；
+**n.** ①==**承诺，保证**== `make a N` [正式] `N to V` [正式]；②==**投入，奉献**== `N to N` [正式]；③承诺的事，义务；④（对组织、事业的）忠诚；
 
 > [!tip] 原型义
 > **原型义**：交付给（把自己交给某事的承诺）
@@ -125,8 +125,9 @@ com-（完全，一起）+ [[mit]]（送，派遣，拉丁语 *mittere*）+ -men
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government has made a firm commitment to reducing carbon emissions."（政府已做出减少碳排放的坚定承诺——环境语料）
-> - "Success requires a long-term commitment to continuous learning."（成功需要对持续学习的长期投入——励志语料）
+> - The government has made a firm commitment to reducing carbon emissions. `[例]`
+> - Success requires a long-term commitment to continuous learning. `[例]`
+> - She demonstrated her commitment to the organization by working overtime for several months. `[例]`
 
 ## 复习记录
 

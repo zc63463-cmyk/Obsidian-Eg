@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**编成法典，编纂**==；②将（规则、原则）系统化整理；
+**v.** ①==**编成法典，编纂**== `V N` [正面/正式]；②将（规则、原则）系统化整理；
 
 > [!tip] 原型义
 > **原型义**：编成法典（将规则系统化地整理成典）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The new government sought to codify the existing legal traditions into a unified code."（新政府试图将现有的法律传统编纂成统一的法典——法律语料）
-> - "The company codified its best practices into a comprehensive manual."（公司将最佳实践编纂成一本综合手册——商业语料）
+> - The new government sought to codify the existing legal traditions into a unified code. `[例]`
+> - The company codified its best practices into a comprehensive manual. `[例]`
 
 ## 复习记录
 

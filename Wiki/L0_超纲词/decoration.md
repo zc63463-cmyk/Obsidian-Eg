@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**装饰，装潢**==；②==**装饰品，装饰物**==；③勋章，奖章；
+**n..** ①==**装饰，装潢**== `N` [中性]；②==**装饰品，装饰物**== `N` [中性]；③==**勋章，奖章**== `N` [正面]；
 
 > [!tip] 原型义
 > **原型义**：使变美（添加装饰物使某物更美观）
@@ -123,7 +123,8 @@ decor-(合适/优雅，拉丁语 *decorus*) + -ation(名词后缀) → 使变得
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The hotel is known for its luxurious interior decoration.（这家酒店以其豪华的室内装饰闻名。）
+> - The hotel is known for its luxurious interior decoration. `[例]`；
+> - The soldier received several decorations for his bravery in combat. `[例]`；
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**使潮湿，使 damp**==；②==**减弱，抑制（情感、热情等）**==；
+**v..** ①==**使潮湿，使 damp**== `V N` [中性]；②==**减弱，抑制（情感、热情等）**== `V N` [消极]；
 
 > [!tip] 原型义
 > **原型义**：使变潮湿（加水使干燥物变湿）
@@ -120,7 +120,8 @@ damp(潮湿) + -en(动词后缀，使变成...)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Nothing could dampen her enthusiasm for the project.（没有什么能减弱她对项目的热情。）
+> - Nothing could dampen her enthusiasm for the project. `[例]`；
+> - The rain dampened the soil but failed to put out the campfire. `[例]`；
 
 ## 复习记录
 

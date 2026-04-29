@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**企业集团，联合大企业**==；②（地质）砾岩；③混合物，聚集体；
-**adj.** ①==** conglomerate**==（由多种成分组成的）混合的；
-**v.** ①==**聚结，聚集**==；
+**n.** ①==**企业集团，联合大企业**== `a multinational/media conglomerate` `conglomerate of N` [商业]；②（地质）砾岩 `conglomerate rock` [学术]；③混合物，聚集体 `a conglomerate of diverse elements` [正式]；
+**adj.** ①==**混合的**== `a conglomerate society` [正式]（由多种成分组成的）混合的；
+**v.** ①==**聚结，聚集**== `conglomerate into a mass` [学术]；
 
 > [!tip] 原型义
 > **原型义**：滚成一团的（多种事物聚在一起形成的整体）
@@ -126,8 +126,8 @@ con-（一起）+ glomer（球，团，拉丁语 *glomus*，球/团）+ -ate（�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company has grown into a global conglomerate with operations in over 50 countries."（这家公司已成长为在50多个国家运营的全球企业集团——商业语料）
-> - "A few media conglomerates control most of the news industry."（少数几家媒体集团控制着大部分新闻行业——媒体语料）
+> - The company has grown into a global conglomerate with operations in over fifty countries. `[例]`；
+> - A few media conglomerates control most of the news industry worldwide. `[例]`；
 
 ## 复习记录
 

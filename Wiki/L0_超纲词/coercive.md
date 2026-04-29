@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**强迫的，胁迫的**==；②使用暴力的，高压的；
+**adj.** ①==**强迫的，胁迫的**== `adj N` [正式]；②使用暴力的，高压的；
 
 > [!tip] 原型义
 > **原型义**：强迫的（通过威胁或武力迫使服从）
@@ -123,8 +123,9 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The regime relied on coercive measures to maintain control over the population."（该政权依靠强制措施来维持对民众的控制——政治语料）
-> - "Coercive interrogation techniques have been widely condemned by human rights organizations."（刑讯逼供手段已被人权组织广泛谴责——人权语料）
+> - The regime relied on coercive measures to maintain control over the population. `[例]`
+> - Coercive interrogation techniques have been widely condemned by human rights organizations. `[例]`
+> - The government was accused of using coercive tactics to suppress political opposition. `[例]`
 
 ## 复习记录
 

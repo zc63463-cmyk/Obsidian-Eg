@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**仪式的，典礼的**==；②礼节的，讲究客套的；
-**n.** ①==**仪式，礼仪**==；②礼节，客套；
+**adj.** ①==**仪式的，典礼的**== `adj N` [正式]；②==**礼节的，讲究客套的**== `adj N` [正式]；
+**n.** ①==**仪式，礼仪**== `N` [正式]；②礼节，客套；
 
 > [!tip] 原型义
 > **原型义**：仪式的（与宗教或社会典礼相关的）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The president was welcomed with full ceremonial honors."（总统受到了全套礼仪规格的欢迎——新闻语料）
-> - "The exchange of gifts is a ceremonial gesture of goodwill between nations."（互赠礼物是国家间表达善意的礼节性姿态——外交语料）
+> - The president was welcomed with full ceremonial honors. `[例]`
+> - The exchange of gifts is a ceremonial gesture of goodwill between nations. `[例]`
 
 ## 复习记录
 

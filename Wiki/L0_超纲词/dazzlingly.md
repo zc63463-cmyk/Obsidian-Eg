@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv..** ①==**耀眼地，光彩夺目地**==；②==**令人惊叹地，出色地**==；
+**adv..** ①==**耀眼地，光彩夺目地**== `adv` [中性]；②==**令人惊叹地，出色地**== `adv` [正面]；
 
 > [!tip] 原型义
 > **原型义**：耀眼地（光强到让人睁不开眼）
@@ -119,7 +119,8 @@ dazzle(使目眩) + -ing(形容词后缀) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She performed dazzlingly, leaving the audience speechless.（她的表演令人惊叹，让观众无言以对。）
+> - She performed dazzlingly, leaving the audience speechless. `[例]`；
+> - The city skyline looked dazzlingly beautiful against the sunset. `[例]`；
 
 ## 复习记录
 

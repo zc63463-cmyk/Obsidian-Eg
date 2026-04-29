@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**合作的，协作的**==；②协作完成的；
+**adj.** ①==**合作的，协作的**== `adj N` [正式]；②协作完成的；
 
 > [!tip] 原型义
 > **原型义**：协作的（共同劳动的）
@@ -124,8 +124,9 @@ col-（=com-，共同，一起）+ labor（劳动，工作）+ -ative（形容�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The success of the project was the result of a collaborative effort between multiple departments."（项目的成功是多部门协作努力的结果——商业语料）
-> - "Collaborative learning has been shown to improve students' critical thinking skills."（协作学习已被证明能提高学生的批判性思维能力——教育语料）
+> - The success of the project was the result of a collaborative effort between multiple departments. `[例]`
+> - Collaborative learning has been shown to improve students' critical thinking skills. `[例]`
+> - The research team published a collaborative paper in a leading scientific journal. `[例]`
 
 ## 复习记录
 

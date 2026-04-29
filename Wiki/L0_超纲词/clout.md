@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**影响力，权势**==；②（政治）影响力；③重击；
-**v.** ①==**猛击，重打**==；
+**n.** ①==**影响力，权势**== `N` [中性/口语]；②（政治）影响力；③重击；
+**v.** ①==**猛击，重打**== `V N` [中性/文学]；
 
 > [!tip] 原型义
 > **原型义**：重击（用重物猛击的力量）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The organization wields considerable political clout in Washington."（该组织在华盛顿拥有相当大的政治影响力——政治语料）
-> - "China's growing economic clout has reshaped global trade patterns."（中国日益增长的经济实力重塑了全球贸易格局——经济语料）
+> - The organization wields considerable political clout in Washington. `[例]`
+> - China's growing economic clout has reshaped global trade patterns. `[例]`
 
 ## 复习记录
 

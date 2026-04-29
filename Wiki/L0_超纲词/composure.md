@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**镇定，沉着**==；②从容，泰然自若；
+**n.** ①==**镇定，沉着**== `V one's N` [正式] `N under N` [正式]；②从容，泰然自若；
 
 > [!tip] 原型义
 > **原型义**：被放在一起的状态（内心平静、不被打扰）
@@ -123,8 +123,9 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Despite the intense questioning, the witness maintained her composure throughout the trial."（尽管质询激烈，证人在整个审判过程中保持了镇定——法律语料）
-> - "She answered the difficult interview questions with remarkable composure."（她以非凡的沉着回答了困难的面试问题——职场语料）
+> - Despite the intense questioning, the witness maintained her composure throughout the trial. `[例]`
+> - She answered the difficult interview questions with remarkable composure. `[例]`
+> - The firefighter showed great composure while rescuing the trapped residents from the burning building. `[例]`
 
 ## 复习记录
 

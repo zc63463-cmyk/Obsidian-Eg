@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**草率的，粗略的**==；②匆忙的，仓促的；
+**adj.** ①==**草率的，粗略的**== `adj N` [正式]；②==**匆忙的，仓促的**== `adj N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：跑过去的（拉丁语 *cursor* "奔跑者"，*currere* "跑"）
@@ -130,7 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Even a cursory reading of the report reveals serious flaws in the methodology."（即使粗略阅读这份报告，也能发现方法论中的严重缺陷）
+> - Even a cursory reading of the report reveals serious flaws in the methodology. `[例]`
+> - The inspector gave the building only a cursory glance before signing off on the safety certificate. `[例]`
 
 ## 复习记录
 

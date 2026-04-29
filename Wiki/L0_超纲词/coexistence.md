@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**共存，共处**==；②（不同群体的）和平共处；
+**n.** ①==**共存，共处**== `N of N` [正式]；②（不同群体的）和平共处；
 
 > [!tip] 原型义
 > **原型义**：共同存在（不同事物同时存在）
@@ -124,8 +124,9 @@ co-（共同，一起）+ [[st-sta-stat|exist]]（存在）+ -ence（名词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The two countries have maintained peaceful coexistence for decades."（这两个国家已经维持了几十年的和平共处——政治语料）
-> - "The coexistence of traditional and modern values creates tension in many societies."（传统价值观与现代价值观的共存在许多社会中造成了紧张关系——社会语料）
+> - The two countries have maintained peaceful coexistence for decades. `[例]`
+> - The coexistence of traditional and modern values creates tension in many societies. `[例]`
+> - Peaceful coexistence between different religious communities is essential for social stability. `[例]`
 
 ## 复习记录
 

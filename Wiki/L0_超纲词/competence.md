@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**能力，胜任力**==；②==**权限，管辖权**==；③（法律）资质；
+**n.** ①==**能力，胜任力**== `N in N` [正式] `V N` [正式]；②==**权限，管辖权**== `prep N` [法律]；③（法律）资质；
 
 > [!tip] 原型义
 > **原型义**：胜任的能力（能够做好某事的能力）
@@ -124,8 +124,9 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The teacher demonstrated her professional competence through innovative teaching methods."（这位教师通过创新的教学方法展示了她的专业能力——教育语料）
-> - "This matter falls outside the competence of this committee."（此事超出了该委员会的权限范围——法律语料）
+> - The teacher demonstrated her professional competence through innovative teaching methods. `[例]`
+> - This matter falls outside the competence of this committee. `[例]`
+> - Candidates must demonstrate linguistic competence in at least two foreign languages to qualify for the position. `[例]`
 
 ## 复习记录
 

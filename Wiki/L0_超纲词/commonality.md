@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**共同点，共性**==；②（群体的）共同特征；③（财产的）共有权；
+**n.** ①==**共同点，共性**== `N of N` [正式]；②（群体的）共同特征；③（财产的）共有权；
 
 > [!tip] 原型义
 > **原型义**：共同点（大家共有的特征）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Despite their cultural differences, the two nations share many commonalities."（尽管存在文化差异，这两个国家有许多共同点——政治语料）
-> - "Finding commonalities between different approaches can lead to innovative solutions."（在不同方法之间找到共同点可以带来创新解决方案——学术语料）
+> - Despite their cultural differences, the two nations share many commonalities. `[例]`
+> - Finding commonalities between different approaches can lead to innovative solutions. `[例]`
+> - The researchers identified several commonalities in the behavior patterns of the two species. `[例]`
 
 ## 复习记录
 

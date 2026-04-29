@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（古代的）双轮战车，马车**==；
-**v.** ①==**驾（战车），用战车运送**==；
+**n.** ①==**（古代的）双轮战车，马车**== `N` [文学]；
+**v.** ①==**驾（战车），用战车运送**== `V N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：双轮马拉战车（古代战争中使用的轻型双轮车）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The ancient Romans were passionate about chariot racing."（古罗马人对战车竞赛充满热情——历史语料）
-> - "The sun god was depicted riding a golden chariot across the sky."（太阳神被描绘为驾着金战车穿越天空——神话语料）
+> - The ancient Romans were passionate about chariot racing. `[例]`
+> - The sun god was depicted riding a golden chariot across the sky. `[例]`
 
 ## 复习记录
 

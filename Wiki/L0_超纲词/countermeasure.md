@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**对策，反制措施**==；②对抗手段；
+**n.** ①==**对策，反制措施**== `adopt countermeasures` [专业] `countermeasures against` [专业]；②==**对抗手段**== `military countermeasures` [专业]；
 
 > [!tip] 原型义
 > **原型义**：针对某种威胁采取的反制措施
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government implemented a series of economic countermeasures to combat inflation."（政府实施了一系列经济对策来应对通货膨胀）
+> - The government implemented a series of economic countermeasures to combat inflation. `[例]`
+> - The company adopted strict security countermeasures to protect sensitive data from cyber attacks. `[例]`
 
 ## 复习记录
 

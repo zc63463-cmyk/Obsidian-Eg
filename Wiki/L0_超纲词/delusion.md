@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**错觉，妄想**==；②==**欺骗，蛊惑**==；
+**n..** ①==**错觉，妄想**== `N of N` [心理] `N that-clause` [书面]；②==**欺骗，蛊惑**== `V N into V-ing` [正式]；
 
 > [!tip] 原型义
 > **原型义**：被玩弄（被虚假的东西欺骗了心智）
@@ -123,7 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He is under the delusion that he is a genius.（他妄想自己是个天才。）
+> - He is under the delusion that he is destined to become a world-famous novelist. `[例]`
+> - The cult leader deluded his followers into believing that the end of the world was imminent. `[例]`
 
 ## 复习记录
 

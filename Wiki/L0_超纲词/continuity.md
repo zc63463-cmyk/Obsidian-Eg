@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**连续性，持续性**==；②（电影/广播的）连续镜头；③（逻辑/历史的）连贯性；
+**n.** ①==**连续性，持续性**== `N of N` [通用]；②==**（电影/广播的）连续镜头**== `N` [专业]；③==**（逻辑/历史的）连贯性**== `N of N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：持续保持不断的状态/性质
@@ -132,7 +132,8 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The historian emphasized the continuity of cultural traditions across centuries."（这位历史学家强调了跨越几个世纪的文化传统的连续性）
+> - The historian emphasized the continuity of cultural traditions across centuries. `[例]`
+> - The company developed a business continuity plan to ensure operations during emergencies. `[例]`
 
 ## 复习记录
 

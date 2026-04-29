@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**清晰的，明确的**==；②轮廓分明的；
-**v.** ①==**砍伐（林木），皆伐**==；
+**adj.** ①==**清晰的，明确的**== `adj. N` [正面/通用]；②轮廓分明的；
+**v.** ①==**砍伐（林木），皆伐**== `V N` [中性/环保]；
 
 > [!tip] 原型义
 > **原型义**：清晰的，明确的（像被利刃切过一样分明）
@@ -126,8 +126,8 @@ clear（清晰的）+ cut（切，砍）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "There is no clear-cut answer to this complex problem."（这个复杂问题没有明确的答案——学术语料）
-> - "Clear-cutting of old-growth forests has caused widespread environmental concern."（对原始森林的皆伐引发了广泛的环境担忧——环保语料）
+> - There is no clear-cut answer to this complex problem. `[例]`
+> - Clear-cutting of old-growth forests has caused widespread environmental concern. `[例]`
 
 ## 复习记录
 

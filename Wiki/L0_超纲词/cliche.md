@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**陈词滥调，老套**==；②（艺术、文学中的）套话；
-**adj.** ①==**陈腐的，老套的**==；
+**n.** ①==**陈词滥调，老套**== `N` [贬义/通用]；②（艺术、文学中的）套话；
+**adj.** ①==**陈腐的，老套的**== `adj. N` [贬义/通用]；
 
 > [!tip] 原型义
 > **原型义**：铅版印刷的模板（反复使用的固定表达）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The film relies too heavily on romantic cliches."（这部电影过度依赖浪漫老套情节——影评语料）
-> - "'Think outside the box' has become something of a cliche in business writing."（"跳出框框思考"在商业写作中已经成了陈词滥调——商业语料）
+> - The film relies too heavily on romantic cliches. `[例]`
+> - Think outside the box has become something of a cliche in business writing. `[例]`
 
 ## 复习记录
 
