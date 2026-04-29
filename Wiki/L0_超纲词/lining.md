@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**内衬，衬里，衬层**==；②（身体器官的）内膜；
+**n.** ①==**内衬，衬里，衬层**== `coat/jacket lining` [通用] `silk/fur lining` [通用]；②（身体器官的）内膜 `stomach/intestinal lining` [医学]；
 
 > [!tip] 原型义
 > **原型义**：在内侧铺上一层（line 的名词化形式，表示"铺内层"的结果）
@@ -128,9 +128,9 @@ line（线→排成线→铺一层）+ -ing（名词后缀，表示"动作的结
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Every cloud has a silver lining."（每朵乌云都有一道银边/黑暗中总有一线希望——谚语高频引用）
-> - "Spicy food can irritate the stomach lining."（辛辣食物会刺激胃内膜——医学语料）
-> - "The jacket has a detachable fur lining."（这件夹克有可拆卸的毛皮内衬——商品描述语料）
+> - Every cloud has a silver lining. `[例]`
+> - Spicy food can irritate the stomach lining. `[例]`
+> - The jacket has a detachable fur lining. `[例]`
 
 ## 复习记录
 

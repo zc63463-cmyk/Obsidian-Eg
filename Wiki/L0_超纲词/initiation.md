@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**开始，发起**==；②入会仪式；③传授（入门知识）；
+**n.** ①==**开始，发起**== `the initiation of sth` [正式] `initiation into sth` [书面]；②入会仪式；③传授（入门知识）；
 
 > [!tip] 原型义
 > **原型义**：开始（启动某事的行动）
@@ -126,8 +126,8 @@ in-(向内，进入) + iti(开始，拉丁语 *ire* 去) + -ation(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The initiation of the research project was delayed due to funding issues."（由于资金问题，研究项目的启动被推迟了。）
-> - "The club's initiation ceremony was a memorable experience for all new members."（俱乐部的入会仪式对所有新成员来说都是一次难忘的经历。")
+> - The initiation of the research project was delayed due to funding issues. `[例]`
+> - The club's initiation ceremony was a memorable experience for all new members. `[例]`
 
 ## 复习记录
 

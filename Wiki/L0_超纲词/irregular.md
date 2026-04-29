@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不规则的，无规律的**==；②不合法的，非正式的；③（语法）不规则的；④不整齐的；
+**adj.** ①==**不规则的，无规律的**== `irregular pattern/hours` [通用] `an irregular heartbeat` [医学/正式]；②==**不合法的，非正式的**== `irregular immigration/troops` [正式]；③==**（语法）不规则的**== `irregular verb/plural` [语言/学术]；④==**不整齐的**== `irregular shape/border` [通用]；
 
 > [!tip] 原型义
 > **原型义**：不规则的（不符合规则/规律的，没有固定模式的）
@@ -135,8 +135,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "English has many irregular verbs that do not follow the standard -ed pattern."（英语有许多不规则动词，不遵循标准的 -ed 模式）
-> - "The patient was diagnosed with an irregular heartbeat."（患者被诊断出心律不齐）
+> - English has many irregular verbs that do not follow the standard -ed pattern. `[例]`
+> - The patient was diagnosed with an irregular heartbeat. `[例]`
 
 ## 复习记录
 

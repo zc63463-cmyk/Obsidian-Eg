@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**创新者，改革者**==；②革新者；
+**n.** ①==**创新者，改革者**== `a great/leading innovator in n.` [正式]；②==**革新者**== `a technology/social innovator` [正式]；
 
 > [!tip] 原型义
 > **原型义**：创新者（引入新事物的人）
@@ -124,8 +124,8 @@ in-(进入) + nov(新的) + -at(动词) + -or(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Steve Jobs was widely regarded as one of the greatest innovators of our time."（史蒂夫·乔布斯被广泛认为是当代最伟大的创新者之一。")
-> - "The award recognizes innovators who have made significant contributions to the field."（该奖项表彰对该领域做出重大贡献的创新者。")
+> - Steve Jobs was widely regarded as one of the greatest innovators of our time. `[例]`
+> - The award recognizes innovators who have made significant contributions to the field. `[例]`
 
 ## 复习记录
 

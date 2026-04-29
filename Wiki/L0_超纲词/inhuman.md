@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**残忍的，无人性的**==；②非人的，超乎常人的；
+**adj.** ①==**残忍的，无人性的**== `inhuman treatment/cruelty` [正式] `inhuman conditions` [书面]；②非人的，超乎常人的；
 
 > [!tip] 原型义
 > **原型义**：非人的（缺乏人性的）
@@ -124,8 +124,8 @@ in-(不，否定) + human(人类的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The prisoners were subjected to inhuman treatment."（囚犯遭受了不人道的待遇。）
-> - "Such inhuman cruelty has no place in a civilized society."（这种无人性的残暴在文明社会中没有容身之地。")
+> - The prisoners were subjected to inhuman treatment. `[例]`
+> - Such inhuman cruelty has no place in a civilized society. `[例]`
 
 ## 复习记录
 

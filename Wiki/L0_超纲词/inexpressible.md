@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无法表达的，说不出的**==；②难以形容的；
+**adj.** ①==**无法表达的，说不出的**== `inexpressible joy/gratitude/sorrow` [文学] `an inexpressible sense of` [文学]；②难以形容的 `inexpressible beauty` [文学]；
 
 > [!tip] 原型义
 > **原型义**：无法表达的（超出语言能力范围的）
@@ -124,8 +124,9 @@ in-(不，否定) + ex-(出) + [[press|press-]](压，挤压) + -ible(可被…�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She felt an inexpressible sense of relief when she heard the good news."（听到好消息时，她感到一种难以言表的如释重负。）
-> - "The beauty of the sunset was inexpressible."（日落的美丽是无法用言语表达的。）
+> - She felt an inexpressible sense of relief when she heard the good news. `[例]`
+> - The beauty of the sunset was inexpressible. `[例]`
+> - He looked at her with an inexpressible tenderness that words could not capture. `[例]`
 
 ## 复习记录
 

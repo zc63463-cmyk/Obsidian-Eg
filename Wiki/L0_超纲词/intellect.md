@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**智力，才智**==；②知识分子（总称）；
+**n.** ①==**智力，才智**== `adj. + intellect` [正式] `a man/woman of intellect` [文学]；②==**知识分子（总称）**== `the intellect` [正式]；
 
 > [!tip] 原型义
 > **原型义**：智力（理解和思考的能力）
@@ -124,8 +124,8 @@ intel-(在…之间) + [[lect|lect-leg-]](选择，读取)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was respected for her sharp intellect and analytical skills."（她因敏锐的才智和分析能力而受到尊敬。")
-> - "The book appeals to both the intellect and the emotions."（这本书既吸引智力，也触动情感。")
+> - She was respected for her sharp intellect and analytical skills. `[例]`
+> - The book appeals to both the intellect and the emotions. `[例]`
 
 ## 复习记录
 

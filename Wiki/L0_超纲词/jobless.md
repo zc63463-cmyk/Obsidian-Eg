@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**失业的，无业的**==；②无职业的；
+**adj.** ①==**失业的，无业的**== `the jobless / jobless rate` [通用]；②无职业的；
 
 > [!tip] 原型义
 > **原型义**：没有工作（处于无职业状态）
@@ -125,8 +125,8 @@ job(工作) + -less(没有，无)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The jobless rate fell to 5 percent last month."（上个月失业率降至5%。）
-> - "The government must address the needs of the jobless."（政府必须解决失业者的需求。）
+> - The jobless rate fell to five percent last month. `[例]`
+> - The government must address the needs of the jobless. `[例]`
 
 ## 复习记录
 

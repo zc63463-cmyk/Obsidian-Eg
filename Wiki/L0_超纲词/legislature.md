@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**立法机关，议会**==；
+**n.** ①==**立法机关，议会**== `the state legislature` [中性/政治] `the legislature passed the bill` [中性/政治]；
 
 > [!tip] 原型义
 > **原型义**：制定法律的机构（源自拉丁语 *lex* = 法律 + *latus* = 提出/带来）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The state legislature voted to approve the new environmental regulations."（州立法机关投票批准了新的环境法规。）
-> - "The legislature has the power to create, amend, and repeal laws."（立法机关有权制定、修改和废除法律。）
+> - The state legislature voted to approve the new environmental regulations. `[例]`
+> - The legislature has the power to create, amend, and repeal laws. `[例]`
 
 ## 复习记录
 

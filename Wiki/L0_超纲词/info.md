@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**信息，情报**==（informal 的缩写）；
+**n.** ①==**信息，情报**== `info about/on sth` [非正式] `get/need more info` [非正式]（informal 的缩写）；
 
 > [!tip] 原型义
 > **原型义**：信息（告知的内容）
@@ -124,8 +124,9 @@ inform(告知) + -ation(名词) → info（口语缩写）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "For more info, please visit our website."（更多信息请访问我们的网站。）
-> - "I need some info about the application process."（我需要一些关于申请流程的信息。）
+> - For more info, please visit our website. `[例]`
+> - I need some info about the application process. `[例]`
+> - The brochure contains useful info for first-time visitors to the city. `[例]`
 
 ## 复习记录
 

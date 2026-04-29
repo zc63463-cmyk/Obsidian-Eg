@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**机构的，制度的**==；②惯例的，习以为常的；
+**adj.** ①==**机构的，制度的**== `institutional + n.` [正式] `institutional reform/change` [学术]；②==**惯例的，习以为常的**== `institutional + n.` [正式] `institutional racism/bias` [社会]；
 
 > [!tip] 原型义
 > **原型义**：机构的（与制度相关的）
@@ -125,8 +125,8 @@ in-(在) + [[st-sta-stat|st-/sta-/stat-]](站) + -it(走) + -ution(名词) + -al
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Institutional reform is essential for the country's economic development."（制度改革对国家的经济发展至关重要。")
-> - "The problem of institutional racism requires a systematic approach to address."（制度性种族主义问题需要系统的方法来解决。")
+> - Institutional reform is essential for the country's economic development. `[例]`
+> - The problem of institutional racism requires a systematic approach to address. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**专注地，专心地**==；②热切地；
+**adv.** ①==**专注地，专心地**== `listen/study + intently` [文学] `v. + intently` [通用]；②==**热切地**== `watch/stare + intently` [文学]；
 
 > [!tip] 原型义
 > **原型义**：专注地（心向某处的）
@@ -124,8 +124,8 @@ in-(向内) + [[tend|tend-tens-]](伸展/倾向) + -ly(副词)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She listened intently to every word the teacher said."（她专心地听着老师说的每一个字。")
-> - "He stared intently at the screen, trying to understand the data."（他目不转睛地盯着屏幕，试图理解这些数据。")
+> - She listened intently to every word the teacher said. `[例]`
+> - He stared intently at the screen, trying to understand the data. `[例]`
 
 ## 复习记录
 

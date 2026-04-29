@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**血统，世系，宗族**==；②家系，谱系；
+**n.** ①==**血统，世系，宗族**== `trace one's lineage` [通用] `royal/noble lineage` [历史]；②家系，谱系 `genetic lineage` [科学] `direct lineage` [通用]；
 
 > [!tip] 原型义
 > **原型义**：一条线传下来的血脉（line + -age → 像一条线一样代代相传的血缘关系）
@@ -125,8 +125,8 @@ line（线）+ -age（名词后缀，表示"集合/状态/结果"）→ **血统
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She traced her lineage back to the 16th century Scottish nobility."（她将血统追溯到了16世纪的苏格兰贵族——历史语料）
-> - "The study examined the genetic lineage of the virus to track its origin and spread."（该研究检查了病毒的遗传谱系以追踪其起源和传播——科学语料）
+> - She traced her lineage back to the 16th century Scottish nobility. `[例]`
+> - The study examined the genetic lineage of the virus to track its origin and spread. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**关键词，关键字**==；②（计算机）关键字；
+**n.** ①==**关键词，关键字**== `search keywords / keyword research` [通用]；②（计算机）关键字；
 **adj.** ①关键的；
 
 > [!tip] 原型义
@@ -127,8 +127,8 @@ key(关键) + word(词)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Using the right keywords can significantly improve your search engine ranking."（使用正确的关键词可以显著提高搜索引擎排名。）
-> - "In programming, certain keywords are reserved and cannot be used as variable names."（在编程中，某些关键字被保留，不能用作变量名。）
+> - Using the right keywords can significantly improve your search engine ranking. `[例]`
+> - In programming, certain keywords are reserved and cannot be used as variable names. `[例]`
 
 ## 复习记录
 

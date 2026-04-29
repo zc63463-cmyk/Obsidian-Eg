@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**指关节，指节**==；②膝关节（动物）；
-**v.** ①==**开始努力工作**==（knuckle down）；②用指关节敲击；
+**n.** ①==**指关节，指节**== `scraped knuckles / rap one's knuckles` [通用]；②膝关节（动物）；
+**v.** ①==**开始努力工作**== `knuckle down to sth` [口语]（knuckle down）；②用指关节敲击；
 
 > [!tip] 原型义
 > **原型义**：手指关节（弯曲手指时突出的骨头）
@@ -126,8 +126,8 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "If you want to pass the exam, you'll have to knuckle down and study."（如果你想通过考试，就必须埋头苦学。）
-> - "The teacher rapped his knuckles for talking in class."（老师因他在课堂上讲话而警告了他。）
+> - If you want to pass the exam, you will have to knuckle down and study. `[例]`
+> - The teacher rapped his knuckles for talking in class. `[例]`
 
 ## 复习记录
 

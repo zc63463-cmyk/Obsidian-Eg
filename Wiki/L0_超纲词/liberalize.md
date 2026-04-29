@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使自由化，放宽限制**==；②（经济）开放市场，解除管制；
+**v.** ①==**使自由化，放宽限制**== `liberalize trade/policies` [经济] `liberalize regulations` [法律]；②（经济）开放市场，解除管制 `liberalize the economy/market` [经济]；
 
 > [!tip] 原型义
 > **原型义**：使自由化（放宽限制，给予更多自由）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many countries have liberalized their trade policies to promote economic growth."（许多国家已经放宽了贸易政策以促进经济增长。）
-> - "The government plans to liberalize the energy market to encourage competition."（政府计划开放能源市场以鼓励竞争。")
+> - Many countries have liberalized their trade policies to promote economic growth. `[例]`
+> - The government plans to liberalize the energy market to encourage competition. `[例]`
 
 ## 复习记录
 

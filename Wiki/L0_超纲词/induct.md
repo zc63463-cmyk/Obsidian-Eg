@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使就职，正式接纳（为成员）**==；②使了解，传授（知识）；③感应（电磁）；
+**vt.** ①==**使就职，正式接纳（为成员）**== `induct sb. into sth.` [正式]；②==**使了解，传授（知识）**== `induct sb. into the mysteries of` [正式]；③==**感应（电磁）**== `induct a current` [学术]；
 
 > [!tip] 原型义
 > **原型义**：引导进入（将某人引入某个组织或状态）
@@ -127,8 +127,9 @@ in-(向内，进入) + [[duct|duct-]](引导，拉丁语 *ducere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He was inducted into the Hall of Fame last year.（他去年被正式引入名人堂。）
-> - The new employees were inducted into the company's culture during orientation.（新员工在入职培训期间被引导了解公司文化。）
+> - He was inducted into the Hall of Fame last year. `[例]`
+> - The new employees were inducted into the company's culture during orientation. `[例]`
+> - The professor inducted her students into the fundamental principles of quantum mechanics. `[例]`
 
 ## 复习记录
 

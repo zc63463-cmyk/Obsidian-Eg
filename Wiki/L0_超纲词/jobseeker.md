@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**求职者**==；②找工作的人；
+**n.** ①==**求职者**== `jobseeker's allowance / registered jobseekers` [正式]；②找工作的人；
 
 > [!tip] 原型义
 > **原型义**：寻找工作的人
@@ -124,8 +124,8 @@ job(工作) + seek(寻找) + -er(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Jobseekers are entitled to a weekly allowance from the government."（求职者有权领取政府每周发放的津贴。）
-> - "The online platform connects jobseekers with potential employers."（该在线平台将求职者与潜在雇主联系起来。）
+> - Jobseekers are entitled to a weekly allowance from the government. `[例]`
+> - The online platform connects jobseekers with potential employers. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**亲属关系，血缘关系**==；②亲密关系，类似血缘的关系；
+**n.** ①==**亲属关系，血缘关系**== `kinship ties / a sense of kinship` [通用]；②亲密关系，类似血缘的关系；
 
 > [!tip] 原型义
 > **原型义**：亲属关系（血缘或婚姻连接）
@@ -126,8 +126,8 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She felt a strong sense of kinship with the local people."（她与当地人有一种强烈的亲切感。）
-> - "Kinship ties play an important role in many traditional societies."（亲属纽带在许多传统社会中扮演重要角色。）
+> - She felt a strong sense of kinship with the local people. `[例]`
+> - Kinship ties play an important role in many traditional societies. `[例]`
 
 ## 复习记录
 

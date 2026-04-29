@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**相互依赖，互相依存**==；
+**n.** ①==**相互依赖，互相依存**== `the interdependence of A and B` [学术] `interdependence between A and B` [学术]；
 
 > [!tip] 原型义
 > **原型义**：相互依赖（彼此之间依靠对方）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The growing economic interdependence between nations makes global cooperation essential."（各国之间日益增长的经济相互依存使全球合作变得至关重要。")
-> - "The interdependence of ecosystems means that damage to one species can affect many others."（生态系统的相互依存意味着对一个物种的损害会影响许多其他物种。")
+> - The growing economic interdependence between nations makes global cooperation essential. `[例]`
+> - The interdependence of ecosystems means that damage to one species can affect many others. `[例]`
 
 ## 复习记录
 

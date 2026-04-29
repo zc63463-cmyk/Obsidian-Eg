@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**低劣，次等**==；②自卑感；③劣势；
+**n.** ①==**低劣，次等**== `the inferiority of sth` [贬义]；②自卑感 `a sense/feeling of inferiority` [贬义] `inferiority complex` [贬义]；③劣势 `military/numerical inferiority` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：低劣的状态（在品质、地位等方面低于他人）
@@ -126,8 +126,9 @@ infer(较低) + -ior(比较级) + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many people suffer from an inferiority complex that prevents them from reaching their full potential."（许多人患有自卑情结，这阻碍了他们发挥全部潜能。）
-> - "The inferiority of the product was obvious compared to its competitors."（与竞争对手相比，该产品的低劣显而易见。）
+> - Many people suffer from an inferiority complex that prevents them from reaching their full potential. `[例]`
+> - The inferiority of the product was obvious compared to its competitors. `[例]`
+> - She struggled with feelings of inferiority throughout her academic career. `[例]`
 
 ## 复习记录
 

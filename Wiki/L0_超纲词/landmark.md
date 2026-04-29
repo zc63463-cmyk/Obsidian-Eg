@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地标，里程碑**==；②标志性建筑；③（法律）地界标；
-**adj.** ①具有里程碑意义的；
+**n.** ①==**地标，里程碑**== `a landmark decision/achievement` [正面/通用] `a historic landmark` [正面/通用]；②==**标志性建筑**== `one of the city's most famous landmarks` [中性/通用]；③==**（法律）地界标**== `a boundary landmark` [中性/法律]；
+**adj.** ①==**具有里程碑意义的**== `a landmark ruling/study` [正面/通用]；
 
 > [!tip] 原型义
 > **原型义**：标记土地边界的标志物
@@ -127,8 +127,8 @@ land(土地) + [[mark|mark]](标记)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Supreme Court's ruling was a landmark decision in civil rights history."（最高法院的裁决是民权史上的里程碑式决定。）
-> - "The Colosseum is one of Rome's most famous landmarks."（罗马斗兽场是罗马最著名的地标之一。）
+> - The Supreme Court's ruling was a landmark decision in civil rights history. `[例]`
+> - The Colosseum is one of Rome's most famous landmarks. `[例]`
 
 ## 复习记录
 

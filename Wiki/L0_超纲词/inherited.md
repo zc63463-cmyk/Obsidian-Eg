@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**继承的，遗传的**==；②通过继承获得的；
+**adj.** ①==**继承的，遗传的**== `inherited wealth/traits` [正式] `genetically inherited` [学术]；②通过继承获得的；
 **vt.** (inherit 的过去式/过去分词) ①继承；②经遗传而得到；
 
 > [!tip] 原型义
@@ -127,8 +127,8 @@ in-(向内) + her(粘附，拉丁语 *haerere*) + -it(走) + -ed(已…的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She inherited her mother's talent for music."（她遗传了母亲的音乐天赋。）
-> - "The family's inherited wealth was built over several generations."（这个家族的继承财富是经过几代人积累的。")
+> - She inherited her mother's talent for music. `[例]`
+> - The family's inherited wealth was built over several generations. `[例]`
 
 ## 复习记录
 

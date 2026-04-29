@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**独创性，创造力**==；②心灵手巧，精巧；
+**n.** ①==**独创性，创造力**== `show/demonstrate ingenuity` [正式] `remarkable ingenuity in doing sth` [书面]；②心灵手巧，精巧；
 
 > [!tip] 原型义
 > **原型义**：独创性（心灵手巧、善于发明创造的品质）
@@ -123,8 +123,8 @@ in-(在内) + [[gen|gen-]](产生，创造) + -u- + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The engineer showed remarkable ingenuity in solving the complex problem."（这位工程师在解决复杂问题时展现了非凡的独创性。）
-> - "The ingenuity of the design impressed everyone at the exhibition."（这个设计的精巧给展览上的每个人留下了深刻印象。）
+> - The engineer showed remarkable ingenuity in solving the complex problem. `[例]`
+> - The ingenuity of the design impressed everyone at the exhibition. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**侵入，闯入**==；②侵扰，打扰；③（计算机）入侵；
+**n.** ①==**侵入，闯入**== `intrusion into sth` [正式] `illegal intrusion` [法律]；②==**侵扰，打扰**== `intrusion on/upon sth` [正式] `an unwelcome intrusion` [通用]；③==**（计算机）入侵**== `network intrusion` [技术] `intrusion detection system` [技术]；
 
 > [!tip] 原型义
 > **原型义**：向内闯入（未经允许强行进入他人空间或领域）
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government must protect citizens from unwarranted intrusions into their private lives."（政府必须保护公民免受对其私人生活无理的侵扰）
-> - "Intrusion detection systems are essential for network security."（入侵检测系统对网络安全至关重要）
+> - The government must protect citizens from unwarranted intrusions into their private lives. `[例]`
+> - Intrusion detection systems are essential for network security. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**被面试者，受试者**==；②被采访者；
+**n.** ①==**被面试者，受试者**== `the interviewee was asked about sth` [通用] `a job interviewee` [通用]；②==**被采访者**== `the interviewee said/responded` [通用]；
 
 > [!tip] 原型义
 > **原型义**：被见面的人（在面试/采访中被动接受提问的人）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The interviewee was asked about her previous work experience."（被面试者被问及之前的工作经历）
-> - "Interviewees were selected randomly from the population."（受访者是从人群中随机选取的）
+> - The interviewee was asked about her previous work experience. `[例]`
+> - Interviewees were selected randomly from the population. `[例]`
 
 ## 复习记录
 

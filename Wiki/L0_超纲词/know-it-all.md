@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**万事通，自以为是的人**==（贬义）；
+**n.** ①==**万事通，自以为是的人**== `a know-it-all / know-it-all attitude` [口语/贬义]（贬义）；
 **adj.** ①自以为无所不知的；
 
 > [!tip] 原型义
@@ -124,8 +124,8 @@ know(知道) + it(它) + all(全部)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Nobody likes a know-it-all who always corrects others."（没人喜欢总是纠正别人的万事通。）
-> - "His know-it-all attitude made it difficult for the team to collaborate."（他自以为是的态度使团队难以合作。）
+> - Nobody likes a know-it-all who always corrects others. `[例]`
+> - His know-it-all attitude made it difficult for the team to collaborate. `[例]`
 
 ## 复习记录
 

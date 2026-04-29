@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不可避免地，逃避不了地**==；
+**adv.** ①==**不可避免地，逃避不了地**== `inescapably linked/bound` [正式] `inescapably lead to/follow` [学术]；
 
 > [!tip] 原型义
 > **原型义**：不可避免地（无法逃避地）
@@ -124,8 +124,9 @@ in-(不，否定) + escape(逃避) + -ably(可…地)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Technology and society are inescapably linked."（技术与社会密不可分地联系在一起。）
-> - "The two issues are inescapably bound together."（这两个问题必然地绑定在一起。）
+> - Technology and society are inescapably linked. `[例]`
+> - The two issues are inescapably bound together by shared economic interests. `[例]`
+> - Such a policy will inescapably lead to greater inequality in the long run. `[例]`
 
 ## 复习记录
 

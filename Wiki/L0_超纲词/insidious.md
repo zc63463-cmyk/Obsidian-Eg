@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**阴险的，潜伏的**==；②暗中为害的，逐步起作用的；
+**adj.** ①==**阴险的，潜伏的**== `an insidious disease/threat` [正式]；②==**暗中为害的，逐步起作用的**== `the insidious nature/effects of n.` [正式]；
 
 > [!tip] 原型义
 > **原型义**：隐伏的（暗中起作用的）
@@ -123,8 +123,8 @@ in-(在内) + sid(坐，拉丁语 *sedere*) + -ious(充满…的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The insidious nature of the disease means it often goes undetected until it is too late."（这种疾病的潜伏特性意味着它往往到了晚期才被发现。")
-> - "The insidious effects of propaganda on public opinion are difficult to measure."（宣传对公众舆论的潜移默化影响难以衡量。")
+> - The insidious nature of the disease means it often goes undetected until it is too late. `[例]`
+> - The insidious effects of propaganda on public opinion are difficult to measure. `[例]`
 
 ## 复习记录
 

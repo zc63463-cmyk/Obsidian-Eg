@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生活方式**==；②生活风格；
+**n.** ①==**生活方式**== `a healthy/sedentary lifestyle` [通用] `lifestyle changes/choices` [通用]；②生活风格 `lifestyle brand/magazine` [媒体]；
 
 > [!tip] 原型义
 > **原型义**：生活的方式（一个人选择如何生活的整体模式）
@@ -123,8 +123,8 @@ life（生活）+ style（风格、方式）→ **生活方式**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A sedentary lifestyle has been linked to an increased risk of heart disease."（久坐的生活方式已被证实与心脏病风险增加有关——医学语料）
-> - "Many people are making lifestyle changes to reduce their carbon footprint."（许多人正在改变生活方式以减少碳足迹——环保语料）
+> - A sedentary lifestyle has been linked to an increased risk of heart disease. `[例]`
+> - Many people are making lifestyle changes to reduce their carbon footprint. `[例]`
 
 ## 复习记录
 

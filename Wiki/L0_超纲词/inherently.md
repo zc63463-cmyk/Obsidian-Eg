@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**内在地，固有地**==；天生地；
+**adv.** ①==**内在地，固有地**== `inherently adj.` [正式] `be inherently different/flawed` [书面]；天生地；
 
 > [!tip] 原型义
 > **原型义**：内在地（天生固有的）
@@ -125,8 +125,8 @@ in-(在内部) + her(粘附，拉丁语 *haerere*) + -ent(形容词) + -ly(副�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The two systems are inherently different in their approach to education."（这两种教育体系在方法上本质上是不同的。）
-> - "Nuclear power is inherently dangerous if not properly managed."（如果管理不当，核能本质上是危险的。")
+> - The two systems are inherently different in their approach to education. `[例]`
+> - Nuclear power is inherently dangerous if not properly managed. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**柳叶刀，刺血针**==；②（建筑）尖顶窗；
+**n.** ①==**柳叶刀，刺血针**== `use a lancet to prick the skin` [中性/医学] `a surgical lancet` [中性/医学]；②==**（建筑）尖顶窗**== `a lancet window/arch` [中性/建筑]；
 
 > [!tip] 原型义
 > **原型义**：小型尖锐手术刀（用于放血或穿刺）
@@ -122,8 +122,8 @@ lanc(矛/枪，拉丁语 *lancea*) + -et(指小词缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Lancet published a groundbreaking study on the effectiveness of the new vaccine."（《柳叶刀》发表了一项关于新疫苗有效性的突破性研究。）
-> - "In medieval medicine, lancets were commonly used for bloodletting."（在中世纪医学中，柳叶刀常用于放血疗法。）
+> - The Lancet published a groundbreaking study on the effectiveness of the new vaccine. `[例]`
+> - In medieval medicine, physicians commonly used lancets for bloodletting procedures. `[例]`
 
 ## 复习记录
 

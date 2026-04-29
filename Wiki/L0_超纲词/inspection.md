@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**检查，视察**==；②检验；
+**n.** ①==**检查，视察**== `a safety/routine inspection` [正式] `on closer inspection` [正式]；②==**检验**== `a quality inspection of n.` [正式]；
 
 > [!tip] 原型义
 > **原型义**：检查（仔细查看）
@@ -124,8 +124,8 @@ in-(向内) + [[spec|spec-spect-]](看) + -tion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The factory passed the safety inspection with flying colors."（这家工厂以优异的成绩通过了安全检查。")
-> - "On closer inspection, the document revealed several inconsistencies."（经仔细检查，该文件暴露了几处不一致之处。")
+> - The factory passed the safety inspection with flying colors. `[例]`
+> - On closer inspection, the document revealed several inconsistencies. `[例]`
 
 ## 复习记录
 

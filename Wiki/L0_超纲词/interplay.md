@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**相互作用，相互影响**==；②交互作用；
+**n.** ①==**相互作用，相互影响**== `the interplay between A and B` [学术] `the interplay of A and B` [学术]；②==**交互作用**== `the complex interplay of factors` [学术]；
 
 > [!tip] 原型义
 > **原型义**：相互之间来回作用（彼此之间来回施加影响）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The interplay between genetics and environment shapes human behavior."（遗传与环境之间的相互作用塑造了人类行为）
-> - "We need to understand the complex interplay of economic forces."（我们需要理解经济力量之间复杂的相互作用）
+> - The interplay between genetics and environment shapes human behavior. `[例]`
+> - We need to understand the complex interplay of economic forces. `[例]`
 
 ## 复习记录
 

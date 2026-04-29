@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**司法系统，司法部**==；②法官群体（总称）；
+**n.** ①==**司法系统，司法部**== `an independent judiciary / the judiciary` [正式]；②法官群体（总称）；
 **adj.** ①司法的，审判的；
 
 > [!tip] 原型义
@@ -130,8 +130,8 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "An independent judiciary is essential for the rule of law."（独立的司法系统是法治的基石。）
-> - "The judiciary has the power to interpret laws and determine their constitutionality."（司法系统有权解释法律并判定其合宪性。）
+> - An independent judiciary is essential for the rule of law. `[例]`
+> - The judiciary has the power to interpret laws and determine their constitutionality. `[例]`
 
 ## 复习记录
 

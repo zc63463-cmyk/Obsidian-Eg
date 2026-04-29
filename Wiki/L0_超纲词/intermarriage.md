@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**通婚，异族通婚**==；②不同群体间的联姻；
+**n.** ①==**通婚，异族通婚**== `intermarriage between A and B` [学术] `rate of intermarriage` [学术]；②==**不同群体间的联姻**== `intermarriage of families` [正式]；
 
 > [!tip] 原型义
 > **原型义**：通婚（不同群体之间的婚姻）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Intermarriage between different ethnic groups has increased significantly in recent decades."（近几十年来，不同种族群体之间的通婚显著增加。")
-> - "The intermarriage of royal families was once a common tool for building political alliances."（王室之间的联姻曾是建立政治联盟的常见手段。")
+> - Intermarriage between different ethnic groups has increased significantly in recent decades. `[例]`
+> - The intermarriage of royal families was once a common tool for building political alliances. `[例]`
 
 ## 复习记录
 

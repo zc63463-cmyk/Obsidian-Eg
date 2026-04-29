@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**强烈地，极度地**==；②紧张地；
+**adv.** ①==**强烈地，极度地**== `intensely + adj.` [正式] `intensely dislike/competitive` [通用]；②==**紧张地**== `intensely debated` [新闻]；
 
 > [!tip] 原型义
 > **原型义**：强烈地（极度地）
@@ -125,8 +125,8 @@ in-(向内) + [[tend|tend-tens-]](伸展) + -ly(副词)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She intensely dislikes being interrupted while working."（她强烈不喜欢工作时被打断。")
-> - "The issue has been intensely debated in recent months."（这个问题在最近几个月被激烈讨论。")
+> - She intensely dislikes being interrupted while working. `[例]`
+> - The issue has been intensely debated in recent months. `[例]`
 
 ## 复习记录
 

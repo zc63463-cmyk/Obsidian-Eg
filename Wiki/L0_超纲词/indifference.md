@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**漠不关心，不在乎**==；②不感兴趣；③不重要，无差别；
+**n.** ①==**漠不关心，不在乎**== `show/express indifference to` [通用]；②==**不感兴趣**== `indifference to/toward sth.` [通用]；③==**不重要，无差别**== `matters of indifference` [正式]；
 
 > [!tip] 原型义
 > **原型义**：漠不关心、不在乎
@@ -125,7 +125,9 @@ in-(不) + dif-(=dis-, 分开) + [[fer|fer]](承受/感受，拉丁语 *ferre*) 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - “The public indifference to environmental issues is alarming.”（公众对环境问题的漠不关心令人担忧。）
+> - The public indifference to environmental issues is alarming. `[例]`
+> - She viewed his departure with complete indifference, as if nothing had changed. `[例]`
+> - Whether we meet on Monday or Tuesday is a matter of indifference to me. `[例]`
 
 ## 复习记录
 

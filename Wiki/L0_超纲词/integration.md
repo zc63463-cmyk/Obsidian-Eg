@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**整合，一体化**==；②融合；③（数学）积分；
+**n.** ①==**整合，一体化**== `integration of + n.` [正式] `economic/system + integration` [学术]；②==**融合**== `racial/cultural + integration` [社会]；③==**（数学）积分**== `integral calculus` [数学]；
 
 > [!tip] 原型义
 > **原型义**：整合（将各部分合为一体）
@@ -127,8 +127,8 @@ in-(向内) + [[integr|integer]](整体，完整) + -ation(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Economic integration has brought both benefits and challenges to member states."（经济一体化给成员国带来了利益和挑战。")
-> - "The integration of artificial intelligence into healthcare is transforming patient care."（人工智能融入医疗保健正在改变患者护理。")
+> - Economic integration has brought both benefits and challenges to member states. `[例]`
+> - The integration of artificial intelligence into healthcare is transforming patient care. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**杠杆作用，杠杆效应**==；②（金融）杠杆率，借贷投资；③影响力，手段；
-**v.** ①==**利用，借助**==（某事物获得优势）；
+**n.** ①==**杠杆作用，杠杆效应**== `have/apply leverage` [通用] `financial leverage` [金融]；②（金融）杠杆率，借贷投资 `high/low leverage` [金融]；③影响力，手段 `have leverage over sb` [通用]；
+**v.** ①==**利用，借助**== `leverage sth to do sth` [商务] `leverage one's resources/connections` [通用]；
 
 > [!tip] 原型义
 > **原型义**：杠杆作用（用小力撬动大物的机械原理）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company leveraged its brand reputation to expand into new markets."（公司利用其品牌声誉拓展新市场。）
-> - "High financial leverage can amplify both gains and losses."（高金融杠杆可以放大收益和损失。")
+> - The company leveraged its brand reputation to expand into new markets. `[例]`
+> - High financial leverage can amplify both gains and losses. `[例]`
+> - She used her extensive network as leverage to negotiate a better salary. `[例]`
 
 ## 复习记录
 

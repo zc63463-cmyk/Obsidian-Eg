@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**控告，起诉**==；②起诉书；③谴责的依据；
+**n.** ①==**控告，起诉**== `bring/face an indictment` [法律]；②==**起诉书**== `hand up an indictment` [法律]；③==**谴责的依据**== `an indictment of the system` [正式]；
 
 > [!tip] 原型义
 > **原型义**：控告、起诉书
@@ -125,7 +125,9 @@ in-(向内/加强) + dict(说/宣布，拉丁语 *dicere*) + -ment(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - indictment 常出现在法律、政治类文章中，描述正式的法律指控或对制度的谴责。
+> - The grand jury handed down an indictment against the former CEO on charges of fraud. `[例]`
+> - The report was seen as a damning indictment of the government's failure to address poverty. `[例]`
+> - He pleaded not guilty after the federal indictment was unsealed in court. `[例]`
 
 ## 复习记录
 

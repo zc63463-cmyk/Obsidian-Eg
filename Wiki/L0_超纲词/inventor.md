@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**发明家，发明者**==；②创造者；
+**n.** ①==**发明家，发明者**== `the inventor of sth` [通用] `a prolific/great inventor` [通用]；②==**创造者**== `the inventor of a method/technique` [正式]；
 
 > [!tip] 原型义
 > **原型义**：找到的人（从无到有发现/创造新事物的人）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Thomas Edison is one of the most prolific inventors in history."（托马斯·爱迪生是历史上最多产的发明家之一）
-> - "The inventor of the World Wide Web, Tim Berners-Lee, changed how we communicate."（万维网的发明者蒂姆·伯纳斯-李改变了我们的交流方式）
+> - Thomas Edison is one of the most prolific inventors in history. `[例]`
+> - The inventor of the World Wide Web, Tim Berners-Lee, changed how we communicate. `[例]`
 
 ## 复习记录
 

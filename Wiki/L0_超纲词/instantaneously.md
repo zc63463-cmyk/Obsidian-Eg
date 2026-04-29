@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**瞬间地，即刻地**==；
+**adv.** ①==**瞬间地，即刻地**== `v. + instantaneously` [正式] `occur/react + instantaneously` [科学]；
 
 > [!tip] 原型义
 > **原型义**：瞬间地（立刻发生）
@@ -121,8 +121,8 @@ in-(在) + [[st-sta-stat|st]](站) + -ant(形容词) + -eous(形容词) + -ly(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The news spread instantaneously through social media."（新闻通过社交媒体瞬间传播开来。")
-> - "The system is designed to respond instantaneously to user input."（该系统被设计为能对用户输入做出即时响应。")
+> - The news spread instantaneously through social media. `[例]`
+> - The system is designed to respond instantaneously to user input. `[例]`
 
 ## 复习记录
 

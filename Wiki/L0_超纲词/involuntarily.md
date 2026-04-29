@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不由自主地，非自愿地**==；②无意地，不知不觉地；
+**adv.** ①==**不由自主地，非自愿地**== `involuntarily do sth` [通用] `sb involuntarily does sth` [通用]；②==**无意地，不知不觉地**== `involuntarily recall/remember sth` [文学]；
 
 > [!tip] 原型义
 > **原型义**：非意愿地（不是出于自己的意志/意愿而做出的）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She involuntarily shivered when she heard the footsteps behind her."（听到身后的脚步声时，她不由自主地颤抖了一下）
-> - "Many workers were involuntarily unemployed due to the economic downturn."（由于经济衰退，许多工人非自愿地失业了）
+> - She involuntarily shivered when she heard the footsteps behind her. `[例]`
+> - Many workers were involuntarily unemployed due to the economic downturn. `[例]`
 
 ## 复习记录
 

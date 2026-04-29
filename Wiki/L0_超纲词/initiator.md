@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**发起人，创始人**==；②倡议者；
+**n.** ①==**发起人，创始人**== `the initiator of sth` [正式] `be recognized as the initiator` [书面]；②倡议者；
 
 > [!tip] 原型义
 > **原型义**：发起人（开始某事的人）
@@ -124,8 +124,8 @@ in-(进入) + iti(开始) + -at(动词) + -or(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was recognized as the initiator of the environmental campaign."（她被公认为这项环保运动的发起人。")
-> - "The initiator of the project outlined the key objectives at the meeting."（项目的发起人在会议上概述了关键目标。")
+> - She was recognized as the initiator of the environmental campaign. `[例]`
+> - The initiator of the project outlined the key objectives at the meeting. `[例]`
 
 ## 复习记录
 

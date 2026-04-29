@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**间接的，迂回的**==；②不直截了当的；③婉转的；
+**adj.** ①==**间接的，迂回的**== `indirect effect/approach` [通用]；②==**不直截了当的**== `indirect answer/criticism` [通用]；③==**婉转的**== `indirect way of saying` [通用]；
 
 > [!tip] 原型义
 > **原型义**：间接的、迂回的
@@ -126,7 +126,9 @@ in-(不) + direct(直接的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - indirect 常出现在学术、政治类文章中，描述间接影响、间接证据或委婉表达。
+> - The new tax policy had an indirect effect on small businesses by raising their operating costs. `[例]`
+> - She gave an indirect answer that avoided addressing the core of the question. `[例]`
+> - He made an indirect criticism of the proposal without naming anyone specifically. `[例]`
 
 ## 复习记录
 

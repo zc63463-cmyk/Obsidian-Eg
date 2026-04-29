@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**灌溉**==；②水利系统，灌溉系统；
+**n.** ①==**灌溉**== `irrigation system/canal` [农业/正式] `drip irrigation` [农业/正式]；②==**水利系统，灌溉系统**== `irrigation project/infrastructure` [农业/正式]；
 
 > [!tip] 原型义
 > **原型义**：引水浇灌（把水引导到干旱的土地上浇灌庄稼）
@@ -126,8 +126,8 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The development of irrigation systems was crucial to the growth of ancient civilizations."（灌溉系统的发展对古代文明的成长至关重要）
-> - "Modern drip irrigation technology has significantly reduced water waste in agriculture."（现代滴灌技术已显著减少了农业中的水资源浪费）
+> - The development of irrigation systems was crucial to the growth of ancient civilizations. `[例]`
+> - Modern drip irrigation technology has significantly reduced water waste in agriculture. `[例]`
 
 ## 复习记录
 

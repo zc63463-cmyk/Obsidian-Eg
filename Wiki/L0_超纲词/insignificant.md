@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不重要的，微不足道的**==；②无意义的；③数值很小的；
+**adj.** ①==**不重要的，微不足道的**== `an insignificant detail/amount` [正式]；②==**无意义的**== `an insignificant difference` [正式]；③==**数值很小的**== `statistically insignificant` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不重要的（微不足道的）
@@ -125,8 +125,8 @@ in-(不，否定) + [[sign|sign-]](标记/意义) + -ific(使动) + -ant(…的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The difference between the two products is insignificant."（两种产品之间的差异微不足道。")
-> - "Don't worry about such an insignificant detail."（不要担心这么微不足道的细节。")
+> - The difference between the two products is insignificant. `[例]`
+> - Don't worry about such an insignificant detail. `[例]`
 
 ## 复习记录
 

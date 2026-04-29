@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**层压的，由薄片层叠而成的**==；②覆膜的（纸张）；
-**v.** (laminate 的过去式/过去分词) ①将……分层压制；
+**adj.** ①==**层压的，由薄片层叠而成的**== `be made of laminated material` [中性/工艺] `laminated glass/wood` [中性/工艺]；②==**覆膜的（纸张）**== `a laminated document/menu` [中性/日常]；
+**v.** (laminate 的过去式/过去分词) ①==**将……分层压制**== `laminate layers of material together` [中性/工艺]；
 
 > [!tip] 原型义
 > **原型义**：由薄片层叠而成的（源自拉丁语 *lamina* = 薄片）
@@ -125,8 +125,8 @@ lamin(薄片，拉丁语 *lamina*) + -ate(动词后缀) + -ed(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Laminated glass is used in car windshields for safety reasons."（出于安全考虑，汽车挡风玻璃使用夹层玻璃。）
-> - "The restaurant's menu was laminated to protect it from spills."（餐厅的菜单覆了膜以防污损。）
+> - Laminated glass is used in car windshields for safety reasons. `[例]`
+> - The restaurant laminated its menus to protect them from spills and stains. `[例]`
 
 ## 复习记录
 

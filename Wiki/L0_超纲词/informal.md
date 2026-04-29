@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**非正式的，不拘礼节的**==；②日常使用的，口语体的；③不规则的；
+**adj.** ①==**非正式的，不拘礼节的**== `informal meeting/dress` [中性] `an informal atmosphere` [中性]；②日常使用的，口语体的 `informal English/language` [中性]；③不规则的 `informal arrangement` [中性]；
 
 > [!tip] 原型义
 > **原型义**：非正式的（不拘形式的）
@@ -126,8 +126,9 @@ in-(不，否定) + [[form|form-]](形式) + -al(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The meeting was informal, with participants sitting around a table rather than in a formal boardroom."（会议是非正式的，参与者围坐在桌旁，而不是在正式的会议室里。）
-> - "Informal learning often takes place outside the classroom through daily experiences."（非正式学习通常通过日常经验在课堂之外进行。）
+> - The meeting was informal, with participants sitting around a table rather than in a formal boardroom. `[例]`
+> - Informal learning often takes place outside the classroom through daily experiences. `[例]`
+> - She preferred an informal approach to management that encouraged open communication. `[例]`
 
 ## 复习记录
 

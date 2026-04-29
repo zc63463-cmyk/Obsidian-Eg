@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有洞察力的，富有洞察力的**==；②见解深刻的；
+**adj.** ①==**有洞察力的，富有洞察力的**== `an insightful analysis/observation` [正式]；②==**见解深刻的**== `an insightful comment/remark/perspective` [正式]；
 
 > [!tip] 原型义
 > **原型义**：有洞察力的（能看透事物本质的）
@@ -123,8 +123,8 @@ in-(向内) + [[sight|spec-spect-]](看) + -ful(充满)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Her insightful analysis of the problem revealed its root causes."（她对问题的深刻分析揭示了其根本原因。")
-> - "The book offers insightful perspectives on the future of education."（这本书对教育的未来提供了深刻的视角。")
+> - Her insightful analysis of the problem revealed its root causes. `[例]`
+> - The book offers insightful perspectives on the future of education. `[例]`
 
 ## 复习记录
 

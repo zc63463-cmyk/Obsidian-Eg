@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**尽力应付，兼顾（多项事务）**==；②玩杂耍（抛接物体）；③篡改，伪造（账目等）；
+**v.** ①==**尽力应付，兼顾（多项事务）**== `juggle A and B / juggle multiple roles` [通用]；②玩杂耍（抛接物体）；③篡改，伪造（账目等）；
 
 > [!tip] 原型义
 > **原型义**：同时抛接多个物体（杂耍动作）
@@ -128,8 +128,8 @@ juggle（源自拉丁语 *joculare* = 开玩笑，与 joke 同源）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many working parents struggle to juggle their careers and family responsibilities."（许多职场父母努力兼顾事业和家庭责任。）
-> - "The accountant was caught juggling the books to hide the company's losses."（会计被抓获篡改账目以掩盖公司亏损。）
+> - Many working parents struggle to juggle their careers and family responsibilities. `[例]`
+> - The accountant was caught juggling the books to hide the company's losses. `[例]`
 
 ## 复习记录
 

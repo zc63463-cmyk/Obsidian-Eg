@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宽大，仁慈**==；②（法律）从轻处罚；
+**n.** ①==**宽大，仁慈**== `show leniency to sb.` [正面/通用] `treat sb. with leniency` [正面/通用]；②==**（法律）从轻处罚**== `leniency in sentencing` [中性/法律] `recommend leniency` [中性/法律]；
 
 > [!tip] 原型义
 > **原型义**：宽大处理（减轻惩罚，源自拉丁语 *lenis* = 柔软的/温和的）
@@ -126,8 +126,8 @@ len(柔软/温和，拉丁语 *lenis*) + -i- + -ency(名词后缀，表示状态
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The judge showed leniency due to the defendant's young age and lack of prior offenses."（鉴于被告年轻且无前科，法官从轻处罚。）
-> - "The prosecution recommended leniency in exchange for the defendant's cooperation."（检方建议从轻处罚，以换取被告的合作。）
+> - The judge showed leniency due to the defendant's young age and lack of prior offenses. `[例]`
+> - The prosecution recommended leniency in exchange for the defendant's cooperation. `[例]`
 
 ## 复习记录
 

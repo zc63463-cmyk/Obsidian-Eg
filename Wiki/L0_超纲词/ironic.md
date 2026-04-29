@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**具有讽刺意味的**==；②反语的，说反话的；③出乎意料的，令人啼笑皆非的；
+**adj.** ①==**具有讽刺意味的**== `it is ironic that` [通用] `an ironic twist/coincidence` [通用]；②==**反语的，说反话的**== `an ironic remark/smile` [文学] `speak ironically` [文学]；③==**出乎意料的，令人啼笑皆非的**== `an ironic result/outcome` [通用]；
 
 > [!tip] 原型义
 > **原型义**：像讽刺的（表面意思与实际意思相反的，或结果与预期相反的）
@@ -131,8 +131,8 @@ iron(铁/讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It is ironic that the inventor of the safety belt died in a car accident."（具有讽刺意味的是，安全带的发明者死于车祸）
-> - "The ironic result of the anti-corruption campaign was that it exposed even more corruption."（反腐运动的讽刺性结果是它暴露了更多的腐败）
+> - It is ironic that the inventor of the safety belt died in a car accident. `[例]`
+> - The ironic result of the anti-corruption campaign was that it exposed even more corruption. `[例]`
 
 ## 复习记录
 
