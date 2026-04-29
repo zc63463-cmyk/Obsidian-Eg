@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**想象，展望**==；②构想，展望（未来）；
+**v.** ①==**想象，展望**== `envision N` [正式] `envision V-ing` [正式]；②构想，展望（未来） `envision a future` [正式]；
 
 > [!tip] 原型义
 > **原型义**：想象（在心中描绘出未来的画面）
@@ -129,7 +129,8 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The architects envisioned a modern sustainable city powered entirely by renewable energy. `[例]`
+> - She envisioned herself leading the team to victory after months of rigorous training. `[例]`
 
 ## 复习记录
 

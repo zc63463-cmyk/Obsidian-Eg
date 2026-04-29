@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**旗舰**==；②（比喻）最优秀的产品，王牌；③旗舰店；
-**adj.** ①旗舰的；最优秀的；
+**n.** ①==**旗舰**== `the flagship of the fleet` [军事]；②==**（比喻）最优秀的产品，王牌**== `flagship product` [商业] `flagship program` [正式]；③==**旗舰店**== `flagship store` [商业]；
+**adj.** ①==**旗舰的；最优秀的**== `flagship species` [学术] `the flagship model` [商业]；
 
 > [!tip] 原型义
 > **原型义**：旗舰（舰队中指挥官所在的船）
@@ -129,8 +129,8 @@ flag(旗帜) + ship(船)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The iPhone has always been Apple's flagship product."（iPhone 一直是苹果的旗舰产品。）
-> - "They opened their flagship store on Fifth Avenue in New York."（他们在纽约第五大道开设了旗舰店。）
+> - The iPhone has always been Apple's flagship product. `[例]`
+> - They opened their flagship store on Fifth Avenue in New York. `[例]`
 
 ## 复习记录
 

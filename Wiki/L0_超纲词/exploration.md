@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**探索，勘探**==；②考察，探究；
+**n.** ①==**探索，勘探**== `N of N` [正式] `V-ing` [正式]；②==**考察，探究**== `N of N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：探索（向外寻找新事物的过程）
@@ -124,7 +124,8 @@ ex-(向外) + plor(呼喊/哭泣，源自拉丁语 *plorare*) + -ation(名词后
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The exploration of deep-sea ecosystems has led to the discovery of previously unknown species. `[例]`
+> - Space exploration requires enormous financial investment and international cooperation. `[例]`
 
 ## 复习记录
 

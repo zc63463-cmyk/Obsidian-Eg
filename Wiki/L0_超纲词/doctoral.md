@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**博士的**==；②==**博士学位的**==；
+**adj..** ①==**博士的**== `adj N` [学术] `doctoral program` `adj N` [学术] `doctoral thesis`；②==**博士学位的**== `adj N` [学术] `doctoral degree` `adj N` [学术] `doctoral candidate`；
 
 > [!tip] 原型义
 > **原型义**：教导者的（属于最高学位持有者的）
@@ -119,7 +119,9 @@ doctor(博士/教师，拉丁语 *docere*，教导) + -al(形容词后缀) → �
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She is currently pursuing a doctoral degree in molecular biology.（她目前正在攻读分子生物学博士学位。）
+> - She is currently pursuing a doctoral degree in molecular biology. `[例]`
+> - His doctoral thesis examined the effects of climate change on coastal ecosystems. `[例]`
+> - The university offers a doctoral program in computer science that takes four to five years to complete. `[例]`
 
 ## 复习记录
 

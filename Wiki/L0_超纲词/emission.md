@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**排放物，散发物**==；②排放，散发；③（光、热等的）射出；
+**n.** ①==**排放物，散发物**== `N of N` [科学]；②==**排放，散发**== `the N of N` [科学]；③==**（光、热等的）射出**== `the N of N` [物理]；
 
 > [!tip] 原型义
 > **原型义**：发出（向外送出的东西）
@@ -128,7 +128,8 @@ e-(=ex-, 出来/向外) + [[miss|miss]](送/派遣) + -ion(名词后缀，表示
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The government has imposed strict regulations on carbon emissions from industrial plants. `[例]`
+> - The emission of light from distant stars takes millions of years to reach Earth. `[例]`
 
 ## 复习记录
 

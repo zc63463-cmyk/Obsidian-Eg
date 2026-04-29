@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**民间传说，民俗**==；②民间传统信仰；③（某群体的）传统知识；
+**n.** ①==**民间传说，民俗**== `Chinese folklore` [学术] `folklore and mythology` [学术]；②==**民间传统信仰**== `local folklore` [学术] `folklore traditions` [学术]；③==**（某群体的）传统知识**== `according to folklore` [书面] `corporate folklore` [商业]；
 
 > [!tip] 原型义
 > **原型义**：民间传说（民间代代相传的故事和习俗）
@@ -126,8 +126,8 @@ folk(民间，百姓) + lore(知识，传说，学问)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Dragons play a central role in Chinese folklore and mythology."（龙在中国民间传说和神话中扮演核心角色。）
-> - "According to local folklore, the cave is haunted by the spirit of an ancient warrior."（根据当地民间传说，这个洞穴被一位古代武士的鬼魂所缠绕。）
+> - Dragons play a central role in Chinese folklore and mythology. `[例]`
+> - According to local folklore, the cave is haunted by the spirit of an ancient warrior. `[例]`
 
 ## 复习记录
 

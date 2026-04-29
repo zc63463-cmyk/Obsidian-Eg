@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**衰退，下降趋势**==；②==**低迷时期**==；
+**n.** ①==**衰退，下降趋势**== `adj N` `N in N`；②==**低迷时期**== `during the N`；
 
 > [!tip] 原型义
 > **原型义**：向下转（经济/趋势向坏的方向转变）
@@ -123,7 +123,9 @@ down-(向下) + turn(转向) → 向下转 → 衰退
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many businesses struggled to survive the economic downturn.（许多企业在经济衰退中挣扎求存。）
+> - Many businesses struggled to survive the economic downturn. `[例]`
+> - The housing market downturn led to a sharp decline in property prices. `[例]`
+> - Small businesses are particularly vulnerable during a market downturn. `[例]`
 
 ## 复习记录
 

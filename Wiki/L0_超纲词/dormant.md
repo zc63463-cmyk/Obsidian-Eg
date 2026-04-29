@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**休眠的，蛰伏的**==；②==**暂停活动的，沉寂的**==；
+**adj..** ①==**休眠的，蛰伏的**== `adj N` [中性] `dormant volcano` `adj N` [中性] `dormant seeds`；②==**暂停活动的，沉寂的**== `adj N` [中性] `dormant account` `V adj` [中性] `lie dormant`；
 
 > [!tip] 原型义
 > **原型义**：在睡觉的（处于休眠状态）
@@ -123,7 +123,9 @@ dorm(睡眠，拉丁语 *dormire*) + -ant(形容词后缀，表状态) → 在�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The virus can remain dormant in the body for years.（该病毒可以在体内休眠多年。）
+> - The virus can remain dormant in the body for years. `[例]`
+> - Mount Fuji is a dormant volcano that last erupted in the early 18th century. `[例]`
+> - Her musical talent lay dormant for decades before she finally decided to pursue a career in singing. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抵挡，防御**==；②照料自己，自谋生路；
-**n.** ①照料，照管；
+**v.** ①==**抵挡，防御**== `fend off N` [中性] `fend off criticism` [中性]；②==**照料自己，自谋生路**== `fend for oneself` [口语]；
+**n.** ①==**照料，照管**==；
 
 > [!tip] 原型义
 > **原型义**：抵挡，防御（保护自己免受伤害）
@@ -129,8 +129,8 @@ fend 是 defend（防御）的缩写形式，defend 源自 [[de|de]]-(离开) + 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Children left to fend for themselves often develop remarkable resilience."（被留下自谋生路的孩子往往发展出非凡的韧性。）
-> - "She had to fend off numerous questions from reporters."（她不得不挡开记者们的连番提问。）
+> - Children left to fend for themselves often develop remarkable resilience. `[例]`
+> - She had to fend off numerous questions from reporters. `[例]`
 
 ## 复习记录
 

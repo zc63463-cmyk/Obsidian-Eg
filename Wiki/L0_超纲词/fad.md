@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一时的流行，狂热**==；②短暂的爱好；
+**n.** ①==**一时的流行，狂热**== `a passing fad` [中性] `the latest fad` [中性]；②==**短暂的爱好**== `a fad for N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：短暂的流行（一时兴起的风潮）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many parents feel they're struggling to keep up with the rapidly changing fads and trends on social media."（许多父母觉得自己难以跟上社交媒体上快速变化的流行风潮。）
-> - "Is this diet a genuine health approach or just another passing fad?"（这种饮食法是真正的健康方式，还是又一阵短暂的流行？）
+> - Many parents feel they are struggling to keep up with the rapidly changing fads and trends on social media. `[例]`
+> - Is this diet a genuine health approach or just another passing fad? `[例]`
 
 ## 复习记录
 

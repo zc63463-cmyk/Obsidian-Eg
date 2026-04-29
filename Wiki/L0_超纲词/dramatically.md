@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**显著地，剧烈地**==；②戏剧性地，引人注目地；
+**adv.** ①==**显著地，剧烈地**== `V adv` `adv different`；
 
 > [!tip] 原型义
 > **原型义**：戏剧性地（像戏剧一样引人注目地变化）
@@ -126,7 +126,9 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The company's profits improved dramatically after the new strategy was implemented. `[例]`
+> - Technology has changed dramatically over the past two decades. `[例]`
+> - The patient's condition deteriorated dramatically overnight. `[例]`
 
 ## 复习记录
 

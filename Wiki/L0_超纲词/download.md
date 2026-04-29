@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v./n..** ①==**下载**==；
+**v./n.** ①==**下载**== `V N` `V N from N`；
 
 > [!tip] 原型义
 > **原型义**：向下加载（从远程服务器把数据传到本地）
@@ -116,7 +116,9 @@ down-(向下) + load(加载) → 向下加载 → 下载
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - You can download the software from the official website.（你可以从官方网站下载该软件。）
+> - You can download the software from the official website. `[例]`
+> - Users can download the app for free from the App Store. `[例]`
+> - The file is too large to download on a mobile connection. `[例]`
 
 ## 复习记录
 

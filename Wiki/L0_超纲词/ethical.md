@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**伦理的，道德的**==；②合乎道德的；③（哲学）伦理学的；
+**adj.** ①==**伦理的，道德的**== `ethical N` [正式] `ethical issues` [正式]；②合乎道德的 `ethical behavior` [正式]；③（哲学）伦理学的 `ethical standards` [学术]；
 
 > [!tip] 原型义
 > **原型义**：伦理的（与道德原则相关的）
@@ -129,7 +129,8 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The committee raised serious ethical concerns about the use of personal data without informed consent. `[例]`
+> - Medical professionals are bound by ethical standards that require them to prioritize patient welfare above all else. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**消毒，给...杀菌**==；
+**v..** ①==**消毒，给...杀菌**== `V N` [医学/通用] `V N with N` [医学/通用]；
 
 > [!tip] 原型义
 > **原型义**：去除感染（消灭细菌/病毒防止感染）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Please disinfect your hands before entering the building.（请在进入大楼前消毒双手。）
+> - Please disinfect your hands before entering the building. `[例]`；
+> - All surfaces in the hospital must be disinfected regularly. `[例]`；
 
 ## 复习记录
 

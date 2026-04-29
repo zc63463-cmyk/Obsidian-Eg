@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**精神气质，特质**==；②（群体的）理念，价值观；③（修辞学）信誉，人格魅力；
+**n.** ①==**精神气质，特质**== `the ethos of N` [正式] `a personal ethos` [正式]；②（群体的）理念，价值观 `professional ethos` [正式]；③（修辞学）信誉，人格魅力；
 
 > [!tip] 原型义
 > **原型义**：精神气质（一个群体或个人的核心品格/价值观）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The ethos of the organization emphasizes collaboration, integrity, and respect for diverse perspectives. `[例]`
+> - Ancient Greek philosophers believed that a strong personal ethos was essential for living a virtuous life. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**滑稽可笑的，荒唐的**==；②闹剧般的；
+**adj.** ①==**滑稽可笑的，荒唐的**== `a farcical situation` [贬义] `a farcical attempt` [贬义]；②==**闹剧般的**== `farcical proceedings` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：滑稽可笑的（像闹剧一样荒唐）
@@ -126,8 +126,8 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The trial was a farcical spectacle that made a mockery of justice."（这场审判是一场闹剧般的闹剧，是对正义的嘲弄。）
-> - "The negotiations became farcical when neither side was willing to compromise."（当双方都不愿妥协时，谈判变得荒唐可笑。）
+> - The trial was a farcical spectacle that made a mockery of justice. `[例]`
+> - The negotiations became farcical when neither side was willing to compromise. `[例]`
 
 ## 复习记录
 

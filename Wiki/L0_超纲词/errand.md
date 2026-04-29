@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**差事，跑腿**==；②使命，任务；
+**n.** ①==**差事，跑腿**== `run errands` [日常] `on an errand` [日常]；②使命，任务 `send someone on an errand` [正式]；
 
 > [!tip] 原型义
 > **原型义**：差事（被派出去完成的短途任务）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - She spent the entire Saturday morning running errands, picking up dry cleaning and dropping off packages at the post office. `[例]`
+> - His mother sent him on an errand to buy bread and milk from the corner shop. `[例]`
 
 ## 复习记录
 

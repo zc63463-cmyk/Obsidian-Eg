@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**格外地，非常**==；②非凡地，异常地；
+**adv.** ①==**格外地，非常**== `adv adj` [正式] `adv V` [正式]；②==**非凡地，异常地**== `adv adj` [正式]；
 
 > [!tip] 原型义
 > **原型义**：超出寻常地（超出一般程度地）
@@ -127,7 +127,8 @@ extra-(超出/在……之外) + ordin(顺序/寻常，源自拉丁语 *ordo*) +
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The team performed extraordinarily well under pressure and secured the championship title. `[例]`
+> - She is an extraordinarily gifted musician who began composing at the age of five. `[例]`
 
 ## 复习记录
 

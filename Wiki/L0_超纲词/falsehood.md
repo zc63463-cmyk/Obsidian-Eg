@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谎言，虚假**==；②不实之词，谬误；
+**n.** ①==**谎言，虚假**== `utter falsehoods` [正式] `a pack of falsehoods` [正式]；②==**不实之词，谬误**== `the falsehood of the claim` [正式]；
 
 > [!tip] 原型义
 > **原型义**：虚假（不真实的事物或陈述）
@@ -127,8 +127,8 @@ false(虚假的) + -hood(名词后缀，表示状态/性质)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The article is full of falsehoods and misrepresentations."（这篇文章充满了谎言和歪曲。）
-> - "It is easy to expose the falsehood of such claims with a little research."（稍做调查就能揭穿这类说法的虚假性。）
+> - The article is full of falsehoods and misrepresentations. `[例]`
+> - It is easy to expose the falsehood of such claims with a little research. `[例]`
 
 ## 复习记录
 

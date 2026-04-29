@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n./adj..** ①==**对角线的；对角线**==；②==**斜线的，倾斜的**==；
+**n./adj..** ①==**对角线的；对角线**== `a diagonal N` [通用] `draw a diagonal` [通用]；②==**斜线的，倾斜的**== `in a diagonal direction` [通用]；
 
 > [!tip] 原型义
 > **原型义**：穿过角度的线（从一个角到对角的线）
@@ -121,7 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The roof has a diagonal beam for structural support.（屋顶有一根对角线梁用于结构支撑。）
+> - The roof has a diagonal beam for structural support. `[例]`
+> - The park is laid out with diagonal pathways that intersect at a central fountain. `[例]`
 
 ## 复习记录
 

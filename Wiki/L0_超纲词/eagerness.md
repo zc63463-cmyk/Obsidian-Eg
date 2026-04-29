@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**渴望，热切**==；②热情，殷切；
+**n.** ①==**渴望，热切**== `N` [正面]；②==**热情，殷切**== `N` [正面]；
 
 > [!tip] 原型义
 > **原型义**：渴望（像鹰一样急切地想要得到）
@@ -126,7 +126,8 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Her eagerness to learn new skills impressed everyone in the team. `[例]`
+> - The children waited for the summer holiday with barely concealed eagerness. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（发出嘶嘶声后）熄灭，失败**==；②虎头蛇尾地结束；
-**n.** ①嘶嘶声；②失败；
+**v.** ①==**（发出嘶嘶声后）熄灭，失败**== `fizzle out` [口语] `the firework fizzled` [书面]；②==**虎头蛇尾地结束**== `the campaign fizzled out` [新闻]；
+**n.** ①==**嘶嘶声**== `a fizzle` [口语]；②==**失败**== `end in a fizzle` [口语]；
 
 > [!tip] 原型义
 > **原型义**：嘶嘶地熄灭（像火苗一样发出嘶嘶声后消失）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The much-hyped protest fizzled out after just a few hours."（这场大肆宣传的抗议活动仅几个小时后就虎头蛇尾地结束了。）
-> - "What started as a promising initiative ended in a fizzle."（这个最初看起来很有希望的项目最终以失败告终。）
+> - The much-hyped protest fizzled out after just a few hours. `[例]`
+> - What started as a promising initiative ended in a fizzle. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**排水系统，排水**==；②排出的水，污水；③（医学）引流；
+**n.** ①==**排水系统，排水**== `adj N` `N system`；
 
 > [!tip] 原型义
 > **原型义**：排水（将水从某处引走的过程）
@@ -125,7 +125,9 @@ drain（排干，源自古英语 *drēahnian*）+ -age（名词后缀，表示�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Poor drainage caused flooding in the basement after the heavy rain. `[例]`
+> - The city needs to invest in a modern drainage system to prevent future floods. `[例]`
+> - Agricultural drainage is essential for maintaining healthy soil conditions. `[例]`
 
 ## 复习记录
 

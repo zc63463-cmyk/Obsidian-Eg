@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**翻转，弹动**==；②快速翻阅；③（态度等）突然改变；
-**n.** ①翻转，弹动；②轻抛；③（口语）浏览；
-**adj.** ①轻率的，鲁莽的；
+**v.** ①==**翻转，弹动**== `flip a coin` [日常] `flip a card` [日常]；②==**快速翻阅**== `flip through a book` [日常] `flip channels` [口语]；③==**（态度等）突然改变**== `flip-flop on an issue` [新闻/政治]；
+**n.** ①==**翻转，弹动**== `a flip of the coin` [日常]；②==**轻抛**== `a flip` [口语]；③==**（口语）浏览**== `a quick flip` [口语]；
+**adj.** ①==**轻率的，鲁莽的**== `a flip remark` [口语] `a flip answer` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：翻转（用手指快速弹动使物体翻转）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She flipped through the magazine while waiting for her appointment."（她在等候时快速翻阅着杂志。）
-> - "The politician was accused of flipping on his campaign promises."（这位政客被指控在竞选承诺上出尔反尔。）
+> - She flipped through the magazine while waiting for her appointment. `[例]`
+> - The politician was accused of flipping on his campaign promises. `[例]`
 
 ## 复习记录
 

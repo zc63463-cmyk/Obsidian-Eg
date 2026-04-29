@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使慌张，使紧张**==；②使困惑；
-**n.** ①慌张，紧张；②困惑的状态；
+**v.** ①==**使慌张，使紧张**== `don't let it fluster you` [口语] `be flustered by N` [日常]；②==**使困惑**== `fluster sb with questions` [日常]；
+**n.** ①==**慌张，紧张**== `in a fluster` [口语] `a state of fluster` [书面]；②==**困惑的状态**==；
 
 > [!tip] 原型义
 > **原型义**：慌张（因紧张或困惑而不知所措）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The unexpected question flustered the candidate during the interview."（这个意外的问题让候选人在面试中慌了神。）
-> - "She arrived at the meeting in a fluster, having forgotten her notes."（她慌慌张张地赶到会议，忘了带笔记。）
+> - The unexpected question flustered the candidate during the interview. `[例]`
+> - She arrived at the meeting in a fluster, having forgotten her notes. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**缺点，不利方面**==；②==**下降趋势**==；
+**n.** ①==**缺点，不利方面**== `the N of N` `prep N`；②==**下降趋势**== `on the N`；
 
 > [!tip] 原型义
 > **原型义**：向下的一面（不利的一面/缺点）
@@ -121,7 +121,9 @@ down-(向下) + side(面/方面) → 向下的一面 → 不利方面
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The downside of remote work is the lack of social interaction.（远程工作的缺点是缺乏社交互动。）
+> - The downside of remote work is the lack of social interaction. `[例]`
+> - One downside of living in a big city is the high cost of housing. `[例]`
+> - Every investment has its upsides and downsides. `[例]`
 
 ## 复习记录
 

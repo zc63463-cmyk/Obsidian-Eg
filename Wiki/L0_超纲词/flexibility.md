@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**灵活性，弹性**==；②柔韧性；③适应性；
+**n.** ①==**灵活性，弹性**== `workplace flexibility` [商业] `schedule flexibility` [日常]；②==**柔韧性**== `physical flexibility` [体育/医学]；③==**适应性**== `financial flexibility` [商业]；
 
 > [!tip] 原型义
 > **原型义**：灵活性（能够弯曲、适应变化的能力）
@@ -128,8 +128,8 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company offers greater flexibility in working hours to attract talent."（公司提供更大的工作时间灵活性来吸引人才。）
-> - "Flexibility is key to surviving in a rapidly changing market."（灵活性是在快速变化的市场中生存的关键。）
+> - The company offers greater flexibility in working hours to attract talent. `[例]`
+> - Flexibility is key to surviving in a rapidly changing market. `[例]`
 
 ## 复习记录
 

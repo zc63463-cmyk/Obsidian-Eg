@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**精英主义**==；②精英统治论；③势利，优越感；
+**n.** ①==**精英主义**== `N` [偏负面]；②==**精英统治论**== `N` [偏负面]；③==**势利，优越感**== `N` [负面]；
 
 > [!tip] 原型义
 > **原型义**：精英主义（认为精英应该统治社会的观念）
@@ -127,7 +127,8 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Critics accused the university of intellectual elitism after it raised its admission requirements significantly. `[例]`
+> - The party's policies were widely criticised as promoting cultural elitism and excluding ordinary citizens. `[例]`
 
 ## 复习记录
 

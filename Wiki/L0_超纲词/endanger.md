@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**危及，危害**==；②使遭受危险；
+**v.** ①==**危及，危害**== `V N` [通用]；②==**使遭受危险**== `V N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使处于危险中（把某人/某物推向危险）
@@ -126,7 +126,8 @@ en-(使进入/使成为) + danger(危险)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Deforestation is endangering the survival of many rare species in the Amazon rainforest. `[例]`
+> - Prolonged exposure to these chemicals may endanger public health. `[例]`
 
 ## 复习记录
 

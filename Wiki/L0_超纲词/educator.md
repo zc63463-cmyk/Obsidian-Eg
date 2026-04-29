@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**教育工作者，教师**==；②教育家；
+**n.** ①==**教育工作者，教师**== `N` [正面]；②==**教育家**== `N` [正面]；
 
 > [!tip] 原型义
 > **原型义**：引导出来的人（将知识从学生内心引导出来的人）
@@ -128,7 +128,8 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - As an experienced educator, she believes that every child has the potential to succeed. `[例]`
+> - The conference brought together educators from around the world to discuss new teaching methods. `[例]`
 
 ## 复习记录
 

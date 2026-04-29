@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**化身，体现**==；②典型，象征；
+**n.** ①==**化身，体现**== `the N of N` [通用]；②==**典型，象征**== `a adj N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：化身（将抽象概念赋予具体形体）
@@ -124,7 +124,8 @@ em-(=en-, 放入/使成为) + body(身体) + -ment(名词后缀，表示结果/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - She is the embodiment of kindness and generosity. `[例]`
+> - The new museum is a living embodiment of the city's cultural heritage. `[例]`
 
 ## 复习记录
 

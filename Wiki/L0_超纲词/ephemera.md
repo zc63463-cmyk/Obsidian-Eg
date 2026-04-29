@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**短暂的事物，转瞬即逝的东西**==；②（复数）短命的昆虫；③（收藏） ephemera：临时性印刷品（传单、票根等）；
+**n.** ①==**短暂的事物，转瞬即逝的东西**== `the ephemera of N` [学术] `collect ephemera` [学术]；②（复数）短命的昆虫；③（收藏） ephemera：临时性印刷品（传单、票根等） `cultural ephemera` [学术]；
 
 > [!tip] 原型义
 > **原型义**：短暂之物（只存在一天的、转瞬即逝的东西）
@@ -122,7 +122,8 @@ ephemer-(短暂的，源自希腊语 *ephemeros*，"只存在一天的") + -a(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The museum has a fascinating collection of Victorian ephemera, including old theater programs and advertising posters. `[例]`
+> - Digital ephemera such as tweets and Instagram stories are now considered valuable cultural artifacts by some researchers. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地牢，土牢**==；②（城堡的）主塔；
+**n.** ①==**地牢，土牢**== `throw into a N` `escape from the N`；
 
 > [!tip] 原型义
 > **原型义**：地牢（地下的城堡主塔，用作监狱）
@@ -119,7 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The prisoners were thrown into a dark dungeon beneath the castle. `[例]`
+> - In many fantasy games, players must explore dungeons to find hidden treasures. `[例]`
+> - The medieval dungeon was damp, cold, and barely lit by a single torch. `[例]`
 
 ## 复习记录
 

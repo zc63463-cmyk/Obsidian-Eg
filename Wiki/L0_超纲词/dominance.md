@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**优势，统治地位**==；②==**支配，控制**==；
+**n..** ①==**优势，统治地位**== `adj N` [正式] `market dominance` `adj N` [正式] `military dominance`；②==**支配，控制**== `adj N` [正式] `cultural dominance` `V N` [正式] `achieve dominance`；
 
 > [!tip] 原型义
 > **原型义**：做主人（掌控/统治的地位）
@@ -125,7 +125,9 @@ domin-(domin-/dom-，主人/统治) + -ance(名词后缀) → 做主人的状态
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company has achieved market dominance through aggressive expansion.（该公司通过积极扩张获得了市场主导地位。）
+> - The company has achieved market dominance through aggressive expansion. `[例]`
+> - The team's dominance in the tournament was evident from their first match. `[例]`
+> - Cultural dominance of one group over another can lead to the erosion of minority traditions. `[例]`
 
 ## 复习记录
 

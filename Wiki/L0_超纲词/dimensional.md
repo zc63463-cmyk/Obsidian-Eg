@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**...维的，...度的**==；②==**有尺寸的**==；
+**adj..** ①==**...维的，...度的**== `N-dimensional adj` [技术] `three-dimensional` [通用]；②==**有尺寸的**== `dimensional N` [技术]；
 
 > [!tip] 原型义
 > **原型义**：有度量的（可以测量大小/范围的）
@@ -120,7 +120,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The artist created a three-dimensional sculpture.（这位艺术家创作了一件三维雕塑。）
+> - The artist created a three-dimensional sculpture. `[例]`
+> - Modern data analysis often requires multi-dimensional models to capture complex relationships. `[例]`
 
 ## 复习记录
 

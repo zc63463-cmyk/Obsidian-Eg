@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**外交，外交手腕**==；②==**交际手腕，圆滑**==；
+**n..** ①==**外交，外交手腕**== `international diplomacy` [正式] `N diplomacy` [正式]；②==**交际手腕，圆滑**== `handle N with diplomacy` [通用]；
 
 > [!tip] 原型义
 > **原型义**：折叠的文件（国家间传递的官方文书）
@@ -122,7 +122,8 @@ diploma(dipl-/diplo-，折叠/双折) + -cy(名词后缀) → 折叠的文件 �
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Diplomacy played a crucial role in resolving the conflict.（外交在解决冲突中发挥了关键作用。）
+> - Diplomacy played a crucial role in resolving the conflict. `[例]`
+> - She handled the difficult negotiation with great diplomacy and patience. `[例]`
 
 ## 复习记录
 

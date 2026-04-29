@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**破坏性的，扰乱性的**==；②==**颠覆性的，创新的**==（科技语境）；
+**adj..** ①==**破坏性的，扰乱性的**== `adj N` [中性] `disruptive behavior` `adj N` [中性] `disruptive students`；②==**颠覆性的，创新的**== `adj N` [正面] `disruptive innovation` `adj N` [正面] `disruptive technology`；
 
 > [!tip] 原型义
 > **原型义**：打破原来的（撕裂/打破原有的秩序/模式）
@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Smartphones have been a disruptive force in the technology industry.（智能手机已成为科技行业的颠覆性力量。）
+> - Smartphones have been a disruptive force in the technology industry. `[例]`
+> - The teacher removed the disruptive student from the classroom. `[例]`
+> - Cloud computing is a disruptive technology that has transformed how businesses operate. `[例]`
 
 ## 复习记录
 

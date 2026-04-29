@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**勤奋，勤勉**==；②==**细心，细致**==；
+**n..** ①==**勤奋，勤勉**== `with great diligence` [正式] `through diligence` [正式]；②==**细心，细致**== `N with diligence` [正式]；
 
 > [!tip] 原型义
 > **原型义**：认真挑选（仔细地选择和对待每一件事）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Success comes from diligence and perseverance.（成功来自勤奋和毅力。）
+> - Success comes from diligence and perseverance. `[例]`
+> - She completed the project with great diligence, checking every detail twice. `[例]`
 
 ## 复习记录
 

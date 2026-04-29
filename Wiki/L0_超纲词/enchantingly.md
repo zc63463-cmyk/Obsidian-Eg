@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**迷人地，令人陶醉地**==；②极其吸引人地；
+**adv.** ①==**迷人地，令人陶醉地**== `adv adj` [文学]；②==**极其吸引人地**== `adv adj` [通用]；
 
 > [!tip] 原型义
 > **原型义**：迷人地（施魔法般地令人陶醉）
@@ -125,7 +125,8 @@ en-(使进入/使成为) + chant(歌曲/咒语) + -ing(形容词后缀) + -ly(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The small village looked enchantingly beautiful under the blanket of fresh snow. `[例]`
+> - She smiled enchantingly, and everyone in the room was immediately captivated. `[例]`
 
 ## 复习记录
 

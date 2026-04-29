@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**二人组，一对**==；②（音乐）二重奏组合；
+**n.** ①==**二人组，一对**== `N` [中性]；②（音乐）==**二重奏组合**== `N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：二人组（两个人或物的一对组合）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The comedy duo performed a hilarious sketch that had the entire audience laughing. `[例]`
+> - She formed a piano duo with her sister and they toured across Europe. `[例]`
 
 ## 复习记录
 

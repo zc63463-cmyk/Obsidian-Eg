@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**挖掘，发掘**==；②发掘出的文物；③挖掘现场；
+**n.** ①==**挖掘，发掘**== `N of N` [学术] `V-ing` [学术]；②==**发掘出的文物**== `N` [学术]；③==**挖掘现场**== `N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：挖掘（从地下挖出东西的动作）
@@ -126,7 +126,8 @@ ex-(出来/向外) + cav(洞/空) + -ation(名词后缀，表示动作/结果)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The archaeological excavation at the site revealed ancient Roman artifacts. `[例]`
+> - Excavation work on the new subway line has been temporarily suspended due to the discovery of historical remains. `[例]`
 
 ## 复习记录
 

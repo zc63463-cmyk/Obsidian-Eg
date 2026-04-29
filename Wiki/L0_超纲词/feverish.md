@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**发烧的，有热度的**==；②狂热的，焦躁不安的；
+**adj.** ①==**发烧的，有热度的**== `a feverish brow` [中性] `a feverish child` [中性]；②==**狂热的，焦躁不安的**== `feverish activity` [文学] `a feverish pace` [文学]；
 
 > [!tip] 原型义
 > **原型义**：发烧的（体温升高的状态）
@@ -126,8 +126,8 @@ fever(发烧) + -ish(形容词后缀，有…特征的/稍微…的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The city was gripped by feverish speculation about the upcoming election."（这座城市被对即将到来的选举的狂热猜测所笼罩。）
-> - "She worked at a feverish pace to meet the deadline."（她以狂热的节奏工作以赶上截止日期。）
+> - The city was gripped by feverish speculation about the upcoming election. `[例]`
+> - She worked at a feverish pace to meet the deadline. `[例]`
 
 ## 复习记录
 

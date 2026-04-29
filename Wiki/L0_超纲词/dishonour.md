@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n./v..** ①==**耻辱，丢脸**==（n.）；②==**使蒙羞，侮辱**==（v.）；③==**拒绝兑现（票据）**==（v.）；
+**n./v..** ①==**耻辱，丢脸**==（n.） `N` [正式] `bring N to N` [正式]；②==**使蒙羞，侮辱**==（v.） `V N` [正式] `V oneself` [正式]；③==**拒绝兑现（票据）**==（v.） `V N` [金融] `V N` [金融]；
 
 > [!tip] 原型义
 > **原型义**：失去荣誉（不再拥有尊重/荣誉）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He would rather die than bring dishonour to his family.（他宁死也不愿给家族带来耻辱。）
+> - He would rather die than bring dishonour to his family. `[例]`；
+> - The bank dishonoured the cheque due to insufficient funds. `[例]`；
 
 ## 复习记录
 

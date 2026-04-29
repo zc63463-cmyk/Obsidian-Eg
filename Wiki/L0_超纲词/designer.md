@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**设计师，设计者**==；②==**时髦的，名牌的**==（作形容词）；
+**n..** ①==**设计师，设计者**== `a N designer` [通用] `work as a designer` [通用]；②==**时髦的，名牌的**== `designer N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：设计的人（制定计划/图案的人）
@@ -121,7 +121,8 @@ design-/sign-(标记/设计) + -er(人) → 做设计的人 → 设计师
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She wore a designer dress to the gala.（她穿着名牌连衣裙参加了晚会。）
+> - She wore a designer dress to the gala. `[例]`
+> - The company hired a renowned interior designer to remodel the office space. `[例]`
 
 ## 复习记录
 

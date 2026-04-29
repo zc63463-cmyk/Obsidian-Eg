@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**发射器，排放源**==；②（电子学）发射极；
+**n.** ①==**发射器，排放源**== `an N of N` [科技]；②==**（电子学）发射极**== `N` [电子]；
 
 > [!tip] 原型义
 > **原型义**：发出者（向外送出物质或能量的装置）
@@ -127,7 +127,8 @@ e-(=ex-, 出来/向外) + [[mit|mit]](送/派遣) + -er(物/人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - China is currently the world's largest emitter of greenhouse gases. `[例]`
+> - The infrared emitter on the remote control sends signals to the television. `[例]`
 
 ## 复习记录
 

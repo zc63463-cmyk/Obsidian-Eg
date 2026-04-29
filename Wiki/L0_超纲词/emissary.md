@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**使者，密使**==；②特使，代表；
+**n.** ①==**使者，密使**== `a adj N` [外交]；②==**特使，代表**== `send an N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：被派出去的人（代表一方出使的人）
@@ -126,7 +126,8 @@ e-(=ex-, 出来/向外) + [[mit|mit]](送/派遣) + -ary(人/物)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The president sent a secret emissary to negotiate the ceasefire agreement. `[例]`
+> - He served as an emissary of peace between the two warring nations. `[例]`
 
 ## 复习记录
 

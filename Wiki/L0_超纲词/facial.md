@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**面部的，脸部的**==；②面部表情的；
-**n.** ①面部护理，美容；
+**adj.** ①==**面部的，脸部的**== `adj N` [通用]；②==**面部表情的**== `adj N` [通用]；
+**n.** ①==**面部护理，美容**== `V N` [日常]；
 
 > [!tip] 原型义
 > **原型义**：面部的（与脸相关的）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Facial expressions are a universal language of emotion."（面部表情是情感的世界通用语言。）
-> - "Facial recognition technology has raised serious privacy concerns."（面部识别技术引发了严重的隐私担忧。）
+> - Facial expressions are a universal language of emotion that transcends cultural boundaries. `[例]`
+> - Facial recognition technology has raised serious privacy concerns among lawmakers and civil liberties advocates. `[例]`
 
 ## 复习记录
 
