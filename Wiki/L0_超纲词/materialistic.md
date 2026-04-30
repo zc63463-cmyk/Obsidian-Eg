@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**物质主义的，贪图物质享受的**==；②唯物主义的；
+**adj.** ①==**物质主义的，贪图物质享受的**== `be adj prep N` [贬义]；②==**唯物主义的**== `adj N` [正式/哲学]；
 
 > [!tip] 原型义
 > **原型义**：物质主义的（以物质追求为导向的）
@@ -123,7 +123,8 @@ material（物质）+ -ist（人）+ -ic（形容词后缀，……的）→ 物
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Critics argue that modern Western culture has become increasingly materialistic, placing greater value on possessions than on relationships."（批评者认为现代西方文化变得越来越物质主义，更看重财富而非人际关系）
+> - `[例]` Critics argue that modern Western culture has become increasingly materialistic, placing greater value on possessions than on relationships. [C]
+> - `[例]` She rejected her family's materialistic lifestyle and chose to live a simple life devoted to community service. [C]
 
 ## 复习记录
 

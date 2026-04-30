@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**男性主导的，男性占优势的**==；
+**adj.** ①==**男性主导的，男性占优势的**== `adj N` [社会/学术]；
 
 > [!tip] 原型义
 > **原型义**：男性占主导地位的（领域/行业）
@@ -117,7 +117,8 @@ male（男性）+ dominat(e)（支配）+ -ed（形容词后缀，表状态）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Women remain underrepresented in male-dominated fields such as engineering and computer science."（女性在工程和计算机科学等男性主导的领域中仍然代表性不足）
+> - `` `[例]` Women remain underrepresented in male-dominated fields such as engineering and computer science.`` [C]
+> - `` `[例]` Venture capital has long been a notoriously male-dominated industry, with women receiving only a small fraction of funding.`` [C]
 
 ## 复习记录
 

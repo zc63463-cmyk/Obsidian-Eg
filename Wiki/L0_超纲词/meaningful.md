@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有意义的，意味深长的**==；②有目的的，有价值的；
+**adj.** ①==**有意义的，意味深长的**== `adj N` [正面]；②==**有目的的，有价值的**== `adj N` [正面]；
 
 > [!tip] 原型义
 > **原型义**：有意义的（含有意义的）
@@ -124,7 +124,8 @@ mean（意味）+ -ing（动名词后缀）+ -ful（充满……的）→ 充满
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many people seek meaningful work that allows them to contribute to society and find personal fulfillment."（许多人寻求有意义的工作，使他们能为社会做出贡献并获得个人满足感）
+> - `[例]` Many people seek meaningful work that allows them to contribute to society and find personal fulfillment. [C]
+> - `[例]` The two leaders exchanged a meaningful glance before announcing the joint decision to the press. [C]
 
 ## 复习记录
 

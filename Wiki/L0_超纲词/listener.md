@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**倾听者，听众**==；②（广播、节目的）收听者；
+**n.** ①==**倾听者，听众**== `adj N` [通用]；`N prep N` [通用]；②（广播、节目的）收听者 `N N` [媒体]；
 
 > [!tip] 原型义
 > **原型义**：倾听的人（listen + -er → 执行"听"这个动作的人）
@@ -126,8 +126,8 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A good listener is not only popular everywhere, but after a while he knows something."（一个好的倾听者不仅到处受欢迎，而且过一段时间后他会学到东西——Mark Twain）
-> - "The radio station has millions of listeners across the country."（这家广播电台在全国拥有数百万听众——媒体语料）
+> - `` `[例]` `` "A good listener is not only popular everywhere, but after a while he knows something."
+> - `` `[例]` `` "The radio station has millions of listeners across the country."
 
 ## 复习记录
 

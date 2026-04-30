@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**本土出生的，土生土长的**==；
+**adj.** ①==**本土出生的，土生土长的**== `adj N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：本土出生的（在某个国家或地方出生的）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Only native-born citizens are eligible for the presidency."（只有本土出生的公民才有资格担任总统。）
-> - "The native-born population has been declining in recent years."（近年来本土出生的人口一直在下降。）
+> - `[例]` Only native-born citizens are eligible for the presidency under the current constitution. [C]
+> - `[例]` The native-born population has been declining in recent years due to falling birth rates. [C]
 
 ## 复习记录
 

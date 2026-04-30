@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**气象的，气象学的**==；
+**adj.** ①==**气象的，气象学的**== `adj N` [学术]；`N of N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：与大气和天气现象有关的
@@ -123,7 +123,8 @@ meteor(大气现象/流星，希腊语 *meteōron* 高空中的东西) + -ologic
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Meteorological data indicates that global temperatures are rising at an unprecedented rate."（气象数据显示全球气温正以前所未有的速度上升——常见环保/科学表达）
+> - `[例]` Meteorological data indicates that global temperatures are rising at an unprecedented rate.
+> - `[例]` The national meteorological office issued a severe weather warning for the coastal region.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**贫困的，生活困难的**==；②需要情感支持的，依赖他人的；
+**adj.** ①==**贫困的，生活困难的**== `the needy` `be adj` [中性/同情]；②==**需要情感支持的，依赖他人的**== `emotionally needy` `be adj` [贬义/口语]；
 
 > [!tip] 原型义
 > **原型义**：需要帮助的（缺乏基本生活必需品的）
@@ -128,8 +128,8 @@ need（需要）+ -y（形容词后缀，充满……的/有……特征的）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The charity provides food and shelter for the needy."（该慈善机构为贫困者提供食物和住所。）
-> - "She was emotionally needy and constantly sought validation from others."（她在情感上很依赖，不断从他人那里寻求认同。）
+> - `` `[例]` `` The charity provides food and shelter for the needy. [C]
+> - `` `[例]` `` She was emotionally needy and constantly sought validation from others. [C]
 
 ## 复习记录
 

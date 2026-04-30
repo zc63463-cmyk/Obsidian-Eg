@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**低水平的，低级别的**==；②（计算机）低级的；③（辐射等）低剂量的；
+**adj.** ①==**低水平的，低级别的**== `adj N` [通用]；②==**（计算机）低级的**== `adj N` [计算机]；③==**（辐射等）低剂量的**== `adj N` [科学]；
 
 > [!tip] 原型义
 > **原型义**：层次低的（low + level → 在层级结构中处于较低位置）
@@ -128,8 +128,8 @@ low（低的）+ level（水平，层次）→ **低水平的，低级别的**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Low-level languages like assembly provide direct control over hardware but are difficult to program and maintain."（像汇编这样的低级语言提供了对硬件的直接控制，但编程和维护困难——计算机科学语料）
-> - "The investigation found that low-level employees were not informed of the company's financial difficulties."（调查发现基层员工并未被告知公司的财务困难——商业新闻语料）
+> - `` `[例]` Low-level languages like assembly provide direct control over hardware but are difficult to program and maintain.`` [C]
+> - `` `[例]` The investigation found that low-level employees were not informed of the company's financial difficulties.`` [C]
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**药物，药剂**==；②药物治疗；
+**n.** ①==**药物，药剂**== `take N` `prescribe N` [正式/医疗]；②==**药物治疗**== `be on N` `N for N` [正式/医疗]；
 
 > [!tip] 原型义
 > **原型义**：药物（用于治疗疾病的药物）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Patients should not discontinue their medication without consulting their doctor first."（患者在未先咨询医生的情况下不应停止服药）
+> - `` `[例]` `` Patients should not discontinue their medication without consulting their doctor first. [C]
+> - `` `[例]` `` The doctor prescribed a new medication to help manage her chronic anxiety symptoms. [C]
 
 ## 复习记录
 

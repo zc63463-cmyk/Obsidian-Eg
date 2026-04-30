@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使边缘化，使处于次要地位**==；②排斥，忽视；
+**v.** ①==**使边缘化，使处于次要地位**== `V N` [社会/学术]；②==**排斥，忽视**== `V N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：推到边缘（使某人/某群体处于社会边缘地位）
@@ -124,7 +124,8 @@ margin（边缘）+ -al（形容词后缀）+ -ize（动词后缀，使……化
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Women and ethnic minorities have long been marginalized in the political process."（女性和少数族裔在政治进程中长期以来一直被边缘化）
+> - `` `[例]` Women and ethnic minorities have long been marginalized in the political process.`` [C]
+> - `` `[例]` Discriminatory hiring practices can serve to marginalize minority job applicants and limit their career opportunities.`` [C]
 
 ## 复习记录
 

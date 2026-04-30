@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**全国性的，全国范围的**==；
-**adv.** ①在全国范围内；
+**adj.** ①==**全国性的，全国范围的**== `adj N` [通用]；
+**adv.** ①==**在全国范围内**== `V adv` [通用]；
 
 > [!tip] 原型义
 > **原型义**：全国范围的（覆盖整个国家的）
@@ -127,8 +127,8 @@ nation（国家）+ -wide（后缀，表示"……范围的"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A nationwide survey found that 60% of adults support the policy."（一项全国性调查发现60%的成年人支持该政策。）
-> - "The product is available nationwide."（该产品在全国范围内有售。）
+> - `[例]` A nationwide survey found that 60% of adults support the policy. [C]
+> - `[例]` The product is available nationwide through major retail chains and online platforms. [C]
 
 ## 复习记录
 

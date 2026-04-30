@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**最小的，最低限度的**==；②极简的；
+**adj.** ①==**最小的，最低限度的**== `adj N` [通用]；②极简的 `adj N` [设计]；
 
 > [!tip] 原型义
 > **原型义**：最小的，最低限度的
@@ -127,7 +127,8 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The surgery was successful with minimal risk to the patient."（手术成功，对患者风险极低——常见医学/科技表达）
+> - `[例]` The surgery was successful with minimal risk to the patient. [C]
+> - `[例]` The new software update was designed to have a minimal impact on system performance. [C]
 
 ## 复习记录
 

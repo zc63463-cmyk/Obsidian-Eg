@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**干涉，干预**==；②多管闲事，瞎掺和；
+**v.** ①==**干涉，干预**== `V prep N` `V in N` [贬义]；②==**多管闲事，瞎掺和**== `V in N` `stop V-ing` [贬义/口语]；
 
 > [!tip] 原型义
 > **原型义**：干涉（不请自来地插手别人的事务）
@@ -123,7 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government was accused of meddling in the affairs of neighboring countries."（政府被指控干涉邻国事务）
+> - `` `[例]` `` The government was accused of meddling in the affairs of neighboring countries. [C]
+> - `` `[例]` `` Parents should encourage their children's independence rather than meddling in every decision they make. [C]
 
 ## 复习记录
 

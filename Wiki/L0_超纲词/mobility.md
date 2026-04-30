@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**流动性，移动性**==；②（社会）阶层流动；③（身体）活动能力；
+**n.** ①==**流动性，移动性**== `N` `adj N` [学术]；②==**（社会）阶层流动**== `social/upward N` [学术]；③==**（身体）活动能力**== `physical N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：移动的能力
@@ -128,7 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Education has long been seen as a pathway to upward social mobility."（教育长期以来被视为向上社会流动的途径——常见社会/教育表达）
+> - `[例]` Education has long been seen as a pathway to upward social mobility. [C]
+> - `[例]` The rise of remote work has significantly increased labor mobility across regions. [C]
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**玩忽职守，失职**==；②医疗事故，不法行为；
+**n.** ①==**玩忽职守，失职**== `N` [法律]；②==**医疗事故，不法行为**== `N` [医学/法律]；
 
 > [!tip] 原型义
 > **原型义**：不良的执业行为（专业人员违反职业操守的行为）
@@ -119,7 +119,8 @@ mal-（坏，不良）+ [[pract-prag|pract]]（实践，执业）+ -ice（名词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The doctor was sued for malpractice after the patient suffered complications from the surgery."（患者在手术后出现并发症，医生被起诉医疗事故）
+> - `` `[例]` The doctor was sued for malpractice after the patient suffered complications from the surgery.`` [C]
+> - `` `[例]` The hospital carries malpractice insurance to protect its physicians against potential lawsuits.`` [C]
 
 ## 复习记录
 

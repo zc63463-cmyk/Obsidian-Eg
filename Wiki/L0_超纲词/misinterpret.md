@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**误解，曲解**==；
+**v.** ①==**误解，曲解**== `V N` `be V-ed by N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：错误地解释或理解
@@ -123,7 +123,8 @@ mis-(错误) + [[inter|inter]]-(在……之间) + [[pret|pract-prag]](传递/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The survey results were widely misinterpreted by the media."（调查结果被媒体广泛曲解——常见学术/新闻表达）
+> - `[例]` The survey results were widely misinterpreted by the media. [C]
+> - `[例]` His silence was misinterpreted as a lack of interest in the project. [C]
 
 ## 复习记录
 

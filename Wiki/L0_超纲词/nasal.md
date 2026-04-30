@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**鼻的，鼻音的**==；②（声音）带鼻音的；
-**n.** ①鼻音；②鼻骨；
+**adj.** ①==**鼻的，鼻音的**== `adj N` [通用]；②==**（声音）带鼻音的**== `adj N` [通用]；
+**n.** ①==**鼻音**== `the N` [语言学]；②==**鼻骨**== `the N` [医学]；
 
 > [!tip] 原型义
 > **原型义**：鼻子的（与鼻子相关的）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He spoke with a nasal twang."（他说话带着鼻音。）
-> - "The nasal cavity is connected to the throat."（鼻腔与咽喉相连。）
+> - `[例]` He spoke with a nasal twang that was characteristic of his rural upbringing. [C]
+> - `[例]` The nasal cavity is connected to the throat and plays a crucial role in breathing and speech. [C]
 
 ## 复习记录
 

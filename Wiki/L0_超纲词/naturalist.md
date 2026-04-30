@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自然主义者，博物学家**==；②自然主义作家/哲学家；
+**n.** ①==**自然主义者，博物学家**== `a N` [通用]；②==**自然主义作家/哲学家**== `adj N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：研究自然的人（观察和研究自然界的专家）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Darwin was a naturalist who traveled the world studying plants and animals."（达尔文是一位博物学家，他环游世界研究动植物。）
-> - "The naturalist spent years documenting the behavior of gorillas in the wild."（这位博物学家花了数年时间记录野生大猩猩的行为。）
+> - `[例]` Darwin was a naturalist who traveled the world studying plants and animals. [C]
+> - `[例]` The naturalist spent years documenting the behavior of gorillas in the wild before publishing her findings. [C]
 
 ## 复习记录
 

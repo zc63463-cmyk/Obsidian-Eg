@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**形而上学的，玄学的**==；②超自然的，玄妙的；③哲学的（关于存在本质的）；
+**adj.** ①==**形而上学的，玄学的**== `N that-clause` [学术]；②==**超自然的，玄妙的**== `N of N` [文学]；③==**哲学的（关于存在本质的）**== `adj N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：超越物理层面的、形而上的
@@ -124,7 +124,8 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The nature of consciousness remains one of the great metaphysical questions."（意识的本质仍然是伟大的形而上学问题之一——常见哲学/科学表达）
+> - `[例]` The nature of consciousness remains one of the great metaphysical questions.
+> - `[例]` She explored metaphysical themes of life and death in her latest novel.
 
 ## 复习记录
 

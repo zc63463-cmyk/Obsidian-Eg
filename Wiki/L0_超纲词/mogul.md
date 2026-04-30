@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大亨，巨头**==；②莫卧儿人（历史）；
+**n.** ①==**大亨，巨头**== `a/adj N` [通用]；②==**莫卧儿人（历史）**== `the Mogul Empire` [学术]；
 
 > [!tip] 原型义
 > **原型义**：在某领域拥有巨大权力和影响力的人
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The tech mogul announced plans to invest billions in renewable energy."（这位科技巨头宣布计划在可再生能源领域投资数十亿美元——常见商业/新闻表达）
+> - `[例]` The tech mogul announced plans to invest billions in renewable energy. [C]
+> - `[例]` She built a media empire and became one of the most influential moguls in the entertainment industry. [C]
 
 ## 复习记录
 

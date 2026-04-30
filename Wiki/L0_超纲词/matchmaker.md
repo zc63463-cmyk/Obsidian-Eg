@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**媒人，红娘**==；②撮合者，中间人；
+**n.** ①==**媒人，红娘**== `N` [中性]；②==**撮合者，中间人**== `N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：撮合者（使双方匹配的人）
@@ -119,7 +119,8 @@ match（匹配）+ maker（制造者）→ 使人匹配的人
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "In many cultures, families still rely on matchmakers to arrange suitable marriages for their children."（在许多文化中，家庭仍然依赖媒人为子女安排合适的婚姻）
+> - `[例]` In many cultures, families still rely on matchmakers to arrange suitable marriages for their children. [C]
+> - `[例]` The diplomat acted as a matchmaker between the two rival factions, brokering a fragile peace agreement. [C]
 
 ## 复习记录
 

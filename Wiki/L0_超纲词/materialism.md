@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**唯物主义，物质主义**==；②实利主义，拜金主义；
+**n.** ①==**唯物主义，物质主义**== `N` [正式/哲学]；②==**实利主义，拜金主义**== `N` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：唯物主义（认为物质是第一性的哲学观点）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The rise of consumer materialism has led many people to equate happiness with the accumulation of possessions."（消费物质主义的兴起使许多人将幸福等同于财富的积累）
+> - `[例]` The rise of consumer materialism has led many people to equate happiness with the accumulation of possessions. [C]
+> - `[例]` Karl Marx developed his theory of historical materialism to explain how economic forces shape social change. [C]
 
 ## 复习记录
 

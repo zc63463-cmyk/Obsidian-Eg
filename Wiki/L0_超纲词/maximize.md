@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使最大化，把……增加到最大限度**==；②充分利用；
+**v.** ①==**使最大化，把……增加到最大限度**== `V N` [正面]；②==**充分利用**== `V N` [正面]；
 
 > [!tip] 原型义
 > **原型义**：使最大化（把……增加到最大程度）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Companies seek to maximize profits while minimizing costs in an increasingly competitive global market."（公司在日益竞争激烈的全球市场中寻求利润最大化、成本最小化）
+> - `[例]` Companies seek to maximize profits while minimizing costs in an increasingly competitive global market. [C]
+> - `[例]` The new software update is designed to maximize battery life without compromising device performance. [C]
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**平庸，平凡**==；②平庸的人/事物；
+**n.** ①==**平庸，平凡**== `the N of N` `wallow in N` [贬义]；②==**平庸的人/事物**== `a N` `adj N` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：平庸（处于中等水平、不够出色的状态）
@@ -121,7 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company's reluctance to innovate has led to a culture of mediocrity that threatens its long-term survival."（公司不愿创新导致了一种平庸文化，威胁到其长期生存）
+> - `` `[例]` `` The company's reluctance to innovate has led to a culture of mediocrity that threatens its long-term survival. [C]
+> - `` `[例]` `` She refused to accept mediocrity and pushed herself to achieve excellence in every project she undertook. [C]
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谦虚，谦逊**==；②端庄，朴实；
+**n.** ①==**谦虚，谦逊**== `N` `with N` [通用]；②==**端庄，朴实**== `N in N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：不夸耀自己的品质或成就
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Despite her extraordinary achievements, she always spoke with characteristic modesty."（尽管她成就非凡，但她总是以特有的谦逊说话——常见传记/文学表达）
+> - `[例]` Despite her extraordinary achievements, she always spoke with characteristic modesty. [C]
+> - `[例]` He accepted the award with modesty, thanking everyone who had supported him along the way. [C]
 
 ## 复习记录
 

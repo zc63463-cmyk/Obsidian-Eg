@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**无板篮球**==（一种主要由女性参与的团队球类运动，类似篮球但没有篮板）；
+**n.** ①==**无板篮球**== `play netball` `V N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：网球的球类运动（投球入网的运动）
@@ -120,8 +120,8 @@ net（网）+ ball（球）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Netball is one of the most popular team sports among women in Australia and New Zealand."（无板篮球是澳大利亚和新西兰女性中最受欢迎的团队运动之一。）
-> - "She has been playing netball since she was ten."（她从十岁起就开始打无板篮球了。）
+> - `` `[例]` `` Netball is one of the most popular team sports among women in Australia and New Zealand. [C]
+> - `` `[例]` `` She has been playing netball since she was ten. [C]
 
 ## 复习记录
 

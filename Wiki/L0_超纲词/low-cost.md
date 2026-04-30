@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**低成本的，廉价的**==；②花费少的；
+**adj.** ①==**低成本的，廉价的**== `adj N` [商业]；`adj N` [通用]；②花费少的 `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：成本低的（low + cost → 花费低的）
@@ -126,8 +126,8 @@ low（低的）+ cost（成本）→ **低成本的**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The rise of low-cost airlines has democratized air travel, making it accessible to millions of people who could not previously afford to fly."（低成本航空公司的兴起使航空旅行民主化，让数百万以前无法负担飞行费用的人得以出行——经济语料）
-> - "Many developing countries are investing in low-cost renewable energy solutions."（许多发展中国家正在投资低成本的可再生能源解决方案——环保语料）
+> - `` `[例]` `` "The rise of low-cost airlines has democratized air travel, making it accessible to millions of people who could not previously afford to fly."
+> - `` `[例]` `` "Many developing countries are investing in low-cost renewable energy solutions."
 
 ## 复习记录
 

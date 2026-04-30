@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**神经学，神经病学**==；
+**n.** ①==**神经学，神经病学**== `department of neurology` `N` [医学/正式]；
 
 > [!tip] 原型义
 > **原型义**：神经学（研究神经系统的医学分支）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She decided to specialize in neurology after witnessing her grandfather's battle with Alzheimer's disease."（在目睹了祖父与阿尔茨海默病的斗争后，她决定专攻神经学。）
-> - "Advances in neurology have improved our understanding of brain disorders."（神经学的进步加深了我们对脑部疾病的理解。）
+> - `` `[例]` `` She decided to specialize in neurology after witnessing her grandfather's battle with Alzheimer's disease. [C]
+> - `` `[例]` `` Advances in neurology have improved our understanding of brain disorders. [C]
 
 ## 复习记录
 

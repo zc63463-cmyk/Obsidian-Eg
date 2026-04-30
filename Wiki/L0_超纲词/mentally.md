@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**精神上地，心理上地**==；②智力上地；③在脑海中；
+**adv.** ①==**精神上地，心理上地**== `adv adj` `adv prepared` [中性]；②==**智力上地**== `adv adj` `adv disabled` [中性]；③==**在脑海中**== `adv V` `adv calculate` [中性]；
 
 > [!tip] 原型义
 > **原型义**：在心智/精神层面
@@ -126,7 +126,8 @@ ment(心智，拉丁语 *mens*, *mentis*) + -al(形容词后缀) + -ly(副词后
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was mentally prepared for the worst."（她心理上已为最坏的情况做好了准备——常见表达）
+> - `` `[例]` `` She was mentally prepared for the worst. [C]
+> - `` `[例]` `` The chess player was able to mentally calculate several moves ahead of his opponent. [C]
 
 ## 复习记录
 

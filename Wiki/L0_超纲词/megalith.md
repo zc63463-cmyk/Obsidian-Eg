@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**巨石，巨石碑**==；②史前巨石建筑；
+**n.** ①==**巨石，巨石碑**== `adj N` `standing Ns` [学术/考古]；②==**史前巨石建筑**== `adj N` `adj structure` [学术/考古]；
 
 > [!tip] 原型义
 > **原型义**：巨石（巨大的石头，通常指史前时代的巨石建筑）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Stonehenge, one of the most famous megalithic structures in the world, continues to fascinate archaeologists and visitors alike."（巨石阵是世界上最著名的巨石建筑之一，至今仍令考古学家和游客着迷）
+> - `` `[例]` `` Stonehenge, one of the most famous megalithic structures in the world, continues to fascinate archaeologists and visitors alike. [C]
+> - `` `[例]` `` Ancient civilizations across Europe and Asia erected megaliths for both religious ceremonies and astronomical observations. [C]
 
 ## 复习记录
 

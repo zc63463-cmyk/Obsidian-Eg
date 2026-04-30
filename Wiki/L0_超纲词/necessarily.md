@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**必然地，不可避免地**==；②必要地；
+**adv.** ①==**必然地，不可避免地**== `not necessarily` `adv V` [逻辑/正式]；②==**必要地**== `necessarily V` `adv V` [逻辑/正式]；
 
 > [!tip] 原型义
 > **原型义**：必然地（不可避免地）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A larger vocabulary does not necessarily mean better communication."（词汇量更大不一定意味着更好的沟通。）
-> - "Higher education is not necessarily a guarantee of success."（高等教育不一定能保证成功。）
+> - `` `[例]` `` A larger vocabulary does not necessarily mean better communication. [C]
+> - `` `[例]` `` Higher education is not necessarily a guarantee of success. [C]
 
 ## 复习记录
 

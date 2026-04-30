@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阁楼，顶楼**==；②（教堂等的）楼厢；③（高尔夫等）击高球；
-**v.** ①==**将（球）击高**==；②（鸽子等）高飞，翱翔；
+**n.** ①==**阁楼，顶楼**== `N N` [建筑]；`V N` [建筑]；②（教堂等的）楼厢 `N N` [建筑]；③（高尔夫等）击高球 `V N` [体育]；
+**v.** ①==**将（球）击高**== `V N prep N` [体育]；`V N` [体育]；②（鸽子等）高飞，翱翔 `V adv` [通用]；
 
 > [!tip] 原型义
 > **原型义**：高处的空间（来自古英语 *loft* = 空气、天空、高处）
@@ -130,8 +130,8 @@ loft（来自古英语/古诺斯语，空气、天空→高处）→ **阁楼，
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She converted an old warehouse into a spacious loft apartment with exposed brick walls."（她将一座旧仓库改造成了一个宽敞的阁楼公寓，保留了裸露的砖墙——建筑语料）
-> - "He lofted the ball over the defender's head and into the goal."（他将球高高挑过防守队员的头顶射入球门——体育语料）
+> - `` `[例]` `` "She converted an old warehouse into a spacious loft apartment with exposed brick walls."
+> - `` `[例]` `` "He lofted the ball over the defender's head and into the goal."
 
 ## 复习记录
 

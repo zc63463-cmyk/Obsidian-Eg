@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**死亡数，死亡率**==；②必死性，终有一死；③人类（总称）；
+**n.** ①==**死亡数，死亡率**== `N rate` [医学]；②==**必死性，终有一死**== `face one's N` [文学]；③==**人类（总称）**== `adj N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：必死的命运，死亡状态
@@ -128,7 +128,8 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Advances in medicine have significantly reduced infant mortality rates worldwide."（医学的进步显著降低了全球婴儿死亡率——常见医学/社会表达）
+> - `[例]` Advances in medicine have significantly reduced infant mortality rates worldwide. [C]
+> - `[例]` The philosopher wrote extensively about human mortality and the meaning of a finite existence. [C]
 
 ## 复习记录
 

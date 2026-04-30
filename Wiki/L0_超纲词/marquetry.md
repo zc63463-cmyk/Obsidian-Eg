@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**镶嵌细工，镶木工艺**==；
+**n.** ①==**镶嵌细工，镶木工艺**== `N` [工艺/艺术]；
 
 > [!tip] 原型义
 > **原型义**：镶嵌细工（用不同颜色的木材或材料拼成装饰图案的工艺）
@@ -116,7 +116,8 @@ marqu(e)t（标记/图案，源自 mark）+ -ry（名词后缀，表示技艺/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The antique desk was adorned with exquisite marquetry depicting scenes of the countryside."（这张古董书桌上装饰着精美的乡村风景镶嵌细工）
+> - `` `[例]` The antique desk was adorned with exquisite marquetry depicting scenes of the countryside.`` [C]
+> - `` `[例]` The desk is covered with intricate marquetry made from a wide variety of fine woods.`` [C]
 
 ## 复习记录
 

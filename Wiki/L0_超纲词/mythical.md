@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**神话的，神话般的**==；②虚构的，不存在的；③传说中的；
+**adj.** ①==**神话的，神话般的**== `adj N` [通用]；②==**虚构的，不存在的**== `adj N` [通用]；③==**传说中的**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：存在于神话中的
@@ -130,7 +130,8 @@ myth(神话，希腊语 *mythos*) + -ical(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The unicorn remains one of the most beloved mythical creatures in Western culture."（独角兽仍然是西方文化中最受喜爱的神话生物之一——常见文化表达）
+> - `[例]` The unicorn remains one of the most beloved mythical creatures in Western culture. [C]
+> - `[例]` The city of Atlantis continues to capture the imagination of people as a mythical civilization lost beneath the waves. [C]
 
 ## 复习记录
 

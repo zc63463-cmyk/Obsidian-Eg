@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**新闻纸**==（用于印刷报纸的廉价纸张）；
+**n.** ①==**新闻纸**== `newsprint paper` `N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：新闻纸（用于印刷报纸的廉价纸张）
@@ -120,8 +120,8 @@ news（新闻）+ print（印刷）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The novel was published on cheap newsprint."（这部小说是用廉价新闻纸印刷的。）
-> - "The artist used old newsprint as a canvas for her collages."（这位艺术家用旧报纸作为拼贴画的画布。）
+> - `` `[例]` `` The novel was published on cheap newsprint. [C]
+> - `` `[例]` `` The artist used old newsprint as a canvas for her collages. [C]
 
 ## 复习记录
 
