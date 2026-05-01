@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**儿科学，小儿科**==；②儿科医学（作为学科领域）；
+**n.** ①==**儿科学，小儿科**== `Department of N` `a career in N` [学术]；②==**儿科医学（作为学科领域）**== `advances in N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：医治儿童的学问（希腊语 *paid-* "儿童" + *iatreia* "医治"）
@@ -123,8 +123,8 @@ paed-(=ped-, 儿童，希腊语 *pais*, *paidos*) + -iatr-(医治，希腊语 *i
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She specialised in paediatrics at the university hospital."（她在大学医院专攻儿科学。）
-> - "Recent advances in paediatrics have significantly reduced infant mortality rates."（儿科学的最新进展显著降低了婴儿死亡率。）
+> - `[例]` She specialised in paediatrics at the university hospital.
+> - `[例]` Recent advances in paediatrics have significantly reduced infant mortality rates.
 
 ## 复习记录
 

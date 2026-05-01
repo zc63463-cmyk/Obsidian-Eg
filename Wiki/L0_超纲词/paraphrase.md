@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**释义，改述**==（用不同词语表达相同意思）；②==**意译**==（翻译中不逐字直译而传达含义）；
-**n.** ①==**释义，改述**==；②意译的译文；
+**v.** ①==**释义，改述**== `V N` `V N in N` [学术]；②==**意译**== `V N rather than V` [学术]；
+**n.** ①==**释义，改述**== `a paraphrase of N` [学术]；②==**意译的译文**== `a paraphrase of N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：换一种方式表达（希腊语 *para-* "旁边/附加" + *phrazein* "说出/表达"）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "To paraphrase Shakespeare, all that glisters is not gold."（借用莎士比亚的话来说，闪光的不都是金子。）
-> - "Students were asked to paraphrase the poem in modern English."（学生们被要求用现代英语改述这首诗。）
+> - `[例]` To paraphrase Shakespeare, all that glisters is not gold.
+> - `[例]` Students were asked to paraphrase the poem in modern English.
 
 ## 复习记录
 

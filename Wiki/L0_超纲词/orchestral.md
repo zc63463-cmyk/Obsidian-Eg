@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**管弦乐的，管弦乐队的**==；
+**adj.** ①==**管弦乐的，管弦乐队的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：管弦乐的（与管弦乐队相关的）
@@ -120,7 +120,9 @@ orchestra(管弦乐队) + -al(=……的，形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - orchestral 常出现在音乐、艺术和文化类文章中。
+> - `[例]` The orchestra delivered a stunning orchestral performance of Beethoven's Ninth Symphony.
+> - `[例]` The composer created an orchestral arrangement of several popular folk songs for the festival.
+> - `[例]` The concert hall was specifically designed to enhance the acoustics of orchestral music.
 
 ## 复习记录
 

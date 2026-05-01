@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不墨守成规的人，不随大流的人**==；②（宗教）不信奉国教者；
-**adj.** ①不墨守成规的，不随大流的；
+**n.** ①==**不墨守成规的人，不随大流的人**== `a nonconformist` [中性]；②==**（宗教）不信奉国教者**== `the Nonconformists` [正式]；
+**adj.** ①==**不墨守成规的，不随大流的**== `N attitude/approach` [中性]；
 
 > [!tip] 原型义
 > **原型义**：不遵从常规的人（不随大流的人）
@@ -127,8 +127,8 @@ non-(不，否定前缀) + [[form]](=form-, 形状/形式) + -ist(人，……�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "As a nonconformist, she refused to follow the conventional career path."（作为一个不墨守成规的人，她拒绝走传统的职业道路。）
-> - "The artist was known as a nonconformist who challenged artistic conventions."（这位艺术家以挑战艺术常规的不墨守成规者而闻名。）
+> - `[例]` As a nonconformist, she refused to follow the conventional career path.
+> - `[例]` The artist was known as a nonconformist who challenged artistic conventions.
 
 ## 复习记录
 

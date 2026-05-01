@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**概述，概观**==；②==**总体看法，全景**==；
+**n.** ①==**概述，概观**== `an overview of N` [学术]；②==**总体看法，全景**== `V an overview` `a comprehensive overview of N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：从上面看（从高处俯瞰全景）
@@ -123,7 +123,8 @@ over-(在上面) + [[vis-vid|view]](=view, 看)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "This chapter provides an overview of the research methods used in the study."（本章概述了该研究使用的研究方法。）
+> - `[例]` This chapter provides an overview of the research methods used in the study.
+> - `[例]` The report gives a comprehensive overview of the current economic situation.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**外地的，来自外地的**==；②==**出城的，不在城里的**==；
+**adj.** ①==**外地的，来自外地的**== `adj N` [中性]；②==**出城的，不在城里的**== `adj N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：城外的（在城镇之外的）
@@ -121,7 +121,8 @@ out [[ob|of]](在……之外) + town(城镇)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - out-of-town 常用于日常和商业语境中。
+> - `[例]` The conference attracted a large number of out-of-town visitors this year.
+> - `[例]` She took an out-of-town trip to visit her grandparents last weekend.
 
 ## 复习记录
 

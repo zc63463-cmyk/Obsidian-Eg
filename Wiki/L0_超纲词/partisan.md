@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**党派支持者，盲目拥护者**==；②游击队员；
-**adj.** ①==**党派的，偏袒的**==；②有偏见的；
+**n.** ①==**党派支持者，盲目拥护者**== `a partisan of N` [政治]；②==**游击队员**== `N` [军事]；
+**adj.** ①==**党派的，偏袒的**== `adj N` [政治]；②==**有偏见的**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：偏袒某一部分的人
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The partisan divide in Congress has made it difficult to pass legislation.（国会中的党派分歧使得通过立法变得困难）
-> - Journalists should strive to be nonpartisan in their reporting.（记者在报道中应力求无党派偏见）
+> - `[例]` The partisan divide in Congress has made it difficult to pass legislation.
+> - `[例]` Journalists should strive to be nonpartisan in their reporting.
 
 ## 复习记录
 

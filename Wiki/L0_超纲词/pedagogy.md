@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**教学法，教育学**==；②教师职业；
+**n.** ①==**教学法，教育学**== `N` [学术/中性] `adj N` [学术/中性]；②==**教师职业**== `N` [正式/中性]；
 
 > [!tip] 原型义
 > **原型义**：教导儿童的方法与理论
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The university offers courses in pedagogy for aspiring teachers.（该大学为有志成为教师的人提供教育学课程）
-> - Modern pedagogy emphasizes student-centered learning over rote memorization.（现代教学法强调以学生为中心的学习，而非死记硬背）
+> - `[例]` The university offers courses in pedagogy for aspiring teachers.
+> - `[例]` Modern pedagogy emphasizes student-centered learning over rote memorization.
 
 ## 复习记录
 

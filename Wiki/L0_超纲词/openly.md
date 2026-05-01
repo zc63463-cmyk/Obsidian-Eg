@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**公开地，坦率地**==；②不掩饰地；
+**adv.** ①==**公开地，坦率地**== `adv V` `adv that-clause`；②不掩饰地 `adv V`；
 
 > [!tip] 原型义
 > **原型义**：公开地（像打开门一样地）
@@ -123,7 +123,9 @@ open(打开/公开) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He openly admitted that the policy had failed."（他公开承认这项政策已经失败。）
+> - `[例]` He openly admitted that the policy had failed.
+> - `[例]` The committee openly discussed the controversial issue during the public hearing.
+> - `[例]` She openly criticized the government for its handling of the economic crisis.
 
 ## 复习记录
 

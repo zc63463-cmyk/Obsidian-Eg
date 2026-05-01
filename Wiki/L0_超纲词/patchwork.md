@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**拼缝物，拼布**==；②拼凑而成的事物；
-**adj.** ①==**拼凑的，东拼西凑的**==；
+**n.** ①==**拼缝物，拼布**== `a N` [通用]；②==**拼凑而成的事物**== `a N of N` [通用]；
+**adj.** ①==**拼凑的，东拼西凑的**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：用碎布拼接而成的被褥
@@ -128,8 +128,8 @@ patch（补丁/碎片）+ work（工作/作品）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The country's tax system is a patchwork of outdated regulations.（该国的税收制度是过时法规的东拼西凑）
-> - Her grandmother made a beautiful patchwork quilt from scraps of old fabric.（她的祖母用旧布料碎片做了一条美丽的拼布被子）
+> - `[例]` The country's tax system is a patchwork of outdated regulations.
+> - `[例]` Her grandmother made a beautiful patchwork quilt from scraps of old fabric.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**观察者，观察员**==；②==**评论者，旁观者**==；
+**n.** ①==**观察者，观察员**== `an independent observer` `N observers` [正式]；②==**评论者，旁观者**== `a casual/political observer` [正式]；
 
 > [!tip] 原型义
 > **原型义**：注视者（朝向某处注视的人）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - observer 常用于新闻和政治语境中，如 "Political observers noted that..."（政治评论员注意到……）
+> - `[例]` "Political observers noted that the prime minister's speech signalled a shift in policy direction."
+> - `[例]` "United Nations observers were deployed to monitor the ceasefire agreement in the region."
 
 ## 复习记录
 

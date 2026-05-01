@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有害的，恶性的**==（强调危害是逐渐的、隐蔽的）；
+**adj.** ①==**有害的，恶性的**== `be adj to N` [正式]；`have a adj N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：有害的，且危害是逐渐的、不易察觉的
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The pernicious effects of air pollution on public health are well documented.（空气污染对公共健康的恶性影响已有充分记录）
-> - Social media can have a pernicious influence on teenagers' self-image.（社交媒体可能对青少年的自我形象产生有害影响）
+> - `[例]` The pernicious effects of air pollution on public health are well documented.
+> - `[例]` Social media can have a pernicious influence on teenagers' self-image.
 
 ## 复习记录
 

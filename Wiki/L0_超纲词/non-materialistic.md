@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不重物质的，非物质主义的**==（不以物质财富为追求目标的）；
+**adj.** ①==**不重物质的，非物质主义的**== `be non-materialistic` [中性] `N values/lifestyle` [中性]；
 
 > [!tip] 原型义
 > **原型义**：不重物质的（不以物质财富为追求目标的）
@@ -121,8 +121,8 @@ non-(不，否定前缀) + material(物质) + -ist(人/主义) + -ic(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She leads a non-materialistic life, finding happiness in simple pleasures."（她过着不重物质的生活，在简单的快乐中找到幸福。）
-> - "Non-materialistic values such as compassion and integrity are increasingly valued in modern society."（同情心和正直等非物质主义的价值观在现代社会越来越受重视。）
+> - `[例]` She leads a non-materialistic life, finding happiness in simple pleasures.
+> - `[例]` Non-materialistic values such as compassion and integrity are increasingly valued in modern society.
 
 ## 复习记录
 

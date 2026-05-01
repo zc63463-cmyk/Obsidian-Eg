@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**过期的，迟到的**==；②==**早该发生的，期待已久的**==；
+**adj.** ①==**过期的，迟到的**== `be adj prep N` [中性]；②==**早该发生的，期待已久的**== `be adj` [正面]；
 
 > [!tip] 原型义
 > **原型义**：过了到期日的（在时间上超过了截止日期）
@@ -122,7 +122,8 @@ over-(超过) + due(到期/应付)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The reform is long overdue."（这项改革早该进行了。）
+> - `[例]` The reform is long overdue.
+> - `[例]` The library book is two weeks overdue.
 
 ## 复习记录
 

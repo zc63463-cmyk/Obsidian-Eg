@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**利基市场，专门领域**==；②壁龛（墙上凹进去的空间）；③（生态）生态位；
-**adj.** ①专门的，小众的；
+**n.** ①==**利基市场，专门领域**== `find/carve out a N` [中性] `N market` [中性]；②==**壁龛**== `in a N` [中性]；③==**（生态）生态位**== `ecological N` [学术]；
+**adj.** ①==**专门的，小众的**== `N audience/magazine` [中性]；
 
 > [!tip] 原型义
 > **原型义**：壁龛（墙上凹进去放东西的小空间）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company found a profitable niche in the organic food market."（这家公司在有机食品市场找到了一个有利可图的利基市场。）
-> - "Every species has its own ecological niche in the ecosystem."（每个物种在生态系统中都有自己的生态位。）
+> - `[例]` The company found a profitable niche in the organic food market.
+> - `[例]` Every species has its own ecological niche in the ecosystem.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使痴迷，使着迷**==；②==**使困扰，牵挂在心**==；
+**v.** ①==**使痴迷，使着迷**== `be obsessed with N` [日常]；②==**使困扰，牵挂在心**== `obsess over/about N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：困住（坐在某物上无法脱身）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was obsessed with the idea of perfection."（她痴迷于完美的理念。）
+> - `[例]` "She was obsessed with the idea of perfection."
+> - `[例]` "He tends to obsess over minor details that most people would simply overlook."
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**比……更重要，超过**==；②==**比……更重**==；
+**v.** ①==**比……更重要，超过**== `N1 outweigh N2` [中性]；②==**比……更重**== `N1 outweigh N2` [中性]；
 
 > [!tip] 原型义
 > **原型义**：在重量上超过（在秤上超出）
@@ -121,7 +121,8 @@ out-(超出) + weigh(称重/重量)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - outweigh 是考研写作高频词，常用于利弊分析类作文中。
+> - `[例]` The long-term benefits of the new policy far outweigh the initial costs of implementation.
+> - `[例]` In most cases, the advantages of studying abroad outweigh the disadvantages.
 
 ## 复习记录
 

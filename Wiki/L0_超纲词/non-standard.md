@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不标准的，非标准的**==（不符合常规或公认标准的）；
+**adj.** ①==**不标准的，非标准的**== `N English/behavior` [中性] `N approach` [中性]；
 
 > [!tip] 原型义
 > **原型义**：不标准的（不符合常规标准的）
@@ -122,8 +122,8 @@ non-(不，否定前缀) + [[st-sta-stat|stand]](=stand-, 站立/标准，拉丁
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Non-standard varieties of English are often stigmatized in formal settings."（非标准英语变体在正式场合常被歧视。）
-> - "The company adopted a non-standard approach to problem-solving."（公司采用了一种非标准的方法来解决问题。）
+> - `[例]` Non-standard varieties of English are often stigmatized in formal settings.
+> - `[例]` The company adopted a non-standard approach to problem-solving.
 
 ## 复习记录
 

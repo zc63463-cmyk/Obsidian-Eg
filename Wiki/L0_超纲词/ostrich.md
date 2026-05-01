@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**鸵鸟**==；②==**自欺欺人的人，回避现实的人**==（比喻义）；
+**n.** ①==**鸵鸟**== `adj N` [中性]；②==**自欺欺人的人，回避现实的人**== `an N` [负面/比喻]；
 
 > [!tip] 原型义
 > **原型义**：鸵鸟（非洲大型不会飞的鸟类）
@@ -120,7 +120,8 @@ ostrich(源自希腊语 *strouthion* "麻雀/鸟类" + 拉丁语 *avis* "鸟")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - ostrich 常以比喻义出现在政治评论和社会分析文章中。
+> - `[例]` He is a political ostrich who refuses to acknowledge the severity of the climate crisis.
+> - `[例]` The company adopted an ostrich approach to the growing cybersecurity threats.
 
 ## 复习记录
 

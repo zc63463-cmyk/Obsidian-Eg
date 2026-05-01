@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj./adv.** ①==**即兴的（地），即席的（地）**==；②未经准备的，随口说出的；
+**adj./adv.** ①==**即兴的（地），即席的（地）**== `adj N` [口语]；`adv V` [口语]；②==**未经准备的，随口说出的**== `adj N` [口语]；
 
 > [!tip] 原型义
 > **原型义**：即兴的（源自演讲者临时在袖口上写备忘笔记的做法）
@@ -123,7 +123,8 @@ off(脱离) + the + cuff(袖口)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - off-the-cuff 常用于新闻和口语化语境中，如 "The president made some off-the-cuff remarks to reporters."（总统向记者发表了一些即兴评论。）
+> - `[例]` The president made some off-the-cuff remarks to the reporters.
+> - `[例]` She spoke off the cuff and surprised everyone with her honesty.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**光顾，惠顾**==（作为顾客）；②赞助，资助；③==**以居高临下的态度对待**==；
+**v.** ①==**光顾，惠顾**== `V N` [商业/中性] `V prep N` [商业/中性]；②==**赞助，资助**== `V N` [正式/正面]；③==**以居高临下的态度对待**== `V N` [贬义] `be V-ed` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：以赞助人的身份支持
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She felt patronized when her boss explained the simplest tasks to her.（当老板向她解释最简单的任务时，她感到被居高临下地对待了）
-> - We patronize local businesses to support the community.（我们光顾本地商家以支持社区）
+> - `[例]` She felt patronized when her boss explained the simplest tasks to her.
+> - `[例]` We patronize local businesses to support the community.
 
 ## 复习记录
 

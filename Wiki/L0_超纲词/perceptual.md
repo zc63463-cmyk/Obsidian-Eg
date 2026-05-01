@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**感知的，知觉的**==（与感官感知相关的）；
+**adj.** ①==**感知的，知觉的**== `adj N` [学术/中性] `adj N N` [学术/中性]；
 
 > [!tip] 原型义
 > **原型义**：与感知过程相关的
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Infants develop perceptual abilities rapidly during the first year of life.（婴儿在出生后的第一年内迅速发展感知能力）
-> - Perceptual differences between cultures can lead to misunderstandings.（文化间的感知差异可能导致误解）
+> - `[例]` Infants develop perceptual abilities rapidly during the first year of life.
+> - `[例]` Perceptual differences between cultures can lead to misunderstandings.
 
 ## 复习记录
 

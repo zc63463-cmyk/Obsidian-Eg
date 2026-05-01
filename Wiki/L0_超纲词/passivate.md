@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使钝化，使钝态**==（化学/冶金学中使金属表面形成保护层）；
+**v.** ①==**使钝化，使钝态**== `V N` [专业] `be V-ed` [专业]（化学/冶金学中使金属表面形成保护层）；
 
 > [!tip] 原型义
 > **原型义**：使金属表面变得不活跃（钝化）
@@ -121,8 +121,8 @@ passive（被动的/不活跃的）+ -ate（动词后缀，使……）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Stainless steel is passivated by treating it with nitric acid to form a protective oxide layer.（不锈钢通过硝酸处理进行钝化，形成保护性氧化层）
-> - Passivation improves the corrosion resistance of metal surfaces.（钝化提高了金属表面的耐腐蚀性）
+> - `[例]` Stainless steel is passivated by treating it with nitric acid to form a protective oxide layer.
+> - `[例]` Passivation improves the corrosion resistance of metal surfaces.
 
 ## 复习记录
 

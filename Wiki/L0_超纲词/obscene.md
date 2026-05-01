@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**淫秽的，下流的**==；②==**可憎的，骇人听闻的**==（尤指数量或程度令人震惊）；
+**adj.** ①==**淫秽的，下流的**== `obscene N` [正式]；②==**可憎的，骇人听闻的**== `obscene amounts of N` [正式]（尤指数量或程度令人震惊）；
 
 > [!tip] 原型义
 > **原型义**：污秽的，肮脏的（源自拉丁语 *obscaenus*，意为"不祥的、污秽的"）
@@ -123,7 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - obscene 常用于法律语境中描述淫秽内容，也常用于新闻评论中描述不合理的巨额财富或利润。
+> - `[例]` "The film was banned due to its obscene content and graphic violence."
+> - `[例]` "Critics condemned the CEO's obscene salary whilst the company's workers struggled to make ends meet."
 
 ## 复习记录
 

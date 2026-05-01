@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**越权，逾矩**==；②==**超越（界限）**==；
+**v.** ①==**越权，逾矩**== `V N` [负面]；②==**超越（界限）**== `V N` [负面]；
 
 > [!tip] 原型义
 > **原型义**：跨过了界线（在走路时跨过了边界）
@@ -121,7 +121,8 @@ over-(越过) + step(步伐/踩)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The judge warned the lawyer not to overstep the bounds of professional conduct."（法官警告律师不要逾越职业行为的界限。）
+> - `[例]` The judge warned the lawyer not to overstep the bounds of professional conduct.
+> - `[例]` The manager overstepped his authority by making decisions without consulting the board.
 
 ## 复习记录
 

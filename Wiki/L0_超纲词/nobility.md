@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**贵族阶层，贵族阶级**==；②高贵，崇高（品质）；
+**n.** ①==**贵族阶层，贵族阶级**== `the N` [中性] `titles of N` [正式]；②==**高贵，崇高（品质）**== `N of character/spirit` [正式]；
 
 > [!tip] 原型义
 > **原型义**：贵族阶层（拥有世袭特权的社会等级）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The French Revolution abolished the privileges of the nobility."（法国大革命废除了贵族的特权。）
-> - "Her nobility of character inspired everyone who knew her."（她品格的高贵激励了每一个认识她的人。）
+> - `[例]` The French Revolution abolished the privileges of the nobility.
+> - `[例]` Her nobility of character inspired everyone who knew her.
 
 ## 复习记录
 

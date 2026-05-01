@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**开放获取的，公开访问的**==；
+**adj.** ①==**开放获取的，公开访问的**== `adj N` `N for N`；
 
 > [!tip] 原型义
 > **原型义**：开放获取的（任何人都可以自由获取的）
@@ -121,7 +121,9 @@ open(开放的) + access(=access, 获取/接触)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - open-access 常出现在学术出版和科研政策相关文章中。
+> - `[例]` The journal switched to an open-access model to make research freely available to the public.
+> - `[例]` Many funding agencies now require that published results be placed in open-access repositories.
+> - `[例]` Open-access publishing has significantly increased the visibility of scientific research worldwide.
 
 ## 复习记录
 

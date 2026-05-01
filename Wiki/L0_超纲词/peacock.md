@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**孔雀**==（尤指雄孔雀）；②爱炫耀的人；
-**v.** ①==**炫耀，招摇**==；
+**n.** ①==**孔雀**== `a N` [中性] `the N V` [中性]；②==**爱炫耀的人**== `a N` [贬义]；
+**v.** ①==**炫耀，招摇**== `V` [贬义] `V prep N` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：雄孔雀（以华丽的尾羽著称）
@@ -128,8 +128,8 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He spent the entire evening peacocking in front of the guests.（他整个晚上都在客人面前炫耀）
-> - The peacock fanned its magnificent tail feathers in the garden.（孔雀在花园里展开了华丽的尾羽）
+> - `[例]` He spent the entire evening peacocking in front of the guests.
+> - `[例]` The peacock fanned its magnificent tail feathers in the garden.
 
 ## 复习记录
 

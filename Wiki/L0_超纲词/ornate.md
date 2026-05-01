@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**装饰华丽的，过于装饰的**==；②==**辞藻华丽的**==（指语言风格）；
+**adj.** ①==**装饰华丽的，过于装饰的**== `adj N` `be adj`；②==**辞藻华丽的**==（指语言风格）`adj N`；
 
 > [!tip] 原型义
 > **原型义**：装饰过的（被装备了装饰的——拉丁语 *ornatus*）
@@ -124,7 +124,9 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - ornate 常出现在艺术、建筑和文学评论相关文章中。
+> - `[例]` The cathedral features ornate architecture with intricate carvings and stained glass windows.
+> - `[例]` His ornate prose, though beautifully crafted, often obscured the underlying argument of the essay.
+> - `[例]` The antique desk was adorned with ornate brass fittings that had turned green with age.
 
 ## 复习记录
 

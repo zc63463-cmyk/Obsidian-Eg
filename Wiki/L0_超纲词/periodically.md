@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**周期性地，定期地**==；②偶尔，间或；
+**adv.** ①==**周期性地，定期地**== `V adv` [中性] `adv V` [中性]；②==**偶尔，间或**== `V adv` [中性]；
 
 > [!tip] 原型义
 > **原型义**：周期性地，定期地
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The system should be checked periodically to ensure it is functioning properly.（系统应定期检查以确保正常运行）
-> - Economic recessions occur periodically throughout history.（经济衰退在历史上周期性地发生）
+> - `[例]` The system should be checked periodically to ensure it is functioning properly.
+> - `[例]` Economic recessions occur periodically throughout history.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj./adv.** ①==**在线的（地），联网的（地）**==；②在互联网上的；
+**adj./adv.** ①==**在线的（地），联网的（地）**== `be adj prep N` `go adj`；②在互联网上的 `prep N`；
 
 > [!tip] 原型义
 > **原型义**：在线上的（连着网络线的）
@@ -122,7 +122,9 @@ on-(在……上) + line(线/连线)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - online 是考研高频词，常用于科技、教育、商业等话题中。
+> - `[例]` Many consumers prefer to shop online rather than visit physical stores.
+> - `[例]` The system will go offline for maintenance tonight and come back online tomorrow morning.
+> - `[例]` Students can access a wide range of online courses through the university platform.
 
 ## 复习记录
 

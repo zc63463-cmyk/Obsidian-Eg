@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**对……估价过高，高估……的价值**==；
+**v.** ①==**对……估价过高，高估……的价值**== `V N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：估价过高（在价值评估上超过了实际价值）
@@ -119,7 +119,8 @@ over-(过度) + value(价值)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - overvalue 常出现在经济学和金融相关文章中。
+> - `[例]` Investors often overvalue startups during periods of market optimism.
+> - `[例]` The central bank warned that the currency was being overvalued on the foreign exchange market.
 
 ## 复习记录
 

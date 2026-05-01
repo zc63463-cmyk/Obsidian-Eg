@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**彩色粉笔，粉蜡笔**==；②粉彩画；③淡雅的色彩；
-**adj.** ①==**柔和的，淡雅的**==（指颜色）；
+**n.** ①==**彩色粉笔，粉蜡笔**== `N` [艺术]；②==**粉彩画**== `a N` [艺术]；③==**淡雅的色彩**== `N` [通用]；
+**adj.** ①==**柔和的，淡雅的**== `adj N` [通用]（指颜色）；
 
 > [!tip] 原型义
 > **原型义**：柔和的彩色粉笔
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The artist worked in pastel, creating soft, dreamlike landscapes.（这位艺术家用粉彩创作，画出柔和梦幻的风景画）
-> - The room was decorated in pastel shades of blue and green.（房间装饰着柔和的蓝绿色调）
+> - `[例]` The artist worked in pastel, creating soft, dreamlike landscapes.
+> - `[例]` The room was decorated in pastel shades of blue and green.
 
 ## 复习记录
 

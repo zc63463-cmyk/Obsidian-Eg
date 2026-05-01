@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可观察到的，可见的**==；②==**值得注意的，显著的**==；
+**adj.** ①==**可观察到的，可见的**== `observable N` [学术]；②==**值得注意的，显著的**== `an observable trend/change` [学术]；
 
 > [!tip] 原型义
 > **原型义**：可被观察到的（能够被看到或注意到的）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - observable 常用于科学研究和学术写作中，描述可以通过观察确认的现象或趋势。
+> - `[例]` "The researchers documented several observable differences between the two groups of participants."
+> - `[例]` "There has been an observable decline in air quality over the past decade."
 
 ## 复习记录
 

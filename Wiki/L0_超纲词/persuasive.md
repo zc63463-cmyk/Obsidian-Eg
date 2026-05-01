@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有说服力的，令人信服的**==；
+**adj.** ①==**有说服力的，令人信服的**== `a adj N` [通用]；`be adj that-clause` [正式]；
 
 > [!tip] 原型义
 > **原型义**：有说服力的
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The lawyer presented a persuasive argument that swayed the jury.（律师提出了一个有说服力的论点，打动了陪审团）
-> - She is a persuasive speaker who can inspire people to take action.（她是一位有说服力的演讲者，能激励人们采取行动）
+> - `[例]` The lawyer presented a persuasive argument that swayed the jury.
+> - `[例]` She is a persuasive speaker who can inspire people to take action.
 
 ## 复习记录
 

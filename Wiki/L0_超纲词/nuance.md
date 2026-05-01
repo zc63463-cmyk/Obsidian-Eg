@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**细微差别，微妙之处**==；
+**n.** ①==**细微差别，微妙之处**== `the nuances of N` `understand/appreciate a nuance` [正式]；
 
 > [!tip] 原型义
 > **原型义**：细微差别（不易察觉的差异）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Translation requires an understanding of the nuances of both languages."（翻译需要对两种语言的细微差别有深入理解。）
-> - "The nuances of cultural etiquette can be difficult for foreigners to grasp."（文化礼仪的微妙之处对外国人来说可能很难掌握。）
+> - `[例]` "Translation requires an understanding of the nuances of both languages."
+> - `[例]` "The nuances of cultural etiquette can be difficult for foreigners to grasp."
 
 ## 复习记录
 

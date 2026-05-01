@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**通知，告知**==；②通知书，通知单；
+**n.** ①==**通知，告知**== `send/receive a notification` `notification of N` [正式]；②==**通知书，通知单**== `a written notification` [正式]；
 
 > [!tip] 原型义
 > **原型义**：通知（告知某人某事的行为）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "You will receive a notification once your application has been processed."（您的申请处理完成后，您将收到通知。）
-> - "The company sent out notifications to all employees about the schedule change."（公司向所有员工发送了关于日程变更的通知。）
+> - `[例]` "You will receive a notification once your application has been processed."
+> - `[例]` "The company sent out notifications to all employees about the schedule change."
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**球体，球状物**==；②==**天体，星球**==（尤指太阳或月亮）；
-**v.** ①==**盘旋，环绕**==；
+**n.** ①==**球体，球状物**== `adj N`；②==**天体，星球**==（尤指太阳或月亮）`the adj N of N`；
+**v.** ①==**盘旋，环绕**== `V prep N`；
 
 > [!tip] 原型义
 > **原型义**：球体（圆形的物体）
@@ -126,7 +126,9 @@ orb(=ball/circle, 球/圆) 源自拉丁语 *orbis*（圆、球、轨道）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - orb 常出现在文学和天文学相关文章中。
+> - `[例]` The blazing orb of the sun sank slowly below the horizon, painting the sky in shades of crimson.
+> - `[例]` Moths orb around the porch light in a hypnotic spiral throughout the evening.
+> - `[例]` The ancient temple was crowned with a golden orb that gleamed in the midday sun.
 
 ## 复习记录
 

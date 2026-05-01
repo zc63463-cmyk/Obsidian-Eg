@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**明显可感知的，触手可及的**==；②（紧张、兴奋等情绪）==**明显可感的，几乎可以触摸到的**==；③（医学）可触诊的；
+**adj.** ①==**明显可感知的，触手可及的**== `a palpable N` [文学]；②（紧张、兴奋等情绪）==**明显可感的，几乎可以触摸到的**== `a palpable sense of N` [文学]；③（医学）==**可触诊的**== `a palpable N` [医学]；
 
 > [!tip] 原型义
 > **原型义**：用手触摸能感受到的（拉丁语 *palpare* "触摸、轻抚"）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "There was a palpable sense of relief when the results were announced."（结果宣布时，人们明显感到如释重负。）
-> - "The tension in the room was palpable."（房间里的紧张气氛几乎能触摸到。）
+> - `[例]` There was a palpable sense of relief when the results were announced.
+> - `[例]` The tension in the room was palpable.
 
 ## 复习记录
 

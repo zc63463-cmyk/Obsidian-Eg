@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**非处方的（不需医生处方即可购买的）**==；②==**场外交易的（OTC）**==（金融领域）；
+**adj.** ①==**非处方的（不需医生处方即可购买的）**== `adj N` [中性]；②==**场外交易的（OTC）**== `adj N` [中性/金融]；
 
 > [!tip] 原型义
 > **原型义**：柜台交易的（直接在柜台上买卖的）
@@ -120,7 +120,8 @@ over the [[contra-counter|counter]](越过柜台)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - over-the-counter 常出现在医学和金融相关文章中，常缩写为 OTC。
+> - `[例]` You can buy over-the-counter pain relievers at any pharmacy without a doctor's prescription.
+> - `[例]` Over-the-counter stocks are traded directly between two parties rather than through a formal exchange.
 
 ## 复习记录
 

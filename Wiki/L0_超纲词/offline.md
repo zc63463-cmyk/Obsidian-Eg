@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj./adv.** ①==**离线的，脱机的**==；②未联网的，断开连接的；
+**adj./adv.** ①==**离线的，脱机的**== `adj N` [技术]；`V adj` [技术]；②==**未联网的，断开连接的**== `go adj` [通用]；
 
 > [!tip] 原型义
 > **原型义**：离开线的（脱离网络连线的状态）
@@ -122,7 +122,8 @@ off-(离开/脱离) + line(线/连线)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - offline 常用于科技和互联网相关文章中。
+> - `[例]` You can work offline and sync your changes when you reconnect.
+> - `[例]` The system went offline for scheduled maintenance last night.
 
 ## 复习记录
 

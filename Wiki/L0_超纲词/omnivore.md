@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**杂食动物**==；②杂食的人；
+**n.** ①==**杂食动物**== `N be N` [学术]；②==**杂食的人**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：吃一切东西的（拉丁语 *omnivorus*）
@@ -122,7 +122,8 @@ omni-(=all, 一切) + [[vor]](=eat, 吃) + -e(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - omnivore 常出现在生物学和生态学相关文章中。
+> - `[例]` Humans are omnivores who consume both plant and animal matter.
+> - `[例]` Bears are omnivores whose diet includes berries, fish, and small mammals.
 
 ## 复习记录
 

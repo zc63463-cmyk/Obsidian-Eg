@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使永存，使持续**==（常含贬义：使不好的事物继续存在）；
+**v.** ①==**使永存，使持续**== `V N` [正式]；`V the N of N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：使某事物持续存在
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The media often perpetuates stereotypes about certain ethnic groups.（媒体经常使某些族群的刻板印象持续存在）
-> - Outdated policies perpetuate the cycle of poverty in many communities.（过时的政策使许多社区的贫困循环持续存在）
+> - `[例]` The media often perpetuates stereotypes about certain ethnic groups.
+> - `[例]` Outdated policies perpetuate the cycle of poverty in many communities.
 
 ## 复习记录
 

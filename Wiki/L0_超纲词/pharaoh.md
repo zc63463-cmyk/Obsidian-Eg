@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**法老**==（古埃及的统治者）；
+**n.** ①==**法老**== `N of N` [历史]；`the N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：古埃及的统治者
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The pharaohs of ancient Egypt built magnificent pyramids as their tombs.（古埃及法老建造了宏伟的金字塔作为他们的陵墓）
-> - Tutankhamun became one of the most famous pharaohs after his tomb was discovered in 1922.（图坦卡蒙在1922年其陵墓被发现后成为最著名的法老之一）
+> - `[例]` The pharaohs of ancient Egypt built magnificent pyramids as their tombs.
+> - `[例]` Tutankhamun became one of the most famous pharaohs after his tomb was discovered in 1922.
 
 ## 复习记录
 

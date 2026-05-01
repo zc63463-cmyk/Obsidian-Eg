@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可获得的，可取得的**==；
+**adj.** ①==**可获得的，可取得的**== `be adj prep N` [正式]；`N be adj` [正式]；
 
 > [!tip] 原型义
 > **原型义**：可以获得的（能够抓住或得到的）
@@ -120,7 +120,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - obtainable 常用于学术和正式语境中，描述通过特定渠道可以获取的信息或资源。
+> - `[例]` The information is readily obtainable from the internet.
+> - `[例]` A valid passport is obtainable at any post office.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工资，薪水**==（尤指工资支票）；②工资支票；
+**n.** ①==**工资，薪水**== `a adj N` [口语/中性] `V a N` [口语/中性]；②==**工资支票**== `V a N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：工资支票
@@ -124,8 +124,8 @@ pay（支付）+ check（支票）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many families are living paycheck to paycheck, struggling to cover basic expenses.（许多家庭靠工资度日，艰难地支付基本开支）
-> - She left her stable job for a career that offered a bigger paycheck.（她辞去了稳定的工作，选择了一份薪水更高的职业）
+> - `[例]` Many families are living paycheck to paycheck, struggling to cover basic expenses.
+> - `[例]` She left her stable job for a career that offered a bigger paycheck.
 
 ## 复习记录
 

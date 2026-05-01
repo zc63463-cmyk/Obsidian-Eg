@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**一次性的，一锤子买卖的**==；②只尝试一次的；
+**adj.** ①==**一次性的，一锤子买卖的**== `adj N` [口语]；`adj N` [技术]；②==**只尝试一次的**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：一次性的（只需一枪就能完成的）
@@ -121,7 +121,8 @@ one(一) + shot(射击/尝试)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - one-shot 常用于商业和科技语境中。
+> - `[例]` The investors saw it as a one-shot deal and refused to commit further funding.
+> - `[例]` One-shot learning allows a model to recognize new objects from a single example.
 
 ## 复习记录
 

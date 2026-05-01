@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**经同行评审的**==（指学术论文经过同领域专家审查）；
+**adj.** ①==**经同行评审的**== `a adj N` [学术/正面] `adj N` [学术/正面]；
 
 > [!tip] 原型义
 > **原型义**：经过同行评审的
@@ -123,8 +123,8 @@ peer（同等的人/同行）+ review（审查）+ -ed（已……的）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The study was published in a peer-reviewed journal, lending credibility to its findings.（该研究发表在同行评审期刊上，为其发现增加了可信度）
-> - Students should rely on peer-reviewed sources when writing academic papers.（学生在撰写学术论文时应依赖经同行评审的来源）
+> - `[例]` The study was published in a peer-reviewed journal, lending credibility to its findings.
+> - `[例]` Students should rely on peer-reviewed sources when writing academic papers.
 
 ## 复习记录
 

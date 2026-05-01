@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**新闻编辑室，新闻中心**==（报社或电视台的新闻工作区域）；
+**n.** ①==**新闻编辑室，新闻中心**== `in the N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：新闻编辑室（报社或电视台的新闻工作区域）
@@ -122,8 +122,8 @@ news（新闻）+ room（房间）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The newsroom was buzzing with activity as the breaking story unfolded."（随着突发新闻的展开，新闻编辑室一片忙碌。）
-> - "She has worked in newsrooms for over twenty years."（她在新闻编辑室工作了二十多年。）
+> - `[例]` The newsroom was buzzing with activity as the breaking story unfolded.
+> - `[例]` She has worked in newsrooms for over twenty years.
 
 ## 复习记录
 

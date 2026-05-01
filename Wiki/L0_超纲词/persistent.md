@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**坚持不懈的**==；②==**持续存在的，反复出现的**==；③执着的，顽固的；
+**adj.** ①==**坚持不懈的**== `be adj in N` [正式]；②==**持续存在的，反复出现的**== `adj N` [通用]；③==**执着的，顽固的**== `a adj N` [口语]；
 
 > [!tip] 原型义
 > **原型义**：始终坚持的，持续存在的
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Despite persistent efforts, the team was unable to solve the technical problem.（尽管坚持不懈地努力，团队仍无法解决这个技术问题）
-> - Persistent inflation has eroded the purchasing power of wages.（持续的通货膨胀削弱了工资的购买力）
+> - `[例]` Despite persistent efforts, the team was unable to solve the technical problem.
+> - `[例]` Persistent inflation has eroded the purchasing power of wages.
 
 ## 复习记录
 

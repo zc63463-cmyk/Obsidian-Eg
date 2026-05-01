@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**过路人，路人**==；
+**n.** ①==**过路人，路人**== `a passer-by V` [通用] `N from passers-by` [通用]；
 
 > [!tip] 原型义
 > **原型义**：从旁边经过的人
@@ -121,8 +121,8 @@ pass（经过）+ -er（人）+ by（旁边）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - A passer-by called the police after witnessing the accident.（一位目击事故的路人报了警）
-> - The charity relies on donations from passers-by.（该慈善机构依赖路人的捐款）
+> - `[例]` A passer-by called the police after witnessing the accident.
+> - `[例]` The charity relies on donations from passers-by.
 
 ## 复习记录
 

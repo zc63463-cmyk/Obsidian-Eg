@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**矛盾地，反常地**==；②==**看似矛盾实则正确地**==；
+**adv.** ①==**矛盾地，反常地**== `Paradoxically, clause` [学术]；②==**看似矛盾实则正确地**== `Paradoxically, clause` `paradoxically enough` [学术]；
 
 > [!tip] 原型义
 > **原型义**：与预期相反地（希腊语 *para-* "相反" + *doxa* "意见/观点"）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Paradoxically, the more connected we are through technology, the more isolated we feel."（矛盾的是，我们通过科技联系越紧密，却感到越孤独。）
-> - "Paradoxically, economic growth does not always lead to improved living standards."（矛盾的是，经济增长并不总是带来生活水平的提高。）
+> - `[例]` Paradoxically, the more connected we are through technology, the more isolated we feel.
+> - `[例]` Paradoxically, economic growth does not always lead to improved living standards.
 
 ## 复习记录
 

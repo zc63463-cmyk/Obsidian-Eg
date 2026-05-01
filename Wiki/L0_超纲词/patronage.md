@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**赞助，资助**==；②惠顾，光顾；③（任命权等）恩赐，庇护；
+**n.** ①==**赞助，资助**== `N` [通用] `under the N of N` [正式]；②==**惠顾，光顾**== `N` [商业]；③==**（任命权等）恩赐，庇护**== `adj N` [政治]；
 
 > [!tip] 原型义
 > **原型义**：资助人/赞助人的行为
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The museum was built under the patronage of a wealthy merchant.（这座博物馆是在一位富商的赞助下建造的）
-> - Political patronage has long been a feature of the country's civil service system.（政治恩赐长期以来一直是该国公务员制度的一个特征）
+> - `[例]` The museum was built under the patronage of a wealthy merchant.
+> - `[例]` Political patronage has long been a feature of the country's civil service system.
 
 ## 复习记录
 

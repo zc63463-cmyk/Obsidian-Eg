@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**宽容的，放任的**==（允许很大自由）；②许可的，准许的；
+**adj.** ①==**宽容的，放任的**== `be adj prep N` [正式]；②==**许可的，准许的**== `be adj to V` [法律]；
 
 > [!tip] 原型义
 > **原型义**：允许自由的，宽容的
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Critics argue that permissive parenting leads to undisciplined children.（批评者认为放任式教养会导致孩子缺乏纪律）
-> - The 1960s saw the rise of a more permissive society in Western countries.（20世纪60年代见证了西方国家一个更加宽容社会的兴起）
+> - `[例]` Critics argue that permissive parenting leads to undisciplined children.
+> - `[例]` The 1960s saw the rise of a more permissive society in Western countries.
 
 ## 复习记录
 

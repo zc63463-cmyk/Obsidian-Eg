@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**压倒性地， overwhelmingly**==；②==**绝大多数地**==；
+**adv.** ①==**压倒性地**== `adv adj` `adv V` [学术]；②==**绝大多数地**== `adv V` [学术]；
 
 > [!tip] 原型义
 > **原型义**：压倒性地（像洪水一样压过来）
@@ -121,7 +121,8 @@ over-(在上面/越过) + whelm(=淹没/翻覆) + -ing(进行时) + -ly(副词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The evidence overwhelmingly supports the theory."（绝大多数证据支持这一理论。）
+> - `[例]` The evidence overwhelmingly supports the theory.
+> - `[例]` Students overwhelmingly voted in favor of the new policy.
 
 ## 复习记录
 

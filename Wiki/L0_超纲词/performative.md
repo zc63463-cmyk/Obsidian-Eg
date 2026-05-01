@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**表述行为的，施事的**==（语言学中指话语本身就是一种行为）；②==**表演性的，做作的**==（强调表面行为而非真实意图）；
+**adj.** ①==**表述行为的，施事的**== `adj N` [学术/中性] `adj N N` [学术/中性]；②==**表演性的，做作的**== `adj N` [贬义] `be adj` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：通过言说或行为来执行某事
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Critics argue that much of corporate social responsibility is merely performative.（批评者认为，许多企业社会责任行为仅仅是表演性的）
-> - In linguistics, "I now pronounce you husband and wife" is a classic example of a performative utterance.（在语言学中，"我现在宣布你们结为夫妻"是表述行为话语的经典例子）
+> - `[例]` Critics argue that much of corporate social responsibility is merely performative.
+> - `[例]` In linguistics, "I now pronounce you husband and wife" is a classic example of a performative utterance.
 
 ## 复习记录
 
