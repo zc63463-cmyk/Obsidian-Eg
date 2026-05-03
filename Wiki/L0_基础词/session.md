@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**会议；一届会议**==；②==**一段时间**==（进行某活动的期间）；③开庭期；④学年的一部分（学期中的教学时段）；
+**n.** ①==**会议；一届会议**== `parliamentary session` `in session` [政治]；②==**一段时间**== `a training session` `a photo session` [通用]；③开庭期；④学年的一部分（学期中的教学时段）；
 
 > [!tip] 原型义
 > **原型义**：坐在一起（一群人聚集坐下来处理事务）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The court is now in session."（法庭现在正在开庭——考研法律类阅读高频表达）
-> - "Several bills were enacted at the end of this session of Parliament."（这届国会结束时，好几个议案制定成为法律——考研政治类阅读高频表达）
+> - The UN Security Council met in emergency session to discuss the crisis. ` `[真题]`
+> - The parliamentary session is due to end on 27 May. ` `[真题]`
+> - The 21-year-old runner twisted his ankle in a training session last Friday. ` `[真题]`
 
 
 ---

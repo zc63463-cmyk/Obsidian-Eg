@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（可能发生的）情景，局面**==（对可能发生之事的描述或设想）；②==**剧本，脚本**==（电影、戏剧等的情节概要）；③方案，预测；
+**n.** ①==**（可能发生的）情景，局面**== `in a/the ... scenario` [通用] `worst-case/best-case scenario` [书面]；②==**剧本，脚本**== `write a scenario` [书面]；③方案，预测；
 
 > [!tip] 原型义
 > **原型义**：舞台上的布景——假想的场景
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the worst-case scenario, the company could go bankrupt within six months if no measures are taken."（在最坏的情况下，如果不采取措施，公司可能在六个月内破产。——考研阅读商业话题相关表达）
-> - "Scientists have developed several scenarios to predict the impact of climate change on coastal cities."（科学家们已经提出了几种情景来预测气候变化对沿海城市的影响。——考研阅读科学话题相关表达）
+> - "In the worst-case scenario, the company could go bankrupt within six months if no measures are taken." `[真题]`
+> - "The most likely scenario is that an investment firm buys the building." `[语料库]`
+> - "A doomsday scenario is not out of the question." `[语料库]`
+> - "The government has considered various possible scenarios." `[语料库]`
 
 
 ---

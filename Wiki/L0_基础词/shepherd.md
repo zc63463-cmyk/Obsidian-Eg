@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**牧羊人**==；②牧师（比喻义）；
-**vt.** ①==**带领，引导**==；②看护，护送；
+**n.** ①==**牧羊人**== `a shepherd with his flock` [书面]；②牧师（比喻义）；
+**vt.** ①==**带领，引导**== `shepherd sb into/through/to` [书面]；②看护，护送；
 
 > [!tip] 原型义
 > **原型义**：羊群的保护者（看护和引导羊群的人）
@@ -132,8 +132,9 @@ sheep(羊) + herd(=herd，牧群，看管)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The teacher was shepherding the children into the bus."（老师正带领着孩子们上公共汽车。——考研熟词生义）
-> - "During the next two years, other delegations shuttled between the two capitals."（在接下来的两年里，其他代表团在两个首都之间穿梭往来。——剑桥词典例句，含同族词 shuttle）
+> - "She carefully shepherded the children across the street." `[真题]`
+> - "They shepherded the bill through Congress." `[真题]`
+> - "The tour guides shepherded the rest of the group onto the bus." `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**射击；射杀**==；②==**拍摄**==（电影/照片）；③==**迅速增长；猛增**==；④射门；投篮；
+**v.** ①==**射击；射杀**== `shoot at` [日常] `shoot sb dead` [新闻]；②==**拍摄**== `shoot a film/movie` [日常] `shoot a photograph` [书面]；③==**迅速增长；猛增**== `shoot up` [日常] `shoot to fame` [书面]；④射门；投篮；
 **n.** ①嫩芽；苗；②拍摄；
 
 > [!tip] 原型义
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Alina Reyes shot to fame a few years ago with her extraordinary first novel."（阿丽娜·雷耶斯几年前凭借她那非凡的小说处女作迅速成名——考研文学类阅读高频表达）
-> - "If he's not armed, don't shoot."（如果他没带武器，就不要开枪——考研阅读高频表达）
+> - "Alina Reyes shot to fame a few years ago with her extraordinary first novel." `[真题]`
+> - "If he's not armed, don't shoot." `[真题]`
+> - "House prices have shot up dramatically over the past decade." `[真题]`
 
 
 ---

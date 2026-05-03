@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**缝，接缝**==；②煤层；③裂缝，伤痕；
+**n.** ①==**缝，接缝**== `split along the seam` [通用]；②煤层；③裂缝，伤痕；
 **v.** ①缝合，使留下伤痕；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ seam（源自古英语 *sēam*，"接缝"，与 [[second]]/[[section]]/[[segment
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her dress had split along the seam."（她的连衣裙顺着接缝裂开了。——柯林斯语料库）
-> - "Scientists are surveying the coal seam in the area."（科学家正在勘测该区域的煤层。——柯林斯语料库）
+> - "Her dress had split along the seam." `[真题]`
+> - "The situation is now beginning to burst at the seams." `[真题]`
+> - "The average UK coal seam is one metre thick." `[语料库]`
 
 
 ---

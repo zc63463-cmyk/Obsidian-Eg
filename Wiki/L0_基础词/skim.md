@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**撇去（液体表面的漂浮物）**==；②==**浏览，略读**==；③掠过，擦过（表面）；
+**v.** ①==**撇去（液体表面的漂浮物）**== `skim sth off/from sth` [书面]；②==**浏览，略读**== `skim through/over sth` [通用]；③掠过，擦过（表面）；
 **n.** ①撇去物；脱脂乳；
 
 > [!tip] 原型义
@@ -145,8 +145,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He didn't have time to read the report word for word; he just skimmed it."（他没有时间逐字逐句地阅读这份报告，只是浏览了一下。——常见英语语料）
-> - "A seagull skimmed the water."（一只海鸥掠过水面。——常见英语语料）
+> - He didn't have time to read the report word for word, so he just skimmed it quickly. ` `[真题]`
+> - If you skim through the play too quickly, you'll forget the plot. ` `[真题]`
+> - A seagull skimmed the surface of the water, barely touching it. ` `[语料库]`
 
 
 ---

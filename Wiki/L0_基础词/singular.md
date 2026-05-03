@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**单数的**==（语法）；②==**非凡的，突出的**==；③==**独一无二的**==；④异常的，奇特的；
+**adj.** ①==**单数的**==（语法）`singular form/noun` [学术]；②==**非凡的，突出的**== `a singular achievement/talent` [书面]；③==**独一无二的**== `a singular experience/opportunity` [书面]；④异常的，奇特的；
 **n.** ①单数（语法）；
 
 > [!tip] 原型义
@@ -138,8 +138,9 @@ singul-(单一的，拉丁语 *singulus*) + -ar(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I suspect that a key to thinking usefully about macroeconomics is to shift from thinking in terms of a singular labor market to thinking about plural labor markets."（我猜想有效地思考宏观经济学的关键是从对单一劳动市场的思考转向考虑多元劳动市场——考研英语阅读）
-> - "She had a singular insight into life."（她对于人生有一个非凡的了解——考研英语阅读高频表达）
+> - I suspect that a key to thinking usefully about macroeconomics is to shift from thinking in terms of a singular labor market to thinking about plural labor markets. `[真题]`
+> - She had a singular insight into the problem that no one else had considered. `[真题]`
+> - It was a singular achievement for such a young scientist to publish in that journal. `[外刊]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**穿梭班机/列车/汽车**==；②航天飞机；③梭子（织布用）；
-**v.** ①==**穿梭往返**==；②频繁地往返于两地之间；
+**n.** ①==**穿梭班机/列车/汽车**== `shuttle bus/service; airport shuttle` [中性]；②航天飞机；③梭子（织布用）；
+**v.** ①==**穿梭往返**== `shuttle between A and B` [中性]；②频繁地往返于两地之间；
 
 > [!tip] 原型义
 > **原型义**：梭子（织布时在经线之间来回穿行的工具）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All the meals on space station are put together on Earth and sent there by space shuttle."（空间站上的所有餐食都是在地球上准备好的，然后通过航天飞机送到那里。——中考/高考真题）
-> - "During the next two years, other delegations shuttled between the two capitals."（在接下来的两年里，其他代表团在两个首都之间穿梭往来。——剑桥词典例句）
+> - "All the meals on space station are put together on Earth and sent there by space shuttle." `[真题]`
+> - "During the next two years, other delegations shuttled between the two capitals." `[剑桥词典]`
+> - "The hotel provides a shuttle bus that takes you to and from the airport." `[朗文词典]`
 
 
 ---

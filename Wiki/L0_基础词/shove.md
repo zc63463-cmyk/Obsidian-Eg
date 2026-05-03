@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**猛推，乱挤**==；②乱塞，随手放；
+**v.** ①==**猛推，乱挤**== `shove sb aside; push and shove` [口语/粗暴]；②乱塞，随手放；
 **n.** ①猛推；
 
 > [!tip] 原型义
@@ -133,8 +133,9 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reporters pushed and shoved as they tried to get close to the princess."（记者们推推挤挤，试图靠近公主。——剑桥词典例句）
-> - "Just wait your turn — there's no need to shove."（排队等着就行——没必要推挤。——牛津词典例句）
+> - "Reporters pushed and shoved as they tried to get close to the princess." `[剑桥词典]`
+> - "Just wait your turn — there's no need to shove." `[牛津词典]`
+> - "The police had to shove angry spectators out of the way as they led the murderer into the courthouse." `[外刊语料]`
 
 
 ---

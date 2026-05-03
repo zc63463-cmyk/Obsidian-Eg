@@ -26,9 +26,9 @@ review_count: 0
 ## 核心释义
 
 **num.** ①第二；
-**n.** ①==**秒**==；②第二人/物；
-**adj.** ①==**第二的，次要的**==；
-**v.** ①支持，附议；
+**n.** ①==**秒**== `in a matter of seconds` `half a second` [通用]；②第二人/物；
+**adj.** ①==**第二的，次要的**== `second to none` `of secondary importance` [通用]；
+**v.** ①==**支持，附议**== `second a motion/proposal` [正式]；
 
 > [!tip] 原型义
 > **原型义**：第二（排在第一个之后的位置）
@@ -139,8 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Elliott crossed the finish line just half a second behind his adversary."（埃利奥特跨过终点线时仅比对手落后半秒钟。——柯林斯语料库）
-> - "All this, needless to say, had been culled second-hand from radio reports."（不用说，所有这些都是从电台报道中采集来的二手材料。——柯林斯语料库）
+> - "Elliott crossed the finish line just half a second behind his adversary." `[真题]`
+> - "All this, needless to say, had been culled second-hand from radio reports." `[真题]`
+> - "On second thought, I think we should postpone the meeting until next week." `[真题]`
 
 
 ---

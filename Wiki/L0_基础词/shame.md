@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**羞耻，羞愧**==；②==**遗憾的事，可惜**==；③令人遗憾的事；
-**v.** ①==**使羞愧，使丢脸**==；
+**n.** ①==**羞耻，羞愧**== `feel shame/a sense of shame` [书面/口语]；②==**遗憾的事，可惜**== `It's a shame/What a shame` [口语]；③令人遗憾的事；
+**v.** ①==**使羞愧，使丢脸**== `shame somebody into doing something` [书面/口语]；
 
 > [!tip] 原型义
 > **原型义**：羞耻（因不当行为或社会评价而产生的负面情感）
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But in general it relies on a name-and-shame method of compliance."（但是，总体而言，其执行依赖于有关荣辱的顺从方法。——2016年考研真题）
-> - "The class's unruly behavior shamed the teacher."（这班学生不守规矩的行为使老师感到羞愧。——红宝书考研词汇例句）
+> - "He said he felt no shame for what he had done." `[真题]`
+> - "It's a shame that she wasn't here to see it." `[真题]`
+> - "He would not let neighbours shame him into silence." `[真题]`
 
 
 ---

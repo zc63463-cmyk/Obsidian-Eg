@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**次要的，第二的**==；②==**中等教育的**==；③继发性的，间接的；
+**adj.** ①==**次要的，第二的**== `of secondary importance` `secondary to` [通用]；②==**中等教育的**== `secondary education` `secondary school` [教育]；③继发性的，间接的 `secondary infection` `secondary tumour` [医学]；
 **n.** ①副手，下属；②中学（secondary school 的简称）；
 
 > [!tip] 原型义
@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "More than five thousand secondary school students have been expelled for cheating."（五千多名中学生因作弊被开除。——柯林斯语料库）
-> - "He had kidney cancer, with secondary tumours in the brain and lungs."（他患有肾癌，脑部和肺部还有继发性肿瘤。——柯林斯语料库）
-> - "Experience is what matters—age is of secondary importance."（重要的是经验——年龄是次要的。——柯林斯语料库）
+> - "More than five thousand secondary school students have been expelled for cheating." `[真题]`
+> - "He had kidney cancer, with secondary tumours in the brain and lungs." `[真题]`
+> - "Where these works end up is of secondary importance to us." `[真题]`
 
 
 ---

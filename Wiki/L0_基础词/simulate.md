@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**模拟，模仿**==；②==**假装，伪装**==；
+**v.** ①==**模拟，模仿**== `simulate the environment/conditions; simulate an experiment` [中性/学术]；②==**假装，伪装**== `simulate illness/interest; simulate grief` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使相似（simul-相似 + -ate动词后缀→使某物看起来像另一物）
@@ -136,8 +136,9 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "By linking directly to our nervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we can start to develop full sensory environments."（通过直接连接我们的神经系统，计算机可以感知我们的感受，并有望也能模拟感受，从而我们可以开始开发完整的感官环境——2001年考研英语翻译）
-> - "Smoke was used to simulate steam coming from a smashed radiator."（用烟来模拟从撞碎的散热器中冒出的蒸气——考研英语阅读）
+> - "By linking directly to our nervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we can start to develop full sensory environments." `[真题]`
+> - "Smoke was used to simulate steam coming from a smashed radiator." `[真题]`
+> - "The navy's maneuvers were designed to simulate an enemy invasion of the island." `[朗文词典]`
 
 
 ---

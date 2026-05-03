@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**掌击，拍打**==；②啪地放下（随意地）；③（侮辱性地）施加；
-**n.** ①掌击，耳光；
+**v.** ①==**掌击，拍打**== `slap sb across/on the face` [通用]；②啪地放下（随意地） `slap sth on the table` [口语]；③（侮辱性地）施加；
+**n.** ①掌击，耳光 `a slap in the face` [口语]；
 
 > [!tip] 原型义
 > **原型义**：掌击（用手掌拍打）
@@ -143,8 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His cheek tingled from the slap she had given him."（她给他一个耳光令他的脸颊有刺痛之感。——常见英语语料）
-> - "She gave him a slap across the face."（她打了他一个耳光。——常见英语语料）
+> - It was a real slap in the face when they didn't invite me to the wedding. ` `[语料库]`
+> - He slapped me on the back and said "Good job!" ` `[语料库]`
+> - Harsh words can sting more than a slap across the face. ` `[语料库]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**研讨会；研讨班**==；②（大学的）专题讨论课；
+**n.** ①==**研讨会；研讨班**== `attend/give a seminar` [学术]；②（大学的）专题讨论课；
 
 > [!tip] 原型义
 > **原型义**：播种的场所（播撒知识的种子）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room."（在火车上或床上阅读，其方式很可能与在研讨室阅读有很大的不同——2015年新题型）
-> - "I attended almost every lecture and seminar when I was at college."（我上大学时，几乎每一个讲座和研讨会都去参加——考研教育类阅读高频表达）
+> - Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room. ` `[真题]`
+> - I attended practically every lecture and seminar when I was a student. ` `[真题]`
+> - There was some lively debate at this week's seminar. ` `[真题]`
 
 
 ---

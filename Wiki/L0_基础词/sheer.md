@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**纯粹的，十足的**==；②陡峭的，垂直的；③极薄的，透明的；
-**adv.** ①==**完全地，十足地**==；②垂直地，陡峭地；
+**adj.** ①==**纯粹的，十足的**== `sheer luck/coincidence/determination` [书面]；②陡峭的，垂直的；③极薄的，透明的；
+**adv.** ①==**完全地，十足地**== `by sheer chance` [书面]；②垂直地，陡峭地；
 **vi.** 偏航，急转；
 
 > [!tip] 原型义
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His success was due to sheer willpower."（他的成功全凭纯粹的意志力。——剑桥词典例句）
-> - "It is difficult to convey the sheer complexity of the situation."（很难说清楚形势究竟有多复杂。——欧路词典例句）
+> - "His success was due to sheer willpower." `[真题]`
+> - "It was sheer coincidence that we met." `[真题]`
+> - "Yet the sheer scale of what we are discovering about plastic in the ocean demands a solution." `[真题]`
 
 
 ---

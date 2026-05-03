@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**技能，技巧**==；②熟练，能力；
+**n.** ①==**技能，技巧**== `communication/language/practical skills` [通用]；②熟练，能力；
 
 > [!tip] 原型义
 > **原型义**：区分能力（能够分辨和区分事物的能力）
@@ -143,8 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This job demands a high degree of skill."（这份工作要求高度的技能。——常见英语语料）
-> - "Schools often do not provide students with marketable skills."（学校通常不向学生提供有市场价值的技能。——常见英语语料）
+> - Reading and writing are two different skills that need to be developed through practice. `[外刊]`
+> - Many jobs today require computer skills and the ability to work with digital tools. `[真题]`
+> - He was valued for his skill in raising money for the organisation. `[外刊]`
 
 
 ---

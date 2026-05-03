@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**脚本，剧本**==；②==**笔迹，手写体**==；③文字体系，字母表；
-**v.** ①==**为……写脚本**==；②照稿子念；
+**n.** ①==**脚本，剧本**== `film/TV script` [通用]；②==**笔迹，手写体**== `doctor's script` [通用]；③文字体系，字母表；
+**v.** ①==**为……写脚本**== `script a speech/film` [正式]；②照稿子念；
 
 > [!tip] 原型义
 > **原型义**：书写下来的东西（源自拉丁语 *scripta*，*scribere* 的过去分词，意为"写下的东西"）
@@ -141,8 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, a scripted approach."（是时候重新构思工作方式了，因为我们仍然依赖一种非常20世纪的工作观念，一种照本宣科的方法。——2014年英语二Text 3）
-> - "Jenny's writing a film script."（珍妮在写一个电影脚本。——考研翻译高频句式）
+> - "It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, a scripted approach." `[真题]`
+> - "Jenny's writing a film script." `[真题]`
+> - "They gave me the script and I only had five lines." `[语料库]`
 
 
 ---

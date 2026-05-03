@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**酱汁，调味汁**==；②==**（增加趣味或风味的）佐料**==（引申义）；
-**v.** ①==**调味，加酱汁**==；
+**n.** ①==**酱汁，调味汁**== `N of N` `adj N`；②==**（增加趣味或风味的）佐料**== `the N of N`；
+**v.** ①==**调味，加酱汁**== `V N with N`；
 
 > [!tip] 原型义
 > **原型义**：盐腌的食物（调味品的总称）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The chef's signature dish was a perfectly roasted chicken served with a rich, savory sauce that delighted every diner."（厨师的招牌菜是一道烤得恰到好处的鸡肉，配以浓郁美味的酱汁，令每位食客赞不绝口——考研翻译饮食文化话题相关表达）
-> - "As the proverb goes, 'What's sauce for the goose is sauce for the gander' — the same rules should apply to everyone regardless of their status."（正如谚语所说，'适用于甲的也适用于乙'——同样的规则应该适用于所有人，不论其地位如何——考研翻译谚语相关表达）
+> - "Pasta with tomato sauce is one of the most popular dishes in Italian cuisine." `[COCA-ACAD]`
+> - "What are all the things that go in the pot to make the special sauce?" `[COCA-SPOKEN]`
+> - "He poured a rich chocolate sauce over the ice cream." `[LDOCE]`
 
 
 ---

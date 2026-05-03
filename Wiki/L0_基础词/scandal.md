@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**丑闻，丑事**==（引起公愤的不道德行为）；②==**流言蜚语，诽谤**==；③==**令人震惊的事**==；
+**n.** ①==**丑闻，丑事**== `a adj N` `be involved in a N`；②==**流言蜚语，诽谤**== `spread N`；③==**令人震惊的事**== `it is a N that...`；
 
 > [!tip] 原型义
 > **原型义**：使人跌倒的陷阱（导致名誉受损的事件）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The corporate accounting scandal not only destroyed the company's reputation but also shook public confidence in the entire financial system."（企业会计丑闻不仅摧毁了公司的声誉，还动摇了公众对整个金融体系的信心——考研阅读商业话题相关表达）
-> - "It is a scandal that in the 21st century, millions of children still lack access to basic education and healthcare."（在21世纪，仍有数百万儿童无法获得基础教育和医疗保健，这真是令人震惊的事——考研翻译社会话题相关表达）
+> - "The college has recently been involved in a drugs scandal." `[LDOCE]`
+> - "He has been at the centre of a political scandal." `[LDOCE]`
+> - "A major police corruption scandal has shaken public confidence in the force." `[COCA-NEWS]`
 
 
 ---

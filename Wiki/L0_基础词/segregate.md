@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**隔离，分离**==；②==**歧视，实行种族隔离**==；
+**v.** ①==**隔离，分离**== `segregate A from B` `segregate waste` [通用]；②==**歧视，实行种族隔离**== `segregated schools` `a segregated society` [社会]；
 
 > [!tip] 原型义
 > **原型义**：从群体中分开（把个体从群体中分离出来）
@@ -131,8 +131,9 @@ se-(=apart，分开，与 [[se-]] 相关) + greg(=flock/herd，群，拉丁语 *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Population Registration Act of 1950 categorized and segregated the people of South Africa."（1950年的《人口登记法》对南非人民进行了分类和隔离。——剑桥英语语料库）
-> - "Black residents were segregated from white residents in the area."（在该地区，黑人居民被与白人居民隔离开来。——剑桥英语语料库）
+> - "The Population Registration Act of 1950 categorized and segregated the people of South Africa." `[真题]`
+> - "Black residents were segregated from white residents in the area." `[真题]`
+> - "At school the girls were segregated from the boys in the classroom." `[真题]`
 
 
 ---

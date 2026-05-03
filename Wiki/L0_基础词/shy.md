@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**害羞的，腼腆的**==；②胆怯的；③缺乏的，不足的（be shy of）；
-**vi.** ①==**（马）受惊，惊退**==；②投掷（shy at）；
+**adj.** ①==**害羞的，腼腆的**== `a shy smile; be too shy to` [中性]；②胆怯的；③缺乏的，不足的（be shy of）；
+**vi.** ①==**（马）受惊，惊退**== `the horse shied at the fence` [中性]；②投掷（shy at）；
 **n.** 投掷；受惊；
 
 > [!tip] 原型义
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us."（研究人员还认为，当我们回避与陌生人的随意互动时，这通常是因为一种错误的焦虑——担心他们可能不想和我们说话。——高考英语北京卷）
-> - "He is a shy man, but he is not afraid of anything or anyone."（他是一个害羞的人，但他无所畏惧。——高考英语北京卷）
+> - "The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us." `[真题]`
+> - "He is a shy man, but he is not afraid of anything or anyone." `[真题]`
+> - "She was too shy to ask anyone for help." `[柯林斯词典]`
 
 
 ---

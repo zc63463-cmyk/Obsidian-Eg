@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**责骂，斥责**==；②唠叨地数落；
+**v.** ①==**责骂，斥责**== `scold sb. for doing sth.` [通用]；②唠叨地数落；
 **n.** ①爱责骂的人；②责骂；
 
 > [!tip] 原型义
@@ -134,8 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I was scolded by the teacher for being late."（我因迟到被老师责骂。——考研翻译高频句式）
-> - "His mother scolded him for breaking her favourite vase."（他妈妈因为他打碎了她最喜欢的花瓶而责骂他。——考研阅读句式）
+> - "I was scolded by the teacher for being late." `[真题]`
+> - "Her father scolded her for upsetting her mother." `[语料库]`
+> - "Don't scold him for doing badly at school, he's doing his best." `[语料库]`
+> - "Since infancy, his father scolded him when he didn't stand up for himself." `[语料库]`
 
 
 ---

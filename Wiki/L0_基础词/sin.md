@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**罪过，罪孽**==；②过错，过失；
-**v.** ①==**犯罪，违犯**==；
+**n.** ①==**罪过，罪孽**== `commit a sin; deadly sin; original sin` [正式/宗教]；②过错，过失；
+**v.** ①==**犯罪，违犯**== `sin against the law/nature` [正式]；
 
 > [!tip] 原型义
 > **原型义**：罪过，过错（违背道德/宗教规范的行为）
@@ -137,8 +137,9 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a sin to waste food when so many people are starving."（当这么多人挨饿时，浪费食物是一种罪过——考研英语写作高频表达）
-> - "The love of money is the root of all evil, but it is also a sin to be indifferent to poverty."（对金钱的贪爱是万恶之源，但对贫困漠不关心也是一种罪过——考研英语阅读）
+> - "It is a sin to waste food when so many people are starving." `[外刊语料]`
+> - "He knew that he had committed a terrible sin." `[牛津词典]`
+> - "You have sinned against God." `[朗文词典]`
 
 
 ---

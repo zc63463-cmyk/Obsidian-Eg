@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**收缩，缩小**==；②退缩，畏缩；③（衣服）缩水；
+**vi.** ①==**收缩，缩小**== `the tumour shrank; shrinking market` [中性]；②退缩，畏缩；③（衣服）缩水；
 **vt.** ①使收缩，使缩小；②（因害怕而）退缩；
 **n.** 收缩，缩小；精神科医生（口语）；
 
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tumour had shrunk to the size of a pea."（肿瘤已经缩小到豌豆大小。——牛津词典例句）
-> - "The market for their products is shrinking."（他们产品的市场正在萎缩。——牛津词典例句）
+> - "The tumour had shrunk to the size of a pea." `[牛津词典]`
+> - "The market for their products is shrinking." `[牛津词典]`
+> - "Treatment can shrink a tumour." `[朗文词典]`
 
 
 ---

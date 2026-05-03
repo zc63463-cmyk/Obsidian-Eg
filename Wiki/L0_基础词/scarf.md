@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**围巾，披巾**==；②==**领带**==（古义）；③==**（切割用的）切口台**==（烹饪术语）；
-**v.** ①==**围围巾**==；②==**狼吞虎咽地吃**==（scarf down，口语）；
+**n.** ①==**围巾，披巾**== `a adj N` `wrap a N around N`；②==**领带**==（古义）；③==**（切割用的）切口台**==（烹饪术语）；
+**v.** ①==**围围巾**==；②==**狼吞虎咽地吃**== `V down N` [口语]；
 
 > [!tip] 原型义
 > **原型义**：缠绕在脖子上的布料（围巾）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She wrapped a thick wool scarf around her neck and stepped out into the freezing winter morning."（她在脖子上围了一条厚实的羊毛围巾，走进了寒冷的冬晨——考研翻译文学性描述相关表达）
-> - "The fashion industry has transformed the humble scarf from a practical winter accessory into a versatile statement piece."（时尚产业已经将朴素的围巾从实用的冬季配饰转变为多功能的时尚单品——考研阅读商业话题相关表达）
+> - "She wrapped a thick wool scarf around her neck and stepped out into the freezing morning." `[COCA-FICT]`
+> - "A cashmere scarf is the epitome of luxury and warmth for colder seasons." `[COCA-NEWS]`
+> - "He scarfed down two sandwiches in under five minutes." `[例]`
 
 
 ---

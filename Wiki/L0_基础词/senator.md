@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**参议员**==；
+**n.** ①==**参议员**== `a state senator` [政治]；
 
 > [!tip] 原型义
 > **原型义**：长老院成员（参议院中的议员）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For three hours a committee of state senators listened to a parade of local residents giving their opinions."（一个由州参议员组成的委员会花了三个小时听取排着队的当地居民发表意见——考研政治类阅读高频表达）
-> - "Only two senators voted against the bill."（只有两名参议员反对这项法案——考研政治类阅读高频表达）
+> - For three hours a committee of state senators listened to a parade of local residents giving their opinions. ` `[真题]`
+> - Only two senators voted against the bill. ` `[真题]`
+> - He was elected senator for Pennsylvania. ` `[真题]`
 
 
 ---

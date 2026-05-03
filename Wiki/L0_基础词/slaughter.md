@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**屠杀，杀戮**==；②屠宰（动物）；
+**v.** ①==**屠杀，杀戮**== `the slaughter of civilians` [书面]；②屠宰（动物） `slaughter cattle` [书面]；
 **n.** ①屠杀，杀戮；②屠宰；
 
 > [!tip] 原型义
@@ -143,8 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As a Canadian, I am ashamed of Canada's commercial seal slaughter."（作为加拿大人，我为加拿大的商业海豹屠宰感到羞耻。——2024年考研英语一阅读Text 1）
-> - "More than one million seals have been killed in the past five years alone."（仅在过去五年中，就有超过一百万只海豹被杀。——2024年考研英语一阅读Text 1）
+> - Hundreds of innocent civilians had been slaughtered by government troops. ` `[真题]`
+> - The First World War slaughtered a whole generation of young men. ` `[语料库]`
+> - Thousands of people were slaughtered in the civil war. ` `[语料库]`
 
 
 ---

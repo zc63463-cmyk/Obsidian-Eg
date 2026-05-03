@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**碎片，小块**==；②==**废料，废弃材料**==；③残余，少量；④打架，口角；
+**n.** ①==**碎片，小块**== `scraps of sth.` [通用]；②==**废料，废弃材料**== `scrap metal/yard` [通用]；③残余，少量；④打架，口角；
 **v.** ①废弃，抛弃；②打架；
 
 > [!tip] 原型义
@@ -142,8 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Physics and biology once followed similar practices and advanced only when they discarded them."（物理学和生物学一度使用类似的方法，而且当它们放弃这些方法后才得以向前发展。——2002年考研翻译，discard 与 scrap 同义）
-> - "Not a scrap of evidence was found to support the claim."（没有找到一丝证据来支持这个说法。——考研阅读高频表达）
+> - "The bank has scrapped its plans for a property division." `[语料库]`
+> - "Not a scrap of evidence was found to support the claim." `[真题]`
+> - "The car would have cost so much to repair that I decided to scrap it." `[语料库]`
+> - "He obtained every scrap of information available." `[语料库]`
 
 
 ---

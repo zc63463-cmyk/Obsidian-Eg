@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**滑雪**==；
+**v.** ①==**滑雪**== `go skiing/ski down the hill` [通用]；
 **n.** ①滑雪板；
 
 > [!tip] 原型义
@@ -142,8 +142,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I bought a new pair of skis at the supermarket on top of the mountain."（我在山顶的超市里重新买了一副滑雪板。——常见英语语料）
-> - "He skied down the hill at an incredible speed."（他以惊人的速度滑雪下山。——常见英语语料）
+> - We used to ski before noon and then take a long lunch at the lodge. `[外刊]`
+> - The ski resort offers a variety of services including snowmaking equipment for the slopes. `[外刊]`
+> - There are some nice gentle slopes that beginners can easily ski down. `[外刊]`
 
 
 ---

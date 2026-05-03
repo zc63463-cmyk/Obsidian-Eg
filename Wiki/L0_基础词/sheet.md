@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**薄片，薄板**==；②床单；③纸张，文件；④一大片（水/火/冰等）；
+**n.** ①==**薄片，薄板**== `a sheet of paper/ice/water` [日常]；②床单；③纸张，文件；④一大片（水/火/冰等）；
 **v.** 覆盖，铺开；
 
 > [!tip] 原型义
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The busy streets in Paris were uneven and caked in thick mud, but there was always a breathtaking sight to see in the shop windows."（巴黎繁忙的街道崎岖不平，覆盖着厚厚的泥巴，但和平街糕点店的橱窗里总有令人叹为观止的景象。——语料库例句，含 sheet 相关表达）
-> - "She turned as white as a sheet when she heard the news."（听到这个消息时，她面色苍白如纸。——英语常用表达）
+> - "A sheet of ice covered the lake." `[真题]`
+> - "Sheets of rain slanted across the road." `[真题]`
+> - "A sheet of flame shot up into the air immediately after the explosion." `[真题]`
 
 
 ---

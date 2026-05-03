@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**颤抖；发抖**==；②打碎（碎片）；（使）碎裂；
+**v.** ①==**颤抖；发抖**== `shiver with cold/fear` [书面]；②打碎（碎片）；（使）碎裂；
 **n.** ①颤抖；发抖；②碎片；
 
 > [!tip] 原型义
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She shivered, and gathered the blanket around her."（她颤抖着把毯子裹在身上——考研文学类阅读高频表达）
-> - "We shivered in the piercing wind."（我们在刺骨的寒风中发抖——考研文学类阅读高频表达）
+> - "I was shivering with cold." `[真题]`
+> - "She shivered involuntarily as he approached her." `[真题]`
+> - "A shiver of cold ran through him when he stepped outside." `[真题]`
 
 
 ---

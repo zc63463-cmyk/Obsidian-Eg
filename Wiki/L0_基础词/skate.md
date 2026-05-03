@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**滑冰，滑滑板**==；②溜过，滑过；
+**v.** ①==**滑冰，滑滑板**== `go skating/ice skate` [通用]；②溜过，滑过；
 **n.** ①冰鞋，滑冰鞋；
 
 > [!tip] 原型义
@@ -144,8 +144,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I love to swim, but sometimes I prefer to skate."（我喜欢游泳，但有时我更愿意滑冰。——常见英语语料）
-> - "It took him only three days to learn to skate."（他仅用了三天就学会了滑冰。——常见英语语料）
+> - When the lake freezes over, we can go skating on it. `[外刊]`
+> - He politely skated over the issue rather than addressing it directly. `[真题]`
+> - The United States is skating on very thin ice with this policy decision. `[外刊]`
 
 
 ---

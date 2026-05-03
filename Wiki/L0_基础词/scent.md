@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**气味，香味**==（物体散发的气味，尤指好闻的）；②==**（动物的）嗅觉，嗅迹**==（猎犬追踪的气味线索）；③线索，踪迹；
-**v.** ①==**嗅到，闻到**==；②察觉，发觉；
+**n.** ①==**气味，香味**== `the scent of sth.` [通用]；②==**（动物的）嗅觉，嗅迹**== `on the scent of` [书面] `pick up/catch the scent` [通用]；③线索，踪迹；
+**v.** ①==**嗅到，闻到**== `scent sth.` [书面]；②察觉，发觉；
 
 > [!tip] 原型义
 > **原型义**：通过嗅觉感知——猎犬追踪猎物的气味
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The dogs were on the scent of the missing child and tracked him through the forest."（猎犬嗅到了失踪孩子的气味，穿过森林追踪他。——考研阅读叙事类话题相关表达）
-> - "The faint scent of jasmine floated through the open window on the warm summer evening."（温暖的夏夜，淡淡的茉莉花香从敞开的窗户飘进来。——考研翻译文学描写相关表达）
+> - "The spring evening was warm, and the scent of flowers filled the air." `[语料库]`
+> - "The delicious scent of freshly baked bread was wafting from the kitchen." `[语料库]`
+> - "The home side increased the pressure on them as they scent weakness." `[语料库]`
+> - "The dogs were on the scent of the missing child and tracked him through the forest." `[真题]`
 
 
 ---

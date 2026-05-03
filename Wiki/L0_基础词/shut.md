@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**关闭，关上**==；②关停，关闭（企业等）；③把……关在门外；
+**v.** ①==**关闭，关上**== `shut the door/window; shut up shop` [中性]；②关停，关闭（企业等）；③把……关在门外；
 **adj.** 关闭的；关着的；
 
 > [!tip] 原型义
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The computers immediately shut off the rocket engines."（计算机立即关闭了火箭发动机。——可可查词例句）
-> - "They shut him from their circle."（他们把他排除在他们的圈子外。——可可查词例句）
+> - "The factory was shut down because of the toxic emissions." `[朗文词典]`
+> - "She shut out her friends when she was upset." `[外刊语料]`
+> - "Many small grocers were forced to shut up shop amid the freezing weather." `[剑桥词典]`
 
 
 ---

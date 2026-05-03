@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**部分，段，片**==；②==**细分市场**==；③（几何）线段，弧段；
-**v.** ①分割，划分；
+**n.** ①==**部分，段，片**== `a segment of the population` `a segment of` [通用]；②==**细分市场**== `market segment` `target segment` [商业]；③（几何）线段，弧段 `line segment` [数学]；
+**v.** ①分割，划分 `segment into` `be segmented by` [通用]；
 
 > [!tip] 原型义
 > **原型义**：切割下来的一块（整体被切分后的一个片段）
@@ -132,8 +132,9 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rarely do members of a particular market segment group themselves neatly into a meaningful program target."（一个特定细分市场的成员很少能整齐地将自己组合成一个有意义的项目目标。——考研高频长难句）
-> - "It is in no one's interest to keep a large segment of the population on the margins of society."（将极大一部分人置于社会边缘不符合任何人的利益。——柯林斯语料库）
+> - "Rarely do members of a particular market segment group themselves neatly into a meaningful program target." `[真题]`
+> - "It is in no one's interest to keep a large segment of the population on the margins of society." `[真题]`
+> - "This is a specific segment of the traditional market, and is not in competition with the grape wine market." `[真题]`
 
 
 ---

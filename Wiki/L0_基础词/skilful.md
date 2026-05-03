@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**熟练的，灵巧的**==；②有技巧的；
+**adj.** ①==**熟练的，灵巧的**== `a skilful driver/performer` [通用]；②有技巧的；
 
 > [!tip] 原型义
 > **原型义**：充满技能的（拥有丰富的区分和操作能力）
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She also imagined a skilful closing argument and a winning trial."（她还想象了一场精彩的结案陈词和一场胜诉。——2017年6月六级真题听力Section B）
-> - "Young people who are digital natives are indeed becoming more skilful at separating fact from fiction in cyberspace."（作为数字原住民的年轻人确实越来越擅长在网络空间中辨别真伪。——2018年六级真题）
+> - She also imagined a skilful closing argument and a winning trial. `[真题]`
+> - Young people who are digital natives are indeed becoming more skilful at separating fact from fiction in cyberspace. `[真题]`
+> - Police officers have to be skilful drivers to handle high-speed pursuit situations safely. `[外刊]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**参议院**==；②（某些国家的）上院；③大学评议会；
+**n.** ①==**参议院**== `the Senate` [政治]；②（某些国家的）上院；③大学评议会；
 
 > [!tip] 原型义
 > **原型义**：长老院（由年长智者组成的议事机构）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The good news is that a bill just approved by the House and a bill approved by the Senate Finance Committee would implement or test many reforms that should help slow the rise in medical costs over the long term."（好消息是，众议院刚通过的一项议案和参议院财政委员会通过的一项议案将实施或测试许多改革，这些改革应该有助于长期减缓医疗费用的上涨——2016年6月阅读）
-> - "The Senate bill would create an independent commission to monitor the pilot programs and recommend changes in Medicare's payment policies."（参议院的议案将建立一个独立委员会来监督试点项目，并建议修改医疗保险的支付政策——2016年6月阅读）
+> - The good news is that a bill just approved by the House and a bill approved by the Senate Finance Committee would implement or test many reforms that should help slow the rise in medical costs over the long term. ` `[真题]`
+> - The Senate bill would create an independent commission to monitor the pilot programs and recommend changes in Medicare's payment policies. ` `[真题]`
+> - Senate committees in the next few weeks will challenge whether he had the right to do this. ` `[真题]`
 
 
 ---

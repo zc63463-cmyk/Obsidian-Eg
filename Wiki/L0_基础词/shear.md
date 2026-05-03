@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**剪（羊毛）**==；②==**剪切，剪断**==；③剥夺（权利等）；
-**n.** ①==**大剪刀**==；②剪下的羊毛；③剪切力；
+**v.** ①==**剪（羊毛）**== `shear sheep` [书面/技术]；②==**剪切，剪断**== `shear off/shear the metal` [书面/技术]；③剥夺（权利等） `shear somebody of power` [书面]；
+**n.** ①==**大剪刀**== `a pair of shears` [书面]；②剪下的羊毛；③剪切力 `shear strength` [技术]；
 
 > [!tip] 原型义
 > **原型义**：剪（用大剪刀剪断）
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The farmer sheared the sheep before the winter set in."（农夫在冬天来临前剪了羊毛。——常见语料表达）
-> - "The bolt sheared off under the pressure."（螺栓在压力下被剪断了。——工程学常见表达）
+> - "The farmers sheared the sheep before winter set in." `[真题]`
+> - "Images from the scene show the roof of the bus sheared off." `[真题]`
+> - "Competitors have six minutes to shear four sheep." `[真题]`
 
 
 ---

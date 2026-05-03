@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**雕塑，雕刻作品**==；②雕刻艺术；
+**n.** ①==**雕塑，雕刻作品**== `a marble sculpture` [正式]；②雕刻艺术；
 **v.** ①雕刻，雕塑；
 
 > [!tip] 原型义
@@ -136,8 +136,9 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Those were the halcyon days of Athens (fifth century BC) when she produced her finest poetry and drama, architecture and sculpture."（公元5世纪为雅典的太平盛世，雅典最优秀的诗歌、戏剧、建筑和雕刻均产生于这一时期——柯林斯语料库/考研高频表达）
-> - "In the 1960s, the Italian artist Piero Gilardi began to create hundreds of bright, colorful foam pieces, including small beds of roses and other items as well as a few dozen 'nature carpets'."（20世纪60年代，意大利艺术家皮耶罗·吉拉尔迪开始创作数百件明亮多彩的泡沫作品——2022年考研英语一Text 1）
+> - "Those were the halcyon days of Athens (fifth century BC) when she produced her finest poetry and drama, architecture and sculpture." `[真题]`
+> - "In the 1960s, the Italian artist Piero Gilardi began to create hundreds of bright, colorful foam pieces." `[真题]`
+> - "Isamu Noguchi's Kouros is a statuesque assemblage of eight pink marble slabs joined in a delicate balance that evokes an ancient Greek figural sculpture type." `[语料库]`
 
 
 ---

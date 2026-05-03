@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**修长的，苗条的**==；②微薄的，不足的；③纤细的；
+**adj.** ①==**修长的，苗条的**== `a slender figure / slender fingers` [通用]；②微薄的，不足的 `a slender income / a slender hope` [书面]；③纤细的；
 
 > [!tip] 原型义
 > **原型义**：细长的（又细又长，不粗壮）
@@ -144,8 +144,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A slender hope still flickered within him."（他心中仍闪出一线希望。——常见英语语料）
-> - "She was slender and had long dark hair."（她身材苗条，有一头长长的黑发。——常见英语语料）
+> - She was slender, with delicate wrists and ankles. ` `[语料库]`
+> - He put his hands around her slender waist. ` `[语料库]`
+> - Perhaps my cheerfulness rests on a slender hope. ` `[语料库]`
 
 
 ---

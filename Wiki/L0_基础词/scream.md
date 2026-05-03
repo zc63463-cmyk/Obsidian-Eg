@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**尖叫，惊叫**==；②（风、机器等）发出尖锐刺耳的声音；③大声叫喊；
+**v.** ①==**尖叫，惊叫**== `scream in terror/with pain` [通用]；②（风、机器等）发出尖锐刺耳的声音；③大声叫喊；
 **n.** ①尖叫声；②极其滑稽的人/事；
 
 > [!tip] 原型义
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People ran for the exits, screaming out in terror."（人们跑向出口，恐惧地尖叫着。——考研阅读高频表达）
-> - "Through the smoke, the rescuers could hear people screaming for help."（透过烟雾，救援人员能听到人们尖叫求救。——考研翻译高频句式）
+> - "People ran for the exits, screaming out in terror." `[真题]`
+> - "Through the smoke, the rescuers could hear people screaming for help." `[真题]`
+> - "When he woke in the night he would scream in terror and beg his parents to let him sleep in their room." `[语料库]`
 
 
 ---

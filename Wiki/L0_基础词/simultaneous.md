@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**同时的，同时发生的**==；②==**同步的**==；
+**adj.** ①==**同时的，同时发生的**== `simultaneous attacks/events; simultaneous with` [中性/正式]；②==**同步的**== `simultaneous translation/interpretation` [中性/正式]；
 
 > [!tip] 原型义
 > **原型义**：在同一时间发生的（simul-同一 + -taneous时间后缀）
@@ -130,8 +130,9 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some hypotheses fail to account for simultaneous extinctions on land and in the seas."（有些假说不能解释同时发生在陆地和海洋的灭绝——考研英语阅读）
-> - "With simultaneous interpreting, you start translating almost as soon as the other person starts speaking."（在做同声传译时，你几乎是在对方开始说话的同时就开始翻译——考研英语翻译）
+> - "Some hypotheses fail to account for simultaneous extinctions on land and in the seas." `[真题]`
+> - "With simultaneous interpreting, you start translating almost as soon as the other person starts speaking." `[真题]`
+> - "The report will be broadcast in Russian with simultaneous English translation." `[剑桥词典]`
 
 
 ---

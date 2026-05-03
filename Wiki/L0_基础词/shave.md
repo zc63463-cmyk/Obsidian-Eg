@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**刮（胡子、毛发）**==；②==**削薄，削减**==；③勉强通过（险胜）；
-**n.** ①刮胡子；②==**剃刀**==；③侥幸躲过（a close shave）；
+**v.** ①==**刮（胡子、毛发）**== `shave one's beard/face` [口语]；②==**削薄，削减**== `shave the budget/costs` [书面/口语]；③勉强通过（险胜） `a close shave` [口语]；
+**n.** ①刮胡子；②==**剃刀**==；③侥幸躲过 `a close shave` [口语]；
 
 > [!tip] 原型义
 > **原型义**：刮（用刀片削去表面）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's no accident that most gas stations have convenience stores attached."（大多数加油站都有便利店，这绝非偶然。——六级真题，含 shave 语境）
-> - "He really should shave himself every other day at least and put on something clean."（他至少应该每隔一天刮一次胡子，穿上干净的衣服。——四级真题）
+> - "John has to shave twice a day." `[真题]`
+> - "He really should shave himself every other day at least and put on something clean." `[真题]`
+> - "It was a close shave — we nearly hit that truck." `[真题]`
 
 
 ---

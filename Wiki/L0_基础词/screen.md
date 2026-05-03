@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**屏幕，荧光屏**==；②==**筛选，审查**==；③屏风，隔板；④掩蔽物，屏障；⑤（电影）银幕；
-**v.** ①==**筛选，审查**==；②遮蔽，掩蔽；③放映（电影）；
+**n.** ①==**屏幕，荧光屏**== `phone/computer screen` [通用]；②==**筛选，审查**== `screen for sth.` [正式]；③屏风，隔板；④掩蔽物，屏障；⑤（电影）银幕；
+**v.** ①==**筛选，审查**== `screen passengers/candidates` [正式]；②遮蔽，掩蔽；③放映（电影）；
 
 > [!tip] 原型义
 > **原型义**：用来遮挡或显示的屏障（源自古法语 *escrin*，屏风/遮蔽物，后来引申为显示信息的屏幕）
@@ -143,8 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With so much focus on children's use of screens, it's easy for parents to forget about their own screen use."（对于儿童使用屏幕产品有如此多的关注，家长很容易忽略他们自己屏幕使用的方式。——2013年考研新题型）
-> - "The documents should be available for public scrutiny."（这些文件须公之于世，交由公众审议。——考研阅读高频表达，scrutiny 与 screen 同源 sc- 词族）
+> - "With so much focus on children's use of screens, it's easy for parents to forget about their own screen use." `[真题]`
+> - "Medical officials will be screening all passengers arriving from affected areas." `[语料库]`
+> - "It is now possible to screen babies for diabetes." `[语料库]`
 
 
 ---

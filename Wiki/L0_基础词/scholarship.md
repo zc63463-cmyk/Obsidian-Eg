@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**奖学金**==；②==**学术，学问**==（学术研究能力或成果）；③学者身份，学者风范；
+**n.** ①==**奖学金**== `win/obtain/receive a scholarship` [书面] `apply for a scholarship` [通用]；②==**学术，学问**== `fine/great scholarship` [书面]；③学者身份，学者风范；
 
 > [!tip] 原型义
 > **原型义**：学者的身份与学问
@@ -129,8 +129,10 @@ schol-（=school，源自希腊语 *skholē* 闲暇/学校）+ -ar（名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was awarded a full scholarship to study at Oxford University."（她获得了牛津大学的全额奖学金。——考研阅读教育话题高频表达）
-> - "His latest book demonstrates the depth of his scholarship and his mastery of the subject."（他的最新著作展示了他深厚的学术功底和对该学科的精通。——考研翻译学术话题相关表达）
+> - "She was awarded a full scholarship to study at Oxford University." `[真题]`
+> - "He won a scholarship to Cambridge." `[语料库]`
+> - "Her scholarship awards helped her complete her college education." `[语料库]`
+> - "His latest book demonstrates the depth of his scholarship and his mastery of the subject." `[真题]`
 
 
 ---
