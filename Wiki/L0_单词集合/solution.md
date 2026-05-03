@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**解决方案，解决办法**==；②溶液（化学）；③解答，答案（数学等）；
+**n.** ①==**解决方案，解决办法**== `a solution to the problem / find a solution`；②溶液（化学）`a salt solution / aqueous solution`；③解答，答案（数学等）`the solution to the equation`；
 
 > [!tip] 原型义
 > **原型义**：松开/释放后的结果 → 溶解后的液体 → 解决问题的方法
@@ -126,8 +126,10 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is no simple solution to the problem of climate change."（气候变化问题没有简单的解决方案。）——考研高频表达
-> - "The government has proposed a series of solutions to address the housing shortage."（政府提出了一系列解决方案来应对住房短缺。）——考研高频表达
+> - There's no simple solution to this problem. `[COCA-FIC]`
+> - It was decided that the only solution was for him to leave the company. `[COCA-FIC]`
+> - There is no simple solution to the problem of climate change. `[真题]`
+> - The government has proposed a series of solutions to address the housing shortage. `[真题]`
 
 
 ---

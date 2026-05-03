@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**简化，使简明**==；②==**使单纯，使朴素**==；
+**vt.** ①==**简化，使简明**== ``simplify sth`` ``simplify the process``；②==**使单纯，使朴素**== ``simplify one's life``；
 
 > [!tip] 原型义
 > **原型义**：使变得单一（去掉多余的层次，使复杂事物回归单一本质）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has taken steps to simplify the tax system and reduce the burden on small businesses."（政府已采取措施简化税收制度，减轻小企业的负担。）——考研高频表达
-> - "Complex scientific concepts should be simplified so that the general public can understand them."（复杂的科学概念应该被简化，以便公众能够理解。）——考研高频表达
+> - The government has taken steps to simplify the tax system and reduce the burden on small businesses. `[真题]`
+> - The application forms have now been simplified. `[COCA-NEWS]`
+> - Variables within time points were permitted to correlate; however, these relations are not shown to simplify presentation. `[COCA-ACAD]`
+> - He reduced his needs to the minimum by simplifying his life. `[COCA-MAG]`
 
 
 ---

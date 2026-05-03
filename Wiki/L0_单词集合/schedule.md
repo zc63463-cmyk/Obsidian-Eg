@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**时间表，日程表**==；②==**计划表，进度表**==；③==**清单**==；
-**vt.** ①==**安排，排定**==；②==**将...列入计划表**==；
+**n.** ①==**时间表，日程表**== `a busy schedule / train schedule`；②==**计划表，进度表**== `on schedule / ahead of schedule`；③==**清单**== `a schedule of charges`；
+**vt.** ①==**安排，排定**== `schedule a meeting / be scheduled for`；②==**将...列入计划表**== `add sth to the schedule`；
 
 > [!tip] 原型义
 > **原型义**：纸条、便笺（源自晚期拉丁语 schedula，"一小片纸"）
@@ -138,10 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "completed ahead of schedule"（提前完成）——考研阅读极常见，描述项目进度
-> - "behind schedule"（落后于计划）——考研阅读/翻译中常见，描述延误
-> - "a tight schedule"（紧凑的日程）——考研写作中描述忙碌生活的常用表达
-> - "scheduled to take place next month"（定于下月举行）——考研翻译中常见被动语态
+> - The project will be completed on schedule this summer. `[COCA-ACAD]`
+> - The new bridge has been finished two years ahead of schedule. `[COCA-ACAD]`
+> - Managers need to know whether work is proceeding on schedule. `[COCA-ACAD]`
+> - Filming began on schedule. `[COCA-ACAD]`
 
 ---
 

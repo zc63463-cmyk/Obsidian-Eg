@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**坐**==；②==**位于**==；③==**参加考试**==
+**vi.** ①==**坐**== ``sit down`` ``sit on a chair``；②==**位于**== ``sit at/on`` ``The house sits on a hill``；③==**参加考试**== ``sit for an exam``
 
 > [!tip] 原型义
 > **原型义**：坐（身体下半部接触支撑物，保持上身直立的基本姿势）
@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please sit down and make yourself comfortable."（请坐下，让自己舒服些）——日常交际
-> - "The village sits at the foot of the mountain."（村庄坐落在山脚下）——注意 sit 作"位于"的用法
-> - "Students are required to sit for a final examination."（学生必须参加期末考试）——教育话题
-> - "She sat up late studying for the exam."（她熬夜学习备考）——注意 sit up 作"熬夜"的用法
+> - The village sits at the foot of the mountain. `[COCA-FICT]`
+> - Students are required to sit for a final examination at the end of the semester. `[COCA-ACAD]`
+> - She sat up late studying for the exam. `[COCA-FICT]`
+> - The house sits well up on the slope, overlooking the valley. `[COCA-MAG]`
 
 ---
 

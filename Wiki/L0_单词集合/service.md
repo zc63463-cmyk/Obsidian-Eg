@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**服务，公共服务**== ; ②==**服务行业**== ; ③==**维修，保养**== ; ④==**（宗教）仪式**== ;
-**vt.** ①==**维修，保养**== ; ②==**为…提供服务**== ;
+**n.** ①==**服务，公共服务**== `public service`; ②==**服务行业**== `service industry`; ③==**维修，保养**== `car service`; ④==**（宗教）仪式**== `religious service`;
+**vt.** ①==**维修，保养**== `service a car/machine`; ②==**为…提供服务**== `service an area`;
 
 > [!tip] 原型义
 > **原型义**：为他人提供帮助的行为，服务的行为或状态
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation."（在经济危机爆发前十年里，美国人的法律服务花费增长速度是通货膨胀速度的两倍。）——2014考研阅读Text2
-> - "The plane has been kept in service far longer than originally intended."（这架飞机已经超期服役很长时间了。）——考研高频表达
+> - `During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation.` `[真题]`
+> - `She has devoted her life to public service.` `[COCA-ACAD]`
+> - `The plane has been kept in service far longer than originally intended.` `[COCA-ACAD]`
 
 ---
 

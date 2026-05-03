@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**展示，给……看**==；②==**表明，证明**==；③==**引导，带领**==；④==**表现，显露**==；
-**vi.** ①==**显现，看得见**==；
-**n.** ①==**展览，展出**==；②==**演出，表演**==；③==**炫耀，卖弄**==；
+**vt.** ①==**展示，给……看**== `show sb sth / show sth to sb`；②==**表明，证明**== `show that... / the data shows...`；③==**引导，带领**== `show sb around / show sb to the door`；④==**表现，显露**== `show courage / show interest`；
+**vi.** ①==**显现，看得见**== `show through / show up`；
+**n.** ①==**展览，展出**== `on show / art show`；②==**演出，表演**== `talk show / fashion show`；③==**炫耀，卖弄**== `show off`；
 
 > [!tip] 原型义
 > **原型义**：让别人看到、注视某物
@@ -140,9 +140,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Research shows that regular exercise can significantly reduce stress."（研究表明，规律运动能显著减轻压力）——考研阅读学术类高频搭配
-> - "The data clearly show that her claims are false."（数据清楚地表明她的说法是错误的）——论证类语境
-> - "He showed great courage in the face of danger."（他在危险面前表现出极大的勇气）——品质描写类语境
+> - Research shows that a high-fibre diet may protect you from bowel cancer. `[COCA-ACAD]`
+> - These figures show an increase of over one million in unemployment. `[COCA-ACAD]`
+> - New airline technology was shown to be improving fuel consumption. `[COCA-ACAD]`
+> - He showed great courage in the face of danger. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**科学的**==；②==**有系统的，精确的**==；③==**合乎科学方法的**==；
+**adj.** ①==**科学的**== `scientific research / scientific discovery`；②==**有系统的，精确的**== `a scientific approach to management`；③==**合乎科学方法的**== `scientific method / scientific evidence`；
 
 > [!tip] 原型义
 > **原型义**：与知识/科学有关的（源自拉丁语 scientia + -fic，"产生知识的"）
@@ -136,10 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "scientific research"（科学研究）——考研阅读极高频搭配，学术类话题
-> - "scientific evidence"（科学证据）——考研阅读中法律/医学/环保类话题
-> - "the scientific community"（科学界）——考研翻译/阅读中描述学术群体
-> - "a scientific approach to the problem"（解决问题的科学方法）——考研写作中可用的高级表达
+> - Even today, the scientific method involves experimentation that almost always necessitates some amount of data collection. `[COCA-ACAD]`
+> - In 1953, James Watson and Francis Crick announced to the scientific world that they had solved the puzzle. `[COCA-ACAD]`
+> - Scientific research has shown that exposure to ultraviolet radiation increases the mutation rate in bacteria. `[COCA-ACAD]`
+> - The scientific community has raised concerns about the environmental impact of the proposed policy. `[COCA-ACAD]`
 
 ---
 

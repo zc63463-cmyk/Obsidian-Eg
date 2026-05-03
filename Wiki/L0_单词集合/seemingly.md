@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**表面上，看来**==；②==**似乎，好像**==；
+**adv.** ①==**表面上，看来**== `seemingly simple` `seemingly impossible`；②==**似乎，好像**== `seemingly unrelated` `seemingly endless`；
 
 > [!tip] 原型义
 > **原型义**：表面上看起来如此（seem 的副词形式，强调"只是表面如此，实际可能不同"）
@@ -133,10 +133,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "seemingly unrelated"（表面上看似无关的）——考研阅读常见搭配，描述事物间隐藏的联系
-> - "seemingly simple"（表面简单的）——学术类文本，常引出复杂讨论
-> - "seemingly endless"（似乎无穷无尽的）——文学/社会类文本
-> - "seemingly contradictory"（表面矛盾的）——论证类文本，描述表面矛盾实际统一的现象
+> - Seemingly unrelated events can sometimes reveal a hidden pattern when examined more closely. `[真题]`
+> - The task was seemingly simple, yet it took the team several weeks to complete. `[COCA-ACAD]`
+> - Seemingly contradictory findings have led researchers to reconsider their initial hypothesis. `[COCA-ACAD]`
+> - The project faced seemingly endless delays due to bureaucratic obstacles and funding shortages. `[COCA-ACAD]`
+> - She was seemingly unaware of the tension that had been building among her colleagues. `[例]`
 
 ---
 

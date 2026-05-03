@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**锋利的、锐利的**== ; ②急剧的、骤然的 ; ③敏锐的、机敏的 ; ④尖锐的、刺耳的
-**adv.** ①准时地（sharp at 5 o'clock）
+**adj.** ①==**锋利的、锐利的**== `a sharp knife` ; ②急剧的、骤然的 `a sharp increase / a sharp drop` ; ③敏锐的、机敏的 `a sharp mind / a sharp contrast` ; ④尖锐的、刺耳的 `a sharp criticism / a sharp pain`
+**adv.** ①准时地 `at 5 o'clock sharp`
 
 > [!tip] 原型义
 > **原型义**：锋利的、锐利的（刀刃等能切割物体的物理特性）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "There has been a sharp increase in the number of students applying for the program."（申请该项目的学生数量急剧增加。）——考研阅读真题
-> - "She has a sharp mind and can quickly grasp complex concepts."（她头脑敏锐，能迅速理解复杂的概念。）——考研高频表达
+> - There has been a sharp increase in the number of students applying for the program. `[真题]`
+> - She has a sharp mind and can quickly grasp complex concepts. `[真题]`
+> - The group reported a sharp decline in full-year profits. `[COCA-ACAD]`
+> - The shares opened at 28p yesterday, in sharp contrast to a high of 233p in August 1988. `[COCA-ACAD]`
 
 ---
 

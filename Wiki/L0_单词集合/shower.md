@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阵雨，阵雪**==；②==**淋浴（器）**==；③==**一大批，一阵（礼物、赞扬等）**==；
-**vi.** ①==**下阵雨**==；②==**淋浴**==；
-**vt.** ①==**大量给予，倾注**==；②==**洒满，大量抛洒**==；
+**n.** ①==**阵雨，阵雪**== `a heavy shower / scattered showers`；②==**淋浴（器）**== `take a shower / shower gel`；③==**一大批，一阵（礼物、赞扬等）**== `a shower of gifts / a shower of praise`；
+**vi.** ①==**下阵雨**== `it showered all afternoon`；②==**淋浴**== `shower before swimming`；
+**vt.** ①==**大量给予，倾注**== `shower sb with gifts / praise`；②==**洒满，大量抛洒**== `shower sb with champagne`；
 
 > [!tip] 原型义
 > **原型义**：短时间突然降下的大量雨水
@@ -136,9 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was showered with awards for her outstanding contribution."（她因杰出贡献而荣获大量奖项）——考研阅读常见搭配
-> - "A sudden shower forced us to take shelter."（一阵突如其来的阵雨迫使我们寻找避雨处）——天气/生活类语境
-> - "The audience showered the performer with applause."（观众向表演者报以热烈的掌声）——文化/表演类语境
+> - She was showered with awards for her outstanding contribution. `[COCA-ACAD]`
+> - A sudden shower forced us to take shelter. `[例]`
+> - She shook the bottle violently and showered us with champagne. `[COCA-ACAD]`
+> - I heard a massive explosion, and seconds later fragments of glass were showering down on us. `[COCA-ACAD]`
 
 ---
 

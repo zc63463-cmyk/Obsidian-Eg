@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**简单地，简明地**==；②==**仅仅，只不过**==；③==**简直，完全**==（强调）；④==**朴素地，自然地**==；
+**adv.** ①==**简单地，简明地**== ``simply put`` ``explain sth simply``；②==**仅仅，只不过**== ``simply because`` ``is simply a matter of``；③==**简直，完全**==（强调）``is simply breathtaking`` ``simply cannot``；④==**朴素地，自然地**== ``live simply``；
 
 > [!tip] 原型义
 > **原型义**：以单一的方式（没有多余修饰地）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The solution to the problem is simply a matter of allocating resources more efficiently."（这个问题的解决方案仅仅是更有效地分配资源的问题。）——考研高频表达
-> - "We cannot simply ignore the growing evidence of environmental degradation."（我们不能简单地忽视环境恶化日益增多的证据。）——考研高频表达
+> - We cannot simply ignore the growing evidence of environmental degradation. `[真题]`
+> - The solution to the problem is simply a matter of allocating resources more efficiently. `[COCA-ACAD]`
+> - To put it simply, at the time, the spot price of oil was far above the forward price. `[COCA-ACAD]`
+> - That is simply not the case, as decades of research have proved. `[COCA-NEWS]`
 
 
 ---

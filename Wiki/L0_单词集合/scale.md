@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**规模**==（事物的大小或范围）；②==**比例，比例尺**==（缩放比例）；③==**刻度，标度**==（测量用的分度）；④==**等级，级别**==（分级体系）；⑤==**鳞，鳞片**==（鱼/爬行动物的鳞）；⑥==**天平**==（称重器具）；
-**v.** ①==**攀登**==（爬上陡峭处）；②==**改变……的大小**==（按比例缩放）；③==**刮去（鱼）的鳞**==；
+**n.** ①==**规模**==（事物的大小或范围）`on a large scale` / `large-scale`；②==**比例，比例尺**==（缩放比例）`draw to scale` / `a scale of 1:10000`；③==**刻度，标度**==（测量用的分度）`the Richter scale`；④==**等级，级别**==（分级体系）`pay scale`；⑤==**鳞，鳞片**==（鱼/爬行动物的鳞）；⑥==**天平**==（称重器具）`the scales of justice`；
+**v.** ①==**攀登**==（爬上陡峭处）`scale a wall/mountain`；②==**改变……的大小**==（按比例缩放）`scale up/down`；③==**刮去（鱼）的鳞**==；
 
 > [!tip] 原型义
 > **原型义**：刻度→规模/比例（来自古诺尔斯语 *skál*，"碗"→称量用的碗→刻度→规模）
@@ -152,12 +152,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The project was carried out on a large scale."（这个项目在大规模上实施）——常见表达
-> - "economies of scale in production"（生产中的规模经济）——经济话题
-> - "The company plans to scale up its operations."（公司计划扩大运营规模）——商业话题
-> - "on a global scale, climate change is the biggest challenge."（在全球范围内，气候变化是最大的挑战）——环境话题
-> - "drawn to a scale of 1:500"（按1:500的比例绘制）——技术/制图话题
-> - "the scales of justice"（正义的天平）——法律/象征表达
+> - Nuclear weapons cause destruction on a massive scale. `[COCA-ACAD]`
+> - The company plans to scale up its operations next year. `[COCA-NEWS]`
+> - We don't yet know the scale of the problem. `[COCA-NEWS]`
+> - Many of the technological advancements have required large-scale production units to justify the investment. `[COCA-ACAD]`
 
 ---
 

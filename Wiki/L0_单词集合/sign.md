@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标志，符号，迹象**==；②招牌，指示牌；③手势，信号；
-**v.** ①==**签名，签署**==；②示意，打手势；
+**n.** ①==**标志，符号，迹象**== `a sign of / show no sign of`；②招牌，指示牌；③手势，信号；
+**v.** ①==**签名，签署**== `sign a contract / sign an agreement`；②示意，打手势；
 
 > [!tip] 原型义
 > **原型义**：带有特定意义的标记或符号
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rising sea level is a clear sign of global warming.（海平面上升是全球变暖的明确迹象。）
-> - Employees are required to sign a confidentiality agreement before joining the company.（员工在加入公司前需要签署保密协议。）
+> - Headaches may be a sign of stress. `[COCA-ACAD]`
+> - The company signed a contract to produce two million doses of the vaccine. `[COCA-ACAD]`
+> - The gloomy weather shows no sign of improving. `[COCA-ACAD]`
+> - The fact that he didn't say "no" immediately is a good sign. `[COCA-ACAD]`
 
 ---
 

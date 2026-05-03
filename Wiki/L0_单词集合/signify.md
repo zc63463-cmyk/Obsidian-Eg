@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**意味着，表示**==；②==**有重要性，有关系**==；③（用动作）表达，表示；
-**vi.** ①==**有意义，要紧**==；
+**vt.** ①==**意味着，表示**== `signify a change / signify that...`；②==**有重要性，有关系**== `it does not signify`；③（用动作）表达，表示；
+**vi.** ①==**有意义，要紧**== `signify nothing / does not signify`；
 
 > [!tip] 原型义
 > **原型义**：使成为标记（用 sign 来表示某种意义）
@@ -135,9 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decline in sales signifies a need for strategic adjustment."（考研英语——销售额的下降意味着需要进行战略调整。）
-> - "Dark clouds on the horizon signify an approaching storm."（CET-6——地平线上的乌云意味着暴风雨即将来临。）
-> - "The gesture of shaking hands signifies mutual respect and trust."（考研英语——握手这一手势意味着相互尊重和信任。）
+> - The recent decline of the stock market does not necessarily signify the start of a recession. `[COCA-ACAD]`
+> - Fever accompanied by a runny nose usually signifies a cold. `[COCA-ACAD]`
+> - The U.N. flag was raised at the airport to signify that control had passed into its hands. `[COCA-ACAD]`
+> - Whether he agrees or not does not signify. `[COCA-ACAD]`
 
 ---
 

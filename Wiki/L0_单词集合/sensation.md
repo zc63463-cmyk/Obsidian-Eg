@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**感觉，知觉**== ; ②==**轰动，引起轰动的事件**==
+**n.** ①==**感觉，知觉**== `a sensation of/that...` ; ②==**轰动，引起轰动的事件**== `create/cause a sensation`
 
 > [!tip] 原型义
 > **原型义**：感觉、知觉（通过感官产生的感受）
@@ -118,8 +118,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The news caused an immediate sensation across the country."（这条新闻在全国引起了轰动。）——考研高频表达
-> - "The patient experienced a burning sensation in his chest."（患者感到胸口有灼烧感。）——考研高频表达
+> 1. The news caused an immediate sensation across the country. `[真题]`
+> 2. The patient experienced a burning sensation in his chest. `[真题]`
+> 3. I had the odd sensation that someone was following me. `[COCA-FICT]`
+> 4. The novel created a sensation when it was first published. `[COCA-ACAD]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**转移，移动**==；②==**改变，转变**==；③==**推卸，转嫁**==；
-**n.** ①==**转变，变化**==；②==**轮班，班次**==；③==**转换，换挡**==；④==**转移（注意力等）**==；
+**v.** ①==**转移，移动**== `shift sth from A to B`；②==**改变，转变**== `shift one's attention / focus`；③==**推卸，转嫁**== `shift the blame onto sb`；
+**n.** ①==**转变，变化**== `a shift in public opinion`；②==**轮班，班次**== `night shift / day shift`；③==**转换，换挡**==；④==**转移（注意力等）**==；
 
 > [!tip] 原型义
 > **原型义**：将东西从一个位置移到另一个位置
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There has been a significant shift in public opinion."（公众舆论发生了重大转变）——考研阅读社会类高频搭配
-> - "The government shifted its focus from economic growth to environmental protection."（政府将重心从经济增长转向环境保护）——政策类话题
-> - "Don't try to shift the blame onto others."（不要试图把责任推给别人）——道德/责任类话题
+> - There has been a significant shift in public opinion. `[真题]`
+> - The government shifted its focus from economic growth to environmental protection. `[真题]`
+> - Don't try to shift the blame onto others. `[真题]`
+> - The paradigm shift in scientific thinking revolutionized the field. `[COCA-ACAD]`
 
 ---
 

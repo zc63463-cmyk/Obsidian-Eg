@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**环境，背景**== ; ②==**（故事的）背景**== ; ③==**设置，调节**== ; ④==**（镶嵌宝石的）底座**== ;
+**n.** ①==**环境，背景**== `a natural/urban setting`; ②==**（故事的）背景**== `the setting of a novel`; ③==**设置，调节**== `change the settings`; ④==**（镶嵌宝石的）底座**== `a ring setting`;
 
 > [!tip] 原型义
 > **原型义**：被放置的背景或环境，某物被"set"（放置）的地方
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The novel is set in a rural setting in the south of England."（这部小说以英格兰南部的乡村为背景。）——考研高频表达
-> - "The classroom setting provides a structured environment for learning."（课堂环境为学习提供了有组织的场所。）——考研高频表达
+> - `The classroom setting provides a structured environment for learning.` `[COCA-ACAD]`
+> - `The novel is set in a rural setting in the south of England.` `[COCA-ACAD]`
+> - `Green spaces are suitable and beneficial settings for improving students' social relations.` `[COCA-ACAD]`
 
 ---
 

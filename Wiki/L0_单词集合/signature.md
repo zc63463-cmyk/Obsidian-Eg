@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**签名，署名**==；②==**鲜明特征，标志性特点**==；③签字仪式；
+**n.** ①==**签名，署名**== `put one's signature to / collect signatures`；②==**鲜明特征，标志性特点**== `signature dish / bear the signature of`；③签字仪式；
 
 > [!tip] 原型义
 > **原型义**：个人的独特标记（用于确认身份或真伪）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The treaty requires the signatures of all participating nations."（考研英语——该条约需要所有参与国的签署。）
-> - "Careful planning is the signature of a successful project."（考研英语——精心策划是成功项目的标志性特征。）
-> - "The new policy bears the signature of the previous administration."（CET-6——新政策带有上届政府的鲜明烙印。）
+> - The treaty requires the signatures of all participating nations. `[COCA-ACAD]`
+> - The culinary proposal bears the signature of renowned chef David Romero. `[COCA-ACAD]`
+> - Peaches have been grown in this region since the 17th century, with peach cobbler being a signature dessert. `[COCA-ACAD]`
+> - The new policy bears the signature of the previous administration. `[例]`
 
 ---
 

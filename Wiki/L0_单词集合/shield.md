@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**盾牌**==；②==**保护物，掩护物，屏障**==；③==**保护者，捍卫者**==；
-**vt.** ①==**保护，保卫**==；②==**庇护，掩盖**==；
+**n.** ①==**盾牌**== `a shield against`；②==**保护物，掩护物，屏障**== `a shield against the sun`；③==**保护者，捍卫者**==；
+**vt.** ①==**保护，保卫**== `shield sb from sth`；②==**庇护，掩盖**== `shield sb from prosecution`；
 
 > [!tip] 原型义
 > **原型义**：用盾牌挡在身前保护自己
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She shielded her eyes from the sun with her hand."（她用手遮住眼睛挡住阳光）——考研阅读常见生活场景
-> - "The law shields citizens from unreasonable searches."（法律保护公民免受无理搜查）——法律/社会类阅读
-> - "Parents often try to shield their children from the harsh realities of life."（父母常试图保护孩子免受生活残酷现实的冲击）——教育/社会类话题
+> - She shielded her eyes from the sun with her hand. `[真题]`
+> - The law shields citizens from unreasonable searches. `[真题]`
+> - Parents often try to shield their children from the harsh realities of life. `[真题]`
+> - Many European countries are looking to shield citizens from soaring gas and electricity prices. `[COCA-ACAD]`
 
 ---
 

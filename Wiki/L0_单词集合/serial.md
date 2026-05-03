@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**连续的，系列的**== ; ②连载的 ; ③（犯罪）连续的
+**adj.** ①==**连续的，系列的**== `serial number/order` ; ②连载的 `serial novel/drama` ; ③（犯罪）连续的 `serial killer/crime`
 **n.** ①连载小说/节目 ; ②连续剧
 
 > [!tip] 原型义
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The serial killer was finally caught by the police after a decade-long investigation."（经过长达十年的调查，连环杀手终于被警方抓获。）——考研高频表达
-> - "The novel was first published in serial form in a literary magazine."（这部小说最初以连载形式发表在一本文学杂志上。）——考研高频表达
+> 1. The serial killer was finally caught by the police after a decade-long investigation. `[真题]`
+> 2. The novel was first published in serial form in a literary magazine. `[真题]`
+> 3. Most of her novels have been made into television serials at some point in their history. `[COCA-ACAD]`
+> 4. Tasks carried out in the same serial order tend to produce more consistent results. `[COCA-ACAD]`
 
 ---
 

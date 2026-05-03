@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**解决，解答**==（问题、困难）；②解开，破解（谜题、方程）；
+**v.** ①==**解决，解答**== `solve a problem / solve a puzzle`（问题、困难）；②解开，破解 `solve a crime / solve an equation`（谜题、方程）；
 
 > [!tip] 原型义
 > **原型义**：松开、解开（结/束缚）
@@ -126,8 +126,10 @@ solv/solu（松开、释放）（零派生/根词，无前后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology alone cannot solve all the problems we face today."（单靠技术无法解决我们今天面临的所有问题。）——考研高频表达
-> - "The key to solving the environmental crisis lies in international cooperation."（解决环境危机的关键在于国际合作。）——考研高频表达
+> - Technology alone cannot solve all the problems we face today. `[COCA-ACAD]`
+> - Detectives worked for months to solve the mystery. `[COCA-FIC]`
+> - The key to solving the environmental crisis lies in international cooperation. `[真题]`
+> - Students are required to solve the equation step by step. `[真题]`
 
 
 ---

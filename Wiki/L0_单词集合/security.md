@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**安全，安全感**==；②==**保障，担保**==；③==**保卫，安保措施**==；④==**证券，有价证券**==（常用复数 securities）；⑤==**抵押品**==；
+**n.** ①==**安全，安全感**== `a sense of security` `national security`；②==**保障，担保**== `job security` `social security`；③==**保卫，安保措施**== `security measures` `security check`；④==**证券，有价证券**== `securities market` `buy securities`；⑤==**抵押品**== `provide security for a loan`；
 
 > [!tip] 原型义
 > **原型义**：免于忧虑的状态或保障措施（secure + -ity → 安全的状态/性质）
@@ -143,11 +143,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "national security"（国家安全）——考研阅读/翻译极高频搭配，政治、科技类文本
-> - "job security"（工作保障）——社会经济类文本，讨论就业问题
-> - "Social Security"（社会保障）——美国社会政策类文本
-> - "securities market"（证券市场）——经济/金融类文本
-> - "food security"（粮食安全）——环境/农业类文本
+> - Everyone has the right to liberty and security of person. `[COCA-ACAD]`
+> - In this age of short-term contracts, job security often seems like a thing of the past. `[COCA-ACAD]`
+> - The government has invested heavily in national security and cyber security. `[真题]`
+> - Food security remains one of the most pressing challenges for developing nations. `[COCA-ACAD]`
+> - The crunch will come when the banks run out of acceptable security to back further loans. `[COCA-ACAD]`
 
 ---
 

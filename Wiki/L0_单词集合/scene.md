@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**场景，现场**==（事件发生的地方或情景）；②==**景色**==（自然或城市的风景）；③==**（戏剧的）一场**==（戏剧/电影中的一个片段）；④==**骚乱，场面**==（口语中的情绪爆发）；
+**n.** ①==**场景，现场**==（事件发生的地方或情景）`the scene of the crime` / `arrive at the scene`；②==**景色**==（自然或城市的风景）`a beautiful scene` / `mountain scene`；③==**（戏剧的）一场**==（戏剧/电影中的一个片段）`Act 1, Scene 2` / `the opening scene`；④==**骚乱，场面**==（口语中的情绪爆发）`make a scene`；
 
 > [!tip] 原型义
 > **原型义**：舞台布景→场景（来自希腊语 *skēnē*，"帐篷、舞台布景"）
@@ -143,11 +143,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police arrived at the scene of the accident within minutes."（警察在几分钟内到达了事故现场）——常见表达
-> - "The opening scene of the film is set in Paris."（电影的开场场景设在巴黎）——影视话题
-> - "Please don't make a scene in public."（请不要在公共场合闹事）——日常口语
-> - "The mountain scene was breathtaking."（山景令人叹为观止）——描写风景
-> - "Behind the scenes, negotiations were already underway."（在幕后，谈判已经在进行中）——政治/商业话题
+> - The play's opening scene takes place in the courtyard. `[COCA-FIC]`
+> - Police are now at the scene of the accident. `[COCA-NEWS]`
+> - The movie's opening scene sets the tone for the entire story. `[COCA-NEWS]`
+> - Behind the scenes, negotiations were already underway. `[COCA-NEWS]`
 
 ---
 

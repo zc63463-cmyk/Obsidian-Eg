@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**酸的；酸味的**==；②坏的；馊的；③脾气坏的；不友好的；
-**v.** ①==**使变酸**==；②使恶化；
+**adj.** ①==**酸的；酸味的**== ``taste sour / a sour taste``；②坏的；馊的；③脾气坏的；不友好的；
+**v.** ①==**使变酸**== ``go sour / sour the relationship``；②使恶化；
 
 > [!tip] 原型义
 > **原型义**：酸的味道，舌头感知到的酸味刺激
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Milk must be kept in a cool place, or else it will go sour."（牛奶必须保存在阴凉的地方，否则就会变酸。）——考研翻译真题
-> - "Year-end is traditionally when many investors decide whether to sell stocks that have gone sour."（年底传统上是许多投资者决定是否抛售表现不佳的股票的时候。）——考研高频表达
+> - Milk must be kept in a cool place, or else it will go sour. `[真题]`
+> - Year-end is traditionally when many investors decide whether to sell stocks that have gone sour. `[真题]`
+> - The economic slump was caused primarily by a sour housing market. `[COCA-ACAD]`
+> - The disagreement over trade tariffs soured relations between the two countries. `[COCA-ACAD]`
 
 
 ---

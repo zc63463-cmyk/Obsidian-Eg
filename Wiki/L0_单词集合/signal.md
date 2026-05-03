@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**信号，暗号**==；②标志，迹象；③（铁路）信号灯，信号机；
-**v.** ①==**发信号，用信号通知**==；②==**标志着，表示**==；
-**adj.** ①==**显著的，重大的**==；
+**n.** ①==**信号，暗号**== `send out a signal / a warning signal`；②标志，迹象；③（铁路）信号灯，信号机；
+**v.** ①==**发信号，用信号通知**== `signal to sb / signal for help`；②==**标志着，表示**== `signal a change / signal that...`；
+**adj.** ①==**显著的，重大的**== `a signal achievement / signal success`；
 
 > [!tip] 原型义
 > **原型义**：传递信息的标记（一种用于远距离传递意义的标记）
@@ -141,9 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government's new policy signals a shift towards renewable energy."（考研英语——政府的新政策标志着向可再生能源的转变。）
-> - "The stock market decline sent a warning signal to investors."（CET-6——股市下跌向投资者发出了警告信号。）
-> - "Social media has become a powerful tool for sending political signals."（考研英语——社交媒体已成为发送政治信号的强大工具。）
+> - The airline confirmed that no distress signal was sent. `[COCA-ACAD]`
+> - The government's new policy signals a shift towards renewable energy. `[COCA-ACAD]`
+> - The stock market decline sent a warning signal to investors. `[COCA-ACAD]`
+> - The red flag went up to signal a halt. `[COCA-ACAD]`
 
 ---
 

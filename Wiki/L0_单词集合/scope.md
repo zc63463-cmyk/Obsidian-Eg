@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（活动、影响等的）范围，领域**==；②==**发挥余地，机会**==；③==**观察仪器（望远镜、显微镜等的缩写）**==；
-**vt.** ①==**评估，调查**==；
+**n.** ①==**（活动、影响等的）范围，领域**== `the scope of the study / within the scope`；②==**发挥余地，机会**== `scope for improvement`；③==**观察仪器（望远镜、显微镜等的缩写）**==；
+**vt.** ①==**评估，调查**== `scope the situation`；
 
 > [!tip] 原型义
 > **原型义**：观察的目标/瞄准的范围（希腊语 *skopos*，目标、观察者）
@@ -137,9 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scope of the investigation has been widened."（调查的范围已经扩大）——考研阅读常见搭配，法律/社会类
-> - "There is still considerable scope for improvement in the education system."（教育体系仍有很大的改进空间）——教育类阅读
-> - "This issue falls outside the scope of our discussion."（这个问题超出了我们讨论的范围）——学术/会议类语境
+> - There is limited scope for further reductions in the workforce. `[COCA-ACAD]`
+> - The scope of the technique was rapidly extended to study other molecules and electrode systems. `[COCA-ACAD]`
+> - Part of this was to examine the scope for local differences in policy and organizational practices. `[COCA-ACAD]`
+> - The scope of the problem is daunting. `[COCA-ACAD]`
 
 ---
 

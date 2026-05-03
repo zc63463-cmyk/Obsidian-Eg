@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**安全的，受保护的**==；②==**牢固的，稳固的**==；③==**有把握的，确定的**==；④==**安心的，无忧虑的**==；
-**vt.** ①==**保护，保卫**==；②==**获得，取得**==；③==**使固定，拴牢**==；④==**担保，确保**==；
+**adj.** ①==**安全的，受保护的**== `a secure place / secure from`；②==**牢固的，稳固的**== `a secure foothold`；③==**有把握的，确定的**== `feel secure about`；④==**安心的，无忧虑的**== `safe and secure`；
+**vt.** ①==**保护，保卫**== `secure the border / secure the building`；②==**获得，取得**== `secure a job / secure a contract`；③==**使固定，拴牢**== `secure the door`；④==**担保，确保**== `secure a victory`；
 
 > [!tip] 原型义
 > **原型义**：免于忧虑，无忧无虑（拉丁语 securus = se-离开 + cura 忧虑 → 没有忧虑）
@@ -144,10 +144,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "secure a job"（获得工作）——考研阅读/翻译高频搭配，强调经过努力获得
-> - "feel secure about the future"（对未来感到安心）——社会/心理类文本
-> - "secure the border"（保卫边境）——政治/新闻类文本
-> - "secure from unauthorized use"（防止未经授权的使用）——科技/法律类文本
+> - He was disappointed by his failure to secure the top job with the bank. `[COCA-ACAD]`
+> - Children need to feel secure in order to do well at school. `[COCA-ACAD]`
+> - The change in the law will make it harder for the police to secure convictions. `[COCA-ACAD]`
+> - The company has established a secure foothold in the market. `[COCA-ACAD]`
 
 ---
 

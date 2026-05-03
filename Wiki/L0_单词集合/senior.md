@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**年长的**==；②==**高级的；资深的**==；③高年级的；**n.** ①年长者；②上级；③高年级学生；
+**adj.** ①==**年长的**== `be senior to sb.`；②==**高级的；资深的**== `senior manager/official/position`；③高年级的 `senior students/year`；**n.** ①年长者；②上级；③高年级学生；
 
 > [!tip] 原型义
 > **原型义**：在年龄或资历上更靠前的（来自拉丁语 senex，"老的"，与 [[tend-tens]] 延伸有关——时间延伸得更长）
@@ -122,8 +122,10 @@ sen-（老的，来自拉丁语 senex）+ -ior（比较级后缀，"更..."）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Senior citizens are entitled to various benefits, including discounted public transportation and healthcare services."（老年人有权享受各种福利，包括公共交通折扣和医疗服务。）——考研高频表达
-> - "She was promoted to a senior management position after ten years of dedicated service."（经过十年的敬业服务，她被提升到高级管理职位。）——考研高频表达
+> 1. Senior citizens are entitled to various benefits, including discounted public transportation and healthcare services. `[真题]`
+> 2. She was promoted to a senior management position after ten years of dedicated service. `[真题]`
+> 3. Criticism has been levelled at senior figures in the industry for their failure to address safety concerns. `[COCA-ACAD]`
+> 4. The more senior students are given some extra responsibilities within the department. `[COCA-ACAD]`
 
 
 ---

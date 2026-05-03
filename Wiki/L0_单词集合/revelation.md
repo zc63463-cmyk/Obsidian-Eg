@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**被揭示的事实；揭露**== ; ②==**启示；顿悟**== ; ③（宗教）启示（首字母大写）
+**n.** ①==**被揭示的事实；揭露**== `a shocking revelation` / `the revelation that...` ; ②==**启示；顿悟**== `be a revelation to sb.` / `come as a revelation` ; ③（宗教）启示（首字母大写）
 
 > [!tip] 原型义
 > **原型义**：被揭示的事物（something revealed）
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Allen's contribution was to take an assumption we all share and reveal its erroneous nature."（艾伦的贡献在于拿出一个我们都认同的假设，并揭示其错误的本质。）——2011考研英语一翻译
-> - "The revelation that the company had been hiding financial losses shocked investors."（公司一直隐瞒财务亏损的消息被揭露后震惊了投资者。）——考研高频表达
+> - His wife divorced him after the revelation that he was having an affair. `[COCA-ACAD]`
+> - Shocking revelations about their private life appeared in the papers. `[COCA-NEWS]`
+> - Allen's contribution was to take an assumption we all share and reveal its erroneous nature. `[真题]`
+> - The revelation that the company had been hiding financial losses shocked investors. `[COCA-NEWS]`
 
 ---
 

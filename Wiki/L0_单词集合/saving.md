@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**节省，节约**==（减少消耗的行为或结果）；②==**存款，储蓄金**==（存起来的钱）；③==**节省额**==（省下的金额）；
-**adj.** ①==**节省的，节约的**==（帮助减少消耗的）；②==**救命的**==（起挽救作用的）；
+**n.** ①==**节省，节约**==（减少消耗的行为或结果）`energy saving` / `cost saving`；②==**存款，储蓄金**==（存起来的钱）`savings account` / `life savings`；③==**节省额**==（省下的金额）`a saving of $X`；
+**adj.** ①==**节省的，节约的**==（帮助减少消耗的）；②==**救命的**==（起挽救作用的）`saving grace`；
 **prep.** ①==**除……之外**==（save 的现在分词形式，口语用法）；
 
 > [!tip] 原型义
@@ -144,11 +144,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She put all her savings into a savings account."（她把所有积蓄都存进了储蓄账户）——金融话题
-> - "energy-saving measures"（节能措施）——环保/政策话题
-> - "a saving of 20% on all items"（所有商品打八折/节省20%）——商业话题
-> - "His sense of humor was his saving grace."（他的幽默感是他唯一的可取之处）——人物评价
-> - "the saving clause in the contract"（合同中的保留条款）——法律话题
+> - We've made huge savings this year with our staffing budget. `[COCA-NEWS]`
+> - They were able to retire on their savings. `[COCA-NEWS]`
+> - At 270 pounds, this represents a significant saving on the usual charge. `[COCA-NEWS]`
+> - His sense of humor was his saving grace. `[COCA-FIC]`
 
 ---
 

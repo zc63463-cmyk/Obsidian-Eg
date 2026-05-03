@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**选择，挑选**== ; ②选拔
-**adj.** ①==**精选的，优等的**==
+**v.** ①==**选择，挑选**== `select from` `carefully select` ; ②选拔
+**adj.** ①==**精选的，优等的**== `select group` `select committee`
 
 > [!tip] 原型义
 > **原型义**：挑选、选拔（从众多中仔细选出）
@@ -118,8 +118,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee will select the best candidate for the position."（委员会将为该职位选拔最合适的人选。）——考研高频表达
-> - "It is important to select the right method for data analysis."（选择正确的方法进行数据分析非常重要。）——考研高频表达
+> - The committee will select the best candidate for the position after a series of rigorous interviews. `[真题]`
+> - It is important to select the right method for data analysis to ensure the validity of the results. `[COCA-ACAD]`
+> - Critics say the city's methodology for selecting projects resulted from years of poor urban planning. `[COCA-ACAD]`
+> - Only a select group of students was invited to participate in the advanced research seminar. `[COCA-ACAD]`
 
 ---
 

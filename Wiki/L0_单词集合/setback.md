@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**挫折，倒退**== ; ②==**阻碍**== ;
+**n.** ①==**挫折，倒退**== `suffer a setback`; ②==**阻碍**== `a setback to sth`;
 
 > [!tip] 原型义
 > **原型义**：被向后推，倒退
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The project suffered a major setback when funding was cut."（当资金被削减时，该项目遭受了重大挫折。）——考研高频表达
-> - "Despite the setback, she remained determined to achieve her goal."（尽管遭遇了挫折，她仍然决心实现自己的目标。）——考研高频表达
+> - `The company did suffer a setback in 2008.` `[COCA-NEWS]`
+> - `The clinical trial suffered a setback due to regulatory issues.` `[COCA-ACAD]`
+> - `After a series of setbacks, she finally completed her degree.` `[COCA-NEWS]`
 
 ---
 

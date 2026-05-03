@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**敏感的，易受影响的**== ; ②==**灵敏的**== ; ③体贴的，善解人意的
+**adj.** ①==**敏感的，易受影响的**== `be sensitive to sth.` ; ②==**灵敏的**== `sensitive instrument/equipment` ; ③体贴的，善解人意的
 
 > [!tip] 原型义
 > **原型义**：敏感的、易受影响的（对刺激反应强烈）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price."（发达国家也不像过去那样依赖石油，因此对油价的波动也不那么敏感了。）——2002考研阅读Text3
-> - "She is very sensitive to criticism from others."（她对别人的批评非常敏感。）——考研高频表达
+> 1. Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price. `[真题]`
+> 2. She is very sensitive to criticism from others. `[真题]`
+> 3. He instructed staff to shred sensitive documents before leaving the office. `[COCA-NEWS]`
+> 4. The spatial receptive-field structure of these selection units suggests that they may be sensitive to disparity contrast. `[COCA-ACAD]`
 
 ---
 

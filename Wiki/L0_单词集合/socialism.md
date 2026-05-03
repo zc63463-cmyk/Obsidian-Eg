@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**社会主义**==（一种社会与经济制度，主张生产资料公有制和社会财富公平分配）；
+**n.** ①==**社会主义**== `democratic socialism / under socialism / transition to socialism`（一种社会与经济制度，主张生产资料公有制和社会财富公平分配）；
 
 > [!tip] 原型义
 > **原型义**：以社会整体利益为核心的经济与政治制度
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The debate between capitalism and socialism has shaped political discourse for centuries."（资本主义与社会主义之间的辩论已经塑造了几个世纪的政治话语。）——考研高频表达
-> - "Many European countries adopted elements of socialism in their welfare systems after World War II."（许多欧洲国家在二战后的福利制度中采纳了社会主义元素。）——考研高频表达
+> - We must not let the burning torch of socialism go out. `[COCA-FIC]`
+> - The debate between capitalism and socialism has shaped political discourse for centuries. `[真题]`
+> - Many European countries adopted elements of socialism in their welfare systems after World War II. `[真题]`
+> - Meanwhile we turn our eyes from a blight on our national life that socialism was invented to remedy. `[COCA-NEWS]`
 
 
 ---

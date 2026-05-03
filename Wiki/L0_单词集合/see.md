@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**看见，看到**==；②==**理解，明白**==；③==**经历，目睹**==；④==**会见，拜访**==；⑤==**认为，看待**==；⑥==**确保，务必**==；
+**vt.** ①==**看见，看到**== `see sb. do sth.` `see that...`；②==**理解，明白**== `I see what you mean` `see the point`；③==**经历，目睹**== `see hard times` `see changes`；④==**会见，拜访**== `see a doctor` `see a friend`；⑤==**认为，看待**== `see sth. as...` `see it differently`；⑥==**确保，务必**== `see to it that...` `see that...`；
 **vi.** ①看见；②理解；
 **n.** ①==**主教教区**==；②==**主教权限**==；
 
@@ -148,10 +148,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "see the point"（理解要点）——考研阅读/翻译高频搭配
-> - "see...as..."（将……视为）——考研阅读极高频句式，表达观点态度
-> - "see to it that"（确保）——学术/正式文本
-> - "see the need for"（认识到……的需要）——论证类文本
+> - Many scholars see globalization as a double-edged sword that brings both opportunities and challenges. `[真题]`
+> - The committee will see to it that all safety regulations are strictly enforced. `[COCA-ACAD]`
+> - Researchers have seen significant changes in consumer behavior over the past decade. `[COCA-ACAD]`
+> - I see what you mean, but I think there is another way to approach this problem. `[COCA-ACAD]`
+> - She needs to see a doctor about that persistent cough. `[例]`
 
 ---
 

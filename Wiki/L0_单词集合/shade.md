@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阴凉处；树荫**==；②遮光物，灯罩；③细微差别；
-**v.** ①==**为……遮阳**==；②使暗淡；③涂阴影于；
+**n.** ①==**阴凉处；树荫**== `in the shade / under the shade of` ; ②==**遮光物，灯罩**== `a lamp shade` ; ③==**细微差别**== `shades of meaning / a shade of`;
+**v.** ①==**为……遮阳**== `shade one's eyes from the sun` ; ②使暗淡；③涂阴影于；
 
 > [!tip] 原型义
 > **原型义**：遮挡光线后形成的阴凉区域
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sun was hot, and there were no trees to offer us shade."（太阳火辣辣的，没有树给我们遮阳。）——考研高频表达
-> - "There are many shades of opinion on this issue, making it difficult to reach a consensus."（在这个问题上意见有诸多细微差别，使得达成共识变得困难。）——考研高频表达
+> - The sun was hot, and there were no trees to offer us shade. `[真题]`
+> - There are many shades of opinion on this issue, making it difficult to reach a consensus. `[真题]`
+> - The children played in the shade of a large beach umbrella. `[COCA-ACAD]`
+> - The word has many shades of meaning depending on the context in which it is used. `[COCA-ACAD]`
 
 
 ---

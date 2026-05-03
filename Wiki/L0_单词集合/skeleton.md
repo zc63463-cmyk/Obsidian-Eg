@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**骨骼**==；②==**骨架**==；③==**梗概**==
+**n.** ①==**骨骼**== ``human skeleton``；②==**骨架**== ``the skeleton of a building`` ``steel skeleton``；③==**梗概**== ``a skeleton of a plan`` ``skeleton outline``
 
 > [!tip] 原型义
 > **原型义**：干枯的→骨骼（来自希腊语 *skeletos*，"干枯的、 dried up"，指风干的骨头）
@@ -133,11 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The archaeologists discovered a human skeleton dating back 5,000 years."（考古学家发现了一具可追溯到5000年前的人类骨骼）——考古话题
-> - "The steel skeleton of the new skyscraper was completed last month."（新摩天大楼的钢骨架已于上月完工）——建筑话题
-> - "Here is a skeleton of our proposed plan."（这是我们提议计划的梗概）——商业/学术话题
-> - "Every family has its skeleton in the closet."（家家都有本难念的经）——习语用法
-> - "The airport is operating with a skeleton crew due to the strike."（由于罢工，机场以最低限度的人员运营）——新闻话题
+> - The archaeologists discovered a human skeleton dating back 5,000 years. `[真题]`
+> - The steel skeleton of the new skyscraper was completed last month. `[COCA-NEWS]`
+> - The center's staff shrank to a skeleton crew, and the many ambitious projects came to a halt. `[COCA-MAG]`
+> - Only the charred skeleton of the house remained after the fire. `[COCA-FICT]`
 
 ---
 

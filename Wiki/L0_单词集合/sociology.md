@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**社会学**==（研究社会结构、社会关系和社会行为的学科）；
+**n.** ①==**社会学**== `sociology department / sociological research`（研究社会结构、社会关系和社会行为的学科）；
 
 > [!tip] 原型义
 > **原型义**：关于社会（soci）的学问（-logy）
@@ -123,8 +123,10 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Sociology provides valuable insights into the structure and dynamics of modern society."（社会学为理解现代社会的结构和动态提供了宝贵的洞见。）——考研高频表达
-> - "The study of sociology helps us understand how individuals are shaped by their social environment."（社会学研究帮助我们理解个人是如何被其社会环境所塑造的。）——考研高频表达
+> - Sociology provides valuable insights into the structure and dynamics of modern society. `[COCA-ACAD]`
+> - The study of sociology helps us understand how individuals are shaped by their social environment. `[COCA-ACAD]`
+> - She majored in sociology in college and went on to become a professor. `[COCA-FIC]`
+> - In examining patterns of association, sociologists explore the interactions of people, communities, and organizations. `[COCA-ACAD]`
 
 
 ---

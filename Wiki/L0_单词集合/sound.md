@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**声音；声响**==；②海峡；
-**adj.** ①==**合理的；明智的**==；②完好的；健康的；③深入的（睡眠）；
-**v.** ①==**听起来**==；②发出声音；③测量（水深）；
+**n.** ①==**声音；声响**== ``a sound of / the sound of``；②海峡；
+**adj.** ①==**合理的；明智的**== ``a sound reason / sound advice``；②完好的；健康的；③深入的（睡眠）；
+**v.** ①==**听起来**== ``it sounds + adj. / sound like``；②发出声音；③测量（水深）；
 
 > [!tip] 原型义
 > **原型义**：物体振动产生的、通过耳朵感知的声波
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to adopt a sound economic policy to sustain growth."（政府需要采取合理的经济政策来维持增长。）——考研高频表达
-> - "It is sound advice to diversify your investment portfolio."（多元化投资组合是明智的建议。）——考研高频表达
+> - The government needs to adopt a sound economic policy to sustain growth. `[真题]`
+> - It is sound advice to diversify your investment portfolio. `[真题]`
+> - She used sound reasoning in making the decision. `[COCA-ACAD]`
+> - It was a sound approach to investing money. `[COCA-ACAD]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**肩，肩膀**==；②==**（道路的）路肩**==；
-**vt.** ①==**肩负，承担**==；②==**用肩推（挤）**==；
+**n.** ①==**肩，肩膀**== `shrug one's shoulders`；②==**（道路的）路肩**== `hard shoulder`；
+**vt.** ①==**肩负，承担**== `shoulder the responsibility / burden`；②==**用肩推（挤）**== `shoulder one's way through`；
 
 > [!tip] 原型义
 > **原型义**：用肩膀承载重量
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Women who shoulder the double burden of childcare and full-time work."（肩负育儿和全职工作双重负担的女性）——考研阅读社会类话题
-> - "He shouldered the responsibility for the team's failure."（他承担了团队失败的责任）——责任/领导力话题
-> - "She shouldered her way through the crowd."（她用肩膀挤过人群）——描写类语境
+> - Women who shoulder the double burden of childcare and full-time work. `[真题]`
+> - He shouldered the responsibility for the team's failure. `[真题]`
+> - She shouldered her way through the crowd. `[真题]`
+> - Pharmaceutical industry executives say they cannot be expected to shoulder the burden of diseases of the poor alone. `[COCA-ACAD]`
 
 ---
 

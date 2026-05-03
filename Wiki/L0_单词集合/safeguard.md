@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保护措施，保障条款**==；②==**安全装置**==；
-**vt.** ①==**保护，捍卫**==；②==**防范**==（预防性保护）；
+**n.** ①==**保护措施，保障条款**== `legal safeguards` / `constitutional safeguards`；②==**安全装置**== `a safeguard against...`；
+**vt.** ①==**保护，捍卫**== `safeguard one's rights` / `safeguard national security`；②==**防范**==（预防性保护）`safeguard against sth.`；
 
 > [!tip] 原型义
 > **原型义**：安全守卫（safe + guard = 安全的守卫）
@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need stronger legal safeguards to protect consumers."（我们需要更有力的法律保障来保护消费者）——法律/社会话题
-> - "safeguard against potential risks"（防范潜在风险）——常见搭配
-> - "The constitution includes safeguards against abuse of power."（宪法包含防范权力滥用的保障条款）——政治/法律话题
-> - "safeguard the interests of all parties"（维护各方利益）——常见表达
+> - The new law has safeguards to protect the rights of citizens. `[COCA-NEWS]`
+> - Extensive background checks on staff members are carried out to safeguard children in schools. `[COCA-ACAD]`
+> - Should he decide to start a nuclear war, there are no legal safeguards to stop him. `[COCA-NEWS]`
+> - The constitution includes safeguards against abuse of power. `[COCA-ACAD]`
 
 ---
 

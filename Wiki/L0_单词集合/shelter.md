@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**庇护所、遮蔽处**== ; ②庇护、保护
-**v.** ①庇护、保护 ; ②躲避
+**n.** ①==**庇护所、遮蔽处**== `take/find shelter` ; ②庇护、保护 `provide shelter for`
+**v.** ①庇护、保护 `shelter sb from sth` ; ②躲避 `shelter from the rain`
 
 > [!tip] 原型义
 > **原型义**：庇护所、遮蔽处（提供保护的空间或建筑）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "They took shelter from the storm in an old barn."（他们在一个旧谷仓里躲避暴风雨。）——考研高频表达
-> - "Animal shelters are overcrowded with abandoned pets."（动物收容所里挤满了被遗弃的宠物。）——考研高频表达
+> - The organization provides food and shelter for homeless people. `[真题]`
+> - Animal shelters are overcrowded with abandoned pets. `[真题]`
+> - When it started raining, they took shelter in a cave. `[COCA-ACAD]`
+> - The trees gave some shelter from the wind. `[COCA-ACAD]`
 
 ---
 

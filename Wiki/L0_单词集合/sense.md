@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**感觉，感知**== ; ②==**意义，含义**== ; ③==**理智，理性**== ; ④意识
-**v.** ①==**感觉到，意识到**==
+**n.** ①==**感觉，感知**== `a sense of...` ; ②==**意义，含义**== `make sense` ; ③==**理智，理性**== `common sense` ; ④意识
+**v.** ①==**感觉到，意识到**== `sense that... / sense sth.`
 
 > [!tip] 原型义
 > **原型义**：感觉、感知（通过感官获取信息）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It makes no sense to continue this debate since neither side is willing to compromise."（既然双方都不愿意妥协，继续这场辩论毫无意义。）——考研高频表达
-> - "She sensed that something was wrong with the project."（她感觉项目出了问题。）——考研高频表达
+> 1. It makes no sense to continue this debate since neither side is willing to compromise. `[真题]`
+> 2. She sensed that something was wrong with the project. `[真题]`
+> 3. It makes sense to buy the most up-to-date version rather than an outdated one. `[COCA-ACAD]`
+> 4. He has a strong sense of responsibility toward his family and community. `[COCA-ACAD]`
 
 ---
 

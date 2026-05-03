@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使位于**==；②==**使处于**==
+**vt.** ①==**使位于**== ``be situated in/on`` ``situate sth near/in``；②==**使处于**== ``be situated to do sth`` ``situate sth in context``
 
 > [!tip] 原型义
 > **原型义**：使坐在某处→使位于（把某物/某人安置在某个位置上）
@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hotel is situated on a cliff overlooking the sea."（酒店坐落在俯瞰大海的悬崖上）——常见被动用法
-> - "We need to situate this problem within its historical context."（我们需要将这个问题置于其历史背景中来理解）——学术写作高频用法
-> - "The company is well situated to take advantage of the new market."（公司处于有利地位，能够利用新市场）——商业话题
-> - "The village is situated at the foot of the mountain."（村庄坐落在山脚下）——地理描述
+> - To understand this issue, it must first be situated in its context. `[COCA-ACAD]`
+> - The hotel is situated on a cliff overlooking the sea. `[COCA-FICT]`
+> - The Supreme Court is poorly situated to resolve those disputes on the fly. `[COCA-ACAD]`
+> - The women have the opportunity to situate their own struggles in a wider historical context. `[COCA-ACAD]`
 
 ---
 

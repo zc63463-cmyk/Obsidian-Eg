@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**君主、最高统治者**==
-**adj.** ①==**主权国家的、拥有主权的**== ; ②至高无上的
+**n.** ①==**君主、最高统治者**== ``the sovereign of / a sovereign state``
+**adj.** ①==**主权国家的、拥有主权的**== ``sovereign state / sovereign power`` ; ②至高无上的
 
 > [!tip] 原型义
 > **原型义**：君主、最高统治者（在权力等级中处于最顶端的人）
@@ -128,9 +128,10 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation."（一小群敢于发声的夏威夷人和环保主义者一直认为它们的存在是对神圣土地的不敬，也是对曾经是一个主权国家的土地被占领的痛苦提醒。）——考研英语二阅读真题
-> - "Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure in the United States."（那些仍然认为外国投资是对其主权侵犯的国家，不妨研究一下美国的基础设施建设史。）——2001年考研阅读Text4
-> - "Generally there was a belief that the new nations should be sovereign and independent states, large enough to be economically viable and integrated by a common set of laws."（人们普遍认为，新生的国家应该是拥有主权和完全独立的国家，大到足以在经济上可行，并通过一套共同的法律实现整合。）——考研翻译真题
+> > - A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation. `[真题]`
+> > - Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure in the United States. `[真题]`
+> > - Generally there was a belief that the new nations should be sovereign and independent states, large enough to be economically viable and integrated by a common set of laws. `[真题]`
+> > - We must respect the rights of sovereign states to conduct their own affairs. `[COCA-ACAD]`
 
 ---
 

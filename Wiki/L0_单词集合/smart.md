@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**聪明的；机智的**==；②==**整洁漂亮的**==；③==**剧烈的**==；**vi.** ①感到刺痛；
+**adj.** ①==**聪明的；机智的**== `a smart student / a smart decision`；②==**整洁漂亮的**== `a smart suit / a smart appearance`；③==**剧烈的**== `a smart blow`；**vi.** ①感到刺痛 `my eyes smart from the smoke`；
 
 > [!tip] 原型义
 > **原型义**：感到尖锐刺痛（原始义）→ 敏锐的→ 聪明的
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smart phones have revolutionized the way people access information and communicate."（智能手机彻底改变了人们获取信息和交流的方式。）——考研高频表达
-> - "She made a smart decision to invest in education rather than luxury goods."（她做出了一个明智的决定——投资教育而非奢侈品。）——考研高频表达
+> - She was a smart student who always got top marks in her classes. `[COCA-FIC]`
+> - The smart decision was to invest in the stock market while the prices were low. `[COCA-FIC]`
+> - Smart phones have revolutionized the way people access information and communicate. `[真题]`
+> - She made a smart decision to invest in education rather than luxury goods. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**寻找，寻求**==；②==**追求，谋求**==；③==**请求，征求**==；④==**试图，企图**==；
+**vt.** ①==**寻找，寻求**== `seek shelter` `seek a solution`；②==**追求，谋求**== `seek fame/fortune` `seek employment`；③==**请求，征求**== `seek advice/help` `seek approval`；④==**试图，企图**== `seek to do sth.` `seek improvement`；
 **vi.** ①寻找；②寻求；
 
 > [!tip] 原型义
@@ -140,10 +140,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "seek to do sth."（试图做某事）——考研阅读极高频搭配，表达目的和意图
-> - "seek advice/help"（寻求建议/帮助）——学术/社会类文本
-> - "seek employment"（谋求就业）——社会经济类文本
-> - "seek refuge"（寻求庇护）——文学/历史类文本
+> - The company is seeking a new CEO to lead the organization through its next phase of growth. `[COCA-ACAD]`
+> - Many young graduates seek employment in the technology sector due to its promising prospects. `[真题]`
+> - He is seeking legal advice on how to proceed with the lawsuit. `[COCA-ACAD]`
+> - The government seeks to improve public health by investing in preventive care. `[COCA-ACAD]`
+> - Refugees seek shelter in neighboring countries to escape the ongoing conflict. `[例]`
 
 ---
 

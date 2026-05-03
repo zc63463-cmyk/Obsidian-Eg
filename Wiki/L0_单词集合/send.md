@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**发送；寄送**==；②==**派遣**==；③使...进入（某种状态）；
+**vt.** ①==**发送；寄送**== `send sb. sth. / send sth. to sb.`；②==**派遣**== `send sb. to do sth. / send sb. to sp.`；③使...进入（某种状态） `send sb. into sth.`；
 
 > [!tip] 原型义
 > **原型义**：使某物/某人从一处移动到另一处
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government sent a team of experts to assess the damage caused by the earthquake."（政府派出了一个专家小组去评估地震造成的损失。）——考研高频表达
-> - "Sending children to preschool has been shown to improve their social and cognitive development."（送孩子上幼儿园已被证明有助于提高他们的社交和认知发展。）——考研高频表达
+> 1. The government sent a team of experts to assess the damage caused by the earthquake. `[真题]`
+> 2. She was sent home from school after she became ill during the class. `[COCA-ACAD]`
+> 3. The company decided to send a representative to attend the international conference. `[COCA-ACAD]`
+> 4. The news report was sent by satellite to broadcasting stations around the world. `[COCA-NEWS]`
 
 
 ---

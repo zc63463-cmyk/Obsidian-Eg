@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**来源；起源**==；②消息来源；③原始资料；
-**v.** ①==**从……获得**==；
+**n.** ①==**来源；起源**== ``the source of / a source of``；②消息来源；③原始资料；
+**v.** ①==**从……获得**== ``source sth from``；
 
 > [!tip] 原型义
 > **原型义**：河流的源头，水从地下涌出的地方
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The Internet has become a major source of information for students and researchers."（互联网已经成为学生和研究人员的主要信息来源。）——考研阅读真题
-> - "The journalist refused to reveal the identity of her source."（记者拒绝透露她的消息来源的身份。）——考研高频表达
+> > - The Internet has become a major source of information for students and researchers. `[真题]`
+> > - The journalist refused to reveal the identity of her source. `[真题]`
+> > - Customer complaints are a very important source of information for improving service quality. `[COCA-ACAD]`
+> > - Money is often a source of tension and disagreements in young married couples. `[COCA-ACAD]`
 
 ---
 

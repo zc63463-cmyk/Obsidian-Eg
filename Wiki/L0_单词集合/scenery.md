@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**风景，景色**==（自然风光的总称，不可数）；②==**舞台布景**==（戏剧/电影的背景布置）；
+**n.** ①==**风景，景色**== `the scenery along the coast / enjoy the scenery`（自然风光的总称，不可数）；②==**舞台布景**== `design the scenery for a play`（戏剧/电影的背景布置）；
 
 > [!tip] 原型义
 > **原型义**：风景的总称（来自 scene（景色）+ -ry（集合名词后缀）→ 风景的总称）
@@ -132,10 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scenery along the coast is absolutely breathtaking."（沿海的风景美得令人窒息）——旅游话题
-> - "They took the scenic route to enjoy the mountain scenery."（他们走了风景优美的路线以欣赏山景）——旅行话题
-> - "The play's scenery was designed by a famous artist."（这部戏的舞台布景由一位著名艺术家设计）——戏剧话题
-> - "The region is known for its spectacular natural scenery."（该地区以其壮丽的自然风光而闻名）——地理话题
+> - The train passes by some breathtaking scenery in the Canadian Rockies. `[COCA-ACAD]`
+> - We stayed in a peaceful Alpine village surrounded by magnificent scenery. `[COCA-ACAD]`
+> - She designed the scenery for the play. `[COCA-ACAD]`
+> - The region is known for its spectacular natural scenery. `[例]`
 
 ---
 

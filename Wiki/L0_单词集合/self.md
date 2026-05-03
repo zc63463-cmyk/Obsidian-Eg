@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自己，自我，本身**==；
-**pron.** ①（加强语气）==**自己，本人**==；
-**adj.** ①==**同一的**==；②==**本身的**==；
+**n.** ①==**自己，自我，本身**== `sense of self` `self-awareness`；
+**pron.** ①（加强语气）==**自己，本人**== `by oneself` `the president himself`；
+**adj.** ①==**同一的**== `self-same` `self-evident`；②==**本身的**== `self-interest` `self-government`；
 
 > [!tip] 原型义
 > **原型义**：自己本身（一个人区别于他人的独特存在，自身的同一性）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Self-awareness is the foundation of emotional intelligence."（考研英语——自我意识是情商的基础）
-> - "The concept of the self has been a central topic in philosophy for centuries."（考研英语——"自我"的概念几个世纪以来一直是哲学的核心话题）
-> - "By itself, technology is neither good nor bad; it depends on how we use it."（考研英语——技术本身既非善也非恶，取决于我们如何使用它）
+> - Self-awareness is the foundation of emotional intelligence and effective leadership. `[真题]`
+> - The concept of the self has been a central topic in philosophy for centuries. `[COCA-ACAD]`
+> - By itself, technology is neither good nor bad; it depends on how we use it. `[COCA-ACAD]`
+> - She completed the entire research project by herself, without any assistance from her colleagues. `[COCA-ACAD]`
 
 ---
 

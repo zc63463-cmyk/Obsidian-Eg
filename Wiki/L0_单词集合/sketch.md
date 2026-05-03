@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**草图**==；②==**素描**==；③==**梗概**==
-**v.** ①==**画草图**==；②==**概述**==
+**n.** ①==**草图**== ``a rough sketch`` ``preliminary sketch``；②==**素描**== ``pencil sketch`` ``life sketch``；③==**梗概**== ``a sketch of sth`` ``character sketch``
+**v.** ①==**画草图**== ``sketch a portrait``；②==**概述**== ``sketch out a plan`` ``sketch the history of``
 
 > [!tip] 原型义
 > **原型义**：快速画→草图（来自意大利语 *schizzo*，"草图、快速画出的画"）
@@ -143,11 +143,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The architect showed us a rough sketch of the new building."（建筑师向我们展示了新建筑的粗略草图）——建筑话题
-> - "Let me sketch out the main points of the proposal."（让我概述一下提案的要点）——商业话题
-> - "She sketched a quick portrait of her friend during lunch."（她在午餐时快速为朋友画了一幅肖像）——日常话题
-> - "The book provides a sketch of the region's history."（这本书概述了该地区的历史）——学术话题
-> - "His knowledge of the subject is rather sketchy."（他对这个学科的了解相当粗浅）——注意 sketchy 的引申用法
+> - The architect showed us a rough sketch of the new building. `[真题]`
+> - Let me sketch out the main points of the proposal. `[COCA-ACAD]`
+> - Holford sketched a 10-year programme for rebuilding the city. `[COCA-ACAD]`
+> - She quickly sketched a portrait of her friend during lunch. `[COCA-FICT]`
 
 ---
 

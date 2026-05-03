@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**解决（争端、问题）**== ; ②==**安顿，安排**== ; ③==**使安定，使平静**== ; ④==**支付（账单）**== ;
-**vi.** ①==**安家，定居**== ; ②==**沉淀**== ; ③==**降落，栖息**== ;
+**vt.** ①==**解决（争端、问题）**== `settle a dispute/dispute`; ②==**安顿，安排**== `settle down`; ③==**使安定，使平静**== `settle one's nerves`; ④==**支付（账单）**== `settle a bill/account`;
+**vi.** ①==**安家，定居**== `settle in a town`; ②==**沉淀**== `dust settles`; ③==**降落，栖息**== `birds settle on a branch`;
 
 > [!tip] 原型义
 > **原型义**：使安定下来，最终放置到稳定位置
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It took them several months to settle the dispute."（他们花了好几个月才解决这场争端。）——考研高频表达
-> - "Many immigrants settled in the coastal cities during the nineteenth century."（十九世纪许多移民在沿海城市定居。）——考研高频表达
+> - `Many cases are settled through negotiation.` `[COCA-ACAD]`
+> - `The corporation later settled with the singer for an undisclosed sum.` `[COCA-NEWS]`
+> - `Many immigrants settled in the coastal cities during the nineteenth century.` `[COCA-ACAD]`
 
 ---
 
