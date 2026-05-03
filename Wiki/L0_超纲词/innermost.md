@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**最内心的，最深处的**==；②核心的，最隐秘的；
+**adj.** ①==**最内心的，最深处的**== `innermost feelings/thoughts` [文学] `innermost circle/self` [书面]；②核心的，最隐秘的；
 
 > [!tip] 原型义
 > **原型义**：最内心的（最深处的）
@@ -123,8 +123,8 @@ in-(在内) + -er(比较级) + -most(最高级) → 最在内面的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She kept her innermost feelings hidden from everyone."（她把最深处的感情对所有人都隐藏了起来。")
-> - "Only his closest advisors belonged to his innermost circle."（只有他最亲密的顾问属于他的核心圈。")
+> - She kept her innermost feelings hidden from everyone. `[例]`
+> - Only his closest advisors belonged to his innermost circle. `[例]`
 
 ## 复习记录
 

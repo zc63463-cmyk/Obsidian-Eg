@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**边缘系统的，边缘的**==（神经解剖学）；②边缘的，边界的；
+**adj.** ①==**边缘系统的，边缘的**== `the limbic system` [神经科学] `limbic structures` [神经科学]；②边缘的，边界的 `limbic area/region` [学术]；
 
 > [!tip] 原型义
 > **原型义**：边缘的（拉丁语 *limbus* = 边缘、边界）
@@ -123,8 +123,8 @@ limb-（来自拉丁语 *limbus*，边缘、边界）+ -ic（形容词后缀，"
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The limbic system, which includes the amygdala and hippocampus, plays a crucial role in emotional processing and memory formation."（边缘系统包括杏仁核和海马体，在情绪处理和记忆形成中起着关键作用——神经科学语料）
-> - "Emotions are primarily processed in the limbic system of the brain."（情绪主要由大脑的边缘系统处理——科普语料）
+> - The limbic system, which includes the amygdala and hippocampus, plays a crucial role in emotional processing and memory formation. `[例]`
+> - Emotions are primarily processed in the limbic system of the brain. `[例]`
 
 ## 复习记录
 

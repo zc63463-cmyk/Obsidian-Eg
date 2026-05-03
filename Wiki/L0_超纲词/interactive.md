@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**互动的，交互式的**==；②互相作用的；
+**adj.** ①==**互动的，交互式的**== `interactive + n.` [通用] `interactive learning/display` [教育/科技]；②==**互相作用的**== `interactive relationship` [学术]；
 
 > [!tip] 原型义
 > **原型义**：互动的（互相作用的）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Interactive learning methods have been shown to improve student engagement."（互动式学习方法已被证明能提高学生的参与度。")
-> - "The museum features interactive exhibits that allow visitors to explore scientific concepts."（博物馆设有互动展览，让参观者探索科学概念。")
+> - Interactive learning methods have been shown to improve student engagement. `[例]`
+> - The museum features interactive exhibits that allow visitors to explore scientific concepts. `[例]`
 
 ## 复习记录
 

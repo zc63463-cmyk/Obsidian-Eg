@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不可避免地，必然地**==；
+**adv.** ①==**不可避免地，必然地**== `will inevitably do sth` [中性] `inevitably lead to/result in` [中性]；
 
 > [!tip] 原型义
 > **原型义**：不可避免地（注定会发生的）
@@ -125,8 +125,9 @@ in-(不，否定) + evit(避免，拉丁语 *evitare*) + -ably(可…地)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Technological change will inevitably lead to job displacement in some sectors."（技术变革将不可避免地导致某些行业的就业岗位流失。）
-> - "The decision inevitably caused controversy among the public."（这一决定不可避免地在公众中引发了争议。）
+> - Technological change will inevitably lead to job displacement in some sectors. `[例]`
+> - The decision inevitably caused controversy among the public. `[例]`
+> - Old traditions will inevitably fade as modern society advances. `[例]`
 
 ## 复习记录
 

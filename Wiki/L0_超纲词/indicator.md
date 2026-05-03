@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**指示器，标志**==；②指标（经济、社会等）；③转向灯（汽车）；
+**n.** ①==**指示器，标志**== `a key/warning indicator` [通用]；②==**指标（经济、社会等）**== `economic/performance indicators` [学术]；③==**转向灯（汽车）**== `turn/blink indicator` [通用]；
 
 > [!tip] 原型义
 > **原型义**：指示器、标志
@@ -124,7 +124,9 @@ in-(向内/加强) + dic(说/指出，拉丁语 *dicare*) + -ator(表示人或�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - indicator 是学术、经济类文章的高频词，常用于描述衡量标准和趋势指标。
+> - GDP is often used as a key indicator of a nation's economic health. `[例]`
+> - The warning indicator on the dashboard flashed red to alert the driver. `[例]`
+> - Stock market indices serve as leading indicators of future economic trends. `[例]`
 
 ## 复习记录
 

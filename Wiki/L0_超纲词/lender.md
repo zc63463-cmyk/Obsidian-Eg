@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**贷款人，出借人**==；②（金融）放贷机构；
+**n.** ①==**贷款人，出借人**== `a mortgage lender` [中性/金融] `the lender and the borrower` [中性/金融]；②==**（金融）放贷机构**== `a lender of last resort` [中性/金融]；
 
 > [!tip] 原型义
 > **原型义**：借出钱的人或机构
@@ -125,8 +125,8 @@ lend(借出) + -er(人/物)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The central bank acts as a lender of last resort during financial crises."（央行在金融危机期间充当最后贷款人。）
-> - "Borrowers must repay the loan with interest to the lender."（借款人必须向贷款人偿还本金和利息。）
+> - The central bank acts as a lender of last resort during financial crises. `[例]`
+> - Borrowers must repay the loan with interest to the lender. `[例]`
 
 ## 复习记录
 

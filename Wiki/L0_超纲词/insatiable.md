@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无法满足的，贪得无厌的**==；
+**adj.** ①==**无法满足的，贪得无厌的**== `an insatiable appetite/curiosity for n.` [正式] `an insatiable demand for n.` [正式]；
 
 > [!tip] 原型义
 > **原型义**：无法满足的（永远不够的）
@@ -125,8 +125,8 @@ in-(不，否定) + [[sati|sat-]](足够，满足) + -able(可被…的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She had an insatiable appetite for learning new languages."（她有一种学习新语言的永不满足的渴望。")
-> - "The insatiable demand for natural resources has led to environmental degradation."（对自然资源的无尽需求导致了环境退化。")
+> - She had an insatiable appetite for learning new languages. `[例]`
+> - The insatiable demand for natural resources has led to environmental degradation. `[例]`
 
 ## 复习记录
 

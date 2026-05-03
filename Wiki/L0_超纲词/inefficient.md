@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**效率低的，浪费的**==；②无能的；
+**adj.** ①==**效率低的，浪费的**== `inefficient system/process` [通用] `inefficient use of resources` [正式]；②==**无能的**== `an inefficient manager` [通用]；
 
 > [!tip] 原型义
 > **原型义**：效率低下的（浪费时间或资源）
@@ -125,8 +125,9 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -ient(…的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The current healthcare system is inefficient and costly."（当前的医疗系统效率低下且成本高昂。）
-> - "Inefficient management led to the company's decline."（低效的管理导致了公司的衰落。）
+> - The current healthcare system is inefficient and costly. `[例]`
+> - Inefficient management led to the company's decline. `[例]`
+> - The old heating system was highly inefficient, consuming far more energy than necessary. `[例]`
 
 ## 复习记录
 

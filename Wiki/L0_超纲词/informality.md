@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**非正式，不拘礼节**==；②非正式的行为/场合；
+**n.** ①==**非正式，不拘礼节**== `the informality of sth` [中性]；②非正式的行为/场合 `a pleasant/welcoming informality` [中性]；
 
 > [!tip] 原型义
 > **原型义**：非正式（不拘形式的状态）
@@ -123,8 +123,9 @@ in-(不) + [[form|form-]](形式) + -al(形容词) + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The informality of the startup culture appealed to many young professionals."（创业公司文化的非正式性吸引了许多年轻专业人士。）
-> - "There was a pleasant informality about the gathering."（聚会中有一种令人愉快的随意氛围。）
+> - The informality of the startup culture appealed to many young professionals. `[例]`
+> - There was a pleasant informality about the gathering. `[例]`
+> - The informality of the interview put the candidate at ease immediately. `[例]`
 
 ## 复习记录
 

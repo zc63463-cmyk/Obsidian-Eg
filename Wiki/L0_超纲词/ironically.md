@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**具有讽刺意味地**==；②反讽地；③出乎意料地，令人啼笑皆非地；
+**adv.** ①==**具有讽刺意味地**== `ironically, ...` [通用] `ironically enough` [通用]；②==**反讽地**== `say/speak ironically` [文学]；③==**出乎意料地，令人啼笑皆非地**== `ironically, the opposite happened` [通用]；
 
 > [!tip] 原型义
 > **原型义**：像讽刺地（以与预期相反的方式发生或表达）
@@ -128,8 +128,8 @@ iron(讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀) + -ally
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Ironically, the technology designed to save time has made us busier than ever."（具有讽刺意味的是，旨在节省时间的技术反而让我们比以往更忙碌）
-> - "Ironically enough, the countries that consume the most produce the least."（具有讽刺意味的是，消费最多的国家产量却最低）
+> - Ironically, the technology designed to save time has made us busier than ever. `[例]`
+> - Ironically enough, the countries that consume the most produce the least. `[例]`
 
 ## 复习记录
 

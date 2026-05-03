@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**解释，阐释**==；②口译；③（表演、音乐的）演绎；
+**n.** ①==**解释，阐释**== `interpretation of sth` [通用] `put an interpretation on sth` [正式]；②==**口译**== `simultaneous interpretation` [正式]；③==**（表演、音乐的）演绎**== `a unique interpretation of sth` [正式]；
 
 > [!tip] 原型义
 > **原型义**：在中间传递价值（在原文/原意与读者/听众之间传递意义）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Different scholars have offered different interpretations of the data."（不同学者对数据提出了不同的解释）
-> - "The Constitution is subject to varying interpretations."（宪法可以有不同解读）
+> - Different scholars have offered different interpretations of the data. `[例]`
+> - The Constitution is subject to varying interpretations. `[例]`
 
 ## 复习记录
 

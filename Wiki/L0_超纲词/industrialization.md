@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工业化**==；②产业化；
+**n.** ①==**工业化**== `rapid/post-war industrialization` [学术]；②==**产业化**== `the industrialization of sth.` [学术]；
 
 > [!tip] 原型义
 > **原型义**：工业化过程（从农业社会向工业社会转变的过程）
@@ -125,8 +125,9 @@ industry(工业) + -ial(形容词) + -ize(使动) + -ation(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The industrialization of the country transformed it from an agrarian society into a modern economy."（该国的工业化将其从农业社会转变为现代经济体。）
-> - "Rapid industrialization has brought both prosperity and environmental challenges."（快速的工业化既带来了繁荣，也带来了环境挑战。）
+> - The industrialization of the country transformed it from an agrarian society into a modern economy. `[例]`
+> - Rapid industrialization has brought both prosperity and environmental challenges. `[例]`
+> - The industrialization of agriculture led to a significant increase in food production. `[例]`
 
 ## 复习记录
 

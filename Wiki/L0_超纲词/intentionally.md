@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**故意地，有意地**==；
+**adv.** ①==**故意地，有意地**== `intentionally + v.` [正式] `intentionally ignore/damage` [法律]；
 
 > [!tip] 原型义
 > **原型义**：故意地（有意为之的）
@@ -123,8 +123,8 @@ in-(向内) + [[tend|tend-tens-]](伸展/倾向) + -ion(名词) + -al(形容词)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She claimed that she did not intentionally violate the rules."（她声称自己并非故意违反规则。")
-> - "The data was intentionally manipulated to support the researcher's hypothesis."（数据被故意篡改以支持研究者的假设。")
+> - She claimed that she did not intentionally violate the rules. `[例]`
+> - The data was intentionally manipulated to support the researcher's hypothesis. `[例]`
 
 ## 复习记录
 

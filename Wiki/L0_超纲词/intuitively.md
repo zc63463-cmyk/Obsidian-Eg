@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**直觉地，凭直觉地**==；②直观地；
+**adv.** ①==**直觉地，凭直觉地**== `understand sth intuitively` [学术] `intuitively appealing` [通用]；②==**直观地**== `intuitively obvious` [通用] `intuitively designed` [通用]；
 
 > [!tip] 原型义
 > **原型义**：通过内心观看地（不经过逻辑推理，凭内心直接感知）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The concept is intuitively obvious once you see it in action."（一旦你看到它实际运作，这个概念就直观上显而易见了）
-> - "People can often intuitively grasp the meaning of a new word from context."（人们通常能凭直觉从上下文中理解新词的含义）
+> - The concept is intuitively obvious once you see it in action. `[例]`
+> - People can often intuitively grasp the meaning of a new word from context. `[例]`
 
 ## 复习记录
 

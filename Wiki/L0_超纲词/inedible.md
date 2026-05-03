@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不适合食用的，不能吃的**==；
+**adj.** ①==**不适合食用的，不能吃的**== `render sth. inedible` [通用] `inedible food/parts` [通用]；
 
 > [!tip] 原型义
 > **原型义**：不能吃的（不适合食用的）
@@ -120,8 +120,9 @@ in-(不，否定前缀) + ed(吃，拉丁语 *edere*) + -ible(可被…的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The drought rendered much of the crop inedible."（干旱使大量农作物变得不能食用。）
-> - "Some parts of the plant are edible, while others are inedible or even poisonous."（这种植物有些部分可以食用，而其他部分则不能吃甚至有毒。）
+> - The drought rendered much of the crop inedible. `[例]`
+> - Some parts of the plant are edible, while others are inedible or even poisonous. `[例]`
+> - The contaminated water made the fish inedible for human consumption. `[例]`
 
 ## 复习记录
 

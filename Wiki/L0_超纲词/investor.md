@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**投资者，投资方**==；②出资人；
+**n.** ①==**投资者，投资方**== `foreign/institutional investor` [经济/正式] `attract investors` [经济/正式]；②==**出资人**== `angel/lead investor` [经济/正式]；
 
 > [!tip] 原型义
 > **原型义**：把衣服投入的人（把资金"穿上"投入项目的人）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Foreign investors are increasingly looking to emerging markets for higher returns."（外国投资者越来越多地将目光投向新兴市场以获取更高回报）
-> - "Investor confidence was shaken by the recent market volatility."（近期的市场波动动摇了投资者信心）
+> - Foreign investors are increasingly looking to emerging markets for higher returns. `[例]`
+> - Investor confidence was shaken by the recent market volatility. `[例]`
 
 ## 复习记录
 

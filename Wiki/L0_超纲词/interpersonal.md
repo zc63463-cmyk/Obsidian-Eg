@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**人际的，人与人之间的**==；
+**adj.** ①==**人际的，人与人之间的**== `interpersonal skills/relationships` [通用] `interpersonal communication/conflict` [学术]；
 
 > [!tip] 原型义
 > **原型义**：人际的（人与人之间的）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Strong interpersonal skills are essential for success in management roles."（强大的人际交往能力对于管理岗位的成功至关重要。")
-> - "Interpersonal conflicts in the workplace can reduce productivity and morale."（职场中的人际冲突会降低生产力和士气。")
+> - Strong interpersonal skills are essential for success in management roles. `[例]`
+> - Interpersonal conflicts in the workplace can reduce productivity and morale. `[例]`
 
 ## 复习记录
 

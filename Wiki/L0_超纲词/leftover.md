@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**剩余物，剩菜**==；②遗留物；
-**adj.** ①剩余的；
+**n.** ①==**剩余物，剩菜**== `have leftovers for lunch` [中性/日常] `heat up the leftovers` [中性/日常]；②==**遗留物**== `leftover from the past` [中性/通用]；
+**adj.** ①==**剩余的**== `leftover food/budget` [中性/日常]；
 
 > [!tip] 原型义
 > **原型义**：留下来的东西（使用后剩余的）
@@ -127,8 +127,8 @@ left(leave的过去分词，留下) + over(越过/多余)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "We had leftovers from last night's dinner for lunch today."（我们今天午餐吃了昨晚的剩菜。）
-> - "The leftover budget was allocated to the education department."（剩余预算被分配给了教育部门。）
+> - We had leftovers from last night's dinner for lunch today. `[例]`
+> - The leftover budget was allocated to the education department. `[例]`
 
 ## 复习记录
 

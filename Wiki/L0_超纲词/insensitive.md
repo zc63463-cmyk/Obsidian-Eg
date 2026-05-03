@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不敏感的，感觉迟钝的**==；②漠不关心的，缺乏同情心的；③（对变化）不敏感的；
+**adj.** ①==**不敏感的，感觉迟钝的**== `be insensitive to n.` [正式]；②==**漠不关心的，缺乏同情心的**== `an insensitive remark/comment` [正式]；③==**（对变化）不敏感的**== `be insensitive to changes/fluctuations` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不敏感的（缺乏感受力的）
@@ -127,8 +127,8 @@ in-(不，否定) + [[sens|sens-sent-]](感觉) + -it(动词) + -ive(倾向/性�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "His insensitive comments about her weight deeply hurt her feelings."（他对她体重的冷漠评论深深伤害了她的感情。")
-> - "The system is insensitive to minor fluctuations in temperature."（该系统对温度的微小波动不敏感。")
+> - His insensitive comments about her weight deeply hurt her feelings. `[例]`
+> - The system is insensitive to minor fluctuations in temperature. `[例]`
 
 ## 复习记录
 

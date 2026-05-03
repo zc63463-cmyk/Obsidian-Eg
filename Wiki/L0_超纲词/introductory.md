@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**引导性的，入门的**==；②介绍的，导言的；③（价格等）优惠的，试行的；
+**adj.** ①==**引导性的，入门的**== `introductory course/chapter` [教育] `an introductory course in sth` [教育]；②==**介绍的，导言的**== `introductory remarks/paragraph` [通用]；③==**（价格等）优惠的，试行的**== `introductory offer/price` [商业]；
 
 > [!tip] 原型义
 > **原型义**：向内引导的（把人从外部引导进入某个领域/主题）
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The professor's introductory remarks set the tone for the entire lecture."（教授的开场白为整个讲座定下了基调）
-> - "Students are required to take an introductory course before advancing to specialized topics."（学生在进入专业主题之前必须修读入门课程）
+> - The professor's introductory remarks set the tone for the entire lecture. `[例]`
+> - Students are required to take an introductory course before advancing to specialized topics. `[例]`
 
 ## 复习记录
 

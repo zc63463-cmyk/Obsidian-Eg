@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**天生的，与生俱来的**==；②固有的，内在的；
+**adj.** ①==**天生的，与生俱来的**== `innate ability/talent` [正式] `an innate sense of sth` [书面]；②固有的，内在的；
 
 > [!tip] 原型义
 > **原型义**：天生的（与生俱来的）
@@ -125,8 +125,8 @@ in-(在内部) + [[nat|nat-nasc-]](出生) → 实际来自拉丁语 *innatus*�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She has an innate ability to connect with people from all walks of life."（她有一种与各行各业的人建立联系的天赋。）
-> - "The innate immune system provides the first line of defense against pathogens."（先天免疫系统提供了对抗病原体的第一道防线。")
+> - She has an innate ability to connect with people from all walks of life. `[例]`
+> - The innate immune system provides the first line of defense against pathogens. `[例]`
 
 ## 复习记录
 

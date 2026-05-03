@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**心情轻松的，愉快的**==；②不严肃的，随意的；
+**adj.** ①==**心情轻松的，愉快的**== `a light-hearted mood/atmosphere` [通用] `feel light-hearted` [通用]；②不严肃的，随意的 `a light-hearted approach` [通用] `light-hearted banter` [通用]；
 
 > [!tip] 原型义
 > **原型义**：心不沉重的（light + heart + -ed → 心是轻盈的）
@@ -125,8 +125,8 @@ light（轻的）+ heart（心）+ -ed（形容词后缀，表示"具有……�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Despite the serious topic, the author maintains a light-hearted tone throughout the essay."（尽管话题严肃，作者在整篇文章中保持了轻松的语调——写作语料）
-> - "They exchanged light-hearted banter over coffee."（他们喝咖啡时互相开了些轻松的玩笑——文学语料）
+> - Despite the serious topic, the author maintains a light-hearted tone throughout the essay. `[例]`
+> - They exchanged light-hearted banter over coffee. `[例]`
 
 ## 复习记录
 

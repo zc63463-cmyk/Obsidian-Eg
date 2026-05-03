@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**新闻业的，新闻工作者的**==；②新闻体（写作风格）的；
+**adj.** ①==**新闻业的，新闻工作者的**== `journalistic ethics / journalistic integrity` [正式]；②新闻体（写作风格）的；
 
 > [!tip] 原型义
 > **原型义**：与新闻业相关的（源自 journal 日记/期刊 + -ist 从事者 + -ic ……的）
@@ -127,8 +127,8 @@ journal(期刊/日报) + -ist(从事者) + -ic(……的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The article lacks journalistic integrity and presents biased views."（这篇文章缺乏新闻诚信，呈现了有偏见的观点。）
-> - "Journalistic freedom is a cornerstone of democratic societies."（新闻自由是民主社会的基石。）
+> - The article lacks journalistic integrity and presents biased views. `[例]`
+> - Journalistic freedom is a cornerstone of democratic societies. `[例]`
 
 ## 复习记录
 

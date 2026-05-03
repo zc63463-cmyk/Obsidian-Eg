@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**立法者，议员**==；
+**n.** ①==**立法者，议员**== `lawmakers in Congress` [中性/政治] `lawmakers voted on the bill` [中性/政治]；
 
 > [!tip] 原型义
 > **原型义**：制定法律的人
@@ -123,8 +123,8 @@ law(法律) + maker(制造者)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Lawmakers are considering new legislation to address climate change."（立法者正在考虑应对气候变化的新立法。）
-> - "State lawmakers voted to increase funding for public education."（州议员投票决定增加公共教育资金。）
+> - Lawmakers are considering new legislation to address climate change. `[例]`
+> - State lawmakers voted to increase funding for public education. `[例]`
 
 ## 复习记录
 

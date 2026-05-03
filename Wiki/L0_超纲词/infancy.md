@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**婴儿期，幼年**==；②初期，摇篮期；
+**n.** ①==**婴儿期，幼年**== `in/during infancy` [中性] `from infancy` [中性]；②初期，摇篮期 `in its infancy` [中性]；
 
 > [!tip] 原型义
 > **原型义**：婴儿期（生命最初的阶段）
@@ -123,8 +123,9 @@ in-(不) + fant(说话，拉丁语 *fari*) + -cy(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The technology is still in its infancy, but it holds great promise."（这项技术仍处于初期阶段，但它前景广阔。）
-> - "Research into artificial intelligence was still in its infancy in the 1950s."（20世纪50年代，人工智能研究仍处于摇篮期。）
+> - The technology is still in its infancy, but it holds great promise. `[例]`
+> - Research into artificial intelligence was still in its infancy in the 1950s. `[例]`
+> - Many species die in infancy due to environmental hazards and predation. `[例]`
 
 ## 复习记录
 

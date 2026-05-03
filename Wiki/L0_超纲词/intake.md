@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**摄入量，吸入量**==；②（机构等的）接收人数；③入口；
+**n.** ①==**摄入量，吸入量**== `adj. + intake` [科学] `reduce/increase + intake` [通用]；②==**（机构等的）接收人数**== `annual/student + intake` [教育]；③==**入口**== `air/water + intake` [工程]；
 
 > [!tip] 原型义
 > **原型义**：摄入（吸收进入体内）
@@ -126,8 +126,8 @@ in-(向内) + take(拿，取)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Reducing your calorie intake can help with weight management."（减少热量摄入有助于体重管理。")
-> - "The university has increased its annual intake of engineering students."（该大学增加了工程学专业每年的招生人数。")
+> - Reducing your calorie intake can help with weight management. `[例]`
+> - The university has increased its annual intake of engineering students. `[例]`
 
 ## 复习记录
 

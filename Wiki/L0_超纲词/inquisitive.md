@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**好奇的，爱打听的**==；②好问的；
+**adj.** ①==**好奇的，爱打听的**== `an inquisitive child/mind` [正式] `be inquisitive about n.` [正式]；②==**好问的**== `an inquisitive nature` [正式]；
 
 > [!tip] 原型义
 > **原型义**：好奇的（渴望了解的）
@@ -126,8 +126,8 @@ in-(向内) + [[quis|quest-]](寻求，询问) + -it(动词) + -ive(倾向)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Children are naturally inquisitive and constantly ask questions about the world around them."（孩子们天生好奇，不断询问周围世界的问题。")
-> - "An inquisitive mind is essential for scientific research."（好奇的头脑对科学研究至关重要。")
+> - Children are naturally inquisitive and constantly ask questions about the world around them. `[例]`
+> - An inquisitive mind is essential for scientific research. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使膨胀，使充气**==；②使（通货）膨胀；③夸大，吹嘘；
+**vt.** ①==**使膨胀，使充气**== `inflate a balloon/tire` [中性]；②使（通货）膨胀 `inflate the currency/economy` [中性]；③夸大，吹嘘 `inflate one's achievements/ego` [贬义]；
 **vi.** ①膨胀；
 
 > [!tip] 原型义
@@ -131,8 +131,9 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government printed more money, which inflated the currency and led to rising prices."（政府印了更多钱，导致货币膨胀和物价上涨。）
-> - "He tends to inflate his achievements when talking to potential employers."（他在与潜在雇主交谈时倾向于夸大自己的成就。）
+> - The government printed more money, which inflated the currency and led to rising prices. `[例]`
+> - He tends to inflate his achievements when talking to potential employers. `[例]`
+> - Workers inflated the balloons with helium before the festival began. `[例]`
 
 ## 复习记录
 

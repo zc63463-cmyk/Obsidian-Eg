@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使无效，使作废**==；②证明……是错误的，推翻；
+**v.** ①==**使无效，使作废**== `invalidate sth` [法律/正式] `sth invalidates sth` [法律/正式]；②==**证明……是错误的，推翻**== `invalidate an argument/claim/theory` [学术/正式] `evidence invalidates sth` [学术/正式]；
 
 > [!tip] 原型义
 > **原型义**：使没有力量（使某事物失去效力或价值）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "New evidence has invalidated the previous conclusions."（新证据推翻了先前的结论）
-> - "A court may invalidate a contract if it was signed under duress."（如果合同是在胁迫下签署的，法院可以宣告其无效）
+> - New evidence has invalidated the previous conclusions. `[例]`
+> - A court may invalidate a contract if it was signed under duress. `[例]`
 
 ## 复习记录
 

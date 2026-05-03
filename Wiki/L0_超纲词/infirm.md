@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**体弱的，虚弱的**==；②（意志）不坚定的，薄弱的；
+**adj.** ①==**体弱的，虚弱的**== `the infirm and the elderly` [正式] `infirm body/health` [正式]；②（意志）不坚定的，薄弱的 `infirm resolve/purpose` [正式]；
 
 > [!tip] 原型义
 > **原型义**：体弱的（身体不结实的）
@@ -125,8 +125,9 @@ in-(不) + [[firm|form-]](坚固的，结实的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The hospital provides care for the sick and the infirm."（这家医院为病人和体弱者提供护理。）
-> - "His infirm resolve crumbled under pressure."（他本不坚定的决心在压力下崩溃了。）
+> - The hospital provides care for the sick and the infirm. `[例]`
+> - His infirm resolve crumbled under pressure. `[例]`
+> - The charity focuses on supporting the elderly and the infirm in the community. `[例]`
 
 ## 复习记录
 

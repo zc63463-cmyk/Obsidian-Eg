@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**面试官，采访者**==；②进行面试/采访的人；
+**n.** ①==**面试官，采访者**== `the interviewer asked/conducted` [通用] `a panel interviewer` [正式]；
 
 > [!tip] 原型义
 > **原型义**：在中间看的人（在面试/采访中主动审视、提问的人）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The interviewer asked a series of challenging questions."（面试官问了一系列具有挑战性的问题）
-> - "Interviewers should be trained to avoid biased questions."（面试官应接受培训以避免有偏见的问题）
+> - The interviewer asked a series of challenging questions. `[例]`
+> - Interviewers should be trained to avoid biased questions. `[例]`
 
 ## 复习记录
 

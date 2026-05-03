@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**注入，灌输**==；②使充满（某种品质）；③泡（茶等），浸渍；
+**vt.** ①==**注入，灌输**== `infuse sth into/with sth` [正式] `infuse A with B` [文学]；②使充满（某种品质）；③泡（茶等），浸渍；
 
 > [!tip] 原型义
 > **原型义**：注入（将一种品质注入到另一事物中）
@@ -127,8 +127,8 @@ in-(向内) + [[fus-fund-fuse|fuse]](倾倒，注入，拉丁语 *fundere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The new leader infused the organization with a sense of purpose."（新领导为组织注入了目标感。）
-> - "Her speech was infused with passion and conviction."（她的演讲充满了激情和信念。）
+> - The new leader infused the organization with a sense of purpose. `[例]`
+> - Her speech was infused with passion and conviction. `[例]`
 
 ## 复习记录
 

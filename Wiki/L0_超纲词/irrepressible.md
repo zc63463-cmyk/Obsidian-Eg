@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**压抑不住的，不可抑制的**==；②精力充沛的，生机勃勃的；
+**adj.** ①==**压抑不住的，不可抑制的**== `irrepressible laughter/desire` [文学] `an irrepressible urge` [文学]；②==**精力充沛的，生机勃勃的**== `an irrepressible spirit/energy` [文学]；
 
 > [!tip] 原型义
 > **原型义**：不能被压下去的（无法通过压制手段使其停止或减弱）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Her irrepressible laughter filled the entire room."（她压抑不住的笑声充满了整个房间）
-> - "The irrepressible spirit of the people could not be crushed by oppression."（人民不屈不挠的精神是压迫所无法摧毁的）
+> - Her irrepressible laughter filled the entire room. `[例]`
+> - The irrepressible spirit of the people could not be crushed by oppression. `[例]`
 
 ## 复习记录
 

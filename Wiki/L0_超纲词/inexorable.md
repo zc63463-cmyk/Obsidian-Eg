@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不可阻挡的，不屈不挠的**==；②无情的，冷酷的；
+**adj.** ①==**不可阻挡的，不屈不挠的**== `the inexorable march/progress of` [正式] `an inexorable force/trend` [正式]；②无情的，冷酷的 `inexorable demands/enemy` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不可阻挡的（无法被说服或阻止的）
@@ -125,8 +125,9 @@ in-(不，否定) + ex-(出) + [[tract|tract-]](拉，拖) + -able(可被…的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The inexorable march of technology has transformed every aspect of our lives."（技术不可阻挡的步伐已经改变了我们生活的方方面面。）
-> - "She faced the inexorable decline of her health with remarkable courage."（她以非凡的勇气面对自己健康状况不可逆转的衰落。）
+> - The inexorable march of technology has transformed every aspect of our lives. `[例]`
+> - She faced the inexorable decline of her health with remarkable courage. `[例]`
+> - Time moves in an inexorable progression that no one can halt. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无效的，不起作用的**==；②无能的，效率低的；
+**adj.** ①==**无效的，不起作用的**== `prove ineffective` [通用] `ineffective measures` [正式]；②==**无能的，效率低的**== `an ineffective leader` [通用]；
 
 > [!tip] 原型义
 > **原型义**：没有效果的（不能产生预期结果）
@@ -128,8 +128,9 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -tive(倾向/性质)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government's attempts to control inflation proved largely ineffective."（政府控制通货膨胀的尝试在很大程度上被证明是无效的。）
-> - "Traditional teaching methods may be ineffective for students with different learning styles."（传统的教学方法可能对具有不同学习风格的学生无效。）
+> - The government's attempts to control inflation proved largely ineffective. `[例]`
+> - Traditional teaching methods may be ineffective for students with different learning styles. `[例]`
+> - The new security measures were rendered ineffective by a series of technical failures. `[例]`
 
 ## 复习记录
 

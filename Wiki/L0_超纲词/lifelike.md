@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**逼真的，栩栩如生的**==；
+**adj.** ①==**逼真的，栩栩如生的**== `a lifelike portrait/doll` [通用] `lifelike graphics/simulation` [科技]；
 
 > [!tip] 原型义
 > **原型义**：像真的一样（逼真到如同有生命）
@@ -124,8 +124,8 @@ life(生命) + like(像……的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The artist created a lifelike portrait that captured every detail of the subject's face."（艺术家创作了一幅栩栩如生的肖像，捕捉了对象面部的每一个细节。）
-> - "Modern video games feature lifelike graphics that blur the line between reality and fiction."（现代电子游戏具有逼真的画面，模糊了现实与虚构之间的界限。")
+> - The artist created a lifelike portrait that captured every detail of the subject's face. `[例]`
+> - Modern video games feature lifelike graphics that blur the line between reality and fiction. `[例]`
 
 ## 复习记录
 

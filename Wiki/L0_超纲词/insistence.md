@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**坚持，坚决要求**==；②强调；
+**n.** ①==**坚持，坚决要求**== `at sb.'s insistence` [正式] `insistence on n./that-clause` [正式]；②==**强调**== `insistence on accuracy/quality` [正式]；
 
 > [!tip] 原型义
 > **原型义**：坚决要求（坚持不放的态度）
@@ -124,8 +124,8 @@ in-(在…上) + [[st-sta-stat|st-/sta-/stat-]](站) + -ence(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "At her insistence, the meeting was rescheduled."（在她的坚持下，会议被重新安排了时间。")
-> - "His insistence on perfection often delayed the project."（他对完美的坚持经常导致项目延期。")
+> - At her insistence, the meeting was rescheduled. `[例]`
+> - His insistence on perfection often delayed the project. `[例]`
 
 ## 复习记录
 

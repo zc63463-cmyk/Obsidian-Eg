@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**省际的，省与省之间的**==；
+**adj.** ①==**省际的，省与省之间的**== `interprovincial trade/highway` [正式] `interprovincial cooperation/migration` [正式]；
 
 > [!tip] 原型义
 > **原型义**：在省份之间的（跨越不同省份的）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Interprovincial trade barriers have been reduced significantly."（省际贸易壁垒已大幅降低）
-> - "The interprovincial highway system connects major cities across the country."（省际公路系统连接了全国各大城市）
+> - Interprovincial trade barriers have been reduced significantly. `[例]`
+> - The interprovincial highway system connects major cities across the country. `[例]`
 
 ## 复习记录
 

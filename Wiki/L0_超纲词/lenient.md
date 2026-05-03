@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**宽大的，仁慈的**==；②（标准）宽松的，不严格的；
+**adj.** ①==**宽大的，仁慈的**== `a lenient judge/punishment` [正面/法律] `be lenient with sb.` [正面/通用]；②==**（标准）宽松的，不严格的**== `lenient rules/standards` [中性/通用]；
 
 > [!tip] 原型义
 > **原型义**：宽大的，温和的（源自拉丁语 *lenis* = 柔软的/温和的）
@@ -126,8 +126,8 @@ len(柔软/温和，拉丁语 *lenis*) + -i- + -ent(形容词后缀，表示"具
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The judge was lenient with the first-time offender, imposing only a fine."（法官对初犯者从轻处罚，仅处以罚款。）
-> - "The school has lenient rules regarding dress code."（该校对着装规定比较宽松。")
+> - The judge was lenient with the first-time offender, imposing only a fine. `[例]`
+> - The school has lenient rules regarding dress code. `[例]`
 
 ## 复习记录
 

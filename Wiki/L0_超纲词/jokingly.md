@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**开玩笑地，戏谑地**==；
+**adv.** ①==**开玩笑地，戏谑地**== `jokingly refer to / jokingly suggest` [通用]；
 
 > [!tip] 原型义
 > **原型义**：以开玩笑的方式
@@ -127,8 +127,8 @@ joke(玩笑) + -ing(动名词/进行) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He jokingly referred to himself as the 'boss of the household'."（他戏谑地称自己为"一家之主"。）
-> - "She jokingly suggested that we should just quit our jobs and travel the world."（她开玩笑地建议我们应该辞职去环游世界。）
+> - He jokingly referred to himself as the boss of the household. `[例]`
+> - She jokingly suggested that we should just quit our jobs and travel the world. `[例]`
 
 ## 复习记录
 

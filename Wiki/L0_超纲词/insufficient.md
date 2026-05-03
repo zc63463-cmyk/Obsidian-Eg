@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不足的，不够的**==；②无能的；
+**adj.** ①==**不足的，不够的**== `insufficient + n.` [正式] `insufficient for + n.` [通用]；②==**无能的**== `be insufficient for the task` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不足的（不够用的）
@@ -125,8 +125,8 @@ in-(不，否定) + [[suf-|sub-]](下面/足够) + [[fac|fac-]](做) + -ient(…
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The project was abandoned due to insufficient funding."（由于资金不足，该项目被放弃了。")
-> - "Insufficient evidence led to the acquittal of the defendant."（证据不足导致被告被判无罪。")
+> - The project was abandoned due to insufficient funding. `[例]`
+> - Insufficient evidence led to the acquittal of the defendant. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**创造性，发明才能**==；②独创性；
+**n.** ①==**创造性，发明才能**== `remarkable/great inventiveness` [正式] `show/demonstrate inventiveness` [正式]；②==**独创性**== `artistic/design inventiveness` [正式]；
 
 > [!tip] 原型义
 > **原型义**：找到的能力（从无到有发现/创造新事物的能力）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The inventor's remarkable inventiveness led to numerous breakthroughs."（这位发明家非凡的发明才能带来了众多突破）
-> - "Artistic inventiveness often emerges from the fusion of different cultural traditions."（艺术独创性常常源于不同文化传统的融合）
+> - The inventor's remarkable inventiveness led to numerous breakthroughs. `[例]`
+> - Artistic inventiveness often emerges from the fusion of different cultural traditions. `[例]`
 
 ## 复习记录
 

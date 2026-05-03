@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**创新的，革新的**==；②富有创新精神的；
+**adj.** ①==**创新的，革新的**== `innovative approach/method to n.` [正式]；②==**富有创新精神的**== `an innovative company/mind` [正式]；
 
 > [!tip] 原型义
 > **原型义**：创新的（引入新事物的）
@@ -125,8 +125,8 @@ in-(进入) + nov(新的，拉丁语 *novus*) + -at(动词) + -ive(倾向/性质
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company is known for its innovative approach to product design."（这家公司以其创新的产品设计方法而闻名。")
-> - "Innovative technologies have transformed the way we communicate."（创新技术改变了我们的沟通方式。")
+> - The company is known for its innovative approach to product design. `[例]`
+> - Innovative technologies have transformed the way we communicate. `[例]`
 
 ## 复习记录
 

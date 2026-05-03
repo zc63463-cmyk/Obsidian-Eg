@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有害的，造成伤害的**==；②中伤的，诽谤的；
+**adj.** ①==**有害的，造成伤害的**== `be injurious to sth` [正式] `injurious effects/remarks` [书面]；②中伤的，诽谤的；
 
 > [!tip] 原型义
 > **原型义**：有害的（造成伤害的）
@@ -124,8 +124,8 @@ in-(不) + [[jur|jur-]](法律/权利) + -ious(充满…的) → 实际来自 in
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Smoking is injurious to health."（吸烟有害健康。——经典表达）
-> - "The injurious effects of pollution on public health are well documented."（污染对公众健康的有害影响已有充分记录。")
+> - Smoking is injurious to health. `[例]`
+> - The injurious effects of pollution on public health are well documented. `[例]`
 
 ## 复习记录
 

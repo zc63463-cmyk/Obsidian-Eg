@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**慵懒的，倦怠的**==；②缓慢的，无精打采的；③（文学）柔美的，优雅的；
+**adj.** ①==**慵懒的，倦怠的**== `a languid afternoon/mood` [中性/文学] `feel languid from the heat` [中性/日常]；②==**缓慢的，无精打采的**== `languid movements/pace` [中性/文学]；③==**（文学）柔美的，优雅的**== `move with a languid grace` [正面/文学]；
 
 > [!tip] 原型义
 > **原型义**：缓慢无力的（因疲倦或炎热而身体发软）
@@ -128,8 +128,8 @@ langu(虚弱/疲倦，拉丁语 *languere* = 虚弱) + -[[id-ident|id]](形容�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She moved with a languid grace that captivated everyone in the room."（她以慵懒优雅的举止吸引了房间里的每一个人。）
-> - "The heat of the afternoon made everyone feel languid and unmotivated."（午后的炎热让每个人都感到慵懒无力。）
+> - She moved with a languid grace that captivated everyone in the room. `[例]`
+> - The heat of the afternoon made everyone feel languid and unmotivated. `[例]`
 
 ## 复习记录
 

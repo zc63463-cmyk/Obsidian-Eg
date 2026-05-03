@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**语言学家**==；②通晓多国语言的人；
+**n.** ①==**语言学家**== `a prominent/applied linguist` [学术] `a linguist and philosopher` [学术]；②通晓多国语言的人 `a skilled linguist` [通用] `a natural linguist` [通用]；
 
 > [!tip] 原型义
 > **原型义**：研究语言的人（拉丁语 *lingua* = 舌头→语言，-ist = 从事某职业的人）
@@ -126,8 +126,8 @@ lingu-（来自拉丁语 *lingua*，舌头→语言）+ -ist（名词后缀，"�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Noam Chomsky, perhaps the world's most famous linguist, revolutionized the study of language with his theory of universal grammar."（诺姆·乔姆斯基也许是世界上最著名的语言学家，他用普遍语法理论彻底改变了语言研究——学术语料）
-> - "The CIA employs linguists who can translate intercepted communications from dozens of languages."（中央情报局雇佣能翻译数十种语言截获通讯的语言学家——新闻语料）
+> - Noam Chomsky, perhaps the world's most famous linguist, revolutionized the study of language with his theory of universal grammar. `[例]`
+> - The CIA employs linguists who can translate intercepted communications from dozens of languages. `[例]`
 
 ## 复习记录
 
