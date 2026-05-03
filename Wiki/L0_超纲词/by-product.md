@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**副产品**==；②附带产生的结果；
+**n.** ①==**副产品**== `a N of` [中性]；②==**附带产生的结果**== `a N of N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：副产品（生产过程中的附带产物）
@@ -124,8 +124,8 @@ by-(旁/次要的) + product(产品)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - by-product 常出现在经济分析、环境讨论、社会科学相关语料中
-> - 相关阅读话题：industrial production, environmental impact, social change
+> - The glycerol produced during soap manufacturing is a valuable by-product. `[例]`
+> - Improved public health was an unexpected by-product of the clean water initiative. `[例]`
 
 ## 复习记录
 

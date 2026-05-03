@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**夹子，夹钳，夹具**==；②（英）车轮锁；
-**v.** ①==**夹紧，固定**==；② clamp down（严厉打击，压制）；
+**n.** ①==**夹子，夹钳，夹具**== `N` [中性/技术]；②（英）车轮锁；
+**v.** ①==**夹紧，固定**== `V N` [中性/技术]；② clamp down（严厉打击，压制）；
 
 > [!tip] 原型义
 > **原型义**：夹紧装置（用夹子固定住物体）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government has clamped down on illegal immigration."（政府严厉打击了非法移民——新闻语料）
-> - "The police are clamping down on drug trafficking in the city."（警方正在严厉打击市内的毒品走私——新闻语料）
+> - The government has clamped down on illegal immigration. `[例]`
+> - The police are clamping down on drug trafficking in the city. `[例]`
 
 ## 复习记录
 

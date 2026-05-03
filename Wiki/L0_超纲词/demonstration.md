@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**示范，演示**==；②==**证明，论证**==；③==**示威，游行**==；
+**n..** ①==**示范，演示**== `give a N` [教学]；②==**证明，论证**== `N of N` [学术]；③==**示威，游行**== `adj N` [新闻] `N against N` [新闻]；
 
 > [!tip] 原型义
 > **原型义**：指出来给人看（通过展示让别人明白）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Thousands took part in a demonstration against the new law.（数千人参加了反对新法律的示威游行。）
+> - Thousands of citizens took part in a peaceful demonstration against the government's new tax policy. `[例]`
+> - The professor gave a clear demonstration of the chemical reaction to help students understand the process. `[例]`
 
 ## 复习记录
 

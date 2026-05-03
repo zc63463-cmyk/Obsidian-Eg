@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**作曲家**==；②（计算机）排版程序；③（泛指）创作者；
+**n.** ①==**作曲家**== `a adj N` [正式]；②（计算机）排版程序；③（泛指）创作者；
 
 > [!tip] 原型义
 > **原型义**：组合在一起的人（把各部分组合成整体的人）
@@ -123,8 +123,9 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Beethoven is widely regarded as one of the greatest composers in Western music history."（贝多芬被广泛认为是西方音乐史上最伟大的作曲家之一——文化语料）
-> - "The film's score was composed by a renowned Hollywood composer."（该电影的配乐由一位著名的好莱坞作曲家创作——影评语料）
+> - Beethoven is widely regarded as one of the greatest composers in Western music history. `[例]`
+> - The film's score was composed by a renowned Hollywood composer. `[例]`
+> - The young composer debuted her first symphony at the age of twenty-five. `[例]`
 
 ## 复习记录
 

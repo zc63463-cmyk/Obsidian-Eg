@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**勇敢的，有胆量的**==；②无畏的；
+**adj.** ①==**勇敢的，有胆量的**== `adj N` [正式] `courageous enough to V` [通用]；②==**无畏的**== `courageous leader` [正式]；
 
 > [!tip] 原型义
 > **原型义**：心如磐石般的（拉丁语 *cor* "心" + *age* 状态 → 心的状态）
@@ -129,7 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It was a courageous decision to speak out against the injustice."（站出来反对不公正，这是一个勇敢的决定）
+> - It was a courageous decision to speak out against the injustice. `[例]`
+> - The courageous leader guided her team through the most difficult crisis the company had ever faced. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**旅行队，商队**==；②（英）拖车式活动房屋；③（美）大篷车；
+**n.** ①==**旅行队，商队**== `a N of camels` [中性]；`trade N` [中性]；②（英）拖车式活动房屋；③（美）大篷车；
 
 > [!tip] 原型义
 > **原型义**：结队行进的商队（沙漠中骆驼结成的旅行队伍）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Silk Road was once traveled by caravans of merchants carrying goods between East and West."（丝绸之路曾是东西方商人组成商队运送货物的通道——历史语料）
-> - "They spent their summer holiday traveling around the country in a caravan."（他们开着活动房屋环游全国度暑假——英式英语语料）
+> - The Silk Road was once traveled by caravans of merchants carrying goods between East and West. `[例]`
+> - They spent their summer holiday traveling around the country in a caravan. `[例]`
 
 ## 复习记录
 

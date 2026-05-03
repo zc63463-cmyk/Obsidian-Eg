@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阉牛，小公牛**==；
+**n.** ①==**阉牛，小公牛**== `N cart` [英式]；`a team of N` [英式]；
 
 > [!tip] 原型义
 > **原型义**：阉牛（阉割过的年轻公牛）
@@ -119,8 +119,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - bullock 常出现在农业、发展中国家、历史相关语料中
-> - 相关阅读话题：agriculture, rural India, traditional transport
+> - The farmer loaded the harvested grain onto a bullock cart and headed to the market. `[例]`
+> - A team of bullocks ploughed the field before the monsoon arrived. `[例]`
 
 ## 复习记录
 

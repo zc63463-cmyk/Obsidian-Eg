@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**美元（口语）**==；②雄鹿，公羊；③（buck up）振作起来；
-**v.** ①抵抗，反对；
+**n.** ①==**美元（口语）**== `a few N` [口语]；`make a N` [口语]；②雄鹿，公羊；③（buck up）振作起来；
+**v.** ①==**抵抗，反对**== `V the trend` [口语]；`V the system` [口语]；
 
 > [!tip] 原型义
 > **原型义**：雄鹿
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - buck 常出现在经济、商业、口语表达相关语料中
-> - 相关阅读话题：market trends, American culture, informal English
+> - The company managed to buck the trend and increase profits during the recession. `[例]`
+> - He borrowed a few bucks from his friend to pay for lunch. `[例]`
 
 ## 复习记录
 

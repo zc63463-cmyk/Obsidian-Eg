@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**拆除，拆毁**==；②==**毁灭，破坏**==；
+**n..** ①==**拆除，拆毁**== `N of N` [建筑]；②==**毁灭，破坏**== `N of N` [军事]；
 
 > [!tip] 原型义
 > **原型义**：拆除（把建筑物从地基上拆掉）
@@ -123,7 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The old factory is scheduled for demolition next month.（旧工厂计划于下月拆除。）
+> - The old factory is scheduled for demolition next month to make room for a new shopping center. `[例]`
+> - The army carried out the demolition of the enemy's fortified defenses during the overnight operation. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**手机，蜂窝电话**==；
+**n.** ①==**手机，蜂窝电话**== `N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：蜂窝式便携电话（基于蜂窝网络覆盖的移动通信设备）
@@ -118,8 +118,8 @@ cell（蜂窝，单元格）+ phone（声音，电话）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The widespread use of cellphones has fundamentally changed the way people communicate."（手机的广泛使用从根本上改变了人们的交流方式——科技语料）
-> - "Studies have shown that excessive cellphone use can lead to sleep disorders."（研究表明过度使用手机可能导致睡眠障碍——健康语料）
+> - The widespread use of cellphones has fundamentally changed the way people communicate. `[例]`
+> - Studies have shown that excessive cellphone use can lead to sleep disorders. `[例]`
 
 ## 复习记录
 

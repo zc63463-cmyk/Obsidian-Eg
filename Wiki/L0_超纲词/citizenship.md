@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**公民身份，国籍**==；②公民权利与义务；③公民品德；
+**n.** ①==**公民身份，国籍**== `N` [中性/正式]；②公民权利与义务；③公民品德；
 
 > [!tip] 原型义
 > **原型义**：公民身份（属于某个城邦/国家的成员资格）
@@ -126,8 +126,8 @@ citizen（公民）+ -ship（表示身份、资格的后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She applied for British citizenship after living in the UK for ten years."（在英国居住十年后，她申请了英国国籍——移民语料）
-> - "Schools should promote good citizenship among students."（学校应该在学生中培养良好的公民品德——教育语料）
+> - She applied for British citizenship after living in the UK for ten years. `[例]`
+> - Schools should promote good citizenship among students. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小教堂，祈祷室**==；②（医院、学校等附属的）礼拜堂；③（英）非国教礼拜堂；
+**n.** ①==**小教堂，祈祷室**== `N` [通用]；②（医院、学校等附属的）礼拜堂；③（英）非国教礼拜堂；
 
 > [!tip] 原型义
 > **原型义**：小型祈祷场所（附属于更大建筑的私人祈祷空间）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The couple was married in a small chapel in the countryside."（这对夫妇在乡间的一个小教堂里举行了婚礼——文学语料）
-> - "The university chapel dates back to the 15th century."（这所大学的礼拜堂可以追溯到15世纪——历史语料）
+> - The couple was married in a small chapel in the countryside. `[例]`
+> - The university chapel dates back to the 15th century. `[例]`
 
 ## 复习记录
 

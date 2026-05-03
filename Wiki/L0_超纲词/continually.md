@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不断地，频繁地**==（可能有间断）；②频繁地，一再地；
+**adv.** ①==**不断地，频繁地**== `adv. V` [通用]（可能有间断）；②==**一再地**== `adv. V` [通用]；
 
 > [!tip] 原型义
 > **原型义**：不断地延续（中间可能有间断）
@@ -130,7 +130,8 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Technology is continually evolving, forcing us to adapt to new ways of working."（技术在不断演进，迫使我们适应新的工作方式）
+> - Technology is continually evolving, forcing us to adapt to new ways of working. `[例]`
+> - She continually checks her phone for messages even during important meetings. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**根深蒂固的，深层的**==；
+**adj..** ①==**根深蒂固的，深层的**== `adj` [中性]；
 
 > [!tip] 原型义
 > **原型义**：深深坐定（根深蒂固地固定在某处）
@@ -119,7 +119,8 @@ deep(深的) + seat(坐/安置) + -ed(形容词后缀，表状态) → 深深坐
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Deep-seated cultural differences make negotiations difficult.（根深蒂固的文化差异使谈判变得困难。）
+> - Deep-seated cultural differences make negotiations difficult. `[例]`；
+> - His deep-seated distrust of authority stemmed from a troubled childhood. `[例]`；
 
 ## 复习记录
 

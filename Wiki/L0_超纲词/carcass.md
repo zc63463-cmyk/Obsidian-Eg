@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（动物的）尸体，骨架**==；②（建筑的）残骸，框架；③（人的）躯体（贬义）；
+**n.** ①==**（动物的）尸体，骨架**== `animal N` [中性]；②==**（建筑的）残骸，框架**== `the N of a building` [中性]；③（人的）躯体（贬义）；
 
 > [!tip] 原型义
 > **原型义**：动物的躯体（屠宰后去掉皮肉的骨架）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Vultures circled above the carcass of the dead animal."（秃鹫在动物尸体上方盘旋——自然语料）
-> - "The fire left only the carcass of the old factory."（大火只留下了旧工厂的残骸——新闻语料）
+> - Vultures circled above the carcass of the dead animal. `[例]`
+> - The fire left only the carcass of the old factory. `[例]`
 
 ## 复习记录
 

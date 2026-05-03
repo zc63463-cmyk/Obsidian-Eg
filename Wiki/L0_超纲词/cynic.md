@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**愤世嫉俗者**==；②好挖苦人的人，冷嘲热讽者；
-**adj.** ①愤世嫉俗的；
+**n.** ①==**愤世嫉俗者**== `N` [消极]；②==**好挖苦人的人，冷嘲热讽者**== `N` [消极]；
+**adj.** ①==**愤世嫉俗的**== `adj` [消极]；
 
 > [!tip] 原型义
 > **原型义**：像狗一样的人（希腊语 *kynikos* "犬儒的"，源自 *kyon* "狗"）
@@ -130,7 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A cynic might argue that philanthropic gestures are merely attempts to improve corporate image."（一个愤世嫉俗者可能会争辩说，慈善举动不过是改善企业形象的手段）
+> - A cynic might argue that philanthropic gestures are merely attempts to improve corporate image. `[例]`；
+> - Don't be such a cynic — not everyone has selfish motives. `[例]`；
 
 ## 复习记录
 

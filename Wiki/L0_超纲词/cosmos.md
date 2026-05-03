@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宇宙**==；②和谐有序的整体；
+**n.** ①==**宇宙**== `the cosmos` [书面] `explore the cosmos` [书面]；②==**和谐有序的整体**== `a cosmos of` [文学]；
 
 > [!tip] 原型义
 > **原型义**：有序的宇宙整体（希腊语 *kosmos* "秩序/宇宙"）
@@ -129,7 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Humanity has always looked to the cosmos with a sense of wonder and curiosity."（人类一直怀着惊奇和好奇仰望宇宙）
+> - Humanity has always looked to the cosmos with a sense of wonder and curiosity. `[例]`
+> - Scientists continue to explore the cosmos in search of signs of extraterrestrial life. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**缺乏，稀少，短缺**==；
+**n..** ①==**缺乏，稀少，短缺**== `N` [消极]；
 
 > [!tip] 原型义
 > **原型义**：稀缺（东西少到几乎见底）
@@ -118,7 +118,8 @@ dear(珍贵的) + -th(名词后缀，表状态) → 珍贵到稀缺
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - A dearth of reliable data makes it difficult to draw conclusions.（可靠数据的缺乏使得难以得出结论。）
+> - A dearth of reliable data makes it difficult to draw conclusions. `[例]`；
+> - The region is suffering from a dearth of qualified teachers. `[例]`；
 
 ## 复习记录
 

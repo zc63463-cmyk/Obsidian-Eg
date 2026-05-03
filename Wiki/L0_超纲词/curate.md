@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（博物馆/美术馆的）策展人**==；②（教会的）助理牧师；
-**v.** ①==**策展，策划（展览等）**==；②收集并挑选（网络内容等）；
+**n.** ①==**（博物馆/美术馆的）策展人**== `N` [专业]；②（教会的）==**助理牧师**== `N` [宗教]；
+**v.** ①==**策展，策划（展览等）**== `V N` [专业]；②==**收集并挑选（网络内容等）**== `V N` [专业]；
 
 > [!tip] 原型义
 > **原型义**：照料/管理的人（拉丁语 *curare* "照料/关心"）
@@ -131,7 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The museum's new exhibition was carefully curated to showcase the evolution of modern art."（博物馆的新展览经过精心策划，展示了现代艺术的演变）
+> - The museum's new exhibition was carefully curated to showcase the evolution of modern art. `[例]`
+> - She curates a weekly newsletter that highlights the most interesting articles on artificial intelligence. `[例]`
 
 ## 复习记录
 

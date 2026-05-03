@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**求偶，追求**==；②（恋爱/婚姻前的）追求期；③讨好，拉拢；
+**n.** ①==**求偶，追求**== `courtship ritual` [正式] `courtship behavior` [学术]；②==**（恋爱/婚姻前的）追求期**== `a period of courtship` [通用]；③==**讨好，拉拢**== `the courtship of N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：在宫廷中寻求好感的行为（源自 court "宫廷"→ 在宫廷中展示礼貌→ 追求）
@@ -126,7 +126,8 @@ court(宫廷/法庭) + -ship(名词后缀，表关系/状态/行为)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The elaborate courtship rituals of birds of paradise have fascinated scientists for decades."（极乐鸟精心复杂的求偶仪式几十年来一直吸引着科学家）
+> - The elaborate courtship rituals of birds of paradise have fascinated scientists for decades. `[例]`
+> - Their courtship lasted nearly two years before they finally decided to get married. `[例]`
 
 ## 复习记录
 

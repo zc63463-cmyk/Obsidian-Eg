@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**挑剔的，爱挑剔的**==；②慎重的，精挑细选的；
+**adj.** ①==**挑剔的，爱挑剔的**== `adj` [口语]；②==**慎重的，精挑细选的**== `adj` [口语]；
 
 > [!tip] 原型义
 > **原型义**：挑剔的（在选择时很讲究的）
@@ -122,8 +122,8 @@ choose（选择）+ -y（形容词后缀，表示"有……倾向的"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She's very choosy about her clothes and never buys anything on impulse."（她对衣服非常挑剔，从不冲动购物——日常语料）
-> - "Don't be too choosy when looking for your first job."（找第一份工作时不要太挑剔——建议语料）
+> - She's very choosy about her clothes and never buys anything on impulse. `[例]`
+> - Don't be too choosy when looking for your first job. `[例]`
 
 ## 复习记录
 

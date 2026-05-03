@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**喋喋不休，闲聊**==；②（牙齿因寒冷）打颤；③（鸟类等）鸣叫；
-**n.** ①==**喋喋不休，闲聊**==；②（牙齿等的）打颤声；③（鸟类的）鸣叫声；
+**v.** ①==**喋喋不休，闲聊**== `V` [口语]；②（牙齿因寒冷）打颤；③（鸟类等）鸣叫；
+**n.** ①==**喋喋不休，闲聊**== `N` [口语]；②（牙齿等的）打颤声；③（鸟类的）鸣叫声；
 
 > [!tip] 原型义
 > **原型义**：快速而连续地发出短促声音（如鸟鸣、牙齿打颤）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The children were chattering excitedly about their upcoming trip."（孩子们兴奋地喋喋不休地谈论即将到来的旅行——文学语料）
-> - "He stood in the freezing wind, his teeth chattering uncontrollably."（他站在刺骨的寒风中，牙齿不受控制地打颤——文学语料）
+> - The children were chattering excitedly about their upcoming trip. `[例]`
+> - He stood in the freezing wind, his teeth chattering uncontrollably. `[例]`
 
 ## 复习记录
 

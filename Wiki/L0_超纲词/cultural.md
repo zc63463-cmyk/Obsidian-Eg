@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**文化的，文化上的**==；②与文化相关的；③栽培的；
+**adj.** ①==**文化的，文化上的**== `adj N` [通用]；②==**与文化相关的**== `adj N` [通用]；③==**栽培的**== `adj N` [农业]；
 
 > [!tip] 原型义
 > **原型义**：与耕种/培养相关的（拉丁语 *colere* "耕种/培养"）
@@ -130,7 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Understanding cultural differences is essential for effective cross-cultural communication."（理解文化差异对于有效的跨文化交流至关重要）
+> - Understanding cultural differences is essential for effective cross-cultural communication. `[例]`
+> - The museum is dedicated to preserving the cultural heritage of indigenous communities. `[例]`
 
 ## 复习记录
 

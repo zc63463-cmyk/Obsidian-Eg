@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**可想象地，可能地**==；②（强调可能性）可以想象地；
+**adv.** ①==**可想象地，可能地**== `could conceivably V` `conceivably the best/worst` [正式]；②（强调可能性）可以想象地 `conceivably true/useful` [正式]；
 
 > [!tip] 原型义
 > **原型义**：可以构想地（在想象中可能发生的）
@@ -122,8 +122,8 @@ con-（加强）+ [[ceit|ceiv-]]（抓住，取得，拉丁语 *capere*）+ -abl
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "This is conceivably the most important discovery in the field this decade."（这可以想象是本领域十年来最重要的发现——学术语料）
-> - "The technology could conceivably revolutionize the way we communicate."（这项技术可能会彻底改变我们的交流方式——科技语料）
+> - This is conceivably the most important discovery in the field this decade. `[例]`；
+> - The technology could conceivably revolutionize the way we communicate in the near future. `[例]`；
 
 ## 复习记录
 

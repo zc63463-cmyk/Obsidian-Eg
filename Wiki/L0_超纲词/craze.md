@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**狂热，风靡一时的事物**==；②短暂的流行；
-**v.** ①==**使发狂**==；
+**n.** ①==**狂热，风靡一时的事物**== `the latest craze` [口语] `fitness craze` [通用]；②==**短暂的流行**== `a dance craze` [口语]；
+**v.** ①==**使发狂**== `V N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：短暂的疯狂（源自中古英语 *crasen* "使精神崩溃/发疯"）
@@ -128,7 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The fitness craze that swept the nation in the 1980s transformed the exercise industry."（20世纪80年代席卷全国的健身狂热改变了健身行业）
+> - The fitness craze that swept the nation in the 1980s transformed the exercise industry. `[例]`
+> - Social media challenges have become the latest craze among teenagers worldwide. `[例]`
 
 ## 复习记录
 

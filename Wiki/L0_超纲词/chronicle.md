@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**编年史，年代记**==；②（事件的）详细记录；
-**v.** ①==**将……载入编年史，记录**==；
+**n.** ①==**编年史，年代记**== `N` [正式]；②（事件的）详细记录；
+**v.** ①==**将……载入编年史，记录**== `V N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：按时间顺序记录的事件（编年史）
@@ -128,8 +128,8 @@ chron（时间，希腊语 *khronos*）+ -icle（名词后缀，表示"小事物
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The book chronicles the rise and fall of the Roman Empire."（这本书记载了罗马帝国的兴衰——学术语料）
-> - "The chronicles of medieval Europe provide valuable insights into daily life."（中世纪欧洲的编年史为日常生活提供了宝贵的洞察——历史语料）
+> - The book chronicles the rise and fall of the Roman Empire. `[例]`
+> - The chronicles of medieval Europe provide valuable insights into daily life. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**申请人，索赔人**==；②（财产、权利等的）主张者；③失业救济金领取者；
+**n.** ①==**申请人，索赔人**== `N` [中性/法律]；②（财产、权利等的）主张者；③失业救济金领取者；
 
 > [!tip] 原型义
 > **原型义**：提出要求的人（声称拥有某项权利的人）
@@ -125,8 +125,8 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The insurance company offered a settlement to the claimant."（保险公司向索赔人提供了和解方案——法律语料）
-> - "The number of unemployment claimants has risen sharply this quarter."（本季度失业救济金领取者数量急剧上升——经济语料）
+> - The insurance company offered a settlement to the claimant. `[例]`
+> - The number of unemployment claimants has risen sharply this quarter. `[例]`
 
 ## 复习记录
 

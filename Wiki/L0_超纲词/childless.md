@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无子女的，没有孩子的**==；
+**adj.** ①==**无子女的，没有孩子的**== `adj` [通用]；
 
 > [!tip] 原型义
 > **原型义**：没有孩子的（缺乏子女的状态）
@@ -120,8 +120,8 @@ child（孩子）+ -less（没有……的）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "An increasing number of couples are choosing to remain childless."（越来越多的夫妇选择不要孩子——社会语料）
-> - "She lived a lonely, childless life after her husband's death."（丈夫去世后，她过着孤独的、无子女的生活——文学语料）
+> - An increasing number of couples are choosing to remain childless. `[例]`
+> - She lived a lonely, childless life after her husband's death. `[例]`
 
 ## 复习记录
 

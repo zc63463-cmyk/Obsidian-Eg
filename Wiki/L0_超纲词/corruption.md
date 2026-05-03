@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**腐败，堕落**==；②贪污，受贿；③（数据/文本的）损坏，讹误；
+**n.** ①==**腐败，堕落**== `N` [通用] `N of N` [正式]；②==**贪污，受贿**== `N` [通用]；③==**（数据/文本的）损坏，讹误**== `N of N` [技术]；
 
 > [!tip] 原型义
 > **原型义**：完全破碎/毁坏的状态（拉丁语 *corruptus* "毁坏的"）
@@ -133,7 +133,8 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government launched a campaign to combat systemic corruption in public institutions."（政府发起了一场打击公共机构系统性腐败的运动）
+> - The government launched a campaign to combat systemic corruption in public institutions. `[例]`
+> - Data corruption in the database resulted in the loss of several months of financial records. `[例]`
 
 ## 复习记录
 

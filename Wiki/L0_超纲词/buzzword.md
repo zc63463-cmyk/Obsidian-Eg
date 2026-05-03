@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**流行热词，时髦术语**==；②（常含贬义）华而不实的流行语；
+**n.** ①==**流行热词，时髦术语**== `tech N` [中性]；`corporate N` [中性]；②（常含贬义）华而不实的流行语；
 
 > [!tip] 原型义
 > **原型义**：流行热词（引起嗡嗡讨论的词）
@@ -124,8 +124,8 @@ buzz(嗡嗡声/热议) + word(词)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - buzzword 常出现在媒体评论、科技报道、商业分析相关语料中
-> - 相关阅读话题：tech culture, corporate communication, media criticism
+> - Many tech companies throw around buzzwords like "blockchain" and "AI" to attract investors. `[例]`
+> - The term "synergy" has become a corporate buzzword that means very little in practice. `[例]`
 
 ## 复习记录
 
