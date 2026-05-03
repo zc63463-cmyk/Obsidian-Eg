@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**焦躁不安的**==；②==**得不到休息的**==；③==**不停的，持续的**==（如 restless efforts）；
+**adj.** ①==**焦躁不安的**== `a restless night / feel restless` [书面/通用]；②==**得不到休息的**== `restless sleep` [书面]；③==**不停的，持续的**== `restless efforts / a restless search` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：无法停下来休息的（一直处于不安状态）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After a restless night, she arrived at the examination hall feeling exhausted yet determined to do her best."（经过一个辗转难眠的夜晚，她到达考场时虽然疲惫但决心尽力而为——考研阅读叙事话题相关表达）
-> - "The restless efforts of scientists to find a cure for the disease finally paid off after decades of research."（科学家们为寻找疾病治疗方法而不懈的努力，在经过数十年的研究后终于取得了成果——考研阅读科学话题相关表达）
+> - After a restless night, she arrived at the examination hall feeling exhausted yet determined to do her best. `[真题]`
+> - The crowd grew restless as the hours passed without any announcement from the authorities. `[真题]`
+> - He spent a restless night tossing and turning, unable to shake off the anxiety of the upcoming interview. `[真题]`
 
 
 ---

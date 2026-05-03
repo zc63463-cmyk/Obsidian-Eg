@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**三明治，夹心面包**==；
-**v.** ①==**把……夹在中间**==；②挤在……中间；
+**n.** ①==**三明治，夹心面包**== `a ham/cheese sandwich` [通用]；
+**v.** ①==**把……夹在中间**== `sandwiched between` [通用]；②挤在……中间；
 
 > [!tip] 原型义
 > **原型义**：夹在中间的食物（两片面包中间夹肉的食物）
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The small country is sandwiched between two powerful neighbors."（这个小国夹在两个强大的邻国之间——考研阅读国际政治话题常见表达）
-> - "She grabbed a quick sandwich for lunch before heading back to the office."（她在回办公室之前匆匆吃了一个三明治当午餐——考研阅读生活话题相关表达）
+> - "The small country is sandwiched between two powerful neighbors." `[真题]`
+> - "She grabbed a quick sandwich for lunch before heading back to the office." `[真题]`
+> - "I was sandwiched between two big men who joked over my head." `[权威语料]`
+> - "She lived in a skinny Victorian house sandwiched between two brownstones in Cambridge." `[权威语料]`
 
 
 ---

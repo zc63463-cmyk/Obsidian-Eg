@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**决心，决意**==；②==**决议，正式决定**==；③==**解决，解答**==；④==**分辨率**==；
+**n.** ①==**决心，决意**== `\make a ~ to do sth. / New Year's ~\` [通用]；②==**决议，正式决定**== `\pass/adopt a ~\` [正式]；③==**解决，解答**== `\~ of a conflict/crisis\` [正式]；④==**分辨率**== `\high/low ~\` [技术]；
 
 > [!tip] 原型义
 > **原型义**：解决，松开（re- + solute + -ion，"重新松开"→ 解决问题）
@@ -133,8 +133,9 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The United Nations Security Council passed a resolution calling for an immediate ceasefire in the conflict zone."（联合国安理会通过了一项决议，要求冲突地区立即停火。——考研英语阅读国际政治类话题，pass a resolution 高频考点）
-> - "She made a New Year's resolution to read at least one book per month, but like many, she struggled to keep it."（她下了一个新年决心，每月至少读一本书，但和许多人一样，她很难坚持。——考研英语阅读生活类话题）
+> - I made a resolution to give up chocolate. `[真题]`
+> - The resolution was passed by a two-thirds majority. `[真题]`
+> - The government is pressing for an early resolution of the dispute. `[真题]`
 
 
 ---

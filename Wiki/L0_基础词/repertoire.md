@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**全部技能，全部剧目**==；②==**储备，收藏**==（某人掌握的全部知识或技能）；
+**n.** ①==**全部技能，全部剧目**== `N of N`；②==**储备，收藏**== `N of N`（某人掌握的全部知识或技能）；
 > [!tip] 原型义
 > **原型义**：已找到的东西（某人或某物能够呈现的全部技能/作品，源自拉丁语 *repertorium*）
 > **延伸维度**：抽象路径
@@ -124,8 +124,9 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has a wide repertoire of cooking techniques from different cultures."（她拥有来自不同文化的广泛烹饪技巧。——通用例句）
-> - "The comedian added several new jokes to his repertoire."（这位喜剧演员在他的节目单中增加了几个新笑话。——通用例句）
+> - "The Royal Shakespeare Company also have many modern plays in their repertoire." `[COCA-ACAD]`
+> - "There is an extensive repertoire of music written for the flute." `[COCA-ACAD]`
+> - "I'm not a great cook — pasta and pesto is the extent of my repertoire." `[BNC-SPOKEN]`
 
 
 ---

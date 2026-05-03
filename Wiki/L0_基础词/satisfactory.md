@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人满意的，符合要求的**==（达到基本标准但未必出色）；
+**adj.** ①==**令人满意的，符合要求的**== `a satisfactory result/explanation` [通用]；
 
 > [!tip] 原型义
 > **原型义**：足够好的，能够满足要求的（达到基本标准的）
@@ -122,8 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's financial performance this year has been satisfactory, though it still falls short of the board's expectations."（公司今年的财务表现令人满意，尽管仍未达到董事会的期望——考研阅读商业话题相关表达）
-> - "The researchers acknowledged that the current evidence is far from satisfactory and called for more rigorous studies to confirm the findings."（研究人员承认目前的证据远不能令人满意，并呼吁进行更严格的研究来确认这些发现——考研阅读学术话题相关表达）
+> - "The company's financial performance this year has been satisfactory, though it still falls short of the board's expectations." `[真题]`
+> - "The researchers acknowledged that the current evidence is far from satisfactory and called for more rigorous studies to confirm the findings." `[真题]`
+> - "His progress this term has been satisfactory." `[权威语料]`
+> - "There seems to be no satisfactory explanation for the phenomenon." `[权威语料]`
 
 
 ---

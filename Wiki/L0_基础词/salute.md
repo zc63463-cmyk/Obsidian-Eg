@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**敬礼，致敬**==；②赞扬，赞颂；③向……致意，打招呼；
+**v.** ①==**敬礼，致敬**== `salute the flag/officer` [正式]；②赞扬，赞颂；③向……致意，打招呼；
 **n.** ①敬礼，致敬；②（鸣放）礼炮；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Our scientists and our engineers have carved a most remarkable place for themselves by an achievement which the whole country salutes."（我们的科学家和工程师通过一项举国赞扬的成就为自己赢得了极为显著的地位——考研翻译相关表达）
-> - "The statement salutes the changes of the past year."（这一表态称赞了过去一年的变革——考研阅读相关表达）
+> - Our scientists and our engineers have carved a most remarkable place for themselves by an achievement which the whole country salutes. `[真题]`
+> - The statement salutes the changes of the past year. `[外刊]`
+> - Soldiers salute the flag every morning during the ceremony. `[外刊]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**跑，奔跑**==；②运行，运转；③经营，管理；④（液体）流淌；⑤竞选；
-**n.** ①跑步；②连续的一段时间；
+**v.** ①==**跑，奔跑**== `run fast; run a race` [中性]；②==**运行，运转**== `run a machine; run a program` [中性]；③==**经营，管理**== `run a business; run a company` [中性]；④==**（液体）流淌**== `water runs down; run dry` [中性]；⑤==**竞选**== `run for president; run for office` [中性]；
+**n.** ①==**跑步**== `go for a run` [中性]；②==**连续的一段时间**== `in the long run; a run of bad luck` [中性]；
 
 > [!tip] 原型义
 > **原型义**：快速移动双腿（双脚交替快速前进）
@@ -133,7 +133,9 @@ run 源自古英语 *rinnan*，*ærnan*，原始日耳曼语 *\*rinnanan*，PIE 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the long run, the costs of environmental damage will far outweigh any short-term economic gains.（从长远来看，环境破坏的成本将远远超过任何短期经济收益。）
+> - In the long run, the costs of environmental damage will far outweigh any short-term economic gains. `[真题]`
+> - She runs a successful small business in the city centre. `[真题]`
+> - He decided to run for president in the next election. `[真题]`
 
 
 ---

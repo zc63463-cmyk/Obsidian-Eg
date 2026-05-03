@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**辞职，辞去**==；②==**顺从，听任**==；③==**委托，交托**==（古义）；
+**v.** ①==**辞职，辞去**== `\~ from one's position / ~ as governor\` [正式]；②==**顺从，听任**== `\~ oneself to (doing) sth.\` [正式]；③==**委托，交托**==（古义）；
 
 > [!tip] 原型义
 > **原型义**：重新签名，放弃（re- + sign，"再次签名"→ 签字放弃→ 辞职）
@@ -132,8 +132,9 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The CEO resigned from his position following allegations of financial misconduct."（首席执行官在面临财务不当行为指控后辞去了职务。——考研英语阅读商业类话题，resign from 高频考点）
-> - "Faced with overwhelming evidence, the defendant resigned himself to the inevitable outcome of the trial."（面对压倒性的证据，被告只能听任审判的必然结果。——考研英语阅读法律类话题，resign oneself to 高频表达）
+> - He resigned as governor of Punjab in August. `[真题]`
+> - The newspaper's editor resigned after the scandal. `[真题]`
+> - He was forced to resign his position as headmaster of the school because of ill health. `[真题]`
 
 
 ---

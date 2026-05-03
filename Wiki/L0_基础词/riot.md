@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**暴乱，骚乱**==；②丰富多彩，引人注目（a riot of color）；③纵情，狂欢；
-**v.** ①发生暴乱；②放荡，纵情；
+**n.** ①==**暴乱，骚乱**== `race riots/break out` [社会]；②==**丰富多彩，引人注目**== `a riot of color` [文学]；③==**纵情，狂欢**== `have a riot` [口语]；
+**v.** ①==**发生暴乱**== `rioting in the streets` [社会]；②==**放荡，纵情**== `run riot` [行为]；
 
 > [!tip] 原型义
 > **原型义**：放纵的行为（不受控制的混乱行为）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The riot broke out after the controversial court verdict was announced."（争议性法院判决宣布后爆发了暴乱。）
-> - "The garden was a riot of color in spring."（春天花园里色彩缤纷。）
+> - "His murder triggered vicious race riots across the city." `[真题]`
+> - "All the cacti were in flower, so that the desert was a riot of colour." `[真题]`
+> - "Food riots resulted in two deaths and looting throughout the city." `[真题]`
 
 
 ---

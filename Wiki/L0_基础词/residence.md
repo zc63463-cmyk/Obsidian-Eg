@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**住处，住宅**==；②==**居住，定居**==；③==**合法居住资格**==；
+**n.** ①==**住处，住宅**== `\take up ~ in / official ~\` [正式]；②==**居住，定居**== `\permanent/temporary ~\` [正式]；③==**合法居住资格**== `\~ permit\` [正式]；
 
 > [!tip] 原型义
 > **原型义**：居住，住所（re- + sid + -ence，"再次坐下来的地方"→ 居住的场所）
@@ -131,8 +131,9 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Foreign nationals must obtain a residence permit if they wish to stay in the country for more than six months."（外国公民如果想在该国停留超过六个月，必须获得居住许可。——考研英语阅读法律类话题，residence permit 高频表达）
-> - "The ambassador took up residence in the newly built embassy compound last month."（大使上个月在新落成的使馆大院里住了下来。——考研英语阅读外交类话题）
+> - She took up residence in Canada. `[真题]`
+> - Number Ten Downing Street is the British prime minister's official residence. `[真题]`
+> - Jeff has permanent residence in Canada, but is still a US citizen. `[真题]`
 
 
 ---

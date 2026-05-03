@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**拯救，救助**==；②救星，救助手段；③（宗教）灵魂得救，救赎；
+**n.** ①==**拯救，救助**== `salvation from sth.` [正式]；②救星，救助手段；③（宗教）灵魂得救，救赎；
 
 > [!tip] 原型义
 > **原型义**：使之安全/健康（从危险中拯救出来）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is striking that postal firms — once seen as obsolete because of the emergence of the internet — are now finding salvation from it."（引人注目的是，邮递公司——曾经因为互联网的出现而被认为过时——如今却在从中寻找出路——《经济学人》考研高频外刊例句）
-> - "Education was seen as the salvation of the poor."（教育被视为穷人的出路——考研阅读社会话题相关表达）
+> - It is striking that postal firms — once seen as obsolete because of the emergence of the internet — are now finding salvation from it. `[外刊]`
+> - Education was seen as the salvation of the poor. `[外刊]`
+> - The Lord himself is my strength and my defense; he has become my salvation. `[外刊]`
 
 
 ---

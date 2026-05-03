@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**屋顶，顶部**==；②（汽车的）车顶；
+**n.** ①==**屋顶，顶部**== `the roof of a house / a flat roof` [通用]；②（汽车的）车顶；
 **v.** ①给…盖屋顶；②覆盖；
 
 > [!tip] 原型义
@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Housing prices have gone through the roof in recent years."（近年来房价飞涨——考研经济类常见表达）
+> - Housing prices have gone through the roof in recent years. `[真题]`
+> - There are various stores and restaurants all under one roof. `[真题]`
+> - Following news of increased profits, the company's share price went through the roof. `[真题]`
 
 
 ---

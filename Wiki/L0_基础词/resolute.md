@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**坚决的，果断的**==；②==**不屈不挠的**==；
+**adj.** ①==**坚决的，果断的**== `\a ~ leader / a ~ decision\` [正式]；②==**不屈不挠的**== `\be ~ in one's belief\` [正式]；
 
 > [!tip] 原型义
 > **原型义**：坚决的，果断的（re- + solute，"松开→重新锁定"→ 坚定不移）
@@ -129,8 +129,9 @@ re-(前缀：再/回) + solute(松开/解开，来自词根 [[solu-solv]]，与 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The resolute leader refused to compromise on the core principles of the reform, despite mounting pressure from opponents."（尽管反对者的压力越来越大，这位坚定的领导人拒绝在改革的核心原则上妥协。——考研英语阅读政治类话题）
-> - "She was resolute in her determination to pursue a career in scientific research, overcoming numerous obstacles along the way."（她坚定地决心从事科学研究事业，一路上克服了无数障碍。——考研英语阅读人物传记类话题）
+> - She remained resolute in her belief that the situation would improve. `[真题]`
+> - Tough policies and resolute leadership always create enemies. `[真题]`
+> - The players stood resolute in the hope of having their former agreement renewed. `[真题]`
 
 
 ---

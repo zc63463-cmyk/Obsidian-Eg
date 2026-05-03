@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**相似，相似之处**==；②==**外表相似**==；③==**肖像，画像**==（古义）；
+**n.** ①==**相似，相似之处**== `\bear a ~ to / between A and B\` [通用]；②==**外表相似**== `\a superficial/close/striking ~\` [通用]；③==**肖像，画像**==（古义）；
 
 > [!tip] 原型义
 > **原型义**：相似，相似之处（re- + semble，"再次像"→ 相似）
@@ -128,8 +128,9 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new building bears a striking resemblance to the ancient temple, though it was built using modern materials."（这座新建筑与那座古庙有着惊人的相似之处，尽管它是用现代材料建造的。——考研英语阅读建筑文化类话题）
-> - "Despite their superficial resemblance, the two theories are fundamentally different in their assumptions."（尽管这两个理论表面上有相似之处，但它们在假设上根本不同。——考研英语阅读学术类话题，superficial resemblance 高频表达）
+> - There was a clear family resemblance between all the brothers. `[真题]`
+> - She bears a striking resemblance to her mother. `[真题]`
+> - The movie bears little resemblance to the original novel. `[真题]`
 
 
 ---

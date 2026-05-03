@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谣言，传闻**==；②==**风声，传言**==；
-**v.** ①==**谣传，传说**==；
+**n.** ①==**谣言，传闻**== `start/spread a rumour; deny a rumour` [贬义]；②==**风声，传言**== `rumour has it that...; a rumour of war` [中性]；
+**v.** ①==**谣传，传说**== `It is rumoured that...; be rumoured to do` [中性]；
 
 > [!tip] 原型义
 > **原型义**：谣言（人们口中广泛流传但未经证实的说法——像一阵声音在人群中扩散）
@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rumour has it that the company is about to announce major layoffs."（谣传公司即将宣布大规模裁员——考研阅读常见表达）
-> - "It is widely rumoured that she will resign next month."（广泛传闻她下个月将辞职——考研翻译常见句型）
-> - "The government denied rumours of an impending tax increase."（政府否认即将增税的谣言——考研阅读政治话题）
+> - Rumour has it that the company is about to announce major layoffs. `[真题]`
+> - He denied rumours that he was planning to visit the country later this month. `[真题]`
+> - It is widely rumoured that she will resign next month. `[真题]`
 
 
 ---

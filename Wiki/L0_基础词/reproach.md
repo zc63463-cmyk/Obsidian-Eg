@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**批评，指责，责备**==；
-**n.** ①批评，指责；②责备的言辞；
+**v.** ①==**批评，指责，责备**== `V N for N`；
+**n.** ①==**批评，指责**== `N of N`；②责备的言辞；
 
 > [!tip] 原型义
 > **原型义**：走近指责（re- "回/靠近" + proach "接近"，走到面前批评）
@@ -123,7 +123,10 @@ re-(回/靠近) + [[proach-prox|proach]](接近，[[proach-prox]])
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her behavior was beyond reproach."（她的行为无可指责——考研翻译参考句式）
+> - "He's still reproaching himself for the accident." `[COCA-ACAD]`
+> - "Her conduct had always been beyond reproach." `[COCA-ACAD]`
+> - "He was the only politician who was beyond reproach." `[COCA-NEWS]`
+> - "He glanced at her with reproach." `[BNC-SPOKEN]`
 
 
 ---

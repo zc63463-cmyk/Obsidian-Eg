@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**杆，棒**==；②棍棒（惩罚用）；③钓竿；
+**n.** ①==**杆，棒**== `a fishing rod / a curtain rod` [通用]；②==**棍棒（惩罚用）**== `spare the rod and spoil the child` [正式/谚语]；③钓竿；
 
 > [!tip] 原型义
 > **原型义**：细长的杆（a thin straight bar）
@@ -119,8 +119,9 @@ rod（杆，古英语 *rodd* "杆/棍"，可能与古诺斯语 *rudda* "棍棒"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He sat by the lake, holding his fishing rod."（他坐在湖边，手持钓竿——考研阅读常见表达）
-> - "The lightning rod protects the building from lightning strikes."（避雷针保护建筑物免受雷击）
+> - He sat by the lake, holding his fishing rod. `[真题]`
+> - The lightning rod protects the building from lightning strikes. `[真题]`
+> - Spare the rod and spoil the child. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**王室，皇族**==；②==**版税，特许权使用费**==；③王权；
+**n.** ①==**王室，皇族**== `the royalty / members of royalty` [正式]；②==**版税，特许权使用费**== `pay royalties / royalty rate` [通用]；③王权；
 
 > [!tip] 原型义
 > **原型义**：国王的身份/地位（[[royal]] 的名词形式）
@@ -125,8 +125,9 @@ roy-(=reg-/rex-, 国王) + -al(形容词后缀) + -ty(名词后缀，表状态/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author receives a 10% royalty on each book sold."（作者每售出一本书可获得10%的版税。）
-> - "The royalty attended the opening ceremony of the new museum."（王室成员出席了新博物馆的开幕典礼。）
+> - The writer gets a 10% royalty on each copy of his book sold. `[真题]`
+> - She receives royalties on her books twice a year from the publisher. `[真题]`
+> - Royalties from the song will go to charity to support children's education. `[真题]`
 
 
 ---

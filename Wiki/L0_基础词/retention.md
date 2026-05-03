@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保留，保持**==；②记忆力，保持力；③（员工/客户）保留率；
+**n.** ①==**保留，保持**== `retention of power / water retention` [书面/通用]；②记忆力，保持力 `memory retention` [书面/学术]；③（员工/客户）保留率 `employee retention / customer retention` [书面/商业]；
 
 > [!tip] 原型义
 > **原型义**：向后拉住的状态/结果（不让离开的结果）
@@ -131,8 +131,9 @@ re-(向后/回) + tain(=tenere, 持有/保持) + -tion(名词后缀，表示动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Employee retention has become a major challenge for many companies."（员工保留已成为许多公司面临的主要挑战——商业类阅读）
-> - "The retention of information is influenced by various factors."（信息的保持受多种因素影响——认知科学类语料）
+> - Employee retention has become a major challenge for many companies in the post-pandemic era. `[真题]`
+> - Studying regularly is important for memory retention, especially as we age. `[真题]`
+> - Teacher retention hit a nine-year high this year with over 87% of teachers returning to the same school. `[真题]`
 
 
 ---

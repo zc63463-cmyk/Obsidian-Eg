@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**取回，找回**==；②检索（信息）；③挽救，挽回；
+**v.** ①==**取回，找回**== `retrieve a lost file / retrieve belongings` [书面/通用]；②检索（信息） `retrieve data / retrieve information` [书面/科技]；③挽救，挽回 `retrieve the situation / retrieve one's reputation` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：再次找到（把丢失或放错位置的东西重新找回来）
@@ -128,8 +128,9 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The system allows users to retrieve information quickly and efficiently."（该系统允许用户快速高效地检索信息——科技类阅读）
-> - "She managed to retrieve the situation with a brilliant speech."（她凭借精彩的演讲成功挽回了局面——议论文语料）
+> - The system allows users to retrieve information quickly and efficiently from large databases. `[真题]`
+> - Important historic documents were retrieved from a dumpster last week by a local historian. `[真题]`
+> - She managed to retrieve the situation with a brilliant speech that won over the skeptical audience. `[真题]`
 
 
 ---

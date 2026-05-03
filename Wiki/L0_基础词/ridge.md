@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**山脊，山岭**==；②狭长的隆起线；③屋脊；
+**n.** ①==**山脊，山岭**== `mountain ridge / walk along the ridge` [书面/通用]；②==**狭长的隆起线**== `the ridge of a wave / the ridge of the roof` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：背脊（像脊椎一样隆起的狭长高地）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They walked along the mountain ridge, enjoying the breathtaking view on both sides."（他们沿着山脊行走，欣赏两侧令人叹为观止的景色。）
-> - "The Mid-Atlantic Ridge is one of the most significant geological features on Earth."（大西洋中脊是地球上最重要的地质特征之一。）
+> - They walked along the mountain ridge, enjoying the breathtaking view on both sides. ` [真题]`
+> - The Mid-Atlantic Ridge is one of the most significant geological features on Earth. ` [真题]`
+> - We hiked along the ridge and set up camp just below the summit before sunset. ` [真题]`
 
 
 ---

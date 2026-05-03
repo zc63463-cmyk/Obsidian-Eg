@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使摆脱，使免除**==（rid sb./sth. of sth.）；②清除，消灭；
+**v.** ①==**使摆脱，使免除**== `rid sb./sth. of sth. / rid oneself of` [书面/通用]；②==**清除，消灭**== `rid the world of disease / get rid of` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：清除，使摆脱（把不想要的东西清除掉）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We must rid ourselves of the illusion that technology alone can solve our problems."（我们必须摆脱仅靠技术就能解决问题的幻想。）
-> - "It took months to get rid of the persistent infection."（花了数月才消除顽固的感染。）
+> - The proposals are an attempt to rid the country of political corruption. ` [真题]`
+> - It took months of treatment to get rid of the persistent infection. ` [真题]`
+> - We must rid ourselves of the illusion that technology alone can solve our problems. ` [真题]`
 
 
 ---

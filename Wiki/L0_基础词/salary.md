@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**薪水，工资**==（尤指按月发放的固定薪金）；②（复数 salaries）薪金总额；
+**n.** ①==**薪水，工资**== `annual/monthly salary` [中性]；②（复数 salaries）薪金总额；
 **v.** ①给……发薪金；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is true that CEO pay has gone up — top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%."（确实，CEO的薪酬已经上涨了——顶尖CEO的平均薪酬可能是普通员工的300倍，自20世纪70年代中期以来，美国大型上市公司的CEO薪酬据不同估计已上涨了约500%——2020年考研英语二Text 1）
-> - "The typical CEO of a top American corporation now makes about $18.9 million a year in salary and bonuses."（美国顶级公司的典型CEO现在年薪和奖金约为1890万美元——考研阅读经济话题高频表达）
+> - The typical CEO of a top American corporation now makes about $18.9 million a year in salary and bonuses. `[真题]`
+> - The average salary is $39,000 a year. `[外刊]`
+> - She earns a high salary as a senior software engineer at the tech company. `[外刊]`
 
 
 ---

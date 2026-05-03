@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**唤醒，激起**==；②==**激怒，使奋起**==；③激起（情感）；
+**v.** ①==**唤醒，激起**== `rouse from sleep / rouse someone` [通用]；②==**激怒，使奋起**== `rouse to action / rouse anger` [正式]；③激起（情感）；
 **n.** ①觉醒，奋起；
 
 > [!tip] 原型义
@@ -127,7 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The speech roused the crowd to action."（这场演讲激起了人群的行动——考研政治类话题）
+> - Around 2 a.m., I was roused by the sound of screaming coming from the street below. `[真题]`
+> - The speaker attempted to rouse the crowd with a passionate cry for action. `[真题]`
+> - We don't want to rouse any suspicions before the plan is fully in place. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**目的，缘故**==；②利益，好处；③（日本）清酒；
+**n.** ①==**目的，缘故**== `for the sake of` [中性]；②利益，好处；③（日本）清酒；
 
 > [!tip] 原型义
 > **原型义**：目的，缘故（做某事的原因）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge."（即使是我们的学校也会让我们的孩子去接受实践教育，而不是为了知识本身而追求知识——2004年考研英语Text 4）
-> - "For the sake of fairness, it must be noted that the company has made significant efforts to reduce its environmental impact."（为了公平起见，必须指出该公司在减少环境影响方面做出了重大努力——考研写作高频表达）
+> - Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge. `[真题]`
+> - For the sake of our future, and for the sake of all our children, let's end all wars. `[外刊]`
+> - Please do it for her sake. `[外刊]`
 
 
 ---

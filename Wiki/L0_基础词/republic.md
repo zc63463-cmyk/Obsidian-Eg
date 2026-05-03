@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**共和国，共和政体**==；
+**n.** ①==**共和国，共和政体**== `N`；
 
 > [!tip] 原型义
 > **原型义**：公共事务（拉丁语 *res publica* "公共的事物/事务"）
@@ -120,7 +120,10 @@ re-(=res，事物/事务，拉丁语 *res*) + public(公众的，公共的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The founding fathers established a republic rather than a democracy."（开国元勋们建立的是一个共和国而非民主制——考研政治类阅读参考）
+> - "This tiny republic depends on the export of tobacco." `[COCA-NEWS]`
+> - "In 1918, Austria became a republic." `[COCA-ACAD]`
+> - "They have declared themselves an independent democratic republic." `[COCA-ACAD]`
+> - "There have been protests in the former Soviet republic of Georgia." `[COCA-NEWS]`
 
 
 ---

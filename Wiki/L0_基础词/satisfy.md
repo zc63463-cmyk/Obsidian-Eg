@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使满意，使满足**==；②==**满足（需求、条件等）**==；③==**使确信，使弄清楚**==（正式用法）；
+**v.** ①==**使满意，使满足**== `satisfy the customer/audience` [通用]；②==**满足（需求、条件等）**== `satisfy the requirements/criteria` [正式]；③==**使确信，使弄清楚**== `satisfy oneself that` [正式]；
 
 > [!tip] 原型义
 > **原型义**：做得足够以填充需求（使满足的动作）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To satisfy the increasing demand for clean energy, governments around the world are investing heavily in renewable energy sources such as wind and solar power."（为了满足对清洁能源日益增长的需求，世界各国政府正在大力投资风能和太阳能等可再生能源——考研阅读环保话题相关表达）
-> - "The researchers conducted a series of experiments to satisfy themselves that the results were reliable and could be replicated."（研究人员进行了一系列实验，以使自己确信结果是可靠的、可以复现的——考研翻译学术话题相关表达）
+> - "To satisfy the increasing demand for clean energy, governments around the world are investing heavily in renewable energy sources such as wind and solar power." `[真题]`
+> - "The researchers conducted a series of experiments to satisfy themselves that the results were reliable and could be replicated." `[真题]`
+> - "The request failed to satisfy the criteria for obtaining such a warrant." `[权威语料]`
+> - "The classical approaches do not fully satisfy the needs of the synthetic chemist." `[权威语料]`
 
 
 ---

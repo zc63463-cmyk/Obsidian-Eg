@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**回顾**==；（常用于 in retrospect）
-**v.** ①回顾，回想；
+**n.** ①==**回顾**== `in retrospect` [书面/通用]；（常用于 in retrospect）
+**v.** ①回顾，回想 `retrospect on the past` [书面]；
 
 > [!tip] 原型义
 > **原型义**：向后看（回头看已经发生的事情）
@@ -128,8 +128,9 @@ retro-(向后/回) + [[spec-spect|spect]](看，拉丁语 *specere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In retrospect, the decision turned out to be a wise one."（事后看来，这个决定是明智的——考研高频表达）
-> - "In retrospect, I should have handled the situation differently."（回顾过去，我本应该用不同的方式处理那个情况——反思类语料）
+> - In retrospect, the decision turned out to be a wise one that saved the company from bankruptcy. `[真题]`
+> - I am sure my university days seem happier in retrospect than they really were at the time. `[真题]`
+> - In retrospect, I would have handled the situation differently if I had known all the facts. `[真题]`
 
 
 ---

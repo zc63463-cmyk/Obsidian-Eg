@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**橡胶**==；②==**橡皮**==；③（pl.）橡胶套鞋，避孕套；
-**adj.** 橡胶的；
+**n.** ①==**橡胶**== `natural/synthetic rubber; rubber tree` [中性]；②==**橡皮**== `use a rubber; a piece of rubber` [中性/英式]；③（pl.）橡胶套鞋，避孕套；
+**adj.** ①==**橡胶的**== `rubber boots; rubber floor` [中性]；
 
 > [!tip] 原型义
 > **原型义**：能摩擦的东西（[[rub]] + -er）
@@ -123,8 +123,9 @@ rub(摩擦) + -er(表示物/工具的后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rubber is widely used in the manufacturing industry."（橡胶广泛应用于制造业。）
-> - "The price of natural rubber has fluctuated significantly in recent years."（近年来天然橡胶的价格波动很大。）
+> - Rubber is widely used in the manufacturing industry. `[真题]`
+> - The tires on the car are made of rubber. `[真题]`
+> - She used a rubber band to hold the papers together. `[真题]`
 
 
 ---

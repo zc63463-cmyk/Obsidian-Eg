@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**沙拉，凉拌菜**==；②生菜，莴苣；
+**n.** ①==**沙拉，凉拌菜**== `a fruit/Caesar salad` [中性]；②生菜，莴苣；
 
 > [!tip] 原型义
 > **原型义**：撒盐的蔬菜（加盐调味的生菜）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A healthy diet should include plenty of fresh vegetables, fruits, and salads."（健康的饮食应包括大量的新鲜蔬菜、水果和沙拉——考研阅读健康话题相关表达）
-> - "She ordered a Caesar salad and a glass of white wine for lunch."（她午餐点了一份凯撒沙拉和一杯白葡萄酒——考研翻译日常表达）
+> - A healthy diet should include plenty of fresh vegetables, fruits, and salads. `[外刊]`
+> - I opted for tuna carpaccio with pepper and rocket salad from the a la carte menu. `[外刊]`
+> - There's fresh fruit salad for afters. `[外刊]`
 
 
 ---

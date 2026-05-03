@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**马鞍，鞍**==；②（自行车、摩托车等的）坐垫；
-**v.** ①==**给……装鞍**==；②==**使承担（责任、任务等）**==；
+**n.** ①==**马鞍，鞍**== `put the saddle on` [中性]；②（自行车、摩托车等的）坐垫；
+**v.** ①==**给……装鞍**== `saddle a horse` [中性]；②==**使承担（责任、任务等）**== `be saddled with sth.` [书面]；
 
 > [!tip] 原型义
 > **原型义**：坐具（固定在马背上的骑乘座位）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was saddled with a huge debt after his business failed."（他的生意失败后背负了巨额债务——考研阅读经济话题相关表达）
-> - "The new manager found himself saddled with problems left by his predecessor."（新经理发现自己背负着前任留下的种种问题——考研阅读管理话题相关表达）
+> - The new manager found himself saddled with problems left by his predecessor. `[外刊]`
+> - The corporation is no longer saddled with a huge debt after the restructuring. `[外刊]`
+> - They saddled me with cleaning up after the party. `[外刊]`
 
 
 ---

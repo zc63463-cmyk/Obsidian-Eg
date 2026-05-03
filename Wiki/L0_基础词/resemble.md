@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**像，类似于**==；②==**与……相似**==；
+**vt.** ①==**像，类似于**== `\A ~s B / closely/strongly ~\` [通用]；②==**与……相似**== `\~ someone in appearance\` [通用]；
 
 > [!tip] 原型义
 > **原型义**：像，类似（re- + sembler，"再次像"→ 类似）
@@ -127,8 +127,9 @@ re-(前缀：再/回) + semble(像/类似，拉丁语 *simulare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The current economic downturn closely resembles the financial crisis of 2008 in its severity and global impact."（当前的经济衰退在严重程度和全球影响方面与2008年的金融危机非常相似。——考研英语阅读经济类话题）
-> - "Children often resemble their parents not only in physical appearance but also in personality traits."（孩子们不仅在外貌上像父母，在性格特征上也常常相似。——考研英语阅读科学类话题）
+> - This poem closely resembles an earlier one. `[真题]`
+> - The ancient tools discovered in Ethiopia strongly resemble those found in Tanzania. `[真题]`
+> - She resembles her brother in looks. `[真题]`
 
 
 ---

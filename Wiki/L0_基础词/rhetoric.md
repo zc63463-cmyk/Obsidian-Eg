@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**修辞学，修辞**==；②花言巧语，空话（贬义）；③华丽的辞藻；
+**n.** ①==**修辞学，修辞**== `study rhetoric / rhetorical devices` [书面/学术]；②==**花言巧语，空话**== `empty rhetoric / mere rhetoric` [书面/通用]；③==**华丽的辞藻**== `flowery rhetoric / campaign rhetoric` [书面]；
 
 > [!tip] 原型义
 > **原型义**：说话的艺术（有效运用语言的技艺）
@@ -126,8 +126,9 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The politician's speech was full of empty rhetoric but lacked any concrete proposals."（这位政客的演讲充满了空洞的辞藻，但没有任何具体提案。）
-> - "Is it just rhetoric, or will they actually take action?"（这仅仅是花言巧语，还是他们真的会采取行动？）
+> - Her speech was just empty rhetoric that lacked any concrete proposals for reform. ` [真题]`
+> - He has toned down his rhetoric of late as the election approaches. ` [真题]`
+> - I was swayed by her rhetoric into donating all my savings to the charity. ` [真题]`
 
 
 ---

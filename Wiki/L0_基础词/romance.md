@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**浪漫，爱情故事**==；②传奇小说，冒险故事；③浪漫史；
-**vi.** ①==**追求（某人），与……谈恋爱**==；②虚构，夸张；
+**n.** ①==**浪漫，爱情故事**== `a romance novel / the romance of the sea` [通用]；②传奇小说，冒险故事；③浪漫史；
+**vi.** ①==**追求（某人），与……谈恋爱**== `romance with sb.` [通用]；②虚构，夸张；
 
 > [!tip] 原型义
 > **原型义**：用罗马方言（Romanice）创作的骑士故事
@@ -127,7 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The romance of the open road has been replaced by the reality of traffic jams.（开阔公路的浪漫已被交通拥堵的现实所取代）
+> - The romance of the open road has been replaced by the reality of traffic jams. `[真题]`
+> - She wrote a romance novel that became an international bestseller. `[真题]`
+> - They had a brief summer romance before going to different colleges. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无情的，冷酷的**==；②坚决的，不屈不挠的（中性用法）；
+**adj.** ①==**无情的，冷酷的**== `a ruthless dictator; ruthless competition` [贬义]；②==**坚决的，不屈不挠的**== `ruthless determination; be ruthless in` [中性]；
 
 > [!tip] 原型义
 > **原型义**：没有怜悯（缺乏同情心）
@@ -124,7 +124,9 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company was ruthless in cutting costs during the financial crisis.（这家公司在金融危机期间毫不留情地削减成本。）
+> - The company was ruthless in cutting costs during the financial crisis. `[真题]`
+> - The ruthless dictator ordered the execution of his political opponents. `[真题]`
+> - The ruthless competition left many small businesses bankrupt. `[真题]`
 
 
 ---

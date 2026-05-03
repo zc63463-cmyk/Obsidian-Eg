@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**荒唐的，可笑的**==；②荒谬的；
+**adj.** ①==**荒唐的，可笑的**== `a ridiculous idea / absolutely ridiculous` [书面/通用]；②==**荒谬的**== `a ridiculous argument / a ridiculous price` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：值得嘲笑的（荒唐到令人发笑）
@@ -123,8 +123,9 @@ ridicul-(=ridicule, 嘲笑，拉丁语 *ridiculus*) + -ous(充满...的，形容
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is ridiculous to suggest that the Earth is flat."（认为地球是平的这一说法荒唐可笑。）
-> - "The prices in this restaurant are absolutely ridiculous."（这家餐厅的价格简直荒唐。）
+> - It seems ridiculous to suggest that the Earth is flat in this day and age. ` [真题]`
+> - The prices in this restaurant are absolutely ridiculous for the quality of food served. ` [真题]`
+> - They thought it was a ridiculous idea that would never gain public support. ` [真题]`
 
 
 ---

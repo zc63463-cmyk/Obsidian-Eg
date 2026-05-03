@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**制裁，处罚**==；②==**批准，认可**==；③（复数）国际制裁；
-**v.** ①==**批准，认可**==；②==**对……实行制裁**==；
+**n.** ①==**制裁，处罚**== `impose/lift sanctions` [正式]；②==**批准，认可**== `give sanction to` [正式]；③（复数）国际制裁；
+**v.** ①==**批准，认可**== `officially sanction a project` [正式]；②==**对……实行制裁**== `sanction a country` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使之神圣的法令（通过神圣化使法律具有约束力）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models."（与法国的做法不同，丹麦时尚行业上个月就模特的年龄、健康状况和其他特征达成了一致的规则和制裁措施。——2016年考研英语阅读Text 1）
-> - "Trade sanctions were imposed against any country that refused to sign the agreement."（凡拒签该协议的国家均受到贸易制裁——考研阅读国际政治话题常见表达）
+> - "In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models." `[真题]`
+> - "Trade sanctions were imposed against any country that refused to sign the agreement." `[真题]`
+> - "The UN announced new economic sanctions against countries abusing human rights." `[权威语料]`
+> - "Their economy crumbled under the weight of United Nations sanctions." `[权威语料]`
 
 
 ---

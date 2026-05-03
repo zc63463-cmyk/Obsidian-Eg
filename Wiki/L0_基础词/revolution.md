@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**革命**==；②旋转，公转；③彻底变革；
+**n.** ①==**革命**== `the French Revolution / spark a revolution` [书面/通用]；②==**旋转，公转**== `the revolution of the earth / one revolution per minute` [书面/学术]；③==**彻底变革**== `a revolution in education / the Information Revolution` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：向后滚翻的结果（彻底翻转现有秩序的结果）
@@ -124,16 +124,17 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 ## 搭配与短语
 
 > [!example]- 搭配
-> - **the French/Industrial Revolution**：法国大革命/工业革命
-> - **a revolution in**：……领域的革命/彻底变革
-> - **scientific and technological revolution**：科技革命
-> - **spark/trigger a revolution**：引发革命
+> - **the French/Industrial Revolution**：法国大革命/工业革命 `[名词短语]`
+> - **a revolution in**：……领域的革命/彻底变革 `[介词搭配]`
+> - **scientific and technological revolution**：科技革命 `[名词短语]`
+> - **spark/trigger a revolution**：引发革命 `[动宾搭配]`
 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Industrial Revolution transformed the way people lived and worked."（工业革命改变了人们的生活和工作方式——历史类阅读高频）
-> - "The Information Revolution has brought about profound changes in education."（信息革命给教育带来了深刻的变化——科技教育类语料）
+> - The French Revolution changed France from a monarchy to a republic. `[真题]`
+> - The Industrial Revolution transformed the way people lived and worked, shifting societies from agrarian economies to industrial powerhouses. `[真题]`
+> - The digital revolution has brought about profound changes in education, making knowledge accessible to millions of people worldwide. `[真题]`
 
 
 ---

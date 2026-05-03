@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谜，谜语**==；②神秘莫测的人/事；③筛子；
-**v.** ①给……出谜；②用筛子筛；③充斥，布满（be riddled with）；
+**n.** ①==**谜，谜语**== `solve a riddle / the riddle of the universe` [书面/通用]；②==**神秘莫测的人/事**== `a riddle wrapped in a mystery` [书面]；
+**v.** ①==**充斥，布满**== `be riddled with bullets/errors` [书面/通用]；
 
 > [!tip] 原型义
 > **原型义**：筛子（用来筛分东西的工具）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The document was riddled with errors and inconsistencies."（这份文件充满了错误和前后矛盾之处。）
-> - "The origin of the universe remains one of the greatest riddles of science."（宇宙的起源仍然是科学界最大的谜题之一。）
+> - The document was riddled with errors and inconsistencies that undermined its credibility. ` [真题]`
+> - The origin of the universe remains one of the greatest riddles of science. ` [真题]`
+> - His SUV was riddled with bullets, the windscreen shattered beyond recognition. ` [真题]`
 
 
 ---

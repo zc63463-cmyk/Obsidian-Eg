@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**水库，蓄水池**==；②==**储藏，积蓄**==；③==**（知识、精力等的）储备，宝库**==；
+**n.** ①==**水库，蓄水池**== `\a water ~ / build a ~\` [通用]；②==**储藏，积蓄**== `\a vast ~ of oil\` [正式]；③==**（知识、精力等的）储备，宝库**== `\a ~ of knowledge/talent\` [正式]；
 
 > [!tip] 原型义
 > **原型义**：蓄水池，水库（re- + serve + -oir，"再次保存的地方"→ 蓄水的地方）
@@ -129,8 +129,9 @@ re-(前缀：再/回) + [[serv|serv]](保存/保持，[[serv]]) + -oir(名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university serves as a vast reservoir of knowledge and a breeding ground for innovation."（这所大学是一个巨大的知识宝库，也是创新的摇篮。——考研英语阅读教育类话题）
-> - "The construction of the new reservoir is expected to provide a reliable water supply for the region for decades to come."（新水库的建设预计将为该地区未来几十年提供可靠的水源。——考研英语阅读环保类话题）
+> - There is a tremendous reservoir of goodwill out there. `[真题]`
+> - It created a vast reservoir of knowledge, learning and artistic creativity that millions of us use every day. `[真题]`
+> - Other reservoirs in the country have suffered capacity losses of 23 percent on average, all from siltation. `[真题]`
 
 
 ---

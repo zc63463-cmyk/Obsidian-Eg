@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**毁灭，毁坏**==；②使破产；
-**n.** ①==**毁灭，崩溃**==；②废墟，遗迹；③破产；
+**v.** ①==**毁灭，毁坏**== `ruin one's health; ruin the economy` [贬义]；②==**使破产**== `be ruined by debt; ruin one's career` [贬义]；
+**n.** ①==**毁灭，崩溃**== `on the brink of ruin; financial ruin` [贬义]；②==**废墟，遗迹**== `lie in ruins; fall into ruin` [中性]；③==**破产**== `bring someone to ruin` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：倒塌（源自拉丁语 *ruina*，"倒塌、坠落"）
@@ -128,8 +128,9 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ancient city lies in ruins after centuries of neglect."（经过几个世纪的荒废，这座古城已沦为废墟。）
-> - "The scandal ruined his political career."（这桩丑闻毁掉了他的政治生涯。）
+> - The ancient city lies in ruins after centuries of neglect. `[真题]`
+> - The scandal ruined his political career. `[真题]`
+> - Poor customer service ruined the company's reputation. `[真题]`
 
 
 ---

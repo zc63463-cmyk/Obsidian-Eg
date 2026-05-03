@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**成熟的**==；②时机成熟的，准备好的；
+**adj.** ①==**成熟的**== `ripe fruit/tomatoes` [自然]；②==**时机成熟的，准备好的**== `ripe for change/the time is ripe` [抽象]；
 
 > [!tip] 原型义
 > **原型义**：准备好的（fully prepared, ready for use）
@@ -125,8 +125,9 @@ ripe（成熟的，古英语 *rīpe*，日耳曼语源，可能与 *reap* "收�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conditions are ripe for economic reform."（经济改革的条件已经成熟——考研高频表达）
-> - "The fruit is not yet ripe enough to eat."（水果还不够熟，不能吃）
+> - "The time was ripe for change in the company." `[真题]`
+> - "The pods split open when the beans are ripe." `[真题]`
+> - "A last-minute injury robbed me of my place on the team, but I know the opportunity will be ripe again." `[真题]`
 
 
 ---

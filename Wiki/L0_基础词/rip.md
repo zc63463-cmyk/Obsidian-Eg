@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**撕开，扯裂**==；②猛地扯掉；③（沿某方向）迅速移动；
-**n.** ①裂口，裂缝；②激流；
+**v.** ①==**撕开，扯裂**== `rip a letter/paper` [物理]；②==**猛地扯掉**== `rip off a bandage` [动作]；③==**（沿某方向）迅速移动**== `rip through the crowd` [移动]；
+**n.** ①==**裂口，裂缝**== `a rip in the fabric` [物体]；②==**激流**== `a rip in the river` [自然]；
 
 > [!tip] 原型义
 > **原型义**：撕开（tear apart）
@@ -124,8 +124,9 @@ rip（撕开，可能来自 PIE词根 *reub-/*reup- "撕/抓取"，北日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The storm ripped through the coastal town."（风暴席卷了沿海小镇——考研阅读常见表达）
-> - "He ripped the letter open with excitement."（他激动地撕开了信）
+> - "The explosion ripped through the hotel." `[真题]`
+> - "He ripped the phone from her hand." `[真题]`
+> - "A violent streak of pain ripped through her whole body." `[真题]`
 
 
 ---

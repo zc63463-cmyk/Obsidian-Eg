@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**旋转，转动**==；②以……为中心/围绕……转动；③反复考虑；
+**v.** ①==**旋转，转动**== `the earth revolves around the sun / revolving door` [书面/通用]；②==**以……为中心/围绕……转动**== `revolve around / the conversation revolved around` [书面/通用]；③==**反复考虑**== `ideas revolved in his mind` [书面]；
 
 > [!tip] 原型义
 > **原型义**：向后滚（绕着一个中心不断滚动/旋转）
@@ -130,8 +130,9 @@ re-(反复/回) + volve(=volvere, 滚/转)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The debate revolved around the issue of climate change."（辩论围绕气候变化问题展开——议论文高频表达）
-> - "Education should not revolve solely around exam results."（教育不应仅仅围绕考试成绩——教育类语料）
+> - The discussion revolved around the question of how to allocate resources fairly among departments. ` [真题]`
+> - Her life revolves around her children, and she rarely has time for herself. ` [真题]`
+> - The Earth revolves around the Sun once every 365 days. ` [真题]`
 
 
 ---

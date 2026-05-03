@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**铁锈**==；②（植物的）锈病；
-**v.** ①（使）生锈；②变得荒废/迟钝；
+**n.** ①==**铁锈**== `remove rust; gather rust` [中性]；②（植物的）锈病；
+**v.** ①==**（使）生锈**== `The lock has rusted; rust away` [中性]；②==**变得荒废/迟钝**== `My skills have rusted` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：变红（铁暴露在空气中表面变红）
@@ -124,7 +124,9 @@ rust 源自古英语 *rust*，与 *rudu*（红色）同源，最终追溯至 PIE
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The decline of manufacturing left many cities in the Rust Belt struggling with unemployment.（制造业的衰退使铁锈地带的许多城市陷入失业困境。）
+> - The decline of manufacturing left many cities in the Rust Belt struggling with unemployment. `[真题]`
+> - The abandoned car in the field is slowly rusting away. `[真题]`
+> - The pipes rusted out and needed replacement. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**反叛，起义**==；②使厌恶，使反感；
-**n.** ①反叛，起义；②叛乱；
+**v.** ①==**反叛，起义**== `revolt against the government / rise in revolt` [书面/通用]；②使厌恶，使反感 `be revolted by / revolt against cruelty` [书面/通用]；
+**n.** ①反叛，起义 `an armed revolt / in open revolt` [书面/通用]；②叛乱；
 
 > [!tip] 原型义
 > **原型义**：向后滚翻（翻转过去，推翻现有秩序）
@@ -131,8 +131,9 @@ re-(向后/回) + volt(=volvere, 滚/转)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The peasants revolted against the feudal system."（农民反抗封建制度——历史类阅读）
-> - "She was revolted by the cruelty of the punishment."（她对这种残酷的惩罚感到厌恶——社会类语料）
+> - It was undeniably a revolt by ordinary people against their leaders and the oppressive regime. `[真题]`
+> - The people revolted against foreign rule and established their own independent government. `[真题]`
+> - We were revolted by the dirt and mess in the house that had been abandoned for years. `[真题]`
 
 
 ---

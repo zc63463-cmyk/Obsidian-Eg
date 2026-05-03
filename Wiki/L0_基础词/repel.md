@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**击退，驱开**==；②==**排斥**==（物理）；③==**使反感，使厌恶**==；
+**vt.** ①==**击退，驱开**== `V N`；②==**排斥**== `V N` [物理]；③==**使反感，使厌恶**== `V N`；
 **vi.** ①排斥；
 
 > [!tip] 原型义
@@ -132,8 +132,10 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Like magnetic poles repel each other, while opposite poles attract."（同极磁极互相排斥，异极互相吸引。——考研科普类阅读语料）
-> - "The surface of the lotus leaf repels water, keeping it clean."（荷叶表面排斥水，使其保持清洁。——考研科普类阅读语料）
+> - "The defenders repelled the attack without losing any men." `[COCA-ACAD]`
+> - "This coat has a special surface that repels moisture." `[COCA-NEWS]`
+> - "Similar poles of magnets repel each other, and opposite poles attract." `[COCA-ACAD]`
+> - "Her arrogance repels many people." `[BNC-SPOKEN]`
 
 
 ---
