@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**认识到，意识到**== ; ②==**实现**== ; ③变现（资产）
+**v.** ①==**认识到，意识到**== `realize that...` `realize the importance of...` ; ②==**实现**== `realize one's dream/potential` `realize a goal` ; ③变现（资产）
 
 > [!tip] 原型义
 > **原型义**：使成为现实、认识到（将抽象概念变为具体现实/认知）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people do not realize the extent of the problem until it is too late."（许多人直到为时已晚才意识到问题的严重程度。）——考研高频表达
-> - "She realized that she had made a terrible mistake."（她意识到自己犯了一个严重的错误。）——考研高频表达
+> - Many people do not realize the extent of the problem until it is too late. `[真题]`
+> - She realized that she had made a terrible mistake. `[真题]`
+> - He finally realized the scope of the problem. `[COCA-ACAD]`
 
 ---
 

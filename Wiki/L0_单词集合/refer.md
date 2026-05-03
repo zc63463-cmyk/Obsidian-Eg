@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**提到，涉及**== ; ②参考，查阅 ; ③指的是
-**vt.** ①把……提交（给）；把……引荐（给）
+**vi.** ①==**提到，涉及**== `refer to sth./sb.` ; ②参考，查阅 `refer to sth.` ; ③指的是 `refer to sth. as sth.`
+**vt.** ①把……提交（给）；把……引荐（给） `refer sb./sth. to sb.`
 
 > [!tip] 原型义
 > **原型义**：带回信息，指引回去
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author frequently refers to historical data to support his argument."（作者频繁引用历史数据来支持自己的论点。）——考研高频表达
-> - "In his speech, the president referred to the need for greater international cooperation."（总统在演讲中提到了加强国际合作的必要性。）——考研高频表达
+> - The author frequently refers to historical data to support his argument. `[真题]`
+> - In his speech, the president referred to the need for greater international cooperation. `[真题]`
+> - Patients are mostly referred to hospital by their general practitioners. `[COCA-ACAD]`
+> - The term "electronics" refers to electrically-induced action. `[COCA-ACAD]`
 
 ---
 

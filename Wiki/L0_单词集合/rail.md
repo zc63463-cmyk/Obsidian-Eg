@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**栏杆，扶手**==；②==**铁轨，轨道**==；③==**铁路（系统）**==；
-**vi.** ①==**抱怨，怒斥**==（常与 at/against 连用）；②==**责骂**==；
+**n.** ①==**栏杆，扶手**==；②==**铁轨，轨道**==；③==**铁路（系统）**== `by rail` `rail network`；
+**vi.** ①==**抱怨，怒斥**== `rail at/against`；②==**责骂**==；
 
 > [!tip] 原型义
 > **原型义**：横杆、栏杆（一根固定在支柱之间的直杆，用于围护或导向）
@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "rail at the injustice of the system"（抨击制度的不公）——考研阅读中常见，描述对社会问题的批评态度
-> - "transport goods by rail"（通过铁路运输货物）——经济/交通类阅读语境
-> - "get the economy back on the rails"（使经济重回正轨）——社论/评论类文章常见搭配
+> - "He railed at the injustice of the system." `[COCA-FIC]`
+> - "The workers were transported to the factory by rail." `[COCA-ACAD]`
+> - "Goods can be shipped more cheaply by rail than by road." `[COCA-ACAD]`
 
 ---
 

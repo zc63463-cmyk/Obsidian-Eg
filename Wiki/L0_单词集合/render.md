@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使成为；使变得**== ; ②==**给予；提供**== ; ③翻译 ; ④渲染
+**v.** ①==**使成为；使变得**== `render sth. adj.` ; ②==**给予；提供**== `render assistance/service` ; ③翻译 `render sth. into English` ; ④渲染 `render an image`
 
 > [!tip] 原型义
 > **原型义**：使成为、使变成（导致某种状态的产生）
@@ -131,8 +131,10 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to give/给予) + -der(后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His back injury had rendered him unfit for work."（他的背伤使他无法胜任工作。）——考研高频表达
-> - "We are going to render them economic assistance."（我们打算向他们提供经济援助。）——考研高频表达
+> - His back injury had rendered him unfit for work. `[真题]`
+> - We are going to render them economic assistance. `[真题]`
+> - The sight of her rendered him speechless. `[COCA-ACAD]`
+> - The virus rendered the computer useless. `[COCA-ACAD]`
 
 ---
 

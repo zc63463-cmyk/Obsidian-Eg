@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**恢复；重新开始**== ; ②==**继续**==（中断后）
-**n.** ①==**简历；摘要**==（美式英语，等同于 CV）
+**v.** ①==**恢复；重新开始**== `resume work/talks/negotiations` `resume doing sth.` ; ②==**继续**==（中断后）`resume one's seat/place/position`
+**n.** ①==**简历；摘要**==（美式英语，等同于 CV）`submit a resume` `send a resume`
 
 > [!tip] 原型义
 > **原型义**：重新拿回 → 恢复（take back / take up again）
@@ -127,8 +127,10 @@ re-(再次/重新) + sume(拿取，源自 [[sumere|sum/sump]]) → 重新拿取 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Peace talks are expected to resume next month after a three-month suspension."（和平谈判在暂停三个月后预计将于下月恢复。）——考研高频表达
-> - "She submitted her resume to several companies before receiving an interview invitation."（她在收到面试邀请之前向几家公司投递了简历。）——考研高频表达
+> - "Peace talks are expected to resume next month after a three-month suspension." `[真题]`
+> - "She submitted her resume to several companies before receiving an interview invitation." `[真题]`
+> - "After 16 days of government closure, Congress acted late Wednesday to reopen federal parks and offices and resume federal services." `[COCA]`
+> - "There is no sign of the peace talks resuming." `[COCA-ACAD]`
 
 ---
 

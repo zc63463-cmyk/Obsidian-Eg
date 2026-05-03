@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**求助于，诉诸**==；②常去（某地）；
-**n.** ①度假胜地；②求助的对象，采用的手段；
+**vi.** ①==**求助于，诉诸**== `resort to sth.` `resort to violence/force`；②常去（某地）；
+**n.** ①==**度假胜地**== `a seaside/holiday resort`；②==**求助的对象，采用的手段**== `last resort`；
 
 > [!tip] 原型义
 > **原型义**：反复跳回（走投无路时反复回到某个出路）
@@ -130,8 +130,9 @@ re-(反复/回) + sort(来源/种类，源自拉丁语 *sors*，"命运/抽签/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As a last resort, the company decided to lay off some employees."（作为最后手段，公司决定裁减一些员工——考研高频表达）
-> - "Many people resort to borrowing money when they face financial difficulties."（许多人在面临经济困难时诉诸借钱——考研高频表达）
+> - "Many homeless teenagers resort to stealing when their money runs out." `[COCA-ACAD]`
+> - "The men resorted to eating birds, squirrels and even their own dogs." `[COCA-ACAD]`
+> - "For thousands of data-loss victims, the last resort is a recovery service called DriveSavers." `[COCA-ACAD]`
 
 
 ---

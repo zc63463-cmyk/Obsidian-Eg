@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**抵抗，反抗**== ; ②==**抵抗力，阻力**== ; ③电阻 ;
+**n.** ①==**抵抗，反抗**== `put up resistance` `resistance to change`；②==**抵抗力，阻力**== `drug resistance`；③==**电阻**== `electrical resistance`；
 
 > [!tip] 原型义
 > **原型义**：向后站立的状态/力量（the act of standing back against）
@@ -133,8 +133,9 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -ance(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Quebec's resistance to a national agency is provincialist ideology."（魁北克反对成立国家代理机构是地方保护主义的思想体系——2005年考研Part B）
-> - "If people in the network just two degrees removed from the initial influential prove resistant, the cascade of change won't propagate very far or affect many people."（如果网络中与最初有影响力的人仅相差两度的人被证明有抵抗力，那么变化的连锁反应就不会传播太远，也不会影响很多人——2010年考研阅读）
+> - "Quebec's resistance to a national agency is provincialist ideology." `[真题]`
+> - "They have shown a stubborn resistance to change." `[COCA-ACAD]`
+> - "Over time the patient could develop a resistance to the drug." `[COCA-ACAD]`
 
 
 ---

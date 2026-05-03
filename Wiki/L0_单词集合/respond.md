@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**回答，回应**==；②反应，响应；③（对治疗等）有良好反应；
+**vi.** ①==**回答，回应**== `respond to a question/request`；②==**反应，响应**== `respond to an emergency/crisis`；③==**（对治疗等）有良好反应**== `respond well to treatment`；
 
 > [!tip] 原型义
 > **原型义**：回过头承诺（对别人的话/行为做出回应）
@@ -132,8 +132,9 @@ re-(回/再) + spond(承诺，源自拉丁语 *spondere*，"承诺/保证")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is not yet clear how advertisers will respond to the new regulations."（广告商将如何应对新规尚不清楚——2013年考研Text 2）
-> - "Responding to the news, Mr Watt appealed for calm."（面对这个消息，瓦特先生呼吁保持冷静——考研高频表达）
+> - "It is not yet clear how advertisers will respond to the new regulations." `[真题]`
+> - "Police quickly responded to the call for help." `[COCA-ACAD]`
+> - "She responded to their decision by threatening to quit." `[COCA-ACAD]`
 
 
 ---

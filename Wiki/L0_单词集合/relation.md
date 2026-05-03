@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**关系，联系**== ; ②亲属，亲戚 ; ③叙述，陈述 ;
+**n.** ①==**关系，联系**== `in relation to / the relation between A and B` ; ②==**亲属，亲戚**== `a close/distant relation` ; ③==**叙述，陈述**== ;
 
 > [!tip] 原型义
 > **原型义**：带回来的连接→关系
@@ -126,8 +126,9 @@ re-(回) + lat/latus(携带、带来) + -ion(名词后缀，表动作或结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In relation to the proposed changes, the committee has decided to conduct a public consultation."（关于拟议的变更，委员会决定进行公众咨询。）——考研高频表达
-> - "The study examines the relation between income inequality and social unrest in developing countries."（该研究探讨了发展中国家收入不平等与社会动荡之间的关系。）——考研高频表达
+> - `The study examines the relation between income inequality and social unrest in developing countries.` [COCA-ACAD]
+> - `In relation to the proposed changes, the committee has decided to conduct a public consultation.` [COCA-ACAD]
+> - `We have close relations in Canada and Scotland.` [COCA-FIC]
 ---
 
 

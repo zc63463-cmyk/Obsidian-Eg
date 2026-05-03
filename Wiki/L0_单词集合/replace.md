@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**取代，替代**== ; ②替换，更换 ; ③把……放回原处 ;
+**vt.** ①==**取代，替代**== `replace A with B` ; ②替换，更换 `replace a broken part` ; ③把……放回原处 `replace sth. on/where it was` ;
 
 > [!tip] 原型义
 > **原型义**：放回原位（re-回 + place-位置）
@@ -120,8 +120,10 @@ re-(回) + [[place|place]](位置) → 放回原位 → 替代
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report also advocates greater study of foreign languages, international affairs and the expansion of study abroad programs."（该报告还提倡增加对外语和国际关系的研究力度以及扩大留学项目。）——2014考研英语一翻译
-> - "Nothing could replace my pet dog after it died."（我的宠物狗死后，没有什么能够取代它。）——考研高频表达
+> - The report also advocates greater study of foreign languages, international affairs and the expansion of study abroad programs. `[真题]`
+> - Tourism has replaced agriculture as the nation's main industry. `[COCA-ACAD]`
+> - The factory replaced most of its workers with robots. `[COCA-ACAD]`
+> - Science advances by replacing old theories with new ones that make better predictions. `[COCA-ACAD]`
 
 ---
 

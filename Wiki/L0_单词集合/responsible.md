@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**负责任的，承担责任的**==；②可靠的，值得信赖的；③（做）……的原因；
+**adj.** ①==**负责任的，承担责任的**== `be responsible for sth.` `hold sb. responsible for sth.`；②==**可靠的，值得信赖的**== `a responsible person/decision` `a responsible adult`；③==**（做）……的原因**== `be responsible for the accident/delay` `the storm was responsible for...`；
 
 > [!tip] 原型义
 > **原型义**：可以被回过头追究承诺的（答应了就要被追究）
@@ -128,8 +128,10 @@ re-(回/再) + spons(=spond, 承诺) + -ible(形容词后缀，表"可……的"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders."（保护客户数据的能力是市场价值的关键，而董事会要代表股东的利益对市场价值负责——2007年考研Text 4）
-> - "To serve as responsible stewards of the planet, we must press forward on deeper atmospheric and oceanic research."（为了成为地球负责任的管理者，我们必须推进更深层次的大气和海洋研究——2005年考研Text 2）
+> - "The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders." `[真题]`
+> - "To serve as responsible stewards of the planet, we must press forward on deeper atmospheric and oceanic research." `[真题]`
+> - "The central government is responsible for moving grain from surplus to deficit states for public distribution purposes." `[COCA-ACAD]`
+> - "She is a very responsible worker." `[COCA]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**要求，必要条件**== ; ②需要的东西 ;
+**n.** ①==**要求，必要条件==`meet/satisfy requirements` / `entry requirements` ; ②==**需要的东西==`daily/nutritional requirements` ;
 
 > [!tip] 原型义
 > **原型义**：被反复追问后确认的需求（[[require]] + -ment）
@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All tests require a potential candidate with whom to compare DNA."（所有的测试都需要一个潜在的候选人来比较DNA——考研高频表达）
-> - "These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development."（这些问题都有人类行为的根源：都需要行为改变、社会创新以及技术发展——考研高频表达）
+> - `[真题]` All tests require a potential candidate with whom to compare DNA.
+> - `[真题]` These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development.
+> - `[COCA-ACAD]` It is a legal requirement that you have insurance for your car.
 
 
 ---

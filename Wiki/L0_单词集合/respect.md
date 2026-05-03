@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**尊重，敬意**==；②方面，细节；③问候；
-**vt.** ①尊重，敬重；②遵守，顾及；
+**n.** ①==**尊重，敬意**== `show respect for` `earn/win respect`；②==**方面，细节**== `in this respect` `with respect to`；③问候；
+**vt.** ①==**尊重，敬重**== `respect sb./sth.`；②==**遵守，顾及**== `respect the law/rules`；
 
 > [!tip] 原型义
 > **原型义**：回头看（带着敬意注视某人/某事）
@@ -133,8 +133,9 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It takes more than a brief encounter on a bus to distinguish between courteous convention and individual interest."（要区分礼貌的惯例和个人兴趣，需要的不仅仅是在公交车上的短暂相遇——1997年考研阅读）
-> - "We should respect the rights of others even when we disagree with them."（即使我们不同意他人的观点，也应该尊重他们的权利——考研高频表达）
+> - "Despite our differences, I have enormous respect for him." `[COCA-ACAD]`
+> - "It is about time tour operators respected the law and their own code of conduct." `[COCA-ACAD]`
+> - "Your theory makes sense in one respect." `[COCA-ACAD]`
 
 
 ---

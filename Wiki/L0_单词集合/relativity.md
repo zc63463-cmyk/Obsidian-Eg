@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**相对论**==（物理学） ; ②==**相对性**==，相关性 ;
+**n.** ①==**相对论**== `Einstein's theory of relativity`（爱因斯坦相对论） ; ②==**相对性**==，相关性 `the relativity of moral standards`（道德标准的相对性） ;
 
 > [!tip] 原型义
 > **原型义**：相对的性质→相对性
@@ -121,8 +121,9 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词后缀) + -ity(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Einstein's theory of relativity fundamentally changed our understanding of space and time."（爱因斯坦的相对论从根本上改变了我们对空间和时间的理解。）——考研高频表达
-> - "The concept of cultural relativity suggests that moral standards vary across different societies."（文化相对主义的概念表明，道德标准在不同社会中存在差异。）——考研高频表达
+> - Einstein's theory of relativity fundamentally changed our understanding of space and time. `[COCA-ACAD]`
+> - The concept of cultural relativity suggests that moral standards vary across different societies. `[COCA-ACAD]`
+> - Within a few years, the discoveries of quantum mechanics and the theory of relativity changed physics utterly. `[COCA-ACAD]`
 ---
 
 

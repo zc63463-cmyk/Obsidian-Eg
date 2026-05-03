@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**驳斥，反驳**== ; ②否认……的正确性 ;
+**vt.** ①==**驳斥，反驳**== `refute an argument/claim/theory` ; ②否认……的正确性 `refute an allegation/accusation` ;
 
 > [!tip] 原型义
 > **原型义**：用证据把对方的论点"打回去"
@@ -122,8 +122,10 @@ re-(回) + [[fute|fute]](打击) → 打回去 → 驳斥
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The evidence refutes the claim that the company was aware of the product's defects before it was released."（证据驳斥了公司产品发布前就知道其缺陷的说法。）——考研高频表达
-> - "Critics have attempted to refute the theory, but their arguments have been largely unconvincing."（批评者试图反驳这一理论，但他们的论点大多缺乏说服力。）——考研高频表达
+> - The evidence refutes the claim that the company was aware of the product's defects before it was released. `[真题]`
+> - Critics have attempted to refute the theory, but their arguments have been largely unconvincing. `[真题]`
+> - The study's findings refute the commonly held belief that sugar causes hyperactivity in children. `[COCA-ACAD]`
+> - There is a glorious simplicity to her arguments that makes them hard to refute. `[COCA-ACAD]`
 
 ---
 

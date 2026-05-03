@@ -26,7 +26,7 @@ review_count: 0
 ## 核心释义
 
 **n.** ①==**铁路，铁道**==；②==**铁路系统**==；
-**vt.** ①==**迫使（某人）仓促行事**==；②==**（通过施压）使（某人）匆忙通过**==；
+**vt.** ①==**迫使（某人）仓促行事**== `railroad sb into (doing) sth`；②==**（通过施压）使（某人）匆忙通过**== `railroad a bill through`；
 
 > [!tip] 原型义
 > **原型义**：铺有轨道的道路（由 rail 铁轨 + road 道路组合而成）
@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bill was railroaded through Congress"（法案被强行在国会通过）——政治/法律类阅读语境
-> - "He was railroaded into signing the agreement"（他被迫使签署了协议）——社会/法律类阅读
-> - "the construction of the transcontinental railroad"（横贯大陆铁路的建设）——美国历史类阅读高频话题
+> - "We were railroaded into signing the agreement." `[COCA-NEWS]`
+> - "The bill was railroaded through the House." `[COCA-NEWS]`
+> - "He was not about to be railroaded by some impatient young woman." `[COCA-FIC]`
 
 ---
 

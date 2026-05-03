@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**很少地，罕见地**== ; ②不常
+**adv.** ①==**很少地，罕见地**== ``rarely do/did...`` ``rarely if ever`` ; ②==**不常**== ``rarely visit`` ``rarely seen``
 
 > [!tip] 原型义
 > **原型义**：罕见地、很少地（发生频率极低）
@@ -116,8 +116,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him."（贝多芬以极大力度增加音量然后突然接以柔和乐段的习惯，在他之前的作曲家中很少使用。）——考研真题
-> - "She rarely speaks in public, but when she does, everyone listens."（她很少在公开场合发言，但一旦发言，每个人都会认真倾听。）——考研高频表达
+> - Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him. `[真题]`
+> - Temperatures rarely rise above zero in winter. `[COCA]`
+> - Rarely has a film looked so striking. `[COCA]`
+> - She rarely ventured outside, except when she went to stock up on groceries at the corner shop. `[COCA]`
 
 ---
 

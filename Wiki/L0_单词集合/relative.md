@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**相对的，比较的**== ; ②相关的，有关系的 ;
-**n.** ①==**亲戚，亲属**== ;
+**adj.** ①==**相对的，比较的**== `relative to / relative poverty` ; ②==**相关的，有关系的**== ;
+**n.** ①==**亲戚，亲属**== `a close/distant relative` ;
 
 > [!tip] 原型义
 > **原型义**：有连接的→相对的；亲戚
@@ -129,8 +129,9 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词/名词后缀，表倾向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The effectiveness of the policy should be assessed relative to its intended goals."（该政策的有效性应相对于其预期目标来评估。）——考研高频表达
-> - "Happiness is a relative concept—what brings joy to one person may not satisfy another."（幸福是一个相对的概念——给一个人带来快乐的东西未必能让另一个人满足。）——考研高频表达
+> - `The effectiveness of the policy should be assessed relative to its intended goals.` [COCA-ACAD]
+> - `Happiness is a relative concept — what brings joy to one person may not satisfy another.` [COCA-ACAD]
+> - `Steve is a distant relative of my wife.` [COCA-FIC]
 ---
 
 

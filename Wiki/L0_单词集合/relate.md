@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**联系，关联**== ; ②==**讲述，叙述**== ; ③认同，理解 ;
+**v.** ①==**联系，关联**== `relate A to B` ; ②==**讲述，叙述**== `relate a story / relate the events` ; ③==**认同，理解**== `relate to sb./sth.` ;
 
 > [!tip] 原型义
 > **原型义**：把东西带回来连接→关联、讲述
@@ -127,8 +127,9 @@ re-(回) + lat/latus(携带、带来)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many parents find it difficult to relate to their children's experiences in the digital world."（许多父母发现很难理解孩子在数字世界中的经历。）——考研高频表达
-> - "The findings of this study relate directly to the ongoing debate about education reform."（这项研究的结果与关于教育改革的持续辩论直接相关。）——考研高频表达
+> - `Many parents find it difficult to relate to their children's experiences in the digital world.` [COCA-ACAD]
+> - `The report seeks to relate the rise in crime to an increase in unemployment.` [COCA-ACAD]
+> - `He later related the whole story to me.` [COCA-FIC]
 ---
 
 

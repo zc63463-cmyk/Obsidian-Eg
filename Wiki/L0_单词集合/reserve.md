@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**保留，储备**== ; ②预订，预约 ;
-**n.** ①==**储备（物），储备金**== ; ②保留地，自然保护区 ; ③矜持，寡言 ;
+**v.** ①==**保留，储备==`reserve sth. for` / `reserve the right to` ; ②==**预订，预约==`reserve a table/seat` ;
+**n.** ①==**储备（物），储备金==`foreign exchange reserves` ; ②==**保留地，自然保护区==`nature reserve` ; ③==**矜持，寡言==`with reserve` ;
 
 > [!tip] 原型义
 > **原型义**：向后保持（to keep back / to retain）
@@ -137,8 +137,9 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is wise to reserve judgment until all the facts are known."（在所有事实都弄清楚之前保留判断是明智的——考研高频表达）
-> - "Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age."（一些学者得出结论，资源有限的政府应该停止支付维持超过特定年龄人群生命的医疗费用——2003年考研Text 4）
+> - `[真题]` It is wise to reserve judgment until all the facts are known.
+> - `[真题]` Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age.
+> - `[COCA-ACAD]` The Gulf has sixty-five per cent of the world's oil reserves.
 
 
 ---

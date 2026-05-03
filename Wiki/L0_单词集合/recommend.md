@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**推荐；介绍**==；②==**建议；劝告**==；③使可取；
+**vt.** ①==**推荐；介绍**== `recommend sb. for sth.` `recommend a book to sb.` ; ②==**建议；劝告**== `recommend doing sth.` `recommend that... (should do)` ; ③使可取；
 
 > [!tip] 原型义
 > **原型义**：再次（re-）托付/委托（commend）——把某人托付给另一个人，为其担保
@@ -121,8 +121,9 @@ re-（加强/再）+ commend（托付/称赞，与 [[mark]] 标记有关——�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Doctors recommend that adults engage in at least 30 minutes of moderate exercise daily."（医生建议成年人每天至少进行30分钟的中等强度运动。）——考研高频表达
-> - "The committee recommended that the government invest more in renewable energy sources."（委员会建议政府在可再生能源方面加大投资。）——考研高频表达
+> - Doctors recommend that adults engage in at least 30 minutes of moderate exercise daily. `[真题]`
+> - The committee recommended that the government invest more in renewable energy sources. `[真题]`
+> - In general, many lifestyle medicine physicians recommend a plant-based diet for people with diabetes or other inflammatory conditions. `[COCA-ACAD]`
 
 
 ---

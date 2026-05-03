@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**回答，答复**== ;
-**n.** ①回答，答复 ;
+**v.** ①==**回答，答复**== `reply to sb./sth.` ;
+**n.** ①回答，答复 `in reply to` ;
 
 > [!tip] 原型义
 > **原型义**：折回来回应（re-回 + ply-折叠），像把信折回来一样回应对方
@@ -118,8 +118,10 @@ re-(回) + [[ply|ply]](折叠) → 折回来 → 回应
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Subscribers can customize the information they want to receive and proceed directly to a company's website."（订阅者可以自定义他们想要接收的信息，并直接进入公司网站。）——考研高频表达
-> - "I am writing in reply to your letter of May 20th regarding the position of marketing assistant."（我写信回复您5月20日关于市场营销助理职位的来信。）——考研高频表达
+> - Subscribers can customize the information they want to receive and proceed directly to a company's website. `[真题]`
+> - I am writing in reply to your letter of May 20th regarding the position of marketing assistant. `[真题]`
+> - She replied to the accusation with a stack of documents proving her innocence. `[COCA-ACAD]`
+> - He said in reply that the question was unfair. `[COCA-ACAD]`
 
 ---
 

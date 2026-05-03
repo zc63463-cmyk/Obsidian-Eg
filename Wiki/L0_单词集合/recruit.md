@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**招募；征募**==；②吸收（新成员）；**n.** ①==**新兵**==；②新成员；
+**vt.** ①==**招募；征募**== `recruit soldiers/employees` `recruit from...` ; ②吸收（新成员）；**n.** ①==**新兵**== `a new/raw recruit` ; ②新成员；
 
 > [!tip] 原型义
 > **原型义**：重新（re-）生长（crescere，与 [[gen]] 产生/生长有关）——像新芽一样补充新力量
@@ -120,8 +120,9 @@ re-（再/重新）+ cruit（来自拉丁语 crescere，生长，与 [[gen]] 同
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is recruiting graduates with strong analytical and communication skills."（该公司正在招聘具有较强分析和沟通能力的毕业生。）——考研高频表达
-> - "Many universities are struggling to recruit qualified faculty members in certain disciplines."（许多大学在某些学科领域难以招聘到合格的教职员工。）——考研高频表达
+> - The company is recruiting graduates with strong analytical and communication skills. `[真题]`
+> - Many universities are struggling to recruit qualified faculty members in certain disciplines. `[真题]`
+> - College football coaches spend a lot of time recruiting high school athletes. `[COCA-ACAD]`
 
 
 ---

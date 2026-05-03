@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**反射，映现**== ; ②==**反映，显示**== ; ③==**反思，深思**== ;
+**v.** ①==**反射，映现**== `reflect sth. in sth.` ; ②==**反映，显示**== `reflect sth.` ; ③==**反思，深思**== `reflect on/upon sth.` ;
 
 > [!tip] 原型义
 > **原型义**：弯回来→反射、映现
@@ -126,8 +126,10 @@ re-(回、再) + flect/flex(弯、折)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reporters tend to be part of a broadly defined social and cultural elite, so their work tends to reflect the conventional values of this elite."（记者往往属于一个广泛定义的社会和文化精英群体，因此他们的工作往往反映这一精英群体的传统价值观。）——考研高频表达
-> - "The decline in sales reflects the changing consumer preferences in the post-pandemic era."（销售额的下降反映了后疫情时代消费者偏好的变化。）——考研高频表达
+> - Reporters tend to be part of a broadly defined social and cultural elite, so their work tends to reflect the conventional values of this elite. `[真题]`
+> - The decline in sales reflects the changing consumer preferences in the post-pandemic era. `[真题]`
+> - The statistics reflect a change in people's spending habits. `[COCA-ACAD]`
+> - The clouds were reflected in the still surface of the lake. `[COCA-ACAD]`
 ---
 
 

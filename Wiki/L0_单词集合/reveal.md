@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**揭示；揭露**== ; ②==**显示；表明**== ; ③泄露（秘密等）
+**v.** ①==**揭示；揭露**== `reveal the truth` `reveal a secret` ; ②==**显示；表明**== `reveal that...` `reveal sth. to sb.` ; ③==**泄露（秘密等）**== `reveal information`
 
 > [!tip] 原型义
 > **原型义**：拨开面纱 → 揭露（remove the veil / uncover）
@@ -125,8 +125,10 @@ re-(去除/相反) + [[veil|ver-vert]](面纱/转) → 去除面纱 → 揭示
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature."（艾伦的贡献在于拿出一个我们都认同的假设——因为我们不是机器人，所以我们能控制自己的思想——并揭示其错误的本质。）——2011考研英语一翻译
-> - "Works of several historians reveal the moral compromises made by the nation's early leaders."（几位历史学家的著作揭示了国家早期领导人所做出的道德妥协。）——考研真题阅读
+> - "Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature." `[真题]`
+> - "Works of several historians reveal the moral compromises made by the nation's early leaders." `[真题]`
+> - "A survey of the American diet has revealed that a growing number of people are overweight." `[COCA-ACAD]`
+> - "The findings reveal that the theoretical model has been supported to a substantial extent." `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**克制，抑制，约束**==；②限制措施，约束手段；③（安全带等）安全装置；
+**n.** ①==**克制，抑制，约束**== `exercise/show restraint` `without restraint`；②==**限制措施，约束手段**== `impose restraints on` `wage restraint`；③==**（安全带等）安全装置**== `seat restraint` `child restraint`；
 
 > [!tip] 原型义
 > **原型义**：拉回来的状态/手段（克制的行为或措施）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The security forces exercised great restraint by not responding to hostile attacks and threats."（安全部队表现出极大的克制，没有对充满敌意的攻击和威胁做出回应——剑桥词典例句）
-> - "By far the most effective method to restrain pension spending is to give people the opportunity to work longer, because it increases tax revenues and reduces spending on pensions at the same time."（到目前为止，控制养老金支出最有效的方法是让人们有机会工作更长时间，因为这同时增加了税收并减少了养老金支出——六级/考研真题）
+> - "The security forces exercised great restraint by not responding to hostile attacks and threats." `[COCA]`
+> - "By far the most effective method to restrain pension spending is to give people the opportunity to work longer, because it increases tax revenues and reduces spending on pensions at the same time." `[真题]`
+> - "During the recession, the government opted for a policy of wage restraint rather than a reduction in public investment." `[COCA-ACAD]`
+> - "He exercised considerable restraint in ignoring the insults." `[COCA]`
 
 
 ---

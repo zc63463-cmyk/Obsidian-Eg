@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**原因，理由**== ; ②==**理性，理智**== ; ③==**道理，情理**== ;
-**vt.** ①==**推理，论证**== ; ②==**说服，劝告**== ;
+**n.** ①==**原因，理由**== `the reason why...` `for some reason` ; ②==**理性，理智**== `by reason of` ; ③==**道理，情理**== ;
+**vt.** ①==**推理，论证**== `reason that...` ; ②==**说服，劝告**== `reason with sb.` ;
 **vi.** ①==**推理，思考**== ;
 
 > [!tip] 原型义
@@ -135,9 +135,9 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "That's one reason why the idea of a national list hasn't gone anywhere, while drug costs keep rising fast."（这就是为什么全国性药品目录的想法一直未能实现，而药品成本却在快速上升的原因之一。）——2005年考研新题型
-> - "It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself."（这也是为什么当我们试图用语言来描述音乐时，我们所能做的只是表达对它的反应，而不能把握音乐本身。）——2014年考研翻译
-> - "This book stands for reason itself."（这本书代表了理性本身。）——1996年考研阅读
+> - That's one reason why the idea of a national list hasn't gone anywhere, while drug costs keep rising fast. `[真题]`
+> - It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself. `[真题]`
+> - This book stands for reason itself. `[真题]`
 
 ---
 

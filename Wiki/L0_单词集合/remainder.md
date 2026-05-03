@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**剩余部分；其余**== ; ②余数
+**n.** ①==**剩余部分；其余**== `the remainder of sth.`（……的剩余部分） ; ②余数 `remainder 1`（余数为1）
 
 > [!tip] 原型义
 > **原型义**：剩余的部分（时间或空间分割后留下的部分）
@@ -127,8 +127,9 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The remainder of the book is devoted to discussing the implications of these findings."（本书的其余部分致力于讨论这些发现的含义。）——考研高频表达
-> - "She spent the remainder of the afternoon reading in the library."（她在图书馆度过了下午的剩余时间。）——考研高频表达
+> - The remainder of the book is devoted to discussing the implications of these findings. `[COCA-ACAD]`
+> - Most of our employees work in New York; the remainder are based in London. `[COCA-ACAD]`
+> - The remainder of the paper is organized as follows. `[COCA-ACAD]`
 
 ---
 

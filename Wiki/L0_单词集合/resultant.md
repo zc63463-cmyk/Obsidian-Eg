@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**作为结果的；因而发生的**==
-**n.** ①（物理）合力；合成量
+**adj.** ①==**作为结果的；因而发生的**== `resultant damage/problems` `the resultant loss of life`
+**n.** ①==**（物理）合力；合成量**== `resultant force`
 
 > [!tip] 原型义
 > **原型义**：作为结果产生的（arising as a result）
@@ -119,8 +119,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The resultant damage from the earthquake was estimated at billions of dollars."（地震造成的损失估计达数十亿美元。）——考研高频表达
-> - "The resultant flow of ideas is an important dimension of the process in which policy is made."（由此产生的思想流动是政策制定过程中的一个重要维度。）——考研高频表达
+> - "The resultant damage from the earthquake was estimated at billions of dollars." `[真题]`
+> - "The resultant flow of ideas is an important dimension of the process in which policy is made." `[真题]`
+> - "We deplore the use of force and the resultant loss of life." `[COCA-ACAD]`
+> - "The resultant changes in regional species composition have many consequences for human health." `[COCA-ACAD]`
 
 ---
 

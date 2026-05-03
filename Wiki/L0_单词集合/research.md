@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**研究，调查**== ; ②研究成果 ;
-**v.** ①研究，调查 ;
+**n.** ①==**研究，调查==`conduct/do research` / `research into/on` ; ②==**研究成果==`research findings` ;
+**v.** ①==**研究，调查==`research sth. thoroughly` ;
 
 > [!tip] 原型义
 > **原型义**：反复搜寻、探查以发现新知识或新事实
@@ -122,8 +122,9 @@ re-(反复) + [[search|search]](搜寻) → 反复搜寻 → 研究
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Internet — and pressure from funding agencies — is making access to scientific results a reality."（互联网——以及来自资助机构的压力——正在使获取科研成果成为现实。）——2008考研英语二阅读
-> - "Scientists need journals in which to publish their research, so they will supply the articles without monetary reward."（科学家需要期刊来发表他们的研究成果，因此他们会无偿提供论文。）——2020考研英语一阅读
+> - `[真题]` The Internet — and pressure from funding agencies — is making access to scientific results a reality.
+> - `[真题]` Scientists need journals in which to publish their research, so they will supply the articles without monetary reward.
+> - `[COCA-ACAD]` She worked at the clinic for ten years, conducting research into potential treatments for Alzheimer's disease.
 
 ---
 

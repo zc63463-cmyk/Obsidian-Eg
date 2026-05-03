@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**回答，回应**==；②反应，响应；③（对治疗等的）反应；
+**n.** ①==**回答，回应**== `in response to` `a quick/immediate response`；②==**反应，响应**== `immune response` `emergency response`；③==**（对治疗等的）反应**== `patient's response to treatment`；
 
 > [!tip] 原型义
 > **原型义**：回过头承诺的结果（回应的内容/行为）
@@ -130,8 +130,9 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The agency was heavily criticised for its tardy response to the hurricane."（该机构因对飓风反应迟缓而受到严厉批评——考研高频表达）
-> - "In response to the news, Mr Watt appealed for calm."（面对这个消息，瓦特先生呼吁保持冷静——考研高频表达）
+> - "The agency was heavily criticised for its tardy response to the hurricane." `[真题]`
+> - "The group staged a protest in response to the war." `[COCA-ACAD]`
+> - "Her response to their decision was to quit." `[COCA-ACAD]`
 
 
 ---

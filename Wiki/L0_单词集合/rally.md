@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**集合，集结**==；②==**恢复，重新振作**==；③==**（价格等）回升，反弹**==；
+**vi.** ①==**集合，集结**== `rally around/behind`；②==**恢复，重新振作**== `rally from` `rally one's spirits`；③==**（价格等）回升，反弹**==；
 **vt.** ①==**召集，集合**==；②==**重新团结，使振作**==；
-**n.** ①==**集会，大会**==（尤指政治集会）；②==**汽车拉力赛**==；③==**（网球等）拉锯，相持**==；
+**n.** ①==**集会，大会**== `a political/mass rally`；②==**汽车拉力赛**==；③==**（网球等）拉锯，相持**==；
 
 > [!tip] 原型义
 > **原型义**：重新集结、集合（将分散的人重新聚集在一起）
@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "rally around the president"（团结在总统周围）——政治类阅读，描述公众支持
-> - "the market rallied after the initial shock"（市场在最初的冲击后反弹）——经济/金融类阅读
-> - "a political rally"（政治集会）——新闻/社会类阅读高频搭配
-> - "rally from a devastating defeat"（从惨败中重新振作）——励志/传记类文本
+> - "Her fans rallied behind her from the start." `[COCA-NEWS]`
+> - "The stock market rallied late in the day." `[COCA-NEWS]`
+> - "Assailed by the forces of darkness, civic-minded citizens rallied to defend their community." `[COCA-ACAD]`
+> - "The community will rally around the family in their time of need." `[COCA-NEWS]`
 
 ---
 

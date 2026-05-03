@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有规律的，定期的**== ; ②正常的，常规的 ; ③整齐的，匀称的 ;
+**adj.** ①==**有规律的，定期的**== `regular exercise / on a regular basis` ; ②==**正常的，常规的**== `regular customer / regular tracks` ; ③==**整齐的，匀称的**== `regular features` ;
 
 > [!tip] 原型义
 > **原型义**：按规则治理的、合乎规矩的
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A mixed system means that high-speed trains must travel on the regular tracks on certain routes or when passing through large cities."（混合系统意味着高速列车在某些路线上或经过大城市时必须在普通轨道上行驶。）——2026考研英语二完形
-> - "Regular exercise is essential for maintaining good health."（规律的锻炼对保持身体健康至关重要。）——考研高频表达
+> - `A mixed system means that high-speed trains must travel on the regular tracks on certain routes or when passing through large cities.` [真题]
+> - `Regular exercise is essential for maintaining good health.` [COCA-ACAD]
+> - `She's one of our regular customers and comes in every Tuesday.` [COCA-MAG]
 
 ---
 

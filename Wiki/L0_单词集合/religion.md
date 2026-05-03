@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宗教**== ; ②==**宗教信仰**== ; ③笃信，信奉 ;
+**n.** ①==**宗教**== `organized religion`（有组织的宗教） ; ②==**宗教信仰**== `freedom of religion`（宗教自由） ; ③笃信，信奉 ;
 
 > [!tip] 原型义
 > **原型义**：反复绑定（to bind back repeatedly）
@@ -127,8 +127,9 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On the issue of freedom of religion and the position of the Church, there was less agreement among the leadership."（在宗教自由和教会地位问题上，领导层之间的共识较少。）——2007年完形填空
-> - "Most religions teach you to be truthful."（大多数宗教都教你要诚实。）——考研高频表达
+> - On the issue of freedom of religion and the position of the Church, there was less agreement among the leadership. `[真题]`
+> - Most leaders sought to maintain Catholicism as the official religion of the new states. `[真题]`
+> - The Constitution of the United States guarantees its citizens the right to freedom of religion. `[COCA-ACAD]`
 ---
 
 

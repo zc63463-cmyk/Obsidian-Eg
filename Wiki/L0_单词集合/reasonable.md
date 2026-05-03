@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**合理的，有道理的**== ; ②==**公道的，公平的**== ; ③==**（人）通情达理的**== ;
+**adj.** ①==**合理的，有道理的**== `a reasonable explanation/argument` `it is reasonable to do...` ; ②==**公道的，公平的**== `a reasonable price` ; ③==**（人）通情达理的**== `a reasonable person` ;
 
 > [!tip] 原型义
 > **原型义**：具有理性思考能力的，可以被 reason（理性）所接受的
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Darwinism seems to offer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings."（达尔文学说似乎提供了证明，因为如果所有人类拥有共同的起源，那么认为文化多样性也可以追溯到更有限的起点似乎是合理的。）——2012年考研翻译
-> - "They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while a warrant is pending."（在严重、紧急的情况下，他们仍然可以使第四修正案的保护失效，并且可以采取合理措施确保在等待搜查令期间手机数据不被删除或篡改。）——考研阅读真题
+> - Darwinism seems to offer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings. `[真题]`
+> - They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while a warrant is pending. `[真题]`
+> - It is not reasonable to expect people to carry around a reusable cup. `[COCA-ACAD]`
 
 ---
 

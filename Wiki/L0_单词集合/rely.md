@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**依赖，依靠**== ; ②==**信赖，信任**== ;
+**v.** ①==**依赖，依靠**== `rely on sb./sth.`（依赖某人/某物） ; ②==**信赖，信任**== `rely on sb. to do sth.`（指望某人做某事） ;
 
 > [!tip] 原型义
 > **原型义**：反复绑住（to bind back）
@@ -126,8 +126,9 @@ re-(反复) + ly(绑，同lig)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many animals rely on concealment for protection."（许多动物靠藏匿自己来避害。）——考研高频表达
-> - "It would be rash to rely on such evidence."（依靠这样的证据太轻率了。）——考研高频表达
+> - Many animals rely on concealment for protection. `[COCA-ACAD]`
+> - It would be rash to rely on such evidence. `[COCA-ACAD]`
+> - The author relies heavily on the primary sources of the literature. `[COCA-ACAD]`
 ---
 
 

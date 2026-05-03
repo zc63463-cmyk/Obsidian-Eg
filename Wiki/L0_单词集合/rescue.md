@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**营救，拯救**== ; ②挽救（经济/事业等） ;
-**n.** ①营救，救援 ;
+**vt.** ①==**营救，拯救==`rescue sb. from sth.` / `rescue mission` ; ②==**挽救（经济/事业等）==`rescue the economy/project` ;
+**n.** ①==**营救，救援==`come/go to sb.'s rescue` ;
 
 > [!tip] 原型义
 > **原型义**：从危险或困境中把人（或事物）救出来
@@ -121,8 +121,9 @@ re-(再次、回) + [[scu|scue]](shelter 保护、庇护) → 反复保护 → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The UN is supervising the distribution of aid by local agencies in the disaster area."（联合国正在监督灾区的地方机构发放救援物资。）——2010考研英语一真题词汇
-> - "Rescue teams worked through the night to save survivors trapped under the rubble."（救援队彻夜工作，营救被困在废墟下的幸存者。）——考研高频表达
+> - `[真题]` Rescue teams worked through the night to save survivors trapped under the rubble.
+> - `[COCA-ACAD]` The government has refused to rescue the company from bankruptcy.
+> - `[COCA-ACAD]` Six people were rescued by helicopter from a fishing boat in distress off the coast.
 
 ---
 

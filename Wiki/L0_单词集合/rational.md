@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**理性的，理智的**== ; ②合理的，基于理性的 ; ③有理性的
+**adj.** ①==**理性的，理智的**== ``rational decision`` ``rational choice`` ; ②==**合理的，基于理性的**== ``rational explanation`` ``rational argument`` ; ③==**有理性的**== ``rational being`` ``rational thought``
 
 > [!tip] 原型义
 > **原型义**：理性的、基于推理的（能够运用逻辑进行思考）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is important to make rational decisions based on evidence rather than emotion."（基于证据而非情绪做出理性决策非常重要。）——考研高频表达
-> - "Humans are not always rational when it comes to financial decisions."（在做出财务决策时，人类并不总是理性的。）——考研高频表达
+> - Often in the space of a couple of hours, a rational decision can be formed and agreed to. `[COCA]`
+> - Rational choice theory implicitly assumes that conflicts of desires can always be resolved in this sense. `[COCA-ACAD]`
+> - Humans are not always rational when it comes to financial decisions. `[COCA]`
+> - On the one hand, my rational adult self understands that this is the end. `[COCA]`
 
 ---
 

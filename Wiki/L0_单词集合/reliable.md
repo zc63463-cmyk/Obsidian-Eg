@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可靠的，可信赖的**== ; ②确实的 ;
+**adj.** ①==**可靠的，可信赖的**== `a reliable source/partner`（可靠的来源/伙伴） ; ②确实的 `reliable evidence/data`（可靠的证据/数据） ;
 
 > [!tip] 原型义
 > **原型义**：可以绑回来的（able to be gathered back）
@@ -127,8 +127,9 @@ re-(反复/回) + li(绑) + -able(可以……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Machine learning often provides a more reliable form of statistics which makes data more valuable," says Winston.（温斯顿说："机器学习往往提供更可靠的统计形式，使数据更有价值。"）——2021年英语一阅读理解
-> - "A reliable partner is essential for any successful collaboration."（可靠的伙伴对于任何成功的合作都至关重要。）——2015年英语二翻译
+> - "Machine learning often provides a more reliable form of statistics which makes data more valuable," says Winston. `[真题]`
+> - A reliable partner is essential for any successful collaboration. `[真题]`
+> - There are some difficulties with the collection of reliable data. `[COCA-ACAD]`
 ---
 
 

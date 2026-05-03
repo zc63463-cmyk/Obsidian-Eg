@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**移除；去除**== ; ②==**免职；解职**== ; ③搬迁
+**n.** ①==**移除；去除**== `removal of sth.` ; ②==**免职；解职**== `removal from office` ; ③搬迁 `removal to a new place`
 
 > [!tip] 原型义
 > **原型义**：移除、去掉的动作或结果
@@ -128,8 +128,10 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The removal of trade barriers has stimulated economic growth."（贸易壁垒的消除刺激了经济增长。）——考研高频表达
-> - "The removal of the old tree made space for a new playground."（移除旧树为新操场让出了空间。）——考研高频表达
+> - The removal of trade barriers has stimulated economic growth. `[真题]`
+> - Government advisers have requested the drug's removal from the market for safety reasons. `[COCA-ACAD]`
+> - Allegations of abuse led to the removal of several children from their families. `[COCA-ACAD]`
+> - Surgical removal of the tumor might be necessary. `[COCA-ACAD]`
 
 ---
 

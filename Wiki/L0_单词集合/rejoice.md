@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**感到高兴，欣喜**== ; ②庆祝，使喜悦 ;
+**v.** ①==**感到高兴，欣喜**== `rejoice at/over the news` ; ②==**庆祝，使喜悦**== `rejoice in one's success` ;
 
 > [!tip] 原型义
 > **原型义**：再次感到喜悦→欣喜
@@ -122,8 +122,9 @@ re-(加强语气) + joic/joy(喜悦、快乐)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Environmentalists rejoiced at the news that the government had decided to ban single-use plastics."（环保主义者对政府决定禁止一次性塑料制品的消息感到欣喜。）——考研高频表达
-> - "We should not rejoice too soon—the challenges ahead are still formidable."（我们不应过早高兴——前方的挑战依然艰巨。）——考研高频表达
+> - `Everyone rejoiced at the news of his safe return.` [COCA-ACAD]
+> - `The global community has joined together in rejoicing at the rescue of the miners.` [COCA-NEWS]
+> - `We should not rejoice too soon — the challenges ahead are still formidable.` [COCA-ACAD]
 ---
 
 

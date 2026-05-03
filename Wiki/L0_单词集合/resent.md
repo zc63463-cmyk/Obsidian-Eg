@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**怨恨，愤恨**== ;
+**vt.** ①==**怨恨，愤恨==`resent doing sth.` / `resent sb. for sth.` ;
 
 > [!tip] 原型义
 > **原型义**：反复感到（痛苦、愤怒），在心中反复咀嚼不满
@@ -120,8 +120,9 @@ re-(反复) + [[sent|sent]](感觉) → 反复感到不满 → 怨恨
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Indeed, the mere presence of a grape in the other chamber was enough to induce resentment in a female capuchin."（实际上，只要在另一房间出现了葡萄（不管有没有猴子吃它），都足以引起雌性卷尾猴的愤恨。）——2005考研英语一阅读
-> - "Many employees resent the fact that they are not consulted before important decisions are made."（许多员工对在做出重要决策之前不征求他们意见感到不满。）——考研高频表达
+> - `[真题]` Indeed, the mere presence of a grape in the other chamber was enough to induce resentment in a female capuchin.
+> - `[COCA-ACAD]` He deeply resented the fact that his teammates did not support him.
+> - `[COCA-ACAD]` Many employees resent being excluded from the decision-making process.
 
 ---
 

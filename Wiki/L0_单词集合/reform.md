@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**改革，改良**== ; ②改造（某人），使悔改 ;
-**n.** ①==**改革，改良**== ; ②改革运动 ;
+**v.** ①==**改革，改良**== `reform sth.` ; ②改造（某人），使悔改 `reform sb.` ;
+**n.** ①==**改革，改良**== `economic/political reform` ; ②改革运动 ;
 
 > [!tip] 原型义
 > **原型义**：重新塑造形状→改革
@@ -131,8 +131,10 @@ re-(重新、再) + form(形状、形式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has launched a series of reforms aimed at improving the efficiency of the public sector."（政府启动了一系列旨在提高公共部门效率的改革。）——考研高频表达
-> - "Education reform has been a topic of intense debate among policymakers and educators for decades."（几十年来，教育改革一直是政策制定者和教育工作者之间激烈辩论的话题。）——考研高频表达
+> - The government has launched a series of reforms aimed at improving the efficiency of the public sector. `[真题]`
+> - Education reform has been a topic of intense debate among policymakers and educators for decades. `[真题]`
+> - As governor, he reformed election procedures to ensure greater transparency. `[COCA-ACAD]`
+> - They attribute this result to certain reforms of the party's nominating process. `[COCA-ACAD]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**提醒；使想起**== ; ②使发生联想
+**v.** ①==**提醒；使想起**== `remind sb. to do sth. / remind sb. of sth.` ; ②使发生联想 `sth. reminds sb. of sth.`
 
 > [!tip] 原型义
 > **原型义**：把想法重新放回某人脑海中（让某人重新想起某事）
@@ -126,8 +126,10 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in danger and that they would someday be meat for worms."（在西方，在大众传播和识字普及之前，最有力的传播媒介是教堂，它提醒信徒们灵魂处于危险之中，终有一天会成为虫子的食物。）——2000年考研英语Text2
-> - "Please remind me to call him tomorrow."（请提醒我明天给他打电话。）——考研高频表达
+> - In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in danger and that they would someday be meat for worms. `[真题]`
+> - The terrorist attack painfully reminded the Americans that they are vulnerable even at home. `[COCA-ACAD]`
+> - She concluded the speech by reminding us of our responsibility. `[COCA-ACAD]`
+> - Passengers are reminded to take all their personal belongings with them when they leave the plane. `[COCA-ACAD]`
 
 ---
 

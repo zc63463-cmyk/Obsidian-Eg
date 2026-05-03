@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**关系，人际关系**== ; ②==**关系，联系**==（事物之间的） ;
+**n.** ①==**关系，人际关系**== `interpersonal relationship / build a relationship` ; ②==**关系，联系**==（事物之间的） `the relationship between A and B` ;
 
 > [!tip] 原型义
 > **原型义**：人与人之间的连接状态→关系
@@ -124,8 +124,9 @@ re-(回) + lat/latus(携带、带来) + -ion(名词后缀) + -ship(表状态/关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a complex relationship between economic growth and environmental degradation."（经济增长与环境恶化之间存在复杂的关系。）——考研高频表达
-> - "The study found a positive relationship between regular physical exercise and mental well-being."（研究发现，规律的体育锻炼与心理健康之间存在正相关关系。）——考研高频表达
+> - `There is a complex relationship between economic growth and environmental degradation.` [COCA-ACAD]
+> - `The study found a positive relationship between regular physical exercise and mental well-being.` [COCA-ACAD]
+> - `My relationship with my mother has always been built on trust and mutual respect.` [COCA-FIC]
 ---
 
 

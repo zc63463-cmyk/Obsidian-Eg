@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**名誉，名声**== ;
+**n.** ①==**名誉，名声==`have a reputation for` / `build/ruin a reputation` ;
 
 > [!tip] 原型义
 > **原型义**：被反复考虑、评价后形成的看法（re-反复 + put-思考 + -ation）
@@ -118,8 +118,9 @@ re-(反复) + [[put|put]](思考、认为) + -ation(名词后缀) → 被反复�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Indeed, if he has a reputation for slacking, you might even be outraged."（确实，如果他还有懒散的名声的话，你甚至会变得怒不可遏——2005年考研Text 1）
-> - "That statement comes not from a stereotypical tree-hugging environmentalist, but from Gordon Brown, a politician with a reputation for rigour."（那番话不是出自一个典型的拥抱树木的环保主义者之口，而是出自以严谨著称的政治家戈登·布朗之口——考研高频表达）
+> - `[真题]` Indeed, if he has a reputation for slacking, you might even be outraged.
+> - `[真题]` That statement comes not from a stereotypical tree-hugging environmentalist, but from Gordon Brown, a politician with a reputation for rigour.
+> - `[COCA-ACAD]` Her extensive research enhanced her reputation as a leading scholar in the field.
 
 
 ---

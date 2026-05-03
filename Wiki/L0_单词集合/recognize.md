@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**认出；识别**==；②==**承认；认可**==；③意识到；
+**vt.** ①==**认出；识别**== `recognize sb./sth.` `recognize by/from...` ; ②==**承认；认可**== `be recognized as` `recognize independence` ; ③意识到；
 
 > [!tip] 原型义
 > **原型义**：再次（re-）认知（cogn）——重新认出曾经认识的事物
@@ -122,8 +122,9 @@ re-（再/重新）+ cogn/gn（[[id-ident]] 认知/知道）+ -ize（动词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is widely recognized that education plays a crucial role in promoting social mobility."（人们普遍认识到教育在促进社会流动方面发挥着关键作用。）——考研高频表达
-> - "She was recognized for her outstanding contribution to the field of medical research."（她因在医学研究领域的杰出贡献而获得认可。）——考研高频表达
+> - It is widely recognized that education plays a crucial role in promoting social mobility. `[真题]`
+> - She was recognized for her outstanding contribution to the field of medical research. `[真题]`
+> - I recognized her by her red hair. `[COCA-ACAD]`
 
 
 ---

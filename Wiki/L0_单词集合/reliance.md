@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**依赖，信赖**== ; ②依靠的人/事物 ;
+**n.** ①==**依赖，信赖**== `reliance on sth.`（依赖……） ; ②依靠的人/事物 `place reliance on`（信赖……） ;
 
 > [!tip] 原型义
 > **原型义**：反复绑定的状态（the condition of being bound back）
@@ -126,8 +126,9 @@ re-(反复/回) + li(绑) + -ance(名词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He wrote the paper with considerable reliance on the work of other scientists."（他在撰写这篇论文时大量依赖了其他科学家的研究成果。）——考研高频表达
-> - "Don't place too much reliance on his advice."（别太相信他的意见。）——考研高频表达
+> - He wrote the paper with considerable reliance on the work of other scientists. `[COCA-ACAD]`
+> - Its heavy reliance on national oil companies has long been seen as a strength. `[COCA-ACAD]`
+> - The survey research also confirms the primary consequence of increasing reliance on state support. `[COCA-ACAD]`
 ---
 
 

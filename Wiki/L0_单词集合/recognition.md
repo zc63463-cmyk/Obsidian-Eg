@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**认出；识别**==；②==**承认；认可**==；③表彰；赞赏；
+**n.** ①==**认出；识别**== `facial/voice/pattern recognition` ; ②==**承认；认可**== `gain/receive recognition` `in recognition of` ; ③表彰；赞赏；
 
 > [!tip] 原型义
 > **原型义**：再次（re-）认知（[[cogn]]）——重新认出曾经认识的事物
@@ -122,8 +122,9 @@ re-（再/重新）+ cogn/gn（[[id-ident]] 认知/知道）+ -ition（名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "International recognition of the new government remains uncertain due to ongoing political instability."（由于持续的政治不稳定，国际社会对新政府的认可仍然不确定。）——考研高频表达
-> - "Facial recognition technology has raised significant concerns about privacy and civil liberties."（面部识别技术引发了对隐私和公民自由的严重担忧。）——考研高频表达
+> - International recognition of the new government remains uncertain due to ongoing political instability. `[真题]`
+> - Facial recognition technology has raised significant concerns about privacy and civil liberties. `[真题]`
+> - The city has changed beyond recognition. `[COCA-ACAD]`
 
 
 ---

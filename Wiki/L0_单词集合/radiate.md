@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**辐射，散发（光、热、能量）**==；②==**流露，显现（情感、品质）**==；③从中心向四周延伸；
+**v.** ①==**辐射，散发（光、热、能量）**== `radiate heat/light` `radiate from`；②==**流露，显现（情感、品质）**== `radiate confidence/joy` `radiate warmth`；③从中心向四周延伸；
 **adj.** ①辐射状的，有辐射的；
 
 > [!tip] 原型义
@@ -135,9 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She radiates confidence."（她流露出自信）——常见人物描写
-> - "Heat radiates from the earth's surface."（热量从地球表面辐射）——科普/环境话题
-> - "Five roads radiate from the central square."（五条道路从中心广场向四周延伸）——空间描述
+> - "The sun radiates heat and light." `[COCA-ACAD]`
+> - "He simply radiates integrity." `[COCA-NEWS]`
+> - "The pain was radiating down my arm." `[COCA-ACAD]`
+> - "Once established, canons exert cultural power by influencing memory and heritage and by radiating out on to the work of musicians." `[COCA-ACAD]`
 
 ---
 

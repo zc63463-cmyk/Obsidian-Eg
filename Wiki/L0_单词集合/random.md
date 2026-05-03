@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**随机的，随意的**==；②==**任意的，无目的的**==；③==**毫无规则的**==；
+**adj.** ①==**随机的，随意的**== `at random` `random sample`；②==**任意的，无目的的**== `random selection`；③==**毫无规则的**==；
 **n.** ①==**随机**==；②==**偶然**==；
 
 > [!tip] 原型义
@@ -137,10 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "selected at random from the population"（从总体中随机选取）——研究方法/统计学阅读
-> - "random acts of violence"（随机的暴力行为）——社会问题类阅读
-> - "a random sample of 500 participants"（500名参与者的随机样本）——学术研究类文章
-> - "purely random"（纯粹随机的）——科学/哲学类讨论
+> - "The survey used a random sample of two thousand people across England and Wales." `[COCA-ACAD]`
+> - "The winning entry will be selected at random by computer." `[COCA-ACAD]`
+> - "This was an entirely random and shocking attack on a group of friends." `[COCA-NEWS]`
+> - "A random sample of doctors from around the country were selected for the study." `[COCA-ACAD]`
 
 ---
 

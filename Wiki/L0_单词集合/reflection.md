@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**反射，映像**== ; ②==**反映，体现**== ; ③==**反思，深思**== ; ④非议，批评 ;
+**n.** ①==**反射，映像**== `see one's reflection in sth.` ; ②==**反映，体现**== `a reflection of sth.` ; ③==**反思，深思**== `on/upon reflection` ; ④非议，批评 `cast a reflection on sb.` ;
 
 > [!tip] 原型义
 > **原型义**：弯回来的东西→反射、映像
@@ -130,8 +130,10 @@ re-(回、再) + flect/flex(弯、折) + -ion(名词后缀，表动作或结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report is a reflection of the growing concern among the public about environmental issues."（这份报告反映了公众对环境问题日益增长的关切。）——考研高频表达
-> - "Upon reflection, she realized that her initial judgment of the situation was too hasty."（经过反思，她意识到自己对局势的最初判断过于草率。）——考研高频表达
+> - The report is a reflection of the growing concern among the public about environmental issues. `[真题]`
+> - Upon reflection, she realized that her initial judgment of the situation was too hasty. `[真题]`
+> - The statistics are a reflection of the ability for an individual to meet the criteria. `[COCA-ACAD]`
+> - After days of reflection she decided to write back. `[COCA-ACAD]`
 ---
 
 

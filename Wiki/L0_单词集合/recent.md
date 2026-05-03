@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**最近的，不久前的**== ; ②==**近代的**== ;
+**adj.** ①==**最近的，不久前的**== `in recent years` `a recent study` ; ②==**近代的**== ;
 
 > [!tip] 原型义
 > **原型义**：刚刚过去的，不久前发生的
@@ -128,8 +128,9 @@ re-(再/回) + -cent( hundred的缩写，百年) → 字面"回到百年之内" 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Recent studies have shown that the earth's temperature is rising at an alarming rate."（最近的研究表明，地球温度正以惊人的速度上升。）——考研高频表达
-> - "In recent years, there has been a growing awareness of environmental issues."（近年来，人们对环境问题的意识不断增强。）——考研高频表达
+> - Recent studies have shown that the earth's temperature is rising at an alarming rate. `[真题]`
+> - In recent years, there has been a growing awareness of environmental issues. `[真题]`
+> - A recent study found a link between diet and health. `[COCA-ACAD]`
 
 ---
 

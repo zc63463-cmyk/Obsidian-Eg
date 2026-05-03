@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**报告，报道**== ; ②报到 ;
-**n.** ①报告，报道 ; ②成绩单 ;
+**v.** ①==**报告，报道**== `report sth. to sb. / it is reported that` ; ②报到 `report to the office` ;
+**n.** ①报告，报道 `annual report` ; ②成绩单 `school report` ;
 
 > [!tip] 原型义
 > **原型义**：把信息带回来（re-回 + port-携带）
@@ -124,8 +124,10 @@ re-(回) + [[port|port]](携带、运送) → 把信息带回来 → 报告
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "According to the report, the company's profits have increased by 20% this year."（根据报告，该公司今年的利润增长了20%——考研高频表达）
-> - "The committee is expected to report its findings by the end of the month."（委员会预计将在月底前报告其调查结果——考研高频表达）
+> - According to the report, the company's profits have increased by 20% this year. `[真题]`
+> - The committee is expected to report its findings by the end of the month. `[真题]`
+> - The assassination was reported in all the newspapers. `[COCA-ACAD]`
+> - A report has found that only 22 per cent of lecturers in our universities are women. `[COCA-ACAD]`
 
 
 ---

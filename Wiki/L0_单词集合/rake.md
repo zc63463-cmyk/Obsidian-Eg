@@ -26,7 +26,7 @@ review_count: 0
 ## 核心释义
 
 **n.** ①==**耙子**==
-**v.** ①耙，梳理 ; ②搜索，翻找 ; ③（用目光）扫视
+**v.** ①耙，梳理 `rake (up) the leaves`；②搜索，翻找 `rake through` `rake over`；③（用目光）扫视
 
 > [!tip] 原型义
 > **原型义**：用带齿的工具梳理地面上的东西
@@ -126,8 +126,10 @@ rake（耙子，日耳曼语源，与 rake "倾斜" 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He spent the afternoon raking leaves in the garden."（他整个下午都在花园里耙树叶。）——考研高频表达
-> - "She raked through the files looking for the missing document."（她翻遍了文件，寻找那份丢失的文件。）——考研高频表达
+> - "I've raked through the cupboard but I can't find my blue mug." `[COCA-FIC]`
+> - "They rake through customer complaints for ideas for improving their products." `[COCA-ACAD]`
+> - "The searchlight raked the open ground around the prison." `[COCA-FIC]`
+> - "Every time we go out there and rake through a load, we turn over a piece of clothing and hope." `[COCA-NEWS]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**比，比率，比例**==
+**n.** ①==**比，比率，比例**== ``the ratio of A to B`` ``student-teacher ratio``
 
 > [!tip] 原型义
 > **原型义**：比率、比例（两个量之间的数学关系）
@@ -115,8 +115,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ratio of teachers to students in this school is quite favorable."（这所学校的师生比例相当不错。）——考研高频表达
-> - "The current ratio of imports to exports is a cause for concern."（目前进出口的比例令人担忧。）——考研高频表达
+> - The ratio of men to women at the conference was ten to one. `[COCA]`
+> - The school is trying to improve its student-teacher ratio. `[COCA]`
+> - The efficiency of a machine is the ratio between the energy it supplies and the energy put into it. `[COCA-ACAD]`
+> - The staff to student ratio has increased dramatically in the last five years. `[COCA]`
 
 ---
 
