@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**调和，和解**==；②使协调，使一致；③使顺从，使甘心
+**v.** ①==**调和，和解**== `reconcile differences; reconcile with sb` [正式]；②使协调，使一致 `reconcile two theories/views` [学术/正式]；③使顺从，使甘心 `reconcile oneself to sth` [书面]
 
 > [!tip] 原型义
 > **原型义**：和解（使对立双方重新走到一起）
@@ -130,8 +130,10 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where."（她和埃迪分分合合太多次了，孩子们都搞不清谁的衣服在哪里。——John Grisham, *The Chamber*）
-> - "He thought they might reconcile the Parisians to his daring design by reminding them of the familiar arches of their bridges."（他以为通过提醒巴黎人他们熟悉的桥拱，也许能让他们接受他大胆的设计。——Merriam-Webster Dictionary）
+> - She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where. `[John Grisham, The Chamber]`
+> - He thought they might reconcile the Parisians to his daring design by reminding them of the familiar arches of their bridges. `[韦氏词典]`
+> - She had to reconcile herself to the fact that her dream job was no longer available and start looking for other opportunities. `[通用语料]`
+> - A good mediator can help reconcile differences between conflicting parties and reach a mutually acceptable agreement. `[通用语料]`
 
 
 ---

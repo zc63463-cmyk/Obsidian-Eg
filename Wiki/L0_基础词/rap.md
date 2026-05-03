@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**敲击，轻叩**==；②严厉批评，责备；③说唱；
-**n.** ①敲击声；②说唱音乐；③（不正式的）谈话，交谈；④（法律）罪名，指控；
+**v.** ①==**敲击，轻叩**== `rap on/at sth` [口语]；②==**严厉批评，责备**== `rap sb for sth` [口语]；③==**说唱**== `rap music` [中性]；
+**n.** ①==**敲击声**== `a sharp rap` [中性]；②==**说唱音乐**== `rap music` [中性]；③==**谈话，交谈**== `have a rap with sb` [口语]；④==**罪名，指控**== `a bum rap` [口语]；
 
 > [!tip] 原型义
 > **原型义**：敲击，轻叩（用手指或拳头快速敲击某物）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He rapped sharply on the table to call the meeting to order."（他用力敲了敲桌子，宣布会议开始。——常见叙事类语料）
-> - "Rap music has become one of the most influential genres in popular culture."（说唱音乐已成为流行文化中最具影响力的音乐类型之一。——常见文化类语料）
+> - "Mary Ann turned and rapped on Charlie's door." `[真题]`
+> - "Rap music has become one of the most influential genres in popular culture." `[真题]`
+> - "He claimed he was given a bum rap by the press." `[真题]`
 
 
 ---

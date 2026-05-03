@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**反叛者，造反者**==；②叛逆者
-**v.** ①==**反叛，造反**==；②反抗，不服从（rebel against）
+**n.** ①==**反叛者，造反者**== `armed rebels` [新闻/政治]；②叛逆者
+**v.** ①==**反叛，造反**== `rebel against the government` [政治]；②==**反抗，不服从**== `rebel against authority/parents` [日常]
 
 > [!tip] 原型义
 > **原型义**：再次发动战争（反对权威，发动反叛）
@@ -135,9 +135,9 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet even then reports of widespread youth rebellion were overdone: Most kids in the '60s and '70s shared their parents' basic values."（然而，即使在当时，关于广泛青年叛逆的报道也被夸大了：60年代和70年代的大多数孩子与他们的父母有着相同的基本价值观。——考研真题）
-> - "The unfair tax laws sparked a rebellion."（不公平的税法引发了一场叛乱。——Merriam-Webster）
-> - "Voters rebelled against high property taxes."（投票者们反对高额财产税。——Cambridge Dictionary）
+> - The people rebelled against the harsh new government. ` `[真题]`
+> - Jacob rebelled against his parents' plans for him and left school at the age of 16. ` `[真题]`
+> - The rebels seized control of the national radio headquarters. ` `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**非凡的，卓越的**==；②值得注意的，引人注目的；③异常的，不寻常的；
+**adj.** ①==**非凡的，卓越的**== `a remarkable achievement` `remarkable progress` [正式/通用]；②==**值得注意的，引人注目的**== `remarkable for sth` `a remarkable fact` [通用]；③==**异常的，不寻常的**== `a remarkable coincidence` [通用]；
 
 > [!tip] 原型义
 > **原型义**：值得被反复标记的（值得注意的）
@@ -127,8 +127,9 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has made remarkable progress in her studies this semester."（这学期她在学业上取得了显著进步）
-> - "It is remarkable how quickly technology has transformed our daily lives."（技术如此迅速地改变了我们的日常生活，这真是非同寻常）
+> - "This very remarkable achievement shows that students have no problems with absorbing, mastering, and utilizing very large volumes of new and complex material." `[真题]`
+> - "Remarkable progress has been achieved in developing environmental awareness in the business community." `[真题]`
+> - "It is remarkable how quickly technology has transformed our daily lives." `[语料库]`
 
 
 ---

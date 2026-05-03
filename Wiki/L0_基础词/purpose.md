@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**目的，意图**==；②==**用途，作用**==；③决心，意志；
-**v.** ①==**打算，决意**==；
+**n.** ①==**目的，意图**== `the purpose of N` `N of purpose`；②==**用途，作用**== `serve a purpose`；③==**决心，意志**== `sense of purpose`；
+**v.** ①==**打算，决意**== `V to do`；
 
 > [!tip] 原型义
 > **原型义**：目的（放在前面的东西——心中想要达到的目标，像把一个东西放在前方作为指引）
@@ -132,9 +132,9 @@ pur-(=pro-, 向前/在前，拉丁语 *pro-* 在 *pur-* 前的同化形式) + [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He broke the vase on purpose."（他故意打碎了花瓶——考研基础表达）
-> - "The main purpose of education is to develop critical thinking skills."（教育的主要目的是培养批判性思维能力——考研写作高频表达）
-> - "She lives with a strong sense of purpose."（她带着强烈的使命感生活——考研阅读常见搭配）
+> - The purpose of a conclusion is to sum up the main points of an essay. ` `[COCA-ACAD]` `
+> - I didn't do it on purpose, it was an accident. ` `[COCA-SPOKEN]` `
+> - He seems to have lost all sense of purpose. ` `[COCA-FIC]` `
 
 
 ---

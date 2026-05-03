@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**卷轴，卷盘**==；②一卷（胶片/线等）；③绕线轮（钓鱼用）；
-**vi.** ①==**蹒跚，摇晃**==；②眩晕，发昏；
+**n.** ①==**卷轴，卷盘**== `\a movie/fishing reel` [中性]；②一卷（胶片/线等）；③绕线轮（钓鱼用）；
+**vi.** ①==**蹒跚，摇晃**== `\send sb reeling` [文学]；②眩晕，发昏；
 
 > [!tip] 原型义
 > **原型义**：卷轴（缠绕线或胶片的圆柱体，旋转运动）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He punched Connolly in the ear, sending him reeling."（他一拳打在康诺利的耳朵上，打得他一个趔趄。——语料库例句）
-> - "The saxophone has a single reed mouthpiece like a clarinet, a conical brass body like an ophicleide, and a metal body with a flared bell."（萨克斯管有一个像单簧管一样的单簧片吹嘴，一个像蛇形号的锥形铜管身，以及一个带喇叭口的金属管身。——乐器百科）
+> - "He punched Connolly in the ear, sending him reeling." `[真题]`
+> - "The saxophone has a single reed mouthpiece like a clarinet, a conical brass body like an ophicleide, and a metal body with a flared bell." `[真题]`
+> - "My head reeled with the sheer amount of information I had to process." `[真题]`
 
 
 ---

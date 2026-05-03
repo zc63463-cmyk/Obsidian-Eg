@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**夸脱（容量单位，等于1/4加仑或约0.95升）**==；
+**n.** ①==**夸脱（容量单位，等于1/4加仑或约0.95升）**== `\`a quart of milk/water\` \`2 quarts of\`` [通用]；
 
 > [!tip] 原型义
 > **原型义**：四分之一（容量单位）
@@ -120,8 +120,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I dropped a quarter into the slot of the pay phone."（我向付费电话的投币孔里投了一枚25美分硬币。——考研相关语料，quarter 与 quart 同源）
-> - "A quarter of America's public-sector workers have a university degree."（美国四分之一的公共部门工人拥有大学学位。——2012年英语一Text 4，quarter 与 quart 同源）
+> - While the bacon cooks, add 2 quarts of water and the salt to a medium-size pot and bring to a boil. `[NPR/Cambridge语料库]`
+> - Salivary glands churn out about a quart of spit each day. `[New York Times/Merriam-Webster语料库]`
+> - Bring a non-reactive saucepan with a quart of water to a boil and add a pinch of salt and the garlic. `[NPR/Cambridge语料库]`
+> - Maple syrup quarts are $27, pints are $16, and half-pints are $10. `[Hartford Courant/Merriam-Webster语料库]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**政权，政体**==；②管理体制，制度；
+**n.** ①==**政权，政体**== `overthrow/bring down the regime` [正式]；`military/current regime` [正式]；②管理体制，制度；
 
 > [!tip] 原型义
 > **原型义**：统治方式（reg-统治 + -ime名词后缀）
@@ -130,8 +130,10 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above 'mere' politics and 'embody' a spirit of national unity."（当公众舆论出现特别两极分化时，就像弗朗哥政权结束后那样，君主可以超越"纯粹的"政治，"体现"民族统一的精神——2015年考研英语阅读Text 1）
-> - "The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming."（小冰河时代已让位于以持续稳定变暖为特征的新气候体制——考研英语阅读）
+> - When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above 'mere' politics and 'embody' a spirit of national unity. `[真题]`
+> - Born in the crisis of the old regime and Iberian Colonialism, many of the leaders of independence shared the ideals of representative government. `[真题]`
+> - The people finally rose up and overthrew the reactionary regime. `[权威词典]`
+> - The present regime has been in power for two years. `[权威词典]`
 
 
 ---

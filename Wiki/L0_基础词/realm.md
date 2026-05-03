@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**领域，范围**==；②王国（书面语）；
+**n.** ①==**领域，范围**== `in the realm of sth` [正式]；②==**王国（书面语）**== `defence of the realm` [正式]；
 
 > [!tip] 原型义
 > **原型义**：王国（国王统治的领土范围）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm."（对快速刺激的快速决策并非仅限于人际领域。——2013年考研真题英语二）
-> - "So you can see how being good in the interpersonal realm actually was a direct benefit, even for effectively pursuing a technical task."（所以你可以看到，在人际领域的出色表现实际上是一个直接优势，即使对于有效执行技术任务也是如此。——2013年考研真题英语二）
+> - "Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm." `[真题]`
+> - "So you can see how being good in the interpersonal realm actually was a direct benefit, even for effectively pursuing a technical task." `[真题]`
+> - "New discoveries in the realm of medicine have transformed patient care." `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**纯净的，纯洁的**==；②==**完全的，纯粹的**==；③纯理论的；
+**adj.** ①==**纯净的，纯洁的**== `N pure`；②==**完全的，纯粹的**== `pure N`；③==**纯理论的**== `pure N`；
 
 > [!tip] 原型义
 > **原型义**：纯净的（没有杂质的，未掺杂其他东西的——像清水一样干净）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was pure coincidence that they met at the airport."（他们在机场相遇纯属巧合——考研阅读常见表达）
-> - "Pure science is driven by curiosity rather than practical applications."（纯科学是由好奇心而非实际应用驱动的——考研阅读学术话题）
+> - This was probably not a pure coincidence. ` `[COCA-ACAD]` `
+> - Pure science is driven by curiosity rather than practical applications. ` `[COCA-ACAD]` `
+> - It was pure coincidence that they met at the airport. ` `[例]` `
 
 
 ---

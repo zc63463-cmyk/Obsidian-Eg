@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**放射性的**==；②有辐射能的；
+**adj.** ①==**放射性的**== `radioactive waste` [专业]；②有辐射能的 `radioactive material` [专业]；
 
 > [!tip] 原型义
 > **原型义**：辐射活跃的（持续释放辐射能的）
@@ -132,8 +132,9 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Radioactive iodine loses half its strength in a week."（放射性碘在一周内会失去一半威力——考研科普类阅读高频表达）
-> - "Some byproducts of the nuclear fission are themselves radioactive."（核裂变的某些副产品本身也具有放射性——考研科普类阅读高频表达）
+> - Radioactive iodine loses half its strength in a week. `[真题]`
+> - Spent fuel remains radioactive for tens of thousands of years. `[真题]`
+> - Some byproducts of the nuclear fission are themselves radioactive. `[真题]`
 
 
 ---

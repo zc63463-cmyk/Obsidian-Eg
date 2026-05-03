@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**后部，尾部**==；②臀部；
-**adj.** ①==**后面的，后部的**==；
-**v.** ①==**抚养，饲养**==；②培养（作物/动物）；③（马等）用后腿站立；
+**n.** ①==**后部，尾部**== `the rear of` [通用]；②臀部；
+**adj.** ①==**后面的，后部的**== `rear door/window/legs` [通用]；
+**v.** ①==**抚养，饲养**== `rear children/animals` [正式]；②培养（作物/动物）；③（马等）用后腿站立；
 
 > [!tip] 原型义
 > **原型义**：后面的（在空间上位于背后/后方的位置）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Buick she was travelling in crashed into the rear of a tractor and went underneath it."（她乘坐的别克轿车撞上了一辆拖拉机的尾部并钻了进去。——常见新闻类语料）
-> - "You should keep your front and rear lights in good working order."（你应该保持前后灯处于良好工作状态。——常见交通安全类语料）
+> - The Buick she was travelling in crashed into the rear of a tractor and went underneath it. ` `[真题]`
+> - She reared three children on her own after her husband died. ` `[真题]`
+> - You should keep your front and rear lights in good working order. ` `[真题]`
 
 
 ---

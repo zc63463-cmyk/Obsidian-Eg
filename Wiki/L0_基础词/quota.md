@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**配额，限额**==；②定额；③（选举中的）候选人名额
+**n.** ①==**配额，限额**== `\`immigration quota\` \`sales quota\`` [正式/商务]；②定额 `\`production quota\` \`meet one's quota\`` [正式/商务]；③（选举中的）候选人名额 `\`party quota\`` [正式]
 
 > [!tip] 原型义
 > **原型义**：配额（规定的数量限额或比例）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where."（她和埃迪分分合合太多次了，孩子们都搞不清谁的衣服在哪里。——John Grisham, *The Chamber*）
-> - "The old man recalled the city as it had been before the war."（老人回忆起战前城市的样子。——Cambridge Dictionary）
+> - The quota of four tickets per person had been reduced to two. `[Collins语料库]`
+> - The bill would force employers to adopt a quota system when recruiting workers. `[Collins语料库]`
+> - Employees at warehouses across the country have reported working long hours and being expected to meet intense quotas. `[The Guardian]`
+> - Companies are given an annual quota by the government but this is set below their requirement so they always need more. `[Times/Collins语料库]`
 
 
 ---

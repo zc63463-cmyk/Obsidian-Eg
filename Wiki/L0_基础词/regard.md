@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**把……看作，认为**==；②注视，凝视；③注意，留意；
-**n.** ①==**尊重，敬意**==；②关注，注意；③问候（~s）；
+**v.** ①==**把……看作，认为**== `regard A as B` [通用]；`be regarded as` [通用]；②注视，凝视；③注意，留意；
+**n.** ①==**尊重，敬意**== `hold sb. in high/low regard` [正式]；`show regard for` [正式]；②关注，注意；③问候（~s）；
 
 > [!tip] 原型义
 > **原型义**：看回去（re-再 + gard看 → 再次注视→关注→尊重）
@@ -141,8 +141,10 @@ re-(再，反复) + gard(看，守护，日耳曼语系)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is regarded as a tenacious and persistent interviewer."（他被认为是一个执著坚毅的采访者——考研英语阅读高频表达）
-> - "I have nothing to say with regard to your complaints."（对于你的投诉，我无可奉告——2020年考研英语阅读）
+> - He is regarded as a tenacious and persistent interviewer. `[真题]`
+> - I have nothing to say with regard to your complaints. `[真题]`
+> - A recent study of public opinion shows that in modern Britain people regard themselves socially different. `[真题]`
+> - Her parents always regarded her as the smartest of their children. `[权威词典]`
 
 
 ---

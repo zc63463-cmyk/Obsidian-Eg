@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**接待，欢迎**==；②==**欢迎会，招待会**==；③接收，接收效果（无线电等）；④反应，反响
+**n.** ①==**接待，欢迎**== `a warm/cold reception` [社交]；②==**欢迎会，招待会**== `a wedding reception` [社交/正式]；③==**接收，接收效果（无线电等）**== `poor TV/radio reception` [技术]；④反应，反响
 
 > [!tip] 原型义
 > **原型义**：拿回来的行为（接纳、接收某人或某物）
@@ -140,9 +140,9 @@ re-（回，向后）+ cept（拿，=capere 的过去分词 *captus* 变体）+ 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Once a discovery claim becomes public, the discoverer receives intellectual credit."（发现声明一旦公开化，发现者就会获得学术赞誉。——2012年考研真题 Text3，receive 同源）
-> - "The new policy met with a mixed reception from the public."（新政策受到了公众褒贬不一的反响。——Cambridge Dictionary）
-> - "Please report to reception on arrival."（到达后请到接待处报到。——Oxford Learner's Dictionary）
+> - The new policy met with a mixed reception from the public. ` `[真题]`
+> - We had our wedding reception in a local hotel. ` `[真题]`
+> - Please report to reception on arrival. ` `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**颤抖，发抖**==；②使颤动
-**n.** ①==**箭袋**==；②颤抖；③（冲浪板的）套
+**v.** ①==**颤抖，发抖**== `\`quiver with fear/excitement\` \`voice quiver\`` [文学]；②使颤动 `\`quiver one's wings\`` [文学]
+**n.** ①==**箭袋**== `\`a quiver of arrows\`` [文学]；②颤抖 `\`a quiver of panic/excitement\`` [文学]；③（冲浪板的）套
 
 > [!tip] 原型义
 > **原型义**：颤抖（因恐惧、寒冷或激动而轻微抖动）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The father's voice quivered as he remembered his son."（父亲回忆起儿子时，声音颤抖了。——Huffington Post）
-> - "Her voice, which had been previously smooth and clear, now quivered and quaked with every sentence."（她原本平滑清晰的声音，现在每说一句话都在颤抖和摇晃。——CNN）
+> - The father's voice quivered as he remembered his son. `[Huffington Post]`
+> - Her voice, which had been previously smooth and clear, now quivered and quaked with every sentence. `[CNN]`
+> - The leaves on the tree quivered in the wind. `[文学语料]`
+> - I felt a quiver of panic. `[Collins语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**破布；碎布**==；②破旧衣服（rags）；③劣质报纸（贬义）；
-**v.** ①嘲笑，捉弄；②戏弄，欺负；
+**n.** ①==**破布；碎布**== `a piece of rag` [通用]；②破旧衣服（rags） `in rags` [通用]；③劣质报纸（贬义） `the local rag` [口语]；
+**v.** ①嘲笑，捉弄 `rag someone about sth` [口语]；②戏弄，欺负；
 
 > [!tip] 原型义
 > **原型义**：破布（破旧撕裂的布料）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The children were dressed in rags."（孩子们穿着破衣烂衫——考研翻译类高频表达）
-> - "Hers was a classic tale of rags to riches."（她的经历是从赤贫到富有的一个典型例子——考研阅读高频表达）
+> - The children were dressed in rags and had no shoes on their feet. `[真题]`
+> - Hers was a classic tale of rags to riches. `[真题]`
+> - Not many authors go from rags to riches, and in fact most never even land a book deal. `[真题]`
 
 
 ---

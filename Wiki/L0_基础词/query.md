@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**疑问，问题**==；②查询
-**v.** ①==**询问，质疑**==；②对……表示怀疑
+**n.** ①==**疑问，问题**== `\`raise a query\` \`answer a query\`` [正式]；②查询 `\`database query\` \`search query\`` [技术/正式]
+**v.** ①==**询问，质疑**== `\`query a decision\` \`query sb. about sth.\`` [正式]；②对……表示怀疑 `\`query whether\`` [正式]
 
 > [!tip] 原型义
 > **原型义**：疑问（对某事提出问题以获取信息）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Can you recall what happened last night?"（你能回忆起昨晚发生了什么吗？——Cambridge Dictionary）
-> - "As far as I can recollect, his name is Edward."（据我回忆，他的名字叫爱德华。——Cambridge Dictionary）
+> - Researchers were present to provide initial instructions on how to complete the questionnaires and to answer any queries. `[Cambridge语料库]`
+> - Surprisingly, however, few writers have ever queried the normative status of manipulation itself. `[Cambridge语料库]`
+> - The results may also be indexed by a search engine, which may then be used to process queries. `[Cambridge语料库]`
+> - Having already voiced some queries and reservations let me now turn to a few more. `[Cambridge语料库]`
 
 
 ---

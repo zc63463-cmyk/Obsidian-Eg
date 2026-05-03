@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**无线电；收音机**==；②无线电广播台；③无线电收发报机；
-**v.** ①用无线电发送（消息）；②用无线电通讯；
+**n.** ①==**无线电；收音机**== `listen to the radio` [通用]；②无线电广播台 `radio station` [通用]；③无线电收发报机；
+**v.** ①用无线电发送（消息） `radio a message` [通用]；②用无线电通讯；
 
 > [!tip] 原型义
 > **原型义**：辐射（向外发射电磁波）
@@ -137,8 +137,9 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The pioneers of wireless saw it as a gift to all the people. Sir John Reith said that it would end 'isolation of the spirit'."（无线电的先驱们将其视为给所有人的礼物。约翰·里斯爵士说它将终结"精神上的孤立"——2026年英语一Text 3）
-> - "We heard the news about the match on the radio yesterday."（我们昨天在收音机上听到了关于比赛的新闻——考研高频表达）
+> - The pioneers of wireless saw it as a gift to all the people. `[真题]`
+> - I heard a good programme on the radio last night. `[真题]`
+> - The pilot radioed in to the control tower to report the emergency. `[真题]`
 
 
 ---

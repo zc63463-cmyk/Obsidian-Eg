@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**奇怪的，异常的**==；②可疑的；③（口语）不舒服的，眩晕的
+**adj.** ①==**奇怪的，异常的**== `\`a queer feeling\` \`a queer look\`` [文学/口语]；②可疑的 `\`a queer business\`` [文学/口语]；③（口语）不舒服的，眩晕的 `\`feel queer\`` [口语]
 **n.** ①（贬义/旧）男同性恋者；②（集合词）酷儿群体
 
 > [!tip] 原型义
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Mary was sitting on her stool nearby and she suddenly made a very queer sound which she tried so violently to repress that she ended by almost choking."（玛丽坐在附近的小凳上，突然发出一种非常奇怪的声音，她拼命想压抑住，结果差点窒息。——Frances Hodgson Burnett, *The Secret Garden*）
-> - "It was something like a ring of rusty iron or brass and when the robin flew up into a tree nearby she put out her hand and picked the ring up."（那东西像一个生锈的铁环或铜环，当知更鸟飞到附近的树上时，她伸出手捡起了那个环。——Frances Hodgson Burnett, *The Secret Garden*）
+> - What a queer thing to say! `[Cambridge语料库]`
+> - I'm feeling rather queer, may I sit down? `[Cambridge语料库]`
+> - The endless and numberless avenues of bewildering pine woods gave him a queer feeling that he was driving through the countless corridors of a dream. `[Merriam-Webster语料库]`
+> - I had a queer feeling that something bad was about to happen. `[Britannica语料库]`
 
 
 ---

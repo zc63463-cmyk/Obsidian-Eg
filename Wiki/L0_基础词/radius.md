@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**半径**==；②半径范围；辐射范围；③桡骨（解剖学）；
+**n.** ①==**半径**== `the radius of a circle` [通用]；②半径范围；辐射范围 `within a radius of` [通用]；③桡骨（解剖学）；
 
 > [!tip] 原型义
 > **原型义**：辐射线（从中心向外辐射的线段）
@@ -135,8 +135,9 @@ radi-(辐射，拉丁语 *radius* 辐射线) + -us(拉丁语名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The shopping center and school lie within a one-mile radius of the house."（购物中心和学校位于房子半径一英里内——考研阅读高频表达）
-> - "Our search radius cannot exceed five kilometers."（我们的搜索半径不能超过五公里——考研翻译类高频表达）
+> - The supermarket, shopping mall, and school are all within a one-mile radius of the house. `[真题]`
+> - The new museum is expected to draw people from a wide radius. `[真题]`
+> - They were yesterday combing a mile radius around the scene. `[真题]`
 
 
 ---

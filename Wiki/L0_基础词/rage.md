@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**狂怒；暴怒**==；②（风、火、战斗等）猛烈进行；③风靡一时的事物；
-**v.** ①发怒；怒斥；②（风暴、火灾等）猛烈肆虐；
+**n.** ①==**狂怒；暴怒**== `fly into a rage` [通用]；②（风、火、战斗等）猛烈进行；③风靡一时的事物 `all the rage` [口语]；
+**v.** ①发怒；怒斥 `rage at sb.` [通用]；②（风暴、火灾等）猛烈肆虐；
 
 > [!tip] 原型义
 > **原型义**：狂暴（失去理智的激烈状态）
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "DNA testing is also the latest rage among passionate genealogists—and supports businesses that offer to search for a family's geographic roots."（DNA检测也成了狂热家谱学者们最新的流行，并支撑了那些提供家族地理根源搜索服务的企业——2015年英语一Text 2）
-> - "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool."（普利策奖得主罗森伯格提供了社会疗法的大量实例：在南卡罗来纳州，一个名为"向烟雾宣战"的州立反吸烟项目试图让吸烟变得不酷——2012年英语一Text 1）
+> - DNA testing is also the latest rage among passionate genealogists—and supports businesses that offer to search for a family's geographic roots. `[真题]`
+> - Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool. `[真题]`
+> - She flew into a rage after missing her flight. `[真题]`
 
 
 ---

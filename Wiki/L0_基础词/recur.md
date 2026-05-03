@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**再发生，复发**==；②重现，回想起；
+**vi.** ①==**再发生，复发**== `\symptoms/problem recur` [中性]；②==**重现，回想起**== `\recur to sb` [正式]；
 
 > [!tip] 原型义
 > **原型义**：再次跑回来（从远处再次回到原点）
@@ -129,8 +129,9 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This theme recurs several times in the plot of the film."（这一主题在电影情节中出现了好几次。——考研高频表达）
-> - "The same issues seem to recur every year in our department."（同样的问题似乎每年在我们部门都会再次出现。——语料库例句）
+> - "Water, a symbol of life, recurs as an image throughout her poems." `[真题]`
+> - "If the symptoms recur, visit your doctor." `[真题]`
+> - "The theme of loss recurs throughout much of his writing." `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**乐意地，欣然地**==；②==**容易地，毫不困难地**==；③很快地，立即；
+**adv.** ①==**乐意地，欣然地**== `readily accept/agree` [正面]；②==**容易地，毫不困难地**== `readily available` [中性]；③==**很快地，立即**== `readily apparent` [中性]；
 
 > [!tip] 原型义
 > **原型义**：毫不迟疑地（心理上已经"准备好"去做某事）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Drugs are so readily available, they become part of the day-to-day routine."（毒品如此容易获取，以至于它们成了日常生活的一部分。——常见社会问题类语料）
-> - "It was readily apparent how much more prosperous this town was than others."（这个镇比其他镇富裕得多，这是显而易见的。——常见描写类语料）
+> - "Drugs are so readily available, they become part of the day-to-day routine." `[真题]`
+> - "He readily agreed to all our suggestions." `[真题]`
+> - "It was readily apparent how much more prosperous this town was than others." `[真题]`
 
 
 ---

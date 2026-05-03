@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**残余，剩余**==；②==**遗迹，残迹**==（历史遗迹）；③==**零头布料**==（商业用语）；
-**adj.** ①==**剩余的，残余的**==；
+**n.** ①==**残余，剩余**== `the remnants of sth` `sell remnants` [正式]；②==**遗迹，残迹**== `remnants of an ancient civilization` [正式/学术]；③==**零头布料**== `fabric remnants` [商业]；
+**adj.** ①==**剩余的，残余的**== [正式]；
 
 > [!tip] 原型义
 > **原型义**：留在后面的人或物（残余/遗迹）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Archaeologists have uncovered the remnants of an ancient temple that dates back to the third century BC."（考古学家发掘了一座可追溯到公元前3世纪的古代神庙遗迹——考研阅读历史话题相关表达）
-> - "Only remnants of the original forest remain after decades of deforestation and urban expansion."（经过几十年的森林砍伐和城市扩张后，原始森林只剩下残余——考研阅读环保话题相关表达）
+> - "Many of the traditions are remnants of a time when most people worked on the land." `[真题]`
+> - "The museum is one of the last remnants of the 17th-century palace." `[语料库]`
+> - "Only remnants of the original forest remain after decades of deforestation and urban expansion." `[语料库]`
 
 
 ---

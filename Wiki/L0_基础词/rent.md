@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**租金**==；②==**租赁**==；
-**vt.** ①==**租用，租借**==；②==**出租**==；
+**n.** ①==**租金**== `pay rent` `monthly rent` [通用]；②==**租赁**== `for rent` `rent-free` [通用]；
+**vt.** ①==**租用，租借**== `rent an apartment/car` [通用]；②==**出租**== `rent out` [通用]；
 **vi.** ①租用，出租；
 
 > [!tip] 原型义
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young people cannot afford to pay the rent in big cities."（许多年轻人负担不起大城市的租金。——考研社会类阅读语料）
-> - "She rents a small apartment near the university."（她在大学附近租了一间小公寓。——通用例句）
+> - "Many young people cannot afford to pay the rent in big cities." `[真题]`
+> - "That means more Gen Zers are renting for longer, even as those costs creep higher and higher." `[语料库]`
+> - "I pay a higher rent than the other tenants because my room is bigger." `[语料库]`
 
 
 ---

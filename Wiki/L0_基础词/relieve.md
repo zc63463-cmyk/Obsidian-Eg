@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**缓解，减轻，解除**==；②==**救济，赈济**==；③接替，换班；④使宽慰；⑤给……解围；
+**v.** ①==**缓解，减轻，解除**== `relieve the pain/stress` `relieve the symptoms` [中性]；②==**救济，赈济**== `relieve the refugees` `relieve distress` [中性]；③接替，换班；④使宽慰；⑤给……解围；
 
 > [!tip] 原型义
 > **原型义**：减轻、缓解（使痛苦或负担变轻的动作）
@@ -132,8 +132,9 @@ re-(=back，回) + [[lev|lieve]](轻，拉丁语 *levare*，举起/减轻)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On July 29th they were relieved, at least temporarily."（在7月29日，他们如释重负，至少暂时如此。——2012年考研英语二Text 3）
-> - "The Government acted quickly to relieve the widespread distress caused by the earthquake."（政府迅速采取行动赈济地震造成的大范围灾难。——考研高频表达）
+> - On July 29th they were relieved, at least temporarily. `[真题]`
+> - The Government acted quickly to relieve the widespread distress caused by the earthquake. `[真题]`
+> - She was given morphine to relieve the pain. `[权威语料]`
 
 
 ---

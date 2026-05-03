@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**减轻，缓解，解除**==；②==**救济，救援**==；③宽慰，轻松感；④浮雕；⑤换班，接替；
+**n.** ①==**减轻，缓解，解除**== `bring relief` `relief from pain` [中性]；②==**救济，救援**== `relief supplies/agency` `on relief` [中性]；③宽慰，轻松感；④浮雕；⑤换班，接替；
 
 > [!tip] 原型义
 > **原型义**：减轻、缓解（从痛苦或重负中解脱出来的状态）
@@ -131,8 +131,9 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To the anxious travelers the sight of the American shore brought almost inexpressible relief."（对于焦急的旅行者来说，看到美国海岸几乎让他们感到难以言喻的宽慰。——2015年考研翻译）
-> - "Some have breathed sighs of relief, others, including churches, right-to-life groups and the Australian Medical Association, bitterly attacked the bill."（有些人松了一口气，而另一些人，包括教会、生命权利组织和澳大利亚医学协会，则猛烈抨击了这项法案。——考研阅读）
+> - To the anxious travelers the sight of the American shore brought almost inexpressible relief. `[真题]`
+> - Some have breathed sighs of relief, others, including churches, right-to-life groups and the Australian Medical Association, bitterly attacked the bill. `[真题]`
+> - The news of his safety was a great relief to his family. `[权威语料]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**退款，偿还额**==；
-**v.** ①==**退还，退款**==；
+**n.** ①==**退款，偿还额**== `claim/ask for/demand a refund` [通用]；`a full/partial refund` [通用]；
+**v.** ①==**退还，退款**== `refund sb. sth.` [通用]；`refund the money/cost` [通用]；
 
 > [!tip] 原型义
 > **原型义**：资金流回（re- 回 + fund 资金 → 资金流回去）
@@ -125,8 +125,10 @@ re-(回，向后) + [[fund|fund]](资金，来自拉丁语 *fundus* 底部/基�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We claimed a refund from the shopkeeper, but he refused."（我们要求店主退款，但他拒绝了。——考研英语真题）
-> - "We will refund your money to you after you apply for it if you are not entirely satisfied."（如果您不完全满意，我们会在您申请后为您退款。——考研英语真题）
+> - We claimed a refund from the shopkeeper, but he refused. `[真题]`
+> - We will refund your money to you after you apply for it if you are not entirely satisfied. `[真题]`
+> - Dissatisfied customers can return the product for a full refund. `[权威词典]`
+> - You're entitled to a full refund if you change your mind. `[权威词典]`
 
 
 ---

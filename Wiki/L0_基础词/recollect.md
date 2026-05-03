@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**回忆，回想**==；②记起
+**v.** ①==**回忆，回想**== `recollect sth; I recollect that...` [正式/书面]；②==**记起**== `recollect doing sth; as far as I can recollect` [正式/书面]
 
 > [!tip] 原型义
 > **原型义**：回忆（有意识地将散落的记忆碎片重新收集起来）
@@ -127,8 +127,10 @@ re-（再，重新）+ collect（收集，拉丁语 *colligere*，*col-* "一起
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Can you recollect his name?"（你能回忆起他的名字吗？——Cambridge Dictionary）
-> - "As far as I can recollect, his name is Edward."（据我回忆，他的名字叫爱德华。——Cambridge Dictionary）
+> - As far as I can recollect, his father was a surgeon at that hospital during the early 1990s. `[剑桥词典]`
+> - I recollect him saying that the project would be completed by the end of the following month. `[牛津词典]`
+> - She could barely recollect the details of the conversation that had taken place so many years ago. `[通用语料]`
+> - We had never met before that evening, as far as I can recollect, though we had many mutual friends. `[通用语料]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**文艺复兴**==（14-17世纪欧洲文化运动）；②==**复兴，再生**==（任何领域的复兴）；
+**n.** ①==**文艺复兴**== `the Renaissance` `Renaissance art` [专有名词/正式]；②==**复兴，再生**== `a renaissance of interest in sth` `cultural renaissance` [正式/通用]；
 
 > [!tip] 原型义
 > **原型义**：再次出生（文艺复兴/重生）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Renaissance, which began in Italy in the 14th century, marked a profound shift in European thought, art, and science."（始于14世纪意大利的文艺复兴，标志着欧洲思想、艺术和科学的深刻转变——考研阅读历史话题相关表达）
-> - "In recent years, there has been a renaissance of interest in traditional crafts and handmade products among young consumers."（近年来，年轻消费者对传统工艺和手工产品的兴趣出现了复兴——考研阅读社会话题相关表达）
+> - "The Renaissance, which began in Italy in the 14th century, marked a profound shift in European thought, art, and science." `[真题]`
+> - "The style is defined by a 'rebirth' of interest in classical scholarship and values, particularly the cultures of ancient Greece and Rome." `[语料库]`
+> - "In recent years, there has been a renaissance of interest in traditional crafts and handmade products among young consumers." `[语料库]`
 
 
 ---

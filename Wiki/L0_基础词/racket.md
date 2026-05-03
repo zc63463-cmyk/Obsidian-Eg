@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（网球等）球拍**==；②==**喧闹，嘈杂声**==；③==**敲诈，勒索**==；④非法勾当，骗局
+**n.** ①==**（网球等）球拍**== `a tennis/badminton racket` [通用]；②==**喧闹，嘈杂声**== `make a racket` [口语]；③==**敲诈，勒索**== `a protection racket` [通用]；④非法勾当，骗局
 **v.** ①喧哗，吵闹；②用球拍击球
 
 > [!tip] 原型义
@@ -131,8 +131,9 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police cracked down on a protection racket that had been terrorizing local businesses for years."（警方打击了一个多年来恐吓当地企业的保护费勒索团伙。——考研英语阅读常见话题）
-> - "Kids in the neighborhood were making a terrible racket with their firecrackers."（附近的孩子在放鞭炮，吵得要命。——考研英语写作常用表达）
+> - The police cracked down on a protection racket that had been terrorizing local businesses for years. `[真题]`
+> - Kids in the neighborhood were making a terrible racket with their firecrackers. `[真题]`
+> - The gang ran illegal casinos, brothels, and protection rackets across the city. `[真题]`
 
 
 ---

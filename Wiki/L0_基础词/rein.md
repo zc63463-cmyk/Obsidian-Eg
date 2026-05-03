@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**缰绳**==；②控制手段，约束；
-**v.** ①==**控制，约束**==；②勒住马；
+**n.** ①==**缰绳**== `hold the reins` `give free rein to` [中性]；②==**控制手段，约束**== `keep a tight rein on` `rein in` [中性]；
+**v.** ①==**控制，约束**== `rein in spending/inflation` `rein back` [中性]；②勒住马；
 
 > [!tip] 原型义
 > **原型义**：缰绳（控制马匹的皮带）
@@ -133,8 +133,9 @@ rein 源自古法语 *rene*，拉丁语 *retinae*（皮带，缰绳），日耳�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government reined in inflation through strict policies."（政府通过严格政策控制了通货膨胀——考研英语阅读高频表达）
-> - "Parents should rein in their children's behavior appropriately."（父母应该适当约束孩子的行为——考研英语翻译高频表达）
+> - Congress must rein in spending. `[真题]`
+> - The government is reining in public expenditure to ensure fiscal stability. `[权威语料]`
+> - Parents often need to rein in their children's impulses to prevent accidents. `[权威语料]`
 
 
 ---

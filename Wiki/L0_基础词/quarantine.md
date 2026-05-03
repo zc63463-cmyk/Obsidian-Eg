@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**隔离检疫期**==；②==**隔离，检疫**==（措施）；
-**v.** ①==**对……进行隔离检疫**==；
+**n.** ①==**隔离检疫期**== `\`stay in quarantine\` \`put sb. in quarantine\`` [正式/医学]；②==**隔离，检疫**==（措施） `\`mandatory quarantine\` \`quarantine measures\`` [正式/医学]；
+**v.** ①==**对……进行隔离检疫**== `\`quarantine sb./sth.\` \`be quarantined for\`` [正式/医学]；
 
 > [!tip] 原型义
 > **原型义**：四十天隔离期（为防止疾病传播的隔离措施）
@@ -130,9 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The doctor said I could go home as long as I agreed to stay in quarantine for at least seven days."（医生说我可以回家，只要我同意至少隔离七天。——Cambridge Dictionary）
-> - "Owners risk having to leave their pets abroad or put them in quarantine if they fail to follow the rules."（如果主人不遵守规定，他们的宠物可能被留在国外或被隔离。——Cambridge Dictionary）
-> - quarantine 为2021年考研英语大纲新增词汇，与新冠疫情相关。
+> - The doctor said I could go home as long as I agreed to stay in quarantine for at least seven days. `[Cambridge语料库]`
+> - Owners risk having to leave their pets abroad or put them in quarantine if they fail to follow the rules. `[Cambridge语料库]`
+> - All international arrivals, regardless of where they are from, must quarantine upon their arrival. `[Cambridge语料库]`
+> - 1.5 million people were told to quarantine for 12 weeks. `[Collins语料库]`
 
 
 ---

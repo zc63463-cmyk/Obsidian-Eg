@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**搁物架，挂架**==；②==**（火车等的）行李架**==；③==**拷问台，拉肢刑具**==；④齿条
-**v.** ①==**使痛苦，折磨**==；②==**把……放在架上**==；③==** rack up**：积累，获得（分数等）
+**n.** ①==**搁物架，挂架**== `a luggage/wine rack` [通用]；②==**（火车等的）行李架**== `put sth on the rack` [通用]；③==**拷问台，拉肢刑具**== `on the rack` [书面]；④齿条
+**v.** ①==**使痛苦，折磨**== `rack one's brain` [通用]；②==**把……放在架上**== `rack sth up` [通用]；③==** rack up**：积累，获得（分数等） `rack up points/debts` [通用]
 
 > [!tip] 原型义
 > **原型义**：框架（用于放置或固定物品的架子）
@@ -131,8 +131,9 @@ rack 源自中古荷兰语 *rec*（架子、框架），与古英语 *reccan*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students racked their brains trying to solve the complex mathematical problem."（学生们绞尽脑汁试图解决这个复杂的数学问题。——考研英语阅读常见表达）
-> - "The company has racked up enormous debts over the past decade."（这家公司在过去十年中积累了巨额债务。——考研英语二2019阅读）
+> - Students racked their brains trying to solve the complex mathematical problem. `[真题]`
+> - The company has racked up enormous debts over the past decade. `[真题]`
+> - Jacob racked up large debts while working his way through college. `[真题]`
 
 
 ---

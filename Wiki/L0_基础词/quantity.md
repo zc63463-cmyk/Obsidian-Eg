@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**数量**==；②==**大量**==；③（数）量，值
+**n.** ①==**数量**== `a quantity of N` `the quantity of N`；②==**大量**== `quantities of N` `in quantity`；③==**（数）量，值**== `physical quantity`
 
 > [!tip] 原型义
 > **原型义**：多少（数量的大小）
@@ -128,8 +128,9 @@ quant（多少，拉丁语 *quantus*）+ -ity（名词后缀，表示状态/性�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The quantity of information available today is overwhelming, but the quality varies greatly."（如今可获得的信息量令人应接不暇，但质量参差不齐。——考研英语一2020阅读）
-> - "They purchased large quantities of raw materials from overseas suppliers."（他们从海外供应商处购买了大量的原材料。——考研英语二2017阅读）
+> - They are now developing ways to produce the vaccine in large quantities and cheaply. ` `[COCA-NEWS]` `
+> - Police discovered a large quantity of drugs in the van. ` `[COCA-NEWS]` `
+> - It's quality not quantity that really counts. ` `[COCA-SPOKEN]` `
 
 
 ---

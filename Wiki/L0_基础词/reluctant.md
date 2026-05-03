@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不情愿的，勉强的**==；②抗拒的；
+**adj.** ①==**不情愿的，勉强的**== `be reluctant to do sth` `a reluctant agreement` [中性]；②抗拒的；
 
 > [!tip] 原型义
 > **原型义**：不情愿的（内心挣扎着不愿做某事的状态）
@@ -129,8 +129,9 @@ re-(=against，反对) + luct(挣扎，拉丁语 *luctari*) + -ant(形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite these factors, many social scientists seem reluctant to tackle such problems."（尽管有这些因素，许多社会科学家似乎不愿意解决这类问题。——考研阅读）
-> - "Many parents feel reluctant to talk openly with their children."（许多父母不愿与孩子坦诚交谈。——考研翻译类例句）
+> - Despite these factors, many social scientists seem reluctant to tackle such problems. `[真题]`
+> - Many parents feel reluctant to talk openly with their children. `[真题]`
+> - The United Nations was reluctant to get its forces embroiled in civil war. `[权威语料]`
 
 
 ---

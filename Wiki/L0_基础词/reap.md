@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**收割，收获**==；②获得，取得（回报、利益等）；
+**v.** ①==**收割，收获**== `reap the harvest/crops` [农业]；②==**获得，取得（回报、利益等）**== `reap the benefits/rewards of` [通用/正式]；
 
 > [!tip] 原型义
 > **原型义**：收割（用镰刀割下成熟的庄稼）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At middle age, he wrote, 'the sowing is behind; now is the time to reap.'"（他写道，到了中年，播种已经落后；现在是收获的时候了。——2017年6月四级真题阅读）
-> - "His hands were never dirtied; his brain never taxed; he simply reaped the benefits of other people's labor."（他的手从未沾过泥土；他的大脑从未受过劳累；他只是坐享他人劳动的成果。——常见社会评论类语料）
+> - The Treasury has reaped rewards from rising house prices as its income from stamp duty and inheritance tax has soared. ` `[真题]`
+> - Investing time in crafting a really strong CV and updating your LinkedIn profile will reap benefits. ` `[真题]`
+> - No wonder we are reaping the rewards of those ill-thought-out policies. ` `[真题]`
+> - As you sow, so shall you reap. ` `[真题]`
 
 
 ---

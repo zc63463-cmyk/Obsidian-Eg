@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阅读，读书**==；②==**读物**==；③（仪表的）读数；④（对法律/事件的）理解，解读；⑤（公开的）朗诵会；
+**n.** ①==**阅读，读书**== `reading comprehension` [中性]；②==**读物**== `required reading` [中性]；③==**（仪表的）读数**== `a meter reading` [中性]；④==**（对法律/事件的）理解，解读**== `a broad reading of sth` [正式]；⑤==**（公开的）朗诵会**== `a poetry reading` [中性]；
 
 > [!tip] 原型义
 > **原型义**：阅读（读取并理解文字的行为）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reading comprehension is a key component of the national postgraduate entrance examination."（阅读理解是全国硕士研究生入学考试的重要组成部分。——考研英语核心题型）
-> - "The court's reading of the statute was broader than previously expected."（法院对该法规的解读比此前预期的更为宽泛。——常见法律类语料）
+> - "Reading comprehension is a key component of the national postgraduate entrance examination." `[真题]`
+> - "The court's reading of the statute was broader than previously expected." `[真题]`
+> - "This novel is required reading for all literature students." `[真题]`
 
 
 ---

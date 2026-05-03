@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（使）放松，松弛**==；②放宽（规则、限制）；③缓和（紧张局势）；
+**v.** ①==**（使）放松，松弛**== `relax your muscles` `relax after work` [中性]；②==**放宽（规则、限制）**== `relax the rules/restrictions` [中性]；③缓和（紧张局势）；
 
 > [!tip] 原型义
 > **原型义**：松开、放松（从紧绷状态恢复到松弛状态）
@@ -130,8 +130,9 @@ re-(=back，回) + [[lat|lax/laxus]](松的，拉丁语 *laxus*，宽松的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Studies dating back to the 1930s indicate that laughter relaxes muscles, decreasing muscle tone for up to 45 minutes after the laugh dies down."（可以追溯到20世纪30年代的研究表明，笑能放松肌肉，在笑声停止后长达45分钟内降低肌肉紧张度。——2011年考研英语一完形）
-> - "Instead of straining muscles to build them, as exercise does, laughter apparently accomplishes the opposite."（与锻炼拉紧肌肉以增强肌肉不同，笑声显然达到了相反的效果。——2011年考研英语一完形）
+> - Studies dating back to the 1930s indicate that laughter relaxes muscles, decreasing muscle tone for up to 45 minutes after the laugh dies down. `[真题]`
+> - Two weeks after the police relaxed security at the airports, there was a bomb attack. `[权威语料]`
+> - A good massage will relax your tired muscles. `[权威语料]`
 
 
 ---

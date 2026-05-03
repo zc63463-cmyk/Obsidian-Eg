@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**准时的，守时的**==；②精确的；
+**adj.** ①==**准时的，守时的**== `be punctual for sth` `N punctual`；②==**精确的**== `N punctual`；
 
 > [!tip] 原型义
 > **原型义**：准时的（精确地"点"到约定的时间点——不早不晚，恰好踩点）
@@ -123,8 +123,9 @@ punct(=point，点，源自拉丁语 *punctus*，*pungere* 的过去分词) + -u
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is always punctual for meetings, never arriving a minute late."（她开会总是很准时，从不迟到一分钟——考研写作常见表达）
-> - "Punctual payment of bills is essential for maintaining a good credit score."（准时支付账单对保持良好的信用评分至关重要——考研阅读经济话题）
+> - He's always very punctual. ` `[COCA-SPOKEN]` `
+> - Please try and be punctual for the meeting. ` `[COCA-ACAD]` `
+> - The successful candidate will be efficient, neat, and punctual. ` `[COCA-ACAD]` `
 
 
 ---

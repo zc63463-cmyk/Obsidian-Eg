@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**取回，收回**==；②==**开垦（荒地）**==；③回收利用（废料）；④改造，感化（人）；
+**v.** ①==**取回，收回**== `reclaim one's property; reclaim tax` [正式]；②==**开垦（荒地）**== `reclaim land from the sea` [地理/正式]；③==**回收利用（废料）**== `reclaim waste/rubber` [环保/正式]；④改造，感化（人） `reclaim a criminal` [书面]
 
 > [!tip] 原型义
 > **原型义**：取回（把原本属于自己的东西拿回来）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Netherlands has been reclaiming farmland from water."（荷兰人一直在围海造田——通用地理类语料）
-> - "The good news for the industry was that investors don't seem to be in any hurry to reclaim their money."（对该行业来说，好消息是投资者们似乎不急于要求收回他们的钱——通用经济类语料）
-> - "You may be entitled to reclaim some tax."（你也许可以享受一定额度的退税——通用语料）
+> - The Netherlands has been reclaiming farmland from water for centuries through an intricate system of dikes and canals. `[通用地理类语料]`
+> - The good news for the industry was that investors did not seem to be in any hurry to reclaim their money. `[通用经济类语料]`
+> - You may be entitled to reclaim some of the tax you paid last year if you meet certain eligibility criteria. `[通用语料]`
+> - Many modern recycling programmes are designed to reclaim waste materials and convert them into usable products. `[通用环保语料]`
 
 
 ---
