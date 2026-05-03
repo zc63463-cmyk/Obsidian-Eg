@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①暗杀，行刺 ; ==**②诋毁，破坏（名誉）**== ;
+**v.** ①==**暗杀，行刺**== `V N` ；②==**诋毁，破坏（名誉）**== `V N's N` ；
 
 > [!tip] 原型义
 > **原型义**：暗杀（有预谋地杀害重要人物）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president was assassinated by a lone gunman during a public appearance."（总统在公开露面时被一名持枪者暗杀。）——考研高频表达
-> - "The plot to assassinate the political leader was uncovered by intelligence agencies."（暗杀这位政治领导人的阴谋被情报机构揭露。）——考研高频表达
+> - The president was assassinated by a lone gunman during a public appearance. [考研-阅读]
+> - The plot to assassinate the political leader was uncovered by intelligence agencies. [考研-阅读]
+> - The senator attempted to assassinate her opponent's character during the debate. `[COCA-ACAD]`
+> - President Kennedy was assassinated in Dallas in 1963. `[例]`
 
 ---
 

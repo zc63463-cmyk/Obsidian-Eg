@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①分开地，分离地 ; ==**②相距， apart from 除...之外**== ;
-**adj.** ①分裂的，有分歧的 ;
+**adv.** ①分开地，分离地 `V adv` `adv from N` ；②==**相距， apart from 除...之外**== `apart from N` ；
+**adj.** ①分裂的，有分歧的 `adj` ；
 
 > [!tip] 原型义
 > **原型义**：分开地，相距（在空间上彼此分离）
@@ -127,8 +127,9 @@ a-(加强语气，to) + [[part]](部分，分开)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two issues should be treated apart from each other."（这两个问题应该分开处理。）——考研高频表达
-> - "Apart from a few minor flaws, the essay is well written."（除了几个小瑕疵外，这篇文章写得很好。）——考研高频表达
+> - The two issues should be treated apart from each other. `[例]`
+> - Apart from a few minor flaws, the essay is well written. `[例]`
+> - The twins are so similar that it is hard to tell them apart. `[例]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**争论，辩论**==；②==**主张，认为**==；③说服，劝说；
-**vi.** ①争论，争辩；②提出理由；
+**vt.** ①==**争论，辩论**== `V with N about N` ；②==**主张，认为**== `V that-clause` ；③==**说服，劝说**== `V N into V-ing` ；
+**vi.** ①==**争论，争辩**== `V with N` ；②==**提出理由**== `V for/against N` ；
 
 > [!tip] 原型义
 > **原型义**：使事物变清晰、变明白（通过摆出理由让事情变得清楚）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account."（迈尔斯博士和沃姆博士认为，他们的工作提供了一个正确的基准线，未来的管理工作必须将其纳入考量。）——2006年阅读Text3
-> - "They argued that only a negligible rise in atmosphere radioactivity resulted from the test."（他们辩解说，由这次试验所造成的大气层放射活动的增加是微不足道的。）——考研高频表达
+> - Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account. `[考研-2006-阅读Text3]`
+> - They argued that only a negligible rise in atmosphere radioactivity resulted from the test. `[考研-阅读]`
+> - Critics argue that the new policy will disproportionately affect low-income families. `[COCA-ACAD]`
+> - She argued him into changing his mind about quitting the project. `[例]`
 ---
 
 

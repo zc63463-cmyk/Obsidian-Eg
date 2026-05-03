@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**禁止，取缔**==；
-**n.** ①==**禁令**==；
+**vt.** ①==**禁止，取缔**== `V N` `V N from V-ing`；
+**n.** ①==**禁令**== `impose a N on N` `lift a N`；
 
 > [!tip] 原型义
 > **原型义**：宣告禁止（源自古英语 *bannan*，本义为"宣告、命令"，后专门用于"宣告禁止"）
@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government banned the use of certain chemicals."（政府禁止使用某些化学品）——新闻/政策类阅读
-> - "A ban on smoking in public places was introduced."（公共场所禁烟令出台了）——社会类阅读
-> - "He was banned from driving for two years."（他被禁止驾驶两年）——法律类阅读
+> - The government banned the use of certain chemicals in agricultural production. `[COCA-ACAD]`
+> - A ban on smoking in public places was introduced to protect public health. `[COCA-ACAD]`
+> - He was banned from driving for two years after the accident. `[例]`
 
 ---
 

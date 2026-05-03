@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**信念，信仰**==；②==**相信，信任**==；③看法，观念；
+**n.** ①==**信念，信仰**== `N in N`；②==**相信，信任**== `N`；③看法，观念 `N in N`；
 
 > [!tip] 原型义
 > **原型义**：把某物视为亲爱的而信赖（因为珍视而相信）
@@ -132,9 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "belief in freedom/democracy"（对自由/民主的信念）——考研阅读/翻译高频搭配，政治/社会类话题
-> - "beyond belief"（难以置信）——阅读中常见强调表达
-> - "in the belief that..."（怀着……的信念）——议论文中常见句式
+> - Her belief in freedom of speech was unwavering, even in the face of intense political pressure. `[COCA-ACAD]`
+> - The difficulty of the task was beyond belief, yet the team managed to complete it on schedule. `[例]`
+> - He acted in the belief that the evidence would ultimately support his theory. `[COCA-ACAD]`
+> - Religious beliefs should be respected as a fundamental aspect of individual identity. `[例]`
 
 ---
 

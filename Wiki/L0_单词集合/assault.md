@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①攻击，袭击 ; ==**②侵犯人身（罪）**== ;
-**v.** ①攻击，袭击 ;
+**n.** ①==**攻击，袭击**== `N on N` ；②==**侵犯人身（罪）**== `N` [legal] ；
+**v.** ①==**攻击，袭击**== `V N` ；
 
 > [!tip] 原型义
 > **原型义**：猛烈攻击，突袭（突然的暴力行为）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was charged with assault after a fight outside the bar."（他在酒吧外打架后被指控袭击。）——考研高频表达
-> - "The assault on the enemy positions began at dawn."（对敌方阵地的攻击在黎明时分开始。）——考研高频表达
+> - He was charged with assault after a fight outside the bar. [考研-阅读]
+> - The assault on the enemy positions began at dawn. [考研-阅读]
+> - Laws against sexual assault have been strengthened in many countries. `[COCA-ACAD]`
+> - The candidate launched a verbal assault on his opponent during the campaign. `[例]`
 
 ---
 

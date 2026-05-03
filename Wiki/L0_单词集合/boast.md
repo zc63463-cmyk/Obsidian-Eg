@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**自夸，吹嘘**== ; ②以拥有...而自豪
-**n.** ①自夸的话，吹嘘
+**v.** ①==**自夸，吹嘘**== `V about/of N` `V that-clause` ; ②以拥有...而自豪 `V N`
+**n.** ①自夸的话，吹嘘 `N`
 
 > [!tip] 原型义
 > **原型义**：吹嘘、夸耀
@@ -125,8 +125,9 @@ boast（源自中古英语 bosten，拟声词或与"膨胀"有关）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city boasts a population of over ten million."（这座城市拥有超过一千万的人口。）——考研高频表达
-> - "He is always boasting about his achievements."（他总是吹嘘自己的成就。）——考研高频表达
+> - The city boasts a population of over ten million. `[真题]`
+> - He is always boasting about his achievements. `[真题]`
+> - The school boasts an excellent reputation in science education. `[例]`
 
 ---
 

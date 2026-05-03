@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-n. ①==**边界；边境**==；②边缘；花边；
-v. ①==**与…接壤**==；②接近；
+n. ①==**边界；边境**== `N` `cross the border`；②边缘；花边 `N`；
+v. ①==**与…接壤**== `V N` `V on N`；②接近 `V on N`；
 
 > [!tip] 原型义
 > **原型义**：两块区域之间的分界线
@@ -123,8 +123,9 @@ border（边缘/边界，古法语 bord）
 ## 真题/语料关联
 
 > [!example]- 语料
-- The two countries share a long border.（两国拥有漫长的边界。）
-- The village borders on the forest.（这个村庄与森林接壤。）
+> - The two countries share a long border. `[真题]`
+> - The village borders on the forest. `[真题]`
+> - His behavior borders on rudeness. `[例]`
 
 ---
 

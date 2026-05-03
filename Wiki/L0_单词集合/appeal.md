@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**呼吁，恳求**== ; ②==**上诉**== ; ③==**有吸引力，引起兴趣**==
-**n.** ①==**呼吁，恳求**== ; ②==**上诉**== ; ③==**吸引力，感染力**==
+**vi.** ①==**呼吁，恳求**== `V to N for N` `V to N to V` ；②==**上诉**== `V to N` `V against N` ；③==**有吸引力，引起兴趣**== `V to N`
+**n.** ①==**呼吁，恳求**== `N` `make an N for N` ；②==**上诉**== `N` `file an N` ；③==**吸引力，感染力**== `N` `have N`
 
 > [!tip] 原型义
 > **原型义**：向……走近、呼吁（向某人发出请求）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If the study of law is beginning to establish itself as part and parcel of a general education, its aims and methods should appeal directly to journalism educators."（如果法律研究正开始成为普通教育不可或缺的一部分，那么它的目标和方法应该直接吸引新闻教育工作者。）——2007年考研英语翻译
-> - "The design appeals to young people."（这个设计吸引了年轻人。）——2020年考研英语一
+> - If the study of law is beginning to establish itself as part and parcel of a general education, its aims and methods should appeal directly to journalism educators. `[考研-2007-翻译]`
+> - The design appeals to young people. `[考研-2020-阅读]`
+> - The charity made an appeal for donations after the earthquake. `[例]`
 
 ---
 

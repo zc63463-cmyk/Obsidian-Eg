@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**批准，认可**==；②赞成，赞同；
+**n.** ①==**批准，认可**== `N` / `prep N` ；②赞成，赞同 `N` ；
 
 > [!tip] 原型义
 > **原型义**：认可、赞同（approve 的名词形式，源自拉丁语 approbare = ad- + probare "测试、认可"）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Instead of protecting speech and encouraging diversity, the tenure system often stifles them: younger professors must win the approval of established colleagues for tenure."（终身教职制度非但没有保护言论和鼓励多样性，反而常常压制它们：年轻教授必须获得资深同事的认可才能获得终身教职。）——考研高频表达
-> - "The president has already given his approval to the plan for restructuring the company."（总统已经批准了公司重组的计划。）——考研高频表达
+> - Instead of protecting speech and encouraging diversity, the tenure system often stifles them: younger professors must win the approval of established colleagues for tenure. `[例]`
+> - The president has already given his approval to the plan for restructuring the company. `[例]`
+> - The proposed changes met with widespread approval from employees. `[例]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**建筑学，建筑术**==；②==**建筑风格，建筑式样**==；③==**结构，构造**==；④体系结构（计算机）；
+**n.** ①==**建筑学，建筑术**== `N`；②==**建筑风格，建筑式样**== `adj N`；③==**结构，构造**== `the N of N`；④体系结构（计算机） `adj N`；
 
 > [!tip] 原型义
 > **原型义**：首席建造的艺术与科学（关于如何设计和建造建筑物的知识体系）
@@ -132,8 +132,10 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It had a great influence upon American architecture."（它对美国建筑产生了巨大的影响。）——2011年真题
-> - "The "Case Study Houses" commissioned from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the "less is more" trend."（1945年至1962年间，加州艺术与建筑杂志委托才华横溢的现代建筑师设计的"案例研究住宅"是对"少即是多"趋势的又一本土影响。）——考研高频表达
+> - It had a great influence upon American architecture. `[真题]`
+> - The "Case Study Houses" commissioned from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the "less is more" trend. `[考研-阅读]`
+> - The architecture of the human brain is remarkably complex and still not fully understood. `[例]`
+> - Software architecture determines how easily a system can be maintained and scaled. `[例]`
 ---
 
 

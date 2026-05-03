@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**出现，产生，发生**==；②==**升起，上升**==；③起床，起立；
+**vi.** ①==**出现，产生，发生**== `V` / `V from N` ；②==**升起，上升**== `V` ；③==**起床，起立**== `V` [literary] ；
 
 > [!tip] 原型义
 > **原型义**：升起、出现、站起身来（从低处向高处升起）
@@ -127,8 +127,10 @@ a-（向上，加强语气，ad- 在 r 前的同化形式）+ rise（升起，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Problems arose when the company tried to expand into new markets."（当公司试图向新市场扩张时，问题出现了。）——考研高频表达
-> - "Accidents arise from carelessness."（事故因疏忽而起。）——考研高频表达
+> - Problems arose when the company tried to expand into new markets. `[考研-阅读]`
+> - Accidents arise from carelessness. `[考研-阅读]`
+> - New opportunities will arise as the technology continues to evolve. `[COCA-ACAD]`
+> - A serious dispute arose between the two countries over trade policy. `[例]`
 ---
 
 

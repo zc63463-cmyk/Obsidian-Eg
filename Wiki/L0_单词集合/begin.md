@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**开始，着手**==；②==**创建，创办**==；③起初是，本来是；
+**v.** ①==**开始，着手**== `V to N` / `V V-ing`；②==**创建，创办**== `V N`；③起初是，本来是 `V as N`；
 
 > [!tip] 原型义
 > **原型义**：打开，开启（像打开一扇门，让某事启动）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "to begin with"（首先）——考研写作/阅读常见插入语，引出论点
-> - "begin as a small company"（起初是一家小公司）——商业类阅读常见搭配
-> - "begin to realize/understand"（开始意识到/理解）——阅读中描述认知转变
+> - To begin with, the evidence suggests that the policy has been largely ineffective. `[例]`
+> - The company began as a small family-owned business in the 1990s. `[例]`
+> - She began to realize that her assumptions about the project were fundamentally flawed. `[COCA-ACAD]`
+> - The government should begin by addressing the most urgent issues facing the nation. `[例]`
 
 ---
 

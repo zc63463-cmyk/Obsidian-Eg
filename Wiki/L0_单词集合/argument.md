@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**争论，争吵**==；②==**论点，论据，理由**==；③==**论证，说理**==；
+**n.** ①==**争论，争吵**== `have an N with N` ；②==**论点，论据，理由**== `present/supporting N` ；③==**论证，说理**== `adj N` ；
 
 > [!tip] 原型义
 > **原型义**：使事物变清晰的过程或结果（用理由使观点变得清楚的过程）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account."（迈尔斯博士和沃姆博士认为，他们的工作提供了一个正确的基准线，未来的管理工作必须将其纳入考量。）——2006年阅读Text3
-> - "The argument seemed to have considerable merit."（这个论点似乎有相当大的价值。）——考研高频表达
+> - Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account. [考研-2006-阅读Text3]
+> - The argument seemed to have considerable merit. [考研-阅读]
+> - The researchers presented a compelling argument in favour of the new hypothesis. `[COCA-ACAD]`
+> - She had a heated argument with her colleague about the budget proposal. `[例]`
 ---
 
 

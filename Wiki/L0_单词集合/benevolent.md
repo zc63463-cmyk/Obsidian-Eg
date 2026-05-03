@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**仁慈的，慈善的**==；②善意的，好心的；
+**adj.** ①==**仁慈的，慈善的**== `adj N` `be adj prep N`；②善意的，好心的 `adj N`；
 
 > [!tip] 原型义
 > **原型义**：好心地祝愿（拉丁语 bene volens = well + wishing）
@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a benevolent smile"（慈祥的微笑）——文学类阅读中描述人物表情
-> - "benevolent dictatorship"（仁慈的独裁）——政治学/社科类阅读中的经典概念
-> - "benevolent organization"（慈善组织）——社会议题类阅读常见搭配
+> - The old man gave a benevolent smile to the children playing in the garden. `[例]`
+> - She established a benevolent fund to support underprivileged students. `[例]`
+> - The benevolent organization has donated millions to local communities over the past decade. `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**区域，地区**==；②==**面积**==；③==**领域，方面**==；④范围；
+**n.** ①==**区域，地区**== `N` / `adj N` ；②==**面积**== `the area of N` ；③==**领域，方面**== `N of N` ；④==**范围**== `N of N` ；
 
 > [!tip] 原型义
 > **原型义**：一块被划定的空旷之地（有明确边界的一片空间）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Cleveland Clinic has reorganised its medical staff into teams to focus on particular treatment areas."（克利夫兰诊所已将其医务人员重组为团队，以专注于特定治疗领域。）——考研高频表达
-> - "The area is rich in wildlife."（这个地区的野生动植物很多。）——考研高频表达
+> - The Cleveland Clinic has reorganised its medical staff into teams to focus on particular treatment areas. [考研-阅读]
+> - The area is rich in wildlife. `[例]`
+> - Researchers are exploring new areas of artificial intelligence. `[COCA-ACAD]`
+> - The total area of the forest has decreased by 30% over the past decade. `[例]`
 ---
 
 

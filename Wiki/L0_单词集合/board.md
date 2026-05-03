@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**董事会，委员会**== ; ②板，木板 ; ③黑板，布告牌 ; ④膳食，伙食
-**v.** ①上（船、飞机等） ; ②搭伙，寄宿
+**n.** ①==**董事会，委员会**== `N` `board of directors` ; ②板，木板 `N` ; ③黑板，布告牌 `N` ; ④膳食，伙食 `N`
+**v.** ①上（船、飞机等） `V N` ; ②搭伙，寄宿 `V prep N`
 
 > [!tip] 原型义
 > **原型义**：木板、薄的平面
@@ -134,8 +134,9 @@ board（源自古英语 bord"木板、桌面"，与 [[mark]] 标记的木板同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The board of directors approved the merger plan yesterday."（董事会昨天批准了合并计划。）——考研高频表达
-> - "All passengers must board the plane 30 minutes before departure."（所有乘客必须在起飞前30分钟登机。）——考研高频表达
+> - The board of directors approved the merger plan yesterday. `[真题]`
+> - All passengers must board the plane 30 minutes before departure. `[真题]`
+> - She has been on the board of the company for five years. `[例]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**促进，提高**== ; ②增强，增加 ; ③提升（信心等）
-**n.** ①促进，推动 ; ②提升，增加
+**v.** ①==**促进，提高**== `V N` ; ②增强，增加 `V N` ; ③提升（信心等） `V N`
+**n.** ①促进，推动 `N` ; ②提升，增加 `N`
 
 > [!tip] 原型义
 > **原型义**：向上推、举起
@@ -129,8 +129,9 @@ boost（源自中古英语，可能与"推"有关，拟声或方言词）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Agreeable people boost your confidence and allow you to relax and feel comfortable."（随和的人能增强你的信心，让你放松并感到舒适。）——考研高频表达
-> - "The new policy is expected to boost economic growth."（新政策预计将促进经济增长。）——考研高频表达
+> - Agreeable people boost your confidence and allow you to relax and feel comfortable. `[真题]`
+> - The new policy is expected to boost economic growth. `[真题]`
+> - The victory boosted the team's confidence before the final match. `[例]`
 ---
 
 

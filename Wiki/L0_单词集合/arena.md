@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**竞技场，舞台**==；②==**竞争场所，活动领域**==；③斗争场合；
+**n.** ①==**竞技场，舞台**== `N` ；②==**竞争场所，活动领域**== `N of N` ；③==**斗争场合**== `N of N` ；
 
 > [!tip] 原型义
 > **原型义**：撒满沙子的竞技场地（古罗马斗兽场中央的沙地，用于角斗和表演）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After 30 years in the political arena, our local member of parliament is retiring next year."（我们当地选出的这位下议院议员已经在政治舞台上活跃了30年，明年他就要退休了。）——考研高频表达
-> - "Women are entering the political arena in greater numbers than ever before."（女性正以前所未有的数量进入政治舞台。）——考研高频表达
+> - After 30 years in the political arena, our local member of parliament is retiring next year. `[例]`
+> - Women are entering the political arena in greater numbers than ever before. `[例]`
+> - The international arena has become increasingly competitive in recent decades. `[COCA-ACAD]`
+> - A new sports arena is being built in the downtown area. `[例]`
 ---
 
 

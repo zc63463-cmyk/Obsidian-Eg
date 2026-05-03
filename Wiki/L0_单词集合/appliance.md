@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**器具，家用电器**==；②装置，设备；
+**n.** ①==**器具，家用电器**== `N` `adj N` ；②装置，设备 `N` ；
 
 > [!tip] 原型义
 > **原型义**：被施加于某物的工具（用来完成特定任务的设备）
@@ -127,8 +127,9 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The kitchen is equipped with modern appliances."（这间厨房里安装了各种现代化设备。）——考研高频表达
-> - "These advances were the result of the intellectual appliance of science."（这些进步是巧妙应用科学的结果。）——考研高频表达
+> - The kitchen is equipped with modern appliances. `[例]`
+> - These advances were the result of the intellectual appliance of science. `[例]`
+> - The store sells a wide range of household appliances at affordable prices. `[例]`
 ---
 
 

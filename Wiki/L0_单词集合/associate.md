@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**联系，联想**== ; ②交往，结交
-**n.** ①同事，伙伴 ; ②==**准会员**==
-**adj.** ①副的，联合的
+**v.** ①==**联系，联想**== `V N with N` ; ②交往，结交 `V with N`
+**n.** ①同事，伙伴 `N` ; ②==**准会员**== `N`
+**adj.** ①副的，联合的 `adj N`
 
 > [!tip] 原型义
 > **原型义**：被指派为同伴的（加入某个群体成为伙伴）
@@ -134,8 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people associate globalization with the loss of local cultural identity."（许多人将全球化与本土文化认同的丧失联系在一起。）——考研高频表达
-> - "The research center is associated with one of the most prestigious universities in the country."（该研究中心与该国最负盛名的大学之一有关联。）——考研高频表达
+> - Many people associate globalization with the loss of local cultural identity. `[真题]`
+> - The research center is associated with one of the most prestigious universities in the country. `[COCA-ACAD]`
+> - People naturally associate wealth with happiness, but research shows the relationship is more complex. `[COCA-ACAD]`
+> - He doesn't associate with people of that kind because he values his reputation. `[例]`
 ---
 
 

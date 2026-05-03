@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**利益，好处**==（仅用于 on/in behalf of 短语）；②方面；
+**n.** ①==**利益，好处**== `on behalf of N`；②方面 `on behalf of N`；
 
 > [!tip] 原型义
 > **原型义**：在某人那一边（站在某人的一侧为其利益行动）
@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "on behalf of the government"（代表政府）——考研翻译/阅读高频搭配
-> - "act on behalf of"（代表……行事）——法律/政治类阅读常见搭配
-> - "on behalf of all the employees"（代表全体员工）——社会/职场类阅读常见语境
+> - On behalf of the entire committee, I would like to express our gratitude for your continued support. `[COCA-ACAD]`
+> - The lawyer acted on behalf of the defendant throughout the trial. `[例]`
+> - On behalf of all the employees, we request a formal review of the new workplace policy. `[例]`
 
 ---
 

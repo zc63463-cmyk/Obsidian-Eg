@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①断言，宣称 ; ==**②维护，坚持（权利等）**== ;
+**v.** ①断言，宣称 `V that-clause` ; ==**②维护，坚持（权利等）**== `V N` ;
 
 > [!tip] 原型义
 > **原型义**：断言，明确主张（坚定地陈述自己的观点）
@@ -125,8 +125,10 @@ as-(=ad-，朝向，加强) + [[sert]](加入，放置) → "坚定地放置自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He asserted that he was innocent of all charges."（他坚称自己对所有指控都是无辜的。）——考研高频表达
-> - "The report asserts that the company knowingly sold defective products."（报告断言该公司明知故犯地销售有缺陷的产品。）——考研高频表达
+> - He asserted that he was innocent of all charges. `[真题]`
+> - Citizens should learn to assert their rights under the law. `[COCA-ACAD]`
+> - She had to assert herself to be taken seriously at work. `[COCA-MAG]`
+> - The report asserts that the company knowingly sold defective products. `[例]`
 
 ---
 

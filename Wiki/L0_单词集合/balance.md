@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**平衡，均衡**==；②天平，秤；③余额，差额；
-**vt.** ①==**使平衡**==；②权衡，比较；③结算（账户）；
-**vi.** ①保持平衡；②均衡；
+**n.** ①==**平衡，均衡**== `strike a N` `ecological N`；②==**天平，秤**== `N`；③==**余额，差额**== `bank/account N`；
+**vt.** ①==**使平衡**== `V N`；②==**权衡，比较**== `V N and N`；③==**结算（账户）**== `V the books`；
+**vi.** ①==**保持平衡**== `V`；②均衡；
 
 > [!tip] 原型义
 > **原型义**：两个盘子等重（天平两端重量相等的状态）
@@ -144,9 +144,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "strike a balance between A and B"（在A和B之间取得平衡）——考研写作和阅读中极高频搭配
-> - "the ecological balance of the environment"（环境的生态平衡）——环境类话题中常见
-> - "on balance, the benefits outweigh the costs"（综合考虑，利大于弊）——论证类阅读/写作中常见
+> - It is important to strike a balance between work and family life. `[COCA-ACAD]`
+> - The ecological balance of the environment has been severely disrupted by human activities. `[COCA-ACAD]`
+> - On balance, the benefits of the new policy outweigh its costs. `[例]`
 
 ---
 

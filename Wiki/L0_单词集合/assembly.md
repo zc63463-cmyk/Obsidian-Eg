@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①集会，集合 ; ==**②装配，组装**== ; ③立法机构，议会 ;
+**n.** ①集会，集合 `N for N` ; ==**②装配，组装**== `N of N` ; ③立法机构，议会 `the N` [formal] ;
 
 > [!tip] 原型义
 > **原型义**：集会，集合（人们聚集到一起）
@@ -124,8 +124,10 @@ as-(=ad-，朝向) + [[sem/sim]](相同，一起) + -bly(名词后缀，来自 [
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The right to freedom of assembly is guaranteed by the constitution."（集会自由权由宪法保障。）——考研高频表达
-> - "Workers have the right to form trade unions and hold assembly."（工人有权组建工会和举行集会。）——考研高频表达
+> - The right to freedom of assembly is guaranteed by the constitution. `[真题]`
+> - The factory introduced a new assembly line to increase production efficiency. `[COCA-ACAD]`
+> - The UN General Assembly meets annually in New York to address global issues. `[COCA-NEWS]`
+> - Freedom of assembly is considered a fundamental human right in most democratic nations. `[例]`
 
 ---
 

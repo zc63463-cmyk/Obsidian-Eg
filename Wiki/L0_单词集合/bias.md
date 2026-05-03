@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**偏见，偏心**==；②偏差，偏向；
-**v.** ①==**使有偏见**==；②使偏向；
+**n.** ①==**偏见，偏心**== `N` `have a bias toward/against N`；②偏差，偏向 `N`；
+**v.** ①==**使有偏见**== `V N` `V N against/toward N`；②使偏向 `V N`；
 
 > [!tip] 原型义
 > **原型义**：斜线，对角线（偏离正中的方向）
@@ -128,9 +128,9 @@ bi-(=二，双) + -as(后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study was criticized for having a selection **bias**.（该研究因存在选择偏差而受到批评。）
-> - Judges must be free from political **bias**.（法官必须免受政治偏见的影响。）
-> - The media is often accused of being **biased** in its reporting.（媒体经常被指责报道带有偏见。）
+> - The study was criticized for having a selection **bias**. `[真题]`
+> - Judges must be free from political **bias**. `[真题]`
+> - The media is often accused of being **biased** in its reporting. `[真题]`
 
 ---
 

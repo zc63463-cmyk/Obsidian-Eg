@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**把……归因于，认为……是……所为**==；
-**n.** ①属性，特质；
+**v.** ①==**把……归因于，认为……是……所为**== `V N to N` `V N to V-ing`；
+**n.** ①==**属性，特质**== `adj N` `N of N`；
 
 > [!tip] 原型义
 > **原型义**：给予过去（将某物给予某人，归到某人头上）
@@ -127,8 +127,9 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Few Americans attribute this solely to such obvious causes as a devalued dollar or the turning of the business cycle."（几乎没有美国人将此仅仅归因于美元贬值或商业周期转折这样明显的原因。——1998年考研英语阅读，attribute...to... 经典真题）
-> - "The fall in the number of deaths from heart disease is generally attributed to improvements in diet."（心脏病死亡人数的下降通常归因于饮食的改善。——考研英语高频例句）
+> - Few Americans attribute this solely to such obvious causes as a devalued dollar or the turning of the business cycle. `[真题]`
+> - The fall in the number of deaths from heart disease is generally attributed to improvements in diet. `[COCA-ACAD]`
+> - She attributes her success to hard work and perseverance. `[例]`
 
 ---
 

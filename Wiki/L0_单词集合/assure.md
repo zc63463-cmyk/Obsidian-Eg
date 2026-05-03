@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**向…保证，使确信，使放心**== ; ②确保（某事发生） ;
+**vt.** ①==**向…保证，使确信，使放心**== `V sb that-clause` `V sb of N` ; ②确保（某事发生） ;
 
 > [!tip] 原型义
 > **原型义**：使某人确信、放心（通过言语消除疑虑）
@@ -123,8 +123,9 @@ as-(=ad-, 去/向) + [[cert|cert]](确定/确信) → 向某人传递确定性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company assured customers that their personal data would be kept secure."（公司向客户保证他们的个人数据将被安全保存——考研高频表达）
-> - "She assured me that everything would be fine."（她向我保证一切都会好的——考研高频表达）
+> - "The company assured customers that their personal data would be kept secure." `[例]`
+> - "She assured me that everything would be fine." `[例]`
+> - "I can assure you of our full cooperation in this matter." `[例]`
 
 
 ---

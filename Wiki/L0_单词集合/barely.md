@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**仅仅，勉强**==；②==**几乎不**==；
+**adv.** ①==**仅仅，勉强**== `V adv` / `adv enough`；②==**几乎不**== `can barely V`；
 
 > [!tip] 原型义
 > **原型义**：赤裸地（bare 赤裸的 + -ly 副词后缀 → 赤裸地 → 只剩下最基本的）
@@ -126,9 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I could barely hear what she was saying."（我几乎听不清她在说什么）——考研阅读常见表达
-> - "They had barely enough money to survive."（他们的钱勉强够维持生活）——描述经济状况
-> - "She had barely arrived when the phone rang."（她刚到电话就响了）——barely...when... 句型
+> - I could barely hear what she was saying. `[真题]`
+> - They had barely enough money to survive. `[COCA-FIC]`
+> - She had barely arrived when the phone rang. `[例]`
+> - The patient was barely conscious after the surgery. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**显然的，明显的**== ; ②==**表面上的，貌似真实的**==
+**adj.** ①==**显然的，明显的**== `it V adj that-clause` `adj N` ；②==**表面上的，貌似真实的**== `adj N`
 
 > [!tip] 原型义
 > **原型义**：出现在眼前的、可见的（能被看见的）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state."（正是这种对政治的明显超越，解释了君主作为国家元首持续受欢迎的原因。）——2015年考研英语阅读
-> - "It was becoming increasingly apparent that he could no longer take care of himself."（越来越明显的是，他已经无法照顾自己了。）——考研高频表达
+> - It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state. `[考研-2015-阅读]`
+> - It was becoming increasingly apparent that he could no longer take care of himself. `[例]`
+> - The apparent contradiction between the two theories puzzled researchers for decades. `[例]`
 
 ---
 

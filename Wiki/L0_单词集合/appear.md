@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**出现，显现**== ; ②==**似乎，看起来**== ; ③==**出版，发表**==
+**vi.** ①==**出现，显现**== `V` `V prep N` ；②==**似乎，看起来**== `it V that-clause` `V to V` ；③==**出版，发表**== `V prep N`
 
 > [!tip] 原型义
 > **原型义**：走到眼前、出现（从不可见到可见）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It appears that the situation is improving gradually."（情况似乎正在逐步改善。）——考研高频表达
-> - "New evidence has appeared that challenges the existing theory."（出现了质疑现有理论的新证据。）——考研高频表达
+> - It appears that the situation is improving gradually. `[例]`
+> - New evidence has appeared that challenges the existing theory. `[例]`
+> - She appears to have forgotten about the meeting. `[例]`
 
 ---
 

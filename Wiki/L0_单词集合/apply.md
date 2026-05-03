@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**申请**==；②==**应用，运用**==；③涂抹，敷用；
-**vi.** ①==**适用**==；
+**vt.** ①==**申请**== `V for N` / `V to N` ；②==**应用，运用**== `V N to N` ；③涂抹，敷用 `V N to N`；
+**vi.** ①==**适用**== `V prep N` ；
 
 > [!tip] 原型义
 > **原型义**：将某物折叠施加到另一物上（把一层东西贴合到另一层上）
@@ -135,8 +135,9 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You can apply for a scholarship online."（你可以在线申请奖学金。）——2019年考研英语一阅读
-> - "The findings of this research can be applied to other fields of study."（这项研究的发现可以应用于其他研究领域。）——考研高频表达
+> - You can apply for a scholarship online. `[真题]`
+> - The findings of this research can be applied to other fields of study. `[例]`
+> - This regulation applies to all employees regardless of their position. `[例]`
 
 ---
 

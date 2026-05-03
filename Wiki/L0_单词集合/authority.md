@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**权力，权威**== ; ②当局，官方 ; ③权威人士，专家 ;
+**n.** ①==**权力，权威**== `have N over N` `exercise N` ; ②==**当局，官方**== `the local N` ; ③==**权威人士，专家**== `an N on N` ;
 
 > [!tip] 原型义
 > **原型义**：创始者/创造者的权力→权威（源自拉丁语 auctoritas "意见、权威"）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Three provisions of Arizona's plan were overturned because they overstepped the authority of federal immigration law."（亚利桑那州计划中的三项条款被推翻，因为它们越权干涉了联邦移民法的权威。）——2013考研英语一阅读
-> - "It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being."（它脱离了上帝和罗马天主教的权威，转而倾向于一种更人文主义的存在方式。）——2020考研英语一阅读
+> - Three provisions of Arizona's plan were overturned because they overstepped the authority of federal immigration law. `[真题]`
+> - It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being. `[真题]`
+> - She is a recognized authority on the history of modern art. `[COCA-ACAD]`
 
 ---
 

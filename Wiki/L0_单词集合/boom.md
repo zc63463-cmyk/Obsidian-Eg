@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**繁荣，迅速发展**== ; ②隆隆声 ; ③吊杆
-**v.** ①迅速发展，激增 ; ②发出隆隆声
+**n.** ①==**繁荣，迅速发展**== `N` `adj N` ; ②隆隆声 `N` ; ③吊杆 `N`
+**v.** ①迅速发展，激增 `V` `V in N` ; ②发出隆隆声 `V`
 
 > [!tip] 原型义
 > **原型义**：发出隆隆声
@@ -126,8 +126,9 @@ boom（拟声词，模仿低沉的轰鸣声）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Nonstop waves of immigrants played a role, too—and so did bigger crops of babies as yesterday's 'baby boom' generation reached its child-bearing years."（不断涌入的移民也发挥了作用——还有往昔"生育高峰"时期出生的一代也已到了生育年龄，生育了大批婴儿。）——考研高频表达
-> - "The city experienced a tourism boom."（这座城市经历了旅游热潮。）——2019年英语二
+> - Nonstop waves of immigrants played a role, too—and so did bigger crops of babies as yesterday's 'baby boom' generation reached its child-bearing years. `[真题]`
+> - The city experienced a tourism boom. `[真题]`
+> - The housing market is booming due to low interest rates. `[例]`
 ---
 
 

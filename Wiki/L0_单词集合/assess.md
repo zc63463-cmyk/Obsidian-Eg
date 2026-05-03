@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**评估，评定**== ; ②估价，确定……的金额 ;
+**vt.** ①==**评估，评定**== `V N` ; ②估价，确定……的金额 `V N at N` ;
 
 > [!tip] 原型义
 > **原型义**：坐在旁边仔细观察估计（as-在旁边 + sess-坐）
@@ -122,8 +122,10 @@ ad-(在旁边，同化为 as-) + [[sess|sess]](坐) → 坐在旁边观察 → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look."（根据普林斯顿大学的研究，人们仅需十分之一秒就能根据你的外貌来评估你的能力、可信度和亲和力——考研高频表达）
-> - "It is difficult to assess the full impact of the new policy on the economy."（很难评估新政策对经济的全部影响——考研高频表达）
+> - It is difficult to assess the full impact of the new policy on the economy. `[真题]`
+> - According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look. `[COCA-ACAD]`
+> - The damage caused by the storm was assessed at over two million dollars. `[COCA-NEWS]`
+> - Teachers use various methods to assess students' learning progress throughout the semester. `[例]`
 
 
 ---

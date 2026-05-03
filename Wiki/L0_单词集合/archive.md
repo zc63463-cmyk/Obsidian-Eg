@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**档案，档案馆**==；②==**归档文件**==；③（计算机）存档；
-**vt.** ①==**存档，归档**==；②把……收录进档案馆；
+**n.** ①==**档案，档案馆**== `N`；②==**归档文件**== `N`；③（计算机）存档 `N`；
+**vt.** ①==**存档，归档**== `V N`；②把……收录进档案馆 `V N`；
 
 > [!tip] 原型义
 > **原型义**：统治者的记录、官方档案（政府或机构保存的重要文件记录）
@@ -131,8 +131,9 @@ arch-（首要的，统治的，与 architect 同源）+ -ive（名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The archives contain a wealth of historical documents that are invaluable to researchers."（档案馆中保存着大量对研究人员来说极为珍贵的历史文献。）——考研高频表达
-> - "She spent months going through the national archives."（她花了好几个月翻阅国家档案馆的资料。）——考研高频表达
+> - The archives contain a wealth of historical documents that are invaluable to researchers. `[例]`
+> - She spent months going through the national archives. `[例]`
+> - All old emails are automatically archived after 90 days. `[例]`
 ---
 
 

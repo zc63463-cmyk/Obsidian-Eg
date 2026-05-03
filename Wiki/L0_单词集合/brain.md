@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**脑，大脑**==；②智力，智慧；③聪明人，智者；
+**n.** ①==**脑，大脑**== `N`；②智力，智慧 `N`；③聪明人，智者 `N` `the best brains`；
 
-**v.** ①==**猛击……的头部**==；②动脑筋，思考；
+**v.** ①==**猛击……的头部**== `V N`；②动脑筋，思考 `V`；
 
 > [!tip] 原型义
 > **原型义**：脑、思维器官（人体最重要的器官）
@@ -129,8 +129,9 @@ brain(日耳曼语源，与古英语 brægen 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Research has shown that the human brain continues to develop well into a person's twenties."（研究表明，人类大脑在人二十多岁时仍在继续发育。）——考研高频表达
-> - "The brain drain from developing countries to developed nations remains a serious problem."（发展中国家人才向发达国家流失仍然是一个严重的问题。）——考研高频表达
+> - Research has shown that the human brain continues to develop well into a person's twenties. `[真题]`
+> - The brain drain from developing countries to developed nations remains a serious problem. `[真题]`
+> - She racked her brains trying to come up with a solution. `[例]`
 
 
 ---

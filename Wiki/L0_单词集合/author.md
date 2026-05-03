@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**作者，著者**== ; ②创始者，发起人 ;
-**v.** ①编写，撰写 ;
+**n.** ①==**作者，著者**== `N of N` ; ②==**创始者，发起人**== `N of N` ;
+**v.** ①==**编写，撰写**== `V N` ;
 
 > [!tip] 原型义
 > **原型义**：创造者，创始者（源自拉丁语 auctor "增加者、创始者"）
@@ -126,8 +126,9 @@ aug-/auct-(增加、增长) → auctor(增加者→创始者) → author
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Part of the fame of Allen's book is its contention that 'Circumstances do not make a person, they reveal him.'"（艾伦一书的部分名气在于其论点：'环境不能造就一个人，只能揭示一个人。'）——2011考研英语一翻译
-> - "The author argues that the current education system fails to prepare students for the real world."（作者认为当前的教育体系未能让学生为现实世界做好准备。）——考研高频表达
+> - Part of the fame of Allen's book is its contention that "Circumstances do not make a person, they reveal him." `[真题]`
+> - The author argues that the current education system fails to prepare students for the real world. `[例]`
+> - She authored several influential papers on climate change during her career. `[例]`
 
 ---
 

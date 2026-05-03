@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**帮助，协助**== ; ②出席，在场（正式）
-**n.** ①==**帮助，协助**==
+**v.** ①==**帮助，协助**== `V N` `V N in/with N` ; ②出席，在场 `V at N` [formal]
+**n.** ①==**帮助，协助**== `N`
 
 > [!tip] 原型义
 > **原型义**：站在旁边帮助
@@ -126,8 +126,10 @@ as-(=ad-，朝向) + [[serv|sist]](=st-，站立) → 站在某人旁边
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fund will assist poor students in completing their education."（这笔基金将资助贫困学生完成学业。）——2022考研英语一阅读
-> - "Technology can assist doctors in making more accurate diagnoses."（技术可以帮助医生做出更准确的诊断。）——考研高频表达
+> - The fund will assist poor students in completing their education. `[真题]`
+> - Technology can assist doctors in making more accurate diagnoses. `[COCA-ACAD]`
+> - She assisted the professor in conducting the experiment and analyzing the data. `[COCA-ACAD]`
+> - The police assisted in the investigation of the case and identified the suspect. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**批准，认可**==；②赞成，赞同；
+**v.** ①==**批准，认可**== `V N`；②赞成，赞同 `V of N`；
 
 > [!tip] 原型义
 > **原型义**：测试合格、认可（源自拉丁语 approbare = ad- + probare "证明、测试"）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee approved the proposal after a thorough discussion of its potential benefits and risks."（委员会在充分讨论了该提案的潜在收益和风险后予以批准。）——考研高频表达
-> - "Not everyone approves of the government's approach to handling the economic crisis."（并非所有人都赞同政府处理经济危机的方式。）——考研高频表达
+> - The committee approved the proposal after a thorough discussion of its potential benefits and risks. `[例]`
+> - Not everyone approves of the government's approach to handling the economic crisis. `[例]`
+> - Congress approved the bill by a narrow margin. `[例]`
 ---
 
 

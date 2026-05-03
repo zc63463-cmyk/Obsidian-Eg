@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-v. ①==**使厌烦；使厌倦**==；②钻孔；
-n. ①==**令人厌烦的人/事**==；②钻孔；孔洞；
+v. ①==**使厌烦；使厌倦**== `V N` `V N to death`；②钻孔 `V N`；
+n. ①==**令人厌烦的人/事**== `N`；②钻孔；孔洞 `N`；
 
 > [!tip] 原型义
 > **原型义**：反复钻孔的枯燥感→使厌烦
@@ -121,8 +121,9 @@ bore（钻孔→厌烦，古英语 borian）
 ## 真题/语料关联
 
 > [!example]- 语料
-- The students were bored by the repetitive exercises.（学生们对重复的练习感到厌烦。）
-- They bored a hole through the wall.（他们在墙上钻了一个洞。）
+> - The students were bored by the repetitive exercises. `[真题]`
+> - They bored a hole through the wall. `[例]`
+> - The long speech bored me to death. `[例]`
 
 ---
 

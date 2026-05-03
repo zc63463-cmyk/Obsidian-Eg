@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**奖金，红利**== ; ②额外的好处，意外收获
+**n.** ①==**奖金，红利**== `N` `adj N` ; ②额外的好处，意外收获 `N` `an added bonus`
 
 > [!tip] 原型义
 > **原型义**：额外的好东西
@@ -123,8 +123,9 @@ bonus（拉丁语"好的"，源自 bon-us"好"，与 [[bene]] 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Good weather is an added bonus but the real appeal of the area is the fantastic variety of landscape."（好天气是额外的奖励，但这个地区真正的吸引力在于其丰富多彩的景观。）——考研高频表达
-> - "The new contract gives workers less salary, but bonuses for hitting efficiency and sales targets."（新合同给工人的基本工资降低了，但设定了效率和销售目标的奖金。）——考研高频表达
+> - Good weather is an added bonus but the real appeal of the area is the fantastic variety of landscape. `[真题]`
+> - The new contract gives workers less salary, but bonuses for hitting efficiency and sales targets. `[真题]`
+> - Employees received a performance bonus at the end of the year. `[例]`
 ---
 
 

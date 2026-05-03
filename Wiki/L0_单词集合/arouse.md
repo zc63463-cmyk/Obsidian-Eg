@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**唤醒，激起**==；②==**引起，引发**==；③激起（情感/欲望）；
+**vt.** ①==**唤醒，激起**== `V N` ；②==**引起，引发**== `V N` ；③==**激起（情感/欲望）**== `V N` ；
 
 > [!tip] 原型义
 > **原型义**：搅动、唤醒、激起（像搅动沉睡的水面一样唤醒沉睡的事物）
@@ -127,8 +127,10 @@ a-（加强语气，源自古英语 on-）+ rouse（唤醒，激起，源自中�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His strange behaviour aroused his neighbours' suspicions."（他的异常行为引起了邻居们的怀疑。）——考研高频表达
-> - "The sight of people suffering arouses a deep sense of injustice in her."（看到人们受苦的景象唤起了她内心深处的不平感。）——考研高频表达
+> - His strange behaviour aroused his neighbours' suspicions. [考研-阅读]
+> - The sight of people suffering arouses a deep sense of injustice in her. [考研-阅读]
+> - The government's new policy aroused widespread controversy among the public. `[COCA-ACAD]`
+> - The exhibition aroused great interest among art enthusiasts. `[例]`
 ---
 
 

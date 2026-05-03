@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**接近，走近**==；②处理，对待（问题/任务）；③接洽，交涉；
-**n.** ①方法，途径；②接近，靠近；③通道，入口；
+**v.** ①==**接近，走近**== `V N` ；②处理，对待（问题/任务） `V N` ；③接洽，交涉 `V N about N` ；
+**n.** ①方法，途径 `N` / `N to N` ；②接近，靠近 `N` ；③通道，入口 `N` ；
 
 > [!tip] 原型义
 > **原型义**：靠近、走近（源自拉丁语 ad- + prope = "向……靠近"）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A comprehensive approach to environmental protection requires the cooperation of government, businesses, and individuals."（全面的环境保护方法需要政府、企业和个人的合作。）——考研高频表达
-> - "Depending on whom you are addressing, the problems will be different, and the approach should be adjusted accordingly."（取决于你面对的是谁，问题会有所不同，方法也应相应调整。）——2002年考研真题
+> - A comprehensive approach to environmental protection requires the cooperation of government, businesses, and individuals. `[例]`
+> - Depending on whom you are addressing, the problems will be different, and the approach should be adjusted accordingly. `[真题]`
+> - Several companies approached her about a potential partnership. `[例]`
 ---
 
 

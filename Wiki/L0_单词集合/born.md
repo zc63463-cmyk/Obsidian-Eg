@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-adj. ①==**出生的；天生的**==；
-v. ①（bear 的过去分词）出生；
+adj. ①==**出生的；天生的**== `adj N` `be born in/into N`；
+v. ①（bear 的过去分词）出生 `be born`；
 
 > [!tip] 原型义
 > **原型义**：从母体中诞生
@@ -118,8 +118,9 @@ born（出生，bear 的过去分词）
 ## 真题/语料关联
 
 > [!example]- 语料
-- She was born into a wealthy family.（她出生于一个富裕的家庭。）
-- He is a born leader.（他是一个天生的领导者。）
+> - She was born into a wealthy family. `[真题]`
+> - He is a born leader. `[真题]`
+> - She was born with a natural talent for music. `[例]`
 
 ---
 

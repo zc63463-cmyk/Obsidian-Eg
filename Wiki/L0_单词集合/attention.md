@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**注意力，专心**==；②关注，关心；③立正（口令）；
+**n.** ①==**注意力，专心**== `pay attention to N` `draw/attract N`；②关注，关心；③立正（口令）；
 
 > [!tip] 原型义
 > **原型义**：伸展过去的状态（注意力伸展到某处/某人的持续状态）
@@ -126,8 +126,9 @@ at-(=ad-, 向) + [[tend-tens|tent]](伸展) + -ion(名词后缀，表状态/结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She turned her attention back to the road again."（她把注意力重新转回到道路上。——2022考研英语真题词汇集锦）
-> - "He tried to attract the waiter's attention."（他试图引起服务员的注意。——2022考研英语真题词汇集锦）
+> - "She turned her attention back to the road again." `[真题]`
+> - "He tried to attract the waiter's attention." `[真题]`
+> - "The new policy has drawn considerable public attention to environmental issues." `[例]`
 
 ---
 

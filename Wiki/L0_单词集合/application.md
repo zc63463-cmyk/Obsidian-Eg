@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**申请，申请表**==；②==**应用，运用**==；③应用软件；④涂抹，敷用；
+**n.** ①==**申请，申请表**== `N` / `prep N` ；②==**应用，运用**== `N` / `N of N` ；③应用软件 `N`；④涂抹，敷用 `N`；
 
 > [!tip] 原型义
 > **原型义**：将某物施加到另一物上的行为（把方法、规则、力量等"施加"到目标对象上）
@@ -132,8 +132,9 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The practical application of scientific knowledge is what drives technological innovation."（科学知识的实际应用是推动技术创新的动力。）——考研高频表达
-> - "The number of applications for the graduate program has increased significantly this year."（今年研究生项目的申请数量大幅增加。）——考研高频表达
+> - The practical application of scientific knowledge is what drives technological innovation. `[例]`
+> - The number of applications for the graduate program has increased significantly this year. `[例]`
+> - Please submit your application form before the deadline. `[例]`
 
 ---
 
