@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**好战地，激进地**==；②强硬地，不妥协地；
+**adv.** ①==**好战地，激进地**== `adv V N` [政治]；`adv V` [政治]；②==**强硬地，不妥协地**== `adv V N` [政治]；
 
 > [!tip] 原型义
 > **原型义**：以好战的方式
@@ -125,7 +125,8 @@ milit(士兵/战斗，拉丁语 *miles*) + -ant(形容词后缀) + -ly(副词后
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She militantly defended her position on environmental protection."（她以不妥协的态度捍卫自己在环保问题上的立场——常见政治/社会表达）
+> - `[例]` She militantly defended her position on environmental protection.
+> - `[例]` The group militantly opposed any form of compromise with the government.
 
 ## 复习记录
 

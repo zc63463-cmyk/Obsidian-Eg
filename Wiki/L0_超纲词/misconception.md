@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**误解，错误认识**==；②错误观念；
+**n.** ①==**误解，错误认识**== `a adj N` / `V N` [通用]；②错误观念 `N about N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：错误的理解或认识
@@ -126,7 +126,8 @@ mis-(错误) + con-(一起/完全) + [[cept|capt]](抓/取，拉丁语 *capere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A common misconception is that learning a language requires talent rather than effort."（一个常见的误解是学语言需要天赋而非努力——常见教育表达）
+> - `[例]` A common misconception is that learning a language requires talent rather than effort. [C]
+> - `[例]` The documentary aimed to dispel popular misconceptions about climate change. [C]
 
 ## 复习记录
 

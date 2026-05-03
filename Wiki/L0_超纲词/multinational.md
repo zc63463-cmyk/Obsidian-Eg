@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**跨国公司的，多国的**==；②涉及多国的；
-**n.** ①跨国公司；
+**adj.** ①==**跨国公司的，多国的**== `adj N` [经济]；②==**涉及多国的**== `adj N` [政治]；
+**n.** ①==**跨国公司**== `a N` [经济]；
 
 > [!tip] 原型义
 > **原型义**：跨越多个国家的
@@ -127,7 +127,8 @@ multi-(多，拉丁语 *multus*) + nation(国家) + -al(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Multinational corporations have been criticized for exploiting cheap labor in developing countries."（跨国公司因在发展中国家剥削廉价劳动力而受到批评——常见经济/社会表达）
+> - `[例]` Multinational corporations have been criticized for exploiting cheap labor in developing countries. [C]
+> - `[例]` The United Nations deployed a multinational peacekeeping force to the conflict zone. [C]
 
 ## 复习记录
 

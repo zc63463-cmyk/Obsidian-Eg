@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**采矿，矿业**==；②（数据的）挖掘；
-**v.** ①mine 的现在分词形式；
+**n.** ①==**采矿，矿业**== `N N` / `adj N` [通用]；②（数据的）挖掘 `N N` [技术]；
+**v.** ①mine 的现在分词形式 `V-ing` [语法]；
 
 > [!tip] 原型义
 > **原型义**：从地下挖掘矿物
@@ -126,7 +126,8 @@ mine(矿/挖掘，古英语 *mīn*) + -ing(名词/动名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Data mining techniques can reveal patterns hidden in vast datasets."（数据挖掘技术可以揭示隐藏在海量数据集中的模式——常见科技/学术表达）
+> - `[例]` Data mining techniques can reveal patterns hidden in vast datasets. [C]
+> - `[例]` The region's economy has historically depended on coal mining and steel production. [C]
 
 ## 复习记录
 

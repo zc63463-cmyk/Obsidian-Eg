@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**思维方式，心态**==；②观念模式；
+**n.** ①==**思维方式，心态**== `a adj N` / `V one's N` [通用]；②观念模式 `the N of N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：思维方式，心态
@@ -125,7 +125,8 @@ mind(心智/头脑) + set(设定/固定)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Students with a growth mindset are more likely to embrace challenges and learn from failures."（拥有成长型思维的学生更可能拥抱挑战并从失败中学习——常见教育/心理学表达）
+> - `[例]` Students with a growth mindset are more likely to embrace challenges and learn from failures. [C]
+> - `[例]` Developing a positive mindset is essential for overcoming obstacles in both personal and professional life. [C]
 
 ## 复习记录
 

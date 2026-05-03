@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小型化，微型化**==；
+**n.** ①==**小型化，微型化**== `the N of N` / `N N` [技术]；
 
 > [!tip] 原型义
 > **原型义**：使东西变小的过程
@@ -120,7 +120,8 @@ miniatur(e)(小型，拉丁语 *minutus* 小的) + -ization(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The miniaturization of electronic components has been a key driver of technological progress."（电子元件的小型化一直是技术进步的关键驱动力——常见科技表达）
+> - `[例]` The miniaturization of electronic components has been a key driver of technological progress. [C]
+> - `[例]` Advances in miniaturization have enabled the development of powerful devices that fit in the palm of your hand. [C]
 
 ## 复习记录
 

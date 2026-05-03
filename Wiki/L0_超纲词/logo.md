@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标识，商标，标志**==；
+**n.** ①==**标识，商标，标志**== `N N` [商业]；`V N` [商业]；
 
 > [!tip] 原型义
 > **原型义**：用文字/符号代表某物（来自希腊语 *logos* = 词、话语→logogram = 用符号代表词→logo = 标志）
@@ -123,8 +123,8 @@ log-（来自希腊语 *logos*，词、话语、理性）→ logo（logogram 的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company's logo, a simple swoosh, has become one of the most recognized symbols in the world."（该公司的标志——一个简单的对勾——已成为世界上最受认可的符号之一——商业语料）
-> - "Apple's bitten apple logo is instantly recognizable across the globe."（苹果公司被咬了一口的苹果标志在全球范围内瞬间可辨——品牌语料）
+> - `` `[例]` `` "The company's logo, a simple swoosh, has become one of the most recognized symbols in the world."
+> - `` `[例]` `` "Apple's bitten apple logo is instantly recognizable across the globe."
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可测量的，可量化的**==；②明显的，显著的；
+**adj.** ①==**可测量的，可量化的**== `be adj prep N` `adj N` [正式]；②==**明显的，显著的**== `a adj N` `adj N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：可测量的（能够被量化的）
@@ -125,7 +125,8 @@ measure（测量）+ -able（可被……的）→ 可被测量的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The new policy has led to a measurable improvement in air quality across the region."（新政策已导致该地区空气质量出现可测量的改善）
+> - `` `[例]` `` The new policy has led to a measurable improvement in air quality across the region. [C]
+> - `` `[例]` `` Teachers need to use measurable criteria to evaluate student performance fairly. [C]
 
 ## 复习记录
 

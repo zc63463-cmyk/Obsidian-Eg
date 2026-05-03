@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**割（草），修剪草坪**==；②（引申）扫射，摧毁；
+**v.** ①==**割（草），修剪草坪**== `V N` [日常]；②==**扫射，摧毁**== `V N down` [军事]；
 **n.** ①干草堆（haystack 的变体）；
 
 > [!tip] 原型义
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Every Saturday morning, he would mow the lawn before the sun got too hot."（每个星期六早上，他都会在太阳变得太热之前修剪草坪——常见日常/文学表达）
+> - `[例]` Every Saturday morning, he would mow the lawn before the sun got too hot. [C]
+> - `[例]` Machine-gun fire mowed down the advancing soldiers in a matter of seconds. [C]
 
 ## 复习记录
 

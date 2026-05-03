@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**临时凑合的，权宜的**==；②临时替代的；
+**adj.** ①==**临时凑合的，权宜的**== `adj N` [通用]；②==**临时替代的**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：临时凑合做成的（替代品）
@@ -117,7 +117,8 @@ make（制作）+ shift（转移/替换）→ 临时转移用途来制作的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The refugees were housed in makeshift shelters at the border."（难民被安置在边境的临时避难所中）
+> - `` `[例]` The refugees were housed in makeshift shelters at the border.`` [C]
+> - `` `[例]` Thousands of families are living in makeshift camps after losing their homes to the earthquake.`` [C]
 
 ## 复习记录
 

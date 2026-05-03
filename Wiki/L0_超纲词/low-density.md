@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**低密度的**==；②人口稀疏的；③（物质）密度低的；
+**adj.** ①==**低密度的**== `adj N` [学术/技术]；②==**人口稀疏的**== `adj N` [地理/规划]；③==**（物质）密度低的**== `adj N` [科学]；
 
 > [!tip] 原型义
 > **原型义**：密度低的（low + density → 单位空间内含量少的）
@@ -130,8 +130,8 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Urban sprawl is characterized by low-density development on the outskirts of cities, which increases car dependency and reduces green space."（城市蔓延的特征是城市边缘的低密度开发，这增加了对汽车的依赖并减少了绿地——城市规划语料）
-> - "Low-density lipoprotein (LDL) cholesterol is often referred to as 'bad' cholesterol because high levels can lead to plaque buildup in arteries."（低密度脂蛋白胆固醇常被称为"坏"胆固醇，因为高水平会导致动脉斑块堆积——医学语料）
+> - `` `[例]` Urban sprawl is characterized by low-density development on the outskirts of cities, which increases car dependency and reduces green space.`` [C]
+> - `` `[例]` Low-density lipoprotein cholesterol is often referred to as "bad" cholesterol because high levels can lead to plaque buildup in arteries.`` [C]
 
 ## 复习记录
 

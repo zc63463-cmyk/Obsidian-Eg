@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**长期存在的，由来已久的**==；②存在已久的（关系、传统等）；
+**adj.** ①==**长期存在的，由来已久的**== `adj N` [通用]；`adj N` [通用]；②存在已久的（关系、传统等）`adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：长时间站立的（long + standing → 站了很长时间→存在了很久）
@@ -124,8 +124,8 @@ long（长的）+ standing（站立的，来自 stand）→ **长期存在的**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The longstanding conflict between the two nations has finally been resolved through diplomatic negotiations."（两国之间由来已久的冲突终于通过外交谈判得到解决——国际新闻语料）
-> - "This is a longstanding problem that requires a comprehensive solution rather than quick fixes."（这是一个长期存在的问题，需要综合解决方案而非权宜之计——政策语料）
+> - `` `[例]` `` "The longstanding conflict between the two nations has finally been resolved through diplomatic negotiations."
+> - `` `[例]` `` "This is a longstanding problem that requires a comprehensive solution rather than quick fixes."
 
 ## 复习记录
 

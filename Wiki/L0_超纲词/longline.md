@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**延绳钓（线）**==（渔业）；②长线（一般意义上的长绳/长线）；
-**adj.** ①==**延绳钓的**==；
+**n.** ①==**延绳钓（线）**==（渔业）`N N` [渔业]；`adj N` [渔业]；②长线（一般意义上的长绳/长线）`N of N` [通用]；
+**adj.** ①==**延绳钓的**== `adj N` [渔业]；
 
 > [!tip] 原型义
 > **原型义**：很长的线（long + line → 一条很长的线）
@@ -127,8 +127,8 @@ long（长的）+ line（线）→ **长线；延绳钓线**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Longline fishing is responsible for significant bycatch of sea turtles, seabirds, and sharks."（延绳钓造成了大量海龟、海鸟和鲨鱼的误捕——环保语料）
-> - "The longline fleet set out at dawn, deploying miles of baited hooks across the open ocean."（延绳钓船队在黎明出发，在开阔的洋面上布下数英里长的带饵鱼钩——渔业语料）
+> - `` `[例]` `` "Longline fishing is responsible for significant bycatch of sea turtles, seabirds, and sharks."
+> - `` `[例]` `` "The longline fleet set out at dawn, deploying miles of baited hooks across the open ocean."
 
 ## 复习记录
 

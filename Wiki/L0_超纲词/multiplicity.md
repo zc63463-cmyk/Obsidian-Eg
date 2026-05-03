@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大量，多样性**==；②多重性；
+**n.** ①==**大量，多样性**== `a N of N` [学术]；②==**多重性**== `the N of N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：大量，多样性
@@ -125,7 +125,8 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The problem was caused by a multiplicity of factors, making it difficult to identify a single solution."（这个问题是由大量因素造成的，使得很难找到单一的解决方案——常见学术/分析表达）
+> - `[例]` The problem was caused by a multiplicity of factors, making it difficult to identify a single solution. [C]
+> - `[例]` The multiplicity of languages spoken in the region reflects its rich cultural history. [C]
 
 ## 复习记录
 

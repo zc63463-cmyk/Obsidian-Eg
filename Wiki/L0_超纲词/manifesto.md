@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宣言，声明**==；②（政党或团体的）纲领；
+**n.** ①==**宣言，声明**== `N` [政治/正式]；②==**（政党或团体的）纲领**== `N` [政治]；
 
 > [!tip] 原型义
 > **原型义**：公开宣告的声明（让公众清楚看到的文件）
@@ -120,7 +120,8 @@ manu-（手，拉丁语 *manus*）+ fest（打击，可联想 manifest）→ 用
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The party's election manifesto promised to reduce taxes and increase public spending."（该党的竞选纲领承诺减税并增加公共支出）
+> - `` `[例]` The party's election manifesto promised to reduce taxes and increase public spending.`` [C]
+> - `` `[例]` In their election manifesto, the party proposed increasing taxes to pay for improvements in education.`` [C]
 
 ## 复习记录
 

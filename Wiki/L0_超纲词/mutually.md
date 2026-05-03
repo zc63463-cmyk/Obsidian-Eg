@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**互相地，彼此地**==；②共同地；
+**adv.** ①==**互相地，彼此地**== `adv adj` [通用]；②==**共同地**== `adv V-ed` [通用]；
 
 > [!tip] 原型义
 > **原型义**：互相地，双方地
@@ -124,7 +124,8 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The two countries entered into a mutually beneficial trade agreement."（两国缔结了一项互利的贸易协定——常见政治/经济表达）
+> - `[例]` The two countries entered into a mutually beneficial trade agreement. [C]
+> - `[例]` The two events are mutually exclusive and cannot be scheduled on the same day. [C]
 
 ## 复习记录
 

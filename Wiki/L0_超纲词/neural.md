@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**神经的，神经系统的**==；②（计算机）神经网络的；
+**adj.** ①==**神经的，神经系统的**== `neural pathways` `adj N` [学术/正式]；②==**（计算机）神经网络的**== `neural network` `adj N` [技术/正式]；
 
 > [!tip] 原型义
 > **原型义**：神经的（与神经系统相关的）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Neural networks have revolutionized the field of artificial intelligence."（神经网络彻底改变了人工智能领域。）
-> - "Damage to neural pathways can result in loss of motor function."（神经通路受损可能导致运动功能丧失。）
+> - `` `[例]` `` Neural networks have revolutionized the field of artificial intelligence. [C]
+> - `` `[例]` `` Damage to neural pathways can result in loss of motor function. [C]
 
 ## 复习记录
 

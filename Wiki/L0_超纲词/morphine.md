@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**吗啡**==；
+**n.** ①==**吗啡**== `N` [医学]；
 
 > [!tip] 原型义
 > **原型义**：从鸦片中提取的强效镇痛药
@@ -119,7 +119,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Morphine remains one of the most effective painkillers available in medicine."（吗啡仍然是医学上最有效的止痛药之一——常见医学表达）
+> - `[例]` Morphine remains one of the most effective painkillers available in medicine. [C]
+> - `[例]` The patient was given a small dose of morphine to manage the post-operative pain. [C]
 
 ## 复习记录
 

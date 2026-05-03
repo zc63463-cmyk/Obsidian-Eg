@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**滥用，误用**==；
-**n.** ①滥用，误用；
+**v.** ①==**滥用，误用**== `V N` [通用]；
+**n.** ①==**滥用，误用**== `N of N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：错误地使用
@@ -122,7 +122,8 @@ mis-(错误) + use(使用)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The misuse of personal data by tech companies has raised serious privacy concerns."（科技公司对个人数据的滥用引发了严重的隐私担忧——常见科技/社会表达）
+> - `[例]` The misuse of personal data by tech companies has raised serious privacy concerns. [C]
+> - `[例]` Emergency funds were misused for purposes unrelated to disaster relief. [C]
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**温和地，轻微地**==；②适度地；
+**adv.** ①==**温和地，轻微地**== `be adv adj` [通用]；`adv V-ed` [通用]；②==**适度地**== `adv V-ed` [通用]；
 
 > [!tip] 原型义
 > **原型义**：以温和的、轻微的方式
@@ -126,7 +126,8 @@ mild(温和的，古英语 *milde*) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was mildly surprised by the result."（她对结果感到微微惊讶——常见文学/日常表达）
+> - `[例]` She was mildly surprised by the result.
+> - `[例]` The patient was mildly affected by the medication and experienced only minor side effects.
 
 ## 复习记录
 

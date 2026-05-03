@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**减轻，缓和**==；②缓解（痛苦、损失等）；
+**v.** ①==**减轻，缓和**== `V N` [正式]；②==**缓解（痛苦、损失等）**== `V N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使某种不良情况减轻
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Governments worldwide are taking measures to mitigate the effects of climate change."（世界各国政府正在采取措施减缓气候变化的影响——常见环保/政策表达）
+> - `[例]` Governments worldwide are taking measures to mitigate the effects of climate change. [C]
+> - `[例]` Planting trees along the riverbank helps mitigate the risk of flooding. [C]
 
 ## 复习记录
 

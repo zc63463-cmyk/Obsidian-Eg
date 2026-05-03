@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**里程碑，重要事件**==；②转折点；
+**n.** ①==**里程碑，重要事件**== `adj N` [通用]；`V N` [通用]；②==**转折点**== `N in N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：路程中标记距离的石碑
@@ -122,7 +122,8 @@ mile(英里) + stone(石头)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The invention of the internet was a milestone in human communication."（互联网的发明是人类通信史上的一个里程碑——常见科技/历史表达）
+> - `[例]` The invention of the internet was a milestone in human communication.
+> - `[例]` Reaching one million subscribers marked a significant milestone for the company.
 
 ## 复习记录
 

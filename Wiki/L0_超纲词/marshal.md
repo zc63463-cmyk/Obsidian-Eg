@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**整理，排列，集结**==；②引导，带领；
-**n.** ①元帅；②执法官；
+**v.** ①==**整理，排列，集结**== `V N` [正式]；②==**引导，带领**== `V N` [中性]；
+**n.** ①==**元帅**== `N` [正式]；②==**执法官**== `N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：安排有序（把散乱的事物整理排列好）
@@ -128,7 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The lawyer marshaled all available evidence to support his client's case."（律师整理了所有可用的证据来支持客户的案件）
+> - `[例]` The lawyer marshaled all available evidence to support his client's case. [C]
+> - `[例]` The government marshaled emergency resources to respond to the natural disaster. [C]
 
 ## 复习记录
 

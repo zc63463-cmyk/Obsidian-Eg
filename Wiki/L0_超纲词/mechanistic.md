@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**机械论的，机械式的**==；②死板的，刻板的；
+**adj.** ①==**机械论的，机械式的**== `adj N` `adj approach to N` [学术]；②==**死板的，刻板的**== `adj N` `adj thinking` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：机械论的（用机械原理来解释现象的）
@@ -124,7 +124,8 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Critics argue that a purely mechanistic approach to education fails to account for the complexity of human learning."（批评者认为，纯粹机械式的教育方法无法解释人类学习的复杂性）
+> - `` `[例]` `` Critics argue that a purely mechanistic approach to education fails to account for the complexity of human learning. [C]
+> - `` `[例]` `` The researcher rejected the mechanistic model in favor of a more holistic framework that considers environmental factors. [C]
 
 ## 复习记录
 

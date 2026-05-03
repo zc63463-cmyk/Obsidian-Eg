@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**整洁地，整齐地**==；②灵巧地，巧妙地；③恰好地，正好；
+**adv.** ①==**整洁地，整齐地**== `adv V-ed` [通用]；②==**灵巧地，巧妙地**== `adv V` [通用]；③==**恰好地，正好**== `V adv` [通用]；
 
 > [!tip] 原型义
 > **原型义**：整洁地（整齐有序地）
@@ -127,8 +127,8 @@ neat（整洁的）+ -ly（副词后缀，……地）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The books were neatly arranged on the shelves."（书架上的书排列得整整齐齐。）
-> - "She neatly avoided answering the question."（她巧妙地回避了这个问题。）
+> - `[例]` The books were neatly arranged on the shelves according to author and genre. [C]
+> - `[例]` She neatly avoided answering the question by redirecting the conversation to a different topic. [C]
 
 ## 复习记录
 

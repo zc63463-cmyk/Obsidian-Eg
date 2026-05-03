@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**市场，集市**==；②商业界，商场；③（抽象的）竞争市场；
+**n.** ①==**市场，集市**== `N` [通用]；②==**商业界，商场**== `the N` [商业]；③==**（抽象的）竞争市场**== `the N` [商业/学术]；
 
 > [!tip] 原型义
 > **原型义**：交易市场（买卖双方聚集进行交易的地方）
@@ -122,7 +122,8 @@ market（市场）+ place（地方）→ 进行交易的地方
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "In today's global marketplace, companies must adapt quickly to changing consumer demands."（在当今的全球市场中，公司必须快速适应不断变化的消费者需求）
+> - `` `[例]` In today's global marketplace, companies must adapt quickly to changing consumer demands.`` [C]
+> - `` `[例]` The company has struggled to survive in a rapidly changing marketplace where new competitors emerge constantly.`` [C]
 
 ## 复习记录
 

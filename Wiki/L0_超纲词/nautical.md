@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**航海的，船舶的，海员的**==；
+**adj.** ①==**航海的，船舶的，海员的**== `adj N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：航海的（与船只和航行相关的）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The nautical museum displays artifacts from centuries of seafaring."（航海博物馆展示了数百年航海的文物。）
-> - "Nautical charts are essential for safe navigation at sea."（航海图对于海上安全航行至关重要。）
+> - `[例]` The nautical museum displays artifacts from centuries of seafaring history. [C]
+> - `[例]` Nautical charts are essential for safe navigation at sea and must be updated regularly. [C]
 
 ## 复习记录
 

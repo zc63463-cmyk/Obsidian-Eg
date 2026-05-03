@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**放错地方，遗失**==；②把（感情、信任等）寄托错对象；
+**v.** ①==**放错地方，遗失**== `V N` [通用]；②==**把（感情、信任等）寄托错对象**== `V N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：把东西放错了地方
@@ -123,7 +123,8 @@ mis-(错误) + [[place|pos-pon-posit]](放置，拉丁语 *placea*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many investors misplaced their confidence in the company's financial projections."（许多投资者把信心错误地寄托在了公司的财务预测上——常见商业表达）
+> - `[例]` Many investors misplaced their confidence in the company's financial projections. [C]
+> - `[例]` She frequently misplaced her keys and had to search the entire house. [C]
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**冶金学，冶金术**==；
+**n.** ①==**冶金学，冶金术**== `study N` [学术]；`advances in N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：金属的科学与工艺
@@ -120,7 +120,8 @@ metall(金属，希腊语 *metallon*) + -urgy(工艺/技术，希腊语 *ergon* 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Advances in metallurgy made the Industrial Revolution possible."（冶金学的进步使工业革命成为可能——常见历史/科技表达）
+> - `[例]` Advances in metallurgy made the Industrial Revolution possible.
+> - `[例]` The university offers a degree program in metallurgy and materials science.
 
 ## 复习记录
 

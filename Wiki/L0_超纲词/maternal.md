@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**母亲的，母亲般的**==；②母系的；
+**adj.** ①==**母亲的，母亲般的**== `adj N` [中性]；②==**母系的**== `adj N` [中性/学术]；
 
 > [!tip] 原型义
 > **原型义**：母亲的（与母亲相关的）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Studies have shown that maternal care in the early years of life has a profound impact on a child's emotional development."（研究表明，生命早期的母亲照料对儿童的情感发展有深远影响）
+> - `[例]` Studies have shown that maternal care in the early years of life has a profound impact on a child's emotional development. [C]
+> - `[例]` She inherited the family estate through her maternal lineage, tracing the property back to her great-grandmother. [C]
 
 ## 复习记录
 

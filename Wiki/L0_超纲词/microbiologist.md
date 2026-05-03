@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**微生物学家**==；
+**n.** ①==**微生物学家**== `N V that-clause` [学术]；`adj N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：研究微生物的科学家
@@ -120,7 +120,8 @@ micro-(微小，希腊语 *mikros*) + bio(生命，希腊语 *bios*) + -logist(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Microbiologists have identified a new strain of antibiotic-resistant bacteria."（微生物学家已经发现了一种新的耐药菌菌株——常见科学/医学表达）
+> - `[例]` Microbiologists have identified a new strain of antibiotic-resistant bacteria.
+> - `[例]` A team of microbiologists is working to develop a vaccine against the emerging virus.
 
 ## 复习记录
 

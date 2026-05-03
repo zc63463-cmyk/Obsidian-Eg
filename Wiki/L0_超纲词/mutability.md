@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**易变性，可变性**==；
+**n.** ①==**易变性，可变性**== `the N of N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：可变性，易变的性质
@@ -125,7 +125,8 @@ mut(变化，拉丁语 *mutare*) + -abil(可被) + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The mutability of public opinion makes it difficult for politicians to formulate long-term policies."（公众舆论的易变性使得政治家难以制定长期政策——常见政治/社会表达）
+> - `[例]` The mutability of public opinion makes it difficult for politicians to formulate long-term policies. [C]
+> - `[例]` The mutability of language is both a challenge and a source of creative expression for writers throughout history. [C]
 
 ## 复习记录
 

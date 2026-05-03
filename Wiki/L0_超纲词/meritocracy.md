@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**精英管理制，贤能政治**==；②精英管理的社会；
+**n.** ①==**精英管理制，贤能政治**== `the N of N` `adj N` [正式/学术]；②==**精英管理的社会**== `a N` `adj society` [正式/学术]；
 
 > [!tip] 原型义
 > **原型义**：由才能决定地位的社会制度
@@ -124,7 +124,8 @@ merit(优点，才能，拉丁语 *meritum*) + cracy(统治，希腊语 *kratos*
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The belief in meritocracy is deeply embedded in modern education systems."（对精英管理制的信念深深植根于现代教育体系中——常见学术表达）
+> - `` `[例]` `` The belief in meritocracy is deeply embedded in modern education systems. [C]
+> - `` `[例]` `` Critics argue that the so-called meritocracy often reproduces existing social inequalities rather than eliminating them. [C]
 
 ## 复习记录
 
