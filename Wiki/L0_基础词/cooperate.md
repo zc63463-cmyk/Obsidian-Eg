@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**合作，协作**==；②配合，协力；
+**v.** ①==**合作，协作**== `V with N` `V in/on N`；②==**配合，协力**== `V with N`；
 
 > [!tip] 原型义
 > **原型义**：共同工作（一起劳动，朝同一目标努力）
@@ -125,8 +125,9 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two countries agreed to cooperate in the fight against terrorism."（两国同意在反恐斗争中合作——考研阅读高频表达）
-> - "Local communities need to cooperate with the government to address environmental issues."（当地社区需要与政府合作解决环境问题——学术写作常见表达）
+> - The two companies have cooperated in joint ventures for the past several years. `[COCA-NEWS]`
+> - The Spanish authorities cooperated with the British police in finding the terrorists. `[COCA-NEWS]`
+> - A spokesman said the company would cooperate fully with the regulatory authorities. `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**国家**==；②==**乡村，农村**==；③国民，人民；
+**n.** ①==**国家**== `a developing/developed country` [通用]；②==**乡村，农村**== `live in the country` [通用]；③国民，人民 `the whole country` [通用]；
 
 > [!tip] 原型义
 > **原型义**：对面的土地（与城市相对的广阔土地）
@@ -127,7 +127,10 @@ country 源自古法语 *contrée*（地区、领地），来自拉丁语 *contr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Developing countries face unique challenges in the global economy."（发展中国家在全球经济中面临独特的挑战。）
+> - Developing countries face unique challenges in the global economy. `[真题]`
+> - They drove across the country from California to New York. `[语料库]`
+> - The whole country was stunned by the news. `[语料库]`
+> - Canada is a developed country with a strong economy. `[真题]`
 
 
 ---

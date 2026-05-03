@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**疯狂的，发疯的**==；②狂热的，热衷的；③荒唐的，不合理的；
+**adj.** ①==**疯狂的，发疯的**== `go crazy / drive sb. crazy` [口语]；②狂热的，热衷的 `crazy about` [口语]；③荒唐的，不合理的 `a crazy idea` [口语]；
 
 > [!tip] 原型义
 > **原型义**：破裂的、碎裂的（像碎裂的陶器一样布满裂纹）
@@ -127,8 +127,9 @@ craz-(碎裂，源自古诺斯语 *krasa* "shatter") + -y(形容词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It would be crazy to expect that the economy will recover quickly."（指望经济快速复苏是荒唐的）
-> - "She is crazy about learning foreign languages."（她对学习外语非常着迷）
+> - It is crazy to think he will ever change his mind about the decision. `[真题]`
+> - Work is driving me crazy at the moment with all these deadlines. `[真题]`
+> - When he came on stage the audience went crazy and cheered for minutes. `[真题]`
 
 
 ---

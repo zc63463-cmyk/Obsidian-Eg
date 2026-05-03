@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**巩固，加强**==；②==**合并，联合**==（企业、权力等）；③==**使巩固，使结实**==；
+**v.** ①==**巩固，加强**== `V N` [正式]；②==**合并，联合**== `V N` [商业]；③==**使巩固，使结实**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：把松散的东西共同变成坚实的整体
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The newly elected leader moved quickly to consolidate power by appointing loyal allies to key positions within the government."（新当选的领导人迅速采取行动巩固权力，将忠诚的盟友任命到政府内的关键职位——考研阅读政治话题相关表达）
-> - "Many students find it helpful to consolidate their knowledge by creating mind maps and summary notes after each lecture."（许多学生发现，在每次讲座后通过制作思维导图和总结笔记来巩固知识很有帮助——考研阅读教育话题相关表达）
+> - "The question is: will the junta consolidate its power by force?" `[COCA-ACAD]`
+> - "The lower fees have forced many independent practices to go out of business or consolidate." `[COCA-NEWS]`
+> - "Between 1992 and 2002 the country was returning to and consolidating civilian rule." `[COCA-ACAD]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**应对，处理**==（cope with）；②（成功地）对付，应付；
+**v.** ①==**应对，处理**== `V with N`；②==**（成功地）对付，应付**== `V with N`；
 
 > [!tip] 原型义
 > **原型义**：交锋（在战斗中与对手交手，旗鼓相当）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He couldn't cope with the stresses and strains of the job."（他无法应对这份工作的压力——考研阅读高频表达）
-> - "Desert plants are adapted to cope with extreme heat."（沙漠植物适应了应对极端高温——学术写作常见表达）
+> - He had so much pressure on him in his job that eventually he just couldn't cope. `[COCA-FIC]`
+> - It must be really hard to cope with four children under 5. `[COCA-FIC]`
+> - The hospitals do not have enough money to cope with the numbers of patients. `[COCA-NEWS]`
 
 
 ---

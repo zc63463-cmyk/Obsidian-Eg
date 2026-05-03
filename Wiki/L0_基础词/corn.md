@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谷物，小麦**==（英式）；②==**玉米**==（美式）；③鸡眼（脚上的硬皮）；
-**v.** ①腌制（谷物）；
+**n.** ①==**谷物，小麦**==（英式） `corn field` [英式]；②==**玉米**==（美式） `corn on the cob / corn syrup` [美式]；③==**鸡眼**==（脚上的硬皮） `a corn on the foot` [医学]；
+**v.** ①==**腌制（谷物）**== `corned beef` [烹饪]；
 
 > [!tip] 原型义
 > **原型义**：谷物（泛指粮食作物，尤指当地主要谷物）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - corn 在考研中多出现在农业、食品、经济类阅读中
-> - corn subsidies（玉米补贴）、corn production（玉米产量）为常见搭配
+> - Since the US government has been subsidizing ethanol, the price of corn for food is rising. `[真题]`
+> - Due to large government subsidies, the growth of corn-based ethanol has been nothing short of meteoric. `[真题]`
+> - Corn converted into fuel for cars is corn that isn't converted into fuel for humans. `[真题]`
 
 
 ---

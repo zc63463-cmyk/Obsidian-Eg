@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**通信者，通信联系人**==；②==**记者，通讯员**==；
-**adj.** ①符合的，一致的；
+**n.** ①==**通信者，通信联系人**== `a regular correspondent` [正式]；②==**记者，通讯员**== `war correspondent / foreign correspondent` [新闻]；
+**adj.** ①==**符合的，一致的**== `correspondent with the facts` [正式]；
 
 > [!tip] 原型义
 > **原型义**：通信者（互相回应的人，[[correspond]] + -ent 人）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - correspondent 在考研中多出现在新闻、媒体、战争类阅读中
-> - war correspondent, foreign correspondent 为常见搭配
+> - In her latest dispatch, our war correspondent reported an increase in fighting. `[真题]`
+> - He joined ABC as its chief foreign correspondent in 2000. `[真题]`
+> - Perhaps her most productive period was her five-year stint as a foreign correspondent in New York. `[真题]`
 
 
 ---

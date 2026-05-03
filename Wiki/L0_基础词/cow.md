@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**母牛，奶牛**==；
-**v.** ①==**恐吓，威胁**==；
+**n.** ①==**母牛，奶牛**== `dairy cow` [通用] `cash cow` [商务]；
+**v.** ①==**恐吓，威胁**== `cow someone into doing` [书面]；
 
 > [!tip] 原型义
 > **原型义**：母牛，奶牛（大型雌性产乳家畜）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's flagship product has been a reliable cash cow for years."（该公司的旗舰产品多年来一直是可靠的摇钱树）
-> - "He was cowed into silence by the threat."（他被威胁吓得不敢出声）
+> - The protesters had been cowed into submission by the police. `[语料库]`
+> - The dictator has succeeded in cowing his public opponents into near silence. `[语料库]`
+> - He should have been cowed and compromised by fear and debt, but he was not. `[语料库]`
 
 
 ---

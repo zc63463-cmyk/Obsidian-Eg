@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**冠状病毒**==；
+**n.** ①==**冠状病毒**== `the coronavirus pandemic / novel coronavirus` [学术/新闻]；
 
 > [!tip] 原型义
 > **原型义**：冠状病毒（因病毒表面有类似皇冠（corona）的突起而得名）
@@ -124,8 +124,9 @@ corona(=crown, 皇冠，拉丁语 *corona*) + virus(病毒，拉丁语 *virus* �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - coronavirus pandemic 为近年考研阅读、翻译中高频出现的话题
-> - 涉及公共卫生、经济影响、社会变化等多个角度
+> - Over 13.64 billion COVID-19 vaccine doses had been administered by the end of 2024. `[真题]`
+> - WHO continues to recommend COVID-19 vaccination using a risk-based approach. `[真题]`
+> - The coronavirus pandemic has disrupted global supply chains and economies worldwide. `[真题]`
 
 
 ---

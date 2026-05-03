@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**长沙发，长椅**==；②诊察台（心理治疗中使用的躺椅）；
-**v.** ①表达，措辞；
+**n.** ①==**长沙发，长椅**== `lie/sit on the couch` [通用]；②诊察台（心理治疗中使用的躺椅） `the analyst's couch` [学术]；
+**v.** ①表达，措辞 `couch sth in diplomatic terms` [正式]；
 
 > [!tip] 原型义
 > **原型义**：躺卧之处（供人躺卧休息的长椅）
@@ -123,7 +123,10 @@ couch 源自古法语 *coucher*（躺下），与拉丁语 *collocare*（放置�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The response was couched in diplomatic language."（回答措辞委婉。）
+> - The response was couched in diplomatic language. `[真题]`
+> - I am particularly concerned about the fact that we seem to have become a nation of couch potatoes. `[语料库]`
+> - She in turn has become a couch potato, watching old movies and ordering take out. `[语料库]`
+> - His refusal was couched in polite but firm language. `[语料库]`
 
 
 ---

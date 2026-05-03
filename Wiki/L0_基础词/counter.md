@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**柜台，计数器**==；②对策，反驳；
-**v.** ①==**反对，反击**==；②反驳，对抗；
-**adv.** ①相反地，对立地；
-**adj.** ①相反的，对立的；
+**n.** ①==**柜台，计数器**== `over/under the counter` [通用]；②对策，反驳 `a counter argument/measure` [正式]；
+**v.** ①==**反对，反击**== `counter an argument/attack` [正式]；②反驳，对抗 `counter a proposal` [正式]；
+**adv.** ①相反地，对立地 `run counter to` [正式]；
+**adj.** ①相反的，对立的 `counter evidence` [正式]；
 
 > [!tip] 原型义
 > **原型义**：对面，相反方向（面对面的位置）
@@ -137,8 +137,10 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The findings run counter to the expectations of the researchers."（研究结果与研究人员的预期相反。）
-> - "Over-the-counter drugs are available without a prescription."（非处方药无需处方即可购买。）
+> - The findings run counter to the expectations of the researchers. `[真题]`
+> - Over-the-counter drugs are available without a prescription. `[真题]`
+> - A counter-argument to this hypothesis is that what is toxic to mammals is not necessarily toxic to invertebrates. `[语料库]`
+> - The prime minister is to meet his European counterparts to discuss the war against drugs. `[语料库]`
 
 
 ---

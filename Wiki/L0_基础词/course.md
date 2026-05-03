@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**课程，科目**==；②==**过程，进程**==；③路线，方向；④一道菜；⑤球场；
+**n.** ①==**课程，科目**== `take a course` [通用] `course of study` [正式]；②==**过程，进程**== `in the course of` [通用] `stay the course` [通用]；③路线，方向；④一道菜；⑤球场；
 **v.** ①==**流淌，快速移动**==；
 
 > [!tip] 原型义
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the course of the investigation, several new facts came to light."（在调查过程中，几个新的事实浮出水面）
-> - "She decided to stay the course despite the difficulties."（尽管困难重重，她决定坚持到底）
+> - In the course of the investigation, several new facts came to light. `[真题]`
+> - She decided to stay the course despite the difficulties. `[语料库]`
+> - They're going away on a training course next week. `[语料库]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**懦夫，胆小鬼**==；
-**adj.** ①==**胆小的，懦弱的**==；
+**n.** ①==**懦夫，胆小鬼**== `call someone a coward` [通用] `a bully is always a coward` [谚语]；
+**adj.** ①==**胆小的，懦弱的**== `coward behavior` [通用]；
 
 > [!tip] 原型义
 > **原型义**：遇到危险就退缩的人（缺乏勇气的人）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Only a coward would run away from his responsibilities."（只有懦夫才会逃避自己的责任）
-> - "His cowardice in the face of danger cost lives."（他在危险面前的懦弱导致了生命损失）
+> - They branded her a coward for informing on her colleagues during the interrogation. `[语料库]`
+> - He despised himself for being such a coward. `[语料库]`
+> - Many civil servants are moral cowards. `[语料库]`
 
 
 ---

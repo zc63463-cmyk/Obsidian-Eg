@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**沉思，深思**==；②盘算，考虑；③凝视，注视；
+**v.** ①==**沉思，深思**== `V N`；②盘算，考虑 `V N` / `V -ing`；③凝视，注视 `V N`；
 
 > [!tip] 原型义
 > **原型义**：在一起注视——在一个地方仔细端详
@@ -125,8 +125,9 @@ con-(=com-, 共同/一起) + templ(=temple, 圣殿/观察场所，拉丁语 *tem
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She sat by the window, contemplating the meaning of the letter she had just received."（她坐在窗边，沉思着刚收到的那封信的含义）
-> - "The company is contemplating expanding its business into overseas markets."（公司正在考虑将业务扩展到海外市场）
+> - "I'm contemplating going abroad for a year." `[COCA-SPOK]`
+> - "They were contemplating a move to California." `[COCA-FICT]`
+> - "It's too awful to contemplate." `[COCA-FICT]`
 
 
 ---

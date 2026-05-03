@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**资格证书，资历证明**==；②（证明身份、能力的）证书、文凭；③信任状；
+**n.** ①==**资格证书，资历证明**== `academic credentials` [正式]；②（证明身份、能力的）证书、文凭 `present one's credentials` [正式]；③信任状 `diplomatic credentials` [外交]；
 
 > [!tip] 原型义
 > **原型义**：使人相信的东西（能让人产生信任的凭据）
@@ -129,8 +129,9 @@ cred-(相信，拉丁语 *credere* "to believe/trust") + -ent(名词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The candidate's academic credentials are impressive, but what matters more is practical experience."（这位候选人的学术资历令人印象深刻，但更重要的是实践经验）
-> - "She presented her credentials to the committee before the interview."（她在面试前向委员会出示了资格证书）
+> - Her academic credentials include a bachelor's degree in biology and a master's degree in chemistry. `[真题]`
+> - Only candidates with proper credentials will be considered for the position. `[真题]`
+> - The university verified his academic credentials during the application process. `[真题]`
 
 
 ---

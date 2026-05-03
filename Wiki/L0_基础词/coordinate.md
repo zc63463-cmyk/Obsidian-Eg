@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**协调，调节**==；②使协调一致；
-**n.** ①坐标；②同位者（同等地位的人）；
-**adj.** ①同等的，并列的；②坐标的；
+**v.** ①==**协调，调节**== `V N` `V with N`；②使协调一致；
+**n.** ①==**坐标**==；②同位者（同等地位的人）；
+**adj.** ①==**同等的，并列的**==；②坐标的；
 
 > [!tip] 原型义
 > **原型义**：同等排序（使各部分处于同等秩序中）
@@ -133,8 +133,9 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need someone to coordinate the various departments."（我们需要有人来协调各个部门——考研阅读高频表达）
-> - "The government should coordinate its policies to promote economic growth."（政府应协调各项政策以促进经济增长——学术写作常见表达）
+> - A number of charities are coordinating their efforts to distribute food to the region. `[COCA-NEWS]`
+> - Cambridge University is to coordinate an international effort to find out how the Chernobyl disaster caused a huge increase in child cancer. `[COCA-NEWS]`
+> - The Red Cross is coordinating relief aid to the refugees. `[COCA-NEWS]`
 
 
 ---

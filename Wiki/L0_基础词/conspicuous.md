@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**显眼的，引人注目的**==；②==**明显的**==；③==**出众的**==（conspicuous success）；
+**adj.** ①==**显眼的，引人注目的**== `ADJ N`；②==**明显的**== `ADJ N`；③==**出众的**== `ADJ N`；
 
 > [!tip] 原型义
 > **原型义**：大家共同看得清清楚楚
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conspicuous absence of any mention of climate change in the government's environmental policy document raised concerns among environmentalists."（政府环境政策文件中对气候变化的明显缺席引起了环保主义者的担忧——考研阅读环境话题相关表达）
-> - "Despite her conspicuous success in the business world, she remained remarkably humble and attributed her achievements to the support of her team."（尽管她在商界取得了出众的成功，她依然非常谦虚，将自己的成就归功于团队的支持——考研阅读人物描写相关表达）
+> - "He tried not to look conspicuous and moved slowly along the back of the room." `[COCA-FICT]`
+> - "Many of the old portraits have been taken down or moved to a less conspicuous place." `[COCA-ACAD]`
+> - "The business was a conspicuous success." `[COCA-NEWS]`
 
 
 ---

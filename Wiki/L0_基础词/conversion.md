@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**转变，转化**==；②==**转换**==；③皈依，改变信仰；
+**n.** ①==**转变，转化**== `U/C` `~ of N into/to N`；②==**转换**== `U/C` `~ of N`；③皈依，改变信仰 `U/C` `~ to N`；
 
 > [!tip] 原型义
 > **原型义**：共同转向——一起转向新的方向
@@ -127,8 +127,9 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conversion of forests into farmland has led to significant environmental problems."（森林转化为农田导致了严重的环境问题）
-> - "The conversion rate of website visitors to customers is a key metric for online businesses."（网站访客转化为客户的转化率是线上企业的关键指标）
+> - Conversion to gas central heating will save you a lot of money. `[COCA-ACAD]`
+> - There are no charges for currency conversion. `[COCA-NEWS]`
+> - A loft conversion can add considerably to the value of a house. `[COCA-NEWS]`
 
 
 ---

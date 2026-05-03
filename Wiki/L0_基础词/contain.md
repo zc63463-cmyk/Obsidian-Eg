@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**包含，容纳**==；②控制，遏制（防止扩散）；③克制，抑制（情绪）；
+**v.** ①==**包含，容纳**== `V N`；②控制，遏制 `V N`；③克制，抑制 `V N`；
 
 > [!tip] 原型义
 > **原型义**：包含在内（把东西放在容器里不让出去）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The report contains important information about climate change.（这份报告包含关于气候变化的重要信息。）
-> - Firefighters managed to contain the blaze before it spread to nearby buildings.（消防员成功遏制了火势，阻止了它蔓延到附近的建筑。）
+> - "The allegations contained in this report are very serious." `[COCA-NEWS]`
+> - "The police were unable to contain the fighting." `[COCA-NEWS]`
+> - "Your stomach contains acid to help you digest your food." `[COCA-ACAD]`
 
 
 ---

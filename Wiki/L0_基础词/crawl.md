@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**爬行，匍匐前进**==；②缓慢移动；③（网页）爬取；
-**n.** ①爬行；②自由泳；③缓慢的速度；
+**v.** ①==**爬行，匍匐前进**== `crawl on hands and knees` [通用]；②缓慢移动 `traffic crawls` [通用]；③（网页）爬取 `web crawler` [技术]；
+**n.** ①爬行 `at a crawl` [通用]；②自由泳 `do the crawl` [通用]；③缓慢的速度 `slow to a crawl` [通用]；
 
 > [!tip] 原型义
 > **原型义**：身体贴地缓慢移动（像爬行动物一样贴着地面移动）
@@ -127,8 +127,9 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The traffic was crawling along the highway during rush hour."（高峰期高速公路上的交通缓慢移动）
-> - "The wall was crawling with insects."（墙上爬满了昆虫）
+> - There had been a bad accident on the highway and traffic was crawling. `[真题]`
+> - We spent an hour crawling around on our hands and knees looking for the key. `[真题]`
+> - The days slowly crawled by as we waited for the results of the examination. `[真题]`
 
 
 ---

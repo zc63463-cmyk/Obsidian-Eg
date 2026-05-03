@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**合作的，协作的**==；②==**乐意配合的**==；
-**n.** ①合作社；
+**adj.** ①==**合作的，协作的**== `adj N`；②==**乐意配合的**== `be cooperative with N`；
+**n.** ①==**合作社**==；
 
 > [!tip] 原型义
 > **原型义**：有合作倾向的（愿意一起工作的）
@@ -127,8 +127,9 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The patient was cooperative during the examination."（病人在检查过程中非常配合——医学英语高频表达）
-> - "Cooperative learning has been shown to improve students' academic performance."（合作学习已被证明能提高学生的学业表现——教育学常见表达）
+> - He was an extremely cooperative witness. `[COCA-NEWS]`
+> - Local officials have been very cooperative on working together for a solution. `[COCA-NEWS]`
+> - Awareness of cultural variation and bias and cooperative efforts to develop and administer culturally appropriate assessment tools are the foundation of effective, valid treatment programmes. `[COCA-ACAD]`
 
 
 ---

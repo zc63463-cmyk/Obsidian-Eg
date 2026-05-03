@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**费用，成本，价格**==；②代价，损失；
-**v.** ①花费；②使付出（代价）；③估价；
+**n.** ①==**费用，成本，价格**== `the cost of living/production` [通用]；②代价，损失 `at the cost of one's health` [书面]；
+**v.** ①花费 `It costs $50.` [通用]；②使付出（代价） `cost someone his life/job` [书面]；③估价；
 
 > [!tip] 原型义
 > **原型义**：花费/代价（获得某物需要付出的东西）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rising cost of healthcare has become a major concern."（不断上涨的医疗费用已成为一个主要关注点）
-> - "He achieved success, but at the cost of his health."（他取得了成功，但以健康为代价）
+> - The rising cost of healthcare has become a major concern. `[真题]`
+> - Pensions have not kept pace with the cost of living and the problem is likely to get worse. `[语料库]`
+> - He achieved success, but at the cost of his health. `[真题]`
+> - The increase in interest rates will raise the cost of living. `[语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** /kəmˈpɒzɪt/ ①==**合成的，复合的**==；
-**n.** /ˈkɒmpəzɪt/ ①合成物，复合材料；
+**adj.** /kəmˈpɒzɪt/ ①==**合成的，复合的**== `adj N`；
+**n.** /ˈkɒmpəzɪt/ ①==**合成物，复合材料**== `N`;
 
 > [!tip] 原型义
 > **原型义**：把各部分放在一起形成的
@@ -128,8 +128,10 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Modern aircraft are largely made of composite materials."（现代飞机主要由复合材料制成）
-> - "The index is a composite of several economic indicators."（该指数是多个经济指标的综合）
+> - The main character in her latest novel is a composite of several public figures of that era. ` [COCA-ACAD]`
+> - The bodies of these racing cars are moulded from the same composite that is used for making aircraft. ` [COCA-ACAD]`
+> - Scientists have put together a composite picture of what the earth's crust is like. ` [COCA-ACAD]`
+> - The above composite image captures some of that beauty. ` [COCA-NEWS]`
 
 
 ---

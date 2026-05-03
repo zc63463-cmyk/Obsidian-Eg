@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**服装，戏装，化装服**==；②（特定时期/民族的）服饰；
-**v.** ①给……穿上服装；
+**n.** ①==**服装，戏装，化装服**== `a Halloween/circus costume` [通用]；②（特定时期/民族的）服饰 `traditional/national costume` [正式]；
+**v.** ①给……穿上服装 `be costumed as` [正式]；
 
 > [!tip] 原型义
 > **原型义**：特定场合穿着的服装/戏服
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children dressed in costumes go from door to door on Halloween night."（万圣节晚上，穿着化装服的孩子们挨家挨户敲门）
-> - "The museum displays traditional costumes from various ethnic groups."（博物馆展出了各民族的传统服饰）
+> - In the beer tent you can see locals dressed in traditional costume. `[语料库]`
+> - The dancers leading the procession were in colorful and elaborate costumes. `[语料库]`
+> - She came to the audition in costume as Marie Antoinette. `[语料库]`
+> - The children wore witch costumes for Halloween. `[真题]`
 
 
 ---

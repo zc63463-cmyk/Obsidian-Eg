@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**强制性的，义务的**==；②必修的；
+**adj.** ①==**强制性的，义务的**== `adj N`; ②==**必修的**== `adj N`;
 
 > [!tip] 原型义
 > **原型义**：一起驱使的（被强制推动的）
@@ -126,8 +126,10 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education is compulsory for children between the ages of 6 and 16."（6至16岁儿童必须接受义务教育——教育类高频表达）
-> - "English is a compulsory subject in most Chinese universities."（英语是中国大多数大学的必修课）
+> - English is compulsory for all students, but art and music are optional. ` [COCA-ACAD]`
+> - They proposed making secondary education compulsory up to the age of 18. ` [COCA-NEWS]`
+> - He has just finished a stint of compulsory military service. ` [COCA-NEWS]`
+> - It is compulsory for all motorcyclists to wear helmets. ` [例]`
 
 
 ---

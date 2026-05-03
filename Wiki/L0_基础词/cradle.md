@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**摇篮**==；②发源地，发祥地；③支架，托架；
-**v.** ①==**将...放在摇篮里**==；②孕育，培养；
+**n.** ①==**摇篮**== `rock the cradle` [文学] `from the cradle to the grave` [习语]；②==**发源地，发祥地**== `cradle of civilization` [正式] `cradle of democracy` [正式]；③支架，托架；
+**v.** ①==**将...放在摇篮里**== `cradle sth. in one's arms` [文学]；②孕育，培养；
 
 > [!tip] 原型义
 > **原型义**：摇篮（婴儿睡觉的小床，可轻轻摇晃）
@@ -128,7 +128,9 @@ cradle（源自古英语 *cradol*，可能与古高地日耳曼语 *kratto* 篮�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - Greece was the cradle of western civilization. `[语料库]`
+> - Athens is often regarded as the cradle of democracy. `[语料库]`
+> - Fossil records indicate that Africa was the cradle of early human evolution. `[语料库]`
 
 
 ---

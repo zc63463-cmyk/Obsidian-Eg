@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**连词**==（语法术语）；②==**结合，联合**==；③同时发生
+**n.** ①==**连词**== `C`（语法术语）；②==**结合，联合**== `U`；③==**同时发生**== `C`（a conjunction of）；
 
 > [!tip] 原型义
 > **原型义**：连接在一起（把多个东西结合为一个整体）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police worked in conjunction with the army to maintain order."（警方与军队协同维护秩序——考研阅读社会话题高频表达）
-> - "The conjunction of low interest rates and rising demand fueled the housing boom."（低利率与上升需求的结合推动了房地产繁荣——考研经济话题常见表达）
+> - The police worked in conjunction with the army to maintain order. `[COCA-NEWS]`
+> - This offer may not be used in conjunction with any other offer or discount. `[Collins]`
+> - There is a team of writers working in conjunction with each other on the book. `[Cambridge]`
+> - The conjunction of low interest rates and rising demand fueled the housing boom. `[例]`
 
 
 ---

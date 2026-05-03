@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标准，准则**==；②（判断/决策的）依据；
+**n.** ①==**标准，准则**== `selection criterion / meet the criterion`；②（判断/决策的）依据 `the main criterion for decision`；
 
 > [!tip] 原型义
 > **原型义**：判断的工具（用来筛选、分辨、决定的尺度）
@@ -129,7 +129,10 @@ krit-（判断、分辨，希腊语 *krī́nein* 的变体 *kri-*）+ -terion（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - We're looking for a very specific sort of person and this woman seems to fulfil all of our criteria. `[真题]`
+> - More specific and less subjective criteria should be used in selecting people for promotion within the company. `[真题]`
+> - Inclusion criteria were applied independently by two reviewers, and in case of disagreement, a consensus was reached. `[真题]`
+> - She failed to meet the stringent selection criteria. `[真题]`
 
 
 ---

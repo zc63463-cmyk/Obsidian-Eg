@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**兼容的，能共处的**==；②一致的，不矛盾的；
+**adj.** ①==**兼容的，能共处的**== `adj with N`；②==**一致的，不矛盾的**== `adj with N`；
 
 > [!tip] 原型义
 > **原型义**：能一起被赞美的（值得一起存在的）
@@ -127,8 +127,10 @@ com-(一起) + [[pat|pat-]](承受/赞同，拉丁语 *pati*) + -ible(能够…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new software is not compatible with older operating systems."（新软件与旧操作系统不兼容——技术语境高频）
-> - "Their personalities are highly compatible."（他们的性格非常合得来）
+> - The computer software isn't compatible with your operating system. ` [COCA-ACAD]`
+> - Such policies are not compatible with democratic government. ` [COCA-NEWS]`
+> - Their blood types are not compatible, so we cannot use his blood. ` [COCA-FIC]`
+> - An MP's job is just not compatible with family life, especially when the children are very young. ` [COCA-NEWS]`
 
 
 ---

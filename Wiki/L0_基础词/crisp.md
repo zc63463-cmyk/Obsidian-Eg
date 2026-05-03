@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**脆的，酥脆的**==；②==**清爽的，干冷的**==；③利落的，简洁的；
-**n.** ①==**薯片**（英式英语）；
+**adj.** ①==**脆的，酥脆的**== `a crisp apple / crisp bacon`；②==**清爽的，干冷的**== `crisp autumn air / a crisp winter morning`；③利落的，简洁的 `a crisp reply / crisp writing`；
+**n.** ①==**薯片**== `a packet of crisps`（英式英语）；
 
 > [!tip] 原型义
 > **原型义**：卷曲的（因卷曲而变得干脆的质地）
@@ -130,7 +130,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - The crisp fall air smelled of pine and wood smoke, and colorful leaves glowed against a sky just beginning to cloud. `[真题]`
+> - In a large ovenproof skillet, cook bacon over moderate heat until crisp, about 10 minutes. `[真题]`
+> - The general's voice was crisp and clear as he addressed the meeting. `[真题]`
+> - The sound from the new speakers is very crisp. `[真题]`
+> - Two pints of lager and a packet of crisps, please. `[真题]`
 
 
 ---

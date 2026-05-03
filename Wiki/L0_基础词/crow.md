@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**乌鸦**==；②==**公鸡**==；③鸡叫声；
-**v.** ①==**（公鸡）打鸣**==；②==**自鸣得意，洋洋自夸**==；
+**n.** ①==**乌鸦**== `a crow perched on the fence`；②==**公鸡**== `the cock crow at dawn`；③鸡叫声；
+**v.** ①==**（公鸡）打鸣**== `the rooster crows at dawn`；②==**自鸣得意，洋洋自夸**== `crow about/over one's success`；
 
 > [!tip] 原型义
 > **原型义**：乌鸦（发出刺耳叫声的黑色鸟类）
@@ -128,7 +128,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - He was crowing over winning the bet. `[真题]`
+> - After winning the match, he couldn't resist crowing about it to his friends. `[真题]`
+> - It's ten miles by road, but only six as the crow flies. `[真题]`
+> - He had to eat crow after his prediction failed. `[真题]`
+> - Ben rushed to his father, crowing with pleasure. `[真题]`
 
 
 ---

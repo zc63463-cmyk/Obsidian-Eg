@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**弄脏，污染**==；②使……受放射性污染；③腐蚀，毒害（思想）；
+**v.** ①==**弄脏，污染**== `V N`；②使……受放射性污染 `V N`；③腐蚀，毒害（思想） `V N`；
 
 > [!tip] 原型义
 > **原型义**：污染（有害物质接触并破坏纯净物）
@@ -126,8 +126,9 @@ con-（一起/共同）+ tamin（触摸，来自拉丁语 *tangere* 的变体 *c
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The river was contaminated by industrial waste.（这条河流被工业废料污染了。）
-> - Residents were warned not to consume contaminated food.（居民被警告不要食用受污染的食物。）
+> - "Heavy rains can contaminate drinking and recreational water with sewage, petroleum products, pesticides, herbicides, and waste from farm animals." `[COCA-ACAD]`
+> - "The government recently reported that heavy metals contaminate 12 million tons of grain a year." `[COCA-NEWS]`
+> - "Salmonella can contaminate almost any type of food and most often occurs after eating undercooked foods like poultry and eggs." `[COCA-NEWS]`
 
 
 ---

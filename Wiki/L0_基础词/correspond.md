@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**通信，通信联系**==；②==**符合，一致**==；③相当于，对应；
+**v.** ①==**通信，通信联系**== `correspond with sb. by email` [正式]；②==**符合，一致**== `correspond to the facts / correspond with the description` [学术/正式]；③==**相当于，对应**== `A corresponds to B` [正式]；
 
 > [!tip] 原型义
 > **原型义**：互相通信（通过信件相互回应，拉丁语 *correspondere*：cor-共同 + respondere 回应）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - correspond 在考研中极为高频，correspond to/with 为常见搭配
-> - "The findings correspond to previous research."（这些发现与先前的研究一致。）
+> - The witness's statements correspond with the available evidence. `[真题]`
+> - In some countries, the role of president corresponds to that of prime minister. `[真题]`
+> - They started to correspond two years ago. `[真题]`
 
 
 ---

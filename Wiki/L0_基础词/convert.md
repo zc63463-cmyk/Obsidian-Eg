@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**转变，转化**==；②==**转换**==；③使改变信仰；
-**n.** ①皈依者；
+**v.** ①==**转变，转化**== `V N into/to N`；②==**转换**== `V N into/to N`；③使改变信仰 `V N to N`；
+**n.** ①皈依者 `C`；
 
 > [!tip] 原型义
 > **原型义**：共同转向——一起转向新的方向
@@ -128,8 +128,9 @@ con-(=com-, 共同/完全) + [[ver-vert|vert]](=turn, 转，拉丁语 *vertere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory was converted into a modern art museum."（那座工厂被改建为现代艺术博物馆）
-> - "Solar panels convert sunlight directly into electricity."（太阳能电池板将阳光直接转化为电能）
+> - The hotel is going to be converted into a nursing home. `[COCA-NEWS]`
+> - What rate will I get if I convert my dollars into euros? `[COCA-ACAD]`
+> - By converting the loft, they were able to have two extra bedrooms. `[COCA-NEWS]`
 
 
 ---

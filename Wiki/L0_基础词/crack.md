@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（使）破裂，砸开**==；②发出爆裂声；③破解，解决；④崩溃，垮掉；
-**n.** ①==**裂缝，裂纹**==；②爆裂声；③尝试，机会；④（美俚）强效可卡因；
+**v.** ①==**（使）破裂，砸开**== `crack the code` [通用] `crack a joke` [口语]；②发出爆裂声；③破解，解决；④崩溃，垮掉；
+**n.** ①==**裂缝，裂纹**== `a crack in the wall` [通用]；②爆裂声；③尝试，机会；④（美俚）强效可卡因；
 
 > [!tip] 原型义
 > **原型义**：破裂（硬物受力后出现裂缝）
@@ -134,7 +134,9 @@ crack（拟声词，模拟硬物破裂时发出的"咔嚓"声，中古英语 *cr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - They cracked the code and read the secret message. `[语料库]`
+> - Some young executives crack under the pressure of having to meet tough sales targets every month. `[语料库]`
+> - He has finally cracked the system after years of painstaking research. `[语料库]`
 
 
 ---

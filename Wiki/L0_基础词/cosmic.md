@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**宇宙的，宇宙范围的**==；②极大的，无比的；
+**adj.** ①==**宇宙的，宇宙范围的**== `cosmic rays/dust` [学术]；②极大的，无比的 `of cosmic proportions/scale` [书面]；
 
 > [!tip] 原型义
 > **原型义**：宇宙的，与整个宇宙相关的
@@ -126,8 +126,10 @@ cosm(宇宙，希腊语 *kosmos*，"秩序、世界") + -ic(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of cosmic microwave background radiation confirmed the Big Bang theory."（宇宙微波背景辐射的发现证实了大爆炸理论）
-> - "Climate change is a threat of cosmic proportions."（气候变化是一个宇宙级别的威胁）
+> - Supernova explosions release tremendous amounts of cosmic rays, as well as other elements. `[语料库]`
+> - The AU is a cosmic measuring rod, and the basis of how we scale the Universe today. `[语料库]`
+> - Climate change is a threat of cosmic proportions. `[真题]`
+> - The discovery of cosmic microwave background radiation confirmed the Big Bang theory. `[语料库]`
 
 
 ---

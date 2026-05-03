@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**罪行，犯罪**==；②==**罪恶，不道德的行为**==；③羞耻的事；
+**n.** ①==**罪行，犯罪**== `commit a crime` [通用]；②==**罪恶，不道德的行为**== `a crime against humanity` [正式]；③羞耻的事 `it's a crime to waste...` [口语]；
 
 > [!tip] 原型义
 > **原型义**：裁决、判定（经过筛选判断后认定为过错的行为）
@@ -128,7 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - She was put in prison for a crime she did not commit. `[真题]`
+> - The massacre was a crime against humanity that shocked the entire world. `[真题]`
+> - It is a crime to waste so much food when millions of people are starving. `[真题]`
 
 
 ---

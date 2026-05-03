@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**正确的，对的**==；②恰当的，合适的；
-**v.** ①==**纠正，改正**==；②校正，校准；
+**adj.** ①==**正确的，对的**== `the correct answer / correct behavior` [通用]；②==**恰当的，合适的**== `correct manners / correct procedure` [正式]；
+**v.** ①==**纠正，改正**== `correct mistakes / correct errors` [通用]；②==**校正，校准**== `correct a misunderstanding` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使变直（拉丁语 *corrigere*：com-一起 + regere 引导/使直）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - correct 在考研中极为高频，correct mistakes, the correct answer 为常见搭配
-> - "Please correct me if I'm wrong."（如果我错了请纠正我。）为常见句式
+> - It will take us some time to correct all the mistakes. `[真题]`
+> - Please correct your essay for punctuation errors. `[真题]`
+> - He corrects papers with a red pen. `[真题]`
 
 
 ---

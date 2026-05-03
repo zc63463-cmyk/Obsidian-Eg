@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**证明……有罪，宣判……有罪**==；
-**n.** ①==**囚犯**==；
+**v.** ①==**证明……有罪，宣判……有罪**== `V N of N` [通常被动]；
+**n.** ①==**囚犯**== `C`；
 
 > [!tip] 原型义
 > **原型义**：彻底说服/证明——用证据彻底证明某人有罪
@@ -124,8 +124,9 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer/convince, 征服/说服
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was convicted of fraud and sentenced to five years in prison."（他被判犯有欺诈罪，判处五年监禁）
-> - "The jury convicted the defendant on all charges."（陪审团判定被告所有指控成立）
+> - There might not have been enough evidence to convict him. `[COCA-ACAD]`
+> - If convicted, the man in question could face up to three years in prison. `[COCA-NEWS]`
+> - Those convicted could face life in prison. `[COCA-NEWS]`
 
 
 ---

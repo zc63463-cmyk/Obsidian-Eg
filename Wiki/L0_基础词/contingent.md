@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**依条件而定的，视……而定的**==；②可能的，偶然的；
-**n.** ①代表团；②小分队；③（事件的）偶然性；
+**adj.** ①==**依条件而定的，视……而定的**== `adj. on/upon N` [正式]；②可能的，偶然的 `adj. N`；
+**n.** ①代表团 `N`；②小分队 `N`；③（事件的）偶然性 `N`；
 
 > [!tip] 原型义
 > **原型义**：依条件而定的（取决于其他事情的发生）
@@ -128,8 +128,9 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Funding for the project is contingent upon government approval.（该项目的资金取决于政府的批准。）
-> - The success of the negotiation is contingent on both parties' willingness to compromise.（谈判的成功取决于双方妥协的意愿。）
+> - Buying the new house was contingent on selling the old one. `[COCA-ACAD]`
+> - The contract is contingent on approval by the Board of Trustees. `[COCA-NEWS]`
+> - The college's admission offer was contingent upon her maintaining her academic performance throughout the year. `[COCA-ACAD]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**铜**==；②铜币；③铜色；
-**adj.** ①铜制的；②铜色的；
+**n.** ①==**铜**==；②==**铜币**==；③铜色；
+**adj.** ①==**铜制的**==；②铜色的；
 
 > [!tip] 原型义
 > **原型义**：铜（一种 reddish-brown 金属元素）
@@ -126,7 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - copper 作为物质名词在考研中多出现在科普类阅读中，涉及材料科学、工业制造等话题。
+> - One of the properties of copper is that it conducts heat and electricity very well. `[COCA-ACAD]`
+> - Brass is an alloy of copper and zinc. `[COCA-ACAD]`
+> - A kind lady stopped, took a copper coin from her purse and dropped it into the cap. `[COCA-FIC]`
 
 
 ---

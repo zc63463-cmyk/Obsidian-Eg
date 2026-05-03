@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**碰撞，坠毁**==；②（计算机）崩溃；③（经济）崩溃，暴跌；④闯入，猛冲；
-**n.** ①==**碰撞，坠毁**==；②（计算机）崩溃；③（经济）崩溃，暴跌；④巨大的撞击声；
+**v.** ①==**碰撞，坠毁**== `crash into` [通用]；②（计算机）崩溃 `the system crashed` [技术]；③（经济）崩溃，暴跌 `stock market crash` [新闻]；④闯入，猛冲 `crash the party` [口语]；
+**n.** ①==**碰撞，坠毁**== `a car / plane crash` [通用]；②（计算机）崩溃 `system crash` [技术]；③（经济）崩溃，暴跌 `stock market crash` [新闻]；④巨大的撞击声 `a loud crash` [通用]；
 
 > [!tip] 原型义
 > **原型义**：猛烈撞击（带有巨大声响的碰撞）
@@ -133,7 +133,9 @@ crash（拟声词，模拟猛烈撞击时发出的"哗啦/砰"声，可能受 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - The application crashed while he was saving his work, causing him to lose unsaved data. `[真题]`
+> - The 1929 stock market crash caused widespread panic and led to the Great Depression. `[真题]`
+> - Economists warned of a potential crash in housing prices if interest rates continue to rise. `[真题]`
 
 
 ---

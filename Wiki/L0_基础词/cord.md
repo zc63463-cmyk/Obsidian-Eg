@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**绳索，细绳**==；②（解剖）索状结构（如 vocal cords 声带）；③电线（power cord 电源线）；
-**v.** ①用绳捆绑；
+**n.** ①==**绳索，细绳**==；②==**（解剖）索状结构**==（如 vocal cords 声带，spinal cord 脊髓）；③==**电线**==（power cord 电源线）；
+**v.** ①==**用绳捆绑**==；
 
 > [!tip] 原型义
 > **原型义**：绳索（细而坚韧的线状物，由多股拧成）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - vocal cords 和 spinal cord 在医学类阅读中常见
-> - power cord 在科技类阅读中出现
+> - She wore the key on a cord around her neck. `[COCA-FIC]`
+> - The disease strikes when nerve cells in the brain and spinal cord stop working. `[COCA-NEWS]`
+> - To open a box, pull on the cord, and it easily rips the tape at the box's seam. `[COCA-NEWS]`
 
 
 ---

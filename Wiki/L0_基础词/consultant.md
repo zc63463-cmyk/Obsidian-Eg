@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**顾问**==；②==**咨询顾问**==（专业领域的）；
+**n.** ①==**顾问**== `N`；②==**咨询顾问**== `N` [专业]；
 
 > [!tip] 原型义
 > **原型义**：被请来共同商议的人
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company hired a team of external consultants to evaluate its organizational structure and recommend strategies for improving operational efficiency."（公司聘请了一组外部顾问来评估其组织结构，并提出提高运营效率的策略建议——考研阅读商业话题相关表达）
-> - "Many experienced professionals choose to work as independent consultants after leaving corporate positions, valuing the flexibility and variety that consulting offers."（许多经验丰富的专业人士在离开企业职位后选择成为独立顾问，看重咨询工作提供的灵活性和多样性——考研阅读职业话题相关表达）
+> - "The former general now serves as a consultant to the Pentagon." `[COCA-NEWS]`
+> - "In her role as a business consultant she travels all over the country." `[COCA-NEWS]`
+> - "She was previously a senior partner at management consultant McKinsey." `[COCA-NEWS]`
 
 
 ---

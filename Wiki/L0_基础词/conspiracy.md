@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阴谋，密谋**==；②==**共谋，同谋**==；③==**阴谋论**==（conspiracy theory）；
+**n.** ①==**阴谋，密谋**== `N` / `N to-inf`；②==**共谋，同谋**== `N`；③==**阴谋论**== `N`；
 
 > [!tip] 原型义
 > **原型义**：多人共同呼吸同一口气密谋
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The authorities uncovered a conspiracy to smuggle endangered wildlife products across international borders, involving a network of dealers and corrupt officials."（当局揭露了一个跨国走私濒危野生动物制品的阴谋，涉及一个由经销商和腐败官员组成的网络——考研阅读法律话题相关表达）
-> - "Despite the overwhelming scientific evidence, conspiracy theories about the safety of vaccines continue to circulate on social media platforms."（尽管有压倒性的科学证据，关于疫苗安全性的阴谋论继续在社交媒体平台上传播——考研阅读科学话题相关表达）
+> - "She has been charged with conspiracy to murder." `[COCA-NEWS]`
+> - "He is guilty of conspiracy to cause criminal damage." `[COCA-NEWS]`
+> - "There are certainly matters that must remain secret and there are certainly conspiracies and plots in our society." `[COCA-ACAD]`
 
 
 ---

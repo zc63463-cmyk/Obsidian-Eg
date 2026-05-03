@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**版权，著作权**==；
-**adj.** ①受版权保护的；
-**v.** ①取得……的版权；
+**n.** ①==**版权，著作权**== `hold/own the copyright`；
+**adj.** ①==**受版权保护的**==；
+**v.** ①==**取得……的版权**==；
 
 > [!tip] 原型义
 > **原型义**：复制的权利（控制作品被复制的法律权利）
@@ -134,8 +134,9 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author holds the copyright to all her published works."（作者拥有其所有已出版作品的版权——考研阅读高频表达）
-> - "Digital technology has made copyright infringement easier than ever."（数字技术使版权侵权变得比以往更容易——学术写作常见表达）
+> - There was a need to develop copyright protection for computer programs. `[COCA-ACAD]`
+> - Copyright law prevents freelance work from being included in electronic archives without permission. `[COCA-ACAD]`
+> - They claim the television company breached copyright when it used some of the footage on one of their DVDs. `[COCA-NEWS]`
 
 
 ---

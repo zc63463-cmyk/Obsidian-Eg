@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**隔间，车厢**==；②分隔的空间；
+**n.** ①==**隔间，车厢**== `N`；②==**分隔的空间**== `N`；
 
 > [!tip] 原型义
 > **原型义**：与其他部分一起紧压分隔的空间
@@ -122,8 +122,10 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She found the key in the glove compartment."（她在杂物箱里找到了钥匙）
-> - "The train has both smoking and non-smoking compartments."（这列火车有吸烟车厢和非吸烟车厢）
+> - She folded her coat and put it in the overhead luggage compartment. ` [COCA-FIC]`
+> - The next day she found the chain in her glove compartment. ` [COCA-NEWS]`
+> - The batteries are safely enclosed in a watertight compartment. ` [例]`
+> - On the way home we shared our first-class compartment with a group of businessmen. ` [例]`
 
 
 ---

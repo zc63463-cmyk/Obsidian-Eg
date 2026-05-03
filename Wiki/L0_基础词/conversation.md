@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**会话，交谈**==；②非正式会谈；
+**n.** ①==**会话，交谈**== `C/U` `have a ~ with N`；②非正式会谈 `C`；
 
 > [!tip] 原型义
 > **原型义**：共同转向（彼此）——两个人转向对方进行交流
@@ -125,8 +125,9 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The art of conversation is becoming increasingly rare in the age of social media."（在社交媒体时代，交谈的艺术正变得越来越罕见）
-> - "They had a lengthy conversation about the future of the company."（他们就公司的未来进行了长时间的交谈）
+> - She had a strange conversation with the man who moved in upstairs. `[COCA-FIC]`
+> - It's impossible to hold a conversation with all this noise going on! `[COCA-FIC]`
+> - He's a talkative guy, and I struck up a conversation with him. `[COCA-FIC]`
 
 
 ---

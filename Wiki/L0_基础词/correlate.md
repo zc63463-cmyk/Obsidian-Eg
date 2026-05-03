@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**相互关联，相互影响**==；②使相互关联；
-**n.** ①相关物，关联物；
+**v.** ①==**相互关联，相互影响**== `A correlates with B` [学术]；②==**使相互关联**== `correlate the data with...` [学术]；
+**n.** ①==**相关物，关联物**== `the correlates of success` [学术]；
 
 > [!tip] 原型义
 > **原型义**：相互关联（共同关联在一起，拉丁语 *correlatus*：cor-共同 + relatus 关联）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - correlate 在考研中多出现在学术研究、数据分析类阅读中
-> - "There is evidence that poverty correlates with poor health outcomes."（有证据表明贫困与健康不良相关。）
+> - Poverty rate explains about 34% of the variation in state murder rates. `[真题]`
+> - These revelations corrode public faith in democracy. `[真题]`
+> - Income levels correlate strongly with access to quality education. `[真题]`
 
 
 ---

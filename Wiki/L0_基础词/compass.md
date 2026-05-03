@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**指南针，罗盘**==；②圆规；③范围，界限；④（复数）仪器；
-**v.** ①围绕，包围；②达到，实现；
+**n.** ①==**指南针，罗盘**== `N`；②==**圆规**== `N`；③==**范围，界限**== `N`；④（复数）仪器；
+**v.** ①==**围绕，包围**== `V N`；②==**达到，实现**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：一起步测的范围
@@ -129,8 +129,10 @@ com-(一起) + [[pass|pass-]](步，经过，拉丁语 *passus* "步")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The problem is within the compass of human understanding."（这个问题在人类理解的范围之内）
-> - "Moral issues compass a wide range of topics."（道德问题涵盖广泛的主题）
+> - We had to use a compass to get here. ` [COCA-FIC]`
+> - Men were in the marketplace and no longer had time to be moral compasses. ` [COCA-ACAD]`
+> - The problem is within the compass of human understanding. ` [例]`
+> - You will need sharp scissors, a ruler, and a pair of compasses for making circles. ` [COCA-ACAD]`
 
 
 ---
