@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使...成为必需；需要**==；②使承担（法律）；③限定继承（法律）；
+**v.** ①==**使...成为必需；需要**== `entail doing sth.` / `entail sth.` ; ②使承担（法律） `entail cost/risk` ; ③限定继承（法律）;
 
 > [!tip] 原型义
 > **原型义**：使某事成为必然的附属结果，不可避免
@@ -125,8 +125,10 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The new regulations will entail significant costs for small businesses."（新规定将给小企业带来巨大的成本。）——考研阅读真题
-> - "The job entails a great deal of travel and irregular working hours."（这份工作需要大量的出差和不规律的工作时间。）——考研高频表达
+> > - "The new regulations will entail significant costs for small businesses." `[真题]`
+> > - "Many students are reluctant to embark on full-time programmes because they entail a career break." `[COCA-ACAD]`
+> > - "The job entailed being on call twenty-four hours a day." `[COCA-ACAD]`
+> > - "Discourse is a social as well as an intellectual activity; it entails interaction between minds." `[COCA-ACAD]`
 
 ---
 

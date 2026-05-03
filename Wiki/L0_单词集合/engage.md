@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-v. ①==**从事；参与**==；②吸引；引起；③雇用；④订婚；
+v. ①==**从事；参与**== `engage in` `engage with`；②吸引；引起；③雇用；④订婚；
 
 > [!tip] 原型义
 > **原型义**：承诺参与某事；与…建立联系
@@ -125,8 +125,10 @@ en-(=in, 进入) + gage(=pledge, 承诺/抵押) → 做出承诺→参与/从事
 ## 真题/语料关联
 
 > [!example]- 语料
-- Students are more engaged when they can relate to the material.（当学生能与材料产生联系时，他们更加投入。）
-- The company engaged a consulting firm to help with the restructuring.（公司聘请了一家咨询公司协助重组。）
+> - It was difficult to engage the students at first. `[COCA-ACAD]`
+> - The party is attempting to engage young voters politically. `[COCA-ACAD]`
+> - Despite her illness, she remains actively engaged in shaping policy. `[COCA-ACAD]`
+> - We need to place more emphasis on engaging with our customers. `[例]`
 
 ---
 

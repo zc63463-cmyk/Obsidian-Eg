@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**环境、自然环境**== ; ②==**周围状况、背景**== ;
+**n.** ①==**环境、自然环境**== `protect/preserve the environment` / `natural environment` ; ②==**周围状况、背景**== `working/business environment` ;
 
 > [!tip] 原型义
 > **原型义**：周围的环境
@@ -125,8 +125,10 @@ en-(在内) + [[vir|viron]](环绕) + -ment(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Certain chemicals have been banned because of their damaging effect on the environment."（某些化学品因其对环境的破坏性影响而被禁止使用。）——考研高频表达
-> - "Changes in the natural environment have forced many species to adapt or face extinction."（自然环境的变化迫使许多物种适应环境或面临灭绝。）——考研高频表达
+> - "Certain chemicals have been banned because of their damaging effect on the environment." `[真题]`
+> - "In today's competitive business environment, companies focus on minimizing costs." `[COCA-ACAD]`
+> - "The hospital architect tries to create an environment conducive to healing." `[COCA-ACAD]`
+> - "This period provided a favourable environment for the spread of communism." `[COCA-ACAD]`
 
 ---
 

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**争论，争端**== ; ②==**纠纷**== ;
-**v.** ①==**争论，辩论**== ; ②==**质疑，对...表示异议**== ; ③==**争夺，竞争**== ;
+**n.** ①==**争论，争端**== `N over/about N`; ②==**纠纷**== `N`;
+**v.** ①==**争论，辩论**== `V with sb. over sth.`; ②==**质疑，对...表示异议**== `V N`; ③==**争夺，竞争**== `V N`;
 
 > [!tip] 原型义
 > **原型义**：反向思考、反驳（源自拉丁语 disputare "评估、计算"，dis- 分开 + putare 思考）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Indian government said that China had to be sensitive to India's concerns, one of which is the disputed area of Kashmir."（印度政府声称，中国需要顾及印度的关切，其中之一就是克什米尔的争议地区。）——考研高频表达
-> - "They disputed the accuracy of the report."（他们对报告的准确性提出了争议。）——考研高频表达
+> - The Indian government said that China had to be sensitive to India's concerns, one of which is the disputed area of Kashmir. `[真题]`
+> - They disputed the accuracy of the report. `[真题]`
+> - The ownership of the land is still in dispute. `[COCA-ACAD]`
+> - It is beyond dispute that education is essential for development. `[COCA-ACAD]`
 ---
 
 

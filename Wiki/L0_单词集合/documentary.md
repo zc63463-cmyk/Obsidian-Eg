@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**纪录片**==；②（广播、电视的）纪实节目；
-**adj.** ①==**纪实的，文献的**==；②记录的，有文件证明的；
+**n.** ①==**纪录片**== `a nature/history documentary`; `shoot a documentary`; ②（广播、电视的）纪实节目；
+**adj.** ①==**纪实的，文献的**== `documentary evidence/film`; ②记录的，有文件证明的；
 
 > [!tip] 原型义
 > **原型义**：基于文献/记录的（document 文件/记录 + -ary 形容词后缀 → 基于文件的）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The documentary provides a compelling account of the challenges faced by refugees around the world."（这部纪录片生动地记录了全球难民所面临的挑战。）——考研高频表达
-> - "Documentary evidence suggests that the company was aware of the safety issues long before the accident."（书面证据表明，公司在事故发生之前很久就知道这些安全问题。）——考研高频表达
+> - "The documentary provides a compelling account of the challenges faced by refugees around the world." `[COCA-ACAD]`
+> - "Documentary evidence suggests that the company was aware of the safety issues long before the accident." `[COCA-ACAD]`
+> - "The lack of documentary evidence of her life has made it difficult for historians." `[COCA-ACAD]`
+> - "The documentary went through all the graphic details of the operation in unsparing detail." `[COCA-ACAD]`
 ---
 
 

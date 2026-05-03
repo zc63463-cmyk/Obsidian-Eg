@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-v. ①==**执行；强制执行**==；②强制；迫使；③加强；
+v. ①==**执行；强制执行**== `enforce a law/rule` `enforce discipline`；②强制；迫使；③加强；
 
 > [!tip] 原型义
 > **原型义**：用力量使规则/法律生效
@@ -123,8 +123,10 @@ en-(=in, 使) + force(=fortis, 力量/强度) → 使力量生效→强制执行
 ## 真题/语料关联
 
 > [!example]- 语料
-- The government must enforce environmental regulations.（政府必须执行环保法规。）
-- Speed limits are strictly enforced in residential areas.（住宅区严格执行限速规定。）
+> - It is the job of the inspectors to enforce compliance with the regulations. `[COCA-ACAD]`
+> - The legislation will be difficult to enforce. `[COCA-ACAD]`
+> - United Nations troops enforced a ceasefire in the area. `[COCA-ACAD]`
+> - Speed limits are strictly enforced in residential areas. `[例]`
 
 ---
 

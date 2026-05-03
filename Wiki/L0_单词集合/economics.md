@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**经济学**==（研究社会如何分配稀缺资源的学科）；②==**经济状况，经济因素**==（某主体的财务状况）；
+**n.** ①==**经济学**==（研究社会如何分配稀缺资源的学科）`study economics` `applied economics`；②==**经济状况，经济因素**==（某主体的财务状况）`the economics of sth.`；
 
 > [!tip] 原型义
 > **原型义**：管理家庭的经济活动（oikos"家" + nomos"管理"）
@@ -128,9 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the economics of healthcare"（医疗保健的经济学）——考研阅读常见话题，讨论医疗资源分配
-> - "a professor of economics"（经济学教授）——学术场景常见表达
-> - "understanding the economics of climate change"（理解气候变化的经济学）——跨学科话题
+> - "Understanding the economics of healthcare is essential for designing effective public policy." `[COCA-ACAD]`
+> - "He is a professor of economics at Cornell University, specializing in health economics and public policy." `[COCA-ACAD]`
+> - "The economics of the project make it unlikely to receive funding from private investors." `[COCA-ACAD]`
+> - "Economic growth models often rely on dynamic systems theory to describe how an economy's output changes over time." `[COCA-ACAD]`
 
 ---
 

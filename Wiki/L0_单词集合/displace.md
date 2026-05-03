@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**取代，替代**== ; ②迫使……离开家园，使流离失所；③移位，移动（物理位置）；④排水（物理）；
+**v.** ①==**取代，替代**== `V N`; ②迫使……离开家园，使流离失所 `V N`; ③移位，移动（物理位置）`V N`; ④排水（物理）`V N`;
 
 > [!tip] 原型义
 > **原型义**：从放置处移开（源自拉丁语 displacere = dis- "离开" + placere "放置"）
@@ -135,8 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Automation and artificial intelligence have displaced millions of workers in manufacturing industries."（自动化和人工智能已经取代了制造业中数百万工人的岗位。）——考研高频表达
-> - "The war has created a massive displaced population in need of humanitarian assistance."（战争造成了大量流离失所的人口，需要人道主义援助。）——考研高频表达
+> - Automation and artificial intelligence have displaced millions of workers in manufacturing industries. `[COCA-ACAD]`
+> - The war has created a massive displaced population in need of humanitarian assistance. `[COCA-ACAD]`
+> - Thousands of people were displaced by the earthquake and had to live in temporary shelters. `[COCA-NEWS]`
+> - Internal displacement had further consequences for the economy that until now have not been quantified. `[COCA-ACAD]`
 ---
 
 

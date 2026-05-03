@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**时代，纪元**== ; ②（地质学）世，期 ; ③重要时期，新时期 ;
+**n.** ①==**时代，纪元**== `mark a new epoch` `an epoch of sth.` ; ②（地质学）世，期 ; ③重要时期，新时期 ;
 
 > [!tip] 原型义
 > **原型义**：停下来（epi-在…上 + echein保持/停止）观察的时间点——标记历史新阶段的时刻
@@ -120,8 +120,9 @@ epi-(在…之上) + echein(保持/停止，来自希腊语 epechein) → 在时
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the printing press marked the beginning of a new epoch in human civilization."（印刷术的发明标志着人类文明新纪元的开始。）——考研高频表达
-> - "The discovery of DNA structure was an epoch-making event in the history of science."（DNA结构的发现是科学史上划时代的事件。）——考研高频表达
+> - The invention of the printing press marked the beginning of a new epoch in human civilization. `[真题]`
+> - The development of the steam engine marked an important epoch in the history of industry. `[COCA-ACAD]`
+> - The president said that his country was moving into a new epoch, which would be one of lasting peace. `[COCA-ACAD]`
 
 ---
 

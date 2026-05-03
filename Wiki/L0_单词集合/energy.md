@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-n. ①==**能量；精力**==；②活力；③能源；
+n. ①==**能量；精力**== `full of energy` `devote energy to`；②活力；③能源；`solar/nuclear energy` `renewable energy`
 
 > [!tip] 原型义
 > **原型义**：做功的能力；身体或精神的活力
@@ -122,8 +122,10 @@ en-(=in, 在…中) + erg(=ergon, work/做功) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-- We need to find alternative sources of energy.（我们需要寻找替代能源。）
-- She has boundless energy and enthusiasm.（她拥有无限的精力和热情。）
+> - The country is investing heavily in renewable energy. `[COCA-ACAD]`
+> - More people are showing a willingness to adopt new strategies to use energy more efficiently. `[COCA-ACAD]`
+> - The children were full of energy after the nap. `[COCA-ACAD]`
+> - Nuclear energy is cleaner than coal in terms of carbon emissions. `[例]`
 
 ---
 

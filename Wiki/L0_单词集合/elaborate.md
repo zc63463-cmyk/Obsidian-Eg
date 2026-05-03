@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**精心制作的**==（耗费大量心思制作的）；②==**详尽的，精巧的**==（内容丰富、细节完善的）；
-**v.** ①==**详细阐述**==（详细说明某事）；②==**精心制作**==（花心思制作某物）；
+**adj.** ①==**精心制作的**==（耗费大量心思制作的）`` `elaborate design/plan` `` `` `elaborate costume` ``；②==**详尽的，精巧的**==（内容丰富、细节完善的）`` `elaborate preparations` `` `` `in elaborate detail` ``；
+**v.** ①==**详细阐述**==（详细说明某事）`` `elaborate on sth` `` `` `refuse to elaborate` ``；②==**精心制作**==（花心思制作某物）`` `elaborate a scheme/strategy` ``；
 
 > [!tip] 原型义
 > **原型义**：劳动出来→精心制作（投入大量劳动使成果精致完善）
@@ -137,10 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Could you elaborate on your proposal?"（你能详细阐述一下你的提案吗？）——学术/工作场景高频表达
-> - "She wore an elaborate costume to the party."（她穿了一件精心制作的服装参加派对）——生活话题
-> - "The government has elaborate plans for economic reform."（政府制定了详尽的经济改革计划）——政治/经济话题
-> - "He refused to elaborate on the reasons for his resignation."（他拒绝详细阐述辞职的原因）——新闻话题
+> - The congresswoman said she was resigning, but refused to elaborate on her reasons for doing so. `[COCA-ACAD]`
+> - She was asked to say more about her earlier statements, but she declined to elaborate. `[COCA-ACAD]`
+> - The government has elaborate plans for economic reform. `[COCA-ACAD]`
+> - Could you elaborate on that point? `[COCA-ACAD]`
 
 ---
 

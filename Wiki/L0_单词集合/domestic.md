@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**国内的，本国的**== ; ②==**家庭的，家用的**== ; ③==**驯养的**==（动物）
+**adj.** ①==**国内的，本国的**== `domestic market/economy/policy` ; ②==**家庭的，家用的**== `domestic life/violence` ; ③==**驯养的**==（动物）`domestic animals`
 
 > [!tip] 原型义
 > **原型义**：家里的、房屋内的
@@ -127,8 +127,10 @@ dom-(=domus，房屋、家) + -estic(形容词后缀，表示"与……有关的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to pay more attention to domestic issues rather than foreign affairs."（政府需要更多地关注国内问题而非外交事务——考研高频表达）
-> - "Domestic violence remains a serious problem in many countries."（家庭暴力在许多国家仍然是一个严重问题——考研高频表达）
+> - "The prime minister's globetrotting has led to accusations that he is ignoring domestic problems." `[COCA-ACAD]`
+> - "The domestic market is still depressed, but demand abroad is picking up." `[COCA-ACAD]`
+> - "The reduction of crime levels is the centerpiece of the president's domestic policies." `[COCA-ACAD]`
+> - "The company hopes to attract both foreign and domestic investors." `[COCA-ACAD]`
 
 
 ---

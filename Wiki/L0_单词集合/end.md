@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**末端，尽头**==；②==**结束，结尾**==；③==**目的，目标**==；④死亡，终结；
-**vt.** ①==**结束，终止**==；②以……为结尾；
+**n.** ①==**末端，尽头**== `at the end of`；②==**结束，结尾**== `in the end` `come to an end`；③==**目的，目标**== `to this end` `to this end`；④死亡，终结；
+**vt.** ①==**结束，终止**== `end in` `put an end to`；②以……为结尾；
 **vi.** ①结束，终止；
 
 > [!tip] 原型义
@@ -140,10 +140,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "in the end"（最终）——考研阅读/写作极高频搭配，常用于总结结论
-> - "end up doing sth."（最终做某事）——考研阅读/翻译中描述结果的高频句式
-> - "to this end"（为此目的）——考研阅读中学术论证类文章常见搭配
-> - "put an end to"（结束）——考研写作中表达"解决/消除"的常用搭配
+> - We thought we might go abroad for Christmas, but in the end we stayed at home. `[COCA-ACAD]`
+> - The stories in the newspaper brought her career to a sudden end. `[COCA-ACAD]`
+> - We must put an end to this violence. `[COCA-ACAD]`
+> - He tried various jobs and in the end became an accountant. `[例]`
 
 ---
 

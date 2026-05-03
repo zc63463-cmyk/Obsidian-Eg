@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**分开，分割**==；②==**部门，科室**==；③==**除法**==；④==**分歧，不和**==；⑤分界线；
+**n.** ①==**分开，分割**== `the division of N`; ②==**部门，科室**== `sales/marketing division`; ③==**除法**== `long division`; ④==**分歧，不和**== `deep divisions`; ⑤分界线；
 
 > [!tip] 原型义
 > **原型义**：分开的行为或结果（divid-分 + -ion 名词后缀 → 分开的过程或结果）
@@ -139,9 +139,10 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The division of labor is a key concept in economics."（劳动分工是经济学的核心概念。）——考研高频表达
-> - "Deep divisions exist within the party over this issue."（党内在这个问题上存在深刻分歧。）——考研高频表达
-> - "She works in the research division of the company."（她在公司的研究部门工作。）——考研高频表达
+> - "Economic, political and religious divisions still plague the country." `[COCA-ACAD]`
+> - "The division of labor is a key concept in economics." `[COCA-ACAD]`
+> - "People are tired of conflict and division." `[COCA-ACAD]`
+> - "These are the growth divisions of the company." `[COCA-ACAD]`
 
 ---
 

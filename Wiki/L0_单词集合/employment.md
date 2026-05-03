@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**雇用，就业**==；②==**职业，工作**==；③==**使用，利用**==；
+**n.** ①==**雇用，就业**== `` `employment rate/opportunities` `` `` `seek/find employment` ``；②==**职业，工作**== `` `full employment` ``；③==**使用，利用**== `` `the employment of` ``；
 
 > [!tip] 原型义
 > **原型义**：被卷入使用的状态（employ 雇用 + -ment 名词后缀，表示动作的结果或状态）
@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "employment rate/opportunities"（就业率/就业机会）——考研阅读中社会经济类文章极高频话题
-> - "unemployment rate"（失业率）——考研阅读中经济政策类文章常见搭配
-> - "employment discrimination"（就业歧视）——考研阅读中社会公平类话题
+> - The new factory will provide **employment** for about a hundred local people. `` `[COCA-NEWS]` ``
+> - The city is faced with inadequate housing and a lack of **employment**. `` `[COCA-ACAD]` ``
+> - The **employment** of advanced technologies in manufacturing has revolutionized production processes. `` `[COCA-ACAD]` ``
 
 ---
 

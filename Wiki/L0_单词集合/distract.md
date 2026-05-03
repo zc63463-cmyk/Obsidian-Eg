@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使分心，转移（注意力）**== ; ②使困惑，使扰乱；
+**v.** ①==**使分心，转移（注意力）**== `V sb. from sth.`; ②使困惑，使扰乱 `V sb.`;
 
 > [!tip] 原型义
 > **原型义**：向外拉扯、拉开注意力（源自拉丁语 distrahere = dis- "分开" + trahere "拉"）
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The constant notifications from smartphones distract students from their studies and reduce academic performance."（智能手机不断发出的通知使学生从学习中分心，降低了学业表现。）——考研高频表达
-> - "In today's fast-paced world, it is increasingly difficult to avoid being distracted by various forms of media."（在当今快节奏的世界中，越来越难以避免被各种媒体形式所分心。）——考研高频表达
+> - The constant notifications from smartphones distract students from their studies and reduce academic performance. `[真题]`
+> - In today's fast-paced world, it is increasingly difficult to avoid being distracted by various forms of media. `[真题]`
+> - He was distracted from his studies by a loud noise outside the window. `[COCA-ACAD]`
+> - The local story distracted attention from news of the war overseas. `[COCA-NEWS]`
 ---
 
 

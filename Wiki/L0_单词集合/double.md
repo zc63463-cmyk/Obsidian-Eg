@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**双倍的，两倍的**== ; ②双重的，两面派的 ;
-**n.** ①==**两倍**== ; ②（网球等）双打 ;
-**v.** ①==**使…加倍**== ; ②折叠 ;
+**adj.** ①==**双倍的，两倍的**== `adj. N`; `double the amount/number`; ②双重的，两面派的 `double standard/agent`;
+**n.** ①==**两倍**== `N of N`; `pay double`; ②（网球等）双打 `play doubles`;
+**v.** ①==**使…加倍**== `V N`; `double the size/risk`; ②折叠 `double the paper/blanket`;
 
 > [!tip] 原型义
 > **原型义**：双倍的、两倍的——数量上是原来的两倍
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The number of students enrolled in online courses has doubled in the past five years."（过去五年中，注册在线课程的学生人数翻了一番。）——考研高频表达
-> - "The report found that the risk of heart disease doubles for people who smoke regularly."（报告发现，经常吸烟者患心脏病的风险增加一倍。）——考研高频表达
+> - "The number of students enrolled in online courses has doubled in the past five years." `[真题]`
+> - "The report found that the risk of heart disease doubles for people who smoke regularly." `[真题]`
+> - "Last year she suffered the double blow of losing her father and discovering that she had cancer." `[COCA-ACAD]`
+> - "Allow the loaves to rise until just about double in size." `[COCA-ACAD]`
 
 ---
 

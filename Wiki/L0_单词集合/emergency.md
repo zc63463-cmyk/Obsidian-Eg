@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**紧急情况，突发事件**==；②急诊；
+**n.** ①==**紧急情况，突发事件**== `` `in an emergency` `` `` `declare a state of emergency` ``；②==**急诊**== `` `emergency room/treatment` ``；
 
 > [!tip] 原型义
 > **原型义**：突然浮出的事情，需要立即处理的情况
@@ -125,8 +125,9 @@ e-/em-(出) + merg(沉没) + ency(名词后缀，表示状态或性质) → 突�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has established a special fund for **emergency** relief.（政府已设立专项基金用于紧急救援。）
-> - In case of **emergency**, please remain calm and follow the instructions.（如遇紧急情况，请保持冷静并遵照指示行动。）
+> - The governor declared a state of **emergency** as flooding forced more than 1,400 residents from their homes. `` `[COCA-NEWS]` ``
+> - She needed **emergency** surgery for internal bleeding and reconstructive surgery to her face and neck. `` `[COCA-NEWS]` ``
+> - In case of **emergency**, pull the release cord to free your feet to swim out. `` `[COCA-NEWS]` ``
 
 ---
 

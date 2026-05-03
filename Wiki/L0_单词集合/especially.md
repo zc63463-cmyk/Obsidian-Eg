@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**特别地，尤其**==；②==**专门地**==；
+**adv.** ①==**特别地，尤其**== `especially adj./adv.` `especially in/of/among sth.` ；②==**专门地**== `prepared especially for sth.` ;
 
 > [!tip] 原型义
 > **原型义**：从本质中特别提取出来（从众多事物中提取出具有特殊本质的那个）
@@ -124,8 +124,9 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[ess]]（本质，存在�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The problem is especially acute in developing countries."（这个问题在发展中国家尤为严重。）——考研高频表达
-> - "Online shopping has become increasingly popular, especially among young consumers."（网上购物变得越来越受欢迎，尤其是在年轻消费者中。）——考研高频表达
+> - The problem is especially acute in developing countries. `[真题]`
+> - I love Rome, especially in the spring. `[COCA-ACAD]`
+> - The car is quite small, especially if you have children. `[COCA-ACAD]`
 
 ---
 

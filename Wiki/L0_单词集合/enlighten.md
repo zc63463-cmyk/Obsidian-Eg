@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**启发，开导，使明白**== ; ②使摆脱偏见/无知
+**v.** ①==**启发，开导，使明白**== `enlighten sb. about/on sth.` / `enlighten sb. as to sth.` ; ②使摆脱偏见/无知 `enlighten the public`
 
 > [!tip] 原型义
 > **原型义**：使人心中充满光明，从而看清真相
@@ -135,8 +135,9 @@ en-(使动前缀，"使…进入…状态") + light(光) + -en(动词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The documentary enlightened the public about the dangers of climate change."（这部纪录片使公众认识到了气候变化的危险。）——考研高频表达
-> - "Can you enlighten me on this issue?"（你能在这个问题上给我一些启发吗？）——考研高频表达
+> - "The parent who requests a label does not ask to be enlightened, but to test and reinforce the child's lexicon." `[COCA-ACAD]`
+> - "All the great politicians of the time came to lecture and enlighten us as to the possible benefits that Independence would bring." `[COCA-ACAD]`
+> - "I don't understand what's going on; can someone please enlighten me?" `[COCA]`
 ---
 
 

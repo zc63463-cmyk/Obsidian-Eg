@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**雇用，聘用**==；②==**使用，利用**==；③忙于，从事；
-**n.** ①雇用；
+**vt.** ①==**雇用，聘用**== `` `employ sb. to do sth.` `` `` `in the employ of` ``；②==**使用，利用**== `` `employ a method/strategy` ``；③==**忙于，从事**== `` `employ oneself in/with` ``；
+**n.** ①==**雇用**==；
 
 > [!tip] 原型义
 > **原型义**：卷入使用（拉丁语 implicare = in-进入 + plicare 折叠，把人"折叠进来"使用）
@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "employ a method/approach"（使用方法/途径）——考研阅读中学术论证类文章常见搭配
-> - "employ sb. to do"（雇用某人做）——考研阅读中描述雇佣关系
-> - "employment rate/opportunities"（就业率/就业机会）——考研阅读中社会经济类文章高频话题
+> - The company **employed** a team of experts to develop the new software. `` `[COCA-ACAD]` ``
+> - Researchers **employed** various methods to collect data for the study. `` `[COCA-ACAD]` ``
+> - Guthrie, on the other hand, **employs** a method designed to draw a composite. `` `[COCA-ACAD]` ``
 
 ---
 

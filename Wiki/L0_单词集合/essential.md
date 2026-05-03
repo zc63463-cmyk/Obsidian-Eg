@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**必要的，必不可少的**==；②==**本质的，基本的**==；
-**n.** ①==**必需品**==；②基本要素；
+**adj.** ①==**必要的，必不可少的**== `essential to/for sth.` `it is essential that...` ；②==**本质的，基本的**== `essential difference/feature` ;
+**n.** ①==**必需品**== `essentials of life` ；②基本要素；
 
 > [!tip] 原型义
 > **原型义**：具有核心存在性质的（属于事物本质的、不可或缺的）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I think that, for the majority of scientific papers nowadays, statistical review is more essential than expert review."（我认为，对如今大多数科技论文来说，统计审核比专家评审更重要。）——2015年考研英语阅读
-> - "Water is essential for all forms of life on Earth."（水对地球上所有生命形式都是必不可少的。）——考研高频表达
+> - I think that, for the majority of scientific papers nowadays, statistical review is more essential than expert review. `[真题]`
+> - Computer literacy is becoming as essential as the ability to drive a car. `[COCA-ACAD]`
+> - It is essential that she has this medicine every day. `[COCA-ACAD]`
 
 ---
 

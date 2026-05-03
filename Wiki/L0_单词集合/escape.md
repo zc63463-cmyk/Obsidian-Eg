@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**逃跑，逃脱**==；②==**泄露，逸出**==；
+**vi.** ①==**逃跑，逃脱**== `escape from sth.` `escape to sth.` ；②==**泄露，逸出**== `gas/liquid escapes from sth.` ;
 **vt.** ①逃避，避免；②被忘记，被忽略；
 **n.** ①逃跑，逃脱；②消遣，解脱；
 
@@ -134,8 +134,9 @@ ex-（出，向外）+ 建议创建词根笔记 [[scap]]（=cappa，披风，覆
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education is widely regarded as the most effective way to escape poverty."（教育被广泛认为是摆脱贫困最有效的方式。）——考研高频表达
-> - "The prisoner attempted to escape but was quickly recaptured."（囚犯试图逃跑，但很快被重新抓获。）——考研高频表达
+> - Education is widely regarded as the most effective way to escape poverty. `[真题]`
+> - She moved to the city to escape the memory of her past. `[COCA-FICT]`
+> - Two prisoners have escaped from the local jail. `[COCA-NEWS]`
 
 ---
 

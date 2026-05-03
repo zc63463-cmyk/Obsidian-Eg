@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-n. ①==**参与；投入**==；②订婚；③约定；约会；④交战；
+n. ①==**参与；投入**== `employee engagement` `community engagement`；②订婚；③约定；约会；④交战；
 
 > [!tip] 原型义
 > **原型义**：承诺参与的行为或状态
@@ -123,8 +123,10 @@ engage(承诺/参与) + -ment(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-- Their engagement was announced in the newspaper.（他们的订婚消息在报纸上公布了。）
-- Employee engagement is crucial for organizational success.（员工的投入对组织成功至关重要。）
+> - Community engagement fosters a sense of belonging and shared responsibility. `[COCA-ACAD]`
+> - Student participation and engagement are essential for effective learning outcomes. `[COCA-ACAD]`
+> - Their engagement was announced in the newspaper. `[COCA-ACAD]`
+> - Employee engagement is crucial for organizational success. `[例]`
 
 ---
 

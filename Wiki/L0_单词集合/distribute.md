@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**分配，分发**== ; ②分布，散布（across/throughout）；③配电，供销；
+**v.** ①==**分配，分发**== `V N to/among N`; ②分布，散布（across/throughout）`V N`; ③配电，供销 `V N`;
 
 > [!tip] 原型义
 > **原型义**：分别给予、分配（源自拉丁语 distribuere = dis- "分开" + tribuere "给予"）
@@ -138,8 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government distributed food and medical supplies to the affected areas after the earthquake."（地震后，政府向受灾地区分发了食物和医疗物资。）——考研高频表达
-> - "Wealth is not evenly distributed among the population in many developing countries."（在许多发展中国家，财富在人口中分布不均。）——考研高频表达
+> - The government distributed food and medical supplies to the affected areas after the earthquake. `[真题]`
+> - Wealth is not evenly distributed among the population in many developing countries. `[真题]`
+> - The organization distributed relief supplies to flood victims across the region. `[COCA-NEWS]`
+> - These resources should be distributed more evenly across different departments. `[COCA-ACAD]`
 ---
 
 

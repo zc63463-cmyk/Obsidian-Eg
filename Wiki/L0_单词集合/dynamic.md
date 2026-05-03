@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**动态的，不断变化的**== ; ②充满活力的，有活力的 ; ③动力的，动力学的 ;
+**adj.** ①==**动态的，不断变化的**== `dynamic system` `dynamic process` ; ②充满活力的，有活力的 `dynamic economy` `dynamic leader` ; ③动力的，动力学的 `group dynamics` ;
 **n.** ①动力，动态 ; ②动力学 ;
 
 > [!tip] 原型义
@@ -127,8 +127,10 @@ dyn(力量，动力) + -am(连接) + -ic(与...有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need a dynamic expansion of trade with other countries."（我们需要与其他国家进行充满活力的贸易扩张。）——考研高频表达
-> - "The dynamics of the global economy have changed dramatically in recent decades."（近几十年来，全球经济的动态发生了巨大变化。）——考研高频表达
+> - "We need a dynamic expansion of trade with other countries." `[真题]`
+> - "A vital and dynamic economy depends on an efficient financial system for collecting savings and funnelling them at low cost to the most productive uses." `[COCA-ACAD]`
+> - "In a dynamic economy where goods and services are constantly changing, how do you gauge progress?" `[COCA-ACAD]`
+> - "The dynamics of the global economy have changed dramatically in recent decades." `[COCA-ACAD]`
 
 ---
 

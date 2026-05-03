@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**努力，尽力**==（为达成目标付出的体力或脑力）；②==**努力的结果，成就**==；③==**有组织的活动，倡议**==（relief effort, conservation effort）；
+**n.** ①==**努力，尽力**==（为达成目标付出的体力或脑力）`` `make an effort / make efforts` `` `` `spare no effort` ``；②==**努力的结果，成就**== `` `a worthwhile effort` `` `` `his best effort` ``；③==**有组织的活动，倡议**==（relief effort, conservation effort）`` `relief effort` `` `` `joint effort` ``；
 
 > [!tip] 原型义
 > **原型义**：向外展现力量（ex- "向外" + fortis "强壮" → 向外展现力量 = 努力）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government made every effort to combat the pandemic."（政府竭尽全力抗击疫情）——社会政策类阅读
-> - "in an effort to reduce carbon emissions"（为了减少碳排放）——环保类话题，常见引导目的状语
-> - "Conservation efforts have led to the recovery of several endangered species."（保护行动已使几种濒危物种得到恢复）——生态类阅读
+> - We will spare no effort to secure their release from prison. `[COCA-ACAD]`
+> - That number has stayed relatively consistent for the past decade despite a wide range of efforts to reduce it. `[COCA-ACAD]`
+> - Conservation efforts have led to the recovery of several endangered species. `[COCA-ACAD]`
+> - His efforts were rewarded with good results. `[COCA-ACAD]`
 
 ---
 

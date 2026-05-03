@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**经济，经济制度，经济体**==；②==**节约，节省，节俭**==；③（飞机的）==**经济舱**==；
+**n.** ①==**经济，经济制度，经济体**== `market economy` `global economy`；②==**节约，节省，节俭**== `practice economy` `economy drive`；③（飞机的）==**经济舱**== `economy class` `fly economy`；
 
 > [!tip] 原型义
 > **原型义**：管理家庭收支（oikos"家" + nemein"分配管理"）
@@ -135,9 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The global economy has witnessed a profound transformation due to digitalization."（由于数字化，全球经济经历了深刻变革）——考研阅读高频话题
-> - "a shift from a manufacturing economy to a knowledge economy"（从制造经济向知识经济的转变）——社会经济类阅读
-> - "practice economy and combat waste"（厉行节约、反对浪费）——政策类文本
+> - "The global economy has witnessed a profound transformation due to digitalization." `[COCA-ACAD]`
+> - "A free enterprise culture, with an innovative, dynamic economy backed by the rewards for success, spurs on investment." `[COCA-ACAD]`
+> - "Academic institutions, companies engaging in research and development, and health workers using digital data are all components of a knowledge economy." `[COCA-ACAD]`
+> - "It is more economical to buy in bulk and practice economy in daily household spending." `[COCA-ACAD]`
 
 ---
 

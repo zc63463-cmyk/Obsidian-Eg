@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**强调，重点**==；②==**重要性，突出**==；③（修辞学）强调语；④重音；
+**n.** ①==**强调，重点**== `` `put/place emphasis on` `` `` `lay emphasis on` ``；②==**重要性，突出**== `` `great/special emphasis` ``；③==**（修辞学）强调语**==；④==**重音**== `` `put emphasis on the syllable` ``；
 
 > [!tip] 原型义
 > **原型义**：打上记号（希腊语 emphasis，原义为"外观、印记"，来自 emphainein = em-在……上 + phainein 显示）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "put/place emphasis on"（强调/重视）——考研阅读/写作极高频搭配，常用于论述政策重点或学术观点
-> - "great/special emphasis"（极大的/特别的强调）——考研阅读中描述作者态度或论证重点
-> - "emphasis on quality/innovation"（对质量/创新的重视）——考研写作中常见论述角度
+> - The school puts a lot of **emphasis** on teaching children to read and write. `` `[COCA-ACAD]` ``
+> - Too much **emphasis** is placed on the desirability of being thin. `` `[COCA-ACAD]` ``
+> - The **emphasis** will be on real situations, real problems and real solutions. `` `[COCA-ACAD]` ``
 
 ---
 

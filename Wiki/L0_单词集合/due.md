@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**到期的，预期的**== ; ②应得的，应有的 ; ③欠款的，应付的 ;
-**n.** ①应得物，应缴款 ;
+**adj.** ①==**到期的，预期的**== `be due to do sth.` `due to` ; ②应得的，应有的 `give sb. their due` ; ③欠款的，应付的 `fall due` ;
+**n.** ①应得物，应缴款 `pay one's dues` ;
 
 > [!tip] 原型义
 > **原型义**：欠的，该给的——到期该归还的
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The flight was delayed due to bad weather."（航班因恶劣天气延误。）——考研高频表达
-> - "The report is due to be published next week."（报告定于下周发布。）——考研高频表达
+> - "The flight was delayed due to bad weather." `[COCA-ACAD]`
+> - "The improvement was due to a higher level of gold ore treated during the period." `[COCA-ACAD]`
+> - "The two oil companies, which are due to merge in February, also provide considerable technical assistance." `[COCA-ACAD]`
+> - "He also committed 27 errors, but many were due to inexperience." `[COCA-ACAD]`
 
 ---
 

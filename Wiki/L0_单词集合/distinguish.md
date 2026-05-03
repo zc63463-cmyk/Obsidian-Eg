@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ① ==**区分，辨别**== ; ② 使杰出，使著名
+**v.** ① ==**区分，辨别**== `V between A and B` / `V A from B`; ② 使杰出，使著名 `V oneself`
 
 > [!tip] 原型义
 > **原型义**：区分，辨别
@@ -122,10 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No clear-cut distinction can be drawn between professionals and amateurs in science."（在科学界，专业人员和业余爱好者之间无法划出明确的界限。）——2001考研英语阅读
-> - "Her excellent performance in the competition distinguished her from other candidates."（她在比赛中的出色表现让她从其他参选者中脱颖而出。）——2017考研英语阅读
-> - "It is important to distinguish between correlation and causation in scientific research."（在科学研究中，区分相关性和因果性很重要。）——考研高频表达
-
+> - No clear-cut distinction can be drawn between professionals and amateurs in science. `[真题]`
+> - Her excellent performance in the competition distinguished her from other candidates. `[真题]`
+> - It is important to distinguish between correlation and causation in scientific research. `[真题]`
+> - She distinguished herself by her coolness and bravery during the crisis. `[COCA-ACAD]`
 ---
 
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**效率，效能**==（以最少资源达成最大产出的能力）；②==**功效，实力**==（产生预期效果的能力）；
+**n.** ①==**效率，效能**==（以最少资源达成最大产出的能力）`` `improve/increase efficiency` `` `` `energy efficiency` ``；②==**功效，实力**==（产生预期效果的能力）`` `operational efficiency` `` `` `administrative efficiency` ``；
 
 > [!tip] 原型义
 > **原型义**：做得利落、不浪费的程度（ef- "出来" + fic "做" + -iency 名词后缀 → 做得利落的程度）
@@ -130,9 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Improving energy efficiency is one of the most cost-effective ways to reduce carbon emissions."（提高能源效率是减少碳排放最具成本效益的方式之一）——环保类阅读高频句
-> - "The new technology has greatly improved the efficiency of the manufacturing process."（新技术大大提高了制造过程的效率）——科技经济类话题
-> - "administrative efficiency"（行政效率）——政府管理类文本
+> - Families and businesses need to take steps to maximize energy efficiency. `[COCA-ACAD]`
+> - The assembly line increased industry's efficiency. `[COCA-ACAD]`
+> - Improving energy efficiency is one of the most cost-effective ways to reduce carbon emissions. `[COCA-ACAD]`
+> - Auto makers will increase the fuel efficiency of their cars by 20% over the next five years. `[COCA-ACAD]`
 
 ---
 

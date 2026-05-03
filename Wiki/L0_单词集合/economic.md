@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**经济的，经济上的**==；②经济学上的；③有利可图的，可赚钱的；
+**adj.** ①==**经济的，经济上的**== `economic growth` `economic crisis`；②经济学上的 `economic theory`；③有利可图的，可赚钱的 `an economic success`；
 
 > [!tip] 原型义
 > **原型义**：家庭管理（管理家庭的资源与收支）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "economic growth/development"（经济增长/发展）——考研阅读/翻译极高频搭配，几乎每年出现
-> - "economic crisis"（经济危机）——考研阅读中描述经济现象
-> - "economic policy/reform"（经济政策/改革）——政治/经济类阅读常见
+> - "The government should adopt policies that promote sustained economic growth and reduce income inequality." `[COCA-ACAD]`
+> - "The global economic crisis of 2008 had far-reaching consequences for financial markets worldwide." `[COCA-ACAD]`
+> - "Lax economic policy distorted the price system and the intertemporal allocation of resources." `[COCA-ACAD]`
+> - "This has been due to both population growth and the profitability of rice cultivation in comparison with other crops." `[COCA-ACAD]`
 
 ---
 

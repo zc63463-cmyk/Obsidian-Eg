@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**分，分开，划分**==；②==**分配，分享**==；③==**除（数学）**==；④==**使产生分歧**==；
+**vt.** ①==**分，分开，划分**== `divide N into N`; ②==**分配，分享**== `divide N among/between N`; ③==**除（数学）**== `divide A by B`; ④==**使产生分歧**== `divide public opinion`;
 **vi.** ①分开；②分歧；
 **n.** ①分水岭，分歧；
 
@@ -142,8 +142,10 @@ di-(分开) + vid(分) + -e = divide（分开）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country is deeply divided on the issue of immigration."（该国在移民问题上分歧严重。）——考研高频表达
-> - "The digital divide between rich and poor nations is widening."（贫富国家之间的数字鸿沟正在扩大。）——考研高频表达
+> - "The country remained deeply divided after he took office." `[COCA-ACAD]`
+> - "A tall fence divides the two yards." `[COCA-ACAD]`
+> - "Here the river divides into four separate streams." `[COCA-ACAD]`
+> - "The community is divided on what is the best way to protect kids." `[COCA-ACAD]`
 
 ---
 

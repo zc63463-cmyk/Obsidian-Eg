@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**a.** ①==**戏剧性的，引人注目的**== ; ②突然的，巨大的（变化） ; ③戏剧的，关于戏剧的 ;
+**a.** ①==**戏剧性的，引人注目的**== `adj. N`; `a dramatic change/improvement`; ②突然的，巨大的（变化） `a dramatic increase/rise`; ③戏剧的，关于戏剧的 `dramatic society/performance`;
 
 > [!tip] 原型义
 > **原型义**：如同戏剧般的（具有戏剧的特征）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet, dramatic instances of sudden forgetting can be seen to be adaptive."（然而，戏剧性地突然遗忘某事可能会带来适应性方面的问题——1995年考研阅读5）
-> - "As a physician, I know the most costly and dramatic measures may be ineffective and painful."（作为一名医生，我知道最昂贵和最极端的措施可能无效且令人痛苦——2003年考研Text 4）
+> - "Yet, dramatic instances of sudden forgetting can be seen to be adaptive." `[真题]`
+> - "As a physician, I know the most costly and dramatic measures may be ineffective and painful." `[真题]`
+> - "There has been a dramatic shift in public opinion toward peaceful negotiations." `[COCA-ACAD]`
+> - "The announcement had a dramatic effect on house prices." `[COCA-ACAD]`
 
 
 ---

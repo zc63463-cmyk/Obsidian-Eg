@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**杰出的，著名的，显赫的**==；②（指品质）突出的，优良的；
+**adj.** ①==**杰出的，著名的，显赫的**== `` `eminent scientist/scholar` `` `` `eminent for` ``；②==**（指品质）突出的，优良的**== `` `eminent domain` ``；
 
 > [!tip] 原型义
 > **原型义**：突出的，站在众人之上
@@ -123,8 +123,9 @@ e-/em-(出，向外) + min(突出，源自拉丁语 *eminere*) + ent(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The conference was attended by **eminent** scientists from around the world.（来自世界各地的杰出科学家参加了这次会议。）
-> - He is **eminent** for his contributions to modern architecture.（他因对现代建筑的贡献而闻名。）
+> - Many **eminent** scientists from around the world have contributed to this volume. `` `[COCA-ACAD]` ``
+> - Darwin's nemesis was the **eminent** physicist Lord Kelvin, and the weapon used against him was the age of the Earth. `` `[COCA-ACAD]` ``
+> - He is regarded as the most **eminent** criminal psychologist in Britain. `` `[COCA-NEWS]` ``
 
 ---
 

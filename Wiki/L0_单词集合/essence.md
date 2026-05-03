@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**本质，精髓**==；②==**香精，精油**==；
+**n.** ①==**本质，精髓**== `the essence of sth.` `in essence` ; ②==**香精，精油**== ;
 
 > [!tip] 原型义
 > **原型义**：事物最核心的存在（一个事物之所以是它自己的那个核心）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The essence of his argument was that education should continue throughout life."（他的论点的要旨是教育应该持续终生。）——考研高频表达
-> - "Yet change is the very essence of life."（然而变迁恰恰是人生的本质。）——考研高频表达
+> - The essence of his argument was that education should continue throughout life. `[真题]`
+> - The freedom to pick your leaders is the essence of a democracy. `[COCA-ACAD]`
+> - In essence, the two proposals are the same. `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**转移（注意力、资源等）**==；②==**使转向，使改道**==；③==**使消遣，使娱乐**==；
+**vt.** ①==**转移（注意力、资源等）**== `divert attention from N`; `divert N to N`; ②==**使转向，使改道**== `divert a flight/river`; ③==**使消遣，使娱乐**== `divert oneself with N`;
 **vi.** ①转向，偏离；
 
 > [!tip] 原型义
@@ -137,8 +137,10 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The war diverted people's attention away from the economic situation."（战争把民众的注意力从经济状况上移开了。）——考研高频表达
-> - "The government is trying to divert more public funds from west to east."（政府正试图将更多的公共基金从西部转到东部。）——考研高频表达
+> - "Our flight had to be diverted to Newark because of the storm." `[COCA-ACAD]`
+> - "Should more funds be diverted from roads into railroads?" `[COCA-ACAD]`
+> - "They were charged with illegally diverting public funds for private use." `[COCA-ACAD]`
+> - "She tried to divert his attention from the bad news by telling him a funny story." `[COCA-ACAD]`
 
 ---
 

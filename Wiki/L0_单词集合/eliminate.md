@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**消除，排除**==（去除不需要的事物）；②==**淘汰**==（在竞争中排除）；
+**vt.** ①==**消除，排除**== `eliminate poverty/risk/possibility` `eliminate sth from sth`（去除不需要的事物）；②==**淘汰**== `be eliminated from` `eliminate a team/candidate`（在竞争中排除）；
 
 > [!tip] 原型义
 > **原型义**：赶出门外→消除（把不想要的东西推出门外，使其不再存在）
@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to eliminate poverty and hunger worldwide."（我们需要在全球范围内消除贫困和饥饿）——社会/政治话题
-> - "The team was eliminated from the tournament in the first round."（这支队伍在第一轮比赛中就被淘汰了）——体育话题
-> - "Technology has eliminated the need for many manual jobs."（技术消除了对许多手工劳动的需求）——科技/社会话题
-> - "You should eliminate all unnecessary expenses."（你应该消除所有不必要的开支）——经济话题
+> - "We need to eliminate poverty and hunger worldwide." `[COCA-ACAD]`
+> - "The team was eliminated from the tournament in the first round." `[COCA-ACAD]`
+> - "Technology has eliminated the need for many manual jobs." `[COCA-ACAD]`
+> - "She's trying to eliminate fatty foods from her diet." `[COCA-ACAD]`
 
 ---
 

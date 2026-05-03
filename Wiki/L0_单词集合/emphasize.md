@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**强调，着重**==；②==**使突出，使显著**==；③加强……的语气；
+**vt.** ①==**强调，着重**== `` `emphasize the importance of` `` `` `emphasize that...` ``；②==**使突出，使显著**== `` `strongly/heavily emphasize` ``；③==**加强……的语气**==；
 
 > [!tip] 原型义
 > **原型义**：打上记号（希腊语 emphainein = em-在……上 + phainein 显示，在文字上做标记）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "emphasize the importance/significance of"（强调……的重要性）——考研阅读/写作极高频搭配，常用于描述作者论点
-> - "emphasize that..."（强调……）——考研翻译中常见句式，引出作者核心观点
-> - "It should be emphasized that..."（应当强调的是……）——考研写作中引出重要论点的句式
+> - The results of this work also **emphasize** the importance of understanding the tritrophic interactions of a system when dealing with biological control. `` `[COCA-ACAD]` ``
+> - Social intelligence theorists **emphasize** the importance of understanding the self in relation to the way others think and behave. `` `[COCA-ACAD]` ``
+> - Administration officials have **emphasized** his management skills and familiarity with federal operations. `` `[COCA-NEWS]` ``
 
 ---
 

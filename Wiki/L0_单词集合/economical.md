@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**节约的，节俭的，经济实惠的**==；②高效的，不浪费的；
+**adj.** ①==**节约的，节俭的，经济实惠的**== `an economical car` `be economical with sth.`；②高效的，不浪费的 `economical solution` `economical method`；
 
 > [!tip] 原型义
 > **原型义**：善于管理家庭的（精打细算地使用资源）
@@ -129,9 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "an economical car"（省油的车）——考研阅读/翻译中描述产品特性
-> - "be economical with the truth"（对真相有所保留）——考研阅读中的委婉表达
-> - "economical and efficient"（经济高效的）——考研写作中描述方法的优势
+> - "It is more economical to buy the big packet than the small one." `[COCA-ACAD]`
+> - "Hybrid cars are very economical in congested areas because energy is used more than once." `[COCA-ACAD]`
+> - "Up to a point, big plants are usually more economical than small ones." `[COCA-ACAD]`
+> - "This is a well-designed car that is also very economical to run." `[COCA-ACAD]`
 
 ---
 

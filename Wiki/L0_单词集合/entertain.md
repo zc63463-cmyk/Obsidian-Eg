@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**招待、款待**== ; ②==**使娱乐、使快乐**== ; ③心里怀着、抱有 ;
+**v.** ①==**招待、款待**== `entertain sb. with sth.` / `entertain guests` ; ②==**使娱乐、使快乐**== `entertain sb.` ; ③心里怀着、抱有 `entertain a hope/idea/possibility` ;
 
 > [!tip] 原型义
 > **原型义**：使人快乐
@@ -128,8 +128,10 @@ enter-(在内) + tain(保持)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He entertains the possibility of counterpreferential choice, even when preferences or goals include moral objectives."（即使偏好或目标包含道德目标，他也考虑了反偏好选择的可能性。）——考研高频表达
-> - "No one entertained the soldier with bread or water."（没有人用面包或水来款待那个士兵。）——考研高频表达
+> - "He entertains the possibility of counterpreferential choice, even when preferences or goals include moral objectives." `[真题]`
+> - "The ladies refuse to even entertain the idea of the look on themselves." `[COCA-ACAD]`
+> - "They always entertain their guests in grand style." `[COCA]`
+> - "The television programme is designed to educate and not merely to entertain." `[COCA]`
 
 ---
 

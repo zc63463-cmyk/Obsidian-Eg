@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**厄运，劫数，毁灭**== ; ②（尤指不公正的）判决 ;
-**v.** ①==**注定，使…注定失败（或灭亡）**== ;
+**n.** ①==**厄运，劫数，毁灭**== `N of N`; `meet one's doom`; ②（尤指不公正的）判决 `pass a doom on sb`;
+**v.** ①==**注定，使…注定失败（或灭亡）**== `be doomed to N`; `be doomed to V`;
 
 > [!tip] 原型义
 > **原型义**：厄运、毁灭的命运——不可逃避的悲惨结局
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All that is needed for the triumph of a misguided cause is that good people do nothing."（一个被误导的事业要取得胜利，所需要的就是好人什么都不做。）——2003考研英语一阅读
-> - "The company seemed doomed to failure from the very beginning."（这家公司从一开始就注定要失败。）——考研高频表达
+> - "The company seemed doomed to failure from the very beginning." `[真题]`
+> - "Those who do not learn from history are doomed to repeat it." `[COCA-ACAD]`
+> - "Their resistance was heroic but it was, ultimately doomed." `[COCA-ACAD]`
+> - "The worst has been living each day with a sense of doom." `[COCA-ACAD]`
 
 ---
 

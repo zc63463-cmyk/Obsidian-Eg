@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**娱乐、娱乐活动**== ; ②==**招待、款待**== ;
+**n.** ①==**娱乐、娱乐活动**== `entertainment industry` / `provide entertainment` ; ②==**招待、款待**== `entertain guests with entertainment` ;
 
 > [!tip] 原型义
 > **原型义**：娱乐活动
@@ -126,8 +126,10 @@ enter-(在内) + tain(保持) + -ment(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "During this decade new forms of entertainment, commerce, research, and communication became commonplace in the U.S."（在这十年间，新的娱乐、商业、研究和通信形式在美国变得司空见惯。）——考研高频表达
-> - "To walk the rounds of the bookshops, dipping in as curiosity dictates, should be an afternoon's entertainment."（按照好奇心驱使在书店里逛逛，随手翻阅，应该是一个下午的消遣。）——考研高频表达
+> - "During this decade new forms of entertainment, commerce, research, and communication became commonplace in the U.S." `[真题]`
+> - "Traditional forms of popular entertainment and their associated excesses were viewed as a threat to social order." `[COCA-ACAD]`
+> - "Explorers were much read and talked about and their adventures were re-enacted in lecture halls, theatres, and in all manner of visual entertainments." `[COCA-ACAD]`
+> - "Champagne was served on the roof terrace and a magician provided entertainment." `[COCA]`
 
 ---
 

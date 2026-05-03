@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**胚胎**==；②==**（事物的）雏形，萌芽期**==；
-**adj.** 胚胎的，初期的；
+**n.** ①==**胚胎**== `human embryo` `embryo research`；②==**（事物的）雏形，萌芽期**== `in embryo` `the embryo of an idea`；
+**adj.** 胚胎的，初期的 `embryonic stage`；
 
 > [!tip] 原型义
 > **原型义**：在内部生长的幼小生命（子宫中早期发育阶段的胎儿）
@@ -130,9 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "still in embryo"（仍处于萌芽阶段）——考研阅读常见搭配，描述计划、政策等尚未成熟
-> - "embryonic stem cell research"（胚胎干细胞研究）——科技伦理类阅读高频话题
-> - "the embryo of a new movement"（一场新运动的雏形）——社科类阅读
+> - "Now that scientists have access to human embryos, the question of genetic engineering arises." `[COCA-ACAD]`
+> - "The government has banned all scientific research using human embryos." `[COCA-NEWS]`
+> - "The project is still at the embryo stage." `[COCA-ACAD]`
+> - "An early embryo of economic government has arrived." `[COCA-ACAD]`
 
 ---
 

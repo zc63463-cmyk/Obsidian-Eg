@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使能够，使可能**==；②==**使实现，促成**==；③授权，批准；
+**vt.** ①==**使能够，使可能**== `` `enable sb. to do sth.` `` `` `enable sth.` ``；②==**使实现，促成**== `` `enable economic growth` ``；③==**授权，批准**==；
 
 > [!tip] 原型义
 > **原型义**：使能够（en- 使…… + able 能够的，字面意思就是"使……变得能够"）
@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "enable sb. to do sth."（使某人能够做某事）——考研阅读/翻译/写作极高频句式
-> - "enable economic growth/development"（促进经济增长/发展）——考研阅读中经济类文章常见搭配
-> - "technology enables..."（技术使……成为可能）——考研写作中科技类话题常用表达
+> - Technology **enables** people to communicate across vast distances in real time. `` `[COCA-ACAD]` ``
+> - Computerization has **enabled** us to do away with a lot of paperwork. `` `[COCA-ACAD]` ``
+> - The system **enables** students to access class materials online. `` `[COCA-ACAD]` ``
 
 ---
 

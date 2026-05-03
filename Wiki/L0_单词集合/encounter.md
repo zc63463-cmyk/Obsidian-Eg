@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**遇到，遭遇**==；②==**偶然碰到**==；③ confrontation（对抗，冲突）；
+**vt.** ①==**遇到，遭遇**== `encounter difficulties/problems` `encounter resistance`；②==**偶然碰到**== `encounter sb.`；③ confrontation（对抗，冲突）；
 **vi.** ①偶遇，邂逅；
-**n.** ①==**相遇，邂逅**==；②==**遭遇，冲突**==；
+**n.** ①==**相遇，邂逅**== `a chance encounter with`；②==**遭遇，冲突**== `an encounter with`；
 
 > [!tip] 原型义
 > **原型义**：面对面相遇（古法语 encontre = en-在 + contre 对/反，字面意思是"对着面"）
@@ -135,9 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "encounter difficulties/problems"（遇到困难/问题）——考研阅读/写作极高频搭配，常用于描述挑战和障碍
-> - "encounter resistance/opposition"（遇到阻力/反对）——考研阅读中社会变革类文章常见搭配
-> - "a chance encounter with"（与……的偶然相遇）——考研阅读中叙事类文章常见表达
+> - Students often encounter difficulties when adapting to a new learning environment. `[COCA-ACAD]`
+> - The army is reported to be encountering considerable resistance. `[COCA-ACAD]`
+> - On my way to the station I encountered a small child begging. `[COCA-ACAD]`
+> - As we left the memorial area we encountered a group of German students. `[例]`
 
 ---
 

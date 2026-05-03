@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**占支配地位的，统治的**== ; ②==**占优势的，显著的**== ; ③（基因）显性的 ;
+**adj.** ①==**占支配地位的，统治的**== `adj. N`; `be dominant in N`; ②==**占优势的，显著的**== `adj. N`; `dominant factor/force`; ③（基因）显性的 `dominant gene`;
 
 > [!tip] 原型义
 > **原型义**：统治的、支配的——拥有最高权力或控制力
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Third, they now dominate left-of-centre politics."（第三，他们现在主导着左翼政治。）——考研真题阅读
-> - "English has become the dominant language of international communication."（英语已成为国际交流的主导语言。）——考研高频表达
+> - "English has become the dominant language of international communication." `[真题]`
+> - "This country remains a dominant force in scientific research." `[COCA-ACAD]`
+> - "The company's competitors say it abuses its dominant position to prevent them from expanding." `[COCA-ACAD]`
+> - "Pyrite is the dominant sulphide mineral." `[COCA-ACAD]`
 
 ---
 

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**精英，上层人士**==；②==**（某领域的）杰出人物**==；
-**adj.** ①精英的；②高档的，精锐的；
+**n.** ①==**精英，上层人士**== `the political/social elite` `the power elite`；②==**（某领域的）杰出人物**== `the intellectual elite`；
+**adj.** ①精英的 `elite education/university`；②高档的，精锐的 `elite forces/troops`；
 
 > [!tip] 原型义
 > **原型义**：挑选出来的最优秀群体（从大众中选拔出的杰出者）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the intellectual elite"（知识精英）——考研阅读常见搭配，描述知识分子群体
-> - "elite education"（精英教育）——教育类阅读高频话题
-> - "the power elite"（权力精英）——社会学、政治学类阅读，源自 C. Wright Mills 的经典概念
+> - "A powerful and corrupt elite has bled this country dry." `[COCA-ACAD]`
+> - "Balancing elite athletics with college-level academics was not easy at first." `[COCA-ACAD]`
+> - "Brazil's political and business elite seem prepared to accept the election results." `[COCA-ACAD]`
+> - "Elite search and rescue teams were on the scene." `[COCA-NEWS]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**效果，结果，影响**==；②==**作用，效力**==（药物、法律等的）；③==**个人财产， belongings**==（通常用复数 effects）；
-**vt.** ①==**使发生，引起，实现**==（bring about, accomplish）；
+**n.** ①==**效果，结果，影响**== `` `have an effect on` `` `` `side effect` ``；②==**作用，效力**==（药物、法律等的）`` `take effect` `` `` `come into effect` ``；③==**个人财产， belongings**==（通常用复数 effects）`` `personal effects` ``；
+**vt.** ①==**使发生，引起，实现**==（bring about, accomplish）`` `effect a change` ``；
 
 > [!tip] 原型义
 > **原型义**：做出来的结果（ef- = ex- "出来" + fect "做" → 做出来的东西就是"效果"）
@@ -139,9 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The policy has a significant effect on reducing carbon emissions."（该政策对减少碳排放有显著影响）——环保类阅读
-> - "The new law will come into effect next month."（新法律将于下月生效）——法律政策类文本
-> - "the domino effect of technological disruption"（技术颠覆的多米诺效应）——科技社会类话题
+> - My parents' divorce had a big effect on me. `[COCA-ACAD]`
+> - The new law will come into effect next month. `[COCA-ACAD]`
+> - The policy has a significant effect on reducing carbon emissions. `[COCA-ACAD]`
+> - Eating junk food will eventually have an effect on your health. `[COCA-ACAD]`
 
 ---
 

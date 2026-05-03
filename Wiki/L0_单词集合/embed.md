@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**把……嵌入，埋入**==；②==**使深留（于记忆、文化等）**==；③[计算机] 嵌入，植入；
+**vt.** ①==**把……嵌入，埋入**== `embed sth in/into sth` `be embedded in`；②==**使深留（于记忆、文化等）**== `be deeply embedded in culture/memory`；③[计算机] 嵌入，植入 `embedded system`；
 **vi.** 嵌入，植入；
 
 > [!tip] 原型义
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "deeply embedded in the culture"（深深植根于文化中）——考研阅读常见搭配，描述文化传统、社会观念的根深蒂固
-> - "embedded in our memory"（深留在我们的记忆中）——描述记忆的深刻程度
-> - "embedded system"（嵌入式系统）——科技类阅读常见术语
+> - "The nails were solidly embedded in those old plaster walls." `[COCA-FIC]`
+> - "Her feelings of guilt are deeply embedded in her personality." `[COCA-ACAD]`
+> - "The making of personal portraits was part of this popular aesthetic, firmly embedded in commercial practices." `[COCA-ACAD]`
+> - "The question is how to embed such a culture within the organization." `[COCA-ACAD]`
 
 ---
 

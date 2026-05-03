@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**教育，教导**==；②==**培养，训练**==（某种品质或能力）；
-**vi.** ①==**教育，教导**==；
+**vt.** ①==**教育，教导**== `` `educate sb (to do sth)` `` `` `educate sb about/on sth` ``；②==**培养，训练**==（某种品质或能力）`` `educate oneself` ``；
+**vi.** ①==**教育，教导**== `` `be educated at/in...` ``；
 
 > [!tip] 原型义
 > **原型义**：将人的潜能引导出来（e- "向外" + duc "引导" + -ate 动词后缀）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is the responsibility of schools to educate children to become responsible citizens."（学校有责任教育孩子成为有责任感的公民）——教育类阅读
-> - "efforts to educate the public about environmental protection"（教育公众了解环保的努力）——环保类话题
-> - "an educated guess"（有根据的推测）——常见固定搭配，考研翻译/阅读
+> - Parents trust schools to educate their children. `[COCA-ACAD]`
+> - The campaign is intended to educate the public about the dangers of drug abuse. `[COCA-ACAD]`
+> - He was educated at his local comprehensive school and then at Oxford. `[COCA-ACAD]`
+> - What we are trying to do is to educate young people to be responsible citizens. `[COCA-ACAD]`
 
 ---
 

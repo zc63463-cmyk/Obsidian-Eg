@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**怀疑，不确定**== ; ②疑虑 ;
-**v.** ①==**怀疑，不确定**== ; ②认为…未必可能 ;
+**n.** ①==**怀疑，不确定**== `N about/as to N`; `no doubt`; ②疑虑 `cast doubt on N`;
+**v.** ①==**怀疑，不确定**== `V whether/if-clause`; `V that-clause`; ②认为…未必可能 `V that-clause`;
 
 > [!tip] 原型义
 > **原型义**：怀疑、不确定——心中有两种想法在摇摆
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The worthy residents of Stratford doubt that the theatre adds a penny to their revenue."（斯特福特镇受人尊敬的居民们认为剧院一点都没有使他们的收入增加。）——2006考研英语一阅读
-> - "No doubt we will remember a 20th century way of life beyond comprehension for its ugliness."（毫无疑问，我们将记住一种因其丑陋而令人难以理解的20世纪生活方式。）——考研真题阅读
+> - "The worthy residents of Stratford doubt that the theatre adds a penny to their revenue." `[真题]`
+> - "No doubt we will remember a 20th century way of life beyond comprehension for its ugliness." `[真题]`
+> - "I doubt whether western democracies have fully grasped this." `[COCA-ACAD]`
+> - "There can be little doubt that smoking is bad for your health." `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**体现，使具体化**==；②==**代表，象征**==；③包含，收录；
+**vt.** ①==**体现，使具体化**== `embody the spirit/values of sth` `embody sth in sth`；②==**代表，象征**== `be the embodiment of sth`；③包含，收录 `embody many features`；
 
 > [!tip] 原型义
 > **原型义**：赋予抽象事物以具体形体（将无形的精神、原则、品质等赋予有形的身体）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "embody the spirit of innovation"（体现创新精神）——考研阅读/翻译高频搭配，描述人物或组织的精神品质
-> - "the embodiment of courage"（勇气的化身）——文学类、评论类文本
-> - "embody the principle of fairness"（体现公平原则）——社科类阅读
+> - "The new constitution embodied the right to free speech." `[COCA-ACAD]`
+> - "We want to build a national team that embodies competitive spirit and skill." `[COCA-NEWS]`
+> - "This model embodies many new features." `[COCA-ACAD]`
+> - "Its founding charter ought therefore to declare its independence, and its legal form should embody that independence." `[COCA-ACAD]`
 
 ---
 

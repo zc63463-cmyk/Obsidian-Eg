@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**多种多样的，形形色色的**==；②==**不同的，相异的**==；
+**adj.** ①==**多种多样的，形形色色的**== `a diverse range of N`; `diverse N`; ②==**不同的，相异的**== `diverse opinions/views`; `diverse backgrounds`;
 
 > [!tip] 原型义
 > **原型义**：转向不同方向，各不相同（di-分开 + vers-转 → 转向不同的方向）
@@ -133,8 +133,10 @@ di-(分开，不同) + vers(转) + -e = diverse（转向不同方向的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The findings do not simply explain people's tendency to befriend those of similar ethnic backgrounds."（研究结果并非简单地解释了人们趋向于和种族背景相似的人交朋友。）——2015年考研英语真题
-> - "America is a nation of diverse cultures and traditions."（美国是一个拥有多元文化和传统的国家。）——考研高频表达
+> - "Los Angeles is a culturally diverse city." `[COCA-ACAD]`
+> - "We hold very diverse views on the topic." `[COCA-ACAD]`
+> - "There is a diverse range of opinion on the issue." `[COCA-ACAD]`
+> - "Members of the largest and most diverse phylum of animals have segmented bodies and an external skeleton." `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**持久的，耐用的**== ; ②持久的（影响、关系等） ;
+**adj.** ①==**持久的，耐用的**== `durable goods` `durable materials` ; ②持久的（影响、关系等） `durable peace` ;
 
 > [!tip] 原型义
 > **原型义**：能够持续很久的
@@ -125,8 +125,10 @@ dur(持续，坚硬) + -able(能够...的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Mass-produced clothing, like fast food, fills a hunger and need, yet is non-durable and wasteful."（大批量生产的衣服，就像快餐一样，能填饱肚子、满足需求，却不耐用且浪费。）——2013考研英语一阅读
-> - "The two nations signed a treaty for durable peace."（两国签署了持久和平条约。）——考研高频表达
+> - "Mass-produced clothing, like fast food, fills a hunger and need, yet is non-durable and wasteful." `[真题]`
+> - "But without advancing development and anti-poverty goals, we will not create durable peace." `[COCA-ACAD]`
+> - "Only then will anything durable come of debates such as this one today." `[COCA-ACAD]`
+> - "And judging by their orders of durable goods, businesses may be scaling back spending." `[COCA-ACAD]`
 
 ---
 
