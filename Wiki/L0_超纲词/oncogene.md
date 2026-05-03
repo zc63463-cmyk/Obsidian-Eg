@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**致癌基因，肿瘤基因**==；
+**n.** ①==**致癌基因，肿瘤基因**== `N of N` [学术]；`adj N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：肿瘤基因（导致肿瘤形成的基因）
@@ -118,7 +118,8 @@ onco-(=tumor/肿块, 肿瘤) + [[gen]](=[[gen]], 产生/基因)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - oncogene 常出现在医学和生物学相关文章中。
+> - `[例]` The activation of an oncogene can trigger uncontrolled cell division.
+> - `[例]` Researchers identified a new oncogene associated with certain types of lung cancer.
 
 ## 复习记录
 

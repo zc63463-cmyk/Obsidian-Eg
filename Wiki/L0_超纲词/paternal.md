@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**父亲的，父系的**==；②如父亲般的，慈爱的；
+**adj.** ①==**父亲的，父系的**== `adj N` [通用]；②==**如父亲般的，慈爱的**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：父亲的
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He took a paternal interest in the young apprentices.（他对年轻学徒表现出如父亲般的关怀）
-> - Maternal and paternal influences both play important roles in child development.（母亲和父亲的影响在儿童发展中都扮演重要角色）
+> - `[例]` He took a paternal interest in the young apprentices.
+> - `[例]` Maternal and paternal influences both play important roles in child development.
 
 ## 复习记录
 

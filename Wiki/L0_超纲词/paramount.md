@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**至高无上的，最重要的**==；②==**首要的，卓越的**==；
+**adj.** ①==**至高无上的，最重要的**== `of paramount N` [正式]；②==**首要的，卓越的**== `a paramount N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：高于一切的（意大利语 *paramounte*，源自 *para-* "超越" + *monte* "山"）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Safety is of paramount importance in the manufacturing industry."（在制造业中，安全是至关重要的。）
-> - "It is of paramount importance that we find a solution before the deadline."（在截止日期之前找到解决方案至关重要。）
+> - `[例]` Safety is of paramount importance in the manufacturing industry.
+> - `[例]` It is of paramount importance that we find a solution before the deadline.
 
 ## 复习记录
 

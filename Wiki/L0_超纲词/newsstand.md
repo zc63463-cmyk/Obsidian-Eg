@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**报刊亭，报摊**==（街头售卖报纸和杂志的摊位）；
+**n.** ①==**报刊亭，报摊**== `at the N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：报刊亭（街头售卖报纸和杂志的摊位）
@@ -120,8 +120,8 @@ news（新闻/报纸）+ stand（摊位/支架）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He picked up a copy of the evening paper at the newsstand on his way home."（他在回家的路上从报刊亭买了一份晚报。）
-> - "The newsstand sells a wide variety of magazines and newspapers."（这家报刊亭出售各种杂志和报纸。）
+> - `[例]` He picked up a copy of the evening paper at the newsstand on his way home.
+> - `[例]` The newsstand sells a wide variety of magazines and newspapers.
 
 ## 复习记录
 

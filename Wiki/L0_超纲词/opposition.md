@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**反对，抵抗**==；②==**反对派，在野党**==；③对立，相反；
+**n.** ①==**反对，抵抗**== `in opposition to N` `face N`；②==**反对派，在野党**== `the N` `N to N`；③对立，相反 `N between N1 and N2`；
 
 > [!tip] 原型义
 > **原型义**：对着放置（放在对面——拉丁语 *opponere*）
@@ -127,7 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The proposal faced strong opposition from local residents."（该提案遭到了当地居民的强烈反对。）
+> - `[例]` The proposal faced strong opposition from local residents who feared increased traffic congestion.
+> - `[例]` The opposition party called for a vote of no confidence in the prime minister.
+> - `[例]` There is a fundamental opposition between the two philosophical traditions.
 
 ## 复习记录
 

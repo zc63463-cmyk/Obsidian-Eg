@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**显著地，明显地**==；②尤其，特别；
+**adv.** ①==**显著地，明显地**== `V notably` [中性] `notably adj` [正式]；②==**尤其，特别**== `notably, ...` [正式]；
 
 > [!tip] 原型义
 > **原型义**：显著地（值得注意地）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The cost of living has notably increased over the past decade."（过去十年间，生活成本显著增加。）
-> - "Several countries, notably China and India, have experienced rapid economic growth."（几个国家，尤其是中国和印度，经历了快速的经济增长。）
+> - `[例]` The cost of living has notably increased over the past decade.
+> - `[例]` Several countries, notably China and India, have experienced rapid economic growth.
 
 ## 复习记录
 

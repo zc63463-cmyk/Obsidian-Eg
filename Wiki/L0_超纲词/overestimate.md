@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**高估，过高估计**==；
-**n.** ①==**高估**==；
+**v.** ①==**高估，过高估计**== `V N` [中性]；
+**n.** ①==**高估**== [中性]；
 
 > [!tip] 原型义
 > **原型义**：过高估计（在估计时超过了实际值）
@@ -121,7 +121,8 @@ over-(过度) + [[estim]](=estimate, 估计) + -ate(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "We tend to overestimate the likelihood of positive events."（我们倾向于高估积极事件发生的可能性。）
+> - `[例]` We tend to overestimate the likelihood of positive events.
+> - `[例]` The government overestimated the economic growth rate.
 
 ## 复习记录
 

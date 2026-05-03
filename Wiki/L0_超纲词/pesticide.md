@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**杀虫剂，农药**==；
+**n.** ①==**杀虫剂，农药**== `N residue` [学术]；`ban on N` [新闻]；
 
 > [!tip] 原型义
 > **原型义**：杀灭害虫的化学物质
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The study found pesticide residues on 70% of the fruit samples tested.（研究发现70%的受检水果样本上有农药残留）
-> - Many countries have imposed restrictions on the use of chemical pesticides.（许多国家对化学农药的使用实施了限制）
+> - `[例]` The study found pesticide residues on 70% of the fruit samples tested.
+> - `[例]` Many countries have imposed restrictions on the use of chemical pesticides.
 
 ## 复习记录
 

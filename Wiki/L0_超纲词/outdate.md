@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使过时，使陈旧**==；
+**v.** ①==**使过时，使陈旧**== `V N` / `N V-ed` [中性/负面]；
 
 > [!tip] 原型义
 > **原型义**：使过时（使某物落在时间后面）
@@ -118,7 +118,8 @@ out-(超出/胜过) + date(日期/时代)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - outdate 常以 outdated 形式出现在科技和社会变革相关文章中。
+> - `[例]` Rapid technological advances have outdated many traditional manufacturing methods.
+> - `[例]` The university's outdated curriculum fails to prepare students for modern careers.
 
 ## 复习记录
 

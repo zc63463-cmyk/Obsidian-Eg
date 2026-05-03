@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**新星**==（恒星突然大幅增亮的天文现象）；
+**n.** ①==**新星**== `observe a nova` `a nova in N` [天文]（恒星突然大幅增亮的天文现象）；
 
 > [!tip] 原型义
 > **原型义**：新星（突然变亮的恒星）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Astronomers observed a nova in the Andromeda galaxy."（天文学家观测到了仙女座星系中的一颗新星。）
-> - "A supernova occurs when a massive star reaches the end of its life."（超新星发生在大质量恒星生命终结时。）
+> - `[例]` "Astronomers observed a nova in the Andromeda galaxy."
+> - `[例]` "The nova was visible to the naked eye for several days before it gradually faded."
 
 ## 复习记录
 

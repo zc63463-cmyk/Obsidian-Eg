@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**过大的，超大型的**==；
+**adj.** ①==**过大的，超大型的**== `be adj` [中性]；
 
 > [!tip] 原型义
 > **原型义**：过大的（在尺寸上超过了标准）
@@ -119,7 +119,8 @@ over-(过度) + size(尺寸)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - oversize 常用于物流、服装和设计相关语境中。
+> - `[例]` The truck was carrying an oversize load that required a special permit.
+> - `[例]` Oversize clothes have become a popular fashion trend in recent years.
 
 ## 复习记录
 

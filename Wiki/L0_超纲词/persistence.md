@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**坚持不懈，执着**==；②持续存在，持久性；
+**n.** ①==**坚持不懈，执着**== `N pays off` [通用]；`show N` [正式]；②==**持续存在，持久性**== `the N of N` [学术]；`N in N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：坚持不懈的品质
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Her persistence eventually paid off when she was offered the position.（她的坚持不懈最终得到了回报，她获得了这个职位）
-> - The persistence of racial inequality remains one of the greatest challenges facing society.（种族不平等的持续存在仍然是社会面临的最大挑战之一）
+> - `[例]` Her persistence eventually paid off when she was offered the position.
+> - `[例]` The persistence of racial inequality remains one of the greatest challenges facing society.
 
 ## 复习记录
 

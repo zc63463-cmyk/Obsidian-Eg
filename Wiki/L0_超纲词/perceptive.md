@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**观察敏锐的，有洞察力的**==；②感知的，知觉的；
+**adj.** ①==**观察敏锐的，有洞察力的**== `a adj N` [正面/中性] `be adj enough to V` [正面/中性]；②==**感知的，知觉的**== `adj N` [学术/中性]；
 
 > [!tip] 原型义
 > **原型义**：感知力强的
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She made a perceptive comment about the underlying causes of the conflict.（她对冲突的根本原因做出了敏锐的评论）
-> - A perceptive reader will notice the subtle changes in the author's tone.（敏锐的读者会注意到作者语气的微妙变化）
+> - `[例]` She made a perceptive comment about the underlying causes of the conflict.
+> - `[例]` A perceptive reader will notice the subtle changes in the author's tone.
 
 ## 复习记录
 

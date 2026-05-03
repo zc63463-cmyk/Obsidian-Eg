@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**压迫，压制**==；②==**沉闷，压抑**==（心理感受）；
+**n.** ①==**压迫，压制**== `N of N` `under N`；②==**沉闷，压抑**==（心理感受）`a sense of N`；
 
 > [!tip] 原型义
 > **原型义**：压下去（向下施压——拉丁语 *opprimere*）
@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - oppression 常出现在历史、政治和社会学相关文章中。
+> - `[例]` The regime maintained its power through political oppression and censorship of the media.
+> - `[例]` Centuries of colonial oppression left deep scars on the nation's collective memory.
+> - `[例]` The oppression of the summer heat made it difficult to focus on any outdoor activity.
 
 ## 复习记录
 

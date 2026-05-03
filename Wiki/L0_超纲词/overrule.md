@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**推翻，否决**==；②==**（上级）驳回（下级的决定）**==；
+**v.** ①==**推翻，否决**== `V N` [中性]；②==**（上级）驳回（下级的决定）**== `V N` [法律]；
 
 > [!tip] 原型义
 > **原型义**：在上面裁决（在更高的位置上做出裁决）
@@ -120,7 +120,8 @@ over-(在上面/超越) + rule(裁决/统治)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Supreme Court overruled the lower court's decision."（最高法院推翻了下级法院的决定。）
+> - `[例]` The Supreme Court overruled the lower court's decision.
+> - `[例]` The judge overruled the objection raised by the defense attorney.
 
 ## 复习记录
 

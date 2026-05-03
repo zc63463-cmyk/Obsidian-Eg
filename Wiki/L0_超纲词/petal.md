@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**花瓣**==；
+**n.** ①==**花瓣**== `N of N` [文学]；`adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：花瓣
@@ -120,8 +120,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Cherry blossom petals drifted gently in the spring breeze.（樱花花瓣在春风中轻轻飘落）
-> - The rose petals were scattered along the aisle for the wedding ceremony.（婚礼通道上撒满了玫瑰花瓣）
+> - `[例]` Cherry blossom petals drifted gently in the spring breeze.
+> - `[例]` The rose petals were scattered along the aisle for the wedding ceremony.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**组织的，机构的**==；②==**组织管理的，与组织结构相关的**==；
+**adj.** ①==**组织的，机构的**== `adj N`；②==**组织管理的，与组织结构相关的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：组织的（与组织相关的）
@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - organizational 常用于管理学、商业和社会学相关文章中。
+> - `[例]` The company underwent a major restructuring of its organizational structure to improve efficiency.
+> - `[例]` Strong organizational skills are essential for managing complex projects with tight deadlines.
+> - `[例]` Organizational culture plays a crucial role in employee satisfaction and retention rates.
 
 ## 复习记录
 

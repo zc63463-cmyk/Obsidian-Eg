@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**夸大，言过其实**==；
+**v.** ①==**夸大，言过其实**== `V N` [负面]；
 
 > [!tip] 原型义
 > **原型义**：过度陈述（在陈述时超过了事实）
@@ -119,7 +119,8 @@ over-(过度) + [[st-sta-stat]](=[[st-sta-stat]], 站立/陈述)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It is difficult to overstate the significance of this discovery."（这一发现的意义怎么强调都不为过。）
+> - `[例]` It is difficult to overstate the significance of this discovery.
+> - `[例]` The report overstated the benefits of the new policy.
 
 ## 复习记录
 

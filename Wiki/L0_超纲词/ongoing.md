@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**正在进行的，持续进行的**==；②不断发展的；
+**adj.** ①==**正在进行的，持续进行的**== `adj N` [通用]；`adj N` [学术]；②==**不断发展的**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：正在进行的（持续向前走的）
@@ -123,7 +123,8 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - ongoing 是考研高频词，常用于学术和新闻语境中，如 "The ongoing debate over climate change..."（关于气候变化的持续争论……）
+> - `[例]` The ongoing debate over climate change has intensified in recent years.
+> - `[例]` Police are conducting an ongoing investigation into the incident.
 
 ## 复习记录
 

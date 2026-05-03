@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**海洋学家**==；
+**n.** ①==**海洋学家**== `N V` [学术]；`N1 and N2` [学术]；
 
 > [!tip] 原型义
 > **原型义**：记录海洋的人（研究并描述海洋的科学家）
@@ -118,7 +118,8 @@ ocean(海洋) + [[graph-gram]](=[[graph-gram]], 写/记录) + -er(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - oceanographer 常出现在科普阅读和学术文章中。
+> - `[例]` The oceanographer spent three months studying deep-sea volcanic vents.
+> - `[例]` Marine biologists and oceanographers collaborated on the research project.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**养育，育儿**==；②（父母对子女的）教养方式；
+**n.** ①==**养育，育儿**== `adj N` [通用]；②==**（父母对子女的）教养方式**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：父母养育子女的行为与过程
@@ -124,8 +124,8 @@ parent（父母）+ -ing（动名词后缀，表行为/过程）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Parenting requires patience, love, and a willingness to learn from mistakes.（育儿需要耐心、爱心和从错误中学习的意愿）
-> - Different cultures have different approaches to parenting.（不同文化有不同的育儿方式）
+> - `[例]` Parenting requires patience, love, and a willingness to learn from mistakes.
+> - `[例]` Different cultures have different approaches to parenting.
 
 ## 复习记录
 

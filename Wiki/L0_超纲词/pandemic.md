@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**（疾病）大流行的，普遍的**==；
-**n.** ①==**大流行病**==（如 COVID-19 pandemic）；
+**adj.** ①==**（疾病）大流行的，普遍的**== `a pandemic N` [学术]；
+**n.** ①==**大流行病**== `the N` `declare a N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：遍及所有人的疾病（希腊语 *pan-* "全部" + *demos* "人民"）
@@ -130,8 +130,8 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The World Health Organization declared the COVID-19 outbreak a pandemic in March 2020."（世界卫生组织于2020年3月宣布COVID-19疫情为大流行病。）
-> - "The 1918 flu pandemic killed an estimated 50 million people worldwide."（1918年流感大流行估计在全球造成5000万人死亡。）
+> - `[例]` The World Health Organization declared the COVID-19 outbreak a pandemic in March 2020.
+> - `[例]` The 1918 flu pandemic killed an estimated 50 million people worldwide.
 
 ## 复习记录
 

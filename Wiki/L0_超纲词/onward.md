@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj./adv.** ①==**向前的（地），前进的（地）**==；②继续的；
+**adj./adv.** ①==**向前的（地），前进的（地）**== `prep N` `adj N`；②继续的 `from N onward`；
 
 > [!tip] 原型义
 > **原型义**：向前的（朝着前方移动的）
@@ -122,7 +122,9 @@ on-(=on/forward, 在……上/向前) + -ward(=toward, 朝向……方向)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - onward 常用于正式语境中表示"从某时起"或"继续前进"。
+> - `[例]` From this day onward, the company will implement a new environmental policy.
+> - `[例]` The onward journey took them through dense forests and across several rivers.
+> - `[例]` Onward and upward — that has always been the spirit of this team.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**夸张的，言过其实的**==；②==**过分渲染的**==；
+**adj.** ①==**夸张的，言过其实的**== `adj N` [负面]；②==**过分渲染的**== `adj N` [负面]；
 
 > [!tip] 原型义
 > **原型义**：吹过头的（被过度吹大的）
@@ -121,7 +121,8 @@ over-(过度) + blown(=blow的过去分词, 吹)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The media's coverage of the event was overblown."（媒体对这一事件的报道言过其实。）
+> - `[例]` The media's coverage of the scandal was widely criticized as overblown and sensationalist.
+> - `[例]` Critics argue that the public's fears about the new technology are largely overblown.
 
 ## 复习记录
 

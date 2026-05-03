@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**多付，付得过多**==；②==**给……过高报酬**==；
+**v.** ①==**多付，付得过多**== `V prep N` [中性]；②==**给……过高报酬**== `V N1 N2` [负面]；
 
 > [!tip] 原型义
 > **原型义**：付得过多（在支付上超过了应付金额）
@@ -120,7 +120,8 @@ over-(过度) + pay(支付)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many consumers overpay for brand-name products."（许多消费者为品牌产品多付了钱。）
+> - `[例]` Many consumers overpay for brand-name products.
+> - `[例]` Some companies overpay their executives by offering excessive bonuses.
 
 ## 复习记录
 

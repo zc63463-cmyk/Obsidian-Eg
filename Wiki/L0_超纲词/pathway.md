@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**路径，通道**==；②途径，方式；③（生物学中的）通路；
+**n.** ①==**路径，通道**== `a N to N` [通用]；②==**途径，方式**== `a N to N` [通用]；③==**（生物学中的）通路**== `adj N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：通道，路径
@@ -128,8 +128,8 @@ path（路径/道路）+ way（方式/道路）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The university offers multiple career pathways for students in the sciences.（该大学为理科学生提供多种职业发展路径）
-> - Regular exercise strengthens neural pathways in the brain.（规律运动能增强大脑中的神经通路）
+> - `[例]` The university offers multiple career pathways for students in the sciences.
+> - `[例]` Regular exercise strengthens neural pathways in the brain.
 
 ## 复习记录
 

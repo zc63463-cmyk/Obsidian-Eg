@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**强烈抗议，公众愤慨**==；②==**呐喊，尖叫**==；
+**n.** ①==**强烈抗议，公众愤慨**== `a public outcry` / `V an outcry` [强烈]；②==**呐喊，尖叫**== `an outcry of N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：向外的叫喊（out + cry）
@@ -122,7 +122,8 @@ out-(向外) + cry(叫喊)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The decision sparked a public outcry."（这项决定引发了公众抗议。）
+> - `[例]` The government's decision to raise taxes sparked a public outcry across the nation.
+> - `[例]` There was a widespread outcry from local residents against the construction of the new highway.
 
 ## 复习记录
 

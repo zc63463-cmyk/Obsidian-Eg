@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**省略，遗漏**==；②==**疏忽，失职**==；
+**n.** ①==**省略，遗漏**== `N of N` [正式]；`N from N` [正式]；②==**疏忽，失职**== `N of N` [正式]；`adj N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：送走（把某物送走使之不在——拉丁语 *omittere*）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The omission of key data from the report raised serious concerns."（报告中关键数据的遗漏引起了严重关切。）
+> - `[例]` The omission of key data from the report raised serious concerns.
+> - `[例]` The error was one of omission rather than commission.
 
 ## 复习记录
 

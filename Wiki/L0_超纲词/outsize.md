@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**特大的，超大的**==；
-**n.** ①==**特大号**==；
+**adj.** ①==**特大的，超大的**== `adj N` [中性]；
+**n.** ①==**特大号**== `N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：超出常规大小的（在尺寸上超出标准）
@@ -123,7 +123,8 @@ out-(超出) + size(尺寸/大小)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - outsize 常用于商业和政治语境中，如 "The company enjoys outsize influence in the industry."（该公司在行业中拥有超常的影响力。）
+> - `[例]` The company enjoys outsize influence in the global technology sector despite its relatively small size.
+> - `[例]` Investors are hoping for outsize returns from the emerging market fund this quarter.
 
 ## 复习记录
 

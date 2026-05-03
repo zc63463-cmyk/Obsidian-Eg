@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**过度地，过于**==；
+**adv.** ①==**过度地，过于**== `adv adj` [中性]；
 
 > [!tip] 原型义
 > **原型义**：过度地（超过了适当的程度）
@@ -121,7 +121,8 @@ over-(过度) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Don't be overly concerned about the results."（不要对结果过于担心。）
+> - `[例]` Don't be overly concerned about the results.
+> - `[例]` The software has become overly complex for most users.
 
 ## 复习记录
 

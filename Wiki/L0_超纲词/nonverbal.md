@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**非语言的，非言语的**==（不使用语言的交流方式）；
+**adj.** ①==**非语言的，非言语的**== `N communication/cues` [学术] `N behavior/signals` [中性]；
 
 > [!tip] 原型义
 > **原型义**：非语言的（不使用语言的）
@@ -120,8 +120,8 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Research shows that nonverbal communication accounts for a significant portion of human interaction."（研究表明，非语言交流在人际互动中占很大比重。）
-> - "Her nonverbal cues — a crossed arms and a furrowed brow — suggested she was not pleased."（她的非语言线索——交叉的双臂和紧锁的眉头——表明她不高兴。）
+> - `[例]` Research shows that nonverbal communication accounts for a significant portion of human interaction.
+> - `[例]` Her nonverbal cues — crossed arms and a furrowed brow — suggested she was not pleased.
 
 ## 复习记录
 

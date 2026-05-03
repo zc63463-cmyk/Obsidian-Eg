@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**轻推，碰（肘）**==；②劝说，促使（温和地推动某人做某事）；
-**n.** ①轻推；②温和的推动/劝说；
+**v.** ①==**轻推，碰（肘）**== `nudge N` `give N a nudge` [日常]；②==**劝说，促使**== `nudge N into V-ing` `nudge N towards N` [正式]；
+**n.** ①==**轻推**== `give N a nudge` [日常]；②==**温和的推动/劝说**== `a gentle nudge` [正式]；
 
 > [!tip] 原型义
 > **原型义**：轻推（用肘轻轻推一下）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She gave him a nudge to remind him that it was time to leave."（她轻轻推了他一下，提醒他该走了。）
-> - "The government hopes to nudge people towards healthier eating habits through subtle policy changes."（政府希望通过微妙的政策变化温和地推动人们养成更健康的饮食习惯。）
+> - `[例]` "She gave him a nudge to remind him that it was time to leave."
+> - `[例]` "The government hopes to nudge people towards healthier eating habits through subtle policy changes."
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**吵闹地，喧闹地**==；
+**adv.** ①==**吵闹地，喧闹地**== `V noisily` [中性] `noisily V` [中性]；
 
 > [!tip] 原型义
 > **原型义**：吵闹地（发出很大声音地）
@@ -124,8 +124,8 @@ noise（噪音）+ -y（形容词后缀，充满……的）+ -ly（副词后缀
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The children played noisily in the backyard while their parents talked."（孩子们在后院吵闹地玩耍，父母们在聊天。）
-> - "The old engine rattled noisily as the train pulled out of the station."（列车驶出车站时，老旧的发动机发出嘈杂的响声。）
+> - `[例]` The children played noisily in the backyard while their parents talked.
+> - `[例]` The old engine rattled noisily as the train pulled out of the station.
 
 ## 复习记录
 

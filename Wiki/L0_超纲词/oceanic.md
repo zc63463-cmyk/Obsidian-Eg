@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**海洋的，大洋的**==；②==**巨大的，广阔的**==（比喻义）；
+**adj.** ①==**海洋的，大洋的**== `adj N` [学术]；②==**巨大的，广阔的**== `adj N` [文学]（比喻义）；
 
 > [!tip] 原型义
 > **原型义**：海洋的（属于海洋的）
@@ -124,7 +124,8 @@ ocean(海洋) + -ic(=……的，形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - oceanic 常用于地理学和地球科学语境中，如 "oceanic crust is thinner than continental crust"（大洋地壳比大陆地壳薄）。
+> - `[例]` The oceanic crust is significantly thinner than the continental crust.
+> - `[例]` The project required an oceanic amount of data to be processed.
 
 ## 复习记录
 

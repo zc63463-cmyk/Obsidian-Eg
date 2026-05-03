@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**催产素**==；②==**催产素（"爱的荷尔蒙"，与信任和社交纽带相关）**==；
+**n.** ①==**催产素**== `N levels` `N release` [学术]；②==**催产素（"爱的荷尔蒙"，与信任和社交纽带相关）**== `N and N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：催产素（促进分娩的激素）
@@ -120,7 +120,8 @@ oxy-(=sharp/rapid, 快速的) + tocos(=childbirth, 分娩) + -in(化学物质后
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - oxytocin 常出现在心理学、神经科学和科普文章中。
+> - `[例]` Oxytocin levels rise significantly during physical contact such as hugging.
+> - `[例]` Researchers have found that oxytocin plays a key role in building trust between individuals.
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**值得注意的，显著的**==；
+**adj.** ①==**值得注意的，显著的**== `a noteworthy N` `it is noteworthy that-clause` [正式]；
 
 > [!tip] 原型义
 > **原型义**：值得注意的（值得关注或记录的）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The research produced several noteworthy findings about climate change."（这项研究在气候变化方面取得了几个值得注意的发现。）
-> - "It is noteworthy that the company's profits doubled in a single year."（值得注意的是，该公司利润在一年内翻了一番。）
+> - `[例]` "The research produced several noteworthy findings about climate change."
+> - `[例]` "It is noteworthy that the company's profits doubled in a single year."
 
 ## 复习记录
 

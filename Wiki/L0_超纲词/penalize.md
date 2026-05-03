@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**惩罚，处罚**==；②对……不利，使处于不利地位；
+**v.** ①==**惩罚，处罚**== `V N` [中性] `V N for N` [中性]；②==**对……不利，使处于不利地位**== `V N` [贬义] `be V-ed` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：对……处以惩罚
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The tax system penalizes low-income families by imposing higher effective rates.（税收制度通过施加更高的实际税率使低收入家庭处于不利地位）
-> - Players who commit fouls will be penalized according to the rules.（犯规的球员将按规定受到处罚）
+> - `[例]` The tax system penalizes low-income families by imposing higher effective rates.
+> - `[例]` Players who commit fouls will be penalized according to the rules.
 
 ## 复习记录
 

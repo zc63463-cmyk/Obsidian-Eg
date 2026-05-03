@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人不快的，令人反感的**==；②引起反对的，不可接受的；
+**adj.** ①==**令人不快的，令人反感的**== `objectionable N` `find N objectionable` [正式]；②==**引起反对的，不可接受的**== `highly objectionable` [正式]；
 
 > [!tip] 原型义
 > **原型义**：引起反对的（被投向反对方向的）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - objectionable 常用于正式语境中描述违反社会规范或道德标准的内容和行为。
+> - `[例]` "The committee deemed the advertisement objectionable and ordered its immediate removal."
+> - `[例]` "Many parents found the content of the television programme highly objectionable."
 
 ## 复习记录
 

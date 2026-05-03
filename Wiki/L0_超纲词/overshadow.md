@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使……黯然失色，使……相形见绌**==；②==**给……蒙上阴影**==；③==**遮蔽**==；
+**v.** ①==**使……黯然失色，使……相形见绌**== `V N` [中性]；②==**给……蒙上阴影**== `V N` [负面]；③==**遮蔽**== `V N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：在上面投下阴影（在上方遮住光线）
@@ -123,7 +123,8 @@ over-(在上面) + shadow(阴影)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Her success was overshadowed by the controversy."（她的成功被争议蒙上了阴影。）
+> - `[例]` Her success was overshadowed by the controversy.
+> - `[例]` Tall buildings overshadow the small park in the city center.
 
 ## 复习记录
 

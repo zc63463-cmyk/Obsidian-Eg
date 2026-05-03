@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**平等，同等**==；②（数学中的）奇偶性；③（货币的）平价；
+**n.** ①==**平等，同等**== `N between N1 and N2` [通用]；②==**（数学中的）奇偶性**== `N` [学术]；③==**（货币的）平价**== `adj N` [经济]；
 
 > [!tip] 原型义
 > **原型义**：相等的状态或条件
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The report highlights the lack of gender parity in corporate leadership.（报告强调了企业领导层中性别平等的缺失）
-> - Purchasing power parity is used to compare the economic output of different countries.（购买力平价被用于比较不同国家的经济产出）
+> - `[例]` The report highlights the lack of gender parity in corporate leadership.
+> - `[例]` Purchasing power parity is used to compare the economic output of different countries.
 
 ## 复习记录
 

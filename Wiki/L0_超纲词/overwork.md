@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**工作过度，操劳过度**==；
-**n.** ①==**过度工作**==；
+**v.** ①==**工作过度，操劳过度**== `V oneself` `V N` [日常]；
+**n.** ①==**过度工作**== `N of N` `die from N` [日常]；
 
 > [!tip] 原型义
 > **原型义**：工作过度（在工作上超过了适当限度）
@@ -124,7 +124,8 @@ over-(过度) + work(工作)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - overwork 常出现在健康、职场和社会问题相关文章中。
+> - `[例]` Many employees overwork themselves to meet unreasonable deadlines.
+> - `[例]` Prolonged overwork can lead to serious health problems including burnout.
 
 ## 复习记录
 

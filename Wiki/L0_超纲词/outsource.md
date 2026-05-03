@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**外包，外购**==；
+**v.** ①==**外包，外购**== `V N` / `V N to N` [中性/商业]；
 
 > [!tip] 原型义
 > **原型义**：向外采购（从外部获取资源或服务）
@@ -120,7 +120,8 @@ out-(向外/外部) + [[sourc|source]](=来源/资源)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many companies outsource their manufacturing to countries with lower labor costs."（许多公司将生产外包给劳动力成本较低的国家。）
+> - `[例]` Many companies outsource their manufacturing to countries with lower labor costs to remain competitive.
+> - `[例]` The firm decided to outsource its customer service operations to a specialized agency overseas.
 
 ## 复习记录
 

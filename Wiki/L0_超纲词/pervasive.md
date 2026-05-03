@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**遍布的，无处不在的**==（强调渗透到每个角落）；
+**adj.** ①==**遍布的，无处不在的**== `adj N` [正式]；`be adj in N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：遍布各处的，无处不在的
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The pervasive influence of social media has transformed how people communicate.（社交媒体无处不在的影响已经改变了人们的交流方式）
-> - Corruption remains a pervasive problem in many developing countries.（腐败在许多发展中国家仍然是一个普遍存在的问题）
+> - `[例]` The pervasive influence of social media has transformed how people communicate.
+> - `[例]` Corruption remains a pervasive problem in many developing countries.
 
 ## 复习记录
 

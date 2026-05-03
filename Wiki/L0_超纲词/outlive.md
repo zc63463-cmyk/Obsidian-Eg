@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**比……活得长，比……经久**==；②==**度过（危机），熬过**==；
+**v.** ①==**比……活得长，比……经久**== `V N` [中性]；②==**度过（危机），熬过**== `V N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：活得比……长（在生命长度上超出）
@@ -122,7 +122,8 @@ out-(超出) + live(活/生存)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He outlived his wife by ten years."（他比妻子多活了十年。）
+> - `[例]` He outlived his wife by ten years and spent his remaining days in their countryside cottage.
+> - `[例]` Some traditions outlive the generations that created them and continue to shape modern society.
 
 ## 复习记录
 
