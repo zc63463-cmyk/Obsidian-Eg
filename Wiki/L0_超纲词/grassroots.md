@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**基层的，草根的**==；②来自民众的；③基本的，根本的；
-**n.** ①==**基层群众，草根阶层**==；②基础；
+**adj.** ①==**基层的，草根的**== `adj + N` [正式] `N + adj` [正式]；②==**来自民众的**== `adj + N` [正式]；③==**基本的，根本的**== `adj + N` [正式]；
+**n.** ①==**基层群众，草根阶层**== `the N` [正式] `at N level` [正式]；②==**基础**== `N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：草根的层面（grass 草 + roots 根——植物最底层的部分）
@@ -129,8 +129,8 @@ grass(草) + roots(根) + -s(复数)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The environmental movement began as a grassroots campaign."（环保运动最初是一场草根运动。）
-> - "Politicians need to maintain contact with the grassroots."（政治家需要与基层群众保持联系。）
+> - The environmental movement began as a grassroots campaign. `[例]`
+> - Politicians need to maintain contact with the grassroots. `[例]`
 
 ## 复习记录
 

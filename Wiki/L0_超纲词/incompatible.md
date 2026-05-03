@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不兼容的，不能共存的**==；②合不来的（人）；③不一致的；
+**adj.** ①==**不兼容的，不能共存的**== `incompatible with sth` [正式] `mutually incompatible` [正式]；②==**合不来的（人）**== `incompatible personalities` [正式]；③==**不一致的**== `incompatible ideas/goals` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不能共存的、不兼容的
@@ -124,7 +124,8 @@ in-(不) + com-(一起) + pat(适合/承受，拉丁语 *pati*) + -ible(可…�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - incompatible 常出现在科技、哲学类文章中，讨论系统兼容性和观点矛盾。
+> - The new software update is incompatible with older versions of the operating system. `[例]`
+> - Their fundamentally incompatible worldviews eventually led to the dissolution of their partnership. `[例]`
 
 ## 复习记录
 

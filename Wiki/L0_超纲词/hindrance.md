@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阻碍，妨碍**==；②妨碍的人/事物；
+**n.** ①==**阻碍，妨碍**== `be a hindrance to sth` [正式] `without hindrance` [正式]；②==**妨碍的人/事物**== `more of a hindrance than a help` [口语]；
 > [!tip] 原型义
 > **原型义**：阻碍，妨碍物（阻挡前进的东西）
 > **延伸维度**：抽象路径
@@ -127,8 +127,9 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Lack of funding proved to be a major hindrance to the research project."（资金不足被证明是该研究项目的主要障碍）
-> - "His lack of experience was more of a hindrance than he had anticipated."（他缺乏经验这一点比他预想的更为碍事）
+> - Lack of funding proved to be a major hindrance to the research project. `[例]`
+> - His lack of experience was more of a hindrance than he had anticipated. `[例]`
+> - Poor time management can be a serious hindrance to academic success. `[例]`
 
 ## 复习记录
 

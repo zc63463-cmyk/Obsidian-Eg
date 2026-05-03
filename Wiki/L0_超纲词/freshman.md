@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（大学）新生**==；②新手，初学者；
+**n.** ①==**（大学）新生**== `N` [通用]；②==**新手，初学者**== `N` [口语]；
 **adj.** ①新生的；②无经验的；
 
 > [!tip] 原型义
@@ -127,8 +127,8 @@ fresh(新鲜的，新来的) + man(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many college freshmen struggle with the transition from high school to university life."（许多大学新生在从高中到大学生活的过渡中感到困难。）
-> - "The freshman seminar is designed to help new students adapt to academic life."（新生研讨课旨在帮助新学生适应学术生活。）
+> - Many college freshmen struggle with the transition from high school to university life. `[例]`
+> - The freshman seminar is designed to help new students adapt to academic life. `[例]`
 
 ## 复习记录
 

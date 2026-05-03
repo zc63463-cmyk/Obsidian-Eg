@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**先见之明，远见**==；②预见能力；③前瞻性；
+**n.** ①==**先见之明，远见**== `N` [通用]；②==**预见能力**== `N` [通用]；③==**前瞻性**== `N` [专业]；
 
 > [!tip] 原型义
 > **原型义**：先见之明（提前预见未来的能力）
@@ -126,8 +126,8 @@ fore-(在前，提前) + sight(视力，视野)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She had the foresight to invest in renewable energy long before it became trendy."（她有先见之明，早在可再生能源成为潮流之前就投资了。）
-> - "The failure of the project was attributed to a lack of foresight in the planning stage."（项目的失败被归因于规划阶段缺乏远见。）
+> - She had the foresight to invest in renewable energy long before it became trendy. `[例]`
+> - The failure of the project was attributed to a lack of foresight in the planning stage. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**未来学家，未来学者**==；
+**n.** ①==**未来学家，未来学者**== `a leading futurologist` [学术]；
 
 > [!tip] 原型义
 > **原型义**：未来学家（研究未来趋势的学者）
@@ -123,8 +123,8 @@ futur(=future, 未来) + -o-(连接字母) + [[log|lect-leg]](说话/研究) + -
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Futurologists predict that artificial intelligence will transform every industry within the next two decades."（未来学家预测，人工智能将在未来二十年内改变每一个行业。）
-> - "The leading futurologist outlined three possible scenarios for the future of work."（这位著名的未来学家概述了工作未来的三种可能情景。")
+> - Futurologists predict that artificial intelligence will transform every industry within the next two decades. `[例]`
+> - The leading futurologist outlined three possible scenarios for the future of work. `[例]`
 
 ## 复习记录
 

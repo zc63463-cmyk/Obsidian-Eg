@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**煽动，激起**==；②激怒，刺激；
+**v.** ①==**煽动，激起**== `incite violence/rebellion` [正式] `incite sb to do sth` [正式]；②==**激怒，刺激**== `incite anger/hatred` [正式]；
 
 > [!tip] 原型义
 > **原型义**：煽动、激起（情绪或行为）
@@ -125,7 +125,8 @@ in-(=in-, 加强) + cite(激起，拉丁语 *citare*=唤起、刺激)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - “The speech was condemned for inciting racial hatred.”（该演讲因煽动种族仇恨而受到谴责。）
+> - The speech was condemned for inciting racial hatred across the community. `[例]`
+> - The rebel leader was arrested on charges of inciting citizens to take up arms against the government. `[例]`
 
 ## 复习记录
 

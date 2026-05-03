@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**漫无目的地，无所事事地**==；②空闲地，懒散地；③毫无理由地；
+**adv.** ①==**漫无目的地，无所事事地**== `stand idly by` [书面] `gaze idly` [书面]；②空闲地，懒散地；③毫无理由地 `idly speculate` [书面] `idly wonder` [口语]；
 
 > [!tip] 原型义
 > **原型义**：无所事事地、漫无目的地
@@ -121,7 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - “They cannot stand idly by and watch the destruction of the environment.”（他们不能袖手旁观，看着环境被破坏。）
+> - They cannot stand idly by and watch the destruction of the environment. `[例]`
+> - She sat by the window, idly watching the rain fall against the glass. `[例]`
+> - He idly wondered what life would have been like if he had chosen a different career path. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**培养，培训（接班人等）**==；②照料（自己/动物）；③梳洗，打扮；
-**n.** ①新郎；②马夫；
+**v.** ①==**培养，培训（接班人等）**== `V N for N` [正式] `V N to V` [正式]；②==**照料（自己/动物）**== `V oneself` [通用] `V N` [通用]；③==**梳洗，打扮**== `V oneself` [通用]；
+**n.** ①==**新郎**== `bride and N` [通用]；②==**马夫**== `N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：给马刷毛打理（源自古英语 *guman* 男孩/男人，后转为照料马匹的意思）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company is grooming young executives for leadership positions."（公司正在培养年轻高管担任领导职位。）
-> - "He spent an hour grooming himself before the interview."（他在面试前花了一个小时梳洗打扮。）
+> - The company is grooming young executives for leadership positions. `[例]`
+> - He spent an hour grooming himself before the interview. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**地理的，地理学的**==；②==**地区的，区域的**==（与特定地理位置有关的）；
+**adj.** ①==**地理的，地理学的**== `geographic information system` [学术]；②==**地区的，区域的**== `geographic distribution` [学术]；
 
 > [!tip] 原型义
 > **原型义**：与地理有关的（与地球表面的地方、区域和特征相关）
@@ -138,7 +138,8 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题直接关联，但 geographic location/distribution 为常见学术表达
+> - The geographic distribution of the species is strongly influenced by climate change. `[例]`
+> - Geographic barriers such as mountains and rivers have shaped the migration patterns of many animals. `[例]`
 
 ## 复习记录
 

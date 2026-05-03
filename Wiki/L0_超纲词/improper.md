@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不合适的，不恰当的**==；②不正确的，错误的；③不道德的，不雅的；
+**adj.** ①==**不合适的，不恰当的**== `it is improper to do sth` [正式] `improper behavior/conduct` [正式]；②==**不正确的，错误的**== `improper use of sth` [正式]；③==**不道德的，不雅的**== `improper conduct` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不合适的、不正确的
@@ -125,7 +125,8 @@ im-(=in-, 不) + [[propri|proper]](适当的/自己的) + -ar(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - improper 常出现在法律、伦理、公共规范类文章中。
+> - It is improper to discuss salary during a job interview. `[例]`
+> - The report criticized the improper disposal of hazardous waste by the factory. `[例]`
 
 ## 复习记录
 

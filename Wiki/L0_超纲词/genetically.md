@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**在基因方面，从遗传学角度**==；②==**从基因上讲，在遗传上**==（描述由基因决定的特征或关系）；
+**adv.** ①==**在基因方面，从遗传学角度**== `genetically modified` [学术]；②==**从基因上讲，在遗传上**== `genetically identical` [学术]；
 
 > [!tip] 原型义
 > **原型义**：在基因层面（从遗传角度描述事物的本质或来源）
@@ -136,7 +136,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题直接关联，但 genetically modified (GM) 为常见学术话题
+> - Genetically modified crops have sparked widespread debate about food safety. `[例]`
+> - Identical twins are genetically identical but may develop different traits. `[例]`
 
 ## 复习记录
 

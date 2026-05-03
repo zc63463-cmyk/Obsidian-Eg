@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使理想化，将……视为理想**==；②使完美化；
+**v.** ①==**使理想化，将……视为理想**== `idealize the past` [书面] `tend to idealize` [书面]；②使完美化 `idealize the human form` [书面]；
 
 > [!tip] 原型义
 > **原型义**：将某人/某事看作比实际更完美
@@ -122,7 +122,9 @@ ideal(理想) + -ize(使动后缀，使……化)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - idealize 常出现在心理学、社会学文章中，讨论认知偏差和记忆美化现象。
+> - People tend to idealize their childhood memories, forgetting the difficulties they once faced. `[例]`
+> - Classical Greek sculpture sought to idealize the human form rather than depict it realistically. `[例]`
+> - She had idealized her mentor for years before discovering his flaws. `[例]`
 
 ## 复习记录
 

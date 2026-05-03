@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使恐惧，使震惊**==；②使感到恐怖；
+**v.** ①==**使恐惧，使震惊**== `be horrified by/at sth` [书面] `horrify the public` [新闻]；②==**使感到恐怖**== `horrify sb` [书面]；
 > [!tip] 原型义
 > **原型义**：使恐惧，使震惊（引起强烈的恐惧和厌恶）
 > **延伸维度**：具身路径
@@ -132,8 +132,9 @@ horr(=tremble/shudder, 颤抖/发抖) + -ify(动词后缀，使动化)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The public was horrified by the graphic images of animal cruelty."（公众被残忍对待动物的触目惊心的画面所震惊）
-> - "She was horrified to discover that her personal data had been leaked online."（她震惊地发现自己的个人数据已被泄露到网上）
+> - The public was horrified by the graphic images of animal cruelty. `[例]`
+> - She was horrified to discover that her personal data had been leaked online. `[例]`
+> - The documentary horrified viewers by revealing the extent of pollution in the river. `[例]`
 
 ## 复习记录
 

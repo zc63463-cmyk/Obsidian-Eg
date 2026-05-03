@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**直率的，坦率的**==；②直接的，直截了当的；
+**adj.** ①==**直率的，坦率的**== `adj` [通用]；②==**直接的，直截了当的**== `adj` [通用]；
 **adv.** ①直率地，坦率地；
 
 > [!tip] 原型义
@@ -127,8 +127,8 @@ forth(向前) + right(直的，正确的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The CEO was known for her forthright approach to difficult decisions."（这位CEO以在困难决策上的直率作风而闻名。）
-> - "He was forthright in his criticism of the government's environmental policy."（他对政府环境政策的批评直言不讳。）
+> - The CEO was known for her forthright approach to difficult decisions. `[例]`
+> - He was forthright in his criticism of the government's environmental policy. `[例]`
 
 ## 复习记录
 

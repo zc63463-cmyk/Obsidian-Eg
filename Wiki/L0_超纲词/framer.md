@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**制定者，缔造者**==；②（尤指）宪法制定者；③框架构建者；
+**n.** ①==**制定者，缔造者**== `N` [专业]；②==**（尤指）宪法制定者**== `N` [专业]；③==**框架构建者**== `N` [专业]；
 
 > [!tip] 原型义
 > **原型义**：制定者（制定框架或规则的人）
@@ -123,8 +123,8 @@ frame(框架，结构) + -er(人/物)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Framers of the Constitution designed a system of checks and balances."（宪法制定者设计了一套制衡体系。）
-> - "The framers of the new policy aimed to address income inequality."（新政策的制定者旨在解决收入不平等问题。")
+> - The Framers of the Constitution designed a system of checks and balances. `[例]`
+> - The framers of the new policy aimed to address income inequality. `[例]`
 
 ## 复习记录
 

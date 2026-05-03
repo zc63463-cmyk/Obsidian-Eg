@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**草地，草原**==；②牧场；
+**n.** ①==**草地，草原**== `adj + N` [学术] `N of N` [学术]；②==**牧场**== `N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：长草的土地（grass 草 + land 土地）
@@ -125,8 +125,8 @@ grass(草) + land(土地)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The conversion of grassland to agricultural land has led to significant biodiversity loss."（草地转化为农业用地导致了显著的生物多样性丧失。）
-> - "Grasslands cover approximately 40% of the Earth's land surface."（草原覆盖了地球陆地表面的大约40%。）
+> - The conversion of grassland to agricultural land has led to significant biodiversity loss. `[例]`
+> - Grasslands cover approximately 40% of the Earth's land surface. `[例]`
 
 ## 复习记录
 

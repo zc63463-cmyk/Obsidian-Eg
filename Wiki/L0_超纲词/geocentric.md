@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**以地球为中心的，地心的**==（认为地球是宇宙中心的天文学模型）；②以地球为参照的；
+**adj.** ①==**以地球为中心的，地心的**== `geocentric model` [学术]；②==**以地球为参照的**== `geocentric coordinates` [学术]；
 
 > [!tip] 原型义
 > **原型义**：以地球为中心的（地球位于宇宙的中心位置）
@@ -131,7 +131,8 @@ geo-（地球，来自希腊语 *gē* "地球"）+ centr（中心，来自拉丁
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题直接关联，常见于科学史和天文学相关阅读
+> - The geocentric model dominated Western astronomy for over a thousand years. `[例]`
+> - The shift from geocentric to heliocentric models transformed our understanding of the universe. `[例]`
 
 ## 复习记录
 

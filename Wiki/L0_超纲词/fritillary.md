@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**豹纹蝶（一种蝴蝶）**==；②贝母（一种植物）；③（棋盘格花纹的）织物；
+**n.** ①==**豹纹蝶（一种蝴蝶）**== `N` [专业]；②==**贝母（一种植物）**== `N` [专业]；③（棋盘格花纹的）织物；
 
 > [!tip] 原型义
 > **原型义**：棋盘格花纹的（像骰子盒一样的格子图案）
@@ -121,8 +121,8 @@ fritill(=fritillus, 骰子盒，拉丁语) + -ary(与…有关的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The fritillary butterfly is known for its distinctive orange and black patterned wings."（豹纹蝶以其独特的橙黑相间花纹翅膀而闻名。）
-> - "Fritillaries are among the first butterflies to emerge in spring."（豹纹蝶是春天最早出现的蝴蝶之一。）
+> - The fritillary butterfly is known for its distinctive orange and black patterned wings. `[例]`
+> - Fritillaries are among the first butterflies to emerge in spring. `[例]`
 
 ## 复习记录
 

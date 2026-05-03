@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**猎头，物色人才者**==；②（原始部落）猎取人头者；
+**n.** ①==**猎头，物色人才者**== `be approached by a headhunter` [商务] `use a headhunter to do sth` [商务]；②（原始部落）猎取人头者；
 > [!tip] 原型义
 > **原型义**：猎头（专门为企业物色高级人才的人）
 > **延伸维度**：社会路径
@@ -123,8 +123,8 @@ head(头/人才) + hunter(猎人) → 复合词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was approached by a headhunter offering her a senior position at a rival firm."（一位猎头联系了她，提供竞争对手公司的高级职位）
-> - "The company used a headhunter to fill the CEO position after the previous executive resigned."（公司在前任高管辞职后使用猎头来填补CEO职位）
+> - She was approached by a headhunter offering her a senior position at a rival firm. `[例]`；
+> - The company used a headhunter to fill the CEO position after the previous executive resigned. `[例]`；
 
 ## 复习记录
 

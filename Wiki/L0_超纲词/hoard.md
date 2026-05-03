@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**囤积，秘藏**==；
-**n.** ①==**囤积物，秘藏的财物**==；
+**v.** ①==**囤积，秘藏**== `hoard sth` [书面] `hoard up supplies` [书面]；
+**n.** ①==**囤积物，秘藏的财物**== `a hoard of sth` [书面]；
 > [!tip] 原型义
 > **原型义**：囤积，秘藏（大量储存并藏起来）
 > **延伸维度**：空间路径
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "During the pandemic, many people began hoarding essential supplies, leading to shortages."（疫情期间，许多人开始囤积必需品，导致物资短缺）
-> - "Archaeologists discovered a hoard of Roman coins buried beneath the ancient fortress."（考古学家在古堡下发现了一批埋藏的罗马硬币）
+> - During the pandemic, many people began hoarding essential supplies, leading to shortages. `[例]`
+> - Archaeologists discovered a hoard of Roman coins buried beneath the ancient fortress. `[例]`
+> - The old woman had hoarded thousands of books in her small apartment over the decades. `[例]`
 
 ## 复习记录
 

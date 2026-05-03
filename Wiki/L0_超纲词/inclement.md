@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**（天气）恶劣的，严酷的**==；②（人）严厉的，无情的；
+**adj.** ①==**（天气）恶劣的，严酷的**== `inclement weather/conditions` [正式] `brave inclement weather` [正式]；②==**（人）严厉的，无情的**== `an inclement ruler/judge` [正式]；
 
 > [!tip] 原型义
 > **原型义**：恶劣的（天气），严厉的（人）
@@ -121,7 +121,8 @@ in-(不) + clement(仁慈的/温和的，拉丁语 *clemens*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - inclement weather 是最常见的搭配，常出现在户外活动、旅行、军事类文章中。
+> - The mountaineering expedition was called off due to inclement weather conditions. `[例]`
+> - Despite the inclement winter, the rescue teams continued their search for the missing hikers. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**严重地，大量地**==；②沉重地；③密集地；
+**adv.** ①==**严重地，大量地**== `heavily dependent/reliant on sth` [书面] `be heavily populated` [书面]；②沉重地；③密集地；
 > [!tip] 原型义
 > **原型义**：沉重地（带有大量重量或强度）
 > **延伸维度**：具身路径
@@ -128,8 +128,8 @@ heav(=heavy, 重的) + -ily(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The country is heavily dependent on imported oil for its energy needs."（该国严重依赖进口石油来满足能源需求）
-> - "It rained heavily throughout the night, causing widespread flooding."（整夜大雨，导致大面积洪水）
+> - The country is heavily dependent on imported oil for its energy needs. `[例]`；
+> - It rained heavily throughout the night, causing widespread flooding in the downtown area. `[例]`；
 
 ## 复习记录
 

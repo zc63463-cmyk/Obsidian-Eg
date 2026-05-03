@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不胜任的，无能的**==；②不称职的；③缺乏能力的；
+**adj.** ①==**不胜任的，无能的**== `be incompetent at sth / to do sth` [贬义/正式] `an incompetent + n.` [贬义/正式]；②==**不称职的**== `be found incompetent` [贬义/正式]；③==**缺乏能力的**== `prove sb incompetent` [贬义/正式]；
 
 > [!tip] 原型义
 > **原型义**：不胜任的、无能的
@@ -123,7 +123,9 @@ in-(不) + com-(完全) + pet(追求/达到，拉丁语 *petere*) + -ent(形容�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - incompetent 常出现在政治、职场类文章中，批评管理层或官员的能力不足。
+> - The manager was deemed incompetent after the project failed to meet its deadlines. `[例]`
+> - She was found incompetent to stand trial due to her mental condition. `[例]`
+> - The committee described the leadership as grossly incompetent. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**把……减半，对半分**==；②把……分成两半；
+**v.** ①==**把……减半，对半分**== `halve the budget/cost/risk` [中性]；②==**把……分成两半**== `halve sth. into two parts` [中性]；
 > [!tip] 原型义
 > **原型义**：把东西分成两半
 > **延伸维度**：空间路径
@@ -126,8 +126,9 @@ half(一半) + -e(动词后缀，使动化)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company halved its workforce in response to the economic downturn."（公司为应对经济衰退将员工人数减半）
-> - "New technology has halved the time required for DNA sequencing."（新技术将DNA测序所需时间缩短了一半）
+> - The company halved its workforce in response to the economic downturn. `[例]`
+> - New technology has halved the time required for DNA sequencing. `[例]`
+> - The new energy policy aims to halve carbon emissions by the end of the decade. `[例]`
 
 ## 复习记录
 

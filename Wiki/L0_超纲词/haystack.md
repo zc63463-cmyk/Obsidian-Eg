@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**干草堆**==；
+**n.** ①==**干草堆**== `a needle in a haystack` [中性/习语]；
 > [!tip] 原型义
 > **原型义**：干草堆（堆放干草的圆锥形大堆）
 > **延伸维度**：空间路径
@@ -117,8 +117,9 @@ hay(干草) + stack(堆) → 复合词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Finding the relevant information in this massive dataset is like looking for a needle in a haystack."（在这个海量数据集中寻找相关信息如同大海捞针）
-> - "The suspect was hiding somewhere in the countryside — finding him would be like searching for a needle in a haystack."（嫌疑人藏在乡下的某个地方——找到他简直是大海捞针）
+> - Finding the relevant information in this massive dataset is like looking for a needle in a haystack. `[例]`
+> - The suspect was hiding somewhere in the countryside, and finding him would be like searching for a needle in a haystack. `[例]`
+> - With millions of files to search through, locating the missing document was like finding a needle in a haystack. `[例]`
 
 ## 复习记录
 

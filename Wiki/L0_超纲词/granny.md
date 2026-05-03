@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**奶奶，外婆**==；②（对老年妇女的尊称/昵称）老奶奶；
+**n.** ①==**奶奶，外婆**== `possessive + N` [口语] `N + N` [口语]；②==**老奶奶**== `adj + N` [口语]（对老年妇女的尊称/昵称）；
 
 > [!tip] 原型义
 > **原型义**：奶奶/外婆（grandmother 的儿语形式，通过重复词首音节形成）
@@ -123,8 +123,8 @@ grand(大的/辈分高的) + -ny(儿语后缀，通过重复词首音节构成)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She lives in a granny flat at the back of her daughter's house."（她住在女儿家后面的老人套房里。）
-> - "My granny always told me to look both ways before crossing the street."（我奶奶总是告诉我在过马路前要左右看。）
+> - She lives in a granny flat at the back of her daughter's house. `[例]`
+> - My granny always told me to look both ways before crossing the street. `[例]`
 
 ## 复习记录
 

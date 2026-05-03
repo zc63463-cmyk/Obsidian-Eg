@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**节俭的，节约的**==；②朴素的，简朴的；
+**adj.** ①==**节俭的，节约的**== `adj` [通用]；②==**朴素的，简朴的**== `adj` [通用]；
 
 > [!tip] 原型义
 > **原型义**：节俭的（节约使用资源的）
@@ -127,8 +127,8 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A frugal lifestyle doesn't mean depriving yourself of enjoyment."（节俭的生活方式并不意味着剥夺自己的乐趣。）
-> - "The frugal meal consisted of bread, cheese, and a simple salad."（这顿简朴的饭菜由面包、奶酪和一份简单的沙拉组成。")
+> - A frugal lifestyle doesn't mean depriving yourself of enjoyment. `[例]`
+> - The frugal meal consisted of bread, cheese, and a simple salad. `[例]`
 
 ## 复习记录
 

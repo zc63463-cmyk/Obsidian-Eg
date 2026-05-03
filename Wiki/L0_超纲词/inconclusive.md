@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无确定结果的，不能得出结论的**==；②非决定性的；
+**adj.** ①==**无确定结果的，不能得出结论的**== `inconclusive + n. (results/evidence)` [中性/科学] `prove inconclusive` [中性/科学]；②==**非决定性的**== `an inconclusive + n. (test/trial)` [中性/科学]；
 
 > [!tip] 原型义
 > **原型义**：无确定结果的、不能得出结论的
@@ -122,7 +122,9 @@ in-(不) + con-(完全) + clus(关闭，拉丁语 *claudere*) + -ive(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - inconclusive 常出现在科学、法律类文章中，描述证据不足以得出结论。
+> - The clinical trial proved inconclusive, and researchers decided to conduct a follow-up study. `[例]`
+> - DNA evidence from the crime scene was inconclusive and could not definitively identify the suspect. `[例]`
+> - The election results remained inconclusive for several days after the voting ended. `[例]`
 
 ## 复习记录
 

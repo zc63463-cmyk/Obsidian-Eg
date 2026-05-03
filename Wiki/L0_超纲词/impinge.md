@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**侵犯，干涉**==；②对……产生不良影响；③撞击；
+**v.** ①==**侵犯，干涉**== `impinge on/upon sb's rights` [贬义/正式] `impinge on freedom` [贬义/正式]；②对……产生不良影响 `impinge on one's daily life` [贬义/正式]；③撞击 `impinge on sth` [中性/正式]；
 
 > [!tip] 原型义
 > **原型义**：对……产生不良影响或侵犯
@@ -120,7 +120,8 @@ im-(=in-, 向内) + ping(e)(打击，拉丁语 *pingere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - “The new law does not impinge on individual freedoms.”（新法律没有侵犯个人自由。）
+> - The new legislation does not impinge on individual freedoms guaranteed by the constitution. `[例]`
+> - The construction noise began to impinge on the residents' quality of life. `[例]`
 
 ## 复习记录
 
