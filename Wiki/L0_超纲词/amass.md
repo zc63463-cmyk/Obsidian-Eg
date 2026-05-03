@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**积累，积聚**==（大量）；②收集，聚集；
+**v.** ①==**积累，积聚**== `V N` `V N over time` [正式]；②收集，聚集 `V N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：堆积到一堆（把大量东西聚到一处）
@@ -123,7 +123,8 @@ a-(=ad-, 朝向) + mass(堆，大量)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Over decades, the company amassed a vast collection of artworks.
+> - Over decades, the company amassed a vast collection of artworks. `[例]`
+> - She amassed a fortune through shrewd investments in the stock market. `[例]`
 
 ## 复习记录
 

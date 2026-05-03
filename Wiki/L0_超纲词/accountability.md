@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**问责制，责任**==；②应作解释的义务；③可计量性；
+**n.** ①==**问责制，责任**== `corporate N / lack of N` `[政治]`；②应作解释的义务 `N to N` `[正式]`；③可计量性 `financial N` `[商业]`；
 
 > [!tip] 原型义
 > **原型义**：算账（为自己的行为给出交代和说明）
@@ -127,7 +127,8 @@ ac-(=ad-, 朝向) + count(计算，数) + -abil(-able，可被) + -ity(名词后
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Government accountability is essential for maintaining public trust.
+> - Government accountability is essential for maintaining public trust in democratic institutions. `[例]`
+> - The new regulations aim to strengthen corporate accountability by requiring companies to disclose their environmental impact. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**水生的，水栖的**==；②水上的，水中进行的；
-**n.** ①水生生物；②水上运动；
+**adj.** ①==**水生的，水栖的**== `adj N` [中性]；②==**水上的，水中进行的**== `adj N` [中性]；
+**n.** ①==**水生生物**== [中性]；②==**水上运动**== [中性]；
 
 > [!tip] 原型义
 > **原型义**：水生的（与水相关的）
@@ -129,8 +129,8 @@ aqu(水，拉丁语 *aqua*) + -atic(形容词后缀，表示"与……相关的"
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many aquatic species are threatened by water pollution."（许多水生物种受到水污染的威胁——环保类语料）
-> - "The Olympic aquatic center was built for the swimming competitions."（奥林匹克水上运动中心是为游泳比赛而建的——新闻类语料）
+> - Many aquatic species are threatened by water pollution.`[例]`
+> - The Olympic aquatic center was built for the swimming competitions.`[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**敏捷的，灵活的**==；②（思维）机敏的；
+**adj.** ①==**敏捷的，灵活的**== `adj. N` [通用] `adj. mind` [认知]；②==**（思维）机敏的**== `adj. mind/thinker` [认知]；
 
 > [!tip] 原型义
 > **原型义**：能灵活移动的（身体动作快速而灵活）
@@ -125,7 +125,9 @@ ag-(=ad-, 朝向) + -il(=ile，能够) + ag(做，行动，拉丁语 *agere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company adopted an agile approach to software development, enabling rapid iteration.
+> - The company adopted an agile approach to software development, enabling rapid iteration. `[例]`
+> - Cats are remarkably agile creatures, capable of leaping great distances with precision. `[例]`
+> - Her agile mind quickly grasped the complex mathematical concepts. `[例]`
 
 ## 复习记录
 

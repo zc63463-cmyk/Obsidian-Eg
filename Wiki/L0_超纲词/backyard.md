@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**后院**==（房屋后面的院子）；②==**后院，自家附近**==（比喻自己所在的地方/领域）；
-**adj.** ①后院的；②本地的，业余的（非专业的）；
+**n.** ①==**后院**== `the backyard` [中性]；②==**后院，自家附近**== `in one's own backyard` [中性]；
+**adj.** ①==**后院的**== `adj N` [中性]；②==**本地的，业余的**== `adj N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：房屋后面的院子（围栏围起来的住宅后方空地）
@@ -131,8 +131,8 @@ back-(后面) + yard(院子，围栏围起的空地)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Environmental pollution is not just a distant problem—it's happening right in our own backyard."（环境污染不仅是一个遥远的问题——它就发生在我们自家门口。）
-> - "The invention was developed by a backyard inventor with no formal training."（这项发明是由一位没有受过正规训练的业余发明家研发的。）
+> - Environmental pollution is not just a distant problem—it is happening right in our own backyard.`[例]`
+> - The invention was developed by a backyard inventor with no formal training.`[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj./adv.** ①==**漂浮的（地），在船上**==；②（经济上）维持下去的，未负债的；③流传中的，传播的；
+**adj./adv.** ①==**漂浮的（地），在船上**== `keep/stay afloat` `N is afloat` [通用]；②==**（经济上）维持下去的，未负债的**== `keep N afloat` `stay afloat` [比喻]；③==**流传中的，传播的**== `rumors are afloat` `N is afloat` [文学]；
 
 > [!tip] 原型义
 > **原型义**：在水上漂浮（不沉没的状态）
@@ -126,7 +126,9 @@ a-(在……上) + float(漂浮)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The small business managed to stay afloat during the economic recession.
+> - The small business managed to stay afloat during the economic recession. `[例]`
+> - The crew worked tirelessly to keep the damaged vessel afloat until rescue arrived. `[例]`
+> - Rumors are afloat that the company is planning a major restructuring of its executive team. `[例]`
 
 ## 复习记录
 

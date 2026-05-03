@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**时代错误，过时之物**==；②年代错误（历史/文学中时间错乱）；
+**n.** ①==**时代错误，过时之物**== `a/an N in N` `N of N` [正式]；②年代错误（历史/文学中时间错乱） `N in N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：错位的时间（放在了错误的时间位置上）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The monarchy is increasingly seen as an anachronism in the modern democratic world.
+> - The monarchy is increasingly seen as an anachronism in the modern democratic world. `[例]`
+> - The use of typewriters in offices today is a clear anachronism. `[例]`
 
 ## 复习记录
 

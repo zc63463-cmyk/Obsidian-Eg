@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拓宽，使变宽**==；②（使）扩大范围；
+**v.** ①==**拓宽，使变宽**== `broaden N` [通用] `broaden the scope of N` [书面]；②（使）扩大范围 `broaden one's horizons` [书面]；
 
 > [!tip] 原型义
 > **原型义**：使变宽
@@ -124,8 +124,8 @@ broad(宽的) + -en(动词后缀，使……变得)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - broaden 常出现在教育、个人发展相关语料中
-> - 相关阅读话题：education, personal growth, cultural exchange
+> - Studying abroad can significantly broaden your horizons and deepen your understanding of different cultures. `[例]`
+> - The university decided to broaden the scope of its research program to include environmental sustainability. `[例]`
 
 ## 复习记录
 

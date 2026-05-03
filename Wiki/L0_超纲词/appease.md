@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**安抚，平息（怒气、担忧等）**==；②姑息，让步（通过满足要求来避免冲突）；
+**vt.** ①==**安抚，平息（怒气、担忧等）**== `V N` `V N by V-ing` [正式]；②姑息，让步（通过满足要求来避免冲突） `V N` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：使平静、安抚（通过满足对方要求来平息情绪）
@@ -124,8 +124,8 @@ ap-(=ad-, 向，加强) + pease(=peace, 和平)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The policy of appeasement before World War II proved to be a fatal mistake."（二战前的绥靖政策被证明是一个致命的错误——历史类语料）
-> - "Nothing could appease the crying child."（没有什么能安抚这个哭泣的孩子——常见搭配）
+> - The policy of appeasement before World War II proved to be a fatal mistake. `[例]`
+> - Nothing could appease the crying child. `[例]`
 
 ## 复习记录
 

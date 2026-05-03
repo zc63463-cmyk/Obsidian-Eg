@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**热爱生命的天性，亲生命性**==；②对自然和生物的亲近感；
+**n.** ①==**热爱生命的天性，亲生命性**== `N biophilia` [学术]；`biophilia N` [学术]；②对自然和生物的亲近感；
 
 > [!tip] 原型义
 > **原型义**：对生命的热爱
@@ -122,8 +122,8 @@ bio-(生命) + phil(爱) + -ia(名词后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - biophilia 常出现在心理学、环境科学、建筑学相关语料中
-> - 相关阅读话题：human-nature connection, environmental psychology
+> - E.O. Wilson proposed the biophilia hypothesis, arguing that humans possess an innate tendency to seek connections with nature and other forms of life. `[例]`
+> - Modern architects increasingly incorporate biophilic design principles to create healthier and more productive living and working environments. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**考古学的，考古的**==；②与古代遗迹/文物相关的；
+**adj.** ①==**考古学的，考古的**== `adj N` [中性]；②==**与古代遗迹/文物相关的**== `adj N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：研究古代起源的学问
@@ -125,8 +125,8 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Recent archaeological discoveries in Egypt have shed new light on ancient burial practices."（最近在埃及的考古发现为古代丧葬习俗提供了新的线索——历史类语料）
-> - "The archaeological evidence suggests that the settlement dates back to the Neolithic period."（考古证据表明这个定居点可追溯到新石器时代——学术类语料）
+> - Recent archaeological discoveries in Egypt have shed new light on ancient burial practices.`[例]`
+> - The archaeological evidence suggests that the settlement dates back to the Neolithic period.`[例]`
 
 ## 复习记录
 

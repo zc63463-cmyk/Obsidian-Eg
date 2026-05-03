@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**生物医学的**==；
+**adj.** ①==**生物医学的**== `adj biomedical N` [学术]；`biomedical N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：生物与医学交叉的
@@ -122,8 +122,8 @@ bio-(生命) + [[medi|med]](医学) + -ical(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - biomedical 常出现在医学研究、科技发展相关语料中
-> - 相关阅读话题：gene therapy, medical technology, health innovation
+> - Breakthroughs in biomedical research have led to the development of new treatments for previously incurable diseases. `[例]`
+> - The university established a new department of biomedical engineering to address the growing demand for medical technology innovation. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人钦佩的，值得赞赏的**==；②极好的，出色的；
+**adj.** ①==**令人钦佩的，值得赞赏的**== `an admirable N` `it is admirable that-clause` [正式]；②==**极好的，出色的**== `admirable adj. N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：值得惊叹的（令人想要仰望和模仿）
@@ -125,7 +125,9 @@ ad-(朝向) + [[mir|vis-vid]](看，惊叹) + -able(可以被)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Her admirable dedication to public service earned her widespread respect.
+> - Her admirable dedication to public service earned her widespread respect. `[例]`
+> - The committee praised the admirable courage displayed by the rescue team during the disaster. `[例]`
+> - It is admirable that she managed to complete the marathon despite her injury. `[例]`
 
 ## 复习记录
 

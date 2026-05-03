@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**突破，重大进展**==；②（科学、技术等的）突破性发现；
-**adj.** ①突破性的；
+**n.** ①==**突破，重大进展**== `a breakthrough in N` [通用] `make a breakthrough` [通用]；②（科学、技术等的）突破性发现 `scientific breakthrough` [学术]；
+**adj.** ①突破性的 `breakthrough N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：突破障碍
@@ -130,8 +130,8 @@ break(打破) + through(穿过)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - breakthrough 常出现在科技报道、医学研究、谈判相关语料中
-> - 相关阅读话题：scientific research, medical advances, peace negotiations
+> - Scientists announced a major breakthrough in the treatment of Alzheimer's disease after years of clinical trials. `[例]`
+> - The peace negotiations reached a breakthrough when both sides agreed on a ceasefire framework. `[例]`
 
 ## 复习记录
 

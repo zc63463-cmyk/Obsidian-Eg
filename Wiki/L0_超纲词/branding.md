@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**品牌塑造，品牌推广**==；②（给牲畜）打烙印；
+**n.** ①==**品牌塑造，品牌推广**== `branding N` [商业] `corporate branding` [商业]；②（给牲畜）打烙印 `branding cattle` [农业]；
 
 > [!tip] 原型义
 > **原型义**：打上标记（品牌）
@@ -123,8 +123,8 @@ brand(品牌/烙印) + -ing(名词后缀，表动作或结果)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - branding 常出现在商业、营销、媒体相关语料中
-> - 相关阅读话题：marketing strategy, corporate identity, consumer behavior
+> - The startup invested heavily in branding to differentiate its products from established competitors. `[例]`
+> - Effective personal branding can significantly enhance your professional visibility in the industry. `[例]`
 
 ## 复习记录
 

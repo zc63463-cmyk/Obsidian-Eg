@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**栏杆小柱，栏杆支柱**==（楼梯、阳台等处支撑扶手的小柱子）；
+**n.** ①==**栏杆小柱，栏杆支柱**== `a row of balusters` [中性]；
 
 > [!tip] 原型义
 > **原型义**：形如石榴花（pomegranate flower）的栏杆小柱
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The grand staircase was supported by carved wooden balusters, each one unique in its design."（大楼梯由雕刻的木质栏杆柱支撑，每一根的设计都独一无二。）
-> - "She gripped the baluster as she descended the spiral staircase."（她走下旋转楼梯时紧握着栏杆柱。）
+> - The grand staircase was supported by carved wooden balusters, each one unique in its design.`[例]`
+> - She gripped the baluster as she descended the spiral staircase.`[例]`
 
 ## 复习记录
 

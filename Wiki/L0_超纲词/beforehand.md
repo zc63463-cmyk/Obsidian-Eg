@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**事先，预先**==（在事情发生之前提前做）；②==**提前，早先**==；
+**adv.** ①==**事先，预先**== `V beforehand` [通用]；`adv + beforehand` [通用]；②==**提前，早先**==；
 **adj.** ①提前的，预先的（罕见用法）；
 
 > [!tip] 原型义
@@ -130,8 +130,8 @@ before-(在……之前) + hand(手，指"动手/行动")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Had we been informed beforehand, we could have taken preventive measures."（如果我们事先得到通知，本可以采取预防措施。）
-> - "The scientist emphasized the importance of planning beforehand when conducting experiments."（科学家强调了在进行实验时事先规划的重要性。）
+> - Had we been informed beforehand, we could have taken preventive measures. `[例]`
+> - The scientist emphasized the importance of planning beforehand when conducting experiments. `[例]`
 
 ## 复习记录
 

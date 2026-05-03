@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**令人担忧地，令人惊恐地**==；
+**adv.** ①==**令人担忧地，令人惊恐地**== `adv. adj.` [通用] `adv. V` [通用]；
 
 > [!tip] 原型义
 > **原型义**：令人惊恐地（像拉响警报一样让人害怕）
@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The crime rate has increased alarmingly over the past decade.
+> - The crime rate has increased alarmingly over the past decade. `[例]`
+> - The patient's condition deteriorated alarmingly within hours of admission. `[例]`
+> - The survey revealed an alarmingly high percentage of young people unable to afford basic housing. `[例]`
 
 ## 复习记录
 

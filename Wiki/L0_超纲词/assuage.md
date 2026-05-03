@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**缓和，减轻（痛苦、愤怒、担忧等）**==；②满足（食欲、需求等）；
+**vt.** ①==**缓和，减轻（痛苦、愤怒、担忧等）**== `V N` [正式]；②==**满足（食欲、需求等）**== `V N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使变甜、变温和
@@ -123,8 +123,8 @@ as-(=ad-, 向，加强) + suav(甜的，温和的，拉丁语 *suavis*) + -ge(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Nothing could assuage her grief after the loss of her child."（失去孩子后，没有什么能缓和她的悲伤——文学类语料）
-> - "The government introduced new policies to assuage public concerns about food safety."（政府出台新政策以缓解公众对食品安全的担忧——新闻类语料）
+> - Nothing could assuage her grief after the loss of her child. `[例]`
+> - The government introduced new policies to assuage public concerns about food safety. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**分配，拨给**==；②规定，指定（时间等）；
+**v.** ①==**分配，拨给**== `V N to N` [正式]；②==**规定，指定（时间等）**== `V N for N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：按份额分配（给每个人分配他的一份）
@@ -125,7 +125,9 @@ al-(=ad-, 朝向) + lot(份额，命运)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government allotted additional funds to support small businesses during the pandemic.
+> - The government allotted additional funds to support small businesses during the pandemic. `[例]`
+> - Each speaker was allotted fifteen minutes to present their research findings. `[例]`
+> - The committee allotted a specific budget for the renovation of the old library. `[例]`
 
 ## 复习记录
 

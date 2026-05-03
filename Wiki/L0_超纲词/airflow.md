@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**气流，空气流通**==；②通风量；
+**n.** ①==**气流，空气流通**== `N around/through N` [物理/工程]；②==**通风量**== `improve/restrict N` [建筑/日常]；
 
 > [!tip] 原型义
 > **原型义**：空气的流动（空气从一处流向另一处）
@@ -123,7 +123,9 @@ air(空气) + flow(流动)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Proper airflow is essential for maintaining indoor air quality.
+> - Proper airflow is essential for maintaining indoor air quality. `[例]`
+> - The engineer studied the airflow around the aircraft wing to reduce drag. `[例]`
+> - Opening windows on opposite sides of the room improves natural airflow. `[例]`
 
 ## 复习记录
 

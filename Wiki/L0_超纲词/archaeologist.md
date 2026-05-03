@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**考古学家**==；
+**n.** ①==**考古学家**== `N V n` [中性]；
 
 > [!tip] 原型义
 > **原型义**：研究古代起源的人
@@ -121,8 +121,8 @@ arch(古代的，希腊语 *archaios*) + aeol(=logy, 学科) + -ist(从事……
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Archaeologists have unearthed a 5,000-year-old settlement in southern Turkey."（考古学家在土耳其南部发掘了一个有5000年历史的定居点——新闻类语料）
-> - "The archaeologist spent decades studying the ruins of Pompeii."（这位考古学家花了数十年研究庞贝古城的遗迹——传记类语料）
+> - Archaeologists have unearthed a 5,000-year-old settlement in southern Turkey.`[例]`
+> - The archaeologist spent decades studying the ruins of Pompeii.`[例]`
 
 ## 复习记录
 

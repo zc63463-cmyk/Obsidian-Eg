@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**生物的，与生命有关的**==；②由生物体产生的；
+**adj.** ①==**生物的，与生命有关的**== `adj. N` [学术]；②==**由生物体产生的**== `adj. N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：与生命有关的
@@ -123,8 +123,8 @@ bio-(生命) + -tic(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - biotic 常出现在生态学、环境科学相关语料中
-> - 相关阅读话题：ecosystem, ecology, environmental science
+> - Biotic factors such as predation and competition play a crucial role in shaping ecosystems. `[例]`
+> - The researchers studied how biotic and abiotic factors interact in coral reef environments. `[例]`
 
 ## 复习记录
 

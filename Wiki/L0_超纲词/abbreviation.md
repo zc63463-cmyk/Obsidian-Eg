@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**缩写，缩略词**==；②缩短，缩写过程；
+**n.** ①==**缩写，缩略词**== `N is an abbreviation for/of N` `[语言]`；②缩短，缩写过程 `the abbreviation of N` `[语言]`；
 
 > [!tip] 原型义
 > **原型义**：使变短（从完整形式中截取一部分）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "WHO" is an abbreviation for "World Health Organization".
+> - WHO is an abbreviation for World Health Organization. `[例]`
+> - The abbreviation of the organization's name made it easier to print on business cards. `[例]`
 
 ## 复习记录
 

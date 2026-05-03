@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**通风的，空气流通的**==；②轻快的，无忧无虑的；③不切实际的，空洞的；
+**adj.** ①==**通风的，空气流通的**== `adj. N` [建筑/日常]；②==**轻快的，无忧无虑的**== `adj. manner` [描述]；③==**不切实际的，空洞的**== `adj. N` [贬义]；
 
 > [!tip] 原型义
 > **原型义**：充满空气的（有充足空气流通的空间）
@@ -125,7 +125,9 @@ air(空气) + -y(充满……的，形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The architect designed an airy building with large windows and open spaces.
+> - The architect designed an airy building with large windows and open spaces. `[例]`
+> - She dismissed his airy promises to reform the system, having heard them many times before. `[例]`
+> - He maintained an airy confidence despite the mounting challenges. `[例]`
 
 ## 复习记录
 

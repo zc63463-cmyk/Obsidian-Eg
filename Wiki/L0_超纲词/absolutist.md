@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**专制主义者，绝对主义者**==；②绝对论者；
-**adj.** ①专制主义的；②绝对论的；
+**n.** ①==**专制主义者，绝对主义者**== `an N ruler / N regime` `[政治]`；②绝对论者 `a moral N` `[哲学]`；
+**adj.** ①专制主义的 `N regime / N approach` `[政治]`；②绝对论的 `[哲学]`；
 
 > [!tip] 原型义
 > **原型义**：完全不受约束的状态（从"完全脱离束缚"引申为"绝对的、不受限制的"）
@@ -129,7 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The absolutist monarch claimed divine right to rule.
+> - The absolutist monarch claimed divine right to rule without any parliamentary oversight. `[例]`
+> - Moral absolutists believe that certain ethical principles are universally binding regardless of cultural context. `[例]`
 
 ## 复习记录
 

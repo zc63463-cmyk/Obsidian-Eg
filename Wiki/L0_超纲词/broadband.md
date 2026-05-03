@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宽带**==；②宽带互联网连接；
-**adj.** ①宽带的；
+**n.** ①==**宽带**== `broadband access` [技术] `broadband connection` [技术]；②宽带互联网连接 `broadband internet` [通用]；
+**adj.** ①宽带的 `broadband N` [技术]；
 
 > [!tip] 原型义
 > **原型义**：宽频带（能传输大量数据的通信通道）
@@ -126,8 +126,8 @@ broad(宽的) + band(频带/带子)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - broadband 常出现在科技、数字经济、政策相关语料中
-> - 相关阅读话题：digital divide, internet access, technology policy
+> - The government launched an initiative to expand broadband access to underserved rural communities across the nation. `[例]`
+> - Reliable broadband connection has become essential for remote work and online education in the digital age. `[例]`
 
 ## 复习记录
 

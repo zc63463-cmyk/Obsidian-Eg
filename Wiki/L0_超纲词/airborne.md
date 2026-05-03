@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**空运的，在空中的**==；②（疾病）空气传播的；③在飞行中的；
+**adj.** ①==**空运的，在空中的**== `adj. N` [军事/运输] `become adj.` [航空]；②==**（疾病）空气传播的**== `adj. N` [医学]；③==**在飞行中的**== `adj. N` [航空]；
 
 > [!tip] 原型义
 > **原型义**：在空中的（被空气承载着）
@@ -126,7 +126,9 @@ air(空气) + borne(bear 的过去分词，被承载)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Airborne transmission of the virus made containment measures more challenging.
+> - Airborne transmission of the virus made containment measures more challenging. `[例]`
+> - The plane became airborne ten minutes after takeoff. `[例]`
+> - Airborne troops were deployed behind enemy lines during the military operation. `[例]`
 
 ## 复习记录
 

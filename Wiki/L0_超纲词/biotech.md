@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生物技术（biotechnology的缩写）**==；
+**n.** ①==**生物技术（biotechnology的缩写）**== `adj biotech N` [通用]；`the biotech N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：利用生物体或生物过程的技术
@@ -123,8 +123,8 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - biotech 常出现在科技、商业、伦理讨论相关语料中
-> - 相关阅读话题：gene editing, pharmaceutical innovation, bioethics
+> - The biotech industry has attracted billions of dollars in venture capital funding over the past decade. `[例]`
+> - Several biotech startups are racing to develop effective gene therapies for rare genetic disorders. `[例]`
 
 ## 复习记录
 

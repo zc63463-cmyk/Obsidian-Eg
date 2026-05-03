@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**验证，鉴定（真实性）**==；②证明……是真实的；
+**vt.** ①==**验证，鉴定（真实性）**== `V N` [正式]；②==**证明……是真实的**== `V N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使某物成为真实的/权威的
@@ -126,8 +126,8 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Experts were called in to authenticate the painting, which was suspected to be a forgery."（专家被请来鉴定这幅画，这幅画被怀疑是赝品——艺术类语料）
-> - "Two-factor authentication is widely used to authenticate users' identities online."（双因素认证被广泛用于在线验证用户身份——科技类语料）
+> - Experts were called in to authenticate the painting, which was suspected to be a forgery. `[例]`
+> - Two-factor authentication is widely used to authenticate users' identities online. `[例]`
 
 ## 复习记录
 

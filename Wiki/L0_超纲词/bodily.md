@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**身体的，肉体的**==；
-**adv.** ①整体地，全部地；②以肉体方式；
+**adj.** ①==**身体的，肉体的**== `adj. N` [法律/医学]；
+**adv.** ①==**整体地，全部地**== `adv. V` [书面]；②==**以肉体方式**== `adv. V` [书面]；
 
 > [!tip] 原型义
 > **原型义**：与身体有关的
@@ -128,8 +128,8 @@ body(身体) + -ly(形容词/副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - bodily 常出现在法律、医学、伦理相关语料中
-> - 相关阅读话题：bodily autonomy, medical ethics, law
+> - The law imposes severe penalties for anyone who causes bodily harm to another person. `[例]`
+> - The security guards bodily removed the protester from the building. `[例]`
 
 ## 复习记录
 

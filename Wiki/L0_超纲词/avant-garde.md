@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（艺术、文化、政治领域的）先锋派，前卫派**==；②先锋派艺术家；
-**adj.** ①==**前卫的，先锋的**==；②创新激进的；
+**n.** ①==**（艺术、文化、政治领域的）先锋派，前卫派**== `the avant-garde` [正式]；②先锋派艺术家 `avant-garde N` [正式]；
+**adj.** ①==**前卫的，先锋的**== `adj N` [正式]；②创新激进的；
 **n.** ①（军事）前卫部队；（原义）
 
 > [!tip] 原型义
@@ -133,8 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The avant-garde movement of the early 20th century challenged every convention of traditional art."（20世纪初的先锋派运动挑战了传统艺术的每一条惯例）
-> - "Her avant-garde approach to fashion has made her one of the most influential designers of the decade."（她对时尚的前卫态度使她成为十年来最具影响力的设计师之一）
+> - The avant-garde movement of the early 20th century challenged every convention of traditional art.`[例]`
+> - Her avant-garde approach to fashion has made her one of the most influential designers of the decade.`[例]`
 
 ## 复习记录
 

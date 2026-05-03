@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**傻瓜，笨蛋**==；②呆鸟（热带海鸟）；③（booby trap）陷阱，恶作剧装置；
+**n.** ①==**傻瓜，笨蛋**== `N` [口语/戏谑] `call sb. a N` [口语/戏谑]；②==**呆鸟（热带海鸟）**== `N` [自然]；③==**（booby trap）陷阱，恶作剧装置**== `N` [军事/日常]；
 
 > [!tip] 原型义
 > **原型义**：傻瓜
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - booby 常出现在口语、幽默文学、军事相关语料中
-> - 相关阅读话题：military traps, humor, wildlife
+> - The soldiers discovered a booby trap hidden beneath the road just in time to avoid it. `[例]`
+> - Don't be such a booby, the instructions are right there on the box. `[例]`
 
 ## 复习记录
 

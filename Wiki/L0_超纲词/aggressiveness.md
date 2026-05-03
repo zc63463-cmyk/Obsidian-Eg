@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**侵略性，攻击性**==；②进取心，好斗性；
+**n.** ①==**侵略性，攻击性**== `verbal/physical aggressiveness` `aggressiveness toward N` [通用]；②==**进取心，好斗性**== `business/market aggressiveness` [商业]；
 
 > [!tip] 原型义
 > **原型义**：走向前的程度（向前推进、主动出击的强度）
@@ -126,7 +126,9 @@ ag-(=ad-, 朝向) + gress(走，步) + -ive(倾向) + -ness(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Research has shown that childhood aggressiveness can be a predictor of adult behavioral problems.
+> - Research has shown that childhood aggressiveness can be a predictor of adult behavioral problems. `[例]`
+> - The company's market aggressiveness allowed it to capture a significant share of the industry within just two years. `[例]`
+> - Excessive verbal aggressiveness in the workplace can lead to a toxic organizational culture. `[例]`
 
 ## 复习记录
 

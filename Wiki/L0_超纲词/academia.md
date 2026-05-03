@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**学术界，学术圈**==；②学术环境，学术生活；③高等教育界；
+**n.** ①==**学术界，学术圈**== `in N / the world of N` `[教育]`；②学术环境，学术生活 `life in N` `[教育]`；③高等教育界 `N and industry` `[教育]`；
 
 > [!tip] 原型义
 > **原型义**：学术园地（源自古希腊 Akademeia，柏拉图讲学之地）
@@ -126,7 +126,8 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many PhD graduates struggle to find positions in academia.
+> - Many PhD graduates struggle to find permanent positions in academia after completing their dissertations. `[例]`
+> - The gap between academia and industry has narrowed in recent years as universities increase their collaboration with tech companies. `[例]`
 
 ## 复习记录
 

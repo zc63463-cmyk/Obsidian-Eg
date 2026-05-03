@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**传记作者，传记作家**==；
+**n.** ①==**传记作者，传记作家**== `a/an adj biographer` [通用]；`N's biographer` [通用]；
 
 > [!tip] 原型义
 > **原型义**：写别人生平故事的人
@@ -125,8 +125,8 @@ bio-(生命) + [[graph-gram|graph]](写) + -er(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - biographer 常出现在文学评论、人物介绍相关语料中
-> - 相关阅读话题：literary criticism, life writing
+> - The acclaimed biographer spent ten years researching and writing the definitive biography of the former president. `[例]`
+> - She worked as his biographer and gained unprecedented access to his personal archives and private letters. `[例]`
 
 ## 复习记录
 

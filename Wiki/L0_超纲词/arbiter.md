@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**仲裁者，裁决人**==；②权威，主宰（在某领域有最终决定权的人/事物）；
+**n.** ①==**仲裁者，裁决人**== `N of N` [正式]；②==**权威，主宰**== `N of N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：仲裁者（到场旁观看并做出裁决的人）
@@ -127,8 +127,8 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Supreme Court is the final arbiter of constitutional questions."（最高法院是宪法问题的最终裁决者——法律类语料）
-> - "Paris has long been considered the arbiter of fashion."（巴黎长期以来被视为时尚的仲裁者——文化类语料）
+> - The Supreme Court is the final arbiter of constitutional questions.`[例]`
+> - Paris has long been considered the arbiter of fashion.`[例]`
 
 ## 复习记录
 

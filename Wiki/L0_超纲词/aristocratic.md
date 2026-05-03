@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**贵族的，贵族式的**==；②有贵族气派的，高雅的；
+**adj.** ①==**贵族的，贵族式的**== `adj N` [中性]；②==**有贵族气派的，高雅的**== `adj N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：属于最优者的（由最优秀的人统治的）
@@ -124,8 +124,8 @@ aristo(最好的，希腊语 *aristos*) + crat(统治，希腊语 *kratos*) + -i
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She came from an aristocratic family that had fallen on hard times."（她出身于一个已经没落的贵族家庭——文学类语料）
-> - "The aristocratic lifestyle of the upper class was a subject of much criticism."（上层阶级的贵族生活方式受到广泛批评——社会类语料）
+> - She came from an aristocratic family that had fallen on hard times.`[例]`
+> - The aristocratic lifestyle of the upper class was a subject of much criticism.`[例]`
 
 ## 复习记录
 

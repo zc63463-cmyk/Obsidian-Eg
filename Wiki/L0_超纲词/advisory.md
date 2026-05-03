@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**顾问的，咨询的**==；②劝告的，建议性的；
-**n.** ①（官方）警告，警报；②公告；
+**adj.** ①==**顾问的，咨询的**== `advisory adj. N` `in an advisory capacity` [正式]；②==**劝告的，建议性的**== `advisory opinion` [通用]；
+**n.** ①==**（官方）警告，警报**== `issue an advisory` `travel/weather advisory` [正式]；②==**公告**== `advisory on N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：提供建议的（给出意见供参考）
@@ -129,7 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government issued a travel advisory warning citizens about the risks of visiting the region.
+> - The government issued a travel advisory warning citizens about the risks of visiting the region. `[例]`
+> - She was appointed to the advisory board due to her extensive experience in environmental policy. `[例]`
+> - The National Weather Service has issued a severe storm advisory for the entire coastal area. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**蚜虫**==（一种吸食植物汁液的小昆虫）；
+**n.** ①==**蚜虫**== `N on N` `colony of N` [专业]；
 
 > [!tip] 原型义
 > **原型义**：吸取植物汁液的虫（从植物中吸取营养的小昆虫）
@@ -122,7 +122,8 @@ aphi-(源自希腊语 *aphis*，意为"吸食植物的虫")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Aphids can cause significant damage to crops by sucking sap from plant tissues.
+> - Aphids can cause significant damage to crops by sucking sap from plant tissues. `[例]`
+> - Gardeners often introduce ladybugs to control aphid populations on their rose bushes. `[例]`
 
 ## 复习记录
 

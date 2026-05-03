@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**退位，放弃（权力、责任）**==；②失职，未能履行职责；
+**v.** ①==**退位，放弃（权力、责任）**== `V the throne / V responsibility` `[政治]`；②失职，未能履行职责 `V one's responsibility` `[正式]`；
 
 > [!tip] 原型义
 > **原型义**：离开权力（从王座上走下来，主动放弃权力）
@@ -123,7 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - King Edward VIII abdicated the throne in 1936 to marry Wallis Simpson.
+> - King Edward VIII abdicated the throne in 1936 to marry Wallis Simpson. `[例]`
+> - A leader who abdicates responsibility when a crisis arises cannot expect to maintain the trust of the people. `[例]`
 
 ## 复习记录
 

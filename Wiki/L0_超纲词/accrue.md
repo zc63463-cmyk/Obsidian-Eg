@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**积累，自然增加**==；②（利息等）增值；③获得，积累（好处）；
+**v.** ①==**积累，自然增加**== `N accrue (to/for sb)` `V-ing accrue` [正式]；②==**（利息等）增值**== `N accrue on N` `accrued adj. N` [金融]；③==**获得，积累（好处）**== `N accrue from N` `benefits accruing to sb` [正式]；
 
 > [!tip] 原型义
 > **原型义**：向着增长（随时间自然积累和增加）
@@ -126,7 +126,9 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Interest accrues on a daily basis on most savings accounts.
+> - Interest accrues on a daily basis on most savings accounts. `[例]`
+> - Benefits accruing from the new policy will be distributed to all employees over the next fiscal year. `[例]`
+> - Vacation days accrue gradually as employees continue working for the organization. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**分析师，分析家**==；②精神分析学家；
+**n.** ①==**分析师，分析家**== `adj. N` `N of N` [专业]；②精神分析学家 `N for N` [专业]；
 
 > [!tip] 原型义
 > **原型义**：解开的人（把复杂事物拆解开来理解的人）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Financial analysts predict that the stock market will recover by the end of the year.
+> - Financial analysts predict that the stock market will recover by the end of the year. `[例]`
+> - The data analyst identified several patterns in the customer behavior report. `[例]`
 
 ## 复习记录
 

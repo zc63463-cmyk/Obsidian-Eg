@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自传**==；②自传体文学；
+**n.** ①==**自传**== `N` [通用]；②==**自传体文学**== `N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：自己写自己的生命记录
@@ -123,8 +123,8 @@ auto-(自己) + bio(生命，希腊语 *bios*) + [[graph-gram|graph]](写，希�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "In his autobiography, Nelson Mandela described his 27 years of imprisonment."（纳尔逊·曼德拉在他的自传中描述了他27年的牢狱生活——传记类语料）
-> - "The autobiography provides a revealing account of the author's childhood in rural China."（这本自传生动地描述了作者在中国农村的童年——文学类语料）
+> - In his autobiography, Nelson Mandela described his 27 years of imprisonment. `[例]`
+> - The autobiography provides a revealing account of the author's childhood in rural China. `[例]`
 
 ## 复习记录
 

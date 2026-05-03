@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人震惊的，令人惊叹的**==；②令人难以置信的；
+**adj.** ①==**令人震惊的，令人惊叹的**== `adj N` [通用]；②==**令人难以置信的**== `adj N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：使人被击倒的（因惊讶而呆住）
@@ -126,8 +126,8 @@ a-(=ex-, 出，向外) + stound(=stun, 击晕，使震惊) + -ing(形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company reported an astounding 300% increase in revenue over the past year."（公司报告过去一年收入惊人地增长了300%——商业类语料）
-> - "The discovery of penicillin was one of the most astounding breakthroughs in medical history."（青霉素的发现是医学史上最令人震惊的突破之一——科学类语料）
+> - The company reported an astounding 300% increase in revenue over the past year. `[例]`
+> - The discovery of penicillin was one of the most astounding breakthroughs in medical history. `[例]`
 
 ## 复习记录
 

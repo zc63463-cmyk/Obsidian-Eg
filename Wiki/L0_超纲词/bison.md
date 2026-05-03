@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**北美野牛，欧洲野牛**==；
+**n.** ①==**北美野牛，欧洲野牛**== `N` [自然] `adj. N` [自然]；
 
 > [!tip] 原型义
 > **原型义**：大型野生牛类动物
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - bison 常出现在生态保护、美国历史相关语料中
-> - 相关阅读话题：wildlife conservation, American West, endangered species
+> - Thousands of bison once roamed the Great Plains before they were nearly hunted to extinction. `[例]`
+> - Conservation efforts have helped restore the American bison population in several national parks. `[例]`
 
 ## 复习记录
 

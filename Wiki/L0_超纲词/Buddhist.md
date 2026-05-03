@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**佛教徒**==；
-**adj.** ①==**佛教的**==；
+**n.** ①==**佛教徒**== `a practicing N` `[宗教]`；
+**adj.** ①==**佛教的**== `N philosophy / N temple` `[宗教]`；
 
 > [!tip] 原型义
 > **原型义**：佛教的/佛教徒
@@ -124,8 +124,8 @@ Buddha(佛陀) + -ist(人/形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Buddhist 常出现在宗教文化、哲学、亚洲研究相关语料中
-> - 相关阅读话题：Asian culture, philosophy of mind, meditation
+> - The temple attracts thousands of Buddhist pilgrims every year during the festival season. `[例]`
+> - Buddhist philosophy emphasizes the importance of mindfulness and compassion in daily life. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**地中海的**==；②地中海式的；
-**n.** ①地中海；
+**adj.** ①==**地中海的**== `the N Sea` `[地理]`；②地中海式的 `N diet / N climate` `[文化]`；
+**n.** ①地中海 `the N` `[地理]`；
 
 > [!tip] 原型义
 > **原型义**：地中海的（位于陆地中间的海的）
@@ -119,7 +119,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Mediterranean diet, rich in olive oil, fish, and vegetables, has been associated with a lower risk of heart disease."（以橄榄油、鱼类和蔬菜为主的地中海饮食与较低的心脏病风险相关）
+> - The Mediterranean diet, rich in olive oil, fish, and vegetables, has been associated with a lower risk of heart disease. `[例]`
+> - Countries bordering the Mediterranean enjoy a mild climate with warm, dry summers and mild winters. `[例]`
 
 ## 复习记录
 

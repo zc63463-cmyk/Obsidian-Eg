@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**背景幕布**==（舞台后方的 painted cloth）；②==**背景，大环境**==（事件发生的背景/环境）；③背景情况；
-**v.** ①为……提供背景；②衬托；
+**n.** ①==**背景幕布**== `the backdrop` [中性]；②==**背景，大环境**== `against the backdrop of n` [中性]；③==**背景情况**== `the backdrop to n` [中性]；
+**v.** ①==**为……提供背景**== `N backdrop n` [中性]；②==**衬托**== `N backdrop n` [中性]；
 
 > [!tip] 原型义
 > **原型义**：舞台后方的幕布（悬挂在舞台最深处的大型 painted cloth）
@@ -132,8 +132,8 @@ back-(后面) + drop(落下/悬挂物)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Against the backdrop of a slowing economy, the central bank decided to cut interest rates."（在经济放缓的背景下，央行决定降息。）
-> - "The beautiful coastline provided a stunning backdrop to our holiday."（美丽的海岸线为我们的假期提供了令人惊叹的背景。）
+> - Against the backdrop of a slowing economy, the central bank decided to cut interest rates.`[例]`
+> - The beautiful coastline provided a stunning backdrop to our holiday.`[例]`
 
 ## 复习记录
 

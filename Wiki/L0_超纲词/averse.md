@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**反对的，不乐意的**==（常用于 be averse to）；②厌恶的，反感的；
+**adj.** ①==**反对的，不乐意的**== `be averse to n/V-ing` [正式]；②==**厌恶的，反感的**== `be averse to n` [正式]；
 
 > [!tip] 原型义
 > **原型义**：转向对面（身体或心理转向远离某事物的方向）
@@ -129,8 +129,8 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -e(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He is not averse to taking risks when the potential rewards are high."（当潜在回报很高时，他并不反对冒险）
-> - "Many investors are risk-averse and prefer stable returns over high-growth opportunities."（许多投资者厌恶风险，比起高增长机会更偏好稳定回报）
+> - He is not averse to taking risks when the potential rewards are high.`[例]`
+> - Many investors are risk-averse and prefer stable returns over high-growth opportunities.`[例]`
 
 ## 复习记录
 

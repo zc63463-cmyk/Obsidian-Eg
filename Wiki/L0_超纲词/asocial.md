@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不合群的，不社交的**==；②缺乏社会意识的，反社会的（但不一定有敌意）；
+**adj.** ①==**不合群的，不社交的**== `adj N` [中性]；②==**缺乏社会意识的，反社会的**== `adj N` [临床]；
 
 > [!tip] 原型义
 > **原型义**：不社交的（远离社会的）
@@ -125,8 +125,8 @@ a-(=without, 没有，否定前缀) + soci(同伴，社会，拉丁语 *socius*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Not all introverted people are asocial; many simply prefer smaller social gatherings."（并非所有内向的人都不合群；许多人只是更喜欢小型社交聚会——心理学类语料）
-> - "The child displayed asocial tendencies, preferring to play alone rather than with peers."（这个孩子表现出不合群的倾向，更喜欢独自玩耍而非与同伴一起——教育类语料）
+> - Not all introverted people are asocial; many simply prefer smaller social gatherings.`[例]`
+> - The child displayed asocial tendencies, preferring to play alone rather than with peers.`[例]`
 
 ## 复习记录
 

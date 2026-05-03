@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（容器等的）边缘**==；②帽檐；
-**v.** ①注满，使……溢出；
+**n.** ①==**（容器等的）边缘**== `the brim of N` [通用] `full to the brim` [通用]；②帽檐 `the brim of a hat` [通用]；
+**v.** ①注满，使……溢出 `brim with N` [文学] `brim over` [文学]；
 
 > [!tip] 原型义
 > **原型义**：容器的边缘
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - brim 常出现在文学描写、日常表达相关语料中
-> - 相关阅读话题：nature description, emotional expression
+> - The cup was filled to the brim with steaming hot tea, and she had to carry it carefully. `[例]`
+> - Her eyes were brimming with tears as she listened to the farewell speech at the graduation ceremony. `[例]`
 
 ## 复习记录
 

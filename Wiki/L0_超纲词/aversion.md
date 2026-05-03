@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**厌恶，反感，憎恶**==；②==**反感的事物**==（the object of aversion）；
+**n.** ①==**厌恶，反感，憎恶**== `have an aversion to n` [正式]；②==**反感的事物**== `N be the aversion of n` [正式]；
 
 > [!tip] 原型义
 > **原型义**：转离的动作/状态（身体或心理转离某事物的倾向）
@@ -129,9 +129,9 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She has a deep aversion to any form of dishonesty."（她对任何形式的不诚实都有深深的厌恶）
-> - "Risk aversion among investors has led to a flight to safer assets."（投资者的风险厌恶情绪导致了向安全资产的转移）
-> - "His aversion to public speaking held back his career for years."（他对公开演讲的厌恶阻碍了他多年的职业发展）
+> - She has a deep aversion to any form of dishonesty.`[例]`
+> - Risk aversion among investors has led to a flight to safer assets.`[例]`
+> - His aversion to public speaking held back his career for years.`[例]`
 
 ## 复习记录
 
