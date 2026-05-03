@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**厢式货车，面包车**==；②（铁路上的）行李车；③（有篷盖的）小货车；
-**v.** （用货车）搬运，运输；
+**n.** ①==**厢式货车，面包车**== `a delivery van` `a van driver`；②（铁路上的）行李车；③（有篷盖的）小货车；
+**v.** ④==**（用货车）搬运，运输**== `van the goods/furniture to N`
 
 > [!tip] 原型义
 > **原型义**：货车（用于运输的封闭式车辆）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The delivery van pulled up outside the warehouse."（送货货车停在仓库外面。——考研阅读模拟）
-> - "We need to van the equipment to the new site."（我们需要用货车把设备运到新场地。——红宝书考研词汇例句）
+> - "The raiders machine-gunned everyone in the bank before escaping in a van." `[Cambridge]`
+> - "On election day they drove around town in a van with a loudspeaker on the roof." `[Oxford]`
+> - "Domestic law enforcement could disguise the vehicle as a delivery van and use it to scan cars in, say, a stadium parking lot." `[COCA-NEWS]`
+> - "The van drivers refused to cross the picket line." `[Cambridge]`
 
 
 ---

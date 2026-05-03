@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**步行，走**==；②陪……走，护送；③散步；
-**n.** ①步行，散步；②步行的路；③步道；
+**v.** ①==**步行，走**== `\walk to/from` [通用]；`\walk sb. home` [通用]；②==**散步**== `\go for a walk` [通用]；③==**陪……走，护送**== `\walk sb. to` [通用]；
+**n.** ①==**步行，散步**== `\a ten-minute walk` [通用]；②==**步行的路**== `\a long walk home` [通用]；③==**步道**== `\a circular walk` [通用]；
 
 > [!tip] 原型义
 > **原型义**：用脚移动（行走）
@@ -138,8 +138,10 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For an hour or so she would walk up and down between the stalls looking at everything, buying here and there."（大约一个小时，她会在摊位之间走来走去，四处看看，这里买一点那里买一点。——考研完形填空真题）
-> - "When you find yourself well off a trail, but not in a completely unfamiliar area, you have to answer two questions."（当你发现自己偏离了小路，但并非处于完全陌生的区域时，你必须回答两个问题。——2019年英语一完形填空）
+> - "For an hour or so she would walk up and down between the stalls looking at everything, buying here and there." `[真题]`
+> - "When you find yourself well off a trail, but not in a completely unfamiliar area, you have to answer two questions." `[真题]`
+> - "People from all walks of life attended the meeting." `[权威语料]`
+> - "The station is just a five-minute walk from the house." `[权威语料]`
 
 
 ---

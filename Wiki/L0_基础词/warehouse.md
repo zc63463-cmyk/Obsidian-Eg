@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**仓库，货栈**==；②批发商店；
-**v.** ①把……存入仓库；
+**n.** ①==**仓库，货栈**== `\a network of warehouses` [正式]；`\furniture warehouse` [通用]；②==**批发商店**== `\warehouse store` [通用]；
+**v.** ①==**把……存入仓库**== `\warehouse the goods` [正式]；
 
 > [!tip] 原型义
 > **原型义**：存放商品的房屋（仓库）
@@ -135,8 +135,10 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it."（亚马逊凭借其仓库网络，也在每个征收销售税的州代收销售税。——2019年英语一Text 4）
-> - "The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state."（法院推翻的判例认为，如果企业将客户的购买商品运送到该企业没有仓库或办事处等实体存在的州，该企业就不必为该州代收销售税。——2019年英语一Text 4）
+> - "Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it." `[真题]`
+> - "The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state." `[真题]`
+> - "The goods have been sitting in a warehouse for months because a strike has prevented distribution." `[权威语料]`
+> - "The big factories created a network of suppliers, warehouses, and shipping companies." `[权威语料]`
 
 
 ---

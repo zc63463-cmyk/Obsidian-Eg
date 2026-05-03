@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**附近，邻近**==（in the vicinity of）；②==**大约，左右**==（in the vicinity of $30,000，表示数量上的"附近"）；
+**n.** ①==**附近，邻近**== `\in the vicinity of` [正式]；`\hotels in the vicinity` [通用]；②==**大约，左右**== `\in the vicinity of $30,000` [正式]；
 
 > [!tip] 原型义
 > **原型义**：附近（靠近某个地点的区域）
@@ -129,8 +129,10 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Chester Creek greenbelt trail had been closed off in the vicinity of the fire."（在火灾附近的切斯特溪绿道步道已被关闭——Anchorage Daily News）
-> - "Unconfirmed images posted on social media purport to show recent explosions in the vicinity of the city's medieval citadel."（社交媒体上发布的未经证实的图片据称显示了城市中世纪城堡附近最近的爆炸——OCRegister）
+> - "The Chester Creek greenbelt trail had been closed off in the vicinity of the fire." `[权威语料]`
+> - "Unconfirmed images posted on social media purport to show recent explosions in the vicinity of the city's medieval citadel." `[权威语料]`
+> - "The Fed projects that inflation will sink to 2.4% next year, in the vicinity of its 2% target." `[权威语料]`
+> - "Anyone who happened to be in the vicinity could have been injured or killed." `[权威语料]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**蜘蛛网**==；②==**网络，网状物**==；③==**万维网（the Web）**==；④网络（人际/社会关系）；
-**v.** ①==**用网覆盖，使陷入网中**==；
+**n.** ①==**蜘蛛网**== `spider web` [通用]；②==**网络，网状物**== `a web of wires / a web of relationships` [通用]；③==**万维网（the Web）**== `the World Wide Web / surf the Web` [通用]；④网络（人际/社会关系） `a web of deceit` [正式]；
+**v.** ①==**用网覆盖，使陷入网中**== `web sth in / be webbed in` [正式]；
 
 > [!tip] 原型义
 > **原型义**：蜘蛛网（丝线交织成的网状结构）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many low-income families do not have access to the World Wide Web."（许多低收入家庭无法使用万维网——剑桥商务词典例句）
-> - "He was caught in a web of deceit and could not escape."（他陷入了一个欺骗的网中，无法逃脱——考研阅读常见表达）
+> - He was caught in a tangled web of relationships. `[真题]`
+> - They accused him of weaving a web of lies and deceit. `[真题]`
+> - Today's enterprise technology stack is a complex web of AI models, APIs and microservices. `[真题]`
 
 
 ---

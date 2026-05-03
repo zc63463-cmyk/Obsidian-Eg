@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**与……相对，与……相比**==；②（比赛等）对；（法律）诉；
+**prep.** ①==**与……相对，与……相比**== `A versus B / cost versus benefit` [正式]；②（比赛等）对 `France versus Brazil /缩写 vs.` [中性]；③（法律）诉 `Brown versus Board of Education` [法律]；
 
 > [!tip] 原型义
 > **原型义**：对，与……相对（两个方向转向对立）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The concept of man versus machine is at least as old as the industrial revolution."（人与机器对立的概念至少可以追溯到工业革命时期。——2014年考研英语二阅读Text 3）
-> - "The most exciting game was Harvard versus Yale."（最富紧张刺激的球赛是哈佛队对耶鲁队。——柯林斯语料库）
-> - "Only 18.8% of the class of 1982 had some kind of diploma four years after high school, versus 45% of the class of 1972."（1982届高中毕业生中只有18.8%在四年后获得了某种文凭，相比之下1972届为45%。——柯林斯语料库）
+> - "The concept of man versus machine is at least as old as the industrial revolution." `[真题]`
+> - "The most exciting game was Harvard versus Yale." `[权威语料]`
+> - "Only 18.8% of the class of 1982 had some kind of diploma four years after high school, versus 45% of the class of 1972." `[权威语料]`
+> - "The debate of nature versus nurture has shaped the field of psychology for decades." `[学术语料]`
 
 
 ---

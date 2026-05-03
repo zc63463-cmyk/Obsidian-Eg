@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**湿的，潮湿的**==；②有雨的，多雨的；
-**v.** ①把……弄湿；
+**adj.** ①==**湿的，潮湿的**== `wet clothes/ground` [中性]；②==**有雨的，多雨的**== `a wet day/season` [中性]；
+**v.** ①==**把……弄湿**== `wet one's lips/whistle` [中性]；
 
 > [!tip] 原型义
 > **原型义**：湿的，潮湿的
@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The wet season brings heavy rainfall to the region."（雨季给该地区带来大量降雨）
+> - It was still wet underfoot after the heavy rain. `[真题]`
+> - Fielding nervously wet his lips and tried to smile. `[真题]`
+> - We've had a lot of wet weather this summer. `[真题]`
 
 
 ---

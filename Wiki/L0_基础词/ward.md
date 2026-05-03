@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**病房**==；②==**行政区，选区**==；③受监护人；④看守，保卫；
-**v.** ①==**避开，防止**==；②保卫，守护；
+**n.** ①==**病房**== `\psychiatric/geriatric ward` [正式]；`\isolation ward` [正式]；②==**行政区，选区**== `\electoral ward` [正式]；③==**受监护人**== `\ward of the state/court` [正式]；④==**看守，保卫**==；
+**v.** ①==**避开，防止**== `\ward off` [通用]；②==**保卫，守护**==；
 
 > [!tip] 原型义
 > **原型义**：守卫（看护保护）
@@ -138,8 +138,10 @@ ward（古英语 *weard*，看管、守卫，与 guard 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He landed in a psychiatric ward."（他住进了精神病房。——牛津词典例句）
-> - "She put up her hands to ward him off."（她举起双手把他挡开。——剑桥词典例句）
+> - "The emergency wards are full of casualties from the crash." `[权威语料]`
+> - "She works in the cancer ward." `[权威语料]`
+> - "They were wards of the state." `[权威语料]`
+> - "She put up her hands to ward him off." `[权威语料]`
 
 
 ---

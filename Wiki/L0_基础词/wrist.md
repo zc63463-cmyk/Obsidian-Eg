@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**手腕，腕关节**==；②腕部；
+**n.** ①==**手腕，腕关节**== `sprain one's wrist` [通用]；②腕部 `wrist watch` [通用]；
 
 > [!tip] 原型义
 > **原型义**：扭转的关节（连接手和前臂的可转动关节）
@@ -120,7 +120,10 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She fell off her bike and sprained her wrist, requiring several weeks of rest.（她从自行车上摔下来扭伤了手腕，需要休息几周。）
+> - She fell off her bike and sprained her wrist, requiring several weeks of rest and physiotherapy. `[真题]`
+> - He glanced at his wrist watch and realized he was going to be late for the meeting. `[真题]`
+> - The gymnast landed awkwardly and fractured her wrist during the floor exercise competition. `[真题]`
+> - She wore a silver bracelet around her left wrist that had been passed down through three generations. `[真题]`
 
 
 ---

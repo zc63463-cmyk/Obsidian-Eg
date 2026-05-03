@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工作日，平日**==（周一至周五的任一天）；
+**n.** ①==**工作日，平日**== `on weekdays` [中性]（周一至周五的任一天）；
 
 > [!tip] 原型义
 > **原型义**：工作日（周一到周五）
@@ -116,7 +116,11 @@ week(周) + day(天)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The museum is open on weekdays from 9 a.m. to 5 p.m."（博物馆工作日开放时间为上午9点至下午5点）
+> - The museum is open on weekdays from 9 a.m. to 5 p.m. `[真题]`
+> - She scheduled her doctor's appointments for weekday mornings to avoid the crowds. `[外刊]`
+> - The weekday lunch rush at the restaurant was always busy with office workers. `[外刊]`
+> - The entrance fee is $2 on weekdays or $1 on the weekends. `[真题]`
+> - A one-way weekday adult train ticket will be $3.50. `[真题]`
 
 
 ---

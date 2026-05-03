@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**浪费**==（未充分利用而失去）；②==**使荒芜**==；
-**n.** ①==**浪费**==；②==**废物，垃圾**==；③荒地，废墟；
-**adj.** ①==**废弃的**==；②荒芜的；
+**v.** ①==**浪费**==（未充分利用而失去） `waste time/money / a waste of` [通用]；②==**使荒芜**== `waste the land` [正式]；
+**n.** ①==**浪费**== `a waste of time/resources` [通用]；②==**废物，垃圾**== `industrial/household waste` [通用]；③荒地，废墟 `waste land` [正式]；
+**adj.** ①==**废弃的**== `waste material` [通用]；②荒芜的 `waste ground` [正式]；
 
 > [!tip] 原型义
 > **原型义**：浪费（未充分利用而失去）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Wasting time is the same as wasting life."（浪费时间等于浪费生命。——月沙工具箱例句）
-> - "This project is a terrible waste of money."（这个项目计划完全是在浪费钱财。——Cambridge Dictionary 权威例句）
+> - "These meetings are a complete waste of time." `[真题]`
+> - "The government needs to invest more in waste disposal and recycling facilities." `[真题]`
+> - "Detractors warn against a serious waste of resources and describe the proposal as obscure." `[真题]`
 
 
 ---

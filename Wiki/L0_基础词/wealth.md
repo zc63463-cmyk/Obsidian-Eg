@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**财富，钱财**==；②==**大量，丰富**==（a wealth of）；③富有（状态）；
+**n.** ①==**财富，钱财**== `accumulate/amass wealth / national wealth` [通用]；②==**大量，丰富**==（a wealth of） `a wealth of information/experience` [正式]；③富有（状态） `distribute wealth` [正式]；
 
 > [!tip] 原型义
 > **原型义**：财富（大量拥有的金钱和财产）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If ambition is to be well regarded, the rewards of ambition — wealth, distinction, control over one's destiny — must be deemed worthy of the sacrifices made on ambition's behalf."（如果野心要受到好的看待，那么野心的回报——财富、声望显赫、掌控自身命运——必须被认为值得为野心所做出的牺牲——2000年考研阅读Text 5）
-> - "The Portuguese give a great deal of credit to one man for having promoted sea travel."（葡萄牙人把很大功劳归于一个人，因为他推动了海上旅行——此处 a great deal of 与 a wealth of 同义，考研高频表达）
+> - "If ambition is to be well regarded, the rewards of ambition — wealth, distinction, control over one's destiny — must be deemed worthy of the sacrifices made on ambition's behalf." `[真题]`
+> - "The current account balance influences the national wealth and the capital stock of the economy." `[真题]`
+> - "She has a wealth of experience in teaching young children." `[真题]`
 
 
 ---

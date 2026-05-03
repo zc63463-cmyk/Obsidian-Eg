@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**授权令，许可证**==；②正当理由，依据；
-**v.** ①==**保证，担保**==；②使……有必要，使正当；③授权，批准；
+**n.** ①==**授权令，许可证**== `search/arrest warrant; death warrant` [正式]；②正当理由，依据 `no warrant for sth.` [正式]；
+**v.** ①==**保证，担保**== `warrant that...` [正式]；②使……有必要，使正当 `warrant attention/consideration` [正式]；③授权，批准；
 
 > [!tip] 原型义
 > **原型义**：保护/守卫 → 授权凭证（源自古诺斯语 *varða* "守卫、保护"，与 [[ward]] 同源）
@@ -141,8 +141,9 @@ warr-(=ward-, 守卫，保护，古诺斯语 *varða*) + -ant(名词/形容词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You shouldn't arrest him without warrant."（你不应毫无根据地逮捕他。——考研高频表达）
-> - "There is no warrant for such criticism."（这种批评毫无根据。——考研翻译相关话题）
+> - A judge has now issued a warrant for his arrest. `[真题]`
+> - You don't have to let the police in unless they have a search warrant. `[真题]`
+> - There is no warrant for such criticism of the proposed policy. `[真题]`
 
 
 ---

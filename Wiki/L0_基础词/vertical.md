@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**垂直的，竖直的**==；②纵向的，直立的；
+**adj.** ①==**垂直的，竖直的**== `a vertical line/cliff / vertical drop` [中性]；②纵向的，直立的 `vertical integration / vertical hierarchy` [商业]；
 **n.** ①垂直线，垂直面；
 
 > [!tip] 原型义
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Vertical integration refers to the direction of the two possible expansion of existing business enterprises as a development strategy."（纵向整合是指企业作为发展战略，在两个可能的方向上扩大现有经营业务。——柯林斯语料库）
-> - "The shareholders fear that vertical integration may not be the best option for the company."（股东们担心公司纵向一体化的提议并不是对公司发展的最佳方案。——柯林斯语料库）
+> - "Vertical integration refers to the direction of the two possible expansion of existing business enterprises as a development strategy." `[权威语料]`
+> - "The shareholders fear that vertical integration may not be the best option for the company." `[权威语料]`
+> - "Our team has abandoned the vertical structure because it didn't let people interact." `[权威语料]`
+> - "Vertical integration between hospitals and physician practices has increased substantially in recent years, reshaping the organization of US health care delivery." `[学术语料]`
 
 
 ---

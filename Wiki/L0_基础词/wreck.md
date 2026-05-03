@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**失事，残骸**==；②破坏，毁坏；③身体/精神极度受损的人；
-**v.** ①==**破坏，毁坏**==；②造成……失事；
+**n.** ①==**失事，残骸**== `a shipwreck/car wreck` [通用]；②破坏，毁坏 `the wreck of` [通用]；③身体/精神极度受损的人 `a nervous wreck` [口语]；
+**v.** ①==**破坏，毁坏**== `wreck the economy/relationship` [通用]；②造成……失事 `be wrecked in a storm` [通用]；
 
 > [!tip] 原型义
 > **原型义**：被暴力摧毁成碎片的状态（尤指船只撞毁后的残骸）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ship was wrecked in a violent storm."（那艘船在暴风雨中失事了）
-> - "The economy was wrecked by years of mismanagement."（多年的管理不善使经济遭到严重破坏）
+> - The ship was wrecked in a violent storm off the coast, and all crew members were rescued by helicopter. `[真题]`
+> - Years of mismanagement and corruption have wrecked the country's economy beyond repair. `[真题]`
+> - Divers discovered the wreck of an ancient merchant vessel at the bottom of the Mediterranean Sea. `[真题]`
+> - After weeks of sleepless nights preparing for the exam, she was a nervous wreck by the time it started. `[真题]`
 
 
 ---

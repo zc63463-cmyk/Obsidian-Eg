@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**杂草，野草**==；
-**v.** ①==**除草，清除**==；②淘汰，剔除（不良分子）；
+**n.** ①==**杂草，野草**== `weeds in the garden / grow like a weed` [通用]；
+**v.** ①==**除草，清除**== `weed the garden` [通用]；②淘汰，剔除（不良分子） `weed out unsuitable candidates` [正式]；
 
 > [!tip] 原型义
 > **原型义**：杂草，不需要的植物
@@ -126,7 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The selection process is designed to weed out unsuitable candidates."（选拔过程旨在淘汰不合格的候选人）
+> - The selection process is designed to weed out unsuitable candidates. `[真题]`
+> - He is keen to weed out the many applicants he believes may be frauds. `[真题]`
+> - It might just help to weed out the parasites from the genuine cases. `[真题]`
 
 
 ---

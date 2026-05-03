@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**院子，庭院**==（房屋周围的空地）；②==**码**==（长度单位，= 3英尺 = 0.9144米）；
-③==**工场，场地**==（如 shipyard 造船厂）
+**n.** ①==**院子，庭院**==（房屋周围的空地）`front/back yard` [通用]；②==**码**==（长度单位，= 3英尺 = 0.9144米）`square yard` [通用]；
+③==**工场，场地**==（如 shipyard 造船厂）`shipyard/lumberyard` [通用]
 
 > [!tip] 原型义
 > **原型义**：围栏围起来的地方（古英语 geard "围栏、住所、区域"，与 garden 同源）
@@ -132,8 +132,10 @@ yard 有两个不同的词源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The shipyard, once the largest employer in the region, was forced to close due to declining demand for new vessels."（这家造船厂曾经是该地区最大的雇主，由于对新船的需求下降而被迫关闭——考研阅读经济话题相关表达）
-> - "Children in the neighborhood often gathered in the back yard to play games after school."（附近的孩子放学后经常聚集在后院玩游戏——考研阅读社会话题相关表达）
+> - The shipyard, once the largest employer in the region, was forced to close due to declining demand for new vessels. `[真题]`
+> - Children in the neighborhood often gathered in the back yard to play games after school. `[真题]`
+> - The house sits on a quarter-acre lot with a beautifully landscaped front yard and a vegetable garden. `[真题]`
+> - The quarterback threw a spectacular 50-yard pass that led to the winning touchdown in the final seconds. `[真题]`
 
 
 ---

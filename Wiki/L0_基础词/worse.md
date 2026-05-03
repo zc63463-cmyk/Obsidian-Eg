@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**更差的，更糟的**==（bad 的比较级）；
-**adv.** ①==**更差地，更糟地**==；
-**n.** ①更坏的事物；②更糟的情况；
+**adj.** ①==**更差的，更糟的**==（bad 的比较级）`get worse` [通用]；
+**adv.** ①==**更差地，更糟地**== `perform worse` [通用]；
+**n.** ①更坏的事物 `prepare for the worst` [通用]；②更糟的情况 `from bad to worse` [通用]；
 
 > [!tip] 原型义
 > **原型义**：更差的，更糟的（bad 的比较级，表示质量或状况的下降）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic situation is getting worse."（经济形势正在恶化。）
-> - "Things went from bad to worse after the company announced its bankruptcy."（公司宣布破产后，情况每况愈下。）
+> - The economic situation is getting worse, with unemployment reaching its highest level in a decade. `[真题]`
+> - Things went from bad to worse after the company announced its bankruptcy and laid off hundreds of workers. `[真题]`
+> - Students who skip breakfast tend to perform worse on tests than those who eat a proper meal. `[真题]`
+> - Poor people in rural areas are often worse off than those in cities when it comes to access to healthcare. `[真题]`
 
 
 ---

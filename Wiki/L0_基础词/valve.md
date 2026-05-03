@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阀，阀门**==（控制流体流动的装置）；②==**（心脏的）瓣膜**==（医学用语）；
-③==**电子管**==（早期电子技术用语）
+**n.** ①==**阀，阀门**== `a safety/water valve` `shut off the valve`（控制流体流动的装置）；②==**（心脏的）瓣膜**== `heart valve` `valve replacement`（医学用语）；
+③==**电子管**== `vacuum valve` `[技术]`
 
 > [!tip] 原型义
 > **原型义**：折叠门的一扇（拉丁语 valva "折叠门的一部分"，字面意思是"会转动的东西"，与 volvere "滚动"同源）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The patient underwent surgery to replace a defective heart valve that had been causing shortness of breath."（患者接受了手术，替换了一个导致呼吸困难的缺陷心脏瓣膜——考研阅读医学话题相关表达）
-> - "Engineers installed safety valves on the pipeline to prevent excessive pressure buildup."（工程师在管道上安装了安全阀，以防止压力过大——考研阅读工程话题相关表达）
+> - "But by 55, she had developed severe heart valve disease because of heavy radiation doses." `[COCA-NEWS]`
+> - "A doctor advised the 26-year-old to seek heart valve surgery in the nearest major city, 200 miles away." `[COCA-NEWS]`
+> - "The aortic valve, ascending aorta and the two brachiocephalic arteries were normally developed." `[Cambridge]`
+> - "The reserve valve and bypass valve are also on the left." `[Cambridge]`
 
 
 ---

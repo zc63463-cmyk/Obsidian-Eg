@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**观看，注视**==（持续关注地看）；②==**留意，当心**==；③==**看守，监视**==；
-**n.** ①==**手表**==；②==**看守，监视**==；③==**值班**==；
+**v.** ①==**观看，注视**==（持续关注地看） `watch TV / watch a game` [通用]；②==**留意，当心**== `watch out / watch one's step` [通用]；③==**看守，监视**== `watch the children / keep watch` [通用]；
+**n.** ①==**手表**== `wear a watch / look at one's watch` [通用]；②==**看守，监视**== `keep watch / on watch` [通用]；③==**值班**== `on night watch` [正式]；
 
 > [!tip] 原型义
 > **原型义**：注视（持续清醒地关注）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Well, I guess I'd sell my watch or computer or do some odd jobs till I could afford a return plane ticket."（嗯，我想我会卖掉手表或电脑，或者打些零工，直到我能买得起返程机票。——四级真题）
-> - "To avoid self-deception, watch out for excuses and try this test: ask yourself how you would feel if your actions were public and someone was watching."（为了避免自欺欺人，当心找借口，试试这个测试：问问你的行为是公开的，并且有人可能在背后监视你，你会有什么感觉。——常见语料）
+> - "Well, I guess I'd sell my watch or computer or do some odd jobs till I could afford a return plane ticket." `[真题]`
+> - "To avoid self-deception, watch out for excuses and try this test: ask yourself how you would feel if your actions were public." `[真题]`
+> - "Tom made a list of potential problems that we should watch out for." `[真题]`
 
 
 ---

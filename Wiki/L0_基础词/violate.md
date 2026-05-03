@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**违反，违背**==（法律、规则、协议等）；②==**侵犯**==（隐私、权利、领土等）；③==**亵渎，打扰**==（神圣场所、宁静等）；
+**v.** ①==**违反，违背**== `\violate the law/rules` [正式]；`\violate an agreement` [正式]；②==**侵犯**== `\violate someone's privacy` [正式]；`\violate human rights` [正式]；③==**亵渎，打扰**== `\violate the peace` [文学]；
 
 > [!tip] 原型义
 > **原型义**：用力量冲破边界（以蛮力越过不应越过的线）
@@ -135,8 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It seems that the troops deliberately violated the ceasefire agreement."（那些军队似乎是故意违反停火协议——Cambridge English Dictionary）
-> - "The doctor has been accused of violating professional ethics."（那名医生被控违反了职业道德——Cambridge English Dictionary）
+> - "It seems that the troops deliberately violated the ceasefire agreement." `[权威语料]`
+> - "The doctor has been accused of violating professional ethics." `[权威语料]`
+> - "The laws also endanger women's health, and violate privacy rights and the Equal Protection clause of the constitution." `[权威语料]`
+> - "This speech may violate the law, rules a federal judge." `[权威语料]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**虚荣心，自负**==；②==**空虚，虚幻**==；③==**无价值的事物**==；④梳妆台（美式）；
+**n.** ①==**虚荣心，自负**== `hurt/wound one's vanity` `a vanity project`；②==**空虚，虚幻**== `the vanity of human wishes/ambition`；③==**无价值的事物**== `all is vanity` `[文学]`；④梳妆台（美式）；
 **adj.** 虚荣的，自负的；
 
 > [!tip] 原型义
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Vanity Fair is a novel that satirizes society in early 19th-century England."（《名利场》是一部讽刺19世纪早期英国社会的小说。——考研阅读背景知识）
-> - "The vanity of human wishes is a recurring theme in literature."（人类愿望的虚幻是文学中反复出现的主题。——红宝书考研词汇例句）
+> - "He wants the job purely for reasons of vanity and ambition." `[Cambridge]`
+> - "The new bridge was quickly condemned as a pointless vanity project, intended to enhance the reputation of the mayor." `[Cambridge]`
+> - "Clearly, ambition and vanity played a huge part." `[Collins]`
+> - "Vanity is her chief fault." `[Oxford]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv./conj.** ①==**无论在哪里，无论到哪里**==；②==**究竟在哪里**==（用于疑问句加强语气）；
+**adv./conj.** ①==**无论在哪里，无论到哪里**== `\`wherever you go\`` [通用] `\`wherever possible\`` [通用]；②==**究竟在哪里**== `\`wherever did you...?\`` [口语]（用于疑问句加强语气）；
 
 > [!tip] 原型义
 > **原型义**：无论什么地方
@@ -126,8 +126,9 @@ where（哪里/在……的地方）+ ever（曾经/永远）。where 源自古�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the age of globalization, cultural exchange happens wherever people interact, breaking down traditional barriers between nations and fostering mutual understanding."（在全球化时代，文化交流发生在人们互动的任何地方，打破国家间的传统壁垒，促进相互理解——考研阅读全球化话题相关表达）
-> - "Wherever scientists have looked for signs of extraterrestrial life, they have so far come up empty-handed, though the search continues with ever more sophisticated technology."（无论科学家在哪里寻找外星生命的迹象，迄今为止都一无所获，尽管搜索仍在以越来越先进的技术继续进行——考研阅读科技话题相关表达）
+> - We can go wherever you like. `[真题]`
+> - Wherever I go I always seem to bump into him. `[真题]`
+> - All across Europe, wherever you look, marriage is in decline and divorce rates are soaring. `[真题]`
 
 
 ---

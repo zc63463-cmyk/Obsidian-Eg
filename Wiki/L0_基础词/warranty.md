@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保修（期），保证书**==；②（商品质量的）保证，担保；③授权，根据；
+**n.** ①==**保修（期），保证书**== `under warranty; one-year warranty` [通用]；②（商品质量的）保证，担保 `manufacturer's warranty` [通用]；③授权，根据；
 
 > [!tip] 原型义
 > **原型义**：保证书/保修承诺（warrant 的名词衍生形式，强调书面保证）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The warranty covers the car mechanically for a year, with unlimited mileage."（保修在机械方面覆盖一年，不限里程。——考研翻译相关话题）
-> - "Is the laptop still under warranty?"（这台笔记本电脑还在保修期内吗？——考研阅读相关话题）
+> - The warranty covers the car mechanically for a year, with unlimited mileage. `[真题]`
+> - Toyota said it began investigating after receiving complaints from owners whose vehicles were no longer under warranty. `[真题]`
+> - The warranty was expired before I found out that the mobile wasn't working. `[真题]`
 
 
 ---

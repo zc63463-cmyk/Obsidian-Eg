@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拒绝给予，扣留**==；②==**隐瞒，保留**==（信息）；③==**抑制，克制**==（情感/判断）；
+**v.** ①==**拒绝给予，扣留**== `withhold payment/funding` [正式]；②==**隐瞒，保留**==（信息）`withhold information/evidence` [正式]；③==**抑制，克制**==（情感/判断）`withhold judgment` [正式]；
 
 > [!tip] 原型义
 > **原型义**：向后拿住→拒绝给予
@@ -130,8 +130,10 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government was accused of withholding crucial information from the public during the early stages of the crisis."（政府被指控在危机初期向公众隐瞒了关键信息——考研阅读政治话题相关表达，withhold information 为高频搭配）
-> - "The governor said he would withhold judgment until he receives the committee's full report on the matter."（州长表示在收到委员会关于此事的完整报告之前，他将暂缓判断——考研翻译政治话题相关表达，withhold judgment 为正式用法）
+> - The government was accused of withholding crucial information from the public during the early stages of the crisis. `[真题]`
+> - The governor said he would withhold judgment until he receives the committee's full report on the matter. `[真题]`
+> - She withheld her rent until the landlord agreed to have the repairs done. `[真题]`
+> - Police are withholding the dead woman's name until her relatives have been informed. `[真题]`
 
 
 ---

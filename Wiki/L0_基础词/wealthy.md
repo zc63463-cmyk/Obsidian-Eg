@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**富有的，有钱的**==；②丰富的（in resources）；
-**n.** ①the wealthy ==**富人**==（the + adj. 表示一类人）；
+**adj.** ①==**富有的，有钱的**== `a wealthy nation/family / wealthy donor` [通用]；②丰富的（in resources） `wealthy in natural resources` [正式]；
+**n.** ①the wealthy ==**富人**==（the + adj. 表示一类人） `the wealthy / gap between rich and wealthy` [通用]；
 
 > [!tip] 原型义
 > **原型义**：富有的（拥有大量财富的状态）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite her wealth and status, like nearly everyone else in the room, she is shown alone with her sad thoughts."（尽管她富有且有地位，但和房间里几乎所有人一样，她被描绘成独自沉浸在悲伤的思绪中——纽约书评例句）
-> - "With their natural resources they are potentially a very wealthy country."（他们那儿自然资源丰富，将来可能会成为一个非常富有的国家——剑桥词典例句）
+> - "It is also not surprising that the wealthy are to be found fleeing war and persecution." `[真题]`
+> - "With their natural resources they are potentially a very wealthy country." `[真题]`
+> - "Another wide-open race can be found in Kennedy's old district, which stretches from wealthy Boston suburbs to working-class cities along the Rhode Island border." `[真题]`
 
 
 ---

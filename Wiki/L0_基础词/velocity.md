@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**速度，速率**==；②高速，快速；③（经济）周转率；
+**n.** ①==**速度，速率**== `high velocity / the velocity of light` [科学]；②高速，快速 `reach maximum velocity / with velocity` [正式]；③（经济）周转率 `the velocity of money` [经济]；
 
 > [!tip] 原型义
 > **原型义**：速度（物体沿某一方向运动的快慢）
@@ -130,8 +130,10 @@ veloc(=swift/fast，快速，拉丁语 *velox*/*velocis*，与 [[veil]]/[[vehicl
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The spear was traveling with such velocity that it passed right through the fence."（长矛飞行的速度如此之快，直接穿过了栅栏。——剑桥英语语料库）
-> - "The acceleration of popular culture has reached maximum velocity."（流行文化的加速发展已经达到了最高速度。——柯林斯语料库）
+> - "The spear was traveling with such velocity that it passed right through the fence." `[权威语料]`
+> - "The acceleration of popular culture has reached maximum velocity." `[权威语料]`
+> - "Jupiter is a very massive planet, and its escape velocity is correspondingly high." `[权威语料]`
+> - "The average linear conduction velocity of delayed calcium responses was 10.7 m sec-1." `[学术语料]`
 
 
 ---

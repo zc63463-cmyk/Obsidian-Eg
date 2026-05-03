@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**警告，提醒**==；②告诫，通知；③预告（危险等）；
+**v.** ①==**警告，提醒**== `warn sb. of sth.; warn sb. not to do sth.` [通用]；②告诫，通知 `warn sb. against doing sth.; warn that...` [通用]；③预告（危险等）；
 
 > [!tip] 原型义
 > **原型义**：提醒某人注意危险（源自古英语 *warnian*，与"注意、留心"相关）
@@ -138,8 +138,9 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Feeling threatened, companies responded by writing ever-longer warning labels, trying to anticipate every possible accident."（感到受到威胁，公司通过撰写越来越长的警示标签来应对，试图预判每一种可能发生的事故。——1999年考研英语阅读 Text 1）
-> - "The Food Standards Authority (FSA) has issued a public warning about the risks of a compound called acrylamide that forms in some foods cooked at high temperatures."（食品标准局发布了关于某些高温烹饪食物中形成的丙烯酰胺化合物风险的公开警告。——2020年英语一完形）
+> - Feeling threatened, companies responded by writing ever-longer warning labels, trying to anticipate every possible accident. `[真题]`
+> - The Food Standards Authority has issued a public warning about the risks of a compound called acrylamide that forms in some foods cooked at high temperatures. `[真题]`
+> - Election officials have warned ministers that a postal strike could skew the election results in marginal seats. `[真题]`
 
 
 ---

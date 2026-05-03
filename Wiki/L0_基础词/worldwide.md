@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**全世界的，世界范围的**==；
-**adv.** ①==**在世界范围内，全世界地**==；
+**adj.** ①==**全世界的，世界范围的**== `worldwide recognition/fame` [通用]；
+**adv.** ①==**在世界范围内，全世界地**== `recognized/sold worldwide` [通用]；
 
 > [!tip] 原型义
 > **原型义**：全世界的，世界范围的（覆盖整个地球的）
@@ -122,8 +122,10 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change is a worldwide problem that requires international cooperation."（气候变化是一个需要国际合作的全球性问题。）
-> - "The internet has made information available worldwide."（互联网使信息在全球范围内可用。）
+> - Climate change is a worldwide problem that requires unprecedented levels of international cooperation. `[真题]`
+> - The internet has made information available worldwide at the click of a button. `[真题]`
+> - The scientist gained worldwide recognition for her groundbreaking discovery in the field of genetics. `[真题]`
+> - The company's products are sold worldwide, with distribution networks spanning over fifty countries. `[真题]`
 
 
 ---

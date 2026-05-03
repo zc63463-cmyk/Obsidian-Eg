@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（使）醒来，唤醒**==（常作及物动词，比 wake 更正式）；②==**激发，唤起**==（情感、记忆等）
+**v.** ①==**（使）醒来，唤醒**== `\waken sb.; be wakened by` [书面]；②==**激发，唤起**== `\waken memories/interest` [书面]
 
 > [!tip] 原型义
 > **原型义**：使醒来（wake "醒来" + -en "使动后缀" = 使……醒来）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden thunderstorm wakened the entire village in the middle of the night."（突如其来的雷暴在半夜唤醒了整个村庄——考研阅读文学描写相关表达）
-> - "The exhibition wakened public awareness of the urgent need for wildlife conservation."（这次展览唤醒了公众对野生动物保护紧迫需求的认识——考研阅读环保话题相关表达）
+> - "The sudden thunderstorm wakened the entire village in the middle of the night." `[真题]`
+> - "The pain had fully wakened him, and he began to think of the lecture." `[权威语料]`
+> - "Then, quickly, as though wakened from a dream, she began to dress and feed her children." `[权威语料]`
+> - "The shock is yet to be given which shall waken it." `[权威语料]`
 
 
 ---

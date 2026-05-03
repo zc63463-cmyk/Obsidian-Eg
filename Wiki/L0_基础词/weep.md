@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**哭泣，流泪**==；②渗出，滴落；
+**v.** ①==**哭泣，流泪**== `weep for/over sb/sth` [文学/正式]；②渗出，滴落 `a weeping wound` [文学/书面]；
 **n.** ①哭泣；（常用于固定搭配）
 
 > [!tip] 原型义
@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She wept bitterly when she heard the news."（她听到这个消息时痛哭流涕）
+> - She wept bitterly when she heard the news. `[真题]`
+> - He wept in front of me. `[真题]`
+> - Our hearts have been left with ragged, weeping wounds. `[真题]`
 
 
 ---

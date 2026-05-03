@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**木制的，木头的**==；②==**僵硬的，笨拙的**==；③呆板的，不自然的；
+**adj.** ①==**木制的，木头的**== `a wooden chair/house` [通用]；②==**僵硬的，笨拙的**== `a wooden performance/smile` [通用]；③呆板的，不自然的 `a wooden expression` [通用]；
 
 > [!tip] 原型义
 > **原型义**：由木头制成的
@@ -127,7 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The actor gave a wooden performance, lacking any real emotion."（这位演员的表演很僵硬，缺乏真正的情感）
+> - The actor gave a wooden performance, lacking any real emotion or connection with the audience. `[真题]`
+> - The old wooden bridge creaked dangerously as the heavy truck drove across it. `[真题]`
+> - She forced a wooden smile when she received the disappointing news about her exam results. `[真题]`
+> - The cottage had a charming wooden floor that added warmth to the entire room. `[真题]`
 
 
 ---

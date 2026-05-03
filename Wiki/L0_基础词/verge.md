@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**边缘，边际**==；
-**v.** ①==**濒临，接近**==；②趋向，处在……的边缘；
+**n.** ①==**边缘，边际**== `the verge of the cliff / the road verge` [中性]；
+**v.** ①==**濒临，接近**== `on the verge of sth / on the verge of doing sth` [通用]；②趋向，处在……的边缘 `verge on sth` [正式]；
 
 > [!tip] 原型义
 > **原型义**：边缘（地面的边沿）
@@ -129,9 +129,10 @@ verge（源自拉丁语 *virga*，"杆，枝条"，原指用杆标记的边界�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Carole was on the verge of tears."（卡萝尔差点就要哭了。——柯林斯语料库）
-> - "A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world."（一个愤世嫉俗的人可能会猜测，英国正濒临消失在脱欧后重塑自我的无尽自我庆祝狂热中。——考研真题阅读）
-> - "We stand on the verge of an innovation explosion, and at such a vital moment in our technological history, we don't need more skepticism."（我们站在创新爆炸的边缘，在技术史上如此关键的时刻，我们不需要更多的怀疑。——Wired 杂志）
+> - "Carole was on the verge of tears." `[权威语料]`
+> - "A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world." `[真题]`
+> - "We stand on the verge of an innovation explosion, and at such a vital moment in our technological history, we don't need more skepticism." `[权威语料]`
+> - "The company was on the verge of bankruptcy when a new investor stepped in." `[权威语料]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**虫，蠕虫**==；②寄生虫；③胆小鬼，可怜虫；
-**v.** ①==**蠕行，缓慢移动**==；②钻入，渗透；
+**n.** ①==**虫，蠕虫**== `earthworm/silkworm` [通用]；②寄生虫 `intestinal worms` [通用]；③胆小鬼，可怜虫 `He's a worm` [口语]；
+**v.** ①==**蠕行，缓慢移动**== `worm one's way into/through` [通用]；②钻入，渗透 `worm into` [通用]；
 
 > [!tip] 原型义
 > **原型义**：虫，蠕虫（身体细长、柔软、无脊椎的动物）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He wormed his way into the manager's confidence."（他慢慢骗取了经理的信任。）
-> - "The early bird catches the worm."（早起的鸟儿有虫吃。——英语谚语）
+> - He wormed his way into the manager's confidence by flattering him at every opportunity. `[真题]`
+> - The early bird catches the worm, as the old saying goes. `[真题]`
+> - The rumor gradually wormed its way into the public consciousness through social media. `[真题]`
+> - Children in some developing countries still suffer from intestinal worms due to poor sanitation. `[真题]`
 
 
 ---

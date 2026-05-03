@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**天鹅绒，丝绒**==；
-**adj.** ①天鹅绒般的，柔软光滑的；
+**n.** ①==**天鹅绒，丝绒**== `black velvet / a velvet coat` [中性]；
+**adj.** ①天鹅绒般的，柔软光滑的 `velvet skin / velvet touch` [文学]；
 
 > [!tip] 原型义
 > **原型义**：天鹅绒（表面覆盖细密绒毛的织物）
@@ -133,8 +133,10 @@ velv(=velvet，天鹅绒，源自拉丁语 *villosus*，"有绒毛的"，与 [[v
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was clad in blue velvet."（她身着蓝色的天鹅绒服装。——柯林斯语料库）
-> - "Velvet as a fabric is not known for its versatility."（天鹅绒作为一种织物并非以其用途广泛而闻名。——柯林斯语料库）
+> - "She was clad in blue velvet." `[权威语料]`
+> - "Velvet as a fabric is not known for its versatility." `[权威语料]`
+> - "Despite the velvet glove language, it would be difficult to find a more direct and straightforward indictment of regional policy." `[权威语料]`
+> - "Czechoslovakia's velvet divorce probably serves as the best example in postwar Europe of a relatively smooth parting of the ways." `[权威语料]`
 
 
 ---

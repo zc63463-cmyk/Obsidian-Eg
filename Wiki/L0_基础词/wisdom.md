@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**智慧，明智**==；②==**明智的言行**==；③==**知识，学问**==（古义）；
+**n.** ①==**智慧，明智**== `great wisdom` [通用]；②==**明智的言行**== `words of wisdom` [书面]；③==**知识，学问**==（古义）`the collected wisdom` [书面]；
 
 > [!tip] 原型义
 > **原型义**：看见→知道→智慧的结晶
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Conventional wisdom has it that aggressive cost-cutting is the most effective way to rescue a declining business."（传统观点认为，大幅削减成本是拯救衰退企业的最有效方式——考研阅读商业话题高频表达，conventional wisdom 为核心搭配）
-> - "All human wisdom is summed up in these two words: 'Wait and Hope.'"（人类的全部智慧就包含在这两个字里面："等待"和"希望"——考研翻译名言引用类表达）
+> - Conventional wisdom has it that aggressive cost-cutting is the most effective way to rescue a declining business. `[真题]`
+> - Before I went off to university, my father gave me a few words of wisdom that I still carry with me today. `[真题]`
+> - Local people are questioning the wisdom of spending so much money on a new road that few people will use. `[真题]`
+> - He had the wisdom to stop before he said too much and made the situation worse. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**植被，植物**==（统称）==；②==**草木**==（某地区的植物总称）==；③（引申）赘生，不必要的东西；
+**n.** ①==**植被，植物**== `dense/lush vegetation` `natural vegetation`（统称）；②==**草木**== `destroy the vegetation`（某地区的植物总称）；③（引申）赘生，不必要的东西 `[医学]`；
 **adj.** 植物的；
 
 > [!tip] 原型义
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The dense vegetation along the riverbank provides a habitat for many species."（河岸茂密的植被为许多物种提供了栖息地。——考研阅读生态类）
-> - "Deforestation has led to the loss of natural vegetation in the region."（森林砍伐导致该地区天然植被的丧失。——红宝书考研词汇例句）
+> - "The risk of infection can be substantially reduced by avoiding habitats with high tick density, such as wooded areas with luxuriant undergrowth and dense vegetation." `[Cambridge]`
+> - "As we drove towards the desert, the vegetation became sparse." `[Oxford]`
+> - "Removal of the natural vegetation has resulted in a loss of nutrients in the soil." `[Oxford]`
+> - "Most parts of the alluvial plain are cultivated and covered by dense vegetation." `[Cambridge]`
 
 
 ---

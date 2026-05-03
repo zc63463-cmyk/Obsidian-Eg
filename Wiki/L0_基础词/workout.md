@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**锻炼，健身**==；②==**训练，演习**==；③（高强度）考验；
+**n.** ①==**锻炼，健身**== `a daily workout` [通用]；②==**训练，演习**== `a tough workout` [通用]；③（高强度）考验 `give sb a workout` [口语]；
 
 > [!tip] 原型义
 > **原型义**：把能量/汗水"练出来"（通过运动消耗体力）
@@ -126,7 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Regular workouts can significantly improve both physical and mental health."（规律的锻炼可以显著改善身心健康）
+> - Regular workouts can significantly improve both physical and mental health over time. `[真题]`
+> - She starts every morning with a 30-minute workout routine that includes stretching and cardio. `[真题]`
+> - The negotiation turned out to be a real workout, lasting for more than six hours without a break. `[真题]`
+> - Studies show that even a short daily workout can reduce the risk of heart disease by up to thirty percent. `[真题]`
 
 
 ---

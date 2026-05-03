@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**衣柜，衣橱**==；②（某人的）全部服装；③（剧院等的）服装部；
+**n.** ①==**衣柜，衣橱**== `\hang in the wardrobe` [通用]；`\built-in wardrobe` [通用]；②==**（某人的）全部服装**== `\a new summer wardrobe` [通用]；③==**（剧院等的）服装部**== `\wardrobe department` [正式]；
 
 > [!tip] 原型义
 > **原型义**：看管衣服的地方（衣柜）
@@ -133,8 +133,10 @@ ward(看管，守卫) + robe(衣服，长袍)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He hung his suit in the wardrobe."（他把西装挂进衣柜里。——剑桥词典例句）
-> - "I need a new summer wardrobe."（我需要新的夏季服装。——剑桥词典例句）
+> - "He hung his suit in the wardrobe." `[权威语料]`
+> - "I need a new summer wardrobe." `[权威语料]`
+> - "She opened the wardrobe and took out a dark blue dress." `[权威语料]`
+> - "The bedroom has fitted wardrobes along one wall." `[权威语料]`
 
 
 ---

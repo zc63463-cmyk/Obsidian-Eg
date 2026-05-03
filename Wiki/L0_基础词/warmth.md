@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**温暖，暖和**==；②热情，温情的感受；③热烈，激情；
+**n.** ①==**温暖，暖和**== `the warmth of the sun; huddle together for warmth` [通用]；②热情，温情的感受 `the warmth of their welcome` [通用]；③热烈，激情；
 
 > [!tip] 原型义
 > **原型义**：温暖的状态/感受（身体感受到的温度舒适感）
@@ -136,8 +136,9 @@ warm(温暖的) + -th(名词后缀，表状态/性质，源自古英语 *-þu*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Like fireplaces, they induce a sense of comfort and warmth."（像壁炉一样，它们唤起一种舒适和温暖的感觉。——考研阅读相关话题）
-> - "It gave him a feeling of warmth and made him feel that they were home at last."（这给了他一种温暖的感觉，让他觉得他们终于到家了。——考研完形相关话题）
+> - Like fireplaces, they induce a sense of comfort and warmth. `[真题]`
+> - It gave him a feeling of warmth and made him feel that they were home at last. `[真题]`
+> - She was struck by the warmth of their welcome and the genuine kindness in their eyes. `[真题]`
 
 
 ---

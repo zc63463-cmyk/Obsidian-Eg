@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**假期，休假**==；②==**（大学的）长假**==（尤指英美大学的寒暑假）；
-**v.** ③==**度假**==（美式英语常用）
+**n.** ①==**假期，休假**== `on vacation` `take a vacation`；②==**（大学的）长假**== `the long vacation`（尤指英美大学的寒暑假）；
+**v.** ③==**度假**== `vacation in N` `[美式]`
 
 > [!tip] 原型义
 > **原型义**：空出来的时间（拉丁语 vacatio "免除服务、工作休息"，来自 vacare "空闲"）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many Americans cannot afford to take a vacation because of the rising cost of living and stagnant wages."（由于生活成本上升和工资停滞，许多美国人负担不起度假费用——考研阅读社会话题相关表达）
-> - "The university's long vacation provides students with an opportunity to pursue internships or research projects."（大学的长假为学生提供了实习或参与研究项目的机会——考研阅读教育话题相关表达）
+> - "My wife and I were on vacation in California." `[COCA-SPOKEN]`
+> - "Workers are entitled to five weeks of paid vacation each year." `[COCA-NEWS]`
+> - "She said that she plans to take a long vacation before deciding where she will work next." `[COCA-MAG]`
+> - "The year is divided into two sessions or terms separated by the winter vacation." `[COCA-ACAD]`
 
 
 ---
