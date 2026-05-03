@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**损失，丧失**==；②==**亏损**==（商业）；③减少，降低；④失败，输；
+**n.** ①==**损失，丧失**== `the loss of sth.` / `suffer a loss`；②==**亏损**== `make/take a loss`（商业）；③减少，降低；④失败，输；
 
 > [!tip] 原型义
 > **原型义**：失去的状态或结果（[[lose]] 的名词形式）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This alone demonstrates that the television business is not an easy world to survive in, a fact underlined by statistics that show that out of 80 European television networks, no less than 50 took a loss in 1989."（仅此一点就表明电视行业不是一个容易生存的世界，统计数据也证实了这一点：1989年，80家欧洲电视网络中，不少于50家出现了亏损。——2005年考研英语一翻译）
-> - "The things that bring the greatest joy carry the greatest potential for loss and disappointment."（带来最大快乐的事物也暗含着最大的损失和失望的可能。——考研英语阅读）
+> - `This alone demonstrates that the television business is not an easy world to survive in, a fact underlined by statistics that show that out of 80 European television networks, no less than 50 took a loss in 1989.` `[真题]`
+> - `The things that bring the greatest joy carry the greatest potential for loss and disappointment.` `[真题]`
+> - `The company's losses for the year were higher than expected.` `[COCA-ACAD]`
+> - `Her damages claim includes loss of earnings up to the normal retirement age.` `[COCA-NEWS]`
 
 ---
 

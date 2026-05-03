@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（长途）旅行，旅程**==；
-**vi.** ①==**旅行**==；
+**n.** ①==**（长途）旅行，旅程**== `a journey from N to N` `a journey of N`；
+**vi.** ①==**旅行**== `journey through/across N`；
 
 > [!tip] 原型义
 > **原型义**：一日行程（journ = 日，-ey = 名词后缀）
@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Life is a journey, not a destination."（人生是一段旅程，而非终点）——经典名言
-> - "The journey from London to Paris takes about two hours by train."（从伦敦到巴黎的旅程坐火车大约需要两小时）——日常表达
-> - "She embarked on a journey of self-discovery after graduating."（毕业后她踏上了一段自我发现之旅）——文学/个人话题
-> - "The long journey across the desert tested their endurance."（穿越沙漠的长途旅行考验了他们的耐力）——冒险/旅行话题
+> - "It's a two-hour train journey from York to London." `[COCA-ACAD]`
+> - "The correspondent, as observer, occupies a mediating position in these reports, inviting the reader to join him in his journey of discovery." `[COCA-ACAD]`
+> - "There is clearly a long journey ahead, but this book shows the way." `[COCA-ACAD]`
+> - "In addition to the cost of the tolls, people have to make a lengthy journey to access health care, especially cancer treatment." `[COCA-ACAD]`
 
 ---
 

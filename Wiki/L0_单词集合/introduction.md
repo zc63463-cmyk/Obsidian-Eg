@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**介绍，引见**==；②==**引进，传入**==；③==**引言，导论**==；④入门（书）；
+**n.** ①==**介绍，引见**== `a letter of introduction` `make introductions`；②==**引进，传入**== `the introduction of N` `the introduction of N into/to N`；③==**引言，导论**== `an introduction to N` `the introduction to a book`；④入门（书）；
 
 > [!tip] 原型义
 > **原型义**：带入内部的行为或结果（把某人或某事物引导进入一个新环境的过程或产物）
@@ -129,9 +129,10 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The introduction of new technology has transformed the way we work and communicate."（新技术的引进改变了我们工作和交流的方式。）——考研高频表达
-> - "The introduction to this book provides a useful overview of the subject."（本书的导论对该学科提供了有用的概述。）——考研高频表达
-> - "The introduction of the euro was a landmark in European economic history."（欧元的引入是欧洲经济史上的一个里程碑。）——考研高频表达
+> - "The introduction of new working practices has dramatically improved productivity." `[COCA-ACAD]`
+> - "The introduction sets out the background and methodology of the research and repeats some of the important caveats about qualitative attitude research." `[COCA-ACAD]`
+> - "The introduction of the euro was a landmark in European economic history." `[COCA-ACAD]`
+> - "This book provides a comprehensive introduction to his writings." `[COCA-ACAD]`
 
 ---
 

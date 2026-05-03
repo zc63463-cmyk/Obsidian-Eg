@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**维持，保养**==（设备、建筑等的维护）；②==**抚养费，赡养费**==（法律用语）；
+**n.** ①==**维持，保养**== `routine / car maintenance`（设备、建筑等的维护）；②==**抚养费，赡养费**== `child / spousal maintenance`（法律用语）；
 
 > [!tip] 原型义
 > **原型义**：维持的行为（[[maintain]] + -ance（名词后缀，表示行为/状态）→ 维持的行为→保养）
@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Regular maintenance can extend the life of your car."（定期保养可以延长汽车的使用寿命）——生活/说明语境
-> - "The building is currently under maintenance."（这栋建筑目前正在维修中）——常见表达
-> - "He was ordered to pay child maintenance of $500 a month."（他被判每月支付 500 美元子女抚养费）——法律语境
-> - "The cost of maintenance has risen significantly over the past decade."（过去十年间保养成本大幅上升）——经济/社会语境
+> - `The network will be down for an hour for routine maintenance.` `[COCA-ACAD]`
+> - `The new ships, propelled by gas turbines, require less maintenance than older, steam-driven ones.` `[COCA-ACAD]`
+> - `The magazine offers tips on cutting your house maintenance costs.` `[COCA-NEWS]`
+> - `There are thorough maintenance checks on each plane before takeoff.` `[COCA-NEWS]`
 
 ---
 

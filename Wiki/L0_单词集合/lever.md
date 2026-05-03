@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**杠杆，撬杆**==；②==**手段，途径**==；
-**v.** ①==**撬动，搬动**==；②==**利用……来达到目的**==；
+**n.** ①==**杠杆，撬杆**== `pull/push the lever(s); lever sth. open`；②==**手段，途径**== `use sth. as a lever; political lever`；
+**v.** ①==**撬动，搬动**== `lever sth. open/off`；②==**利用……来达到目的**== `lever sth. to do sth.`；
 
 > [!tip] 原型义
 > **原型义**：用来撬起重物的杆（以支点为轴，用较小的力撬动较大的物体）
@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "pull the levers of power"（操纵权力杠杆）——政治类阅读，描述权力运作
-> - "use trade policy as a lever"（把贸易政策作为杠杆）——经济类阅读
-> - "lever the lid off the box"（撬开箱盖）——日常操作语境
+> - "The most obvious policy lever suggested by this study for increasing the access of the poor to more remunerative wage labour is rural formal education." `[COCA-ACAD]`
+> - "Something she could use as a lever against him; something he would really care about." `[COCA-FIC]`
+> - "The hand brake is usually applied by a lever at the side of the driver's seat." `[COCA-ACAD]`
 
 ---
 

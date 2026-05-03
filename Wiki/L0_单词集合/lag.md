@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**落后，滞后**==；②==**拖延**==；
-**n.** ①==**滞后，时间差**==；
+**vi.** ①==**落后，滞后**== `lag behind sb./sth.`；②==**拖延**== `lag in doing sth.`；
+**n.** ①==**滞后，时间差**== `a time lag between A and B`；
 
 > [!tip] 原型义
 > **原型义**：掉队→落后（可能来自 lag "落后，掉队"，与"走得慢、落在后面"相关）
@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some countries lag behind in technological development."（一些国家在技术发展上落后）——考研常见表达
-> - "There is a time lag between the cause and the effect."（原因和结果之间存在时间差）——学术语境
-> - "I'm still suffering from jet lag after the flight from Beijing to New York."（从北京飞到纽约后我仍在受时差困扰）——生活语境
-> - "The company has been lagging behind its competitors in innovation."（公司在创新方面一直落后于竞争对手）——商业语境
+> - "Catering salaries lag far behind those of other sectors." `[COCA-ACAD]`
+> - "She did well in her first year at school but then started to lag behind." `[COCA]`
+> - "Our notions of nationality tend to lag behind the realities of a changing world." `[COCA]`
+> - "Test scores for the poorest children continue to lag far behind those of the middle class." `[COCA]`
 
 ---
 

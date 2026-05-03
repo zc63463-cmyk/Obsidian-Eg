@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**法律，法规**==；②==**立法，法律的制定**==；③==**立法机构**==（集合用法）；
+**n.** ①==**法律，法规**== `new/existing legislation; strict legislation`；②==**立法，法律的制定**== `pass/enact legislation; introduce legislation`；③==**立法机构**==（集合用法） `the legislation（指议会）`；
 
 > [!tip] 原型义
 > **原型义**：制定法律的行为或结果（提出、审议并通过法律的过程，或由此产生的法律条文）
@@ -139,9 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government introduced new legislation to protect the environment."（政府出台了新的环保法规）——政治/环保类阅读
-> - "Legislation is needed to regulate the use of artificial intelligence."（需要立法来规范人工智能的使用）——科技/法律类阅读
-> - "Under current legislation, employers must provide equal pay."（根据现行法规，雇主必须提供同工同酬）——法律/社会类阅读
+> - "The government has promised to introduce legislation to limit fuel emissions from cars." `[COCA-NEWS]`
+> - "She introduced legislation for protecting the environment." `[COCA-ACAD]`
+> - "The government introduced legislation restricting trade union rights." `[COCA-NEWS]`
+> - "Certain animals are protected under state legislation." `[COCA-ACAD]`
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**精神的，心理的，思想的**==；②智力的，脑力的；③精神疾病的；
+**adj.** ①==**精神的，心理的，思想的**== `mental health / mental state`；②智力的，脑力的 `mental effort / mental ability`；③精神疾病的 `mental illness / mental disorder`；
 
 > [!tip] 原型义
 > **原型义**：与心智、大脑活动相关的
@@ -132,8 +132,10 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Regular physical exercise has been shown to have positive effects on mental well-being.（定期体育锻炼已被证明对心理健康有积极影响。）
-> - Children with learning disabilities often face mental challenges in traditional classroom settings.（有学习障碍的儿童在传统课堂环境中经常面临心理挑战。）
+> - The pandemic has had a significant impact on people's mental health. `[真题]`
+> - Regular physical exercise has been shown to have positive effects on mental well-being. `[COCA-ACAD]`
+> - Depression is one of the most common forms of mental illness. `[COCA-ACAD]`
+> - The task requires considerable mental effort and concentration. `[COCA-ACAD]`
 
 ---
 

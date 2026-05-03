@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**介绍，引见**==；②==**引进，引入**==；③==**提出，推行**==；④作为...的开头；
+**vt.** ①==**介绍，引见**== `introduce A to B` `introduce oneself`；②==**引进，引入**== `introduce N into/to N` `introduce a policy/system/bill`；③==**提出，推行**== `introduce a bill/topic` `introduce legislation`；④作为...的开头；
 
 > [!tip] 原型义
 > **原型义**：把某物带入内部（将某人或某物从一个外部位置引导进入一个新环境）
@@ -131,9 +131,10 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case."（正是联邦巡回法院自己在1998年所谓的美国道富银行案判决中引入了此类专利。）——2010考研英语阅读Text2
-> - "The government has introduced a series of measures to stimulate economic growth."（政府已出台一系列措施以刺激经济增长。）——考研高频表达
-> - "The author introduces a new perspective on the relationship between language and thought."（作者对语言与思维之间的关系提出了新的视角。）——考研高频表达
+> - "It was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case." `[真题]`
+> - "Each year, the federal government introduces preventive programs and policies that may work." `[COCA-ACAD]`
+> - "The government has introduced a series of measures to stimulate economic growth." `[COCA-ACAD]`
+> - "He plans to introduce legislation that would set minimum standards for corporate disclosure in the US." `[COCA-ACAD]`
 
 ---
 

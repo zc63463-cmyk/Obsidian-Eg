@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**投资**==；②==**投入（时间、精力等）**==；③==**授予，赋予**==；
-**vi.** ①==**投资**==；②==**买入**==；
+**vt.** ①==**投资**== `invest in N` `invest N in N`；②==**投入（时间、精力等）**== `invest time/energy in N` `invest N in doing`；③==**授予，赋予**== `invest sb. with sth.` `invested with authority`；
+**vi.** ①==**投资**== `invest in N` `invest heavily in N`；②==**买入**==；
 
 > [!tip] 原型义
 > **原型义**：把资源投入其中（将金钱、时间、精力等资源放入某事物中，期望获得回报）
@@ -131,8 +131,10 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research."（要求公司实现高季度利润的短期投资者可能会阻碍公司投资长期研究的努力。）——考研真题阅读
-> - "She invested all her savings in the stock market, hoping for high returns."（她把所有积蓄都投资于股市，期望获得高回报。）——考研高频表达
+> - "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research." `[真题]`
+> - "Oliver made a fortune by investing in antique furniture." `[COCA-ACAD]`
+> - "We must really continue to invest in our universities." `[COCA-ACAD]`
+> - "The constitution had invested him with certain powers." `[COCA-ACAD]`
 
 ---
 

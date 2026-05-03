@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**合乎逻辑的**== ; ②==**合理的**== ; ③==**逻辑学的**==
+**adj.** ①==**合乎逻辑的**== `a logical argument / logical reasoning` ; ②==**合理的**== `a logical conclusion / a logical choice` ; ③==**逻辑学的**== `logical analysis`
 
 > [!tip] 原型义
 > **原型义**：合乎逻辑的（in accordance with logic）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students need the ability to construct a logical argument."（学生需要具备逻辑论证的能力。）——考研高频表达
-> - "It was the logical thing to do when all the facts were considered."（当考虑所有事实后，这样做才是合乎逻辑的。）——考研高频表达
+> - Students need the ability to construct a logical argument supported by evidence and reasoning. `[COCA-ACAD]`
+> - It was the logical thing to do when all the facts were considered carefully. `[COCA-ACAD]`
+> - Since she helped us before, it is logical to assume that she will help us again. `[COCA-NEWS]`
+> - There is no logical reason for teaching boys and girls separately in this day and age. `[COCA-ACAD]`
 
 ---
 

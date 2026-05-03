@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**多数，大多数**==（the majority of...）；②==**多数票**==（选举中）；③==**法定成年年龄**==（法律用语）；
+**n.** ①==**多数，大多数**== `the majority of...` `a vast majority of...`；②==**多数票**== `win by a majority` `a narrow majority`；③==**法定成年年龄**== `reach the age of majority` `come of age`；
 
 > [!tip] 原型义
 > **原型义**：较大的部分（[[major]]（较大的）+ -ity（名词后缀，表示性质/状态）→ 较大的部分→多数）
@@ -136,10 +136,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The vast majority of people support the new policy."（绝大多数人支持这项新政策）——高频句型
-> - "The party won by a narrow majority."（该党以微弱多数获胜）——政治语境
-> - "A majority of students prefer online learning."（大多数学生更喜欢在线学习）——教育语境
-> - "Women are in the majority in this profession."（在这个职业中女性占多数）——社会话题
+> - The vast majority of people support the new policy. `[COCA-ACAD]`
+> - The party won by a narrow majority. `[COCA-NEWS]`
+> - A majority of students prefer online learning. `[例]`
+> - The majority of young professionals in the capital have moved there from provincial towns. `[COCA-ACAD]`
+> - Relevant legislation can in any case be passed by a qualified majority. `[COCA-ACAD]`
 
 ---
 

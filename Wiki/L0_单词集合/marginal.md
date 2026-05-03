@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**边缘的，边际的**==；②==**微小的，少量的**==；③==**不重要的，次要的**==；④==**仅以微弱多数获胜的**==；⑤==**页边的（注释等）**==；
+**adj.** ①==**边缘的，边际的**== `marginal land` `marginal groups`；②==**微小的，少量的**== `marginal improvement` `marginal increase`；③==**不重要的，次要的**== `of marginal importance` `of marginal interest`；④==**仅以微弱多数获胜的**== `marginal seat` `marginal constituency`；⑤==**页边的（注释等）**== `marginal notes`；
 
 > [!tip] 原型义
 > **原型义**：位于边缘的，写在页边空白处的（处于正文核心区域之外的位置）
@@ -137,10 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "marginal cost and marginal benefit"（边际成本与边际效益）——考研阅读经济类话题，经济学核心概念
-> - "only a marginal improvement in living standards"（生活水平的微小改善）——社会/经济类阅读
-> - "marginal groups in society"（社会边缘群体）——社会学/政治类阅读
-> - "a marginal seat in the election"（选举中的边缘选区）——政治类阅读
+> - Grids using even larger voltages are now being constructed, but will probably make only a `marginal` improvement in costs. `[COCA-ACAD]`
+> - The `marginal` cost of oil production in many Persian Gulf states is roughly $20 per barrel. `[COCA-ACAD]`
+> - Thus, `marginal` cost pricing preserves efficiency in the irrigation sector. `[COCA-ACAD]`
+> - The report suggests there has been only a `marginal` improvement in living standards. `[真题]`
 
 ---
 

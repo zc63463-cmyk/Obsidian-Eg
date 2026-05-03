@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**找到……的位置**== ; ②==**把……设置在，使坐落于**==（被动 be located in）
+**v.** ①==**找到……的位置**== `locate sth. / locate a source` ; ②==**把……设置在，使坐落于**== `be located in/on`
 
 > [!tip] 原型义
 > **原型义**：找到……的位置
@@ -122,8 +122,10 @@ loc(地方/地点) + -ate(动词后缀，使……)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors."（考古学家也可以使用诸如地面雷达、磁场纪录和金属探测器等技术来定位被埋藏的遗址。）——2014年新题型Part B
-> - "The company decided to locate its new headquarters in Shanghai."（公司决定将新总部设在上海。）——考研高频表达
+> - Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors. `[真题]`
+> - The company decided to locate its new headquarters in a city with better access to international markets. `[COCA-ACAD]`
+> - Investigators are still trying to locate the source of the contamination that affected the water supply. `[COCA-NEWS]`
+> - The new campus is located in the suburbs, approximately twenty miles from the city center. `[COCA-ACAD]`
 ---
 
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**可能性**==；②==**可能的事**==（常用于 in all likelihood 结构）；
+**n.** ①==**可能性**== `the likelihood of sth./doing sth.`；②==**可能的事**== `in all likelihood`（常用于 in all likelihood 结构）；
 
 > [!tip] 原型义
 > **原型义**：像真的那种状态（事物看起来像真的的程度，即"可能性"）
@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a growing likelihood that artificial intelligence will transform the job market."（考研英语——人工智能将改变就业市场的可能性越来越大）
-> - "In all likelihood, the company will face increased competition in the coming years."（考研英语——十有八九，这家公司将面临日益激烈的竞争）
-> - "Education can significantly increase the likelihood of upward social mobility."（考研英语——教育能显著增加向上社会流动的可能性）
+> - "We know that distractions while driving affect the likelihood of being in an accident." `[COCA-ACAD]`
+> - "There is every likelihood that more jobs will be lost later this year." `[COCA-NEWS]`
+> - "In all likelihood, the company will face increased competition in the coming years." `[例]`
 
 ---
 

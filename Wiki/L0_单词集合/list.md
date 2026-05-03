@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**列表，清单，目录**==；②名单，一览表；
-**v.** ①==**列出，列入清单**==；②登记，注册；
+**n.** ①==**列表，清单，目录**== `make a list`；②名单，一览表 `a list of sth.`；
+**v.** ①==**列出，列入清单**== `list sth.`；②登记，注册 `be listed as`；
 
 > [!tip] 原型义
 > **原型义**：将事物一条一条排列出来形成的清单
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The research team compiled a comprehensive list of factors contributing to the decline in biodiversity.（研究团队编制了一份导致生物多样性下降的因素综合清单。）
-> - The book is listed among the top ten bestsellers of the year.（这本书被列入年度十大畅销书名单。）
+> - "I've made a list of places I'd like to visit while we're in Paris." `[COCA-ACAD]`
+> - "The government will publish a list setting out which vehicles should be covered by the specialist policies." `[COCA-NEWS]`
+> - "The book is listed among the top ten bestsellers of the year." `[例]`
 
 ---
 

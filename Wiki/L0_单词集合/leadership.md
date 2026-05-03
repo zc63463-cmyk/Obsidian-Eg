@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**领导力，领导才能**==；②==**领导地位，领导层**==；③==**领导，领导工作**==；
+**n.** ①==**领导力，领导才能**== `leadership skills/style`；②==**领导地位，领导层**== `under the leadership of...`；③==**领导，领导工作**== `provide leadership`；
 
 > [!tip] 原型义
 > **原型义**：引导他人的能力或地位（在社会组织中走在前面、为他人指明方向的能力或所处的位置）
@@ -138,9 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Good leadership is essential for the success of any organization."（良好的领导力对任何组织的成功都至关重要）——管理类阅读
-> - "Under her leadership, the company grew rapidly."（在她的领导下，公司迅速发展）——商业类阅读
-> - "The research highlights the importance of leadership in education."（这项研究强调了领导力在教育中的重要性）——教育类阅读
+> - "Good leadership is essential for the success of any organization." `[COCA-ACAD]`
+> - "Under her leadership, the company grew rapidly." `[COCA]`
+> - "The research highlights the importance of leadership in education." `[COCA-ACAD]`
+> - "Our research identified several clear priorities that lead to better performance." `[COCA-ACAD]`
 
 ---
 

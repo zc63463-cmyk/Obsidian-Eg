@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可能的，有希望的**==；②==**合适的，恰当的**==（人）；
-**adv.** ①==**可能地，大概**==；
+**adj.** ①==**可能的，有希望的**== `be likely to do sth.` / `it is likely that...`；②==**合适的，恰当的**== `a likely candidate`（人）；
+**adv.** ①==**可能地，大概**== `most/very likely`；
 
 > [!tip] 原型义
 > **原型义**：与事实相似的（看起来像真的，有成为事实的倾向）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is likely that the government will introduce new regulations on data privacy."（考研英语——政府很可能出台新的数据隐私法规）
-> - "Students who engage in regular review are more likely to retain information."（考研英语——定期复习的学生更有可能记住信息）
-> - "The likely consequence of this policy is a significant reduction in emissions."（考研英语——这项政策可能的结果是大幅减少排放）
+> - "Adolescents who watched more than two hours of TV a day were much more likely to be overweight." `[COCA-ACAD]`
+> - "Profit will most likely have risen by about twenty-five million pounds." `[COCA-NEWS]`
+> - "At one point he had seemed a likely candidate to become Prime Minister." `[COCA-NEWS]`
 
 ---
 

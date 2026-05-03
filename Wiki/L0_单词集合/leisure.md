@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**空闲时间，闲暇**==；②==**悠闲，安逸**==；
-**adj.** ①==**空闲的，有闲的**==；
+**n.** ①==**空闲时间，闲暇**== `leisure time; at one's leisure`；②==**悠闲，安逸**== `a life of leisure`；
+**adj.** ①==**空闲的，有闲的**== `leisure activities; leisure industry`；
 
 > [!tip] 原型义
 > **原型义**：被允许自由支配的时间（从工作中解放后可按自己意愿使用的时段）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the balance between work and leisure"（工作与休闲的平衡）——考研阅读常见话题，涉及生活方式讨论
-> - "at your leisure"（在你方便的时候）——正式信函/商务英语常见表达
-> - "leisure activities have become an important part of modern life"（休闲活动已成为现代生活的重要组成部分）——社会文化类阅读
+> - "Most people now enjoy shorter working hours and more leisure time." `[COCA-ACAD]`
+> - "What we do in our leisure hours determines what we are." `[COCA-ACAD]`
+> - "Hugely wealthy, he enjoyed a life of leisure." `[COCA-ACAD]`
+> - "The leisure industry is booming." `[COCA-NEWS]`
 
 ---
 

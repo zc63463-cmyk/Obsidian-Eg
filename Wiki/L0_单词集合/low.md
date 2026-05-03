@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**低的，矮的**==；②==**低下的，不足的**==（水平、标准）；③低落的（情绪）；④低级的，卑微的；
+**adj.** ①==**低的，矮的**== `a low wall / ceiling`；②==**低下的，不足的**== `low income / standard`（水平、标准）；③低落的（情绪）；④低级的，卑微的；
 **adv.** ①低；②低声地；
 **n.** ①低点，低谷；②低气压；
 
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Although these numbers appear low, it is much higher than if people try without support."（尽管这些数字看起来很低，但比没有支持时人们尝试的成功率要高得多。——考研英语阅读）
-> - "To lower domestic food prices, the government has introduced a series of policies."（为了降低国内食品价格，政府出台了一系列政策。——考研英语阅读）
+> - `Although these numbers appear low, it is much higher than if people try without support.` `[真题]`
+> - `The share of stay-at-home moms in the population hit a modern-era low.` `[COCA-NEWS]`
+> - `Demand for his books has remained low.` `[COCA-ACAD]`
+> - `The reasons range from high prices and high borrowing costs to a low supply of available homes.` `[COCA-NEWS]`
 
 ---
 

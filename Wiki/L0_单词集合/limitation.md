@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**限制，局限性**== ; ②==**限制因素，缺点**==
+**n.** ①==**限制，局限性**== `the limitations of sth.` ; ②==**限制因素，缺点**== `a major/inherent limitation`
 
 > [!tip] 原型义
 > **原型义**：被边界约束的状态、局限性（从"边界"引申）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Every scientific study has its limitations that researchers must acknowledge."（每一项科学研究都有其局限性，研究者必须承认这一点。）——考研高频表达
-> - "The limitation of this approach is that it does not account for individual differences."（这种方法的局限性在于它没有考虑个体差异。）——考研高频表达
+> - "A third limitation is the dependence of the results on time-specific depressive symptoms." `[COCA-ACAD]`
+> - "But there are limitations to what can be done." `[COCA-NEWS]`
+> - "Every scientific study has its limitations that researchers must acknowledge." `[例]`
 
 ---
 

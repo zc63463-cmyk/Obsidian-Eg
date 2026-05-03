@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**操纵，控制**==；②==**操控（数据、信息等）**==；③==**巧妙地处理**==；④==**（暗中）操纵，摆布**==；
+**vt.** ①==**操纵，控制**== `manipulate public opinion` `manipulate the market`；②==**操控（数据、信息等）**== `manipulate data/information` `manipulate statistics`；③==**巧妙地处理**== `manipulate light and temperature`；④==**（暗中）操纵，摆布**== `manipulate sb into doing sth` `manipulate people`；
 
 > [!tip] 原型义
 > **原型义**：用手操作一小把东西（原指药剂师用手抓取药材进行调配）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "manipulate public opinion through social media"（通过社交媒体操纵舆论）——考研阅读科技/社会类话题
-> - "the ability to manipulate data effectively"（有效处理数据的能力）——技术/研究类阅读
-> - "politicians manipulate voters' emotions"（政客操纵选民情绪）——政治类阅读
+> - Some Republican congressmen accused Democrats of `manipulating` the statistics to suit themselves. `[COCA-ACAD]`
+> - Her success is partly due to her ability to `manipulate` the media. `[COCA-ACAD]`
+> - They managed to `manipulate` us into agreeing to help. `[COCA-ACAD]`
+> - The editorial was a blatant attempt to `manipulate` public opinion. `[真题]`
 
 ---
 

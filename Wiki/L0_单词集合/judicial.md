@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**司法的，法院的**==；
+**adj.** ①==**司法的，法院的**== `judicial system/review/process` `judicial proceedings`；
 
 > [!tip] 原型义
 > **原型义**：与判断有关的→司法的（jud = 判断/法律，-ic + -ial = …性质的）
@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The judicial system is a cornerstone of democracy."（司法体系是民主的基石）——政治/法律话题
-> - "The Supreme Court has the power of judicial review."（最高法院拥有司法审查权）——法律话题
-> - "Judicial independence must be protected from political interference."（司法独立必须免受政治干预）——社会/政治话题
-> - "He faced judicial proceedings for fraud."（他因欺诈面临司法诉讼）——法律话题
+> - "The Supreme Court ordered a judicial inquiry into the deaths." `[COCA-ACAD]`
+> - "The Michigan Supreme Court is the state's highest judicial body." `[COCA-NEWS]`
+> - "The tax claim is part of a broader judicial investigation into the affairs of the oil group." `[COCA-ACAD]`
+> - "Whether the initiative ultimately goes anywhere or survives judicial scrutiny, it's already having its most significant effect by driving wealthy figures into the conversation." `[COCA-NEWS]`
 
 ---
 

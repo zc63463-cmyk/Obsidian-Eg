@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**法律的，法定的**==；②==**合法的**==；③==**法律规定的**==；
+**adj.** ①==**法律的，法定的**== `legal system/framework; legal age/requirement`；②==**合法的**== `it is legal to do sth.; perfectly legal`；③==**法律规定的**== `legal right/obligation; legal status`；
 
 > [!tip] 原型义
 > **原型义**：与法律相关的（属于法律范畴的，或被法律所允许的）
@@ -137,9 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Everyone has the legal right to a fair trial."（每个人都有获得公正审判的法定权利）——法律/政治类阅读
-> - "The legal system needs reform."（法律体系需要改革）——社会/法律类阅读
-> - "Is it legal to record someone without their knowledge?"（未经他人知情同意进行录音是否合法？）——法律讨论语境
+> - "Everyone has the legal right to a fair trial." `[COCA-ACAD]`
+> - "The amount of alcohol in his blood exceeded the legal limit." `[COCA-ACAD]`
+> - "She is considering legal action against the dental surgery." `[COCA-NEWS]`
+> - "You should seek formal legal advice to establish your position." `[COCA-NEWS]`
 
 ---
 

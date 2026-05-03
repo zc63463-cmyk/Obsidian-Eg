@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**投资，投资额**==；②==**投入（时间、精力等）**==；③==**投资物**==；
+**n.** ①==**投资，投资额**== `make an investment` `investment in N`；②==**投入（时间、精力等）**== `an investment of time/energy` `a significant investment`；③==**投资物**== `a wise/bad investment` `return on investment`；
 
 > [!tip] 原型义
 > **原型义**：投入资源的产物或行为（将金钱、时间、精力等资源放入某事物中以期望回报的行为或产物）
@@ -131,8 +131,10 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research."（要求公司实现高季度利润的短期投资者可能会阻碍公司投资长期研究的努力。）——考研真题阅读
-> - "Government investment in education has increased significantly over the past decade."（过去十年中，政府对教育的投入显著增加。）——考研高频表达
+> - "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research." `[真题]`
+> - "The government wanted an inflow of foreign investment." `[COCA-ACAD]`
+> - "There's been a significant investment of time and energy in order to make the project a success." `[COCA-ACAD]`
+> - "The company made a substantial investment in research and development to stay competitive." `[COCA-ACAD]`
 
 ---
 

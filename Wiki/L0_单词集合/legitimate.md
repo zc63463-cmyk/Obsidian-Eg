@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**合法的，法律认可的**==；②==**正当的，合理的**==；③==**婚生的**==；
-**vt.** ①==**使合法**==；②==**使正当**==；
+**adj.** ①==**合法的，法律认可的**== `legitimate government/authority; legitimate claim/right`；②==**正当的，合理的**== `legitimate concern/reason; legitimate question`；③==**婚生的**== `legitimate child/heir`；
+**vt.** ①==**使合法**== `legitimate a practice`；②==**使正当**==；
 
 > [!tip] 原型义
 > **原型义**：被法律或惯例所认可的（符合法律规定或被社会普遍接受，因此具有正当性）
@@ -141,9 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a legitimate concern that AI could replace human workers."（人工智能可能取代人类工作者，这是一个合理的担忧）——科技/社会类阅读
-> - "The new government was not recognized as legitimate by the international community."（新政府未被国际社会承认为合法政府）——政治/国际关系类阅读
-> - "She has a legitimate claim to the property."（她对这笔财产有合法的诉求）——法律类阅读
+> - "There's no legitimate reason for prescribing this medication to a child." `[COCA-ACAD]`
+> - "Judges recognize that camera coverage serves a legitimate public interest." `[COCA-ACAD]`
+> - "She has a legitimate claim to the money." `[COCA-ACAD]`
+> - "That's a perfectly legitimate fear." `[COCA-NEWS]`
 
 ---
 

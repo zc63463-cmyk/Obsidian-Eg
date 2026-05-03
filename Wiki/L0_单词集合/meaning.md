@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**意义，含义**==；②==**目的，价值**==；③==**意图**==；
+**n.** ①==**意义，含义**== `` `the meaning of sth. / literal/figurative meaning` ``；②==**目的，价值**== `` `the meaning of life / have meaning for sb.` ``；③==**意图**== `` `intended meaning` ``；
 
 > [!tip] 原型义
 > **原型义**：心智所指向的内容（mean "思考/意图"的动名词形式，即"被思考的东西"）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the meaning of life"（人生的意义）——考研翻译/阅读中哲学类话题
-> - "lose its meaning"（失去意义）——考研阅读中描述传统、制度、观念的衰落
-> - "convey meaning"（传达意义）——考研阅读中描述语言、艺术、媒体的功能
+> - "Bonjour" is a French word meaning "hello." `` `[COCA-ACAD]` ``
+> - What do you mean by that remark? `` `[COCA-ACAD]` ``
+> - The meaning of life has been debated by philosophers for centuries. `` `[COCA-ACAD]` ``
+> - The tradition has lost its meaning for younger generations. `` `[例]` ``
 
 ---
 

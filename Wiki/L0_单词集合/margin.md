@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**页边空白，边缘**==；②==**差额，差距**==；③==**利润，利润率**==；④==**余地，余裕**==；⑤==**边缘，界限**==；
+**n.** ①==**页边空白，边缘**== `write in the margin` `margin notes`；②==**差额，差距**== `margin of victory` `by a narrow margin`；③==**利润，利润率**== `profit margin` `operating margin`；④==**余地，余裕**== `margin of error` `no margin for error`；⑤==**边缘，界限**== `on the margin(s)`；
 
 > [!tip] 原型义
 > **原型义**：书页边缘的空白处（正文与纸张边缘之间的留白区域）
@@ -137,10 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "profit margins have been shrinking"（利润率一直在缩水）——考研阅读经济/商业类话题
-> - "win by a narrow margin"（以微弱优势获胜）——政治/体育类阅读
-> - "there is no margin for error"（没有容错的余地）——通用高频表达
-> - "marginal notes in the manuscript"（手稿中的页边注释）——学术/文学类阅读
+> - There is no `margin` for error -- it has got to work the first time. `[COCA-ACAD]`
+> - The poll had a `margin` of error of plus or minus 4%. `[COCA-ACAD]`
+> - The company's profit `margins` have been shrinking steadily over the past decade. `[COCA-ACAD]`
+> - She won the election by a narrow `margin`. `[真题]`
 
 ---
 

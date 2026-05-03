@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**调解，斡旋**==（在冲突双方之间）；②==**居间促成**==（促成某事发生）；
+**v.** ①==**调解，斡旋**== `` `mediate between A and B / mediate a dispute/conflict` ``（在冲突双方之间）；②==**居间促成**== `` `mediate a settlement/agreement` ``（促成某事发生）；
 
 > [!tip] 原型义
 > **原型义**：在中间→调解（站在两方之间，帮助沟通、解决分歧）
@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The UN mediated between the two warring nations."（联合国在两个交战国之间斡旋）——国际政治话题
-> - "A neutral third party was called in to mediate the dispute."（中立的第三方被请来调解争端）——法律/社会话题
-> - "The government mediated a settlement between the workers and management."（政府在劳资双方之间促成和解）——社会话题
+> - The UN mediated between the two warring nations to broker a ceasefire. `` `[COCA-ACAD]` ``
+> - A neutral third party was called in to mediate the dispute between the union and management. `` `[真题]` ``
+> - The government mediated a settlement between the workers and management. `` `[COCA-ACAD]` ``
 
 ---
 

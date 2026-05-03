@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**方法，手段，方式**==；②==**金钱，财富，财力**==；③==**工具，设备**==；
+**n.** ①==**方法，手段，方式**== `` `by means of / a means to an end` ``；②==**金钱，财富，财力**== `` `have the means to do sth. / beyond one's means` ``；③==**工具，设备**== `` `means of production / means of communication` ``；
 
 > [!tip] 原型义
 > **原型义**：达到目的的中间途径（mean "中间"的复数名词化，即"从起点到终点之间的中间环节/工具"）
@@ -134,10 +134,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "by means of"（借助于）——考研翻译/阅读高频短语，描述方法、途径
-> - "by no means"（绝不）——考研翻译/阅读高频短语，用于否定句加强语气
-> - "means of production"（生产资料）——考研政治/社科类阅读中马克思主义相关概念
-> - "a means to an end"（达到目的的手段）——考研阅读中描述工具理性
+> - They had no means of letting him know that the flight was canceled. `` `[COCA-ACAD]` ``
+> - I don't have the means to support a family. `` `[COCA-ACAD]` ``
+> - She is by no means an inexperienced teacher. `` `[COCA-ACAD]` ``
+> - The end justifies the means. `` `[COCA-ACAD]` ``
+> - Brian was prepared to use any means to get what he wanted. `` `[真题]` ``
 
 ---
 

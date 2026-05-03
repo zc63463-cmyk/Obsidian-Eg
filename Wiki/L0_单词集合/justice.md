@@ -25,7 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**正义，公正**==；②==**司法，法律制裁**==；③==**法官**==；
+**n.** ①==**正义，公正**== `social justice / fight for justice / a sense of justice`；`the pursuit of justice`；
+②==**司法，法律制裁**== `bring someone to justice / the criminal justice system`；`obstruct justice`；
+③==**法官**== `Chief Justice / Mr. Justice Smith`；`a Supreme Court justice`；
 
 > [!tip] 原型义
 > **原型义**：法律→正义（jur = 法律，-ice = 名词后缀；法律的本质就是正义）
@@ -139,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The pursuit of justice is a fundamental human aspiration."（追求正义是人类的基本愿望）——哲学/社会话题
-> - "The criminals were finally brought to justice."（罪犯最终被绳之以法）——法律话题
-> - "Social justice requires equal opportunities for all citizens."（社会正义要求所有公民享有平等机会）——社会/政治话题
-> - "She has a strong sense of justice."（她有很强的正义感）——人物描写
+> - "The criminals were finally brought to justice." `[COCA-NEWS]`
+> - "Social justice requires equal opportunities for all citizens." `[COCA-ACAD]`
+> - "The role of the courts is to dispense justice fairly to everyone." `[COCA-ACAD]`
+> - "The president is expected to name a new Supreme Court justice within the next few days." `[COCA-NEWS]`
 
 ---
 

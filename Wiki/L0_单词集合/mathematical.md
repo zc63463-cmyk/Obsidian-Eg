@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**数学的，数学上的**==；②==**精确的，严密的，逻辑性强的**==；③==**可能性的（与概率相关）**==；
+**adj.** ①==**数学的，数学上的**== `mathematical model/formula` `mathematical analysis`；②==**精确的，严密的，逻辑性强的**== `mathematical precision` `with mathematical certainty`；③==**可能性的（与概率相关）**== `mathematical probability` `a mathematical chance`；
 
 > [!tip] 原型义
 > **原型义**：学习得来的知识（从"学习"到"数学"再到"精确推理"）
@@ -134,9 +134,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "mathematical models of economic behavior"（经济行为的数学模型）——考研阅读常见搭配，社科类文章中描述研究方法
-> - "with mathematical precision"（以数学般的精确性）——考研翻译/阅读中描述分析的严谨性
-> - "mathematical probability"（数学概率）——考研阅读中统计类话题
+> - They recorded the changes with mathematical precision. `[COCA-ACAD]`
+> - The team has only a mathematical chance of making the play-offs. `[COCA-NEWS]`
+> - Paulino's team used mathematical models from origami design to program these motions. `[COCA-ACAD]`
+> - Every schoolboy knows that it is possible to be unsure about a mathematical truth. `[COCA-ACAD]`
+> - The whole trip was planned with mathematical precision. `[COCA-FIC]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**沉思，冥想**==（深度思考或精神修行）；②==**沉思录**==（书面形式的沉思成果）；
+**n.** ①==**沉思，冥想**== `` `meditation practice / deep in meditation` ``（深度思考或精神修行）；②==**沉思录**== `` `Meditations (by Marcus Aurelius)` ``（书面形式的沉思成果）；
 
 > [!tip] 原型义
 > **原型义**：向内思考→沉思（将注意力从外部转向内部，深入反思）
@@ -132,9 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She practices meditation every morning to reduce stress."（她每天早上练习冥想来减压）——健康/生活方式话题
-> - "Marcus Aurelius' Meditations remains one of the greatest works of philosophy."（马可·奥勒留的《沉思录》仍是哲学最伟大的著作之一）——哲学/文学话题
-> - "After years of meditation, he achieved a state of inner peace."（经过多年的冥想，他达到了内心平静的境界）——精神/哲学话题
+> - Mindfulness meditation has been shown to reduce stress and improve emotional well-being. `` `[COCA-ACAD]` ``
+> - She practices meditation every morning as part of her daily routine. `` `[COCA-ACAD]` ``
+> - Marcus Aurelius' Meditations remains one of the greatest works of Stoic philosophy. `` `[真题]` ``
+> - After years of meditation, he achieved a state of inner peace. `` `[例]` ``
 
 ---
 

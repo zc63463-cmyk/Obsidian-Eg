@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大师，名家**==；②==**主人，雇主**==；③==**硕士**==；④==**男教师**==；⑤==**能手，精通者**==；
-**vt.** ①==**掌握，精通**==；②==**控制，征服**==；
-**adj.** ①==**主要的，首要的**==；②==**精通的，优秀的**==；
+**n.** ①==**大师，名家**== `a master of painting` `a literary master`；②==**主人，雇主**== `master and servant` `be master of`；③==**硕士**== `Master's degree` `Master of Arts`；④==**男教师**== `school master`；⑤==**能手，精通者**== `a master of strategy`；
+**vt.** ①==**掌握，精通**== `master a skill/language` `master the art of`；②==**控制，征服**== `master one's emotions` `master the situation`；
+**adj.** ①==**主要的，首要的**== `master plan/key` `master bedroom`；②==**精通的，优秀的**== `a master craftsman` `master stroke`；
 
 > [!tip] 原型义
 > **原型义**：掌控者、拥有权威的人（对某地、某事有控制权的人）
@@ -143,10 +143,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "master a foreign language"（精通一门外语）——教育类阅读
-> - "a master plan for urban development"（城市发展的总体规划）——政策/规划类阅读
-> - "Master of Arts/Science"（文学/理学硕士）——学术类文本
-> - "master the art of communication"（掌握沟通的艺术）——自我提升/管理类文章
+> - She mastered Japanese in less than two years. `[COCA-FIC]`
+> - Her pain completely mastered her. `[COCA-FIC]`
+> - The city has developed a master plan for urban development. `[COCA-ACAD]`
+> - He is a master of the art of political persuasion. `[COCA-ACAD]`
+> - She completed her Master of Arts in Comparative Literature. `[COCA-ACAD]`
 
 ---
 

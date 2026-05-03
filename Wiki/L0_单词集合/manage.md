@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**管理，经营**==；②==**设法做到，成功完成**==；③==**操纵，控制**==；④==**对付，处理**==；
-**vi.** ①==**处理，应付**==；②==**设法对付过去**==；
+**vt.** ①==**管理，经营**== `manage a company/business` `manage one's time`；②==**设法做到，成功完成**== `manage to do sth.` `somehow manage to`；③==**操纵，控制**== `manage the economy` `manage the press`；④==**对付，处理**== `manage a situation` `manage without`；
+**vi.** ①==**处理，应付**== `manage on sth.` `manage with sth.`；②==**设法对付过去**== `we'll manage`；
 
 > [!tip] 原型义
 > **原型义**：用手控制马匹（训练和驾驭马匹的动作）
@@ -136,9 +136,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "manage to survive in a competitive market"（设法在竞争激烈的市场中生存）——考研阅读商业类话题
-> - "good time management is essential for success"（良好的时间管理对成功至关重要）——学习/效率类话题
-> - "she managed to finish the project ahead of schedule"（她设法提前完成了项目）——日常/职场语境
+> - We need to do a better job of managing our natural resources. `[COCA-ACAD]`
+> - There is a lack of confidence in the government's ability to manage the economy. `[COCA-NEWS]`
+> - She managed to finish the project ahead of schedule. `[COCA-ACAD]`
+> - I only just managed to finish on time. `[COCA-ACAD]`
+> - The business is managed by the owner's daughter. `[COCA-MAG]`
 
 ---
 

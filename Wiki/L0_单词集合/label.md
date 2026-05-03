@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标签，标记**==（贴在物品上的纸条/布条）；②==**称号，绰号**==（给人或事物的定性描述）；③（唱片公司的）唱片标签；
-**v.** ①==**贴标签于，标注**==；②==**把…称为，把…归类为**==（label sb./sth. as...）；
+**n.** ①==**标签，标记**== `a label on sth.` / `read/check the label`；②==**称号，绰号**== `give sb. a label` / `the label of...`；③（唱片公司的）唱片标签 `on a label`；
+**v.** ①==**贴标签于，标注**== `label sth. with...` / `be labeled as...`；②==**把…称为，把…归类为**== `label sb./sth. as...`；
 
 > [!tip] 原型义
 > **原型义**：贴在物品上的窄布条/纸条（标明名称、内容、目的地）
@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was labeled as a troublemaker."（他被贴上了捣乱分子的标签）——常见社会话题
-> - "Read the label before taking the medicine."（服药前请阅读标签）——日常/健康话题
-> - "The product carries a warning label."（该产品附有警告标签）——消费/法律话题
-> - "Society is quick to label people."（社会总是急于给人贴标签）——社会评论语境
+> - "The name is prominently displayed on the label." `[COCA-ACAD]`
+> - "You should read the warning label before you take any medicine." `[COCA-ACAD]`
+> - "Some people describe him as selfish, but he doesn't deserve that label." `[COCA]`
+> - "Once you give people labels, it's hard to see them as individuals." `[COCA]`
 
 ---
 

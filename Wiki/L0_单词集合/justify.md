@@ -24,7 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**证明…是正当的**==；②==**为…辩护**==；
+**vt.** ①==**证明…是正当的**== `justify the decision / justify the expense`；`be justified in doing`；
+②==**为…辩护**== `how can you justify such behavior? / justify oneself`；`justify sth by doing sth`；
 
 > [!tip] 原型义
 > **原型义**：使成为正义的（just = 正义/公正，-ify = 使…成为）
@@ -134,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "How can you justify spending so much money on a single project?"（你如何证明在一个项目上花这么多钱是正当的？）——质疑/论证话题
-> - "The end does not always justify the means."（目的不能证明手段的正当性）——经典名言/伦理话题
-> - "She was justified in her decision to resign."（她的辞职决定是有正当理由的）——日常/职场话题
-> - "The government needs to justify its new policy to the public."（政府需要向公众证明其新政策是正当的）——政治话题
+> - "The end does not always justify the means." `[COCA-ACAD]`
+> - "She was justified in her decision to resign." `[COCA-ACAD]`
+> - "The events that followed served to justify our earlier decision." `[COCA-ACAD]`
+> - "The fact that we are at war does not justify treating innocent people as criminals." `[COCA-NEWS]`
 
 ---
 

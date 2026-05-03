@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**块，团，堆**==；②==**大量，大批，众多**==；③==**（the ~）群众，平民大众**==；④==**质量**==（物理学）；
-**adj.** ①==**大众的，群众的**==；
-**v.** ①==**集中，聚集**==；
+**n.** ①==**块，团，堆**== `a mass of sth` `a mass of clouds/rubble`；②==**大量，大批，众多**== `a mass of / masses of sth` `masses of data`；③==**（the ~）群众，平民大众**== `the masses` `appeal to the masses`；④==**质量**== `the mass of an object` `body mass`（物理学）；
+**adj.** ①==**大众的，群众的**== `mass media/education/production` `mass culture`；
+**v.** ①==**集中，聚集**== `troops massed on the border` `mass sth together`；
 
 > [!tip] 原型义
 > **原型义**：揉成团的生面团（柔软可塑、黏合在一起的物质团块）
@@ -143,10 +143,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the masses"（群众）——考研政治/社会类阅读高频词，常与 elite（精英）对比出现
-> - "a mass of evidence"（大量证据）——考研阅读常见搭配，用于论证观点
-> - "mass media"（大众传媒）——传媒/文化类话题核心词汇
-> - "mass production"（大规模生产）——经济/工业类话题常见搭配
+> - The explosion reduced the church to a mass of rubble. `[COCA-ACAD]`
+> - I began sifting through the mass of evidence. `[COCA-ACAD]`
+> - Mass production has led to lower costs for many consumer items. `[COCA-ACAD]`
+> - The hill appeared as a black mass in the distance. `[COCA-FIC]`
+> - A huge mass of material has been organized into a clear narrative. `[COCA-ACAD]`
 
 ---
 

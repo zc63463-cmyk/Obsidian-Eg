@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有限的，受限的**== ; ②==**有限责任的**==（如 limited company）
+**adj.** ①==**有限的，受限的**== `limited resources/time` ; ②==**有限责任的**== `limited company (Ltd.)`（如 limited company）
 
 > [!tip] 原型义
 > **原型义**：被边界框住的、有限的（从"边界"引申）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We had only limited resources to complete the project."（我们只有有限的资源来完成这个项目。）——考研高频表达
-> - "The effectiveness of the drug is limited by its side effects."（该药物的效果因其副作用而受到限制。）——考研高频表达
+> - "Social distancing is very difficult and access to advanced health care is often limited." `[COCA-NEWS]`
+> - "Another advantage of trading through a company is limited liability status." `[COCA-NEWS]`
+> - "We had only limited resources to complete the project." `[例]`
 
 ---
 

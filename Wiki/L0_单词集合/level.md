@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**水平面，水平线**==；②==**水平，等级，级别**==；③==**高度，程度**==；
-**adj.** ①==**平的，水平的**==；②==**同高度的，同等地位的**==；③==**平稳的，冷静的**==；
-**v.** ①==**使平坦，夷平**==；②==**使平等，使同等**==；③==**瞄准，对准**==；
+**n.** ①==**水平面，水平线**== `sea level; water level`；②==**水平，等级，级别**== `level of education; a high level of`；③==**高度，程度**==；
+**adj.** ①==**平的，水平的**== `level ground/surface`；②==**同高度的，同等地位的**== `a level playing field`；③==**平稳的，冷静的**== `a level head`；
+**v.** ①==**使平坦，夷平**== `level the building/ground`；②==**使平等，使同等**==；③==**瞄准，对准**==；
 
 > [!tip] 原型义
 > **原型义**：水平的、平坦的状态（用水平仪测量后确认的平坦表面）
@@ -143,9 +143,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the level of education has improved significantly"（教育水平显著提高）——考研阅读社会教育类话题
-> - "a level playing field for all competitors"（对所有竞争者公平的环境）——商业/政治类阅读
-> - "prices have leveled off"（价格已趋于平稳）——经济类阅读高频表达
+> - "These problems affect people at all levels of society." `[COCA-ACAD]`
+> - "Inflation is going to rise two percent from its present level." `[COCA-ACAD]`
+> - "The top of Mount Everest is 8,848 metres above sea level." `[COCA-ACAD]`
+> - "Can this problem be dealt with at a national level or must it be addressed at an international level?" `[COCA-ACAD]`
 
 ---
 

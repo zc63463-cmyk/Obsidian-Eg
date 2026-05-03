@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**记忆，记忆力**==；②存储器，内存；③回忆，留存的记忆；
+**n.** ①==**记忆，记忆力**== `` `short-term/long-term memory / from memory` ``；②存储器，内存 `` `computer memory / RAM` ``；③回忆，留存的记忆 `` `childhood memories / in memory of` ``；
 
 > [!tip] 原型义
 > **原型义**：大脑中存储和提取过去经验的能力
@@ -133,8 +133,10 @@ memor(记忆，mind) + -y(名词后缀，表状态/能力)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research has shown that regular exercise can improve memory and cognitive function in older adults.（研究表明，定期锻炼可以改善老年人的记忆力和认知功能。）
-> - The computer's memory needs to be upgraded to run the new software.（计算机的内存需要升级才能运行新软件。）
+> - Research has shown that regular exercise can improve memory and cognitive function in older adults. `` `[COCA-ACAD]` ``
+> - The computer's memory needs to be upgraded to run the new software. `` `[COCA-ACAD]` ``
+> - Sleep plays a crucial role in consolidating long-term memory. `` `[真题]` ``
+> - A scholarship was established in memory of the late professor. `` `[COCA-ACAD]` ``
 
 ---
 

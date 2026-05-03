@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**杰作，名著**==；②==**杰出的作品**==；③==**（技艺的）巅峰之作**==；
+**n.** ①==**杰作，名著**== `a literary masterpiece` `widely regarded as a masterpiece`；②==**杰出的作品**== `create a masterpiece` `a masterpiece of design`；③==**（技艺的）巅峰之作**== `a masterpiece of engineering` `chef-d'oeuvre`；
 
 > [!tip] 原型义
 > **原型义**：大师的考核作品（中世纪行会中学徒为晋升为大师而提交的考核作品）
@@ -129,10 +129,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "widely regarded as a masterpiece"（被广泛认为是杰作）——艺术/文学评论类阅读
-> - "a masterpiece of Renaissance art"（文艺复兴艺术的杰作）——艺术史/文化类阅读
-> - "the novel is a masterpiece of social commentary"（这部小说是社会评论的杰作）——文学评论类文章
-> - "a masterpiece of media manipulation"（媒体操控的杰作）——新闻/政治类阅读（反讽用法）
+> - Leonardo's "Last Supper" is widely regarded as a masterpiece. `[COCA-ACAD]`
+> - Her press conference was a masterpiece of media manipulation. `[COCA-NEWS]`
+> - The novel is a masterpiece of social commentary. `[COCA-ACAD]`
+> - The painting was widely regarded as a masterpiece by art critics. `[COCA-ACAD]`
+> - The bridge is a masterpiece of Victorian engineering. `[COCA-ACAD]`
 
 ---
 

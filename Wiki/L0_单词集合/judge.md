@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**法官**==；②==**裁判员**==；
-**vt.** ①==**审判，判决**==；②==**评判，判断**==；
+**n.** ①==**法官**== `a Supreme Court judge` `the judge ruled that...`；②==**裁判员**== `judge a competition`；
+**vt.** ①==**审判，判决**== `judge a case` `judge sb. guilty/innocent`；②==**评判，判断**== `judge by N` `judge sb./sth. on N`；
 
 > [!tip] 原型义
 > **原型义**：判断者（来自拉丁语 judex"法官"，jud = 判断/法律）
@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't judge a person by their appearance."（不要以貌取人）——经典谚语
-> - "The judge sentenced him to ten years in prison."（法官判处他十年监禁）——法律话题
-> - "You shouldn't judge others so harshly."（你不应该如此苛刻地评判他人）——日常/道德话题
-> - "She will be judged on her performance, not her background."（对她的评价将基于她的表现，而非她的背景）——社会话题
+> - "It's difficult to judge whether the new system really is an improvement." `[COCA-ACAD]`
+> - "If you are accused of a crime you have the right to be judged by a jury of your peers." `[COCA-ACAD]`
+> - "The meeting was judged to have been a success." `[COCA-ACAD]`
+> - "The Michigan Supreme Court is the state's highest judicial body." `[COCA-NEWS]`
 
 ---
 

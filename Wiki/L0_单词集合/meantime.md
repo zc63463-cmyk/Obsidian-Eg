@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**其间，间隔时间**==；
-**adv.** ①==**在此期间，同时**==；
+**n.** ①==**其间，间隔时间**== `` `in the meantime` ``；
+**adv.** ①==**在此期间，同时**== `` `in the meantime, ...` ``；
 
 > [!tip] 原型义
 > **原型义**：中间的那段时间（mean "中间" + time "时间"，即两个事件之间的间隔时间）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "in the meantime, however, ..."（然而在此期间……）——考研阅读中常见的过渡句式，连接两个并行事件
-> - "for the meantime"（暂时）——考研阅读中描述临时措施
-> - "In the meantime, the government should..."（在此期间，政府应该……）——考研阅读/翻译中政策建议类表达
+> - In the meantime, the company will use two loans to help keep the lights on. `` `[COCA-ACAD]` ``
+> - The doctor will see you again next week; in the meantime, you must rest as much as possible. `` `[COCA-ACAD]` ``
+> - They've arranged to have another meeting in two weeks, and in the meantime the problem is getting worse. `` `[真题]` ``
 
 ---
 

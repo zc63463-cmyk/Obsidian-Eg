@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①责任，义务 ; ==**②债务，负债**== ; ③不利条件，累赘 ; ④可能性，倾向 ;
+**n.** ①==**责任，义务**== `accept/assume liability for; legal liability` ; ==**②债务，负债**== `assets and liabilities; limited liability` ; ③==**不利条件，累赘**== `be a liability to sb.` ; ④==**可能性，倾向**== `liability to sth.` ;
 
 > [!tip] 原型义
 > **原型义**：被束缚的状态（源自拉丁语ligare"捆绑"，经liable"有责任的"派生）
@@ -127,8 +127,10 @@ li(源自lig，捆绑) + -able(可被…的) + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's liabilities exceeded its assets, forcing it into bankruptcy."（公司的负债超过了资产，迫使其破产。）——考研高频表达
-> - "Employers can be held liable for injuries sustained by employees in the workplace."（雇主可能对员工在工作场所遭受的伤害承担责任。）——考研高频表达
+> - "The company's liabilities exceeded its assets, forcing it into bankruptcy." `[COCA-ACAD]`
+> - "Our warranty clearly states the limits of our liability." `[COCA-ACAD]`
+> - "The debate on immigration is proving to be something of a liability for the Prime Minister." `[COCA-NEWS]`
+> - "The company is reported to have liabilities of nearly $90,000." `[COCA-NEWS]`
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**文学的，文学上的**==；②书面的，精通文学的；
+**adj.** ①==**文学的，文学上的**== `literary works / literary criticism`；②==**书面的，精通文学的**== `a literary man / literary style`；
 
 > [!tip] 原型义
 > **原型义**：与文字、字母、书写相关的
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The literary canon has expanded to include more diverse voices in recent decades.（近几十年来，文学经典的范围已扩大，纳入了更多元的声音。）
-> - He devoted his life to literary pursuits.（他毕生致力于文学事业。）
+> - Literary critics raved over his novels and praised his unique narrative voice. `[COCA-ACAD]`
+> - The literary canon has expanded to include more diverse voices in recent decades. `[COCA-ACAD]`
+> - Her prose makes sparing use of rare and literary words that might alienate casual readers. `[COCA-ACAD]`
+> - He devoted his life to literary pursuits and the study of classical texts. `[例]`
 
 ---
 

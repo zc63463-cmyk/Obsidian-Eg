@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ==**①许可证，执照**== ; ②许可，特许 ;
+**n.** ==**①许可证，执照**== `a driving/business license` ; ②许可，特许 `give sb. license to do sth.` ;
 
-**vt.** ①批准，许可 ; ②发给执照 ;
+**vt.** ①批准，许可 `license sb. to do sth.` ; ②发给执照 `be licensed to do sth.` ;
 
 > [!tip] 原型义
 > **原型义**：自由的许可（源自拉丁语licentia"自由、许可"，来自liber"自由"）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He says medical licensing boards must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."（他说，行医执照颁发委员会必须明确表示，病人痛苦的死亡被推定为治疗不当造成的，应当吊销其行医执照。）——2002考研英语一Text4
-> - "In 2006, the state went a step further, requiring that any extension of the plant's license be subject to Vermont legislature's approval."（2006年，该州更进一步，要求该工厂许可证的任何延期都必须经过佛蒙特州立法机构的批准。）——2012考研英语一Text2
+> - "He says medical licensing boards must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension." `[真题]`
+> - "In 2006, the state went a step further, requiring that any extension of the plant's license be subject to Vermont legislature's approval." `[真题]`
+> - "The restaurant has now been licensed to sell liquor." `[COCA-NEWS]`
 
 ---
 

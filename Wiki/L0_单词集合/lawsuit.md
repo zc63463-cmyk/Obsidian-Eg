@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**诉讼，官司**==；
+**n.** ①==**诉讼，官司**== `file a lawsuit against sb.` / `face a lawsuit`；
 
 > [!tip] 原型义
 > **原型义**：法律诉讼（[[law]] 法律 + suit 诉讼/追诉 → 法律上的追诉 → 诉讼）
@@ -132,10 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is facing a lawsuit over its environmental practices."（该公司因其环境做法正面临一场诉讼）——商业/环保语境
-> - "She filed a lawsuit against her former employer for discrimination."（她起诉前雇主歧视）——法律/社会语境
-> - "The lawsuit was settled out of court for an undisclosed amount."（该诉讼在庭外和解，金额未披露）——法律语境
-> - "Consumers have filed a class-action lawsuit against the tech giant."（消费者对这家科技巨头提起了集体诉讼）——商业/消费者权益语境
+> - "Some unhappy workers filed a lawsuit claiming they were due back wages." `[COCA-ACAD]`
+> - "A former employee brought a lawsuit against the company claiming unfair dismissal." `[COCA-ACAD]`
+> - "The parents voluntarily dismissed the lawsuit in September 2023." `[COCA]`
+> - "Two of the directors filed a lawsuit against their former employer." `[COCA]`
 
 ---
 

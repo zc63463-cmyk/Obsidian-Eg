@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**授权，命令**==；②==**（选民对当选者的）授权/委托**==；③==**委任统治权**==；
-**vt.** ①==**授权，强制执行**==；②==**委托，命令**==；
+**n.** ①==**授权，命令**== `a clear mandate` `court mandate`；②==**（选民对当选者的）授权/委托**== `have a mandate from voters` `electoral mandate`；③==**委任统治权**== `UN mandate`；
+**vt.** ①==**授权，强制执行**== `mandate a policy/law` `mandate that...`；②==**委托，命令**== `mandate sb. to do sth.`；
 
 > [!tip] 原型义
 > **原型义**：交给某人手中的命令（将权力或任务"放在某人手中"）
@@ -135,9 +135,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the president has a clear mandate from the voters"（总统拥有选民的明确授权）——考研阅读政治类话题
-> - "the court mandated that the company pay compensation"（法院命令该公司支付赔偿）——法律类阅读
-> - "a mandate for change"（变革的授权）——社会/政治类阅读
+> - The President and his supporters are almost certain to read this vote as a mandate for continued economic reform. `[COCA-NEWS]`
+> - The president secured the Congressional mandate to go to war by three votes. `[COCA-ACAD]`
+> - The court mandated that the company pay compensation to the affected workers. `[COCA-ACAD]`
+> - The government gave the police a mandate to reduce crime in the city. `[COCA-NEWS]`
+> - The new law stipulates that sixty per cent of all constitutionally mandated state funding must be allocated to primary education. `[COCA-ACAD]`
 
 ---
 

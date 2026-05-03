@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大屠杀，残杀**==；②==**（体育等）惨败**==；
-**vt.** ①==**大规模屠杀，残杀**==；②==**彻底击败**==；
+**n.** ①==**大屠杀，残杀**== `the massacre of civilians` `a brutal massacre`；②==**（体育等）惨败**== `a 10-0 massacre` `an electoral massacre`；
+**vt.** ①==**大规模屠杀，残杀**== `massacre innocent people` `troops massacred the villagers`；②==**彻底击败**== `massacre the opposition` `be massacred in the final`；
 
 > [!tip] 原型义
 > **原型义**：在屠宰场大量宰杀（源自古法语，与"敲击/屠宰"相关）
@@ -133,9 +133,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the massacre of innocent civilians"（对无辜平民的大屠杀）——历史/政治类阅读常见表达
-> - "troops massacred the villagers"（军队屠杀了村民）——战争/人权类话题
-> - "a electoral massacre"（选举惨败）——政治类语料中的引申用法
+> - The perpetrators of the massacre must be brought to justice as war criminals. `[COCA-ACAD]`
+> - Guerrilla troops are thought to have massacred the entire village. `[COCA-NEWS]`
+> - The manager resigned after the team's 7-2 massacre in the final. `[COCA-NEWS]`
+> - The massacre was a crime against humanity. `[COCA-ACAD]`
+> - The Boston Massacre was a key event leading to the Revolution. `[COCA-ACAD]`
 
 ---
 

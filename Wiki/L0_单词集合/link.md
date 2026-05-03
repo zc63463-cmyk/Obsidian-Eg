@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**联系，关联**==；②环节，纽带；③链接（网络）；
-**v.** ①==**连接，联系**==；②把……联系起来；
+**n.** ①==**联系，关联**== `a link between A and B`；②环节，纽带 `a vital/missing link`；③链接（网络） `a hyperlink`；
+**v.** ①==**连接，联系**== `link A to/with B`；②把……联系起来 `be linked to`；
 
 > [!tip] 原型义
 > **原型义**：将两端连接在一起的环或链节
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is a well-established link between smoking and lung cancer.（吸烟与肺癌之间存在明确的关联。）
-> - The government has established a direct link between education funding and economic development.（政府已建立了教育经费与经济发展之间的直接联系。）
+> - "There is a direct link between smoking and lung cancer." `[COCA-ACAD]`
+> - "The study further strengthens the evidence linking smoking with early death." `[COCA-NEWS]`
+> - "These projects will provide vital links between companies and universities." `[COCA-NEWS]`
 
 ---
 

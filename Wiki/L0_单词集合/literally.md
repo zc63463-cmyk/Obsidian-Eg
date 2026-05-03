@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**字面上地，逐字地**==；②确实地，真正地（用于强调）；
+**adv.** ①==**字面上地，逐字地**== `translate literally / take sth. literally`；②==**确实地，真正地（用于强调）**== `there are literally thousands of / literally do sth.`；
 
 > [!tip] 原型义
 > **原型义**：按照文字/字母的本来意思，不添加任何引申
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The term "global village" should not be taken literally; it is a metaphor for the interconnectedness of modern society.（"地球村"一词不应从字面上理解；它是现代社会互联性的隐喻。）
-> - There are literally thousands of species yet to be discovered in the deep ocean.（深海中确实还有成千上万的物种有待发现。）
+> - He took her comments literally and was deeply offended by what she said. `[COCA-ACAD]`
+> - The word "volk" translates literally as "folk" in English. `[COCA-ACAD]`
+> - There are literally thousands of species yet to be discovered in the deep ocean. `[COCA-NEWS]`
+> - I literally had no idea you and Sophie were coming to the party. `[COCA-MAG]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**限度，限制**== ; ②==**界限，边界**==
-**vt.** ①==**限制，限定**==
+**n.** ①==**限度，限制**== `a speed/time limit` ; ②==**界限，边界**== `the city limits`
+**vt.** ①==**限制，限定**== `limit sth. to sth.`
 
 > [!tip] 原型义
 > **原型义**：边界、界限（物理层面的边界线）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Constitution limits the President's term of office to four years."（宪法规定总统的任期为四年。）——考研高频表达
-> - "There is a limit to how much information the human brain can process at one time."（人脑一次能处理的信息量是有限的。）——考研高频表达
+> - "The Constitution limits the President's term of office to four years." `[真题]`
+> - "She has to work within the limits of a fairly tight budget." `[COCA-NEWS]`
+> - "There is a limit to how much information the human brain can process at one time." `[例]`
 
 ---
 

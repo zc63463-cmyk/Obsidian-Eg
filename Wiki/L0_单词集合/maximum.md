@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**最大的，最高的，最大限度的**==；
-**n.** ①==**最大量，最高限度，顶点**==；
+**adj.** ①==**最大的，最高的，最大限度的**== `maximum speed/effort` `maximum capacity`；
+**n.** ①==**最大量，最高限度，顶点**== `reach a maximum` `the maximum amount of sth`；
 
 > [!tip] 原型义
 > **原型义**：最大的（magnus "大"的最高级形式，表示"大到不能再大"）
@@ -135,9 +135,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "with maximum efficiency"（以最高效率）——考研阅读/翻译中描述工作方式
-> - "the maximum amount of information"（最大量的信息）——考研阅读中描述信息处理
-> - "maximize profit while minimizing risk"（利润最大化同时风险最小化）——考研经济类阅读常见表达
+> - It was achieved with minimum fuss and maximum efficiency. `[COCA-NEWS]`
+> - I need the maximum amount of information you can give me. `[COCA-FIC]`
+> - The law provides for a maximum of two years in prison. `[COCA-ACAD]`
+> - Under planning law the maximum height for a fence or hedge is two metres. `[COCA-NEWS]`
+> - Their interest is in selling you the maximum amount of storage. `[COCA-NEWS]`
 
 ---
 

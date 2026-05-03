@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**意味着，意思是**==；②==**打算，有意要**==；③==**有……的重要性**==；
-**vi.** ①==**用意**==；
-**adj.** ①==**吝啬的，小气的**==；②==**卑鄙的，刻薄的**==；③==**平均的，中间的**==；
-**n.** ①==**平均数，平均值**==；②==**中间，中庸**==；
+**vt.** ①==**意味着，意思是**== `` `mean that... / mean sth. by sth.` ``；②==**打算，有意要**== `` `mean to do sth. / mean sb. to do sth.` ``；③==**有……的重要性**== `` `mean a lot to sb.` ``；
+**vi.** ①==**用意**== `` `mean well` ``；
+**adj.** ①==**吝啬的，小气的**== `` `be mean with money` ``；②==**卑鄙的，刻薄的**== `` `it is mean of sb. to do sth.` ``；③==**平均的，中间的**== `` `the mean value / mean income` ``；
+**n.** ①==**平均数，平均值**== `` `the mean (of sth.)` ``；②==**中间，中庸**==；
 
 > [!tip] 原型义
 > **原型义**：居于中间（从"中间"出发，向"意图"和"吝啬"两个方向延伸）
@@ -154,10 +154,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "by no means"（绝不）——考研翻译/阅读高频短语，常用于否定句加强语气
-> - "by means of"（借助于）——考研阅读中描述方法、手段
-> - "the mean income"（平均收入）——考研经济类阅读中描述统计数据
-> - "What does this mean for..."（这对……意味着什么）——考研阅读中常见的设问句式
+> - These figures mean that almost six percent of the working population is unemployed. `` `[COCA-ACAD]` ``
+> - I didn't mean to hurt anybody. `` `[COCA-ACAD]` ``
+> - The mean income of households in the region has declined over the past decade. `` `[COCA-ACAD]` ``
+> - She is by no means an inexperienced teacher. `` `[COCA-ACAD]` ``
+> - The government warned that police would take tougher measures to contain the trouble. `` `[真题]` ``
 
 ---
 

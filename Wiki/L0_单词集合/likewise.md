@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**同样地，照样地**==；②==**也，亦**==（用于句首或句末，表示同样情况）；
+**adv.** ①==**同样地，照样地**== `do likewise`；②==**也，亦**== `Likewise, ...`（用于句首或句末，表示同样情况）；
 
 > [!tip] 原型义
 > **原型义**：以同样的方式（像之前提到的那样去做或去理解）
@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government must invest in education. Likewise, it should prioritize healthcare."（考研英语——政府必须投资教育。同样地，它也应该优先发展医疗保健）
-> - "Technology has transformed the way we work; likewise, it has reshaped our social interactions."（考研英语——技术改变了我们的工作方式；同样地，它也重塑了我们的社交互动）
-> - "She criticized the policy, and many experts did likewise."（考研英语——她批评了这项政策，许多专家也持同样态度）
+> - "Studies of the motet have tended, likewise, to frame analysis in the terms established by cyclic masses." `[COCA-ACAD]`
+> - "She criticized the policy, and many experts did likewise." `[COCA-NEWS]`
+> - "Technology has transformed the way we work; likewise, it has reshaped our social interactions." `[例]`
 
 ---
 

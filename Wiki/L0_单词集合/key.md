@@ -25,9 +25,16 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**钥匙**==；②==**关键，要害，关键因素**==；③==**（键盘上的）键**==；④==**（音乐的）调**==；⑤==**答案，题解**==；
-**adj.** ①==**关键的，至关重要的**==；②==**主要的**==；
-**vt.** ①==**用键盘输入**==；②==**调节……的音调**==；③==**使适应**==（key sth to sth）；
+**n.** ①==**钥匙**== `turn the key / lock and key`；`under lock and key`；
+②==**关键，要害，关键因素**== `a key factor / play a key role`；`the key to success`；
+③==**（键盘上的）键**== `keyboard / hit the key`；`key in`；
+④==**（音乐的）调**== `key of C major / change key`；
+⑤==**答案，题解**== `answer key / key to the problem`；
+**adj.** ①==**关键的，至关重要的**== `key issue / key decision / key player`；`key question`；
+②==**主要的**== `key role / key appointment`；
+**vt.** ①==**用键盘输入**== `key sth in / key in data`；
+②==**调节……的音调**== `key sth to a certain pitch`；
+③==**使适应**== `key sth to sth`；
 
 > [!tip] 原型义
 > **原型义**：开锁的金属片（插入锁孔转动以打开锁的工具）
@@ -145,10 +152,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education plays a key role in economic development."（教育在经济发展中起着关键作用）——考研写作/翻译最高频句式之一
-> - "Confidence is a key factor in any sport."（信心是任何运动中的关键因素）——考研阅读常见搭配
-> - "the key to solving the problem"（解决问题的关键）——学术/分析类文本高频表达
-> - "key decisions"（关键决策）——商业/政治类阅读常见搭配
+> - "Education plays a key role in economic development." `[COCA-ACAD]`
+> - "Education is likely to be a key issue in the next election." `[COCA-NEWS]`
+> - "He is a key player in the organization." `[COCA-ACAD]`
+> - "The key to success is to be ready from the start." `[COCA-ACAD]`
 
 ---
 

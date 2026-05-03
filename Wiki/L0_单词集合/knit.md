@@ -25,8 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**编织，针织**==；②==**使紧密结合，使紧密团结**==；③接合（骨头）；
-**vi.** ①编织；②皱眉，蹙额；
+**vt.** ①==**编织，针织**== `knit a sweater / knit a scarf`；`knit with wool`；
+②==**使紧密结合，使紧密团结**== `a close-knit community / knit together`；`knit sth together`；
+③接合（骨头）`knit the broken bones together`；
+**vi.** ①编织；②皱眉，蹙额 `knit one's brow(s) / knit one's brows in concentration`；
 **n.** ①编织衣物；②编织法；
 
 > [!tip] 原型义
@@ -137,9 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a closely knit community"（紧密团结的社区）——考研阅读常见搭配，描述社会群体关系
-> - "knit the two broken bones together"（接合两块断骨）——医学/科普类阅读语境
-> - "knit one's brows"（皱眉）——文学类文本中描述人物表情
+> - "We are a very close-knit family." `[COCA-ACAD]`
+> - "The author creates several storylines, then gracefully knits them together by the end of the novel." `[COCA-ACAD]`
+> - "The bone hasn't knitted together properly." `[COCA-ACAD]`
+> - "Globally competitive firms knit together national competitive advantages to make things in the most cost-effective locations." `[COCA-ACAD]`
 
 ---
 
