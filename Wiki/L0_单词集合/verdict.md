@@ -131,8 +131,9 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The jury reached a verdict of guilty after hours of deliberation."（陪审团经过数小时的审议后做出了有罪裁决。）——考研高频表达
-> - "The public verdict on the new policy has been largely negative."（公众对新政策的评价大体上是负面的。）——考研高频表达
+> - Voters gave their verdict on the government's economic record last night by voting overwhelmingly for the opposition . `[例]`
+> - City planners think it’s a good idea to ban traffic from downtown streets , but the public’s verdict is that it’s a stupid idea . `[例]`
+> - We disagree with this jury's verdict. `[例]`
 
 ---
 

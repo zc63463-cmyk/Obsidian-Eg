@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "teenage pregnancy rates have declined"（少女怀孕率已下降）——考研阅读中社会/健康类话题
-> - "teenager behavior is influenced by social media"（青少年行为受社交媒体影响）——社会/科技类话题
-> - "the teenage years are a critical period"（青少年时期是关键期）——教育/心理学类文本
-> - "teenage depression"（青少年抑郁）——健康/社会类话题
+> - The magazine is aimed at teenagers and young adults . `[例]`
+> - He was a bit of a rebel when he was a teenager and dyed his hair pink and had his nose pierced . `[例]`
+> - As a teenager, Clare was always getting on the wrong side of her mother . `[例]`
+> - Many parents find it hard to relate to their children when they are teenagers. `[例]`
 
 ---
 

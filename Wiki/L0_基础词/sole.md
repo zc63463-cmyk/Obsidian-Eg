@@ -137,8 +137,9 @@ sole 有两个不同的词源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sole purpose of this regulation is to ensure that all citizens have equal access to public services regardless of their economic background."（这项法规的唯一目的是确保所有公民无论经济背景如何，都能平等地获得公共服务——考研阅读法律话题相关表达）
-> - "As the sole survivor of the devastating earthquake, she dedicated the rest of her life to humanitarian work in disaster-stricken areas."（作为这场毁灭性地震的唯一幸存者，她将余生奉献给了灾区的人道主义工作——考研翻译社会话题相关表达）
+> - My sole objective is to make the information more widely available . `[例]`
+> - The sole survivor of the accident was found in the water after six hours . `[例]`
+> - She has sole responsibility for the project . `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ ampl-(=ample, 大的，充足的) + -ify(使动后缀，使……化) → 使变
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This landscape seemed to trap and amplify sounds."（这种地形好像能聚拢和放大声音。——考研阅读类表达）
-> - "These amplify the effects of other factors."（这放大了其他因素的影响。——考研阅读常见表达）
+> - A funeral can amplify the feelings of regret and loss for the relatives . `[例]`
+> - She refused to amplify further. `[例]`
+> - You may need to amplify this point. `[例]`
 
 
 ---

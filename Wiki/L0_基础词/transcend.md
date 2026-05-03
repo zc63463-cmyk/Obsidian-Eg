@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**超越，超出**==；②胜过，优于；
+**v.** ①==**超越，超出**== `V`；②==**胜过，优于**== `V`；
 
 > [!tip] 原型义
 > **原型义**：越过（攀爬）界限——从一端攀爬到另一端之上
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Great art has the power to transcend cultural boundaries and speak to the universal human experience."（伟大的艺术有能力超越文化边界，诉诸普遍的人类经验）
-> - "The scientist's work transcends the limitations of current technology."（这位科学家的工作超越了当前技术的局限）
+> - The best films are those which transcend national or cultural barriers . `[例]`
+> - The underlying message of the film is that love transcends everything else . `[例]`
+> - The group makes music that transcends traditional pop categories . `[例]`
 
 
 ---

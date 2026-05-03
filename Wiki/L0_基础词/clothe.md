@@ -126,8 +126,9 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He worked hard to feed and clothe his family."（他努力工作养家糊口）
-> - "The mountains were clothed in mist."（群山被薄雾笼罩）
+> - It costs a lot to feed and clothe five children . `[例]`
+> - They have eight kids to feed and clothe. `[例]`
+> - They clothe their children in the latest fashions. `[例]`
 
 
 ---

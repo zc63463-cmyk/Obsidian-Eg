@@ -120,7 +120,9 @@ fore-(前面) + head(头)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He wiped the sweat from his forehead and continued working."（他擦去额头的汗水，继续工作——考研阅读常见描写）
+> - She's got a high forehead. `[例]`
+> - She wiped the beads of sweat from her forehead. `[例]`
+> - You haven't got a temperature ," she said, touching the boy's forehead. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**延长，拉长**== ;
+**v.** ①==**延长，拉长**== `V` ;
 
 > [!tip] 原型义
 > **原型义**：向前拉长（to lengthen forward / to draw out）
@@ -128,8 +128,9 @@ pro-(向前) + [[tract|tract→拉]](拉/拖) → prolong（tract在词尾弱化
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It identifies the undertreatment of pain and the aggressive use of ineffectual and forced medical procedures that may prolong and even dishonor the period of dying as the twin problems of end-of-life care."（它确定了临终关怀护理中存在的两个问题：对病痛处理不足和大胆使用无效且强制的医疗程序，这些程序可能会延长甚至有损死亡的过程——2002年考研Text 4）
-> - "On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying."（在另一层面，很多医学界的人承认，协助自杀争议部分是由于病人极度绝望引起的，对他们而言，现代医学延长了他们死亡前的肉体痛苦——2002年考研Text 4）
+> - We were having such a good time that we decided to prolong our stay by another week . `[例]`
+> - She chewed each delicious mouthful as slowly as she could, prolonging the pleasure . `[例]`
+> - They’re trying to prolong their lives . `[例]`
 
 
 ---

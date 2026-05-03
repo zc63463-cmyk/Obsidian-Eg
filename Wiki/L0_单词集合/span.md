@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "short attention spans"（短暂的注意力持续时间）——考研阅读高频搭配，描述青少年/现代人注意力问题
-> - "span several decades"（跨越数十年）——考研阅读常见，描述历史事件的时间跨度
-> - "a career spanning 30 years"（长达30年的职业生涯）——考研翻译/阅读中人物介绍类话题
+> - Over a span of just three years , the new government has transformed the country's economic prospects . `[例]`
+> - Huge wings with a span of over a metre. `[例]`
+> - The bridge crosses the river in a single span. `[例]`
 
 ---
 

@@ -142,10 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a taste of freedom"（自由的滋味）——考研阅读中文学/社会类文本常见比喻
-> - "acquire a taste for classical music"（培养对古典音乐的爱好）——文化/教育类话题
-> - "in bad taste"（不得体的）——社会评论类文本中评价行为
-> - "leave a bitter taste"（留下苦涩的印象）——情感/评价类表达
+> - Olives are usually an acquired taste (= you only like them after you have become familiar with their taste) . `[例]`
+> - When you have a cold you often lose your sense of taste. `[例]`
+> - She came home from Europe with a taste for art and the finer things in life . `[例]`
+> - Have a taste of the sauce and tell me if it needs salt . `[例]`
 
 ---
 

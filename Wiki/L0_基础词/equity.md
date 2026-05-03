@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The issue of equity in education has drawn widespread attention.（教育公平问题引起了广泛关注——考研阅读/写作常见话题）
-> - Home equity loans allow homeowners to borrow against the value of their property.（房屋净值贷款允许房主以其房产价值为抵押借款——考研经济类阅读）
+> - The rights give holders the opportunity to purchase additional equity interests in the company at a big discount . `[例]`
+> - A society based on equity and social justice. `[例]`
+> - How much equity do you have in your home ? `[例]`
 
 
 ---

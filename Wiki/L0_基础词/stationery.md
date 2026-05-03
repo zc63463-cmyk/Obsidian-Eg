@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She went to the stationery store to buy pens, notebooks, and envelopes."（她去文具店买了笔、笔记本和信封。）
-> - "The company's logo was printed on all its official stationery."（公司的标志印在所有官方信纸上。）
+> - I got these folders at the stationery store . `[例]`
+> - The company realized it was spending too much on stationery. `[例]`
+> - The logo featured on the letterhead stationery for the Association. `[例]`
 
 
 ---

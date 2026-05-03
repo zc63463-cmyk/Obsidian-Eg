@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Small businesses are feeling the squeeze as rising costs and declining consumer spending put pressure on their already thin profit margins."（随着成本上升和消费者支出下降对它们本已微薄的利润空间造成压力，小企业感受到了经济拮据——考研阅读经济话题相关表达）
-> - "The government managed to squeeze additional revenue from taxation reforms, though critics argued it placed an unfair burden on middle-income families."（政府设法通过税收改革榨取了额外收入，但批评者认为这给中等收入家庭带来了不公平的负担——考研阅读政治经济话题相关表达）
+> - As she waited to go into the exam , he squeezed her hand (= pressed it affectionately with his hand ) and wished her good luck . `[例]`
+> - Once he had finished cleaning the floor , he squeezed the cloth out. `[例]`
+> - He reloaded the gun , took aim , and then squeezed (= pulled back) the trigger . `[例]`
 
 
 ---

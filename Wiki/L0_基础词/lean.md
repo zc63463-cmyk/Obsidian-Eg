@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They all seem to look alike — lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside."（他们看起来都很相似——瘦削、棱角分明、专注的面孔，穿着牛仔裤和凉鞋，吃着面包，晚上就在外面的石板上过夜。——考研阅读高频表达）
-> - "Friedman relies on a lean staff of 20 in Austin."（弗里德曼在奥斯汀市只有20人的精干职员队伍。——2003年考研英语一Text 1）
+> - She leaned forward and whispered something in my ear . `[例]`
+> - I sat down next to Bernard, who leaned over to me and said "You're late. `[例]`
+> - That fence is leaning to the right . `[例]`
 
 
 ---

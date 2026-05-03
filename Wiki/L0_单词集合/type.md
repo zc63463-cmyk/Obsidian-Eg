@@ -127,8 +127,9 @@ type 源自希腊语 typos（印记、打击的痕迹），与拉丁语 typus �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers wanted to know if the optimism and inclination for risk-taking that come with happiness would influence the way companies invested."（研究人员想知道伴随幸福而来的乐观主义和冒险倾向是否会影响公司的投资方式。）——2016考研英语二完形
-> - "This type of research requires a multidisciplinary approach."（这种类型的研究需要多学科的方法。）——考研高频表达
+> - How insidious is this type of citation manipulation? `[真题]`
+> - In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation. `[真题]`
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
 
 ---
 

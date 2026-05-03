@@ -127,8 +127,9 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Journalists should maintain a neutral stance when reporting on political conflicts."（记者在报道政治冲突时应保持中立立场。——考研写作高频表达）
-> - "Switzerland was neutral during the war."（瑞士在战争期间保持了中立。——剑桥词典例句）
+> - If there's an argument between my daughter and her mother , it's important that I remain neutral. `[例]`
+> - Switzerland was neutral during the war. `[例]`
+> - The peace conference would have to be held in a neutral country . `[例]`
 
 
 ---

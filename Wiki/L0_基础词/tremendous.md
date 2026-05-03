@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**巨大的，极大的**==；②==**极好的，了不起的**==；③惊人的；
+**adj.** ①==**巨大的，极大的**== `adj`；②==**极好的，了不起的**== `adj`；③==**惊人的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：巨大的、极好的（大到令人颤抖的程度）
@@ -132,8 +132,9 @@ trem(颤抖，拉丁语 *tremere*) + -end(名词后缀) + -ous(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the Internet has had a tremendous impact on society."（互联网的发明对社会产生了巨大的影响。——考研阅读高频表达）
-> - "Pielke said that climate change is an important problem requiring our utmost attention."（皮尔克说气候变化是一个需要我们极度关注的重要问题。——考研阅读，utmost 与 tremendous 语义相近）
+> - They were making a tremendous amount of noise last night . `[例]`
+> - She's been a tremendous (= very great ) help to me over the last few months . `[例]`
+> - You won ? That's tremendous! `[例]`
 
 
 ---

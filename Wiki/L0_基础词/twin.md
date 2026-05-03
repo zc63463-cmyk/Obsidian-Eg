@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**双胞胎之一**==；②两个非常相似的人/物；
-**adj.** ①双胞胎的；②成对的，完全相同的；
-**v.** ①使成对；②与……相似；
+**n.** ①==**双胞胎之一**== `N`；②==**两个非常相似的人/物**== `N`；
+**adj.** ①==**双胞胎的**== `adj`；②==**成对的，完全相同的**== `adj`；
+**v.** ①==**使成对**== `V N`；②==**与……相似**== `V`；
 
 > [!tip] 原型义
 > **原型义**：成双的（两个一起的）
@@ -128,7 +128,9 @@ twin 源自古英语 *twinn*（双倍的、成对的），原始日耳曼语 *\*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Studies on identical twins raised apart suggest that both genes and environment play significant roles in shaping personality.（对分开抚养的同卵双胞胎的研究表明，基因和环境在塑造个性方面都起着重要作用。）
+> - My sister has twin sons . `[例]`
+> - The two countries are often regarded as economic twins. `[例]`
+> - A car with twin exhausts. `[例]`
 
 
 ---

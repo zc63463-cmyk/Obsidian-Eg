@@ -127,9 +127,9 @@ ex-（完全/向外）+ plan（平坦/清楚）+ -ation（名词后缀）→ 完
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scientist offered a plausible explanation for the phenomenon."（科学家为这一现象提供了一个合理的解释。）
-> - "There is no easy explanation for the rise in crime rates."（犯罪率上升没有简单的解释。）
-> - explanation 是考研阅读中论证分析类话题的高频词
+> - This is a good explanation of the difference between " affect " and " effect ". `[例]`
+> - Could you give me a quick explanation of how it works ? `[例]`
+> - What was her explanation for why she was late? `[例]`
 
 ---
 

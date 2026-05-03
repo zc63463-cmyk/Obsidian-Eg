@@ -134,9 +134,9 @@ all（全部）+ one（一个）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Feelings of righteous indignation, it seems, are not the preserve of people alone."（看来，义愤感似乎不是人类独有的——2005年英语一Text 1）
-> - "Also unclear is why Microsoft has gone it alone."（同样不清楚的是微软为何要甩开其他公司单干——考研阅读高频表达）
-> - "I find courage an essential quality for the understanding, let alone the performance of his works."（我发现勇气是理解其作品的一个重要品质，更不用说表演他的作品了——考研翻译高频句）
+> - He likes being alone in the house . `[例]`
+> - She decided to climb the mountain alone. `[例]`
+> - Do you like living alone? `[例]`
 
 
 ---

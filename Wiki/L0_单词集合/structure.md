@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The structure of DNA was one of the most important scientific discoveries of the 20th century."（DNA的结构是20世纪最重要的科学发现之一。）——考研高频表达
-> - "The social structure of the community has undergone significant changes in recent decades."（近几十年来，这个社区的社会结构发生了重大变化。）——考研高频表达
+> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+> - The structure of this protein is particularly complex . `[例]`
+> - They have a very old-fashioned management structure. `[例]`
 
 ---
 

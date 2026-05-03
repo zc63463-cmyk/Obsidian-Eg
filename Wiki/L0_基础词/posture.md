@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Sitting in front of a computer for prolonged periods can lead to poor posture and chronic back pain."（长时间坐在电脑前会导致不良姿势和慢性背痛——考研阅读健康话题相关表达）
-> - "The government adopted a tough posture on trade negotiations, refusing to make concessions on key issues."（政府在贸易谈判中采取了强硬立场，拒绝在关键问题上做出让步——考研阅读政治话题相关表达）
+> - For the third time this week the opposition has attacked the government's posture on defence . `[例]`
+> - The tone of the feminist speakers suggested they were adopting a somewhat defensive posture. `[例]`
+> - Businesses were co-operating across regional divides while the politicians postured. `[例]`
 
 
 ---

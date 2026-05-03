@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "make a difference"（有影响/起作用）——考研阅读/写作极高频搭配，常用于论述个人或政策的影响
-> - "the difference between A and B"（A 与 B 的差异）——考研阅读中对比论证的核心表达
-> - "cultural differences"（文化差异）——考研阅读中社会文化类文章常见主题
+> - What's the difference between an ape and a monkey ? `[例]`
+> - Is there any significant difference in quality between these two items ? `[例]`
+> - They had a terrible argument a few weeks ago, but now they've settled their differences. `[例]`
 
 ---
 

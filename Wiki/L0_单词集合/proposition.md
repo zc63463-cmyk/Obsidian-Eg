@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**命题，论点，主张**==；②==**提议，建议**==（尤指商业上的）；③==**待处理的事，任务**==（非正式）；
+**n.** ①==**命题，论点，主张**== `N`；②==**提议，建议**== `N`（尤指商业上的）；③==**待处理的事，任务**== `N`（非正式）；
 
 > [!tip] 原型义
 > **原型义**：向前放置的东西（把想法"放"到对方面前→命题/主张/提议）
@@ -131,8 +131,9 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company presented a new business proposition to the investors."（公司向投资者提出了一项新的商业提案。——剑桥词典例句）
-> - "I am not sure if I agree with the proposition put forward by the professor."（我不确定我是否同意教授提出的命题。——词汇宝例句）
+> - He wrote to me last week regarding a business proposition he thought might interest me. `[例]`
+> - They were debating the proposition that "All people are created equal ". `[例]`
+> - Pythagoras's theorem is the mathematical proposition that in any right-angled triangle , the square on the hypotenuse is equal to the sum of the squares on the other two sides . `[例]`
 
 
 ---

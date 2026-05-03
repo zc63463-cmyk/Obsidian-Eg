@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**编成法典，编纂**== `V N` [正面/正式]；②将（规则、原则）系统化整理；
+**v.** ①==**编成法典，编纂**== `V`；②==**将（规则、原则）系统化整理**== `V`；
 
 > [!tip] 原型义
 > **原型义**：编成法典（将规则系统化地整理成典）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The new government sought to codify the existing legal traditions into a unified code. `[例]`
-> - The company codified its best practices into a comprehensive manual. `[例]`
+> - The essential function of our organization is to codify best banking practice . `[例]`
+> - Instead of simply developing our morals from custom, and therefore codifying them into law as in the school they are now boldly criticised, as in part if not in whole, hindrances to a better state of things. `[例]`
 
 ## 复习记录
 

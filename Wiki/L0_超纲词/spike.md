@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（价格、数量等的）骤增，激增**==；②尖钉，尖刺；③（体育）钉鞋；
-**v.** ①（使）急剧上升；②用尖钉钉住；③在饮料中偷偷加入（酒精/药物）；
+**n.** ①==**（价格、数量等的）骤增，激增**== `N`；②==**尖钉，尖刺**== `N`；③==**（体育）钉鞋**== `N`；
+**v.** ①==**（使）急剧上升**== `V`；②==**用尖钉钉住**== `V`；③==**在饮料中偷偷加入（酒精/药物）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：尖锐的突起物（尖钉、尖刺的形状——突然向上突出）
@@ -128,7 +128,8 @@ spike（源自古英语 *spiku*，与 spoke"辐条"同源，意为"尖锐的东�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "There was a sharp spike in oil prices following the geopolitical crisis."（地缘政治危机之后，油价出现了急剧飙升。）
+> - There were large spikes on top of the railings to stop people climbing over them. `[例]`
+> - Some types of dinosaur had sharp spikes on their tails . `[例]`
 
 ## 复习记录
 

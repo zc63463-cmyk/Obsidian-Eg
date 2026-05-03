@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The development of fine motor skills in early childhood is crucial for later academic success."（幼儿期精细运动技能的发展对后来的学业成功至关重要）
-> - "Electric motors are far more energy-efficient than internal combustion engines."（电动机比内燃机的能效高得多）
+> - The pump is powered by a small electric motor. `[例]`
+> - Our washing machine needs a new motor. `[例]`
+> - A car stood by the curb , its motor (= engine ) running . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**身无分文的，一文不名的**==；②没有钱的，破产的；
+**adj.** ①==**身无分文的，一文不名的**== `adj`；②==**没有钱的，破产的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：钱被剥光的状态（像皮肤被剥掉一样，什么都没剩下）
@@ -123,7 +123,8 @@ skint（源自方言，与 skin"皮肤"相关，意为"被剥去皮的"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "I can't come out tonight — I'm completely skint until payday."（我今晚出不来了——到发工资前我身无分文。）
+> - I get paid each Friday , and by Tuesday I'm always skint. `[例]`
+> - It was just after Christmas when everyone is totally skint. `[例]`
 
 ## 复习记录
 

@@ -125,8 +125,9 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The actor was accused of hamming it up in the dramatic scene."（这位演员被指责在戏剧场景中表演过火——ham it up 为口语化表达）
-> - "Ham radio operators played a crucial role in emergency communications."（业余无线电操作员在紧急通信中发挥了关键作用——ham radio 为固定搭配）
+> - They had some dreadful old ham in the main part . `[例]`
+> - His critics wrote him off as a ham actor . `[例]`
+> - A radio ham picked up their signal and called the coastguard . `[例]`
 
 
 ---

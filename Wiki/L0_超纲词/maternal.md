@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**母亲的，母亲般的**== `adj N` [中性]；②==**母系的**== `adj N` [中性/学术]；
+**adj.** ①==**母亲的，母亲般的**== `adj`；②==**母系的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：母亲的（与母亲相关的）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Studies have shown that maternal care in the early years of life has a profound impact on a child's emotional development. [C]
-> - `[例]` She inherited the family estate through her maternal lineage, tracing the property back to her great-grandmother. [C]
+> - She is very maternal towards her employees . `[例]`
+> - Her maternal grandmother (= mother's mother ) is still alive . `[例]`
 
 ## 复习记录
 

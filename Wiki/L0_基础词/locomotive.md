@@ -122,7 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the steam locomotive revolutionized transportation in the 19th century."（蒸汽机车的发明彻底改变了19世纪的交通方式——考研阅读科技史类话题）
+> - The locomotive ability of spiders. `[例]`
+> - From the design and engineering of passenger coaches to the precision of locomotive overhauls, digital twin technology enables predictive maintenance and performance optimization, ensuring safer and more efficient travel. `[例]`
+> - Cap it all at Headhunters Barber Shop and Railway Museum, a wonderfully oddball combination of locomotive lore and local haircuts—proving that even here, life runs on its own, distinctly Irish track. `[例]`
 
 
 ---

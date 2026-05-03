@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Pope delivered a historic address to the United Nations, calling for global action on climate change and poverty."（教皇在联合国发表了历史性演讲，呼吁全球采取行动应对气候变化和贫困——考研阅读宗教/政治话题相关表达）
-> - "Throughout the Middle Ages, the Pope wielded considerable political influence, often mediating conflicts between European monarchs."（在整个中世纪，教皇拥有相当大的政治影响力，经常调解欧洲君主之间的冲突——考研阅读历史话题相关表达）
+> - The election of a new pope can be a lengthy procedure . `[例]`
+> - The Pope has visited South America this year . `[例]`
+> - The Pope has recently returned to the Vatican . `[例]`
 
 
 ---

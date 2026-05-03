@@ -131,8 +131,9 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose and what guides it in evolutionary or cognitive terms."（从共性中筛选出个性，可能使我们能够理解复杂的文化行为是如何产生的，以及是什么在进化或认知层面引导着它。——2012年考研翻译）
-> - "The different shapes of the containers suggest they were used to brew, filter, and store beer."（这些容器形状各异，表明它们曾被用来酿造、过滤和储存啤酒。——考研阅读）
+> - Ozone is the earth's primary filter for ultraviolet radiation . `[例]`
+> - I like to experiment with different light filters on my camera . `[例]`
+> - You can apply filters to capture the most relevant data . `[例]`
 
 
 ---

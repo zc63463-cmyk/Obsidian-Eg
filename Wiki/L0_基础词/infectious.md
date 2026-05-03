@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The success of efforts over the last century to combat infectious diseases has almost doubled average life expectancy in the western world."（过去一个世纪抗击传染性疾病的努力几乎使西方世界的平均预期寿命翻了一番。——考研阅读类表达）
-> - "Measles is a highly infectious disease."（麻疹是一种传染性很强的疾病。——考研翻译类表达）
+> - After the 21-day isolation period , Ebola survivors are no longer infectious. `[例]`
+> - Flu is highly infectious. `[例]`
+> - Viruses and other infectious agents. `[例]`
 
 
 ---

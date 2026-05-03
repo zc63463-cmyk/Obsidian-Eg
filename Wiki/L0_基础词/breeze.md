@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**微风，和风**== `a adj N`；②容易做的事 `N`；
-**v.** ①==**轻盈而自信地走**== `V`；②轻松通过 `V through N`；
+**n.** ①==**微风，和风**==；②容易做的事；
+**v.** ①==**轻盈而自信地走**==；②轻松通过；
 
 > [!tip] 原型义
 > **原型义**：轻柔的微风（温和、令人舒适的风）
@@ -126,10 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She breezed through the interview and got the job." `[COCA-FIC]`
-> - "A gentle breeze was blowing from the ocean." `[COCA-FIC]`
-> - "She had missed the smell of the sea, the salty tang to the breeze that brushed her cloak and her hair." `[COCA-FIC]`
-> - "Crickets were singing loudly up here, and a gentle breeze stirred the leaves of the cypresses." `[COCA-FIC]`
+> - You won't have any problems with the entrance test - it's an absolute breeze. `[例]`
+> - She just breezed in as if she'd only been away a day instead of a year . `[例]`
+> - The celebrity breezed through the lobby . `[例]`
 
 
 ---

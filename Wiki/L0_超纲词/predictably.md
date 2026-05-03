@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**可预测地，不出所料地**==；②==**老套地，缺乏新意地**==；
+**adv.** ①==**可预测地，不出所料地**== `adv`；②==**老套地，缺乏新意地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：可预测地（按照预期的方式发生）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Predictably, the company blamed the economic downturn for its poor performance."（不出所料，该公司将业绩不佳归咎于经济衰退。）
+> - Predictably, after the initial media interest , the refugees now seem to have been forgotten . `[例]`
+> - Prices were predictably high. `[例]`
 
 ## 复习记录
 

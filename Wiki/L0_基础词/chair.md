@@ -128,8 +128,9 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Bob Herz, the FASB's chairman, cried out against those who 'question our motives.'"（FASB主席鲍勃·赫尔兹对那些"质疑我们动机"的人发出了抗议——2010年考研英语阅读Text 2）
-> - "John Chambers, chairman of Cisco Systems Inc., says that 'we compete against market transitions, not competitors.'"（思科系统公司董事长约翰·钱伯斯说"我们与市场转型竞争，而非与竞争对手竞争"——六级/考研通用语料）
+> - Who will take the chair at the next meeting ? `[例]`
+> - All questions should be addressed to the chair. `[例]`
+> - She is the chair of the board of governors at a local school . `[例]`
 
 
 ---

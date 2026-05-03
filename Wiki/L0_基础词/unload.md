@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**卸货，卸下**==；②==**倾吐（心事），发泄**==（unload one's troubles）；③==**摆脱（负担）**==；
+**v.** ①==**卸货，卸下**== `V`；②==**倾吐（心事），发泄**== `V`（unload one's troubles）；③==**摆脱（负担）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：卸货（把货物从车上或船上卸下）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Dockers started unloading the ship."（码头工人开始卸货——新东方词典例句）
-> - "Mary began to unload her trouble onto her mother."（玛丽开始把她的烦恼告诉她的母亲——新东方词典例句）
+> - We watched a ship unloading ( sacks of flour ). `[例]`
+> - I've been unloading my worries on poor Ann here. `[例]`
+> - I was so stressed out, I just needed to unload. `[例]`
 
 
 ---

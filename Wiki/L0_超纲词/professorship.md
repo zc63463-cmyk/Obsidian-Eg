@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**教授职位，教授身份**==；
+**n.** ①==**教授职位，教授身份**== `N`；
 
 > [!tip] 原型义
 > **原型义**：教授职位（担任教授的身份和地位）
@@ -124,7 +124,8 @@ professor（教授）+ -ship（名词后缀，表示身份/职位/状态）= 教
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was awarded a professorship at Cambridge for her groundbreaking research in genetics."（因在遗传学领域的开创性研究，她被授予剑桥大学的教授职位。）
+> - She was appointed to a professorship in Economics at Princeton. `[例]`
+> - The Regius Professorship of Moral and Pastoral Theology was established by an Act of Parliament in 1840. `[例]`
 
 ## 复习记录
 

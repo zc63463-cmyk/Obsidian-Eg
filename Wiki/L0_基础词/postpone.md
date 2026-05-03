@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Due to the severe weather conditions, the university decided to postpone the entrance examination to a later date."（由于恶劣的天气条件，大学决定将入学考试推迟到更晚的日期——考研阅读教育话题相关表达）
-> - "Rather than postponing the decision indefinitely, the committee should take decisive action to address the issue."（委员会不应无限期推迟决定，而应采取果断行动来解决这个问题——考研阅读社会话题相关表达）
+> - They decided to postpone their holiday until next year . `[例]`
+> - We've had to postpone go ing to France because the children are ill . `[例]`
+> - The trip has been postponed twice . `[例]`
 
 
 ---

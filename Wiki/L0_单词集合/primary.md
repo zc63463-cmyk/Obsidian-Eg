@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**首要的，主要的**==；②最初的，初级的；③初等教育的；
+**adj.** ①==**首要的，主要的**== `adj`；②==**最初的，初级的**== `adj`；③==**初等教育的**== `adj`；
 
-**n.** ①初选；②原色；
+**n.** ①==**初选**== `N`；②==**原色**== `N`；
 
 > [!tip] 原型义
 > **原型义**：首要的（排在第一位的）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The primary purpose of education is not merely to transmit knowledge but to cultivate critical thinking."（教育的主要目的不仅仅是传授知识，而是培养批判性思维。）——考研高频表达
-> - "Poverty remains the primary cause of malnutrition in many developing countries."（贫困仍然是许多发展中国家营养不良的主要原因。）——考研高频表达
+> - The Red Cross's primary concern is to preserve and protect human life . `[例]`
+> - The primary responsibility lies with those who break the law . `[例]`
+> - We met at primary school , and have been best friends ever since. `[例]`
 
 ---
 

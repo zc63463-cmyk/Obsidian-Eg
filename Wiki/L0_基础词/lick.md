@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The flames licked at the dry wood."（火焰舔舐着干燥的木材。——常见文学用法）
-> - "He gave the stamp a quick lick and stuck it on the envelope."（他快速舔了一下邮票，贴在了信封上。——日常用法）
+> - He licked the chocolate off his fingers . `[例]`
+> - She licked the stamps and stuck them on the parcel . `[例]`
+> - Within a few seconds flames were licking at the curtains . `[例]`
 
 
 ---

@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The chef sprinkled fresh herbs over the dish before serving, adding both flavor and visual appeal."（厨师在上菜前在菜肴上撒了新鲜香草，既增添了风味又提高了视觉效果——考研阅读饮食文化话题相关表达）
-> - "The night sky was sprinkled with countless stars, creating a breathtaking view that attracted tourists from around the world."（夜空点缀着无数星星，形成了吸引世界各地游客的壮丽景色——考研阅读旅游话题相关表达）
+> - The speech was liberally sprinkled with (= contained many) jokes about the incident . `[例]`
+> - Scatter sprinkles over the top of the cake and press on them gently so that they stick to the chocolate . `[例]`
+> - We might get a sprinkle today. `[例]`
 
 
 ---

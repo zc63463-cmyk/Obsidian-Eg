@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Adding too many new members could dilute the organization's sense of identity and purpose."（增加过多新成员可能会淡化组织的认同感和目标。）——考研高频表达
-> - "The company's core values should not be diluted in the pursuit of short-term profits."（公司不应在追求短期利润的过程中淡化其核心价值观。）——考研高频表达
+> - After the stock is done and strained , you can dilute it as necessary . `[例]`
+> - These measures are designed to dilute public fears about the product's safety . `[例]`
+> - Dilute the bleach in water before adding it to the wash . `[例]`
 
 ---
 

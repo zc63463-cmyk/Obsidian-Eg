@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The **demographic** shift towards an aging population poses significant challenges for healthcare systems.（人口结构向老龄化转变给医疗保健系统带来了重大挑战。）
-> - The company uses **demographic** data to target its advertising more effectively.（公司利用人口统计数据来更有效地进行定向广告。）
-> - China's **demographic** dividend has been a key driver of its economic growth.（中国的人口红利一直是其经济增长的关键驱动力。）
+> - There have been monumental social and demographic changes in the country . `[例]`
+> - This demographic ( young teenagers ) is the fastest-growing age group using the site . `[例]`
+> - More than any other demographic group , it is the educated young adult who has been the industry’s favorite customer . `[例]`
 
 ---
 

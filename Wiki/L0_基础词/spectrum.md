@@ -133,8 +133,9 @@ spectr(看/影像，[[spec-spect]]的变体) + -um(名词后缀：表示结果�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy is designed to address a broad spectrum of social issues, from education to healthcare."（新政策旨在解决广泛的社会问题，从教育到医疗。——考研英语阅读政策类话题，broad spectrum of 高频表达）
-> - "Opinions on the issue vary widely across the political spectrum, with no consensus in sight."（对这一问题的意见在政治光谱上差异很大，看不到达成共识的希望。——考研英语阅读政治类话题，political spectrum 高频表达）
+> - The colours of the spectrum - red , orange , yellow , green , blue , indigo , and violet - can be seen in a rainbow . `[例]`
+> - He has support from across the whole political spectrum. `[例]`
+> - The group includes students from both ends of the social spectrum (= range of social classes ) . `[例]`
 
 
 ---

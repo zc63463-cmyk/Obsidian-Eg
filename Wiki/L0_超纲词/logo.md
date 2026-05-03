@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标识，商标，标志**== `N N` [商业]；`V N` [商业]；
+**n.** ①==**标识，商标，标志**== `N`；
 
 > [!tip] 原型义
 > **原型义**：用文字/符号代表某物（来自希腊语 *logos* = 词、话语→logogram = 用符号代表词→logo = 标志）
@@ -123,8 +123,8 @@ log-（来自希腊语 *logos*，词、话语、理性）→ logo（logogram 的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` "The company's logo, a simple swoosh, has become one of the most recognized symbols in the world."
-> - `` `[例]` `` "Apple's bitten apple logo is instantly recognizable across the globe."
+> - The players wore shirts with the sponsor's logo. `[例]`
+> - Athletes are all wearing the sneaker company’s logo. `[例]`
 
 ## 复习记录
 

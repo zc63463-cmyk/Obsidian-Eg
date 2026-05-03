@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**提名，推荐**==；②==**任命，指派**==；
+**v.** ①==**提名，推荐**== `V`；②==**任命，指派**== `V`；
 
 > [!tip] 原型义
 > **原型义**：提名（正式提出某人的名字作为候选人，源自拉丁语 *nominare* "命名/提名"）
@@ -125,8 +125,9 @@ nomin-（名字，拉丁语 *nomen*）+ -ate（动词后缀，"使……/做…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 1967 Johnson nominated Thurgood Marshall to the Supreme Court."（1967年，约翰逊任命瑟古德·马歇尔为最高法院大法官。——通用例句）
-> - "We expect the party to nominate him for president."（我们预计该党会提名他为总统候选人。——通用例句）
+> - He's been nominated by the Green Party as their candidate in the next election . `[例]`
+> - Would you like to nominate anyone for director ? `[例]`
+> - The film was nominated for an Academy Award . `[例]`
 
 
 ---

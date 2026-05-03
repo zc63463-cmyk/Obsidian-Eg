@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**免费的（电话），免长途费的**==；②（道路等）不收费的；
+**adj.** ①==**免费的（电话），免长途费的**== `adj`；②==**（道路等）不收费的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：免费的（不收取费用的，尤指电话）
@@ -121,8 +121,8 @@ toll（通行费，电话费）+ free（免费的）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Customers can call our toll-free number for assistance."（客户可以拨打我们的免费电话寻求帮助）
-> - "The new toll-free highway has significantly reduced travel time."（新的免费公路大大缩短了旅行时间）
+> - Call us on one of our toll-free numbers . `[例]`
+> - Call toll-free after six in the evening . `[例]`
 
 ## 复习记录
 

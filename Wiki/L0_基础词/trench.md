@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**沟渠，壕沟**==；②==**战壕**==；③海沟；
-**v.** ①挖沟，挖战壕；
+**n.** ①==**沟渠，壕沟**== `N`；②==**战壕**== `N`；③==**海沟**== `N`；
+**v.** ①==**挖沟，挖战壕**== `V`；
 
 > [!tip] 原型义
 > **原型义**：沟渠、战壕（在地面挖出的长条形深沟）
@@ -130,8 +130,9 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Serving one's time and surviving combat in battlefield trenches in youth mean promotion for some, but discharge, desertion or death for others."（年轻时在战场战壕中服役并幸存下来，对一些人意味着晋升，但对另一些人则意味着退伍、逃跑或死亡。——考研阅读）
-> - "In my opinion, these methods ought to be supplemented with a systematic survey with narrow trenches."（在我看来，这些方法应该辅以用窄沟进行的系统性调查。——考研翻译类例句）
+> - A workman was killed when the sides of the trench he was working in collapsed . `[例]`
+> - The trenches of the First World War. `[例]`
+> - I dug a trench around the tent to keep rain water from getting in. `[例]`
 
 
 ---

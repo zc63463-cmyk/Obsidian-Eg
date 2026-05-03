@@ -122,8 +122,9 @@ lin(亚麻，拉丁语 *linum*) + -en(形容词/名词后缀，表示"由……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She changed the bed linen and fluffed the pillows."（她换了床单，拍松了枕头）
-> - "It is unwise to wash your dirty linen in public."（家丑不可外扬）
+> - The crumpled charm of linen. `[例]`
+> - You have to bring your own towels , but all bed linen is supplied . `[例]`
+> - She washes the linen every week. `[例]`
 
 
 ---

@@ -131,8 +131,9 @@ fac（做）+ simile（相似）→ facsimile（做成相似的东西）→ 缩�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reservations can be made by letter or fax."（可以通过信件或传真进行预订——商务英语常见表达）
-> - "After you think it over, please let me know by fax."（你仔细考虑之后，请用传真相告——商务英语常见表达）
+> - I'll send you a fax with the details of the proposal . `[例]`
+> - Do you have a fax at home ? `[例]`
+> - These are true fax. `[例]`
 
 
 ---

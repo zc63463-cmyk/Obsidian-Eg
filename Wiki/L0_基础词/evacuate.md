@@ -128,8 +128,9 @@ e-(=ex-, 出/离开) + vacu(=empty, 空，源自拉丁语 *vacuus*) + -ate(动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Residents were evacuated from the coastal areas before the hurricane struck."（飓风来袭前，沿海居民被疏散。）
-> - "The government ordered the evacuation of all civilians from the war zone."（政府下令将所有平民撤离战区。）
+> - The police evacuated the village shortly before the explosion . `[例]`
+> - A thousand people were evacuated from their homes following the floods . `[例]`
+> - When toxic fumes began to drift toward our homes , we were told to evacuate. `[例]`
 
 
 ---

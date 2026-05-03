@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**简化，精简**==；②简单化（的过程或结果）；
+**n.** ①==**简化，精简**== `N`；②==**简单化（的过程或结果）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：使复杂事物变得简单的过程
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The simplification of the application process has attracted more applicants."（申请流程的简化吸引了更多的申请者。）
+> - The organization advises on the simplification of trade procedures . `[例]`
+> - This is a gross simplification of what actually happened . `[例]`
 
 ## 复习记录
 

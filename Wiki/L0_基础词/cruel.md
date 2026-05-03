@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is cruel to make fun of the disabled."（嘲笑残疾人是残忍的）
-> - "The cruel winter killed many crops."（严酷的冬天冻死了许多庄稼）
+> - Don't tease him about his weight - it's cruel. `[例]`
+> - Children can be very cruel to each other. `[例]`
+> - His death was a cruel blow . `[例]`
 
 
 ---

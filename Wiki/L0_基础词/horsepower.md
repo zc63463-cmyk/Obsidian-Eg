@@ -123,8 +123,9 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new model boasts a 300-horsepower engine, a significant improvement over its predecessor."（新款车型配备了300马力的发动机，比前代产品有了显著提升。——考研英语阅读相关语料，科技话题）
-> - "James Watt coined the term 'horsepower' to help market his steam engines."（詹姆斯·瓦特创造了"马力"这个词来帮助推销他的蒸汽机。——考研相关语料）
+> - That architectural firm probably doesn't have the creative horsepower to produce a truly innovative design. `[例]`
+> - The top variant features a tri-motor all-wheel-drive system capable of producing up to 955 horsepower , placing it among the more powerful electric vehicles currently available. `[例]`
+> - The Launch Package version of the 2027 R2 Performance model starts at about $58,000 and features a dual-motor, all-wheel-drive powertrain producing 656 horsepower . `[例]`
 
 
 ---

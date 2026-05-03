@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**镇民，市民**==；②（泛指）城里人；
+**n.** ①==**镇民，市民**== `N`；②==**（泛指）城里人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：镇民，市民（一个城镇的居民）
@@ -122,8 +122,8 @@ town（城镇）+ folk（人们）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The townsfolk were excited about the annual festival."（镇民们对一年一度的节日感到兴奋）
-> - "The new factory provided jobs for the local townsfolk."（新工厂为当地镇民提供了就业机会）
+> - The audience is thrust into 1944 Hartford with townsfolk excited about how the circus is coming to town. `[例]`
+> - Just as the various townsfolk characters are clearly modeled on those that trod the musical boards back in Broadway‘s Golden Age, so too does the score owe its debts. `[例]`
 
 ## 复习记录
 

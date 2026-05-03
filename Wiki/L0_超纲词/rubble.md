@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**瓦砾，碎石**==；②废墟，破瓦残垣；
+**n.** ①==**瓦砾，碎石**== `N`；②==**废墟，破瓦残垣**== `N`；
 
 > [!tip] 原型义
 > **原型义**：碎裂的石头（建筑物倒塌后留下的碎石）
@@ -125,8 +125,8 @@ rubble 为日耳曼语源词汇，可能与 rub（摩擦）有关，无明确前
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The earthquake reduced entire neighborhoods to rubble."（地震将整个街区化为瓦砾。）
-> - "Rescue workers spent hours digging through the rubble to find survivors."（救援人员花了数小时在瓦砾中挖掘寻找幸存者。）
+> - The bomb reduced the house to rubble. `[例]`
+> - The bomb reduced the houses to rubble . `[例]`
 
 ## 复习记录
 

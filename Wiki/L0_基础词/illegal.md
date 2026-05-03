@@ -126,8 +126,9 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is illegal to drive without a valid license."（无有效驾照驾驶是违法的——illegal 为考研阅读/翻译高频词）
-> - "The government has taken measures to combat illegal immigration."（政府已采取措施打击非法移民——illegal immigration 为考研写作常见话题）
+> - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
+> - The bill mentioned in Paragraph 2 was intended to __ _ A. curb short-term rental speculation B. ensure the supply of cheap housing C. punish illegal dealings in housing D. allow a free short-term rental market 28. `[真题]`
+> - A campaign to stop the illegal sale of cigarettes to children under 16. `[例]`
 
 
 ---

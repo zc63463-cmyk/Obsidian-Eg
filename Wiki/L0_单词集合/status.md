@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education is often seen as a means to achieve higher social status."（教育通常被视为获得更高社会地位的手段。）——考研高频表达
-> - "The status of the negotiations remains uncertain after the latest round of talks."（最新一轮谈判后，谈判的进展状况仍然不明朗。）——考研高频表达
+> - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
+> - According to Paragraph 1 , the careers of scientists can be determined by __ A. how many citations their works contain B. how many times their papers are cited C. the prestige of the people they work with D. the status they have in scientific circles 37. `[真题]`
+> - The association works to promote the status of retired people as useful members of the community . `[例]`
 
 ---
 

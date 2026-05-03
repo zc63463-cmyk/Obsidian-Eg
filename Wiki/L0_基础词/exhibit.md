@@ -128,8 +128,9 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The museum is exhibiting a collection of ancient Chinese artifacts."（博物馆正在展出一系列中国古代文物。）
-> - "Children who exhibit aggressive behavior may need professional help."（表现出攻击性行为的儿童可能需要专业帮助。）
+> - He frequently exhibits at the art gallery . `[例]`
+> - In the summer the academy will exhibit several prints that are rarely seen . `[例]`
+> - He exhibited great self-control considering her rudeness . `[例]`
 
 
 ---

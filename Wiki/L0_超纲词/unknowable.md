@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不可知的，无法了解的**==；②超出认知能力的；
+**adj.** ①==**不可知的，无法了解的**== `adj`；②==**超出认知能力的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不可知的（无法被认识的）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Some philosophers argue that the ultimate nature of reality is unknowable."（一些哲学家认为现实的终极本质是不可知的。）
-> - "The exact consequences of climate change remain, to some extent, unknowable."（气候变化的准确后果在某种程度上仍然是不可知的。）
+> - A God whose nature is unknown and unknowable. `[例]`
+> - The truth in this story seems to be elusive and unknowable , and this circles back to your earlier question about what kind of assumptions are made about people with names like Saïd or Tamerlan. `[例]`
 
 ## 复习记录
 

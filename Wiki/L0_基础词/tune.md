@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**曲调，旋律**==；②和谐，协调；
-**v.** ①调音，调整（频率）；②调整，调节（使达到最佳状态）；③调频道；
+**n.** ①==**曲调，旋律**== `N`；②==**和谐，协调**== `N`；
+**v.** ①==**调音，调整（频率）**== `V`；②==**调整，调节（使达到最佳状态）**== `V`；③==**调频道**== `V`；
 
 > [!tip] 原型义
 > **原型义**：音调/旋律（音乐的基本音高单位）
@@ -130,8 +130,9 @@ tune 源自古法语 *ton*，源自拉丁语 *tonus*（音调、声音），最�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Companies need to stay in tune with changing consumer preferences."（公司需要与不断变化的消费者偏好保持一致。）
-> - "He changed his tune when he realized the consequences."（当他意识到后果时，他改变了态度。）
+> - He was humming a tune as he dried the dishes . `[例]`
+> - That's a very catchy tune (= easy to remember and pleasant ) . `[例]`
+> - The piano is out of tune. `[例]`
 
 
 ---

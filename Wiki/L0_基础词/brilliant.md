@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**光辉灿烂的，杰出的**== `adj N`；②==**才华横溢的**== `a adj N`；③（色彩）鲜明的 `adj N`；④极好的 `adj N`；
+**adj.** ①==**光辉灿烂的，杰出的**==；②==**才华横溢的**==；③（色彩）鲜明的；④极好的；
 
 > [!tip] 原型义
 > **原型义**：闪耀着强烈光芒的（如宝石般光彩夺目）
@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She came up with a brilliant solution to the problem." `[COCA-FIC]`
-> - "Einstein was one of the most brilliant scientists of the 20th century." `[COCA-ACAD]`
-> - "She seemed to have a brilliant career ahead of her." `[COCA-FIC]`
-> - "The sky was a brilliant, cloudless blue." `[COCA-FIC]`
+> - Her mother was a brilliant scientist . `[例]`
+> - The idea was quite brilliant. `[例]`
+> - She seemed to have a brilliant career ahead of her (= was likely to be extremely successful ) . `[例]`
 
 
 ---

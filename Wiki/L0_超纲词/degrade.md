@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**贬低，使降级**== `V N to N` [正式]；②==**使退化，使恶化**== `V N` [学术]；③侮辱，贬损（人格）；
+**v..** ①==**贬低，使降级**== `V`；②==**使退化，使恶化**== `V N`；③==**侮辱，贬损（人格）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：降级（从高的等级降到低的等级）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The plastic waste will gradually degrade over centuries under exposure to sunlight. `[例]`
-> - The sergeant was degraded to private for disobeying a direct order from his commanding officer. `[例]`
+> - I will not degrade myself by begging for something that is mine by right . `[例]`
+> - Every day the environment is further degraded by toxic wastes . `[例]`
 
 ## 复习记录
 

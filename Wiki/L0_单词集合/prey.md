@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**猎物，被捕食的动物**== ; ②受害者 ;
-**v.** ①==**捕食**== ; ②折磨，困扰 ;
+**n.** ①==**猎物，被捕食的动物**== `N` ; ②==**受害者 ;**== `N`
+**v.** ①==**捕食**== `V` ; ②==**折磨，困扰 ;**== `V`
 
 > [!tip] 原型义
 > **原型义**：捕获之物（something captured for food）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Cats use a causal-logical understanding of noise or sounds to predict the appearance of invisible objects."（猫利用对噪音或声音的因果逻辑理解来预测不可见物体的出现。）——考研高频表达
-> - "The bird fell prey to the cat."（那只鸟成了猫的猎物。）——考研高频表达
+> - A hawk hovered in the air before swooping on its prey. `[例]`
+> - The prey had been sighted . `[例]`
+> - Children are seen as easy prey for this type of advertising . `[例]`
 ---
 
 

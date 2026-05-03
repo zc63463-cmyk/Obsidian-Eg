@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**适合性，适宜性**==；②合适程度；
+**n.** ①==**适合性，适宜性**== `N`；②==**合适程度**== `N`；
 
 > [!tip] 原型义
 > **原型义**：适合的程度（适合做某事的性质或程度）
@@ -122,8 +122,8 @@ suit（适合）+ -abil(ity)（可……的性质）→ suitability（适合性�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The committee will assess the suitability of each candidate before making a decision.（委员会在做出决定之前将评估每位候选人的适合性。）
-> - The suitability of this land for agricultural use has been questioned.（这块土地是否适合农业使用受到了质疑。）
+> - There were doubts about his suitability for the job . `[例]`
+> - Assessments of their suitability to adopt a child. `[例]`
 
 ## 复习记录
 

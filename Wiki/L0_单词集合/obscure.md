@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**模糊的，晦涩的**==；②==**微暗的**==；③不出名的，默默无闻的；
-**vt.** ①==**使模糊**==；②==**掩盖**==；
+**adj.** ①==**模糊的，晦涩的**== `adj`；②==**微暗的**== `adj`；③==**不出名的，默默无闻的**== `adj`；
+**vt.** ①==**使模糊**== `V N`；②==**掩盖**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：被覆盖的（上面盖了一层东西，看不清）
@@ -141,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The origin of the universe remains obscure to scientists."（宇宙的起源对科学家来说仍然模糊不清）——科学话题
-> - "Clouds obscured the sun, casting a shadow over the valley."（云层遮住了太阳，在山谷投下阴影）——自然描写
-> - "The poem is full of obscure references to classical mythology."（这首诗充满了对古典神话的晦涩典故）——文学话题
-> - "He rose from obscurity to become one of the most influential thinkers of his time."（他从默默无闻崛起，成为他那个时代最有影响力的思想家之一）——人物描写
+> - Official policy has changed , for reasons that remain obscure. `[例]`
+> - His answers were obscure and confusing . `[例]`
+> - Two new skyscrapers had sprung up, obscuring the view from her window . `[例]`
+> - The sun was obscured by clouds . `[例]`
 
 ---
 

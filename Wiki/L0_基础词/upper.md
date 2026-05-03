@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**上部的，较高的**==；②==**上游的**==（upper reaches）；③==**上级的，地位较高的**==；
+**adj.** ①==**上部的，较高的**== `adj`；②==**上游的**== `adj`（upper reaches）；③==**上级的，地位较高的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：上部的（位置较高的）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My hometown is in the upper reaches of the river."（我的家乡在这条河的上游地区——新东方考研词典例句）
-> - "He locked his diary in the upper drawer."（他把日记锁在上层抽屉里——新东方词典例句）
+> - The office building's upper floors were being repainted. `[例]`
+> - If the infection is not checked it will probably spread to the upper body . `[例]`
+> - These shoes have leather uppers and synthetic soles . `[例]`
 
 
 ---

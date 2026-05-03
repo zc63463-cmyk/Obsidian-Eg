@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无法辩护的，站不住脚的**== `an indefensible + n. (position/argument)` [强烈贬义/正式] `morally indefensible` [强烈贬义/正式]；②==**不可原谅的**== `an indefensible + n. (act/behavior)` [强烈贬义/正式]；③==**无法防守的**== `an indefensible + n. (border/city)` [贬义/正式]；
+**adj.** ①==**无法辩护的，站不住脚的**== `adj`；②==**不可原谅的**== `adj`；③==**无法防守的（军事）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：无法辩护的、站不住脚的
@@ -125,9 +125,8 @@ in-(不) + [[de|de]]-(去除) + fens(防守，拉丁语 *defendere*) + -able(可
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The senator's position on the issue was described as morally indefensible by both parties. `[例]`
-> - Cutting funding to essential public services is an indefensible act of negligence. `[例]`
-> - The army retreated from the indefensible border position before the enemy advance. `[例]`
+> - The war is morally indefensible. `[例]`
+> - His actions in destroying the tapes were indefensible. `[例]`
 
 ## 复习记录
 

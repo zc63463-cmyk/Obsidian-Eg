@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**纯净的，纯洁的**== `N pure`；②==**完全的，纯粹的**== `pure N`；③==**纯理论的**== `pure N`；
+**adj.** ①==**纯净的，纯洁的**== `adj`；②==**完全的，纯粹的**== `adj`；③==**纯理论的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：纯净的（没有杂质的，未掺杂其他东西的——像清水一样干净）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This was probably not a pure coincidence. ` `[COCA-ACAD]` `
-> - Pure science is driven by curiosity rather than practical applications. ` `[COCA-ACAD]` `
-> - It was pure coincidence that they met at the airport. ` `[例]` `
+> - A swan's pure white plumage. `[例]`
+> - The pure vocal tones of the choirboy. `[例]`
+> - The mountain air was wonderfully pure. `[例]`
 
 
 ---

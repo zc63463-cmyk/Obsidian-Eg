@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a deliberate attempt to..."（蓄意试图……）——考研阅读高频搭配，描述有目的的行为
-> - "deliberately ignore"（故意忽视）——考研阅读中描述选择性忽视的常见搭配
-> - "after deliberate consideration"（经过慎重考虑后）——考研写作中引出结论的常用短语
+> - From her slow , deliberate speech I guessed she must be drunk . `[例]`
+> - The jury took five days to deliberate on the case . `[例]`
+> - The committee has deliberated the question at great length . `[例]`
 
 ---
 

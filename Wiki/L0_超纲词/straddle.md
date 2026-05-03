@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**骑跨，跨坐**==；②==**横跨，跨越**==（横跨两个领域/时期）；③兼顾，两面下注；
-**n.** ①骑跨的姿势；
+**v.** ①==**骑跨，跨坐**== `V`；②==**横跨，跨越**== `V`（横跨两个领域/时期）；③==**兼顾，两面下注**== `V`；
+**n.** ①==**骑跨的姿势**== `N`；
 
 > [!tip] 原型义
 > **原型义**：骑跨在两腿之间（双腿分开跨坐在某物上）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She straddles the line between art and technology.（她横跨艺术与科技两个领域。）
-> - The company straddles both the domestic and international markets.（这家公司同时兼顾国内和国际市场。）
+> - He pulled on his helmet and straddled the motorbike . `[例]`
+> - Our farm straddles the railway line . `[例]`
 
 ## 复习记录
 

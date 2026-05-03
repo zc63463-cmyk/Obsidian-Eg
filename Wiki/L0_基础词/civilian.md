@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One million soldiers and half a million civilians fled."（一百万士兵和五十万平民逃离。——剑桥词典例句）
-> - "The role of armed civilians as accessories to state repression and violence has been an important part of this history."（武装平民作为国家镇压和暴力的帮凶，一直是这段历史的重要组成部分。——剑桥词典例句）
+> - The bomb killed four soldiers and three civilians. `[例]`
+> - The club operates a rigid apartheid system that protects LA's celebrities from having to share facilities with its civilians. `[例]`
+> - The actors are in character between takes , and stay aloof from milling civilians. `[例]`
 
 
 ---

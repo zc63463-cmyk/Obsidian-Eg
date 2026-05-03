@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**淘气的，恶作剧的**== `adj N` [通用]；②有害的，造成伤害的 `adj N` [正式]；
+**adj.** ①==**淘气的，恶作剧的**== `adj`；②==**有害的，造成伤害的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：喜欢恶作剧的，淘气的
@@ -124,8 +124,8 @@ mis-(错误/坏) + chief(首领/伤害→古法语 *meschef* 不幸) + -ous(形�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The boy gave a mischievous grin before revealing his prank. [C]
-> - `[例]` Mischievous rumors about the company's financial troubles spread rapidly through social media. [C]
+> - She has a mischievous sense of humour . `[例]`
+> - A book about the mischievous antics of his ten-year-old daughter. `[例]`
 
 ## 复习记录
 

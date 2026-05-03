@@ -124,8 +124,9 @@ femin(女性，源自拉丁语 *femina*) + -ine(形容词后缀，表示"具有�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The current style in evening wear is soft, romantic, and feminine."（当今晚装的风格是轻柔、浪漫且充满女性风韵的。——经典例句）
-> - "The French word for 'table' is feminine."（法语的 table 一词是阴性。——经典语法例句）
+> - The current style in evening wear is soft , romantic , and feminine. `[例]`
+> - With his long dark eyelashes , he looked almost feminine. `[例]`
+> - Her clothes are always very feminine. `[例]`
 
 
 ---

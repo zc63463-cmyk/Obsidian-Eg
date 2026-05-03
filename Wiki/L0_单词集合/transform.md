@@ -133,8 +133,9 @@ trans-（跨越，穿过）+ form（形状，形态）+ -（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They transform the aspirations of the people who live there."（它们改变了生活在那里的人们的愿望。）——2020年阅读Text1
-> - "The growth of the textile industry transformed the area."（纺织工业的发展改变了这个地区。）——考研高频表达
+> - The reorganization will transform the entertainment industry . `[例]`
+> - The growth of the textile industry transformed the area . `[例]`
+> - Whenever a camera was pointed at her, Marilyn would instantly transform her self into a radiant star . `[例]`
 ---
 
 

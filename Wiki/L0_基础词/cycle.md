@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The business cycle is a recurring pattern of economic expansion and contraction."（商业周期是经济扩张和收缩的反复模式——考研高频表达）
-> - "It is crucial to break the vicious cycle of poverty and ignorance."（打破贫困与无知的恶性循环至关重要——考研写作高频话题）
+> - Cycles cannot be taken on this train . `[例]`
+> - A thousand people took part in the region's biggest-ever cycle race . `[例]`
+> - They are trapped in a cycle of violence . `[例]`
 
 
 ---

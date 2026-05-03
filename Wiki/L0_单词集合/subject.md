@@ -133,9 +133,9 @@ sub-(在……之下) + [[ject]](投掷) → 投掷到……下面 → 置于…
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The subject of the research is the impact of social media on adolescent mental health."（这项研究的主题是社交媒体对青少年心理健康的影响。）——考研高频表达
-> - "Citizens are subject to the laws of the country in which they reside."（公民受其居住国法律的约束。）——考研高频表达
-> - "The experiment was subject to strict ethical review before it was approved."（该实验在获得批准前接受了严格的伦理审查。）——考研高频表达
+> - A. assigned B. subjected C. accustomed 9. `[真题]`
+> - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
+> - Our subject for discussion is homelessness . `[例]`
 
 ---
 

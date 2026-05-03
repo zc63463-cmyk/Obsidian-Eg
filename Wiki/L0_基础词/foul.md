@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police suspected foul play in his sudden death."（警方怀疑他的突然死亡有谋杀嫌疑——foul play 高频用法）
-> - "The game was marred by a series of fouls."（比赛被一系列犯规行为所破坏）
-> - "Foul weather forced the cancellation of the outdoor event."（恶劣天气迫使户外活动取消）
+> - Those toilets smell foul! `[例]`
+> - Why are you in such a foul mood this morning ? `[例]`
+> - I've had a foul day at work . `[例]`
 
 
 ---

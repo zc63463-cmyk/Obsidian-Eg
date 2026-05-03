@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company flexed its corporate muscle to acquire smaller competitors."（公司展示了企业实力来收购较小的竞争对手——考研阅读商业话题）
-> - "He muscled his way through the crowd."（他强行挤过人群——考研阅读常见搭配）
+> - He looks like a boxer , with thick arms and bulging (= large and clear to see ) muscles. `[例]`
+> - He's 2 metres tall , with rippling muscles. `[例]`
+> - He flexed his muscles (= tightened them to make them look large and strong ) so that everyone could admire them. `[例]`
 
 
 ---

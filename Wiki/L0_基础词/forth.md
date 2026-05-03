@@ -123,8 +123,9 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The negotiation went back and forth for hours without reaching an agreement."（谈判来回进行了几个小时，未能达成协议。）
-> - "The author set forth his arguments in a clear and logical manner."（作者以清晰、合乎逻辑的方式阐述了自己的论点。）
+> - They set forth on their travels in early June . `[例]`
+> - As we set off into the forest , we felt as though we were venturing forth into the unknown . `[例]`
+> - Stress brings forth a " fight or flight " reaction in the body . `[例]`
 
 
 ---

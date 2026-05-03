@@ -123,8 +123,9 @@ handbook = [[hand]]（手）+ [[book]]（书）。这是一个典型的复合词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "New employees are required to read the employee handbook carefully before starting work."（新员工在开始工作前必须仔细阅读员工手册。——考研相关语料，讨论职场规范）
-> - "The university published a comprehensive handbook for international students."（大学为国际学生出版了一本综合手册。——考研相关语料，讨论教育服务）
+> - The student handbook gives details of all courses . `[例]`
+> - The student handbook describes all the campus activities . `[例]`
+> - A study skills handbook sets out to train the students in all these areas. `[例]`
 
 
 ---

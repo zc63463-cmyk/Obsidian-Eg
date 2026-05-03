@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Genetic engineering has the potential to revolutionize medicine."（基因工程有潜力彻底改变医学）
-> - "She holds a degree in electrical engineering from MIT."（她拥有麻省理工的电气工程学位）
+> - The Eiffel Tower is a remarkable feat of engineering. `[例]`
+> - Richard studied engineering at MIT. `[例]`
+> - She wants to encourage more women into engineering. `[例]`
 
 
 ---

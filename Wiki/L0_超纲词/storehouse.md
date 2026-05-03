@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**仓库，储藏室**==；②（引申）宝库，知识库；
+**n.** ①==**仓库，储藏室**== `N`；②==**（引申）宝库，知识库**== `N`；
 
 > [!tip] 原型义
 > **原型义**：存放东西的房子（用来储存物品的建筑物）
@@ -122,8 +122,8 @@ store（储存）+ house（房子）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The library is a storehouse of human knowledge and wisdom.（图书馆是人类知识和智慧的宝库。）
-> - The old storehouse was converted into an art gallery.（旧仓库被改造成了艺术画廊。）
+> - The goods have been sitting in a storehouse for months because a strike has prevented distribution . `[例]`
+> - Todays libraries are more than just storehouses for books . `[例]`
 
 ## 复习记录
 

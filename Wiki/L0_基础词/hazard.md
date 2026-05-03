@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A new report suggests that chewing gum may be a health hazard."（一份新报告指出，口香糖可能对健康有害——英语阅读常见表达，health hazard 为高频搭配）
-> - "The busy traffic entrance was a hazard to pedestrians."（那个繁忙的车辆入口处对行人来说很不安全——剑桥词典例句，hazard 指具体的危险因素）
+> - The busy traffic entrance was a hazard to pedestrians . `[例]`
+> - In golf , hazards are just another part of the game . `[例]`
+> - The golf course now features the most dramatic water hazards. `[例]`
 
 
 ---

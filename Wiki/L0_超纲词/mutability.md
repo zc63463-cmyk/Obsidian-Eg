@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**易变性，可变性**== `the N of N` [正式]；
+**n.** ①==**易变性，可变性**== `N`；
 
 > [!tip] 原型义
 > **原型义**：可变性，易变的性质
@@ -125,8 +125,8 @@ mut(变化，拉丁语 *mutare*) + -abil(可被) + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The mutability of public opinion makes it difficult for politicians to formulate long-term policies. [C]
-> - `[例]` The mutability of language is both a challenge and a source of creative expression for writers throughout history. [C]
+> - He is interested in the mutability of identity , the way people can slip in and out of personas to fit the occasion . `[例]`
+> - The social institution is not fixed , but has a degree of mutability. `[例]`
 
 ## 复习记录
 

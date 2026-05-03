@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**温度计**==；②体温表；
+**n.** ①==**温度计**== `N`；②==**体温表**== `N`；
 
 > [!tip] 原型义
 > **原型义**：测量热的工具（测量温度的仪器）
@@ -125,8 +125,9 @@ thermo-(=heat，热，希腊语 *therme*) + [[meter-metr|meter]](=measure，测�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The thermometer reads 27 degrees."（温度计的读数是27度。——新东方词典例句）
-> - "The nurse shook the thermometer and put it under my armpit."（护士把体温计甩了甩，然后放到了我的腋下。——柯林斯词典例句）
+> - A thermometer there showed a shade temperature of 70.7°C in 2005. `[例]`
+> - In January 2011, the thermometer showed a temperature of –32°C! `[例]`
+> - Burton brought in a stethoscope, a scale, and a thermometer so that children could use the numbers for a math activity and demystify doctors’ visits. `[例]`
 
 
 ---

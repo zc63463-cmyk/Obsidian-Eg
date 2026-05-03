@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "defend the rights of citizens"（捍卫公民权利）——考研阅读/翻译高频搭配
-> - "defend oneself against criticism"（为自己辩护以应对批评）——学术类阅读常见搭配
-> - "defend a thesis"（论文答辩）——教育类阅读常见表达
+> - How can we defend our homeland if we don't have an army ? `[例]`
+> - White blood cells help defend the body against infection . `[例]`
+> - Scientists have examined how healthy lungs defend against asthma attacks . `[例]`
 
 ---
 

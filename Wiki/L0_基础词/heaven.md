@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His rule was ordained by heaven."（他的统治是天命的。——经典例句）
-> - "It will be a heaven-sent opportunity to prove himself."（那将是他证明自己的一个天赐良机。——经典例句）
+> - I just lay in the sun for a week and did nothing - it was heaven. `[例]`
+> - We stared up at the heavens trying to see the comet . `[例]`
+> - It was heaven lying there in the sunshine listening to the birds sing . `[例]`
 
 
 ---

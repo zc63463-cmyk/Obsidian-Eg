@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**复苏，复兴**==；②重新流行，再兴起；③（宗教）奋兴布道会；
+**n.** ①==**复苏，复兴**== `N`；②==**重新流行，再兴起**== `N`；③==**（宗教）奋兴布道会**== `N`；
 
 > [!tip] 原型义
 > **原型义**：重新活过来（从死亡/沉睡中苏醒）
@@ -130,8 +130,8 @@ re-(再次，重新) + [[viv|vivere]](活，拉丁语 *vivere*) + -al(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The city experienced a remarkable cultural revival in the early 2000s."（这座城市在21世纪初经历了一次显著的文化复兴。）
-> - "There has been a revival of interest in traditional cooking methods."（人们对传统烹饪方法的兴趣重新燃起。）
+> - Recently, there has been some revival of ( interest in ) ancient music . `[例]`
+> - We're staging a revival of a 1950s play . `[例]`
 
 ## 复习记录
 

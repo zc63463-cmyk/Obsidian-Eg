@@ -139,8 +139,9 @@ faint 源自古法语 *feint*（虚假的、懒散的），是 *feindre*（假�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The heat made him feel faint."（炎热使他觉得快要晕倒了。——考研英语完形填空词汇辨析）
-> - "I have been known to faint at the sight of blood."（众所周知，我一看到血就会晕倒。——考研英语阅读）
+> - She bears a faint resemblance to my sister . `[例]`
+> - I have a faint suspicion that you may be right ! `[例]`
+> - He faints at the sight of blood . `[例]`
 
 
 ---

@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "New technology startups have been springing up across the country, attracting both investors and young talent eager to innovate."（新的科技创业公司在全国各地不断涌现，吸引了投资者和渴望创新的年轻人才——考研阅读经济科技话题相关表达）
-> - "The idea for the invention sprang from the inventor's personal experience with a common household problem."（这项发明的灵感源于发明者对常见家庭问题的个人体验——考研阅读创新话题相关表达）
+> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
+> - Many bulbs bloom in (the) spring. `[例]`
+> - Janet's coming over for a couple of weeks next spring. `[例]`
 
 
 ---

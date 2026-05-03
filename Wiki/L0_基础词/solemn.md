@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president delivered a solemn address to the nation, calling for unity and resilience in the face of the unprecedented crisis."（总统向全国发表了庄严的讲话，呼吁在面对这场前所未有的危机时保持团结和韧性——考研阅读政治话题相关表达）
-> - "On this solemn occasion, we gather to honor the memory of those who sacrificed their lives for the freedom we enjoy today."（在这个庄严的场合，我们聚集在一起，缅怀那些为我们今天所享有的自由而牺牲生命的人——考研翻译社会话题相关表达）
+> - Everyone looked very solemn. `[例]`
+> - I'd made a solemn promise and I was determined to keep it. `[例]`
+> - He looked stern and solemn, and rarely spoke . `[例]`
 
 
 ---

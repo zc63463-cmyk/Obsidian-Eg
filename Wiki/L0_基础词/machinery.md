@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The introduction of modern farm machinery has dramatically increased agricultural productivity, though it has also led to significant job losses in rural areas."（现代农业机械的引入极大地提高了农业生产力，但也导致了农村地区大量就业岗位的流失——考研阅读农业经济话题相关表达）
-> - "The state machinery was mobilized to respond to the natural disaster, deploying military personnel and emergency equipment to the affected regions."（国家机器被动员起来应对自然灾害，向受灾地区部署了军事人员和应急设备——考研翻译政治话题相关表达）
+> - His hand was injured when he got it caught in the machinery. `[例]`
+> - Some of the older machinery breaks down frequently . `[例]`
+> - They use modern farm machinery, such as combine harvesters . `[例]`
 
 
 ---

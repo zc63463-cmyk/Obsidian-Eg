@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Now he's in real trouble. He's accused of plagiarism."（他现在陷入真正的麻烦了。他被指控剽窃。——Volcengine 翻译语料库）
-> - "Then he was accused of plagiarizing portions of his master's thesis, which has still not been put back online."（随后他被指控剽窃了硕士论文的部分内容，该论文至今仍未重新上线。——Milwaukee Journal Sentinel, 2017）
+> - She's been accused of plagiarism. `[例]`
+> - The techniques for detecting plagiarism are becoming increasingly advanced . `[例]`
+> - The university decided to fire a professor for committing plagiarism and falsifying data . `[例]`
 
 
 ---

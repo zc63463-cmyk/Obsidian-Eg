@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**痴迷，着魔，执念**==；②==**使人痴迷的事物**==；
+**n.** ①==**痴迷，着魔，执念**== `N`；②==**使人痴迷的事物**== `N`；
 
 > [!tip] 原型义
 > **原型义**：坐在上面不走（心理上被某事牢牢占据、无法摆脱的状态）
@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author argues that modern society has developed an unhealthy obsession with productivity."（考研英语——作者认为现代社会对生产力产生了一种不健康的痴迷）
-> - "Her obsession with perfection often causes her great stress."（CET-6——她对完美的痴迷常常给她带来巨大压力）
-> - "The novel explores the protagonist's obsession with revenge."（GRE——这部小说探讨了主人公对复仇的执念）
+> - He's always wanted to find his birth mother but recently it's become an obsession. `[例]`
+> - His interest in detective stories has turned to obsession. `[例]`
+> - They have an obsession with making money . `[例]`
 
 ---
 

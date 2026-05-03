@@ -136,8 +136,9 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The online version of the newspaper has become increasingly popular."（报纸的网络版变得越来越受欢迎。）——考研高频表达
-> - "The latest version of the software includes several new features."（最新版本的软件包含了几项新功能。）——考研高频表达
+> - The official version of events is that the police were attacked and were just trying to defend themselves. `[例]`
+> - You can make a reduced fat version of the cheesecake by using cottage cheese instead of cream cheese . `[例]`
+> - An English-language version of the book is planned for next year . `[例]`
 
 ---
 

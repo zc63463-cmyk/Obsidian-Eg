@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Democracy might elevate the common man to a position of political superiority."（民主也许能提升普通人的政治地位，让他们产生优越感——考研高频表达）
-> - "The technical superiority of laser discs over tape is well established."（激光影碟相对于磁带的技术优势早已牢牢确立——考研高频表达）
+> - The Australian team soon demonstrated their superiority over the opposition . `[例]`
+> - Her sense of superiority makes her very unpopular . `[例]`
+> - Advertisements are designed to show the superiority of one product over its competitors . `[例]`
 
 
 ---

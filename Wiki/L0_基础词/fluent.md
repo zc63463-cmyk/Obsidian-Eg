@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Being fluent in English is increasingly important in the globalized world."（在全球化世界中，精通英语越来越重要——考研教育类阅读）
-> - "She is fluent in three languages."（她精通三种语言——考研翻译高频句式）
+> - She's fluent in French . `[例]`
+> - He's a fluent Russian speaker . `[例]`
+> - He speaks fluent Chinese . `[例]`
 
 
 ---

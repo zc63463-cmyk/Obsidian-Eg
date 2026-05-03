@@ -124,7 +124,9 @@ ex-(出、向外) + curs(跑，拉丁语 *currere*) + -ion(名词后缀) → 跑
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The family made a day excursion to the coast."（全家去海岸一日游。）
+> - This year's annual excursion will be to Lincoln. `[例]`
+> - Next week we're going on an excursion. `[例]`
+> - A teacher by profession , this is her first excursion into writing. `[例]`
 
 
 ---

@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The ancient Romans were passionate about chariot racing. `[例]`
-> - The sun god was depicted riding a golden chariot across the sky. `[例]`
+> - Around 2000 BCE the Egyptians started using spokes on their chariot wheels. `[例]`
+> - By 500 BCE, many types of wheeled vehicles were in use, from fast chariots to large, slow carts. `[例]`
 
 ## 复习记录
 

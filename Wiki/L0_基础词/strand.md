@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Thousands of travelers were stranded at the airport due to the snowstorm."（数千名旅客因暴风雪被困在机场。）
-> - "Each strand of the argument must be examined carefully."（论证的每一个方面都必须仔细审查。）
+> - She tucked a loose strand of hair behind her ears . `[例]`
+> - A strand of dental floss. `[例]`
+> - There are so many different strands to the plot that it's hard to follow . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无意义的，没有价值的**== `adj N` [贬义]；②==**毫无道理的**== `adj N` [贬义]；
+**adj.** ①==**无意义的，没有价值的**== `adj`；②==**毫无道理的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：无意义的（不含有意义的）
@@ -125,8 +125,8 @@ mean（意味）+ -ing（动名词后缀）+ -less（没有……的）→ 没�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Without a clear sense of purpose, work can become meaningless and lead to burnout. [C]
-> - `[例]` The treaty was rendered meaningless after both parties violated its core provisions within the first month. [C]
+> - The leaflet was full of meaningless information . `[例]`
+> - We fill up our lives with meaningless tasks. `[例]`
 
 ## 复习记录
 

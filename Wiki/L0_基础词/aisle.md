@@ -127,8 +127,9 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Would you like an aisle seat or would you prefer to be by the window?"（您想要靠过道的座位还是靠窗的座位？——Cambridge English Dictionary）
-> - "The airplane aisle was narrow and difficult to navigate."（飞机过道很窄，难以通行。——translateen.com 例句库）
+> - Would you like an aisle seat or would you prefer to be by the window ? `[例]`
+> - Shopping online means you avoid the crowded supermarket aisles . `[例]`
+> - The grocery aisles are stocked with everyday brands , priced very competitively . `[例]`
 
 
 ---

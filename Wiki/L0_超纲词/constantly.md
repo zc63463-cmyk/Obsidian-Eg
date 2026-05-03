@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不断地，始终如一地**== `constantly V-ing` `be constantly V-ing` [通用]；②经常地，老是 `constantly complain/worry` [口语]；
+**adv.** ①==**不断地，始终如一地**== `adv`；②==**经常地，老是**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：始终站立地（一直不断地）
@@ -123,8 +123,8 @@ con-（始终）+ [[st-sta-stat]]（站立，拉丁语 *stare*）+ -ant（形容
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Technology is constantly evolving, reshaping the way we live and work. `[例]`；
-> - She is constantly looking for ways to improve her teaching methods in the classroom. `[例]`；
+> - She has the TV on constantly. `[例]`
+> - He's constantly changing his mind . `[例]`
 
 ## 复习记录
 

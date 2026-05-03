@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**代言人，喉舌**== `a N for N` [政治]；②（乐器的）吹口；（电话的）话筒；
+**n.** ①==**代言人，喉舌**== `N`；②==**（乐器的）吹口**== `N`；（电话的）话筒；
 
 > [!tip] 原型义
 > **原型义**：代替他人发声的人或物
@@ -121,8 +121,8 @@ mouth(嘴) + piece(部件/片)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The newspaper was widely regarded as a mouthpiece for the ruling party. [C]
-> - `[例]` The senator refused to act as a mouthpiece for the administration's policies. [C]
+> - This newspaper is just a Republican mouthpiece. `[例]`
+> - I could see the referee talking into his mouthpiece. `[例]`
 
 ## 复习记录
 

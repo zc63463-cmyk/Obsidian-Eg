@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**偷猎，非法捕猎**==；②==**挖角，窃取（人才/客户）**==；③水煮（荷包蛋等）；
+**v.** ①==**偷猎，非法捕猎**== `V`；②==**挖角，窃取（人才/客户）**== `V`；③==**水煮（荷包蛋等）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：偷猎（侵入他人领地非法捕猎动物）
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company was accused of poaching top talent from its competitors."（该公司被指控从竞争对手处挖走顶尖人才。）
+> - We had poached eggs for breakfast . `[例]`
+> - Do you like pears poached in red wine ? `[例]`
 
 ## 复习记录
 

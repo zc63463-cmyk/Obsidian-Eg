@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**压迫，压制**==；②==**使烦恼，使压抑**==；
+**vt.** ①==**压迫，压制**== `V N`；②==**使烦恼，使压抑**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：向下压紧、压向（ob- 对着 + pressare 压）
@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The oppressed people rose up against the dictator."（受压迫的人民起义反抗独裁者）——考研阅读常见搭配，历史/政治类
-> - "Women were oppressed by the patriarchal system for centuries."（几个世纪以来，女性一直受到父权制度的压迫）——社会/文化类阅读
-> - "The oppressive heat made it impossible to work outdoors."（闷热的天气让人无法在户外工作）——环境描写类语境
+> - For years now, the people have been oppressed by a ruthless dictator . `[例]`
+> - Strange dreams and nightmares oppressed him. `[例]`
+> - In his speech he spoke against those who continue to oppress the poor . `[例]`
 
 ---
 

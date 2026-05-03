@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**讨厌的人/事，麻烦事**==；②损害，妨害；③ nuisance value：威胁价值；
+**n.** ①==**讨厌的人/事，麻烦事**== `N`；②==**损害，妨害**== `N`；③==**nuisance value：威胁价值**== `N`；
 
 > [!tip] 原型义
 > **原型义**：伤害，损害（造成不便或伤害的事物）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The noise from the construction site is a real nuisance to the residents."（工地的噪音对居民来说真是个麻烦。）
-> - "He was charged with causing a public nuisance."（他被指控造成公害。）
+> - It 's such a nuisance hav ing to rewrite those letters . `[例]`
+> - I hate to be a nuisance, but could you help me? `[例]`
+> - Local residents claimed that the noise was causing a public nuisance. `[例]`
 
 
 ---

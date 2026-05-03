@@ -128,8 +128,9 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The proposal bears the stamp of his genius.（这个提案带有他天才的印记。）
-> - She stamped her feet in frustration.（她沮丧地跺脚。）
+> - A date stamp inside the front cover of a library book shows when it should be returned . `[例]`
+> - Although this painting clearly bears the stamp of genius , we don't know who painted it. `[例]`
+> - Each manager has left his or her own stamp on the way the company has evolved . `[例]`
 
 
 ---

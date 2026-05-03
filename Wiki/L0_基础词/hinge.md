@@ -123,8 +123,9 @@ hinge 词源与原始日耳曼语 *\*hanhan-*（悬挂）有关，与 hang（悬
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The success of the entire negotiation hinges on whether both parties can reach a compromise on the key issues of border security and trade tariffs."（整个谈判的成功取决于双方能否在边境安全和贸易关税等关键问题上达成妥协——考研阅读政治话题相关表达）
-> - "Whether the new technology will be widely adopted hinges largely on its cost-effectiveness and ease of integration with existing systems."（这项新技术是否会被广泛采用，在很大程度上取决于其成本效益以及与现有系统集成的便利程度——考研翻译科技话题相关表达）
+> - We had to take the front door off its hinges to get our new sofa into the house . `[例]`
+> - The door had been pulled off its hinges. `[例]`
+> - The outcome of the game hinged on a single play. `[例]`
 
 
 ---

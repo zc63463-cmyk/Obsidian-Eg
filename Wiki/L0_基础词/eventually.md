@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After years of research, the team eventually developed a viable treatment for the disease."（经过多年研究，团队最终开发出了一种可行的疾病治疗方法）
-> - "The housing market will eventually recover, though the timeline remains uncertain."（房地产市场最终会复苏，尽管时间表仍不确定）
+> - Although she had been ill for a long time , it still came as a shock when she eventually died . `[例]`
+> - It might take him ages but he'll do it eventually. `[例]`
+> - I found it hard to follow what the teacher was saying, and eventually I lost concentration . `[例]`
 
 
 ---

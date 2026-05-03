@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new technology has facilitated the sharing of information across borders."（新技术促进了跨境信息共享——考研英语阅读科技类话题）
-> - "The government should take measures to facilitate the development of small businesses."（政府应采取措施促进小企业的发展——考研翻译经济类表达）
+> - The new ramp will facilitate the entry of wheelchairs . `[例]`
+> - The current structure does not facilitate efficient work flow . `[例]`
+> - To facilitate learning , each class is no larger than 30 students . `[例]`
 
 
 ---

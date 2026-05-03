@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**容易受惊的，神经质的**==；②（尤指马）易惊的，不稳定的；③（人）易变的，犹豫不决的；
+**adj.** ①==**容易受惊的，神经质的**== `adj`；②==**（尤指马）易惊的，不稳定的**== `adj`；③==**（人）易变的，犹豫不决的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：像马一样容易受惊、突然跳开的（源自撞柱游戏中的木柱被击中后四处弹跳）
@@ -127,7 +127,8 @@ skittish（源自 skittles"撞柱游戏"，木柱被击中后四处弹跳 → �
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The stock market has been skittish in recent weeks due to geopolitical tensions."（由于地缘政治紧张局势，股市近几周一直波动不定。）
+> - My horse is very skittish, so I have to keep him away from traffic . `[例]`
+> - Investors are skittish about the impact of an economic downturn . `[例]`
 
 ## 复习记录
 

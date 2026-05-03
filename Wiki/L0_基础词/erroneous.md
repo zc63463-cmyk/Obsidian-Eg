@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study was based on the erroneous assumption that all cultures value individualism equally."（该研究基于一个错误的假设，即所有文化都同等重视个人主义——考研阅读学术话题常见表达）
-> - "The court ruled that the original verdict was based on erroneous evidence."（法院裁定原判决基于错误的证据——考研阅读法律话题常见表达）
+> - He seems to be under the erroneous impression that she is in love with him. `[例]`
+> - The theory is based on several erroneous beliefs. `[例]`
+> - Their conclusions are quite erroneous. `[例]`
 
 
 ---

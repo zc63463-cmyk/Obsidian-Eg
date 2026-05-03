@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "An army of volunteers descended on the disaster area to help with relief efforts."（大批志愿者涌向灾区协助救援——考研阅读常用 an army of 的比喻用法）
-> - "He joined the army at the age of eighteen and served for ten years."（他十八岁参军，服役了十年——考研翻译高频表达）
+> - When did you join the army? `[例]`
+> - He has decided on a career in the British Army. `[例]`
+> - The minister is believed to have been killed by the rebel army. `[例]`
 
 
 ---

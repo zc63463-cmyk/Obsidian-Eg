@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "testify in court"（出庭作证）——考研阅读/翻译常见搭配，法律类话题
-> - "the evidence testifies to the fact that..."（证据表明…）——学术/论述类写作
-> - "testify against the defendant"（作不利于被告的证明）——法律类阅读
+> - I can testify to the foregoing since I was actually present when it happened . `[例]`
+> - These monuments testify to the prosperity of the country and the richness of its culture . `[例]`
+> - Managing people is not easy , as many new managers can testify. `[例]`
 
 ---
 

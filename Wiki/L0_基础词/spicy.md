@@ -129,8 +129,9 @@ spice(香料) + -y(形容词后缀：充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The restaurant is famous for its spicy Sichuan dishes, which attract food lovers from all over the city."（这家餐厅以其辛辣的四川菜闻名，吸引了全市的美食爱好者。——考研英语阅读文化类话题）
-> - "The journalist's autobiography contains spicy details about her encounters with powerful politicians."（这位记者的自传包含了她与权势政治家交往的刺激细节。——考研英语阅读人物传记类话题，spicy details 引申义考点）
+> - Do you like spicy food ? `[例]`
+> - I love Creole cooking , so hot and spicy. `[例]`
+> - He jazzed up the food with a spicy sauce . `[例]`
 
 
 ---

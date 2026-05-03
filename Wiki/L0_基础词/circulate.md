@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Without gravity to help circulate air, the carbon dioxide you exhale has a tendency to form an invisible cloud around your head."（在没有重力帮助循环空气的情况下，你呼出的二氧化碳往往会在你头部周围形成一团看不见的云。——六级阅读真题）
-> - "Indeed, they estimate that over a third of a million electoral broadsides were circulated to the local population during the period."（事实上，他们估计在这一时期，超过三分之一的选举传单被散发给了当地居民。——剑桥词典例句）
+> - Hot water circulates through the heating system . `[例]`
+> - I've circulated a good luck card for everyone to sign . `[例]`
+> - I try to circulate at a party and not just stay with the friends I came with. `[例]`
 
 
 ---

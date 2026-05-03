@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不相关的，无关的**==；②无亲属关系的；
+**adj.** ①==**不相关的，无关的**== `adj`；②==**无亲属关系的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：没有关联的（un-不 + relate关联 + -ed被...的 → 没有关联的）
@@ -128,8 +128,8 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The two studies appear to be unrelated, but they actually share a common theoretical framework.（这两项研究看起来不相关，但它们实际上共享一个共同的理论框架。）
-> - Many seemingly unrelated events can be traced back to a single root cause.（许多看似无关的事件都可以追溯到同一个根本原因。）
+> - Police said his death was unrelated to the attack . `[例]`
+> - His answer was completely unrelated to my question . `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**促成的，起作用的**== `adj. N` [正式]；②==**捐助的，贡献的**== `adj. N` [正式]；③==**（法律）分担责任的**== `adj. N` [法律]；
+**adj.** ①==**促成的，起作用的**== `adj`；②==**捐助的，贡献的**== `adj`；③==**（法律）分担责任的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：一起把东西倒进去的（向公共池中添加的）
@@ -131,8 +131,8 @@ con-(共同/一起) + [[tribut|tribut-]](给予/奉献) + -ory(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Stress is a contributory factor in many health problems. `[例]`
-> - Poor diet and lack of exercise are contributory factors in the development of heart disease. `[例]`
+> - The company offers a contributory pension plan (= one to which both the employee and employer pay money ) . `[例]`
+> - Too little exercise is a contributory factor in heart disease . `[例]`
 
 ## 复习记录
 

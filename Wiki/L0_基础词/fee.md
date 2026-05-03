@@ -125,8 +125,9 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Virtually all experts agree that the fee-for-service system—doctors are rewarded for the quantity of care rather than its quality or effectiveness—is a primary reason that the cost of care is so high."（几乎所有的专家都同意，按服务收费的制度——医生按服务量而非质量或效果获得报酬——是医疗费用如此之高的一个主要原因——学术语境高频表达）
-> - "If going to university doesn't work out, students pay very little—if any—of their tuition fees back: you only start repaying when you are earning £21,000 a year."（如果上大学没有成功，学生只需偿还很少甚至不需偿还学费：只有当你的年收入达到21,000英镑时才开始偿还——剑桥词典例句）
+> - We couldn't pay the lawyer's fee. `[例]`
+> - No matter what the outcome of the case is, they'll spend thousands in legal fees. `[例]`
+> - The doctor’s usual fee is $125. `[例]`
 
 
 ---

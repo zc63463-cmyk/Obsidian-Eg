@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The magazine cover showing an attractive mother holding a cute baby is hardly the only Madonna-and-child image on newsstands this week."（这本杂志封面上展示了一位迷人的母亲抱着一个可爱的婴儿，但这几乎不是本周报摊上唯一的圣母与圣婴形象。——2011年考研英语Text 4）
-> - "We conform to norms so readily that we are hardly aware they exist."（我们如此轻易地遵从规范，以至于几乎没有意识到它们的存在。——考研英语阅读相关语料）
+> - I could hardly hear her at the back. `[例]`
+> - The party had hardly started when she left . `[例]`
+> - We hardly ever (= almost never) go to concerts . `[例]`
 
 
 ---

@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police detained the suspect for further questioning."（警方拘留了嫌疑人以便进一步审问。）——考研高频表达
-> - "He was detained at the airport for several hours because of a problem with his visa."（因为签证问题，他在机场被扣留了几个小时。）——考研高频表达
+> - A suspect has been detained by the police for questioning . `[例]`
+> - Several of the injured were detained overnight in hospital . `[例]`
+> - I'm sorry I'm late - I was unavoidably detained. `[例]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**牧师，神父，祭司**==；②神职人员；
+**n.** ①==**牧师，神父，祭司**== `N`；②==**神职人员**== `N`；
 
 > [!tip] 原型义
 > **原型义**：长者，年长者（教会中德高望重的年长领袖）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The priest delivered a powerful sermon about forgiveness and redemption."（神父发表了一篇关于宽恕与救赎的有力布道）
-> - "In many cultures, priests serve as mediators between the divine and the human."（在许多文化中，祭司充当神圣与人类之间的调解者）
+> - Father O'Dooley was ordained a priest in 1949. `[例]`
+> - There is still a ban on women priests in the Catholic Church . `[例]`
+> - The ordination of women priests. `[例]`
 
 
 ---

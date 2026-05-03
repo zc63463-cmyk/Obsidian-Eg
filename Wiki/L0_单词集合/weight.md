@@ -141,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "carry weight"（有分量，有影响力）——考研阅读/写作中常见表达，描述观点或人的影响力
-> - "the weight of evidence"（证据的分量）——学术/法律类阅读高频搭配
-> - "lose weight"（减肥）——健康/生活类阅读常见话题
-> - "pull one's own weight"（尽自己的力量）——社会/职场类语料
+> - What weight can this lorry safely carry ? `[例]`
+> - There was a slight decrease in his weight after a week of dieting . `[例]`
+> - Try not to lift heavy weights. `[例]`
+> - I lift weights twice a week at the gym . `[例]`
 
 ---
 

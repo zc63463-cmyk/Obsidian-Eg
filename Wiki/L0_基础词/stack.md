@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researcher had a stack of data to analyze before the deadline, but the results were worth the effort."（研究人员在截止日期前有一堆数据需要分析，但结果是值得的——考研阅读学术话题相关表达）
-> - "Problems stacked up as the project progressed, forcing the team to reevaluate their timeline and resource allocation."（随着项目的推进，问题不断堆积，迫使团队重新评估时间线和资源分配——考研阅读管理话题相关表达）
+> - He chose a cartoon from the stack of DVDs on the shelf . `[例]`
+> - Don't worry , we've got stacks of time . `[例]`
+> - What's the best way to find a book in the stacks? `[例]`
 
 
 ---

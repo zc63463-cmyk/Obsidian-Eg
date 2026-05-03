@@ -126,8 +126,9 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The industrial revolution was fueled in large part by coke, which provided the intense heat needed for iron and steel production."（工业革命在很大程度上以焦炭为燃料，焦炭为钢铁生产提供了所需的高温——考研阅读工业史话题）
-> - "Coca-Cola, commonly known as Coke, has become one of the most recognized brands in global consumer culture."（可口可乐，通常被称为Coke，已成为全球消费文化中最知名的品牌之一——考研阅读商业话题）
+> - Prosecutors contended that Jay recruited Jordan and Washington to sell coke for him in Baltimore, but the deal went sour when the rapper’s drug connection had bad blood with Washington and threatened to kill him. `[例]`
+> - Some community members and advocacy groups hoped air quality would improve after the coke plant was sold. `[例]`
+> - Over time, the operation consolidated under U.S. Steel’s Great Lakes Works, while coking plants, iron works and other heavy industries layered on to the dense landscape of pipes, coal piles, rail lines and smokestacks. `[例]`
 
 
 ---

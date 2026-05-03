@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The audience broke into spontaneous applause when the young pianist finished his breathtaking performance, moved by the sheer emotional intensity of the music."（当年轻的钢琴家结束了他令人叹为观止的演奏时，观众自发地鼓起掌来，被音乐纯粹的情感强度所打动——考研阅读艺术话题相关表达）
-> - "Unlike planned economies that rely on government directives, market economies depend largely on the spontaneous decisions of millions of individual consumers and producers."（与依赖政府指令的计划经济不同，市场经济在很大程度上依赖于数百万个体消费者和生产者的自发决策——考研阅读经济话题相关表达）
+> - His jokes seemed spontaneous, but were in fact carefully prepared beforehand . `[例]`
+> - She's such a spontaneous, lively woman. `[例]`
+> - Since spontaneous remissions are common in rheumatoid arthritis , it is impossible to attribute them to any particular therapy . `[例]`
 
 
 ---

@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Passengers on long-haul flights are being warned about the risks of deep vein thrombosis."（长途航班上的乘客须注意可能出现深静脉血栓的风险——牛津词典例句，long-haul 为高频搭配）
-> - "They began the long slow haul to the summit."（他们踏上了攀登顶峰的漫长行程——英语阅读常见表达，haul 指漫长费力的旅程）
+> - They hauled the boat out of the water . `[例]`
+> - She hauled herself up into the tree . `[例]`
+> - FBI agents hauled away boxes of records . `[例]`
 
 
 ---

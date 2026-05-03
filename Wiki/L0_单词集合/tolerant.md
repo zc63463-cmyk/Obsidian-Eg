@@ -123,8 +123,9 @@ toler-(忍受) + -ant(形容词后缀，表"具有...性质的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A more practical goal is to try, to the best of your ability, to be as tolerant and composed as you can when faced with trying situations involving your children."（一个更实际的目标是，在面对涉及孩子的艰难处境时，尽你最大的能力，尽量做到宽容和沉着。）——2020考研英语二完形
-> - "A truly tolerant society respects the rights of all individuals."（一个真正宽容的社会尊重所有个人的权利。）——考研高频表达
+> - The present government is even less tolerant of dissent . `[例]`
+> - People in Italy are more tolerant of children in public places than in Britain . `[例]`
+> - I think men are less tolerant of stress than women. `[例]`
 
 ---
 

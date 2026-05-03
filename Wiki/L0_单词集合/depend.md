@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Whether the project will succeed **depends** largely on the availability of funding.（项目能否成功在很大程度上取决于资金的可获得性。）
-> - Children **depend** on their parents for emotional support and guidance.（孩子们依赖父母获得情感支持和指导。）
+> - The carc;ers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce , but even more so on the citations attracted by these papers. `[真题]`
+> - Whether or not we go to Mexico for our holiday depends on the cost . `[例]`
+> - Are you going to Emma's party ?" "I don't know , it depends - we might be going away that weekend . `[例]`
 
 ---
 

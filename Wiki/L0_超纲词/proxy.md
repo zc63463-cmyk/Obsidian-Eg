@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**代理人，代表**==；②代理权，委托书；③代理服务器；
+**n.** ①==**代理人，代表**== `N`；②==**代理权，委托书**== `N`；③==**代理服务器**== `N`；
 **adj.** 代理的；
 
 > [!tip] 原型义
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Shareholders may vote by proxy if they cannot attend the meeting in person.（股东如果不能亲自出席会议，可以通过代理人投票。）
-> - The company uses a proxy server to filter internet traffic.（公司使用代理服务器来过滤网络流量。）
+> - My brother's voting for me by proxy in the club elections . `[例]`
+> - Shareholders who attend the meeting may revoke any proxy previously granted and vote in person . `[例]`
 
 ## 复习记录
 

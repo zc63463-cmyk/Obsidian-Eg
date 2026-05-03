@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**对……进行翻新改造，加装（新设备）**==；②（给旧建筑、机器等）更新部件；
-**n.** ①翻新改造；②更新部件；
+**v.** ①==**对……进行翻新改造，加装（新设备）**== `V`；②==**（给旧建筑、机器等）更新部件**== `V`；
+**n.** ①==**翻新改造**== `N`；②==**更新部件**== `N`；
 
 > [!tip] 原型义
 > **原型义**：向后安装（在已有设备上事后安装新部件）
@@ -128,8 +128,8 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The city launched a program to retrofit old buildings with energy-efficient systems."（该市启动了一项为老建筑加装节能系统的翻新计划。）
-> - "Retrofitting existing factories with cleaner technology is more cost-effective than building new ones."（用清洁技术改造现有工厂比新建工厂更具成本效益。）
+> - A state program to retrofit engines with pollution controls has succeeded in reducing pollution from trains . `[例]`
+> - Many hospitals are struggling to pay for the retrofits. `[例]`
 
 ## 复习记录
 

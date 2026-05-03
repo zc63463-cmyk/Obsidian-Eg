@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The detective carefully examined every piece of evidence at the crime scene, looking for clues that others might have overlooked."（侦探仔细检查了犯罪现场的每一件证据，寻找别人可能忽略的线索——考研阅读叙事话题相关表达）
-> - "Detective fiction has remained one of the most popular literary genres since the time of Sherlock Holmes, appealing to readers' desire for logical reasoning and suspense."（自从福尔摩斯时代以来，侦探小说一直是最受欢迎的文学体裁之一，吸引着读者对逻辑推理和悬念的追求——考研翻译文学话题相关表达）
+> - Her new detective series will be her debut on the small screen . `[例]`
+> - She hired a private detective to find out if her husband was having an affair . `[例]`
+> - A private detective has apparently unearthed some fresh evidence . `[例]`
 
 
 ---

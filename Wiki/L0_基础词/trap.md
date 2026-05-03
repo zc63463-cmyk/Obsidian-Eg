@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**陷阱，圈套**==；②捕捉器；③困境；
-**v.** ①==**设陷阱捕捉**==；②==**使陷入困境**==；③诱捕；
+**n.** ①==**陷阱，圈套**== `N`；②==**捕捉器**== `N`；③==**困境**== `N`；
+**v.** ①==**设陷阱捕捉**== `V`；②==**使陷入困境**== `V N`；③==**诱捕**== `V`；
 
 > [!tip] 原型义
 > **原型义**：陷阱（用于捕捉动物的装置）
@@ -129,7 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people find themselves trapped in the poverty cycle."（许多人发现自己陷入了贫困的循环——考研阅读高频表达）
+> - The undercover agents went to the rendezvous knowing that it might be a trap. `[例]`
+> - She's too smart to fall into the trap of working without pay . `[例]`
+> - Oh, shut your trap (= stop talking ) - I don't want to hear it anymore ! `[例]`
 
 
 ---

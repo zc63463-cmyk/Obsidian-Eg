@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "New designs allow for expansion or movement of desks, storage, and equipment within the workstation."（新设计允许在工作站内扩展或移动办公桌、存储空间和设备。）——考研高频表达
-> - "The assumptions become less crucial as computer speed and storage capacity increase."（随着计算机速度和存储容量的增加，这些假设变得不那么关键了。）——考研高频表达
+> - We've had to build some cupboards to give us more storage space . `[例]`
+> - There was still a lot of unsold fabric in storage. `[例]`
+> - Much of the art they’ve acquired is still in storage (= being kept in a safe place and not yet in use) . `[例]`
 
 ---
 

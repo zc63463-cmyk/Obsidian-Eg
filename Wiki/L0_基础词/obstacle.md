@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**障碍（物），阻碍**==；②绊脚石；
+**n.** ①==**障碍（物），阻碍**== `N`；②==**绊脚石**== `N`；
 
 > [!tip] 原型义
 > **原型义**：站在前面挡路的东西（ob-对着 + st-站 + -acle名词后缀 → 站在你面前挡住去路的东西）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Automatic doors serve the function of crowd management by reducing the obstacles put in people's way."（自动门通过减少人们道路上的障碍来起到人群管理的作用。——2024年英语一翻译）
-> - "Lack of education is an obstacle to success."（缺乏教育是成功的障碍。——考研高频表达）
+> - The biggest obstacle in our way was a tree trunk in the road . `[例]`
+> - This decision has removed the last obstacle to the hostages ' release . `[例]`
+> - We suddenly encountered an obstacle along the trail . `[例]`
 
 
 ---

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity."（新英格兰殖民地是追求广为人知的礼貌和艺术鉴赏力过程中发生许多重要事件的场所。——2009年考研英语一 Text 4，civility 与 civilize 同源）
-> - "I think it would civilize people a bit more if they had decent conditions."（我认为如果人们有良好的环境，就会更有教养一点。——剑桥词典例句）
+> - The Romans set out to civilize the Ancient Britons . `[例]`
+> - I like to think I had a civilizing effect on my younger brothers . `[例]`
+> - Dedicated teachers labored under difficult conditions to civilize frontier society . `[例]`
 
 
 ---

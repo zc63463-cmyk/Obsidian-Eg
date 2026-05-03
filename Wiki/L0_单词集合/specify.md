@@ -126,9 +126,9 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The contract specifies that the work must be completed within six months."（合同明确规定，工程必须在六个月内完成）——法律/商业类阅读
-> - "Applicants must specify their area of research interest."（申请人必须明确说明他们的研究兴趣领域）——学术/教育类话题
-> - "The regulations specify the minimum safety standards for all workplaces."（法规明确了所有工作场所的最低安全标准）——政策/法律类话题
+> - Specify the duties and requirements of the job. `[真题]`
+> - He said we should meet but didn't specify a time . `[例]`
+> - The newspaper report did not specify how the men were killed . `[例]`
 
 ---
 

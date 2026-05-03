@@ -132,8 +132,9 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We must rely on the honesty and good faith of others, if not, we couldn't put money in the bank, buy food, clothing, or medicine from others."（我们必须依靠他人的诚实和善意，否则我们无法把钱存入银行，无法从他人那里购买食物、衣服或药品。——考研英语阅读）
-> - "The savings and loan scandal, the stock market and junk bond swindles, have undermined the faith of many Americans in the integrity of political and economic leaders."（储蓄贷款丑闻、股市和垃圾债券骗局，已经削弱了许多美国人对政治和经济领导人正直性的信任。——考研英语阅读）
+> - She has no faith in modern medicine . `[例]`
+> - You'll cope - I have great faith in you. `[例]`
+> - After the trial , his family said they had lost all faith in the judicial system . `[例]`
 
 
 ---

@@ -141,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "San Francisco and Tokyo are both located in earthquake zones."（旧金山和东京都位于地震带）——考研阅读常见科普类表达
-> - "step out of your comfort zone"（走出你的舒适区）——考研写作/翻译高频表达
-> - "a special economic zone"（经济特区）——社会经济类阅读常见搭配
-> - "no-fly zone"（禁飞区）——国际政治类阅读高频词汇
+> - He was charged with driving at 75 mph in a 55 mph zone. `[例]`
+> - This stretch of coast has been designated a danger zone. `[例]`
+> - The UN Security Council has established a no-fly zone (= one where aircraft are not permitted to fly ) . `[例]`
+> - They have been working on playing zone when it is too difficult to cover a fast opponent one one one. `[例]`
 
 ---
 

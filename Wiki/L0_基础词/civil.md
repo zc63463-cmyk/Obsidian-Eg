@@ -130,8 +130,9 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In a civil society, everyone has the right to vote and express their opinions."（在一个公民社会中，每个人都有投票和表达意见的权利。——考研高频表达）
-> - "According to a paper in 2011 by Mr Hsiang and co-authors, civil conflict is related to El Nino's harmful effects."（根据Hsiang先生及其合著者2011年的一篇论文，民事冲突与厄尔尼诺的有害影响有关。——2016年高考英语江苏卷）
+> - Helicopters are mainly used for military rather than civil use. `[例]`
+> - After ten years of military dictatorship , the country now has a civil government . `[例]`
+> - We weren't married in church , but we had a civil ceremony in a registry office . `[例]`
 
 
 ---

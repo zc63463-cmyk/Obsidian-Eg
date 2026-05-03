@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**过分拘谨，假道学**==；②（尤指性方面的）过度保守态度；
+**n.** ①==**过分拘谨，假道学**== `N`；②==**（尤指性方面的）过度保守态度**== `N`；
 
 > [!tip] 原型义
 > **原型义**：过分谨慎的道德洁癖（对任何涉及性或不雅话题的过度回避与反感）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Victorian prudery led to the covering of piano legs, which were considered too suggestive.（维多利亚式的假道学甚至导致人们用布遮住钢琴腿，认为它们过于暗示性感。）
-> - Her prudery made it impossible to discuss even the most innocent topics.（她的过分拘谨使得连最单纯的话题都无法讨论。）
+> - The phallus could be intended as a way of poking fun at his prudery. `[例]`
+> - Such prudery regarding artistic depictions of the nude has no place on a college campus. `[例]`
 
 ## 复习记录
 

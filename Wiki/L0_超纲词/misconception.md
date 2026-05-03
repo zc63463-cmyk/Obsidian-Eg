@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**误解，错误认识**== `a adj N` / `V N` [通用]；②错误观念 `N about N` [通用]；
+**n.** ①==**误解，错误认识**== `N`；②==**错误观念**== `N`；
 
 > [!tip] 原型义
 > **原型义**：错误的理解或认识
@@ -126,8 +126,8 @@ mis-(错误) + con-(一起/完全) + [[cept|capt]](抓/取，拉丁语 *capere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` A common misconception is that learning a language requires talent rather than effort. [C]
-> - `[例]` The documentary aimed to dispel popular misconceptions about climate change. [C]
+> - We hope our work will help to change popular misconceptions about disabled people . `[例]`
+> - I'd like to clear up the common misconception that older workers don't know how to use technology . `[例]`
 
 ## 复习记录
 

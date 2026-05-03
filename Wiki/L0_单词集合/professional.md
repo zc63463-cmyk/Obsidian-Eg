@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**专业的；职业的**== ; ②职业性的；内行的 ;
-**n.** ①专业人员；内行 ;
+**adj.** ①==**专业的；职业的**== `adj` ; ②==**职业性的**== `adj`；内行的 ;
+**n.** ①==**专业人员**== `N`；内行 ;
 
 > [!tip] 原型义
 > **原型义**：以某职业为生的、具有专业水准的
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Next, consider eBay. Having started out as a peer-to-peer marketplace, it is now dominated by professional 'power sellers'."（接下来看看eBay。它最初是一个点对点市场，现在则被专业的'超级卖家'所主导。）——考研真题阅读
-> - "Professional development is essential for teachers to keep up with the latest educational methods."（专业发展对教师跟上最新教育方法至关重要。）——考研高频表达
+> - Chris, you're a nurse , so can I ask your professional opinion on bandaging ankles ? `[例]`
+> - Both doctors have been charged with professional misconduct (= bad or unacceptable behaviour in their work ) . `[例]`
+> - It would look more professional if the letter was typed . `[例]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**本科生，大学肄业生**==（尚未获得学士学位的大学生）；
-**adj.** ①==**本科的**==；
+**n.** ①==**本科生，大学肄业生**== `N`（尚未获得学士学位的大学生）；
+**adj.** ①==**本科的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：尚未获得学位的大学生
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The number of undergraduate students enrolled in STEM programs has increased significantly over the past decade."（过去十年中，注册参加STEM项目学习的本科生数量显著增加。——考研阅读教育话题高频表达）
-> - "Many undergraduate students take on part-time jobs to help cover their tuition fees and living expenses."（许多本科生做兼职以帮助支付学费和生活费。——考研翻译教育话题相关表达）
+> - She teaches physics at undergraduate level. `[例]`
+> - During her undergraduate years at the University of California. `[例]`
+> - Memoirs of his undergraduate career at the University of Toronto. `[例]`
 
 
 ---

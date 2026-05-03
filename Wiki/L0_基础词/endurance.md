@@ -125,8 +125,9 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He began visiting the gym to build up his strength and endurance."（他开始去健身房锻炼力量和耐力——剑桥词典例句）
-> - "Frailty manifests the following core clinical features: loss of strength, weight loss, low levels of activity, poor endurance or fatigue."（衰弱表现为以下核心临床特征：力量丧失、体重减轻、活动水平低、耐力差或疲劳——剑桥学术词典例句）
+> - He began visiting the gym to build up his strength and endurance. `[例]`
+> - Running a marathon is a test of human endurance. `[例]`
+> - The pain was bad beyond endurance. `[例]`
 
 
 ---

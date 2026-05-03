@@ -129,9 +129,9 @@ ex-（向外）+ pens（称重/支付）+ -e → 称重后付出去 → 费用�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He built up the business at the expense of his health."（他以牺牲健康为代价建立了这家企业。）
-> - "The company covers all travel expenses for its employees."（公司为员工报销所有差旅费用。）
-> - at the expense of 是考研翻译和阅读中的高频表达
+> - He built up the business at the expense of his health. `[例]`
+> - Buying a bigger car has proved to be well worth the expense. `[例]`
+> - We've just had a new garage built at great expense. `[例]`
 
 ---
 

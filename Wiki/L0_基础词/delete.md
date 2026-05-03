@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If you accidentally delete an important file, you can restore it from the recycle bin."（如果你不小心删除了重要文件，可以从回收站中恢复——常见计算机英语语料）
-> - "The editor asked him to delete several paragraphs from the article to reduce its length."（编辑要求他从文章中删除几段以缩短篇幅——Cambridge Dictionary 例句）
+> - They insisted that all expletives be deleted from the article . `[例]`
+> - Here is a list of possible answers . Please delete (= draw a line through some of them) as appropriate . `[例]`
+> - She accidentally deleted one of her computer files . `[例]`
 
 
 ---

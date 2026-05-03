@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**最大的，极度的**==；②最远的；
-**n.** ①==**极限，最大限度**==；②极度；
+**adj.** ①==**最大的，极度的**== `adj`；②==**最远的**== `adj`；
+**n.** ①==**极限，最大限度**== `N`；②==**极度**== `N`；
 
 > [!tip] 原型义
 > **原型义**：最大的、极度的（达到最外层极限的程度）
@@ -131,8 +131,9 @@ ut-(=out，向外) + -most(最高级后缀，最……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Pielke said that climate change is an important problem requiring our utmost attention."（皮尔克说气候变化是一个需要我们极度关注的重要问题。——考研阅读）
-> - "Thus, wearing the right brand of clothes or shoes may be of the utmost importance."（因此，穿正确品牌的衣服或鞋子可能是极其重要的。——考研阅读）
+> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
+> - The situation needs to be handled with the utmost care . `[例]`
+> - The new model of the car offers the utmost in power and performance . `[例]`
 
 
 ---

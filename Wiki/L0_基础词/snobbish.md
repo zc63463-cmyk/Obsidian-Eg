@@ -127,8 +127,9 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The restaurant's snobbish attitude towards casual diners eventually drove away many of its regular customers."（这家餐厅对便装用餐者的势利态度最终赶走了许多老顾客——考研阅读社会话题相关表达）
-> - "Intellectual snobbery—the tendency to dismiss the opinions of those without formal education—remains a persistent problem in academic circles."（知识势利——即倾向于否定没有受过正规教育的人的意见——仍然是学术界的一个顽固问题——考研翻译教育话题相关表达）
+> - My brother is very snobbish about cars . `[例]`
+> - She was quite snobbish about pop culture. `[例]`
+> - He gave us one snobbish glance and then disregarded us. `[例]`
 
 
 ---

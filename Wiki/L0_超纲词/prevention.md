@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**预防，防止**==；②==**预防措施**==；
+**n.** ①==**预防，防止**== `N`；②==**预防措施**== `N`；
 
 > [!tip] 原型义
 > **原型义**：预先阻止（在事情发生之前阻止它）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Prevention of chronic diseases requires a combination of healthy lifestyle choices and regular medical checkups."（慢性病的预防需要健康的生活方式选择和定期体检相结合。）
+> - The organization is committed to AIDS prevention and education . `[例]`
+> - As far as health is concerned , it is often said that prevention is better than cure . `[例]`
 
 ## 复习记录
 

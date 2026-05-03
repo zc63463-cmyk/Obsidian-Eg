@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The feedback loop between media and public opinion is becoming increasingly complex."（媒体与公众舆论之间的反馈循环正变得日益复杂——考研社科类阅读）
-> - "We need to break the vicious loop of poverty and ignorance."（我们需要打破贫困与无知的恶性循环——考研写作可用表达）
+> - Tie the ends of the rope together in a loop. `[例]`
+> - The building is set within a loop of the River Wye. `[例]`
+> - For light , we had candles in jam jars hanging on loops of string . `[例]`
 
 
 ---

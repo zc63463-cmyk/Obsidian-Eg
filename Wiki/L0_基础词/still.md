@@ -136,8 +136,9 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite decades of research, the mystery of dark matter still remains unsolved."（尽管研究了数十年，暗物质之谜仍然没有解开）
-> - "The lake was perfectly still, reflecting the mountains like a mirror."（湖面平静如镜，倒映着群山）
+> - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
+> - I still haven't finished writing my essay . `[例]`
+> - There is still no news about the hostages . `[例]`
 
 
 ---

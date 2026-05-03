@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**海石竹（一种生长在海边的粉色小花）**==；
+**n.** ①==**海石竹（一种生长在海边的粉色小花）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：海边开粉色花的植物（sea + pink 的字面组合）
@@ -118,8 +118,8 @@ sea(海) + pink(粉色) → 字面组合，指在海边生长的粉色小花。�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The cliffs were carpeted with sea-pinks in late spring."（晚春时节，悬崖上铺满了海石竹。）
-> - "Sea-pinks thrive in salty, windy conditions that would kill most other flowers."（海石竹在会杀死大多数其他花卉的盐碱多风环境中茁壮生长。）
+> - A few sea pinks were still in bloom on the cliffs . `[例]`
+> - Sea pinks , sea kale , and ground elder grow on this wild stretch of coast . `[例]`
 
 ## 复习记录
 

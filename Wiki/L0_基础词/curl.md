@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She curled up on the sofa with a good book."（她蜷缩在沙发上，手里拿着一本好书——文学/日常语料）
-> - "A curl of smoke rose from the chimney."（一缕烟从烟囱中袅袅升起——描写类语料）
+> - Her hair fell in curls over her shoulders . `[例]`
+> - Curls of smoke were rising from the chimney . `[例]`
+> - The curl on the shot sent it looping around the keeper into the far corner of the net . `[例]`
 
 
 ---

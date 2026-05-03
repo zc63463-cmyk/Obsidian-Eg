@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "win the support of the public"（赢得公众支持）——考研阅读中政治/社会话题
-> - "a win-win strategy"（双赢策略）——商业/外交类阅读
-> - "win a scholarship to study abroad"（赢得出国留学的奖学金）——教育类话题
+> - If this government win the next election , I'm leaving the country . `[例]`
+> - Everyone likes winning an argument . `[例]`
+> - She would do anything to win his love . `[例]`
 
 ---
 

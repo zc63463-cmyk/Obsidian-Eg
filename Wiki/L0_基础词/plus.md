@@ -139,8 +139,9 @@ plus 直接来自拉丁语 *plus*（更多），与 [[plural]]（复数）同源
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cost is $100 plus tax."（费用是100美元外加税。——考研阅读常见商业话题）
-> - "On the plus side, the new policy has created more job opportunities for young people."（从好的方面来看，新政策为年轻人创造了更多就业机会。——考研写作常见表达）
+> - What is six plus four? `[例]`
+> - The rent will be £175 a week , plus (= added to the cost of) gas and electricity . `[例]`
+> - There will be two adults travelling , plus three children . `[例]`
 
 
 ---

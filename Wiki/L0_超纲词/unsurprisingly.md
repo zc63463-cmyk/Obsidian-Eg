@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不出所料地，毫不奇怪地**==；
+**adv.** ①==**不出所料地，毫不奇怪地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：不令人惊讶地（un-不 + surprise惊讶 + -ing...的 + -ly...地 → 不令人惊讶地）
@@ -125,8 +125,8 @@ un-(不，否定) + [[sur-]](在...之上→surprise 源自古法语 *surprendre
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Unsurprisingly, the company's profits declined sharply after the scandal broke.（不出所料，丑闻曝光后公司的利润急剧下降。）
-> - Not unsurprisingly, those who prepared thoroughly performed better on the exam.（并不出人意料的是，充分准备的人在考试中表现更好。）
+> - Perhaps unsurprisingly, the film was not a success . `[例]`
+> - Room service is impeccable , unsurprisingly. `[例]`
 
 ## 复习记录
 

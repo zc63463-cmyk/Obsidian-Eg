@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**核的，原子核的**==；②==**核能的，核武器的**==；③==**核心的，中心的**==（如 nuclear family）；
+**adj.** ①==**核的，原子核的**== `adj`；②==**核能的，核武器的**== `adj`；③==**核心的，中心的**== `adj`（如 nuclear family）；
 
 > [!tip] 原型义
 > **原型义**：像坚果核一样的（中心的核心部分）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The debate over nuclear energy has intensified as countries seek alternatives to fossil fuels in the fight against climate change."（随着各国在应对气候变化中寻找化石燃料的替代品，关于核能的争论日益激烈——考研阅读环保话题相关表达）
-> - "The nuclear family, consisting of two parents and their children, has been the basic unit of social organization in many Western societies."（由父母和子女组成的核心家庭一直是许多西方社会组织的基本单位——考研阅读社会话题相关表达）
+> - How many nations have a nuclear capability (= have nuclear weapons ) ? `[例]`
+> - Nuclear disarmament (= giving up or removing a country’s nuclear weapons ). `[例]`
+> - The country had agreed to disable its main nuclear fuel production plant by the end of the year . `[例]`
 
 
 ---

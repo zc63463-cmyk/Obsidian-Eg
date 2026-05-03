@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**声呐，声波导航与测距系统**==；②声呐装置；
+**n.** ①==**声呐，声波导航与测距系统**== `N`；②==**声呐装置**== `N`；
 
 > [!tip] 原型义
 > **原型义**：利用声波在水中传播来探测物体位置和距离的技术
@@ -124,7 +124,8 @@ sonar（缩写词：**so**und **na**vigation and **r**anging，声波导航与�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The submarine used passive sonar to detect enemy vessels without revealing its own position."（潜艇使用被动声呐探测敌方舰艇，同时不暴露自身位置。）
+> - They detected the submarine by using sonar . `[例]`
+> - Often they use sonar to look for sunken ships on the sea floor. `[例]`
 
 ## 复习记录
 

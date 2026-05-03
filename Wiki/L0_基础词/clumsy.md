@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The clumsy handling of the crisis damaged the government's reputation."（对危机的笨拙处理损害了政府的声誉）
-> - "His clumsy fingers struggled to thread the needle."（他笨拙的手指费力地穿针引线）
+> - That's the third glass you've smashed this week - you're so clumsy! `[例]`
+> - The first mobile phones were heavy and clumsy to use, but nowadays they are much easier to handle . `[例]`
+> - Her clumsy handling of the situation only made it worse . `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**省，省份**==；②（知识、活动等的）领域，范围；
+**n.** ①==**省，省份**== `N`；②==**（知识、活动等的）领域，范围**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在前面征服的（源自拉丁语 *provincia*，pro-在前 + vincere-征服）
@@ -124,8 +124,9 @@ pro-(向前/在前) + [[vinc-vict|vinc]](征服，拉丁语 *vincere*) + -e(名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Guangdong is one of the most developed provinces in China."（广东是中国最发达的省份之一。）
-> - "This matter falls outside the province of this committee."（此事不属于该委员会的管辖范围。）
+> - Edmonton is the capital city of the Canadian province of Alberta. `[例]`
+> - Asia Minor was Rome's richest province. `[例]`
+> - Viareggio is the main coastal town in the Province of Lucca, in Italy. `[例]`
 
 
 ---

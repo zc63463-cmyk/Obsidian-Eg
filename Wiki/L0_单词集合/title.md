@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "entitle sb. to do sth."（赋予某人做某事的权利）——考研高频搭配，常出现在法律/社会类阅读
-> - "title deed"（地契/所有权证书）——考研法律/经济类阅读
-> - "win the championship title"（赢得冠军头衔）——考研阅读体育/竞赛类语料
+> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
+> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
+> - The title of Evelyn Waugh's first novel was "Decline and Fall". `[例]`
 
 ---
 

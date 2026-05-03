@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**学术的，学业的**==；②==**经院哲学的**==；③学究式的，过于注重理论的；
+**adj.** ①==**学术的，学业的**== `adj`；②==**经院哲学的**== `adj`；③==**学究式的，过于注重理论的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与学校有关的（在学校中进行的学术活动）
@@ -127,8 +127,8 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The scholastic aptitude test has been used as a standard measure of academic readiness."（学术能力测试一直被用作衡量学术准备情况的标准。）
-> - "Scholastic philosophy dominated European thought during the Middle Ages."（经院哲学在中世纪主导了欧洲思想。）
+> - Laura’s scholastic achievements won her acceptance into Harvard. `[例]`
+> - A college that gives a higher priority to scholastic endeavors than to athletic pursuits. `[例]`
 
 ## 复习记录
 

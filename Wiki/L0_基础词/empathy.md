@@ -127,8 +127,9 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many respondents showed tremendous empathy for ex-combatants and emphasised that they would not normally commit atrocities."（许多受访者对前战斗人员表现出极大的共情，并强调他们通常不会犯下暴行——剑桥词典例句）
-> - "In the present study we assess the third component, empathy, by children's self-reports of affective response to social stimuli."（在本研究中，我们通过儿童对社会刺激的情感反应的自我报告来评估第三个组成部分——共情——剑桥词典学术例句）
+> - He loves children and has a certain empathy with them. `[例]`
+> - Part of it may not be empathy, but simply be precaution and an insurance for the event of personal misfortune. `[例]`
+> - Some of the settlers had empathy with the dolphins to a high degree, but Ross's own powers of contact were relatively feeble. `[例]`
 
 
 ---

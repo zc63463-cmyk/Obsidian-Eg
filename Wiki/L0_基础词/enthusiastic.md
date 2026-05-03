@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students who are enthusiastic about learning tend to perform better academically and develop stronger critical thinking skills."（对学习充满热情的学生往往在学业上表现更好，并发展出更强的批判性思维能力——考研阅读教育话题）
-> - "The government received an enthusiastic response from the public when it announced the new environmental protection policy."（当政府宣布新的环保政策时，获得了公众的热情回应——考研阅读政策话题）
+> - Well, you could try to look a little more enthusiastic! `[例]`
+> - They were tired , but not any less enthusiastic on that account . `[例]`
+> - I don't think they liked my idea . At any rate , they weren't very enthusiastic about it. `[例]`
 
 
 ---

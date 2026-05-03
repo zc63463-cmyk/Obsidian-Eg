@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**永恒的，不受时间影响的**==；②永不过时的，经典的；
+**adj.** ①==**永恒的，不受时间影响的**== `adj`；②==**永不过时的，经典的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：永恒的，不受时间影响的（超越时间的）
@@ -127,8 +127,8 @@ time（时间）+ -less（没有…的，否定后缀）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The novel explores timeless themes of love, loss, and redemption."（这部小说探讨了爱、失去和救赎等永恒的主题）
-> - "Her designs have a timeless quality that transcends fashion trends."（她的设计具有超越时尚潮流的永恒品质）
+> - The city has a timeless quality as if it had existed forever . `[例]`
+> - Rothko's paintings have a timeless quality . `[例]`
 
 ## 复习记录
 

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Violence erupted in several cities following the controversial court ruling."（争议性法院裁决后，多个城市爆发了暴力事件——考研阅读社会话题高频表达）
-> - "The volcano erupted unexpectedly, sending ash thousands of meters into the atmosphere."（火山意外喷发，将火山灰喷射到数千米高的大气中——考研阅读自然话题常见表达）
+> - Since the volcano last erupted, many houses have been built in a dangerous position on its slopes . `[例]`
+> - At the end of a hot summer , violence erupted in the inner cities . `[例]`
+> - Clashes erupted between protesters and police . `[例]`
 
 
 ---

@@ -132,8 +132,9 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The book captures the unique flavour of life in rural England during the early twentieth century, with vivid descriptions of village customs and traditions."（这本书以生动的村庄风俗和传统描写，捕捉了20世纪初英国乡村生活的独特韵味——考研阅读文学话题相关表达）
-> - "Globalization has led to a certain homogenization of culture, with many cities losing their distinctive local flavour as international chains replace traditional businesses."（全球化导致了某种程度的文化同质化，随着国际连锁店取代传统商业，许多城市失去了其独特的地方特色——考研翻译文化话题相关表达）
+> - Add a little salt to bring out the flavour of the herbs . `[例]`
+> - My fish was delicious but Charles' beef had almost no flavour (= did not taste of anything) . `[例]`
+> - This wine has a light , fruity flavour (= the taste of fruit ) . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**暴风雨，风暴**==；②（感情、政治等的）风暴，动乱；
+**n.** ①==**暴风雨，风暴**== `N`；②==**（感情、政治等的）风暴，动乱**== `N`；
 
 > [!tip] 原型义
 > **原型义**：暴风雨（猛烈的风暴）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Shakespeare's The Tempest is considered one of his greatest works."（莎士比亚的《暴风雨》被认为是他最伟大的作品之一）
-> - "The scandal created a political tempest that forced the minister to resign."（这桩丑闻引发了一场政治风暴，迫使部长辞职）
+> - The screaming tempest whipped into the house, hurling furniture across the room. `[例]`
+> - The town council handled the tempest over cuts to the school budget as well as could be expected. `[例]`
 
 ## 复习记录
 

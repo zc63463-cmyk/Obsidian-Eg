@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite government efforts to stimulate growth, the economy has stagnated for three consecutive years, leaving millions of workers unemployed."（尽管政府努力刺激增长，但经济已连续三年停滞，导致数百万人失业——考研阅读经济话题相关表达）
-> - "As wages stagnated while the cost of living continued to rise, many middle-class families found themselves struggling to maintain their standard of living."（随着工资停滞不前而生活成本持续上涨，许多中产家庭发现自己难以维持生活水平——考研阅读社会话题相关表达）
+> - The electronics industry is showing signs of stagnating after 15 years of growth . `[例]`
+> - My music career had stagnated. `[例]`
+> - For now, the strong currents mean water is relatively clean but when the levels subside the water will stagnate. `[例]`
 
 
 ---

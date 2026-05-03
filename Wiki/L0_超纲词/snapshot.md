@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**快照，抓拍照片**==；②简要印象，概况；③（数据/系统的）快照；
-**v.** ①给……拍快照；②快速记录；
+**n.** ①==**快照，抓拍照片**== `N`；②==**简要印象，概况**== `N`；③==**（数据/系统的）快照**== `N`；
+**v.** ①==**给……拍快照**== `V`；②==**快速记录**== `V`；
 
 > [!tip] 原型义
 > **原型义**：快速拍摄的照片（snap"咔嚓一声"+ shot"拍摄"）
@@ -129,7 +129,8 @@ snap(快速咬合/咔嚓一声) + shot(射击/拍摄)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The report provides a snapshot of the current state of the housing market."（这份报告提供了当前房地产市场状况的概况。）
+> - Credit rating agencies provide a snapshot of the risks an investment poses at any one time . `[例]`
+> - Snapshots of the children. `[例]`
 
 ## 复习记录
 

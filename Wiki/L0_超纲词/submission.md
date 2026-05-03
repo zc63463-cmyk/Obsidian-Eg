@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**提交，呈递**==；②==**屈服，服从**==；③提交的文件/作品；
+**n.** ①==**提交，呈递**== `N`；②==**屈服，服从**== `N`；③==**提交的文件/作品**== `N`；
 
 > [!tip] 原型义
 > **原型义**：放在下面（把自己放到别人之下→屈服；把文件放到评审之下→提交）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The deadline for submission of applications is March 31st.（申请提交的截止日期是3月31日。）
-> - He refused to show submission to the new management.（他拒绝向新管理层表示屈服。）
+> - No date has yet been set for the submission of applications . `[例]`
+> - The final deadline for submissions is 21 February . `[例]`
 
 ## 复习记录
 

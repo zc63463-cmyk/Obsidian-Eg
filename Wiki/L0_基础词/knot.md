@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His clumsy fingers couldn't untie the knot."（他的手很笨拙，无法解开这个结。——通用例句）
-> - "In a 20-knot breeze, the sailing was exhilarating."（在20节微风中，帆船运动令人兴奋。——通用例句）
+> - I can't untie the knot - it's too tight . `[例]`
+> - Alice's hair is always full of knots and tangles . `[例]`
+> - Knots of anxious people stood waiting in the hall . `[例]`
 
 
 ---

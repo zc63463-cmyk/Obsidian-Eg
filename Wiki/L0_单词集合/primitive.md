@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**原始的，早期的**==；②简陋的，落后的；③原始人的；
+**adj.** ①==**原始的，早期的**== `adj`；②==**简陋的，落后的**== `adj`；③==**原始人的**== `adj`；
 
-**n.** ①原始人；②原始艺术家；
+**n.** ①==**原始人**== `N`；②==**原始艺术家**== `N`；
 
 > [!tip] 原型义
 > **原型义**：原始的（时间上排在最前面的，最早的）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some primitive tribes still maintain their traditional way of life in remote regions."（一些原始部落仍在偏远地区保持着传统的生活方式。）——考研高频表达
-> - "The tools discovered at the archaeological site were remarkably primitive compared to modern technology."（在考古遗址发现的工具与现代技术相比非常原始。）——考研高频表达
+> - Primitive races colonized these islands 2,000 years ago. `[例]`
+> - The spiny anteater is a mammal , although a very primitive one. `[例]`
+> - Early settlers had to cope with very primitive living conditions . `[例]`
 
 ---
 

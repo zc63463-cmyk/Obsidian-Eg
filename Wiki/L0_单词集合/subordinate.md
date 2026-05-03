@@ -138,8 +138,9 @@ sub-(在下) + 建议创建词根笔记 [[ordin]](秩序，排列) + -ate(形容
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her work was subordinate to the needs of the project."（她的工作被置于项目需求之后，处于次要位置。）——2020年考研英语一Text3
-> - "He treated his subordinates with respect and fairness."（他以尊重和公正的态度对待下属。）——考研高频表达
+> - The individual's needs are subordinate to those of the group . `[例]`
+> - He left the routine checks to one of his subordinates. `[例]`
+> - Dog" is a subordinate of the category " pet ". `[例]`
 
 ---
 

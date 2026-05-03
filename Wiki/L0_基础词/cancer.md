@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**癌，癌症**== `N` [医学]；②==**恶性肿瘤**== `N` [医学]；③==**（社会）弊端，毒瘤**== `N` [隐喻]；
+**n.** ①==**癌，癌症**==；②恶性肿瘤；③（社会）弊端，毒瘤；
 
 > [!tip] 原型义
 > **原型义**：癌（恶性肿瘤）
@@ -127,9 +127,9 @@ cancer 源自拉丁语 *cancer*（螃蟹、蟹），因为古希腊医生发现�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I have great confidence that by the end of the decade we'll know in vast detail how cancer cells arise. `[真题]`
-> - The most obvious example is late-stage cancer care. `[COCA-ACAD]`
-> - Lung cancer is the leading cause of cancer death worldwide. `[COCA-ACAD]`
+> - It was a secondary cancer. `[例]`
+> - Drug abuse is a cancer that is destroying our society . `[例]`
+> - Praesepe is a faint cluster of stars in the constellation of Cancer. `[例]`
 
 
 ---

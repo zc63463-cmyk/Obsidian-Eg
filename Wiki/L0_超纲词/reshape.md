@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**重新塑造，改变……的形态**==；②重塑，改造（观念、制度等）；
+**v.** ①==**重新塑造，改变……的形态**== `V`；②==**重塑，改造（观念、制度等）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：重新塑造形状（给事物一个新的外形）
@@ -126,8 +126,8 @@ re-(再次，重新) + [[form|shape]](形状，形态)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Technology has fundamentally reshaped the way we communicate and interact."（技术从根本上重塑了我们交流和互动的方式。）
-> - "The pandemic reshaped the global economy in ways no one could have predicted."（疫情以无人能够预料的方式重塑了全球经济。）
+> - Baby boomers continue to reshape society as they age . `[例]`
+> - Governments have sought to reduce or reshape health programs . `[例]`
 
 ## 复习记录
 

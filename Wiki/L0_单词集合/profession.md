@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**职业，专业**== ; ②==**声明，表白**==（仅限旧用法/固定搭配） ;
+**n.** ①==**职业，专业**== `N` ; ②==**声明，表白**== `N`（仅限旧用法/固定搭配） ;
 
 > [!tip] 原型义
 > **原型义**：职业、专业——公开声称自己从事的事业
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Journalism is a profession that requires both skill and integrity."（新闻业是一个既需要技能又需要诚信的职业——考研高频表达）
-> - "She entered the teaching profession after graduating from university."（大学毕业后她从事了教师职业——考研高频表达）
+> - He left the teaching profession in 1965 to start his own business . `[例]`
+> - The report notes that 40 percent of lawyers entering the profession are women. `[例]`
+> - Teaching as a profession is very underpaid . `[例]`
 
 
 ---

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**滴流，细流**==；②慢慢移动，逐渐散开；
-**n.** ③滴流，细流；④（人或事物的）涓涓细流；
+**v.** ①==**滴流，细流**== `V`；②==**慢慢移动，逐渐散开**== `V`；
+**n.** ③==**滴流，细流**== `N`；④==**（人或事物的）涓涓细流**== `N`；
 
 > [!tip] 原型义
 > **原型义**：滴流，细流（液体缓慢地一滴一滴流下）
@@ -125,9 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Water trickled slowly from the leaky faucet."（水从漏水的龙头中慢慢滴流）
-> - "News of the scandal began to trickle out."（丑闻的消息开始慢慢传出）
-> - "Trickle-down economics has been widely criticized for increasing inequality."（涓滴经济学因加剧不平等而受到广泛批评）
+> - Blood trickled out of the corner of his mouth . `[例]`
+> - Gradually people trickled back into the theatre for the second half . `[例]`
 
 ## 复习记录
 

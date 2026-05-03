@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**荒凉的，凄凉的**== `adj N` `adj landscape/hillside/moor`；②==**暗淡的，没有希望的**== `adj N` `adj future/prospect/outlook`；③==**寒冷刺骨的**== `adj N` `adj winter/day`；④==**（天气）阴冷的**== `adj N`；
+**adj.** ①==**荒凉的，凄凉的**==；②暗淡的，没有希望的；③寒冷刺骨的；④（天气）阴冷的；
 
 > [!tip] 原型义
 > **原型义**：苍白的，光秃的（没有遮蔽、没有色彩的裸露状态）
@@ -125,10 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The economic outlook looks increasingly bleak. `[COCA-NEWS]`
-> - The landscape looked bleak and desolate in the rain. `[COCA-ACAD]`
-> - Prospects for the industry are extremely bleak. `[例]`
-> - They faced a financially bleak Christmas. `[例]`
+> - The house stands on a bleak, windswept hilltop . `[例]`
+> - The economic outlook is bleak. `[例]`
+> - It was a bleak, unpleasant day in December . `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old man lumbered across the room with difficulty."（老人艰难地笨拙走过房间）
-> - "The lumber industry was once the backbone of this region's economy."（木材工业曾是这个地区经济的支柱）
+> - In the distance , we could see a herd of elephants lumbering across the plain . `[例]`
+> - A noisy , old , pickup truck lumbered past. `[例]`
+> - A lumber room (= for storing lumber in). `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**限制性的，约束的**==；②（语法）限制性的（如限制性定语从句）；
+**adj.** ①==**限制性的，约束的**== `adj`；②==**（语法）限制性的（如限制性定语从句）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：往回拉紧（拉紧绳子→限制行动）
@@ -127,8 +127,8 @@ re-(回，向后) + [[strict|stringere]](拉紧，束缚，拉丁语 *stringere*
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government imposed restrictive measures to control the spread of the virus."（政府实施了限制性措施以控制病毒传播。）
-> - "Restrictive covenants in the contract limited the company's ability to expand."（合同中的限制性条款限制了公司的扩张能力。）
+> - He is self-employed because he finds working for other people too restrictive. `[例]`
+> - The college is not able to expand because of restrictive planning laws . `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**用力擦洗，刷洗**==；②取消，中止（计划等）；
-**n.** ①==**矮树丛，灌木丛**==；②擦洗；
+**v.** ①==**用力擦洗，刷洗**== `V`；②==**取消，中止（计划等）**== `V`；
+**n.** ①==**矮树丛，灌木丛**== `N`；②==**擦洗**== `N`；
 
 > [!tip] 原型义
 > **原型义**：用力擦洗（用刷子或手反复摩擦以去除污垢）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "NASA was forced to scrub the launch due to bad weather."（由于天气恶劣，NASA 被迫取消了发射。）
-> - "She scrubbed the pots and pans until they shone."（她使劲擦洗锅碗瓢盆，直到它们闪闪发光。）
+> - She scrubbed (at) the mark on the wall for a long time , but it wouldn't come off. `[例]`
+> - He scrubbed the old saucepan clean , and it looked as good as new. `[例]`
 
 ## 复习记录
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**操作，运转**==；②==**手术**==；③==**运营，经营**==；④==**行动，活动**==；⑤==**运算**==；
+**n.** ①==**操作，运转**== `N`；②==**手术**== `N`；③==**运营，经营**== `N`；④==**行动，活动**== `N`；⑤==**运算**== `N`；
 
 > [!tip] 原型义
 > **原型义**：工作、劳动的过程或结果（operate 的名词形式）
@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new law will come into operation next month."（新法律将于下月生效）——考研阅读常见搭配，法律政策类
-> - "The hospital performs over 200 operations a week."（这家医院每周进行200多台手术）——医学/社会类阅读语境
-> - "The company's overseas operations have been expanding rapidly."（该公司的海外业务迅速扩张）——商业类阅读语境
+> - The efficient operation of the local housing market. `[真题]`
+> - There are several reactors of the type in operation (= working ) at the moment . `[例]`
+> - We expect the new system for assessing claims to come into operation (= start working ) early next year . `[例]`
 
 ---
 

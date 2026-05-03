@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government should focus more on addressing the root causes of inequality rather than treating its symptoms."（政府应该更加关注解决不平等的根源，而不是仅仅处理其表象——考研阅读社会话题高频表达）
-> - "The study focuses on the relationship between social media use and mental health among teenagers."（该研究聚焦于青少年社交媒体使用与心理健康之间的关系——考研阅读学术话题常见表达）
+> - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
+> - I think Dave likes to be the focus of attention . `[例]`
+> - The main focus of interest at the fashion show was Christian Lacroix's outrageous evening wear . `[例]`
 
 
 ---

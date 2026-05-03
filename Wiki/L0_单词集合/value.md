@@ -145,9 +145,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "society should attach more value to education"（社会应更加重视教育）——考研作文常见主题
-> - "traditional values are being challenged"（传统价值观正受到挑战）——社会类阅读高频话题
-> - "the value of this research cannot be overstated"（这项研究的价值怎么强调都不为过）——学术类文本
+> - She denies the value of scientific work. `[真题]`
+> - She had already sold everything of value that she possessed . `[例]`
+> - What is the value of the prize ? `[例]`
 
 ---
 

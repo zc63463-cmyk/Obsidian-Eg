@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university's career services office put up posters advertising internship opportunities at various companies."（大学就业服务中心张贴了海报，宣传各公司的实习机会——考研阅读教育话题相关表达）
-> - "During World War II, propaganda posters were widely used to encourage citizens to support the war effort."（在第二次世界大战期间，宣传海报被广泛用于鼓励公民支持战争——考研阅读历史话题相关表达）
+> - The children put up posters on the classroom walls . `[例]`
+> - We noticed a poster advertising a circus . `[例]`
+> - There was a lively debate on the message boards , with many posters arguing against the plan . `[例]`
 
 
 ---

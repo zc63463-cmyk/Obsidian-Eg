@@ -134,8 +134,9 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The snow covered up the fields with a white cloak."（积雪给田野盖上了一件白色的外衣——常见文学用法）
-> - "He donned his cloak and gloves before stepping out into the cold night."（他在步入寒冷的夜色之前穿上了斗篷和手套——常见搭配用法）
+> - The restaurant he owned was just a cloak for (= hid ) his drug-dealing activities . `[例]`
+> - They left the house under cloak of darkness . `[例]`
+> - He has always kept his love affairs cloaked in secrecy (= kept them secret ) . `[例]`
 
 
 ---

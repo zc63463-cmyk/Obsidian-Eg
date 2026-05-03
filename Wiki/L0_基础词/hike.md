@@ -129,8 +129,9 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government's decision to hike taxes on luxury goods sparked widespread protests among middle-class consumers who felt unfairly targeted."（政府决定提高奢侈品税的决定引发了中产阶级消费者的广泛抗议，他们觉得自己被不公平地针对了——考研阅读经济话题相关表达）
-> - "The sudden hike in oil prices sent shockwaves through the global economy, affecting everything from transportation costs to the price of basic necessities."（油价突然大幅上涨对全球经济造成了冲击，影响了从运输成本到基本生活必需品价格的一切——考研翻译经济话题相关表达）
+> - The recent hike in train fares came as a shock to commuters . `[例]`
+> - We're going hiking in the Sierra Nevada. `[例]`
+> - The Royal Mail has announced it is hiking the price of a stamp . `[例]`
 
 
 ---

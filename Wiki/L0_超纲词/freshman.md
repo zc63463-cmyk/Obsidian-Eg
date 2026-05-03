@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（大学）新生**== `N` [通用]；②==**新手，初学者**== `N` [口语]；
-**adj.** ①新生的；②无经验的；
+**n.** ①==**（大学）新生**== `N`；②==**新手，初学者**== `N`；
+**adj.** ①==**新生的**== `adj`；②==**无经验的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：新生（第一次接触某事物的人）
@@ -127,8 +127,8 @@ fresh(新鲜的，新来的) + man(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many college freshmen struggle with the transition from high school to university life. `[例]`
-> - The freshman seminar is designed to help new students adapt to academic life. `[例]`
+> - He's a freshman at Harvard. `[例]`
+> - Greg and Jody met in their freshman year at college and married soon after they graduated . `[例]`
 
 ## 复习记录
 

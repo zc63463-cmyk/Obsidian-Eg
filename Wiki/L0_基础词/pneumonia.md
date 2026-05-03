@@ -125,8 +125,9 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His disease was complicated by pneumonia."（他的病因肺炎并发症而变得更加复杂——医学文献常见表达）
-> - "Pneumonia carried him off last winter."（他去年冬天因肺炎去世——文学常见表达）
+> - People who are bedridden can easily get pneumonia. `[例]`
+> - She'll catch pneumonia going out without a coat in this weather ! `[例]`
+> - Pneumococcal Adults 50 and older are now eligible for the pneumococcal vaccine, which protects against a bacterial infection that can cause pneumonia and other serious illnesses, Nadolne said. `[例]`
 
 
 ---

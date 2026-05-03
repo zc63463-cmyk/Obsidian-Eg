@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**片刻地，短暂地**== `V adv` [文学]；②==**随时，马上**== `V adv` [美式]；
+**adv.** ①==**片刻地，短暂地**== `adv`；②==**随时，马上（美式用法）**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：片刻地，短暂地
@@ -124,8 +124,8 @@ moment(片刻，拉丁语 *momentum* 运动/瞬间) + -ar(形容词后缀) + -ly
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` She was momentarily distracted by the noise outside. [C]
-> - `[例]` The train will arrive momentarily, so please stand behind the yellow line. [C]
+> - She was momentarily confused by the foreign road signs . `[例]`
+> - I'll be ready to leave momentarily. `[例]`
 
 ## 复习记录
 

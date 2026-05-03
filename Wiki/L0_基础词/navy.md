@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rug was navy blue and the walls were painted white with a blue border."（地毯是海军蓝的，墙壁漆成白色，带有蓝色边框。——Cambridge Dictionary）
-> - "Parliament drew Nehemiah into naval service in 1650 and John soon followed."（1650年，议会将尼希米征召入海军服役，约翰很快也跟随其后。——Longman Dictionary）
+> - My brother is an officer in the Navy. `[例]`
+> - Gabriel joined the navy in 1997. `[例]`
+> - He was wearing a navy sweater . `[例]`
 
 
 ---

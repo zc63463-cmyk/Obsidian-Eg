@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Modern smoke detectors can detect even the smallest amount of smoke, providing early warning that can save lives in a fire emergency."（现代烟雾探测器能检测到即使是最微量的烟雾，在火灾紧急情况下提供能挽救生命的早期预警——考研阅读科技话题相关表达）
-> - "Airport security has been significantly enhanced with the introduction of advanced metal detectors and X-ray scanners."（随着先进的金属探测器和X光扫描仪的引入，机场安全已得到显著加强——考研翻译科技话题相关表达）
+> - Using metal detectors to improve safety at airports. `[例]`
+> - A motion detector to thwart burglaries. `[例]`
+> - The detectors were right outside the event hall and where the bathrooms for the event were located, and the assailant was taken to the ground about 10 to 15 feet beyond them, attendees said. `[例]`
 
 
 ---

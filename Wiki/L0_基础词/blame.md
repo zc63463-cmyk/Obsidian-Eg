@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**责备，指责**== `V N for N`；②==**把……归咎于**== `V N on N`；
-**n.** ①==**责备，指责**==；②==**责任，过错**== `take the blame` `be to blame`；
+**vt.** ①==**责备，指责**==；②==**把……归咎于**==；
+**n.** ①==**责备，指责**==；②==**责任，过错**==；
 
 > [!tip] 原型义
 > **原型义**：亵渎的言论（说人坏话，引申为指责，源自晚期拉丁语 *blasphemare*）
@@ -132,10 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You are not to blame for the accident; it was the other driver's fault." `[COCA-FIC]`
-> - "The government blamed the economic downturn on global factors." `[COCA-NEWS]`
-> - "Hugh blames his mother for his lack of confidence." `[COCA-FIC]`
-> - "The hot weather is partly to blame for the water shortage." `[COCA-NEWS]`
+> - Don't blame me (= it is not my fault ) if you miss the bus ! `[例]`
+> - Hugh blames his mother for his lack of confidence . `[例]`
+> - Hugh blames his lack of confidence on his mother . `[例]`
 
 
 ---

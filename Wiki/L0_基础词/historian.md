@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Historians have long debated the true causes of the empire's decline, with some attributing it to economic factors while others point to internal political corruption."（历史学家长期以来一直在争论帝国衰落的真正原因，一些人将其归因于经济因素，而另一些人则指出是内部政治腐败——考研阅读历史话题相关表达）
-> - "According to prominent historians, the invention of the printing press was one of the most transformative events in human history, revolutionizing the way knowledge was disseminated."（据著名历史学家称，印刷术的发明是人类历史上最具变革性的事件之一，彻底改变了知识传播的方式——考研翻译科技话题相关表达）
+> - Her father was an eminent historian. `[例]`
+> - This is the acclaimed historian John Taylor's first sortie into fiction . `[例]`
+> - Some historians think that history repeats itself. `[例]`
 
 
 ---

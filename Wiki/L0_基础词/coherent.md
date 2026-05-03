@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author presents a coherent argument that technology should serve human needs rather than dictate them."（作者提出了一个条理清楚的论点，即技术应该服务于人类需求，而不是支配人类需求——考研阅读科技话题）
-> - "A coherent approach to environmental protection requires the collaboration of governments, businesses, and individuals."（一种连贯的环保方法需要政府、企业和个人的合作——考研阅读环保话题）
+> - For questions 41-45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-H and filHng them into the numbered boxes. `[真题]`
+> - When she calmed down, she was more coherent (= able to speak clearly and be understood ) . `[例]`
+> - The president has not presented a coherent plan for dealing with it. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**谨慎的，审慎的**== ; ②明智的，精明的
+**adj.** ①==**谨慎的，审慎的**== `adj` ; ②==**明智的，精明的**== `adj`
 
 > [!tip] 原型义
 > **原型义**：有远见的，提前预见的（能够预见未来并做好准备）
@@ -134,8 +134,9 @@ prud(= provident，有远见的/预见) + -ent(形容词后缀，……的) = pr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It would be prudent to save some money for unexpected expenses rather than spending everything you earn."（留一些钱以备意外支出是明智的，而不是把赚来的钱全部花掉。）——考研高频表达
-> - "A prudent investor diversifies their portfolio to minimize risk."（谨慎的投资者会分散投资组合以降低风险。）——考研高频表达
+> - It's always prudent to read a contract carefully before signing it. `[例]`
+> - His decision was prudent and timely . `[例]`
+> - They insisted that the deal is fiscally prudent and would not put the city budget at risk . `[例]`
 ---
 
 

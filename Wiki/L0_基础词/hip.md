@@ -135,8 +135,9 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The elderly patient underwent a successful hip replacement surgery, which significantly improved her mobility and quality of life."（这位老年患者成功接受了髋关节置换手术，这显著改善了她的活动能力和生活质量——考研阅读医学话题相关表达）
-> - "The hip-hop culture that emerged from the streets of New York in the 1970s has grown into a global phenomenon that transcends racial and cultural boundaries."（20世纪70年代从纽约街头兴起的嘻哈文化已经发展成为一种超越种族和文化界限的全球现象——考研翻译文化话题相关表达）
+> - This exercise is designed to trim your hips and stomach . `[例]`
+> - The skirt was a bit tight across the hips. `[例]`
+> - The bars in the old part of the town are frequented by hip young students . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**劳动力，劳动大军**==；②（某组织或行业的）全体员工；
+**n.** ①==**劳动力，劳动大军**== `N`；②==**（某组织或行业的）全体员工**== `N`；
 
 > [!tip] 原型义
 > **原型义**：工作的劳动力（work 工作 + force 力量 → 工作的力量 → 劳动力）
@@ -127,8 +127,8 @@ work（工作，古英语 *weorc*）+ force（力量，拉丁语 *fortis* 通过
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A highly skilled workforce is essential for economic growth in the digital age."（在数字时代，高素质的劳动力对经济增长至关重要）
-> - "The company plans to reduce its workforce by 10% due to declining profits."（由于利润下降，公司计划裁员10%）
+> - The majority of factories in the region have a workforce of 50 to 100 ( people ). `[例]`
+> - As CEO , she is responsible for a workforce of 29,000 people . `[例]`
 
 ## 复习记录
 

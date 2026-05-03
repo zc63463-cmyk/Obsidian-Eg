@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The report describes the current situation as "unsustainable."（报告将当前局势描述为"不可持续的"。）——考研阅读真题
-> - "It is difficult to describe the beauty of the landscape in words."（很难用语言来描述这片风景的美丽。）——考研高频表达
+> - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
+> - Could you describe your attacker ? `[例]`
+> - He described the painting in detail . `[例]`
 
 ---
 

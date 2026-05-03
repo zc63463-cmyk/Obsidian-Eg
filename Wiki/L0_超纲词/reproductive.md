@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**生殖的，繁殖的**==；②复制的，再现的；
+**adj.** ①==**生殖的，繁殖的**== `adj`；②==**复制的，再现的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：再次引导产生（引导新生命产生→繁殖）
@@ -126,8 +126,8 @@ re-(再次，反复) + pro-(向前) + [[duct|duct]](引导，带领) + -ive(形�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Advances in reproductive technology have raised complex ethical questions."（生殖技术的进步引发了复杂的伦理问题。）
-> - "Women's reproductive rights remain a contentious issue in many countries."（女性的生育权在许多国家仍然是一个有争议的问题。）
+> - Some studies have linked hormones in the water to damaged reproductive organs in fish . `[例]`
+> - The review also analyzed the role climate change plays in declining birth rates, finding higher temperatures constitute a heavy toll on the reproductive prospects of most animal life. `[例]`
 
 ## 复习记录
 

@@ -131,8 +131,9 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The terrorists hijacked the commercial airliner and demanded the release of their imprisoned comrades in exchange for the safety of the passengers."（恐怖分子劫持了这架商业客机，要求释放他们被关押的同伴以换取乘客的安全——考研阅读国际话题相关表达）
-> - "Critics argued that a small group of legislators had hijacked the reform agenda, pushing forward policies that benefited only a narrow segment of the population."（批评者认为，一小群立法者操纵了改革议程，推行了只惠及少数人的政策——考研翻译政治话题相关表达）
+> - Two men hijacked a jet travelling to Paris and demanded $125,000. `[例]`
+> - He resents the way his ideas have been hijacked by others in the department . `[例]`
+> - The hijack ended with the release of all the plane's passengers unharmed . `[例]`
 
 
 ---

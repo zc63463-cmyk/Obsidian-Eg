@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**选择**==；②决定做某事；
+**v.** ①==**选择**== `V`；②==**决定做某事**== `V`；
 
 > [!tip] 原型义
 > **原型义**：选择（做出选择的行为）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They found that the majority of both kids and adults opted for a half-sized portion when combined with a prize."（他们发现，当与奖品结合时，大多数孩子和成年人都选择了半份。——考研真题阅读）
-> - "He didn't exactly opt out because he never opted in."（确切地说他并没有退出，因为他压根儿就没有参加。——柯林斯词典例句）
+> - Mike opted for early retirement . `[例]`
+> - Most people opt to have the operation . `[例]`
+> - Instead of a soft drink , she opted for water . `[例]`
 
 
 ---

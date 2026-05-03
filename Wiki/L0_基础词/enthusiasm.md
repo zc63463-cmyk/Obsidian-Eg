@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The teacher's enthusiasm for the subject was infectious, inspiring students to develop a genuine love for learning."（老师对这门学科的热情具有感染力，激发了学生对学习的真正热爱——考研阅读教育话题）
-> - "Despite initial enthusiasm for the new technology, many consumers remained skeptical about its practical benefits."（尽管最初对这项新技术充满热情，许多消费者对其实际益处仍持怀疑态度——考研阅读科技话题）
+> - One of the good things about teaching young children is their enthusiasm. `[例]`
+> - One of his greatest enthusiasms was yoga . `[例]`
+> - I find that I’m losing my enthusiasm for the game . `[例]`
 
 
 ---

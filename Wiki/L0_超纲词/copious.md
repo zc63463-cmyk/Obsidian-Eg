@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**大量的，丰富的**== `adj. N` [书面]；②==**（文章/言语）冗长的，篇幅大的**== `adj. N` [书面]；
+**adj.** ①==**大量的，丰富的**== `adj`；②==**（文章/言语）冗长的，篇幅大的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：大量丰富的（源自拉丁语 *copia* "丰富/充足"）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The researcher gathered copious evidence to support her hypothesis. `[例]`
-> - She took copious notes during the lecture to ensure she would not miss any important details. `[例]`
+> - They drank copious amounts of wine . `[例]`
+> - He took copious notes during the lecture . `[例]`
 
 ## 复习记录
 

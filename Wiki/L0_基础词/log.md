@@ -130,8 +130,9 @@ log 源自中古英语 *logge*（原木），可能与北欧语有关。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Users must log in with their credentials to access the system."（用户必须使用凭据登录才能访问系统——考研阅读科技类话题）
-> - "The company keeps a detailed log of all transactions."（公司对所有交易保持详细记录——考研翻译商业类表达）
+> - The incident is noted in the ship's log as a " curious circumstance ". `[例]`
+> - Family members said he had detailed concerns about the site's safety in the log. `[例]`
+> - Log tables were used to perform complex calculations before the invention of electronic calculators . `[例]`
 
 
 ---

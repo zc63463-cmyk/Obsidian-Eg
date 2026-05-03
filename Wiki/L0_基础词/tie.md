@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**系，拴，绑**==；②打结；③与……打成平手；
-**n.** ①领带；②==**联系，关系**==；③平局；④束缚；
+**v.** ①==**系，拴，绑**== `V`；②==**打结**== `V`；③==**与……打成平手**== `V`；
+**n.** ①==**领带**== `N`；②==**联系，关系**== `N`；③==**平局**== `N`；④==**束缚**== `N`；
 
 > [!tip] 原型义
 > **原型义**：用绳索系紧、绑缚
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The findings are closely tied to the research methodology."（这些发现与研究方法密切相关）
-> - "The election ended in a tie, requiring a runoff."（选举以平局告终，需要进行决选）
+> - Could you tie this piece of string for me? `[例]`
+> - Jane and I tied for first place in the spelling test. `[例]`
+> - Family ties are weaker if you move a long way away. `[例]`
 
 
 ---

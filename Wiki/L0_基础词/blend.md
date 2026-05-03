@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**混合，交融**== `V N` `V N with N`；②==**协调，融合**== `V with N` `V into N`；
-**n.** ①==**混合物**== `a blend of N`；②混合，交融；
+**v.** ①==**混合，交融**==；②协调，融合；
+**n.** ①==**混合物**==；②混合，交融；
 
 > [!tip] 原型义
 > **原型义**：混合（将不同物质融合为一个整体）
@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The city is a unique blend of traditional and modern architecture. `[COCA-ACAD]`
-> - They seamlessly blend elements of jazz and classical music. `[COCA-NEWS]`
-> - The carpet blends well with the colour of the walls. `[例]`
-> - Blend all the ingredients together until smooth. `[例]`
+> - A rich blend of the finest coffee beans. `[例]`
+> - Their music is a blend of jazz and African rhythms . `[例]`
+> - Meritage" is a blend that combines " merit " and " heritage ". `[例]`
 
 
 ---

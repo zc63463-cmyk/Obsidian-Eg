@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Instead of a plan of action, they continue to press for more research — a classic case of 'paralysis by analysis'."（他们没有行动计划，而是继续敦促更多的研究——这是典型的"分析瘫痪"案例。——2002年考研阅读Text 3）
-> - "The book is an analysis of poverty and its causes."（这本书是对贫困及其原因的分析。——考研翻译类表达）
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+> - Our financial experts conducted an independent analysis of the investment plan's performance . `[例]`
+> - I was interested in Clare's analysis of the situation . `[例]`
 
 
 ---

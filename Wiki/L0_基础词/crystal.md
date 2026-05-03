@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The water of the lake was crystal clear."（湖水清澈见底）
-> - "It is crystal clear that we need to take action immediately."（非常清楚，我们需要立即采取行动）
+> - When sea water is allowed to evaporate , salt crystals are deposited . `[例]`
+> - Cirrus clouds are composed of ice crystals. `[例]`
+> - Silicon crystals grown in a laboratory convert light into electrical energy . `[例]`
 
 
 ---

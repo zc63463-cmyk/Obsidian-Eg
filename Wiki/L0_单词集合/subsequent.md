@@ -131,8 +131,9 @@ sub-(在后面) + 建议创建词根笔记 [[sequ/secut]](跟随) + -ent(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Subsequent events confirmed his doubts."（后来发生的事证实了他的怀疑。）——考研高频表达
-> - "The book discusses his subsequent career."（这本书讲述了他之后的职业生涯。）——考研高频表达
+> - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
+> - The book discusses his illness and subsequent resignation from politics . `[例]`
+> - Those explosions must have been subsequent to our departure , because we didn't hear anything. `[例]`
 
 ---
 

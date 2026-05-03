@@ -132,8 +132,9 @@ a-(加强语气) + like（像，相似）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The children all look very alike."（这些孩子看起来都很像。——Cambridge English Dictionary）
-> - "She's a lot like her mother."（她很像她妈妈。——Cambridge English Dictionary, similar 条目对比）
+> - The twins even dress alike. `[例]`
+> - My father treated us all alike. `[例]`
+> - Friends and family alike were devastated by the news of her death . `[例]`
 
 
 ---

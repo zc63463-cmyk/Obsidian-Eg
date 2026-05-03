@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**艰辛劳动，痛苦**==；②分娩的阵痛；
-**v.** ③==**辛勤工作，挣扎**==；
+**n.** ①==**艰辛劳动，痛苦**== `N`；②==**分娩的阵痛**== `N`；
+**v.** ③==**辛勤工作，挣扎**== `V`；
 
 > [!tip] 原型义
 > **原型义**：艰辛劳动，痛苦（极其辛苦的工作或努力）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "After years of travail, the project was finally completed."（经过多年的艰辛努力，项目终于完成了）
-> - "The novel describes the travail of immigrant workers in the early 20th century."（这部小说描述了20世纪初移民工人的艰辛生活）
+> - The recent travails of the airline industry. `[例]`
+> - The travails of life in post-war Britain. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**空间的，空间性的**==；②与空间位置有关的；
+**adj.** ①==**空间的，空间性的**== `adj`；②==**与空间位置有关的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与空间有关的（描述物体在空间中的位置、关系或分布）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The study examined the spatial distribution of crime across the city."（该研究调查了犯罪行为在城市中的空间分布。）
+> - This task is designed to test children's spatial awareness (= their understanding of where things are in relation to other things) . `[例]`
+> - Changes taking place in the spatial distribution of the population. `[例]`
 
 ## 复习记录
 

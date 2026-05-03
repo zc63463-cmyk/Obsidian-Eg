@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are still some loose ends to tie up before the project is complete."（在项目完成之前还有一些零碎事务需要处理——考研翻译）
-> - "The suspect is still on the loose."（嫌疑人仍然逍遥法外——考研阅读）
+> - There were some loose wires hanging out of the wall . `[例]`
+> - The nails in the wall had worked themselves loose. `[例]`
+> - The prisoners were so thin that their skin hung loose. `[例]`
 
 
 ---

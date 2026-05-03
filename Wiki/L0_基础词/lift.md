@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government decided to lift the ban on imports."（政府决定解除进口禁令。——考研常见句型）
-> - "Can you give me a lift to the station?"（你能让我搭个便车去车站吗？——日常用法）
+> - Could you help me lift this table , please ? `[例]`
+> - Could you lift your chair a little- I've got my coat caught under it. `[例]`
+> - I lifted it up and looked underneath . `[例]`
 
 
 ---

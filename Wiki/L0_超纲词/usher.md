@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**引导，引领**==；②预示，开创（新时代等）；
-**n.** ①引座员，门房；
+**v.** ①==**引导，引领**== `V`；②==**预示，开创（新时代等）**== `V`；
+**n.** ①==**引座员，门房**== `N`；
 
 > [!tip] 原型义
 > **原型义**：引导进入（拉丁语 *ustare* = 站在门口→在门口引导）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The invention of the internet ushered in a new era of global communication.（互联网的发明开创了全球通信的新时代。）
-> - She was ushered into the CEO's office by a receptionist.（她被接待员引导进入CEO的办公室。）
+> - She ushered us into her office and offered us coffee . `[例]`
+> - Officials quickly ushered the protesters out of the hall . `[例]`
 
 ## 复习记录
 

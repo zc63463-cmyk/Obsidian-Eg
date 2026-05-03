@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**运动鞋，帆布鞋**==；②（古）偷偷摸摸的人，告密者；
+**n.** ①==**运动鞋，帆布鞋**== `N`；②==**（古）偷偷摸摸的人，告密者**== `N`；
 
 > [!tip] 原型义
 > **原型义**：偷偷摸摸走路的人（sneak"偷偷走"+ -er"人"），后指走路没声音的软底鞋
@@ -125,7 +125,8 @@ sneak(偷偷摸摸) + -er(人/物)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He showed up at the formal dinner wearing jeans and sneakers."（他穿着牛仔裤和运动鞋出现在正式晚宴上。）
+> - He wore old jeans and a pair of sneakers. `[例]`
+> - The simple sneaker has become a fashion necessity as well as a sporting one! `[例]`
 
 ## 复习记录
 

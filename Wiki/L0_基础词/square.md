@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company promised to square accounts with all its creditors before the end of the financial year."（公司承诺在财政年度结束之前与所有债权人结清账目——考研阅读商业话题相关表达）
-> - "The new regulations aim to ensure that all candidates are treated fair and square throughout the selection process."（新规旨在确保所有候选人在整个选拔过程中都得到公正对待——考研阅读社会话题相关表达）
+> - It's a square-shaped room . `[例]`
+> - When cooled , cut the chocolate brownies into squares. `[例]`
+> - She moved her castle forward three squares. `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Statistics show that the crime rate has declined significantly in recent years."（统计数据显示，近年来犯罪率已显著下降。）——考研高频表达
-> - "The statistics do not support the conclusion that the policy was effective."（统计数据不支持该政策有效的结论。）——考研高频表达
+> - The statistics show that, in general , women live longer than men. `[例]`
+> - Statistics is a branch of mathematics dealing with the collection and study of numerical data. `[例]`
+> - The Bachelor of Science in Statistics and Data Science is a four-year degree that provides students with foundational training and marketable skills in statistics and data science. `[例]`
 
 ---
 

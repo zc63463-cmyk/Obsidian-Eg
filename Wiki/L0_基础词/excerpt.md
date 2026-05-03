@@ -125,8 +125,9 @@ ex-(出) + cerpt(=carpere, 采摘) → 从中摘取 → 摘录
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The following is an excerpt from the president's speech."（以下是总统演讲的节选。）
-> - "The magazine published several excerpts from the author's new novel."（该杂志刊登了作者新小说的几段节选。）
+> - An excerpt from her new thriller will appear in this weekend's magazine . `[例]`
+> - This passage has been excerpted from her latest novel . `[例]`
+> - Here I excerpt from a list of recommendations given to me by a former boss . `[例]`
 
 
 ---

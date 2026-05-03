@@ -130,8 +130,9 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She hung up the phone before I could explain."（我还没来得及解释，她就挂断了电话——考研阅读常见表达，hang up 为高频搭配）
-> - "It's difficult to get the hang of a new language."（掌握一门新语言的诀窍很难——get the hang of 为考研写作可用搭配）
+> - A large bunch of keys was hanging from her belt . `[例]`
+> - Hanging meat is really important to the quality of the meat , and is the first stage of good butchery . `[例]`
+> - Let the pheasant hang for a few days for the flavour to improve before you cook it. `[例]`
 
 
 ---

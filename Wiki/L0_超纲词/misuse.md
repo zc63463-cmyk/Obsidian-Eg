@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**滥用，误用**== `V N` [通用]；
-**n.** ①==**滥用，误用**== `N of N` [通用]；
+**v.** ①==**滥用，误用**== `V`；
+**n.** ①==**滥用，误用**== `N`；
 
 > [!tip] 原型义
 > **原型义**：错误地使用
@@ -122,8 +122,8 @@ mis-(错误) + use(使用)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The misuse of personal data by tech companies has raised serious privacy concerns. [C]
-> - `[例]` Emergency funds were misused for purposes unrelated to disaster relief. [C]
+> - She was accused of misusing company funds . `[例]`
+> - This new computer system is completely unnecessary and a misuse of taxpayers ' money . `[例]`
 
 ## 复习记录
 

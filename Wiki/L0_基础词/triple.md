@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**三倍的，三重的**==；
-**v.** ①==**增至三倍**==；
-**n.** ①三倍数；②三联画（音乐）；③（棒球）三垒安打；
+**adj.** ①==**三倍的，三重的**== `adj`；
+**v.** ①==**增至三倍**== `V`；
+**n.** ①==**三倍数**== `N`；②==**三联画（音乐）**== `N`；③==**（棒球）三垒安打**== `N`；
 
 > [!tip] 原型义
 > **原型义**：三倍的，三重的（数量或程度上的三倍）
@@ -126,8 +126,9 @@ tri-（三，前缀）+ -ple（倍，源自拉丁语 *plus*）。tri- 源自拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's profits have tripled in the past decade."（公司利润在过去十年中增至三倍。）
-> - "The population of the city has tripled since 1990."（自1990年以来，该市人口已增至三倍。）
+> - Her trainer is a triple Olympic champion . `[例]`
+> - There's a triple bill of Hitchcock films (= three films ) on at the cinema next Sunday . `[例]`
+> - A mazurka is a lively folk dance in triple time . `[例]`
 
 
 ---

@@ -136,8 +136,9 @@ long 源自古英语 *lang*（长的），与 length 同源。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the long run, education is the most effective way to reduce inequality."（从长远来看，教育是减少不平等最有效的方式——考研阅读高频表达）
-> - "She has long been recognized as one of the leading scholars in her field."（她长期以来一直被认为是该领域的顶尖学者之一——考研翻译常见句型）
+> - Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers , have existed for a long time. `[真题]`
+> - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
+> - I've been waiting a long time . `[例]`
 
 
 ---

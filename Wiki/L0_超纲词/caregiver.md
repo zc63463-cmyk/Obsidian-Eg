@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**照护者，护理员**== `a caregiver for sb` [通用] `sb's primary caregiver` [通用]；②==**照料者（家庭成员或专业人员）**== `act as a caregiver for sb` [通用]；
+**n.** ①==**照护者，护理员**== `N`；②==**照料者（家庭成员或专业人员）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：照顾他人的人（提供关怀和照料的人）
@@ -120,8 +120,8 @@ care（照顾，关怀）+ give（给予）+ -er（人）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many family caregivers experience high levels of stress and burnout. `[例]`；
-> - The government should provide more support for caregivers of elderly people. `[例]`；
+> - He is a caregiver for his autistic son . `[例]`
+> - She is able to take care of her husband at home with the help of several caregivers. `[例]`
 
 ## 复习记录
 

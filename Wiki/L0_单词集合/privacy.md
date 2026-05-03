@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**隐私，私密**== ; ②独处，不受干扰的状态
+**n.** ①==**隐私，私密**== `N` ; ②==**独处，不受干扰的状态**== `N`
 
 > [!tip] 原型义
 > **原型义**：个人的状态（从公共领域中分离出来，属于个人的）
@@ -133,8 +133,9 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The protection of online privacy has become one of the most pressing issues in the digital age."（在线隐私保护已成为数字时代最紧迫的问题之一。）——考研高频表达
-> - "Many consumers are concerned that their personal data is being collected and used without their knowledge or consent."（许多消费者担心他们的个人数据在未经其知情或同意的情况下被收集和使用。）——考研高频表达
+> - The new law is designed to protect people's privacy. `[例]`
+> - I hate sharing a bedroom - I never get any privacy. `[例]`
+> - A fence would give us more privacy in the backyard . `[例]`
 ---
 
 

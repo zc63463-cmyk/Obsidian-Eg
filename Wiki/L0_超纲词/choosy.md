@@ -122,8 +122,8 @@ choose（选择）+ -y（形容词后缀，表示"有……倾向的"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She's very choosy about her clothes and never buys anything on impulse. `[例]`
-> - Don't be too choosy when looking for your first job. `[例]`
+> - She's very choosy about what she eats and drinks . `[例]`
+> - He’s choosy about where he buys fresh fruit and vegetables . `[例]`
 
 ## 复习记录
 

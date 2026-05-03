@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**比较地，相对地**== `adv adj` [正式]；②相比之下；
+**adv.** ①==**比较地，相对地**== `adv`；②==**相比之下**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：比较地（通过对比来看）
@@ -123,9 +123,8 @@ com-（一起）+ [[par]]（相等，拉丁语 *parare*，准备/安排）+ -ati
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The task was comparatively easy compared to what we had expected. `[例]`
-> - Comparatively speaking, the cost of living in this city is quite low. `[例]`
-> - The disease is comparatively rare in developed countries but remains a major concern in tropical regions. `[例]`
+> - We couldn't afford it and yet we're comparatively well off (= we are richer than most people ) . `[例]`
+> - Comparatively speaking , this machine is easy to use. `[例]`
 
 ## 复习记录
 

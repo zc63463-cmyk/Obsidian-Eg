@@ -124,8 +124,9 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Cars cause pollution, both smog and acid rain."（汽车造成污染，既有烟雾又有酸雨。——常见环保主题语料）
-> - "Most of my friends are moving outside the city to avoid the noise, smog and traffic of the city."（我的大多数朋友都搬到城外来躲避城市的噪音、烟雾和交通。——常见城市化主题语料）
+> - Smog is a major problem in Athens. `[例]`
+> - As we flew into the airport , we could see a murky yellow smog hovering over the city . `[例]`
+> - A poisonous smog killed 20 people . `[例]`
 
 
 ---

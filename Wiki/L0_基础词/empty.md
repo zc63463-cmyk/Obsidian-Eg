@@ -135,8 +135,9 @@ empty 源自古英语 *æmettig*（空闲的，未被占用的），与拉丁语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Without a coherent set of policies to persuade the electorate, the Republicans have resorted to sloganeering and empty rhetoric."（由于缺乏一套连贯的政策来说服选民，共和党人诉诸口号和空洞的修辞——剑桥词典例句）
-> - "In reply to the question, he just produced a lot of empty rhetoric."（对这个问题，他只是说了一大堆空洞的浮夸之词——剑桥词典例句）
+> - If it's their vacation home anyway, and it's just empty, why c:an't you make money off it?" Hom said. `[真题]`
+> - Shall I take the empty bottles for recycling ? `[例]`
+> - The train was empty (= there were no passengers ) by the time it reached London. `[例]`
 
 
 ---

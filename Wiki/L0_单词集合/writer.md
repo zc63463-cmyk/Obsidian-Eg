@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a freelance writer"（自由撰稿人）——考研阅读中描述职业类型时常见
-> - "the writer argues that..."（作者认为……）——考研阅读题干/选项中高频出现，指代文章作者
-> - "writer's block"（写作障碍）——教育/创作类话题
-> - "As a writer, she..."（作为作家，她……）——人物介绍类语境
+> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+> - Sales of books by mid-list PRH writers fall off considerably. `[真题]`
+> - Lesser-known PRH writers become the target of criticism. `[真题]`
+> - She is a well-known writer of children's books . `[例]`
 
 ---
 

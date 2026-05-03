@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**潮汐，潮水**==；②潮流，趋势；
-**v.** ①顺潮水漂流；
+**n.** ①==**潮汐，潮水**== `N`；②==**潮流，趋势**== `N`；
+**v.** ①==**顺潮水漂流**== `V`；
 
 > [!tip] 原型义
 > **原型义**：潮水的涨落
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tide of public opinion has turned against the policy."（公众舆论的潮流已转向反对该政策）
-> - "They swam against the tide of popular opinion."（他们逆着公众舆论的潮流而行）
+> - We must look for ways of stemming (= stopping ) the rising tide of protest . `[例]`
+> - The tide of public opinion is turning against the president . `[例]`
+> - Most people are completely clueless about tide directions and weather conditions . `[例]`
 
 
 ---

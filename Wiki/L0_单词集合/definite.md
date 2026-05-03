@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is no definite answer to this question."（这个问题没有明确的答案。）——考研阅读常见句式
-> - "a definite link between A and B"（A 与 B 之间的明确联系）——考研阅读高频搭配，描述因果关系
-> - "It is definite that..."（……是确定的）——写作中表达确定性判断
+> - The date for the meeting is now definite: 5 March . `[例]`
+> - She has very definite opinions . `[例]`
+> - Are you sure I'm invited too?" "Yes, Dan was very definite about it on the phone . `[例]`
 
 ---
 

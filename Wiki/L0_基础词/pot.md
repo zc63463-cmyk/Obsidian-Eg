@@ -125,7 +125,9 @@ pot（深圆容器，日耳曼语/拉丁语源，词源不确定）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "America has long been described as a melting pot of cultures."（美国长期以来被描述为文化的大熔炉——考研写作常用表达）
+> - Fill a large pot with salted water and bring it to the boil . `[例]`
+> - There's plenty of cupboard space in the kitchen for all your pots and pans . `[例]`
+> - The shelf was full of pots of paint . `[例]`
 
 
 ---

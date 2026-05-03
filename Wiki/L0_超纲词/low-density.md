@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**低密度的**== `adj N` [学术/技术]；②==**人口稀疏的**== `adj N` [地理/规划]；③==**（物质）密度低的**== `adj N` [科学]；
+**adj.** ①==**低密度的**== `adj`；②==**人口稀疏的**== `adj`；③==**（物质）密度低的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：密度低的（low + density → 单位空间内含量少的）
@@ -130,8 +130,8 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` Urban sprawl is characterized by low-density development on the outskirts of cities, which increases car dependency and reduces green space.`` [C]
-> - `` `[例]` Low-density lipoprotein cholesterol is often referred to as "bad" cholesterol because high levels can lead to plaque buildup in arteries.`` [C]
+> - Low density housing with gardens is by far the best for young families . `[例]`
+> - A low density substance has a low mass in relation to its size. `[例]`
 
 ## 复习记录
 

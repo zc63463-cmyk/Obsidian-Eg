@@ -139,8 +139,9 @@ flat 源自古诺尔斯语 *flatr*（平坦的），原始日耳曼语 *\*flata-
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government's proposal for a flat tax rate sparked intense debate, with critics arguing that it would disproportionately benefit the wealthy."（政府提出的统一税率的提案引发了激烈的辩论，批评者认为这将不成比例地使富人受益——考研阅读经济话题相关表达）
-> - "Despite the initial excitement, the reform effort fell flat when it became clear that implementation would require resources far beyond what was available."（尽管最初令人兴奋，但当很明显实施将需要远超现有资源的投入时，改革努力以失败告终——考研翻译政策话题相关表达）
+> - An ice rink needs to be completely flat. `[例]`
+> - Much of the countryside in that region is very flat. `[例]`
+> - I usually prefer to wear flat shoes (= ones without a raised heel ) . `[例]`
 
 
 ---

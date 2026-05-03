@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was a talented musician in his youth."（他年轻时是一位才华横溢的音乐家）——考研阅读/翻译常见句式
-> - "youth unemployment has reached a record high"（青年失业率创下历史新高）——社会经济类阅读高频话题
-> - "the energy and idealism of youth"（青春的活力与理想主义）——议论文常见表达
+> - I was a fairly good football player in my youth. `[例]`
+> - The first volume is the author's account of his misspent youth in the bars of Dublin. `[例]`
+> - He looks like a man who's found the secret to eternal youth (= staying young ) . `[例]`
 
 ---
 

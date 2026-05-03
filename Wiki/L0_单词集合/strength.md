@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her great strength lies in her flexibility."（她的优势在于她灵活变通。）——考研高频表达
-> - "He threw it forward with all his strength."（他使尽全力把它扔向前方。）——考研高频表达
+> - She had the strength and stamina to take the lead and win the gold medal . `[例]`
+> - Admitting you've made a mistake is a sign of strength, not weakness . `[例]`
+> - He showed great strength of character when he refused to accept the bribes . `[例]`
 ---
 
 

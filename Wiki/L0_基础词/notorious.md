@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**臭名昭著的，声名狼藉的**==；②众所周知的（通常指坏事）；
+**adj.** ①==**臭名昭著的，声名狼藉的**== `adj`；②==**众所周知的（通常指坏事）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：众人皆知的（源自拉丁语 *notorius* "众所周知的"）
@@ -122,7 +122,9 @@ not-(知道，拉丁语 *noscere*) + -or(人/状态) + -ious(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city is notorious for its traffic congestion."（这座城市因交通拥堵而臭名昭著——考研阅读常见表达）
+> - He is one of Mexico's most notorious criminals . `[例]`
+> - The company is notorious for paying its bills late. `[例]`
+> - The canal is notorious for its pollution . `[例]`
 
 
 ---

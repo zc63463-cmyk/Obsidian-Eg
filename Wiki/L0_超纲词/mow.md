@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**割（草），修剪草坪**== `V N` [日常]；②==**扫射，摧毁**== `V N down` [军事]；
-**n.** ①干草堆（haystack 的变体）；
+**v.** ①==**割（草），修剪草坪**== `V`；②==**（引申）扫射，摧毁**== `V`；
+**n.** ①==**干草堆（haystack 的变体）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：用机器割（草）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Every Saturday morning, he would mow the lawn before the sun got too hot. [C]
-> - `[例]` Machine-gun fire mowed down the advancing soldiers in a matter of seconds. [C]
+> - You can't mow the grass if it's wet . `[例]`
+> - They have a gardener who mows the lawns and prunes the shrubbery . `[例]`
 
 ## 复习记录
 

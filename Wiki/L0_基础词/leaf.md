@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Three patients sat leafing through magazines in the doctor's waiting room."（三位病人坐在医生候诊室里翻阅杂志。——通用例句）
-> - "I have made a mess of my life. I'll turn over a new leaf and hope to do better."（我把生活弄得一团糟。我准备重新来过，希望能做得更好。——通用例句）
+> - The trees are in leaf early this year . `[例]`
+> - The bushes are just coming into leaf. `[例]`
+> - Rubbing a dock leaf on nettle stings helps to relieve the pain . `[例]`
 
 
 ---

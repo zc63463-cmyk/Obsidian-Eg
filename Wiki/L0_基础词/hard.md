@@ -147,8 +147,9 @@ hard（古英语 *heard*，意为"坚硬的、勇敢的"，源自原始日耳曼
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He shuffled his feet on the hard wooden floor."（他拖着脚在硬木地板上走动。——考研英语高频表达）
-> - "Small businesses have been hit hard by the recession."（小企业受到了经济衰退的沉重打击。——考研英语阅读相关语料）
+> - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
+> - The publishing industry is having a hard time. `[真题]`
+> - There was a heavy frost last night and the ground is still hard. `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ all（全部）+ -iance（名词后缀，表示状态）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In February the FTC and the Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests."（二月份，联邦贸易委员会和数字广告联盟达成共识：该行业将尽快响应"禁止追踪"的请求——2013年英语一Text 2）
-> - "A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun."（一种本土戏剧已经诞生，它与公共剧院的联盟已经建立，至少它的一些伟大传统已经开始——2018年英语一翻译）
+> - The Eastern Bloc countries formed a military alliance during the Cold War. `[例]`
+> - These companies are forming strategic alliances in order to gain entry to Asian markets . `[例]`
+> - The two leaders have formed a close alliance. `[例]`
 
 
 ---

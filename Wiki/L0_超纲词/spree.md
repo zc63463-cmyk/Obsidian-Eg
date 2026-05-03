@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**狂欢，纵情玩乐**==；②（购物、杀人等的）一阵狂热行为；
+**n.** ①==**狂欢，纵情玩乐**== `N`；②==**（购物、杀人等的）一阵狂热行为**== `N`；
 
 > [!tip] 原型义
 > **原型义**：无节制地尽情从事某种活动（通常指花钱或玩乐）
@@ -125,7 +125,8 @@ spree（源自苏格兰语/爱尔兰语，可能源于 *spreath*"谷物的收成
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Consumers went on a shopping spree during the holiday sales, pushing retail revenues to record highs."（消费者在假日促销期间疯狂购物，推动零售收入创历史新高。）
+> - After such a spree of wins , it seems unfair to talk too much about the team's weaknesses. `[例]`
+> - He went on the defensive in an early morning social media spree. `[例]`
 
 ## 复习记录
 

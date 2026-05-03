@@ -122,8 +122,9 @@ deino-(恐怖的，希腊语 *deinos* "恐怖的") + [[saur|saur-]](蜥蜴，希
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is a dinosaur that has failed to adapt to the digital age."（这家公司是一个未能适应数字时代的落伍者——商业评论高频）
-> - "Dinosaur fossils have been found on every continent."（每个大陆都发现了恐龙化石）
+> - He uncovered and collected several specimens of fossilized dinosaur bones and teeth . `[例]`
+> - This computer's a dinosaur, isn't it? `[例]`
+> - The old car was a gas-guzzling dinosaur and we had to get rid of it. `[例]`
 
 
 ---

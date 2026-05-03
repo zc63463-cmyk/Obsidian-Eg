@@ -131,8 +131,9 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden announcement caused quite a flap among employees, who had not been informed about the upcoming restructuring plan."（这一突然的宣布在员工中引起了相当大的慌张，他们事先并未被告知即将进行的重组计划——考研阅读职场话题相关表达）
-> - "Birds flap their wings to generate lift, but the precise mechanism by which they achieve such remarkable manoeuvrability has long puzzled scientists."（鸟类拍打翅膀产生升力，但它们实现如此卓越机动性的精确机制长期以来一直困扰着科学家——考研翻译科技话题相关表达）
+> - A small bird flapped its wings furiously and flew off. `[例]`
+> - Flags flapped in the breeze above their tents . `[例]`
+> - Don't flap - there's plenty of time to cook before they arrive . `[例]`
 
 
 ---

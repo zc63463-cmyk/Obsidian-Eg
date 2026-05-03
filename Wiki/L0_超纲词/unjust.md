@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不公正的，不公平的**==；②非正义的；
+**adj.** ①==**不公正的，不公平的**== `adj`；②==**非正义的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不公正的（不符合正义的）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + [[just|just]](公正的/正义的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The protesters argued that the tax system was fundamentally unjust."（抗议者认为税收制度从根本上就是不公正的。）
-> - "An unjust law is no law at all."（不公正的法律根本不是法律——奥古斯丁名言。）
+> - They should repeal this unjust law . `[例]`
+> - New laws will protect employees against unjust dismissals . `[例]`
 
 ## 复习记录
 

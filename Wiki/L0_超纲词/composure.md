@@ -123,7 +123,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Despite the intense questioning, the witness maintained her composure throughout the trial. `[例]`
+> - You may feel nervous but don’t lose your composure in front of the camera . `[例]`
 > - She answered the difficult interview questions with remarkable composure. `[例]`
 > - The firefighter showed great composure while rescuing the trapped residents from the burning building. `[例]`
 

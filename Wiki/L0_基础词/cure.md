@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is still no cure for the common cold."（普通感冒至今没有特效药——考研高频表达）
-> - "Education is not a cure for all social ills, but it is a necessary starting point."（教育不是所有社会弊病的灵丹妙药，但它是必要的起点——考研写作高频话题）
+> - At one time doctors couldn't cure people of TB. `[例]`
+> - At one time doctors couldn't cure TB. `[例]`
+> - At one time she would eat nothing but crisps , but we soon cured her by ensuring she ate nothing else . `[例]`
 
 
 ---

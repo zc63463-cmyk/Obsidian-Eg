@@ -126,9 +126,9 @@ ex-（向外）+ plod/plaus（拍手声/发出巨响）+ -sion（名词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The population explosion of the 20th century posed unprecedented challenges."（20世纪的人口激增带来了前所未有的挑战。）
-> - "There was an explosion of social media use in the last decade."（过去十年社交媒体使用量激增。）
-> - population explosion 是考研社会类话题的高频表达
+> - The fire was thought to have been caused by a gas explosion. `[例]`
+> - The explosion (= the intentional exploding ) of nuclear devices in the Bikini Atoll was stopped in 1958. `[例]`
+> - There was an explosion of applause from the audience at the end of the performance . `[例]`
 
 ---
 

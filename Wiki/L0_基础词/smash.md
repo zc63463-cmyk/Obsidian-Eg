@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Several windows had been smashed during the protest."（抗议活动中几扇窗户被砸碎了。——常见新闻语料）
-> - "The elephant smashed its way through the trees, causing panic among the tourists."（大象横冲直撞穿过树林，引起游客恐慌。——常见阅读语料）
+> - Rioters ran through the city , smashing windows and looting shops . `[例]`
+> - Several boats were smashed against the rocks during the storm . `[例]`
+> - He tried to smash the door down to get to me. `[例]`
 
 
 ---

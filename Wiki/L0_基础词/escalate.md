@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The trade dispute between the two countries has escalated into a full-scale economic war."（两国之间的贸易争端已升级为全面经济战——考研阅读国际话题高频表达）
-> - "As the protest escalated, the government deployed additional police forces to maintain order."（随着抗议活动升级，政府部署了额外的警力来维持秩序——考研阅读社会话题常见表达）
+> - His financial problems escalated after he became unemployed . `[例]`
+> - The row could escalate into full-blown conflict . `[例]`
+> - The decision to escalate UN involvement has been made in the hopes of a swift end to the hostilities . `[例]`
 
 
 ---

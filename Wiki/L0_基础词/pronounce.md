@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**发音，读**==；②==**宣布，宣判**==；③声明，断言；
+**v.** ①==**发音，读**== `V`；②==**宣布，宣判**== `V`；③==**声明，断言**== `V`；
 
 > [!tip] 原型义
 > **原型义**：大声说出（用声音正式发出/宣布）
@@ -125,7 +125,9 @@ pro-(向前/公开) + [[sign|nounce]](=nunciare, 报告/说)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The judge pronounced the defendant guilty."（法官宣判被告有罪——考研法律类常见表达）
+> - How do you pronounce your surname ? `[例]`
+> - How do you pronounce your last name ? `[例]`
+> - She pronounced his name so badly he didn't even recognize it. `[例]`
 
 
 ---

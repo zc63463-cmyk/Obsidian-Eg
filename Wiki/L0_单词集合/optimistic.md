@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**乐观的，乐观主义的**==
+**adj.** ①==**乐观的，乐观主义的**== `adj`
 
 > [!tip] 原型义
 > **原型义**：认为一切事物都会往最好的方向发展
@@ -136,8 +136,9 @@ optim(最好的，源自拉丁语 optimus "最好的") + -ist(…的人) + -ic(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But the article is actually quite optimistic, as it outlines a potential solution to this problem."（但这篇文章实际上相当乐观，因为它概述了这个问题的潜在解决方案。）——2015考研英语二Text2
-> - "Despite the challenges, she remains optimistic about the future of the company."（尽管面临挑战，她对公司的未来仍然保持乐观。）——考研高频表达
+> - She is optimistic about her chances of winning a gold medal . `[例]`
+> - She ended her speech on an optimistic note . `[例]`
+> - The doctor said she was optimistic about the outcome of the operation but forbore to make any promises at this early stage . `[例]`
 
 ---
 

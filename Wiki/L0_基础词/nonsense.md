@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**胡说，废话，无意义的话**==；②荒唐的行为/想法
-**adj.** ①==**无意义的，荒谬的**==
-**int.** ①胡说！（表示反对）
+**n.** ①==**胡说，废话，无意义的话**== `N`；②==**荒唐的行为/想法**== `N`
+**adj.** ①==**无意义的，荒谬的**== `adj`
+**int.** ①==**胡说！（表示反对）**== `int`
 
 > [!tip] 原型义
 > **原型义**：没有意义的话（not + sense）
@@ -134,8 +134,9 @@ non-（不、没有）+ sense（感觉、意义、理智）= 没有意义 = 废�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't talk nonsense — that's simply not true."（别胡说——那根本不是真的。——日常反驳）
-> - "The new evidence made nonsense of the previous theory."（新证据使先前的理论变得毫无意义。——学术语料）
+> - This report is nonsense and nothing but a waste of paper . `[例]`
+> - The accusations are absolute nonsense. `[例]`
+> - Don't talk nonsense! She's far too ill to return to work ! `[例]`
 
 
 ---

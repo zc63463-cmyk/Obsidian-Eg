@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**误解，曲解**== `a N of N` `lead to N` [通用]；
+**n.** ①==**误解，曲解**== `N`；
 
 > [!tip] 原型义
 > **原型义**：错误的解释或理解
@@ -124,8 +124,8 @@ mis-(错误) + [[inter|inter]]-(在……之间) + pret(传递) + -ation(名词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The misinterpretation of statistical data can lead to flawed policy decisions. [C]
-> - `[例]` Any ambiguity in the contract is likely to result in misinterpretation. [C]
+> - The statement is unclear and open to misinterpretation (= could easily be misinterpreted ) . `[例]`
+> - This is a deliberate misinterpretation of events . `[例]`
 
 ## 复习记录
 

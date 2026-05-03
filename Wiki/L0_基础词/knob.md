@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She turned the knob to open the door."（她转动门把手开门。——通用例句）
-> - "Top the steaming hot potatoes with a knob of butter."（在冒热气的马铃薯上放一小块黄油。——通用例句）
+> - A brass door knob. `[例]`
+> - Put a knob of butter in the frying pan . `[例]`
+> - Don't be such a knob. `[例]`
 
 
 ---

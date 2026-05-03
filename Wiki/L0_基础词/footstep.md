@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She followed in her mother's footsteps and became a teacher."（她效仿母亲，也成为了一名教师。）
-> - "I could hear his footsteps echoing in the empty hallway."（我能听到他的脚步声在空旷的走廊里回荡。）
+> - Walking along the darkened street , he heard footsteps close behind him. `[例]`
+> - Their footsteps echoed between the ancient stone buildings . `[例]`
+> - He looked down to see which way the footsteps went. `[例]`
 
 
 ---

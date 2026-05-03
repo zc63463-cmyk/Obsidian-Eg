@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The stunning victory of the underdog team left the entire sports world in disbelief."（弱队令人震惊的胜利让整个体育界难以置信。）——考研高频表达
-> - "The audience was stunned by the magician's breathtaking performance."（观众被魔术师令人惊叹的表演所震撼。）——考研高频表达
+> - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
+> - While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely. `[真题]`
+> - News of the disaster stunned people throughout the world . `[例]`
 
 ---
 

@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She dialed his number but there was no answer."（她拨了他的号码，但没人接。）
-> - "He adjusted the dial on the radio to find a better station."（他调节收音机的刻度盘寻找更好的电台。）
+> - Can I dial this number direct , or do I have to go through the operator ? `[例]`
+> - Can you read what it says on the dial? `[例]`
+> - What number did you dial? `[例]`
 
 
 ---

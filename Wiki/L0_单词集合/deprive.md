@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "No one should be deprived of the right to education."（任何人都不能被剥夺受教育的权利。）——考研阅读真题
-> - "Sleep deprivation can have serious consequences for physical and mental health."（睡眠不足可能对身心健康造成严重后果。）——考研高频表达
+> - He claimed that he had been deprived of his freedom . `[例]`
+> - It is very damaging to deprive a child of affection . `[例]`
+> - You can't function properly when you're deprived of sleep . `[例]`
 
 ---
 

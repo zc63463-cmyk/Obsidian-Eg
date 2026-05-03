@@ -131,8 +131,9 @@ any(任何) + thing(事物)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The result of the experiment was anything but encouraging."（实验结果一点也不令人鼓舞。——考研英语阅读科研类话题，anything but 高频考点）
-> - "Is there anything we can do to mitigate the effects of climate change?"（我们有什么办法可以减轻气候变化的影响吗？——考研英语阅读环保类话题）
+> - Is there anything I can do to help ? `[例]`
+> - Was there anything else you wanted to say or is that it? `[例]`
+> - Do you have anything less expensive ? `[例]`
 
 
 ---

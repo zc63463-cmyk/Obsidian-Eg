@@ -129,8 +129,9 @@ twist 为日耳曼语族本族词，与古英语 twā（二）有关，暗示"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author twists the facts to support his argument, which undermines the credibility of the entire essay."（作者歪曲事实以支持自己的论点，这削弱了整篇文章的可信度。）——考研高频表达
-> - "The plot of the novel takes an unexpected twist that leaves readers in shock."（小说的情节出现了令人震惊的意外转折。）——考研高频表达
+> - The path twists and turns for over a mile . `[例]`
+> - She sat there nervously twisting the ring around on her finger . `[例]`
+> - She twisted her head (round) so she could see what was happening . `[例]`
 
 ---
 

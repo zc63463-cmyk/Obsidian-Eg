@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**外科的，手术的**==；②==**精确的，精准的**==（引申义）；
+**adj.** ①==**外科的，手术的**== `adj`；②==**精确的，精准的**== `adj`（引申义）；
 
 > [!tip] 原型义
 > **原型义**：与手术有关的（外科医生用手术刀进行操作）
@@ -124,8 +124,8 @@ surgery（外科手术）+ -ical（形容词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The patient underwent a surgical procedure to remove the tumor.（患者接受了外科手术切除肿瘤。）
-> - The military carried out a surgical strike against the terrorist camp.（军方对恐怖分子营地实施了精准打击。）
+> - A surgical ward (= for patients having operations). `[例]`
+> - They launched surgical strikes against enemy targets. `[例]`
 
 ## 复习记录
 

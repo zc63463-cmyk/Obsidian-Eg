@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Politicians often hire spin doctors to put a favorable interpretation on unfavorable events, thereby shaping public perception to their advantage."（政治家经常雇佣公关专家对不利事件进行有利的解读，从而按照自己的优势塑造公众认知——考研阅读政治话题相关表达）
-> - "The discovery that the Earth spins on its axis once every 24 hours revolutionized our understanding of the cosmos."（地球每24小时自转一周的发现彻底改变了我们对宇宙的理解——考研翻译科学话题相关表达）
+> - The earth spins on its axis . `[例]`
+> - The roulette players silently watched the wheel spin around. `[例]`
+> - Spin the ball (= make it turn around and around as you throw it) and it will change direction when it hits the ground . `[例]`
 
 
 ---

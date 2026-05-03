@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Malaria remains one of the world's most deadly diseases, claiming millions of lives each year."（疟疾仍然是世界上最致命的疾病之一，每年夺去数百万人的生命。——考研阅读健康类）
-> - "The two politicians are deadly enemies, constantly attacking each other."（这两位政治家是死敌，不断互相攻击。——红宝书考研词汇例句）
+> - He was arrested for carrying concealed deadly weapons . `[例]`
+> - He is accused of helping to carry out a deadly bomb attack on a fashionable Paris restaurant . `[例]`
+> - Hepatitis C is a potentially deadly virus that often attacks the liver . `[例]`
 
 
 ---

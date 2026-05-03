@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**名义上的，有名无实的**==；②==**（金额）微不足道的，象征性的**==；③名词（性）的；
+**adj.** ①==**名义上的，有名无实的**== `adj`；②==**（金额）微不足道的，象征性的**== `adj`；③==**名词（性）的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：名义上的（仅存在于名称/名义中，而非实际存在）
@@ -129,8 +129,9 @@ nomin-（名字，拉丁语 *nomen*）+ -al（形容词后缀，"与……有关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He remained in nominal control of the business for another ten years."（他名义上又掌管了这家公司十年。——通用例句）
-> - "We only pay a nominal rent."（我们只象征性地付一点租金。——通用例句）
+> - She's the nominal head of our college - the real work is done by her deputy . `[例]`
+> - For a nominal fee , they will deliver orders to customers ' homes . `[例]`
+> - There is a nominal fee for the workshop . `[例]`
 
 
 ---

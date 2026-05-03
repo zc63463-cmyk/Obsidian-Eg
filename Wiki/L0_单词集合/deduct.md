@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The employer deducts income tax from your salary every month."（雇主每月从你的工资中扣除所得税）——经济话题
-> - "You can deduct business expenses from your taxable income."（你可以从应税收入中扣除业务费用）——税务话题
-> - "Points will be deducted for late submission."（迟交将被扣分）——教育话题
-> - "The deductible amount is listed on your tax return."（可扣除的金额列在你的纳税申报表上）——注意 deductible 的形容词用法
+> - The player had points deducted from his score for arguing with the referee . `[例]`
+> - Money is deducted from your account each time your car passes through the toll booths . `[例]`
+> - Employers deduct the tax from employee salaries . `[例]`
+> - The company deducts $31.93 each week from my salary for health insurance . `[例]`
 
 ---
 

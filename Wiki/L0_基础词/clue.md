@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Detectives followed every clue to track down the suspect."（侦探追踪每一条线索来找到嫌疑人）
-> - "The fossil record provides important clues about the evolution of species."（化石记录为物种进化提供了重要线索）
+> - Police are still looking for clues in their search for the missing girl . `[例]`
+> - I'm never going to guess the answer if you don't give me a clue. `[例]`
+> - I've got a crossword grid almost ready to post online — I just have to finish cluing it. `[例]`
 
 
 ---

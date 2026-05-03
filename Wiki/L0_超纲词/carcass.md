@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Vultures circled above the carcass of the dead animal. `[例]`
-> - The fire left only the carcass of the old factory. `[例]`
+> - Vultures flew around in the sky waiting to pick at the rotting carcass of the deer . `[例]`
+> - Move your great carcass (= your body ) out of that chair ! `[例]`
 
 ## 复习记录
 

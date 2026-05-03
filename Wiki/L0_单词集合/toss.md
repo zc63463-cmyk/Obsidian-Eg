@@ -129,8 +129,9 @@ toss(源自中古英语 tossen，与古诺尔斯语 tossa 同源，意为"抖动
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee tossed around several proposals before reaching a final decision."（委员会在做出最终决定之前讨论了几个提案。）——考研高频表达
-> - "She tossed and turned all night, unable to fall asleep because of anxiety about the exam."（她整夜辗转反侧，因为对考试的焦虑而无法入睡。）——考研高频表达
+> - He glanced at the letter and then tossed it into the bin . `[例]`
+> - The bull tossed him up into the air . `[例]`
+> - Andrew tossed him the ball . `[例]`
 
 
 ---

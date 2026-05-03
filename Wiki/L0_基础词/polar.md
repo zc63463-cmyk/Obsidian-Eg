@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two candidates hold polar opposite views on immigration."（两位候选人在移民问题上持有截然对立的观点）
-> - "Climate change is causing polar ice caps to melt at an alarming rate."（气候变化正导致极地冰盖以惊人的速度融化）
+> - The polar ice caps. `[例]`
+> - The novel deals with the polar opposites of love and hate . `[例]`
+> - It is best to use polar coordinates to locate points in the plane . `[例]`
 
 
 ---

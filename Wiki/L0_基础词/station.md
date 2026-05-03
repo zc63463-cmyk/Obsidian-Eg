@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new high-speed railway station is expected to serve millions of passengers annually."（新的高速火车站预计每年将服务数百万乘客。）
-> - "People of all social stations attended the ceremony."（各个社会阶层的人都参加了典礼。）
+> - Our office is near the station. `[例]`
+> - The reception is not very good - try to tune in to another station. `[例]`
+> - The research station will monitor wildlife , vegetation and the water table . `[例]`
 
 
 ---

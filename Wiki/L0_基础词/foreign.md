@@ -128,8 +128,9 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The concept of personal choice is foreign to many cultures."（个人选择的概念对许多文化来说是陌生的——考研翻译高频句式）
-> - "Foreign investment has been a major driver of economic growth."（外国投资一直是经济增长的主要驱动力——考研经济类阅读）
+> - Spain was the first foreign country she had visited . `[例]`
+> - Do you speak any foreign languages ? `[例]`
+> - His work provided him with the opportunity for a lot of foreign travel . `[例]`
 
 
 ---

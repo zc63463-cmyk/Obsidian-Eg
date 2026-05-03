@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to update our knowledge to keep pace with technological changes."（我们需要更新知识以跟上技术变革）——考研阅读中关于终身学习的话题
-> - "Please keep me updated on the progress of the project."（请让我随时了解项目的最新进展）——商务/学术语境
-> - "software updates"（软件更新）——科技类阅读常见搭配
+> - An updated version of the software. `[例]`
+> - We'll update you on this news story throughout the day . `[例]`
+> - Jo's just doing an update on the mailing list . `[例]`
 
 ---
 

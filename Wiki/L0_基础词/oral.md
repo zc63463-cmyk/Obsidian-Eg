@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**口头的，口述的**==；②==**口腔的**==；③==**口服的**==
-**n.** ①==**口试**==
+**adj.** ①==**口头的，口述的**== `adj`；②==**口腔的**== `adj`；③==**口服的**== `adj`
+**n.** ①==**口试**== `N`
 
 > [!tip] 原型义
 > **原型义**：用嘴巴的
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students must pass both the written and oral exams."（学生必须通过笔试和口试。——教育语料）
-> - "Many ancient stories were passed down through oral tradition."（许多古老的故事通过口述传统传承下来。——文化语料）
+> - When do you have your Spanish oral (= exam in spoken Spanish ) ? `[例]`
+> - A select committee will be taking oral evidence as part of its inquiry . `[例]`
+> - Only in borderline cases will pupils have an oral exam . `[例]`
 
 
 ---

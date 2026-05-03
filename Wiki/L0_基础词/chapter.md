@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of DNA structure opened a new chapter in the history of biology."（DNA结构的发现开启了生物学历史的新篇章——考研科学类语料）
-> - "Each chapter of the textbook begins with a list of key terms and ends with review questions."（教科书的每一章都以关键词列表开始，以复习题结束——考研学术类语料）
+> - Read Chapter 10 before class tomorrow . `[例]`
+> - The period before the revolution is an interesting chapter in British history . `[例]`
+> - That chapter of my life closed when I had a serious riding accident . `[例]`
 
 
 ---

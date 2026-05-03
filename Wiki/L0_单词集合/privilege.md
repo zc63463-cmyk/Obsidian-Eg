@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**特权，优待**== ; ②（因地位而享有的）特殊待遇
-**vt.** ①给予特权，特批
+**n.** ①==**特权，优待**== `N` ; ②==**（因地位而享有的）特殊待遇**== `N`
+**vt.** ①==**给予特权，特批**== `V N`
 
 > [!tip] 原型义
 > **原型义**：关于个人的法律（针对特定个人的特殊法律）
@@ -137,8 +137,9 @@ priv(个人) + [[leg]](法律) + -e(后缀) = privilege（关于个人的法律�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education should be a right, not a privilege reserved for the wealthy few."（教育应该是一项权利，而不是少数富人的特权。）——考研高频表达
-> - "In many societies, access to clean water is still considered a privilege rather than a basic human right."（在许多社会中，获得清洁用水仍被视为一种特权，而非基本人权。）——考研高频表达
+> - Healthcare should be a right , not a privilege. `[例]`
+> - Senior management enjoy certain privileges, such as company cars and health insurance . `[例]`
+> - I had the privilege of interview ing Picasso in the 1960s. `[例]`
 ---
 
 

@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Both men quickly disappeared down the hatch."（两个人很快从舱口下去不见了——英语阅读常见表达，hatch 指舱口/开口）
-> - "We heard the noise of a hatch being closed."（我们听到关舱口的声音——英语阅读常见表达，hatch 作为物理开口的用法）
+> - He hatched a plot to forge documents that would embarrass the company . `[例]`
+> - The birds hatched out the next afternoon . `[例]`
+> - They hatched a plan for a surprise birthday party . `[例]`
 
 
 ---

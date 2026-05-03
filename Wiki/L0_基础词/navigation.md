@@ -129,8 +129,9 @@ nav（船，拉丁语 *navis*）+ -ig（驱动，源自拉丁语 *agere* "驱动
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As a naval officer, his immediate efforts were to bring him up-to-date with navigational matters."（作为一名海军军官，他首要的努力是让自己的航海知识保持最新。——Cambridge Dictionary）
-> - "The age of modern naval warfare was at hand."（现代海战时代已经到来。——Longman Dictionary）
+> - In the past, navigation depended on a knowledge of the positions of the stars . `[例]`
+> - Mechanics discovered problems with the plane's navigation system . `[例]`
+> - We have streamlined our website for easier navigation. `[例]`
 
 
 ---

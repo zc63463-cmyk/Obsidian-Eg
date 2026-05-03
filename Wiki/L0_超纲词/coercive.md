@@ -123,7 +123,7 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The regime relied on coercive measures to maintain control over the population. `[例]`
+> - The president relied on the coercive powers of the military . `[例]`
 > - Coercive interrogation techniques have been widely condemned by human rights organizations. `[例]`
 > - The government was accused of using coercive tactics to suppress political opposition. `[例]`
 

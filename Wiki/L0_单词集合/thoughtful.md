@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a thoughtful analysis"（深思熟虑的分析）——考研阅读/翻译高频搭配，描述学术或评论文章的质量
-> - "it was thoughtful of you"（你真体贴）——日常/书信类文本
-> - "a thoughtful approach to the problem"（对问题的深思熟虑的解决方法）——学术类、建议类阅读
+> - He has a thoughtful approach to his work . `[例]`
+> - Thank you for calling when I was ill - it was very thoughtful of you. `[例]`
+> - She's a very thoughtful person . `[例]`
 
 ---
 

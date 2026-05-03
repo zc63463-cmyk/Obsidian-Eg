@@ -136,8 +136,9 @@ pin 源自古英语 *pinn*（钉子、销子），可能源自拉丁语 *pinna*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He tried to pin the mess on his brother, but it didn't work."（他试图把烂摊子推到弟弟身上，但没有得逞。——Cambridge Dictionary 例句）
-> - "They pinned their hopes on the new technology."（他们把希望寄托在新技术上。——Cambridge Dictionary 例句）
+> - I'll keep the trouser patch in place with pins while I sew it on. `[例]`
+> - Doctors inserted a metal pin in his leg to hold the bones together. `[例]`
+> - Two pins were left standing but they were far apart . `[例]`
 
 
 ---

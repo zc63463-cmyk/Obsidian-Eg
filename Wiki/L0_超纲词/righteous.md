@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**正义的，正直的**==；②（因自认为正义而）自以为是的；
+**adj.** ①==**正义的，正直的**== `adj`；②==**（因自认为正义而）自以为是的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：做正确之事的（按照正义标准行事）
@@ -126,8 +126,8 @@ right(正确的，正义的) + -eous(形容词后缀，表"具有……性质的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was filled with righteous indignation at the injustice she witnessed."（她对目睹的不公正充满了义愤。）
-> - "His self-righteous attitude made it difficult for others to work with him."（他自以为是的态度让其他人很难与他合作。）
+> - He was regarded as a righteous and holy man. `[例]`
+> - It's not only morally righteous, it's good business ," he said. `[例]`
 
 ## 复习记录
 

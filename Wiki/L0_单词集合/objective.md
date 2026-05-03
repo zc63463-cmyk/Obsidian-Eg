@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**客观的**==；②==**目标的**==；
-**n.** ①==**目标，目的**==；②（语法）宾格；
+**adj.** ①==**客观的**== `adj`；②==**目标的**== `adj`；
+**n.** ①==**目标，目的**== `N`；②==**（语法）宾格**== `N`；
 
 > [!tip] 原型义
 > **原型义**：投在面前的东西（被投掷到面前的目标）
@@ -154,10 +154,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The primary objective of this study is to examine the relationship between..."（本研究的主要目标是考察…之间的关系）——学术写作高频句式
-> - "We need to be objective about the situation."（我们需要对局势保持客观）——常见表达
-> - "There is no objective evidence to support this claim."（没有客观证据支持这一说法）——学术/论证语境
-> - "The military objective was to capture the bridge."（军事目标是占领桥梁）——军事/历史语境
+> - Her main objective now is simply to stay in power . `[例]`
+> - For party leaders , securing the trust of voters is the prime objective. `[例]`
+> - Can the sales team achieve its financial objectives? `[例]`
+> - The system can be considered successful only if it has met its objectives. `[例]`
 
 ---
 

@@ -128,8 +128,9 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Dogs can sniff out drugs and explosives with remarkable accuracy, making them invaluable partners in law enforcement."（狗能以惊人的准确度嗅出毒品和爆炸物，使它们成为执法部门不可或缺的伙伴——考研阅读科技话题相关表达）
-> - "She sniffed at the suggestion that she should step down, insisting she was the best person for the job."（她对让她辞职的建议嗤之以鼻，坚称自己是这份工作的最佳人选——考研翻译职场话题相关表达）
+> - He sniffed his socks to see if they needed washing . `[例]`
+> - Dogs love sniffing each other. `[例]`
+> - She sniffed at her glass of wine before tasting it. `[例]`
 
 
 ---

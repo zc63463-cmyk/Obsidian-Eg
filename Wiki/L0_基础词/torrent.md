@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**急流，洪流**==；②==**（感情、语言等的）爆发，迸发**==；③连串，倾盆；
+**n.** ①==**急流，洪流**== `N`；②==**（感情、语言等的）爆发，迸发**== `N`；③==**连串，倾盆**== `N`；
 
 > [!tip] 原型义
 > **原型义**：急流（猛烈涌出的水流）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A torrent of criticism followed the government's decision."（政府的决定引来了一连串的批评。）
-> - "Torrential rain caused severe flooding in the region."（倾盆大雨在该地区造成了严重洪灾。）
+> - Heavy storms turned the river into a raging torrent. `[例]`
+> - Fig. The TV station received torrents of angry letters (= many of them) . `[例]`
+> - We got a torrent of e-mails complaining about the advertisement . `[例]`
 
 
 ---

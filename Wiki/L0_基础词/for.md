@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For years, studies have found that first-generation college students...face a number of barriers."（多年来，研究发现第一代大学生面临诸多障碍——考研阅读高频句式）
-> - "The reason for the change is that..."（变化的原因是……——考研写作常用句型）
+> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+> - From the 10th century onwards, as merchant and travel routes became more developed, the _6 __ of the caravanserais increased and they served as a safe place for people to :rest at night. `[真题]`
 
 
 ---

@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The right to bear arms is enshrined in the Constitution."（携带武器的权利被载入宪法——考研阅读法律话题相关表达）
-> - "The government armed the border guards with new equipment."（政府为边防警卫配备了新装备——考研翻译高频表达）
+> - He held her in his arms (= held her closely ) . `[例]`
+> - She threw her arms around me and gave me a hug . `[例]`
+> - My arms ache from carrying this bag . `[例]`
 
 
 ---

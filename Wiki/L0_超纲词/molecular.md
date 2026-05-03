@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**分子的，分子水平的**== `adj N` [科学]；
+**adj.** ①==**分子的，分子水平的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与分子有关的
@@ -121,8 +121,8 @@ molecul(e)(分子，拉丁语 *moles* 质量/块) + -ar(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Advances in molecular biology have revolutionized our understanding of genetics. [C]
-> - `[例]` Scientists analyzed the molecular structure of the protein to determine its function. [C]
+> - Scientists can study the three-dimensional molecular structure of the proteins . `[例]`
+> - Scientists are only now starting to understand the molecular basis for their findings . `[例]`
 
 ## 复习记录
 

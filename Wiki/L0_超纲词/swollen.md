@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**肿胀的，膨胀的**==；②（河流等）上涨的；③（感情等）高涨的，激增的；
+**adj.** ①==**肿胀的，膨胀的**== `adj`；②==**（河流等）上涨的**== `adj`；③==**（感情等）高涨的，激增的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：肿胀的（身体部位因充血或积水而膨胀）
@@ -124,8 +124,8 @@ swell（膨胀，肿胀）的过去分词形式，用作形容词。swell 源自
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Her eyes were red and swollen from crying."（她的眼睛因哭泣又红又肿）
-> - "The swollen river burst its banks after days of heavy rain."（连日暴雨后，上涨的河水冲破了堤岸）
+> - Her eyes were red and swollen from crying. `[例]`
+> - A bruised , swollen face. `[例]`
 
 ## 复习记录
 

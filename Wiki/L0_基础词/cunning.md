@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cunning fox outwitted the hunters."（狡猾的狐狸智胜了猎人——文学常见表达）
-> - "He used cunning tactics to gain an advantage over his competitors."（他用狡猾的策略获得了对竞争对手的优势——考研阅读常见语境）
+> - I have a cunning ploy that's guaranteed to succeed . `[例]`
+> - One important detail was missing from her cunning plan . `[例]`
+> - He's a very cunning man. `[例]`
 
 
 ---

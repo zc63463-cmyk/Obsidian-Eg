@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**粘性，粘附性**==；②（引申）吸引力，持久性（如内容的"粘性"指让人持续关注）；
+**n.** ①==**粘性，粘附性**== `N`；②==**（引申）吸引力，持久性（如内容的"粘性"指让人持续关注）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：粘住不走的特性（物质表面能粘附其他物体的性质）
@@ -124,8 +124,8 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The stickiness of the glue makes it ideal for woodworking.（这种胶水的粘性使其非常适合木工。）
-> - Price stickiness is a key concept in Keynesian economics.（价格粘性是凯恩斯经济学的一个核心概念。）
+> - The company is using multimedia to increase the stickiness of visits to its Oxford Street store . `[例]`
+> - These sociologists emphasize the stickiness of organizational change . `[例]`
 
 ## 复习记录
 

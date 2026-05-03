@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**用力拉，拖拽**==；②（内心）拉扯，揪心；
-**n.** ①猛拉，拽；②拉力，牵引力；③（内心的）拉扯感；
+**v.** ①==**用力拉，拖拽**== `V`；②==**（内心）拉扯，揪心**== `V`；
+**n.** ①==**猛拉，拽**== `N`；②==**拉力，牵引力**== `N`；③==**（内心的）拉扯感**== `N`；
 
 > [!tip] 原型义
 > **原型义**：用力拉（短促而持续的拉拽动作）
@@ -124,8 +124,9 @@ tug 为日耳曼语源词（中古英语 *tuggen*），可能源自古诺斯语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She felt a tug at her sleeve and turned to see a small child."（她感到有人拽了一下她的衣袖，转过身看到一个小孩。）
-> - "His heart gave a tug when he saw the old photograph."（看到那张老照片时，他的心猛地揪了一下。）
+> - Tom tugged at his mother's arm . `[例]`
+> - Feeling a tug at his sleeve , he turned to see Joe beside him. `[例]`
+> - We tugged the sled up the hill . `[例]`
 
 
 ---

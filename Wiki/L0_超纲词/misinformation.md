@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**错误信息，虚假信息**== `N` `spread/combat N` [通用]；
+**n.** ①==**错误信息，虚假信息**== `N`；
 
 > [!tip] 原型义
 > **原型义**：错误的信息
@@ -124,8 +124,8 @@ mis-(错误) + in-(进入) + [[form|form]](形状/形式) + -ation(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Social media platforms have struggled to combat the spread of misinformation during the pandemic. [C]
-> - `[例]` The deliberate spread of misinformation undermines public trust in scientific institutions. [C]
+> - There's a lot of misinformation about the disease that needs to be corrected . `[例]`
+> - There has been a deliberate campaign to spread misinformation and confusion . `[例]`
 
 ## 复习记录
 

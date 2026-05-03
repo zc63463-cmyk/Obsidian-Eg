@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可控制的，可管理的**== `adj. N` [通用]；②==**可操纵的**== `adj. N` [通用]；
+**adj.** ①==**可控制的，可管理的**== `adj`；②==**可操纵的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：可以被控制/驾驭的
@@ -127,8 +127,8 @@ con-(共同) + [[tract|trol]](控制，源自 *contrarotulare*，"对照登记�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - In any experiment, it is essential to identify all controllable variables to ensure valid results. `[例]`
-> - The engineer designed the system so that all key parameters remain controllable from a central dashboard. `[例]`
+> - The colour and brightness of the screen are controllable. `[例]`
+> - It is a disease that is easily controllable by vaccination or antibiotics . `[例]`
 
 ## 复习记录
 

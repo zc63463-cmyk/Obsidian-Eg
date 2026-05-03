@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**票，入场券**==；②==**（交通）罚单**==；③（美）候选人名单；④标签；
-**v.** ①==**开罚单**==；②加标签于；
+**n.** ①==**票，入场券**== `N`；②==**（交通）罚单**== `N`；③==**（美）候选人名单**== `N`；④==**标签**== `N`；
+**v.** ①==**开罚单**== `V`；②==**加标签于**== `V`；
 
 > [!tip] 原型义
 > **原型义**：票（入场或乘车的凭证——一种标记/许可证明）
@@ -129,8 +129,9 @@ tick（标记，与 [[tick]] 同源）+ -et（小，名词后缀）→ 小标记
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Advocates are starting to pressure police to ticket urban speeders."（提倡者开始向警方施压，要求他们向城市超速驾驶者开罚单——考研高频表达）
-> - "Only passengers who were ticketed on that particular flight will receive a refund."（只有购买了该航班机票的乘客才能获得退款——剑桥词典例句）
+> - In this election there will definitely be a woman on the Democratic ticket. `[例]`
+> - Only passengers who were ticketed on that particular flight will receive a refund . `[例]`
+> - Bush and Cheney won re-election in 2004 against a Democratic ticket of John Kerry and John Edwards. `[例]`
 
 
 ---

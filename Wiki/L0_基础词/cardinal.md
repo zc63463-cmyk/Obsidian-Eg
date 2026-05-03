@@ -133,8 +133,9 @@ cardin-（铰链，拉丁语 *cardo*）+ -al（形容词后缀）→ 像铰链�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Finding food was a cardinal concern of early humans."（寻找食物是早期人类最主要的关切——考研阅读相关语料）
-> - "The cardinal rule of good reporting is to seek out multiple sources."（优秀报道的基本准则是寻找多个消息来源——考研翻译相关语料）
+> - Cardinals elect and advise the Pope. `[例]`
+> - Finding food was a cardinal concern . `[例]`
+> - The Pope appointed two new cardinals this year. `[例]`
 
 
 ---

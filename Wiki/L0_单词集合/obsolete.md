@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**过时的，被淘汰的**==；②==**废弃的，不再使用的**==；
+**adj.** ①==**过时的，被淘汰的**== `adj`；②==**废弃的，不再使用的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：脱离了当前使用习惯（人们不再习惯使用的东西）
@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author argues that some regulations have become obsolete and need to be updated."（考研英语——作者认为一些法规已经过时，需要更新）
-> - "Rapid technological advances have made many traditional skills obsolete."（CET-6——快速的技术进步使许多传统技能变得过时）
-> - "It would be obsolete to apply 19th-century solutions to 21st-century problems."（GRE——将19世纪的解决方案应用于21世纪的问题是不合时宜的）
+> - Gas lamps became obsolete when electric lighting was invented . `[例]`
+> - Typewriters have been rendered obsolete by computers . `[例]`
+> - Payment by cheque will soon be obsolete. `[例]`
 
 ---
 

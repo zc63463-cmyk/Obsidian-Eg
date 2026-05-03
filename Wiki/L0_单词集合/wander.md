@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "wander through the old town"（漫步穿过古镇）——考研阅读中描述旅行、城市景观
-> - "his mind wandered"（他走神了）——文学类文本中描述人物心理状态
-> - "wander off the beaten track"（偏离常规路线）——旅行类写作常见表达
+> - We spent the morning wandering around the old part of the city . `[例]`
+> - She was found several hours later , wandering the streets , lost . `[例]`
+> - He was here a minute ago but he's wandered off somewhere . `[例]`
 
 ---
 

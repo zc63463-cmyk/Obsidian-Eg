@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study found that pregnant women who consume adequate amounts of folic acid significantly reduce the risk of birth defects in their babies."（研究发现，摄入足够叶酸的孕妇显著降低了婴儿出生缺陷的风险——考研阅读健康话题相关表达）
-> - "His pregnant silence during the negotiation left everyone wondering what he was really thinking."（他在谈判中意味深长的沉默让所有人都想知道他到底在想什么——考研阅读商务话题相关表达）
+> - She's five and a half months pregnant. `[例]`
+> - My mother stopped smoking when she became pregnant. `[例]`
+> - He denied rumours that he'd got (= made) his bandmate pregnant. `[例]`
 
 
 ---

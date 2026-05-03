@@ -129,8 +129,9 @@ neighbour（邻居，源自古英语 *nēahgebūr*，*nēah* "近" + *gebūr* "�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There were lots of kids in my neighbourhood when I was growing up."（我成长时，社区里有很多孩子。——Cambridge Dictionary）
-> - "He shouted so loudly that the whole neighbourhood could hear him."（他喊得那么大声，整个社区都能听到。——Oxford Learner's Dictionary）
+> - There were lots of kids in my neighbourhood when I was growing up. `[例]`
+> - The company aims to set up a nursery school in every neighbourhood. `[例]`
+> - We live in a middle class neighbourhood. `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The average amount of time students now take to complete an undergraduate degree has stretched to six years and seven months."（学生如今完成本科学位所需的平均时间已经延长到六年零七个月。）——考研高频表达
-> - "The forest stretches for miles in every direction."（森林向四面八方延伸数英里。）——考研高频表达
+> - I tripped on a piece of wire that someone had stretched across the path . `[例]`
+> - She stretched out her hand and helped him from his chair . `[例]`
+> - I'm so tired ," she said, yawning and stretching. `[例]`
 
 ---
 

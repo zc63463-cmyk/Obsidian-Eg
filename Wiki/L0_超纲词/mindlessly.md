@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不假思索地，机械地**== `adv V` / `adv V-ing` [通用]；②愚蠢地 `adv adj` [负面]；
+**adv.** ①==**不假思索地，机械地**== `adv`；②==**愚蠢地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：不动脑筋地做某事
@@ -127,8 +127,8 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Many consumers mindlessly purchase products they do not need. [C]
-> - `[例]` She mindlessly scrolled through social media for hours without realizing how much time had passed. [C]
+> - Some children started mindlessly hurling stones at passing vehicles . `[例]`
+> - It was mindlessly dull work . `[例]`
 
 ## 复习记录
 

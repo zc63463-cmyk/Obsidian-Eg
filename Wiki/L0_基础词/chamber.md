@@ -128,8 +128,9 @@ chamber 源自古法语 *chambre*，源自拉丁语 *camera*（拱顶房间、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In Britain the upper Chamber is the House of Lords, and the lower the House of Commons."（在英国，上院是贵族院，下院是众议院——考研政治/法律类语料）
-> - "The judge met the two lawyers in his chambers."（法官在他的办公室里会见了两位律师——考研法律类语料）
+> - Meetings of the council are held in the council chamber. `[例]`
+> - There are two chambers in the British parliament - the House of Commons is the lower chamber, and the House of Lords is the upper chamber. `[例]`
+> - They agreed to maintain confidentiality by holding the hearings in chambers but having the judgments read in open court . `[例]`
 
 
 ---

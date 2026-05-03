@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**战略的，战略性的**==；②==**关键的，至关重要的**==；③（军事）战略上的；
+**adj.** ①==**战略的，战略性的**== `adj`；②==**关键的，至关重要的**== `adj`；③==**（军事）战略上的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与战略有关的（关乎全局规划和长远目标的）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Strategic planning is essential for the long-term success of any organization.（战略规划对任何组织的长期成功都至关重要。）
-> - The island holds a strategic position in the Pacific.（该岛在太平洋占据战略要地。）
+> - Their bombs are always placed in strategic positions to cause as much chaos as possible . `[例]`
+> - There are plans to modernize the US strategic forces . `[例]`
 
 ## 复习记录
 

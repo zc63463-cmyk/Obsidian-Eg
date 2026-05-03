@@ -126,8 +126,9 @@ lobby 源自中世纪拉丁语 *lobia*（游廊、走廊），源自古日耳曼
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The environmental lobby has been pushing for stricter regulations on carbon emissions."（环保游说团体一直在推动对碳排放实施更严格的监管——考研阅读政治类话题）
-> - "She waited for him in the hotel lobby."（她在酒店大堂等他——日常表达）
+> - The group plans to lobby against the bill . `[例]`
+> - They have been lobbying Congress to change the legislation concerning guns . `[例]`
+> - As you enter the lobby, you’ll see the elevators on your right . `[例]`
 
 
 ---

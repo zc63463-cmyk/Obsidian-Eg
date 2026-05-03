@@ -126,8 +126,9 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Now what does this man do but fall back a couple of hundred yards and then come rushing at me as hard as he could tear, with his nail-keg bent down nearly to his horse's neck."（这家伙倒退了几百码，然后拼命朝我冲来，他的钉桶几乎弯到了马脖子下面。——Mark Twain, *A Connecticut Yankee*）
-> - "There were lots of kids in my neighborhood when I was growing up."（我成长时，附近有很多孩子。——Cambridge Dictionary）
+> - Over nearly four months , dozens of men made their way on horseback into Montana and traversed along the Yellowstone River and around Yellowstone Lake. `[真题]`
+> - It's been nearly three months since my last haircut . `[例]`
+> - I've nearly finished that book you lent me. `[例]`
 
 
 ---

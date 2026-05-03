@@ -137,8 +137,9 @@ flash 源自中古英语 *flashen*（突然发光），可能是拟声词，模�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The solution to the problem flashed through her mind in a moment of sudden inspiration, after weeks of fruitless effort."（经过数周徒劳的努力后，答案在灵光一闪间掠过她的脑海——考研阅读叙事话题相关表达）
-> - "In a flash, the entire landscape was transformed by the advancing storm, with dark clouds rolling in and rain beginning to fall."（转瞬之间，整个风景被推进的风暴所改变，乌云翻滚，开始下雨——考研翻译自然话题相关表达）
+> - Stop flashing that light in my eyes ! `[例]`
+> - The lightning flashed and distant thunder rolled . `[例]`
+> - You'd better slow down, that car was flashing its lights at you. `[例]`
 
 
 ---

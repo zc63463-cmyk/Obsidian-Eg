@@ -121,8 +121,9 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decision triggered a heated debate about the future of education reform."（这个决定引发了关于教育改革未来的激烈辩论——考研高频表达）
-> - "Stress can act as a trigger for headaches and other health problems."（压力可能成为头痛和其他健康问题的诱因——考研高频表达）
+> - It's not clear who actually pulled the trigger. `[例]`
+> - There are fears that the incident may be a trigger for more violence in the capital . `[例]`
+> - A trigger is something that sets off a flashback , transporting the person back to the traumatic event . `[例]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**旅行，旅程**==；②绊倒；③（短途）出行；
-**vi.** ①==**绊倒**==；②旅行；③轻快地走/跳；
+**n.** ①==**旅行，旅程**== `N`；②==**绊倒**== `N`；③==**（短途）出行**== `N`；
+**vi.** ①==**绊倒**== `V`；②==**旅行**== `V`；③==**轻快地走/跳**== `V`；
 
 > [!tip] 原型义
 > **原型义**：绊倒（脚被障碍物绊住而失去平衡）
@@ -130,8 +130,9 @@ trip "绊倒"源自古法语 *treper*（跳跃、踢），原始日耳曼语 *\*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He tripped on the stairs and sprained his ankle."（他在楼梯上绊了一跤，扭伤了脚踝。）
-> - "The company covers all expenses for business trips."（公司承担所有出差费用。）
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+> - The trip from York to Newcastle takes about an hour by train . `[例]`
+> - We're going on a trip to Norway this summer . `[例]`
 
 
 ---

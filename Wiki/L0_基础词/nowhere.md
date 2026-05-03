@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**无处，哪里都不**==（考研重点义项）；②毫无进展，毫无结果；
-**n.** ①无名之地，荒僻之处；
+**adv.** ①==**无处，哪里都不**== `adv`（考研重点义项）；②==**毫无进展，毫无结果**== `adv`；
+**n.** ①==**无名之地，荒僻之处**== `N`；
 
 > [!tip] 原型义
 > **原型义**：没有地方（no + where = 没有任何地方）
@@ -133,8 +133,9 @@ no(没有) + where(地方)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite months of negotiation, the two parties got nowhere near an agreement."（尽管谈判了数月，双方离达成协议还差得远。——考研英语阅读政治/经济类话题，nowhere near 是高频考点）
-> - "The economic crisis seemed to come out of nowhere, catching governments around the world off guard."（这场经济危机似乎来得很突然，让世界各国政府措手不及。——考研英语阅读经济类话题，out of nowhere 是高频考点）
+> - These young people have nowhere ( else ) to go. `[例]`
+> - Nowhere does the article mention the names of the people involved . `[例]`
+> - The horse I bet on finished nowhere. `[例]`
 
 
 ---

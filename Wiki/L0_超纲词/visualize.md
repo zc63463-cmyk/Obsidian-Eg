@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**想象，设想**==；②==**使可视化，使可见**==；③将（数据等）以图形方式呈现；
+**v.** ①==**想象，设想**== `V`；②==**使可视化，使可见**== `V N`；③==**将（数据等）以图形方式呈现**== `V`；
 
 > [!tip] 原型义
 > **原型义**：使看见，使可见（把看不见的东西变成能看见的）
@@ -136,8 +136,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She tried to visualize the future she wanted."（她试图想象她想要的未来。）
-> - "The software helps researchers visualize complex data sets."（这款软件帮助研究人员将复杂数据集可视化。）
+> - I was so surprised when he turned up - I'd visualized someone much older . `[例]`
+> - The biggest challenge to building this place was visualizing what it would look like. `[例]`
 
 ## 复习记录
 

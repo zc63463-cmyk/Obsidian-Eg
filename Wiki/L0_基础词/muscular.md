@@ -123,8 +123,9 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was a tall, muscular man with broad shoulders."（他是个身材高大、肌肉发达、肩膀宽阔的男人——考研阅读常见描写）
-> - "The government took a muscular approach to the economic crisis."（政府对经济危机采取了强有力的措施——考研阅读政治话题）
+> - He wished he was more muscular. `[例]`
+> - It was a muscular, hard-hitting documentary . `[例]`
+> - He was tall, lean and muscular. `[例]`
 
 
 ---

@@ -127,8 +127,9 @@ lightning = [[light]](光) + -ning(名词后缀，表示动作或状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The forest fire was started by lightning during a severe thunderstorm that swept through the region."（这场森林火灾是由席卷该地区的强烈雷暴中的闪电引起的——考研英语阅读，自然灾害话题）
-> - "With lightning speed, the company adapted its business model to the new digital environment, gaining a significant competitive advantage."（这家公司以闪电般的速度调整了其商业模式以适应新的数字环境，获得了显著的竞争优势——考研英语阅读，商业策略话题）
+> - The thunder and lightning had moved away, but the rain continued to pour . `[例]`
+> - A flash of lightning lit up the sky . `[例]`
+> - The school was hit by a bolt of lightning yesterday . `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**日历，月历**== `wall/desk calendar`；②==**日程表，计划表**== `academic/school calendar`；③（一年一度的）大事记
-**v.** ①==**将……列入日程表**== `calendar N`；②为……安排时间
+**n.** ①==**日历，月历**==；②日程表，计划表；③（一年一度的）大事记
+**v.** ①将……列入日程表；②为……安排时间
 
 > [!tip] 原型义
 > **原型义**：账本（记录每月债务到期日的记账簿）
@@ -133,10 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - October is usually the busiest month in the academic calendar. `[COCA-ACAD]`
-> - The calendar is looking quite busy for March. `[COCA-SPOK]`
-> - I just calendared a meeting for the following week. `[COCA-SPOK]`
-> - The dates of Lent vary each year due to its adherence to the liturgical calendar. `[COCA-NEWS]`
+> - An old calendar for 2012 was still hanging on the wall of her office . `[例]`
+> - He wrote the date of the meeting in his calendar. `[例]`
+> - The house calendared an anti-terrorism bill in November . `[例]`
 
 
 ---

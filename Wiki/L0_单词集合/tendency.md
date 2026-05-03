@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "have a tendency to overestimate"（有高估的倾向）——考研阅读高频搭配，心理学/行为经济学话题
-> - "the general tendency of the market"（市场的总体趋势）——经济/商业类阅读
-> - "a tendency towards conformity"（从众倾向）——社会心理学类阅读
+> - His tendency to exaggerate is well known . `[例]`
+> - There is a tendency for unemployment to rise in the summer . `[例]`
+> - There is a growing tendency to regard money more highly than quality of life . `[例]`
 
 ---
 

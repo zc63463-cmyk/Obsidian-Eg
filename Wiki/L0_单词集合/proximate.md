@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**（时间、空间、关系上）最接近的，近邻的**==；②近似的；③（法律）直接的，近因的；
+**adj.** ①==**（时间、空间、关系上）最接近的，近邻的**== `adj`；②==**近似的**== `adj`；③==**（法律）直接的，近因的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：最接近的（在时间或空间上离得最近）
@@ -128,8 +128,9 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The problem with climate change was that it seemed so much less proximate than terrorism."（气候变化的问题在于，它看起来远不如恐怖主义那样迫在眉睫——剑桥词典例句）
-> - "Indeed, one proximate cause of the crisis was a tapering-off of export growth."（事实上，危机爆发的一个最直接的原因是出口增长逐渐放缓——新东方词典例句）
+> - The problem with climate change was that it seemed so much less proximate than terrorism . `[例]`
+> - The danger is greatest if the fireball is proximate to the target . `[例]`
+> - Insurance covers the proximate cause of a loss , for example , a rusty roof that lets rainwater in. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**预防，防止**== ; ②阻止，阻碍 ;
+**v.** ①==**预防，防止**== `V` ; ②==**阻止，阻碍 ;**== `V`
 
 > [!tip] 原型义
 > **原型义**：提前来（come before）
@@ -126,8 +126,9 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To prevent the disease from spreading, the government imposed strict quarantine measures."（为了防止疾病传播，政府实施了严格的隔离措施。）——考研高频表达
-> - "Nothing could prevent her from achieving her goal."（没有什么能阻止她实现目标。）——考研高频表达
+> - It is established to prevent citation manipulation. `[真题]`
+> - Label your suitcases to prevent confusion . `[例]`
+> - His disability prevents him (from) driv ing . `[例]`
 ---
 
 

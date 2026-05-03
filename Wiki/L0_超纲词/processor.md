@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**处理器，中央处理器（CPU）**==；②==**加工者，处理者**==；③==**数据处理程序**==；
+**n.** ①==**处理器，中央处理器（CPU）**== `N`；②==**加工者，处理者**== `N`；③==**数据处理程序**== `N`；
 
 > [!tip] 原型义
 > **原型义**：处理的人/机器（处理信息、数据或原料）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Modern processors can perform billions of calculations per second."（现代处理器每秒可以执行数十亿次计算。）
+> - To maximize performance , users will require a 1GHz processor and 1GB of RAM . `[例]`
+> - The nation's largest processor of meat and poultry has said it will stop using gas technology to keep products looking fresh . `[例]`
 
 ## 复习记录
 

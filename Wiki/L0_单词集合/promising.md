@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有前途的，有希望的**== ;
+**adj.** ①==**有前途的，有希望的**== `adj` ;
 
 > [!tip] 原型义
 > **原型义**：发出好信号的（sending forth good signs）
@@ -127,8 +127,9 @@ pro-(向前) + mise(发送) + -ing(分词形容词后缀，表"正在……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research on this new material looks promising."（这项关于新材料的研究看起来很有前景——2018年考研阅读）
-> - "She has a promising career in law ahead of her."（她面前有着很有前途的法律事业——考研高频表达）
+> - They won the award for the most promising new band of the year . `[例]`
+> - How's your new venture going?" "It's looking quite promising. `[例]`
+> - It's a great restaurant but it doesn't look at all promising from the outside . `[例]`
 
 
 ---

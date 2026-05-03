@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She frizzled the bacon until it was perfectly crispy. `[例]`
-> - Her naturally frizzled hair became even more unruly in the humid weather. `[例]`
+> - Put in the meat to frizzle and keep turning it until it is brown all over. `[例]`
+> - Frizzle the vegetables in hot oil until crisp and slightly curly . `[例]`
 
 ## 复习记录
 

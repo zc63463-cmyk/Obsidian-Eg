@@ -124,8 +124,9 @@ kneel（[[knee]] 膝盖 + -el(动词后缀，表示反复/持续动作) → 用�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She knelt down beside the child."（她在孩子身旁跪下。——考研阅读常见表达）
-> - "He knelt in front of the altar and prayed."（他跪在圣坛前祈祷。——考研翻译类表达）
+> - At the end of the game , the quarterback kneeled with the ball to run out the clock . `[例]`
+> - Gibbons kneeled next to the plant and started digging . `[例]`
+> - People sometimes kneel to pray. `[例]`
 
 
 ---

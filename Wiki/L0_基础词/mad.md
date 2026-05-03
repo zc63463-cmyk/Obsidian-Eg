@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The constant noise and overcrowding of urban life can drive even the most patient person mad, contributing to rising rates of anxiety and depression."（城市生活中持续的噪音和过度拥挤甚至能把最有耐心的人逼疯，导致焦虑和抑郁的发病率上升——考研阅读城市话题相关表达）
-> - "Consumers went mad for the new product, lining up for hours outside stores across the country on the day of its release."（消费者对这款新产品着了迷，在发布当天全国各地的商店外排队数小时——考研翻译消费话题相关表达）
+> - He must be mad spending all that money on a coat . `[例]`
+> - Some of the things she does are completely mad. `[例]`
+> - He's always complaining and it makes me so mad. `[例]`
 
 
 ---

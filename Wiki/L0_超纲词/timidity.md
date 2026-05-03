@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**胆怯，羞怯**==；②缺乏勇气；
+**n.** ①==**胆怯，羞怯**== `N`；②==**缺乏勇气**== `N`；
 
 > [!tip] 原型义
 > **原型义**：胆怯，羞怯（缺乏勇气的性格特征）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Her natural timidity made public speaking a daunting challenge."（她天生的胆怯使公开演讲成为一项令人生畏的挑战）
-> - "He overcame his timidity and eventually became a confident leader."（他克服了自己的胆怯，最终成为了一名自信的领导者）
+> - We could not overcome our timidity to say that we loved each other. `[例]`
+> - He said the policy was based on political timidity. `[例]`
 
 ## 复习记录
 

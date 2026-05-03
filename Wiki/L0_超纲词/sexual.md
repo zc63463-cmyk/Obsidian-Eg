@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**性的，两性的**==；②==**性别的**==；③性欲的；
+**adj.** ①==**性的，两性的**== `adj`；②==**性别的**== `adj`；③==**性欲的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与性有关的（涉及生理性别和性行为的）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Sexual harassment in the workplace is a violation of federal law."（工作场所的性骚扰违反联邦法律。）
-> - "The company has a strict policy against sexual discrimination."（公司有严格的反性别歧视政策。）
+> - Formal sexual intercourse (= the act of having sex ). `[例]`
+> - Sexual orientation (= the fact of someone being sexually attracted to people of a particular gender , or more than one gender ). `[例]`
 
 ## 复习记录
 

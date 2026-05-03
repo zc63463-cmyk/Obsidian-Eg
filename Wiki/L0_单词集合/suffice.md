@@ -116,8 +116,9 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Surely, this brief account of belief needs refinement, but it suffices for the present purpose."（诚然，这种对信念的简短描述需要完善，但对于目前的目的来说已经足够了——权威语料）
-> - "It suffices to observe that this rationale for the standard springs from a particular type of response to trust."（只需观察到这一标准的理由源于对信任的某种特定反应就足够了——权威语料）
+> - I'm taking $400 - I think that should suffice. `[例]`
+> - The problems were of global importance , and only an international effort would suffice to deal with them. `[例]`
+> - Generally a brief note or a phone call will suffice. `[例]`
 
 
 ---

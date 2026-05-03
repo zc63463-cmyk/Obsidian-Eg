@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Their marriage is under great strain at the moment."（他们的婚姻目前承受着巨大的压力。）——考研高频表达
-> - "These repayments are putting a strain on our finances."（这些还款给我们的财务造成了压力。）——考研高频表达
+> - Their marriage is under great strain at the moment. `[例]`
+> - These repayments are putting a strain on our finances. `[例]`
+> - In New Hampshire, where the rental vacancy rate has dropped :below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. `[真题]`
 ---
 
 

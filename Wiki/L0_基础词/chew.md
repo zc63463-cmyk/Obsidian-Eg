@@ -137,8 +137,9 @@ chew 源自古英语 *ceowan*（咀嚼），是原始日耳曼语 *keuwjan* 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He studied the brute closely, watched him chew, walked round and round him."（他仔细研究这头野兽，看着它咀嚼，绕着它走了一圈又一圈。——The Call of the Wild, Jack London）
-> - "He poked here. He pinched there."（他戳戳这里，捏捏那里。——The Call of the Wild, Jack London, 与 chew 场景相关）
+> - This meat is difficult to chew. `[例]`
+> - You don't chew your food enough - that's why you get indigestion . `[例]`
+> - Would you like some gum to chew? `[例]`
 
 
 ---

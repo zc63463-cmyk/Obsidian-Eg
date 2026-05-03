@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Social media platforms have become increasingly popular among young people as a means of self-expression and communication."（社交媒体平台在年轻人中越来越受欢迎，成为自我表达和交流的方式——考研阅读科技话题相关表达）
-> - "Despite its scientific accuracy, the book was written in a style that made it popular with the general public."（尽管该书具有科学准确性，但它的写作风格使其受到大众的欢迎——考研阅读科普话题相关表达）
+> - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
+> - She's the most popular teacher in school . `[例]`
+> - That song was popular with people from my father's generation . `[例]`
 
 
 ---

@@ -127,8 +127,9 @@ centi-(百，百分之一) + metre(米，希腊语 *metron*，度量)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The brain shrinks by as much as a quarter of its volume by the time a person reaches 80, with the frontal lobe and hippocampus—areas critical to memory and reasoning—losing as much as a centimetre of thickness."（当一个人到80岁时，大脑体积会缩小多达四分之一，额叶和海马体——对记忆和推理至关重要的区域——厚度减少多达一厘米。——考研科普类阅读高频话题）
-> - "The device can detect changes as small as a few centimetres in distance."（该设备能检测到距离上小至几厘米的变化。——考研科技类阅读常见表达）
+> - Bangkok is sinking at the rate of up to five centimetres (two inches ) a year , and the entire city may be below sea level by 2050. `[例]`
+> - The newspaper has increased the amount it charges per square centimetre of advertising space by 16%. `[例]`
+> - The shelves are three centimetres thick . `[例]`
 
 
 ---

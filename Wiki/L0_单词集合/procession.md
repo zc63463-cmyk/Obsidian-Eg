@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**行列，队伍**== ; ②（人/车辆的）行进 ;
+**n.** ①==**行列，队伍**== `N` ; ②==**（人/车辆的）行进 ;**== `N`
 
 > [!tip] 原型义
 > **原型义**：行列、队伍——一群人有序地向前行进
@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The procession made its way down the hill."（队伍走下山了——考研高频表达）
-> - "Thousands of workers joined the funeral procession."（数千名工人加入了送葬行列——考研高频表达）
+> - The festival will open with a procession led by the mayor . `[例]`
+> - My day has just been a never-ending procession of visitors . `[例]`
+> - The dancers leading the procession were in colourful and elaborate costumes . `[例]`
 
 
 ---

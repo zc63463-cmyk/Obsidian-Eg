@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**买不起的，负担不起的**==；②价格过高的；
+**adj.** ①==**买不起的，负担不起的**== `adj`；②==**价格过高的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：买不起的（无法承担费用的）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + af-(=ad-, 向) + [[ford|ford]](提供/承担) + -able(
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "For many young people, owning a home has become unaffordable."（对许多年轻人来说，拥有自己的房子已经变得买不起了。）
-> - "The rising cost of healthcare has made treatment unaffordable for millions."（不断上涨的医疗费用使数百万人无法负担治疗。）
+> - For many people , this type of treatment remains unaffordable. `[例]`
+> - Health insurance is now unaffordable for many people. `[例]`
 
 ## 复习记录
 

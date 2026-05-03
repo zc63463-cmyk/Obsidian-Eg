@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "many species have vanished from the earth"（许多物种已从地球上消失）——考研阅读生态类话题
-> - "hopes of recovery vanished"（康复的希望破灭了）——叙事/议论类文本
-> - "the magician made the rabbit vanish into thin air"（魔术师让兔子凭空消失）——描述性文本
+> - The child vanished while on her way home from school . `[例]`
+> - We ran out after the thief , but he had vanished into thin air (= had completely disappeared ) . `[例]`
+> - Cheap rural housing is vanishing in the south of the country . `[例]`
 
 ---
 

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government issued a decree banning the use of certain chemicals in agriculture."（政府颁布了一项法令，禁止在农业中使用某些化学物质）——政治/法律类阅读常见表达
-> - "The judge decreed that the custody of the children should be shared equally."（法官裁定孩子的监护权应由双方平等共享）——decree 作"裁定"的典型用法
+> - The decree stopped short of a full declaration of independence . `[例]`
+> - More than 200 people were freed by military decree. `[例]`
+> - The government has extensive powers to issue emergency decrees. `[例]`
 
 ---
 

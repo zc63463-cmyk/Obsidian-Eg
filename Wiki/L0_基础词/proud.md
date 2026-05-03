@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**骄傲的，自豪的**==；②引以为荣的；③傲慢的；
+**adj.** ①==**骄傲的，自豪的**== `adj`；②==**引以为荣的**== `adj`；③==**傲慢的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：有价值的、光荣的（源自古法语 *prud*，"有价值的、勇敢的"）
@@ -126,8 +126,9 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is proud of her achievements in scientific research."（她为自己的科研成就感到自豪。）
-> - "We are proud to announce the launch of our new product."（我们自豪地宣布新产品发布。）
+> - You must be very proud of your son . `[例]`
+> - We're particularly proud of our company's environmental record . `[例]`
+> - I'm very proud to have been involved in this project . `[例]`
 
 
 ---

@@ -147,8 +147,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All other passengers had only a very slim chance of getting sick according to the findings."（根据研究结果，所有其他乘客生病的几率都非常渺茫。——考研英语真题）
-> - "And the head-to-head competition might give them a strong incentive to lower their prices, perhaps by accepting slimmer profit margins or demanding better deals from providers."（面对面的竞争可能会给他们强烈的动力来降低价格，也许是接受更微薄的利润率，或者要求供应商提供更好的交易。——考研英语真题）
+> - She has a lovely slim figure . `[例]`
+> - They only have a slim chance of winning (= it's unlikely that they will win ) . `[例]`
+> - You don't have much lunch - are you slimming? `[例]`
 
 
 ---

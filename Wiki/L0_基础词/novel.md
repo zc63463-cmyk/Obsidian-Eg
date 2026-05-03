@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**新颖的，新奇的**==（考研重点义项，强调前所未有、有创意）；②（长篇）小说的；
-**n.** ①==**（长篇）小说**==；
+**adj.** ①==**新颖的，新奇的**== `adj`（考研重点义项，强调前所未有、有创意）；②==**（长篇）小说的**== `adj`；
+**n.** ①==**（长篇）小说**== `N`；
 
 > [!tip] 原型义
 > **原型义**：新的、前所未见的（源自拉丁语 *novus*，"新的"）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers proposed a novel approach to solving the problem of climate change."（研究人员提出了一种解决气候变化问题的新颖方法。——考研英语阅读科技类话题，novel approach 是高频考点）
-> - "Reading novels can broaden our horizons and deepen our understanding of human nature."（阅读小说可以开阔我们的视野，加深对人性的理解。——考研英语翻译/写作常用句型，novel 的名词用法）
+> - Two centuries ago , the idea of preserving nature , rather than exploiting it, was a novel one to. many U.S .. settlers. `[真题]`
+> - Have you read any of Jane Austen's novels? `[例]`
+> - His latest novel is selling really well. `[例]`
 
 
 ---

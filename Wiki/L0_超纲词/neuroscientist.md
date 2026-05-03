@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**神经科学家**== `a neuroscientist` `N` [学术/正式]；
+**n.** ①==**神经科学家**== `N`；
 
 > [!tip] 原型义
 > **原型义**：研究神经系统的科学家
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` Neuroscientists have discovered that the brain continues to develop new neurons throughout adulthood. [C]
-> - `` `[例]` `` A team of neuroscientists is investigating the neural basis of consciousness. [C]
+> - Neuroscientists are able to record the firing of a single nerve cell . `[例]`
+> - A team of neuroscientists is investigating the neural basis of consciousness. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**报复，复仇**==；②报复行为，复仇心；
+**n.** ①==**报复，复仇**== `N`；②==**报复行为，复仇心**== `N`；
 
 > [!tip] 原型义
 > **原型义**：惩罚，报应（对所受伤害施加的惩罚性回应）
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He swore to take vengeance on those who had wronged him."（他发誓要对那些冤枉他的人进行报复。）
-> - "The storm returned with a vengeance, destroying what little remained."（风暴猛烈地卷土重来，摧毁了所剩无几的一切。）
+> - The story features a woman who is evicted from her home and is seeking vengeance. `[例]`
+> - As he cradled his daughter's lifeless body in his arms , he swore (to take) vengeance on her killers . `[例]`
 
 ## 复习记录
 

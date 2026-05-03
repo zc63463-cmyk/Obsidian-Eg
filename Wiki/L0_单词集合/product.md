@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**产品，产物**== ; ②==**乘积**==（数学） ;
+**n.** ①==**产品，产物**== `N` ; ②==**乘积**== `N`（数学） ;
 
 > [!tip] 原型义
 > **原型义**：产品、产物——被引导出来（生产出来）的东西
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Private businessmen, striving to make profits, produce these goods and services in competition with other businessmen."（为了获取利润，私有企业主之间互相竞争，来生产这些产品和提供这些服务——1994年考研阅读）
-> - "The company has launched a new product aimed at young consumers."（公司推出了一款面向年轻消费者的新产品——考研高频表达）
+> - They do a range of skin-care products. `[例]`
+> - The product is so good it sells itself. `[例]`
+> - I'm trying to cut down on dairy products. `[例]`
 
 
 ---

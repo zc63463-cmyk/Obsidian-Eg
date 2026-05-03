@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使恢复活力，使复兴**==；②使新生，使重新焕发；
+**v.** ①==**使恢复活力，使复兴**== `V N`；②==**使新生，使重新焕发**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：重新赋予生命（让失去活力的东西重新活过来）
@@ -126,8 +126,8 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government introduced new policies to revitalize the stagnant economy."（政府出台新政策以振兴停滞的经济。）
-> - "Urban renewal programs have successfully revitalized many declining neighborhoods."（城市更新计划成功复兴了许多衰落的社区。）
+> - Japanese investment has revitalized this part of Britain . `[例]`
+> - A variety of policy initiatives have been undertaken aimed at revitalizing the economy . `[例]`
 
 ## 复习记录
 

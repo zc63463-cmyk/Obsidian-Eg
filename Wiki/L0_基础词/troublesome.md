@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人烦恼的，麻烦的**==；②棘手的，难处理的；
+**adj.** ①==**令人烦恼的，麻烦的**== `adj`；②==**棘手的，难处理的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：引起搅动的（制造混乱和困扰的）
@@ -122,7 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The issue of immigration has proved particularly troublesome for the current administration.（移民问题已被证明对本届政府来说尤为棘手。）
+> - Her hip has been troublesome for quite a while, and she'll probably need surgery on it. `[例]`
+> - The negotiations have proven more troublesome than any of us expected . `[例]`
+> - The troublesome fact is that we haven’t gotten much done. `[例]`
 
 
 ---

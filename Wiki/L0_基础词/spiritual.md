@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Maslow's hierarchy of needs suggests that once basic physiological and safety needs are met, individuals strive to fulfill their spiritual and self-actualization needs."（马斯洛的需求层次理论表明，一旦基本的生理和安全需求得到满足，个体就会努力实现其精神和自我实现的需求——考研阅读心理学话题相关表达）
-> - "In an increasingly materialistic society, many people find themselves searching for spiritual fulfillment that money and possessions cannot provide."（在一个日益物质化的社会中，许多人发现自己正在寻找金钱和物质无法提供的精神满足——考研阅读社会话题相关表达）
+> - Traditional ways of life fulfilled both economic and spiritual needs . `[例]`
+> - Religion focuses on the spiritual side of life . `[例]`
+> - It was a spiritual communion that he found with her. `[例]`
 
 
 ---

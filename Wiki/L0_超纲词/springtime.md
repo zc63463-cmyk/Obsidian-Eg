@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**春天，春季**==；②青春时期，全盛期；
+**n.** ①==**春天，春季**== `N`；②==**青春时期，全盛期**== `N`；
 
 > [!tip] 原型义
 > **原型义**：一年四季中的春季（万物复苏的季节）
@@ -122,7 +122,8 @@ spring(春天/弹簧/跳跃) + time(时间)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "In the springtime of their romance, everything seemed possible and beautiful."（在他们恋情的春天里，一切似乎都是可能而美好的。）
+> - In (the) springtime the woods are full of bluebells . `[例]`
+> - Springtime is her favorite time of year. `[例]`
 
 ## 复习记录
 

@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students who do not need the extra training could cut their debt mountain by a third."（那些不需要额外培训的学生就可以削减三分之一的债务。——2014年考研英语阅读理解）
-> - "Shrinking economies mean falling tax revenues and more government debt."（经济收缩意味着税收的减少和政府债务的增加。——考研经济类阅读高频表达）
+> - A. ruins B. debt C. fashion Section Il Reading Comprehension Part A Directions: D. equipped D. permanently D. combination D. connect D. along with D. evaluation D. reduced D. opposed D. in case D. meeting D. `[真题]`
+> - He managed to pay off his debts in two years . `[例]`
+> - The company ran up huge debts. `[例]`
 
 
 ---

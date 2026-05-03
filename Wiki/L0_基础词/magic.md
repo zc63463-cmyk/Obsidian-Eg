@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is no magic bullet for solving the complex problems of climate change; it requires a comprehensive and sustained effort from all nations."（应对气候变化这一复杂问题没有灵丹妙药，它需要所有国家持续不懈的综合努力——考研阅读环保话题相关表达）
-> - "The magic of the ancient city lies not in its grand architecture alone, but in the rich tapestry of cultures and histories that have shaped it over millennia."（这座古城的魅力不仅在于其宏伟的建筑，更在于数千年来塑造它的丰富文化和历史画卷——考研翻译文化话题相关表达）
+> - The group is known for its belief in witchcraft and magic. `[例]`
+> - As if by magic, the car changes into a boat when it hits the water . `[例]`
+> - With just a click of one button , all the lights in the house turn off and the blinds close like magic. `[例]`
 
 
 ---

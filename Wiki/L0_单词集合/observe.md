@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**观察，注意到**==；②==**遵守（规则、法律等）**==；③==**评论，评说**==；
-**vi.** ①==**观察**==；②==**说，评论**==；
+**vt.** ①==**观察，注意到**== `V N`；②==**遵守（规则、法律等）**== `V N`；③==**评论，评说**== `V N`；
+**vi.** ①==**观察**== `V`；②==**说，评论**== `V`；
 
 > [!tip] 原型义
 > **原型义**：保持注视（目光始终朝向目标，保持不移开）
@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is important to observe the distinction between these two concepts."（考研英语——注意/观察这两个概念之间的区别很重要）
-> - "All drivers are required to observe traffic regulations."（CET-4——所有驾驶员都必须遵守交通规则）
-> - "Critics have observed that the policy may have unintended consequences."（IELTS——评论家们评论说，该政策可能产生意想不到的后果）
+> - The role of scientists is to observe and describe the world , not to try to control it. `[例]`
+> - He spent a year in the jungle , observing how deforestation is affecting local tribes . `[例]`
+> - Children learn by observing adults . `[例]`
 
 ---
 

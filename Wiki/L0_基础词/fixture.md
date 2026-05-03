@@ -129,8 +129,9 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old building was stripped of all its original fixtures, including the ornate lighting and hand-carved wooden doors, before the renovation began."（在翻修开始之前，这座老建筑被拆除了所有原有的固定装置，包括华丽的灯具和手工雕刻的木门——考研阅读建筑话题相关表达）
-> - "The weekly market has been a fixture of the town for over a century, attracting visitors from surrounding villages every Saturday."（这个每周集市已是一个多世纪以来该镇的固定活动，每个星期六都吸引着来自周边村庄的游客——考研翻译文化话题相关表达）
+> - All fixtures and fittings are included in the house price . `[例]`
+> - They've been together so long he's become a permanent fixture in her life . `[例]`
+> - Next season's fixtures will be published early next month . `[例]`
 
 
 ---

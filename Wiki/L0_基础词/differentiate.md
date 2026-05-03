@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is important to differentiate between fact and opinion."（区分事实和观点很重要。）
-> - "Companies must differentiate their products to survive in a competitive market."（公司必须使产品差异化才能在竞争激烈的市场中生存。）
+> - We do not differentiate between our employees on the basis of their race , religion , or national origin . `[例]`
+> - Most consumers have no trouble differentiating our brand's cereal from our leading competitor's. `[例]`
+> - Service providers are all keen to differentiate themselves from their competitors . `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has taken a firm stance against terrorism."（政府对恐怖主义采取了坚定的立场。）——考研高频表达
-> - "Her stance on environmental issues has won her widespread support."（她在环境问题上的立场赢得了广泛支持。）——考研高频表达
+> - The doctor's stance on the issue of abortion is well known . `[例]`
+> - The governor’s stance on the issue of tax cuts is well known . `[例]`
+> - He had the stance of a baseball player focusing on the ball . `[例]`
 
 ---
 

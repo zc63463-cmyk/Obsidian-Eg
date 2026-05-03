@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Heart disease remains one of the leading causes of death worldwide."（心脏病仍然是全球主要死因之一。）——考研高频表达
-> - "The spread of infectious diseases can be prevented through proper hygiene and vaccination."（通过适当的卫生和疫苗接种可以预防传染病的传播。）——考研高频表达
+> - They reported a sudden outbreak of the disease in the south of the country . `[例]`
+> - The first symptom of the disease is a very high temperature . `[例]`
+> - Starvation and disease have killed thousands of refugees . `[例]`
 
 ---
 

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Much of the research in this area remains inconclusive."（该领域的许多研究仍然没有定论）
-> - "There is much debate about the causes of climate change."（关于气候变化的原因有很多争论）
+> - You haven't said much, Joan - what do you think ? `[例]`
+> - I don't think there's much to be gained by catching an earlier flight . `[例]`
+> - Is there any wine left ?" "Not much. `[例]`
 
 
 ---

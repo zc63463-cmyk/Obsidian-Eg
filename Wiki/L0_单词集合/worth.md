@@ -140,10 +140,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The project is well worth the effort."（这个项目非常值得投入精力。）——考研阅读常见表达，评估项目/行动的价值
-> - "It is worth noting that..."（值得注意的是……）——考研写作/阅读高频句式，引出重要观点
-> - "be worth bearing in mind"（值得牢记）——考研阅读中引出需要注意的信息
-> - "A college degree is worth the investment."（大学学位值得投资。）——教育类话题常见论点
+> - Our house is worth £200,000. `[例]`
+> - Heroin worth about $5 million was seized . `[例]`
+> - She must be worth at least half a million. `[例]`
+> - Four days ' car hire costs £150, which is well worth it for the freedom it gives you. `[例]`
 
 ---
 

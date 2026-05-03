@@ -129,9 +129,9 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The product must meet strict technical specifications before it can be sold."（产品在销售前必须符合严格的技术规格）——技术/商业类阅读
-> - "The architect provided detailed specifications for the construction project."（建筑师为建设项目提供了详细的规格说明）——工程/建筑类话题
-> - "All materials used must conform to the specifications set out in the contract."（所有使用的材料必须符合合同中规定的规格）——法律/合同类话题
+> - All products are made exactly to the customer's specifications. `[例]`
+> - A specification has been drawn up for the new military aircraft . `[例]`
+> - The cars have been built to a high specification (= a high standard ) . `[例]`
 
 ---
 

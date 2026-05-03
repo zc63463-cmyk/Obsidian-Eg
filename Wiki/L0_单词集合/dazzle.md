@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a dazzling array of technological innovations"（令人目不暇接的一系列技术创新）——考研阅读科技类话题高频搭配
-> - "dazzling performance"（令人惊叹的表演）——考研阅读中描述杰出表现
-> - "be dazzled by the city lights"（被城市灯光眩目）——文学类文本常见用法
+> - I was dazzled by the sunlight . `[例]`
+> - I was dazzled by his charm and good looks . `[例]`
+> - He was dazzled by Rome’s architectural treasures . `[例]`
 
 ---
 

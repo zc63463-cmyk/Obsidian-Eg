@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**通知，告知，报告**==；②通报；
+**v.** ①==**通知，告知，报告**== `V`；②==**通报**== `V`；
 
 > [!tip] 原型义
 > **原型义**：使人知道（not- "知道" + -ify "使动"）
@@ -120,7 +120,9 @@ not-(知道，拉丁语 *noscere*) + -ify(使动后缀，=make)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The school will notify parents of any changes to the schedule."（学校将通知家长日程的任何变更——考研翻译高频句式）
+> - The school is required to notify parents if their children fail to come to school . `[例]`
+> - Businesses must notify consumers if their personal information has been subject to a security breach . `[例]`
+> - You must notify us in writing if you wish to cancel your subscription. `[例]`
 
 
 ---

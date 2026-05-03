@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was still dark when five coaches started to ferry the miners the 140 miles from the Silverhill colliery."（天还黑着，就有五辆大巴开始从距银山煤矿140英里的地方出发运送矿工。——经典例句）
-> - "A helicopter ferried in more soldiers to help in the search."（一架直升机运来更多的士兵协助搜索。——经典例句）
+> - We're going to the Channel Islands by ferry. `[例]`
+> - We took the ferry to Calais. `[例]`
+> - I spend most of my time ferrying the children around. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**透明的**==；②==**显而易见的，明显的**==；③坦诚的，公开的；
+**adj.** ①==**透明的**== `adj`；②==**显而易见的，明显的**== `adj`；③==**坦诚的，公开的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：光可以穿越显现——光线能穿过并显现出来
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government should be more transparent in its decision-making process."（政府在其决策过程中应该更加透明）
-> - "It was transparent that he was not telling the truth."（很明显他没有说实话）
+> - Grow the bulbs in a transparent plastic box , so the children can see the roots growing . `[例]`
+> - Her blouse was practically transparent! `[例]`
+> - I think we should try to make the instructions more transparent. `[例]`
 
 
 ---

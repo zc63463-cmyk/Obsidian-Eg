@@ -136,8 +136,9 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Conrail's net railway operating income in 1996 was just $427 million, less than half of the carrying costs of the transaction."（联合铁路公司1996年铁路运营净收入仅为4.27亿美元，不到该交易运输成本的一半。）——2003年阅读3
-> - "The transfer of technology from developed to developing countries is essential for global economic growth."（将技术从发达国家转移到发展中国家对全球经济增长至关重要。）——考研高频表达
+> - He has been transferred to a psychiatric hospital . `[例]`
+> - She transferred her gun from its shoulder holster to her handbag . `[例]`
+> - We were transferred from one bus into another. `[例]`
 ---
 
 

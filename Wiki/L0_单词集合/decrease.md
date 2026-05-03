@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The number of endangered species has decreased dramatically over the past century."（过去一个世纪中，濒危物种的数量急剧减少）——环保/科普类阅读常见表达
-> - "There has been a steady decrease in the cost of solar energy."（太阳能的成本一直在稳步下降）——科技/经济类阅读话题
+> - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
+> - Our share of the market has decreased sharply this year . `[例]`
+> - We have decreased our involvement in children's books . `[例]`
 
 ---
 

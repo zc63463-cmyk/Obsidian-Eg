@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The situation is pretty much the same as it was ten years ago."（情况几乎和十年前一样。）
-> - "She was pretty confident that she would pass the exam."（她相当自信能通过考试。）
+> - The house has four bedrooms , so it's pretty big . `[例]`
+> - I'm pretty sure it was her. `[例]`
+> - I've pretty much finished here. `[例]`
 
 
 ---

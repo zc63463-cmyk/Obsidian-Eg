@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**旋风， whirlwind**==；②（比喻）旋风般的、迅猛的事件/活动；
-**adj.** ①旋风般的；②快速的，迅猛的；
+**n.** ①==**旋风， whirlwind**== `N`；②==**（比喻）旋风般的、迅猛的事件/活动**== `N`；
+**adj.** ①==**旋风般的**== `adj`；②==**快速的，迅猛的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：旋转的旋风（一种快速旋转的风）
@@ -128,8 +128,8 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The president embarked on a whirlwind tour of European capitals."（总统开始了一趟旋风式的欧洲各国首都之旅。）
-> - "It was a whirlwind romance — they met in March and were married by June."（那是一段旋风式恋情——他们三月相识，六月就结婚了。）
+> - They married three months after they met - it was a real whirlwind romance . `[例]`
+> - The film created a whirlwind of controversy . `[例]`
 
 ## 复习记录
 

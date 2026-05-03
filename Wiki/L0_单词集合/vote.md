@@ -129,8 +129,9 @@ vote 源自拉丁语 votum（誓言、许愿），与 vow（发誓）同源。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On a five to three vote, the Supreme Court knocked out much of Arizona's immigration law Monday."（周一，最高法院以五比三的票数推翻了亚利桑那州移民法的大部分内容。）——2013考研英语一阅读
-> - "Members of parliament voted against the proposed reform bill."（国会议员投票反对拟议的改革法案。）——考研高频表达
+> - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
+> - She was too young to vote in the election . `[例]`
+> - The committee voted on the proposal , and accepted it unanimously . `[例]`
 
 ---
 

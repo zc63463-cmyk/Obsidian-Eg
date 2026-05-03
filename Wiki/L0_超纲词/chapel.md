@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The couple was married in a small chapel in the countryside. `[例]`
-> - The university chapel dates back to the 15th century. `[例]`
+> - The chapel became a sanctuary for the refugees . `[例]`
+> - They meet in an old house , whose basement has been converted into a chapel. `[例]`
 
 ## 复习记录
 

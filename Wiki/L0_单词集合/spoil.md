@@ -125,8 +125,9 @@ spoil 源自古英语 *spolian*（掠夺），与拉丁语 *spolium*（战利品
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rapid development of tourism has spoiled the natural beauty of the coastal town."（旅游业的快速发展破坏了这座沿海小镇的自然美景。）——考研高频表达
-> - "Parents should avoid spoiling their children with excessive material rewards."（父母应避免用过多的物质奖励溺爱孩子。）——考研高频表达
+> - He tried not to let the bad news spoil his evening . `[例]`
+> - The oil spill has spoiled the whole beautiful coastline . `[例]`
+> - I haven't seen the film , so don't spoil it for me by telling me what happens . `[例]`
 
 ---
 

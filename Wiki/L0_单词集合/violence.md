@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Gun violence is a major issue in America."（枪支暴力在美国是个大问题。）——考研高频表达
-> - "Complaints about sex and violence on TV have increased in recent years."（近年来对电视上色情和暴力的投诉有所增加。）——考研高频表达
+> - The report documents the staggering amount of domestic violence against women. `[例]`
+> - The storm turned out to be one of unexpected violence. `[例]`
+> - She was concerned about the amount of violence on television . `[例]`
 
 ---
 

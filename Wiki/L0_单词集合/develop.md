@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The company plans to develop a new range of products for the Asian market."（该公司计划为亚洲市场开发一系列新产品。）——考研阅读真题
-> - "Children develop language skills rapidly during their first few years of life."（儿童在生命的最初几年中快速发展的语言技能。）——考研高频表达
+> - From the 10th century onwards, as merchant and travel routes became more developed, the _6 __ of the caravanserais increased and they served as a safe place for people to :rest at night. `[真题]`
+> - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
 
 ---
 

@@ -129,8 +129,9 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Greed is considered one of the most dangerous vices in human society."（贪婪被认为是人类社会中最危险的恶习之一。）——考研高频表达
-> - "The vice president will attend the summit on behalf of the president."（副总统将代表总统出席峰会。）——考研高频表达
+> - Greed, pride , envy , and lust are considered to be vices. `[例]`
+> - My one real vice (= bad habit ) is chocolate . `[例]`
+> - The chief of police said that he was committed to wiping out vice in the city . `[例]`
 
 
 ---

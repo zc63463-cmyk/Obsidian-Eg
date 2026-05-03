@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**出版；发行**== ; ②==**发表；公布**== ; ③（使）信息可被公众获取
+**v.** ①==**出版；发行**== `V` ; ②==**发表；公布**== `V` ; ③==**（使）信息可被公众获取**== `V`
 
 > [!tip] 原型义
 > **原型义**：使公众知晓（make known to the public）
@@ -122,8 +122,9 @@ publ-(公众) + -ish(动词后缀，表"使...")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientific publishing has long been a licence to print money."（科学出版长期以来一直是一本万利的行当。）——2020考研英语一阅读
-> - "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies."（今天读这些书，不禁惊叹于这样一个事实：它们学术性的内容曾经被认为适合在大众日报上发表。）——2010考研英语一阅读
+> - Both of these books are published next week by Penguin R.andom House ( PRH) , a company currently involved in a stand-off with Waterstones. `[真题]`
+> - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
+> - She's just had an article published in their weekend supplement . `[例]`
 
 ---
 

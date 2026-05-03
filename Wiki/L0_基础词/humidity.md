@@ -122,7 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "High humidity can make hot weather feel even more uncomfortable."（高湿度会使炎热天气变得更加令人不适）
+> - The temperature is almost 80 degrees , and the humidity 35%. `[例]`
+> - Tomorrow will be hot , with high humidity. `[例]`
+> - Instruments constantly monitor temperature and humidity. `[例]`
 
 
 ---

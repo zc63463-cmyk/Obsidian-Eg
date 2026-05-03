@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**私人的，个人的**== ; ②私密的，秘密的 ; ③私营的，民间的
-**n.** ①士兵，列兵（复数 privates）
+**adj.** ①==**私人的，个人的**== `adj`；②==**私密的，秘密的**== `adj`；③==**私营的，民间的**== `adj`；
+**n.** ①==**士兵，列兵（复数 privates）**== `N`
 
 > [!tip] 原型义
 > **原型义**：个人的，属于个人的（从公共领域中分离出来）
@@ -139,8 +139,9 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Brendon Lynch, Microsoft's chief privacy officer, blogged: "We believe consumers should have more control over their personal information.""（微软首席隐私官布伦登·林奇在博客中写道："我们相信消费者应该对自己的个人信息拥有更多控制权。"）——2013年考研真题
-> - "The government should strike a balance between protecting public safety and respecting private property rights."（政府应在保护公共安全和尊重私有财产权之间取得平衡。）——考研高频表达
+> - She has a small office that is used for private discussions . `[例]`
+> - I caught him looking through my private papers . `[例]`
+> - The sign on the gate said "Private Property - No Trespassing! `[例]`
 ---
 
 

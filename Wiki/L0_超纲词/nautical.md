@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**航海的，船舶的，海员的**== `adj N` [正式]；
+**adj.** ①==**航海的，船舶的，海员的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：航海的（与船只和航行相关的）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The nautical museum displays artifacts from centuries of seafaring history. [C]
-> - `[例]` Nautical charts are essential for safe navigation at sea and must be updated regularly. [C]
+> - You're looking very nautical in your navy blue sweater . `[例]`
+> - The town is proud of its nautical history . `[例]`
 
 ## 复习记录
 

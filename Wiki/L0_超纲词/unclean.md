@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不干净的，肮脏的**==；②不纯洁的，道德上不洁的；
+**adj.** ①==**不干净的，肮脏的**== `adj`；②==**不纯洁的，道德上不洁的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不干净的（没有清洁过的）
@@ -126,8 +126,8 @@ un-(不，否定前缀) + clean(干净的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many people in the region lack access to clean, unclean water."（该地区许多人缺乏清洁水源。）
-> - "He who comes to equity must come with clean hands."（求衡平者须自身清白——法律格言，与 unclean hands 相关。）
+> - The health risk from drinking unclean water is considerable . `[例]`
+> - Jews and Muslims consider pigs unclean. `[例]`
 
 ## 复习记录
 

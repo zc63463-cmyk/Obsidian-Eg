@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't be fooled by his appearance."（不要被他的外表所欺骗。）
-> - "He fooled away his youth on drinking and gambling."（他把青春虚度在了酗酒和赌博上。）
+> - Don't be fooled by his appearance . `[例]`
+> - You fool, you missed your chance ! `[例]`
+> - He's a fool if he thinks she still loves him. `[例]`
 
 
 ---

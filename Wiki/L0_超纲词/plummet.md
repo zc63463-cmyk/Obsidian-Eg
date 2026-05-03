@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**铅锤，测深锤**==；
-**vi.** ②==**垂直落下，骤然下跌**==；③大幅下降；
+**n.** ①==**铅锤，测深锤**== `N`；
+**vi.** ②==**垂直落下，骤然下跌**== `V`；③==**大幅下降**== `V`；
 
 > [!tip] 原型义
 > **原型义**：铅锤（用铅制成的测量深度的重物，垂直落下）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Oil prices plummeted to their lowest level in decades."（石油价格暴跌至数十年来最低水平。）
+> - House prices have plummeted in recent months . `[例]`
+> - Several large rocks were sent plummeting down the mountain . `[例]`
 
 ## 复习记录
 

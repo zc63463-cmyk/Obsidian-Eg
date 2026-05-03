@@ -117,8 +117,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "You deserve a rest after all your hard work."（辛苦工作之后，你值得休息一下。）——考研高频表达
-> - "The issue deserves careful consideration."（这个问题值得仔细考虑。）——考研高频表达
+> - Chris deserves our special thanks for all his efforts . `[例]`
+> - They certainly deserved to win that game . `[例]`
+> - These charities deserve your support . `[例]`
 
 ---
 

@@ -120,7 +120,7 @@ child（孩子）+ -less（没有……的）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - An increasing number of couples are choosing to remain childless. `[例]`
+> - Couples who are childless can feel excluded from the rest of society . `[例]`
 > - She lived a lonely, childless life after her husband's death. `[例]`
 
 ## 复习记录

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**反对，异议**==；②==**反对的理由**==；
+**n.** ①==**反对，异议**== `N`；②==**反对的理由**== `N`；
 
 > [!tip] 原型义
 > **原型义**：投向对面的东西（把反对意见"扔"向对方）
@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He raised a strong objection to the proposal."（他对该提案提出了强烈反对）——经典搭配
-> - "I have no objection to your plan."（我不反对你的计划）——常见表达
-> - "The main objection to the new law is its cost."（反对新法律的主要理由是它的成本）——"反对的理由"义项
-> - "Her parents' objection to the marriage was based on religious grounds."（她父母反对这桩婚姻是基于宗教原因）——社会话题
+> - Her objection to the plan is based on incorrect facts . `[例]`
+> - There have never been any serious objections against female monarchs . `[例]`
+> - A couple of people raised objections to the proposal . `[例]`
+> - No one voiced any objections during the meeting . `[例]`
 
 ---
 

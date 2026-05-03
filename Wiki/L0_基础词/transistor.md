@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**晶体管**==；②晶体管收音机；
+**n.** ①==**晶体管**== `N`；②==**晶体管收音机**== `N`；
 
 > [!tip] 原型义
 > **原型义**：跨越电阻的器件——transfer（转移）+ resistor（电阻器）的缩合
@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the transistor in 1947 revolutionized the field of electronics."（1947年晶体管的发明彻底改变了电子学领域）
-> - "Modern microprocessors contain billions of transistors on a single chip."（现代微处理器在单个芯片上包含数十亿个晶体管）
+> - In a transistor , the gate electrode switches a semiconductor between conducting and non-conducting states. `[例]`
+> - In semiconductor technology, smaller nanometer sizes signify more compact transistor designs, which lead to greater processing power and efficiency. `[例]`
+> - In 1958, transistors replaced vacuum tubes. `[例]`
 
 
 ---

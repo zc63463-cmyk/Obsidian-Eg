@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "'Energy independence' and its rhetorical companion 'energy security' are, however, slippery concepts that are rarely though through."（然而，"能源独立"及其修辞上的伙伴"能源安全"是很少被深入思考的棘手概念。——考研真题阅读）
-> - "This slippery slope of eroding ethics and bigger risks leads only to disaster."（这种道德侵蚀和风险递增的滑坡效应只会导致灾难。——考研真题阅读）
-> - "The company spent the last five years developing solar panels that are only about a quarter of an inch thick and are strong enough to stand up to heavy highway traffic without breaking or making the roads more slippery."（该公司花了五年时间开发太阳能电池板，厚度仅约四分之一英寸，足以承受繁忙公路交通而不破裂或使道路更滑。——考研真题）
+> - The road was wet and slippery. `[例]`
+> - He's as slippery as an eel - you can never get a straight answer out of him. `[例]`
+> - He's a slippery customer (= person ) , and I've never felt comfortable with him. `[例]`
 
 
 ---

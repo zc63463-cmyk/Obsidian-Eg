@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scent of her perfume lingered in the room long after she had left."（她离开很久之后，香水的气味仍在房间里萦绕）
-> - "Tourists lingered in the ancient city, reluctant to leave its charm behind."（游客们在古城中流连忘返，不忍离开它的魅力）
+> - After the play had finished , we lingered for a while in the bar hoping to catch sight of the actors . `[例]`
+> - The smell from the fire still lingered days later . `[例]`
+> - It's impossible to forget such horrific events - they linger (on) in the memory forever . `[例]`
 
 
 ---

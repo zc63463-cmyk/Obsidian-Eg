@@ -124,9 +124,9 @@ alpha（希腊语第一个字母）+ bet（=beta，希腊语第二个字母）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories."（人们早就知道，当顾客翻阅电话簿时，名叫AAAA汽车公司的要比名叫Zodiac汽车公司的有更大的优势——2004年英语一Text 2，alphabetism 的经典出处）
-> - "English names are fairly evenly spread between the halves of the alphabet. Yet a suspiciously large number of top people have surnames beginning with letters between A and K."（英文名字在字母表的两半部分之间分布相当均匀。然而，令人生疑的是，很多顶尖人物的姓氏首字母都在A到K之间——2004年英语一Text 2）
-> - "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically."（求职面试的入围名单、选举投票纸、会议发言者和与会者名单：所有这些都倾向于按字母顺序排列——2004年英语一Text 2）
+> - On the road signs , the Greek place names have been transliterated into the Latin alphabet. `[例]`
+> - Z comes after Y in the alphabet. `[例]`
+> - The ninth letter of the alphabet is I. `[例]`
 
 
 ---

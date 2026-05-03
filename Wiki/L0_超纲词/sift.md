@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**筛，过滤**==；②筛选，甄别（信息/证据等）；③详查，细审；
+**v.** ①==**筛，过滤**== `V`；②==**筛选，甄别（信息/证据等）**== `V`；③==**详查，细审**== `V`；
 
 > [!tip] 原型义
 > **原型义**：用筛子将粗细颗粒分离（让细粉通过筛孔，粗粒留下）
@@ -126,7 +126,8 @@ sift（源自古英语 *siftan*，与 sieve"筛子"同源）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Detectives spent weeks sifting through the evidence to find the killer."（侦探花了数周时间筛选证据以寻找凶手。）
+> - When the cake is cooked , sift some icing sugar over the top of it. `[例]`
+> - The police are sifting the evidence very carefully to try and find the guilty person . `[例]`
 
 ## 复习记录
 

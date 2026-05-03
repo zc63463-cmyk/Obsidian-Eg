@@ -136,8 +136,9 @@ plug 源自中古荷兰语 *plugge*（塞子、木栓），为日耳曼语族本
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has compared it with plumbing, pointing out that a plumber doesn't wake up and say that he can't work with pipes today."（他曾拿写作和修管道作比，指出管道工不会一觉醒来就说今天不能修管道了。——2022年英语一阅读，plug 的相关词 plumbing 出现）
-> - "The fisherman plugged a hole at the bottom of the boat with a rubber plug."（这位渔民用橡胶塞塞住了船底的漏洞。——考研翻译常见表达）
+> - If a plug is wired incorrectly , it can be dangerous . `[例]`
+> - Is there a plug in the bedroom that I can use for my hairdryer ? `[例]`
+> - You can raise seed as plugs this summer and introduce the plants into the garden in the autumn . `[例]`
 
 
 ---

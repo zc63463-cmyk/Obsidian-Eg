@@ -125,9 +125,9 @@ tumble 源自中古英语 tumblen，可能与 [[turn]]（转动）同源，暗�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Share prices continued to tumble today on the Tokyo stock market."（东京股市股价今天持续暴跌。）——考研高频表达
-> - "When the stock market tumbled beginning in 2000, what had been a large aggregate asset became a net liability."（当股市从2000年开始暴跌时，原本庞大的总资产变成了净负债。）——考研高频表达
-> - "Mortgage rates tumbled to their lowest level for 25 years."（抵押贷款利率跌至25年来的最低水平。）——考研高频表达
+> - I lost my footing and tumbled down the stairs . `[例]`
+> - At any moment the whole building could tumble down . `[例]`
+> - He lost his balance and tumbled over . `[例]`
 
 ---
 

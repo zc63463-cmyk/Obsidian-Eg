@@ -133,8 +133,8 @@ griev(=heavy/heavy-hearted, 沉重/悲伤，拉丁语 *gravis*) + -ance(名词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Workers filed a grievance against the company for unfair labor practices. `[例]`
-> - She has long harbored a grievance against her former employer. `[例]`
+> - A special committee has been appointed to handle prisoners ' grievances. `[例]`
+> - The small amount of compensation is a source of grievance to the people forced to leave their homes . `[例]`
 
 ## 复习记录
 

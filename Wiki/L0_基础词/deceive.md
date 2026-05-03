@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I have been deceived in you, and I have found that you were not what I thought you were."（我对你的看法错了，我发现你并不是我想象中的那样。——2003年考研英语阅读Text 2，大纲词汇经典例句）
-> - "In studies, he gave subjects a chance to deceive for monetary gain while examining their brains in a functional MRI machine."（在研究中，他给了受试者一个机会，让他们在功能性核磁共振成像仪中检查大脑的同时骗取金钱。——2019年12月六级阅读Section C）
+> - The company deceived customers by selling old computers as new ones . `[例]`
+> - The sound of the door closing deceived me into thinking they had gone out. `[例]`
+> - She thinks he'll come back, but she's deceiving herself. `[例]`
 
 
 ---

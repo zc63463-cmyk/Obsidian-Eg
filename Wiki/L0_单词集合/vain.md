@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All their efforts were in vain."（他们所有的努力都付诸东流了）——考研阅读常见句式
-> - "She was vain about her appearance."（她对自己的外貌很自负）——描述人物性格
-> - "a vain attempt to escape"（一次徒劳的逃跑尝试）——叙事类文本高频搭配
+> - The doctors gave him more powerful drugs in the vain hope that he might recover . `[例]`
+> - It was vain to pretend to himself that he was not disappointed . `[例]`
+> - I tried in vain to start a conversation . `[例]`
 
 ---
 

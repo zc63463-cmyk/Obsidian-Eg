@@ -126,8 +126,9 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The benefits of the new policy exceed the costs."（新政策的收益超过了成本。）
-> - "Demand has exceeded supply, leading to shortages."（需求已超过供给，导致短缺。）
+> - The final cost should not exceed $5,000. `[例]`
+> - The success of our campaign has exceeded our wildest expectations . `[例]`
+> - She was found guilty on three charges of exceeding the speed limit . `[例]`
 
 
 ---

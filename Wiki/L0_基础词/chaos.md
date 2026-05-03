@@ -125,8 +125,9 @@ chaos 源自希腊语 *khaos*（混沌、虚空），原指宇宙形成之前万
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Snow and ice have caused chaos on the roads."（冰雪造成道路交通秩序混乱——考研阅读高频表达）
-> - "It is impossible to establish democracy amid economic chaos."（经济秩序混乱不堪，是不可能建立民主的——考研政治类语料）
+> - Snow and ice have caused chaos on the roads . `[例]`
+> - We muddled up the name labels and chaos ensued (= resulted ) . `[例]`
+> - Repairs to the major highway this summer will bring chaos to commuters . `[例]`
 
 
 ---

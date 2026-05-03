@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "an unusual approach to the problem"（解决问题的不寻常方法）——考研阅读学术类文章
-> - "highly unusual"（极不寻常的）——考研阅读常见搭配，强调异常程度
-> - "unusual circumstances"（异常情况）——法律/社会类文章
+> - Do you like the new couch ?" "Yes, it's very unusual. `[例]`
+> - It 's unusual to have adult conversation like that with such a young child . `[例]`
+> - I was actually on time , which is unusual for me. `[例]`
 
 ---
 

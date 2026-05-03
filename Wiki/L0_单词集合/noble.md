@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**高贵的，崇高的**==；②==**贵族的**==；③==**宏伟的，壮丽的**==；
-**n.** ①==**贵族**==；
+**adj.** ①==**高贵的，崇高的**== `adj`；②==**贵族的**== `adj`；③==**宏伟的，壮丽的**== `adj`；
+**n.** ①==**贵族**== `N`；
 
 > [!tip] 原型义
 > **原型义**：出身高贵的（在社会等级中拥有最高地位的人或品质）
@@ -131,8 +131,9 @@ n-（gn- 在前缀位置的同化变体）+ -oble（来自拉丁语 *nobilis*，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He devoted his life to a noble cause — the fight against poverty and injustice."（他将自己的一生奉献给了一项崇高的事业——与贫困和不公正作斗争。）——考研高频表达
-> - "She was born into a noble family with a long tradition of public service."（她出生于一个有着悠久公共服务传统的贵族家庭。）——考研高频表达
+> - His followers believe they are fighting for a noble cause . `[例]`
+> - A building with a noble façade. `[例]`
+> - It was a noble effort to achieve a peaceful settlement to the conflict . `[例]`
 
 ---
 

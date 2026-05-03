@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Electronic wastes also contain many poisonous metals."（电子垃圾也含有许多有毒金属——考研英语阅读）
-> - "Even when the machines are recycled and the harmful metals removed, the recycling process often is carried out in poor countries, in practically uncontrolled ways which allow many poisonous substances to escape into the environment."（即使机器被回收、有害金属被去除，回收过程通常在穷国进行，几乎不受控制，使得许多有毒物质逸散到环境中——考研英语阅读）
+> - Can you tell the difference between poisonous mushrooms and edible varieties ? `[例]`
+> - He said some poisonous things to me. `[例]`
+> - Carbon monoxide is a colourless , odourless , poisonous gas . `[例]`
 
 
 ---

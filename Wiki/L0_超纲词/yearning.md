@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**渴望，向往，热切盼望**==（对已失去或无法触及之物的深层情感渴求）；②渴望之情，思念（强调持续时间长、情感深沉的内心状态）；
+**n.** ①==**渴望，向往，热切盼望**== `N`（对已失去或无法触及之物的深层情感渴求）；②==**渴望之情，思念（强调持续时间长、情感深沉的内心状态）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：内心深处对某物的强烈渴望（如同饥饿般无法抑制的内在驱动）
@@ -133,8 +133,8 @@ yearn（渴望，古英语 *gyrnan*，源自日耳曼语族，与古英语 *gear
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "There is a yearning for a simpler time, when life was less complicated."（人们渴望回到一个更简单的时代，那时生活没那么复杂。——常见于散文与评论语料）
-> - "The novel captures the universal yearning for belonging and identity."（这部小说捕捉了人类对归属感和身份认同的普遍渴望。——文学评论常见表达）
+> - I suppose it's because I live in a city that I have this yearning for open spaces . `[例]`
+> - A yearning for a quiet life. `[例]`
 
 ## 复习记录
 

@@ -119,8 +119,9 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance."（这种日益提高的教育水平可能是先进经济表现所需的复杂政治体系的必要而非充分条件——考研高频表达）
-> - "A few generative rules are then sufficient to unfold the entire fundamental structure of a language, which is why children can learn it so quickly."（少数几条生成规则就足以展开一种语言的整个基本结构，这就是为什么儿童能如此迅速地学会语言——考研高频表达）
+> - This recipe should be sufficient for five people . `[例]`
+> - It was thought that he'd committed the crime but there wasn't sufficient evidence to convict him. `[例]`
+> - Would you like some more stew ?" "No thanks , I've had sufficient. `[例]`
 
 
 ---

@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Thousands of spectators filled the stadium to watch the championship final, creating an electric atmosphere."（数千名观众涌入体育场观看冠军决赛，营造了热烈的气氛。——考研英语阅读体育类话题）
-> - "Rather than being a mere spectator of history, she actively participated in the social movements of her time."（她没有仅仅作为历史的旁观者，而是积极参与了她那个时代的社会运动。——考研英语阅读人物传记类话题，mere spectator 高频表达）
+> - They won 4–0 in front of over 40,000 cheering spectators. `[例]`
+> - The stadium was packed with cheering spectators. `[例]`
+> - A few incredulous spectators watched as Paterson, ranked 23rd in the world , beat the champion . `[例]`
 
 
 ---

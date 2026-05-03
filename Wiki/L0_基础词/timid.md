@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**胆小的，怯懦的**==；②==**羞怯的**==；
+**adj.** ①==**胆小的，怯懦的**== `adj`；②==**羞怯的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：容易受惊的，胆小的
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The timid student rarely raised her hand in class, not because she lacked knowledge, but because she feared being judged by her more outspoken classmates."（那个胆小的学生很少在课堂上举手，不是因为她缺乏知识，而是因为她害怕被那些更敢于发言的同学评判——考研阅读教育话题相关表达）
-> - "In many traditional cultures, women were expected to be timid and submissive, a social expectation that modern feminist movements have vigorously challenged and sought to overturn."（在许多传统文化中，女性被期望是胆小和顺从的，这种社会期望已被现代女权运动大力挑战并试图推翻——考研阅读社会话题相关表达）
+> - Kieran is a timid child . `[例]`
+> - My dog is a little timid - especially around other dogs . `[例]`
+> - She was timid about swimming in deep water . `[例]`
 
 
 ---

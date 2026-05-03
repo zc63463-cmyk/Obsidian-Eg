@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**占据，占领**==；②==**占用（时间、空间）**==；③==**使忙碌，使从事**==；④==**居住于**==；
+**vt.** ①==**占据，占领**== `V N`；②==**占用（时间、空间）**== `V N`；③==**使忙碌，使从事**== `V N`；④==**居住于**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：向前抓住并夺取（源自拉丁语 *occupare*，ob- "向前" + capere "抓住/夺取"）
@@ -141,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "be occupied with research"（忙于研究）——考研阅读中描述学者/科学家状态的常见表达
-> - "occupy a dominant position"（占据主导地位）——商业/社会类话题高频搭配
-> - "occupy a significant proportion of"（占据显著比例）——数据/统计类语料
-> - "the occupied territories"（被占领的领土）——国际政治/历史类阅读
+> - On long journeys I occupy myself with solving maths puzzles . `[例]`
+> - I drew some sketches in my notepad to occupy myself while I waited for Harold's train . `[例]`
+> - Nationalist forces now occupy more than 70% of the country . `[例]`
+> - The new plant will occupy a 185-acre site . `[例]`
 
 ---
 

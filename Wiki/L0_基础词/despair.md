@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people in the region live in despair due to extreme poverty."（该地区的许多人因极度贫困而生活在绝望中）
-> - "She despaired of ever finding a solution to the problem."（她对找到问题的解决方案感到绝望）
+> - To her teacher's despair, Nicole never does the work that she's told to do. `[例]`
+> - Their fourth year without rain drove many farmers to despair. `[例]`
+> - He's the despair of his parents because he shows no interest in getting a job . `[例]`
 
 
 ---

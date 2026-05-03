@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**可能性，概率**==；②可能发生的事；③或然率；
+**n.** ①==**可能性，概率**== `N`；②==**可能发生的事**== `N`；③==**或然率**== `N`；
 
 > [!tip] 原型义
 > **原型义**：可证明性（经得起检验/证明的品质，拉丁语 *probabilitas* = "可证明的/可信的"）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a high probability that the economy will recover next year."（明年经济复苏的可能性很大）
-> - "In all probability, the project will be completed ahead of schedule."（十有八九，这个项目会提前完成）
+> - The probability of getting all the answers correct is about one in ten. `[例]`
+> - Until yesterday , the project was just a possibility , but now it has become a real probability (= it is likely to happen ) . `[例]`
+> - There's a high probability (= it is very likely that) she'll be here. `[例]`
 
 
 ---

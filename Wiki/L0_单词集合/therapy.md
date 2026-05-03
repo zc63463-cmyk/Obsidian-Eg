@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has been in therapy for three months to deal with anxiety."（她接受心理治疗已三个月以应对焦虑）——健康/心理语境
-> - "Physical therapy can help patients recover from injuries more quickly."（物理治疗可以帮助患者更快地从伤病中恢复）——医学语境
-> - "Music therapy has been shown to reduce stress and improve mood."（研究表明音乐疗法可以减轻压力、改善情绪）——科学/健康语境
-> - "Gene therapy offers new hope for patients with rare diseases."（基因疗法为罕见病患者带来了新的希望）——医学前沿话题
+> - Joining a club can be a therapy for loneliness . `[例]`
+> - With physical therapy, you should eventually be able to walk again. `[例]`
+> - Have you had any therapy for your depression ? `[例]`
+> - The centre has developed a form of therapy for autistic children . `[例]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**闪烁，闪耀**==（星光、灯光等）；②（眼睛）闪亮，发光；
-**n.** ①闪烁，闪耀；②一丝，一闪（喜悦等）；
+**v.** ①==**闪烁，闪耀**== `V`（星光、灯光等）；②==**（眼睛）闪亮，发光**== `V`；
+**n.** ①==**闪烁，闪耀**== `N`；②==**一丝，一闪（喜悦等）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：快速眨眼（眼睛快速开合→星光闪烁）
@@ -126,7 +126,9 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her eyes twinkled with amusement as she listened to the story.（她听故事时，眼中闪烁着愉悦的光芒。）
+> - The lights of the town twinkled in the distance . `[例]`
+> - The stars twinkled in the clear sky . `[例]`
+> - He was holding the phone with a mischievous twinkle in his eye (= expression of amusement ) . `[例]`
 
 
 ---

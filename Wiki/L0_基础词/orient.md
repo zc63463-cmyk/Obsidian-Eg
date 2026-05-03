@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It takes time for freshmen to orient themselves to the new academic environment and campus life."（大一新生需要时间来适应新的学术环境和校园生活——考研阅读教育话题相关表达）
-> - "The company is oriented towards developing sustainable energy solutions to address climate change."（该公司致力于开发可持续能源解决方案以应对气候变化——考研阅读环保话题相关表达）
+> - After she came out of the station , she paused to orient herself. `[例]`
+> - Incoming freshmen have advisers to help orient them to the university . `[例]`
+> - Our students are oriented towards science subjects. `[例]`
 
 
 ---

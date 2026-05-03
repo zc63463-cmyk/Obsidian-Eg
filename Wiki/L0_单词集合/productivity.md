@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生产力，生产率**== ; ②生产效率 ;
+**n.** ①==**生产力，生产率**== `N` ; ②==**生产效率 ;**== `N`
 
 > [!tip] 原型义
 > **原型义**：生产力、生产率——衡量产出能力的指标
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A lack of formal education, however, doesn't constrain the ability of the developing world's workforce to substantially improve productivity for the foreseeable future."（然而，缺乏正规教育并不限制发展中世界劳动力在可预见的未来大幅提高生产率的能力——2009年考研Text 3）
-> - "Moreover, most of the changes that companies make are intended to keep them profitable, and this need not always mean increasing productivity."（此外，公司所做的大多数改变都是为了保持盈利能力，而这并不总是意味着提高生产率——考研高频表达）
+> - Studies show that if a working environment is pleasant , productivity increases . `[例]`
+> - Productivity in the steel industry improved by five percent last year . `[例]`
+> - A pleasant working environment increases productivity. `[例]`
 
 
 ---

@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "High staff turnover is a sign of poor management and low employee satisfaction."（高员工流动率是管理不善和员工满意度低的标志。）——考研高频表达
-> - "The company has an annual turnover of approximately $50 million."（该公司的年营业额约为5000万美元。）——考研高频表达
+> - Large supermarkets have high turnovers (= their goods sell very quickly ) . `[例]`
+> - The business has an annual turnover of £50,000. `[例]`
+> - The large number of temporary contracts resulted in a high turnover of staff . `[例]`
 
 ---
 

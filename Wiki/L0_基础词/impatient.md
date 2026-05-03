@@ -128,8 +128,9 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is a good teacher, but inclined to be a bit impatient with slow learners."（他是一位好老师，但对学习慢的学生有些不耐烦。——考研翻译常见结构）
-> - "She is impatient to know her exam results."（她急切地想知道自己的考试成绩。——考研写作常用表达）
+> - He's a good teacher , but inclined to be a bit impatient with slow learners . `[例]`
+> - You'd be hopeless taking care of children - you're far too impatient! `[例]`
+> - He's got a lot of exciting ideas and he's impatient to get started . `[例]`
 
 
 ---

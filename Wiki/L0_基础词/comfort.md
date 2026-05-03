@@ -127,8 +127,9 @@ com-(一起，词根 [[com]]) + fort(强壮，力量，来自拉丁语 *fortis*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people prefer to stay within their comfort zone rather than take risks."（许多人宁愿待在舒适区也不愿冒险——考研阅读高频表达）
-> - "She took comfort in the fact that her children were safe."（孩子们安全这一事实给了她安慰——考研翻译常见话题）
+> - She evidently dresses for comfort. `[例]`
+> - It's a little too hot for comfort. `[例]`
+> - Now you can watch the latest films in the comfort of your own room . `[例]`
 
 
 ---

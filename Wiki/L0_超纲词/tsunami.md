@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**海啸**==（由海底地震、火山爆发等引发的破坏性巨浪）；②（引申）汹涌而来的事物（如情绪、移民潮等）；
+**n.** ①==**海啸**== `N`（由海底地震、火山爆发等引发的破坏性巨浪）；②==**（引申）汹涌而来的事物（如情绪、移民潮等）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：港湾中的巨浪（日语"津波"，指港口涌来的巨浪）
@@ -134,8 +134,8 @@ tsu（日语"津"，意为港口/harbor）+ nami（日语"波"，意为波浪/wa
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The 2004 Indian Ocean tsunami, triggered by one of the most powerful earthquakes ever recorded, killed more than 200,000 people across 14 countries."（2004年印度洋海啸由有记录以来最强烈的地震之一引发，造成14个国家超过20万人死亡——新闻/阅读高频话题）
-> - "A tsunami of data is being generated every day, challenging our ability to process and make sense of it."（每天都会产生海量的数据，挑战着我们处理和理解数据的能力——科技类阅读常见表达）
+> - In 2004 an earthquake triggered a tsunami that destroyed entire communities in Indonesia and other countries around the Indian Ocean. `[例]`
+> - There is a tsunami of data available to medical research right now. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**强调，突出**==；②在……下面画线；
-**n.** ①==**下划线**==；
+**v.** ①==**强调，突出**== `V`；②==**在……下面画线**== `V`；
+**n.** ①==**下划线**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在下面画线（强调重点）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The recent scandal underscores the need for greater transparency."（最近的丑闻强调了提高透明度的必要性。）
-> - "These statistics underscore the severity of the problem."（这些统计数据突出了问题的严重性。）
+> - The need for fire detectors in cargo bays was underscored by some accidents in the 1980s. `[例]`
+> - The word ‘not’ was heavily underscored. `[例]`
 
 ## 复习记录
 

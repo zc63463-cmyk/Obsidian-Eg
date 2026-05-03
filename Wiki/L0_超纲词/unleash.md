@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**释放，发泄**==；② unleash（力量、情感等）；③解除束缚；
+**v.** ①==**释放，发泄**== `V N`；②==**unleash（力量、情感等）**== `V N`；③==**解除束缚**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：解开皮带（松开束缚）
@@ -124,8 +124,8 @@ un-(解开/否定前缀) + [[leash]](皮带/牵引绳)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The new technology unleashed a revolution in the industry."（新技术在行业内引发了一场革命。）
-> - "She struggled to unleash her full creative potential."（她努力释放自己全部的创造潜能。）
+> - At worst , nuclear war could be unleashed. `[例]`
+> - Rachel's arrival on the scene had unleashed passions in him that he could scarcely control . `[例]`
 
 ## 复习记录
 

@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She flushed with embarrassment when her name was called."（当她的名字被叫到时，她尴尬地脸红了——考研文学类阅读）
-> - "The door should be flush with the wall."（门应该与墙壁齐平——考研技术类阅读）
+> - She flushed with pleasure as she accepted the prize . `[例]`
+> - The champagne had caused his face to flush. `[例]`
+> - My children never flush the toilet after themselves. `[例]`
 
 
 ---

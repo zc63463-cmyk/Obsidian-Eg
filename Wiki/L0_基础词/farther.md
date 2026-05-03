@@ -134,8 +134,9 @@ far(远) + -ther(比较级后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The farther we go, the more beautiful the scenery becomes."（我们走得越远，风景就越美。——考研阅读常见表达，the+比较级结构）
-> - "Both of my sisters moved even farther away from home."（我的两个姐姐都搬得离家更远了。——考研叙事类阅读常见表达）
+> - How much farther is it to the airport ? `[例]`
+> - The fog's so thick , I can't see farther than about ten metres . `[例]`
+> - It was farther to the shop than I expected . `[例]`
 
 
 ---

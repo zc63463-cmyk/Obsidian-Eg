@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The minister issued a statement denying the allegations of corruption."（部长发表声明，否认腐败指控。）——考研高频表达
-> - "His statement was contradicted by several witnesses."（他的陈述被几位证人所反驳。）——考研高频表达
+> - Which of the following statements best represents Lownie's view? `[真题]`
+> - The government is expected to issue a statement about the investigation to the press . `[例]`
+> - He produced a signed statement from the prisoner . `[例]`
 
 ---
 

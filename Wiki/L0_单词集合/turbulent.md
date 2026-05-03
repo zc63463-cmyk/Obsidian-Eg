@@ -126,8 +126,9 @@ turb-(搅动、混乱) + -ul(连接后缀) + -ent(形容词后缀，表示"…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But particularly when viewed against America's turbulent past, the nation's progress in racial equality is remarkable."（但是，特别是与美国动荡的过去相比，该国在种族平等方面的进步是显著的。）——2006考研英语一阅读
-> - "The turbulence this summer is one of those periodic episodes which force the mysterious brotherhood of central bankers out of the shadows."（今年夏天的动荡是迫使神秘的央行行长们从幕后走出来的周期性事件之一。）——考研真题阅读
+> - This has been a turbulent week for the administration . `[例]`
+> - The ocean was too turbulent for us to be able to take the boat out. `[例]`
+> - His book discusses the turbulent years of the civil rights struggle . `[例]`
 
 ---
 

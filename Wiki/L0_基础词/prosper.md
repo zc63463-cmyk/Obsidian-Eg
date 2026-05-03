@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**繁荣，兴旺**==；②成功，发达；
+**v.** ①==**繁荣，兴旺**== `V`；②==**成功，发达**== `V`；
 
 > [!tip] 原型义
 > **原型义**：在前方有希望（源自拉丁语 *prosperare*，pro-在前 + sper-希望）
@@ -123,8 +123,9 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economy prospered under the new policy."（新政策下经济繁荣发展。）
-> - "Small businesses are prospering in the digital age."（小企业在数字时代蓬勃发展。）
+> - Lots of microchip manufacturing companies prospered at that time . `[例]`
+> - As the company prospered, we prospered. `[例]`
+> - We aim to create a climate in which all small businesses can prosper. `[例]`
 
 
 ---

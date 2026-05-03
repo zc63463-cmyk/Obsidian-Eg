@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**滴答声**==；②（核对表上的）记号，勾号；③==** ticks** 蜱虫；
-**v.** ①（钟表）滴答作响；②==**打勾，标以记号**==；③==** tick away/by**（时间）流逝；
+**n.** ①==**滴答声**== `N`；②==**（核对表上的）记号，勾号**== `N`；③==**蜱虫**== `N`；
+**v.** ①==**（钟表）滴答作响**== `V`；②==**打勾，标以记号**== `V`；③==**（时间）流逝（tick away/by）**== `V adv`；
 
 > [!tip] 原型义
 > **原型义**：钟表的滴答声（时间流逝的声音标记）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The clock ticked away the time."（时钟滴答滴答地响着，时间在一点一点过去——考研高频表达）
-> - "He ticked off the items one by one."（他把这些项目逐一标出——柯林斯词典例句）
+> - It's tempting to buy all of this stuff on tick. `[例]`
+> - The ticking of the clock kept her awake . `[例]`
+> - That clock ticks too loudly . `[例]`
 
 
 ---

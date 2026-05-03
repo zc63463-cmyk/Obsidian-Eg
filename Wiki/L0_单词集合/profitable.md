@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有利可图的，盈利的**== ; ②有益的，有收益的 ;
+**adj.** ①==**有利可图的，盈利的**== `adj` ; ②==**有益的，有收益的 ;**== `adj`
 
 > [!tip] 原型义
 > **原型义**：能带来好处的（capable of bringing benefit）
@@ -127,8 +127,9 @@ pro-(向前) + [[fer|fer→带来]](带来) + -it(名词后缀) + -able(可被�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Moreover, most of the changes that companies make are intended to keep them profitable, and this need not always mean increasing productivity."（此外，公司所做的大多数改变都是为了保持盈利能力，而这并不总是意味着提高生产率——考研高频表达）
-> - "Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits."（事实证明，将孩子或成人分成更小的类别一定能提高利润——2012年考研二阅读）
+> - Over the years it has developed into a highly profitable business . `[例]`
+> - The company had to eliminate 200 jobs to stay profitable. `[例]`
+> - I made profitable use of my time , mixing with a lot of different people and practising my Spanish . `[例]`
 
 
 ---

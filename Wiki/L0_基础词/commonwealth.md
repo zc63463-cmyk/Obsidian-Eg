@@ -117,8 +117,9 @@ common(共同的) + wealth(财富/福祉)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Australia is a member of the Commonwealth of Nations."（澳大利亚是英联邦成员国。）
-> - "The concept of commonwealth dates back to the idea of the common good."（共同体的概念可追溯到公共利益的理念。）
+> - Thomas Hobbes claimed that in a state of nature , people constantly fight against each other, and that the only way to overcome this is to form a commonwealth. `[例]`
+> - The Commonwealth of Independent States (CIS)was formed following the dissolution of the Soviet Union in 1991. `[例]`
+> - The Commonwealth of Nations , usually referred to simply as the Commonwealth, is an international association of 56 member states , many of them former territories of the British Empire. `[例]`
 
 
 ---

@@ -121,8 +121,9 @@ culmin(山顶，顶点) + -ate(使...)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Weeks of negotiation culminated in a historic agreement between the two nations."（数周的谈判最终促成了两国之间的一项历史性协议。）——考研高频表达
-> - "The festival culminates with a grand fireworks display on the final night."（音乐节在最后一晚以一场盛大的烟花表演达到高潮。）——考研高频表达
+> - My arguments with the boss got worse and worse , and finally culminated in my resignation . `[例]`
+> - Their many years of research have finally culminated in a cure for the disease . `[例]`
+> - Secret negotiations culminated in the historic peace accord . `[例]`
 
 ---
 

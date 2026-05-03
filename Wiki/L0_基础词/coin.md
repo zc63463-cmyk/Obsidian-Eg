@@ -130,8 +130,9 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The term 'globalization' was first coined in the 1960s to describe the growing interconnectedness of the world economy."（"全球化"一词最早创造于20世纪60年代，用来描述世界经济日益增长的相互联系——考研阅读经济话题）
-> - "The two problems are two sides of the same coin — improving education requires both better funding and better teaching methods."（这两个问题是同一枚硬币的两面——改善教育既需要更好的资金投入，也需要更好的教学方法——考研阅读教育话题）
+> - I asked for £10 in 20p coins. `[例]`
+> - That machine doesn't take 50 pence coins. `[例]`
+> - Allen Ginsberg coined the term " flower power ". `[例]`
 
 
 ---

@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The region is blessed with abundant natural resources, including vast reserves of oil, natural gas, and mineral deposits."（该地区拥有丰富的自然资源，包括大量的石油、天然气和矿产储量——考研阅读资源话题相关表达）
-> - "There is abundant evidence to suggest that regular physical exercise can significantly reduce the risk of chronic diseases such as diabetes and heart disease."（有大量证据表明，定期体育锻炼可以显著降低患糖尿病和心脏病等慢性疾病的风险——考研翻译健康话题相关表达）
+> - There is abundant evidence that cars have a harmful effect on the environment . `[例]`
+> - Cheap consumer goods are abundant (= exist in large amounts ) in this part of the world . `[例]`
+> - It is a region with abundant natural resources . `[例]`
 
 
 ---

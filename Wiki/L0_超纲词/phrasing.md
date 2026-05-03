@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**措辞，表达方式**==；②（音乐中的）乐句划分；
+**n.** ①==**措辞，表达方式**== `N`；②==**（音乐中的）乐句划分**== `N`；
 
 > [!tip] 原型义
 > **原型义**：词语的表达方式
@@ -123,8 +123,8 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The diplomat's careful phrasing helped avoid a diplomatic crisis.（外交官谨慎的措辞帮助避免了一场外交危机）
-> - The awkward phrasing of the contract clause led to a legal dispute.（合同条款的措辞不当导致了法律纠纷）
+> - The phrasing of the contract is ambiguous . `[例]`
+> - Her phrasing, as ever , is faultless . `[例]`
 
 ## 复习记录
 

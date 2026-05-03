@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**智库，智囊团**==；②（由专家组成的）研究机构；
+**n.** ①==**智库，智囊团**== `N`；②==**（由专家组成的）研究机构**== `N`；
 
 > [!tip] 原型义
 > **原型义**：智库（从事政策研究的专家机构）
@@ -120,8 +120,8 @@ think（思考）+ tank（容器/坦克）→ think-tank（思考的容器→智
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The report was published by a leading policy think-tank."（这份报告由一家领先的政策智库发布）
-> - "Think-tanks play an increasingly important role in shaping public policy."（智库在塑造公共政策方面发挥着越来越重要的作用）
+> - Investor confidence in Japan dropped to its lowest level in 16 months , according to a leading economic think tank . `[例]`
+> - A study published by a leading economic think tank. `[例]`
 
 ## 复习记录
 

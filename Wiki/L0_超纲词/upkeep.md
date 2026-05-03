@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保养，维修**==；②保养费，维护费；
+**n.** ①==**保养，维修**== `N`；②==**保养费，维护费**== `N`；
 
 > [!tip] 原型义
 > **原型义**：保持向上的状态（up-向上/保持 + keep保持 → 保持向上的状态→维护）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The cost of upkeep for the historic building has become a significant burden on the local government.（这座历史建筑的保养费用已成为当地政府的沉重负担。）
-> - Many homeowners underestimate the upkeep required to maintain a large garden.（许多房主低估了维护一个大花园所需的保养工作。）
+> - The upkeep of larger old properties is very expensive . `[例]`
+> - Council employees are responsible for the upkeep of the gardens . `[例]`
 
 ## 复习记录
 

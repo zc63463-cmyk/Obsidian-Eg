@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**成功地**==；②顺利地；
+**adv.** ①==**成功地**== `adv`；②==**顺利地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：成功地（走到前面，达到目标）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The scientists successfully cloned the endangered species.（科学家们成功地克隆了这种濒危物种。）
-> - She successfully defended her doctoral thesis last month.（她上个月成功通过了博士论文答辩。）
+> - A number of patients have been successfully treated with the new drug . `[例]`
+> - What the book does convey very successfully is the horror of war . `[例]`
 
 ## 复习记录
 

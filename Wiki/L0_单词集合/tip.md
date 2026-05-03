@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the tip of the iceberg"（冰山一角）——考研阅读高频比喻，常用于描述问题的严重性远超表面
-> - "tip the balance"（打破平衡）——考研阅读/写作中描述关键因素
-> - "on the tip of my tongue"（就在嘴边）——日常口语/阅读中常见表达
+> - The table tipped, and all our drinks fell on the floor . `[例]`
+> - If you put too many books on one end of the shelf , it'll tip up. `[例]`
+> - The baby tipped the scales at 3.75 kg. `[例]`
 
 ---
 

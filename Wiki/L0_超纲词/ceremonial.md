@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The president was welcomed with full ceremonial honors. `[例]`
-> - The exchange of gifts is a ceremonial gesture of goodwill between nations. `[例]`
+> - A Marine honour guard flanks the president during ceremonial events at the White House . `[例]`
+> - The men were dressed in ceremonial black robes . `[例]`
 
 ## 复习记录
 

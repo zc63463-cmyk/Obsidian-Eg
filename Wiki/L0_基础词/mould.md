@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Parents play a crucial role in moulding their children's character and values."（父母在塑造孩子的性格和价值观方面起着至关重要的作用。）
-> - "The company needs to break the mould and adopt a more innovative approach."（公司需要打破常规，采取更具创新性的方法。）
+> - Problems with mould inside the home are more prevalent today than a generation ago. `[例]`
+> - Moulds reproduce by means of tiny spores that are invisible to the naked eye . `[例]`
+> - Moulds can grow on stored food for animals and humans , making the food unpalatable or toxic . `[例]`
 
 
 ---

@@ -128,8 +128,9 @@ suc-(=sub-, 在下面/在后面) + cess(走，拉丁语 *cessus*，*cedere* 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The reaction to his death, with people leaving candles and flowers outside Apple stores, is proof that Mr Jobs had become something much more significant than just a clever money-maker."（人们对他的死反应强烈，在苹果店外留下蜡烛和鲜花，这证明了乔布斯已经远不止是一个聪明的赚钱者——2012年12月六级阅读）
-> - "This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance."（这种日益提高的教育水平可能是先进经济表现所需的复杂政治体系的必要而非充分条件——考研高频表达）
+> - The success of almost any project depends largely on its manager . `[例]`
+> - I've been trying to persuade her to take on more people , but so far without success. `[例]`
+> - I'm not having much success in communicating with him at the moment . `[例]`
 
 
 ---

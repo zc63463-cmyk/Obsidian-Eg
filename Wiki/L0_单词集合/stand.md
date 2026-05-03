@@ -147,8 +147,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Since industrialization, maintaining such a slow cultural metabolism has been much harder, with the long midday meal shrinking to whatever could be stuffed into a lunch bucket or bought at a food stand."（自工业化以来，维持如此缓慢的文化新陈代谢变得更加困难，漫长的午餐缩减为随便塞进午餐桶或从食品摊买来的东西。）——考研高频表达
-> - "The offer still stands—if you change your mind, let me know."（这个提议仍然有效——如果你改变主意，请告诉我。）——考研高频表达
+> - Both of these books are published next week by Penguin R.andom House ( PRH) , a company currently involved in a stand-off with Waterstones. `[真题]`
+> - Granny says if she stands for a long time her ankles hurt . `[例]`
+> - As a sign of politeness , you should stand (up) when she comes in. `[例]`
 ---
 
 

@@ -126,8 +126,9 @@ en-(使) + dur(持续，持久，源自拉丁语 *durus*，"坚硬的、持久�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old symbols, however, still endure."（然而，旧符号依然持久——考研高频表达）
-> - "Eggs serve as an enduring symbol of new life."（鸡蛋作为新生命的持久象征——考研高频表达）
+> - We had to endure a nine-hour delay at the airport . `[例]`
+> - She's already had to endure three painful operations on her leg . `[例]`
+> - The political system established in 1400 endured until about 1650. `[例]`
 
 
 ---

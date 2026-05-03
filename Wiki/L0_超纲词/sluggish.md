@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**缓慢的，迟钝的**==；②（经济/商业）不景气的，低迷的；③（身体）懒散的，无精打采的；
+**adj.** ①==**缓慢的，迟钝的**== `adj`；②==**（经济/商业）不景气的，低迷的**== `adj`；③==**（身体）懒散的，无精打采的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：像蛞蝓（slug）一样缓慢移动的（蛞蝓是一种行动极慢的软体动物）
@@ -128,7 +128,8 @@ slug(蛞蝓，行动缓慢的软体动物) + -gish(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The economy showed sluggish growth in the third quarter."（经济在第三季度显示出缓慢的增长。）
+> - A heavy lunch makes me sluggish in the afternoon . `[例]`
+> - Something is wrong with the car - the engine feels sluggish. `[例]`
 
 ## 复习记录
 

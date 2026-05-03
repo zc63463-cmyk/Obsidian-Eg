@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**盈利的，以营利为目的的**==；
-**n.** ②==**盈利活动**==；
+**adj.** ①==**盈利的，以营利为目的的**== `adj`；
+**n.** ②==**盈利活动**== `N`；
 
 > [!tip] 原型义
 > **原型义**：创造利润的（产生经济利益的）
@@ -128,7 +128,8 @@ profit（利润/利益）+ making（制造/产生）= 制造利润的→盈利�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The line between profit-making and public service has become increasingly blurred in the healthcare sector."（在医疗保健领域，营利与公共服务之间的界限变得越来越模糊。）
+> - She does not see why a profit-making business cannot also be ethical . `[例]`
+> - I believe that public transport should be run as a service, not as a profit-making enterprise. `[例]`
 
 ## 复习记录
 

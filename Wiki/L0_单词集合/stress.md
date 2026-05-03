@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hugging protects people who are under stress from the increased risk for colds that's usually associated with stress."（拥抱可以保护有压力的人免受通常与压力相关的感冒风险增加的影响。）——考研阅读真题
-> - "The report stresses the importance of early childhood education."（报告强调了幼儿教育的重要性。）——考研高频表达
+> - In Paragraph 1, the weather in Texas is mentioned to ___ A. forecast a policy shift in Texas schools B. stress the consequences of climate change C .. indjcate the atmosphere at the board meeting D. draw the public's attention to energy shortages · 22. `[真题]`
+> - People under a lot of stress may experience headaches , minor pains , and sleeping difficulties . `[例]`
+> - Yoga is a very effective technique for combating stress. `[例]`
 
 ---
 

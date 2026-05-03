@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Federal research grants rose fourfold between 1960 and 1990, but faculty teaching hours fell by half as research took its toll."（1960年至1990年间，联邦研究补助金增加了四倍，但由于研究付出了代价，教师的教学时间减少了一半。）——考研真题
-> - "The death toll from the earthquake continues to rise."（地震造成的死亡人数持续上升。）——考研高频表达
+> - Tolls are now collected electronically on most motorways . `[例]`
+> - Is Bayonne a toll call (= a more expensive phone call ) from New York? `[例]`
+> - Independent sources say that the death toll from the earthquake runs into thousands. `[例]`
 
 ---
 

@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change poses a serious threat to biodiversity."（气候变化对生物多样性构成严重威胁）——考研阅读常见话题
-> - "under the threat of losing their jobs"（在失业的威胁下）——社会经济类阅读语境
-> - "an empty threat"（空口威胁）——日常/文学类文本
+> - Her parents carried out their threat to take away her mobile phone if her grades didn't improve . `[例]`
+> - The threat of jail failed to deter him from petty crime . `[例]`
+> - Drunken drivers pose a serious threat (= cause a lot of harm ) to other road users . `[例]`
 
 ---
 

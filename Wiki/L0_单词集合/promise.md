@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**承诺，保证**== ; ②有……的希望，预示 ;
-**n.** ①==**承诺，诺言**== ; ②希望，前途 ;
+**v.** ①==**承诺，保证**== `V` ; ②==**有……的希望，预示 ;**== `V`
+**n.** ①==**承诺，诺言**== `N` ; ②==**希望，前途 ;**== `N`
 
 > [!tip] 原型义
 > **原型义**：向前发送（to send forth / to put forth）
@@ -134,8 +134,9 @@ pro-(向前) + mise(发送，来自mittere的变体) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If connections can be bought, a basic premise of democratic society—that all are equal in treatment by government—is undermined."（如果能买到人脉，那民主社会的一个基本前提——政府平等对待所有人——就被破坏了——考研高频表达）
-> - "The new technology holds great promise for improving educational outcomes."（这项新技术在改善教育成果方面具有巨大潜力——考研高频表达）
+> - He promised faithfully to call me every week . `[例]`
+> - The government have promised that they'll reduce taxes . `[例]`
+> - I'll look for some while I'm at the shops but I'm not promising anything. `[例]`
 
 
 ---

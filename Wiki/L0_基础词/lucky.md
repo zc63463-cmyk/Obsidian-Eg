@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I was lucky enough to get a ticket for the concert."（我运气好，弄到了音乐会的票）
-> - "We were lucky to escape with only minor injuries."（我们侥幸只受了轻伤）
+> - I'm going to Japan." "Lucky you! `[例]`
+> - The lucky winner will be able to choose from three different holidays . `[例]`
+> - They're lucky to have such a nice office to work in. `[例]`
 
 
 ---

@@ -131,9 +131,9 @@ stage 源自拉丁语 *stare*（站立）的过去分词 *status*，经由古法
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At this stage of the research, it is too early to draw any firm conclusions."（在研究的这一阶段，得出任何确定的结论都为时过早。）——考研高频表达
-> - "The discovery of DNA structure set the stage for modern genetics."（DNA结构的发现为现代遗传学奠定了基础。）——考研高频表达
-> - "The city staged an international exhibition to promote cultural exchange."（该市举办了一场国际展览以促进文化交流。）——考研高频表达
+> - The project is in its final stages and should be completed by August . `[例]`
+> - They did the last stage of their journey on foot . `[例]`
+> - Our marriage is going through a difficult stage at the moment . `[例]`
 
 ---
 

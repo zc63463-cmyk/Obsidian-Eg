@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**促进者，推动者**==；②==**（体育/娱乐活动的）主办人，推广人**==；③==**（基因）启动子**==（生物学）；
+**n.** ①==**促进者，推动者**== `N`；②==**（体育/娱乐活动的）主办人，推广人**== `N`；③==**（基因）启动子**== `N`（生物学）；
 
 > [!tip] 原型义
 > **原型义**：推动向前的人（促进某事向前发展）
@@ -129,7 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She has been a tireless promoter of environmental conservation for over three decades."（三十多年来，她一直是环境保护的不知疲倦的推动者。）
+> - The country is now a leading promoter of regional trade . `[例]`
+> - He was a promoter of education and the arts . `[例]`
 
 ## 复习记录
 

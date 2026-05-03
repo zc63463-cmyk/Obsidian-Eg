@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人疲劳的**==；②==**令人厌烦的，烦人的**==；
+**adj.** ①==**令人疲劳的**== `adj`；②==**令人厌烦的，烦人的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：令人疲劳的（使人精力耗尽的）
@@ -126,8 +126,9 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tiresome bureaucracy made it nearly impossible to get anything done."（令人厌烦的官僚体制使得几乎什么事都做不成。——考研政治类阅读语料）
-> - "It was a tiresome journey, but we finally arrived at our destination."（那是一趟令人疲惫的旅程，但我们终于到达了目的地。——通用例句）
+> - I find it very tiresome doing the same job day after day . `[例]`
+> - He has the tiresome habit of finishing your sentences for you. `[例]`
+> - It’s getting a little tiresome, listening to you complain . `[例]`
 
 
 ---

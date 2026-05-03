@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is unlikely that the problem will be resolved soon."（问题不太可能很快解决）——考研阅读常见句型
-> - "be unlikely to succeed"（不太可能成功）——议论文中分析可能性
-> - "in the unlikely event of a fire"（万一发生火灾）——说明文/规章制度
+> - It 's pretty unlikely (that) they'll turn up now - it's nearly ten o'clock. `[例]`
+> - He's an unlikely-looking doctor (= he is not what I expect a doctor to look like) . `[例]`
+> - The film's central character is an unlikely hero . `[例]`
 
 ---
 

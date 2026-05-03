@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工作场所，工作地点**==；②（泛指）职场；
+**n.** ①==**工作场所，工作地点**== `N`；②==**（泛指）职场**== `N`；
 
 > [!tip] 原型义
 > **原型义**：工作的场所（work 工作 + place 地方 → 工作的地方 → 工作场所）
@@ -127,8 +127,8 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Workplace diversity has been shown to enhance creativity and improve decision-making."（研究表明，职场多样性能够增强创造力并改善决策质量）
-> - "The government has introduced stricter regulations to ensure workplace safety."（政府出台了更严格的法规以确保工作场所安全）
+> - The survey asks workers about facilities in their workplace. `[例]`
+> - There can be no doubt that health and safety standards in the workplace have increased significantly since the introduction of the law . `[例]`
 
 ## 复习记录
 

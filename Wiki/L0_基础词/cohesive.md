@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Social cohesion is essential for a nation's stability and prosperity, as it binds diverse groups into a unified community."（社会凝聚力对国家的稳定和繁荣至关重要，因为它将不同群体团结成一个统一的共同体——考研阅读社会话题）
-> - "A cohesive team is more likely to achieve its goals than a group of talented but disconnected individuals."（一个有凝聚力的团队比一群才华横溢但各自为政的个体更有可能实现目标——考研阅读管理话题）
+> - The cohesive power of shared suffering. `[例]`
+> - Well-structured sentences illustrating the use of cohesive markers such as ‘nevertheless’ and ‘however. `[例]`
+> - Their tribe is a small but cohesive group. `[例]`
 
 
 ---

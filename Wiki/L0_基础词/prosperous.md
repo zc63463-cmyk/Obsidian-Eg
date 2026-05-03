@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**繁荣的，兴旺的**==；②成功的，富裕的；
+**adj.** ①==**繁荣的，兴旺的**== `adj`；②==**成功的，富裕的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：前方充满希望的（[[prosper]] + -ous）
@@ -124,8 +124,9 @@ pro-(向前/在前) + [[sper|sper]](希望) + -ous(充满...的，形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "China has become one of the most prosperous economies in the world."（中国已成为世界上最繁荣的经济体之一。）
-> - "The region is enjoying a prosperous period of growth."（该地区正享受一段繁荣的增长期。）
+> - In a prosperous country like this, no one should go hungry . `[例]`
+> - The area is becoming more and more prosperous. `[例]`
+> - Farmers are more prosperous in the south of the country. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**比例，占比**==；②==**部分，份额**==；③均衡，协调；④规模，程度；
+**n.** ①==**比例，占比**== `N`；②==**部分，份额**== `N`；③==**均衡，协调**== `N`；④==**规模，程度**== `N`；
 **v.** 使成比例；使均衡；分摊；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In Japan the proportion is 35%. Not surprisingly, Japanese newspapers are much more stable."（在日本，这一比例是35%。毫不奇怪，日本报纸要稳定得多。——考研英语二2011年Text 2）
-> - "In fact, other recent studies have found there has never been a time in American history when so small a proportion of young people have sought or accepted leadership roles in local civic organizations."（事实上，最近的其他研究发现，美国历史上从未有过如此小比例的年轻人寻求或接受当地民间组织的领导角色。——2016年6月六级阅读原文）
+> - Children make up a large proportion of the world's population . `[例]`
+> - A higher proportion of men are willing to share household responsibilities than used to be the case . `[例]`
+> - The report shows that poor families spend a larger proportion of their income on food . `[例]`
 
 
 ---

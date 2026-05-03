@@ -137,10 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "urbanization"（城市化）——考研阅读/翻译高频词，常出现在社会、经济、环境类文章
-> - "urban planning"（城市规划）——考研阅读常见搭配
-> - "urban and rural areas"（城乡地区）——考研中 urban/rural 对比的常见语境
-> - "urban sprawl"（城市蔓延）——考研环境/社会类阅读
+> - Many Americans were leaving the farm for the promise of urban life . `[例]`
+> - Over 82% of Texans live in urban areas . `[例]`
+> - The high-speed train link is responsible for one of the biggest urban regeneration projects in the area . `[例]`
+> - The council is committed to a programme of urban regeneration . `[例]`
 
 ---
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**极简主义的，极简的**== `adj N` [设计/通用]；
-**n.** ①极简主义者 `a N` [通用]；
+**adj.** ①==**极简主义的，极简的**== `adj`；
+**n.** ①==**极简主义者**== `N`；
 
 > [!tip] 原型义
 > **原型义**：追求极简的人或风格
@@ -127,8 +127,8 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀) + -ist(人/主义)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The minimalist approach to design focuses on stripping away all unnecessary elements. [C]
-> - `[例]` She adopted a minimalist lifestyle, keeping only the possessions that truly brought her joy. [C]
+> - The set for the ballet is minimalist - white walls and a chair . `[例]`
+> - The party's minimalist approach to economic policy. `[例]`
 
 ## 复习记录
 

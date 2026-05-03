@@ -125,8 +125,9 @@ flock（源自古英语 *floc*，与 flake 同源，原始意义为"一团/一�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Tourists flock to the coastal city during summer vacation."（暑假期间游客蜂拥至这座海滨城市——考研旅游类阅读）
-> - "Birds of a feather flock together."（物以类聚，人以群分——谚语，考研翻译可能涉及）
+> - The shepherd is bringing his flock down from the hills . `[例]`
+> - A noisy flock of tourists came into the building . `[例]`
+> - The priest invited all the members of his flock (= all the people who go to his church ) to attend the special service . `[例]`
 
 
 ---

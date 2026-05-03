@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**南瓜**==；②（美式非正式，对亲密的人的称呼）宝贝，小南瓜；
+**n.** ①==**南瓜**== `N`；②==**（美式非正式，对亲密的人的称呼）宝贝，小南瓜**== `N`；
 
 > [!tip] 原型义
 > **原型义**：南瓜（一种大型圆形橙色的瓜类蔬菜）
@@ -122,8 +122,8 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Families visit pumpkin patches every autumn to choose the perfect pumpkin for Halloween.（每年秋天，家庭都会去南瓜地挑选万圣节最完美的南瓜。）
-> - Pumpkin pie is a traditional dessert at Thanksgiving dinner in the United States.（南瓜派是美国感恩节晚餐的传统甜点。）
+> - Pumpkin pie is a traditional American dish served on Thanksgiving. `[例]`
+> - Larger plates might include venison wrapped in chicken mousse (a nod to the Japanese sando), or pumpkin steeped in bacon dashi. `[例]`
 
 ## 复习记录
 

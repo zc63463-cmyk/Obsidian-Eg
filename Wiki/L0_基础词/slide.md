@@ -147,8 +147,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the early months of the economic crisis, the conventional view was that the world would slide into a synchronised downturn."（在经济危机爆发后的最初几个月，人们普遍认为，世界将同步滑入衰落。——常见英语语料）
-> - "My son came in the front door and decided to slide across the floor in his socks."（我儿子从前门进来，穿着袜子在上面打滑。——常见英语语料）
+> - When I was little I used to like sliding on the polished floor in my socks . `[例]`
+> - We have one of those doors in the kitchen that slides open . `[例]`
+> - There is a dining room with sliding glass doors that lead onto a balcony . `[例]`
 
 
 ---

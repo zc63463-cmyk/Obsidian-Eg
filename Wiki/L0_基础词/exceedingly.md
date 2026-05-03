@@ -120,8 +120,9 @@ ex-(出，超出) + [[ced-cess|ceed]](走) + -ing(现在分词) + -ly(副词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The task proved exceedingly difficult."（这项任务被证明极其困难。）
-> - "She was exceedingly generous with her time and resources."（她在时间和资源方面极其慷慨。）
+> - He was clever , handsome , and exceedingly rich . `[例]`
+> - He is exceedingly rich . `[例]`
+> - The weather was exceedingly cold. `[例]`
 
 
 ---

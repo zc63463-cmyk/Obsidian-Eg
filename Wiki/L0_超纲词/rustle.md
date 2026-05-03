@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**发出沙沙声**==；②匆匆忙忙地行动，偷窃（俚语）；
-**n.** ①沙沙声；
+**v.** ①==**发出沙沙声**== `V`；②==**匆匆忙忙地行动，偷窃（俚语）**== `V`；
+**n.** ①==**沙沙声**== `N`；
 
 > [!tip] 原型义
 > **原型义**：轻轻摩擦发出的沙沙声（树叶、纸张等轻柔摩擦的声音）
@@ -128,8 +128,8 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The only sound was the soft rustle of leaves in the autumn breeze."（唯一的声音是秋风中树叶轻柔的沙沙声。）
-> - "She managed to rustle up a delicious meal from the few ingredients she had left."（她用仅剩的几种食材匆忙做出了一顿美味的饭菜。）
+> - The leaves rustled in the breeze . `[例]`
+> - He rustled his papers (= noisily moved them about) to hide his embarrassment . `[例]`
 
 ## 复习记录
 

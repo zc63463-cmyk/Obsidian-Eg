@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**未知的，未标明的**==；②图上未标明的；③无人涉足的；
+**adj.** ①==**未知的，未标明的**== `adj`；②==**图上未标明的**== `adj`；③==**无人涉足的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：未在地图上标出的（没有画过图的）
@@ -126,8 +126,8 @@ un-(不，否定前缀) + [[chart|chart]](地图/图表) + -ed(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company is venturing into uncharted territory with this new product."（公司正凭借这款新产品踏入未知领域。）
-> - "Artificial intelligence represents uncharted waters for regulators."（人工智能对监管者来说代表未知水域。）
+> - During survival training , he was criticized for venturing recklessly into uncharted wilderness . `[例]`
+> - Most of the underground tunnels and cave networks are uncharted or inadequately mapped . `[例]`
 
 ## 复习记录
 

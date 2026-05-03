@@ -129,8 +129,9 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The death rate from the disease is in excess of 50 percent."（该疾病的死亡率超过50%。）
-> - "Excess supply has driven down prices in the global market."（过度供给已导致全球市场价格下降。）
+> - An excess of enthusiasm is not always a good thing. `[例]`
+> - They both eat to excess (= too much) . `[例]`
+> - There will be an increase in tax for those earning in excess of (= more than) twice the national average wage . `[例]`
 
 
 ---

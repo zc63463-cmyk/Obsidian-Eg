@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**实用性，实际性**==；②==**实际情况，实际事例**==；③实用的事物；
+**n.** ①==**实用性，实际性**== `N`；②==**实际情况，实际事例**== `N`；③==**实用的事物**== `N`；
 
 > [!tip] 原型义
 > **原型义**：实际性（与实际相关的特性）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The practicality of the proposal must be carefully evaluated before implementation."（在实施之前，必须仔细评估该提案的实用性。）
+> - I bought these shoes for their practicality, not their appearance . `[例]`
+> - Jonathan has demonstrated enormous practicality in his successful management of the store . `[例]`
 
 ## 复习记录
 

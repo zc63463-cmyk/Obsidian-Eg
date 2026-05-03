@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the internet was a quantum leap in communication technology."（互联网的发明是通信技术的一次巨大飞跃。——通用例句）
-> - "The company's profits leaped by 50% in the first quarter."（该公司第一季度的利润猛增了50%。——通用例句）
+> - He leaped out of his car and ran towards the house . `[例]`
+> - I leaped up to answer the phone . `[例]`
+> - The dog leaped over the gate into the field . `[例]`
 
 
 ---

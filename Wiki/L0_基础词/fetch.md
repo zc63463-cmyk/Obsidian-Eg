@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Could you fetch me my glasses from the other room, please?"（你能去另一个房间帮我把眼镜拿来吗？——经典例句）
-> - "The struggle fetched out his true character."（这场斗争显示出他的真正性格。——经典例句）
+> - Could you fetch me my glasses from the other room , please ? `[例]`
+> - I have to fetch my mother from the station . `[例]`
+> - Shall I fetch some tea for you? `[例]`
 
 
 ---

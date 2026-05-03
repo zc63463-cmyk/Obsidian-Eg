@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人担忧的，使人发愁的**==；②麻烦的，令人不安的；
+**adj.** ①==**令人担忧的，使人发愁的**== `adj`；②==**麻烦的，令人不安的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：令人担忧的（worry 担忧 + -some 引起……的 → 引起担忧的 → 令人担忧的）
@@ -127,8 +127,8 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The rising rate of antibiotic resistance is a worrisome trend that threatens global health."（抗生素耐药性不断上升是一个威胁全球健康的令人担忧的趋势）
-> - "The economic outlook remains worrisome, with unemployment expected to rise further."（经济前景依然令人担忧，预计失业率将进一步上升）
+> - Alcohol and tobacco consumption by young people is especially worrisome because habits formed early are likely to persist . `[例]`
+> - The possibility of fire is especially worrisome for people who live on the edge of the forest . `[例]`
 
 ## 复习记录
 

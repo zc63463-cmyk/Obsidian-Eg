@@ -129,8 +129,9 @@ exter-(=exterus, 在外面的) + -ior(比较级后缀，表示"更……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The exterior of the building was painted white."（建筑物的外墙被漆成了白色）
-> - "Beneath his calm exterior, he was deeply worried."（在他平静的外表下，他内心非常担忧）
+> - In some of the villages the exterior walls of the houses are painted pink . `[例]`
+> - Exterior to the main house there is a small building that could be used as an office or studio . `[例]`
+> - The Palace of Fontainebleau has a very grand exterior. `[例]`
 
 
 ---

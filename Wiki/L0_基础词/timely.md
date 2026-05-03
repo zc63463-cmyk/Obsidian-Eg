@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**及时的，适时的**==；②==**合时宜的**==；
-**adv.** ①==**及时地**==（较少见）；
+**adj.** ①==**及时的，适时的**== `adj`；②==**合时宜的**== `adj`；
+**adv.** ①==**及时地**== `adv`（较少见）；
 
 > [!tip] 原型义
 > **原型义**：在恰当的时间发生的，及时的
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The timely intervention of the central bank prevented the financial crisis from escalating into a full-scale economic collapse that would have affected millions of people."（中央银行的及时干预防止了金融危机升级为一场将影响数百万人的全面经济崩溃——考研阅读经济话题相关表达）
-> - "A timely reminder that climate change is not a distant threat but an immediate reality came when unprecedented flooding devastated several coastal cities last year."（去年史无前例的洪水摧毁了几个沿海城市，这适时地提醒人们，气候变化不是遥远的威胁，而是迫在眉睫的现实——考研阅读环保话题相关表达）
+> - The change in the exchange rate provided a timely boost to the company's falling profits . `[例]`
+> - A nasty incident was prevented by the timely arrival of the police. `[例]`
+> - This has been a timely reminder to us all. `[例]`
 
 
 ---

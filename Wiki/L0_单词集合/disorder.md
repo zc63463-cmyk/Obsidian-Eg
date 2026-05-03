@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report points out that eating disorders are increasingly common among young women."（报告指出，饮食失调在年轻女性中越来越普遍。）——考研高频表达
-> - "The protest quickly turned into a public disorder as tensions escalated between the two groups."（随着两组之间的紧张局势升级，抗议迅速演变为公共骚乱。）——考研高频表达
+> - The whole office was in a state of disorder. `[例]`
+> - The opposition party have been in such disorder for so long that they pose no real threat to the present government . `[例]`
+> - She was born with a rare blood disorder. `[例]`
 ---
 
 

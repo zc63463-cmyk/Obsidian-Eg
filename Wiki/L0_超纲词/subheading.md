@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小标题，副标题**==；（文章中主标题下的分标题，subhead 的完整形式）
+**n.** ①==**小标题，副标题**== `N`；（文章中主标题下的分标题，subhead 的完整形式）
 
 > [!tip] 原型义
 > **原型义**：标题下面的标题（在主标题之下的分标题）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The report is divided into sections with clear subheadings.（报告分为几个部分，每个部分都有清晰的小标题。）
-> - Use subheadings to make your essay easier to navigate.（使用小标题使你的文章更容易阅读。）
+> - The subheadings are numbered within each chapter . `[例]`
+> - The newspaper headline read “House burns down on Elm Street” with the subheading “Arson suspected. `[例]`
 
 ## 复习记录
 

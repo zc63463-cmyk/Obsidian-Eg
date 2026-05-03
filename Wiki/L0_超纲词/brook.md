@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小溪，小河**== `N` [文学]；
-**v.** ①==**容忍，忍受（常用于否定句）**== `V N` [正式]；`will not V` [正式]；
+**n.** ①==**小溪，小河**== `N`；
+**v.** ①==**容忍，忍受（常用于否定句）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：小溪
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - A babbling brook wound its way through the meadow. `[例]`
-> - He would not brook any interference in his affairs. `[例]`
+> - I could hear the sound of a babbling brook. `[例]`
+> - A brook runs past the house . `[例]`
 
 ## 复习记录
 

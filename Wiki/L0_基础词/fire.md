@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company decided to fire 20% of its workforce."（公司决定裁减20%的员工）
-> - "The government came under fire for its handling of the crisis."（政府因处理危机的方式而受到批评）
+> - Animals are usually afraid of fire. `[例]`
+> - How many historic buildings are damaged by fire each year ? `[例]`
+> - She had to be rescued when her house caught fire (= started to burn ) . `[例]`
 
 
 ---

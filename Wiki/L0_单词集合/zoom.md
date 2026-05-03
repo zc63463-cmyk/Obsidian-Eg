@@ -141,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Stock prices zoomed on the good news."（好消息传来，股价飙升）——考研阅读经济类常见表达
-> - "zoom in on the details"（聚焦细节）——学术/分析类文本常见搭配
-> - "Cars were zooming down the highway."（汽车在高速公路上疾驰）——描述性文本
-> - "The camera zoomed in on her face."（镜头拉近到她的脸部）——文学/媒体类文本
+> - Those of us working from home during the coronavirus pandemic soon became a lot more familiar with Zoom. `[例]`
+> - Read our guide on how to use Zoom and how to set up a Zoom meeting . `[例]`
+> - They got into the car and zoomed off. `[例]`
+> - In the last few metres of the race , she suddenly zoomed ahead . `[例]`
 
 ---
 

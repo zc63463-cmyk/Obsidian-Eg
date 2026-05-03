@@ -137,8 +137,9 @@ flame 源自拉丁语 *flamma*（火焰、火苗），来自动词 *flagrare*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old factory burst into flames during the night, and by the time firefighters arrived, the building had been completely gutted."（那座旧工厂在夜间突然起火，等到消防员赶到时，建筑物已被完全烧毁——考研阅读新闻话题相关表达）
-> - "Despite the flames of controversy surrounding the new policy, the government remained firm in its commitment to implementation."（尽管围绕新政策存在着激烈的争议之火，政府仍坚定地致力于实施——考研翻译政治话题相关表达）
+> - The flames grew larger as the fire spread . `[例]`
+> - The car flipped over and burst into flames (= started burning immediately ) . `[例]`
+> - When the fire engine arrived the house was already in flames (= burning ) . `[例]`
 
 
 ---

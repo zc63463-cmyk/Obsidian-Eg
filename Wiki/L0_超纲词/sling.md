@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**吊带，悬带**==；②投石器，弹弓；③（婴儿）背带；
-**v.** ①抛，掷；②悬挂，吊起；③（用吊带）支撑（受伤的手臂）；
+**n.** ①==**吊带，悬带**== `N`；②==**投石器，弹弓**== `N`；③==**（婴儿）背带**== `N`；
+**v.** ①==**抛，掷**== `V`；②==**悬挂，吊起**== `V`；③==**（用吊带）支撑（受伤的手臂）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：抛掷的动作或用于抛掷/悬挂的工具
@@ -128,7 +128,8 @@ sling（源自古诺斯语 *slengva*，意为"抛，掷"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He had his arm in a sling after the accident."（事故发生后，他的手臂吊着绷带。）
+> - Don't just sling your bag on the floor ! `[例]`
+> - If any of the letters aren't interesting just sling them in the bin . `[例]`
 
 ## 复习记录
 

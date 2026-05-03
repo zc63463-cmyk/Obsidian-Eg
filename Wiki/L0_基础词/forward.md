@@ -137,9 +137,9 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We look forward to hearing from you soon."（我们期待尽快收到您的回信——考研高频表达）
-> - "He put forward a proposal for reducing carbon emissions."（他提出了一项减少碳排放的提案）
-> - "The government is taking a forward-looking approach to economic development."（政府正以前瞻性的方式推动经济发展）
+> - She leaned forward to whisper something in my ear . `[例]`
+> - The player launched the ball forward in the hope of catching the defenders off guard . `[例]`
+> - The army pushed forward in the direction of the enemy camp . `[例]`
 
 
 ---

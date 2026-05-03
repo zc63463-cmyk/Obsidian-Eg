@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**贸易，商业**==；②==**行业，职业**==（尤指手工业）；
-**v.** ①==**交易，买卖**==；②==**交换**==（用A换B）；③==**做买卖**==；
+**n.** ①==**贸易，商业**== `N`；②==**行业，职业**== `N`（尤指手工业）；
+**v.** ①==**交易，买卖**== `V`；②==**交换**== `V`（用A换B）；③==**做买卖**== `V`；
 
 > [!tip] 原型义
 > **原型义**：用手递交货物进行交换
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The European Union has been engaged in trade negotiations with several Asian countries to reduce tariffs and promote free trade."（欧盟一直在与几个亚洲国家进行贸易谈判，以降低关税并促进自由贸易——考研阅读经济话题相关表达）
-> - "Many workers who lost their jobs in manufacturing had to learn a new trade to remain competitive in the labor market."（许多在制造业失业的工人不得不学习一门新手艺，以在劳动力市场中保持竞争力——考研阅读社会话题相关表达）
+> - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
+> - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
+> - The country's trade in manufactured goods has expanded in the last ten years . `[例]`
 
 
 ---

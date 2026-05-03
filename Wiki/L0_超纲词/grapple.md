@@ -129,8 +129,8 @@ grap(=grab/grab, 抓住/钩子，古法语 *grapil*) + -le(反复/工具后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government is still grappling with how to regulate artificial intelligence. `[例]`
-> - Educators grapple with the challenge of keeping students engaged in online learning. `[例]`
+> - The children grappled for the ball . `[例]`
+> - He briefly grappled with the police officer . `[例]`
 
 ## 复习记录
 

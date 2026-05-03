@@ -128,8 +128,9 @@ in-(=not, 不) + fant(=speak, 说话，拉丁语 *fari* 的过去分词 *fans*) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many of the ship were lost in storms, many passengers died of disease, and infants rarely survived the journey."（很多船遭到风暴而沉没，许多乘客死于疾病，幼儿很难能够存活下来。——考研阅读常见表达）
-> - "The information industry is an infant industry in our country."（信息产业在我国是新兴产业。——考研翻译类表达）
+> - The most important thing is for parents to spend time with their newborn infant. `[例]`
+> - Jenny is a top-year infant now. `[例]`
+> - Andrew's still in the infants. `[例]`
 
 
 ---

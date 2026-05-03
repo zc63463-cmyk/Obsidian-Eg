@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The young lad showed remarkable determination, working his way through school while holding down a part-time job to support his family."（这个年轻小伙子表现出了非凡的决心，一边打工一边完成学业来养家糊口——考研阅读励志话题相关表达）
-> - "In many traditional societies, a lad was expected to learn a trade or craft from an early age, often serving as an apprentice to a master craftsman."（在许多传统社会中，男孩从小就被期望学习一门手艺或行业，通常作为学徒跟随一位师傅——考研翻译社会话题相关表达）
+> - A group of young lads were standing outside the shop . `[例]`
+> - He's a nice lad. `[例]`
+> - The prime minister's a local lad (= he was born and lived in this area ) . `[例]`
 
 
 ---

@@ -135,8 +135,9 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He had a parcel under his arm."（他腋下夹着一个包裹。——Collins Dictionary, "under one's arm" 条目，与 chest 区域相关）
-> - "The throat often feels dry and sore, the head feels stuffed, the eyes smart and there is a profuse watery nasal discharge."（喉咙常感干燥疼痛，头部感觉闷塞，眼睛刺痛，有大量水性鼻涕。——CRACCUM 1978, 与 chest/cold 症状相关）
+> - He was shot in the chest at point blank range . `[例]`
+> - He folded his arms across his chest. `[例]`
+> - His shirt was open to the waist revealing a very hairy chest. `[例]`
 
 
 ---

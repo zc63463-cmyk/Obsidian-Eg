@@ -127,7 +127,9 @@ spark(火花) + -le(反复动词后缀，表示反复/连续的小动作)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her eyes sparkled with excitement as she opened the gift."（她打开礼物时，眼中闪烁着兴奋的光芒——考研翻译参考句式）
+> - Alice is shy and quiet at parties , but her sister really sparkles! `[例]`
+> - The radiant smile and the sparkle in her blue eyes were the clear signs of a woman still deeply in love . `[例]`
+> - Their latest performance of My Fair Lady really lacked sparkle. `[例]`
 
 
 ---

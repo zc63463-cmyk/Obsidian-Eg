@@ -125,8 +125,9 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory called the Hawthorne Plant near Chicago."（1924年，美国国家研究委员会派遣两名工程师去芝加哥附近一家名为霍桑工厂的大型电话零部件厂监督一系列工业实验——2010年考研完形填空）
-> - "The government should supervise local sports associations."（政府应该监督本地体育协会——2017年考研Text 1）
+> - The UN is supervising the distribution of aid by local agencies in the disaster area . `[例]`
+> - The children play while two teachers supervise (= make certain that they behave correctly and are safe ) . `[例]`
+> - The Red Cross supervised the distribution of food to refugees . `[例]`
 
 
 ---

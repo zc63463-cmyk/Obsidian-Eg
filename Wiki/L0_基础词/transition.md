@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**过渡，转变**==；②转型期，过渡期；
-**v.** ①过渡，转变；
+**n.** ①==**过渡，转变**== `N`；②==**转型期，过渡期**== `N`；
+**v.** ①==**过渡，转变**== `V`；
 
 > [!tip] 原型义
 > **原型义**：跨越着走过去——从一种状态走到另一种状态
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The transition from childhood to adulthood is often marked by significant psychological changes."（从童年到成年的过渡通常以显著的心理变化为标志）
-> - "The country is undergoing a difficult transition from a planned economy to a market economy."（该国正在经历从计划经济向市场经济转型的困难时期）
+> - The health-care system is in transition at the moment . `[例]`
+> - There will be an interim government to oversee the transition to democracy . `[例]`
+> - She began her transition from male to female almost seven years ago. `[例]`
 
 
 ---

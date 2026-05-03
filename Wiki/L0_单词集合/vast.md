@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the vast majority of people"（绝大多数人）——考研阅读/写作超高频搭配
-> - "a vast amount of data"（大量的数据）——科技/学术类阅读
-> - "the vast expanse of the ocean"（浩瀚的海洋）——文学/描述性文本
+> - A vast audience watched the broadcast . `[例]`
+> - The amount of detail the book contains is vast. `[例]`
+> - The vast majority of children attend state schools . `[例]`
 
 ---
 

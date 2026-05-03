@@ -124,8 +124,9 @@ for-(完全、彻底，古英语 *for-* 的强化义) + give(给予) → 彻底�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To err is human, to forgive divine."（人非圣贤，孰能无过；宽恕他人，近乎神圣。——Alexander Pope）
-> - "She found it hard to forgive him for his betrayal."（她很难原谅他的背叛。）
+> - I'd never forgive myself if anything happened to the kids . `[例]`
+> - A quarrel is only over when both sides can forgive and forget . `[例]`
+> - Forgive me for asking , but how much did you pay for your bag ? `[例]`
 
 
 ---

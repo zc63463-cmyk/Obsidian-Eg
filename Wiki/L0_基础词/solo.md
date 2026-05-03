@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After years of working as part of a research team, she decided to go solo and establish her own laboratory to pursue her groundbreaking theories."（在作为研究团队成员工作多年后，她决定单干，建立自己的实验室来追求她开创性的理论——考研阅读学术话题相关表达）
-> - "The young violinist delivered a stunning solo performance that moved the entire audience to a standing ovation."（这位年轻的小提琴家进行了一场令人惊叹的独奏表演，感动了全场观众起立鼓掌——考研翻译文化话题相关表达）
+> - Baltimore scored first when Gibbons hit a solo home run . `[例]`
+> - Phillips smashed a solo shot in the third inning . `[例]`
+> - Parker's solo on "A Night in Tunisia" was so amazing that the pianist backing him simply stopped playing . `[例]`
 
 
 ---

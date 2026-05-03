@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**勺，铲**==；②==**独家新闻，抢先报道**==；③（一）勺/铲的量；
-**v.** ①==**舀，铲**==；②抢先报道，独家获得；
+**n.** ①==**勺，铲**== `N`；②==**独家新闻，抢先报道**== `N`；③==**（一）勺/铲的量**== `N`；
+**v.** ①==**舀，铲**== `V`；②==**抢先报道，独家获得**== `V`；
 
 > [!tip] 原型义
 > **原型义**：用勺状工具舀取（一个弯曲的动作）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The journalist scored a major scoop when she uncovered the corruption scandal."（那位记者揭露腐败丑闻，获得了一条重大独家新闻。）
-> - "She scooped up the children and carried them to safety."（她一把抱起孩子们，把他们带到了安全的地方。）
+> - Just one scoop of mashed potato for me, please . `[例]`
+> - The paper managed to secure a major scoop and broke the scandal to the world . `[例]`
 
 ## 复习记录
 

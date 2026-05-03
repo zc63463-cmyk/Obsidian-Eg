@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**鞠躬，低头**== `V; V to N`；②==**弯腰**== `V`；③==**屈服，顺从**== `V to N`；
-**n.** ①==**弓**== `N`；②==**蝴蝶结**== `N`；③==**船头**== `N` [航海]；④==**鞠躬**== `N`；
+**v.** ①==**鞠躬，低头**==；②弯腰；③屈服，顺从；
+**n.** ①弓；②蝴蝶结；③船头；④鞠躬；
 
 > [!tip] 原型义
 > **原型义**：弯曲（身体或物体弯曲成弧形）
@@ -129,10 +129,9 @@ bow 源自古英语 *bōgan*（弯曲），与 bend（弯曲）同源，来自 P
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Parliament has bowed to the demand for a referendum next year. `[COCA-NEWS]`
-> - The actor took a bow after the performance to thunderous applause. `[COCA-FIC]`
-> - She decided to bow to their wishes, wanting to keep the peace. `[COCA-FIC]`
-> - He bowed his head in prayer. `[COCA-FIC]`
+> - They bowed to the Queen. `[例]`
+> - We bowed our heads in prayer . `[例]`
+> - He stood at the back, head bowed in silent contemplation . `[例]`
 
 
 ---

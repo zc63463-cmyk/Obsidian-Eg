@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**正常的，平常的**==；②==**正规的，标准的**==；
-**n.** ①==**常态，通常标准**==；
+**adj.** ①==**正常的，平常的**== `adj`；②==**正规的，标准的**== `adj`；
+**n.** ①==**常态，通常标准**== `N`；
 
 > [!tip] 原型义
 > **原型义**：符合标准的（符合社会群体共同认可的标准或常态）
@@ -134,8 +134,9 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Conversely, someone with a small frame may have high body fat but a normal BMI."（相反，一些小骨架的人可能体脂率很高，但BMI正常。）——考研真题阅读
-> - "It's normal for couples to argue now and then."（夫妻之间偶尔发生口角是很平常的。）——考研高频表达
+> - A normal working day. `[例]`
+> - It 's normal for couples to argue now and then. `[例]`
+> - Lively behaviour is normal for a four-year-old child . `[例]`
 
 ---
 

@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hikers followed a narrow trail through the dense forest."（徒步旅行者沿着一条穿过茂密森林的狭窄小路前行。）——考研高频表达
-> - "The company has left a trail of failed projects behind it."（这家公司留下了一连串失败的项目。）——考研高频表达
+> - While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely. `[真题]`
+> - The dogs are trained to follow the trail left by the fox . `[例]`
+> - He left a trail of muddy footprints behind him. `[例]`
 
 ---
 

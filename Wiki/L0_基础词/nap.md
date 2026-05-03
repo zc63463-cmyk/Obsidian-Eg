@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Research has shown that a brief power nap of 20 minutes can significantly improve cognitive performance and alertness."（研究表明，20分钟的短暂充电小睡可以显著提高认知表现和警觉性——考研阅读健康话题相关表达）
-> - "Many cultures around the world traditionally incorporate a midday nap into their daily routine, a practice that modern science has increasingly validated."（世界各地的许多文化传统上将午间小睡纳入日常作息，这一做法正得到现代科学越来越多的验证——考研翻译文化话题相关表达）
+> - He likes to nap for an hour when he gets home from work . `[例]`
+> - While the children nap after lunch , their teachers will get a break . `[例]`
+> - I had a short nap after lunch. `[例]`
 
 
 ---

@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The film has reached its climax."（这部电影已经到了高潮部分。——常见英语语料）
-> - "Popular protests climaxed after officials signed the treaty."（官员签署条约后，民众的抗议达到了高潮。——常见英语语料）
+> - The climax of the air show was a daring flying display . `[例]`
+> - The election campaign reaches its climax next week . `[例]`
+> - The show climaxed with all the performers singing on stage together. `[例]`
 
 
 ---

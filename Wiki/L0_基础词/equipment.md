@@ -121,7 +121,9 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The hospital needs to update its medical equipment to provide better service.（医院需要更新医疗设备以提供更好的服务——考研阅读常见话题）
+> - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
+> - What are the estimated start-up costs for real estate , construction , and equipment? `[例]`
+> - Industrial machinery and equipment orders have risen by 2.7%. `[例]`
 
 
 ---

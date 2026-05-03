@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a car being towed away"（一辆被拖走的汽车）——考研阅读中描述交通场景
-> - "with her children in tow"（带着她的孩子们随行）——常见搭配，描述随行关系
-> - "tow a damaged ship into port"（将受损船只拖入港口）——航海/运输类阅读语境
+> - You shouldn't drive fast when your car is towing a caravan . `[例]`
+> - The damaged boat was towed to safety . `[例]`
+> - You're not allowed to park here - your car will be towed away . `[例]`
 
 ---
 

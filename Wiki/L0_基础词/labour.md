@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rapid advancement of automation and artificial intelligence has raised serious concerns about the future of labour markets worldwide."（自动化和人工智能的快速发展引发了人们对全球劳动力市场未来的严重担忧——考研阅读科技经济话题相关表达）
-> - "Developing countries often struggle to compete in the global economy due to rising labour costs and the increasing adoption of automation by multinational corporations."（由于劳动力成本上升和跨国公司越来越多地采用自动化，发展中国家在全球经济中往往难以竞争——考研翻译经济话题相关表达）
+> - The car parts themselves are not expensive , it's the labour that costs the money . `[例]`
+> - Because of his back problems , he can no longer do manual labour. `[例]`
+> - Are you tired after your labours? `[例]`
 
 
 ---

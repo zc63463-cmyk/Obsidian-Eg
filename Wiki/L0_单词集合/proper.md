@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**适当的，正确的，合适的**==；②==**正当的，合乎礼仪的**==；③==**真正的，本身的**==（用于强调）；④严格意义上的；固有的，特有的；
+**adj.** ①==**适当的，正确的，合适的**== `adj`；②==**正当的，合乎礼仪的**== `adj`；③==**真正的，本身的**== `adj`（用于强调）；④==**严格意义上的**== `adj`；固有的，特有的；
 
 > [!tip] 原型义
 > **原型义**：属于自己的（属于某人自己的→适合该人的）
@@ -131,8 +131,9 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In Japan the proportion is 35%. Not surprisingly, Japanese newspapers are much more stable."（在日本，这一比例是35%。毫不奇怪，日本报纸要稳定得多。——考研英语二2011年Text 2，proper 相关语境：proper understanding 恰当理解）
-> - "This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance."（这种日益提高的教育水平可能是先进经济表现所需的复杂政治体系的必要而非充分条件。——考研高频表达，proper 相关语境：proper function 恰当功能）
+> - The proper procedures for renting out spare houses. `[真题]`
+> - This is Sara's first proper job - she usually does temporary work just for the money . `[例]`
+> - If you're going to walk long distances you need proper walking boots . `[例]`
 
 
 ---

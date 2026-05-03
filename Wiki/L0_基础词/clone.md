@@ -131,8 +131,9 @@ clone 源自希腊语 *klōn*（嫩枝，幼枝），原指植物的扦插繁殖
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A team from the UK were the first to successfully clone an animal."（英国的一个小组率先成功克隆了动物——常见科普语料）
-> - "Some people believed that clone technology is an efficient way of protecting endangered species."（有些人认为克隆技术是保护濒危物种的有效方法——常见科普语料）
+> - Most people saw her as just another blond-haired, red-lipped Marilyn Monroe clone. `[例]`
+> - Scientists have already cloned a sheep . `[例]`
+> - Experiments to try to clone human embryos have met with hostility from some sections of the public . `[例]`
 
 
 ---

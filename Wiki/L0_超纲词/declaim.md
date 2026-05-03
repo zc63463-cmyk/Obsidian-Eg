@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**慷慨陈词，高声演讲**== `V` [正式]；②==**朗诵，朗读**== `V N` [正式]；
+**v..** ①==**慷慨陈词，高声演讲**== `V`；②==**朗诵，朗读**== `V`；
 
 > [!tip] 原型义
 > **原型义**：大声说出来（对着人群高声宣告）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He would often declaim passionately about the need for reform. `[例]`；
-> - The actor declaimed Shakespeare's soliloquy with remarkable intensity. `[例]`；
+> - The end of the world is at hand !" the poster declaimed. `[例]`
+> - She declaimed against the evils of capitalism . `[例]`
 
 ## 复习记录
 

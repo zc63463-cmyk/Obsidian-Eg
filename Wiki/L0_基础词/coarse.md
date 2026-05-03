@@ -127,8 +127,9 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers found that coarse particles in the air were more likely to cause respiratory problems than fine particles."（研究人员发现，空气中的粗颗粒比细颗粒更容易引起呼吸系统问题——考研英语阅读，环境科学话题）
-> - "In many traditional societies, coarse cloth was the standard clothing for ordinary people, while fine silk was reserved for the elite."（在许多传统社会中，粗布是普通人的标准衣着，而精美的丝绸则留给精英阶层——考研英语阅读，社会文化话题）
+> - Linen is a coarse-grained fabric . `[例]`
+> - He was a man of middle age with coarse , curly gray hair, a dark, pock-marked complexion and protruding, almost batrachian eyes. `[例]`
+> - He had a heavy face and a shrivelled nose and thick, coarse , bunched up skin. `[例]`
 
 
 ---

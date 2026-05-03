@@ -131,8 +131,9 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Similarly, some Wall Street investment firms armed themselves with patents for financial products, even as they took positions in court cases opposing the practice."（同样，一些华尔街投资公司也使用金融产品专利武装自己，尽管在司法诉讼中它们反对这种做法。——2010年考研英语阅读Text2）
-> - "His campaign team have assiduously courted the media."（他的竞选班子竭力讨好媒体。——考研英语高频例句）
+> - Protestors gathered outside the court to await the verdict . `[例]`
+> - He's due to appear in court again on Monday . `[例]`
+> - The European Court of Human Rights. `[例]`
 
 ---
 

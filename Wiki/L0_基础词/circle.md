@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A new study from the Center for Information and Research on Civic Learning and Engagement (CIRCLE) at Tufts University shows that today's youth vote in larger numbers than previous generations."（塔夫茨大学公民学习与参与信息研究中心的一项新研究表明，当今的年轻人比前几代人以更大的数量参与投票。——六级阅读真题）
-> - "The circle is divided into sections."（这个圆被分成了几个部分。——高考真题）
+> - According to Paragraph 1 , the careers of scientists can be determined by __ A. how many citations their works contain B. how many times their papers are cited C. the prestige of the people they work with D. the status they have in scientific circles 37. `[真题]`
+> - Coloured paper was cut into circles. `[例]`
+> - She was a member of the inner circle of decision-makers within the organization . `[例]`
 
 
 ---

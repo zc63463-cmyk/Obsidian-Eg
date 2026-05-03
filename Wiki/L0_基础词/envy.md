@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She looked at his new car with envy."（她嫉妒地看着他的新车。）
-> - "His success was the envy of all his classmates."（他的成功令所有同学羡慕。）
+> - I envy her ability to talk to people she's never met before. `[例]`
+> - I don't envy you the job of cooking for all those people . `[例]`
+> - I watched with envy as she set off for the airport . `[例]`
 
 
 ---

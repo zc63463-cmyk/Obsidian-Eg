@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers presented solid evidence demonstrating that climate change is accelerating at a rate far beyond previous scientific predictions."（研究人员展示了可靠的证据，证明气候变化正在以远超先前科学预测的速度加速——考研阅读环保话题相关表达）
-> - "It took the company three solid years of research and development before the new product was finally ready for the market."（公司花了连续三年的研发时间，新产品才最终准备好推向市场——考研翻译商业话题相关表达）
+> - The lecture hall was packed solid ( with students ). `[例]`
+> - Liquid and solid waste is collected in the tank . `[例]`
+> - Freeze the mixture for about three hours or so until solid. `[例]`
 
 
 ---

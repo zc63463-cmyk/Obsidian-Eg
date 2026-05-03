@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company needs to stay ahead of the curve in technological innovation."（公司需要在技术创新方面保持领先趋势——考研商业类话题高频表达）
-> - "The road has a dangerous curve ahead."（前方道路有一个危险的弯道——日常/驾驶语料）
+> - He throws mainly fastballs with the occasional curve. `[例]`
+> - He fired his unhittable curve, and struck out the final batter . `[例]`
+> - He threw his boss a curve when he told her that he was resigning . `[例]`
 
 
 ---

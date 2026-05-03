@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She devoted her entire career to improving the living conditions of people in rural areas, often working long hours without complaint."（她把整个职业生涯都致力于改善农村地区人民的生活条件，经常长时间工作而无怨言——考研阅读人物话题相关表达）
-> - "The government has devoted substantial resources to developing renewable energy sources in an effort to reduce its dependence on fossil fuels."（政府投入了大量资源开发可再生能源，以努力减少对化石燃料的依赖——考研翻译政策话题相关表达）
+> - At the age of 25, he decided to devote himself to God . `[例]`
+> - Over half his speech was devoted to the issue of unemployment . `[例]`
+> - The report recommends that more resources be devoted to teaching four-year-olds. `[例]`
 
 
 ---

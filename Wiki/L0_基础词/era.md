@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the internet marked the beginning of a new era in human communication."（互联网的发明标志着人类通信新时代的开始——考研阅读科技话题高频表达）
-> - "We live in an era of rapid technological change and globalization."（我们生活在一个技术快速变革和全球化的时代——考研阅读社会话题常见表达）
+> - His memoir offers us a fascinating glimpse of a bygone era. `[例]`
+> - They had worked for peace during the long era of conflict . `[例]`
+> - The fall of the Berlin wall marked the end of an era. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**误导，使误入歧途**== `V N` `be V-ed by N` [正式]；
+**v.** ①==**误导，使误入歧途**== `V`；
 
 > [!tip] 原型义
 > **原型义**：给予错误的引导
@@ -121,8 +121,8 @@ mis-(错误) + guide(引导)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Many well-intentioned policies have been misguided in their implementation. [C]
-> - `[例]` She was misguided by the false promises of the investment scheme. [C]
+> - They casually dismiss the career work of scholars and scientists as just another misguided opinion. `[真题]`
+> - We were misguided by the flashy advertisements for what turned out to be pretty lousy pizza. `[例]`
 
 ## 复习记录
 

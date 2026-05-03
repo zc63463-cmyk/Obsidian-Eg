@@ -140,8 +140,9 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On the one hand, technology has greatly improved our efficiency; on the other hand, it has raised concerns about privacy."（一方面，技术极大地提高了我们的效率；另一方面，它也引发了对隐私的担忧。——考研英语真题经典句型，讨论技术双刃剑）
-> - "The factory is short-handed due to the holiday season."（由于节假日，工厂人手不足。——考研相关语料，讨论劳动力问题）
+> - All their toys are made by hand. `[例]`
+> - I delivered her invitation by hand (= not using the postal service ) . `[例]`
+> - Get your hands off (= stop touching ) my bike ! `[例]`
 
 
 ---

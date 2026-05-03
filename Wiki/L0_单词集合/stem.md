@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Much of the violence stems from economic inequality and social injustice."（许多暴力行为源于经济不平等和社会不公正。）——考研高频表达
-> - "The government must address the problem at its stem rather than treating the symptoms."（政府必须从根本上解决问题，而不是仅仅治疗症状。）——考研高频表达
+> - Champagne glasses usually have long stems. `[例]`
+> - From the stem "sav-" you get " saves ", " saved ", " saving ", and " saver ". `[例]`
+> - These measures are designed to stem the rise of violent crime . `[例]`
 
 ---
 

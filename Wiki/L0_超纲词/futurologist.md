@@ -123,8 +123,8 @@ futur(=future, 未来) + -o-(连接字母) + [[log|lect-leg]](说话/研究) + -
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Futurologists predict that artificial intelligence will transform every industry within the next two decades. `[例]`
-> - The leading futurologist outlined three possible scenarios for the future of work. `[例]`
+> - Futurologists have predicted a cashless society ever since the invention of " plastic money ". `[例]`
+> - Trend-spotters and futurologists have become an important part of the modern business world . `[例]`
 
 ## 复习记录
 

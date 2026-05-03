@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**提议，建议，提出**==；②==**提名，推荐**==；③==**求婚**==；④计划，打算；
+**vt.** ①==**提议，建议，提出**== `V N`；②==**提名，推荐**== `V N`；③==**求婚**== `V N`；④==**计划，打算**== `V N`；
 **vi.** 提议，建议；求婚；
 
 > [!tip] 原型义
@@ -135,8 +135,9 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Facing an 8.3-billion-dollar budget deficit this year, closing post offices is one of several proposals the Postal Service has put forth recently to cut costs."（面对今年83亿美元的预算赤字，关闭邮局是邮政服务局最近提出的几项削减成本提案之一。——考研英语阅读真题，propose 相关语境：propose to cut costs 提议削减成本）
-> - "But actually, the country is closer to his proposal than you might think."（但实际上，这个国家比你想的更接近他的提议。——考研英语阅读真题，propose 相关语境）
+> - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
+> - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
+> - I propose that we wait until the budget has been announced before committing ourselves to any expenditure . `[例]`
 
 
 ---

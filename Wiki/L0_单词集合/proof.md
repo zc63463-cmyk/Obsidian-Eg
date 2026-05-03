@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**证据，证明**== ; ②校样，样张 ;
-**adj.** ①==**能防……的，有耐力的**== ;
+**n.** ①==**证据，证明**== `N` ; ②==**校样，样张 ;**== `N`
+**adj.** ①==**能防……的，有耐力的**== `adj` ;
 
 > [!tip] 原型义
 > **原型义**：检验过的/好的（that which tests / tested quality）
@@ -132,8 +132,9 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The reaction to his death, with people leaving candles and flowers outside Apple stores and politicians singing praises on the internet, is proof that Mr Jobs had become something much more significant than just a clever money-maker."（人们对他的死反应强烈，在苹果店外留下蜡烛和鲜花，政客们在互联网上歌功颂德，这证明了乔布斯已经远不止是一个聪明的赚钱者——2012年12月六级阅读）
-> - "This was proof, said the White House, of just how workmanlike relations had become."（白宫表示，这证明了两国关系已经变得多么务实——考研高频表达）
+> - How old are you?" "21." "Do you have any proof on you? `[例]`
+> - Do they have any proof that it was Hampson who stole the goods ? `[例]`
+> - I have a suspicion that he's having an affair , though I don't have any concrete (= definite ) proof. `[例]`
 
 
 ---

@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The staggering cost of healthcare in the United States has become a major concern for policymakers and citizens alike."（美国令人震惊的医疗费用已成为政策制定者和公民共同关注的主要问题——考研阅读社会话题相关表达）
-> - "The company decided to stagger employee vacations to ensure that operations would continue smoothly during the summer months."（公司决定错开员工休假时间，以确保夏季运营顺利进行——考研阅读管理话题相关表达）
+> - After he was attacked , he managed to stagger to the phone and call for help . `[例]`
+> - The company is staggering under a $15 million debt and will almost certainly collapse by the end of the year . `[例]`
+> - He staggered all his colleagues by suddenly announcing that he was leaving the company at the end of the month . `[例]`
 
 
 ---

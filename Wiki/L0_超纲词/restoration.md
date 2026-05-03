@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恢复，修复**==；②复辟，归还；③（受损艺术品、建筑等的）修复；
+**n.** ①==**恢复，修复**== `N`；②==**复辟，归还**== `N`；③==**（受损艺术品、建筑等的）修复**== `N`；
 
 > [!tip] 原型义
 > **原型义**：重新站起来（回到原来的站立状态→恢复原状）
@@ -128,8 +128,8 @@ re-(再次，重新) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -or(名�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The restoration of the ancient temple took more than a decade."（这座古寺的修复工作耗时十余年。）
-> - "The Restoration of 1660 brought Charles II back to the English throne."（1660年的王政复辟使查理二世重登英格兰王位。）
+> - The first task following the disaster was the restoration of clean water supplies . `[例]`
+> - Restoration work on the Sistine Chapel ceiling is now complete . `[例]`
 
 ## 复习记录
 

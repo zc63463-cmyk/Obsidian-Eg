@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**服从，顺从**==；②==**遵守，遵从**==（法律、规则、命令等）；
+**v.** ①==**服从，顺从**== `V`；②==**遵守，遵从**== `V`（法律、规则、命令等）；
 
 > [!tip] 原型义
 > **原型义**：仔细倾听后遵从（听→服从）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Citizens are expected to obey the law and respect the rights of others in a democratic society."（在民主社会中，公民被期望遵守法律并尊重他人的权利——考研阅读法律话题）
-> - "Soldiers are trained to obey orders without hesitation, even in the most dangerous and challenging situations."（士兵被训练得毫不犹豫地服从命令，即使在最危险和最具挑战性的情况下——考研翻译军事话题）
+> - I told him to leave , and he obeyed. `[例]`
+> - The soldiers refused to obey orders . `[例]`
+> - Cyclists, just like anyone else , must obey the rules of the road . `[例]`
 
 
 ---

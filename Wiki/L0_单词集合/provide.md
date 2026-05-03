@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**提供，供给**==（给予所需之物）；②==**规定**==（法律/合同中规定）；
+**vt.** ①==**提供，供给**== `V N`（给予所需之物）；②==**规定**== `V N`（法律/合同中规定）；
 
 > [!tip] 原型义
 > **原型义**：提前看到→准备→提供（来自 pro-（提前）+ vide（看）→ 提前看到→准备→提供）
@@ -141,11 +141,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The school provides students with a wide range of resources."（学校为学生提供了广泛的资源）——教育话题
-> - "He has a large family to provide for."（他有一大家子人要养活）——家庭话题
-> - "The constitution provides that all citizens have equal rights."（宪法规定所有公民享有平等权利）——法律话题
-> - "The government should provide better healthcare services."（政府应该提供更好的医疗服务）——社会话题
-> - "We are well provided with food and shelter."（我们的食物和住所供应充足）——生活话题
+> - However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtor. `[真题]`
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+> - The peculiar part is that the journal that the editor is supposedly working for is not profiting at all-it is just providing citations to other journals. `[真题]`
+> - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
+> - This booklet provides useful information about local services . `[例]`
 
 ---
 

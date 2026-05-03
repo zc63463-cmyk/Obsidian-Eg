@@ -123,8 +123,8 @@ frame(框架，结构) + -er(人/物)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The Framers of the Constitution designed a system of checks and balances. `[例]`
-> - The framers of the new policy aimed to address income inequality. `[例]`
+> - She is a picture framer for a local gallery . `[例]`
+> - When she finishes a painting , she takes it immediately to her framer. `[例]`
 
 ## 复习记录
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不透明的**==；②==**难理解的，晦涩的**==；③含糊的；
-**n.** ①不透明体；
+**adj.** ①==**不透明的**== `adj`；②==**难理解的，晦涩的**== `adj`；③==**含糊的**== `adj`；
+**n.** ①==**不透明体**== `N`；
 
 > [!tip] 原型义
 > **原型义**：完全遮蔽（光无法穿透的状态）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He even charges tech firms with having bruised democracy: they serve up information based on opaque algorithms, suggesting what people should think, and so supplanting individual thought."（他甚至指控科技公司损害了民主：它们基于不透明的算法提供信息，暗示人们应该想什么，从而取代了个人思考。——外刊例句）
-> - "The complex administrative arrangements mean that the decision-making process remains somewhat opaque."（复杂的行政安排意味着决策过程仍然有些不透明。——牛津词典例句）
+> - The majority of readers found his poetry difficult , even opaque. `[例]`
+> - Governments have been able to maintain opaque and discriminatory procurement practices . `[例]`
+> - Accounting firms have been notoriously opaque about their finances in the past. `[例]`
 
 
 ---

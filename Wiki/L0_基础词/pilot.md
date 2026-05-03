@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A quarter of America's public-sector workers have a university degree."（美国四分之一的公共部门工人拥有大学学位。——2012年英语一Text 4，与 pilot 语义场相关）
-> - "The state Senate unanimously passed a pilot plan that would use surplus funds from a health-insurance program for the unemployed."（州参议院一致通过了一项试点计划，该计划将利用失业医疗保险项目的盈余资金。——考研报刊阅读语料）
-> - "Initially, 20 hotels joined the pilot program."（最初有20家酒店加入了试点项目。——Cambridge Dictionary 例句）
+> - If you'd seen the pilot, you'd know why they decided not to make a complete series of programmes ! `[例]`
+> - If the pilot scheme is successful , many more homes will be offered the new television service . `[例]`
+> - She piloted the aircraft to safety after one of the engines failed . `[例]`
 
 
 ---

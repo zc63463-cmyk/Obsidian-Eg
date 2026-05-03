@@ -128,9 +128,9 @@ trans-(跨越) + [[miss|miss]](发送) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The transmission of knowledge from one generation to the next is crucial for societal progress."（知识代代相传对社会进步至关重要。）——考研高频表达
-> - "Regular hand-washing is one of the main ways to help prevent the transmission of infectious diseases."（经常洗手是帮助预防传染病传播的主要方法之一。）——考研高频表达
-> - "The transmission of cultural traditions helps preserve a nation's identity."（文化传统的传承有助于维护一个国家的认同。）——考研高频表达
+> - Broadband transmission has speeded up access to these sites . `[例]`
+> - We rely on high-speed transmission of data . `[例]`
+> - We apologize for the interruption to our transmissions this afternoon . `[例]`
 
 ---
 

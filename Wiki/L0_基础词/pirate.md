@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The slave-trade is now, by American law, considered as piracy."（根据美国法律，奴隶贸易现在被视为海盗行为。——Uncle Tom's Cabin）
-> - "Of course, this worries the record companies, because the potential for piracy is great."（当然，这让唱片公司感到担忧，因为盗版的潜力很大。——Cambridge English Corpus）
+> - The trailer was being used to house a pirate radio station . `[例]`
+> - A lot of this software is pirated. `[例]`
+> - Copyright laws have introduced tough new sentences for software pirates . `[例]`
 
 
 ---

@@ -127,8 +127,8 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - A frugal lifestyle doesn't mean depriving yourself of enjoyment. `[例]`
-> - The frugal meal consisted of bread, cheese, and a simple salad. `[例]`
+> - Lungren, a fiscal conservative when it comes to spending taxpayers ’ money , is frugal in his personal life as well. `[例]`
+> - He built up his savings by being very frugal. `[例]`
 
 ## 复习记录
 

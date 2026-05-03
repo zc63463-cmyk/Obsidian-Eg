@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She broke her leg a month ago and it's still in plaster."（她一个月前腿骨骨折，至今仍打着石膏。——牛津词典例句）
-> - "The torrential rain had plastered her hair to her head."（暴雨使她的头发紧贴在头上。——剑桥词典例句）
+> - She broke her leg a month ago and it's still in plaster. `[例]`
+> - The torrential rain had plastered her hair to her head . `[例]`
+> - The plaster on the walls was cracked and flaking . `[例]`
 
 
 ---

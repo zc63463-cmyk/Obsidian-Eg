@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**纽带，联结**== `N`；②==**债券，公债**== `N` [金融]；③契约，合同 `N` [法律]；④粘合剂 `N`；⑤镣铐，枷锁 `N`；
-**v.** ①==**使结合，使黏合**== `V N`；②（与人）建立亲密关系 `V with N`；
+**n.** ①==**纽带，联结**==；②==**债券，公债**==；③契约，合同；④粘合剂；⑤镣铐，枷锁；
+**v.** ①==**使结合，使黏合**==；②（与人）建立亲密关系；
 
 > [!tip] 原型义
 > **原型义**：纽带、联结（将事物绑在一起的东西）
@@ -134,10 +134,9 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The threat of inflation is already evident in the bond market." `[真题]`
-> - "The company will issue two senior unsecured Eurobonds of five hundred million euros each, maturing in thirteen and twenty-nine years." `[COCA-NEWS]`
-> - "The emotional bond between mother and child is one of the strongest in human experience." `[COCA-ACAD]`
-> - "All levels of government issue bonds, and so do corporations." `[COCA-ACAD]`
+> - There has been a close bond between them ever since she saved him from drowning . `[例]`
+> - We entered into a solemn bond. `[例]`
+> - In societies with strong family bonds (= relationships ) , people tend to live longer . `[例]`
 
 
 ---

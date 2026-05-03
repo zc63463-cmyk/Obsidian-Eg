@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**颤抖，发抖**==；②震动，摇动；③焦虑，担忧；
-**n.** ①颤抖，发抖；
+**v.** ①==**颤抖，发抖**== `V`；②==**震动，摇动**== `V`；③==**焦虑，担忧**== `V`；
+**n.** ①==**颤抖，发抖**== `N`；
 
 > [!tip] 原型义
 > **原型义**：颤抖（因恐惧、寒冷或激动而身体不由自主地发抖）
@@ -133,8 +133,9 @@ trem(颤抖，拉丁语 *tremere*) + -ble(动词后缀，表示反复动作)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I was trembling with fear, panicking that I had not made the right decision."（我吓得浑身发抖，恐慌自己没有做出正确的决定。——考研阅读高频表达）
-> - "His voice trembled with emotion as he gave his speech."（他发表演讲时，声音因激动而颤抖。——考研翻译类例句）
+> - I was trembling with fear , panicking that I had not made the right decision . `[例]`
+> - His voice trembled with emotion as he gave his speech . `[例]`
+> - His voice started to tremble, and I thought he was going to cry . `[例]`
 
 
 ---

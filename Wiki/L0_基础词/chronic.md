@@ -137,8 +137,9 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was suffering from chronic fatigue."（他患有慢性疲劳。——7esl.com 例句）
-> - "Washing the dishes is my least favorite chore."（洗碗是我最不喜欢的家务。——7esl.com 例句, chronic chore 相关语境)
+> - The study looks at adults with chronic conditions such as asthma and diabetes . `[例]`
+> - His research showed that eating more plant-based foods helps you avoid chronic diseases . `[例]`
+> - Exercise can be important in treating chronic pain . `[例]`
 
 
 ---

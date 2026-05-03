@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She decided to specialize in environmental law after completing her general legal studies."（完成一般法学学习后，她决定专攻环境法）——教育/职业类阅读
-> - "The hospital specializes in the treatment of rare diseases."（这家医院专门治疗罕见病）——医学类话题
-> - "Many universities encourage students to specialize early in their academic careers."（许多大学鼓励学生在学术生涯早期就确定专攻方向）——教育类话题
+> - She hired a lawyer who specializes in divorce cases . `[例]`
+> - I enjoy working in general medicine , but I hope to be able to specialize in the future . `[例]`
+> - A restaurant that specializes in seafood. `[例]`
 
 ---
 

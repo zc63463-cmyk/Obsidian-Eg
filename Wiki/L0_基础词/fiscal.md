@@ -121,8 +121,9 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government implemented a series of fiscal measures to stimulate economic growth."（政府实施了一系列财政措施以刺激经济增长）
-> - "The fiscal deficit has widened due to increased government spending."（由于政府支出增加，财政赤字扩大了）
+> - With the serious fiscal challenges facing the federal government , agencies must maximize their ability to manage and safeguard valuable taxpayers ' dollars . `[例]`
+> - Overall, the situation looks favourable in terms of the fiscal surplus he has projected . `[例]`
+> - The governor said the fiscal crisis couldn't be solved by spending cuts alone , insisting the state needs additional revenue . `[例]`
 
 
 ---

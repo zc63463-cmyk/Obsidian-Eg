@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**批发**==；
-**adj.** ①批发的；②大规模的，全面的；
-**adv.** ①以批发方式；②大规模地，全部地；
+**n.** ①==**批发**== `N`；
+**adj.** ①==**批发的**== `adj`；②==**大规模的，全面的**== `adj`；
+**adv.** ①==**以批发方式**== `adv`；②==**大规模地，全部地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：大批量的买卖（批发）
@@ -131,8 +131,8 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company decided to make wholesale changes to its management structure."（公司决定对其管理结构进行全面改革。）
-> - "They buy goods at wholesale prices and sell them at retail."（他们以批发价买入商品，然后以零售价卖出。）
+> - What the system needs is wholesale reform . `[例]`
+> - He raised prices slightly for wholesale and retail . `[例]`
 
 ## 复习记录
 

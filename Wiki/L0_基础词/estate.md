@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Real estate prices have risen sharply in major cities over the past decade."（过去十年中，主要城市的房地产价格急剧上涨——考研阅读经济类话题高频表达）
-> - "He inherited a large estate from his grandfather, including a manor house and extensive farmland."（他从祖父那里继承了大笔遗产，包括一座庄园和大片农田——考研翻译常见表达）
+> - Compared with Castle, Taylor is more likely :'to support __ _ A. further investment in local tourism B. an increase in affordable housing C. strict management of real estate agents D. a favorable policy for short-term workers 29. `[真题]`
+> - It's a typical country estate with a large house for the owner , farm buildings , and estate workers ' houses . `[例]`
+> - They moved into a four-bedroom house on a new estate. `[例]`
 
 
 ---

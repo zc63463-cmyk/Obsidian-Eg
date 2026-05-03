@@ -139,8 +139,9 @@ snap 源自拟声词，模仿突然断裂或咬合时发出的清脆声响。可
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consumers snapped up the new product as soon as it hit the market, driving the company's profits to record levels."（消费者在新产品一上市就抢购一空，推动公司利润创下历史新高——考研阅读商业话题相关表达）
-> - "The branch snapped under the weight of the heavy snow, blocking the road for several hours."（树枝在厚重的积雪下突然折断，导致道路被堵数小时——考研翻译自然话题相关表达）
+> - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
+> - Some vandal's snapped off my car aerial again. `[例]`
+> - When she asked me to postpone my trip to help her move to her new house , I just snapped (= got angry ) . `[例]`
 
 
 ---

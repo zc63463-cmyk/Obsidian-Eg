@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**资格，资质**==（学位、证书、技能）；②==**限制条件，限定**==（附加条件）；③（语法）==**限定修饰**==；
+**n.** ①==**资格，资质**== `N`（学位、证书、技能）；②==**限制条件，限定**== `N`（附加条件）；③==**（语法）==**限定修饰**== `N`**==；
 
 > [!tip] 原型义
 > **原型义**：使具有某种性质/资格（赋予某人做某事的能力或条件）
@@ -136,10 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "your education, your experience, and other qualifications"（你的学历、经验和其他资格）——考研阅读，求职话题
-> - "I agree with the proposal, with certain qualifications."（我同意这个提议，但有一些保留意见）——常见表达
-> - "She has the right qualifications for the job."（她有胜任这份工作的资格）——求职语境
-> - "without any qualification or reservation"（没有任何保留或限制）——正式声明
+> - You'll never get a good job if you don't have any qualifications. `[例]`
+> - Some nursing experience is a necessary qualification for this job . `[例]`
+> - One of the qualifications you need to work here is a sense of humour ! `[例]`
+> - The win earned them qualification for the World Cup finals . `[例]`
 
 ---
 

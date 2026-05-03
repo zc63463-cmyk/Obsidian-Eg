@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The research project depends heavily on government funding. `[例]`
-> - Securing adequate funding remains one of the biggest challenges for startups. `[例]`
+> - Its communities are in need of funding. `[真题]`
+> - Alisha is trying to get funding for her research . `[例]`
 
 ## 复习记录
 

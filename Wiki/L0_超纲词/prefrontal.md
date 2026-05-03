@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**前额叶的，额叶前部的**==；
+**adj.** ①==**前额叶的，额叶前部的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：额叶前部的（大脑额叶的前部区域）
@@ -120,7 +120,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The prefrontal cortex is responsible for executive functions such as decision-making and impulse control."（前额叶皮层负责决策和冲动控制等执行功能。）
+> - Prefrontal dysfunction has been implicated in several psychiatric disorders . `[例]`
+> - These individuals had smaller volumes in certain prefrontal and medial temporal parts of the brain . `[例]`
 
 ## 复习记录
 

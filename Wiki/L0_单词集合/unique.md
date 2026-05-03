@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a unique opportunity"（独一无二的机会）——考研阅读常见搭配，强调机会的珍贵
-> - "unique to humans"（人类所独有的）——科普类阅读，描述人类区别于其他物种的特征
-> - "a unique challenge"（独特的挑战）——议论文中描述问题的特殊性
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+> - Each person's genetic code is unique except in the case of identical twins . `[例]`
+> - I'd recognize your handwriting anywhere - it's unique. `[例]`
 
 ---
 

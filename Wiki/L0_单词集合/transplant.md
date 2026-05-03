@@ -129,8 +129,9 @@ trans-(跨越、转移) + [[plant]](种植)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The patient underwent a heart transplant operation last month."（这位患者上个月接受了心脏移植手术。）——考研高频表达
-> - "It is difficult to transplant a corporate culture from one country to another."（将企业文化从一个国家移植到另一个国家是很困难的。）——考研高频表达
+> - The plants should be grown indoors until spring , when they can be transplanted outside . `[例]`
+> - He had a heart transplant (= doctors gave him a different, healthier heart instead of his old one) . `[例]`
+> - His body accepted the transplant. `[例]`
 
 ---
 

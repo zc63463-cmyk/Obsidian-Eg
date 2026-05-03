@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**裹尸布，寿衣**==；②覆盖物，遮蔽物；
-**v.** ①覆盖，遮蔽；②笼罩；
+**n.** ①==**裹尸布，寿衣**== `N`；②==**覆盖物，遮蔽物**== `N`；
+**v.** ①==**覆盖，遮蔽**== `V`；②==**笼罩**== `V`；
 
 > [!tip] 原型义
 > **原型义**：包裹尸体的布（遮盖死者的布匹）
@@ -128,7 +128,8 @@ shroud（源自古英语 *scrūd*，意为"衣物，遮蔽物"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The mountain peak was shrouded in mist, invisible from the valley below."（山峰被薄雾笼罩，从下面的山谷中完全看不见。）
+> - Everything was covered in a thick shroud of dust . `[例]`
+> - The truth about the accident remains hidden beneath a shroud of secrecy . `[例]`
 
 ## 复习记录
 

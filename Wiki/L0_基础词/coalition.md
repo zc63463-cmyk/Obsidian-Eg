@@ -123,8 +123,9 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The coalition government immediately decided to cut capital spending in response to the economic crisis."（联合政府立即决定削减资本支出以应对经济危机——考研英语阅读，政治经济话题）
-> - "By forming a coalition, the rebels and the opposition parties defeated the government in the election."（叛乱者与反对党结成联盟，在选举中击败了政府——考研英语阅读，政治话题）
+> - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
+> - The coalition immediately decided to cut capital spending . `[例]`
+> - Government by coalition has its own peculiar set of problems . `[例]`
 
 
 ---

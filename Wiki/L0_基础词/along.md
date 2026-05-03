@@ -134,8 +134,9 @@ all（全部）+ -ong（长的，与 long 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I am more worried about the quality of life my daughters will have along the way."（我更担心的是我的女儿们在这个过程中将拥有的生活质量——考研翻译常见表达）
-> - "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interests as they plough through them."（求职面试的入围名单、选举投票纸、会议发言者和与会者名单：所有这些都倾向于按字母顺序排列，当人们费力翻阅时，他们的兴趣逐渐丧失——2004年英语一Text 2，along the way 的同义表达）
+> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
+> - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
+> - It is 18 that around 12,000 to 15,000 caravanserais were built along the Silk Road, _ __!2_ only about 3 , 000 are known to remain today , many of which are in _1Q__. `[真题]`
 
 
 ---

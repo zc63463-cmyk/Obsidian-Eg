@@ -121,8 +121,9 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He had already been told, so our comments were superfluous."（早就有人同他说过，所以我们的意见是多余的——考研高频表达）
-> - "She gave him a look that made words superfluous."（她看了他一眼，这已表明一切，无须多言——考研高频表达）
+> - The report was marred by a mass of superfluous detail . `[例]`
+> - She gave him a look that made words superfluous. `[例]`
+> - Our new mayor plans to eliminate superfluous programs . `[例]`
 
 
 ---

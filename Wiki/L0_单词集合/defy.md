@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "defy description"（难以描述）——考研阅读常见搭配，描述某事物的非凡程度
-> - "defy the odds"（战胜逆境）——考研阅读中描述克服困难取得成功的语境
-> - "in defiance of the law"（无视法律）——法律/社会类阅读语境
+> - It is rare to see children openly defying their teachers . `[例]`
+> - The fact that aircraft don't fall out of the sky always seems to me to defy (= act against) the law of gravity . `[例]`
+> - A forest fire raging in southern California is defying (= is not changed by) all attempts to control it. `[例]`
 
 ---
 

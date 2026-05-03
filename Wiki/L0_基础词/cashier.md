@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cashier at the bank helped me exchange my foreign currency."（银行的出纳员帮我兑换了外币。——考研阅读场景类）
-> - "The officer was cashiered for disobeying orders."（该军官因违抗命令被开除军籍。——红宝书考研词汇例句）
+> - She started as a cashier making $6.50 an hour , then moved up to customer service manager , making $7.65 an hour . `[例]`
+> - She was once dismissed from her job as head cashier with a supermarket chain on suspicion of embezzlement . `[例]`
+> - Among the auditor's concerns about the company were errors by the cashier's office . `[例]`
 
 
 ---

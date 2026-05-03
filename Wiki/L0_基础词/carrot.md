@@ -126,8 +126,9 @@ carrot 源自中古英语 *carotte*，借自古法语，最终源自拉丁语 *c
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With them, there's not the same embarrassment as when buying one carrot in a little greengrocer."（有了自助结账，就不会像在蔬菜水果店里买一根胡萝卜那样尴尬了。——2013年考研英语二阅读理解）
-> - "I'd always thought, while slicing up carrots, that the end looked like a cap."（我在切胡萝卜时一直觉得，胡萝卜的末端看起来像一顶帽子。——2015年四川高考完形填空）
+> - The menu features standout starters like spiced carrot soup . `[例]`
+> - Don't throw your carrot tops away! They can make a delicious addition to a salad . `[例]`
+> - If they finished the construction ahead of schedule , they were offered the carrot of a bonus . `[例]`
 
 
 ---

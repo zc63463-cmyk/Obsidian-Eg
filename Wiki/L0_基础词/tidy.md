@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**整洁的，整齐的**==；②相当大的，可观的；
-**v.** ①整理，收拾；
+**adj.** ①==**整洁的，整齐的**== `adj`；②==**相当大的，可观的**== `adj`；
+**v.** ①==**整理，收拾**== `V`；
 
 > [!tip] 原型义
 > **原型义**：整理、使整洁
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She earned a tidy sum from her investments."（她从投资中赚了一笔可观的收入）
+> - The house was clean and tidy. `[例]`
+> - His business deals make him a tidy sum . `[例]`
+> - Tidy (up) these papers before you leave , please . `[例]`
 
 
 ---

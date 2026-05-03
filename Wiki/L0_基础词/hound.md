@@ -124,7 +124,9 @@ hound 源自古英语 *hund*（狗），与德语 *Hund*（狗）同源，原始
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The politician was hounded by the press after the scandal broke."（丑闻曝光后，这位政治家被媒体纠缠不休。）
+> - The reporters wouldn't stop hounding her. `[例]`
+> - Socialists were hounded by the FBI in the 1950s. `[例]`
+> - The hounds picked up a scent. `[例]`
 
 
 ---

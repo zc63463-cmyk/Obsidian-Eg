@@ -131,8 +131,9 @@ mo(=mov-, 移动) + -tion(名词后缀，表示动作/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research found that the motion of ocean currents has a significant impact on global climate patterns."（研究发现洋流的运动对全球气候模式有重大影响）
-> - "She set in motion a chain of events that would change her life forever."（她引发了一连串将永远改变她生活的事件）
+> - He rocked the cradle with a gentle backwards and forwards motion. `[例]`
+> - They showed the goal again in slow motion (= at a slower speed so that the action could be more clearly seen ) . `[例]`
+> - The nurse asked if her motions were regular . `[例]`
 
 
 ---

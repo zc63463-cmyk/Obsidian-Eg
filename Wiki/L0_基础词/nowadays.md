@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**现今，如今，现在**==（与过去对比，强调当前时代）；
+**adv.** ①==**现今，如今，现在**== `adv`（与过去对比，强调当前时代）；
 
 > [!tip] 原型义
 > **原型义**：在现在的日子里（now + a + days = 在现在的时代里）
@@ -124,8 +124,9 @@ now(现在) + a(在……上) + days(日子)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Nowadays, an increasing number of young people prefer to work from home rather than commute to the office."（如今，越来越多的年轻人更喜欢在家办公，而不是通勤去办公室。——考研英语写作社会类话题，Nowadays 是高频句首词）
-> - "Nowadays, many universities offer online courses, which has fundamentally changed the landscape of higher education."（如今，许多大学提供在线课程，这从根本上改变了高等教育的格局。——考研英语阅读教育类话题）
+> - Who remembers those movies nowadays? `[例]`
+> - Nowadays, I bake my own bread rather than buy it. `[例]`
+> - Nowadays people don’t dress up as much as they used to. `[例]`
 
 
 ---

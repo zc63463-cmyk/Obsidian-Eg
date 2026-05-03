@@ -137,8 +137,9 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Cheating is a non-cognizable crime, for example cheating, fraud, forgery, bigamy, selling underweight or adulterated food or creating a public nuisance."（作弊是一种非可诉犯罪，例如作弊、欺诈、伪造、重婚、销售分量不足或掺假食品或制造公共妨害——Kanyashree Exposure Visits Guidelines）
-> - "He tried to cheat the old lady out of her savings."（他试图骗取那位老妇人的积蓄。——高考英语核心词精讲）
+> - Any athlete caught cheating will be disqualified from the competition . `[例]`
+> - He cheats at cards . `[例]`
+> - I suspect he cheats on his taxes (= avoids paying as much tax as he should) . `[例]`
 
 
 ---

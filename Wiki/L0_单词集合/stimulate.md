@@ -133,8 +133,9 @@ stim(=sting, 刺) + -ul(小) + -ate(动词后缀，使动) → 用小刺去刺 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government hopes that lower interest rates will stimulate economic growth and create more jobs."（政府希望降低利率能刺激经济增长并创造更多就业机会。）——考研高频表达
-> - "The professor's thought-provoking lecture stimulated a lively discussion among the students."（教授发人深省的讲座在学生中引发了热烈的讨论。）——考研高频表达
+> - The government plans to cut taxes in order to stimulate the economy . `[例]`
+> - The show was intended to stimulate and amuse . `[例]`
+> - Good teachers should ask questions that stimulate students to think . `[例]`
 ---
 
 

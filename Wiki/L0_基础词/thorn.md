@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**刺，荆棘**==；②==**棘手的事，令人烦恼的人**==（a thorn in someone's side）；
+**n.** ①==**刺，荆棘**== `N`；②==**棘手的事，令人烦恼的人**== `N`（a thorn in someone's side）；
 
 > [!tip] 原型义
 > **原型义**：植物上尖锐的防御结构（带刺的部分）
@@ -127,8 +127,9 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The society has long been a thorn in the side of some in agriculture with its undercover investigations and campaigns against animal cruelty."（该协会长期进行卧底调查和反对虐待动物的运动，早已成为一些农业从业者的眼中钉——Huffington Post）
-> - "The conflict remains a thorn in regional relations and also risks being exploited by regional drug smuggling networks."（该冲突仍然是地区关系中的一根刺，并有被地区毒品走私网络利用的风险——Reuters）
+> - Rose bushes have thorns. `[例]`
+> - The plants here have thorns on their branches. `[例]`
+> - These thorns protect the plant’s very small green leaves. `[例]`
 
 
 ---

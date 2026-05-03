@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**林地，林区**==；②森林地带；
-**adj.** ①林地的，林区特有的；
+**n.** ①==**林地，林区**== `N`；②==**森林地带**== `N`；
+**adj.** ①==**林地的，林区特有的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：长满树木的土地（wood 树木/木头 + land 土地 → 长满树木的土地）
@@ -129,8 +129,8 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The ancient woodland has been designated as a site of special scientific interest."（这片古老林地已被指定为特殊科学兴趣保护区）
-> - "Woodland birds have declined significantly due to habitat loss."（由于栖息地丧失，林地鸟类数量显著下降）
+> - The group has raised money to preserve over two million acres of woodland. `[例]`
+> - Some very rare and special plants grow in these woodlands. `[例]`
 
 ## 复习记录
 

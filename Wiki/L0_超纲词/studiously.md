@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**刻意地，有意地**==；②==**认真地，用功地**==；③故意的（常含回避意味）；
+**adv.** ①==**刻意地，有意地**== `adv`；②==**认真地，用功地**== `adv`；③==**故意的（常含回避意味）**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：用功地（像学者一样认真地做某事）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He studiously avoided any mention of the scandal.（他刻意回避任何关于丑闻的提及。）
-> - The report was studiously neutral in its assessment of the policy.（该报告在政策评估上刻意保持中立。）
+> - She was studiously vague about where she was going. `[例]`
+> - The issue of the environment is studiously ignored by politicians . `[例]`
 
 ## 复习记录
 

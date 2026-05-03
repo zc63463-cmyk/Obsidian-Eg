@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The style of some Black novels, like Jean Toomer's Cane, verges on expressionism or surrealism; ...pit作动词时，除了挖坑、窖藏之外，还有使竞争、使斗争的意思。"（GRE阅读经典长难句——新东方网）
-> - "Many traditional pits have moved their business to electronic trading systems."（许多传统交易池已将业务转移到电子交易系统。——Cambridge Business English）
+> - They'd dug a shallow pit and left the bodies in it. `[例]`
+> - These pits in my skin are from when I had chickenpox . `[例]`
+> - The coal-mining industry wants new pits to be opened . `[例]`
 
 
 ---

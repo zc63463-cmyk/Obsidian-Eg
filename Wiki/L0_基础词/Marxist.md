@@ -130,8 +130,9 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A combination of the Great Depression and Marxist ideology led to widespread state ownership of productive enterprises in the post-1945 era."（大萧条与马克思主义意识形态的结合，导致了1945年后生产性企业的广泛国有化。——Merriam-Webster Dictionary）
-> - "Che Guevara was a Marxist jungle fighter."（切·格瓦拉是一名马克思主义丛林战士。——Cambridge Dictionary）
+> - A 1978 coup brought Marxists to power . `[例]`
+> - He branded the Senator a "Marxist" for his economic ideas . `[例]`
+> - Though still a Marxist he was disillusioned with the Communist Party . `[例]`
 
 
 ---

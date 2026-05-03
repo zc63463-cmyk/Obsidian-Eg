@@ -124,8 +124,9 @@ lingu(舌头/语言，拉丁语 *lingua*) + -ist(人) + -ic(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Linguistic diversity is declining as fewer people speak indigenous languages."（随着越来越少的人说土著语言，语言多样性正在下降）
-> - "Children have a remarkable linguistic ability to acquire multiple languages simultaneously."（儿童具有同时习得多种语言的非凡语言能力）
+> - I'm particularly interested in the linguistic development of young children . `[例]`
+> - Linguistic and cultural barriers. `[例]`
+> - New developments in linguistic theory. `[例]`
 
 
 ---

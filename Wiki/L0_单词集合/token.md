@@ -126,8 +126,9 @@ to-(朝向) + -ken(古英语"显示、表明"的词根)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He gave her a small gift as a token of his appreciation."（他送了她一个小礼物以表感谢。）——考研高频表达
-> - "By the same token, we should not ignore the potential risks."（同样地，我们也不应忽视潜在的风险。）——考研高频表达
+> - As a token of our gratitude for all that you have done, we would like you to accept this small gift . `[例]`
+> - It doesn't have to be a big present - it's just a token. `[例]`
+> - He always bought me tokens for a department store for my birthday . `[例]`
 
 ---
 

@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a wide variety of factors contribute to..."（各种各样的因素导致了……）——考研阅读/作文超高频句式
-> - "for a variety of reasons"（由于种种原因）——考研写作万能搭配
-> - "the variety of life on Earth"（地球上生命的多样性）——生态类阅读话题
+> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
+> - When planning meals , you need to think about variety and taste as well as nutritional value . `[例]`
+> - Sexual reproduction serves to create genetic variety. `[例]`
 
 ---
 

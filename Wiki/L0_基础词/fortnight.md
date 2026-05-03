@@ -116,7 +116,9 @@ fortnight 源自古英语 *fēowertyne niht*（十四夜），*fēowertyne*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conference is scheduled to take place in a fortnight."（会议定于两周后举行。）
+> - How much would it cost to hire a car for a fortnight? `[例]`
+> - She felt rejuvenated by her fortnight in the Bahamas. `[例]`
+> - First prize is a fortnight in Barbados and second prize is a weekend in Rome. `[例]`
 
 
 ---

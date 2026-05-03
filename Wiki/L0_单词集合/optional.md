@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可选择的，非强制的，选修的**==
+**adj.** ①==**可选择的，非强制的，选修的**== `adj`
 
 > [!tip] 原型义
 > **原型义**：可以根据自己的意愿选择是否参与
@@ -123,8 +123,9 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The course includes both compulsory and optional modules."（这门课程既包括必修模块，也包括选修模块。）——考研高频表达
-> - "Attendance at the seminar is optional for all students."（所有学生均可自愿参加研讨会。）——考研高频表达
+> - English is compulsory for all students , but art and music are optional. `[例]`
+> - I think military service should be completely optional. `[例]`
+> - Optional plug-ins cost a further $50 on average . `[例]`
 
 ---
 

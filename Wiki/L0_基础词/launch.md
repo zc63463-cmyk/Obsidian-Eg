@@ -132,9 +132,9 @@ launch 源自古法语 *lanchier*（投掷），可能源自拉丁语 *lancea*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "That's one reason why we have launched Arc, a new publication dedicated to the near future."（这就是我们创办《Arc》杂志的原因之一，这本新的出版物专注于近期的未来——2013年考研英语阅读理解）
-> - "People are absorbed into 'a culture of consumption' launched by the 19th-century department stores that offered 'vast arrays of goods in an elegant atmosphere'."（人们沉浸在19世纪百货商店发起的"消费文化"中，这些百货商店"在优雅的环境中提供大量商品"——2006年考研英语一 Text 1）
-> - "The Breakthrough Prize in Life Sciences, launched this year, takes an unrepresentative view of what the life sciences..."（今年启动的生命科学突破奖，对生命科学的范围持有一种不具代表性的观点——2014年考研英语一 Text 3）
+> - How much champagne will we need for the launch? `[例]`
+> - Illness prevented her from attending the launch party for her latest novel . `[例]`
+> - The launch of the space shuttle was delayed for 24 hours because of bad weather . `[例]`
 
 
 ---

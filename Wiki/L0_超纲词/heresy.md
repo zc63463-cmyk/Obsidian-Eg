@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**异端邪说，异教**== `be accused of heresy` [书面] `religious heresy` [学术]；②（引申）离经叛道的信念/行为；
+**n.** ①==**异端邪说，异教**== `N`；②==**（引申）离经叛道的信念/行为**== `N`；
 > [!tip] 原型义
 > **原型义**：异端邪说（违背正统信仰的学说）
 > **延伸维度**：社会路径
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Galileo's heliocentric theory was condemned as heresy by the Catholic Church in the seventeenth century. `[例]`；
-> - In the field of economics, suggesting that free markets may not always be efficient is sometimes treated as heresy. `[例]`；
+> - Radical remarks like this amount to heresy for most members of the Republican party . `[例]`
+> - She committed the heresy of playing a Lady Gaga song on a classical music station . `[例]`
 
 ## 复习记录
 

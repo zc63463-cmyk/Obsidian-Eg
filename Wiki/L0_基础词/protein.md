@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**蛋白质**==；
+**n.** ①==**蛋白质**== `N`；
 
 > [!tip] 原型义
 > **原型义**：最重要的（源自希腊语 *prōteios*，"第一的、最重要的"）
@@ -119,8 +119,9 @@ prote-(=prot-, 第一的/最重要的，希腊语 *prōtos*) + -in(化学物质�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Protein is essential for building and repairing body tissues."（蛋白质对于构建和修复身体组织至关重要。）
-> - "A balanced diet should include adequate protein, carbohydrates, and fats."（均衡饮食应包含充足的蛋白质、碳水化合物和脂肪。）
+> - Vegans get all the protein they need from nuts , seeds , beans and cereals . `[例]`
+> - Meat and fish are a vital source of protein. `[例]`
+> - It gets slimy when you cook it because it has mucilage inside it – a mix of protein and sugar. `[例]`
 
 
 ---

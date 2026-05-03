@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**建立理论，创立学说**==；②推测，假设（理论化地思考）；
+**v.** ①==**建立理论，创立学说**== `V about/on N`；②==**推测，假设（理论化地思考）**== `V about/on N`；
 
 > [!tip] 原型义
 > **原型义**：建立理论（用推理形成关于某事的理论）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Scientists have theorized that the universe began with a massive explosion."（科学家们理论上认为宇宙始于一次巨大的爆炸）
-> - "It is easy to theorize about poverty from the comfort of an office."（坐在舒适的办公室里对贫困问题进行理论化思考是很容易的）
+> - It's easy to theorize about what might have happened . `[例]`
+> - Investigators theorized that ice had built up on the wings of the plane , causing it to stall soon after takeoff. `[例]`
 
 ## 复习记录
 

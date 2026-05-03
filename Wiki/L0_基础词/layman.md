@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is not difficult to see this practice being expanded to include advice on marital problems and shyness."（不难看出，这种做法可能会扩展到包括提供关于婚姻问题和害羞的建议。——Times, Sunday Times）
-> - "The stresses did not just come from marital problems."（压力不仅仅来自婚姻问题。——The Sun）
-> 注：layman 常出现在学术文章中，如"explained in layman's terms"（用通俗语言解释）。
+> - The book is supposed to be the layman’s guide to home repair . `[例]`
+> - To explain something in layman’s terms (= in simple language). `[例]`
+> - For a layman , he knows a lot about the law. `[例]`
 
 
 ---

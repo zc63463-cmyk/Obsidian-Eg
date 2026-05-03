@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不顾及他人的，自私的**==；②欠考虑的，轻率的；③无思想的；
+**adj.** ①==**不顾及他人的，自私的**== `adj`；②==**欠考虑的，轻率的**== `adj`；③==**无思想的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不考虑别人的（缺乏思考的）
@@ -128,8 +128,8 @@ thought（思考）+ -less（没有…的，否定后缀）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It was thoughtless of him to forget her birthday."（他忘了她的生日，真是太不体贴了）
-> - "A thoughtless comment can cause lasting damage to a relationship."（一句欠考虑的话可能对关系造成持久的伤害）
+> - It was thoughtless not to call and say you'd be late. `[例]`
+> - She's not intentionally unkind - she's just a little thoughtless sometimes. `[例]`
 
 ## 复习记录
 

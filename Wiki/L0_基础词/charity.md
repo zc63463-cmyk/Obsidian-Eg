@@ -130,8 +130,9 @@ charity 源自古法语 *charité*，源自拉丁语 *caritas*（爱、仁慈）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The charity organization provides food and shelter for the homeless."（该慈善机构为无家可归者提供食物和住所——考研社会类语料）
-> - "He argued that the government should not rely on private charity to provide social services."（他认为政府不应依赖私人慈善来提供社会服务——考研政治类语料）
+> - UNICEF is an international charity. `[例]`
+> - She does a lot of work for charity. `[例]`
+> - People tend to give to (= give money to) charity at Christmas time . `[例]`
 
 
 ---

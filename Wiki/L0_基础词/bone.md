@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**骨头，骨骼**== `N`；②==**核心，本质**== `the bare N`；③骨制工具 `N`；
-**v.** ①剔骨 `V N`；②（学习等）刻苦钻研 `V up on N`；
+**n.** ①==**骨头，骨骼**==；②==**核心，本质**==；③骨制工具；
+**v.** ①剔骨；②（学习等）刻苦钻研；
 
 > [!tip] 原型义
 > **原型义**：骨头（构成身体框架的硬组织）
@@ -133,10 +133,9 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He broke a bone in his left arm." `[COCA-FICT]`
-> - "Shops cut prices to the bone in the January sales." `[COCA-NEWS]`
-> - "Their annual budget has already been pared to the bone." `[COCA-NEWS]`
-> - "I know I am going to fail this exam — I can feel it in my bones." `[COCA-FICT]`
+> - The child was so thin that you could see her bones. `[例]`
+> - During the excavations, numerous artefacts and human bones were found . `[例]`
+> - Previously dated animal bones from the cave were more than 30,000 years old , contemporary with carved stone figures found in the same cave . `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ toler-(忍受) + -ance(名词后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Today, when time zones have less and less meaning, there is little tolerance for offices' closing for lunch."（如今，时区的意义越来越小，人们对办公室午间关门的做法几乎没有容忍度。）——考研真题
-> - "In a world of increasing diversity, tolerance is an essential quality."（在一个日益多元化的世界里，宽容是一种不可或缺的品质。）——考研高频表达
+> - This period in history is not noted for its religious tolerance. `[例]`
+> - Parts that are made to tolerances of a thousandth of an inch. `[例]`
+> - There is zero tolerance of violence at this school – if you’re caught fighting , you’ll be suspended . `[例]`
 
 ---
 

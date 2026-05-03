@@ -131,8 +131,9 @@ vol/volu(滚，卷) + -ume(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Beethoven's habit of increasing the volume with an intense crescendo and then abruptly following it with a sudden soft passage was only rarely used by composers before him."（贝多芬惯以超凡的力度加大音响，随后突然进入一个意想不到的柔和乐段。这种手法在前人的作品中极为罕见。）——2014年翻译
-> - "The volume of trade between the two countries has increased significantly."（两国之间的贸易量显著增加。）——考研高频表达
+> - Which of these bottles do you think has a greater volume? `[例]`
+> - It's the sheer volume of traffic in the city that is causing the problems . `[例]`
+> - Could you turn the volume down, please , I'm trying to sleep . `[例]`
 ---
 
 

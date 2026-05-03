@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "During the First World War, the Battle of Jutland in the North Sea west of Jutland was one of the largest naval battles in history."（第一次世界大战期间，在日德兰半岛以西北海的日德兰海战是历史上最大的海战之一。——Cambridge Dictionary）
-> - "His orders were to protect the port from naval attack."（他的命令是保护港口免受海军攻击。——Longman Dictionary）
+> - A major naval battle was fought near here. `[例]`
+> - Many diplomats attended a naval review to mark the anniversary of the end of the war . `[例]`
+> - Allegations of sexual harassment have led to disciplinary proceedings being taken against three naval officers . `[例]`
 
 
 ---

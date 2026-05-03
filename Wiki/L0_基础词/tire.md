@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**疲劳，疲倦**==；②==**厌倦，厌烦**==；
-**vt.** ①==**使疲劳，使疲倦**==；②==**使厌倦**==；
-**n.** ①==**轮胎**==（美式英语，= tyre）；
+**vi.** ①==**疲劳，疲倦**== `V`；②==**厌倦，厌烦**== `V`；
+**vt.** ①==**使疲劳，使疲倦**== `V N`；②==**使厌倦**== `V N`；
+**n.** ①==**轮胎**== `N`（美式英语，= tyre）；
 
 > [!tip] 原型义
 > **原型义**：耗尽力气（使精力耗尽，源自古英语 *teorian*）
@@ -132,8 +132,9 @@ tire 源自古英语 *teorian*（失败、停止、疲劳），词源不确定�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He never tires of helping others, no matter how busy he is."（无论多忙，他从不厌倦帮助别人。——通用例句）
-> - "The long journey tired the old man out."（漫长的旅途使这位老人精疲力竭。——通用例句）
+> - She's been leading throughout the race , but it now looks as if she's tiring. `[例]`
+> - Even walking up the stairs at work tires me these days . `[例]`
+> - Weakened by the infection , he tires easily . `[例]`
 
 
 ---

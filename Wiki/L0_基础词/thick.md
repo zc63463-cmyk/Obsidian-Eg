@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**厚的，粗的**==；②浓的，密集的（雾/烟/森林等）；③（声音）沙哑的；④愚笨的；⑤亲密的；
-**adv.** ①厚厚地；②密集地；
+**adj.** ①==**厚的，粗的**== `adj`；②==**浓的，密集的（雾/烟/森林等）**== `adj`；③==**（声音）沙哑的**== `adj`；④==**愚笨的**== `adj`；⑤==**亲密的**== `adj`；
+**adv.** ①==**厚厚地**== `adv`；②==**密集地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：厚的（有较大厚度/密度/浓度）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The forest was thick with the smell of damp earth and decaying leaves."（森林里弥漫着潮湿泥土和腐烂树叶的浓重气味。——2010年考研英语一阅读真题）
-> - "I will go on loving James through thick and thin no matter what happens."（不管发生什么，不管经历多少艰辛，我都会一直爱着詹姆斯。——语料库例句）
+> - She picked up a thick volume and began to read out loud . `[例]`
+> - The walls are two metres thick. `[例]`
+> - Thick, black smoke was pouring out of the chimney . `[例]`
 
 
 ---

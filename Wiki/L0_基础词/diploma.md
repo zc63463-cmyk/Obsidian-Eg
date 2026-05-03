@@ -124,7 +124,9 @@ dipl(o)-(双/折叠，希腊语 *diploun* "对折") + -ma(名词后缀，表结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A college diploma is no longer a guarantee of a good job.（大学文凭不再是好工作的保证——考研阅读常见话题）
+> - A diploma in business studies. `[例]`
+> - It’s hard to find a good job if you don’t have a high school diploma. `[例]`
+> - She is taking a diploma in management studies. `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**花（尤指果树的花）**== `N`；②==**开花期**== `in N`；③==**兴旺时期**== `N`；
-**vi.** ①==**开花**== `V`；②==**发展，成长**== `V`；③繁荣，兴旺；
+**n.** ①==**花（尤指果树的花）**==；②==**开花期**==；③==**兴旺时期**==；
+**vi.** ①==**开花**==；②==**发展，成长**==；③繁荣，兴旺；
 
 > [!tip] 原型义
 > **原型义**：果树的花，开花（古英语 *blōstm*，"flower, bloom"）
@@ -132,9 +132,9 @@ blossom(果树的花/开花，古英语 *blōstm*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cherry tree is beginning to blossom." `[COCA-ACAD]`
-> - "She has really blossomed recently." `[COCA-ACAD]`
-> - "The tree was covered with white blossoms." `[COCA-ACAD]`
+> - The cherry tree is beginning to blossom. `[例]`
+> - She has really blossomed recently . `[例]`
+> - They are all blossoming into attractive , confident adults . `[例]`
 
 
 ---

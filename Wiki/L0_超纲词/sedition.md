@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**煽动叛乱，煽动颠覆**==；②叛乱言论，煽动性言论；
+**n.** ①==**煽动叛乱，煽动颠覆**== `N`；②==**叛乱言论，煽动性言论**== `N`；
 
 > [!tip] 原型义
 > **原型义**：拉开/分离→煽动叛乱（把人民从政府身边"拉开"）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He was arrested and charged with sedition for publishing articles critical of the government."（他因发表批评政府的文章而被捕，并被指控煽动叛乱。）
-> - "The Sedition Act of 1798 made it a crime to publish false or malicious writings about the government."（1798年的《煽动叛乱法》将发表关于政府的虚假或恶意文章定为犯罪。）
+> - He himself was tried for sedition and sentenced to ten years in jail . `[例]`
+> - To be charged with sedition. `[例]`
 
 ## 复习记录
 

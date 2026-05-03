@@ -126,8 +126,9 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The advent of new technologies has added about 4.2 million barrels per day to the crude oil market."（新技术的出现使原油市场每天增加了约420万桶——2018年12月六级阅读Section C）
-> - "Furthermore, with continuing advances in individual genome sequencing and the advent of personalized medicine, more non-scientists will need to be comfortable analyzing complex scientific information."（此外，随着个人基因组测序的不断进步和个性化医疗的到来，更多非科学家将需要能够自如地分析复杂的科学信息——2018年12月六级阅读Section C）
+> - The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. `[真题]`
+> - Life was transformed by the advent of the steam engine . `[例]`
+> - Transportation was transformed by the advent of the internal combustion engine . `[例]`
 
 
 ---

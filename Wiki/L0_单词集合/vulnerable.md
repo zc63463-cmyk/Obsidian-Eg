@@ -123,8 +123,9 @@ vulner-(伤害) + -able(可以被……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children are the most vulnerable to the influence of advertisements."（儿童最容易受到广告的影响。）——2017考研英语一阅读
-> - "The elderly and young children are particularly vulnerable to infectious diseases."（老年人和幼儿特别容易感染传染病。）——考研高频表达
+> - I felt very vulnerable, standing there without any clothes on. `[例]`
+> - It is on economic policy that the government is most vulnerable. `[例]`
+> - Tourists are more vulnerable to attack , because they do not know which areas of the city to avoid . `[例]`
 
 ---
 

@@ -130,8 +130,9 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's no surprise that Jennifer Senior's insightful, provocative magazine cover story on the joys of parenting is arousing controversy."（Jennifer Senior 关于为人父母之乐的深刻而具有挑衅性的杂志封面报道引发争议，这并不令人意外。——2011年考研英语阅读Text4，cover 作"封面报道"的经典真题）
-> - "Many people mistakenly believe the term drug refers only to some sort of medicine or an illegal chemical taken by drug addicts."（许多人错误地认为 drug 这个词仅仅指某种药物或吸毒者服用的非法化学品。——1997年考研英语阅读Text1，cover 的语境关联：cover a topic = 涉及话题）
+> - The light was so bright that I had to cover my eyes . `[例]`
+> - Snow covered the hillsides . `[例]`
+> - She covered him with a blanket . `[例]`
 
 ---
 

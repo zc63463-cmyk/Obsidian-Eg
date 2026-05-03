@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**模拟，仿真**==；②假装，伪装；③模拟训练；
+**n.** ①==**模拟，仿真**== `N`；②==**假装，伪装**== `N`；③==**模拟训练**== `N`；
 
 > [!tip] 原型义
 > **原型义**：模仿真实情况或过程的行为（用模型或计算机程序再现现实）
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Computer simulations have become an essential tool in climate research."（计算机模拟已成为气候研究中不可或缺的工具。）
+> - The manager prepared a computer simulation of likely sales performance for the rest of the year . `[例]`
+> - Young should have been booked for simulation, not awarded a penalty . `[例]`
 
 ## 复习记录
 

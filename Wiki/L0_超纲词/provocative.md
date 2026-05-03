@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**挑衅的，煽动性的**==；②==**引发思考的，引人深思的**==；③==**撩人的，刺激欲望的**==；
+**adj.** ①==**挑衅的，煽动性的**== `adj`；②==**引发思考的，引人深思的**== `adj`；③==**撩人的，刺激欲望的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：引发反应的（挑起某种情绪或行为）
@@ -131,7 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The professor asked a provocative question that sparked a lively debate among students."（教授问了一个引人深思的问题，引发了学生之间的热烈讨论。）
+> - The programme will take a detailed and provocative look at the problem of homelessness . `[例]`
+> - In a deliberately provocative speech , she criticized the whole system of government . `[例]`
 
 ## 复习记录
 

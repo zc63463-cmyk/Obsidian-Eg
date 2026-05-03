@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**猪（尤指家猪）**==；②猪猡，令人讨厌的人；
+**n.** ①==**猪（尤指家猪）**== `N`；②==**猪猡，令人讨厌的人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：猪（家猪/野猪）
@@ -118,8 +118,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The swine flu pandemic of 2009 caused widespread panic."（2009年的猪流感大流行引起了广泛恐慌）
-> - "Cast pearls before swine" 出自《圣经·马太福音》，比喻把珍贵的东西给不识货的人。
+> - Her ex-husband sounds like an absolute swine. `[例]`
+> - He can be such a swine sometimes. `[例]`
 
 ## 复习记录
 

@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a tradition that has been passed down through generations."（这是一个代代相传的传统。）——考研阅读常见句式
-> - "The university has a long tradition of academic excellence."（这所大学拥有悠久的学术卓越传统。）——考研翻译
-> - "They decided to break with tradition and hold the ceremony outdoors."（他们决定打破传统，在户外举行仪式。）——考研阅读
+> - Fireworks have long been an American tradition on the Fourth of July . `[例]`
+> - Switzerland has a long tradition of neutrality . `[例]`
+> - There's a tradition in our office that when it's somebody's birthday , they bring in a cake for all of us to share . `[例]`
 
 ---
 

@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity."（坐落于太平洋中，莫纳克亚山的峰顶耸立于地球浓密大气层的上方，那里的条件使望远镜能够获得无与伦比的清晰图像——2019年英语一完形填空）
-> - "As the brain attempts to force the unsteady hand to do its bidding, the tension between the two results in a more compressed, psychologically denser expression."（当大脑试图迫使不稳的手执行其指令时，两者之间的张力产生了一种更压缩、心理上更密集的表达——考研阅读高频表达）
-> - "This development has enthroned the South as America's most densely populated region for the first time in the history of the nation's head counting."（这一发展使南方首次成为美国人口普查历史上人口最密集的地区——1998年英语一Text 4）
+> - The plane crashed in heavy rain and dense fog . `[例]`
+> - The body was found hidden in dense undergrowth . `[例]`
+> - Plutonium is very dense. `[例]`
 
 
 ---

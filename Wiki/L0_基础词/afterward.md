@@ -132,8 +132,9 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They separated, and soon afterward Jane left the country."（他们分手了，不久之后简就离开了这个国家。——考研阅读相关话题）
-> - "He further said that he had received three spoons at that time, one of which mysteriously disappeared shortly afterward."（他进一步说当时他收到了三把勺子，其中一把不久后神秘消失了。——考研翻译相关话题）
+> - They separated , and soon afterward Jane left the country . `[例]`
+> - We had tea , and afterward we sat in the garden for a while. `[例]`
+> - They separated , and shortly afterward Jerry left the country . `[例]`
 
 
 ---

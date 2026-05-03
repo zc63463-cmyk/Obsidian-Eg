@@ -131,8 +131,9 @@ trans-(跨越) + [[port]](携带、运送)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has invested heavily in public transport to reduce traffic congestion."（政府在公共交通方面投入了大量资金，以减少交通拥堵。）——考研高频表达
-> - "The goods were transported by rail to the distribution center."（货物通过铁路运输到配送中心。）——考研高频表达
+> - The transport of live animals. `[例]`
+> - The company will arrange transport from the airport . `[例]`
+> - Passenger organizations yesterday called for greater investment in public transport (= buses , trains , etc. available for everyone to use) . `[例]`
 
 ---
 

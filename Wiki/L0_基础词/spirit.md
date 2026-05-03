@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The resilience of the human spirit is most evident in times of crisis, when ordinary people demonstrate extraordinary courage and compassion."（人类精神的韧性在危机时刻最为明显，普通人展现出非凡的勇气和同情心——考研阅读人文话题相关表达）
-> - "Despite facing numerous setbacks, she remained in high spirits, believing that every failure was simply a stepping stone toward eventual success."（尽管面临诸多挫折，她依然保持高昂的精神状态，相信每一次失败都不过是通往最终成功的垫脚石——考研写作励志话题相关表达）
+> - The players have a very strong team spirit (= loyalty to each other) . `[例]`
+> - We acted in a spirit of cooperation . `[例]`
+> - As soon as I left the house and drove away, my spirits soared . `[例]`
 
 
 ---

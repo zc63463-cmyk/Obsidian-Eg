@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**碰撞，撞击**== `bump into` `bump against`；②颠簸而行 `bump along`；
-**n.** ①==**碰撞，肿块**== `a bump on the head`；②（路面上的）凸起 `a bump in the road`；
+**v.** ①==**碰撞，撞击**==；②颠簸而行；
+**n.** ①==**碰撞，肿块**==；②（路面上的）凸起；
 
 > [!tip] 原型义
 > **原型义**：碰撞、撞击（身体或物体之间的突然接触）
@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Tim was a clumsy boy, always bumping into the furniture. `[语料库]`
-> - On my way out of the compound one morning, I bumped into Sara. `[语料库]`
-> - We bumped along the dirt road in our car, holding on to our seats. `[语料库]`
-> - She bumped her arm on the table and let out a cry of pain. `[真题]`
+> - She bumped into his tray , knocking the food onto his lap . `[例]`
+> - I bumped my head on the shelf as I stood up. `[例]`
+> - We bumped along the dirt road in our car , holding on to our seats . `[例]`
 
 
 ---

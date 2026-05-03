@@ -130,8 +130,9 @@ multi-(许多，多) + ply(=plic，折叠)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Efficiency will multiply when the new system is introduced."（引入新系统后效率将成倍增长——考研翻译常见表达）
-> - "The rabbits multiplied rapidly in the favorable conditions."（在有利条件下兔子迅速繁殖——考研阅读常见搭配）
+> - When you multiply two odd numbers , is the answer always odd ? `[例]`
+> - I remember learning how to multiply and divide . `[例]`
+> - Alzheimer's Disease affects more than 4 million Americans today, and the number is expected to multiply rapidly as the population ages . `[例]`
 
 
 ---

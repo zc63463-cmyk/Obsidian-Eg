@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**机会，时机**==；②==**好运，幸运的时机**==；
+**n.** ①==**机会，时机**== `N`；②==**好运，幸运的时机**== `N`；
 
 > [!tip] 原型义
 > **原型义**：顺风驶入港口的时机（ favorable wind toward port）
@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has created new opportunities for education."（互联网为教育创造了新的机会）——考研阅读高频话题
-> - "Equal opportunity is a fundamental principle of modern society."（机会均等是现代社会的基本原则）——社会/政治类阅读
-> - "She seized the opportunity to advance her career."（她抓住了晋升事业的机会）——人物/职场类阅读语境
+> - Everyone will have an opportunity to comment . `[例]`
+> - I was never given the opportunity of going to college . `[例]`
+> - The exhibition is a unique opportunity to see her later work . `[例]`
 
 ---
 

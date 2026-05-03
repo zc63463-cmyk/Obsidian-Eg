@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**捕食性的，食肉的**==；②==**掠夺性的，剥削的**==；
+**adj.** ①==**捕食性的，食肉的**== `adj`；②==**掠夺性的，剥削的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：捕食性的（以猎取其他生物为生的）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Predatory lending practices target vulnerable borrowers with high-interest loans they cannot afford to repay."（掠夺性贷款行为以弱势借款人为目标，向他们提供无法偿还的高息贷款。）
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+> - The owl is a predatory bird that kills its prey with its claws . `[例]`
 
 ## 复习记录
 

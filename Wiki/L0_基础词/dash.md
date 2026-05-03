@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is nothing for a big, strong schoolboy to elbow an elderly woman aside in the dash for the last remaining seat on the tube or bus."（对于一个高大强壮的男学生来说，在冲向地铁或公交车上最后一个空座时，用胳膊肘把一位老妇人挤到一边是家常便饭——考研英语阅读）
-> - "Shop assistants won't bother to assist, taxi drivers growl at each other as they dash dangerously round corners."（店员不会费心帮忙，出租车司机在危险地冲过拐角时互相怒吼——考研英语阅读）
+> - The dog ran off, and she dashed after him. `[例]`
+> - I've been dashing around all day . `[例]`
+> - I must dash - I've got to be home by seven. `[例]`
 
 
 ---

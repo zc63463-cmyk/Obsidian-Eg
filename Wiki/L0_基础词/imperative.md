@@ -134,8 +134,9 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If cities are to remain pleasant places to live in at all, however, it seems imperative, not only that communications in transport should be improved, but also that communication between human beings should be kept smooth and polite."（然而，如果城市要继续保持宜人的居住环境，不仅改善交通通讯，而且保持人际沟通的顺畅与礼貌，似乎是绝对必要的。——考研阅读真题）
-> - "The most important political imperative is to limit the number of US casualties."（最重要的政治当务之急是限制美军伤亡人数。——考研翻译常见结构）
+> - The president said it was imperative that the release of all hostages be secured . `[例]`
+> - It's imperative to act now before the problem gets really serious . `[例]`
+> - The rule that there must be a subject applies only to declarative and interrogative clauses , and not to imperative clauses . `[例]`
 
 
 ---

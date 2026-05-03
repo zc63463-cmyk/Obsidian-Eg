@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The waves crashed against the rocks, sending up clouds of white foam."（海浪撞击礁石，激起大片白色泡沫——考研阅读自然描写常见表达）
-> - "Scientists have developed a new type of foam material that can absorb oil spills more effectively."（科学家开发了一种新型泡沫材料，能更有效地吸收石油泄漏物——考研阅读科技话题常见表达）
+> - A flame-smothering chemical foam. `[例]`
+> - He was having convulsions and foaming at the mouth . `[例]`
+> - The waves were high and capped with foam. `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ algorithm 源自阿拉伯数学家 Muhammad ibn Musa al-Khwarizmi（花拉子密
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We developed a strictly worded algorithm for v-CPR, adapted from the ALERT t-CPR protocol, with additional re-evaluation loops, every 2 minutes."（我们开发了一个措辞严格的v-CPR算法，改编自ALERT t-CPR协议，每2分钟增加一次重新评估循环——Critical Care）
-> - "The comparison of this scheme with a strictly local algorithm lacking communication shows that the DIAMoND is more effective."（将此方案与缺乏通信的严格本地算法进行比较，表明DIAMoND更有效——ludwig.guru 例句）
+> - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
+> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
+> - A digital fingerprint of the document is created using a specially developed set of algorithms. `[例]`
 
 
 ---

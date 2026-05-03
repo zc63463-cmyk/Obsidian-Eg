@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**副标题**==；②==**字幕**==（电影/电视的翻译文字）；
-**v.** ①给……加副标题；②给……加字幕；
+**n.** ①==**副标题**== `N`；②==**字幕**== `N`（电影/电视的翻译文字）；
+**v.** ①==**给……加副标题**== `V`；②==**给……加字幕**== `V`；
 
 > [!tip] 原型义
 > **原型义**：标题下面的（在主标题之下的补充标题）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The movie is in French with English subtitles.（这部电影是法语对白，配有英文字幕。）
-> - The book's subtitle, "A Guide to Modern Living," captures its essence perfectly.（这本书的副标题"现代生活指南"完美地捕捉了它的精髓。）
+> - The subtitle of this biography is "The Making of an American". `[例]`
+> - The Chinese movie was shown with English subtitles. `[例]`
 
 ## 复习记录
 

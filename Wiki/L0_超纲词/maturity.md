@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**成熟**== `N` [正面] `reach N` [中性]；②==**（票据等的）到期**== `N` [正式/金融]；③==**（地质/生物）成熟期**== `N` [学术]；
+**n.** ①==**成熟**== `N`；②==**（票据等的）到期**== `N`；③==**（地质/生物）成熟期**== `N`；
 
 > [!tip] 原型义
 > **原型义**：成熟（发展到完全状态）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Emotional maturity is not simply a function of age; it requires self-awareness and the ability to manage one's emotions effectively. [C]
-> - `[例]` The government bonds will reach maturity in 2035, at which point the principal will be repaid to investors. [C]
+> - How long does it take for the chicks to grow to maturity? `[例]`
+> - The investment reaches maturity after ten years . `[例]`
 
 ## 复习记录
 

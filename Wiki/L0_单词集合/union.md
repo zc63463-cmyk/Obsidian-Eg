@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "trade union"（工会）——考研阅读社会类文章高频表达，讨论劳资关系
-> - "the European Union"（欧盟）——考研阅读政治经济类文章必考专有名词
-> - "the union of art and science"（艺术与科学的结合）——学术文化类文章
+> - Meanwhile the debate on European political and monetary union continues . `[例]`
+> - She believes that the union (= marriage ) of man and woman in holy matrimony is for ever . `[例]`
+> - The breathing exercises are designed to help forge a union of body , mind and spirit . `[例]`
 
 ---
 

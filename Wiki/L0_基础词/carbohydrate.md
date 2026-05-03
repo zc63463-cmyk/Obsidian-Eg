@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**碳水化合物，糖类**== `N` [科学]；②==**含碳水化合物的食物**== `N` [日常]；
+**n.** ①==**碳水化合物，糖类**==；②含碳水化合物的食物；
 
 > [!tip] 原型义
 > **原型义**：碳水化合物（碳+水构成的有机物）
@@ -127,9 +127,9 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Also, not all of the carbon dioxide that enters the leaf is synthesized into carbohydrates. `[真题]`
-> - On a weight-reduction diet, one typically avoids carbohydrates. `[COCA-NEWS]`
-> - Carbohydrate that can be used by humans produces four calories per gram. `[COCA-ACAD]`
+> - Whole grains are full of complex carbohydrates, vitamins , and minerals . `[例]`
+> - Eat your carbohydrates within two hours after your workout . `[例]`
+> - For example, rice is almost entirely carbohydrate, and butter is almost pure fat. `[例]`
 
 
 ---

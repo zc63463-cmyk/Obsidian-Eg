@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students should acquaint themselves with the library's online resources before beginning their research projects."（学生在开始研究项目之前，应该先熟悉图书馆的在线资源——考研阅读教育话题相关表达）
-> - "The report acquaints readers with the latest developments in artificial intelligence and its potential impact on the job market."（该报告使读者了解人工智能的最新发展及其对就业市场的潜在影响——考研翻译科技话题相关表达）
+> - Take time to acquaint yourself with the rules . `[例]`
+> - The Broadcasting Museum offers workshops to acquaint children with the world of radio . `[例]`
+> - The museum offers workshops to acquaint children with the world of radio . `[例]`
 
 
 ---

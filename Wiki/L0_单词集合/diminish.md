@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The importance of this discovery should not be diminished by later findings."（后来发现的新证据不应削弱这一发现的重要性。）——考研高频表达
-> - "As the distance increased, the sound of the explosion gradually diminished."（随着距离的增加，爆炸声逐渐减弱。）——考研高频表达
-> - "The new evidence diminished the credibility of the witness's testimony."（新证据削弱了证人证词的可信度。）——考研高频表达
+> - I don't want to diminish her achievements , but she did have a lot of help . `[例]`
+> - These memories will not be diminished by time . `[例]`
+> - What he did has seriously diminished him in many people's eyes . `[例]`
 
 ---
 

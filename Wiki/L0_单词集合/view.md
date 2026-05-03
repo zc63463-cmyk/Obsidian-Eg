@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many scientists subscribe to the view that global warming is largely caused by human activities."（许多科学家认同全球变暖主要由人类活动造成的观点。）——考研高频表达
-> - "In my view, the government should invest more in renewable energy."（在我看来，政府应该在可再生能源方面投入更多。）——考研高频表达
+> - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
+> - Most scientists and experts sharply dispute Hardy's views. `[真题]`
+> - She expresses self-contradictory views. `[真题]`
 
 ---
 

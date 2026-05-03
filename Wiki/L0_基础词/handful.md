@@ -126,8 +126,9 @@ handful = [[hand]]（手）+ [[full]]（满的）。手握满 = 一把。这是�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Only a handful of students attended the lecture due to the severe weather."（由于恶劣天气，只有少数学生参加了讲座。——考研英语真题相关话题，讨论教育场景）
-> - "The new puppy is quite a handful, constantly chewing on furniture and shoes."（这只新来的小狗真难对付，不停地啃家具和鞋子。——考研相关语料，描述日常生活）
+> - He pulled out a handful of coins from his pocket . `[例]`
+> - She invited all her friends to her party , but only a handful of them turned up. `[例]`
+> - Her older son is fine but the little one is a bit of a handful. `[例]`
 
 
 ---

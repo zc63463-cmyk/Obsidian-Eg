@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**侵权行为（民事侵权）**==；
+**n.** ①==**侵权行为（民事侵权）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：侵权行为（侵害他人合法权益的民事违法行为）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Tort law provides remedies for individuals who have been harmed by the wrongful conduct of others."（侵权法为因他人不当行为而受到损害的个人提供救济）
-> - "The company faced a tort claim over the defective product."（公司因缺陷产品面临侵权索赔）
+> - The company has an army of tort lawyers ready to back up its demands . `[例]`
+> - The company claimed compensation for the work made necessary by the defendants ' tort. `[例]`
 
 ## 复习记录
 

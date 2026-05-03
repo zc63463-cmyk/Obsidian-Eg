@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**聚合物，高分子**==；
+**n.** ①==**聚合物，高分子**== `N`；
 
 > [!tip] 原型义
 > **原型义**：由多个相同单元组成的物质（聚合物）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Plastics are synthetic polymers that have become indispensable in modern life."（塑料是合成聚合物，已成为现代生活中不可或缺的材料。）
+> - Many polymers, such as nylon , are artificial . `[例]`
+> - Proteins and DNA are natural polymers. `[例]`
 
 ## 复习记录
 

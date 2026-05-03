@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Unlike his predecessor, he adopted a different approach."（与前任不同，他采取了不同的方法）——考研阅读对比论证高频句型
-> - "unlike anything seen before"（前所未见的）——科普/科技类文章
-> - "Unlike in the past, people now..."（与过去不同，人们现在...）——社会变迁类文章
+> - Dan's actually very nice , unlike his father . `[例]`
+> - It's unlike you to be quiet - is something wrong ? `[例]`
+> - Birds have two kinds of motion , which are quite unlike. `[例]`
 
 ---
 

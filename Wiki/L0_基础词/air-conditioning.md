@@ -123,8 +123,9 @@ air（空气）+ conditioning（调节，condition 的动名词形式）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "How do you manage to work in this heat without air conditioning?"（没有空调，你怎么能在这么热的天气里工作？——Cambridge Dictionary 权威例句）
-> - "One of the more widely publicized dangers is that of Legionnaire's disease, which was first recognized in the 1970s. This was found to have affected people in buildings with air-conditioning systems."（更广泛宣传的危险之一是军团病，该病于20世纪70年代首次被发现。研究发现，它影响了装有空调系统的建筑物中的人。——四级阅读真题）
+> - I wish my car had air conditioning . `[例]`
+> - All hotel rooms have air conditioning . `[例]`
+> - The coach has air conditioning and reclining seats . `[例]`
 
 
 ---

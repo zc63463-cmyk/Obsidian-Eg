@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**养育，培育**==；②培养，发展（情感、关系等）；
-**n.** ①==**养育，培育**==；②（环境对人的）熏陶；
+**vt.** ①==**养育，培育**== `V N`；②==**培养，发展（情感、关系等）**== `V N`；
+**n.** ①==**养育，培育**== `N`；②==**（环境对人的）熏陶**== `N`；
 
 > [!tip] 原型义
 > **原型义**：哺乳，哺育（给婴儿喂奶的行为）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The debate between nature and nurture has fascinated psychologists for decades."（先天与后天之争几十年来一直吸引着心理学家。）
-> - "It is important to nurture creativity in young children."（培养幼儿的创造力很重要。）
+> - She wants to stay at home and nurture her children . `[例]`
+> - A carefully nurtured garden. `[例]`
+> - As a record company executive , his job is to nurture young talent . `[例]`
 
 
 ---

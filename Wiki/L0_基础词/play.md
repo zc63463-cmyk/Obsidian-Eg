@@ -130,8 +130,9 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology plays a significant role in modern society."（科技在现代社会中起着重要作用。——考研高频表达）
-> - "She plays an important role in the school play."（她在校园剧中扮演重要角色。——考研高频搭配）
+> - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
+> - The children spent the afternoon playing with their new toys . `[例]`
+> - My daughter used to play with the kids next door . `[例]`
 
 
 ---

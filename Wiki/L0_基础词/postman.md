@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With the rise of email and digital communication, the role of the traditional postman has diminished significantly in many countries."（随着电子邮件和数字通信的兴起，传统邮递员在许多国家的作用已显著减弱——考研阅读科技话题相关表达）
-> - "The postman delivered a registered letter that required the recipient's signature upon receipt."（邮递员送来一封挂号信，需要收件人签收——考研阅读日常话题相关表达）
+> - The postman hasn't been here yet . `[例]`
+> - The postman left this package with me because you were out. `[例]`
+> - I think I can see the postman coming up the drive . `[例]`
 
 
 ---

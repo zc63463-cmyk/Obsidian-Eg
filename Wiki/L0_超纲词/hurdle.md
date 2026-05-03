@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**障碍，难关**== `overcome a hurdle` [书面] `a major hurdle` [书面]；②（跨栏赛中的）栏架；③临时栅栏；
-**v.** ①跨栏 `hurdle over` [书面]；②克服障碍；
+**n.** ①==**障碍，难关**== `N`；②==**（跨栏赛中的）栏架**== `N`；③==**临时栅栏**== `N`；
+**v.** ①==**跨栏**== `V`；②==**克服障碍**== `V`；
 
 > [!tip] 原型义
 > **原型义**：编织的栅栏（古英语 *hyrdel*，用枝条编织的临时围栏）
@@ -127,9 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Language barriers remain a major hurdle for international students. `[例]`
-> - The company has cleared every regulatory hurdle to launch its new product. `[例]`
-> - Securing funding was the biggest hurdle the research team had to overcome. `[例]`
+> - She cleared (= jumped over) all the hurdles easily and raced to the finishing line . `[例]`
+> - Getting a work permit was the first hurdle to overcome . `[例]`
 
 ## 复习记录
 

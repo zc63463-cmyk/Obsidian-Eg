@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**未经测试的，未经检验的**==；②未经考验的（人、理论等）；
+**adj.** ①==**未经测试的，未经检验的**== `adj`；②==**未经考验的（人、理论等）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：没有被测试过的（un-不 + test测试 + -ed被...的 → 没有被测试过的）
@@ -127,8 +127,8 @@ un-(不，否定) + [[test]](测试，拉丁语 *testum*，原义为"陶罐"，�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government's untested approach to economic reform has raised concerns among experts.（政府未经检验的经济改革方案引起了专家的担忧。）
-> - Implementing untested technology in critical systems carries significant risks.（在关键系统中使用未经测试的技术存在重大风险。）
+> - Initially, they were dismissed as being dreamers with lots of trendy , untested ideas . `[例]`
+> - Some laws are out of date ; others are new and untested. `[例]`
 
 ## 复习记录
 

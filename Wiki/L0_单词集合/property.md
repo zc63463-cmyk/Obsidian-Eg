@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**财产，资产，所有物**==；②==**性质，属性，特性**==；③房地产，不动产；
+**n.** ①==**财产，资产，所有物**== `N`；②==**性质，属性，特性**== `N`；③==**房地产，不动产**== `N`；
 
 > [!tip] 原型义
 > **原型义**：属于自己的东西（从"自己的"到"拥有的东西"）
@@ -130,8 +130,9 @@ propri(自己的，拉丁语 *proprius*) + -ety(名词后缀，表示状态/性�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In Japan the proportion is 35%. Not surprisingly, Japanese newspapers are much more stable."（在日本，这一比例是35%。毫不奇怪，日本报纸要稳定得多。——考研英语二2011年Text 2，property 相关语境：property prices 房价）
-> - "The company assured customers that their personal data would be kept secure."（公司向客户保证他们的个人数据将被安全保存。——考研高频表达，property 相关语境：intellectual property 知识产权）
+> - The club does not accept responsibility for loss of or damage to club members ' personal property. `[例]`
+> - Both books have "Government property" stamped inside them. `[例]`
+> - Children need to be taught to have respect for other people's property. `[例]`
 
 
 ---

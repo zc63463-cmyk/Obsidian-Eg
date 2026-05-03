@@ -143,10 +143,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "weigh the pros and cons"（权衡利弊）——考研写作/翻译中极为常见的高频搭配
-> - "weigh heavily on one's mind"（沉重地压在某人心头）——文学/心理类阅读常见表达
-> - "weigh the evidence"（衡量证据）——学术/法律类阅读常见搭配
-> - "weigh the consequences"（权衡后果）——议论文写作常用表达
+> - Yesterday a satellite weighing 15 tons was successfully placed in orbit . `[例]`
+> - She weighs herself every week on the scales in the bathroom . `[例]`
+> - Your luggage must be weighed before it is put on the aircraft . `[例]`
+> - Easy access to a skilled workforce weighed heavily with us when we chose a site for the new factory . `[例]`
 
 ---
 

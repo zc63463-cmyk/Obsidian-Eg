@@ -128,9 +128,9 @@ try 为日耳曼语族本族词，源自古法语 trier（分拣、筛选）。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The court will try the case next month."（法庭将于下个月审理此案。）——考研高频表达
-> - "Scientists are trying to find a cure for the disease."（科学家们正试图找到治愈这种疾病的方法。）——考研高频表达
-> - "She tried her best to pass the examination, but failed."（她尽全力想通过考试，但还是失败了。）——考研高频表达
+> - A m o re im m e d ia te re s p o n s e is to b ro a d e n o u r d ig ita l im a g in a tio n s to c o n c e iv e o f A I te c h n o lo g ie s th a t d o n 't s im p ly re p la c e jo b s b u t e x p a n d o p p o rtu n itie s in th e s e c to rs th a t d iffe re n t p a rts o f th e c o u n try c a re m o s t a b o u t, lik e h e a lth c a re , e d u c a tio n , a n d m a n u fa c tu rin g . `[真题]`
+> - In th e U S ,fo r in sta n c e ,d u rin g m u c h o f th e 2 0 th c e n tu ry th e v a rio u s re g io n s o f th e c o u n try w e re -in th e la n g u a g e o f e c o n o m ists— "c o n v e rg in g ."a n d fin a n c ia l d isp a ritie s d e c re a se d .T h e n ,in th e 1 9 8 0 s,c a m e th e o n sla u g h t o f d ig ita l te c h n o lo g ie s,a n d th e tre n d re v e rse d itse lf.A u to m a tio n w ip e d o u t m a n y m a n u fa c tu rin g a n d re ta il jo b s.N e w ,w e ll-p a y in g te c h jo b s w e re c lu ste re d in a fe w c itie s. `[真题]`
+> - A m o re im m e d ia te re sp o n se is to b ro a d e n o u r d ig ita l im a g in a tio n s to c o n c e iv e o f A I te c h n o lo g ie s th a t d o n 't sim p ly re p la c e jo b s b u t e x p a n d o p p o rtu n itie s in th e se c to rs th a t d iffe re n t p a rts o f th e c o u n try c a re m o st a b o u t lik e h e a lth c a re ,e d u c a tio n a n d m a n u fa c tu rin g . `[真题]`
 
 ---
 

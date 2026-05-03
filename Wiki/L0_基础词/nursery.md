@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**托儿所，育儿室**==；②苗圃；③繁殖场；
+**n.** ①==**托儿所，育儿室**== `N`；②==**苗圃**== `N`；③==**繁殖场**== `N`；
 
 > [!tip] 原型义
 > **原型义**：哺育的地方（照顾和培育幼小生命的地方）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The children sang nursery rhymes in the kindergarten."（孩子们在幼儿园里唱童谣。）
-> - "She established a plant nursery in her backyard."（她在后院建了一个苗圃。）
+> - Does Jake go to a nursery or a childminder ? `[例]`
+> - She had come off the boat fresh from Ireland and became a nursery maid in the household of one of America's most famous families . `[例]`
+> - Do you think the state should provide free nursery education ? `[例]`
 
 
 ---

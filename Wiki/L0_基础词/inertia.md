@@ -130,8 +130,9 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The second reason is economic and political inertia. The more fossil fuels a country consumes, the harder it is to wean itself off them."（第二个原因是经济和政治惯性。一个国家消费的化石燃料越多，就越难摆脱对它的依赖。——考研阅读类表达）
-> - "I can't seem to throw off this feeling of inertia."（我好像无法摆脱这种无力的感觉。——考研翻译类表达）
+> - The organization is stifled by bureaucratic inertia. `[例]`
+> - I can't seem to throw off this feeling of inertia. `[例]`
+> - Many teachers were reluctant to use computers in their classrooms simply out of inertia. `[例]`
 
 
 ---

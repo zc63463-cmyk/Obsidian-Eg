@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阻碍，妨碍**==；②阻塞物，障碍物；③（医学）梗阻；④（法律）妨碍司法；
+**n.** ①==**阻碍，妨碍**== `N`；②==**阻塞物，障碍物**== `N`；③==**（医学）梗阻**== `N`；④==**（法律）妨碍司法**== `N`；
 
 > [!tip] 原型义
 > **原型义**：阻挡的行为或被阻挡的状态（obstruct 的名词形式：建造阻挡物→阻挡的行为/结果）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was detained for obstruction of justice."（他因妨碍司法公正而被拘留。——考研法律类高频表达）
-> - "The abandoned car was causing an obstruction."（这辆被遗弃的汽车堵住了道路。——考研阅读句式）
+> - There's some kind of obstruction on the railway tracks . `[例]`
+> - The referee said it was obstruction. `[例]`
+> - The abandoned car was causing an obstruction. `[例]`
 
 
 ---

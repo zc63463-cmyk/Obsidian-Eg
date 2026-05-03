@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**令人惊讶地，出乎意料地**==；
+**adv.** ①==**令人惊讶地，出乎意料地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：超出预料地（超出了预期，让人惊讶）
@@ -122,8 +122,8 @@ sur-（在……之上，超出）+ prise（抓取，源自拉丁语 *prehendere
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Surprisingly, the experiment yielded results that contradicted the initial hypothesis.（令人惊讶的是，实验得出的结果与初始假设相矛盾。）
-> - The task was surprisingly easy once I understood the instructions.（一旦我理解了说明，这项任务出乎意料地简单。）
+> - The restaurant turned out to be surprisingly cheap . `[例]`
+> - The journey was surprisingly hassle-free. `[例]`
 
 ## 复习记录
 

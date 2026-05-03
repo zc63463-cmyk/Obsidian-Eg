@@ -132,8 +132,9 @@ censor(审查官，拉丁语 *censor*，负责评估人口和道德的罗马官�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There was never an official institution of censorship in Albania."（在阿尔巴尼亚从未设立过官方审查制度——考研英语阅读）
-> - "The government today announced that press censorship was being lifted."（政府今天宣布将取消新闻审查制度——考研英语阅读）
+> - Censorship of the press. `[例]`
+> - Civil libertarians say that the ruling amounts to censorship. `[例]`
+> - Artists and critics accused him of censorship. `[例]`
 
 
 ---

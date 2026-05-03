@@ -122,8 +122,9 @@ line(线，路线) + -er(名词后缀，表示"物")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Titanic was the largest ocean liner of its time."（泰坦尼克号是当时最大的远洋客轮）
-> - "Before the advent of air travel, ocean liners were the primary means of crossing the Atlantic."（在航空旅行出现之前，远洋客轮是横渡大西洋的主要方式）
+> - Heat the oven to 170°C and fill your baking tin with paper cupcake liners. `[例]`
+> - The plants growing on the roof sit on top of a waterproof liner. `[例]`
+> - Using a black liquid liner, trace a line above your upper eyelashes . `[例]`
 
 
 ---

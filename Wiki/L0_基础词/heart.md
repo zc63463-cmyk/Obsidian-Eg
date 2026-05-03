@@ -135,8 +135,9 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone."（我们的心理健康不是学来的：它是我们生来就有的，就像我们的身体知道如何愈合伤口或修复断骨一样——2016年考研英语翻译，与 heart/mental 相关）
-> - "His hard-luck story touched everyone's heart at the charity event."（他那坎坷身世在慈善晚会上触动了每个人的心——考研文学类阅读语料）
+> - Isabel's heart was beating fast with fright . `[例]`
+> - She has a good heart (= she is a kind person ) . `[例]`
+> - His heart leaped (= he suddenly felt very excited and happy ) when the phone rang . `[例]`
 
 
 ---

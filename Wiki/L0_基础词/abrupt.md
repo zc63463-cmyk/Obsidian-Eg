@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's decision to close the factory was so abrupt that workers had no time to prepare for the sudden loss of their jobs."（公司关闭工厂的决定如此突然，工人们根本没有时间为突然失业做好准备——考研阅读经济话题相关表达）
-> - "His abrupt departure from the meeting left everyone wondering what had happened to cause such an unexpected exit."（他突然离开会议，让所有人都想知道是什么原因导致了如此意外的退场——考研翻译社交话题相关表达）
+> - There was an abrupt change in her attitude towards me when she heard that I was Alan's boyfriend . `[例]`
+> - The car juddered and came to an abrupt halt in the middle of the road . `[例]`
+> - The road ended in an abrupt (= sudden and very steep ) slope down to the sea . `[例]`
 
 
 ---

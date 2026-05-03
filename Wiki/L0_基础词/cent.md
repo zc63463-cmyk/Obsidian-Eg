@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Without advertisements your daily newspaper would cost four times as much, the price of your television licence would need to be doubled, and travel by bus or tube would cost 20 per cent more."（没有广告，每天看的报纸价格会上涨四倍，电视收视费会翻番，公共汽车或地铁票价会上涨20%——1995年考研阅读Text 1，含percent用法）
-> - "The effective rate was 62.79%, and the incidence of adverse drug reaction was 9.30%."（有效率为62.79%，药物不良反应发生率为9.30%——考研英语阅读，含percent用法）
+> - A call will cost you around 25 cents. `[例]`
+> - On the foreign exchanges the pound rose two cents against the dollar . `[例]`
+> - The newspaper costs 50 cents. `[例]`
 
 
 ---

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**先决条件，前提**==；②==**必修课（先修课程）**==；
-**adj.** ③==**作为先决条件的**==；
+**n.** ①==**先决条件，前提**== `N`；②==**必修课（先修课程）**== `N`；
+**adj.** ③==**作为先决条件的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：预先要求的事物（在某事之前必须具备的条件）
@@ -128,7 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A solid foundation in mathematics is a prerequisite for studying physics."（扎实的数学基础是学习物理的先决条件。）
+> - Passing a written test is a prerequisite for taking the advanced course . `[例]`
+> - They had to agree to certain conditions as a prerequisite of be ing lent the money . `[例]`
 
 ## 复习记录
 

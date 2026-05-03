@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government decided to loosen restrictions on foreign investment."（政府决定放宽对外国投资的限制——考研经济类阅读）
-> - "He loosened his tie and leaned back in his chair."（他松开领带，靠在椅背上——考研阅读常见描写）
+> - The screws holding the bed together had loosened. `[例]`
+> - He loosened his tie . `[例]`
+> - The screws holding the light fixture have loosened, and it’s dangling from the ceiling . `[例]`
 
 
 ---

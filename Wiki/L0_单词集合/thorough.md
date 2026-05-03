@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a thorough investigation"（彻底的调查）——考研阅读/翻译高频搭配，描述研究、执法等场景
-> - "thorough understanding of"（对……的透彻理解）——学术类阅读
-> - "thoroughly different"（完全不同的）——比较类论述中常见
+> - They did a thorough search of the area but found nothing. `[例]`
+> - It was a thorough waste of time . `[例]`
+> - The district attorney’s office conducted a thorough investigation . `[例]`
 
 ---
 

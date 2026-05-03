@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**发生，出现**==；②==**事件，发生的事情**==；
+**n.** ①==**发生，出现**== `N`；②==**事件，发生的事情**== `N`；
 
 > [!tip] 原型义
 > **原型义**：跑来相遇的事件（源自拉丁语 *occurrere* 的现在分词 *occurrentia*，oc- "朝向" + currere "跑"）
@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the frequent occurrence of natural disasters"（自然灾害的频繁发生）——环境/科普类阅读
-> - "a common occurrence in modern society"（现代社会的常见现象）——社会类话题
-> - "prevent the occurrence of disease"（预防疾病的发生）——健康/医学类语料
-> - "an isolated occurrence"（孤立事件）——新闻/分析类语料
+> - Street-fights are an everyday occurrence in this area of the city . `[例]`
+> - The study compares the occurrence of heart disease in various countries . `[例]`
+> - Break-ins are an everyday occurrence in this neighborhood . `[例]`
+> - The tests can detect the occurrence of certain cancers . `[例]`
 
 ---
 

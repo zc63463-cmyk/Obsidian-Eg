@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**军队，部队**==；②一群，一队（人）；③骑兵部队；
-**v.** ①结队行进，成群移动；
+**n.** ①==**军队，部队**== `N`；②==**一群，一队（人）**== `N`；③==**骑兵部队**== `N`；
+**v.** ①==**结队行进，成群移动**== `V`；
 
 > [!tip] 原型义
 > **原型义**：一群人（结队而行的人群）
@@ -124,7 +124,9 @@ troop 源自法语 *troupe*，古法语 *trope, trupe*（一群、一队），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government decided to withdraw troops from the region after months of conflict.（经过数月的冲突，政府决定从该地区撤军。）
+> - Traditionally, United Nations troops have been deployed only in a peacekeeping role . `[例]`
+> - The King's Troop of the Royal Horse Artillery. `[例]`
+> - My brother joined the local Boy Scout troop. `[例]`
 
 
 ---

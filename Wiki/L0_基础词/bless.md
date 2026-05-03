@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**祝福，保佑**== `V N` `God V N`；②==**（上帝）赐福于**== `V N`；③==**赋予，使有幸得到**== `be V-ed with N` `V N with N`；
+**vt.** ①==**祝福，保佑**==；②（上帝）赐福于；③赋予，使有幸得到；
 
 > [!tip] 原型义
 > **原型义**：祝圣，献祭（用血涂抹以使之神圣）
@@ -126,10 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The priest blessed their marriage at the wedding. `[COCA-NEWS]`
-> - The islands are blessed with eco-friendly accommodation and unspoilt nature. `[COCA-NEWS]`
-> - We should be grateful that we are so blessed. `[BNC-SPOKEN]`
-> - May God bless you and keep you safe. `[例]`
+> - Look at that little boy trying to help ! Bless! `[例]`
+> - Was she crying ? Ah, bless ! `[例]`
+> - God bless our soldiers . `[例]`
 
 
 ---

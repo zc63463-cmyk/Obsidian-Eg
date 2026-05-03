@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The earliest forms of art, like painting and music, are those best suited for expressing joy."（最早的艺术形式，如绘画和音乐，是最适于表达快乐的——2006年考研阅读4）
-> - "We need to find a suitable candidate for the position."（我们需要为这个职位找到合适的人选——考研高频表达）
+> - The film is not suitable for children . `[例]`
+> - A conference was planned , but finding a suitable venue proved difficult . `[例]`
+> - Each room has books , toys , and games that are suitable to that particular age group . `[例]`
 
 
 ---

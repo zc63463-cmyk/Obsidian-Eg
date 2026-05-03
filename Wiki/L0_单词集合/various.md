@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "for various reasons, people choose to..."（由于各种原因，人们选择……）——考研写作万能句式
-> - "various studies have shown that..."（多项研究表明……）——学术类阅读高频句式
-> - "the problem can be approached from various angles"（这个问题可以从多个角度来分析）——议论文常见表达
+> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+> - We had various problems on our journey , including a flat tyre . `[例]`
+> - The author gave various reasons for having written the book . `[例]`
 
 ---
 

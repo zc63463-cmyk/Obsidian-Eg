@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Halley's Comet is visible from Earth every 76 years."（哈雷彗星每76年从地球上可见一次——科普类语料）
-> - "The comet's tail always points away from the Sun."（彗尾始终背离太阳——考研科普阅读常见话题）
+> - An opportunity may thus be presented of determining the mass of one of the largest comets on record, which may not again occur. `[例]`
+> - Did not God do this very thing when he permitted the comet to strike the earth? `[例]`
+> - However, the Church of England still embraced the idea that comets and eclipses were evidence of God's wrath. `[例]`
 
 
 ---

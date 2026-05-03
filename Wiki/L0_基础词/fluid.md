@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The political situation remains fluid, with new developments occurring daily."（政治局势依然不稳定，每天都有新进展——考研政治类阅读）
-> - "Fluid intelligence refers to the ability to reason and solve new problems."（流体智力是指推理和解决新问题的能力——考研心理学类阅读）
+> - If you have a fever you should drink plenty of fluids. `[例]`
+> - His piano playing was beautifully fluid, adding grace to every song he played . `[例]`
+> - The military situation is still very fluid. `[例]`
 
 
 ---

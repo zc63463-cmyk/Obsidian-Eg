@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A neat enough parcel it made, when the string had been tied and the paper was all smooth and tidy."（当绳子系好、纸面平整有序时，它就成了一个相当整齐的包裹。——E.W. Hornung, *The Black Mask*）
-> - "Elegant but not beautiful, she was dressed in a floppy grey top and lightweight navy-blue trousers."（她优雅但算不上美丽，穿着一件宽松的灰色上衣和轻薄的海军蓝裤子。——Cambridge Dictionary）
+> - Your house is always so neat - how do you manage it? `[例]`
+> - She likes everything neat and tidy . `[例]`
+> - You have such neat handwriting . `[例]`
 
 
 ---

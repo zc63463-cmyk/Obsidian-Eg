@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**逗留，旅居**==；②短暂的停留；
-**v.** ①逗留，旅居；
+**n.** ①==**逗留，旅居**== `N`；②==**短暂的停留**== `N`；
+**v.** ①==**逗留，旅居**== `V`；
 
 > [!tip] 原型义
 > **原型义**：在旅途中暂时停留（非永久居住）
@@ -126,7 +126,8 @@ sojourn（源自古法语 *sojorn*，基于 *sousjorne*，意为"在……下面
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "During his sojourn in Paris, he developed a deep appreciation for French cuisine."（在巴黎旅居期间，他对法国美食产生了深深的欣赏。）
+> - My sojourn in the youth hostel was thankfully short . `[例]`
+> - After a brief sojourn in Holland to study Sanskrit, he moved to India . `[例]`
 
 ## 复习记录
 

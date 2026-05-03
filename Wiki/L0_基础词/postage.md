@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All orders over fifty dollars qualify for free postage, making online shopping even more attractive to consumers."（所有超过50美元的订单均可享受免邮费，使在线购物对消费者更具吸引力——考研阅读商业话题相关表达）
-> - "The cost of postage has increased significantly in recent years due to rising fuel prices and labor costs."（由于燃料价格和劳动力成本的上涨，近年来邮资费用大幅增加——考研阅读经济话题相关表达）
+> - Please enclose £15.99, plus £2 for postage. `[例]`
+> - We have reduced postage costs by nearly $24,000 as a result of the direct deposit option . `[例]`
+> - An increase in postage rates. `[例]`
 
 
 ---

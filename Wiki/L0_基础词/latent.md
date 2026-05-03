@@ -125,8 +125,9 @@ lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Within everyone there was a latent volcano of unhappiness and discontent."（在每个人心中都有一座潜伏着不幸福与不满的火山——通用语料）
-> - "The latent cause of crime is often avarice."（贪婪常是犯罪的潜在诱因——通用语料）
+> - Recent developments in the area have brought latent ethnic tension out into the open . `[例]`
+> - We're trying to bring out the latent artistic talents that many people possess without realizing it. `[例]`
+> - Latent ethnic tensions exploded into the open yesterday . `[例]`
 
 
 ---

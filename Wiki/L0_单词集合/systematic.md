@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Contrary to the descriptions on record, no systematic evidence was found that levels of productivity were related to changes in lighting."（与记录的描述相反，没有发现系统性的证据表明生产率水平与照明变化有关。）——2010考研英语一完形
-> - "Neither is there any systematic approach or integrated program."（也没有任何系统性的方法或综合性的计划。）——2002考研英语一阅读
+> - We've got to be more systematic in the way that we approach this task . `[例]`
+> - We're hearing reports of the systematic rape and torture of prisoners . `[例]`
+> - In his typically systematic way, he laid out the pros and cons in nine numbered paragraphs . `[例]`
 
 ---
 

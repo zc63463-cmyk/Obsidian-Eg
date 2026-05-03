@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**预先假设，假定**==；②==**以……为先决条件，意味着**==；
+**vt.** ①==**预先假设，假定**== `V N`；②==**以……为先决条件，意味着**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：预先假设（在讨论某事之前已经暗中假设了某前提）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The theory presupposes that all human behavior is driven by self-interest."（该理论预先假设所有人类行为都由自利驱动。）
+> - You're presupposing that he'll have told her - but he may not have. `[例]`
+> - Investigative journalism presupposes some level of investigation . `[例]`
 
 ## 复习记录
 

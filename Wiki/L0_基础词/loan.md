@@ -128,8 +128,9 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many college graduates are burdened with heavy student loans."（许多大学毕业生背负着沉重的学生贷款——考研阅读经济类话题高频表达）
-> - "The bank agreed to loan him the money for his new business."（银行同意贷款给他用于新业务——考研翻译常见句型）
+> - She's trying to get a £50,000 loan to start her own business . `[例]`
+> - She had to take out a short-term loan to cover the costs . `[例]`
+> - We could apply for a loan to buy a car . `[例]`
 
 
 ---

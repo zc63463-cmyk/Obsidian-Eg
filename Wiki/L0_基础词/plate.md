@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even simple visual cues, like plate size and lighting, have been shown to affect portion size and consumption."（甚至简单的视觉线索，如盘子大小和灯光，都被证明会影响食物分量和消费。——考研真题阅读）
-> - "Small dishes, shared meals and 'mixing it up' is not something commonly done in Britain, but Yorkshire Pudding will bring full dishes to the table and offer individual plates for each diner."（小碟子、共享餐食和"混搭"在英国并不常见，但 Yorkshire Pudding 会将整道菜端上桌，并为每位用餐者提供单独的盘子。——考研真题阅读）
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+> - There's still lots of food on your plate. `[例]`
+> - Stephen ate three plates of spaghetti . `[例]`
 
 
 ---

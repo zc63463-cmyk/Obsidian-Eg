@@ -119,8 +119,9 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The team's superb athleticism compensated for their lack of international experience."（该队出色的运动能力弥补了他们缺乏国际经验的不足——考研高频表达）
-> - "She gave a superb performance as Lady Macbeth."（她在饰演麦克白夫人时表现出色——考研高频表达）
+> - The team's superb athleticism compensated for their lack of international experience . `[例]`
+> - He is a superb dancer . `[例]`
+> - Taylor scored a superb goal at the end of the first half . `[例]`
 
 
 ---

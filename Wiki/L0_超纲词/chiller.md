@@ -124,8 +124,8 @@ chill（使变冷）+ -er（器物/做某事的东西）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The factory uses large chillers to maintain optimal temperature for production. `[例]`
-> - The new movie is a psychological chiller that will keep you on edge. `[例]`
+> - In hot weather it is better to store seafood in the chiller. `[例]`
+> - The vegetables were all in a chiller with no prices displayed . `[例]`
 
 ## 复习记录
 

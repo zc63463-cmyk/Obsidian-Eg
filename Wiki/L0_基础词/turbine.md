@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**涡轮机，汽轮机**==；
+**n.** ①==**涡轮机，汽轮机**== `N`；
 
 > [!tip] 原型义
 > **原型义**：旋转之物（高速旋转的机械装置）
@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Wind turbines are becoming an increasingly important source of renewable energy."（风力涡轮机正成为日益重要的可再生能源来源。）
-> - "The power plant uses massive steam turbines to generate electricity."（该发电厂使用大型蒸汽涡轮机发电。）
+> - A one-megawatt turbine can produce enough electricity annually to meet the needs of 700 households . `[例]`
+> - The flow of water drives the turbine, which is connected to an electrical generator to produce electricity. `[例]`
+> - Gas turbines can be used to generate electricity. `[例]`
 
 
 ---

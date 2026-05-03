@@ -125,8 +125,9 @@ loaf 源自古英语 *hlāf*（面包），与 [[life|life]]（生命）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Instead of loafing around all day, he decided to take up a part-time job."（他没有整天闲荡，而是决定找一份兼职工作——考研阅读常见表达）
-> - "She bought a loaf of bread and some cheese from the supermarket."（她从超市买了一条面包和一些奶酪——日常表达）
+> - I made an apple cake and it was so nice I ate the whole loaf myself! `[例]`
+> - It has classics like chilli and meat loaf. `[例]`
+> - We ate nut loaf topped with gravy and served with buttered peas . `[例]`
 
 
 ---

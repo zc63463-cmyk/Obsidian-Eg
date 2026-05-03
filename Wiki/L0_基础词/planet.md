@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Because they had expected the spacecraft Voyager 2 to be able to gather data only about the planets Jupiter and Saturn, scientists were thrilled about the wealth of information it sent back from Neptune years after leaving Earth."（因为科学家原本只期望旅行者2号能收集木星和土星的数据，所以当它在离开地球数年后从海王星传回丰富信息时，科学家们激动不已。——GRE Text Completion）
-> - "The duration of this phase is poorly understood, but during this time the terrestrial planets were not isolated."（这个阶段的持续时间尚不清楚，但在此期间，类地行星并不是孤立的。——Cambridge English Corpus）
+> - Might there be intelligent life on other planets? `[例]`
+> - The planet Jupiter radiates twice as much heat from inside as it receives from the Sun. `[例]`
+> - An unmanned mission to the planet Mars. `[例]`
 
 
 ---

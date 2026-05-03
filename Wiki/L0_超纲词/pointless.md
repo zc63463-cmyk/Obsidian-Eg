@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无意义的，无用的，没有目的的**==；②（论点等）不中肯的；
+**adj.** ①==**无意义的，无用的，没有目的的**== `adj`；②==**（论点等）不中肯的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：没有尖端的（针/笔没有尖端就无法发挥作用）
@@ -128,7 +128,8 @@ point（点/尖端/意义）+ -less（没有）= 没有尖端的→没有意义�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It would be pointless to argue with someone who refuses to listen."（与拒绝倾听的人争论毫无意义。）
+> - This is a pointless exercise . `[例]`
+> - It seemed pointless to continue . `[例]`
 
 ## 复习记录
 

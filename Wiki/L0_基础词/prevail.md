@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Justice will prevail in the end."（正义终将获胜。）
-> - "The prevailing view among economists is that the economy will recover gradually."（经济学家中的主流观点是经济将逐步复苏。）
-> - "She prevailed upon her husband to give up smoking."（她说服丈夫戒烟。）
+> - The author mentions two books in Paragraph ;1 to present __ _ A. an ongoing conflict B. an intellectual concept C. a prevailing sentiment D. a literary phenomenon 32. `[真题]`
+> - I am sure that common sense will prevail in the end. `[例]`
+> - And did reason prevail over (= become a more powerful influence than) emotion ? `[例]`
 
 
 ---

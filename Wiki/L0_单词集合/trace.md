@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The origins of the tradition can be traced back to ancient Greece."（这一传统的起源可以追溯到古希腊。）——考研阅读常见句式
-> - "The ship disappeared without a trace."（那艘船消失得无影无踪。）——考研翻译/阅读
-> - "Scientists detected trace amounts of the chemical in the water."（科学家在水中检测到微量的化学物质。）——科普类阅读
+> - The police are trying to trace the mother of a newborn baby found abandoned outside a hospital . `[例]`
+> - Attempts to trace the whereabouts of a man seen leaving the scene of the crime have so far been unsuccessful . `[例]`
+> - Their missing daughter was finally traced to (= found in) Manchester. `[例]`
 
 ---
 

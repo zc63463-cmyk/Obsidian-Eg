@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**极小的，微小的**==；②==**很少的**==（a tiny amount）；
+**adj.** ①==**极小的，微小的**== `adj`；②==**很少的**== `adj`（a tiny amount）；
 
 > [!tip] 原型义
 > **原型义**：极小的，微小的
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even a tiny change in the Earth's average temperature can have enormous consequences for global weather patterns, sea levels, and ecosystem stability."（即使地球平均温度的微小变化也可能对全球天气模式、海平面和生态系统稳定性产生巨大影响——考研阅读环保话题相关表达）
-> - "The discovery was based on a tiny fragment of ancient pottery that had been buried for thousands of years, yet it provided invaluable insights into the civilization that created it."（这一发现基于一块被埋藏了数千年的古代陶器碎片，然而它为人们了解创造它的文明提供了宝贵的见解——考研阅读考古话题相关表达）
+> - A tiny helping of food. `[例]`
+> - Her tiny attic room had poor ventilation and in summer it became unbearably stuffy . `[例]`
+> - During surgery , doctors sometimes use a laser beam to vaporize tiny blood vessels . `[例]`
 
 
 ---

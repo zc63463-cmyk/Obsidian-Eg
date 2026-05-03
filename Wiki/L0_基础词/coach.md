@@ -131,8 +131,9 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Career coach Dr. Myers agrees that the key to career success is continuous learning and self-improvement."（职业教练迈尔斯博士同意，职业成功的关键在于持续学习和自我提升——考研英语阅读，职业发展话题）
-> - "Mary Civiello is an executive communication coach, frequently called in to coach individual executives on improving their personal style."（玛丽·西维罗是一位高管沟通教练，经常被邀请指导高管如何改善个人风格——考研英语阅读，职场沟通话题）
+> - Gus Poyet was appointed as head coach. `[例]`
+> - The hotel is located just two minutes ' walk from the city centre and is very close to both the railway and coach stations . `[例]`
+> - We're going to the airport by coach. `[例]`
 
 
 ---

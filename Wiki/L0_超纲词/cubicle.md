@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小隔间，隔断**== `N` [通用]；②（办公室的）==**隔间工位**== `N` [办公]；③（更衣室的）==**小隔间**== `N` [通用]；
+**n.** ①==**小隔间，隔断**== `N`；②==**（办公室的）隔间工位**== `N`；③==**（更衣室的）小隔间**== `N`；
 
 > [!tip] 原型义
 > **原型义**：小立方体空间（拉丁语 *cubiculum* "小房间/卧室"，源自 *cubare* "躺下"）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many modern companies have replaced traditional cubicles with open-plan workspaces to encourage collaboration. `[例]`
-> - He spent eight hours a day in a tiny windowless cubicle at the back of the office. `[例]`
+> - I was getting undressed in one of the cubicles. `[例]`
+> - Rather than preside from an office , she sits in a cubicle among her employees . `[例]`
 
 ## 复习记录
 

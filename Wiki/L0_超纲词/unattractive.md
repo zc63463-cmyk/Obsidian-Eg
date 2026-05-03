@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无吸引力的，不引人注目的**==；②难看的，丑陋的；③没有吸引力的（方案、条件等）；
+**adj.** ①==**无吸引力的，不引人注目的**== `adj`；②==**难看的，丑陋的**== `adj`；③==**没有吸引力的（方案、条件等）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不吸引人的（无法引起兴趣或好感）
@@ -129,8 +129,8 @@ un-(不，否定前缀) + at-(=ad-, 向) + [[tract|tract]](拉，拖) + -ive(倾
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The job offer was unattractive compared to other opportunities."（与其他机会相比，这份工作邀请没有吸引力。）
-> - "Many unattractive buildings were erected in the 1960s."（20世纪60年代建了许多难看的建筑。）
+> - This is modern architecture at its most unattractive. `[例]`
+> - He was short and overweight and generally unattractive. `[例]`
 
 ## 复习记录
 

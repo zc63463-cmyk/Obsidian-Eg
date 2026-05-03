@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**可疑地，令人怀疑地**==；②==**怀疑地**==；
+**adv.** ①==**可疑地，令人怀疑地**== `adv`；②==**怀疑地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：怀疑地（在下面悬着观察→不信任地看待）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He eyed the stranger suspiciously before opening the door.（他在开门之前怀疑地打量着那个陌生人。）
-> - The two proposals were suspiciously similar in their wording.（这两个提案在措辞上相似得可疑。）
+> - He looked at her suspiciously. `[例]`
+> - The children are suspiciously quiet (= are so quiet that they are probably doing something wrong ) . `[例]`
 
 ## 复习记录
 

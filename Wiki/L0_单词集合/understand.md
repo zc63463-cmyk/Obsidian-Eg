@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is generally understood that education is the key to success."（人们普遍理解教育是成功的关键。）——考研阅读常见句式
-> - "I understand your concern, but we need to look at the bigger picture."（我理解你的担忧，但我们需要从大局出发。）——考研翻译
-> - "To truly understand a culture, one must immerse oneself in it."（要真正理解一种文化，必须沉浸其中。）——考研写作可用句式
+> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
+> - She explained the whole idea again, but I still didn't understand. `[例]`
+> - Is there anyone here who understands Arabic ? `[例]`
 
 ---
 

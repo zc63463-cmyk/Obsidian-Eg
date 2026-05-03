@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government faces a dilemma between economic growth and environmental protection."（政府面临经济增长与环境保护之间的两难选择——考研写作高频话题）
-> - "She was in a dilemma about whether to tell the truth."（她陷入是否说出真相的两难境地）
+> - She faces the dilemma of disobeying her father or losing the man she loves . `[例]`
+> - She's in a dilemma because she feels she would lose out if she tried to transfer her pension fund elsewhere . `[例]`
+> - The president is clearly in a dilemma over how to tackle the crisis . `[例]`
 
 
 ---

@@ -124,8 +124,9 @@ stale 源自古英语 *stalu*（陈旧的），与 steal（偷窃）同源——
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The negotiations reached a stalemate.（谈判陷入了僵局。）
-> - His ideas have gone stale over the years.（多年来他的想法已经变得陈旧了。）
+> - The morning after the party , their apartment smelled of stale cigarette smoke . `[例]`
+> - They had been working together for over five years and they had both become a little stale. `[例]`
+> - Stale air smells very bad . `[例]`
 
 
 ---

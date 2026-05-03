@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**有轨电车**==；②（矿山的）矿车，手推车；
+**n.** ①==**有轨电车**== `N`；②==**（矿山的）矿车，手推车**== `N`；
 
 > [!tip] 原型义
 > **原型义**：有轨电车（在固定轨道上行驶的公共交通工具）
@@ -121,8 +121,9 @@ tram 源自中古英语 *tramme*（滑车、轨道上的小车），可能来自
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many European cities still have extensive tram networks.（许多欧洲城市仍然拥有广泛的有轨电车网络。）
-> - The city is planning to expand its tram system to reduce traffic congestion.（该市计划扩建有轨电车系统以减少交通拥堵。）
+> - I hopped off the tram near the park . `[例]`
+> - The city is planning to expand its tram system to reduce traffic congestion. `[例]`
+> - There is easy access to the centre of the city by tram. `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police arrested several suspects in connection with the series of cyberattacks that targeted major financial institutions last month."（警方逮捕了几名与上个月针对主要金融机构的一系列网络攻击有关的嫌疑人——考研阅读法律话题相关表达）
-> - "Public health officials implemented emergency measures to arrest the spread of the infectious disease before it could reach epidemic proportions."（公共卫生官员实施了紧急措施，以在该传染病达到流行规模之前阻止其蔓延——考研阅读健康话题相关表达）
+> - He was arrested when customs officers found drugs in his bag . `[例]`
+> - The police arrested her for drinking and driving . `[例]`
+> - The treatment has so far done little to arrest the spread of the cancer . `[例]`
 
 
 ---

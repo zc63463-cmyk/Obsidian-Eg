@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**专业化，专门化**==；②专业方向，专长；③（生物学）特化；
+**n.** ①==**专业化，专门化**== `N`；②==**专业方向，专长**== `N`；③==**（生物学）特化**== `N`；
 
 > [!tip] 原型义
 > **原型义**：从广泛领域缩小到特定领域的过程（从"通"到"专"）
@@ -128,7 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The increasing specialization of scientific research has made collaboration across disciplines essential."（科学研究日益专业化使得跨学科合作变得必不可少。）
+> - Specialization (= limiting study or work to one particular area ) usually doesn't occur until PhD level . `[例]`
+> - The lawyer said that he was unable to help us because our case fell outside his specialization. `[例]`
 
 ## 复习记录
 

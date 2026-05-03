@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**优先权，优先事项**== ; ②优先，重点 ; ③（按重要性排列的）优先次序
+**n.** ①==**优先权，优先事项**== `N`；②==**优先，重点**== `N`；③==**（按重要性排列的）优先次序**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在前面的状态/性质（排在前面的事物）
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Improving the quality of education should be a top priority for the government."（提高教育质量应该是政府的首要任务。）——考研高频表达
-> - "When setting priorities, it is important to distinguish between what is urgent and what is truly important."（在确定优先事项时，区分紧急事项和真正重要的事项是很重要的。）——考研高频表达
+> - The management did not seem to consider office safety a priority. `[例]`
+> - Repairing the plumbing is a priority task (= more important than other jobs ) . `[例]`
+> - Banks normally give priority to large businesses when deciding on loans (= they deal with them first because they consider them most important ) . `[例]`
 ---
 
 

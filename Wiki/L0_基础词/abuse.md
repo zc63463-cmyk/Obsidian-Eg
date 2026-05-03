@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report revealed a widespread pattern of police abuse of power, including arbitrary arrests and excessive use of force against peaceful protesters."（报告揭示了一种普遍存在的警察滥用权力的模式，包括任意逮捕和对和平抗议者过度使用武力——考研阅读社会话题相关表达）
-> - "Studies have shown that children who experience abuse or neglect are significantly more likely to develop mental health problems later in life."（研究表明，经历过虐待或忽视的儿童在日后出现心理健康问题的可能性显著更高——考研翻译心理话题相关表达）
+> - I never expected that he would abuse the trust I placed in him. `[例]`
+> - He fears that his brother may be abusing alcohol . `[例]`
+> - The therapist works with children who have been sexually abused. `[例]`
 
 
 ---

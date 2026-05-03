@@ -125,7 +125,9 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery sparked widespread interest in the scientific community."（这一发现在科学界引发了广泛兴趣——考研阅读常见句式）
+> - Sparks were flying out of the bonfire and blowing everywhere . `[例]`
+> - You can start a fire by rubbing two dry pieces of wood together until you produce a spark. `[例]`
+> - That small incident was the spark that set off the street riots . `[例]`
 
 
 ---

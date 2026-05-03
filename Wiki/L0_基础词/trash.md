@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**垃圾，废物**==；②拙劣的作品；③无价值的人/事；
-**v.** ①==**丢弃，扔掉**==；②破坏，捣毁；
+**n.** ①==**垃圾，废物**== `N`；②==**拙劣的作品**== `N`；③==**无价值的人/事**== `N`；
+**v.** ①==**丢弃，扔掉**== `V`；②==**破坏，捣毁**== `V`；
 
 > [!tip] 原型义
 > **原型义**：废弃物（被丢弃的无用之物）
@@ -128,7 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rise of trash culture has raised concerns about the quality of public discourse."（垃圾文化的兴起引发了人们对公共话语质量的担忧）
+> - I can't believe that someone of his intelligence can read such trash! `[例]`
+> - There's nothing but trash on TV tonight . `[例]`
+> - The trash really stinks - why don't you take it out? `[例]`
 
 
 ---

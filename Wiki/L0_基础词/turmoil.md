@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**混乱，骚动**==；②焦虑，不安；
+**n.** ①==**混乱，骚动**== `N`；②==**焦虑，不安**== `N`；
 
 > [!tip] 原型义
 > **原型义**：搅动混乱（被剧烈搅动后的混乱状态）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country was thrown into turmoil by the economic crisis."（经济危机使这个国家陷入了动荡。）
-> - "She was in emotional turmoil after the breakup."（分手后她陷入了情感上的焦虑不安。）
+> - The whole region is in turmoil. `[例]`
+> - The country is in a state of political turmoil. `[例]`
+> - The Stock Exchange is in turmoil following a huge wave of selling . `[例]`
 
 
 ---

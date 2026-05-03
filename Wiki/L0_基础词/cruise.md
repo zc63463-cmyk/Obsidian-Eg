@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They cruised through the Caribbean for two weeks."（他们在加勒比海巡游了两周）
-> - "She cruised to victory in the 100-meter final."（她在100米决赛中轻松取胜）
+> - He and his wife went on a cruise to the Bahamas. `[例]`
+> - They spent the summer cruising around the Mediterranean . `[例]`
+> - The ship has never before cruised in Alaskan waters . `[例]`
 
 
 ---

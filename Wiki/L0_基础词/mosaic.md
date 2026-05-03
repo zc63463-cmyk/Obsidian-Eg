@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "America is a cultural mosaic of different ethnicities and traditions."（美国是一个由不同种族和传统构成的文化马赛克——考研写作可用）
-> - "The ancient Roman mosaics depict scenes from mythology."（古罗马马赛克镶嵌画描绘了神话场景）
-> - "The country's population is a mosaic of diverse linguistic groups."（该国人口由多种语言群体拼合而成）
+> - On one of the clinic's walls is a mosaic depicting a woman and child wearing traditional clothing . `[例]`
+> - Mosaic is an ancient art form which can be used to brighten up a corner of your garden . `[例]`
+> - The " island " of Venice is actually a mosaic of 118 tiny islands . `[例]`
 
 
 ---

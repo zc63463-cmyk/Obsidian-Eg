@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**清教徒**==（16-17世纪英国新教的一派）；②（贬义）极端保守的人，道德严格的人；
-**adj.** ①清教徒的；②极端保守的，禁欲的；
+**n.** ①==**清教徒**== `N`（16-17世纪英国新教的一派）；②==**（贬义）极端保守的人，道德严格的人**== `N`；
+**adj.** ①==**清教徒的**== `adj`；②==**极端保守的，禁欲的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：追求纯粹的人（在宗教信仰和道德上追求绝对纯洁）
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The Puritans who settled in New England in the 17th century had a profound influence on American culture and values.（17世纪定居新英格兰的清教徒对美国文化和价值观产生了深远影响。）
-> - Her puritan views on alcohol consumption made her unpopular at parties.（她对饮酒的清教徒式看法使她在聚会上不受欢迎。）
+> - During the 17th century the Puritans destroyed many decorations in English churches . `[例]`
+> - Some of the town's puritans still maintain that sex education has no place in the schools. `[例]`
 
 ## 复习记录
 

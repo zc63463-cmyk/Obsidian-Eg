@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Academic discipline requires both self-motivation and rigorous methodology."（学术研究既需要自我激励，也需要严谨的方法论。）——考研高频表达
-> - "Parents should teach their children self-discipline from an early age."（父母应该从小培养孩子的自律能力。）——考研高频表达
+> - There should be tougher discipline in schools . `[例]`
+> - I don't have enough ( self ) discipline to save money . `[例]`
+> - Maintaining classroom discipline (= control of the students ) is the first task of every teacher . `[例]`
 
 ---
 

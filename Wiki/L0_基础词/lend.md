@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Can you lend me your notes for the exam?"（你能把笔记借给我备考吗？）
-> - "The evidence lends credibility to the theory."（这些证据使该理论更有说服力）
+> - She doesn't like lending her books . `[例]`
+> - If you need a coat I can lend one to you. `[例]`
+> - If you need a coat I can lend you one. `[例]`
 
 
 ---

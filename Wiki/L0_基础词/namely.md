@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has introduced several measures to combat climate change, namely a carbon tax, subsidies for renewable energy, and stricter emission standards."（政府已出台多项应对气候变化的措施，即碳税、可再生能源补贴以及更严格的排放标准——考研阅读环保政策话题相关表达）
-> - "There are two fundamental problems with this approach, namely its high cost and its limited scalability."（这种方法存在两个根本问题，即成本高昂和可扩展性有限——考研翻译学术论证话题相关表达）
+> - We need to get more teachers into the classrooms where they're most needed , namely in high poverty areas . `[例]`
+> - I learned an important lesson when I lost my job , namely that nothing is a hundred percent guaranteed . `[例]`
+> - He suggested that these so-called contributions are something else , namely taxes . `[例]`
 
 
 ---

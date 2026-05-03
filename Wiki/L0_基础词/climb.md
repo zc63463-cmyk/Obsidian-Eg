@@ -132,8 +132,9 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet a college degree is increasingly important to climbing into and staying in the middle class."（然而大学学位对于跻身并保持中产阶级地位越来越重要——CBS News）
-> - "It reflected the fact that these decades saw a climb in general standards of living and avoidance of mass societal traumas like full-scale war or economic deprivation."（这反映了这几十年人们总体生活水平有所提高，大规模社会创伤得以避免的事实——2017年高考英语天津卷阅读B）
+> - The plane climbed quickly to a height of 30,000 feet . `[例]`
+> - As it leaves the village , the road climbs steeply up the mountain . `[例]`
+> - The sun climbed higher in the sky . `[例]`
 
 
 ---

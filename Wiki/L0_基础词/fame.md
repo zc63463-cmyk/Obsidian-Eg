@@ -137,8 +137,9 @@ fame 源自古法语 fame，来自拉丁语 *fāma*（谈论、传闻、名声�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The runaway success of The Pickwick Papers, as it is generally known today, secured Dickens's fame."（《匹克威克外传》的巨大成功，正如人们今天所知，确立了狄更斯的名声。——2017年考研英语新题型）
-> - "Its fame in high technology is incomparable."（它在高科技领域的名声是无与伦比的。——考研英语阅读）
+> - She moved to London in search of fame and fortune . `[例]`
+> - The town's fame rests on its beautiful cathedral . `[例]`
+> - She came to the city seeking fortune and fame. `[例]`
 
 
 ---

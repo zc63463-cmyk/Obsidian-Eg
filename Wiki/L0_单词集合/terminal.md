@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "terminal illness"（晚期疾病）——考研阅读/翻译常见搭配，医学/伦理类话题
-> - "airport terminal"（机场航站楼）——旅行/基础设施类阅读
-> - "terminal stage"（晚期阶段）——医学/商业类语境
+> - She has terminal cancer . `[例]`
+> - She claims that the shipbuilding industry is in terminal decline . `[例]`
+> - He has nothing to do all day and is suffering from terminal boredom . `[例]`
 
 ---
 

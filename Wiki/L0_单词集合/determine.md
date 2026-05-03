@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Genetics and environment both determine a person's personality and behavior."（遗传和环境共同决定一个人的性格和行为。）——考研阅读真题
-> - "The court must determine whether the law is constitutional."（法院必须确定该法律是否合宪。）——考研高频表达
+> - What millions of Texas kids leam in their public schools is determined too often by the political ideology of partisan board members , rather than facts and sound scholarship. `[真题]`
+> - According to Paragraph 1 , the careers of scientists can be determined by __ A. how many citations their works contain B. how many times their papers are cited C. the prestige of the people they work with D. the status they have in scientific circles 37. `[真题]`
+> - The number of staff we can take on will be determined by how much money we're allowed to spend . `[例]`
 
 ---
 

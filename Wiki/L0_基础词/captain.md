@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**船长，机长**== `N` [交通]；②==**队长，首领**== `N` [日常]；③==**上尉**== `N` [军事]；
-**vt.** ①==**指挥，率领**== `V N` [日常]；②担任……的队长；
+**n.** ①==**船长，机长**==；②队长，首领；③上尉；
+**vt.** ①指挥，率领；②担任……的队长；
 
 > [!tip] 原型义
 > **原型义**：队长（群体的领导者）
@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This is your captain speaking. We are expecting some turbulence ahead. `[COCA-FIC]`
-> - He captained the school's basketball team to three championship wins. `[COCA-NEWS]`
-> - She captains the women's rowing team. `[COCA-NEWS]`
+> - It's unusual to have a goalkeeper as (the) captain of a football team . `[例]`
+> - This is your captain speaking . We expect to be landing at Osaka Kansai airport in an hour's time . `[例]`
+> - The captain gave him his orders . `[例]`
 
 
 ---

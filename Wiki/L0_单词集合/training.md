@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Industrial scientists tend to receive training that academics do not, such as how to build a multidisciplinary team, manage budgets and negotiate contracts."（工业界科学家往往接受学术界所没有的培训，例如如何组建多学科团队、管理预算和协商合同。）——考研高频表达
-> - "Proper training is essential for employees to perform their duties effectively."（适当的培训对于员工有效履行职责至关重要。）——考研高频表达
+> - Earlier this week Dan revealed that he's in training for the London marathon . `[例]`
+> - His experience as a teacher was good training for parenthood . `[例]`
+> - The study investigates the impact of biased training data on generative AI performance . `[例]`
 
 ---
 

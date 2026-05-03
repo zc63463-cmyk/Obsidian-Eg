@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**校园，校区**== `N` [教育]；②==**大学校园生活**== `N` [日常]；
+**n.** ①==**校园，校区**==；②大学校园生活；
 **adj.** ①校园的；
 
 > [!tip] 原型义
@@ -128,9 +128,9 @@ camp（田野/营地）+ -us（拉丁语名词后缀）→ 有建筑物的田野
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All students are guaranteed campus accommodation for their first year. `[COCA-ACAD]`
-> - Most first-year students live on campus. `[COCA-ACAD]`
-> - The statue stands on the campus of Princeton University. `[COCA-NEWS]`
+> - Smith's research project on campus sports activities. `[真题]`
+> - There's accommodation for about 500 students on campus. `[例]`
+> - Surrounded by lovely trees , the Dartmouth campus is big and beautiful . `[例]`
 
 
 ---

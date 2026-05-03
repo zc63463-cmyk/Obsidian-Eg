@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**奖品，奖赏**==；②战利品；③值得追求的东西；
-**adj.** ①==**珍贵的，宝贵的**==；①获奖的；
-**v.** ①==**珍视，高度重视**==；②撬开（pry 的变体）；
+**n.** ①==**奖品，奖赏**== `N`；②==**战利品**== `N`；③==**值得追求的东西**== `N`；
+**adj.** ①==**珍贵的，宝贵的**== `adj`；①==**获奖的**== `adj`；
+**v.** ①==**珍视，高度重视**== `V`；②==**撬开（pry 的变体）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：有价值的东西（拉丁语 *pretium* = 价格/价值，值得珍视的东西）
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She won first prize in the national writing competition."（她在全国写作比赛中获得一等奖）
-> - "He prizes his independence above all else."（他把独立看得比什么都重要）
+> - The critics ' prize for best film was won by Marc Abbott for "Belly Laugh". `[例]`
+> - The first (= main ) prize is a week for two in Miami. `[例]`
+> - The prize money for winning Wimbledon has been increased by 12.5 per cent . `[例]`
 
 
 ---

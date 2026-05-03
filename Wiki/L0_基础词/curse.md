@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Pollution has become a curse on modern society."（污染已成为现代社会的祸害——考研环境类话题高频表达）
-> - "He was cursed with a terrible temper."（他被暴躁的脾气所困扰——文学/日常语料）
+> - We could hear him cursing and swearing as he tried to get the door open . `[例]`
+> - He leaned out of the window and cursed at passing pedestrians . `[例]`
+> - I heard them yelling and cursing me as I ran away. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**特别地，专门地**==；②具体地，明确地；③确切地说；
+**adv.** ①==**特别地，专门地**== `adv`；②==**具体地，明确地**== `adv`；③==**确切地说**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：以特定的方式（指向某个具体的事物或方面）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The programme is designed specifically for students with no prior programming experience."（该课程专门为零编程经验的学生设计。）
+> - These jeans are designed specifically for women. `[例]`
+> - I bought it specifically to wear at the wedding . `[例]`
 
 ## 复习记录
 

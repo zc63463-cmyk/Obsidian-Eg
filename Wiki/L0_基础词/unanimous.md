@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**全体一致的，一致同意的**==（所有人意见完全相同）；
-**adv.** ②==**unanimously 一致地**==
+**adj.** ①==**全体一致的，一致同意的**== `adj`（所有人意见完全相同）；
+**adv.** ②==**unanimously 一致地**== `adv`
 
 > [!tip] 原型义
 > **原型义**：一个心思/一个灵魂（拉丁语 unus "一" + animus "思想、精神" = 一个思想）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The jury reached a unanimous verdict of not guilty after three days of deliberation."（陪审团经过三天的审议，一致裁定无罪——考研阅读法律话题相关表达）
-> - "The UN Security Council was unanimous in its condemnation of the terrorist attack."（联合国安理会一致谴责了这起恐怖袭击——考研翻译国际话题相关表达）
+> - The jury returned a unanimous verdict of guilty after a short deliberation . `[例]`
+> - After a lengthy discussion we reached a unanimous decision on the proposal . `[例]`
+> - The new format has unanimous support . `[例]`
 
 
 ---

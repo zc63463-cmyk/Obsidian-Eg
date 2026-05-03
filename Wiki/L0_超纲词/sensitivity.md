@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**敏感，敏感度**==；②==**体贴，善解人意**==；③（仪器等的）灵敏度；④（对问题的）敏感性，关注；
+**n.** ①==**敏感，敏感度**== `N`；②==**体贴，善解人意**== `N`；③==**（仪器等的）灵敏度**== `N`；④==**（对问题的）敏感性，关注**== `N`；
 
 > [!tip] 原型义
 > **原型义**：感觉的能力（能够感知细微变化的能力）
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Teachers need to show sensitivity to students from diverse cultural backgrounds."（教师需要对来自不同文化背景的学生表现出敏感和体贴。）
-> - "The camera's high sensitivity allows it to capture clear images even in low light."（相机的高灵敏度使其即使在弱光下也能拍出清晰的照片。）
+> - The police showed commendable sensitivity in their handling of the case . `[例]`
+> - I should have warned you about her sensitivity to criticism . `[例]`
 
 ## 复习记录
 

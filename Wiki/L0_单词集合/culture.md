@@ -126,8 +126,9 @@ cult(耕作，培养) + -ure(行为的结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being."（它脱离了上帝和罗马天主教的权威，转而倾向于一种更人文主义的存在方式。）——2020考研英语一阅读
-> - "Cultural diversity is a valuable asset that enriches our society."（文化多样性是一笔丰富我们社会的宝贵财富。）——考研高频表达
+> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+> - She's studying modern Japanese language and culture. `[例]`
+> - This is one of the most ancient cultures in the world . `[例]`
 
 ---
 

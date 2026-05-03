@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**多产的，富饶的**== ; ②==**富有成效的**== ; ③生产性的 ;
+**adj.** ①==**多产的，富饶的**== `adj` ; ②==**富有成效的**== `adj` ; ③==**生产性的 ;**== `adj`
 
 > [!tip] 原型义
 > **原型义**：多产的、富有成效的——能够引导出大量成果的
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Drawing is a more productive way of thinking than computer-aided design."（绘图是一种比计算机辅助设计更富有成效的思考方式——考研高频表达）
-> - "The arrangement benefits both countries; the lab is more productive, thanks to the lower costs."（这一安排对两国都有利；由于成本较低，实验室的效率更高——考研高频表达）
+> - In order to turn the deserts into fertile and productive land , engineers built an 800-mile canal . `[例]`
+> - He had an amazingly productive five years in which he managed to write four novels . `[例]`
+> - We had a very productive meeting - I felt we solved lots of problems . `[例]`
 
 
 ---

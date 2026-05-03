@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It would be foolish to ignore the warning signs."（忽视这些警告信号是愚蠢的。）
-> - "She was foolish enough to believe his lies."（她蠢到相信了他的谎言。）
+> - That was a rather foolish thing to do. `[例]`
+> - She was afraid that she would look foolish if she refused . `[例]`
+> - It was foolish of them to pay so much. `[例]`
 
 
 ---

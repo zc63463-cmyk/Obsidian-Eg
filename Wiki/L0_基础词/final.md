@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The final decision rests with the committee."（最终决定权在委员会手中）
-> - "In the final analysis, economic growth depends on innovation."（归根结底，经济增长取决于创新）
+> - The final chapters of a book. `[例]`
+> - The game is in its final stages . `[例]`
+> - In the final analysis , it is the drug companies that are going to profit from this policy . `[例]`
 
 
 ---

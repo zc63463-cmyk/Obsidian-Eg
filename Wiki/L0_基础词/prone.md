@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**易于…的，有…倾向的**==；②俯卧的，面朝下的；
-**adv.** ①面朝下地；
+**adj.** ①==**易于…的，有…倾向的**== `adj`；②==**俯卧的，面朝下的**== `adj`；
+**adv.** ①==**面朝下地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：面朝下趴着（身体前倾的姿势，容易"倒向"某个方向）
@@ -126,7 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People who are prone to anxiety are more likely to experience stress-related health problems."（容易焦虑的人更有可能经历与压力相关的健康问题——考研心理类话题）
+> - I've always been prone to headaches . `[例]`
+> - The photograph showed a man lying prone on the pavement , a puddle of blood around his head . `[例]`
+> - How many people do you need to prone a patient ? `[例]`
 
 
 ---

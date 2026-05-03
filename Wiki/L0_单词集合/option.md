@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**选择，选择权，选项**== ; ②（购买或出售的）期权
+**n.** ①==**选择，选择权，选项**== `N` ; ②==**（购买或出售的）期权**== `N`
 
 > [!tip] 原型义
 > **原型义**：用眼睛挑选最好的
@@ -127,8 +127,9 @@ opt(选择，源自拉丁语 optare "选择") + -ion(名词后缀，表动作或
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She had the option to study abroad or stay at home."（她可以选择出国留学或留在国内。）——考研高频表达
-> - "We have three different options for financing the house."（我们有三种不同的供房方案可供选择。）——2009考研完形
+> - The best option would be to cancel the trip altogether . `[例]`
+> - There are various options open to someone who is willing to work hard. `[例]`
+> - The publishers decided not to take up their option on the paperback version . `[例]`
 
 ---
 

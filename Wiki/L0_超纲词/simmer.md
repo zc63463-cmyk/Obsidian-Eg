@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**炖，煨，用小火慢慢煮**==；②（冲突/情绪等）酝酿，处于即将爆发的状态；
-**n.** ①煨，炖的状态；
+**v.** ①==**炖，煨，用小火慢慢煮**== `V`；②==**（冲突/情绪等）酝酿，处于即将爆发的状态**== `V`；
+**n.** ①==**煨，炖的状态**== `N`；
 
 > [!tip] 原型义
 > **原型义**：水在沸点以下微微冒泡的慢煮状态
@@ -126,7 +126,8 @@ simmer（拟声词，模拟水微微冒泡的声音）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Resentment has been simmering in the community for years."（社区中的不满情绪已经酝酿多年。）
+> - Leave the vegetables to simmer for a few minutes . `[例]`
+> - The strike has been simmering for weeks . `[例]`
 
 ## 复习记录
 

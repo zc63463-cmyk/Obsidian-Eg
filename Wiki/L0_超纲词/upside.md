@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**好处，有利的一面**==；②上面，上侧；
+**n.** ①==**好处，有利的一面**== `N`；②==**上面，上侧**== `N`；
 
 > [!tip] 原型义
 > **原型义**：上面的一面（up-向上 + side一面 → 朝上的一面）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The upside of working remotely is the flexibility it offers, though it can also lead to isolation.（远程办公的好处是它提供的灵活性，尽管它也可能导致孤独感。）
-> - Investors are attracted to the upside potential of emerging markets despite the risks involved.（尽管存在风险，投资者仍被新兴市场的上涨潜力所吸引。）
+> - It's annoying that we can't travel until Thursday , but the upside is that tickets are cheaper then. `[例]`
+> - It’s too bad we can’t go until Thursday , but the upside is that we get to stay through the weekend . `[例]`
 
 ## 复习记录
 

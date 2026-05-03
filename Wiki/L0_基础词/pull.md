@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拉，拖，拔**==；②==**吸引，拉拢**==；③拔出，抽出；
-**n.** ①==**拉，拖**==；②==**吸引力，魅力**==；③拉力，牵引力；
+**v.** ①==**拉，拖，拔**== `V`；②==**吸引，拉拢**== `V`；③==**拔出，抽出**== `V`；
+**n.** ①==**拉，拖**== `N`；②==**吸引力，魅力**== `N`；③==**拉力，牵引力**== `N`；
 
 > [!tip] 原型义
 > **原型义**：拉（用力将某物朝自己方向拖动）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The patient pulled through after a serious operation."（病人在一次严重手术后恢复了健康——考研阅读常见搭配）
-> - "She pulled strings to get her son into the prestigious school."（她走后门让儿子进了那所名校——考研翻译常见表达）
+> - Could you help me move this bookcase over there? You pull and I'll push . `[例]`
+> - He pulled the chair away from the desk . `[例]`
+> - He pulled the heavy box across the floor to the door . `[例]`
 
 
 ---

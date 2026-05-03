@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**火鸡**==；②土耳其（Turkey）；③失败之作，笨蛋（口语）；
+**n.** ①==**火鸡**== `N`；②==**土耳其（Turkey）**== `N`；③==**失败之作，笨蛋（口语）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：火鸡（一种大型家禽，原产于北美洲）
@@ -121,8 +121,9 @@ turkey 为日耳曼语源词，16世纪时因火鸡从土耳其（经由土耳�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He quit smoking cold turkey — just stopped one day."（他突然完全戒烟——就是某天直接停了。）
-> - "The film was a complete turkey — nobody went to see it."（这部电影彻底失败了——没人去看。）
+> - His last film was a complete turkey. `[例]`
+> - What did you do that for, you turkey? `[例]`
+> - We raise turkeys mainly for the Christmas market. `[例]`
 
 
 ---

@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The meeting will discuss the company's financial performance over the past year."（会议将讨论公司过去一年的财务表现。）——考研高频表达
-> - "The author discusses the implications of artificial intelligence for the future of work."（作者讨论了人工智能对未来工作的影响。）——考研高频表达
+> - The police want to discuss these recent racist attacks with local people . `[例]`
+> - The later chapters discuss the effects on the environment . `[例]`
+> - We have been discussing the possibility of working together. `[例]`
 
 ---
 

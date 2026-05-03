@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**自负的，自高自大的**== `a conceited person` `be conceited about N` [贬义]；②骄傲自满的 `be conceited in one's manner` [贬义]；
+**adj.** ①==**自负的，自高自大的**== `adj`；②==**骄傲自满的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：自己构想出来的（自以为是的，自我评价过高）
@@ -120,8 +120,8 @@ con-（加强语气）+ [[ceit]]（抓住，取得，拉丁语 *capere* 的变�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - His conceited attitude alienated his colleagues and hindered his career advancement. `[例]`；
-> - She was too conceited to accept constructive criticism from her peers. `[例]`；
+> - Without wishing to sound conceited, I am the best salesperson in the company . `[例]`
+> - She was too conceited to accept constructive criticism. `[例]`
 
 ## 复习记录
 

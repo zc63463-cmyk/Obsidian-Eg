@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**修剪，修整**==；②装饰，点缀；③削减，缩减；
-**adj.** ①整齐的，整洁的；②苗条的；
+**vt.** ①==**修剪，修整**== `V N`；②==**装饰，点缀**== `V N`；③==**削减，缩减**== `V N`；
+**adj.** ①==**整齐的，整洁的**== `adj`；②==**苗条的**== `adj`；
 **n.** 修剪；装饰；
 
 > [!tip] 原型义
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has trimmed public spending in response to the economic crisis."（政府为应对经济危机削减了公共开支。）
-> - "She trimmed the hedge in the garden."（她修剪了花园里的树篱。）
+> - My hair needs trimming. `[例]`
+> - Trim off the leafy ends of the vegetable before cooking . `[例]`
+> - They're trying to trim their costs , so staff who leave are not being replaced . `[例]`
 
 
 ---

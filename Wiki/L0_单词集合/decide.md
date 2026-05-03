@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "decide to do sth."（决定做某事）——考研阅读/翻译/写作高频搭配
-> - "decide on"（选定/决定）——考研完形填空常见搭配
-> - "decide whether/what/how..."（决定是否/什么/如何）——考研阅读中描述决策过程
+> - They have to decide by next Friday . `[例]`
+> - It doesn't matter to me which one we have - you decide. `[例]`
+> - In the end, we decided to go to the theatre . `[例]`
 
 ---
 

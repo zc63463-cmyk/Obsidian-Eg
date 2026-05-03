@@ -126,8 +126,9 @@ laund（洗涤，源自古法语 *lavandier*，洗衣人，最终来自拉丁语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She set aside Saturday morning to do the laundry."（她把周六上午留出来洗衣服——通用语料）
-> - "While they were eating, I threw a load of laundry into the washing machine and then I sat down and ate, too."（当他们吃饭时，我把一批衣服扔进洗衣机，然后也坐下来吃饭——通用语料）
+> - I've got to do (= wash ) my laundry. `[例]`
+> - Piles of dirty laundry. `[例]`
+> - Evidence of the bank serving as a money laundry in the bailout scandal has been identified . `[例]`
 
 
 ---

@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "It is desirable that interest rates should be reduced."（利率下调是可取的。）——考研高频表达
-> - "Although not essential, some prior knowledge of statistics is desirable."（统计学的知识虽非必要，但最好是学过一点。）——考研高频表达
-> - "He believed that self-sufficiency was both desirable and inevitable."（他认为自给自足既是可取的也是必然的。）——考研翻译真题
+> - Reducing class sizes in schools is a desirable aim . `[例]`
+> - It's regarded as a highly desirable job . `[例]`
+> - The house is in a very desirable area of the city . `[例]`
 
 ---
 

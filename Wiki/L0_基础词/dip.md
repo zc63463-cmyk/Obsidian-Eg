@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There was a slight dip in the unemployment rate last month."（上个月失业率略有下降——经济类阅读高频）
-> - "She dipped her pen in the ink and began to write."（她将钢笔蘸入墨水开始书写）
+> - She dipped her toe into the pool to see how cold it was. `[例]`
+> - As you turn the corner , the road dips suddenly . `[例]`
+> - The sun dipped below the horizon . `[例]`
 
 
 ---

@@ -137,8 +137,9 @@ late 源自古英语 *læt*，源自原始日耳曼语 *lataz*（迟的）。无
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He described this economic impatience as 'children picking plums out of a pudding and eating them at once' rather than setting them aside for later."（他把这种经济上的不耐烦描述为"孩子们从布丁中挑出李子，立刻吃掉"，而不是把它们放在一边等着最后吃掉——2019年考研英语一 Text 1，later 与 late 同源）
-> - "Researchers lately have begun to extend that forecast by decades if not centuries."（最近研究人员开始将这个预测延后数十年，如果不是数百年的话——2002年考研英语完形填空，lately 与 late 同源）
+> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit �1ith Waterstones " at a very significant level" . `[真题]`
+> - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
+> - It was late at night . `[例]`
 
 
 ---

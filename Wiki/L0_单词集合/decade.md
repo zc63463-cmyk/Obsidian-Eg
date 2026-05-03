@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "over the past decade"（在过去十年中）——考研阅读/翻译极高频表达，常用于描述趋势变化
-> - "in recent decades"（近几十年来）——学术类阅读常见时间状语
-> - "for decades"（几十年来）——描述长期趋势或现象
+> - The economy is growing at its fastest rate this decade. `[例]`
+> - They’re enjoying new popularity after decades of neglect . `[例]`
+> - Air traffic has increased 30% in the last decade. `[例]`
 
 ---
 

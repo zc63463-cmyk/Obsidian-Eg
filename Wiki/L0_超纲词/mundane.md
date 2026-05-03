@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**世俗的，平凡的**== `adj N` [文学]；②==**日常的，单调的**== `adj N` [日常]；③==**世界的（与宗教相对）**== `adj N` [宗教]；
+**adj.** ①==**世俗的，平凡的**== `adj`；②==**日常的，单调的**== `adj`；③==**世界的（与宗教相对）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：世俗的，平凡的
@@ -128,8 +128,8 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Despite the mundane nature of his daily routine, he found joy in small moments. [C]
-> - `[例]` The novel contrasts the mundane reality of village life with the protagonist's vivid imagination. [C]
+> - Mundane matters such as paying bills and shopping for food do not interest her. `[例]`
+> - The show was just another mundane family sitcom . `[例]`
 
 ## 复习记录
 

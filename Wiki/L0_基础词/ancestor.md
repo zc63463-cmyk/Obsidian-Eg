@@ -124,8 +124,9 @@ an-(=ante-, 在前面) + cest(走，拉丁语 *cedere*) + -or(人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Humans share a common ancestor with chimpanzees."（人类与黑猩猩拥有共同的祖先）
-> - "The abacus is an ancestor of the modern computer."（算盘是现代计算机的先驱）
+> - There were portraits of his ancestors on the walls of the room . `[例]`
+> - This wooden instrument is the ancestor of the modern metal flute . `[例]`
+> - He returned to Ecuador, where his mother’s ancestors lived . `[例]`
 
 
 ---

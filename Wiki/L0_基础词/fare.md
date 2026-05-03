@@ -136,8 +136,9 @@ fare(旅行/费用，古英语 *fær*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Fare n. 票价"（1991年考研英语真题词汇——早期考研真题直接考查该词）
-> - "How did you fare in the examination?"（你考试考得怎么样？——考研日常对话类翻译常见表达）
+> - Train fares are going up again. `[例]`
+> - Can I borrow £2 for my bus fare? `[例]`
+> - How did you fare in your exams ? `[例]`
 
 
 ---

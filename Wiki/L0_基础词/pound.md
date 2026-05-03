@@ -130,7 +130,9 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The pound fell sharply against the dollar."（英镑对美元大幅贬值——考研经济类阅读常见表达）
+> - There are one hundred pence in a pound. `[例]`
+> - They stole jewellery valued at £50,000 (= 50,000 pounds) . `[例]`
+> - Do you have any change ?" "Sorry, I only have a five-pound note . `[例]`
 
 
 ---

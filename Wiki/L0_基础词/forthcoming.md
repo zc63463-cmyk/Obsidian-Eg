@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has promised to be more forthcoming with information about the crisis."（政府承诺将更加乐意提供有关危机的信息。）
-> - "In the forthcoming weeks, we expect to see significant changes."（在接下来的几周内，我们预计会看到重大变化。）
+> - We have just received the information about the forthcoming conference . `[例]`
+> - I had difficulty getting any details . He wasn't very forthcoming. `[例]`
+> - No explanation for his absence was forthcoming. `[例]`
 
 
 ---

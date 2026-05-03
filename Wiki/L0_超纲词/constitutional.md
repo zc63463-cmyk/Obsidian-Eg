@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**宪法的，符合宪法的**== `adj. N` [正式]；②==**体质上的，构成的**== `adj. N` [正式]；③==**本质的，固有的**== `adj. N` [正式]；
+**adj.** ①==**宪法的，符合宪法的**== `adj`；②==**体质上的，构成的**== `adj`；③==**本质的，固有的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与宪法/体制结构相关的
@@ -130,8 +130,8 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The Supreme Court ruled that the law was unconstitutional, violating citizens' constitutional rights to privacy. `[例]`
-> - A constitutional amendment requires the approval of two-thirds of both houses of Congress. `[例]`
+> - Such a policy would not be constitutional. `[例]`
+> - Freedom of speech should be a constitutional right . `[例]`
 
 ## 复习记录
 

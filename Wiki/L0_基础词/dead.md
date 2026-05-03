@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The negotiations reached a dead end after both sides refused to compromise."（双方拒绝妥协后，谈判陷入了僵局。——考研阅读社会类）
-> - "She was dead certain that she had left the keys on the table."（她绝对确定自己把钥匙留在桌子上了。——红宝书考研词汇例句）
+> - She's been dead for 20 years now. `[例]`
+> - The motorcyclist was dead on arrival at the hospital . `[例]`
+> - He was shot dead (= killed by shooting ) outside his home . `[例]`
 
 
 ---

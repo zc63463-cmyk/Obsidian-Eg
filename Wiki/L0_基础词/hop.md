@@ -136,8 +136,9 @@ hop（古英语 *hoppian* "跳跃、舞蹈"，源自原始日耳曼语 *\*hupnoj
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We hopped on a bus and headed downtown."（我们跳上一辆公交车，前往市中心。——考研英语阅读相关语料）
-> - "The rabbit hopped across the garden and disappeared into the bushes."（兔子蹦跳着穿过花园，消失在灌木丛中。——考研相关语料）
+> - I tried to hop on my good foot while holding onto Jim . `[例]`
+> - We hopped over to Bruges for the weekend . `[例]`
+> - I hopped on the bus at the traffic lights . `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation."（在经济危机爆发前的十年里，美国人的法律服务花费增长速度是通货膨胀的两倍。——2014年考研英语阅读Text2）
-> - "Newspapers relay daily accounts of goal-setting prevalent in industries and businesses up and down both Wall Street and Main Street, yet there has been surprisingly little research on how the long-trumpeted practice of setting goals may have contributed to the current economic crisis."（报纸每天都在报道华尔街和主街上下各行各业普遍存在的目标设定情况，但令人惊讶的是，很少有人研究长期鼓吹的目标设定做法是如何促成当前经济危机的。——六级阅读，crisis 经典例句）
+> - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
+> - I had to take a day off to deal with a family crisis — our pet died and our children were inconsolable . `[例]`
+> - A mediator has been called in to resolve the crisis. `[例]`
 
 ---
 

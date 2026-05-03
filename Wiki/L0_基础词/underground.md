@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**在地下**==；②==**秘密地**==（暗中活动）；
-**adj.** ①==**地下的**==（建筑物、铁路等）；②==**秘密的**==（活动、组织）；③==**地下文化的**==（非主流的）；
-**n.** ①==**地下铁路**==（美式：地铁）；②==**地下运动**==（抵抗组织）；
+**adv.** ①==**在地下**== `adv`；②==**秘密地**== `adv`（暗中活动）；
+**adj.** ①==**地下的**== `adj`（建筑物、铁路等）；②==**秘密的**== `adj`（活动、组织）；③==**地下文化的**== `adj`（非主流的）；
+**n.** ①==**地下铁路**== `N`（美式：地铁）；②==**地下运动**== `N`（抵抗组织）；
 
 > [!tip] 原型义
 > **原型义**：在地面之下
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city's underground railway system transports millions of commuters every day."（该市的地铁系统每天运送数百万通勤者。——考研阅读城市话题高频表达）
-> - "During the war, the resistance movement operated underground to avoid detection by the occupying forces."（战争期间，抵抗运动转入地下活动以避免被占领军发现。——考研翻译历史话题相关表达）
+> - The Communist Party was forced (to go) underground, and its leaders went into hiding . `[例]`
+> - They told us the stories of some of the main figures in the Underground Railroad. `[例]`
+> - In Britain and the USA in the 1970s, the underground was a powerful subversive force . `[例]`
 
 
 ---

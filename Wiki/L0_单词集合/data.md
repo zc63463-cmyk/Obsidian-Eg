@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "collect and analyze data"（收集和分析数据）——考研阅读/翻译极高频表达，科研类话题必备
-> - "big data"（大数据）——考研阅读科技类话题高频词
-> - "the data suggests/shows that..."（数据表明……）——考研阅读中引出结论的常见句式
+> - Scopus itself has all the data necessary to detect this malpractice. `[真题]`
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
 
 ---
 

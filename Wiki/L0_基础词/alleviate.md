@@ -131,8 +131,9 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign."（例如，丰田汽车公司通过相对迅速且精心策划的社交媒体回应活动，减轻了今年早些时候召回危机造成的部分损害——2011年英语一Text 3）
-> - "Americans are becoming aware of the toll their jobs take on them, and employers are exploring ways to alleviate the harmful effects of stress and overwork."（美国人开始意识到工作对他们的损害，雇主们正在探索减轻压力和过度工作有害影响的方法——2016年12月六级阅读）
+> - The medicine did nothing to alleviate her discomfort . `[例]`
+> - A number of measures were taken to alleviate the problem. `[例]`
+> - For decades, as you probably know, researchers have found that when you tell patients that you're giving them medicine, many report that their symptoms are alleviated, even if they're only taking sugar pills. `[例]`
 
 
 ---

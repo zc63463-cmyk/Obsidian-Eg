@@ -130,8 +130,9 @@ flee(逃跑，古英语 *flēon*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many scientists fled the country during the political upheaval, taking their expertise with them."（许多科学家在政治动荡期间逃离了该国，带走了他们的专业知识。——考研英语阅读社会类话题）
-> - "The colour fled from her cheeks when she heard the devastating news."（当她听到这个毁灭性的消息时，血色从她的脸上消失了。——考研英语翻译文学类表达）
+> - Every year thousands of people flee the big cities in search of the rural idyll . `[例]`
+> - War, famine and oppression have forced people in the region to flee from their homes . `[例]`
+> - He was caught trying to flee the country. `[例]`
 
 
 ---

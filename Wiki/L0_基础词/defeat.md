@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decision was an 8-0 defeat for the administration's effort to upset the balance of power between the federal government and the states."（这一决定是对政府试图打破联邦政府与各州之间权力平衡努力的8比0完败——2013年考研英语一Text 4）
-> - "Napoleon was defeated by the Duke of Wellington at the battle of Waterloo."（拿破仑在滑铁卢战役中被惠灵顿公爵击败——考研历史类语料）
+> - Napoleon was defeated by the Duke of Wellington at the battle of Waterloo. `[例]`
+> - They defeated the Italian team and reached the final . `[例]`
+> - The proposal to change the rules was narrowly defeated (= by a very small number ) by 201 votes to 196. `[例]`
 
 
 ---

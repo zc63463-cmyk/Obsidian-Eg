@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**时间**==；②==**时代，时期**==；③==**次，回**==；④==**倍**==（乘法）；
-**v.** ①==**安排……的时间**==；②==**测定……的时间**==；③==**使合拍**==；
-**adj.** ①==**定时的**==（time bomb 定时炸弹）；
+**n.** ①==**时间**== `N`；②==**时代，时期**== `N`；③==**次，回**== `N`；④==**倍**== `N`（乘法）；
+**v.** ①==**安排……的时间**== `V`；②==**测定……的时间**== `V`；③==**使合拍**== `V N`；
+**adj.** ①==**定时的**== `adj`（time bomb 定时炸弹）；
 
 > [!tip] 原型义
 > **原型义**：时间的流动，事件的度量
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At a time when technological innovation is reshaping every aspect of our lives, the ability to adapt and learn new skills has become more crucial than ever before."（在技术创新正在重塑我们生活方方面面的时代，适应和学习新技能的能力变得比以往任何时候都更加关键——考研阅读科技话题相关表达）
-> - "Researchers have found that spending time in nature can significantly reduce stress levels and improve overall mental well-being, even in short durations as brief as twenty minutes."（研究人员发现，即使在大自然中度过短短二十分钟这样的短暂时间，也能显著降低压力水平并改善整体心理健康——考研阅读健康话题相关表达）
+> - For this reason, caravanserais were strategically placed 9 they could be reached in a day's travel time. `[真题]`
+> - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
+> - He wants to spend more time with his family . `[例]`
 
 
 ---

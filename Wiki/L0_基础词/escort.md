@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The suspect was escorted to the police station under armed guard."（嫌疑人在武装护卫下被押送至警察局——考研阅读法律话题常见表达）
-> - "Warships were deployed to escort merchant vessels through the dangerous waters."（军舰被部署来护送商船穿过危险水域——考研阅读军事话题常见表达）
+> - Several little boats escorted the sailing ship into the harbour . `[例]`
+> - Security guards escorted the intruders from the building . `[例]`
+> - The police escorted her to the airport , and made sure that she left the country . `[例]`
 
 
 ---

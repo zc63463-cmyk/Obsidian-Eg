@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "He must use this surplus in three ways: as seed for sowing, as an insurance against the unpredictable effects of bad weather and as a commodity which he must sell in order to replace old agricultural implements."（他必须以三种方式使用这些剩余粮食：作为播种的种子，作为抵御恶劣天气不可预测影响的保障，以及作为他必须出售以更换旧农具的商品。）——2000年考研翻译
-> - "If you sow the seeds of distrust, you will reap a harvest of conflict."（如果你播下不信任的种子，你将收获冲突的苦果。）——考研高频表达
+> - Sow the seeds in pots . `[例]`
+> - Settlers sowed the seeds they had brought with them. `[例]`
+> - It's rather early to be sowing carrot seeds , isn't it? `[例]`
 
 ---
 

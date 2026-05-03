@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His English has a strong Scottish accent, which sometimes makes it difficult for others to understand him."（他的英语有浓重的苏格兰口音，有时让别人难以理解他——考研翻译相关表达）
-> - "The government should place more accent on environmental protection rather than economic growth alone."（政府应该更加重视环境保护，而不是仅仅关注经济增长——考研写作高频表达）
+> - She's French but she speaks with an impeccable English accent. `[例]`
+> - I thought I could detect a slight Canadian accent. `[例]`
+> - There's an acute accent on the e of " café ". `[例]`
 
 
 ---

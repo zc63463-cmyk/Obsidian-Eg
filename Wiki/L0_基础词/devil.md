@@ -134,8 +134,9 @@ devil 源自晚期拉丁语 *diabolus*（魔鬼、撒旦），来自教会希腊
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers were devilled by technical problems throughout the experiment, which significantly delayed the publication of their findings."（研究人员在整个实验过程中一直被技术问题困扰，大大推迟了他们研究结果的发表——考研阅读科研话题相关表达）
-> - "The novel explores the eternal conflict between good and evil, portraying the devil not merely as a supernatural being but as the embodiment of human selfishness and greed."（这部小说探讨了善与恶之间的永恒冲突，将魔鬼不仅描绘成一个超自然存在，而且描绘为人类自私和贪婪的化身——考研翻译文学话题相关表达）
+> - I'm going to wear a short black skirt and thigh-length boots ." "Ooh, you devil! `[例]`
+> - Have another slice of cake - go on, be a devil! `[例]`
+> - He's been ill for weeks , poor devil. `[例]`
 
 
 ---

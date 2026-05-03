@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The experiment **demonstrated** that the new drug was effective in treating the disease.（实验证明新药在治疗该疾病方面是有效的。）
-> - Thousands of workers **demonstrated** against the government's new labor law.（数千名工人示威抗议政府的新劳动法。）
-> - The salesperson **demonstrated** how the new software works.（销售人员演示了新软件的操作方法。）
-> - She **demonstrated** remarkable courage in the face of danger.（她在危险面前展现了非凡的勇气。）
+> - These numbers clearly demonstrate the size of the economic problem facing the country . `[例]`
+> - Research has demonstrated that babies can recognize their mother's voice very soon after birth . `[例]`
+> - These problems demonstrate the importance of strategic planning . `[例]`
+> - He got a job demonstrating kitchen equipment in a department store . `[例]`
 
 ---
 

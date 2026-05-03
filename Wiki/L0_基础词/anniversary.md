@@ -118,8 +118,9 @@ ann-(=annus, 年，拉丁语) + [[ver-vert|vers]](转，拉丁语 *vertere*) + -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The couple celebrated their 25th wedding anniversary."（这对夫妇庆祝了他们的25周年结婚纪念日）
-> - "The university marked its centennial anniversary with a grand ceremony."（这所大学以盛大仪式纪念建校百年）
+> - Last year marked the 150th anniversary of a series · of Yellowstone photographs by the r1enowned landscape photographer William • Henry Jackson. `[真题]`
+> - We always celebrate our wedding anniversary with dinner in an expensive restaurant . `[例]`
+> - Tomorrow is the 30th anniversary of the revolution . `[例]`
 
 
 ---

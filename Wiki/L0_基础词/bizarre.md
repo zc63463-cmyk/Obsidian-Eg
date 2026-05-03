@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**奇异的，古怪的**== `adj N` `it is adj that-clause`（异乎寻常的、令人惊讶的）；②==**荒诞的，怪诞的**== `adj N`（不合常理的）
+**adj.** ①==**奇异的，古怪的**==（异乎寻常的、令人惊讶的）；②==**荒诞的，怪诞的**==（不合常理的）
 
 > [!tip] 原型义
 > **原型义**：古怪的、异乎寻常的（像来自另一个世界的事物）
@@ -127,9 +127,9 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is bizarre that in a society that prides itself on scientific rationality, so many people still believe in superstitions." `[COCA-ACAD]`
-> - "The bizarre rituals of the ancient tribe fascinated anthropologists from around the world." `[COCA-ACAD]`
-> - "His bizarre experiment proved too good not to share." `[COCA-NEWS]`
+> - That party was too bizarre for me! `[例]`
+> - The duck-billed platypus is a truly bizarre creature . `[例]`
+> - The whole bizarre evening had an unreal quality to it. `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong."（Straitford公司的简报听起来不像华盛顿通常那种含糊其辞，各机构为了避免出错而避免做出引人注目的声明——2003年考研英语一Text 1）
-> - "The court declared that strike action was illegal."（法院宣布罢工行动非法——考研法律类语料）
+> - They declared their support for the proposal. `[例]`
+> - The court declared that strike action was illegal. `[例]`
+> - She declared (that) it was the best chocolate cake she had ever tasted . `[例]`
 
 
 ---

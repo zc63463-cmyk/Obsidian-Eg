@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**商标**==；②==**特征，标志**==（某人或某物的显著特征）；
-**v.** ①==**注册商标**==；
+**n.** ①==**商标**== `N`；②==**特征，标志**== `N`（某人或某物的显著特征）；
+**v.** ①==**注册商标**== `V`；
 
 > [!tip] 原型义
 > **原型义**：贸易中用来标记自己商品的符号
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has filed a lawsuit for trademark infringement, claiming that the competitor's logo is confusingly similar to its own registered trademark."（该公司已提起商标侵权诉讼，声称竞争对手的标志与其注册商标极其相似，容易造成混淆——考研阅读法律话题相关表达）
-> - "Her trademark optimism and resilience have made her a beloved figure among her colleagues and clients alike."（她标志性的乐观精神和韧性使她深受同事和客户的喜爱——考研阅读人物描写相关表达）
+> - Velcro is a registered trademark. `[例]`
+> - He was wearing one of the brightly coloured ties that are his trademark. `[例]`
+> - She gave one of her trademark smiles . `[例]`
 
 
 ---

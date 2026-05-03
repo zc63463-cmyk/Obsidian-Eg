@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A small lantern was swaying gently in the wind."（一盏小灯笼在风中轻轻摇晃。——考研翻译常见描写）
-> - "When there was no flashlight, people used lanterns to light the way."（没有手电的时候，人们打灯笼来照路。——考研文化话题常见表达）
+> - During this festival, women paint their hands with henna, and homes are decorated with colorful paper lanterns. `[例]`
+> - Now red is a symbol at New Year: people wear new red clothes, they decorate their houses with red lanterns, and they have fireworks covered in red paper. `[例]`
+> - We’re going to put paper lanterns in the trees in the garden for the party tonight. `[例]`
 
 
 ---

@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is widespread concern about environmental pollution."（人们对环境污染普遍感到担忧）——考研阅读中环保类话题
-> - "widespread use of the Internet"（互联网的广泛使用）——科技/社会类话题
-> - "widespread poverty in developing countries"（发展中国家的普遍贫困）——社会经济类阅读
+> - There are reports of widespread flooding in northern France. `[例]`
+> - Malnutrition in the region is widespread - affecting up to 78 percent of children under five years old . `[例]`
+> - The campaign has received widespread support . `[例]`
 
 ---
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**家畜，牲畜**==（总称）`V N` [农业]；`N N` [农业]；
+**n.** ①==**家畜，牲畜**== `N`（总称）；
 
 > [!tip] 原型义
 > **原型义**：活着的财产（live + stock → 活的资产→作为财产饲养的动物）
@@ -123,8 +123,8 @@ live（活的）+ stock（资产/储备/存货）→ **家畜，牲畜**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` "The expansion of livestock farming has raised concerns about its environmental impact, particularly regarding greenhouse gas emissions."
-> - `` `[例]` `` "Many small-scale farmers depend on livestock for their livelihood."
+> - The organic livestock industry has grown substantially in the last few years . `[例]`
+> - Mongolian herders have five different kinds of livestock. `[例]`
 
 ## 复习记录
 

@@ -123,8 +123,9 @@ e-(=ex-, 出/超出) + [[norm|norm-]](标准/规范) + -ous(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The enormous size of the project requires careful planning."（这个项目规模巨大，需要精心规划）
-> - "Women still face enormous obstacles in the workplace."（女性在职场中仍然面临巨大的障碍）
+> - He earns an enormous salary . `[例]`
+> - I was absolutely enormous when I was pregnant . `[例]`
+> - You've been an enormous help . `[例]`
 
 
 ---

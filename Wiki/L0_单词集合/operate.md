@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**操作，运转，运行**==；②==**动手术**==；③==**起作用，生效**==；
-**vt.** ①==**操作，控制（机器等）**==；②==**经营，管理（企业等）**==；③==**对……动手术**==；
+**vi.** ①==**操作，运转，运行**== `V`；②==**动手术**== `V`；③==**起作用，生效**== `V`；
+**vt.** ①==**操作，控制（机器等）**== `V N`；②==**经营，管理（企业等）**== `V N`；③==**对……动手术**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：工作、操作、使运转（投入劳动使某物运行）
@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company operates in more than 50 countries."（该公司在50多个国家运营）——考研阅读常见搭配，描述跨国企业
-> - "The doctor decided to operate on the patient immediately."（医生决定立即给病人动手术）——医学/社会类阅读语境
-> - "The new regulation operates to the disadvantage of small businesses."（新法规对小企业不利）——法律政策类阅读语境
+> - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
+> - How do you operate the remote control unit ? `[例]`
+> - Does the company operate a pension scheme ? `[例]`
 
 ---
 

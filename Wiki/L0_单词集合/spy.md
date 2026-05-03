@@ -129,9 +129,9 @@ spy 源自古法语 *espier*（观察、窥探），与拉丁语 *specere*（看
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was accused of spying for a foreign government and passing classified information."（他被指控为外国政府从事间谍活动并传递机密信息。）——考研高频表达
-> - "The spy satellite was designed to monitor military movements from space."（这颗间谍卫星旨在从太空监控军事动向。）——考研高频表达
-> - "She spied a familiar face in the crowd and waved excitedly."（她在人群中发现了熟悉的面孔，兴奋地挥手。）——考研高频表达
+> - He was arrested for spying on missile sites . `[例]`
+> - I generally like to spy out restaurants before I go to eat in them. `[例]`
+> - His former colleagues have denounced him as a spy. `[例]`
 
 ---
 

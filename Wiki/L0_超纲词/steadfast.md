@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**坚定的，不动摇的**==；②忠实的，忠诚的；
+**adj.** ①==**坚定的，不动摇的**== `adj`；②==**忠实的，忠诚的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：站得稳稳的（双脚牢牢站在地上，不移动）
@@ -125,8 +125,8 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She remained steadfast in her commitment to justice.（她对正义的承诺始终坚定不移。）
-> - He has been a steadfast friend through all my difficulties.（在我所有的困难中，他一直是一个忠实的朋友。）
+> - The group remained steadfast in its support for the new system , even when it was criticized in the newspapers . `[例]`
+> - He remained steadfast in his determination to bring the killers to justice. `[例]`
 
 ## 复习记录
 

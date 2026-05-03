@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**火山的，由火山引起的**==；②==**猛烈的，暴烈的**==（比喻义）；③火山岩的；
+**adj.** ①==**火山的，由火山引起的**== `adj`；②==**猛烈的，暴烈的**== `adj`（比喻义）；③==**火山岩的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：火山的，与火山有关的（源自罗马火神 Vulcan 的名字）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The volcanic eruption buried the city under layers of ash."（火山喷发将这座城市埋在了层层灰烬之下。）
-> - "His volcanic temper made him difficult to work with."（他暴烈的脾气使他很难共事。）
+> - Geologists understand many of the factors that cause volcanic eruptions . `[例]`
+> - They had to deal with the actor's famously volcanic temper . `[例]`
 
 ## 复习记录
 

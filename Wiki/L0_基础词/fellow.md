@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin."（大多数人甚至不认识自己的远房表亲，但不知为何总能选择与自己亲属相似的人做朋友——2015年英语一完形填空）
-> - "He crossed out 'fellow subjects,' and instead inserted 'fellow citizens'."（他划掉了"国民同胞们"，而写进了"公民同胞们"——考研高频表达）
+> - She introduced me to some of her fellow students . `[例]`
+> - Our fellow travellers were mostly Spanish-speaking tourists . `[例]`
+> - He seemed like a decent fellow. `[例]`
 
 
 ---

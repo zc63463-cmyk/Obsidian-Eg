@@ -131,8 +131,9 @@ al-(=ad-, to，向) + loy（=lig，绑，拉丁语 *ligare*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The resulting steel appears to achieve a combination of strength and toughness that is comparable to that of modern steels that are very rich in alloy content and, therefore, very expensive."（由此产生的钢似乎达到了与现代高合金含量钢材相当的强度和韧性组合，而后者因此非常昂贵——考研阅读高频表达）
-> - "Pure gold is too soft for ordinary use and is typically hardened by alloying it with copper or other base metals."（纯金太软不适合日常使用，通常通过与铜或其他贱金属合金化来硬化——考研翻译常见表达）
+> - Brass is an alloy of copper and zinc . `[例]`
+> - Pure gold is too soft for ordinary use and is typically hardened by alloying it with copper or other base metals . `[例]`
+> - They alloyed tin with copper to make bronze . `[例]`
 
 
 ---

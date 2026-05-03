@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**开口，洞，缺口**==；②==**开始，开端**==；③==**空缺，职位空缺**==；④==**机会，良机**==；
-**adj.** ①==**开始的，开幕的**==；②==**开放的，公开的**==；
-**v.** ①==**打开，开放**==（open 的现在分词）；
+**n.** ①==**开口，洞，缺口**== `N`；②==**开始，开端**== `N`；③==**空缺，职位空缺**== `N`；④==**机会，良机**== `N`；
+**adj.** ①==**开始的，开幕的**== `adj`；②==**开放的，公开的**== `adj`；
+**v.** ①==**打开，开放**== `V`（open 的现在分词）；
 
 > [!tip] 原型义
 > **原型义**：打开/展开的动作（open 的动名词形式，即"使封闭状态变为开放状态"的动作或结果）
@@ -143,10 +143,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "job openings"（职位空缺）——考研阅读中就业类话题高频表达
-> - "opening ceremony"（开幕式）——考研阅读中描述文化活动、体育赛事
-> - "opening remarks"（开场白）——考研翻译/写作中描述演讲、会议的开场
-> - "opening hours"（营业时间）——考研阅读中描述公共服务、图书馆等
+> - The children crawled through an opening in the fence . `[例]`
+> - The official opening of the new school will take place next month . `[例]`
+> - Preparations are under way for the store's grand opening on Thursday . `[例]`
+> - The opening of the novel is amazing . `[例]`
 
 ---
 

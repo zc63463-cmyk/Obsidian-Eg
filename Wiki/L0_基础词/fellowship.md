@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She received a fellowship to study abroad for a year."（她获得了一笔奖学金，可以去国外学习一年。——考研高频搭配）
-> - "Kelly enjoys good fellowship with her neighbours."（凯莉与邻居们相处融洽。——经典例句）
+> - He enjoyed the fellowship of other actors in the company . `[例]`
+> - He was awarded a fellowship at the college . `[例]`
+> - PhDs can be expensive , unless you get a fellowship. `[例]`
 
 
 ---

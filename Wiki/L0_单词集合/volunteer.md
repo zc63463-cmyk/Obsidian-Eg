@@ -121,8 +121,9 @@ vol-(意志、意愿) + -unt(连接成分) + -eer(表示"人"的后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The participants volunteered and were paid on completion of the tasks."（参与者自愿参加，并在完成任务后获得报酬。）——考研高频表达
-> - "In his spare time, he engages in voluntary work at the local community center."（在业余时间，他在当地社区中心从事志愿工作。）——考研高频表达
+> - The health clinic is relying on volunteers to run the office and answer the phones . `[例]`
+> - Since it would be a highly dangerous mission , the Lieutenant asked for volunteers. `[例]`
+> - It's a volunteer army with no paid professionals . `[例]`
 
 ---
 

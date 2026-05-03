@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In recent years, technology startups have been sprouting up in cities across the country, driven by favorable government policies and increased investment."（近年来，在政府优惠政策和投资增加的推动下，科技创业公司在全国各地的城市不断涌现——考研阅读经济科技话题相关表达）
-> - "The seeds of democracy sprouted in the region after decades of authoritarian rule, as citizens began to demand greater political participation."（在数十年的威权统治之后，民主的种子在该地区萌芽，公民开始要求更多的政治参与——考研阅读政治话题相关表达）
+> - It takes about three days for the seeds to sprout. `[例]`
+> - Your hair is sticking up - it looks like you're sprouting horns ! `[例]`
+> - New factories have sprouted up everywhere . `[例]`
 
 
 ---

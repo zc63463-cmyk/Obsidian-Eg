@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "for want of a better word"（因找不到更好的措辞）——考研翻译/写作常见表达
-> - "children in want"（贫困儿童）——社会类阅读常见搭配
-> - "You want to be more careful."（你应该更小心）——口语/虚拟语气用法
+> - Hom said similar registration requirements could benefit struggling cities and towns , but " if we want to make a change in the housing market, the main one is we have to build a lot more. `[真题]`
+> - She wants a meeting with you. `[例]`
+> - He's everything you'd ever want in a man - bright , funny and attractive . `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**奇怪的，反常的**==；②==**奇数的，不成对的**==；③临时的，不固定的；④有零头的，余的；
+**adj.** ①==**奇怪的，反常的**== `adj`；②==**奇数的，不成对的**== `adj`；③==**临时的，不固定的**== `adj`；④==**有零头的，余的**== `adj`；
 **adv.** （用于数字后）大约，左右；
 
 > [!tip] 原型义
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Odd though it sounds, cosmic inflation is a scientifically plausible consequence of some respected ideas in elementary particle physics."（虽然听起来很奇怪，但宇宙膨胀是基本粒子物理学中一些公认观点的科学合理结果。——1998年考研翻译）
-> - "Left, until now, to odd, low-level IT staff to put right, information protection is now high on the boss's agenda in businesses of every variety."（信息保护过去一直交给临时的、低级别的IT人员来处理，而现在已成为各类企业老板议程上的重中之重。——2007年英语一Text 4）
+> - Her father was an odd man. `[例]`
+> - What an odd thing to say. `[例]`
+> - The skirt and jacket looked a little odd together. `[例]`
 
 
 ---

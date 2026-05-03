@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They were the pioneers of the American West."（他们是美国西部的拓荒者。——Lak12 高频例句）
-> - "John Whitney was a pioneer of computer animation."（约翰·惠特尼是计算机动画的先驱。——Lak12 高频例句）
+> - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
+> - One of the pioneers of modern science. `[例]`
+> - The pioneers went west across North America , cutting down forests and planting new crops . `[例]`
 
 
 ---

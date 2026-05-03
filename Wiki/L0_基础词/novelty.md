@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**新奇事物，新颖**==（考研重点义项）；②==**新颖，新奇（的品质）**==；③廉价小商品，小玩意儿；
+**n.** ①==**新奇事物，新颖**== `N`（考研重点义项）；②==**新颖，新奇（的品质）**== `N`；③==**廉价小商品，小玩意儿**== `N`；
 **adj.** 新奇的，新颖的（较少使用）；
 
 > [!tip] 原型义
@@ -131,8 +131,9 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The novelty of the Internet has worn off, but its transformative power remains undiminished."（互联网的新奇感已经消退，但其变革力量依然不减。——考研英语阅读科技类话题，novelty wears off 是高频考点）
-> - "There is a certain novelty in reading a book written entirely by artificial intelligence."（阅读一本完全由人工智能撰写的书确实有一种新奇感。——考研英语阅读科技类话题，the novelty of 是高频搭配）
+> - The novelty of these toys soon wore off and the children became bored with them. `[例]`
+> - In Britain in the 1950s, television still had novelty value . `[例]`
+> - Tourists are still a novelty on this remote island . `[例]`
 
 
 ---

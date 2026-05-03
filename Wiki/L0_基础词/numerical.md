@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**数字的，数值的**==；②用数字表示的；
+**adj.** ①==**数字的，数值的**== `adj`；②==**用数字表示的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：数字的（与数字相关的）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The data was presented in numerical order."（数据按数字顺序呈现。）
-> - "Their numerical superiority did not guarantee victory."（他们的数量优势并不能保证胜利。）
+> - Keep your files in numerical order . `[例]`
+> - The UN forces have a numerical superiority over the rebels (= there are more of the UN forces ) . `[例]`
+> - The phone's voice-recognition system converts the sound into numerical data . `[例]`
 
 
 ---

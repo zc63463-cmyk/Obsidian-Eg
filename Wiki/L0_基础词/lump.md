@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government paid a lump sum to compensate the victims."（政府一次性支付了赔偿金给受害者）
-> - "Don't lump all students together — each has different needs."（不要把所有学生归为一类——每个人都有不同的需求）
+> - It was winter and we were down to our last lumps of coal . `[例]`
+> - You don't want lumps in the sauce . `[例]`
+> - I'll be getting the insurance money in two lumps. `[例]`
 
 
 ---

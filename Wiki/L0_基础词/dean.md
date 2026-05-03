@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The dean of the engineering faculty announced new admission requirements."（工程学院院长宣布了新的录取要求。——考研阅读教育类）
-> - "She is considered the dean of modern American journalism."（她被认为是现代美国新闻界的元老。——红宝书考研词汇例句）
+> - She is the new dean of the Faculty of Social Sciences . `[例]`
+> - Parsons is the dean of the TV news correspondents at Channel Nine. `[例]`
+> - Langer is the dean of the law school . `[例]`
 
 
 ---

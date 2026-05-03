@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For many students, getting into a top university seems like a lottery."（对许多学生来说，进入顶尖大学似乎靠的是运气——考研教育类阅读）
-> - "The government uses a lottery system to allocate housing."（政府采用抽签制度分配住房——考研社会类阅读）
+> - Education in England is something of a lottery. `[例]`
+> - Even if she won the lottery, Paige says she’d still keep her job . `[例]`
+> - The council applied for a £40m grant from the national lottery to redevelop local facilities . `[例]`
 
 
 ---

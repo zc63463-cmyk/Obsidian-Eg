@@ -125,8 +125,9 @@ muni-(=munis，公共义务/服务，源自拉丁语 *munus*) + cip(=cap，拿/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The municipal government has invested heavily in public transportation."（市政府在公共交通方面投入了大量资金——考研翻译常见表达）
-> - "Municipal bonds are considered relatively safe investments."（市政债券被认为是相对安全的投资——考研阅读经济类话题）
+> - Orange County issued $1 billion in municipal securities . `[例]`
+> - State and local issuers are swamping investors with about $2.4 billion in new municipal debt . `[例]`
+> - The odds seem to favor selling instead of buying municipals. `[例]`
 
 
 ---

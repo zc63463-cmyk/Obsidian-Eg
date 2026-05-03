@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**停工（雇主发起的）**== `V N` [劳资]；`N N` [劳资]；②封闭，关闭 `V N` [通用]；
+**n.** ①==**停工（雇主发起的）**== `N`；②==**封闭，关闭**== `N`；
 
 > [!tip] 原型义
 > **原型义**：把人锁在外面（lock + out → 锁住不让进）
@@ -126,8 +126,8 @@ lock（锁）+ out（外面）→ **把人锁在外面 → 停工**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` "The NBA lockout in 2011 resulted in a shortened season, costing the league billions of dollars."
-> - `` `[例]` `` "Management imposed a lockout after negotiations with the union broke down."
+> - The General Strike in 1926 was caused by the lockout of coal miners . `[例]`
+> - A contract agreement would end the company's lockout of nearly 500 union garbage haulers . `[例]`
 
 ## 复习记录
 

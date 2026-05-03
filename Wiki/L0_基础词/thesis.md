@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**论文，学位论文**==；②论点，命题；③（文章的）中心论点；
+**n.** ①==**论文，学位论文**== `N`；②==**论点，命题**== `N`；③==**（文章的）中心论点**== `N`；
 
 > [!tip] 原型义
 > **原型义**：放置的东西（提出的论点/命题——"放在那里的主张"）
@@ -128,8 +128,9 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His thesis was that World War I could have been avoided."（他的论点是第一次世界大战本可以避免。——剑桥词典例句）
-> - "She spent months researching and writing her thesis on the effects of climate change on coastal communities."（她花了几个月的时间研究和撰写关于气候变化对沿海社区影响的论文。——词汇宝例句）
+> - His thesis was that World War I could have been avoided . `[例]`
+> - A doctoral thesis (= for a PhD ). `[例]`
+> - Their main thesis was that war was inevitable . `[例]`
 
 
 ---

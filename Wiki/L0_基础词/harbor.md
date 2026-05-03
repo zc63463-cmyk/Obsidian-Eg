@@ -141,8 +141,9 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Biofilm communities can harbor bacteria longer and are very difficult to clean."（生物膜群落能更长时间地藏有细菌，并且非常难以清除。——2018年12月四级阅读Section B）
-> - "He harbored the suspicion that someone in the agency was spying for the enemy."（他心存怀疑，认为机构中有人在为敌人充当间谍。——考研英语阅读相关语料）
+> - He harbored the suspicion that someone in the agency was spying for the enemy . `[例]`
+> - They were accused of harboring a fugitive . `[例]`
+> - The tanker stayed in Boston harbor three days to undergo repairs. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大亨，巨头**== `a/adj N` [通用]；②==**莫卧儿人（历史）**== `the Mogul Empire` [学术]；
+**n.** ①==**大亨，巨头**== `N`；②==**莫卧儿人（历史）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在某领域拥有巨大权力和影响力的人
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The tech mogul announced plans to invest billions in renewable energy. [C]
-> - `[例]` She built a media empire and became one of the most influential moguls in the entertainment industry. [C]
+> - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
+> - One of the world's biggest media moguls has been hit especially hard by the economic crisis . `[例]`
 
 ## 复习记录
 

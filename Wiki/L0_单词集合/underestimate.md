@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We should not underestimate the difficulty of the task."（我们不应低估这项任务的难度。）——考研阅读/写作常见句式
-> - "Never underestimate the power of public opinion."（永远不要低估舆论的力量。）——考研阅读
-> - "The government seriously underestimated the cost of the project."（政府严重低估了项目的成本。）——考研翻译
+> - Their stock is underestimated. `[真题]`
+> - Originally the contractor gave me a price of €2,000, but now they say they underestimated and it's going to be at least €3,000. `[例]`
+> - Don't underestimate the difficulties of getting both parties to the conference table . `[例]`
 
 ---
 

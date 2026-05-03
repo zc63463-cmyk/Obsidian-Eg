@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**无法解释地，莫名其妙地**==；②不可理解地；
+**adv.** ①==**无法解释地，莫名其妙地**== `adv`；②==**不可理解地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：无法解释地（无法被算清/说明原因）
@@ -125,8 +125,8 @@ un-(不，否定前缀) + [[count|count]](计算) + -able(可被...的) + -ly(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He felt unaccountably drawn to the stranger."（他感到莫名其妙地被那个陌生人吸引。）
-> - "The project failed, unaccountably, despite careful planning."（尽管计划周密，项目还是莫名其妙地失败了。）
+> - I felt unaccountably happy this morning . `[例]`
+> - Unaccountably, the lawyer never called this supposed witness . `[例]`
 
 ## 复习记录
 

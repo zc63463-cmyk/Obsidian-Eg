@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**大胆的，勇敢的**== `a bold move` / `a bold decision`；②==**冒失的，鲁莽的**== `too bold` / `a bold remark`；③醒目的，粗体的 `bold type` / `in bold`；④大胆的（行为/举措）；
+**adj.** ①==**大胆的，勇敢的**==；②==**冒失的，鲁莽的**==；③醒目的，粗体的；④大胆的（行为/举措）；
 
 > [!tip] 原型义
 > **原型义**：大胆的、勇敢的（敢于面对危险的）
@@ -130,9 +130,9 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The newspapers described her resignation as a bold move. `[LDOCE]`
-> - All the headings are in bold type. `[LDOCE]`
-> - Ending negotiations was seen as a bold stroke by many commentators. `[Cambridge]`
+> - The newspaper took the bold step of publishing the names of the men involved . `[例]`
+> - The team made the bold move of trading its star player . `[例]`
+> - She was a bold and fearless climber . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**轨道，轨迹**==（物体运动的路径）；②（事业、发展等的）发展轨迹；
+**n.** ①==**轨道，轨迹**== `N`（物体运动的路径）；②==**（事业、发展等的）发展轨迹**== `N`；
 
 > [!tip] 原型义
 > **原型义**：轨道，轨迹（物体运动的路径）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The trajectory of his career took an unexpected turn when he switched from law to medicine."（当他从法律转向医学时，他的职业轨迹发生了意想不到的转变）
-> - "Scientists calculated the trajectory of the comet with remarkable precision."（科学家以惊人的精度计算了彗星的轨迹）
+> - My career seemed to be on a downward trajectory. `[例]`
+> - How these questions are answered will shape Hyperliquid’s trajectory and the development, access to and adoption of next generation market infrastructure in the United States. `[例]`
 
 ## 复习记录
 

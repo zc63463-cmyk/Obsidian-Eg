@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**值得注意的，显著的**==；②著名的，显要的；
-**n.** ①==**名人，显要人物**==；
+**adj.** ①==**值得注意的，显著的**== `adj`；②==**著名的，显要的**== `adj`；
+**n.** ①==**名人，显要人物**== `N`；
 
 > [!tip] 原型义
 > **原型义**：值得注意的（能够被标记出来引起关注的人或事）
@@ -131,8 +131,9 @@ not(知道/注意，拉丁语 *notus*，[[notare* "标记"]]) + -able(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There has been a notable increase in the number of students applying for scholarships."（申请奖学金的学生数量有了显著增加——考研教育类阅读）
-> - "The most notable feature of the new policy is its emphasis on innovation."（新政策最显著的特点是强调创新——考研政治类阅读）
+> - A notable collection of rare plants. `[例]`
+> - Getting both sides to agree was a notable achievement . `[例]`
+> - This attractive building is particularly notable for its woodland setting. `[例]`
 
 
 ---

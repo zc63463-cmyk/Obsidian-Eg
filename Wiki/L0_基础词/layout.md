@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The layout platform defines the arrangement of wires to leads and decouples the leads from other layers of the product architecture."（布局平台定义了导线与引脚的排列方式，并将引脚与产品架构的其他层解耦。——Cambridge English Corpus）
-> - "She got laid off when the company downsized."（公司缩减规模时她被解雇了。——Cambridge Dictionary）
-> 注：layout 在技术文档和设计领域出现频率极高。
+> - Application forms vary greatly in layout and length . `[例]`
+> - His house has three bedrooms and ours has four, but otherwise the layout is much the same. `[例]`
+> - Each article in the journal has its own typeface and layout. `[例]`
 
 
 ---

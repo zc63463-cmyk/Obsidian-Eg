@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the past year, however, software companies have developed tools that allow companies to "push" information directly out to consumers."（然而，去年软件公司开发了新工具，使公司能将信息直接"推"送给消费者。）——1999年阅读Text2
-> - "Go straight down this road and turn left at the second intersection."（沿着这条路一直走，在第二个路口左转。）——考研高频表达
+> - She has straight blonde hair . `[例]`
+> - Skirts this summer are long and straight. `[例]`
+> - Can't you see it? - it's straight ahead (of you)! `[例]`
 ---
 
 

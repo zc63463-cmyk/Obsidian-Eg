@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使纯净，净化**== `V N`；②==**提纯**== `V N`；③==**使（心灵）纯洁**== `V N`；
+**v.** ①==**使纯净，净化**== `V N`；②==**提纯**== `V`；③==**使（心灵）纯洁**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：使纯净（去除杂质，使变得干净纯粹——使动用法）
@@ -125,9 +125,9 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - One of the functions of the kidneys is to purify the blood. ` `[COCA-ACAD]` `
-> - Plants help to purify the air. ` `[COCA-ACAD]` `
-> - Hindus purify themselves by bathing in the river Ganges. ` `[COCA-ACAD]` `
+> - Plants help to purify the air . `[例]`
+> - One of the functions of the kidneys is to purify the blood . `[例]`
+> - One of the main teachings of Buddhism is that you should try to purify your mind . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**纳税人**==；②（作为纳税人的）普通公民；
+**n.** ①==**纳税人**== `N`；②==**（作为纳税人的）普通公民**== `N`；
 
 > [!tip] 原型义
 > **原型义**：纳税人（向政府缴纳税款的人）
@@ -123,8 +123,8 @@ tax（税）+ payer（支付者，pay + -er）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The project was funded with taxpayer money."（该项目由纳税人的钱资助）
-> - "Taxpayers have the right to know how their money is being spent."（纳税人有权知道他们的钱是如何被使用的）
+> - Taxpayers' money should not be going to companies not following the law . `[例]`
+> - Taxpayers should not have to pay for the failure of private companies . `[例]`
 
 ## 复习记录
 

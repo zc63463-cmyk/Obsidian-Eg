@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government faced a storm of criticism over its handling of the crisis."（政府因危机处理方式面临猛烈的批评风暴。）
-> - "She stormed out of the meeting in fury."（她愤怒地冲出会议室。）
+> - A lot of trees were blown down in the recent storms. `[例]`
+> - They're still cleaning up the storm damage . `[例]`
+> - There was a storm of protest when the new tax was announced . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**木刻版画，木刻画**==；②木刻的印版；
+**n.** ①==**木刻版画，木刻画**== `N`；②==**木刻的印版**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在木头上雕刻的图案（wood 木头 + cut 切割 → 在木头上刻出来的画）
@@ -124,8 +124,8 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The museum houses an impressive collection of 19th-century Japanese woodcuts."（博物馆收藏了一批令人印象深刻的19世纪日本木刻版画）
-> - "Woodcut was the earliest form of printmaking in Europe."（木刻是欧洲最早的版画形式）
+> - Long ago, woodcuts were used by printers for illustrations . `[例]`
+> - A collection of fine woodcuts. `[例]`
 
 ## 复习记录
 

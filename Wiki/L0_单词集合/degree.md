@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "to some degree"（在某种程度上）——考研阅读/翻译超高频短语，用于限定论述范围
-> - "a considerable degree of"（相当程度的……）——考研阅读中描述程度大小的常见搭配
-> - "by degrees"（逐渐地）——考研阅读中描述渐进过程的副词短语
+> - This job demands a high degree of skill . `[例]`
+> - There isn't the slightest degree of doubt that he's innocent . `[例]`
+> - I have to warn you that there's a degree of (= some) danger involved in this. `[例]`
 
 ---
 

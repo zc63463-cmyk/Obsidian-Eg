@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even the most experienced researchers were surprised by the findings."（甚至连最有经验的研究人员也对这些发现感到惊讶）
-> - "The company managed to break even in its third year of operation."（公司在运营的第三年实现了收支平衡）
+> - Even if a state is considered a high performer in its science standards, "that does not mean it will be taught" , he says. `[真题]`
+> - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
+> - Boston took things even further, requiring renters to register with the city's Inspectional Services Department. `[真题]`
 
 
 ---

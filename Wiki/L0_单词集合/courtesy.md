@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's a matter of common courtesy to acknowledge letters."（确认收到来信是起码的礼貌。——考研英语高频例句）
-> - "He could at least have had the courtesy to say sorry."（他至少应该礼貌说句对不起。——剑桥词典，考研高频表达）
+> - You might get along better with your parents if you showed them some courtesy. `[例]`
+> - He could at least have had the courtesy to say sorry . `[例]`
+> - Jessie J appears courtesy of Universal Records. `[例]`
 
 ---
 

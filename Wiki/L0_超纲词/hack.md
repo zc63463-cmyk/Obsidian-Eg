@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**劈，砍**== `hack sth. to pieces` [中性]；②（非法）侵入（计算机系统） `hack into a system/website` [中性]；③大幅削减 `hack spending/budget` [非正式]；
-**n.** ①==**黑客**== `a computer/ethical hacker` [中性]；②劈砍 `a hack of the axe` [中性]；③蹩脚的写作者/作品；④出租车（hackney的简称）；
+**v.** ①==**劈，砍**== `V`；②==**（非法）侵入（计算机系统）**== `V`；③==**大幅削减**== `V`；
+**n.** ①==**黑客**== `N`；②==**劈砍**== `N`；③==**蹩脚的写作者/作品**== `N`；④==**出租车（hackney的简称）**== `N`；
 > [!tip] 原型义
 > **原型义**：劈砍（用工具用力砍）
 > **延伸维度**：抽象路径
@@ -130,9 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Hackers gained access to millions of user accounts through a security breach. `[例]`
-> - The government hacked public spending in an effort to reduce the deficit. `[例]`
-> - She hacked into the university database to change her grades. `[例]`
+> - The butcher hacked off a large chunk of meat . `[例]`
+> - Three villagers were hacked to death in a savage attack . `[例]`
 
 ## 复习记录
 

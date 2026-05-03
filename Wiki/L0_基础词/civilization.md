@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet the cost we project for saving civilization would amount to less than $200 billion a year, 1/6 of current global military spending."（然而，我们预计拯救文明所需的费用每年不到2000亿美元，仅为当前全球军事开支的六分之一。——2016年6月六级阅读，原文讨论全球农业与环境危机）
-> - "Yet I, too, have resisted the idea that food shortages could bring down not only individual governments but also our global civilization."（然而，我也一直抵制这样一种观点：粮食短缺不仅可能推翻个别政府，还可能摧毁我们的全球文明。——2016年6月六级阅读，同篇原文）
+> - Cuzco was the centre of one of the world's most famous civilizations, that of the Incas. `[例]`
+> - The ancient civilization was able to sustain a thriving agricultural economy even in those areas with non-irrigated crops . `[例]`
+> - Some people think that nuclear war would mean the end of civilization. `[例]`
 
 
 ---

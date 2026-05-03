@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**桥，桥梁**== `N`；②桥梁，纽带 `a N between N`（比喻连接作用）；③鼻梁；④桥牌；
-**v.** ①==**架桥于，连接**== `V N`；②弥合（分歧） `V N`；
+**n.** ①==**桥，桥梁**==；②桥梁，纽带（比喻连接作用）；③鼻梁；④桥牌；
+**v.** ①==**架桥于，连接**==；②弥合（分歧）；
 
 > [!tip] 原型义
 > **原型义**：连接两岸的建筑物（跨越河流、山谷等障碍的结构）
@@ -129,10 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to bridge the gap between rich and poor." `[COCA-NEWS]`
-> - "Education can serve as a bridge between different cultures." `[COCA-ACAD]`
-> - "The investigation brought to light several new facts about the bridge collapse." `[COCA-NEWS]`
-> - "Don't cross the bridge until you come to it." `[COCA-FIC]`
+> - AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs. `[真题]`
+> - We drove across the bridge. `[例]`
+> - Part-time work can provide a bridge between staying at home and working full-time . `[例]`
 
 
 ---

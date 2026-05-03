@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Deceit, according to him, was impossibility in the case of one trained to observation and analysis."（根据他的说法，对于一个受过观察和分析训练的人来说，欺骗是不可能的。——考研翻译类高频表达，源自福尔摩斯探案集）
-> - "They accused him of weaving a web of lies and deceit."（他们指控他编织了一个满是谎言和欺诈的骗局。——考研阅读常见表达）
+> - The story is about theft , fraud , and deceit on an incredible scale . `[例]`
+> - When the newspapers published the full story , all his earlier deceits were revealed . `[例]`
+> - All we hear from them are lies and deceit. `[例]`
 
 
 ---

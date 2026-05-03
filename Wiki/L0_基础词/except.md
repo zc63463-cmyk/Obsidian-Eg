@@ -132,8 +132,9 @@ ex-(出) + [[cap]](拿取，抓取) → 从中取出 → 排除在外
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Everyone was present except for the chairman."（除了主席，所有人都在场。）
-> - "I know nothing about the matter except what I read in the newspaper."（除了在报纸上读到的，我对这件事一无所知。）
+> - The museum is open daily except Monday(s). `[例]`
+> - The government has few options except to keep interest rates high. `[例]`
+> - It's cool and quiet everywhere except in the kitchen . `[例]`
 
 
 ---

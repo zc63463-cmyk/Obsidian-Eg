@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We had heavy hearts as we went to a funeral."（我们怀着沉重的心情去参加葬礼。——经典例句）
-> - "He laboured up the hill with his heavy load."（他扛着沉重的货物艰难地上山。——经典例句）
+> - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
+> - He laboured up the hill with his heavy load . `[例]`
+> - How heavy is that box ? (= How much does it weigh ?). `[例]`
 
 
 ---

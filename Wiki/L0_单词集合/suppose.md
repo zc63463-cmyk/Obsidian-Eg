@@ -128,8 +128,9 @@ sup-(=sub-，在下方) + pos(放置，参见 [[pon/pos|pon/pos]]) → 在下面
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We shouldn't expect it to be everyone's priority — or even most people's."（我们不应指望它成为每个人的首要任务——甚至大多数人的。）——2019考研英语二阅读
-> - "Suppose we accept this argument, what are the implications for policy?"（假设我们接受这个论点，对政策有什么影响？）——考研高频表达
+> - Dan didn't answer his phone , so I suppose (that) he's busy . `[例]`
+> - He found it a lot more difficult to get a job than he supposed it would be. `[例]`
+> - Do you suppose (that) Gillian will marry him? `[例]`
 
 ---
 

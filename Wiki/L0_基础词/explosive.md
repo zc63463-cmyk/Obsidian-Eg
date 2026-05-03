@@ -130,9 +130,9 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country experienced explosive economic growth in the 1990s."（该国在20世纪90年代经历了经济急剧增长。）
-> - "The issue of immigration has become politically explosive."（移民问题已成为政治上高度敏感的话题。）
-> - explosive growth 是考研经济类阅读的高频表达
+> - Certain gases are highly explosive. `[例]`
+> - An explosive device (= a bomb ) was found at one of the capital's busiest stations this morning . `[例]`
+> - There was an explosive clap of thunder overhead . `[例]`
 
 ---
 

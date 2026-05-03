@@ -138,8 +138,9 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The administration was in essence asserting that because it didn't want to carry out Congress's immigration wishes, no state should be allowed to do so either."（政府其实声称因为自己不想执行国会的移民意愿，任何州也不允许执行——2012年考研英语阅读）
-> - "The indisputable fact is that computers carry out logical operations."（不容置疑的事实是，计算机执行逻辑运算——考研翻译相关语料）
+> - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+> - Would you like me to carry your bag for you? `[例]`
+> - These books are too heavy for me to carry. `[例]`
 
 
 ---

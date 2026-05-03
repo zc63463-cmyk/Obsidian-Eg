@@ -123,8 +123,9 @@ suit 源自拉丁语 *sequi*（跟随），与 [[sue]]（起诉/追随）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new dress suits her perfectly."（这件新裙子非常适合她。）——考研高频表达
-> - "Candidates must suit the requirements of the position."（候选人必须符合该职位的要求。）——考研高频表达
+> - He was dressed formally , in a midnight-blue dinner suit that emphasized the width of his shoulders . `[例]`
+> - Tuxedo suits are a viable option for very formal soirées . `[例]`
+> - All the businessmen were wearing pinstripe suits. `[例]`
 
 ---
 

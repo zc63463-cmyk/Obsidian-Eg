@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**制药的，药学的**==；
-**n.** ①==**药物，药品**==；②制药公司；
+**adj.** ①==**制药的，药学的**== `adj`；
+**n.** ①==**药物，药品**== `N`；②==**制药公司**== `N`；
 
 > [!tip] 原型义
 > **原型义**：与药物相关的
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The pharmaceutical industry invests billions in research and development each year.（制药行业每年在研发上投资数十亿）
-> - Many pharmaceuticals have side effects that patients should be aware of.（许多药品有患者应注意的副作用）
+> - Dozens of pharmaceuticals have been detected in minute quantities in treated wastewater. `[例]`
+> - Don't expect major pharmaceuticals to let reforms pass without a well-funded political fight . `[例]`
 
 ## 复习记录
 

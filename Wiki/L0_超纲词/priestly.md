@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**牧师的，教士的，像牧师的**==；②==**僧侣的，神职人员的**==；
+**adj.** ①==**牧师的，教士的，像牧师的**== `adj`；②==**僧侣的，神职人员的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：像牧师一样的（具有牧师的特征或职能）
@@ -123,7 +123,8 @@ priest（牧师/神父）+ -ly（形容词后缀，具有……性质的）= 像
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "In medieval Europe, priestly celibacy was strictly enforced by the Church."（在中世纪的欧洲，牧师的独身制受到教会的严格执行。）
+> - He is a kind, priestly man. `[例]`
+> - Majestically robed in priestly garments. `[例]`
 
 ## 复习记录
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**繁荣，兴旺**==；②成功，昌盛；
+**n.** ①==**繁荣，兴旺**== `N`；②==**成功，昌盛**== `N`；
 
 > [!tip] 原型义
 > **原型义**：前方有希望的状态（[[prosper]] 的名词形式）
@@ -123,8 +123,9 @@ pro-(向前/在前) + [[sper|sper]](希望) + -ity(名词后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country enjoyed a period of unprecedented prosperity."（该国经历了一段史无前例的繁荣时期。）
-> - "Economic prosperity does not always translate into social well-being."（经济繁荣并不总是转化为社会福利。）
+> - A country's future prosperity depends , to an extent , upon the quality of education of its people . `[例]`
+> - The war was followed by a long period of peace and prosperity. `[例]`
+> - We need to drive growth and create jobs and prosperity. `[例]`
 
 
 ---

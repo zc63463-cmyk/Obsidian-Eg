@@ -132,8 +132,9 @@ day(天，源自PIE *dhegwh-*) + -ly(形容词/副词后缀，每……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Exercise has become part of my daily routine."（锻炼已经成为我日常生活的一部分——Cambridge English Corpus）
-> - "We back up our computer files at work on a daily basis."（我们每天都要对工作电脑文件进行备份——Cambridge English Corpus）
+> - Take the tablets twice daily. `[例]`
+> - Exercise has become part of my daily routine . `[例]`
+> - We back up our computer files at work on a daily basis . `[例]`
 
 
 ---

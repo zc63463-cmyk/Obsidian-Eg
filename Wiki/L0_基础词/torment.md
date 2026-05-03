@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**痛苦，折磨**==；②==**使人痛苦的人/事**==；
-**v.** ①==**折磨，烦扰**==；②使苦恼；
+**n.** ①==**痛苦，折磨**== `N`；②==**使人痛苦的人/事**== `N`；
+**v.** ①==**折磨，烦扰**== `V`；②==**使苦恼**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：身体被扭转的剧烈痛苦（源自拉丁语 *torquere*，扭转）
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was tormented by nightmares for years after the accident."（事故发生后，她多年来一直被噩梦折磨。）
+> - The family said they had endured years of torment and abuse at the hands of their neighbours . `[例]`
+> - Waiting for the result of the medical tests was sheer torment. `[例]`
+> - He spent the night in torment, trying to decide what was the best thing to do. `[例]`
 
 
 ---

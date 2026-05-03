@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**预付的，先期的**==；②坦率的，直言不讳的；
-**adv.** ①预先地，提前地；
+**adj.** ①==**预付的，先期的**== `adj`；②==**坦率的，直言不讳的**== `adj`；
+**adv.** ①==**预先地，提前地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：在最前面的位置（up-向上 + front前面 → 在最前面）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The landlord requires an upfront payment of two months' rent before moving in.（房东要求在搬入前预付两个月的房租。）
-> - She was upfront about the challenges the team would face in the coming year.（她坦率地说明了团队在未来一年将面临的挑战。）
+> - She's very upfront about why she wants the job - she'd earn a lot more money . `[例]`
+> - Film scriptwriters get an upfront payment for a major film . `[例]`
 
 ## 复习记录
 

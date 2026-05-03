@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Companies play a big role in creating a circular economy, in which value is generating less from extracting new resources and more from getting better use out of the resources we already have."（公司在创建循环经济中发挥着重要作用，在这种经济中，价值的产生较少来自开采新资源，而更多来自更好地利用我们已有的资源。——2019年六级阅读 Section B）
-> - "A circular to this effect will be issued in the next few weeks."（接下来几周内将发布一份大意如此的通告。——剑桥词典例句）
+> - Circulars and other junk mail go straight in the bin . `[例]`
+> - One man built a circular barn for his cows . `[例]`
+> - The circular area is used for parking . `[例]`
 
 
 ---

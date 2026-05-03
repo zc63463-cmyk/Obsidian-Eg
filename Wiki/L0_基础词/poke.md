@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't poke your nose into other people's business."（别多管闲事）
-> - "He poked the dying fire to keep it burning."（他拨弄快要熄灭的火，让它继续燃烧）
+> - Two kids were poking a stick into the drain . `[例]`
+> - Cathy poked her head round the door to say hello . `[例]`
+> - The first green shoots are poking up through the soil . `[例]`
 
 
 ---

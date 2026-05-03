@@ -141,8 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was laid off along with many others when the company moved to California."（当公司搬到加利福尼亚时，她和许多人一起被解雇了。——Cambridge Dictionary）
-> - "On seeing the eclipse, the two nations laid down their arms and made peace."（看到日食时，两国放下了武器，缔结和平。——Merriam-Webster）
+> - The plan is to lay (= build ) the foundations for the new apartments in October . `[例]`
+> - I was so tired that at one point , I was laying down on the floor ," he said. `[例]`
+> - My dog just lays there all day in the sun . `[例]`
 
 
 ---

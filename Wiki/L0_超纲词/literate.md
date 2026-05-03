@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有读写能力的，识字的**== `be adj` [通用]；`adj prep N` [通用]；②有文化修养的，博学的 `adj N` [文学]；③精通（某领域）的 `adv adj` [专业]；
-**n.** ①有读写能力的人 `the adj` [通用]；
+**adj.** ①==**有读写能力的，识字的**== `adj`；②==**有文化修养的，博学的**== `adj`；③==**精通（某领域）的**== `adj`；
+**n.** ①==**有读写能力的人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：认识字母的（拉丁语 *littera* = 字母→文字，-ate = 具有……性质的）
@@ -133,8 +133,8 @@ liter-（来自拉丁语 *littera*，字母→文字→文学）+ -ate（形容�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` "In today's digital age, being computer-literate is as essential as being able to read and write."
-> - `` `[例]` `` "A financially literate population is better equipped to make informed economic decisions."
+> - Only 25% of the country's population is literate. `[例]`
+> - The court heard that the defendant was not literate, had little schooling and was unemployed . `[例]`
 
 ## 复习记录
 

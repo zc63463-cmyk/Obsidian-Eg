@@ -143,8 +143,9 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The throat often feels dry and sore, the head feels stuffed, the eyes smart and there is a profuse watery nasal discharge."（喉咙常感干燥疼痛，头部感觉闷塞，眼睛刺痛，有大量水性鼻涕。——CRACCUM 1978, 描述感冒/chill 症状）
-> - "Unlike chill, which is merely a temporary discomfort, chronic conditions require long-term medical attention."（与只是暂时不适的着凉不同，慢性病需要长期的医疗关注。——基于语料综合改写）
+> - The dough needs to be chilled in order to firm up before rolling . `[例]`
+> - Chill the wine before serving . `[例]`
+> - The cold evening air chilled his face . `[例]`
 
 
 ---

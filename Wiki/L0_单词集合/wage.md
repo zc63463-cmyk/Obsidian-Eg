@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "minimum wage"（最低工资）——考研经济类阅读高频搭配，讨论劳动政策
-> - "wage a war against poverty"（向贫困宣战）——社会类写作常见表达
-> - "the wage gap between men and women"（男女工资差距）——社会议题高频语料
+> - The job pays very low wages. `[例]`
+> - Doesn't the president need Congress ' permission to wage war on another country ? `[例]`
+> - They've been waging a long campaign to change the law . `[例]`
 
 ---
 

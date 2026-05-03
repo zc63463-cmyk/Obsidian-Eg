@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**象征性的，象征的**==；②符号的，使用符号的；③象征意义的（而非实质的）；
+**adj.** ①==**象征性的，象征的**== `adj`；②==**符号的，使用符号的**== `adj`；③==**象征意义的（而非实质的）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：用符号代表的（用某种事物代表另一事物）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The gesture was largely symbolic, intended to show goodwill rather than effect real change."（这一姿态在很大程度上是象征性的，旨在展示善意而非实现真正的变革）
-> - "The dove is symbolic of peace."（鸽子是和平的象征）
+> - The dove is symbolic of peace. `[例]`
+> - The skull at the bottom of the picture is symbolic of death . `[例]`
 
 ## 复习记录
 

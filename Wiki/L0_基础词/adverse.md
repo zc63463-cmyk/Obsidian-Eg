@@ -133,8 +133,9 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vers]](=转，拉丁语 *vertere*，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Meat consumption has an adverse effect on the environment."（肉类消费对环境有不利影响——考研英语阅读）
-> - "Lack of money will have an adverse effect on our research programme."（缺少资金将对我们的研究方案产生不利影响——考研英语阅读）
+> - They received a lot of adverse publicity about the changes . `[例]`
+> - Lack of money will have an adverse effect on our research programme. `[例]`
+> - So far the drug is thought not to have any adverse effects . `[例]`
 
 
 ---

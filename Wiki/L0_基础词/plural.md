@@ -134,8 +134,9 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The plural form of 'criterion' is 'criteria'."（criterion 的复数形式是 criteria。——考研语法常见考点）
-> - "Data is the Latin plural form of datum, though in everyday usage it is often treated as a singular noun."（data 是 datum 的拉丁语复数形式，尽管在日常使用中它常被当作单数名词。——考研翻译常见学术话题）
+> - Geese" is the plural of " goose ". `[例]`
+> - Woman" in the plural is "women". `[例]`
+> - We need to recognize that we are now living in a plural society . `[例]`
 
 
 ---

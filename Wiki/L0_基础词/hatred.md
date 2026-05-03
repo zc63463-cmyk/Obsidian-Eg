@@ -129,8 +129,9 @@ hate（恨）+ -red（名词后缀，表示状态/条件，古英语 *-ræden*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What is very clear in these letters is Clark's passionate hatred of his father."（这些信非常清楚地表明了克拉克对他父亲的深切痛恨——剑桥词典经典例句，hatred of 为常考搭配）
-> - "The motive for this shocking attack seems to be racial hatred."（这起令人震惊的袭击的动机似乎是种族仇恨——英语阅读常见表达，racial hatred 为高频搭配，常出现于考研社会类阅读文章）
+> - What is very clear in these letters is Clark's passionate hatred of his father . `[例]`
+> - They are motivated by a hatred for their own country . `[例]`
+> - The motive for this shocking attack seems to be racial hatred. `[例]`
 
 
 ---

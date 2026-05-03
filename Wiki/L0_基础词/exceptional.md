@@ -124,8 +124,9 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She showed exceptional ability in mathematics from an early age."（她从小就展现出杰出的数学能力。）
-> - "These are exceptional circumstances that require special measures."（这些是需要采取特殊措施的例外情况。）
+> - Exceptional powers of concentration. `[例]`
+> - The company has shown exceptional growth over the past two years . `[例]`
+> - This is an exceptional contract , guaranteeing no layoffs . `[例]`
 
 
 ---

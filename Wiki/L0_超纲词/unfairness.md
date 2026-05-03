@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不公平，不公正**==；②不合理；
+**n.** ①==**不公平，不公正**== `N`；②==**不合理**== `N`；
 
 > [!tip] 原型义
 > **原型义**：不公平（不公正的状态）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + fair(公平的/美丽的) + -ness(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many workers protested against the unfairness of the new policy."（许多工人抗议新政策的不公平。）
-> - "The perceived unfairness of the system led to widespread dissatisfaction."（人们感受到的制度不公导致了普遍的不满。）
+> - The Act does not really address the fundamental unfairness of the system . `[例]`
+> - They can recall the lasting resentment caused by a teacher's blatant unfairness. `[例]`
 
 ## 复习记录
 

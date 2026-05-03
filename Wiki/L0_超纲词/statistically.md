@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**从统计学上看，统计上地**==；②在统计方面；
+**adv.** ①==**从统计学上看，统计上地**== `adv`；②==**在统计方面**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：从统计学角度（用统计方法和数据来分析）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The difference between the two groups was not statistically significant.（两组之间的差异在统计上不显著。）
-> - Statistically, the risk of infection is relatively low.（从统计学上看，感染的风险相对较低。）
+> - Researchers would not view this survey as being statistically valid . `[例]`
+> - Statistically speaking , you're more likely to die from a bee sting than win the lottery . `[例]`
 
 ## 复习记录
 

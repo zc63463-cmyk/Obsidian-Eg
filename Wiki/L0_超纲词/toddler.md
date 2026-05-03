@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**幼童，蹒跚学步的孩子**==（通常指1-3岁）；
+**n.** ①==**幼童，蹒跚学步的孩子**== `N`（通常指1-3岁）；
 
 > [!tip] 原型义
 > **原型义**：幼童，蹒跚学步的孩子（1-3岁的儿童）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The toddler stage is a critical period for language development."（幼童阶段是语言发展的关键时期）
-> - "She runs a toddler group at the local community center."（她在当地社区中心经营一个幼童游戏组）
+> - Are these toys suitable for toddlers? `[例]`
+> - We run a mother and toddler group in the mornings. `[例]`
 
 ## 复习记录
 

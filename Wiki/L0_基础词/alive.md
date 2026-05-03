@@ -136,8 +136,9 @@ a-(加强语气/状态) + live（活，生存）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Childhood is not always a happy time."（童年并不总是一段快乐的时光。——Cambridge English Dictionary, childhood 条目）
-> - "She had an unhappy childhood."（她有一个不快乐的童年。——Cambridge English Dictionary, childhood 条目）
+> - She's alive and well and living in New Zealand. `[例]`
+> - Doctors kept him alive on a life-support machine . `[例]`
+> - The lost hikers were able to stay alive by finding shelter in a cave in the side of the mountain . `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ ex-（向外）+ pend（称重/支付）→ 称重后付出去 → 花费。pend
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A great deal of time and effort was expended on this project."（这个项目花费了大量的时间和精力。）
-> - expend 常出现在经济、管理、政策类阅读话题中
+> - Governments expend a lot of resources on war . `[例]`
+> - They expend all their energy fixing up their house . `[例]`
+> - Why do firms expend effort investing abroad , rather than staying home and producing for export ? `[例]`
 
 ---
 

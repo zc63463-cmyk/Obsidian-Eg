@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**空白的，未填写的**== `a blank page / leave sth blank`；②==**茫然的，无表情的**== `a blank expression / look blank`（脸上没有表情）；③空的，无痕迹的
-**n.** ①==**空白处**== `fill in the blanks`；②空白表格；③（枪的）空包弹
+**adj.** ①==**空白的，未填写的**==；②==**茫然的，无表情的**==（脸上没有表情）；③空的，无痕迹的
+**n.** ①==**空白处**==；②空白表格；③（枪的）空包弹
 
 > [!tip] 原型义
 > **原型义**：白色的、空白的（源自古法语 *blanc* = 白色，未被书写或填充的状态）
@@ -134,10 +134,9 @@ blank 源自古法语 *blanc*（白色的），与古英语 *blanc*（白色）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Radesky cites the "still face experiment" devised by developmental psychologist Ed Tronick in the 1970s, in which a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback. ` `[真题]`
-> - We need to stop giving presidents a blank check to wage war. ` `[外刊]`
-> - She looked blank and changed the subject. ` `[外刊]`
-> - I drew a blank when trying to recall his name. ` `[语料库]`
+> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
+> - When I saw him out at a club the next night , he blanked me. `[例]`
+> - Without even discussing it, we all turned our backs on her and blanked her. `[例]`
 
 
 ---

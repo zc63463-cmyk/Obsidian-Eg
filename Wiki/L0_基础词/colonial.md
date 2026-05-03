@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The legacy of colonial rule continues to shape the political and economic landscapes of many developing nations."（殖民统治的遗产继续影响着许多发展中国家的政治和经济格局——考研阅读历史话题）
-> - "During the colonial period, European powers established trading posts and settlements across Africa and Asia."（在殖民时期，欧洲列强在非洲和亚洲各地建立了贸易站和定居点——考研阅读历史话题）
+> - Turkey was once an important colonial power . `[例]`
+> - Various parts of Africa have suffered under colonial rule . `[例]`
+> - The present political system is a hangover from the colonial era . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**千年，千禧年**== `the N` / `N of N` [通用]；②千年纪念 `N of N` [正式]；③（未来的）黄金时代 `a N of N` [文学]；
+**n.** ①==**千年，千禧年**== `N`；②==**千年纪念**== `N`；③==**（未来的）黄金时代**== `N`；
 
 > [!tip] 原型义
 > **原型义**：一千年的时间段
@@ -125,8 +125,8 @@ mill(千，拉丁语 *mille*) + -ennium(年，拉丁语 *annus*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` As we entered the new millennium, the pace of technological change accelerated dramatically. [C]
-> - `[例]` The turn of the millennium was marked by widespread celebrations and Y2K concerns. [C]
+> - How did you celebrate the millennium? `[例]`
+> - The area has experienced the worst drought in half a millennium. `[例]`
 
 ## 复习记录
 

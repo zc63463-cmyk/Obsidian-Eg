@@ -136,8 +136,9 @@ chorus 源自希腊语 *khoros*（舞蹈的圆形场地/歌舞队），在古希
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But the crowning festivity of the evening was reached in a rude camp-meeting hymn, which the lovers, joining hands, sang with great earnestness and vociferation."（但当晚最盛大的欢庆是在一首粗犷的营地聚会赞美诗中达到高潮，恋人们手拉手，以极大的热忱和响亮的声音齐声歌唱。——The Outcasts of Poker Flat, 与 chorus 齐声歌唱语境相关）
-> - "A loud utterance; often in protest or opposition."（大声的发声；通常表示抗议或反对。——Vocabulary.com, chorus 条目释义）
+> - I'll sing the verses and I'd like you all to join in the chorus. `[例]`
+> - They burst into a chorus of (= they sang the song ) Happy Birthday. `[例]`
+> - The choir will be performing the Hallelujah Chorus at the concert . `[例]`
 
 
 ---

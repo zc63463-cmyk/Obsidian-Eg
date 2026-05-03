@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A question begging an answer centers on whether violence is more directly related to the innate characteristic of human beings, or whether it is simply a manifestation of the ills of society."（一个亟待回答的问题是：暴力是否更直接地与人类的内在特征有关，还是仅仅是社会弊病的一种表现。）——考研英语写作精选
-> - "The violent storm caused widespread damage across the region."（猛烈的暴风雨在该地区造成了广泛的破坏。）——考研高频表达
+> - He yells a lot but I don't think he's ever been physically violent towards her. `[例]`
+> - The more violent scenes in the film were cut when it was shown on television . `[例]`
+> - Her family is still trying to come to terms with her violent death (= death caused suddenly and unexpectedly by the use of physical force , especially murder ) . `[例]`
 
 ---
 

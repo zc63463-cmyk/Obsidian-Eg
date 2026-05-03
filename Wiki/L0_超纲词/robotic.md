@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**机器人的，机器人技术的**==；②机械的，呆板的（像机器人一样的）；
+**adj.** ①==**机器人的，机器人技术的**== `adj`；②==**机械的，呆板的（像机器人一样的）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：像机器人一样的（缺乏人情味的机械行为）
@@ -127,8 +127,8 @@ robot(机器人，源自捷克语 *robota* "强迫劳动") + -ic(形容词后缀
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Robotic surgery allows for greater precision in complex operations."（机器人手术使复杂手术中的精确度更高。）
-> - "The customer service representative gave a robotic response that showed no empathy."（客服代表给出了一个毫无同理心的机械回答。）
+> - Japanese researchers have led the world in advances in robotic engineering . `[例]`
+> - Robotic surgery is more accurate for some medical procedures . `[例]`
 
 ## 复习记录
 

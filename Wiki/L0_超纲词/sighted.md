@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**看得见的，被发现的**==；②有视力的（非盲的）；③（用于复合词）有……视力的；
-**v.** ①（sight 的过去式/过去分词）看见；
+**adj.** ①==**看得见的，被发现的**== `adj`；②==**有视力的（非盲的）**== `adj`；③==**（用于复合词）有……视力的**== `adj`；
+**v.** ①==**（sight 的过去式/过去分词）看见**== `V`；
 
 > [!tip] 原型义
 > **原型义**：拥有视力、能够看见的
@@ -129,7 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The rare bird was sighted in the wetlands for the first time in decades."（这种珍稀鸟类几十年来首次在湿地被发现。）
+> - The blind parents of sighted children. `[例]`
+> - Bodies were sighted , but fuel that could have been easily ignited and the natural terrain hampered rescue efforts to the point where even airboats were eventually prohibited from skimming the river of grass to help. `[例]`
 
 ## 复习记录
 

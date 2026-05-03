@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**辛苦劳动，苦干**==；②==**艰难地行进**==；
-**n.** ①==**辛苦劳动，苦工**==；②==**劳累**==；
+**vi.** ①==**辛苦劳动，苦干**== `V`；②==**艰难地行进**== `V`；
+**n.** ①==**辛苦劳动，苦工**== `N`；②==**劳累**== `N`；
 
 > [!tip] 原型义
 > **原型义**：捣碎（用锤子碾碎橄榄的辛苦劳动，源自拉丁语 *tudiculare*）
@@ -128,8 +128,9 @@ toil 源自盎格鲁-法语 *toil*（争斗，混乱），来自古法语 *toeil
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Farmers toil in the fields from dawn to dusk to feed the nation."（农民们从早到晚在田间辛苦劳作，养活全国人民。——通用例句）
-> - "After years of toil, the scientist finally achieved a breakthrough."（经过多年的辛苦研究，这位科学家终于取得了突破。——考研人物传记类阅读语料）
+> - Lindi has achieved her comfortable life only after years of hard toil. `[例]`
+> - Well, after a day's toil in the office I like to relax a little. `[例]`
+> - Farm workers have been toiling in the 100-degree heat over the past week . `[例]`
 
 
 ---

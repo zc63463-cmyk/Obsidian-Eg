@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**直立的，垂直的**==；②==**正直的，诚实的**==；
-**adv.** ①==**竖立着，直立着**==；
+**adj.** ①==**直立的，垂直的**== `adj`；②==**正直的，诚实的**== `adj`；
+**adv.** ①==**竖立着，直立着**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：直立的（垂直站立的，不弯曲的）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs."（此外，尽管人类已直立行走了几百万年，但两足和背部仍继续同两足行走的姿势相抗衡，因而难以轻易承受过大过长的肢体反复施加的压力——2008年考研阅读Text 3）
-> - "Please return your seat to an upright position and fasten your belt."（请把座椅恢复到竖直位置并系好安全带——剑桥词典例句）
+> - She behaved as any upright citizen would have under the circumstances . `[例]`
+> - The sound of breaking glass made her sit bolt upright (= sit with her back straight ) . `[例]`
+> - Firmly secure the two uprights to opposite walls in the alcove and then fit the shelves in between them. `[例]`
 
 
 ---

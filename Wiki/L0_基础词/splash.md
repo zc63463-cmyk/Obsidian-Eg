@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The young entrepreneur made quite a splash in the technology industry with her innovative approach to artificial intelligence, attracting millions in venture capital investment."（这位年轻的企业家凭借其对人工智能的创新方法在科技行业引起了相当大的轰动，吸引了数百万的风险投资——考研阅读商业话题相关表达）
-> - "The scandal was splashed across the front pages of every major newspaper, forcing the government to launch an immediate investigation into the allegations."（这桩丑闻被醒目地刊登在各大报纸的头版上，迫使政府立即对这些指控展开调查——考研阅读政治话题相关表达）
+> - Water was splashing from a hole in the roof . `[例]`
+> - Unfortunately some paint splashed onto the rug . `[例]`
+> - She splashed her face with cold water . `[例]`
 
 
 ---

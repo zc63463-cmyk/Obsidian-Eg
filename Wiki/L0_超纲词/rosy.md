@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**美好的，乐观的**==；②玫瑰色的，粉红色的；③（脸色）红润的；
+**adj.** ①==**美好的，乐观的**== `adj`；②==**玫瑰色的，粉红色的**== `adj`；③==**（脸色）红润的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：像玫瑰一样的（粉红色的、令人愉悦的）
@@ -127,8 +127,8 @@ ros(玫瑰，拉丁语 *rosa*) + -y(形容词后缀，表"像……的/有……
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Despite the challenges, the company remains optimistic about its rosy prospects."（尽管面临挑战，公司对其美好前景仍持乐观态度。）
-> - "The rosy picture painted by the government did not reflect the reality on the ground."（政府描绘的美好画面并未反映实际情况。）
+> - Your rosy cheeks always make you look so healthy . `[例]`
+> - Our financial position is rosy. `[例]`
 
 ## 复习记录
 

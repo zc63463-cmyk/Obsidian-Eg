@@ -143,9 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "date back to the 18th century"（追溯到 18 世纪）——考研阅读/翻译极高频表达，描述历史渊源
-> - "to date, no effective solution has been found"（迄今为止，尚未找到有效的解决方案）——考研阅读中引出现状的常见句式
-> - "out of date"（过时的）——考研阅读中描述理论、技术、观点的常见搭配
+> - Today's date is 11 June (the eleventh of June ). `[例]`
+> - Today's date is June 11 ( June the eleventh). `[例]`
+> - What is your date of birth ? `[例]`
 
 ---
 

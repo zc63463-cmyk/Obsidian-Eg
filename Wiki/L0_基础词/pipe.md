@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Recently they have laid an underground pipeline."（他们最近铺设了一条地下管道。——ExamWord 高频例句）
-> - "The company has other distribution deals in the pipeline which will be announced over the next few weeks."（公司还有其他分销协议正在筹备中，将在未来几周内公布。——Longman Dictionary）
+> - I ordered some tea for myself and lit my pipe. `[例]`
+> - He played the pipes as the newlyweds left the church . `[例]`
+> - He's one of hockey's all-time great goaltenders , with over 800 games between the pipes. `[例]`
 
 
 ---

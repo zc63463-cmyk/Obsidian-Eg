@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was caught trying to smuggle 26 kilos of heroin out of the country."（她在企图把26千克海洛因走私出境时被抓获。——常见法律/犯罪类语料）
-> - "They managed to smuggle a video of the captive journalists out of the prison."（他们设法把被俘记者的录像带偷偷带出了监狱。——常见新闻类语料）
+> - They managed to smuggle a video of the captive journalists out of the prison . `[例]`
+> - He was caught trying to smuggle goods across the border . `[例]`
+> - He was sentenced to 65 months in prison for smuggling 14 kilograms of cocaine . `[例]`
 
 
 ---

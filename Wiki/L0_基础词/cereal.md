@@ -133,8 +133,9 @@ Ceres(罗马神话谷物女神) + -al(名词/形容词后缀，与...有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Cereal prices have risen sharply due to drought and poor harvests."（由于干旱和收成不佳，谷物价格急剧上涨。——考研经济类阅读常见话题）
-> - "The doctor advised me to have more cereal with milk for breakfast."（医生建议我早餐多吃些加牛奶的谷类食品。——考研生活类阅读话题）
+> - Do you want cereal or eggs ? `[例]`
+> - Wheat, rice , and corn are cereals. `[例]`
+> - I hate it when cereal goes all soggy , so I try to eat it up quickly . `[例]`
 
 
 ---

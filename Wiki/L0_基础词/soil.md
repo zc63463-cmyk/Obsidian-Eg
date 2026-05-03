@@ -132,8 +132,9 @@ soil 有两个不同的词源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fertile soil of the Nile Valley has sustained civilizations for thousands of years, providing abundant harvests season after season."（尼罗河谷肥沃的土壤维持了数千年的文明，季复一季地提供丰收——考研阅读历史话题相关表达）
-> - "The scandal threatened to soil the reputation of the prestigious university, which had long been regarded as a symbol of academic integrity."（这桩丑闻威胁要玷污这所著名大学的声誉，该大学长期以来一直被视为学术诚信的象征——考研翻译社会话题相关表达）
+> - Sandy or chalky soils. `[例]`
+> - Gardening is a way for city dwellers to return to the soil. `[例]`
+> - Plant the seeds in potting soil. `[例]`
 
 
 ---

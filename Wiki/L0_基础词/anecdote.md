@@ -121,8 +121,9 @@ an-(=in-, 不/未) + ec-(=ex-, 出) + dote(=datus, 给予，拉丁语 *dare* 的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The book is full of amusing anecdotes about famous scientists."（这本书充满了关于著名科学家的趣闻）
-> - "Anecdotal evidence suggests that the treatment is effective."（轶事证据表明该治疗有效）
+> - He told one or two amusing anecdotes about his years as a policeman . `[例]`
+> - He told some funny anecdotes about famous people . `[例]`
+> - Amusing anecdotes about his brief career as an actor. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**过度的，过分的**==；②不适当的，不合理的；③未到期的；
+**adj.** ①==**过度的，过分的**== `adj`；②==**不适当的，不合理的**== `adj`；③==**未到期的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：过度的（超出应有程度的）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + [[due|due]](应得的/到期的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The judge ruled that the contract was signed under undue influence."（法官裁定该合同是在过度影响下签署的。）
-> - "We should not place undue emphasis on test scores."（我们不应过分强调考试分数。）
+> - Such a high increase will impose an undue burden on the local tax payer . `[例]`
+> - The court said the state law placed an undue burden on working mothers . `[例]`
 
 ## 复习记录
 

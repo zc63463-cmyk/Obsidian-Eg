@@ -122,8 +122,9 @@ com-(=con-, 共同/一起) + [[menc-mence|menc-/mence]](开始，拉丁语 *comm
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new academic year will commence in September.（新学年将于九月开始。）
-> - The construction of the bridge is scheduled to commence next month.（桥梁建设定于下月开始。）
+> - We will commence building work in August of next year . `[例]`
+> - Shall we let the meeting commence? `[例]`
+> - Unfortunately, he commenced speak ing before all the guests had finished eating . `[例]`
 
 
 ---

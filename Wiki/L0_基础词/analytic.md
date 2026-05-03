@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Two of his themes are analysed with regard to their contribution to an analytic understanding of the issues."（他的两个主题被分析，以评估它们对问题的分析性理解的贡献。——考研阅读类表达）
-> - "AI will do the analytical thinking, while humans will wrap that analysis in warmth and compassion."（人工智能做的是分析性思考，而人类会为这些分析附上一层温度和情感。——考研阅读常见表达）
+> - New analytic techniques in biology are allowing scientists to study the cell in more detail . `[例]`
+> - The analytic methods we developed for this project will be useful for our future work . `[例]`
+> - This book is one of the masterpieces of analytic philosophy . `[例]`
 
 
 ---

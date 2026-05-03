@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He pulled the zip of his leather jacket down slightly."（他稍稍往下拉了拉皮夹克的拉链。——通用例句）
-> - "Wax polish preserves wood and leather."（上光蜡可以保护木材和皮革。——通用例句）
+> - Polish your shoes regularly to protect the leather. `[例]`
+> - The room smelled of candle wax and old leather. `[例]`
+> - Soft, supple leathers or suedes look rich and feel comfortable . `[例]`
 
 
 ---

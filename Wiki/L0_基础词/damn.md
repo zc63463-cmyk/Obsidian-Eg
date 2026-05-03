@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He doesn't give a damn about what other people think of him."（他毫不在乎别人怎么看他——考研英语阅读常见表达）
-> - "The report was damned by critics as being inaccurate and misleading."（这份报告被评论家谴责为不准确且具有误导性——考研翻译相关表达）
+> - Damn, I've spilled coffee down my blouse ! `[例]`
+> - Damn, that tastes good. `[例]`
+> - I don't brag very often, but damn, I'm going to brag about this! `[例]`
 
 
 ---

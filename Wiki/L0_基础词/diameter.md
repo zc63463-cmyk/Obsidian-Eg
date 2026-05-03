@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The diameter of the Earth is approximately 12,742 kilometers."（地球的直径约为12742公里。）
-> - "Their views are diametrically opposed to each other."（他们的观点截然对立。）
+> - The diameter measures twice the radius . `[例]`
+> - The pond is six feet in diameter. `[例]`
+> - We need a pipe with a diameter of about six inches . `[例]`
 
 
 ---

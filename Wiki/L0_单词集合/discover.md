@@ -123,8 +123,9 @@ dis-(移除/打开) + [[cover|cover]](覆盖) → 移除覆盖
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists discovered a new species of fish in the deep ocean."（科学家们在深海中发现了一种新的鱼类。）——考研高频表达
-> - "She discovered her passion for painting during a summer art class."（她在暑期美术课上发现了自己对绘画的热爱。）——考研高频表达
+> - Who actually discovered America ? `[例]`
+> - We searched all morning for the missing papers and finally discovered them in a drawer . `[例]`
+> - Scientists have discovered how to predict an earthquake . `[例]`
 
 ---
 

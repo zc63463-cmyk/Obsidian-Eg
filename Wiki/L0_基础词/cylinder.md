@@ -124,7 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The engine is a four-cylinder, 2.0-liter turbocharged unit."（该发动机是一台2.0升涡轮增压四缸机——科技/工程语料）
+> - Deep-sea divers carry cylinders of oxygen on their backs . `[例]`
+> - The league's rule does not allow you to interfere with a player's cylinder when they are trying to make a play . `[例]`
+> - A player is not allowed to interfere with a shot that is still in the cylinder. `[例]`
 
 
 ---

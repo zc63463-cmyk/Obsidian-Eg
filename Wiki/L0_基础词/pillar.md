@@ -124,8 +124,9 @@ pillar(柱子，源自拉丁语 *pila* "柱子，堆")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Martial law and press censorship were the twin pillars of an oppressive regime."（戒严令和新闻审查是一个压迫政权的两大支柱。——剑桥词典例句）
-> - "The religious orders were also considered to be pillars of stability, particularly the monasteries."（宗教团体也被视为稳定的支柱，尤其是修道院。——学术语料）
+> - A row of reinforced concrete pillars supports the bridge . `[例]`
+> - Mrs Maple is a pillar of the local church . `[例]`
+> - He’s a pillar of the Dallas business community . `[例]`
 
 
 ---

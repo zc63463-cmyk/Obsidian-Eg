@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①原则，准则 ; ②原理，法则 ; ③道义，信念 ; ==**④基本原则，信条**== ;
+**n.** ①==**原则，准则**== `N`；②==**原理，法则**== `N`；③==**道义，信念**== `N`；④==**基本原则，信条**== `N`；
 
 > [!tip] 原型义
 > **原型义**：首要的起点（源自拉丁语principium，意为"开端、起源"）
@@ -127,8 +127,9 @@ prim(第一) + -ciple(名词后缀，表示"取、抓")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The principle of equality before the law is a cornerstone of modern democracy."（法律面前人人平等的原则是现代民主的基石。）——考研高频表达
-> - "He refused to compromise on matters of principle."（他拒绝在原则问题上妥协。）——考研高频表达
+> - The principles of the criminal justice system. `[例]`
+> - The country is run on socialist principles. `[例]`
+> - The machine works according to the principle of electromagnetic conduction . `[例]`
 
 ---
 

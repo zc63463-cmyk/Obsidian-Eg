@@ -132,8 +132,9 @@ chunk 可能源自拟声词，模仿砍击厚块物体时发出的声音（"嘭"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She spends a good chunk of her day on the phone."（她每天花一大块时间打电话。——Merriam-Webster 例句）
-> - "He devoted a large chunk of time to the project."（他把一大块时间投入了这个项目。——Merriam-Webster 例句）
+> - A substantial chunk of our profits. `[例]`
+> - Three hours is quite a chunk out of my working day . `[例]`
+> - He was forever chunking chip shots around the greens . `[例]`
 
 
 ---

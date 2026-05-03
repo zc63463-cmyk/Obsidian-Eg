@@ -133,8 +133,9 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It turned out to be a mistake to rely solely on traditional methods."（事实证明，完全依赖传统方法是一个错误。）——考研高频表达
-> - "Theory and practice reinforce each other in turn."（理论与实践相互促进。）——考研高频表达
+> - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
+> - The wheels started to turn. `[例]`
+> - Turn the steering wheel as quickly as you can. `[例]`
 
 ---
 

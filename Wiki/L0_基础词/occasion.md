@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**场合，时刻**==；②==**时机，机会**==；③重大（特殊）活动，盛会；④起因，理由；
-**vt.** ①引起，惹起；
+**n.** ①==**场合，时刻**== `N`；②==**时机，机会**== `N`；③==**重大（特殊）活动，盛会**== `N`；④==**起因，理由**== `N`；
+**vt.** ①==**引起，惹起**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：事情落下的时刻（oc-朝向 + cas-落下 → 某事"降临"的那个时刻）
@@ -132,8 +132,9 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the former case, education is incidental, though natural and important, to the obvious purpose of interpersonal communication."（前一种情况下，教育是附带产生的，虽然它是自然且重要的，但却不是人际交往的明显目的。——2009年考研翻译）
-> - "This meeting provides an occasion to discuss the issues facing our school."（这次会议为讨论我们学校面临的问题提供了机会。——考研写作高频句式）
+> - We met on several occasions to discuss the issue . `[例]`
+> - I've heard him be rude to her on a number of occasions. `[例]`
+> - I seem to remember that on that occasion he was with his wife . `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You may defer payment until next week."（你可延期至下周支付——2018年考研英语一Text 4 词汇考点）
-> - "When faced with complex technical issues, the committee chose to defer to the judgment of the expert panel."（面对复杂的技术问题时，委员会选择听从专家小组的判断——考研学术类语料）
+> - My bank has agreed to defer the repayments on my loan . `[例]`
+> - Can we defer mak ing a decision until next week ? `[例]`
+> - You can order the furniture now and defer payment until September . `[例]`
 
 
 ---

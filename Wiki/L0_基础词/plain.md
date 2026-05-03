@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a plain fact that someone made a mistake."（有人犯了错误，这是明摆着的事实。——English Lab Japan 语料库）
-> - "The poem was too plain; it would have been better if the poet had not stated its meaning so explicitly."（这首诗太直白了；如果诗人没有如此明确地表达其含义，效果会更好。——English Maven 高级完形填空）
+> - She wore a plain black dress . `[例]`
+> - We've chosen a plain carpet (= one without a pattern ) and patterned curtains . `[例]`
+> - He prefers plain food - nothing too fancy . `[例]`
 
 
 ---

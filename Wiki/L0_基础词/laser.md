@@ -126,8 +126,9 @@ LASER = **L**ight **A**mplification by **S**timulated **E**mission of **R**adiat
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She had laser surgery on her eyes."（她的眼睛做了激光手术。——考研医疗话题常见表达）
-> - "Such laser devices need to be placed carefully."（此类激光装置需要小心放置。——考研科技话题常见表达）
+> - Doctors destroyed the tumor with a laser. `[例]`
+> - It shines a laser beam on to the surface of the disc to read the pattern of the bumps . `[例]`
+> - Our team are engaged in the research of laser technology . `[例]`
 
 
 ---

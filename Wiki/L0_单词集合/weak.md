@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "weak argument"（无力的论证）——考研阅读中常见对研究/观点的批判性评价
-> - "weak economy"（疲软的经济）——经济类阅读高频搭配
-> - "weak point"（弱点）——写作/口语中描述不足之处
+> - It's not surprising you feel weak if you haven't eaten properly for days . `[例]`
+> - He was a weak king surrounded by corrupt advisers . `[例]`
+> - Any evidence that exists to support the hypothesis is fairly weak. `[例]`
 
 ---
 

@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Successful entrepreneurs are often characterized by their willingness to take calculated risks and their ability to adapt to changing market conditions."（成功的企业家通常以愿意承担经过计算的风险和适应不断变化的市场条件的能力为特征——考研阅读商业话题）
-> - "The government has introduced a series of policies designed to support young entrepreneurs and stimulate innovation in emerging industries."（政府推出了一系列旨在支持年轻创业者、刺激新兴产业创新的政策——考研阅读政策话题）
+> - He was one of the entrepreneurs of the 80s who made their money in property . `[例]`
+> - A creative entrepreneur, he was continually dreaming up new projects. `[例]`
+> - A recent MBA graduate and budding entrepreneur. `[例]`
 
 
 ---

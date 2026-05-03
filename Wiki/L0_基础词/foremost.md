@@ -123,7 +123,9 @@ fore-(前面) + most(最) → 最前面的 → 最重要的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "First and foremost, we need to ensure the safety of all participants."（首先，我们需要确保所有参与者的安全。）
+> - This is one of the country's foremost arts centres . `[例]`
+> - She's one of the foremost experts on child psychology . `[例]`
+> - He was one of the foremost actors of his day . `[例]`
 
 
 ---

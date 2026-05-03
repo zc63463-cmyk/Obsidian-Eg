@@ -128,8 +128,9 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy has proven somewhat effective in reducing urban pollution, though its long-term impact remains to be seen."（新政策在减少城市污染方面已被证明有些效果，尽管其长期影响尚待观察——考研阅读环保话题相关表达）
-> - "Researchers found that the experimental drug was somewhat effective in treating the disease, but further clinical trials are needed to confirm its safety."（研究人员发现这种实验性药物在治疗该疾病方面有一定效果，但需要进一步的临床试验来确认其安全性——考研翻译医学话题相关表达）
+> - Therefore , unless customer:; are prepared to sign release agreements , the use of AI may become somewhat restricted in the future. `[真题]`
+> - The resort has changed somewhat over the last few years . `[例]`
+> - She's somewhat more confident than she used to be. `[例]`
 
 
 ---

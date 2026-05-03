@@ -127,7 +127,9 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The issue of immigration remains a sore point in political debates."（移民问题在政治辩论中仍然是一个敏感话题——考研阅读常见表达）
+> - All the dust has made my eyes sore. `[例]`
+> - My feet were sore with all the walking . `[例]`
+> - He accused me of being a sore loser (= someone who does not accept defeat well) . `[例]`
 
 
 ---

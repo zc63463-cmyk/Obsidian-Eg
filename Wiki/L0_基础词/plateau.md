@@ -124,8 +124,9 @@ plat-(平坦，来自法语 *plateau*，与 [[flat]] 同源) + -eau(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Workers tended to be diligent for the first few days of the week in any case, before hitting a plateau and then slackening off."（不管怎么说，工人们在一周的头几天都很勤奋，直到达到一个平稳期，然后放松下来。——2010年考研英语完形填空）
-> - "The U.S. heroin market now appears to have reached a plateau."（美国海洛因市场目前似乎已进入了一个稳定阶段。——经济学人）
+> - The US death rate reached a plateau in the 1960s, before declining suddenly . `[例]`
+> - I'd been losing about a pound a week on my diet , but recently I've plateaued and haven't lost an ounce . `[例]`
+> - The economic slowdown has caused our sales to plateau. `[例]`
 
 
 ---

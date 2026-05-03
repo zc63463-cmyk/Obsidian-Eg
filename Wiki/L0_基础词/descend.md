@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the 2006 film version of The Devil Wears Prada, Miranda Priestly explains how the deep blue color of the assistant's sweater descended over the years from fashion shows to department stores and to the bargain bin."（在2006年电影版《穿普拉达的女王》中，米兰达解释了助理毛衣的深蓝色如何多年来从时装秀降级到百货商店再到特价区——2006年考研相关语料）
-> - "The path descends to the valley below."（小路向下延伸到下面的山谷——常见搭配用法）
+> - The path descended steeply into the valley . `[例]`
+> - The path descends to the valley below. `[例]`
+> - Jane descended the stairs . `[例]`
 
 
 ---

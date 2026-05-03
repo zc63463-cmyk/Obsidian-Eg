@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She wiped the table with a damp cloth."（她用一块湿布擦桌子）
-> - "The cloth industry was the backbone of the local economy."（纺织业是当地经济的支柱）
+> - Lay the cloth flat across the table . `[例]`
+> - There's milk on the floor over there - could you get a cloth and mop it up? `[例]`
+> - The coarseness of the cloth irritated her skin . `[例]`
 
 
 ---

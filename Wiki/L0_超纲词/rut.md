@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**车辙，凹槽**==；②老套，刻板的生活方式；③（动物的）发情期；
-**v.** ①==**陷入老套，墨守成规**==；
+**n.** ①==**车辙，凹槽**== `N`；②==**老套，刻板的生活方式**== `N`；③==**（动物的）发情期**== `N`；
+**v.** ①==**陷入老套，墨守成规**== `V`；
 
 > [!tip] 原型义
 > **原型义**：车轮压出的深沟（固定的轨迹）
@@ -130,8 +130,8 @@ rut 为日耳曼语源词汇（可能与拉丁语 *rota* "轮子"同源），无
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "After working the same job for ten years, she felt stuck in a rut and needed a change."（在同一份工作干了十年后，她感到陷入了老套，需要改变。）
-> - "The unpaved road was full of deep ruts after the heavy rain."（暴雨过后，未铺砌的道路布满了深深的车辙。）
+> - During the rut, stags can be seen fighting for females . `[例]`
+> - The bull elephant seal only puts on this display when in rut. `[例]`
 
 ## 复习记录
 

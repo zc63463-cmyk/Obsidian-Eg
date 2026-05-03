@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**苦的，苦味的**== `adj N`（味觉）；②==**痛苦的，悲伤的**== `adj N` `adj about N`（情感）；③==**充满仇恨的，激烈的**== `adj N`（态度/冲突）；④寒冷刺骨的（天气）`adj N`；
+**adj.** ①==**苦的，苦味的**==（味觉）；②==**痛苦的，悲伤的**==（情感）；③==**充满仇恨的，激烈的**==（态度/冲突）；④寒冷刺骨的（天气）；
 **n.** ①苦啤酒；②苦味；
 
 > [!tip] 原型义
@@ -135,10 +135,9 @@ bitter(苦的/痛苦的，古英语 *biter*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bitter cold of the Arctic makes it one of the most inhospitable places on Earth." `[COCA-ACAD]`
-> - "She has bitter memories of the war that claimed so many innocent lives." `[COCA-FIC]`
-> - "She is very bitter about the way she was treated at the company." `[BNC-SPOKEN]`
-> - "The law was passed after a bitter fight that lasted nearly a decade." `[COCA-NEWS]`
+> - She'd suffered terribly over the years but it hadn't made her bitter. `[例]`
+> - Failing the final exams was a bitter disappointment for me. `[例]`
+> - She learned through bitter experience that he was not to be trusted . `[例]`
 
 
 ---

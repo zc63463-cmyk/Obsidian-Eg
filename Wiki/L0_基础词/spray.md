@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The farmer sprayed the crops with pesticide to protect them from insects and disease during the growing season."（农民在生长季节给庄稼喷洒农药，以保护它们免受虫害和疾病——考研阅读农业话题相关表达）
-> - "Fine sea spray covered the coastal buildings with a thin layer of salt after the storm passed through the area."（风暴过境后，细小的海浪飞沫在沿海建筑上覆盖了一层薄盐——考研阅读自然环境话题相关表达）
+> - Farmers use a lot of chemical sprays on crops . `[例]`
+> - All the wedding guests wore sprays of carnations . `[例]`
+> - She sprayed her self with perfume . `[例]`
 
 
 ---

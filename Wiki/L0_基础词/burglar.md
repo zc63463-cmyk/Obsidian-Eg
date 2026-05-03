@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**窃贼，夜盗**== `a burglar broke into` `burglar alarm`（尤指闯入住宅盗窃者）；
+**n.** ①==**窃贼，夜盗**==（尤指闯入住宅盗窃者）；
 
 > [!tip] 原型义
 > **原型义**：破堡者（闯入堡垒/房屋盗窃的人）
@@ -118,10 +118,9 @@ burglar 源自中世纪拉丁语 *burgator*，*burgare*（破门而入），*bur
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The burglar gained entry through an unlocked window on the second floor. `[真题]`
-> - Burglars entered through a second-story balcony and took off with cash and valuables. `[语料库]`
-> - He told some people Bethan had run out of their home chasing burglars. `[语料库]`
-> - Every burglar alarm bought is because people fear a break-in. `[语料库]`
+> - The burglar had taken a laptop on which highly sensitive information was stored . `[例]`
+> - It was brave of you to chase after the burglar. `[例]`
+> - No household security devices will protect you against the determined burglar. `[例]`
 
 
 ---

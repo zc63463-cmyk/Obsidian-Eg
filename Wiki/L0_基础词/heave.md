@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Whatever the actual sum, when the decision was announced the parents of children in independent schools heaved a sigh of relief, but that was not for long."（无论实际金额是多少，当决定宣布时，私立学校学生的家长们都如释重负地松了一口气，但这并没有持续多久。——经典例句）
-> - "I managed to heave the trunk down the stairs."（我用力把箱子弄下楼梯。——经典例句）
+> - He heaved the bag onto his shoulder . `[例]`
+> - I managed to heave the trunk down the stairs. `[例]`
+> - He cleared a space , heaving boxes out of the way. `[例]`
 
 
 ---

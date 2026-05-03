@@ -133,8 +133,9 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is no substitute for hard work if you want to achieve academic success."（如果你想取得学术成功，努力工作是不可替代的。）——2019年考研英语一Text1
-> - "The fact that participants were willing to substitute part of a food item for the mere prospect of a relatively small monetary award is interesting."（参与者愿意用部分食物换取相对小额金钱奖励的可能性，这一事实令人感兴趣。）——2016年12月考研阅读
+> - You can substitute oil for butter (= use oil instead of butter ) in this recipe . `[例]`
+> - You can substitute the wheat flour with almond flour (= use almond flour instead of wheat flour ) . `[例]`
+> - He made his film debut when he was substituted for the actor who was originally cast . `[例]`
 
 ---
 

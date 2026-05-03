@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city erected a monument to honor the soldiers who died in the war."（这座城市竖立了一座纪念碑来纪念在战争中牺牲的士兵——考研阅读历史话题常见表达）
-> - "He sat with an erect posture, his eyes fixed on the speaker."（他坐得笔直，目光紧盯着演讲者——考研阅读描写性表达）
+> - The war memorial was erected in 1950. `[例]`
+> - The soldiers had erected barricades to protect themselves. `[例]`
+> - They erected a marquee to accommodate 500 wedding guests . `[例]`
 
 
 ---

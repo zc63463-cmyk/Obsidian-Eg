@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "big tech companies dominate the market"（科技巨头主导市场）——考研阅读中商业/科技类话题
-> - "the tech industry is growing rapidly"（科技行业快速增长）——经济/社会类话题
-> - "tech-savvy consumers"（精通技术的消费者）——消费/科技类文本
-> - "fintech is transforming banking"（金融科技正在改变银行业）——金融/科技类话题
+> - Configuration refers to the technical specifications , known as "tech specs " of the computers and it includes processor speed , the amount of RAM , etc. `[例]`
+> - He was worried that the tech rehearsal had been too brief - for example , the smoke machine wasn't working correctly . `[例]`
+> - The company produces an annual report on the state of European tech. `[例]`
+> - He worked for several years at one of the Silicon Valley tech giants . `[例]`
 
 ---
 

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**物体，东西**==；②==**目标，目的**==；③==**客体，对象**==（哲学/语法）；④宾语（语法）；
-**vi.** ①==**反对，不赞成**==（object to sth./doing sth.）；
-**vt.** ①以…为理由反对（object that...）；
+**n.** ①==**物体，东西**== `N`；②==**目标，目的**== `N`；③==**客体，对象**== `N`（哲学/语法）；④==**宾语（语法）**== `N`；
+**vi.** ①==**反对，不赞成**== `V`（object to sth./doing sth.）；
+**vt.** ①==**以…为理由反对（object that...）**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：摆在眼前的东西（被投掷到面前的物体）
@@ -143,10 +143,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people object to experimentation on animals."（许多人反对动物实验）——经典搭配，高频出现
-> - "He objected that the plan was impractical."（他反对说该计划不可行）——object that 从句用法
-> - "The object of the research is to identify the cause."（研究的目的是找出原因）——学术语境
-> - "Money is no object."（钱不是问题）——日常/商业语境
+> - A collection of precious objects. `[例]`
+> - Several people reported seeing a strange object in the sky . `[例]`
+> - In the sentence "I like ice cream ", " ice cream " is the object of the verb "like". `[例]`
+> - The object of their expedition was to discover the source of the River Nile. `[例]`
 
 ---
 

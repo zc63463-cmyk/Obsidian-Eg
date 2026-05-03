@@ -132,8 +132,9 @@ flatter 源自中古英语 *flateren*，可能融合了古英语 *floterian*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "While she was flattered by the job offer, she ultimately decided to decline it because the position did not align with her long-term career goals."（虽然这份工作邀请让她感到荣幸，但她最终决定拒绝，因为这个职位与她的长期职业目标不符——考研阅读职场话题相关表达）
-> - "Social media platforms often flatter users by showing them content that reinforces their existing beliefs, creating what researchers call 'echo chambers'."（社交媒体平台经常通过向用户展示强化其既有信念的内容来讨好用户，形成了研究人员所说的"回音室"——考研翻译科技话题相关表达）
+> - I knew he was only flattering me because he wanted to borrow some money . `[例]`
+> - Steve flatters himself that he's an excellent speaker . `[例]`
+> - He flatters himself that, where Sara is concerned , he has the magic touch . `[例]`
 
 
 ---

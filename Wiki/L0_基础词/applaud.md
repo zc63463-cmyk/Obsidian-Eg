@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The audience rose to applaud the performers."（观众起立为表演者鼓掌。）
-> - "We applaud the government's efforts to reduce pollution."（我们赞赏政府减少污染的努力。）
+> - You should have heard the audience applaud - the noise was fantastic . `[例]`
+> - She was applauded for a full five minutes after her speech . `[例]`
+> - We applaud the family's decision to remain silent over the issue . `[例]`
 
 
 ---

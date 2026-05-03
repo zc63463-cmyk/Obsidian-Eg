@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**交换，互换**==；②替换；
-**n.** ①交换，互换；②交换物；
+**v.** ①==**交换，互换**== `V`；②==**替换**== `V`；
+**n.** ①==**交换，互换**== `N`；②==**交换物**== `N`；
 
 > [!tip] 原型义
 > **原型义**：交换（两个人互相把东西给对方）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Can we swap seats? I can't see the board from here.（我们能换一下座位吗？我从这里看不到黑板。）
-> - They swapped their contact information and promised to stay in touch.（他们交换了联系方式，承诺保持联系。）
+> - When you've finished reading your book , and I've finished mine, can we swap? `[例]`
+> - We swapped addresses with the people we met on holiday . `[例]`
 
 ## 复习记录
 

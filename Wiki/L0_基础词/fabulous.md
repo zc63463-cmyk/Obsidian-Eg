@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company reported a fabulous increase in profits this quarter."（公司报告本季度利润大幅增长——考研英语阅读商业类话题）
-> - "She looked absolutely fabulous in her new dress."（她穿新裙子看起来棒极了——考研翻译相关表达）
+> - She looked absolutely fabulous in her dress . `[例]`
+> - They've got a fabulous apartment in the centre of Paris . `[例]`
+> - We had a fabulous time at the party . `[例]`
 
 
 ---

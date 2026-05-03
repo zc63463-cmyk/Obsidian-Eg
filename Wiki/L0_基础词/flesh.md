@@ -132,8 +132,9 @@ flesh(肉/肉体，古英语 *flǣsc*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The spirit is willing, but the flesh is weak."（心灵固然愿意，肉体却软弱了。——考研英语翻译经典引用，《圣经》名句）
-> - "The author needs to flesh out his argument with more concrete evidence."（作者需要用更多具体的证据来充实他的论点。——考研英语写作/阅读评论类表达）
+> - Vegetarians don't eat animal flesh (= meat ) . `[例]`
+> - The flesh of the fruit is white . `[例]`
+> - Mosquitoes will find any bit of exposed flesh, however small . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**未答复的，未回答的**==；②悬而未决的；
+**adj.** ①==**未答复的，未回答的**== `adj`；②==**悬而未决的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：未被回答的（问题没有收到回答）
@@ -124,8 +124,8 @@ un-(不，否定前缀) + [[an-|answer]](回答) + -ed(形容词后缀，持有�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many fundamental questions about consciousness remain unanswered."（关于意识的许多基本问题仍然没有答案。）
-> - "His letters went unanswered for months."（他的信件数月未得到回复。）
+> - Questions from local residents remained unanswered. `[例]`
+> - They scored six unanswered goals to beat the opposing team . `[例]`
 
 ## 复习记录
 

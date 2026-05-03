@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a diligent student who always completes her assignments on time."（她是一个勤奋的学生，总是按时完成作业）
-> - "Diligence is the mother of good fortune."（勤奋是好运之母——谚语）
+> - Leo is very diligent about his work . `[例]`
+> - Their lawyer was extremely diligent in preparing their case . `[例]`
+> - The discovery was made after years of diligent research . `[例]`
 
 
 ---

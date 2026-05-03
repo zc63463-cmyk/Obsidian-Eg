@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The flu vaccine is recommended for elderly people and young children."（建议老年人和幼儿接种流感疫苗——考研健康类阅读）
-> - "Bird flu has caused widespread concern among public health officials."（禽流感引起了公共卫生官员的广泛关注——考研社会类阅读）
+> - C o m in g a t a tim e o f fre s h in c e n tiv e s fro m th e U K g o v e rn m e n t fo r la n d o w n e rs to g ro w m o re tre e s , th e tra d e b o d y s a y s th e s e d o n 't g o fa r e n o u g h a n d fa il to p ro m o te th e b e n e fits o f p la n tin g th e m to b o o s t tim b e r s u p p lie s . ‘N o t o n ly a re w e fa c in g a c a rb o n c ris is n o w , b u t w e w ill a ls o b e fa c in g a fu tu re c o n s tru c tio n c ris is b e c a u s e o f a fa ilu re to p la n t tre e s to p ro d u c e w o o d ,” s a id S tu a rt G o o d a ll, c h ie f e x e c u tiv e o f C o n fo r. “ F o r d e c a d e s w e h a v e n o t ta k e n re s p o n s ib ility fo r in v e s tin g in o u r d o m e s tic w o o d s u p p ly , le a v in g u s e x p o s e d to flu c tu a tin g p ric e s a n d fig h tin g fo r fu tu re s u p p lie s o f w o o d a s g lo b a l d e m a n d ris e s a n d o u r o w n s u p p lie s fa ll. ” T h e U K h a s id e a l c o n d itio n s fo r g ro w in g w o o d to b u ild lo w -c a rb o n h o m e s a n d is a g lo b a l le a d e r in c e rtify in g th a t its fo re s ts a re s u s ta in a b ly m a n a g e d , C o n fo r s a y s . `[真题]`
+> - T h e U K 's e x p o s u re to flu c tu a tin g w o o d p ric e s is a re s u lt o f_ _ _ _ _ . `[真题]`
+> - H ig h s c h o o l s tu d e n ts w h o h a v e h a d a s tro n g p o s itiv e in flu e n c e o n th e ir c o m m u n ity th ro u g h a n e x tra c u rric u la r a c tiv ity m a y im p re s s a c o lle g e a n d w in a s c h o la rs h ip , s a y s E ric a G w y n , a fo rm e r m a th a n d s c ie n c e m a g n e t p ro g ra m a s s is ta n t a t a p u b lic h ig h s c h o o l w h o is n o w e x e c u tiv e d ire c to r o f th e K a le id o s c o p e C a re e rs A c a d e m y in A tla n ta , a n o n p ro fit o rg a n iz a tio n . `[真题]`
 
 
 ---

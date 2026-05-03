@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**机智的，思维敏捷的**==；②反应快的，脑子快的；
+**adj.** ①==**机智的，思维敏捷的**== `adj`；②==**反应快的，脑子快的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：思维敏捷的（脑子转得快，能迅速做出聪明反应）
@@ -126,8 +126,8 @@ quick（快的）+ wit（智慧/机智）+ -t-(连接) + -ed(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The talk show host was known for her quick-witted banter with celebrity guests.（这位脱口秀主持人以与名人嘉宾之间机智的对话而闻名。）
-> - A quick-witted student managed to defuse the tense situation with a well-timed joke.（一个机智的学生用一个恰到好处的笑话化解了紧张的局面。）
+> - The quick-witted child easily figured out the trick to making the toy work. `[例]`
+> - On April 24, Venus will conclude its journey through its sign of rulership, Taurus, and enter the flirtatious and quick-witted sign of Gemini, shifting our collective desire from slow and steady to witty and sparkling. `[例]`
 
 ## 复习记录
 

@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her fabulous recipes will delight anyone who loves chocolate."（她那绝妙的食谱会让任何热爱巧克力的人感到愉悦——Longman Dictionary 例句）
-> - "This movie classic will delight the whole family."（这部经典电影会让全家人都感到开心——Longman Dictionary 例句）
+> - Her face had a look of pure delight. `[例]`
+> - The children squealed in delight when they saw all the presents under the Christmas tree . `[例]`
+> - His delight at seeing her again was obvious . `[例]`
 
 
 ---

@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has pledged to eradicate extreme poverty by 2030."（政府承诺到2030年根除极端贫困——考研阅读社会话题高频表达）
-> - "Global efforts to eradicate polio have been largely successful, though challenges remain in a few regions."（全球根除脊髓灰质炎的努力已基本成功，尽管在少数地区仍面临挑战——考研阅读公共卫生话题常见表达）
+> - The government claims to be doing all it can to eradicate corruption . `[例]`
+> - The disease that once claimed millions of lives has now been eradicated. `[例]`
+> - A new vaccine eradicated polio . `[例]`
 
 
 ---

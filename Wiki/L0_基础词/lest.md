@@ -116,8 +116,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He whispered lest he should be heard."（他低声说话，以免被听到）
-> - "She hid the letter lest her husband should find it."（她把信藏了起来，以免丈夫发现）
+> - They were afraid to complain about the noise lest they annoyed the neighbours . `[例]`
+> - The visitors ' book has messages from people from all over the world , who write things such as "Lest we forget . `[例]`
+> - Lest we forget , the internet was a media space before it was a marketplace . `[例]`
 
 
 ---

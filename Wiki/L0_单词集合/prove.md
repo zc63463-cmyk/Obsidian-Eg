@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**证明，证实**==（通过证据或论证确认）；②==**结果是，被发觉是**==（linking verb，后接 adj./to be）；
-**vi.** ①==**显示出，表现出**==（展现出某种品质）；
+**vt.** ①==**证明，证实**== `V N`（通过证据或论证确认）；②==**结果是，被发觉是**== `V N`（linking verb，后接 adj./to be）；
+**vi.** ①==**显示出，表现出**== `V`（展现出某种品质）；
 
 > [!tip] 原型义
 > **原型义**：测试→证明（来自拉丁语 *probare*，"测试、证明"）
@@ -147,11 +147,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The experiment proved that the hypothesis was correct."（实验证明了假设是正确的）——学术话题
-> - "The new method proved to be more efficient than the old one."（新方法证明比旧方法更高效）——科技话题
-> - "She proved herself capable of handling the project."（她证明了自己有能力处理这个项目）——职场话题
-> - "The evidence proved him innocent beyond any doubt."（证据毫无疑问地证明了他无罪）——法律话题
-> - "It has been proven that regular exercise reduces stress."（已经证明规律运动能减轻压力）——健康话题
+> - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
+> - The operation proved a complete success . `[例]`
+> - The dispute over the song rights proved impossible to resolve . `[例]`
+> - The new treatment has proved to be a disaster . `[例]`
+> - I wish he'd stop trying to prove himself all the time . `[例]`
 
 ---
 

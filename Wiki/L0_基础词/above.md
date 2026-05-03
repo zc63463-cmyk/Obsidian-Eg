@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The inflation rate has remained above the central bank's target of 2 percent for the past twelve months, prompting concerns about monetary policy."（过去十二个月来，通胀率一直保持在央行2%的目标之上，引发了对货币政策的担忧——考研阅读经济话题相关表达）
-> - "Above all, the study demonstrates that early childhood education has a profound and lasting impact on a person's cognitive development."（最重要的是，研究表明早期教育对一个人的认知发展有着深远而持久的影响——考研翻译教育话题相关表达）
+> - There's a mirror above the sink . `[例]`
+> - He waved the letter excitedly above his head . `[例]`
+> - She's rented a room above a shop . `[例]`
 
 
 ---

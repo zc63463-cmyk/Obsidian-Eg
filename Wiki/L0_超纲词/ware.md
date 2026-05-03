@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**货物，商品**==（常用于复合词）；②制品，器皿；
+**n.** ①==**货物，商品**== `N`（常用于复合词）；②==**制品，器皿**== `N`；
 
 > [!tip] 原型义
 > **原型义**：制造出的物品/商品
@@ -132,8 +132,8 @@ ware 源自古英语 *waru*，意为"货物、商品、注意"，日耳曼语族
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The market was full of vendors selling their wares."（市场上到处都是兜售商品的摊贩。）
-> - "The company expanded its software offerings to include cloud-based solutions."（该公司扩展了其软件产品线，加入了基于云的解决方案。）
+> - He travelled from town to town selling his wares. `[例]`
+> - She sold her wares at the market. `[例]`
 
 ## 复习记录
 

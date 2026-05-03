@@ -133,8 +133,9 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What kind of presumption lies under section 139 of the Negotiable Instruments Act, 1881, in favour of holder of a cheque?"（1881年《票据法》第139条规定了哪些有利于支票持有人的推定？——HP PCS J Mains Exam, 2016）
-> - "What defences are available to the drawer of the cheque to escape punishment under section 138 of the Negotiable Instruments Act, 1881?"（支票出票人可以依据《票据法》第138条提出哪些抗辩以逃避处罚？——HP PCS J Mains Exam, 2016）
+> - I don't have any cash on me, so could I pay by cheque? `[例]`
+> - Who should I make out this cheque to? (= Whose name should I write on it?). `[例]`
+> - Please make your cheques payable to The Brighter Toyshop Ltd (= write this name on them) . `[例]`
 
 
 ---

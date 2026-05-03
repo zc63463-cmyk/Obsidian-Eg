@@ -128,8 +128,9 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If only the government had taken action earlier, the crisis might have been averted."（如果政府早点采取行动，危机可能就避免了——if only + 虚拟语气为考研写作/翻译高频考点）
-> - "The question is not whether we should act, but how."（问题不在于我们是否应该行动，而在于如何行动——whether vs if 的区分在考研中常见）
+> - S o m e o f u s fe e l e n e rg is e d b y s p e n d in g lo ts o f tim e w ith o th e rs , 1 _ s o m e o f u s m a y fe e l d ra in e d , e v e n if it's d o in g s o m e th in g w e e n jo y . `[真题]`
+> - T h is m ig h t b e e s p e c ia lly tru e if, 6 , y o u a re w o rk in g fro m h o m e a n d y o u a re 7 _ o n th e u s u a l s o c ia l c o n v e rs a tio n s th a t h a p p e n in a n o ffic e . `[真题]`
+> - If y o u fe e l lik e y o u 're a lw a y s d o in g s o m e th in g a n d th e re is n e v e r a n y 1 5 _ in y o u r c a le n d a r fo r d o w n tim e , y o u c o u ld s u ffe r s o c ia l b u rn o u t o r s o c ia l 1 6 . `[真题]`
 
 
 ---

@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government should foster innovation in science and technology."（政府应当促进科技创新——考研高频搭配）
-> - "Reading aloud to children helps foster a love of books."（大声朗读给孩子听有助于培养对书籍的热爱）
-> - "She was placed in foster care at the age of three."（她三岁时被送入寄养家庭）
+> - It fosters competition among citation providers. `[真题]`
+> - Would you consider fostering a child ? `[例]`
+> - She had always wanted to foster, to help children who might otherwise suffer as she had suffered . `[例]`
 
 
 ---

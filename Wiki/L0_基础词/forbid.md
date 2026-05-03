@@ -123,8 +123,9 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The law forbids discrimination on the basis of race, gender, or age."（法律禁止基于种族、性别或年龄的歧视——考研法律类阅读）
-> - Smoking is strictly forbidden in public places.（公共场所严禁吸烟——考研翻译常见表达）
+> - The law forbids the sale of cigarettes to people under the age of 16. `[例]`
+> - You can’t forbid me to go. `[例]`
+> - Diplomatic etiquette forbids calling for the death of a national leader . `[例]`
 
 
 ---

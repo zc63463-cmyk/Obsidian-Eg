@@ -120,8 +120,9 @@ clothe（给……穿衣）+ -ing（动名词后缀，表动作的结果/产物�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The clothing industry has been transformed by e-commerce."（服装业已被电子商务彻底改变）
-> - "Proper clothing is essential for mountain climbing."（合适的服装对于登山来说至关重要）
+> - You can only take three articles of clothing into the changing room . `[例]`
+> - You can only take three items of clothing into the changing room . `[例]`
+> - Protective clothing must be worn . `[例]`
 
 
 ---

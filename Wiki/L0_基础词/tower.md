@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**塔，塔楼**==；②==**（无线电/电视）发射塔**==；
-**v.** ①==**高耸，屹立**==（tower above/over）；
+**n.** ①==**塔，塔楼**== `N`；②==**（无线电/电视）发射塔**== `N`；
+**v.** ①==**高耸，屹立**== `V`（tower above/over）；
 
 > [!tip] 原型义
 > **原型义**：高耸的建筑，塔
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new skyscraper towers above all surrounding buildings, becoming an iconic landmark that defines the city's modern skyline."（这座新的摩天大楼高耸于所有周围建筑之上，成为定义这座城市现代天际线的标志性建筑——考研阅读城市话题相关表达）
-> - "Scholars who remain in their ivory towers, disconnected from the practical concerns of ordinary people, risk producing research that has little relevance to real-world problems."（那些待在象牙塔中、与普通人的实际关切脱节的学者，面临着其研究可能与现实问题无关的风险——考研阅读教育话题相关表达）
+> - There's a clock on the church tower. `[例]`
+> - He works in an office tower in downtown San Francisco. `[例]`
+> - All-in-one PCs consolidate all the elements of a traditional desktop computer - monitor , tower, keyboard , mouse . `[例]`
 
 
 ---

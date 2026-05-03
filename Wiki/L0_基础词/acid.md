@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "High overhead in the carbon dioxide (CO2) that passes for air is a layer of clouds, perhaps 10 to 20 miles thick, whose little drops consist mostly of sulfuric acid (H2SO4)."（在充当空气的二氧化碳上方高空，有一层厚约10到20英里的云，其中的小液滴主要由硫酸组成——1990年考研英语阅读Text 2）
-> - "Sulfur dioxide, a major contributor to acid rain, is an especially serious pollutant because it diminishes the respiratory system's ability to deal with all other pollutants."（二氧化硫是酸雨的主要成因，是一种尤其严重的污染物，因为它削弱了呼吸系统应对所有其他污染物的能力——考研阅读环境话题高频表达）
+> - Vinegar is an acid. `[例]`
+> - When she spoke her tone was acid. `[例]`
+> - Basic rocks with no quartz tend to be dark-coloured, while acid rocks are much lighter . `[例]`
 
 
 ---

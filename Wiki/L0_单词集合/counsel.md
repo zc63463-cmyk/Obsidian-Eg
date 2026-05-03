@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Every entrance ticket lists a toll-free number for counseling from the Indiana Department of Mental Health."（每张门票上都列有印第安纳州心理健康部门的免费咨询热线电话——2006年考研新题型）
-> - "Other golden rules counsel us to master ourselves, to avoid excess and not to be a prosperous fool."（其他金科玉律告诫我们要自律，要避免过度，不要做一个发迹的傻瓜——考研高频表达）
+> - The police have provided experts to counsel local people affected by the tragedy . `[例]`
+> - My job involves counselling unemployed people on how to find work . `[例]`
+> - She often has to counsel students about issues in their personal lives . `[例]`
 
 
 ---

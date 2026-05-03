@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Earth's crust is divided into several large plates."（地壳被分为几个大板块）
-> - "A thin crust of ice had formed on the pond overnight."（一夜之间池塘上结了一层薄冰）
+> - Could you cut the crusts off the sandwiches , please ? `[例]`
+> - Do you know a good way of using up stale crusts? `[例]`
+> - We prefer long , skinny loaves , partly because that gives more crust. `[例]`
 
 
 ---

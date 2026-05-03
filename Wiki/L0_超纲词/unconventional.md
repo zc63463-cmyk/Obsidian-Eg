@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不合常规的，非传统的**==；②不落俗套的；③破例的；
+**adj.** ①==**不合常规的，非传统的**== `adj`；②==**不落俗套的**== `adj`；③==**破例的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不合常规的（不遵循惯例的）
@@ -129,8 +129,8 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She took an unconventional approach to solving the problem."（她采用了一种不合常规的方法来解决这个问题。）
-> - "His unconventional teaching methods proved highly effective."（他非传统的教学方法被证明非常有效。）
+> - He has an unconventional attitude toward work . `[例]`
+> - The magazine describes him as having unconventional good looks. `[例]`
 
 ## 复习记录
 

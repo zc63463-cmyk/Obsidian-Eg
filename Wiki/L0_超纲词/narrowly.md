@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**勉强地，差一点就（不）**== `adv V` [通用]；②==**狭窄地**== `adv V` [通用]；③==**严密地，仔细地**== `adv V-ed` [正式]；
+**adv.** ①==**勉强地，差一点就（不）**== `adv`；②==**狭窄地**== `adv`；③==**严密地，仔细地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：窄窄地（空间上的窄延伸到程度上的勉强）
@@ -127,8 +127,8 @@ narrow（窄）+ -ly（副词后缀，……地）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` She narrowly escaped injury in the accident. [C]
-> - `[例]` The government narrowly won the vote after a heated debate that lasted well into the night. [C]
+> - She narrowly missed winning the race . `[例]`
+> - A narrowly interpreted law. `[例]`
 
 ## 复习记录
 

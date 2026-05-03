@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The article presents a balanced viewpoint on the issue of immigration."（这篇文章对移民问题提出了平衡的观点。）——考研高频表达
-> - "From an economic viewpoint, the policy makes perfect sense."（从经济角度来看，这项政策完全合理。）——考研高频表达
+> - The viewpoint by the side of the road gave us a stunning panorama of the whole valley . `[例]`
+> - Try looking at things from a different viewpoint. `[例]`
+> - She will have her own viewpoint on the matter. `[例]`
 
 ---
 

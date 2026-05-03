@@ -143,8 +143,9 @@ pocket 源自古法语 *poque*（小袋），可能与 poke（袋子）同源，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Bankers' fat pay packets have attracted much criticism."（银行家丰厚的薪水饱受批评——2012年考研英语阅读Text 4）
-> - "In fact, plenty of younger kids have one in their pocket."（事实上，很多小孩口袋里都会装一个——2021年高考阅读理解）
+> - She thrust her hands deep in her pockets. `[例]`
+> - I slipped the note into my pocket. `[例]`
+> - He took some coins from his pocket. `[例]`
 
 
 ---

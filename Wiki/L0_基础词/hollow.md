@@ -134,8 +134,9 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His promises turned out to be hollow.（他的承诺结果证明是空洞的——考研阅读常见表达）
-> - The team celebrated a hollow victory, knowing the championship was already out of reach.（球队庆祝了一场空洞的胜利，因为他们知道冠军已经遥不可及——考研翻译高频句型）
+> - Hollow blocks are used because they are lighter . `[例]`
+> - He was an elderly man with hollow cheeks . `[例]`
+> - It was something of a hollow victory - she won the case , but lost all her savings in legal fees . `[例]`
 
 
 ---

@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cube of 3 is 27."（3的立方是27——数学基础表达）
-> - "She cubed the potatoes before frying them."（她在炸之前把土豆切成了小方块——日常用语）
+> - Cut the cheese into small cubes. `[例]`
+> - The cube of 2 (= 2 x 2 x 2) is 8. `[例]`
+> - Cut the meat into cubes. `[例]`
 
 
 ---

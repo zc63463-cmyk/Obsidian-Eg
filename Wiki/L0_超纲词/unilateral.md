@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**单边的，单方面的**==；②单侧的；
+**adj.** ①==**单边的，单方面的**== `adj`；②==**单侧的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：单边的（只有一侧的）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government's unilateral decision to raise taxes provoked widespread opposition."（政府单方面提高税收的决定引发了广泛反对。）
-> - "Any unilateral changes to the contract would be considered a breach."（对合同的任何单方面修改都将被视为违约。）
+> - The party leader has actually declared her support for unilateral nuclear disarmament (= giving up her country's nuclear weapons without first waiting for other countries to do the same) . `[例]`
+> - More than 70 developing countries have undertaken unilateral trade liberalization initiatives during the last 20 years . `[例]`
 
 ## 复习记录
 

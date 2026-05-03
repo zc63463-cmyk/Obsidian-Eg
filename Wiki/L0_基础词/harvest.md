@@ -133,8 +133,9 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Unfavourable weather has had damaging effects on this year's harvest."（恶劣天气对今年的收成造成了破坏性影响——考研相关阅读，harvest 指农作物的收成）
-> - "A decorated egg thrown into the field would be a wish for a good harvest."（一个装饰好的彩蛋被扔进田里，那是对丰收的祝愿——考研阅读文化背景材料，涉及西方农业传统中的 harvest 文化）
+> - It won't be long now till harvest ( time ). `[例]`
+> - Farmers are reporting a bumper (= very big ) harvest this year . `[例]`
+> - We had a good harvest this year . `[例]`
 
 
 ---

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无家可归的**== `become homeless` [新闻] `homeless population` [新闻]；
-**n.** ①==**无家可归者**==（the homeless）`the homeless` [新闻]；
+**adj.** ①==**无家可归的**== `adj`；
+**n.** ①==**无家可归者**== `N`（the homeless）；
 > [!tip] 原型义
 > **原型义**：无家可归的（没有住所的）
 > **延伸维度**：空间路径
@@ -127,9 +127,8 @@ home(家) + -less(没有……的) → 复合派生词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Rising housing costs have forced many families onto the streets, contributing to a growing homeless population. `[例]`
-> - The city opened additional homeless shelters ahead of the winter season. `[例]`
-> - Local volunteers organized a charity drive to provide warm clothing and meals for the homeless. `[例]`
+> - Accommodation needs to be found for thousands of homeless families . `[例]`
+> - The homeless sometimes have to sleep in the streets . `[例]`
 
 ## 复习记录
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**真实的，真正的**==；②忠实的，忠诚的；③正确的，准确的；
-**adv.** ①真正地，确实地；
+**adj.** ①==**真实的，真正的**== `adj`；②==**忠实的，忠诚的**== `adj`；③==**正确的，准确的**== `adj`；
+**adv.** ①==**真正地，确实地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：忠实的（值得信赖的→真实的）
@@ -131,7 +131,9 @@ true 源自古英语 *trēowe*（忠实的、值得信赖的），原始日耳�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This principle holds true across all cultures and societies.（这一原则在所有文化和社会中都适用。）
+> - Which of the following is true of New Englan�? ,, A. `[真题]`
+> - Is it true that Mariana and Mark are getting married ? `[例]`
+> - The allegations , if true, could lead to her resignation . `[例]`
 
 
 ---

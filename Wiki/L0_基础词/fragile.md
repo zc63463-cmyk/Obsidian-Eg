@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country's economy remains fragile after years of civil war."（经过多年内战后，该国经济依然脆弱——考研高频搭配）
-> - "The ceasefire is fragile and could collapse at any moment."（停火协议是脆弱的，随时可能崩溃）
-> - "Fragile items should be packed with extra care."（易碎物品应格外小心包装）
+> - Be careful with that vase - it's very fragile. `[例]`
+> - Some of the more fragile items are kept in a locked case . `[例]`
+> - The assassination could end the fragile peace agreement that was signed last month . `[例]`
 
 
 ---

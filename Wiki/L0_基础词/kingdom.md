@@ -124,8 +124,9 @@ king（国王）+ -dom（名词后缀，表示"领域/状态"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "King Juan Carlos of Spain once insisted 'kings don't abdicate, they die in their sleep.'"（西班牙国王胡安·卡洛斯曾坚称"国王不会退位，他们在睡眠中死去。"——2015年英语一Text 1）
-> - "And so, the Middle East excepted, Europe is the most monarch-infested region in the world, with 10 kingdoms (not counting Vatican City and Andorra)."（因此，除中东外，欧洲是世界上君主最多的地区，有10个王国——2015年英语一Text 1）
+> - The United Kingdom of Great Britain and Northern Ireland. `[例]`
+> - The kingdoms of the mind. `[例]`
+> - She was queen of an ancient kingdom in Egypt. `[例]`
 
 
 ---

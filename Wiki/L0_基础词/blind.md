@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**盲的，瞎的**== `adj N`；②==**视而不见的，盲目的**== `adj to N` `adj N`；③==**无识别力的，缺乏判断的**== `adj to N`；
-**v.** ①使失明 `V N`；②使失去判断力 `V N`；
-**n.** ①百叶窗，窗帘 `the blinds`；②障眼物；
+**adj.** ①==**盲的，瞎的**==；②==**视而不见的，盲目的**==；③无识别力的，缺乏判断的；
+**v.** ①使失明；②使失去判断力；
+**n.** ①百叶窗，窗帘；②障眼物；
 
 > [!tip] 原型义
 > **原型义**：看不见（缺乏视觉能力）
@@ -131,10 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was blinded in an accident at an early age. `[COCA-NEWS]`
-> - She is blind to her best friend's faults. `[BNC-SPOKEN]`
-> - They seem to be totally blind to reality. `[COCA-ACAD]`
-> - It was a moment of blind panic. `[例]`
+> - He started to go (= become ) blind in his sixties . `[例]`
+> - She's been blind since birth . `[例]`
+> - He was blind with fury (= so angry that he could not behave reasonably ) . `[例]`
 
 
 ---

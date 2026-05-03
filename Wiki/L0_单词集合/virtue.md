@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Patience is a virtue that every teacher should possess."（耐心是每位教师都应具备的美德。）——考研高频表达
-> - "The virtue of this approach lies in its simplicity and effectiveness."（这种方法的优点在于其简单和有效。）——考研高频表达
+> - Patience is a virtue. `[例]`
+> - Would there be any virtue in taking an earlier train ? `[例]`
+> - The actress has appeared in many TV ads extolling (= praising ) the virtues of hair products . `[例]`
 
 ---
 

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Most archaeological sites have been located by means of careful searching, while many others have been discovered by accident."（大多数考古遗址都需要通过仔细搜寻才能定位，而许多其他遗址则是偶然发现的——2014年考研英语新题型）
-> - "It was just a tragic accident that no one could have predicted or prevented."（这只是一场没有人能够预测或防止的悲剧性事故——考研翻译相关表达）
+> - Josh had an accident and spilled water all over his work . `[例]`
+> - The lorry had been involved in an accident. `[例]`
+> - The sign was damaged in an accident. `[例]`
 
 
 ---

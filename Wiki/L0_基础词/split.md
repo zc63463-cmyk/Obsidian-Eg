@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The political party split into two factions over the controversial policy, with neither side willing to compromise on their core principles."（该政党因这项有争议的政策分裂为两个派系，双方都不愿在核心原则上妥协——考研阅读政治话题相关表达）
-> - "In a split-second decision, the firefighter rushed into the burning building, saving three children who were trapped on the upper floor."（在瞬间的决定中，消防员冲进了燃烧的大楼，救出了被困在楼上的三个孩子——考研阅读英雄事迹相关表达）
+> - The prize was split between Susan and Kate. `[例]`
+> - Split the aubergines in half and cover with breadcrumbs . `[例]`
+> - The teacher split the children (up) into three groups . `[例]`
 
 
 ---

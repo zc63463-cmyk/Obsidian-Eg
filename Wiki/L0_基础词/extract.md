@@ -133,8 +133,9 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers extracted DNA from the ancient remains."（研究人员从古代遗骸中提取了DNA——考研高频表达）
-> - "The following extract is taken from her latest novel."（以下摘录选自她的最新小说）
+> - The oil which is extracted from olives is used for cooking . `[例]`
+> - The tooth was eventually extracted. `[例]`
+> - After much persuasion they managed to extract the information from him. `[例]`
 
 
 ---

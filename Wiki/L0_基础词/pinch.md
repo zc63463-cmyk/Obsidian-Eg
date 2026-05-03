@@ -134,8 +134,9 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These shoes are too tight, they pinch my feet."（这双鞋太紧了，夹我的脚——Cambridge Dictionary）
-> - "To prevent egg cracking whilst boiling, add a pinch of salt to the water."（为防止煮蛋时蛋壳破裂，在水中加一撮盐——YourDictionary 例句库）
+> - Ouch! Stop pinching (me)! `[例]`
+> - These shoes are too tight , they pinch (my feet ). `[例]`
+> - I can't believe that he's back from Canada and he's mine - I keep having to pinch myself to make sure I'm not dreaming . `[例]`
 
 
 ---

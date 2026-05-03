@@ -130,8 +130,9 @@ sup-(=sub-，从下方) + press(压) → 从下方压住 → 压制
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it."（批评者提出了反对基因专利的三个主要论点：基因是自然产物，因此不应被授予专利；基因专利压制创新而非奖励创新。）——2012考研英语二阅读
-> - "It seems that men with traditional views of masculinity are more likely to suppress outward emotions."（似乎持有传统男性观的人更有可能压抑外在的情感表达。）——考研真题阅读
+> - The Hungarian uprising in 1956 was suppressed by the Soviet Union . `[例]`
+> - His feelings of resentment have been suppressed for years . `[例]`
+> - The British government tried to suppress the book because of the information it contained about the security services . `[例]`
 
 ---
 

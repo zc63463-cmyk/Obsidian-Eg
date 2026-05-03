@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Countries near the equator tend to have tropical climates."（赤道附近的国家往往有热带气候——考研地理类阅读）
-> - "The equator divides the Earth into the Northern and Southern Hemispheres."（赤道将地球分为南北半球——基础地理知识）
+> - Exposure to UV rays from the sun varies according to how far away from the equator you live . `[例]`
+> - Indonesia is on the equator. `[例]`
+> - There was a celebration as the ship crossed the equator. `[例]`
 
 
 ---

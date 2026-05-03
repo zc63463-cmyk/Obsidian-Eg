@@ -123,8 +123,9 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The museum is hosting a special exhibition of Egyptian artifacts."（博物馆正在举办一场埃及文物特别展。）
-> - "His speech was an exhibition of ignorance and prejudice."（他的演讲是愚昧与偏见的展示。）
+> - There's a new exhibition of sculpture on at the city gallery . `[例]`
+> - Crowds of people flocked to see the Picasso exhibition. `[例]`
+> - The photographs will be on exhibition until the end of the month . `[例]`
 
 
 ---

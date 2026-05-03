@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**conj.** ①==**如果，假如**==；（用于引出假设条件）
-**prep.** ①如果，假设；
+**conj.** ①==**如果，假如**== `that-clause`；（用于引出假设条件）
+**prep.** ①==**如果，假设**== `that-clause`；
 
 > [!tip] 原型义
 > **原型义**：在下面放置想法（把一个想法放在下面作为基础→假设）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Supposing we miss the train, is there another one later today?（假如我们错过了火车，今天晚些时候还有吗？）
-> - Supposing that the theory is correct, we should be able to predict the outcome.（假如这个理论是正确的，我们应该能够预测结果。）
+> - Supposing (that) you are wrong, what will you do then? `[例]`
+> - But supposing he sees us? `[例]`
 
 ## 复习记录
 

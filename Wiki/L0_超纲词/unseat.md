@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**罢免，使下台**==；②使从座位上跌落；
+**v.** ①==**罢免，使下台**== `V`；②==**使从座位上跌落**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：使离开座位（un-使离开 + seat座位 → 使从座位上下来）
@@ -125,8 +125,8 @@ un-(使离开/反转) + seat(座位，拉丁语 *sedere* → sit)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The scandal was enough to unseat the prime minister after just two years in office.（这桩丑闻足以让首相在任职仅两年后就下台。）
-> - The young challenger unseated the defending champion in a stunning upset.（这位年轻的挑战者以惊人的爆冷击败了卫冕冠军。）
+> - The opposition candidate failed by only 39 votes to unseat the cabinet minister . `[例]`
+> - She has a good chance to unseat the governor . `[例]`
 
 ## 复习记录
 

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I wouldn't stoop to such behavior."（我不会屈尊做这种事。）
-> - "She had to stoop to get through the low doorway."（她不得不弯腰才能穿过低矮的门。）
+> - The doorway was so low that we had to stoop to go through it. `[例]`
+> - Something fell out of her coat pocket and she stooped down and picked it up. `[例]`
+> - He's over six feet tall , but the way he stoops makes him look shorter . `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**财宝，珍宝**==；②==**珍视的人/物**==；③极其珍贵的东西；
-**v.** ①==**珍视，珍爱，珍藏**==；②铭记，珍视（记忆/经历）；
+**n.** ①==**财宝，珍宝**== `N`；②==**珍视的人/物**== `N`；③==**极其珍贵的东西**== `N`；
+**v.** ①==**珍视，珍爱，珍藏**== `V`；②==**铭记，珍视（记忆/经历）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：财宝、珍宝（被珍藏的贵重物品）
@@ -133,8 +133,9 @@ treasure 源自古法语 *tresor*，来自拉丁语 *thesaurus*（宝库，仓�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This book is a treasure chest of information."（这本书是一个信息的宝库。——考研阅读高频表达）
-> - "The treasure had lain undisturbed for centuries."（那份珍宝安然无恙地存放了几个世纪。——考研翻译类例句）
+> - Stories about pirates often include a search for buried treasure. `[例]`
+> - When they opened up the tomb they found treasure beyond their wildest dreams . `[例]`
+> - At the time , the painting was considered one of the world's greatest art treasures. `[例]`
 
 
 ---

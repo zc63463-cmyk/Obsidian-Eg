@@ -145,8 +145,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or refused to accept the slice of cucumber."（如果一只猴子不提供代币就得到了葡萄，另一只要么把代币扔向研究者，要么拒绝接受那片黄瓜。——2005年考研英语一阅读Text 1）
-> - "John Gottman, the marriage expert, explains that we quickly 'thin slice' information reliably only after we ground such snap reactions in 'thick sliced' long-term study."（婚姻专家约翰-戈特曼解释说，只有当我们把这种快速反应建立在"厚切片"的长期研究基础上，我们才能可靠地"快速薄片式"处理信息。——考研英语真题）
+> - We agreed before we did the deal that we'd both take an equal slice of the profit . `[例]`
+> - The film presents us with a fascinating slice of history . `[例]`
+> - That wonderful backhand slice of Maria's sends the ball where her opponent just can't reach it. `[例]`
 
 
 ---

@@ -121,8 +121,9 @@ cloth（布料）的复数形式 *claþas* → clothes（衣服）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She packed her clothes for the trip."（她为旅行收拾了衣服）
-> - "The clothes we wear send messages about who we are."（我们穿的衣服传递着关于我们是谁的信息）
+> - She usually wears smart clothes. `[例]`
+> - She usually wears casual clothes. `[例]`
+> - I'm just putting my clothes on. `[例]`
 
 
 ---

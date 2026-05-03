@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不利的，不适宜的**==；②反对的，否定的；③令人不快的；
+**adj.** ①==**不利的，不适宜的**== `adj`；②==**反对的，否定的**== `adj`；③==**令人不快的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不利的（不给予好意的）
@@ -129,8 +129,8 @@ un-(不，否定前缀) + favor(好感/偏爱) + -able(可被...的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The economic downturn created unfavorable conditions for small businesses."（经济衰退为小企业创造了不利的条件。）
-> - "The product received unfavorable reviews from critics."（这款产品收到了评论家的负面评价。）
+> - The play received generally unfavorable reviews . `[例]`
+> - Unfavorable weather conditions this morning caused a postponement of the launch of the space shuttle . `[例]`
 
 ## 复习记录
 

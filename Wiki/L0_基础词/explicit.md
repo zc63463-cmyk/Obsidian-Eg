@@ -130,9 +130,9 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The contract contains explicit provisions regarding intellectual property rights."（合同中包含关于知识产权的明确规定。）
-> - "She was explicit about her objections to the proposal."（她明确表示反对该提案。）
-> - explicit 是考研阅读中法律、政策类话题的高频词
+> - I gave her very explicit directions how to get here. `[例]`
+> - She was very explicit about (= said very clearly and exactly ) what she thought was wrong with the plans . `[例]`
+> - I wasn't aware that I would be paying - you certainly didn't make it explicit (= state it clearly ) . `[例]`
 
 ---
 

@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was diagnosed with cancer last year."（他去年被诊断出患有癌症。）
-> - "The engineer diagnosed the problem as a software malfunction."（工程师判断问题是由软件故障引起的。）
+> - The specialist diagnosed cancer . `[例]`
+> - His condition was diagnosed as some type of blood disorder . `[例]`
+> - She was diagnosed with diabetes . `[例]`
 
 
 ---

@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Bubonic plague struck London in 1665."（1665年伦敦爆发了腺鼠疫。——欧路词典语料库）
-> - "Plague epidemics have occurred in Africa, Asia and South America, but most human cases since the 1990s have occurred in Africa."（鼠疫疫情曾发生在非洲、亚洲和南美洲，但自1990年代以来，大多数人类病例发生在非洲。——The Guardian）
+> - Financial problems have been plaguing their new business partners . `[例]`
+> - My shoulder's been plaguing me all week . `[例]`
+> - The children plagued him with questions all through lunch . `[例]`
 
 
 ---

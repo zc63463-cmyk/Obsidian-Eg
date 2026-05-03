@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the worship of money"（金钱崇拜）——考研阅读社会/文化类语料，常含批判色彩
-> - "hero worship"（英雄崇拜）——考研阅读/写作常见搭配
-> - "freedom of worship"（宗教信仰自由）——考研阅读/翻译法律/社会类高频话题
+> - On the island the people worshipped different gods . `[例]`
+> - The poll showed that over 40 percent of Americans worship on a weekly basis . `[例]`
+> - Her parents worship her. `[例]`
 
 ---
 

@@ -142,10 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The value of property has slumped."（房产价值突然暴跌。——Cambridge Dictionary，考研高频表达）
-> - "Car sales have slumped dramatically over the past year."（过去一年汽车销量急剧暴跌。——Cambridge Dictionary，考研相关语料）
-> - "Most of the small and medium enterprises closed down during the economic slump."（大多数中小型企业在经济萧条时期都倒闭了。——考研相关语料）
-> - "The physically and mentally exhausted man slumped on the sofa."（这个身心俱疲的男人重重地瘫坐在沙发上。——考研相关语料）
+> - The value of property has slumped. `[例]`
+> - Car sales have slumped dramatically over the past year . `[例]`
+> - She slumped into the chair , exhausted . `[例]`
+> - There's been a slump in the demand for new cars . `[例]`
 
 
 ---

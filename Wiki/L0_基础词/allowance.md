@@ -134,9 +134,9 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even the very phrase 'jobseeker's allowance' is about redefining the unemployed as a 'jobseeker' who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（即使是"求职者津贴"这个词，也是在将失业者重新定义为"求职者"——一个对其通过缴纳国民保险所获得的福利没有基本权利的人——2014年英语一Text 1）
-> - "There will now be a seven-day wait for the jobseeker's allowance."（现在，申请求职者津贴需要经过一个七天的等待期——2014年英语一Text 1）
-> - "Instead, the claimant receives a time-limited 'allowance,' conditional on actively seeking a job; no entitlement and no insurance, at 71.70 a week, one of the least generous in the EU."（相反，申请人获得的是有时间限制的"津贴"，条件是积极寻找工作——2014年英语一Text 1）
+> - The perks of the job include a company pension and a generous travel allowance. `[例]`
+> - I couldn't have managed at college if I hadn't had an allowance from my parents . `[例]`
+> - We should make allowance for bad weather and have plenty of umbrellas available . `[例]`
 
 
 ---

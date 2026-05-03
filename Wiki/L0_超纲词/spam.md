@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**垃圾邮件，垃圾信息**==；②（品牌）斯帕姆午餐肉；
-**v.** ①向……发送垃圾信息；②大量发送（垃圾信息）；
+**n.** ①==**垃圾邮件，垃圾信息**== `N`；②==**（品牌）斯帕姆午餐肉**== `N`；
+**v.** ①==**向……发送垃圾信息**== `V`；②==**大量发送（垃圾信息）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：大量重复发送的不请自来的电子消息（源自 Monty Python 喜剧中的 SPAM 罐头恶搞）
@@ -129,7 +129,8 @@ spam（源自 SPAM 午餐肉品牌名，后因 Monty Python 喜剧小品中反�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Internet service providers have developed sophisticated spam filters to block unwanted emails."（互联网服务提供商开发了精密的垃圾邮件过滤器来拦截不需要的邮件。）
+> - I signed up to a mailing list and then they spammed me for months . `[例]`
+> - Some Internet service providers block spam to subscribers . `[例]`
 
 ## 复习记录
 

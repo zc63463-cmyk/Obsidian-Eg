@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They dined on lobster and champagne."（他们享用了龙虾和香槟）
-> - "The couple likes to dine out on weekends."（这对夫妇喜欢周末外出就餐）
+> - I hate dining alone . `[例]`
+> - We dined by candlelight . `[例]`
+> - He once dined with the president of France. `[例]`
 
 
 ---

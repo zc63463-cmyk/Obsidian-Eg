@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a valid passport is required for entry"（入境需要有效护照）——考研翻译/阅读常见搭配
-> - "there is no valid reason to believe..."（没有合理的理由相信……）——议论文高频句式
-> - "the contract is no longer valid"（该合同已不再有效）——法律/商务类阅读
+> - My way of thinking might be different from yours, but it's equally valid. `[例]`
+> - My passport is valid for another two years . `[例]`
+> - The money was gone, and the only valid conclusion was that someone had stolen it. `[例]`
 
 ---
 

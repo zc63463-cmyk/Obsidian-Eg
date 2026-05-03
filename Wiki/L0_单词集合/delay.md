@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "without delay"（毫不迟延地）——考研阅读/翻译高频短语，表达紧迫性
-> - "delay the decision"（推迟决定）——考研阅读中描述政策/决策被拖延的常见搭配
-> - "a delay of..."（……的延误）——考研阅读中量化时间延误的常见句式
+> - My plane was delayed by an hour . `[例]`
+> - Heavy snow delayed the start of the game . `[例]`
+> - I think we should delay decid ing about this until next year . `[例]`
 
 ---
 

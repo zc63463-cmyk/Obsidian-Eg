@@ -125,8 +125,9 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We are merely stewards of the earth, not its owners."（我们只是地球的管理者，而非其所有者）
-> - "Good stewardship of public resources is essential for sustainable development."（良好的公共资源管理对可持续发展至关重要）
+> - Stewards will be inspecting the race track at 9.00. `[例]`
+> - If you need help at any time during the conference , one of the stewards will be pleased to help you. `[例]`
+> - He's the steward of the City of Wakefield's Working Men's Club. `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**电缆，缆绳**== `power/fiber optic cable` `anchor cable`；②==**电报**== `send a cable` [旧]；③==**有线电视**== `cable TV` `cable channel`；
-**v.** ①==**给……装有线电视**== `have/get cable installed`；②==**发电报**== `cable someone` [旧]；
+**n.** ①==**电缆，缆绳**==；②电报；③有线电视
+**v.** ①给……装有线电视；②发电报
 
 > [!tip] 原型义
 > **原型义**：粗绳（船上使用的强力绳索）
@@ -135,10 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Roads have to be dug up to lay underground cables. `[COCA-NEWS]`
-> - This channel is only available on cable. `[COCA-SPOK]`
-> - We just had cable installed. `[COCA-SPOK]`
-> - In-market fans can also stream the game on the Bally Sports app through their cable provider. `[COCA-NEWS]`
+> - The road has been dug up in order to lay cables. `[例]`
+> - The office has gone over to cable. `[例]`
+> - This channel is only available on cable. `[例]`
 
 
 ---

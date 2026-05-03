@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**打印机**==；②==**印刷工，印刷商**==；③==**印刷厂**==；
+**n.** ①==**打印机**== `N`；②==**印刷工，印刷商**== `N`；③==**印刷厂**== `N`；
 
 > [!tip] 原型义
 > **原型义**：打印的人/机器（将文字或图像印到纸上）
@@ -126,7 +126,8 @@ print（打印/印刷）+ -er（人/机器）= 打印的人/机器→打印机/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The invention of the printer revolutionized the dissemination of knowledge."（印刷机的发明彻底改变了知识的传播方式。）
+> - We are a commercial printer offering pre-press, printing , and bindery services . `[例]`
+> - The book is now at the printers. `[例]`
 
 ## 复习记录
 

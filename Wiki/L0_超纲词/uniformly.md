@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**统一地，一致地**==；②均匀地；③始终如一地；
+**adv.** ①==**统一地，一致地**== `adv`；②==**均匀地**== `adv`；③==**始终如一地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：统一地（以相同的方式）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The new regulation must be uniformly enforced across all regions."（新规定必须在所有地区一致执行。）
-> - "The results were uniformly positive across all test groups."（在所有测试组中，结果都是一致的正面。）
+> - Critics were uniformly enthusiastic about the production . `[例]`
+> - The impact of interest rates is not felt uniformly across the country . `[例]`
 
 ## 复习记录
 

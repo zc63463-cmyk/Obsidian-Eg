@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**时髦的，时尚的**==；②==**有格调的，有品位的**==；
+**adj.** ①==**时髦的，时尚的**== `adj`；②==**有格调的，有品位的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：有风格的（具有独特风格和品位的）
@@ -124,8 +124,8 @@ style（风格，时尚）+ -ish（有……特征的，形容词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She always looks stylish without trying too hard.（她总是看起来很时髦，而且毫不费力。）
-> - The hotel's interior design is both stylish and comfortable.（这家酒店的室内设计既时尚又舒适。）
+> - The film's direction is subtle and stylish. `[例]`
+> - It's a very stylish and beautiful film , but it lacks content . `[例]`
 
 ## 复习记录
 

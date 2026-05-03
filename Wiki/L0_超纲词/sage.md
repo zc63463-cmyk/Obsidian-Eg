@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**智者，圣人**==；②睿智的人；
-**adj.** ①==**睿智的，明智的**==；
+**n.** ①==**智者，圣人**== `N`；②==**睿智的人**== `N`；
+**adj.** ①==**睿智的，明智的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：品尝过人生百味的人（因阅历丰富而拥有智慧）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The sage advised the young king to rule with patience and compassion."（那位智者劝告年轻的国王以耐心和仁慈治国。）
-> - "His sage observations about human nature have stood the test of time."（他对人性的睿智观察经受住了时间的考验。）
+> - Duck with sage and onion stuffing. `[例]`
+> - The wise old sage nodded. `[例]`
 
 ## 复习记录
 

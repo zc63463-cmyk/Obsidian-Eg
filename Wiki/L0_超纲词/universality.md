@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**普遍性，广泛性**==；②通用性；③普遍适用；
+**n.** ①==**普遍性，广泛性**== `N`；②==**通用性**== `N`；③==**普遍适用**== `N`；
 
 > [!tip] 原型义
 > **原型义**：普遍性（适用于全宇宙的）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The universality of human suffering is a theme found in all great literature."（人类苦难的普遍性是所有伟大文学中都存在的主题。）
-> - "Scientists debated the universality of physical laws across the cosmos."（科学家们辩论物理定律在整个宇宙中的普遍适用性。）
+> - She wrote about the universality of the themes of world mythology . `[例]`
+> - The universality of his dilemma is one to which we can all relate . `[例]`
 
 ## 复习记录
 

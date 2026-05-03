@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**郊区的，城郊的**==；②==**郊区特色的**==（有时含平庸、单调的贬义）；
+**adj.** ①==**郊区的，城郊的**== `adj`；②==**郊区特色的**== `adj`（有时含平庸、单调的贬义）；
 
 > [!tip] 原型义
 > **原型义**：城市下面的（在城市之下/之外的居住区域）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many families prefer to live in suburban areas where housing is more affordable.（许多家庭更喜欢住在郊区，那里的住房更负担得起。）
-> - Suburban sprawl has led to increased traffic congestion and environmental degradation.（郊区蔓延导致了交通拥堵加剧和环境恶化。）
+> - Many families prefer to live in suburban areas where housing is more affordable. `[例]`
+> - Suburban sprawl has led to increased traffic congestion and environmental degradation. `[例]`
 
 ## 复习记录
 

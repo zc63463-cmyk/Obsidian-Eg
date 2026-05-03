@@ -121,8 +121,9 @@ a-(=ad-, 去/向) + part(部分，分) + -ment(名词后缀，表示结果/场�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young people prefer to rent an apartment rather than buy a house."（许多年轻人更愿意租公寓而不是买房——考研阅读常见话题）
-> - "The apartment building was constructed in the 1990s."（这栋公寓楼建于20世纪90年代）
+> - I'll give you the keys to my apartment. `[例]`
+> - They have six luxury apartments for sale . `[例]`
+> - The Royal Apartments are open to the public . `[例]`
 
 
 ---

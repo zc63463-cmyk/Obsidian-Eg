@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**反对，反抗**==；②==**对抗，阻挠**==；③==**使对立，使对照**==；
-**vi.** ①==**反对**==；
+**vt.** ①==**反对，反抗**== `V N`；②==**对抗，阻挠**== `V N`；③==**使对立，使对照**== `V N`；
+**vi.** ①==**反对**== `V`；
 
 > [!tip] 原型义
 > **原型义**：放置在对面对抗（ob- 对着 + ponere 放置）
@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many residents oppose the construction of the new highway."（许多居民反对修建新高速公路）——考研阅读常见搭配，社会类
-> - "She is strongly opposed to the new regulation."（她强烈反对新规定）——政策/法律类阅读
-> - "He chose to work in the private sector, as opposed to the public sector."（他选择在私营部门工作，而不是公共部门）——对比类句型
+> - A. ruins B. debt C. fashion Section Il Reading Comprehension Part A Directions: D. equipped D. permanently D. combination D. connect D. along with D. evaluation D. reduced D. opposed D. in case D. meeting D. `[真题]`
+> - Soon, some locals opposed the designation. `[真题]`
+> - The proposed new testing system has been vigorously opposed by teachers . `[例]`
 
 ---
 

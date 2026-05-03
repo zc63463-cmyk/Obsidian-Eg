@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Paris remains one of the most popular tourist destinations in the world."（巴黎仍然是世界上最受欢迎的旅游目的地之一）
-> - "Education should not be seen as the destination but as the journey itself."（教育不应被视为终点，而应被视为旅程本身）
+> - We arrived at our destination tired and hungry . `[例]`
+> - His letter never reached its destination. `[例]`
+> - The Caribbean is a popular holiday destination. `[例]`
 
 
 ---

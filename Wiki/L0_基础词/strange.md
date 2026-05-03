@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's strange how memories can fade over time."（奇怪的是记忆如何随时间消退。）
-> - "She found herself in a strange city with no money."（她发现自己身无分文地身处一座陌生的城市。）
+> - He has some very strange ideas about women! `[例]`
+> - I had a strange feeling that we'd met before. `[例]`
+> - It's strange that tourists almost never visit this village . `[例]`
 
 
 ---

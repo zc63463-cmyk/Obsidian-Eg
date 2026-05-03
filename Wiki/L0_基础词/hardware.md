@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This country has already spent 500 million dollars on military hardware."（这个国家已经在军事装备上花了五亿美元。——考研英语阅读相关语料）
-> - "I know nothing about computer hardware."（我对计算机硬件一窍不通。——考研英语阅读相关语料）
+> - The tournament was a chance to add another piece of shiny hardware to her vast collection . `[例]`
+> - The team went home from the competition with less hardware this year . `[例]`
+> - The growth of the computer and consumer electronics industries is driven by a steady stream of advances in both hardware and software . `[例]`
 
 
 ---

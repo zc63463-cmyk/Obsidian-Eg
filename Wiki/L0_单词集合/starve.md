@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Millions of people in the region are at risk of starving."（该地区数百万人面临饿死的危险。）——考研高频表达
-> - "The school budget is being starved of resources by the government."（学校的预算正被政府削减资源。）——考研高频表达
+> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
+> - Whole communities starved to death during the long drought . `[例]`
+> - From talking to former prisoners in the camps , an obvious conclusion is that they have been starved. `[例]`
 
 ---
 

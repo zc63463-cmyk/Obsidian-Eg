@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Bob Herz, the FASB's chairman, cried out against those who 'question our motives.'"（FASB主席鲍勃·赫尔兹对那些"质疑我们动机"的人发出了抗议——2010年考研英语阅读Text 2）
-> - "This is really about trying to cut through the confusion that consumers have when they are buying a product and that businesses have when they are selling a product, said Jon Leibowitz, chairman of the commission."（该委员会主席乔恩·莱博维茨说，这实际上是试图消除消费者在购买产品和企业销售产品时的困惑——六级/考研通用语料）
+> - The chairman called the meeting to order . `[例]`
+> - He was appointed chairman of the British Bankers' Association . `[例]`
+> - She has decided to step down as chairman next year . `[例]`
 
 
 ---

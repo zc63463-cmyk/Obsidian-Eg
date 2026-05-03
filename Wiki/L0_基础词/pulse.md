@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**脉搏**==；②==**脉冲**==；③==**节奏，律动**==；④豆类（豌豆、豆子等）；
-**v.** ①==**跳动，搏动**==；
+**n.** ①==**脉搏**== `N`；②==**脉冲**== `N`；③==**节奏，律动**== `N`；④==**豆类（豌豆、豆子等）**== `N`；
+**v.** ①==**跳动，搏动**== `V`；
 
 > [!tip] 原型义
 > **原型义**：脉搏（心脏跳动推动血液产生的有节奏的搏动）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The doctor took the patient's pulse and noted it was racing."（医生为病人把脉，注意到脉搏跳得很快——考研阅读常见搭配）
-> - "The city pulses with energy and creativity."（这座城市充满了活力和创造力——考研写作常见表达）
+> - Exercise increases your pulse rate . `[例]`
+> - The data , normally transmitted electronically , can be changed into pulses of light . `[例]`
+> - Give the mixture a pulse or two until it is broken down. `[例]`
 
 
 ---

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many developing countries remain heavily **dependent** on foreign aid.（许多发展中国家仍然严重依赖外国援助。）
-> - The outcome of the election is **dependent** on voter turnout.（选举结果取决于投票率。）
+> - He has three dependent children . `[例]`
+> - It's very easy to become dependent on sleeping pills . `[例]`
+> - Whether I get into college or not is dependent on how good my grades are. `[例]`
 
 ---
 

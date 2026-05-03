@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He's not ready to leave the nest yet, but it is another step forward in his flight to total independence."（他还没做好离巢的准备，但这是他迈向完全独立的又一步。——剑桥词典例句）
-> - "In other words, 'prescribing' is nested within the overall treatment package, which includes psychosocial components that have been negotiated."（换言之，"处方"嵌套在整体治疗方案中，该方案包括已协商的心理社会组成部分。——剑桥词典例句）
+> - Cuckoos are famous for laying their eggs in the nests of other birds . `[例]`
+> - The alligators build their nests out of grass near the water's edge . `[例]`
+> - The diplomats have been sent home because their embassy has become a nest of spies . `[例]`
 
 
 ---

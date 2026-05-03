@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**概念，观念**==；②==**想法，意图**==；③==**理解，了解**==；
+**n.** ①==**概念，观念**== `N`；②==**想法，意图**== `N`；③==**理解，了解**== `N`；
 
 > [!tip] 原型义
 > **原型义**：脑中形成的概念（通过认知活动在脑海中形成的对事物的理解和把握）
@@ -130,8 +130,9 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to know）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The worthy residents of Stratford doubt that the theatre adds a penny to their revenue."（斯特福特镇受人尊敬的居民们认为剧院一点都没有使他们的收入增加。）——2006考研英语一阅读
-> - "The notion that education should be solely focused on academic achievement is increasingly being challenged."（教育应仅关注学业成绩的观念正受到越来越多的质疑。）——考研高频表达
+> - The show's director rejects the notion that seeing violence on television has a harmful effect on children . `[例]`
+> - I have only a vague notion of what she does for a living . `[例]`
+> - There's a fabric store there that sells notions. `[例]`
 
 ---
 

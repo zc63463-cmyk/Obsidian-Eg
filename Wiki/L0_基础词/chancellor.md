@@ -128,8 +128,9 @@ chancellor 源自古法语 *chancelier*，源自晚期拉丁语 *cancellarius*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The German Chancellor announced new measures to address the economic crisis."（德国总理宣布了应对经济危机的新措施——考研政治/经济类语料）
-> - "The Chancellor of the University delivered a speech at the graduation ceremony, emphasizing the importance of lifelong learning."（大学校长在毕业典礼上发表了演讲，强调终身学习的重要性——考研教育类语料）
+> - Helmut Kohl became the first Chancellor of a united Germany in 1990. `[例]`
+> - A former politician has been appointed Chancellor of the university . `[例]`
+> - The Chancellor will deliver his budget later today. `[例]`
 
 
 ---

@@ -142,10 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "welfare state"（福利国家）——考研政治/经济类阅读高频搭配，讨论欧洲社会模式
-> - "welfare reform"（福利改革）——政策类阅读/写作常见话题
-> - "social welfare"（社会福利）——社会类阅读中描述社会保障体系
-> - "on welfare"（领取福利救济）——社会问题类语料常见表达
+> - Your taxes pay for welfare benefits such as unemployment and sickness pay . `[例]`
+> - After her month's sick leave , she was summoned to see the company's welfare officer . `[例]`
+> - Over 53,000 families in the region are currently on welfare. `[例]`
+> - The police are very concerned for the welfare of the missing child . `[例]`
 
 ---
 

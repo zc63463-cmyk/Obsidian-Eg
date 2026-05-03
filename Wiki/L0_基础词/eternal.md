@@ -128,8 +128,9 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The eternal triangle of love, jealousy and betrayal forms the core of many novels."（爱、嫉妒和背叛这一永恒的三角关系构成了许多小说的核心。）
-> - "They pledged eternal friendship."（他们誓言友谊长存。）
+> - The company is engaged in the eternal search for a product that will lead the market . `[例]`
+> - Will you two never stop your eternal arguing ! `[例]`
+> - She's an eternal optimist (= she always expects that the best will happen) . `[例]`
 
 
 ---

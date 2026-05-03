@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company faced a hostile takeover bid from a rival firm."（公司面临来自竞争对手的恶意收购要约。）
-> - "The desert is a hostile environment for most forms of life."（沙漠对大多数生命形式来说是一个恶劣的环境。）
+> - The president had a hostile reception in Ohio this morning . `[例]`
+> - Hostile voices complained that the process would impose religious beliefs on the population . `[例]`
+> - The company convinced investors to reject a hostile bid from Enterprise Oil Plc worth £1.5 billion . `[例]`
 
 
 ---

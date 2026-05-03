@@ -125,8 +125,8 @@ grass(草) + land(土地)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The conversion of grassland to agricultural land has led to significant biodiversity loss. `[例]`
-> - Grasslands cover approximately 40% of the Earth's land surface. `[例]`
+> - The grasslands of North America. `[例]`
+> - Conservation groups are restoring grasslands in the Midwest . `[例]`
 
 ## 复习记录
 

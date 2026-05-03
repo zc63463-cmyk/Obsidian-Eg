@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**推进，推动**==；②==**驱使，激励**==；③=propel forward= 推进；
+**vt.** ①==**推进，推动**== `V N`；②==**驱使，激励**== `V N`；③==**推进（propel forward）**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：向前推动（施加力量使某物向前移动）
@@ -125,8 +125,9 @@ pro-(向前) + pel(推动，拉丁语 *pellere*，驱赶、推动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The technology has also propelled others into the industry's upper echelons."（这项技术还助推其他公司跻身行业前列。——《经济学人》外刊）
-> - "Fury propelled her into action."（怒火驱使她行动起来。——考研高频表达）
+> - A rocket propelled through space. `[例]`
+> - Fury propelled her into action. `[例]`
+> - The Kon-Tiki sailed across the Pacific Ocean propelled by wind power . `[例]`
 
 
 ---

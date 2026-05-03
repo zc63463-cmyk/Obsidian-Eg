@@ -126,8 +126,9 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Victims of the natural disaster were provided with food, shelter, and medical assistance."（自然灾害的受害者得到了食物、住所和医疗援助。）——考研高频表达
-> - "Children are often the innocent victims of domestic conflicts and social instability."（儿童往往是家庭冲突和社会动荡的无辜受害者。）——考研高频表达
+> - The new drug might help save the lives of cancer victims. `[例]`
+> - We appear to have been the victims of a cruel practical joke . `[例]`
+> - Our local hospital has become the latest victim of the cuts in government spending . `[例]`
 
 
 ---

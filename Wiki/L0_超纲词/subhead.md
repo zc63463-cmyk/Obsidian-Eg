@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小标题，副标题**==；（文章中标题下面的分标题）
+**n.** ①==**小标题，副标题**== `N`；（文章中标题下面的分标题）
 
 > [!tip] 原型义
 > **原型义**：标题下面的（在主标题之下的分标题）
@@ -120,8 +120,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The article is organized under several subheads for easy reading.（文章分几个小标题组织，便于阅读。）
-> - Write a catchy subhead to draw readers into each section.（写一个吸引人的小标题来引导读者进入每个部分。）
+> - Topics cover a gamut of outdoor activities and topics under the generic subheads of fishing, hunting, nature, outdoors, etc. `[例]`
+> - The subhead was more horrifying still: the former envoy elliott abrams says the administration should push harder for regime change. `[例]`
 
 ## 复习记录
 

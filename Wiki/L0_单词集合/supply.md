@@ -129,8 +129,9 @@ sup-(=sub-，从下方) + ply(=ple/plet，填充，参见 [[lect-leg|ple/plet]])
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists need journals in which to publish their research, so they will supply the articles without monetary reward."（科学家需要期刊来发表他们的研究成果，因此他们会无偿提供论文。）——2020考研英语一阅读
-> - "The supply and demand of labor is a fundamental concept in economics."（劳动力的供求关系是经济学的基本概念。）——考研高频表达
+> - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
+> - Its housing supply is at a very low level. `[真题]`
+> - The bill mentioned in Paragraph 2 was intended to __ _ A. curb short-term rental speculation B. ensure the supply of cheap housing C. punish illegal dealings in housing D. allow a free short-term rental market 28. `[真题]`
 
 ---
 

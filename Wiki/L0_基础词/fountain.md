@@ -125,8 +125,9 @@ fount(=fons, 泉水，拉丁语 fons/fontis 泉水) + -ain(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The library is a fountain of knowledge for the entire community."（图书馆是整个社区的知识源泉）
-> - "The ancient legend tells of a fountain of youth hidden deep in the mountains."（古老的传说讲述了一座隐藏在深山中的青春之泉）
+> - There was a picture of the Trevi fountain on the front of the book . `[例]`
+> - They also sell garden ornaments such as statues and fountains. `[例]`
+> - The stories said that water from this fountain was good for people. `[例]`
 
 
 ---

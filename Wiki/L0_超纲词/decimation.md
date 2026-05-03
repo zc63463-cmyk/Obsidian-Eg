@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**大批毁灭，大量杀戮**== `N` [消极]；②==**大幅削减**== `N` [消极]；
+**n..** ①==**大批毁灭，大量杀戮**== `N`；②==**大幅削减**== `N`；
 
 > [!tip] 原型义
 > **原型义**：十抽一（古罗马军法中每十人杀一人）
@@ -121,8 +121,8 @@ decim-(拉丁语 decimus，十分之一) + -ation(名词后缀) → 每十人杀
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The decimation of the rainforests is an environmental catastrophe. `[例]`；
-> - Budget decimation forced the university to cancel several research programmes. `[例]`；
+> - The decimation of the indigenous population. `[例]`
+> - We need to halt the decimation of our manufacturing base. `[例]`
 
 ## 复习记录
 

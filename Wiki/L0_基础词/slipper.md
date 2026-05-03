@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "An elderly woman was strewing the floor with chalk so that the dancing shoes would not slip."（一位老妇人正在往地板上撒滑石粉以防止舞鞋打滑。——考研相关语料，slip 与 slipper 同源）
-> - "The company spent the last five years developing solar panels that are only about a quarter of an inch thick and are strong enough to stand up to heavy highway traffic without breaking or making the roads more slippery."（该公司花了五年时间开发太阳能电池板，厚度仅约四分之一英寸，足以承受繁忙公路交通而不破裂或使道路更滑。——考研真题，slippery 与 slipper 同源）
+> - A pair of slippers. `[例]`
+> - He put on his bathrobe and slippers. `[例]`
+> - He came to the door in his slippers. `[例]`
 
 
 ---

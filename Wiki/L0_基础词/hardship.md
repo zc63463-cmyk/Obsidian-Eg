@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And the bank has done this even though its advisors say the dam will cause hardship for the powerless and environmental destruction."（尽管世界银行的顾问指出，该大坝将给平民带来苦难，而且会破坏那里的环境，但世界银行依然一意孤行。——1998年考研英语Text 1）
-> - "A strong man will bear hardship without complaining."（一个坚强的人会忍受困苦而不抱怨。——考研英语阅读相关语料）
+> - The 1930s were a time of high unemployment and economic hardship. `[例]`
+> - The price of cooking gas increased five-fold, worsening the economic hardship. `[例]`
+> - The Commission does not believe that the proposed rule change will pose an undue hardship on venture capital firms . `[例]`
 
 
 ---

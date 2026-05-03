@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "search the database for information"（在数据库中搜索信息）——考研阅读科技类话题常见搭配
-> - "customer database"（客户数据库）——考研阅读商业类话题高频表达
-> - "a vast database of knowledge"（庞大的知识库）——教育/知识类话题常见用法
+> - The problem ils rampant in Scopus, a citation database, which includes a high number of the new "international" journals. `[真题]`
+> - We're linked to the online database at our head office . `[例]`
+> - The group now has a database of 3,000 members . `[例]`
 
 ---
 

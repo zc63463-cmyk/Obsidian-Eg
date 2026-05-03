@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**未被认出的，未被识别的**==；②未被承认的，未获认可的；
+**adj.** ①==**未被认出的，未被识别的**== `adj`；②==**未被承认的，未获认可的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：没有被认出来的（un-不 + recognize认出 + -ed被...的 → 没有被认出来的）
@@ -127,8 +127,8 @@ un-(不，否定) + re-(再/重新) + [[cogn]](知道→拉丁语 *cognoscere*) 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many of the greatest scientific discoveries went unrecognized during the lifetime of their discoverers.（许多最伟大的科学发现在发现者生前都未获认可。）
-> - The unrecognized contributions of women to early computer science are finally being acknowledged.（女性对早期计算机科学未被承认的贡献终于得到了认可。）
+> - Because the symptoms are so varied , the disorder may go unrecognized for weeks or even months . `[例]`
+> - These studies have also uncovered previously unrecognized cases of ulcerative colitis . `[例]`
 
 ## 复习记录
 

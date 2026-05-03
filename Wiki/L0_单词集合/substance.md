@@ -136,8 +136,9 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ance(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The substance of his argument was that the new policy would benefit all employees."（他的论点的实质是新政策将使所有员工受益。）——考研高频表达
-> - "The two proposals are similar in substance."（这两个提案在实质上是相似的。）——考研高频表达
+> - What sort of substance could withstand those temperatures ? `[例]`
+> - All athletes are tested for illegal substances. `[例]`
+> - Later that year , the substance of their secret conversation appeared in a newspaper article . `[例]`
 
 ---
 

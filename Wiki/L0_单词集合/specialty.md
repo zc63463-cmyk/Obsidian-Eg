@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her specialty is European history, with a particular focus on the Renaissance."（她的专业是欧洲历史，特别关注文艺复兴时期）——教育/学术类阅读
-> - "The region is famous for its local specialty, a type of cheese made from goat's milk."（该地区以其地方特产闻名——一种用山羊奶制成的奶酪）——文化/地理类话题
-> - "The company's specialty is developing custom software solutions."（这家公司的专长是开发定制软件解决方案）——商业/科技类话题
+> - Oysters are a local specialty of the area . `[例]`
+> - Paella is a specialty of the house (= a food that is unusually good in a particular restaurant ) . `[例]`
+> - His specialty is tax law . `[例]`
 
 ---
 

@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**在楼上，往楼上**==；
-**adj.** ①==**楼上的**==；
-**n.** ①==**楼上**==（the upstairs）；
+**adv.** ①==**在楼上，往楼上**== `adv`；
+**adj.** ①==**楼上的**== `adj`；
+**n.** ①==**楼上**== `N`（the upstairs）；
 
 > [!tip] 原型义
 > **原型义**：楼上的（在楼梯上方的空间）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They tiptoed upstairs so as not to wake the baby."（他们踮着脚上楼，生怕把孩子吵醒——新东方词典例句）
-> - "Jim lived upstairs."（吉姆住在楼上——新东方词典例句）
+> - He heard glass breaking and ran upstairs to see what had caused it. `[例]`
+> - Sadly, the upstairs of the house was gutted by fire . `[例]`
+> - There were shouts from upstairs. `[例]`
 
 
 ---

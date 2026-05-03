@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**诉讼程序，诉讼**== ; ②（会议等的）进程，事项 ; ③行动，做法 ;
-**adj.** ①在先的，前面的（仅用于 proceeding year 等固定搭配） ;
+**n.** ①==**诉讼程序，诉讼**== `N`；②==**（会议等的）进程，事项**== `N`；③==**行动，做法**== `N`；
+**adj.** ①==**在先的，前面的（仅用于 proceeding year 等固定搭配）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：进行中的事务——正在向前推进的事情
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The legal proceedings against the company lasted for more than two years."（针对该公司的法律诉讼持续了两年多。）——考研高频表达
-> - "Before proceeding, we need to be more precise about the meaning of 'outcome' in such models."（在继续之前，我们需要更精确地界定此类模型中'结果'的含义。）——考研高频表达
+> - Preparations for the festival are now proceeding smoothly . `[例]`
+> - Before proceeding, we need to be more precise about the meaning of 'outcome' in such models. `[例]`
+> - There was enough evidence to bring criminal proceedings against her. `[例]`
 
 ---
 

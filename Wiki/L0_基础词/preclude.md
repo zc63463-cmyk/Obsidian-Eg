@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lack of reliable data precludes researchers from drawing any definitive conclusions about the cause of the disease."（缺乏可靠数据使研究人员无法对该疾病的病因得出任何确定的结论——考研阅读学术研究话题相关表达）
-> - "The contract includes a clause that precludes employees from working for competitors for two years after leaving the company."（合同中包含一条条款，禁止员工在离开公司后两年内为竞争对手工作——考研阅读法律经济话题相关表达）
+> - His contract precludes him from discussing his work with anyone outside the company . `[例]`
+> - The fact that your application was not successful this time does not preclude the possibility of you applying again next time . `[例]`
+> - Although your application was not accepted , it doesn’t preclude the possibility of your applying again later . `[例]`
 
 
 ---

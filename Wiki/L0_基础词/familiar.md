@@ -135,8 +135,9 @@ familiar 源自拉丁语 *familiaris*（家庭的、私人的、属于家庭的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The more familiar you are with the subject, the easier it is to understand the passage."（你对这个主题越熟悉，就越容易理解这篇文章。——考研英语阅读方法论）
-> - "Students should be familiar with the basic concepts of economics before taking the advanced course."（学生在选修高级课程之前应该熟悉经济学的基本概念。——考研英语长难句）
+> - There were one or two familiar faces (= people I knew ) . `[例]`
+> - The house looked strangely familiar, though she knew she'd never been there before. `[例]`
+> - The street was familiar to me. `[例]`
 
 
 ---

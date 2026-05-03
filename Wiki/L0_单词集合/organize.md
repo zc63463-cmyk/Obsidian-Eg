@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**组织，安排，筹划**== `organize a conference/event`; `organize a campaign/team`; ②==**使有条理，整理**== `organize data/information`; `organize one's thoughts`;
+**v.** ①==**组织，安排，筹划**== `V` ; ②==**使有条理，整理**== `V N`
 
 > [!tip] 原型义
 > **原型义**：使各部分像器官一样协调运作
@@ -124,10 +124,9 @@ organ(器官/工具) + -ize(动词后缀，表"使…化")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university organized an international conference on climate change." `[真题]`
-> - "This review of assessment research might be organized around assessment or curriculum themes." `[COCA-ACAD]`
-> - "Work and task have to be structured and organized." `[COCA-ACAD]`
-> - "We have organized a support group to help them know that others understand and care." `[COCA-ACAD]`
+> - They organized a meeting between the teachers and students . `[例]`
+> - She had organized a car to meet me at the airport . `[例]`
+> - My mother is always trying to organize me (= make me do things in the way she likes ) . `[例]`
 
 ---
 

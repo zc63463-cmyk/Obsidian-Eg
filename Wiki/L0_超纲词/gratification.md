@@ -134,8 +134,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The ability to delay gratification is one of the most important factors for success. `[例]`
-> - She found great gratification in her work as a teacher. `[例]`
+> - Saving money involves delayed gratification (= not getting what you want immediately ) . `[例]`
+> - Sales of chocolate-covered snacks are up as people seek immediate gratification. `[例]`
 
 ## 复习记录
 

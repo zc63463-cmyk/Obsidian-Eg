@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Industrial waste continues to pollute rivers and lakes across the country."（工业废水继续污染全国各地的河流和湖泊）
-> - "Some argue that violent video games pollute young minds."（一些人认为暴力电子游戏腐蚀年轻人的心灵）
+> - The pesticides used on many farms are polluting the water supply . `[例]`
+> - We won't invest in any company that pollutes the environment . `[例]`
+> - Many complain that broadcasters pollute the airwaves with sensationalism and sleaze . `[例]`
 
 
 ---

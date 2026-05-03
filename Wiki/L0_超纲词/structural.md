@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**结构的，构造的**==；②==**结构性的**==（影响整体的，根本性的）；③建筑的；
+**adj.** ①==**结构的，构造的**== `adj`；②==**结构性的**== `adj`（影响整体的，根本性的）；③==**建筑的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与结构有关的（关乎事物的构造和组织方式）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The country needs structural reform to address its economic challenges.（该国需要结构性改革来应对经济挑战。）
-> - Structural inequality persists despite decades of social policy changes.（尽管社会政策变化了几十年，结构性不平等依然存在。）
+> - The political reforms have led to major structural changes in the economy . `[例]`
+> - Hundreds of houses in the typhoon's path suffered structural damage . `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不经济的，不盈利的**==；②浪费的，不划算的；
+**adj.** ①==**不经济的，不盈利的**== `adj`；②==**浪费的，不划算的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不经济的（不划算的）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It would be uneconomic to continue operating the old factory."（继续运营旧工厂是不划算的。）
-> - "The project was abandoned as uneconomic."（该项目因不经济而被放弃。）
+> - They closed the factory , saying it was uneconomic. `[例]`
+> - The price of oil dropped so low that it became uneconomic to drill . `[例]`
 
 ## 复习记录
 

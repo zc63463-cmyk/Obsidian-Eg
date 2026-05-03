@@ -121,7 +121,9 @@ ex-(出、向外) + claim(叫喊，拉丁语 *clamare*) → 向外叫喊 → 惊
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "How wonderful!" she exclaimed when she heard the news.（"太好了！"她听到消息后惊叫道。）
+> - You can't leave now!" she exclaimed. `[例]`
+> - Nonsense!" he exclaimed in disgust . `[例]`
+> - She exclaimed in delight upon hearing the news . `[例]`
 
 
 ---

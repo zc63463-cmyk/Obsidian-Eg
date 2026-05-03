@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**统计学家，统计员**==；
+**n.** ①==**统计学家，统计员**== `N`；
 
 > [!tip] 原型义
 > **原型义**：搞统计的人（专门从事统计工作的专业人员）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Statisticians have developed sophisticated methods for analyzing complex data.（统计学家已经开发出分析复杂数据的精密方法。）
-> - The statistician noted that the sample size was too small to draw conclusions.（统计学家指出样本量太小，无法得出结论。）
+> - Statisticians blamed the construction sector for the weaker-than-expected performance of the economy . `[例]`
+> - The company's chief statistician forecasts an upturn in the spring . `[例]`
 
 ## 复习记录
 

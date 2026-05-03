@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the age of social media, we may have thousands of online acquaintances, yet struggle to find genuine friends who truly understand us."（在社交媒体时代，我们可能有数千名网络上的泛泛之交，却难以找到真正理解我们的知心朋友——考研阅读社会话题相关表达）
-> - "The author assumes that the reader has at least a passing acquaintance with the basic principles of economics."（作者假定读者至少对经济学的基本原理有肤浅的了解——考研阅读学术话题相关表达）
+> - I have absolutely no acquaintance with the family . `[例]`
+> - You have yet to have the pleasure of her acquaintance. `[例]`
+> - A small girl of my acquaintance insists on eating cornflakes without milk , flake by flake . `[例]`
 
 
 ---

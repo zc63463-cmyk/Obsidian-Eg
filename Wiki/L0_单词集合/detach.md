@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is important for scientists to maintain an objective and detached attitude towards their research."（科学家保持客观超然的研究态度很重要。）——考研高频表达
-> - "The label was detached from the product, making it impossible to identify the manufacturer."（标签从产品上脱落了，无法识别制造商。）——考研高频表达
+> - You can detach the hood if you prefer the coat without it. `[例]`
+> - Detach the lower part of the form from this letter and return it to the above address . `[例]`
+> - Detach the lower half of the form and return it to the above address . `[例]`
 
 
 ---

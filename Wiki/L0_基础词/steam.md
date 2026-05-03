@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the steam engine revolutionized transportation and manufacturing."（蒸汽机的发明彻底改变了交通和制造业。）
-> - "After weeks of intense pressure, she needed to blow off steam."（经过数周的高压，她需要发泄一下。）
+> - Steam rose from the simmering stew . `[例]`
+> - The age of steam (= the period when steam provided power for railways and factories ). `[例]`
+> - The pump is driven by steam. `[例]`
 
 
 ---

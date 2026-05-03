@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consequences follow from this, of course, some of which are that ambition is driven underground, or made sly."（当然，随之而来的后果是，野心被转入地下，或者变得狡猾。——2000年考研英语真题）
-> - "However sly a fox may be, it is no match for a good hunter."（无论狐狸多么狡猾，也敌不过好猎手。——常见英语谚语）
+> - O b v io u sly , d u e to in c re a sin g e m p lo y m e n t a n d a c a d e m ic p re ssu re s, stu d e n ts to d a y n e e d to a rm th e m se lv e s w ith a v a st a rra y o f sk ills a n d k n o w le d g e b e fo re g ra d u a tio n , w h ic h c a n b e o v e rw h e lm in g . `[真题]`
+> - He's a sly old devil - I wouldn't trust him with my money . `[例]`
+> - He drives his mother's car on the sly while she's at work . `[例]`
 
 
 ---

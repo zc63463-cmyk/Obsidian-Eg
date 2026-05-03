@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Nursing is a very worthwhile career."（护理是一项非常有价值的职业。）——考研阅读中讨论职业价值
-> - "It is worthwhile to invest in education."（投资教育是值得的。）——教育类话题常见论点
-> - "The effort was worthwhile."（这些努力是值得的。）——描述付出得到回报
-> - "a worthwhile endeavor"（一项值得的努力）——学术/正式语境中常见搭配
+> - She considers teaching a worthwhile career . `[例]`
+> - The time and expense involved in keeping up to date with all the changes has been worthwhile. `[例]`
+> - If you need him on this project , you've got to make it financially worthwhile for him (= you will have to pay him a suitable amount of money for the amount of work involved ) . `[例]`
+> - It's not a worthwhile use of your time . `[例]`
 
 ---
 

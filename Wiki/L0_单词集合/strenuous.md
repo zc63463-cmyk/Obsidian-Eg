@@ -126,8 +126,9 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He made strenuous efforts to improve his reading."（他奋发努力提高阅读能力。）——考研高频表达
-> - "It was strenuous work, but it succeeded in the end."（这是繁重的工作，但最终成功了。）——考研高频表达
+> - He rarely does anything more strenuous than changing the channels on the television . `[例]`
+> - His doctor advised him not to do any strenuous exercise . `[例]`
+> - Strenuous efforts were made throughout the war to disguise the scale of civilian casualties . `[例]`
 ---
 
 

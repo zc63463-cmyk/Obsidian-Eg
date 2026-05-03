@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of portable computers has revolutionized the way people work, enabling them to be productive from virtually anywhere."（便携式电脑的发明彻底改变了人们的工作方式，使他们几乎可以在任何地方高效工作——考研阅读科技话题相关表达）
-> - "Portable medical devices have made it possible to provide healthcare services in remote and underserved areas."（便携式医疗设备使得在偏远和服务不足的地区提供医疗服务成为可能——考研阅读医疗话题相关表达）
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+> - They offer portable pensions , carried by employees from job to job . `[例]`
+> - Your phone number is portable if you decide to move to a different home or office . `[例]`
 
 
 ---

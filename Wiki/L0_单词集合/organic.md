@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有机的，有机体的**== ; ②有机的（指食品等不使用化学肥料） ; ③有机的，逐渐演进的（指事物发展）
+**adj.** ①==**有机的，有机体的**== `adj`；②==**有机的（指食品等不使用化学肥料）**== `adj`；③==**有机的，逐渐演进的（指事物发展）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：像生物器官一样有组织、有结构的
@@ -128,8 +128,9 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The relationship between the two organizations developed in an organic way."（两个组织之间的关系以自然的方式发展。）——考研高频表达
-> - "More and more consumers prefer organic food these days."（如今越来越多的消费者更青睐有机食品。）——考研高频表达
+> - A quarter of the contents of an average family's dustbin is organic matter . `[例]`
+> - Our policies are organic. They change as situations change . `[例]`
+> - His television career was an organic development from the endless sketches he used to enact with his best friend from school . `[例]`
 
 ---
 

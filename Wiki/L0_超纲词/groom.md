@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company is grooming young executives for leadership positions. `[例]`
-> - He spent an hour grooming himself before the interview. `[例]`
+> - Polly spends hours in the stables grooming her pony . `[例]`
+> - The cat still sat on its wall , grooming itself. `[例]`
 
 ## 复习记录
 

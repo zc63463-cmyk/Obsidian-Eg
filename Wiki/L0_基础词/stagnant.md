@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reforming the stagnant economy requires harsh measures that would translate into job losses in the short term but stimulate growth in the long run."（改革停滞的经济需要严厉措施，这些措施在短期内会导致失业，但从长远来看会刺激增长——考研阅读经济话题相关表达）
-> - "Small business owners often ignore early warning signs of a stagnant market or of decaying profitability until it is too late to take corrective action."（小企业主往往忽视市场停滞或盈利能力下降的早期预警信号，直到为时已晚无法采取纠正措施——考研阅读商业话题相关表达）
+> - Hot, stagnant air filled the subway . `[例]`
+> - Jobs become scarce in a stagnant economy . `[例]`
+> - Recently, the company's sales have been declining or stagnant. `[例]`
 
 
 ---

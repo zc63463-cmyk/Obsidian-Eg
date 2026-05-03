@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**群，束，串**== `a bunch of grapes/keys/flowers`；②一群，一帮 `a bunch of friends`；③大量 `a bunch of money/trouble`；
-**v.** ①集中，挤在一起 `bunch up`；
+**n.** ①==**群，束，串**==；②一群，一帮；③大量；
+**v.** ①集中，挤在一起；
 
 > [!tip] 原型义
 > **原型义**：一捆（束在一起的东西）
@@ -125,10 +125,9 @@ bunch 源自中古英语 *bunche*，可能来自古法语方言 *bonge*（一捆
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A bunch of students gathered in the square to protest against the new policy. `[真题]`
-> - They got hit with a bunch of negative shocks. `[语料库]`
-> - We ate a whole bunch of grapes at the picnic. `[语料库]`
-> - There are a bunch of people just standing somewhere; sweep them up. `[语料库]`
+> - The reorganization will give us a whole bunch of problems . `[例]`
+> - They're a bunch of jerks . `[例]`
+> - Your friends are a nice bunch. `[例]`
 
 
 ---

@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "be decorated with"（用……装饰着）——考研阅读/翻译常见被动结构
-> - "decorate a room"（装饰房间）——生活类阅读常见搭配
-> - "be decorated for..."（因……被授勋）——历史/军事类阅读语境
+> - They decorated the wedding car with ribbons and flowers . `[例]`
+> - We're going to decorate the kitchen next week . `[例]`
+> - I hate the smell of paint when I'm decorating. `[例]`
 
 ---
 

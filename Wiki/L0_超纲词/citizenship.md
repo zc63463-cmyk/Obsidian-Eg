@@ -126,8 +126,8 @@ citizen（公民）+ -ship（表示身份、资格的后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She applied for British citizenship after living in the UK for ten years. `[例]`
-> - Schools should promote good citizenship among students. `[例]`
+> - He was granted Canadian citizenship. `[例]`
+> - He holds joint citizenship in Sweden and Peru. `[例]`
 
 ## 复习记录
 

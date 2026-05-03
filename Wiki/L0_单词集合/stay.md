@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The court ruled that the execution should be stayed pending further review."（法院裁定在进一步审查期间暂缓执行死刑。）——考研高频表达
-> - "She decided to stay in academia rather than pursue a career in industry."（她决定留在学术界，而不是去工业界发展。）——考研高频表达
+> - They need an assistant who is willing to stay for six months . `[例]`
+> - Stay until the rain has stopped . `[例]`
+> - Can you stay after work to play tennis ? `[例]`
 
 ---
 

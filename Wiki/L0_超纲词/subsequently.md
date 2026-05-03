@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**随后，后来**==；②其后；
+**adv.** ①==**随后，后来**== `adv`；②==**其后**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：随后地（在某事之后发生）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company was fined for pollution and subsequently forced to close.（该公司因污染被罚款，随后被迫关闭。）
-> - She published her first novel in 2010 and subsequently won several literary awards.（她于2010年出版了第一部小说，随后获得了多项文学奖。）
+> - In 1982 he was arrested and subsequently convicted on drug trafficking charges . `[例]`
+> - He was badly injured in the crash and subsequently died . `[例]`
 
 ## 复习记录
 

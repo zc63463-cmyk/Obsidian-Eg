@@ -127,9 +127,9 @@ spread 源自古英语 *sprædan*（伸展、展开），为日耳曼语族固�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The spread of the Internet has fundamentally changed the way people access information."（互联网的传播从根本上改变了人们获取信息的方式。）——考研高频表达
-> - "The disease spread rapidly across the continent, causing widespread panic."（这种疾病迅速蔓延至整个大陆，引起了广泛的恐慌。）——考研高频表达
-> - "The spread of misinformation on social media has become a serious concern."（社交媒体上虚假信息的传播已成为一个严重的问题。）——考研高频表达
+> - It started off as cancer of the liver but it spread to other areas of the body . `[例]`
+> - Student artwork can't cover more than 20 percent of a wall because it could help spread a fire into the ceiling . `[例]`
+> - Discontent among junior ranks was rapidly spreading. `[例]`
 
 ---
 

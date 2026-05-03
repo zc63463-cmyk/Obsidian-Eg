@@ -116,8 +116,9 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "David Williams's suit should trouble this gambling nation."（大卫·威廉姆斯的诉讼应该让这个赌博之国感到不安——2006年考研新题型）
-> - "Consumers are increasingly willing to sue companies that sell defective products."（消费者越来越愿意起诉销售缺陷产品的公司——考研高频表达）
+> - He was so furious about the accusations in the letter that he threatened to sue. `[例]`
+> - She sued the paper for (= in order to get) damages after they wrongly described her as a prostitute . `[例]`
+> - She is suing her husband for (= in order to get a) divorce . `[例]`
 
 
 ---

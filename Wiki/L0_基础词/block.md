@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大块，方块**== `a block of N`；②==**街区**== `N`；③==**障碍（物）**== `a block to N`；④大楼，建筑群 `office N`；
-**v.** ①==**阻塞，阻挡**== `V N` `V N from V-ing`；②阻碍，妨碍 `V N`；
+**n.** ①==**大块，方块**==；②==**街区**==；③==**障碍（物）**==；④大楼，建筑群；
+**v.** ①==**阻塞，阻挡**==；②阻碍，妨碍；
 
 > [!tip] 原型义
 > **原型义**：大块（实心的方块物体）
@@ -130,10 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A large delivery van was almost blocking the narrow street. `[COCA-NEWS]`
-> - A court ruling blocked the plans to develop the area. `[COCA-NEWS]`
-> - Fat that is poured down the sink will block the drain. `[BNC-SPOKEN]`
-> - He accused the union leaders of trying to block the agreement. `[COCA-ACAD]`
+> - The museum is just six blocks away. `[例]`
+> - He lives just around the block. `[例]`
+> - He placed his neck on the block and the executioner released the blade . `[例]`
 
 
 ---

@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change could lead to an environmental catastrophe if left unchecked."（如果不加以控制，气候变化可能导致环境灾难。——考研阅读环保类）
-> - "The financial crisis was a catastrophe for millions of families."（金融危机对数百万家庭来说是一场灾难。——红宝书考研词汇例句）
+> - They were warned of the ecological catastrophe to come. `[例]`
+> - The emigration of scientists is a catastrophe for the country . `[例]`
+> - Losing his job was a financial catastrophe for his family . `[例]`
 
 
 ---

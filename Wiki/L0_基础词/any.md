@@ -136,8 +136,9 @@ any(任何一个，古英语 *ænig*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There isn't any evidence to suggest that the policy has been effective."（没有任何证据表明该政策是有效的。——考研英语阅读常见否定表达）
-> - "Any attempt to conceal the truth will ultimately fail."（任何试图掩盖真相的企图最终都会失败。——考研英语写作/翻译常见句式）
+> - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
+> - The sales for our May Books of the Month surpassed any month since 2018. `[真题]`
+> - Is there any of that lemon cake left ? `[例]`
 
 
 ---

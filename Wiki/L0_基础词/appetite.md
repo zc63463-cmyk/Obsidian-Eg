@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has an enormous appetite for learning."（她有极大的求知欲。）
-> - "The crisis has sharpened the public's appetite for change."（这场危机加剧了公众对变革的渴望。）
+> - All that walking has given me an appetite. `[例]`
+> - I don't have much of an appetite (= I am not hungry ) . `[例]`
+> - I won't have any chocolate , thanks . It will spoil (= reduce ) my appetite. `[例]`
 
 
 ---

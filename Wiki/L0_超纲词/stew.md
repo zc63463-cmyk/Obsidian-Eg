@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**炖菜，焖菜**==；②焦虑，担忧（口语）；③闷热的环境；
-**v.** ①炖，焖；②==**焦虑，担忧**==；③（在闷热中）出汗，难受；
+**n.** ①==**炖菜，焖菜**== `N`；②==**焦虑，担忧（口语）**== `N`；③==**闷热的环境**== `N`；
+**v.** ①==**炖，焖**== `V`；②==**焦虑，担忧**== `V`；③==**（在闷热中）出汗，难受**== `V`；
 
 > [!tip] 原型义
 > **原型义**：慢慢炖煮（用小火长时间加热食物使其变软入味）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She spent the whole evening stewing about her upcoming presentation.（她整个晚上都在为即将到来的演讲焦虑。）
-> - Don't let the problem stew — talk to someone about it.（别让这个问题一直困扰你——找人谈谈吧。）
+> - She prepared a hearty stew for dinner . `[例]`
+> - You're not still stewing about what happened yesterday , are you? `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**倾向，癖好**==（尤指不良倾向）；
+**n.** ①==**倾向，癖好**== `N`（尤指不良倾向）；
 
 > [!tip] 原型义
 > **原型义**：向前倾斜（身体或心理上的自然倾向）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The study found that individuals with a proclivity for risk-taking were more likely to become entrepreneurs."（研究发现，具有冒险倾向的人更有可能成为企业家。）
+> - His proclivity for shapely blondes. `[例]`
+> - The government’s proclivity for spending money. `[例]`
 
 ## 复习记录
 

@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "there is considerable variation in price"（价格有很大的差异）——考研阅读经济类话题
-> - "genetic variation within a population"（种群内的遗传变异）——考研阅读科学类话题
-> - "a variation of the original design"（原始设计的变体）——设计/技术类文本
+> - Unemployment rates among white-collar workers show much less regional variation than corresponding rates among blue-collar workers . `[例]`
+> - The medical tests showed some variation in the baby's heart rate . `[例]`
+> - Global temperature variations over the last 140 years. `[例]`
 
 ---
 

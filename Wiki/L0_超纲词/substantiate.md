@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**证实，证明**==；②用证据支持（说法、主张）；
+**v.** ①==**证实，证明**== `V`；②==**用证据支持（说法、主张）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：使有实质（用证据让某事变得有实质内容）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The researcher was unable to substantiate her claims with solid evidence.（这位研究人员无法用确凿证据证实她的主张。）
-> - Can you substantiate these allegations with any proof?（你能用任何证据来证实这些指控吗？）
+> - We have evidence to substantiate the allegations against him. `[例]`
+> - Reports that children had been hurt have not been substantiated. `[例]`
 
 ## 复习记录
 

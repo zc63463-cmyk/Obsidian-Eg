@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**器官**== ; ②机构，机关 ; ③管风琴，类似风琴的乐器
+**n.** ①==**器官**== `N`；②==**机构，机关**== `N`；③==**管风琴，类似风琴的乐器**== `N`；
 
 > [!tip] 原型义
 > **原型义**：执行特定功能的工具或装置
@@ -127,8 +127,9 @@ organ(工具/器械/器官，源自希腊语 organon "工具、器械")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The heart is one of the most vital organs in the human body."（心脏是人体最重要的器官之一。）——考研高频表达
-> - "The government organ is responsible for implementing the new policy."（政府机构负责实施新政策。）——考研高频表达
+> - Electronic organs are much smaller and cheaper than pipe organs. `[例]`
+> - The newspaper Pravda was the official organ of the Communist Party in the Soviet Union . `[例]`
+> - The monthly journal was once the official organ of the Communist party . `[例]`
 
 ---
 

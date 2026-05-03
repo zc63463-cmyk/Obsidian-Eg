@@ -129,8 +129,9 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many of the vessels were lost in storms during the long voyage."（许多船只在长途航行中遭遇风暴而沉没。）——考研高频表达
-> - "Blood vessels carry oxygen and nutrients throughout the body."（血管将氧气和营养物质输送到全身。）——考研高频表达
+> - A warning went out to fishing vessels in the area . `[例]`
+> - The remains of some Roman earthenware vessels were found during the dig . `[例]`
+> - As a young and spirited politician , he seems a worthy vessel for the nation's hopes . `[例]`
 
 ---
 

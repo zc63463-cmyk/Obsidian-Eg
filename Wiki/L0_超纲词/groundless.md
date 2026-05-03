@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**毫无根据的，无端的**== `groundless accusations/fears/rumors` [正式]；②==**没有理由的**== `groundless optimism/complaints` [正式]；
+**adj.** ①==**毫无根据的，无端的**== `adj`；②==**没有理由的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：没有根基的（ground 基础/根据 + -less 没有）
@@ -126,9 +126,8 @@ ground(基础/根据) + -less(没有...的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The court dismissed the case, ruling that the charges were groundless. `[例]`
-> - Her fears about the new technology proved to be groundless. `[例]`
-> - The politician dismissed the allegations as groundless and without any factual basis. `[例]`
+> - My fears turned out to be groundless. `[例]`
+> - Your concerns are groundless. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**草率的，粗略的**== `adj N` [正式]；②==**匆忙的，仓促的**== `adj N` [正式]；
+**adj.** ①==**草率的，粗略的**== `adj`；②==**匆忙的，仓促的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：跑过去的（拉丁语 *cursor* "奔跑者"，*currere* "跑"）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Even a cursory reading of the report reveals serious flaws in the methodology. `[例]`
-> - The inspector gave the building only a cursory glance before signing off on the safety certificate. `[例]`
+> - Only a cursory inspection of the building's electrical wiring was done. `[例]`
+> - Even the most cursory look at the organization's records shows problems. `[例]`
 
 ## 复习记录
 

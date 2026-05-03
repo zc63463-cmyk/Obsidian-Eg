@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The severe punishment was intended to deter others from committing similar crimes."（严厉的惩罚旨在阻止其他人犯类似的罪行。）——考研阅读真题
-> - "High taxes on tobacco are designed to deter people from smoking."（对烟草征收高额税收旨在阻止人们吸烟。）——考研高频表达
+> - These measures are designed to deter an enemy attack . `[例]`
+> - High prices are deterring many young people from buying houses . `[例]`
+> - High prices are deterring a lot of young couples from buying houses . `[例]`
 
 ---
 

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……下面，在……底下**==（强调完全覆盖或隐藏）；②==**在……表面之下**==；
-**adv.** ①在下面，在底下；②在表面之下；
-**n.** ①==**底部，下面**==；
+**prep.** ①==**在……下面，在……底下**== `prep N`（强调完全覆盖或隐藏）；②==**在……表面之下**== `prep N`；
+**adv.** ①==**在下面，在底下**== `adv`；②==**在表面之下**== `adv`；
+**n.** ①==**底部，下面**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在某物的正下方
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Underneath the calm exterior, she was seething with anger at the injustice she had witnessed."（在平静的外表之下，她对目睹的不公感到愤怒。——考研阅读心理话题高频表达）
-> - "The archaeologists discovered ancient ruins underneath the modern city."（考古学家在现代城市下面发现了古代遗迹。——考研翻译历史话题相关表达）
+> - The tunnel goes right underneath the city . `[例]`
+> - Underneath that shy exterior , she's actually a very warm person . `[例]`
+> - He was wearing a garish T-shirt underneath his shirt . `[例]`
 
 
 ---

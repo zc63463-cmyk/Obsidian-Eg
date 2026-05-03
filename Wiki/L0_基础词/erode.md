@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Years of coastal erosion have significantly reduced the width of the beach."（多年的海岸侵蚀已显著减少了海滩的宽度——考研阅读环境话题高频表达）
-> - "The scandal has eroded public trust in the government's ability to manage the economy."（丑闻削弱了公众对政府管理经济能力的信任——考研阅读政治话题常见表达）
+> - Wind and rain have eroded the statues into shapeless lumps of stone . `[例]`
+> - The cliffs are eroding several feet a year . `[例]`
+> - His behaviour over the last few months has eroded my confidence in his judgment . `[例]`
 
 
 ---

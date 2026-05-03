@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**旅行，行进**==；②==**传播，通行**==；③（光、声音）传播；
-**n.** ①旅行，旅游；②（常 pl.）旅行经历；
+**v.** ①==**旅行，行进**== `V`；②==**传播，通行**== `V`；③==**（光、声音）传播**== `V`；
+**n.** ①==**旅行，旅游**== `N`；②==**（常 pl.）旅行经历**== `N`；
 
 > [!tip] 原型义
 > **原型义**：从一个地方到另一个地方的移动
@@ -130,7 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Light travels at a speed of approximately 300,000 kilometers per second."（光以大约每秒30万公里的速度传播——考研科普阅读）
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+> - Between school and university , she spent a year travelling, mostly in Africa and Asia . `[例]`
+> - From the 10th century onwards, as merchant and travel routes became more developed, the _6 __ of the caravanserais increased and they served as a safe place for people to :rest at night. `[真题]`
 
 
 ---

@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the origin of the universe"（宇宙的起源）——考研科普类阅读高频搭配
-> - "a universe of possibilities"（无数的可能性）——议论文中描述广阔前景
-> - "the scientific universe"（科学界）——学术类文章，描述科学共同体
+> - Is there intelligent life elsewhere in the universe? `[例]`
+> - Scientists have speculated about the possibility of parallel universes. `[例]`
+> - The characters in his novels inhabit a bleak and hopeless universe. `[例]`
 
 ---
 

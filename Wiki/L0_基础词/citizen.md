@@ -126,8 +126,9 @@ cit-(=civ-，城市，来自拉丁语 *civis* 公民) + -izen(= -an，表示"…
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After five years of living here, they become eligible for citizenship and a chance to gain voting rights and full access to the social safety net."（在这里居住五年后，他们就有资格获得公民身份，有机会获得投票权并全面享受社会保障网。——2013年考研英语二真题）
-> - "Citizen" appeared in the 2019 English II Text 4, discussing sustainable consumption and citizen responsibility.（"citizen"出现在2019年英语二Text 4中，讨论可持续消费和公民责任。——考研真题）
+> - The interests of British citizens living abroad are protected by the British Embassy. `[例]`
+> - He applied to become an American citizen. `[例]`
+> - This will affect all citizens of this country . `[例]`
 
 
 ---

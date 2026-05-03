@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two countries signed a peace treaty after years of armed conflict."（两国在经过多年的武装冲突后签署了和平条约。）——考研高频表达
-> - "The international treaty on climate change requires all signatory nations to reduce their carbon emissions."（关于气候变化的国际条约要求所有签署国减少碳排放。）——考研高频表达
+> - Under the treaty (= according to the agreement ) , inspections are required to see if any country is secretly developing nuclear arms . `[例]`
+> - The latest nation to ratify the treaty is France. `[例]`
+> - The US wants a new air treaty with the UK to lift barriers on the cities that each nations ' carriers can serve . `[例]`
 
 
 ---

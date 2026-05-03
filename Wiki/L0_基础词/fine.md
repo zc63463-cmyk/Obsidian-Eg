@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a fine line between confidence and arrogance."（自信与傲慢之间只有一线之隔）
-> - "The company was fined for violating environmental regulations."（该公司因违反环境法规被罚款）
+> - I felt terrible last night but I feel fine this morning . `[例]`
+> - The apartments are very small , which is fine for one person . `[例]`
+> - Are you all right ?" "Everything's just fine, thanks . `[例]`
 
 
 ---

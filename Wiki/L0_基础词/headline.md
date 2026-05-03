@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The news of his death was splashed in headlines across all the newspapers."（他去世的消息以大标题刊登在所有报纸上——考研新闻类阅读语料）
-> - "She has grabbed the headlines by making public accusations of corruption within the government."（她因公开指控政府内部腐败而成为头条新闻——考研社会类阅读语料）
+> - The news of his death was splashed in headlines across all the newspapers . `[例]`
+> - She has grabbed the headlines by making public accusations of corruption within the government. `[例]`
+> - This was the front-page headline of the Sun newspaper after the election . `[例]`
 
 
 ---

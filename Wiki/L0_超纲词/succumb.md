@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**屈服，屈从**==；②==**死于**==（疾病）；③抵挡不住（诱惑/压力）；
+**v.** ①==**屈服，屈从**== `V to N`；②==**死于**== `V to N`（疾病）；③==**抵挡不住（诱惑/压力）**== `V to N`；
 
 > [!tip] 原型义
 > **原型义**：在下面倒下（被压力压倒在下面）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - After weeks of negotiations, the company finally succumbed to the workers' demands.（经过数周的谈判，公司最终屈服于工人们的要求。）
-> - He succumbed to lung cancer at the age of 65.（他65岁时死于肺癌。）
+> - The town finally succumbed last week after being pounded with heavy artillery for more than two months . `[例]`
+> - I'm afraid I succumbed to temptation and had a piece of cheesecake . `[例]`
 
 ## 复习记录
 

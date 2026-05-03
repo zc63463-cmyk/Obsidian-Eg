@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**全神贯注，入迷**==；②==**使人全神贯注的事物，心事**==；③==**先占，抢先占据**==（法律/政治用语）；
+**n.** ①==**全神贯注，入迷**== `N`；②==**使人全神贯注的事物，心事**== `N`；③==**先占，抢先占据**== `N`（法律/政治用语）；
 
 > [!tip] 原型义
 > **原型义**：占据心思（心思被某事预先占据）
@@ -129,7 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "His preoccupation with money left little room for family and friends."（他对金钱的过度关注几乎没有给家人和朋友留下空间。）
+> - My main preoccupation now is trying to keep life normal for the sake of my two boys . `[例]`
+> - Lately, his preoccupation with football had caused his marks at school to slip . `[例]`
 
 ## 复习记录
 

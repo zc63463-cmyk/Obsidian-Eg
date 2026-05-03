@@ -126,8 +126,8 @@ clear（清晰的）+ cut（切，砍）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - There is no clear-cut answer to this complex problem. `[例]`
-> - Clear-cutting of old-growth forests has caused widespread environmental concern. `[例]`
+> - She has clear-cut evidence that the company cheated her. `[例]`
+> - It was a clear-cut case of fraud . `[例]`
 
 ## 复习记录
 

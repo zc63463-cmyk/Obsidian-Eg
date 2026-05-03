@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**模板，样板**==；②（计算机）模板文件；③（分子生物学）模板链；
+**n.** ①==**模板，样板**== `N`；②==**（计算机）模板文件**== `N`；③==**（分子生物学）模板链**== `N`；
 
 > [!tip] 原型义
 > **原型义**：模板，样板（用于复制或制作相同物品的标准模型）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "You can download a free resume template from the website."（你可以从网站上下载免费的简历模板）
-> - "The new school served as a template for educational reform across the country."（这所新学校成为全国教育改革的样板）
+> - We used the structure of his report as the template for ours. `[例]`
+> - The use of templates is crucial to stone carving . `[例]`
 
 ## 复习记录
 

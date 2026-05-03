@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Explorers have reached the South Pole after weeks of difficult travel."（探险者经过数周的艰难跋涉到达了南极）
-> - "The earth's magnetic poles are not fixed but gradually shift over time."（地球的磁极不是固定的，而是随时间逐渐移动的）
+> - A flag fluttered from a 40-foot pole. `[例]`
+> - On uphill stretches , adjustable walking poles can transfer some of your weight to the upper body . `[例]`
+> - A hiking pole helps you to keep your balance on uneven terrain . `[例]`
 
 
 ---

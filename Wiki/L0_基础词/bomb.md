@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**炸弹**== `N`；②核弹 `N`；③彻底失败的事物 `N` [口语]；
-**v.** ①==**轰炸，投弹**== `V N`；②大败，惨败 `V` [口语]；③飞速发展，急速移动 `V` [口语]；
+**n.** ①==**炸弹**==；②核弹；③彻底失败的事物；
+**v.** ①==**轰炸，投弹**==；②大败，惨败；③飞速发展，急速移动；
 
 > [!tip] 原型义
 > **原型义**：炸弹（爆炸性武器）
@@ -131,10 +131,9 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The threat of terrorist bombing has become a major concern for governments worldwide." `[真题]`
-> - "The country was heavily bombed during the war, causing widespread destruction." `[COCA-ACAD]`
-> - "A pipe bomb exploded in Centennial Olympic Park, killing one person and injuring more than a hundred others." `[COCA-NEWS]`
-> - "The movie completely bombed at the box office despite its massive marketing budget." `[COCA-NEWS]`
+> - During the war , the enemy dropped a huge number of bombs on the city . `[例]`
+> - A 100-pound bomb exploded in a market today, injuring three people . `[例]`
+> - The terrorists had planted a bomb near the police station . `[例]`
 
 
 ---

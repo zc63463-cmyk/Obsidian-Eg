@@ -131,9 +131,9 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + gage(=抵押/担保，中�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young people cannot afford to take out a mortgage due to soaring housing prices."（由于房价飙升，许多年轻人无法承担抵押贷款——考研高频话题）
-> - "The 2008 financial crisis was triggered by the collapse of the subprime mortgage market."（2008年金融危机由次级抵押贷款市场的崩溃引发）
-> - "She has been paying off her mortgage for twenty years."（她已经还了二十年的按揭贷款）
+> - They took out a £400,000 mortgage (= they borrowed £400,000) to buy the house . `[例]`
+> - Their home was mortgaged up to the hilt (= the full value of their home had been borrowed ) . `[例]`
+> - They had to mortgage their home to borrow enough money to pay for their children’s education . `[例]`
 
 
 ---

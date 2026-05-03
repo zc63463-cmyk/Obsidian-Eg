@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The organization wields considerable political clout in Washington. `[例]`
-> - China's growing economic clout has reshaped global trade patterns. `[例]`
+> - Literary agencies are getting bigger to have the clout to negotiate better terms with publishers, publishers consolidating to deal with Amazon, " . says Lownie. `[真题]`
+> - Quigley clouted me smartly across the side of the head . `[例]`
 
 ## 复习记录
 

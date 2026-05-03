@@ -135,9 +135,9 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She had an unhappy childhood."（她有一个不快乐的童年。——Cambridge English Dictionary）
-> - "Childhood is not always a happy time."（童年并不总是一段快乐的时光。——Cambridge English Dictionary）
-> - "She spent most of her childhood on a farm in Texas."（她在德克萨斯州的一个农场度过了她的大部分童年。——Cambridge English Dictionary）
+> - She had an unhappy childhood. `[例]`
+> - Childhood is not always a happy time . `[例]`
+> - She spent most of her childhood on a farm in Texas. `[例]`
 
 
 ---

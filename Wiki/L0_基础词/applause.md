@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her speech was met with thunderous applause."（她的演讲赢得了雷鸣般的掌声。）
-> - "The proposal drew applause from all sides."（这项提议赢得了各方的赞赏。）
+> - His speech met with (= received ) loud applause. `[例]`
+> - So let's have a round of applause, please , for (= please applaud ) a very talented young lady who is going to sing for us. `[例]`
+> - So let's hear some applause for these talented young performers . `[例]`
 
 
 ---

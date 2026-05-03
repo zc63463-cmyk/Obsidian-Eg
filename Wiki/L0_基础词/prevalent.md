@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The belief that hard work leads to success is still prevalent in many cultures."（努力工作就能成功的信念在许多文化中仍然普遍。）
-> - "Mental health problems are increasingly prevalent among young adults."（心理健康问题在年轻人中越来越普遍。）
+> - These diseases are more prevalent among young children . `[例]`
+> - Trees are dying in areas where acid rain is most prevalent. `[例]`
+> - Drought conditions have been prevalent across the area for several years . `[例]`
 
 
 ---

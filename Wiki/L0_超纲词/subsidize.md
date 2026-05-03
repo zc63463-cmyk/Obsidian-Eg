@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**资助，补贴**==；②给……发津贴；
+**v.** ①==**资助，补贴**== `V N`；②==**给……发津贴**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：在下面坐着支援（从底层提供资金支持）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government subsidizes renewable energy to encourage its adoption.（政府补贴可再生能源以鼓励其采用。）
-> - Many countries subsidize public transportation to keep fares affordable.（许多国家补贴公共交通以保持票价可负担。）
+> - The refugees live in subsidized housing provided by the authorities . `[例]`
+> - All private universities are subsidized by the government . `[例]`
 
 ## 复习记录
 

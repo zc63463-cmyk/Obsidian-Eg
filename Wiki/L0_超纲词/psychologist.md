@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**心理学家**==；②心理辅导者；
+**n.** ①==**心理学家**== `N`；②==**心理辅导者**== `N`；
 
 > [!tip] 原型义
 > **原型义**：研究心灵的人（以心理学为专业的人）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many people are reluctant to see a psychologist, fearing that it implies weakness.（许多人不愿看心理医生，担心这意味着软弱。）
-> - Educational psychologists study how people learn and develop throughout their lives.（教育心理学家研究人们一生中如何学习和发展的。）
+> - She spent 15 years as a clinical psychologist. `[例]`
+> - Research psychologists normalize the results of their studies by comparing their subjects ' behaviour with that of the general public . `[例]`
 
 ## 复习记录
 

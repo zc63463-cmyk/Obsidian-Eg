@@ -121,8 +121,9 @@ idiom 源自希腊语 *idiōma* "特殊性、独特的短语"，来自 *idioumai
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The English language is rich in idioms that cannot be understood literally."（英语中有大量不能从字面理解的习语——考研翻译/阅读常见话题，idiom 为核心词）
-> - "To speak a language idiomatically, one must understand its cultural context."（要地道地说一种语言，必须理解其文化背景——idiomatically 为写作可用副词）
+> - To " bite off more than you can chew " is an idiom that means you have tried to do something which is too difficult for you. `[例]`
+> - There are many possible ways to translate the German idiom "alles klar". `[例]`
+> - They speak Sicilian, or Siculu, as it is in the local idiom. `[例]`
 
 
 ---

@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a tentative conclusion"（暂定结论）——考研阅读/学术写作高频搭配，表示结论有待验证
-> - "tentative steps towards reform"（改革的试探性步伐）——政治/社会类阅读
-> - "a tentative agreement"（暂定协议）——商业/外交类阅读
+> - I have tentative plans to take a trip to Seattle in July . `[例]`
+> - We have tentative plans to go to Hawaii in February . `[例]`
+> - The car company and the union reached a tentative agreement . `[例]`
 
 ---
 

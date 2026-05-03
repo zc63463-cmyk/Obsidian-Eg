@@ -124,8 +124,9 @@ crit(判断) + -ic(与...有关的) + -ism(主义，行为)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to the point of impossibility for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers."（对于四十岁以下的普通读者来说，很难想象在大多数大城市的报纸上能找到高质量艺术评论的时代。）——2010考研英语一阅读
-> - "The policy has drawn widespread criticism from both the public and experts."（这项政策引发了公众和专家的广泛批评。）——考研高频表达
+> - Lesser-known PRH writers become the target of criticism. `[真题]`
+> - There has been a lot of criticism of the decision . `[例]`
+> - He resigned amid criticism about his handling of the affair . `[例]`
 
 ---
 

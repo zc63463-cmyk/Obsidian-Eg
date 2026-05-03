@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**无法忍受地，难以承受地**==；②极其，非常（强调程度）；
+**adv.** ①==**无法忍受地，难以承受地**== `adv`；②==**极其，非常（强调程度）**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：无法忍受地（超出承受能力）
@@ -128,8 +128,8 @@ un-(不，否定前缀) + [[bear|bear]](承受/忍受) + -able(可被...的) + -
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The wait was unbearably long."（等待的时间长得令人难以忍受。）
-> - "She found the silence unbearably awkward."（她觉得这种沉默令人难以忍受地尴尬。）
+> - The sun was almost unbearably hot today. `[例]`
+> - The novel , while almost unbearably sad , is still a joy to read . `[例]`
 
 ## 复习记录
 

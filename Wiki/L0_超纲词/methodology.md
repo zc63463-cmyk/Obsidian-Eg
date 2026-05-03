@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**方法论，方法学**== `N of N` [学术]；②==**（某一学科的）一套方法**== `V N` [学术]；`adj N` [学术]；
+**n.** ①==**方法论，方法学**== `N`；②==**（某一学科的）一套方法**== `N`；
 
 > [!tip] 原型义
 > **原型义**：研究方法的体系或理论
@@ -125,8 +125,8 @@ method(方法，希腊语 *methodos* 追求→途径) + -ology(学问/理论)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The researchers employed a mixed-methods methodology combining quantitative surveys with qualitative interviews.
-> - `[例]` A sound research methodology is essential for producing reliable and valid results.
+> - The methodology and findings of the research team have been criticized . `[例]`
+> - Recent changes in the methodology of language teaching. `[例]`
 
 ## 复习记录
 

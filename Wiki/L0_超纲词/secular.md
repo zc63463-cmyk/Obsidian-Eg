@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**世俗的，非宗教的**==；②==**长期的，世纪的**==（尤指数十年或百年级别的变化）；
+**adj.** ①==**世俗的，非宗教的**== `adj`；②==**长期的，世纪的**== `adj`（尤指数十年或百年级别的变化）；
 
 > [!tip] 原型义
 > **原型义**：属于现世的（属于这个时代的，而非永恒/神圣的）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The rise of secularism has transformed the relationship between church and state."（世俗主义的兴起改变了政教关系。）
-> - "Economists are concerned about the secular decline in productivity growth."（经济学家们对生产率增长的长期下降感到担忧。）
+> - We live in an increasingly secular society , in which religion has less and less influence on our daily lives . `[例]`
+> - Bloomberg, by contrast, would be the most pro-immigration, pro-free trade, pro-Wall Street candidate in the race. The third-party candidate he would most resemble is John Anderson, the fiscally responsible, culturally liberal Republican who ran as an Independent in 1980. Anderson won 7% of the vote, mostly among the young, educated and secular . But today those people are partisan Democrats. `[例]`
 
 ## 复习记录
 

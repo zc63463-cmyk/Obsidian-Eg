@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**获得，得到**==；
-**vi.** ①==**通行，通用**==（罕用）；
+**vt.** ①==**获得，得到**== `V N`；
+**vi.** ①==**通行，通用**== `V`（罕用）；
 
 > [!tip] 原型义
 > **原型义**：使持有（努力使某物归于自己持有）
@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to obtain accurate data on this issue."（考研英语——很难获取关于这个问题的准确数据）
-> - "The company obtained a patent for its new technology."（CET-6——公司为其新技术获得了专利）
-> - "Applicants must obtain a visa before entering the country."（IELTS——申请人必须在入境前获得签证）
+> - First editions of these books are now almost impossible to obtain. `[例]`
+> - In the second experiment they obtained a very clear result . `[例]`
+> - Sugar is obtained by crushing and processing sugar cane . `[例]`
 
 ---
 

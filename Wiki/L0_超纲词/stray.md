@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**走失，偏离**==；②==**偏离主题**==，分心；
-**adj.** ①走失的，流浪的；②零散的，孤立的；
-**n.** ①走失的动物（尤指猫狗）；
+**v.** ①==**走失，偏离**== `V`；②==**偏离主题**== `V`，分心；
+**adj.** ①==**走失的，流浪的**== `adj`；②==**零散的，孤立的**== `adj`；
+**n.** ①==**走失的动物（尤指猫狗）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：偏离路线走（从正确的道路上走偏出去）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The conversation strayed from the original topic.（对话偏离了最初的主题。）
-> - A stray dog followed us all the way home.（一只流浪狗一路跟着我们回了家。）
+> - A herd of cattle had strayed into the road . `[例]`
+> - They got lost when they strayed too far from the path . `[例]`
 
 ## 复习记录
 

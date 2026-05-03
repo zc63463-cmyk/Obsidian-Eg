@@ -114,7 +114,9 @@ so(如此) + call(称为) + -ed(过去分词，表示被动) → 被如此称为
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The so-called 'digital divide' is actually widening."（所谓的"数字鸿沟"实际上正在扩大——考研阅读常见表达）
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+> - It was her so-called friends that spread the rumours about her. `[例]`
+> - It isn't yet clear how dangerous these so-called "super-rats" are. `[例]`
 
 
 ---

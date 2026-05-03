@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The judge issued a stern warning to the defendant."（法官对被告发出了严厉的警告。）——考研高频表达
-> - "She gave her son a stern look when he misbehaved in public."（当儿子在公共场合行为不端时，她给了他一个严厉的眼神。）——考研高频表达
+> - Journalists received a stern warning not to go anywhere near the battleship . `[例]`
+> - The Red Ensign, the flag of the British Merchant Navy, is rarely seen these days except on the sterns of a few cruise liners and cross-Channel ferries . `[例]`
+> - A rope over the stern towed the little boat . `[例]`
 
 ---
 

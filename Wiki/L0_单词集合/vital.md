@@ -134,8 +134,9 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Tourism is vital for the economy."（旅游业对于经济至关重要。）——考研高频表达
-> - "Trust is a vital component in any relationship."（在任何关系中，信任都是一个至关重要的因素。）——考研高频表达
+> - A strong opposition is vital to a healthy democracy . `[例]`
+> - She had found out some information of vital importance . `[例]`
+> - It's absolutely vital that you do exactly as I say. `[例]`
 ---
 
 

@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to ensure a smooth transition between the old system and the new one."（我们需要确保新旧制度间的平稳过渡。——常见学术/管理类语料）
-> - "Baker was smoothing out differences with European allies."（贝克正在消除与欧洲盟友之间的分歧。——常见政治类语料）
+> - This custard is deliciously smooth and creamy . `[例]`
+> - The road ahead was flat and smooth. `[例]`
+> - This moisturizer will help to keep your skin smooth. `[例]`
 
 
 ---

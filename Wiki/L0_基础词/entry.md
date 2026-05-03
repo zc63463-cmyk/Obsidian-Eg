@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new edition of the encyclopedia contains over 50,000 entries, covering topics ranging from ancient history to modern technology."（新版百科全书包含超过五万条词条，涵盖从古代历史到现代技术的各个主题——考研翻译学术话题相关表达）
-> - "China's entry into the World Trade Organization in 2001 marked a significant turning point in its economic development and global trade relations."（中国2001年加入世界贸易组织，标志着其经济发展和全球贸易关系的重要转折点——考研阅读经济话题相关表达）
+> - A flock of sheep blocked our entry to the farm . `[例]`
+> - I can't go down that street - there's a "No entry" sign . `[例]`
+> - The actress's entry into the world of politics surprised most people . `[例]`
 
 
 ---

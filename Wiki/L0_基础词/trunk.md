@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**树干**==；②躯干（人体的主干）；③大衣箱；④象鼻；⑤汽车后备箱；
-**v.** ①把……放入箱中；
+**n.** ①==**树干**== `N`；②==**躯干（人体的主干）**== `N`；③==**大衣箱**== `N`；④==**象鼻**== `N`；⑤==**汽车后备箱**== `N`；
+**v.** ①==**把……放入箱中**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：截断的树干（去掉枝叶后的主干）
@@ -129,7 +129,9 @@ trunk 源自拉丁语 *truncus*（树干、躯干），可能来自 PIE *\*terə
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tree trunk was so thick that it took three people to encircle it.（这棵树的树干非常粗，需要三个人才能合抱。）
+> - The statue shows the head , trunk, and arms of an old man. `[例]`
+> - I always keep a blanket and a toolkit in the trunk for emergencies . `[例]`
+> - Stolen goods were found in the trunk of her car . `[例]`
 
 
 ---

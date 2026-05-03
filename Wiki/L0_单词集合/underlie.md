@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The principles that underlie our foreign policy are complex."（构成我们外交政策基础的原则很复杂。）——考研阅读/翻译
-> - "Several factors underlie the current economic crisis."（几个因素是当前经济危机的根本原因。）——考研阅读
-> - "We need to understand the assumptions underlying this theory."（我们需要理解这一理论背后的假设。）——学术类阅读
+> - Psychological problems very often underlie apparently physical disorders . `[例]`
+> - More fundamental economic problems may underlie last week’s stock market slide . `[例]`
+> - These ideas underlie much of his work. `[例]`
 
 ---
 

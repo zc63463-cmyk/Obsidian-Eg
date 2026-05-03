@@ -131,8 +131,9 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Conrail's net railway operating income in 1996 was just $427 million, less than half of the carrying costs of the transaction."（联合铁路公司1996年铁路运营净收入仅为4.27亿美元，不到该交易运输成本的一半。）——2003年阅读3
-> - "The transaction was completed after months of negotiation."（经过数月的谈判，交易终于完成了。）——考研高频表达
+> - Each transaction at the foreign exchange counter seems to take forever . `[例]`
+> - We need to monitor the transaction of smaller deals . `[例]`
+> - Users can now make financial transactions in euros . `[例]`
 ---
 
 

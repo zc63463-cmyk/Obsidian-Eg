@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**缓冲器，缓冲物**== `shock buffer` `buffer zone`；②==**缓冲区（计算机）**== `data buffer` `memory buffer` [技术]；③==**缓冲人/物**== `act as a buffer`；
-**v.** ①==**缓冲，减轻**== `buffer against N` `buffer the impact`；②==**保护...免受冲击**== `buffer sb from sth`；
+**n.** ①==**缓冲器，缓冲物**==；②缓冲区（计算机）；③缓冲人/物；
+**v.** ①==**缓冲，减轻**==；②保护...免受冲击；
 
 > [!tip] 原型义
 > **原型义**：缓冲物（放在两物之间减轻碰撞的东西）
@@ -126,10 +126,9 @@ buffer（源自动词 *buff*（撞击、弹起），或来自古法语 *buffe*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Peacekeepers have been sent in to establish a buffer zone between the rival forces. `[COCA-NEWS]`
-> - A family can provide a buffer against stress at work. `[COCA-ACAD]`
-> - She often had to act as a buffer between father and son. `[COCA-FIC]`
-> - The wall buffers the noise of the traffic. `[COCA-NEWS]`
+> - If an event starts at 5 p.m., I'll usually be there by 4:45, having allowed a buffer for unforeseen delays . `[例]`
+> - The broker acts as a buffer between the buyer and seller . `[例]`
+> - Banks hold capital as a buffer to protect depositors against losing their savings . `[例]`
 
 
 ---

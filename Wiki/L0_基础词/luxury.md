@@ -127,8 +127,9 @@ lux(光，拉丁语 *lux*, *lucis*) + -ury(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In many developing countries, clean water is still a luxury."（在许多发展中国家，清洁水仍然是一种奢侈品）
-> - "The luxury goods market has been growing rapidly in Asia."（亚洲奢侈品市场一直在快速增长）
+> - As daughter of a billionaire , she grew up surrounded by unimaginable luxury. `[例]`
+> - A day off work is such a luxury. `[例]`
+> - Luxury cruises are gaining in popularity . `[例]`
 
 
 ---

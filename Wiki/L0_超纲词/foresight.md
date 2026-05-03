@@ -126,8 +126,8 @@ fore-(在前，提前) + sight(视力，视野)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She had the foresight to invest in renewable energy long before it became trendy. `[例]`
-> - The failure of the project was attributed to a lack of foresight in the planning stage. `[例]`
+> - She'd had the foresight to sell her apartment just before the housing market collapsed . `[例]`
+> - She had the foresight to sell her house just before prices came down. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**碳酸钾，钾碱**==；
+**n.** ①==**碳酸钾，钾碱**== `N`；
 
 > [!tip] 原型义
 > **原型义**：锅灰（pot + ash，从锅中提取的碱性灰烬）
@@ -118,7 +118,8 @@ pot（锅）+ ash（灰烬）= 锅灰→碳酸钾
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Potash is a key ingredient in fertilizer, essential for crop growth."（碳酸钾是肥料的关键成分，对农作物生长至关重要。）
+> - Other fertilizers, like potash and sulfur, have also risen in price. `[例]`
+> - Paying for fertilizer has been especially difficult due to tariffs on Canadian potash . `[例]`
 
 ## 复习记录
 

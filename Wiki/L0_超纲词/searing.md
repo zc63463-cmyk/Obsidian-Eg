@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**灼热的，烤焦般的**==；②==**尖锐的，刻骨铭心的**==（指痛苦或批评）；
-**n.** ①==**灼烧，烤焦**==；
+**adj.** ①==**灼热的，烤焦般的**== `adj`；②==**尖锐的，刻骨铭心的**== `adj`（指痛苦或批评）；
+**n.** ①==**灼烧，烤焦**== `N`；
 
 > [!tip] 原型义
 > **原型义**：灼烧般的（像被火烧过一样的感觉）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The searing heat of the desert made travel almost impossible during midday."（沙漠灼热的高温使得正午时分几乎无法旅行。）
-> - "Her memoir is a searing account of childhood abuse."（她的回忆录是对童年受虐经历的刻骨铭心的叙述。）
+> - A searing pain shot up her arm . `[例]`
+> - The race took place in the searing heat . `[例]`
 
 ## 复习记录
 

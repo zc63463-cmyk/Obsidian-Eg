@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**木偶，傀儡**== `N puppet`；②==**受人操纵的人（或组织）**== `a puppet of N`；
+**n.** ①==**木偶，傀儡**== `N`；②==**受人操纵的人（或组织）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：木偶（被线操控的小人偶——表演者通过线来控制木偶的动作）
@@ -122,9 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The puppet regime never commanded any real authority, and did not gain the allegiance of the people. ` `[COCA-ACAD]` `
-> - When Stalin took over, he installed a puppet government. ` `[COCA-ACAD]` `
-> - He accused the prime minister of being a puppet of big business. ` `[COCA-NEWS]` `
+> - The mayor is a puppet who does what business leaders tell him to. `[例]`
+> - The occupying forces set up a puppet government . `[例]`
+> - The king was a mere puppet of the mayor. `[例]`
 
 
 ---

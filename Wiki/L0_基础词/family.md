@@ -136,8 +136,9 @@ family 源自拉丁语 *familia*（家庭的全体成员、户），是 *famulus
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In a society that values family ties, the elderly are often cared for at home by their relatives."（在一个重视家庭纽带的社会中，老年人通常由亲属在家中照顾。——考研英语阅读社会类话题）
-> - "The concept of the nuclear family has undergone significant changes in recent decades."（核心家庭的概念在近几十年发生了重大变化。——考研英语阅读文化类话题）
+> - I come from a large family - I have three brothers and two sisters . `[例]`
+> - He doesn't have any family. `[例]`
+> - This movie is good family entertainment (= something that can be enjoyed by parents and children together) . `[例]`
 
 
 ---

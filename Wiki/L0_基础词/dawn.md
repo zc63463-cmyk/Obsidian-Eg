@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Still, it is true that American families are growing closer at the dawn of this new millennium."（尽管如此，在这个新千年伊始，美国家庭确实变得更加亲密——考研英语阅读）
-> - "The fall of the Berlin Wall marked the dawn of a new era in European history."（柏林墙的倒塌标志着欧洲历史上一个新纪元的开始——Cambridge English Corpus）
+> - We left as dawn was breaking (= starting ) . `[例]`
+> - The fall of the Berlin Wall marked the dawn of a new era in European history . `[例]`
+> - We worked from dawn to dusk , seven days a week . `[例]`
 
 
 ---

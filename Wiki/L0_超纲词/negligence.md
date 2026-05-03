@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**疏忽，粗心大意**== `due to negligence` `N` [贬义/正式]；②==**（法律）过失**== `medical negligence` `N` [法律/正式]；
+**n.** ①==**疏忽，粗心大意**== `N`；②==**（法律）过失**== `N`；
 
 > [!tip] 原型义
 > **原型义**：疏忽（没有给予足够的注意）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` The hospital was sued for medical negligence. [C]
-> - `` `[例]` `` The accident was caused by driver negligence. [C]
+> - She is claiming damages for alleged negligence in the handling of a commercial transaction . `[例]`
+> - The company was sued for gross negligence after the death of the two employees . `[例]`
 
 ## 复习记录
 

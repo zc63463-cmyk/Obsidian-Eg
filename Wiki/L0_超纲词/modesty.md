@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谦虚，谦逊**== `N` `with N` [通用]；②==**端庄，朴实**== `N in N` [通用]；
+**n.** ①==**谦虚，谦逊**== `N`；②==**端庄，朴实**== `N`；
 
 > [!tip] 原型义
 > **原型义**：不夸耀自己的品质或成就
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Despite her extraordinary achievements, she always spoke with characteristic modesty. [C]
-> - `[例]` He accepted the award with modesty, thanking everyone who had supported him along the way. [C]
+> - She does a lot of work for charities , but her modesty forbids her from talking about it. `[例]`
+> - In all modesty, we'd probably have lost the game if I hadn't been playing . `[例]`
 
 ## 复习记录
 

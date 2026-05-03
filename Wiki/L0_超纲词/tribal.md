@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**部落的，宗族的**==；②（贬义）小圈子的，排外的；
+**adj.** ①==**部落的，宗族的**== `adj`；②==**（贬义）小圈子的，排外的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：部落的，宗族的（与部落有关的）
@@ -127,8 +127,8 @@ tribe（部落）+ -al（形容词后缀，…的）。tribe 源自拉丁语 *tr
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Tribal customs have been preserved for centuries in this remote region."（在这个偏远地区，部落习俗已经保存了几个世纪）
-> - "The rise of tribal politics threatens to divide the nation."（部落式政治的兴起威胁着分裂国家）
+> - The fierce tribal loyalty among football fans sometimes leads to violence . `[例]`
+> - Around the fire , tribal elders chanted incantations . `[例]`
 
 ## 复习记录
 

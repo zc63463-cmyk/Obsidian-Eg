@@ -125,8 +125,9 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Human progress is not always linear; there are setbacks and breakthroughs."（人类进步并不总是线性的；有挫折也有突破）
-> - "The relationship between the two variables is linear."（这两个变量之间的关系是线性的）
+> - Linear features , such as walls and roads , are easy to see from the air because they cut across natural features . `[例]`
+> - Linear measurements may be given either in imperial or metric units , but area is normally quoted in square metres . `[例]`
+> - Usually, stories are told in a linear way, from start to finish . `[例]`
 
 
 ---

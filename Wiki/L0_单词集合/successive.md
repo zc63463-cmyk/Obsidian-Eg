@@ -123,8 +123,9 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Successive governments have presided over selling green spaces, squeezing money from local authorities."（历届政府都主导出售绿地、压缩地方政府的资金——考研高频表达）
-> - "Successive post-war governments have presided over the gradual dissolution of the British Empire."（战后历届政府都主导了大英帝国的逐步瓦解——考研高频表达）
+> - It was the team's fourth successive defeat . `[例]`
+> - It was the team’s third successive defeat . `[例]`
+> - This was their fourth successive win. `[例]`
 
 
 ---

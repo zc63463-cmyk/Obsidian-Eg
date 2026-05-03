@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Researchers lately have begun to extend that forecast by decades if not centuries."（最近研究人员开始将这个预测延后数十年，如果不是数百年的话——2002年考研英语完形填空）
-> - "Local authorities have a special interest in immigrant groups, and lately many of them have been keeping appropriate records."（地方政府对移民群体有特殊的关注，最近其中许多机构一直在保持适当的记录——通用语料）
+> - I haven't been feeling so well lately. `[例]`
+> - Have you been doing anything interesting lately? `[例]`
+> - My wife hasn’t been feeling well lately. `[例]`
 
 
 ---

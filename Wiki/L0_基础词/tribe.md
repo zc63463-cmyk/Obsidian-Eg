@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**部落，宗族**==；②一大群，一类（人）；③大族（动植物的分类）；
+**n.** ①==**部落，宗族**== `N`；②==**一大群，一类（人）**== `N`；③==**大族（动植物的分类）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：部落，宗族（具有共同血缘和文化的社会群体）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The indigenous tribes of the Amazon rainforest face threats from deforestation."（亚马逊雨林的土著部落面临森林砍伐的威胁。）
-> - "In the digital age, we all belong to multiple tribes defined by our interests."（在数字时代，我们都属于由兴趣定义的多个部落。）
+> - A tribe of Amazonian Indians. `[例]`
+> - We invited Carol's sisters and brothers and their families - the whole Cassidy tribe. `[例]`
+> - She has studied Native American tribes from Mexico to Maine. `[例]`
 
 
 ---

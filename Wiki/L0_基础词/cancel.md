@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**取消，撤销**== `V N` [日常]；②==**废除，删去**== `V N` [正式]；③==**抵消，中和**== `V N` [科学]；
+**vt.** ①==**取消，撤销**==；②废除，删去；③抵消，中和；
 **vi.** ①取消；②相互抵消；
 **n.** ①取消，撤销；
 
@@ -134,9 +134,9 @@ cancel 源自拉丁语 *cancellare*（画格子、划掉），来自 *cancelli*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They had to cancel tomorrow's game because of the bad weather. `[真题]`
-> - All flights have been cancelled because of bad weather. `[COCA-NEWS]`
-> - She canceled her appointment with the dentist. `[COCA-FIC]`
+> - They had to cancel tomorrow's game because of the bad weather . `[例]`
+> - The 7.10 train to Budapest has been cancelled. `[例]`
+> - The network cancelled her talk show following the scandal . `[例]`
 
 
 ---

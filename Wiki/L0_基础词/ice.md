@@ -132,8 +132,9 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of the Titanic wreck lay buried beneath layers of ice on the ocean floor."（泰坦尼克号残骸的发现被掩埋在海底的冰层之下——ice 为基础词汇，在阅读中常见）
-> - "Small talk at parties is often used to break the ice between strangers."（派对上的闲聊常被用来打破陌生人之间的僵局——break the ice 为高频习语）
+> - The pond was covered in ice all winter . `[例]`
+> - Would you like ice in your juice ? `[例]`
+> - He slipped on a patch of ice. `[例]`
 
 
 ---

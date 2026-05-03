@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers nailed down the cause of the disease after years of painstaking investigation."（研究人员经过多年艰苦的调查，终于确定了这种疾病的病因——考研阅读科研话题相关表达）
-> - "The latest economic data put another nail in the coffin of the government's claim that the recession was over."（最新的经济数据给政府关于衰退已经结束的说法又钉上了一颗棺材钉——考研翻译经济话题相关表达）
+> - I stepped on a nail sticking out of the floorboards . `[例]`
+> - Stop biting your nails! `[例]`
+> - She had nailed a small shelf to the door . `[例]`
 
 
 ---

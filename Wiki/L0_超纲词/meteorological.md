@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**气象的，气象学的**== `adj N` [学术]；`N of N` [学术]；
+**adj.** ①==**气象的，气象学的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与大气和天气现象有关的
@@ -123,8 +123,8 @@ meteor(大气现象/流星，希腊语 *meteōron* 高空中的东西) + -ologic
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Meteorological data indicates that global temperatures are rising at an unprecedented rate.
-> - `[例]` The national meteorological office issued a severe weather warning for the coastal region.
+> - Accurate meteorological records began 100 years ago. `[例]`
+> - They used meteorological images in trying to predict weather patterns based on previous similar spatial patterns. `[例]`
 
 ## 复习记录
 

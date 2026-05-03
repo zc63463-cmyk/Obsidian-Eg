@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**火把，火炬**==；②==**手电筒**==（英式英语）；③喷灯；
-**v.** ①==**放火烧，纵火**==；
+**n.** ①==**火把，火炬**== `N`；②==**手电筒**== `N`（英式英语）；③==**喷灯**== `N`；
+**v.** ①==**放火烧，纵火**== `V`；
 
 > [!tip] 原型义
 > **原型义**：火把（手持的照明工具）
@@ -121,7 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Olympic torch was carried through the city streets."（奥运火炬被传递穿过城市街道。）
+> - Many buildings were put to the torch (= burned intentionally ) during the riots . `[例]`
+> - If you have a cook's torch, use it to caramelize the sugar until it melts and goes brown . `[例]`
+> - Rescue workers were using acetylene torches to cut through railings . `[例]`
 
 
 ---

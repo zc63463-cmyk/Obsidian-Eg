@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**人行道，走道**==；②（建筑之间的）通道，走廊；
+**n.** ①==**人行道，走道**== `N`；②==**（建筑之间的）通道，走廊**== `N`；
 
 > [!tip] 原型义
 > **原型义**：供人行走的通道
@@ -124,7 +124,8 @@ walk（行走）+ way（道路/方式），复合词，无拉丁/希腊词根可
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The park features a wooden walkway that winds through the wetlands."（公园里有一条蜿蜒穿过湿地的木栈道。）
+> - A covered walkway joins the two buildings. `[例]`
+> - A covered walkway connects the two buildings. `[例]`
 
 ## 复习记录
 

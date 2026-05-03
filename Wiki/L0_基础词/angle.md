@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to approach this problem from a different angle."（我们需要从不同角度来处理这个问题）
-> - "She angled for a promotion by working overtime."（她通过加班来谋求升职）
+> - The interior angles of a square are right angles or angles of 90 degrees . `[例]`
+> - The picture was hanging at an angle. `[例]`
+> - His head cracked against the angle of the door pillar . `[例]`
 
 
 ---

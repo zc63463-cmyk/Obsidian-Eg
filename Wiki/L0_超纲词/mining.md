@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**采矿，矿业**== `N N` / `adj N` [通用]；②（数据的）挖掘 `N N` [技术]；
-**v.** ①mine 的现在分词形式 `V-ing` [语法]；
+**n.** ①==**采矿，矿业**== `N`；②==**（数据的）挖掘**== `N`；
+**v.** ①==**mine 的现在分词形式**== `V`；
 
 > [!tip] 原型义
 > **原型义**：从地下挖掘矿物
@@ -126,8 +126,8 @@ mine(矿/挖掘，古英语 *mīn*) + -ing(名词/动名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Data mining techniques can reveal patterns hidden in vast datasets. [C]
-> - `[例]` The region's economy has historically depended on coal mining and steel production. [C]
+> - Mining" is the discovery of new bitcoins—just like finding gold . `[例]`
+> - You can do mining on your own or join a mining " pool ", where a number of people combine their processing resources and take a share of the rewards . `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**突然地，忽然**==；②出乎意料地；
+**adv.** ①==**突然地，忽然**== `adv`；②==**出乎意料地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：突然地（毫无预兆地发生）
@@ -122,8 +122,8 @@ sudden（突然的）+ -ly（副词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - All of a sudden, the power went out and we were left in darkness.（突然停电了，我们陷入黑暗。）
-> - She suddenly realized that she had left her phone at home.（她突然意识到自己把手机忘在家里了。）
+> - Do you remember much about the accident ?" "No, it all happened so suddenly. `[例]`
+> - I was just dozing off when suddenly I heard a scream from outside . `[例]`
 
 ## 复习记录
 

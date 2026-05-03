@@ -135,8 +135,9 @@ spher(球体，希腊语 *sphaira*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The expansion of the country's sphere of influence in the region has raised concerns among neighboring states."（该国在该地区势力范围的扩大引起了邻国的担忧。——考研英语阅读国际政治类话题，sphere of influence 高频考点）
-> - "Women's participation in the public sphere has significantly increased over the past few decades."（过去几十年来，女性参与公共领域的程度显著增加。——考研英语阅读社会类话题，public sphere 高频表达）
+> - Doctors have replaced the top of his hip bone with a metal sphere. `[例]`
+> - Exchanges with other countries , particularly in cultural , scientific , and economic spheres. `[例]`
+> - This changes the shape of the cornea from a spoonlike form to a sphere. `[例]`
 
 
 ---

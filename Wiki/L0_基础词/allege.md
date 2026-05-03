@@ -126,8 +126,9 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hearing allegations of cruelty to animals in research settings, many are perplexed that anyone would deliberately harm an animal."（听到在研究环境中虐待动物的指控，许多人感到困惑：怎么会有人故意伤害动物——2003年英语一Text 2）
-> - "Such hijacked media are the opposite of earned media: an asset or campaign becomes hostage to consumers, other stakeholders, or activists who make negative allegations about a brand or product."（这种被劫持的媒体与赢得的媒体恰恰相反：一项资产或活动沦为消费者、其他利益相关者或活动家的"人质"，他们对某个品牌或产品提出负面指控——2011年英语一Text 3）
+> - The two men allege (that) the police forced them to make false confessions . `[例]`
+> - She is alleged to have been at the centre of an international drug ring . `[例]`
+> - It was alleged that Johnson had struck Mr Rahim on the head . `[例]`
 
 
 ---

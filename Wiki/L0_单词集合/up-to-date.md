@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Teachers need to keep up-to-date with the latest teaching methods."（教师需要跟上最新教学方法）——考研阅读中教育类话题
-> - "up-to-date information about the disease"（关于该疾病的最新信息）——科普/健康类阅读
-> - "ensure the database is up-to-date"（确保数据库是最新的）——技术/管理类语境
+> - All up-to-date prices can be found on our website . `[例]`
+> - The quarterly meeting keeps staff up to date with developments in the company . `[例]`
+> - The company's new offices are bang up to date . `[例]`
 
 ---
 

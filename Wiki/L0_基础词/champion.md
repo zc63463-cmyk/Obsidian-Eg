@@ -133,8 +133,9 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was a champion for Latinos and blacks within the educational system."（他一直致力于在教育系统内为美籍拉美人和黑人争取权益——考研社会类语料）
-> - "The heavyweight champion will be given a shot at Holyfield's world title."（这名重量级拳击冠军将尝试挑战霍利菲尔德的世界冠军头衔——考研体育类语料）
+> - She is the world champion for the third year in succession . `[例]`
+> - The defending champion will play his first match of the tournament tomorrow . `[例]`
+> - Who are the reigning European football champions? `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**季节性的，随季节变化的**==；②=**季节性的（工作、商品等）**==；
+**adj.** ①==**季节性的，随季节变化的**== `adj`；②==**季节性的（工作、商品等）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：随季节变化的（与季节周期相关的）
@@ -125,8 +125,8 @@ season(季节) + -al(形容词后缀，表示"与……有关的")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The economy showed strong growth after seasonal adjustment."（经过季节性调整后，经济显示出强劲增长。）
-> - "Many resorts rely on seasonal workers during the peak tourist months."（许多度假村在旅游高峰月份依赖季节性工人。）
+> - Temperatures are well below the seasonal average . `[例]`
+> - Workers typically came north on a seasonal basis . `[例]`
 
 ## 复习记录
 

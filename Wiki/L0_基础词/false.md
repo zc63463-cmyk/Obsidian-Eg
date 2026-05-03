@@ -141,6 +141,11 @@ false 源自古法语 *fals*，来自拉丁语 *falsus*（欺骗的、错误的�
 >    - 句意：他被指控在法庭上提供伪证。
 >    - 考点：false evidence 为法律语境高频搭配
 
+> [!example]- 语料
+> - Predictions of an early improvement in the housing market proved false. `[例]`
+> - The allegations are completely false. `[例]`
+> - He had been travelling with a false passport. `[例]`
+
 
 ---
 

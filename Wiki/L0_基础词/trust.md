@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**信任，信赖**==；②受托基金/机构；③垄断，托拉斯；
-**v.** ①信任，信赖；②委托，托付；③希望，盼望；
+**n.** ①==**信任，信赖**== `N`；②==**受托基金/机构**== `N`；③==**垄断，托拉斯**== `N`；
+**v.** ①==**信任，信赖**== `V`；②==**委托，托付**== `V`；③==**希望，盼望**== `V`；
 
 > [!tip] 原型义
 > **原型义**：忠实地依靠（基于忠实而托付）
@@ -133,7 +133,9 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government introduced anti-trust legislation to prevent large corporations from dominating the market.（政府出台了反托拉斯法，以防止大企业主导市场。）
+> - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
+> - My sister warned me not to trust him. `[例]`
+> - Trust me - I know about these things. `[例]`
 
 
 ---

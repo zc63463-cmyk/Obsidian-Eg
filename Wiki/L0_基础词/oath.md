@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**誓言，誓约**== `take/make/swear a N` / `under N`；②==**咒骂，诅咒语**==；③（法庭上的）宣誓 `on N`；
+**n.** ①==**誓言，誓约**== `take/make/swear a N` / `under N`；②==**咒骂，诅咒语**== `N`；③==**（法庭上的）宣誓 `on N`**== `N`；
 
 > [!tip] 原型义
 > **原型义**：以神明为见证的庄严誓言（说出的话受神灵约束）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The witness was required to take an oath before giving testimony. `[例]`
-> - He muttered an oath under his breath when the car wouldn't start. `[例]`
+> - He had taken an oath and would not break it. `[例]`
+> - Medieval knights took an oath of allegiance to their lord . `[例]`
+> - They had to publicly pledge an oath of loyalty to the government . `[例]`
 
 
 ---

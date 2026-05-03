@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Oil prices fluctuate dramatically in response to global events."（石油价格随全球事件剧烈波动——考研经济类阅读高频表达）
-> - "The stock market fluctuated throughout the trading day."（股市在整个交易日中波动——考研经济类阅读）
+> - Vegetable prices fluctuate according to the season . `[例]`
+> - Her wages fluctuate between £150 and £200 a week . `[例]`
+> - Her weight fluctuates wildly . `[例]`
 
 
 ---

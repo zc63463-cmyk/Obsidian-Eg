@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decision angered the local community."（这个决定激怒了当地社区）
-> - "He struggled to contain his anger."（他努力控制自己的怒气）
+> - I think he feels a lot of anger towards his father , who treated him very badly as a child . `[例]`
+> - There is a danger that anger at the new law may turn into anti-government feeling . `[例]`
+> - The people showed no surprise or anger at their treatment . `[例]`
 
 
 ---

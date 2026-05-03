@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police are trying to establish a motive for the murder."（警方正试图确定这起谋杀案的动机）
-> - "Profit motive has been a driving force behind many technological innovations."（利润动机一直是许多技术创新背后的驱动力）
+> - Why would she have killed him? She has no motive. `[例]`
+> - Does he have a motive for lying about where he was? `[例]`
+> - What is the motive behind (= the reason for) the bombing ? `[例]`
 
 
 ---

@@ -141,9 +141,9 @@ fatig-(疲倦，拉丁语 *fatigare*) + -ue(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Instead, use it as an opportunity to reduce decision fatigue."（而是要把它当成一次减少决策疲劳的机遇。——2016年考研英语阅读）
-> - "Driver fatigue was to blame for the accident."（这个事故是驾驶员疲劳所致。——考研社会类阅读常见表达）
-> - "The wing of the plane showed signs of metal fatigue."（机翼显示出金属疲劳的迹象。——考研科技类阅读常见表达）
+> - She was suffering from fatigue. `[例]`
+> - Driver fatigue was to blame for the accident. `[例]`
+> - The wing of the plane showed signs of metal fatigue . `[例]`
 
 
 ---

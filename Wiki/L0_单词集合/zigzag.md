@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The path rose in zigzags up the hillside."（小路呈之字形蜿蜒上山）——考研阅读中描述地形/路线的常见表达
-> - "a zigzag pattern of economic growth"（锯齿形的经济增长模式）——经济类阅读中的比喻用法
-> - "The ship zigzagged across the ocean."（船只在海上曲折航行）——航海/旅行类文本
+> - The kids ran in zigzags around the playground . `[例]`
+> - The Washington Post complained of "two weeks of policy zigzags". `[例]`
+> - The country seems to have been following a zigzag course between democracy and dictatorship . `[例]`
 
 ---
 

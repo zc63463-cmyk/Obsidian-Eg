@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**短期主义，急功近利**==；②只关注短期利益而忽视长远发展的倾向；
+**n.** ①==**短期主义，急功近利**== `N`；②==**只关注短期利益而忽视长远发展的倾向**== `N`；
 
 > [!tip] 原型义
 > **原型义**：只关注短期利益而忽视长远发展的心态或做法
@@ -125,7 +125,8 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Corporate short-termism has led to underinvestment in research and development."（企业短期主义导致了对研发的投资不足。）
+> - Corporate short-termism has led to underinvestment in research and development. `[例]`
+> - Some of Europe's entrepreneurs reveal an alarming level of short-termism in making their investment decisions . `[例]`
 
 ## 复习记录
 

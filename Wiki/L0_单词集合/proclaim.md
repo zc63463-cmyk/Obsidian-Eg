@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**宣告，声明，公布**== ; ②显示，表明 ;
+**v.** ①==**宣告，声明，公布**== `V` ; ②==**显示，表明 ;**== `V`
 
 > [!tip] 原型义
 > **原型义**：宣告、声明——在众人面前大声宣布
@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president proclaimed a state of emergency after the earthquake."（总统在地震后宣布进入紧急状态——考研高频表达）
-> - "He proclaimed his innocence to the court."（他向法庭宣称自己无罪——考研高频表达）
+> - All the countries have proclaimed their loyalty to the alliance . `[例]`
+> - Republican party members were confidently proclaiming victory even as the first few votes came in. `[例]`
+> - It was the famous speech in which he proclaimed that socialism was dead . `[例]`
 
 
 ---

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**底部，底端**== `at the bottom of` `from top to bottom`；②==**尽头**== `the bottom of the page`；③臀部；④根源，底细 `get to the bottom of`；
+**n.** ①==**底部，底端**==；②==**尽头**==；③臀部；④根源，底细；
 **adj.** ①==**底部的**==；
-**vi.** ①到达底部 `bottom out`；
+**vi.** ①到达底部；
 
 > [!tip] 原型义
 > **原型义**：底部（物体的最低处）
@@ -130,10 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We need to get to the bottom of this problem before it escalates. `[真题]`
-> - The bottom line is that we cannot afford to lose this client. `[真题]`
-> - The superintendent talked with several students to get to the bottom of the trouble. `[语料库]`
-> - Now Coke has a very clear bottom line — they report to a set of shareholders, they have to turn a profit. `[语料库]`
+> - He stood at the bottom of the stairs and called up to me. `[例]`
+> - The manager of the hotel started at the bottom (= in one of the least important jobs ) 30 years ago, as a porter . `[例]`
+> - The plankton similarly builds tiny shells out of the carbon which at the end of the plankton's life sink to the bottom of the ocean . `[例]`
 
 
 ---

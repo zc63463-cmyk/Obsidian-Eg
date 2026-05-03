@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**喘气，喘息**==；②喷（烟、气等）；③使膨胀，使鼓起；
-**n.** ①==**一阵（烟、气等）**==；②喘息；③（糕点）泡芙；④松饼；
+**v.** ①==**喘气，喘息**== `V`；②==**喷（烟、气等）**== `V`；③==**使膨胀，使鼓起**== `V N`；
+**n.** ①==**一阵（烟、气等）**== `N`；②==**喘息**== `N`；③==**（糕点）泡芙**== `N`；④==**松饼**== `N`；
 
 > [!tip] 原型义
 > **原型义**：噗（一口气突然喷出的声音和动作）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was puffing and panting after running up the stairs."（他跑上楼梯后气喘吁吁——常见文学表达）
-> - "She puffed at her cigarette nervously."（她紧张地抽着烟——考研阅读常见搭配）
+> - He came puffing up the stairs . `[例]`
+> - I ran all the way home ," she puffed (= said while puffing) . `[例]`
+> - She was puffing on a cigarette at the time . `[例]`
 
 
 ---

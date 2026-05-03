@@ -127,8 +127,9 @@ plent-（充足，拉丁语 *plenus* "满的"，与 [[plenty]] 同源）+ -i-（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Products are plentiful and cheap."（产品丰足，价格低廉。——高考真题）
-> - "While full-time jobs may not be plentiful, project work is common."（虽然全职工作可能没那么充裕，但项目工作很常见。——通用例句）
+> - Strawberries are plentiful in the summer . `[例]`
+> - I took a plentiful supply of games to keep the children amused . `[例]`
+> - In those days jobs were plentiful. `[例]`
 
 
 ---

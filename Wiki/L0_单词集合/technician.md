@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "lab technicians conduct experiments"（实验室技术员进行实验）——考研阅读中科学/教育类话题
-> - "shortage of skilled technicians"（熟练技术员的短缺）——就业/经济类话题
-> - "IT technicians maintain the computer systems"（IT技术员维护计算机系统）——科技类文本
+> - A need to train technicians in computer aided engineering. `[例]`
+> - As a pianist, she’s a brilliant technician, but she lacks passion. `[例]`
+> - They hired a technician to help maintain the office's computers. `[例]`
 
 ---
 

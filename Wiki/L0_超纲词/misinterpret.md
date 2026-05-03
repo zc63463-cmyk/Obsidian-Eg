@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**误解，曲解**== `V N` `be V-ed by N` [通用]；
+**v.** ①==**误解，曲解**== `V`；
 
 > [!tip] 原型义
 > **原型义**：错误地解释或理解
@@ -123,8 +123,8 @@ mis-(错误) + [[inter|inter]]-(在……之间) + [[pret|pract-prag]](传递/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The survey results were widely misinterpreted by the media. [C]
-> - `[例]` His silence was misinterpreted as a lack of interest in the project. [C]
+> - My speech has been misinterpreted by the press . `[例]`
+> - When we re-examined the regulations , we realized that we had misinterpreted them. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**食草动物**== `large herbivores` [学术] `herbivore diet` [学术]；
+**n.** ①==**食草动物**== `N`；
 > [!tip] 原型义
 > **原型义**：食草动物（以植物为食的动物）
 > **延伸维度**：抽象路径
@@ -122,8 +122,8 @@ herb(=herb, 草/植物) + -vor(=eat, 吃) + -e → 复合派生词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Elephants are the largest living land herbivores, consuming up to 150 kilograms of vegetation daily. `[例]`；
-> - The decline of large herbivores can have cascading effects on entire ecosystems. `[例]`；
+> - Cows and sheep are herbivores. `[例]`
+> - The decline of large herbivores can have cascading effects on entire ecosystems. `[例]`
 
 ## 复习记录
 

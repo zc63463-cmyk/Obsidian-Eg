@@ -127,8 +127,8 @@ full(满的，完全的) + -ly(副词后缀，…地)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Students need to fully understand the concepts before applying them. `[例]`
-> - She was fully aware of the risks involved in the investment. `[例]`
+> - Have you fully recovered from your illness ? `[例]`
+> - I fully intended to call you last night . `[例]`
 
 ## 复习记录
 

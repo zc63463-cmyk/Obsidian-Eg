@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**薄雾，霾**== `a haze of sth` [中性] `in a haze` [书面]；②（心理上的）迷蒙，困惑；
-**v.** ①==**使朦胧，使困惑**== `haze sth` [书面] `be hazed by sth` [书面]；②（美式）对新生进行恶作剧/欺凌；
+**n.** ①==**薄雾，霾**== `N`；②==**（心理上的）迷蒙，困惑**== `N`；
+**v.** ①==**使朦胧，使困惑**== `V N`；②==**（美式）对新生进行恶作剧/欺凌**== `V`；
 > [!tip] 原型义
 > **原型义**：薄雾，霾（空气中悬浮微粒造成的能见度降低）
 > **延伸维度**：空间路径
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The morning haze obscured the mountains, making them look like paintings. `[例]`；
-> - His mind was in a haze after the accident, unable to process what had happened. `[例]`；
+> - The road through the desert shimmered in the haze. `[例]`
+> - Ten fraternity members had their heads shaved during hazing last week . `[例]`
 
 ## 复习记录
 

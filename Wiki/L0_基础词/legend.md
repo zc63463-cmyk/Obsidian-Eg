@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Legend has it that the ancient city was destroyed by a great flood."（传说这座古城被一场大洪水摧毁了）
-> - "He is a living legend in the world of music."（他是音乐界的活传奇）
+> - The dance was based on several Hindu legends. `[例]`
+> - She is writing a thesis on Irish legend and mythology . `[例]`
+> - Legend has it (= people say) that he always wore his boots in bed . `[例]`
 
 
 ---

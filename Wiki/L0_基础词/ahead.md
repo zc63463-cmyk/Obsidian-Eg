@@ -127,8 +127,9 @@ a-（=on, 在……上）+ head（头，前方）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The project was completed ahead of schedule, saving the company millions."（项目提前完成，为公司节省了数百万。——常见商务语料）
-> - "Go ahead and make your decision — I trust your judgment."（继续做你的决定吧——我相信你的判断。——常见日常语料）
+> - The road ahead is very busy . `[例]`
+> - Turn left at the traffic lights , and you'll see the hospital straight ahead. `[例]`
+> - Barcelona was ahead after ten minutes . `[例]`
 
 
 ---

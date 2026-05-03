@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic crisis was caused by a combination of factors, including excessive borrowing, speculative investment, and weak regulation."（经济危机是由多种因素共同造成的，包括过度借贷、投机性投资和监管不力——考研阅读经济话题）
-> - "In combination with regular exercise, a balanced diet is the most effective way to maintain good health."（结合规律运动，均衡饮食是保持健康的最佳方式——考研阅读健康话题）
+> - A. ruins B. debt C. fashion Section Il Reading Comprehension Part A Directions: D. equipped D. permanently D. combination D. connect D. along with D. evaluation D. reduced D. opposed D. in case D. meeting D. `[真题]`
+> - Strawberries and cream - a perfect combination. `[例]`
+> - A combination of tiredness and boredom caused me to fall asleep . `[例]`
 
 
 ---

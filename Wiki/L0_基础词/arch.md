@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The triumphal arch stands at the entrance of the city."（凯旋门矗立在城市的入口处）
-> - "Trees arched over the narrow path."（树木在狭窄的小径上方形成拱形）
+> - In many churches the side aisles are separated from the central aisle by a row of arches. `[例]`
+> - Passing through the arch, you enter an open courtyard . `[例]`
+> - The vines were trained over an arch, providing shade as well as fruit . `[例]`
 
 
 ---

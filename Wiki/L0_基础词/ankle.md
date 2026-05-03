@@ -114,7 +114,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She sprained her ankle while running."（她跑步时扭伤了脚踝）
+> - I fell over and twisted my ankle. `[例]`
+> - The nurse bandaged my sprained ankle to keep the swelling down. `[例]`
+> - Three minutes into the match , Jackson limped off the pitch with a serious ankle injury . `[例]`
 
 
 ---

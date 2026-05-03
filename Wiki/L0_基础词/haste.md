@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Unfortunately the report was prepared in haste and contained several inaccuracies."（不幸的是，这份报告是在匆忙中准备的，包含了几处不准确之处——剑桥词典经典例句，in haste 为考研常考搭配）
-> - "In her haste to complete the work on time, she made a number of mistakes."（她急急忙忙想按时完成工作，结果犯了许多错误——英语阅读常见表达，haste 导致错误的典型用法）
+> - Unfortunately the report was prepared in haste and contained several inaccuracies . `[例]`
+> - In her haste to get up from the table , she knocked over a cup . `[例]`
+> - His father had just died and he didn't want to marry with indecent haste. `[例]`
 
 
 ---

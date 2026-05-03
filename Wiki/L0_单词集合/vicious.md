@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country was caught in a vicious cycle of poverty and violence."（该国陷入了贫困与暴力的恶性循环。）——考研高频表达
-> - "The politician launched a vicious attack on his opponent during the debate."（这位政治家在辩论中对对手发动了恶毒的攻击。）——考研高频表达
+> - The police said that this was one of the most vicious attacks they'd ever seen . `[例]`
+> - He gave her a vicious look . `[例]`
+> - A large collection of vicious medieval torture instruments. `[例]`
 
 
 ---

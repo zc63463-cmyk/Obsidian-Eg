@@ -130,8 +130,9 @@ film 源自古英语 *filmen*，意为"薄膜、皮"，与 [[fill]]（填满）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The whole incident was recorded on film."（整个事件都被记录在胶片上了。——考研阅读高频表达）
-> - "There is a film of mist over the land."（大地上笼罩着一层薄雾。——考研翻译类例句）
+> - What's your favourite film? `[例]`
+> - Her last film was shot (= made) on location in South America . `[例]`
+> - I hate people talking while I'm watching a film. `[例]`
 
 
 ---

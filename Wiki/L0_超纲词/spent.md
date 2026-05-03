@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**筋疲力尽的，耗尽的**==；②（资源等）已用完的；③（燃料）用尽的；
-**v.** ①（spend 的过去式/过去分词）花费；度过；
+**adj.** ①==**筋疲力尽的，耗尽的**== `adj`；②==**（资源等）已用完的**== `adj`；③==**（燃料）用尽的**== `adj`；
+**v.** ①==**（spend 的过去式/过去分词）花费**== `V`；度过；
 
 > [!tip] 原型义
 > **原型义**：能量或资源被完全消耗的状态（像钱被花光了一样）
@@ -130,7 +130,8 @@ spend(花费) + -ed(形容词后缀，表示"持有……状态的")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "After the marathon, she was completely spent and could barely walk."（跑完马拉松后，她彻底筋疲力尽，几乎走不动了。）
+> - After several defeats in a row , people are starting to say that the team is a spent force . `[例]`
+> - We arrived home spent after our long journey . `[例]`
 
 ## 复习记录
 

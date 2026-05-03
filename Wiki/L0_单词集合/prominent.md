@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**杰出的，著名的**== ; ②突出的，显著的 ; ③凸出的，隆起的 ;
+**adj.** ①==**杰出的，著名的**== `adj`；②==**突出的，显著的**== `adj`；③==**凸出的，隆起的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：向前突出的（standing out in front）
@@ -132,8 +132,9 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Among the commission's 51 members are top-tier-university presidents, scholars, lawyers, judges, and business executives, as well as prominent figures from diplomacy, filmmaking, music and journalism."（在该委员会的51名成员中，有顶尖大学校长、学者、律师、法官和企业高管，也有来自外交、电影、音乐和新闻领域的杰出人物——2014年考研一阅读）
-> - "She is a prominent scientist who has made significant contributions to the field of genetics."（她是一位杰出的科学家，对遗传学领域做出了重大贡献——考研高频表达）
+> - It is also less prominent in many social studies cour�es. `[真题]`
+> - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
+> - The government should be playing a more prominent role in promoting human rights . `[例]`
 
 
 ---

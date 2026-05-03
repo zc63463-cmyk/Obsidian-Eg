@@ -125,8 +125,9 @@ pollute(弄脏) + -ion(名词后缀，表示动作或状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Air pollution is one of the most serious environmental problems facing the world today."（空气污染是当今世界面临的最严重的环境问题之一）
-> - "The government has introduced strict measures to control industrial pollution."（政府已出台严格措施控制工业污染）
+> - The manifesto includes tough measures to tackle road congestion and environmental pollution. `[例]`
+> - Pollution from the factory could be contaminating nearby wells . `[例]`
+> - It is the biggest environmental pollution incident in the history of the country . `[例]`
 
 
 ---

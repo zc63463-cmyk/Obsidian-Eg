@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**超验主义者**==；②（大写）超验主义运动成员；
-**adj.** ③超验主义的；
+**n.** ①==**超验主义者**== `N`；②==**（大写）超验主义运动成员**== `N`；
+**adj.** ③==**超验主义的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：超验主义者（相信超越经验之上的精神真理的人）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Ralph Waldo Emerson was the leading figure of the Transcendentalist movement in America."（拉尔夫·沃尔多·爱默生是美国超验主义运动的领军人物）
-> - "Transcendentalists believed in the inherent goodness of people and nature."（超验主义者相信人与自然的内在善良）
+> - Ralph Waldo Emerson was the leading figure of the Transcendentalist movement in America. `[例]`
+> - Transcendentalists believed in the inherent goodness of people and nature. `[例]`
 
 ## 复习记录
 

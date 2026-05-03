@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**螺栓，螺钉**== `N`；②==**门闩**== `N`；③闪电，霹雳 `a bolt of N`；④（布匹的）一卷 `N`；
-**v.** ①==**逃跑，冲出**== `V` [书面]；②==**用螺栓固定**== `V N`；③匆忙吞咽 `V N`；
+**n.** ①==**螺栓，螺钉**==；②==**门闩**==；③闪电，霹雳；④（布匹的）一卷；
+**v.** ①==**逃跑，冲出**==；②==**用螺栓固定**==；③匆忙吞咽；
 
 > [!tip] 原型义
 > **原型义**：螺栓、门闩（用于固定的金属件）
@@ -132,10 +132,9 @@ bolt 源自古英语 *bolt*（箭、飞镖），后指"螺栓"（因为形状像
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A bolt of lightning ripped it open, and the light was followed closely by a deep rumble of thunder." `[真题]`
-> - "When he saw the police arrive, he bolted down an alley." `[COCA-FICT]`
-> - "Frightened by the car horn, the horse bolted." `[COCA-ACAD]`
-> - "The thief tried to make a bolt for the exit." `[COCA-FICT]`
+> - I closed the window and drew the bolt (= slid the bolt across ) . `[例]`
+> - The house next to ours was struck by a bolt of lightning . `[例]`
+> - The thief tried to make a bolt for the exit . `[例]`
 
 
 ---

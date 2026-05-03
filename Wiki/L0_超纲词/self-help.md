@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自助，自我提升**==；②自助运动，自助类（书籍、课程等）；
+**n.** ①==**自助，自我提升**== `N`；②==**自助运动，自助类（书籍、课程等）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：依靠自己帮助自己（不依赖外部援助）
@@ -124,8 +124,8 @@ self(自己) + help(帮助) → 复合词，字面义"自己帮助自己"。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The self-help industry generates billions of dollars in revenue each year."（自助产业每年创造数十亿美元的收入。）
-> - "Self-help groups provide emotional support for people dealing with addiction."（互助小组为应对成瘾问题的人提供情感支持。）
+> - It is a group providing self-help for single parents . `[例]`
+> - Exercise is often recommended as a first line of self-help. `[例]`
 
 ## 复习记录
 

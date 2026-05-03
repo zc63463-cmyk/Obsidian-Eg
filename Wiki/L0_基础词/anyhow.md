@@ -125,8 +125,9 @@ any(任何) + how(方式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The experiment failed, but the researchers decided to try anyhow."（实验失败了，但研究人员决定无论如何再试一次。——考研英语阅读科研类话题）
-> - "It may rain tomorrow, but anyhow we should be prepared for all possibilities."（明天可能会下雨，但不管怎样我们都应该为所有可能性做好准备。——考研英语写作常见表达）
+> - He looked a complete mess - dressed anyhow with his hair sticking up. `[例]`
+> - Anyhow, I didn’t ask you to come here to talk about your business . `[例]`
+> - She piled the papers in a heap on her desk, just anyhow. `[例]`
 
 
 ---

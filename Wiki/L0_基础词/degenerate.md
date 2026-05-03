@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What was intended as a peaceful demonstration rapidly degenerated into violence."（一场原本和平的示威迅速演变成了暴力事件——考研社会类语料）
-> - "Educational standards are degenerating year by year because of a lack of funds."（由于缺乏资金，教育水平连年下降——考研教育类语料）
+> - What was intended as a peaceful demonstration rapidly degenerated into violence . `[例]`
+> - Educational standards are degenerating year by year because of a lack of funds . `[例]`
+> - A degenerate circle is one with radius zero. `[例]`
 
 
 ---

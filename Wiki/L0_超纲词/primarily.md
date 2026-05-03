@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**主要地，首先**==；②==**根本上，起初**==；
+**adv.** ①==**主要地，首先**== `adv`；②==**根本上，起初**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：首要地（排在第一位的，最重要的）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The disease is primarily caused by poor sanitation and lack of clean water."（这种疾病主要是由卫生条件差和缺乏清洁水引起的。）
+> - We're primarily concerned with keeping expenditure down. `[例]`
+> - Baseball is primarily a summer game . `[例]`
 
 ## 复习记录
 

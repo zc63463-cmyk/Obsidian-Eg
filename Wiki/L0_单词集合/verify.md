@@ -134,8 +134,9 @@ ver（真实，true）+ -ify（使动后缀，make）= 使成为真实的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists need to verify the results through further experiments."（科学家需要通过进一步的实验来验证结果。）——考研高频表达
-> - "The bank will verify your identity before processing the transaction."（银行在处理交易前会核实您的身份。）——考研高频表达
+> - States must verify applicants ' citizenship status . `[例]`
+> - Regulators used data supplied by the casinos to verify that the amounts were accurate . `[例]`
+> - We have no way of verifying his story. `[例]`
 
 ---
 

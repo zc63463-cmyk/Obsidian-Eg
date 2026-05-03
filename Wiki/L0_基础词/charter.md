@@ -133,8 +133,9 @@ charter 源自古法语 *chartre*，源自拉丁语 *charta*（纸、纸莎草�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles."（改革遭到了强烈反对，在教育领域尤为突出，特许学校、学院和绩效工资都面临旷日持久的战斗——考研教育类语料）
-> - "The newly revised Danish Fashion Ethical Charter clearly states: 'We are aware of and take responsibility for the impact the fashion industry has on body ideals, especially on young people.'"（新修订的丹麦时尚伦理宪章明确声明："我们认识到并承担时尚行业对身材理想的影响，尤其是对年轻人的影响。"——考研社会类语料）
+> - A charter of rights. `[例]`
+> - Education is one of the basic human rights written into the United Nations Charter. `[例]`
+> - They've chartered a plane to take delegates to the conference . `[例]`
 
 
 ---

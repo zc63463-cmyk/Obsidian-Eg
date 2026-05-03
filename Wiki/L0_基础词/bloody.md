@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**血腥的，流血的**== `adj N` `adj battle/war/nose`；②==**非常的，极端的**== `adj N` [英式口语]；③残忍的，嗜血的 `adj N`；
-**adv.** ①非常 [英式口语]；
+**adj.** ①==**血腥的，流血的**==；②==**非常的，极端的**==（英式口语）；③残忍的，嗜血的；
+**adv.** ①非常（英式口语）；
 
 > [!tip] 原型义
 > **原型义**：沾满血的（充满血液的状态）
@@ -126,10 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was a long and bloody battle and many men were killed. `[COCA-NEWS]`
-> - He was arrested last October, still carrying a bloody knife. `[COCA-NEWS]`
-> - That was a bloody good meal. `[BNC-SPOKEN]`
-> - The twentieth century was the bloodiest in human history. `[例]`
+> - I've had a bloody awful week . `[例]`
+> - It's a bloody disgrace that some war widows don't get a decent pension . `[例]`
+> - Don't be a bloody idiot ! `[例]`
 
 
 ---

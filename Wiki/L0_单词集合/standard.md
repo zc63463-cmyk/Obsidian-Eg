@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has set strict standards for air and water quality."（政府制定了严格的空气和水质标准。）——考研高频表达
-> - "The standard of living in developed countries is generally higher than in developing ones."（发达国家的生活水平通常高于发展中国家。）——考研高频表达
+> - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
+> - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
+> - Even if a state is considered a high performer in its science standards, "that does not mean it will be taught" , he says. `[真题]`
 
 ---
 

@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A balanced diet is essential for maintaining good health."（均衡饮食对保持健康至关重要。）
-> - "She went on a diet to lose weight before the wedding."（她在婚礼前节食减肥。）
+> - Diet varies between different countries in the world . `[例]`
+> - The benefits of a healthy diet are obvious . `[例]`
+> - Choose a varied diet rich in whole grains , vegetables , and fruits , and low in saturated fats . `[例]`
 
 
 ---

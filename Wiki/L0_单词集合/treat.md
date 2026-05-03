@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new treatment has shown promising results in patients with advanced stages of the disease."（这种新疗法在晚期疾病患者中显示出了令人鼓舞的效果。）——考研高频表达
-> - "We should treat the environment with greater respect and responsibility."（我们应该以更大的尊重和责任感对待环境。）——考研高频表达
+> - I think the question is, shouldn't a dev,eloper who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?" Hom said. `[真题]`
+> - My parents treated us all the same when we were kids . `[例]`
+> - He treated his wife very badly . `[例]`
 
 
 ---

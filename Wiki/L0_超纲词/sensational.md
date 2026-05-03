@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**轰动的，令人激动的**==；②==**耸人听闻的**==（贬义，指夸大其词以博取关注）；③极好的，出色的（口语）；
+**adj.** ①==**轰动的，令人激动的**== `adj`；②==**耸人听闻的**== `adj`（贬义，指夸大其词以博取关注）；③==**极好的，出色的（口语）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：引起强烈感觉的（触动感官和情绪的）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The tabloid newspaper was criticized for its sensational reporting of the scandal."（这家小报因对丑闻的耸人听闻的报道而受到批评。）
-> - "The team delivered a sensational performance in the final match."（该队在决赛中表现出色。）
+> - She looks sensational (= extremely attractive ) in her new dress . `[例]`
+> - Some of the more sensational newspapers have given a lot of coverage to the scandal . `[例]`
 
 ## 复习记录
 

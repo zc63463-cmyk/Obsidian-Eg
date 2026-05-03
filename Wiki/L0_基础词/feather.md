@@ -131,8 +131,9 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cushion split open and sent feathers everywhere."（垫子撕破了，羽毛掉得到处都是——考研文学类阅读语料）
-> - "Other feathers on a bird do not exhibit obvious modification for flight."（鸟身上其他羽毛并没有表现出明显的飞行适应性变化——考研科普类阅读语料）
+> - I like to sleep on a firm mattress with feather pillows (= those containing feathers) . `[例]`
+> - The bird ruffled its feathers. `[例]`
+> - The bird has grey feathers with a lighter collar . `[例]`
 
 
 ---

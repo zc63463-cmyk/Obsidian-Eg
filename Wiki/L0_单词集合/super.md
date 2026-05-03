@@ -126,8 +126,9 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We have yet to invent a firewall that is secure against ordinary humans, let alone super intelligent machines."（我们还没有发明出一种能防范普通人类的防火墙，更不用说超级智能机器了——考研高频表达）
-> - "She is a super mom who manages to balance work and family perfectly."（她是一位超级妈妈，能够完美地平衡工作和家庭——考研高频表达）
+> - The Natural History Museum is a super place for kids . `[例]`
+> - Did you enjoy the film ?" "Yes, I thought it was super. `[例]`
+> - They were super helpful when I was having problems . `[例]`
 
 
 ---

@@ -128,8 +128,9 @@ em-（变体形式，源自拉丁语 *in-* 的加强形式）+ [[per]]（准备�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's spoken in many countries of the world because of the British Empire."（由于大英帝国的缘故，它在世界许多国家被使用——CET-4 真题）
-> - "Without Gandhi, India might still be part of the British Empire."（如果没有甘地，印度可能仍然是大英帝国的一部分——2003年1月CET-4真题）
+> - In the space of just ten years , her company has grown from one small retail outlet to a multi-million-dollar empire. `[例]`
+> - Entrepreneur Rocco Forte built his empire from budget hotels and motorway services . `[例]`
+> - Besides running a fashion empire, he also functioned as director of no less than three banks . `[例]`
 
 
 ---

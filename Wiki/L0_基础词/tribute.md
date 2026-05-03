@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**贡品，贡金**==；②颂词，致敬；③（表示敬意的）礼物；
+**n.** ①==**贡品，贡金**== `N`；②==**颂词，致敬**== `N`；③==**（表示敬意的）礼物**== `N`；
 
 > [!tip] 原型义
 > **原型义**：贡品，贡金（弱者向强者表示臣服的财物）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ceremony paid tribute to the victims of the disaster."（仪式向灾难的遇难者致敬。）
-> - "His latest novel is a fitting tribute to his literary career."（他的最新小说是对其文学生涯的恰当致敬。）
+> - Tributes have been pouring in from all over the world for the famous actor who died yesterday . `[例]`
+> - Floral tributes (= flowers given to show respect for someone who has died ) piled up at the scene of the accident . `[例]`
+> - The minister paid tribute to the men who had fought the blaze . `[例]`
 
 
 ---

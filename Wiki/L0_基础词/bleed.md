@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**流血**== `V` `V heavily/profusely`；②==**勒索……的钱，榨取**== `V N` [俚语]；③==**给……放血**== `V N` [医疗]；
-**vt.** ①==**勒索，榨取**== `V N` `V N dry`；
+**vi.** ①==**流血**==；②勒索……的钱，榨取（俚语/引申）；③给……放血（医疗）；
+**vt.** ①==**勒索，榨取**==；
 
 > [!tip] 原型义
 > **原型义**：流血（血液从伤口流出身体）
@@ -128,10 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company was bled dry by excessive taxation. `[COCA-NEWS]`
-> - My heart bled for the blokes who had struggled with this for real. `[BNC-SPOKEN]`
-> - Higher energy costs are bleeding into inflation. `[COCA-NEWS]`
-> - He was bleeding profusely from a wound in his leg. `[例]`
+> - Your arm is bleeding. `[例]`
+> - He was bleeding heavily . `[例]`
+> - Avoid slow-drying ink because the colours tend to bleed into one another before they've dried . `[例]`
 
 
 ---

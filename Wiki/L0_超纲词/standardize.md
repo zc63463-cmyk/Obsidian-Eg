@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使标准化，使合乎标准**==；②使统一；
+**v.** ①==**使标准化，使合乎标准**== `V N`；②==**使统一**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：使事物符合统一的标准（消除差异，建立一致性）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government has moved to standardize educational testing across all states."（政府已采取措施在全国各州推行标准化教育考试。）
+> - We standardize parts such as rear-view mirrors , so that one type will fit any model of car we make. `[例]`
+> - The profile summarizes key information about a product in a standardized format designed to make it easier to compare products . `[例]`
 
 ## 复习记录
 

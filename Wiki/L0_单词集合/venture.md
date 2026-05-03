@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "joint venture between Chinese and foreign companies"（中外合资企业）——考研阅读/翻译中商业经济话题
-> - "venture into the unknown"（冒险进入未知领域）——探索/科技类话题
-> - "I venture to suggest that..."（我冒昧建议……）——学术/正式写作中的委婉表达
+> - She advised us to look abroad for more lucrative business ventures. `[例]`
+> - There are many joint ventures between American and Japanese companies . `[例]`
+> - She rarely ventured outside , except when she went to stock up on groceries . `[例]`
 
 ---
 

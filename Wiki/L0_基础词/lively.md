@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bar is known for its lively atmosphere and excellent cocktails."（这家酒吧以其热闹的氛围和出色的鸡尾酒闻名——考研阅读高频表达）
-> - "She has a lively interest in everything around her."（她对周围的一切都有浓厚的兴趣——考研翻译常见句型）
+> - It's hard work teaching a class of lively children . `[例]`
+> - There was some lively discussion at the meeting . `[例]`
+> - The room was painted a lively electric blue . `[例]`
 
 
 ---

@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has been a guardian angel to the orphanage for years."（多年来她一直是这家孤儿院的守护天使）
-> - "Angel investors provide crucial early-stage funding for startups."（天使投资人为初创企业提供关键的早期资金）
+> - According to the Bible , an angel told Mary that she would have God's son , Jesus . `[例]`
+> - Be an angel and help me with this. `[例]`
+> - What's the matter , angel? `[例]`
 
 
 ---

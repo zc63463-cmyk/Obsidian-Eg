@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One of the major challenges facing developing countries is the lack of adequate infrastructure, which severely hampers economic growth and social development."（发展中国家面临的主要挑战之一是基础设施不足，这严重阻碍了经济增长和社会发展——考研阅读发展话题相关表达）
-> - "Many students lack the critical thinking skills necessary to evaluate the reliability of information they encounter online."（许多学生缺乏评估他们在网上遇到的信息可靠性所需的批判性思维能力——考研翻译教育话题相关表达）
+> - Texas is reluctant to rewrite its science textbooks D. environmental teaching in some states lacks supervision 24. `[真题]`
+> - Her only problem is a lack of confidence . `[例]`
+> - He just lacks a little confidence . `[例]`
 
 
 ---

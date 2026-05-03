@@ -126,8 +126,9 @@ day(天/白天) + light(光)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The robbers struck the bank in broad daylight!"（盗匪在光天化日之下洗劫银行——Cambridge English Corpus）
-> - "The secret was finally brought into daylight after years of hiding."（这个秘密在隐藏多年后终于被公之于众——Cambridge English Corpus）
+> - The colours look much better in daylight. `[例]`
+> - The space is daylighted and there are also LED lights for night use. `[例]`
+> - The district recently daylighted a creek by digging up a stretch that had been buried beneath a school . `[例]`
 
 
 ---

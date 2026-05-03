@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**圆形建筑，圆形大厅**==；②（有穹顶的）圆形纪念堂；
+**n.** ①==**圆形建筑，圆形大厅**== `N`；②==**（有穹顶的）圆形纪念堂**== `N`；
 
 > [!tip] 原型义
 > **原型义**：圆形的小房间（圆形的室内空间）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Rotunda of the Capitol is one of the most iconic architectural features in Washington, D.C."（国会大厦的圆形大厅是华盛顿特区最具标志性的建筑特色之一。）
-> - "Visitors gathered in the hotel rotunda to admire the magnificent dome above."（游客聚集在酒店圆形大厅，欣赏上方壮观的穹顶。）
+> - We stood inside the rotunda of the U.S. Capitol Building. `[例]`
+> - Under the rotunda in the Cannon building, veterans — young, old, some with visible disabilities and all wearing military jackets— held a flag-folding ceremony to honor the American troops who have died in the current conflict. `[例]`
 
 ## 复习记录
 

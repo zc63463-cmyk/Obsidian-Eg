@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不可预测性，变化无常**==；②不可预料的特性；
+**n.** ①==**不可预测性，变化无常**== `N`；②==**不可预料的特性**== `N`；
 
 > [!tip] 原型义
 > **原型义**：不可预测性（无法预先说出）
@@ -129,8 +129,8 @@ un-(不，否定前缀) + [[pre-|pre]](前/预先) + [[dict|dict]](说) + -able(
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The unpredictability of the weather makes farming increasingly difficult."（天气的变化无常使农业变得越来越困难。）
-> - "Investors must learn to cope with the inherent unpredictability of financial markets."（投资者必须学会应对金融市场固有的不可预测性。）
+> - Probably the only predictable thing about the British weather is its unpredictability. `[例]`
+> - His unpredictability is what makes him so difficult to play against. `[例]`
 
 ## 复习记录
 

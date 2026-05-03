@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**熟练，精通**==；②熟练程度；
+**n.** ①==**熟练，精通**== `N`；②==**熟练程度**== `N`；
 
 > [!tip] 原型义
 > **原型义**：向前做出（going forward, making progress）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students need to demonstrate proficiency in at least one foreign language."（学生需要展示至少一门外语的熟练程度——考研高频表达）
-> - "Her proficiency in computer programming made her the ideal candidate."（她在计算机编程方面的熟练使她成为理想人选）
+> - The job ad said they wanted proficiency in at least two languages . `[例]`
+> - Photographs entered in the contest will be judged on originality and technical proficiency. `[例]`
+> - Candidates must be able to demonstrate a high level of proficiency in both languages . `[例]`
 
 
 ---

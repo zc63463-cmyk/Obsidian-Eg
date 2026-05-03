@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Workers across the country demonstrated their solidarity by going on strike to demand better working conditions and fair wages."（全国各地的工人通过罢工展示了他们的团结，要求更好的工作条件和公平的工资——考研阅读社会话题相关表达）
-> - "The international community expressed its solidarity with the earthquake-stricken nation by providing immediate humanitarian aid and financial support."（国际社会通过提供即时人道主义援助和财政支持，表达了对地震灾区的团结——考研翻译国际话题相关表达）
+> - The situation raises important questions about solidarity among member states of the UN. `[例]`
+> - The purpose of the speech was to show solidarity with the country's leaders . `[例]`
+> - Hundreds of supporters gathered to show solidarity for the three men. `[例]`
 
 
 ---

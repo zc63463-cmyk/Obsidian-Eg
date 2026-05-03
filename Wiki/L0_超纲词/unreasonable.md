@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不合理的，不讲道理的**==；②过度的，不切实际的（要求、价格等）；③不理智的；
+**adj.** ①==**不合理的，不讲道理的**== `adj`；②==**过度的，不切实际的（要求、价格等）**== `adj`；③==**不理智的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：没有道理的（un-不 + reason理由 + -able可以被...的 → 没有道理的）
@@ -130,8 +130,8 @@ un-(不，否定) + [[under]](在下面→古法语 *raison* 源自拉丁语 *ra
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - It is unreasonable to expect employees to work overtime without compensation.（期望员工无偿加班是不合理的。）
-> - The court ruled that the landlord's rent increase was unreasonable and unlawful.（法院裁定房东的涨租是不合理且违法的。）
+> - It seems unreasonable to expect one person to do both jobs . `[例]`
+> - She divorced him on the grounds of unreasonable behaviour . `[例]`
 
 ## 复习记录
 

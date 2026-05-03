@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不可预测的，变幻莫测的**==；②易变的，不稳定的；
+**adj.** ①==**不可预测的，变幻莫测的**== `adj`；②==**易变的，不稳定的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：无法提前说出的（pre-提前 + dict说出 + -able可以被 → 无法被提前说出的）
@@ -127,8 +127,8 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The weather in this region is highly unpredictable, making it difficult for farmers to plan their crops.（该地区的天气高度不可预测，使农民难以规划农作物。）
-> - Consumer behavior remains unpredictable despite advanced data analytics.（尽管有先进的数据分析，消费者行为仍然不可预测。）
+> - The weather there can be unpredictable - one minute it's blue skies and the next minute it's pouring rain . `[例]`
+> - The hours in this job are very unpredictable - you sometimes have to work late at very short notice . `[例]`
 
 ## 复习记录
 

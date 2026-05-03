@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**促使，推动**== ; ②提示，提醒 ;
-**adj.** ①==**迅速的，及时的**== ;
-**n.** ①==**提示**（计算机）；②提示词 ;
+**v.** ①==**促使，推动**== `V`；②==**提示，提醒**== `V`；
+**adj.** ①==**迅速的，及时的**== `adj`；
+**n.** ①==**提示（计算机）**== `N`；②==**提示词**== `N`；
 
 > [!tip] 原型义
 > **原型义**：向前拿来/准备好（to take forth / to make ready）
@@ -136,8 +136,9 @@ pro-(向前) + mpt(拿/取，empt的变体)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The prompt response from the emergency services saved many lives."（紧急服务部门的迅速反应挽救了许多生命——考研高频表达）
-> - "What prompted the chancellor to develop his scheme?"（是什么促使校长发展他的计划？——2014年考研Text 1）
+> - The bishop's speech has prompted an angry response from both political parties . `[例]`
+> - Recent worries over the president's health have prompted speculation over his political future . `[例]`
+> - What prompted you to say that? `[例]`
 
 
 ---

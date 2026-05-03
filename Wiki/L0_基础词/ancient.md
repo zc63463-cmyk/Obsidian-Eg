@@ -125,8 +125,9 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Ancient civilizations developed complex systems of writing."（古代文明发展出了复杂的书写系统）
-> - "The ancient Greeks made significant contributions to philosophy."（古希腊人对哲学做出了重大贡献）
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+> - History, ancient and modern , has taught these people an intense distrust of their neighbours . `[例]`
+> - People have lived in this valley since ancient times . `[例]`
 
 
 ---

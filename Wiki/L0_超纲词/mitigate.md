@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**减轻，缓和**== `V N` [正式]；②==**缓解（痛苦、损失等）**== `V N` [正式]；
+**v.** ①==**减轻，缓和**== `V`；②==**缓解（痛苦、损失等）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：使某种不良情况减轻
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Governments worldwide are taking measures to mitigate the effects of climate change. [C]
-> - `[例]` Planting trees along the riverbank helps mitigate the risk of flooding. [C]
+> - It is unclear how to mitigate the effects of tourism on the island . `[例]`
+> - Getting a lot of sleep and drinking plenty of fluids can mitigate the effects of the flu . `[例]`
 
 ## 复习记录
 

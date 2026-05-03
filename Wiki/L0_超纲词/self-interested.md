@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**利己的，追求自身利益的**==；②出于私利的；
+**adj.** ①==**利己的，追求自身利益的**== `adj`；②==**出于私利的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：追求自身利益的（以自我利益为导向的）
@@ -124,8 +124,8 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Critics argue that the corporation's environmental initiatives were merely self-interested public relations."（批评者认为该公司的环保举措不过是利己的公关手段。）
-> - "Adam Smith's theory of the invisible hand assumes that individuals act in self-interested ways."（亚当-斯密的"看不见的手"理论假设个体以利己方式行事。）
+> - Classical economics assumes that humans are rational , self-interested individuals . `[例]`
+> - He violently denounced their callous and self-interested behaviour . `[例]`
 
 ## 复习记录
 

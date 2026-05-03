@@ -25,11 +25,11 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**最好的，首要的**==；②基本的；
+**adj.** ①==**最好的，首要的**== `adj`；②==**基本的**== `adj`；
 
-**n.** ①全盛时期；②质数；
+**n.** ①==**全盛时期**== `N`；②==**质数**== `N`；
 
-**v.** ①使准备好；②给...涂底漆；
+**v.** ①==**使准备好**== `V N`；②==**给...涂底漆**== `V`；
 
 > [!tip] 原型义
 > **原型义**：最好的（排在第一位的，最优的）
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government's prime concern is the stability of the economy."（政府的首要关切是经济的稳定。）——考研高频表达
-> - "She is in the prime of her career."（她正处于事业的黄金时期。）——考研高频表达
+> - This is a prime example of 1930s architecture . `[例]`
+> - The president is a prime (= likely ) target for the assassin's bullet . `[例]`
+> - The hotel is in a prime location in the city centre . `[例]`
 
 ---
 

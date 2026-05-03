@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生命力，活力**==；②==**生机，热情**==；③持久力，持续力；
+**n.** ①==**生命力，活力**== `N`；②==**生机，热情**== `N`；③==**持久力，持续力**== `N`；
 
 > [!tip] 原型义
 > **原型义**：生命力，维持生命所需的能量
@@ -133,8 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The city's cultural vitality is evident in its thriving arts scene."（这座城市蓬勃发展的艺术景象彰显了其文化活力。）
-> - "Regular exercise can help maintain physical vitality in old age."（规律运动有助于在老年时保持身体活力。）
+> - According to the packet , these vitamin pills will restore lost vitality. `[例]`
+> - The new factory should improve the economic vitality of the region . `[例]`
 
 ## 复习记录
 

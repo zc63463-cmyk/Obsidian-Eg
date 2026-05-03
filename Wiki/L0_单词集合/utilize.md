@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "utilize renewable energy sources"（利用可再生能源）——考研阅读/翻译环境类高频搭配
-> - "fully utilize human resources"（充分利用人力资源）——考研阅读/写作管理类语料
-> - "utilize every opportunity"（利用每一个机会）——考研写作常用表达
+> - The vitamins come in a form that is easily utilized by the body . `[例]`
+> - The library’s great collection allowed me to utilize many rare sources . `[例]`
+> - The investment strategy is utilized by experienced multinationals . `[例]`
 
 ---
 

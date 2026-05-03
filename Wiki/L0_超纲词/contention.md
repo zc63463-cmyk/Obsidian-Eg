@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**争论，争辩**== `N` [通用] `in N` [正式]；②==**论点，主张**== `N that-clause` [正式]；③==**竞争，争夺**== `in N for N` [正式]；
+**n.** ①==**争论，争辩**== `N`；②==**论点，主张**== `N`；③==**竞争，争夺**== `N`；
 
 > [!tip] 原型义
 > **原型义**：拉紧到一起→争夺（双方各拉一方，形成争夺）
@@ -131,8 +131,8 @@ con-(共同/一起) + [[tend-tens|ten-/tent-]](拉伸/趋向) + -ion(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The allocation of resources has always been a bone of contention between the two departments. `[例]`
-> - My contention is that the policy will ultimately harm the very communities it aims to protect. `[例]`
+> - There's a lot of contention about that issue - for every person firmly in favour , there's someone fiercely against it. `[例]`
+> - The issue has been settled - it's no longer in contention. `[例]`
 
 ## 复习记录
 

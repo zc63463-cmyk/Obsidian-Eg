@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**注意到，意识到**==；②引起……的注意；
-**n.** ①==**通知，公告**==；②注意；③短评，评论；
+**v.** ①==**注意到，意识到**== `V`；②==**引起……的注意**== `V`；
+**n.** ①==**通知，公告**== `N`；②==**注意**== `N`；③==**短评，评论**== `N`；
 
 > [!tip] 原型义
 > **原型义**：知道（源自拉丁语 *notus* "已知的"，PIE 词根 *\*gno-* "知道"）
@@ -130,8 +130,9 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Researchers have noticed that..."（研究人员注意到……——考研阅读高频句式）
-> - "It has come to our notice that..."（我们注意到……——正式通知常用表达）
+> - Directions: Write a notice to recruit a student for Prof. `[真题]`
+> - Do not use your own name in the notice. `[真题]`
+> - Mary waved at the man but he didn't seem to notice. `[例]`
 
 
 ---

@@ -127,8 +127,9 @@ ex-(出、向外) + erc(围栏、圈禁，拉丁语 *arcere*) + -ise(动词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Regular exercise is essential for maintaining good health."（定期锻炼对保持健康至关重要。）
-> - "The government should exercise caution in implementing new policies."（政府在实施新政策时应谨慎行事。）
+> - Swimming is my favourite form of exercise. `[例]`
+> - The doctor recommended that he get more exercise, at least three times a week , and try to also get more sleep . `[例]`
+> - You really should take more exercise. `[例]`
 
 
 ---

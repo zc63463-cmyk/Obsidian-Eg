@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使合格，使有资格**==（赋予某人做某事的权利或能力）；②==**限定，修饰**==（附加条件或限制）；
-**vi.** ①==**取得资格**==（通过考试、训练等达标）；②==**取得参赛资格**==（体育/竞赛语境）；
+**vt.** ①==**使合格，使有资格**== `V N`（赋予某人做某事的权利或能力）；②==**限定，修饰**== `V N`（附加条件或限制）；
+**vi.** ①==**取得资格**== `V`（通过考试、训练等达标）；②==**取得参赛资格**== `V`（体育/竞赛语境）；
 
 > [!tip] 原型义
 > **原型义**：使具有合格性质（qual = 什么性质，-ify = 使 → 使具有合格性质）
@@ -139,11 +139,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Only members qualify for the discount."（只有会员才有资格享受折扣）——常见表达
-> - "She qualified as a lawyer last year."（她去年取得了律师资格）——职业语境
-> - "I'd like to qualify my earlier statement."（我想对我之前的陈述加以限定）——学术/讨论语境
-> - "He is well qualified for the position."（他非常胜任这个职位）——求职语境
-> - "qualify for the Olympic Games"（取得奥运会参赛资格）——体育语境
+> - She hopes to qualify ( as a lawyer ) at the end of the year . `[例]`
+> - She doesn't qualify for maternity leave because she hasn't been in her job long enough. `[例]`
+> - To qualify for the competition you need to be over 18. `[例]`
+> - Nigeria was the first team to qualify for the World Cup. `[例]`
+> - England has to win tonight's qualifying match to advance to the next round of the competition . `[例]`
 
 ---
 

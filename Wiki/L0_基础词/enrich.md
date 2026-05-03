@@ -125,8 +125,9 @@ en-(使动前缀，使…成为) + rich(富有) → 使富有
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reading can greatly enrich your mind and broaden your horizons."（阅读能极大地丰富你的头脑并拓宽你的视野）
-> - "The government has implemented policies to enrich the cultural life of the people."（政府实施了丰富人民文化生活的政策）
+> - Fertilizer helps to enrich the soil . `[例]`
+> - My life was greatly enriched by knowing her. `[例]`
+> - He claimed that the large stores were enriching themselves at the expense of their customers . `[例]`
 
 
 ---

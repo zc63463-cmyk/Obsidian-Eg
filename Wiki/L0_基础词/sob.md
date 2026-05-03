@@ -125,8 +125,9 @@ sob 是一个拟声词（imitative origin），约公元1200年出现于中古�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She buried her face in the pillow and sobbed quietly, overwhelmed by the grief of losing her only child."（她把脸埋在枕头里默默地抽泣，失去唯一孩子的悲痛令她崩溃——考研阅读情感话题相关表达）
-> - "He could hear the faint sobs coming from the next room, which made him realize how deeply the news had affected his mother."（他能听到隔壁房间传来微弱的啜泣声，这让他意识到这个消息对母亲的影响有多深——考研翻译情感话题相关表达）
+> - I found her sobbing in the bedroom because she'd broken her favourite doll . `[例]`
+> - You're not going to help matters by lying there sobbing! `[例]`
+> - I could hear her sobs from the next room . `[例]`
 
 
 ---

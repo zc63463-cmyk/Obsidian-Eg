@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**很可能的，大概的**==；②有根据的，可信的；
+**adj.** ①==**很可能的，大概的**== `adj`；②==**有根据的，可信的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：可证明的（经得起检验的，拉丁语 *probabilis* = "可证明的/值得认可的"）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is highly probable that the company will announce its merger plan next week."（公司极有可能在下周宣布合并计划）
-> - "The police had probable cause to search the suspect's vehicle."（警方有合理根据搜查嫌疑人的车辆）
+> - The probable cause of death was heart failure . `[例]`
+> - It is highly probable that at least a significant portion of these stars will have planets that are Earth-like. `[例]`
+> - An election in June seems increasingly probable. `[例]`
 
 
 ---

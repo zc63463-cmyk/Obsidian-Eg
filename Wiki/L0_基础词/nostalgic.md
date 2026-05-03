@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**怀旧的，思乡的**==；②引起怀旧之情的；
+**adj.** ①==**怀旧的，思乡的**== `adj`；②==**引起怀旧之情的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：回家之痛（思乡、怀念过去的痛苦/甜蜜）
@@ -125,8 +125,9 @@ nost(回家，希腊语 *nostos*) + alg(痛苦，希腊语 *algos*) + -ic(形容
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people feel nostalgic about their childhood."（许多人对童年感到怀念——考研文学类阅读）
-> - "The old photographs filled her with a nostalgic longing for the past."（那些老照片让她充满了对过去的怀旧渴望——考研文学类阅读）
+> - Talking about our old family holidays has made me feel all nostalgic. `[例]`
+> - We'll take a nostalgic look at the musical hits of the 60s. `[例]`
+> - Hanif Abdurraqib considers our nostalgic longing for inconvenience. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**麻雀**==；②（泛指）小型雀类鸟类；
+**n.** ①==**麻雀**== `N`；②==**（泛指）小型雀类鸟类**== `N`；
 
 > [!tip] 原型义
 > **原型义**：麻雀（一种常见的小型鸟类，体型小、棕色羽毛、善于在人类居住区生活）
@@ -121,7 +121,8 @@ sparrow（源自古英语 *spearwa*，原始日耳曼语 *sparwan*）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The sparrow is one of the most widely distributed birds in the world."（麻雀是世界上分布最广的鸟类之一。）
+> - Goldfinches are about the size of a sparrow . `[例]`
+> - The resulting rich royal blue outfit, which the doctor wore for a charity event, bears images related to hope and sparrows , which Bedlack told Atwood reminded him of a patient's tattoos. `[例]`
 
 ## 复习记录
 

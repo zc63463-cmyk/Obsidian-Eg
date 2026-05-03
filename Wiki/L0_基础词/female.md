@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Americans are less doubtful when it comes to politics: 73% expect to see a female president in their lifetime."（在政治方面，美国人较少怀疑：73%的人预期在自己有生之年能看到一位女总统。——2019年6月四级真题阅读 Section C）
-> - "Female applicants to postdoctoral positions in geosciences were nearly half as likely to receive excellent letters of recommendation, compared with their male counterparts."（与男性申请者相比，申请地球科学博士后职位的女性获得优秀推荐信的可能性几乎只有一半。——2017年12月四级真题阅读 Section C）
+> - She was voted the best female vocalist . `[例]`
+> - She was the school's first trans female athlete . `[例]`
+> - Female lions do not have manes . `[例]`
 
 
 ---

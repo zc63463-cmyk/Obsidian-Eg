@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**笔记，记录**==；②==**注释，批注**==；③==**便条，短信**==；④==**注意，留意**==；⑤==**钞票，票据**==；
-**vt.** ①==**注意，留意**==；②==**记录，记下**==；
+**n.** ①==**笔记，记录**== `N`；②==**注释，批注**== `N`；③==**便条，短信**== `N`；④==**注意，留意**== `N`；⑤==**钞票，票据**== `N`；
+**vt.** ①==**注意，留意**== `V N`；②==**记录，记下**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：留下标记以备记忆（用文字或符号在某个地方做标记，以便日后回忆或提醒）
@@ -138,8 +138,9 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to note）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "'The term anti-science can lump together too many, quite different things,' notes Harvard University philosopher Gerald Holton in his 1993 work Science and Anti-Science."（哈佛大学哲学家杰拉尔德·霍尔顿在其1993年的著作《科学与反科学》中指出，'反科学'一词可以把太多截然不同的事物混为一谈。）——1998考研英语一阅读
-> - "It is important to note that the survey results are based on a relatively small sample."（需要注意的是，调查结果基于一个相对较小的样本。）——考研高频表达
+> - He left a note to say he would be home late. `[例]`
+> - There's a note on the door saying when the shop will open again. `[例]`
+> - The wind blew my notes all over the room . `[例]`
 
 ---
 

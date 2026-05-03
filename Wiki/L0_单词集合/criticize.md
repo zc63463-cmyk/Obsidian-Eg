@@ -124,8 +124,9 @@ crit(判断) + -ic(与...有关的) + -ize(使...，做...)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government was criticized for its slow response to the natural disaster."（政府因对自然灾害反应迟缓而受到批评。）——考研高频表达
-> - "The report sharply criticized the company's safety standards and working conditions."（报告严厉批评了公司的安全标准和工作条件。）——考研高频表达
+> - The government is being widely criticized in the media for failing to limit air pollution . `[例]`
+> - We'll get nowhere if all you can do is criticize. `[例]`
+> - We're a group of artists who meet to discuss ideas and criticize each other's work . `[例]`
 
 ---
 

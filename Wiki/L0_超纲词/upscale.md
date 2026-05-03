@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**高档的，高端的**==；②面向高收入阶层的；
-**v.** ①升级，提高（产品、服务等）的档次；
+**adj.** ①==**高档的，高端的**== `adj`；②==**面向高收入阶层的**== `adj`；
+**v.** ①==**升级，提高（产品、服务等）的档次**== `V`；
 
 > [!tip] 原型义
 > **原型义**：向上提升规模的（up-向上 + scale规模 → 向上提升规模→高档的）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company is planning to open several upscale hotels in major cities across Asia.（该公司计划在亚洲各大城市开设几家高档酒店。）
-> - The neighborhood has become increasingly upscale, with property prices rising sharply over the past decade.（该社区变得越来越高档，过去十年房价急剧上涨。）
+> - The old hotel has gone upscale in recent years . `[例]`
+> - I upscaled the quantities in the recipe by three, and made more than enough for four people . `[例]`
 
 ## 复习记录
 

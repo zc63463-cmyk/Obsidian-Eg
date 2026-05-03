@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The predominant factor contributing to the company's success was its ability to adapt quickly to changing market conditions."（促成公司成功的最主要因素是其快速适应不断变化的市场条件的能力——考研阅读商业话题相关表达）
-> - "In predominantly rural areas, access to higher education remains limited compared to urban centers."（在以农村为主的地区，与城市中心相比，接受高等教育的机会仍然有限——考研阅读教育社会话题相关表达）
+> - Research forms the predominant part of my job . `[例]`
+> - Dancers have a predominant role in this performance . `[例]`
+> - Women have a predominant role as health care professionals . `[例]`
 
 
 ---

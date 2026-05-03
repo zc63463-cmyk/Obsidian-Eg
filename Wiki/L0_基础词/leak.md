@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Several massive leakages of customer and employee data this year — from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley — have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities."（今年发生了多起消费者和员工信息的重大泄密事件——涉及时代华纳、美国国防部承包商科学应用国际公司以及加州大学伯克利分校等不同机构——这使得管理人员急忙检查其复杂的IT系统和业务流程，以寻找潜在的安全漏洞。——2007年考研英语一Text 4）
-> - "Meanwhile, the theft of information about some 40 million credit-card accounts in America, disclosed on June 17th, overshadowed a hugely important decision a day earlier by America's Federal Trade Commission."（与此同时，美国约4000万信用卡账户信息被盗事件于6月17日被披露，使美国联邦贸易委员会前一天做出的一项极其重要的决定黯然失色。——2007年考研英语一Text 4）
+> - Water was leaking from the pipe . `[例]`
+> - Oil leaked out of the car . `[例]`
+> - The car leaked oil all over the drive . `[例]`
 
 
 ---

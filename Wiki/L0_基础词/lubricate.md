@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The machine needs to be regularly lubricated to function properly."（这台机器需要定期润滑才能正常运转）
-> - "Money lubricates the wheels of commerce."（金钱润滑了商业的齿轮——使商业运转顺畅）
+> - A car engine needs to be well lubricated with oil . `[例]`
+> - Applying a few drops of oil on a key will clean and lubricate the moving parts of the lock , extending its life . `[例]`
+> - Disconnect the ignition and rely on the starter motor to turn the engine several times so that oil can lubricate the moving parts . `[例]`
 
 
 ---

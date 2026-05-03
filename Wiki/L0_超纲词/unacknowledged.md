@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**未被承认的，未获认可的**==；②未被注意到的，被忽视的；
+**adj.** ①==**未被承认的，未获认可的**== `adj`；②==**未被注意到的，被忽视的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：未被承认的（没有被给予知识/认可）
@@ -126,8 +126,8 @@ un-(不，否定前缀) + ac-(=ad-, 向/加强) + [[know]](知道) + -ledg(名�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She was the unacknowledged leader of the group."（她是这个群体中未被承认的领袖。）
-> - "The role of women in history has often gone unacknowledged."（女性在历史中的作用常常被忽视。）
+> - Her contibution to the field of astronomy often goes unacknowledged. `[例]`
+> - Workers can feel unacknowledged in a large organization . `[例]`
 
 ## 复习记录
 

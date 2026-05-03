@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The naked truth is that many developing countries are still struggling to provide basic healthcare for their populations."（赤裸裸的真相是，许多发展中国家仍在努力为其人民提供基本医疗服务——考研阅读医疗话题相关表达）
-> - "Changes in the ecosystem are often too subtle to be visible to the naked eye, yet their cumulative effects can be devastating."（生态系统中的变化往往太过细微，肉眼无法察觉，但其累积效应可能是毁灭性的——考研翻译环境话题相关表达）
+> - In my dream , I arrived at school and suddenly realized I was stark naked (= completely naked) . `[例]`
+> - He was naked to the waist (= not wearing clothes above his waist ) . `[例]`
+> - The children were half naked (= partly naked) . `[例]`
 
 
 ---

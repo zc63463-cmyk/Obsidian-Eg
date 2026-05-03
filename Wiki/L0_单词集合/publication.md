@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**出版物，出版**==；②==**发表，公布**==；③==**发行，出版行为**==；
+**n.** ①==**出版物，出版**== `N`；②==**发表，公布**== `N`；③==**发行，出版行为**== `N`；
 
 > [!tip] 原型义
 > **原型义**：使信息公之于众的产物（将信息从私人领域推向公众领域的过程或产物）
@@ -130,8 +130,9 @@ pub-（=populus，人民，来自拉丁语 *populus*，people）+ -lic（形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies."（今天读这些书，不禁惊叹于这样一个事实：它们学术性的内容曾经被认为适合在大众日报上发表。）——2010考研英语一阅读
-> - "Scientific publishing has long been a licence to print money."（科学出版长期以来一直是一本万利的行当。）——2020考研英语一阅读
+> - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
+> - The brochure will be ready for publication in September . `[例]`
+> - Will you arrange the publication of the names of the winners ? `[例]`
 
 ---
 

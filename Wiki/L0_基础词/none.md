@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**pron.** ①==**没有一个，毫无**==；
-**adv.** ①==**毫不，一点也不**==（the + 比较级 + none + the + 比较级）；
-**n.** ①没有任何人或物
+**pron.** ①==**没有一个，毫无**== `pron`；
+**adv.** ①==**毫不，一点也不**== `adv`（the + 比较级 + none + the + 比较级）；
+**n.** ①==**没有任何人或物**== `N`
 
 > [!tip] 原型义
 > **原型义**：没有一个（not one）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "None of the students passed the exam."（没有一个学生通过了考试。——教育语料）
-> - "She is second to none in her field."（她在她的领域中首屈一指。——评价语料）
+> - I'd like some more cheese ." "I'm sorry there's none left ". `[例]`
+> - Do you have any idea how much this cost ?" "None at all. `[例]`
+> - It makes no sense , none whatsoever . `[例]`
 
 
 ---

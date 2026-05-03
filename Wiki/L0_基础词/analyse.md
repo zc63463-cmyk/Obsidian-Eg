@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Professional scientists are expected to know how to analyze data, but statistical errors are alarmingly common in published research."（专业科学家应该知道如何分析数据，但统计错误在已发表的研究中却非常普遍。——2015年考研阅读原文）
-> - "Management requires enthusiasm and intuition rather than merely an ability to analyse data and invent strategies."（管理需要热情和直觉，而不仅仅是分析数据和制定策略的能力。——考研阅读常见表达）
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+> - Researchers analysed the purchases of 6,300 households . `[例]`
+> - The book brilliantly analyses the cultural struggles taking place in America during the 1960s. `[例]`
 
 
 ---

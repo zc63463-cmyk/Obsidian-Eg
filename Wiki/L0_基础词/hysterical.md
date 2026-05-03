@@ -122,7 +122,9 @@ hyster-(子宫，希腊语 *hystera*) + -ical(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The crowd became hysterical when the fire broke out in the theater."（剧院发生火灾时，人群变得歇斯底里）
+> - Calm down, you're getting hysterical. `[例]`
+> - The police were accused of hysterical over-reaction. `[例]`
+> - Hysterical laughter (= uncontrolled laughter ). `[例]`
 
 
 ---

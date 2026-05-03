@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**合宪性，符合宪法**== `the N of N` [正式]；②==**宪政原则**== `N of N` [正式]；
+**n.** ①==**合宪性，符合宪法**== `N`；②==**宪政原则**== `N`；
 
 > [!tip] 原型义
 > **原型义**：符合宪法的性质/状态
@@ -125,8 +125,8 @@ con-(共同) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词) + -al
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The court will rule on the constitutionality of the new immigration law. `[例]`
-> - Several states challenged the constitutionality of the federal healthcare mandate. `[例]`
+> - The committee chose to ignore questions of the constitutionality of the Senator's actions . `[例]`
+> - They questioned the constitutionality of the law. `[例]`
 
 ## 复习记录
 

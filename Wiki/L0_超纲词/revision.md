@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**修订，修改**==；②复习，温习；③修订版；
+**n.** ①==**修订，修改**== `N`；②==**复习，温习**== `N`；③==**修订版**== `N`；
 
 > [!tip] 原型义
 > **原型义**：再次看（重新审视已有的内容）
@@ -131,8 +131,8 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The manuscript underwent several revisions before it was accepted for publication."（手稿在被接受出版前经历了多次修订。）
-> - "Students should start their exam revision well in advance."（学生应该提前开始考试复习。）
+> - According to Branch, state-level science standards in the US __ _ A. call for regular revision B. require urgent application C. have limited influence D. cater to local needs 25. `[真题]`
+> - These proposals will need a lot of revision. `[例]`
 
 ## 复习记录
 

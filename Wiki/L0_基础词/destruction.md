@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The war caused widespread destruction of infrastructure and housing."（战争造成了基础设施和住房的大规模破坏）
-> - "The destruction of tropical rainforests is a global environmental crisis."（热带雨林的破坏是全球性的环境危机）
+> - Many people are very concerned about the destruction of the rainforests . `[例]`
+> - Unusually high winds left a trail of destruction over the area . `[例]`
+> - Weapons of mass destruction (= those which kill or hurt large numbers of people ). `[例]`
 
 
 ---

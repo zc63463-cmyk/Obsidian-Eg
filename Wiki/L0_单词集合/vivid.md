@@ -134,8 +134,9 @@ vit/viv(生命，活) + -id(形容词后缀，表示"具有...性质的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report paints a vivid picture of life in the city."（报告生动地描绘了都市生活。）——考研高频表达
-> - "I had a very vivid dream which really upset me."（我做了一个非常生动的梦，这梦让我很不安。）——考研高频表达
+> - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
+> - While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely. `[真题]`
+> - He's one of those people with a very vivid imagination - every time he hears a noise he's convinced it's someone breaking in. `[例]`
 ---
 
 

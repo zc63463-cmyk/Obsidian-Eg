@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**剧变，动荡**==；②（地壳的）隆起；
+**n.** ①==**剧变，动荡**== `N`；②==**（地壳的）隆起**== `N`；
 
 > [!tip] 原型义
 > **原型义**：向上掀翻（up-向上 + heave举起 + -al名词后缀 → 向上举起→掀翻）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The Industrial Revolution brought about massive social upheaval as rural populations migrated to cities.（工业革命引发了巨大的社会剧变，农村人口大量涌入城市。）
-> - The country is still recovering from the political upheavals of the past decade.（该国仍在从过去十年的政治动荡中恢复。）
+> - Yesterday's coup brought further upheaval to a country already struggling with famine . `[例]`
+> - I'm not sure it's worth the upheaval of moving to gain just a little more space . `[例]`
 
 ## 复习记录
 

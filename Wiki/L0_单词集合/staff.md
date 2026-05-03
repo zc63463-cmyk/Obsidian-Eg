@@ -125,9 +125,9 @@ staff 源自古英语 *stæf*（棍、杖），与 [[st-sta-stat|sta]](站立) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The school needs to recruit more teaching staff to meet the growing demand for education."（学校需要招聘更多教师以满足日益增长的教育需求。）——考研高频表达
-> - "All staff members are required to attend the annual training session."（所有员工都必须参加年度培训。）——考研高频表达
-> - "She is a senior editor on staff at the newspaper."（她是该报纸的资深编辑。）——考研高频表达
+> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+> - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
+> - Waterstones staff hesitate to promote big-name authors' books. `[真题]`
 
 ---
 

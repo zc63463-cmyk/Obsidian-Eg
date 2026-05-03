@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**值得信任的品质，可靠性，可信赖性**==；②诚实正直的品格；
+**n.** ①==**值得信任的品质，可靠性，可信赖性**== `N`；②==**诚实正直的品格**== `N`；
 
 > [!tip] 原型义
 > **原型义**：值得被信任的品质（一个人可以被托付、依靠的属性）
@@ -133,8 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The trustworthiness of the information on the Internet is often questionable, requiring users to develop critical evaluation skills."（互联网上信息的可信度常常值得怀疑，需要用户培养批判性评估能力——阅读理解高频话题）
-> - "In evaluating scientific claims, the trustworthiness of the evidence must be carefully assessed."（在评估科学论断时，必须仔细评估证据的可信度——学术写作高频表达）
+> - Many people said honesty and trustworthiness were the qualities that most influenced how they voted . `[例]`
+> - Those actions have led you to doubt his trustworthiness and integrity . `[例]`
 
 ## 复习记录
 

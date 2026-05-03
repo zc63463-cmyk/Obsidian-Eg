@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Researchers have spotted a significant correlation between prolonged screen time and declining mental health among adolescents, prompting calls for stricter regulations on social media usage."（研究人员发现了长时间使用屏幕与青少年心理健康下降之间的显著相关性，这引发了对社交媒体使用实施更严格监管的呼声——考研阅读科技与健康话题相关表达）
-> - "The on-the-spot investigation revealed that the factory had been illegally discharging toxic waste into the river for years, causing severe environmental damage to the surrounding ecosystem."（现场调查发现，该工厂多年来一直在向河流非法排放有毒废物，对周边生态系统造成了严重的环境破坏——考研阅读环保话题相关表达）
+> - He had a spot of grease on his tie . `[例]`
+> - I wore that skirt with the green spots. `[例]`
+> - Teenagers often suffer a lot from spots. `[例]`
 
 
 ---

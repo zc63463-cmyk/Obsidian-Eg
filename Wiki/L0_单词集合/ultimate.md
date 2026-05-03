@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ultimate goal of education is to develop independent thinkers."（教育的最终目标是培养独立思考者。）——考研写作/阅读高频句式
-> - "Ultimately, the decision rests with the board of directors."（归根到底，决定权在董事会手中。）——考研翻译/阅读
-> - "Climate change is the ultimate challenge of our time."（气候变化是我们这个时代的终极挑战。）——考研阅读
+> - Of course the ultimate responsibility for the present conflict without doubt lies with the aggressor . `[例]`
+> - My manager will make the ultimate decision about who to employ . `[例]`
+> - Infidelity is the ultimate betrayal . `[例]`
 
 ---
 

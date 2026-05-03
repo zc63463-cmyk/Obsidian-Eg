@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "meet the emission reduction targets"（达到减排目标）——考研阅读中环境政策类话题高频搭配
-> - "become a target of cyber attacks"（成为网络攻击的目标）——科技/安全类阅读话题
-> - "target audience for the advertisement"（广告的目标受众）——商业/媒体类阅读语境
-> - "on target to achieve the goal"（有望实现目标）——商业/管理类文本
+> - Lesser-known PRH writers become the target of criticism. `[真题]`
+> - In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation. `[真题]`
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+> - Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target cm,tomers. `[真题]`
 
 ---
 

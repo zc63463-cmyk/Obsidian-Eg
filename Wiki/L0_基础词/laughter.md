@@ -124,8 +124,9 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Ancient Greek philosopher Aristotle viewed laughter as 'a bodily exercise precious to health.'"（古希腊哲学家亚里士多德将笑声视为"对健康有益的身体锻炼"——2011年考研英语一完形填空）
-> - "Laughter does produce short-term changes in the function of the heart and its blood vessels, boosting heart rate and oxygen consumption."（笑声确实会引起心脏及其血管功能的短期变化，提高心率和氧气消耗量——2011年考研英语一完形填空）
+> - She roared with laughter (= laughed very loudly ) . `[例]`
+> - As we approached the hall we could hear the sound of laughter. `[例]`
+> - Laughter from the living room kept me awake past midnight . `[例]`
 
 
 ---

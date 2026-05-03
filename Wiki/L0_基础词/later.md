@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He described this economic impatience as 'children picking plums out of a pudding and eating them at once' rather than setting them aside for later."（他把这种经济上的不耐烦描述为"孩子们从布丁中挑出李子，立刻吃掉"，而不是把它们放在一边等着最后吃掉——2019年考研英语一 Text 1）
-> - "We're going to Rome later in the year."（我们今年晚些时候要去罗马——通用语料）
+> - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
+> - We're going to Rome later in the year. `[例]`
+> - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
 
 
 ---

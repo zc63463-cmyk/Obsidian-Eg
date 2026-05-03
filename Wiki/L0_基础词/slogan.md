@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Republicans tried to trump this with their slogan."（共和党人试图用他们的口号来胜出。——考研相关语料）
-> - "The ceremony was disrupted by unprecedented heckling and slogan-chanting."（典礼因前所未有的起哄和喊口号声而中断。——考研相关语料）
-> - "'the survival of the fittest,' a slogan that virtually preempted all debate."（"适者生存"——一个几乎无可辩驳的口号。——考研相关语料）
+> - That old campaign slogan really means that there should be jobs and enough food for all citizens . `[例]`
+> - The company's advertising slogan in the 1970s and 1980s was "You can be sure of Shell". `[例]`
+> - The crowd began chanting anti-government slogans . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**笨重的，难以操控的**==；②臃肿的，难以管理的（组织、系统等）；
+**adj.** ①==**笨重的，难以操控的**== `adj`；②==**臃肿的，难以管理的（组织、系统等）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：难以操控的（un-不 + wield操控 + -y充满...的 → 难以操控的）
@@ -126,8 +126,8 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company's unwieldy management structure made it difficult to respond quickly to market changes.（公司臃肿的管理结构使其难以快速应对市场变化。）
-> - Medieval armor was remarkably unwieldy, limiting the knight's mobility on the battlefield.（中世纪盔甲极其笨重，限制了骑士在战场上的机动性。）
+> - A piano is a very unwieldy item to get down a flight of stairs . `[例]`
+> - One disadvantage for the bank is that its huge size - over 15,000 staff - makes it unwieldy and slow-moving. `[例]`
 
 ## 复习记录
 

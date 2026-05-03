@@ -124,8 +124,9 @@ cargo 源自西班牙语 *cargar*（装载），最终来自拉丁语 *carricare
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Cargo aircraft, in contrast, might be easier to reschedule, as might routine military flight."（相比之下，货运飞机可能更容易重新安排时间表，常规军事飞行也是如此——2010年考研英语二阅读理解Section II）
-> - "A fishing vessel and a cargo ship collided in rough seas."（一艘捕鱼船和一艘货船在波涛汹涌的海上相撞了——考研阅读相关语料）
+> - The ship was carrying a cargo of wood . `[例]`
+> - The department inspects cargo coming into Hawaii. `[例]`
+> - TCL Carriers Ltd was the operator of the vessel on which the cargo was carried . `[例]`
 
 
 ---

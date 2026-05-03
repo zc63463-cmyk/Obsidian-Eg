@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有生成能力的，有生产力的**== `generative power` [学术]；②==**生成的，生成的（语言学中指能生成无限句子的规则系统）**== `generative grammar` [学术]；③==**（AI语境）生成式的**== `generative AI` [科技]；
+**adj.** ①==**有生成能力的，有生产力的**== `adj`；②==**生成的，生成的（语言学中指能生成无限句子的规则系统）**== `adj`；③==**（AI语境）生成式的（利用AI算法创造新内容）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：有生成能力的（能够从自身产生新事物的）
@@ -136,8 +136,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Generative AI has transformed the way we create content across industries. `[例]`
-> - Chomsky's theory of generative grammar revolutionized the field of linguistics. `[例]`
+> - Analysts say the business is strongly cash generative and has a solid business model . `[例]`
+> - The generative process just speeds up the play and directs it to often find more interesting designs and potentially to solve difficult problems. `[例]`
 
 ## 复习记录
 

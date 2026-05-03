@@ -130,8 +130,9 @@ al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These terms are also intended to infuse work with meaning—and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm."（这些术语也旨在赋予工作以意义——正如另一位教授拉凯什·库拉纳指出的那样，增加对公司的忠诚度——2015年英语二阅读理解）
-> - "Soldiers have to swear allegiance to the Crown/the King."（士兵必须宣誓效忠国王——考研高频搭配表达）
+> - In many American schools , the students used to pledge allegiance to the flag at the beginning of the school day . `[例]`
+> - They all pledged allegiance by kissing the king's hand . `[例]`
+> - As an Englishman who'd lived for a long time in France, he felt a certain conflict of allegiances when the two countries played soccer . `[例]`
 
 
 ---

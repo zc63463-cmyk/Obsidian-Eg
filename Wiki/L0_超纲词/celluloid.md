@@ -125,8 +125,8 @@ cellulose（纤维素）+ -oid（像……的，类似……的）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Hollywood's celluloid dreams have captivated audiences for over a century. `[例]`
-> - She flashed a celluloid smile that fooled no one. `[例]`
+> - Such things are not usually shown on celluloid. `[例]`
+> - Readers are often disappointed when the words on the page are transferred to celluloid. `[例]`
 
 ## 复习记录
 

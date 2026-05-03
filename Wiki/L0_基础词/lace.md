@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic report was laced with cautious optimism, acknowledging both the signs of recovery and the persistent risks ahead."（这份经济报告充满了谨慎的乐观，既承认了复苏的迹象，也指出了前方持续存在的风险——考研翻译经济话题相关表达）
-> - "Traditional lace-making, once a thriving cottage industry in many European regions, has now become a cherished cultural heritage."（传统的蕾丝制作曾是欧洲许多地区繁荣的家庭手工业，如今已成为珍贵的文化遗产——考研阅读文化话题相关表达）
+> - She was wearing a pretty lace dress . `[例]`
+> - In Burano, the days of ladies making lace on the doorsteps of their brightly coloured houses is all but history . `[例]`
+> - The gown is trimmed with lace and sequins . `[例]`
 
 
 ---

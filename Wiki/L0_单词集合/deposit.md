@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bank requires a minimum **deposit** of $500 to open an account.（银行要求至少存入500美元才能开户。）
-> - Rich **deposits** of gold were discovered in the river valley.（在河谷中发现了丰富的金矿床。）
+> - The flood waters fell , depositing mud over the whole area . `[例]`
+> - The bus deposited me miles from anywhere . `[例]`
+> - The cuckoo deposits her eggs in other birds ' nests . `[例]`
 
 ---
 

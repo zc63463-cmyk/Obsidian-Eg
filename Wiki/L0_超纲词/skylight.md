@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**天窗，屋顶窗**==；②天空的光；
+**n.** ①==**天窗，屋顶窗**== `N`；②==**天空的光**== `N`；
 
 > [!tip] 原型义
 > **原型义**：安装在屋顶上用于采光的窗户（让天空的光线进入室内）
@@ -124,7 +124,8 @@ sky(天空) + light(光/灯)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Sunlight streamed through the skylight, illuminating the entire room."（阳光透过天窗洒进来，照亮了整个房间。）
+> - Putting in a skylight made the attic seem big and bright . `[例]`
+> - There is, however, a nice hood vent and a lovely skylight . `[例]`
 
 ## 复习记录
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**用拳猛击**==；②==**打孔**==；③给……以深刻印象；
-**n.** ①==**一拳，打击**==；②==**力量，效力**==；③打孔器；④（饮料）潘趣酒；
+**v.** ①==**用拳猛击**== `V`；②==**打孔**== `V`；③==**给……以深刻印象**== `V`；
+**n.** ①==**一拳，打击**== `N`；②==**力量，效力**== `N`；③==**打孔器**== `N`；④==**（饮料）潘趣酒**== `N`；
 
 > [!tip] 原型义
 > **原型义**：用拳猛击（紧握拳头用力打击）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy packs a powerful punch in reducing carbon emissions."（新政策在减少碳排放方面具有强大的效力——考研阅读环保话题）
-> - "Workers punch in at 9 AM and punch out at 5 PM."（工人们早上9点打卡上班，下午5点打卡下班——考研阅读常见搭配）
+> - He was knocked out by a punch in the face . `[例]`
+> - Some of the crowd started getting aggressive and threw a punch or two (= hit people ) . `[例]`
+> - The former champion hardly landed a punch in rounds four and five. `[例]`
 
 
 ---

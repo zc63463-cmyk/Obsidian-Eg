@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**管子，管状物**==；②（英）地铁（=the Underground）；③试管；④软管（牙膏等）；⑤电子管，真空管；
-**v.** ①把……装管；
+**n.** ①==**管子，管状物**== `N`；②==**（英）地铁（=the Underground）**== `N`；③==**试管**== `N`；④==**软管（牙膏等）**== `N`；⑤==**电子管，真空管**== `N`；
+**v.** ①==**把……装管**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：管子（中空的圆柱体）
@@ -128,7 +128,9 @@ tube 源自拉丁语 *tubus*（管子、管道），词源不明。可能与拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Most Londoners prefer to take the tube rather than drive to work.（大多数伦敦人更愿意坐地铁而不是开车上班。）
+> - Gases produced in the reaction pass through this tube and can then be collected . `[例]`
+> - What's on the tube this weekend ? `[例]`
+> - She lay in the hospital , tubes going in and out of her. `[例]`
 
 
 ---

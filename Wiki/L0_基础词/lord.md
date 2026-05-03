@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In feudal society, lords owned most of the land while peasants worked on it."（在封建社会，领主拥有大部分土地，农民在上面劳作——考研历史类阅读）
-> - "The House of Lords serves as the upper house of the UK Parliament."（上议院是英国议会的上院——考研政治类阅读）
+> - His gang have been engaged in a bloody feud with a rival crime lord. `[例]`
+> - Several alleged drug lords are to be put on trial . `[例]`
+> - He likes to lord it over his little sister . `[例]`
 
 
 ---

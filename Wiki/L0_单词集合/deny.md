@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The defendant **denied** all the charges brought against him.（被告否认了对他的所有指控。）
-> - It cannot be **denied** that education plays a crucial role in personal development.（不可否认，教育在个人发展中起着至关重要的作用。）
+> - He said the police assaulted him while he was in custody , a claim which the police deny. `[例]`
+> - He will not confirm or deny the allegations . `[例]`
+> - There's no denying that this has been a difficult year for the company . `[例]`
 
 ---
 

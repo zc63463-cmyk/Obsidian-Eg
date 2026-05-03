@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**pron.** ①==**没有东西，什么也没有**==；②无关紧要的事；
-**n.** ①无，虚无；②微不足道的事；
-**adv.** ①毫不，一点也不（用于强调）；
+**pron.** ①==**没有东西，什么也没有**== `pron`；②==**无关紧要的事**== `pron`；
+**n.** ①==**无，虚无**== `N`；②==**微不足道的事**== `N`；
+**adv.** ①==**毫不，一点也不（用于强调）**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：没有任何东西（no + thing 的字面组合）
@@ -125,8 +125,9 @@ no(没有) + thing(东西) → nothing(没有东西)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is nothing permanent except change."（唯一不变的就是变化本身——考研高频哲学表达）
-> - "Nothing is more important than education in shaping one's future."（没有什么比教育在塑造未来方面更重要——考研写作常用句式）
+> - There's nothing in the drawer - I took everything out. `[例]`
+> - Nothing I could say would cheer her up. `[例]`
+> - I have nothing new to tell you. `[例]`
 
 
 ---

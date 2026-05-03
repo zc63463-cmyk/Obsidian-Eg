@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even though the task was difficult, they completed it on time."（即使任务困难，他们还是按时完成了。）——考研翻译常见句型
-> - "..., though"（……，不过）——句末副词用法在考研阅读中频繁出现，表示补充转折
-> - "as though"（好像，仿佛）——文学类、描述类文本中常见
+> - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
+> - She hasn't called, even though she said she would. `[例]`
+> - They're coming next week , though I don't know which day . `[例]`
 
 ---
 

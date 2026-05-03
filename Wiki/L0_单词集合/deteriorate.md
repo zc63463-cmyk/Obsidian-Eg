@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The patient's condition deteriorated rapidly overnight."（病人的病情一夜之间迅速恶化。）——考研阅读真题
-> - "Relations between the two countries have deteriorated significantly in recent months."（两国关系在最近几个月显著恶化。）——考研高频表达
+> - She was taken into hospital last week when her condition suddenly deteriorated. `[例]`
+> - The political situation in the region has deteriorated rapidly . `[例]`
+> - If the economy continues to deteriorate, it will affect the firm's future performance . `[例]`
 
 ---
 

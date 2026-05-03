@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents."（BIO最近召开了一次会议，其中包括就专利领域的变化对律师进行指导——2012年考研Text 3）
-> - "The local council has approved the plan to build a new library."（地方议会已批准了建造新图书馆的计划——考研高频表达）
+> - The United Nations Security Council. `[例]`
+> - This play is supported by a grant from the local arts council. `[例]`
+> - Residents complained to the council about the condition of the road . `[例]`
 
 
 ---

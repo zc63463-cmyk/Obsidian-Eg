@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His actions do not always accord with his words."（他的言行总是不一致——考研翻译高频表达）
-> - "The two countries reached an accord on trade and environmental protection."（两国在贸易和环境保护方面达成了一项协议——考研阅读国际话题相关表达）
+> - According to Branch, state-level science standards in the US __ _ A. call for regular revision B. require urgent application C. have limited influence D. cater to local needs 25. `[真题]`
+> - According to Paragraph 1 , the careers of scientists can be determined by __ A. how many citations their works contain B. how many times their papers are cited C. the prestige of the people they work with D. the status they have in scientific circles 37. `[真题]`
+> - On 31 May the two leaders signed a peace accord. `[例]`
 
 
 ---

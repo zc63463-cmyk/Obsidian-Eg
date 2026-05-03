@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The equation of wealth with happiness is a common mistake."（把财富与幸福等同起来是一个常见的错误——考研阅读高频逻辑）
-> - "The supply-demand equation has shifted dramatically."（供需平衡已经发生了巨大变化——考研经济类阅读）
+> - The students were learning to solve simple equations, such as 6 + x = 18. `[例]`
+> - Managing the economy is a complex equation of controlling inflation and reducing unemployment . `[例]`
+> - The equation between higher education and higher earnings still holds true . `[例]`
 
 
 ---

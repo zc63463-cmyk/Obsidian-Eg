@@ -125,8 +125,9 @@ com-(=con-, 共同/一起) + [[mut-mutat|mut-]](改变，交换，拉丁语 *mut
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She commutes from the suburbs to the city every day."（她每天从郊区通勤到市区。）
-> - "The average commute time in Beijing is over one hour."（北京的平均通勤时间超过一小时。）
+> - It's exhausting commuting from Brighton to London every day . `[例]`
+> - People used to believe that you could commute base metals into gold . `[例]`
+> - Her sentence was commuted from death to life imprisonment . `[例]`
 
 
 ---

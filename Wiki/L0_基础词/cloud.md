@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Dark clouds gathered on the horizon, signaling an approaching storm."（乌云在地平线上聚集，预示着暴风雨即将来临）
-> - "Personal bias can cloud one's judgment when evaluating evidence."（在评估证据时，个人偏见会使判断模糊）
+> - Do you think those are rain clouds on the horizon ? `[例]`
+> - The sky was a perfect blue - not a cloud in sight . `[例]`
+> - Dark clouds massed on the horizon . `[例]`
 
 
 ---

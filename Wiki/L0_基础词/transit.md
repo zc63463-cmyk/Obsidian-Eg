@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**运输，运送**==；②经过，过境；③公共交通系统；
-**v.** ①通过，经过；
+**n.** ①==**运输，运送**== `N`；②==**经过，过境**== `N`；③==**公共交通系统**== `N`；
+**v.** ①==**通过，经过**== `V`；
 
 > [!tip] 原型义
 > **原型义**：穿越过去——从一端走到另一端
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The goods were damaged in transit."（货物在运输途中受损）
-> - "Many cities are investing in mass transit systems to reduce traffic congestion."（许多城市正在投资公共交通系统以减少交通拥堵）
+> - It is possible to make an insurance claim for any goods lost or damaged in transit. `[例]`
+> - The question is whether road transit is cheaper than rail . `[例]`
+> - We booked tickets on the rapid-transit train . `[例]`
 
 
 ---

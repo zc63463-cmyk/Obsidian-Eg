@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**伞，雨伞**==；②==**保护伞，庇护**==（比喻义，提供保护的力量或体系）；
-**adj.** ③==**总括的，包罗万象的**==（涵盖一切的，如 umbrella organization）
+**n.** ①==**伞，雨伞**== `N`；②==**保护伞，庇护**== `N`（比喻义，提供保护的力量或体系）；
+**adj.** ③==**总括的，包罗万象的**== `adj`（涵盖一切的，如 umbrella organization）
 
 > [!tip] 原型义
 > **原型义**：一把遮住阳光的小伞（拉丁语 umbella = "小阴影"，来自 umbra "阴影"）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research was conducted under the umbrella of the National Science Foundation."（这项研究是在国家科学基金会的资助框架下进行的——考研阅读学术话题相关表达）
-> - "Climate change is an umbrella term that encompasses global warming, sea-level rise, and extreme weather events."（气候变化是一个统称，涵盖全球变暖、海平面上升和极端天气事件——考研阅读环保话题相关表达）
+> - I felt a few drops of rain , so I put my umbrella up. `[例]`
+> - He runs a group of companies under the umbrella of Universal Foods. `[例]`
+> - The Organization of Islamic Conference is an umbrella organization representing 57 Muslim nations . `[例]`
 
 
 ---

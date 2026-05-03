@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**揭开……的盖子，移去覆盖物**==；②==**揭露，发现**==（暴露隐藏的事物）；
-③==** uncovered 未被覆盖的，暴露的**==
+**v.** ①==**揭开……的盖子，移去覆盖物**== `V`；②==**揭露，发现**== `V`（暴露隐藏的事物）；
+③==** uncovered 未被覆盖的，暴露的**== `V`
 
 > [!tip] 原型义
 > **原型义**：拿掉盖子（un- "否定/相反" + cover "覆盖" = 去掉覆盖）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The investigation uncovered a pattern of systematic fraud that had gone undetected for years."（调查揭露了一种多年来未被发现的系统性欺诈模式——考研阅读社会话题相关表达）
-> - "Archaeologists have uncovered the remains of an ancient civilization beneath the modern city."（考古学家在现代城市之下发现了古代文明的遗迹——考研阅读考古话题相关表达）
+> - The investigation uncovered evidence of a large-scale illegal trade in wild birds . `[例]`
+> - The biography is an attempt to uncover the inner man. `[例]`
+> - Cover the dish and bake for 15 minutes , then uncover it and bake for another 10 minutes . `[例]`
 
 
 ---

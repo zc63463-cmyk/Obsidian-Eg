@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**福音；真理；信条**== `take something as gospel` [非正式] `the gospel truth` [非正式]；②福音书（圣经四福音之一）；③绝对真理；
-**adj.** ①福音的；
+**n.** ①==**福音；真理；信条**== `N`；②==**福音书（圣经四福音之一）**== `N`；③==**绝对真理**== `N`；
+**adj.** ①==**福音的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：好消息（古英语 *godspel* = god 好 + spel 消息/故事）
@@ -129,9 +129,8 @@ god(=good, 好) + spel(=spell, 消息/故事，古英语 *spel*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Don't take everything he says as gospel, because even experts can make mistakes. `[例]`
-> - The idea that competition is always beneficial has become something of an economic gospel in recent decades. `[例]`
-> - She treated her grandmother's advice as the gospel truth and never questioned it. `[例]`
+> - The Gospel according to St Mark. `[例]`
+> - The church's mission is to preach the gospel. `[例]`
 
 ## 复习记录
 

@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The documentary exposed the spineless behavior of corporations that prioritize profit over environmental protection, revealing how they systematically avoid taking responsibility for pollution."（这部纪录片揭露了那些将利润置于环境保护之上的公司毫无骨气的行为，揭示了它们如何系统性地逃避污染责任——考研阅读环保话题相关表达）
-> - "A severe spinal injury left him paralyzed from the waist down, but his determination to walk again never wavered throughout years of rehabilitation."（严重的脊柱损伤使他从腰部以下瘫痪，但他在多年的康复过程中重新行走的决心从未动摇——考研阅读医疗话题相关表达）
+> - She injured her spine in a riding accident . `[例]`
+> - The Apennine mountains form the spine (= central row of mountains ) of Italy. `[例]`
+> - Be careful of the cactus spines. `[例]`
 
 
 ---

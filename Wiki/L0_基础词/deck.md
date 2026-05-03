@@ -127,8 +127,9 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The passengers stood on the deck, watching the sunset over the ocean."（乘客们站在甲板上，看着海上日落——考研阅读场景描写）
-> - "The city was decked out in flags and banners to celebrate the national holiday."（城市张灯结彩，庆祝国庆节——考研社会类语料）
+> - We sat on deck until it was dark . `[例]`
+> - Our cabin was below decks. `[例]`
+> - A new deck of cards. `[例]`
 
 
 ---

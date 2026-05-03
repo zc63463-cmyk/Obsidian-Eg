@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Many English words are derived from Latin and Greek."（许多英语单词源自拉丁语和希腊语。）——考研阅读真题
-> - "She derives great satisfaction from her volunteer work."（她从志愿工作中获得极大的满足感。）——考研高频表达
+> - The institute derives all its money from foreign investments . `[例]`
+> - The English word " olive " is derived from the Latin word "oliva". `[例]`
+> - Arabic lexicographers derive the word from kafara , " cover ". `[例]`
 
 ---
 

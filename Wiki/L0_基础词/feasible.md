@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To offer a feasible solution to the structural unemployment."（为结构性失业提供一个可行的解决方案——2016年6月考研阅读）
-> - "Some desalination plants exist where feasible, but they are costly to run and can need constant repairs."（在条件允许的地方建有一些海水淡化厂，但它们运行成本高昂且需要不断维修——2018年12月四级阅读Section C）
+> - With the extra resources , the project now seems feasible. `[例]`
+> - It may be feasible to clone human beings , but is it ethical ? `[例]`
+> - With the extra resources the plan now seems feasible. `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A sober assessment of the economic situation reveals that the recovery will take longer than initially expected."（对经济形势的冷静评估表明，复苏将比最初预期的需要更长时间——考研阅读经济话题相关表达）
-> - "The tragic event served as a sober reminder that natural disasters can strike without warning."（这一悲剧事件是一个清醒的提醒：自然灾害可能在毫无预警的情况下发生——考研翻译社会话题相关表达）
+> - Are you sober enough to drive , Jim ? `[例]`
+> - I'd had no wine all evening so I was stone cold (= completely ) sober. `[例]`
+> - Steve is a recovering alcoholic who has been sober for a decade . `[例]`
 
 
 ---

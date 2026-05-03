@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**巨大的，强大的**==；②（常大写）泰坦号的；
+**adj.** ①==**巨大的，强大的**== `adj`；②==**（常大写）泰坦号的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：巨大的，强大的（如泰坦神一般的规模）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It was a titanic struggle between the two political parties."（这是两大政党之间的一场巨大斗争）
-> - "The Titanic sank on its maiden voyage in 1912."（泰坦尼克号于1912年在首航中沉没）
+> - He was the loser in the titanic struggle to own the company . `[例]`
+> - A titanic figure in the world of business. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**卡住的，困住的**==；②（无法继续）停滞的；③（口语）不知道怎么办的；
+**adj.** ①==**卡住的，困住的**== `adj`；②==**（无法继续）停滞的**== `adj`；③==**（口语）不知道怎么办的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：卡住了（被粘住或卡在某处，动不了）
@@ -126,8 +126,8 @@ stick（粘住）的过去分词形式 stuck
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - I'm stuck on this problem — can you help me?（我被这道题卡住了——你能帮我吗？）
-> - The negotiations are stuck over the issue of funding.（谈判因资金问题而陷入僵局。）
+> - This door seems to be stuck - can you help me push it open ? `[例]`
+> - Seven of us were stuck in the lift for over an hour . `[例]`
 
 ## 复习记录
 

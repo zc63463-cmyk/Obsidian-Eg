@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We only have fragments of the ancient manuscript."（我们只有这份古代手稿的残片——考研高频表达）
-> - "The media landscape has become increasingly fragmented."（媒体格局变得越来越碎片化）
-> - "Archaeologists discovered pottery fragments dating back to 3000 BC."（考古学家发现了可追溯到公元前3000年的陶器碎片）
+> - The road was covered with fragments of glass from the shattered window . `[例]`
+> - Literary scholars are piecing together her last unpublished novel from fragments of a recently discovered manuscript . `[例]`
+> - The satellite will fragment and burn up as it falls through the earth's atmosphere . `[例]`
 
 
 ---

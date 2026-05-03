@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He visited her on the pretext of returning a book he had borrowed."（他以还书为借口去拜访她。）
-> - "The government used the economic crisis as a pretext for cutting social programs."（政府以经济危机为借口削减社会福利项目。）
+> - The border dispute was used as a pretext for military intervention . `[例]`
+> - I called her on the pretext of need ing more information . `[例]`
+> - He called her on the pretext of needing help with his homework . `[例]`
 
 
 ---

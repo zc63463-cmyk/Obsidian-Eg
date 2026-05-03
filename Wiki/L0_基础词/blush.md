@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**脸红，羞愧**== ``blush at the compliment`` ``blush with embarrassment``；
-**n.** ①==**脸红**== ``without the trace of a blush`` ``the blush of youth``；②==**红色，粉红色**== ``blush pink`` ``a rosy blush``；
+**vi.** ①==**脸红，羞愧**==；
+**n.** ①==**脸红**==；②==**红色，粉红色**==；
 
 > [!tip] 原型义
 > **原型义**：脸红，因害羞而脸红（中古英语 *blusshen*，可能与 *blow* 有关——血液涌上脸像风一样）
@@ -131,10 +131,9 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hello, Maria," he said, and she blushed again. ``[Collins Corpus]``
-> - "The most important thing is to be honest," she says, without the trace of a blush. ``[Collins Corpus]``
-> - At first blush the idea may sound intriguing to those who favor small government. ``[Wall Street Journal]``
-> - You will blush with embarrassment and beat yourself up in the days that follow. ``[Times, Sunday Times]``
+> - I always blush when I speak in public . `[例]`
+> - You would never wear a shade of blush that doesn't work with your skin tone . `[例]`
+> - The soft , neutral colours of blush and beige pair perfectly together. `[例]`
 
 
 ---

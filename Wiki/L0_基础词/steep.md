@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The road leading to the mountain village is extremely steep and narrow."（通往山村的路极其陡峭狭窄。）
-> - "Many students find the steep learning curve in advanced mathematics challenging."（许多学生发现高等数学陡峭的学习曲线具有挑战性。）
-> - "The steep rise in housing prices has made it difficult for young people to buy homes."（房价的急剧上涨使年轻人难以购房。）
+> - It's a steep climb to the top of the mountain , but the view is worth it. `[例]`
+> - They are having to face very steep taxes . `[例]`
+> - We enjoyed our meal at the restaurant , but the bill was a bit steep. `[例]`
 
 
 ---

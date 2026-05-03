@@ -135,8 +135,9 @@ sub-(在下/细密) + 建议创建词根笔记 [[tl/tela]](编织) = 编织得�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day."（这是一种隐性的同伴压力：我们会无意识地模仿每天所看到的行为。）——2012年考研真题
-> - "The difference between the two theories is subtle but significant."（两种理论之间的差异很微妙，但意义重大。）——考研高频表达
+> - The room was painted a subtle shade of pink . `[例]`
+> - The play's message is perhaps too subtle to be understood by young children . `[例]`
+> - There is a subtle difference between these two plans . `[例]`
 ---
 
 

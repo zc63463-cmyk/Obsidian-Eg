@@ -127,8 +127,9 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change has become a hot topic in recent political debates."（气候变化已成为近期政治辩论中的热门话题。）——考研高频表达
-> - "The essay covers a wide range of topics related to environmental protection."（这篇文章涵盖了与环境保护相关的广泛话题。）——考研高频表达
+> - Our discussion included topics such as acid rain and the melting of polar ice . `[例]`
+> - Your essay can be on any topic you like. `[例]`
+> - She did not find it easy to keep her essays on topic. `[例]`
 
 ---
 

@@ -137,8 +137,9 @@ fast(牢固的) + -en(使动后缀，使...变得...)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please fasten your seatbelts and return your seats to the upright position."（请系好安全带并将座椅调回直立位置。——考研翻译/听力类常见表达）
-> - "She fastened her eyes on the distant horizon, lost in thought."（她目光紧盯着远方的地平线，陷入了沉思。——考研文学类阅读常见表达）
+> - Make sure your seat belt is securely fastened. `[例]`
+> - This shirt fastens at the back. `[例]`
+> - I fastened the sticker to the windscreen . `[例]`
 
 
 ---

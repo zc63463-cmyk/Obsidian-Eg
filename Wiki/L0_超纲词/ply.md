@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**不断使用，反复从事**==；②（定期）往返于；③提供（服务、货物）；
-**n.** ④==**（绳索、木板等的）层，股**==；⑤厚度；
+**vt.** ①==**不断使用，反复从事**== `V N`；②==**（定期）往返于**== `V N`；③==**提供（服务、货物）**== `V N`；
+**n.** ④==**（绳索、木板等的）层，股**== `N`；⑤==**厚度**== `N`；
 
 > [!tip] 原型义
 > **原型义**：折叠，弯曲（反复施加动作）
@@ -132,7 +132,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Ferries ply between the islands throughout the year."（渡轮全年定期往返于各岛之间。）
+> - Fishermen in small boats ply their trade up and down the coast . `[例]`
+> - Dealers are openly plying drugs in school playgrounds . `[例]`
 
 ## 复习记录
 

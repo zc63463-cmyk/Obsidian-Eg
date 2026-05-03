@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "They had pushed the agency to designate the bird as 'endangered,' a status that gives federal officials greater regulatory power to crack down on threats."（他们敦促该机构将这种鸟列为"濒危物种"，这一身份赋予联邦官员更大的监管权力来打击威胁。）——2016年考研英语二阅读
-> - "If farmers like Bowman are able to use these seeds without paying the designated fee, it will remove the incentives for companies like Monsanto to innovate."（如果像鲍曼这样的农民能够不支付指定费用就使用这些种子，那将消除像孟山都这样的公司进行创新的动力。）——六级2013年12月阅读（考研同源）
+> - Traditionally, the president designates his or her successor . `[例]`
+> - Thompson has been designated as team captain . `[例]`
+> - He was designated to be the unit's English translator . `[例]`
 
 ---
 

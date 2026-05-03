@@ -116,8 +116,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She sat by the fireplace, reading a novel."（她坐在壁炉旁看小说）
-> - "The old cottage had a large stone fireplace."（那间旧农舍有一个大石壁炉）
+> - She swept the ashes from the fireplace. `[例]`
+> - A log fire crackled in the fireplace. `[例]`
+> - Every room in the house has a fireplace. `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The professor delivered a fascinating lecture on the history of science."（教授做了一场关于科学史的精彩讲座）
-> - "She lectured her son about the importance of honesty."（她就诚实的重要性训斥了儿子）
+> - Who's giving the lecture this afternoon ? `[例]`
+> - My dad gave me a lecture on the evils of alcohol last night . `[例]`
+> - For ten years she lectured in law . `[例]`
 
 
 ---

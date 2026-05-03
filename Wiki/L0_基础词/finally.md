@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After years of research, scientists finally discovered the cure."（经过多年的研究，科学家们终于发现了治疗方法）
-> - "The project was finally completed ahead of schedule."（项目最终提前完成了）
+> - After months of looking he finally found a job . `[例]`
+> - Finally, I'd like to thank everyone for coming this evening . `[例]`
+> - The plan hasn't been finally approved . `[例]`
 
 
 ---

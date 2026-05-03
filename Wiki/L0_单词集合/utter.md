@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "utter chaos"（一片混乱）——考研阅读常见搭配，描述混乱局面
-> - "utterly disappointed/destroyed"（完全失望/彻底毁灭）——考研阅读/写作中 utterly 更常见
-> - "not utter a word"（一言不发）——考研阅读文学类语料
+> - She sat through the whole meeting without uttering a word. `[例]`
+> - The meeting was a complete and utter waste of time . `[例]`
+> - Lying back in the hot bath was utter bliss . `[例]`
 
 ---
 

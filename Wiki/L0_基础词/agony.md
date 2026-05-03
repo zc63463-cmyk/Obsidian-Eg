@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The patient was in such agony that the doctors had to administer strong painkillers immediately."（患者极度痛苦，医生不得不立即使用强效止痛药——考研阅读医学话题相关表达）
-> - "For many refugees, the agony of leaving their homeland is compounded by the uncertainty of their future in a foreign country."（对于许多难民来说，离开祖国的痛苦因在异国他乡未来的不确定性而加剧——考研阅读社会话题相关表达）
+> - She lay there screaming in agony. `[例]`
+> - I was in an agony of suspense . `[例]`
+> - It must be agony for them to say goodbye . `[例]`
 
 
 ---

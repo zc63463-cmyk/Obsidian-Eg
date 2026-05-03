@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**服从，顺从**==；②==**遵从，遵守**==（规则、法律等）；
+**n.** ①==**服从，顺从**== `N`；②==**遵从，遵守**== `N`（规则、法律等）；
 
 > [!tip] 原型义
 > **原型义**：仔细倾听后服从（听→服从）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Blind obedience to authority can lead to catastrophic consequences, as demonstrated by numerous historical events."（对权威的盲目服从可能导致灾难性后果，无数历史事件已经证明了这一点——考研阅读社会话题）
-> - "In many traditional cultures, obedience to elders is considered one of the most important virtues a person can possess."（在许多传统文化中，对长辈的服从被认为是一个人最重要的美德之一——考研翻译文化话题）
+> - He demands unquestioning obedience from his soldiers . `[例]`
+> - In many traditional cultures, obedience to elders is considered one of the most important virtues a person can possess. `[例]`
+> - He has acted in obedience to the law. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**丑陋的，难看的**==；②==**令人不快的，恶劣的**==；③危险的，凶险的；
+**adj.** ①==**丑陋的，难看的**== `adj`；②==**令人不快的，恶劣的**== `adj`；③==**危险的，凶险的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：令人恐惧的（引起恐惧和畏惧的）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The protest turned ugly when some demonstrators began throwing stones at the police."（当一些示威者开始向警察投掷石块时，抗议活动变得凶险起来——考研阅读社会话题常见表达）
-> - "They had to face the ugly truth about the company's financial situation."（他们不得不面对公司财务状况的丑陋真相——考研阅读商业话题相关表达）
+> - I think a lot of modern architecture is very ugly. `[例]`
+> - He was a really unpleasant man and as ugly as sin (= very ugly) . `[例]`
+> - There were ugly scenes outside the stadium . `[例]`
 
 
 ---

@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The 'shareholders' as such had no knowledge of the lives, thoughts or needs of the workmen employed by the company in which he held shares."（"股东"本身对其所持股份公司中雇员的生活、思想或需求一无所知。——1996年考研阅读）
-> - "As Emerson put it, 'in the branches of human knowledge there is learning one thing, and in the public and diligent thought there is another.'"（正如爱默生所说："在人类知识的分支中学习是一回事，在公众和勤勉的思想中生存又是另一回事。"——考研高频引用）
+> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+> - Her knowledge of English grammar is very extensive . `[例]`
+> - He has a limited knowledge of French . `[例]`
 
 
 ---

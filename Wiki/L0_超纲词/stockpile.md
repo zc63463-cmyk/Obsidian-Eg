@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**储备物资，库存**==；（应急用的）大量储备；
-**v.** ①==**大量储备，囤积**==；
+**n.** ①==**储备物资，库存**== `N`；（应急用的）大量储备；
+**v.** ①==**大量储备，囤积**== `V`；
 
 > [!tip] 原型义
 > **原型义**：堆成堆的库存（把物资堆成一大堆储存起来）
@@ -126,8 +126,8 @@ stock（库存，储备）+ pile（堆）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The country has stockpiled enough grain to last through the winter.（该国已储备了足够的粮食以度过冬天。）
-> - The government maintains a strategic stockpile of emergency medical supplies.（政府维护着应急医疗物资的战略储备。）
+> - They have a stockpile of weapons and ammunition that will last several months . `[例]`
+> - The rebels have been stockpiling weapons . `[例]`
 
 ## 复习记录
 

@@ -131,8 +131,9 @@ space（空间，源自拉丁语 *spatium* "空间、距离"，词源不确定�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The exploration of outer space has always captured human imagination."（太空探索一直吸引着人类的想象力——考研写作常用表达）
-> - "There is a growing need for office space in urban areas."（城市地区对办公空间的需求日益增长——考研阅读常见句式）
+> - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
+> - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
+> - Is there any space for my clothes in that cupboard ? `[例]`
 
 
 ---

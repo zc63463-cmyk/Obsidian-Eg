@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "his behavior is at variance with his principles"（他的行为与他的原则不一致）——考研阅读常见搭配
-> - "the variance in test scores"（考试成绩的差异）——教育类文本
-> - "cultural variance across regions"（不同地区之间的文化差异）——社科类阅读
+> - There has been some unusual variance in temperature this month . `[例]`
+> - I could detect subtle variances in fragrance as we strolled through the garden . `[例]`
+> - We had to get a ( zoning ) variance before we could build the extension on our house . `[例]`
 
 ---
 

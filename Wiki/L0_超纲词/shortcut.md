@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**捷径，近路**==；②（达到某目的的）快速方法，捷径；
-**v.** ①抄近路穿过；②简化（某过程）；
+**n.** ①==**捷径，近路**== `N`；②==**（达到某目的的）快速方法，捷径**== `N`；
+**v.** ①==**抄近路穿过**== `V`；②==**简化（某过程）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：缩短路程的近路（比常规路线更短、更快的路径）
@@ -127,7 +127,8 @@ short(短的) + cut(切割，路径)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "There are no shortcuts to learning a language."（学习语言没有捷径。）
+> - The kids take a shortcut through the parking lot to get to school . `[例]`
+> - Don't use shortcuts to solve the problem , or the answer is likely to be wrong . `[例]`
 
 ## 复习记录
 

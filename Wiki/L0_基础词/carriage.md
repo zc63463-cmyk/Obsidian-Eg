@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The President-elect followed in an open carriage drawn by six beautiful gray horses."（新当选的总统紧随其后，乘坐一辆由六匹漂亮的灰马拉着的敞篷马车——考研翻译相关语料）
-> - "I'll be sitting in the third carriage from the engine."（我将坐在机车后面的第三节车厢——考研阅读相关语料）
+> - That will be £150, carriage included . `[例]`
+> - She had great stage presence and perfect carriage. `[例]`
+> - If the carrier agrees to accept dangerous goods for carriage, such goods must be accompanied by a full declaration of their nature and contents . `[例]`
 
 
 ---

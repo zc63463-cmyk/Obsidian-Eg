@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**燃烧，烧**== `burn down` `burn up`；②烧毁，烧伤 `burn the house down`；③==**烧灼，使灼痛**== `burn with anger/desire`；
-**n.** ①烧伤，灼伤 `first-degree burn`；
+**v.** ①==**燃烧，烧**==；②烧毁，烧伤；③==**烧灼，使灼痛**==；
+**n.** ①烧伤，灼伤；
 
 > [!tip] 原型义
 > **原型义**：燃烧（物质与氧气反应产生光和热的过程）
@@ -133,10 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Firefighters battled for hours to contain the brush fire, which threatened to burn several homes. `[真题]`
-> - It survived, but in 2005 another fire burned down much of the building. `[语料库]`
-> - And it makes workers more likely to burn out and leave their jobs. `[语料库]`
-> - The new policy aims to burn through bureaucratic red tape, expediting the approval process. `[语料库]`
+> - He was badly burned in the blaze . `[例]`
+> - She burned his old love letters . `[例]`
+> - Unable to escape , six people were burned alive (= died by burning) in the building . `[例]`
 
 
 ---

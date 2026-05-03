@@ -127,8 +127,9 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge."（Sternberg 指出，传统的测试最恰当地评估了分析能力和语言表达能力，但未能衡量创造力和实践知识。——2007年考研英语阅读Text2）
-> - "Curriculums should evolve to focus less on memorizing facts and more on creativity and complex communication."（课程应该发展变化，减少对记忆事实的关注，更多地关注创造力和复杂沟通能力。——2018年考研英语阅读）
+> - They used rather creative methods to impress investors . `[例]`
+> - Several leading creatives are involved in the advertising campaign . `[例]`
+> - We attract creative people who want to get involved in building companies up. `[例]`
 
 ---
 

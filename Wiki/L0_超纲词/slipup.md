@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**失误，疏忽**==；②小错误；
+**n.** ①==**失误，疏忽**== `N`；②==**小错误**== `N`；
 
 > [!tip] 原型义
 > **原型义**：脚滑了一下导致的小失误（物理上的打滑→抽象上的错误）
@@ -125,7 +125,8 @@ slip(滑倒) + [[up|up]](向上/加强)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "There was a minor slipup in the calculations, but it was quickly corrected."（计算中有一个小失误，但很快就被纠正了。）
+> - We were late because of a slipup in the schedule. `[例]`
+> - The marketing director made sure there were no slipups for the important presentation. `[例]`
 
 ## 复习记录
 

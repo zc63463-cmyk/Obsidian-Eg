@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**独处，孤独**==；②僻静的地方；
+**n.** ①==**独处，孤独**== `N`；②==**僻静的地方**== `N`；
 
 > [!tip] 原型义
 > **原型义**：独自一人的状态（中性偏正面，强调主动选择的独处）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She found peace in solitude, far from the noise of the city."（她在远离城市喧嚣的独处中找到了宁静。）
+> - After months of solitude at sea it felt strange to be in company . `[例]`
+> - It provides one with a chance to reflect on spiritual matters in solitude. `[例]`
 
 ## 复习记录
 

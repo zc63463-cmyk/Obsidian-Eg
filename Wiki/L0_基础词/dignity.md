@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All human beings are born with dignity and rights."（所有人生来就具有尊严和权利。）
-> - "She faced the crisis with dignity and courage."（她以尊严和勇气面对危机。）
+> - He is a man of dignity and calm determination . `[例]`
+> - She has a quiet dignity about her. `[例]`
+> - I think everyone should be able to die with dignity. `[例]`
 
 
 ---

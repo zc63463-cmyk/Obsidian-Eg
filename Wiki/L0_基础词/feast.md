@@ -131,8 +131,9 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Jewish feast of Passover began last night."（犹太人的宗教节日逾越节昨晚开始了——考研文化类阅读语料）
-> - "The feast was served by his mother and sisters."（宴席由他的母亲和姐妹们端上——考研文学类阅读语料）
+> - What a feast!" she said, surveying all the dishes on the table . `[例]`
+> - Her rich colourful costumes make the show a visual feast. `[例]`
+> - His food is a feast for the eyes as well as the palate . `[例]`
 
 
 ---

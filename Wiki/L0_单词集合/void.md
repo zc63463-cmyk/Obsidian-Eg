@@ -136,8 +136,9 @@ void 本身为词根（源自拉丁语 vacuus "空的"），建议创建词根�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The agreement was declared void."（该协议被宣布无效。）——考研高频表达
-> - "She noticed there was a real void in quality STEM education at all levels of the public educational system."（她注意到公立教育系统在各个层次的优质STEM教育方面存在真正的空白。）——考研高频表达
+> - She stood at the edge of the chasm and stared into the void. `[例]`
+> - Before Einstein, space was regarded as a formless void. `[例]`
+> - They tried to describe their attempts to fill the void left by their son's death . `[例]`
 ---
 
 

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has invested heavily in training programs for unemployed workers."（政府在失业工人培训项目上投入了大量资金。）——考研高频表达
-> - "It takes years of training to become a qualified doctor."（成为一名合格的医生需要多年的训练。）——考研高频表达
+> - We decided to take a train journey together. `[例]`
+> - The architect is best known for designing the city's train station . `[例]`
+> - Did you come by train? `[例]`
 
 ---
 

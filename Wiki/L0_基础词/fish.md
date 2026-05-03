@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was fishing for compliments when she asked about her new haircut."（她问新发型好不好看时是在套取赞美）
-> - "There are plenty of fish in the sea."（天涯何处无芳草/海里还有很多鱼）
+> - He's a bit of an odd fish, but I think he's basically sound . `[例]`
+> - She fished in her tool box for the right screwdriver . `[例]`
+> - She was always fishing, hoping I'd say something about Sarah. `[例]`
 
 
 ---

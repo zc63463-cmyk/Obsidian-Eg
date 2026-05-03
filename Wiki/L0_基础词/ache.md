@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My head had begun to ache and my stomach felt funny after working for hours without a break."（连续工作几个小时没有休息后，我的头开始疼了，胃也感到不对劲——考研阅读健康话题相关表达）
-> - "The ache in my head is getting worse after a whole day's work."（经过一整天的工作我的头痛加重了——考研翻译相关表达）
+> - As you get older , you have all sorts of aches and pains . `[例]`
+> - I've had a stomach ache all morning . `[例]`
+> - I've got one or two aching muscles after yesterday's run . `[例]`
 
 
 ---

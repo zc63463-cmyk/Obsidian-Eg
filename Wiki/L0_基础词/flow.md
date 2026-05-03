@@ -129,8 +129,9 @@ flow（源自古英语 *flōwan*，原始印欧语 *pleu-* "流动"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The free flow of information is essential to a democratic society."（信息的自由流动对民主社会至关重要——考研政治类阅读高频表达）
-> - "Cash flow problems are the leading cause of small business failure."（现金流问题是小企业失败的首要原因——考研经济类阅读）
+> - Lava from the volcano was flowing down the hillside . `[例]`
+> - Many short rivers flow into the Pacific Ocean. `[例]`
+> - The river flows through three counties before flowing into the sea just south of here. `[例]`
 
 
 ---

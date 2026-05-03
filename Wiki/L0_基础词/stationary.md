@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The car was stationary at the traffic lights when it was hit from behind."（汽车在红绿灯处静止不动时被从后面撞了。）
-> - "The population of the village has remained largely stationary for the past decade."（过去十年该村人口基本保持不变。）
+> - The traffic got slower and slower until it was stationary. `[例]`
+> - The rate of inflation has been stationary for several months . `[例]`
+> - House prices have been stationary for months . `[例]`
 
 
 ---

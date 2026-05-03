@@ -125,7 +125,9 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of gunpowder changed the course of history."（火药的发明改变了历史进程——考研翻译参考句式）
+> - A packet of white powder was found and police scientists are analysing it. `[例]`
+> - You'll get more flavour from the spices if you grind them into a powder. `[例]`
+> - Why are there so many adverts for washing powders on TV? `[例]`
 
 
 ---

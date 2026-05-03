@@ -132,8 +132,9 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It lowers the costs of many services: without advertisements your daily newspaper would cost four times as much, the price of your television licence would need to be doubled, and travel by bus or tube would cost 20 per cent more."（它降低了多种服务费用：没有广告，每天看的报纸价格会上涨四倍，电视收视费会翻番，公共汽车或地铁票价会上涨20%——1995年考研阅读Text 1）
-> - "While traditional 'paid' media—such as television commercials and print advertisements—still play a major role, companies today can exploit many alternative forms of media."（虽然传统的"付费"媒体——如电视广告和印刷广告——仍然发挥着重要作用，但如今公司可以利用许多替代形式的媒体——2011年考研英语一Text 3）
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+> - We advertised our car in the local newspaper . `[例]`
+> - He advertises his services on the company notice board . `[例]`
 
 
 ---

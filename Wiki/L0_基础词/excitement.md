@@ -126,7 +126,9 @@ ex-(出、向外) + cite(唤起、引起，拉丁语 *citare*) + -ment(名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The children were filled with excitement at the prospect of a trip to the zoo."（孩子们一想到要去动物园就兴奋不已。）
+> - Robin's heart was pounding with excitement. `[例]`
+> - If you want excitement, you should try parachuting . `[例]`
+> - The excitements of the previous day. `[例]`
 
 
 ---

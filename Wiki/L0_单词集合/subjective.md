@@ -122,8 +122,9 @@ sub-(在……之下) + [[ject]](投掷) + -ive(形容词后缀，表倾向/特�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The assessment of art is inherently subjective, as it depends on personal taste and cultural background."（艺术评价本质上是主观的，因为它取决于个人品味和文化背景。）——考研高频表达
-> - "The judge warned the jury to set aside their subjective feelings and focus on the evidence."（法官警告陪审团放下主观感受，专注于证据。）——考研高频表达
+> - I think my husband is the most handsome man in the world , but I realize my judgment is rather subjective. `[例]`
+> - More specific and less subjective criteria should be used in selecting people for promotion within the company . `[例]`
+> - Whether something is objectionable is a subjective question . `[例]`
 
 ---
 

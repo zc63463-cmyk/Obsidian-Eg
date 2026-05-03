@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Employers cannot discriminate on grounds of age."（雇主不得有年龄歧视。）——考研高频表达
-> - "The tests discriminate unfairly against older people."（这些测验使年纪较大的人受到歧视。）——考研高频表达
+> - She felt she had been discriminated against because of her age . `[例]`
+> - In order to increase the number of female representatives , the selection committee decided to discriminate in favour of women for three years . `[例]`
+> - Police dogs can discriminate between the different smells . `[例]`
 
 ---
 

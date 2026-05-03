@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**conj.** ①==**如果，假如**==（引导条件状语从句，= provided that，= if）；
+**conj.** ①==**如果，假如**== `that-clause`（引导条件状语从句，= provided that，= if）；
 
 > [!tip] 原型义
 > **原型义**：在提供…的条件下→如果（来自 [[provide]] + -ed → 在提供…的条件下→如果）
@@ -143,11 +143,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Provided that you arrive on time, you will be admitted."（如果你准时到达，就会被允许进入）——日常条件句
-> - "The project will go ahead provided funding is approved."（如果资金获得批准，项目将继续进行）——商业话题
-> - "Provided there are no further delays, we should finish by Friday."（如果没有进一步的延误，我们应该在周五前完成）——工作话题
-> - "You may borrow the book provided that you return it by next week."（你可以借这本书，条件是下周归还）——日常表达
-> - "Provided the weather holds, we will have the picnic outdoors."（如果天气保持良好，我们将在户外野餐）——生活话题
+> - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
+> - Provided she commits no offences over the next five years , her conviction will be wiped from her record . `[例]`
+> - He's welcome to come along, provided that he behaves himself. `[例]`
+> - Most shops will offer a refund provided you can produce proof of purchase . `[例]`
+> - Provided that the boat leaves on time , we should reach France by morning . `[例]`
 
 ---
 

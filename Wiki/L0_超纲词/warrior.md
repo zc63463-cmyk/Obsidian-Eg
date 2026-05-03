@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**战士，勇士**==；②（尤指旧时的）武士，斗士；
+**n.** ①==**战士，勇士**== `N`；②==**（尤指旧时的）武士，斗士**== `N`；
 
 > [!tip] 原型义
 > **原型义**：参与战争/战斗的人
@@ -128,8 +128,8 @@ war（战争）+ -rior（表示"人"的后缀，源自拉丁语 *-ator*），日
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The ancient warriors fought with swords and shields."（古代武士用刀剑和盾牌战斗。）
-> - "She has been a warrior for environmental protection for decades."（几十年来，她一直是环保事业的斗士。）
+> - This little girl is a warrior - she's going to get through this. `[例]`
+> - She is a warrior and that is something I admire in players . `[例]`
 
 ## 复习记录
 

@@ -127,8 +127,9 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When the board is forced to review a succession of succession plans, those managers whose plans were not recognized would also want to leave."（当董事会迫于股东的压力对一系列继任计划进行审查时，那些计划没有得到认可的经理们也会想离开——考研翻译真题）
-> - "He was appointed as the successor to the CEO last month."（上个月他被任命为首席执行官的继任者——考研高频表达）
+> - The university is seeking a successor to its vice chancellor , who retires this spring . `[例]`
+> - This range of computers is very fast , but their successors will be even faster . `[例]`
+> - The company will announce the appointment of a successor to its retiring chairman at the next board meeting . `[例]`
 
 
 ---

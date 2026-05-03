@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The witness, under intense cross-examination, finally spat out the truth that had been concealed for years."（证人在激烈的交叉询问下，终于吐露了隐藏多年的真相——考研阅读法律话题相关表达）
-> - "In many cultures, spitting in public is considered not only rude but also a health hazard, as it can spread infectious diseases."（在许多文化中，在公共场所吐痰不仅被认为是不礼貌的，而且是一种健康危害，因为它可能传播传染病——考研翻译社会话题相关表达）
+> - They bought watermelons and ate them as they walked , spitting out the seeds . `[例]`
+> - If it's only spitting (with rain ), perhaps we don't need waterproofs . `[例]`
+> - Trieste sits on a tiny spit of land , squashed between Slovenia and the Adriatic Sea. `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**锡**==（化学元素Sn）；②==**罐头**==（美式英语多用 can）；③==**锡罐**==；
-**adj.** ①==**锡制的**==；
+**n.** ①==**锡**== `N`（化学元素Sn）；②==**罐头**== `N`（美式英语多用 can）；③==**锡罐**== `N`；
+**adj.** ①==**锡制的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：锡，一种银白色的金属
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Before the invention of aluminum foil, tin was widely used for wrapping food and preserving its freshness, though it was more expensive and less malleable."（在铝箔发明之前，锡被广泛用于包裹食物和保鲜，尽管它更昂贵且延展性较差——考研翻译科技话题相关表达）
-> - "During the Industrial Revolution, the tin can revolutionized food preservation, allowing soldiers to carry nutritious meals on long campaigns without spoilage."（在工业革命期间，锡罐彻底改变了食物保存方式，使士兵能够在长途行军中携带营养餐食而不变质——考研阅读历史话题相关表达）
+> - He opened a tin of beans and emptied it into the saucepan . `[例]`
+> - The country's most valuable commodities include tin and diamonds. `[例]`
+> - In tin mining today, workers excavate tunnels horizontally from a vertical shaft. `[例]`
 
 
 ---

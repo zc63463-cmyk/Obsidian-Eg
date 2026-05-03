@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**补偿，抵消**==；
-**n.** ①==**补偿，抵消**==；②==**分支，旁支**==；③==**偏移量，位移**==；
-**adj.** ①==**偏移的，分离的**==；
+**vt.** ①==**补偿，抵消**== `V N`；
+**n.** ①==**补偿，抵消**== `N`；②==**分支，旁支**== `N`；③==**偏移量，位移**== `N`；
+**adj.** ①==**偏移的，分离的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：放到一旁来抵消（off "离开" + set "放置"→ 放到对面来平衡）
@@ -138,10 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "gains offset by losses"（收益被损失抵消）——经济/商业类阅读高频搭配
-> - "offset the cost of higher education"（抵消高等教育的成本）——教育/社会类话题
-> - "carbon offset"（碳补偿）——环境/科技类话题
-> - "the benefits offset the risks"（收益抵消了风险）——论证/分析类语料
+> - The extra cost of travelling to work is offset by the lower price of houses here. `[例]`
+> - He keeps his petrol receipts because petrol is one of the expenses that he can offset against tax (= can show to the government as being a business cost , and so not pay tax ) . `[例]`
+> - We offset all our long-haul flights . `[例]`
+> - The extra cost of commuting to work from the suburbs is offset by cheaper rents . `[例]`
 
 ---
 

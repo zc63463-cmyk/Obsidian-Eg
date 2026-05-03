@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She became a heroine of the French Resistance during World War II."（她在二战期间成为法国抵抗运动的女英雄。——考研阅读常见表达）
-> - "The heroine of the novel undergoes a profound transformation from innocence to wisdom."（小说的女主角经历了从天真到智慧的深刻转变。——考研文学评论常见表达）
+> - She is remembered as a heroine of the French Resistance. `[例]`
+> - The nursery nurse who protected the children was hailed a heroine. `[例]`
+> - Fairy-tale heroines such as Snow White. `[例]`
 
 
 ---

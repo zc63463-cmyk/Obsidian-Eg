@@ -128,8 +128,9 @@ ex-(出) + [[quis-quisit|quis-/quisit-]](追求，寻求) + -ite(形容词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The museum houses an exquisite collection of Ming dynasty porcelain."（博物馆收藏着精美的明代瓷器藏品）
-> - "She has an exquisite sense of timing in her comic delivery."（她在喜剧表演中有着极其精准的节奏感）
+> - Look at this exquisite painting . `[例]`
+> - She has exquisite taste . `[例]`
+> - The pain was quite exquisite. `[例]`
 
 
 ---

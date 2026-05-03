@@ -129,8 +129,9 @@ float（源自古英语 *flotian*，与 fleet 同源，原始印欧语 *pleu-* "
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government decided to let the currency float freely."（政府决定让货币自由浮动——考研经济类阅读）
-> - "Dust particles float in the air, invisible to the naked eye."（灰尘颗粒漂浮在空气中，肉眼看不见——考研科普类阅读）
+> - An empty bottle will float. `[例]`
+> - You can float very easily in the Dead Sea because it's so salty . `[例]`
+> - Lily pads float on the surface of the pond . `[例]`
 
 
 ---

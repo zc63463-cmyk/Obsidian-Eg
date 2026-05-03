@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**省略，遗漏**==；②忽略，疏忽；
+**v.** ①==**省略，遗漏**== `V`；②==**忽略，疏忽**== `V`；
 
 > [!tip] 原型义
 > **原型义**：送走（把某物送走→让它不在→省略）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The article's authors made untrue statements and omitted key information."（文章的作者做了不实陈述并遗漏了关键信息。——剑桥词典例句）
-> - "She omitted to mention that they were staying the night."（她没有说他们当晚要留宿的事。——剑桥词典例句）
+> - The article's authors made untrue statements and omitted key information . `[例]`
+> - A list of new employees inadvertently omitted her name . `[例]`
+> - The Prince's tour conveniently omitted the most deprived areas of the city . `[例]`
 
 
 ---

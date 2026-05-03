@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**最先进的，尖端的，体现最新技术水平的**==；
-**n.** ①（某领域的）最新技术水平，发展水平；
+**adj.** ①==**最先进的，尖端的，体现最新技术水平的**== `adj`；
+**n.** ①==**（某领域的）最新技术水平，发展水平**== `N`；
 
 > [!tip] 原型义
 > **原型义**：当前技术/艺术领域所达到的最高水平
@@ -126,8 +126,8 @@ state（状态，水平）+ of（的）+ the（定冠词）+ art（技术，技�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The hospital is equipped with state-of-the-art medical technology.（这家医院配备了最先进的医疗技术。）
-> - This paper reviews the state of the art in natural language processing.（本文综述了自然语言处理领域的最新技术水平。）
+> - The control panel uses all the newest technology and is considered state-of-the-art. `[例]`
+> - The center is 20 years old and will need capital improvements to remain state-of-the-art. `[例]`
 
 ## 复习记录
 

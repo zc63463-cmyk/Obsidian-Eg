@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**贿赂**== `N`（指钱物）；
-**v.** ①==**向……行贿，收买**== `V N` `V N with N`；
+**n.** ①==**贿赂**==（指钱物）；
+**v.** ①==**向……行贿，收买**==；
 
 > [!tip] 原型义
 > **原型义**：给钱或好处以影响他人行为（用不正当手段获取利益）
@@ -123,10 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The official was accused of accepting bribes from construction companies." `[COCA-NEWS]`
-> - "He tried to bribe the judge with a large sum of money." `[COCA-NEWS]`
-> - "He resolutely refused their bribe." `[COCA-FIC]`
-> - "It is equally illegal for a person to offer a bribe as it is to accept one." `[COCA-ACAD]`
+> - He bribed immigration officials and entered the country illegally . `[例]`
+> - They bribed the waiter to find them a better table . `[例]`
+> - He was accused of accepting bribes from wealthy businessmen . `[例]`
 
 
 ---

@@ -134,8 +134,9 @@ al-(=ad-, to，向) + ly（=lig，绑，拉丁语 *ligare*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Allies were the armed forces that fought against Germany and Japan in the Second World War."（同盟国是在第二次世界大战中与德国和日本作战的武装力量——考研阅读高频背景知识）
-> - "They found themselves working alongside like-minded young people with similar values."（他们发现自己与志同道合、价值观相似的年轻人并肩工作——考研翻译常见表达）
+> - During the First World War, Turkey was an ally of Germany. `[例]`
+> - She is known to be a longtime ally of the chancellor . `[例]`
+> - He is generally considered to be the prime minister's closest political ally. `[例]`
 
 
 ---

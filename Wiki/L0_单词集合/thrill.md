@@ -142,10 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "be thrilled to do sth."（非常高兴做某事）——考研阅读/翻译常见搭配，表达积极情感
-> - "thrill seeker"（追求刺激的人）——社会/心理类文本
-> - "the thrill of discovery"（发现的兴奋）——学术/科普类文本
-> - "thriller"（惊悚作品）——文学/文化类文本
+> - The thrill of winning a competition. `[例]`
+> - So why do people still go hunting - is it the thrill of the chase ? `[例]`
+> - It gave me a real thrill to see her again after so many years . `[例]`
+> - The video shows the thrills and spills (= excitement and accidents ) of motor racing . `[例]`
 
 ---
 

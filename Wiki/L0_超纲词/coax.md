@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She coaxed her son into eating his vegetables by telling him a story. `[例]`
-> - It took hours to coax the old engine to start. `[例]`
+> - Perhaps you could coax your father into taking you to the station . `[例]`
+> - I coaxed her to eat a little bit . `[例]`
 
 ## 复习记录
 

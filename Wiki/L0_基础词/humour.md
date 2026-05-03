@@ -126,7 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A sense of humour is one of the most important qualities in a good teacher."（幽默感是一位好老师最重要的品质之一）
+> - He's got a great sense of humour (= he is very able to see things as funny ) . `[例]`
+> - I must say I find his schoolboy (= childish ) humour rather tiresome . `[例]`
+> - She was in a bad humour and gave him short answers . `[例]`
 
 
 ---

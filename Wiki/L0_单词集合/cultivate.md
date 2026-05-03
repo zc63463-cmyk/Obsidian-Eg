@@ -123,8 +123,9 @@ cult(耕作，培养) + -iv(连接) + -ate(使...)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They gave justices permanent positions so they would be free to upset those in power and have no need to cultivate political support."（他们给予法官终身职位，这样他们就可以不受约束地挑战当权者，而不需要去培养政治支持。）——考研真题阅读
-> - "Students should cultivate good study habits from an early age."（学生应从小培养良好的学习习惯。）——考研高频表达
+> - Most of the land there is too poor to cultivate. `[例]`
+> - The villagers cultivate mostly maize and beans . `[例]`
+> - She has cultivated an image as a tough negotiator . `[例]`
 
 ---
 

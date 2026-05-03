@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The innocent civilians were like lambs to the slaughter, caught in the crossfire of a conflict they had no part in creating."（无辜的平民就像待宰的羔羊，被卷入了一场他们没有参与制造的冲突的交火中——考研翻译冲突话题相关表达）
-> - "Environmental activists, gentle as lambs in their commitment to nonviolence, have nonetheless faced harsh criticism from industrial interests."（环保活动人士在坚持非暴力方面像羔羊一样温顺，但仍然面临工业利益集团的严厉批评——考研阅读环保话题相关表达）
+> - Lambs gambolling about in the fields. `[例]`
+> - She bought a side of lamb from the butcher's shop . `[例]`
+> - We saw a lamb being born . `[例]`
 
 
 ---

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**暴发户，新贵**==；②傲慢的新人；
-**adj.** ①暴发户的；
+**n.** ①==**暴发户，新贵**== `N`；②==**傲慢的新人**== `N`；
+**adj.** ①==**暴发户的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：突然跳起来的人（up-向上 + start开始/跳起 → 突然向上跳起的人）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The established players in the industry viewed the new startup as an upstart that would soon fail.（行业内的老牌企业将这家新公司视为一个很快就会失败的暴发户。）
-> - He was dismissed by his colleagues as an upstart who had not earned his position.（他被同事们视为一个没有凭本事获得职位的暴发户而遭到排斥。）
+> - Larger drug companies are buying up many of the upstart companies . `[例]`
+> - Upstart airlines like Southwest are competing today with the established carriers like Delta. `[例]`
 
 ## 复习记录
 

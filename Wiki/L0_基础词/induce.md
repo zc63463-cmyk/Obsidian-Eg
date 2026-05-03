@@ -127,8 +127,9 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The mere presence of a grape in the other chamber was enough to induce resentment in a female capuchin."（只不过在另一房间里出现了葡萄……都足以引起雌卷尾猴的怨恨。——2005年考研英语阅读 Text 1）
-> - "Nothing could induce me to join their club."（什么都不能引诱我加入他们的俱乐部。——经典例句）
+> - They induced her to take the job by promising editorial freedom . `[例]`
+> - Nothing could induce me (= I definitely cannot be persuaded ) to climb a mountain . `[例]`
+> - Pills for seasickness often induce drowsiness . `[例]`
 
 
 ---

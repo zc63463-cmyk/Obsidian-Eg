@@ -133,8 +133,9 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The compact car is ideal for city driving."（紧凑型轿车非常适合城市驾驶）
-> - "He gave a compact summary of the report."（他对报告做了简洁的总结）
+> - What a compact office ! How did you fit so much into so little space ? `[例]`
+> - They made a compact not to reveal any details . `[例]`
+> - Cars had compacted the snow until it was like ice . `[例]`
 
 
 ---

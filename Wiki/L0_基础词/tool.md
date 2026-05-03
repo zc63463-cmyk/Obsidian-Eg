@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工具，器具**==；②==**手段，方法**==；③受人利用的人（工具人）；
-**v.** ①用工具加工；
+**n.** ①==**工具，器具**== `N`；②==**手段，方法**== `N`；③==**受人利用的人（工具人）**== `N`；
+**v.** ①==**用工具加工**== `V`；
 
 > [!tip] 原型义
 > **原型义**：工具（用于完成工作的器具）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has become an essential tool for education."（互联网已成为教育的重要工具。）
-> - "Language is a tool for thought."（语言是思维的工具。）
+> - A free low-interest credit card can be a useful budgeting tool. `[例]`
+> - The artist was surrounded by paints , brushes , and other tools of the trade . `[例]`
+> - The president was widely regarded as the tool of the military . `[例]`
 
 
 ---

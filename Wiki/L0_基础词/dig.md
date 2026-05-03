@@ -125,8 +125,9 @@ dig 为日耳曼语源基础词（古英语 *dīcan*），无可拆分的词根�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Archaeologists are digging at the site of an ancient civilization."（考古学家正在一个古代文明遗址进行挖掘。）
-> - "We need to dig deeper into the data to find the real cause."（我们需要更深入地研究数据以找到真正的原因。）
+> - Digging (in) the garden is good exercise . `[例]`
+> - The dog was digging a hole to hide its bone in. `[例]`
+> - To dig, the player must anticipate the spike and be prepared to quickly dive in any direction . `[例]`
 
 
 ---

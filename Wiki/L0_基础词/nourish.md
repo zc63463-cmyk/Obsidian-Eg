@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**滋养，养育**==（提供食物或养分使生长）；②==**培养，陶冶（情感/希望/信念）**==（抽象用法，考研重点）；③怀有（希望、怨恨等）；
+**vt.** ①==**滋养，养育**== `V N`（提供食物或养分使生长）；②==**培养，陶冶（情感/希望/信念）**== `V N`（抽象用法，考研重点）；③==**怀有（希望、怨恨等）**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：喂养，使生长（源自拉丁语 *nutrire*，"哺乳、养育"）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Good books nourish the mind and soul."（好书滋养心灵与灵魂。——考研英语翻译/写作常用句型，nourish 的抽象用法）
-> - "The soil in this region is rich enough to nourish a wide variety of crops."（这个地区的土壤足够肥沃，能够滋养各种各样的农作物。——考研英语阅读农业/环境类话题，nourish 的具体用法）
+> - She looks happy and well nourished. `[例]`
+> - This cream is supposed to help nourish your skin . `[例]`
+> - Lisa has long nourished the hope of becoming a famous writer . `[例]`
 
 
 ---

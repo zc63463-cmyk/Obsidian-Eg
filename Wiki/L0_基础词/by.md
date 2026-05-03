@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……旁边，靠近**== `by N` `sit/stand by N`；②==**被，由**== `V-ed by N` [被动]；③==**通过，以……方式**== `by V-ing` `by N`；④==**到……为止，不迟于**== `by time` `by the end of N`；⑤==**按照，根据**== `by N`；
-**adv.** ①==**在旁边**== `come/go by`；②==**经过**== `pass/go by`；
+**prep.** ①==**在……旁边，靠近**==；②被，由（被动语态）；③通过，以……方式；④到……为止，不迟于；⑤按照，根据；
+**adv.** ①在旁边；②经过；
 
 > [!tip] 原型义
 > **原型义**：在旁边（空间上的靠近）
@@ -136,10 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She is by no means an inexperienced teacher. `[COCA-ACAD]`
-> - The load was lifted by means of a crane. `[COCA-ACAD]`
-> - They had entered the country by unlawful means. `[COCA-NEWS]`
-> - The window was our only means of escape. `[COCA-FICT]`
+> - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
+> - Travellers on the Silk Road 7 possibility of being attacked by thieves or being 8 to extreme weather conditions. `[真题]`
+> - Answer the questions after each text by .choosing A, B , C or D. `[真题]`
 
 
 ---

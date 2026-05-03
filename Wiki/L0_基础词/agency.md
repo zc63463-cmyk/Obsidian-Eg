@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The environmental protection agency has issued new guidelines to regulate industrial emissions and reduce air pollution."（环保署发布了新指南，以规范工业排放并减少空气污染——考研阅读环保话题相关表达）
-> - "Sociologists emphasize the importance of human agency in shaping social structures, arguing that individuals are not merely passive recipients of social forces."（社会学家强调人的能动性在塑造社会结构中的重要性，认为个人不仅仅是社会力量的被动接受者——考研阅读社会学话题相关表达）
+> - An overseas aid agency. `[例]`
+> - When the legal system acquitted these women on the grounds of insanity it denied their agency. `[例]`
+> - She was freed from prison through the agency of her doctor . `[例]`
 
 
 ---

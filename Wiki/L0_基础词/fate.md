@@ -137,8 +137,9 @@ fat-/fate(说/预言，拉丁语 *fari*，说)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fatal day of the election finally arrived."（大选决定命运的一天终于到来了。——考研政治类阅读常见表达）
-> - "She wondered whether it was fate that had brought them together."（她想知道是否是命运将他们带到了一起。——考研文学类阅读常见表达）
+> - His fate is now in the hands of the jury . `[例]`
+> - The disciples were terrified that they would suffer the same fate as Jesus . `[例]`
+> - Parents in children's stories often meet a harsh fate. `[例]`
 
 
 ---

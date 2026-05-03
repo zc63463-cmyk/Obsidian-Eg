@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**学费**==；②教学，讲授，指导；
+**n.** ①==**学费**== `N`；②==**教学，讲授，指导**== `N`；
 
 > [!tip] 原型义
 > **原型义**：看护/监护（注视并守护学生的学习）
@@ -122,8 +122,9 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cost of tuition has risen sharply over the past decade."（过去十年间学费急剧上涨。——考研高频话题）
-> - "Many students rely on loans to cover their tuition fees."（许多学生依靠贷款来支付学费。）
+> - All students receive tuition in logic and metaphysics . `[例]`
+> - Few can afford the tuition of $12,000 a semester . `[例]`
+> - All students receive tuition in basic maths . `[例]`
 
 
 ---

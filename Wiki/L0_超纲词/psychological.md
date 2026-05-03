@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**心理的，心理上的**==；②心理学的；③心理（状态）的，精神上的；
+**adj.** ①==**心理的，心理上的**== `adj`；②==**心理学的**== `adj`；③==**心理（状态）的，精神上的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与心灵/心理有关的（关于心灵运作的）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The psychological impact of unemployment can be devastating, leading to depression and loss of self-esteem.（失业的心理影响可能是毁灭性的，导致抑郁和自尊丧失。）
-> - Research has shown that psychological well-being is closely linked to physical health.（研究表明，心理健康与身体健康密切相关。）
+> - He claims that the constant aircraft noise has a bad psychological effect on the residents . `[例]`
+> - We are concerned with the physical and psychological well-being of our employees . `[例]`
 
 ## 复习记录
 

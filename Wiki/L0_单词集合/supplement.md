@@ -128,8 +128,9 @@ sup-(=sub-，从下方) + ple(填充，参见 [[lect-leg|ple/plet]]) + -ment(名
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even the very phrase 'jobseeker's allowance' is about redefining the unemployed as a 'jobseeker' who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（甚至就连'求职者补贴'这个短语也重新把失业者定义为'求职者'——丧失基本权利，不能享受自己通过缴纳国民保险所获得的福利。）——2014考研英语一阅读
-> - "Many people take vitamin supplements to maintain their health."（许多人服用维生素补充剂来维持健康。）——考研高频表达
+> - The money I get from teaching eveningnight classes provides a supplement to my main income . `[例]`
+> - We paid a supplement (= an extra amount of money ) so that we could have a cabin on board the ship . `[例]`
+> - The doctor said she should be taking vitamin supplements. `[例]`
 
 ---
 

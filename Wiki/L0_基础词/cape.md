@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**海角，岬**== `N` [地理]；②==**披肩，斗篷**== `N` [日常]；
+**n.** ①==**海角，岬**==；②披肩，斗篷；
 **v.** ①挥动披肩斗牛；
 
 > [!tip] 原型义
@@ -129,9 +129,9 @@ cape 源自拉丁语 *cappa*（斗篷、头巾），与"海角"的 cape 可能�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In 1978, Naomi James became the first woman to sail solo around the world via Cape Horn. `[COCA-ACAD]`
-> - The mysterious figure wrapped his cape tightly around his shoulders. `[COCA-FIC]`
-> - The Cape of Good Hope is a famous landmark in South Africa. `[COCA-MAG]`
+> - She caped for his rival in a social media post , leading to an exchange of insults . `[例]`
+> - The singer has been caping for the environment for years now. `[例]`
+> - The former world champion caped up for the young player after she was attacked in the media . `[例]`
 
 
 ---

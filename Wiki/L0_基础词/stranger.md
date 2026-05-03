@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Never talk to strangers."（不要和陌生人说话。）
-> - "She was no stranger to hardship."（她对苦难并不陌生。）
+> - My mother always warned me not to talk to strangers. `[例]`
+> - I'd never met anyone at the party before - they were complete strangers. `[例]`
+> - Do you know the way to the bus station , or are you a stranger here too? `[例]`
 
 
 ---

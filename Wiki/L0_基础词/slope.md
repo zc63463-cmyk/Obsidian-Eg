@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This slippery slope of eroding ethics and bigger risks leads only to disaster."（这种道德侵蚀和风险递增的滑坡效应只会导致灾难。——考研真题阅读，slippery slope 为常考搭配）
-> - "You can tell when you are over the top and on the downward slope, by asking yourself a number of questions."（通过问自己一系列问题，你可以判断自己是否过了巅峰、走上了下坡路。——考研相关语料）
-> - "He wonders why the digits on his calculator slope to the right."（他想知道为什么计算器上的数字向右倾斜。——考研相关语料）
+> - The roof is at a slope (= at an angle to a horizontal surface ) of 30°. `[例]`
+> - Snow had settled on some of the higher slopes. `[例]`
+> - There's a very steep slope just before you reach the top of the mountain . `[例]`
 
 
 ---

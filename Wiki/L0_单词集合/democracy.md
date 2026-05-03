@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Ancient Athens is often regarded as the birthplace of **democracy**.（古雅典常被视为民主制度的发源地。）
-> - The country has been struggling to establish a stable **democracy** after years of conflict.（经过多年的冲突，该国一直在努力建立一个稳定的民主制度。）
-> - **Democracy** requires an informed and engaged citizenry.（民主需要知情且积极参与的公民。）
+> - The government has promised to uphold the principles of democracy. `[例]`
+> - This is not how the media should behave in a democracy. `[例]`
+> - The school functions as a democracy, with students and staff members given equal votes on most decisions . `[例]`
 
 ---
 

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden noise startled the baby and made her cry."（突然的噪音惊吓到了婴儿，使她哭了起来。）——考研高频表达
-> - "I was startled by the sudden appearance of a stranger at my door."（一个陌生人突然出现在我家门口，把我吓了一跳。）——考研高频表达
+> - She was concentrating on her book and his voice startled her. `[例]`
+> - The noise of the car startled the birds and the whole flock flew up into the air . `[例]`
+> - Her article on diet startled many people into changing their eating habits . `[例]`
 
 ---
 

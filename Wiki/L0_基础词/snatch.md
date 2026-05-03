@@ -133,8 +133,9 @@ snatch 与 [[snap]] 同源，均来自中古荷兰语/低地德语 *snappen*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She snatched a few hours' sleep before the exam, hoping it would be enough to keep her alert."（她在考前匆忙睡了几个小时，希望能保持清醒——考研阅读生活话题相关表达）
-> - "The thief snatched the woman's purse and disappeared into the crowd before anyone could react."（小偷抢走了那位女士的钱包，在任何人反应过来之前消失在人群中——考研翻译社会话题相关表达）
+> - He snatched the photos out of my hand before I had a chance to look at them. `[例]`
+> - The six-year-old girl was snatched from a playground and her body was found two days later . `[例]`
+> - She had her purse snatched (= stolen ) while she was shopping . `[例]`
 
 
 ---

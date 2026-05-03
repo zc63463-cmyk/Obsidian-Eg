@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has a large pool of talented engineers."（公司拥有一大批优秀的工程师）
-> - "Several organizations pooled their resources to fund the research."（几个组织汇集资源资助这项研究）
+> - I spent most of my holiday sunbathing by the pool. `[例]`
+> - The weather isn't warm enough yet for splashing around in the pool. `[例]`
+> - Most kids are hanging out at the pool or that sort of thing in the summer . `[例]`
 
 
 ---

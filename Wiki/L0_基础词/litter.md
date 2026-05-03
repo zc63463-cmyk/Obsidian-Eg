@@ -136,8 +136,9 @@ litter（14世纪初，源自盎格鲁-法语 *litere* "便携式床"，源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Visitors are urged not to litter in the national park."（游客被敦促不要在国家公园内乱扔垃圾。——考研英语阅读相关语料，环保话题）
-> - "The cat gave birth to a litter of six kittens last night."（那只猫昨晚生了一窝六只小猫。——考研相关语料）
+> - About two percent of fast-food packaging ends up as litter. `[例]`
+> - A litter of kittens. `[例]`
+> - Dirty clothes littered the floor of her bedroom . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**异常的，离奇的**==；②神秘的，不可思议的；③（似曾相识的） eerie；
+**adj.** ①==**异常的，离奇的**== `adj`；②==**神秘的，不可思议的**== `adj`；③==**（似曾相识的） eerie**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：超乎寻常的（超出认知范围）
@@ -128,8 +128,8 @@ un-(不，否定前缀) + canny(精明的/知晓的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She bore an uncanny resemblance to her grandmother."（她和她的祖母惊人地相似。）
-> - "He has an uncanny ability to remember every detail."（他有记住每个细节的不可思议的能力。）
+> - It was uncanny the way that she always knew what he was thinking . `[例]`
+> - She bears an uncanny resemblance to her father's best friend . `[例]`
 
 ## 复习记录
 

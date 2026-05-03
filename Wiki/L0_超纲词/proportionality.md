@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**比例（性），均衡**==；②==**相称性，适度**==；③==**（法律）比例原则**==；
+**n.** ①==**比例（性），均衡**== `N`；②==**相称性，适度**== `N`；③==**（法律）比例原则**== `N`；
 
 > [!tip] 原型义
 > **原型义**：按比例的（各部分之间保持适当的比例关系）
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The principle of proportionality requires that any use of force be necessary and proportionate to the threat."（比例原则要求任何使用武力的行为都必须是必要的，并与威胁相称。）
+> - The Court overturned a case on proportionality grounds . `[例]`
+> - A major exception to the principle of proportionality relates to the sentencing of offenders for violent and sexual offences. `[例]`
 
 ## 复习记录
 

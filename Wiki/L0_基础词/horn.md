@@ -130,8 +130,9 @@ horn（古英语 *horn* "动物的角；角制乐器"，源自原始日耳曼语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The driver honked his horn repeatedly to warn the pedestrians."（司机反复按喇叭警告行人。——考研英语阅读相关语料）
-> - "The company found itself on the horns of a dilemma: cut costs or lose market share."（公司发现自己陷入了进退两难的境地：削减成本还是失去市场份额。——考研相关语料）
+> - The bull lowered its horns and charged straight at him. `[例]`
+> - The male deer grows large branching horns called antlers . `[例]`
+> - The handle of the knife was made of horn, perhaps elk or deer . `[例]`
 
 
 ---

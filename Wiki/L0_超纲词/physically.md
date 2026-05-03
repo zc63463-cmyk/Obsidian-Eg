@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**身体上地**==；②==**物理上地**==；③实际上，完全地（用于强调）；
+**adv.** ①==**身体上地**== `adv`；②==**物理上地**== `adv`；③==**实际上，完全地（用于强调）**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：身体上地，物理上地
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Regular exercise helps you stay physically fit and mentally sharp.（规律运动有助于保持身体健康和思维敏捷）
-> - It is physically impossible for a single person to complete this project alone.（一个人独自完成这个项目在物理上是不可能的）
+> - The protestors had to be physically removed from the room (= they were taken away) . `[例]`
+> - The work is physically demanding (= you have to work hard in a way that makes your body tired ) . `[例]`
 
 ## 复习记录
 

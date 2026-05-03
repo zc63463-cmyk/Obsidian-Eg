@@ -132,8 +132,9 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He travelled the world for a sense of adventure."（他周游世界寻求冒险的刺激感——考研英语阅读）
-> - "The adventure in Africa has been a memory of my life."（在非洲的冒险经历已经成为我生命中的一个回忆——考研英语阅读）
+> - They went on an adventure hunting for treasure in the western hills . `[例]`
+> - She had some exciting adventures in Egypt. `[例]`
+> - Sam won't come - he's got no sense of adventure (= he does not enjoy dangerous or exciting situations ) . `[例]`
 
 
 ---

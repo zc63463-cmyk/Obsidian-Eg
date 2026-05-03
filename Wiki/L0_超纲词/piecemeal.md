@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj./adv.** ①==**一件一件的，零碎的**==；②逐步的，渐进的；
+**adj./adv.** ①==**一件一件的，零碎的**== `adj`；②==**逐步的，渐进的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：一件一件地，零碎地
@@ -125,8 +125,8 @@ piece（一块/碎片）+ meal（时间/份量，古英语中表"一段时间的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government introduced healthcare reforms in a piecemeal fashion rather than as a comprehensive overhaul.（政府以零碎的方式而非全面改革的方式推行医疗改革）
-> - She gathered information piecemeal from various sources over several months.（她在几个月内从各种来源零星地收集信息）
+> - Unfortunately, everything is being done piecemeal. `[例]`
+> - Do we fix it all now, or do we approach it piecemeal over time ? `[例]`
 
 ## 复习记录
 

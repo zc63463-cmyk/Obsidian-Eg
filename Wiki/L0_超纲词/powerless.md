@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无能为力的，没有权力的**==；②无权的，弱势的；
+**adj.** ①==**无能为力的，没有权力的**== `adj`；②==**无权的，弱势的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：没有力量/权力的（缺乏改变现状的能力）
@@ -126,7 +126,8 @@ power（力量/权力）+ -less（没有）= 没有力量的→无能为力的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many citizens feel powerless to influence government decisions that affect their daily lives."（许多市民感到无力影响影响他们日常生活的政府决策。）
+> - The villagers are powerless against the armed invaders . `[例]`
+> - The police seem to be powerless (= unable ) to prevent these attacks . `[例]`
 
 ## 复习记录
 

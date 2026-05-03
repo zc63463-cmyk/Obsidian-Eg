@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**桨，橹**==（划船用的扁平工具）；
-**v.** ①划船，划桨；
+**n.** ①==**桨，橹**== `N`（划船用的扁平工具）；
+**v.** ①==**划船，划桨**== `V`；
 
 > [!tip] 原型义
 > **原型义**：划水的扁平木桨（用来推动船只前进的工具）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fishermen rowed their wooden boats with long oars through the misty lake at dawn."（渔民们在黎明时分用长桨划着木船穿过薄雾笼罩的湖面——考研阅读描写类表达）
-> - "He always puts his oar in when it comes to other people's business, which annoys everyone around him."（他总是在别人的事情上多管闲事，这让周围所有人都很烦——考研翻译日常表达）
+> - A pair of oars. `[例]`
+> - She dipped her oars into the water and pulled . `[例]`
+> - He pulled as hard as he could on the oars. `[例]`
 
 
 ---

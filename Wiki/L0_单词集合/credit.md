@@ -133,8 +133,9 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Once a discovery claim becomes public, the discoverer receives intellectual credit."（一旦一项发现公之于众，发现者便会收获智力上的赞扬。——2012年考研英语阅读Test3）
-> - "They are of the autonomous man of traditional theory, in a custom that gives him credit for his achievements."（它们是传统理论定义的自主行为人所拥有的，在一个人因成就受到肯定的习俗中，它们是至关重要的。——考研英语长难句）
+> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit �1ith Waterstones " at a very significant level" . `[真题]`
+> - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
+> - The credit limit will be removed. `[真题]`
 
 ---
 

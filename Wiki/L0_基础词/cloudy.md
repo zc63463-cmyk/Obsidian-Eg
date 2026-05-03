@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The forecast predicts cloudy skies with a chance of rain."（天气预报预测多云，有降雨可能）
-> - "His memory of the event was cloudy and unreliable."（他对那件事的记忆模糊且不可靠）
+> - Scotland will be cloudy with wintry showers . `[例]`
+> - The beer was cloudy and dark . `[例]`
+> - The water looked cloudy and not fit to drink. `[例]`
 
 
 ---

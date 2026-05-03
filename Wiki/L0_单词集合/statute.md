@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The statute of limitations for filing a lawsuit has expired."（提起诉讼的诉讼时效已经届满。）——考研高频表达
-> - "The new statute prohibits discrimination in the workplace on the basis of gender."（新法规禁止在工作场所基于性别的歧视。）——考研高频表达
+> - I doubt that such legislation will ever reach the statute book . `[例]`
+> - The salaries of most federal workers are set by statute. `[例]`
+> - Many state and federal statutes already cover identity theft . `[例]`
 
 ---
 

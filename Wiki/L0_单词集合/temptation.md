@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "resist the temptation to generalize"（抵抗一概而论的诱惑）——考研阅读/学术写作常见表达
-> - "yield to the temptation of consumerism"（屈服于消费主义的诱惑）——社会评论类阅读
-> - "the temptation to cut corners"（偷工减料的诱惑）——商业/伦理类语境
+> - As a young actress , she resisted the temptation to move to Hollywood . `[例]`
+> - He knew it was wrong to steal , but the money just lying there was too great a temptation. `[例]`
+> - Ice cream is always a real temptation for me. `[例]`
 
 ---
 

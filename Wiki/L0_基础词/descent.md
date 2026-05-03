@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She traced her descent to a 17th-century settler."（她追溯自己的血统到一位17世纪的定居者——《纽约时报》2023）
-> - "The plane began its descent into the airport."（飞机开始向机场降落——常见搭配用法）
+> - There are more than a hundred million people of African descent in Latin America . `[例]`
+> - The disease is most common among people of northern European descent. `[例]`
+> - The evidence supports our descent from a common ancestor . `[例]`
 
 
 ---

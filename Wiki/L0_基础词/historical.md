@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Historical records indicate that the ancient trade route served as a vital bridge between Eastern and Western civilizations for over a millennium."（历史记录表明，这条古代贸易路线作为东西方文明之间的重要桥梁存在了一千多年——考研阅读历史话题相关表达）
-> - "The discovery of these historical documents has shed new light on the political and social conditions of the medieval period."（这些历史文献的发现为中世纪的政治和社会状况提供了新的线索——考研翻译学术话题相关表达）
+> - Many important historical documents were destroyed when the library was bombed . `[例]`
+> - She specializes in historical novels set in 18th-century England . `[例]`
+> - The table compares historical exchange rates for five different currencies . `[例]`
 
 
 ---

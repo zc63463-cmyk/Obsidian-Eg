@@ -131,8 +131,9 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The entire project was called into question when new evidence emerged contradicting the original findings."（当出现与最初发现相矛盾的新证据时，整个项目受到了质疑——考研阅读学术话题）
-> - "Climate change poses a threat to the entire ecosystem, affecting every species from the smallest insects to the largest mammals."（气候变化对整个生态系统构成威胁，影响着从最小的昆虫到最大的哺乳动物的每一个物种——考研阅读环保话题）
+> - They got an entire set of silver cutlery as a wedding present . `[例]`
+> - He read the entire book on the flight to Buenos Aires. `[例]`
+> - Her entire family gathered for their annual reunion . `[例]`
 
 
 ---

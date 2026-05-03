@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**整理，排列，集结**== `V N` [正式]；②==**引导，带领**== `V N` [中性]；
-**n.** ①==**元帅**== `N` [正式]；②==**执法官**== `N` [正式]；
+**v.** ①==**整理，排列，集结**== `V`；②==**引导，带领**== `V`；
+**n.** ①==**元帅**== `N`；②==**执法官**== `N`；
 
 > [!tip] 原型义
 > **原型义**：安排有序（把散乱的事物整理排列好）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The lawyer marshaled all available evidence to support his client's case. [C]
-> - `[例]` The government marshaled emergency resources to respond to the natural disaster. [C]
+> - The fighting in the city followed reports of the rebels marshalling their forces in the countryside . `[例]`
+> - The company is marshalling its forces for a long court case . `[例]`
 
 ## 复习记录
 

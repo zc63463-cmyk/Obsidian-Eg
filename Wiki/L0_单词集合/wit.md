@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was at her wits' end trying to solve the problem."（她为了解决这个问题绞尽脑汁）——考研阅读/翻译中描述困境
-> - "a writer known for his sharp wit"（以犀利风趣著称的作家）——文学/人物描写
-> - "quick-witted response"（机智的回应）——日常/文学语境
+> - Her conversation sparkled with her own subtle blend of wit and charm . `[例]`
+> - Sydney Smith, a notable wit, once remarked that he never read a book before he reviewed it because it might prejudice his opinion of it. `[例]`
+> - She learned to survive on her wits. `[例]`
 
 ---
 

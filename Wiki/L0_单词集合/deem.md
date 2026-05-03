@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The proposal was deemed unacceptable by the review committee."（该提案被评审委员会认为不可接受）——学术/正式语境常见被动用法
-> - "She deemed it necessary to clarify her position before the meeting."（她认为有必要在会议前澄清自己的立场）——deem it + adj. 的典型结构
+> - The area has now been deemed safe . `[例]`
+> - We will provide help whenever you deem it appropriate . `[例]`
+> - Anyone not paying the registration fee by 31 March will be deemed to have withdrawn from the offer . `[例]`
 
 ---
 

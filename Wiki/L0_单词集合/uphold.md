@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Supreme Court upheld the lower court's decision."（最高法院维持了下级法院的判决）——考研阅读/翻译中法律类话题
-> - "uphold the principle of equal opportunity"（维护机会平等原则）——社会公平类话题
-> - "uphold traditional values"（维护传统价值观）——文化类阅读
+> - As a police officer you are expected to uphold the law whether you agree with it or not. `[例]`
+> - The court is said to be upholding its decision . `[例]`
+> - When he took office he swore to uphold the laws of the land . `[例]`
 
 ---
 

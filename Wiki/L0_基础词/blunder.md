@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大错，愚蠢的错误**== `N`；
-**vi.** ①==**犯大错**== `V`；②==**踉踉跄跄地走**== `V prep N`；
+**n.** ①==**大错，愚蠢的错误**==；
+**vi.** ①==**犯大错**==；②==**踉踉跄跄地走**==；
 
 > [!tip] 原型义
 > **原型义**：因盲目而犯的大错（古诺斯语 *blundra*，"to shut one's eyes"，闭着眼睛→盲目→犯错）
@@ -131,9 +131,9 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He said that the tax was a major political blunder. `[COCA-NEWS]`
-> - I could hear him blundering around in the darkness. `[BNC-SPOKEN]`
-> - Police blundered by not releasing more details about the case to focus public interest. `[COCA-NEWS]`
+> - He said that the tax was a major political blunder. `[例]`
+> - I made a blunder by getting his name wrong . `[例]`
+> - I could hear him blundering around in the darkness . `[例]`
 
 
 ---

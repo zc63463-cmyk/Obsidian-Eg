@@ -150,8 +150,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Great leaders recognize the weak signals or slight signs that point to big changes to come."（伟大的领导者能识别出指向未来重大变化的微弱信号或细微迹象。——考研英语真题）
-> - "Scan the highlights of this year's Consumer Electronics Show (CES), and you may get a slight feeling of having seen them before."（浏览今年国际消费电子展的亮点，你可能会有一点似曾相识的感觉。——考研英语真题）
+> - She had a slight headache . `[例]`
+> - Like most long-distance runners she is very slight. `[例]`
+> - It's a slight but enjoyable tale . `[例]`
 
 
 ---

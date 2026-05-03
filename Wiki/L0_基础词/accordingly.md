@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a difficult job and they should be paid accordingly."（这是一项艰巨的工作，他们应该相应地获得报酬——考研翻译高频表达）
-> - "The cost of materials rose sharply last year. Accordingly, we were forced to increase our prices."（去年材料成本大幅度提高，因此我们被迫加价——考研阅读经济话题相关表达）
+> - When we receive your instructions we will act accordingly. `[例]`
+> - The cost of materials rose sharply last year. Accordingly, we were forced to increase our prices. `[例]`
+> - There may be heavy traffic due to the game , so plan accordingly. `[例]`
 
 
 ---

@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was mugged on his way home from work."（他在下班的路上被抢劫了）
-> - "She sipped her coffee from a large mug."（她用一个大杯子喝咖啡）
+> - He's such a mug, he believes everything she tells him. `[例]`
+> - He was mugged in broad daylight . `[例]`
+> - Who knocked over that mug of coffee ? `[例]`
 
 
 ---

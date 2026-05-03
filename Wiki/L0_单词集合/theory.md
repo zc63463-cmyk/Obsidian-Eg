@@ -141,10 +141,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In theory, the plan should work perfectly."（理论上，这个计划应该完美运行）——高频句型
-> - "Darwin's theory of evolution revolutionized our understanding of life."（达尔文的进化论彻底改变了我们对生命的理解）——科学/学术语境
-> - "My theory is that the company's success is due to its innovative culture."（我的看法是，公司的成功归功于其创新文化）——商业/分析语境
-> - "There is a gap between theory and practice."（理论与实践之间存在差距）——常见表达
+> - Darwin's theory of evolution. `[例]`
+> - He has a theory that the hole was caused by a meteorite . `[例]`
+> - In theory, the journey should take three hours , but in practice it usually takes four because of roadworks . `[例]`
+> - I have a theory (= an opinion ) about why everybody in the city is in such a hurry . `[例]`
 
 ---
 

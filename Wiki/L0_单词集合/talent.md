@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "have a talent for languages"（有语言天赋）——考研阅读/翻译中描述个人能力
-> - "talent pool in the tech industry"（科技行业的人才库）——商业/社会类阅读话题
-> - "raw talent needs to be nurtured"（原始天赋需要培养）——教育类话题常见表达
-> - "the Parable of the Talents"（塔兰特寓言）——宗教/文化类文本典故
+> - Her talent for music showed at an early age . `[例]`
+> - His artistic talents were wasted in his boring job . `[例]`
+> - She is a real talent, a fine writer with a gift for wordplay and a knack for description . `[例]`
+> - They believe the young player is a rare talent, who will go on to have great success . `[例]`
 
 ---
 

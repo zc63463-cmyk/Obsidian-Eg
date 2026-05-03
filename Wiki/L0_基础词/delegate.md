@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was always overburdened with too many trivial tasks because he found it impossible to delegate."（他总是被太多琐碎任务压得喘不过气，因为他觉得不可能把工作委派出去——Cambridge Dictionary）
-> - "The secret of good management is knowing when you can delegate tasks to your staff."（优秀管理的秘诀是知道何时可以将工作任务委派给员工——China Daily 英语学习）
+> - Delegates have voted in favour of the motion . `[例]`
+> - Each union elects several delegates to the annual conference . `[例]`
+> - As a boss you have to delegate responsibilities to your staff . `[例]`
 
 
 ---

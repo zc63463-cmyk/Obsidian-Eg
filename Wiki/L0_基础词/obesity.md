@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**肥胖，肥胖症**==（医学名词，指过度肥胖的状态）；
+**n.** ①==**肥胖，肥胖症**== `N`（医学名词，指过度肥胖的状态）；
 
 > [!tip] 原型义
 > **原型义**：吃得太多把自己吃胖了（过度进食→肥胖）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Childhood obesity has become a serious public health concern in many developed countries, with rates nearly tripling over the past three decades."（儿童肥胖症已成为许多发达国家严重的公共卫生问题，其比率在过去三十年中几乎增加了两倍——考研阅读健康话题）
-> - "The government has launched a nationwide campaign to combat obesity by promoting healthy eating habits and regular physical exercise."（政府发起了一项全国性的运动，通过推广健康饮食习惯和定期体育锻炼来对抗肥胖——考研翻译社会话题）
+> - The National Institute of Health is discussing ways of tackling the problem of childhood obesity. `[例]`
+> - A diet that is high in fat and sugar can lead to obesity. `[例]`
+> - Obesity can increase the risk of heart disease. `[例]`
 
 
 ---

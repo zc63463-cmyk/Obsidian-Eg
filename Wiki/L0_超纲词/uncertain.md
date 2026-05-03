@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不确定的，拿不准的**==；②变化的，不稳定的；③犹豫的；
+**adj.** ①==**不确定的，拿不准的**== `adj`；②==**变化的，不稳定的**== `adj`；③==**犹豫的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不确定的（没有把握的）
@@ -130,8 +130,8 @@ un-(不，否定前缀) + [[cert|cert]](确定/确信) + -ain(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The future of the company remains uncertain."（公司的未来仍然不确定。）
-> - "She was uncertain whether to accept the offer."（她不确定是否要接受这个提议。）
+> - She's uncertain wh ether to go to New Zealand or not. `[例]`
+> - Ariana was uncertain about meeting him. `[例]`
 
 ## 复习记录
 

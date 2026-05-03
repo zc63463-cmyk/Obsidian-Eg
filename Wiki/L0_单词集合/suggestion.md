@@ -121,8 +121,9 @@ sug-（sub- 在 g 前的同化：从下方）+ gest（带来，建议创建词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She made the suggestion that we postpone the meeting until next week."（她建议我们将会议推迟到下周——考研高频表达）
-> - "The teacher made several helpful suggestions for improving my writing."（老师提出了几条有助于改进我写作的建议——考研高频表达）
+> - I don't know what to wear tonight - do you have any suggestions? `[例]`
+> - She made some very helpful suggestions but her boss rejected them all. `[例]`
+> - They didn't like my suggestion that we should all share the cost . `[例]`
 
 
 ---

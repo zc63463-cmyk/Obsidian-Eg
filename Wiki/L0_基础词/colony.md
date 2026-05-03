@@ -130,8 +130,9 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "India, once the jewel in the crown of the British Empire, gained independence in 1947 after nearly two centuries of colonial rule."（印度，曾是大英帝国皇冠上的明珠，在近两个世纪的殖民统治后于1947年获得独立——考研阅读历史话题）
-> - "A colony of bacteria was found to thrive in the extreme conditions of the deep ocean vents."（人们发现在深海热泉的极端条件下有一群细菌繁衍生息——考研阅读科学话题）
+> - An artists ' colony. `[例]`
+> - Many behavioural patterns have been identified in the chimp colony. `[例]`
+> - India was a British colony. `[例]`
 
 
 ---

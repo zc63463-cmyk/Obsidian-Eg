@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**停止；停滞；静止状态**==；②停顿；僵局；
+**n.** ①==**停止；停滞；静止状态**== `N`；②==**停顿**== `N`；僵局；
 
 > [!tip] 原型义
 > **原型义**：站着不动（身体保持站立姿势，不移动）
@@ -124,8 +124,8 @@ stand（站，站立）+ still（静止，不动）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Traffic was brought to a complete standstill by the heavy snow.（大雪使交通完全瘫痪。）
-> - Negotiations have reached a standstill.（谈判已陷入僵局。）
+> - The runaway bus eventually came to a standstill when it rolled into a muddy field . `[例]`
+> - Fighting and shortages have brought normal life to a virtual standstill in the city . `[例]`
 
 ## 复习记录
 

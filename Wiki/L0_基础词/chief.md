@@ -138,8 +138,9 @@ chief 源自拉丁语 *caput*（头），经由古法语 *chef* 演变而来。�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One devil, dat Spitz." remarked Perrault.（"那个恶魔，就是斯皮茨。"佩罗说。——The Call of the Wild, Jack London, 首领/头领相关语境）
-> - "This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance."（这种日益提高的教育水平可能是先进经济表现所需的复杂政治体系的必要而非充分条件——考研高频表达，chief concern 相关语境）
+> - The chief problem we have in the area now is the spread of disease . `[例]`
+> - The weather was our chief reason for coming here. `[例]`
+> - A new chief of the security forces has just been appointed . `[例]`
 
 
 ---

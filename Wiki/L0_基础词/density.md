@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Half a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living."（半个世纪的城乡规划使它能保持令人称羡的乡村和谐，同时使低密度城市居住成为可能——2016年英语一Text 2）
-> - "So why not limit the density of food outlets, particularly ones that sell food rich in empty calories?"（那么为什么不限制食品店的密度，尤其是那些出售富含空热量食品的店铺呢？——考研阅读高频表达）
-> - "He suggested that the main cause of social differentiation was the increase in population density."（他认为社会分化的主要原因是人口密度的增加——考研阅读高频表达）
+> - The area has a high population density. `[例]`
+> - We were unable to move because of the density of the crowd . `[例]`
+> - Lead has a high density. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**烹饪的，厨房的**== `adj N` [正式]；②==**烹调用的**== `adj N` [正式]；
+**adj.** ①==**烹饪的，厨房的**== `adj`；②==**烹调用的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与厨房/烹饪相关的（拉丁语 *culina* "厨房"）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Italian culinary traditions have influenced food cultures around the world. `[例]`
-> - She enrolled in a culinary school to pursue her dream of becoming a professional chef. `[例]`
+> - The culinary delights (= good food ) of Beijing. `[例]`
+> - My culinary skills are limited to boiling water (= I am not very good at cooking ) . `[例]`
 
 ## 复习记录
 

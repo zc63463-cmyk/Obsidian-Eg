@@ -127,7 +127,7 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Lack of funding proved to be a major hindrance to the research project. `[例]`
+> - I've never considered my disability a hindrance, but other people have. `[例]`
 > - His lack of experience was more of a hindrance than he had anticipated. `[例]`
 > - Poor time management can be a serious hindrance to academic success. `[例]`
 

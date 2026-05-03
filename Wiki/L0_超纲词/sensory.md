@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**感官的，感觉的**==；②==**感官上的**==（通过感官传递的）；
+**adj.** ①==**感官的，感觉的**== `adj`；②==**感官上的**== `adj`（通过感官传递的）；
 
 > [!tip] 原型义
 > **原型义**：与感官有关的（通过视觉、听觉、触觉、味觉、嗅觉感知的）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Sensory deprivation can lead to hallucinations and psychological distress."（感官剥夺可能导致幻觉和心理痛苦。）
-> - "The sensory experience of eating involves taste, smell, texture, and even sound."（进食的感官体验涉及味觉、嗅觉、质地甚至声音。）
+> - The show reflects the sensory overload of contemporary culture, with all the flashing screens and blaring music. `[例]`
+> - A study was conducted on sensory stimulation and its effects on the brain. `[例]`
 
 ## 复习记录
 

@@ -126,8 +126,9 @@ lyr(里拉琴，希腊语 *lyra*) + -ic(形容词/名词后缀，与……相关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Bob Dylan was awarded the Nobel Prize in Literature for his poetic lyrics."（鲍勃·迪伦因其富有诗意的歌词获得诺贝尔文学奖）
-> - "The lyrics of this song capture the feeling of homesickness perfectly."（这首歌的歌词完美地捕捉了思乡之情）
+> - Paul Simon wrote the lyrics for most of his songs . `[例]`
+> - He is known more as a novelist than as a lyric poet . `[例]`
+> - The most obvious difference between the genres is that narrative poems tell a story and lyric poems don’t. `[例]`
 
 
 ---

@@ -125,8 +125,9 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Delhi necklace which her father had bought for her when in India years ago. In her youth it had been her favourite ornament."（那条德里项链是她父亲多年前在印度给她买的。在她年轻时，那是她最喜欢的饰物。——Project Gutenberg）
-> - "She wears a low bodice and a necklace; a train from her shoulders falls over a frilled and flounced petticoat."（她穿着低胸上衣，戴着项链；从肩膀垂下的裙摆落在荷叶边衬裙上。——Yale University Library）
+> - She fingered her necklace absent-mindedly as she talked . `[例]`
+> - Her diamond necklace glittered brilliantly under the spotlights . `[例]`
+> - This necklace was handed down to my mother by my grandmother . `[例]`
 
 
 ---

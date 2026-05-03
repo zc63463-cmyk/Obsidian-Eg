@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**组织，机构，团体**== ; ②组织工作，安排
+**n.** ①==**组织，机构，团体**== `N` ; ②==**组织工作，安排**== `N`
 
 > [!tip] 原型义
 > **原型义**：使各部分像器官一样协调运作的整体
@@ -123,8 +123,9 @@ organ(器官/工具) + -ize(动词后缀，使动"使…化") + -ation(名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The World Health Organization plays a crucial role in global health governance."（世界卫生组织在全球卫生治理中发挥着关键作用。）——考研高频表达
-> - "She works for a non-profit organization that helps homeless people."（她在一家帮助无家可归者的非营利组织工作。）——考研高频表达
+> - The article was about international aid organizations. `[例]`
+> - Labor organizations have contributed heavily to the Democratic campaigns . `[例]`
+> - An organization by subject rather than by date seems to make sense . `[例]`
 
 ---
 

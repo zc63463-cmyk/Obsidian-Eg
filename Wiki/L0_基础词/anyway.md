@@ -126,8 +126,9 @@ any(任何) + way(方式/路径)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government's policy may be flawed, but it is a step in the right direction anyway."（政府的政策可能有缺陷，但不管怎样，它是朝正确方向迈出的一步。——考研英语阅读社会政策类话题）
-> - "Thanks anyway for your help, even though we couldn't solve the problem."（还是感谢你的帮助，尽管我们没能解决这个问题。——考研英语翻译常见表达）
+> - If it's their vacation home anyway, and it's just empty, why c:an't you make money off it?" Hom said. `[真题]`
+> - Of course I don't mind taking you home - I'm going that way anyway. `[例]`
+> - I thought you said everyone had left ." "Well, some of them have anyway. `[例]`
 
 
 ---

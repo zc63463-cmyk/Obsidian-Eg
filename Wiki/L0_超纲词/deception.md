@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**欺骗，欺诈**== `N` [消极]；②==**骗局，骗术**== `N` [消极]；③==**错觉，幻觉**== `N` [中性]；
+**n..** ①==**欺骗，欺诈**== `N`；②==**骗局，骗术**== `N`；③==**错觉，幻觉**== `N`；
 
 > [!tip] 原型义
 > **原型义**：拿走真相（用假象替代真相）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The advertisement was criticized for its deception of consumers. `[例]`；
-> - She realized that his charming personality was nothing but a clever deception. `[例]`；
+> - He was found guilty of obtaining money by deception. `[例]`
+> - Most advertising involves at least some deception. `[例]`
 
 ## 复习记录
 

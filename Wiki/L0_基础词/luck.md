@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She had the good luck to find a well-paid job immediately after graduation."（她运气好，毕业后立刻找到了一份高薪工作）
-> - "By a stroke of luck, we managed to catch the last train."（靠运气，我们赶上了最后一班火车）
+> - It was just luck that I asked for a job at the right time . `[例]`
+> - Then I met this gorgeous woman and I couldn't believe my luck. `[例]`
+> - She wears a charm that she thinks brings her good luck. `[例]`
 
 
 ---

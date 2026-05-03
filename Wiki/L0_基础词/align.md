@@ -132,8 +132,9 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Aircraft equipped with slaved compass systems may be susceptible to heading errors caused by exposure to magnetic field disturbances, which can cause the aircraft's system to align with the material's magnetic field rather than the earth's natural magnetic field."（配备从动罗盘系统的飞机可能因暴露于磁场干扰而产生航向误差，这可能导致飞机系统与材料的磁场而非地球的自然磁场对齐——FAA Air Navigation）
-> - "Progressive alignment is a strictly pairwise algorithm and the branching order within these tied groups will be completely arbitrary."（渐进式比对是一种严格的逐对算法，在这些并列组内的分支顺序将是完全任意的——Algorithms for Molecular Biology）
+> - When you've aligned the notch on the gun with the target , fire ! `[例]`
+> - Make sure the columns align in the chart . `[例]`
+> - The post was deleted because it did not align with the values of this website . `[例]`
 
 
 ---

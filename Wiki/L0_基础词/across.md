@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy has sparked intense debate across the country, with opinions sharply divided along political lines."（新政策在全国范围内引发了激烈辩论，各方观点沿政治界线 sharply 分化——考研阅读社会话题相关表达）
-> - "It is difficult to get your ideas across in a foreign language, especially when discussing complex academic topics."（用外语传达你的想法很困难，尤其是在讨论复杂的学术话题时——考研翻译教育话题相关表达）
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+> - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
+> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
 
 
 ---

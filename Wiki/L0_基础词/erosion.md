@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Soil erosion is a major environmental problem that threatens agricultural productivity."（土壤侵蚀是威胁农业生产力的一个主要环境问题——考研阅读环境话题高频表达）
-> - "The erosion of civil liberties in the name of national security has raised serious concerns."（以国家安全为名对公民自由的侵蚀引发了严重关切——考研阅读政治话题常见表达）
+> - The figures do not take account of environmental losses such as coastal erosion. `[例]`
+> - The landscape is marked by gullies and ravines formed by soil erosion. `[例]`
+> - The survey reveals a gradual erosion of the president's popularity and support . `[例]`
 
 
 ---

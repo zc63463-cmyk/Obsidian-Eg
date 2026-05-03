@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even a dim light can guide travelers through the darkest night."（即使是一盏昏暗的灯也能引导旅行者穿过最黑暗的夜晚。）——考研高频表达
-> - "Her memories of that summer have grown dim with the passage of time."（随着时光流逝，她对那个夏天的记忆已经变得模糊。）——考研高频表达
+> - He sat in a dim corner of the waiting room . `[例]`
+> - We could see a dim (= not easily seen ) shape in the fog . `[例]`
+> - I had a dim recollection of having met her before. `[例]`
 
 ---
 

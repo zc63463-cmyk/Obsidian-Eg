@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大量，多样性**== `a N of N` [学术]；②==**多重性**== `the N of N` [学术]；
+**n.** ①==**大量，多样性**== `N`；②==**多重性**== `N`；
 
 > [!tip] 原型义
 > **原型义**：大量，多样性
@@ -125,8 +125,8 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The problem was caused by a multiplicity of factors, making it difficult to identify a single solution. [C]
-> - `[例]` The multiplicity of languages spoken in the region reflects its rich cultural history. [C]
+> - There is a multiplicity of fashion magazines to choose from. `[例]`
+> - She knew a multiplicity of languages . `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**无情地，残忍地**== `adv V` `adv attack` [负面]；②==**毫不留情地**== `adv V` `adv criticize` [负面]；
+**adv.** ①==**无情地，残忍地**== `adv`；②==**毫不留情地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：毫无怜悯地施加打击或批评
@@ -126,8 +126,8 @@ merc(怜悯，拉丁语 *merces* 报酬→仁慈) + -less(没有) + -ly(副词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` The critics mercilessly tore apart the new policy. [C]
-> - `` `[例]` `` The storm mercilessly battered the coastal towns for three consecutive days. [C]
+> - Louis was teased mercilessly by his schoolmates . `[例]`
+> - He didn't fit in there, and was picked on mercilessly. `[例]`
 
 ## 复习记录
 

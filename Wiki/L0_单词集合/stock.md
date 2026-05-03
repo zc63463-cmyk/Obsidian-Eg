@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The savings and loan scandal, the stock market and junk bond swindles have undermined the faith of many Americans in the integrity of political and economic leaders."（储蓄贷款丑闻、股市和垃圾债券诈骗已经动摇了许多美国人对政治和经济领导人正直性的信心。）——考研高频表达
-> - "Stock market prices began to climb as investors regained confidence."（随着投资者恢复信心，股市价格开始攀升。）——考研高频表达
+> - However D. stock up on D. implied D. although D. series Read the following four texts. `[真题]`
+> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
+> - Their stock is underestimated. `[真题]`
 
 ---
 

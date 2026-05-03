@@ -138,8 +138,9 @@ fat-/fate(命运，拉丁语 *fatum*) + -al(形容词后缀，...的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There was a fatal flaw in the plan."（计划中有一个致命的缺陷。——考研阅读/翻译高频表达）
-> - "We have long known that total sleep deprivation is 100 percent fatal to rats, yet, upon examination of the dead bodies, the animals look completely normal."（我们早已知道，完全剥夺老鼠的睡眠对其具有100%的致命性，然而，在检查老鼠死尸时，这些动物看上去完全正常。——考研完形填空高频表达）
+> - There was a fatal flaw in the plan. `[例]`
+> - This illness is fatal in almost all cases . `[例]`
+> - The fatal shooting of an unarmed 15-year-old. `[例]`
 
 
 ---

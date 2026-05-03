@@ -126,9 +126,9 @@ spur 源自古英语 *spura*（马刺），与日耳曼语族同源。无标准�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Lower interest rates can spur economic growth by encouraging borrowing and investment."（较低的利率可以通过鼓励借贷和投资来刺激经济增长。）——考研高频表达
-> - "The crisis spurred the government to take immediate action to address the problem."（这场危机促使政府立即采取行动解决问题。）——考研高频表达
-> - "Competition acts as a spur to innovation and efficiency."（竞争是创新和效率的动力。）——考研高频表达
+> - Rising consumer sales have the effect of spurring the economy to faster growth . `[例]`
+> - Spurred (on) by her early success , she went on to write four more novels in rapid succession . `[例]`
+> - He spurred his horse on and shouted "Faster! Faster! `[例]`
 
 ---
 

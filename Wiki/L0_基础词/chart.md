@@ -132,8 +132,9 @@ chart 源自拉丁语 *charta*（纸、纸莎草纸），源自希腊语 *khart�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers charted the patients' recovery over a six-month period, revealing significant improvements in most cases."（研究人员记录了患者六个月的康复过程，发现大多数病例有显著改善——考研医学类语料）
-> - "The flow chart illustrates the process of how a bill becomes law in the parliamentary system."（流程图说明了法案在议会制度中如何成为法律的过程——考研政治类语料）
+> - There is a chart on the classroom wall showing the relative heights of all the children . `[例]`
+> - The sales chart shows a distinct decline in the past few months . `[例]`
+> - We need some sort of graph on which we can chart our progress . `[例]`
 
 
 ---

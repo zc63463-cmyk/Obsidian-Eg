@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**轨道**==（天体运行的路径）；②==**势力范围，影响范围**==；
-**v.** ①==**绕轨道运行**==；②沿轨道移动
+**n.** ①==**轨道**== `N`（天体运行的路径）；②==**势力范围，影响范围**== `N`；
+**v.** ①==**绕轨道运行**== `V`；②==**沿轨道移动**== `V`
 
 > [!tip] 原型义
 > **原型义**：圆形轨道
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The satellite was successfully placed in orbit around the Earth."（卫星成功进入绕地球运行的轨道。——科技语料）
-> - "The company operates within the orbit of the global market."（这家公司在全球市场的势力范围内运营。——商业语料）
+> - The satellite is now in a stable orbit. `[例]`
+> - Once in space , the spacecraft will go into orbit around Earth . `[例]`
+> - A dental infection involving the upper teeth can easily spread itself into the orbit. `[例]`
 
 
 ---

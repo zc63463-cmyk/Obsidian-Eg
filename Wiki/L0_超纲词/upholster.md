@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**为（家具等）装垫子，装套**==；②翻新（家具的）软装；
+**v.** ①==**为（家具等）装垫子，装套**== `V`；②==**翻新（家具的）软装**== `V`；
 
 > [!tip] 原型义
 > **原型义**：给家具装上装饰（up-向上/在上面 + holdster 握持者→固定器→装上固定物）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The old armchair was beautifully upholstered in deep green velvet.（这把旧扶手椅用深绿色天鹅绒精美地重新包了面。）
-> - Many antique dealers offer to upholster vintage furniture to meet modern tastes.（许多古董商提供为复古家具翻新软装的服务，以满足现代审美。）
+> - The couch was upholstered with a bright, floral fabric. `[例]`
+> - The cabin, meanwhile, is home to two bucket seats upholstered in black leather with blue inserts and red Oreca racing harnesses, air conditioning, and an Alpine CD stereo system. `[例]`
 
 ## 复习记录
 

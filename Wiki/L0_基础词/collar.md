@@ -130,8 +130,9 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decline of manufacturing has left many blue-collar workers struggling to find stable employment."（制造业的衰退使许多蓝领工人难以找到稳定的就业——考研阅读经济话题）
-> - "White-collar workers are increasingly vulnerable to job displacement due to automation and artificial intelligence."（由于自动化和人工智能，白领工人越来越容易面临工作被取代的风险——考研阅读科技话题）
+> - A dress with a big collar. `[例]`
+> - I grabbed the dog by the collar and dragged it out of the room . `[例]`
+> - The bird has grey feathers with a lighter collar. `[例]`
 
 
 ---

@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students who fail to meet the deadline will not have their work accepted."（未能在截止日期前提交的学生，其作品将不被接受。——考研阅读教育类）
-> - "The government set a strict deadline for the completion of the project."（政府为项目完成设定了严格的截止日期。——红宝书考研词汇例句）
+> - There's no way I can meet that deadline. `[例]`
+> - We're working to a tight deadline (= we do not have much time to finish the work ) . `[例]`
+> - I'm afraid you've missed the deadline - the deadline for applications was 30 May. `[例]`
 
 
 ---

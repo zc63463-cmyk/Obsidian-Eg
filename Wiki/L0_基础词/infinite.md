@@ -131,8 +131,9 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Human beings have an infinite capacity for self-deception."（人类自欺的能力是无穷尽的。——考研阅读类表达）
-> - "He found that many of his subjects were confused by the infinite options their money presented them with."（他发现许多实验对象被金钱带给他们的无限选择所困惑。——考研阅读常见表达）
+> - The universe is theoretically infinite. `[例]`
+> - A potentially infinite number of sentences might occur in any language . `[例]`
+> - Mathematicians proved that the population of prime numbers includes an infinite collection of arithmetic progressions . `[例]`
 
 
 ---

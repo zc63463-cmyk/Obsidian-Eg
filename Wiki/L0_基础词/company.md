@@ -131,8 +131,9 @@ com-(一起) + [[pan|pan-]](面包，拉丁语 *panis*) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has been struggling to maintain its market share."（这家公司一直努力维持其市场份额——考研阅读高频表达）
-> - "I enjoy his company."（我喜欢他的陪伴）
+> - Both of these books are published next week by Penguin R.andom House ( PRH) , a company currently involved in a stand-off with Waterstones. `[真题]`
+> - No smoking is company policy . `[例]`
+> - It was a long trip and I was grateful for his company. `[例]`
 
 
 ---

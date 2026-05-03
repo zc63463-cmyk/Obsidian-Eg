@@ -136,8 +136,9 @@ clip 源自古英语 *clyppan*（拥抱、夹紧），与 clamp（夹钳）同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She clipped a badge to her jacket before entering the conference room."（她在进入会议室前将徽章别在外套上——常见搭配用法）
-> - "The news channel played a video clip of the president's speech during the evening broadcast."（新闻频道在晚间广播中播放了总统演讲的视频片段——常见搭配用法）
+> - The wires were fastened together with a plastic clip. `[例]`
+> - We set off at a good clip, but we gradually slowed down. `[例]`
+> - That hedge needs a clip. `[例]`
 
 
 ---

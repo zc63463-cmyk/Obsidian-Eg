@@ -129,8 +129,9 @@ famine 源自古法语 famine（饥饿、饥荒），来自通俗拉丁语 *\*fa
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The long drought was followed by months of famine."（久旱之后长达数月的饥荒随之而来。——考研英语阅读环境类话题）
-> - "Thousands of refugees are trapped by war, drought and famine."（成千上万的难民陷于战争、旱灾和饥荒之中。——考研英语阅读社会类话题）
+> - Another crop failure could result in widespread famine. `[例]`
+> - There were reports of refugees dying of famine. `[例]`
+> - Thousands of people emigrated during the Irish potato famine of 1845–46. `[例]`
 
 
 ---

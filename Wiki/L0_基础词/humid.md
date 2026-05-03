@@ -120,7 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hot and humid climate of the region makes it difficult for people to work outdoors."（该地区炎热潮湿的气候使人们难以在户外工作）
+> - New York is very hot and humid in the summer . `[例]`
+> - These ferns will grow best in a humid atmosphere. `[例]`
+> - The island is hot and humid in the summer. `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**前景，可能性，预期**==；②==**景色，景观**==；③==**潜在客户，有望成功的人**==；④勘探，探索；
-**v.** ①==**勘探，探矿**==；②寻找（商业机会）；
+**n.** ①==**前景，可能性，预期**== `N`；②==**景色，景观**== `N`；③==**潜在客户，有望成功的人**== `N`；④==**勘探，探索**== `N`；
+**v.** ①==**勘探，探矿**== `V`；②==**寻找（商业机会）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：向前看（目光投向远方→看到的前景/景色）
@@ -133,8 +133,9 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Is there any chance that Cardus's criticism will enjoy a revival? The prospect seems remote."（卡杜斯的批评有可能重获新生吗？前景似乎很遥远。——考研英语阅读真题）
-> - "The prospect of working abroad attracted many graduates."（出国工作的前景吸引了许多毕业生。——2015年考研英语一阅读）
+> - Is there any prospect of the weather improving ? `[例]`
+> - There seems little prospect of an end to the dispute . `[例]`
+> - There's not much prospect that this war will be over soon . `[例]`
 
 
 ---

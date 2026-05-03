@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**聚光灯**==；②公众关注的中心；
-**v.** ①用聚光灯照射；②使突出，使成为焦点；
+**n.** ①==**聚光灯**== `N`；②==**公众关注的中心**== `N`；
+**v.** ①==**用聚光灯照射**== `V`；②==**使突出，使成为焦点**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：舞台上的聚光灯（将光线集中在一个特定区域）
@@ -129,7 +129,8 @@ spot(点，斑点) + light(光)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The documentary put the spotlight on the environmental crisis facing the region."（这部纪录片使该地区面临的环境危机受到了公众关注。）
+> - The senator has been in the spotlight recently since the revelation of his tax frauds . `[例]`
+> - Spotlights followed the two dancers around the stage . `[例]`
 
 ## 复习记录
 

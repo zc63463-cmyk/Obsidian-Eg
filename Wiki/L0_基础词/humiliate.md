@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was humiliated by having to ask for money."（他不得不开口要钱，感到十分屈辱）
+> - How could you humiliate me by questioning my judgment in front of everyone like that? `[例]`
+> - England were humiliated (= completely defeated ) in last night's match . `[例]`
+> - They called him an old fool in public just to humiliate him. `[例]`
 
 
 ---

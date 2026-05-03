@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was overtaken on the final lap."（他在最后一圈被超过。——考研阅读常见表达）
-> - "She sat with her hands in her lap."（她双手放在大腿上坐着。——考研翻译常见描写）
+> - He was overtaken on the final lap. `[例]`
+> - She sat with her hands in her lap. `[例]`
+> - He recorded the fastest lap in last weekend's Hungarian Grand Prix. `[例]`
 
 
 ---

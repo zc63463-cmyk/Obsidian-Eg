@@ -128,8 +128,9 @@ any(任何) + where(地方)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cost of the project could be anywhere from ten to twenty million dollars."（这个项目的成本可能在1000万到2000万美元之间。——考研英语阅读经济类话题，anywhere from...to... 高频考点）
-> - "We cannot find evidence of life anywhere in the universe so far."（到目前为止，我们在宇宙中任何地方都找不到生命的证据。——考研英语阅读科技类话题）
+> - I was wondering if there was anywhere I could go to get this repaired . `[例]`
+> - There are quite a few words that they use in that part of the country that you don't hear anywhere else . `[例]`
+> - They live in some tiny little village miles from anywhere (= a very long way from any towns ) . `[例]`
 
 
 ---

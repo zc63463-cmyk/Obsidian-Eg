@@ -132,8 +132,9 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is planning an exit from the European market."（公司正计划退出欧洲市场。）
-> - "He made a quick exit when he saw his ex-girlfriend."（他看到前女友时迅速离开了。）
+> - We headed for the nearest exit. `[例]`
+> - The fire exit (= the door you can escape through if there is a fire ) is located at the back of the building . `[例]`
+> - Please ensure that emergency exits are kept clear at all times . `[例]`
 
 
 ---

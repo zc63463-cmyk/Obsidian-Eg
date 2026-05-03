@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**假的，伪造的**==；②虚伪的，做作的；
-**n.** ①==**骗子，假货**==；
+**adj.** ①==**假的，伪造的**== `adj`；②==**虚伪的，做作的**== `adj`；
+**n.** ①==**骗子，假货**== `N`；
 
 > [!tip] 原型义
 > **原型义**：假的，伪造的
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She could see right through his phoney smile.（她能一眼看穿他的假笑）
-> - The website was exposed as a phoney designed to steal personal information.（该网站被揭露为一个旨在窃取个人信息的假网站）
+> - All salespeople seem to have the same phoney smile . `[例]`
+> - He gave the police a phoney address . `[例]`
 
 ## 复习记录
 

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**毯子，毛毯**== `under the blanket / wrap in a blanket`；②==**厚厚的覆盖层**== `a blanket of snow/fog`（如积雪层）
-**adj.** ①==**总括的，全面的**== `a blanket ban / blanket coverage`（不加区分的，适用于整体的）；② blanket ban/coverage
-**v.** ①==**覆盖，笼罩**== `be blanketed by / with`（用毯子般的东西覆盖）
+**n.** ①==**毯子，毛毯**==；②==**厚厚的覆盖层**==（如积雪层）
+**adj.** ①==**总括的，全面的**==（不加区分的，适用于整体的）；② blanket ban/coverage
+**v.** ①==**覆盖，笼罩**==（用毯子般的东西覆盖）
 
 > [!tip] 原型义
 > **原型义**：白色小毛布（覆盖全身的织物，源自 [[blank]] + -et）
@@ -133,10 +133,9 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is tempting to support a blanket ban on junk food advertising. ` `[外刊]`
-> - The mud disappeared under a blanket of snow. ` `[语料库]`
-> - With a thick mist now blanketing the trees, I got thoroughly lost. ` `[语料库]`
-> - Peaty is typically forthright but has mixed feelings about blanket bans for nations. ` `[外刊]`
+> - Man", as a blanket term for both men and women, is now considered sexist . `[例]`
+> - Outside the fields were blanketed in fog . `[例]`
+> - Fig. Congress was nearly buried under a blanket of criticism . `[例]`
 
 
 ---

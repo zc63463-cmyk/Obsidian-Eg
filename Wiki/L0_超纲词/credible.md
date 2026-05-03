@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可信的，可靠的**== `adj N` [通用] `credible source` [书面]；②==**值得信任的**== `credible candidate` [正式]；
+**adj.** ①==**可信的，可靠的**== `adj`；②==**值得信任的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：值得相信的（拉丁语 *credere* "相信/信任"）
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The scientist presented credible evidence to support her theory. `[例]`
-> - The report lost all credibility once the public discovered that none of the sources were credible. `[例]`
+> - They haven't produced any credible evidence that he is guilty . `[例]`
+> - The story of what had happened to her was barely (= almost not) credible. `[例]`
 
 ## 复习记录
 

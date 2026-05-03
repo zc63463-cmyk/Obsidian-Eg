@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使不安，使心神不宁**==；②使动摇，扰乱；
+**v.** ①==**使不安，使心神不宁**== `V N`；②==**使动摇，扰乱**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：使不安定（un-使离开 + settle安定 → 使从安定状态中离开）
@@ -128,8 +128,8 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The sudden change in leadership left many employees feeling unsettled about their future.（领导层的突然变动让许多员工对未来感到不安。）
-> - The economic downturn has unsettled financial markets around the world.（经济衰退已经扰乱了全球金融市场。）
+> - Even the most experienced batsmen were unsettled by the speed of this bowler . `[例]`
+> - These efforts unsettled nationalists in all camps . `[例]`
 
 ## 复习记录
 

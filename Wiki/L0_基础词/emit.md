@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory was fined for emitting excessive amounts of carbon dioxide into the atmosphere."（这家工厂因向大气中排放过量的二氧化碳而被罚款——常见环保英语语料）
-> - "The sun emits light and heat that sustain life on Earth."（太阳发出的光和热维持着地球上的生命——常见科学英语语料）
+> - The alarm emits infrared rays which are used to detect any intruder . `[例]`
+> - The machine emits a high-pitched sound when you press the button . `[例]`
+> - The alarm emits a high-pitched sound if anyone tries to break in. `[例]`
 
 
 ---

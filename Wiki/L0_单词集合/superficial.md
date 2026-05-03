@@ -126,8 +126,9 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But such a view is a superficial analysis based on the quantity of information supplied by various forms of the mass media."（但这种观点是基于大众媒体各种形式所提供的信息量而做出的肤浅分析——考研高频表达）
-> - "The book shows only a superficial understanding of the historical context."（这本书只表现出对历史背景的肤浅理解——考研高频表达）
+> - He's fun to be with, but he's very superficial. `[例]`
+> - The book shows only a superficial understanding of the historical context. `[例]`
+> - I thought that article was written at a very superficial level . `[例]`
 
 
 ---

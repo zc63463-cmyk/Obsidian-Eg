@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标准，规范**==；②==**准则，行为准则**==；
+**n.** ①==**标准，规范**== `N`；②==**准则，行为准则**== `N`；
 
 > [!tip] 原型义
 > **原型义**：大家共同遵守的标准（在社会群体中被普遍认可和遵循的行为或数值标准）
@@ -127,8 +127,9 @@ norm-（来自拉丁语 *norma*，木匠的角尺，标准，来自印欧语系 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Social norms vary across different cultures."（社会规范因文化不同而有所差异。）——考研高频表达
-> - "The film challenges traditional cultural norms about gender roles."（这部电影挑战了关于性别角色的传统文化规范。）——考研高频表达
+> - Europe's varied cultural , political and ethical norms. `[例]`
+> - One child per family is fast becoming the norm in some countries . `[例]`
+> - Illness has become the norm for her. `[例]`
 
 ---
 

@@ -126,8 +126,9 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If the small hot spots look as expected, that will be a triumph for yet another scientific idea, a refinement of the Big Bang called the inflationary universe theory."（假如那些小热点看上去如同预计的一致，那就意味着又一科学观点的胜利，即对大爆炸理论的一种改进——暴胀宇宙论——2003年考研Text 2）
-> - "The eradication of smallpox by vaccination was one of medicine's greatest triumphs."（通过接种疫苗根除天花是医学上最伟大的成就之一——权威语料）
+> - The book celebrates the hostages ' remarkable triumph over appalling adversity . `[例]`
+> - The eradication of smallpox by vaccination was one of medicine's greatest triumphs. `[例]`
+> - The signing of the agreement was a personal triumph for the prime minister . `[例]`
 
 
 ---

@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The explosion and accessibility of digital information in the 21st century has become a virtual necessity of life."（21世纪数字信息的爆发和可获取性已经成为生活中的实际必需品。）——2015年考研英语二Text2
-> - "Virtual reality technology has the potential to transform education and training."（虚拟现实技术有潜力改变教育和培训。）——考研高频表达
+> - Ten years of incompetent government had brought about the virtual collapse of the country's economy . `[例]`
+> - In the game players simulate real life in a virtual world . `[例]`
+> - The service gives employees a personalized virtual desktop accessible from any web browser . `[例]`
 
 ---
 

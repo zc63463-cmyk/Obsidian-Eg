@@ -142,9 +142,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "prices vary from store to store"（价格因店而异）——考研阅读经济类话题
-> - "the results vary depending on the method used"（结果因使用的方法而异）——学术类文本
-> - "opinions vary on this issue"（人们对这个问题的看法不一）——议论文高频表达
+> - We have tried several different approaches , with varying degrees of success . `[例]`
+> - Some people give a regular monthly donation while others vary the amount they give. `[例]`
+> - The value of stocks will vary from month to month . `[例]`
 
 ---
 

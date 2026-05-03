@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**探究，调查**== ; ②用探针探测（伤口等） ;
-**n.** ①==**探针，探测器**== ; ②（新闻）深入调查 ;
+**v.** ①==**探究，调查**== `V` ; ②==**用探针探测（伤口等） ;**== `V`
+**n.** ①==**探针，探测器**== `N` ; ②==**（新闻）深入调查 ;**== `N`
 
 > [!tip] 原型义
 > **原型义**：探测、探查——用工具深入某处探查
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They offer a new way to probe how the brain generates and understands language, and throw new light on an old scientific controversy."（它们为探索大脑如何生成和理解语言提供了一种新的方法，并为一个古老的科学争议提供了新的线索。）——考研真题阅读
-> - "Scientists are probing the mysteries of the deep ocean."（科学家们正在探索深海的奥秘。）——考研高频表达
+> - The interviewer probed deep into her private life . `[例]`
+> - Detectives questioned him for hours , probing for any inconsistencies in his story . `[例]`
+> - The article probes (= tries to describe and explain ) the mysteries of nationalism in modern Europe . `[例]`
 
 ---
 

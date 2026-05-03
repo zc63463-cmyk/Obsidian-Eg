@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**恳求，哀求**== `implore sb to do sth` [强烈/正式] `I implore you` [强烈/正式]；②乞求 `implore for mercy` [强烈/正式]；
+**v.** ①==**恳求，哀求**== `V`；②==**乞求**== `V`；
 
 > [!tip] 原型义
 > **原型义**：恳求、哀求
@@ -124,8 +124,8 @@ im-(=in-, 加强) + plore(哭泣，拉丁语 *plorare*=哭泣、哀号)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - I implore you to reconsider your decision before it is too late. `[例]`
-> - The refugees implored the border guards for permission to cross to safety. `[例]`
+> - She implored her parents not to send her away to school . `[例]`
+> - She clasped her hands , and glancing upward , seemed to implore divine assistance . `[例]`
 
 ## 复习记录
 

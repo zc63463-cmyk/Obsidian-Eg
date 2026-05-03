@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**显著地，惊人地**==；②引人注目地；
+**adv.** ①==**显著地，惊人地**== `adv`；②==**引人注目地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：打人地（像被打了一下那样引人注意）
@@ -123,8 +123,8 @@ strike（打，击打）+ -ing（形容词后缀）+ -ly（副词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The two theories are strikingly similar in their fundamental assumptions.（这两个理论在基本假设上惊人地相似。）
-> - The results were strikingly different from what we had expected.（结果与我们预期的显著不同。）
+> - Her latest novel is strikingly different from her earlier work . `[例]`
+> - Her husband is strikingly handsome . `[例]`
 
 ## 复习记录
 

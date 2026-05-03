@@ -134,8 +134,9 @@ poison 源自古法语 *poison*（饮料），拉丁语 *potio*（饮用），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Suspicion and jealousy, however ill-founded, can poison a marriage."（怀疑和嫉妒，不管多么站不住脚，都可能毒害婚姻——柯林斯词典例句）
-> - "Some people say that selfishness is a poison in our society."（有些人说自私是我们社会的一害——考研高频表达）
+> - The pest control officer put bowls of rat poison in the attic . `[例]`
+> - Her drink had been laced with a deadly poison. `[例]`
+> - Four members of the family had been poisoned, but not fatally . `[例]`
 
 
 ---

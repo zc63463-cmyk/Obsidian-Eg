@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**分水岭，转折点**==；②流域，集水区；
+**n.** ①==**分水岭，转折点**== `N`；②==**流域，集水区**== `N`；
 
 > [!tip] 原型义
 > **原型义**：分水岭（山脊的最高点，雨水由此流向不同方向）
@@ -126,8 +126,8 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The invention of the internet was a watershed moment in human history."（互联网的发明是人类历史上的一个分水岭。）
-> - "The 1960s marked a watershed in American social history."（20世纪60年代标志着美国社会史上的一个转折点。）
+> - The year 1969 was a watershed in her life - she changed her career and remarried . `[例]`
+> - The discovery of penicillin was a watershed in the history of medicine . `[例]`
 
 ## 复习记录
 

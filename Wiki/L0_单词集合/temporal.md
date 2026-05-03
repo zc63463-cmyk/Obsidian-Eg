@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the temporal dimension of human existence"（人类存在的时间维度）——哲学/社科类阅读
-> - "temporal power vs spiritual authority"（世俗权力与精神权威）——历史/政治类阅读
-> - "the medial temporal lobe"（内侧颞叶）—— neuroscience/科普类阅读
+> - The tyranny of the monarchy lies in its spiritual rather than its temporal power : it tyrannizes the imagination . `[例]`
+> - The drug reduces spatial and temporal awareness . `[例]`
+> - This book will appeal to anyone interested in temporal reference in child language . `[例]`
 
 ---
 

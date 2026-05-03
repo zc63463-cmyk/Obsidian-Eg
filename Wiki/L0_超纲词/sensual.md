@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**肉欲的，淫荡的**==；②==**感官享受的，愉悦感官的**==；③肉体上的，感官的；
+**adj.** ①==**肉欲的，淫荡的**== `adj`；②==**感官享受的，愉悦感官的**== `adj`；③==**肉体上的，感官的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：通过肉体获得快感的（追求感官享受的）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The novel was criticized for its sensual depiction of romantic relationships."（这部小说因对浪漫关系的肉欲描写而受到批评。）
-> - "She took a sensual pleasure in the warm bath after a long day."（漫长的一天后，她在温暖的浴缸中享受感官的愉悦。）
+> - He is elegant , sensual, conscious of his body . `[例]`
+> - They shared the sensual satisfaction of French food . `[例]`
 
 ## 复习记录
 

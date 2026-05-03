@@ -123,7 +123,9 @@ hypo-(在下面，希腊语 *hypo*) + crisy(=crisis，判断/决定，希腊语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author exposed the hypocrisy of those who preach environmental protection while driving gas-guzzling cars."（作者揭露了那些一边宣扬环保一边开着耗油汽车的虚伪行为）
+> - There's one rule for her and another rule for everyone else and it's sheer hypocrisy. `[例]`
+> - Critics are accusing him of hypocrisy and deceit . `[例]`
+> - Her strongest criticism was reserved for the prime minister whom she accused of ' nauseating hypocrisy'. `[例]`
 
 
 ---

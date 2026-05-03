@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**目的，意图**== `the purpose of N` `N of purpose`；②==**用途，作用**== `serve a purpose`；③==**决心，意志**== `sense of purpose`；
-**v.** ①==**打算，决意**== `V to do`；
+**n.** ①==**目的，意图**== `N`；②==**用途，作用**== `N`；③==**决心，意志**== `N`；
+**v.** ①==**打算，决意**== `V`；
 
 > [!tip] 原型义
 > **原型义**：目的（放在前面的东西——心中想要达到的目标，像把一个东西放在前方作为指引）
@@ -132,9 +132,9 @@ pur-(=pro-, 向前/在前，拉丁语 *pro-* 在 *pur-* 前的同化形式) + [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The purpose of a conclusion is to sum up the main points of an essay. ` `[COCA-ACAD]` `
-> - I didn't do it on purpose, it was an accident. ` `[COCA-SPOKEN]` `
-> - He seems to have lost all sense of purpose. ` `[COCA-FIC]` `
+> - The purpose of the research is to try to find out more about the causes of the disease . `[例]`
+> - His only purpose in life seems to be to enjoy himself. `[例]`
+> - Letters whose sole purpose is to make a political point will not be published . `[例]`
 
 
 ---

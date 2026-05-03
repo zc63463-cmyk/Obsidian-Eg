@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**程序，步骤，手续**== ; ②（医疗）手术 ;
+**n.** ①==**程序，步骤，手续**== `N` ; ②==**（医疗）手术 ;**== `N`
 
 > [!tip] 原型义
 > **原型义**：程序、步骤——向前推进的既定方式
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The school was used as a hospital for the duration of the war."（战争期间这所学校被用作医院。）——考研高频表达
-> - "Follow the normal procedure for filing a complaint."（遵循正常的投诉程序。）——考研高频表达
+> - The proper procedures for renting out spare houses. `[真题]`
+> - The company has new procedures for deal ing with complaints . `[例]`
+> - You must follow correct procedure at all times . `[例]`
 
 ---
 

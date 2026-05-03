@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She put the lid back on the jar."（她把盖子重新盖回罐子上。——日常用法）
-> - "The government tried to put a lid on the scandal."（政府试图压制这桩丑闻。——新闻语料）
+> - Can you get the lid off this jar ? `[例]`
+> - She looked at him from under half-closed lids. `[例]`
+> - The lid of the coffin had been nailed down. `[例]`
 
 
 ---

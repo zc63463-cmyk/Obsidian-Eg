@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自豪，骄傲**==；②自尊心；③骄傲自满（贬义）；
-**v.** ①==**以……为自豪**==（oneself on）；
+**n.** ①==**自豪，骄傲**== `N`；②==**自尊心**== `N`；③==**骄傲自满（贬义）**== `N`；
+**v.** ①==**以……为自豪**== `V`（oneself on）；
 
 > [!tip] 原型义
 > **原型义**：高度的自我评价（对自己的价值/成就的高度认可）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She takes great pride in her work and always strives for excellence."（她对自己的工作非常自豪，总是追求卓越）
-> - "He had to swallow his pride and ask for help."（他不得不放下自尊寻求帮助）
+> - She felt a great sense of pride as she watched him accept the award . `[例]`
+> - He felt such pride walking his little daughter down the street . `[例]`
+> - She has too much pride to accept any help . `[例]`
 
 
 ---

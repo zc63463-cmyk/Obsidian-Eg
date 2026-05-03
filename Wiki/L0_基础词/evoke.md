@@ -128,8 +128,9 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old photograph evoked memories of her childhood."（那张老照片唤起了她童年的回忆。）
-> - "The president's speech evoked a strong response from the public."（总统的演讲引起了公众的强烈反应。）
+> - That smell always evokes memories of my old school . `[例]`
+> - A detergent designed to evoke the fresh smell of summer meadows. `[例]`
+> - The smell of chalk always evokes memories of my school days . `[例]`
 
 
 ---

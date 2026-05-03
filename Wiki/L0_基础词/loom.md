@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The threat of climate change looms large over the entire world."（气候变化的威胁笼罩着整个世界——考研阅读高频表达）
-> - "Another economic crisis is looming on the horizon."（又一场经济危机正在逼近——考研经济类阅读）
+> - Dark storm clouds loomed on the horizon . `[例]`
+> - Her final exams are looming. `[例]`
+> - Here, too, the threat of unemployment has been looming on the horizon . `[例]`
 
 
 ---

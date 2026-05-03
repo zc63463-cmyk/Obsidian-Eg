@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The first episode occupies a peak evening viewing slot."（第一集占据了傍晚的一个黄金收视时段。——考研相关语料）
-> - "I dropped a quarter into the slot of the pay phone."（我向付费电话的投币孔里投了一枚25美分硬币。——考研相关语料）
-> - "Visitors can book a time slot a week or more in advance."（来访者可以提前一周或更早预约一个时间段。——Cambridge Dictionary）
+> - I put my money in the slot and pressed the button but nothing came out. `[例]`
+> - The holder has slots for 100 CDs . `[例]`
+> - The programme will occupy that half-hour slot before the six o'clock news . `[例]`
 
 
 ---

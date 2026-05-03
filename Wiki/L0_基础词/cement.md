@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They could cement the status quo of peer-reviewed research."（他们可能会僵化同行评审研究的现状——2014年考研英语Text 3）
-> - "This trade deal will cement the relations between the two countries."（这项贸易协定将巩固两国关系——考研英语阅读高频表达）
+> - Dentists use cement to hold crowns and bridges in place . `[例]`
+> - The university's exchange scheme has cemented its links with many other academic institutions . `[例]`
+> - There weren’t any chairs , so she sat on the cement. `[例]`
 
 
 ---

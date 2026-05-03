@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**统一，联合**==；②一体化；
+**n.** ①==**统一，联合**== `N`；②==**一体化**== `N`；
 
 > [!tip] 原型义
 > **原型义**：使成为一体（把多个变成一个）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The unification of East and West Germany marked the end of the Cold War era in Europe."（东西德的统一标志着欧洲冷战时代的结束。）
-> - "The European Union represents the economic unification of many nations."（欧盟代表了多个国家的经济一体化。）
+> - His party's long-term goal remained eventual unification. `[例]`
+> - Migrants have a right to citizenship and family unification. `[例]`
 
 ## 复习记录
 

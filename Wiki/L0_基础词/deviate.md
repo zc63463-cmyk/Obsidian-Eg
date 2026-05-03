@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research findings deviated significantly from the initial hypothesis, forcing the scientists to reconsider their theoretical framework."（研究结果与初始假设存在显著偏差，迫使科学家重新考虑他们的理论框架——考研阅读科研话题相关表达）
-> - "Students who deviate from the prescribed curriculum may face difficulties in passing the standardized examinations."（偏离规定课程的学生可能会在通过标准化考试时遇到困难——考研翻译教育话题相关表达）
+> - The recent pattern of weather deviates from the norm for this time of year . `[例]`
+> - The path follows the river closely , occasionally deviating around a clump of trees . `[例]`
+> - He never deviated from his strict vegetarian diet . `[例]`
 
 
 ---

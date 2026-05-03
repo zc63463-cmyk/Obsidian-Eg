@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**导师，家庭教师**==；②（大学）导师；
-**v.** ①当导师；②辅导；
+**n.** ①==**导师，家庭教师**== `N`；②==**（大学）导师**== `N`；
+**v.** ①==**当导师**== `V`；②==**辅导**== `V`；
 
 > [!tip] 原型义
 > **原型义**：看护者（守护/看护学生学习的人）
@@ -127,8 +127,9 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -or(名词后缀，表"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her parents hired a private tutor to help her with math."（她的父母请了一位私人家庭教师帮她补习数学。）
-> - "Each student is assigned a personal tutor at the beginning of the academic year."（每个学年初，每位学生都会被分配一位个人导师。）
+> - His parents got him a tutor to help with his maths . `[例]`
+> - His tutor encouraged him to use flashcards to help him study new vocabulary . `[例]`
+> - During my illness I was taught by a series of home tutors. `[例]`
 
 
 ---

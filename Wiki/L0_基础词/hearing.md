@@ -131,8 +131,9 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Frequently thwarted and elbowed out of the limelight, historians often found it difficult to gain a hearing with the media."（历史学家常常被排挤在聚光灯之外，难以获得媒体的倾听——考研阅读常见表达）
-> - "The Senate held a hearing on the proposed environmental regulations."（参议院就拟议的环境法规举行了听证会——考研政治类阅读语料）
+> - A disciplinary hearing will examine charges of serious professional misconduct against three surgeons . `[例]`
+> - I think we should give him a hearing (= we should listen to what he wants to say) . `[例]`
+> - Did he give your complaints a sympathetic hearing? `[例]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**先知，预言家**==；②倡导者，提倡者；
+**n.** ①==**先知，预言家**== `N`；②==**倡导者，提倡者**== `N`；
 
 > [!tip] 原型义
 > **原型义**：先知（在事情发生之前就说出来的人）
@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Environmentalists are often dismissed as prophets of doom."（环保主义者常被斥为末日预言家——考研环保类话题）
+> - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
+> - Let us hear the words of the prophet Isaiah on the coming of the Prince of Peace. `[例]`
+> - Some believe that he was not a true prophet. `[例]`
 
 
 ---

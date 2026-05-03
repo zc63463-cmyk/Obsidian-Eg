@@ -137,10 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "technical barriers to trade"（技术性贸易壁垒）——考研阅读中经济/贸易类话题
-> - "technical skills in high demand"（需求旺盛的技术技能）——就业/教育类话题
-> - "a technical error"（技术性错误）——学术/科技类文本
-> - "technically speaking"（严格意义上来说）——论证类文本常见表达
+> - A few technical problems. `[例]`
+> - Personally, I found some parts of the book a little too technical to follow . `[例]`
+> - In her performance as the Snow Queen she showed great technical brilliance . `[例]`
+> - The computer company ran into some last-minute technical problems with its new disk drives . `[例]`
 
 ---
 

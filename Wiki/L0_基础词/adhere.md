@@ -132,8 +132,9 @@ ad-(=to, 朝向，见 [[ad]]) + her(=hes-, 粘附，拉丁语 *haerere*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They're not really well-regulated unless they adhere to some industry standard."（除非它们遵守某种行业标准，否则并没有真正得到良好监管——考研英语阅读）
-> - "I'm afraid you have to adhere to the assigned topic."（恐怕你必须遵守指定的题目——考研英语翻译）
+> - A smooth , dry surface helps the tiles adhere to the wall . `[例]`
+> - Once in the bloodstream, the bacteria adhere to the surface of the red cells. `[例]`
+> - Clean the surface first, or the paint will not adhere. `[例]`
 
 
 ---

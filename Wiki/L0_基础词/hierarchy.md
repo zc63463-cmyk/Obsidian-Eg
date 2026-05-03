@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In many traditional organizations, the rigid hierarchy often stifles innovation and discourages employees from sharing creative ideas with upper management."（在许多传统组织中，僵化的等级制度往往扼杀创新，阻碍员工与高层管理人员分享创意——考研阅读管理话题相关表达）
-> - "Maslow's hierarchy of needs suggests that individuals must first satisfy their basic physiological and safety needs before pursuing higher-level goals such as self-actualization."（马斯洛的需求层次理论表明，个人必须首先满足基本的生理和安全需求，然后才能追求自我实现等更高层次的目标——考研翻译心理学话题相关表达）
+> - Some monkeys have a very complex social hierarchy. `[例]`
+> - Every organization has a hierarchy, and trying to understand that, and the systems and processes of the organization , is important . `[例]`
+> - When the recommendations had been submitted and approved by the hierarchy, teams were established to manage the process of implementing them. `[例]`
 
 
 ---

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Team-building skills are in short supply: Deloitte reports that only 12% of the executives they contacted feel they understand the way people work together in networks and only 21% feel confident in their ability to build cross-functional teams."（团队建设技能严重不足：德勤报告称，他们联系的高管中只有12%认为自己理解人们在网络中协作的方式，只有21%对建立跨职能团队的能力有信心。——考研真题阅读）
-> - "Most roads, bridges, transit, water systems, the electric grid, and communications networks were installed 50 to 100 years ago, and they are largely taken for granted until they fail."（大多数道路、桥梁、公共交通、供水系统、电网和通信网络都是50到100年前安装的，它们在很大程度上被视为理所当然，直到出现故障。——考研真题阅读）
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+> - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
+> - Beneath the city lies a labyrinthine network of tunnels . `[例]`
 
 
 ---

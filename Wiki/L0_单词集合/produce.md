@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**生产，制造，产生**== ; ②出示，展示 ; ③引起，导致 ;
-**n.** ①农产品 ;
+**v.** ①==**生产，制造，产生**== `V`；②==**出示，展示**== `V`；③==**引起，导致**== `V`；
+**n.** ①==**农产品**== `N`；
 
 > [!tip] 原型义
 > **原型义**：生产、制造——向前引导出成果
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Private businessmen, striving to make profits, produce these goods and services in competition with other businessmen."（为了获取利润，私有企业主之间互相竞争，来生产这些产品和提供这些服务——1994年考研阅读）
-> - "The factory produces a wide range of electronic components."（这家工厂生产各种电子元件——考研高频表达）
+> - The carc;ers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce , but even more so on the citations attracted by these papers. `[真题]`
+> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
+> - France produces a great deal of wine for export . `[例]`
 
 
 ---

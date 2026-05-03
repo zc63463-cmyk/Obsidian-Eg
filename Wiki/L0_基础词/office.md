@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**办公室**==；②==**职务，公职**==；③==**政府机关，局，处**==；④办事处，服务处；
+**n.** ①==**办公室**== `N`；②==**职务，公职**== `N`；③==**政府机关，局，处**== `N`；④==**办事处，服务处**== `N`；
 
 > [!tip] 原型义
 > **原型义**：尽责→职务→办公场所（源自拉丁语 *officium* = duty, service，*ob-* = to + *facere* = to do/make）
@@ -128,8 +128,9 @@ of-（变体形式，源自拉丁语 *ob-* = to, toward）+ [[fac]]（做，拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Earlier this morning, the office asked for the public's help to measure their speed results, saying consumers deserved to get the speeds they were promised."（今天上午早些时候，总检察长办公室请公众提供协助，测一下自己的网速，并表示消费者应该享有供应商向他们承诺提供的网速——2017年6月CET-4阅读真题）
-> - "This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying."（这种诚信需要执行良好的政府透明度法律，例如官方会议记录、游说规则——考研英语真题）
+> - They have offices in Paris , London, and Madrid. `[例]`
+> - I have an appointment at the physician's office on Tuesday . `[例]`
+> - Tyler went to the dentist's office for a routine checkup. `[例]`
 
 
 ---

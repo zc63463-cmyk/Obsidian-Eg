@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The school has introduced a new curriculum to meet the needs of the 21st century."（学校引入了新的课程体系以满足21世纪的需求——考研教育类话题高频表达）
-> - "Computer programming should be part of the core curriculum."（计算机编程应成为核心课程的一部分——教育类语料）
+> - Maths is an intrinsic part of the school curriculum. `[例]`
+> - The Romans aren't on this year's curriculum. `[例]`
+> - She demanded to see the school's curriculum. `[例]`
 
 
 ---

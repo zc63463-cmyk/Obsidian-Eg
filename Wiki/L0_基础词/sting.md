@@ -131,8 +131,9 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sting of rejection can be particularly painful for young job seekers."（被拒绝的打击对年轻的求职者来说可能格外痛苦）
-> - "His harsh words still sting, even after all these years."（即使过了这么多年，他那些刺耳的话仍然让人心痛）
+> - Do all types of bee sting? `[例]`
+> - This type of disinfectant doesn't sting, even if you put it on a fresh cut . `[例]`
+> - She managed to give a stinging reply (= an angry answer intended to upset ) , before slamming down the phone . `[例]`
 
 
 ---

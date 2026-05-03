@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university has invested heavily in new research facilities."（大学在新研究设施上投入了大量资金——考研英语阅读教育类话题）
-> - "She has a remarkable facility for learning foreign languages."（她有学习外语的非凡天赋——考研翻译相关表达）
+> - A new sports facility. `[例]`
+> - His facility for languages is astonishing . `[例]`
+> - He asked the bank to increase his overdraft facility. `[例]`
 
 
 ---

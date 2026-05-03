@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "terminate a contract"（终止合同）——考研阅读/翻译常见搭配，法律/商业类话题
-> - "the contract was terminated"（合同被终止）——法律/职场类阅读
-> - "terminate a pregnancy"（终止妊娠）——医学/伦理类阅读，争议性话题
+> - They terminated my contract in October . `[例]`
+> - This train will terminate at the next stop - passengers who wish to continue should change trains . `[例]`
+> - Employers must terminate all illegal employees . `[例]`
 
 ---
 

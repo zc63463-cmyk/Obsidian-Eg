@@ -135,8 +135,9 @@ fake 的词源存在争议，但最主流的观点认为它源自俚语，可能
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the age of social media, fake news can spread rapidly and cause significant damage to public trust in institutions."（在社交媒体时代，假新闻能够迅速传播，对公众对机构的信任造成重大损害。——考研阅读媒体话题高频表达）
-> - "The art expert was able to determine that the painting was a fake by analyzing the brushwork and pigments."（艺术专家通过分析笔触和颜料，能够判定这幅画是赝品。——考研阅读文化话题相关表达）
+> - Experts revealed that the painting was a fake. `[例]`
+> - The gun in his hand was a fake. `[例]`
+> - After working for ten years as a doctor , he was exposed as a fake. `[例]`
 
 
 ---

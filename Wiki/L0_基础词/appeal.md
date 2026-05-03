@@ -126,8 +126,9 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The idea of working from home appeals to many employees."（在家工作的想法吸引了许多员工。）
-> - "The defendant filed an appeal against the court's decision."（被告对法院的判决提出了上诉。）
+> - They're launching (= starting ) an appeal to raise money for famine victims . `[例]`
+> - The police have issued an appeal to the public to stay away from the area over the weekend . `[例]`
+> - She has lodged (= made) an appeal against the severity of the fine . `[例]`
 
 
 ---

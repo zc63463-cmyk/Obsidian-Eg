@@ -127,8 +127,9 @@ toler-(忍受) + -ate(动词后缀，表"使...、做...")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many workers cannot tolerate the poor working conditions any longer."（许多工人再也无法忍受恶劣的工作条件了。）——考研高频表达
-> - "The body can tolerate only a limited amount of the substance."（人体只能承受有限量的该物质。）——考研高频表达
+> - I will not tolerate that kind of behaviour in my class . `[例]`
+> - These ants can tolerate temperatures that would kill other species . `[例]`
+> - Athletes often have to tolerate a lot of pain . `[例]`
 
 ---
 

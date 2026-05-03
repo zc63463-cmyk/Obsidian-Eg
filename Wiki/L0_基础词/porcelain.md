@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Chinese porcelain, along with silk and tea, was one of the most sought-after commodities on the ancient Silk Road."（中国瓷器与丝绸、茶叶一样，是古丝绸之路上最受欢迎的商品之一——考研阅读历史话题相关表达）
-> - "The museum's collection of Ming Dynasty porcelain is considered one of the finest in the world."（该博物馆收藏的明代瓷器被认为是世界上最精美的之一——考研阅读文化话题相关表达）
+> - The tea cups are (made of) porcelain. `[例]`
+> - He had a fine collection of Meissen porcelain. `[例]`
+> - The design is copied from Japanese porcelains of the fourteenth century. `[例]`
 
 
 ---

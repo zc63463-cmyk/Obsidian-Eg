@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a vague idea of what to do"（对做什么只有模糊的想法）——考研阅读常见搭配
-> - "a vague promise to reform"（含糊的改革承诺）——政治/社会类文章
-> - "vaguely remember meeting her"（模糊地记得见过她）——叙事类文本
+> - I do have a vague memory of meeting her many years ago. `[例]`
+> - The patient had complained of vague pains and backache . `[例]`
+> - Through the mist I could just make out a vague figure . `[例]`
 
 ---
 

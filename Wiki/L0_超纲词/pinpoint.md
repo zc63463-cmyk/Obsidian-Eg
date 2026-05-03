@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**精确指出，准确确定**==；②准确定位；
-**n.** ①针尖；②极小的事物；
-**adj.** ①==**精确的，准确的**==；
+**v.** ①==**精确指出，准确确定**== `V`；②==**准确定位**== `V`；
+**n.** ①==**针尖**== `N`；②==**极小的事物**== `N`；
+**adj.** ①==**精确的，准确的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：精确定位（像针尖一样精准）
@@ -130,8 +130,8 @@ pin（针）+ point（点）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Investigators were able to pinpoint the exact cause of the accident.（调查人员能够精确找出事故的确切原因）
-> - The missile struck the target with pinpoint accuracy.（导弹以针尖般的精度击中了目标）
+> - It is not possible to pinpoint precisely the time of death . `[例]`
+> - Emergency workers at the site are still unable to pinpoint the cause of the explosion . `[例]`
 
 ## 复习记录
 

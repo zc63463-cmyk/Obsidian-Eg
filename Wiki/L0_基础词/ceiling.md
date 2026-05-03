@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Navy Department moved into the east wing in 1879, where elaborate wall and ceiling stenciling and marquetry floors decorated the office of the Secretary."（1879年，美国海军部迁入大楼的东翼，部长办公室内墙及天花板均采用精致镂印，地板则采用镶嵌工艺——2018年12月考研阅读）
-> - "There is no ceiling on the salary of the employees in this company."（这家公司员工的工资没有上限——考研英语阅读高频表达）
+> - The kitchen ceiling needs painting . `[例]`
+> - There is a 10% ceiling on rent increases . `[例]`
+> - Before the bidding started he had set himself a ceiling price beyond which he would not go. `[例]`
 
 
 ---

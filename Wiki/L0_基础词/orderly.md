@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有秩序的，整齐的**==；②==**有纪律的，守秩序的**==；
-**n.** ①==**勤务兵，传令兵**==；②==**（医院的）护理员**==；
+**adj.** ①==**有秩序的，整齐的**== `adj`；②==**有纪律的，守秩序的**== `adj`；
+**n.** ①==**勤务兵，传令兵**== `N`；②==**（医院的）护理员**== `N`；
 
 > [!tip] 原型义
 > **原型义**：经线排列整齐的状态（有序的）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The demonstrators maintained an orderly protest, marching peacefully through the streets."（示威者保持了有序的抗议，在街道上和平游行——考研阅读社会话题相关表达）
-> - "The transition of power was carried out in an orderly fashion, avoiding the chaos that many had predicted."（权力交接以有序的方式进行，避免了许多人预测的混乱——考研翻译政治话题相关表达）
+> - He has a part-time job as a hospital orderly. `[例]`
+> - She put the letters in three orderly piles . `[例]`
+> - The passengers were asked to leave the plane in an orderly fashion . `[例]`
 
 
 ---

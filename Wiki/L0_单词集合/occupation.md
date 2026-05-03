@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**职业，工作**==；②==**占领，占据**==；③==**消遣，日常活动**==；
+**n.** ①==**职业，工作**== `N`；②==**占领，占据**== `N`；③==**消遣，日常活动**== `N`；
 
 > [!tip] 原型义
 > **原型义**：抓住并占据（源自拉丁语 *occupare*，ob- "向前" + capere "抓住/夺取"）
@@ -138,10 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "by occupation a teacher"（职业是教师）——考研阅读中描述人物背景的常见表达
-> - "military occupation of the territory"（对该领土的军事占领）——历史/政治类阅读
-> - "occupational stress/hazard"（职业压力/危害）——社会/健康类话题
-> - "list your name, age, and occupation"（列出你的姓名、年龄和职业）——表格/问卷类语料
+> - In the space marked "occupation" she wrote " police officer ". `[例]`
+> - Occupations experiencing shortages will need an average of 47% more graduates to meet demand . `[例]`
+> - It seems to me his favourite occupation is eating . `[例]`
+> - Running a house is a full-time occupation. `[例]`
 
 ---
 

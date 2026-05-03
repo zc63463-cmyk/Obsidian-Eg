@@ -127,8 +127,9 @@ anger(愤怒) + -y(充满的/具有……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The public is angry about the government's decision."（公众对政府的决定感到愤怒）
-> - "He gave me an angry look."（他愤怒地看了我一眼）
+> - I don't understand what he's angry about . `[例]`
+> - They feel angry that their complaints were ignored . `[例]`
+> - On her leg was an angry sore . `[例]`
 
 
 ---

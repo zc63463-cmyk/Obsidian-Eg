@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The airport was closed due to dense fog, leaving thousands of passengers stranded."（由于浓雾，机场关闭，数千名旅客滞留——考研阅读交通话题常见表达）
-> - "The fog of war makes it difficult for commanders to make accurate decisions in real time."（战争迷雾使指挥官难以实时做出准确决策——考研阅读军事/政治话题常见表达）
+> - Mist, fog, and snow are common in this area . `[例]`
+> - Thick fog has made driving conditions dangerous . `[例]`
+> - Their flight was cancelled because of heavy fog. `[例]`
 
 
 ---

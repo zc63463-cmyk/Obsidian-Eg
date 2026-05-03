@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**习惯性地，惯常地**== `habitually do sth.` [中性]；
+**adv.** ①==**习惯性地，惯常地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：持有某种习惯（反复做某事的状态）
@@ -128,9 +128,8 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Habitually late students tend to perform worse in academic settings. `[例]`
-> - He habitually checked his phone during meetings, which annoyed his colleagues. `[例]`
-> - She habitually arrives at the office an hour early to prepare for the day ahead. `[例]`
+> - There is something wrong with anyone who is so habitually rude . `[例]`
+> - There were schools where more than half the students were habitually late. `[例]`
 
 ## 复习记录
 

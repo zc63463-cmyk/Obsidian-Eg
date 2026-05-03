@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**专横的，冒昧的，自作主张的**==；②==**傲慢的，放肆的**==；
+**adj.** ①==**专横的，冒昧的，自作主张的**== `adj`；②==**傲慢的，放肆的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：预先擅取的（未经许可就擅自行动/假设）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It would be presumptuous of me to speak on behalf of the entire committee."（由我代表整个委员会发言未免太冒昧了。）
+> - It would be presumptuous of me to comment on the matter . `[例]`
+> - It would be presumptuous of me to speak for the others . `[例]`
 
 ## 复习记录
 

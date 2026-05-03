@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many foreigners find Chinese culture fascinating yet challenging."（许多外国人觉得中国文化迷人但具有挑战性——考研文化类阅读）
-> - "As a foreigner, he had to adapt to a completely new way of life."（作为外国人，他必须适应全新的生活方式——考研翻译）
+> - It will soon be impossible for foreigners to enter the country . `[例]`
+> - I can't speak a word of French so everyone can tell I'm a foreigner as soon as I arrive in France. `[例]`
+> - The law said that foreigners could buy land in Hawaii. `[例]`
 
 
 ---

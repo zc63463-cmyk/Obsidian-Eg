@@ -130,8 +130,9 @@ he 为古英语基本代词，源自原始日耳曼语 *hiz，与拉丁语 *is*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is referring to the upsurge of interest in mobile television, a nascent industry at the intersection of telecoms and media which offers new opportunities to device-makers, content-providers and telecoms operators alike."（他指的是人们对移动电视兴趣的激增，这是电信和媒体交汇处的一个新兴行业，为设备制造商、内容提供商和电信运营商提供了新的机会——2010年考研英语同源难句）
-> - "He has not been charged with the task of approaching any but the factual aspects of those problems."（他并未被赋予去处理那些问题中除事实层面以外任何方面的任务——考研英语长难句）
+> - Even if a state is considered a high performer in its science standards, "that does not mean it will be taught" , he says. `[真题]`
+> - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
+> - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
 
 
 ---

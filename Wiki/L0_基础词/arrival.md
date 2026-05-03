@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Upon arrival at the research station, the scientists immediately began setting up their equipment to monitor volcanic activity."（一到研究站，科学家们就立即开始架设设备以监测火山活动——考研阅读科学话题相关表达）
-> - "The arrival of the digital age has fundamentally transformed the way people access information, communicate with each other, and conduct business."（数字时代的到来从根本上改变了人们获取信息、相互交流和开展商业活动的方式——考研阅读科技话题相关表达）
+> - Hundreds gathered to await the boxer's arrival at the airport . `[例]`
+> - On arrival at the police station , they were taken to an interview room . `[例]`
+> - New arrivals (= people who have just come to a place ) were being housed in refugee camps . `[例]`
 
 
 ---

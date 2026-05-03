@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many companies are reluctant to hire older workers, despite their extensive experience and proven track record of reliability and dedication."（许多公司不愿意雇用年长的工人，尽管他们经验丰富，并且有着可靠和奉献的良好记录——考研阅读社会话题相关表达）
-> - "The startup decided to hire a team of experienced software engineers to develop their innovative mobile application within a tight deadline."（这家初创公司决定雇用一支经验丰富的软件工程师团队，在紧迫的期限内开发他们的创新移动应用——考研翻译商业话题相关表达）
+> - How much would it cost to hire a car for the weekend ? `[例]`
+> - You could always hire a dress for the ball if you can't afford to buy one. `[例]`
+> - I was hired by the first company I applied to. `[例]`
 
 
 ---

@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A well-diversified investment portfolio can help reduce risk and maximize returns over the long term."（一个多元化的投资组合可以帮助降低风险并在长期内最大化回报——考研阅读金融话题相关表达）
-> - "Applicants for the design position are required to submit a portfolio showcasing their best creative work."（设计职位的申请者需要提交作品集，展示他们最好的创意作品——考研阅读求职话题相关表达）
+> - She's trying to build up a portfolio of work to show during job interviews . `[例]`
+> - The prime minister offered her the foreign affairs portfolio. `[例]`
+> - He knows that life will not be simple when he takes up his post as minister without portfolio in the cabinet . `[例]`
 
 
 ---

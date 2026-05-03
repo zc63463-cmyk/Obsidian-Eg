@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researcher provided a detailed analysis of the data collected from the experiment."（研究人员对实验中收集的数据提供了详细的分析。）——考研高频表达
-> - "The contract specifies in detail the rights and obligations of each party."（合同详细规定了各方的权利和义务。）——考研高频表达
+> - She insisted on telling me every single detail of what they did to her in hospital . `[例]`
+> - A police officer took down the details of what happened . `[例]`
+> - I was just admiring the detail in the doll's house - even the tins of food have labels on them. `[例]`
 
 
 ---

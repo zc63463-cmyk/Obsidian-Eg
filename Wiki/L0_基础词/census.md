@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In their thirst for evidence on this issue, commentators seized on the recent report by the Census Bureau, which found that average household income rose by 5.2% in 2015."（为了寻找有关这个问题的证据，评论员们抓住了普查局最近的报告，该报告发现2015年家庭平均收入增长了5.2%——2018年6月六级阅读Section C）
-> - "It is certain that the Census procedures, which lump the online sales of major traditional retailers like Walmart with 'non-store retailers' like food trucks, can mask major changes in individual retail categories."（可以肯定的是，将沃尔玛等大型传统零售商的在线销售与食品卡车等'非门店零售商'混为一谈的普查程序，可能会掩盖各个零售类别的重大变化——2018年6月六级阅读Section C）
+> - We have a census in this country every ten years . `[例]`
+> - She was stopped in her car for a traffic census. `[例]`
+> - According to the state census, 89.6% of eligible Hispanics voters were registered . `[例]`
 
 
 ---

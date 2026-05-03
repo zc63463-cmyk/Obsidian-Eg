@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The nuclear disaster left the surrounding area completely desolate."（核灾难使周围地区变得一片荒凉）
-> - "She felt utterly desolate after the death of her husband."（丈夫去世后她感到无比凄凉）
+> - She felt desolate when her best friend moved away. `[例]`
+> - They looked out on a bleak and desolate landscape. `[例]`
+> - The loss of his friend made him feel utterly desolate. `[例]`
 
 
 ---

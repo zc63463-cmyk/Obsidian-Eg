@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**船只失事，海难**==；②失事船只的残骸；③遭受严重破坏的人/事；
-**v.** ①使（船只）失事；②使（计划等）彻底失败；
+**n.** ①==**船只失事，海难**== `N`；②==**失事船只的残骸**== `N`；③==**遭受严重破坏的人/事**== `N`；
+**v.** ①==**使（船只）失事**== `V N`；②==**使（计划等）彻底失败**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：船只在航行中因撞击礁石或风暴而毁坏
@@ -129,7 +129,8 @@ ship(船) + wreck(破坏，毁坏)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The expedition ended in shipwreck, with all hands lost."（探险以海难告终，全员遇难。）
+> - The danger of shipwreck is much greater in fog . `[例]`
+> - There have been many shipwrecks along this dangerous stretch of coastline . `[例]`
 
 ## 复习记录
 

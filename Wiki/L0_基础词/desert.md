@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Poor farmers are deserting their parched farm fields and coming here looking for jobs."（贫穷的农民丢下干旱的农田，来这里寻找工作——柯林斯词典例句）
-> - "The Sahara Desert is one of the least suitable places for living things on the earth."（撒哈拉大沙漠是地球上最不适合生物生存的地方之一——常见语料）
+> - They were lost in the desert for nine days . `[例]`
+> - We had to cross a large area of arid , featureless desert. `[例]`
+> - This town is a cultural desert. `[例]`
 
 
 ---

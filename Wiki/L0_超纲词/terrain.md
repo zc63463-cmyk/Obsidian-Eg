@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地形，地势**==；②地带，领域（引申义）；
+**n.** ①==**地形，地势**== `N`；②==**地带，领域（引申义）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：地形，地势（一片土地的物理特征）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The troops advanced slowly through the mountainous terrain."（军队在山地地形中缓慢推进）
-> - "She was on unfamiliar terrain in her new role as manager."（她在担任经理的新角色中处于陌生的领域）
+> - The car handles particularly well on rough terrain. `[例]`
+> - They walked for miles across steep and inhospitable terrain. `[例]`
 
 ## 复习记录
 

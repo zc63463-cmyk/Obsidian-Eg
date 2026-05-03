@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "From the evidence, we can deduce that the suspect was at the scene."（从证据中我们可以推断嫌疑人曾在现场）——法律/侦探话题
-> - "Scientists deduced the age of the fossil from its geological layer."（科学家从化石所在的地层推断出其年代）——科学话题
-> - "Sherlock Holmes is famous for his ability to deduce facts from small details."（福尔摩斯以从小细节推断事实的能力而闻名）——文学话题
-> - "The conclusion was deduced through careful logical reasoning."（结论是通过仔细的逻辑推理得出的）——学术话题
+> - We cannot deduce very much from these figures . `[例]`
+> - The police have deduced that he must have left his apartment yesterday evening . `[例]`
+> - In an attempt to deduce what happened to the jet , investigators are looking at other similar planes . `[例]`
+> - We can deduce a lot from what people choose to buy. `[例]`
 
 ---
 

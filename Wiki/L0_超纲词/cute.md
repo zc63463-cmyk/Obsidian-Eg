@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可爱的，漂亮的**== `adj N` [通用]；②==**聪明的，机灵的**== `adj N` [口语]；③（口语）==**精明的**== `adj N` [口语]；
+**adj.** ①==**可爱的，漂亮的**== `adj`；②==**聪明的，机灵的**== `adj`；③==**（口语）精明的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：精明的，敏锐的（源自 acute "敏锐的"的缩写）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - What appears to be a cute marketing strategy may actually be a sophisticated psychological manipulation. `[例]`
-> - The kindergarten teacher smiled as the children performed a cute little song for their parents. `[例]`
+> - His baby brother is really cute. `[例]`
+> - Don't be cute with me, Vicki. `[例]`
 
 ## 复习记录
 

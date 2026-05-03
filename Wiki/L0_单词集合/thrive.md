@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "thrive on stress"（在压力下反而蓬勃发展）——考研阅读/翻译高频搭配，描述人在压力下的积极反应
-> - "a thriving economy/business"（繁荣的经济/企业）——经济/商业类文本
-> - "thrive in"（在……中茁壮成长）——教育/社会类文本
-> - "children thrive on love and attention"（孩子在关爱中茁壮成长）——教育/心理类文本
+> - His business thrived in the years before the war . `[例]`
+> - She seems to thrive on stress . `[例]`
+> - She seems to thrive on hard work . `[例]`
+> - Industries such as water , telecoms , and insurance have been thriving. `[例]`
 
 ---
 

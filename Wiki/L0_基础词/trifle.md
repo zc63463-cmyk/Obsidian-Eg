@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**琐事，小事**==；②少量，一点儿；③蛋糕甜点（英式）；
+**n.** ①==**琐事，小事**== `N`；②==**少量，一点儿**== `N`；③==**蛋糕甜点（英式）**== `N`；
 **vi.** 嘲弄，轻视（with）；
 
 > [!tip] 原型义
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was looking a trifle pale."（她看起来有点苍白。）
-> - "He warned them not to trifle with the law."（他警告他们不要藐视法律。）
+> - I brought a few trifles back from India - pieces of jewellery and fabric mainly . `[例]`
+> - I'm a trifle confused about the arrangements for tonight . `[例]`
+> - I have to say, his comment strikes me as a trifle disingenuous . `[例]`
 
 
 ---

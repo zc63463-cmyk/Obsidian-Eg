@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**时间尺度，时间跨度**==；②（事件发生的）时间范围；
+**n.** ①==**时间尺度，时间跨度**== `N`；②==**（事件发生的）时间范围**== `N`；
 
 > [!tip] 原型义
 > **原型义**：时间尺度（衡量事件发生的时间范围）
@@ -121,8 +121,8 @@ time（时间）+ scale（尺度，刻度）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Climate change is happening on a much shorter timescale than previously predicted."（气候变化发生的时间尺度比此前预测的要短得多）
-> - "On a geological timescale, human civilization is but a blink of an eye."（在地质时间尺度上，人类文明不过是一眨眼）
+> - Police officers are trying to construct the timescale of events leading up to the murder . `[例]`
+> - What's the timescale for this? (= How long will it take?). `[例]`
 
 ## 复习记录
 

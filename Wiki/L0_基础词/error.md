@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The investigation revealed that the accident was caused by human error rather than mechanical failure."（调查揭示事故是由人为错误而非机械故障引起的——考研阅读分析类话题高频表达）
-> - "Scientists must account for the margin of error when interpreting experimental results."（科学家在解释实验结果时必须考虑误差范围——考研阅读科学话题常见表达）
+> - There are some serious errors and omissions in the book . `[例]`
+> - Your essay is full of spelling errors. `[例]`
+> - Human error has been blamed for the air crash . `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**气味**==；②臭味；③声誉，名望（引申义）；
+**n.** ①==**气味**== `N`；②==**臭味**== `N`；③==**声誉，名望（引申义）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：气味（通过嗅觉感知到的空气中的化学物质）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smell stimuli form what Shepherd terms 'odor objects', and these objects are stored in our memory."（嗅觉刺激形成了谢泼德所称的"气味对象"，这些对象被存储在我们的记忆中。——考研阅读高频表达）
-> - "This means that our noses are limited to perceiving those smells which float through the air, missing the majority of smells which stick to surfaces."（这意味着我们的鼻子仅限于感知那些漂浮在空气中的气味，而错过了大多数附着在表面上的气味。——2005年考研完型）
+> - The cheese has a strong odor . `[例]`
+> - This deodorant prevents bad odor from occurring. `[例]`
+> - That flight had twice aborted takeoff and declared an emergency due to an odor onboard that was sickening flight attendants. `[例]`
 
 
 ---

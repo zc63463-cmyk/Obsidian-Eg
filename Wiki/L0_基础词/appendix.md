@@ -121,7 +121,9 @@ ap-(=ad-, 向，添加) + [[pend]](悬挂) + -ix(名词后缀)。与 [[append]]�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please refer to the appendix for detailed data."（详细数据请参见附录。）
+> - She had her appendix out (= medically removed ) last summer . `[例]`
+> - There's an appendix at the end of the book with a list of dates . `[例]`
+> - The appendix lists all the Olympic champions . `[例]`
 
 
 ---

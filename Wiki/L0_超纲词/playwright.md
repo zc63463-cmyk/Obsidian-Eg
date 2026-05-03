@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**剧作家**==；
+**n.** ①==**剧作家**== `N`；
 
 > [!tip] 原型义
 > **原型义**：写剧本的人
@@ -122,8 +122,8 @@ play（戏剧）+ wright（工匠/制造者）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Shakespeare is widely regarded as the greatest playwright in the English language.（莎士比亚被广泛认为是英语世界最伟大的剧作家）
-> - The contemporary playwright explores themes of identity and belonging in her works.（这位当代剧作家在她的作品中探讨了身份和归属的主题）
+> - Which playwright wrote ‘Doctor Faustus’? `[例]`
+> - Macy is a close collaborator of Pulitzer Prize-winning playwright David Mamet. `[例]`
 
 ## 复习记录
 

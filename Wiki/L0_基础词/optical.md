@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**视觉的，视力的**==；②==**光学的**==；③（计算机）光驱的；
+**adj.** ①==**视觉的，视力的**== `adj`；②==**光学的**== `adj`；③==**（计算机）光驱的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与视觉有关的（与眼睛/光相关的）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A sensor channels the light signal along an optical fibre."（传感器沿光导纤维输送光信号。——有道词典例句）
-> - "These optical fibres may be used for new sorts of telephony."（这些光纤可以应用在新型电话通讯系统。——有道词典例句）
+> - The glowing cloud was an optical effect . `[例]`
+> - Her eye tests revealed that she has no optical defects . `[例]`
+> - There are specialized optical aids which can help visually impaired people . `[例]`
 
 
 ---

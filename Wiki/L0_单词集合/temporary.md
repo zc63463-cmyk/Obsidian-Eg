@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a temporary solution"（临时解决方案）——考研阅读常见搭配，常与 permanent solution 对比
-> - "temporary workers"（临时工）——社会/经济类阅读，讨论劳动力市场
-> - "temporary setback"（暂时的挫折）——励志/商业类语境
+> - The ceasefire will only provide a temporary solution to the crisis . `[例]`
+> - Renting space in another office building is only a temporary measure . `[例]`
+> - According to the report , over 6% of the labour force are working on a temporary basis . `[例]`
 
 ---
 

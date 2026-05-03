@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Millions of Europeans emigrated to America in the late 19th and early 20th centuries."（19世纪末20世纪初，数百万欧洲人移居美国——常见历史英语语料）
-> - "She emigrated from China to Australia in search of better educational opportunities for her children."（她为了给孩子寻求更好的教育机会，从中国移居澳大利亚——常见英语学习语料）
+> - Millions of Germans emigrated from Europe to America in the 19th century . `[例]`
+> - Thousands of Britons emigrate every year . `[例]`
+> - Millions of Germans emigrated from Europe in the nineteenth century . `[例]`
 
 
 ---

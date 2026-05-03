@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**代表性的，象征的**==；②具象的，写实的（艺术）；③代表制的（政治）；
+**adj.** ①==**代表性的，象征的**== `adj`；②==**具象的，写实的（艺术）**== `adj`；③==**代表制的（政治）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：再次站在前面（替某人/某物站在前面→代表）
@@ -128,8 +128,8 @@ re-(再次，反复) + [[press|present]](呈现，在场，*praesent-* 的过去
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The shift from representational to abstract art marked a revolutionary change in modern painting."（从具象艺术到抽象艺术的转变标志着现代绘画的革命性变化。）
-> - "A representational system of government allows citizens to elect officials to make decisions on their behalf."（代表制政府允许公民选举官员代为决策。）
+> - It is on pottery that representational art first appeared in ancient Greece. `[例]`
+> - A representational system of government allows citizens to elect officials to make decisions on their behalf. `[例]`
 
 ## 复习记录
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**捆，包，束**== `a bundle of newspapers/clothes`；②包袱 `a bundle of joy`；
-**v.** ①捆，包 `bundle up`；②匆忙离开 `bundle into a taxi`；③捆绑销售 `bundle products/services`；
+**n.** ①==**捆，包，束**==；②包袱；
+**v.** ①捆，包；②匆忙离开；③捆绑销售；
 
 > [!tip] 原型义
 > **原型义**：捆绑在一起的东西
@@ -127,10 +127,9 @@ bundle 源自中古荷兰语 *bondel*，是 *bond*（捆）的小词，源自 *b
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She bundled up the children in thick coats before sending them out into the snow. `[真题]`
-> - They bundled Perez into the car and drove off. `[语料库]`
-> - He carried bundles of newspapers to the garage every morning. `[语料库]`
-> - They have increased sales by bundling their most popular programs with additional services. `[语料库]`
+> - A bundle of sticks. `[例]`
+> - She was bundled into the back of the car . `[例]`
+> - He bundled his clothes into the washing machine . `[例]`
 
 
 ---

@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tsunami was one of the most destructive natural disasters in recorded history."（海啸是有记录以来最具破坏性的自然灾害之一）
-> - "Destructive criticism can undermine a person's self-confidence."（破坏性批评会削弱一个人的自信心）
+> - The destructive power of nuclear weapons. `[例]`
+> - I worry about the destructive effect that violent films may have on children . `[例]`
+> - Lack of trust is very destructive in a relationship . `[例]`
 
 
 ---

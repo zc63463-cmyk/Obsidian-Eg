@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**官僚体制，官僚机构**== `government bureaucracy` `reduce bureaucracy`；②官僚作风（贬义） `red tape and bureaucracy`；
+**n.** ①==**官僚体制，官僚机构**==；②官僚作风（贬义）；
 
 > [!tip] 原型义
 > **原型义**：办公桌统治（由官员通过办公室体系进行管理）
@@ -123,10 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government promised to reduce bureaucracy and make public services more efficient. `[真题]`
-> - Both parties talk about improving discipline and freeing schools from unnecessary bureaucracy. `[语料库]`
-> - It has been confounded by excessive bureaucracy. `[语料库]`
-> - The city's bureaucracy is almost unmanageable. `[语料库]`
+> - I had to deal with the university's bureaucracy when I was applying for financial aid . `[例]`
+> - The city’s bureaucracy is almost unmanageable . `[例]`
+> - The president wants to add more bureaucracy to our daily lives . `[例]`
 
 
 ---

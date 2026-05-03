@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**丰富，丰厚**==；②（色彩、声音、味道等的）浓郁，饱满；③（内容的）丰富性，深度；
+**n.** ①==**丰富，丰厚**== `N`；②==**（色彩、声音、味道等的）浓郁，饱满**== `N`；③==**（内容的）丰富性，深度**== `N`；
 
 > [!tip] 原型义
 > **原型义**：充满财富的状态（拥有大量资源）
@@ -129,8 +129,8 @@ rich(丰富的，富有的) + -ness(名词后缀，表状态/性质)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The richness of the English vocabulary allows for subtle distinctions in meaning."（英语词汇的丰富性使得意义的细微区分成为可能。）
-> - "The richness of the soil in this region makes it ideal for agriculture."（该地区土壤的肥沃使其非常适合农业。）
+> - We were impressed by the great richness of detail in her painting . `[例]`
+> - It's a wonderful painting - I love the richness of the colours . `[例]`
 
 ## 复习记录
 

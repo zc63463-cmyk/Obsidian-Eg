@@ -133,8 +133,9 @@ stick 源自原始日耳曼语 *stik-（刺、戳），与 [[stim/sting]] 同源
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If you stick to your plan and work hard, you will eventually achieve your goals."（如果你坚持你的计划并努力工作，你最终会实现你的目标。）——考研高频表达
-> - "The government should stick to its commitment to reduce carbon emissions regardless of economic pressures."（无论经济压力如何，政府都应坚持其减少碳排放的承诺。）——考研高频表达
+> - Small publishers ought to stick together. `[真题]`
+> - The old man was carrying a load of sticks. `[例]`
+> - Police said that the child had been beaten with a stick. `[例]`
 ---
 
 

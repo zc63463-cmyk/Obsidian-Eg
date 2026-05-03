@@ -126,8 +126,9 @@ clock（时钟）+ -wise（表示方向/方式的副词后缀，源自古英语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Turn the key clockwise to unlock the door."（顺时针转动钥匙来开门——常见搭配用法）
-> - "It may whirl either clockwise or counterclockwise."（它可能顺时针方向或逆时针方向旋转——常见搭配用法）
+> - In our picture, clockwise from top left, are James Brown, Helen Taylor and Holly Jones. `[例]`
+> - The collision also caused the Chevrolet to rotate clockwise before resting. `[例]`
+> - His Dallara chassis began to rotate clockwise before landing on the right-side wheels and made nearly seven rotations before coming to a stop upside down against the tire barrier. `[例]`
 
 
 ---

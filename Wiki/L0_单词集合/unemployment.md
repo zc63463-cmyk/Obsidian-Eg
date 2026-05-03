@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "rising unemployment rate"（不断上升的失业率）——考研阅读经济类文章高频搭配
-> - "unemployment benefits"（失业救济金）——社会政策类阅读常见表达
-> - "mass unemployment caused by the economic crisis"（经济危机导致的大规模失业）——经济分析类语境
+> - The unemployment rate was 4 percent in October . `[例]`
+> - In the hardest hit areas , unemployment stands at around 14%. `[例]`
+> - Youth unemployment among those between 16 and 19 remains high. `[例]`
 
 ---
 

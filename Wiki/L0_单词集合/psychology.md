@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ==**①心理学**== ; ②心理状态，心理特点 ; ③心理战术 ;
+**n.** ①==**心理学**== `N`；②==**心理状态，心理特点**== `N`；③==**心理战术**== `N`；
 
 > [!tip] 原型义
 > **原型义**：心灵的研究（源自希腊语psyche"灵魂" + logos"学问"）
@@ -125,8 +125,9 @@ psych(灵魂、心灵) + -ology(名词后缀，表示"…学")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study of psychology helps us understand why people behave the way they do."（心理学的研究帮助我们理解人们为什么会有这样的行为。）——考研高频表达
-> - "Environmental psychology examines the relationship between people and their physical surroundings."（环境心理学研究人与其物理环境之间的关系。）——考研高频表达
+> - She studied psychology at Harvard. `[例]`
+> - It is a movie that describes the Vietnam War experience , examining the psychology of the soldier . `[例]`
+> - She studied behavioural psychology at college . `[例]`
 
 ---
 

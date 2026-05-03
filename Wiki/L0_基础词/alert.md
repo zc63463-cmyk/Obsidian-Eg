@@ -135,8 +135,9 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When RAIM detects an error, it alerts the pilot through appropriate warning messages or indications on the aircraft's display."（当RAIM检测到错误时，它通过适当的警告信息或飞机显示屏上的指示来提醒飞行员——FAA Air Navigation）
-> - "The pre-processed data are then fed into diagnostic and prognostic machine learning models. These AI models are trained to identify condition indicators that signify the health of various aircraft systems."（预处理后的数据被输入诊断和预测性机器学习模型。这些AI模型被训练来识别表明各种飞机系统健康状况的条件指标——AIoT Aviation Health Monitoring）
+> - I'm not feeling very alert today - not enough sleep last night ! `[例]`
+> - A couple of alert readers posted comments on the website pointing out the mistake . `[例]`
+> - Parents should be alert to sudden changes in children's behaviour . `[例]`
 
 
 ---

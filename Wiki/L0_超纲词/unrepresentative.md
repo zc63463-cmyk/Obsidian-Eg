@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不具代表性的，不能代表整体的**==；②不具有代表性的（样本、观点等）；
+**adj.** ①==**不具代表性的，不能代表整体的**== `adj`；②==**不具有代表性的（样本、观点等）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不能代表整体的（un-不 + represent代表 + -ative倾向...的 → 不能代表的）
@@ -126,8 +126,8 @@ un-(不，否定) + re-(再/重新) + [[press]](压→拉丁语 *pressare*，pre
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The survey results may be unrepresentative of the general population due to the small sample size.（由于样本量小，调查结果可能不能代表总体人口。）
-> - Critics argue that the film is unrepresentative of the director's usual style.（评论家认为这部电影不能代表导演一贯的风格。）
+> - This early novel is unrepresentative of her work as a whole. `[例]`
+> - The author characterizes Huntington Beach itself as an inherently self-aggrandizing, wealthy coastal enclave unrepresentative of broader California concerns, dismissing the notion that this affluent beach town should serve as a model for statewide governance or the state’s future direction. `[例]`
 
 ## 复习记录
 

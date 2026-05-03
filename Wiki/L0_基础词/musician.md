@@ -122,8 +122,9 @@ mus(=muse, 音乐/缪斯) + -ic(形容词后缀) + -ian(名词后缀，"……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The musician spent years perfecting his technique before performing in public."（这位音乐家花了数年时间完善技巧后才公开演出）
-> - "Many musicians struggle to make a living from their art alone."（许多音乐家难以仅靠艺术谋生——考研阅读常见话题）
+> - The concert features dancers and musicians of all nationalities . `[例]`
+> - The famous jazz musician, Duke Ellington, was a composer , arranger and pianist . `[例]`
+> - The restaurant was hopelessly mismanaged by a former rock musician with no business experience . `[例]`
 
 
 ---

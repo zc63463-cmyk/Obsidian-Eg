@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**严格的，严厉的**==；②（财政）紧缩的；③（规则）严密的；
+**adj.** ①==**严格的，严厉的**== `adj`；②==**（财政）紧缩的**== `adj`；③==**（规则）严密的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：绑得紧紧的（像绳子一样紧紧绑住，不留余地）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government imposed stringent regulations on industrial emissions.（政府对工业排放实施了严格的法规。）
-> - Stringent safety standards must be met before the product can be sold.（产品必须达到严格的安全标准才能销售。）
+> - The most stringent laws in the world are useless unless there is the will to enforce them. `[例]`
+> - We need to introduce more stringent security measures such as identity cards . `[例]`
 
 ## 复习记录
 

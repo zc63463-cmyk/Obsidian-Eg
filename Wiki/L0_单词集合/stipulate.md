@@ -125,8 +125,9 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The contract stipulates that the buyer must pay a deposit before the end of the month."（合同规定买方必须在月底前支付定金。）——考研高频表达
-> - "The law stipulates that all employers must provide a safe working environment for their employees."（法律规定所有雇主必须为员工提供安全的工作环境。）——考研高频表达
+> - She agreed to buy the car , but stipulated racing tyres and a turbo-powered engine . `[例]`
+> - The law stipulates that new cars must have seat belts for the driver and every passenger . `[例]`
+> - We have signed a contract which stipulates wh en the project must be completed . `[例]`
 ---
 
 

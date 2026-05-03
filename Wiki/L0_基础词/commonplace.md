@@ -123,8 +123,9 @@ common(共同的/普通的) + place(地方)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It has become commonplace for people to work from home."（在家办公已经变得司空见惯。）
-> - "The idea that education is the key to success is almost a commonplace."（教育是成功之钥这种说法几乎是老生常谈。）
+> - Electric cars are increasingly commonplace. `[例]`
+> - We exchanged commonplaces about the weather over cups of tea . `[例]`
+> - Public financing for sports stadiums has become commonplace. `[例]`
 
 
 ---

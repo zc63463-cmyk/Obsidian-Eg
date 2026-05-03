@@ -131,8 +131,9 @@ im-(=in-, 入，向内) + pet(追求，拉丁语 *petere*，寻求) + -us(拉丁
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This is the primary impetus behind the economic recovery."（这是促使经济复苏的主要推动力。——考研阅读真题）
-> - "The treaty gave a fresh impetus to trade."（该条约使贸易获得新的推动力。——考研翻译常见表达）
+> - The recent publicity surrounding homelessness has given a fresh impetus to the cause . `[例]`
+> - Often the impetus for change in education has had to come from outside the school establishment . `[例]`
+> - The debate seems to have lost much of its initial impetus. `[例]`
 
 
 ---

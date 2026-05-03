@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He aped the mannerisms of his boss to gain favor."（他模仿老板的举止来讨好——考研阅读常见表达）
-> - "The great apes are our closest living relatives."（类人猿是我们现存最近的亲戚——科普类语料）
+> - Chimpanzees and gorillas are both apes. `[例]`
+> - He called the new building unoriginal and said that it merely aped the classical traditions . `[例]`
+> - Chimpanzees, gorillas , and orangutans are all apes. `[例]`
 
 
 ---

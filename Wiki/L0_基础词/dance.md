@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But after all those years, I found that dance was gradually becoming something that felt like more of a burden than a joy."（但毕竟，这些年来，我发现舞蹈逐渐成为一种负担，而不是一种乐趣——高考真题阅读）
-> - "Unlike any of these typical responses, I'm proud to say that I love to dance salsa after a long and tiring day of work."（与这些典型的反应不同，我自豪地说，我喜欢在漫长疲惫的工作一天后跳萨尔萨舞——四级真题阅读）
+> - We danced all night . `[例]`
+> - We went dancing at a club . `[例]`
+> - What kind of music do you like dancing to? `[例]`
 
 
 ---

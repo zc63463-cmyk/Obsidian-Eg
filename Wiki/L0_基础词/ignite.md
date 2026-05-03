@@ -123,8 +123,9 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy ignited a fierce debate among scholars."（新政策引发了学者之间的激烈辩论——ignite a debate 为考研写作可用搭配）
-> - "A single spark can ignite a prairie fire."（星星之火，可以燎原——ignite 在比喻语境中的经典用法）
+> - The fuel spontaneously ignites because of the high temperature and pressure . `[例]`
+> - The proposed restrictions have ignited a storm of protest . `[例]`
+> - The forest fire began when a spark from a campfire ignited some dry grass nearby . `[例]`
 
 
 ---

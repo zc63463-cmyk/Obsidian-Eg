@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**迁移，移民**== `adj N` [社会]；`N of N` [社会]；②==**（动物的）迁徙**== `adj N` [科学]；③==**（计算机）数据迁移**== `N of N` [技术]；
+**n.** ①==**迁移，移民**== `N`；②==**（动物的）迁徙**== `N`；③==**（计算机）数据迁移**== `N`；
 
 > [!tip] 原型义
 > **原型义**：从一个地方移动到另一个地方
@@ -132,8 +132,8 @@ migr(移动/迁移，拉丁语 *migrare*) + -ation(名词后缀，表动作或�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The mass migration from rural areas to cities has created enormous challenges for urban planning.
-> - `[例]` Scientists tracked the seasonal migration of monarch butterflies across thousands of miles.
+> - Christmas Island is known for its annual migration of 50 million bright red land crabs from the forest to the sea . `[例]`
+> - Some old roads follow the paths of seasonal animal migrations. `[例]`
 
 ## 复习记录
 

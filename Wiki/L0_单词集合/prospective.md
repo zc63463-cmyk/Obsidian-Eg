@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**预期的，未来的，可能的**==；②预期的，即将发生的；
+**adj.** ①==**预期的，未来的，可能的**== `adj`；②==**预期的，即将发生的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：向前看（提前展望未来可能发生的事）
@@ -127,8 +127,9 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consumers seem only mildly concerned, not panicked, and many say they remain optimistic about the economy's long-term prospects, even as they do some modest belt-tightening."（消费者似乎只是适度地担忧，没有恐慌，许多人说即使在他们稍微节省开支的时候，对经济的长期前景也仍是乐观的——2004年考研阅读Text 3，prospect 同源）
-> - "Given the fact that a prospective student is bombarded by prospectuses, selecting a suitable course is not easy."（考虑到一个未来的学生被各种招生简章轰炸，选择合适的课程并不容易——剑桥词典例句）
+> - We've had three sets of prospective buyers looking at the house . `[例]`
+> - Given the fact that a prospective student is bombarded by prospectuses , selecting a suitable course is not easy . `[例]`
+> - There were offers from several prospective buyers . `[例]`
 
 
 ---

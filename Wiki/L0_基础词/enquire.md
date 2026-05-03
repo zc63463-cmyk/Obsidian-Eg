@@ -125,8 +125,9 @@ en-(=in-, 向内) + [[quir-quest|quir-/quest-]](寻求/追求) → 向内寻求�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She enquired about the availability of the product."（她询问了该产品的供应情况）
-> - "The police are enquiring into the cause of the accident."（警方正在调查事故的原因）
+> - I called the garage to enquire about progress on the repairs. `[例]`
+> - She enquired as to your whereabouts. `[例]`
+> - Might I enquire why you have not mentioned this until now? `[例]`
 
 
 ---

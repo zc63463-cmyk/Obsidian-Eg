@@ -137,8 +137,9 @@ vis（看，看见）+ -ion（名词后缀，表示行为/结果/状态）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "According to the new school of scientists, technology is an overlooked force in expanding the horizons of scientific knowledge."（新学派科学家们认为，在拓展科学知识的范围方面，技术是一种被忽视的力量。）——1994年翻译
-> - "Our field of vision is limited by that tall building."（我们的视野被那栋高楼遮挡了。）——考研高频表达
+> - We see in his novels his sinister , almost apocalyptic , vision of the future . `[例]`
+> - Johnny was late home and, as usual , I had visions of him lying dead in some alley . `[例]`
+> - She had visions in which the angel Gabriel appeared to her. `[例]`
 ---
 
 

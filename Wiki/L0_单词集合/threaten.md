@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The storm threatened to destroy the coastal villages."（暴风雨威胁着要摧毁沿海村庄）——考研阅读中描述自然灾害
-> - "threaten to undermine the stability of the economy"（威胁要破坏经济稳定）——社会经济类阅读
-> - "He threatened me with violence."（他用暴力威胁我）——日常/法律语境
+> - They threatened the shopkeeper with a gun . `[例]`
+> - They threatened to kill him unless he did as they asked . `[例]`
+> - Changing patterns of agriculture are threatening the countryside . `[例]`
 
 ---
 

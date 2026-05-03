@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**战前的，二战前的**==；
+**adj.** ①==**战前的，二战前的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：战争之前的（某次战争爆发前的时期）
@@ -121,7 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many prewar buildings in London were destroyed during the Blitz."（伦敦许多战前建筑在闪电战中被摧毁。）
+> - Jet fuel prices have spiked from $100 a barrel prewar levels to nearly $200 a barrel, spelling trouble for even the larger carriers. `[例]`
+> - At the same time, India’s total oil imports fell more than 14% from prewar levels. `[例]`
 
 ## 复习记录
 

@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a local custom to give red envelopes during the Spring Festival."（春节发红包是当地的风俗——文化类语料）
-> - "The company offers custom-made solutions for each client."（公司为每位客户提供定制化解决方案——商业类语料）
+> - In my country , it's the custom for women to get married in white . `[例]`
+> - He left the house at nine exactly , as is his custom. `[例]`
+> - Most of our custom comes from tourists nowadays . `[例]`
 
 
 ---

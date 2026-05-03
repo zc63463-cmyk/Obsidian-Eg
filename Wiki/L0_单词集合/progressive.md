@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**进步的，先进的**== ; ②逐步的，渐进的 ; ③进行性的，不断发展的 ;
+**adj.** ①==**进步的，先进的**== `adj`；②==**逐步的，渐进的**== `adj`；③==**进行性的，不断发展的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：一步步向前走（stepping forward）
@@ -132,8 +132,9 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Progressive education emphasizes the development of critical thinking skills rather than rote memorization."（进步主义教育强调批判性思维技能的培养，而非死记硬背。）——考研高频表达
-> - "The company has adopted a progressive approach to employee welfare."（公司采取了渐进式的员工福利政策。）——考研高频表达
+> - There's been a progressive decline in the standard of living over the past few years . `[例]`
+> - Alzheimer's disease is a progressive brain condition . `[例]`
+> - He was diagnosed with syringomyelia, a disease of the spinal cord that results in progressive weakening of the body . `[例]`
 
 ---
 

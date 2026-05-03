@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a direct descendant of Queen Victoria."（她是维多利亚女王的直系后裔——常见搭配用法）
-> - "Descendants of the ancient tribe still practice traditional rituals."（古老部落的后代仍在进行传统仪式——《经济学人》2024）
+> - He has no descendants. `[例]`
+> - They claim to be descendants of a French duke . `[例]`
+> - We owe it to our descendants (= people younger than us who will live after we have died ) to leave them a clean world to live in. `[例]`
 
 
 ---

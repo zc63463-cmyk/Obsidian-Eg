@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**侧面（像），轮廓**==；②人物简介，传略；③形象，印象；
-**v.** ①描绘……的轮廓；②为……写传略；
+**n.** ①==**侧面（像），轮廓**== `N`；②==**人物简介，传略**== `N`；③==**形象，印象**== `N`；
+**v.** ①==**描绘……的轮廓**== `V`；②==**为……写传略**== `V`；
 
 > [!tip] 原型义
 > **原型义**：用线描出轮廓（to draw in outline）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has kept a low profile during the scandal."（公司在丑闻期间保持低调——考研高频表达）
-> - "The newspaper published a profile of the new president."（报纸刊登了新总统的人物简介）
+> - You can post your relationship status on your Facebook profile. `[例]`
+> - We need to increase our company's profile in Asia . `[例]`
+> - There is a growing number of women in high-profile positions (= positions which they are noticed ) in the government . `[例]`
 
 
 ---

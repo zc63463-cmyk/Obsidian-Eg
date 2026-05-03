@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has achieved a string of successes in his career as a lawyer."（他作为律师在职业生涯中取得了一连串的成功。）——考研高频表达
-> - "The government attached a string of conditions to the approval of the project."（政府在批准该项目时附加了一系列条件。）——考研高频表达
+> - A package tied with string. `[例]`
+> - She wrapped the parcel with brown paper and a long piece of string. `[例]`
+> - Our cat loves nothing more than playing with a ball of string. `[例]`
 
 ---
 

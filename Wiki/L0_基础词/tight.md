@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**紧的，不松的**==；②严格的，严密的；③（时间/资金）紧的；④严厉的；
-**adv.** ①紧紧地，牢牢地；
+**adj.** ①==**紧的，不松的**== `adj`；②==**严格的，严密的**== `adj`；③==**（时间/资金）紧的**== `adj`；④==**严厉的**== `adj`；
+**adv.** ①==**紧紧地，牢牢地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：拉紧的、不松的
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With a tight deadline approaching, the team worked overtime."（随着紧迫的截止日期临近，团队加班工作）
-> - "The government maintained tight control over the media."（政府对媒体保持严密控制）
+> - I can't untie the knot - it's too tight. `[例]`
+> - This lid is on very tight. `[例]`
+> - The people stood talking in tight groups . `[例]`
 
 
 ---

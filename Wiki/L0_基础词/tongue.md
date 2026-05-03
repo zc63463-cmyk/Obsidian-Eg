@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**舌头**==；②==**语言，方言**==；③说话方式，口才；
-**v.** ①用舌吹奏；舔；
+**n.** ①==**舌头**== `N`；②==**语言，方言**== `N`；③==**说话方式，口才**== `N`；
+**v.** ①==**用舌吹奏**== `V`；舔；
 
 > [!tip] 原型义
 > **原型义**：舌头（口腔中的肌肉器官）
@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "English is the mother tongue of many countries around the world."（英语是世界上许多国家的母语。）
+> - I burned my tongue on some soup last night . `[例]`
+> - Immigrants struggling to learn a foreign tongue. `[例]`
+> - She is a prolific writer with critical views and a sharp (= severe and critical ) tongue. `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He remained loyal to the company even during its most difficult times."（即使在公司最困难的时期，他依然保持忠诚）
-> - "Loyal customers are the foundation of any successful business."（忠实客户是任何成功企业的基石）
+> - Their customers remain loyal. `[真题]`
+> - She has been one of the prime minister's most loyal supporters . `[例]`
+> - When all her other friends deserted her, Steve remained loyal. `[例]`
 
 
 ---

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They went into town to indulge in some serious shopping."（他们进城去大肆购物。——经典例句）
-> - "The inheritance enabled him to indulge his passion for art."（这笔遗产使他能够尽情投入他热爱的艺术。——经典例句）
+> - They went into town to indulge in some serious shopping. `[例]`
+> - The inheritance enabled him to indulge his passion for art. `[例]`
+> - The soccer fans indulged their patriotism , waving flags and singing songs . `[例]`
 
 
 ---

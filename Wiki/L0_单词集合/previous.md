@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**先前的，以前的**== ; ②在……之前的 ;
+**adj.** ①==**先前的，以前的**== `adj` ; ②==**在……之前的 ;**== `adj`
 
 > [!tip] 原型义
 > **原型义**：走在前面的（going before in time or order）
@@ -126,8 +126,9 @@ pre-(在……之前) + vi(路) + -ous(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I've met him before on two previous occasions."（我以前见过他两次。）——考研高频表达
-> - "Previous studies have shown that regular exercise can significantly reduce the risk of heart disease."（先前的研究表明，定期锻炼可以显著降低患心脏病的风险。）——考研高频表达
+> - While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely. `[真题]`
+> - The previous owner of the house had built an extension on the back. `[例]`
+> - Training is provided , so no previous experience is required for the job . `[例]`
 ---
 
 

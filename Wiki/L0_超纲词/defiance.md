@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**违抗，反抗，蔑视**== `prep N of N` [书面] `N in defiance of N` [正式]；
+**n..** ①==**违抗，反抗，蔑视**== `N`；
 
 > [!tip] 原型义
 > **原型义**：不屈服（拒绝服从权威/命令）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She continued smoking in defiance of the hospital's strict regulations. `[例]`
-> - The protesters staged an open act of defiance against the new immigration policy. `[例]`
+> - The demonstration is a pointless act of defiance against the government . `[例]`
+> - In defiance of the ceasefire , rebel troops are again firing on the capital . `[例]`
 
 ## 复习记录
 

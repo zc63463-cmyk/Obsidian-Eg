@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**摊位，售货亭**== `set up a booth / booth at the fair`；②电话亭 `phone booth`；③隔间，小间 `dining booth / voting booth`；
+**n.** ①==**摊位，售货亭**==；②电话亭；③隔间，小间；
 
 > [!tip] 原型义
 > **原型义**：小隔间（半封闭的小空间）
@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We are all equal in the voting booth. `[Collins]`
-> - The maître d' puts me in a corner booth. `[Collins]`
-> - Tents and booths are erected for three days of madness, then dismantled and shipped away as quickly as they came. `[Cambridge]`
+> - There was a line of people waiting for the phone booth. `[例]`
+> - If we get separated , let’s meet at the information booth. `[例]`
+> - At the booth, the marketing executive told me about the toys and gadgets his company sells . `[例]`
 
 
 ---

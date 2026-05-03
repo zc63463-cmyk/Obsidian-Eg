@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In Oliver Twist, Dickens traces an orphan's progress from the workhouse to the criminal slums of London."（在《雾都孤儿》中，狄更斯追踪了一个孤儿从济贫院到伦敦犯罪贫民窟的经历。——考研真题语料）
-> - "She was brought up in the slums of Leeds."（她在利兹的贫民窟长大。——考研相关语料）
-> - "Most of the small and medium enterprises closed down during the economic slump."（大多数中小型企业在经济萧条时期都倒闭了。——考研相关语料，slump 与 slum 词形关联）
+> - She was brought up in the slums of Lima. `[例]`
+> - She was brought up in the slums of Leeds. `[例]`
+> - This house would be an absolute slum if I wasn't here to clean it. `[例]`
 
 
 ---

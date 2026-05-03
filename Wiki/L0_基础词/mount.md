@@ -135,8 +135,9 @@ mount 源自拉丁语 *mons/mont-*（山），与 [[st-sta-stat]]（站立）词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As the cost of living continues to mount, more families are struggling to make ends meet."（随着生活成本不断攀升，越来越多的家庭难以维持生计）
-> - "The government mounted a comprehensive campaign to combat climate change."（政府发起了一场全面的应对气候变化的运动）
+> - The children's excitement is mounting as Christmas gets nearer . `[例]`
+> - She mounted her horse and rode off. `[例]`
+> - He mounted the platform and began to speak to the assembled crowd . `[例]`
 
 
 ---

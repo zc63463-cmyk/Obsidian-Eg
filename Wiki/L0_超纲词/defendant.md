@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**被告，被告人**== `the N in N` [法律] `N plead V` [法律]；
+**n..** ①==**被告，被告人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：为自己辩护的人（被指控后需要保护自己的人）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The defendant pleaded not guilty to all charges in the criminal trial. `[例]`
-> - The court appointed a lawyer to represent the defendant who could not afford legal counsel. `[例]`
+> - The prosecutor must prove beyond a reasonable doubt that the defendant is guilty . `[例]`
+> - The fine is the largest ever for a single defendant in a criminal antitrust case , officials said. `[例]`
 
 ## 复习记录
 

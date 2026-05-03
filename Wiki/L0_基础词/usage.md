@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**使用，用法**==；②==**惯用法，习语**==；③使用率，利用率；④对待方式；
+**n.** ①==**使用，用法**== `N`；②==**惯用法，习语**== `N`；③==**使用率，利用率**== `N`；④==**对待方式**== `N`；
 
 > [!tip] 原型义
 > **原型义**：使用、用法（使用某物的方式或习惯）
@@ -132,8 +132,9 @@ use(使用) + -age(名词后缀，表示状态/行为/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are newsletters that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap."（有些简讯给成千上万的美国人提供有用的小贴士，内容从回收保鲜膜到自制肥皂应有尽有。——2001年考研阅读Text 5，含 useful 和 usage 相关表达）
-> - "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to improve their rankings."（近年来这种鲜为人知的做法加速了发展，因为各高校继续竭尽全力提升排名。——考研阅读，含 utmost 和 use 相关表达）
+> - The earliest recorded usage of the word is in the twelfth century . `[例]`
+> - Sports equipment is designed to withstand hard usage. `[例]`
+> - Many had complained about the usage they'd received at his hands . `[例]`
 
 
 ---

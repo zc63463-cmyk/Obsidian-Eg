@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**放错地方，遗失**== `V N` [通用]；②==**把（感情、信任等）寄托错对象**== `V N` [通用]；
+**v.** ①==**放错地方，遗失**== `V`；②==**把（感情、信任等）寄托错对象**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：把东西放错了地方
@@ -123,8 +123,8 @@ mis-(错误) + [[place|pos-pon-posit]](放置，拉丁语 *placea*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Many investors misplaced their confidence in the company's financial projections. [C]
-> - `[例]` She frequently misplaced her keys and had to search the entire house. [C]
+> - She misplaced her keys so often that her secretary used to carry spare ones for her. `[例]`
+> - I am always misplacing my eyeglasses . `[例]`
 
 ## 复习记录
 

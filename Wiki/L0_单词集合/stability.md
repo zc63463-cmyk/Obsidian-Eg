@@ -122,9 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Economic stability is essential for attracting foreign investment."（经济稳定对于吸引外国投资至关重要。）——考研高频表达
-> - "Political stability provides the foundation for long-term social development."（政治稳定为长期社会发展提供了基础。）——考研高频表达
-> - "The government has taken measures to maintain social stability during the period of reform."（政府已采取措施在改革期间维护社会稳定。）——考研高频表达
+> - I’m worried about his mental stability. `[例]`
+> - There are fears over the stability of the banking system . `[例]`
+> - Large pay awards for executives have been ruled out as the CEO struggles to restore stability at the troubled group . `[例]`
 
 ---
 

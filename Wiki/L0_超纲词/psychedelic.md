@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**致幻的，引起幻觉的**==；②（色彩、图案等）迷幻的，色彩绚丽的；
-**n.** ①致幻药物；②迷幻摇滚乐；
+**adj.** ①==**致幻的，引起幻觉的**== `adj`；②==**（色彩、图案等）迷幻的，色彩绚丽的**== `adj`；
+**n.** ①==**致幻药物**== `N`；②==**迷幻摇滚乐**== `N`；
 
 > [!tip] 原型义
 > **原型义**：显露灵魂的（使隐藏的心灵/精神显现出来）
@@ -132,8 +132,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The 1960s saw a explosion of psychedelic art and music, influenced by the use of LSD.（1960年代见证了迷幻艺术和音乐的爆发，受到LSD使用的影响。）
-> - Psychedelic mushrooms have been used in indigenous rituals for centuries.（致幻蘑菇几个世纪以来一直被用于原住民仪式中。）
+> - I made my dad a playlist with songs from his favourite psychedelic bands . `[例]`
+> - Emerging health care tools, including AI and psychedelics , in readers' eyes. `[例]`
 
 ## 复习记录
 

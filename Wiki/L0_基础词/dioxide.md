@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The burning of fossil fuels releases large amounts of carbon dioxide into the atmosphere."（化石燃料的燃烧向大气中释放大量二氧化碳——环境类阅读高频）
-> - "Carbon dioxide is one of the main greenhouse gases."（二氧化碳是主要的温室气体之一）
+> - Carbon dioxide , the byproduct of respiration of all living animals, is particularly attractive. `[例]`
+> - The fear of a refinery spewing sulfur- dioxide soot and unleashing acid rain, Yoder said, was enough to prompt the county health department to create a pollution-control office to enforce air-quality regulations and end the refinery plans. `[例]`
+> - On the Red Planet, this hardware could convert a carbon- dioxide -rich atmosphere into breathable oxygen and methane, fueling the trip home. `[例]`
 
 
 ---

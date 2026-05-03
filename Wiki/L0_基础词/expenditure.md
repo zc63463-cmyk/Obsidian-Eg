@@ -130,9 +130,9 @@ ex-（向外）+ pend（称重/支付）+ -iture（名词后缀，表行为/状�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has announced a significant increase in military expenditure."（政府宣布大幅增加军事支出。）
-> - "The expenditure on education has risen steadily over the past decade."（过去十年来教育支出稳步增长。）
-> - expenditure 是考研经济类阅读的高频词
+> - It's part of a drive to cut government expenditure. `[例]`
+> - The government's annual expenditure on arms has been reduced . `[例]`
+> - The expenditure of effort on this project has been enormous . `[例]`
 
 ---
 

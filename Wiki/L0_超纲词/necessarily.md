@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**必然地，不可避免地**== `not necessarily` `adv V` [逻辑/正式]；②==**必要地**== `necessarily V` `adv V` [逻辑/正式]；
+**adv.** ①==**必然地，不可避免地**== `adv`；②==**必要地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：必然地（不可避免地）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` A larger vocabulary does not necessarily mean better communication. [C]
-> - `` `[例]` `` Higher education is not necessarily a guarantee of success. [C]
+> - The fact that something is cheap doesn't necessarily mean it's of low quality . `[例]`
+> - You can love someone without necessarily wanting to marry them. `[例]`
 
 ## 复习记录
 

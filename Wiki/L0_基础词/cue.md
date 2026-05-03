@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She took her cue from the boss and left the meeting."（她看老板的眼色行事，离开了会议——考研阅读常见表达）
-> - "Right on cue, the phone rang."（恰在此时，电话响了——日常/文学语料）
+> - They started washing up, so that was our cue to leave the party . `[例]`
+> - I was just wondering where Sarah was, when, right on cue, she came in. `[例]`
+> - She watched his lips carefully and took her cue from him. `[例]`
 
 
 ---

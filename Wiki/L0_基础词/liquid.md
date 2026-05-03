@@ -134,8 +134,9 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company needs to maintain sufficient liquid assets to meet its short-term obligations."（公司需要保持充足的流动资产以满足短期债务。——考研英语阅读相关语料，经济话题）
-> - "Water exists in three states: solid, liquid, and gas."（水以三种状态存在：固态、液态和气态。——考研相关语料）
+> - Mercury is a liquid at room temperature . `[例]`
+> - Swift claimed that vowels and liquids were more typical of female speech . `[例]`
+> - Japanese has only one liquid consonant . `[例]`
 
 
 ---

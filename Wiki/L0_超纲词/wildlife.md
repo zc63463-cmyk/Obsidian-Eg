@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**野生动植物，野生生物**==；②野生生物群落；
+**n.** ①==**野生动植物，野生生物**== `N`；②==**野生生物群落**== `N`；
 
 > [!tip] 原型义
 > **原型义**：野外生存的动植物（wild + life 的复合词，指在自然环境中自由生长、不受人类驯化的生物）
@@ -126,8 +126,8 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The wildlife in the region has been severely affected by deforestation."（该地区的野生动植物已受到森林砍伐的严重影响）
-> - "Wildlife conservation efforts have led to the recovery of several endangered species."（野生动物保护工作已使几种濒危物种得到恢复）
+> - At the museum there was a diorama of local wildlife. `[例]`
+> - She left a large sum of money in her will to found a wildlife sanctuary . `[例]`
 
 ## 复习记录
 

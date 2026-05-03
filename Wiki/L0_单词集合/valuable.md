@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "valuable experience in the workplace"（职场中的宝贵经验）——考研阅读常见搭配
-> - "proved to be a valuable resource"（证明是一个有价值的资源）——学术类文本
-> - "keep your valuables in the hotel safe"（把贵重物品放在酒店保险箱里）——实用类文本
+> - These antiques are extremely valuable. `[例]`
+> - This is losing valuable business for the company . `[例]`
+> - He was able to provide the police with some valuable information . `[例]`
 
 ---
 

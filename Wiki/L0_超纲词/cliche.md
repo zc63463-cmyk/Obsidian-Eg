@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**陈词滥调，老套**== `N` [贬义/通用]；②（艺术、文学中的）套话；
-**adj.** ①==**陈腐的，老套的**== `adj. N` [贬义/通用]；
+**n.** ①==**陈词滥调，老套**== `N`；②==**（艺术、文学中的）套话**== `N`；
+**adj.** ①==**陈腐的，老套的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：铅版印刷的模板（反复使用的固定表达）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The film relies too heavily on romantic cliches. `[例]`
-> - Think outside the box has become something of a cliche in business writing. `[例]`
+> - All of these games are set in a futuristic urban cliche where it is dark and raining . `[例]`
+> - It's a cliche to say that the creations of a great artist will forever live after them. `[例]`
 
 ## 复习记录
 

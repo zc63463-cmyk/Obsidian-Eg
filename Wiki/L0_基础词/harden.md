@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was a veteran, his face hardened from years of war."（他是一名老兵，他的脸因多年的战争而变得坚毅。——考研英语阅读相关语料）
-> - "Their action can only serve to harden the attitude of landowners."（他们的举动只会使土地所有者们的态度变得强硬。——考研英语阅读相关语料）
+> - The mixture hardens as it cools . `[例]`
+> - It is thought that high cholesterol levels in the blood can harden the arteries (= make them thicker and stiffer , causing disease ) . `[例]`
+> - Living in the desert hardened the recruits (= made them more strong and determined ) . `[例]`
 
 
 ---

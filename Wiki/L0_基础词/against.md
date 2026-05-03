@@ -137,8 +137,9 @@ a-(=on-, 在……上) + gainst(=gain, 对着，古英语 *gegn*，与 [[gain]] 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented."（批评者提出了反对基因专利的三个主要论点：基因是自然产物，因此不应被授予专利。——2012年考研英语阅读 Text 3）
-> - "In 2005, the Authors Guild of America, together with a group of US publishers, launched a class action suit against Google."（2005年，美国作家协会联合一组美国出版商对谷歌提起了集体诉讼。——考研阅读相关话题）
+> - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
+> - He loved the feel of her soft hair against his skin . `[例]`
+> - The rain beat against her face as she struggled through the wind . `[例]`
 
 
 ---

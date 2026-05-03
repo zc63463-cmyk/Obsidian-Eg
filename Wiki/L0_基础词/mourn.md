@@ -122,8 +122,9 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The nation mourned the loss of its beloved leader, who had guided the country through its darkest hours."（全国哀悼这位深受爱戴的领导人的离世，他曾带领国家走过最黑暗的时刻）
-> - "We mourn not only the passing of a great scientist but also the loss of a visionary thinker."（我们不仅哀悼一位伟大科学家的离世，也惋惜一位有远见的思想家的逝去）
+> - She was still mourning for her brother . `[例]`
+> - They mourned the passing of an older , simpler way of life (= felt sad because it had stopped existing ) . `[例]`
+> - Frank is mourning the death of his father . `[例]`
 
 
 ---

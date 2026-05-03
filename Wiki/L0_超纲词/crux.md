@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**关键，症结**== `N` [正式]；②（问题的）==**最难点**== `N` [正式]；③==**十字架**== `N` [宗教/文学]；
+**n.** ①==**关键，症结**== `N`；②==**（问题的）最难点**== `N`；③==**十字架（文学/宗教用语）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：十字交叉点（拉丁语 *crux* "十字架/交叉点"）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The crux of the debate lies in whether individual freedom should outweigh public safety. `[例]`
-> - Understanding the crux of the problem is essential before proposing any solution. `[例]`
+> - Short-term rentals themselves are not the crux of the issue, said Keren Hom , an expert on affordable housing policy. `[真题]`
+> - The crux of the country's economic problems is its foreign debt . `[例]`
 
 ## 复习记录
 

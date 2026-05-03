@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A war hero deserves the respect of all."（战争英雄理应受到所有人的尊敬。——考研高频表达）
-> - "Everyone played brilliantly, but Jones was the hero of the hour."（每个人都表现出色，但琼斯无疑是当时的英雄。——考研阅读常见表达）
+> - Within Australia she was a national hero. `[例]`
+> - He became an accidental hero when he unknowingly thwarted a robbery . `[例]`
+> - Graham says he'll take my parents to the airport at four o'clock in the morning - what a hero! `[例]`
 
 
 ---

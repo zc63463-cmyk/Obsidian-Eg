@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使加入工会**==；②组织工会；③使联合；
+**v.** ①==**使加入工会**== `V N`；②==**组织工会**== `V`；③==**使联合**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：使加入工会（组织成联盟）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Amazon warehouse workers have been trying to unionize for years."（亚马逊仓库工人多年来一直试图组建工会。）
-> - "The right to unionize is protected by law in many countries."（在许多国家，组建工会的权利受法律保护。）
+> - They're about to launch a campaign to unionize workers at all major supermarkets in the area . `[例]`
+> - We’re launching a campaign to unionize workers at all major discount stores in the area . `[例]`
 
 ## 复习记录
 

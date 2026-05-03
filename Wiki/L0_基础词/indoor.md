@@ -121,8 +121,9 @@ in-(在……内，[[in]]) + door(门，古英语 *duru*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Indoor air pollution has become one of the top five environmental health risks."（室内空气污染已成为五大环境健康风险之一。——经典例句）
-> - "Children today spend more time on indoor activities than on outdoor play."（当今儿童花在室内活动上的时间比户外玩耍更多。——经典例句）
+> - An indoor swimming pool. `[例]`
+> - Come indoors, it’s cold outside . `[例]`
+> - The indoor flower market is a big tourist attraction . `[例]`
 
 
 ---

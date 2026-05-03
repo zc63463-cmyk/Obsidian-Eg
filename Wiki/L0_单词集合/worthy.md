@@ -138,10 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a cause worthy of support"（一项值得支持的事业）——考研阅读中常见搭配，描述值得投入的事业
-> - "He proved himself worthy of the trust placed in him."（他证明自己配得上人们对他的信任。）——人物评价类语境
-> - "a worthy successor to the tradition"（这一传统的当之无愧的继承者）——学术/文化类话题
-> - "worthy of note/attention"（值得注意的）——考研阅读中引出重要信息
+> - He is unlikely to succeed in getting his bill through Congress , however worthy it is. `[例]`
+> - Every year she makes a large donation to a worthy cause . `[例]`
+> - Two points in this report are especially worthy of notice . `[例]`
+> - It was a worthy cause , and we were glad to make a contribution . `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**禁止，阻止**== ;
+**v.** ①==**禁止，阻止**== `V` ;
 
 > [!tip] 原型义
 > **原型义**：在前面挡住不让持有/做（to hold forth from / to keep away）
@@ -128,8 +128,9 @@ pro-(在前) + [[hib|hib→持有]](持有/握住) + -it
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The parliament also agreed to ban websites that incite excessive thinness by promoting extreme dieting."（议会还同意禁止通过宣传极端节食来煽动过度消瘦的网站——2016年考研Text 1）
-> - "Too many workplace policies effectively prohibit employees from developing a healthy work-life balance by barring them from taking time off."（太多的工作场所政策实际上通过禁止员工休假来阻止他们建立健康的工作与生活平衡——考研高频表达）
+> - Motor vehicles are prohibited from driving in the town centre . `[例]`
+> - The government introduced a law prohibiting tobacco advertisements on TV. `[例]`
+> - Parking is strictly prohibited between these gates . `[例]`
 
 
 ---

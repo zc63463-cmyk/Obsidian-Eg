@@ -129,8 +129,9 @@ flood（源自古英语 *flōd*，与 flow 同源，原始印欧语 *pleu-* "流
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A flood of complaints poured in after the policy change."（政策变更后大量投诉涌入——考研社会类阅读）
-> - "Cheap imported goods flooded the domestic market."（廉价进口商品充斥国内市场——考研经济类阅读）
+> - Our washing machine broke down yesterday and flooded the kitchen . `[例]`
+> - The whole town flooded when the river burst its banks . `[例]`
+> - Several families living by the river were flooded out (= forced to leave their houses because they became covered with water ) . `[例]`
 
 
 ---

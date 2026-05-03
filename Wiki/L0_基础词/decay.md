@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In zones of increased turbulence, the planes' wakes will decay more quickly and the effect will diminish."（在湍流加剧的区域，飞机的尾迹将更快地衰减，影响将减弱。——2010年考研英语二阅读理解）
-> - "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the decay of certain dramatic forms."（此后二十五年的伊丽莎白时期戏剧发展对文学史学生具有极大的吸引力，因为在这短暂的时期内我们可以追踪某些戏剧形式的衰落。——2018年考研英语翻译原文）
+> - Sugar makes your teeth decay. `[例]`
+> - The role of the extended family has been decaying for some time . `[例]`
+> - Pollution has decayed the surface of the stonework on the front of the cathedral . `[例]`
 
 
 ---

@@ -128,8 +128,9 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The future of the company is at stake.（公司的未来岌岌可危。）
-> - Employees who have a stake in the company are more motivated.（在公司中有利害关系的员工更有动力。）
+> - Employers have a stake in the training of their staff . `[例]`
+> - She spent two weeks in Las Vegas playing high-stakes blackjack at the casinos . `[例]`
+> - The team is playing for enormous stakes - the chance to play in the final . `[例]`
 
 
 ---

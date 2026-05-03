@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The Silk Road was once traveled by caravans of merchants carrying goods between East and West. `[例]`
-> - They spent their summer holiday traveling around the country in a caravan. `[例]`
+> - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
 
 ## 复习记录
 

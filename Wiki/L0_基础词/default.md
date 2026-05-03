@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Defaults on loan repayments have reached a record high, raising concerns about the stability of the banking system."（贷款违约率已达到历史新高，引发了对银行系统稳定性的担忧——考研经济类语料）
-> - "If you do not make a choice, the system will select the default option for you."（如果你不做选择，系统将为你选择默认选项——考研科技类语料）
+> - People who default on their mortgage repayments may have their home repossessed . `[例]`
+> - He moved into the next round after his opponent defaulted because of injury . `[例]`
+> - Unless something else is agreed , the default is to meet at the hotel at 7.00 p.m. `[例]`
 
 
 ---

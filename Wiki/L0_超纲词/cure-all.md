@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**万能药，灵丹妙药**== `N` [口语]；②==**解决问题的万能方法**== `N` [口语]；
+**n.** ①==**万能药，灵丹妙药**== `N`；②==**解决问题的万能方法**== `N`；
 
 > [!tip] 原型义
 > **原型义**：治愈一切疾病的东西
@@ -124,8 +124,8 @@ cure(治愈) + all(所有) → cure-all(复合名词)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - There is no cure-all for the complex problems facing modern education. `[例]`
-> - Many people mistakenly believe that artificial intelligence is a cure-all for all business inefficiencies. `[例]`
+> - There’s a danger in believing that the drug is a cure-all. `[例]`
+> - Raising a young person's self-esteem is not the cure-all that some people think. `[例]`
 
 ## 复习记录
 

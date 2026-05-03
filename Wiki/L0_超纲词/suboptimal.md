@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**次优的，不够理想的**==；②未达到最佳标准的；
+**adj.** ①==**次优的，不够理想的**== `adj`；②==**未达到最佳标准的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不够最优的（低于最佳水平，但不是最差的）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company's suboptimal performance led to a decline in stock prices.（公司不够理想的业绩导致股价下跌。）
-> - Suboptimal nutrition during childhood can have long-term effects on development.（儿童时期不够理想的营养可能对发育产生长期影响。）
+> - Long-term consumer debt is often considered fiscally suboptimal. `[例]`
+> - A combination of these two drugs at the same suboptimal concentrations showed a potent inhibitory activity . `[例]`
 
 ## 复习记录
 

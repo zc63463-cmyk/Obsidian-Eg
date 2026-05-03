@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**操作的，运转的**==；②==**业务上的，运营的**==；③==**可使用的，可运转的**==；
+**adj.** ①==**操作的，运转的**== `adj`；②==**业务上的，运营的**== `adj`；③==**可使用的，可运转的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与操作/运转相关的（operation 的形容词形式）
@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new airport is now fully operational."（新机场现已全面投入运营）——考研阅读常见搭配，描述基础设施
-> - "The company needs to reduce its operational costs."（公司需要降低运营成本）——商业类阅读语境
-> - "operational efficiency has improved significantly"（运营效率显著提升）——管理/经济类阅读语境
+> - The new airport is now fully operational. `[例]`
+> - There are operational advantages in putting sales and admin in the same building . `[例]`
+> - Repairs have already begun and we expect the factory to be fully operational again with six months . `[例]`
 
 ---
 

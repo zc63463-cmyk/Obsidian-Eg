@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**身体，躯体**== `the human body` / `body and soul`；②==**主体，正文**== `the body of the essay` / `a body of evidence`；③团体，机构；④物体；
+**n.** ①==**身体，躯体**==；②==**主体，正文**==；③团体，机构；④物体；
 **vt.** ①赋予形体；
 
 > [!tip] 原型义
@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is a growing body of evidence to support their claim. `[Cambridge]`
-> - A good diet and plenty of exercise will help you to keep your body healthy. `[Cambridge]`
-> - The student body of the university has grown significantly over the past decade. `[Collins]`
+> - A good diet and plenty of exercise will help you to keep your body healthy . `[例]`
+> - She rubbed suncream over her entire body. `[例]`
+> - He had a fat body but thin legs and arms . `[例]`
 
 
 ---

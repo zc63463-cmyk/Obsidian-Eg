@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university entrance examination is one of the most competitive tests in the country, determining the academic future of millions of students."（大学入学考试是全国竞争最激烈的考试之一，决定着数百万学生的学术未来——考研阅读教育话题相关表达）
-> - "She was completely entranced by the professor's lecture on quantum mechanics, which opened up an entirely new world of physics for her."（她完全被教授关于量子力学的讲座迷住了，这为她打开了一个全新的物理世界——考研阅读学术话题相关表达）
+> - There are two entrances - one at the front and one around the back. `[例]`
+> - He makes a spectacular entrance in act two draped in a gold sheet . `[例]`
+> - I noticed her entrance because she slipped and fell in the doorway . `[例]`
 
 
 ---

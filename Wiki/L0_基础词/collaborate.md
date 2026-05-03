@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists from around the world collaborated on the Human Genome Project, one of the most ambitious scientific endeavors in history."（来自世界各地的科学家合作开展了人类基因组计划，这是历史上最雄心勃勃的科学工程之一——考研阅读科技话题）
-> - "In today's interconnected world, the ability to collaborate effectively across cultures has become an essential skill."（在当今相互联系的世界中，跨文化有效合作的能力已成为一项基本技能——考研阅读教育话题）
+> - Two writers collaborated on the script for the film . `[例]`
+> - A German company collaborated with a Swiss firm to develop the product . `[例]`
+> - The team will collaborate with colleagues at another lab who conduct related research . `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university has arranged for a series of guest lectures by leading scholars in the field of artificial intelligence."（大学已安排了一系列由人工智能领域顶尖学者主讲的客座讲座——考研阅读教育话题相关表达）
-> - "The couple arranged with their employers to work from home two days a week in order to balance their professional and family responsibilities."（这对夫妇与雇主商定每周在家工作两天，以平衡职业和家庭责任——考研阅读社会话题相关表达）
+> - I'm trying to arrange my work so that I can have a couple of days off next week . `[例]`
+> - The meeting has been arranged for Wednesday . `[例]`
+> - She's arranged for her son to have swimming lessons . `[例]`
 
 
 ---

@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People often complain that plastics are too durable. Water bottles, shopping bags, and other trash litter the planet, from Mount Everest to the Mariana Trench, because plastics are everywhere and don't break down easily."（人们经常抱怨塑料太耐用了。水瓶、购物袋和其他垃圾散布在地球上，从珠穆朗玛峰到马里亚纳海沟，因为塑料无处不在且不易分解。——2022年英语一Text 1）
-> - "But some plastic materials change over time."（但一些塑料材料会随时间变化。——2022年英语一Text 1）
+> - Those flowers aren't real - they're made of plastic. `[例]`
+> - The company has moved into plastics. `[例]`
+> - I hate the hostesses ' false cheerfulness and plastic smiles . `[例]`
 
 
 ---

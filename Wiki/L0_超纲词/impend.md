@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**即将发生，逼近**== `disaster impends` [贬义/正式] `sth impends` [贬义/文学]（通常指危险或灾难）；
+**v.** ①==**即将发生，逼近**== `V`（通常指危险或灾难）；
 
 > [!tip] 原型义
 > **原型义**：即将发生（通常指不好的事）
@@ -120,8 +120,8 @@ im-(=in-, 在……上) + [[pend-pens|pend]](悬挂，拉丁语 *pendere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Dark clouds gathered on the horizon, and a violent storm impended. `[例]`
-> - The citizens grew increasingly anxious as economic collapse impended. `[例]`
+> - A crisis of huge proportions impends in the area . `[例]`
+> - For confirmed pessimists some disaster always seems to be impending. `[例]`
 
 ## 复习记录
 

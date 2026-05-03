@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**义务，责任**==；②==**债务**==；
+**n.** ①==**义务，责任**== `N`；②==**债务**== `N`；
 
 > [!tip] 原型义
 > **原型义**：被绑定在一起（因法律/道德/承诺而被约束）
@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You are under no obligation to answer their questions."（你没有义务回答他们的问题）——法律/权利语境
-> - "We have a moral obligation to protect the environment."（我们有保护环境的道德义务）——社会/环保话题
-> - "The company failed to fulfill its financial obligations."（公司未能履行其财务义务）——商业/经济语境
-> - "Parents have a legal obligation to ensure their children receive education."（父母有法律义务确保子女接受教育）——法律/教育话题
+> - If you have not signed a contract , you are under no obligation to (= it is not necessary to) pay them any money . `[例]`
+> - We have a moral obligation to protect the environment. `[例]`
+> - You have a legal obligation to (= the law says you must) ensure your child receives an education . `[例]`
+> - I don't have time to do his work for him - I have too many obligations as it is. `[例]`
 
 ---
 

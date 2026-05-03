@@ -130,8 +130,9 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is carried by a succession of runners to the stadium."（火炬由一系列接力跑者传递到体育场——1987年考研Text 2）
-> - "Life was just an endless succession of parties and dinners."（生活不过是无休止的宴会和晚餐的交替——考研高频表达）
+> - In quick succession, the Senate and House passed legislation protecting Yell ow stone in early 1872. `[真题]`
+> - Life was just an endless succession of parties and dinners . `[例]`
+> - A succession of scandals and revelations has undermined the government over the past year . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可持续的**==；②==**可持续发展的**==；③可以承受的；
+**adj.** ①==**可持续的**== `adj`；②==**可持续发展的**== `adj`；③==**可以承受的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：可以持续撑住的（能够维持下去而不崩溃）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government has committed to achieving sustainable development goals by 2030.（政府承诺到2030年实现可持续发展目标。）
-> - Transitioning to sustainable energy sources is essential for combating climate change.（向可持续能源转型对于应对气候变化至关重要。）
+> - That sort of extreme diet is not sustainable over a long period . `[例]`
+> - Solutions put in place now must be sustainable. `[例]`
 
 ## 复习记录
 

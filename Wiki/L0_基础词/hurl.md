@@ -121,7 +121,9 @@ hurl（中古英语 *hurllen*，与原始印欧语 *ker-* 有关，意为"弯曲
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The angry crowd hurled stones at the police."（愤怒的人群向警察投掷石块）
+> - In a fit of temper he hurled the book across the room . `[例]`
+> - Youths hurled stones at the soldiers . `[例]`
+> - I wasn't going to stand there while he hurled abuse at me! `[例]`
 
 
 ---

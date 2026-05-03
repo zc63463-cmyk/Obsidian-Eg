@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**对面的，相对的**==；②==**相反的，对立的**==；
-**n.** ①==**对立面，对立物**==；②==**反面**==；
-**adv.** ①==**在对面**==；
+**adj.** ①==**对面的，相对的**== `adj`；②==**相反的，对立的**== `adj`；
+**n.** ①==**对立面，对立物**== `N`；②==**反面**== `N`；
+**adv.** ①==**在对面**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：被放置在对面的（ob- 对着 + ponere 放置 + -ite 形容词后缀）
@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They hold opposite views on this issue."（他们在这个问题上持有相反的观点）——考研阅读常见搭配，观点对比类
-> - "The bank is on the opposite side of the street."（银行在街道对面）——方位描述
-> - "The medicine had the opposite effect from what was intended."（这种药产生了与预期相反的效果）——科学/医学类阅读
+> - You'd never know they're sisters - they're completely opposite to each other in every way. `[例]`
+> - Police attempts to calm the violence had the opposite effect . `[例]`
+> - My brother and I live on opposite sides of the city . `[例]`
 
 ---
 

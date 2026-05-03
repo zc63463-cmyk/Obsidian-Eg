@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has added a new dimension to education."（互联网为教育增加了一个新维度——科技教育类高频表达）
-> - "The dimensions of the problem are not yet fully understood."（这个问题的各个方面尚未被完全理解）
+> - Please specify the dimensions (= the height , length and width ) of the room . `[例]`
+> - A building of vast dimensions (= size ). `[例]`
+> - His personality has several dimensions. `[例]`
 
 
 ---

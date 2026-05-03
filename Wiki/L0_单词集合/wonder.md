@@ -138,10 +138,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is no wonder that..."（难怪……）——考研写作/翻译高频句型
-> - "I wonder whether..."（我想知道是否……）——考研阅读中常见人物心理描写
-> - "the wonders of modern technology"（现代科技的奇迹）——考研阅读科技类语料
-> - "work wonders"（创造奇迹）——考研阅读/写作常见搭配
+> - Shouldn't you phone home ? Your parents will be wondering wh ere you are. `[例]`
+> - He's starting to wonder whether he did the right thing in accepting this job . `[例]`
+> - Will this turkey be big enough for eight, I wonder? `[例]`
+> - Have you decided where you're going next summer ?" "I've been wondering about (= considering ) going to Florida. `[例]`
 
 ---
 

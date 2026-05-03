@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工作量，工作负荷**==；②（某人或某机器的）工作任务量；
+**n.** ①==**工作量，工作负荷**== `N`；②==**（某人或某机器的）工作任务量**== `N`；
 
 > [!tip] 原型义
 > **原型义**：工作的负荷量（work 工作 + load 负荷/装载 → 工作的装载量 → 工作量）
@@ -126,8 +126,8 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Teachers are struggling with an increasingly heavy workload, leaving little time for lesson preparation."（教师们正承受着日益繁重的工作量，几乎没有时间备课）
-> - "The company introduced flexible working hours to help employees balance their workload and personal life."（公司引入弹性工作制，帮助员工平衡工作量和私人生活）
+> - Teachers are always complaining about their heavy workloads. `[例]`
+> - Students do find that their workload increases throughout the course . `[例]`
 
 ## 复习记录
 

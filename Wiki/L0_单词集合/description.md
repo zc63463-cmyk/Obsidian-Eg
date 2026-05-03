@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The author's description of rural life in 19th-century England is vivid and detailed."（作者对19世纪英国乡村生活的描写生动而详细。）——考研阅读真题
-> - "The job description failed to mention the long working hours."（职位描述没有提到工作时间很长。）——考研高频表达
+> - Your paper contains too much description, and not enough discussion of the issues . `[例]`
+> - Boats of every description were entering the harbour . `[例]`
+> - Her beauty is beyond description. `[例]`
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**毋庸置疑地，确实地**==；②==**当然，必定**==；
+**adv.** ①==**毋庸置疑地，确实地**== `adv`；②==**当然，必定**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：毫无疑问地（un-不 + doubt怀疑 + -ly副词后缀 → 没有怀疑地）
@@ -123,8 +123,9 @@ un-(不，否定前缀) + [[doubt|doubt]](怀疑) + -ed(形容词后缀) + -ly(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Progress in both areas is undoubtedly necessary for the social, political, and intellectual development of these and all other societies; however, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong."（毫无疑问，这两个领域的进步对于这些国家以及其他所有国家的社会、政治及智力发展而言都必不可少；然而，"教育应成为促进贫困国家经济快速发展的首要优先事项之一"这一传统观点是错误的。——2009年考研英语Text 3）
-> - "Manufacturing's shrinking presence undoubtedly helps explain the decline in craftsmanship, if only because many of the nation's assembly line workers were skilled in craft work, if not on the job then in their spare time."（制造业的萎缩无疑有助于解释手工艺的衰落，至少因为该国许多流水线工人精通手工艺工作，即使不是在工作中，也是在业余时间。——2013年6月六级阅读）
+> - She was undoubtedly the best candidate . `[例]`
+> - Undoubtedly, stress has contributed to her health problems . `[例]`
+> - It is undoubtedly one of the best movies of the year . `[例]`
 
 
 ---

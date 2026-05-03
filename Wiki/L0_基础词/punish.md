@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**惩罚，处罚**== `V N for N` `V N with N`；②==**严厉对待，使受苦**== `V N`；
+**v.** ①==**惩罚，处罚**== `V`；②==**严厉对待，使受苦**== `V`；
 
 > [!tip] 原型义
 > **原型义**：惩罚（使人因过错而承受痛苦或损失——从拉丁语"使付出代价"演变而来）
@@ -126,9 +126,9 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Those responsible for these crimes must be brought to court and punished. ` `[COCA-NEWS]` `
-> - The oil company was found guilty on ten counts of pollution, and was punished with a $250 million fine. ` `[COCA-NEWS]` `
-> - Even minor infringements of the law will be severely punished. ` `[COCA-ACAD]` `
+> - The bill mentioned in Paragraph 2 was intended to __ _ A. curb short-term rental speculation B. ensure the supply of cheap housing C. punish illegal dealings in housing D. allow a free short-term rental market 28. `[真题]`
+> - Those responsible for these crimes must be brought to court and punished. `[例]`
+> - He punished the class by giv ing them extra work . `[例]`
 
 
 ---

@@ -124,8 +124,9 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Japan is often described as a homogeneous society with a strong sense of national identity.（日本常被描述为一个具有强烈民族认同感的同质社会——考研阅读/翻译高频话题）
-> - The researchers found that the sample was not as homogeneous as previously assumed.（研究人员发现样本并不像之前假设的那样均匀——考研学术类阅读）
+> - The population of the village has remained remarkably homogeneous. `[例]`
+> - Like the other valley towns , this was once a fairly homogeneous Anglo community . `[例]`
+> - A culturally homogeneous society. `[例]`
 
 
 ---

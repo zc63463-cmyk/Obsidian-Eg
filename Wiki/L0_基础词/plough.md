@@ -130,8 +130,9 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them."（求职面试的入围名单、选举选票、会议发言者和与会者名单：所有这些往往都是按字母顺序排列的，收件人在费力浏览时会逐渐失去兴趣。——考研英语阅读真题）
-> - "These fields have been under the plough for centuries."（这些田地已经被犁了几百年。——考研翻译常见农业话题）
+> - These fields have been under the plough for centuries . `[例]`
+> - Farmers start ploughing in the spring . `[例]`
+> - We're going to plough the top field next week . `[例]`
 
 
 ---

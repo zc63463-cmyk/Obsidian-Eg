@@ -128,8 +128,9 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hotel has adjacent rooms that can be connected for families."（酒店有可以连通的家庭相邻房间——考研英语阅读）
-> - "The planes landed on adjacent runways."（这些飞机在相邻的跑道上降落——考研英语阅读）
+> - They lived in a house adjacent to the railway . `[例]`
+> - The planes landed on adjacent runways. `[例]`
+> - They work in adjacent buildings . `[例]`
 
 
 ---

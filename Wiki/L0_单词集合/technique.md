@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "advanced research techniques"（先进的研究方法）——考研阅读中学术/科学类话题高频搭配
-> - "teaching techniques need to be improved"（教学方法需要改进）——教育类话题
-> - "narrative technique in the novel"（小说中的叙事手法）——文学类阅读话题
-> - "master new techniques"（掌握新技术）——科技/教育类文本
+> - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
+> - We have developed a new technique for detecting errors in the manufacturing process . `[例]`
+> - She's a wonderfully creative dancer but she doesn't have the technique of a truly great performer . `[例]`
+> - New surgical techniques are constantly being developed . `[例]`
 
 ---
 

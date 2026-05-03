@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She joined the faculty of the university as a professor of linguistics."（她作为语言学教授加入了该大学的院系——考研英语阅读教育类话题）
-> - "Aging can lead to a decline in mental faculties such as memory and concentration."（衰老可能导致记忆力和注意力等心智能力的下降——考研翻译健康类表达）
+> - She has a faculty for inspiring confidence in people . `[例]`
+> - She is joining the faculty of the University of Washington. `[例]`
+> - He has been a faculty member for 20 years . `[例]`
 
 
 ---

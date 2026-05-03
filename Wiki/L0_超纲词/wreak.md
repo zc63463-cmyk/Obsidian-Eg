@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**造成（破坏、伤害等）**==；②==**发泄（怒气等）**==；
+**v.** ①==**造成（破坏、伤害等）**== `V`；②==**发泄（怒气等）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：施加（破坏性的力量）（古英语 *wrecan*，意为"驱使、惩罚"，与 [[wreck]] 同源）
@@ -126,8 +126,8 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The earthquake wreaked havoc on the city, leaving thousands homeless."（地震对这座城市造成了浩劫，使数千人无家可归）
-> - "Climate change is wreaking destruction on coral reefs around the world."（气候变化正在对全球珊瑚礁造成破坏）
+> - The recent storms have wreaked havoc on crops . `[例]`
+> - She was determined to wreak revenge on both him and his family . `[例]`
 
 ## 复习记录
 

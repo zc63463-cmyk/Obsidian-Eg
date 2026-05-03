@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**偶尔的，不经常的**==；②临时的；③特殊场合的；
+**adj.** ①==**偶尔的，不经常的**== `adj`；②==**临时的**== `adj`；③==**特殊场合的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：偶尔降临的（occasion"降临的时刻" + -al"的" → 只在偶尔降临的时刻出现的）
@@ -129,8 +129,9 @@ oc-(=ob-, 朝向) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名词后缀) + -a
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Cooking is an occasional hobby and a vehicle for celebrity chefs."（烹饪是偶尔的爱好，也是明星厨师的成名途径。——考研阅读高频表达）
-> - "While you may forgive your smartphone an occasional fault, you probably have less patience for error messages from your computer."（虽然你可能原谅智能手机偶尔的故障，但你可能对电脑的错误信息耐心较少。——考研阅读句式）
+> - I play the occasional game of tennis . `[例]`
+> - He has the occasional cigar after dinner . `[例]`
+> - His job requires occasional trips to the West Coast . `[例]`
 
 
 ---

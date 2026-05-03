@@ -127,8 +127,9 @@ dé-(=de-，去除/开始) + but(目标，法语 *but*，"目标/终点")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These eggs are now making their debut on grocery shelves, fetching as much as $8 a dozen."（这些鸡蛋现在首次出现在货架上，每打售价高达8美元。——2022年考研英语二阅读Text 1）
-> - "The young pianist made her debut at Carnegie Hall to critical acclaim."（这位年轻的钢琴家在卡内基音乐厅首次登台，获得了评论界的高度赞扬。——考研文化类阅读常见表达）
+> - He started as an actor , making his debut as a director in 1990. `[例]`
+> - Her debut as Juliet in " Romeo and Juliet" was enthusiastically received by critics . `[例]`
+> - The Broadway show debuted last year to great acclaim . `[例]`
 
 
 ---

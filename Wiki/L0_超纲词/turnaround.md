@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**好转，扭转，逆转**==（尤指企业、经济或局势由坏变好）；②周转时间， turnaround time（完成某事所需的时间）；③（车辆/飞机的）掉头，转向；
+**n.** ①==**好转，扭转，逆转**== `N`（尤指企业、经济或局势由坏变好）；②==**周转时间， turnaround time（完成某事所需的时间）**== `N`；③==**（车辆/飞机的）掉头，转向**== `N`；
 
 > [!tip] 原型义
 > **原型义**：转身（改变方向的动作——从面向一个方向转为面向相反方向）
@@ -142,8 +142,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The remarkable turnaround of the British economy in the 1980s was attributed to a combination of deregulation and technological innovation."（20世纪80年代英国经济的显著好转被归因于放松管制和技术创新的结合——经济类阅读高频话题）
-> - "With a quick turnaround time and competitive pricing, the company has gained a significant market share."（凭借快速的周转时间和有竞争力的定价，该公司获得了显著的市场份额——商业类阅读常见表达）
+> - We'll have to improve the turnaround - three days is too long . `[例]`
+> - Turnaround time for each order is, on average , four days . `[例]`
 
 ## 复习记录
 

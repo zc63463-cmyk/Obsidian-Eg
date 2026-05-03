@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**限制，约束**== `V N` [通用] `N on N` [正式]；②==**强制力，束缚感**== `the N of N` [书面]；③==**限制因素**== `N` [通用]；
+**n.** ①==**限制，约束**== `N`；②==**强制力，束缚感**== `N`；③==**限制因素**== `N`；
 
 > [!tip] 原型义
 > **原型义**：被紧紧拉住/束缚的状态
@@ -132,8 +132,8 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The research was conducted under severe time and budget constraints. `[例]`
-> - Budget constraints forced the company to reduce its workforce by ten percent. `[例]`
+> - The constraints of politeness wouldn't allow her to say what she really thought about his cooking . `[例]`
+> - Financial constraints on the company are preventing them from employing new staff . `[例]`
 
 ## 复习记录
 

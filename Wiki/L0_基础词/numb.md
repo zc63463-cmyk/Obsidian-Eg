@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**麻木的，失去知觉的**==；②（因寒冷等）发木的；③迟钝的；
-**v.** ①==**使麻木，使失去感觉**==；②使迟钝；
+**adj.** ①==**麻木的，失去知觉的**== `adj`；②==**（因寒冷等）发木的**== `adj`；③==**迟钝的**== `adj`；
+**v.** ①==**使麻木，使失去感觉**== `V N`；②==**使迟钝**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：失去知觉的（身体某部分感觉不到刺激）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My fingers were numb with cold."（我的手指冻得麻木了。）
-> - "She felt numb after hearing the tragic news."（听到那个悲惨的消息后，她感到麻木了。）
+> - My fingers were numb with cold . `[例]`
+> - I was lying in a weird position and my leg went numb. `[例]`
+> - When she first heard the news , she was numb with disbelief . `[例]`
 
 
 ---

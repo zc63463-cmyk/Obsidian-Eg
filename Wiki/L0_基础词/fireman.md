@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Firemen rushed to the scene within minutes of the alarm."（消防员在警报响起几分钟内赶到了现场）
-> - "The fireman bravely entered the burning building."（消防员勇敢地进入了燃烧的大楼）
+> - While on-ice brawls are nothing new in professional ice hockey, flying fisticuffs have a history in the police and fireman face off from years past. `[例]`
+> - The actors paced in the wings puffing on cigarettes, watching the sliding door in case the fireman should catch them. `[例]`
+> - A fireman paddles by in a boat and asks him if he would like to escape. `[例]`
 
 
 ---

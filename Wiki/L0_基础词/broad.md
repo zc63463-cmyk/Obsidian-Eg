@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**宽的，广阔的**== `adj. N` `a broad river/shoulders`；②==**广泛的，普遍的**== `adj. N` `broad agreement/support`；③==**概括的，粗略的**== `in broad terms` `a broad outline` [书面]；④==**宽容的，开明的**== `broad-minded`；
-**n.** ①==**宽阔部分**== `the broad of the back`；
+**adj.** ①==**宽的，广阔的**==；②广泛的，普遍的；③概括的，粗略的；④宽容的，开明的；
+**n.** ①宽阔部分；
 
 > [!tip] 原型义
 > **原型义**：宽的（横向伸展距离大的）
@@ -132,10 +132,9 @@ broad（源自古英语 *brād*，宽的，与德语 *breit* 同源，原始日�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The negotiators were in broad agreement on the main issues. `[COCA-ACAD]`
-> - The agreement won broad support in the U.S. Congress. `[COCA-NEWS]`
-> - We have discussed in broad terms the course of action appropriate at each stage. `[COCA-ACAD]`
-> - His shoulders were broad and his waist narrow. `[COCA-FIC]`
+> - We walked down a broad avenue lined with trees . `[例]`
+> - He flashed a broad grin at us. `[例]`
+> - My brother is very broad- shouldered . `[例]`
 
 
 ---

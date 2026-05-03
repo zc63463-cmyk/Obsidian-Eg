@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**即将到来的，即将发生的**==；
+**adj.** ①==**即将到来的，即将发生的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：正在向上走来的（up-向上 + come来 + -ing正在...的 → 正在向上走来的）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Students are advised to start preparing well in advance for the upcoming final exams.（建议学生提前为即将到来的期末考试做好准备。）
-> - The upcoming election is expected to be one of the most closely contested in recent history.（即将到来的选举预计将是近年来竞争最激烈的一次。）
+> - Tickets are selling well for the group's upcoming concert tour . `[例]`
+> - Party officials met to nominate candidates for the upcoming election . `[例]`
 
 ## 复习记录
 

@@ -125,8 +125,9 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Stereotypes are a type of cognitive shortcut that helps us process information quickly, but they can also lead to prejudice and discrimination."（刻板印象是一种认知捷径，帮助我们快速处理信息，但也可能导致偏见和歧视）
-> - "The media often perpetuates stereotypes about certain groups."（媒体经常延续对某些群体的刻板印象）
+> - The characters in the book are just stereotypes. `[例]`
+> - The study claims that British advertising stereotypes women. `[例]`
+> - We tried not to give the children sexually stereotyped toys . `[例]`
 
 
 ---

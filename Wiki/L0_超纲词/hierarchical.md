@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**等级制的，按等级划分的**== `hierarchical structure/system` [学术] `hierarchical organization` [书面]；②层级体系的；
+**adj.** ①==**等级制的，按等级划分的**== `adj`；②==**层级体系的**== `adj`；
 > [!tip] 原型义
 > **原型义**：等级制的，分层级的（按层级组织结构）
 > **延伸维度**：社会路径
@@ -125,8 +125,8 @@ hier(=sacred/holy, 神圣的) + arch(=rule/ruler, 统治) + -ical(形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Many traditional companies still operate with a rigid hierarchical structure that slows decision-making. `[例]`；
-> - In a hierarchical classification system, organisms are grouped into increasingly specific categories. `[例]`；
+> - The military has a hierarchical rank structure . `[例]`
+> - It's a very hierarchical organization in which everyone's status is clearly defined . `[例]`
 
 ## 复习记录
 

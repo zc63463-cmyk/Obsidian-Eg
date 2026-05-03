@@ -132,8 +132,9 @@ trans-（跨越，穿过）+ -ient（形容词后缀，表示"正在……的"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The transient nature of modern employment means workers must constantly update their skills."（现代就业的短暂性意味着工人必须不断更新自己的技能。）——考研高频表达
-> - "The transient beauty of cherry blossoms reminds us of the impermanence of life."（樱花短暂的美丽提醒我们生命的无常。）——考研高频表达
+> - A glass of whisky has only a transient warming effect . `[例]`
+> - The city has a large transient population (= many people who are living in it only temporarily ) . `[例]`
+> - It's an organization set up to provide money and help for transients. `[例]`
 ---
 
 

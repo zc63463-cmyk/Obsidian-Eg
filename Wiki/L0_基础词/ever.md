@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Have you ever wondered why some people seem to thrive under pressure while others crumble?"（你是否曾经好奇为什么有些人似乎在压力下茁壮成长，而另一些人却崩溃？）
-> - "This is the most significant economic crisis the country has ever faced."（这是该国面临过的最严重的经济危机）
+> - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
+> - Nothing ever happens here in the evening . `[例]`
+> - Have you ever been to London? `[例]`
 
 
 ---

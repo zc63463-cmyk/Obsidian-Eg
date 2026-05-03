@@ -142,9 +142,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is hard to keep track of all the new developments in technology."（很难掌握技术领域所有的新进展。）——考研阅读常见搭配
-> - "The researchers tracked the changes over a period of ten years."（研究人员在十年间追踪了这些变化。）——学术类阅读
-> - "We are on the right track to solving the problem."（我们正在解决问题的正确道路上。）——考研翻译/写作
+> - Passengers are requested not to walk across the tracks. `[例]`
+> - The runners are now on their final lap of the track. `[例]`
+> - Sam runs track on the high school team . `[例]`
 
 ---
 

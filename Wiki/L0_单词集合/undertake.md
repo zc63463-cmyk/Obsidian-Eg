@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has undertaken a series of reforms to improve education."（政府已承担了一系列改革以改善教育。）——考研阅读/翻译
-> - "He undertook to finish the project by the end of the month."（他承诺在月底前完成这个项目。）——考研翻译
-> - "Researchers undertook a comprehensive study of the problem."（研究人员对这个问题进行了全面研究。）——学术类阅读
+> - Students are required to undertake simple experiments . `[例]`
+> - The Highway Code advises drivers not to undertake. `[例]`
+> - The president directed the Department of Justice to undertake an investigation of the allegations . `[例]`
 
 ---
 

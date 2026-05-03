@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**交叉图案，十字形**== `a criss-cross pattern` [通用] `a criss-cross of` [文学]；
-**v.** ①==**交叉穿过**== `V N` [通用] `roads criss-cross the countryside` [书面]；②==**在……上画交叉线**== `V N` [通用]；
-**adv.** ①==**交叉地，纵横交错地**== `criss-crossing the country` [文学]；
+**n.** ①==**交叉图案，十字形**== `N`；
+**v.** ①==**交叉穿过**== `V`；②==**在……上画交叉线**== `V`；
+**adv.** ①==**交叉地，纵横交错地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：交叉穿过的模式（源自中古英语 *Christcross*，即 Christ's cross "基督十字"）
@@ -129,8 +129,8 @@ criss + cross（十字/交叉），为 reduplication（重叠构词）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Railway lines criss-cross the continent, connecting major cities and remote towns. `[例]`
-> - The old city's narrow streets criss-cross in a confusing pattern that bewilders most visitors. `[例]`
+> - This area of the city is criss-crossed by railway lines . `[例]`
+> - The streets ran in a regular criss-cross pattern . `[例]`
 
 ## 复习记录
 

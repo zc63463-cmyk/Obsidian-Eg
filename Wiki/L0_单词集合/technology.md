@@ -137,10 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "advances in technology have transformed our lives"（技术进步改变了我们的生活）——考研阅读中科技类话题高频表达
-> - "information technology revolution"（信息技术革命）——社会/经济类话题
-> - "the impact of technology on employment"（技术对就业的影响）——社会/经济类话题
-> - "cutting-edge technology"（尖端技术）——科技/商业类文本
+> - Modern technology is amazing , isn't it? `[例]`
+> - What this country needs is a long-term policy for investment in science and technology. `[例]`
+> - The fast pace of technology presents enormous implications for sustainable business development . `[例]`
+> - All our products are backed up by cutting-edge technology . `[例]`
 
 ---
 

@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bridge was engineered to withstand earthquakes."（这座桥被设计为能抗震）
-> - "Engineers are in high demand in the technology industry."（科技行业对工程师的需求很高）
+> - The engineer is coming to repair our phone tomorrow morning . `[例]`
+> - Left-wing groups engineered a coup against the military government . `[例]`
+> - I'm trying to engineer a meeting between them. `[例]`
 
 
 ---

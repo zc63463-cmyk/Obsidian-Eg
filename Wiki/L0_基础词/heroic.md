@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His heroic deeds were celebrated in every corner of India."（他的英勇事迹在印度的每个角落被传颂。——考研阅读常见表达）
-> - "Despite Roz's heroic efforts to liven it up, the party was a disaster."（尽管罗兹费了九牛二虎之力想活跃气氛，派对还是一塌糊涂。——考研翻译高频结构）
+> - Despite Roz's heroic efforts to liven it up, the party was a disaster . `[例]`
+> - She is a heroic figure we can all look up to. `[例]`
+> - Rescuers made heroic efforts to save the crew. `[例]`
 
 
 ---

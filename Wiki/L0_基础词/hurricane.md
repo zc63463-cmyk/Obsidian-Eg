@@ -121,7 +121,9 @@ hurrican（泰诺语 *Huracan*，风暴之神） + -e（英语化拼写）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hurricane left a trail of destruction across the coastal region."（飓风在沿海地区留下了一路破坏）
+> - The state of Florida was hit by a hurricane that did serious damage . `[例]`
+> - Hurricane force (= very strong ) winds are expected tonight . `[例]`
+> - The roof of their house caved in during a hurricane. `[例]`
 
 
 ---

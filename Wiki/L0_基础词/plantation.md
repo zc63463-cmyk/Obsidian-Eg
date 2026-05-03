@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The large estate was once a thriving plantation, growing cotton and tobacco."（这座大庄园曾经是一个繁荣的种植园，种植棉花和烟草。——CIHuibao 语料库）
-> - "The abolition of slavery led to significant changes in the plantation economy."（奴隶制的废除导致种植园经济发生了重大变化。——WordHippo 语料库）
+> - Plantations of fast-growing conifers. `[例]`
+> - Hundreds of enslaved people used to work on the plantations. `[例]`
+> - A plantation of oaks. `[例]`
 
 
 ---

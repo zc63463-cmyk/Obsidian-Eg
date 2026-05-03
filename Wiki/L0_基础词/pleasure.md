@@ -130,8 +130,9 @@ pleas-（使高兴，拉丁语 *placere*）+ -ure（名词后缀，表示"状态
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She always derives great pleasure from designing something new."（她总是从设计新事物中获得极大的乐趣。——通用例句）
-> - "Encourage your child to read for pleasure."（鼓励你的孩子为了乐趣而阅读。——通用例句）
+> - His visits gave his grandparents such pleasure. `[例]`
+> - Taking pleasure in simple things will help you relax . `[例]`
+> - It was such a pleasure to meet you. `[例]`
 
 
 ---

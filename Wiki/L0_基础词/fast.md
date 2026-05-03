@@ -140,8 +140,9 @@ fast(牢固的/快的，古英语 *fæst*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The modern mind is overwhelmingly inclined toward communication. It is not simply that one is interrupted; it is that one is actually inclined to interruption."（现代思维压倒性地倾向于交流。问题不仅仅是被打断；而是人们实际上倾向于被打断。——2016年考研英语二阅读，fast-paced life 相关话题）
-> - "The world is changing fast, and we must adapt to keep pace."（世界正在快速变化，我们必须适应以跟上步伐。——考研社会类阅读常见表达）
+> - The fast train (= one that stops at fewer stations and travels quickly ) to London takes less than an hour . `[例]`
+> - It's not a relaxing movie - it's pretty fast and furious . `[例]`
+> - The accident was caused by people driving too fast in bad conditions . `[例]`
 
 
 ---

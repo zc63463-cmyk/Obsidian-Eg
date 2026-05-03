@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**雷，雷声**==；②==**轰隆声**==；
-**vi.** ①打雷；②==**轰隆隆地快速移动**==；③==**大声怒吼**==；
+**n.** ①==**雷，雷声**== `N`；②==**轰隆声**== `N`；
+**vi.** ①==**打雷**== `V`；②==**轰隆隆地快速移动**== `V`；③==**大声怒吼**== `V`；
 
 > [!tip] 原型义
 > **原型义**：雷声（暴风雨中伴随闪电的巨大轰鸣声）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The train thundered past, shaking the whole house."（火车轰隆隆驶过，整个房子都晃动起来——剑桥词典例句）
-> - "Seattle gets an average of a mere 7 days a year with thunder."（西雅图每年平均只有7天有雷声——2019年12月四级听力Section C）
+> - The train thundered past, shaking the whole house . `[例]`
+> - I couldn't hear what he was saying over the thunder of the waterfall . `[例]`
+> - The sky grew dark and it started to thunder. `[例]`
 
 
 ---

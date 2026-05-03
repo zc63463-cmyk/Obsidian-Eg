@@ -127,8 +127,9 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After the revolution, many intellectuals were forced into exile."（革命后，许多知识分子被迫流亡。）
-> - "He spent twenty years in exile before being allowed to return."（他在被允许回国前流亡了二十年。）
+> - The deposed leaders are currently in exile in the neighbouring country . `[例]`
+> - The monarch was exiled because of the coup . `[例]`
+> - Many Cuban exiles live in Florida. `[例]`
 
 
 ---

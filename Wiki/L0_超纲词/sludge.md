@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**烂泥，淤泥**==；②（工业）污泥，废渣；③（石油）油泥；
+**n.** ①==**烂泥，淤泥**== `N`；②==**（工业）污泥，废渣**== `N`；③==**（石油）油泥**== `N`；
 
 > [!tip] 原型义
 > **原型义**：又脏又稠的半固态泥状物（比 mud 更脏更稠）
@@ -127,7 +127,8 @@ sludge（源自中古英语，与 slush"半融的雪"同源，模拟黏稠拖沓
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The river was choked with toxic sludge from the nearby factory."（河流被附近工厂排放的有毒污泥堵塞了。）
+> - We seemed to spend the last mile of the walk knee-deep in sludge. `[例]`
+> - There was some sludge at the bottom of the tank. `[例]`
 
 ## 复习记录
 

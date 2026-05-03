@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ideal of equality has been a driving force in American history."（平等的理想要一直是美国历史的驱动力——考研高频主题）
-> - "Equality of opportunity is not the same as equality of outcome."（机会均等不等于结果均等——考研政治类阅读高频表达）
+> - Equality between the sexes. `[例]`
+> - She works as an adviser on equality and diversity at the Institute of Personnel and Development. `[例]`
+> - The 2005 law was intended to promote equality for all Californians, regardless of sexual orientation . `[例]`
 
 
 ---

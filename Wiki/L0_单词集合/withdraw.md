@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "withdraw troops from the region"（从该地区撤军）——考研阅读常见搭配，描述国际政治、军事行动
-> - "withdraw money from the bank"（从银行提款）——经济类阅读语境
-> - "withdraw one's support for the proposal"（撤回对提案的支持）——政治、学术类阅读
+> - This credit card allows you to withdraw up to £200 a day from ATMs . `[例]`
+> - She had to withdraw from the competition because of a leg injury . `[例]`
+> - Democrats threatened to withdraw (= stop giving) their support of the tax bill . `[例]`
 
 ---
 

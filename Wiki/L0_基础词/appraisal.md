@@ -123,8 +123,9 @@ ap-(=ad-, 向) + [[prais]](=price, 价格/价值) + -al(名词后缀)。与 [[pr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Regular performance appraisals are essential for employee development."（定期的绩效评估对员工发展至关重要。）
-> - "The appraisal of the property was conducted by a qualified surveyor."（房产估价由合格的评估师进行。）
+> - The newspaper gave an editorial appraisal of the government's achievements of the past year . `[例]`
+> - Many companies operate regular job appraisals, often on an annual basis . `[例]`
+> - She said there was a desire for "an honest appraisal to identify the true facts of this matter ". `[例]`
 
 
 ---

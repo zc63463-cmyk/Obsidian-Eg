@@ -133,8 +133,9 @@ fill 源自古英语 *fyllan*，与 full（满的）同源，原始日耳曼语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has been unable to fill the post."（公司一直无法填补这个职位的空缺。——考研高频搭配）
-> - "We purify the water we drink with a water filter designed for the astronauts' use in space."（我们使用专为宇航员太空使用设计的水过滤器来净化饮用水。——考研科普类阅读）
+> - I filled the bucket with water . `[例]`
+> - I could hear the tank filling. `[例]`
+> - She filled most of her time watching TV. `[例]`
 
 
 ---

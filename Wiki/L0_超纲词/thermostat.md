@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恒温器，温度自动调节器**==；
+**n.** ①==**恒温器，温度自动调节器**== `N`；
 
 > [!tip] 原型义
 > **原型义**：恒温器（自动调节温度的装置）
@@ -121,8 +121,8 @@ thermo-(热，源自希腊语 *therme*) + [[st-sta-stat]](站立/保持，stat �
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She turned down the thermostat to save energy."（她调低了恒温器以节省能源）
-> - "A programmable thermostat can reduce heating costs by up to 15 percent."（可编程恒温器最多可减少 15% 的供暖成本）
+> - A central heating thermostat. `[例]`
+> - I set the thermostat to 68 degrees. `[例]`
 
 ## 复习记录
 

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology has erased the boundaries between work and personal life."（技术已经消除了工作与个人生活之间的界限——考研阅读科技话题高频表达）
-> - "No amount of success can erase the painful memories of his childhood."（任何程度的成功都无法消除他童年的痛苦记忆——考研阅读心理话题常见表达）
+> - It's in pencil so you can just erase anything that's wrong . `[例]`
+> - A virus erased my hard disk . `[例]`
+> - He is determined to erase the memory of a disappointing debut two years ago. `[例]`
 
 
 ---

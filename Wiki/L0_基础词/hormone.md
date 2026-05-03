@@ -124,8 +124,9 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hormones are chemical messengers that travel through the bloodstream to organs and tissues."（激素是通过血液传播到器官和组织的化学信使。——考研英语阅读相关语料，生物医学话题）
-> - "Stress hormones such as cortisol can have both protective and damaging effects on the body."（皮质醇等压力激素对身体既有保护作用也有损害作用。——考研相关语料）
+> - Male and female hormones. `[例]`
+> - Oestrogen is a female sex hormone. `[例]`
+> - Children who do not produce enough growth hormone. `[例]`
 
 
 ---

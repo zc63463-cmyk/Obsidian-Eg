@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**酷刑，严刑拷打**==；②==**（精神上的）折磨，痛苦**==；
-**v.** ①==**拷打，施酷刑**==；②==**使受精神折磨**==；
+**n.** ①==**酷刑，严刑拷打**== `N`；②==**（精神上的）折磨，痛苦**== `N`；
+**v.** ①==**拷打，施酷刑**== `V`；②==**使受精神折磨**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：扭转（施加于身体的极端痛苦，源自拉丁语 *torquere*，扭转）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The use of torture is prohibited under international law."（根据国际法，使用酷刑是被禁止的。）
-> - "The waiting was sheer torture."（等待简直是折磨。）
+> - Half of the prisoners died after torture and starvation . `[例]`
+> - He revealed the secret under torture. `[例]`
+> - The rush-hour traffic was sheer torture as usual . `[例]`
 
 
 ---

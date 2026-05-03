@@ -124,7 +124,7 @@ chunk（大块，厚块）+ -y（形容词后缀，表示"有……特征的"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She wore a chunky gold necklace that caught everyone's attention. `[例]`
+> - She wears chunky earrings and rings and a baggy sweater . `[例]`
 > - Chunky soups are more filling than clear ones. `[例]`
 
 ## 复习记录

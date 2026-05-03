@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "thirst for knowledge"（求知若渴）——考研阅读/翻译高频搭配，描述学习态度
-> - "a thirst for power"（对权力的渴望）——政治类、历史类阅读
-> - "quench the thirst of"（满足……的渴求）——文学类文本
+> - Hundreds of refugees collapsed from hunger and thirst. `[例]`
+> - I woke up with a pounding headache and a raging (= extreme ) thirst. `[例]`
+> - I've got a terrible thirst after all that running . `[例]`
 
 ---
 

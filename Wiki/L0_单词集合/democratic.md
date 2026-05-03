@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - India is the world's largest **democratic** country.（印度是世界上最大的民主国家。）
-> - The company promotes a **democratic** management style that encourages employee participation.（公司推行鼓励员工参与的民主管理风格。）
-> - A **democratic** society depends on the active engagement of its citizens.（民主社会依赖于公民的积极参与。）
+> - We must accept the results of a democratic election (= an election in which all people can vote ) . `[例]`
+> - Do you think Australia is a more democratic country than Britain ? `[例]`
+> - The publishing process is a little more democratic today: you can print a book yourself and take it to the marketplace . `[例]`
 
 ---
 

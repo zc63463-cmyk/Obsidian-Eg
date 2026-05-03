@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**流浪汉，漂泊者**==；②长途跋涉；③（沉重的）脚步声；
-**v.** ④==**跋涉，徒步旅行**==；⑤踩踏；
+**n.** ①==**流浪汉，漂泊者**== `N`；②==**长途跋涉**== `N`；③==**（沉重的）脚步声**== `N`；
+**v.** ④==**跋涉，徒步旅行**== `V`；⑤==**踩踏**== `V`；
 
 > [!tip] 原型义
 > **原型义**：流浪汉（无固定住所、四处漂泊的人）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "They tramped through the muddy fields for hours."（他们在泥泞的田野中跋涉了数小时）
-> - "The tramp of marching soldiers could be heard in the distance."（远处可以听到行军士兵的脚步声）
+> - The streets echoed with the tramp of soldiers ' feet . `[例]`
+> - The girls went for a tramp through the woods . `[例]`
 
 ## 复习记录
 

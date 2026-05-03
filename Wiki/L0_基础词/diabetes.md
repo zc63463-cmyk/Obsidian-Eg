@@ -116,8 +116,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Obesity is a major risk factor for Type 2 diabetes."（肥胖是2型糖尿病的主要风险因素。）
-> - "The number of people with diabetes has risen dramatically in recent decades."（近几十年来糖尿病患者数量急剧上升。）
+> - Diabetes is diagnosed with a blood test . `[例]`
+> - He had developed diabetes and high blood pressure . `[例]`
+> - Diabetes affects 100 million people worldwide . `[例]`
 
 
 ---

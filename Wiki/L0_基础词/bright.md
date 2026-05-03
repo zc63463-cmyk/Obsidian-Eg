@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**明亮的，光线充足的**== `adj N`；②==**聪明的，机灵的**== `a adj N`；③鲜艳的，欢快的 `adj N`；④有前途的 `a adj N`；
+**adj.** ①==**明亮的，光线充足的**==；②==**聪明的，机灵的**==；③鲜艳的，欢快的；④有前途的；
 
 > [!tip] 原型义
 > **原型义**：发出强烈光线的（视觉上光线充足、不暗淡）
@@ -131,10 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is one of the brightest students in the class." `[COCA-FIC]`
-> - "Despite the challenges, he remains optimistic about a bright future." `[COCA-NEWS]`
-> - "She wore a bright yellow dress to the party." `[COCA-FIC]`
-> - "She has a bright smile that lights up the room." `[COCA-FIC]`
+> - The rooms were bright and airy . `[例]`
+> - The lights are too bright in here - they're hurting my eyes . `[例]`
+> - A bright star was shining in the East . `[例]`
 
 
 ---

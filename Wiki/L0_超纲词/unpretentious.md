@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不装腔作势的，谦虚的**==；②朴实无华的，不炫耀的；
+**adj.** ①==**不装腔作势的，谦虚的**== `adj`；②==**朴实无华的，不炫耀的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不假装的（un-不 + pretense假装 + -ious充满...的 → 不充满假装的）
@@ -126,8 +126,8 @@ un-(不，否定) + [[tend-tens]](伸展→假装，拉丁语 *tendere*，引申
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Despite his fame, the author remained unpretentious and approachable.（尽管名声在外，这位作者依然朴实平易近人。）
-> - The restaurant's unpretentious atmosphere and excellent food have made it a local favorite.（这家餐厅朴实无华的氛围和出色的菜品使其成为当地人的最爱。）
+> - The food is delicious and unpretentious. `[例]`
+> - He was a friendly and unpretentious man. `[例]`
 
 ## 复习记录
 

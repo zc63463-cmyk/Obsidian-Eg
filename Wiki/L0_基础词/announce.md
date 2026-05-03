@@ -123,8 +123,9 @@ an-(=ad-, 向/朝向) + nounc(报告，拉丁语 *nuntiare*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government announced new measures to combat climate change."（政府宣布了应对气候变化的新措施）
-> - "The company announced a significant increase in profits."（公司宣布利润大幅增长）
+> - They announced the death of their mother in the local paper . `[例]`
+> - She announced the winner of the competition to an excited audience . `[例]`
+> - The prime minister has announced that public spending will be increased next year . `[例]`
 
 
 ---

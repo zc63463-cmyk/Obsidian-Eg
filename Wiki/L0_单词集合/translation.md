@@ -131,8 +131,9 @@ trans-（跨越，穿过）+ lat（搬运，携带，与 [[tract]] 同源）+ -i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "According to the new school of scientists, technology is an overlooked force in expanding the horizons of scientific knowledge."（新学派科学家们认为，在拓展科学知识的范围方面，技术是一种被忽视的力量。）——1994年翻译
-> - "The translation of literary works requires both linguistic proficiency and cultural sensitivity."（文学作品的翻译既需要语言能力，也需要文化敏感度。）——考研高频表达
+> - Students will do one Spanish translation a week . `[例]`
+> - A literal translation of " euthanasia " would be "good death ". `[例]`
+> - The English version is boring - maybe it has lost something in translation (= is not as good as the original ) . `[例]`
 ---
 
 

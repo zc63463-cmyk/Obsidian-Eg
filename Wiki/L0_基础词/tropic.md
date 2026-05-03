@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**回归线**==（Tropic of Cancer/Capricorn）；②热带地区；
-**adj.** ①热带的；
+**n.** ①==**回归线**== `N`（Tropic of Cancer/Capricorn）；②==**热带地区**== `N`；
+**adj.** ①==**热带的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：回转线（太阳到达此处后回转）
@@ -121,7 +121,9 @@ tropic 源自希腊语 *tropikos*，*tropē*（回转），*trepein*（转），
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The region lies between the Tropic of Cancer and the equator, giving it a consistently warm climate.（该地区位于北回归线和赤道之间，气候持续温暖。）
+> - She's a botanist and spent several years doing research in the tropics. `[例]`
+> - A vacation in the tropics. `[例]`
+> - Acid soil is found in the humid northern temperate zone, where evergreens grow, and in the humid tropics , which is covered by savannah and tropical rainforests. `[例]`
 
 
 ---

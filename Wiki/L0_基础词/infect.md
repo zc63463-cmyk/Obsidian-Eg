@@ -129,8 +129,9 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the U.S., it has infected more than one million people, and caused more than 600 deaths and more than 6,000 hospitalizations."（在美国，这种病毒已经感染了超过一百万人，造成600多人死亡和6000多人住院。——2010年考研英语二完型）
-> - "The ward was full of children infected with TB."（病房里住满了感染结核病的孩子。——考研阅读常见表达）
+> - A mosquito can infect humans with several diseases . `[例]`
+> - The ward was full of children infected with TB. `[例]`
+> - Viruses must infect other organisms in order to survive . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**篡改，擅自改动**==；②干预，干涉（常与 with 连用）；③（对机械等）瞎弄，乱动；
+**v.** ①==**篡改，擅自改动**== `V with N`；②==**干预，干涉（常与 with 连用）**== `V with N`；③==**（对机械等）瞎弄，乱动**== `V with N`；
 
 > [!tip] 原型义
 > **原型义**：篡改（暗中破坏性地改变某物）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Someone had tampered with the brakes of his car."（有人篡改了他汽车的刹车）
-> - "The suspect was charged with tampering with evidence."（嫌疑人被指控篡改证据）
+> - I could see immediately that the lock had been tampered with . `[例]`
+> - Tampering with pipelines could result in ruptures or fires . `[例]`
 
 ## 复习记录
 

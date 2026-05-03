@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "feel uneasy about the prospect"（对前景感到不安）——考研阅读常见搭配，描述对未来的担忧
-> - "an uneasy alliance between the two parties"（两党之间不稳固的联盟）——政治类阅读语境
-> - "an uneasy silence fell over the room"（房间里弥漫着令人不安的沉默）——文学类文本
+> - I feel a little uneasy about asking her to do me such a big favour . `[例]`
+> - Who can predict how long this uneasy peace between the two countries will last? `[例]`
+> - She has a slightly uneasy relationship with her mother-in-law . `[例]`
 
 ---
 

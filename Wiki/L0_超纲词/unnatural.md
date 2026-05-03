@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不自然的，反常的**==；②不真实的，做作的；③违背自然的；
+**adj.** ①==**不自然的，反常的**== `adj`；②==**不真实的，做作的**== `adj`；③==**违背自然的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不自然的（违背自然的）
@@ -129,8 +129,8 @@ un-(不，否定前缀) + [[nat-nasc|natur]](自然/出生) + -al(形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Her smile seemed forced and unnatural."（她的微笑看起来很勉强、不自然。）
-> - "Many people find it unnatural to speak in front of a large audience."（许多人觉得在大量观众面前讲话很不自然。）
+> - Nothing unnatural or polluting can be used. `[例]`
+> - Her translation is too literal , resulting in heavy , unnatural prose . `[例]`
 
 ## 复习记录
 

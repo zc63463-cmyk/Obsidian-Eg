@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**人口众多的，人口稠密的**==；
+**adj.** ①==**人口众多的，人口稠密的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：人口众多的（有很多居民的）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "China is the world's most populous country with over 1.4 billion people."（中国是世界上人口最多的国家，拥有超过14亿人口。）
+> - Among the 10 worst performers were some of the most populous states, including Texas , which was given the lowest grade ( F) and has a disproportionate influence because its textbooks are widely sold elsewhere. `[真题]`
+> - China is the world's most populous country . `[例]`
 
 ## 复习记录
 

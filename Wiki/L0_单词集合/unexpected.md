@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "an unexpected turn of events"（事态的意外转折）——考研阅读常见搭配，描述叙事中的反转
-> - "the unexpected result of the experiment"（实验的意外结果）——科普类阅读语境
-> - "unexpected consequences of the policy"（政策的意外后果）——社会政策类文章
+> - An unexpected turn of events. `[例]`
+> - Her resignation was completely unexpected. `[例]`
+> - How lovely to see you here - this really is an unexpected pleasure ! `[例]`
 
 ---
 

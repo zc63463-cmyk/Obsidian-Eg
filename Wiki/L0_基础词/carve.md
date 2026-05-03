@@ -129,8 +129,9 @@ carve 源自古英语 *ceorfan*（切割），与德语 *kerben*（刻痕）同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For example, even in dense forest, you should be able to spot gaps in the tree line due to roads, train tracks and other paths people carve through the woods."（例如，即使是在茂密的森林中，你也应该能发现人们在树林中开辟道路、火车轨道和其他路径所形成的空隙。——2019年考研英语一完形填空）
-> - "Completed in 1875, the State Department's south wing was the first to have its offices lit by electricity, and it was here that the tradition of carving the names of the Secretary of State into the wall began."（国务院南翼于1875年竣工，是第一个用电照明的办公区域，正是在这里开始了将国务卿姓名刻入墙壁的传统。——考研英语阅读）
+> - Some of the tunnels in the cliff are natural , some were carved out (= cut into the rock ) by soldiers for defensive purposes . `[例]`
+> - The statue is carved out of olive wood . `[例]`
+> - This totem pole is carved from a single tree trunk . `[例]`
 
 
 ---

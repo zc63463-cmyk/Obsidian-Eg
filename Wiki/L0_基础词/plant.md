@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Of course, there's a reason why banana plantations rely heavily on pesticides."（当然，香蕉种植园大量依赖农药是有原因的。——NPR 语料库）
-> - "The president-elect owns controlling shares in banks, investment funds, agricultural estates, a soda maker and tobacco plantations."（当选总统在银行、投资基金、农业庄园、一家汽水制造商和烟草种植园中拥有控股权。——Huffington Post）
+> - Native plants and animals. `[例]`
+> - The industry was accused of having invested little in workers , plant, or infrastructure . `[例]`
+> - Two more car-assembly plants were closed by the strike . `[例]`
 
 
 ---

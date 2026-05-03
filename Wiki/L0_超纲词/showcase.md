@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**展示柜，玻璃陈列柜**==；②展示……的场合/机会；
-**v.** ①展示，展现（优秀品质/才能等）；
+**n.** ①==**展示柜，玻璃陈列柜**== `N`；②==**展示……的场合/机会**== `N`；
+**v.** ①==**展示，展现（优秀品质/才能等）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：商店中用来展示商品的玻璃柜
@@ -129,7 +129,8 @@ show(展示) + case(箱子，容器)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The festival serves as a showcase for young musicians."（这个音乐节为年轻音乐家提供了展示才华的舞台。）
+> - The Venice Film Festival has always been the showcase of Italian cinema . `[例]`
+> - The exhibition is an annual showcase for British design and innovation . `[例]`
 
 ## 复习记录
 

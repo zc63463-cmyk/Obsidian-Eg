@@ -134,9 +134,9 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做 → 属于…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Could you be more specific about what you mean?"（你能更具体地说明你的意思吗？）——日常对话/学术讨论
-> - "The disease is specific to tropical regions."（这种疾病是热带地区特有的）——医学/地理类阅读
-> - "The report failed to provide specific details about the company's financial situation."（报告未能提供关于公司财务状况的具体细节）——商业/金融类话题
+> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
+> - These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers. `[真题]`
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
 
 ---
 

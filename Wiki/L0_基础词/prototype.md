@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**原型，雏形**==；②蓝本，典型；
+**n.** ①==**原型，雏形**== `N`；②==**蓝本，典型**== `N`；
 
 > [!tip] 原型义
 > **原型义**：第一类型（源自希腊语 *prōtotypon*，prōtos-第一 + typos-印记/类型）
@@ -121,8 +121,9 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has developed a prototype of a self-driving car."（该公司已开发出自动驾驶汽车的原型。）
-> - "The prototype was tested extensively before mass production."（原型在批量生产前经过了广泛测试。）
+> - Manufacturers have built a prototype which will be shown at the forthcoming trade fair . `[例]`
+> - Our first prototype digital camera appeared back in 1976. `[例]`
+> - The firm and its industrial partners plan this summer to put a prototype of an underwater power platform off the Florida coast . `[例]`
 
 
 ---

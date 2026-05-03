@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**抵制，反对**==；②强烈的阻力，反弹；
-**v.** ①抵制，反对；②回推；
+**n.** ①==**抵制，反对**== `N`；②==**强烈的阻力，反弹**== `N`；
+**v.** ①==**抵制，反对**== `V`；②==**回推**== `V`；
 
 > [!tip] 原型义
 > **原型义**：向后推的力量（物理上向后推→引申为对某事的抵制和反对）
@@ -126,8 +126,8 @@ push（推）+ back（向后）→ 向后推 → 抵制
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The proposal faced significant pushback from local residents who were concerned about environmental impact.（该提案面临当地居民的强烈抵制，他们担心环境影响。）
-> - Employees pushed back against the new policy, arguing that it would reduce their work-life balance.（员工对新政策表示反对，认为它会降低工作与生活的平衡。）
+> - There's plenty of pushback from environmentalists . `[例]`
+> - The plan was abandoned because the pushback from the military was so strong. `[例]`
 
 ## 复习记录
 

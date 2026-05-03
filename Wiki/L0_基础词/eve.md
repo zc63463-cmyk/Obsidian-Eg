@@ -119,8 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On the eve of the election, the candidates made their final appeals to voters."（在选举前夜，候选人们向选民做了最后的呼吁）
-> - "The company announced its restructuring plan on the eve of the new fiscal year."（公司在新财年前夕宣布了重组计划）
+> - Mrs Clayton was speaking to Arab journalists in Paris on the eve of her visit to Egypt. `[例]`
+> - Where did you spend Christmas Eve? `[例]`
+> - Sheena always throws a party on New Year's Eve. `[例]`
 
 
 ---

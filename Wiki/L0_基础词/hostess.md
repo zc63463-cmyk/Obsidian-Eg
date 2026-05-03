@@ -117,7 +117,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hostess welcomed each guest at the door with a warm smile."（女主人带着温暖的微笑在门口迎接每一位客人。）
+> - Mary was always the perfect hostess. `[例]`
+> - Many thanks to our host and hostess for such a wonderful evening. `[例]`
+> - We were greeted by our hostess . `[例]`
 
 
 ---

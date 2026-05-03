@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**呼吸**== `V` `V N`；②低声说出 `V N`；③（使）透气，通风 `V`；
+**v.** ①==**呼吸**==；②低声说出；③（使）透气，通风；
 
 > [!tip] 原型义
 > **原型义**：吸入和呼出空气的动作（肺部与外界交换气体的生理过程）
@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Take a moment to breathe deeply before the exam." `[例]`
-> - "The new CEO has breathed new life into the struggling company." `[COCA-NEWS]`
-> - "Don't breathe a word of this to anyone." `[COCA-FIC]`
-> - "He was unable to breathe because of the smoke." `[COCA-NEWS]`
+> - The doctor told me to breathe in and hold it for three seconds . `[例]`
+> - Breathing in just a small amount of the gas can cause serious damage . `[例]`
+> - The man at the next table was breathing out smoke through his nostrils . `[例]`
 
 
 ---

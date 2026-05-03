@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不平坦的，不平的**==；②不均匀的，不一致的；③不平衡的；
+**adj.** ①==**不平坦的，不平的**== `adj`；②==**不均匀的，不一致的**== `adj`；③==**不平衡的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不平坦的（表面不平的）
@@ -129,8 +129,8 @@ un-(不，否定前缀) + even(平坦的/均匀的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The economic recovery has been uneven across different regions."（不同地区的经济复苏不平衡。）
-> - "The quality of education remains uneven in rural areas."（农村地区的教育质量仍然不均衡。）
+> - Be careful on that path - the paving stones are uneven. `[例]`
+> - There is an uneven distribution of wealth across the country from the north to the south . `[例]`
 
 ## 复习记录
 

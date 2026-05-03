@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**荒野，旷野，荒无人烟的地区**==；②（比喻）茫然的领域，未开发的领域；
+**n.** ①==**荒野，旷野，荒无人烟的地区**== `N`；②==**（比喻）茫然的领域，未开发的领域**== `N`；
 
 > [!tip] 原型义
 > **原型义**：无人居住的荒野（未受人类文明影响的自然区域）
@@ -126,8 +126,8 @@ wild（野生的）+ -ness（表示状态的名词后缀），无拉丁/希腊�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Millions of acres of wilderness are protected by national parks."（数百万英亩的荒野由国家公园保护。）
-> - "After losing the election, he was cast into the political wilderness."（败选后，他被放逐到了政治的荒野中。）
+> - A beautiful mountain wilderness. `[例]`
+> - Alaska is the last great wilderness. `[例]`
 
 ## 复习记录
 

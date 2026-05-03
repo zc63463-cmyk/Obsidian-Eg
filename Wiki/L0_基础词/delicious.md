@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The delicious smell of freshly made coffee came from the kitchen."（厨房飘来新鲜煮好的咖啡的诱人香味——Cambridge Dictionary 例句）
-> - "The chef's signature dish was a delicious blend of traditional and modern culinary techniques."（主厨的招牌菜是传统与现代烹饪技艺的美味融合——English Test Store 例句）
+> - The delicious smell of freshly made coffee came from the kitchen . `[例]`
+> - This wine is delicious. `[例]`
+> - I have some delicious gossip to tell you. `[例]`
 
 
 ---

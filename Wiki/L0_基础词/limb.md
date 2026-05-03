@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The athlete lost a limb in the accident but continued to compete with a prosthetic."（这位运动员在事故中失去了一条肢体，但继续用假肢参加比赛）
-> - "The company went out on a limb by investing heavily in the new technology."（公司在新技术上大量投资，承担了很大风险）
+> - The accident victims mostly had injuries to their lower limbs (= legs ) . `[例]`
+> - These vessels supply blood to the head , neck , and upper limbs (= arms ) . `[例]`
+> - An 18-year-old student at California State University died yesterday when she was struck by a falling limb from a large oak tree . `[例]`
 
 
 ---

@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She finished her degree in three years instead of four."（她用三年而不是四年完成了学位）
-> - "Have you finished reading that book yet?"（你读完那本书了吗？）
+> - I'll call you when I've finished my homework . `[例]`
+> - Please place your questionnaire in the box when you're finished. `[例]`
+> - She finished the concert with a song from her first album . `[例]`
 
 
 ---

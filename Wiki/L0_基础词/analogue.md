@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These may either be the drug in question or some analogue of it."（这些可能是目标药物或其某种类似物。——考研阅读类表达）
-> - "The first drug approved for use against HIV, zidovudine (AZT), is a nucleoside analogue as well."（第一个获准用于对抗HIV的药物叠氮胸苷（AZT）也是一种核苷类似物。——考研翻译类表达）
+> - I started recording the sounds on analogue reel-to-reel tape . `[例]`
+> - This is the standard method used to convert analogue signals to digital . `[例]`
+> - Grants can be given to people who still watch analogue broadcasts on old television sets to help them cover the cost of a digital converter . `[例]`
 
 
 ---

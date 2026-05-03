@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**公众的，公共的**==；②==**公开的**==；③==**公立的**==；
-**n.** ①==**公众，民众**==；②==**（某方面的）大众**==；
+**adj.** ①==**公众的，公共的**== `adj`；②==**公开的**== `adj`；③==**公立的**== `adj`；
+**n.** ①==**公众，民众**== `N`；②==**（某方面的）大众**== `N`；
 
 > [!tip] 原型义
 > **原型义**：属于全体人民的（与全体社会成员相关、对所有人开放的）
@@ -135,8 +135,9 @@ pub-（=populus，人民，来自拉丁语 *populus*，people/the people）+ -li
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientific publishing has long been a licence to print money."（科学出版长期以来一直是一本万利的行当。）——2020考研英语一阅读
-> - "It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being."（它脱离了上帝和罗马天主教的权威，转而倾向于一种更人文主义的存在方式。）——2020考研英语一阅读
+> - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
+> - What millions of Texas kids leam in their public schools is determined too often by the political ideology of partisan board members , rather than facts and sound scholarship. `[真题]`
+> - Public opinion (= the opinions of most people ) has turned against him. `[例]`
 
 ---
 

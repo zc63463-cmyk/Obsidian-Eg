@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hawk flew back and forth a few times, and then alighted among the rocks by the spring."（这只鹰前前后后飞了好几个来回，然后落在泉水旁边的岩石上——英语阅读常见表达，hawk 指猛禽）
-> - "I'll have to watch her like a hawk to make sure she doesn't make any more mistakes."（我不得不像鹰一样盯着她，确保她不再犯错——英语常见表达，watch like a hawk 为常考习语）
+> - On every street corner there were traders hawking their wares . `[例]`
+> - She was hawking flowers at the parking lot exit . `[例]`
+> - The hawks on the committee are worried that 6 per cent growth could trigger inflation . `[例]`
 
 
 ---

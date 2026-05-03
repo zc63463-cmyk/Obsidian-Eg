@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**过程，进程**== ; ②工序，加工方法 ; ③（法律）传票 ;
-**v.** ①==**加工，处理**== ; ②审核，办理 ;
+**n.** ①==**过程，进程**== `N`；②==**工序，加工方法**== `N`；③==**（法律）传票**== `N`；
+**v.** ①==**加工，处理**== `V`；②==**审核，办理**== `V`；
 
 > [!tip] 原型义
 > **原型义**：过程、进程——向前推进的持续状态
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The journal Science is adding an extra round of statistical checks to its peer-review process."（《科学》杂志正在其同行评审过程中增加一轮额外的统计检查——2015年考研Text 3）
-> - "The costs of globalization process are enormous."（全球化进程的代价是巨大的——2001年考研Text 4）
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+> - Increasing the number of women in top management jobs will be a slow process. `[例]`
+> - This decision may delay the process of European unification . `[例]`
 
 
 ---

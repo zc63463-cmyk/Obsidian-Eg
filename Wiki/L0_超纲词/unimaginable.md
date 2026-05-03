@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**难以想象的，不可思议的**==；②惊人的；
+**adj.** ①==**难以想象的，不可思议的**== `adj`；②==**惊人的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：想象不到的（超出想象力的）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + [[im-|imagin]](想象) + -able(可被...的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The technology has brought about changes on an unimaginable scale."（这项技术带来了难以想象的规模的变化。）
-> - "The refugees endured unimaginable hardship during their journey."（难民在旅途中忍受了难以想象的困苦。）
+> - It was a time of drought and despair , of the Dust Bowl , of unimaginable suffering . `[例]`
+> - This level of success would have been unimaginable just last year. `[例]`
 
 ## 复习记录
 

@@ -117,8 +117,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fishermen set out at dawn to cast their nets."（渔民们在黎明时出发撒网）
-> - "Overfishing has severely affected the livelihood of local fishermen."（过度捕捞严重影响了当地渔民的生计）
+> - He used to be a fisherman, and he didn’t make enough money to pay for his house, food, and clothes for his children. `[例]`
+> - Once a tuna bites a fisherman’s fishing line, it can be a four- or five-hour battle between man and fish. `[例]`
+> - The traditional way to catch fish, even very big ones like tuna, is with a fishing line that the fisherman holds in his hands. `[例]`
 
 
 ---

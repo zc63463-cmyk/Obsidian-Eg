@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "unify the country"（统一国家）——考研阅读政治历史类文章常见搭配
-> - "a unified approach to the problem"（解决问题的统一方法）——学术类阅读语境
-> - "efforts to unify the European market"（统一欧洲市场的努力）——经济类阅读
+> - If the new leader does manage to unify his warring party it will be quite an achievement . `[例]`
+> - The new leader hopes to unify the country. `[例]`
+> - The task of unifying Europe. `[例]`
 
 ---
 

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No wonder it has become fashionable to denounce many universities as little more than elaborate con-tricks."（难怪谴责许多大学只不过是精心策划的骗局已经成为一种时尚——2016年12月六级阅读）
-> - "Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal."（在过去的一个世纪里，各种各样的不公和歧视都遭到了谴责或被定为非法——2004年英语一Text 2，condemn 为 denounce 的同义替换）
+> - The government's economic policy has been denounced on all sides . `[例]`
+> - He angrily denounced the decision not to allow him to speak . `[例]`
+> - We must denounce injustice and oppression . `[例]`
 
 
 ---

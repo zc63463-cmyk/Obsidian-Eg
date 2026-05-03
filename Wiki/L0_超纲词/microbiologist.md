@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**微生物学家**== `N V that-clause` [学术]；`adj N` [学术]；
+**n.** ①==**微生物学家**== `N`；
 
 > [!tip] 原型义
 > **原型义**：研究微生物的科学家
@@ -120,8 +120,8 @@ micro-(微小，希腊语 *mikros*) + bio(生命，希腊语 *bios*) + -logist(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Microbiologists have identified a new strain of antibiotic-resistant bacteria.
-> - `[例]` A team of microbiologists is working to develop a vaccine against the emerging virus.
+> - The plant is well maintained , with routine monitoring by the hospital's consultant microbiologist. `[例]`
+> - One of Britain's leading microbiologists welcomed the discovery as a possible breakthrough . `[例]`
 
 ## 复习记录
 

@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Scientists have developed a new tool to detect harmful chemicals in food."（科学家开发了一种新工具来检测食物中的有害化学物质。）——考研阅读真题
-> - "The test can detect the virus even in patients who show no symptoms."（该检测可以在无症状患者中检测到病毒。）——考研高频表达
+> - Scopus itself has all the data necessary to detect this malpractice. `[真题]`
+> - Some sounds cannot be detected by the human ear . `[例]`
+> - Financial experts have detected signs that the economy is beginning to improve . `[例]`
 
 ---
 

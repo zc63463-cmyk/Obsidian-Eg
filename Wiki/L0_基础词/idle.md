@@ -131,8 +131,9 @@ idle 源自古英语 *īdel* "空的、无价值的、无用的"，原始西日�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Half of the machines in the factory stood idle during the economic downturn."（经济衰退期间，工厂里一半的机器闲置着——考研阅读常见表达，stand idle 为高频搭配）
-> - "The government should not make idle promises to the public."（政府不应向公众做空口承诺——idle promises 为写作可用搭配）
+> - Half these factories now stand idle. `[例]`
+> - It's crazy to have £7,000 sitting idle in the bank . `[例]`
+> - If you have an idle moment , call me. `[例]`
 
 
 ---

@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "weary of the endless debate"（对无休止的辩论感到厌倦）——考研阅读/写作中常见社会议题表达
-> - "weary travelers"（疲惫的旅人）——文学类文本经典搭配
-> - "the public is growing weary of..."（公众对……日益厌倦）——社论/评论类语料
+> - I think he's a little weary after his long journey . `[例]`
+> - Here, sit down and rest your weary legs . `[例]`
+> - She looked at me with a weary expression as if to say "This again? `[例]`
 
 ---
 

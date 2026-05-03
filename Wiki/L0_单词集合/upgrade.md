@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government plans to upgrade the country's infrastructure."（政府计划升级国家基础设施）——考研阅读中社会经济话题
-> - "upgraded to business class"（升级到商务舱）——商业/旅行语境
-> - "upgrade their professional skills"（提升专业技能）——教育/就业类话题
+> - The urgency to upgrade short-term rental facilities. `[真题]`
+> - It's very simple to upgrade the indexing software . `[例]`
+> - Consider upgrading your buildings insurance policy every five to 10 years . `[例]`
 
 ---
 

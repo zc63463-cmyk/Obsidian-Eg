@@ -124,8 +124,9 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rapid advancement of software technology has fundamentally transformed the way businesses operate and communicate globally."（软件技术的快速发展从根本上改变了企业在全球范围内运营和沟通的方式——考研阅读科技话题相关表达）
-> - "Many companies are now investing heavily in software development to maintain their competitive edge in the digital marketplace."（许多公司现在正大力投资软件开发，以在数字市场中保持竞争优势——考研翻译商业话题相关表达）
+> - He's written a piece of software that does your taxes for you. `[例]`
+> - The help desk helps customers install and run software . `[例]`
+> - Thousands of users are able to download software provided by the company . `[例]`
 
 
 ---

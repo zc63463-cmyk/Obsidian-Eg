@@ -125,7 +125,9 @@ hobby（源自中古英语 *hobyn* "小马"，是 Robert（Hob）的爱称 + 小
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many people take up gardening as a hobby after retirement.（很多人退休后把园艺当作爱好——考研阅读常见话题）
+> - Angela's hobby is restoring vintage motorcycles . `[例]`
+> - He needs a hobby to keep him busy and stop him from getting into mischief . `[例]`
+> - The students sidetracked their teacher into talking about her hobby. `[例]`
 
 
 ---

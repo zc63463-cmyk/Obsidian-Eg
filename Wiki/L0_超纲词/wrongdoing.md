@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不法行为，违法行为**==；②==**不道德行为，坏事**==；
+**n.** ①==**不法行为，违法行为**== `N`；②==**不道德行为，坏事**== `N`；
 
 > [!tip] 原型义
 > **原型义**：做错的事（wrong 错误的 + doing 做 → 做错的事 → 不法行为）
@@ -128,8 +128,8 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The whistleblower exposed widespread corporate wrongdoing within the company."（举报人揭露了公司内部广泛存在的企业不法行为）
-> - "An independent investigation was launched to look into allegations of financial wrongdoing."（已启动独立调查，以调查有关财务违法行为的指控）
+> - She has strenuously denied any criminal wrongdoing. `[例]`
+> - Investigators found no evidence of wrongdoing. `[例]`
 
 ## 复习记录
 

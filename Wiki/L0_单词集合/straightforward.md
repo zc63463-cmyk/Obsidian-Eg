@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Decisions based on utility as opposed to lack of utility are straightforward."（根据项目是否有效来做决策简单明了。）——1996年翻译
-> - "The rules are quite straightforward."（这些规则相当简单明了。）——考研高频表达
+> - Just follow the signs to Bradford - it's very straightforward. `[例]`
+> - Roz is straightforward and lets you know what she's thinking . `[例]`
+> - The doctor explained the operation in straightforward English . `[例]`
 ---
 
 

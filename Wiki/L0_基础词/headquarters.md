@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Taxes are low, so many businesses have their headquarters here."（税收低，所以许多企业将总部设在这里——2016年12月四级听力Section C）
-> - "In a 2011 study, she investigated the effects of implementing a Results Only Work Environment on the productivity and well-being of employees at Best Buy's corporate headquarters."（在2011年的一项研究中，她调查了在百思买公司总部实施"仅看结果"工作环境对员工生产力和幸福感的影响——2016年12月考研阅读）
+> - The company has its European headquarters in Brussels . `[例]`
+> - Regional managers are mostly free to operate without interference from headquarters. `[例]`
+> - The rebel headquarters took a direct hit from a bomb during the attack . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**速记员**==；
+**n.** ①==**速记员**== `N`；
 
 > [!tip] 原型义
 > **原型义**：写窄字的人（用缩写符号快速记录的人）
@@ -119,8 +119,8 @@ steno-（窄，紧密，源自希腊语 *stenos*）+ [[graph-gram|graph]]（写�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The court stenographer recorded every word of the testimony.（法庭速记员记录了证词的每一个字。）
-> - Stenographers use special shorthand to keep up with fast-paced speech.（速记员使用特殊的速记法来跟上快速讲话的节奏。）
+> - But that hasn’t stopped liberals and their media stenographers from praying that oil markets collapse amid the U.S.-Israel strikes against the Shia Islamic theocracy and its fledgling nuclear program. `[例]`
+> - For her part, Weiss has already proven to be a happy stenographer for the White House, pulling a bombshell segment from 60 Minutes that painted the administration in a bad light. `[例]`
 
 ## 复习记录
 

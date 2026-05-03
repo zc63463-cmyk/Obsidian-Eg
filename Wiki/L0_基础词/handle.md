@@ -137,8 +137,9 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government must handle the economic crisis with both determination and flexibility."（政府必须以坚定和灵活的态度来应对经济危机。——考研英语真题高频话题，讨论经济治理）
-> - "She proved herself capable of handling the most challenging projects in the department."（她证明了自己有能力处理部门中最具挑战性的项目。——考研相关语料，讨论职场能力）
+> - I can't pick the kettle up - the handle's too hot . `[例]`
+> - She turned the handle and slowly opened the door . `[例]`
+> - That's some handle to go through life with! `[例]`
 
 
 ---

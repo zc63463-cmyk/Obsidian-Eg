@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "thrift shop"（二手商店）——美国文化/社会类文本
-> - "practice thrift"（践行节俭）——经济/社会类文本
-> - "thrift" 作为"繁荣"的古义——文学/历史类文本中偶尔出现
+> - The reverse of the old threepence coin , designed by Frances Madge Kitchener, showed a thrift plant . `[例]`
+> - These days , thrifts place most of their money into boring but safe mortgages . `[例]`
+> - I thrifted all my clothes for a year . `[例]`
 
 ---
 

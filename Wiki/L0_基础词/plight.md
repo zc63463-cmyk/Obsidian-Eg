@@ -128,8 +128,9 @@ plight 源自古英语 *pliht*（危险、承诺），可能与 *plecgan*（使�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country's economic plight is strangling its scientific institutions."（该国的经济困境阻碍了其科研机构的工作进展。——考研阅读常见话题）
-> - "He just wants to draw attention to the plight of the unemployed."（他仅仅是想引起人们对失业者困境的关注。——考研翻译常见表达）
+> - Few of us can be unmoved by the plight of the refugees . `[例]`
+> - What could be more romantic than plighting your troth on a deserted beach ? `[例]`
+> - My problems aren’t much compared with the plight of the storm victims . `[例]`
 
 
 ---

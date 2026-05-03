@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She adjusted the strap of her handbag."（她调整了手提包的带子。）
-> - "Make sure you're strapped in securely."（确保你系好了安全带。）
+> - Could you help me fasten this strap around my suitcase ? `[例]`
+> - They repair watches , and stock a large selection of watch straps. `[例]`
+> - She wore a pair of blue high heels with ankle straps. `[例]`
 
 
 ---

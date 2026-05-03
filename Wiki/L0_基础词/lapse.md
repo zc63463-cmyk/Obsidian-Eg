@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But a lapse of integrity also affects our relationships with others."（但是诚信的缺失也会影响我们与他人的关系。——考研阅读真题）
-> - "After a lapse of six months we met up again."（相隔六个月之后我们又相遇了。——考研翻译常见表达）
+> - The management's decision to ignore the safety warnings demonstrated a remarkable lapse of judgment . `[例]`
+> - After a lapse of six months we met up again. `[例]`
+> - Her memory lapses have become more frequent in the last year . `[例]`
 
 
 ---

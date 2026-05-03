@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（组织、团体内部的）分裂，不和**==；②（尤指基督教会的）教派分裂；
+**n.** ①==**（组织、团体内部的）分裂，不和**== `N`；②==**（尤指基督教会的）教派分裂**== `N`；
 
 > [!tip] 原型义
 > **原型义**：撕裂开的分裂（原本统一的东西被撕成两半）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The Great Schism of 1054 divided Christianity into the Roman Catholic and Eastern Orthodox churches."（1054年的东西教会大分裂将基督教分为罗马天主教和东正教。）
-> - "A deep schism has developed within the party over the issue of immigration."（在移民问题上，党内已经产生了深刻的分裂。）
+> - The growing schism between the leadership and the ordinary party members. `[例]`
+> - By 1914 the party was dangerously close to schism. `[例]`
 
 ## 复习记录
 

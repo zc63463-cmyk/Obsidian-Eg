@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**普通的，平常的**==；②==**平庸的，平淡的**==；
-**n.** ①==**普通人**==（the ordinary）；②==**（法官等）常任的**==（ordinary of the court）；
+**adj.** ①==**普通的，平常的**== `adj`；②==**平庸的，平淡的**== `adj`；
+**n.** ①==**普通人**== `N`（the ordinary）；②==**（法官等）常任的**== `N`（ordinary of the court）；
 
 > [!tip] 原型义
 > **原型义**：按通常秩序排列的事物（普通的、常规的）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What sets extraordinary people apart from ordinary ones is not talent, but perseverance and determination."（将非凡之人与普通人区分开的不是天赋，而是毅力和决心——考研阅读励志话题相关表达）
-> - "The invention of the smartphone was nothing out of the ordinary at the time, yet it revolutionized the way we communicate."（智能手机的发明在当时看来没什么特别，但它彻底改变了我们的通讯方式——考研阅读科技话题相关表达）
+> - Readers of the magazine said they wanted more stories about ordinary people and fewer stories about the rich and famous . `[例]`
+> - Her last concert appearance was no ordinary (= a very special ) performance . `[例]`
+> - If we hadn't seen the TV programme , we would have carried on giving money to the charity in the ordinary way. `[例]`
 
 
 ---

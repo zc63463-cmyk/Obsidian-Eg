@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**剧团，表演团**==；②（演员、歌手、舞者等的）一班人；
+**n.** ①==**剧团，表演团**== `N`；②==**（演员、歌手、舞者等的）一班人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：剧团，表演团（巡回演出的表演者团体）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The dance troupe toured extensively across Europe."（这个舞蹈团在欧洲各地进行了广泛巡演）
-> - "She joined a theater troupe after graduating from drama school."（从戏剧学校毕业后，她加入了一个剧团）
+> - She joined a dance troupe and travelled all over the world . `[例]`
+> - A troupe of dancers from Beijing is one of the leading attractions in the festival . `[例]`
 
 ## 复习记录
 

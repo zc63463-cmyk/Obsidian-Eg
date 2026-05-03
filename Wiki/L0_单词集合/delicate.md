@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a delicate balance"（微妙的平衡）——考研阅读超高频搭配，描述生态、政治、社会关系的脆弱平衡
-> - "delicate situation"（微妙的情况）——考研阅读中描述外交、社会敏感话题的常见搭配
-> - "delicate ecosystem"（脆弱的生态系统）——环保类阅读高频搭配
+> - Peaches have delicate skins which are easily bruised . `[例]`
+> - Delicate plants need to be kept in a greenhouse during the winter . `[例]`
+> - Molly's health has always been delicate (= she gets sick easily ) . `[例]`
 
 ---
 

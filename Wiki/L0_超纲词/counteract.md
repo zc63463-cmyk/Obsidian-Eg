@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抵消，对抗**== `V N` [通用] `counteract the effects of` [书面]；②==**阻碍，制止**== `counteract the spread of` [书面]；
+**v.** ①==**抵消，对抗**== `V`；②==**阻碍，制止**== `V`；
 
 > [!tip] 原型义
 > **原型义**：反过来行动以抵消对方的力量
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Regular exercise can counteract the negative effects of a sedentary lifestyle. `[例]`
-> - The government introduced new policies to counteract the spread of misinformation online. `[例]`
+> - What can be done to counteract this trend ? `[例]`
+> - Drinking a lot of water counteracts the dehydrating effects of hot weather . `[例]`
 
 ## 复习记录
 

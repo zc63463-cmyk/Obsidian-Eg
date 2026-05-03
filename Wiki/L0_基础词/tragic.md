@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**悲剧的，悲惨的**==；②令人悲伤的，不幸的；
+**adj.** ①==**悲剧的，悲惨的**== `adj`；②==**令人悲伤的，不幸的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：悲剧的（属于悲剧的，具有悲剧性质的）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The news of his tragic death shocked the entire nation.（他悲惨死亡的消息震惊了全国。）
-> - Hamlet is Shakespeare's most famous tragic hero.（哈姆雷特是莎士比亚最著名的悲剧英雄。）
+> - His friends were deeply shocked and saddened by the tragic news of his death . `[例]`
+> - The bomb explosion resulted in a tragic loss of life . `[例]`
+> - It is tragic that the theatre has had to close . `[例]`
 
 
 ---

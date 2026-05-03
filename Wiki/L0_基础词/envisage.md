@@ -122,8 +122,9 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to envisage a world without the internet."（很难想象一个没有互联网的世界。）
-> - "The government envisages building a new highway across the region."（政府设想在该地区修建一条新高速公路。）
+> - Train fare increases of 15 percent are envisaged for the next year . `[例]`
+> - It 's envisaged that building will start at the end of this year . `[例]`
+> - When do you envisage finish ing the project ? `[例]`
 
 
 ---

@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The suspect made a blanket **denial** of all charges.（嫌疑人对所有指控一概否认。）
-> - Her **denial** of the evidence only deepened the investigators' suspicion.（她对证据的否认只会加深调查人员的怀疑。）
+> - The CEO issued a denial of the report that she is about to resign . `[例]`
+> - Officials did not believe the runner's denial that he had taken drugs . `[例]`
+> - His denial of responsibility for the accident was unconvincing . `[例]`
 
 ---
 

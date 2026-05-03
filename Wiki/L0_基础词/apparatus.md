@@ -123,7 +123,9 @@ ap-(=ad-, 向) + [[par]](准备) + -atus(名词后缀，表示状态/结果)。�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The state apparatus was used to suppress dissent."（国家机器被用来压制异见。）
+> - A piece of apparatus. `[例]`
+> - The divers checked their breathing apparatus. `[例]`
+> - The whole apparatus of communism was already falling apart . `[例]`
 
 
 ---

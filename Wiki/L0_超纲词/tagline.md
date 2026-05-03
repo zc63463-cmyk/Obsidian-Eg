@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标语，广告语，口号**==；②（电影、电视节目的）宣传语；
+**n.** ①==**标语，广告语，口号**== `N`；②==**（电影、电视节目的）宣传语**== `N`；
 
 > [!tip] 原型义
 > **原型义**：标语，广告语（附在品牌或产品上的简短口号）
@@ -120,8 +120,8 @@ tag（标签，标记）+ line（行，一行文字）→ tagline（标签行→
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company's new tagline — 'Innovation for Everyone' — aims to broaden its market appeal."（公司的新广告语——"人人皆可创新"——旨在扩大市场吸引力）
-> - "A good tagline should be memorable and concise."（好的广告语应该令人难忘且简洁）
+> - Writing a tagline is a good way to add character to your brand . `[例]`
+> - The tagline from the drug company's ad campaign backfired and quickly became fodder for late-night comedians. `[例]`
 
 ## 复习记录
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**协议，规程**==（计算机/外交领域）；②礼仪，礼节；③（条约的）草案，议定书；
+**n.** ①==**协议，规程**== `N`（计算机/外交领域）；②==**礼仪，礼节**== `N`；③==**（条约的）草案，议定书**== `N`；
 
 > [!tip] 原型义
 > **原型义**：第一页（粘在最前面的原始草案/记录）
@@ -128,8 +128,9 @@ proto-(第一/原始) + col(=glue, 粘) → 粘在最前面的第一页
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices, suggested Eli Noam of New York's Columbia Business School."（纽约哥伦比亚商学院的伊利·诺姆建议说，的确，正如有公认的会计准则一样，也许现在应该制定公认的安全准则了——2007年考研阅读新题型，protocol 同义语境）
-> - "It is set out in a legally binding protocol which forms part of the treaty."（这在有法律约束力的、构成条约之一部分的议定书中作出了规定——外交语境例句）
+> - All data were collected according to protocols approved by the ethics committee . `[例]`
+> - It is set out in a legally binding protocol which forms part of the treaty. `[例]`
+> - As per testing protocol, the sample was divided in two. `[例]`
 
 
 ---

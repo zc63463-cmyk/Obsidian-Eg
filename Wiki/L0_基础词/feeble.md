@@ -129,8 +129,9 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them..."（就在老板和董事会终于解决了他们最严重的会计和合规问题，并改善了他们薄弱的公司治理之际，一个新的问题威胁着他们——2007年考研英语阅读）
-> - "We understood this sufficiently to mistrust the feeble and inept judgments of our younger selves."（我们对此有足够的理解，以至于不信任我们年轻时的那些虚弱而笨拙的判断——Slate Magazine）
+> - He was a feeble, helpless old man. `[例]`
+> - Opposition to the plan was rather feeble. `[例]`
+> - He’s pretty feeble, and has to use a cane to get around. `[例]`
 
 
 ---

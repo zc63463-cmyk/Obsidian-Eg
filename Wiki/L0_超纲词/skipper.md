@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**船长，艇长**==；②（体育队）队长；③领队，负责人；
-**v.** ①担任……的船长/队长；
+**n.** ①==**船长，艇长**== `N`；②==**（体育队）队长**== `N`；③==**领队，负责人**== `N`；
+**v.** ①==**担任……的船长/队长**== `V`；
 
 > [!tip] 原型义
 > **原型义**：船只的指挥者（船长）
@@ -128,7 +128,8 @@ skipper（源自中古荷兰语 *schipper*，与 ship"船"同源，意为"船的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The skipper guided the yacht safely through the storm."（船长驾驶游艇安全穿过了暴风雨。）
+> - John is (the) skipper of the team this year . `[例]`
+> - We asked the skipper how long it would be before we reached port. `[例]`
 
 ## 复习记录
 

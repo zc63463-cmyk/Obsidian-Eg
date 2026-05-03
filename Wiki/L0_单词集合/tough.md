@@ -124,8 +124,9 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government faces tough decisions in balancing economic growth and environmental protection."（政府在平衡经济增长与环境保护方面面临艰难的决定。）——考研高频表达
-> - "Growing up in a tough neighborhood taught her resilience and determination."（在艰苦的社区长大教会了她韧性和决心。）——考研高频表达
+> - These toys are made from tough plastic . `[例]`
+> - Children's shoes need to be tough. `[例]`
+> - You have to be tough to be successful in politics . `[例]`
 
 
 ---

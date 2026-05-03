@@ -127,8 +127,8 @@ forth(向前) + right(直的，正确的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The CEO was known for her forthright approach to difficult decisions. `[例]`
-> - He was forthright in his criticism of the government's environmental policy. `[例]`
+> - His forthright manner can be mistaken for rudeness . `[例]`
+> - I admire her forthright way of dealing with people . `[例]`
 
 ## 复习记录
 

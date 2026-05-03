@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**操作员，工作者**==；②==**经营者，运营者**==；③==**（电话）接线员**==；④==**狡猾的人，投机者**==；
+**n.** ①==**操作员，工作者**== `N`；②==**经营者，运营者**== `N`；③==**（电话）接线员**== `N`；④==**狡猾的人，投机者**== `N`；
 
 > [!tip] 原型义
 > **原型义**：操作某物的人（operate + -or，执行操作的人）
@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tour operator offers a variety of travel packages."（旅行社经营者提供多种旅行套餐）——考研阅读常见搭配
-> - "Operators must be trained before using the equipment."（操作员必须经过培训才能使用设备）——技术/安全类阅读语境
-> - "He is a smooth operator who knows how to get what he wants."（他是个圆滑的人，知道如何得到自己想要的东西）——人物描写类语境
+> - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
+> - He has shown himself to be a canny operator in wage negotiations . `[例]`
+> - Dial or press zero for the operator. `[例]`
 
 ---
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不可行的，行不通的**==；②不可能实现的；
+**adj.** ①==**不可行的，行不通的**== `adj`；②==**不可能实现的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不可行的（无法做到的）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + [[fac|feas]](做) + -ible(可被...的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Building a tunnel under the ocean was deemed unfeasible at the time."（在当时，在海底建造隧道被认为不可行。）
-> - "The project was abandoned as financially unfeasible."（该项目因财务上不可行而被放弃。）
+> - The teachers’ demands were economically unfeasible. `[例]`
+> - Yennie’s family home is in rural Routt County, and traveling to a physical therapy center or finding someone willing to make frequent house calls is unfeasible , his son Ben Yennie said. `[例]`
 
 ## 复习记录
 

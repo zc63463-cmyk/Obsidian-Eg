@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers collected blood specimens from over 1,000 participants to study the genetic basis of the disease."（研究人员从1000多名参与者那里采集了血样，以研究该疾病的遗传基础。——考研英语阅读科学类话题）
-> - "The museum's collection includes rare geological specimens dating back millions of years."（博物馆的藏品包括可追溯到数百万年前的稀有地质标本。——考研英语阅读文化类话题）
+> - He has a collection of rare insect specimens. `[例]`
+> - Museums will pay large amounts of money for good dinosaur fossil specimens. `[例]`
+> - Astronauts brought back specimens of moon rock . `[例]`
 
 
 ---

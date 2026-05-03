@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**千年的，千禧年的**== `adj N` [正式]；②千禧一代的 `adj N` [通用]；
-**n.** ①千禧一代（1981-1996年出生的人） `N V` / `adj N` [通用]；
+**adj.** ①==**千年的，千禧年的**== `adj`；②==**千禧一代的**== `adj`；
+**n.** ①==**千禧一代（1981-1996年出生的人）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：与一千年有关的
@@ -126,8 +126,8 @@ mill(千，拉丁语 *mille*) + -enn(年，拉丁语 *annus*) + -ial(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Millennials are reshaping the workplace with their preference for flexibility and purpose. [C]
-> - `[例]` Millennial consumers tend to value experiences over material possessions. [C]
+> - In the millennial year , millions of pilgrims flocked to Rome. `[例]`
+> - Millennials have grown up with the internet and can't imagine a world without it. `[例]`
 
 ## 复习记录
 

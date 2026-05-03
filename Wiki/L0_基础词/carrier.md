@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Cargo aircraft, in contrast, might be easier to reschedule, as might routine military flight."（相比之下，货运飞机可能更容易重新安排时间表——2010年考研英语二阅读理解Section II，此处 cargo aircraft 即为 cargo carrier）
-> - "Switzerland's national carrier, Swissair, has been having a hard time recently."（瑞士的国家航空公司——瑞士航空公司，最近日子很不好过——考研阅读相关语料）
+> - You can transfer your existing mobile phone number to a new carrier. `[例]`
+> - Only your carrier limits the number of characters you can receive in text messages . `[例]`
+> - People are willing to change phone carriers in order to save a few dollars . `[例]`
 
 
 ---

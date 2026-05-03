@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Only a fraction of the population has access to clean drinking water."（只有一小部分人能获得清洁饮用水——考研高频表达）
-> - "The new technology costs a fraction of what the old system did."（新技术的成本仅为旧系统的一小部分）
-> - "She paused for a fraction of a second before answering."（她在回答前停顿了极短的一瞬间）
+> - The cotton harvest is a small fraction of what it once was. `[例]`
+> - Although sexual and violent crimes have increased by 13 percent , they remain only a tiny fraction of the total number of crimes committed each year . `[例]`
+> - They can produce it at a fraction of the cost of (= much more cheaply than) traditional methods . `[例]`
 
 
 ---

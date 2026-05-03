@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The design of the experiment was flawed from the beginning."（这个实验的设计从一开始就有缺陷。）——考研高频表达
-> - "Intelligent design should be taught in schools."（智能设计论应该在学校中教授。）——考研阅读真题
+> - This range of clothing is specially designed for shorter women. `[例]`
+> - This dictionary is designed for advanced learners of English . `[例]`
+> - These measures are designed to reduce pollution . `[例]`
 
 ---
 

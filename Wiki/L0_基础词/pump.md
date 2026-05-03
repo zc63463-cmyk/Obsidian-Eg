@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**泵，抽水机**==；②（心脏的）泵血功能；
-**v.** ①==**用泵抽（水、气等）**==；②==**大量注入，灌输**==；③打气；
+**n.** ①==**泵，抽水机**== `N`；②==**（心脏的）泵血功能**== `N`；
+**v.** ①==**用泵抽（水、气等）**== `V`；②==**大量注入，灌输**== `V`；③==**打气**== `V`；
 
 > [!tip] 原型义
 > **原型义**：泵（通过活塞式的推拉运动抽送液体的装置）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government pumped billions of dollars into the economy to stimulate growth."（政府向经济中注入数十亿美元以刺激增长——考研阅读经济话题高频表达）
-> - "The heart pumps blood throughout the body."（心脏将血液泵送到全身——考研阅读常见搭配）
+> - Our latest machine can pump a hundred gallons a minute . `[例]`
+> - The new wine is pumped into storage tanks . `[例]`
+> - She was pumping me for details of the new project . `[例]`
 
 
 ---

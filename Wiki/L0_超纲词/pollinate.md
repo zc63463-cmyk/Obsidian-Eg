@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**给……授粉**==；②==**传播，使繁荣**==（比喻用法）；
+**vt.** ①==**给……授粉**== `V N`；②==**传播，使繁荣**== `V N`（比喻用法）；
 
 > [!tip] 原型义
 > **原型义**：给植物授粉（将花粉从雄蕊传到雌蕊使植物受精）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Bees play a crucial role in pollinating crops that make up a significant portion of our diet."（蜜蜂在为构成我们饮食重要部分的农作物授粉方面发挥着关键作用。）
+> - Bees pollinate the plants by carrying the pollen from one flower to another. `[例]`
+> - The plants are pollinated by bees. `[例]`
 
 ## 复习记录
 

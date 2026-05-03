@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**含盐的，咸的**==；
-**n.** ①==**生理盐水**==；②盐溶液；
+**adj.** ①==**含盐的，咸的**== `adj`；
+**n.** ①==**生理盐水**== `N`；②==**盐溶液**== `N`；
 
 > [!tip] 原型义
 > **原型义**：含有盐的（与盐有关的）
@@ -125,8 +125,8 @@ sal(盐，拉丁语 *sal*) + -ine(形容词后缀，表示"与……有关的")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The patient was given a saline drip to prevent dehydration."（患者接受了生理盐水点滴以防止脱水。）
-> - "Many plants cannot survive in saline soils."（许多植物无法在盐碱土壤中存活。）
+> - Wash the lenses in saline solution. `[例]`
+> - For kids, saline nasal rinses and sprays are a gentler starting point recommended by Johns Hopkins pediatric physicians before moving to antihistamines. `[例]`
 
 ## 复习记录
 

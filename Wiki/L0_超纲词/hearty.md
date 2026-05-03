@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**衷心的，真诚的**== `hearty thanks/congratulations` [正式] `a hearty laugh/meal` [中性]；②丰盛的，大份的；③健壮的，精神饱满的；
+**adj.** ①==**衷心的，真诚的**== `adj`；②==**丰盛的，大份的**== `adj`；③==**健壮的，精神饱满的**== `adj`；
 > [!tip] 原型义
 > **原型义**：由衷的，发自内心的（来自心脏的情感）
 > **延伸维度**：具身路径
@@ -129,8 +129,8 @@ heart(心脏) + -y(充满……的) → 复合派生词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - They extended hearty congratulations to the graduates on their outstanding achievements. `[例]`；
-> - After a long day of hiking, we sat down to a hearty meal of stew and bread. `[例]`；
+> - This is a lunch that will satisfy a hearty appetite (= the wish and ability to eat a lot) . `[例]`
+> - She has a hearty dislike of any sort of office work . `[例]`
 
 ## 复习记录
 

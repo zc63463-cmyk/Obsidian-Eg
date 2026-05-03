@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The gloomy weather always **depresses** me.（阴沉的天气总是让我感到沮丧。）
-> - Rising unemployment rates have **depressed** consumer confidence.（不断上升的失业率使消费者信心受挫。）
+> - This weather depresses me. `[例]`
+> - It depresses me to think that I'll probably still be doing exactly the same job in ten years ' time . `[例]`
+> - Doesn't it depress you listening to the news these days ? `[例]`
 
 ---
 

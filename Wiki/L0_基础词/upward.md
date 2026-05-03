@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**向上的，上升的**==；
-**adv.** ①==**向上地，上升地**==；
+**adj.** ①==**向上的，上升的**== `adj`；
+**adv.** ①==**向上地，上升地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：向上的（朝上方移动或发展的方向）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Interestingly, parents' attitudes toward education do not seem to reflect their own educational background as much as a belief in the importance of education for upward mobility."（有趣的是，父母对教育的态度似乎并不太反映他们自身的教育背景，而更多地反映他们对教育对于向上流动的重要性的信念——2017年6月阅读原文）
-> - "House prices have started moving upward again."（房价又开始上涨了——剑桥词典例句）
+> - With an upward trend in inflation , you expect prices to rise . `[例]`
+> - House prices have started moving upward again. `[例]`
+> - Tachi glanced upward to the stars . `[例]`
 
 
 ---

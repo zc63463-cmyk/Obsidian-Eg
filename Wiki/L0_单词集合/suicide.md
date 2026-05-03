@@ -119,8 +119,9 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Supreme Court's decisions on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering."（最高法院关于医生协助自杀的裁决，对于医学界寻求如何减轻垂死病人痛苦具有重要意义——2002年考研Text 4）
-> - "On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying."（在另一层面，很多医学界的人承认，协助自杀争议部分是由于病人极度绝望引起的，对他们而言，现代医学延长了他们死亡前的肉体痛苦——2002年考研Text 4）
+> - She attempted suicide when she was a teenager . `[例]`
+> - The suicide rate among men between the ages of 16 and 25 has risen alarmingly . `[例]`
+> - Many suicides occur in prisons . `[例]`
 
 
 ---

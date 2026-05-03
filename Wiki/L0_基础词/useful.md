@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有用的，实用的**==；②==**有益的，有帮助的**==；
+**adj.** ①==**有用的，实用的**== `adj`；②==**有益的，有帮助的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：有用的（充满使用价值的）
@@ -131,8 +131,9 @@ use(使用) + -ful(形容词后缀，充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are newsletters that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap."（有些简讯给成千上万的美国人提供有用的小贴士，内容从回收保鲜膜到自制肥皂应有尽有。——2001年考研阅读Text 5）
-> - "Thus, wearing the right brand of clothes or shoes may be of the utmost importance."（因此，穿正确品牌的衣服或鞋子可能是极其重要的。——考研阅读，含 utmost 和 useful 语义场）
+> - A good knife is probably one of the most useful things you can have in a kitchen . `[例]`
+> - Do the exercises serve any useful purpose ? `[例]`
+> - Computers have a useful life of only about 3 years before they're outmoded . `[例]`
 
 
 ---

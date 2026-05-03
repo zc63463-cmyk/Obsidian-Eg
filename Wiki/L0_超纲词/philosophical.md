@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**哲学的，哲学上的**==；②达观的，豁达的（面对困境时冷静理性）；
+**adj.** ①==**哲学的，哲学上的**== `adj`；②==**达观的，豁达的（面对困境时冷静理性）**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与哲学相关的
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The nature of consciousness remains one of the most profound philosophical questions.（意识的本质仍然是最深刻的哲学问题之一）
-> - She was surprisingly philosophical about losing the competition.（她对比赛失利表现得异常达观）
+> - Pragmatism is a philosophical theory . `[例]`
+> - You just have to be philosophical about losing some games , because you can’t win them all. `[例]`
 
 ## 复习记录
 

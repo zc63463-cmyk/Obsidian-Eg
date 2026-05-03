@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It would be naive to assume that technological progress alone can solve the deep-rooted social problems that have accumulated over decades."（认为仅靠技术进步就能解决几十年来积累的根深蒂固的社会问题，这种想法未免天真——考研阅读科技社会话题相关表达）
-> - "The researchers adopted a naive approach to data collection, failing to account for numerous confounding variables that could have skewed their results."（研究人员在数据收集方面采取了简单粗暴的方法，未能考虑到可能使结果产生偏差的众多混杂变量——考研翻译科研方法话题相关表达）
+> - She was very naive to believe that he'd stay with her. `[例]`
+> - They make the naive assumption that because it's popular it must be good. `[例]`
+> - It was a little naive of you to think that they would listen to your suggestions . `[例]`
 
 
 ---

@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The library has updated its online catalogue to make it easier for students to find resources."（图书馆更新了在线目录，方便学生查找资源。——考研阅读教育类）
-> - "The report reads like a catalogue of corporate failures."（这份报告读起来就像一连串的企业失败记录。——红宝书考研词汇例句）
+> - The whole holiday was a catalogue of disasters . `[例]`
+> - Many plants become extinct before they have even been catalogued. `[例]`
+> - The auction house produces a catalogue full of colour photographs for each sale , available two weeks beforehand . `[例]`
 
 
 ---

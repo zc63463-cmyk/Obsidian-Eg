@@ -131,8 +131,9 @@ dec-/decen-(恰当的，合适的，拉丁语 *decere*) + -ent(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Every executive needed a few suits and a decent overcoat."（每个管理人员都需要几套西服和一件像样儿的大衣。——考研阅读常见表达）
-> - "I hope to find a job with a decent income."（我希望找到一份收入不错的工作。——考研生活类阅读常见话题）
+> - I thought he was a decent person . `[例]`
+> - It was very decent (= kind ) of you to help . `[例]`
+> - It made quite a decent-sized (= large ) hole . `[例]`
 
 
 ---

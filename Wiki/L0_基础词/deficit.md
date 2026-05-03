@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The current trade deficit indicates a serious imbalance between our import and export trade."（当前的贸易赤字表明我们的进出口贸易严重失调——考研经济类语料）
-> - "The trade balance has been in deficit for the past five years."（过去五年来贸易状况一直是逆差——考研经济类高频表达）
+> - The presidential candidate claims that he can cut the deficit in half within five years . `[例]`
+> - The trade balance has been in deficit for the past five years. `[例]`
+> - With a budget deficit of nearly £26 billion , the state plans to slash spending on schools and police . `[例]`
 
 
 ---

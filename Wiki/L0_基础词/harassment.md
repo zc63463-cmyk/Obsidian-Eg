@@ -133,8 +133,9 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They have a policy of zero tolerance for sexual harassment."（他们对性骚扰采取零容忍政策。——考研英语阅读相关语料）
-> - "The party has accused the police of harassment."（该党指控警方进行骚扰。——考研英语阅读相关语料）
+> - Complaints of sexual harassment (= offensive sexual suggestions or actions ) in the workplace have increased in recent years . `[例]`
+> - The company investigated claims of workplace harassment and racial discrimination . `[例]`
+> - Victims of harassment are able to take action in the courts to obtain damages . `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The politician evaded the reporter's question by changing the subject."（这位政治家通过转移话题回避了记者的问题。）
-> - "Tax evasion is a serious crime."（逃税是严重的犯罪行为。）
+> - The necessity to stop developers from evading taxes. `[真题]`
+> - The police have assured the public that the escaped prisoners will not evade recapture for long . `[例]`
+> - She leaned forward to kiss him but he evaded her by pretending to sneeze . `[例]`
 
 
 ---

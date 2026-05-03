@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**注意力不集中的，缺乏焦点的**==；②（图像等）模糊的；③缺乏明确目标的；
+**adj.** ①==**注意力不集中的，缺乏焦点的**== `adj`；②==**（图像等）模糊的**== `adj`；③==**缺乏明确目标的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：未聚焦的（没有集中焦点的）
@@ -128,8 +128,8 @@ un-(不，否定前缀) + focus(焦点/集中) + -ed(形容词后缀，持有状
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The essay was criticized for being unfocused and lacking a clear argument."（这篇文章因缺乏焦点和清晰论点而受到批评。）
-> - "After the long meeting, her thoughts became unfocused."（漫长的会议之后，她的思绪变得涣散。）
+> - Bowman looked up at her, his gaze slightly unfocused. `[例]`
+> - The portrait looks more like an unfocused snapshot . `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**钱包，经济来源，财力**==；②袖珍本，口袋书；③个人财务状况；
+**n.** ①==**钱包，经济来源，财力**== `N`；②==**袖珍本，口袋书**== `N`；③==**个人财务状况**== `N`；
 
 > [!tip] 原型义
 > **原型义**：口袋书/钱包（可以放进口袋的小本子，用来装钱）
@@ -126,7 +126,8 @@ pocket（口袋）+ book（书/本子）→ 合成词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Rising healthcare costs are putting a strain on the average family's pocketbook."（不断上涨的医疗费用正在给普通家庭的经济带来压力。）
+> - The title of this little pocketbook is "an Essential Guide to Rome". `[例]`
+> - Even pocketbooks are quite expensive , especially when you read as much as I do. `[例]`
 
 ## 复习记录
 

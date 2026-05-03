@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All he needs to do is shell out $30 for a paternity testing kit (PTK) at his local drugstore — and another $120 to get the results."（他只需在当地药店花30美元买一个亲子鉴定工具包——再花120美元获取结果。——2009年英语一Text 2）
-> - "It is a wise father that knows his own child, but today a man can boost his paternal wisdom — or at least confirm that he's the kid's dad. All he needs to do is shell out $30 for a paternity testing kit at his local drugstore."（了解自己孩子的父亲是明智的，但如今男人可以提升为人父的智慧——至少可以确认自己是孩子的父亲。他只需在当地药店花30美元买一个亲子鉴定工具包。——2009年英语一Text 2）
+> - He's making a model car from a kit. `[例]`
+> - They were wearing football kit. `[例]`
+> - A torch is an important piece of kit on backpacking trips . `[例]`
 
 
 ---

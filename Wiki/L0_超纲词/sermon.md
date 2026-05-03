@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**布道，讲道**==（宗教仪式中的）；②==**说教，冗长的训斥**==（引申义）；
-**v.** ①==**说教，训斥**==；
+**n.** ①==**布道，讲道**== `N`（宗教仪式中的）；②==**说教，冗长的训斥**== `N`（引申义）；
+**v.** ①==**说教，训斥**== `V`；
 
 > [!tip] 原型义
 > **原型义**：布道说教（在宗教场合向信徒讲话）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The priest delivered a powerful sermon on the importance of forgiveness."（牧师发表了一篇关于宽恕之重要性的有力布道。）
-> - "I don't need a sermon from you about how to live my life."（我不需要你来教训我该怎么生活。）
+> - Today's sermon was on the importance of compassion . `[例]`
+> - I really don't think it's a politician's job to go delivering sermons on public morality . `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**邪恶的，险恶的**==；②不祥的，有凶兆的；③（古）左边的；
+**adj.** ①==**邪恶的，险恶的**== `adj`；②==**不祥的，有凶兆的**== `adj`；③==**（古）左边的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：左边的（源自拉丁语，古罗马人认为左边是不吉利的一侧）
@@ -124,7 +124,8 @@ sinister（源自拉丁语 *sinister*，意为"左边的"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "There was something sinister about the way he watched her."（他注视她的方式透着一丝险恶。）
+> - The ruined house had a sinister appearance . `[例]`
+> - A sinister-looking man sat in the corner of the room . `[例]`
 
 ## 复习记录
 

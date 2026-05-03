@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**咬，叮**== `V N` `V into N`；②==**咬伤**== `N bite`；③（食物）有刺激性，上口；④上钩（鱼）；
-**n.** ①==**咬，叮**== `a bite of N`；②一口（食物的量） `take a bite`；③==**咬伤**== `N bite`；④（寒冷的）刺骨感 `the bite of N`；
+**v.** ①==**咬，叮**==；②==**咬伤**==；③（食物）有刺激性，上口；④上钩（鱼）；
+**n.** ①==**咬，叮**==；②一口（食物的量）；③==**咬伤**==；④（寒冷的）刺骨感；
 
 > [!tip] 原型义
 > **原型义**：咬，叮（古英语 *bītan*，"to seize with the teeth"）
@@ -134,9 +134,9 @@ bite(咬/叮，古英语 *bītan*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bitter bite of the winter wind made everyone hurry indoors." `[COCA-FIC]`
-> - "In some regions, snake bites remain a significant public health concern." `[COCA-ACAD]`
-> - "She took a bite of the apple and offered the rest to him." `[COCA-FIC]`
+> - He bites his fingernails . `[例]`
+> - The fish aren't biting today. `[例]`
+> - Higher mortgage rates are beginning to bite. `[例]`
 
 
 ---

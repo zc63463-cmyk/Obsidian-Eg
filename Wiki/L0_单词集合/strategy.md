@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There were goals, there were strategies, there were objectives, but we didn't talk about energy; we didn't talk about passion."（他们会说目标、策略和目的，而不谈"干劲"和"激情"。）——考研高频表达
-> - "The company needs to develop a new marketing strategy."（公司需要制定新的营销策略。）——考研高频表达
+> - The president held an emergency meeting to discuss military strategy with the Pentagon yesterday . `[例]`
+> - Their marketing strategy for the product involves obtaining as much free publicity as possible . `[例]`
+> - Follow this strategy for avoiding minor mistakes . `[例]`
 ---
 
 

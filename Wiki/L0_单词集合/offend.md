@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**冒犯，得罪，伤害……的感情**==；②==**使不舒服，使厌恶**==；③==**违反，违犯**==（法律/规则）；
-**vi.** ①==**冒犯，得罪**==；
+**vt.** ①==**冒犯，得罪，伤害……的感情**== `V N`；②==**使不舒服，使厌恶**== `V N`；③==**违反，违犯**== `V N`（法律/规则）；
+**vi.** ①==**冒犯，得罪**== `V`；
 
 > [!tip] 原型义
 > **原型义**：撞击/打在某人身上（源自拉丁语 *offendere*，of- "对着" + fendere "打击"）
@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "offend against the law"（违反法律）——法律/社会类阅读
-> - "easily offended"（容易感到被冒犯的）——社会/心理类话题
-> - "offend public sensibilities"（冒犯公众情感）——文化/社会类语料
-> - "no offense intended"（无意冒犯）——日常/社交语境常见表达
+> - I think she was offended that she hadn't been invited to the party . `[例]`
+> - He looked offended when you called him middle-aged . `[例]`
+> - If the sight of a few dirty dishes offends you, then I think you're in trouble ! `[例]`
+> - Obviously if a police officer offends it's a fairly serious matter . `[例]`
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使青肿，碰伤**== `V N` `bruise one's knee`；②==**挫伤（感情）**== `bruise one's ego/feelings` [比喻]；
-**n.** ①==**青肿，淤伤**== `a bruise on the arm` `covered in bruises`；
+**v.** ①==**使青肿，碰伤**==；②挫伤（感情）；
+**n.** ①==**青肿，淤伤**==；
 
 > [!tip] 原型义
 > **原型义**：因撞击导致皮下出血（皮肤受击后出现青紫痕迹）
@@ -125,10 +125,9 @@ bruise（源自古法语 *bruisier*，弄碎，可能与拉丁语 *frustum* 碎�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her arms were covered in bruises, the purples and greens blending together to create a sickening picture. `[COCA-FIC]`
-> - I was constantly covered in bruises, scrapes, and scratches, much to my parents' chagrin. `[COCA-FIC]`
-> - He bruised his knee when he fell off the bike. `[例]`
-> - She spoke quietly, her feelings still bruised by the harsh criticism. `[例]`
+> - His arms and back were covered in bruises. `[例]`
+> - She had a few cuts and bruises, but nothing serious . `[例]`
+> - One or two of the peaches had bruises on them. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保护，防护**==；②==**保护物，保护措施**==；③==**保险，赔偿**==（贸易/法律用语）；
+**n.** ①==**保护，防护**== `N`；②==**保护物，保护措施**== `N`；③==**保险，赔偿**== `N`（贸易/法律用语）；
 
 > [!tip] 原型义
 > **原型义**：在前面遮盖（在危险前面挡住）
@@ -130,7 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Environmental protection should not come at the cost of economic development."（环境保护不应以经济发展为代价。）
+> - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
+> - Round-the-clock police protection is given to all senior politicians . `[例]`
 
 ## 复习记录
 

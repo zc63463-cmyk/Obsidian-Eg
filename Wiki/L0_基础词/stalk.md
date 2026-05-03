@@ -126,8 +126,9 @@ stalk 源自古英语 *stalcan*（缓慢行走），与 steal（偷窃）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He stalked his victim for weeks before the attack.（他在袭击前跟踪受害者数周。）
-> - The corn stalks swayed in the wind.（玉米秆在风中摇曳。）
+> - She trimmed the stalks of the tulips before putting them in a vase . `[例]`
+> - The eyes of shrimps are on movable stalks. `[例]`
+> - The police had been stalking the woman for a week before they arrested her. `[例]`
 
 
 ---

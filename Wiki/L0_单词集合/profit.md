@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**利润，收益**== ; ②好处，益处 ;
-**v.** ①==**获益，得益**== ; ②有利于 ;
+**n.** ①==**利润，收益**== `N` ; ②==**好处，益处 ;**== `N`
+**v.** ①==**获益，得益**== `V` ; ②==**有利于 ;**== `V`
 
 > [!tip] 原型义
 > **原型义**：向前带来好处（to bring forward / to benefit）
@@ -132,8 +132,9 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit."（甚至连身处全球行业最困难角落的美国报纸也不仅存活了下来，而且经常恢复盈利——2011年考研Text 2）
-> - "Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits."（事实证明，将孩子或成人分成更小的类别一定能提高利润——2012年考研二阅读）
+> - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
+> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
+> - She makes a big profit from selling waste material to textile companies . `[例]`
 
 
 ---

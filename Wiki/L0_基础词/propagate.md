@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**繁殖，增殖**==；②==**传播，宣传**==；③散布，扩散；
-**n.** ①（植物）压条繁殖；
+**v.** ①==**繁殖，增殖**== `V`；②==**传播，宣传**== `V`；③==**散布，扩散**== `V`；
+**n.** ①==**（植物）压条繁殖**== `N`；
 
 > [!tip] 原型义
 > **原型义**：繁殖，传播（从一个源头向外扩散，像植物的枝条向外延伸）
@@ -129,7 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has made it easier to propagate information, both true and false."（互联网使信息传播更加容易，无论真假——考研科技类话题）
+> - Most house plants can be propagated from stem cuttings . `[例]`
+> - Plants need certain conditions to propagate. `[例]`
+> - The female crab needs to be saved to propagate the species . `[例]`
 
 
 ---

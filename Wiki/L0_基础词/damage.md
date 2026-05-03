@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smoking can cause severe damage to your health."（吸烟会对你的健康造成严重损害——考研英语阅读健康类话题）
-> - "The company was ordered to pay damages to the victims of the accident."（公司被命令向事故受害者支付赔偿金——考研翻译法律类表达）
+> - Many buildings were badly damaged during the war . `[例]`
+> - It was a scandal that damaged a lot of reputations . `[例]`
+> - Strong winds had caused serious damage to the roof . `[例]`
 
 
 ---

@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The media often portrays young people as technology-obsessed and politically apathetic, a stereotype that many researchers dispute."（媒体经常把年轻人描绘成沉迷科技和政治冷漠的形象，这一刻板印象受到许多研究者的质疑——考研阅读媒体话题相关表达）
-> - "In her novel, the author portrays the struggles of immigrant families with remarkable sensitivity and depth."（在她的小说中，作者以非凡的敏感度和深度描绘了移民家庭的挣扎——考研阅读文学话题相关表达）
+> - The painting portrays a beautiful young woman in a blue dress . `[例]`
+> - The writer portrays life in a small village at the turn of the century . `[例]`
+> - The father in the film is portrayed as a fairly unpleasant character . `[例]`
 
 
 ---

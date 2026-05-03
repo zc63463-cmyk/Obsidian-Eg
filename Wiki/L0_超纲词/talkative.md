@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**健谈的，爱说话的，多嘴的**==；
+**adj.** ①==**健谈的，爱说话的，多嘴的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：爱说话的（倾向于大量说话的人）
@@ -126,8 +126,8 @@ talk（说话）+ -ative（形容词后缀，倾向于…的）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She became more talkative after a few drinks."（几杯酒下肚后，她变得健谈起来）
-> - "He is a naturally talkative child who never stops asking questions."（他天生是个健谈的孩子，从不停下提问）
+> - She's a lively , talkative person . `[例]`
+> - Cynthia is lively and talkative. `[例]`
 
 ## 复习记录
 

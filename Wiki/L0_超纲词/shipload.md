@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一船的装载量，满载量**==；②大量，大批；
+**n.** ①==**一船的装载量，满载量**== `N`；②==**大量，大批**== `N`；
 
 > [!tip] 原型义
 > **原型义**：一艘船所能装载的货物量
@@ -124,7 +124,8 @@ ship(船) + load(装载)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "They imported shiploads of cheap goods from overseas."（他们从海外进口了大量的廉价商品。）
+> - A shipload of food and medical supplies. `[例]`
+> - Shiploads of settlers came to the New World. `[例]`
 
 ## 复习记录
 

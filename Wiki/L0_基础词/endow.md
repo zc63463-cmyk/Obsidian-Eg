@@ -126,8 +126,9 @@ en-(=in-, 放入，使) + dow(给予，源自古法语 *douer*，拉丁语 *dota
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The wealthy couple endowed a new wing of the hospital."（这对富有的夫妇为医院捐建了一个新翼——常见搭配用法）
-> - "She is endowed with both beauty and intelligence."（她天生美丽聪慧——常见搭配用法）
+> - The wealthy couple endowed a new wing of the hospital. `[例]`
+> - The state of Michigan has endowed three institutes to do research for industry . `[例]`
+> - This hospital was endowed by the citizens of Strasbourg in the 16th century . `[例]`
 
 
 ---

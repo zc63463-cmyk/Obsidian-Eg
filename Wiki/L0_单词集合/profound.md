@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**深刻的，深远的**== ; ②知识渊博的，理解深刻的 ; ③深处的，深切的 ;
+**adj.** ①==**深刻的，深远的**== `adj`；②==**知识渊博的，理解深刻的**== `adj`；③==**深处的，深切的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：向下深入到底（from the bottom of the depth）
@@ -132,8 +132,9 @@ pro-(向前/向下) + [[de|de→向下]](向下) + found(底部，fundus的变�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media."（但是新闻记者一定比普通公民更加深刻地了解法律的这种看法，是基于对新闻媒体既定规范和特殊责任的理解——2007年考研翻译）
-> - "The environment must also have a profound effect on the development of personality traits."（环境也必然对性格特征的发展产生深远的影响——1995年考研Text 4）
+> - His mother's death when he was aged six had a very profound effect on him. `[例]`
+> - The invention of the contraceptive pill brought about profound changes in the lives of women. `[例]`
+> - Those two lines of poetry express perfectly the profound sadness of loss . `[例]`
 
 
 ---

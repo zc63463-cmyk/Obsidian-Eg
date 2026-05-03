@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was deeply upset by the news."（她被这个消息深深困扰）——考研阅读中描述情感反应
-> - "upset the ecological balance"（打破生态平衡）——环保类阅读话题
-> - "an upset stomach"（肠胃不适）——健康/生活类语境
+> - It still upsets him when he thinks about the accident . `[例]`
+> - Don't upset yourself by thinking about what might have been. `[例]`
+> - Any mechanical problems would upset our plans of driving across the desert . `[例]`
 
 ---
 

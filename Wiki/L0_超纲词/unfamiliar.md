@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不熟悉的，陌生的**==；②不常见的；③没有经验的；
+**adj.** ①==**不熟悉的，陌生的**== `adj`；②==**不常见的**== `adj`；③==**没有经验的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不熟悉的（没有经验过的）
@@ -130,8 +130,8 @@ un-(不，否定前缀) + famili-(=family, 家庭/熟悉) + -ar(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Students often feel uncomfortable when faced with unfamiliar concepts."（学生在面对不熟悉的概念时常常感到不适。）
-> - "The rules of the game were unfamiliar to most participants."（游戏规则对大多数参与者来说很陌生。）
+> - I noticed several unfamiliar faces in the meeting room . `[例]`
+> - His name was unfamiliar to me. `[例]`
 
 ## 复习记录
 

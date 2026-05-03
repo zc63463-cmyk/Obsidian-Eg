@@ -127,9 +127,9 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The world's population exploded in the 20th century."（20世纪世界人口激增。）
-> - "The discovery exploded the long-held theory about the origin of the universe."（这一发现推翻了长期以来关于宇宙起源的理论。）
-> - explode 常出现在科技、社会、历史类阅读话题中
+> - A bomb exploded at one of the capital's busiest railway stations this morning . `[例]`
+> - He was driving so fast that his car tyre exploded. `[例]`
+> - What on earth do you think you're doing?" she exploded (= said angrily ) . `[例]`
 
 ---
 

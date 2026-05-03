@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生物体，有机体**== ; ②（尤指）微生物
+**n.** ①==**生物体，有机体**== `N` ; ②==**（尤指）微生物**== `N`
 
 > [!tip] 原型义
 > **原型义**：由多个器官（organ）协同工作组成的生命整体
@@ -122,8 +122,9 @@ organ(器官/工具) + -ism(名词后缀，表"…体系/…主义")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The virus can only survive inside a living organism."（这种病毒只能在活体生物内存活。）——考研高频表达
-> - "The human body is a remarkably complex organism."（人体是一个极其复杂的生物体。）——考研高频表达
+> - Amoebae and bacteria are single-celled organisms. `[例]`
+> - The human body is a remarkably complex organism. `[例]`
+> - Even the simplest, single-celled organisms show examples of this behaviour. `[例]`
 
 ---
 

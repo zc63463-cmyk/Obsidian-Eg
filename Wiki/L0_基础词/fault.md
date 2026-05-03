@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's a rough world out there. Step outside and you could break a leg slipping on your doormat. Light up the stove and you could burn down the house. Luckily, if the doormat or stove failed to warn of coming disaster, a successful lawsuit might compensate you for your troubles."（外面是个残酷的世界。踏出门你可能滑倒在门垫上摔断腿。点燃炉子你可能烧掉整栋房子。幸运的是，如果门垫或炉子没能警告即将到来的灾难，一场成功的诉讼可能补偿你的损失——1999年考研英语Text 1，涉及产品责任与 fault）
-> - "Part of the fault lies with our inner caveman."（部分原因在于我们内心的穴居人——六级阅读，涉及人类行为偏差的 fault 归属）
+> - It's not my fault she didn't come! `[例]`
+> - She believes it was the doctor's fault that Peter died . `[例]`
+> - The fault was with the organizers , who failed to make the necessary arrangements for dealing with so many people . `[例]`
 
 
 ---

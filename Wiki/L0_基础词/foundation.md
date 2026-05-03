@@ -131,9 +131,9 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education lays the foundation for a successful career."（教育为成功的职业生涯奠定基础——考研高频表达）
-> - "The allegations were found to be without foundation."（这些指控被发现是没有根据的）
-> - "The Gates Foundation has donated billions to global health initiatives."（盖茨基金会已向全球卫生倡议捐赠了数十亿美元）
+> - Her youngest child starts (in) foundation in September . `[例]`
+> - The foundations will have to be reinforced to prevent the house from sinking further into the ground . `[例]`
+> - These allegations are completely without foundation. `[例]`
 
 
 ---

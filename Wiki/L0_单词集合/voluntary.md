@@ -122,8 +122,9 @@ vol-(意志、意愿) + -unt(连接成分) + -ary(形容词后缀，表示"…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In his spare time, he engages in voluntary work."（在业余时间，他从事志愿工作。）——考研真题阅读
-> - "Attendance on the course is purely voluntary."（听这门课纯粹是自愿的。）——考研高频表达
+> - She does voluntary work for the Red Cross two days a week . `[例]`
+> - Attendance on the course is purely voluntary. `[例]`
+> - She travelled alone at the age of 18 as a voluntary worker in India . `[例]`
 
 ---
 

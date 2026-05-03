@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a decisive factor"（决定性因素）——考研阅读/翻译高频搭配，常用于因果论证
-> - "decisive victory"（决定性胜利）——历史/政治类阅读常见
-> - "play a decisive role"（发挥决定性作用）——考研写作常用表达
+> - You need to be more decisive. `[例]`
+> - These results could prove decisive in establishing the criminal's identity . `[例]`
+> - In an emergency , decisive action is called for. `[例]`
 
 ---
 

@@ -144,10 +144,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "wear and tear"（磨损和损耗）——考研经济/科技类阅读高频固定搭配
-> - "wearing a smile"（面带微笑）——文学类文本中描述人物表情
-> - "the effects wear off"（效果逐渐消退）——医学/科普类阅读常见表达
-> - "worn out"（筋疲力尽的）——考研阅读中描述身心状态
+> - Tracey is wearing a simple black dress . `[例]`
+> - What are you wearing to Caroline's wedding ? `[例]`
+> - Some musicians don't like to wear rings when they're playing . `[例]`
+> - He wears glasses for reading . `[例]`
 
 ---
 

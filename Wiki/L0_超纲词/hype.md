@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大肆宣传，炒作**== `media hype` [口语] `the hype around sth` [口语]；②（皮下）注射器（俚语）；③兴奋，刺激 `live up to the hype` [口语]；
-**v.** ①大肆宣传，炒作 `hype sth up` [口语]；
+**n.** ①==**大肆宣传，炒作**== `N`；②==**（皮下）注射器（俚语）**== `N`；③==**兴奋，刺激**== `N`；
+**v.** ①==**大肆宣传，炒作**== `V`；
 
 > [!tip] 原型义
 > **原型义**：过度夸张的宣传（1960年代，源自 hyperbole 夸张法的缩略，也与 hypodermic 皮下注射器有关）
@@ -132,9 +132,8 @@ hyper-(=over/above, 过度，希腊语前缀) 的缩略形式
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - There has been a lot of hype around artificial intelligence, but not all of it is justified. `[例]`
-> - The product failed to live up to the hype and disappointed many consumers. `[例]`
-> - The studio spent millions on marketing to hype up the film before its release. `[例]`
+> - There's been a lot of hype around his latest film . `[例]`
+> - With all the hype surrounding the star player , she will be watched especially closely at the start of the season . `[例]`
 
 ## 复习记录
 

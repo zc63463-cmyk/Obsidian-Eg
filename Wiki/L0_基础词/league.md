@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The League of Nations was an international organization established after World War I."（国联是第一次世界大战后成立的国际组织。——通用例句）
-> - "They are not in the same league."（他们的水平有高低，不可同日而语。——通用例句）
+> - Who do you think will win the league championship this year ? `[例]`
+> - Liverpool were top of the Football League that year . `[例]`
+> - The team rose to the top of the league last year , and hopes to repeat the feat this year . `[例]`
 
 
 ---

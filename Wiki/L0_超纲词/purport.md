@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**声称，标榜**==（常暗示实际未必如此）；②意指，意图；
-**n.** ①意义，要旨；②意图，目的；
+**v.** ①==**声称，标榜**== `V`（常暗示实际未必如此）；②==**意指，意图**== `V`；
+**n.** ①==**意义，要旨**== `N`；②==**意图，目的**== `N`；
 
 > [!tip] 原型义
 > **原型义**：以某种目的展示出来（把某事以特定面貌呈现给他人）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The document purports to be an official government report, but experts have identified several inconsistencies.（这份文件声称是官方政府报告，但专家发现了多处不一致。）
-> - The purport of his speech was that the company needed to undergo significant changes.（他演讲的要旨是公司需要进行重大变革。）
+> - They purport to represent the wishes of the majority of parents at the school . `[例]`
+> - The study purports to show an increase in the incidence of the disease . `[例]`
 
 ## 复习记录
 

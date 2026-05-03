@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rapid development of artificial intelligence and machine learning technologies has fundamentally transformed the way businesses operate and make decisions."（人工智能和机器学习技术的快速发展从根本上改变了企业的运营和决策方式——考研阅读科技话题相关表达）
-> - "The bureaucratic machine of the government often moves too slowly to respond effectively to emerging crises and public needs."（政府的官僚机构往往运转过慢，无法有效应对新兴危机和公众需求——考研翻译政治话题相关表达）
+> - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
+> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
+> - The different sizes of eggs are sorted by a machine. `[例]`
 
 
 ---

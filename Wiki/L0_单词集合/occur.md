@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**发生，出现**==；②==**被想到，被想起**==（to sb.）；
+**vi.** ①==**发生，出现**== `V`；②==**被想到，被想起**== `V`（to sb.）；
 
 > [!tip] 原型义
 > **原型义**：跑过来迎面相遇（源自拉丁语 *occurrere*，oc- "朝向" + currere "跑"）
@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "it never occurred to me that..."（我从没想过……）——考研阅读/翻译中常见句式
-> - "The accident occurred at..."（事故发生在……）——新闻/叙事类语料
-> - "occur frequently in nature"（在自然界中频繁发生）——科普类阅读
-> - "problems that occur as a result of..."（因……而产生的问题）——因果论证类语料
+> - An accident involving over ten vehicles has occurred in the east-bound lane . `[例]`
+> - If any of these symptoms occur while you are taking the medication , consult your doctor immediately . `[例]`
+> - Violence of some type seems to occur in every society . `[例]`
+> - Minerals occur naturally in the earth's crust . `[例]`
 
 ---
 

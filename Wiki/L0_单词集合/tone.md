@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tone of his speech was unexpectedly conciliatory."（他演讲的语气出人意料地具有和解意味。）——考研高频表达
-> - "The overall tone of the article was critical of government policy."（文章的整体基调是对政府政策持批评态度。）——考研高频表达
+> - I tried to use a sympathetic tone of voice . `[例]`
+> - It wasn't so much what she said that annoyed me - it was her tone. `[例]`
+> - She recounted the story to me in shocked tones (= in a shocked voice ) . `[例]`
 
 ---
 

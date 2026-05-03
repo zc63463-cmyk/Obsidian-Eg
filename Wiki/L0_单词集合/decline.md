@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company reported a significant decline in revenue this year."（该公司报告今年收入大幅下降）——经济/商业类阅读常见表达
-> - "She politely declined the offer, stating that she needed more time to consider."（她礼貌地婉拒了提议，表示需要更多时间考虑）——decline 作"婉拒"的典型用法
+> - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
+> - His interest in the project declined after his wife died . `[例]`
+> - The party's popularity has declined in the opinion polls . `[例]`
 
 ---
 

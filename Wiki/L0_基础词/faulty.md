@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conduct of monetary policy has been compared to driving a car with a blackened windscreen, a faulty steering wheel and a faulty speedometer."（货币政策的执行被比作驾驶一辆挡风玻璃被涂黑、方向盘和速度计都有故障的汽车——1997年考研英语阅读，faulty 修饰具体设备缺陷）
-> - "Their interpretation was faulty—they had misinterpreted things."（他们的解释是错误的——他们曲解了事物——六级阅读，faulty 修饰抽象判断）
+> - His arguments were based on faulty reasoning . `[例]`
+> - The company recalled over 500,000 cars last year because of a faulty connection in their new model . `[例]`
+> - The verdict was based on faulty reasoning on the part of the jury . `[例]`
 
 
 ---

@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The total solar eclipse was a magnificent spectacle that attracted millions of viewers from around the world."（日全食是一场壮观的奇观，吸引了来自世界各地的数百万观众。——考研英语阅读科学类话题）
-> - "The politician made a spectacle of himself during the debate by losing his temper and shouting at the moderator."（这位政治家在辩论中大发脾气并对主持人怒吼，让自己出了洋相。——考研英语阅读政治类话题，make a spectacle of oneself 高频表达）
+> - It was a strange spectacle to see the two former enemies shaking hands and slapping each other on the back. `[例]`
+> - We witnessed the extraordinary spectacle of an elderly lady climbing a tree to rescue her cat . `[例]`
+> - The carnival was a magnificent spectacle. `[例]`
 
 
 ---

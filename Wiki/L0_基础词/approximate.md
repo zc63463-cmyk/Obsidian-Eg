@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The approximate cost of the project is $10 million."（该项目的估计费用约为1000万美元。）
-> - "The figure approximates to the actual number."（这个数字接近实际数量。）
+> - The train's approximate time of arrival is 10.30. `[例]`
+> - The approximate cost will be about $600. `[例]`
+> - Can you give me an approximate idea of the numbers involved ? `[例]`
 
 
 ---

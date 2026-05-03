@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Renaissance was a splendid period in European history, characterized by extraordinary achievements in art, science, and human thought."（文艺复兴是欧洲历史上一个辉煌的时期，以艺术、科学和人类思想方面的非凡成就为特征——考研阅读历史话题相关表达）
-> - "Despite the splendid technological advances of the modern era, many scholars argue that we have not made corresponding progress in moral and ethical development."（尽管现代时代取得了辉煌的技术进步，许多学者认为我们在道德和伦理发展方面并未取得相应的进步——考研阅读科技与人文话题相关表达）
+> - Our splendid weather ended with a terrible storm . `[例]`
+> - The splendid old opera house was torn down. `[例]`
+> - The hotel stands in splendid isolation , surrounded by moorland. `[例]`
 
 
 ---

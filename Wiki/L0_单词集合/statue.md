@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A bronze statue of the former president was erected in the city square."（一座前总统的铜像被竖立在城市广场上。）——考研高频表达
-> - "The statue has become a symbol of freedom and democracy."（这座雕像已成为自由和民主的象征。）——考研高频表达
+> - In the centre of the hall stood a colossal wooden statue, decorated in ivory and gold . `[例]`
+> - A statue has been built to commemorate the 100th anniversary of the poet's birthday . `[例]`
+> - A statue was erected to glorify the country's national heroes . `[例]`
 
 ---
 

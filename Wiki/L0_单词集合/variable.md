@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the weather is highly variable in this region"（该地区天气变化无常）——考研阅读常见搭配
-> - "researchers controlled for all relevant variables"（研究人员控制了所有相关变量）——学术类阅读
-> - "variable interest rates"（浮动利率）——经济/商务类阅读
+> - British weather is perhaps at its most variable in the spring . `[例]`
+> - The variables in the equation are X, Y, and Z. `[例]`
+> - The data was analysed according to neighbourhoods , but other key variables like credit rating and marital status were ignored altogether . `[例]`
 
 ---
 

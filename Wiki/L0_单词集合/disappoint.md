@@ -126,8 +126,9 @@ dis-(剥夺/取消) + [[cover|appoint]](任命/约定) → 取消约定
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The election results disappointed many voters who had hoped for change."（选举结果令许多希望变革的选民感到失望。）——考研高频表达
-> - "She was deeply disappointed by the company's decision to cancel the project."（她对该公司取消项目的决定深感失望。）——考研高频表达
+> - We don't want to disappoint the fans . `[例]`
+> - I hate to disappoint you, but we don’t have the book you wanted . `[例]`
+> - Getting a B for that essay really disappointed me, as I was hoping for an A. `[例]`
 
 ---
 

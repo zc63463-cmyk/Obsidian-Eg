@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What motivates employees to work harder is not just money, but also a sense of purpose."（激励员工更加努力工作的不仅是金钱，还有目标感）
-> - "Extrinsic rewards such as bonuses can motivate short-term behavior but may undermine intrinsic motivation."（奖金等外在奖励能激励短期行为，但可能削弱内在动机）
+> - Like so many people , he's motivated by greed . `[例]`
+> - He is genuinely motivated by a desire to help people . `[例]`
+> - Teaching is all about motivating people to learn . `[例]`
 
 
 ---

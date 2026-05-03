@@ -130,8 +130,9 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Small businesses are facing stiff competition from large multinational corporations."（小企业正面临来自大型跨国公司的激烈竞争）
-> - "The government imposed stiff penalties on companies that violated environmental regulations."（政府对违反环保法规的公司实施了严厉的处罚）
+> - His clothes were stiff with dried mud . `[例]`
+> - This hair spray has made my hair stiff. `[例]`
+> - The handle on this door is rather stiff. `[例]`
 
 
 ---

@@ -135,8 +135,9 @@ hook（古英语 *hōc* "钩子"，源自原始日耳曼语 *\*hōkaz*，与德�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The first few sentences of an essay should hook the reader's attention."（一篇文章的前几句话应该钩住读者的注意力。——考研英语写作相关语料）
-> - "He managed to get himself off the hook by proving his innocence."（他通过证明自己的清白成功地使自己摆脱了困境。——考研相关语料）
+> - There were four coat hooks next to the door . `[例]`
+> - Standard picture hooks won't hold a heavy mirror . `[例]`
+> - We pulled the little boat towards us with a boat hook. `[例]`
 
 
 ---

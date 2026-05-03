@@ -138,8 +138,9 @@ af-(=ad-, 向，朝向) + [[flu|flu-]](流动，拉丁语 *fluere*) + -ent(形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's a fallacy that the affluent give relatively more to charity than the less prosperous."（富人比穷人对慈善事业的捐助更多些；这种观点是一种谬见。——考研阅读相关话题）
-> - "The study shows that children from affluent backgrounds tend to perform better in school."（研究表明来自富裕家庭的孩子往往在学校表现更好。——考研阅读相关话题）
+> - The store will benefit from its base of affluent customers to whom various other products will be sold in due course . `[例]`
+> - Some have argued that ethical food is a sign of an affluent society with a lot of time . `[例]`
+> - The store catered to a mostly affluent clientele that was relatively price insensitive, so we could afford to pay our suppliers a premium for the very best fish. The shop also developed a significant wholesale business, and soon the great and the good of London gastronomy were flocking to our door. `[例]`
 
 
 ---

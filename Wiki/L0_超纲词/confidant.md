@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**知己，心腹**== `a close/trusted confidant` `confidant of N` [正式]；②可以倾诉秘密的人 `become a confidant to N` [正式]；
+**n.** ①==**知己，心腹**== `N`；②==**可以倾诉秘密的人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：完全信任的人（可以倾诉秘密的人）
@@ -122,8 +122,8 @@ con-（完全）+ [[fid]]（信任，拉丁语 *fidere*，信任）+ -ant（人�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She served as the queen's closest confidant for over twenty years. `[例]`；
-> - He had no confidant to share his deepest concerns with during that difficult period. `[例]`；
+> - Her brother is her closest confidant. `[例]`
+> - He had no confidant to share his deepest concerns with. `[例]`
 
 ## 复习记录
 

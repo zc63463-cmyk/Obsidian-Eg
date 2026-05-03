@@ -133,8 +133,9 @@ flare 源自古英语 *flær*（摇曳的光），与拉丁语 *flagrare*（燃�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Tensions between the two communities flared up again over the weekend, resulting in several clashes between rival groups."（两个社区之间的紧张局势在周末再次突然加剧，导致对立群体之间发生了数起冲突——考研阅读社会话题相关表达）
-> - "The old inflammation flared up unexpectedly, forcing the athlete to withdraw from the competition just days before the event."（旧伤炎症意外突然发作，迫使这名运动员在比赛前几天退出了赛事——考研翻译健康话题相关表达）
+> - The flame above the oil well flared up into the dark sky . `[例]`
+> - New fires flared and people were told to leave their homes . `[例]`
+> - Violence flared up again last night . `[例]`
 
 
 ---

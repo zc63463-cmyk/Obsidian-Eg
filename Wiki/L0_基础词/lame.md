@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government's lame excuse for not addressing the environmental crisis has drawn sharp criticism from both domestic and international observers."（政府不应对环境危机的蹩脚借口遭到了国内外观察家的尖锐批评——考研阅读环保政策话题相关表达）
-> - "During the lame-duck period, the outgoing president found it increasingly difficult to push through any meaningful legislation."（在跛脚鸭时期，即将卸任的总统发现越来越难以推动任何有意义的立法——考研翻译政治话题相关表达）
+> - Saying she’d lost her homework was a pretty lame excuse , if you ask me. `[例]`
+> - My horse had gone lame. `[例]`
+> - The humour is more lame than funny. `[例]`
 
 
 ---

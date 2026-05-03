@@ -127,8 +127,9 @@ em-（加强形式）+ pir（源自希腊语 *peira* = trial, attempt，尝试�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The second, by Joshua Greenberg, takes a more empirical approach to universality, identifying traits (particularly in word order) shared by many languages, which are considered to represent biases that result from cognitive constraints."（第二项研究由 Joshua Greenberg 进行，采取了更为实证的方法来研究语言的普遍性，找出了许多语言共有的特征——2012年考研英语翻译49题）
-> - "Empirical evidence suggests that sleep deprivation has a direct negative impact on cognitive function."（实证证据表明，睡眠不足对认知功能有直接的负面影响——学术语境高频表达）
+> - This theory needs to be backed up with solid empirical evidence . `[例]`
+> - Empirical studies show that some forms of alternative medicine are extremely effective . `[例]`
+> - We have no empirical evidence that the industry is in trouble . `[例]`
 
 
 ---

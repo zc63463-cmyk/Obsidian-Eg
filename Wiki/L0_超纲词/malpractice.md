@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**玩忽职守，失职**== `N` [法律]；②==**医疗事故，不法行为**== `N` [医学/法律]；
+**n.** ①==**玩忽职守，失职**== `N`；②==**医疗事故，不法行为**== `N`；
 
 > [!tip] 原型义
 > **原型义**：不良的执业行为（专业人员违反职业操守的行为）
@@ -119,8 +119,8 @@ mal-（坏，不良）+ [[pract-prag|pract]]（实践，执业）+ -ice（名词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` The doctor was sued for malpractice after the patient suffered complications from the surgery.`` [C]
-> - `` `[例]` The hospital carries malpractice insurance to protect its physicians against potential lawsuits.`` [C]
+> - Scopus itself has all the data necessary to detect this malpractice. `[真题]`
+> - He was sued for medical malpractice. `[例]`
 
 ## 复习记录
 

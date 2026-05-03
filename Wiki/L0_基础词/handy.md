@@ -125,8 +125,9 @@ handy = hand（手）+ -y（形容词后缀，表示"具有……特征的"）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A pocket calculator is a handy device for students."（袖珍计算器对学生来说是个方便的工具——常见英语学习表达，handy device 为高频搭配）
-> - "Keep this guide handy; you may need it at any time."（把这本指南放在手边，你随时可能用到——强调 handy "手边的"这一空间含义）
+> - First-time visitors to France will find this guide particularly handy. `[例]`
+> - The shed has a shelf that is handy for storing small items . `[例]`
+> - It's a nice house and it's handy for (= near) the train station . `[例]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**塞进，卷起**==；②把……塞入隐蔽处；③大吃（tuck in）；
-**n.** ①（衣服的）褶子，缝褶；②美食（英式，tuck in）；
+**v.** ①==**塞进，卷起**== `V`；②==**把……塞入隐蔽处**== `V N`；③==**大吃（tuck in）**== `V`；
+**n.** ①==**（衣服的）褶子，缝褶**== `N`；②==**美食（英式，tuck in）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：拉扯塞入（把东西拉到某个位置塞好）
@@ -125,7 +125,9 @@ tuck 源自古英语 *tūcian*（折磨、拉扯），可能与中古低地德�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She tucked the letter into her pocket before anyone could notice.（她在任何人注意到之前把信塞进了口袋。）
+> - Should I tuck my shirt into my trousers ? `[例]`
+> - He tucked the bottom of the sheet under the mattress . `[例]`
+> - Tuck your gloves in your pocket so that you don't lose them. `[例]`
 
 
 ---

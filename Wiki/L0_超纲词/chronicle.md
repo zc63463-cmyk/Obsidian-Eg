@@ -128,8 +128,8 @@ chron（时间，希腊语 *khronos*）+ -icle（名词后缀，表示"小事物
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The book chronicles the rise and fall of the Roman Empire. `[例]`
-> - The chronicles of medieval Europe provide valuable insights into daily life. `[例]`
+> - The book chronicles the writer's coming to terms with his illness . `[例]`
+> - This book is the most eloquent chronicle of an empire’s downfall that I have seen . `[例]`
 
 ## 复习记录
 

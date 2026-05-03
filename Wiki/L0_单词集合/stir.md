@@ -132,8 +132,9 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president's controversial remarks stirred a heated debate across the nation."（总统的争议性言论在全国范围内引发了激烈辩论。）——考研高频表达
-> - "The discovery of the new element stirred great excitement in the scientific community."（新元素的发现在科学界引起了极大的兴奋。）——考研高频表达
+> - Stir the sauce gently until it begins to boil . `[例]`
+> - Stir the egg yolks into the mixture . `[例]`
+> - She paused to stir some milk into her coffee . `[例]`
 ---
 
 

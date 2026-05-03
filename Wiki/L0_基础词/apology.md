@@ -125,8 +125,9 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company issued a public apology for the environmental damage."（公司为环境破坏发表了公开道歉——考研翻译常见话题）
-> - "He owes his colleagues an apology for his rude behavior."（他因粗鲁行为欠同事们一个道歉——考研阅读常见表达）
+> - I have an apology to make to you - I'm afraid I opened your letter by mistake . `[例]`
+> - He's demanding a full apology from the newspaper for making untrue allegations about his personal life . `[例]`
+> - She complained to the company and they sent her a written apology. `[例]`
 
 
 ---

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**平衡力，制衡因素**== `a counterbalance to` [正式]；②==**抵消的力量**== `serve as a counterbalance` [正式]；
-**v.** ①==**使平衡，抵消**== `V N` [正式] `counterbalance the effects` [书面]；
+**n.** ①==**平衡力，制衡因素**== `N`；②==**抵消的力量**== `N`；
+**v.** ①==**使平衡，抵消**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：反方向加重量使天平平衡
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - A free press serves as a crucial counterbalance to government power. `[例]`
-> - The benefits of the new policy counterbalance the potential risks involved. `[例]`
+> - The ugliness of the resort is counterbalanced by the excellence of the skiing . `[例]`
+> - Her calm nature served as a natural counterbalance to his excitable personality . `[例]`
 
 ## 复习记录
 

@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "diffuse knowledge/information"（传播知识/信息）——考研阅读中科技传播类话题常见搭配
-> - "diffuse light"（漫射光）——考研阅读中自然科学类文章可能涉及
-> - "diffuse tension/conflict"（缓和紧张/冲突）——考研阅读中政治社会类文章常见搭配
+> - Television is a powerful means of diffusing knowledge . `[例]`
+> - Oxygen diffuses from the lungs into the bloodstream . `[例]`
+> - The drop of red dye diffused slowly in the water . `[例]`
 
 ---
 

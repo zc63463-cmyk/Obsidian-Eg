@@ -132,8 +132,9 @@ air（空气，天空）+ craft（手艺，器物，船）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was credited with shooting down 11 German aircraft, possibly as many as 17, and damaging many more."（他被认定击落了11架德国飞机，可能多达17架，还击伤了更多——The Sunday Times, 2015）
-> - "Passengers seated there are considered part of the aircraft's emergency response and are expected to assist if needed."（坐在那里的乘客被视为飞机应急响应的一部分，在需要时被期望提供协助——Merriam-Webster 例句）
+> - Captain Firth sat at the controls of the aircraft. `[例]`
+> - The airline is taking steps to ensure safety on its aircraft. `[例]`
+> - Please remember to take all your personal possessions with you when you leave the aircraft. `[例]`
 
 
 ---

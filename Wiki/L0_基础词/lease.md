@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Our present lease on the flat expires next month."（我们这套公寓的租约下月到期。——通用例句）
-> - "The building's 60 units are currently leased to students of the university."（这栋楼的60个单元目前租给了这所大学的学生。——通用例句）
+> - The building's 60 units are currently leased to students of the university . `[例]`
+> - He has the house on a long lease. `[例]`
+> - We signed a three-year lease when we moved into the house . `[例]`
 
 
 ---

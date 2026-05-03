@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A typical working day in the office involves meetings, emails, and phone calls."（办公室的典型工作日包括会议、电子邮件和电话。）——考研高频表达
-> - "It is typical of him to arrive late for meetings."（开会迟到是他的典型表现。）——考研高频表达
+> - I must look like the typical tourist with my shorts and my camera . `[例]`
+> - This kind of hot and spicy food is very typical of the food in the south of the country . `[例]`
+> - Typical symptoms would include severe headaches , vomiting and dizziness . `[例]`
 
 ---
 

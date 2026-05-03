@@ -134,8 +134,9 @@ praise(称赞/赞扬，古法语 *prisier*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The novel won high praise from literary critics for its profound exploration of human nature."（这部小说因对人性深刻的探索而赢得了文学评论家的高度赞扬。——考研英语阅读文学类话题）
-> - "The government was widely praised for its swift response to the natural disaster."（政府因对自然灾害的迅速反应而受到广泛赞扬。——考研英语阅读社会类话题）
+> - He should be praised for his honesty . `[例]`
+> - My parents always praised me when I did well at school . `[例]`
+> - He was highly praised for his research on heart disease . `[例]`
 
 
 ---

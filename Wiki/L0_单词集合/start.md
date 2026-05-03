@@ -141,8 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The start of the new semester brings both excitement and anxiety for students."（新学期的开始给学生带来了兴奋和焦虑。）——考研高频表达
-> - "She decided to start her own business after years of working for others."（在为别人工作多年后，她决定创办自己的企业。）——考研高频表达
+> - A. talking B. starting C. breaking 11. `[真题]`
+> - We'll be starting (the session ) at six o'clock. `[例]`
+> - Can you start (= begin a new job ) on Monday ? `[例]`
 
 ---
 

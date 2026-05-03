@@ -134,8 +134,9 @@ sub-(在下) + 建议创建词根笔记 [[mit]](送，派) = 从下方送上去
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All students are required to submit their essays by the end of the month."（所有学生必须在月底前提交论文。）——考研高频表达
-> - "The committee has submitted a report to the government on environmental protection."（委员会已向政府提交了一份关于环境保护的报告。）——考研高频表达
+> - You must submit your application before 1 January . `[例]`
+> - The developers submitted building plans to the council for approval . `[例]`
+> - In conclusion , I submit that the proposal will not work without some major changes . `[例]`
 
 ---
 

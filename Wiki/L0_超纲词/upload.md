@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**上传，上传（数据）**==；
-**n.** ①上传的数据/文件；
+**v.** ①==**上传，上传（数据）**== `V`；
+**n.** ①==**上传的数据/文件**== `N`；
 
 > [!tip] 原型义
 > **原型义**：向上装载（up-向上 + load装载 → 向上装载数据）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Users can upload their documents to the cloud and access them from any device.（用户可以将文档上传到云端，并从任何设备访问它们。）
-> - The platform allows creators to upload videos up to 10 minutes in length.（该平台允许创作者上传最长10分钟的视频。）
+> - I uploaded the file as soon as I had finished working on it. `[例]`
+> - With the press of a single button , you can upload information to a server . `[例]`
 
 ## 复习记录
 

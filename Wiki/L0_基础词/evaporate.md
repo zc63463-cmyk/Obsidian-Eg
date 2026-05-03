@@ -128,8 +128,9 @@ e-(=ex-, 出) + vapor(蒸汽，源自拉丁语 *vapor*) + -ate(动词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The morning dew evaporates quickly under the sun."（晨露在阳光下迅速蒸发。）
-> - "His confidence evaporated when he saw the exam paper."（当他看到试卷时，信心全无。）
+> - The high concentration of sugars forms a syrup when the sap evaporates. `[例]`
+> - Plants keep cool during the summer by evaporating water from their leaves . `[例]`
+> - Halfway through the movie reality evaporates and we enter a world of pure fantasy . `[例]`
 
 
 ---

@@ -124,8 +124,9 @@ arbiter(仲裁人，拉丁语 *arbiter*，源自 *ad-* + *bitr-* "见证人") + 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rules are arbitrary and capricious."（这些规则是武断且反复无常的——法律语境高频表达）
-> - "No arbitrary interference with privacy."（不得任意干涉隐私——人权法律语境）
+> - Did you have a reason for choosing your destination or was it arbitrary? `[例]`
+> - The company has been the subject of an arbitrary take-over. `[例]`
+> - Her outfit was an arbitrary choice but was just perfect . `[例]`
 
 
 ---

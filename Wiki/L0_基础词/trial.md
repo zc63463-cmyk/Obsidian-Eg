@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**审判，审讯**==；②试验，试用；③考验，磨难；
+**n.** ①==**审判，审讯**== `N`；②==**试验，试用**== `N`；③==**考验，磨难**== `N`；
 **adj.** 试用的，试验性的；
 
 > [!tip] 原型义
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The defendant stood trial on charges of corruption."（被告因腐败指控受审。）
-> - "Life is full of trials and tribulations."（人生充满了考验与磨难。）
+> - Trial by jury is a fundamental right . `[例]`
+> - It was a very complicated trial that went on for months . `[例]`
+> - They're doing clinical trials on a new drug . `[例]`
 
 
 ---

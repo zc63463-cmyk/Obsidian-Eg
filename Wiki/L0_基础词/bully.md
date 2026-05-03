@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恃强凌弱者，欺凌者**== `N that/who V`；
-**v.** ①==**欺凌，恐吓**== `V N`；②==**威逼（某人做某事）**== `V N into doing`；
+**n.** ①==**恃强凌弱者，欺凌者**==；
+**v.** ①欺凌，恐吓；②威逼（某人做某事）；
 
 > [!tip] 原型义
 > **原型义**：情人/哥哥（从中性到贬义的语义演变）
@@ -128,10 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - School bullying has become a serious social issue that requires immediate attention. `[COCA-ACAD]`
-> - She felt that he had bullied her into the engagement. `[COCA-FICT]`
-> - Don't let anyone bully you into doing something you don't want to do. `[COCA-MAG]`
-> - He has a strong personality, but don't let him bully you. `[COCA-SPOK]`
+> - Bully dogs are all descendants from the same type of dog . `[例]`
+> - A Staffordshire Bull Terrier is one of the smaller of the recognized bully breeds . `[例]`
+> - Klein won the bully at the start of the game and the Eagles scored the first goal within two minutes . `[例]`
 
 
 ---

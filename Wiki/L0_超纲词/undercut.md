@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**削弱，破坏**==；②以低于（竞争对手）的价格出售；③ undercut（过去式/过去分词同形）；
-**n.** ① undercut：底切， undercut 价格；
+**v.** ①==**削弱，破坏**== `V N`；②==**以低于（竞争对手）的价格出售**== `V N`；③==**undercut（过去式/过去分词同形）**== `V N`；
+**n.** ①==**undercut：底切， undercut 价格**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：从下面切（在底部切割）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The new evidence undercut the prosecution's case."（新证据削弱了控方的案件。）
-> - "Cheap imports undercut domestic manufacturers."（廉价进口商品以低价冲击国内制造商。）
+> - Big supermarkets can undercut all rivals , especially small family-owned shops . `[例]`
+> - They claim to undercut their competitors by at least five percent . `[例]`
 
 ## 复习记录
 

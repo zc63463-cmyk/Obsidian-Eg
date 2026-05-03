@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不受欢迎的，令人不快的**==；②不合意的，不想要的；③可能引起麻烦的；
-**n.** ①不受欢迎的人（或事物）；
+**adj.** ①==**不受欢迎的，令人不快的**== `adj`；②==**不合意的，不想要的**== `adj`；③==**可能引起麻烦的**== `adj`；
+**n.** ①==**不受欢迎的人（或事物）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：不想要的（不希望得到的）
@@ -128,8 +128,8 @@ un-(不，否定前缀) + [[desir|desire]](渴望/想要) + -able(可被...的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The merger could have undesirable consequences for employees."（这次合并可能会给员工带来不受欢迎的后果。）
-> - "The government took measures to eliminate undesirable elements from the neighborhood."（政府采取措施清除该社区的不良分子。）
+> - Houses near industrial sites often do not sell so quickly because they are regarded as undesirable. `[例]`
+> - It would be highly undesirable to increase class sizes further. `[例]`
 
 ## 复习记录
 

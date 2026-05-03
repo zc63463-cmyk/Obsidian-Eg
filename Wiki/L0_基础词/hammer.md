@@ -128,8 +128,9 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The teacher hammered home the importance of regular practice."（老师反复强调了定期练习的重要性——hammer home 为考研写作可用搭配）
-> - "The painting went under the hammer at Christie's auction house."（这幅画在佳士得拍卖行被拍卖——go under the hammer 为地道表达）
+> - She qualified for the women's hammer final . `[例]`
+> - Can you hold this nail in position while I hammer it into the door ? `[例]`
+> - I could hear you hammering upstairs . `[例]`
 
 
 ---

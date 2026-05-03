@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Well, if this were true, we would all be slipping a few 100-dollar bills to our doctors on the way out their doors, too."（好吧，如果这是真的，那我们大家在出门时也都会悄悄塞给医生几张百元大钞了。——考研真题阅读）
-> - "I was starting to feel like my whole world was falling apart — kind of slipping into a depression," said Carla.（Carla 说："我开始觉得我的整个世界都在崩塌——有点滑入抑郁之中。"——考研真题语料）
-> - "In writing about their own experiences many applicants slip into clichés."（在写自己的经历时，许多申请者会不知不觉陷入老生常谈。——考研真题阅读）
+> - She slipped on the ice . `[例]`
+> - Careful you don't slip - there's water on the floor . `[例]`
+> - The razor slipped while he was shaving and he cut himself. `[例]`
 
 
 ---

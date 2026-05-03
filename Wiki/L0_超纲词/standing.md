@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**地位，名望**==；②（法律）身份，资格；
-**adj.** ①==**长期存在的，持续有效的**==；②（常作前置定语）固定的，常设的；
-**v.** ①（stand 的现在分词）站立；
+**n.** ①==**地位，名望**== `N`；②==**（法律）身份，资格**== `N`；
+**adj.** ①==**长期存在的，持续有效的**== `adj`；②==**（常作前置定语）固定的，常设的**== `adj`；
+**v.** ①==**（stand 的现在分词）站立**== `V`；
 
 > [!tip] 原型义
 > **原型义**：一直站立着的状态（从"站着"延伸为"持续存在"和"社会地位"）
@@ -133,7 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She is a lawyer of high standing in the legal community."（她是法律界地位很高的律师。）
+> - As a pathologist of considerable standing, his opinion will have a lot of influence . `[例]`
+> - A financial scandal would shake the Institute's standing in the international academic community . `[例]`
 
 ## 复习记录
 

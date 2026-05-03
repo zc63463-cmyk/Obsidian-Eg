@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**供应，供给**==；②==**规定，条款**==；③（pl.）给养，口粮；
-**v.** ①供给，提供；
+**n.** ①==**供应，供给**== `N`；②==**规定，条款**== `N`；③==**（pl.）给养，口粮**== `N`；
+**v.** ①==**供给，提供**== `V`；
 
 > [!tip] 原型义
 > **原型义**：提前看到并准备（源自拉丁语 *provisio*，pro-提前 + videre-看见）
@@ -130,8 +130,9 @@ pro-(提前/向前) + [[vis-vid|vis-]](看见，拉丁语 *videre*) + -ion(名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The contract contains a provision for early termination."（合同中包含提前终止的条款。）
-> - "The provision of healthcare remains a major challenge in rural areas."（在农村地区，医疗保健的供应仍然是一个重大挑战。）
+> - The provision of good public transport will be essential for developing the area . `[例]`
+> - Of course there's provision in the plan for population increase . `[例]`
+> - When designing buildings in this area , you have to make provision against earthquakes . `[例]`
 
 
 ---

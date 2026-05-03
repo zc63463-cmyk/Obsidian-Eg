@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**明显的，显而易见的**==；②==**显然的，不言而喻的**==；
+**adj.** ①==**明显的，显而易见的**== `adj`；②==**显然的，不言而喻的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：就在路上（因为位置/关系太近而无法忽视）
@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The impact of technology on education has become increasingly obvious."（考研英语——技术对教育的影响已经变得越来越明显）
-> - "It is obvious that regular exercise is beneficial to health."（CET-4——显然，规律运动对健康有益）
-> - "The obvious solution to the problem was overlooked by everyone."（CET-6——这个问题的明显解决方案被所有人忽略了）
+> - It 's obvious (that) she doesn't like him. `[例]`
+> - They have a small child so for obvious reasons they need money . `[例]`
+> - I know you don't like her, but do you have to make it so obvious? `[例]`
 
 ---
 

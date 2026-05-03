@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**胫，小腿前侧**==；②（牛羊的）小腿肉；
-**v.** ①==**攀爬（靠手脚并用沿垂直面爬上）**==；②==**快步跑，疾走**==；
+**n.** ①==**胫，小腿前侧**== `N`；②==**（牛羊的）小腿肉**== `N`；
+**v.** ①==**攀爬（靠手脚并用沿垂直面爬上）**== `V`；②==**快步跑，疾走**== `V`；
 
 > [!tip] 原型义
 > **原型义**：小腿前侧的骨骼（胫骨所在的位置）
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He shinned up the drainpipe to reach the second-floor window."（他顺着排水管攀爬到二楼窗户。）
-> - "Football players wear shin guards to protect their lower legs."（足球运动员戴护腿板来保护小腿。）
+> - She has a nasty bruise on her shin. `[例]`
+> - Several of us shinned up lampposts so that we could see over the crowd . `[例]`
 
 ## 复习记录
 

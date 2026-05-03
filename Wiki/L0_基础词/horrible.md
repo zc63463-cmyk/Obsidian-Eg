@@ -127,8 +127,9 @@ horrible（中古英语，源自古法语 *horrible*，源自拉丁语 *horribil
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The accident was a horrible tragedy that could have been prevented."（那场事故是一场本可避免的可怕悲剧。——考研英语阅读相关语料）
-> - "She had a horrible feeling that something was about to go wrong."（她有一种不祥的预感，觉得有什么事情要出岔子。——考研相关语料）
+> - He's got a horrible cold . `[例]`
+> - What's that horrible smell ? `[例]`
+> - That was a horrible thing to say! `[例]`
 
 
 ---

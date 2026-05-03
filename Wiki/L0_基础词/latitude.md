@@ -124,8 +124,9 @@ lat-（宽的，源自拉丁语 *latus*，宽的）+ -itude（名词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the middle to high latitudes rainfall has risen steadily over the last 20-30 years."（中高纬度地区的降雨量在过去的20到30年间稳步上升了——通用地理类语料）
-> - "Most oceanic islands are similar to one another in latitude and contain plants and animals typical of tropical islands."（大多数海洋岛屿在纬度上彼此相似，并含有热带岛屿典型的动植物——通用语料）
+> - At these latitudes the sun does not rise at all on winter days . `[例]`
+> - Courts can show a considerable degree of latitude when it comes to applying the law . `[例]`
+> - Judges now have considerable latitude in sentencing . `[例]`
 
 
 ---

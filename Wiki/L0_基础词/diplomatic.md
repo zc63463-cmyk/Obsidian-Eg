@@ -126,7 +126,9 @@ dipl(o)-(双/折叠) + mat(人/做) + -ic(形容词后缀，…的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two countries established diplomatic relations after years of negotiation.（两国经过多年谈判建立了外交关系——考研翻译高频话题）
+> - Ask him nicely - be diplomatic. `[例]`
+> - He began the diplomatic discussions that resulted in the establishment of NATO . `[例]`
+> - Lawyers should be diplomatic in dealing with a judge . `[例]`
 
 
 ---

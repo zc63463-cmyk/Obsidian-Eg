@@ -128,8 +128,9 @@ near（近的）+ by（在……旁边）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I noticed a policeman standing nearby."（我注意到有一名警察站在近旁。——Cambridge Dictionary）
-> - "We stopped at some nearby shops to buy some food."（我们在附近的一些商店停下来买了些吃的。——Cambridge Dictionary）
+> - If there's a café nearby, we could stop for a snack . `[例]`
+> - I noticed a policeman standing nearby. `[例]`
+> - We stopped at some nearby shops to buy some food . `[例]`
 
 
 ---

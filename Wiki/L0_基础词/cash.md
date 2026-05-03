@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consumers are increasingly choosing to pay in cash rather than by credit card."（消费者越来越倾向于用现金而非信用卡支付。——考研阅读经济类）
-> - "The company is facing a severe cash flow problem."（公司正面临严重的现金流问题。——红宝书考研词汇例句）
+> - Will you pay by credit card or in cash? `[例]`
+> - I'm a bit strapped for cash (= I do not have much money ) at the moment . `[例]`
+> - Do you have any cash on you? `[例]`
 
 
 ---

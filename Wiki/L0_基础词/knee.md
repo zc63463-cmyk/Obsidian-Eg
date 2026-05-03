@@ -125,8 +125,9 @@ knee（日耳曼语族原始词，原始印欧语 *genu* "膝盖"，与拉丁语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The strikes had brought the economy to its knees."（罢工使经济陷入瘫痪。——考研阅读常见表达）
-> - "They could bring a troublesome boss to his knees by threatening to withdraw their labor."（他们可以通过威胁罢工来使一个难缠的老板屈服。——考研翻译类表达）
+> - The baby was crawling around on her hands and knees. `[例]`
+> - She took the child and sat it on her knee (= on the part of the leg above the knee when sitting down) . `[例]`
+> - She was wearing an old pair of trousers with rips at the knees. `[例]`
 
 
 ---

@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "universal truth"（普遍真理）——考研阅读哲学/科学类文章常见搭配
-> - "universally acknowledged"（普遍公认的）——学术类阅读，描述共识
-> - "a universal concern"（全球关注的问题）——社会类阅读，描述全球性问题
+> - Food, like sex , is a subject of almost universal interest . `[例]`
+> - The new reforms have not met with universal approval within the party . `[例]`
+> - Congress rejected the proposal for universal health insurance . `[例]`
 
 ---
 

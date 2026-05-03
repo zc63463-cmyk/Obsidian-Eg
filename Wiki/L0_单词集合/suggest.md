@@ -123,9 +123,9 @@ sug-（sub- 在 g 前的同化：从下方）+ gest（带来，[[fer|fer]] 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The research suggests that regular exercise can significantly reduce the risk of heart disease. `[例]`
-> - I suggest we start the meeting early to avoid the rush hour. `[例]`
-> - "The evidence suggests that the policy has had a positive impact on economic growth."（证据表明该政策对经济增长产生了积极影响——考研高频表达）
+> - I suggested an Italian restaurant near the station for the party . `[例]`
+> - Might I suggest a white wine with your salmon , sir ? `[例]`
+> - I suggest (that) we wait a while before we make any firm decisions . `[例]`
 
 
 ---

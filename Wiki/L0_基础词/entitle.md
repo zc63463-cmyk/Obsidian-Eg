@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All employees are entitled to a minimum of four weeks of paid leave per year, according to the new labor law."（根据新劳动法，所有员工每年有权享受至少四周的带薪休假——考研阅读法律话题）
-> - "The author entitled her latest book 'The Future of Work', which explores how technology is transforming the workplace."（作者将她最新的书命名为《工作的未来》，探讨了技术如何改变工作场所——考研阅读科技话题）
+> - Being unemployed entitles you to free medical treatment . `[例]`
+> - The employer is entitled to ask for references . `[例]`
+> - Her latest novel , entitled "The Forgotten Sex", is out this week . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自发性，自发行为**==；②（行为等）自然，不造作；
+**n.** ①==**自发性，自发行为**== `N`；②==**（行为等）自然，不造作**== `N`；
 
 > [!tip] 原型义
 > **原型义**：出于自身意愿而非外部强迫的行动（自愿的、自然的、未经计划的）
@@ -125,7 +125,8 @@ spont(自愿的，源自拉丁语 *sponte*"出于自愿") + -e(连接) + -ity(�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The teacher encouraged spontaneity in the classroom, allowing students to express their ideas freely."（老师鼓励课堂上的自发性，让学生自由表达想法。）
+> - You should not work out the entire mock interview beforehand or you will lose the element of spontaneity. `[例]`
+> - The script has a refreshing spontaneity and sparkle . `[例]`
 
 ## 复习记录
 

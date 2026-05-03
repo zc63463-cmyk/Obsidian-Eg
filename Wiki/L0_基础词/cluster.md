@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A cluster of new buildings has transformed the city skyline."（一群新建筑改变了城市的天际线）
-> - "The patients' symptoms clustered around two distinct patterns."（患者的症状聚集为两种不同的模式）
+> - Have a look at the cluster of galaxies in this photograph . `[例]`
+> - There was a cluster of fans around him, asking for autographs . `[例]`
+> - People clustered around the noticeboard to read the exam results . `[例]`
 
 
 ---

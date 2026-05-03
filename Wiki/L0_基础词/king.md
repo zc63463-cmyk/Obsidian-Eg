@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lion is the king of the jungle."（狮子是丛林之王。——经典例句）
-> - "He served his king well and truly."（他尽力忠诚地为国王服务。——经典例句）
+> - The lion is the king of the jungle. `[例]`
+> - The kings and queens of England. `[例]`
+> - The lion is often called the king of the jungle . `[例]`
 
 
 ---

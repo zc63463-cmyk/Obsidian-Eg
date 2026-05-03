@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有毒的**==；②==**中毒的**==；③==**有害的，恶劣的**==（人际关系、环境等）；
+**adj.** ①==**有毒的**== `adj`；②==**中毒的**== `adj`；③==**有害的，恶劣的**== `adj`（人际关系、环境等）；
 
 > [!tip] 原型义
 > **原型义**：有毒的，源自毒药的
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The dumping of toxic waste into rivers has caused severe environmental degradation, threatening the health of millions of people who depend on these water sources for drinking and irrigation."（将有毒废物倾倒入河流造成了严重的环境退化，威胁了数百万依赖这些水源进行饮用和灌溉的人的健康——考研阅读环保话题相关表达）
-> - "Workplace bullying creates a toxic environment that not only damages employees' mental health but also reduces overall productivity and increases staff turnover rates."（职场霸凌创造了一种有害的环境，不仅损害员工的心理健康，还降低了整体生产力并增加了员工流失率——考研阅读社会话题相关表达）
+> - The tree's bark is toxic to insects . `[例]`
+> - Crop dusters can be used to disperse toxic substances . `[例]`
+> - The political environment has turned toxic in recent months . `[例]`
 
 
 ---

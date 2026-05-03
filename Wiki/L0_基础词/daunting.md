@@ -127,8 +127,9 @@ daunt(恐吓/使畏缩，古法语 *danter*) + -ing(形容词后缀，表进行/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When her mother was interviewed, three weeks after her daughter's birth, she was asked if she was prepared for what might be a daunting task caring for her."（当她女儿出生三周后，她的母亲接受采访时被问及是否为可能是一项艰巨任务的照顾女儿做好了准备——2019年12月六级阅读Section C）
-> - "The transition to net zero is a daunting task."（向净零排放的转型是一项艰巨的任务——《华尔街日报》2023年）
+> - The country was faced with the daunting prospect of overcoming four decades of division . `[例]`
+> - She has the daunting task of cooking for 20 people every day. `[例]`
+> - Starting a new job can be a daunting prospect . `[例]`
 
 
 ---

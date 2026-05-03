@@ -122,8 +122,9 @@ dis-(离开/取消) + [[cover|appear]](出现) → 不再出现
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many traditional crafts have disappeared as a result of industrialization."（许多传统手工艺因工业化而消失了。）——考研高频表达
-> - "The species may disappear entirely within the next few decades."（这个物种可能在接下来的几十年内完全消失。）——考研高频表达
+> - The search was called off for the sailors who disappeared in the storm . `[例]`
+> - I can't find my keys anywhere - they've completely disappeared. `[例]`
+> - The sun disappeared behind a cloud . `[例]`
 
 ---
 

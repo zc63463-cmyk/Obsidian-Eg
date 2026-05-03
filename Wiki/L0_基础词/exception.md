@@ -124,8 +124,9 @@ ex-(出) + [[cap]](拿取) + -ion(名词后缀) → 被取出的部分 → 例�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All students must attend the meeting without exception."（所有学生必须参加会议，毫无例外。）
-> - "He took great exception to being called a liar."（他对被称作骗子极为不满。）
+> - Men are usually quite good at map-reading but Tim is the exception. `[例]`
+> - There are exceptions to every rule . `[例]`
+> - I like all kinds of films , with the exception of (= but not) horror films . `[例]`
 
 
 ---

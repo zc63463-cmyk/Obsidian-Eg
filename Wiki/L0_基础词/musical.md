@@ -130,8 +130,9 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Research suggests that early exposure to musical training can enhance cognitive development."（研究表明，早期接触音乐训练可以增强认知发展——考研阅读高频表达）
-> - "The composer transformed the novel into a successful Broadway musical."（这位作曲家将小说改编成了一部成功的百老汇音乐剧）
+> - Mozart's musical compositions include symphonies and operas . `[例]`
+> - Joe's family all play instruments - they're very musical. `[例]`
+> - Musical instruments hang from the walls of the restaurant . `[例]`
 
 
 ---

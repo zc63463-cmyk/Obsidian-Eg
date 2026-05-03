@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不切实际的，不现实的**==；②不真实的，虚幻的；
+**adj.** ①==**不切实际的，不现实的**== `adj`；②==**不真实的，虚幻的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不符合现实的（un-不 + real真实的 + -ist...的人 + -ic...的 → 不符合现实的）
@@ -128,8 +128,8 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - It is unrealistic to expect that all students will achieve the same level of proficiency.（期望所有学生达到相同的熟练程度是不切实际的。）
-> - Setting unrealistic deadlines can lead to burnout and decreased productivity.（设定不切实际的截止日期会导致倦怠和生产力下降。）
+> - I think these sales forecasts are unrealistic, considering how slow sales are at present . `[例]`
+> - It's unrealistic to expect an answer before next week . `[例]`
 
 ## 复习记录
 

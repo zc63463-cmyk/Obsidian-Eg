@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**惊悚片，惊悚小说**==；②令人激动的事/人；
+**n.** ①==**惊悚片，惊悚小说**== `N`；②==**令人激动的事/人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：惊悚片，惊悚小说（充满悬念和刺激的故事）
@@ -125,8 +125,8 @@ thrill（使激动，使毛骨悚然）+ -er（表示"…的人/物"）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The novel is a gripping political thriller that keeps readers on the edge of their seats."（这部小说是一部引人入胜的政治惊悚片，让读者始终紧张不已）
-> - "Alfred Hitchcock was known as the master of the thriller genre."（阿尔弗雷德·希区柯克被称为惊悚片大师）
+> - It's described here as a taut psychological thriller. `[例]`
+> - His latest novel is a political thriller . `[例]`
 
 ## 复习记录
 

@@ -124,8 +124,9 @@ a-（在……上/进入……，[[ab]] 的变体，表示方向）+ board（木
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All passengers aboard Flight 307 were safely evacuated after the pilot reported a technical issue with the landing gear."（在飞行员报告起落架出现技术问题后，307航班上的所有乘客被安全疏散——考研阅读航空话题相关表达）
-> - "The captain welcomed everyone aboard and announced that the ship would depart within thirty minutes."（船长欢迎所有人登船，并宣布船将在三十分钟内启航——考研翻译航海话题相关表达）
+> - The flight attendant welcomed us aboard. `[例]`
+> - The train's about to leave . All aboard! `[例]`
+> - We spent two months aboard ship (= on the ship ) . `[例]`
 
 
 ---

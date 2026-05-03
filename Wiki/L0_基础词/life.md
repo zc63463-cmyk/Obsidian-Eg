@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The quality of life in modern cities has improved significantly."（现代城市的生活质量有了显著提高。——考研阅读常见话题）
-> - "Life is like a box of chocolates; you never know what you're gonna get."（生活就像一盒巧克力，你永远不知道下一颗是什么。——Forrest Gump）
+> - C h o o s e th e b e s t w o rd (s ) fo r e a c h n u m b e re d b la n k a n d m a rk A , B , C o r D o n th e A N S W E R S H E E T . (1 0 p o in ts ) Y o u r s o c ia l life is d e fin e d a s 'th e a c tiv itie s y o u d o w ith o th e r p e o p le , fo r p le a s u re , w h e n y o u a re n o t w o rk in g '. `[真题]`
+> - It's im p o rta n t to h a v e a s o c ia l life , b u t w h a t's rig h t fo r o n e p e rs o n w o n 't b e rig h t fo r a n o th e r. `[真题]`
+> - T h is is w h y fin d in g a 2 in y o u r s o c ia l life is k e y . `[真题]`
 
 
 ---

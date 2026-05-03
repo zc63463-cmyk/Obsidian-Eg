@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country's economy entered a downward spiral as rising unemployment led to decreased consumer spending, which in turn caused more businesses to close."（随着失业率上升导致消费支出减少，进而引发更多企业倒闭，该国经济陷入了恶性循环——考研阅读经济话题相关表达）
-> - "Drug addiction often creates a vicious spiral in which the user needs increasingly larger doses to achieve the same effect, ultimately leading to severe health consequences."（吸毒成瘾往往造成一种恶性循环，使用者需要越来越大的剂量才能达到相同的效果，最终导致严重的健康后果——考研阅读社会话题相关表达）
+> - A corkscrew is spiral-shaped. `[例]`
+> - This year's downward spiral of house prices has depressed the market . `[例]`
+> - The quarterback threw a perfect spiral into the hands of the wide receiver . `[例]`
 
 
 ---

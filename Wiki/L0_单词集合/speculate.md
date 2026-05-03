@@ -130,9 +130,9 @@ spec-（= specere，看/观察）+ -ulate（动词后缀，表反复动作）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists can only speculate about the long-term effects of climate change."（科学家只能推测气候变化的长期影响）——科学/环保类阅读
-> - "It would be mere speculation to suggest that the company will go bankrupt."（暗示公司将破产纯属猜测）——商业/经济类话题
-> - "Many people speculated in the stock market during the economic boom."（许多人在经济繁荣时期在股市投机）——金融/经济类话题
+> - I don't know why she did it - I'm just speculating. `[例]`
+> - A spokesperson declined to speculate on the cause of the train crash . `[例]`
+> - Journalists are speculating about whether interest rates will be cut . `[例]`
 
 ---
 

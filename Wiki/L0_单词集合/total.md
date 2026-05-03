@@ -128,8 +128,9 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The total cost of the project exceeded the initial budget by a significant margin."（该项目的总成本大幅超出了最初的预算。）——考研高频表达
-> - "A total of 500 students participated in the survey conducted by the research team."（共有500名学生参加了研究团队进行的调查。）——考研高频表达
+> - At that time of day , cars with only one occupant accounted for almost 80 percent of the total. `[例]`
+> - A total of 21 horses were entered in the race . `[例]`
+> - We made $1,000 in total, over three days of trading . `[例]`
 
 
 ---

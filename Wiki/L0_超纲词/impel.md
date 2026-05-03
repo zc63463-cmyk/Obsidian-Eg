@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**推动，驱使**== `impel sb to do sth` [正式] `be impelled by sth` [正式]；②迫使 `impel reform` [正式]；
+**v.** ①==**推动，驱使**== `V`；②==**迫使**== `V`；
 
 > [!tip] 原型义
 > **原型义**：推动、驱使某人做某事
@@ -126,8 +126,8 @@ im-(=in-, 加强) + pel(驱动，拉丁语 *pellere*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Curiosity and the desire to understand impel scientists to pursue their research. `[例]`
-> - She felt impelled by a strong sense of duty to report the incident to the authorities. `[例]`
+> - She was in such a mess I felt impelled to (= felt I had to) offer your services . `[例]`
+> - I wonder what it is that impels him to exercise all the time . `[例]`
 
 ## 复习记录
 

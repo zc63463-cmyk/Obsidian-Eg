@@ -125,8 +125,9 @@ illuminate = il-（= in-，加强/向，在 l 前变为 il-）+ lumin-（光）+
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research findings illuminate the complex relationship between poverty and education."（研究结果阐明了贫困与教育之间的复杂关系——illuminate 在学术语境中为高频词）
-> - "The city was illuminated with thousands of lights during the festival."（节日期间，城市被数千盏灯照亮——illuminate 的物理用法）
+> - The streets were illuminated with strings of coloured lights . `[例]`
+> - An article which illuminates the issues at stake. `[例]`
+> - The buildings were illuminated at night . `[例]`
 
 
 ---

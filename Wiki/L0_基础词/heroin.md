@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The heroin epidemic has claimed thousands of lives across the country."（海洛因流行病已在全国夺去了数千条生命。——考研社会话题常见表达）
-> - "Heroin addiction remains one of the most serious public health challenges."（海洛因成瘾仍然是最严峻的公共卫生挑战之一。——考研翻译常见话题）
+> - Heroin is obtained from morphine and is extremely addictive . `[例]`
+> - The girls were duped by drug smugglers into carrying heroin for them. `[例]`
+> - He was arrested at the airport with a kilo of heroin secreted in his clothing . `[例]`
 
 
 ---

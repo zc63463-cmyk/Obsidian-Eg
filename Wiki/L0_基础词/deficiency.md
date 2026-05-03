@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are thirteen or more vitamins, and if any is missing a deficiency disease becomes apparent."（有十三种或更多种维生素，如果缺少任何一种，缺乏症就会变得明显——1996年考研英语完形填空）
-> - "Pregnant women often suffer from iron deficiency, which can affect both maternal and fetal health."（孕妇经常缺铁，这会影响母婴健康——考研医学类语料）
+> - The blood tests revealed a deficiency in certain key minerals and vitamins . `[例]`
+> - As the game went on, the team's deficiency was obvious . `[例]`
+> - They are not permitted to borrow additional funds as long as any deficiency exists in the capital reserve fund . `[例]`
 
 
 ---

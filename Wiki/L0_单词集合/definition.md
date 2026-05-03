@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "by definition, ..."（根据定义，……）——考研阅读/翻译高频短语，用于引出基于概念本质的推论
-> - "the definition of success/happiness"（成功/幸福的定义）——考研作文常见话题
-> - "high-definition television"（高清电视）——科技类阅读语境
+> - What is the definition of " mood "? `[例]`
+> - The legal definition of what is and what is not pornography is very unsatisfactory . `[例]`
+> - Psychology is by definition an inexact science . `[例]`
 
 ---
 

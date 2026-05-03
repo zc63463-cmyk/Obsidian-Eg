@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "urge sb. to take action"（敦促某人采取行动）——考研写作/阅读高频搭配
-> - "have a strong urge to"（有强烈的冲动去……）——考研阅读心理/行为类语料
-> - "Experts urge that measures (should) be taken..."（专家极力主张采取措施）——考研写作常用句型，注意虚拟语气
+> - The two of them seem unable to control their sexual urges. `[例]`
+> - The urge to steal is very strong in some of these young men. `[例]`
+> - Lawyers will urge the parents to take further legal action . `[例]`
 
 ---
 

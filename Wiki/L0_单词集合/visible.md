@@ -134,8 +134,9 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These changes were gradual and at first scarcely visible."（这些变化是渐进的，最开始几乎看不见。）——2015年翻译
-> - "There are few visible signs of the illness that kept her in hospital for so long."（她因病住院这么久，但表面上却看不出什么症状。）——考研高频表达
+> - You should wear something light-coloured when you're cycling at night so that you're more visible. `[例]`
+> - There are few visible signs of the illness that kept her in hospital for so long . `[例]`
+> - The writing on the tombstone was barely visible. `[例]`
 ---
 
 

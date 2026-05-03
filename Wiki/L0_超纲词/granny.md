@@ -123,8 +123,8 @@ grand(大的/辈分高的) + -ny(儿语后缀，通过重复词首音节构成)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She lives in a granny flat at the back of her daughter's house. `[例]`
-> - My granny always told me to look both ways before crossing the street. `[例]`
+> - Your granny is going to take care of you today. `[例]`
+> - Granny, can I have a drink ? `[例]`
 
 ## 复习记录
 

@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Opinions differ on whether the new policy will be effective.（关于新政策是否有效，各方意见不一。）
-> - The approaches adopted by different countries differ considerably.（不同国家采取的方法差异很大。）
-> - Scientists still differ on the exact cause of the phenomenon.（科学家们对该现象的确切成因仍存在分歧。）
+> - The twins look alike , but they differ in temperament . `[例]`
+> - His views differ considerably from those of his parents . `[例]`
+> - The findings of the various studies differ significantly . `[例]`
 
 ---
 

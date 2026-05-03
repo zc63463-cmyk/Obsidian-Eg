@@ -139,8 +139,9 @@ flight(飞行/逃跑，古英语 *flyht*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The refugees took flight from the war-torn region, seeking safety in neighboring countries."（难民们逃离了饱受战争蹂躏的地区，在邻国寻求安全。——考研英语阅读社会类话题）
-> - "After a long flight, she was too exhausted to attend the conference."（经过长途飞行后，她太疲惫了，无法参加会议。——考研英语阅读常见场景）
+> - How was your flight? `[例]`
+> - All flights to New York today are delayed because of bad weather . `[例]`
+> - My flight was cancelled . `[例]`
 
 
 ---

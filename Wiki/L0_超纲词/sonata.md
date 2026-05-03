@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**奏鸣曲**==；
+**n.** ①==**奏鸣曲**== `N`；
 
 > [!tip] 原型义
 > **原型义**：由一件或两件乐器演奏的多乐章器乐曲（源自意大利语 sonare"发声/演奏"）
@@ -122,7 +122,8 @@ sonata（源自意大利语 *sonata*，源自 *sonare*"发声，演奏"，与 [[
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Beethoven's Piano Sonata No. 14, popularly known as the Moonlight Sonata, is one of the most beloved pieces in classical music."（贝多芬第14号钢琴奏鸣曲，俗称《月光奏鸣曲》，是古典音乐中最受喜爱的作品之一。）
+> - Beethoven has composed many piano sonatas in his life, which have inspired countless concert pianists, teachers, students and listeners. `[例]`
+> - One evening in early 1944, four emaciated young women, attempting to rouse themselves from their grim prison conditions, began a secret performance of Beethoven’s Pathétique sonata in the cold and cramped barrack that also served as their dormitory, practice room, eating place and parcel depot. `[例]`
 
 ## 复习记录
 

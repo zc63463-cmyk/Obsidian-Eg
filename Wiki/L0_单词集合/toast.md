@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This means that people should avoid crisping their roast potatoes, spurn thin-crust pizzas and only easily toast their bread."（这意味着人们应该避免烤土豆变脆，不要吃薄皮披萨，而只是简单地烤面包。）——2020年英语一完形填空
-> - "Across Britain, burnt toast will be served to mothers in bed this morning as older sons and daughters rush to deliver their supermarket bunches of flowers."（今天早上，全英国的母亲都会在床上吃到烤焦的吐司，因为年长的儿女们会赶着去送超市买的花束。）——考研高频表达
+> - I have toast and jam for breakfast . `[例]`
+> - I'm having beans on toast for supper . `[例]`
+> - Now, if you'd all please raise your glasses , I'd like to propose a toast to the bride and groom . `[例]`
 ---
 
 

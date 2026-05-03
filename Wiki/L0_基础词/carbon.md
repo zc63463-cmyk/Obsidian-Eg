@@ -128,8 +128,9 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Who would have thought that, globally, the IT industry produces about the same volume of greenhouse gases as the world's airlines do — roughly 2 per cent of all CO2 emissions?"（谁能想到，全球IT行业产生的温室气体总量与全世界航空业大致相当——约占所有二氧化碳排放量的2%——2011年考研英语二翻译）
-> - "Reducing emissions of carbon dioxide, however, is another matter."（然而，减少二氧化碳的排放量则需另辟蹊径——考研阅读相关语料）
+> - The prize will be awarded to a project that can draw at least one gigatonne of carbon a year from the atmosphere . `[例]`
+> - Environmental campaigners are arguing for further cuts in carbon emissions . `[例]`
+> - All organic substances contain the element carbon. `[例]`
 
 
 ---

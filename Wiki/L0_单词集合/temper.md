@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "lose one's temper"（发脾气）——考研阅读/翻译中描述情绪的高频搭配
-> - "temper justice with mercy"（宽严相济）——法律/伦理类话题常见表达
-> - "tempered glass"（钢化玻璃）——科技/产品类文本
-> - "a person of even temper"（性情平和的人）——人物描写常见表达
+> - She has a real temper. `[例]`
+> - He's got a really bad temper. `[例]`
+> - The children behaved so badly that I lost my temper. `[例]`
+> - I found it hard to keep my temper with so many things going wrong . `[例]`
 
 ---
 

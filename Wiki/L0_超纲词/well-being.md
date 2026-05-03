@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**健康，幸福，安乐**==；②福祉，福利；
+**n.** ①==**健康，幸福，安乐**== `N`；②==**福祉，福利**== `N`；
 
 > [!tip] 原型义
 > **原型义**：处于良好状态（健康、幸福、安乐）
@@ -128,8 +128,8 @@ well（好）+ being（存在/状态），复合词，无拉丁/希腊词根可�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Regular exercise contributes significantly to physical and mental well-being."（规律运动对身心健康有显著贡献。）
-> - "The government should prioritize the well-being of its citizens."（政府应将公民的福祉放在首位。）
+> - Seeing her grandchildren gave her a sense of well-being. `[例]`
+> - To have a sense of well-being. `[例]`
 
 ## 复习记录
 

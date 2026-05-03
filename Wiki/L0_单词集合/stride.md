@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We have made great strides in some areas, but seem to have stopped in others."（我们在一些领域取得了巨大进展，但在另一些领域似乎停滞不前。）——考研高频表达
-> - "The technology has made giant strides in the last decade."（这项技术在过去十年中取得了巨大飞跃。）——考研高频表达
+> - The West made impressive strides in improving energy efficiency after the huge rises in oil prices during the 70s. `[例]`
+> - The group has made strides to expand internationally . `[例]`
+> - She attributes her record-breaking speed to the length of her stride. `[例]`
 
 ---
 

@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education is central to personal development."（教育对个人发展至关重要——考研英语阅读）
-> - "The central issue of the debate is whether technology has made our lives better or worse."（这场辩论的核心问题是技术是否让我们的生活变得更好还是更糟——考研英语阅读高频表达）
+> - Of course , you pay more for premises with a central location (= in or near the centre of a town ) . `[例]`
+> - Community involvement is central to our plan . `[例]`
+> - At that time she worked for Central Regional Council. `[例]`
 
 
 ---

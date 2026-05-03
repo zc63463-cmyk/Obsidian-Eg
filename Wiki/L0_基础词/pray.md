@@ -128,8 +128,9 @@ pray(祈祷/恳求，拉丁语 *precari*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People from all walks of life prayed for the victims of the earthquake and donated generously to the relief fund."（各行各业的人们为地震灾民祈祷，并向救济基金慷慨捐款。——考研英语阅读社会类话题）
-> - "The defendant prayed for leniency, claiming that his actions were driven by desperation rather than malice."（被告恳求从轻处理，声称自己的行为是出于绝望而非恶意。——考研英语阅读法律类话题）
+> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+> - She knelt and prayed silently . `[例]`
+> - Let us pray for the victims of this terrible disaster . `[例]`
 
 
 ---

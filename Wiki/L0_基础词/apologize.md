@@ -125,8 +125,9 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The airline apologized to passengers for the delay."（航空公司因延误向乘客道歉——考研翻译常见话题）
-> - "He refused to apologize for his controversial remarks."（他拒绝为自己有争议的言论道歉——考研阅读常见表达）
+> - I must apologize to Isobel for my lateness . `[例]`
+> - Trains may be subject to delay - we apologize for any inconvenience caused . `[例]`
+> - She apologized profusely for having to leave at 3.30 p.m. `[例]`
 
 
 ---

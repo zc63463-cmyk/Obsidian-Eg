@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**撤销，取消**==；②==**解开，松开**==；③==**使败坏，毁灭**==；④（计算机）撤消操作；
+**v.** ①==**撤销，取消**== `V`；②==**解开，松开**== `V`；③==**使败坏，毁灭**== `V N`；④==**（计算机）撤消操作**== `V`；
 
 > [!tip] 原型义
 > **原型义**：反转做过的事（把已经做的动作"倒回去"，恢复到之前的状态）
@@ -127,8 +127,9 @@ un-(否定/反转，古英语 *un-*，与 [[de]] 反转义相近) + do(做，古
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's very difficult to undo the damage that's been done to the environment."（要消除对环境造成的损害是非常困难的。——考研英语高频表达）
-> - "He undid most of the good work of the previous manager."（他毁掉了前任经理的大部分成果。——考研英语阅读相关语料）
+> - Can someone help me to undo my seat belt ? `[例]`
+> - It's very difficult to undo the damage that's caused by inadequate parenting in a child's early years . `[例]`
+> - It’s difficult to undo the damage caused by a father who abandons his child . `[例]`
 
 
 ---

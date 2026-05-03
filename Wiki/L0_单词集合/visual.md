@@ -128,8 +128,9 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Visual aids can greatly enhance the effectiveness of a presentation."（视觉辅助工具可以大大提高演示的效果。）——考研高频表达
-> - "The visual impact of the painting is stunning."（这幅画的视觉效果令人惊叹。）——考研高频表达
+> - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
+> - The wildlife programme has some stunning visuals. `[例]`
+> - Using both words and visuals makes it easier for students to focus on and improve their writing methods . `[例]`
 ---
 
 

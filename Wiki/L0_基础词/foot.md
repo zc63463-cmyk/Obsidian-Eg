@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The village is situated at the foot of the mountain."（这个村庄坐落在山脚下。）
-> - "Who is going to foot the bill for this project?"（谁来为这个项目买单？）
+> - Are you going by bicycle or on foot? `[例]`
+> - A chair by the foot of her bed is piled with books . `[例]`
+> - There's a note explaining the quotation at the foot of the page . `[例]`
 
 
 ---

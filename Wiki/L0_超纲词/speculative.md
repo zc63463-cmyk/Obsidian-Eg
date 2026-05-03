@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**推测性的，猜测的**==；②投机性的，冒险的；③（哲学）思辨的；
+**adj.** ①==**推测性的，猜测的**== `adj`；②==**投机性的，冒险的**== `adj`；③==**（哲学）思辨的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：基于推测而非确证的（没有充分证据就做出判断）
@@ -129,7 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The housing market has become increasingly speculative, with prices driven by investor demand rather than actual need."（房地产市场变得越来越投机，价格由投资者需求而非实际需求驱动。）
+> - The article was dismissed as highly speculative. `[例]`
+> - Bizarre and speculative theories. `[例]`
 
 ## 复习记录
 

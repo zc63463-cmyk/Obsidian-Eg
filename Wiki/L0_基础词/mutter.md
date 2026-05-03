@@ -124,8 +124,9 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He muttered something under his breath that I couldn't quite catch."（他低声嘟囔了些什么，我没太听清——考研阅读常见表达）
-> - "The employees muttered about the new policy but dared not protest openly."（员工们对新政策低声抱怨，但不敢公开抗议）
+> - Stop muttering and speak up! `[例]`
+> - He was muttering to himself. `[例]`
+> - Laurence muttered something about his wife and left . `[例]`
 
 
 ---

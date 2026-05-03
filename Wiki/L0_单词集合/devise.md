@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Researchers have devised a new method for detecting cancer at an early stage."（研究人员设计出了一种在早期检测癌症的新方法。）——考研阅读真题
-> - "The teacher devised a series of exercises to help students improve their writing skills."（老师设计了一系列练习来帮助学生提高写作技能。）——考研高频表达
+> - He's good at devising language games that you can play with students in class . `[例]`
+> - The cartoon characters Snoopy and Charlie Brown were devised by Charles M. Schultz. `[例]`
+> - He devised a new way to treat mental depression . `[例]`
 
 ---
 

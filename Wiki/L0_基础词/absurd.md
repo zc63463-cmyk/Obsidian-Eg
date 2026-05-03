@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It would be absurd to suggest that technology alone can solve all the complex problems facing modern society."（认为仅靠技术就能解决现代社会面临的所有复杂问题，这种想法是荒谬的——考研阅读科技话题相关表达）
-> - "The absurdity of the situation became apparent when both sides realized they had been arguing about completely different issues."（当双方意识到他们一直在争论完全不同的问题时，这种处境的荒谬性变得显而易见——考研翻译逻辑话题相关表达）
+> - What an absurd thing to say! `[例]`
+> - Don't be so absurd! Of course I want you to come. `[例]`
+> - It's an absurd situation - neither of them will talk to the other. `[例]`
 
 
 ---

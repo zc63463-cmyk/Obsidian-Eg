@@ -127,8 +127,9 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose and what guides it in evolutionary or cognitive terms."（从共有特征中滤出独有的特性，这使我们得以理解复杂的文化行为是如何产生的，并从进化或认知角度理解什么引导了它的走向——2012考研英语翻译）
-> - "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one."（这一成功，加上后来表明记忆本身并非由基因决定的研究，使得埃里克森得出结论：记忆行为与其说是一种直觉行为，不如说是一种认知训练——2007考研英语阅读）
+> - Some of her cognitive functions have been impaired . `[例]`
+> - Studies show a connection between aerobic exercise and cognitive ability . `[例]`
+> - They are studying the links between cognitive and linguistic development in young children. `[例]`
 
 
 ---

@@ -132,8 +132,9 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "While traditional paid media still play a major role, companies today can exploit many alternative forms of media."（虽然传统的付费媒体仍然发挥着重要作用，但如今公司可以利用许多替代形式的媒体——2011年考研Text 3）
-> - "He succeeded in passing the exam on his second attempt."（他在第二次尝试时成功通过了考试——考研高频表达）
+> - She's been trying to pass her driving test for six years and she's finally succeeded. `[例]`
+> - You need to be pretty tough to succeed in the property world . `[例]`
+> - The campaign has certainly succeeded in raising public awareness of the issue . `[例]`
 
 
 ---

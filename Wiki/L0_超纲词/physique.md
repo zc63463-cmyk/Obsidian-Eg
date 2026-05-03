@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**体格，体形**==（指人的身体结构和外形）；
+**n.** ①==**体格，体形**== `N`（指人的身体结构和外形）；
 
 > [!tip] 原型义
 > **原型义**：人的体格，体形
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - His athletic physique made him a natural candidate for the track team.（他运动员般的体格使他成为田径队的天然候选人）
-> - Regular weight training can significantly improve your physique.（规律的举重训练可以显著改善你的体格）
+> - He has a very muscular physique. `[例]`
+> - Anatoly, with his powerful physique, embodies the strength of an elite weightlifter . `[例]`
 
 ## 复习记录
 

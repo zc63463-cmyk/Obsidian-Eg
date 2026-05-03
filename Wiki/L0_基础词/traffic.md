@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**交通，交通量**==；②==**来往车辆**==；③==**非法交易**==（毒品、武器等）；
-**v.** ①==**做非法交易**==；②==**在……通行**==；
+**n.** ①==**交通，交通量**== `N`；②==**来往车辆**== `N`；③==**非法交易**== `N`（毒品、武器等）；
+**v.** ①==**做非法交易**== `V`；②==**在……通行**== `V`；
 
 > [!tip] 原型义
 > **原型义**：在路上通行的货物和人群
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Urban planners are trying to reduce traffic congestion by encouraging the use of public transportation and building more bicycle lanes."（城市规划者正试图通过鼓励使用公共交通和修建更多自行车道来减少交通拥堵——考研阅读城市话题相关表达）
-> - "International efforts to combat drug trafficking have intensified, with law enforcement agencies cooperating across borders to dismantle trafficking networks."（打击毒品贩运的国际努力不断加强，执法机构跨越国界合作瓦解贩运网络——考研阅读法律话题相关表达）
+> - We got stuck in traffic for several hours . `[例]`
+> - New measures have been introduced to try and ease traffic congestion in the city . `[例]`
+> - Five people were injured in a traffic accident (= one involving vehicles ) . `[例]`
 
 
 ---

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**未受教育的，无学问的**==；②没有学问的；
-**v.** ①(unlearn 的过去式/过去分词) ==**忘掉（已学的东西），抛弃（旧习惯）**==；
+**adj.** ①==**未受教育的，无学问的**== `adj`；②==**没有学问的**== `adj`；
+**v.** ①==**(unlearn 的过去式/过去分词) ==**忘掉（已学的东西），抛弃（旧习惯）**== `V`**==；
 
 > [!tip] 原型义
 > **原型义**：未受教育的（没有学过的）
@@ -128,8 +128,8 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "To innovate, we must first unlearn what we think we know."（要创新，我们必须首先忘掉我们自以为知道的东西。）
-> - "In an unlearned age, wisdom is the rarest of commodities."（在一个缺乏学问的时代，智慧是最稀有的商品。）
+> - Although the people of the farming community were largely an unlearned lot, they wanted an advanced education for their children. `[例]`
+> - De-Stalinization was quick and brutal, with history having the last say — a lesson guaranteed to go unlearned . `[例]`
 
 ## 复习记录
 

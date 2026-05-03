@@ -136,8 +136,9 @@ plunge 源自拉丁语 *plumbicare*（使铅垂下），与 [[plumb]]（铅）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After Pickwick, Dickens plunged into a bleaker world."（在《匹克威克外传》之后，狄更斯投身于一个更加暗淡的世界。——考研英语阅读真题）
-> - "Economist Carl Weinberg believes the negative effects of plunging oil prices are overwhelming the positive effects of cheaper oil."（经济学家卡尔·温伯格认为，油价暴跌的负面影响正在超过油价低廉的积极影响。——考研阅读常见经济话题）
+> - We ran down to the beach and plunged into the sea . `[例]`
+> - The car went out of control and plunged over the cliff . `[例]`
+> - Cook the peas by plunging them into boiling water . `[例]`
 
 
 ---

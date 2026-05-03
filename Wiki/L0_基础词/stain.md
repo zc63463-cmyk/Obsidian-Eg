@@ -127,8 +127,9 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The scandal left a permanent stain on his political career.（这桩丑闻给他的政治生涯留下了永久的污点。）
-> - Stainless steel is widely used in kitchen equipment.（不锈钢被广泛用于厨房设备。）
+> - Tomato sauce stains terribly - it's really difficult to get it out of clothes . `[例]`
+> - While she was changing the wheel on her car , her coat had become stained with oil . `[例]`
+> - This carpet is ideal for the kitchen because it doesn't stain easily . `[例]`
 
 
 ---

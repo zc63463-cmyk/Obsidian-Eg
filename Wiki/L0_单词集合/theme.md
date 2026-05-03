@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The theme of love and death runs through the novel."（爱与死的主题贯穿整部小说）——文学分析高频表达
-> - "a recurring theme in his work"（他作品中反复出现的主题）——学术/评论语境
-> - "The central theme of the conference is environmental protection."（会议的核心主题是环境保护）——常见搭配
-> - "explore themes of identity and belonging"（探讨身份认同与归属感的主题）——文化/社会话题
+> - The theme of loss runs through most of his novels . `[例]`
+> - Theme and variations for violin and piano. `[例]`
+> - The theme of Thrace did not include the region in the immediate neighbourhood of Constantinople. `[例]`
+> - During much of the history of the Byzantine Empire, its provinces were military districts called themes. `[例]`
 
 ---
 

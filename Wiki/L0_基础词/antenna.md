@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Journalists need a good antenna for public sentiment."（记者需要对公众舆论有敏锐的直觉）
-> - "The satellite dish is a type of directional antenna."（卫星天线是一种定向天线）
+> - These satellites are huge, featuring antennas that cover 2,400 square feet (223 square m) when deployed. `[例]`
+> - Once Roman is launched, the first 45 days of its mission will consist of deploying its solar panel and antennas . `[例]`
+> - The company’s satellites have stood out for their extremely large antennas . `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There was a murmur of approval from the audience."（观众中传来一阵低声的赞许——常见文学表达）
-> - "He murmured something under his breath."（他低声嘟囔了些什么——考研阅读常见搭配）
+> - I love you," she murmured. `[例]`
+> - He was murmuring to himself. `[例]`
+> - He murmured sweet nothings (= romantic talk ) in her ear . `[例]`
 
 
 ---

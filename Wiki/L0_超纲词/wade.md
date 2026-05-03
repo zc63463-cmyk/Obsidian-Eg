@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**涉水，蹚水**==；②艰难地行进，费力处理；
+**v.** ①==**涉水，蹚水**== `V`；②==**艰难地行进，费力处理**== `V`；
 
 > [!tip] 原型义
 > **原型义**：在水中跋涉（蹚水）
@@ -123,8 +123,8 @@ wade 源自古英语 *wadan*，日耳曼语族词，无拉丁/希腊词根可拆
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She had to wade through a mountain of paperwork before the deadline."（她不得不在截止日期前蹚过堆积如山的文件工作。）
-> - "He waded into the debate with both feet."（他全身心地投入了那场辩论。）
+> - The river was full but we managed to wade across . `[例]`
+> - We waded a shallow river . `[例]`
 
 ## 复习记录
 

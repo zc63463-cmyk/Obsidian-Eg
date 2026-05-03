@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong."（Straitford公司的简报听起来不像华盛顿通常那种含糊其辞，各机构为了避免出错而避免做出引人注目的声明——2003年考研英语一Text 1）
-> - "The Declaration of Independence, adopted on July 4, 1776, proclaimed that all men are created equal."（1776年7月4日通过的《独立宣言》宣告人人生而平等——考研历史/政治类语料）
+> - Members of Congress have to make a declaration of their business interests . `[例]`
+> - As witnesses to the accident , we were asked to make written declarations of what we had seen . `[例]`
+> - The company made a declaration of intent to follow an equal opportunities policy . `[例]`
 
 
 ---

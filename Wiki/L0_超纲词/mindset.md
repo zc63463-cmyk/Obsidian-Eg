@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**思维方式，心态**== `a adj N` / `V one's N` [通用]；②观念模式 `the N of N` [学术]；
+**n.** ①==**思维方式，心态**== `N`；②==**观念模式**== `N`；
 
 > [!tip] 原型义
 > **原型义**：思维方式，心态
@@ -125,8 +125,8 @@ mind(心智/头脑) + set(设定/固定)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Students with a growth mindset are more likely to embrace challenges and learn from failures. [C]
-> - `[例]` Developing a positive mindset is essential for overcoming obstacles in both personal and professional life. [C]
+> - It's extraordinary how hard it is to change the mindset of the public and the press . `[例]`
+> - American financiers have a very different mindset from ours. `[例]`
 
 ## 复习记录
 

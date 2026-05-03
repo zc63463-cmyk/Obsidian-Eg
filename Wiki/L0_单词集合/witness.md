@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The last century witnessed an unprecedented increase in violent crime."（上个世纪暴力犯罪空前增长。）——考研阅读常见拟人化用法
-> - "bear witness to the fact that..."（证明……的事实）——论证型写作中的经典搭配
-> - "Anyone who witnessed the incident is asked to contact the police."（请目击该事件的人联系警方。）——法律/社会类阅读
+> - According to witnesses, the robbery was carried out by two teenage boys . `[例]`
+> - Police are appealing for witnesses to the accident to come forward . `[例]`
+> - She was witness to the tragic event . `[例]`
 
 ---
 

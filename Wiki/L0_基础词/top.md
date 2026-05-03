@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**顶部，顶端**==；②==**首位，最高地位**==；③盖子；
-**adj.** ①==**最高的，顶级的**==；
-**v.** ①==**居……之首，超过**==；②到达顶部；
+**n.** ①==**顶部，顶端**== `N`；②==**首位，最高地位**== `N`；③==**盖子**== `N`；
+**adj.** ①==**最高的，顶级的**== `adj`；
+**v.** ①==**居……之首，超过**== `V`；②==**到达顶部**== `V`；
 
 > [!tip] 原型义
 > **原型义**：顶部（最高的位置）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education should be a top priority for any government."（教育应该是任何政府的首要任务。）
-> - "She topped the list of candidates."（她位居候选人榜首。）
+> - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+> - She waited for me at the top of the stairs . `[例]`
+> - There were flags on the tops of many of the buildings . `[例]`
 
 
 ---

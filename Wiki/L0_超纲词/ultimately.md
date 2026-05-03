@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**最终，最后**==；②根本上，本质上；
+**adv.** ①==**最终，最后**== `adv`；②==**根本上，本质上**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：在最末端（链条的最终环节）
@@ -125,8 +125,8 @@ ultim-(最远的，最终的) + -ate(形容词后缀) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Ultimately, the decision rests with the board of directors."（最终，决定权在董事会手中。）
-> - "The technology will ultimately transform the way we live."（这项技术最终将改变我们的生活方式。）
+> - Everything will ultimately depend on what is said at the meeting with the directors next week . `[例]`
+> - Ultimately, of course , he'd like to have his own business but that won't be for some time . `[例]`
 
 ## 复习记录
 

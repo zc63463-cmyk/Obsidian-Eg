@@ -129,8 +129,9 @@ plumb(=plumbum, 铅，拉丁语 *plumbum*) + -er(表示"人"的名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has compared it with plumbing, pointing out that a plumber doesn't wake up and say that he can't work with pipes today."（他曾拿写作和修管道作比，指出管道工不会一觉醒来就说今天不能修管道了。——2022年英语一阅读）
-> - "They had ensured the plumbing was overhauled a year ago."（他们曾保证水管一年前彻底检修过。——考研阅读常见表达）
+> - When is the plumber coming to repair the burst pipe ? `[例]`
+> - We'll have to get a plumber in to look at that water tank . `[例]`
+> - Did you remember to get on to the plumber about the shower ? `[例]`
 
 
 ---

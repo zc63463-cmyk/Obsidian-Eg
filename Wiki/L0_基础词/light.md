@@ -148,8 +148,9 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In light of the recent economic downturn, many companies have been forced to reconsider their expansion strategies."（鉴于最近的经济衰退，许多公司被迫重新考虑其扩张策略——考研英语阅读，经济话题）
-> - "Recent research has shed new light on the relationship between sleep quality and cognitive performance."（最近的研究为睡眠质量与认知表现之间的关系提供了新的见解——考研英语阅读，科学研究话题）
+> - It's a north-facing room so it doesn't get much light (= brightness from the sun ) . `[例]`
+> - Large windows bring in natural light. `[例]`
+> - Light was streaming in through the open door . `[例]`
 
 
 ---

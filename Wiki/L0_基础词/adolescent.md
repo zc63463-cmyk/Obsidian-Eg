@@ -132,8 +132,9 @@ ad-(=to, 向……方向，见 [[ad]]) + olesc(成长，拉丁语 *alescere*，*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No wonder parents worry their own kids might spin out of control once they hit the turbulent waters of adolescence."（难怪父母担心自己的孩子一旦进入青春期这个动荡的水域可能会失控——考研英语阅读）
-> - "My own research at the Stanford Center on Adolescence uses in-depth interviews with small samples of youngsters rather than large-scale surveys."（我在斯坦福青少年研究中心的研究使用的是对小样本年轻人的深度访谈，而非大规模调查——考研英语阅读）
+> - The two adolescent boys made their mother very tired . `[例]`
+> - I teach in a middle school , because I like young adolescents . `[例]`
+> - He looked uncomfortable , like a self-conscious adolescent who's gone to the wrong party . `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**支撑，加固**== `V N` [正式]；②==**提高，改善**== `V N` [正式]；③增强，鼓舞 `V N`；
-**n.** ①垫子，枕垫 `N`；②支撑物 `N`；
+**v.** ①==**支撑，加固**==；②==**提高，改善**==；③增强，鼓舞；
+**n.** ①垫子，枕垫（长形支撑垫）；②支撑物；
 
 > [!tip] 原型义
 > **原型义**：支撑、加固（用垫子支撑使更牢固）
@@ -131,10 +131,9 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "More money is needed to bolster the industry." `[真题]`
-> - "This has bolstered confidence in global economic recovery." `[COCA-NEWS]`
-> - "She tried to bolster my confidence by telling me that I had a special talent." `[COCA-ACAD]`
-> - "The stated rationale is to widen access, reduce brain drain, bolster research capabilities and maximize the competitiveness of the sector." `[COCA-ACAD]`
+> - More money is needed to bolster the industry . `[例]`
+> - They need to do something to bolster their image . `[例]`
+> - The UN is sending more troops to bolster the peacekeepers. `[例]`
 
 
 ---

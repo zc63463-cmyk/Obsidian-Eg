@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**园艺的**== `horticultural society/show` [学术]；②==**与园艺栽培有关的**== `horticultural products` [学术]；
+**adj.** ①==**园艺的**== `adj`；②==**与园艺栽培有关的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：花园耕作的（拉丁语 *hortus* 花园 + *cultura* 耕作）
@@ -124,9 +124,8 @@ horti-(=garden, 花园，拉丁语 *hortus*) + cult(=cultivate, 耕作) + -ur(e)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The Royal Horticultural Society organizes the famous Chelsea Flower Show every year. `[例]`
-> - Horticultural techniques have been used to develop drought-resistant plant varieties. `[例]`
-> - The university offers a specialized program in horticultural science for students interested in sustainable agriculture. `[例]`
+> - He is a professor of horticultural science . `[例]`
+> - She visits many gardening shows and horticultural industry functions . `[例]`
 
 ## 复习记录
 

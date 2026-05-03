@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**模板，镂花模板**==；（用模板印制的）图案；
-**v.** ①用模板印制（图案、文字）；
+**n.** ①==**模板，镂花模板**== `N`；（用模板印制的）图案；
+**v.** ①==**用模板印制（图案、文字）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：刻出图案的模板（在薄片上刻出镂空图案，用来刷印）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She used stencils to paint decorative patterns on the walls.（她用模板在墙上印制装饰图案。）
-> - The letters were stenciled on the shipping crates.（字母是用模板印在运输箱上的。）
+> - She did a stencil of a rainbow on her daughter's bedroom wall . `[例]`
+> - The back of the chair was painted solid black with designs stenciled in gold . `[例]`
 
 ## 复习记录
 

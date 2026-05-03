@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In spite of the numerous challenges posed by globalization, many developing nations have managed to achieve remarkable economic growth through strategic policy reforms."（尽管全球化带来了诸多挑战，许多发展中国家通过战略性政策改革仍实现了显著的经济增长——考研阅读经济话题相关表达）
-> - "She refused to help him out of spite, even though she was fully capable of doing so, demonstrating how personal resentment can override rational judgment."（她出于恶意拒绝帮助他，尽管她完全有能力这样做，这表明个人怨恨如何能压倒理性判断——考研阅读心理话题相关表达）
+> - In spite of his injury , Ricardo will play in Saturday's match . `[例]`
+> - She started to laugh , in spite of herself. `[例]`
+> - I almost think he died without making a will just to spite his family . `[例]`
 
 
 ---

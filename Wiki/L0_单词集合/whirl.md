@@ -139,10 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a whirl of activity"（一阵繁忙的活动）——考研阅读/写作中描述繁忙场景
-> - "whirlwind tour"（旋风式访问）——新闻/政治类语料常见搭配
-> - "in a whirl"（处于混乱状态）——文学类文本中描述人物心理状态
-> - "whirlwind of change"（变革的旋风）——社论/评论类写作常见隐喻
+> - She saw a mass of bodies whirling around on the dance floor . `[例]`
+> - He stepped out into the night and the whirling snow . `[例]`
+> - He whirled her around until she felt quite sick . `[例]`
+> - The next two days passed in a whirl of activity . `[例]`
 
 ---
 

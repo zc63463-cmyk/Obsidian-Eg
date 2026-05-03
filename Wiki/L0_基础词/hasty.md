@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He later realized that he was too hasty in his decision to quit."（他后来意识到自己辞职的决定太草率了——英语阅读常见表达，hasty 修饰决定）
-> - "The Government should not be pressured into making hasty decisions."（政府不应被迫做出草率的决定——英语新闻常见表达，hasty decisions 为高频搭配）
+> - He warned against making hasty decisions . `[例]`
+> - Now, let's not leap to any hasty conclusions . `[例]`
+> - I think perhaps we were a little hasty in judging him. `[例]`
 
 
 ---

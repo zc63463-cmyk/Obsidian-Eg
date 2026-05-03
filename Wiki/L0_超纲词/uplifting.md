@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人振奋的，鼓舞人心的**==；
+**adj.** ①==**令人振奋的，鼓舞人心的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：向上举起的（up-向上 + lift举起 + -ing使...的 → 使精神向上的）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The documentary tells an uplifting story of a community coming together after a natural disaster.（这部纪录片讲述了一个自然灾害后社区团结一致的令人振奋的故事。）
-> - Her speech was genuinely uplifting, filling the audience with hope and determination.（她的演讲确实令人振奋，让听众充满了希望和决心。）
+> - For me it was a marvellously uplifting performance . `[例]`
+> - Her work focuses on protecting the ocean’s fragile ecosystem and uplifting the female voice. `[例]`
 
 ## 复习记录
 

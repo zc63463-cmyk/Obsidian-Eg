@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**利益相关者**==；②（赌注的）保管人；
+**n.** ①==**利益相关者**== `N`；②==**（赌注的）保管人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：持有赌注的人（在赌局中押了钱的人，因此对结果有利害关系）
@@ -125,7 +125,8 @@ stake(赌注/利害关系) + hold(持有) + -er(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company must consider the interests of all stakeholders, including employees, customers, and the local community."（公司必须考虑所有利益相关者的利益，包括员工、客户和当地社区。）
+> - Corporate executives need to think about the whole business and how it creates value for customers and stakeholders. `[例]`
+> - The bill faces opposition from a number of key stakeholders , including the California Chamber of Commerce. `[例]`
 
 ## 复习记录
 

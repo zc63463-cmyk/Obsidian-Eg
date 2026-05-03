@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**宣传，公布**==（使某事为公众所知）；②推广，推销；
+**v.** ①==**宣传，公布**== `V`（使某事为公众所知）；②==**推广，推销**== `V`；
 
 > [!tip] 原型义
 > **原型义**：使公众知道（把某事从私密状态推向公众视野）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government publicized the new health guidelines through social media and television.（政府通过社交媒体和电视公布了新的健康指南。）
-> - The scandal was widely publicized, damaging the company's reputation.（这桩丑闻被广泛宣传，损害了公司的声誉。）
+> - Attitudes seem to be changing as a result of recent highly publicized cases of sexual harassment . `[例]`
+> - The event was well publicized all over town . `[例]`
 
 ## 复习记录
 

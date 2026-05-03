@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**同意，赞同**== `concur with N` `concur that-clause` [正式]；②同时发生 `events that concur` [正式]；③（法律）共同导致 `factors concurred to V` [法律]；
+**v.** ①==**同意，赞同**== `V`；②==**同时发生**== `V`；③==**（法律）共同导致**== `V`；
 
 > [!tip] 原型义
 > **原型义**：一起跑（同时朝同一方向行动）
@@ -123,8 +123,8 @@ con-（一起）+ [[cur]]（跑，拉丁语 *currere*）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - I strongly concur with the committee's recommendation on this matter. `[例]`；
-> - Several factors concurred to bring about the company's sudden downfall. `[例]`；
+> - The new report concurs with previous findings . `[例]`
+> - The board concurred that the editor should have full control over editorial matters . `[例]`
 
 ## 复习记录
 

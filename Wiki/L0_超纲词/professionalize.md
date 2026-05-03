@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**使专业化**==；②==**使成为专业职业**==；
+**vt.** ①==**使专业化**== `V N`；②==**使成为专业职业**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：使专业化（使某领域具有专业职业的标准和规范）
@@ -125,7 +125,8 @@ profession（专业/职业）+ -al（形容词后缀）+ -ize（动词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The 19th century saw efforts to professionalize medicine through formal education and licensing."（19世纪见证了通过正规教育和执照制度使医学专业化的努力。）
+> - The country is professionalizing the military. `[例]`
+> - As the field of comment moderation professionalized , community managers started to be put in place, charged with moderation. `[例]`
 
 ## 复习记录
 

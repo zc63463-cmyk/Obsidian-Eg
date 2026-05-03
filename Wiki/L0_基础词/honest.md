@@ -131,8 +131,9 @@ hon(荣誉，拉丁语 *honor* "荣誉/尊敬") + -est(形容词后缀，表"具
 ## 真题/语料关联
 
 > [!example]- 语料
-> - To be honest, I don't think this plan is feasible.（老实说，我认为这个计划不可行——考研写作/口语高频表达）
-> - Honesty is widely regarded as one of the most important virtues in any society.（诚实被广泛认为是任何社会最重要的美德之一——考研写作常见话题）
+> - He had an honest face (= he looked like he could be trusted ) . `[例]`
+> - To be honest (= To tell the truth ) , I didn’t like the movie . `[例]`
+> - Be honest now - do you think this dress is too young for me? `[例]`
 
 
 ---

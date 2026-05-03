@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Aerial photography has revolutionized the study of archaeology."（航空摄影已经彻底改变了考古学的研究。——考研阅读相关话题）
-> - "Weeks of aerial strikes had destroyed factories and roads."（数周的空袭已经摧毁了各工厂和公路。——考研翻译相关话题）
+> - She won a medal in the freestyle aerials at the last Winter Olympics . `[例]`
+> - He is famous for performing jaw-dropping aerials. `[例]`
+> - Meanwhile, the massive aerial bombardment of military targets continued unabated . `[例]`
 
 
 ---

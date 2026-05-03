@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is whispered that he will resign soon."（有人私下说他很快就会辞职）——考研阅读常见句式，表示传闻
-> - "She whispered the secret in my ear."（她在我耳边低声说了那个秘密）——描述私密交流
-> - "the whispering pines"（沙沙作响的松林）——文学类文本中常见的自然描写
+> - She leaned over and whispered something in his ear . `[例]`
+> - What are you two girls whispering about? `[例]`
+> - Where are the toilets ?" she whispered. `[例]`
 
 ---
 

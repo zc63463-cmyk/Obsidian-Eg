@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可追踪的，可追溯的**==；②可找到根源的；
+**adj.** ①==**可追踪的，可追溯的**== `adj`；②==**可找到根源的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：可追踪的（可以找到来源或去向的）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The outbreak was traceable to contaminated water supplies."（这次疫情可追溯到受污染的水源）
-> - "All financial transactions should be traceable for regulatory purposes."（出于监管目的，所有金融交易都应该是可追踪的）
+> - In theory , most phone calls should be traceable. `[例]`
+> - His medical problems were shown to be traceable to (= to have been caused by) his having been exposed to dangerous chemicals . `[例]`
 
 ## 复习记录
 

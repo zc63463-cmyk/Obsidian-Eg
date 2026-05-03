@@ -124,8 +124,9 @@ liquor（13世纪，源自古法语 *licour*，源自拉丁语 *liquor* "液体�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The state has strict regulations regarding the sale of liquor."（该州对烈酒的销售有严格的规定。——考研英语阅读相关语料，法律话题）
-> - "Excessive consumption of hard liquor can lead to serious health problems."（过量饮用烈酒会导致严重的健康问题。——考研相关语料）
+> - He spent most of his money on liquor and drugs . `[例]`
+> - Count a drink as 12 ounces of regular beer , 5 ounces of wine or one shot of liquor or spirits . `[例]`
+> - Take the mixture off the heat once it has concentrated to a thin but aromatic liquor. `[例]`
 
 
 ---

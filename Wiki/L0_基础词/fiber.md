@@ -135,8 +135,9 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Healthy diet includes foods rich in whole grains and fiber, foods with good fats from nuts, little sugar, and less red meat."（健康饮食包括富含全谷物和纤维的食物，含有坚果中优质脂肪的食物，少量糖和较少的红肉。——考研阅读常见健康话题）
-> - "To improve bowel regularity we recommend that plenty of water and fiber be included in the diet."（为了改善肠道规律性，我们建议饮食中应包含大量的水和纤维。——考研翻译常见医学话题）
+> - Police detectives found cloth fibers at the crime scene that matched those from the coat the suspect was wearing . `[例]`
+> - He lacked the moral fiber to be president . `[例]`
+> - Doctors recommend a diet of fruits , vegetables , and grains that are high in fiber. `[例]`
 
 
 ---

@@ -128,9 +128,9 @@ trans-(跨越) + [[mit|mit]](发送)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Parents transmit some of their characteristics to their children through genes."（父母通过基因将一些特征遗传给子女。）——考研高频表达
-> - "The disease is transmitted through contaminated water and food."（这种疾病通过受污染的水和食物传播。）——考研高频表达
-> - "The knowledge transmitted from one generation to the next forms the foundation of civilization."（代代相传的知识构成了文明的基础。）——考研高频表达
+> - Radio Seven transmits on 201 medium wave (= uses those particular radio waves to broadcast on) . `[例]`
+> - The information is transmitted electronically to the central computer . `[例]`
+> - Department stores use EDI to transmit orders to suppliers . `[例]`
 
 ---
 

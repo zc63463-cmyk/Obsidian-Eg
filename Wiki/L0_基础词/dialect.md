@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The poet wrote many of his works in the Scottish dialect."（这位诗人用苏格兰方言写了许多作品。）
-> - "The dialect spoken in this region is quite different from standard Mandarin."（这个地区说的方言与标准普通话有很大不同。）
+> - The various regional dialects are still spoken locally . `[例]`
+> - The poem is written in northern dialect. `[例]`
+> - The author uses dialect in his writing. `[例]`
 
 
 ---

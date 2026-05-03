@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**继续进行，继续前进**== ; ②进而，开始做 ;
-**vi.** ①（沿特定路线）行进 ;
+**v.** ①==**继续进行，继续前进**== `V` ; ②==**进而，开始做 ;**== `V`
+**vi.** ①==**（沿特定路线）行进 ;**== `V`
 
 > [!tip] 原型义
 > **原型义**：继续前进、进行——向前走、向前推进
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For an active learner, engaging with a textbook can be an interactive experience: readers proceed at their own pace."（对于主动学习者来说，阅读教科书可以是一种互动体验：读者按照自己的节奏进行。）——考研真题阅读
-> - "Nicaraguan naval authorities had banned sea travel in the area because of bad weather and strong winds, but the tour boat proceeded anyway."（尼加拉瓜海军当局因恶劣天气和大风禁止了该区域的海上航行，但游船仍然继续前行。）——考研真题阅读
+> - His lawyers have decided not to proceed with the case . `[例]`
+> - Preparations for the festival are now proceeding smoothly . `[例]`
+> - She sat down and proceeded to tell me about her skiing holiday . `[例]`
 
 ---
 

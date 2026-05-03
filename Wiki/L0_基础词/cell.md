@@ -139,8 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Stem cell research is supported by many doctors."（干细胞研究得到很多医生的支持——考研英语阅读）
-> - "Each cell of our bodies contains 46 chromosomes."（我们体内的每个细胞都含有46条染色体——考研英语阅读）
+> - The cells of a honeycomb. `[例]`
+> - The fission of the cell could be inhibited with certain chemicals . `[例]`
+> - DNA is stored in the nucleus of a cell. `[例]`
 
 
 ---

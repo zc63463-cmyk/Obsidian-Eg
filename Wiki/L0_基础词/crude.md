@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country's economy is heavily dependent on crude oil exports."（该国经济严重依赖原油出口——考研常见表达）
-> - "They constructed a crude shelter from branches and leaves."（他们用树枝和树叶搭了一个简陋的棚子）
+> - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
+> - Our initial crude calculations show that we made a profit this month . `[例]`
+> - The MP's speech was dismissed by her opponents as crude electioneering . `[例]`
 
 
 ---

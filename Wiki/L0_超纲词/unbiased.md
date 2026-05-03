@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无偏见的，公正的**==；②不偏不倚的；
+**adj.** ①==**无偏见的，公正的**== `adj`；②==**不偏不倚的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：无偏见的（没有偏离中心）
@@ -128,8 +128,8 @@ un-(不，否定前缀) + [[bi-|bi]](二/双) + -as(后缀，斜向) + -ed(形�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It is difficult to maintain an unbiased perspective on this issue."（在这个问题上很难保持不偏不倚的视角。）
-> - "An unbiased sample is essential for accurate survey results."（无偏样本对于准确的调查结果至关重要。）
+> - He admits that his newspaper was not an unbiased observer in the conflict . `[例]`
+> - We try to remain as unbiased as we can, but it is difficult . `[例]`
 
 ## 复习记录
 

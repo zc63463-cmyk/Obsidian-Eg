@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**记住，熟记**== `V N` `V N by heart` [中性]；②==**记录，存储（计算机）**== `V N` `N be V-ed` [技术]；
+**v.** ①==**记住，熟记**== `V`；②==**记录，存储（计算机）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：通过反复练习将信息存入记忆
@@ -127,8 +127,8 @@ memor(记忆，拉丁语 *memoria*) + -ize(动词后缀，使……化)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` Students who memorize information without understanding it will soon forget. [C]
-> - `` `[例]` `` The actor spent weeks memorizing his lines before the rehearsal period began. [C]
+> - When I was at school , we were required to memorize a poem every week . `[例]`
+> - She memorized her friends ’ phone numbers . `[例]`
 
 ## 复习记录
 

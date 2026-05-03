@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抗议，反对**==；②申辩，坚决主张；
-**n.** ①抗议（活动）；②反对声明；
+**v.** ①==**抗议，反对**== `V`；②==**申辩，坚决主张**== `V`；
+**n.** ①==**抗议（活动）**== `N`；②==**反对声明**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在前面作证（源自拉丁语 *protestari*，pro-在前 + testari-作证）
@@ -131,8 +131,9 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Thousands of workers protested against the government's new labor law."（数千名工人抗议政府的新劳动法。）
-> - "She protested her innocence to the court."（她向法庭申辩自己的清白。）
+> - Protests have been made by many people who would be affected by the proposed changes . `[例]`
+> - A formal protest was made by the German team about their disqualification from the relay final . `[例]`
+> - Conservation groups have united in protest against the planned new road . `[例]`
 
 
 ---

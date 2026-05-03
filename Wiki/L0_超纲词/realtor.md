@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**房地产经纪人**==（尤指美国全国房地产经纪人协会成员）；
+**n.** ①==**房地产经纪人**== `N`（尤指美国全国房地产经纪人协会成员）；
 
 > [!tip] 原型义
 > **原型义**：房地产经纪人（处理不动产交易的人）
@@ -123,7 +123,8 @@ real（真实的，指 real estate 不动产）+ -tor（名词后缀，表人）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无考研真题关联记录
+> - The conference attracted more than 400 local architects , developers , and Realtors. `[例]`
+> - However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtor. `[真题]`
 
 ## 复习记录
 

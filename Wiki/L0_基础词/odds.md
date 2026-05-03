@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**可能性，几率**==；②==**不利条件，逆境**==；③（赌注的）赔率；④差异，分歧；
+**n.** ①==**可能性，几率**== `N`；②==**不利条件，逆境**== `N`；③==**（赌注的）赔率**== `N`；④==**差异，分歧**== `N`；
 
 > [!tip] 原型义
 > **原型义**：超出常规的部分之间的差异（odd"超出常规"的名词形式 → 不对等的事物之间的差距）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even demographics are working against the middle class family, as the odds of having a weak elderly parent — and all the attendant need for physical and financial assistance — have jumped eightfold in just one generation."（甚至人口统计也对中产阶级家庭不利，因为拥有一位体弱年迈父母的几率——以及随之而来的身体和经济援助需求——在仅仅一代人的时间里就增长了八倍。——2007年英语一Text 3）
-> - "The odds are very much in our favour."（我方胜算的几率极大。——考研高频表达）
+> - If you drive a car all your life , the odds are that you'll have an accident at some point . `[例]`
+> - There are heavy odds against people succeeding in such a bad economic climate . `[例]`
+> - What are the odds on him being (= do you think he will be) re-elected ? `[例]`
 
 
 ---

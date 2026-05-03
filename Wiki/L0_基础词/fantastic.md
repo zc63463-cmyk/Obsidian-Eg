@@ -135,8 +135,9 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Placing too much emphasis on their opinions can ruin a fantastic home purchase."（过于强调他们的意见可能会毁掉一次极好的购房机会。——2017年考研英语阅读）
-> - "This tour transports you back in time to one of San Francisco's most fantastic periods, the 1950s!"（这次旅行带你穿越回旧金山最奇妙的时期之一——20世纪50年代！——考研英语阅读文化类话题）
+> - You look fantastic in that dress . `[例]`
+> - We had a fantastic time . `[例]`
+> - You're doing a fantastic job and we're really proud of you. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**史前的，有文字记载以前的**==；②==**陈旧的，老掉牙的**==（比喻用法）；
+**adj.** ①==**史前的，有文字记载以前的**== `adj`；②==**陈旧的，老掉牙的**== `adj`（比喻用法）；
 
 > [!tip] 原型义
 > **原型义**：有文字记载之前的（历史出现之前的时代）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Prehistoric cave paintings provide valuable insights into the lives of early humans."（史前洞穴壁画为我们了解早期人类的生活提供了宝贵的视角。）
+> - Painting originated in prehistoric times . `[例]`
+> - He has prehistoric views about women who have careers . `[例]`
 
 ## 复习记录
 

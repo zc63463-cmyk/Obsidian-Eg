@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bank loan has greatly strengthened our financial position."（银行的贷款极大地加强了我们的财力。）——考研高频表达
-> - "Legislation aimed at strengthening oversight and transparency of private agencies took effect in 2001."（旨在加强私营机构监督和透明度的立法于2001年生效。）——考研高频表达
+> - The bank loan has greatly strengthened our financial position . `[例]`
+> - They have been strengthening their border defences in preparation for war . `[例]`
+> - His battle against cancer has strengthened his belief in God . `[例]`
 ---
 
 

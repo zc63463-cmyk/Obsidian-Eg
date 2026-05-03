@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**子女，后代**==；②==**（动物的）幼崽**==；③==**结果，产物**==（引申义）；
+**n.** ①==**子女，后代**== `N`；②==**（动物的）幼崽**== `N`；③==**结果，产物**== `N`（引申义）；
 
 > [!tip] 原型义
 > **原型义**：从某人身上跳跃生长出来的后代（源自古英语 *ofspring*，of "离开" + springan "跳跃/生长"）
@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "produce healthy offspring"（繁殖健康的后代）——生物/科普类阅读
-> - "the offspring of scientific research"（科学研究的产物）——学术/科技类语料
-> - "parents and their offspring"（父母及其子女）——家庭/社会类话题
-> - "female animals may give birth to multiple offspring"（雌性动物可能产下多个幼崽）——生物类语料
+> - In the case of the guinea pig , the number of offspring varies between two and five. `[例]`
+> - Tom's sister came over on Saturday with all her offspring. `[例]`
+> - Champion horses have numerous offspring. `[例]`
+> - The problems parents have with their teenage offspring. `[例]`
 
 ---
 

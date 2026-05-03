@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**主要的，最重要的**==；
+**adj.** ①==**主要的，最重要的**== `adj`；
 
-**n.** ①校长；②本金；③主角；④委托人；
+**n.** ①==**校长**== `N`；②==**本金**== `N`；③==**主角**== `N`；④==**委托人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：主要的（排在第一位的，最重要的）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The principal reason for the company's success is its commitment to innovation."（该公司成功的主要原因在于其对创新的承诺。）——考研高频表达
-> - "The principal investigator of the research project published the findings in a leading journal."（该研究项目的首席研究员在一家顶级期刊上发表了研究结果。）——考研高频表达
+> - Iraq's principal export is oil . `[例]`
+> - He was principal dancer at the Dance Theatre of Harlem. `[例]`
+> - That was my principal reason for moving . `[例]`
 
 ---
 

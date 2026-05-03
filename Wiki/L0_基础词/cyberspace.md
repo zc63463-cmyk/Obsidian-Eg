@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Cyberspace has become a new domain of national security."（网络空间已成为国家安全的新领域——考研科技/政治类话题高频表达）
-> - "The government is strengthening cyberspace governance to protect citizens' personal information."（政府正在加强网络空间治理以保护公民个人信息——政策类语料）
+> - You can find the answer to almost any question in cyberspace. `[例]`
+> - A group of knitters has banded together in cyberspace to offer free patterns . `[例]`
+> - It is not surprising that more of cyberspace is being devoted to helping consumers buy green . `[例]`
 
 
 ---

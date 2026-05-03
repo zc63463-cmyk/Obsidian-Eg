@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government has clamped down on illegal immigration. `[例]`
-> - The police are clamping down on drug trafficking in the city. `[例]`
+> - Carefully tighten the clamp until it firmly supports the pipette in a vertical position . `[例]`
+> - Clamp the two pieces of wood (together) for 15 minutes . `[例]`
 
 ## 复习记录
 

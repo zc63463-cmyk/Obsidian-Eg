@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tropical rainforest abounds with species that have not yet been discovered or documented by scientists."（热带雨林中大量存在着科学家尚未发现或记录的物种——考研阅读生态话题相关表达）
-> - "Historical records show that this region once abounded in gold and silver, attracting prospectors from around the world."（历史记录显示，这个地区曾经盛产金银，吸引了来自世界各地的淘金者——考研翻译历史话题相关表达）
+> - Theories abound about how the universe began . `[例]`
+> - The streams and rivers abound in fish . `[例]`
+> - Stories about his travels abound. `[例]`
 
 
 ---

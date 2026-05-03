@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（热带）稀树草原，萨瓦纳草原**==；
+**n.** ①==**（热带）稀树草原，萨瓦纳草原**== `N`；
 
 > [!tip] 原型义
 > **原型义**：树木稀疏的热带草原（一种特定的热带草地景观）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The African savanna is home to some of the world's most iconic wildlife."（非洲稀树草原是世界上最标志性野生动物的家园。）
-> - "Savannas cover approximately 20% of the Earth's land surface."（稀树草原覆盖了地球陆地表面的大约20%。）
+> - They are working on ways to conserve the globally rare habitat of oak savanna . `[例]`
+> - The bird is rarely seen in many areas because of the destruction of the oak savannas upon which it relies. `[例]`
 
 ## 复习记录
 

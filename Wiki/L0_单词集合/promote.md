@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**促进，推动**== ; ②==**晋升，提拔**== ; ③宣传，推广 ;
+**v.** ①==**促进，推动**== `V` ; ②==**晋升，提拔**== `V` ; ③==**宣传，推广 ;**== `V`
 
 > [!tip] 原型义
 > **原型义**：向前移动（to move forward）
@@ -132,8 +132,9 @@ pro-(向前) + mote(移动) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women."（下次有人把公司配额作为促进性别平等的一种方式来推行时，请记住，这些政策基本上是自私自利的措施，让赞助者感觉良好，但对普通女性几乎没有帮助——2020年考研英语一阅读）
-> - "The parliament also agreed to ban websites that incite excessive thinness by promoting extreme dieting."（议会还同意禁止通过宣传极端节食来煽动过度消瘦的网站——2016年考研Text 1）
+> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+> - Waterstones staff hesitate to promote big-name authors' books. `[真题]`
+> - Advertising companies are always having to think up new ways to promote products . `[例]`
 
 
 ---

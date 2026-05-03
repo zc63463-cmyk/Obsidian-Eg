@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**阻塞，堵塞**==；②==**妨碍，阻挠**==；③遮断（视线等）；
+**vt.** ①==**阻塞，堵塞**== `V N`；②==**妨碍，阻挠**== `V N`；③==**遮断（视线等）**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：在前面建造阻挡物（ob-对着 + struct-建造 → 在你前面建一堵墙挡住你）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Tall trees obstructed his view of the road."（大树遮挡了他看道路的视线。——考研阅读高频句式）
-> - "He was charged with obstructing the highway."（他因阻碍公路交通而受到指控。——考研翻译高频表达）
+> - After the earthquake many roads were obstructed by collapsed buildings . `[例]`
+> - Her view of the stage was obstructed by a pillar . `[例]`
+> - An accident is obstructing traffic on the M11. `[例]`
 
 
 ---

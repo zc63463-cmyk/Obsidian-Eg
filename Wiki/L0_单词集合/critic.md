@@ -123,8 +123,9 @@ crit(判断，区分) + -ic(做...的人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared."（批评家还指出，商业化基因检测的效果好坏取决于用于样本比对的参照基因库。）——2009考研英语阅读Text2
-> - "Some critics argue that the new policy will do more harm than good."（一些批评家认为，新政策弊大于利。）——考研高频表达
+> - Her critics say she is leading the party to disaster . `[例]`
+> - He's his own worst critic (= he judges himself severely ) . `[例]`
+> - The play has been well received by the critics. `[例]`
 
 ---
 

@@ -147,10 +147,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "by the way"（顺便说一下）——考研阅读/听力中极为常见的过渡语
-> - "in no way"（绝不）——考研翻译中常见否定强调结构
-> - "the way to success"（成功之路）——写作中常用隐喻表达
-> - "under way"（在进行中）——学术/新闻语料中描述进程
+> - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
+> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
+> - Over nearly four months , dozens of men made their way on horseback into Montana and traversed along the Yellowstone River and around Yellowstone Lake. `[真题]`
+> - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
 
 ---
 

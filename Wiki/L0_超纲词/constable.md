@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**警察，巡警**== `a police constable (PC)` `Chief Constable` [英式]（英式）；②（历史上的）治安官 `a local constable` [历史]；③（某些英联邦国家的）警员 `a constable on duty` [英式]；
+**n.** ①==**警察，巡警**== `N`（英式）；②==**（历史上的）治安官**== `N`；③==**（某些英联邦国家的）警员**== `N`；
 
 > [!tip] 原型义
 > **原型义**：驻守官（维持稳定的官员）
@@ -116,8 +116,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The constable was patrolling the neighborhood on foot when the incident occurred. `[例]`；
-> - The Chief Constable announced new measures to combat rising street crime across the region. `[例]`；
+> - And accordingly, orders were given to the constable. `[例]`
+> - In ten minutes the two constables returned, having performed their mission. `[例]`
 
 ## 复习记录
 

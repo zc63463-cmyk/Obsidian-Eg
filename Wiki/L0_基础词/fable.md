@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Aesop's Fables have been told for centuries to teach moral lessons."（伊索寓言被讲述了几百年，用来传授道德教训——考研英语阅读文化类话题）
-> - "The story of the lost city was long considered mere fable until its discovery."（这座失落之城的故事在被发现之前一直被认为是纯粹的虚构——考研翻译相关表达）
+> - Latisha loves the fable about the grasshopper and the ant . `[例]`
+> - A fable about busy ants. `[例]`
+> - The story that he won the battle single-handedly is a mere fable . `[例]`
 
 
 ---

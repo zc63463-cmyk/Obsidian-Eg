@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**作用于精神的，影响心理的**==（指药物或物质改变大脑功能，影响情绪、感知、意识等）；
+**adj.** ①==**作用于精神的，影响心理的**== `adj`（指药物或物质改变大脑功能，影响情绪、感知、意识等）；
 
 > [!tip] 原型义
 > **原型义**：对心理/精神产生作用的（物质进入大脑后改变精神状态）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Caffeine is the most widely consumed psychoactive substance in the world.（咖啡因是世界上消费最广泛的精神活性物质。）
-> - The study examined the psychoactive effects of various plant extracts on human subjects.（该研究检验了各种植物提取物对人体对象的精神活性作用。）
+> - Ibogaine comes from the West African plant, which has long been used for its psychoactive properties in the Bwiti spiritual tradition in Gabon. `[例]`
+> - Psilocybin is the main psychoactive ingredient in magic mushrooms. `[例]`
 
 ## 复习记录
 

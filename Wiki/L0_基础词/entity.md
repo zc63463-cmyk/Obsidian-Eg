@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the eyes of the law, a corporation is treated as a separate legal entity, distinct from its shareholders and directors."（在法律眼中，公司被视为一个独立的法律实体，与其股东和董事区分开来——考研阅读法律话题）
-> - "The European Union functions as both a political and economic entity, with member states maintaining varying degrees of sovereignty."（欧盟作为一个政治和经济实体运作，成员国保持不同程度的主权——考研阅读政治话题）
+> - He regarded the north of the country as a separate cultural entity. `[例]`
+> - Although the two buildings are in separate locations , the museum they are part of is a single entity. `[例]`
+> - The unit has become part of a larger department and no longer exists as a separate entity . `[例]`
 
 
 ---

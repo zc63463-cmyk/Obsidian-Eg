@@ -137,8 +137,9 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She quoted a few verses from a poem to illustrate her point."（她引用了几句诗来阐明自己的观点。）——考研高频表达
-> - "During the discussion of rock singing verses at last month's meeting, Levin asserted that music is not the cause of society's ills."（在上个月会议上讨论摇滚歌词时，莱文断言音乐不是社会弊病的根源。）——1997考研阅读Text4
+> - Each verse was sung as a solo and then everyone joined in on the chorus . `[例]`
+> - She has a talent for writing humorous verse. `[例]`
+> - We’ll sing only the first and last verses. `[例]`
 
 ---
 

@@ -131,8 +131,9 @@ centi-(百，百分之一) + grad(级/步/度，拉丁语 *gradus*) + -e(连接�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Sometimes it is cold as 26 degrees below centigrade."（有时候冷到零下26摄氏度。——2011年12月六级听力原文）
-> - "A person's normal body temperature is about 37 degrees centigrade."（人的正常体温大约是37摄氏度。——考研高频表达）
+> - We measure the temperature in degrees centigrade. `[例]`
+> - Temperatures in centigrade and Fahrenheit. `[例]`
+> - The scientists found that planting trees in urban areas can lower pedestrian-height air temperature by up to 12 degrees centigrade (53.5 F). `[例]`
 
 
 ---

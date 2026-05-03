@@ -132,8 +132,9 @@ extra-(=exterus, 在外面，超出)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The extra work load is taking a toll on employees' health."（额外的工作量正在损害员工的健康——考研高频表达）
-> - "Students need extra help to catch up with the curriculum."（学生需要额外的帮助来赶上课程进度）
+> - The support service consultancies tend to __ _ A. recommend journals to their clients B. list citation patterns their clients C. ask authors to include extra citations D. advise contributors to cite each other 38. `[真题]`
+> - Recently he's been working an extra two hours a day . `[例]`
+> - The price includes travel and accommodation but meals are extra (= there is an additional charge for meals ) . `[例]`
 
 
 ---

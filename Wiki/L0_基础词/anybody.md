@@ -126,8 +126,9 @@ any(任何一个) + body(身体/人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Internet allows anybody to publish their opinions, regardless of expertise."（互联网允许任何人发表自己的观点，无论其专业水平如何。——考研英语阅读科技社会类话题）
-> - "He isn't just anybody — he's the former CEO of the company."（他不是随便什么人——他是公司的前任CEO。——考研英语阅读人物介绍类表达）
+> - Does anybody have change for a $10 bill ? `[例]`
+> - She's a bitworried about moving to a big city where she won't know anybody. `[例]`
+> - The front door was open so she walked inside and called out, "Hello! Is there anybody in? `[例]`
 
 
 ---

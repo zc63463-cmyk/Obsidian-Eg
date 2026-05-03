@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**李子，梅子**==；②李子色，紫红色；③令人垂涎的事物（尤指高薪职位）；
-**adj.** ④最好的，一流的；
+**n.** ①==**李子，梅子**== `N`；②==**李子色，紫红色**== `N`；③==**令人垂涎的事物（尤指高薪职位）**== `N`；
+**adj.** ④==**最好的，一流的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：李子（一种圆形的甜水果）
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He landed a plum job at the bank after graduation."（毕业后他在银行谋得了一份令人垂涎的好工作。）
+> - Grandpa planted a lot of fruit trees , including gooseberry , blackcurrant , plum, and loganberry . `[例]`
+> - How did you manage to get such a plum job ? `[例]`
 
 ## 复习记录
 

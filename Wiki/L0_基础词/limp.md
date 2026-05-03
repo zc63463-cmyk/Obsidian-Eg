@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He limped off the field after injuring his ankle."（脚踝受伤后他一瘸一拐地走下了球场）
-> - "The company has been limping along for years, barely making a profit."（公司多年来勉强维持，几乎不盈利）
+> - The dog looks like it's limping - is it OK? `[例]`
+> - He limped off to see the team medic . `[例]`
+> - Three minutes into the game , Jackson limped off the pitch with a serious ankle injury . `[例]`
 
 
 ---

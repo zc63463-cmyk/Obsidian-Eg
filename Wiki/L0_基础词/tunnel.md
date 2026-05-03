@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**隧道，地道**==；②（动物的）洞穴通道；
-**v.** ①挖隧道；②穿过隧道；
+**n.** ①==**隧道，地道**== `N`；②==**（动物的）洞穴通道**== `N`；
+**v.** ①==**挖隧道**== `V`；②==**穿过隧道**== `V`；
 
 > [!tip] 原型义
 > **原型义**：筒状通道（像大桶一样的地下通道）
@@ -125,8 +125,9 @@ tunnel 源自古法语 *tonnel*（大桶、圆筒），是 *tonne*（大桶）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tunnel was dug through solid rock."（这条隧道是在坚硬的岩石中开凿的。）
-> - "We can see the light at the end of the tunnel — the economy is recovering."（我们看到了隧道尽头的光亮——经济正在复苏。）
+> - The decision has not yet been made whether to tunnel under the river or build a bridge over it. `[例]`
+> - The alternative is to tunnel a route through the mountain . `[例]`
+> - He was trapped in a collapsed building but managed to tunnel his way out. `[例]`
 
 
 ---

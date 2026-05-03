@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**悲剧，惨事**==；②悲剧文学/戏剧；③悲惨的事，不幸；
+**n.** ①==**悲剧，惨事**== `N`；②==**悲剧文学/戏剧**== `N`；③==**悲惨的事，不幸**== `N`；
 
 > [!tip] 原型义
 > **原型义**：悲剧（古希腊戏剧中表现英雄命运逆转的戏剧形式）
@@ -125,8 +125,9 @@ tragedy 源自希腊语 *tragōidia*，由 *tragos*（山羊）+ *ōidē*（歌/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The earthquake was a tragedy that claimed thousands of lives.（这场地震是一场夺去数千人生命的惨剧。）
-> - Shakespeare's tragedies explore the depths of human nature.（莎士比亚的悲剧探索了人性的深处。）
+> - The pilot averted a tragedy when he succeeded in preventing the plane from crashing . `[例]`
+> - Hitler's invasion of Poland led to the tragedy of the Second World War. `[例]`
+> - His life was touched by hardship and personal tragedy. `[例]`
 
 
 ---

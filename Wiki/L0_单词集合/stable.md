@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government aims to maintain stable prices and control inflation."（政府的目标是维持物价稳定并控制通货膨胀。）——考研高频表达
-> - "A stable family environment is crucial for children's healthy development."（稳定的家庭环境对儿童的健康成长至关重要。）——考研高频表达
-> - "The economy has remained relatively stable despite the global financial crisis."（尽管发生了全球金融危机，经济仍保持相对稳定。）——考研高频表达
+> - If the foundations of the house aren't stable, collapse is possible . `[例]`
+> - After several part-time jobs , he's now got a stable job in a bank . `[例]`
+> - The hospital said she was in a stable condition (= not likely to get worse ) following the operation . `[例]`
 
 ---
 

@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "an urgent need for reform"（改革的紧迫需求）——考研阅读/写作高频搭配
-> - "urgently require immediate attention"（急需立即关注）——考研正式语体
-> - "address urgent issues"（解决紧急问题）——考研写作常用搭配
+> - According to Branch, state-level science standards in the US __ _ A. call for regular revision B. require urgent application C. have limited influence D. cater to local needs 25. `[真题]`
+> - He's got to sign that paper - will you tell him it's urgent? `[例]`
+> - The most urgent thing in a fire is to make sure everyone is out of the building . `[例]`
 
 ---
 

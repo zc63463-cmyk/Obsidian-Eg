@@ -129,8 +129,9 @@ stitch 源自古英语 *stice*（一针），与 [[st-sta-stat]]（站立）词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The surgeon stitched the wound with remarkable precision."（外科医生以惊人的精确度缝合了伤口）
-> - "A stitch in time saves nine — addressing small problems early prevents them from becoming major crises."（及时一针省九针——及早解决小问题可以防止它们演变成重大危机）
+> - Secure the two pieces together with a couple of stitches. `[例]`
+> - Cast on (= make the first row on the needle ) 50 stitches using pink wool . `[例]`
+> - Cast off the first four stitches (= take them off the needle and finish the edge ) . `[例]`
 
 
 ---

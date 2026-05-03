@@ -137,9 +137,9 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Indeed, we have made substantial progress in some parts of the world on at least one of these — the distribution of family-planning services."（事实上，在世界上某些地区，我们至少在其中一方面——计划生育服务的分配——取得了实质性进展。）——考研阅读真题
-> - "The house is built of substantial stone."（这房子是用坚固的石头建造的。）——2012年考研英语一Text1
-> - "She sold the restaurant with a substantial profit."（她以可观的利润卖掉了那家餐厅。）——考研高频表达
+> - The findings show a substantial difference between the opinions of men and women. `[例]`
+> - She inherited a substantial fortune from her grandmother . `[例]`
+> - The first draft of his novel needed a substantial amount of rewriting . `[例]`
 
 ---
 

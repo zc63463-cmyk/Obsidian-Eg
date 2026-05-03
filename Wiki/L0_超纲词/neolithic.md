@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**新石器时代的**== `neolithic period` `adj N` [学术/正式]；
-**n.** ①==**新石器时代**== `the Neolithic` `the adj` [学术/正式]；
+**adj.** ①==**新石器时代的**== `adj`；
+**n.** ①==**新石器时代**== `N`；
 
 > [!tip] 原型义
 > **原型义**：新石器的（使用磨制石器的时代）
@@ -125,8 +125,8 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` The Neolithic Revolution marked the transition from hunting and gathering to agriculture. [C]
-> - `` `[例]` `` Neolithic settlements have been discovered across Europe and Asia. [C]
+> - The neolithic period is sometimes called the new stone age . `[例]`
+> - Neolithic settlements have been discovered across Europe and Asia. `[例]`
 
 ## 复习记录
 

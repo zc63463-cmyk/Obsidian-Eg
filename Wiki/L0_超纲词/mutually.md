@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**互相地，彼此地**== `adv adj` [通用]；②==**共同地**== `adv V-ed` [通用]；
+**adv.** ①==**互相地，彼此地**== `adv`；②==**共同地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：互相地，双方地
@@ -124,8 +124,8 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The two countries entered into a mutually beneficial trade agreement. [C]
-> - `[例]` The two events are mutually exclusive and cannot be scheduled on the same day. [C]
+> - It will be a mutually beneficial project . `[例]`
+> - A lot of people still think brains and beauty are mutually exclusive (= cannot exist together at the same time ) . `[例]`
 
 ## 复习记录
 

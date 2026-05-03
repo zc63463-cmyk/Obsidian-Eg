@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**淤泥，泥沙**==；②粉砂，细沙；
-**v.** ①（使）淤塞；（被淤泥）堵塞；
+**n.** ①==**淤泥，泥沙**== `N`；②==**粉砂，细沙**== `N`；
+**v.** ①==**（使）淤塞**== `V`；（被淤泥）堵塞；
 
 > [!tip] 原型义
 > **原型义**：河流或湖泊底部沉积的细颗粒泥沙
@@ -127,7 +127,8 @@ silt（源自古英语 *sylt*，与"盐"同源，原指"淤积物"）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The harbour gradually silted up and became unusable for large ships."（港口逐渐淤塞，大型船只无法再使用。）
+> - The wreck was covered in a fine layer of silt. `[例]`
+> - The tunnel had been blocked with silt. `[例]`
 
 ## 复习记录
 

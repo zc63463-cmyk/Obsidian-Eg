@@ -122,8 +122,9 @@ vulg-(普通大众，平民) + -ar(形容词后缀，表示"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The vulgar display of wealth at the gala was widely criticized in the media."（晚宴上庸俗的炫富行为受到媒体的广泛批评。）——考研高频表达
-> - "Many people find vulgar language in public spaces offensive."（许多人认为公共场所的粗俗语言令人反感。）——考研高频表达
+> - A vulgar patterned shirt. `[例]`
+> - I've no idea how much the clothes cost because there was nothing so vulgar as a price tag in evidence . `[例]`
+> - It was an extremely vulgar joke . `[例]`
 
 ---
 

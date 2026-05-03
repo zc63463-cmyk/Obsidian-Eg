@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**锦标赛，联赛**==；②（中世纪的）骑士比武大会；
+**n.** ①==**锦标赛，联赛**== `N`；②==**（中世纪的）骑士比武大会**== `N`；
 
 > [!tip] 原型义
 > **原型义**：锦标赛，比赛（多轮淘汰制的竞赛）
@@ -122,8 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "She won her first professional tennis tournament at the age of 17."（她在17岁时赢得了第一个职业网球锦标赛冠军）
-> - "The tournament attracted teams from over 30 countries."（这次锦标赛吸引了来自30多个国家的队伍参加）
+> - They were defeated in the first round of the tournament. `[例]`
+> - Our ambitions for this tournament have been defeated by the weather . `[例]`
 
 ## 复习记录
 

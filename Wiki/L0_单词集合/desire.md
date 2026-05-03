@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "You can make a mental blueprint of a desire as you would make a blueprint of a house."（你可以在头脑里勾画出愿望的蓝图，如同设计房屋的蓝图一样。）——1996年考研阅读
-> - "The human desire for companionship may feel boundless, but research suggests that our social capital is finite."（人类对友谊的渴望可能感觉是无限的，但研究表明我们的社交资本是有限的。）——2018年考研题源
+> - I desire only to be left in peace . `[例]`
+> - The hotel had everything you could possibly desire. `[例]`
+> - The president desires to meet the new prime minister . `[例]`
 
 ---
 

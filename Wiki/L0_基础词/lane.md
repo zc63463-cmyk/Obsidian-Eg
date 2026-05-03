@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Carol Harvey suggests that cyclists should be asked to ride on their own lanes."（卡罗尔·哈维建议应该要求骑行者在自己的车道上行驶。——考研阅读真题）
-> - "I was almost knocked down recently by a cyclist riding on the pavement when there was a cycle lane right next to him."（最近我差点被一个在人行道上骑行的骑车人撞倒，而他旁边明明就有一条自行车道。——考研阅读真题）
+> - He drives so fast along those narrow country lanes. `[例]`
+> - The northbound lane is closed because of an accident . `[例]`
+> - I find driving in the fast lane very stressful . `[例]`
 
 
 ---

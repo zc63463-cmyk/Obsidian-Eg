@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It takes time to digest all the information presented in the report."（消化报告中呈现的所有信息需要时间。）
-> - "Some foods are easier to digest than others."（有些食物比其他食物更容易消化。）
+> - This chapter is so difficult to digest, I'll have to read it again later . `[例]`
+> - A digest of the research findings is now available . `[例]`
+> - The company publishes a monthly digest of its activities . `[例]`
 
 
 ---

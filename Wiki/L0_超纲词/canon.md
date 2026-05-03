@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Shakespeare is central to the Western literary canon. `[例]`
-> - These works have become part of the canon of English literature. `[例]`
+> - He has made it into the canon of English poetry . `[例]`
+> - She argues that the canon must be opened up to more non-European writers . `[例]`
 
 ## 复习记录
 

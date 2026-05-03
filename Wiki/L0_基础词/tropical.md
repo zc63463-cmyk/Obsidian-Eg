@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**热带的，热带地区的**==；②酷热的；③热情的；
+**adj.** ①==**热带的，热带地区的**== `adj`；②==**酷热的**== `adj`；③==**热情的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：回转区域的（太阳回转之间的区域→热带的）
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Tropical rainforests are home to more than half of the world's plant and animal species.（热带雨林是全世界一半以上动植物物种的家园。）
+> - The city has a relatively strong economy based on tourism , and enjoys a tropical climate . `[例]`
+> - Leprosy is one of the few tropical diseases which could soon be eradicated . `[例]`
+> - She specializes in tropical medicine (= the treatment of diseases from the tropical areas of the world ) . `[例]`
 
 
 ---

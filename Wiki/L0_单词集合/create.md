@@ -129,8 +129,9 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Instead, the new habits we deliberately ingrain into ourselves create parallel pathways that can bypass those old roads."（相反，我们有意使之根深蒂固的新习惯会创建平行路径，它们可以绕过原来那些路径。——2009年考研英语阅读Text1）
-> - "It is speculated that gardens arise from a basic need in the individuals who made them: the need for creative expression. There is no doubt that gardens evidence an impossible urge to create, express, fashion, and beautify."（据推测，花园源于建造者的一种基本需要：创造性表达的需要。毫无疑问，花园证明了一种不可抗拒的创造、表达、塑造和美化的冲动。——2013年考研英语翻译）
+> - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
+> - Issues arise, however, when developers attempt to create large-scale short-term rental facilities-de facto hotels--to bypass taxes and regulations. `[真题]`
+> - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
 
 ---
 

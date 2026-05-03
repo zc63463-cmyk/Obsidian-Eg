@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**藏匿，存放，隐藏**==；
-**n.** ①藏匿物；隐藏处；一批储存物；
+**v.** ①==**藏匿，存放，隐藏**== `V`；
+**n.** ①==**藏匿物**== `N`；隐藏处；一批储存物；
 
 > [!tip] 原型义
 > **原型义**：藏起来（把东西放到隐蔽的地方储存）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She stashed her savings under the mattress.（她把积蓄藏在床垫下面。）
-> - Police found a stash of weapons in the basement.（警方在地下室发现了一批隐藏的武器。）
+> - The stolen pictures were stashed (away) in a warehouse . `[例]`
+> - He needed a place to stash some cash . `[例]`
 
 ## 复习记录
 

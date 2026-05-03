@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Dear Madam or Sir, I am writing to express my concern regarding the proposed changes to the public transportation system in our city."（亲爱的女士或先生，我写信是为了表达对本市公共交通系统拟议变更的关切——考研书信写作常用表达）
-> - "Madam Chair, the committee has thoroughly reviewed the evidence and reached a unanimous conclusion on this matter."（主席女士，委员会已彻底审查了证据，并在此事上达成了一致结论——考研翻译正式场合用语）
+> - May I carry your suitcases for you, Madam? `[例]`
+> - Dear Madam, I am writing on behalf of your uncle,Mr James Ross. `[例]`
+> - She's turning into a proper little madam. `[例]`
 
 
 ---

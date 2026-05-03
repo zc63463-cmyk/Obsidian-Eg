@@ -129,8 +129,9 @@ multi-(许多，多) + [[plic-plex|plic]](折叠) + -le(形容词/名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are multiple reasons for the decline in traditional retail."（传统零售业的衰退有多种原因——考研阅读高频表达）
-> - "The value of 15 is a multiple of 3 and 5."（15 是 3 和 5 的倍数——数学表达）
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+> - The young man died of multiple burns . `[例]`
+> - We made multiple copies of the report . `[例]`
 
 
 ---

@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In any event, the decision will be made by the end of the month."（无论如何，决定将在月底前做出）
-> - "The historic event marked a turning point in the nation's development."（这一历史性事件标志着国家发展的转折点）
+> - This year's Olympic Games will be the biggest ever sporting event. `[例]`
+> - This year's Olympic Games will be the biggest ever sports event. `[例]`
+> - Susannah's party was the social event of the year . `[例]`
 
 
 ---

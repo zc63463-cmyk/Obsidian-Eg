@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You can't dictate to people how they should live their lives."（你不能对人们发号施令，告诉他们应该怎么生活。）
-> - "The needs of the market dictate what products are developed."（市场需求决定了开发什么产品。）
+> - The UN will dictate the terms of troop withdrawal from the region . `[例]`
+> - He disagrees with the government dictating what children are taught in schools . `[例]`
+> - The rules dictate that only running shoes must be worn on the track . `[例]`
 
 
 ---

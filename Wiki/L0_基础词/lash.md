@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The storm lashed the coast with heavy rain and strong winds."（暴风雨以大雨和狂风猛烈袭击海岸。——考研阅读常见描写）
-> - "He lashed out at critics who questioned his methods."（他怒斥那些质疑他方法的批评者。——考研社会话题常见表达）
+> - The prisoners were regularly lashed with electric cable . `[例]`
+> - The sound of the rain lashing against the windows was deafening . `[例]`
+> - I've lashed your suitcase to the roof rack . `[例]`
 
 
 ---

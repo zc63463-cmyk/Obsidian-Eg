@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There's this whole culture of competition that sucks people in with online gaming."（这种竞争文化通过网络游戏把人们卷入其中——2010年6月六级阅读）
-> - "Greenfly can literally suck a plant dry."（蚜虫的确能把一株植物吸干——考研高频表达）
+> - She was sitting on the grass sucking lemonade through a straw . `[例]`
+> - Greenfly can literally suck a plant dry. `[例]`
+> - I sucked my thumb until I was seven. `[例]`
 
 
 ---

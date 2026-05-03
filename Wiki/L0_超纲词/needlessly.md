@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不必要地，无需地**== `needlessly V` `adv V` [贬义/惋惜]；
+**adv.** ①==**不必要地，无需地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：不必要地（没有需要地）
@@ -125,8 +125,8 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` Don't needlessly worry about things beyond your control. [C]
-> - `` `[例]` `` The process has become needlessly complicated. [C]
+> - She'd worried needlessly about whether there would be enough food . `[例]`
+> - The process has become needlessly complicated. `[例]`
 
 ## 复习记录
 

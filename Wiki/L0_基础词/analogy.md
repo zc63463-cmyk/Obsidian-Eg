@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hence the analogy that likens the conduct of monetary policy to driving a car with a blackened windscreen, a cracked rear view mirror and a faulty steering wheel."（因此就有了把执行货币政策比作驾驶一辆挡风玻璃被涂黑、后视镜碎裂、方向盘失灵的汽车的类比。——1997年考研阅读Text 5）
-> - "He drew an analogy between the brain and a vast computer."（他在大脑和一台巨大的计算机之间做了类比。——考研阅读常见表达）
+> - It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something concrete . `[例]`
+> - He was explaining that the mind has no form and is invisible , and that a useful analogy is of the mind being like the sky . `[例]`
+> - We can understand this theory by analogy with human beings. `[例]`
 
 
 ---

@@ -117,6 +117,9 @@ v. ①==**鄙视；蔑视**==；
 ## 真题/语料关联
 
 > [!example]- 语料
+> - The two groups despise each other. `[例]`
+> - She despised him for the way he treated her sister . `[例]`
+> - He despised himself for being such a coward . `[例]`
 - He despised himself for his weakness.（他因自己的软弱而鄙视自己。）
 - She despised people who were cruel to animals.（她鄙视那些虐待动物的人。）
 

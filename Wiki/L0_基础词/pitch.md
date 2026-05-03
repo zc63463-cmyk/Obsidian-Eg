@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Our concern for Dwight Gooden, who injured his pitching arm in the game, will alloy our delight at the Yankees' victory."（我们对德怀特·古登在比赛中投球臂受伤的担忧，会冲淡我们对洋基队胜利的喜悦。——Sherlock Holmes 语料库）
-> - "The agency says international relief agencies also have pitched in."（该机构表示国际救援机构也加入了援助。——ExamWord 高频例句）
+> - Supporters invaded (= ran onto) the pitch. `[例]`
+> - If you teach children and adults in the same class , it's difficult to get the pitch (= level of difficulty or interest ) right . `[例]`
+> - That June , the pitch of the local anti-pipeline campaign was turned up. `[例]`
 
 
 ---

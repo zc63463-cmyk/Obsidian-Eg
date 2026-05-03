@@ -116,7 +116,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A lorry carrying hazardous materials overturned on the highway."（一辆载有危险品的卡车在高速公路上翻车——考研阅读/翻译）
+> - The stock is delivered by lorry from the huge warehouses . `[例]`
+> - The lorry chugged up the hill . `[例]`
+> - The accident was clearly the lorry driver's fault . `[例]`
 
 
 ---

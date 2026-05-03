@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**起诉，检控**==；②继续从事，贯彻；③从事，经营；
+**v.** ①==**起诉，检控**== `V`；②==**继续从事，贯彻**== `V`；③==**从事，经营**== `V`；
 
 > [!tip] 原型义
 > **原型义**：在前面追踪（源自拉丁语 *prosecutus*，pro-在前 + sequi-跟随）
@@ -125,8 +125,9 @@ pro-(向前/在前) + [[sec-sequ|sec-/sequ-]](跟随) + -ute(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was prosecuted for breaching environmental regulations."（该公司因违反环保法规而被起诉。）
-> - "He was prosecuted for fraud."（他因欺诈被起诉。）
+> - Shoplifters will be prosecuted. `[例]`
+> - He was prosecuted for fraud . `[例]`
+> - The victim has said that she will not prosecute. `[例]`
 
 
 ---

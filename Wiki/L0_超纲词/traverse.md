@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**穿过，横越**==；②（法律）否认，反驳；
-**n.** ③横越，穿过；④（建筑）横向构件；
+**v.** ①==**穿过，横越**== `V N`；②==**（法律）否认，反驳**== `V N`；
+**n.** ③==**横越，穿过**== `V N`；④==**（建筑）横向构件**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：穿过，横越（从一端走到另一端）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The expedition traversed the entire length of the Amazon River."（探险队横穿了亚马逊河的全长）
-> - "Light traverses the prism and is separated into its component colors."（光线穿过棱镜后被分解为组成色）
+> - Stanley traversed the continent from west to east . `[例]`
+> - Bounded on the east by Lake Winnebago , the county is traversed by the Wolf and Fox rivers . `[例]`
 
 ## 复习记录
 

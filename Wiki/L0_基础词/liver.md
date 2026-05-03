@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Heavy drinking can cause serious damage to the liver."（酗酒会对肝脏造成严重损害——考研阅读健康类话题）
-> - "The patient was diagnosed with liver failure."（该患者被诊断为肝衰竭——医学类阅读常见表达）
+> - Symptoms of the disease include an enlarged spleen or liver. `[例]`
+> - Just the smell of liver cooking makes me gag . `[例]`
+> - It started off as cancer of the liver but it spread to other areas of the body . `[例]`
 
 
 ---

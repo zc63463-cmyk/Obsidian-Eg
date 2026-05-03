@@ -139,8 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The President is at the center of a recent scandal over revelation about his financial interests."（总统因近来被揭露涉嫌金融权益问题而成为丑闻的中心——考研英语阅读）
-> - "Education is central to the development of a nation."（教育对一个国家的发展至关重要——考研英语阅读高频表达，含central用法）
+> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
+> - The Kennedy Center for the Performing Arts. `[例]`
 
 
 ---

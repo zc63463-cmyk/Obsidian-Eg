@@ -129,8 +129,8 @@ grass(草) + roots(根) + -s(复数)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The environmental movement began as a grassroots campaign. `[例]`
-> - Politicians need to maintain contact with the grassroots. `[例]`
+> - The feeling among the grassroots of the Party is that the leaders are not radical enough. `[例]`
+> - The party's leaders are in danger of losing touch with its grassroots. `[例]`
 
 ## 复习记录
 

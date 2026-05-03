@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government turned a deaf ear to the protesters' demands."（政府对抗议者的要求充耳不闻。——考研阅读社会类）
-> - "His appeals for help fell on deaf ears."（他的求助无人理睬。——红宝书考研词汇例句）
+> - The local council has remained deaf to all the objections to its proposals . `[例]`
+> - Many of the TV programmes are broadcast with subtitles for the deaf. `[例]`
+> - She’s becoming increasingly deaf. `[例]`
 
 
 ---

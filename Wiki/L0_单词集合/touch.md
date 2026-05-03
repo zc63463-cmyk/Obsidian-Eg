@@ -129,8 +129,9 @@ touch(源自古法语 tochier / toccier，意为"敲打、触碰")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The issue of climate change touches every aspect of our daily lives."（气候变化问题触及我们日常生活的方方面面。）——考研高频表达
-> - "She has lost touch with many of her old friends since moving to a new city."（自从搬到新城市后，她和许多老朋友失去了联系。）——考研高频表达
+> - That paint is wet - don't touch (it). `[例]`
+> - He touched the girl on the arm to get her attention . `[例]`
+> - The boy touched the worm with (= using, in his hand ) a twig . `[例]`
 
 
 ---

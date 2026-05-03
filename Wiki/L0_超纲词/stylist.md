@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**造型师，美发师**==；②==**文体家**==（研究或创造写作风格的人）；
+**n.** ①==**造型师，美发师**== `N`；②==**文体家**== `N`（研究或创造写作风格的人）；
 
 > [!tip] 原型义
 > **原型义**：搞风格的人（专门创造或管理风格的专业人士）
@@ -124,8 +124,8 @@ style（风格）+ -ist（从事……的人）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The celebrity's personal stylist chose a stunning gown for the red carpet event.（这位名人的私人造型师为红毯活动挑选了一件惊艳的礼服。）
-> - Hemingway is often regarded as one of the greatest literary stylists of the 20th century.（海明威常被认为是20世纪最伟大的文体家之一。）
+> - The latest exciting new car designed by our team of stylists. `[例]`
+> - She needs to fire her stylist - that outfit is awful ! `[例]`
 
 ## 复习记录
 

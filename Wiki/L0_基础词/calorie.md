@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**卡路里**== `N of N` [科学]（热量单位）；②==**卡路里（食物热量含量）**== `pl. N` [日常]（复数）卡路里（食物的热量含量）；
+**n.** ①==**卡路里**==（热量单位）；②（复数）卡路里（食物的热量含量）
 
 > [!tip] 原型义
 > **原型义**：热（使物体变暖的能量）
@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An average adult needs approximately 2,000 calories a day to maintain their weight. `[COCA-ACAD]`
-> - A single gram of fat contains nine calories, while a gram of protein or carbohydrate contains four. `[真题]`
-> - People who are trying to lose weight often count calories carefully. `[COCA-NEWS]`
+> - There are about 50 calories in an apple . `[例]`
+> - The diet has no restrictions and no calorie counting . `[例]`
+> - He found calorie counting the best way of losing weight . `[例]`
 
 
 ---

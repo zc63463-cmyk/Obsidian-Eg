@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**提供，给予**==；②==**提出，表示愿意**==；③==**出价**==；④==**献祭**==；
-**vi.** ①==**提供，提议**==；
-**n.** ①==**提议，提供**==；②==**报价，出价**==；
+**vt.** ①==**提供，给予**== `V N`；②==**提出，表示愿意**== `V N`；③==**出价**== `V N`；④==**献祭**== `V N`；
+**vi.** ①==**提供，提议**== `V`；
+**n.** ①==**提议，提供**== `N`；②==**报价，出价**== `N`；
 
 > [!tip] 原型义
 > **原型义**：带到面前呈现（源自拉丁语 *offerre*，ob- "向" + ferre "带来/携带"）
@@ -145,10 +145,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "offer a solution to the problem"（提供解决问题的方案）——考研阅读常见表达
-> - "job offer"（工作录用通知）——就业/职场类话题核心词汇
-> - "offer to help"（主动提出帮助）——社交/叙事类语料
-> - "on offer"（可获得的）——商业/消费类语料
+> - She was offered a job in Paris . `[例]`
+> - Can I offer you (= would you like) a drink ? `[例]`
+> - Would you sell me that painting ?" "What are you offering (= what will you pay ) for it? `[例]`
+> - My father offered to take us to the airport . `[例]`
 
 ---
 

@@ -133,7 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - He plans to defend his Olympic crown. `[例]`
+> - A pink ribbon had been tied around the crown of the hat . `[例]`
+> - Supermarkets have seen a strong increase in demand for turkey crowns this Christmas . `[例]`
 
 
 ---

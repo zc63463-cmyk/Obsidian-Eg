@@ -129,8 +129,9 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I highly recommend the Forbidden City which served as the emperors' dwelling and imperial palace of both Ming Dynasty and Qing Dynasty."（我强烈推荐紫禁城，这是明清两代帝王的居所和皇宫。——考研写作真题）
-> - "Her words conjured up an image of China's imperial past."（她的话让人联想到昔日中国皇家的形象。——考研翻译常见表达）
+> - Imperial units have in many cases been replaced by metric ones in Britain . `[例]`
+> - Suppliers will be told to change labels to imperial and metric on pre-packed foods . `[例]`
+> - The glittering ceremony conjured up images of Russia's imperial past. `[例]`
 
 
 ---

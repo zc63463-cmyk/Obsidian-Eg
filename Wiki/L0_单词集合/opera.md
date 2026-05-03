@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**歌剧**==；②==**歌剧院**==；
+**n.** ①==**歌剧**== `N`；②==**歌剧院**== `N`；
 
 > [!tip] 原型义
 > **原型义**：作品/劳动的结晶（拉丁语 *opera* 本义为"工作/劳动/作品"，歌剧只是"音乐作品"的专指化）
@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "soap opera"（肥皂剧）——考研阅读中描述大众文化、媒体现象
-> - "opera house"（歌剧院）——考研阅读中描述文化设施、艺术活动
-> - "Peking opera"（京剧）——考研阅读/翻译中涉及中国文化的话题
+> - Carmen" is my favourite opera. `[例]`
+> - I've never been a huge fan of opera. `[例]`
+> - He goes to the opera (= to see an opera) whenever he can. `[例]`
 
 ---
 

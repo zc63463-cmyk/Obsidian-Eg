@@ -117,8 +117,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lines of longitude converge at the North and South Poles."（经线在南北两极交汇——考研阅读地理/科学类话题）
-> - "The ship's position was determined by its latitude and longitude."（船只的位置由其经纬度确定——考研翻译常见表达）
+> - A map of the world showing lines of latitude and longitude. `[例]`
+> - Calculating the longitudes of different places. `[例]`
+> - The regions are on roughly the same longitude . `[例]`
 
 
 ---

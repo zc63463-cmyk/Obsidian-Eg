@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**作曲家**== `a adj N` [正式]；②（计算机）排版程序；③（泛指）创作者；
+**n.** ①==**作曲家**== `N`；②==**（计算机）排版程序**== `N`；③==**（泛指）创作者**== `N`；
 
 > [!tip] 原型义
 > **原型义**：组合在一起的人（把各部分组合成整体的人）
@@ -123,9 +123,8 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Beethoven is widely regarded as one of the greatest composers in Western music history. `[例]`
-> - The film's score was composed by a renowned Hollywood composer. `[例]`
-> - The young composer debuted her first symphony at the age of twenty-five. `[例]`
+> - The composer Strauss was once challenged to a duel . `[例]`
+> - The famous jazz musician , Duke Ellington, was a composer, arranger and pianist . `[例]`
 
 ## 复习记录
 

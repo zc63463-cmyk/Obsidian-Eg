@@ -132,8 +132,9 @@ cent(=百，拉丁语 *centum*) + -ury(名词后缀，表示时间段/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The world has undergone tremendous changes in the 21st century."（全世界在21世纪都发生了巨大的变化——考研英语阅读）
-> - "The friendly intercourse between our two countries can be traced back to last century."（我们两国之间的友好往来可以追溯到上个世纪——考研英语阅读）
+> - From the 10th century onwards, as merchant and travel routes became more developed, the _6 __ of the caravanserais increased and they served as a safe place for people to :rest at night. `[真题]`
+> - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
+> - The city centre has scarcely changed in over a century. `[例]`
 
 
 ---

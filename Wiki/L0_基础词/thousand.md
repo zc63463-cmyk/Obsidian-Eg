@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**num.** ①==**一千**==（10×100）；②==**成千上万的，许多**==（thousands of）；
-**n.** ③==**一千个（人或物）**==；④（the thousands）千位；
+**num.** ①==**一千**== `N`（10×100）；②==**成千上万的，许多**== `N`（thousands of）；
+**n.** ③==**一千个（人或物）**== `N`；④==**（the thousands）千位**== `N`；
 
 > [!tip] 原型义
 > **原型义**：十个百（10×100 的大数单位）
@@ -127,8 +127,9 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The survey used a random sample of two thousand people across England and Wales."（该调查在英格兰和威尔士随机抽取了两千人作为样本——Cambridge English Corpus）
-> - "Over a thousand people braved the elements to attend the march."（超过一千人冒着恶劣天气参加了游行——Cambridge English Corpus）
+> - The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. `[真题]`
+> - The population of the village is about three thousand. `[例]`
+> - The damage will cost thousands of dollars to repair . `[例]`
 
 
 ---

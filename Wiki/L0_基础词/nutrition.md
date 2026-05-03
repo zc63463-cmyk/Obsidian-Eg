@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**营养，滋养**==；②营养学；③营养物；
+**n.** ①==**营养，滋养**== `N`；②==**营养学**== `N`；③==**营养物**== `N`；
 
 > [!tip] 原型义
 > **原型义**：哺乳，滋养（给身体提供所需物质的行为）
@@ -126,8 +126,9 @@ nutr(=nourish, 滋养/养育，拉丁语 *nutrire*) + -ition(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Good nutrition is essential for a child's growth and development."（良好的营养对儿童的生长发育至关重要。）
-> - "Many people in developing countries suffer from malnutrition."（许多发展中国家的人遭受营养不良的困扰。）
+> - Good nutrition is essential if patients are to make a quick recovery . `[例]`
+> - She's a professor of nutrition at Columbia University. `[例]`
+> - Nutrition information is now provided on the back of most food products. `[例]`
 
 
 ---

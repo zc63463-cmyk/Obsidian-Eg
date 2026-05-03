@@ -122,8 +122,9 @@ nick（附加的/额外的，源自古英语 *ekename* → *nekename*，因冠�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We always use the nickname Bee for our daughter Elizabeth."（我们总是用"小蜜蜂"这个昵称来叫我们的女儿伊丽莎白。——通用例句）
-> - "He was nicknamed 'The Iron Duke' for his stern manner."（他因态度严厉而被称为"铁公爵"。——通用例句）
+> - We always use the nickname Bee for our daughter Elizabeth. `[例]`
+> - Darwin" was the nickname he was given at high school , because of his interest in science . `[例]`
+> - The campsite has been nicknamed " tent city " by visiting reporters . `[例]`
 
 
 ---

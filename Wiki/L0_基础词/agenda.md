@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change is at the top of the agenda for many governments around the world."（气候变化是全世界许多政府的首要议程——考研阅读环保话题相关表达）
-> - "Critics argue that the media often pursue a hidden political agenda rather than reporting facts objectively."（批评者认为，媒体常常追求隐藏的政治目的，而不是客观地报道事实——考研阅读媒体话题相关表达）
+> - There were several important items on the agenda. `[例]`
+> - The question of security is high on the agenda for this afternoon's meeting . `[例]`
+> - Women's rights have been put back on the agenda (= are being discussed publicly again) . `[例]`
 
 
 ---

@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many species are threatened with extinction due to habitat loss."（由于栖息地丧失，许多物种面临灭绝的威胁）——生态/环保类阅读
-> - "The discovery of a new species of butterfly in the Amazon rainforest excited scientists."（在亚马逊雨林发现新蝴蝶物种让科学家们兴奋不已）——科学发现类话题
-> - "There are various species of corruption in different political systems."（不同的政治体制中存在各种类型的腐败）——政治/社会类话题
+> - The mountain gorilla is an endangered species. `[例]`
+> - Giant pandas are now classified as a vulnerable species on the global list . `[例]`
+> - Tropaeolum tuberosum (as the species name suggests ) forms small tubers . `[例]`
 
 ---
 

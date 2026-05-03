@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hotel porter escorted the guests to their rooms and helped with their heavy luggage."（酒店门房引导客人到房间，并帮忙搬运行李——考研阅读服务话题相关表达）
-> - "In the early 20th century, porters at major railway stations were an essential part of the travel experience."（在20世纪初，主要火车站的搬运工是旅行体验中不可或缺的一部分——考研阅读历史话题相关表达）
+> - There aren't any porters, so we'll have to find a trolley for the luggage . `[例]`
+> - The porter opened the door for me and then called a taxi . `[例]`
+> - When Arthur Guinness started to brew porter in his Dublin brewery , he created an insatiable demand for his dark , tangy beer . `[例]`
 
 
 ---

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**潜意识的，下意识的**==；
-**n.** ①潜意识；
+**adj.** ①==**潜意识的，下意识的**== `adj`；
+**n.** ①==**潜意识**== `N`；
 
 > [!tip] 原型义
 > **原型义**：意识下面的（在清醒意识之下运作的心理活动）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Subconscious biases can influence our decisions without us even realizing it.（潜意识偏见可以在我们毫不知情的情况下影响我们的决定。）
-> - She subconsciously avoided eye contact whenever the topic came up.（每当这个话题出现时，她都会下意识地避免眼神接触。）
+> - The memory was buried deep within my subconscious. `[例]`
+> - Our subconscious mind registers things which our conscious mind is not aware of. `[例]`
 
 ## 复习记录
 

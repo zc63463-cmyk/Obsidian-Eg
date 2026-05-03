@@ -125,8 +125,9 @@ champagne 源自法语 *Champagne*，原为法国东北部地区名，该地区�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People always celebrate with champagne at important parties."（人们总会在重要聚会上开香槟庆祝——考研词汇语境）
-> - "We had a nice meal with a bottle of champagne to celebrate the successful completion of the project."（我们享用了一顿美餐配一瓶香槟，庆祝项目圆满完成——考研写作可用表达）
+> - We always celebrate our wedding anniversary with a bottle of champagne. `[例]`
+> - The champagne corks were popping (= bottles of champagne were opened ) when Guy got his new job . `[例]`
+> - The cool climate and chalky soil are ideal for producing champagne. `[例]`
 
 
 ---

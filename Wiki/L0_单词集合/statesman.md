@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was widely regarded as one of the greatest statesmen of the twentieth century."（他被广泛认为是二十世纪最伟大的政治家之一。）——考研高频表达
-> - "A true statesman puts the interests of the nation above personal gain."（真正的政治家将国家利益置于个人利益之上。）——考研高频表达
+> - He was a statesman who opened Hawaii to international relations . `[例]`
+> - He has confirmed his reputation as an elder statesman in the energy industry . `[例]`
+> - He was a soldier and statesman . `[例]`
 
 ---
 

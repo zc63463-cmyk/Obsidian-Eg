@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**猎人，狩猎者**== `professional hunter` [书面] `deer hunter` [书面]；②搜索者，寻找者 `job hunter` [口语] `bargain hunter` [口语]；③猎犬；
+**n.** ①==**猎人，狩猎者**== `N`；②==**搜索者，寻找者**== `N`；③==**猎犬**== `N`；
 
 > [!tip] 原型义
 > **原型义**：追猎者（古英语 *hunta*，源自 hunt 追猎 + -er 人）
@@ -130,9 +130,8 @@ hunt(追猎，古英语 *huntian*) + -er(人/物后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Early humans were hunter-gatherers who depended on wild plants and animals for food. `[例]`
-> - In today's competitive job market, job hunters need to stand out from the crowd. `[例]`
-> - The treasure hunter spent years searching for the lost city in the Amazon rainforest. `[例]`
+> - Animals in the cat family are hunters. `[例]`
+> - The hunters followed the tracks of the deer for hours . `[例]`
 
 ## 复习记录
 

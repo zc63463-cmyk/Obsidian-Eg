@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**文本的，原文的**==；②逐字的，按原文的；
+**adj.** ①==**文本的，原文的**== `adj`；②==**逐字的，按原文的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：文本的，原文的（与文本有关的）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The scholar's argument was supported by extensive textual evidence."（这位学者的论点得到了大量文本证据的支持）
-> - "Textual analysis reveals the author's hidden intentions."（文本分析揭示了作者隐藏的意图）
+> - This was a period when literary critics had real power and were devising new ways of reading—focused on the fluidity of language and the instability of textual meaning—that reshaped the humanities and social sciences. `[例]`
+> - New media encompasses the rapid and continual evolutions in media that have created new textual experiences, new ways of representing the world, and new relationships between subjects and media technologies. `[例]`
 
 ## 复习记录
 

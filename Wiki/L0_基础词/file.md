@@ -141,8 +141,9 @@ file 源自拉丁语 *filum*（线、丝），原指用线把文件串起来保�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states."（根据最高法院周四的一项裁决，各州将能够迫使更多人在网上购物时缴纳销售税，这将使消费者的钱包变瘪，但对各州来说是一次重大的财务胜利。——2018年英语一阅读，file 相关的法律文件概念在此类语境中常见）
-> - "The company filed a patent application for its new technology."（公司为其新技术提交了专利申请。——考研阅读常见商业法律话题）
+> - You'll find it in the files under "C". `[例]`
+> - We keep your records on file for five years . `[例]`
+> - The police have opened a file on local burglaries . `[例]`
 
 
 ---

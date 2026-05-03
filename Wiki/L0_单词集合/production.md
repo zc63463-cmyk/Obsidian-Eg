@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生产，制造**== ; ②==**产量**== ; ③（电影/戏剧）制作、上映 ;
+**n.** ①==**生产，制造**== `N` ; ②==**产量**== `N` ; ③==**（电影/戏剧）制作、上映 ;**== `N`
 
 > [!tip] 原型义
 > **原型义**：生产、制造——引导出产品的过程
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The networked computer is an amazing device, the first media machine that serves as the mode of production, means of distribution, site of reception, and place of praise and critique."（联网的计算机是一个神奇的设备，它是第一个同时作为生产方式、分发手段、接收地点和赞扬与批评场所的媒体机器——2012年考研英语一句子翻译）
-> - "The country's industrial production has been declining for several consecutive months."（该国的工业生产已经连续数月下降——考研高频表达）
+> - Coke is used in the production of steel . `[例]`
+> - We watched a video showing the various stages in the production of glass . `[例]`
+> - The company's new model will be going into production early next year . `[例]`
 
 
 ---

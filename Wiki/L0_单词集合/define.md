@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "define...as..."（把……定义为……）——考研阅读/翻译超高频搭配
-> - "define the relationship between A and B"（界定A与B之间的关系）——学术类阅读常见搭配
-> - "broadly defined"（广义上定义的）——社科类阅读高频表达
+> - In the dictionary , " reality " is defined as "the state of things as they are, rather than as they are imagined to be". `[例]`
+> - Before I answer your question , could you define your terms a little more (= explain what you mean by the words you have used) ? `[例]`
+> - Your rights and responsibilities are defined in the citizens ' charter . `[例]`
 
 ---
 

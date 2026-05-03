@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**熟练的，精通的**==；②==**有能力的，胜任的**==；
+**adj.** ①==**熟练的，精通的**== `adj`；②==**有能力的，胜任的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：做得好的（在某个领域经过训练后表现出色）
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "To work in international business, one must be proficient in at least one foreign language."（要从事国际商务工作，必须精通至少一门外语。）
+> - She's proficient in two languages . `[例]`
+> - It takes a couple of years of regular driving before you become proficient at it. `[例]`
 
 ## 复习记录
 

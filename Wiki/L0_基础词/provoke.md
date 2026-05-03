@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**激怒，挑衅**==；②==**引起，引发**==；③激起，刺激；
+**v.** ①==**激怒，挑衅**== `V`；②==**引起，引发**== `V`；③==**激起，刺激**== `V`；
 
 > [!tip] 原型义
 > **原型义**：在前面呼喊（源自拉丁语 *provocare*，pro-在前 + vocare-呼唤）
@@ -128,8 +128,9 @@ pro-(向前/在前) + [[voc-vok|voc-]](呼唤/声音，拉丁语 *vocare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His controversial remarks provoked a heated debate."（他引发争议的言论激起了一场激烈的辩论。）
-> - "The decision provoked widespread criticism from the public."（这一决定引发了公众的广泛批评。）
+> - The prospect of increased prices has already provoked an outcry . `[例]`
+> - Test results provoked fears that the reactor could overheat . `[例]`
+> - It was a vicious-looking dog and I didn't want to provoke it. `[例]`
 
 
 ---

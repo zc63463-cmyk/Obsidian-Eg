@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标点符号**==；②标点符号的使用（法）；
+**n.** ①==**标点符号**== `N`；②==**标点符号的使用（法）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在文本中做标记以区分意义（通过点、逗号等符号切分文字）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Proper punctuation is essential for clear written communication.（正确的标点对于清晰的书面交流至关重要。）
-> - The editor carefully checked the punctuation and grammar of the manuscript.（编辑仔细检查了手稿的标点和语法。）
+> - His letter was completely without punctuation. `[例]`
+> - Check your spelling and punctuation. `[例]`
 
 ## 复习记录
 

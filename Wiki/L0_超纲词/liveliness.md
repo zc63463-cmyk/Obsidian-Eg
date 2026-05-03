@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**活力，生机，热闹**== `N of N` [通用]；`adj of N` [通用]；②（性格的）活泼，开朗 `N of N` [通用]；③（色彩的）鲜明，生动 `N of N` [通用]；
+**n.** ①==**活力，生机，热闹**== `N`；②==**（性格的）活泼，开朗**== `N`；③==**（色彩的）鲜明，生动**== `N`；
 
 > [!tip] 原型义
 > **原型义**：充满生命的状态（live → lively → liveliness，从"活着"到"充满活力"）
@@ -131,8 +131,8 @@ live（活→生命）+ -ly（形容词后缀）+ -ness（名词后缀，表示"
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` "The liveliness of the market attracted tourists from all over the world."
-> - `` `[例]` `` "Her liveliness and enthusiasm made her the life of every party."
+> - The concerts were intended to bring some cultural liveliness to the town . `[例]`
+> - Despite being almost 90, she radiates liveliness. `[例]`
 
 ## 复习记录
 

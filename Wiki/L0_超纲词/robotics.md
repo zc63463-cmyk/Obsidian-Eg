@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**机器人学，机器人技术**==；
+**n.** ①==**机器人学，机器人技术**== `N`；
 
 > [!tip] 原型义
 > **原型义**：研究机器人的学问（设计、制造和应用机器人的技术学科）
@@ -123,8 +123,8 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Advances in robotics have transformed manufacturing processes across the globe."（机器人技术的进步改变了全球的制造流程。）
-> - "She decided to study robotics because she wanted to build machines that could help people."（她决定学习机器人学，因为她想制造能帮助人类的机器。）
+> - The field of robotics has seen many exciting developments in the last decade . `[例]`
+> - Strangely, for the director of a robotics department , he doesn't seem to know what a robot is. `[例]`
 
 ## 复习记录
 

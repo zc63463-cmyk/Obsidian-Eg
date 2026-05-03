@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**评论，批评**== `N` [学术]；②（学术/文学）==**评论文章**== `N` [学术]；
-**v.** ①==**评论，批判**== `V N` [学术]；
+**n.** ①==**评论，批评**== `N`；②==**（学术/文学）评论文章**== `N`；
+**v.** ①==**评论，批判**== `V`；
 
 > [!tip] 原型义
 > **原型义**：仔细审查并做出判断（希腊语 *kritikos* "能够判断的"）
@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The scholar published a thorough critique of the prevailing economic theory. `[例]`
-> - She was invited to critique the doctoral candidate's dissertation before the final defense. `[例]`
+> - Students take turns critiquing each other's work . `[例]`
+> - She produced a detailed , page-by-page critique of the book . `[例]`
 
 ## 复习记录
 

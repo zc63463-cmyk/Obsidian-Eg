@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**非故意的，无意的**==；②不是存心的；
+**adj.** ①==**非故意的，无意的**== `adj`；②==**不是存心的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：非故意的（没有意图的）
@@ -129,8 +129,8 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Any resemblance to actual persons is purely unintentional."（与真实人物的任何相似纯属无意。）
-> - "The policy had several unintentional consequences that harmed small businesses."（该政策有几个无意中损害了小企业的后果。）
+> - Perhaps I misled you, but it was quite unintentional (= I did not mean to) . `[例]`
+> - An unintentional insult that nevertheless was very hurtful. `[例]`
 
 ## 复习记录
 

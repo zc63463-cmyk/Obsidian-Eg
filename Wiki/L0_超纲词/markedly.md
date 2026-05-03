@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**明显地，显著地**== `adv adj` [学术/正式]；②==**引人注目地**== `adv adj` [正式]；
+**adv.** ①==**明显地，显著地**== `adv`；②==**引人注目地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：明显地，显著地（像被标记过一样清晰可见）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` The results of the experiment were markedly different from what the researchers had expected.`` [C]
-> - `` `[例]` The demand for air conditioning can be expected to increase markedly over the coming decade as global temperatures rise.`` [C]
+> - Eye-witness accounts of the fighting differ markedly from police reports of what happened . `[例]`
+> - She has markedly changed her eating habits . `[例]`
 
 ## 复习记录
 

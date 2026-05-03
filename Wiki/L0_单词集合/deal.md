@@ -144,10 +144,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a great deal of attention"（大量的关注）——考研阅读/翻译高频表达
-> - "deal with the problem"（处理问题）——考研写作常用搭配
-> - "make a deal with"（与……达成协议）——商业/政治类阅读语境
-> - "a great deal"（大量/非常）——考研完形/阅读中修饰程度或数量
+> - Literary agencies are getting bigger to have the clout to negotiate better terms with publishers, publishers consolidating to deal with Amazon, " . says Lownie. `[真题]`
+> - What should an author do to deal with citation manipulators? `[真题]`
+> - The unions and management have made a two-year pay and productivity deal. `[例]`
+> - Do you think the government should try to strike a deal with the terrorists ? `[例]`
 
 ---
 

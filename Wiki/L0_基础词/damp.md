@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Nothing could damp his enthusiasm for the project."（没有什么能抑制他对这个项目的热情——考研英语阅读常见表达）
-> - "The damp weather made the old house feel even colder."（潮湿的天气让这座老房子感觉更冷了——考研翻译相关表达）
+> - The grass is still damp. `[例]`
+> - This shirt still feels a bit damp. `[例]`
+> - It was a damp, misty morning . `[例]`
 
 
 ---

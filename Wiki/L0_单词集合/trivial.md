@@ -122,8 +122,9 @@ tri-(三) + via(路) + -al(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It enables us to classify trivial facts and to grasp the essence of complex phenomena."（它使我们能够对琐碎的信息进行分类，并把握复杂现象的本质。）——考研高频表达
-> - "Don't waste your time on trivial matters when there are more important things to attend to."（有更重要的事情要处理时，不要把时间浪费在琐事上。）——考研高频表达
+> - I don't know why he gets so upset about something so trivial. `[例]`
+> - Sexual harassment in the workplace is not a trivial matter . `[例]`
+> - Getting computers to understand human language is not a trivial problem . `[例]`
 
 ---
 

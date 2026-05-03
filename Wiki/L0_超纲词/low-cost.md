@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**低成本的，廉价的**== `adj N` [商业]；`adj N` [通用]；②花费少的 `adj N` [通用]；
+**adj.** ①==**低成本的，廉价的**== `adj`；②==**花费少的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：成本低的（low + cost → 花费低的）
@@ -126,8 +126,8 @@ low（低的）+ cost（成本）→ **低成本的**
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` "The rise of low-cost airlines has democratized air travel, making it accessible to millions of people who could not previously afford to fly."
-> - `` `[例]` `` "Many developing countries are investing in low-cost renewable energy solutions."
+> - The function of the "milk cow" journals is to __ _ A. boost citation counts for certain authors B. help scholars publish articles at low cost C. instruct first-time contributors in citation D. increase the readership of new journals 39. `[真题]`
+> - The 1990s saw a huge increase in the numbers of low-cost airlines . `[例]`
 
 ## 复习记录
 

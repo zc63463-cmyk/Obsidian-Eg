@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The building is well-ventilated with large windows."（这座建筑有大窗户，通风良好）——建筑/健康类阅读
-> - "ventilate their grievances in public"（公开表达他们的不满）——社会/政治类阅读
-> - "patients on ventilators"（使用呼吸机的病人）——医学/科普类阅读
+> - Ventilate the room well while applying the paint . `[例]`
+> - I work in a very poorly-ventilated building . `[例]`
+> - If her condition deteriorates , she will need to be ventilated and admitted to intensive care . `[例]`
 
 ---
 

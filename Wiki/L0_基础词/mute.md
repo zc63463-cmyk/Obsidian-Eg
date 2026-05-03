@@ -136,8 +136,9 @@ mut-(沉默，拉丁语 *mutus*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The witness remained mute when asked about the incident."（当被问及该事件时，证人保持沉默）
-> - "She pressed the mute button on the remote control to silence the commercial."（她按下遥控器上的静音键来消除广告的声音——考研阅读常见表达）
+> - The president has remained mute about plans to curtail the number of immigrants . `[例]`
+> - I gazed at her in mute admiration . `[例]`
+> - He was playing his trumpet with a mute. `[例]`
 
 
 ---

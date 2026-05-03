@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大腿，股**==；②（禽类的）腿肉；
+**n.** ①==**大腿，股**== `N`；②==**（禽类的）腿肉**== `N`；
 
 > [!tip] 原型义
 > **原型义**：腿部最粗壮的部分（支撑身体的核心区域）
@@ -123,8 +123,9 @@ thigh 为日耳曼语系原生词（古英语 *þēoh*，与古高地日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Barkley suffered a strained thigh muscle late in the preseason."（巴克利在季前赛后期大腿肌肉拉伤——Cambridge English Corpus）
-> - "I wasn't badly hurt, but I injured my thigh and had to limp."（我伤得不重，但大腿受伤了，不得不一瘸一拐地走——examword.com）
+> - Barkley suffered a strained thigh muscle late in the preseason . `[例]`
+> - My thighs ached terribly after the climb . `[例]`
+> - Squeezing their thighs into pants that are too tight to compress the cellulite. `[例]`
 
 
 ---

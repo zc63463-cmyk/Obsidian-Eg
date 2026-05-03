@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Republican-penned order not only eliminated the strict net neutrality rules the FCC had adopted when it had a Democratic majority in 2015, but renounced the commission's authority to require broadband providers to do much of anything."（共和党起草的命令不仅废除了FCC在2015年民主党占多数时通过的网络中立严格规则，还放弃了委员会要求宽带提供商做任何事情的权利。——2021年英语一Text 4）
-> - "Anything you do that advances your presence — especially in a larger sphere, outside the communities you know — is a net win."（你做的任何能提升你影响力的行为——尤其是在更大的范围、你熟悉的社区之外——都是净赢。——2017年12月六级阅读Section B）
+> - Dolphins often get tangled in the nets that are used to catch tuna fish . `[例]`
+> - The living-room windows have net curtains that let in sunlight but stop passers-by looking in from the street . `[例]`
+> - The nets at the kitchen window were looking a bit yellow . `[例]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**拇指**==；②（手套的）拇指部分；
-**v.** ①==**翻阅（书页）**==；②示意要求搭车（竖起拇指）；③翻阅（以拇指拨弄）；
+**n.** ①==**拇指**== `N`；②==**（手套的）拇指部分**== `N`；
+**v.** ①==**翻阅（书页）**== `V`；②==**示意要求搭车（竖起拇指）**== `V`；③==**翻阅（以拇指拨弄）**== `V`；
 
 > [!tip] 原型义
 > **原型义**：拇指（手上最粗、最灵活的手指）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories."（人们早就知道，当顾客翻阅电话簿时，一家叫 AAAA 的出租车公司比叫 Zodiac 的公司有更大的优势——2004年考研阅读Text 2）
-> - "Our proposals were given the thumbs down."（我们的建议遭到拒绝——考研高频表达）
+> - We thumbed a lift to London. `[例]`
+> - He has thumbed his nose at authority all his life . `[例]`
+> - How did you cut your thumb? `[例]`
 
 
 ---

@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's the high fever that's been dragging him down."（是这场高烧把他的身体拖垮了。——经典例句）
-> - "James was quarantined for three weeks when he had scarlet fever."（詹姆士患猩红热后被隔离了三个星期。——经典例句）
+> - He's got a headache and a slight fever. `[例]`
+> - The disease causes coughing , chest pain , and fever. `[例]`
+> - The whole country seems to be in the grip of football fever. `[例]`
 
 
 ---

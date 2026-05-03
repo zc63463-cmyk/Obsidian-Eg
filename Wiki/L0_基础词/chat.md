@@ -125,8 +125,9 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students tried to form a human chain around the parliament to protest, while others chatted with police officers about the situation."（学生们试图在议会周围组成人墙抗议，而另一些人则与警官闲聊局势——考研相关语料）
-> - "She had a chat with her supervisor about the research project, which helped clarify the direction."（她和导师聊了聊研究项目，这有助于明确方向——考研学术语境）
+> - At the same time AI can also be used to generate content for social media posts and chat sites. `[真题]`
+> - She spends hours on the phone chatting with her friends . `[例]`
+> - We were just chatting about what we did last weekend . `[例]`
 
 
 ---

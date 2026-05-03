@@ -128,8 +128,9 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Rice is the staple food for more than half of the world's population.（大米是世界一半以上人口的主食。）
-> - Coffee has become a staple of modern life.（咖啡已成为现代生活的必需品。）
+> - Shortages mean that even staples (= basic foods ) like bread are difficult to find . `[例]`
+> - Phosphate has been a staple of this area for many years . `[例]`
+> - Romantic fiction and reference books are a staple of many public libraries . `[例]`
 
 
 ---

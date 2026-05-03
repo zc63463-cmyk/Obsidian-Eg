@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**诡计，骗局**==；②戏法，把戏；③窍门，诀窍；④恶作剧；
+**n.** ①==**诡计，骗局**== `N`；②==**戏法，把戏**== `N`；③==**窍门，诀窍**== `N`；④==**恶作剧**== `N`；
 **vt.** 欺骗，哄骗；
 
 > [!tip] 原型义
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't let the advertisements trick you into buying things you don't need."（不要让广告骗你买不需要的东西。）
-> - "The magician performed an amazing card trick."（魔术师表演了一个令人惊叹的纸牌戏法。）
+> - She played a really nasty trick on me - she put syrup in my shampoo bottle ! `[例]`
+> - My niece was showing me all the tricks that she's learned to do with her new magic set. `[例]`
+> - It's trick photography - she's supposed to look like she's walking on water . `[例]`
 
 
 ---

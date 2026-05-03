@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "be tempted to conclude that..."（忍不住得出结论…）——考研阅读/写作常见表达，表示一种倾向
-> - "tempt fate"（冒险）——文学/评论类阅读
-> - "resist the temptation"（抵抗诱惑）——道德/心理学类阅读
+> - The offer of free credit tempted her into buying a new car . `[例]`
+> - They tempted him to join the company by offer ing him a huge salary and a company car . `[例]`
+> - Did you apply for that job ?" "Well, I was very tempted, but I decided not to. `[例]`
 
 ---
 

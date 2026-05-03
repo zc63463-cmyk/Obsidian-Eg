@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The underlying cause of the problem is poverty."（这个问题的根本原因是贫困。）——考研阅读高频句式
-> - "We need to examine the underlying assumptions of this theory."（我们需要检验这一理论的隐含假设。）——学术类阅读
-> - "The underlying trend suggests that the economy is recovering."（潜在趋势表明经济正在复苏。）——经济类阅读
+> - And what might be the underlying significance of these supposedly random acts ? `[例]`
+> - The price of the investment fell below the value of the underlying assets . `[例]`
+> - The currents are affected by the shape of the underlying rocks . `[例]`
 
 ---
 

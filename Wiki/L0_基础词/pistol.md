@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The detective drew his pistol and aimed it at the suspect."（侦探拔出手枪，瞄准嫌疑人。——PopNWords 高频例句）
-> - "The police broke her alibi by proving she knew how to shoot a pistol."（警方通过证明她知道如何射击手枪来推翻她的不在场证明。——ExamWord 高频例句）
+> - A starting pistol (= used to signal the start of a race). `[例]`
+> - A real pistol , she dances rings around the other performers. `[例]`
+> - Whether a man chose to use that pistol or meekly give up the money to a robber was up to him. `[例]`
 
 
 ---

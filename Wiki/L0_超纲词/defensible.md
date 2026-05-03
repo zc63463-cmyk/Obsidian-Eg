@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**可防御的，能防守的**== `adj N` [军事]；②==**站得住脚的，可辩护的**== `adj N` [学术] `morally adj` [书面]；
+**adj..** ①==**可防御的，能防守的**== `adj`；②==**站得住脚的，可辩护的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：可以被保护的（能够经得起攻击/质疑的）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The government's decision was morally defensible but politically risky. `[例]`
-> - The researcher presented a defensible argument supported by substantial evidence. `[例]`
+> - A city built on an island is easily defensible. `[例]`
+> - High petrol taxes are defensible on ecological grounds . `[例]`
 
 ## 复习记录
 

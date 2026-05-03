@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**转录，抄写**==（将录音、口述等转为文字）；②用音标标音；③改编（音乐）；
+**v.** ①==**转录，抄写**== `V N into N`（将录音、口述等转为文字）；②==**用音标标音**== `V N into N`；③==**改编（音乐）**== `V N into N`；
 
 > [!tip] 原型义
 > **原型义**：转录，抄写（将语音或原文转换为文字）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The researcher transcribed hours of interview recordings."（研究人员转录了数小时的采访录音）
-> - "In biology, transcription is the process of copying DNA into RNA."（在生物学中，转录是将DNA复制为RNA的过程）
+> - Recordings of conversations are transcribed and entered into the database . `[例]`
+> - Transcribing the Ethiopian text into the English alphabet was their first task . `[例]`
 
 ## 复习记录
 

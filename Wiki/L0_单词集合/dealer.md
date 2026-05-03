@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "authorized dealer"（授权经销商）——商业/法律类阅读语境
-> - "car dealer"（汽车经销商）——社会生活类阅读常见搭配
-> - "deal with a dealer"（与经销商打交道）——商业语境
+> - It has been alleged that the minister received a secret payoff from an arms dealer. `[例]`
+> - He is a dealer in Oriental carpets . `[例]`
+> - As with other drugs , the danger is when dealers mix ecstasy with other substances . `[例]`
 
 ---
 

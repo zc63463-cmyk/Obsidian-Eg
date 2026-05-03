@@ -127,8 +127,9 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The first two figures after the decimal point indicate tenths and hundredths respectively."（小数点后的头两位数分别表示十分位和百分位。——考研翻译类常见表达）
-> - "Britain converted to a decimal currency system in 1971."（英国于1971年改用十进制货币体系。——考研文化类阅读常见话题）
+> - If you calculate the result to two decimal places (= give two numbers after the decimal point , as in 3.65) , that should minimize any possible errors . `[例]`
+> - Give your answers correct to three decimal places . `[例]`
+> - Three fifths expressed as a decimal is 0.6. `[例]`
 
 
 ---

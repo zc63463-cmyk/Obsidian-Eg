@@ -133,9 +133,9 @@ along（沿着）+ side（旁边，侧面）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They found themselves working alongside like-minded young people with similar values."（他们发现自己与志同道合、价值观相似的年轻人并肩工作——考研翻译常见表达）
-> - "A variety of heavy industries grew up alongside the port."（各种重工业沿着港口逐渐发展起来——考研阅读高频表达）
-> - 考研翻译技巧提示：alongside 在翻译中可当作 and 来理解，如 "the countryside alongside the royal family" 可译为"乡村和王室"——2023考研语法长难句
+> - They found themselves working alongside like-minded young people with similar values . `[例]`
+> - A car pulled up alongside (ours). `[例]`
+> - The new pill will be used alongside existing medicines . `[例]`
 
 
 ---

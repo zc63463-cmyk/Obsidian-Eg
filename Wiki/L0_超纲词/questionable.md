@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可疑的，有问题的**==；②值得怀疑的，不确定的；
+**adj.** ①==**可疑的，有问题的**== `adj`；②==**值得怀疑的，不确定的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：值得被质疑的（可以被提出问题的）
@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company's accounting practices were of questionable legality, prompting an investigation by regulators.（该公司的会计做法合法性可疑，引发了监管机构的调查。）
-> - Some researchers have questioned the methodology, arguing that the results are of questionable reliability.（一些研究者质疑了研究方法，认为结果的可靠性可疑。）
+> - It is questionable wh ether this goal can be achieved . `[例]`
+> - It is questionable whether that investment will pay off. `[例]`
 
 ## 复习记录
 

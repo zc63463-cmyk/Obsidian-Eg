@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**最适条件，最佳值，最优化**==
-**adj.** ①最佳的，最适的
+**n.** ①==**最适条件，最佳值，最优化**== `N`
+**adj.** ①==**最佳的，最适的**== `adj`
 
 > [!tip] 原型义
 > **原型义**：在所有可能中最好的那个
@@ -124,8 +124,9 @@ optim(最好的，拉丁语 optimus) + -um(中性名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The optimum conditions for plant growth include adequate sunlight and water."（植物生长的最佳条件包括充足的阳光和水分。）——考研高频表达
-> - "The scientists are trying to find the optimum temperature for the reaction."（科学家们正试图找到该反应的最佳温度。）——考研高频表达
+> - A mixture of selected funds is an optimum choice for future security and return on investment . `[例]`
+> - For optimum flavor , prepare just before serving . `[例]`
+> - The figures show investment below the optimum level in the UK. `[例]`
 
 ---
 

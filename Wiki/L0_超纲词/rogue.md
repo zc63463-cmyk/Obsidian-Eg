@@ -27,9 +27,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**流氓，无赖**==；②（动植物中）离群的，异常的个体；
-**adj.** ①==**流氓的，劣质的**==；②脱离控制的，异常的；
-**v.** ①==**（使）流浪，去除……中的劣质品**==；
+**n.** ①==**流氓，无赖**== `N`；②==**（动植物中）离群的，异常的个体**== `N`；
+**adj.** ①==**流氓的，劣质的**== `adj`；②==**脱离控制的，异常的**== `adj`；
+**v.** ①==**（使）流浪，去除……中的劣质品**== `V`；
 
 > [!tip] 原型义
 > **原型义**：游荡的流浪者（不守规矩、脱离群体的人）
@@ -132,8 +132,8 @@ rogue 为日耳曼语源词汇（可能源自拉丁语 *rogare* "要求"，但�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The rogue trader caused billions of dollars in losses for the bank."（违规交易员给银行造成了数十亿美元的损失。）
-> - "The international community condemned the rogue state's nuclear program."（国际社会谴责了该流氓国家的核计划。）
+> - A Special Forces unit had gone rogue and was trying to free the hostage . `[例]`
+> - Come here, you little rogue!" chuckled my uncle . `[例]`
 
 ## 复习记录
 

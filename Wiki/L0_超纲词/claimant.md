@@ -125,8 +125,8 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The insurance company offered a settlement to the claimant. `[例]`
-> - The number of unemployment claimants has risen sharply this quarter. `[例]`
+> - Tax credit payments are calculated according to the claimant's yearly income . `[例]`
+> - The claimant commenced this action to recover damages that were sustained while working for the defendant . `[例]`
 
 ## 复习记录
 

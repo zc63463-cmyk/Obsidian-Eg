@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**学校教育，学业**==；②训练，培养（尤指动物）；
+**n.** ①==**学校教育，学业**== `N`；②==**训练，培养（尤指动物）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：在学校接受教育的过程（接受学校训练的时间段）
@@ -126,8 +126,8 @@ school(学校) + -ing(名词后缀，表示过程/活动)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Compulsory schooling was introduced in many countries during the 19th century."（许多国家在19世纪引入了义务教育。）
-> - "The number of years of schooling is closely correlated with earning potential."（受教育年限与收入潜力密切相关。）
+> - Jack didn't receive much formal schooling. `[例]`
+> - He had little formal schooling (= education at school ) . `[例]`
 
 ## 复习记录
 

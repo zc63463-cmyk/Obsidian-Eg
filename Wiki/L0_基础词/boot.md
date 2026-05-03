@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**靴子**== `N`；②（汽车后部的）行李箱 `N` [英式]；③解雇 `get the N` [口语]；
-**vt.** ①==**踢**== `V N`；②启动（计算机） `V up` [计算机]；③解雇 `V N out` [口语]；
+**n.** ①==**靴子**==；②（汽车后部的）行李箱；③解雇；
+**vt.** ①==**踢**==；②启动（计算机）；③解雇；
 
 > [!tip] 原型义
 > **原型义**：靴子（穿在脚上的防护鞋具）
@@ -131,10 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The machine takes a long time to boot up." `[COCA-ACAD]`
-> - "It is impossible to boot the system from the hard disk." `[COCA-ACAD]`
-> - "Workers who fail to meet the new standards may get the boot." `[COCA-NEWS]`
-> - "Every day after school, I would sprint down to my family's basement and boot up our enormous computer." `[COCA-FICT]`
+> - Don't forget your boots and shin pads . `[例]`
+> - I always keep a blanket and a toolkit in the boot for emergencies . `[例]`
+> - Stolen goods were found in the boot of her car . `[例]`
 
 
 ---

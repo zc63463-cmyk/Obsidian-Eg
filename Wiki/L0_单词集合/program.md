@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**程序**== ; ②计划，方案 ; ③节目，节目单 ;
-**v.** ①==**编程，编程序**== ; ②为……制定计划 ;
+**n.** ①==**程序**== `N`；②==**计划，方案**== `N`；③==**节目，节目单**== `N`；
+**v.** ①==**编程，编程序**== `V`；②==**为……制定计划**== `V`；
 
 > [!tip] 原型义
 > **原型义**：提前写好（to write before / to write forth）
@@ -133,8 +133,9 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory called the Hawthorne Plant near Chicago."（1924年，美国国家研究委员会派遣两名工程师去芝加哥附近一家名为霍桑工厂的大型电话零部件厂监督一系列工业实验——2010年考研完形填空）
-> - "The government launched a new program to promote renewable energy."（政府启动了一项推广可再生能源的新计划——考研高频表达）
+> - They are developing a computer program that can determine if a song is likely to be a hit . `[例]`
+> - She's written a program to find words that frequently occur together. `[例]`
+> - She programmed the computer to calculate the rate of exchange in twelve currencies . `[例]`
 
 
 ---

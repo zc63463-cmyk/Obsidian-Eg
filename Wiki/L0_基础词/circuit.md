@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The U.S. Court of Appeals for the Federal Circuit said it would use a particular case to conduct a broad review of business-method patents."（美国联邦巡回上诉法院表示，它将借审理一个特殊的待审案件为契机，对商业方法专利进行广泛审查。——2010年考研英语一 Text 2）
-> - "Companies play a big role in creating a circular economy, in which value is generating less from extracting new resources and more from getting better use out of the resources we already have."（公司在创建循环经济中发挥着重要作用，在这种经济中，价值的产生较少来自开采新资源，而更多来自更好地利用我们已有的资源。——2019年六级阅读）
+> - They first met each other on the tennis circuit (= while at different tennis competitions) . `[例]`
+> - He was a familiar figure on the lecture circuit. `[例]`
+> - The judge had served for many years on the northeastern Circuit. `[例]`
 
 
 ---

@@ -125,8 +125,9 @@ illiterate = il-（= in-，否定前缀，在 l 前变为 il-）+ literate（识
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite the progress in education, a significant portion of the population remains illiterate."（尽管教育取得了进步，仍有相当一部分人口是文盲——illiterate 为考研阅读常见话题词）
-> - "Being digitally illiterate in today's society is a serious disadvantage."（在当今社会不懂电脑是一个严重的劣势——computer/digitally illiterate 为写作可用搭配）
+> - A surprising percentage of the population is illiterate. `[例]`
+> - More than half of the country's population of 8m are illiterate. `[例]`
+> - To be computer illiterate. `[例]`
 
 
 ---

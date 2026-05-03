@@ -134,8 +134,9 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Verbal communication is just as important as non-verbal communication."（语言交流与非语言交流同样重要。）——考研高频表达
-> - "There was a verbal agreement between the two parties before the contract was signed."（在签署合同之前，双方之间有一个口头协议。）——考研高频表达
+> - Airport officials received a stream of verbal abuse from angry passengers whose flights had been delayed . `[例]`
+> - It can sometimes be difficult to give a verbal description of things like colours and sounds . `[例]`
+> - In cases where the child is verbal, the best way to gather information is to simply ask questions . `[例]`
 
 ---
 

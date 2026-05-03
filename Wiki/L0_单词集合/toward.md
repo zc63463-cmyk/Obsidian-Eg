@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "attitudes toward immigration"（对移民的态度）——考研阅读高频搭配，社会政策类话题
-> - "a step toward solving the problem"（解决问题的一步）——议论文中常见表达
-> - "toward the end of the 20th century"（接近20世纪末）——学术/历史类文本时间表达
+> - This is all part of a wider change towards concentration of power and cartels. `[真题]`
+> - She stood up and walked toward him. `[例]`
+> - He leaned toward his wife and whispered , "Can we go home soon ? `[例]`
 
 ---
 

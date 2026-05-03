@@ -122,7 +122,9 @@ hyg-(健康，希腊语 *hygies*，健康的) + -iene(名词后缀，表示学�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Poor personal hygiene can lead to the spread of infectious diseases."（不良的个人卫生习惯可能导致传染病的传播）
+> - Poor standards of hygiene mean that the disease spreads fast . `[例]`
+> - Health and hygiene regulations. `[例]`
+> - Hospital staff blamed the spread of infections on poor hygiene. `[例]`
 
 
 ---

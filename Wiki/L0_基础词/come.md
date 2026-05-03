@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists have come to realize that climate change is a more urgent issue than previously thought."（科学家们逐渐意识到气候变化是比以前认为更紧迫的问题——考研阅读高频表达）
-> - "The company has come up with an innovative solution to the problem."（公司想出了一个创新的解决方案——考研翻译常见话题）
+> - Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market. `[真题]`
+> - A lot of workers are servicing the tourist industry , and the tourism industry is serviced by those people coming in short term, " Castle said, " and so it's a cyclical effect. `[真题]`
+> - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
 
 
 ---

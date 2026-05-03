@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "deep in thought"（陷入沉思）——考研阅读/翻译高频搭配，描述人物状态
-> - "on second thought(s)"（经再三考虑）——写作、口语中常见
-> - "give thought to"（考虑）——学术类、建议类文本中常见
+> - Ask me again tomorrow . I'll have to give it some thought. `[例]`
+> - Let me have your thoughts on that report by Friday . `[例]`
+> - He's the author of a book on the history of European thought. `[例]`
 
 ---
 

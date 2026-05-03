@@ -125,8 +125,9 @@ com-(一起，词根 [[com]]) + oed(歌，来自希腊语 *ōidē*，与 ode 颂
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Shakespeare wrote both comedies and tragedies."（莎士比亚既写喜剧也写悲剧——考研阅读常见话题）
-> - "The situation turned into a comedy of errors."（情况变成了一连串的阴差阳错——考研翻译常见表达）
+> - His latest movie is described as a " romantic comedy". `[例]`
+> - The vicar's forgetting his lines in the middle of the speech provided some good comedy. `[例]`
+> - The novel is both a tender memoir and a comedy of manners . `[例]`
 
 
 ---

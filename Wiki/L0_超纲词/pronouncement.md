@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**声明，公告**==；②==**判决，裁定**==；
+**n.** ①==**声明，公告**== `N`；②==**判决，裁定**== `N`；
 
 > [!tip] 原型义
 > **原型义**：正式说出的话（公开宣布的正式声明）
@@ -126,7 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government's pronouncement on the new policy was met with mixed reactions from the public."（政府关于新政策的声明引起了公众的褒贬不一的反应。）
+> - The treasurer has been taking a more optimistic view of economic recovery in his recent public pronouncements. `[例]`
+> - She made an official pronouncement on changes in government policy. `[例]`
 
 ## 复习记录
 

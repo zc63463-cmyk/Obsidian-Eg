@@ -132,8 +132,9 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the treaty both sides pledge to respect human rights."（双方在条约中都承诺尊重人权。——通用例句）
-> - "The government had retreated from its pledge to reduce class sizes."（政府已经放弃了缩小班级规模的承诺。——通用例句）
+> - Thousands of people made pledges (= promised to give money ) to the charity campaign . `[例]`
+> - I give you this ring as a pledge of my everlasting love for you. `[例]`
+> - We are asking people to pledge their support for our campaign . `[例]`
 
 
 ---

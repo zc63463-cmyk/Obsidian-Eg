@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**国会的（尤指美国国会）**== `congressional approval/hearing/committee` `a congressional investigation` [政治]；②会议的 `a congressional conference` [正式]；
+**adj.** ①==**国会的（尤指美国国会）**== `adj`；②==**会议的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：国会的（与立法会议相关的）
@@ -125,8 +125,8 @@ con-（一起）+ [[gress]]（走，步，拉丁语 *gradi*，走/步）+ -ion�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The bill requires congressional approval before it can become law. `[例]`；
-> - The congressional committee launched a thorough investigation into the financial scandal. `[例]`；
+> - She expressed her intention to join the Congressional Black Caucus. `[例]`
+> - In the last congressional elections , no party had a clear majority . `[例]`
 
 ## 复习记录
 

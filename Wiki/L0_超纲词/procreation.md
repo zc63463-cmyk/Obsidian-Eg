@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**生育，繁殖**==；②==**生殖**==；
+**n.** ①==**生育，繁殖**== `N`；②==**生殖**== `N`；
 
 > [!tip] 原型义
 > **原型义**：创造后代（产生新的生命）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Many religious traditions view procreation as one of the primary purposes of marriage."（许多宗教传统将生育视为婚姻的主要目的之一。）
+> - Some people believe that sex should only be for the purpose of procreation. `[例]`
+> - They support the argument that the purpose of marriage is procreation. `[例]`
 
 ## 复习记录
 

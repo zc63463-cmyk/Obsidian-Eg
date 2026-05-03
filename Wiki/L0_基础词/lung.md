@@ -117,8 +117,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smoking is the leading cause of lung cancer worldwide."（吸烟是全球肺癌的首要原因）
-> - "Regular exercise can significantly improve lung capacity."（规律运动可以显著提高肺活量）
+> - He was diagnosed with lung cancer . `[例]`
+> - There's a high correlation between smoking and lung cancer . `[例]`
+> - The knife went through his ribs and punctured his lung. `[例]`
 
 
 ---

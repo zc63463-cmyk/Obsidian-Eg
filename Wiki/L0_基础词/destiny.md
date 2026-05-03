@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education is the most powerful weapon which you can use to change the world and shape your own destiny."（教育是你可以用来改变世界和塑造自己命运的最强大武器）
-> - "She believed it was her destiny to become a doctor."（她相信成为一名医生是她的命运）
+> - The destiny of our nation depends on this vote ! `[例]`
+> - She felt that her destiny had been shaped by her gender . `[例]`
+> - He is a tragic victim of destiny. `[例]`
 
 
 ---

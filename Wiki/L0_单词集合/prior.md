@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**先前的，在前的**== ; ②优先的，更重要的
-**adv.** ①在……之前（to）
+**adj.** ①==**先前的，在前的**== `adj` ; ②==**优先的，更重要的**== `adj`
+**adv.** ①==**在……之前（to）**== `adv`
 
 > [!tip] 原型义
 > **原型义**：在前面的，在先的（在时间或顺序上排在前面）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Prior to the invention of the internet, most people relied on newspapers and television for news."（在互联网发明之前，大多数人依靠报纸和电视获取新闻。）——考研高频表达
-> - "The company requires prior approval from the board of directors before making any major investment decisions."（公司在做出任何重大投资决策之前需要董事会的预先批准。）——考研高频表达
+> - The course required no prior knowledge of Spanish . `[例]`
+> - They had to refuse the dinner invitation because of a prior engagement (= something already planned for that time ) . `[例]`
+> - The weeks prior to her death. `[例]`
 ---
 
 

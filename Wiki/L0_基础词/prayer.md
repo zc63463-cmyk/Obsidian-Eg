@@ -129,8 +129,9 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The families of the missing miners held a candlelight vigil and said prayers for their safe return."（失踪矿工的家属们举行了烛光守夜活动，为他们的安全归来祈祷。——考研英语阅读社会类话题）
-> - "Many believed that the new policy was the answer to their prayers for economic relief."（许多人认为，新政策正是他们祈求经济救济的回应。——考研英语阅读经济类话题）
+> - A prayer of thanks. `[例]`
+> - She always says her prayers (= prays ) before she goes to sleep . `[例]`
+> - We thought he'd been killed , but our prayers were answered when he arrived home unexpectedly . `[例]`
 
 
 ---

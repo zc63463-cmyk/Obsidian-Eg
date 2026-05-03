@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company furloughed thousands of workers during the economic downturn. `[例]`
-> - Soldiers on furlough were allowed to return home for the holidays. `[例]`
+> - He was an Army Sergeant home on furlough. `[例]`
+> - It is a crime for a person who has been given a furlough to fail to return to the jail or prison at the required time . `[例]`
 
 ## 复习记录
 

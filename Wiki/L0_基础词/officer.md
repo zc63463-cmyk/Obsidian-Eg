@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**军官**==；②==**官员，高级职员**==；③==**警察**==；
+**n.** ①==**军官**== `N`；②==**官员，高级职员**== `N`；③==**警察**== `N`；
 
 > [!tip] 原型义
 > **原型义**：履行职责的人（[[office]] + -er = 做职责的人）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I just like to go over some of the things that you told police officer Parmer at the bank."（我只是想回顾一下你在银行告诉警察帕默的一些事情——CET-4 真题）
-> - "Rescue efforts were underway Thursday morning for 17 miners who were stuck in an elevator below ground at Cargill rock salt mine near Lansing, New York, according to Marcia Lynch."（据 Marcia Lynch 报道，周四上午正在营救17名被困在纽约兰辛附近嘉吉岩盐矿地下电梯中的矿工——CET-4 真题语境）
+> - Two officers responded to the call at 282 Main Street . `[例]`
+> - Do you know how fast you were driving , ma'am?" "No, officer. `[例]`
+> - Mike’s father was an officer in the US Marines . `[例]`
 
 
 ---

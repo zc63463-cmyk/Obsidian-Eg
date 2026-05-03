@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**布满星星的，星光照耀的**==；②（眼睛）闪闪发光的，明亮的；
+**adj.** ①==**布满星星的，星光照耀的**== `adj`；②==**（眼睛）闪闪发光的，明亮的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：布满星星的（夜空中星星密布的状态）
@@ -122,8 +122,8 @@ star（星星）+ -y（充满……的，形容词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Van Gogh's "The Starry Night" is one of the most recognized paintings in Western art.（梵高的《星夜》是西方艺术中最具辨识度的画作之一。）
-> - She looked up at the starry sky with wonder.（她满怀惊奇地仰望星空。）
+> - He said he considered himself to be down to earth and not a starry celebrity . `[例]`
+> - Had the starry idea the Western military forces would waltz in there and put an end to rivalries that have been raging for hundreds of years. `[例]`
 
 ## 复习记录
 

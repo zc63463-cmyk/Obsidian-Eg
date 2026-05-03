@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The children were chattering excitedly about their upcoming trip. `[例]`
-> - He stood in the freezing wind, his teeth chattering uncontrollably. `[例]`
+> - She spent the morning chattering away to her friends . `[例]`
+> - He chattered happily about nothing in particular . `[例]`
 
 ## 复习记录
 

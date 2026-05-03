@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**繁重的，难以承担的**== `adj task/regulations` [正式]；`adj to V` [正式]；②令人烦恼的；
+**adj.** ①==**繁重的，难以承担的**== `adj`；②==**令人烦恼的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：造成负担的
@@ -124,8 +124,8 @@ burden(负担) + -some(形容词后缀，有……倾向的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The new tax regulations proved to be burdensome for small businesses. `[例]`
-> - Many employees found the reporting requirements burdensome and time-consuming. `[例]`
+> - The new regulations will be burdensome for small businesses. `[例]`
+> - The responsibility has become burdensome . `[例]`
 
 ## 复习记录
 

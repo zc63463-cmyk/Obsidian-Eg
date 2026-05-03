@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**出租车**== `call/hail a cab` `take a cab`；②==**驾驶室**== `truck cab` [交通]；③（出租马的）马车；
-**v.** ①==**乘出租车**== `cab it` [口语]；
+**n.** ①==**出租车**==；②==**驾驶室**==（卡车、火车的驾驶舱）；③（出租马的）马车；
+**v.** ①==**乘出租车**==；
 
 > [!tip] 原型义
 > **原型义**：像山羊跳跃一样轻快的马车
@@ -126,10 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Ralph tried to hail a cab but none of them would stop. `[COCA-FICT]`
-> - Outside, a cab was waiting. `[COCA-FICT]`
-> - We couldn't find a cab anywhere near. `[COCA-FICT]`
-> - He hailed a taxi and headed toward the haze of downtown. `[COCA-NEWS]`
+> - Let's take a cab. `[例]`
+> - The cab pulled up and they got out. `[例]`
+> - Called a cab to get back to the hotel. `[例]`
 
 
 ---

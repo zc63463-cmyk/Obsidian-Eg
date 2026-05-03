@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**骆驼**== `N` [日常]；②==**驼色，浅棕色**== `adj. N` [日常]；③==**驼绒**== `N` [纺织]；
+**n.** ①==**骆驼**==；②驼色，浅棕色；③（纺）驼绒；
 
 > [!tip] 原型义
 > **原型义**：骆驼（沙漠中的驮兽）
@@ -124,9 +124,9 @@ camel 源自古法语 *camel*，来自拉丁语 *camelus*，来自希腊语 *kam
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The camel walked across the desert with a steady pace. `[COCA-ACAD]`
-> - The camel's hump is used to store fat for long journeys across the desert. `[COCA-MAG]`
-> - In the deserts of Asia and northern Africa, the animal most commonly used in caravans was the camel. `[COCA-ACAD]`
+> - Vertical touted the dramatic locations, 12,500 extras, and abundant horses and camels made available with substantial support from Neom, the massive Saudi development with sound stages and infrastructure created by the film’s backer MBC Studios. `[例]`
+> - Ventilation aside, the springy print also tied the whole outfit together — her camel carryall and red flip-flops matched nicely with the bright blooms featured on her trousers. `[例]`
+> - The country draws tourists across the world to Marrakech's souks and Medina, camel treks in the Sahara Desert, historic cities like Fez and coastal destinations such as Essaouira, but new warnings highlight potential risks. `[例]`
 
 
 ---

@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "From an economic standpoint, the policy makes perfect sense."（从经济角度来看，这项政策完全合理。）——考研高频表达
-> - "From a practical standpoint, the plan is not feasible."（从实际角度来看，这个计划是不可行的。）——考研高频表达
+> - I have to put aside my emotions ," he says, "and consider it from a professional standpoint. `[例]`
+> - He looks at things from a technological standpoint. `[例]`
+> - From a fundraising standpoint, he’s been very successful . `[例]`
 
 ---
 

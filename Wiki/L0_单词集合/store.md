@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The savings and loan scandal, the stock market and junk bond swindles have undermined the faith of many Americans in the integrity of political and economic leaders."（储蓄贷款丑闻、股市和垃圾债券诈骗已经动摇了许多美国人对政治和经济领导人正直性的信心。）——考研高频表达
-> - "She invested in stocks and shares on Wall Street."（她在华尔街投资了股票和证券。）——考研高频表达
+> - If you are not happy with your purchase , please return it to one of our stores for a refund . `[例]`
+> - His clothing range is on display in all the big stores in London. `[例]`
+> - Increasing competition may force the company to close stores this year . `[例]`
 
 ---
 

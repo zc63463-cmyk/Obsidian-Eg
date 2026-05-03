@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**同事，合作者**== `N` [中性/通用]；
+**n.** ①==**同事，合作者**== `N`；
 
 > [!tip] 原型义
 > **原型义**：一起工作的人
@@ -126,8 +126,8 @@ co-(共同/一起) + work(工作) + -er(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - A positive relationship with co-workers can significantly improve job satisfaction. `[例]`
-> - She often collaborates on projects with a close co-worker from the marketing department. `[例]`
+> - American workers in recent years have seen their co-workers laid off or downsized out of jobs . `[例]`
+> - Although Miss Anthony and her co-workers still believed that, with a true interpretation, women were voters under these amendments, they were obliged to accept the decision of the highest court of appeal. `[例]`
 
 ## 复习记录
 

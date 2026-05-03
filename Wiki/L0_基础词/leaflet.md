@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Judy reached into her handbag and handed me a small printed leaflet."（朱蒂把手伸进提包，拿出一张小的印刷传单给我。——通用例句）
-> - "The leaflet is available free of charge from post offices."（宣传单可以到邮局免费领取。——通用例句）
+> - Demonstrators handed out leaflets to passers-by. `[例]`
+> - A leaflet about the new bus services came through the door today. `[例]`
+> - Leaflet drops at churches , barbers , community centres and other places where people gather also are part of any successful get-out-the-vote effort . `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**组织**==（生物体）；②==**纸巾，薄纸**==；③==**薄绢，织物**==；
+**n.** ①==**组织**== `N`（生物体）；②==**纸巾，薄纸**== `N`；③==**薄绢，织物**== `N`；
 > [!tip] 原型义
 > **原型义**：编织物（通过编织而成的薄层结构，源自拉丁语 *texere* "编织"）
 > **延伸维度**：物理路径
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers examined the brain tissue of mice exposed to the chemical."（研究人员检查了接触该化学物质的小鼠的脑组织。——考研科普类阅读语料）
-> - "She reached for a tissue to wipe her tears."（她伸手拿了一张纸巾擦眼泪。——通用例句）
+> - His face is covered with scar tissue where he was badly burned . `[例]`
+> - She handed me a tissue just before I sneezed . `[例]`
+> - I always keep a box of tissues in the car . `[例]`
 
 
 ---

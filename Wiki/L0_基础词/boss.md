@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**老板，上司**== `my boss` `talk to the boss`；②工头，领班；③政治首领；
-**vt.** ①==**指挥，控制**== `boss someone around`；
+**n.** ①==**老板，上司**==；②工头，领班；③政治首领；
+**vt.** ①==**指挥，控制**==；
 
 > [!tip] 原型义
 > **原型义**：老板，工头（发号施令的人）
@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was tired of her boss bossing her around all day. ` [真题]`
-> - I asked my boss if I could have some time off to go to the dentist. ` [权威词典]`
-> - He accused his former boss of being arrogant. ` [权威词典]`
+> - She was the boss of a large international company . `[例]`
+> - I started up my own business and now I'm my own boss. `[例]`
+> - Who's the boss in your house ? `[例]`
 
 
 ---

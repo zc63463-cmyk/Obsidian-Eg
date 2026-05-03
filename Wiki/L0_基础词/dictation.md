@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The teacher gave us a dictation exercise in class."（老师在课堂上给我们做了听写练习。）
-> - "Before the invention of recording devices, secretaries had to take dictation."（在录音设备发明之前，秘书必须做口述记录。）
+> - Our French dictation lasted half an hour . `[例]`
+> - Can we get someone from the agency who takes dictation? `[例]`
+> - An assistant will take your dictation over the phone and send a fax or email to your recipient . `[例]`
 
 
 ---

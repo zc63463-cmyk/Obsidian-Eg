@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（使）倾斜**==；②偏向，倾向；
-**n.** ①倾斜；②偏见，倾向；
+**v.** ①==**（使）倾斜**== `V`；②==**偏向，倾向**== `V`；
+**n.** ①==**倾斜**== `N`；②==**偏见，倾向**== `N`；
 
 > [!tip] 原型义
 > **原型义**：倾斜、使倾斜
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The media coverage tilted heavily in favor of the incumbent."（媒体报道严重偏向现任者）
-> - "He ran at full tilt toward the finish line."（他全力冲向终点线）
+> - He tilted his chair backwards and put his feet up on his desk . `[例]`
+> - Anna looked up at him with her head tilted to one side . `[例]`
+> - The front seats of the car tilt. `[例]`
 
 
 ---

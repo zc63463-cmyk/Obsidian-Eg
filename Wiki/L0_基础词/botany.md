@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**植物学**== `study botany` `a degree in botany`；②植物生态 `the botany of`；
+**n.** ①==**植物学**==；②植物生态；
 
 > [!tip] 原型义
 > **原型义**：植物学（研究植物的科学）
@@ -120,10 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She pursued a degree in botany to study the medicinal properties of rainforest plants. `[真题]`
-> - Those with a scientific background of botany should take up a detailed study of endangered plant species to determine why they are dying out. `[真题]`
-> - During his tenure at the university, Gary taught courses in principles of biology, protistology, general botany, and freshwater algae. `[真题]`
-> - The botany of the region is remarkably diverse, with over three thousand species of flowering plants documented. `[语料库]`
+> - Here I can saunter in a green-house among plants and heaths, studying botany and beauty. `[例]`
+> - His leisure time was given up to natural history, and especially to mineralogy and botany. `[例]`
+> - I spoke just now of the time when England was joined to France, as bearing on Hampshire botany. `[例]`
 
 
 ---

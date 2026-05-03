@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**噩梦**==；②==**可怕的经历，噩梦般的事件**==；
+**n.** ①==**噩梦**== `N`；②==**可怕的经历，噩梦般的事件**== `N`；
 
 > [!tip] 原型义
 > **原型义**：噩梦（令人恐惧的梦境，源自古英语 *niht mare* "夜间的魔女/恶魔"）
@@ -124,8 +124,9 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But most law graduates never get a big-firm job. Many of them instead become the kind of nuisance-lawsuit filer that makes the tort system a costly nightmare."（但是大多数法学院毕业生从未获得大律所的工作。相反，许多人只能接手一些惹人厌烦的诉讼，由此致使侵权诉讼体系成为一场代价高昂的噩梦。——考研阅读高频表达）
-> - "The whole journey was a nightmare — we lost our luggage and both flights were delayed."（整个旅程是一场噩梦——我们丢了行李，两趟航班都延误了。——通用例句）
+> - I shouldn't have watched that movie - it'll give me nightmares. `[例]`
+> - The whole journey was a nightmare - we lost our luggage and both flights were delayed . `[例]`
+> - Being trapped underwater is my worst nightmare. `[例]`
 
 
 ---

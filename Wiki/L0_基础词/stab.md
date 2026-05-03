@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden stab of guilt she felt upon hearing the news was so intense that she could barely compose herself."（听到消息后她感到突然一阵强烈的内疚，几乎无法控制自己——考研阅读心理话题相关表达）
-> - "His decision to resign was seen by many colleagues as a stab in the back, given that the team had just begun to make progress on the project."（鉴于团队刚刚在项目上取得进展，他的辞职决定被许多同事视为背后捅刀——考研阅读职场话题相关表达）
+> - She was stabbed several times in the chest . `[例]`
+> - He was jailed for 15 years for stabbing his wife to death . `[例]`
+> - As she spoke she stabbed the air with her finger . `[例]`
 
 
 ---

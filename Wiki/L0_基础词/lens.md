@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We should view this issue through the lens of historical experience."（我们应该从历史经验的角度来看待这个问题）
-> - "The camera lens captures light and focuses it to form an image."（相机镜头捕捉光线并聚焦成像）
+> - A camera with a zoom lens. `[例]`
+> - Her eyeglasses have thick lenses. `[例]`
+> - A pair of glasses with tinted lenses. `[例]`
 
 
 ---

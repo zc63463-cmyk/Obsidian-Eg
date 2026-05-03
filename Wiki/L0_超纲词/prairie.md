@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（北美的）大草原，牧场**==；
+**n.** ①==**（北美的）大草原，牧场**== `N`；
 
 > [!tip] 原型义
 > **原型义**：大草原（北美洲中部的广阔草地）
@@ -121,7 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The vast prairies of the American Midwest were once home to millions of bison."（美国中西部广袤的大草原曾经是数百万头野牛的家园。）
+> - Only about 5 per cent of native prairie is left in Kansas. `[例]`
+> - Millions of buffalo once roamed the prairies . `[例]`
 
 ## 复习记录
 

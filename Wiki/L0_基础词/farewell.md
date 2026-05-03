@@ -137,8 +137,9 @@ fare(旅行) + well(好，安好)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Farewell to an old Asia hand and the Economist's previous obituaries editor."（向一位资深的亚洲问题专家、《经济学人》前逝者专栏编辑告别。——考研外刊阅读类常见表达）
-> - "He bade farewell to his hometown and set off for the big city."（他告别了家乡，动身前往大城市。——考研叙事类阅读常见表达）
+> - We said our sad farewells and got on the bus . `[例]`
+> - Hundreds of mourners were there to bid a sad farewell to the star . `[例]`
+> - A large crowd turned out to bid him farewell. `[例]`
 
 
 ---

@@ -123,8 +123,9 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures."（下次有人把公司配额作为促进性别平等的一种方式来推行时，请记住，这些政策基本上是自私自利的措施——2020年考研英语一阅读）
-> - "The government should supervise local sports associations."（政府应该监督本地体育协会——2017年考研Text 1）
+> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
+> - My second attempt at making bread was a little more successful. `[例]`
+> - This year's harvest was one of the most successful since the record crop of 1985. `[例]`
 
 
 ---

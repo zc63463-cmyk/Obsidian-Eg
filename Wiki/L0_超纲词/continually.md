@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**不断地，频繁地**== `adv. V` [通用]（可能有间断）；②==**一再地**== `adv. V` [通用]；
+**adv.** ①==**不断地，频繁地**== `adv`（可能有间断）；②==**频繁地，一再地**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：不断地延续（中间可能有间断）
@@ -130,8 +130,8 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Technology is continually evolving, forcing us to adapt to new ways of working. `[例]`
-> - She continually checks her phone for messages even during important meetings. `[例]`
+> - The teacher was angry because a student continually interrupted him during the lesson . `[例]`
+> - Fans could be ejected from matches if they continually refuse to obey the rules . `[例]`
 
 ## 复习记录
 

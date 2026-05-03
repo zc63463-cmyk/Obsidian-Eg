@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The term "culture" **denotes** a complex set of beliefs and practices.（"文化"一词表示一套复杂的信仰和实践体系。）
-> - In this equation, Δ **denotes** change.（在这个等式中，Δ 表示变化量。）
+> - The colour red is used to denote passion or danger . `[例]`
+> - His angry tone denoted extreme displeasure . `[例]`
+> - A very high temperature often denotes a serious illness. `[例]`
 
 ---
 

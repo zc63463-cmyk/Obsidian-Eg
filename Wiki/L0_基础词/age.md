@@ -139,8 +139,9 @@ age 源自拉丁语 *aevum*（时间、时代、寿命），与拉丁语 *aetas*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Small wonder that Americans' life expectancy has increased and the aging of the population has become a pressing social issue."（难怪美国人的预期寿命增加了，人口老龄化已成为一个紧迫的社会问题——考研英语阅读，人口老龄化话题）
-> - "Fluid intelligence is the type of intelligence that has to do with short-term memory and the ability to think quickly, logically, and abstractly in order to solve new problems. It peaks in young adulthood and then declines with age."（流体智力是与短期记忆以及快速、逻辑和抽象思考能力以解决新问题有关的智力类型。它在青年时期达到顶峰，然后随年龄增长而下降——2021考研英语一完形）
+> - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
+> - Do you know the age of that building ? `[例]`
+> - What age (= how old ) is your brother ? `[例]`
 
 
 ---

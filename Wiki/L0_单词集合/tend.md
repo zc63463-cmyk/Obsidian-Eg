@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "people tend to overestimate their abilities"（人们往往高估自己的能力）——考研阅读高频句式，心理学/行为经济学话题
-> - "tend to be more conservative"（倾向于更加保守）——政治/社会类阅读
-> - "tend the wounded"（照料伤者）——叙事/历史类文本
+> - The support service consultancies tend to __ _ A. recommend journals to their clients B. list citation patterns their clients C. ask authors to include extra citations D. advise contributors to cite each other 38. `[真题]`
+> - We tend to get cold winters and warm , dry summers in this part of the country . `[例]`
+> - He carefully tended his sunflower plants . `[例]`
 
 ---
 

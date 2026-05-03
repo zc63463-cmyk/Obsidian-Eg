@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Apollo 11 lunar module landed on the moon in 1969."（阿波罗11号登月舱于1969年登陆月球）
-> - "The lunar calendar is still widely used in many Asian countries."（农历在许多亚洲国家仍被广泛使用）
+> - Apollo 8 flew around the moon, but Apollo 9 stayed close before the Apollo 10 lunar flyby and eventual Apollo 11 first moon landing. `[例]`
+> - Astrobotic’s lunar south pole mission could launch later this year. `[例]`
+> - That’s why lunar maria have names like the Ocean of Storms and the Sea of Tranquility. `[例]`
 
 
 ---

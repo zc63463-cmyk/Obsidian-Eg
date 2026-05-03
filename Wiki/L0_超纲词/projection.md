@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**预测，推测**==；②==**投射，投影**==；③==**突出部分**==；④==**心理投射**==；
+**n.** ①==**预测，推测**== `N`；②==**投射，投影**== `N`；③==**突出部分**== `N`；④==**心理投射**== `N`；
 
 > [!tip] 原型义
 > **原型义**：向前抛出（将某物投射到前方）
@@ -130,7 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The UN's population projection suggests that the world population will reach 10 billion by 2050."（联合国的人口预测表明，到2050年世界人口将达到100亿。）
+> - The company has failed to achieve last year's sales projections by 30 percent . `[例]`
+> - Spending was well below projections. `[例]`
 
 ## 复习记录
 

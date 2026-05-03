@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**文化的，文化上的**== `adj N` [通用]；②==**与文化相关的**== `adj N` [通用]；③==**栽培的**== `adj N` [农业]；
+**adj.** ①==**文化的，文化上的**== `adj`；②==**与文化相关的**== `adj`；③==**栽培的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：与耕种/培养相关的（拉丁语 *colere* "耕种/培养"）
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Understanding cultural differences is essential for effective cross-cultural communication. `[例]`
-> - The museum is dedicated to preserving the cultural heritage of indigenous communities. `[例]`
+> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+> - The US is often accused of cultural imperialism . `[例]`
 
 ## 复习记录
 

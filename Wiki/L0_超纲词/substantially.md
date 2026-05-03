@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**大幅度地，大量地**==；②==**实质上，本质上**==；
+**adv.** ①==**大幅度地，大量地**== `adv`；②==**实质上，本质上**== `adv`；
 
 > [!tip] 原型义
 > **原型义**：实质上地（在本质/实体层面上的变化或差异）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Living standards have substantially improved over the past decade.（过去十年间，生活水平有了大幅改善。）
-> - The two proposals are substantially different in their approach to the problem.（这两个提案在处理问题的方式上实质上不同。）
+> - The new rules will substantially change how we do things. `[例]`
+> - House prices have risen substantially over the last six months . `[例]`
 
 ## 复习记录
 

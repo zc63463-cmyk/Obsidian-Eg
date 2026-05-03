@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a leading specialist in the field of artificial intelligence."（她是人工智能领域的顶尖专家）——科技类阅读
-> - "Your GP may refer you to a specialist for further tests."（你的全科医生可能会把你转介给专科医生做进一步检查）——健康/医学类话题
-> - "The company hired a marketing specialist to revamp its brand image."（公司聘请了一位营销专家来重塑品牌形象）——商业类话题
+> - She's a specialist in modern French literature . `[例]`
+> - She's a specialist in childhood illnesses . `[例]`
+> - I've asked to be referred to a specialist about my back pain . `[例]`
 
 ---
 

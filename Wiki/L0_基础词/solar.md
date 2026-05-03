@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Solar energy has emerged as one of the most promising alternatives to fossil fuels, offering a clean and renewable source of power."（太阳能已成为最有前景的化石燃料替代品之一，提供了清洁且可再生的能源——考研阅读环保话题相关表达）
-> - "Scientists have discovered evidence suggesting that the solar system may contain far more planets than previously thought."（科学家发现了证据表明太阳系中可能包含比以前认为的更多的行星——考研翻译科学话题相关表达）
+> - They are searching for intelligent life forms in other solar systems . `[例]`
+> - These spacecraft may send back data about the outermost reaches of the solar system . `[例]`
+> - The planet Jupiter contains large amounts of the primordial gas and dust out of which the solar system was formed . `[例]`
 
 
 ---

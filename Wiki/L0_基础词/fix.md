@@ -139,8 +139,9 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to fix the structural problems in the economy before implementing any new tax policies."（政府在实施任何新税收政策之前，需要解决经济中的结构性问题——考研阅读经济话题相关表达）
-> - "She fixed her gaze on the horizon, trying to spot the first sign of the approaching storm."（她凝视着地平线，试图发现即将来临的风暴的第一个迹象——考研翻译叙事话题相关表达）
+> - Shall we fix a time for our next meeting ? `[例]`
+> - I understand the rent is fixed at £750 a month . `[例]`
+> - We fixed the bookcase to the wall . `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**三角形**==；②三角关系；③（乐器）三角铁；
+**n.** ①==**三角形**== `N`；②==**三角关系**== `N`；③==**（乐器）三角铁**== `N`；
 
 > [!tip] 原型义
 > **原型义**：三角形（三条边、三个角组成的几何图形）
@@ -123,7 +123,9 @@ tri-（三，前缀）+ angle（角）→ 三个角 → 三角形。tri- 源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Bermuda Triangle is known for mysterious disappearances of ships and aircraft."（百慕大三角以船只和飞机的神秘失踪而闻名。）
+> - Which earrings did you buy in the end - the triangles or the circles ? `[例]`
+> - Her earrings were in the shape of triangles. `[例]`
+> - A triangle is a shape with three sides . `[例]`
 
 
 ---

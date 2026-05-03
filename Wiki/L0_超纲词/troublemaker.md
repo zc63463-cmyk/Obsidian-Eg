@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**捣乱者，惹事的人**==；②制造麻烦的人；
+**n.** ①==**捣乱者，惹事的人**== `N`；②==**制造麻烦的人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：捣乱者，惹事的人（制造麻烦的人）
@@ -122,8 +122,8 @@ trouble（麻烦）+ maker（制造者，make + -er）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He was always seen as a troublemaker at school."（他在学校里一直被视为捣乱者）
-> - "The government accused the opposition leader of being a troublemaker."（政府指责反对党领袖是麻烦制造者）
+> - I was worried that I would be regarded as a troublemaker if I complained about the safety standards . `[例]`
+> - He had the reputation of being a troublemaker in high school. `[例]`
 
 ## 复习记录
 

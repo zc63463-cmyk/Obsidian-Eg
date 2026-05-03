@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**爱乐的，交响乐的**==；
-**n.** ①==**爱乐乐团，交响乐团**==；
+**adj.** ①==**爱乐的，交响乐的**== `adj`；
+**n.** ①==**爱乐乐团，交响乐团**== `N`；
 
 > [!tip] 原型义
 > **原型义**：爱好音乐的
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The Berlin Philharmonic is widely regarded as one of the world's finest orchestras.（柏林爱乐乐团被广泛认为是世界上最优秀的管弦乐团之一）
-> - She has been a violinist with the London Philharmonic for over a decade.（她担任伦敦爱乐乐团的小提琴手已超过十年）
+> - Served as a conductor for the philharmonic. `[例]`
+> - It will be conducted by Gustavo Dudamel, who’s coming on as the philharmonic ’s music and artistic director. `[例]`
 
 ## 复习记录
 

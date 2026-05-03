@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet provides a forum for the free exchange of ideas."（互联网为思想的自由交流提供了论坛）
-> - "The conference served as a forum for discussing environmental issues."（这次会议成为讨论环境问题的论坛）
+> - This international event provided a forum for exchanging information and opinions in the field . `[例]`
+> - The committee is a forum for dialogue between staff representatives in 16 countries . `[例]`
+> - We do not believe that the courts are the appropriate forum for such a discussion . `[例]`
 
 
 ---

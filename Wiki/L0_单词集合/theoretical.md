@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research lacks a solid theoretical framework."（这项研究缺乏坚实的理论框架）——学术/写作高频表达
-> - "It is theoretically possible, but practically very difficult."（这在理论上是可能的，但在实践中非常困难）——常见对比表达
-> - "Theoretical knowledge alone is not sufficient; practical experience is equally important."（仅凭理论知识是不够的；实践经验同样重要）——教育话题
-> - "Theoretical physics explores the fundamental laws of nature through mathematical models."（理论物理学通过数学模型探索自然的基本规律）——科学语境
+> - The president does not want to answer any theoretical questions . `[例]`
+> - The threat of climate change is no longer merely theoretical. `[例]`
+> - The first year provides students with a sound theoretical basis for later study. `[例]`
+> - It's a theoretical possibility. `[例]`
 
 ---
 

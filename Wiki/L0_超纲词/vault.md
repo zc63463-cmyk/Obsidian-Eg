@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**金库，保险库**==；②拱顶，穹窿；③地下室，地下保险库；
-**v.** ①==**撑竿跳**==；②跃过，跨越；
+**n.** ①==**金库，保险库**== `N`；②==**拱顶，穹窿**== `N`；③==**地下室，地下保险库**== `N`；
+**v.** ①==**撑竿跳**== `V`；②==**跃过，跨越**== `V`；
 
 > [!tip] 原型义
 > **原型义**：拱形屋顶（建筑结构中的弧形穹顶）
@@ -127,8 +127,8 @@ vault 源自拉丁语 *volta*（拱形转弯），与 [[vis-vid|vis-/vid-]]（�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The bank's vault was designed to withstand earthquakes and fires.（银行金库的设计能抵御地震和火灾。）
-> - She vaulted over the fence with ease.（她轻松地跃过了栅栏。）
+> - She entered the vault with an armed guard . `[例]`
+> - She was buried in the family vault. `[例]`
 
 ## 复习记录
 

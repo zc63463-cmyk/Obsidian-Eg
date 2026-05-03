@@ -130,8 +130,9 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We have a mixed system, there is no spare capacity and as soon as there's a hiccup on the line, the situation becomes highly complex."（我们使用的是混合系统，没有备用容量，一旦线路上出现问题，情况就会变得非常复杂。）——2026考研英语二完形
-> - "A mixed system means that high-speed trains must travel on the regular tracks on certain routes."（混合系统意味着高速列车在某些路线上必须在普通轨道上行驶。）——2026考研英语二完形
+> - A central heating system. `[例]`
+> - The system keeps crashing and no one is able to figure out why. `[例]`
+> - A run in the morning is good for the system - it wakes the body up and gets everything going. `[例]`
 
 ---
 

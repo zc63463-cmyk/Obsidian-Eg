@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The museum displays a collection of Chinese antiques."（博物馆展出了一批中国古董收藏）
-> - "She inherited an antique vase from her grandmother."（她从祖母那里继承了一只古董花瓶）
+> - You can't give away Granny's old bookcase - it's a valuable antique. `[例]`
+> - My mother collects antiques. `[例]`
+> - Fry owns an antique shop and art gallery in York Harbor, Maine. `[例]`
 
 
 ---

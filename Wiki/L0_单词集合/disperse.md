@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has played a crucial role in dispersing knowledge and information across the globe."（互联网在全球传播知识和信息方面发挥了关键作用。）——考研高频表达
-> - "After the rally, police moved in to disperse the crowd that had gathered in the square."（集会结束后，警察出动驱散了聚集在广场上的人群。）——考研高频表达
+> - When the rain came down the crowds started to disperse. `[例]`
+> - Police dispersed the crowd that had gathered . `[例]`
+> - It took several hours for the crowd to disperse. `[例]`
 ---
 
 

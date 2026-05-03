@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**对手，竞争者**==；②==**反对者，敌手**==；
-**adj.** ①==**对立的，敌对的**==；
+**n.** ①==**对手，竞争者**== `N`；②==**反对者，敌手**== `N`；
+**adj.** ①==**对立的，敌对的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：被放置在对立面的人（ob- 对着 + ponere 放置）
@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was respected even by his political opponents."（他甚至受到政敌的尊敬）——考研阅读常见搭配，政治类
-> - "She defeated her opponent in the final match."（她在决赛中击败了对手）——体育/竞争类阅读
-> - "Opponents of the new law argue that it infringes on civil liberties."（新法律的反对者认为它侵犯了公民自由）——法律/社会类阅读
+> - Leading opponents of the proposed cuts in defence spending will meet later today. `[例]`
+> - In the second game , her opponent hurt her leg and had to retire . `[例]`
+> - Opponents of the project fear it will attract undesirables . `[例]`
 
 ---
 

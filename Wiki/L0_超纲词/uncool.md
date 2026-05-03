@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不酷的，不时髦的**==；②不冷静的；③令人不快的；
+**adj.** ①==**不酷的，不时髦的**== `adj`；②==**不冷静的**== `adj`；③==**令人不快的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不酷的（不冷静/不时髦的）
@@ -125,8 +125,8 @@ un-(不，否定前缀) + cool(凉的/酷的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "It's uncool to care about what others think."（在意别人的看法很不酷。）
-> - "The brand has become uncool among younger consumers."（这个品牌在年轻消费者中已经不酷了。）
+> - My dad's so uncool. `[例]`
+> - Wearing homemade clothes was very uncool. `[例]`
 
 ## 复习记录
 

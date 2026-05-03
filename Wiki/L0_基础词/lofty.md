@@ -127,8 +127,9 @@ loft（阁楼，高处）+ -y(形容词后缀，有……性质的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was driven by lofty ideals to serve the public good."（他被崇高的理想所驱使，致力于为公共利益服务——考研阅读人物类话题）
-> - "The lofty peaks of the Himalayas have attracted climbers for centuries."（喜马拉雅高耸的山峰几个世纪以来一直吸引着登山者——考研翻译常见表达）
+> - He set lofty goals for himself as a teacher. `[例]`
+> - She showed a lofty disregard for their objections. `[例]`
+> - Despite all of this, the 'Boys seem to be the butt of many jokes on the internet thanks to their myriad of disappointing finishes and lofty expectations from fans over the last 30 years. `[例]`
 
 
 ---

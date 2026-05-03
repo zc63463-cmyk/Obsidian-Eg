@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We knew that war was coming, and we were determined to make hay while we could."（我们知道战争即将爆发，决心要趁早抓住有利时机——英语阅读常见表达，make hay while the sun shines 为常考谚语）
-> - "Pollens in the atmosphere become pervasive during the springtime and are known to cause hay fever."（大气中的花粉在春季变得无处不在，已知会引起花粉症——英语阅读科普材料，hay fever 为常见搭配）
+> - Their credit card debt isn't hay —it'll take years to pay it off. `[例]`
+> - Dragging myself out of the hay on such a cold, dreary morning seemed like an act of sheer masochism. `[例]`
+> - Few players in this class love football more than this guy, a former hay bale toss champion. `[例]`
 
 
 ---

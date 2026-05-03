@@ -124,8 +124,8 @@ fore-(在前，在前方) + father(父亲)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Our forefathers fought bravely to secure the freedoms we enjoy today. `[例]`
-> - The forefathers of modern science laid the groundwork for centuries of discovery. `[例]`
+> - Our forefathers fought for equal justice under the law . `[例]`
+> - This land belongs to us and our forefathers. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**沼泽，湿地**== `adj N` [中性]；
+**n.** ①==**沼泽，湿地**== `N`；
 
 > [!tip] 原型义
 > **原型义**：沼泽（低洼积水、长满草的湿地）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` The salt marshes along the coast serve as a crucial habitat for migratory birds. [C]
-> - `[例]` The explorers struggled to cross the marsh, where thick mud swallowed their boots at every step. [C]
+> - At the mouth of the river is a large area of marsh. `[例]`
+> - Rain had been falling steadily all day and the ground had become a marsh. `[例]`
 
 ## 复习记录
 

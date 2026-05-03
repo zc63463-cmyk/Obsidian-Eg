@@ -149,11 +149,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "write off the debt"（注销债务）——考研阅读经济/商业类话题高频搭配
-> - "It is worth noting that..."（值得注意的是……）——考研写作/阅读高频句式
-> - "write down the key points"（记下要点）——学习方法类话题常见表达
-> - "written language vs spoken language"（书面语与口语）——语言学/教育类话题
-> - "write a letter to the editor"（给编辑写信）——社会议题类话题
+> - Write your answers on the ANSWER SHEET. ( 10 points) There has been some exploration around the use of AI in digital marketing. `[真题]`
+> - Section m Writing Part A 51. `[真题]`
+> - Directions: Write a notice to recruit a student for Prof. `[真题]`
+> - You should write about 100 words on the ANSWER SHEET. `[真题]`
+> - Why not write (down) your ideas on a piece of paper before you start ? `[例]`
 
 ---
 

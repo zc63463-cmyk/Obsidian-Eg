@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All men are created equal, that they are endowed by their Creator with certain unalienable Rights."（人人生而平等，造物主赋予他们若干不可剥夺的权利。——《独立宣言》）
-> - "Women should receive equal pay for equal work."（女性应该获得同工同酬。）
-> - "She proved herself equal to the challenge."（她证明自己能够胜任这一挑战。）
+> - One litre is equal to 1.76 imperial pints . `[例]`
+> - One box may look bigger than the other, but in fact they are roughly (= almost ) equal in volume . `[例]`
+> - All people are equal, deserving the same rights as each other. `[例]`
 
 
 ---

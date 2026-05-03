@@ -124,8 +124,9 @@ dis-(打开/移除) + [[close/clus|close]](关闭/覆盖) → 移除覆盖
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was required to disclose all financial information to the public."（公司被要求向公众披露所有财务信息。）——考研高频表达
-> - "He refused to disclose the source of his information."（他拒绝透露信息的来源。）——考研高频表达
+> - The company has disclosed profits of over £200 million. `[例]`
+> - He refused to disclose the source of his information. `[例]`
+> - The police have disclosed that two officers are under internal investigation . `[例]`
 
 ---
 

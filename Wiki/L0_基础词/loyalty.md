@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Customer loyalty is one of the most valuable assets a company can have."（顾客忠诚度是公司能拥有的最有价值的资产之一）
-> - "His loyalty to the cause never wavered, even in the face of great danger."（即使面对巨大危险，他对事业的忠诚从未动摇）
+> - His loyalty was never in question . `[例]`
+> - Her loyalty to the cause is impressive . `[例]`
+> - Flexible working hours encourages employee loyalty to the company . `[例]`
 
 
 ---

@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He suffered a fracture in his right leg during the match."（他在比赛中右腿骨折）
-> - "The coalition was fractured by deep internal disagreements."（联盟因深刻的内部分歧而破裂）
-> - "The X-ray revealed a hairline fracture of the wrist."（X光显示手腕有一处骨裂）
+> - She fractured her skull in the accident . `[例]`
+> - The impact fractured his elbow . `[例]`
+> - Two of her ribs fractured when she was thrown from her horse . `[例]`
 
 
 ---

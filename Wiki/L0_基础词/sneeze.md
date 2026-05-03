@@ -125,8 +125,9 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The salary they offered was not to be sneezed at, though it was still below what she had hoped for."（他们提供的薪水虽然低于她的期望，但也不可小觑——考研阅读职场话题相关表达）
-> - "When someone sneezes, it is considered polite in many cultures to say 'Bless you' or 'Gesundheit'."（在许多文化中，当有人打喷嚏时，说"保佑你"或"祝你健康"被认为是有礼貌的——考研翻译文化话题相关表达）
+> - Cats make him sneeze - I think he's allergic to them. `[例]`
+> - He has all the classic symptoms of a cold - the coughs and sneezes and the sore throat . `[例]`
+> - I don’t know why, but I couldn’t stop sneezing. `[例]`
 
 
 ---

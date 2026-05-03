@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**刀叉餐具**== `N` [中性]；②==**刀具**== `N` [中性]；
+**n.** ①==**刀叉餐具**== `N`（总称）；②==**刀具**== `N`；
 
 > [!tip] 原型义
 > **原型义**：切割工具（源自中古英语 *cuteler*，与 cut "切" 同源）
@@ -124,8 +124,8 @@ cut(切) + -lery(名词后缀，表"……的集合/总称")
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The formal dinner required proper placement of cutlery at each setting. `[例]`；
-> - She carefully polished the silver cutlery before the guests arrived. `[例]`；
+> - Martha rearranged the vessels and cutlery upon the tray, with quick, expert movements of the wrists. `[例]`
+> - The cutlery is described here as of German make. `[例]`
 
 ## 复习记录
 

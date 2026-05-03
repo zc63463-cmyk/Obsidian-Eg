@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A deep understanding of the subject is essential for success."（对这门学科的深入理解是成功的关键。）——考研阅读/写作高频句式
-> - "The two sides reached an understanding on the key issues."（双方在关键问题上达成了谅解。）——政治/商业类阅读
-> - "Reading widely can deepen your understanding of the world."（广泛阅读可以加深你对世界的理解。）——考研写作可用句式
+> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
+> - My understanding of the agreement (= what I think it means ) is that they will pay $50,000 over two years . `[例]`
+> - The Supreme Court has radically revised previous understandings of the Constitution. `[例]`
 
 ---
 

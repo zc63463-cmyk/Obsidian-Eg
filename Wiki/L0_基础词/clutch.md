@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She clutched her purse tightly as she walked through the dark alley."（她走过黑暗的小巷时紧紧攥住钱包）
-> - "The country is struggling to escape the clutches of poverty."（这个国家正在努力摆脱贫困的控制）
+> - Silent and pale , she clutched onto her mother's hand . `[例]`
+> - Clutching the money to his chest , he hurried to the bank . `[例]`
+> - He collapsed , clutching his stomach . `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**乌托邦，理想国**==；②理想中完美的地方/社会；
+**n.** ①==**乌托邦，理想国**== `N`；②==**理想中完美的地方/社会**== `N`；
 
 > [!tip] 原型义
 > **原型义**：不存在的地方（希腊语 *ou*（不）+ *topos*（地方）→ 不存在的地方→理想中的完美社会）
@@ -127,8 +127,8 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The idea that technology will solve all of humanity's problems is a dangerous utopia.（认为技术将解决人类所有问题的想法是一种危险的乌托邦。）
-> - Many 19th-century thinkers envisioned a socialist utopia free from poverty and inequality.（许多19世纪的思想家设想了一个没有贫困和不平等的社会主义乌托邦。）
+> - Try and imagine a perfect society , a utopia, in which the government really got everything right . `[例]`
+> - Humans, in the developed world at least, are as close to utopia as they are ever likely to be, argues the professor . `[例]`
 
 ## 复习记录
 

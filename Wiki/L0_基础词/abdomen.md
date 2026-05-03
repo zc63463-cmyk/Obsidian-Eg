@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The patient was admitted to the hospital complaining of severe abdominal pain that had persisted for three days."（患者因持续三天的剧烈腹痛被收治入院——考研阅读医学话题相关表达）
-> - "During the physical examination, the doctor carefully palpated the abdomen to check for any abnormalities or tenderness."（在体格检查中，医生仔细触诊腹部以检查是否有任何异常或压痛——考研翻译医学话题相关表达）
+> - Patients reported pain in the lower chest or upper abdomen. `[例]`
+> - Showed us a tiny tattoo on her abdomen , right next to her belly button. `[例]`
+> - Dykeman said Pedro-Francisco told him she is forced to climb up to a third-level bunk despite immense pain extending from the right side of her abdomen to her back. `[例]`
 
 
 ---

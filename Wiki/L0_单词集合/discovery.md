@@ -120,8 +120,9 @@ dis-(移除) + [[cover|cover]](覆盖) + -y(名词后缀，表状态/结果) →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of antibiotics revolutionized modern medicine."（抗生素的发现彻底改变了现代医学。）——考研高频表达
-> - "The scientific discovery opened up new possibilities for cancer treatment."（这一科学发现为癌症治疗开辟了新的可能性。）——考研高频表达
+> - Who is credited with the discovery of electricity ? `[例]`
+> - The discovery of a body in the undergrowth started a murder enquiry . `[例]`
+> - Among the thousands of documents Litt was able to obtain in discovery from the city was a memo written by a councilman's aide in response to one resident's complaint . `[例]`
 
 ---
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**民主主义者，民主党人**== `adj N` [政治] `a N` [新闻]；
+**n..** ①==**民主主义者，民主党人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：人民统治的人（支持民众掌握权力的人）
@@ -123,8 +123,8 @@ demo-(dem-/demo-，人民) + crat(统治/权力) → 人民统治 → 民主主�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She has always been a passionate democrat who believes in equal rights for all citizens. `[例]`
-> - The democrat argued that universal healthcare should be a fundamental right in a modern society. `[例]`
+> - Democrats traditionally support higher taxes , mostly levied against the wealthier segments of society . `[例]`
+> - The Democrats were outvoted , as usual . `[例]`
 
 ## 复习记录
 

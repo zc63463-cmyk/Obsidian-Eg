@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**摘，采**==（用手指摘取花朵、水果等）；②拔（毛、弦）；③==**鼓起勇气**==（pluck up courage）；④挑选（人才）；
-**n.** ①==**勇气，胆识**==（the pluck to do something）；
+**v.** ①==**摘，采**== `V`（用手指摘取花朵、水果等）；②==**拔（毛、弦）**== `V`；③==**鼓起勇气**== `V`（pluck up courage）；④==**挑选（人才）**== `V`；
+**n.** ①==**勇气，胆识**== `N`（the pluck to do something）；
 
 > [!tip] 原型义
 > **原型义**：用手指摘取
@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She plucked up the courage to speak in front of the large audience.（她鼓起勇气在众多观众面前发言）
-> - The scout plucked the young athlete from a small village and turned him into a champion.（星探从小村庄挑选了这位年轻运动员，将他培养成了冠军）
+> - Caged birds sometimes pluck out their breast feathers . `[例]`
+> - Do you pluck your eyebrows (= remove some of the hairs from them to give them a better shape ) ? `[例]`
 
 ## 复习记录
 

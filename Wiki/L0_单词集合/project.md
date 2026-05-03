@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**计划，规划**== ; ②投射，放映 ; ③突出，伸出 ;
-**n.** ①==**项目，工程**== ; ②方案，计划 ;
+**v.** ①==**计划，规划**== `V`；②==**投射，放映**== `V`；③==**突出，伸出**== `V`；
+**n.** ①==**项目，工程**== `N`；②==**方案，计划**== `N`；
 
 > [!tip] 原型义
 > **原型义**：向前抛出（throw forward）
@@ -133,8 +133,9 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory called the Hawthorne Plant near Chicago."（1924年，美国国家研究委员会派遣两名工程师去芝加哥附近一家名为霍桑工厂的大型电话零部件厂监督一系列工业实验——2010年考研完形填空）
-> - "The new building project will cost millions of dollars."（新的建筑项目将耗资数百万美元——考研高频表达）
+> - Smith's research project on campus sports activities. `[真题]`
+> - The Kings Cross housing project. `[例]`
+> - Her latest project is a film based on the life of a 19th-century music hall star . `[例]`
 
 
 ---

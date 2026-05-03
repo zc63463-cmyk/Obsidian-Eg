@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**前所未有的，空前的**==；②史无前例的；③没有先例的；
+**adj.** ①==**前所未有的，空前的**== `adj`；②==**史无前例的**== `adj`；③==**没有先例的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：前所未有的（没有先例的）
@@ -127,8 +127,8 @@ un-(不，否定前缀) + [[prec-pre|preced]](先行/在前面) + -ent(名词/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The country is facing an unprecedented economic crisis."（该国正面临一场前所未有的经济危机。）
-> - "Climate change is occurring at an unprecedented rate."（气候变化正以空前的速度发生。）
+> - This century has witnessed environmental destruction on an unprecedented scale . `[例]`
+> - She took the unprecedented step of revealing the truth about the situation . `[例]`
 
 ## 复习记录
 

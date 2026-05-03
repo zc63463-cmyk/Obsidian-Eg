@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**平庸，平凡**== `the N of N` `wallow in N` [贬义]；②==**平庸的人/事物**== `a N` `adj N` [贬义]；
+**n.** ①==**平庸，平凡**== `N`；②==**平庸的人/事物**== `N`；
 
 > [!tip] 原型义
 > **原型义**：平庸（处于中等水平、不够出色的状态）
@@ -121,8 +121,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `` `[例]` `` The company's reluctance to innovate has led to a culture of mediocrity that threatens its long-term survival. [C]
-> - `` `[例]` `` She refused to accept mediocrity and pushed herself to achieve excellence in every project she undertook. [C]
+> - A goal just before half-time rescued the match from mediocrity. `[例]`
+> - His acting career started brilliantly, then sank into mediocrity. `[例]`
 
 ## 复习记录
 

@@ -121,8 +121,9 @@ culp(过错，罪过) + -rit(人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The main culprit behind the decline in biodiversity is habitat destruction caused by human activities."（生物多样性下降的主要罪魁祸首是人类活动造成的栖息地破坏。）——考研高频表达
-> - "Pollution is the main culprit behind the increase in respiratory diseases."（污染是呼吸道疾病增加的主要罪魁祸首。）——考研高频表达
+> - Police hope the public will help them to find the culprits. `[例]`
+> - Children in this country are getting much too fat , and sugar and sweets are the main culprits. `[例]`
+> - Two eyewitnesses identified her as the culprit. `[例]`
 
 ---
 

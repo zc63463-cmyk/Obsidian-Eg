@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such behaviour is regarded as 'all too human', with the underlying assumption that other animals would not be capable of this finely developed sense of grievance."（这种行为被认为是'人之常情'，其潜在假设是其他动物不具备这种高度发达的不满意识。）——2005年考研英语Text1
-> - "Honesty is a character trait that is valued in all cultures."（诚实是一种在所有文化中都受到重视的性格特征。）——考研高频表达
+> - His sense of humour is one of his better traits. `[例]`
+> - Patience is one of his best traits. `[例]`
+> - Awareness of class is a typically British trait. `[例]`
 
 ---
 

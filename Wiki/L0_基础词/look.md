@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Looking forward to receiving your reply."（期待收到您的回复——考研书信写作模板句）
-> - "The researchers looked into the effects of sleep deprivation."（研究人员调查了睡眠不足的影响——考研阅读）
+> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
+> - They looked at the picture and laughed . `[例]`
+> - Look at all these toys on the floor . `[例]`
 
 
 ---

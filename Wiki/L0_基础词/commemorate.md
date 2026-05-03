@@ -129,8 +129,9 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A ceremony was held to commemorate the 100th anniversary of the founding of the university."（举行了一场仪式来纪念建校100周年——考研翻译高频表达）
-> - "The statue was erected to commemorate the soldiers who died in the war."（这座雕像是为了纪念在战争中牺牲的士兵而建的——考研阅读常见话题）
+> - Gathered all together in this church , we commemorate those who lost their lives in the war . `[例]`
+> - A statue has been built to commemorate the 100th anniversary of the poet's birthday . `[例]`
+> - The ceremonies commemorated the 20th anniversary of the founding of the school . `[例]`
 
 
 ---

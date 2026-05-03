@@ -132,8 +132,9 @@ supr-(=super- 的最高级形式，在最上面) + -eme(形容词后缀) → 在
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ethical judgments of the Supreme Court have become an important issue recently."（最高法院的伦理判断最近已成为一个重要议题。）——2012考研英语一完形
-> - "On a five to three vote, the Supreme Court knocked out much of Arizona's immigration law Monday."（周一，最高法院以五比三的票数推翻了亚利桑那州移民法的大部分内容。）——2013考研英语一阅读
+> - The supreme commander of the armed forces. `[例]`
+> - The country's present constitution gives supreme authority to the presidency . `[例]`
+> - Beethoven reigns supreme among classical composers . `[例]`
 
 ---
 

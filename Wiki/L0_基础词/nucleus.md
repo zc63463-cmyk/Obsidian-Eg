@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**核心，中心**==；②==**原子核**==；③==**细胞核**==；
+**n.** ①==**核心，中心**== `N`；②==**原子核**== `N`；③==**细胞核**== `N`；
 
 > [!tip] 原型义
 > **原型义**：坚果的核（事物的中心核心部分）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These paintings will form the nucleus of a new collection that the museum plans to exhibit next year."（这些画将构成博物馆计划明年展出的新收藏系列的核心——考研翻译艺术话题相关表达）
-> - "Neutrons and protons are bound together in the nucleus of an atom by strong nuclear forces."（中子和质子在原子核中通过强核力结合在一起——考研阅读科普话题相关表达）
+> - DNA is stored in the nucleus of a cell . `[例]`
+> - These three players will form the nucleus of a revised and stronger team . `[例]`
+> - These two people will form the nucleus of a new management team to promote sales in South America . `[例]`
 
 
 ---

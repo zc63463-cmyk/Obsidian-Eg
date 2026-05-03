@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One dollar is equivalent to approximately seven yuan."（一美元大约相当于七元人民币——考研翻译高频句式）
-> - "Silence is sometimes equivalent to agreement."（沉默有时等同于同意——考研阅读常见逻辑）
+> - She's doing the equivalent job in the new company but for more money . `[例]`
+> - Is $50 equivalent to about £30? `[例]`
+> - There is no English equivalent for " bon appetit" so we have adopted the French expression . `[例]`
 
 
 ---

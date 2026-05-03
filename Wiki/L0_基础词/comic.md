@@ -131,8 +131,9 @@ com-(一起，词根 [[com]]) + ic(形容词后缀，与……有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The comic relief in Shakespeare's tragedies provides a momentary escape from the tension."（莎士比亚悲剧中的喜剧调剂为紧张气氛提供了短暂的缓解——考研文学类阅读）
-> - "Comic books have evolved into a legitimate form of literature."（连环画已经发展成为一种正当的文学形式——考研文化类话题）
+> - Dad read the front page while the kids read the comics. `[例]`
+> - Modern Times" is a classic comedy starring Charlie Chaplin, the grandaddy of comic film actors . `[例]`
+> - The speech had several comic touches . `[例]`
 
 
 ---

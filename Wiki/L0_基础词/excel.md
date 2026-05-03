@@ -122,8 +122,9 @@ ex-(出，超出) + cel(升高，超越)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students who excel in critical thinking are better prepared for the workforce."（擅长批判性思维的学生为进入职场做好了更好的准备。）
-> - "The company excels at innovation and customer service."（该公司在创新和客户服务方面表现出色。）
+> - Rebecca always excelled in languages at school . `[例]`
+> - The British team have excelled themselves this year to reach the finals . `[例]`
+> - The woman who did the flower arranging had excelled herself that day . `[例]`
 
 
 ---

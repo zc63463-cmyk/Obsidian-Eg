@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children with special educational needs require additional support."（有特殊教育需求的儿童需要额外支持）——教育类阅读
-> - "The government introduced special measures to combat the economic crisis."（政府出台了特殊措施来应对经济危机）——政策类话题
-> - "Is there anything special you'd like to do for your birthday?"（你生日有什么特别想做的事吗？）——日常对话类
+> - The car has a number of special safety features . `[例]`
+> - Is there anything special that you'd like to do today? `[例]`
+> - Passengers should tell the airline in advance if they have any special dietary needs . `[例]`
 
 ---
 

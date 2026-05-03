@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The patient underwent heart bypass surgery last week."（这位患者上周接受了心脏搭桥手术。）——医学/科普类阅读
-> - "The company has undergone a major transformation in recent years."（这家公司近年来经历了一次重大转型。）——商业类阅读
-> - "New recruits have been undergoing intensive training."（新兵们一直在接受强化训练。）——考研翻译
+> - Playing board games is undergoing a revival in popularity . `[例]`
+> - I had to undergo a medical examination when I started my pension scheme . `[例]`
+> - Athletes must undergo a mandatory drugs test before competing in the championship . `[例]`
 
 ---
 

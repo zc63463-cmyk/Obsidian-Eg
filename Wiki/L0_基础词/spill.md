@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's no use crying over spilled milk — what's done cannot be undone, and we must focus on finding a solution rather than dwelling on past mistakes."（覆水难收——已经发生的事无法挽回，我们必须集中精力寻找解决方案，而不是沉溺于过去的错误——考研写作谚语类表达）
-> - "The investigation revealed that confidential information had been spilled to the press, causing significant damage to the company's reputation."（调查发现机密信息已被泄露给新闻界，对公司的声誉造成了重大损害——考研阅读商业话题相关表达）
+> - I spilled coffee on my silk shirt . `[例]`
+> - You've spilled something down your tie . `[例]`
+> - Let's see if I can pour the juice into the glass without spilling it. `[例]`
 
 
 ---

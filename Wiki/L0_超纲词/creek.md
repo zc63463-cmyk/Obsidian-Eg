@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小溪，小河**== `a creek runs through` [通用] `creek bed` [通用]；②==**（美）小湾，小水湾**== `a creek off the coast` [美式]；
+**n.** ①==**小溪，小河**== `N`；②==**（美）小湾，小水湾**== `N`；
 
 > [!tip] 原型义
 > **原型义**：小溪流（比河流窄小的水流）
@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The children loved playing in the creek behind their house during summer. `[例]`
-> - A narrow creek winds through the valley before joining the main river downstream. `[例]`
+> - I'm going to sail to the mouth of the Thames and then let the tide take me up a creek. `[例]`
+> - She loved the Suffolk coast,with its creeks and marshes and reed beds under a huge sky . `[例]`
 
 ## 复习记录
 

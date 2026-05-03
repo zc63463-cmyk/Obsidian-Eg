@@ -139,8 +139,9 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to move quickly to address the growing environmental crisis."（政府需要迅速采取行动来应对日益严峻的环境危机）
-> - "She was deeply moved by the documentary about children in war zones."（她被那部关于战区儿童的纪录片深深打动）
+> - To respond to PRH's business move. `[真题]`
+> - I'm so cold I can't move my fingers . `[例]`
+> - Will you help me move this table to the back room ? `[例]`
 
 
 ---

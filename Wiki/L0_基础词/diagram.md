@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The teacher drew a diagram on the blackboard to explain the water cycle."（老师在黑板上画了一张示意图来解释水循环。）
-> - "Figure 2 shows a diagram of the experimental setup."（图2展示了实验装置的示意图。）
+> - The teacher drew a diagram showing how the blood flows through the heart . `[例]`
+> - The teacher drew a diagram showing how blood flows through the heart . `[例]`
+> - As the diagram shows , a complex arrangement has been designed to balance French , German , and Spanish interests . `[例]`
 
 
 ---

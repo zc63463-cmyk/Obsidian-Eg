@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**服从的，顺从的**==；②==**听话的**==（常用于形容孩子或下属）；
+**adj.** ①==**服从的，顺从的**== `adj`；②==**听话的**== `adj`（常用于形容孩子或下属）；
 
 > [!tip] 原型义
 > **原型义**：仔细倾听并遵从的人（听→服从→顺从的）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In traditional Asian families, children are expected to be obedient to their parents and show respect for their elders at all times."（在传统的亚洲家庭中，孩子被期望始终服从父母并尊敬长辈——考研翻译文化话题）
-> - "An obedient dog is much easier to train and can be a reliable companion for its owner."（一只听话的狗更容易训练，也能成为主人可靠的伙伴——考研阅读生活话题）
+> - Students are expected to be quiet and obedient in the classroom . `[例]`
+> - An obedient dog is much easier to train and can be a reliable companion for its owner. `[例]`
+> - He was always obedient to his father's wishes. `[例]`
 
 
 ---

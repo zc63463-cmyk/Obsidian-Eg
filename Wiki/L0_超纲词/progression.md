@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**前进，进步**==；②==**一系列，连续**==；③==**（数学）级数**==；
+**n.** ①==**前进，进步**== `N`；②==**一系列，连续**== `N`；③==**（数学）级数**== `N`；
 
 > [!tip] 原型义
 > **原型义**：向前走的过程（一步步向前移动）
@@ -128,7 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Career progression in academia often requires a combination of teaching excellence and research output."（在学术界，职业发展通常需要教学卓越和研究产出的结合。）
+> - Drugs can slow down the progression of the disease . `[例]`
+> - The novel follows the progression of a woman from youth to middle age . `[例]`
 
 ## 复习记录
 

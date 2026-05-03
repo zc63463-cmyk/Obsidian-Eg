@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people in developing countries are still struggling to make a living."（许多发展中国家的人仍在努力谋生——考研阅读经济类话题）
-> - "The improvement of living standards is one of the greatest achievements of modern society."（生活水平的提高是现代社会最伟大的成就之一——考研翻译高频表达）
+> - He is probably the best-known living architect . `[例]`
+> - The pyramids are a living monument to the skill of their builders . `[例]`
+> - What do you do for a living? (= What is your job ?). `[例]`
 
 
 ---

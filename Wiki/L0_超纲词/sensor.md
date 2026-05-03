@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**传感器，感应器**==；②感知器官（生物学术语）；
+**n.** ①==**传感器，感应器**== `N`；②==**感知器官（生物学术语）**== `N`；
 
 > [!tip] 原型义
 > **原型义**：感知信号的装置（代替人体感官来感知物理量的设备）
@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The motion sensor automatically turns on the lights when someone enters the room."（当有人进入房间时，运动传感器会自动开灯。）
-> - "Modern cars are equipped with dozens of sensors that monitor engine performance."（现代汽车配备了数十个监控发动机性能的传感器。）
+> - The security device has a heat sensor which detects the presence of people and animals . `[例]`
+> - Security lights with an infrared sensor (= that come on when a person is near them). `[例]`
 
 ## 复习记录
 

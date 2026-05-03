@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**尽管，虽然**==；
-**adv.** ①尽管如此，仍然；
-**conj.** ①虽然，尽管；
+**prep.** ①==**尽管，虽然**== `prep N`；
+**adv.** ①==**尽管如此，仍然**== `adv`；
+**conj.** ①==**虽然，尽管**== `that-clause`；
 
 > [!tip] 原型义
 > **原型义**：不受阻拦地（not + with + standing = 不受站立阻碍 = 尽管如此）
@@ -121,7 +121,9 @@ not(不) + with(与) + stand(站立，[[st-sta-stat]]) + -ing(现在分词)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Notwithstanding the challenges, the project was completed on time."（尽管面临挑战，项目仍按时完成——考研翻译常见结构）
+> - Notwithstanding some members ' objections , I think we must go ahead with the plan . `[例]`
+> - Injuries notwithstanding, the team won the semifinal . `[例]`
+> - Injuries notwithstanding, this season has been a disappointment to me. `[例]`
 
 
 ---

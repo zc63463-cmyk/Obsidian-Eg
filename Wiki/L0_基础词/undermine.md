@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**逐渐削弱，暗中破坏**==（信心、权威、制度等）；②==**侵蚀……的基础**==（从根基上损害）；
+**v.** ①==**逐渐削弱，暗中破坏**== `V`（信心、权威、制度等）；②==**侵蚀……的基础**== `V`（从根基上损害）；
 
 > [!tip] 原型义
 > **原型义**：在下面挖掘使其坍塌
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The constant criticism from his supervisor gradually undermined his confidence in his own abilities."（主管不断的批评逐渐削弱了他对自己能力的信心。——考研阅读职场话题高频表达）
-> - "Corruption and mismanagement have seriously undermined public trust in government institutions."（腐败和管理不善严重损害了公众对政府机构的信任。——考研翻译政治话题相关表达）
+> - Criticism just undermines their confidence . `[例]`
+> - The incompetence and arrogance of the city’s administration have undermined public confidence in government . `[例]`
+> - A succession of scandals and revelations has undermined the government over the past year . `[例]`
 
 
 ---

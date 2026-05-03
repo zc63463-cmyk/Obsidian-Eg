@@ -142,10 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The experiments yielded some surprising results."（实验得出了一些令人惊讶的结果）——考研阅读/翻译高频句式
-> - "He was forced to yield to their demands."（他被迫屈服于他们的要求）——考研阅读常见搭配
-> - "High-yield farming methods"（高产农业方法）——经济/农业类阅读语境
-> - "yield to temptation"（屈服于诱惑）——文学/哲学类文本
+> - The experiments yielded some surprising results . `[例]`
+> - An attempt to yield increased profits. `[例]`
+> - The investigation yielded some unexpected results . `[例]`
+> - Favourable weather yielded a good crop . `[例]`
 
 ---
 

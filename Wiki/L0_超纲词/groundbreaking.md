@@ -127,8 +127,8 @@ ground(地面) + break(打破) + -ing(形容词/名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The team's groundbreaking research on gene editing won the Nobel Prize. `[例]`
-> - The groundbreaking ceremony for the new hospital was attended by hundreds of local residents. `[例]`
+> - His latest movie is interesting , but not groundbreaking. `[例]`
+> - This groundbreaking work changed the way historians looked at slavery . `[例]`
 
 ## 复习记录
 

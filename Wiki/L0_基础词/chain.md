@@ -129,8 +129,9 @@ chain 源自古法语 *chaene*，源自拉丁语 *catena*（链条）。无前�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His resignation was followed by a remarkable chain of events."（他的辞职之后是一系列引人注目的事件——考研阅读高频表达）
-> - "These poisons can easily enter the food chain, affecting the productivity of fishing and farming."（这些毒物很容易进入食物链，影响渔业和农业的生产力——雅思/考研通用学术语料）
+> - His resignation was followed by a remarkable chain of events . `[例]`
+> - The synthetic polymer is a plastic composed of long chains of molecules . `[例]`
+> - As part of the centenary celebrations a chain of beacons was lit across the country . `[例]`
 
 
 ---

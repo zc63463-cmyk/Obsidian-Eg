@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government should take steps to reduce pollution and protect the environment."（政府应采取措施减少污染、保护环境。）——考研高频表达
-> - "In the first step of the experiment, researchers collected data from over 2,000 participants."（在实验的第一步中，研究人员收集了2000多名参与者的数据。）——考研高频表达
+> - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
+> - She stepped backwards and fell over a chair . `[例]`
+> - They stepped out onto the balcony . `[例]`
 ---
 
 

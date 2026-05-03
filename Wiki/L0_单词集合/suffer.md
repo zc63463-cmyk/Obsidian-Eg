@@ -121,8 +121,9 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Supreme Court's decisions on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering."（最高法院关于医生协助自杀的裁决，对于医学界寻求如何减轻垂死病人痛苦具有重要意义——2002年考研Text 4）
-> - "Many people suffer from stress and anxiety in modern society."（在现代社会中，许多人饱受压力和焦虑的困扰——考研高频表达）
+> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+> - Waterstones branches suffer a severe reduction in revenue. `[真题]`
+> - I think he suffered a lot when his wife left him. `[例]`
 
 
 ---

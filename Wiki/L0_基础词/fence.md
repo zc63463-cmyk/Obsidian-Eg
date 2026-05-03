@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When Spot and Stripe were four months old, they were learning how to open doors and jump fences."（当 Spot 和 Stripe 四个月大的时候，它们正在学习如何开门和跳栅栏。——2021新高考II卷阅读理解）
-> - "He's on the fence about taking a job with a company that doesn't use sustainable materials."（对于是否接受一家不使用可持续材料的公司的工作，他犹豫不决。——经典例句）
+> - The area is fenced on three sides but not along the highway . `[例]`
+> - The house was surrounded by a tall , wooden fence. `[例]`
+> - A cat was walking along the top of the fence. `[例]`
 
 
 ---

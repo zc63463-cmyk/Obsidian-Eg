@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**坚果**==；②螺母，螺帽；③疯子，狂热者；
-**adj.** ①==**疯狂的**==；
+**n.** ①==**坚果**== `N`；②==**螺母，螺帽**== `N`；③==**疯子，狂热者**== `N`；
+**adj.** ①==**疯狂的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：坚果（硬壳包裹的种子）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Let's get down to the nuts and bolts of the problem."（让我们来讨论这个问题的基本细节。）
-> - "He is a fitness nut — he exercises every single day."（他是个健身狂——每天都锻炼。）
+> - Sprinkle some roasted chopped nuts on top . `[例]`
+> - Nuts and bolts are used to hold pieces of machinery together. `[例]`
+> - What kind of nut would leave a car on a railway track ? `[例]`
 
 
 ---

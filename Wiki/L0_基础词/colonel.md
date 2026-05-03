@@ -124,8 +124,9 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The retired army colonel published a memoir detailing his experiences during decades of military service."（这位退役陆军上校出版了一本回忆录，详细记录了他数十年的军旅生涯——考研阅读军事/传记话题）
-> - "Colonel Sanders' recipe for fried chicken became the foundation of one of the world's most successful fast-food franchises."（桑德斯上校的炸鸡配方成为了世界上最成功的快餐连锁企业之一的基础——考研阅读商业话题）
+> - Colonel is the military rank between lieutenant-colonel and brigadier . `[例]`
+> - He retired as a colonel in the air force. `[例]`
+> - The tanker had departed from the port of Berbera and was heading to the Somali capital of Mogadishu when it was intercepted, a colonel with the Puntland Maritime Police Force told The Associated Press. `[例]`
 
 
 ---

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**冗长的，啰嗦的**==；②多词的，用词过多的；
+**adj.** ①==**冗长的，啰嗦的**== `adj`；②==**多词的，用词过多的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：充满词语的（word 词语 + -y 充满……的 → 充满词语的 → 冗长的）
@@ -127,8 +127,8 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The report was criticized for being wordy and lacking in substance."（该报告因冗长且缺乏实质内容而受到批评）
-> - "Academic writing should be clear and concise, not wordy or ambiguous."（学术写作应当清晰简洁，而非冗长含糊）
+> - As usual she gave a reply which was wordy and didn't answer the question . `[例]`
+> - Your memo is too wordy – make it short and to the point . `[例]`
 
 ## 复习记录
 

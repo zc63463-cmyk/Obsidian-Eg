@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "weird behavior"（古怪的行为）——考研阅读中描述人物或社会现象
-> - "weird dreams"（怪异的梦）——文学/心理学类阅读常见搭配
-> - "the weird thing is..."（奇怪的是……）——口语化写作/评论中的常见过渡语
+> - He was sitting alone by a window with a weird contraption on the table in front of him. `[例]`
+> - Her boyfriend's a bit weird but she's nice . `[例]`
+> - That's weird - I thought I left my keys on the table but they're not there. `[例]`
 
 ---
 

@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government crushed the rebellion with brutal force."（政府以残酷武力镇压了叛乱）
-> - "I had a crush on my math teacher when I was in high school."（高中时我暗恋我的数学老师）
+> - The package had been badly crushed in the post . `[例]`
+> - Add three cloves of crushed garlic . `[例]`
+> - His arm was badly crushed in the car accident . `[例]`
 
 
 ---

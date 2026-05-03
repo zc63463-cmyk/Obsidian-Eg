@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**气象学家，气象员**== `N V that-clause` [学术]；`adj N` [新闻]；
+**n.** ①==**气象学家，气象员**== `N`；
 
 > [!tip] 原型义
 > **原型义**：研究大气和天气现象的科学家
@@ -122,8 +122,8 @@ meteor(大气现象，希腊语 *meteōron*) + -ology(学问) + -ist(人)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` Meteorologists have warned that extreme weather events will become more frequent.
-> - `[例]` The chief meteorologist at the national weather service predicted heavy snowfall for the weekend.
+> - The team included a meteorologist, a zoologist, a mineralogist, and an agricultural statistician. `[真题]`
+> - A meteorologist is a theoretical authority about what we should believe the weather will be like. `[例]`
 
 ## 复习记录
 

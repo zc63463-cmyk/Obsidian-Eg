@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Parents who are too permissive may find that their children become increasingly naughty and difficult to manage as they grow older."（过于放任的父母可能会发现，随着孩子年龄增长，他们会变得越来越淘气、越来越难管教——考研阅读教育话题相关表达）
-> - "What was once considered naughty behavior in children is now often recognized as a natural part of cognitive development and exploration."（曾经被认为是儿童淘气行为的表现，如今常常被认识到是认知发展和探索的自然组成部分——考研翻译心理学话题相关表达）
+> - Now that's naughty - don't throw food on the floor ! `[例]`
+> - Our boss treats us all like naughty children . `[例]`
+> - I'm afraid I borrowed your car without asking ." "Yes, that was very naughty of you - I needed it at the weekend ! `[例]`
 
 
 ---

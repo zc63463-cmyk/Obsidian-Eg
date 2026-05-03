@@ -123,8 +123,9 @@ en-(=in-, 在内) + [[gen|gen-/gener-]](产生/制造) → 原义"天生的才�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Internet has become the engine of change in modern society."（互联网已成为现代社会变革的引擎）
-> - "Google is the most widely used search engine in the world."（谷歌是全球使用最广泛的搜索引擎）
+> - My car's been having engine trouble recently . `[例]`
+> - For much of the 19th century Britain was the workshop of the world and the engine of economic growth . `[例]`
+> - The car has a four-cylinder engine. `[例]`
 
 
 ---

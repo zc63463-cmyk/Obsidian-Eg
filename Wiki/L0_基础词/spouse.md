@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In many countries, immigration laws allow citizens to sponsor their foreign-born spouses for permanent residency, provided the marriage is verified as genuine."（在许多国家，移民法允许公民为其在国外出生的配偶担保永久居留权，前提是婚姻被验证为真实的——考研阅读法律话题相关表达）
-> - "Research indicates that dual-career couples, where both spouses pursue professional careers, often face significant challenges in balancing work and family responsibilities."（研究表明，双职业夫妇——即双方配偶都追求职业发展的夫妇——在平衡工作和家庭责任方面经常面临重大挑战——考研阅读社会话题相关表达）
+> - In 60 percent of the households surveyed both spouses went out to work . `[例]`
+> - My brothers and sisters and their spouses. `[例]`
+> - Employees and their spouses are covered by the health plan. `[例]`
 
 
 ---

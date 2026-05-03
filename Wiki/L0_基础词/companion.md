@@ -124,8 +124,9 @@ com-(一起) + [[pan|pan-]](面包，拉丁语 *panis*) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A dog is a faithful companion."（狗是忠实的伙伴）
-> - "This book is a companion to the author's earlier work."（这本书是作者早期著作的配套读物）
+> - The dog has been her constant companion these past ten years . `[例]`
+> - I've still got one of the candlesticks but I've lost its companion. `[例]`
+> - The Music Lover's Companion. `[例]`
 
 
 ---

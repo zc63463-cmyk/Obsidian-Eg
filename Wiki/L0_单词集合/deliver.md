@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "deliver a speech"（发表演讲）——考研阅读/翻译高频搭配，描述公开讲话
-> - "deliver the goods"（兑现承诺）——考研阅读中描述企业/个人履行承诺的常见表达
-> - "deliver a continually updated stream of news"（不断传送最新新闻流）——考研阅读真题例句（1999年阅读2）
+> - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
+> - Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target cm,tomers. `[真题]`
+> - Mail is delivered to our office twice a day . `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**意见，看法，主张**==；②==**舆论，公众意见**==；③==**专家鉴定，专业意见**==；
+**n.** ①==**意见，看法，主张**== `N`；②==**舆论，公众意见**== `N`；③==**专家鉴定，专业意见**== `N`；
 
 > [!tip] 原型义
 > **原型义**：基于判断和思考形成的看法（不一定有确凿证据）
@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In my opinion, this policy will have far-reaching consequences."（在我看来，这项政策将产生深远影响）——考研写作/翻译高频表达
-> - "Public opinion plays a crucial role in shaping government policy."（公众舆论在塑造政府政策方面起着关键作用）——社会/政治类阅读
-> - "The doctor sought a second opinion before proceeding with surgery."（医生在手术前征求了第二诊疗意见）——医学/生活类阅读语境
+> - They casually dismiss the career work of scholars and scientists as just another misguided opinion. `[真题]`
+> - What's your opinion about the matter ? `[例]`
+> - I would like to get your opinion on the new schedule . `[例]`
 
 ---
 

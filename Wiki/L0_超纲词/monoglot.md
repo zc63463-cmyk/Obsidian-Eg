@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**单语的，只使用一种语言的**== `adj N` [学术]；
-**n.** ①==**只会说一种语言的人**== `a N` [语言]；
+**adj.** ①==**单语的，只使用一种语言的**== `adj`；
+**n.** ①==**只会说一种语言的人**== `N`；
 
 > [!tip] 原型义
 > **原型义**：只会说一种语言的人
@@ -125,8 +125,8 @@ mono-(单一，希腊语 *monos*) + glot(舌/语言，希腊语 *glōtta*)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - `[例]` In an increasingly globalized world, being a monoglot can be a disadvantage. [C]
-> - `[例]` Many native English speakers remain monoglot throughout their lives. [C]
+> - Growing numbers of English-language courses have helped to entice monoglot Britons abroad. `[例]`
+> - As a monoglot, he found it difficult to communicate with the locals. `[例]`
 
 ## 复习记录
 

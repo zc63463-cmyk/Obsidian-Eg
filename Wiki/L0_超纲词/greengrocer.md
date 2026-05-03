@@ -122,7 +122,7 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She buys her fresh vegetables from the greengrocer on the corner. `[例]`
+> - The greengrocer had some lovely local asparagus on sale today. `[例]`
 > - The greengrocer had a wide selection of seasonal fruits. `[例]`
 
 ## 复习记录

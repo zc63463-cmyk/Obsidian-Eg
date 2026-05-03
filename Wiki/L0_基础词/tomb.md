@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**坟墓，墓穴**==；②陵墓；
-**v.** ①埋葬；
+**n.** ①==**坟墓，墓穴**== `N`；②==**陵墓**== `N`；
+**v.** ①==**埋葬**== `V`；
 
 > [!tip] 原型义
 > **原型义**：坟墓（埋葬死者的地方）
@@ -121,7 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ancient tomb was discovered by archaeologists in Egypt."（这座古墓是考古学家在埃及发现的。）
+> - The tomb was honeycombed with passages and chambers . `[例]`
+> - The tombs of the Pharaohs. `[例]`
+> - For centuries the tomb lay inviolate until, by chance , it was discovered by two miners . `[例]`
 
 
 ---

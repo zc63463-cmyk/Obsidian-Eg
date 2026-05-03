@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was busy with needle and scissors, altering a mourning dress that Mrs. Elsing had lent to Mrs. Meade."（她正忙着用针和剪刀修改埃尔辛太太借给米德太太的丧服。——Margaret Mitchell, *Gone With the Wind*）
-> - "I sit down, thread a needle, snip off an old button."（我坐下来，穿好针，剪下了一粒旧纽扣。——Cambridge Dictionary）
+> - Here, your eyes are better than mine - could you thread (= put thread through) this needle for me? `[例]`
+> - The needle on a compass always points to magnetic north . `[例]`
+> - It sounds like the needle on your record player needs to be replaced . `[例]`
 
 
 ---

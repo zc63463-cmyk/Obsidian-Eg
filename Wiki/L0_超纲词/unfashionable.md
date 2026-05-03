@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不时髦的，过时的**==；②不受欢迎的；
+**adj.** ①==**不时髦的，过时的**== `adj`；②==**不受欢迎的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不时髦的（不符合时尚的）
@@ -126,8 +126,8 @@ un-(不，否定前缀) + fashion(时尚/方式) + -able(可被...的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Classical music is often considered unfashionable by young people."（古典音乐常被年轻人认为不时髦。）
-> - "The neighborhood had become unfashionable but was undergoing gentrification."（这个社区曾变得不时髦，但正在经历绅士化改造。）
+> - They paid less for the house because it was in an unfashionable part of town . `[例]`
+> - An old and unfashionable jacket that someone had donated to charity. `[例]`
 
 ## 复习记录
 

@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government took measures to curb inflation."（政府采取措施遏制通货膨胀——考研高频搭配）
-> - "We need to curb our spending if we want to save money."（如果想存钱，我们需要控制开支——经济类语料）
+> - The bill mentioned in Paragraph 2 was intended to __ _ A. curb short-term rental speculation B. ensure the supply of cheap housing C. punish illegal dealings in housing D. allow a free short-term rental market 28. `[真题]`
+> - The government should act to curb tax evasion . `[例]`
+> - She stood on the curb and waited until the light turned green to cross the street . `[例]`
 
 
 ---

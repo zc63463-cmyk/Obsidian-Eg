@@ -121,8 +121,9 @@ to-(朝向) + gether(聚集，源自古英语 gaderian)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two countries are working together to combat climate change."（两国正在共同努力应对气候变化。）——考研高频表达
-> - "Taken together, these factors explain the decline in sales."（综合来看，这些因素解释了销售额的下降。）——考研高频表达
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+> - Small publishers ought to stick together. `[真题]`
+> - We worked together on a project a couple of years back. `[例]`
 
 ---
 

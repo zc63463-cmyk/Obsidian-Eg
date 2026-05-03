@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The defendant was charged with first-degree murder."（被告被控一级谋杀罪）
-> - "He got away with murder and never faced any consequences."（他逍遥法外，从未承担任何后果）
-> - "The critics said the film murdered the original novel."（评论家说这部电影糟蹋了原著小说）
+> - Two sisters have been charged with (= officially accused of) murder. `[例]`
+> - There were three murders in the town last year . `[例]`
+> - The three were convicted of (= proved guilty of) murder. `[例]`
 
 
 ---

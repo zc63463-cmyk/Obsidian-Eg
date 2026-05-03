@@ -120,8 +120,9 @@ cruc(十字，交叉) + -ial(与...有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology plays a crucial role in modern education and workforce development."（技术在现代教育和劳动力发展中发挥着至关重要的作用。）——考研高频表达
-> - "This decision is crucial to the company's future success."（这个决定对公司的未来成功至关重要。）——考研高频表达
+> - Her work has been crucial to the project's success . `[例]`
+> - It is crucial that the problem is tackled immediately . `[例]`
+> - The behavior of the oceans is a crucial aspect of global warming . `[例]`
 
 ---
 

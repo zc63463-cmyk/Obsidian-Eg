@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**钱包，女式手提包**== `N purse`；②==**资金，财力**== `public purse` `purse strings`；
-**v.** ①==**撅嘴**== `purse one's lips`；②==**（使）起褶皱**== `V N`；
+**n.** ①==**钱包，女式手提包**== `N`；②==**资金，财力**== `N`；
+**v.** ①==**撅嘴（嘴唇缩拢）**== `V`；②==**（使）起褶皱**== `V`；
 
 > [!tip] 原型义
 > **原型义**：钱包（装钱的皮袋子——由绳子收紧口的小袋子）
@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Having a lot of people out of work places a large drain on the public purse. ` `[COCA-NEWS]` `
-> - "I don't approve of that kind of language," she said, pursing her lips. ` `[COCA-FIC]` `
-> - The players in the golf tournament are competing for a purse of $525,000. ` `[COCA-NEWS]` `
+> - Having a lot of people out of work places a large drain on the public purse. `[例]`
+> - The players in the golf tournament are competing for a purse of £525,000. `[例]`
+> - I don't approve of that kind of language ," she said, pursing her lips . `[例]`
 
 
 ---

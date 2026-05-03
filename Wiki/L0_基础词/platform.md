@@ -123,8 +123,9 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The implication is that Millennials prefer news from the White House to be filtered through other source, not a president's social media platform."（这意味着千禧一代更希望白宫的新闻经过其他来源过滤，而不是总统的社交媒体平台。——2018年考研英语一 Text 2）
-> - "He ran on a platform of anti-corruption and a more realist foreign policy."（他的竞选基于反腐败和更为现实的外交政策的纲领。——经济学人）
+> - The next train for Aberdeen will depart from platform 9. `[例]`
+> - The whole audience stood up and applauded as the party's new leader mounted the platform. `[例]`
+> - This brilliant young violinist has appeared on concert platforms all round the world . `[例]`
 
 
 ---

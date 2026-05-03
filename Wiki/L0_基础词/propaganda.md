@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**宣传，鼓吹**==；②（贬义）政治宣传，虚假信息；
+**n.** ①==**宣传，鼓吹**== `N`；②==**（贬义）政治宣传，虚假信息**== `N`；
 
 > [!tip] 原型义
 > **原型义**：宣传（为了影响公众舆论而系统性地散布信息）
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government used propaganda to influence public opinion during the war."（政府在战争期间利用宣传来影响公众舆论——考研历史类话题）
+> - One official dismissed the ceasefire as a mere propaganda exercise . `[例]`
+> - The report is just a political propaganda tool . `[例]`
+> - In the cyber attack , the home pages of official websites were replaced with anti-government propaganda. `[例]`
 
 
 ---

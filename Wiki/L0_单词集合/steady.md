@@ -139,8 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economy has shown steady growth over the past decade."（过去十年来，经济一直保持稳步增长。）——考研高频表达
-> - "She kept a steady gaze on the interviewer throughout the conversation."（在整个谈话过程中，她一直稳定地注视着面试官。）——考研高频表达
+> - The procession moved through the streets at a steady pace . `[例]`
+> - Orders for new ships are rising , after several years of steady decline . `[例]`
+> - Progress has been slow but steady. `[例]`
 
 ---
 

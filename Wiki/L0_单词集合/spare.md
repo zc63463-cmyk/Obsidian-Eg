@@ -142,9 +142,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "spare no effort to do sth"（不遗余力做某事）——考研写作极高频搭配，表达决心和努力
-> - "spare time for leisure activities"（抽出时间进行休闲活动）——考研阅读中生活方式类话题
-> - "if you can spare a few minutes"（如果你能抽出几分钟）——考研翻译/阅读中常见口语化表达
+> - The proper procedures for renting out spare houses. `[真题]`
+> - Spare sheets and blankets. `[例]`
+> - Do you have a spare pen ? `[例]`
 
 ---
 

@@ -129,8 +129,9 @@ ad-(=to, 朝向，见 [[ad]]) + or(=说话，拉丁语 *os/oris* 嘴→*orare* �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has one son and she adores him."（她只有一个儿子，是她的心肝宝贝——考研英语阅读）
-> - "I absolutely adore chocolate."（我非常爱吃巧克力——考研英语阅读高频表达）
+> - She has one son and she adores him. `[例]`
+> - Don't you just adore lying in a hot bath ? `[例]`
+> - Let us adore God for all his works . `[例]`
 
 
 ---

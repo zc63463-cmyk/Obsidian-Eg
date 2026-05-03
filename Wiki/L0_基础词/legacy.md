@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ancient civilization left a rich cultural legacy for future generations."（古代文明为后代留下了丰富的文化遗产）
-> - "His greatest legacy is the impact he had on education reform."（他最大的遗产是他对教育改革产生的影响）
+> - An elderly cousin had left her a small legacy. `[例]`
+> - The Greeks have a rich legacy of literature . `[例]`
+> - The war has left a legacy of hatred . `[例]`
 
 
 ---

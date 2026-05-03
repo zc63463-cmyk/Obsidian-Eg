@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**征税，税收制度**==；②税款，税额；
+**n.** ①==**征税，税收制度**== `N`；②==**税款，税额**== `N`；
 
 > [!tip] 原型义
 > **原型义**：征税（政府向公民征收税款的行为）
@@ -130,8 +130,8 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The government introduced progressive taxation to reduce income inequality."（政府引入累进税制以减少收入不平等）
-> - "High taxation has driven many businesses to relocate overseas."（高税收迫使许多企业迁往海外）
+> - The proposals restrict investors ' ability to shelter their assets from taxation. `[例]`
+> - Reform of the country's taxation system is high on the Government's economic agenda . `[例]`
 
 ## 复习记录
 

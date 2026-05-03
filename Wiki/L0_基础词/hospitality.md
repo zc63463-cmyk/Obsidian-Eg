@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The local people showed great hospitality to the visitors."（当地人对游客表现出了极大的好客之道。）
+> - The local people showed me great hospitality. `[例]`
+> - The restaurant guide is independent and we do not accept any free hospitality. `[例]`
+> - The company's guests are entertained in the corporate hospitality area . `[例]`
 
 
 ---

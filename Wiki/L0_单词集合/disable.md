@@ -124,8 +124,9 @@ dis-(剥夺/取消) + [[fac|able]](能够的) → 使不能
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The virus can disable the computer's security system."（该病毒可以使计算机的安全系统瘫痪。）——考研高频表达
-> - "Facilities for disabled people should be available in all public buildings."（所有公共建筑都应配备残疾人设施。）——考研高频表达
+> - She was disabled in the accident . `[例]`
+> - This weapons system will destroy or disable any incoming missile . `[例]`
+> - Disable the alarm system and then enter the building . `[例]`
 
 ---
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**枢轴，支点**==；②核心，关键（转折点）；
-**v.** ①==**旋转，转动**==（以枢轴为中心）；②转变，转向；
+**n.** ①==**枢轴，支点**== `N`；②==**核心，关键（转折点）**== `N`；
+**v.** ①==**旋转，转动**== `V`（以枢轴为中心）；②==**转变，转向**== `V`；
 
 > [!tip] 原型义
 > **原型义**：旋转的中心点
@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company decided to pivot from hardware to software development.（公司决定从硬件开发转向软件开发）
-> - The discovery of penicillin was a pivotal moment in medical history.（青霉素的发现是医学史上的一个关键时刻）
+> - He's the most dominant pivot in the game . `[例]`
+> - She pivots her left foot . `[例]`
 
 ## 复习记录
 

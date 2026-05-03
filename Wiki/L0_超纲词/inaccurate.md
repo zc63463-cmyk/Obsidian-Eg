@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不准确的，不精确的**== `inaccurate data/description` [正式] `highly inaccurate` [正式]；②==**错误的**== `an inaccurate account/report` [正式]；
+**adj.** ①==**不准确的，不精确的**== `adj`；②==**错误的**== `adj`；
 
 > [!tip] 原型义
 > **原型义**：不准确的、有错误的
@@ -122,8 +122,8 @@ in-(不) + accurate(准确的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The weather forecast proved grossly inaccurate, catching thousands of travelers off guard. `[例]`
-> - The article contained several inaccurate statements about the company's financial performance. `[例]`
+> - Their estimate of the cost of the project was wildly (= extremely ) inaccurate. `[例]`
+> - Your information is inaccurate – I was born in 1956, not 1965. `[例]`
 
 ## 复习记录
 

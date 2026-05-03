@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She dedicated her life to medical research."（她将一生奉献给了医学研究）——人物传记话题
-> - "The author dedicated the book to his mentor."（作者将这本书献给了他的导师）——学术话题
-> - "He is a dedicated teacher who always puts students first."（他是一位专注的教师，总是把学生放在首位）——注意 dedicated 是形容词用法
-> - "The new hospital is dedicated to providing quality healthcare."（这家新医院致力于提供优质医疗服务）——社会话题
+> - He has dedicated his life to scientific research . `[例]`
+> - The new president said she would dedicate herself to protecting the rights of the sick and the homeless . `[例]`
+> - The book is dedicated to the author's husband . `[例]`
+> - The church was dedicated on 1 March 1805 to the local Saint Jude. `[例]`
 
 ---
 
