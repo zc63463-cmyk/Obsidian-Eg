@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**磨坊，碾磨机**==；②工厂，制造厂；
+**n.** ①==**磨坊，碾磨机**== `a water mill` `a coffee mill` [通用]；②工厂，制造厂；
 **v.** ①碾碎，磨碎；②（人群）乱转；
 
 > [!tip] 原型义
@@ -130,8 +130,9 @@ mill（源自古英语 *mylen*，拉丁语 *mola* "磨石"，原始印欧语 *me
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old textile mill has been converted into a museum."（那座古老的纺织厂已被改造成博物馆——考研社会类阅读）
-> - "The crowd milled around, waiting for the concert to begin."（人群来回走动，等待音乐会开始——考研文学类阅读）
+> - The old textile mill has been converted into a museum. `[真题]`
+> - They mill 1,000 tonnes of flour a day in every Australian state. `[真题]`
+> - The crowd milled around, waiting for the concert to begin. `[真题]`
 
 
 ---

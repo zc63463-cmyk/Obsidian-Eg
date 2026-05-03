@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**男性的，雄性的**==；②==**由男性组成的**==；
+**adj.** ①==**男性的，雄性的**== `male N`；②==**由男性组成的**== `male-dominated N`；
 **n.** ①==**男性，雄性**==；
 
 > [!tip] 原型义
@@ -138,8 +138,10 @@ male 源自拉丁语 *masculus*（男性的），与拉丁语 *mas*（男性）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Europe's top corporate-governance positions remain overwhelmingly male."（欧洲顶级企业管理职位仍然压倒性地由男性占据。——2013年考研英语二阅读Text 4）
-> - "There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity."（出生时男女比例大约是105:100，但到了成熟期，这一比例几乎持平。——考研英语阅读长难句）
+> - "IT is very much a male-dominated industry." `[COCA-NEWS]`
+> - "Europe's top corporate-governance positions remain overwhelmingly male." `[真题]`
+> - "The patients in this study consisted of 30 males and 25 females." `[COCA-ACAD]`
+> - "There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity." `[真题]`
 
 
 ---

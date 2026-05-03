@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**手稿，原稿**==；②手抄本，手写本
+**n.** ①==**手稿，原稿**== `submit a manuscript` [学术]；`original manuscript` [学术]；②手抄本，手写本
 **adj.** ①手写的
 
 > [!tip] 原型义
@@ -131,8 +131,9 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Manuscript will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers."（投稿人的原稿也会被标出需要经过额外的仔细审查，或由杂志内部编辑，或由现有的编辑评审委员会，或由外部同行评审人员。——2015年考研英语一Text 3）
-> - "The journal Science is adding an extra round of statistical checks to its peer-review process."（《科学》杂志正在对其同行评审流程增加一轮额外的统计审查。——2015年考研英语一Text 3）
+> - Manuscript will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers. `[真题]`
+> - I am grateful to him for letting me read his early chapters in manuscript. `[真题]`
+> - The author submitted the manuscript to the publisher for consideration. `[真题]`
 
 
 ---

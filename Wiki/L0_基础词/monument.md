@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**纪念碑，纪念物**==；②历史遗迹；③不朽的作品；
+**n.** ①==**纪念碑，纪念物**== `\a monument to/a war monument` [通用]；②==**历史遗迹**== `\ancient monuments/historic monument` [历史]；③==**不朽的作品**== `\a monument of literature` [文学]；
 
 > [!tip] 原型义
 > **原型义**：提醒物（提醒人们记住某人或某事的建筑/结构）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The city has many ancient monuments that attract tourists from all over the world."（这座城市有许多吸引世界各地游客的古代遗迹）
-> - "This novel is a monument of modern literature."（这部小说是现代文学的不朽之作）
+> - The landscape is dotted with ancient monuments. `[真题]`
+> - The museum was built as a lasting monument to the civil war. `[真题]`
+> - In the square in front of the hotel stands a monument to all the people killed in the war. `[真题]`
 
 
 ---

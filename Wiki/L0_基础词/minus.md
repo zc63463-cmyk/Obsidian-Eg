@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**减（去）**==；②==**零下**==（温度）；
-**adj.** ①==**负的，减的**==；②==**略低的，稍差的**==；
-**n.** ①==**减号**==；②==**缺点，不利因素**==；
+**prep.** ①==**减（去）**== `num minus num` [通用]；②==**零下**== `minus num degrees` [通用]；
+**adj.** ①==**负的，减的**== `a minus figure/balance` [通用]；②==**略低的，稍差的**== `a B minus` [口语]；
+**n.** ①==**减号**== `the minus sign` [通用]；②==**缺点，不利因素**== `the pluses and minuses` [通用]；
 
 > [!tip] 原型义
 > **原型义**：减少（使变小，减去）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The temperature dropped to minus twenty degrees overnight."（夜间温度降至零下二十度）
-> - "We need to weigh the pluses and minuses before making a decision."（我们需要在做决定之前权衡利弊）
+> - The temperature dropped to minus twenty degrees overnight. `[真题]`
+> - We need to weigh the pluses and minuses before making a decision. `[真题]`
+> - What is 57 minus 39? `[真题]`
+> - That will be $1,500, minus the deposit of $150 that you already paid. `[真题]`
 
 
 ---

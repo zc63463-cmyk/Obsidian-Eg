@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**微缩模型，缩影**==；②==**微型画**==（中世纪手稿中的小插图）；
-**adj.** ①==**微型的，小型的**==；
+**n.** ①==**微缩模型，缩影**== `a miniature of; in miniature` [通用]；②==**微型画**==（中世纪手稿中的小插图）；
+**adj.** ①==**微型的，小型的**== `a miniature camera; miniature roses` [通用]；
 
 > [!tip] 原型义
 > **原型义**：小型的（用红色颜料画的微小画作，后泛指一切微缩物）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The museum displays a miniature of the ancient city as it appeared in the 12th century."（博物馆展示了这座古城12世纪时的微缩模型）
-> - "The garden is a miniature of the English countryside."（这个花园是英国乡村的缩影）
+> - The museum displays a miniature of the ancient city as it appeared in the 12th century. `[真题]`
+> - The garden is a miniature of the English countryside. `[真题]`
+> - He looked like a miniature version of his father. `[真题]`
+> - Through play, children act out in miniature the dramas of adult life. `[真题]`
 
 
 ---

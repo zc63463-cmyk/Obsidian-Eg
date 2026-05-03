@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**修理，修补**==；②==**改正，改进**==；③恢复健康；
+**vt.** ①==**修理，修补**== `mend sth.` [通用]；②==**改正，改进**== `mend one's ways / mend relations` [正式]；③恢复健康；
 
 > [!tip] 原型义
 > **原型义**：修复（使损坏的东西恢复完好）
@@ -130,8 +130,10 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone."（我们的心理健康不是学来的：它是我们生来就有的，就像我们的身体知道如何愈合伤口或修复断骨一样——2016年考研英语翻译）
-> - "The country's president is seeking to mend relations with the United States."（该国总统正寻求修复与美国的关系——考研国际关系类阅读语料）
+> - "We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone." `[真题]`
+> - "I felt that might well mend the rift between them." `[真题]`
+> - "Luckily they were able to mend the car on the spot." `[真题]`
+> - "He has promised drastic disciplinary action if they do not mend their ways." `[真题]`
 
 
 ---

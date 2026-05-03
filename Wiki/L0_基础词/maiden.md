@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**少女，未婚女子**==（年轻未婚女性）；②（文学/历史）==**处女**==；
-**adj.** ③==**首次的，初次的**==（maiden flight, maiden voyage）；④==**未婚的**==（maiden name）；
+**n.** ①==**少女，未婚女子**== `fair maiden` [文学]；②==**处女**== [文学/历史]；
+**adj.** ③==**首次的，初次的**== `maiden N`；④==**未婚的**== `maiden name`；
 
 > [!tip] 原型义
 > **原型义**：少女、未婚女子（年轻的未婚女性）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The spacecraft's maiden flight was hailed as a landmark achievement in the nation's space exploration programme, demonstrating advanced propulsion technology."（该航天器的首飞被誉为该国太空探索计划的里程碑式成就，展示了先进的推进技术——考研阅读科技话题相关表达）
-> - "In many cultures, it remains a common tradition for women to retain their maiden name professionally even after marriage, reflecting changing attitudes toward gender identity."（在许多文化中，女性婚后在职业场合保留娘家姓仍然是一种常见传统，反映了对性别认同态度的变化——考研翻译社会话题相关表达）
+> - "The Titanic sank on its maiden voyage in 1912." `[COCA-NEWS]`
+> - "When she married in 1913, she kept her maiden name, going to court to defend her right to do so." `[COCA-NEWS]`
+> - "She continued to publish journals under her maiden name because most of her recognition was under that name." `[COCA-ACAD]`
+> - "The spacecraft's maiden flight was hailed as a landmark achievement in the nation's space exploration programme." `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**市长**==；
+**n.** ①==**市长**== `\the mayor of...\` [通用] `\elect a mayor\` [通用]；
 
 > [!tip] 原型义
 > **原型义**：更大的人（城市中权力最大的人）
@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The prime minister met many civic leaders, including the mayor and the leaders of the immigrant communities."（首相会见了许多市政领导人，包括市长和移民社区的领袖们。——剑桥词典例句）
-> - "The city's mayor had worked for the bus company and was a powerful advocate of public transport."（该市市长曾在公交公司工作，是公共交通的有力倡导者。——剑桥词典例句）
+> - "The prime minister met many civic leaders, including the mayor and the leaders of the immigrant communities." `[语料库]`
+> - "The city's mayor had worked for the bus company and was a powerful advocate of public transport." `[语料库]`
+> - "The alert mayor was particularly adept at locating a variety of political resources and mobilizing them to gain influence." `[语料库]`
 
 
 ---

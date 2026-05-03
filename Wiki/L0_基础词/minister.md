@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**部长，大臣**==；②==**牧师，神职人员**==；
-**v.** ①==**服侍，照料**==（minister to）；
+**n.** ①==**部长，大臣**== `Prime Minister; foreign/defence minister` [政治/正式]；②==**牧师，神职人员**== `a Protestant/Baptist minister` [宗教]；
+**v.** ①==**服侍，照料**== `minister to the sick` [正式]；
 
 > [!tip] 原型义
 > **原型义**：服务的人（地位较低者，为上级服务的人）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Prime Minister addressed the nation on television regarding the new policy."（首相就新政策向全国发表电视讲话）
-> - "She spent years ministering to the needs of the poor in rural areas."（她多年来在农村地区照料穷人的需求）
+> - The Prime Minister addressed the nation on television regarding the new policy. `[真题]`
+> - She spent years ministering to the needs of the poor in rural areas. `[真题]`
+> - The defence minister held a press conference to announce the new military strategy. `[真题]`
+> - He volunteered to help minister to the sick at the local hospice. `[真题]`
 
 
 ---

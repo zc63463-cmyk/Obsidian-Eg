@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可移动的，移动式的**==；②流动的，易变的；③（社会）流动的；
+**adj.** ①==**可移动的，移动式的**== `mobile phone` [通用]；②流动的，易变 `mobile workforce` [正式]；③（社会）流动的 `social mobility` [正式]；
 **n.** ①手机（= mobile phone）；②活动装置，悬挂装饰物；
 
 > [!tip] 原型义
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rise of mobile technology has transformed the way we communicate and access information."（移动技术的兴起改变了我们交流和获取信息的方式。）
-> - "Social mobility in the United States has declined in recent decades."（近几十年来美国的社会流动性有所下降。）
+> - The rise of mobile technology has transformed the way we communicate and access information. `[真题]`
+> - Social mobility in the United States has declined in recent decades. `[真题]`
+> - For marginalized populations, mobile devices serve as lifelines to education. `[真题]`
 
 
 ---

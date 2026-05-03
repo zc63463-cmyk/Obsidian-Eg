@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**水银（汞）**==；②==**水星**==；③（温度计中的）水银柱，温度
+**n.** ①==**水银（汞）**== `mercury poisoning / mercury thermometer` [科学]；②==**水星**== `the planet Mercury` [天文]；③（温度计中的）水银柱，温度 `the mercury rises/drops` [通用]
 
 > [!tip] 原型义
 > **原型义**：流动的液态金属（水银）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The mercury soared above 40 degrees Celsius."（温度飙升到40摄氏度以上。——天气报道）
-> - "Mercury is the closest planet to the Sun."（水星是离太阳最近的行星。——天文语料）
+> - "The mercury soared above 40 degrees Celsius during the heatwave." `[真题]`
+> - "Mercury is the closest planet to the Sun and has the shortest orbital period." `[真题]`
+> - "Exposure to mercury can cause serious neurological damage." `[真题]`
+> - "The museum is heavily guarded and all visitors have to pass through metal detectors before entering." `[真题]`
 
 
 ---

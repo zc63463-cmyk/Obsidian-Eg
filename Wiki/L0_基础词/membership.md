@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**成员资格，会员身份**==；②（统称）会员，成员；③会员人数；
+**n.** ①==**成员资格，会员身份**== `apply for membership` `membership of N`；②==**（统称）会员，成员**== `a membership of N`；③==**会员人数**== `enlarge membership`；
 
 > [!tip] 原型义
 > **原型义**：成员身份（作为团体一员的资格）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It can be learned from the first paragraph that unions have enlarged their public-sector membership."（从第一段可以得知，工会增加了其公共部门的会员人数——2012年考研英语一Text 4 第21题）
-> - "Party membership was an essential prerequisite of a successful career."（成为党员是事业有成必不可少的先决条件——考研政治类阅读语料）
+> - "It can be learned from the first paragraph that unions have enlarged their public-sector membership." `[真题]`
+> - "You have to apply for membership of the sports club." `[COCA-ACAD]`
+> - "Annual membership is twenty-five pounds." `[BNC-SPOKEN]`
 
 
 ---

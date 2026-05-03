@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**温和的，温柔的**==；②轻微的，不严重的；③（气候）温暖的；④（食物/味道）不浓烈的；
+**adj.** ①==**温和的，温柔的**== `a mild manner` `a mild temper` [通用]；②轻微的，不严重的；③（气候）温暖的；④（食物/味道）不浓烈的；
 
 > [!tip] 原型义
 > **原型义**：温和的（不极端、不剧烈的适度状态）
@@ -128,8 +128,9 @@ mild（源自古英语 *milde*，与拉丁语 *mollis* "柔软的"同源，原�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The region enjoys a mild climate throughout the year."（该地区全年气候温和——考研地理类阅读）
-> - "Only mild symptoms were reported in most cases."（大多数病例只报告了轻微症状——考研健康类阅读）
+> - The region enjoys a mild climate throughout the year. `[真题]`
+> - Only mild symptoms were reported in most cases. `[真题]`
+> - He is a mild-mannered man who rarely lost his temper. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**麦克风，话筒，扩音器**==；
+**n.** ①==**麦克风，话筒，扩音器**== `speak into the microphone` `a built-in microphone` [通用]；
 
 > [!tip] 原型义
 > **原型义**：小的声音（将小声音放大为可听声音的工具）
@@ -121,8 +121,9 @@ micro-(小，希腊语 *mikros*) + phon(声音，希腊语 *phōnē*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please speak clearly into the microphone so that everyone can hear you."（请对着麦克风清楚地说话，以便大家都能听到——考研日常场景）
-> - "The invention of the microphone revolutionized public speaking."（麦克风的发明革新了公众演讲——考研科技类阅读）
+> - Please speak into the microphone so that everyone in the audience can hear you clearly. `[真题]`
+> - He uses a microphone so students in the back of the lecture hall can hear him. `[真题]`
+> - My laptop has a built-in microphone for video calls. `[真题]`
 
 
 ---

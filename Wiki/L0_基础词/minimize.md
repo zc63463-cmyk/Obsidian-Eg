@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使最小化，使减到最低限度**==；②==**轻视，贬低**==（对……做最低估计）；
+**v.** ①==**使最小化，使减到最低限度**== `minimize the risk/impact/cost` [正式/通用]；②==**轻视，贬低**== `minimize the problem/damage` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使变小（将某事物减到最小的程度）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government took measures to minimize the impact of the economic crisis."（政府采取措施将经济危机的影响降到最低）
-> - "He tried to minimize the seriousness of the situation."（他试图轻视局势的严重性）
+> - The government took measures to minimize the impact of the economic crisis. `[真题]`
+> - He tried to minimize the seriousness of the situation. `[真题]`
+> - Environmentalists are doing everything within their power to minimize the impact of the oil spill. `[真题]`
+> - She accused politicians of minimizing the suffering of thousands of people. `[真题]`
 
 
 ---

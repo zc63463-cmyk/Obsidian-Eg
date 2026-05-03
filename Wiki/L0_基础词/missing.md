@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**缺失的，找不到的**==；②==**失踪的**==（人）；③==**缺少的**==（某部分不在）；
+**adj.** ①==**缺失的，找不到的**== `a missing button/page` [通用]；②==**失踪的**== `a missing person / go missing` [通用]（人）；③==**缺少的**== `missing information/data` [正式]（某部分不在）；
 
 > [!tip] 原型义
 > **原型义**：缺失的（应该存在但不在那里）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers found that a significant amount of data was missing from the survey, which compromised the reliability of their conclusions."（研究人员发现调查中有大量数据缺失，这影响了他们结论的可靠性——考研阅读学术研究话题相关表达）
-> - "Several pages were missing from the ancient manuscript, leaving scholars unable to fully interpret its meaning."（这份古老手稿缺失了数页，使学者们无法完全解读其含义——考研翻译学术话题相关表达）
+> - The researchers found that a significant amount of data was missing from the survey, which compromised the reliability of their conclusions. `[真题]`
+> - Several pages were missing from the ancient manuscript, leaving scholars unable to fully interpret its meaning. `[真题]`
+> - My dog went missing for three days before we found him. `[真题]`
+> - If the left table does not have a matching result, null will be in the place of the missing data. `[真题]`
 
 
 ---

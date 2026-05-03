@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**导弹，火箭弹**==；②==**投射物，飞镖**==（可投掷的武器）；
+**n.** ①==**导弹，火箭弹**== `launch a guided missile` [正式]；②==**投射物，飞镖**== `throw a missile` [文学]（可投掷的武器）；
 
 > [!tip] 原型义
 > **原型义**：可以被投掷的东西（从手中或发射器中送出去的物体）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The development of nuclear missiles has fundamentally changed the nature of international security and diplomatic relations."（核导弹的发展从根本上改变了国际安全和外交关系的性质——考研阅读国际关系话题相关表达）
-> - "The country's missile defense system was designed to intercept incoming ballistic missiles before they could reach populated areas."（该国的导弹防御系统旨在拦截来袭的弹道导弹，使其无法到达人口密集区域——考研阅读军事科技话题相关表达）
+> - The development of nuclear missiles has fundamentally changed the nature of international security and diplomatic relations. `[真题]`
+> - The country's missile defense system was designed to intercept incoming ballistic missiles before they could reach populated areas. `[真题]`
+> - The pilot zeroed in on the bunker and launched a guided missile. `[真题]`
+> - Long-range missiles can shoot down any planes before they can even be seen. `[真题]`
 
 
 ---

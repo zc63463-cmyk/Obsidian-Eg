@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**分子**==；②微小颗粒；
+**n.** ①==**分子**== `\water molecule/DNA molecule` [科学]；②==**微小颗粒**== `\not a molecule of truth` [文学]；
 
 > [!tip] 原型义
 > **原型义**：小质量（极微小的物质团，拉丁语 *moles* "质量/块" 的小称）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A water molecule consists of two hydrogen atoms and one oxygen atom."（一个水分子由两个氢原子和一个氧原子组成）
-> - "Molecular biology has revolutionized our understanding of genetics."（分子生物学彻底改变了我们对遗传学的理解）
+> - A water molecule consists of two hydrogen atoms and one oxygen atom. `[真题]`
+> - DNA is a very large molecule that contains genetic information. `[真题]`
+> - A plasmid is a DNA molecule that is separate from the chromosomal DNA and that can replicate independently. `[真题]`
 
 
 ---

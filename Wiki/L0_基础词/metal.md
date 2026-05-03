@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**金属**==；②金属合金；③（铁路）铁轨
-**adj.** ①金属制的；②重金属音乐的
+**n.** ①==**金属**== `precious / heavy / scrap metal` [通用]；②金属合金；③（铁路）铁轨
+**adj.** ①金属制的；②重金属音乐的 `metal detector / metal parts` [通用]
 
 > [!tip] 原型义
 > **原型义**：从矿山开采的物质
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Gold and silver are precious metals."（金和银是贵金属。——常识语料）
-> - "Heavy metal music originated in the late 1960s."（重金属音乐起源于20世纪60年代末。——文化语料）
+> - "The precious metal is seen as a safe haven when times are tough." `[真题]`
+> - "The museum is heavily guarded and all visitors have to pass through metal detectors." `[真题]`
+> - "He once banned heavy metal music and its fans were arrested." `[真题]`
+> - "The scent of burning metal assailed his nostrils." `[真题]`
 
 
 ---

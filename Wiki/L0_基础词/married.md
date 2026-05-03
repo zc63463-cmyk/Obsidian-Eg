@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**已婚的，有配偶的**==；②婚姻的，夫妇的；
-**n.** ①==**已婚人士**==（the married）；
+**adj.** ①==**已婚的，有配偶的**== `\be married to sb\` [通用] `\get married\` [通用]；②婚姻的，夫妇的 `\married life\` [书面]；
+**n.** ①==**已婚人士**== `\the married\` [书面]；
 
 > [!tip] 原型义
 > **原型义**：已婚的（处于婚姻状态中的，源自 marry 的过去分词）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He came out only slightly tainted by telling millions of viewers he and his wife had had marital problems."（他在数百万电视观众面前承认自己和妻子有婚姻问题，仅受到了轻微的负面影响。——Collins Corpus）
-> - "The stresses did not just come from marital problems."（压力不仅仅来自婚姻问题。——The Sun）
+> - "She spent most of her early married life avoiding her husband." `[语料库]`
+> - "They got married after she got pregnant." `[语料库]`
+> - "How long have you been married?" `[语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**使命，任务**==；②==**代表团，使团**==（被派出去的团体）；③==**（军事）任务**==；
-**adj.** ①==**有使命感的**==（如 mission statement）；
+**n.** ①==**使命，任务**== `a space/rescue mission` [通用]；②==**代表团，使团**== `a diplomatic/trade mission` [正式]（被派出去的团体）；③==**（军事）任务**== `on a mission` [通用]；
+**adj.** ①==**有使命感的**== `mission statement` [正式]（如 mission statement）；
 
 > [!tip] 原型义
 > **原型义**：被派出去执行的任务（送出去完成的目标）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If you and I parachuted back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion."（如果回顾1990年的世界五百强企业，我们会发现像"旅程""使命""激情"这类词汇的使用频率远没有现在高——2015年考研阅读Text 3）
-> - "Her mission in life was to work with the homeless, and she devoted decades to this cause."（她的人生使命是帮助无家可归者，她为此事业奉献了几十年——考研阅读人物传记话题相关表达）
+> - If you and I parachuted back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion. `[真题]`
+> - Her mission in life was to work with the homeless, and she devoted decades to this cause. `[真题]`
+> - Thomas More toured Antwerp on a diplomatic mission for the king. `[真题]`
+> - It was too late to launch a rescue mission. `[真题]`
 
 
 ---

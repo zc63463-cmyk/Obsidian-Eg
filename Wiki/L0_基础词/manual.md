@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**用手的，手工的**==；②体力的
-**n.** ①==**手册，指南**==；②键盘（乐器上的）
+**adj.** ①==**用手的，手工的**== `manual work/labour` [通用]；`manual dexterity` [正式]；②体力的
+**n.** ①==**手册，指南**== `instruction/user manual` [通用]；`training manual` [通用]；②键盘（乐器上的）
 
 > [!tip] 原型义
 > **原型义**：用手的（与手相关的）
@@ -134,8 +134,9 @@ manu(手，拉丁语 *manus*) + -al(形容词后缀，表示"属于……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is still a big market for unskilled manual labour."（无需技能的体力劳动现在仍然有很大市场。——考研社会话题常见表达）
-> - "Read this manual before you use this machine."（在使用这台机器之前，请阅读本手册。——考研翻译常见结构）
+> - The computer comes with a 600-page instruction manual. `[真题]`
+> - Instead they left the country and volunteered to do hard manual labour in an orphanage in Cambodia for a month. `[真题]`
+> - This car has a manual gearbox. `[真题]`
 
 
 ---

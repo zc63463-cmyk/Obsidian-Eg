@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**仁慈，宽恕，怜悯**==；②幸运，恩惠
+**n.** ①==**仁慈，宽恕，怜悯**== `show / have mercy on sb.` [正式]；②幸运，恩惠 `it's a mercy that...` [通用]
 
 > [!tip] 原型义
 > **原型义**：应得的报偿→仁慈（给予超出应得的善意）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ship was at the mercy of the storm."（这艘船任由暴风雨摆布。——考研常见句型）
-> - "The judge showed mercy to the first-time offender."（法官对初犯者给予了宽恕。——法律语料）
+> - "The prisoners pleaded for mercy." `[真题]`
+> - "Poor people are increasingly at the mercy of predatory lenders." `[真题]`
+> - "Fishermen are always at the mercy of the forces of nature." `[真题]`
+> - "It's a mercy that the building was empty when the fire started." `[真题]`
 
 
 ---

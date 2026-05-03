@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**医学的，医疗的**==；②体格检查的；
+**adj.** ①==**医学的，医疗的**== `medical N` `medical treatment/research`；②==**体格检查的**== `medical examination` [正式]；
 
 > [!tip] 原型义
 > **原型义**：与治愈/治疗相关的（医学的）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms."（医学期刊中存在大量这类无稽之谈，一旦被广播公司和大众媒体采纳，就会引发健康恐慌和短暂的饮食狂热。——2019年英语一翻译）
-> - "The Supreme Court's decision on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering."（最高法院关于医生协助自杀的决定，对医学如何寻求减轻垂死病人的痛苦和折磨具有重要意义。——2002年英语一Text 4）
+> - "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms." `[真题]`
+> - "She needs medical treatment for her chronic back pain." `[COCA-ACAD]`
+> - "He went to medical school at the age of twenty-four." `[COCA-ACAD]`
 
 
 ---

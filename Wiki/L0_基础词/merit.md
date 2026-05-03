@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**优点，长处，价值**==；②功绩，值得赞扬的品质；
-**v.** ①==**值得，应得**==
+**n.** ①==**优点，长处，价值**== `artistic merit / the merits of sth.` [正式]；②功绩，值得赞扬的品质；
+**v.** ①==**值得，应得**== `merit attention / consideration / further investigation` [正式]
 
 > [!tip] 原型义
 > **原型义**：应得的/值得的
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Each case should be judged on its own merits."（每个案件都应根据其本身的情况来判断。——法律语料）
-> - "This research merits further investigation."（这项研究值得进一步调查。——学术语料）
+> - "Each case should be judged on its own merits." `[真题]`
+> - "This research merits further investigation." `[真题]`
+> - "I believe that the report merits closer reading on this point." `[真题]`
+> - "The artist's latest masterpiece merits attention for its captivating use of colors." `[真题]`
 
 
 ---

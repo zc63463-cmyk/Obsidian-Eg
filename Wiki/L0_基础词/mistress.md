@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**女主人，主妇**==；②情妇；③女教师（旧用法）；④（英）女校长；
+**n.** ①==**女主人，主妇**== `mistress of the house` [正式]；②情妇；③女教师（旧用法）；④（英）女校长；
 
 > [!tip] 原型义
 > **原型义**：女主人（拥有控制权或权威的女性）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was the mistress of a large estate."（她是一大片庄园的女主人。）
-> - "The head mistress addressed the students at the assembly."（女校长在集会上向学生讲话。）
+> - The servants did their mistress's bidding without question. `[真题]`
+> - She had always been mistress of her own destiny. `[真题]`
+> - Mrs. Goddard was the mistress of a school. `[真题]`
 
 
 ---

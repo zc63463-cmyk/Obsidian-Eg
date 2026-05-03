@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**愉快的，欢乐的**==；②微醉的
+**adj.** ①==**愉快的，欢乐的**== `Merry Christmas / a merry evening` [通用]；②微醉的 `get merry / merry with wine` [非正式]
 
 > [!tip] 原型义
 > **原型义**：愉快的，令人愉悦的
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We wish you a Merry Christmas."（我们祝你圣诞快乐。——节日用语）
-> - "They spent a merry evening together."（他们一起度过了一个愉快的夜晚。——文学语料）
+> - "We wish you a Merry Christmas and a Happy New Year!" `[真题]`
+> - "The children's merry laughter filled the room." `[真题]`
+> - "Christmas is a time to eat, drink and make merry." `[真题]`
+> - "They spent a merry evening together by the fire." `[真题]`
 
 
 ---

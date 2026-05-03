@@ -26,8 +26,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**策略，手段**==；②（军事）演习，调遣；③机动动作
-**v.** ①==**操纵，控制**==；②巧妙地移动；③（军事）演习
+**n.** ①==**策略，手段**== `room for manoeuvre` [正式]；`political manoeuvre` [正式]；②（军事）演习，调遣；③机动动作
+**v.** ①==**操纵，控制**== `manoeuvre sb. into doing sth.` [正式]；`manoeuvre to avoid sth.` [正式]；②巧妙地移动；③（军事）演习
 
 > [!tip] 原型义
 > **原型义**：用手操作（巧妙地用手操控）
@@ -135,8 +135,9 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You have no room to manoeuvre, no time to think."（你没有回旋的余地，没有思考的时间。——考研阅读常见表达）
-> - "The city is an opportunity for manoeuvre."（城市是一种策略运作的机会。——考研社会话题常见表达）
+> - The law in this area is very strict and doesn't allow us much room for manoeuvre. `[真题]`
+> - He has manoeuvred astutely to avoid industrial action among staff. `[真题]`
+> - The government has very little room for manoeuvre on this issue. `[真题]`
 
 
 ---

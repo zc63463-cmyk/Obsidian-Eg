@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（大量）制造，生产**==；②捏造，虚构
-**n.** ①==**制造**==；②制成品，产品；③制造业
+**v.** ①==**（大量）制造，生产**== `manufacture goods/products` [通用]；`manufacture cars` [通用]；②捏造，虚构
+**n.** ①==**制造**== `the decline of manufacturing` [正式]；`manufactured goods` [通用]；②制成品，产品；③制造业
 
 > [!tip] 原型义
 > **原型义**：用手制作（手工制造）
@@ -134,8 +134,9 @@ manu(手，拉丁语 *manus*) + [[fact]](做，拉丁语 *facere*) + -ure(名词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decline in American manufacturing is a common refrain, particularly from Donald Trump."（美国制造业的衰落已是老生常谈，更是唐纳德·特朗普经常挂在嘴边的话题。——2017年考研英语二Text 3）
-> - "We don't make anything anymore."（我们不再制造任何东西了。——2017年考研英语二Text 3）
+> - The decline in American manufacturing is a common refrain, particularly from Donald Trump. `[真题]`
+> - Moreover, it has pitifully little in the way of lucrative products to export: olive oil, marble and aluminium, but few manufactured goods or services. `[真题]`
+> - The company manufactures smartphones in China. `[真题]`
 
 
 ---

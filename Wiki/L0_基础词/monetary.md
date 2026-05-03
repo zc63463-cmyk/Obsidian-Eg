@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**货币的，金融的**==；②钱的，金钱的；
+**adj.** ①==**货币的，金融的**== `\monetary policy/monetary system` [经济]；②==**钱的，金钱的**== `\monetary assets/monetary value` [通用]；
 
 > [!tip] 原型义
 > **原型义**：与钱币有关的（源自拉丁语 *monetarius*，"铸币厂的"，*moneta* = 铸币/货币）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The central bank adjusted its monetary policy to control inflation."（央行调整货币政策以控制通胀）
-> - "The European monetary system was established to stabilize exchange rates."（欧洲货币体系的建立旨在稳定汇率）
+> - The Fed is the nation's central bank, leaving it in charge of monetary policy. `[真题]`
+> - Central banks are also poised to tighten monetary policies. `[真题]`
+> - There is little monetary policy can do to offset the former. `[真题]`
 
 
 ---

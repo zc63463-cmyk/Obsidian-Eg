@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**镜子**==；②==**反映，写照**==（真实反映某事物的标志）；
-**v.** ①==**反映，反射**==；②==**模仿，写照**==；
+**n.** ①==**镜子**== `look in the mirror` [通用]；②==**反映，写照**== `a mirror of society` [正式]（真实反映某事物的标志）；
+**v.** ①==**反映，反射**== `mirror the changes/situation` [正式]；②==**模仿，写照**== `mirror one's experiences` [正式]；
 
 > [!tip] 原型义
 > **原型义**：凝视、惊叹（注视镜中倒影而感到惊奇）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The value creation is mirrored by the difference between the gross policy return and the minimum required return."（价值的创造反映在总保单回报与最低要求回报之间的差异上——考研阅读经济话题相关表达）
-> - "First, there is a dearth of research on this issue, mirroring criminology's broader neglect of the criminality of women."（首先，关于这个问题的研究非常匮乏，这反映了犯罪学对女性犯罪问题的更广泛忽视——考研阅读社科话题相关表达）
+> - The value creation is mirrored by the difference between the gross policy return and the minimum required return. `[真题]`
+> - First, there is a dearth of research on this issue, mirroring criminology's broader neglect of the criminality of women. `[真题]`
+> - The clouds were mirrored in the lake. `[真题]`
+> - Her views on politics mirror mine completely. `[真题]`
 
 
 ---

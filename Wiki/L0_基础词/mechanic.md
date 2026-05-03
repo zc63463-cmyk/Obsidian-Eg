@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**技工，机修工**==；②（尤指制造或操作的）机械工；
+**n.** ①==**技工，机修工**== `\a car mechanic\` [通用] `\the mechanic fixed...\` [通用]；②（尤指制造或操作的）机械工 `\a skilled mechanic\` [通用]；
 
 > [!tip] 原型义
 > **原型义**：技工（从事机械维修和操作的人）
@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The mechanic installed new brakes on the car."（技工给汽车装了新刹车。——通用例句）
-> - "After the mechanic replaced the silencer, my car was as right as rain."（修理工更换了消音器后，我的汽车又正常了。——通用例句）
+> - "Her brother's dream was to open his own mechanic shop in Nicaragua." `[语料库]`
+> - "He had extreme difficulty sleeping, and missed the final exams in his apprenticeship as a vehicle mechanic." `[语料库]`
+> - "The mechanic installed new brakes on the car." `[语料库]`
 
 
 ---

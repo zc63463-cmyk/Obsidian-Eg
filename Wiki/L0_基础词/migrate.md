@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**迁移，移居**==；②（候鸟等）迁徙；③（数据等）转移；
+**v.** ①==**迁移，移居**== `migrate to another country` `migrate from A to B` [通用]；②（候鸟等）迁徙；③（数据等）转移；
 
 > [!tip] 原型义
 > **原型义**：从一个地方移动到另一个地方（改变居住地）
@@ -129,8 +129,9 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many workers migrate from rural areas to cities in search of better job opportunities."（许多工人从农村迁移到城市寻找更好的工作机会——考研社会类阅读高频表达）
-> - "Birds migrate thousands of miles each year."（鸟类每年迁徙数千英里——考研科普类阅读）
+> - Many workers migrate from rural areas to cities in search of better job opportunities. `[真题]`
+> - In September, these birds migrate 2,000 miles south to a warmer climate. `[真题]`
+> - Swallows migrate south in winter. `[真题]`
 
 
 ---

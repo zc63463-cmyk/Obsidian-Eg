@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**较小的，较少的**==；②==**次要的，不严重的**==；
+**adj.** ①==**较小的，较少的**== `a minor error/injury` [通用]；②==**次要的，不严重的**== `a minor issue; play a minor role` [正式/通用]；
 **n.** ①==**未成年人**==；②==**辅修科目**==；
-**v.** ①==**辅修**==（in）；
+**v.** ①==**辅修**== `minor in economics/French` [教育]；
 
 > [!tip] 原型义
 > **原型义**：较小的（拉丁语 *minor*，*minus* 的比较级，意为"较小的"）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She majored in English and minored in French at university."（她在大学主修英语，辅修法语）
-> - "The impact of the policy change was relatively minor."（政策变化的影响相对较小）
+> - She majored in English and minored in French at university. `[真题]`
+> - The impact of the policy change was relatively minor. `[真题]`
+> - The storm caused only minor damage to the building's roof. `[真题]`
+> - The actor had a minor role in the film, but still received critical acclaim. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大理石**==；②弹珠；③（游戏用的）玻璃弹子；
-**adj.** ①==**大理石的，大理石般的**==；
+**n.** ①==**大理石**== `marble floor/statue` [通用]；`white marble` [通用]；②弹珠；③（游戏用的）玻璃弹子；
+**adj.** ①==**大理石的，大理石般的**== `marble columns` [文学]；`marble skin` [文学]；
 
 > [!tip] 原型义
 > **原型义**：大理石（一种坚硬、光滑、有纹理的变质岩）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People make marathon journeys to buy glass here."（人们千里迢迢赶到这里购买玻璃。——Baike 语料库）
-> - "Marble is widely used in sculpture and architecture due to its durability and beauty."（大理石因其耐久性和美观而被广泛应用于雕塑和建筑中。——通用语料）
-> 注：marble 在建筑、艺术和文学中频繁出现。
+> - The property has high ceilings and marble floors throughout. `[真题]`
+> - Standing on either side of the arch are graceful white marble statues. `[真题]`
+> - The columns were of white marble. `[真题]`
 
 
 ---

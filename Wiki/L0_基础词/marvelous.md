@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人惊叹的，非凡的**==；②极好的，了不起的；③不可思议的
+**adj.** ①==**令人惊叹的，非凡的**== `\a marvelous achievement\` [书面]；②极好的，了不起的 `\a marvelous idea\` [通用]；③不可思议的 `\a marvelous coincidence\` [通用]
 
 > [!tip] 原型义
 > **原型义**：令人惊叹的（让人感到惊奇和赞叹的事物）
@@ -129,8 +129,9 @@ marvel（令人惊叹的事物，源自拉丁语 *mirabilia*，*mirari* "惊叹�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The world is wide, and has many marvellous people in it."（世界很广阔，其中有许多了不起的人。——Oscar Wilde, *The Picture of Dorian Gray*）
-> - "These dogs have a marvelous sense of smell."（这些狗有着惊人的嗅觉。——Cambridge Dictionary）
+> - "His flight across the continent in two hops in twenty-one hours of flying time was a marvellous achievement." `[语料库]`
+> - "These dogs have a marvelous sense of smell." `[语料库]`
+> - "The world is wide, and has many marvellous people in it." `[语料库]`
 
 
 ---

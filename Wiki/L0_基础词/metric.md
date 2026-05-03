@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**公制的，米制的**==；②度量的，测量的；
-**n.** ①==**度量标准，指标**==
+**adj.** ①==**公制的，米制的**== `the metric system` `metric ton` [通用]；②度量的，测量的；
+**n.** ①==**度量标准，指标**== `performance metrics` `key metrics` [学术/商业]
 
 > [!tip] 原型义
 > **原型义**：关于测量的
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Most countries use the metric system."（大多数国家使用公制。——常识语料）
-> - "We need to establish clear metrics for success."（我们需要建立明确的成功指标。——商业语料）
+> - Most countries use the metric system. `[真题]`
+> - The number of women in senior roles is a key metric for diversity. `[真题]`
+> - When employees' performance metrics dip, they are warned they could find themselves without a job. `[真题]`
 
 
 ---

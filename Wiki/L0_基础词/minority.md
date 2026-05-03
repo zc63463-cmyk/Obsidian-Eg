@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**少数，少数派**==；②==**少数族裔，少数民族**==；③未成年时期；
+**n.** ①==**少数，少数派**== `a minority of; be in the minority` [正式/通用]；②==**少数族裔，少数民族**== `ethnic minorities; minority rights` [社会/政治]；③未成年时期；
 
 > [!tip] 原型义
 > **原型义**：较小的部分（整体中数量较少的部分）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Only a minority of students supported the proposed changes."（只有少数学生支持拟议的变更）
-> - "The government has introduced policies to protect the rights of ethnic minorities."（政府出台了保护少数民族权利的政策）
+> - Only a minority of students supported the proposed changes. `[真题]`
+> - The government has introduced policies to protect the rights of ethnic minorities. `[真题]`
+> - I don't like the design, but I'm in the minority — most people say they love it. `[真题]`
+> - We want to end discrimination against women and racial minorities. `[真题]`
 
 
 ---

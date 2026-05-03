@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**矿物，矿石**==；②==**矿物质**==；
-**adj.** ①==**矿物的**==；
+**n.** ①==**矿物，矿石**== `mineral deposits/resources` [地质/通用]；②==**矿物质**== `essential minerals; rich in minerals` [营养/科学]；
+**adj.** ①==**矿物的**== `mineral water; mineral wealth` [通用]；
 
 > [!tip] 原型义
 > **原型义**：从矿里挖出来的东西（天然存在的无机物质）
@@ -123,8 +123,10 @@ mine(矿，源自凯尔特语) + -ral(名词后缀，表示"与……相关的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country is rich in mineral resources, including gold, copper, and iron ore."（该国矿产资源丰富，包括金、铜和铁矿石）
-> - "A balanced diet should provide all the essential vitamins and minerals."（均衡的饮食应提供所有必需的维生素和矿物质）
+> - The country is rich in mineral resources, including gold, copper, and iron ore. `[真题]`
+> - A balanced diet should provide all the essential vitamins and minerals your body needs. `[真题]`
+> - The company plans to spend millions looking for new mineral deposits this year. `[真题]`
+> - Fish is a rich source of vitamins and minerals. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**显微镜**==；
+**n.** ①==**显微镜**== `under the microscope` `electron microscope` [学术/通用]；
 
 > [!tip] 原型义
 > **原型义**：小的观看（将微小物体放大的观察工具）
@@ -122,8 +122,9 @@ micro-(小，希腊语 *mikros*) + scope(看/观察，希腊语 *skopein*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the microscope opened up an entirely new world of microorganisms."（显微镜的发明打开了一个全新的微生物世界——考研科技类阅读）
-> - "The company's financial practices have been put under the microscope."（公司的财务做法受到了仔细审视——考研商业类阅读）
+> - They looked at the blood samples under the microscope. `[真题]`
+> - The invention of the microscope opened up an entirely new world of microorganisms. `[真题]`
+> - The company's financial practices have been put under the microscope. `[真题]`
 
 
 ---

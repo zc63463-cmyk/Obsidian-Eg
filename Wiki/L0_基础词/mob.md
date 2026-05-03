@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**暴民，暴徒群体**==；②人群，大众（贬义）；③犯罪团伙（the Mob）；
-**v.** ①围攻，蜂拥而至；
+**n.** ①==**暴民，暴徒群体**== `a mob of angry protesters` [贬义]；②人群，大众（贬义） `mob mentality` [贬义]；③犯罪团伙（the Mob）；
+**v.** ①围攻，蜂拥而至 `be mobbed by fans` [中性]；
 
 > [!tip] 原型义
 > **原型义**：可移动的人群（四处走动的人群）
@@ -128,8 +128,9 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The angry mob gathered outside the government building, demanding justice."（愤怒的暴民聚集在政府大楼外，要求公正。）
-> - "He was mobbed by fans as he left the stadium."（他离开体育场时被粉丝围住。）
+> - The angry mob gathered outside the government building, demanding justice. `[真题]`
+> - They have been exercising what amounts to mob rule. `[真题]`
+> - He was mobbed by fans as he left the stadium. `[真题]`
 
 
 ---

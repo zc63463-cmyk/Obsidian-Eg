@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**旋律，曲调**==；②美妙的音乐；
+**n.** ①==**旋律，曲调**== `a beautiful melody` `compose a melody`；②==**美妙的音乐**== `the melody of N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：歌唱的线条（有节奏的音符序列）
@@ -131,8 +131,9 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Kelly, who said his specialties are crafting melodies and stories, said he wants to work with rock and country musicians too."（凯利说他的专长是创作旋律和故事，他还表示想与摇滚和乡村音乐家合作。——考研阅读常见文化话题）
-> - "For his first outing as a recording artist, he turned to the Great American Songbook and some of the most romantic melodies of our time."（作为录音艺术家的首次亮相，他转向了《伟大的美国歌曲集》和我们这个时代一些最浪漫的旋律。——考研翻译常见表达）
+> - "He sang a few old melodies." `[COCA-ACAD]`
+> - "The second movement begins with an ostinato on harp and the flutes, which eventually develops into a beautiful melody that forms a basis for the development of the movement." `[COCA-ACAD]`
+> - "But at the same time, we're all suckers for a beautiful melody, you know?" `[BNC-SPOKEN]`
 
 
 ---

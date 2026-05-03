@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**马拉松赛跑**==；②持久而艰苦的活动；
-**adj.** ①==**马拉松式的，持久的**==；
+**n.** ①==**马拉松赛跑**== `run a marathon` [通用]；`the New York Marathon` [通用]；②持久而艰苦的活动；
+**adj.** ①==**马拉松式的，持久的**== `a marathon session` [通用]；`a marathon meeting` [通用]；
 
 > [!tip] 原型义
 > **原型义**：马拉松（长距离赛跑，约42.2公里，源自古希腊马拉松战役后传令兵跑回雅典报捷的故事）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The New York City marathon begins in Staten Island and ends in Manhattan's Central Park."（纽约市马拉松赛从斯塔滕岛开始，在曼哈顿中央公园结束。——Cambridge Dictionary）
-> - "The painting would be completed in one marathon session."（这幅画将在一次马拉松式的创作中完成。——Oxford Advanced Learner's Dictionary）
+> - It can take weeks to recover after running a marathon. `[真题]`
+> - European unification is a marathon in which we have successfully stayed the course over the past few decades. `[真题]`
+> - She was running the marathon in his memory. `[真题]`
 
 
 ---
