@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大错，愚蠢的错误**==；
-**vi.** ①==**犯大错**==；②==**踉踉跄跄地走**==；
+**n.** ①==**大错，愚蠢的错误**== `N`；
+**vi.** ①==**犯大错**== `V`；②==**踉踉跄跄地走**== `V prep N`；
 
 > [!tip] 原型义
 > **原型义**：因盲目而犯的大错（古诺斯语 *blundra*，"to shut one's eyes"，闭着眼睛→盲目→犯错）
@@ -131,8 +131,9 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's decision to expand into the Asian market without proper research proved to be a costly blunder."（公司在没有充分调研的情况下决定进军亚洲市场，结果证明这是一个代价惨重的错误。——考研英语阅读商业类话题）
-> - "The diplomat blundered into a controversy by making insensitive remarks about the host country's traditions."（这位外交官因对东道国传统发表不当言论而莽撞地卷入了争议。——考研英语阅读外交类话题）
+> - He said that the tax was a major political blunder. `[COCA-NEWS]`
+> - I could hear him blundering around in the darkness. `[BNC-SPOKEN]`
+> - Police blundered by not releasing more details about the case to focus public interest. `[COCA-NEWS]`
 
 
 ---

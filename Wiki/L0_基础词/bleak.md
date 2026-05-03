@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**荒凉的，凄凉的**==；②暗淡的，没有希望的；③寒冷刺骨的；④（天气）阴冷的；
+**adj.** ①==**荒凉的，凄凉的**== `adj N` `adj landscape/hillside/moor`；②==**暗淡的，没有希望的**== `adj N` `adj future/prospect/outlook`；③==**寒冷刺骨的**== `adj N` `adj winter/day`；④==**（天气）阴冷的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：苍白的，光秃的（没有遮蔽、没有色彩的裸露状态）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic outlook looks increasingly bleak."（经济前景看起来日益暗淡——考研阅读高频表达）
-> - "They faced a bleak future after the factory closed down."（工厂关闭后他们面临着暗淡的未来——考研翻译常见话题）
+> - The economic outlook looks increasingly bleak. `[COCA-NEWS]`
+> - The landscape looked bleak and desolate in the rain. `[COCA-ACAD]`
+> - Prospects for the industry are extremely bleak. `[例]`
+> - They faced a financially bleak Christmas. `[例]`
 
 
 ---

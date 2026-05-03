@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**火焰，烈火**==；②==**光辉，闪耀**==；③==**爆发**==；
-**vi.** ①==**燃烧，冒火焰**==；②==**闪耀，发光**==；③==**爆发**==；
-**vt.** ①==**在……上标出路标**==；
+**n.** ①==**火焰，烈火**== `N`；②==**光辉，闪耀**== `N`；③==**爆发**== `N` [引申]；
+**vi.** ①==**燃烧，冒火焰**== `V`；②==**闪耀，发光**== `V`；③==**爆发**== `V` [引申]；
+**vt.** ①==**在……上标出路标**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：发光的东西（明亮的火焰，源自古英语 *blæse* "火炬"）
@@ -138,8 +138,10 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory was set ablaze during the riot, and the fire blazed throughout the night."（工厂在暴乱中被点燃，大火燃烧了整整一夜。——通用例句）
-> - "She blazed a trail for women in science, becoming the first female professor in her field."（她为女性在科学领域开辟了道路，成为该领域第一位女教授。——考研人物传记类阅读语料）
+> - The factory was set ablaze during the riot, and the fire blazed throughout the night. `[例]`
+> - She blazed a trail for women in science, becoming the first female professor in her field. `[COCA-ACAD]`
+> - As the setting sun cast a golden glow, the sky seemed to blaze with colour. `[例]`
+> - He blazed with anger when he found out someone had taken his lunch. `[例]`
 
 
 ---

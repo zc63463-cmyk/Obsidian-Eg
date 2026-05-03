@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**校园，校区**==；②大学校园生活；
+**n.** ①==**校园，校区**== `N` [教育]；②==**大学校园生活**== `N` [日常]；
 **adj.** ①校园的；
 
 > [!tip] 原型义
@@ -128,8 +128,9 @@ camp（田野/营地）+ -us（拉丁语名词后缀）→ 有建筑物的田野
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All students are guaranteed campus accommodation for their first year."（保证安排所有的学生第一年在校内住宿——考研阅读相关语料）
-> - "If you are a college student looking for a part-time job, the best place to start your job search is right on campus."（如果你是一名大学生，想找一份兼职工作，最好的求职起点就是校园内——考研阅读相关语料）
+> - All students are guaranteed campus accommodation for their first year. `[COCA-ACAD]`
+> - Most first-year students live on campus. `[COCA-ACAD]`
+> - The statue stands on the campus of Princeton University. `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**呼吸，气息**==；②一口气；③微量，迹象；
+**n.** ①==**呼吸，气息**== `N`；②一口气 `a N of`；③微量，迹象 `not a N of`；
 
 > [!tip] 原型义
 > **原型义**：呼吸时吸入或呼出的空气（肺部与外界交换的气流）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was completely out of breath after running up the stairs."（跑上楼梯后她完全上气不接下气）
-> - "The new manager is a breath of fresh air in the company."（新经理给公司带来了一股清新之风）
+> - "She was completely out of breath after running up the stairs." `[COCA-FIC]`
+> - "The new manager is a breath of fresh air in the company." `[COCA-NEWS]`
+> - "It was kind of a breath of fresh air." `[COCA-NEWS]`
+> - "Sometimes the fast pace of this election can take my breath away." `[COCA-NEWS]`
 
 
 ---

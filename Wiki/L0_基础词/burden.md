@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**负担，重担**==；②责任，义务；
-**v.** ①使负重担；②烦扰，加负担于；
+**n.** ①==**负担，重担**== `financial burden` `tax burden`；②责任，义务 `burden of proof`；
+**v.** ①使负重担 `burden someone with`；②烦扰，加负担于；
 
 > [!tip] 原型义
 > **原型义**：被承载的东西（需要承受的重量）
@@ -129,7 +129,10 @@ burden 源自古英语 *byrðen*（负担、重量），原始日耳曼语 *\*bu
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rising cost of healthcare has placed a heavy financial burden on elderly citizens.（不断上涨的医疗费用给老年公民带来了沉重的经济负担。）
+> - The rising cost of healthcare has placed a heavy financial burden on elderly citizens. `[真题]`
+> - The burden of proof is on the plaintiff, since the defendant is presumed innocent until proven guilty. `[语料库]`
+> - His illness has placed a huge financial burden on the family. `[语料库]`
+> - These increases are a heavy burden on our constituents. `[语料库]`
 
 
 ---

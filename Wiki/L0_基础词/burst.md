@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**爆裂，破裂**==；②==**突然发生，迸发**==；③充满，胀满；
-**n.** ①爆发，突发；②一阵（情感/活动）；
+**v.** ①==**爆裂，破裂**== `burst open` `burst its banks`；②==**突然发生，迸发**== `burst into tears/laughter` `burst into the room`；③充满，胀满 `burst with pride/joy`；
+**n.** ①爆发，突发 `a burst of activity/anger`；②一阵（情感/活动） `a burst of applause`；
 
 > [!tip] 原型义
 > **原型义**：爆裂，突然破裂（因内部压力超过承受极限而炸开）
@@ -128,7 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - Suddenly the door burst open and police officers rushed in. `[真题]`
+> - Gunmen burst into his home and opened fire. `[语料库]`
+> - The whole town flooded when the river burst its banks. `[语料库]`
+> - It is easier to cope with short bursts of activity than with prolonged exercise. `[语料库]`
 
 
 ---

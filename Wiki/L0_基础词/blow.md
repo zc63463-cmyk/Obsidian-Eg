@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**吹，吹气**==；②==**（风）吹，刮**==；③==**爆炸，炸毁**==；④（使）熔断；⑤挥霍（金钱）；
-**n.** ①==**一击，打击**==；②==**打击，挫折**==；③吹气；
+**v.** ①==**吹，吹气**== `V N`；②==**（风）吹，刮**== `V`；③==**爆炸，炸毁**== `V up`；④（使）熔断；⑤挥霍（金钱）；
+**n.** ①==**一击，打击**== `a N`；②==**打击，挫折**== `a N to N`；③吹气；
 
 > [!tip] 原型义
 > **原型义**：吹气，气流（古英语 *blāwan*，"to blow, breathe"）
@@ -136,8 +136,9 @@ blow(吹/吹气，古英语 *blāwan*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic crisis dealt a severe blow to the manufacturing sector, causing widespread layoffs."（经济危机对制造业造成了严重打击，导致大规模裁员。——考研英语阅读经济类话题，deal a blow to 高频考点）
-> - "The terrorists threatened to blow up the building if their demands were not met."（恐怖分子威胁说，如果不满足他们的要求，就炸毁这栋建筑。——考研英语阅读社会类话题）
+> - "The economic crisis dealt a severe blow to the manufacturing sector, causing widespread layoffs." `[COCA-NEWS]`
+> - "The terrorists threatened to blow up the building if their demands were not met." `[COCA-NEWS]`
+> - "He was able to fend off the blow with his arm." `[COCA-FIC]`
 
 
 ---

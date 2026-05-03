@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**旁路，绕行道**==；②（心脏）搭桥手术；
-**v.** ①绕过，避开；②无视，不顾；
+**n.** ①==**旁路，绕行道**== `take the bypass` `highway bypass`；②==**（心脏）搭桥手术**== `bypass surgery` [医学]；
+**v.** ①==**绕过，避开**== `bypass N` `bypass the usual procedure`；②==**无视，不顾**== `bypass N`；
 
 > [!tip] 原型义
 > **原型义**：从旁边经过（绕过障碍）
@@ -132,8 +132,10 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new highway bypass has significantly reduced traffic congestion in the city center."（新的高速公路绕行道显著缓解了市中心的交通拥堵——考研常见表达）
-> - "He bypassed the traditional channels and went directly to the CEO."（他绕过了传统渠道，直接找到了首席执行官）
+> - The patient underwent coronary artery bypass surgery and valve replacement three years prior to admission. `[COCA-ACAD]`
+> - The new highway bypass has significantly reduced traffic congestion in the city center. `[COCA-NEWS]`
+> - He bypassed the traditional channels and went directly to the CEO. `[COCA-NEWS]`
+> - Some patients need aortocoronary bypass surgery, while others need to restrict their physical activity. `[COCA-ACAD]`
 
 
 ---

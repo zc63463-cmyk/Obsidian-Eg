@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**血液，血**==；②==**血统，家族关系**==；③==**暴力，杀戮**==；④气质，脾气；
-**v.** ①使（某人）初次经历；
+**n.** ①==**血液，血**== `N` `lose/shed/draw N`；②==**血统，家族关系**== `N` `N relation/line`；③==**暴力，杀戮**== `N` `shed N`；④气质，脾气 `hot/young N`；
+**v.** ①使（某人）初次经历 `V N`；
 
 > [!tip] 原型义
 > **原型义**：血液（在血管中流动的红色液体）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of blood types was a milestone in medical history."（血型的发现是医学史上的里程碑。）
-> - "He argued that violence and bloodshed were not the answer."（他认为暴力和流血不是解决办法。）
+> - He lost a lot of blood in the accident. `[COCA-NEWS]`
+> - After the attacks, people donated blood in record numbers. `[COCA-NEWS]`
+> - There was Greek blood in his veins. `[BNC-SPOKEN]`
+> - He was a hot-headed warrior, always too quick to shed blood. `[例]`
 
 
 ---

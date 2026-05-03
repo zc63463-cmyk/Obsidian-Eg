@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**刹车，制动器**==；②阻碍；
-**v.** ①刹车；②阻碍，抑制；
+**n.** ①==**刹车，制动器**== `step on the brake` / `emergency brake`；②阻碍 `act as a brake on`；
+**v.** ①刹车 `brake suddenly` / `slam on the brakes`；②阻碍，抑制 `put the brakes on`；
 
 > [!tip] 原型义
 > **原型义**：刹车——使运动停止的装置
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to put the brakes on public spending."（政府需要给公共开支踩刹车）
-> - "He braked suddenly to avoid hitting the dog."（他突然刹车以避免撞到狗）
+> - Moira slammed on the brakes when a child ran into the street. `[LDOCE]`
+> - The company decided to put the brakes on its expansion plans due to the recession. `[Collins]`
+> - They plan to use interest rates as a brake on spending. `[Britannica]`
 
 
 ---

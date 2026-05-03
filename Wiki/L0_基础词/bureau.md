@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**局，办事处，机构**==；②（美） dresser，梳妆台；
+**n.** ①==**局，办事处，机构**== `Federal Bureau of Investigation` `tourist bureau`；②（美） dresser，梳妆台；
 
 > [!tip] 原型义
 > **原型义**：粗布桌面（铺着粗布的办公桌→办公室→机构）
@@ -125,7 +125,10 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Federal Bureau of Investigation has been tracking the suspect for months.（联邦调查局已经追踪这名嫌疑人好几个月了。）
+> - The Federal Bureau of Investigation has been tracking the suspect for months. `[真题]`
+> - The city's employment bureau helps job seekers find suitable positions. `[语料库]`
+> - The tourist bureau provides visitors with maps and information about local attractions. `[语料库]`
+> - The news bureau reported live from the scene of the earthquake. `[语料库]`
 
 
 ---

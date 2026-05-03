@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**芽，花蕾**==；②（美俚）哥们儿，伙计；
-**v.** ①==**发芽，萌芽**==；
+**n.** ①==**芽，花蕾**== `a flower bud` `in bud`；②==**（美俚）哥们儿，伙计**== [口语]；
+**v.** ①==**发芽，萌芽**== `trees budding in spring` `a budding artist` [比喻]；
 
 > [!tip] 原型义
 > **原型义**：芽（植物上即将展开的嫩芽）
@@ -125,7 +125,10 @@ bud（源自中古英语 *budde*，可能与古法语 *boter*（突出、膨胀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - My favourite time is early summer, just before the buds open. `[COCA-FIC]`
+> - The teacher nipped the argument in the bud before it could escalate. `[COCA-FIC]`
+> - Rosanna's favorite time is early summer, just before the buds open. `[COCA-FIC]`
+> - She is a budding young artist with remarkable talent. `[例]`
 
 
 ---

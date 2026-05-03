@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**脸红，羞愧**==；
-**n.** ①==**脸红**==；②==**红色，粉红色**==；
+**vi.** ①==**脸红，羞愧**== ``blush at the compliment`` ``blush with embarrassment``；
+**n.** ①==**脸红**== ``without the trace of a blush`` ``the blush of youth``；②==**红色，粉红色**== ``blush pink`` ``a rosy blush``；
 
 > [!tip] 原型义
 > **原型义**：脸红，因害羞而脸红（中古英语 *blusshen*，可能与 *blow* 有关——血液涌上脸像风一样）
@@ -131,8 +131,10 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At first blush, the proposal seemed reasonable, but closer examination revealed several flaws."（乍一看，这个提案似乎合理，但仔细检查后发现了几个缺陷。——考研英语阅读逻辑分析类话题，at first blush 高频表达）
-> - "She blushed deeply when the professor praised her research paper in front of the class."（当教授在全班面前表扬她的研究论文时，她脸红得很厉害。——考研英语阅读校园类话题）
+> - "Hello, Maria," he said, and she blushed again. ``[Collins Corpus]``
+> - "The most important thing is to be honest," she says, without the trace of a blush. ``[Collins Corpus]``
+> - At first blush the idea may sound intriguing to those who favor small government. ``[Wall Street Journal]``
+> - You will blush with embarrassment and beat yourself up in the days that follow. ``[Times, Sunday Times]``
 
 
 ---

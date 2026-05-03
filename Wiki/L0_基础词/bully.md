@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**恃强凌弱者，欺凌者**==；
-**v.** ①欺凌，恐吓；②威逼（某人做某事）；
+**n.** ①==**恃强凌弱者，欺凌者**== `N that/who V`；
+**v.** ①==**欺凌，恐吓**== `V N`；②==**威逼（某人做某事）**== `V N into doing`；
 
 > [!tip] 原型义
 > **原型义**：情人/哥哥（从中性到贬义的语义演变）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "School bullying has become a serious social issue that requires immediate attention."（校园欺凌已成为需要立即关注的严重社会问题——考研常见表达）
-> - "He tried to bully his colleagues into accepting his proposal."（他试图威逼同事接受他的提案）
+> - School bullying has become a serious social issue that requires immediate attention. `[COCA-ACAD]`
+> - She felt that he had bullied her into the engagement. `[COCA-FICT]`
+> - Don't let anyone bully you into doing something you don't want to do. `[COCA-MAG]`
+> - He has a strong personality, but don't let him bully you. `[COCA-SPOK]`
 
 
 ---

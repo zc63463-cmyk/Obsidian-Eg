@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**括号**==；②等级，档次；③支架，托架；
-**v.** ①把……归入同一类；②用括号括起来；
+**n.** ①==**括号**== `put in brackets` / `square brackets`；②等级，档次 `income bracket` / `age bracket`；③支架，托架 `wall bracket` / `shelf bracket`；
+**v.** ①把……归入同一类 `bracket A with B`；②用括号括起来；
 
 > [!tip] 原型义
 > **原型义**：托架/支架——支撑的结构
@@ -126,8 +126,9 @@ brack(臂膀/肩膀，源自古法语 *braguette*，与 *brag* "臂" 相关) + -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Tax rates vary depending on your income bracket."（税率因你的收入档次而异）
-> - "The word is bracketed in the original text."（这个词在原文中被括起来了）
+> - Most of our students are in the 18–22 age bracket. `[Cambridge]`
+> - Her pay rise brought her into a new tax bracket. `[Collins]`
+> - I told them to use parenthesis, not brackets. `[Collins]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**空白的，未填写的**==；②==**茫然的，无表情的**==（脸上没有表情）；③空的，无痕迹的
-**n.** ①==**空白处**==；②空白表格；③（枪的）空包弹
+**adj.** ①==**空白的，未填写的**== `a blank page / leave sth blank`；②==**茫然的，无表情的**== `a blank expression / look blank`（脸上没有表情）；③空的，无痕迹的
+**n.** ①==**空白处**== `fill in the blanks`；②空白表格；③（枪的）空包弹
 
 > [!tip] 原型义
 > **原型义**：白色的、空白的（源自古法语 *blanc* = 白色，未被书写或填充的状态）
@@ -134,8 +134,10 @@ blank 源自古法语 *blanc*（白色的），与古英语 *blanc*（白色）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the experiment, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback."（在实验中，母亲被要求先以正常方式与孩子互动，然后面无表情，不给孩子任何视觉社交反馈——2017考研英语二阅读）
-> - "When faced with the unexpected question, his mind went completely blank, and he couldn't recall a single detail of the event."（面对这个意想不到的问题，他的大脑完全一片空白，想不起事件的任何一个细节——考研英语阅读，心理描写话题）
+> - Radesky cites the "still face experiment" devised by developmental psychologist Ed Tronick in the 1970s, in which a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback. ` `[真题]`
+> - We need to stop giving presidents a blank check to wage war. ` `[外刊]`
+> - She looked blank and changed the subject. ` `[外刊]`
+> - I drew a blank when trying to recall his name. ` `[语料库]`
 
 
 ---

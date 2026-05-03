@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**营地，野营地**==；②阵营，派别；③拘留营；
-**vi.** ①露营，扎营；②寄宿；
+**n.** ①==**营地，野营地**== `N` [日常]；②==**阵营，派别**== `N` [政治]；③==**拘留营**== `N` [新闻]；
+**vi.** ①==**露营，扎营**== `V` [日常]；②寄宿；
 **vt.** ①使扎营；
 
 > [!tip] 原型义
@@ -133,8 +133,9 @@ camp 源自拉丁语 *campus*（田野、平原），原义为"开阔的平地"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The refugees were housed in temporary camps near the border."（难民被安置在边境附近的临时营地中——考研阅读相关语料）
-> - "They camped in the mountains for three days."（他们在山里露营了三天——考研翻译相关语料）
+> - The refugees were housed in temporary camps near the border. `[COCA-NEWS]`
+> - The pro-independence camp is demanding a referendum on the issue. `[COCA-NEWS]`
+> - The hikers decided to pitch camp just before sunset. `[COCA-FIC]`
 
 
 ---

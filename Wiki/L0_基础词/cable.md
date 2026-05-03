@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**电缆，缆绳**==；②电报；③有线电视
-**v.** ①给……装有线电视；②发电报
+**n.** ①==**电缆，缆绳**== `power/fiber optic cable` `anchor cable`；②==**电报**== `send a cable` [旧]；③==**有线电视**== `cable TV` `cable channel`；
+**v.** ①==**给……装有线电视**== `have/get cable installed`；②==**发电报**== `cable someone` [旧]；
 
 > [!tip] 原型义
 > **原型义**：粗绳（船上使用的强力绳索）
@@ -135,8 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The transatlantic cable made instant communication between Europe and America possible."（跨大西洋电缆使欧洲和美洲之间的即时通信成为可能——考研英语阅读科技类话题）
-> - "The government planned to lay fiber optic cables to improve internet access in rural areas."（政府计划铺设光纤电缆以改善农村地区的互联网接入——考研翻译相关表达）
+> - Roads have to be dug up to lay underground cables. `[COCA-NEWS]`
+> - This channel is only available on cable. `[COCA-SPOK]`
+> - We just had cable installed. `[COCA-SPOK]`
+> - In-market fans can also stream the game on the Bally Sports app through their cable provider. `[COCA-NEWS]`
 
 
 ---

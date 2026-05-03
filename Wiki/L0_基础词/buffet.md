@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**连续猛击，反复打击**==；②冲击，使困扰；
-**n.** ①==**自助餐**==；②（车站的）饮食柜台；③打击；
+**v.** ①==**连续猛击，反复打击**== `buffet sb in the face`；②==**冲击，使困扰**== `be buffeted by N`；
+**n.** ①==**自助餐**== `a buffet dinner/restaurant`；②==**（车站的）饮食柜台**== `a buffet car`；③==**打击**== `a buffet of the wind`；
 
 > [!tip] 原型义
 > **原型义**：用手反复击打（用手掌或拳头连续打击）
@@ -126,7 +126,10 @@ buffet（源自古法语 *buffeter*，击打，与 *buffe* 打击有关，与 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - The small boat was buffeted by the waves during the storm. `[COCA-NEWS]`
+> - The country has been buffeted by a series of economic crises. `[COCA-NEWS]`
+> - The hotel offers an extensive buffet breakfast every morning. `[COCA-NEWS]`
+> - She was buffeted by conflicting emotions after the loss. `[例]`
 
 
 ---

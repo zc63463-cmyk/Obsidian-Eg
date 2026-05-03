@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**爆炸**==；②==**一阵（风），一股（气流）**==；③==**冲击波**==；
-**vt.** ①==**炸毁，爆破**==；②==**发出刺耳的高音**==；③==**严厉批评**==；
+**n.** ①==**爆炸**== `N`；②==**一阵（风），一股（气流）**== `a blast of N`；③==**冲击波**== `N`；
+**vt.** ①==**炸毁，爆破**== `V N`；②==**发出刺耳的高音**== `V N`；③==**严厉批评**== `V N` [引申]；
 **vi.** ①爆炸；
 
 > [!tip] 原型义
@@ -134,8 +134,10 @@ blast 源自古英语 *blæst*（一阵风，一阵气流），源自原始日�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A bomb blast ripped through the market, causing widespread destruction."（炸弹爆炸席卷市场，造成大面积破坏。——考研新闻类阅读语料）
-> - "The factory was working at full blast to meet the deadline."（工厂正在全力以赴地生产以赶上截止日期。——通用例句）
+> - A huge bomb blast rocked central London last night. `[COCA-NEWS]`
+> - A blast of hot air hit us as we stepped off the plane. `[COCA-ACAD]`
+> - The explosion which followed blasted out the external supporting wall of her flat. `[COCA-NEWS]`
+> - The factory was working at full blast to meet the deadline. `[例]`
 
 
 ---

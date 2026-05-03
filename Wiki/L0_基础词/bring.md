@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**带来，拿来**==；②引起，导致；③使处于某种状态；④提出（诉讼等）；
+**v.** ①==**带来，拿来**== `V N` `V N to N`；②引起，导致 `V about N`；③使处于某种状态 `V N to N`；④提出（诉讼等） `V N against N`；
 
 > [!tip] 原型义
 > **原型义**：将某物从一处带到另一处（朝说话人方向移动）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new policy brought about significant changes in the education system."（新政策给教育体系带来了重大变化）
-> - "She was brought up in a small village."（她在一个小村庄长大）
+> - "The new policy brought about significant changes in the education system." `[COCA-NEWS]`
+> - "She was brought up in a small village." `[COCA-FIC]`
+> - "The investigation brought to light several new facts." `[COCA-NEWS]`
+> - "It has jailed environmental activists and is planning to limit the power of judicial oversight by handing a state-approved body a monopoly over bringing environmental lawsuits." `[COCA-NEWS]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**蓝图，设计图**==；②==**行动计划，方案**==；
-**vt.** ①==**为……绘制蓝图**==；②==**规划，筹划**==；
+**n.** ①==**蓝图，设计图**== `N`；②==**行动计划，方案**== `N for N`；
+**vt.** ①==**为……绘制蓝图**== `V N`；②==**规划，筹划**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：蓝图，设计图（blue + print，因早期建筑图纸用蓝色纸印白色线条而得名）
@@ -128,8 +128,9 @@ blue(蓝色) + print(印刷/打印)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has drawn up a blueprint for economic reform that aims to boost growth and reduce inequality."（政府已制定了一份经济改革蓝图，旨在促进增长并减少不平等。——考研英语阅读政治经济类话题）
-> - "The architect's blueprint for the new museum was praised for its innovative design and environmental sustainability."（建筑师为新博物馆设计的蓝图因其创新设计和环境可持续性而受到赞誉。——考研英语阅读建筑类话题）
+> - The report provided a blueprint for relieving the county's crowded jail facilities. `[COCA-ACAD]`
+> - The charter should serve as a blueprint for cooperation between the two nations. `[COCA-NEWS]`
+> - The government has published a blueprint for an integrated transport system. `[例]`
 
 
 ---

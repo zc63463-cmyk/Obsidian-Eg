@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**碳水化合物，糖类**==；②含碳水化合物的食物；
+**n.** ①==**碳水化合物，糖类**== `N` [科学]；②==**含碳水化合物的食物**== `N` [日常]；
 
 > [!tip] 原型义
 > **原型义**：碳水化合物（碳+水构成的有机物）
@@ -127,8 +127,9 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Also, not all of the carbon dioxide that enters the leaf is synthesized into carbohydrates."（此外，进入树叶的二氧化碳并非全部合成为碳水化合物——1990年考研英语阅读Text 3）
-> - "Carbohydrates provide our bodies with heat and energy."（碳水化合物给我们的身体提供热量和能量——考研翻译相关语料）
+> - Also, not all of the carbon dioxide that enters the leaf is synthesized into carbohydrates. `[真题]`
+> - On a weight-reduction diet, one typically avoids carbohydrates. `[COCA-NEWS]`
+> - Carbohydrate that can be used by humans produces four calories per gram. `[COCA-ACAD]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**残忍的，野蛮的**==；②严酷的，令人不快的；③直率的，毫不掩饰的；
+**adj.** ①==**残忍的，野蛮的**== `a brutal murder/attack`；②==**严酷的，令人不快的**== `a brutal winter/competition`；③==**直率的，毫不掩饰的**== `brutal honesty` `the brutal truth`；
 
 > [!tip] 原型义
 > **原型义**：像野兽一样的（缺乏理性、残忍粗暴）
@@ -126,7 +126,10 @@ brut(野兽，拉丁语 *brutus*，沉重的、愚钝的) + -al(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - She spoke with brutal honesty — I was too old for the job. `[COCA-FIC]`
+> - We are having a brutal winter and cold spring. `[COCA-NEWS]`
+> - He was the victim of a very brutal murder. `[COCA-NEWS]`
+> - The brutal drop in oil prices has shaken those two pillars of the regime. `[COCA-NEWS]`
 
 
 ---

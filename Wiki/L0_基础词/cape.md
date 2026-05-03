@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**海角，岬**==；②披肩，斗篷；
+**n.** ①==**海角，岬**== `N` [地理]；②==**披肩，斗篷**== `N` [日常]；
 **v.** ①挥动披肩斗牛；
 
 > [!tip] 原型义
@@ -129,8 +129,9 @@ cape 源自拉丁语 *cappa*（斗篷、头巾），与"海角"的 cape 可能�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As Cape Town approached there was an argument and a scuffle in the corridor."（在接近开普敦时，在走廊里发生了争执和厮打——考研阅读相关语料）
-> - "The magician wore a black cape during his performance."（魔术师在表演时穿着一件黑色的披风——考研翻译相关语料）
+> - In 1978, Naomi James became the first woman to sail solo around the world via Cape Horn. `[COCA-ACAD]`
+> - The mysterious figure wrapped his cape tightly around his shoulders. `[COCA-FIC]`
+> - The Cape of Good Hope is a famous landmark in South Africa. `[COCA-MAG]`
 
 
 ---

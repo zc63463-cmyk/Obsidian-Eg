@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**纽扣，按钮**==；
-**v.** ①扣紧，系好（纽扣）；
+**n.** ①==**纽扣，按钮**== `press/push the button` `N's button`；
+**v.** ①==**扣紧，系好**== `button N` `button up`；
 
 > [!tip] 原型义
 > **原型义**：小圆扣（衣服上的扣子）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Just press the button and the machine will start automatically."（只需按下按钮，机器就会自动启动——考研常见表达）
-> - "She buttoned up her coat against the cold wind."（她扣好外套抵御寒风）
+> - He reached for the remote control and pressed the play button. `[COCA-NEWS]`
+> - Apps on our smartphones make services available at the push of a button. `[COCA-NEWS]`
+> - She buttoned the cardigan up to her neck and dug her hands into the pockets to try and keep warm. `[COCA-FICT]`
+> - Some can change their stripes at the push of a button, some can fold in half. `[COCA-NEWS]`
 
 
 ---

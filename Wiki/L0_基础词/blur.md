@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**模糊不清的事物**==；②==**污迹，模糊的记忆**==；
-**v.** ①==**（使）变模糊**==；②==**使模糊不清，使界限模糊**==；
+**n.** ①==**模糊不清的事物**== ``a blur of movement`` ``my memory is just a blur``；②==**污迹，模糊的记忆**== ``a blur of ink`` ``a blur of pain``；
+**v.** ①==**（使）变模糊**== ``tears blurred her vision`` ``everything blurred as she ran``；②==**使模糊不清，使界限模糊**== ``blur the distinction between`` ``blur the lines between``；
 
 > [!tip] 原型义
 > **原型义**：模糊，使模糊（中古英语 *blurren*，可能来自古英语 *blær*，"swelling, pimple"）
@@ -132,8 +132,10 @@ blur(模糊/使模糊，中古英语 *blurren*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rapid development of technology has blurred the lines between work and personal life."（技术的快速发展使得工作与个人生活之间的界限变得模糊。——考研英语阅读科技类话题，blur the lines 高频考点）
-> - "The distinction between public and private interests has become increasingly blurred in modern governance."（在现代治理中，公共利益与私人利益之间的区别变得越来越模糊。——考研英语阅读政治类话题）
+> - Out of the corner of my eye I saw a blur of movement on the other side of the glass. ``[Collins Corpus]``
+> - The next two weeks were a blur of no sleep. ``[Collins Corpus]``
+> - Her belief that scientists are trying to blur the distinction between "how" and "why" questions. ``[Collins Corpus]``
+> - The line between fact and fiction is becoming blurred. ``[Collins Corpus]``
 
 
 ---
