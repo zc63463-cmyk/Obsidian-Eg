@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**石油**==；
+**n.** ①==**石油**== `petroleum industry/petroleum products` [正式]；
 
 > [!tip] 原型义
 > **原型义**：岩石中的油（从地下岩石层中开采出来的未经精炼的矿物油）
@@ -121,8 +121,9 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + oleum(油，拉丁语)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And although you don't read about this much, the United States is also a large exporter of oil products, selling about 2 million barrels of **petroleum** products per day to about 90 countries."（尽管你不太读到这方面的报道，美国也是石油产品的大出口国，每天向约90个国家销售约200万桶石油产品。——考研相关语料）
-> - "In addition, other factors are putting downward pressure on oil prices: change in the strategic behavior of the Organization of **Petroleum** Exporting Countries, the projected increase in Iranian exports, the scaling-down of global demand."（此外，其他因素也在给油价施加下行压力：石油输出国组织战略行为的变化、伊朗出口预计增长、全球需求缩减。——考研相关语料）
+> - And although you don't read about this much, the United States is also a large exporter of oil products, selling about 2 million barrels of petroleum products per day to about 90 countries. `[真题]`
+> - In addition, other factors are putting downward pressure on oil prices: change in the strategic behavior of the Organization of Petroleum Exporting Countries, the projected increase in Iranian exports, the scaling-down of global demand. `[真题]`
+> - Nearly all oil and gas produced on the Norwegian shelf is exported, and combined, oil and gas exceeds half of the total value of Norwegian exports of goods. `[学术]`
 
 
 ---

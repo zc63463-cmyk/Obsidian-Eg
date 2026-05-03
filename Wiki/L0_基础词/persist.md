@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**坚持，执意**==；②==**持续，存留**==；
+**vi.** ①==**坚持，执意**== `persist in doing sth.; persist with` [通用]；②==**持续，存留**== `the pain persists; problems persist` [通用]；
 
 > [!tip] 原型义
 > **原型义**：始终站着（从头到尾一直站立不倒）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But as the work became more difficult, the students with a growth mind-set showed greater persistence."（但随着工作变得越来越困难，拥有成长型思维的学生表现出了更大的坚持性——2016年12月考研阅读）
-> - "Why does Britain persist in running down its defence forces?"（为什么英国要坚持削减其军事防御力量？——考研政治类阅读语料）
+> - But as the work became more difficult, the students with a growth mind-set showed greater persistence. `[真题]`
+> - If the pain persists, consult a doctor. `[语料库]`
+> - Despite this accumulation of evidence, the government persisted in doing nothing. `[语料库]`
+> - If symptoms persist, seek medical attention. `[语料库]`
 
 
 ---

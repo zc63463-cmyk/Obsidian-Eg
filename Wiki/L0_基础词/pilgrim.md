@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**朝圣者，香客**==；②（大写）清教徒前辈移民（1620年乘五月花号到达美洲的英国清教徒）；
+**n.** ①==**朝圣者，香客**== `pilgrims visiting Mecca/a holy pilgrim` [通用]；②==**清教徒前辈移民**== `the Pilgrim Fathers/the Pilgrims` [专有]；
 
 > [!tip] 原型义
 > **原型义**：远行朝圣之人（为宗教信仰而长途旅行前往圣地的人）
@@ -122,8 +122,9 @@ pilgrim(朝圣者，源自拉丁语 *peregrinus* "外来的，旅行的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Around two million pilgrims visit Mecca every year."（每年约有200万朝圣者前往麦加。——剑桥词典例句）
-> - "Their family goes back to the time of the Pilgrim Fathers."（他们家族的渊源可追溯到清教徒前辈移民时代。——语料库例句）
+> - Around two million pilgrims visit Mecca every year. `[词典]`
+> - Their family goes back to the time of the Pilgrim Fathers. `[语料库]`
+> - This is said to be the spiritual home for many Angolans, drawing over 2 million pilgrims every year. `[语料库]`
 
 
 ---

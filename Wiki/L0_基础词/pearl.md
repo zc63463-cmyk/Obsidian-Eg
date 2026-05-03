@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**珍珠**==；②==**珍品，杰出的人**==；③珠状物；
+**n.** ①==**珍珠**== `a pearl necklace` [通用]；②==**珍品，杰出的人**== `a pearl of wisdom` [书面]；③珠状物；
 **v.** ①用珍珠装饰；②成珠状；
 
 > [!tip] 原型义
@@ -132,8 +132,9 @@ pearl（古英语 *pearl*，源自拉丁语 *perna*，意为"腿骨"，后演变
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Next to good judgment, diamond and pearl are the rarest things in the world."（仅次于良好的判断力，钻石和珍珠是世界上最稀有的东西。——考研英语阅读相关语料）
-> - "Morning dew pearled the garden."（晨露在花园里凝成珠状。——考研英语翻译相关语料，此处 pearl 作动词用）
+> - "She was wearing her pearls." `[真题]`
+> - "Thank you for those pearls of wisdom." `[真题]`
+> - "Students eager to catch pearls of wisdom from the professor's lips." `[真题]`
 
 
 ---

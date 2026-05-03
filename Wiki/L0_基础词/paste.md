@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**糊状物，浆糊**==；②面团；
-**v.** ①==**粘贴**==；②涂抹；
+**n.** ①==**糊状物，浆糊**== `\toothpaste` [日常]；②面团；
+**v.** ①==**粘贴**== `\copy and paste` [IT] `\paste sth. on/onto` [日常]；②涂抹；
 
 > [!tip] 原型义
 > **原型义**：面团状的糊状物（源自希腊语 *pastē*，面团）
@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You have to do is just copy paste in your application."（你所要做的只是复制粘贴在你的应用程序中——Cambridge English Corpus）
-> - "We used paste to attach our designs to the poster."（我们用浆糊把我们设计的图案贴在海报上——Cambridge English Corpus）
+> - "You can copy and paste the text into a blank document before printing it out." `[Collins Corpus]`
+> - "She pasted the poster onto the wall using adhesive tape." `[Collins Corpus]`
+> - "The recipe calls for tomato paste to be added to the sauce." `[Content Authority]`
 
 
 ---

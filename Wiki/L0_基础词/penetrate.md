@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**穿透，渗入**==；②洞察，看透；③弥漫，扩散；
+**v.** ①==**穿透，渗入**== `penetrate the skin` [中性]；②==**洞察，看透**== `penetrate the mystery` [正式]；③==**弥漫，扩散**== `penetrate every area of life` [正式]；
 
 > [!tip] 原型义
 > **原型义**：穿透（从一端穿过到另一端）
@@ -136,8 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Technology is becoming bigger and more aspirational, and penetrating almost every aspect of our lives.（技术正变得越来越宏大、越来越令人向往，几乎渗透到了我们生活的方方面面。——考研英语阅读）
-> - The war penetrates every area of the nation's life.（战争渗透到国家生活的每个领域。——考研英语语料）
+> - Technology is becoming bigger and more aspirational, and penetrating almost every aspect of our lives. `[考研英语阅读]`
+> - The company has been successful in penetrating overseas markets this year. `[剑桥商务英语词典]`
+> - These fine particles penetrate deep into the lungs. `[牛津词典]`
 
 
 ---

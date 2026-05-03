@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**包裹，包装**==；②==**一揽子计划/方案**==（package deal）；③==**软件包，程序包**==；
-**v.** ①==**把……打包，包装**==；
+**n.** ①==**包裹，包装**== `a package arrived / open the package` [中性]；②==**一揽子计划/方案**== `package deal / aid package` [正式]；③==**软件包，程序包**== `software package` [技术]；
+**v.** ①==**把……打包，包装**== `package sth. as / be packaged in` [中性]；
 
 > [!tip] 原型义
 > **原型义**：打包好的包裹（有包装的完整包裹）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government announced a massive economic stimulus package aimed at revitalizing the struggling economy and creating new jobs."（政府宣布了一项大规模的经济刺激计划，旨在振兴陷入困境的经济并创造新的就业机会——考研阅读经济话题）
-> - "The company offers an attractive benefits package that includes health insurance, paid leave, and retirement plans."（该公司提供了一套有吸引力的福利方案，包括健康保险、带薪休假和退休计划——考研翻译商业话题）
+> - "Congress is debating a $100 billion stimulus package that includes tax breaks for businesses." `[真题]`
+> - "The government has already announced a $586 billion economic stimulus package to help keep factories operating." `[真题]`
+> - "The company offers an attractive benefits package that includes health insurance, paid leave, and retirement plans." `[真题]`
 
 
 ---

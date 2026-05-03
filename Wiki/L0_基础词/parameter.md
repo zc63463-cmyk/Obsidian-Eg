@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**参数，参量**==（数学、物理中的变量）；②==**界限，范围**==；③决定因素，特征；
+**n.** ①==**参数，参量**==（数学、物理中的变量）`set the parameters` `mathematical parameters` [正式]；②==**界限，范围**== `within certain parameters` `define the parameters` [正式]；③决定因素，特征；
 
 > [!tip] 原型义
 > **原型义**：旁边的度量（用来衡量或界定事物的标准或界限）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers defined the parameters of the study carefully before collecting data."（研究人员在收集数据之前仔细界定了研究的参数——考研阅读学术话题常见表达）
-> - "We need to work within the parameters set by the budget."（我们需要在预算设定的范围内工作——考研阅读商业话题相关表达）
+> - The researchers defined the parameters of the study carefully before collecting data. `[语料库]`
+> - We need to work within the parameters set by the budget. `[语料库]`
+> - The company owns 76 parcels of industrial land in 23 states, each governed by strict environmental parameters. `[外刊]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**暂停，停顿**==；②犹豫；
+**v.** ①==**暂停，停顿**== `pause for breath` [通用] `pause and reflect` [书面]；②犹豫；
 **n.** ①暂停，停顿；
 
 > [!tip] 原型义
@@ -140,8 +140,9 @@ paus(停止，希腊语 *pauein*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The vast bulk of the research shows that there may be a pause, or a shifting of gears in the 40s or 50s, but this shift can be exciting, rather than terrifying."（大量研究表明，在四五十岁时可能会有一个暂停或转变，但这种转变可能是令人兴奋的，而非令人恐惧的——2020年考研英语阅读）
-> - "At the same time, technological innovation will barely pause for breath, and two big political changes seem likely."（与此同时，技术创新几乎不会停歇，两个重大政治变革似乎即将到来——考研英语阅读）
+> - "He talked for two hours without pausing for breath." `[真题]`
+> - "After a pause Al said sharply: 'I'm sorry if I've upset you.'" `[真题]`
+> - "The vast bulk of the research shows that there may be a pause, or a shifting of gears in the 40s or 50s, but this shift can be exciting, rather than terrifying." `[真题]`
 
 
 ---

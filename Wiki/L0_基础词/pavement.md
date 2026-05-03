@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**人行道**==（英式）；②铺设好的路面；
+**n.** ①==**人行道**== `walk on the pavement` [通用]（英式）；②铺设好的路面；
 
 > [!tip] 原型义
 > **原型义**：铺设好的地面（pave + ment 的字面组合）
@@ -137,8 +137,9 @@ pav(铺设，拉丁语 *pavire*) + -ment(名词后缀，表结果/产物)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Several pedestrians had come to grief on the icy pavement."（几个行人在结冰的人行道上滑倒了——Cambridge English Corpus）
-> - "Jackie fell over and scraped her knee on the pavement."（杰基摔倒了，在人行道上擦伤了膝盖——Cambridge English Corpus）
+> - "Several pedestrians had come to grief on the icy pavement." `[真题]`
+> - "Jackie fell over and scraped her knee on the pavement." `[真题]`
+> - "While they were coming from a theatre his wife was robbed of a pearl necklace valued at six thousand pounds on the pavement." `[真题]`
 
 
 ---

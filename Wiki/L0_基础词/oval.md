@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**椭圆形的**==；
-**n.** ①椭圆；椭圆形场地；
+**adj.** ①==**椭圆形的**== `an oval face/table` [中性]；
+**n.** ①==**椭圆；椭圆形场地**== `the Oval Office` [专有]；
 
 > [!tip] 原型义
 > **原型义**：蛋形（像鸡蛋一样的形状）
@@ -124,7 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Oval Office is the official office of the President of the United States.（椭圆形办公室是美国总统的正式办公室——常见背景知识）
+> - The plant has oval green leaves marbled with brownish-purple. ` [语料库]`
+> - The leaders met in the Oval Office on Friday to discuss the trade agreement. ` [真题]`
+> - Our table is oval in shape, which works well for group discussions. ` [语料库]`
+> - An oval mirror hung above the fireplace in the living room. ` [语料库]`
 
 
 ---

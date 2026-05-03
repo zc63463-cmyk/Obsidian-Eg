@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可怜的，令人同情的**==；②==**差劲的，糟糕的**==；③悲伤的；
+**adj.** ①==**可怜的，令人同情的**== `\a pathetic sight` [情感]；②==**差劲的，糟糕的**== `\a pathetic excuse` [贬义] `\a pathetic attempt` [贬义]；③悲伤的；
 
 > [!tip] 原型义
 > **原型义**：引起感情的（源自希腊语 *pathētikos*，与 pathos"感情"相关）
@@ -139,8 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And Mr Trump's grasp of the technicalities was pathetic."（而特朗普对技术细节的掌握令人不敢恭维——《经济学人》2025年4月5日刊）
-> - "It was pathetic to watch her condition deteriorate."（看着她的健康状况日益恶化真是令人难过——Cambridge English Corpus）
+> - "And Mr Trump's grasp of the technicalities was pathetic." `[The Economist]`
+> - "It was pathetic to watch her condition deteriorate." `[Cambridge Corpus]`
+> - "She made a pathetic attempt to smile." `[Oxford Learners]`
 
 
 ---

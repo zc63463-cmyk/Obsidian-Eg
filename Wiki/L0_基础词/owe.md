@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**欠（钱、债）**==；②==**应该把……归功于**==；③欠（人情）；
+**v.** ①==**欠（钱、债）**== `owe sb. sth. / owe sth. to sb.` [中性]；②==**应该把……归功于**== `owe sth. to sb. / owe it to sb. to do sth.` [正式]；③==**欠（人情）**== `owe sb. a favor / owe sb. an apology` [中性]；
 
 > [!tip] 原型义
 > **原型义**：欠（应该归还的债务或恩情，源自古英语 *āgan* "拥有"，后演变为"欠"）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We owe the discovery of penicillin to Alexander Fleming's accidental observation."（我们把青霉素的发现归功于亚历山大·弗莱明的偶然观察——考研高频表达）
-> - "She owes the bank a considerable sum of money."（她欠银行一大笔钱）
+> - "I owe my brother $50." `[真题]`
+> - "He owed his survival to his strength as a swimmer." `[真题]`
+> - "I owe it to him to explain what's happened." `[真题]`
 
 
 ---

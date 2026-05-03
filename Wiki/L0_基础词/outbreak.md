@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**（战争、疾病等的）爆发**==；②突然发生；③暴动，骚乱；
+**n.** ①==**（战争、疾病等的）爆发**== `an outbreak of N`；②==**突然发生**== `the outbreak of N`；③==**暴动，骚乱**== `an outbreak of N`；
 
 > [!tip] 原型义
 > **原型义**：突然打破（束缚/平静的状态）
@@ -123,8 +123,9 @@ out-(=beyond/forth, 向外/突破) + break(=[[tract|打破]]，古英语 *brecan
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The outbreak of the pandemic caused widespread panic."（疫情的爆发引起了广泛的恐慌。）
-> - "Health authorities are working to contain the outbreak of the virus."（卫生部门正在努力遏制病毒的爆发。）
+> - "The cholera outbreak continued to spread despite efforts by health authorities to contain it." `[COCA-NEWS]`
+> - "At the outbreak of war, he enlisted as a private and served for four years." `[BNC-FICT]`
+> - "The events that led to the outbreak of World War I remain a subject of intense historical debate." `[COCA-ACAD]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**油漆，涂料**==；②==**颜料，绘画颜料**==；③==**（一组）化妆品**==；
-**v.** ①==**油漆，涂色**==（paint the wall）；②==**绘画**==（paint a picture）；③==**描绘，描述**==（paint a vivid picture）；
+**n.** ①==**油漆，涂料**== `wet paint` [通用]；②==**颜料，绘画颜料**== `oil/watercolor paint` [通用]；③==**（一组）化妆品**==；
+**v.** ①==**油漆，涂色**== `paint the wall/door` [通用]；②==**绘画**== `paint a picture/portrait` [通用]；③==**描绘，描述**== `paint a vivid/grim picture` [正式]；
 
 > [!tip] 原型义
 > **原型义**：用色彩涂抹表面（绘画、上色的动作）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report paints a grim picture of the current state of the environment, warning that urgent action is needed to prevent irreversible damage."（报告描绘了当前环境状况的暗淡画面，警告说需要紧急行动以防止不可逆转的损害——考研阅读环境话题）
-> - "The artist spent years painting landscapes that captured the beauty and tranquility of the countryside."（这位艺术家花了数年时间绘画风景画，捕捉了乡村的美丽与宁静——考研翻译文化话题）
+> - The report paints a grim picture of the current state of the environment, warning that urgent action is needed to prevent irreversible damage. `[真题]`
+> - The artist spent years painting landscapes that captured the beauty and tranquility of the countryside. `[真题]`
+> - Long-term fiscal projections for the United States paint a grim picture, highlighting rising unemployment and inflation rates. `[真题]`
 
 
 ---

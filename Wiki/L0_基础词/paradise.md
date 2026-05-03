@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**天堂，乐园**==；②==**极乐之地，福地**==；③（宗教）伊甸园，天国；
+**n.** ①==**天堂，乐园**== `a tropical paradise` `paradise on earth` [通用]；②==**极乐之地，福地**== `a shopper's paradise` `a paradise for` [通用]；③（宗教）伊甸园，天国；
 
 > [!tip] 原型义
 > **原型义**：围起来的花园（波斯王室用围墙围起来的美丽花园）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The island is a tropical paradise with white sandy beaches and crystal-clear water."（这座岛屿是一个热带天堂，拥有白色的沙滩和清澈的海水——考研阅读旅游/环境话题相关表达）
-> - "For many immigrants, America was seen as a paradise where they could start a new life."（对许多移民来说，美国被视为一个可以开始新生活的天堂——考研阅读社会话题相关表达）
+> - The island is a tropical paradise with white sandy beaches and crystal-clear water. `[语料库]`
+> - Visitors and locals alike see this stretch as a proverbial shopper's paradise. `[外刊]`
+> - Hawaii is a paradise for surfers. `[语料库]`
 
 
 ---

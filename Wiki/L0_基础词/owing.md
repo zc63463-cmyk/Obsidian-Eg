@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**欠着的，未付的**==；
-**prep.** ①==**由于，因为**==（与 to 连用：owing to）；
+**adj.** ①==**欠着的，未付的**== `amounts still owing / owing debts` [正式]；
+**prep.** ①==**由于，因为**== `owing to sth.` [正式]；
 
 > [!tip] 原型义
 > **原型义**：欠着的（尚未归还的，owe 的现在分词形式）
@@ -124,8 +124,9 @@ owe（欠）+ -ing(分词/形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Owing to the rapid development of technology, traditional industries are facing unprecedented challenges."（由于技术的快速发展，传统产业正面临前所未有的挑战——考研写作高频表达）
-> - "The flight was cancelled owing to severe weather conditions."（由于恶劣的天气条件，航班被取消了）
+> - "The flight was cancelled owing to severe weather conditions." `[真题]`
+> - "The match was postponed owing to the heavy rain." `[真题]`
+> - "A significant portion of the department is still closed owing to the fact that spending to reopen it hasn't been approved." `[真题]`
 
 
 ---

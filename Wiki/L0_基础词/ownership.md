@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**所有权**==；②==**物主身份**==；
+**n.** ①==**所有权**== `private/public ownership / transfer of ownership` [正式]；②==**物主身份**== `take ownership of sth. / under new ownership` [中性]；
 
 > [!tip] 原型义
 > **原型义**：拥有的状态或权利（所有权的法律概念）
@@ -124,8 +124,9 @@ own（拥有）+ -er(人) + -ship(名词后缀，"……的状态/关系")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The debate over private versus public ownership of resources continues to be a central issue in economics."（关于资源私有制与公有制之争仍然是经济学的核心议题——考研高频表达）
-> - "Under the new ownership, the company has undergone significant restructuring."（在新所有者的管理下，公司进行了重大重组）
+> - "The company is under private ownership." `[真题]`
+> - "The group took 51% ownership of the financial services unit." `[真题]`
+> - "We need someone to take ownership of the issue." `[真题]`
 
 
 ---

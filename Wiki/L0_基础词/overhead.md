@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**在头顶上方**==；②在空中；
+**adv.** ①==**在头顶上方**== `birds flying overhead` [中性]；②在空中；
 **adj.** ①上面的，高架的；
-**n.** ①==**经常性开支，日常管理费用**==；
+**n.** ①==**经常性开支，日常管理费用**== `overhead costs/expenses` [商业]；
 
 > [!tip] 原型义
 > **原型义**：在头顶上方（物理空间上位于头顶之上）
@@ -129,7 +129,10 @@ over-(在…上方) + head(头)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Companies are trying to reduce overhead costs to stay competitive."（企业正试图降低日常管理费用以保持竞争力——考研经济类常见表达）
+> - Companies are trying to reduce overhead costs to stay competitive in the market. ` [真题]`
+> - Their offices are in central London so the overheads are very high. ` [语料库]`
+> - One way of increasing profit margins is to cut overhead costs. ` [真题]`
+> - Birds flew overhead, heading south for the winter. ` [语料库]`
 
 
 ---

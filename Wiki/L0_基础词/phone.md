@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**电话，手机**==；②听筒；**v.** ①打电话；
+**n.** ①==**电话，手机**== `phone call/mobile phone` [通用]；②==**听筒**== `pick up the phone` [通用]；**v.** ①==**打电话**== `phone sb./phone in` [口语]；
 
 > [!tip] 原型义
 > **原型义**：远处的声音（通过电信号传递远距离声音的工具）
@@ -128,8 +128,9 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Mr Jobs was said by an engineer in the early years of Apple to emit a 'reality distortion field', such were his powers of **persuasion** that he could convince anyone of almost anything, even on the **phone**."（据说在苹果公司早期，一位工程师说乔布斯会发出一种"现实扭曲场"，他的说服力如此之强，甚至通过电话也能让任何人相信任何事情。——四级真题）
-> - "The **phone** rings and a voice says, 'You have been selected for a special offer.'"（电话响了，一个声音说："您已被选中参加特别优惠。"——语料库例句）
+> - Mr Jobs was said by an engineer in the early years of Apple to emit a "reality distortion field", such were his powers of persuasion that he could convince anyone of almost anything, even on the phone. `[真题]`
+> - The phone rings and a voice says, "You have been selected for a special offer." `[语料库]`
+> - We talk on the phone every day. `[词典]`
 
 
 ---

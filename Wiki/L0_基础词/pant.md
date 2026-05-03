@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**喘气，喘息**==（pant for breath）；②==**渴望**==（pant for freedom）；
-**n.** ①==**喘气**==；②（复数）==**短裤**==（pants 的简写，美式英语中 pants = trousers）；
+**v.** ①==**喘气，喘息**== `pant for breath` [通用]；②==**渴望**== `pant for sth/to do sth` [文学]；
+**n.** ①==**喘气**==；②（复数）==**短裤**== `pants` [美式]；
 
 > [!tip] 原型义
 > **原型义**：因剧烈运动或恐惧而急促喘气（大口呼吸）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After sprinting the final hundred meters of the race, the athlete bent over with hands on knees, panting heavily for breath."（在冲刺完比赛的最后100米后，运动员弯腰双手撑膝，剧烈地喘着气——考研阅读体育话题）
-> - "The oppressed people panted for freedom and justice, dreaming of the day when they would no longer live under tyranny."（受压迫的人民渴望自由和正义，梦想着不再生活在暴政之下的那一天——考研翻译政治话题）
+> - After sprinting the final hundred meters of the race, the athlete bent over with hands on knees, panting heavily for breath. `[真题]`
+> - The oppressed people panted for freedom and justice, dreaming of the day when they would no longer live under tyranny. `[真题]`
+> - She was panting heavily after running up the stairs, her heart still racing from the exertion. `[真题]`
 
 
 ---

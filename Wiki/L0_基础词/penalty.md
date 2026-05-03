@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**处罚，罚款**==；②罚球，点球；③不利后果，损失；
+**n.** ①==**处罚，罚款**== `pay a penalty` [正式]；②==**罚球，点球**== `a penalty kick` [中性]；③==**不利后果，损失**== `a penalty for being late` [中性]；
 
 > [!tip] 原型义
 > **原型义**：惩罚（因违规而受到的处罚）
@@ -137,8 +137,9 @@ pen-(惩罚，拉丁语 *poena* 罚金/惩罚) + -alty(名词后缀，表示状�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties.（研究发现，在被起诉的公司中，有着最全面企业社会责任方案的公司往往会得到更宽松的处罚。——2016年考研英语阅读）
-> - Especially for women, there is a clear penalty at work for being overweight or obese.（尤其是对女性来说，在工作中，超重或肥胖会受到明显的惩罚。——2020年9月六级阅读）
+> - The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties. `[2016年考研英语阅读]`
+> - Especially for women, there is a clear penalty at work for being overweight or obese. `[2020年9月六级阅读]`
+> - The penalty for murder is life imprisonment. `[剑桥词典]`
 
 
 ---

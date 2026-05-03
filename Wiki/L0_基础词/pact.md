@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**契约，条约，协定**==（国家或政党之间的正式协议）；
+**n.** ①==**契约，条约，协定**== `sign a pact / a pact between / trade pact` [正式]；
 
 > [!tip] 原型义
 > **原型义**：固定在一起的约定（把双方绑定的协议）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two nations signed a historic trade pact that is expected to significantly boost bilateral economic cooperation."（两国签署了一项历史性的贸易协定，预计将显著促进双边经济合作——考研阅读国际关系话题）
-> - "The military pact between the two countries has raised concerns among neighboring nations about regional security."（两国之间的军事协定引起了邻国对地区安全的担忧——考研翻译政治话题）
+> - "A mutual defence pact was signed, along with a trade and development pact." `[真题]`
+> - "Mexico is in its fourth month of negotiations on a free-trade pact with the US." `[真题]`
+> - "The two opposition parties cannot agree on an electoral pact between themselves." `[真题]`
 
 
 ---

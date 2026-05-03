@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**段落，节**==；②==**通道，走廊**==；③==**通过，经过**==；④（时间的）流逝；
+**n.** ①==**段落，节**== `\a passage from/of` [学术]；②==**通道，走廊**== `\a narrow passage` [空间]；③==**通过，经过**== `\the passage of` [正式]；④（时间的）流逝 `\the passage of time` [书面]；
 
 > [!tip] 原型义
 > **原型义**：通过（从一个地方到另一个地方的动作）
@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hot spots and their volcanic trails are milestones that mark the passage of the plates."（热点及其火山轨迹是标记板块运动的里程碑。——1998年考研英语阅读Text 5）
-> - "The American economic system is organized around a basically private-enterprise, market-oriented economy."（美国经济体系基本上是围绕私有企业和市场经济组织的。——1994年考研英语阅读Passage 1）
+> - "The hot spots and their volcanic trails are milestones that mark the passage of the plates." `[真题]`
+> - "He read out a short passage from the Bible." `[Collins Corpus]`
+> - "It called on all warring sides to allow the passage of aid deliveries to civilians." `[The Guardian]`
 
 
 ---

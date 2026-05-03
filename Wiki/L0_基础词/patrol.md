@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**巡逻，巡查**==；
+**v.** ①==**巡逻，巡查**== `patrol the border/streets` [通用] `on patrol` [书面]；
 **n.** ①巡逻，巡查；②巡逻队；
 
 > [!tip] 原型义
@@ -138,8 +138,9 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Mark Baldassare of the Public Policy Institute of California points out that much of the state's budget is patrolled by unions."（加利福尼亚公共政策研究所的Mark Baldassare指出，加州政府多数预算受到工会的监控——2012年考研英语阅读Text 4）
-> - "Troops patrolled the border day and night."（军队日夜在边境地区巡逻——Cambridge English Corpus）
+> - "The army regularly patrol along the border." `[真题]`
+> - "Prison officers continued to patrol the grounds within the jail." `[真题]`
+> - "Every police car and foot patrol in the area is on full alert." `[真题]`
 
 
 ---

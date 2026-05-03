@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**山顶，山峰**==；②==**最高点，顶峰**==；③（帽子的）帽檐；
-**adj.** ①==**高峰的，最大值的**==；
-**v.** ①==**达到顶峰**==；②消瘦，憔悴；
+**n.** ①==**山顶，山峰**== `mountain peak` [通用]；②==**最高点，顶峰**== `reach a peak` [通用] `at the peak of` [书面]；③（帽子的）帽檐；
+**adj.** ①==**高峰的，最大值的**== `peak hours/season` [通用]；
+**v.** ①==**达到顶峰**== `Sales peaked in July.` [通用]；②消瘦，憔悴；
 
 > [!tip] 原型义
 > **原型义**：山顶，最高点（向上延伸的尽头，无法再高的位置）
@@ -140,8 +140,9 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Not long ago, with the country entering a recessing and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of primary cause of the poor U.S. economic performance."（不久前，美国经济进入衰退期，而日本经济正处在泡沫破裂前的繁荣顶峰，人们嘲讽美国的劳动力受教育程度低，并将其视为美国经济表现不佳的主要原因之一。——2009年考研英语Text 3）
-> - "At its peak around AD 600, this city was one of the largest human settlements in the world."（该城在公元600年左右的鼎盛时期，是世界上最大的人类聚居地之一。——2014年考研英语新题型）
+> - "Not long ago, with the country entering a recessing and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of primary cause of the poor U.S. economic performance." `[真题]`
+> - "At its peak around AD 600, this city was one of the largest human settlements in the world." `[真题]`
+> - "Traffic congestion is significantly worse during peak hours." `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**爱国的，有爱国心的**==；
+**adj.** ①==**爱国的，有爱国心的**== `patriotic songs/duty` [通用] `fiercely patriotic` [书面]；
 
 > [!tip] 原型义
 > **原型义**：热爱祖国的（源自希腊语 *patriōtēs*，同胞/祖国之子）
@@ -139,8 +139,9 @@ patri(父亲/祖国，希腊语 *patēr*) + -otic(形容词后缀，……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The crowd sang 'Land of Hope and Glory' and other patriotic songs."（人群高唱《希望和光荣之地》等爱国歌曲——Cambridge English Corpus）
-> - "Now they were fiercely proud of their nationhood, passionately patriotic."（现在，他们都为有了自己的国家而骄傲，他们有炽热的爱国心——Cambridge English Corpus）
+> - "At the heart of their slow and often frustrating work is a quest for justice and a sense of patriotic duty." `[真题]`
+> - "History is being quoted and patriotic songs revived." `[真题]`
+> - "Woosnam was fiercely patriotic." `[真题]`
 
 
 ---

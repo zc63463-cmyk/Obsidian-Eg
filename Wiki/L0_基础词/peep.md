@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**窥视，偷看**==；②隐现，微现；③（使）发出吱吱声；
-**n.** ①一瞥，偷看；②吱吱声，啾啾声；
+**v.** ①==**窥视，偷看**== `peep through the keyhole` [中性]；②==**隐现，微现**== `the sun peeped through the clouds` [文学]；③==**（使）发出吱吱声**== `not a peep` [口语]；
+**n.** ①==**一瞥，偷看**== `have a peep at` [中性]；②吱吱声，啾啾声；
 
 > [!tip] 原型义
 > **原型义**：偷看（从缝隙中小心窥视）
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Stars peep through those dark clouds.（星星从那些乌云中隐约可见。——柯林斯词典）
-> - I got a quick peep at him through the crowd.（我从人群中匆匆瞥了他一眼。——剑桥语料）
+> - I saw her peeping through the curtains into the room. `[剑桥词典]`
+> - We peeped through a crack in the fence and saw Mrs Finley talking to a strange-looking man. `[朗文词典]`
+> - Stars peep through those dark clouds. `[柯林斯词典]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**消遣，娱乐**==；
+**n.** ①==**消遣，娱乐**== `\a favourite pastime` [日常] `\a national pastime` [文化]；
 
 > [!tip] 原型义
 > **原型义**：打发时间的方式（pass + time 的字面组合）
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well."（如今，互联网已经将购买书籍和发送邮件等日常消遣方式彻底改变，同时也在重塑多诺万的职业——2003年考研英语阅读Text 1）
-> - "His favourite pastime is golf."（他最喜欢的消遣是打高尔夫——Cambridge English Corpus）
+> - "These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well." `[真题]`
+> - "Hockey is Canada's national pastime." `[Cambridge Corpus]`
+> - "Gardening is my mother's favourite pastime." `[LDOCE Corpus]`
 
 
 ---

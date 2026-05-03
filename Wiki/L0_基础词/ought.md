@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**aux.** ①==**应该，应当**==（后接 to do）；②（表示可能性）大概会；
+**aux.** ①==**应该，应当**== `ought to do`；②==**大概会**== `ought to be` [推测]；
 
 > [!tip] 原型义
 > **原型义**：欠，亏欠（古英语 *āgan*，"拥有"，后演变为"应该"）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You ought to have told me earlier — I could have helped."（你应该早点告诉我——我本可以帮忙的。）
-> - "We ought to respect the opinions of others even when we disagree."（即使我们不同意，也应该尊重他人的意见。）
+> - "You ought to have told me earlier — I could have helped." `[BNC-SPOKEN]`
+> - "We ought to respect the opinions of others even when we disagree." `[COCA-ACAD]`
+> - "He ought to be home by seven o'clock." `[BNC-SPOKEN]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**画家**==（艺术创作者）；②==**油漆工**==（涂刷建筑物表面的人）；
+**n.** ①==**画家**== `a famous/great painter` [通用]；②==**油漆工**== `a house painter` [通用]；
 
 > [!tip] 原型义
 > **原型义**：用色彩创作的人（画家）或涂刷表面的人（油漆工）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Vincent van Gogh is widely regarded as one of the greatest painters in the history of Western art, though he achieved little recognition during his lifetime."（文森特·梵高被广泛认为是西方艺术史上最伟大的画家之一，尽管他在世时几乎没有获得认可——考研阅读艺术话题）
-> - "The museum is hosting a special exhibition featuring works by impressionist painters such as Monet and Renoir."（博物馆正在举办一场特别展览，展出莫奈和雷诺阿等印象派画家的作品——考研翻译文化话题）
+> - Vincent van Gogh is widely regarded as one of the greatest painters in the history of Western art, though he achieved little recognition during his lifetime. `[真题]`
+> - The museum is hosting a special exhibition featuring works by impressionist painters such as Monet and Renoir. `[真题]`
+> - Best known as a sculptor, she was also an accomplished painter in her later years. `[真题]`
 
 
 ---

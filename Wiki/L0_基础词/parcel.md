@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**包裹，小包**==；②一块（土地）；③一部分，一份；
-**v.** ①==**分配，分摊**==；②打包；
+**n.** ①==**包裹，小包**== `a parcel of` `parcel post` [通用]；②一块（土地）；③一部分，一份；
+**v.** ①==**分配，分摊**== `parcel out` `parcel out the work` [通用]；②打包；
 
 > [!tip] 原型义
 > **原型义**：小部分（整体中分出的一小块）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company bought a parcel of land on the outskirts of the city for its new factory."（公司在城市郊区买了一块地用于建设新工厂——考研阅读商业话题相关表达）
-> - "The work was parceled out among several teams."（工作被分配给了几个团队——考研阅读管理话题相关表达）
+> - The company bought a parcel of land on the outskirts of the city for its new factory. `[语料库]`
+> - The work was parceled out among several teams. `[语料库]`
+> - HTV is redeveloping a 21-acre parcel of land close to its studios. `[外刊]`
 
 
 ---

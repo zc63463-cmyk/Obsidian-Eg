@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**药丸，药片**==；②口服避孕药；**v.** ①（衣服）起球；
+**n.** ①==**药丸，药片**== `take a pill/sleeping pill` [通用]；②==**口服避孕药**== `on the pill/the pill` [特指]；**v.** ①==**（衣服）起球**== `the sweater is pilling` [通用]；
 
 > [!tip] 原型义
 > **原型义**：小药丸（球形或椭圆形的小颗粒药物）
@@ -127,8 +127,9 @@ pill(药丸，源自拉丁语 *pilula* "小球")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I couldn't go to sleep so I took a sleeping **pill**."（我睡不着所以吃了一片安眠药。——语料库例句）
-> - "Doctors said that those imported small white **pills** can treat severe depression."（医生说那些进口的白色小药片能治疗严重的抑郁症。——语料库例句）
+> - I couldn't go to sleep so I took a sleeping pill. `[语料库]`
+> - She had been on the pill for three years. `[语料库]`
+> - Take one pill three times a day, unless you are told otherwise by a doctor. `[词典]`
 
 
 ---

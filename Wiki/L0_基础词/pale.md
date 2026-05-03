@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**苍白的，灰白的**==（pale face, pale skin）；②==**浅色的，淡的**==（pale blue）；③==**暗淡的，微弱的**==（pale light）；
-**v.** ①==**变得苍白**==（pale at the thought）；②==**显得逊色**==（pale by comparison）；
-**n.** ①==**栅栏**==（古义，保留在 beyond the pale 中）；
+**adj.** ①==**苍白的，灰白的**== `pale face/skin` [通用]；②==**浅色的，淡的**== `pale blue/green` [通用]；③==**暗淡的，微弱的**== `pale light` [文学]；
+**v.** ①==**变得苍白**== `turn/go pale` [通用]；②==**显得逊色**== `pale by comparison` [正式]；
+**n.** ①==**栅栏**== `beyond the pale` [固定搭配]；
 
 > [!tip] 原型义
 > **原型义**：失去血色的皮肤（苍白、没有颜色）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her face turned pale when she heard the devastating news about the earthquake that had struck her hometown."（当她听到家乡遭受地震的毁灭性消息时，她的脸色变得苍白——考研阅读新闻话题）
-> - "The company's recent performance pales by comparison with its achievements in the previous decade."（该公司近期的表现与过去十年的成就相比相形见绌——考研翻译商业话题）
+> - Her face turned pale when she heard the devastating news about the earthquake that had struck her hometown. `[真题]`
+> - The company's recent performance pales by comparison with its achievements in the previous decade. `[真题]`
+> - Despite the grim picture, experts urge patience and caution against hasty judgments. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**臭氧**==；②==**（尤指海边的）清新空气**==；
+**n.** ①==**臭氧**== `ozone layer / ozone depletion` [科学]；②==**（尤指海边的）清新空气**== `the smell of ozone` [文学]；
 
 > [!tip] 原型义
 > **原型义**：有气味的空气（源自希腊语 *ozein* "散发气味"，臭氧因其特殊气味而得名）
@@ -118,8 +118,9 @@ ozon-(=ozein, 散发气味，希腊语 *ozein*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The depletion of the ozone layer has led to increased ultraviolet radiation reaching the Earth's surface."（臭氧层的破坏导致到达地球表面的紫外线辐射增加——考研阅读高频话题）
-> - "International agreements such as the Montreal Protocol have been effective in reducing ozone-depleting substances."（蒙特利尔议定书等国际协议在减少消耗臭氧层物质方面卓有成效）
+> - "The depletion of the ozone layer has also contributed to higher winds." `[真题]`
+> - "When these chemicals reach the stratosphere they help to destroy the ozone layer." `[真题]`
+> - "Scientists discovered a hole in the ozone layer above Antarctica." `[真题]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**短桨，划桨**==（皮划艇用的短桨）；②==**蹚水**==（paddle in the stream）；
-**v.** ①==**用桨划船**==；②==**蹚水，戏水**==；③==**打屁股**==（用板子打）；
+**n.** ①==**短桨，划桨**== `kayak paddle / canoe paddle` [中性]；②==**蹚水**== `paddle in the stream` [中性]；
+**v.** ①==**用桨划船**== `paddle a canoe / paddle a kayak` [中性]；②==**蹚水，戏水**== `paddle in the water / go paddling` [中性]；③==**打屁股**== `paddle sb.` [非正式]；
 
 > [!tip] 原型义
 > **原型义**：小型扁平的划水工具（短桨）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The children spent the afternoon paddling in the shallow stream, laughing and splashing water at each other."（孩子们整个下午都在浅溪里蹚水嬉戏，笑着互相泼水——考研阅读描写类表达）
-> - "She paddled her kayak across the calm lake, enjoying the peaceful scenery of the surrounding mountains."（她划着皮划艇穿过平静的湖面，享受着周围群山的宁静景色——考研翻译描写类表达）
+> - "He paddled the canoe along the river." `[真题]`
+> - "The children went paddling in the sea." `[真题]`
+> - "Next morning they paddled off in kayaks, hugging the coast along a sheer rock face." `[真题]`
 
 
 ---

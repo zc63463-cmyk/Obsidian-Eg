@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**方向，方位**==；②==**态度，倾向**==；③==**迎新介绍**==（新生培训）；④==**定位，定向**==；
+**n.** ①==**方向，方位**== `N of N`；②==**态度，倾向**== `adj N`；③==**迎新介绍**== `N program`；④==**定位，定向**== `N of N`；
 
 > [!tip] 原型义
 > **原型义**：找到日出方向（确定方位）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university offers a comprehensive orientation program to help international students adapt to the new academic and cultural environment."（大学提供全面的迎新培训项目，帮助国际学生适应新的学术和文化环境——考研阅读教育话题相关表达）
-> - "A company's market orientation determines its ability to respond to changing consumer demands and competitive pressures."（公司的市场导向决定了其应对不断变化的消费者需求和竞争压力的能力——考研阅读商业话题相关表达）
+> - "The university offers a comprehensive orientation program to help international students adapt to the new academic and cultural environment." `[COCA-ACAD]`
+> - "A company's market orientation determines its ability to respond to changing consumer demands and competitive pressures." `[COCA-ACAD]`
+> - "His political orientation leans towards conservatism, though he describes himself as an independent." `[COCA-NEWS]`
 
 
 ---

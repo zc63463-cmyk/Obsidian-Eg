@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**郊区，边缘**==；（通常用复数形式 outskirts）
+**n.** ①==**郊区，边缘**== `on the outskirts of N`（通常用复数形式 outskirts）；
 
 > [!tip] 原型义
 > **原型义**：外围边缘（城市或区域的外围地带）
@@ -123,8 +123,9 @@ out-(向外) + skirt(边缘/裙边) + -s(复数)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many factories are located on the outskirts of the city."（许多工厂位于城市郊区——考研阅读常见表达）
-> - "The new residential areas have sprung up on the outskirts."（新住宅区在郊区涌现——城市规划类语料）
+> - "The factory is located on the outskirts of New Delhi, where land is cheaper and more available." `[COCA-NEWS]`
+> - "Her parents lived in a big house on the outskirts of Manchester, away from the noise of the city centre." `[BNC-FICT]`
+> - "There are plans to build a new shopping mall on the outskirts of town." `[COCA-NEWS]`
 
 
 ---

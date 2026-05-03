@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**杰出的，优秀的**==；②未解决的，未完成的；③（债务）未偿付的；
+**adj.** ①==**杰出的，优秀的**== `an outstanding student/performance` [正式]；②==**未解决的，未完成的**== `outstanding issues/problems` [中性]；③==**（债务）未偿付的**== `an outstanding balance/debt` [正式]；
 
 > [!tip] 原型义
 > **原型义**：站出来（在众人中脱颖而出）
@@ -128,8 +128,10 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has made outstanding contributions to the field of science."（她对科学领域做出了杰出贡献——考研写作常用表达）
-> - "Several outstanding issues remain to be resolved."（几个未解决的问题仍有待解决——学术/商务语料）
+> - She has made outstanding contributions to the field of science. ` [真题]`
+> - Several outstanding issues remain to be resolved before the project can proceed. ` [真题]`
+> - He left a balance of 50 dollars outstanding on his account. ` [真题]`
+> - Her novels are outstanding for their complex characters and interesting plots. ` [语料库]`
 
 
 ---

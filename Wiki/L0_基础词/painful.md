@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**疼痛的，痛苦的**==（a painful injury）；②==**令人痛苦的，困难的**==（a painful decision）；
+**adj.** ①==**疼痛的，痛苦的**== `a painful injury/headache` [通用]；②==**令人痛苦的，困难的**== `a painful decision/process` [通用]；
 
 > [!tip] 原型义
 > **原型义**：充满痛苦的（惩罚带来的强烈感受）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company had to make the painful decision to lay off thousands of employees in order to survive the economic crisis."（公司不得不做出艰难的决定，裁减数千名员工以度过经济危机——考研阅读商业话题）
-> - "It was a painful process for the nation to come to terms with its dark history of colonialism and racial injustice."（对这个国家来说，正视其殖民主义和种族不公正的黑暗历史是一个痛苦的过程——考研翻译历史话题）
+> - The company had to make the painful decision to lay off thousands of employees in order to survive the economic crisis. `[真题]`
+> - It was a painful process for the nation to come to terms with its dark history of colonialism and racial injustice. `[真题]`
+> - They have taken the painful decision to withhold food aid where there is blatant politicisation. `[真题]`
 
 
 ---

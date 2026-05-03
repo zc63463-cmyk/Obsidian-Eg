@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**迫害，虐待**==；②纠缠，骚扰；
+**vt.** ①==**迫害，虐待**== `persecute sb for religious beliefs; be persecuted` [正式]；②==**纠缠，骚扰**== `persecuted by the press` [通用]；
 
 > [!tip] 原型义
 > **原型义**：追赶并施加伤害（系统性地迫害某人）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They came to America after being persecuted for their religious beliefs."（他们因宗教信仰受到迫害后来到美国——考研历史类阅读语料）
-> - "Religious minorities were persecuted and massacred during the ten-year regime."（在长达十年的独裁统治期间，宗教信仰上的少数派遭到了迫害和屠杀——考研政治类阅读语料）
+> - They came to America after being persecuted for their religious beliefs. `[真题]`
+> - For three years after DNA evidence proved his innocence, the authorities persisted in persecuting him. `[语料库]`
+> - His latest film is about the experience of being persecuted for being gay. `[语料库]`
+> - Ever since the news broke about her divorce, she has been persecuted by the tabloid press. `[语料库]`
 
 
 ---

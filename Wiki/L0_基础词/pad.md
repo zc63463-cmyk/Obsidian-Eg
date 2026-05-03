@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**垫子，护垫**==（shoulder pad, knee pad）；②==**便签本，拍纸簿**==（notepad）；③==**（动物的）肉垫**==（猫的爪垫）；④==**发射台，停机坪**==（launch pad）；
-**v.** ①==**填塞，垫**==（pad with cotton）；②==**虚报，夸大**==（pad expenses）；③==**蹑手蹑脚地走**==（pad along）；
+**n.** ①==**垫子，护垫**== `shoulder pad / knee pad / mouse pad` [中性]；②==**便签本，拍纸簿**== `notepad / writing pad` [中性]；③==**（动物的）肉垫**==；④==**发射台，停机坪**== `launch pad / helicopter pad` [技术]；
+**v.** ①==**填塞，垫**== `pad sth. with sth.` [中性]；②==**虚报，夸大**== `pad the bill / pad expenses` [贬义]；③==**蹑手蹑脚地走**== `pad along / pad across` [文学]；
 
 > [!tip] 原型义
 > **原型义**：填充了柔软材料的垫子（用来缓冲或保护）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was accused of padding its expense reports to claim reimbursement for costs that were never actually incurred."（该公司被指控虚报费用报告，以获取从未实际发生的费用的报销——考研阅读商业话题）
-> - "The space agency successfully launched the satellite from the newly constructed launch pad at the coastal facility."（航天局从沿海基地新建的发射台成功发射了卫星——考研翻译科技话题）
+> - "The company was accused of padding its expense reports to claim reimbursement for costs that were never actually incurred." `[真题]`
+> - "The space agency successfully launched the satellite from the newly constructed launch pad at the coastal facility." `[真题]`
+> - "He took a map and a bottle of water out of his pack." `[真题]`
 
 
 ---

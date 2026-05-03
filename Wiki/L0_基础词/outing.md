@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**短途出游，远足**==；②（体育比赛中的）出场；
+**n.** ①==**短途出游，远足**== `a N` / `go on an N`；②==**（体育比赛中的）出场**== `N for N`；
 
 > [!tip] 原型义
 > **原型义**：出去（从室内到室外的短途活动）
@@ -124,7 +124,9 @@ out-(向外) + -ing(名词后缀，表示动作的结果/事件)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无考研真题高频关联，属于低频词，多见于日常生活类阅读材料
+> - "Every year the professor takes her students on an outing to the archives of the Library of Congress." `[COCA-ACAD]`
+> - "One evening, she made a rare outing to the local discotheque with her friends." `[BNC-FICT]`
+> - "The afternoon outing in the sunshine went some way to restoring my morale." `[BNC-FICT]`
 
 
 ---

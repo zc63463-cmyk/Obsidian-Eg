@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**人，人们**==；②==**民族，种族**==；③（the ~）平民，百姓；④家人，亲属
-**v.** ①居住于，.populate
+**n.** ①==**人，人们**== `many people` [中性]；②==**民族，种族**== `the English people` [正式]；③==**（the ~）平民，百姓**== `power to the people` [正式]；④家人，亲属
+**v.** ①==**居住于**== `a densely peopled area` [正式]
 
 > [!tip] 原型义
 > **原型义**：民族（共享同一血脉和土地的人群）
@@ -133,8 +133,9 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people believe that technology will eventually solve our environmental problems."（许多人认为技术最终将解决我们的环境问题。——考研英语一2019阅读）
-> - "The government of the people, by the people, for the people, shall not perish from the earth."（民有、民治、民享的政府将永世长存。——林肯葛底斯堡演说，考研高频引用）
+> - Many people believe that technology will eventually solve our environmental problems. `[考研英语一2019阅读]`
+> - The government of the people, by the people, for the people, shall not perish from the earth. `[林肯葛底斯堡演说]`
+> - In a government of the people, by the people, and for the people, the public cannot allow their vital role in the rulemaking process to be silenced. `[Slate]`
 
 
 ---

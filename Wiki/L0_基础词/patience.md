@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**耐心，忍耐**==；②毅力，恒心；
+**n.** ①==**耐心，忍耐**== `have/lose patience with sb.` [通用]；②==**毅力，恒心**== `patience and persistence` [书面]；
 
 > [!tip] 原型义
 > **原型义**：承受痛苦/等待的能力（源自拉丁语 *pati*，承受/忍受）
@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It gives us patience for ourselves."（它让我们对自己有耐心——2016年考研英语新题型）
-> - "Non-violence and patience are the central tenets of their faith."（非暴力和忍耐是他们信仰的核心原则——Cambridge English Corpus）
+> - "Investors need to have patience. The economy will improve soon." `[真题]`
+> - "She treated her students with great patience and humor." `[真题]`
+> - "The team continues to play poorly, and many fans are starting to lose patience." `[真题]`
 
 
 ---

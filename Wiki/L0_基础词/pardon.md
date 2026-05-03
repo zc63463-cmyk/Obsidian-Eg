@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**原谅，宽恕**==；②==**赦免**==（法律上的免除刑罚）；
+**n.** ①==**原谅，宽恕**== `\beg sb.'s pardon` [正式] `\grant a pardon to sb.` [法律]；②==**赦免**==（法律上的免除刑罚） `\pardon sb. for sth.` [法律]；
 **v.** ①原谅，宽恕；②赦免；
-**int.** ①（用于礼貌地请求重复）==**请再说一遍**==；
+**int.** ①（用于礼貌地请求重复）==**请再说一遍**== `\I beg your pardon?` [礼貌用语]；
 
 > [!tip] 原型义
 > **原型义**：完全给予（全心全意地给予宽恕）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president granted a pardon to the convicted man before leaving office."（总统在离任前赦免了这名被定罪的男子——考研阅读政治/法律话题相关表达）
-> - "Pardon me for interrupting, but I have an urgent message."（请原谅我打断一下，我有一条紧急消息——考研翻译常见表达）
+> - "The president granted a pardon to the convicted man before leaving office." `[真题]`
+> - "Pardon me for interrupting, but I have an urgent message." `[真题]`
+> - "I beg your pardon, but I believe you are mistaken." `[Cambridge Corpus]`
 
 
 ---

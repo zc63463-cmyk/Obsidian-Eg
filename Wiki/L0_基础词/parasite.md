@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**寄生虫**==（生物学）；②==**寄生者，食客**==（靠他人为生的人）；
+**n.** ①==**寄生虫**==（生物学）`intestinal parasites` `a parasite on` [正式]；②==**寄生者，食客**==（靠他人为生的人）`a social parasite` `live as a parasite` [正式]；
 
 > [!tip] 原型义
 > **原型义**：旁边吃饭的人（在别人桌旁蹭饭的人）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tapeworm is a parasite that lives in the human intestine."（绦虫是一种生活在人体肠道中的寄生虫——考研阅读医学/生物话题相关表达）
-> - "He was regarded as a parasite who lived off his wealthy relatives."（他被视为一个靠富亲戚养活的寄生虫——考研阅读社会话题相关表达）
+> - The tapeworm is a parasite that lives in the human intestine. `[语料库]`
+> - He was regarded as a parasite who lived off his wealthy relatives. `[语料库]`
+> - The company was described as a parasite feeding on public funds without contributing anything of value. `[外刊]`
 
 
 ---

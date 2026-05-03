@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**轻拍，抚摸**==；
-**n.** ①轻拍；②一小块（黄油等）；
+**v.** ①==**轻拍，抚摸**== `\pat sb. on the back/head` [日常]；
+**n.** ①轻拍；②一小块（黄油等） `\a pat of butter` [日常]；
 
 > [!tip] 原型义
 > **原型义**：轻轻拍打（拟声词，模仿轻拍的声音）
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He gave the dog a pat on the head."（他轻轻拍了拍狗的头——Cambridge English Corpus）
-> - "She patted her hair to make sure it was neat."（她轻轻拍了拍头发，确认头发整齐——Cambridge English Corpus）
+> - "He deserves a pat on the back for all his hard work." `[Oxford Learners]`
+> - "She patted her hair to make sure it was neat." `[Cambridge Corpus]`
+> - "Serve with a pat of butter and a sprinkle of flaky salt." `[Southern Living]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**纸，纸张**==；②报纸；③论文，文章；④文件，证件；
+**n.** ①==**纸，纸张**== `a piece of paper` `on paper` [通用]；②报纸；③论文，文章；④文件，证件；
 **v.** ①用纸糊；②提交（论文等）；
 **adj.** ①纸做的；②名义上的（仅存在于纸面上的）；
 
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers have published a paper in the journal Nature."（研究人员在《自然》杂志上发表了一篇论文——考研阅读学术话题常见表达）
-> - "On paper, the plan looks perfect, but in practice it has many flaws."（从纸面上看，这个计划完美无缺，但在实践中却有许多缺陷——考研翻译常见句式）
+> - He wrote his name down on a piece of paper and handed it to the receptionist. `[真题]`
+> - The researchers have published a paper in the journal Nature. `[外刊]`
+> - On paper, the plan looks perfect, but in practice it has many flaws. `[真题]`
 
 
 ---

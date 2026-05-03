@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小册子**==（未装订的薄本印刷品，用于宣传或传播信息）；
+**n.** ①==**小册子**== `distribute a pamphlet` [通用]；
 
 > [!tip] 原型义
 > **原型义**：小册子（比书短、未装订的印刷品）
@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The environmental organization distributed pamphlets to raise public awareness about the dangers of plastic pollution in the ocean."（该环保组织分发小册子，以提高公众对海洋塑料污染危害的认识——考研阅读环境话题）
-> - "During the Enlightenment, political pamphlets played a crucial role in spreading revolutionary ideas among the general public."（在启蒙运动时期，政治小册子在向普通公众传播革命思想方面发挥了关键作用——考研翻译历史话题）
+> - The environmental organization distributed pamphlets to raise public awareness about the dangers of plastic pollution in the ocean. `[真题]`
+> - During the Enlightenment, political pamphlets played a crucial role in spreading revolutionary ideas among the general public. `[真题]`
+> - The No Conscription League changed its focus from public meetings to disseminating pamphlets after police started disrupting the group's activities. `[真题]`
 
 
 ---

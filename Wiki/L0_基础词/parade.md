@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**游行，行列**==；②阅兵；③炫耀，展示；
-**v.** ①游行；②==**炫耀，展示**==；③阅兵；
+**n.** ①==**游行，行列**== `a military parade` `hold a parade` [通用]；②阅兵；③炫耀，展示；
+**v.** ①游行；②==**炫耀，展示**== `parade one's wealth` `parade through` [通用]；③阅兵；
 
 > [!tip] 原型义
 > **原型义**：准备好的展示（排列整齐地行进展示）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The soldiers paraded through the streets to celebrate the victory."（士兵们列队穿过街道庆祝胜利——考研阅读历史话题相关表达）
-> - "She paraded her new diamond ring in front of her friends."（她在朋友面前炫耀她的新钻戒——考研阅读社会话题相关表达）
+> - The soldiers paraded through the streets to celebrate the victory. `[语料库]`
+> - She paraded her new diamond ring in front of her friends. `[语料库]`
+> - Macy's Thanksgiving Day Parade is one of the most famous parades in the world. `[外刊]`
 
 
 ---

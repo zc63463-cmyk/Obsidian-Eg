@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**手掌**==（手的内侧平坦部分）；②==**棕榈树**==（热带植物）；
-**v.** ①==**把……藏在手心**==（palm a coin）；②==**（用欺骗手段）塞给**==（palm off）；
+**n.** ①==**手掌**== `palm of the hand` [通用]；②==**棕榈树**== `palm tree/oil` [通用]；
+**v.** ①==**把……藏在手心**== `palm a coin/card` [非正式]；②==**（用欺骗手段）塞给**== `palm sth off on sb` [非正式]；
 
 > [!tip] 原型义
 > **原型义**：手掌的平坦内面（手指根部到手腕之间的区域）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tropical island was covered with lush palm trees that swayed gently in the warm ocean breeze."（这座热带岛屿覆盖着茂密的棕榈树，在温暖的海风中轻轻摇曳——考研阅读描写类表达）
-> - "Some unscrupulous traders attempted to palm off counterfeit goods to unsuspecting tourists at the local market."（一些不法商贩试图在当地市场上把假冒商品骗卖给毫无防备的游客——考研翻译商业话题）
+> - The tropical island was covered with lush palm trees that swayed gently in the warm ocean breeze. `[真题]`
+> - Some unscrupulous traders attempted to palm off counterfeit goods to unsuspecting tourists at the local market. `[真题]`
+> - In 2023, the European Union enacted the EU Deforestation Regulation, preventing commodities linked with deforestation, including palm oil, from entering its market. `[真题]`
 
 
 ---

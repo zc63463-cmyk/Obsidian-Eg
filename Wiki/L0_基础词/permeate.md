@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**渗透，弥漫**==；②==**散布，遍布**==；③渗入，透过
+**v.** ①==**渗透，弥漫**== `the smell permeated the room; water permeates the soil` [通用]；②==**散布，遍布**== `new ideas permeate society` [正式]；③==**渗入，透过**== `permeate through the roof` [通用]
 
 > [!tip] 原型义
 > **原型义**：完全通过（贯穿渗透）
@@ -127,8 +127,10 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The idea that education should permeate every aspect of life has gained wide acceptance."（教育应渗透到生活每个方面的理念已获得广泛认同。——考研英语一2017翻译）
-> - "A sense of optimism permeated the entire community after the successful reform."（改革成功后，一种乐观情绪弥漫了整个社区。——考研英语写作常用表达）
+> - Dissatisfaction with the government seems to have permeated every section of society. `[语料库]`
+> - A foul smell of stale beer permeated the whole building. `[语料库]`
+> - The smell of baking bread permeated the kitchen. `[语料库]`
+> - A feeling of anxiety permeated the office as we rushed to meet the deadline. `[语料库]`
 
 
 ---

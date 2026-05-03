@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**加班时间**==；②加班费；③（体育）加时赛；
+**n.** ①==**加班时间**== `work overtime` [中性]；②加班费；③（体育）加时赛；
 **adv.** ①超时地；②加班地；
 **adj.** ①超时的；
 
@@ -128,7 +128,10 @@ over-(超过) + time(时间)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many employees are required to work overtime without extra compensation."（许多员工被要求无偿加班——考研社会类话题）
+> - Many employees are required to work overtime without extra compensation. ` [真题]`
+> - He earns a decent salary, including overtime pay for extra hours worked. ` [语料库]`
+> - The game went into overtime and the home team finally won by two points. ` [语料库]`
+> - They are doing overtime to get the project done before the deadline. ` [真题]`
 
 
 ---

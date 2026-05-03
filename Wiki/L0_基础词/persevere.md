@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**坚持不懈，锲而不舍**==；
+**vi.** ①==**坚持不懈，锲而不舍**== `persevere in/with sth; persevere despite setbacks` [正式]；
 
 > [!tip] 原型义
 > **原型义**：始终严格站立（在困难面前始终站稳）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite a number of setbacks, they persevered in their attempts to fly around the world in a balloon."（虽屡遭挫折，他们仍不断尝试乘气球环游世界——考研阅读常见句式）
-> - "She persevered with her violin lessons."（她孜孜不倦地学习小提琴——考研文学类阅读语料）
+> - Despite a number of setbacks, they persevered in their attempts to fly around the world in a balloon. `[真题]`
+> - She persevered with her violin lessons despite the difficulties. `[语料库]`
+> - He persevered with his task until he had succeeded in collecting an armful of firewood. `[语料库]`
+> - Despite receiving little support, the women are persevering with their crusade to fight crime. `[语料库]`
 
 
 ---

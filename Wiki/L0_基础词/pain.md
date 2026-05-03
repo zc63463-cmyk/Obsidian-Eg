@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**疼痛，痛苦**==（physical/mental pain）；②==**（复数）辛苦，努力**==（take pains）；③==**烦恼，苦恼**==；
-**v.** ①==**使痛苦**==；②==**使烦恼**==；
+**n.** ①==**疼痛，痛苦**== `physical/mental pain` [通用]；②==**（复数）辛苦，努力**== `take pains to do sth` [正式]；③==**烦恼，苦恼**==；
+**v.** ①==**使痛苦**== `pain sb` [文学]；②==**使烦恼**==；
 
 > [!tip] 原型义
 > **原型义**：惩罚、报应（做错事后的代价→身体的痛苦）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers took great pains to ensure that their experimental design was rigorous and their data collection methods were reliable."（研究人员煞费苦心地确保他们的实验设计严谨，数据收集方法可靠——考研阅读学术话题）
-> - "Chronic pain affects millions of people worldwide and is one of the most common reasons patients seek medical attention."（慢性疼痛影响着全球数百万人，是患者就医的最常见原因之一——考研翻译医学话题）
+> - The researchers took great pains to ensure that their experimental design was rigorous and their data collection methods were reliable. `[真题]`
+> - Chronic pain affects millions of people worldwide and is one of the most common reasons patients seek medical attention. `[真题]`
+> - American military commanders insist they take pains to ensure that civilians are spared, often verifying their targets with several sources of information. `[真题]`
 
 
 ---
