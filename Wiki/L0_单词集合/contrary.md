@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**相反的，对立的**==；②好斗的，乖戾的；
-**n.** ①==**相反，反面**==；②对立面；
-**adv.** ①相反地（on the contrary）；
+**adj.** ①==**相反的，对立的**== `adj to N` `adj N`；②==**好斗的，乖戾的**== `adj N`；
+**n.** ①==**相反，反面**== `on the contrary` `to the contrary`；②==**对立面**==；
+**adv.** ①==**相反地**== `on the contrary`；
 
 > [!tip] 原型义
 > **原型义**：相反的方向，对立面（contra-反 + -ary 形容词后缀 → 处于对立面）
@@ -138,8 +138,9 @@ contra-(反，对立) + -ary(形容词后缀，表示"与……有关的") = con
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Contrary to popular belief, many cats dislike milk."（与人们普遍认为的相反，许多猫不喜欢牛奶。）——考研高频表达
-> - "Contrary to expectations, the experiment yielded surprising results."（与预期相反，实验得出了令人惊讶的结果。）——考研高频表达
+> - Contrary to popular belief, many cats dislike milk. `[COCA-ACAD]`
+> - Contrary to expectations, the experiment yielded surprising results. `[COCA-ACAD]`
+> - On the contrary, I think the proposal has considerable merit. `[例]`
 
 ---
 

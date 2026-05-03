@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**授予，赋予**==（权力、荣誉等） ;
-**vi.** ①==**商议，讨论**== ;
+**vt.** ①==**授予，赋予**== `V N on sb.` ;
+**vi.** ①==**商议，讨论**== `confer with sb. on/about sth.` ;
 
 > [!tip] 原型义
 > **原型义**：一起带来，把东西带到一起
@@ -133,8 +133,9 @@ con-(一起) + [[fer]](带来、承受) = confer（一起带来 → 商议/授�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university conferred an honorary degree on the distinguished scientist."（大学授予这位杰出科学家荣誉学位。）——考研高频表达
-> - "The manager conferred with her team before making the final decision."（经理在做最终决定前与团队进行了商议。）——考研高频表达
+> - The university conferred an honorary degree on the distinguished scientist. `[真题]`
+> - The manager conferred with her team before making the final decision. `[真题]`
+> - The constitution confers certain rights upon all citizens. `[COCA-ACAD]`
 
 ---
 

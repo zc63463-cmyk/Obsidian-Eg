@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**概念，观念**== ; ②==**构想，设想**== ; ③基本原理，核心思想 ;
+**n.** ①==**概念，观念**== `the N of N` ; ②==**构想，设想**== `a N in N` ; ③基本原理，核心思想 ;
 
 > [!tip] 原型义
 > **原型义**：在脑中抓住的东西，被思维"抓取"到的抽象认知
@@ -134,8 +134,9 @@ con-(一起/加强) + [[cap|cept/ceiv]](拿取、抓住) = concept（在脑中�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The concept of sustainable development has gained widespread acceptance in recent decades."（可持续发展的概念在近几十年得到了广泛认可。）——考研高频表达
-> - "It is important to distinguish between the concept of equality and the concept of equity."（区分平等的概念和公平的概念很重要。）——考研高频表达
+> - "The concept of sustainable development has gained widespread acceptance in recent decades." `[COCA-ACAD]`
+> - "It is important to distinguish between the concept of equality and the concept of equity." `[例]`
+> - "The core concept of the theory is that all living organisms share a common ancestor." `[例]`
 
 ---
 

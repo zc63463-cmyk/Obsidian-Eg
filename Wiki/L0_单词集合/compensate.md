@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**补偿，弥补**==；②报酬，付报酬；③抵消，弥补（缺陷等）；
+**v.** ①==**补偿，弥补**== `V N` `V for N`；②==**报酬，付报酬**== `V N for N`；③==**抵消，弥补（缺陷等）**== `V for N`；
 
 > [!tip] 原型义
 > **原型义**：补偿、称重平衡（使天平恢复平衡）
@@ -122,7 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government introduced a new scheme to compensate farmers for the damage caused by the flood.（政府推出了一项新计划，以补偿农民因洪水造成的损失。）
+> - The government introduced a new scheme to compensate farmers for the damage caused by the flood. `[COCA-NEWS]`
+> - Nothing can compensate for the loss of a loved one. `[COCA-MAG]`
+> - The company compensated the employees for their overtime work. `[例]`
 
 ---
 

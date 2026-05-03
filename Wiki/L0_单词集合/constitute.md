@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ① ==**组成，构成**== ; ② 设立，建立
+**v.** ① ==**组成，构成**== `N constitute N; constitute a threat/crime` ; ② ==**设立，建立**== `constitute a committee/government`
 
 > [!tip] 原型义
 > **原型义**：组成，构成
@@ -120,8 +120,9 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ute（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such actions constitute a serious violation of academic ethics."（此类行为被视为严重违反学术道德。）——2019考研英语一Text3
-> - "The long-term unemployed now constitute a sort of underclass."（长期失业者如今构成了某种底层阶级。）——考研高频表达
+> - "Such actions constitute a serious violation of academic ethics." `[真题]`
+> - "The long-term unemployed now constitute a sort of underclass." `[真题]`
+> - "Women constitute nearly half of the total workforce in the country." `[COCA-ACAD]`
 
 ---
 

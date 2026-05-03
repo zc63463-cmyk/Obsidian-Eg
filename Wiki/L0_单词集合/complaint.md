@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**抱怨；投诉**==；②投诉信；控告；③疾病；不适；
+**n.** ①==**抱怨；投诉**== `N about N`；②==**投诉信；控告**== `N`；③==**疾病；不适**== `N`；
 
 > [!tip] 原型义
 > **原型义**：悲叹的表达——不满情绪的语言输出
@@ -126,8 +126,9 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company received numerous complaints about the delayed delivery.（公司收到了大量关于延迟交货的投诉。）
-> - His main complaint was that the hotel did not match the description online.（他主要抱怨的是酒店与网上描述不符。）
+> - The company received numerous complaints about the delayed delivery. `[COCA-NEWS]`
+> - His main complaint was that the hotel did not match the description online. `[COCA-MAG]`
+> - Back pain is a common complaint among office workers. `[COCA-ACAD]`
 
 ---
 

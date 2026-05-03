@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**结果，后果**== ; ②==**重要性，重大意义**== ;
+**n.** ①==**结果，后果**== `as a N` `suffer the Ns` ; ②==**重要性，重大意义**== `of N` `of little/no N` ;
 
 > [!tip] 原型义
 > **原型义**：跟随而来的结果（一件事紧随另一件事发生）
@@ -128,8 +128,9 @@ con-(共同，一起) + sequ/secut(跟随) + -ence(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some of these causes are completely reasonable results of social needs. Others are reasonable consequences of particular advances in science being to some extent self-accelerating."（其中一些原因完全是社会需求的合理结果。另一些原因则是科学某些特定进步在某种程度上自我加速的合理后果。）——1996年翻译
-> - "They were playing with a gun as if it were a matter of no consequence."（他们玩着枪支，好像那玩意儿无关紧要。）——考研高频表达
+> - "Some of these causes are completely reasonable results of social needs. Others are reasonable consequences of particular advances in science being to some extent self-accelerating." `[真题]`
+> - "They were playing with a gun as if it were a matter of no consequence." `[真题]`
+> - "The new policy will have far-reaching consequences for the entire education system." `[COCA-ACAD]`
 ---
 
 

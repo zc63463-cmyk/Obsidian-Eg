@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**妥协，折中**== ; ②==**损害，危及**==（名誉、原则等） ;
+**n.** ①==**妥协，折中**== `reach a N` ; ②==**损害，危及**== `N of N`（名誉、原则等） ;
 **v.** ①妥协，折中 ; ②损害，危及 ; ③违背（原则） ;
 
 > [!tip] 原型义
@@ -130,9 +130,9 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Party unity is threatened when members will not compromise on key issues."（当成员不愿在关键问题上妥协时，党的团结就会受到威胁。）——考研高频表达
-> - "They often compromise by having just one child due to financial pressures."（由于经济压力，他们常常妥协只生一个孩子。）——考研高频表达
-> - "The two sides finally reached a compromise after weeks of negotiation."（经过数周的谈判，双方终于达成了妥协。）——考研高频表达
+> - "Party unity is threatened when members will not compromise on key issues." `[例]`
+> - "They often compromise by having just one child due to financial pressures." `[例]`
+> - "The two sides finally reached a compromise after weeks of negotiation." `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**传达，表达（思想、感情等）**== ; ②==**运送，传送**== ; ③转让（财产、权利）
+**v.** ①==**传达，表达（思想、感情等）**== `V N (to N); V that-clause` ; ②==**运送，传送**== `V N (from N to N)` ; ③==**转让（财产、权利）**== `V N (to N)`
 
 > [!tip] 原型义
 > **原型义**：一起搬运、运送
@@ -124,8 +124,9 @@ con-(共同、一起) + vey-(=viare/vehere，运送、道路) → 运送
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Television is one of the means by which these feelings are created and conveyed—and perhaps never before has it served so much to connect different peoples and nations as in the recent events in Europe."（电视是产生和传递这些感受的手段之一——在欧洲近来发生的事件中，它把不同的民族和国家连到一起，其作用之大，前所未有——2005年考研翻译）
-> - "Words cannot convey how grateful I am for your help."（言语无法表达我对你的帮助有多么感激——考研高频表达）
+> - Television is one of the means by which these feelings are created and conveyed—and perhaps never before has it served so much to connect different peoples and nations as in the recent events in Europe. `` `[真题]` ``
+> - Words cannot convey how grateful I am for your help. `` `[COCA]` ``
+> - The pipeline conveys natural gas from the field to the processing plant. `` `[例]` ``
 
 
 ---

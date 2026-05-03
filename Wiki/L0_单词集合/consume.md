@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**消耗，耗费**== ; ②==**消费，吃/喝**== ; ③==**使全神贯注，充满**== ;
+**v.** ①==**消耗，耗费**== `consume N; consume energy/resources/time` ; ②==**消费，吃/喝**== `consume N` ; ③==**使全神贯注，充满**== `be consumed by/with N` ;
 
 > [!tip] 原型义
 > **原型义**：完全取走、消耗殆尽（源自拉丁语 consumere "完全取走"）
@@ -135,8 +135,9 @@ con-(完全，彻底) + sume/sumpt(拿，取)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The electricity industry consumes large amounts of fossil fuels."（电力工业消耗大量的化石燃料。）——考研高频表达
-> - "Classically, overweight people underestimate the volume of food that they consume."（一般来说，超重的人往往低估自己摄入食物的量。）——考研高频表达
+> - "The electricity industry consumes large amounts of fossil fuels." `[真题]`
+> - "Classically, overweight people underestimate the volume of food that they consume." `[真题]`
+> - "She was consumed with guilt after making the terrible mistake." `[COCA-ACAD]`
 ---
 
 

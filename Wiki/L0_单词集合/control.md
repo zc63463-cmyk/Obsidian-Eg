@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**控制，管理**== ; ②==**控制力，影响力**== ; ③控制装置
-**v.** ①==**控制，支配**== ; ②==**控制，抑制（情绪等）**==
+**n.** ①==**控制，管理**== `have/keep N over N` `under N`；②==**控制力，影响力**== `lose N of N`；③==**控制装置**== `N panel` `remote N`；
+**v.** ①==**控制，支配**== `V N` `V N over N`；②==**控制，抑制（情绪等）**== `V N` `V oneself`；
 
 > [!tip] 原型义
 > **原型义**：对照核查、掌控
@@ -127,9 +127,9 @@ con-(共同) + [[tract|trol]](=rotulus，小滚轮/登记册) → 对照登记�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The stationmasters thus retained manual control over this pool of reservations whilst supporting automation of the larger set of reservations."（站长们因此保留了对这批预订的手动控制权，同时支持对更大一批预订的自动化处理——考研高频表达）
-> - "The government should exercise tighter control over the financial sector."（政府应该对金融部门实行更严格的控制——考研高频表达）
-
+> - The stationmasters thus retained manual control over this pool of reservations whilst supporting automation of the larger set of reservations. `[真题]`
+> - The government should exercise tighter control over the financial sector. `[COCA-ACAD]`
+> - The fire quickly got out of control and spread to neighboring buildings. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①构成，组成 ; ==**②作文，作品**== ; ③成分，构成方式 ;
+**n.** ①构成，组成 `N of N` ; ==**②作文，作品**== `write a N` ; ③成分，构成方式 `N of N` ;
 
 > [!tip] 原型义
 > **原型义**：构成，组成（各部分组合在一起的方式或结果）
@@ -123,8 +123,9 @@ com-(共同，一起) + [[pon/pos]](放置) + -ition(名词后缀，表示动作
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The composition of the committee reflects the diversity of the student body."（委员会的组成反映了学生群体的多样性。）——考研高频表达
-> - "Scientists analyzed the chemical composition of the water sample."（科学家分析了水样的化学成分。）——考研高频表达
+> - The composition of the committee reflects the diversity of the student body. `[COCA-ACAD]`
+> - Scientists analyzed the chemical composition of the water sample. `[COCA-ACAD]`
+> - Students were asked to write a composition on environmental protection. `[例]`
 
 ---
 

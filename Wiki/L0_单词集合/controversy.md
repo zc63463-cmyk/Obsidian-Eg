@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**争论，争议**== ;
+**n.** ①==**争论，争议**== `a controversy over/about N` `cause/spark N`；
 
 > [!tip] 原型义
 > **原型义**：转向对立、争论
@@ -121,9 +121,9 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -y(名
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The President resigned amid considerable controversy."（总统在一片争论声中辞职——考研高频表达）
-> - "Federal policy is necessarily involved in the technology vs. genius dispute."（联邦政策必然涉及技术与天才之争——1994年考研阅读）
-
+> - Federal policy is necessarily involved in the technology vs. genius dispute. `[真题]`
+> - The President resigned amid considerable controversy. `[COCA-ACAD]`
+> - The new law has sparked controversy among civil rights groups. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**习俗，惯例**== ; ②==**大会，会议**== ; ③公约，协议
+**n.** ①==**习俗，惯例**== `social N` `by N`；②==**大会，会议**== `hold a N` `attend a N`；③==**公约，协议**== `an international N`；
 
 > [!tip] 原型义
 > **原型义**：共同来到一起的事件、惯例
@@ -128,9 +128,9 @@ con-(共同、一起) + vent-(=venire，来) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents."（BIO最近召开了一次会议，其中包括就专利领域的变化对律师进行指导——2012年考研Text 3）
-> - "It takes more than a brief encounter on a bus to distinguish between courteous convention and individual interest."（要区分礼貌的惯例和个人兴趣，需要的不仅仅是在公交车上的短暂相遇——1997年考研阅读）
-
+> - The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents. `[真题]`
+> - It takes more than a brief encounter on a bus to distinguish between courteous convention and individual interest. `[真题]`
+> - By convention, the bride wears white at the wedding ceremony. `[COCA-ACAD]`
 
 ---
 

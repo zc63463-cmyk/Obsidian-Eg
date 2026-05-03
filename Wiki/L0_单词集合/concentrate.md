@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**集中（注意力），全神贯注**== ; ②==**集中，聚集**==（资源/力量） ; ③浓缩 ;
+**v.** ①==**集中（注意力），全神贯注**== `V on N` ; ②==**集中，聚集**== `V N on N`（资源/力量） ; ③浓缩 ;
 **n.** ①浓缩物，浓缩液 ;
 
 > [!tip] 原型义
@@ -134,9 +134,9 @@ con-(一起) + centr(中心) + -ate(动词后缀) = concentrate（聚到中心�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students should concentrate on understanding the fundamental principles rather than memorizing facts."（学生应专注于理解基本原理，而非死记硬背事实。）——考研高频表达
-> - "The government has decided to concentrate its resources on improving public education."（政府决定将资源集中于改善公共教育。）——考研高频表达
-> - "It is difficult to concentrate in a noisy environment."（在嘈杂的环境中很难集中注意力。）——考研高频表达
+> - "Students should concentrate on understanding the fundamental principles rather than memorizing facts." `[例]`
+> - "The government has decided to concentrate its resources on improving public education." `[例]`
+> - "It is difficult to concentrate in a noisy environment." `[例]`
 
 ---
 

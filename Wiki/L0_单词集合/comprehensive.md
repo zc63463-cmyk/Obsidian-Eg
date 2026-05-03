@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**全面的，综合的**== ; ②==**有理解力的**==（人） ;
+**adj.** ①==**全面的，综合的**== `adj N` ; ②==**有理解力的**== `be adj`（人） ;
 
 > [!tip] 原型义
 > **原型义**：完全抓住的、无所不包的
@@ -127,8 +127,9 @@ com-(完全/一起) + [[hens|hens]](抓住) + -ive(形容词后缀，有...倾�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has proposed a comprehensive reform of the healthcare system."（政府提出了对医疗体系的全面改革方案。）——考研高频表达
-> - "A comprehensive review of the literature reveals that the findings are largely consistent."（对文献的全面回顾表明，研究结果大体一致。）——考研高频表达
+> - "The government has proposed a comprehensive reform of the healthcare system." `[例]`
+> - "A comprehensive review of the literature reveals that the findings are largely consistent." `[例]`
+> - "The report provides a comprehensive analysis of the factors contributing to climate change." `[COCA-ACAD]`
 ---
 
 

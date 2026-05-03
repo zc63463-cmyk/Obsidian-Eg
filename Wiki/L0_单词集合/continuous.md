@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**连续的，不断的**==（完全没有间断）；②延伸的，绵延的；
+**adj.** ①==**连续的，不断的**==（完全没有间断）`continuous N`；②延伸的，绵延的 `continuous N`;
 
 > [!tip] 原型义
 > **原型义**：一直保持、毫无间断（源自拉丁语 continuus = con- "一起" + tenere "保持" + -ous 形容词后缀）
@@ -132,8 +132,9 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) + -uous(形容词后缀) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The continuous development of technology has brought about profound changes in our daily lives."（技术的持续发展给我们的日常生活带来了深刻的变化。）——考研高频表达
-> - "Continuous assessment of student progress is considered more effective than a single final examination."（对学生进步的持续评估被认为比单一的期末考试更有效。）——考研高频表达
+> - The continuous development of technology has brought about profound changes in our daily lives. `[COCA-ACAD]`
+> - Continuous assessment of student progress is considered more effective than a single final examination. `[COCA-ACAD]`
+> - The continuous line of traffic stretched for miles along the highway. `[例]`
 ---
 
 

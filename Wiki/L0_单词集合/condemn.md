@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**谴责，强烈指责**== ; ②==**判刑，定罪**== ; ③==**宣告...不适用/危险**==（建筑等） ;
+**vt.** ①==**谴责，强烈指责**== `V N` ; ②==**判刑，定罪**== `V N to N` ; ③==**宣告...不适用/危险**== `V N as adj`（建筑等） ;
 
 > [!tip] 原型义
 > **原型义**：一起判定有罪、宣告有罪
@@ -124,8 +124,9 @@ con-(一起/共同) + [[dens|dens/demn]](宣告/判定) → 一起判定有罪
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The international community strongly condemned the act of terrorism."（国际社会强烈谴责了这一恐怖主义行为。）——考研高频表达
-> - "The building was condemned as unsafe and ordered to be demolished."（这座建筑被判定为不安全并被命令拆除。）——考研高频表达
+> - "The international community strongly condemned the act of terrorism." `[COCA-ACAD]`
+> - "The building was condemned as unsafe and ordered to be demolished." `[例]`
+> - "The government condemned the use of excessive force by the police during the protest." `[例]`
 
 ---
 

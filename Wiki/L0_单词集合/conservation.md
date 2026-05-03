@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保护，保存**== ; ②==**节约，节约使用**== ; ③==**守恒（物理）**== ;
+**n.** ①==**保护，保存**== `N of N` ; ②==**节约，节约使用**== `energy N` ; ③==**守恒（物理）**== `N of energy` ;
 
 > [!tip] 原型义
 > **原型义**：保持、保存不被破坏（使某物保持原有状态）
@@ -131,8 +131,9 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption."（节约能源、改用其他燃料以及能源密集型重工业重要性的下降，都减少了石油消费。）——2002年阅读Text3
-> - "We tend to look on nature conservation as some kind of favour that human beings are granting to the natural world."（我们往往把自然保护看作是人类给予自然界的一种恩惠。）——考研高频表达
+> - "Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption." `[真题]`
+> - "We tend to look on nature conservation as some kind of favour that human beings are granting to the natural world." `[真题]`
+> - "The conservation of endangered species has become a global priority for governments and NGOs alike." `[COCA-ACAD]`
 ---
 
 

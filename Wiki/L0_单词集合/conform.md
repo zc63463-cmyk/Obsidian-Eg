@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**遵守，顺从**==（规则/标准）；②符合，一致（with）；③顺应，适应（社会规范）；
+**v.** ①==**遵守，顺从**==（规则/标准） `V to N` ; ②==**符合，一致**==（with） `V to/with N` ; ③==**顺应，适应**==（社会规范） `V to N` ;
 
 > [!tip] 原型义
 > **原型义**：共同塑造形状（源自拉丁语 conformare = con- + formare "共同塑造"）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students are often pressured to conform to social norms rather than express their individuality."（学生常常被迫遵从社会规范，而不是表达自己的个性。）——考研高频表达
-> - "The building does not conform to the safety standards set by the local government."（这栋建筑不符合当地政府制定的安全标准。）——考研高频表达
+> - Students are often pressured to conform to social norms rather than express their individuality. `[COCA-ACAD]`
+> - The building does not conform to the safety standards set by the local government. `[COCA-ACAD]`
+> - All products must conform to the safety standards set by the government. `[例]`
 ---
 
 

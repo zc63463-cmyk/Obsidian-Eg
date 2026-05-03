@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**会议，讨论会**== ; ②==**研讨会，协商会**== ;
+**n.** ①==**会议，讨论会**== `N` ; ②==**研讨会，协商会**== `N` ;
 
 > [!tip] 原型义
 > **原型义**：一起带来意见的场合，人们把想法带到一起交流的地方
@@ -129,9 +129,9 @@ con-(一起) + [[fer]](带来) + -ence(名词后缀) = conference（把意见带
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She will attend an international conference on education next month."（她下月将参加一个教育方面的国际会议。）——考研高频表达
-> - "The president held a press conference to address the growing public concern."（总统召开新闻发布会以回应日益增长的公众关切。）——考研高频表达
-> - "The conference brought together leading scholars from around the world."（这次会议汇集了来自世界各地的顶尖学者。）——考研高频表达
+> - She will attend an international conference on education next month. `[真题]`
+> - The president held a press conference to address the growing public concern. `[真题]`
+> - The conference brought together leading scholars from around the world. `[真题]`
 
 ---
 

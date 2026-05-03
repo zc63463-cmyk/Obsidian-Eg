@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**竞争；对抗**==；②参加比赛；
+**vi.** ①==**竞争；对抗**== `V with/against N for N`；②==**参加比赛**== `V in N`；
 
 > [!tip] 原型义
 > **原型义**：共同追求（同一目标）
@@ -127,8 +127,9 @@ com-(共同) + pet(追求、寻求) + e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two universities are competing for top students.（这两所大学正在争夺优秀生源。）
-> - To compete in the global market, firms must innovate constantly.（要在全球市场竞争，企业必须不断创新。）
+> - The two universities are competing for top students. `[COCA-ACAD]`
+> - To compete in the global market, firms must innovate constantly. `[COCA-ACAD]`
+> - Small shops can't compete on price alone. `[例]`
 
 ---
 

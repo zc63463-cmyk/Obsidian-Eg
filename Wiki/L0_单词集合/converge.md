@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**汇聚，集中**== ; ②==**趋同，趋于一致**==
+**v.** ①==**汇聚，集中**== `V on/upon N; V towards N` ; ②==**趋同，趋于一致**== `V with N; V towards N`
 
 > [!tip] 原型义
 > **原型义**：共同转向一个方向
@@ -122,8 +122,9 @@ con-(共同、一起) + [[ver-vert|verge]](=vertere，转) → 共同转向一�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Studies of brain activation bring converging evidence on reading processes and provide neuroanatomical correlates of reading problems."（大脑激活研究为阅读过程提供了趋同的证据，并为阅读问题提供了神经解剖学关联——权威语料）
-> - "The experimental and analytic results demonstrated that by increasing the number of labelers the system converged more quickly."（实验和分析结果表明，通过增加标注者的数量，系统收敛得更快——权威语料）
+> - Studies of brain activation bring converging evidence on reading processes and provide neuroanatomical correlates of reading problems. `` `[COCA-ACAD]` ``
+> - The experimental and analytic results demonstrated that by increasing the number of labelers the system converged more quickly. `` `[COCA-ACAD]` ``
+> - The two rivers converge on the plain to form a single waterway. `` `[例]` ``
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**反驳，驳斥**==；②==**与……矛盾，与……抵触**==；③否认……的真实性；
-**vi.** ①反驳；②相互矛盾；
+**vt.** ①==**反驳，驳斥**== `V N` `V that-clause`；②==**与……矛盾，与……抵触**== `V N` `V each other`；③==**否认……的真实性**== `V N`；
+**vi.** ①==**反驳**==；②==**相互矛盾**==；
 
 > [!tip] 原型义
 > **原型义**：反着说，反驳（contra-反 + dict-说 → 说出相反的话）
@@ -135,8 +135,9 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "So the evidence contradicts the claim that we're mainly suffering from structural unemployment."（因此，证据与我们主要遭受结构性失业的说法相矛盾。）——考研阅读真题
-> - "Your actions contradict your declared moral principles."（你的行为违背了你宣称的道德准则。）——考研高频表达
+> - So the evidence contradicts the claim that we're mainly suffering from structural unemployment. `[真题]`
+> - Your actions contradict your declared moral principles. `[COCA-ACAD]`
+> - The witness contradicted her earlier testimony under cross-examination. `[例]`
 
 ---
 

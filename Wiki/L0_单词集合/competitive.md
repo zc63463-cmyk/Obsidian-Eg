@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**竞争的；有竞争力的**==；②好竞争的；好胜的；③（价格等）有竞争力的；
+**adj.** ①==**竞争的；有竞争力的**== `adj N`；②==**好竞争的；好胜的**== `be adj`；③==**（价格等）有竞争力的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：倾向于竞争的
@@ -131,8 +131,9 @@ com-(共同) + pet(追求、寻求) + -itive(形容词后缀，表"……倾向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In today's competitive global economy, innovation is essential for survival.（在当今竞争激烈的全球经济中，创新对生存至关重要。）
-> - She has a competitive personality and always wants to win.（她性格好胜，总想赢。）
+> - In today's competitive global economy, innovation is essential for survival. `[COCA-ACAD]`
+> - She has a competitive personality and always wants to win. `[COCA-MAG]`
+> - We offer competitive prices for all our products. `[例]`
 
 ---
 

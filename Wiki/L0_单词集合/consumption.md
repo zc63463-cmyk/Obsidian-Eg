@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**消费，消耗**== ; ②==**消耗量，消费量**== ; ③==**肺结核（旧称）**== ;
+**n.** ①==**消费，消耗**== `the consumption of N; N consumption` ; ②==**消耗量，消费量**== `high/low consumption` ; ③==**肺结核（旧称）**== `die of consumption` ;
 
 > [!tip] 原型义
 > **原型义**：完全拿走、消耗的行为（源自拉丁语 consumptio）
@@ -130,8 +130,9 @@ con-(完全，彻底) + sume/sumpt(拿，取) + -tion(名词后缀，表示动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consumption has become a central pillar of life in industrial lands and is even embedded in social values."（在工业化国家，消费已成为生活的支柱，甚至深深嵌入社会价值观中。）——考研高频表达
-> - "Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption."（节约能源、改用其他燃料以及能源密集型重工业重要性的下降，都减少了石油消费。）——2002年阅读Text3
+> - "Consumption has become a central pillar of life in industrial lands and is even embedded in social values." `[真题]`
+> - "Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption." `[真题]`
+> - "The government has introduced policies to encourage sustainable consumption and reduce waste." `[COCA-ACAD]`
 ---
 
 

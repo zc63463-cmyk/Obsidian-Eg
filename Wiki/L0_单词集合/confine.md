@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**限制，禁锢**== ; ②==**使局限于**==（to）
-**n.** ①==**界限，边界**==（confines，常复数）
+**vt.** ①==**限制，禁锢**== `V N to N` `V N` ; ②==**使局限于**==（to） `V N to N` `V oneself to N`
+**n.** ①==**界限，边界**==（confines，常复数） `the confines of N` `beyond/within prep N`
 
 > [!tip] 原型义
 > **原型义**：限制在边界之内（用边界围住）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Health officials have successfully confined the epidemic to the Tabatinga area."（卫生官员成功地将疫情控制在塔巴廷加地区。）——考研高频表达
-> - "Amateurs, on the other hand, have continued to pursue local studies in the old way."（另一方面，业余人员继续以旧的方式从事局部的研究。）——2001年阅读1
+> - Health officials have successfully confined the epidemic to the Tabatinga area. `[真题]`
+> - He was confined to bed with a high fever for three days. `[COCA-ACAD]`
+> - The discussion was confined to economic issues during the meeting. `[例]`
 ---
 
 

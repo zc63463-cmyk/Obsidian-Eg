@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**包含，包括，由…组成**== ; ②构成，组成；
+**vt.** ①==**包含，包括，由…组成**== `N comprise N` ; ②构成，组成；
 > 注：comprise 不用被动语态，不说 "is comprised of"
 
 > [!tip] 原型义
@@ -124,9 +124,9 @@ com-(一起) + [[pon/pos|prerehend/prise]](抓取、握住) = comprise（抓到�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Fifty states comprise the United States of America."（五十个州组成了美利坚合众国。）——考研高频表达
-> - "The committee comprises representatives from various departments and disciplines."（委员会由来自各个部门和学科的代表组成。）——考研高频表达
-> - "Manufacturing comprises approximately 14% of the state's economy."（制造业约占该州经济的14%。）——考研高频表达
+> - "Fifty states comprise the United States of America." `[例]`
+> - "The committee comprises representatives from various departments and disciplines." `[例]`
+> - "Manufacturing comprises approximately 14% of the state's economy." `[COCA-ACAD]`
 
 ---
 

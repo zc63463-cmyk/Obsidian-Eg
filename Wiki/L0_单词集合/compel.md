@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**强迫，迫使**==；②使不得不，使必须；③引起，激发；
+**v.** ①==**强迫，迫使**== `V N to V` [formal]；②==**使不得不，使必须**== `V N to V`；③==**引起，激发**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：强迫、驱使（一起驱赶）
@@ -125,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Economic pressures have compelled many small businesses to close down permanently.（经济压力迫使许多小企业永久关闭。）
+> - Economic pressures have compelled many small businesses to close down permanently. `[COCA-ACAD]`
+> - The evidence compelled the jury to change their verdict. `[COCA-NEWS]`
+> - I felt compelled to speak out against the injustice. `[COCA-MAG]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**编纂；汇编**==；②编译（计算机）；③收集；累积；
+**vt.** ①==**编纂；汇编**== `V N`；②==**编译（计算机）**== `V N`；③==**收集；累积**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：堆叠在一起——将分散的东西汇集到一处
@@ -126,8 +126,9 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She compiled a comprehensive guide to European art.（她编纂了一部欧洲艺术综合指南。）
-> - The data compiled by researchers suggests a significant trend.（研究人员收集的数据表明了一个显著趋势。）
+> - She compiled a comprehensive guide to European art. `[COCA-ACAD]`
+> - The data compiled by researchers suggests a significant trend. `[COCA-ACAD]`
+> - You need to compile the source code before running it. `[例]`
 
 ---
 

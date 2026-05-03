@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ① ==**安慰，慰藉**== ; ② console oneself with... 以...自慰
+**v.** ① ==**安慰，慰藉**== `V sb.; V sb. with N` ; ② ==**以...自慰**== `V oneself with N`
 
 > [!tip] 原型义
 > **原型义**：安慰，慰藉（让人心里感到安慰）
@@ -122,8 +122,9 @@ con-（一起、共同）+ [[sol|sol-]]（安慰）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She tried to console her friend who had just lost her job."（她试图安慰刚失业的朋友。）——考研高频表达
-> - "There is no way to console the parents who lost their child in the accident."（无法安慰在事故中失去孩子的父母。）——考研高频表达
+> - "She tried to console her friend who had just lost her job." `[真题]`
+> - "There is no way to console the parents who lost their child in the accident." `[真题]`
+> - "He consoled himself with the thought that things could have been much worse." `[COCA-ACAD]`
 
 ---
 

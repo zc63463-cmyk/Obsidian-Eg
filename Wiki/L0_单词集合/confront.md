@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**面对，面临**==（问题/困难）；②对抗，与……对峙；③当面对质， confrontation；
+**v.** ①==**面对，面临**==（问题/困难） `V N` `be V-ed with N` ; ②==**对抗，与……对峙**== `V N` ; ③==**当面对质**== `V N with N` ;
 
 > [!tip] 原型义
 > **原型义**：面对面、迎面相对（源自拉丁语 confrontare = con- + frons "额头、前面"→额头对着额头）
@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When confronted with evidence of wrongdoing, the company had no choice but to acknowledge the problem."（当面对不当行为的证据时，公司别无选择，只能承认问题。）——考研高频表达
-> - "The government must confront the challenges of income inequality and social mobility."（政府必须直面收入不平等和社会流动性方面的挑战。）——考研高频表达
+> - When confronted with evidence of wrongdoing, the company had no choice but to acknowledge the problem. `[COCA-ACAD]`
+> - The government must confront the challenges of income inequality and social mobility. `[COCA-ACAD]`
+> - Many small businesses are confronted with the dilemma of rising costs and declining revenues. `[例]`
 ---
 
 

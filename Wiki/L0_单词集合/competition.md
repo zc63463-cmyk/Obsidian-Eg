@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**竞争；角逐**==；②比赛；竞赛；③竞争对手；
+**n.** ①==**竞争；角逐**== `N for N`；②==**比赛；竞赛**== `adj N`；③==**竞争对手**== `N`；
 
 > [!tip] 原型义
 > **原型义**：共同追求的行为或过程
@@ -131,8 +131,9 @@ com-(共同) + pet(追求、寻求) + -ition(名词后缀，表行为/过程/结
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The policy is designed to promote fair competition among enterprises.（该政策旨在促进企业间的公平竞争。）
-> - Competition from foreign companies has forced local firms to cut prices.（来自外国公司的竞争迫使本地企业降价。）
+> - The policy is designed to promote fair competition among enterprises. `[COCA-ACAD]`
+> - Competition from foreign companies has forced local firms to cut prices. `[COCA-NEWS]`
+> - There is fierce competition for entry to top universities. `[COCA-MAG]`
 
 ---
 

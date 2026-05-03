@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**签订合同，缔结**==；②==**感染（疾病）**==；③收缩，缩小；
-**vi.** ①收缩，缩小；②订合同；
-**n.** ①==**合同，契约**==；
+**vt.** ①==**签订合同，缔结**== `contract a deal/agreement with N`；②==**感染（疾病）**== `contract a disease/virus`；③收缩，缩小 `N contracts`;
+**vi.** ①收缩，缩小；②订合同 `contract with N`；
+**n.** ①==**合同，契约**== `sign/breach a contract`;
 
 > [!tip] 原型义
 > **原型义**：拉到一起，收紧（con-一起 + tract-拉扯 → 把双方拉到一起达成约束）
@@ -141,8 +141,9 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company won a contract worth millions of dollars to build the new bridge."（公司赢得了价值数百万美元的新桥建设合同。）——考研高频表达
-> - "Economic growth contracted sharply in the fourth quarter."（经济增长在第四季度急剧萎缩。）——考研高频表达
+> - The company won a contract worth millions of dollars to build the new bridge. `[COCA-ACAD]`
+> - Economic growth contracted sharply in the fourth quarter. `[COCA-ACAD]`
+> - He contracted a serious illness while traveling abroad and was hospitalized immediately. `[例]`
 
 ---
 

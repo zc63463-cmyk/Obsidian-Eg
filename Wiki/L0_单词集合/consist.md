@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ① ==**由...组成，由...构成**== ; ② consist in 存在于，在于
+**v.** ① ==**由...组成，由...构成**== `V of N` ; ② ==**存在于，在于**== `V in N` ;
 
 > [!tip] 原型义
 > **原型义**：由...组成，由...构成
@@ -122,8 +122,9 @@ con-（一起）+ [[sist|sist-]]（站立）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee consists of representatives from various departments."（委员会由各部门的代表组成。）——考研高频表达
-> - "The beauty of the plan consists in its simplicity."（这个计划的妙处在于其简洁性。）——考研高频表达
+> - "The committee consists of representatives from various departments." `[真题]`
+> - "The beauty of the plan consists in its simplicity." `[真题]`
+> - "The course consists of three main modules covering theory, methodology, and practical applications." `[COCA-ACAD]`
 
 ---
 

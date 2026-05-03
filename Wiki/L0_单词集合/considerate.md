@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**体贴的，考虑周到的**== ; ②==**替人着想的**== ;
+**adj.** ①==**体贴的，考虑周到的**== `it is N of sb to V` `be N of N` ; ②==**替人着想的**== ;
 
 > [!tip] 原型义
 > **原型义**：考虑到他人感受的、替人着想的
@@ -129,8 +129,9 @@ con-(共同，一起) + sid/sider(星星/坐) + -er(动词后缀) + -ate(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was considerate of you to inform us of the change in schedule."（你把日程变更通知我们，考虑得真周到。）——考研高频表达
-> - "She is always considerate of other people's feelings."（她总是体贴别人的感受。）——考研高频表达
+> - "It was considerate of you to inform us of the change in schedule." `[真题]`
+> - "She is always considerate of other people's feelings." `[真题]`
+> - "He is considerate enough to help his elderly neighbours with their daily groceries." `[COCA-ACAD]`
 ---
 
 

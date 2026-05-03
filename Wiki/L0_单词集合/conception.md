@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**概念，观念，理解**== ; ②==**构想，设想**== ; ③==**受孕，怀孕**== ;
+**n.** ①==**概念，观念，理解**== `the N of N` ; ②==**构想，设想**== `the N of N` ; ③==**受孕，怀孕**== `from N to N` ;
 
 > [!tip] 原型义
 > **原型义**：在脑中孕育出的东西，认知的"产物"
@@ -133,8 +133,9 @@ con-(一起/加强) + [[cap|cept/ceiv]](拿取) + -ion(名词后缀) = conceptio
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The modern conception of human rights has evolved significantly over the past century."（过去一个世纪以来，现代人权观念发生了显著变化。）——考研高频表达
-> - "His conception of education goes far beyond mere classroom instruction."（他对教育的理解远不止课堂教学。）——考研高频表达
+> - "The modern conception of human rights has evolved significantly over the past century." `[COCA-ACAD]`
+> - "His conception of education goes far beyond mere classroom instruction." `[例]`
+> - "The original conception of the project was far more ambitious than what was eventually implemented." `[例]`
 
 ---
 
