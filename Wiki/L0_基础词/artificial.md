@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**人工的，人造的**==；②==**虚假的，做作的**==；③人为的；
+**adj.** ①==**人工的，人造的**== `adj N`；②==**虚假的，做作的**== `adj N`；③人为的 `adj N`；
 
 > [!tip] 原型义
 > **原型义**：人工的（由技艺制造而非自然产生的）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Artificial intelligence is transforming the way we work and live."（人工智能正在改变我们的工作和生活方式）
-> - "Her artificial enthusiasm fooled no one at the meeting."（她在会议上做作的热情骗不了任何人）
+> - Artificial intelligence is transforming the way we work and live. `[COCA-NEWS]`
+> - Their concern seemed artificial. `[COCA-FIC]`
+> - This dress is made of artificial fibers. `[COCA-SPOKEN]`
+> - Artificial intelligence is about making computers act more like humans. `[COCA-ACAD]`
 
 
 ---

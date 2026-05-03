@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**破产的**==；②（引申）完全缺乏的，枯竭的；
-**n.** ①==**破产者**==；
-**v.** ①==**使破产**==；
+**adj.** ①==**破产的**== `adj`；②（引申）完全缺乏的，枯竭的 `adj of N`；
+**n.** ①==**破产者**== `N`；
+**v.** ①==**使破产**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：在长凳上断裂（商人的柜台断裂=破产）
@@ -137,8 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At this rate, we'll soon be bankrupt if we don't find a way to reduce our operating costs."（照此情形，如果我们找不到降低运营成本的方法，很快就会破产——考研阅读经济话题相关表达）
-> - "Even the citizens of our fellow democracies see us as morally bankrupt when we fail to address the growing inequality in our society."（当我们未能解决社会中日益严重的不平等问题时，甚至我们民主国家的公民也认为我们道德沦丧——考研阅读社会话题相关表达）
+> - "He went bankrupt after only a year in business." `[COCA-NEWS]`
+> - "The recession has led to many small businesses going bankrupt." `[COCA-NEWS]`
+> - "He believes that modern society is morally bankrupt." `[COCA-ACAD]`
+> - "If I don't find a job, I'll be bankrupt in two months." `[COCA-SPOKEN]`
 
 
 ---

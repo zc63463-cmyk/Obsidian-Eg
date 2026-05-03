@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**音频的，声音的**==；②听觉的；
-**n.** ①==**音频，声音**==；②音频设备；
+**adj.** ①==**音频的，声音的**== `adj N`；②听觉的；
+**n.** ①==**音频，声音**== `N`；②音频设备；
 
 > [!tip] 原型义
 > **原型义**：与听觉相关的（与声音/听力有关的）
@@ -128,7 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - The audio quality of this recording is excellent. `[COCA-ACAD]`
+> - The film's audio engineers spent weeks perfecting the sound mix. `[COCA-NEWS]`
+> - You can connect your phone to the car's audio system via Bluetooth. `[COCA-NEWS]`
+> - The conference will provide audio and video recordings of all keynote sessions. `[例]`
 
 
 ---

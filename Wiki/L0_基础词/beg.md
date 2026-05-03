@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**乞求，恳求**==；②==**回避（问题）**==（beg the question）；
-**n.** 乞丐的称呼（beggar 的缩略用法）
+**v.** ①==**乞求，恳求**== `V` `V N to V`；②==**回避（问题）**==（beg the question） `V N`；
+**n.** 乞丐的称呼（beggar 的缩略用法） `N`
 
 > [!tip] 原型义
 > **原型义**：低下身体请求（物理上跪下或弯腰请求施舍）
@@ -125,9 +125,9 @@ beg 为日耳曼语源词，无可拆分的词根词缀结构。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such behaviour is regarded as 'all too human,' with the underlying assumption that other animals would not be capable of this finely developed sense of grievance."（这种行为被视为"人之常情"，其潜在假设是其他动物不会拥有这种精细发展的不满意识——2005年英语一Text 1，涉及 being 的用法）
-> - "Needless to say, this reply begs the question."（不用说，这个回答回避了问题的要害——考研翻译常见表达）
-> - "He wants to see them beg for mercy."（他想亲眼看着他们求饶——考研阅读高频表达）
+> - "Such behaviour is regarded as 'all too human,' with the underlying assumption that other animals would not be capable of this finely developed sense of grievance." `[真题]`
+> - "Needless to say, this reply begs the question." `[COCA-ACAD]`
+> - "He begged her to stay, but she simply laughed and put her bags in the car." `[COCA-FIC]`
 
 
 ---

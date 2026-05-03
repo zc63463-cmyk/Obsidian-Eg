@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**礼堂，音乐厅，观众席**==；
+**n.** ①==**礼堂，音乐厅，观众席**== `N`；
 
 > [!tip] 原型义
 > **原型义**：用来听的地方（供听众聚集聆听的场所）
@@ -126,7 +126,9 @@ audit(听，拉丁语 *auditus*，*audire* 的过去分词) + -orium(拉丁语�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - That night, the auditorium filled with about 1,000 people. `[COCA-NEWS]`
+> - The two strongest pieces take place in the main auditorium. `[COCA-NEWS]`
+> - The school has two well-appointed auditoriums on campus. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自动化**==；②自动操作（的设备/技术）；
+**n.** ①==**自动化**== `N`；②自动操作（的设备/技术） `N`；
 
 > [!tip] 原型义
 > **原型义**：机器自我运转（自己动起来，无需人工干预）
@@ -126,8 +126,9 @@ auto-(自己) + mat(动，来自希腊语 *automatos*，"自我移动的") + -io
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The automation of manufacturing processes has significantly increased productivity."（制造过程的自动化显著提高了生产力——考研常见表达）
-> - "Office automation software has become an essential tool for modern businesses."（办公自动化软件已成为现代企业的必备工具）
+> - The automation of manufacturing processes has significantly increased productivity. `[例]`
+> - Coal is still a force in the economy, but increased automation has cut the number of jobs it offers. `[COCA-NEWS]`
+> - The airline added automation to streamline flight operations. `[COCA-NEWS]`
 
 
 ---

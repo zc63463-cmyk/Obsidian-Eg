@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**行李**==（旅行时携带的物品）；②（精神上的）包袱，负担；③（贬义）愚蠢的想法，偏见；
+**n.** ①==**行李**== `check N` / `carry-on N`（旅行时携带的物品）；②==**（精神上的）包袱，负担**== `emotional N` / `historical N`；③==**愚蠢的想法，偏见**== `intellectual N` / `cultural N`；
 
 > [!tip] 原型义
 > **原型义**：旅行时携带的包裹和箱子
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many immigrants carry the emotional baggage of leaving their homeland, struggling to adapt to a new culture while preserving their own identity."（许多移民带着离开祖国的情感包袱，在努力适应新文化的同时保持自己的身份认同——考研阅读移民话题相关表达）
-> - "The country's historical baggage of colonialism continues to affect its relationship with former colonial powers."（该国殖民主义的历史包袱继续影响着它与前殖民大国的关系——考研翻译历史话题相关表达）
+> - We all carry a lot of emotional baggage around with us. [COCA]
+> - How many pieces of baggage do you have? [COCA]
+> - They bring their emotional baggage with them. `[例]`
+> - The country's historical baggage of colonialism continues to affect its relationship with former colonial powers. `[例]`
 
 
 ---

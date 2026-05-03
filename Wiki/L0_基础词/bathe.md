@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**给……洗澡，沐浴**==；②==**（用液体）清洗，擦拭**==（伤口等）；③==**沉浸在，沐浴于**==（光线、温暖等）；
-**n.** ①==**游泳，沐浴**==（英式英语，尤指在海里）；
+**v.** ①==**给……洗澡，沐浴**== `V N`；②==**（用液体）清洗，擦拭**== `V N`（伤口等）；③==**沉浸在，沐浴于**== `be V-ed in N`（光线、温暖等）；
+**n.** ①==**游泳，沐浴**== `go for a bathe`（英式英语，尤指在海里）；
 
 > [!tip] 原型义
 > **原型义**：浸泡身体以清洁（沐浴的动词形式）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ancient Roman bathhouses were not merely places for bathing but served as important social centers where people gathered to discuss politics and business."（古罗马的公共浴场不仅仅是沐浴的场所，还是人们聚集讨论政治和商业的重要社交中心——考研阅读历史文化话题相关表达）
-> - "The entire valley was bathed in the soft golden light of the setting sun, creating a scene of breathtaking beauty."（整个山谷沐浴在落日柔和的金色光芒中，呈现出令人叹为观止的美景——考研翻译文学性描述相关表达）
+> - "I bathed my feet in salt water." `[COCA-FIC]`
+> - "In the afternoon the sun bathes the city in shades of pink and gold." `[COCA-FIC]`
+> - "I was led to a small room bathed in soft red light." `[COCA-FIC]`
+> - "Children suffering from the illness had bathed in sea water contaminated by sewage." `[COCA-ACAD]`
 
 
 ---

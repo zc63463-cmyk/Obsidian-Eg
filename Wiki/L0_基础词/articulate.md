@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**清楚表达，明确表述**==；②用关节连接；
-**vi.** ①清楚说话；
-**adj.** ①==**善于表达的，口齿清楚的**==；②有关节的；
+**vt.** ①==**清楚表达，明确表述**== `V N` `V wh-clause`；②用关节连接 `V N`；
+**vi.** ①清楚说话 `V`；
+**adj.** ①==**善于表达的，口齿清楚的**== `adj N` `be V adj`；②有关节的 `adj N`；
 
 > [!tip] 原型义
 > **原型义**：清楚表达（用语言将想法分成小单元说出来）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She found it difficult to articulate her feelings after the loss."（失去之后，她发现自己很难清楚地表达自己的感受）
-> - "He is one of the most articulate advocates for environmental protection."（他是环保领域最能言善辩的倡导者之一）
+> - She has not yet articulated her vision of why she wants to be governor. `[COCA-NEWS]`
+> - She is the most articulate and self-possessed member of her family. `[COCA-FIC]`
+> - You need to articulate clearly what you are trying to achieve. `[COCA-ACAD]`
+> - The president has been accused of failing to articulate an overall vision in foreign affairs. `[COCA-NEWS]`
 
 
 ---

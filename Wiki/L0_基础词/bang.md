@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**猛击，巨响**==；②（头发的）刘海；
-**v.** ①==**猛击，猛撞**==；②砰砰作响；③猛摔；
-**adv.** ①==**恰好，正好**==（口语）；
+**n.** ①==**猛击，巨响**== `N`；②（头发的）刘海；
+**v.** ①==**猛击，猛撞**== `V N` `V N prep N`；②砰砰作响；③猛摔；
+**adv.** ①==**恰好，正好**== `adv` [口语]；
 
 > [!tip] 原型义
 > **原型义**：猛烈的撞击声（突然的巨响）
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He banged the door shut and stormed out of the room, leaving everyone in stunned silence."（他砰地关上门冲出房间，留下所有人目瞪口呆——考研翻译相关表达）
-> - "The project was completed bang on schedule, much to the surprise of the critics who had doubted its feasibility."（项目恰好按时完成，令那些曾质疑其可行性的批评者大为惊讶——考研阅读商业话题相关表达）
+> - "She fell and banged her head on the shelf as she stood up." `[COCA-SPOKEN]`
+> - "He banged the door shut and stormed out of the room, leaving everyone in stunned silence." `[例]`
+> - "The project was completed bang on schedule, much to the surprise of the critics who had doubted its feasibility." `[例]`
+> - "I didn't mean to bang into you in the narrow corridor." `[COCA-FIC]`
 
 
 ---

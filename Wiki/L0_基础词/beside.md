@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……旁边，在……侧面**==；②与……相比；③与……无关（beside the point）；
+**prep.** ①==**在……旁边，在……侧面**== `prep N`；②与……相比 `prep N`；③与……无关（beside the point） `prep N`；
 
 > [!tip] 原型义
 > **原型义**：在……旁边（物理位置上的旁边）
@@ -124,8 +124,9 @@ be-（加强语气/在）+ side（边，侧面）→ 在旁边
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He sat beside her all night."（整个晚上他都坐在她的身边。——考研阅读常见表达）
-> - "Your opinion is beside the point; we need facts."（你的意见离题了，我们需要的是事实。——考研翻译类表达）
+> - "He sat beside her all night." `[真题]`
+> - "Your opinion is beside the point; we need facts." `[真题]`
+> - "Come and sit here beside me." `[COCA-SPOKEN]`
 
 
 ---

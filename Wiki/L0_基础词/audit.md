@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**审计，稽核**==；②旁听（课程）；
-**n.** ①==**审计，审查**==；
+**v.** ①==**审计，稽核**== `V N`；②旁听（课程） `V N`；
+**n.** ①==**审计，审查**== `N` `adj N`；
 
 > [!tip] 原型义
 > **原型义**：旁听（在一旁听别人讲课/汇报）
@@ -128,7 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - The company was ordered to conduct an internal audit of its financial records. `[COCA-ACAD]`
+> - She decided to audit a philosophy course at the university out of personal interest. `[COCA-ACAD]`
+> - The tax audit revealed several discrepancies in the firm's accounting practices. `[COCA-NEWS]`
+> - Independent auditors found no evidence of fraud during the annual audit. `[例]`
 
 
 ---

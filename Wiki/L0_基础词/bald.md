@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**秃的，秃头的**==；②光秃的，无装饰的；③赤裸的，不加掩饰的；
+**adj.** ①==**秃的，秃头的**== `go adj` / `a adj head`；②==**光秃的，无装饰的**== `a adj mountain`；③==**赤裸的，不加掩饰的**== `the adj truth` / `a adj statement`；
 
 > [!tip] 原型义
 > **原型义**：光秃的（没有毛发覆盖的）
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He started going bald in his twenties, which made him self-conscious about his appearance."（他二十多岁就开始秃顶了，这让他对自己的外貌很在意——考研翻译相关表达）
-> - "The bald truth is that the company has been losing money for years and cannot continue in its current form."（赤裸裸的真相是，这家公司已经亏损多年，无法以目前的形式继续经营——考研阅读商业话题相关表达）
+> - She is going bald. [COCA]
+> - The bald truth is he's just not happy. [COCA]
+> - The announcement came in a bald statement from the official news agency. [COCA]
+> - He started going bald in his twenties, which made him self-conscious about his appearance. `[例]`
 
 
 ---

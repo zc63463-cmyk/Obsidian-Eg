@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**横幅，旗帜**==；②（网络）横幅广告；
-**adj.** ①==**杰出的，领先的**==（仅用于 banner year/headline 等固定搭配）；
+**n.** ①==**横幅，旗帜**== `N`；②（网络）横幅广告；
+**adj.** ①==**杰出的，领先的**== `adj N` [仅用于固定搭配]；
 
 > [!tip] 原型义
 > **原型义**：长条形的旗帜（用来标识或宣传的布条）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists working under the banner 'Project Neurice' are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes."（在"Neurice项目"的旗帜下工作的科学家们正在寻找能够抵御日益增加的盐度而又不丧失使欧洲大米成为传统西班牙和意大利菜肴理想食材的吸收性的水稻品种——2018年6月六级阅读Section C）
-> - "A big banner was draped across one of the streets saying, 'Idaho Falls Says NO to Drugs.'"（一条写着"爱达荷福尔斯对毒品说不"的大横幅悬挂在一条街上——考研翻译相关表达）
+> - "Scientists working under the banner 'Project Neurice' are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes." `[真题]`
+> - "She ran for office under the banner of reform and change." `[COCA-NEWS]`
+> - "This has been a banner year for the construction industry." `[COCA-NEWS]`
+> - "The demonstrators walked along the street, carrying banners and shouting angrily." `[COCA-NEWS]`
 
 
 ---

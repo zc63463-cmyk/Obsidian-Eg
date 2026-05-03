@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**树皮**==；②犬吠声；③厉声喊叫；
+**n.** ①==**树皮**== `N`；②犬吠声；③厉声喊叫；
 **vi.** ①（狗）吠叫；②厉声喊出；③擦破（皮肤）；
-**vt.** ①厉声发令；②剥去树皮；
+**vt.** ①==**厉声发令**== `V N`；②剥去树皮；
 
 > [!tip] 原型义
 > **原型义**：树皮（树木的外层保护）
@@ -129,8 +129,10 @@ bark 源自古英语 *beorc*（树皮），与吠叫声的 *bark* 可能源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She can be a bit tetchy but her bark is worse than her bite."（她脾气可能有点暴躁，但她是刀子嘴豆腐心——考研翻译相关语料）
-> - "Some officers bark out their orders."（有些军官以粗暴的声音发布命令——考研阅读相关语料）
+> - "My dog has a very loud bark." `[COCA-SPOKEN]`
+> - "They heard a dog barking outside." `[COCA-FIC]`
+> - "She can be a bit tetchy but her bark is worse than her bite." `[BNC-SPOKEN]`
+> - "Some officers bark out their orders." `[COCA-FIC]`
 
 
 ---

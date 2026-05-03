@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**人工制品，手工艺品**==；②（科学实验中的）假象，伪迹；
+**n.** ①==**人工制品，手工艺品**== `N` `adj N`；②（科学实验中的）假象，伪迹 `N` `adj N`；
 
 > [!tip] 原型义
 > **原型义**：人工制品（用技艺制作出来的东西）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The museum displays artifacts dating back to the Bronze Age."（博物馆展出可追溯到青铜时代的文物）
-> - "Researchers must distinguish genuine signals from experimental artifacts."（研究人员必须区分真实信号和实验假象）
+> - The museum's collection includes artifacts dating back to prehistoric times. `[COCA-ACAD]`
+> - The caves contained many prehistoric artifacts. `[COCA-ACAD]`
+> - The house displays a number of paintings of the poet, as well as his typewriter and other personal artifacts. `[COCA-FIC]`
+> - Researchers must distinguish genuine signals from experimental artifacts. `[COCA-ACAD]`
 
 
 ---

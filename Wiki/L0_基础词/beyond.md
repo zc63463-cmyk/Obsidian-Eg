@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**在……的那一边，超出**==；②超出……的范围/能力；③除了（用于否定句）；
-**adv.** ①在更远处；②再往后；
+**prep.** ①==**在……的那一边，超出**== `beyond N`；②==**超出……的范围/能力**== `beyond N`；③==**除了（用于否定句）**== `beyond N`；
+**adv.** ①==**在更远处**==；②==**再往后**==；
 
 > [!tip] 原型义
 > **原型义**：在……的那一边（更远处）（古英语 *begeondan*，be- "在" + geond "那边"）
@@ -129,8 +129,9 @@ be-/bi-（在，附近）+ geond/yond（那边，远处，与 yonder 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The impact of climate change goes beyond national borders."（气候变化的影响超越了国界）
-> - "The beauty of the landscape was beyond description."（风景之美难以用语言描述）
+> - Physics is completely beyond me. `[BNC-SPOKEN]`
+> - The impact of climate change goes beyond national borders. `[COCA-ACAD]`
+> - We cannot allow the work to continue beyond the end of the year. `[COCA-NEWS]`
 
 
 ---

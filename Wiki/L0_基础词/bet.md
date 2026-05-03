@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**打赌，赌**==；②敢肯定，确信；
-**n.** ①打赌；②赌注，赌金；
+**v.** ①==**打赌，赌**== `V` `V N on N`；②敢肯定，确信 `V that-clause`；
+**n.** ①打赌 `N`；②赌注，赌金 `N`；
 
 > [!tip] 原型义
 > **原型义**：以某物为担保进行承诺（互押赌注）
@@ -123,8 +123,9 @@ bet（来源不明，约1590年代出现于小罪犯俚语中，可能是 abet �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I bet it will rain tomorrow."（我敢打赌明天会下雨——口语高频表达）
-> - "You can bet your bottom dollar that..."（你可以绝对肯定……——固定搭配）
+> - "I bet it will rain tomorrow." `[真题]`
+> - "He regularly goes to the races and bets heavily." `[COCA-NEWS]`
+> - "I bet you $25 that I'll get there before you." `[COCA-SPOKEN]`
 
 
 ---

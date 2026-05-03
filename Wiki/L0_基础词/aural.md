@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**听觉的，耳的**==；
+**adj.** ①==**听觉的，耳的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：与耳朵/听觉相关的（通过耳朵感知的）
@@ -124,7 +124,9 @@ aur-(耳，拉丁语 *auris*) + -al(形容词后缀，表示"与...有关的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - Adults tend to perform better on written rather than aural tasks. `[COCA-ACAD]`
+> - He became famous as an inventor of astonishing visual and aural effects. `[COCA-NEWS]`
+> - We revel in the peace until the drone starts up again or is replaced by the next aural annoyance. `[COCA-NEWS]`
 
 
 ---

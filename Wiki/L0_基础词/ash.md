@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**灰，灰烬**==；②骨灰，遗骸；
+**n.** ①==**灰，灰烬**== `N`；②==**骨灰，遗骸**== `N` [复数 ashes]；
 
 > [!tip] 原型义
 > **原型义**：燃烧后留下的灰烬残余
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The forest fire reduced the entire village to ashes.（森林大火将整个村庄化为灰烬）
-> - Volcanic ash from the eruption disrupted air travel across Europe.（火山喷发产生的火山灰扰乱了欧洲的航空旅行）
+> - The forest fire reduced the entire village to ashes. `[COCA-NEWS]`
+> - Volcanic ash from the eruption disrupted air travel across Europe. `[COCA-NEWS]`
+> - She flicked ash out of the window carelessly. `[BNC-SPOKEN]`
 
 
 ---

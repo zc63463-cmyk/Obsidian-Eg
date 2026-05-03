@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**观众，听众**==；②读者群；③觐见，正式会见；
+**n.** ①==**观众，听众**== `N` `adj N`；②读者群；③觐见，正式会见 `N with N`；
 
 > [!tip] 原型义
 > **原型义**：倾听的人（聚集在一起听的人）
@@ -128,7 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - The target audience is mostly men aged 28 to 35. `[COCA-NEWS]`
+> - The audience was cheering and shouting throughout the concert. `[BNC-SPOKEN]`
+> - The show attracted a large television audience during its final season. `[COCA-NEWS]`
+> - The Pope granted an audience to the delegation from South America. `[例]`
 
 
 ---

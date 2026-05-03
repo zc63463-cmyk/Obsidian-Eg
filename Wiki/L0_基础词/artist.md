@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**艺术家，画家**==；②==**能手，大师**==（擅长某事的人）；
+**n.** ①==**艺术家，画家**== `N` `adj N`；②==**能手，大师**==（擅长某事的人） `N` `an artist at N`；
 
 > [!tip] 原型义
 > **原型义**：艺术家（从事艺术创作的人）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is an artist at managing difficult negotiations."（她是处理棘手谈判的能手）
-> - "The con artist convinced elderly victims to invest their life savings."（骗子说服老年受害者投资毕生积蓄）
+> - The festival has an amazing line-up of both new and established artists. `[COCA-NEWS]`
+> - He described her as one of the greatest film artists of the 20th century. `[COCA-ACAD]`
+> - He is an exceptional footballer — an artist. `[COCA-NEWS]`
+> - This guy sounds like an experienced con artist. `[COCA-SPOKEN]`
 
 
 ---

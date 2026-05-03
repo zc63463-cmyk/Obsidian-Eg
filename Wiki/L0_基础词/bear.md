@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**忍受，承受**==；②承担（责任、费用）；③生育，结果实；④携带，运送；⑤具有，带有；
-**n.** ①熊；②（股市）看跌者；
+**v.** ①==**忍受，承受**== `can't bear N/to V`；②承担（责任、费用）`bear the burden/cost`；③生育，结果实 `bear children/fruit`；④携带，运送 `bear N`；⑤具有，带有 `bear a resemblance/name`；
+**n.** ①熊 `a brown/grizzly bear`；②（股市）看跌者 `a bear market`；
 
 > [!tip] 原型义
 > **原型义**：承受（用身体承载重量，源自原始印欧语 *\*bher-*"携带"）
@@ -136,8 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The developing countries bear the burden of an enormous external debt."（发展中国家背负着巨额外债的负担。——常见经济类语料）
-> - "The strain must have been enormous but she bore it well."（当时压力一定很大，但她承受住了。——常见叙事类语料）
+> - "The developing countries bear the burden of an enormous external debt." `[COCA-ACAD]`
+> - "The strain must have been enormous but she bore it well." `[COCA-FIC]`
+> - "Airlines have to bear the costs of the price rise, while the poor old consumer has to bear the burden of rising petrol prices." `[COCA-NEWS]`
+> - "You have to bear in mind, however, that these things go in cycles." `[COCA-NEWS]`
 
 
 ---

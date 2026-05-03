@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**真正的，真实的**==；②可靠的，可信的；③正宗的；
+**adj.** ①==**真正的，真实的**== `adj N`；②可靠的，可信的 `adj N`；③正宗的 `adj N`；
 
 > [!tip] 原型义
 > **原型义**：自己做的（由原作者亲自完成的，非伪造的）
@@ -127,7 +127,9 @@ auto-(自己，希腊语 *autos*) + hent(做者，希腊语 *hentes*) + -ic(形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充
+> - He was there and saw what happened, so his is the only authentic account. `[COCA-NEWS]`
+> - The hotel even has an authentic Japanese garden. `[COCA-NEWS]`
+> - Most historians accept that the documents are authentic. `[COCA-ACAD]`
 
 
 ---

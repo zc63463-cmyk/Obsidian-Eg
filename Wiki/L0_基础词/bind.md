@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**捆绑，系紧**==；②==**约束，使受法律/义务约束**==；③使结合，使关系紧密；④装订（书籍）；
-**vi.** 捆绑；黏合；
+**vt.** ①==**捆绑，系紧**== `V N` `V N together`；②==**约束，使受法律/义务约束**== `be bound by N` `V N to N`；③==**使结合，使关系紧密**== `V N together`；④==**装订（书籍）**== `V N`；
+**vi.** ①==**捆绑；黏合**==；
 
 > [!tip] 原型义
 > **原型义**：捆绑，系紧（古英语 *bindan*，"to tie up, bind"）
@@ -138,8 +138,9 @@ bind(捆绑/系紧，古英语 *bindan*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The parties are bound by the terms of the contract once they have signed it."（各方一旦签署合同，就受合同条款的约束。——考研英语阅读法律类话题，be bound by 高频考点）
-> - "Cultural traditions bind communities together and give them a sense of shared identity."（文化传统将社区凝聚在一起，赋予他们共同的身份认同感。——考研英语阅读文化类话题）
+> - The parties are bound by the terms of the contract once they have signed it. `[COCA-ACAD]`
+> - Culture and language bind people together. `[COCA-ACAD]`
+> - His contract binds him to working a six-day week. `[COCA-NEWS]`
 
 
 ---

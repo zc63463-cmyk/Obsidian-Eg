@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**方位，方向**==；②==**举止，风度**==；③关系，联系；④轴承；⑤生育，结果实（bear 的动名词）；
+**n.** ①==**方位，方向**== `take a bearing`；②==**举止，风度**== `a dignified/military bearing`；③关系，联系 `have a/no bearing on N`；④轴承 `ball bearing`；⑤生育，结果实（bear 的动名词）；
 
 > [!tip] 原型义
 > **原型义**：承载的方式/状态（bear 的名词形式，从"承受/携带"的方式引申而来）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm."（对快速刺激的快速决策并非仅限于人际领域。——2013年考研真题英语二）
-> - "The white clothing conveyed an image of cleanliness, and in his realm, appearance was everything."（白色服装传达了干净的形象，在他的领域里，外表就是一切。——2018年12月四级真题阅读）
+> - "How well these tasks are performed has a direct bearing on organizational performance." `[COCA-ACAD]`
+> - "What you decide now could have a considerable bearing on your future." `[COCA-ACAD]`
+> - "We climb out to take our bearings." `[COCA-FIC]`
+> - "It's sometimes hard to get your bearings in the dark." `[COCA-FIC]`
 
 
 ---

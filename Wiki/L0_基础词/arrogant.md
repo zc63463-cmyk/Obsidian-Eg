@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**傲慢的，自大的**==；②==**狂妄的**==；
+**adj.** ①==**傲慢的，自大的**== `adj N` `be V adj`；②==**狂妄的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：为自己要求更多权利
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The arrogant attitude of some colonial administrators toward indigenous cultures led to the systematic destruction of valuable traditions and knowledge systems."（一些殖民行政官员对本土文化傲慢的态度导致了对宝贵传统和知识体系的系统性破坏——考研阅读历史话题相关表达）
-> - "Critics argue that the company's arrogant disregard for environmental regulations has resulted in irreversible damage to local ecosystems."（批评者认为，该公司对环境法规傲慢的无视已对当地生态系统造成了不可逆的损害——考研阅读环境话题相关表达）
+> - I found him arrogant and rude. `[COCA-SPOKEN]`
+> - He has this very stubborn, arrogant belief that he can fix these fundamental problems. `[COCA-NEWS]`
+> - She has an authoritative manner that at times is almost arrogant. `[COCA-FIC]`
+> - They were arrogant without having much to be arrogant about. `[BNC-SPOKEN]`
 
 
 ---

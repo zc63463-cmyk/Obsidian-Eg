@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**烧烤；烤肉**==；②烧烤野餐会；③烧烤架；
-**vt./vi.** ①烧烤；②在烤架上烹饪；
+**n.** ①==**烧烤；烤肉**== `N`；②烧烤野餐会；③烧烤架；
+**vt./vi.** ①==**烧烤**== `V N`；②在烤架上烹饪；
 
 > [!tip] 原型义
 > **原型义**：烧烤（在火上烤肉）
@@ -131,8 +131,10 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If the weather is fine, we can have a barbecue in the garden."（如果天气好，我们可以在花园里烧烤——考研完形/翻译相关语料）
-> - "At this time, everyone smelt the burning smell from the barbecue."（这时，大家都闻到了烤架上发出的焦味——考研阅读相关语料）
+> - "We're having a barbecue on Saturday — I hope you can come." `[COCA-SPOKEN]`
+> - "Make sure you light the barbecue in plenty of time, and I'll prepare the food." `[COCA-SPOKEN]`
+> - "They serve the best barbecue in town." `[COCA-NEWS]`
+> - "He barbecued a whole chicken for the party." `[例]`
 
 
 ---

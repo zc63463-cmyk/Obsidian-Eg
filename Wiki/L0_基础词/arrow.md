@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**箭，箭头**==；②==**箭状物**==（指示方向的箭头符号）；③==**（比喻）箭一般的速度**==；
+**n.** ①==**箭，箭头**== `N` `shoot V N`；②==**箭状物**==（指示方向的箭头符号） `N`；③==**（比喻）箭一般的速度**== `N`；
 
 > [!tip] 原型义
 > **原型义**：弓上射出的尖锐飞行物
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the bow and arrow revolutionized hunting and warfare, giving humans the ability to strike targets from a distance for the first time."（弓箭的发明革命性地改变了狩猎和战争，使人类首次具备了远距离打击目标的能力——考研阅读历史话题相关表达）
-> - "Economic indicators point like arrows in the same direction, suggesting that the recovery is gaining momentum across all sectors."（经济指标如箭头般指向同一方向，表明复苏势头正在所有行业加速——考研阅读经济话题相关表达）
+> - I followed the arrows to the car park. `[COCA-SPOKEN]`
+> - Cupid is usually depicted as a winged boy with a bow and arrow. `[COCA-ACAD]`
+> - She aimed carefully at the tree but the arrow missed. `[COCA-FIC]`
+> - The arrows in the diagram represent biological processes. `[COCA-ACAD]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**任务，作业**==（被分配的工作）；②==**分配，指派**==（分配的行为）；③转让（财产、权利等）；
+**n.** ①==**任务，作业**==（被分配的工作） `N` `adj N`；②==**分配，指派**==（分配的行为） `N of N`；③转让（财产、权利等） `N of N`；
 
 > [!tip] 原型义
 > **原型义**：被标记分配的工作（assign + -ment = 分配的结果）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students are required to complete the reading assignment before the next class."（学生被要求在下节课前完成阅读作业。——考研英语阅读教育类话题）
-> - "The journalist was sent on assignment to cover the election in the remote region."（记者被派去执行任务，报道偏远地区的选举。——考研英语阅读新闻类话题）
+> - Students are required to complete the reading assignment before the next class. `[COCA-ACAD]`
+> - The journalist was sent on assignment to cover the election in the remote region. `[COCA-NEWS]`
+> - The assignment of duties among team members was clearly outlined in the project plan. `[例]`
 
 
 ---

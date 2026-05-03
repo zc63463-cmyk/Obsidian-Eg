@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**羽毛球（运动）**==；
+**n.** ①==**羽毛球（运动）**== `play N`；
 
 > [!tip] 原型义
 > **原型义**：在 Badminton 庄园发明的羽毛球运动
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Badminton is one of the most popular recreational sports in many Asian countries, enjoyed by people of all ages."（羽毛球是许多亚洲国家最受欢迎的休闲运动之一，受到各年龄段人们的喜爱——考研阅读体育话题相关表达）
-> - "She plays badminton at the local sports center every weekend to stay fit and relieve stress from work."（她每个周末在当地体育中心打羽毛球来保持健康和缓解工作压力——考研翻译生活话题相关表达）
+> - She felt tired after playing badminton and engaging in other exercise, and complained of a pain in her shoulder. [COCA]
+> - The local church was teeming with different organisations - concert party, badminton club, ramblers, social club, drama group, and there were lots of other young people to meet. [COCA]
+> - Badminton is one of the most popular recreational sports in many Asian countries, enjoyed by people of all ages. `[例]`
 
 
 ---

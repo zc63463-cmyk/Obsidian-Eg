@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**弯曲，使弯曲**==；②弯腰，俯身；③==**屈服，使屈服**==；④使转向，改变方向；
-**n.** ①弯道，弯曲处；②弯曲（动作）；
+**v.** ①==**弯曲，使弯曲**== `V` `V N`；②弯腰，俯身 `V`；③==**屈服，使屈服**== `V to N`；④使转向，改变方向 `V N`；
+**n.** ①弯道，弯曲处 `N`；②弯曲（动作） `N`；
 
 > [!tip] 原型义
 > **原型义**：使弯曲（物理上的弯折动作）
@@ -128,8 +128,9 @@ bend（日耳曼语族原始词，与 bind "绑"同源，原始印欧语 *bhend-
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The branches bent in the wind."（树枝被风吹弯了。——考研高频表达）
-> - "They refused to bend to the hijackers' demands."（他们拒绝屈从于劫机者的要求。——考研阅读常见表达）
+> - "The branches bent in the wind." `[真题]`
+> - "They refused to bend to the hijackers' demands." `[真题]`
+> - "I bent down and picked up the coins lying on the road." `[COCA-FIC]`
 
 
 ---

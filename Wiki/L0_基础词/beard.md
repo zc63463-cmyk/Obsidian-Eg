@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**胡须，络腮胡**==（下巴和脸颊上的毛发）；
-**v.** ①公开反对，公然挑衅（beard the lion in his den）；
+**n.** ①==**胡须，络腮胡**== `a flowing/grey beard`（下巴和脸颊上的毛发）；
+**v.** ①公开反对，公然挑衅 `beard the lion in his den`；
 
 > [!tip] 原型义
 > **原型义**：胡须（下巴和脸颊上生长的毛发）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He decided to beard the lion in his den and demand an explanation."（他决定太岁头上动土，直接要求对方给出解释。——常见文学类语料）
-> - "The philosopher was known for his long white beard and piercing eyes."（这位哲学家以他长长的白胡须和锐利的目光闻名。——常见描写类语料）
+> - "He decided to beard the lion in his den and demand an explanation." `[COCA-FIC]`
+> - "The philosopher was known for his long white beard and piercing eyes." `[COCA-FIC]`
+> - "It can pick out particular characteristics of the people in the photo, including smiles and beards and eyeglasses." `[COCA-NEWS]`
+> - "The old man stroked his flowing beard thoughtfully." `[例]`
 
 
 ---

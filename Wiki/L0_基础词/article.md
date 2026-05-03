@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**文章，论文**==；②==**物品，物件**==；③==**条款，条文**==；④冠词（语法）；
-**vt.** ①==**订约将……列条款**==；
+**n.** ①==**文章，论文**== `N` `write/publish V N`；②==**物品，物件**== `N` `articles of N`；③==**条款，条文**== `N` `Article N`；④冠词（语法） `N`；
+**vt.** ①==**订约将……列条款**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：文章（用文字技艺写成的小作品）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The newspaper published an article exposing the corruption scandal."（报纸发表了一篇揭露腐败丑闻的文章）
-> - "According to Article 5 of the agreement, both parties must maintain confidentiality."（根据协议第五条，双方必须保密）
+> - An article of clothing was found near the river. `[COCA-NEWS]`
+> - Guests are advised not to leave any articles of value in their hotel rooms. `[COCA-FIC]`
+> - I read an interesting article on climate change in the newspaper. `[COCA-SPOKEN]`
+> - According to Article 5 of the agreement, both parties must maintain confidentiality. `[COCA-ACAD]`
 
 
 ---

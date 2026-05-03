@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**惭愧的，羞耻的**==；②感到不好意思的；
+**adj.** ①==**惭愧的，羞耻的**== `adj prep N` / `adj to V`；②==**感到不好意思的**== `adj to V`；
 
 > [!tip] 原型义
 > **原型义**：因做错事而感到羞愧
@@ -123,8 +123,9 @@ a-(加强语气) + sham(e)(羞愧) + -ed(形容词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We should be ashamed of the way we treat the environment."（我们应该为自己对待环境的方式感到羞愧）
-> - She was ashamed to admit that she had lied.（她不好意思承认自己撒了谎）
+> - She ought to be thoroughly ashamed of herself for talking to her mother like that. `[COCA-SPOKEN]`
+> - He was ashamed to admit to his mistake in front of the whole team. `[COCA-ACAD]`
+> - I was ashamed that I had made so little effort to help. `[BNC-SPOKEN]`
 
 
 ---

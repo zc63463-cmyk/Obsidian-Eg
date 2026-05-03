@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**打败，战胜**==；②==**（心脏等）跳动**==；③敲打，连续击打；④搅拌，打（蛋等）；
-**n.** ①==**节拍，拍子**==；②（心脏的）跳动；③敲打；
+**v.** ①==**打败，战胜**== `V N` `V N at N`；②==**（心脏等）跳动**== `V`；③敲打，连续击打 `V N`；④搅拌，打（蛋等） `V N`；
+**n.** ①==**节拍，拍子**== `N`；②（心脏的）跳动 `N`；③敲打 `N`；
 
 > [!tip] 原型义
 > **原型义**：反复击打（有节奏的敲击动作）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The German-born theoretical physicist, who developed the theory of relativity, beat out other candidates."（这位出生于德国的理论物理学家发展了相对论，击败了其他候选人。）
-> - "The heart beats about 100,000 times per day."（心脏每天大约跳动十万次。）
+> - "The German-born theoretical physicist, who developed the theory of relativity, beat out other candidates." `[真题]`
+> - "The heart beats about 100,000 times per day." `[COCA-ACAD]`
+> - "Rain beat against the windows all night long." `[例]`
 
 
 ---

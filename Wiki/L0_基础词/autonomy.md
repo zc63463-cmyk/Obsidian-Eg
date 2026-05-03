@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**自治，自治权**==；②自主权，独立性；
+**n.** ①==**自治，自治权**== `N`；②自主权，独立性 `N`；
 
 > [!tip] 原型义
 > **原型义**：自己制定法律（自我管理、自我统治）
@@ -127,8 +127,9 @@ auto-(自己) + nom(法律/规则，来自希腊语 *nomos*) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The region was granted autonomy in 1997."（该地区于1997年被授予自治权——考研常见表达）
-> - "Universities should have greater autonomy in deciding their curricula."（大学在决定课程方面应拥有更大的自主权）
+> - The region was granted autonomy in 1997. `[例]`
+> - Universities should have greater autonomy in deciding their curricula. `[例]`
+> - District officials had rebuffed a proposal to grant greater autonomy to local schools. `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**参考书目，文献目录**==（附在论文或书籍末尾）；②==**文献学，目录学**==（研究书籍和手稿的学科）；
+**n.** ①==**参考书目，文献目录**== `N` `[学术]`（附在论文或书籍末尾）；②==**文献学，目录学**== `N` `[学术]`（研究书籍和手稿的学科）；
 
 > [!tip] 原型义
 > **原型义**：书的抄写（希腊语 *bibliographia*，"the writing of books"）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research paper should include a comprehensive bibliography listing all sources consulted."（研究论文应包含一份全面的参考书目，列出所有查阅过的资料来源。——考研英语阅读学术写作类话题）
-> - "An annotated bibliography provides a brief summary and evaluation of each source."（附注参考书目对每个资料来源提供了简短的总结和评价。——考研英语阅读学术方法类话题）
+> - The extensive bibliography provides ample guidance for readers who want to make a deeper study of the subject. `[COCA-ACAD]`
+> - Most books on art materials and techniques also include excellent bibliographies for further reading. `[COCA-ACAD]`
+> - She has included a bibliography so that readers can refer to the primary sources. `[例]`
 
 
 ---

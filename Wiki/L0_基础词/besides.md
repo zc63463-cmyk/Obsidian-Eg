@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**此外，而且**==（= moreover）；②再说，况且（补充理由）；
-**prep.** ①==**除……之外（还）**==（包含性追加，besides A = A + B）；
+**adv.** ①==**此外，而且**==（= moreover） `adv`；②再说，况且（补充理由） `adv`；
+**prep.** ①==**除……之外（还）**==（包含性追加，besides A = A + B） `prep N` `prep V-ing`；
 
 > [!tip] 原型义
 > **原型义**：除……之外还有（包含性追加）
@@ -123,8 +123,9 @@ be-（在）+ side（边）+ -s（副词/介词标记）→ 在旁边→除…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I don't want to go; besides, it's too late."（我不想去；再说，太晚了。——考研完型/阅读常见表达）
-> - "There will be five of us for dinner, besides John."（除约翰外，还有我们五个人要一起吃饭。——考研翻译类表达）
+> - "I don't want to go; besides, it's too late." `[真题]`
+> - "There will be five of us for dinner, besides John." `[真题]`
+> - "Besides looking after the children, she also runs a successful business." `[COCA-NEWS]`
 
 
 ---

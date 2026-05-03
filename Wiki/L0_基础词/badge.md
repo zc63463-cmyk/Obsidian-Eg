@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**徽章，标记**==（表示身份、成员资格等）；②==**象征，标志**==（某种品质或身份的象征）；
-**v.** ①==**授予徽章**==；②用徽章标记；
+**n.** ①==**徽章，标记**==（表示身份、成员资格等）`wear a N` `adj N`；②==**象征，标志**==（某种品质或身份的象征）`a N of N`；
+**v.** ①==**授予徽章**== `badge N with N`；②用徽章标记；
 
 > [!tip] 原型义
 > **原型义**：作为身份标记的徽章
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For many veterans, their military medals serve as badges of honor that remind them of their service and sacrifice."（对许多退伍军人来说，他们的军功章是荣誉的象征，提醒他们曾经的服役和牺牲——考研阅读社会话题相关表达）
-> - "All employees are required to wear their identification badges at all times while on the company premises."（所有员工在公司场所内必须始终佩戴身份徽章——考研翻译职场话题相关表达）
+> - "For many veterans, their military medals serve as badges of honor that remind them of their service and sacrifice." `[例]`
+> - "All employees are required to wear their identification badges at all times while on the company premises." [COCA]
+> - "Some people take their ignorance about popular culture as a badge of intellectual prowess." [COCA]
 
 
 ---

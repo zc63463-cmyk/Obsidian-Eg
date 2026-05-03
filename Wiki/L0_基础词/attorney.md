@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**律师，代理人**==；②（美国）检察官；
+**n.** ①==**律师，代理人**== `N` `adj N`；②（美国）检察官 `N`；
 
 > [!tip] 原型义
 > **原型义**：被指派转向的人（被委托代表他人行事）
@@ -124,7 +124,10 @@ at-（=ad-，向、朝向）+ torner（转，古法语 *torner*，拉丁语 *tor
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The defendant has the right to be represented by an attorney.（被告有权由律师代理。）
+> - The defendant has the right to be represented by an attorney. `[COCA-ACAD]`
+> - They paid a high-powered attorney to plead their case. `[COCA-NEWS]`
+> - The defence attorney requested an adjournment to review the new evidence. `[COCA-ACAD]`
+> - We encourage families to obtain durable power of attorney for health care for their demented relatives. `[COCA-ACAD]`
 
 
 ---

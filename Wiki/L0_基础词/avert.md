@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**防止，避免（灾难等）**==；②转移（目光、思想等）；
+**v.** ①==**防止，避免（灾难等）**== `V N`；②转移（目光、思想等） `V N`；
 
 > [!tip] 原型义
 > **原型义**：转移目光/转向别处（转开、避开）
@@ -125,8 +125,9 @@ a-(=ab-, 离开，远离) + [[ver-vert|vert]](转，来自拉丁语 *vertere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tragedy could have been averted if the crew had followed safety procedures."（如果船员遵守了安全程序，这场悲剧本可以避免——考研常见表达）
-> - "She averted her eyes from the terrible scene."（她把目光从那可怕的场面移开）
+> - The tragedy could have been averted if the crew had followed safety procedures. `[例]`
+> - Talks with the teachers' union over the weekend have averted a strike. `[COCA-NEWS]`
+> - She averted her eyes from the terrible scene. `[例]`
 
 
 ---

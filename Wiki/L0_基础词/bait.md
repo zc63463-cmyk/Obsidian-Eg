@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**饵，诱饵**==（放在钩上或陷阱中引诱猎物）；②引诱物，诱惑物；
-**v.** ①==**放置诱饵**==；②激怒，挑衅（故意激怒某人使其失控）；③在食物中下毒；
+**n.** ①==**饵，诱饵**== `fish N` / `put N on the hook`（放在钩上或陷阱中引诱猎物）；②==**引诱物，诱惑物**== `the N of N`；
+**v.** ①==**放置诱饵**== `V N`；②==**激怒，挑衅**== `V N into V-ing`（故意激怒某人使其失控）；③在食物中下毒；
 
 > [!tip] 原型义
 > **原型义**：放在钩上引诱猎物咬钩的食物
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The opposition tried to bait the Prime Minister into making a controversial statement during the debate."（反对党试图在辩论中激怒首相，诱使他发表争议性言论——考研阅读政治话题相关表达）
-> - "Don't take the bait when someone tries to provoke you into an argument online."（当有人试图在网上挑衅你时，不要上当——考研翻译网络话题相关表达）
+> - Ignore him - he's just baiting you. [COCA]
+> - I suspect he was just baiting me. [COCA]
+> - When she attempts to make you feel guilty, don't take the bait. [COCA]
+> - The opposition tried to bait the Prime Minister into making a controversial statement during the debate. `[例]`
 
 
 ---

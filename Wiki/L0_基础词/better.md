@@ -24,10 +24,10 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**更好的**==；②（健康状况）好转的；
-**adv.** ①更好地；②更，更多；
-**v.** ①改善，改进；②改善……的健康；
-**n.** ①更好的人/事；②更优者；
+**adj.** ①==**更好的**== `adj than N`；②==**（健康状况）好转的**== `get better`；
+**adv.** ①==**更好地**== `V better`；②==**更，更多**==；
+**v.** ①==**改善，改进**== `V N`；②==**改善……的健康**== `V N`；
+**n.** ①==**更好的人/事**== `the better of N`；
 
 > [!tip] 原型义
 > **原型义**：更好的（good 的比较级，源自 PIE *bhad- "good"）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You had better study harder if you want to pass the exam."（你最好更努力学习，如果你想通过考试的话）
-> - "Technology has made our lives better in many ways."（技术在许多方面使我们的生活变得更好）
+> - She did much better in the second part of the exam. `[COCA-ACAD]`
+> - The organization was established to better conditions for the disabled. `[COCA-NEWS]`
+> - I like this jacket much better than the brown one. `[例]`
 
 
 ---

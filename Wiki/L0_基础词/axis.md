@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**轴，轴线**==；②坐标轴；③核心，中枢（比喻义）；
+**n.** ①==**轴，轴线**== `the N of N` `N-axis`；②坐标轴；③核心，中枢（比喻义）；
 
 > [!tip] 原型义
 > **原型义**：车轴（旋转的中心线）
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The earth rotates on its axis once every 24 hours."（地球每24小时绕地轴自转一次——考研常见表达）
-> - "The vertical axis represents time, and the horizontal axis represents distance."（纵轴代表时间，横轴代表距离）
+> - "Earth rotates around an axis that passes through its poles." `[COCA-ACAD]`
+> - "The vertical axis represents time, and the horizontal axis represents distance." `[例]`
+> - "The earth's axis is tilted at an angle of approximately 23.5 degrees." `[COCA-ACAD]`
 
 
 ---

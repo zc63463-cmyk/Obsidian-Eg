@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**方面，层面**==；②外观，样子；③（语法）体（如进行体、完成体）；
+**n.** ①==**方面，层面**== `N of N`；②外观，样子；③（语法）体（如进行体、完成体）；
 
 > [!tip] 原型义
 > **原型义**：看事物的角度/方面（从某个方向看过去的样子）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report covers every aspect of the company's operations."（报告涵盖了公司运营的各个方面）
-> - "Climate change affects almost every aspect of our lives."（气候变化几乎影响我们生活的方方面面）
+> - The report covers every aspect of the company's operations. `[COCA-ACAD]`
+> - Climate change affects almost every aspect of our lives. `[COCA-ACAD]`
+> - Perhaps the most worrying aspect of England's performance was their porous defence. `[COCA-NEWS]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**服务员，侍者**==；②随从；③出席者；
-**adj.** ①伴随的，随之而来的；
+**n.** ①==**服务员，侍者**== `N` `adj N`；②随从；③出席者；
+**adj.** ①伴随的，随之而来的 `adj N`；
 
 > [!tip] 原型义
 > **原型义**：伸向某人（注意力伸向某人→侍候）
@@ -125,7 +125,10 @@ at-（=ad-，向、朝向）+ [[tend-tens|tend]]（伸展，拉丁语 *tendere*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Technology brings attendant risks that must be carefully managed.（技术带来了必须谨慎管理的伴随风险。）
+> - Technology brings attendant risks that must be carefully managed. `[COCA-ACAD]`
+> - Kim, 31, is a flight attendant for Delta Air Lines. `[COCA-NEWS]`
+> - He was working as a car-park attendant when the incident occurred. `[BNC-SPOKEN]`
+> - The new policy has a number of attendant problems that need to be addressed. `[例]`
 
 
 ---

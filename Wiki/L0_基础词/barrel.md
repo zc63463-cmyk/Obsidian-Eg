@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**桶**==；②枪管，炮管；③一桶的量；
-**vi.** ①高速行驶；②飞驰；
+**n.** ①==**桶**== `N`；②枪管，炮管；③一桶的量；
+**vi.** ①==**高速行驶；飞驰**== `V` [口语]；
 
 > [!tip] 原型义
 > **原型义**：桶（圆筒形木制容器）
@@ -127,8 +127,10 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December."（自从石油输出国组织在3月决定减少原油供应以来，原油的价格便从去年12月的不到10美元飙升至近26美元一桶——2002年考研英语阅读Text 3）
-> - "The barrel of the gun was still warm."（枪管还是热的——考研翻译相关语料）
+> - "Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December." `[真题]`
+> - "They drank a whole barrel of beer at the party." `[COCA-FIC]`
+> - "Oil prices fell to $9 a barrel." `[COCA-NEWS]`
+> - "The car barrelled down the road at an alarming speed." `[例]`
 
 
 ---

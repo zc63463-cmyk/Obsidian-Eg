@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**烤，烘焙**==（用干热烹饪食物）；②（太阳、热）把……晒干，晒裂；③被晒热，感到极热；
+**v.** ①==**烤，烘焙**== `V N` / `V bread`（用干热烹饪食物）；②==**（太阳、热）把……晒干，晒裂**== `the sun V N`；③被晒热，感到极热；
 
 > [!tip] 原型义
 > **原型义**：用干热烘烤食物
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sun baked the dry soil into hard, cracked earth that no plant could penetrate."（太阳把干燥的土壤烤成了坚硬开裂的土地，任何植物都无法穿透——考研阅读环境话题相关表达）
-> - "She baked a cake for her son's birthday, following a recipe passed down from her grandmother."（她按照祖母传下来的食谱为儿子烤了一个生日蛋糕——考研翻译生活话题相关表达）
+> - I made the icing while the cake was baking. [COCA]
+> - He forgot to water his garden, and now the flowers are just baking in the sun. [COCA]
+> - Nowadays, I bake my own bread rather than buy it. [COCA]
+> - She baked a cake for her son's birthday, following a recipe passed down from her grandmother. `[例]`
 
 
 ---

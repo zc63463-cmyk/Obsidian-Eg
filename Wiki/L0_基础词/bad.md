@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**坏的，不好的**==；②==**严重的，厉害的**==（程度深）；③（食物等）腐败的，变质的；④错误的，不合适的；⑤不健康的，有病的；
+**adj.** ①==**坏的，不好的**== `adj N` `be bad`；②==**严重的，厉害的**==（程度深）`a bad N`；③（食物等）腐败的，变质的 `go bad`；④错误的，不合适的；⑤不健康的，有病的；
 
 > [!tip] 原型义
 > **原型义**：坏的，不好的（质量低劣的）
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smoking is bad for your health, increasing the risk of lung cancer and heart disease significantly."（吸烟对健康有害，显著增加患肺癌和心脏病的风险——考研阅读健康话题相关表达）
-> - "The economic situation went from bad to worse as unemployment rates continued to rise throughout the year."（随着失业率全年持续上升，经济形势每况愈下——考研翻译经济话题相关表达）
+> - "Smoking is bad for your health, increasing the risk of lung cancer and heart disease significantly." [COCA]
+> - "The economic situation went from bad to worse as unemployment rates continued to rise throughout the year." [COCA]
+> - "This meat has gone bad and should not be eaten." `[BNC-SPOKEN]`
 
 
 ---

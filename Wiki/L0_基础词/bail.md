@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保释金**==（以金钱担保被告出庭）；②==**保释**==（被允许暂时释放）；③（水桶的）半圆形把手；
-**v.** ①==**保释**==（交保释金使某人获释）；②（从飞机上）跳伞；③用桶舀水；④放弃，退出（bail out）；
+**n.** ①==**保释金**== `grant N` / `release on N`（以金钱担保被告出庭）；②==**保释**==（被允许暂时释放）；③（水桶的）半圆形把手；
+**v.** ①==**保释**== `V N` / `V N out`（交保释金使某人获释）；②（从飞机上）跳伞；③用桶舀水；④==**放弃，退出**== `V out` / `V on N`（bail out）；
 
 > [!tip] 原型义
 > **原型义**：从牢房中提出来的保释金
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The defendant was released on bail after his family posted a $50,000 bond to guarantee his appearance in court."（被告在家属缴纳了5万美元保证金以确保其出庭受审后被保释——考研阅读法律话题相关表达）
-> - "The government was forced to bail out several major banks during the financial crisis to prevent a complete collapse of the banking system."（政府被迫在金融危机期间救助了几家大银行，以防止银行系统全面崩溃——考研翻译经济话题相关表达）
+> - The plane's engine failed and the pilot was forced to bail out. [COCA]
+> - She keeps running up huge debts and asking friends to bail her out. [COCA]
+> - The responsibility for dealing with young people on remand rests with the local authorities, except where they are bailed or are remanded to prison custody. [COCA]
+> - The government was forced to bail out several major banks during the financial crisis to prevent a complete collapse of the banking system. `[例]`
 
 
 ---
