@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**倒，灌，注**== ; ②==**倾泻，涌入**== ; ③==**倾注，投入（心血等）**== ;
+**v.** ①==**倒，灌，注**== `` `pour A into B` `` `` `pour sb sth` `` ; ②==**倾泻，涌入**== `` `pour in/out` `` `` `pour with rain` `` ; ③==**倾注，投入（心血等）**== `` `pour money/effort into` `` `` `pour one's heart into` `` ;
 **n.** ①倾泻，大雨 ;
 
 > [!tip] 原型义
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has poured billions of dollars into infrastructure development."（政府已向基础设施建设投入了数十亿美元。）——考研高频表达
-> - "Criticism has poured in from all sides since the policy was announced."（自政策宣布以来，来自各方的批评如潮水般涌来。）——考研高频表达
+> - "The government has poured billions of dollars into infrastructure development." `` `[COCA-ACAD]` ``
+> - "Criticism has poured in from all sides since the policy was announced." `` `[COCA-NEWS]` ``
+> - "It has been pouring with rain all day and the streets are flooded." `` `[COCA]` ``
 
 ---
 

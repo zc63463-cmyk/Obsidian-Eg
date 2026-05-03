@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**在海外，在国外**== ;
-**adj.** ①==**海外的，国外的**== ;
+**adv.** ①==**在海外，在国外**== `` `go/live/work ~` `` ;
+**adj.** ①==**海外的，国外的**== `` `~ markets / ~ students` `` ;
 
 > [!tip] 原型义
 > **原型义**：越过海→海外的
@@ -121,8 +121,9 @@ over-(越过) + sea(海) + -s(副词/形容词标记)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "An increasing number of Chinese students choose to pursue their higher education overseas."（越来越多的中国学生选择到海外接受高等教育。）——考研高频表达
-> - "The company is planning to expand its overseas markets to boost its revenue growth."（公司计划拓展海外市场以促进收入增长。）——考研高频表达
+> - "An increasing number of Chinese students choose to pursue their higher education overseas." `` `[COCA-ACAD]` ``
+> - "The company has been successful in penetrating overseas markets this year." `` `[COCA-ACAD]` ``
+> - "Colleges and universities are seeing strong interest from overseas students who pay large fees." `` `[COCA-NEWS]` ``
 ---
 
 

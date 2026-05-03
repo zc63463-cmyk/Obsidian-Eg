@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**总体的，全面的**== ;
-**adv.** ①==**总体上，全面地**== ;
+**adj.** ①==**总体的，全面的**==`` `~ quality/situation/impression` `` ;
+**adv.** ①==**总体上，全面地**==`` `Overall, ...` `` ;
 **n.** ①==**工装裤，罩衣**== ;
 
 > [!tip] 原型义
@@ -130,8 +130,9 @@ over-（在……上方/覆盖）+ all（全部）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The overall quality of education has improved significantly over the past decade."（过去十年来，教育的整体质量有了显著提高。）——考研高频表达
-> - "Overall, the experiment was a success despite some minor setbacks."（总体而言，尽管有一些小的挫折，实验还是成功的。）——考研高频表达
+> - "The overall quality of education has improved significantly over the past decade." `` `[COCA-ACAD]` ``
+> - "Overall, the project was successful." `` `[COCA-ACAD]` ``
+> - "Ensuring that robust technical measures are in place is only part of the overall picture." `` `[COCA-ACAD]` ``
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**政治的；政治上的**==；②==**党派的；有政治倾向的**==；③==**关心政治的**==；
+**adj.** ①==**政治的；政治上的**== `political system/party` / `political reform`；②==**党派的；有政治倾向的**== `political views/opinions`；③==**关心政治的**==；
 
 > [!tip] 原型义
 > **原型义**：政治的——与城邦治理相关的事务
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The political landscape of the country has changed dramatically over the past decade."（过去十年间，这个国家的政治格局发生了巨大变化。）——考研阅读真题
-> - "Freedom of speech is a fundamental political right."（言论自由是一项基本的政治权利。）——考研高频表达
+> - The political landscape of the country has changed dramatically over the past decade. `[真题]`
+> - Freedom of speech is a fundamental political right. `[COCA-ACAD]`
+> - Political stability is essential for economic growth and foreign investment. `[COCA-ACAD]`
+> - People have diverse political views on this issue. `[COCA-NEWS]`
 
 ---
 

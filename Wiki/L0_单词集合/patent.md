@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**专利，专利权**==；②==**专利证书**==；
-**adj.** ①==**专利的，受专利保护的**==；②==**明显的，显而易见的**==；
-**vt.** ①==**获得……的专利**==；
+**n.** ①==**专利，专利权**== `` `apply for a patent` `` `` `hold a patent` ``；②==**专利证书**== `` `patent office` ``；
+**adj.** ①==**专利的，受专利保护的**== `` `patent N` `` `` `patent protection` ``；②==**明显的，显而易见的**== `` `a patent lie/absurdity` ``；
+**vt.** ①==**获得……的专利**== `` `patent an invention` ``；
 
 > [!tip] 原型义
 > **原型义**：公开的信件（向公众公开授予某种权利的官方文书）
@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "patent protection encourages innovation"（专利保护鼓励创新）——考研阅读常见论点，科技与法律类话题
-> - "a patent falsehood"（明显的虚假）——考研翻译/阅读中 patent 作"明显的"用法的典型语境
-> - "file a patent application"（提交专利申请）——商业/科技类阅读常见搭配
+> - "An inventor must apply for a patent within one year of publicly disclosing the invention." `` `[COCA-ACAD]` ``
+> - "Coca-Cola was granted fourteen years of patent protection on its classic bottle design." `` `[COCA-ACAD]` ``
+> - "It is a patent falsehood that has been repeated many times." `` `[真题]` ``
 
 ---
 

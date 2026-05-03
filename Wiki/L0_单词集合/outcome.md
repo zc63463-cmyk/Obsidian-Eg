@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**结果，效果**==；②结局，后果；
+**n.** ①==**结果，效果**== `outcome of`; `positive/negative outcome`; ②结局，后果；
 
 > [!tip] 原型义
 > **原型义**：事情发展到最后"走出来"的结果
@@ -126,8 +126,10 @@ out(出来，out) + come(来，come)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study found a direct correlation between early childhood education and positive academic outcomes.（研究发现早期儿童教育与积极的学业成果之间存在直接关联。）
-> - The outcome of the experiment supported the researcher's original hypothesis.（实验结果支持了研究者最初的假设。）
+> - "The study found a direct correlation between early childhood education and positive academic outcomes." `[真题]`
+> - "The outcome of the experiment supported the researcher's original hypothesis." `[真题]`
+> - "He stressed that he was pleased with the outcome of the strategy review." `[COCA-ACAD]`
+> - "This method of parenting is associated with more positive social and academic outcomes." `[COCA-ACAD]`
 
 ---
 

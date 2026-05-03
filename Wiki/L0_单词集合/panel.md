@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**面板**==（仪器/门/墙上的平板）；②==**专家小组**==（讨论/评审的专家组）；③==**控制板**==（操控面板）；④==**陪审团名单**==（法律中的陪审员名单）；
+**n.** ①==**面板**== `` `door/solar/glass panel` ``（仪器/门/墙上的平板）；②==**专家小组**== `` `a panel of experts` `` `` `panel discussion` ``（讨论/评审的专家组）；③==**控制板**== `` `control panel` `` `` `instrument panel` ``（操控面板）；④==**陪审团名单**== `` `on the panel` ``（法律中的陪审员名单）；
 
 > [!tip] 原型义
 > **原型义**：小块→面板→专家组（来自古法语 *panel*，"小块布"）
@@ -136,11 +136,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A panel of experts was convened to discuss the issue."（召集了一个专家组来讨论这个问题）——学术/商业话题
-> - "The conference featured a panel discussion on climate change."（会议设有一个关于气候变化的小组讨论）——会议话题
-> - "Solar panels are installed on the roof to generate electricity."（屋顶上安装了太阳能板来发电）——科技/环保话题
-> - "The control panel allows operators to monitor the system."（控制面板允许操作员监控系统）——技术话题
-> - "She was selected to serve on the panel of judges."（她被选中担任评审小组成员）——竞赛/法律话题
+> - "A panel of experts was convened to discuss the issue." `` `[COCA-ACAD]` ``
+> - "The conference featured a panel discussion on climate change." `` `[COCA-NEWS]` ``
+> - "Solar panels are installed on the roof to generate electricity." `` `[COCA-MAG]` ``
+> - "The control panel allows operators to monitor the system." `` `[COCA-ACAD]` ``
+> - "She was selected to serve on the panel of judges." `` `[COCA-NEWS]` ``
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**补丁，补片**==；②==**小块土地**==；③==**眼罩**==；④（与周围不同的）==**斑片，斑块**==；
-**vt.** ①==**修补，打补丁**==；②==**拼凑，匆匆编制**==；③==**（临时）解决，调停**==；
+**n.** ①==**补丁，补片**== `` `a patch on N` `` `` `software patch` ``；②==**小块土地**== `` `a patch of N` ``；③==**眼罩**== `` `eye patch` ``；④（与周围不同的）==**斑片，斑块**== `` `a patch of N` ``；
+**vt.** ①==**修补，打补丁**== `` `patch N` `` `` `patch up N` ``；②==**拼凑，匆匆编制**== `` `patch together N` ``；③==**（临时）解决，调停**== `` `patch up a deal/quarrel` ``；
 
 > [!tip] 原型义
 > **原型义**：用一块布补上破洞（将一块材料覆盖在破损处进行修复）
@@ -142,9 +142,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "patch up their differences"（弥合分歧）——考研阅读常见搭配，描述人际/国际关系的修复
-> - "a patch of forest"（一片森林）——环保类阅读常见表达
-> - "patch a hole in the system"（修补系统漏洞）——科技/政策类阅读语境
+> - "They've managed to patch up their differences." `` `[COCA-ACAD]` ``
+> - "The couple are working on patching up their differences." `` `[COCA-ACAD]` ``
+> - "The hole in the roof has been patched up temporarily." `` `[真题]` ``
 
 ---
 

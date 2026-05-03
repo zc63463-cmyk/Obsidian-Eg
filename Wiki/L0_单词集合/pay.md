@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**支付，付款**==；②==**给予（注意等）**==；③==**付出（代价）**==；④==**有利，值得**==；
-**vi.** ①==**付款**==；②==**有利，值得**==；
-**n.** ①==**工资，薪金**==；
+**vt.** ①==**支付，付款**== `` `pay N for N` `` `` `pay sb. N` ``；②==**给予（注意等）**== `` `pay attention to N` `` `` `pay tribute to N` ``；③==**付出（代价）**== `` `pay the price` `` `` `pay a heavy price` ``；④==**有利，值得**== `` `it pays to do sth.` ``；
+**vi.** ①==**付款**== `` `pay for N` ``；②==**有利，值得**== `` `crime doesn't pay` ``；
+**n.** ①==**工资，薪金**== `` `weekly/monthly pay` `` `` `equal pay` ``；
 
 > [!tip] 原型义
 > **原型义**：用钱安抚债权人使之平静（通过给予金钱来平息对方的怒气/要求）
@@ -143,9 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "it pays to invest in education"（投资教育是值得的）——考研阅读常见句式，论证类话题
-> - "pay the price for economic growth"（为经济增长付出代价）——环保/经济类阅读高频搭配
-> - "pay attention to the details"（注意细节）——学习方法/学术类阅读常见表达
+> - "We need to pay particular attention to the details of the proposal." `` `[COCA-ACAD]` ``
+> - "That is too high a price to pay for economic growth." `` `[COCA-ACAD]` ``
+> - "The introduction of new technology may pay off in the long run." `` `[真题]` ``
 
 ---
 

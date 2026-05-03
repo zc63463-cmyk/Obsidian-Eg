@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**步伐，步速**==（走路/跑步的速度）；②==**节奏，速度**==（事件发展的快慢）；③（竞赛的）==**步调**==；
-**v.** ①==**踱步，来回走**==；②==**为…定速度/配速**==（pace oneself）；③==**与…并驾齐驱**==；
+**n.** ①==**步伐，步速**== `` `at a ... pace` `` `` `quicken one's pace` ``（走路/跑步的速度）；②==**节奏，速度**== `` `the pace of change/life` `` `` `at a rapid/slow pace` ``（事件发展的快慢）；③（竞赛的）==**步调**== `` `set the pace` `` `` `keep pace with` ``；
+**v.** ①==**踱步，来回走**== `` `pace up and down` ``；②==**为…定速度/配速**== `` `pace oneself` ``（pace oneself）；③==**与…并驾齐驱**== `` `keep pace with` ``；
 
 > [!tip] 原型义
 > **原型义**：一步、步伐（脚迈出一次的距离）
@@ -135,10 +135,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is important to keep pace with the rapid pace of change."（跟上快速变化的步伐很重要）——考研高频表达
-> - "The pace of technological change is accelerating."（技术变革的步伐正在加快）——科技话题
-> - "He paced up and down the room, deep in thought."（他在房间里踱来踱去，陷入沉思）——文学/日常语境
-> - "Don't try to do everything at once — pace yourself."（不要试图一次做完所有事——量力而行）——常见建议表达
+> - "The law has not kept pace with technology." `` `[COCA-ACAD]` ``
+> - "The pace of technological change is accelerating." `` `[COCA-ACAD]` ``
+> - "He paced up and down the room, deep in thought." `` `[COCA-FICT]` ``
+> - "Don't try to do everything at once — pace yourself." `` `[COCA-MAG]` ``
+> - "They simply can't keep pace with the competition." `` `[COCA-ACAD]` ``
 
 ---
 

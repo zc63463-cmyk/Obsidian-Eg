@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有礼貌的；客气的**==；②==**文雅的；上流社会的**==（如 polite society 上流社会）；
+**adj.** ①==**有礼貌的；客气的**== `be polite to sb.` / `a polite request`；②==**文雅的；上流社会的**== `polite society`；
 
 > [!tip] 原型义
 > **原型义**：有礼貌的、文明的——城邦公民应有的行为修养
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "It is considered polite to wait your turn in line."（排队等候被认为是礼貌的行为。）——考研高频表达
-> - "He was too polite to point out her mistake."（他太客气了，不愿指出她的错误。）——考研高频表达
+> - He was too polite to point out her mistake. `[COCA-ACAD]`
+> - It is not considered polite to ask someone how much they earn. `[COCA-ACAD]`
+> - She sent me a polite letter thanking me for my invitation. `[COCA-ACAD]`
+> - Certain words are vulgar and not acceptable in polite society. `[COCA-FIC]`
 
 ---
 

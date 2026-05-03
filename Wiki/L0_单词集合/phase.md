@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**阶段，时期**== ; ②==**月相，相位**== ;
-**vt.** ①==**分阶段进行，逐步安排**== ;
+**n.** ①==**阶段，时期**== `a phase of ...` / `in the ... phase` ; ②==**月相，相位**== `the phases of the moon` ;
+**vt.** ①==**分阶段进行，逐步安排**== `phase sth in` / `phase sth out` ;
 
 > [!tip] 原型义
 > **原型义**：月相，月亮在周期运行中呈现的不同外观形态
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The project is currently in the initial phase of development."（该项目目前处于开发的初始阶段。）——考研阅读真题
-> - "Most teenagers go through a rebellious phase."（大多数青少年都会经历一个叛逆期。）——考研高频表达
+> > - We're entering a new phase in international relations. `[真题]`
+> > - Many countries are moving to phase out plastics in various forms. `[COCA-NEWS]`
+> > - The construction of the building is in its final phase. `[COCA-ACAD]`
 
 ---
 

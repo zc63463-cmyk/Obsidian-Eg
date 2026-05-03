@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**拥有，具有**== ; ②支配，控制（指情感、力量等）
+**v.** ①==**拥有，具有**== `` `possess sth.` `` / `` `possess the qualities/skills to do sth.` `` ; ②支配，控制（指情感、力量等） `` `be possessed by/with sth.` ``
 
 > [!tip] 原型义
 > **原型义**：坐在上面 → 占据 → 拥有
@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ability to adapt is a quality possessed by all successful people."（适应能力是所有成功人士都具备的品质。）——2018考研英语翻译
-> - "Those states are the countries that possess nuclear weapons."（那些国家是拥有核武器的国家。）——考研高频表达
-> - "She possesses the unusual talent of knowing when to say nothing."（她拥有一种不寻常的才能——知道什么时候该保持沉默。）——考研高频表达
+> - The ability to adapt is a quality possessed by all successful people. `[真题]`
+> - Workers who possess the requisite skills for the task are in high demand. `[COCA-ACAD]`
+> - He possessed an unusual ability to learn languages quickly. `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**部分的，不完全的**==；②==**偏袒的，不公平的**==；③==**偏爱的，钟爱的**==（~ to/towards）；
+**adj.** ①==**部分的，不完全的**== `` `a partial recovery` `` `` `a partial solution` ``；②==**偏袒的，不公平的**== `` `a partial judge` `` `` `partial towards` ``；③==**偏爱的，钟爱的**== `` `partial to sth.` ``（~ to/towards）；
 
 > [!tip] 原型义
 > **原型义**：只涉及整体的一部分（源自 part + -ial，"具有部分性质的"）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The judge was accused of being partial towards the defendant."（法官被指控偏袒被告）——考研阅读法律/社会类话题
-> - "We have only achieved a partial success."（我们只取得了部分成功）——学术/商业类语境
-> - "I'm not partial to mushrooms."（我不太爱吃蘑菇）——日常生活表达
+> - "The judge was accused of being partial towards the defendant." `` `[COCA-NEWS]` ``
+> - "We have only achieved a partial success." `` `[COCA-ACAD]` ``
+> - "I'm not partial to mushrooms." `` `[COCA-MAG]` ``
+> - "The patient made a partial recovery after the surgery." `` `[COCA-ACAD]` ``
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**似乎合理的；貌似可信的**==；②花言巧语的；嘴巧的；
+**adj.** ①==**似乎合理的；貌似可信的**== `a plausible explanation/reason` / `it is plausible that ...` ;②花言巧语的；嘴巧的；
 
 > [!tip] 原型义
 > **原型义**：值得鼓掌的，表面上说得通的
@@ -130,8 +130,9 @@ plaus(鼓掌/赞同，同源 applause 鼓掌) + -ible(可以...的) → 值得�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The scientist proposed a plausible explanation for the unusual phenomenon."（这位科学家对这一异常现象提出了一个合理的解释。）——考研阅读真题
-> - "His excuse for being late was plausible but ultimately unconvincing."（他迟到的借口听起来有道理，但最终无法令人信服。）——考研高频表达
+> > - This story is plausible but wrong. `[真题]`
+> > - The uncertainty of timber prices could be one plausible reason why leaseholders are delaying the planting of their leases. `[COCA-ACAD]`
+> > - Is there any plausible reason for this? `[COCA-NEWS]`
 
 ---
 

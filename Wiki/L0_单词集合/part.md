@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**部分，局部**==；②==**零件，部件**==；③==**角色，作用**==；④==**一方，方面**==；⑤==**地区，区域**==；
-**v.** ①==**分开，分离**==；②==**分手，断绝关系**==；
-**adv.** ①==**部分地**==（= partly）；
-**adj.** ①==**部分的，局部的**==；
+**n.** ①==**部分，局部**== `` `part of the problem` `` `` `for the most part` ``；②==**零件，部件**== `` `spare parts` ``；③==**角色，作用**== `` `play a part in` `` `` `take part in` ``；④==**一方，方面**== `` `for my part` `` `` `on the part of` ``；⑤==**地区，区域**== `` `in all parts of the world` ``；
+**v.** ①==**分开，分离**== `` `part the crowd` `` `` `part with` ``；②==**分手，断绝关系**== `` `part ways` ``；
+**adv.** ①==**部分地**== `` `part of the reason` ``（= partly）；
+**adj.** ①==**部分的，局部的**== `` `a part share` ``；
 
 > [!tip] 原型义
 > **原型义**：整体中的一份（源自拉丁语 pars，"一份、部分、份额"）
@@ -151,9 +151,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology plays a vital part in modern education."（技术在现代教育中起着至关重要的作用）——考研写作高频句式
-> - "For my part, I believe the policy should be revised."（就我而言，我认为这项政策应该修订）——考研阅读/翻译常见表达
-> - "They parted ways after years of collaboration."（经过多年合作后他们分道扬镳）——描述关系变化
+> - "Technology plays a vital part in modern education." `` `[COCA-ACAD]` ``
+> - "For my part, I believe the policy should be revised." `` `[COCA-ACAD]` ``
+> - "They parted ways after years of collaboration." `` `[COCA-FICT]` ``
+> - "She had to part with her childhood home." `` `[COCA-FICT]` ``
+> - "For the most part, the experiment was a success." `` `[COCA-ACAD]` ``
 
 ---
 

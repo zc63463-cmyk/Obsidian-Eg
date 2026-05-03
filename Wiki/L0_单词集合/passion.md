@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**激情，热情**==；②==**酷爱，热爱**==（~ for）；③==**强烈感情，盛怒**==；④==**耶稣受难**==（宗教，the Passion）；
+**n.** ①==**激情，热情**== `` `with passion` `` `` `speak with passion` ``；②==**酷爱，热爱**==（~ for）`` `a passion for N` `` `` `have a passion for N` ``；③==**强烈感情，盛怒**== `` `in a passion of N` ``；④==**耶稣受难**==（宗教，the Passion）`` `the Passion` ``；
 
 > [!tip] 原型义
 > **原型义**：忍受痛苦（源自拉丁语 passio，"痛苦、受难"，由 pati "忍受" 的过去分词 pass- 派生）
@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has a passion for teaching."（她热爱教学）——考研写作人物描写常用表达
-> - "He spoke with great passion about the need for reform."（他充满激情地谈论改革的必要性）——演讲/政治类文本
-> - "His passion for music began at an early age."（他对音乐的热爱始于幼年）——人物传记类语境
+> - "Music has always been his passion." `` `[COCA-ACAD]` ``
+> - "Her performance is full of passion and originality." `` `[COCA-ACAD]` ``
+> - "He had a passion for academic excellence that came from his competitive spirit." `` `[真题]` ``
 
 ---
 

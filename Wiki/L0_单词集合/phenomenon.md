@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**现象， remarkable phenomenon**== ; ②==**杰出的人（或事物）**== ;
+**n.** ①==**现象， remarkable phenomenon**== `a common/natural phenomenon` / `the phenomenon of ...` ; ②==**杰出的人（或事物）**== `a phenomenon in ...` ;
 
 > [!tip] 原型义
 > **原型义**：显现出来的事物，可被感官或理性观察到的事件
@@ -126,8 +126,9 @@ phen(显现) + -omen(名词后缀，表示"…的事物") + -on(希腊语中性�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Globalization is a complex phenomenon that affects every aspect of modern life."（全球化是一个影响现代生活方方面面的复杂现象。）——考研阅读真题
-> - "The phenomenon of urbanization has accelerated in developing countries."（城市化现象在发展中国家加速了。）——考研高频表达
+> > - There's evidence to suggest that child abuse is not just a recent phenomenon. `[真题]`
+> > - The rapid advancement of technology is a phenomenon that has transformed how we communicate. `[COCA-ACAD]`
+> > - Gravity is a natural phenomenon. `[COCA-ACAD]`
 
 ---
 

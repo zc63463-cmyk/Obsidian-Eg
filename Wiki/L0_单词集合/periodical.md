@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**期刊，杂志**==
-**adj.** ①周期性的，定期的
+**n.** ①==**期刊，杂志**== `` `a periodical published by the university` `` `` `subscribe to academic periodicals` ``；
+**adj.** ①==**周期性的，定期的**== `` `periodical inspection/checks` `` `` `a periodical visit to the doctor` ``；
 
 > [!tip] 原型义
 > **原型义**：按固定周期（period）出版的读物
@@ -121,8 +121,10 @@ peri-(周围/环绕) + od(道路) + -ical(形容词后缀，表"…性质的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The library subscribes to a wide range of academic periodicals."（图书馆订阅了大量的学术期刊。）——考研高频表达
-> - "The findings were published in a leading scientific periodical."（研究结果发表在一家权威科学期刊上。）——考研高频表达
+> - The library subscribes to a wide range of academic periodicals. `[真题]`
+> - He continued his academic work, writing essays for periodicals. `[COCA-ACAD]`
+> - The library has a large collection of scholarly periodicals. `[COCA-ACAD]`
+> - Periodicals and magazines were also circulated widely among the public. `[COCA-ACAD]`
 
 ---
 

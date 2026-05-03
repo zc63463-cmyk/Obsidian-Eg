@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**身体的，肉体的**== ; ②==**物质的，有形的**== ; ③==**物理的，自然科学的**== ; ④==**体力的**== ;
+**adj.** ①==**身体的，肉体的**== `physical health/exercise` / `physical appearance` ; ②==**物质的，有形的**== `the physical world` / `physical evidence` ; ③==**物理的，自然科学的**== `physical science/laws` ; ④==**体力的**== `physical labour/strength` ;
 
 > [!tip] 原型义
 > **原型义**：与自然界物质有关的，与自然（physis）相关的
@@ -132,8 +132,9 @@ phys(自然/物质) + -ic(形容词后缀，"…的") + -al(形容词后缀，"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Regular physical exercise is essential for maintaining good health."（规律的体育锻炼对保持身体健康至关重要。）——考研阅读真题
-> - "The physical environment of the classroom can affect students' learning outcomes."（教室的物理环境会影响学生的学习效果。）——考研高频表达
+> > - The program is designed to address both physical and emotional health. `[真题]`
+> > - There was no physical evidence of the crime. `[COCA-NEWS]`
+> > - Regular physical exercise, preferable outdoors, can prevent deterioration of bone density. `[COCA-ACAD]`
 
 ---
 

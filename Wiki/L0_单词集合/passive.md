@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**被动的，消极的**==；②==**被动语态的**==（语法）；
-**n.** ①==**被动语态**==（语法，the passive）；②==**被动性**==；
+**adj.** ①==**被动的，消极的**== `` `passive N` `` `` `passive attitude` ``；②==**被动语态的**==（语法）`` `the passive voice` ``；
+**n.** ①==**被动语态**==（语法，the passive）`` `use the passive` ``；②==**被动性**== `` `passivity` ``；
 
 > [!tip] 原型义
 > **原型义**：一味忍受而不反抗（源自拉丁语 passivus，"承受的、忍受的"，由 pati "忍受" 的过去分词词干 pass- 加 -ivus 构成）
@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Passive smoking is harmful to health."（被动吸烟有害健康）——考研阅读健康/社会类话题高频表达
-> - "Students should not be passive recipients of knowledge."（学生不应是知识的被动接受者）——考研写作教育类话题
-> - "The passive voice is commonly used in academic writing."（被动语态在学术写作中常用）——语言学/写作类语境
+> - "The passive voice is commonly used in scientific writing." `` `[COCA-ACAD]` ``
+> - "He tends to be passive in group discussions." `` `[COCA-ACAD]` ``
+> - "Students should not be passive recipients of knowledge." `` `[真题]` ``
 
 ---
 

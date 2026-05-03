@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**部分地，在一定程度上**==；②==**在某种程度上**==；
+**adv.** ①==**部分地，在一定程度上**== `` `partly due to N` `` `` `partly adj.` ``；②==**在某种程度上**== `` `partly because` ``；
 
 > [!tip] 原型义
 > **原型义**：以部分的方式（源自 part + -ly，"以部分的方式"）
@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The decline is partly due to economic factors."（这种下降部分归因于经济因素）——考研阅读/写作高频句式
-> - "I partly agree with your argument."（我部分同意你的论点）——表达观点的常用方式
-> - "The success was partly accidental and partly planned."（成功部分是偶然的，部分是计划的）——分析类文本
+> - "The hot weather is partly to blame for the water shortage." `` `[COCA-ACAD]` ``
+> - "He was only partly responsible for the accident." `` `[COCA-ACAD]` ``
+> - "The company's problems are partly due to bad management." `` `[真题]` ``
 
 ---
 

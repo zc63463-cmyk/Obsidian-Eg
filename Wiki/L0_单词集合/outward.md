@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**向外的，外出的**==；②==**表面的，外在的**==（~ appearance）；
+**adj.** ①==**向外的，外出的**==`` `~ journey/voyage` ``；②==**表面的，外在的**==（~ appearance）`` `~ appearance / ~ sign` ``；
 **adv.** ①==**向外**==（~ from）；
 
 > [!tip] 原型义
@@ -126,9 +126,9 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite his calm outward appearance, he was deeply anxious."（尽管他外表平静，内心却非常焦虑）——心理描写类阅读
-> - "The outward journey took longer than expected due to bad weather."（由于恶劣天气，出行的旅程比预期更长）——旅行/叙事类话题
-> - "The company's outward confidence masked its internal problems."（公司的外在自信掩盖了其内部问题）——商业分析类话题
+> - "To all outward appearances, their marriage was quite normal." `` `[COCA-FICT]` ``
+> - "His clenched fist was the only outward sign of his anger." `` `[COCA-FICT]` ``
+> - "The outward appearance of the building has not changed at all in 200 years." `` `[COCA-ACAD]` ``
 
 ---
 

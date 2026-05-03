@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**参与者，参加者**==；
-**adj.** ①==**参与的，有份的**==；
+**n.** ①==**参与者，参加者**== `` `active participant` `` `` `participant in sth.` ``；
+**adj.** ①==**参与的，有份的**== `` `participant observation` ``；
 
 > [!tip] 原型义
 > **原型义**：取得一部分的人（源自拉丁语 particeps，"分享者、参与者"，由 pars "部分" + capere "取"构成）
@@ -129,9 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was an active participant in the class discussion."（她是课堂讨论的积极参与者）——考研阅读教育类话题
-> - "All participants were asked to complete a questionnaire."（所有参与者都被要求完成一份问卷）——学术研究类语境
-> - "Participants in the study showed significant improvement."（研究参与者显示出显著改善）——科研论文常见表达
+> - "She was an active participant in the class discussion." `` `[COCA-ACAD]` ``
+> - "All participants were asked to complete a questionnaire." `` `[COCA-ACAD]` ``
+> - "Participants in the study showed significant improvement." `` `[COCA-ACAD]` ``
+> - "A total of 137 participants were included in the study." `` `[COCA-ACAD]` ``
 
 ---
 

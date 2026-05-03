@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**伙伴，搭档**==；②==**合伙人，股东**==；③==**配偶，伴侣**==；
-**v.** ①==**与……合伙，与……搭档**==（~ with）；
+**n.** ①==**伙伴，搭档**== `` `N's partner` `` `` `partner in N` ``；②==**合伙人，股东**== `` `a partner in/at N` ``；③==**配偶，伴侣**== `` `life partner` ``；
+**v.** ①==**与……合伙，与……搭档**==（~ with）`` `partner with sb.` ``；
 
 > [!tip] 原型义
 > **原型义**：分享部分的人（源自拉丁语 *partitor*，"分配者、分享者"，由 pars "部分" + -tor "……的人"构成）
@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "China is a major trading partner of many countries."（中国是许多国家的主要贸易伙伴）——考研阅读经济类话题高频表达
-> - "She partnered with a local firm to expand the business."（她与一家当地公司合作拓展业务）——商业类文本
-> - "Choose your life partner carefully."（慎重选择你的人生伴侣）——生活/情感类话题
+> - "The two companies are partners in a contract to build the new power station." `` `[COCA-ACAD]` ``
+> - "He's a partner in a Chicago law firm." `` `[COCA-ACAD]` ``
+> - "The company has partnered with a local charity to raise funds for the community." `` `[真题]` ``
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**政治；政治事务**==；②==**政治学**==（作为学科）；③==**政治观点；政治立场**==；④==**权术；手腕**==；
+**n.** ①==**政治；政治事务**== `enter politics` / `party politics`；②==**政治学**==（作为学科）`study politics` / `a degree in politics`；③==**政治观点；政治立场**== `sb.'s politics`；④==**权术；手腕**== `office politics` / `play politics`；
 
 > [!tip] 原型义
 > **原型义**：城邦事务——关于城邦治理的一切活动
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The relationship between politics and the media has become increasingly complex."（政治与媒体之间的关系变得越来越复杂。）——考研阅读真题
-> - "She decided to enter politics after a career in law."（她在法律职业生涯之后决定从政。）——考研高频表达
+> - The relationship between politics and the media has become increasingly complex. `[真题]`
+> - She decided to enter politics after a career in law. `[COCA-NEWS]`
+> - I try not to get involved in office politics. `[COCA-ACAD]`
+> - Flynn retired from politics in 1986 after serving three terms in Parliament. `[COCA-ACAD]`
 
 ---
 

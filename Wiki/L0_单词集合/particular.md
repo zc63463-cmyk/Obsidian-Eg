@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**特定的，某一的**==；②==**挑剔的，讲究的**==（~ about/over）；③==**特别的，格外的**==；
-**n.** ①==**细节，详情**==（通常用复数 particulars）；②==**一项，一条**==（信息等）；
+**adj.** ①==**特定的，某一的**== `` `a particular N` `` `` `in particular` ``；②==**挑剔的，讲究的**==（~ about/over）`` `be particular about N` ``；③==**特别的，格外的**== `` `of particular N` ``；
+**n.** ①==**细节，详情**==（通常用复数 particulars）`` `the particulars of N` ``；②==**一项，一条**==（信息等）`` `a particular N` ``；
 
 > [!tip] 原型义
 > **原型义**：某一个特定的部分（源自拉丁语 particularis，"关于一小部分的"，由 particula "小部分"派生）
@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Is there any particular reason for your decision?"（你的决定有什么特别的原因吗？）——考研阅读/翻译常见句式
-> - "She is very particular about her clothes."（她对衣着非常讲究）——描述人物性格
-> - "This issue is of particular importance."（这个问题特别重要）——学术/政治类文本高频表达
+> - "He wouldn't take just any book — he had to have this particular one." `` `[COCA-ACAD]` ``
+> - "She is very particular about her clothes." `` `[COCA-ACAD]` ``
+> - "These documents are of particular interest to the investigation." `` `[真题]` ``
 
 ---
 

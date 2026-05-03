@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**内科医生**== ; ②==**医生（泛指）**== ;
+**n.** ①==**内科医生**== `consult a physician` / `attending physician` ; ②==**医生（泛指）**== `primary care physician` / `a licensed physician` ;
 
 > [!tip] 原型义
 > **原型义**：了解人体自然的人，掌握自然科学知识来治病的人
@@ -123,8 +123,9 @@ phys(自然/物质) + -ician(专家/从事…职业的人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The physician recommended that the patient get more rest and exercise."（医生建议病人多休息多锻炼。）——考研高频表达
-> - "Primary care physicians play a crucial role in the healthcare system."（初级保健医生在医疗体系中发挥着关键作用。）——考研阅读真题
+> > - Primary care physicians play a crucial role in the healthcare system. `[真题]`
+> > - A physician was permitted to overrule these recommendations by providing the reason at the bottom of the sheet. `[COCA-ACAD]`
+> > - Please consult a physician or medical professional for personal medical advice or treatment. `[COCA-NEWS]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**练习；训练**== ; ②==**从事（职业）**== ; ③==**奉行；践行**== ;
+**v.** ①==**练习；训练**== `` `practise doing sth` `` `` `practise on sth` `` ; ②==**从事（职业）**== `` `practise law/medicine` `` `` `practise as sth` `` ; ③==**奉行；践行**== `` `practise what you preach` `` ;
 
 > [!tip] 原型义
 > **原型义**：反复做、练习（通过反复操作来掌握技能）
@@ -120,8 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route."（但是在日常的科学实践中，发现通常遵循一条模糊而复杂的路径。）——2012年阅读Text3
-> - "She practised as a lawyer when she joined the company."（她加入公司时从事律师工作。）——考研高频表达
+> - "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route." `` `[真题]` ``
+> - "She has practised law for over twenty years." `` `[COCA]` ``
+> - "Politicians should practise what they preach." `` `[COCA]` ``
 ---
 
 

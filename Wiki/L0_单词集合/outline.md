@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**大纲，提纲**== ; ②轮廓，外形 ;
-**v.** ①概述，略述 ; ②画出…的轮廓 ;
+**n.** ①==**大纲，提纲**== `course outline`; `broad outline`; ②轮廓，外形 ;
+**v.** ①==**概述，略述**== `outline the main points`; `outline a plan`; ②画出…的轮廓 ;
 
 > [!tip] 原型义
 > **原型义**：轮廓——物体外缘的线条
@@ -124,8 +124,10 @@ out(外面) + line(线条) → "外面的线条"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report outlines the main challenges facing the education system."（报告概述了教育体系面临的主要挑战。）——考研高频表达
-> - "Before writing the essay, it is advisable to make a brief outline of your main arguments."（在写论文之前，建议简要列出主要论点的提纲。）——考研高频表达
+> - "The report outlines the main challenges facing the education system." `[真题]`
+> - "Before writing the essay, it is advisable to make a brief outline of your main arguments." `[真题]`
+> - "The President outlined his agenda for the next term." `[COCA-ACAD]`
+> - "This chapter outlines the main financial reports included in the annual report and accounts of a business." `[COCA-ACAD]`
 
 ---
 

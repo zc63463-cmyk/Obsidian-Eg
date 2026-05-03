@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**（与……）部分重叠，交叉**== ; ②（与……）部分相同，有共同点 ;
-**n.** ①==**重叠部分，交叉**== ;
+**v.** ①==**（与……）部分重叠，交叉**== `` `~ with sth / ~ between A and B` `` ; ②（与……）部分相同，有共同点 ;
+**n.** ①==**重叠部分，交叉**== `` `a significant/strong ~` `` ;
 
 > [!tip] 原型义
 > **原型义**：部分覆盖在上方（over + lap）
@@ -131,8 +131,9 @@ over-（在……上方）+ lap（重叠，搭接）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is considerable overlap between the two academic disciplines."（这两个学科之间有很大的重叠。）——考研高频表达
-> - "The responsibilities of the two departments overlap, causing confusion among employees."（两个部门的职责重叠，导致员工困惑。）——考研高频表达
+> - "There is considerable overlap between the two academic disciplines." `` `[COCA-ACAD]` ``
+> - "Baseball season overlaps football season in September." `` `[COCA-ACAD]` ``
+> - "Some of your duties overlap his." `` `[COCA-ACAD]` ``
 
 ---
 

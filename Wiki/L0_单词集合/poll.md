@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**民意调查**==；②==**投票；投票数**==；③==**投票站**==；④（the polls）大选；
-**v.** ①==**对……进行民意调查**==；②==**获得（若干票数）**==；③==**给……投票**==；
+**n.** ①==**民意调查**== `opinion poll` / `conduct a poll`；②==**投票；投票数**==；③==**投票站**== `go to the polls`；④（the polls）大选；
+**v.** ①==**对……进行民意调查**== `poll sb. on sth.`；②==**获得（若干票数）**==；③==**给……投票**==；
 
 > [!tip] 原型义
 > **原型义**：人头——逐个清点人数（投票/调查）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "A recent opinion poll shows that public support for the policy is declining."（最近的一项民意调查显示，公众对该政策的支持正在下降。）——考研阅读真题
-> - "The results of the poll were published in several major newspapers."（投票结果在几家主要报纸上公布。）——考研高频表达
+> - A recent opinion poll shows that public support for the policy is declining. `[真题]`
+> - The latest opinion poll puts the Democrats in the lead. `[COCA-NEWS]`
+> - More than 70 per cent of those polled said that they approved of his record as president. `[COCA-NEWS]`
+> - Voters are due to go to the polls on Sunday to elect a new president. `[COCA-NEWS]`
 
 ---
 

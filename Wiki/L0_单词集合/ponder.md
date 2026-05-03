@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**沉思；深思**==；②==**考虑；权衡**==；
+**v.** ①==**沉思；深思**== `` `ponder on/over sth.` `` ; ②==**考虑；权衡**== `` `ponder sth.` `` / `` `ponder whether/how...` `` ;
 
 > [!tip] 原型义
 > **原型义**：称量——在心中反复掂量某个问题的分量
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Scientists have long pondered the mysteries of the universe."（科学家们长期以来一直在思索宇宙的奥秘。）——考研阅读真题
-> - "He sat alone, pondering the meaning of life."（他独自坐着，思考人生的意义。）——考研高频表达
+> - Scientists have long pondered the mysteries of the universe. `[COCA-ACAD]`
+> - The senator pondered the question for a moment before answering. `[COCA-ACAD]`
+> - We intend to ponder all the alternatives before acting. `[COCA-ACAD]`
 
 ---
 

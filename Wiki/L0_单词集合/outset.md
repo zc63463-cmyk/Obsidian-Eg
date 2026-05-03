@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**开始，开端**==（~ of）；
+**n.** ①==**开始，开端**==（~ of）`` `at the ~ / from the ~` ``；
 
 > [!tip] 原型义
 > **原型义**：超出之前的位置（out- "向外/超出" + set "放置" → 向外放置到起点 = 开始/开端）
@@ -123,9 +123,9 @@ out-（= beyond/forth，向外/超出）+ set（= set，放置/设定）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At the outset of the project, the team set clear goals."（在项目开始时，团队设定了明确的目标）——商业/管理类阅读
-> - "From the outset, it was clear that the policy would face opposition."（从一开始就很清楚，这项政策将面临反对）——政治类话题
-> - "The company failed to clarify its position at the outset."（公司一开始就没有澄清其立场）——商业/法律类话题
+> - "He made it clear at the outset that he is not going to quit his job." `` `[COCA-ACAD]` ``
+> - "The public was skeptical from the outset." `` `[COCA-NEWS]` ``
+> - "At the outset of the 1990s, there was remarkable consensus within the business community." `` `[COCA-ACAD]` ``
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一部分，一份**== ; ②（食物的）一份，一客 ;
-**v.** ①==**分配，把……分给**== ;
+**n.** ①==**一部分，一份**== `` `a portion of sth.` `` / `` `a large/significant portion of` `` ; ②（食物的）一份，一客 `` `a portion of food` `` ;
+**v.** ①==**分配，把……分给**== `` `portion sth. out` `` ;
 
 > [!tip] 原型义
 > **原型义**：分配给某人的部分（来自拉丁语 *portio*，"分享、分配"）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A large portion of the population lives below the poverty line."（很大一部分人口生活在贫困线以下。）——考研高频表达
-> - "She donated a portion of her income to charity every month."（她每个月将一部分收入捐给慈善机构。）——考研高频表达
+> - A large portion of the population lives below the poverty line. `[COCA-ACAD]`
+> - A considerable portion of the city was flooded after the storm. `[COCA-ACAD]`
+> - They decided to give away a portion of their income to charity. `[COCA-ACAD]`
 
 ---
 

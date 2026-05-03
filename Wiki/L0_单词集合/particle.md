@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**微粒，粒子**==；②==**质点**==（物理学）；③==**小品词，虚词**==（语法，如介词、连词）；
+**n.** ①==**微粒，粒子**== `` `N of N` `` `` `adj. + particle` ``；②==**质点**==（物理学）`` `particle physics` ``；③==**小品词，虚词**==（语法，如介词、连词）`` `grammatical particle` ``；
 
 > [!tip] 原型义
 > **原型义**：极小的一部分（源自拉丁语 particula，pars "部分" 的指小词，即"很小的一部分"）
@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Particle physics explores the fundamental nature of matter."（粒子物理学探索物质的本质）——考研阅读科技类话题
-> - "Tiny particles of dust floated in the air."（微小的灰尘颗粒漂浮在空气中）——环境/科普类语境
-> - "the particle-wave duality"（波粒二象性）——考研科技阅读高频概念
+> - "Dust particles must have gotten into the motor." `` `[COCA-ACAD]` ``
+> - "The tiny plastic particles have been found in the ocean breeze, soil and even our brains." `` `[COCA-ACAD]` ``
+> - "Scientists announced that the particle discovered through experiments at the Large Hadron Collider is, in fact, the long-sought Higgs boson." `` `[真题]` ``
 
 ---
 

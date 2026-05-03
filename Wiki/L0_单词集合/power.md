@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**权力；控制力**== ; ②==**力量；能力**== ; ③强国；大国 ; ④==**功率**== ;
-**v.** ①==**驱动；供以动力**== ;
+**n.** ①==**权力；控制力**== `` `come to power` `` `` `in power` `` ; ②==**力量；能力**== `` `the power to do sth` `` `` `beyond one's power` `` ; ③强国；大国 ; ④==**功率**== `` `nuclear power` `` `` `power plant` `` ;
+**v.** ①==**驱动；供以动力**== `` `power by/with sth` `` `` `be powered by` `` ;
 
 > [!tip] 原型义
 > **原型义**：能力、力量（能够做某事的力量）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As economic strength shifts west to east, it is progressively more urban."（随着东西方经济实力对比发生变化，城市变得越发重要。）——考研高频表达
-> - "I believe in the strength of community."（我相信社区的力量。）——考研高频表达
+> - "The party came to power in 2010 and has since introduced sweeping reforms." `` `[COCA-NEWS]` ``
+> - "Nuclear power provides about 20% of the world's electricity." `` `[COCA-ACAD]` ``
+> - "A robust and functional Congress is essential for maintaining the balance of power within the democratic system." `` `[COCA-ACAD]` ``
 ---
 
 

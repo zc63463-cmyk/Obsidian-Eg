@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**潜在的，可能的**== ;
-**n.** ①==**潜力，潜能**== ; ②==**电势，电位**== ;
+**adj.** ①==**潜在的，可能的**== `` `potential risk/threat/customer` `` ;
+**n.** ①==**潜力，潜能**== `` `have the potential to do sth.` `` / `` `reach/fulfill one's potential` `` ; ②==**电势，电位**== `` `electric potential` `` ;
 
 > [!tip] 原型义
 > **原型义**：内在的力量/能力（来自拉丁语 *potentia*，"力量、能力"）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The potential benefits of the new technology are enormous."（新技术的潜在好处是巨大的。）——考研高频表达
-> - "Every child has the potential to succeed if given the right opportunities."（如果给予正确的机会，每个孩子都有成功的潜力。）——考研高频表达
+> - The potential benefits of the new technology are enormous. `[COCA-ACAD]`
+> - Every child has the potential to succeed if given the right opportunities. `[COCA-ACAD]`
+> - Denmark recognised the potential of wind energy early. `[COCA-ACAD]`
 
 ---
 

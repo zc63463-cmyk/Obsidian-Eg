@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**完美的，理想的**==；②==**完全的，十足的**==；③==**精确的，准确的**==；
-**vt.** ①==**使完美，使完善**==；②==**使熟练**==；
+**adj.** ①==**完美的，理想的**== `a perfect example of` `in perfect condition`；②==**完全的，十足的**== `a perfect stranger` `perfect fool`；③==**精确的，准确的**== `perfect timing` `perfect sense`；
+**vt.** ①==**使完美，使完善**== `perfect a technique/skill` `perfect a system`；②==**使熟练**==；
 
 > [!tip] 原型义
 > **原型义**：完全做好的（从头到尾彻底完成，没有任何遗漏）
@@ -139,9 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "in a perfect world"（在理想世界中）——考研阅读常见虚拟语气表达，论证类话题
-> - "a perfect example of..."（……的完美例证）——学术/论证类阅读高频搭配
-> - "practice makes perfect"（熟能生巧）——教育/学习方法类阅读常见谚语
+> - In a perfect world, everybody would have everything they needed. `[COCA]`
+> - The weather was perfect the whole week. `[COCA]`
+> - You have perfect timing — dinner's just coming out of the oven. `[COCA]`
+> - This is a perfect example of Gothic architecture. `[COCA-ACAD]`
 
 ---
 

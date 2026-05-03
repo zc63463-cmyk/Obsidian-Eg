@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可能的，能做到的**== ; ②==**合理的，可接受的**== ;
+**adj.** ①==**可能的，能做到的**== `` `it is possible that...` `` / `` `it is possible (for sb.) to do sth.` `` ; ②==**合理的，可接受的**== `` `the best/worst possible` `` ;
 
 > [!tip] 原型义
 > **原型义**：能够被做到的（来自拉丁语 *possibilis*，*potere* "能够"）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is possible that the results were influenced by external factors."（结果可能受到了外部因素的影响。）——考研高频表达
-> - "The government should do everything possible to reduce unemployment."（政府应该尽一切可能减少失业。）——考研高频表达
+> - It is possible that life exists on other planets. `[COCA-ACAD]`
+> - The government should do everything possible to reduce unemployment. `[COCA-ACAD]`
+> - Advances in medicine have made it possible for people to live longer. `[COCA-ACAD]`
 
 ---
 

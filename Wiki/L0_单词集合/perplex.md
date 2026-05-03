@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使困惑，使费解，使复杂化**==
+**v.** ①==**使困惑，使费解，使复杂化**== `` `perplex sb. with sth.` `` `` `be perplexed by/at` ``；
 
 > [!tip] 原型义
 > **原型义**：彻底缠绕住某人的思维
@@ -126,8 +126,9 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The idea arose because of the perplexing behavior of the women in the plant."（这个想法的产生是因为工厂里女工们令人费解的行为。）——2010考研完形
-> - "The complexity of the issue continues to perplex researchers."（这个问题的复杂性继续让研究人员感到困惑。）——考研高频表达
+> - The idea arose because of the perplexing behavior of the women in the plant. `[真题]`
+> - Questions about the meaning of life have always perplexed humankind. `[COCA-ACAD]`
+> - The complexity of the issue continues to perplex researchers. `[COCA-ACAD]`
 
 ---
 

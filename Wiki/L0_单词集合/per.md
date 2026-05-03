@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**每，每一**==；②==**经由，通过**==；③==**按照，根据**==；④==**（表示比率）**==；
+**prep.** ①==**每，每一**== `per capita` `per person/day/year`；②==**经由，通过**== `per post` `per rail`；③==**按照，根据**== `as per` `per instructions`；④==**（表示比率）**== `miles per hour`；
 **adv.** ①==**每次，每个**==；
 
 > [!tip] 原型义
@@ -137,9 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "GDP per capita"（人均GDP）——经济类阅读高频搭配
-> - "per se does not mean..."（本身并不意味着……）——学术/法律类阅读常见表达
-> - "as per the agreement"（按照协议）——法律/商业类阅读语境
+> - The country's per capita income has increased in recent years. `[COCA-ACAD]`
+> - The technology is not good or bad per se, but it depends on how we use it. `[COCA-ACAD]`
+> - Tax is paid as a percentage of total income per the regulations. `[COCA]`
+> - The car can reach speeds of up to 120 miles per hour. `[COCA]`
 
 ---
 

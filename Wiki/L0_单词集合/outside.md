@@ -28,7 +28,7 @@ review_count: 0
 **n.** ①==**外面，外部**==；②==**外界**==（the ~）；
 **adj.** ①==**外部的，外面的**==；
 **adv.** ①==**在外面，向外面**==；
-**prep.** ①==**在……外面**==；②==**超出……的范围**==（~ one's control/jurisdiction）；
+**prep.** ①==**在……外面**==；②==**超出……的范围**==（~ one's control/jurisdiction）`` `~ one's control/expertise/knowledge` ``；
 
 > [!tip] 原型义
 > **原型义**：超出边界的（out- "向外/超出" + side "边/侧" → 超出边界的外侧 = 外面）
@@ -133,9 +133,9 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The matter is outside the jurisdiction of the court."（此事不在法院的管辖范围内）——法律/政治类阅读
-> - "These factors are largely outside the control of the government."（这些因素很大程度上超出了政府的控制范围）——政策分析类话题
-> - "From the outside, the company appeared to be thriving."（从外面看，这家公司似乎很繁荣）——商业类话题
+> - "These factors are largely outside the control of the government." `` `[COCA-ACAD]` ``
+> - "The condition is practically unknown outside psychiatry clinics." `` `[COCA-ACAD]` ``
+> - "The company now makes much greater use of outside consultants." `` `[COCA-NEWS]` ``
 
 ---
 

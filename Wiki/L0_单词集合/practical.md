@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**实际的；实践的**== ; ②==**实用的；可行的**== ; ③==**注重实际的；务实的**== ;
+**adj.** ①==**实际的；实践的**== `` `practical experience` `` `` `in practical terms` `` ; ②==**实用的；可行的**== `` `practical application` `` `` `practical solution` `` ; ③==**注重实际的；务实的**== `` `a practical person` `` `` `practical approach` `` ;
 
 > [!tip] 原型义
 > **原型义**：与实践相关的（源自 practice 的形容词形式）
@@ -124,8 +124,9 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge."（传统测试能够对分析能力和语言能力做出最佳评估，但不能评估创造能力和实践知识。）——2007年阅读Text2
-> - "The NT Rights of the Terminally Ill law has left physicians and citizens alike trying to deal with its moral and practical implications."（《北领地绝症患者权利法》让医生和市民 alike 都试图应对其道德和实际影响。）——1997年翻译
+> - "Traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge." `` `[真题]` ``
+> - "The NT Rights of the Terminally Ill law has left physicians and citizens alike trying to deal with its moral and practical implications." `` `[真题]` ``
+> - "Qualifications are important but practical experience is always a plus." `` `[COCA-ACAD]` ``
 ---
 
 
