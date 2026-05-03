@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**给...装双层玻璃**==；
+**v..** ①==**给...装双层玻璃**== `V N` [中性] `double-glaze the house` `V N` [中性] `double-glaze the windows`；
 
 > [!tip] 原型义
 > **原型义**：双层上釉（给窗户装两层玻璃）
@@ -116,7 +116,9 @@ double(双倍的) + glaze(上釉/装玻璃) → 双层上釉 → 装双层玻璃
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The house has been double-glazed to improve energy efficiency.（这栋房子已安装双层玻璃以提高能源效率。）
+> - The house has been double-glazed to improve energy efficiency. `[例]`
+> - We plan to double-glaze all the windows before winter arrives. `[例]`
+> - Double-glazed windows significantly reduce noise pollution from the busy street outside. `[例]`
 
 ## 复习记录
 

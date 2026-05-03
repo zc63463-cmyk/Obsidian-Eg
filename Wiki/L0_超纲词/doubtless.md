@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv./adj..** ①==**无疑地，确实**==（adv.）；②==**无疑的**==（adj.）；
+**adv./adj..** ①==**无疑地，确实**== `adv adj` [正式] `doubtless aware of` `adv adj` [正式] `doubtless correct`；②==**无疑的**== `adj N` [正式] `doubtless truth`；
 
 > [!tip] 原型义
 > **原型义**：没有怀疑的（毫无疑问的）
@@ -124,7 +124,9 @@ doubt(怀疑) + -less(没有) → 没有怀疑 → 无疑的
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Doubtless, this decision will have far-reaching consequences.（毫无疑问，这个决定将产生深远的影响。）
+> - Doubtless, this decision will have far-reaching consequences. `[例]`
+> - She will doubtless face many challenges in her new role as department head. `[例]`
+> - The team was doubtless aware of the risks before launching the project. `[例]`
 
 ## 复习记录
 

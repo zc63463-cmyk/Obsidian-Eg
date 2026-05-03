@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**难以捉摸的，难以理解的**==；②逃避的，难以找到的；③难以记住的；
+**adj.** ①==**难以捉摸的，难以理解的**== `adj` [中性]；②==**逃避的，难以找到的**== `adj` [中性]；③==**难以记住的**== `adj` [中性]；
 
 > [!tip] 原型义
 > **原型义**：逃避的（不断躲开、难以捉摸的）
@@ -129,7 +129,8 @@ e-(=ex-, 出来/离开) + [[lus|lus]](玩/逃避，源自拉丁语 *ludere*，"�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The concept of justice has remained an elusive idea that philosophers have debated for centuries. `[例]`
+> - Despite extensive search efforts, the rare species proved elusive and was never photographed in the wild. `[例]`
 
 ## 复习记录
 

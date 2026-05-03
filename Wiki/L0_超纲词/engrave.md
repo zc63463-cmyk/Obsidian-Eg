@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**雕刻，镌刻**==；②铭刻，牢记；
+**v.** ①==**雕刻，镌刻**== `V N on N` [通用]；②==**铭刻，牢记**== `V-ed in N` [文学]；
 
 > [!tip] 原型义
 > **原型义**：在……上雕刻（在表面刻出文字或图案）
@@ -125,7 +125,8 @@ en-(在……上/使成为) + grave(雕刻，源自拉丁语 *gravis*，"重的/
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The couple had their initials engraved on the inside of their wedding rings. `[例]`
+> - The horrors of that war are deeply engraved in the collective memory of the nation. `[例]`
 
 ## 复习记录
 

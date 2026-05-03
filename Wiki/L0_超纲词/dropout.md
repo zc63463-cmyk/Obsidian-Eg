@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**辍学者，退学者**==；②退出者，脱离者；
+**n.** ①==**辍学者，退学者**== `a adj N` `N rate`；
 
 > [!tip] 原型义
 > **原型义**：退出者（从某个体系中掉出来的人）
@@ -123,7 +123,9 @@ drop（掉落，退出）+ out（出来/离开）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The high school dropout rate has declined steadily over the past decade. `[例]`
+> - Several famous entrepreneurs were college dropouts who went on to build successful companies. `[例]`
+> - Programs aimed at reducing dropout rates have shown promising results in urban schools. `[例]`
 
 ## 复习记录
 

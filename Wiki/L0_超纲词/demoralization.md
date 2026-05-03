@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**士气低落，道德败坏**==；②==**瓦解，泄气**==；
+**n..** ①==**士气低落，道德败坏**== `the N of N` [正式] `N lead to demoralization` [正式]；②==**瓦解，泄气**== `a sense of demoralization` [正式]；
 
 > [!tip] 原型义
 > **原型义**：去除道德/士气（使人失去信心和斗志）
@@ -122,7 +122,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The prolonged war led to the demoralization of the entire nation.（旷日持久的战争导致整个国家士气低落。）
+> - The prolonged war led to the demoralization of the entire nation. `[例]`
+> - The demoralization of the workforce resulted in a significant decline in productivity. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**差距，不等，悬殊**==；
+**n..** ①==**差距，不等，悬殊**== `N between N and N` [正式] `N in N` [正式] `N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：分开来看不一样（两者之间存在明显差异）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The disparity in wealth between the two regions is striking.（两个地区之间的财富差距令人震惊。）
+> - The disparity in wealth between the two regions is striking. `[例]`；
+> - The government has pledged to reduce the disparity in educational outcomes across the country. `[例]`；
 
 ## 复习记录
 

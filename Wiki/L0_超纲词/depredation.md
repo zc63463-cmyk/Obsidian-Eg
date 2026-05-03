@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**掠夺，劫掠**==；②==**破坏，毁坏**==；
+**n..** ①==**掠夺，劫掠**== `the depredations of N` [正式]；②==**破坏，毁坏**== `environmental depredations` [正式]；
 
 > [!tip] 原型义
 > **原型义**：掠夺（暴力夺取他人的财物/资源）
@@ -123,7 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The depredations of invading armies left the region in ruins.（入侵军队的掠夺使该地区沦为废墟。）
+> - The depredations of invading armies left the region in ruins. `[例]`
+> - Environmental depredations caused by industrial pollution have devastated the local ecosystem. `[例]`
 
 ## 复习记录
 

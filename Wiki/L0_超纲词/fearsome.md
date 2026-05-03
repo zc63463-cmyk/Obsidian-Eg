@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人恐惧的，可怕的**==；②厉害的，强大的；
+**adj.** ①==**令人恐惧的，可怕的**== `a fearsome creature` [文学] `a fearsome weapon` [文学]；②==**厉害的，强大的**== `a fearsome opponent` [中性] `a fearsome reputation` [中性]；
 
 > [!tip] 原型义
 > **原型义**：令人恐惧的（引起害怕的）
@@ -127,8 +127,8 @@ fear(恐惧) + -some(形容词后缀，引起…的/具有…倾向的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The army was a fearsome fighting force that no enemy dared to challenge."（这支军队是一支令人生畏的战斗力量，没有敌人敢挑战。）
-> - "She has a fearsome intellect that commands respect from everyone."（她有着令人敬畏的才智，赢得了所有人的尊重。）
+> - The army was a fearsome fighting force that no enemy dared to challenge. `[例]`
+> - She has a fearsome intellect that commands respect from everyone. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**功效，效能**==；②效力，有效性；
+**n.** ①==**功效，效能**== `N` [正式]；②==**效力，有效性**== `N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：产生效果的能力（做事能够达到预期效果的能力）
@@ -123,7 +123,8 @@ ef-(=ex-, 出来/向外) + [[fac|fac]](做/制造) + -acy(名词后缀，表示�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Clinical trials have demonstrated the efficacy of the new vaccine in preventing infection. `[例]`
+> - The government questioned the efficacy of the current economic policy and proposed a series of reforms. `[例]`
 
 ## 复习记录
 

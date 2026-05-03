@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**期待，期望**==；②预期寿命；③期望值；
+**n.** ①==**期待，期望**== `N of N` [正式]；②==**预期寿命**== `N` [正式]；③==**期望值**== `N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：期待的状态（期望某事发生的心理状态）
@@ -123,7 +123,8 @@ ex-(向外/向前) + [[spect|spect]](看) + -ancy(名词后缀，表示状态/�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Life expectancy in Japan has risen steadily over the past few decades due to advances in healthcare. `[例]`
+> - The public's expectancy of a quick economic recovery proved to be overly optimistic. `[例]`
 
 ## 复习记录
 

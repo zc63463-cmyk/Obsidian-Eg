@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**教条，信条**==；②==**武断的意见**==；
+**n..** ①==**教条，信条**== `adj N` [正式] `religious dogma` `adj N` [正式] `political dogma`；②==**武断的意见**== `V N` [正式] `challenge the dogma`；
 
 > [!tip] 原型义
 > **原型义**：被规定好的意见（不容质疑的教条）
@@ -124,7 +124,9 @@ dogma(希腊语 *dogma*，意见/法令/教条)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Scientific progress often requires challenging established dogma.（科学进步往往需要挑战既定教条。）
+> - Scientific progress often requires challenging established dogma. `[例]`
+> - The organization was criticized for being rigidly bound by outdated dogma. `[例]`
+> - Religious dogma should not be used to justify discrimination. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**依赖，信赖**==；②==**附属国，附属地**==；③==**瘾，依赖症**==；
+**n..** ①==**依赖，信赖**== `dependency on N` [通用] `N's dependency on N` [通用]；②==**附属国，附属地**== `a former N dependency` [正式]；③==**瘾，依赖症**== `drug/alcohol dependency` [医学/正式]；
 
 > [!tip] 原型义
 > **原型义**：挂在下面（悬垂在下面，依靠上面的支撑）
@@ -127,7 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Our dependency on technology has increased dramatically.（我们对技术的依赖急剧增加。）
+> - Our dependency on technology has increased dramatically over the past decade. `[例]`
+> - The country's dependency on foreign oil makes its economy vulnerable to price shocks. `[例]`
 
 ## 复习记录
 

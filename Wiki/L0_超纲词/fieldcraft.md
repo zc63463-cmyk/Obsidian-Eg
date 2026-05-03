@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**野外技能，野外生存技巧**==；②（军事）野战技能；
+**n.** ①==**野外技能，野外生存技巧**== `fieldcraft skills` [专业] `fieldcraft training` [专业]；②==**（军事）野战技能**== `military fieldcraft` [专业]；
 
 > [!tip] 原型义
 > **原型义**：野外技能（在野外环境中生存和行动的能力）
@@ -124,8 +124,8 @@ field(田野，野外) + [[craft|craft]](技艺，手艺)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Soldiers are trained in fieldcraft to move undetected through hostile terrain."（士兵接受野战技能训练，以便在敌方地形中不被发现地移动。）
-> - "Good fieldcraft includes the ability to read weather signs and navigate without instruments."（优秀的野外技能包括解读天气信号和无仪器导航的能力。）
+> - Soldiers are trained in fieldcraft to move undetected through hostile terrain. `[例]`
+> - Good fieldcraft includes the ability to read weather signs and navigate without instruments. `[例]`
 
 ## 复习记录
 

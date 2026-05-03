@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**使不安，使困惑**==；②==**打乱（计划等）**==；
+**v..** ①==**使不安，使困惑**== `V N` [正式] `be V-ed by N` [正式]；②==**打乱（计划等）**== `V N` [正式] `V N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：打乱安排（破坏原有的计划/从容状态）
@@ -123,7 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The sudden change of plan disconcerted everyone.（计划的突然改变使所有人感到不安。）
+> - The sudden change of plan disconcerted everyone. `[例]`；
+> - She was disconcerted by the interviewer's unexpected question. `[例]`；
 
 ## 复习记录
 

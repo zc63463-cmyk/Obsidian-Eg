@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v./n..** ①==**无视，漠视**==（v.）；②==**漠视，忽视**==（n.）；
+**v./n..** ①==**无视，漠视**== `V N` [正式] `disregard the rules/warning`；②==**漠视，忽视**== `prep N` [正式] `disregard for safety`；
 
 > [!tip] 原型义
 > **原型义**：不看守（不再关注/留意）
@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - He showed a total disregard for the safety regulations.（他完全无视安全规定。）
+> - He showed a total disregard for the safety regulations. `[例]`
+> - The government disregarded the concerns raised by environmental groups. `[例]`
+> - She disregarded her doctor's advice and continued working overtime. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**飘动，拍翅**==；②（心脏）怦怦跳；③紧张不安；
-**n.** ①飘动；②紧张，激动；③（心脏）颤动；
+**v.** ①==**飘动，拍翅**== `butterflies fluttering` [文学] `flags fluttering` [书面]；②==**（心脏）怦怦跳**== `my heart fluttered` [文学]；③==**紧张不安**== `in a flutter` [口语]；
+**n.** ①==**飘动**== `a flutter of wings` [文学]；②==**紧张，激动**== `cause a flutter` [口语]；③==**（心脏）颤动**== `a heart flutter` [医学]；
 
 > [!tip] 原型义
 > **原型义**：飘动，拍翅（像鸟翼一样快速轻拍）
@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Her heart fluttered when she saw the exam results."（她看到考试结果时心怦怦直跳。）
-> - "Flags fluttered in the breeze outside the government building."（政府大楼外的旗帜在微风中飘扬。）
+> - Her heart fluttered when she saw the exam results. `[例]`
+> - Flags fluttered in the breeze outside the government building. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**海拔，高度**==；②提升，晋升；③（建筑）立面图；④抬高，升高；
+**n.** ①==**海拔，高度**== `N` [中性]；②==**提升，晋升**== `N` [正式]；③==**（建筑）立面图**== `N` [专业]；④==**抬高，升高**== `N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：升高（从低处向高处移动）
@@ -129,7 +129,8 @@ e-(=ex-, 出来/向上) + [[lev|lev]](举起/变轻) + -ation(名词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The mountain village is situated at an elevation of over two thousand metres above sea level. `[例]`
+> - His elevation to the position of vice president came as a surprise to many of his colleagues. `[例]`
 
 ## 复习记录
 

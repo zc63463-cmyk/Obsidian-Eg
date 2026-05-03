@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**令人羡慕的**==；②值得嫉妒的；
+**adj.** ①==**令人羡慕的**== `an enviable N` [正式] `in an enviable position` [正式]；②值得嫉妒的 `an enviable reputation` [正式]；
 
 > [!tip] 原型义
 > **原型义**：令人羡慕的（值得嫉妒的）
@@ -125,7 +125,8 @@ en-(=in-, 在……上) + [[vis-vid|vid]](看，源自拉丁语 *videre*) + -abl
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - She holds an enviable position at one of the top research universities in the country. `[例]`
+> - The company has built an enviable reputation for quality and reliability over the past decade. `[例]`
 
 ## 复习记录
 

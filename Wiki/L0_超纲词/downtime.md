@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**停机时间，故障时间**==（机器）；②==**休息时间，空闲时间**==（人）；
+**n.** ①==**停机时间，故障时间**== `adj N` `N during N`；②==**休息时间，空闲时间**== `make the most of N` `use N wisely`；
 
 > [!tip] 原型义
 > **原型义**：向下/停止的时间（机器停机或人休息的时间）
@@ -121,7 +121,9 @@ down-(向下/停止) + time(时间) → 停止的时间 → 停机时间
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The website experienced significant downtime during the upgrade.（该网站在升级期间出现了较长时间的停机。）
+> - The website experienced significant downtime during the upgrade. `[例]`
+> - Many companies use scheduled downtime to perform system maintenance. `[例]`
+> - She used the downtime between projects to learn a new programming language. `[例]`
 
 ## 复习记录
 

@@ -27,8 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**授予……称号，把……称为**==；②（电影）配音；③给……起绰号；
-**n.** ①（电影）配音；②强盗乐（雷鬼音乐的一种）；
+**v.** ①==**授予……称号，把……称为**== `V N N` `V N "N"`；
 
 > [!tip] 原型义
 > **原型义**：授予称号（正式给予某人一个称号）
@@ -126,7 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The media dubbed him the fastest man alive after breaking the world record. `[例]`
+> - The foreign film was dubbed into English for the international market. `[例]`
+> - His teammates dubbed him Speedy because of his remarkable quickness on the field. `[例]`
 
 ## 复习记录
 

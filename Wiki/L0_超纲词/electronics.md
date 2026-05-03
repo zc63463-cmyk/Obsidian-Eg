@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**电子学**==；②电子设备，电子产品；
+**n.** ①==**电子学**== `N` [中性]；②==**电子设备，电子产品**== `N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：电子学（研究电子运动的学科）
@@ -125,7 +125,8 @@ electron（电子，源自希腊语 *elektron*，"琥珀"，因摩擦起电现�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The consumer electronics market has grown rapidly over the past decade. `[例]`
+> - He decided to study electronics at college because he was fascinated by circuit design. `[例]`
 
 ## 复习记录
 

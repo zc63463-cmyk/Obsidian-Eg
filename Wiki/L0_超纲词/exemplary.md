@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**模范的，值得效仿的**==；②惩戒性的（作为警告的）；
+**adj.** ①==**模范的，值得效仿的**== `adj N` [正式]；②==**惩戒性的（作为警告的）**== `adj N` [法律]；
 
 > [!tip] 原型义
 > **原型义**：值得效仿的（作为范例的）
@@ -125,7 +125,8 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Her exemplary dedication to teaching earned her the highest award from the national education board. `[例]`
+> - The court awarded exemplary damages to punish the defendant for his deliberate misconduct. `[例]`
 
 ## 复习记录
 

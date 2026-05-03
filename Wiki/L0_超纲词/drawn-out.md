@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**拖延的，持久的**==；②冗长的，乏味的；
+**adj.** ①==**拖延的，持久的**== `a adj N` `adj N`；
 
 > [!tip] 原型义
 > **原型义**：拖长的（被拉长到超出预期的时间）
@@ -125,7 +125,9 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The drawn-out negotiation finally came to an end after three months. `[例]`
+> - The movie felt drawn-out and lost the audience's interest in the second half. `[例]`
+> - No one expected such a drawn-out process for a simple permit application. `[例]`
 
 ## 复习记录
 

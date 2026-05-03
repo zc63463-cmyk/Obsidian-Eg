@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使恶化，使加剧**==；②激怒，使恼火；
+**v.** ①==**使恶化，使加剧**== `exacerbate N` [正式] `exacerbate the problem` [正式]；②激怒，使恼火 `exacerbate tensions` [正式]；
 
 > [!tip] 原型义
 > **原型义**：使恶化（使已经不好的情况变得更糟）
@@ -125,7 +125,8 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The prolonged drought has exacerbated food shortages in several regions of the country. `[例]`
+> - Raising interest rates during a recession could exacerbate unemployment and slow economic recovery. `[例]`
 
 ## 复习记录
 

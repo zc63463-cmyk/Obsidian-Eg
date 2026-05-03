@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**敌人，仇敌**==；②反对者；③（集合用法）敌人，敌军；
+**n.** ①==**敌人，仇敌**== `a formidable foe` [文学] `friend or foe` [固定搭配]；②==**反对者**== `foes of reform` [新闻/政治]；③==**（集合用法）敌人，敌军**== `foes of poverty` [书面]；
 
 > [!tip] 原型义
 > **原型义**：敌人（与自己对立的人或力量）
@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He was a formidable foe in debate, never backing down from an argument."（他是辩论中可怕的对手，从不退让。）
-> - "Disease and poverty remain the greatest foes of developing nations."（疾病和贫困仍然是发展中国家最大的敌人。）
+> - He was a formidable foe in debate, never backing down from an argument. `[例]`
+> - Disease and poverty remain the greatest foes of developing nations. `[例]`
 
 ## 复习记录
 

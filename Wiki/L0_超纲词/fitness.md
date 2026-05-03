@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**健康，健壮**==；②适合，适当；③（生物）适应度，适合度；
+**n.** ①==**健康，健壮**== `physical fitness` [中性] `fitness level` [中性]；②==**适合，适当**== `fitness for purpose` [正式] `fitness to V` [正式]；③==**（生物）适应度，适合度**== `Darwinian fitness` [学术]；
 
 > [!tip] 原型义
 > **原型义**：适合，健康（身体或事物适合某目的的状态）
@@ -130,8 +130,8 @@ fit(适合的，健康的) + -ness(名词后缀，表示状态/性质)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "Regular exercise is essential for maintaining physical fitness."（定期锻炼对保持身体健康至关重要。）
-> - "Darwin's theory of natural selection is often summarized as 'survival of the fittest.'"（达尔文的自然选择理论常被概括为"适者生存"。）
+> - Regular exercise is essential for maintaining physical fitness. `[例]`
+> - Darwin's theory of natural selection is often summarized as survival of the fittest. `[例]`
 
 ## 复习记录
 

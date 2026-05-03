@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**排斥性的，排他的**==；②排除在外的；
+**adj.** ①==**排斥性的，排他的**== `adj N` [正式] `that-clause` [正式]；②==**排除在外的**== `adj N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：排斥性的（把某些人排除在外的）
@@ -127,7 +127,8 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The exclusionary rule prevents illegally obtained evidence from being used in court. `[例]`
+> - Critics argue that the university's admission policies are exclusionary and disproportionately affect minority applicants. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**制定（法律），颁布**==；②扮演，表演；③发生，展现；
+**v.** ①==**制定（法律），颁布**== `V N` [法律]；②==**扮演，表演**== `V N` [文学]；③==**发生，展现**== `V N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：使成为法律（将法案变为法律）
@@ -125,7 +125,8 @@ en-(使成为/使进入) + [[act|act]](行动/法律)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The parliament enacted a series of new laws to protect the environment. `[例]`
+> - The students enacted a scene from Shakespeare's Hamlet for the school play. `[例]`
 
 ## 复习记录
 

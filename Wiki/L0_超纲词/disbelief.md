@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**不信，怀疑**==；②==**难以置信**==；
+**n..** ①==**不信，怀疑**== `N` [通用] `in N` [通用]；②==**难以置信**== `prep N` [通用] `N that-clause` [通用]；
 
 > [!tip] 原型义
 > **原型义**：不相信（拒绝接受某事为真）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - She stared at the letter in disbelief.（她难以置信地盯着那封信。）
+> - She stared at the letter in disbelief. `[例]`；
+> - He shook his head in disbelief when he heard the final score. `[例]`；
 
 ## 复习记录
 

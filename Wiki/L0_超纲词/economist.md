@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**经济学家，经济专家**==；②节俭的人；
+**n.** ①==**经济学家，经济专家**== `N` [中性]；②==**节俭的人**== `N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：管理家庭经济的人（研究资源分配规律的专家）
@@ -127,7 +127,8 @@ eco-(=oiko-，家/经济，源自希腊语 *oikos*，"家/住所") + nom(管理�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The leading economist warned that inflation could rise further in the coming months. `[例]`
+> - She studied economics at university and later became a chief economist at a major bank. `[例]`
 
 ## 复习记录
 

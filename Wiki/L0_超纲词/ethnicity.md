@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**种族身份，民族属性**==；②种族划分；
+**n.** ①==**种族身份，民族属性**== `of different ethnicity` [正式] `ethnicity and race` [正式]；②种族划分 `ethnicity data` [学术]；
 
 > [!tip] 原型义
 > **原型义**：种族身份（属于某个种族或民族的状态）
@@ -126,7 +126,8 @@ ethn-(种族/民族，源自希腊语 *ethnos*，"民族/种族") + -ic(形容�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The study examined how students of different ethnicity performed across various school districts. `[例]`
+> - Census data on ethnicity and race provide critical insights into the changing demographics of the population. `[例]`
 
 ## 复习记录
 

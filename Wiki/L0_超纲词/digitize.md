@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**将...数字化**==；
+**v..** ①==**将...数字化**== `V N` [技术] `digitize N` [技术]；
 
 > [!tip] 原型义
 > **原型义**：变成数字（将模拟信息转换为数字形式）
@@ -119,7 +119,8 @@ digit-(digit-，手指/数字) + -ize(使变成...后缀) → 使变成数字 �
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The library is working to digitize its entire collection.（图书馆正在努力将其全部馆藏数字化。）
+> - The library is working to digitize its entire collection. `[例]`
+> - Many museums have digitized their archives to make them accessible to researchers worldwide. `[例]`
 
 ## 复习记录
 

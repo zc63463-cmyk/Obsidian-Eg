@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**停止，中断**==；②==**停止使用/生产**==；
+**v..** ①==**停止，中断**== `V N` [正式] `V-ing` [正式]；②==**停止使用/生产**== `V N` [正式] `be V-ed` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不再继续（中断正在进行的事物）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company has decided to discontinue the product line.（公司已决定停产该产品线。）
+> - The company has decided to discontinue the product line. `[例]`；
+> - The doctor advised him to discontinue the medication due to side effects. `[例]`；
 
 ## 复习记录
 

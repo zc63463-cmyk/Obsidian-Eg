@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**激怒，使暴怒**==；
+**v.** ①==**激怒，使暴怒**== `V N` [通用] `V N by N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：使狂怒（使进入愤怒的极端状态）
@@ -124,7 +124,8 @@ en-(使进入/使成为) + rage(愤怒，狂怒)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The government's decision to raise taxes again enraged the entire nation. `[例]`
+> - He was enraged by the customer's rude and insulting behavior. `[例]`
 
 ## 复习记录
 

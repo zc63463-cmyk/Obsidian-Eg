@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**课外的，课程以外的**==；②工作之余的；
+**adj.** ①==**课外的，课程以外的**== `adj N` [教育]；②==**工作之余的**== `adj N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：课程之外的（正规课程以外进行的）
@@ -120,7 +120,8 @@ extra-(在……之外/超出) + curricul(课程，源自拉丁语 *curriculum*�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Participating in extracurricular activities helps students develop leadership and teamwork skills. `[例]`
+> - She balanced her demanding academic schedule with extracurricular involvement in the debate club and orchestra. `[例]`
 
 ## 复习记录
 

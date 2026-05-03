@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**解释性的，说明性的**==；
+**adj.** ①==**解释性的，说明性的**== `adj N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：解释性的（用于解释或说明的）
@@ -124,7 +124,8 @@ ex-(出来/向外) + [[plic-plex|plic]](折叠) + -at-(动词后缀) + -ory(形�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The author provided explicatory notes at the end of each chapter to clarify complex theoretical concepts. `[例]`
+> - The professor's explicatory approach made the difficult philosophical text accessible to first-year students. `[例]`
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**似是而非的事实，伪事实**==；②（新闻用语）简短有趣的事实片段；
+**n.** ①==**似是而非的事实，伪事实**== `N` [媒体]；②==**（新闻用语）简短有趣的事实片段**== `N` [媒体]；
 
 > [!tip] 原型义
 > **原型义**：似是而非的"事实"（看起来像事实但并非真正的事实）
@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The internet is full of factoids presented as genuine knowledge."（互联网上充斥着被当作真知识的伪事实。）
-> - "Many factoids circulate on social media without any factual basis."（许多伪事实在社交媒体上流传，毫无事实依据。）
+> - The internet is full of factoids presented as genuine knowledge by unreliable sources. `[例]`
+> - Many factoids circulate on social media without any factual basis, yet people accept them as truth. `[例]`
 
 ## 复习记录
 

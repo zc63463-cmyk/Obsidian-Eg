@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v..** ①==**使脱离，使分离**==；②==**撇清关系**==；
+**v..** ①==**使脱离，使分离**== `V N` [正式] `V N from N` [正式]；②==**撇清关系**== `V oneself from N` [正式] `V from N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：取消联系（断开与某人/某事的关联）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The politician tried to disassociate himself from the controversial policy.（这位政客试图与这项有争议的政策撇清关系。）
+> - The politician tried to disassociate himself from the controversial policy. `[例]`；
+> - The organization has disassociated itself from the statements made by its former director. `[例]`；
 
 ## 复习记录
 

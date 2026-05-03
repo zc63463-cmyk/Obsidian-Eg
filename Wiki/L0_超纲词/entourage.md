@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**随行人员，周围的人**==；②（名人的）随从；
+**n.** ①==**随行人员，周围的人**== `N's entourage` [正式] `travel with one's entourage` [正式]；②（名人的）随从 `a celebrity entourage` [正式]；
 
 > [!tip] 原型义
 > **原型义**：随行人员（围绕在重要人物身边的人）
@@ -123,7 +123,8 @@ en-(在……周围) + tour(转/环绕) + -age(名词后缀，表示集合)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The president arrived at the summit accompanied by a large entourage of advisors and security personnel. `[例]`
+> - She always travels with her entourage, including a personal stylist, a makeup artist, and two bodyguards. `[例]`
 
 ## 复习记录
 

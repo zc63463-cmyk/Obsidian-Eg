@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**一次性的，可丢弃的**==；②==**可自由支配的**==（收入等）；
+**adj..** ①==**一次性的，可丢弃的**== `adj N` [通用] `adj N` [通用]；②==**可自由支配的**==（收入等） `adj N` [经济] `N adj` [经济]；
 
 > [!tip] 原型义
 > **原型义**：可以丢弃的（用完就可以扔掉的）
@@ -124,7 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Families with higher disposable income tend to spend more on leisure.（可支配收入较高的家庭往往在休闲上花费更多。）
+> - Families with higher disposable income tend to spend more on leisure. `[例]`；
+> - The hospital requires all staff to wear disposable gloves when handling patients. `[例]`；
 
 ## 复习记录
 

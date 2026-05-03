@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**极其严重的，可怕的**==；②==**迫切的，极端的**==；
+**adj..** ①==**极其严重的，可怕的**== `adj N` [书面] `adj that-clause` [书面]；②==**迫切的，极端的**== `adj N` [书面] `prep N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：可怕的（令人恐惧的极端状况）
@@ -121,7 +121,8 @@ dire(拉丁语 *dirus*，可怕的/不祥的)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The country is in dire need of humanitarian aid.（该国极度需要人道主义援助。）
+> - The country is in dire need of humanitarian aid. `[例]`；
+> - The report warned of dire consequences if climate change is left unchecked. `[例]`；
 
 ## 复习记录
 

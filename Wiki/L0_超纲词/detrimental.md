@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**有害的，不利的**==；
+**adj..** ①==**有害的，不利的**== `adj to N` [正式] `have a detrimental effect on N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：磨损掉的（被磨损/损害的）
@@ -119,7 +119,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - Smoking is detrimental to your health.（吸烟对健康有害。）
+> - Smoking is detrimental to your health. `[例]`
+> - Prolonged exposure to loud noise can have a detrimental effect on children's hearing. `[例]`
 
 ## 复习记录
 

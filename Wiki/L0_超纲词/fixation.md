@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**固着，痴迷**==；②（心理学）固着，情结；③固定，安装；
+**n.** ①==**固着，痴迷**== `have a fixation on/with N` [学术/心理] `an unhealthy fixation` [贬义]；②（心理学）==**固着，情结**== `oral fixation` [学术] `Freudian fixation` [学术]；③==**固定，安装**== `nitrogen fixation` [学术]；
 
 > [!tip] 原型义
 > **原型义**：固着（注意力或情感固定在某一点上无法转移）
@@ -129,8 +129,8 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "He has an unhealthy fixation on social media likes."（他对社交媒体上的点赞有着不健康的痴迷。）
-> - "Freud believed that early childhood experiences could lead to fixations that affect adult behavior."（弗洛伊德认为童年早期经历可能导致影响成年行为的心理固着。）
+> - He has an unhealthy fixation on social media likes. `[例]`
+> - Freud believed that early childhood experiences could lead to fixations that affect adult behavior. `[例]`
 
 ## 复习记录
 

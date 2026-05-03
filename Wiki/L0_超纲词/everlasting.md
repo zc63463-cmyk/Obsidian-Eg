@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**永久的，永恒的**==；②无休止的，持续不断的；
+**adj.** ①==**永久的，永恒的**== `everlasting N` [正式] `everlasting peace` [文学]；②无休止的，持续不断的 `everlasting complaints` [日常]；
 
 > [!tip] 原型义
 > **原型义**：永远的（持续不断的，永不结束的）
@@ -125,7 +125,8 @@ ever(永远) + last(持续) + -ing(形容词后缀，表示持续状态)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The diplomat dedicated her life to the pursuit of everlasting peace between the two nations. `[例]`
+> - His everlasting complaints about the weather eventually wore down the patience of everyone around him. `[例]`
 
 ## 复习记录
 

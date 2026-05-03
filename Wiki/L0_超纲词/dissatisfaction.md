@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**不满，不满意**==；
+**n..** ①==**不满，不满意**== `prep N` [正式] `dissatisfaction with the service` `N that-clause` [正式] `dissatisfaction that the product failed`；
 
 > [!tip] 原型义
 > **原型义**：不满足（没有被充分满足的状态）
@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - There is growing dissatisfaction with the government's handling of the crisis.（公众对政府处理危机的方式日益不满。）
+> - There is growing dissatisfaction with the government's handling of the crisis. `[例]`
+> - Customer dissatisfaction has led to a significant drop in sales this quarter. `[例]`
+> - Many employees expressed dissatisfaction with the new working hours. `[例]`
 
 ## 复习记录
 

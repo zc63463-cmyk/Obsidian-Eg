@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj..** ①==**阴沉的，凄凉的**==；②==**差劲的，可怜的**==；
+**adj..** ①==**阴沉的，凄凉的**== `adj N` [书面] `adj N` [书面]；②==**差劲的，可怜的**== `adj N` [书面] `adv adj` [书面]；
 
 > [!tip] 原型义
 > **原型义**：不吉利的（预示坏结果的）
@@ -122,7 +122,8 @@ dismal(中古英语 *dis mal*，不吉利的日子，源自拉丁语 *dies mali*
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The company reported dismal sales figures for the quarter.（公司报告了该季度惨淡的销售数据。）
+> - The company reported dismal sales figures for the quarter. `[例]`；
+> - The students filed into the dismal classroom on a rainy Monday morning. `[例]`；
 
 ## 复习记录
 

@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**谜，谜一般的人或事物**==；②费解之事；
+**n.** ①==**谜，谜一般的人或事物**== `an N to N` [通用]；②==**费解之事**== `remain an N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：谜（难以理解的事物或人）
@@ -125,7 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - Despite years of research, the exact cause of the disease remains an enigma to scientists. `[例]`
+> - She was an enigma to her colleagues, rarely speaking and keeping her thoughts entirely to herself. `[例]`
 
 ## 复习记录
 

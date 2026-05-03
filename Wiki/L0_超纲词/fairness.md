@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**公平，公正**==；②合理，正当；③（肤色/头发）白皙，浅色；
+**n.** ①==**公平，公正**== `a sense of fairness` [正式] `fairness and justice` [正式]；②==**合理，正当**== `in fairness to N` [正式]；③==**（肤色/头发）白皙，浅色**== `the fairness of her skin` [文学]；
 
 > [!tip] 原型义
 > **原型义**：公平（公正合理地对待每个人）
@@ -128,8 +128,8 @@ fair(公平的，美丽的) + -ness(名词后缀，表示状态/性质)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "A sense of fairness is deeply ingrained in human nature."（公平感深植于人性之中。）
-> - "In fairness to the company, they did try to resolve the issue."（为了对该公司公平起见，他们确实尝试过解决这个问题。）
+> - A sense of fairness is deeply ingrained in human nature. `[例]`
+> - In fairness to the company, they did try to resolve the issue. `[例]`
 
 ## 复习记录
 

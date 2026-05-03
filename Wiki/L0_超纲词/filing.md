@@ -27,8 +27,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**归档，存档**==；②档案，文件；③提交（法律文件）；④锉削，锉磨；
-**v.** ①(file 的现在分词) 归档；提交；
+**n.** ①==**归档，存档**== `filing system` [中性] `filing cabinet` [中性]；②==**档案，文件**== `electronic filing` [正式]；③==**提交（法律文件）**== `filing a lawsuit` [正式] `tax filing` [正式]；④==**锉削，锉磨**== `filing down N` [中性]；
+**v.** ①(file 的现在分词) ==**归档**== `V-ing documents` [中性]；②==**提交**== `V-ing a claim` [正式]；
 
 > [!tip] 原型义
 > **原型义**：归档（将文件整理存放到指定位置）
@@ -129,8 +129,8 @@ file(文件，档案，源自拉丁语 *filum*，线) + -ing(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - "The company has an efficient electronic filing system for all its documents."（公司拥有一套高效的电子归档系统来管理所有文件。）
-> - "The deadline for filing tax returns is April 15th."（报税截止日期是4月15日。）
+> - The company has an efficient electronic filing system for all its documents. `[例]`
+> - The deadline for filing tax returns is April 15th. `[例]`
 
 ## 复习记录
 

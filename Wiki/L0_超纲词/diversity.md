@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**n..** ①==**多样性，差异性**==；②==**多元化**==；
+**n..** ①==**多样性，差异性**== `adj N` [正式] `cultural diversity` `adj N` [正式] `biological diversity`；②==**多元化**== `N and N` [正式] `diversity and inclusion`；
 
 > [!tip] 原型义
 > **原型义**：转向不同方向（各自朝不同的方向发展）
@@ -124,7 +124,9 @@ divers-(divers-/diverg-，不同/转向) + -ity(名词后缀) → 不同的状�
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - The university prides itself on the diversity of its student body.（这所大学以其学生群体的多元化而自豪。）
+> - The university prides itself on the diversity of its student body. `[例]`
+> - Cultural diversity enriches our society and promotes mutual understanding. `[例]`
+> - The company has made efforts to increase diversity in its workforce. `[例]`
 
 ## 复习记录
 

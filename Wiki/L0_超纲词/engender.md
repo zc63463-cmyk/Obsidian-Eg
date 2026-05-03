@@ -27,7 +27,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**产生，引起**==；②造成（某种情感或状况）；
+**v.** ①==**产生，引起**== `V N` [正式]；②==**造成（某种情感或状况）**== `V N` [书面]；
 
 > [!tip] 原型义
 > **原型义**：产生（使某种情感或状况产生）
@@ -125,7 +125,8 @@ en-(使成为) + [[gen|gen]](产生/种类) + -der(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料 · L3
-> - 暂无真题语料关联，建议在阅读中积累。
+> - The leader's transparency and honesty engendered trust among the team members. `[例]`
+> - The new policy has engendered considerable controversy among the general public. `[例]`
 
 ## 复习记录
 
