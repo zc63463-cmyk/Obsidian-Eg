@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**影响，作用**== ; ②撞击，冲击力 ;
-**v.** ①==**对……产生影响**== ; ②冲击，撞击 ;
+**n.** ①==**影响，作用**== `have an impact on` `profound/significant impact` ; ②撞击，冲击力 `the impact of the crash` ;
+**v.** ①==**对……产生影响**== `impact our relations/lives` ; ②冲击，撞击 `impact the planet's surface` ;
 
 > [!tip] 原型义
 > **原型义**：一个物体撞击另一个物体（物理碰撞）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The impact of technology on education has been profound and far-reaching."（科技对教育的影响深远而广泛。）——考研高频表达
-> - "The new policy will have a significant impact on small businesses."（新政策将对小企业产生重大影响。）——考研高频表达
+> - The impact of technology on education has been profound and far-reaching. `[真题]`
+> - We need to be concerned about the environmental impacts of all this construction. `[COCA-ACAD]`
+> - The tax increase will impact low-income families the most. `[COCA-NEWS]`
+> - Competition by itself has a weakly beneficial impact on productivity growth. `[COCA-ACAD]`
 
 ---
 

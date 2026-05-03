@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**含蓄的，暗含的**== ; ②==**无疑问的，绝对的**==（如 implicit trust/faith） ; ③内含的，固有的
+**adj.** ①==**含蓄的，暗含的**== `implicit in sth.` `implicit criticism/agreement` ; ②==**无疑问的，绝对的**== `implicit trust/faith/belief` ; ③内含的，固有的
 
 > [!tip] 原型义
 > **原型义**：折叠在内的、未展开的（物理层面的折叠状态）
@@ -125,8 +125,10 @@ im-(=in，进入) + plic(=fold，折叠) + -it(形容词后缀)（建议创建�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "There is an implicit assumption that economic growth will solve all social problems."（存在一种隐含的假设，即经济增长将解决所有社会问题。）——考研阅读真题
-> - "His implicit criticism of the policy was obvious to everyone in the room."（他对政策的含蓄批评对房间里的每个人来说都是显而易见的。）——考研高频表达
+> > - `There is an implicit assumption that economic growth will solve all social problems.` `[真题]`
+> > - `Implicit in the article is the message that single mothers are responsible for poverty.` `[COCA-ACAD]`
+> > - `The implicit threat of disease curtailed summer pleasures for the children of the polio years.` `[COCA-ACAD]`
+> > - `I have implicit trust in her honesty.` `[COCA-ACAD]`
 
 ---
 

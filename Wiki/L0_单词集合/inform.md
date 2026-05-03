@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**通知，告知**==；②了解，熟悉；③渗透，影响（判断/决定）；
+**v.** ①==**通知，告知**== `inform sb. of sth.` / `inform sb. that...` ；②了解，熟悉 `be well-informed` ；③渗透，影响（判断/决定） `inform one's decision` ;
 
 > [!tip] 原型义
 > **原型义**：塑造内部、赋予形状（源自拉丁语 informare = in- + formare，"在内部塑造"→赋予知识形状→通知）
@@ -137,8 +137,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The purpose of the report is to inform the public about the potential risks of the new technology."（该报告的目的是告知公众新技术的潜在风险。）——考研高频表达
-> - "Patients should be fully informed about the risks and benefits of any medical procedure before giving their consent."（在同意接受任何医疗程序之前，应充分告知患者其风险和益处。）——考研高频表达
+> - "The purpose of the report is to inform the public about the potential risks of the new technology." `[COCA-ACAD]`
+> - "Patients should be fully informed about the risks and benefits of any medical procedure before giving their consent." `[COCA-ACAD]`
+> - "Scientific research should inform policy decisions on climate change." `[COCA-ACAD]`
+> - "A well-informed citizen is essential for a healthy democracy." `[COCA-ACAD]`
 ---
 
 

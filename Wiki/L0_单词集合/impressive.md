@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**给人深刻印象的，令人赞叹的**==
+**adj.** ①==**给人深刻印象的，令人赞叹的**== `an impressive achievement/performance`
 
 > [!tip] 原型义
 > **原型义**：能压印出深痕的、令人赞叹的（从物理压印引申）
@@ -121,8 +121,10 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The early settlers of Massachusetts Bay included men of impressive education and influence in England."（马萨诸塞湾的早期定居者中包括在英国受过令人印象深刻的良好教育且具有影响力的人士。）——考研真题
-> - "To be sure, he performs an impressive variety of interesting compositions."（可以肯定的是，他表演了令人印象深刻的各种有趣作品。）——考研真题
+> > - `The early settlers of Massachusetts Bay included men of impressive education and influence in England.` `[真题]`
+> > - `To be sure, he performs an impressive variety of interesting compositions.` `[真题]`
+> > - `He has an impressive record of 63 wins from 71 fights.` `[COCA-ACAD]`
+> > - `The Giants winning streak remained unbroken for an impressive 19 games.` `[COCA-ACAD]`
 
 ---
 

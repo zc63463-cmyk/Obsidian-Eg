@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**含义，暗示**== ; ②牵连，涉及（通常用复数 implications） ; ③==**可能的影响（后果）**==
+**n.** ①==**含义，暗示**== `the implication of sth` `by implication` ; ②牵连，涉及（通常用复数 implications） `legal implications` ; ③==**可能的影响（后果）**== `have implications for` `far-reaching implications`
 
 > [!tip] 原型义
 > **原型义**：折叠进去、包含在内（物理层面的折叠包裹）
@@ -125,8 +125,10 @@ im-(=in，进入) + plic(=fold，折叠) + -ation(名词后缀，表动作/结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The implications of this discovery for medical research are enormous."（这一发现对医学研究的意义是巨大的。）——考研阅读真题
-> - "The new policy has far-reaching implications for the education system."（新政策对教育体系有着深远的影响。）——考研高频表达
+> - The implications of this discovery for medical research are enormous. `[真题]`
+> - You need to consider the legal implications before you publish anything. `[COCA-ACAD]`
+> - The new policy has far-reaching implications for the education system. `[真题]`
+> - I resent the implication that I'm not trying hard enough. `[COCA-NEWS]`
 
 ---
 

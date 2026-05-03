@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**保险；保险业**== ; ②保险费 ; ③预防措施；安全保障 ;
+**n.** ①==**保险；保险业**== `n.` ; ②保险费 ; ③预防措施；安全保障 ;
 
 > [!tip] 原型义
 > **原型义**：使确定、使安全的保障
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even the very phrase jobseeker's allowance is about redefining the unemployed as a jobseeker who had no fundamental right to a benefit he or she has earned through making national insurance contributions."（甚至求职者津贴这个说法也是将失业者重新定义为求职者，而求职者对其通过缴纳国民保险所获得的福利没有基本权利——2014年考研Text 1）
-> - "With the risks obvious and growing, a prudent people would take out an insurance policy now."（随着风险越来越明显且不断增加，一个谨慎的人现在应该购买一份保险——考研高频表达）
+> - "Even the very phrase jobseeker's allowance is about redefining the unemployed as a jobseeker who had no fundamental right to a benefit he or she has earned through making national insurance contributions." `[真题]`
+> - "With the risks obvious and growing, a prudent people would take out an insurance policy now." `[真题]`
+> - "Households are stockpiling groceries as insurance against price rises." `[COCA-ACAD]`
+> - "It is a legal requirement for drivers to have car insurance." `[COCA-ACAD]`
 
 
 ---

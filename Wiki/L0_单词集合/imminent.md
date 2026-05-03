@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**即将发生的，迫近的**==（通常指不好的事情）；
+**adj.** ①==**即将发生的，迫近的**== `imminent danger/threat/collapse`（通常指不好的事情）；
 
 > [!tip] 原型义
 > **原型义**：悬在头顶即将落下的（某事已经逼近，随时可能发生）
@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With the imminent threat of climate change, governments must take immediate action."（考研英语——面对气候变化迫在眉睫的威胁，各国政府必须立即采取行动）
-> - "The company was on the verge of imminent collapse before the bailout."（考研英语——在救助资金到位前，该公司已濒临崩溃）
-> - "Scientists warned that an earthquake was imminent."（考研英语——科学家警告地震即将发生）
+> - It emphasised that there was absolutely no information or intelligence suggesting an imminent threat. `[COCA-NEWS]`
+> - Where failure seemed imminent, the typical response was a defensive resort to criticism. `[COCA-ACAD]`
+> - Scientists warned that an earthquake was imminent. `[真题]`
 
 ---
 

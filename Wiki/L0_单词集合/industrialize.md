@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使工业化**== ; ②实现工业化 ;
+**v.** ①==**使工业化**== `` `industrialize a nation / rapidly industrialize` `` ; ②实现工业化 `` `industrialized countries / industrializing nations` `` ;
 
 > [!tip] 原型义
 > **原型义**：使工业化——将农业或手工业社会转变为工业社会
@@ -120,8 +120,10 @@ industr(y)(工业) + -ial(形容词后缀) + -ize(动词后缀，"使…化")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With optimism characteristic of all industrialized countries, we came to accept that everyone is fit to be educated."（随着工业化给国家带来的特有乐观精神，我们已经接受人人都适合受教育的观念。）——1999年阅读3
-> - "They admitted that in the long run industrialization greatly raised the standard of living for the average man."（他们承认，从长远来看，工业化极大地提高了普通人的生活水平。）——1998年完形填空
+> - With optimism characteristic of all industrialized countries, we came to accept that everyone is fit to be educated. `` `[真题]` ``
+> - They admitted that in the long run industrialization greatly raised the standard of living for the average man. `` `[真题]` ``
+> - Many developing nations are struggling to industrialize their economies. `` `[COCA-ACAD]` ``
+> - China rapidly industrialized in the late twentieth century. `` `[COCA-ACAD]` ``
 ---
 
 

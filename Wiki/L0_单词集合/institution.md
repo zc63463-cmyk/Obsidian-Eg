@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**制度；体制；机构**== ; ②建立；设立 ;
-**n.** ①（社会或慈善）机构 ;
+**n.** ①==**制度；体制；机构**== `n.` ; ②建立；设立 ;
+**n.** ①（社会或慈善）机构 `n.` ;
 
 > [!tip] 原型义
 > **原型义**：被建立起来的制度或机构
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The widespread availability of such recordings has thus brought about a crisis in the institution of the traditional classical concert."（此类唱片的广泛可获取性因此给传统古典音乐会的体制带来了危机——2011年考研Text 1）
-> - "Consensus politics places a high value on existing political institutions."（共识政治高度重视现存政治机构——考研高频表达）
+> - "The widespread availability of such recordings has thus brought about a crisis in the institution of the traditional classical concert." `[真题]`
+> - "Consensus politics places a high value on existing political institutions." `[真题]`
+> - "Harvard University is an internationally respected institution." `[COCA-ACAD]`
+> - "He said Britain needs to adequately encourage research and development through tax incentives and partnerships with academic institutions." `[COCA-ACAD]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**冲动，突然的欲望**== ; ②==**推动，驱使**== ; ③脉冲（物理术语）
+**n.** ①==**冲动，突然的欲望**== `on impulse; resist the impulse to do sth.`；②==**推动，驱使**== `give an impulse to; be the impulse behind`；③脉冲（物理术语）`electrical impulse; nerve impulse`；
 
 > [!tip] 原型义
 > **原型义**：推动、驱使（物理层面的推力）
@@ -125,8 +125,9 @@ im-(=in，向内) + [[pul]]s(=drive/beat，驱动/跳动) + -e（建议创建词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She bought the expensive dress on impulse and later regretted it."（她一时冲动买了那条昂贵的裙子，后来又后悔了。）——考研高频表达
-> - "People often act on impulse rather than rational thought."（人们常常凭冲动行事，而非理性思考。）——考研高频表达
+> - He tends to act on impulse rather than rational thought. `[COCA-ACAD]`
+> - She bought the expensive dress on impulse and later regretted it. `[COCA-ACAD]`
+> - I resisted the impulse to laugh. `[COCA-FIC]`
 
 ---
 

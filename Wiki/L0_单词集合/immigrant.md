@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**移民，侨民**==（从外国移入并定居的人）；
+**n.** ①==**移民，侨民**== `immigrant workers / immigrant communities`（从外国移入并定居的人）；
 
 > [!tip] 原型义
 > **原型义**：从外地迁入的人（走入新国家/新地区并定居下来的人）
@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The United States has long been a nation of immigrants."（考研英语——美国长期以来是一个移民国家）
-> - "Immigrant children often face language barriers in school."（考研英语——移民儿童在学校中常面临语言障碍）
-> - "The immigrant contribution to the cultural diversity of the nation is immeasurable."（考研英语——移民对国家文化多样性的贡献不可估量）
+> - The United States has long been a nation of immigrants. `[真题]`
+> - Immigrant children often face language barriers in school. `[COCA-ACAD]`
+> - This charge is usually raised when minority or immigrant children are taught in a language other than their own. `[COCA-ACAD]`
 
 ---
 

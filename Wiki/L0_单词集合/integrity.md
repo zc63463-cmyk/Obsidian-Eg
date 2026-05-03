@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**正直；诚实**== ; ②完整；完好 ;
+**n.** ①==**正直；诚实**== `personal/professional integrity` ; ②完整；完好 `data/territorial integrity` ;
 
 > [!tip] 原型义
 > **原型义**：完整无缺的状态
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Integrity had collapsed, she argued, because of a collective acceptance that the only sorting mechanism in society should be profit and the market."（她认为，诚信已经崩溃，因为人们普遍认为社会上唯一的分类机制应该是利润和市场——考研高频表达）
-> - "This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying."（这种诚信需要有良好执行的政府透明度法律，如官方会议记录、游说规则——考研高频表达）
+> - Integrity had collapsed, she argued, because of a collective acceptance that the only sorting mechanism in society should be profit and the market. `[真题]`
+> - This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying. `[真题]`
+> - I would never do anything to compromise the integrity of the company. `[COCA-ACAD]`
 
 
 ---

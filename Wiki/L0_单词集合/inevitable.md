@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不可避免的，必然的**== ; ②预料中的，照常的 ;
+**adj.** ①==**不可避免的，必然的**== `it is inevitable that...` / `an inevitable consequence` ; ②预料中的，照常的 `the inevitable` ;
 
 > [!tip] 原型义
 > **原型义**：不可避免的——无法逃避、注定要发生的
@@ -121,8 +121,11 @@ in-(否定前缀，"不") + evit(避免) + -able(形容词后缀，"可被…的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living."（对贝多芬的诸多作品，我们都可以这样解读：苦难是不可避免的，但与之抗争的勇气使生活值得继续。）——2014年考研英语翻译
-> - "It is hard to shove for attention among multi-billion-pound infrastructure projects, so it is inevitable that the attention is focused elsewhere."（在价值数十亿英镑的基础设施项目中很难引起人们的关注，因此注意力不可避免地集中到了别处。）——2014年考研英语二Text4
+> - "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living." `[真题]`
+> - "It is hard to shove for attention among multi-billion-pound infrastructure projects, so it is inevitable that the attention is focused elsewhere." `[真题]`
+> - "The endless public appearances are an inevitable part of an election campaign." `[COCA-ACAD]`
+> - "When you're working such long hours, it's inevitable that your marriage will start to suffer." `[COCA-ACAD]`
+> - "With a father like his, a career in music was inevitable." `[COCA-ACAD]`
 
 ---
 

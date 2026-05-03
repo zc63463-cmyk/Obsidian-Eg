@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**a.** ①==**智力的，理智的**== ; ②有才智的，需用智力的 ;
-**n.** ①知识分子 ;
+**a.** ①==**智力的，理智的**== `intellectual development/capacity` ; ②有才智的，需用智力的 ;
+**n.** ①知识分子 `public intellectuals` ;
 
 > [!tip] 原型义
 > **原型义**：在众多事物中进行阅读、选择和理解的能力（来自 intellect"智力"）
@@ -130,8 +130,9 @@ intel-(=inter-，在…之间) + [[lect-leg|lect]](阅读/选择) + -ual(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Is it true that the American intellectual is rejected and considered of no account in his society?"（美国知识分子遭到拒绝并且在他们的社会里被当作是没有价值的，这是真的吗？——2006年考研翻译）
-> - "Americans today don't place a very high value on intellect."（今天的美国人并不特别重视才智——2004年考研Text 4）
+> - Is it true that the American intellectual is rejected and considered of no account in his society? `[真题]`
+> - High levels of lead could damage the intellectual development of children. `[COCA-ACAD]`
+> - They need both intellectual stimulation and a grasp of the wider context in which they work. `[COCA-ACAD]`
 
 
 ---

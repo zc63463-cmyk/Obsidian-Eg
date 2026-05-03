@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**漠不关心的，冷淡的**== ; ②不很好的，一般的 ; ③中立的，不偏不倚的 ;
+**adj.** ①==**漠不关心的，冷淡的**== `` `be indifferent to / remain indifferent` `` ; ②不很好的，一般的 ; ③中立的，不偏不倚的 ;
 
 > [!tip] 原型义
 > **原型义**：不（in-）在两者之间（[[fer|fer]]）偏向任何一方——既不偏向这边也不偏向那边
@@ -125,8 +125,10 @@ in-(不) + [[dis-di|di]](二/分开) + [[fer|fer]](带来/承受) + -ent(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young people seem indifferent to politics and social issues."（许多年轻人似乎对政治和社会问题漠不关心。）——考研高频表达
-> - "She was completely indifferent to the criticism directed at her work."（她对针对她作品的批评完全无动于衷。）——考研高频表达
+> - Many young people seem indifferent to politics and social issues. `` `[COCA-ACAD]` ``
+> - She was completely indifferent to the criticism directed at her work. `` `[COCA]` ``
+> - People have become indifferent to the suffering of others. `` `[COCA]` ``
+> - The jury must remain properly indifferent to public opinion. `` `[COCA-ACAD]` ``
 
 ---
 

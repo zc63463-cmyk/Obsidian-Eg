@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**独立；自主**==；②独立（国家）；
+**n.** ①==**独立；自主**== `gain/win independence`；②==**独立（国家）**== `declare independence from`；
 
 > [!tip] 原型义
 > **原型义**：不依赖他人，悬挂在自己力量上
@@ -129,8 +129,9 @@ in-(不) + de-(向下) + pend(悬挂) + -ence(名词后缀) → 不向下悬挂�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The country gained its independence from colonial rule in 1960."（该国于1960年摆脱殖民统治获得独立。）——考研阅读真题
-> - "Financial independence is an important goal for many young adults."（经济独立是许多年轻人的重要目标。）——考研高频表达
+> - The country gained its independence from colonial rule in 1960. `[真题]`
+> - The Federal Reserve's independence from the White House has long been enshrined in the law. `[COCA-ACAD]`
+> - The loss of the commons was, for women, a loss of independence. `[COCA-ACAD]`
 
 ---
 

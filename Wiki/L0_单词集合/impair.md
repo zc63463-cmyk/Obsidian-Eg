@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**损害，削弱**== ; ②减少，降低（价值、质量等）
+**vt.** ①==**损害，削弱**== `impair one's health/judgment/ability` `significantly/greatly impair` ; ②减少，降低（价值、质量等） `impair the quality/value`
 
 > [!tip] 原型义
 > **原型义**：使变坏、使变弱（物理层面的损伤）
@@ -123,8 +123,10 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Lack of sleep can significantly impair your ability to concentrate."（缺乏睡眠会严重损害你的注意力。）——考研阅读真题
-> - "Alcohol impairs judgment and slows reaction times."（酒精会损害判断力并减慢反应时间。）——考研高频表达
+> - There are a number of factors which can directly impair memory. `[COCA-ACAD]`
+> - Lack of sleep can significantly impair your ability to concentrate. `[真题]`
+> - Alcohol impairs judgment and slows reaction times. `[真题]`
+> - His memory was so impaired by age that he often forgot where he was. `[COCA-ACAD]`
 
 ---
 

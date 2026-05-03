@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**成分，组成部分**== ; ②==**（烹饪的）原料，配料**== ; ③因素，要素
+**n.** ①==**成分，组成部分**== `a key/main ingredient` ; ②==**（烹饪的）原料，配料**== `the ingredients of` ; ③因素，要素 `an essential ingredient` ;
 
 > [!tip] 原型义
 > **原型义**：成分、组成部分（进入某物内部的成分）
@@ -124,8 +124,10 @@ in-(进入) + [[gen]](产生) + -i- + -ent(名词后缀，表示物)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Speed is the essential ingredient of all athletics."（速度是所有田径运动项目的关键要素。）——考研高频表达
-> - "The active ingredient in some of the mouthwashes was simply detergent."（某些漱口剂中的有效成分只不过是洗涤剂而已。）——考研高频表达
+> - "Speed is the essential ingredient of all athletics." `[COCA-ACAD]`
+> - "The active ingredient in some of the mouthwashes was simply detergent." `[COCA-ACAD]`
+> - "Trust is a vital ingredient in a successful marriage." `[COCA-ACAD]`
+> - "Policymakers see capital investment as a key ingredient in an economic recovery." `[COCA-ACAD]`
 ---
 
 

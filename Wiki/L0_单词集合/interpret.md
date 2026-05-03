@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**解释，诠释**==；②==**口译**==；③理解，领会；
+**v.** ①==**解释，诠释**== `interpret the data/law` `interpret A as B` ；②==**口译**== `interpret for sb.` ；③理解，领会 `How do you interpret...` ；
 
 > [!tip] 原型义
 > **原型义**：在两者之间传递（意义），即把一种语言或一种理解方式"传递"给另一方
@@ -130,8 +130,9 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living."（人们可以这样解释贝多芬的大部分作品：痛苦是不可避免的，但与之抗争的勇气使生命值得活下去。——2014年考研英语一翻译）
-> - "The casual friendliness of many Americans should be interpreted neither as superficial nor as artificial, but as the result of a historically developed cultural tradition."（许多美国人的这种随意的友好态度不应该被看成是肤浅的或虚假的，而应解释成一种由来已久的历史文化传统。——1996年考研阅读）
+> - One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living. `[真题]`
+> - The casual friendliness of many Americans should be interpreted neither as superficial nor as artificial, but as the result of a historically developed cultural tradition. `[真题]`
+> - The evidence is difficult to interpret. `[COCA-ACAD]`
 
 ---
 

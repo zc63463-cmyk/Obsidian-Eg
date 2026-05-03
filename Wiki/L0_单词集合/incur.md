@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**招致，引起，遭受**==；②蒙受（损失等）；
+**v.** ①==**招致，引起，遭受**== `incur debts/costs/losses`；②==**蒙受（损失等）**== `incur sb's wrath/displeasure`；
 
 > [!tip] 原型义
 > **原型义**：某物"跑进来"，带来后果（通常是负面的）
@@ -123,8 +123,9 @@ in-(进入，into) + cur(跑，run)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Students who drop out of college may incur substantial debt without obtaining a degree.（从大学辍学的学生可能会在未获得学位的情况下背负大量债务。）
-> - The government has incurred criticism for its handling of the crisis.（政府因处理危机的方式而招致批评。）
+> - Companies incur additional costs in dealing with non-paying customers. `[COCA-ACAD]`
+> - The client will remain liable for any loss incurred by the contractor. `[COCA-ACAD]`
+> - Those trusts transferred at least $7.9 billion to family members, an amount that would otherwise have incurred gift taxes of $2.8 billion. `[COCA-ACAD]`
 
 ---
 

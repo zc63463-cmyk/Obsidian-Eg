@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**立即的；直接的**==；②当前的；附近的；③（亲属关系）直系的；
+**adj.** ①==**立即的；直接的**== `immediate action/effect/impact`；②==**当前的；附近的**== `in the immediate future / immediate area`；③==**（亲属关系）直系的**== `immediate family/relatives`；
 
 > [!tip] 原型义
 > **原型义**：没有间隔的（中间没有任何东西阻隔）
@@ -130,7 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The immediate cause of the accident was driver fatigue, according to the investigation report.（根据调查报告，事故的直接原因是驾驶员疲劳。）
+> - The new policy had an immediate impact on housing prices. `[COCA-NEWS]`
+> - We must take immediate action to address the environmental crisis. `[COCA-ACAD]`
+> - Only immediate family members were allowed to visit the patient. `[COCA-NEWS]`
 
 ---
 

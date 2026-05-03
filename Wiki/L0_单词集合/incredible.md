@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**难以置信的，不可思议的**==；②惊人的，极好的；
+**adj.** ①==**难以置信的，不可思议的**== `it is incredible that...`；②==**惊人的，极好的**== `absolutely incredible`；
 
 > [!tip] 原型义
 > **原型义**：无法相信的，超出了相信的能力范围
@@ -127,8 +127,9 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is incredible that so many people still live in poverty in the 21st century.（在21世纪，仍有这么多人生活在贫困中，这令人难以置信。）
-> - The company has achieved incredible growth over the past five years.（该公司在过去五年中实现了惊人的增长。）
+> - We have put an incredible amount of work into this project. `[COCA-ACAD]`
+> - The movie tells an incredible story of survival. `[COCA-ACAD]`
+> - Contrastive rhetoric has had incredible staying power as an analytical framework for the study of second language writing. `[COCA-ACAD]`
 
 ---
 

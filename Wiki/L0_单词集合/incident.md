@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**事件，事变**==（尤指不寻常或引起关注的事）；②==**暴力事件，冲突**==；③事变（政治事件）；
-**adj.** ①附带的，伴随的；
+**n.** ①==**事件，事变**==（尤指不寻常或引起关注的事）`an isolated incident; without incident`；②==**暴力事件，冲突**== `a violent/border incident`；③事变（政治事件）`the July 7th Incident`；
+**adj.** ①附带的，伴随的`incidental expenses/costs`；
 
 > [!tip] 原型义
 > **原型义**：落到上面、偶然发生的事（某事"降临"而发生）
@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The train arrived without incident."（列车平安到达。）——叙事类阅读
-> - "a border incident between the two countries"（两国间的边境事件）——国际关系类阅读
-> - "the July 7th Incident of 1937"（1937年七七事变）——中国历史翻译
+> - The train arrived without incident. `[COCA-FIC]`
+> - This may well not be an isolated incident so we are sending a message to all branches. `[COCA-NEWS]`
+> - The cause of the incident is still under further investigation. `[COCA-NEWS]`
 
 ---
 

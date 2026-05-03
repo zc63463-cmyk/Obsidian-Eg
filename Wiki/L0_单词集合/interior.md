@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**内部的，里面的**==；②内地的，腹地的；③内政的，国内的（interior minister）；
-**n.** ①==**内部，内地**==；②内政（the Interior）；
+**adj.** ①==**内部的，里面的**== `interior design/walls` ；②内地的，腹地的 `the interior of Africa` ；③内政的，国内的 `interior minister` ；
+**n.** ①==**内部，内地**== `the interior of...` ；②内政（the Interior） ；
 
 > [!tip] 原型义
 > **原型义**：在…之间（内部），即某物的最里面、最深处
@@ -129,8 +129,9 @@ inter-(在…之间，among/between) + 拉丁语 *interior*（更内部的，*in
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety."（几乎所有的内部细节都是铸铁或灰泥；为了确保消防安全，尽量减少使用木材。——考研真题）
-> - "The people of the African interior began to offer gold in exchange for the goods they needed from abroad."（非洲内地的各族人民开始用黄金交换他们所需要的外国货物。——考研真题）
+> - Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety. `[真题]`
+> - The people of the African interior began to offer gold in exchange for the goods they needed from abroad. `[真题]`
+> - The interior design of the theater featured ornate decoration common of the movie palaces of its era. `[COCA-ACAD]`
 
 ---
 

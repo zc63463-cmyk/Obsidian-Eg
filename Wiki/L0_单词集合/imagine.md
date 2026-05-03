@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**想象，设想**==；②==**猜想，推测**==；③==**以为，误以为**==；
+**vt.** ①==**想象，设想**== `imagine doing sth; imagine a world where-clause`；②==**猜想，推测**== `imagine that-clause; I imagine so`；③==**以为，误以为**== `imagine oneself to be N; imagine things`；
 
 > [!tip] 原型义
 > **原型义**：在脑海中形成图像（将不在眼前的事物通过心智活动呈现为画面）
@@ -136,9 +136,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to imagine a world without the internet."（很难想象一个没有互联网的世界）——考研写作/翻译常见句式
-> - "I imagine that he will agree."（我猜想他会同意）——日常推测用法
-> - "She imagined herself to be a great artist."（她自以为是一位伟大的艺术家）——"误以为"用法
+> - It is difficult to imagine a world without the internet. `[真题]`
+> - We tend to imagine that the Victorians were very prim and proper. `[COCA-ACAD]`
+> - I can't imagine why you're going. `[COCA-ACAD]`
+> - He could not imagine a more peaceful scene. `[COCA-ACAD]`
 
 ---
 

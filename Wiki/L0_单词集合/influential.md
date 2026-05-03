@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有影响力的，有势力的**==；②起重要作用的；
+**adj.** ①==**有影响力的，有势力的**== `an influential figure` / `highly influential` ；②起重要作用的 `an influential factor` ;
 
 > [!tip] 原型义
 > **原型义**：有影响力的（influence 的形容词形式，源自拉丁语 influens）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These designers came to exert enormous influence on the course of American architecture, but none more so than Mies."（这些设计师开始对美国建筑的发展方向产生巨大影响，但没有人比密斯的影响更大。）——2011年考研真题
-> - "She is one of the most influential figures in the field of artificial intelligence research."（她是人工智能研究领域最具影响力的人物之一。）——考研高频表达
+> - "These designers came to exert enormous influence on the course of American architecture, but none more so than Mies." `[真题]`
+> - "He remains one of the most influential people in our pharmaceutical industry." `[COCA-ACAD]`
+> - "Berlin has always been a hugely influential city for music." `[COCA-ACAD]`
+> - "His influential writing shaped the course of history." `[COCA-ACAD]`
 ---
 
 

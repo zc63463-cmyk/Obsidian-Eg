@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**巨大的；广大的**==；②极好的；无限的；
+**adj.** ①==**巨大的；广大的**== `immense impact/influence/pressure`；②==**极好的；无限的**== `immense wealth/value/amount`；
 
 > [!tip] 原型义
 > **原型义**：无法丈量的（大到无法测量）
@@ -128,7 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The immense complexity of the human brain continues to challenge scientists around the world.（人脑的巨大复杂性持续挑战着世界各地的科学家。）
+> - The internet has had an immense impact on the way we communicate. `[COCA-ACAD]`
+> - There is still an immense amount of work to be done. `[COCA-ACAD]`
+> - He inherited an immense fortune from his grandfather. `[COCA-NEWS]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**心灵手巧的，善于发明的**== ; ②==**设计巧妙的，精巧的**== ; ③有创造力的
+**adj.** ①==**心灵手巧的，善于发明的**== `an ingenious inventor` ; ②==**设计巧妙的，精巧的**== `an ingenious design/solution` ; ③有创造力的;
 
 > [!tip] 原型义
 > **原型义**：心灵手巧的、善于发明的
@@ -124,8 +124,10 @@ in-(在内) + [[gen]](产生/创造) + -ious(形容词后缀，充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ingenious design of the device allows it to fold into a compact size."（这个装置的巧妙设计使其可以折叠成紧凑的尺寸。）——考研高频表达
-> - "He came up with an ingenious solution to the problem."（他想出了一个巧妙的解决方案。）——考研高频表达
+> - "They are a simple but ingenious way to provide an environmentally friendly alternative to plastic shopping bags." `[COCA-ACAD]`
+> - "The ingenious design of the new building maximizes natural light and energy efficiency." `[COCA-ACAD]`
+> - "He was an ingenious inventor who held numerous patents for his creations." `[COCA-ACAD]`
+> - "The engineer came up with an ingenious solution to the problem." `[COCA-ACAD]`
 ---
 
 

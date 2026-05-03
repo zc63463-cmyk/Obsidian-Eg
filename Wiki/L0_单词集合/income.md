@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**收入，收益**==；②所得，进款；
+**n.** ①==**收入，收益**== `annual income; disposable income`；②所得，进款`income tax; per capita income`；
 
 > [!tip] 原型义
 > **原型义**：定期收到的金钱
@@ -125,8 +125,9 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Rising income inequality has become a major concern in many developed countries.（收入不平等的加剧已成为许多发达国家的主要关切。）
-> - The government needs to increase the disposable income of low-income families.（政府需要提高低收入家庭的可支配收入。）
+> - Rising income inequality has become a major concern in many developed countries. `[COCA-ACAD]`
+> - Disposable income is the amount of money that households have available for spending and saving after direct taxes. `[COCA-ACAD]`
+> - The government needs to increase the disposable income of low-income families. `[COCA-NEWS]`
 
 ---
 

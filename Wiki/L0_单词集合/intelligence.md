@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**智力，智慧**== ; ②情报，信息（尤指军事/政治） ;
+**n.** ①==**智力，智慧**== `artificial intelligence` `intelligence test` ; ②情报，信息（尤指军事/政治） `gather/collect intelligence` ;
 
 > [!tip] 原型义
 > **原型义**：在信息之间进行选择理解并产生认知的能力
@@ -127,8 +127,9 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In his article How Intelligent Is Intelligence Testing? Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge."（在其文章《智力测试到底有多聪明？》中，斯滕伯格指出，传统测试最能评估分析能力和语言能力，但无法衡量创造力和实践知识——2007年考研Text 2）
-> - "Is it true that the American intellectual is rejected and considered of no account in his society?"（美国知识分子遭到拒绝并且在他们的社会里被当作是没有价值的，这是真的吗？——2006年考研翻译）
+> - In his article How Intelligent Is Intelligence Testing? Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge. `[真题]`
+> - She impressed us with her superior intelligence. `[COCA-ACAD]`
+> - The agency was tasked with gathering intelligence on the threat. `[COCA-ACAD]`
 
 
 ---

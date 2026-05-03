@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**建立；制定；创立**== ;
-**n.** ①==**研究所；学院；机构**== ;
+**vt.** ①==**建立；制定；创立**== `vt. + n.` ;
+**n.** ①==**研究所；学院；机构**== `n.` ;
 
 > [!tip] 原型义
 > **原型义**：建立、设立（使某物站立起来）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory."（1924年，美国国家研究委员会派遣两名工程师去一家大型电话零部件厂监督一系列工业实验——2010年考研完形填空）
-> - "The institute was founded in 1960 to promote scientific research."（该研究所成立于1960年，旨在促进科学研究——考研高频表达）
+> - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory." `[真题]`
+> - "By instituting these programs, we hope to improve our children's education." `[COCA-ACAD]`
+> - "They have instituted new policies to increase public safety." `[COCA-ACAD]`
+> - "The National Institutes of Health fund medical research in many areas." `[COCA-ACAD]`
 
 
 ---

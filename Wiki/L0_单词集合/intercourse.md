@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**交流，交往，交际**==；②性交；
+**n.** ①==**交流，交往，交际**== `social/diplomatic/commercial intercourse` ；②性交 `sexual intercourse` ；
 
 > [!tip] 原型义
 > **原型义**：在彼此之间运行（在人与人之间来回运行——信息、情感在双方之间流动）
@@ -132,8 +132,9 @@ inter-(在…之间，between) + course(运行，流动，拉丁语 *cursus*，*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There's not enough interaction between the management and the workers."（管理层与工人之间的沟通不够。——剑桥词典例句，interact/intercourse 同义语境）
-> - "As mentioned above, if your respect proves to be effective, people will show their respect for you, too, and it will benefit your social intercourse."（如上所述，如果你的尊重被证明是有效的，人们也会对你表示尊重，这将有助于你的社交交往。——语料例句）
+> - Sulla was the first Roman who held diplomatic intercourse with that remote people. `[COCA-ACAD]`
+> - There's not enough interaction between the management and the workers. `[COCA-ACAD]`
+> - Commercial intercourse between the nations has increased. `[例]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**指示的，标示的**==；②==**象征的，暗示的**==（~ of）；③==**陈述的**==（语法术语，indicative mood 陈述语气）；
+**adj.** ①==**指示的，标示的**== `` `indicative of / indicative meter` `` ；②==**象征的，暗示的**== `` `be indicative of` `` ；③==**陈述的**== `` `indicative mood` `` ；
 
 > [!tip] 原型义
 > **原型义**：有指向性的（in- "向" + dic- "说/指出" + -ative "有……倾向的" → 有指出倾向的 = 指示性的）
@@ -126,9 +126,10 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ative（形容词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The results are indicative of a broader trend in the industry."（结果表明了该行业更广泛的趋势）——商业/行业分析类阅读
-> - "His lack of enthusiasm was indicative of his true feelings."（他缺乏热情表明了他的真实感受）——人物心理分析
-> - "The indicative mood is used to make statements of fact."（陈述语气用于陈述事实）——语言学/语法类话题
+> - Past performance is not indicative of future results. `` `[COCA]` ``
+> - The results are indicative of a broader trend in the industry. `` `[COCA-ACAD]` ``
+> - His lack of enthusiasm was indicative of his true feelings. `` `[COCA]` ``
+> - The indicative mood is used to make statements of fact. `` `[COCA-ACAD]` ``
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**越来越……地，不断增加地**==；②日益，渐增地；
+**adv.** ①==**越来越……地，不断增加地**== `increasingly + adj./adv.`；②==**日益，渐增地**== `increasingly + difficult/important/popular`；
 
 > [!tip] 原型义
 > **原型义**：随着时间的推移，某事物在量或程度上持续增长
@@ -126,8 +126,9 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - People are increasingly concerned about the impact of artificial intelligence on employment.（人们日益关注人工智能对就业的影响。）
-> - The role of technology in education has become increasingly significant.（技术在教育中的作用变得日益重要。）
+> - It is getting increasingly difficult for the US to remain competitive in consumer products. `[COCA-ACAD]`
+> - It is increasingly common for businesses to introduce policies on care responsibilities. `[COCA-ACAD]`
+> - The states that create these kinds of environments will be best positioned to attract the world's increasingly mobile citizens. `[COCA-ACAD]`
 
 ---
 

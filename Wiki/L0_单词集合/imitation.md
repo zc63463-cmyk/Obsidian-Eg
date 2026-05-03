@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**模仿**==；②==**仿制品，赝品**==；③==**仿造行为**==；
+**n.** ①==**模仿**== `learn by imitation / in imitation of sb`；②==**仿制品，赝品**== `a cheap/poor imitation`；③==**仿造行为**== `imitation leather/jewelry`；
 
 > [!tip] 原型义
 > **原型义**：模仿的行为或产物（按照某种模式复制出来的动作结果或物质产品）
@@ -134,9 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children learn through imitation."（儿童通过模仿来学习）——教育学/心理学阅读
-> - "The product is a poor imitation of the original."（这个产品是对原件的粗劣仿制）——商业/消费类阅读
-> - "Art is either imitation or innovation."（艺术要么是模仿，要么是创新）——哲学/美学类阅读
+> - A child learns to talk by imitation. `[真题]`
+> - Many corporate methods have been adopted by American managers in imitation of Japanese practice. `[COCA-ACAD]`
+> - His songs are just cheap imitations of Beatles tunes. `[COCA-ACAD]`
+> - The remake of Casablanca was a pale imitation of the original movie. `[COCA-ACAD]`
 
 ---
 

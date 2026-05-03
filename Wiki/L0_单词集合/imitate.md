@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**模仿，效仿**==；②==**仿制，仿造**==；③==**学……的样**==；
+**vt.** ①==**模仿，效仿**== `imitate sb's behavior/style; imitate a model`；②==**仿制，仿造**== `imitate the original; hard to imitate`；③==**学……的样**== `children imitate adults; imitate nature`；
 
 > [!tip] 原型义
 > **原型义**：按照某种模式复制（以某人或某物为蓝本，复制其行为、外观或特征）
@@ -133,9 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children learn language by imitating those around them."（儿童通过模仿周围的人来学习语言）——语言学/教育类阅读
-> - "It is difficult to imitate the company's business model."（很难模仿该公司的商业模式）——商业类阅读
-> - "Artists often imitate the works of the masters."（艺术家常常临摹大师的作品）——艺术/文化类阅读
+> - Children learn language by imitating those around them. `[真题]`
+> - By demonstrating how children imitate behavior observed in adults, Bandura showed that learning can occur through observation. `[COCA-ACAD]`
+> - Artists often imitate the works of the masters. `[COCA-ACAD]`
+> - It is difficult to imitate the company's business model. `[COCA-ACAD]`
 
 ---
 

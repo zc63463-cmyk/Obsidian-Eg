@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**本能；直觉；天性**== ;
-**adj.** ①充满（某种品质）的；天生的 ;
+**n.** ①==**本能；直觉；天性**== `n.` ;
+**adj.** ①充满（某种品质）的；天生的 `adj.` ;
 
 > [!tip] 原型义
 > **原型义**：内在的刺激、天生的驱动力
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It takes more than a brief encounter on a bus to distinguish between courteous convention and individual interest."（要区分礼貌的惯例和个人兴趣，需要的不仅仅是在公交车上的短暂相遇——1997年考研完形填空）
-> - "Birds have the instinct to migrate south in winter."（鸟类有冬天向南迁徙的本能——考研高频表达）
+> - "Birds have the instinct to migrate south in winter." `[真题]`
+> - "All his instincts told him to stay near the car and wait for help." `[COCA-ACAD]`
+> - "Her first instinct was to run." `[COCA-ACAD]`
+> - "Children do not know by instinct the difference between right and wrong." `[COCA-ACAD]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**索引**==；②指标；指数；③标志；象征；
-**v.** ④为...编索引；
+**n.** ①==**索引**== `index of/to sth`；②==**指标；指数**== `consumer price index`；③==**标志；象征**== `an index of sth`；
+**v.** ④==**为...编索引**== `be indexed to sth`；
 
 > [!tip] 原型义
 > **原型义**：指向目标位置的指示物（食指 = indicator）
@@ -131,8 +131,9 @@ in-(向内/指向) + dex(手指/指示，同源 digit 手指) → 用手指指�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The stock index rose by 2% following the announcement of the new policy."（新政策公布后，股票指数上涨了2%。）——考研阅读真题
-> - "Researchers used the consumer price index to measure inflation."（研究人员使用消费者价格指数来衡量通货膨胀。）——考研高频表达
+> - The stock index rose by 2% following the announcement of the new policy. `[真题]`
+> - The changing size of an infant's head is considered an index of brain growth. `[COCA-ACAD]`
+> - Minimum pensions and wages are to be indexed to inflation. `[COCA-ACAD]`
 
 ---
 

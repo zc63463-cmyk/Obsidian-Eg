@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**主动性，积极性**== ; ②==**倡议，新方案**== ; ③主动权
-**adj.** ①==**创始的，起始的**==
+**n.** ①==**主动性，积极性**== `n.` ; ②==**倡议，新方案**== `n.` ; ③主动权
+**adj.** ①==**创始的，起始的**== `adj. + n.`
 
 > [!tip] 原型义
 > **原型义**：主动性、积极性（主动发起行动的能力或意愿）
@@ -128,8 +128,10 @@ in-(进入) + [[it]](走/行走) + -i- + -ative(形容词/名词后缀，具有�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The peace initiative was welcomed by both sides."（和平倡议受到了双方的欢迎。）——考研高频表达
-> - "She took an initiative part in the Wildlife Conservation Society."（她主动参加了野生动物保护协会。）——考研高频表达
+> - "The peace initiative was welcomed by both sides." `[真题]`
+> - "Although she was quite young, she showed a lot of initiative and was promoted to manager after a year." `[COCA-ACAD]`
+> - "The governor has proposed a new initiative to improve conditions in urban schools." `[COCA-ACAD]`
+> - "The company has the opportunity to seize the initiative by getting its new products to the market before its competitors." `[COCA-ACAD]`
 ---
 
 

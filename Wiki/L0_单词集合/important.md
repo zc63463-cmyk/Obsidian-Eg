@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**重要的，有重大影响的**== ; ②有势力的，地位高的
+**adj.** ①==**重要的，有重大影响的**== `it is important that/to do...` `play an important role in` ; ②有势力的，地位高的
 
 > [!tip] 原型义
 > **原型义**：带来价值的、有重大意义的（从"运进来"引申）
@@ -124,8 +124,10 @@ im-(=in，进入) + port(=carry，运送) + -ant(形容词后缀，表"……的
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "It does not include important factors such as environmental quality or education outcomes — all things that contribute to a person's sense of well-being."（它不包括环境质量或教育成果等重要因素——所有这些都有助于一个人的幸福感。）——考研阅读真题
-> - "However, even though it's common, it's important to keep in mind that in a single moment of fatigue, you can say something to your child that you may regret for a long time."（然而，尽管这种情况很常见，但重要的是要记住，在疲惫的一瞬间，你可能会对孩子说出让你后悔很久的话。）——2020年考研英语二完形填空
+> > - `It does not include important factors such as environmental quality or education outcomes — all things that contribute to a person's sense of well-being.` `[真题]`
+> > - `However, even though it's common, it's important to keep in mind that in a single moment of fatigue, you can say something to your child that you may regret for a long time.` `[真题]`
+> > - `Banks are vitally important to the economy.` `[COCA-ACAD]`
+> > - `It is important to note that total government funding has increased.` `[COCA-ACAD]`
 
 ---
 

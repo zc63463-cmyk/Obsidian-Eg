@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**重要性**== ; ②重大， significant status
+**n.** ①==**重要性**== `of (great) importance` `attach importance to` ; ②重大， significant status
 
 > [!tip] 原型义
 > **原型义**：带入价值、意义重大（从"运进来"引申为"带来价值"）
@@ -122,8 +122,10 @@ im-(=in，进入) + port(=carry，运送) + -ance(名词后缀，表状态/性�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The importance of education in personal development cannot be overstated."（教育在个人发展中的重要性怎么强调都不为过。）——考研高频表达
-> - "He gained increasing importance in religious affairs."（他在宗教事务中的影响力日益增大。）——2009年考研阅读Text4
+> > - `He gained increasing importance in religious affairs.` `[真题]`
+> > - `The negotiations have taken on added importance in the wake of the bomb attack.` `[COCA-ACAD]`
+> > - `They attach great importance to the project.` `[COCA-ACAD]`
+> > - `It is of the utmost importance that patients receive the correct medication.` `[COCA-ACAD]`
 
 ---
 

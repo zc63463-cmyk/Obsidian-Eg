@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**想象中的，虚构的**==；②==**虚数的**==（数学）；
+**adj.** ①==**想象中的，虚构的**== `imaginary friend/world; purely imaginary`；②==**虚数的**== `imaginary number`（数学）；
 
 > [!tip] 原型义
 > **原型义**：仅存在于想象中的（不存在于现实，只存在于心智构建的画面中）
@@ -131,9 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children often have imaginary friends."（儿童常常有想象中的朋友）——心理学/教育类阅读语境
-> - "The boundary between the real and the imaginary becomes blurred."（真实与虚构之间的界限变得模糊）——哲学/文学类阅读
-> - "imaginary numbers are used in complex analysis."（虚数被用于复分析）——科技类阅读语境
+> - The boundary between the real and the imaginary becomes blurred. `[真题]`
+> - Haley told her parents that an imaginary friend, a girl named Alecia, had kept her company and guided her to the river. `[COCA-ACAD]`
+> - The story is set in an imaginary kingdom. `[COCA-ACAD]`
+> - His fears were purely imaginary and had no basis in reality. `[例]`
 
 ---
 

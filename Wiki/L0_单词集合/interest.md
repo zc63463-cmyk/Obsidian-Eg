@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**兴趣，关注**==；②==**利益，好处**==；③利息；④利害关系；
-**vt.** ①使感兴趣；
+**n.** ①==**兴趣，关注**== `have/show/lose interest in` ；②==**利益，好处**== `in the interest(s) of` `protect the interests of` ；③利息 `interest rate` ；④利害关系；
+**vt.** ①使感兴趣 `interest sb. in sth.` ；
 
 > [!tip] 原型义
 > **原型义**：在其中存在（某物存在于你关心的事物之中——你被"夹在中间"，被吸引进去）
@@ -144,8 +144,9 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new law will protect the interests of both consumers and producers."（这项新法律将保护消费者和生产者双方的利益。——2023年考研英语一阅读）
-> - "The US$3-million Fundamental Physics Prize is indeed an interesting experiment, as Alexander Polyakov said when he accepted this year's award in March."（300万美元的基础物理学奖确实是一个有趣的实验，正如亚历山大·波利亚科夫在3月份接受今年的奖项时所说。——考研英语阅读）
+> - The new law will protect the interests of both consumers and producers. `[真题]`
+> - The US$3-million Fundamental Physics Prize is indeed an interesting experiment, as Alexander Polyakov said when he accepted this year's award in March. `[真题]`
+> - In the interest of safety, please do not smoke. `[COCA-ACAD]`
 
 ---
 

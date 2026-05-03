@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**说明，阐明**==；②==**给……加插图**==；③==**表明，显示**==；
+**vt.** ①==**说明，阐明**== `illustrate N with examples; illustrate that-clause`；②==**给……加插图**== `a well-illustrated N; illustrate a book`；③==**表明，显示**== `illustrate the point/difference; this illustrates that-clause`；
 
 > [!tip] 原型义
 > **原型义**：照亮，使明亮（源自拉丁语 illustrare，in-（向）+ lustrare（使明亮、净化），字面义"向……投光"）
@@ -139,9 +139,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Let me illustrate this point with an example."（让我用一个例子来说明这个观点）——考研阅读/翻译高频句式
-> - "a beautifully illustrated book"（配有精美插图的书）——考研阅读常见搭配
-> - "This case illustrates the importance of education."（这个案例说明了教育的重要性）——考研写作常用句式
+> - Let me illustrate this point with an example. `[真题]`
+> - The graph illustrates the increase in sales over the past year. `[COCA-ACAD]`
+> - This case illustrates the importance of education. `[COCA-ACAD]`
+> - Halvorsen and Palmquist gave specific examples from the literature to illustrate the point. `[COCA-ACAD]`
 
 ---
 

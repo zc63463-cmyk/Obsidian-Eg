@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**内部的，内在的**==；②国内的（不涉及国外的）；③内心的，精神的；
+**adj.** ①==**内部的，内在的**== `internal mechanism/structure/organs` ；②国内的（不涉及国外的） `internal affairs/market` ；③内心的，精神的 `internal conflict` ；
 
 > [!tip] 原型义
 > **原型义**：在…之间（内部的），事物本身包含的、不涉及外部的
@@ -129,8 +129,9 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Nations should be left to resolve their own internal difficulties."（本国问题应由本国解决。——考研真题）
-> - "The civil war led to considerable internal migration."（内战导致了国内大量居民的迁移。——考研真题）
+> - Nations should be left to resolve their own internal difficulties. `[真题]`
+> - The civil war led to considerable internal migration. `[真题]`
+> - The company needs to improve its internal communication mechanisms. `[COCA-ACAD]`
 
 ---
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**给……留下深刻印象**== ; ②使铭记，使深深意识到（impress on/upon）
+**vt.** ①==**给……留下深刻印象**== `impress sb. with sth.` `be impressed by/with` ; ②使铭记，使深深意识到（impress on/upon）
 
 > [!tip] 原型义
 > **原型义**：按入、压印（物理层面的按压动作）
@@ -123,8 +123,10 @@ im-(=in，进入) + press(=press，按压)（建议创建词根笔记 [[press]]�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The professor was deeply impressed by the student's analytical ability."（教授对这位学生的分析能力印象深刻。）——考研高频表达
-> - "She tried to impress the interviewers with her knowledge of the industry."（她试图用自己对行业的了解给面试官留下深刻印象。）——考研高频表达
+> > - `The professor was deeply impressed by the student's analytical ability.` `[真题]`
+> > - `She tried to impress the interviewers with her knowledge of the industry.` `[真题]`
+> > - `The doctor tried to impress the importance of exercise on patients.` `[COCA-ACAD]`
+> > - `His ability to speak five languages fluently impressed everyone at the international conference.` `[COCA-ACAD]`
 
 ---
 

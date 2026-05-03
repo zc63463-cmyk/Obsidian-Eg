@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**进口，输入**== ; ②引入，引进（思想/文化等）
-**n.** ①进口，输入 ; ②==**进口商品**== ; ③重要性（古义，现罕见）
+**vt.** ①==**进口，输入**== `import sth. from...` ; ②引入，引进（思想/文化等）
+**n.** ①进口，输入 ; ②==**进口商品**== `ban/restrict imports` ; ③重要性（古义，现罕见）
 
 > [!tip] 原型义
 > **原型义**：运进去、带入（物理层面的空间移动）
@@ -125,8 +125,10 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The country has to import most of its raw materials."（这个国家必须进口大部分原材料。）——考研高频表达
-> - "It is important to import new ideas and technology from abroad."（从国外引进新思想和新技术很重要。）——考研高频表达
+> > - `The country has to import most of its raw materials.` `[真题]`
+> > - `About 90 percent of the coffee beans in the US are imported.` `[COCA-ACAD]`
+> > - `Cheap imports have destroyed the home-grown apparel manufacturing sector.` `[COCA-ACAD]`
+> > - `All the meat is imported from France.` `[COCA-ACAD]`
 
 ---
 

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不可或缺的，必需的**== ; ②责无旁贷的 ;
+**adj.** ①==**不可或缺的，必需的**== `` `indispensable to/for / an indispensable part/role` `` ; ②责无旁贷的 ;
 
 > [!tip] 原型义
 > **原型义**：不（in-）能被分配出去/省去（[[pon/pos|pens]] + -able）的——不能缺少的
@@ -122,9 +122,10 @@ in-(不) + [[pon/pos|dispens]](分配/处理) + -able(可以被…的) → 不�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education plays an indispensable role in the development of a nation."（教育在一个国家的发展中发挥着不可或缺的作用。）——考研高频表达
-> - "The internet has become an indispensable tool for modern communication and research."（互联网已成为现代通信和研究中不可或缺的工具。）——考研高频表达
-> - "Water is indispensable to all forms of life on Earth."（水对地球上所有形式的生命都是不可或缺的。）——考研高频表达
+> - Education plays an indispensable role in the development of a nation. `` `[COCA-ACAD]` ``
+> - The internet has become an indispensable tool for modern communication and research. `` `[COCA-ACAD]` ``
+> - The many industrial uses of petroleum make it indispensable to the economy. `` `[COCA]` ``
+> - Leadership and learning are indispensable to each other. `` `[COCA]` ``
 
 ---
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**形象，印象**==；②==**图像，画像**==；③==**意象，比喻**==；④==**（公众）形象，声誉**==；⑤==**镜中的映像**==；
-**vt.** ①==**想象，描绘**==；
+**n.** ①==**形象，印象**== `public/brand image; project an image`；②==**图像，画像**== `digital image; body image`；③==**意象，比喻**== `mental image; a distorted image of N`；④==**（公众）形象，声誉**== `improve/tarnish one's image`；⑤==**镜中的映像**== `mirror image`；
+**vt.** ①==**想象，描绘**== `image a world; be imaged as N`；
 
 > [!tip] 原型义
 > **原型义**：模仿的复制品（源自拉丁语 imago"复制品、仿制品、肖像"，来自 imitari"复制、模仿"）
@@ -147,10 +147,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the public image of the company"（公司的公众形象）——考研阅读/写作高频搭配
-> - "body image"（身体意象）——考研阅读心理学/社会类话题
-> - "a distorted image of reality"（扭曲的现实形象）——考研阅读常见搭配
-> - "improve its brand image"（提升品牌形象）——考研阅读商业类话题
+> - Champagne houses owe their success to brand image. `[COCA-ACAD]`
+> - She talked candidly about her body image while taking part in a glamorous new shoot. `[COCA-ACAD]`
+> - The company needs to create a new image for itself. `[真题]`
+> - Corporate image consists of how customers perceive a company and its values. `[COCA-ACAD]`
 
 ---
 

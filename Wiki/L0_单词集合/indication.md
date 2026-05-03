@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**指示，标示**==（路标、仪表等）；②==**迹象，征兆**==（~ of/that...）；③==**表明，暗示**==（~ that...）；
+**n.** ①==**指示，标示**== `` `give an indication of / serve as an indication` `` ；②==**迹象，征兆**== `` `an indication of / early indication` `` ；③==**表明，暗示**== `` `there is every indication that... / indication that...` `` ；
 
 > [!tip] 原型义
 > **原型义**：指向的痕迹（in- "向" + dic- "说/指出" + -tion "动作结果" → 指出来的东西 = 迹象/指示）
@@ -129,9 +129,10 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ation（名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is every indication that the economy is recovering."（有充分迹象表明经济正在复苏）——经济类阅读
-> - "The survey provides a clear indication of public opinion on this issue."（这项调查清楚地表明了公众对这个问题的意见）——社会调查类话题
-> - "Early indications suggest that the new drug is effective."（早期迹象表明新药是有效的）——医学/科技类话题
+> - There is every indication that the economy is recovering. `` `[COCA-ACAD]` ``
+> - Early indications suggest that the new drug is effective. `` `[COCA-ACAD]` ``
+> - The two parties have shown every indication of a willingness to compromise. `` `[COCA]` ``
+> - There is no indication that the situation will change in the near future. `` `[COCA-ACAD]` ``
 
 ---
 

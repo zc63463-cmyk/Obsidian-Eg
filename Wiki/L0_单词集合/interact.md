@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**互动，相互作用，交流**==；②相互影响；
+**vi.** ①==**互动，相互作用，交流**== `interact with sb./sth.` ；②相互影响 `A and B interact` ；
 
 > [!tip] 原型义
 > **原型义**：在彼此之间行动（两个人或物在彼此之间产生动作和影响）
@@ -131,8 +131,9 @@ inter-(在…之间，between) + act(行动，做)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers' argument stems from a simple observation about social influence—with the exception of a few celebrities like Oprah Winfrey—whose outsize presence is primarily a function of media, not interpersonal influence—even the most influential members of a population simply don't interact with that many others."（研究人员的论点来源于对社会影响的简单观察——除了奥普拉·温弗瑞等少数名人外——他们的超凡存在主要是媒体的作用，而非人际影响——即使是人群中最有影响力的人也根本不会与那么多人互动。——2010年考研英语阅读）
-> - "In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback."（在其中，一位母亲被要求以正常方式与她的孩子互动，然后面无表情，不给孩子任何视觉上的社交反馈。——2021年考研英语二翻译）
+> - The researchers' argument stems from a simple observation about social influence — with the exception of a few celebrities like Oprah Winfrey — whose outsize presence is primarily a function of media, not interpersonal influence — even the most influential members of a population simply don't interact with that many others. `[真题]`
+> - In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback. `[真题]`
+> - Parents, teachers, and other adults are a good source of social support for children, but it is among other children that kids learn how to interact with each other. `[COCA-ACAD]`
 
 ---
 

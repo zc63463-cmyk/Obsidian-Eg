@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**强烈，剧烈，强度**==；②（感情的）强烈程度；③（光、声等的）强度；
+**n.** ①==**强烈，剧烈，强度**== `the intensity of competition/pressure` ；②（感情的）强烈程度 `emotional intensity` ；③（光、声等的）强度 `light/sound intensity` ；
 
 > [!tip] 原型义
 > **原型义**：拉紧的程度（绳子被拉伸到极限的程度——有多紧）
@@ -131,8 +131,9 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ity(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him."（贝多芬以极度强烈的音量增加音高，然后突然接以轻柔的乐段，这种习惯在他之前的作曲家中极少使用。——考研英语翻译真题）
-> - "But individual choices have an intense cumulative effect."（但个人选择会产生强烈的累积效应。——考研英语阅读）
+> - Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him. `[真题]`
+> - Simone sings with emotional intensity. `[COCA-ACAD]`
+> - The light hit us with such intensity that we ducked. `[COCA-ACAD]`
 
 ---
 

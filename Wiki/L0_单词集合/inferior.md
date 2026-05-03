@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**下级的，次等的**==；②（质量等）差的，次的；③（地位）低下的；
-**n.** ①下属，下级；②不如自己的人；
+**adj.** ①==**下级的，次等的**== `be inferior to` ；②（质量等）差的，次的 `inferior quality/goods` ；③（地位）低下的 `an inferior position` ;
+**n.** ①下属，下级 `one's inferiors` ; ②不如自己的人;
 
 > [!tip] 原型义
 > **原型义**：较低的、下方的（源自拉丁语 inferior = "在下面的"，inferus 的比较级）
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study found that products labeled "made in China" were often perceived as inferior in quality."（研究发现，标有"中国制造"的产品常常被认为质量较差。）——考研高频表达
-> - "No one should be made to feel inferior because of their race, gender, or social background."（任何人都不应因种族、性别或社会背景而感到低人一等。）——考研高频表达
+> - "The study found that products labeled 'made in China' were often perceived as inferior in quality." `[COCA-ACAD]`
+> - "She cited cases in which women had received inferior healthcare." `[COCA-ACAD]`
+> - "His later work was vastly inferior to his early work." `[COCA-ACAD]`
+> - "The cracks in the structure were due to the poor-quality materials and inferior workmanship." `[COCA-ACAD]`
 ---
 
 

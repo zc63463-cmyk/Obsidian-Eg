@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**最初的，开始的**== ; ②==**首字母的**==
-**n.** ①首字母
+**adj.** ①==**最初的，开始的**== `adj. + n.` ; ②==**首字母的**== `adj. + n.`
+**n.** ①首字母 `n.`
 
 > [!tip] 原型义
 > **原型义**：最初的、开始的
@@ -125,8 +125,10 @@ in-(进入/在……上) + [[it]](走/行走) + -ial(形容词后缀，与……
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It took a while to get in, but on your initial visit, he seemed pleasant enough."（进去花了一些时间，但在你初次拜访时，他看起来还算和善。）——考研高频表达
-> - "The initial results of the experiment were disappointing."（实验的初步结果令人失望。）——考研高频表达
+> - "The initial results of the experiment were disappointing." `[真题]`
+> - "Her initial reaction was to say no, but she eventually agreed to help." `[COCA-ACAD]`
+> - "The project is only in the initial phase as yet, but it's looking quite promising." `[COCA-ACAD]`
+> - "Throughout this work, it is supposed that in the initial state the two surfaces are not in contact." `[COCA-ACAD]`
 ---
 
 
