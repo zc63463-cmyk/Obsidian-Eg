@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**居住，栖居**==；②==**细想，详述**==（dwell on/upon）；③（目光）停留，凝视；
+**v.** ①==**居住，栖居**== `dwell in/on; dwell in a cave` [正式]；②==**细想，详述**== `dwell on/upon sth; dwell on the past` [正式]；③（目光）停留，凝视 `His eyes dwelt on her face` [文学]；
 
 > [!tip] 原型义
 > **原型义**：停留，居住（在一个地方长期待着不走）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't dwell on the past; focus on the future."（不要老是想着过去，要关注未来）
-> - "Fairies were said to dwell in the forest."（据说仙女居住在森林里）
+> - "Don't dwell on the past; focus on the future." `[真题]`
+> - "She dwelt in remote parts of Asia for many years." `[真题]`
+> - "There is no need to dwell on the past." `[真题]`
+> - "His eyes dwelt on her face for a long moment." `[真题]`
 
 
 ---

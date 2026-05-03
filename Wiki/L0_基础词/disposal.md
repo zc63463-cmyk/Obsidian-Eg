@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**处理，清除**==；②==**支配权，使用权**==；
+**n.** ①==**处理，清除**== `\waste disposal` [正式]；②==**支配权，使用权**== `\at one's disposal` [正式]；
 
 > [!tip] 原型义
 > **原型义**：排列好（安排好位置）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has a large amount of capital at its disposal for investment."（公司有大量资本可供投资支配——考研阅读经济类话题高频表达）
-> - "The safe disposal of nuclear waste remains a major challenge."（核废料的安全处理仍然是一个重大挑战——考研翻译环境类表达）
+> - Having sold the house, she had a large sum of money at her disposal. `[真题]`
+> - The government will use every tool at its disposal to provide relief for the affected area. `[真题]`
+> - Some cities in the world do not have proper facilities for the disposal of sewage. `[真题]`
 
 
 ---

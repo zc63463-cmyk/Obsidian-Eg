@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**边缘，边界**==；②==**优势，上风**==；③刀刃，锋；
-**v.** ①缓慢移动，侧身移动；②==**使锐利**==；
+**n.** ①==**边缘，边界**== `\on the edge of sth.` [中性]；②==**优势，上风**== `\have an edge (over sb./sth.)` [中性/正面]；③刀刃，锋；
+**v.** ①缓慢移动，侧身移动；②==**使锐利**== `\edge sth.` [中性]；
 
 > [!tip] 原型义
 > **原型义**：边缘（物体的最外边界）
@@ -133,8 +133,10 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "ZEH communities are the leading edge of technologies that might someday create houses that produce as much energy as they consume."（零能耗住宅社区是前沿技术，有朝一日可能创造出与消耗等量能源的房屋。——考研英语阅读）
-> - "The rounded edges, cool glass, smooth and unknowable as a pebble."（圆润的边缘，冰凉的玻璃，光滑得像鹅卵石一样不可捉摸。——考研英语阅读）
+> - ZEH communities are the leading edge of technologies that might someday create houses that produce as much energy as they consume. `[真题]`
+> - The rounded edges, cool glass, smooth and unknowable as a pebble. `[真题]`
+> - Being the leader of the fight against climate change provides a competitive edge. `[语料库]`
+> - Incumbents generally have a financial edge over their rivals. `[语料库]`
 
 
 ---

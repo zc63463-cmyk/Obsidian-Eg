@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**打扰，扰乱**==；②==**弄乱**==；③使不安，使烦恼；
+**vt.** ①==**打扰，扰乱**== `disturb sb./sb.'s sleep` [通用]；②==**弄乱**== `disturb the balance/documents` [通用]；③使不安，使烦恼；
 
 > [!tip] 原型义
 > **原型义**：打扰（打破原有的平静/秩序）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please do not disturb the wildlife when visiting the nature reserve."（参观自然保护区时请不要打扰野生动物）
-> - "She was deeply disturbed by the disturbing images shown in the documentary."（纪录片中令人不安的画面使她深感不安）
+> - Please do not disturb the wildlife when visiting the nature reserve. `[真题]`
+> - The light in the wards was dimmed in order not to disturb the patients in their sleep. `[真题]`
+> - This year's election campaign has disturbed a lot of voters who don't like either candidate. `[真题]`
 
 
 ---

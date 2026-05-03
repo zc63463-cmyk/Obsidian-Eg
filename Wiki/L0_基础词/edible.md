@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可食用的，无毒的**==；
+**adj.** ①==**可食用的，无毒的**== `\edible plants/mushrooms/oil` [中性/正式]；
 **n.** 食物（可食用的东西）；
 
 > [!tip] 原型义
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Not all wild mushrooms are edible; some are highly poisonous."（并非所有野生蘑菇都可食用，有些含有剧毒。——考研阅读科普类）
-> - "The researchers identified over 200 species of edible plants in the region."（研究人员在该地区鉴定了200多种可食用植物。——红宝书考研词汇例句）
+> - Not all wild mushrooms are edible; some are highly poisonous. `[语料库]`
+> - The researchers identified over 200 species of edible plants in the region. `[语料库]`
+> - Birch inner bark is edible and can be processed into flour. `[语料库]`
 
 
 ---

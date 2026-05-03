@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**编辑，编校**==（为出版而修改、校订文稿）；②==**剪辑**==（电影、录音等的编辑处理）；③主编（担任……的编辑）；
+**v.** ①==**编辑，编校**== `\edit a manuscript/book` [中性/专业]；②==**剪辑**== `\edit a film/video` [中性/专业]；③主编（担任……的编辑）；
 
 > [!tip] 原型义
 > **原型义**：把作品呈现出来——编辑、修订
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author spent months editing and revising the manuscript before it was finally accepted for publication."（作者花了几个月编辑和修改手稿，最终才被接受出版。——考研阅读学术出版话题相关表达）
-> - "With modern digital tools, anyone can edit photos and videos on their smartphone with professional-quality results."（借助现代数字工具，任何人都可以在智能手机上编辑照片和视频，获得专业品质的效果。——考研阅读科技话题相关表达）
+> - Editing his journals for publication revealed to him how much he cared about what now seems trivial. `[语料库]`
+> - Students learn to edit their essays for grammar and punctuation. `[语料库]`
+> - He continued to edit the paper with great courage through the darkest years of the war. `[语料库]`
 
 
 ---

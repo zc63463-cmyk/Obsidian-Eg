@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**耳朵**==；②听觉，听力；③穗（麦穗等）
+**n.** ①==**耳朵**== `turn a deaf ear to` `lend an ear` [通用]；②听觉，听力 `have a good ear for` [通用]；③穗（麦穗等） `ears of corn` [书面]
 **v.** ①抽穗；②（美式英语）==**听到，听出**==（==**考研重点义项**==）
 
 > [!tip] 原型义
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government turned a deaf ear to the protesters' demands."（政府对抗议者的要求充耳不闻——考研英语阅读政治类话题）
-> - "When the professor started talking about the new theory, the students were all ears."（当教授开始讲述新理论时，学生们全神贯注地听着——考研翻译相关表达）
+> - He turned a deaf ear to the rumors. `[真题]`
+> - When the manager started talking about promotions, everyone in the room was all ears. `[真题]`
+> - I hope that our appeals will not fall on deaf ears. `[真题]`
 
 
 ---

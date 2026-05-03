@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**谨慎的，慎重的**==；②==**不引人注意的，含蓄的**==；
+**adj.** ①==**谨慎的，慎重的**== `adj.` / `be adj. about N`；②==**不引人注意的，含蓄的**== `adj. N`；
 
 > [!tip] 原型义
 > **原型义**：分开判断（仔细分辨后行动）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was discreet enough not to reveal the secret to anyone."（他足够谨慎，没有把秘密透露给任何人——考研阅读人物类话题）
-> - "She made a discreet exit before the argument escalated."（她在争论升级前悄然离场——考研翻译常见表达）
+> - She listens intently as her two armed bodyguards stand at a discreet distance. `[COCA-NEWS]`
+> - The important thing was to remain discreet and put your duties and family first. `[BNC-SPOKEN]`
+> - He was discreet enough not to reveal the secret to anyone. `[例]`
 
 
 ---

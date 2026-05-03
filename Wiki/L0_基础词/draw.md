@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**画，描绘**==；②==**拉，拖**==；③==**吸引**==；④==**推断出，得出**==；⑤抽（签），拔出；
-**n.** ①平局；②抽签；
+**v.** ①==**画，描绘**== `\draw a picture/line/map` [通用]；②==**拉，拖**== `\draw the curtains/curtain` [通用]；③==**吸引**== `\draw attention/crowds` [通用]；④==**推断出，得出**== `\draw a conclusion` [通用]；⑤抽（签），拔出 `\draw a card/sword` [通用]；
+**n.** ①平局 `\end in a draw` [通用]；②抽签；
 
 > [!tip] 原型义
 > **原型义**：拉，拖（朝自己方向拉动，源自原始日耳曼语 *\*draganan*"携带、拖拉"）
@@ -135,8 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report draws attention to the serious environmental problems."（这份报告引起了人们对严重环境问题的关注。）
-> - "We can draw a conclusion from the data that the economy is recovering."（我们可以从数据中得出结论：经济正在复苏。）
+> - The report draws attention to the serious environmental problems. `[真题]`
+> - We can draw a conclusion from the data that the economy is recovering. `[真题]`
+> - He's an excellent speaker who always draws a crowd. `[真题]`
 
 
 ---

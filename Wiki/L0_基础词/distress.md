@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**悲痛，痛苦**==；②==**贫困，窘迫**==；③危难，险境；
-**vt.** ①==**使痛苦，使悲伤**==；②使贫困；
+**n.** ①==**悲痛，痛苦**== `cause sb. great distress` [通用]；②==**贫困，窘迫**== `in financial distress` [新闻/商务]；③危难，险境；
+**vt.** ①==**使痛苦，使悲伤**== `be distressed by/about sth.` [通用]；②使贫困；
 
 > [!tip] 原型义
 > **原型义**：悲痛（被紧紧拉扯的痛苦状态）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is in severe financial distress and may face bankruptcy."（公司处于严重的财务困境中，可能面临破产）
-> - "She was deeply distressed by the news of her friend's illness."（朋友生病的消息使她深感痛苦）
+> - The company is in severe financial distress and may face bankruptcy. `[真题]`
+> - She was deeply distressed by the news of her friend's illness. `[真题]`
+> - The idea of Toni being in danger distresses him enormously. `[真题]`
 
 
 ---

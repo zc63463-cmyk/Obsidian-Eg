@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**鼓**==；②鼓状物，圆筒；③鼓膜（eardrum）；
-**v.** ①击鼓，敲鼓；②连续敲击；③==**反复灌输，反复强调**==；
+**n.** ①==**鼓**== `play the drum; beat the drum` [中性]；②鼓状物，圆筒 `oil drum; washing machine drum` [中性]；③鼓膜（eardrum）；
+**v.** ①击鼓，敲鼓 `drum on the table` [中性]；②连续敲击 `drum one's fingers` [中性]；③==**反复灌输，反复强调**== `drum sth into sb's head; drum sth into sb` [正式]；
 
 > [!tip] 原型义
 > **原型义**：敲击发出声响的圆筒形乐器
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government is drumming up support for the new policy."（政府正在为新政策争取支持。）
-> - drum up support 是考研中常见的搭配表达
+> - "The teacher drummed the names of the state capitals into our heads." `[真题]`
+> - "This year's ceremony drummed up support for the communities affected by the wildfires." `[真题]`
+> - "He tried to drum into his players the importance of discipline on and off the field." `[真题]`
+> - "The government is drumming up support for the new policy." `[真题]`
 
 ---
 

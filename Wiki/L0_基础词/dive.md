@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**跳水，潜水**==；②急剧下降，暴跌；③钻研，探究；
+**v.** ①==**跳水，潜水**== `dive into the pool/water` [通用]；②急剧下降，暴跌；③钻研，探究；
 **n.** ①跳水，潜水；②急剧下降；
 
 > [!tip] 原型义
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The stock market dived on news of the financial crisis."（金融市场危机的消息传来，股市暴跌。）
-> - "Scholars have dived into the archives to uncover the truth."（学者们一头扎进档案中寻找真相。）
+> - The stock market dived on news of the financial crisis. `[真题]`
+> - Scholars have dived into the archives to uncover the truth. `[真题]`
+> - Share prices dived 3.5% today to a three-month closing low. `[真题]`
 
 
 ---

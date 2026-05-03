@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**码头，船坞**==；②（法庭的）被告席；
-**v.** ①==**（使船）靠码头**==；②==**扣除，削减**==（工资等）；
+**n.** ①==**码头，船坞**== `dock at / in the dock` [日常/法律]；②（法庭的）被告席；
+**v.** ①==**（使船）靠码头**== `dock at the port` [日常/航海]；②==**扣除，削减**== `dock one's pay / dock wages` [日常/职场]（工资等）；
 
 > [!tip] 原型义
 > **原型义**：码头（船只停靠的地方）
@@ -130,8 +130,9 @@ dock 源自古英语 *docce*（一种植物），后引申为"水边凹陷处"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company docked his pay for being late."（公司因他迟到扣了他的工资。）
-> - "The defendant stood in the dock, facing the jury."（被告站在被告席上，面对陪审团。）
+> - "The company docked his pay for being late." `[真题]`
+> - "The defendant stood in the dock, facing the jury." `[真题]`
+> - "The ship docked at the harbor early this morning." `[真题]`
 
 
 ---

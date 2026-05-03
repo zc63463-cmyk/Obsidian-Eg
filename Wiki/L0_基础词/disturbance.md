@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**干扰，扰乱**==；②==**骚乱，动乱**==；③精神紊乱；④（物理）扰动；
+**n.** ①==**干扰，扰乱**== `cause/create a disturbance` [通用]；②==**骚乱，动乱**== `civil disturbance` [新闻/学术]；③精神紊乱；④（物理）扰动；
 
 > [!tip] 原型义
 > **原型义**：干扰（搅动平静的事件/状态）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The demonstration led to serious civil disturbances across the city."（示威活动导致全市范围内严重的民事骚乱）
-> - "Children with emotional disturbances may require specialized educational support."（有情绪紊乱的儿童可能需要特殊的教育支持）
+> - The demonstration led to serious civil disturbances across the city. `[真题]`
+> - The violence that soldiers experience in war can lead to emotional disturbance in later years. `[真题]`
+> - Neighbours called the police to report a disturbance. `[真题]`
 
 
 ---

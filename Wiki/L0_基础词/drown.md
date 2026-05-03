@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**淹死，溺水**==；②淹没，浸没；③（声音等）盖过，压过；④沉浸于，沉迷于；
+**v.** ①==**淹死，溺水**== `drown in` `a drowning man` [通用]；②淹没，浸没；③（声音等）盖过，压过 `drown out` [通用]；④沉浸于，沉迷于 `drown in sth.` `drown one's sorrows` [书面]；
 
 > [!tip] 原型义
 > **原型义**：被水淹没而窒息
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Small islands are in danger of being drowned by rising sea levels."（小岛面临被上升海平面淹没的危险。）
-> - drown 常出现在环境、自然灾害类阅读话题中
+> - Small islands are in danger of being drowned by rising sea levels. `[真题]`
+> - Her voice was drowned out by the loud music at the party. `[真题]`
+> - He tried to drown his sorrows in drink after losing his job. `[真题]`
 
 ---
 

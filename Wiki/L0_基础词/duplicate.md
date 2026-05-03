@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**复制，复印**==；②==**重复**==；
-**n.** ①==**复制品，副本**==；②完全一样的东西；
-**adj.** ①==**完全相同的，复制的**==；②二重的；
+**v.** ①==**复制，复印**== `duplicate a document/key; duplicate a record` [中性]；②==**重复**== `duplicate the results; duplicate the effort` [中性]；
+**n.** ①==**复制品，副本**== `a duplicate copy; a duplicate key` [中性]；②完全一样的东西；
+**adj.** ①==**完全相同的，复制的**== `a duplicate record; duplicate data` [中性]；②二重的；
 
 > [!tip] 原型义
 > **原型义**：折成两份（将一张纸对折变成两份相同的内容）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please fill out the form in duplicate."（请一式两份填写此表格）
-> - "Scientists tried to duplicate the results of the experiment."（科学家试图重复该实验的结果）
+> - "Please fill out the form in duplicate." `[真题]`
+> - "Scientists tried to duplicate the results of the experiment." `[真题]`
+> - "I lost the original form so they sent me a duplicate." `[真题]`
+> - "I only have one house key, but I'll have a duplicate made for when you visit." `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**差异，不一致**==；②==**出入，偏差**==；
+**n.** ①==**差异，不一致**== `\a discrepancy between A and B` [正式]；②==**出入，偏差**== `\a discrepancy in the figures` [正式]；
 
 > [!tip] 原型义
 > **原型义**：分开时发出不同声音（不一致之处）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a significant discrepancy between what the government claims and what the data shows."（政府声称的情况与数据显示之间存在显著差异——考研阅读社会类话题）
-> - "The auditor found discrepancies in the company's financial statements."（审计员发现了公司财务报表中的出入——考研翻译商业类表达）
+> - There were discrepancies between their accounts of the accident. `[真题]`
+> - A balance sheet review uncovered discrepancies totalling €30 million. `[真题]`
+> - The report highlighted a notable discrepancy between the projected sales figures and the actual results. `[真题]`
 
 
 ---

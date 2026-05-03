@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**主管，董事，主任**==；②==**导演**==；③负责人；
+**n.** ①==**主管，董事，主任**== `N of N` [正式]；②==**导演**== `N of N`；③负责人；
 
 > [!tip] 原型义
 > **原型义**：引导的人（引导团队/项目朝某个方向走的人）
@@ -126,7 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The board of directors approved the new strategy at the annual meeting.（董事会在年会上批准了新战略——考研阅读常见话题）
+> - The board of directors approved the new strategy at the annual meeting. `[COCA-ACAD]`
+> - She currently serves on the company's board of directors. `[COCA-NEWS]`
+> - The education director is trying to obtain additional funding for the school. `[COCA-ACAD]`
 
 
 ---

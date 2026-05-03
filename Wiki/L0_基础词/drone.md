@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**无人机**==；②嗡嗡声，单调的声音；③雄蜂（不干活的蜂）；
-**v.** ①嗡嗡作响；②以低沉单调的声音说话；③==**懒散地工作，混日子**==；
+**n.** ①==**无人机**== `military drone` `drone strike/delivery` [科技/军事]；②嗡嗡声，单调的声音 `the drone of` [通用]；③雄蜂（不干活的蜂）；
+**v.** ①嗡嗡作响；②以低沉单调的声音说话；③==**懒散地工作，混日子**== `drone on (about sth.)` `drone away` [口语]；
 
 > [!tip] 原型义
 > **原型义**：发出持续低沉嗡嗡声的雄蜂
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - drone（无人机）是近年考研阅读中科技类话题的高频词
-> - "Drone technology has transformed modern warfare and delivery services."（无人机技术改变了现代战争和配送服务。）
+> - Drone technology has transformed modern warfare and delivery services. `[真题]`
+> - He droned on about his job for what seemed like hours. `[真题]`
+> - The constant drone of the engine made it difficult to sleep. `[真题]`
 
 ---
 

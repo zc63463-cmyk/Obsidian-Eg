@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**古怪的，异乎寻常的**==；②（圆）不同心的，偏心的；
-**n.** ①==**古怪的人**==；
+**adj.** ①==**古怪的，异乎寻常的**== `eccentric behavior` `an eccentric person` [通用]；②（圆）不同心的，偏心的 `eccentric orbit` [学术]
+**n.** ①==**古怪的人**== `an eccentric old lady` [通用]；
 
 > [!tip] 原型义
 > **原型义**：偏离中心的（不在圆心上）
@@ -128,8 +128,9 @@ ec-(=ex-, 向外/偏离) + centr(中心) + -ic(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In all of them his thinking was widely regarded at the outset as eccentric or worse."（几乎在所有这些领域，他的想法起初都被广泛认为是古怪的甚至更糟。——考研英语阅读）
-> - "The eccentricity of this very strange old gentleman had become the nucleus for a thousand fantastic stories."（这位怪老人的古怪行为已成为无数荒诞故事的核心内容。——2013年考研英语阅读词汇）
+> - He was a kind but eccentric man. `[真题]`
+> - Our neighbour is an eccentric old lady who has about 25 cats. `[真题]`
+> - In all of them his thinking was widely regarded at the outset as eccentric or worse. `[真题]`
 
 
 ---

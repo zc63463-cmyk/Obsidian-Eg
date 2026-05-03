@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**排走，排去（水等液体）**==；②==**耗尽，消耗**==；③渐渐流走；
-**n.** ①排水沟，下水道；②消耗，耗竭；
+**v.** ①==**排走，排去（水等液体）**== `\drain the water/liquid` [通用]；②==**耗尽，消耗**== `\drain one's energy/resources` [通用]；③渐渐流走；
+**n.** ①排水沟，下水道；②消耗，耗竭 `\a drain on sth.` [通用]；
 
 > [!tip] 原型义
 > **原型义**：使干燥（逐渐抽走液体，使变干）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The brain drain to the United States has caused serious problems for developing countries."（人才流向美国给发展中国家造成了严重问题。）
-> - "Military spending has drained the nation's resources."（军费开支已经耗尽了国家的资源。）
+> - The brain drain to the United States has caused serious problems for developing countries. `[真题]`
+> - Military spending has drained the nation's resources. `[真题]`
+> - They still need football if the stadium is not to be a drain on the public purse. `[真题]`
 
 
 ---

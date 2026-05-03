@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**电梯，升降机**==（美式英语）
+**n.** ①==**电梯，升降机**== `\b(take|ride|call|use) the elevator\b` [通用]（美式英语）
 
 > [!tip] 原型义
 > **原型义**：向上举的机器（不断把人举高的装置）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Families were flitting around the lobby, pool terrace, and elevators throughout my stay."（在我入住期间，家人们在大堂、泳池露台和电梯间穿梭——Merriam-Webster 例句）
-> - "Werner von Siemens built the first electric elevator in 1880 using an electromagnetic motor."（维尔纳·冯·西门子在1880年使用电磁马达建造了第一台电动电梯——历史语料）
+> - He rode the elevator to the 43rd floor. `[真题]`
+> - We took a creaky old elevator up to the third floor. `[真题]`
+> - People were trapped in elevators, businesses closed early, and schools sent students home. `[真题]`
 
 
 ---

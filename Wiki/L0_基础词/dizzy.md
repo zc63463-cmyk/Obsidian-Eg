@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**头晕目眩的**==；②使人眩晕的；③（因成功等）不知所措的；
+**adj.** ①==**头晕目眩的**== `feel dizzy / a dizzy spell` [日常/医学]；②==**使人眩晕的**== `dizzy heights / a dizzy pace` [文学/描述]；③（因成功等）不知所措的；
 
 > [!tip] 原型义
 > **原型义**：头晕目眩的（源自古英语 *dysig*，愚蠢的、糊涂的，与 *dēasan*"晕眩"有关）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She felt dizzy after standing up too quickly."（她站起来太快后感到头晕。）
-> - "The dizzy pace of technological change leaves many struggling to keep up."（技术变革令人目眩的节奏让许多人难以跟上。）
+> - "She felt dizzy after standing up too quickly." `[真题]`
+> - "I felt dizzy with excitement as I went up to collect the award." `[真题]`
+> - "The heat and the champagne made him feel dizzy." `[真题]`
 
 
 ---

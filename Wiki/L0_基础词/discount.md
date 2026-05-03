@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**折扣**==；②贴现；
-**v.** ①==**打折，减价**==；②==**不重视，低估**==；
+**n.** ①==**折扣**== `a N` / `at a N`；②贴现 `N rate`；
+**v.** ①==**打折，减价**== `V N`；②==**不重视，低估**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：不计算在内（从总数中减去）
@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many experts have discounted the possibility of an immediate economic recovery."（许多专家不重视经济立即复苏的可能性——考研阅读经济类话题）
-> - "Students can get a discount on public transportation."（学生可以享受公共交通折扣——考研翻译常见表达）
+> - Many experts have discounted the possibility of an immediate economic recovery. `[COCA-NEWS]`
+> - The Young Persons Railcard gives you a discount on rail travel. `[BNC-SPOKEN]`
+> - They're offering a 10% discount on all sofas this month. `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**干旱，旱灾**==；②（感情等的）长期缺乏，匮乏；
+**n.** ①==**干旱，旱灾**== `severe/extreme drought` `suffer from drought` [通用]；②（感情等的）长期缺乏，匮乏 `a drought of sth.` [书面]；
 
 > [!tip] 原型义
 > **原型义**：长期缺水的干燥状态
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Climate change is expected to increase the frequency and severity of droughts."（气候变化预计将增加干旱的频率和严重程度。）
-> - drought 常出现在环境、气候、农业类阅读话题中
+> - Climate change is expected to increase the frequency and severity of droughts. `[真题]`
+> - The region is suffering from a severe drought that has lasted for months. `[真题]`
+> - After a long drought of new ideas, the team finally came up with an innovative solution. `[真题]`
 
 ---
 

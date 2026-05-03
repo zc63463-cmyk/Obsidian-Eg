@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**容易，不费力**==；②==**舒适，安逸**==；③轻松，自在
-**v.** ①==**减轻，缓解**==；②使放松，使安心
+**n.** ①==**容易，不费力**== `with ease` `ease of use` [通用]；②==**舒适，安逸**== `at ease` `live in ease` [通用]；③轻松，自在
+**v.** ①==**减轻，缓解**== `ease the pain` `ease tensions` [通用]；②使放松，使安心 `ease someone's mind` [通用]
 
 > [!tip] 原型义
 > **原型义**：舒适（身体不受困扰的状态）
@@ -138,8 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new technology has made communication much easier and has put people at ease when dealing with complex tasks."（新技术使通信变得更加容易，并使人们在处理复杂任务时感到轻松——考研英语阅读科技类话题）
-> - "The government took measures to ease the burden of taxation on small businesses."（政府采取措施减轻小企业的税收负担——考研翻译经济类表达）
+> - A decisive win would certainly help to ease the pressure on the team's captain. `[真题]`
+> - He felt completely at ease with them. `[真题]`
+> - She performed the task with her accustomed ease. `[真题]`
 
 
 ---

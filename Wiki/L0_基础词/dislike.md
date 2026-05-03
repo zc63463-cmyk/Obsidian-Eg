@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**不喜欢，厌恶**==；②==**反感的事物**==；
-**v.** ①==**不喜欢，厌恶**==；
+**n.** ①==**不喜欢，厌恶**== `\have a dislike for/of` [通用]；②==**反感的事物**== `\likes and dislikes` [通用]；
+**v.** ①==**不喜欢，厌恶**== `\dislike doing sth.` [通用]；
 
 > [!tip] 原型义
 > **原型义**：不喜欢（缺乏好感）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people dislike the idea of working from home permanently."（许多人不喜欢永久居家办公的想法——考研阅读社会类话题）
-> - "She took an instant dislike to the new colleague."（她立刻对新同事产生了反感——考研翻译常见表达）
+> - I have always disliked that feeling of fullness after a large meal. `[真题]`
+> - Most people dislike going to the dentist. `[真题]`
+> - Fiona seemed to have taken a dislike to him, though she tried to cover it up. `[真题]`
 
 
 ---

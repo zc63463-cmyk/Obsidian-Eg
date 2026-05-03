@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**电工，电气技师**==（安装、维护电气设备的人）
+**n.** ①==**电工，电气技师**== `\b(a|the|qualified|licensed) electrician\b` [通用]（安装、维护电气设备的人）
 
 > [!tip] 原型义
 > **原型义**：处理电的人（安装和维护电气设备的专业人员）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For the past year, he has worked as an electrician at a plant in Manchester."（过去一年里，他在曼彻斯特一家工厂当电工——Cambridge Business English Dictionary）
-> - "You should call a qualified electrician to fix the electrical fault."（你应该叫一位合格的电工来修理电路故障——常见英语学习语料）
+> - For the past year, he has worked as an electrician at a plant in Manchester. `[真题]`
+> - If the problem is in the electrical setup in your room, you'll probably need to consult with a professional electrician. `[真题]`
+> - A London electrician became a lottery multimillionaire by using serial numbers on cranes at a foundry where he has worked for almost 50 years. `[真题]`
 
 
 ---

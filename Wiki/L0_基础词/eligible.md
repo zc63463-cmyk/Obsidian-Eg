@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有资格的，合格的**==；②（婚姻）合适的，中意的
+**adj.** ①==**有资格的，合格的**== `\beligible (for|to)\b` [正式]；②==**（婚姻）合适的，中意的**== `\beligible (bachelor|candidate)\b` [通用]
 
 > [!tip] 原型义
 > **原型义**：能被选中的（有资格被挑选的）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He's America's most eligible bachelor."（他是美国最受欢迎的黄金单身汉——Merriam-Webster 例句）
-> - "Only citizens over 18 are eligible to vote in the national election."（只有18岁以上的公民才有资格在全国选举中投票——常见英语学习语料）
+> - Only people over 18 are eligible to vote. `[真题]`
+> - You could be eligible for a university scholarship. `[真题]`
+> - Almost half the population are eligible to vote in today's election. `[真题]`
 
 
 ---

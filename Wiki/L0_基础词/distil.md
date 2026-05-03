@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**蒸馏，用蒸馏法提取**==；②==**提炼，吸取……的精华**==；③使渗出；
+**vt.** ①==**蒸馏，用蒸馏法提取**== `distil water/alcohol` [科学]；②==**提炼，吸取……的精华**== `distil the essence of sth.` `distil knowledge from sth.` [学术/书面]；③使渗出；
 **vi.** ①蒸馏；②滴下；
 
 > [!tip] 原型义
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author distils decades of research into a single, accessible volume."（作者将数十年的研究提炼成一卷通俗易懂的著作）
-> - "Pure water is obtained through distillation."（纯水是通过蒸馏获得的）
+> - The author distils decades of research into a single, accessible volume. `[真题]`
+> - This article distills the content of that course into a few simple examples that show the elegance of functional programming. `[真题]`
+> - The discussion in this section is my attempt to distill the key themes and objections in what has become a voluminous literature. `[真题]`
 
 
 ---

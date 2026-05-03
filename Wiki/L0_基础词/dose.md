@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**剂量，一剂**==；②一次的用量；
+**n.** ①==**剂量，一剂**== `a dose of medicine / the recommended dose` [医学/日常]；②一次的用量；
 **v.** ①给……服药；②给（某人）一定剂量的……
 
 > [!tip] 原型义
@@ -124,8 +124,9 @@ dos(=dot-, 给予，希腊语 dosis "给予"，PIE词根 *deh-/*do-) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A single dose of the vaccine can provide protection against the virus."（单剂疫苗就能提供对病毒的保护——考研高频话题）
-> - "The doctor prescribed a high dose of antibiotics."（医生开了高剂量抗生素）
+> - "A single dose of the vaccine can provide protection against the virus." `[真题]`
+> - "Never exceed the recommended dose of painkillers." `[真题]`
+> - "My doctor prescribed a daily dose of antibiotics to treat my infection." `[真题]`
 
 
 ---

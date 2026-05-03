@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**det./pron.** ①==**（两者中）任何一个**==；②==**每个，各方**==（用于肯定句）；
+**det./pron.** ①==**（两者中）任何一个**== `\either option/side` [中性]；②==**每个，各方**== `\on/in either side/case` [中性]；
 **adv.** ①也（不）（用于否定句末尾）；②而且（用于加强语气）；
-**conj.** ①either...or...：==**要么……要么……**==；
+**conj.** ①either...or...：==**要么……要么……**== `\either...or...` [中性]；
 
 > [!tip] 原型义
 > **原型义**：两者之一（源自古英语 *ǣgðer*，ā（永远）+ ghwæther（两者中的任何一个））
@@ -132,8 +132,9 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber."（如果一只猴子不交代币就得到了葡萄，另一只要么把自己的代币扔给研究员，要么扔出房间外——2005年考研英语一Text 1）
-> - "Almost half of those surveyed said their companies were either in the middle of restructuring or about to embark on it."（近一半的受访者表示，他们的公司要么正在重组中，要么即将开始重组——考研商业类语料）
+> - And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber. `[真题]`
+> - Almost half of those surveyed said their companies were either in the middle of restructuring or about to embark on it. `[语料库]`
+> - Either of the dresses will look good on you. `[语料库]`
 
 
 ---

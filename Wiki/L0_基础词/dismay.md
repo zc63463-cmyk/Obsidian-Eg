@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**失望，沮丧**==；②==**惊恐，惊愕**==；
-**v.** ①==**使失望，使沮丧**==；②==**使惊恐**==；
+**n.** ①==**失望，沮丧**== `\to one's dismay` [正式]；②==**惊恐，惊愕**== `\in dismay` [通用]；
+**v.** ①==**使失望，使沮丧**== `\be dismayed by/at` [正式]；②==**使惊恐**== `\dismay sb.` [通用]；
 
 > [!tip] 原型义
 > **原型义**：失去力量（无力感）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To her dismay, she found that all her savings had been stolen."（令她沮丧的是，她发现所有积蓄都被偷了——考研阅读社会类话题）
-> - "The public was dismayed by the government's failure to address the crisis."（公众对政府未能应对危机感到沮丧——考研翻译政治类表达）
+> - To her dismay, she discovered that the paper was due a whole month earlier than she had expected. `[真题]`
+> - The fans watched in dismay as their team lost 42-11. `[真题]`
+> - The news has been greeted with dismay by local business leaders. `[真题]`
 
 
 ---

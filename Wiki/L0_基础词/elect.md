@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**选举，推选**==；②选择，决定（做某事）
-**adj.** ①==**当选的，选定的**==（仅用于名词前）
+**v.** ①==**选举，推选**== `\b(elect|elected|electing)\b` [正式]；②==**选择，决定（做某事）**== `\belect to (do|not do)\b` [正式]
+**adj.** ①==**当选的，选定的**== `\b\w+ elect\b` [正式]（仅用于名词前）
 
 > [!tip] 原型义
 > **原型义**：挑选出最好的人（从众人中选出最优者）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was elected as chairperson of the committee by a narrow margin."（她以微弱优势当选为委员会主席——Cambridge Dictionary 例句）
-> - "He elected to resign from his position rather than face the investigation."（他选择辞职，而不是面对调查——常见英语学习语料）
+> - She became the first black woman to be elected to the Senate. `[真题]`
+> - She elected to take early retirement instead of moving to the new location. `[真题]`
+> - Increasing numbers of people elect to work from home nowadays. `[真题]`
 
 
 ---

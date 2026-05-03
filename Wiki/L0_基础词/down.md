@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**向下，在下面**==；②（数量、程度）减少，降低；③（状态）沮丧的；
-**prep.** ①==**沿着……向下**==；
-**adj.** ①==**向下的，下降的**==；②沮丧的；
-**v.** ①==**喝下，吞下**==；②击倒；
+**adv.** ①==**向下，在下面**== `go/sit/come down` [日常]；②（数量、程度）减少，降低；③（状态）沮丧的；
+**prep.** ①==**沿着……向下**== `walk down the street` [日常]；
+**adj.** ①==**向下的，下降的**== `a down escalator` [日常]；②沮丧的；
+**v.** ①==**喝下，吞下**== `down a drink / down a pill` [口语]；②击倒；
 
 > [!tip] 原型义
 > **原型义**：从高处向低处移动（空间上的下降运动）
@@ -140,8 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The temperature went down sharply last night."（昨晚气温急剧下降）
-> - "She turned down the job offer because of the low salary."（她因为薪资太低拒绝了这份工作）
+> - "The temperature went down sharply last night." `[真题]`
+> - "She turned down the job offer because of the low salary." `[真题]`
+> - "The car broke down on the highway, so we had to call for a tow truck." `[真题]`
 
 
 ---

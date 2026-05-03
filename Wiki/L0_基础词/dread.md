@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**极度恐惧，害怕**==；②担忧，忧虑；
-**n.** ①恐惧，畏惧；②令人畏惧的事物；
+**v.** ①==**极度恐惧，害怕**== `dread doing sth.` `dread the thought/prospect of` [通用]；②担忧，忧虑；
+**n.** ①恐惧，畏惧 `live in dread of` `in constant dread` [书面]；②令人畏惧的事物；
 
 > [!tip] 原型义
 > **原型义**：极度恐惧，害怕到想逃跑（PIE 词根 *\*dʰrei̯-* "to run, flee"，恐惧到想逃跑）
@@ -128,8 +128,9 @@ dread 源自古英语 *adrædan*（害怕，恐惧），缩写自 *ondrædan*，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She dreaded having to tell her parents the bad news."（她害怕不得不告诉父母这个坏消息）
-> - "The prospect of unemployment is a constant dread for many workers."（失业的前景是许多工人持续恐惧的事）
+> - She dreaded having to tell her parents the bad news. `[真题]`
+> - He dreaded the prospect of being all alone in that house. `[真题]`
+> - I dread to think what will happen if they get elected. `[真题]`
 
 
 ---

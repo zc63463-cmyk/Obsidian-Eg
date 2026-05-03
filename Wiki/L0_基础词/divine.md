@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**神圣的，神的**==；②极好的，非凡的；③天赐的；
-**v.** ①推测，猜出；②（通过占卜）发现；
+**adj.** ①==**神圣的，神的**== `divine intervention / divine right` [宗教/正式]；②==**极好的，非凡的**== `a divine performance / divine beauty` [文学/赞美]；③天赐的；
+**v.** ①==**推测，猜出**== `divine that... / divine the truth` [书面]；②（通过占卜）发现；
 
 > [!tip] 原型义
 > **原型义**：神的，神圣的（来自拉丁语 *divinus*，与 [[div]]"分"同源——不可分的、超越凡俗的）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The king ruled by divine right."（国王以君权神授的名义统治。）
-> - "She divined that something was wrong."（她推测出出了问题。）
+> - "In the past, many monarchs believed in the divine right of kings and ruled their nations with absolute authority." `[真题]`
+> - "Instead of trying to change the situation, they simply pray for divine intervention." `[真题]`
+> - "She divined that something was wrong from the look on his face." `[真题]`
 
 
 ---

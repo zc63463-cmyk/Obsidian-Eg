@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**往市中心，在市中心**==；
-**adj.** ①==**市中心的**==；
-**n.** ①==**市中心，商业区**==；
+**adv.** ①==**往市中心，在市中心**== `go/head downtown` [日常/美式]；
+**adj.** ①==**市中心的**== `downtown area / downtown office` [日常/美式]；
+**n.** ①==**市中心，商业区**== `in the downtown` [日常/美式]；
 
 > [!tip] 原型义
 > **原型义**：城市的中心商业区（最初指曼哈顿南端的低洼商业区，后泛指任何城市的中心商业区）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We decided to go downtown for dinner and a movie."（我们决定去市中心吃晚饭看电影）
-> - "Downtown property prices have skyrocketed in recent years."（近年来市中心房价飙升）
+> - "She works for a law firm in downtown Miami." `[真题]`
+> - "There is heavy traffic in the downtown area tonight." `[真题]`
+> - "We are heading downtown for dinner and a show." `[真题]`
 
 
 ---

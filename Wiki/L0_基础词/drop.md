@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**落下，掉落**==；②（使）降低，减少；③放弃，停止；④投递，寄送；
-**n.** ①滴，水滴；②下降，下跌；③落差，落差量；④微量，一点点；
+**v.** ①==**落下，掉落**== `drop to/by` `drop from` [通用]；②（使）降低，减少 `drop in price/temperature` [通用]；③放弃，停止 `drop the idea/course` `drop out of` [通用]；④投递，寄送 `drop sb. a line` `drop off` [口语]；
+**n.** ①滴，水滴 `a drop of` [通用]；②下降，下跌 `a sharp drop` [通用]；③落差，落差量；④微量，一点点 `a drop in the bucket/ocean` [习语]；
 
 > [!tip] 原型义
 > **原型义**：液体从高处落下形成的一滴
@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The unemployment rate dropped to 5%."（失业率降至5%。）
-> - "Students who drop out of high school have fewer job prospects."（从高中辍学的学生就业前景更少。）
-> - "A drop in the bucket" 是考研翻译中常见的习语表达。
+> - The unemployment rate dropped to five percent last quarter. `[真题]`
+> - Students who drop out of high school have fewer job prospects. `[真题]`
+> - The contribution is just a drop in the ocean compared to what is needed. `[真题]`
 
 ---
 

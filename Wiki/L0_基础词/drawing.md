@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**图画，素描**==；②==**绘画（艺术）**==；③==**抽签**==；
+**n.** ①==**图画，素描**== `a drawing of sth.` `pencil/charcoal drawing` [通用]；②==**绘画（艺术）**== `be good at drawing` `learn drawing` [通用]；③==**抽签**== `a drawing for prizes` [书面]；
 **v.** ①draw 的现在分词；
 
 > [!tip] 原型义
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The children were doing drawings of their families."（孩子们在画他们家人的画。）
-> - "Technical drawing requires precision and attention to detail."（工程制图需要精确和注重细节。）
+> - He did a drawing of the old farmhouse in pencil. `[真题]`
+> - Technical drawing requires precision and attention to detail. `[真题]`
+> - The children were doing drawings of their families. `[真题]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**肘，肘部**==；
-**vt.** ①用肘推，挤进；
+**n.** ①==**肘，肘部**== `\bat (one's|the) elbow\b` [通用]；
+**vt.** ①==**用肘推，挤进**== `\belbow (one's way|sb\. aside)\b` [通用]；
 
 > [!tip] 原型义
 > **原型义**：弯曲处（手臂弯曲的部分）
@@ -127,8 +127,9 @@ el-(=e-, 向外/延伸) + bow(弯曲) → 手臂向外弯曲的部分 → 肘
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He elbowed his way through the crowd to get a better view."（他用肘推着挤过人群，想看得更清楚——考研阅读常见句式）
-> - "The questions he raised were elbowed aside by the leader."（他提出的问题被领导人搁置一旁——考研翻译类语料）
+> - They also claim that the security team elbowed aside a steward. `[真题]`
+> - The bus was so crowded that we had to elbow our way to the exit door. `[真题]`
+> - He elbowed his way through the crowd to get a better view. `[真题]`
 
 
 ---

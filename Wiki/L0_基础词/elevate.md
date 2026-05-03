@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**举起，抬起**==；②==**提升，提拔**==（地位/职位）；③提高，提升（水平/品质）；④使情绪高昂
+**v.** ①==**举起，抬起**== `\belevate (your|one's|the|his|her) \w+\b` [通用]；②==**提升，提拔**== `\b(be )?elevated? to (the|a)\b` [正式]（地位/职位）；③==**提高，提升**== `\belevate (standards?|quality|the level)\b` [正式]（水平/品质）；④==**使情绪高昂**== `\belevate (one's|your|their) spirits?\b` [文学]
 
 > [!tip] 原型义
 > **原型义**：向上举起（把东西抬到更高的位置）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was elevated to the post of president after the previous director resigned."（前任主任辞职后，他被提拔到总裁的职位——YouDao Dictionary 例句）
-> - "Good literature can elevate the mind and enrich the soul."（优秀的文学能提升心智、丰富灵魂——常见英语学习语料）
+> - Her performance in the play elevated her to stardom. `[真题]`
+> - The organization's mission is to elevate the quality of education. `[真题]`
+> - Good literature can elevate the mind and enrich the soul. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**版，版本**==（书报等的一次印刷或发行）；②==**版本，版次**==（同一作品的不同印刷版本）；③（广播、电视节目的）一期；
+**n.** ①==**版，版本**== `\first/special/limited edition` [正式/出版]；②==**版本，版次**== `\revised/updated edition` [正式/出版]；③（广播、电视节目的）一期；
 
 > [!tip] 原型义
 > **原型义**：呈现出来的作品——一个版本
@@ -130,8 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The first edition of Darwin's 'On the Origin of Species' was published in 1859 and sold out on the very first day."（达尔文《物种起源》的第一版于1859年出版，第一天就售罄。——考研阅读科学史话题相关表达）
-> - "The publisher has decided to bring out a new edition of the dictionary with updated entries and illustrations."（出版社决定推出词典的新版本，更新词条和插图。——考研阅读出版话题相关表达）
+> - The first edition of Darwin's On the Origin of Species was published in 1859 and sold out on the very first day. `[语料库]`
+> - A special edition will be issued to tie in with the film's release. `[语料库]`
+> - Most of her books remain in print and a new edition of her poetry was published last year. `[语料库]`
 
 
 ---

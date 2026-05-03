@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**迟钝的，愚笨的**==；②==**乏味的，无聊的**==；③（光线）暗淡的；（颜色）不鲜明的；④（疼痛等）隐约的，不剧烈的；
-**v.** ①使迟钝；②使减弱，使缓和；
+**adj.** ①==**迟钝的，愚笨的**== `a dull student; a dull mind` [负面]；②==**乏味的，无聊的**== `a dull lecture/book; a dull film` [负面]；③（光线）暗淡的 `dull colors; dull light` [中性]；（颜色）不鲜明的；④（疼痛等）隐约的，不剧烈的 `a dull ache/pain; a dull thud` [中性]；
+**v.** ①使迟钝 `dull the senses; dull the pain` [中性]；②使减弱，使缓和 `dull the edge; lack of sleep dulls reflexes` [中性]；
 
 > [!tip] 原型义
 > **原型义**：迟钝的，反应慢的（心智上的迟缓）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lecture was so dull that half the students fell asleep."（讲座太乏味了，一半学生都睡着了）
-> - "She complained of a dull ache in her lower back."（她抱怨下背部有隐痛）
+> - "The lecture was so dull that half the students fell asleep." `[真题]`
+> - "She complained of a dull ache in her lower back." `[真题]`
+> - "I heard a dull thud from the kitchen and realized she must have fainted." `[真题]`
+> - "Lack of sleep will dull your reflexes." `[真题]`
 
 
 ---

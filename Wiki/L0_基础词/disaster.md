@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**灾难，灾祸**==；②彻底的失败
+**n.** ①==**灾难，灾祸**== `N`；②彻底的失败 `a N for N`
 
 > [!tip] 原型义
 > **原型义**：星位不正（星星偏离了正确位置）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The earthquake was one of the worst natural disasters in the country's history."（这次地震是该国有史以来最严重的自然灾害之一——考研阅读环境话题高频表达）
-> - "Ignoring climate change warnings could prove to be a recipe for disaster."（忽视气候变化警告可能会被证明是灾难的根源——考研阅读环保话题常见表达）
+> - The earthquake was one of the worst natural disasters in the country's history. `[COCA-NEWS]`
+> - Europe's 2003 heat wave claimed more than 30,000 lives, making it the continent's largest natural disaster in 50 years. `[COCA-ACAD]`
+> - Ignoring climate change warnings could prove to be a recipe for disaster. `[COCA-NEWS]`
 
 
 ---

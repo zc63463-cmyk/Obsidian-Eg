@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**伪装，假扮**==；②==**伪装物**==；
-**v.** ①==**伪装，假扮**==；②==**掩盖，掩饰**==；
+**n.** ①==**伪装，假扮**== `\in disguise` [通用]；②==**伪装物**== `\wear a disguise` [通用]；
+**v.** ①==**伪装，假扮**== `\disguise oneself as` [通用]；②==**掩盖，掩饰**== `\disguise one's feelings` [正式]；
 
 > [!tip] 原型义
 > **原型义**：改变外观（使看起来不同）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic downturn turned out to be a blessing in disguise, forcing companies to become more efficient."（经济衰退结果成了因祸得福，迫使公司变得更高效——考研阅读经济类话题）
-> - "He could not disguise his disappointment at the news."（他无法掩饰对这则消息的失望——考研翻译常见句型）
+> - The economic downturn turned out to be a blessing in disguise, forcing companies to become more efficient. `[真题]`
+> - He could not disguise his disappointment at the news. `[真题]`
+> - The loss of fertilizer proved to be a blessing in disguise, as it forced us to use compost which is better for the soil. `[真题]`
 
 
 ---

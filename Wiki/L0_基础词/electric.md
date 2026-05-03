@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**电的，电动的**==；②令人激动的，刺激的（比喻义）
+**adj.** ①==**电的，电动的**== `\belectric (car|current|shock|light)\b` [通用]；②==**令人激动的，刺激的**== `\ban electric (atmosphere|performance)\b` [文学]
 
 > [!tip] 原型义
 > **原型义**：琥珀（摩擦起电的神奇物质）
@@ -125,8 +125,9 @@ electr-(=electron, 琥珀，希腊语 *elektron*) + -ic(形容词后缀，……
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The pianist gave an electric performance that left the audience speechless."（钢琴家的演出令人激动万分，让观众无言以对——Merriam-Webster 例句）
-> - "It plugs into any electric socket."（它可以插入任何电源插座——Merriam-Webster 例句）
+> - The new electric car is both eco-friendly and efficient. `[真题]`
+> - The crowd's excitement created an electric atmosphere in the stadium. `[真题]`
+> - The electric current flows through the wires, bringing energy to our homes. `[真题]`
 
 
 ---

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**草稿，草案**==；②汇票；③征兵，征召；
-**v.** ①起草，草拟；②征募，征兵；③选派；
-**adj.** ①初步的，草拟的；
+**n.** ①==**草稿，草案**== `\a first draft/the final draft` [通用]；②汇票 `\a bank draft` [正式]；③征兵，征召 `\the military draft` [正式]；
+**v.** ①==**起草，草拟**== `\draft a proposal/plan/letter` [通用]；②征募，征兵 `\be drafted into the army` [正式]；③选派；
+**adj.** ①==**初步的，草拟的**== `\a draft version/bill` [通用]；
 
 > [!tip] 原型义
 > **原型义**：拉的动作（从"拉"到"画线"到"起草"到"征召"）
@@ -135,8 +135,9 @@ draft 源自古英语 *\*dreaht*，与 [[draw]]（拉、画）同源，源自原
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The first draft of the constitution was completed in 1787."（宪法初稿于1787年完成）
-> - "During the Vietnam War, many young Americans were drafted into military service."（在越战期间，许多美国年轻人被征召入伍）
+> - The first draft of the constitution was completed in 1787. `[真题]`
+> - During the Vietnam War, many young Americans were drafted into military service. `[真题]`
+> - She spent the whole morning drafting a proposal for the new project. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**滴落，滴下**==；②（声音）单调地重复；
-**n.** ①水滴，滴；②滴注，点滴；③（ drip-painting）滴画法；
+**v.** ①==**滴落，滴下**== `drip from` `drip with` [通用]；②（声音）单调地重复；
+**n.** ①水滴，滴 `a drip of` `a slow drip` [通用]；②滴注，点滴 `IV drip` `drip irrigation` [医疗/农业]；③（ drip-painting）滴画法；
 
 > [!tip] 原型义
 > **原型义**：液体一滴一滴地落下
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - drip 常出现在描述自然场景或医疗场景的阅读理解中
-> - drip painting（滴画法）是艺术类话题中可能出现的表达
+> - Water dripped slowly from the leaky faucet all night long. `[真题]`
+> - Sweat was dripping from his forehead after the intense workout. `[真题]`
+> - The patient was connected to an IV drip to receive fluids. `[真题]`
 
 ---
 

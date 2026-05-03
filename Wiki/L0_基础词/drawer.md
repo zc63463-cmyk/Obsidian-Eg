@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**抽屉**==；②==**制图员，拖曳者**==；
+**n.** ①==**抽屉**== `\open/close a drawer/desk drawer` [通用]；②==**制图员，拖曳者**== `\work as a drawer` [正式]；
 
 > [!tip] 原型义
 > **原型义**：可拉出的东西（draw 拉 + -er 表示物/人 → 能被拉出来的东西 → 抽屉）
@@ -119,7 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She searched through every drawer in the desk."（她翻遍了书桌的每一个抽屉。）
+> - My other hand is fishing through a drawer in search of a rubber band. `[真题]`
+> - She opened her desk drawer and took out the book. `[真题]`
+> - I found this old letter in his drawer. `[真题]`
 
 
 ---
