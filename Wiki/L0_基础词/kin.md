@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**亲属，家属**==（常 pl.）；②家族，同类；
+**n.** ①==**亲属，家属**== `\next of kin` [法律] `\kith and kin` [正式]；②家族，同类；
 **adj.** ①有亲属关系的；
 
 > [!tip] 原型义
@@ -131,8 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin."（大多数人甚至不认识自己的远房表亲，但不知为何总能选择与自己亲属相似的人做朋友。——2015年英语一完形填空）
-> - "However, the Mesozoic is best known as the age of reptiles, when dinosaurs and their kin dominated the continents."（但中生代还是以爬行动物时代而著名，在这个时期，恐龙以及它们的同类统治了整个大陆。——经典例句）
+> - "Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin." `[真题]`
+> - "However, the Mesozoic is best known as the age of reptiles, when dinosaurs and their kin dominated the continents." `[通用语料]`
+> - "The driver's name was being withheld until police could notify next of kin." `[新闻语料]`
+> - "The honor guard will fold and present a flag to the next of kin." `[通用语料]`
 
 
 ---

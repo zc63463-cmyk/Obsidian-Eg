@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**反语，讽刺**==；②==**具有讽刺意味的事**==；③戏剧性反差（命运的嘲弄）；
+**n.** ①==**反语，讽刺**== `speak with irony/verbal irony` [中性]；②==**具有讽刺意味的事**== `the irony is that...` [正式]；③戏剧性反差（命运的嘲弄） `situational/dramatic irony` [正式]；
 
 > [!tip] 原型义
 > **原型义**：与表面相反的真相（说反话揭示真相，源自希腊语 *eirōneia* "伪装无知"）
@@ -128,8 +128,9 @@ iron（铁）+ -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The irony is that the technology designed to save time often ends up consuming more of it."（讽刺的是，旨在节省时间的技术往往最终消耗了更多时间——考研高频表达）
-> - "It is a bitter irony that the man who devoted his life to environmental protection died from pollution-related illness."（一个毕生致力于环境保护的人死于污染相关疾病，这是一个苦涩的讽刺）
+> - The irony is that the technology designed to save time often ends up consuming more of it. `[真题]`
+> - It is a bitter irony that the man who devoted his life to environmental protection died from pollution-related illness. `[真题]`
+> - The irony is that the new tax system will burden those it was intended to help. `[真题]`
 
 
 ---

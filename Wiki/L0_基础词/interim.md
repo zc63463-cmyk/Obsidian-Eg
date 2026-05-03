@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**暂时的，过渡的**==；
-**n.** ①过渡期间，间歇；
+**adj.** ①==**暂时的，过渡的**== `interim government/solution` `[正式]`；`on an interim basis` `[正式]`；
+**n.** ①过渡期间，间歇 `in the interim` `[正式]`；
 
 > [!tip] 原型义
 > **原型义**：在其间，过渡期间（来自拉丁语 *interim*，[[inter]]"在……之间"+ -im（方位格后缀））
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "An interim government was established pending democratic elections."（在等待民主选举期间，成立了一个过渡政府。）
-> - "The new policy will take effect immediately; in the interim, the old rules still apply."（新政策将立即生效；在此期间，旧规定仍然适用。）
+> - An interim government was set up for the period before the country's first free election. `[真题]`
+> - The new secretary starts in June, but in the interim we're having to type our own letters. `[真题]`
+> - He only holds the post on an interim basis until a permanent replacement is found. `[真题]`
 
 
 ---

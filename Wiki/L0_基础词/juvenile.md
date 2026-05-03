@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**青少年的，未成年的**==；②==**幼稚的，不成熟的**==；
+**adj.** ①==**青少年的，未成年的**== `\juvenile delinquency/court` [法律]；②==**幼稚的，不成熟的**== `\juvenile behavior` [贬义]；
 **n.** ①==**青少年**==；②少年读物；
 
 > [!tip] 原型义
@@ -129,8 +129,10 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many theories concerning the causes of juvenile delinquency focus either on the individual or on society as the major contributing influence."（许多关于青少年犯罪原因的理论，要么关注个人，要么关注社会作为主要影响因素——考研阅读高频表达）
-> - "Juvenile crimes make up 25 percent of all police cases."（青少年犯罪占所有警察案件的25%——剑桥词典例句）
+> - "Many theories concerning the causes of juvenile delinquency focus either on the individual or on society as the major contributing influence." `[真题]`
+> - "Juvenile crimes make up 25 percent of all police cases." `[剑桥词典]`
+> - "There is a high rate of juvenile delinquency in this area." `[通用语料]`
+> - "The boy's case was adjudged in the juvenile court." `[通用语料]`
 
 
 ---

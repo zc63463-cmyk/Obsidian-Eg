@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**居住于，栖息于**==；②==**占据，存在于**==；
+**v.** ①==**居住于，栖息于**== `V N`；②==**占据，存在于**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：作为栖息地居住其中
@@ -132,8 +132,10 @@ in-(在……中，使) + [[hab]](居住，拥有，源自拉丁语 *habitare*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit."（就连身处全球报业最困难角落的美国报纸，也不仅存活了下来，还经常恢复盈利——2011年考研英语二Text 2）
-> - "Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them."（每个人都想知道即将占据那些空办公隔间的人与之前的人会有什么不同——2020年考研英语二阅读理解）
+> - "Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit." `[真题]`
+> - "Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them." `[真题]`
+> - "The valley is inhabited by the Dani tribe." `[COCA-ACAD]`
+> - "The beautifully coloured fish that inhabit the Egyptian reefs attract divers from around the world." `[COCA-NEWS]`
 
 
 ---

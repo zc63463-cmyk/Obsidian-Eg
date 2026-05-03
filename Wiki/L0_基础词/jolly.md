@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**快乐的，高兴的**==；②愉快的，令人开心的；
-**adv.** ①（英式口语）非常，很；
-**v.** ①（口语）使高兴，哄劝；
+**adj.** ①==**快乐的，高兴的**== `a jolly person` [口语]；②==**愉快的，令人开心的**== `a jolly time` [口语]；
+**adv.** ①==**（英式口语）非常，很**== `jolly good` [英式口语]；
+**v.** ①==**（口语）使高兴，哄劝**== `jolly someone along` [口语]；
 
 > [!tip] 原型义
 > **原型义**：快乐的（充满欢乐和愉悦的状态）
@@ -132,8 +132,9 @@ jolly 源自古法语 *joli*（漂亮的、愉快的），可能源自古诺斯�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She had a very jolly time in Korea."（她在韩国过得很愉快——通用语料）
-> - "Paddy was always cheerful and jolly."（帕迪总是很高兴，很开心——通用语料）
+> - "She didn't really want to go to the party, so we had to jolly her along a little." ` `[语料库]`
+> - "I know Bill can be difficult, but just keep jollying him along." ` `[语料库]`
+> - "Lisa had drunk two glasses of wine and was a little jolly, but not really drunk." ` `[语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**面试，面谈**==；②采访，访谈；
-**v.** ①面试；②采访；③==**对……进行面谈**==；
+**n.** ①==**面试，面谈**== `have an interview with sb.` [通用] `interview for a position` [通用]；②采访，访谈 `exclusive interview` [新闻]；
+**v.** ①面试 `interview sb. for a position` [通用]；②采访 `interview sb. about sth.` [新闻]；③==**对……进行面谈**==；
 
 > [!tip] 原型义
 > **原型义**：互相看见（面对面相见）
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was interviewed for the post of marketing manager."（她接受了市场经理职位的面试）
-> - "In an exclusive interview with our reporter, the minister revealed his plans."（在接受本报记者独家采访时，部长透露了他的计划）
+> - We're interviewing six candidates for the job. ` `[真题]`
+> - The reporter requested an exclusive interview with the minister. ` `[语料库]`
+> - She had an interview for a job with a publisher. ` `[语料库]`
+> - You can listen to the interview with the President if you watch the news tonight. ` `[语料库]`
 
 
 ---

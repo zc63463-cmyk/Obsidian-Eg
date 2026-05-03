@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**接口，界面**==；②交汇处，结合部；
+**n.** ①==**接口，界面**== `user interface` `[技术]`；`interface between A and B` `[正式]`；②交汇处，结合部；
 **v.** ①交流，互动；②对接，连接；
 
 > [!tip] 原型义
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The interface between technology and education is becoming increasingly important."（技术与教育之间的交汇处变得越来越重要）
-> - "A good user interface should be intuitive and easy to navigate."（好的用户界面应该是直观且易于操作的）
+> - The new version of the program comes with a much better user interface than the original. `[真题]`
+> - We need a clearer interface between management and the workforce. `[真题]`
+> - His dissertation was on the interface between technology and tradition. `[真题]`
 
 
 ---

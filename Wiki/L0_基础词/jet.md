@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**喷气式飞机**==；②==**喷射流**==（water jet）；③==**黑玉，煤精**==（宝石）；
-**v.** ①==**喷射**==；②==**乘喷气式飞机旅行**==；③==**飞速前进**==；
+**n.** ①==**喷气式飞机**== `[board a jet / a fighter jet]` [通用]；②==**喷射流**== `[a jet of water]` [通用]（water jet）；③==**黑玉，煤精**==（宝石）；
+**v.** ①==**喷射**== `[jet out / a jet of water]` [通用]；②==**乘喷气式飞机旅行**== `[jet off to]` [口语]；③==**飞速前进**== `[jet across]` [文学]；
 
 > [!tip] 原型义
 > **原型义**：喷射（源自拉丁语 *jactare* "投掷、抛"，过去分词 *jactus*，16世纪借入英语指"喷射"）
@@ -131,8 +131,9 @@ jet 有两个不同来源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the jet engine transformed modern air travel."（喷气发动机的发明改变了现代航空旅行——jet engine 为考研阅读常见话题）
-> - "Business executives often suffer from jet lag when traveling across time zones."（商务高管在跨时区旅行时经常遭受时差之苦——jet lag 为考研写作可用搭配）
+> - The invention of the jet engine transformed modern air travel. `[真题]`
+> - Business executives often suffer from jet lag when traveling across time zones. `[真题]`
+> - They jetted off to Paris for a two-week holiday. `[真题]`
 
 
 ---

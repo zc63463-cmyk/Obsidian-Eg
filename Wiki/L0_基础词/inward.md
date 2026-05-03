@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**向内的，内部的**==；②内心的，精神上的；
-**adv.** ①向内，向中心；
+**adj.** ①==**向内的，内部的**== `inward journey/movement` [中性]；②==**内心的，精神上的**== `inward feelings/reflection` [中性]；
+**adv.** ①==**向内，向中心**== `look/move inward` [中性]；
 
 > [!tip] 原型义
 > **原型义**：向内的（朝向内部/中心的方向）
@@ -127,7 +127,9 @@ in-(向内，英语 *in*) + -ward(方向后缀，朝向……方向)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author suggests that true happiness comes from inward reflection rather than external achievements."（作者认为真正的幸福来自内心的反思，而非外在的成就）
+> - The author suggests that true happiness comes from inward reflection rather than external achievements. `[真题]`
+> - Despite his outward calm, he was experiencing intense inward feelings of anxiety. `[真题]`
+> - She turned inward, seeking answers within herself rather than from others. `[真题]`
 
 
 ---

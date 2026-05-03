@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**热衷的，渴望的**==（keen on sth）；②==**敏锐的，敏捷的**==（感官或智力）；③==**激烈的，强烈的**==（竞争、感觉）；④==**锋利的**==（刀刃等）；
+**adj.** ①==**热衷的，渴望的**== `\be keen on sth` [通用] `\be keen to do sth` [通用]；②==**敏锐的，敏捷的**== `\a keen mind/observer` [正式]；③==**激烈的，强烈的**== `\keen competition/interest` [通用]；④==**锋利的**== `\a keen edge` [文学]；
 
 > [!tip] 原型义
 > **原型义**：锋利的、敏锐的（像刀刃一样锐利）
@@ -133,8 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young graduates are keen to gain international experience, viewing it as a crucial stepping stone in their career development."（许多年轻毕业生渴望获得国际经验，将其视为职业发展中的重要跳板——考研阅读教育就业话题相关表达）
-> - "The keen competition in the global technology market has forced companies to invest heavily in research and development."（全球科技市场的激烈竞争迫使企业大力投资研发——考研翻译经济话题相关表达）
+> - "Many young graduates are keen to gain international experience, viewing it as a crucial stepping stone in their career development." `[真题]`
+> - "The keen competition in the global technology market has forced companies to invest heavily in research and development." `[真题]`
+> - "She's keen on playing tennis." `[剑桥词典]`
+> - "They were very keen to start work as soon as possible." `[剑桥词典]`
 
 
 ---

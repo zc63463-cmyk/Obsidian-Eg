@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**固有的，内在的，本质的**==；
+**adj.** ①==**固有的，内在的，本质的**== `intrinsic value` [正式] `intrinsic motivation` [学术]；
 
 > [!tip] 原型义
 > **原型义**：在内部的（inward, on the inside）
@@ -123,8 +123,10 @@ intrin-(=intra-, 在内部，拉丁语 *intra* "在内") + -[[sec-sect|sec]](=se
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The intrinsic value of a coin is determined by the metal it contains."（硬币的内在价值由其所含金属决定——考研高频表达）
-> - "Intrinsic motivation drives people to pursue activities for their own sake."（内在动机驱使人们为活动本身而追求活动）
+> - The intrinsic value of a coin is determined by the metal it contains. ` `[真题]`
+> - Voluntary work is the product of intrinsic motivation and pure altruism. ` `[语料库]`
+> - What I collect doesn't have any intrinsic value: it's not gold; it's paper. ` `[语料库]`
+> - Maths is an intrinsic part of the school curriculum. ` `[语料库]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无数的，数不清的**==；
+**adj.** ①==**无数的，数不清的**== `\innumerable examples/difficulties` [书面]；
 
 > [!tip] 原型义
 > **原型义**：无法数清的（多到不能被计数）
@@ -120,8 +120,9 @@ in-(不，否定) + [[numer|numer-]](数字，数) + -able(可以被……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are innumerable examples of how technology has transformed our daily lives."（技术改变我们日常生活的例子不胜枚举）
-> - "She has helped innumerable people through her charity work."（她通过慈善工作帮助了无数的人）
+> - There are innumerable examples of how technology has transformed our daily lives. `[真题]`
+> - She has helped innumerable people through her charity work. `[真题]`
+> - The frictionless design of social media platforms has been the source of innumerable problems, including viral misinformation and ethnic violence abroad. `[权威语料]`
 
 
 ---

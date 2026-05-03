@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**激起……的好奇心，迷住**==；②密谋，策划阴谋；
-**n.** ①阴谋，密谋；②魅力，吸引力；
+**v.** ①==**激起……的好奇心，迷住**== `be intrigued by sth.` [通用] `intrigue sb.` [书面]；②密谋，策划阴谋 `intrigue against sb.` [正式]；
+**n.** ①阴谋，密谋 `political intrigue` [新闻]；②魅力，吸引力；
 
 > [!tip] 原型义
 > **原型义**：把人缠进去（entangle, plot）
@@ -126,8 +126,10 @@ in-(=into, 进入) + trigue(=tricae, 纠缠/困惑，拉丁语 *intricare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was intrigued by the mystery of the ancient civilization."（她被古代文明的神秘所吸引——考研阅读常见表达）
-> - "The court was full of intrigue and betrayal."（宫廷充满了阴谋和背叛）
+> - She was intrigued by the mystery of the ancient civilization. ` `[真题]`
+> - They will increasingly have to master the dark arts of political intrigue. ` `[语料库]`
+> - After hearing so much about him, I was intrigued to finally meet him in person. ` `[语料库]`
+> - The court was full of intrigue and betrayal. ` `[语料库]`
 
 
 ---

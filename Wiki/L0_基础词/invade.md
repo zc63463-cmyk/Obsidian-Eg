@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**侵入，侵略**==；②涌入，侵袭；③侵犯，干扰；
+**v.** ①==**侵入，侵略**== `invade a country` [正式]；②==**涌入，侵袭**== `invade the market` [通用]；③==**侵犯，干扰**== `invade someone's privacy` [通用]；
 
 > [!tip] 原型义
 > **原型义**：走进去（go into, enter）
@@ -128,8 +128,9 @@ in-(=into, 进入) + vad(=走，拉丁语 *vadere* "走") + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The army invaded the neighboring country without warning."（军队在毫无预警的情况下入侵了邻国——考研高频表达）
-> - "Smartphones have invaded every aspect of our lives."（智能手机已经侵入我们生活的方方面面）
+> - The army invaded the neighboring country without warning. `[真题]`
+> - Smartphones have invaded every aspect of our lives. `[语料库]`
+> - The government was accused of invading the privacy of its citizens. `[外刊]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**侵入，闯入**==；②打扰，干涉；③把……强加于；
+**v.** ①==**侵入，闯入**== `intrude into/on/upon sth.` [正式]；②打扰，干涉 `intrude on sb.'s privacy` [通用]；③把……强加于 `intrude one's views on others` [书面]；
 
 > [!tip] 原型义
 > **原型义**：推进去（thrust in）
@@ -124,8 +124,10 @@ in-(=into, 进入) + [[tract|trud]](=推，拉丁语 *trudere* "推") + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I don't mean to intrude, but could I have a word with you?"（我不想打扰你，但我能跟你说句话吗？——考研常见口语表达）
-> - "The government should not intrude on people's private lives."（政府不应干涉人们的私生活）
+> - I don't mean to intrude, but could I have a word with you? ` `[真题]`
+> - The government should not intrude on people's private lives. ` `[真题]`
+> - I often find that my work intrudes on my family life. ` `[语料库]`
+> - Newspaper editors are being urged not to intrude on the grief of the families of missing servicemen. ` `[语料库]`
 
 
 ---

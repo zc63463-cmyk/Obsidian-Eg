@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**侮辱，辱骂**==；
-**n.** ①==**侮辱，凌辱**==；
+**v.** ①==**侮辱，辱骂**== `insult sb.` `[正式]`；`insult sb.'s intelligence` `[常用]`；
+**n.** ①==**侮辱，凌辱**== `an insult to sb./sth.` `[正式]`；`add insult to injury` `[习语]`；
 
 > [!tip] 原型义
 > **原型义**：侮辱（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击"，*in-* "在……上" + *saltare* "跳跃"。*saltare* 是 *salire* "跳"的频繁动词形式，与 [[salient]] "突出的"同源。字面意思是"跳到某人身上"→"攻击、侮辱"）
@@ -127,8 +127,9 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He felt deeply insulted by the reviewer's dismissive comments about his work."（评论家对他作品的轻蔑评论让他深感被侮辱。——考研英语阅读相关语料）
-> - "To add insult to injury, the company refused to pay any compensation."（更糟的是，公司拒绝支付任何赔偿。——考研相关语料）
+> - Their decision to cancel the project was an insult to all my hard work. `[真题]`
+> - She took it as a personal insult that you did not ask her opinion about your book. `[真题]`
+> - To add insult to injury, some lenders have tacked on fees for late payments that the customers said were not their fault. `[真题]`
 
 
 ---

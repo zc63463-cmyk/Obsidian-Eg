@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**输入，投入**==；②输入的数据/信息/资源；③（电子）输入端；
-**v.** ①==**输入，录入**==；
+**n.** ①==**输入，投入**== `\input of time/effort/resources` [通用]；②输入的数据/信息/资源；③（电子）输入端；
+**v.** ①==**输入，录入**== `\input data/information into B` [技术]；
 
 > [!tip] 原型义
 > **原型义**：放进去（把东西放入某处）
@@ -127,8 +127,9 @@ in-(进入) + [[put|put-]](放置，放)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students need more input from their teachers to improve their writing skills."（学生需要老师更多的指导投入来提高写作能力）
-> - "The quality of the output depends on the quality of the input."（输出的质量取决于输入的质量）
+> - Students need more input from their teachers to improve their writing skills. `[真题]`
+> - The quality of the output depends on the quality of the input. `[真题]`
+> - Barley is one of the main inputs to the process of distillation. `[权威语料]`
 
 
 ---

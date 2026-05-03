@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**绑架，劫持**==；
+**v.** ①==**绑架，劫持**== `\kidnap sb for ransom` [法律]；
 **n.** ①绑架，劫持；
 
 > [!tip] 原型义
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police balked the attempt to kidnap the child."（警方挫败了诱拐小孩的企图——通用法律语料）
-> - "But in recent years the number of kidnaps has fallen dramatically."（但是近年来绑架案件数量出现戏剧性下跌——新闻类同源语料）
+> - "The police balked the attempt to kidnap the child." `[通用语料]`
+> - "But in recent years the number of kidnaps has fallen dramatically." `[新闻语料]`
+> - "At least 100 people, including students, were kidnapped for ransom last week in Ethiopia's restive regions." `[新闻语料]`
+> - "Gunmen took him from the road, into a forest, and they have kept him there ever since." `[新闻语料]`
 
 
 ---

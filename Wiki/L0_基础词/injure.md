@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**伤害，损害**==（使身体受伤）；②==**伤害（感情、名誉等）**==；③损害（利益）
+**v.** ①==**伤害，损害**== `\be seriously/badly injured` [通用] `\injure oneself` [通用]；②==**伤害（感情、名誉等）**== `\injure one's feelings/pride` [书面]；③损害（利益）
 
 > [!tip] 原型义
 > **原型义**：不公正地对待（对人身或权利造成损害）
@@ -130,8 +130,9 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He threw a blanket over the injured man and called for an ambulance immediately."（他急忙给受伤的人披上毯子，立刻叫了救护车——考研英语阅读，社会生活话题）
-> - "The study found that children who are exposed to violent media are more likely to injure others or themselves."（研究发现，接触暴力媒体的孩子更有可能伤害他人或自己——考研英语阅读，教育心理话题）
+> - He threw a blanket over the injured man and called for an ambulance immediately. `[真题]`
+> - The study found that children who are exposed to violent media are more likely to injure others or themselves. `[真题]`
+> - At least 12 people were killed and dozens injured in the attacks. `[权威语料]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**废旧物品，垃圾**==；②==**垃圾食品**==（junk food）；③==**旧货，废船**==；
-**v.** ①==**丢弃，报废**==；
+**n.** ①==**废旧物品，垃圾**== `\a yard full of junk` [通用]；②==**垃圾食品**== `\junk food` [日常]；③==**旧货，废船**==；
+**v.** ①==**丢弃，报废**== `\junk the old car/plan` [口语]；
 
 > [!tip] 原型义
 > **原型义**：废旧物品（无用的东西，废弃的杂物）
@@ -132,8 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My nephew likes junk food such as chips and cola."（我侄子喜欢薯片和可乐之类的垃圾食品——柯林斯词典例句）
-> - "It will take a lot of time to repair the car, so I'm going to junk it."（修理这辆车要花很多时间，所以我打算把它报废——柯林斯词典例句）
+> - "My nephew likes junk food such as chips and cola." `[柯林斯词典]`
+> - "It will take a lot of time to repair the car, so I'm going to junk it." `[柯林斯词典]`
+> - "The food industry was warned to stop advertising junk food to children within a year or face a clampdown." `[新闻语料]`
+> - "I always make sure to mark emails as junk if they are from unknown senders." `[通用语料]`
 
 
 ---

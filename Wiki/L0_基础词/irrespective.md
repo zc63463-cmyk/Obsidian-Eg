@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**不顾的，不考虑的**==（常与 of 连用）；
+**adj.** ①==**不顾的，不考虑的**== `irrespective of sth.` [正式]；
 
 > [!tip] 原型义
 > **原型义**：不加区分的（不考虑差异地对待）
@@ -121,8 +121,9 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All citizens are equal before the law, irrespective of their social status."（所有公民在法律面前一律平等，不论其社会地位——考研高频表达）
-> - "The policy should be applied irrespective of individual circumstances."（该政策应不论个人情况一律适用）
+> - All citizens are equal before the law, irrespective of their social status. `[真题]`
+> - The rules apply to everyone, irrespective of how long they have been with the company. `[真题]`
+> - The IELTS exam can be taken by anyone in the world, irrespective of their nationality, gender, age, race, or religion. `[真题]`
 
 
 ---

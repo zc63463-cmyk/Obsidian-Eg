@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**灵感**==（创造性思维突然涌现的想法）；②==**鼓舞人心的人或事**==；③==**启发，鼓舞**==（激发某人行动的力量）；④（吸气）吸入；
+**n.** ①==**灵感**== `a flash of inspiration` [通用]（创造性思维突然涌现的想法）；②==**鼓舞人心的人或事**== `be an inspiration to` [通用]；③==**启发，鼓舞**== `draw inspiration from` [正式]（激发某人行动的力量）；④（吸气）吸入；
 
 > [!tip] 原型义
 > **原型义**：被吹入气息（神灵将气息吹入人体内，赋予灵感）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The natural beauty of the region has served as a source of inspiration for countless artists, writers, and poets throughout the centuries."（几个世纪以来，该地区的自然美景一直是无数艺术家、作家和诗人的灵感源泉——考研阅读文化话题相关表达）
-> - "Marie Curie's groundbreaking research on radioactivity continues to be an inspiration to young scientists around the world who aspire to make significant contributions to human knowledge."（玛丽·居里关于放射性的开创性研究继续激励着世界各地渴望为人类知识做出重大贡献的年轻科学家——考研翻译科学话题相关表达）
+> - These restaurants draw inspiration from the world's finest cuisines and are among the finest dining venues in the country. `[真题]`
+> - His memoirs were the inspiration behind the movie. `[真题]`
+> - She coped, she said, by drawing inspiration from her blind grandmother, who had raised four children. `[语料库]`
+> - A problem of this size cannot be tackled by last-moment inspirations or piecemeal palliatives. `[语料库]`
 
 
 ---

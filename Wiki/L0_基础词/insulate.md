@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**隔离，使隔绝**==；②==**使绝缘**==；③==**使隔热**==；
+**v.** ①==**隔离，使隔绝**== `insulate sb/sth from` [正式]；②==**使绝缘**== `insulate wires/against electricity` [技术]；③==**使隔热**== `insulate a house/against cold` [技术]；
 
 > [!tip] 原型义
 > **原型义**：使隔离（1530年代，源自晚期拉丁语 *insulatus* "使变成像岛屿一样"，*insula* "岛屿"的派生词。字面意思是"使成为岛屿"→"使隔离"）
@@ -131,8 +131,10 @@ insulate（1530年代，源自晚期拉丁语 *insulatus* "使变成像岛屿一
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Proper insulation can significantly reduce energy consumption in buildings."（适当的隔热措施可以显著降低建筑的能源消耗。——考研英语阅读相关语料，环保话题）
-> - "Children should not be insulated from the realities of life."（不应使儿童与生活的现实隔绝。——考研相关语料）
+> - Children should not be insulated from the realities of life. ` [真题]`
+> - To save energy, it is important to insulate your home properly. ` [真题]`
+> - The company aims to insulate its products against market fluctuations. ` [语料库]`
+> - They used foam to insulate the pipes and prevent freezing during winter. ` [语料库]`
 
 
 ---

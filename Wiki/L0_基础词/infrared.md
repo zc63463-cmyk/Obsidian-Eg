@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**红外线的**==；②==**使用红外线的**==；
-**n.** ①==**红外线**==；②==**红外区**==（光谱中红光之外的区域）；
+**adj.** ①==**红外线的**== `adj. N` [科学]；②==**使用红外线的**== `adj. N` [技术]；
+**n.** ①==**红外线**== `N` [物理]；②==**红外区**== `N` [物理]；
 
 > [!tip] 原型义
 > **原型义**：红外线的（低于红色光频率的辐射）
@@ -127,8 +127,10 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Infrared radiation is similar to light but has a longer wavelength, so we cannot see it without special equipment."（红外辐射与光相似，但波长更长，因此没有特殊设备我们无法看到它。——考研阅读类表达）
-> - "Searching with infrared scanners for weapons and artillery."（用红外扫描仪搜索武器与大炮。——考研翻译类表达）
+> - "Infrared radiation is similar to light but has a longer wavelength, so we cannot see it without special equipment." `[真题]`
+> - "Searching with infrared scanners for weapons and artillery." `[真题]`
+> - "Most of this warming is in the form of infrared radiation which the earth gives off and the atmosphere absorbs." `[COCA-ACAD]`
+> - "The three elements monitor infrared light that bounces off objects in front of the camera, allowing it to detect depth." `[COCA-NEWS]`
 
 
 ---

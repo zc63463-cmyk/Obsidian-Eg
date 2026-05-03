@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**错综复杂的，精细的**==；②难理解的，难以解决的；
+**adj.** ①==**错综复杂的，精细的**== `intricate design/pattern` [书面] `intricate plot` [书面]；②难理解的，难以解决的 `intricate problem` [正式]；
 
 > [!tip] 原型义
 > **原型义**：纠缠在一起的（entangled, perplexed）
@@ -126,8 +126,10 @@ in-(=into, 进入) + tric(=tricae, 困惑/纠缠，拉丁语 *intricare*) + -ate
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The intricate design of the building reflects the architect's genius."（这座建筑精细的设计反映了建筑师的才华——考研阅读常见表达）
-> - "The novel has an intricate plot that keeps readers engaged."（这部小说情节错综复杂，让读者始终保持兴趣）
+> - The novel's intricate plot will not be easy to translate into a movie. ` `[真题]`
+> - The intricate design of the building's facade was impressive. ` `[语料库]`
+> - Police officers uncovered an intricate web of deceit. ` `[语料库]`
+> - The tiled floor is installed in an intricate pattern. ` `[语料库]`
 
 
 ---

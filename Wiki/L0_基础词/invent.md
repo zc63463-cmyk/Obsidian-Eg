@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**发明，创造**==；②捏造，虚构；
+**v.** ①==**发明，创造**== `invent a machine` [正式]；②==**捏造，虚构**== `invent an excuse` [通用]；
 
 > [!tip] 原型义
 > **原型义**：找到（发现前所未有的事物，拉丁语 *invenire*，"来到/找到"）
@@ -125,7 +125,9 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Alexander Graham Bell invented the telephone in 1876."（亚历山大·格拉汉姆·贝尔于1876年发明了电话）
+> - Alexander Graham Bell invented the telephone in 1876. `[真题]`
+> - She stood still, trying to invent a plausible excuse for being late. `[语料库]`
+> - Many children invent an imaginary friend at some point during childhood. `[外刊]`
 
 
 ---

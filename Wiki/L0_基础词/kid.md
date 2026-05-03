@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**小孩，年轻人**==；②小山羊；
-**v.** ①开玩笑，戏弄（非正式）；
+**n.** ①==**小孩，年轻人**== `\school kids` [口语]；②小山羊；
+**v.** ①==**开玩笑，戏弄**== `\Are you kidding?` [口语] `\kid around` [口语]；
 
 > [!tip] 原型义
 > **原型义**：小山羊（幼小的山羊）
@@ -129,8 +129,10 @@ kid 源自古诺斯语 *kið*（小山羊），1590年左右开始用来指代�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Half the kids round here are unemployed."（这附近的年轻人有一半失业——通用语料，kid 指年轻人）
-> - "She sees me as a little kid who counts for nothing."（她认为我还是一个无足轻重的小孩子——通用语料）
+> - "Half the kids round here are unemployed." `[真题]`
+> - "She sees me as a little kid who counts for nothing." `[通用语料]`
+> - "I asked her if she remembered any of the poems she used to recite for us when we were kids." `[剑桥词典]`
+> - "You won first prize? You're kidding!" `[剑桥词典]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**继承（财产、权利等）**==；②经遗传而获得（特征、品质等）；③接替，继任；
+**v.** ①==**继承（财产、权利等）**== `V N`；②==**经遗传而获得（特征、品质等）**== `V N`；③==**接替，继任**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：从先辈那里获得（粘附在血脉中传递下来的东西）
@@ -135,8 +135,10 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states."（在托马斯·皮凯蒂和其他经济学家对日益加剧的不平等和不断增强的世袭财权发出警告时，富裕的贵族家庭竟然还是现代民主国家的核心象征，这十分怪异。——2015年英语一Text 1）
-> - "To a certain extent, our ability to excel in making the connections that drive intelligence is inherited."（在一定程度上，我们天生擅长建立促进智力连接的能力。——2014年英语一完形）
+> - "At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states." `[真题]`
+> - "To a certain extent, our ability to excel in making the connections that drive intelligence is inherited." `[真题]`
+> - "She inherited her mother's good looks and her father's stubbornness." `[COCA-FICT]`
+> - "The new government inherited many of the problems of the previous administration." `[COCA-NEWS]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**嫉妒的，吃醋的**==；②==**珍惜的，精心守护的**==（jealous of one's reputation）；③==**戒备的，唯恐失去的**==；
+**adj.** ①==**嫉妒的，吃醋的**== `[be jealous of sb/sth]` [通用]；②==**珍惜的，精心守护的**== `[be jealous of one's reputation]` [正式]（jealous of one's reputation）；③==**戒备的，唯恐失去的**== `[a jealous guard]` [正式]；
 
 > [!tip] 原型义
 > **原型义**：嫉妒的，吃醋的（源自古法语 *gelos*/jalous，拉丁语 *zēlōsus*，希腊语 *zēlos* "热情、嫉妒"）
@@ -123,8 +123,9 @@ jealous 源自古法语 *gelos*（现代法语 jaloux），来自拉丁语 *zēl
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People are often jealous of those who achieve success through hard work."（人们经常嫉妒那些通过努力工作取得成功的人——be jealous of 为考研写作常见搭配）
-> - "She was fiercely jealous of her independence and refused to rely on anyone."（她极度珍惜自己的独立性，拒绝依赖任何人——jealous of 的"珍惜"用法在考研中值得注意）
+> - People are often jealous of those who achieve success through hard work. `[真题]`
+> - She was fiercely jealous of her independence and refused to rely on anyone. `[真题]`
+> - He gets really jealous if his girlfriend strikes up a friendship with another man. `[真题]`
 
 
 ---

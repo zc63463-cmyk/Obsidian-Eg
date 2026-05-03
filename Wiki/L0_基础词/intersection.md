@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**交叉点，十字路口**==；②交集；③交汇，交叉；
+**n.** ①==**交叉点，十字路口**== `at the intersection of` `[常用]`；②交集 `the intersection of A and B` `[学术]`；③交汇，交叉；
 
 > [!tip] 原型义
 > **原型义**：交叉点，十字路口（来自拉丁语 *intersectio*，inter-(在……之间)+ sect(切)→ 在中间交叉切割）
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The accident occurred at the intersection of Main Street and Oak Avenue."（事故发生在主街和橡树大道的交叉路口。）
-> - "Innovation often occurs at the intersection of different disciplines."（创新往往发生在不同学科的交汇处。）
+> - A roadside memorial was set up at the intersection where the tragedy happened. `[真题]`
+> - Innovation often occurs at the intersection of different disciplines. `[真题]`
+> - We're at this intersection of digital, social and technology, which is critical to reach millennials. `[真题]`
 
 
 ---

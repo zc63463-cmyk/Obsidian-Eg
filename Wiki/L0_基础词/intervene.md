@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**介入，干预**==；②干涉，调停；③发生，介入其间；
+**v.** ①==**介入，干预**== `intervene in sth.` [正式] `intervene to do sth.` [正式]；②干涉，调停 `intervene in a dispute` [正式]；③发生，介入其间 `intervening years/events` [书面]；
 
 > [!tip] 原型义
 > **原型义**：走到……之间——走到两个人或两件事的中间
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government decided to intervene in the foreign exchange market to stabilize the currency."（政府决定干预外汇市场以稳定货币）
-> - "The police intervened before the situation could escalate into violence."（警察在局势升级为暴力之前进行了介入）
+> - The Central Bank intervened in the currency markets today to try to stabilize the exchange rate. ` `[真题]`
+> - The military had to intervene to restore order. ` `[语料库]`
+> - Twenty years intervened between their first and last meetings. ` `[语料库]`
+> - Parents need to intervene when sibling rivalry becomes physical. ` `[语料库]`
 
 
 ---

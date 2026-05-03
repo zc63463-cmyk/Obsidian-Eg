@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**激怒，使恼火**==；②==**刺激，使发炎**==；③引起不适；
+**v.** ①==**激怒，使恼火**== `irritate sb./be irritated by` [中性]；②==**刺激，使发炎**== `irritate the skin/eyes` [专业]；③引起不适；
 
 > [!tip] 原型义
 > **原型义**：使发痒/发炎（刺激身体引起不适反应，源自拉丁语 *irritare* "刺激、激起"）
@@ -128,8 +128,9 @@ ir-(=in-, 进入/加强) + rit(=rag-, 兴奋/刺激，拉丁语 *iritare*) + -at
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The constant noise from the construction site irritated the residents."（建筑工地持续的噪音激怒了居民）
-> - "Certain chemicals can irritate the skin and cause allergic reactions."（某些化学物质会刺激皮肤并引起过敏反应——考研阅读高频表达）
+> - The constant noise from the construction site irritated the residents. `[真题]`
+> - Certain chemicals can irritate the skin and cause allergic reactions. `[真题]`
+> - The way she puts on that accent really irritates me. `[真题]`
 
 
 ---

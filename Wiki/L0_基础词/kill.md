@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**杀死，扼杀**==；②消磨（时间）；③==**使停止，终结**==；④毁灭，破坏；
+**v.** ①==**杀死，扼杀**== `\kill sb/sth` [通用]；②==**消磨（时间）**== `\kill time` [口语]；③==**使停止，终结**== `\kill a bill/project` [正式]；④毁灭，破坏；
 **n.** ①猎获物；②杀戮；
 
 > [!tip] 原型义
@@ -134,8 +134,10 @@ kill 源自古英语 *cyllan*，与古诺斯语 *kolla*（打击）有关。无�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She adds, however, that 'to decide is to kill off all possibilities but one.'"（然而她补充道，"做出决定就是扼杀除一种可能性之外的所有可能性。"——2009年考研英语阅读理解）
-> - "The court would be recklessly modest if it followed California's advice."（如果法院听从加州的建议，那将是 recklessly 谦虚的——2015年考研英语一阅读理解 Section II，recklessly 与 kill 同语境讨论法律判决）
+> - "She adds, however, that 'to decide is to kill off all possibilities but one.'" `[真题]`
+> - "The opposition failed to kill the bill." `[真题]`
+> - "My feet are killing me after walking all day." `[通用语料]`
+> - "He lifted her and carried her to her bedroom, finding a spot on the bed that had avoided being shredded or covered with junk from her dressers." `[通用语料]`
 
 
 ---

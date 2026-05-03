@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**完整无缺的，完好无损的**==；②（精神等）未受影响的；
+**adj.** ①==**完整无缺的，完好无损的**== `remain/keep intact` `[常用]`；`leave sth. intact` `[正式]`；②（精神等）未受影响的；
 
 > [!tip] 原型义
 > **原型义**：未被触碰过的——没有被碰过所以保持完整
@@ -123,8 +123,9 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ancient temple has remained largely intact despite centuries of war and natural disasters."（尽管经历了几个世纪的战争和自然灾害，这座古庙基本上保存完好）
-> - "It is important to keep the original culture intact while embracing modernization."（在拥抱现代化的同时保持原始文化的完整性是很重要的）
+> - His faith in the system remained intact despite the scandals. `[真题]`
+> - The ancient temple has remained largely intact despite centuries of war and natural disasters. `[真题]`
+> - Most of the current provisions can remain intact while the new regulations are being drafted. `[真题]`
 
 
 ---

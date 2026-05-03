@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**固有的，内在的，本质的**==；②与生俱来的；
+**adj.** ①==**固有的，内在的，本质的**== `adj. in N`；②==**与生俱来的**== `adj. N`；
 
 > [!tip] 原型义
 > **原型义**：粘附在内部的（无法剥离的属性）
@@ -136,8 +136,10 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types."（时尚界知道在材料装饰和理想化的身材类型方面本身就有问题。——2016年英语一Text 1）
-> - "In fact, the more new things we try — the more we step outside our comfort zone — the more inherently creative we become."（事实上，我们尝试的新事物越多——我们越走出舒适区——我们就变得越有内在创造力。——2009年英语一Text 1）
+> - "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types." `[真题]`
+> - "In fact, the more new things we try — the more we step outside our comfort zone — the more inherently creative we become." `[真题]`
+> - "He cannot accept that there are inherent limits to the power of his office." `[COCA-NEWS]`
+> - "But managing risk is inherent in business." `[COCA-ACAD]`
 
 
 ---

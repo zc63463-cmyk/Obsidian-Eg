@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**激励，鼓舞**==（激发某人做某事或产生某种感觉）；②==**启发，赋予灵感**==（使某人产生创造性想法）；③==**引起，导致**==（某种情感或行为）；
+**v.** ①==**激励，鼓舞**== `inspire sb to do sth` [通用]（激发某人做某事或产生某种感觉）；②==**启发，赋予灵感**== `be inspired by` [通用]（使某人产生创造性想法）；③==**引起，导致**== `inspire confidence/hope` [正式]（某种情感或行为）；
 
 > [!tip] 原型义
 > **原型义**：向内吹气（将气息吹入人体，赋予生命或灵感）
@@ -134,8 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The professor's passionate lecture on environmental conservation inspired many students to pursue careers in sustainability and renewable energy."（教授关于环境保护的激情演讲激励了许多学生从事可持续发展和可再生能源领域的职业——考研阅读教育话题相关表达）
-> - "The civil rights movement, led by Martin Luther King Jr., inspired millions of people around the world to fight against racial discrimination and social injustice."（由马丁·路德·金领导的民权运动激励了全世界数百万人反对种族歧视和社会不公正——考研翻译历史话题相关表达）
+> - He inspired many young people to take up the sport. `[真题]`
+> - The caves cannot but inspire wonder in the beholder. `[真题]`
+> - His driving hardly inspires confidence. `[真题]`
+> - Our challenge is to motivate those voters and inspire them to join our cause. `[语料库]`
 
 
 ---

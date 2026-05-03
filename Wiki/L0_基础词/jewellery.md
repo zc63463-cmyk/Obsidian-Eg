@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**珠宝（总称）**==；②==**首饰**==（戒指、项链、耳环等）；
+**n.** ①==**珠宝（总称）**== `a piece of jewellery` [通用]；②==**首饰**== `costume jewellery` [通用]；
 
 > [!tip] 原型义
 > **原型义**：珠宝，首饰（源自 jewel "宝石" + -lery 集合名词后缀，英式拼写）
@@ -121,8 +121,9 @@ jewellery = jewel（宝石）+ -lery（集合名词后缀，表示"……的集�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The royal family's jewellery collection is worth billions of dollars."（王室的珠宝收藏价值数十亿美元——jewellery 在文化/历史语境中常见）
-> - "She designs handmade jewellery using recycled materials."（她用回收材料设计手工珠宝——jewellery 在现代语境中的用法）
+> - "She wore a beautiful piece of jewellery on her wedding day." ` `[真题]`
+> - "The thief stole all the jewellery from the store." ` `[真题]`
+> - "They have started to deal in manufacturing and trading of imitation jewellery." ` `[语料库]`
 
 
 ---

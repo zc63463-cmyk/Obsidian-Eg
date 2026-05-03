@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**发明，创造**==；②发明物；③捏造，虚构；
+**n.** ①==**发明，创造**== `the invention of` [正式]；②==**发明物**== `a useful invention` [通用]；③捏造，虚构；
 
 > [!tip] 原型义
 > **原型义**：被找到的东西（[[invent]] 的名词形式——找到前所未有之物的结果）
@@ -124,7 +124,9 @@ in-(进入) + [[ven-vent|ven]](来，拉丁语 *venire*) + -tion(名词后缀，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the internet has revolutionized the way we communicate."（互联网的发明彻底改变了我们的交流方式）
+> - The invention of the internet has revolutionized the way we communicate. `[真题]`
+> - The spinning wheel was a Chinese invention that changed textile production. `[语料库]`
+> - The story was certainly a favourite one, but it was undoubtedly pure invention. `[外刊]`
 
 
 ---

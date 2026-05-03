@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**慢跑**==；②轻推，轻撞；③唤起（记忆）；
-**n.** ①慢跑；②轻推；
+**v.** ①==**慢跑**== `go for a jog` [通用]；②==**轻推，轻撞**== `jog someone's elbow` [通用]；③==**唤起（记忆）**== `jog one's memory` [通用]；
+**n.** ①==**慢跑**== `go for a jog` [通用]；②==**轻推**== `give sb a jog` [通用]；
 
 > [!tip] 原型义
 > **原型义**：轻轻推撞（身体上的轻微碰撞动作）
@@ -130,8 +130,9 @@ jog 源自中古英语 *joggen*，拟声词，模仿轻推或颠簸时发出的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Laughter does produce short-term changes in the function of the heart and its blood vessels, boosting heart rate and oxygen consumption. But because hard laughter is difficult to sustain, a good laugh is unlikely to have measurable benefits the way, say, walking or jogging does."（笑声确实会引起心脏及其血管功能的短期变化，提高心率和氧气消耗量。但由于大笑难以持续，一次大笑不太可能产生像散步或慢跑那样可衡量的益处——2011年考研英语一完形填空）
-> - "Ancient Greek philosopher Aristotle viewed laughter as 'a bodily exercise precious to health.'"（古希腊哲学家亚里士多德将笑声视为"对健康有益的身体锻炼"——2011年考研英语一完形填空，与 jog 同语境）
+> - "Laughter does produce short-term changes in the function of the heart and its blood vessels, boosting heart rate and oxygen consumption. But because hard laughter is difficult to sustain, a good laugh is unlikely to have measurable benefits the way, say, walking or jogging does." ` `[真题]`
+> - "I go for a jog every morning before breakfast to stay fit." ` `[语料库]`
+> - "Let me jog your memory — we met at the conference last year." ` `[语料库]`
 
 
 ---

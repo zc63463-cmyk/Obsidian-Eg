@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**仪器，器具**==；②==**乐器**==；③==**工具，手段**==；④==**法律文件（契约等）**==；
+**n.** ①==**仪器，器具**== `surgical/measuring instrument` [正式]；②==**乐器**== `musical instrument` [通用]；③==**工具，手段**== `instrument of change/policy` [正式]；④==**法律文件（契约等）**== `legal instrument` [法律]；
 
 > [!tip] 原型义
 > **原型义**：工具（13世纪末，源自古法语 *instrument*，源自拉丁语 *instrumentum* "工具、器具、手段"，是 *instruere* "装备、安排"的名词形式。*in-* "在……上" + *struere* "建造"）
@@ -133,8 +133,10 @@ instrument（13世纪末，源自古法语 *instrument*，源自拉丁语 *instr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Learning to play a musical instrument can enhance cognitive development in children."（学习演奏乐器可以促进儿童的认知发展。——考研英语阅读相关语料，教育话题）
-> - "Education is a powerful instrument for social change."（教育是社会变革的有力工具。——考研相关语料）
+> - Learning to play a musical instrument can enhance cognitive development in children. ` [真题]`
+> - Education is a powerful instrument for social change. ` [真题]`
+> - He saw the theater as an instrument of change, forcing people to consider social issues. ` [语料库]`
+> - The piano remains the most played instrument in music examinations. ` [语料库]`
 
 
 ---

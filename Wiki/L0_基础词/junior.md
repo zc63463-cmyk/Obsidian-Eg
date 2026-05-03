@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**年少的，较年轻的**==；②==**资历较浅的，级别较低的**==；③==**初级的**==（junior high school）；
-**n.** ①==**年少者**==；②==**大三学生**==（美国大学）；③==**下级**==；
+**adj.** ①==**年少的，较年轻的**== `\junior to sb` [通用]；②==**资历较浅的，级别较低的**== `\a junior member/staff` [职场]；③==**初级的**== `\junior high school` [教育]；
+**n.** ①==**年少者**==；②==**大三学生**== `\a junior (in college)` [美式教育]；③==**下级**==；
 
 > [!tip] 原型义
 > **原型义**：年少的（年龄较小或资历较浅的）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is a junior member of the research team."（他是研究团队的一名初级成员——考研阅读常见表达）
-> - "Our daughter is an honor student, taking three AP classes in her junior year."（我们的女儿是一名优秀学生，高三就上了三门大学先修课程——剑桥词典例句）
+> - "He is a junior member of the research team." `[真题]`
+> - "Our daughter is an honor student, taking three AP classes in her junior year." `[剑桥词典]`
+> - "She is a junior member of the marketing team, so she's still learning the ropes." `[IELTS语料]`
+> - "The junior partner at the law firm works closely with senior attorneys to gain experience." `[通用语料]`
 
 
 ---
