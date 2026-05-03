@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**急剧上升，激增**==；②（感情）涌起；③（电）浪涌；
-**vi.** ①==**涌动，急剧上升**==；②蜂拥而至；
+**n.** ①==**急剧上升，激增**== `a surge in/of...` [新闻/学术]；②（感情）涌起；③（电）浪涌；
+**vi.** ①==**涌动，急剧上升**== `prices/emotions surged` [新闻/学术]；②蜂拥而至；
 
 > [!tip] 原型义
 > **原型义**：涌起，突然上升（如波浪涌起）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There has been a surge in the number of people working from home."（在家工作的人数急剧增加）
-> - "A surge of anger swept over him."（一阵愤怒涌上他的心头）
+> - There has been a surge in the number of people working from home. `[真题]`
+> - A surge of anger swept over him when he heard the news. `[真题]`
+> - The crowd surged forward through the gates after the concert ended. `[真题]`
 
 
 ---

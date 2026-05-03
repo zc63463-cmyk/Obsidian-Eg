@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**标签，标牌**==；②==**称呼，绰号**==；
-**v.** ①==**给……贴标签**==；②==**添加**==（在末尾附加）；③（美式）捉人游戏中的"抓住"；
+**n.** ①==**标签，标牌**== `price tag / name tag` [日常/商业]；②==**称呼，绰号**== `tag sb. with a nickname` [口语]；
+**v.** ①==**给……贴标签**== `tag sth. with...` [日常]；②==**添加**== `tag a question onto the end` [口语]；③（美式）捉人游戏中的"抓住"；
 
 > [!tip] 原型义
 > **原型义**：系在物品上的小标签
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The price tag on the new smartphone was surprisingly affordable compared to its competitors."（与竞争对手相比，这款新智能手机的价格标签令人惊讶地实惠。——考研阅读商业话题相关表达）
-> - "She was tagged as the most promising young scientist of her generation."（她被标记为同代人中最有前途的年轻科学家。——考研翻译学术话题相关表达）
+> - Everything comes displayed with a price tag. `[真题]`
+> - She was tagged as the most promising young scientist of her generation. `[真题]`
+> - The prince of darkness tag is something he tries to live up to. `[真题]`
+> - Items such as bags of sugar or rice have layers of price tags stuck one on top of another. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**剧院，剧场**==；②戏剧，戏剧艺术；③（发生重大事件的）场所，领域；④手术室（theatre）；
+**n.** ①==**剧院，剧场**== `go to the theatre` [通用]；②==**戏剧，戏剧艺术**== `modern theatre` [正式]；③==**（发生重大事件的）场所，领域**== `theatre of war` [正式]；④手术室（theatre）；
 
 > [!tip] 原型义
 > **原型义**：观看的地方（古希腊用于观看表演的半圆形建筑）
@@ -129,8 +129,9 @@ thea-(=see, watch，看，希腊语 *theasthai*) + -tre(=place，地方，名词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's productions show the new face of 21st century Chinese theatre."（公司的作品展示了21世纪中国戏剧的新面貌。——2017全国卷2阅读理解）
-> - "The cinema, the theatre, all that was very exciting with new things coming out."（电影院、剧院，所有这些都因为有新事物出现而令人兴奋。——2017年6月四级真题听力）
+> - "The company's productions show the new face of 21st century Chinese theatre." `[真题]`
+> - "The cinema, the theatre, all that was very exciting with new things coming out." `[真题]`
+> - "The Pacific region became a major theatre of war during World War II." `[语料库]`
 
 
 ---

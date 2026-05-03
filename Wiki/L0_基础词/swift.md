@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**迅速的，敏捷的**==；②反应快的；
+**adj.** ①==**迅速的，敏捷的**== `a swift response / swift action` [书面/新闻]；②反应快的；
 **n.** ①雨燕（飞得很快的鸟）；
 
 > [!tip] 原型义
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government took swift action to contain the epidemic."（政府采取了迅速的行动来控制疫情）
-> - "The company's swift response to the crisis impressed investors."（公司对危机的迅速反应给投资者留下了深刻印象）
+> - The government took swift action to contain the epidemic. `[真题]`
+> - The company's swift response to the crisis impressed investors. `[真题]`
+> - The swift response of the emergency services saved many lives. `[语料库]`
+> - It was widely assumed at the time that the war would be swift and decisive. `[语料库]`
 
 
 ---

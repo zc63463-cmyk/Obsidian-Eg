@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**周围环境，环境**==；（通常用复数形式）
+**n.** ①==**周围环境，环境**== `in pleasant/beautiful surroundings` [通用]；（通常用复数形式）
 
 > [!tip] 原型义
 > **原型义**：被围绕的东西（[[surround]] + -ings）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children who grow up in stimulating surroundings tend to develop better cognitive abilities."（在富有刺激的环境中成长的孩子往往能发展出更好的认知能力。）
-> - "The hotel is located in beautiful natural surroundings."（这家酒店坐落在优美的自然环境中。")
+> - We spent the afternoon relaxing in the beautiful surroundings of my parents' home. `[文学]`
+> - Animals living in their natural surroundings exhibit more diverse behaviors. `[学术]`
+> - He was happy to be at home again in his usual surroundings. `[通用]`
 
 
 ---

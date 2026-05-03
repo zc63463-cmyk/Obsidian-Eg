@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**日落，傍晚**==；②日落时分；
+**n.** ①==**日落，傍晚**== `at sunset` [通用]；②日落时分；
 **adj.** ①日落的；②衰落的；
 
 > [!tip] 原型义
@@ -125,7 +125,9 @@ sun(太阳) + set(落下/沉没)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many traditional manufacturing industries have become sunset industries in the digital age."（许多传统制造业在数字时代已成为夕阳产业——考研经济类话题）
+> - Many traditional manufacturing industries have become sunset industries in the digital age. `[真题]`
+> - At those valuations, the market is saying that platinum is a sunset industry. `[真题]`
+> - He mentioned its temporary nature and pointed to the sunset clause. `[真题]`
 
 
 ---

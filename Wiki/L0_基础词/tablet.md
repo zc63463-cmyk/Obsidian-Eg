@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**药片，片剂**==；②==**平板电脑**==；③==**碑，牌匾**==（刻有文字的石板或金属板）；④便笺簿，书写板；
+**n.** ①==**药片，片剂**== `take two tablets` `sleeping tablet` [医学/日常]；②==**平板电脑**== `tablet computer` [科技/通用]；③==**碑，牌匾**== `a memorial tablet` `stone tablet` [正式/文化]；④便笺簿，书写板；
 
 > [!tip] 原型义
 > **原型义**：小平板（用于书写的平板）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The doctor prescribed two tablets to be taken three times a day after meals."（医生开了两种药片，每日三次饭后服用。——考研翻译医疗话题相关表达）
-> - "Ancient clay tablets found in Mesopotamia contain some of the earliest known written records."（在美索不达米亚发现的古代泥板包含了一些已知最早的文字记录。——考研阅读历史话题相关表达）
+> - The doctor prescribed two tablets to be taken three times a day after meals. `[真题]`
+> - Ancient clay tablets found in Mesopotamia contain some of the earliest known written records. `[真题]`
+> - Take two tablets three times a day for three months. `[语料库]`
 
 
 ---

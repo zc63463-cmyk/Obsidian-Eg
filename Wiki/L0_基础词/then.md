@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**当时，那时**==；②然后，接着；③那么，既然如此；
-**adj.** ①当时的；
+**adv.** ①==**当时，那时**== `back then / by then` [通用]；②==**然后，接着**== `and then / first...then` [通用]；③==**那么，既然如此**== `if so, then` [通用]；
+**adj.** ①==**当时的**== `her then husband` [通用]；
 
 > [!tip] 原型义
 > **原型义**：那时（在那个时间点）
@@ -134,8 +134,9 @@ then（古英语 *thænne*，源自日耳曼语族，与 that 同源，指示"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Thereafter she wrote articles for papers and magazines in Paris."（从那以后，她为巴黎的报纸和杂志撰稿。——剑桥词典例句）
-> - "The plan will help you lose 3-4 pounds the first week, and 1-2 pounds the weeks thereafter."（该计划将帮助你在第一周减3到4磅，其后每周减1到2磅。——剑桥词典例句）
+> - "She grew up in Zimbabwe, or Rhodesia as it then was." `[词典]`
+> - "First cook the onions, then add the mushrooms." `[词典]`
+> - "If you won't tell him, then I will." `[词典]`
 
 
 ---

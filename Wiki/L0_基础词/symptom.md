@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**症状，征兆**==；②==**迹象**==（问题的外在表现）；
+**n.** ①==**症状，征兆**== `\symptoms of a disease / show symptoms\` [通用/医学]；②==**迹象**== `\a symptom of a deeper problem / symptom of decline\` [书面/新闻]；
 
 > [!tip] 原型义
 > **原型义**：一起发生（与疾病一起出现的征兆）
@@ -119,8 +119,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Fever and cough are common symptoms of the flu."（发烧和咳嗽是流感的常见症状）
-> - "The rising crime rate is a symptom of deeper social problems."（犯罪率上升是更深层社会问题的征兆）
+> - Fever and cough are common symptoms of the flu. `[真题]`
+> - Tiredness, loss of appetite and sleeping problems are all classic symptoms of depression. `[真题]`
+> - The rising crime rate is a symptom of deeper social problems. `[语料库]`
+> - Usually, high blood pressure has no symptoms, so many people have it for years without knowing. `[语料库]`
 
 
 ---

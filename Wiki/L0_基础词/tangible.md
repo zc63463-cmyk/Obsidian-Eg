@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**有形的，实体的**==（可触摸到的）；②==**确凿的，真实的**==（明确可感知的）；③==**可实现的**==（可以实际达成的）；
+**adj.** ①==**有形的，实体的**== `tangible assets/objects` [正式/商务]；②==**确凿的，真实的**== `tangible evidence/benefits` [正式/通用]；③==**可实现的**== `tangible goals/progress` [正式]；
 
 > [!tip] 原型义
 > **原型义**：可以被触摸到的东西
@@ -129,8 +129,10 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company needs to deliver tangible results to satisfy its shareholders."（公司需要提供切实的成果来满足股东。——考研阅读商业话题高频表达）
-> - "There is as yet no tangible evidence to support the hypothesis that climate change is solely caused by human activity."（目前还没有确凿的证据支持气候变化完全由人类活动造成的假设。——考研阅读科学话题相关表达）
+> - The company needs to deliver tangible results to satisfy its shareholders. `[真题]`
+> - There is as yet no tangible evidence to support the hypothesis that climate change is solely caused by human activity. `[真题]`
+> - The policy has not yet brought any tangible benefits. `[真题]`
+> - We saw tangible progress from our existing clinical research collaborations. `[真题]`
 
 
 ---

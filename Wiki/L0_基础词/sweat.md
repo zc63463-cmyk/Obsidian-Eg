@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**汗，汗水**==；②出汗；
-**v.** ①==**出汗**==；②==**努力工作，辛苦劳作**==；
+**n.** ①==**汗，汗水**== `beads of sweat` [描写]；②出汗；
+**v.** ①==**出汗**== `sweat profusely` [描写]；②==**努力工作，辛苦劳作**== `no sweat / sweat over sth` [口语]；
 
 > [!tip] 原型义
 > **原型义**：出汗（身体排汗的动作）
@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't sweat the small stuff."（别为小事操心）
-> - "She was in a cold sweat before the exam."（考试前她出了一身冷汗）
+> - Every morning I would break out in a sweat before the exam. `[通用]`
+> - Computer graphics take a lot of the sweat out of animation. `[学术]`
+> - They extended their unbeaten run to seven matches and hardly had to break sweat to do it. `[新闻]`
 
 
 ---

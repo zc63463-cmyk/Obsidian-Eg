@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**交响乐，交响曲**==；②==**和谐，协调**==；
+**n.** ①==**交响乐，交响曲**== `\a symphony orchestra / compose a symphony\` [通用/书面]；②==**和谐，协调**== `\a symphony of colors / a symphony of flavors\` [文学]；
 
 > [!tip] 原型义
 > **原型义**：一起发声（多种声音和谐地一起响）
@@ -120,8 +120,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Beethoven's Ninth Symphony is considered one of the greatest musical works ever composed."（贝多芬的第九交响曲被认为是有史以来最伟大的音乐作品之一）
-> - "The garden was a symphony of colors in spring."（春天花园里是一片色彩的和谐交响）
+> - Beethoven's Ninth Symphony is considered one of the greatest musical works ever composed. `[真题]`
+> - When you play one of his great symphonies, you cover centuries of music in one go. `[真题]`
+> - The garden was a symphony of colors in spring. `[语料库]`
+> - He expects us to be participants in the great symphony of life. `[语料库]`
 
 
 ---

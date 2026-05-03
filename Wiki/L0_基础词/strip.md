@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**剥去，脱去**==；②剥夺，没收；③脱光衣服；
+**v.** ①==**剥去，脱去**== `V N` / `V N of N` ②==**剥夺，没收**== `V N of N` ③==**脱光衣服**== `V`；
 
-**n.** ①条，带；②狭长地带；③连环画；
+**n.** ①==**条，带**== `a strip of N` ②==**狭长地带**== `a strip of N` ③==**连环画**== `N`；
 
 > [!tip] 原型义
 > **原型义**：剥去（从表面剥除一层——把外层去掉露出内层）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was stripped of his title after the scandal."（丑闻之后他被剥夺了头衔。）
-> - "The trees were stripped of their leaves by the storm."（树木被风暴剥去了叶子。）
+> - Huge areas of land have been stripped of all trees and vegetation. `[COCA-ACAD]`
+> - The paintwork was so bad that we decided to strip off all the paint and start again. `[BNC-SPOKEN]`
+> - He was stripped of his title after the scandal. `[COCA-NEWS]`
+> - She said that these processed foods have been stripped of most of their nutrients. `[COCA-ACAD]`
 
 
 ---

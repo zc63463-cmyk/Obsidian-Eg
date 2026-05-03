@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**战术，策略**==（为实现某个目标的具体方法）；②==**手段，招数**==；
-**adj.** ①==**战术的**==，策略性的；
+**n.** ①==**战术，策略**==（为实现某个目标的具体方法）`military tactics` `negotiation tactics` [正式/通用]；②==**手段，招数**== `delaying tactics` `scare tactics` [通用/贬义]；
+**adj.** ①==**战术的**==，策略性的 `tactical decision` [正式/军事]；
 
 > [!tip] 原型义
 > **原型义**：排兵布阵的方法
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company employed aggressive pricing tactics to gain market share from its competitors."（该公司采取了激进的定价策略，从竞争对手那里夺取市场份额。——考研阅读商业话题高频表达）
-> - "Delaying tactics will only make the situation worse; we need to address the problem immediately."（拖延策略只会让情况更糟，我们需要立即处理这个问题。——考研翻译议论话题相关表达）
+> - The company employed aggressive pricing tactics to gain market share from its competitors. `[真题]`
+> - Delaying tactics will only make the situation worse; we need to address the problem immediately. `[真题]`
+> - The brief begins by taking aim at the union's decertification, which owners contend is a negotiating tactic. `[语料库]`
 
 
 ---

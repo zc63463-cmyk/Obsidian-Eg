@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**专题讨论会，研讨会**==；②专题论文集；
+**n.** ①==**专题讨论会，研讨会**== `attend a symposium / a symposium on sth` [书面/学术]；②专题论文集；
 
 > [!tip] 原型义
 > **原型义**：一起喝酒（古希腊人边喝边讨论学术问题）
@@ -118,8 +118,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university hosted an international symposium on climate change."（大学主办了一场关于气候变化的国际研讨会）
-> - "She presented her research findings at the annual symposium."（她在年度研讨会上展示了她的研究成果）
+> - The university hosted an international symposium on climate change. `[真题]`
+> - She presented her research findings at the annual symposium. `[真题]`
+> - Speakers at today's symposium had different views about the impact of modern information technology. `[语料库]`
+> - Last week I attended a symposium where there were 150 participants, and only two of them were women. `[语料库]`
 
 
 ---

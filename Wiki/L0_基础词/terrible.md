@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可怕的，恐怖的**==；②==**极坏的，糟糕的**==；③==**非常的，极度的**==（作加强语）；
+**adj.** ①==**可怕的，恐怖的**== `a terrible storm / accident` [通用]；②==**极坏的，糟糕的**== `terrible food / movie` [通用]；③==**非常的，极度的**== `a terrible headache / shame` [口语]（作加强语）；
 
 > [!tip] 原型义
 > **原型义**：引起恐惧的（令人害怕的程度）
@@ -131,8 +131,9 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This project is a terrible waste of money."（这个项目计划完全是在浪费钱财。——Cambridge Dictionary 权威例句）
-> - "I had a terrible headache, but even so I went to the concert."（我头痛得厉害，但即使如此我还是去听了音乐会。——Cambridge Dictionary 权威例句）
+> - "This project is a terrible waste of money." `[真题]`
+> - "I had a terrible headache, but even so I went to the concert." `[真题]`
+> - "Traffic was held up by a terrible accident." `[真题]`
 
 
 ---

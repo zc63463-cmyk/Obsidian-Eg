@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**综合，合成**==；②==**综合物，合成物**==；
+**n.** ①==**综合，合成**== `\the synthesis of sth.\` `\chemical synthesis\` [学术/科学]；②==**综合物，合成物**== `\a synthesis of A and B\` [学术/正式]；
 
 > [!tip] 原型义
 > **原型义**：放在一起（把不同部分组合成整体）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report is a synthesis of data from multiple sources."（这份报告是对多个来源数据的综合）
-> - "Protein synthesis is a fundamental process in all living organisms."（蛋白质合成是所有生物体的基本过程）
+> - The report is a synthesis of data from multiple sources. `[真题]`
+> - Protein synthesis is a fundamental process in all living organisms. `[真题]`
+> - The collection is distinguished by its synthesis of Islamic, Hindu, and Zoroastrian religious traditions. `[语料库]`
 
 
 ---

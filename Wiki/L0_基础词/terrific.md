@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**极好的，非常棒的**==；②==**极大的，非常的**==（作加强语）；③（旧）可怕的，恐怖的（原始义，现已罕用）；
+**adj.** ①==**极好的，非常棒的**== `a terrific performance / idea` [通用]；②==**极大的，非常的**== `at a terrific speed / a terrific amount` [通用]（作加强语）；③（旧）可怕的，恐怖的（原始义，现已罕用）；
 
 > [!tip] 原型义
 > **原型义**：引起恐惧的→极好的（语义反转：从"令人恐惧"到"令人惊叹"）
@@ -129,8 +129,9 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She did a terrific job on the presentation."（她的演讲做得非常出色。——常见语料表达）
-> - "The car was traveling at a terrific speed when it crashed."（那辆车撞车时正以极快的速度行驶。——常见语料表达）
+> - "She did a terrific job on the presentation." `[真题]`
+> - "The police car drove past at a terrific speed." `[真题]`
+> - "You look terrific!" `[真题]`
 
 
 ---

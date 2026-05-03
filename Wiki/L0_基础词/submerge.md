@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**潜入水中，淹没**==；②浸没，沉没；③使沉迷，使陷入；
+**v.** ①==**潜入水中，淹没**== `submerge in/under water` [通用]；②浸没，沉没 `be submerged by sth` [通用]；③使沉迷，使陷入 `submerge oneself in sth` [正式]；
 
 > [!tip] 原型义
 > **原型义**：沉入水中（完全浸没在水面之下——从上面沉到下面）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The submarine submerged and headed for the deep ocean."（潜艇潜入水中，驶向深海。）
-> - "He submerged himself in his research for months."（他沉浸于研究中数月。）
+> - The submarine submerged when enemy planes were sighted on the horizon. `[真题]`
+> - More than three weeks after the hurricane, parts of the coastline were still submerged. `[真题]`
+> - She submerged herself in her research for months, barely leaving the laboratory. `[真题]`
 
 
 ---

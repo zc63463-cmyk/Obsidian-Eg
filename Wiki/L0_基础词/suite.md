@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**套房，套间**==；②==**（同类事物的）一套，一组**==；③（音乐）组曲；④（计算机）软件套件；
+**n.** ①==**套房，套间**== `a hotel/presidential suite` [通用]；②==**（同类事物的）一套，一组**== `a suite of tools/programs` [正式]；③（音乐）组曲；④（计算机）软件套件；
 
 > [!tip] 原型义
 > **原型义**：套房（一组相连的房间，构成一个完整的居住/工作单元）
@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company offers a complete suite of office productivity tools."（该公司提供一整套办公生产力工具——考研科技类话题）
+> - The company offers a complete suite of office productivity tools. `[真题]`
+> - They have a whole suite of offices on the 34th floor. `[真题]`
+> - The new stadium will feature 4,000 permanent seats, as well as 12 luxury suites. `[真题]`
 
 
 ---

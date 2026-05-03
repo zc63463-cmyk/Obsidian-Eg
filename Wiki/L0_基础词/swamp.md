@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**沼泽，湿地**==；
-**v.** ①==**淹没，浸没**==；②使不堪重负；
+**n.** ①==**沼泽，湿地**== `swamp land/area` [通用]；
+**v.** ①==**淹没，浸没**== `swamp sth with water` [描写]；②使不堪重负 `be swamped with/by sth` [通用]；
 
 > [!tip] 原型义
 > **原型义**：沼泽（被水浸没的软地）
@@ -121,8 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was swamped with orders after the advertisement was published."（广告发布后公司被订单淹没了）
-> - "Drain the swamp" was a political slogan meaning to root out corruption.（"排干沼泽"是一个意为清除腐败的政治口号）
+> - The department was swamped with job applications after posting the vacancy online. `[新闻]`
+> - The sea level rose and swamped the coastal villages. `[学术]`
+> - In summer visitors swamp the island, causing overcrowding. `[通用]`
 
 
 ---

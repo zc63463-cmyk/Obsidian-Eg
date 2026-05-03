@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**表面，水面**==；②外观，表象；
-**v.** ①浮出水面；②==**显露，浮现**==；
+**n.** ①==**表面，水面**== `on the surface of...` [通用]；②外观，表象；
+**v.** ①浮出水面；②==**显露，浮现**== `The truth/problems surfaced.` [书面/新闻]；
 
 > [!tip] 原型义
 > **原型义**：最上面的一层（物体的"面部"）
@@ -126,8 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On the surface, the proposal seems reasonable, but there are hidden problems."（表面上看这个提案很合理，但隐藏着问题）
-> - "The differences between the two theories are only on the surface."（两种理论之间的差异只是表面上的）
+> - On the surface, the proposal seems reasonable, but there are hidden problems. `[真题]`
+> - The truth about the scandal finally surfaced after years of investigation. `[真题]`
+> - Snow-capped mountains surround the city, and the lake's surface reflects the sky. `[真题]`
 
 
 ---

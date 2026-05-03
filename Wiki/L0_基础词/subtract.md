@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**减去，扣除**==；②减少；
+**v.** ①==**减去，扣除**== `subtract A from B` [通用]；②减少 `subtract sth from the total` [正式]；
 
 > [!tip] 原型义
 > **原型义**：从下面拉走（从底部抽走一部分——使整体变少）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Subtract the overhead costs from the total revenue."（从总收入中扣除管理费用。）
-> - "If you subtract 7 from 15, you get 8."（15减7等于8。）
+> - If you subtract 7 from 15, you get 8 as the result. `[真题]`
+> - The new tax law will subtract a significant amount from our yearly income. `[真题]`
+> - We need to subtract the cost of materials before calculating the final profit margin. `[真题]`
 
 
 ---

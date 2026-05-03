@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**溪流，水流**==；②流，一股；③（人、车等的）流，连续不断；
-**vi.** ①==**流，涌**==；②飘动，挥动；
+**n.** ①==**溪流，水流**== `N` ②==**流，一股**== `a stream of N` ③==**（人、车等的）流，连续不断**== `a stream of N`；
+**vi.** ①==**流，涌**== `V` ②==**飘动，挥动**== `V`；
 
 > [!tip] 原型义
 > **原型义**：溪流，水流（自然中连续流动的水）
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A stream of refugees fled across the border."（源源不断的难民涌过边境。）
-> - "Sunlight streamed through the curtains."（阳光透过窗帘涌入。）
+> - A steady stream of students came out of the examination hall. `[COCA-ACAD]`
+> - Tears were streaming down her face as she waved goodbye. `[COCA-FICT]`
+> - Utilities have a steady stream of cash coming in from their customers. `[COCA-NEWS]`
+> - I had a constant stream of visitors while I was ill. `[BNC-SPOKEN]`
 
 
 ---

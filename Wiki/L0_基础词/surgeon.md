@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**外科医生**==；
+**n.** ①==**外科医生**== `a heart/brain surgeon` [医学/正式]；
 
 > [!tip] 原型义
 > **原型义**：用手工作的人（用手治病的人）
@@ -117,7 +117,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The surgeon performed a delicate operation to remove the tumor."（外科医生做了一台精细的手术来切除肿瘤）
+> - The surgeon performed a delicate operation to remove the brain tumor. `[真题]`
+> - The surgeon did everything in her power to save the patient's life. `[真题]`
+> - He decided to become a surgeon after a successful operation on his knee. `[真题]`
 
 
 ---

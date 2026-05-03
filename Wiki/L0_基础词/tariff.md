@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**关税**==（进出口商品税）；②==**税率表**==（税费清单）；③（酒店等）收费表，价目表；
-**v.** ①==**对……征收关税**==；②==**定税率**==；
+**n.** ①==**关税**== `impose/lift a tariff on sth.` [正式/贸易]；②==**税率表**== `tariff schedule` [正式/贸易]；③（酒店等）收费表，价目表；
+**v.** ①==**对……征收关税**== `tariff sth. at X%` [正式/贸易]；②==**定税率**==；
 
 > [!tip] 原型义
 > **原型义**：进出口商品的税费清单
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government imposed heavy tariffs on imported steel to protect domestic manufacturers."（政府对进口钢材征收高额关税，以保护国内制造商。——考研阅读经济话题高频表达）
-> - "The trade agreement aims to reduce tariffs and eliminate other barriers to cross-border commerce."（该贸易协定旨在降低关税并消除其他跨境贸易壁垒。——考研翻译经济话题相关表达）
+> - The United States started to raise tariffs on imported steel and aluminum from 25 percent to 50 percent, sparking criticism and trade war concerns across the globe. `[真题]`
+> - Beijing responded with its own retaliatory tariffs on a range of U.S. products after Washington threatened substantial tariffs over alleged intellectual property theft. `[真题]`
+> - The trade agreement aims to reduce tariffs and eliminate other barriers to cross-border commerce between the two nations. `[真题]`
 
 
 ---

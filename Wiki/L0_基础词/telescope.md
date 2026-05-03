@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**望远镜**==；②缩叠式旅行袋；
+**n.** ①==**望远镜**== `space/radio telescope` [中性/科学]；②缩叠式旅行袋；
 
 > [!tip] 原型义
 > **原型义**：从远处看（tele-远 + scope看 → 远处的东西拉近来看）
@@ -125,8 +125,9 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity."（坐落于太平洋上，莫纳克亚山的顶峰比地球上大部分的稠密大气层都高，那里的条件使望远镜能够获得无与伦比的清晰图像。——2017年英语一Text 2）
-> - "Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going."（要求拆除莫纳克亚山上所有望远镜或禁止未来开发的呼声，忽略了一个现实：天文学和夏威夷文化都在试图回答关于我们是谁、我们从哪里来、我们要到哪里去的大问题。——2017年英语一Text 2）
+> - Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity. `[真题]`
+> - Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are. `[真题]`
+> - After over three decades of scrutinising our universe, the Hubble Space Telescope remains a household word as the most well-known observatory in history. `[真题]`
 
 
 ---

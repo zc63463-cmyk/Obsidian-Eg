@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使恐惧，使害怕**==（使某人感到极度害怕）；
+**v.** ①==**使恐惧，使害怕**== `terrify sb / terrify sb into doing sth` [通用]（使某人感到极度害怕）；
 
 > [!tip] 原型义
 > **原型义**：使恐惧（让某人感到极度害怕）
@@ -129,8 +129,9 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ify（使动后缀，= mak
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The idea of parachuting out of a plane terrifies me."（从飞机上跳伞的想法让我恐惧。——Cambridge Dictionary 权威例句）
-> - "Our maths teacher terrified all the children."（我们的数学老师让所有孩子害怕。——Cambridge Dictionary 权威例句）
+> - "Flying terrifies her." `[真题]`
+> - "The thought of being stuck underground terrified him." `[真题]`
+> - "He terrified employees at the bank into handing over cash." `[真题]`
 
 
 ---

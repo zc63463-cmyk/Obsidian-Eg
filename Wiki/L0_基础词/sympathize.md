@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**同情，怜悯**==；②==**赞同，支持**==；
+**vi.** ①==**同情，怜悯**== `sympathize with sb / sympathize with sb's plight` [通用]；②==**赞同，支持**== `sympathize with sth / sympathize with a proposal` [书面/新闻]；
 
 > [!tip] 原型义
 > **原型义**：一起感受（与他人同感）
@@ -119,8 +119,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I sympathize with your situation, but there is nothing I can do."（我同情你的处境，但我无能为力）
-> - "Many citizens sympathize with the protesters' demands."（许多市民赞同抗议者的诉求）
+> - It's hard not to sympathize with the plight of single parents in today's world. `[真题]`
+> - I sympathize with your situation, but there is nothing I can do. `[真题]`
+> - Many citizens sympathized with the protesters' demands for fair wages. `[语料库]`
+> - Anyone who has ever waited in line at the Department of Motor Vehicles will sympathize with this dilemma. `[语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**驯服的，温顺的**==（动物）；②==**平淡的，乏味的**==（经历、事物）；③被控制的，被驯化的；
-**v.** ①==**驯服**==（动物）；②==**控制，制服**==（自然力量、问题等）；
+**adj.** ①==**驯服的，温顺的**== `a tame bird/lion` [日常]；②==**平淡的，乏味的**== `a tame performance/ending` [口语/贬义]；③被控制的，被驯化的；
+**v.** ①==**驯服**== `tame a wild animal` [日常]；②==**控制，制服**== `tame inflation/a river` [正式/经济]；
 
 > [!tip] 原型义
 > **原型义**：被驯服的动物
@@ -127,8 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The central bank managed to tame inflation through a series of interest rate hikes."（央行通过一系列加息成功地控制了通货膨胀。——考研阅读经济话题高频表达）
-> - "What was expected to be a fierce debate turned out to be a rather tame affair."（原本预计会是一场激烈的辩论，结果却相当平淡。——考研翻译议论话题相关表达）
+> - The central bank managed to tame inflation through a series of interest rate hikes. `[真题]`
+> - What was expected to be a fierce debate turned out to be a rather tame affair. `[真题]`
+> - Ukraine's central bank increased the key policy rate to tame inflation that rose above its forecast. `[真题]`
+> - The relief was almost tangible, yet the government struggled to tame public anger. `[真题]`
 
 
 ---

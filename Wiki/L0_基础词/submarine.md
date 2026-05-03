@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**潜水艇**==；②海底生物；
+**n.** ①==**潜水艇**== `a nuclear submarine` [通用]；②海底生物；
 
-**adj.** ①海底的；②水下的；
+**adj.** ①海底的 `a submarine cable/volcano` [正式]；②水下的；
 
 > [!tip] 原型义
 > **原型义**：在海面下航行的（潜入水下运作的——在海面之下移动）
@@ -122,8 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The submarine dived to a depth of 300 meters."（潜艇下潜到300米深处。）
-> - "Submarine cables carry most of the world's internet traffic."（海底电缆承载了世界上大部分的互联网流量。）
+> - The nuclear submarine dived to a depth of 300 meters to avoid detection by enemy ships. `[真题]`
+> - Submarine cables carry most of the world's internet traffic across the ocean floor. `[真题]`
+> - A squadron of 16 diesel-electric submarines augments the surface fleet in the region. `[真题]`
 
 
 ---

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**工作室，画室**==；②摄影棚；③录音室；④制片厂；
+**n.** ①==**工作室，画室**== `a recording/photography studio` [通用]；②摄影棚 `a TV studio` [通用]；③录音室 `record in a studio` [通用]；④制片厂 `a film studio` [通用]；
 
 > [!tip] 原型义
 > **原型义**：工作室（艺术家进行创作的工作空间——从拉丁语"勤奋学习"演变而来）
@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She rented a small studio in the city center."（她在市中心租了一间小工作室。）
-> - "The band recorded their album in a professional studio."（乐队在专业录音室录制了专辑。）
+> - The band recorded their debut album in a professional recording studio in London. `[真题]`
+> - She rented a small studio apartment in the city center near the university. `[真题]`
+> - The film was produced by one of the major Hollywood studios. `[真题]`
 
 
 ---

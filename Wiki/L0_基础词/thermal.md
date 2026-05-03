@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**热的，热量的**==；②保暖的，防寒的；③温泉的；
+**adj.** ①==**热的，热量的**== `thermal energy/expansion` [专业]；②==**保暖的，防寒的**== `thermal underwear/blankets` [通用]；③==**温泉的**== `thermal springs` [通用]；
 **n.** ①上升的热气流；②保暖内衣裤；
 
 > [!tip] 原型义
@@ -131,8 +131,9 @@ therm-(=heat，热，希腊语 *therme*) + -al(形容词后缀，表示"与…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was found by a police helicopter using thermal imaging equipment."（他被一架警用直升飞机用热成像设备找到了。——语料库例句）
-> - "Volcanic activity has created thermal springs and boiling mud pools."（火山活动产生了温泉和沸腾的泥浆池。——百科例句）
+> - "He was found by a police helicopter using thermal imaging equipment." `[语料库]`
+> - "Volcanic activity has created thermal springs and boiling mud pools." `[百科]`
+> - "When coal is burned, chemical energy is transformed into thermal energy." `[词典]`
 
 
 ---

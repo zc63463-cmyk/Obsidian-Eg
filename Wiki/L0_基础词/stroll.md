@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**散步，漫步**==；②闲逛；
+**n.** ①==**散步，漫步**== `take a N` ②==**闲逛**== `N`；
 
-**v.** ①==**散步，漫步**==；②闲逛；③溜达；
+**v.** ①==**散步，漫步**== `V` ②==**闲逛**== `V` ③==**溜达**== `V`；
 
 > [!tip] 原型义
 > **原型义**：漫步（悠闲地走来走去——没有目的地的悠闲行走）
@@ -124,8 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We took a leisurely stroll along the riverbank."（我们沿着河岸悠闲地散步。）
-> - "She strolled through the park, enjoying the spring sunshine."（她漫步穿过公园，享受着春天的阳光。）
+> - After dinner, we went for a stroll along the beach. `[COCA-FICT]`
+> - The whole family was enjoying a leisurely stroll in the sunshine. `[BNC-SPOKEN]`
+> - Afterwards, we strolled back, put the kettle on and settled down with the newspapers. `[BNC-FICT]`
+> - Walkers will love gentle strolls along well-signposted clifftop paths. `[COCA-NEWS]`
 
 
 ---

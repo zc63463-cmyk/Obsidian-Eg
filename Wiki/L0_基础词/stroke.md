@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**中风**==；②击，打；③一笔，一划；④击球动作；⑤抚摸；
+**n.** ①==**中风**== `suffer/have a N` ②==**击，打**== `N` ③==**一笔，一划**== `a N of N` ④==**击球动作**== `N` ⑤==**抚摸**== `N`；
 
-**v.** ①抚摸；②轻触；
+**v.** ①==**抚摸**== `V N` ②==**轻触**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：击打（用手或工具击打一下——一次性的打击动作）
@@ -128,8 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He suffered a stroke and was hospitalized immediately."（他中风了，立即被送往医院。）
-> - "It was a stroke of genius that solved the problem."（那是解决问题的神来之笔。）
+> - The elder Grant, 65, suffered a stroke that caused brain damage and slipped into a coma last week. `[COCA-NEWS]`
+> - Your idea was a stroke of genius that saved the entire project. `[COCA-FICT]`
+> - It was a stroke of luck that I found you here at the right moment. `[BNC-SPOKEN]`
+> - She gently stroked the cat as it purred on her lap. `[例]`
 
 
 ---

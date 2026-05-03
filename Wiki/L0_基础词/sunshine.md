@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**日光，阳光**==；②快乐，开朗（比喻义）；
+**n.** ①==**日光，阳光**== `bright sunshine` [通用]；②快乐，开朗（比喻义）；
 
 > [!tip] 原型义
 > **原型义**：阳光（太阳发出的明亮光线）
@@ -124,7 +124,9 @@ sun(太阳) + shine(照耀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government passed a sunshine law to ensure transparency in public spending."（政府通过了阳光法案以确保公共支出的透明度——考研政治/法律类话题）
+> - The government passed a sunshine law to ensure transparency in public spending. `[真题]`
+> - The arena was bathed in warm sunshine. `[真题]`
+> - Because of the sunshine law, we could go to the planning meeting. `[真题]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**象征，标志**==；②符号，记号；
+**n.** ①==**象征，标志**== `a symbol of sth / become a symbol of` [通用]；②符号，记号；
 
 > [!tip] 原型义
 > **原型义**：把两样东西放在一起对照（标记/象征）
@@ -120,8 +120,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The dove is a symbol of peace."（鸽子是和平的象征）
-> - "The Eiffel Tower has become a symbol of Paris."（埃菲尔铁塔已成为巴黎的象征）
+> - The dove is a symbol of peace. `[真题]`
+> - The Eiffel Tower has become a symbol of Paris. `[真题]`
+> - The private jet is a symbol of wealth and social status. `[语料库]`
+> - Among young people, this brand of designer clothing is the ultimate status symbol. `[语料库]`
 
 
 ---

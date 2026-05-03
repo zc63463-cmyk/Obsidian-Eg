@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**综合征**==；②==**（不良行为的）典型模式**==；
+**n.** ①==**综合征**== `\Down syndrome\` `\chronic fatigue syndrome\` [医学/专业]；②==**（不良行为的）典型模式**== `\impostor syndrome\` `\the empty nest syndrome\` [心理/日常]；
 
 > [!tip] 原型义
 > **原型义**：一起跑（多种症状同时出现/并发）
@@ -118,8 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many successful people suffer from impostor syndrome."（许多成功人士患有冒名顶替综合征）
-> - "The empty nest syndrome affects many parents when their children leave home."（空巢综合征影响着许多孩子离家的父母）
+> - Many successful people suffer from impostor syndrome. `[真题]`
+> - The empty nest syndrome affects many parents when their children leave home. `[真题]`
+> - With that came a lot of impostor syndrome and a massive confidence crisis. `[语料库]`
 
 
 ---

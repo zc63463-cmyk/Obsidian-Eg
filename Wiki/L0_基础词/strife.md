@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**冲突，纷争，争吵**==；②斗争，倾轧；
+**n.** ①==**冲突，纷争，争吵**== `N` ②==**斗争，倾轧**== `N`；
 
 > [!tip] 原型义
 > **原型义**：争吵（激烈的争斗和冲突——双方激烈对抗的状态）
@@ -123,8 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country was torn apart by civil strife."（这个国家被内乱撕裂。）
-> - "Years of strife had left the economy in ruins."（多年的纷争使经济沦为废墟。）
+> - Twenty years of civil strife have left the country's economy in ruins. `[COCA-ACAD]`
+> - Opposition leaders gave a warning that any such action could push the country towards civil strife. `[COCA-NEWS]`
+> - He led the union through several years of labor strife. `[COCA-NEWS]`
+> - Bitter strife between the two political factions has intensified in recent months. `[COCA-ACAD]`
 
 
 ---

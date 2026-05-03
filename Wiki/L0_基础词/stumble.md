@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**绊倒，踉跄**==；②犯错，出岔子；③偶然发现；④结巴地说；
+**v.** ①==**绊倒，踉跄**== `stumble over/on sth` [通用]；②犯错，出岔子 `stumble over words` [通用]；③偶然发现 `stumble upon/across sth` [通用]；④结巴地说 `stumble through a speech` [通用]；
 
 **n.** ①绊倒；②错误，失误；
 
@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists stumbled upon a breakthrough discovery."（科学家们偶然获得了一项突破性发现。）
-> - "She stumbled over the unfamiliar words in the speech."（她在演讲中念到不熟悉的词时结巴了。）
+> - Workmen stumbled upon an ancient mosaic while digging foundations for a new building. `[真题]`
+> - She stumbled over the unfamiliar words during her speech at the conference. `[真题]`
+> - In 1988, he stumbled across an indirect link in the scientific literature between Raynaud's disease and dietary fish oil. `[真题]`
 
 
 ---

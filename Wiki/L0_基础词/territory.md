@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**领土，版图**==；②==**领域，范围**==（知识、活动等）；③（动物）领地；
+**n.** ①==**领土，版图**== `national territory / occupied territory` [正式]；②==**领域，范围**== `unfamiliar territory` [通用]（知识、活动等）；③（动物）领地 `defend one's territory` [通用]；
 
 > [!tip] 原型义
 > **原型义**：土地（属于某人的区域）
@@ -132,8 +132,9 @@ terr-（土地，拉丁语 *terra*）+ -itory（名词后缀，表示场所/状�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country defended its territory against foreign invasion."（该国保卫领土抵御外来入侵。——常见历史/政治语料）
-> - "We are entering unfamiliar territory with this new technology."（我们正在通过这项新技术进入不熟悉的领域。——常见科技语料）
+> - "The islands are recognized by Spain as being Portuguese territory." `[真题]`
+> - "The UN is sending aid to the occupied territories." `[真题]`
+> - "Greenland is an autonomous territory in the Kingdom of Denmark." `[真题]`
 
 
 ---

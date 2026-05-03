@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**同情的，有同情心的**==；②==**赞同的，支持的**==；③和谐的；
+**adj.** ①==**同情的，有同情心的**== `be sympathetic to/towards sb` [通用]；②==**赞同的，支持的**== `be sympathetic to sth / a sympathetic hearing` [书面/新闻]；③和谐的；
 
 > [!tip] 原型义
 > **原型义**：一起感受（与他人同感）
@@ -121,8 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was very sympathetic to the plight of the refugees."（她对难民的困境深表同情）
-> - "He is sympathetic to the idea of reform."（他赞同改革的主张）
+> - She was very sympathetic to the plight of the refugees. `[真题]`
+> - He is sympathetic to the idea of reform. `[真题]`
+> - The current government was very sympathetic towards environmental issues. `[语料库]`
+> - He suffers from back trouble too, so he was very sympathetic about my problem. `[语料库]`
 
 
 ---

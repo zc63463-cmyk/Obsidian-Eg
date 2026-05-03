@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**质地，手感**==（物体表面的触感）；②==**纹理**==（木材、皮肤等的纹路）；③结构，本质；
+**n.** ①==**质地，手感**== `a smooth/rough texture` [通用]；②==**纹理**== `the texture of wood/skin` [通用]；③==**结构，本质**== `the texture of society/music` [正式]；
 
 > [!tip] 原型义
 > **原型义**：编织状态（编织后形成的质感/结构）
@@ -132,8 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Each brick also varies slightly in tone, texture and size."（每块砖在色调、质地与大小上也都略有不同。——查字词例句）
-> - "This cheese has a rich, creamy texture."（这种奶酪质地浓郁细腻。——常见美食语料）
+> - "Each brick also varies slightly in tone, texture and size." `[真题]`
+> - "This artificial fabric has the texture of silk." `[词典]`
+> - "The bread has a crumbly texture." `[词典]`
 
 
 ---

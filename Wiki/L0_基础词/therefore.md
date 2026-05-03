@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**因此，所以**==；②为此；
+**adv.** ①==**因此，所以**== `therefore, it is... / and therefore` [通用]；②==**为此**== `therefore, we must...` [正式]；
 
 > [!tip] 原型义
 > **原型义**：因为那个（由那个原因）
@@ -128,8 +128,9 @@ there(那个) + fore(前面，before 的变体)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Therefore, it is important to study humans in all their richness and diversity in a calm, systematic manner."（因此，以冷静、系统的方式研究人类的丰富性和多样性是非常重要的。——考研真题长难句）
-> - "He's scared of flying. Therefore he doesn't travel much by plane."（他害怕坐飞机。因此他不常乘飞机旅行。——剑桥词典例句）
+> - "Therefore, it is important to study humans in all their richness and diversity in a calm, systematic manner." `[真题]`
+> - "Doctors are short of time to listen and therefore tend to prescribe drugs whenever they can." `[词典]`
+> - "We are a moral, ethical people and therefore we do not approve of their activities." `[词典]`
 
 
 ---

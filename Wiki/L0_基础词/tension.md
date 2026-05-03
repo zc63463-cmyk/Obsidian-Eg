@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**紧张（关系/气氛）**==；②==**张力，拉力**==；③紧张局势；④（心理）紧张感；
+**n.** ①==**紧张（关系/气氛）**== `racial / international tension` [通用]；②==**张力，拉力**== `surface tension` [学术]；③紧张局势 `mounting tension` [通用]；④（心理）紧张感 `relieve tension` [通用]；
 
 > [!tip] 原型义
 > **原型义**：伸展到极限的状态（绷紧的状态）
@@ -137,8 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All this has the effect of building up unusual pressures and tensions within the community and consequently presents serious problems for the governments concerned."（所有这一切在社会内部造成了异常的压力和紧张，从而给有关政府带来了严重问题。——2000年考研翻译）
-> - "Anti-immigrant sentiment typically increases, as does conflict between races and classes."（反移民情绪通常会增加，种族和阶级之间的冲突也是如此。——2012年英语二Text 4）
+> - "All this has the effect of building up unusual pressures and tensions within the community and consequently presents serious problems for the governments concerned." `[真题]`
+> - "There are growing tensions between the two countries." `[真题]`
+> - "There is mounting tension along the border." `[真题]`
 
 
 ---

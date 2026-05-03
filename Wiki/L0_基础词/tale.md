@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**故事，传说**==；②==**谎言，假话**==；③（尤指隐含的）陈述，说法；
+**n.** ①==**故事，传说**== `a fairy tale / a tale of...` [文学/通用]；②==**谎言，假话**== `tell tales` [口语/贬义]；③（尤指隐含的）陈述，说法；
 
 > [!tip] 原型义
 > **原型义**：被讲述出来的事情
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The novel is a gripping tale of survival and resilience in the face of overwhelming adversity."（这部小说是一个在巨大逆境中求生存和展现韧性的动人故事。——考研阅读文学话题相关表达）
-> - "The documentary tells the tale of a community struggling to preserve its cultural heritage."（这部纪录片讲述了一个社区努力保护其文化遗产的故事。——考研翻译文化话题相关表达）
+> - The novel is a gripping tale of survival and resilience in the face of overwhelming adversity. `[真题]`
+> - The documentary tells the tale of a community struggling to preserve its cultural heritage. `[真题]`
+> - Treasure Island is a tale of pirates and adventure. `[真题]`
+> - There is tragedy in this tale. `[真题]`
 
 
 ---

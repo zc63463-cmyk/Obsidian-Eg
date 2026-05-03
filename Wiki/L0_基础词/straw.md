@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**稻草，麦秆**==；②吸管；③（稻草制的）草帽；
-**adj.** 稻草色的，淡黄色的；
+**n.** ①==**稻草，麦秆**== `N` ②==**吸管**== `N` ③==**（稻草制的）草帽**== `N`；
+**adj.** ==**稻草色的，淡黄色的**== `adj N`；
 
 > [!tip] 原型义
 > **原型义**：稻草，麦秆（谷物收割后留下的干燥茎秆）
@@ -126,8 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tax increase was the last straw for many small businesses."（税收增加成为许多小企业的最后一根稻草。）
-> - "She was left grasping at straws after losing her job."（失业后她只能抓住救命稻草。）
+> - Losing my job was bad enough, but being evicted was the final straw. `[COCA-ACAD]`
+> - This was the last straw for me, and now it's time to take up arms. `[COCA-NEWS]`
+> - He was clutching at straws, trying to find any excuse to justify his absence. `[例]`
+> - She drank her juice through a straw and stared out the window. `[例]`
 
 
 ---
