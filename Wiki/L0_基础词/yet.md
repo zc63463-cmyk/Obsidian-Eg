@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**还，尚，仍然**==（用于否定句和疑问句）；②==**已经**==（用于疑问句，期待肯定回答）；
-③==**然而，但是**==（表示转折）；
-**conj.** ④==**然而，可是**==（连接两个分句）
+**adv.** ①==**还，尚，仍然**== `not V yet`（用于否定句和疑问句）；②==**已经**== `V yet?`（用于疑问句，期待肯定回答）；
+③==**然而，但是**== `adj, yet adj`（表示转折）；
+**conj.** ④==**然而，可是**== `clause, yet clause`（连接两个分句）；
 
 > [!tip] 原型义
 > **原型义**：到目前为止（古英语 *giet* "仍然、还"，原始日耳曼语 \*jutuz）
@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The long-term effects of the new technology on employment have yet to be fully understood by researchers."（这项新技术对就业的长期影响，研究人员尚未完全理解——考研阅读科技话题相关表达，yet 作"尚未"）
-> - "Artificial intelligence has made remarkable progress, yet it still lacks the capacity for genuine emotional understanding."（人工智能取得了显著进步，然而它仍然缺乏真正的情感理解能力——考研阅读科技话题相关表达，yet 作"然而"）
+> - The long-term effects of the new technology on employment have **yet** to be fully understood by researchers. `[例]`
+> - Artificial intelligence has made remarkable progress, **yet** it still lacks the capacity for genuine emotional understanding. `[例]`
+> - The best is **yet** to come, and there is still much room for improvement in the system. `[例]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**热情，热忱**==（对某事物的强烈热情和奉献精神）；②==**狂热**==（有时带有负面含义）
+**n.** ①==**热情，热忱**== `N` / `with N`（对某事物的强烈热情和奉献精神）；②==**狂热**== `N`（有时带有负面含义）；
 
 > [!tip] 原型义
 > **原型义**：沸腾的热度（希腊语 *zelos* "热、沸腾、嫉妒"，来自 *zeo* "沸腾"，PIE 词根 \*yes- "沸腾"）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The young teacher approached her work with missionary zeal, dedicating countless hours to helping underprivileged students."（这位年轻教师以传教士般的热忱对待工作，投入无数时间帮助贫困学生——考研阅读教育话题相关表达）
-> - "Reformers pursued their agenda with zeal, but their efforts were often met with resistance from entrenched interests."（改革者以极大的热情推进他们的议程，但他们的努力常常遭到既得利益者的抵制——考研阅读政治话题相关表达）
+> - The young teacher approached her work with missionary **zeal**, dedicating countless hours to helping underprivileged students. `[例]`
+> - Reformers pursued their agenda with **zeal**, but their efforts were often met with resistance from entrenched interests. `[例]`
+> - His **zeal** for environmental conservation led him to found a nonprofit organization dedicated to reforestation. `[例]`
 
 
 ---

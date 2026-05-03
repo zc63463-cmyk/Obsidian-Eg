@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**大喊，叫喊**==（因恐惧、愤怒或激动而大声喊叫）；②==**厉声说**==；
-**n.** ③==**喊叫声，尖叫声**==
+**v.** ①==**大喊，叫喊**== `V` / `V for N`（因恐惧、愤怒或激动而大声喊叫）；②==**厉声说**== `V at N`；
+**n.** ③==**喊叫声，尖叫声**== `N`；
 
 > [!tip] 原型义
 > **原型义**：发出尖锐的叫声（古英语 giellan/gellan "尖叫"，原始日耳曼语 \*gel-，PIE 词根 \*ghel- "呼叫"）
@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The frustrated crowd began to yell slogans as the speaker failed to address their concerns."（当演讲者未能回应他们的关切时，沮丧的人群开始高喊口号——考研阅读社会话题相关表达）
-> - "Parents who constantly yell at their children may inadvertently cause long-term psychological damage."（经常对孩子大喊大叫的父母可能会无意中造成长期的心理伤害——考研阅读教育话题相关表达）
+> - The frustrated crowd began to **yell** slogans as the speaker failed to address their concerns. `[例]`
+> - Parents who constantly **yell** at their children may inadvertently cause long-term psychological damage. `[例]`
+> - She let out a loud **yell** when she saw the spider crawling across her desk. `[例]`
 
 
 ---
