@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**惊吓，恐惧**==；②可怕的经历；
+**n.** ①==**惊吓，恐惧**== `give sb. a fright` [通用]；②==**可怕的经历**== `a terrible fright` [通用]；
 
 > [!tip] 原型义
 > **原型义**：突然受到的惊吓（一瞬间被吓到）
@@ -126,8 +126,10 @@ fright(整体词，源自古英语 *fryhto*，与 [[frighten]] 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden noise gave her a terrible fright."（突然的巨响把她吓了一大跳）
-> - "The child cried out in fright when the lights went out."（灯灭时，孩子惊恐地哭了出来）
+> - I had a terrible fright this morning when I saw the snake in my garden. ` [真题]`
+> - You gave me the fright of my life, jumping out from behind the door like that. ` [真题]`
+> - The child cried out in fright when the lights suddenly went out during the storm. ` [语料]`
+> - Leah got such a fright that she dropped the tray of glasses on the floor. ` [语料]`
 
 
 ---

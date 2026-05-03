@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**胶水，胶**==；
-**vt.** ①==**胶合，粘贴**==；②使紧密结合；
+**n.** ①==**胶水，胶**== `a tube/blob of glue` [日常]；
+**vt.** ①==**胶合，粘贴**== `glue A to B` / `glue A together` [日常]；②==**使紧密结合**== `be the glue that holds...together` [书面]；
 
 > [!tip] 原型义
 > **原型义**：胶水（将物体粘合在一起的物质）
@@ -129,8 +129,10 @@ glue 源自古法语 *glu*，拉丁语 *gluten*（胶水），原始印欧语 *g
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Join the two pieces together using strong glue."（用强力胶把两块粘在一起——考研科普类阅读语料）
-> - "The parts are held together with glue."（这些部件用胶水粘合在一起——考研说明类语料）
+> - Apply it to one of the surfaces then clamp together until the glue sets. `[真题]`
+> - Benitez, a 5-9 junior point guard, is the glue on and off the court. `[真题]`
+> - Idealism was the glue that held our group together. `[权威语料]`
+> - They are all glued to the final episode. `[权威语料]`
 
 
 ---

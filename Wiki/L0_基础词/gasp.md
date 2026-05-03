@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**喘气，喘息**==；②==**气喘吁吁地说**==；③==**渴望**==；
-**n.** ①==**喘气，喘息**==；②==**深吸气**==；
+**v.** ①==**喘气，喘息**== `gasp for breath/air` [文学]；②==**气喘吁吁地说**== `gasp out a few words` [文学]；③==**渴望**== `gasp for water/freedom` [文学]；
+**n.** ①==**喘气，喘息**== `a gasp of horror/surprise` [文学]；②==**深吸气**== `give a gasp` [日常]；
 
 > [!tip] 原型义
 > **原型义**：大口喘气（14世纪后期，源自中古英语 *gaspen* "张大嘴；吐气"，可能来自古诺尔斯语 *geispa* "打哈欠、喘气"，词源不确定）
@@ -128,8 +128,9 @@ gasp 为基础词汇，词源不确定。可能来自古诺尔斯语 *geispa*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She gasped in horror when she saw the extent of the damage."（当她看到损坏的程度时，惊恐地倒吸了一口气。——考研相关语料，描述情感反应）
-> - "The runner was gasping for breath after the 100-meter sprint."（短跑运动员在百米冲刺后气喘吁吁。——考研相关语料，描述运动场景）
+> - She gasped in horror when she saw the extent of the damage. `[语料库]`
+> - The runner was gasping for breath after the 100-metre sprint. `[语料库]`
+> - There was a collective gasp from the crowd as he scored the winning goal. `[Collins]`
 
 
 ---

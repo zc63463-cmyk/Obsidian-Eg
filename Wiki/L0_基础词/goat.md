@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**山羊**==；②替罪羊（scapegoat 的简称）；
-**v.** ①==**充当替罪羊**==（口语）；
+**n.** ①==**山羊**== `a herd of goats` [中性]；②==**替罪羊**== `make a goat of sb.` `be the goat` [贬义]；
+**v.** ①==**充当替罪羊**== `goat sb.` [口语]；
 
 > [!tip] 原型义
 > **原型义**：山羊（古英语 *gat*，与德语 *Geiss* 同源）
@@ -121,8 +121,9 @@ goat 为基础词汇，无词根词缀拆分。源自古英语 *gat*，与德语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Later civilizations would value the skilled blacksmith's labour in a nail even more than the raw material."（后来的文明社会会更加重视熟练铁匠在一枚钉子上所投入的劳动，甚至超过原材料本身的价值。——历年考研英语阅读选择真题，涉及文明与劳动价值）
-> - "Separate the sheep from the goats" is a biblical idiom widely used in English literature and academic writing.（"区分绵羊和山羊"是英语文学和学术写作中广泛使用的圣经习语。——英语习语百科）
+> - Jefferson's three errors made him the goat of last night's game. `[真题]`
+> - The manager used Tom as a scapegoat for the project's failure, even though it was a team effort. `[权威词典]`
+> - There's no doubt he's the GOAT, but someone's going to beat him one day. `[权威词典]`
 
 
 ---

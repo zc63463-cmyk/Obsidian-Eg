@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**坦率的，直率的**==；②真诚的；
-**v.** ①在（信件）上盖免费邮戳；②免费邮寄；
+**adj.** ①==**坦率的，直率的**== `adj about N`；②真诚的 `adj N`；
+**v.** ①在（信件）上盖免费邮戳 `V N`；②免费邮寄 `V N`；
 
 > [!tip] 原型义
 > **原型义**：自由人说话——坦率的
@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To be frank, I don't think this plan will work."（坦白说，我认为这个计划行不通。）
-> - "A frank discussion is more productive than polite evasion."（坦率的讨论比礼貌的回避更有成效。）
-> - to be frank / frankly speaking 是考研翻译和写作中的高频表达
+> - To be perfectly frank, I don't think you are as well qualified as some of the other candidates. `[COCA-SPOKEN]`
+> - There followed a frank exchange of views. `[COCA-NEWS]`
+> - I thought it was a frank and courageous speech. `[COCA-NEWS]`
 
 ---
 

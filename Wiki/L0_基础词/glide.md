@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**滑行，滑动**==；②滑翔；③悄悄地移动；
-**n.** ①滑行，滑翔；
+**vi.** ①==**滑行，滑动**== `glide across/on/over + n.` [通用]；②==**滑翔**== `glide through the air` [通用]；③==**悄悄地移动**== `glide into + n.` [文学]；
+**n.** ①==**滑行，滑翔**== `a smooth glide` [通用]；
 
 > [!tip] 原型义
 > **原型义**：滑行（平滑地移动，不费力）
@@ -130,8 +130,9 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She gently glided her hand along the smooth edge of the podium."（她轻轻将手沿着讲台光滑的边缘滑过去——考研文学类阅读语料）
-> - "The boat glided silently across the lake."（小船无声地在湖面上滑行——考研描写类语料）
+> - "The swans glided over the surface of the lake." `[语料库]`
+> - "We watched the skiers glide down the slope." `[语料库]`
+> - "The pilot glided the plane to a safe landing after the engine failed." `[语料库]`
 
 
 ---

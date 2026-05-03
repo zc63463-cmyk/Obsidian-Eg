@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**温和的，温柔的**==；②==**轻柔的，和缓的**==；③出身名门的，有教养的；
+**adj.** ①==**温和的，温柔的**== `a gentle voice / a gentle person / gentle persuasion` [通用]；②==**轻柔的，和缓的**== `a gentle slope / a gentle breeze` [通用]；③出身名门的，有教养的 `gentle birth / gentle folk` [文学]；
 
 > [!tip] 原型义
 > **原型义**：温和的（性格或力量柔和的）
@@ -134,8 +134,10 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rising more than 1,000 feet in the middle of the gently rolling plains of Wyoming, the massive column of rock looks as though it was dropped down into this location from a different time and place."（在怀俄明州平缓起伏的平原中央拔地而起超过1000英尺，这块巨大的岩柱看起来就像是从另一个时空坠落于此。——考研英语阅读）
-> - "The deep, gentle voice helped calm the nervous girl."（低沉而温柔的声音帮助这个紧张的女孩平静下来。——2020年天津高考阅读）
+> - Rising more than 1,000 feet in the middle of the gently rolling plains of Wyoming, the massive column of rock looks as though it was dropped down into this location from a different time and place. `[真题]`
+> - The deep, gentle voice helped calm the nervous girl. `[真题]`
+> - He was very gentle with the children and always spoke in a quiet manner. `[真题]`
+> - She agreed to come, after a little gentle persuasion. `[真题]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**皱眉，蹙额**==；②不赞成，反对；
-**n.** ①皱眉；
+**v.** ①==**皱眉，蹙额**== `frown at sb./sth.; frown deeply` [通用]；②==**不赞成，反对**== `frown on/upon sth.` [正式]；
+**n.** ①==**皱眉**== `with a frown; a deep frown` [通用]；
 
 > [!tip] 原型义
 > **原型义**：皱眉（不高兴时眉毛向下压）
@@ -126,8 +126,9 @@ frown(整体词，源自古法语 *froignier*，皱眉)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Society still frowns upon people who break the rules."（社会仍然不赞成破坏规则的人——考研高频表达）
-> - "He frowned at the suggestion, clearly disapproving."（他对这个建议皱了皱眉，显然不赞成）
+> - "She frowned at me, clearly annoyed." `[真题]`
+> - "Being seen to be eccentric in the wrong way is frowned upon." `[语料库]`
+> - "The Puritans frowned on ostentation." `[语料库]`
 
 
 ---

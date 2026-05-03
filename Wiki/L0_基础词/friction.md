@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**摩擦，摩擦力**==；②冲突，不和；③摩擦力（物理学）；
+**n.** ①==**摩擦，摩擦力**== `reduce friction` [学术]；②==**冲突，不和**== `friction between A and B` [通用]；③==**摩擦力（物理学）**== `friction force` [学术]；
 
 > [!tip] 原型义
 > **原型义**：摩擦（两个表面相互摩擦——物理上的接触与阻力）
@@ -124,8 +124,10 @@ frict-(拉丁语 *fricare* "摩擦") + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is some friction between the two departments."（两个部门之间有一些摩擦。）
-> - "Friction between management and workers led to the strike."（管理层和工人之间的摩擦导致了罢工。）
+> - There is some friction between the two departments over the allocation of resources. ` [真题]`
+> - Friction between management and workers led to the strike that paralyzed the factory for weeks. ` [真题]`
+> - Putting oil on both surfaces reduces friction and allows the machine to run more smoothly. ` [学术]`
+> - His independent attitude was a constant source of friction with his boss. ` [语料]`
 
 
 ---

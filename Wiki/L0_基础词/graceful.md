@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**优美的，优雅的**==（指动作、姿态）；②==**得体的，适度的**==；
+**adj.** ①==**优美的，优雅的**== `a graceful dancer; graceful movements` [书面]；②==**得体的，适度的**== `a graceful apology; a graceful exit` [书面]；
 
 > [!tip] 原型义
 > **原型义**：充满优雅的（grace 优雅 + -ful 充满……的）
@@ -125,8 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a lovely and gracious woman with a graceful manner."（她是一位可爱而和蔼的女人，举止优雅。——剑桥词典例句，graceful 与 gracious 同现）
-> - "He could have withdrawn it in a more graceful way."（他本可以以更得体的方式撤回那句话。——剑桥词典例句）
+> - "She is a lovely and gracious woman with a graceful manner." `[剑桥词典]`
+> - "He could have withdrawn it in a more graceful way." `[剑桥词典]`
+> - "There was no graceful way to say no to their offer." `[韦氏词典]`
+> - "With a silent, graceful dive, she disappeared beneath the surface of the lake." `[剑桥词典]`
 
 
 ---

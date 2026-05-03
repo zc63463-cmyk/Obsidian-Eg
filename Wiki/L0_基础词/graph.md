@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**图表，曲线图**==；②==**网络图，关系图**==；
+**n.** ①==**图表，曲线图**== `a bar/line graph; plot a graph` [书面]；②==**网络图，关系图**== `a social network graph; a knowledge graph` [书面]；
 
 > [!tip] 原型义
 > **原型义**：用线条和符号记录信息
@@ -130,8 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The graph shows how house prices have risen since the 1980s."（此图表明了自20世纪80年代以来房价上涨的情况——常见考研图表作文语料）
-> - "We have noted from the graph that there is a wide gap between the top ten universities both of China and of the world."（我们从图表中注意到中国前十大学与世界前十大学之间存在巨大差距——2012年考研英语二大作文相关）
+> - "The graph shows how house prices have risen since the 1980s." `[真题]`
+> - "We have noted from the graph that there is a wide gap between the top ten universities both of China and of the world." `[真题]`
+> - "The line graph compares the average consumption of fish and three kinds of meat in a European country from 1979 to 2004." `[雅思真题]`
+> - "As can be seen from the graph, the two curves show the fluctuation of the price." `[雅思写作]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一帮，一群，一伙**==；②==**（犯罪）团伙，帮派**==；③（工具等的）一套，一组；
-**v.** ①==**结伙，联合**==；②==**使成群**==；
+**n.** ①==**一帮，一群，一伙**== `a gang of kids/workers` [日常]；②==**（犯罪）团伙，帮派**== `gang violence/member` [新闻]；③（工具等的）一套，一组；
+**v.** ①==**结伙，联合**== `gang up on sb.` [日常]；②==**使成群**==；
 
 > [!tip] 原型义
 > **原型义**：一群结伴行走的人（源自古英语 *gang* "行进，旅程，道路"，古诺尔斯语 *gangr* "一群人，一组"，原始日耳曼语 *\*gangaz*）
@@ -129,8 +129,9 @@ gang 为基础词汇，无词根词缀拆分。源自古英语 *gang*（行进�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The gang was known for its involvement in drug trafficking and violent crimes."（这个帮派因参与毒品交易和暴力犯罪而臭名昭著。——考研相关语料，讨论犯罪与社会问题）
-> - "Don't let them gang up on you; stand your ground."（别让他们联合起来对付你，坚持你的立场。——常见搭配用法）
+> - The gang was known for its involvement in drug trafficking and violent crimes. `[语料库]`
+> - Don't let them gang up on you; stand your ground. `[Collins]`
+> - There were always gangs of kids hanging around the mall. `[Longman]`
 
 
 ---

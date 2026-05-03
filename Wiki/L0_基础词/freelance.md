@@ -25,10 +25,10 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**自由职业的**==；
-**adv.** ①作为自由职业者；
-**n.** ①自由职业者；
-**v.** ①从事自由职业；
+**adj.** ①==**自由职业的**== `adj N`；
+**adv.** ①作为自由职业者 `work V`；
+**n.** ①自由职业者 `a N`；
+**v.** ①从事自由职业 `V`；
 
 > [!tip] 原型义
 > **原型义**：自由的中世纪雇佣兵
@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The rise of the gig economy has made freelancing an increasingly common career choice."（零工经济的兴起使自由职业成为越来越普遍的职业选择。）
-> - "Many journalists choose to work freelance to maintain editorial independence."（许多记者选择做自由撰稿人以保持编辑独立性。）
-> - freelance 常出现在经济、就业、社会变化类阅读话题中
+> - When people ask where he works, he says he is a freelance writer. `[COCA-NEWS]`
+> - She freelanced for years while her children were in school. `[COCA-NEWS]`
+> - Companies should take this opportunity to employ freelance workers where it makes sense. `[COCA-ACAD]`
 
 ---
 

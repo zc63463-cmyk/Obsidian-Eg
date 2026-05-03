@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**鬼，幽灵**==；②==**一丝痕迹**==；③替人代笔者；
-**v.** ①==**替人代笔**==；②悄然消失（ghost on someone）；
+**n.** ①==**鬼，幽灵**== `\not a ghost of a chance` `[通用]`；②==**一丝痕迹**== `\a ghost of a smile` `[文学]`；③替人代笔者；
+**v.** ①==**替人代笔**== `\ghost a book for sb` `[正式]`；②悄然消失（ghost on someone）；
 
 > [!tip] 原型义
 > **原型义**：鬼，幽灵（死者的灵魂）
@@ -138,8 +138,9 @@ ghost 源自古英语 *gāst*（灵魂、气息），与德语 *Geist*（精神�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Around 80 percent of celebrity books are ghosted."（大约80%的名人书籍是由人代笔的。——考研英语阅读）
-> - "The ghost appeared in the old house at midnight."（幽灵在午夜时分出现在那座老房子里。——考研英语阅读）
+> - Around 80 percent of celebrity books are ghosted. `[真题]`
+> - My old car finally gave up the ghost on the highway. `[真题]`
+> - She used a ghost writer for her memoir. `[真题]`
 
 
 ---

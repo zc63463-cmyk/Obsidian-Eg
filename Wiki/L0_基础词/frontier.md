@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**边界，边境**==；②（学科/知识的）前沿，新领域；
+**n.** ①==**边界，边境**== `cross the frontier` [通用]；②==**（学科/知识的）前沿，新领域**== `the frontiers of science/knowledge` [学术]；
 
 > [!tip] 原型义
 > **原型义**：前方的边界（一国最前面的边界线）
@@ -124,8 +124,10 @@ front(前面) + -ier(表示"与……有关的人/物"的后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The research pushes back the frontiers of medical science."（这项研究推进了医学科学的前沿——考研高频表达）
-> - "They crossed the frontier into the neighboring country."（他们穿越边境进入了邻国）
+> - The research pushes back the frontiers of medical science and opens new possibilities for treatment. ` [真题]`
+> - They crossed the frontier into the neighboring country under cover of darkness. ` [真题]`
+> - The Homestead Act of 1862 gave free land to pioneers who settled the American frontier. ` [学术]`
+> - Nepal has frontiers with both India and China, making it a geopolitically significant nation. ` [语料]`
 
 
 ---

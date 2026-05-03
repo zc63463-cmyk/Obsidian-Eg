@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**车库**==；②==**汽车修理厂**==；
-**v.** ①==**把（车）送入车库**==；②==**把（某物）搁置不用**==；
+**n.** ①==**车库**== `park in the garage` [日常]；②==**汽车修理厂**== `take the car to the garage` [日常]；
+**v.** ①==**把（车）送入车库**== `garage the car` [日常]；②==**把（某物）搁置不用**== `garage a project` [比喻]；
 
 > [!tip] 原型义
 > **原型义**：保护/遮蔽之所（源自法语 *garage* "车辆避护所"，动词 *garer* "保护、遮蔽、停泊"，古法语 *garir* "照顾、保护、拯救"，法兰克语 *\*waron* "守卫"）
@@ -127,8 +127,9 @@ garage 源自法兰克语（日耳曼语系）*\*waron* "守卫、保护"，经�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She pulled the car into the garage and turned off the engine."（她把车开进车库，关掉了引擎。——考研高频表达，日常生活场景）
-> - "Many families hold garage sales to get rid of unwanted items."（许多家庭举办车库旧货出售来处理不需要的物品。——考研相关语料，讨论消费文化）
+> - She pulled the car into the garage and turned off the engine. `[语料库]`
+> - Many families hold garage sales to get rid of unwanted items. `[语料库]`
+> - Only 30 percent of Americans actually park their cars in the garage. `[新闻语料]`
 
 
 ---

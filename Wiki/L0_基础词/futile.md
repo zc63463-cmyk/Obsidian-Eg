@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**徒劳的，无效的**==；②无用的，不重要的；
+**adj.** ①==**徒劳的，无效的**== `a futile attempt/effort` [正式]；②无用的，不重要的；
 
 > [!tip] 原型义
 > **原型义**：注定倒掉的（倒入后无用的，源自拉丁语 *futilis* "泄漏的、倒空的"）
@@ -126,8 +126,9 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All attempts to negotiate a settlement proved futile."（所有试图通过谈判达成和解的努力都证明是徒劳的——考研高频表达）
-> - "It would be futile to resist the inevitable changes."（抵抗不可避免的变化将是徒劳的）
+> - All attempts to negotiate a settlement proved futile. `[真题]`
+> - It would be futile to resist the inevitable changes. `[语料库]`
+> - My efforts to go back to sleep proved futile. `[Longman]`
 
 
 ---

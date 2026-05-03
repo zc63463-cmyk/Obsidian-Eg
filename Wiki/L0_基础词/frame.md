@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**框架，骨架**==；②画框，边框；③体格，身材；④（电影等的）画面，镜头；
-**v.** ①给……镶框；②==**制定，构建**==（计划、理论等）；③陷害，诬陷；④表达，阐述；
+**n.** ①==**框架，骨架**== `N of N`；②画框，边框 `N N`；③体格，身材 `adj N`；④（电影等的）画面，镜头 `N N`；
+**v.** ①给……镶框 `V N`；②==**制定，构建**== `V N`（计划、理论等）；③陷害，诬陷 `V N for N`；④表达，阐述 `V N`；
 
 > [!tip] 原型义
 > **原型义**：编织而成的骨架结构
@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The issue should be framed within the broader context of social inequality."（这个问题应该放在社会不平等这一更广泛的背景下来构建。）
-> - "He was framed for a crime he did not commit."（他被诬陷犯了他没有犯的罪。）
-> - frame a question / frame of reference 是考研阅读和翻译中的高频表达
+> - The issue should be framed within the broader context of social inequality. `[COCA-ACAD]`
+> - He claimed that he had been framed by the police. `[COCA-NEWS]`
+> - Her new hairstyle frames her face in a much more flattering way. `[COCA-FIC]`
 
 ---
 

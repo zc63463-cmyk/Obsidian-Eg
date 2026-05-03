@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**发光，发出柔和的光**==；②（脸）发红，发热；③洋溢，充满（热情）；
-**n.** ①==**柔和的光，光辉**==；②红润的面色；③热情，兴奋；
+**v.** ①==**发光，发出柔和的光**== `glow in the dark / glow softly` [通用]；②==**（脸）发红，发热**== `cheeks glow with health` [文学]；③==**洋溢，充满（热情）**== `glow with pride/excitement` [通用]；
+**n.** ①==**柔和的光，光辉**== `the glow of the lamp/sunset` [通用]；②==**红润的面色**== `a healthy glow` [通用]；③==**热情，兴奋**== `a glow of pride/satisfaction` [通用]；
 
 > [!tip] 原型义
 > **原型义**：柔和持续地发光（gl- 词根表示"光"，不刺眼、持续的光）
@@ -131,8 +131,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They fill these tubes with gases that glow when electrified."（他们在这些管子里充满通电后会发光的气体——2018年6月四级真题阅读Section A，glow 描述气体的柔和发光）
-> - "When night falls, red and blue and other colors cast a hazy glow over a city lit up by tens of thousands of neon signs."（夜幕降临，红色、蓝色和其他颜色在成千上万个霓虹灯照亮的城市上空投下一层朦胧的光辉——考研相关阅读，glow 描述城市的灯光氛围）
+> - "The night lantern glowed softly in the darkness." `[语料库]`
+> - "The rising sun casts a golden glow over the fields." `[语料库]`
+> - "He felt a glow of pride in what she had accomplished." `[语料库]`
 
 
 ---

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**霜，冰霜**==；②严寒天气；③（蛋糕上的）糖霜；
-**v.** ①结霜；②（在蛋糕上）撒糖霜；
+**n.** ①==**霜，冰霜**== `a late/early frost; frost damage` [通用]；②==**严寒天气**== `three nights of hard frost` [通用]；③（蛋糕上的）糖霜；
+**v.** ①==**结霜**== `the window has frosted over` [通用]；②（在蛋糕上）撒糖霜；
 
 > [!tip] 原型义
 > **原型义**：白色的冰晶（寒冷时凝结在物体表面的冰晶）
@@ -132,8 +132,9 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Early frost can cause severe damage to crops."（早霜会对农作物造成严重损害——考研高频表达）
-> - "The grass was covered with frost on the cold morning."（寒冷的早晨，草地上覆盖着霜）
+> - "There is always the danger of a late frost killing the buds." `[真题]`
+> - "These plants are particularly susceptible to frost." `[真题]`
+> - "The lawn was covered in frost on the cold morning." `[语料库]`
 
 
 ---

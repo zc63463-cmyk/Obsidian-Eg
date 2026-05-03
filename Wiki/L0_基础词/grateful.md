@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**感激的，感谢的**==；②==**令人愉快的，令人欣慰的**==；
+**adj.** ①==**感激的，感谢的**== `be grateful to sb. for sth.; be grateful that...` [书面/口语]；②==**令人愉快的，令人欣慰的**== `a grateful relief` [书面]；
 
 > [!tip] 原型义
 > **原型义**：因收到恩惠而感到愉快
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After the earthquake we felt grateful to be alive."（地震后我们大难不死，真是应该感谢上苍——剑桥词典例句）
-> - "I'm just grateful that I'm not still working for him."（真是谢天谢地，我现在不再为他工作了——剑桥词典例句）
+> - "After the earthquake we felt grateful to be alive." `[剑桥词典]`
+> - "I'm just grateful that I'm not still working for him." `[剑桥词典]`
+> - "If you could get that report finished by Thursday, I'd be very grateful." `[剑桥词典]`
+> - "She looks forward to getting well and is grateful for the support of her family and friends." `[CNN]`
 
 
 ---

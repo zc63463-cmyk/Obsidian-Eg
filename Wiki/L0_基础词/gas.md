@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**气体**==；②==**煤气，天然气**==；③==**汽油**==（美式）；④==**毒气**==；
-**v.** ①==**毒死**==；②==**加油**==（口语）；
+**n.** ①==**气体**== `greenhouse gas` [学术]；②==**煤气，天然气**== `turn on the gas` [日常]；③==**汽油**== `run out of gas` [美式]；④==**毒气**== `tear gas` [新闻]；
+**v.** ①==**毒死**== `gas the prisoners` [历史]；②==**加油**== `gas up the car` [美式口语]；
 
 > [!tip] 原型义
 > **原型义**：虚空/混沌（1650年代，源自荷兰语 *gas*，可能来自希腊语 *khaos* "虚空、混沌"，荷兰语将希腊字母 chi 发音为类似 g 的音，因此 *khaos* 变成了 *gas*。由荷兰化学家 Van Helmont 于17世纪创造）
@@ -133,8 +133,9 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The burning of fossil fuels has significantly increased greenhouse gas emissions."（化石燃料的燃烧显著增加了温室气体的排放。——考研英语真题高频话题，讨论气候变化）
-> - "When the car ran out of gas on the highway, we had to walk to the nearest gas station."（当车在高速公路上没油时，我们不得不走到最近的加油站。——考研相关语料）
+> - The burning of fossil fuels has significantly increased greenhouse gas emissions. `[真题]`
+> - When the car ran out of gas on the highway, we had to walk to the nearest gas station. `[语料库]`
+> - Air is a mixture of gases, primarily nitrogen and oxygen. `[Oxford]`
 
 
 ---

@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**特许经营权**==；②加盟店；③选举权，公民权（尤指投票权）；
-**v.** ①授予特许经营权；
+**n.** ①==**特许经营权**== `N N`；②加盟店 `adj N`；③选举权，公民权（尤指投票权） `the N`；
+**v.** ①授予特许经营权 `V N`；
 
 > [!tip] 原型义
 > **原型义**：赋予自由（投票权/经营权）
@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Women gained the franchise in many Western countries in the early 20th century."（20世纪初，许多西方国家的妇女获得了选举权。）
-> - "The company plans to expand through franchising rather than opening company-owned stores."（该公司计划通过特许经营而非开设直营店来扩张。）
-> - franchise 常出现在商业、政治、历史类阅读话题中
+> - The 1867 Reform Act extended the franchise to much of the male working class. `[COCA-ACAD]`
+> - The company expanded rapidly during the 1980s by means of franchises. `[COCA-NEWS]`
+> - Each store is owned by an individual who pays a fee for the franchise. `[COCA-ACAD]`
 
 ---
 

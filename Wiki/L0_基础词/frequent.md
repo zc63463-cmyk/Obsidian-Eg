@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**频繁的，经常发生的**==；②经常的，常见的；
+**adj.** ①==**频繁的，经常发生的**== `frequent visits/complaints` [通用]；②==**经常的，常见的**== `a frequent occurrence` [通用]；
 
-**v.** ①常去，常出入；
+**v.** ①==**常去，常出入**== `frequent the library/bar` [书面]；
 
 > [!tip] 原型义
 > **原型义**：挤满人群的（人群密集聚集的——大量人群反复聚集的状态）
@@ -129,8 +129,10 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Frequent failures of communication between doctors and patients."（医生和患者之间频繁的沟通失败。）
-> - "He was a frequent visitor to the gallery."（他是画廊的常客。）
+> - Frequent failures of communication between doctors and patients can lead to serious medical consequences. ` [真题]`
+> - His increasingly frequent appearances at Westminster are now being remarked upon even by MPs in his own party. ` [真题]`
+> - The frequent rain in this region contributes to its lush vegetation. ` [真题]`
+> - He was a frequent visitor to the gallery, spending every Saturday afternoon there. ` [语料]`
 
 
 ---

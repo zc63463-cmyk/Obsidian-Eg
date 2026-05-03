@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**欺诈，诈骗**==；②骗子，行骗者；③伪劣品，赝品；
+**n.** ①==**欺诈，诈骗**== `N N`；②骗子，行骗者 `a N`；③伪劣品，赝品 `a N`；
 
 > [!tip] 原型义
 > **原型义**：欺骗性的行为
@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was charged with accounting fraud."（该公司被控会计欺诈。）
-> - "Online fraud has become one of the most common forms of crime."（网络诈骗已成为最常见的犯罪形式之一。）
-> - fraud 是考研法律、经济、社会类阅读的高频词
+> - He was convicted of tax fraud and sentenced to three years in prison. `[COCA-NEWS]`
+> - She was a psychic who was later revealed to be a fraud. `[COCA-NEWS]`
+> - Insurance fraud ranges from completely fabricated claims to inflation of legitimate claims. `[COCA-ACAD]`
 
 ---
 

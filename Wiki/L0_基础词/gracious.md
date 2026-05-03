@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**亲切的，和蔼的**==；②==**宽厚的，仁慈的**==；③（用于感叹语）天哪，老天；
-**int.** ①==**天哪**==（感叹语，表示惊讶）；
+**adj.** ①==**亲切的，和蔼的**== `a gracious host; a gracious smile` [书面]；②==**宽厚的，仁慈的**== `gracious in defeat; gracious enough to do sth.` [书面]；③（用于感叹语）天哪，老天；
+**int.** ①==**天哪**== `Good gracious!` [口语]；
 
 > [!tip] 原型义
 > **原型义**：具有恩典特质的（grace 恩惠/恩典 + -ious 具有……特质的）
@@ -129,8 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Queen greeted the crowd with a gracious smile."（女王带着亲切的微笑向人群致意。——新东方考研词典例句）
-> - "She is a lovely and gracious woman."（她是一位可爱而和蔼的女人。——剑桥词典例句）
+> - "The Queen greeted the crowd with a gracious smile." `[真题]`
+> - "She is a lovely and gracious woman." `[剑桥词典]`
+> - "Simon was gracious in defeat, but he couldn't mask the disappointment he felt." `[WordHippo语料库]`
+> - "Good gracious, that was close!" `[剑桥词典]`
 
 
 ---

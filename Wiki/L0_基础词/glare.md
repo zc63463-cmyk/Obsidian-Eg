@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**怒目而视，瞪眼**==；②发出刺眼的光；
-**n.** ①==**怒视，瞪眼**==；②刺眼的强光；③公众关注（the glare of publicity）；
+**v.** ①==**怒目而视，瞪眼**== `V at N` [正式]；②==**发出刺眼的光**== `V` [通用]；
+**n.** ①==**怒视，瞪眼**== `N` [通用]；②==**刺眼的强光**== `N` [通用]；③==**公众关注**== `the N of N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：强烈刺眼的光（gl- 词根表示"光"）
@@ -130,8 +130,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Living in a glare of our making, we have cut ourselves off from our evolutionary and cultural heritage—the light of the stars and the rhythms of day and night."（生活在我们自己制造的强光中，我们切断了与我们的进化和文化遗产——星光和昼夜节律的联系——2015年高考英语阅读，glare 指人造强光污染）
-> - "The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long."（这里所呈现的社会疗法最明显的缺陷是它不能长期有效——考研相关阅读，glaring 引申为"明显的"）
+> - "Living in a glare of our making, we have cut ourselves off from our evolutionary and cultural heritage—the light of the stars and the rhythms of day and night." `[真题]`
+> - "The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long." `[真题]`
+> - "He glared at me for a few seconds and nodded, the fierce expression still on his face." `[真题]`
 
 
 ---

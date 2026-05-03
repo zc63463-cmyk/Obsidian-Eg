@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**性别**==；②==**（语法中的）性**==（如阳性、阴性、中性）；
-**v.** ①==**产生（某种结果）**==（罕用）；
+**n.** ①==**性别**== `gender equality / gender gap / gender discrimination` [通用]；②==**（语法中的）性**== `masculine/feminine gender / grammatical gender` [专业]（如阳性、阴性、中性）；
+**v.** ①==**产生（某种结果）**== `gender a result` [罕用]（罕用）；
 
 > [!tip] 原型义
 > **原型义**：种类，类别（约1390年，源自中古英语 *gendre*，古法语 *gendre/gendre*，拉丁语 *genus*（属格 *generis*）"种族、种类、类别、性别"，原始印欧语词根 *\*gene-* "生育、产生"。与 [[gen]] 词根同源）
@@ -129,8 +129,9 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite significant progress, the gender pay gap remains a persistent issue in many industries."（尽管取得了显著进展，性别薪酬差距在许多行业中仍然是一个持续存在的问题。——考研英语真题高频话题，讨论性别平等）
-> - "Gender discrimination in the workplace is not only unethical but also illegal in many countries."（职场中的性别歧视不仅不道德，在许多国家也是违法的。——考研相关语料，讨论法律与社会公平）
+> - Despite significant progress, the gender pay gap remains a persistent issue in many industries. `[真题]`
+> - Gender discrimination in the workplace is not only unethical but also illegal in many countries. `[真题]`
+> - Our lab is committed to gender equality in the sciences and promotes men and women to senior positions in equal numbers. `[真题]`
 
 
 ---

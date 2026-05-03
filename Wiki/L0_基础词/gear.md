@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**齿轮**==；②==**装备，用具**==；③==**（汽车的）挡位**==；
-**v.** ①==**调整，使适应**==；②==**换挡**==；
+**n.** ①==**齿轮**== `gear wheel / gear ratio` [通用]；②==**装备，用具**== `camping gear / fishing gear` [通用]；③==**（汽车的）挡位**== `shift gear / first gear / top gear` [通用]；
+**v.** ①==**调整，使适应**== `gear up (for) / gear towards` [通用]；②==**换挡**== `shift into high/low gear` [通用]；
 
 > [!tip] 原型义
 > **原型义**：装备，行头（约1200年，源自古诺尔斯语 *gørvi*（复数 *gørvar*）"服装、装备"，与 *gørr* "熟练的、有能力的"和 *gøra/gørva* "制作、准备"有关）
@@ -130,8 +130,9 @@ gear 源自古诺尔斯语 *gørvi*（服装、装备），与 *gøra/gørva*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is gearing up for the launch of its new product line."（公司正在为新产品线的发布做准备。——考研英语真题相关话题，讨论商业策略）
-> - "Education should be geared towards the needs of the modern economy."（教育应该面向现代经济的需要进行调整。——考研相关语料，讨论教育改革）
+> - The company is gearing up for the launch of its new product line. `[真题]`
+> - Education should be geared towards the needs of the modern economy. `[真题]`
+> - My car has four gears and the engine runs smoothly in top gear. `[真题]`
 
 
 ---

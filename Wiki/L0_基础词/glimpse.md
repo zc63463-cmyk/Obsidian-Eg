@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**瞥见，看一眼**==；
-**n.** ①==**一瞥，瞥见**==；②短暂的感受/体会；
+**v.** ①==**瞥见，看一眼**== `catch/get a glimpse of sb./sth.` [书面/口语]；
+**n.** ①==**一瞥，瞥见**== `catch a glimpse of sb./sth.` [通用]；②==**短暂的感受/体会**== `a glimpse into sth.` [书面]；
 
 > [!tip] 原型义
 > **原型义**：短暂地看到（gl- 词根表示"光/视觉"，目光像光一样一闪而过）
@@ -130,8 +130,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He caught a glimpse of her in the crowd before she disappeared."（他在人群中瞥见了她，然后她就消失了——考研阅读常见人物描写句式，catch a glimpse of 为高频考点）
-> - "Fans crowded the street outside waiting for a glimpse of their hero."（粉丝们挤满了外面的街道，等待着看一眼他们的偶像——英语阅读常见表达，glimpse 指短暂的看见）
+> - "I only got a glimpse of him as we drove by." `[真题]`
+> - "Crowds shouted and pushed to get a glimpse of their hero." `[真题]`
+> - "For a glimpse into football's immediate future, you have to go back in time." `[真题]`
 
 
 ---

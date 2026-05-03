@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**忧郁的，沮丧的**==；②阴暗的，昏暗的；③前景暗淡的；
+**adj.** ①==**忧郁的，沮丧的**== `feel gloomy / a gloomy expression` [通用]；②==**阴暗的，昏暗的**== `a gloomy day/room` [通用]；③==**前景暗淡的**== `gloomy prospects/picture` [正式]；
 
 > [!tip] 原型义
 > **原型义**：阴暗的（光线不足，让人感到压抑）
@@ -131,8 +131,9 @@ gloom(阴暗) + -y(充满……的) → 充满阴暗的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But such gloominess is misplaced."（但这样的沮丧是放错了地方的——2013年考研英语一Text 3）
-> - "We sat in gloomy silence."（我们郁郁不乐默不作声地坐着——考研文学类阅读语料）
+> - "But such gloominess is misplaced." `[真题]`
+> - "It was a wet and gloomy day." `[语料库]`
+> - "The economic situation of the western industrialized countries is gloomy." `[语料库]`
 
 
 ---

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**新鲜的**==；②新的，新近的；③清新的，凉爽的；④精力充沛的；⑤无经验的，新手的；
+**adj.** ①==**新鲜的**== `fresh food/air/water` [通用]；②==**新的，新近的**== `fresh evidence/start/approach` [通用]；③==**清新的，凉爽的**== `fresh breeze/morning` [文学]；④==**精力充沛的**== `feel fresh` [通用]；⑤==**无经验的，新手的**== `fresh graduate` [通用]；
 
 > [!tip] 原型义
 > **原型义**：新近制作的（刚刚做好的——刚从自然中获取的）
@@ -134,8 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery provided fresh evidence for the theory."（这一发现为该理论提供了新的证据。）
-> - "Students should approach each problem with a fresh mind."（学生应该以全新的心态来处理每个问题。）
+> - Fresh evidence has emerged that casts doubt on the men's conviction. ` [真题]`
+> - We need to take a fresh look at the problem rather than relying on old assumptions. ` [真题]`
+> - His book offers some fresh insights into the events leading up to the war. ` [真题]`
+> - The chef only uses fresh ingredients in her recipes to ensure the best quality. ` [语料]`
 
 
 ---

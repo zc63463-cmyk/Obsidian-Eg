@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**细菌，病菌**==；②==**萌芽，起源**==；
+**n.** ①==**细菌，病菌**== `kill germs; spread germs` [通用/学术]；②==**萌芽，起源**== `the germ of an idea` [学术/文学]；
 **v.** ①萌芽；
 
 > [!tip] 原型义
@@ -132,8 +132,10 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He asked whether there were not electrical means for pasteurizing milk, for getting rid of the germs in milk."（他问是否有电气方法可以对牛奶进行巴氏杀菌，消灭牛奶中的细菌。——考研英语阅读）
-> - "The hands are the most important means of the transfer of dangerous germs to food."（双手是将危险细菌传播到食物的最重要的途径。——考研英语阅读）
+> - "He asked whether there were not electrical means for pasteurizing milk, for getting rid of the germs in milk." `[真题]`
+> - "The hands are the most important means of the transfer of dangerous germs to food." `[真题]`
+> - "He found the germ of an idea in an old newspaper." `[权威语料]`
+> - "Chlorine is widely used to kill germs in swimming pools and water treatment systems." `[权威语料]`
 
 
 ---

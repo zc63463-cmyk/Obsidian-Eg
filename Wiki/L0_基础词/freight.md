@@ -24,8 +24,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**货运，货物**==；②运费；
-**v.** ①运输，运送（货物）；
+**n.** ①==**货运，货物**== `N N`；②运费 `N N`；
+**v.** ①运输，运送（货物） `V N`；
 
 > [!tip] 原型义
 > **原型义**：用船运输的货物
@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cost of air freight has risen significantly due to fuel price increases."（由于燃料价格上涨，航空货运成本大幅上升。）
-> - "The railroad company mainly handles freight rather than passengers."（这家铁路公司主要经营货运而非客运。）
-> - freight 常出现在经济、贸易、物流类阅读话题中
+> - The ship carries both freight and passengers. `[COCA-ACAD]`
+> - That predicted savings will come as a result of switching from air freight to sea freight. `[COCA-NEWS]`
+> - Third quarter freight expense remained flat as compared to the same period last year. `[COCA-NEWS]`
 
 ---
 

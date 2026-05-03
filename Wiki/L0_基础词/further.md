@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**更进一步地，更远地**==；②此外，而且；
-**adj.** ①==**进一步的，更多的**==；
-**v.** ①==**促进，推进**==；
+**adv.** ①==**更进一步地，更远地**== `go further; further discussion` [通用]；②此外，而且；
+**adj.** ①==**进一步的，更多的**== `further information; further research` [通用]；
+**v.** ①==**促进，推进**== `further the cause; further one's career` [正式]；
 
 > [!tip] 原型义
 > **原型义**：更远地（在空间或程度上向前推进）
@@ -131,8 +131,9 @@ forth（向前）+ -er(比较级后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to conduct further research before drawing any conclusions."（我们需要进行进一步的研究才能得出结论——考研高频表达）
-> - "The government should take further measures to reduce pollution."（政府应采取进一步措施减少污染）
+> - "We need to conduct further research before drawing any conclusions." `[真题]`
+> - "The government should take further measures to reduce pollution." `[真题]`
+> - "She always arrives on time; furthermore, her work is always excellent." `[语料库]`
 
 
 ---

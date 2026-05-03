@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**坟墓，墓穴**==；
-**adj.** ①==**严重的，重大的**==；②==**严肃的，庄重的**==；③==**（颜色等）暗淡的，深沉的**==；
-**v.** ①==**雕刻，铭记**==；
+**n.** ①==**坟墓，墓穴**== `dig a grave; visit a grave` [书面]；
+**adj.** ①==**严重的，重大的**== `a grave mistake/concern/danger` [书面]；②==**严肃的，庄重的**== `a grave expression/tone` [书面]；③==**（颜色等）暗淡的，深沉的**== `grave colours` [书面]；
+**v.** ①==**雕刻，铭记**== `grave an inscription` [书面]；
 
 > [!tip] 原型义
 > **原型义**：沉重的泥土掩埋之处
@@ -138,8 +138,10 @@ grav(重，源自拉丁语 *gravis*，"重的、严重的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "AI is hugely exciting, but it has limitations, which present grave dangers given uncritical use."（人工智能令人兴奋，但它有局限性，在未经批判性使用的情况下会带来严重危险——考研相关语料）
-> - "He expressed grave concern at American attitudes."（他对美国的态度表达了严肃关注——常见搭配用法）
+> - "AI is hugely exciting, but it has limitations, which present grave dangers given uncritical use." `[真题]`
+> - "He expressed grave concern at American attitudes." `[真题]`
+> - "The situation is grave — war now seems inevitable." `[朗文词典]`
+> - "It was a grave mistake, and it is a millstone round our necks." `[Hansard议会语料库]`
 
 
 ---

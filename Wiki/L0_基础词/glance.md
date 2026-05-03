@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**瞥一眼，扫视**==；②（光）掠过，擦过；
-**n.** ①==**一瞥，扫视**==；
+**v.** ①==**瞥一眼，扫视**== `V at/through/over N`；②（光）掠过，擦过 `V off N`；
+**n.** ①==**一瞥，扫视**== `take a glance at N`；
 
 > [!tip] 原型义
 > **原型义**：快速看一眼（gl- 词根表示"光/视觉"，目光像光一样快速闪过）
@@ -132,8 +132,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He glanced up from his book as I passed."（我走过的时候，正埋头读书的他抬头瞥了我一眼——剑桥词典经典例句，常出现于考研阅读理解中描述人物动作）
-> - "At first glance I thought it was a dog (but I was mistaken)."（乍一看我还以为是一条狗呢（但是我看走眼了）——考研高频表达，at first glance 为常考短语）
+> - "He glanced up from his book as I passed." `[真题]`
+> - "I only had time to glance through the newspaper headlines." `[真题]`
+> - "The sunlight glanced off the surface of the lake." `[词典]`
 
 
 ---

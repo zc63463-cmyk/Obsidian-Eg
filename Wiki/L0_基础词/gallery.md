@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**画廊，美术馆**==；②走廊，长廊；③（剧场、议院等的）顶层座位，旁听席；
+**n.** ①==**画廊，美术馆**== `art gallery` [日常]；②走廊，长廊；③（剧场、议院等的）顶层座位，旁听席；
 
 > [!tip] 原型义
 > **原型义**：长廊（用于展示艺术品的通道空间）
@@ -134,8 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Imagine being able to remember every painting, on every wall, in every gallery space, between nearly 40 countries," he says.（"想象一下，在近40个国家之间，人们能够记住每一幅画、每一面墙上、每一个画廊空间，"他说。——四级阅读）
-> - Franca Falletti, director of the Accademia Gallery in Florence where the statue is housed, said the cleaning would be finished by late May.（佛罗伦萨的学院艺术馆主任弗兰卡·法莱蒂说，清洁工作将在五月底完成。——六级阅读）
+> - Imagine being able to remember every painting, on every wall, in every gallery space, between nearly 40 countries, he says. `[四级阅读]`
+> - Franca Falletti, director of the Accademia Gallery in Florence where the statue is housed, said the cleaning would be finished by late May. `[六级阅读]`
+> - The National Portrait Gallery has reopened after its major refurbishment. `[Cambridge]`
 
 
 ---

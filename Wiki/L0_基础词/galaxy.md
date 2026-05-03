@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**星系，银河系**==；②一群（杰出或显赫的人物）；③银河；
+**n.** ①==**星系，银河系**== `a distant galaxy` [学术]；②一群（杰出或显赫的人物）；③银河；
 
 > [!tip] 原型义
 > **原型义**：银河（夜空中乳白色的光带）
@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Thanks to science, we know that we live on a rock orbiting a mediocre star in a mediocre galaxy.（多亏了科学，我们才知道自己生活在一颗围绕平庸恒星运转的岩石上，而这颗恒星又处在一个平庸的星系中。——《卫报》）
-> - The Galaxy consists of 100 billion stars.（银河系由一千亿颗恒星组成。——天文学语料）
+> - Thanks to science, we know that we live on a rock orbiting a mediocre star in a mediocre galaxy. `[卫报]`
+> - The Galaxy consists of 100 billion stars. `[学术语料]`
+> - Present tonight at the long-awaited opening of this film are a whole galaxy of stars from the acting and musical professions. `[Cambridge]`
 
 
 ---
