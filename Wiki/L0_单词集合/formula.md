@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**公式；方程式**==；②配方；③方案，准则；④（pl. formulae）惯用语句
+**n.** ①==**公式；方程式**== `a N`；②配方 `N of N`；③方案，准则 `a N`；④（pl. formulae）惯用语句 `N of N`
 
 > [!tip] 原型义
 > **原型义**：公式、固定形式（a mathematical relationship or rule expressed in symbols）

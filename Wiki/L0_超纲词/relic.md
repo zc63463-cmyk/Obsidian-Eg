@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**遗物，遗迹**==；②圣物（宗教）；③旧时代的残余；
+**n.** ①==**遗物，遗迹**== `adj N` `N of N`；②圣物（宗教）`holy N` `religious N`；③旧时代的残余 `a N of N` `survive as a N`；
 
 > [!tip] 原型义
 > **原型义**：遗物（从过去遗留下来的东西）
@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - During the dig , the archaeological team found some relics from the Stone Age. `[例]`
+>   - 中译：在发掘过程中，考古队发现了一些石器时代的遗迹。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relic
 > - The country's employment system is a relic of the 1960s when jobs were scarce. `[例]`
+>   - 中译：该国的就业制度是20世纪60年代工作稀缺时期遗留下来的产物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relic
 
 ## 主动产出
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**奉承，谄媚**==；②==**使高兴，使感到荣幸**==（I'm flattered）；③==**（照片等）比真人好看**==（the photo doesn't flatter you）；
+**v.** ①==**奉承，谄媚**== `V N`；②==**使高兴，使感到荣幸**==（I'm flattered） `V prep N`；③==**（照片等）比真人好看**==（the photo doesn't flatter you） `V N`；
 
 > [!tip] 原型义
 > **原型义**：用甜言蜜语使人感到舒服（像轻轻拍打一样）

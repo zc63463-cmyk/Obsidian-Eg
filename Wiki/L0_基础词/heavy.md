@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**重的，沉重的**==；②==**大量的，剧烈的**==（rain/traffic/smoker）；③==**沉重的，忧郁的**==（heart/mood）；④繁重的（work/task）；
-**n.** ①重物；②==**大人物，要人**==（the heavies）；
+**adj.** ①==**重的，沉重的**== `adj N`；②==**大量的，剧烈的**==（rain/traffic/smoker） `be adj`；③==**沉重的，忧郁的**==（heart/mood） `adj N`；④繁重的（work/task） `be adj`；
+**n.** ①重物 `a N`；②==**大人物，要人**==（the heavies） `N of N`；
 
 > [!tip] 原型义
 > **原型义**：重的（古英语 *hefig*，"重的"，与 heave "举起"同源——需要用力举起的东西就是重的）

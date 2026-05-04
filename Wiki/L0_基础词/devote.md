@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**奉献，献身**==（devote oneself to）；②==**把……专用于**==（devote time/energy/money to）；③==**致力于**==；
+**v.** ①==**奉献，献身**==（devote oneself to） `V N`；②==**把……专用于**==（devote time/energy/money to） `V prep N`；③==**致力于**== `V N`；
 
 > [!tip] 原型义
 > **原型义**：通过誓言将自我奉献出去

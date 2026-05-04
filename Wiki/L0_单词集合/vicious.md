@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**恶毒的；凶残的**==；②恶性的，严重的（如 vicious circle 恶性循环）；③剧烈的，猛烈的
+**adj.** ①==**恶毒的；凶残的**== `adj N`；②恶性的，严重的（如 vicious circle 恶性循环） `be adj`；③剧烈的，猛烈的 `adj N`
 
 > [!tip] 原型义
 > **原型义**：充满恶意的、恶毒的（having or showing a desire to cause hurt）

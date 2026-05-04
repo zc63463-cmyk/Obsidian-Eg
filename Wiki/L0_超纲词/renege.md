@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**食言，违约**==；②否认，拒绝承认；
+**v.** ①==**食言，违约**== `V on N` `V on a promise/deal` [formal]；②否认，拒绝承认 `V on one's N` [formal]；
 
 > [!tip] 原型义
 > **原型义**：食言（否认自己的承诺）
@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - If you renege on the deal now, I'll fight you in the courts. `[例]`
+>   - 中译：如果你现在撕毁协议，我会让你上法庭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/renege
 > - He reneged on his offer. `[例]`
+>   - 中译：他违背了自己的承诺。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/renege
 
 ## 主动产出
 

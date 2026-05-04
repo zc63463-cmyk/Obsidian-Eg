@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**躺，平躺**==（lie-lay-lain）；②位于，存在于；③在于；④==**说谎**==（lie-lied-lied）；
+**v.** ①==**躺，平躺**==（lie-lay-lain） `V N`；②位于，存在于 `V prep N`；③在于 `V N`；④==**说谎**==（lie-lied-lied） `V prep N`；
 **n.** ①谎言，假话；②位置，栖息处
 
 > [!tip] 原型义

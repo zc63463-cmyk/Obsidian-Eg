@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**漂亮的，俏丽的**==；②相当大的，相当好的（a pretty sum）；
+**adj.** ①==**漂亮的，俏丽的**== `adj N`；②相当大的，相当好的（a pretty sum） `be adj`；
 **adv.** ①相当，颇（pretty good）；②
 
 > [!tip] 原型义

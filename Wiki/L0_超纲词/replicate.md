@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**复制，复现**==；②（生物）复制，自我复制；
-**n.** ①复制品；
+**v.** ①==**复制，复现**== `V N` `V the results/study` [formal]；②（生物）复制，自我复制 `V oneself` `DNA N`；
+**n.** ①复制品 `a adj N`；
 
 > [!tip] 原型义
 > **原型义**：复制（精确地再做一份）
@@ -132,7 +132,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Researchers tried many times to replicate the original experiment. `[例]`
+>   - 中译：研究人员多次尝试复现最初的实验。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/replicate
 > - Chromosomes replicate before cells divide and multiply. `[例]`
+>   - 中译：染色体在细胞分裂和增殖之前进行复制。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/replicate
 
 ## 主动产出
 

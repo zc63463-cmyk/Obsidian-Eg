@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**悬挂，垂下**==；②==**悬挂（某人）处死**==（hanged）；③==**挂断（电话）**==；④逗留，徘徊（hang about/around）；
+**v.** ①==**悬挂，垂下**== `V N`；②==**悬挂（某人）处死**==（hanged） `V prep N`；③==**挂断（电话）**== `V N`；④逗留，徘徊（hang about/around） `V prep N`；
 **n.** ①悬挂的方式；②（the hang of）诀窍，方法；
 
 > [!tip] 原型义

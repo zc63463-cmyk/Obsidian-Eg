@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**反应堆**==（尤指核反应堆）；②反应者；
+**n.** ①==**反应堆**== `nuclear reactor` [通用] `reactor core` [学术]；②==**反应者**== `a quick reactor` [通用]；
 
 > [!tip] 原型义
 > **原型义**：反应装置（发生反应的容器/设备）
@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Bags of sand were dropped onto the reactor from the open doors of helicopters (analysts now think this did more harm than good). `[例]`
+>   - 中译：沙袋从直升机的舱门投向反应堆（分析人士现在认为这样做弊大于利）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reactor
 > - Second, the reactors can run 90% of the time, whereas windmills can only generate power when wind speeds are right. `[例]`
+>   - 中译：其次，反应堆90%的时间都能运行，而风力发电机只有在风速合适时才能发电。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reactor
 
 ## 主动产出
 

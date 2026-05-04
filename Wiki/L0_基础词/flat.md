@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**平坦的，扁平的**==；②==**（饮料等）走了气的**==（flat beer）；③==**单调的，乏味的**==（a flat performance）；④==**断然的，绝对的**==（a flat refusal）；⑤==**（价格等）固定的**==（a flat rate）；
-**n.** ①==**公寓**==（英式英语，= apartment）；② **平坦的部分**；
-**adv.** ①==**平直地**==；②==**恰好地，完全地**==（flat broke）；
+**adj.** ①==**平坦的，扁平的**== `adj N`；②==**（饮料等）走了气的**==（flat beer） `be adj`；③==**单调的，乏味的**==（a flat performance） `adj N`；④==**断然的，绝对的**==（a flat refusal） `be adj`；⑤==**（价格等）固定的**==（a flat rate） `adj N`；
+**n.** ①==**公寓**==（英式英语，= apartment） `a N`；② **平坦的部分** `N of N`；
+**adv.** ①==**平直地**== `V N`；②==**恰好地，完全地**==（flat broke） `V prep N`；
 
 > [!tip] 原型义
 > **原型义**：平坦的、没有起伏的表面

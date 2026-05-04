@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**技术，科技**==（technology 的缩写）；②==**技术公司/行业**==；③==**技术学院**==（technical college 的缩写）；④==**技术员**==（technician 的缩写，军事用语）；
-**adj.** ①==**技术的，数字技术的**==（作为复合词后缀，如 fintech, biotech）；
+**n.** ①==**技术，科技**==（technology 的缩写） `a N`；②==**技术公司/行业**== `N of N`；③==**技术学院**==（technical college 的缩写） `a N`；④==**技术员**==（technician 的缩写，军事用语） `N of N`；
+**adj.** ①==**技术的，数字技术的**==（作为复合词后缀，如 fintech, biotech） `adj N`；
 
 > [!tip] 原型义
 > **原型义**：技术的缩写形式（technology 的简写，指代技术/科技领域）

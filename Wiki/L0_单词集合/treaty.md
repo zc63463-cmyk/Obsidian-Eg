@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**条约；协议**==；②协商，谈判
+**n.** ①==**条约；协议**== `a N`；②协商，谈判 `N of N`
 
 > [!tip] 原型义
 > **原型义**：条约、协议（formal agreement between nations）

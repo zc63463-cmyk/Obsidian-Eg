@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**重新定义，重新界定**==；②重新考虑，重新认识；
+**v.** ①==**重新定义，重新界定**== `redefine N` [通用] `redefine the concept of N` [正式]；②==**重新考虑，重新认识**== `redefine what it means to V` [通用]；
 
 > [!tip] 原型义
 > **原型义**：重新定义（再次划定界限）
@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Social networking has redefined the meaning of " friend ". `[例]`
+>   - 中译：社交网络重新定义了"朋友"的含义。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/redefine
 > - We want to redefine the way people look at mental illness. `[例]`
+>   - 中译：我们想重新定义人们看待精神疾病的方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redefine
 
 ## 主动产出
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**红杉**==；②红杉木；
+**n.** ①==**红杉**== `adj N` `N forest`；②红杉木 `N lumber` `N furniture`；
 
 > [!tip] 原型义
 > **原型义**：红杉（木材呈红色的巨大树木）
@@ -118,7 +118,11 @@ red（红色的）+ wood（木头）
 
 > [!example]- 语料
 > - The hikers rested under a towering redwood near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道旁一棵高耸的红杉下休息。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redwood
 > - The cabin was built from durable redwood gathered in the region. `[例]`
+>   - 中译：这间小屋是用该地区采集的耐久红杉木建造的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redwood
 
 ## 主动产出
 

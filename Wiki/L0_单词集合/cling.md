@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**紧紧抓住；依附**==；②坚持，墨守（cling to）；③黏着，紧贴
+**vi.** ①==**紧紧抓住；依附**== `V`；②坚持，墨守（cling to） `V prep N`；③黏着，紧贴 `V`
 
 > [!tip] 原型义
 > **原型义**：紧紧抓住、依附（to hold on tightly to someone or something）

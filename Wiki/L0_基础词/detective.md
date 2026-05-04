@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**侦探，警探**==；②==**私人侦探**==（private detective）；
-**adj.** ①==**侦探的，侦查的**==（a detective story/novel）；
+**n.** ①==**侦探，警探**== `a N`；②==**私人侦探**==（private detective） `N of N`；
+**adj.** ①==**侦探的，侦查的**==（a detective story/novel） `adj N`；
 
 > [!tip] 原型义
 > **原型义**：揭开覆盖物、发现隐藏真相的人

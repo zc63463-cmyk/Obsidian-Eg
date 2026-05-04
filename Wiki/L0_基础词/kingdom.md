@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**王国**==；②领域，界（the kingdom of science 科学界）；
+**n.** ①==**王国**== `a N`；②领域，界（the kingdom of science 科学界） `N of N`；
 
 > [!tip] 原型义
 > **原型义**：国王的领地（由国王统治的疆域）

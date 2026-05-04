@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**受害者；牺牲品**==；②（宗教）祭品
+**n.** ①==**受害者；牺牲品**== `a N`；②（宗教）祭品 `N of N`
 
 > [!tip] 原型义
 > **原型义**：牺牲品、祭品（a person or thing that is harmed, injured, or killed）

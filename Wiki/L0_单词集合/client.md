@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**客户；委托人**==；②（计算机）客户端
+**n.** ①==**客户；委托人**== `a N`；②（计算机）客户端 `N of N`
 
 > [!tip] 原型义
 > **原型义**：委托人、受保护者（a person who uses the services of a professional）

@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**系统的；有体系的**== ; ②==**有条理的；有计划的**== ; ③==**全面的**==（systematic error）
+**adj.** ①==**系统的 `adj N`；有体系的**== ; ②==**有条理的 `be adj`；有计划的**== ; ③==**全面的**==（systematic error） `adj N`
 
 > [!tip] 原型义
 > **原型义**：有系统的 → 按体系进行的（done according to a system）

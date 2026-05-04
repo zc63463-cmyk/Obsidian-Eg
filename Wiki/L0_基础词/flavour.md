@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**味道，风味**==；②==**特色，特点**==（the flavour of the region）；③==**韵味，情调**==；
-**v.** ①==**给……调味**==（flavour with）；
+**n.** ①==**味道，风味**== `a N`；②==**特色，特点**==（the flavour of the region） `N of N`；③==**韵味，情调**== `a N`；
+**v.** ①==**给……调味**==（flavour with） `V N`；
 
 > [!tip] 原型义
 > **原型义**：吹来的气味/味道

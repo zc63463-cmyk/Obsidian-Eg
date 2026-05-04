@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**抢夺，攫取**==；②==**匆忙间抓住，一把抓起**==；③ snatch at **试图抓住，伸手去抓**；
-**n.** ①==**抢夺，攫取**==；② **片段，点滴**（snatches of conversation）；③ **短暂的瞬间**（a snatch of sleep）；
+**v.** ①==**抢夺，攫取**== `V N`；②==**匆忙间抓住，一把抓起**== `V prep N`；③ snatch at **试图抓住，伸手去抓** `V N`；
+**n.** ①==**抢夺，攫取**== `a N`；② **片段，点滴**（snatches of conversation） `N of N`；③ **短暂的瞬间**（a snatch of sleep） `a N`；
 
 > [!tip] 原型义
 > **原型义**：突然快速地抓取/抢夺

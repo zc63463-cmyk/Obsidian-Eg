@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**形成；构成**==；②形成物，结构；③（军队等）队形，排列
+**n.** ①==**形成；构成**== `a N`；②形成物，结构 `N of N`；③（军队等）队形，排列 `a N`
 
 > [!tip] 原型义
 > **原型义**：形成的过程或结果（the process of forming or the thing that is formed）

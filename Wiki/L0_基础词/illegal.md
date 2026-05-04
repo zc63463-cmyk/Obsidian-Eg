@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**非法的，违法的**==；②==**违规的**==（illegal parking）；
-**n.** ①==**非法移民**==（口语，the illegals）；
+**adj.** ①==**非法的，违法的**== `adj N`；②==**违规的**==（illegal parking） `be adj`；
+**n.** ①==**非法移民**==（口语，the illegals） `a N`；
 
 > [!tip] 原型义
 > **原型义**：非法的，违法的（源自拉丁语 *illegalis*，il- = 不 + legalis = 合法的）

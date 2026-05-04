@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**重新排序，重新安排**==；②再次订购；
-**n.** ①重新排序；②再次订购；
+**v.** ①==**重新排序，重新安排**== `V N` `V priorities`；②再次订购 `V N` `V supplies`；
+**n.** ①重新排序 `V N`；②再次订购 `a N`；
 
 > [!tip] 原型义
 > **原型义**：重新排序（再次安排顺序）
@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The country is trying to reorder its public finances. `[例]`
+>   - 中译：该国正试图重新安排其公共财政。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reorder
 > - Whole industries and markets are being radically reordered by the electronic revolution. `[例]`
+>   - 中译：整个行业和市场正被电子革命彻底重新排序。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reorder
 
 ## 主动产出
 

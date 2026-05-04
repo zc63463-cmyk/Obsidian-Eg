@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**稀有，罕见**==；②稀有的事物/人；③罕见的事物/人；
+**n.** ①==**稀有，罕见**== `due to its rarity` [通用]；②==**稀有的事物/人**== `a true rarity` [通用] `a rarity among N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：稀有（不常出现的事物）
@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Men who do the cooking are something of a rarity. `[例]`
+>   - 中译：做饭的男人算是相当少见的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rarity
 > - Diamonds are valuable because of their rarity. `[例]`
+>   - 中译：钻石因其稀有而珍贵。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rarity
 
 ## 主动产出
 

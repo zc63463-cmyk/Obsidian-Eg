@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**重新评估，重新评价**==；②重新考虑；
+**v.** ①==**重新评估，重新评价**== `re-evaluate N` [通用] `re-evaluate how/what` [正式]；②==**重新考虑**== `need to re-evaluate N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：重新评估（再次计算价值）
@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Companies that pay schooling expenses for the children of managers are reevaluating this expense. `[例]`
+>   - 中译：为管理人员子女支付学费的公司正在重新评估这项开支。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reevaluate
 > - We constantly re-evaluate the market to make sure we have best offerings for our customers. `[例]`
+>   - 中译：我们不断重新评估市场，以确保为客户提供最优质的产品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/re-evaluate
 
 ## 主动产出
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**津贴，补贴**==；②==**零用钱**==；③==**限额**==；④考虑到，允许（make allowance for）；
+**n.** ①==**津贴，补贴**== `an N for N`；②==**零用钱**== `make an N for N`；③==**限额**== `a monthly N`；④考虑到，允许（make allowance for） `an N for N`；
 
 > [!tip] 原型义
 > **原型义**：被允许给的东西（官方允许领取的金额）

@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**壁橱；衣橱**==；②私室，密室
+**n.** ①==**壁橱；衣橱**== `a N`；②私室，密室 `N of N`
 
-**adj.** ①==**私密的；暗中的**==（如 closet supporter 暗中支持者）
+**adj.** ①==**私密的 `adj N`；暗中的**==（如 closet supporter 暗中支持者）
 
 > [!tip] 原型义
 > **原型义**：关上的小房间、壁橱（a small room used for storage）

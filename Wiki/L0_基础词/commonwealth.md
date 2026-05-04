@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**联邦，共同体**==；②（the Commonwealth）英联邦；
+**n.** ①==**联邦，共同体**== `a N`；②（the Commonwealth）英联邦 `N of N`；
 
 > [!tip] 原型义
 > **原型义**：为了共同福祉而联合的团体

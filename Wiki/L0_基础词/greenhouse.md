@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**温室，暖房**==；②（喻）温室效应的（greenhouse effect）；
+**n.** ①==**温室，暖房**== `a N`；②（喻）温室效应的（greenhouse effect） `N of N`；
 **adj.** ①温室的；
 
 > [!tip] 原型义

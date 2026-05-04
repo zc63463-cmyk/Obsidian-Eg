@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**相对地，比较地**==；②相当程度上；
+**adv.** ①==**相对地，比较地**== `adv adj` `adv speaking`；②相当程度上 `adv few/small` `adv little`；
 
 > [!tip] 原型义
 > **原型义**：相对地（与其他事物比较而言）
@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He's a relatively good squash player. `[例]`
+>   - 中译：他算是一个相当不错的壁球选手。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relatively
 > - There was relatively little violence. `[例]`
+>   - 中译：暴力事件相对较少。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relatively
 
 ## 主动产出
 

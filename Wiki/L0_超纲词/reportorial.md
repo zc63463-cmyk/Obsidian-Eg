@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**新闻报道的，记者的**==；②记者风格的，纪实性的；
+**adj.** ①==**新闻报道的，记者的**== `adj style` `adj duties`；②记者风格的，纪实性的 `a adj account` `adj prose`；
 
 > [!tip] 原型义
 > **原型义**：把信息带回来（报道行为）
@@ -123,7 +123,11 @@ re-(回，反复) + [[port|port]](携带，运送) + -ori- + -al(形容词后缀
 
 > [!example]- 语料
 > - The researchers proposed a reportorial solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个基于新闻报道视角的解决方案来应对这一问题。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/reportorial
 > - The company adopted a reportorial approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种纪实性的方法来提高效率。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/reportorial
 
 ## 主动产出
 

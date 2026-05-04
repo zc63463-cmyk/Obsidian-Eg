@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**省的，地方的**==；②==**眼光狭隘的，乡土气的**==；
-**n.** ③==**外省人，地方居民**==；
+**adj.** ①==**省的，地方的**== `provincial government` [通用] `provincial capital` [正式]；②==**眼光狭隘的，乡土气的**== `be provincial` [贬义] `provincial attitudes` [贬义]；
+**n.** ③==**外省人，地方居民**== `the provincials` [通用]；
 
 > [!tip] 原型义
 > **原型义**：省的（属于某个省份/地方行政区的）
@@ -127,8 +127,12 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The researchers proposed a provincial solution to the problem. `[例]`
-> - The company adopted a provincial approach to improve efficiency. `[例]`
+> - The provincial government announced new funding for rural schools. `[例]`
+>   - 中译：省政府宣布为农村学校提供新资金。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provincial
+> - He has a rather provincial outlook and rarely travels abroad. `[例]`
+>   - 中译：他的眼界相当狭隘，很少出国旅行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/provincial
 
 ## 主动产出
 
